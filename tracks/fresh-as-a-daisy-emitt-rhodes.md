@@ -1,0 +1,46 @@
+---
+artists:
+- Emitt Rhodes
+features: []
+genres: []
+key: fresh-as-a-daisy-emitt-rhodes
+name: Fresh As A Daisy
+rankings:
+- end_date: '1971-01-15'
+  rank: 88
+  ranking_list: Billboard Hot 100
+  start_date: '1971-01-09'
+- end_date: '1971-01-22'
+  rank: 69
+  ranking_list: Billboard Hot 100
+  start_date: '1971-01-16'
+- end_date: '1971-01-29'
+  rank: 61
+  ranking_list: Billboard Hot 100
+  start_date: '1971-01-23'
+- end_date: '1971-02-05'
+  rank: 60
+  ranking_list: Billboard Hot 100
+  start_date: '1971-01-30'
+- end_date: '1971-02-12'
+  rank: 59
+  ranking_list: Billboard Hot 100
+  start_date: '1971-02-06'
+- end_date: '1971-02-19'
+  rank: 54
+  ranking_list: Billboard Hot 100
+  start_date: '1971-02-13'
+- end_date: '1971-02-26'
+  rank: 54
+  ranking_list: Billboard Hot 100
+  start_date: '1971-02-20'
+- end_date: '1971-03-05'
+  rank: 60
+  ranking_list: Billboard Hot 100
+  start_date: '1971-02-27'
+- end_date: '1971-03-12'
+  rank: 63
+  ranking_list: Billboard Hot 100
+  start_date: '1971-03-06'
+---
+

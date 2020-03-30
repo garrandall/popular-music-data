@@ -1,0 +1,38 @@
+---
+artists:
+- The Shirelles
+features: []
+genres: []
+key: thank-you-baby-the-shirelles
+name: Thank You Baby
+rankings:
+- end_date: '1964-07-24'
+  rank: 86
+  ranking_list: Billboard Hot 100
+  start_date: '1964-07-18'
+- end_date: '1964-07-31'
+  rank: 78
+  ranking_list: Billboard Hot 100
+  start_date: '1964-07-25'
+- end_date: '1964-08-07'
+  rank: 71
+  ranking_list: Billboard Hot 100
+  start_date: '1964-08-01'
+- end_date: '1964-08-14'
+  rank: 63
+  ranking_list: Billboard Hot 100
+  start_date: '1964-08-08'
+- end_date: '1964-08-21'
+  rank: 77
+  ranking_list: Billboard Hot 100
+  start_date: '1964-08-15'
+- end_date: '1964-08-28'
+  rank: 76
+  ranking_list: Billboard Hot 100
+  start_date: '1964-08-22'
+- end_date: '1964-09-04'
+  rank: 81
+  ranking_list: Billboard Hot 100
+  start_date: '1964-08-29'
+---
+

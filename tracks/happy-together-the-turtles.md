@@ -1,0 +1,70 @@
+---
+artists:
+- The Turtles
+features: []
+genres: []
+key: happy-together-the-turtles
+name: Happy Together
+rankings:
+- end_date: '1967-02-17'
+  rank: 79
+  ranking_list: Billboard Hot 100
+  start_date: '1967-02-11'
+- end_date: '1967-02-24'
+  rank: 62
+  ranking_list: Billboard Hot 100
+  start_date: '1967-02-18'
+- end_date: '1967-03-03'
+  rank: 41
+  ranking_list: Billboard Hot 100
+  start_date: '1967-02-25'
+- end_date: '1967-03-10'
+  rank: 21
+  ranking_list: Billboard Hot 100
+  start_date: '1967-03-04'
+- end_date: '1967-03-17'
+  rank: 8
+  ranking_list: Billboard Hot 100
+  start_date: '1967-03-11'
+- end_date: '1967-03-24'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '1967-03-18'
+- end_date: '1967-03-31'
+  rank: 1
+  ranking_list: Billboard Hot 100
+  start_date: '1967-03-25'
+- end_date: '1967-04-07'
+  rank: 1
+  ranking_list: Billboard Hot 100
+  start_date: '1967-04-01'
+- end_date: '1967-04-14'
+  rank: 1
+  ranking_list: Billboard Hot 100
+  start_date: '1967-04-08'
+- end_date: '1967-04-21'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '1967-04-15'
+- end_date: '1967-04-28'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '1967-04-22'
+- end_date: '1967-05-05'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '1967-04-29'
+- end_date: '1967-05-12'
+  rank: 5
+  ranking_list: Billboard Hot 100
+  start_date: '1967-05-06'
+- end_date: '1967-05-19'
+  rank: 16
+  ranking_list: Billboard Hot 100
+  start_date: '1967-05-13'
+- end_date: '1967-05-26'
+  rank: 33
+  ranking_list: Billboard Hot 100
+  start_date: '1967-05-20'
+---
+

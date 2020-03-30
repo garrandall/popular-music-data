@@ -1,0 +1,34 @@
+---
+artists:
+- Marv Johnson
+features: []
+genres: []
+key: merry-go-round-marv-johnson
+name: Merry-Go-Round
+rankings:
+- end_date: '1961-03-19'
+  rank: 90
+  ranking_list: Billboard Hot 100
+  start_date: '1961-03-13'
+- end_date: '1961-03-26'
+  rank: 87
+  ranking_list: Billboard Hot 100
+  start_date: '1961-03-20'
+- end_date: '1961-04-02'
+  rank: 84
+  ranking_list: Billboard Hot 100
+  start_date: '1961-03-27'
+- end_date: '1961-04-09'
+  rank: 67
+  ranking_list: Billboard Hot 100
+  start_date: '1961-04-03'
+- end_date: '1961-04-16'
+  rank: 61
+  ranking_list: Billboard Hot 100
+  start_date: '1961-04-10'
+- end_date: '1961-04-23'
+  rank: 66
+  ranking_list: Billboard Hot 100
+  start_date: '1961-04-17'
+---
+

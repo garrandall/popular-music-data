@@ -1,0 +1,22 @@
+---
+artists:
+- Jimmy Smith With Kenny Burrell And Grady Tate
+features: []
+genres: []
+key: the-organ-grinder-s-swing-jimmy-smith-with-kenny-burrell-and-grady-tate
+name: The Organ Grinder's Swing
+rankings:
+- end_date: '1965-10-08'
+  rank: 100
+  ranking_list: Billboard Hot 100
+  start_date: '1965-10-02'
+- end_date: '1965-10-15'
+  rank: 92
+  ranking_list: Billboard Hot 100
+  start_date: '1965-10-09'
+- end_date: '1965-11-05'
+  rank: 99
+  ranking_list: Billboard Hot 100
+  start_date: '1965-10-30'
+---
+

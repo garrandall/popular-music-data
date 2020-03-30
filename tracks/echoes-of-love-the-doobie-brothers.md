@@ -1,0 +1,38 @@
+---
+artists:
+- The Doobie Brothers
+features: []
+genres: []
+key: echoes-of-love-the-doobie-brothers
+name: Echoes Of Love
+rankings:
+- end_date: '1977-10-14'
+  rank: 87
+  ranking_list: Billboard Hot 100
+  start_date: '1977-10-08'
+- end_date: '1977-10-21'
+  rank: 85
+  ranking_list: Billboard Hot 100
+  start_date: '1977-10-15'
+- end_date: '1977-10-28'
+  rank: 80
+  ranking_list: Billboard Hot 100
+  start_date: '1977-10-22'
+- end_date: '1977-11-04'
+  rank: 76
+  ranking_list: Billboard Hot 100
+  start_date: '1977-10-29'
+- end_date: '1977-11-11'
+  rank: 73
+  ranking_list: Billboard Hot 100
+  start_date: '1977-11-05'
+- end_date: '1977-11-18'
+  rank: 66
+  ranking_list: Billboard Hot 100
+  start_date: '1977-11-12'
+- end_date: '1977-11-25'
+  rank: 99
+  ranking_list: Billboard Hot 100
+  start_date: '1977-11-19'
+---
+

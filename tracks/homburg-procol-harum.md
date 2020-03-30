@@ -1,0 +1,30 @@
+---
+artists:
+- Procol Harum
+features: []
+genres: []
+key: homburg-procol-harum
+name: Homburg
+rankings:
+- end_date: '1967-11-03'
+  rank: 66
+  ranking_list: Billboard Hot 100
+  start_date: '1967-10-28'
+- end_date: '1967-11-10'
+  rank: 47
+  ranking_list: Billboard Hot 100
+  start_date: '1967-11-04'
+- end_date: '1967-11-17'
+  rank: 37
+  ranking_list: Billboard Hot 100
+  start_date: '1967-11-11'
+- end_date: '1967-11-24'
+  rank: 34
+  ranking_list: Billboard Hot 100
+  start_date: '1967-11-18'
+- end_date: '1967-12-01'
+  rank: 51
+  ranking_list: Billboard Hot 100
+  start_date: '1967-11-25'
+---
+

@@ -1,0 +1,26 @@
+---
+artists:
+- The Kingsmen
+features: []
+genres: []
+key: killer-joe-the-kingsmen
+name: Killer Joe
+rankings:
+- end_date: '1966-04-08'
+  rank: 88
+  ranking_list: Billboard Hot 100
+  start_date: '1966-04-02'
+- end_date: '1966-04-15'
+  rank: 81
+  ranking_list: Billboard Hot 100
+  start_date: '1966-04-09'
+- end_date: '1966-04-22'
+  rank: 77
+  ranking_list: Billboard Hot 100
+  start_date: '1966-04-16'
+- end_date: '1966-04-29'
+  rank: 85
+  ranking_list: Billboard Hot 100
+  start_date: '1966-04-23'
+---
+

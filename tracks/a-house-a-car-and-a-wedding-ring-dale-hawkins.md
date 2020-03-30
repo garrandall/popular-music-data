@@ -1,0 +1,30 @@
+---
+artists:
+- Dale Hawkins
+features: []
+genres: []
+key: a-house-a-car-and-a-wedding-ring-dale-hawkins
+name: A House A Car And A Wedding Ring
+rankings:
+- end_date: '1958-11-16'
+  rank: 97
+  ranking_list: Billboard Hot 100
+  start_date: '1958-11-10'
+- end_date: '1958-11-23'
+  rank: 99
+  ranking_list: Billboard Hot 100
+  start_date: '1958-11-17'
+- end_date: '1958-12-07'
+  rank: 88
+  ranking_list: Billboard Hot 100
+  start_date: '1958-12-01'
+- end_date: '1958-12-14'
+  rank: 89
+  ranking_list: Billboard Hot 100
+  start_date: '1958-12-08'
+- end_date: '1958-12-21'
+  rank: 94
+  ranking_list: Billboard Hot 100
+  start_date: '1958-12-15'
+---
+

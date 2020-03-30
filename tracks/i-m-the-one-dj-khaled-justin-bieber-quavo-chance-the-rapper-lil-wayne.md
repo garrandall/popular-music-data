@@ -1,0 +1,102 @@
+---
+artists:
+- DJ Khaled
+features:
+- Justin Bieber
+- Quavo
+- Chance The Rapper
+- Lil Wayne
+genres: []
+key: i-m-the-one-dj-khaled-justin-bieber-quavo-chance-the-rapper-lil-wayne
+name: I'm The One
+rankings:
+- end_date: '2017-05-26'
+  rank: 1
+  ranking_list: Billboard Hot 100
+  start_date: '2017-05-20'
+- end_date: '2017-06-02'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-05-27'
+- end_date: '2017-06-09'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-06-03'
+- end_date: '2017-06-16'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-06-10'
+- end_date: '2017-06-23'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-06-17'
+- end_date: '2017-06-30'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-06-24'
+- end_date: '2017-07-07'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '2017-07-01'
+- end_date: '2017-07-14'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '2017-07-08'
+- end_date: '2017-07-21'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '2017-07-15'
+- end_date: '2017-07-28'
+  rank: 2
+  ranking_list: Billboard Hot 100
+  start_date: '2017-07-22'
+- end_date: '2017-08-04'
+  rank: 3
+  ranking_list: Billboard Hot 100
+  start_date: '2017-07-29'
+- end_date: '2017-08-11'
+  rank: 4
+  ranking_list: Billboard Hot 100
+  start_date: '2017-08-05'
+- end_date: '2017-08-18'
+  rank: 4
+  ranking_list: Billboard Hot 100
+  start_date: '2017-08-12'
+- end_date: '2017-08-25'
+  rank: 6
+  ranking_list: Billboard Hot 100
+  start_date: '2017-08-19'
+- end_date: '2017-09-01'
+  rank: 10
+  ranking_list: Billboard Hot 100
+  start_date: '2017-08-26'
+- end_date: '2017-09-08'
+  rank: 11
+  ranking_list: Billboard Hot 100
+  start_date: '2017-09-02'
+- end_date: '2017-09-15'
+  rank: 16
+  ranking_list: Billboard Hot 100
+  start_date: '2017-09-09'
+- end_date: '2017-09-22'
+  rank: 24
+  ranking_list: Billboard Hot 100
+  start_date: '2017-09-16'
+- end_date: '2017-09-29'
+  rank: 29
+  ranking_list: Billboard Hot 100
+  start_date: '2017-09-23'
+- end_date: '2017-10-06'
+  rank: 35
+  ranking_list: Billboard Hot 100
+  start_date: '2017-09-30'
+- end_date: '2017-10-13'
+  rank: 39
+  ranking_list: Billboard Hot 100
+  start_date: '2017-10-07'
+- end_date: '2017-10-20'
+  rank: 42
+  ranking_list: Billboard Hot 100
+  start_date: '2017-10-14'
+---
+

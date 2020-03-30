@@ -1,0 +1,22 @@
+---
+artists:
+- Spider
+features: []
+genres: []
+key: everything-is-alright-spider
+name: Everything Is Alright
+rankings:
+- end_date: '1980-08-08'
+  rank: 88
+  ranking_list: Billboard Hot 100
+  start_date: '1980-08-02'
+- end_date: '1980-08-15'
+  rank: 86
+  ranking_list: Billboard Hot 100
+  start_date: '1980-08-09'
+- end_date: '1980-08-22'
+  rank: 99
+  ranking_list: Billboard Hot 100
+  start_date: '1980-08-16'
+---
+
