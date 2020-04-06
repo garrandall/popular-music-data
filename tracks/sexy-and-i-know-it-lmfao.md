@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sexy-and-i-know-it-lmfao
+lyrics_url: https://www.azlyrics.com/lyrics/lmfao/sexyandiknowit.html
 name: Sexy And I Know It
 rankings:
 - end_date: '2011-09-23'
@@ -175,4 +176,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-30'
 ---
+
+When I walk on by, girls be looking like damn he fly
+I pimp to the beat, walking on the street in my new LaFreak, yeah
+This is how I roll, animal print pants outta control,
+It's Redfoo with the big afro
+And like Bruce Leroy I got the glow *
+
+Ah... Girl look at that body 
+Ah... I work out
+Ah... Girl look at that body 
+Ah... I work out
+
+When I walk in the spot (yeah), this is what I see (OK)
+Everybody stops and they staring at me
+I got passion in my pants and I ain't afraid to show it, show it, show it, show it
+
+I'm sexy and I know it 
+
+When I'm at the mall, security just can't fight them all
+And when I'm at the beach, I'm in a Speedo trying to tan my cheeks (what?)
+This is how I roll, come on ladies it's time to go
+We headed to the bar, baby don't be nervous
+No shoes, no shirt, and I still get service (watch)
+
+Ah... Girl look at that body 
+Ah... I work out
+Ah... Girl look at that body 
+I work out
+
+When I walk in the spot (yeah), this is what I see (OK)
+Everybody stops and they staring at me
+I got passion in my pants and I ain't afraid to show it, show it, show it, show it
+
+I'm sexy and I know it 
+Check it out 
+
+Wiggle, wiggle, wiggle, wiggle, wiggle yeah 
+Wiggle, wiggle, wiggle, wiggle, wiggle yeah, yeah
+
+Do the wiggle man
+I do the wiggle man
+Yeah
+I'm sexy and I know it
+
+Ah... Girl look at that body 
+Ah... I work out
+Ah... Girl look at that body 
+Ah... I work out
+
+Yeah I'm sexy and I know it!
+
+
+
+
 

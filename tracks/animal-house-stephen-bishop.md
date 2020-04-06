@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: animal-house-stephen-bishop
+lyrics_url: https://www.azlyrics.com/lyrics/stephenbishop/animalhouse.html
 name: Animal House
 rankings:
 - end_date: '1978-12-29'
@@ -27,4 +28,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+
+Let me tell you 'bout some friends I know
+They're kinda crazy but you'll dig the show
+They can party till the break of dawn
+At Delta Chi you can't go wrong
+
+Otter, he's the ladies man
+Every girl falls into his hands
+Boon and Katy playing "Cat and Mouse"
+And Mrs. Wormer, she's the queen of the
+
+Animal House...
+
+That Pinto he's a real swell guy
+Clorette was jailbait but he gave her a try
+Chip, Doug, and Greg, they're second to none
+They studied under Attila the Hun
+
+Mr. Jennings has got his wig on tight
+Flouder's left shoe's always on his right
+Babs and Mandy are having a pillow fight
+With Day, Hoover, Otis Day and the Knights
+
+Do the Bluto
+Come on baby, dance with me
+Maybe if we do the Bluto
+We will get an "A" in lobotomy
+
+Do the Bluto
+Do the Bluto
+
+Do the Bluto
+Do the Bluto
+
+Aw, come on!
+Let me tell ya
+
+Dean Wormer tried to shut us down
+But he fell and he broke his crown
+He didn't know about the Delta spunk
+He came in handy when we were short a skunk
+
+At the
+Animal House...
+
+
 

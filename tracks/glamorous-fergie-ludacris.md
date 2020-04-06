@@ -5,6 +5,7 @@ features:
 - Ludacris
 genres: []
 key: glamorous-fergie-ludacris
+lyrics_url: https://www.azlyrics.com/lyrics/fergie/glamorous.html
 name: Glamorous
 rankings:
 - end_date: '2007-02-02'
@@ -124,4 +125,125 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
 ---
+
+Are you ready?
+
+If you ain't got no money take your broke ass home.
+You say, "If you ain't got no money take your broke ass home."
+
+G-L-A-M-O-R-O-U-S.
+G-L-A-M-O-R-O-U-S.
+
+We flying the first class
+Up in the sky.
+Poppin' champagne,
+Livin' the life
+In the fast lane,
+And I won't change
+By the glamorous, oh, the flossy flossy
+
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy
+
+Wear them gold and diamonds rings
+All them things don't mean a thing
+Chaperons and limousines
+Shopping for expensive things
+
+I be on the movie screens
+Magazines and bougie scenes
+I'm not clean, I'm not pristine
+I'm no queen, I'm no machine
+
+I still go to Taco Bell
+Drive through, raw as hell
+I don't care, I'm still real
+No matter how many records I sell
+
+After the show or after the Grammies
+I like to go cool out with the family
+Sippin', reminiscing on days
+When I had a Mustang
+And now I'm in...
+
+We flying the first class
+Up in the sky.
+Poppin' champagne,
+Livin' the life
+In the fast lane.
+And I won't change
+By the glamorous, oh, the flossy flossy.
+
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy
+
+
+I'm talking Champagne wishes, caviar dreams
+You deserve nothing but all the finer things
+Now this whole world has no clue what to do with us
+I've got enough money in the bank for the two of us
+Plus I gotta keep enough lettuce
+To support your shoe fetish
+Lifestyles so rich and famous
+Robin Leach will get jealous
+Half a million for the stones
+Taking trips from here to Rome
+So If you ain't got no money take your broke ass home
+
+G-L-A-M-O-R-O-U-S
+G-L-A-M-O-R-O-U-S
+
+We flying the first class
+Up in the sky.
+Poppin' champagne,
+Livin' the life
+In the fast lane.
+I won't change
+By the glamorous, oh, the flossy flossy.
+
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy.
+The glamorous
+The glamorous, glamorous (the glamorous life)
+By the glamorous, oh, the flossy flossy.
+
+I got problems up to here
+I've got people in my ear
+Telling me these crazy things
+That I don't want to know (fuck y'all)
+
+I've got money in the bank
+And I'd really like to thank
+All the fans, I'd like to thank
+Thank you really though
+
+'Cause I remember yesterday
+When I dreamt about the days
+When I'd rock on MTV,
+That'd be really dope
+
+Damn, It's been a long road
+And the industry is cold
+I'm glad my daddy told me so,
+He let his daughter know
+
+(If you ain't got no money take your broke ass home)
+My daddy told me so
+(If you ain't got no money take your broke ass home)
+He let his daughter know
+(I said if you ain't got no money take your broke ass home)
+My daddy told me so
+(If you ain't go no money take your broke ass home)
+He let his daughter know
+
+
 

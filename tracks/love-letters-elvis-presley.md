@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-letters-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/fadedlove.html
 name: Love Letters
 rankings:
 - end_date: '1966-07-08'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
 ---
+
+As I read the letters that you wrote to me
+Well it's you, it's you that I'm thinking of
+As I read the lines that to me were so sweet
+I remember our faded love
+
+I miss you darlin' more and more everyday
+As heaven would miss the stars above
+With every heartbeat, I still think of you
+And remember our faded love
+
+As I think of the past, all the pleasures that we had
+As I watch the mating of the doves
+It was in the springtime that you said goodbye
+I remember our faded love
+
+I miss you darlin' more and more everyday
+As heaven would miss the stars above
+With every heartbeat, I still think of you
+And remember our faded love
+
+
 

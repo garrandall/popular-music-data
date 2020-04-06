@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: for-emily-whenever-i-may-find-her-simon-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/foremilywheneverimayfindher.html
 name: For Emily Whenever I May Find Her
 rankings:
 - end_date: '1972-09-08'
@@ -36,4 +37,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
 ---
+
+What a dream I had, pressed in organdy
+Clothed in crinoline of smoky Burgundy
+Softer than the rain.
+
+I wandered empty streets, down past the shop displays
+I heard cathedral bells tripping down the alley ways
+As I walked on.
+
+And when you ran to me, your cheeks flushed with the night
+We walked on frosted fields of juniper and lamplight
+I held your hand.
+
+And when I awoke and felt you warm and near
+I kissed your honey hair with my grateful tears
+Oh I love you, girl
+Oh I love you.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-train-to-london-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/lasttraintolondon.html
 name: Last Train To London
 rankings:
 - end_date: '1979-12-14'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
 ---
+
+It was 9-29,9-29 back street big city.
+The sun was going' down,there was music all around
+It felt so right.
+
+It was one of those nights,one of those nights when
+you feel the world stop turnin',you were standing
+There,there was music in the air.I should have been
+Away,but I knew I'd have to stay.
+
+
+Last train to London,just headin' out,
+Last train to London,just leavin' town.
+But I really want tonight to last forever
+I really wanna be with you.
+Let the music play on down the line tonight.
+
+It was one of those nights,one of those nights when
+You feel the fire is burnin',everybody was there,
+Everybody to share,it felt so right.
+
+There you were on your own,lookin' like you were
+The only one around,I had to be with you,
+Nothin' else that I could do,
+I should have been away,but I knew I'd have to say.
+
+
+
+Underneath a starry sky,time was still but hours
+Must really have rushed by,I didn't realize
+But love was in your eyes I really should have
+Gone,but love went on and on...
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tallahassee-lassie-freddy-cannon
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/tallahasseelassie.html
 name: Tallahassee Lassie
 rankings:
 - end_date: '1959-05-17'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
 ---
+
+Well she comes from Tallahassee
+She got a hot, wide chassis
+Maybe looks a little trashy
+But to me she's real classy
+Yeah my Tallahassee Lassie
+Down in FLA
+
+Well she's rompin' to the drag
+Cha Cha like her mom
+Drove me to the shag
+Drops the bunny hop
+Well she dances to the bop
+She dances to the stroll
+She dances to the walk, whoa, she can rock 'n' roll
+She's my Tallahassee Lassie
+Yeah my Tallahassee Lassie
+Yeah my Tallahassee Lassie
+Down in FLA
+
+Well she's rompin' to the drag
+Cha Cha like her mom
+Drove me to the shag
+Drops the bunny hop
+Well she dances to the bop
+She dances to the stroll
+She dances to the walk, whoa, she can rock 'n' roll
+She's my Tallahassee Lassie
+Yeah my Tallahassee Lassie
+Yeah my Tallahassee Lassie
+Down in FLA
+
+Well she comes from Tallahassee
+She got a hot, wide chassis
+Maybe looks a little trashy
+But to me she's real classy
+Yeah my Tallahassee Lassie
+Down in FLA
+
+Come on baby
+Come on baby
+Come on baby
+Come on baby
+You're my Tallahassee Lassie down in FLA
+Come on baby
+Come on baby
+Come on baby
+Come on baby
+You're my Tallahassee Lassie down in FLA
+Come on baby
+Come on baby
+Come on baby
+Come on baby
+You're my Tallahassee Lassie down in FLA
+
+
 

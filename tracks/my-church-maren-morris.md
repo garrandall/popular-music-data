@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-church-maren-morris
+lyrics_url: https://www.azlyrics.com/lyrics/homefree/mychurch.html
 name: My Church
 rankings:
 - end_date: '2016-02-19'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
 ---
+
+I've cussed on a Sunday
+I've cheated and I've lied
+I've fallen down from grace
+A few too many times
+But I find holy redemption
+When I put this car in drive
+Roll the windows down and turn up the dial
+
+Can I get a hallelujah
+Can I get an amen
+Feels like the Holy Ghost running through ya
+When I play the highway FM
+I find my soul revival
+Singing every single verse
+Yeah I guess that's my church
+
+When Hank brings the sermon
+And Cash leads the choir
+It gets my cold cold heart burning
+Hotter than a ring of fire
+When this wonderful world gets heavy
+And I need to find my escape
+I just keep the wheels rolling, radio scrolling
+Until my sins wash away
+
+Can I get a hallelujah
+Can I get an amen
+Feels like the Holy Ghost running through ya
+When I play the highway FM
+I find my soul revival
+Singing every single verse
+Yeah I guess that's my church
+
+And the people sing
+Amen, amen, amen, amen, amen...
+
+Can I get a hallelujah
+Can I get an amen
+Feels like the Holy Ghost running through ya
+When I play the highway FM
+I find my soul revival
+Singing every single verse
+Yeah I guess that's my church
+
+Can I get a hallelujah
+Can I get an amen
+Feels like the Holy Ghost running through ya
+When I play the highway FM
+I find my soul revival
+Singing every single verse
+Yeah I guess that's my church
+Yeah I guess that's my church
+Yeah I guess that's my church
+
+
 

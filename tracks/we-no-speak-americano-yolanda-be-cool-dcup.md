@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: we-no-speak-americano-yolanda-be-cool-dcup
+lyrics_url: https://www.azlyrics.com/lyrics/yolandabecool/wenospeakamericano.html
 name: We No Speak Americano
 rankings:
 - end_date: '2010-10-08'
@@ -88,4 +89,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
 ---
+
+Comme te po'
+Comme te po'
+Comme te po' capÃ¬ chi te vÃ² bene
+Si tu le parle 'mmiezzo americano?
+Quando se fa l'ammore sotto 'a luna
+Come te vene 'capa e di: "I love you!?"
+
+Pa pa l' americano
+Pa pa l' americano
+Pa pa l' americano
+
+Fa l' americano!
+
+Pa pa l' americano
+Fa fa l' americano
+
+Whisky soda e rockenroll
+Whisky soda e rockenroll
+Whisky soda e rockenroll
+
+
 

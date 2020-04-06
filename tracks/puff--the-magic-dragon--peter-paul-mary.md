@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: puff--the-magic-dragon--peter-paul-mary
+lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/puffthemagicdragon.html
 name: Puff (The Magic Dragon)
 rankings:
 - end_date: '1963-03-22'
@@ -65,4 +66,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
 ---
+
+Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+Little Jackie Paper loved that rascal Puff
+And brought him strings and sealing wax and other fancy stuff
+
+Oh, Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+
+Together they would travel on a boat with billowed sail
+Jackie kept a lookout perched on Puff's gigantic tail
+Noble kings and princes would bow whene'er they came
+Pirate ships would lower their flags when Puff roared out his name
+
+Oh, Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+
+A dragon lives forever, but not so little boys
+Painted wings and giant's rings make way for other toys
+One gray night it happened, Jackie Paper came no more
+And Puff, that mighty dragon, he ceased his fearless roar
+
+His head was bent in sorrow, green scales fell like rain
+Puff no longer went to play along the cherry lane
+Without his lifelong friend, Puff could not be brave
+So Puff, that mighty dragon, sadly slipped into his cave
+
+Oh, Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+Puff the magic dragon lived by the sea
+And frolicked in the autumn mist in a land called Honali
+
+
 

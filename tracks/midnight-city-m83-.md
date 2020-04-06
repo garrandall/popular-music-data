@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-city-m83-
+lyrics_url: https://www.azlyrics.com/lyrics/m83/midnightcity.html
 name: Midnight City
 rankings:
 - end_date: '2012-03-30'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
 ---
+
+Waiting in the car
+Waiting for a ride in the dark
+At night the night city grows
+Look at the horizon glow
+
+Waiting in the car
+Waiting for a ride in the dark
+Drinking in the lights
+Following the neon signs
+
+Waiting for a word
+Looking at the milky skyline
+The city is my church (city is my church)
+It wraps me in its blinding twilight
+
+Waiting in a car
+Waiting for a ride in the dark
+Waiting in a car
+Waiting for the right time
+Waiting in a car
+Waiting for the right time
+Waiting in a car
+Waiting for the right time
+Waiting in a car
+Waiting for the right time
+Waiting in a car
+Waiting for the right time
+Waiting in a car
+Waiting for the right time
+
+
 

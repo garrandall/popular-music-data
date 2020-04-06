@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cotton-eye-joe-rednex
+lyrics_url: https://www.azlyrics.com/lyrics/rednex/cottoneyejoe.html
 name: Cotton Eye Joe
 rankings:
 - end_date: '1995-03-17'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
 ---
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+He came to town like a midwinter storm
+He rode through the fields so handsome and strong
+His eyes was his tools and his smile was his gun
+But all he had come for was having some fun
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+He brought disaster wherever he went
+The hearts of the girls was to hell broken sent
+They all ran away so nobody would know
+And left only men cause of cotton-eyed Joe
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+If it hadn't been for cotton-eyed Joe
+I'd been married long time ago
+Where did you come from? Where did you go?
+Where did you come from, cotton-eyed Joe?
+
+
 

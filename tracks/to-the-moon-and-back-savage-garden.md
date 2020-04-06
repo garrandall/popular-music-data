@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-the-moon-and-back-savage-garden
+lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/tothemoonandback.html
 name: To The Moon And Back
 rankings:
 - end_date: '1997-08-01'
@@ -139,4 +140,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
 ---
+
+She's taking her time making up 
+the reasons 
+To justify all the hurt inside 
+Guess she knows from the smile 
+and the look in their eyes 
+Everyone's got a theory about the 
+bitter one 
+They're saying, "Mamma never loved 
+her much" 
+And, "Daddy never keeps in touch 
+That's why she shies away from 
+human affection" 
+But somewhere in a private place 
+She packs her bags for outer space 
+And now she's waiting for the right 
+kind of pilot to come 
+And she'll say to him 
+She's saying 
+
+ 
+I would fly to the moon & back if 
+you'll be... 
+If you'll be my baby 
+Got a ticket for a world where we 
+belong 
+So would you be my baby? 
+
+She can't remember a time when she 
+felt needed 
+If love was red then she was colour 
+blind 
+All her friends they've been tried for 
+treason 
+And crimes that were never defined 
+She's saying, "Love is like a barren 
+place, 
+And reaching out for human faith is 
+Is like a journey I just don't have a 
+map for" 
+So baby's gonna take a dive and 
+Push the shift to overdrive 
+Send a signal that she's hanging 
+All her hopes on the stars 
+What a pleasant dream 
+Just saying 
+
+
+
+(hold on... hold on...) 
+
+Mamma never loved her much 
+And Daddy never keeps in touch 
+That's why she shies away from 
+human affection 
+But somewhere in a private place 
+She packs her bags for outer space 
+And now she's waiting for the right 
+kind of pilot to come 
+And she'll say to him 
+Just saying 
+
+
+
+
 

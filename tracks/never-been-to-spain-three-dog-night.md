@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-been-to-spain-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/cher/neverbeentospain.html
 name: Never Been To Spain
 rankings:
 - end_date: '1971-12-31'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
 ---
+
+Well I never been to Spain
+But I kinda like the music
+Say the ladies are insane there
+And they sure know how to use it
+The don't abuse it
+Never gonna lose it
+I can't refuse it
+
+Well I never been to England
+But I kinda like the Beatles
+Well, I headed for Las Vegas
+Only made it out to Needles
+Can you feel it
+It must be real it
+Feels so good
+Oh, feels so good
+
+Well I never been to heaven
+But I been to Oklahoma
+Well they tell me I was born there
+But I really don't remember
+In Oklahoma, not Arizona
+What does it matter
+What does it matter
+
+Well I never been to Spain
+But I kinda like the music
+Say the ladies are insane there
+And they sure know how to use it
+They don't abuse it
+Never gonna lose it
+I can't refuse it
+
+Well I never been to heaven
+But I been to Oklahoma
+Well they tell me I was born there
+But I really don't remember
+In Oklahoma, not Arizona
+What does it matter
+What does it matter
+
+
 

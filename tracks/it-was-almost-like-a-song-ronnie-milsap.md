@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-was-almost-like-a-song-ronnie-milsap
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/itwasalmostlikeasong.html
 name: It Was Almost Like A Song
 rankings:
 - end_date: '1977-06-24'
@@ -95,4 +96,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+
+Once in every life... someone comes along,
+And you came to me... it was almost like a song.
+
+You were in my heart... right where you belong,
+And we were so in love... it was almost like a song.
+
+January through December... we had such a perfect year,
+Then the flames became a dying ember...
+All at once you weren't here.
+
+Now my broken heart... cries for you each night,
+And it's almost like a song... but it's much too sad to write.
+
+Now my broken heart... cries for you each night,
+And it's almost like a song... but it's much to sad to write...
+Much too sad to write.
+
+
 

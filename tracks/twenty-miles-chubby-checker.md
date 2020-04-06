@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twenty-miles-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/twentymiles.html
 name: Twenty Miles
 rankings:
 - end_date: '1963-03-01'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
 ---
+
+Twenty miles from my house to your house
+Twenty miles and I walk it all the way
+Twenty miles when you're in love is nothin'
+And I got to see my baby every day
+
+I walk along
+I sing a song
+Twenty miles is a long long way
+But I got to see my baby every day
+
+Lots of girls are ridin' near to my house
+Pretty girls they keep passin' by all day
+Lots of girls but I don't even see 'em
+Cause the girl I love is twenty miles away
+
+I walk along
+I sing a song
+Twenty miles is a long long way
+But I got to see my baby every day
+
+Oh ho
+
+I walk along
+I sing a song
+Twenty miles is a long long way
+But I got to see my baby every day
+
+Twenty miles is a long long way
+But I got to see my baby every day
+Oh hey  Twenty miles
+
+
 

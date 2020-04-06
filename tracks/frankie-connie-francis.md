@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: frankie-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/frankie.html
 name: Frankie
 rankings:
 - end_date: '1959-05-24'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
 ---
+
+"Frankie, where ever you are, I love you"
+
+Though you've found a new love
+I still miss you so
+I just can't forget you
+But you'll never know
+Frankie, my darling
+I'll never let you see me cry
+
+Once I was your sweetheart
+Now I'm just a friend
+Once you really loved me
+Now I just pretend
+Frankie, my darling
+I'll never let you see me cry
+
+Oh, Frankie
+I'd rather hide these teardrops deep down inside
+I'm crying
+But you'll never see I'd rather cry than have you pity me
+
+Though my nights are lonely
+Since you went away
+I'll always keep this secret
+Deep within my heart
+Frankie, my darling
+I'll never let you see me cry
+
+"Frankie, where ever you are, I love you"
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: buddy-x-neneh-cherry
+lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/buddyx.html
 name: Buddy X
 rankings:
 - end_date: '1993-04-02'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
 ---
+
+Call yourself a family man
+Talking 'bout the families plan
+To bring the sweet talk deep and down
+Works better than an average pick up line
+You put your woman out to pasture
+On the promises you gave her last year
+Peace and love is on your head
+And the grass is greener playing 'round
+Your family seed is what you spread 
+
+Buddy my friend
+Who you think you fooling
+Buddy my friend
+And what about your woman
+Buddy my friend
+Who you think you fooling
+Buddy my friend 
+
+I don't care what you do
+But there's a hypocrite that lives in you
+Cause if your woman gave her love
+In the same way that you do
+You'd feel a-way
+You know you would 
+
+Buddy my friend
+Who you think you fooling
+Buddy my friend
+And what about your woman
+Buddy my friend
+Who you think you fooling
+Buddy my friend 
+
+Buddy my friend
+Treat her that way
+And you'll be X-D soon
+Buddy X-D soon
+
+
 

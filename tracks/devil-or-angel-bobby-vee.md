@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: devil-or-angel-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/devilorangel.html
 name: Devil Or Angel
 rankings:
 - end_date: '1960-08-07'
@@ -83,4 +84,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+
+Devil or angel, I can't make up my mind
+Which one you are I'd like to wake up and find
+Devil or angel dear, whichever you are
+I miss you, I miss you, I miss you
+
+Devil or angel please say you'll be mine
+Love me or leave me, I'll go out of my mind
+Devil or angel dear, whichever you are
+I need you, I need you, I need you
+
+You look like an angel
+Your smile is divine
+But you keep me guessin'
+Will you ever be mine?
+
+Devil or angel please say you'll be mine
+Love me or leave, I've made up my mind
+Devil or angel dear, whichever you are
+I love you, I love you, I-I love you
+
+Devil or angel please say you'll be mine
+Love me or leave, I've made up my mind
+Devil or angel dear, whichever you are
+I love you, I love you, I love you
+
+
 

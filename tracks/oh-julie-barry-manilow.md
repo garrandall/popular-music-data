@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-julie-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/ohjulie.html
 name: Oh Julie
 rankings:
 - end_date: '1982-08-06'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
 ---
+
+Oh Julie, if you love me truly
+Do you want me, Julie?
+To be, to be your very own
+Julie, won't you hold me
+Julie, don't be lonely
+'Cause I want you only
+To be, to be my very own
+Baby, don't leave me
+Honey, don't grieve me
+
+Julie, why leave me alone
+Stay with me, baby
+Play with me,baby
+Honey, don't leave me alone
+Julie, never leave me
+Please don't deceive me
+Julie, oh believe me
+And be, and be my very own
+
+Oh Julie, if you love me truly
+Do you want me, Julie?
+To be, to be your very own
+Baby, don't leave me
+Honey, don't grieve me
+
+Julie, why leave me alone
+Stay with me, baby
+Play with me, baby
+Honey, don't leave me alone
+Julie, never leave me
+Please don't deceive me
+Julie, oh believe me
+And be, and be my very own
+
+To be, to be, to be
+To be, my very own
+To be, to be, to be
+To be my very own
+
+
 

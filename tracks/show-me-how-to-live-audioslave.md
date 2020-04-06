@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: show-me-how-to-live-audioslave
+lyrics_url: https://www.azlyrics.com/lyrics/audioslave/showmehowtolive.html
 name: Show Me How To Live
 rankings:
 - end_date: '2003-08-22'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
 ---
+
+And with the early dawn
+Moving right along, I couldn't buy an eye-full of sleep
+And in the aching night under satellites, I was not received
+Built with stolen parts, a telephone in my heart, someone get me a priest, to put my mind to bed
+This ringing in my head, is this a cure or is this a disease?
+
+Nail in my head, from my creator
+You gave me life, now show me how to live
+Nail in my head, from my creator
+You gave me life, now show me how to live
+
+And in the after birth, on the quiet earth, let the stains remind you, you thought you made a man
+You better think again, before my role defines you
+
+Nail in my head, from my creator
+You gave me life, now show me how to live
+Nail in my head, from my creator
+You gave me life, now show me how to live
+And in your waiting hands, I will land, and roll out of my skin
+And in your final hours I will stand, ready to begin?
+Ready to begin? ready to begin? ready to begin?
+
+Nail in my head, from my creator
+You gave me life, now show me how to live
+Nail in my head, from my creator
+You gave me life, now show me how to live
+Show me how to live, show me how to live
+Show me how to live, show me how to live
+
+
 

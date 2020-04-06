@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-it-s-me-todd-rundgren
+lyrics_url: https://www.azlyrics.com/lyrics/matthewsweet/helloitsme.html
 name: Hello It's Me
 rankings:
 - end_date: '1973-10-12'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
+
+Hello it's me
+I've thought about us for a long long time
+Maybe I think too much but something's wrong
+There's something here that doesn't last too long
+Maybe I shouldn't think of you as mine
+
+Seeing you
+Or seeing anything as much as I do
+I take for granted that you're always there
+I take for granted that you just don't care
+Sometimes I can't help seeing all the way through
+
+It's important to me that you know you are free
+'Cause I never want to make you change for me
+
+Think of me
+You know that I'd be with you if I could
+I'll come around to see you once in a while
+Or if I ever need a reason to smile
+And spend the night if you think I should
+
+It's important to me that you know you are free
+'Cause I never want to make you change for me
+
+Think of me
+You know that I'd be with you if I could
+I'll come around to see you once in a while
+Or if I ever need a reason to smile
+And spend the night if you think I should
+
+Sometimes I thought it wasn't so bad
+Sometimes I thought it wasn't so bad
+
+
 

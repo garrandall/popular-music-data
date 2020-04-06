@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: green-eyed-lady-sugarloaf
+lyrics_url: https://www.azlyrics.com/lyrics/sugarloaf/greeneyedlady.html
 name: Green-Eyed Lady
 rankings:
 - end_date: '1970-08-21'
@@ -75,4 +76,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
 ---
+
+Green-eyed lady, lovely lady
+Strolling slowly towards the sun
+Green-eyed lady, ocean lady
+Soothing every raging wave that comes
+
+Green-eyed lady, passion's lady
+Dressed in love, she lives for life to be
+Green-eyed lady feels life I never see
+Setting suns and lonely lovers free
+
+Green-eyed lady, wind-swept lady
+Rules the night, the waves, the sand
+Green-eyed lady, ocean lady
+Child of nature, friend of man
+
+Green-eyed lady, passion's lady
+Dressed in love, she lives for life to be
+Green-eyed lady feels life I never see
+Setting suns and lonely lovers free
+
+
 

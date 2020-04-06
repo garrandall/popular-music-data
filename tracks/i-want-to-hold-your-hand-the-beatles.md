@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-hold-your-hand-the-beatles
+lyrics_url: https://www.azlyrics.com/lyrics/melvins/iwanttoholdyourhand.html
 name: I Want To Hold Your Hand
 rankings:
 - end_date: '1964-01-24'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
 ---
+
+Oh yeah, I'll tell you something
+I think you'll understand
+When I'll say that something
+I want to hold your hand
+
+I want to hold your hand
+I want to hold your hand
+
+Oh please, say to me
+You'll let me be your man
+And please, say to me
+You'll let me hold your hand
+
+I'll let me hold your hand
+I want to hold your hand
+
+And when I touch you I feel happy inside
+It's such a feeling that my love
+I can't hide
+I can't hide
+I can't hide
+
+Yeah, you got that something
+I think you'll understand
+When I'll say that something
+I want to hold your hand
+
+I want to hold your hand
+I want to hold your hand
+
+And when I touch you I feel happy inside
+It's such a feeling that my love
+I can't hide
+I can't hide
+I can't hide
+
+Yeah, you got that something
+I think you'll understand
+When I feel that something
+I want to hold your hand
+
+I want to hold your hand
+I want to hold your hand
+I want to hold your hand
+
+
 

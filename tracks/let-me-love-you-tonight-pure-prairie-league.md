@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-love-you-tonight-pure-prairie-league
+lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/letmeloveyoutonight.html
 name: Let Me Love You Tonight
 rankings:
 - end_date: '1980-05-16'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+
+Dark clouds are blowing in the wind
+He's crossing your mind again
+You got that sad sad feeling from a broken heart
+Feeling so close to the edge
+
+Let me love you tonight
+There's a million stars in the sky
+Let me love you tonight
+I'll make everything all right
+
+When you find out how good love can be
+You're so lost when it's such a free
+They say once in your life
+You find someone who's right
+Someone who loves you like me
+
+Let me love you tonight
+There's a million stars in the sky
+Let me love you tonight
+I'll make everything all right
+
+When the moon has forgotten what the night is about
+And the stars can't work and phases out
+Hold me tighter than tight
+When the daylight comes it will be all right
+
+Let me love you tonight
+There's a million stars in the sky
+Let me love you tonight
+I'll make everything all right
+
+Let me love you tonight
+There's a million stars in the sky
+Let me love you tonight
+I'll make everything all right
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-slow-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/tooslow.html
 name: Too Slow
 rankings:
 - end_date: '1966-04-08'
@@ -19,4 +20,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
 ---
+
+You're too slow
+Woman, you're too slow
+Ain't got much time
+Tell me you're mine
+Woman, you're too slow
+
+Done messed up my mind
+Tryin' to figure on love
+From you all I found
+You're waiting around
+Woman, you're too slow
+
+You're too slow
+Woman, you're too slow
+Ain't got much time
+Tell me you love me
+Woman, you're too slow
+
+I got a woman
+My woman, she's too slow
+Keeps me in pain
+And it's a dog-gone shame
+A woman can be too slow
+
+Everybody's sayin'
+Woman, you're too slow
+You're gone dead and buried
+Before we get married
+Woman, you're too slow
+
+You're too slow!
+You're too slow
+You're too slow!
+You're too slow
+You're too slow!
+You're too slow
+
+
 

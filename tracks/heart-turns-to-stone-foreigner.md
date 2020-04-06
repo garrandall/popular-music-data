@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-turns-to-stone-foreigner
+lyrics_url: https://www.azlyrics.com/lyrics/foreigner/heartturnstostone.html
 name: Heart Turns To Stone
 rankings:
 - end_date: '1988-07-22'
@@ -47,4 +48,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
 ---
+
+The days and nights you sit around wondering where can
+she be
+Hoping that she might appear, out of nowhere
+But you fail to see
+
+All the hurt inside, the wounded pride
+Ooh what she went through for you
+You cheated and lied, as her love slowly died
+And her heart just broke in two
+
+When she was with you, all along
+Behind you right or wrong
+She tried to hold on, hold on
+But you went too far, and she's gone
+
+And now it's over and her heart turns to stone
+No time for pity, when her heart turns to stone
+She cries a little as her heart turns to stone
+She's that kind of woman
+She'll do fine on her own
+
+What you thought was a game
+A game you were winning
+Wouldn't go your way
+Now you've lost what you had
+And your back to the beginning
+It's the price you have to pay
+
+When she was with you, all along
+Behind you right or wrong
+She tried to hold on, hold on
+But you went too far, and she's gone
+
+And now it's over and her heart turns to stone
+No time for pity, when her heart turns to stone
+She cries a little as her heart turns to stone
+She's that kind of woman
+She'll get by on her own
+
+She hides the pain
+But her heart turns to stone
+No time for pity
+When her heart turns to stone
+She cries sometimes
+As her heart turns to stone
+She's that kind of woman
+She'll get by on her own
+
+Yeah it's over
+And her heart turns to stone
+Don't look for pity now
+When her heart turns to stone
+Listen to her cry
+Listen to her cry
+She's a woman now
+Ooh it's a sad thing to see
+To see a heart turn to stone
+The heart of a woman
+A heart turned to stone
+
+
 

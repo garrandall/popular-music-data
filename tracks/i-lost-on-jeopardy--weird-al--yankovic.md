@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-lost-on-jeopardy--weird-al--yankovic
+lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/ilostonjeopardy.html
 name: I Lost On Jeopardy
 rankings:
 - end_date: '1984-07-06'
@@ -19,4 +20,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
 ---
+
+I was there to match my intellect on national TV
+Against a plumber, oh and an architect, both with a PhD
+I was tense, I was nervous, I guess it just wasn't my night
+Art Fleming gave the answers
+Oh, but I couldn't get the questions right-ight-ight
+
+I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, ooh
+
+Well, I knew I was in trouble now
+My hope of winning sank
+Oh, 'cause I got the Daily Double now
+And then my mind went blank
+I took Potpourri for one hundred
+And then my head started to spin
+Well, I'm givin' up, Don Pardo
+Just tell me now what I didn't win, yeah, yeah
+
+I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, ooh
+
+
+That's right, Al - you lost
+And let me tell you what you didn't win: a twenty set volume of the Encyclopedia International
+A case of Turtle Wax, and a years supply of Rice-A-Roni, the San Francisco Treat
+But that's not all, you also made yourself look like a jerk in front of millions of people
+And you brought shame and disgrace to your family name for generations to come
+You don't get to come back tomorrow
+You don't even get a lousy copy of our home game
+You're a complete loser!
+
+Don't know what I was thinkin' of
+I guess I just wasn't to bright
+Well, I sure hope I do better
+Next weekend on the Price Is Right-ight-ight
+
+I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby
+
+
 

@@ -5,6 +5,7 @@ features:
 - Josey Scott
 genres: []
 key: hero-chad-kroeger-josey-scott
+lyrics_url: https://www.azlyrics.com/lyrics/chadkroeger/hero.html
 name: Hero
 rankings:
 - end_date: '2002-05-24'
@@ -96,4 +97,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
 ---
+
+I am so high, I can hear heaven.
+I am so high, I can hear heaven.
+Oh but heaven, no heaven don't hear me.
+
+And they say that a hero can save us. 
+I'm not gonna stand here and wait. 
+I'll hold on to the wings of the eagles. 
+Watch as we all fly away.
+
+Someone told me that love would all save us.
+But how can that be?
+Look what love gave us.
+A world full of killing, and blood-spilling, that
+world never came.
+
+And they say that a hero can save us.
+I'm not gonna stand here and wait.
+I'll hold on to the wings of the eagles.
+Watch as we all fly away.
+
+Now that the world isn't ending, it's love that I'm sending to you.
+It isn't the love of a hero, that's why I fear it won't do.
+
+And they say that a hero can save us.
+I'm not gonna stand here and wait.
+I'll hold on to the wings of the eagles.
+Watch as we all fly away.
+
+And they're watching us (Watching us) 
+They're watching us (watching us) as we all fly away.
+And they're watching us (Watching us) 
+They're watching us (watching us) as we all fly away.
+And they're watching us (Watching us) 
+They're watching us (watching us) as we all fly away.
+
+
 

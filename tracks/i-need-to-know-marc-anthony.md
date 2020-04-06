@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-to-know-marc-anthony
+lyrics_url: https://www.azlyrics.com/lyrics/blakelewis/ineedtoknow.html
 name: I Need To Know
 rankings:
 - end_date: '1999-09-17'
@@ -167,4 +168,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
 ---
+
+They say around the way you've asked for me
+There's even talk about you wantin' me
+I must admit that's what I wanna hear
+But that's just talk until you take me there
+
+Oh if it's true don't leave me all alone out here
+Wonderin' if you're ever gonna take me there
+Tell me what you feelin' 'cause I need to know
+Girl you've gotta let me know which way to go
+
+'Cause I need to know, I need to know
+Tell me baby girl 'cause I need to know
+I need to know, I need to know
+Tell me baby girl 'cause I need to know
+
+My every thought is of this being true
+It's getting harder not to think of you
+Girl I'm exactly where I wanna be
+The only things I need you here with me
+
+Oh if it's true don't leave me all alone out here
+Wonderin' if you're ever gonna take me there
+Tell me what you feelin' 'cause I need to know
+Girl you've gotta let me know which way to go
+
+'Cause I need to know, I need to know
+Tell me baby girl 'cause I need to know
+I need to know, I need to know
+Tell me baby girl 'cause I need to know
+
+Oh don't leave me alone, oh!
+Don't you leave me alone
+(I need to know, I need to know)
+(Tell me baby girl 'cause I need to know)
+
+
 

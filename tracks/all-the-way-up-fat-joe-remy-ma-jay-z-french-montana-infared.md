@@ -8,6 +8,7 @@ features:
 - Infared
 genres: []
 key: all-the-way-up-fat-joe-remy-ma-jay-z-french-montana-infared
+lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/allthewayupremix.html
 name: All The Way Up
 rankings:
 - end_date: '2016-04-22'
@@ -91,4 +92,140 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
 ---
+
+
+Cool and Dre
+This is, this is
+The re-mix for the city.
+Let's just start snapping
+Crack hit Bleek on the jack like let's make it happen
+Oh it's me
+
+
+Nothing can stop me, I'm all the way up
+(It's me, it's me)
+All the way up
+(It's me, it's me)
+I'm all the way up
+I'm all the way up
+Nothing can stop me, I'm all the way up
+
+
+Shorty what you want? Shorty what you need?
+My niggas run the game, we ain't ever leavin'
+Countin' up this money, we ain't never sleepin'
+You got V12, I got 12 Vs
+Got bottles, got weed, got molly
+I'm all the way up
+Shorty what you want? I got what you need
+Shorty what you want? I got what you need
+Shorty what you want? I got what you need
+
+
+I'm all the way up
+I'm all the way up
+I'm all the way up
+All the way up
+Nothing can stop me, I'm all the way up
+(Turn me all the way up...)
+
+
+You know you made it when the fact
+Your marriage made it is worth millions
+Lemonade is a popular drink and it still is
+Survival of the littest
+Niggas who really up versus nigga up in your business
+I'm in the room where real niggas not allowed
+I'm the only one in the room that they fear right now
+I think they're clear right now
+Let's celebrate, no red champagne, we don't play that
+All we see is gold bottles and paper plane hats
+Twenty one Grammy's that I use for D'usse cups
+I'm on the penthouse floor, call your way up
+The OG's say, "HOV, how high is high enough?"
+I said, "'Till we eye and eye with the higher ups."
+Until we let 'em know, we ain't those niggas
+Until our baby's showered in gold nigga
+Blue looking like Pac in the tub
+David LaChapelle levels of not giving a fuck
+Prince left his masters where they safe and sound
+We never gonna let the elevator take him down
+
+
+I'm all the way up
+I'm all the way up
+I'm all the way up
+All the way up
+(Yo, buckeyes! What up N.O.R.E?)
+Nothing can stop me, I'm all the way up
+
+
+This wasn't me this was God's doing
+And this time I won't finger roll, Pat Ewing
+They ain't wanna see the Squad and the Roc
+Now they chasing the Wraith like mister Softy's on the block
+Stars on the roof got her feeling like Venus
+Getting so much brain, now I'm a Don CartaGenius
+Ever since Pun been gone been independent
+So I went and threw the Pun Jumpman up in the pendant
+I flooded out all the crises
+Out in Paris I learned what real ice is
+I'm kicking flavor in your ear
+I just had a gray on my face and it disappeared
+I just dropped the biggest of checks, and the shit cleared
+When everybody counted us out just this year
+Uh, I'm Steph Curry in the clutch
+Take a shot of this Royal Elite and go all the way up
+
+
+I'm all the way up
+I'm all the way up
+I'm all the way up
+All the way up
+Nothing can stop me, I'm all the way up
+
+
+My swag, my flow, I stole it back
+They mad, too bad, my shows is packed
+My town, my crown, I really rap
+I'm home, my throne, I spoil you dat
+When the bitch was gone, they was really playing with it
+I was sitting listening, like, they ain't even saying shit
+Now the real is back, I see they all tryna change and shit
+But it's really too late now, I'm going back (GO!)
+One of these bitches, two of these bitches gotta die
+Three of these bitches, four of these bitches gonna cry
+Five of these bitches popping pills, they high
+Six bird bitches, none of them get fly
+See, I don't wanna hear about your records and big numbers
+Cause I was up top seven winters and six summers, cuffed
+All in that bus, locked me all the way down
+Now I'm all the way up
+
+
+I'm all the way up
+I'm all the way up
+I'm all the way up
+All the way up
+Nothing can stop me, I'm all the way up
+
+
+Shorty what you want? Shorty what you need?
+My niggas run the game, we ain't ever leavin'
+Countin' up this money, we ain't never sleepin'
+You got V12, I got 12 Vs
+Got bottles, got weed, got molly
+I'm all the way up
+Shorty what you want? I got what you need
+Shorty what you want? I got what you need
+Shorty what you want? I got what you need
+
+
+I'm all the way up
+I'm all the way up
+I'm all the way up
+All the way up
+Nothing can stop me, I'm all the way up
+
+
 

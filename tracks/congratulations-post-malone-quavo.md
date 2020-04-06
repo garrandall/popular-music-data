@@ -5,6 +5,7 @@ features:
 - Quavo
 genres: []
 key: congratulations-post-malone-quavo
+lyrics_url: https://www.azlyrics.com/lyrics/postmalone/congratulations.html
 name: Congratulations
 rankings:
 - end_date: '2017-01-06'
@@ -208,4 +209,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
 ---
+
+Mm-mmm
+Yah, yah
+Mm-mmm
+Yah (hey)
+
+
+My momma called, see you on TV, son
+Said shit done changed ever since we was on
+I dreamed it all ever since I was young
+They said I would be nothing
+Now they always say, "Congratulations" (uh)
+Worked so hard, forgot how to vacation (uh-huh)
+They ain't never had the dedication (uh)
+People hatin', say we changed and, look, we made it (uh)
+Yeah, we made it (uh)
+
+They was never friendly, yeah
+Now I'm jumping out the Bentley, yeah
+And I know I sound dramatic, yeah
+But I know I had to have it, yeah
+For the money, I'm a savage, yeah
+I be itching like a addict, yeah
+I'm surrounded, twenty bad bitches, yeah
+But they didn't know me last year, yeah
+Everyone wanna act like they important (yeah)
+But all that mean nothing when I saw my dough, yeah (yeah)
+Everyone counting on me, drop the ball, yeah (yeah)
+Everything custom like I'm at the border, yah, yah
+If you fuck with winning, put your lighters to the sky
+How could I make cents when I got millions on my mind?
+Coming with that bullshit, I just put it to the side
+Balling since a baby, they could see it in my eyes
+
+
+My momma called, see you on TV, son
+Said shit done changed ever since we was on
+I dreamed it all ever since I was young
+They said I would be nothing
+Now they always say, "Congratulations" (congratulations)
+Worked so hard, forgot how to vacation (ooh)
+They ain't never had the dedication (uh, ayy)
+People hatin', say we changed and, look, we made it (uh)
+Yeah, we made it (uh, yah)
+
+
+I was patient (yah)
+Uh, I was patient (ayy, uh)
+Now I can scream that we made it (we made it)
+Now everywhere, everywhere I go, they say 'gratulation (uh)
+Young nigga, young nigga, graduation (yah)
+I pick up the rock and I ball, baby (ball)
+I'm looking for someone to call, baby (brr)
+But right now, I got a situation (ayy)
+Never old Ben Ben Franklins (cash)
+Big rings, champagne (ooh, champagne)
+My life is like a ball game (ball game)
+But instead I'm in the trap though (trap though)
+Pot so big, call it Super Bowl (Super Bowl)
+Super Bowl, call the hoes (brr)
+Get in the Rolls (skrrt)
+Top-floor lifestyle (top)
+Huncho and Post (yah, ayy) Malone (ayy)
+I gotta play on my phone (ayy)
+You know what I'm on (ayy)
+Huncho Houdini is gone (ayy)
+
+
+My momma called, see you on TV, son
+Said shit done changed ever since we was on
+I dreamed it all ever since I was young
+They said I would be nothing
+Now they always say, "Congratulations" (ayy, uh)
+Worked so hard, forgot how to vacation (uh-huh, ooh)
+They ain't never had the dedication (ayy, uh)
+People hatin', say we changed and, look, we made it (uh)
+Yeah, we made it (ayy)
+
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+
+
 

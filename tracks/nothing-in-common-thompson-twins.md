@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-in-common-thompson-twins
+lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/nothingincommon.html
 name: Nothing In Common
 rankings:
 - end_date: '1986-08-01'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
 ---
+
+Need a helping hand of all the people in the world
+I hoped you'd understand
+You and me have grown so far apart
+Don't show me faded photographs, just tell it from the heart
+
+And after all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose, yeah yeah yeah
+
+You say that boys must never cry if we keep our feelings to ourselves
+We'll be boys until we die, oh yeah
+Inside this velvet glove, there's always been an iron fist
+Destroying all we love
+
+And after all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose, yeah yeah yeah
+
+And after all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose, yeah yeah yeah
+
+Oh, now there were times I wanted to shake you
+Break you, bring you to your knees
+Oh, now there were times I wanted to touch you
+Hold you, help me, help me please
+
+Whoa, o-whoa, such a crying shame
+You know I loved you then
+You know I love you now
+And nothing else has changed
+
+And after all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose, yeah yeah yeah
+
+After all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose
+
+After all that we've been through
+Don't you know I feel for you
+We've got nothing in common
+So much to lose
+
+
 

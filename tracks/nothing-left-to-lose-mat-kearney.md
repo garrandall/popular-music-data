@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-left-to-lose-mat-kearney
+lyrics_url: https://www.azlyrics.com/lyrics/matkearney/nothinglefttolose.html
 name: Nothing Left To Lose
 rankings:
 - end_date: '2006-10-13'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
 ---
+
+Something's in the air tonight
+The sky's alive with a burning light
+You can mark my words something's about to break
+
+And I found myself in a bitter fight
+While I've held your hand through the darkest night
+Don't know where you're coming from but you're coming soon
+
+
+To a kid from Oregon by way of California
+All of this is more than I've ever known or seen
+
+ 
+Come on and we'll sing, like we were free
+Push the pedal down watch the world around fly by us 
+Come on and we'll try, one last time
+I'm off the floor one more time to find you
+And here we go there's nothing left to choose
+And here we go there's nothing left to lose
+
+So I packed my car and I headed east
+Where I felt your fire and a sweet release 
+There's a fire in these hills that's coming down
+And I don't know much but I found you here
+And I can not wait another year
+Don't know where you're coming from but you're coming soon
+
+
+
+
+
+I can still hear the trains out my window
+From Hobart Street to here in Nashville
+I can still smell the pomegranates grow
+And I don't know how hard this wind will blow
+Or where we'll go
+
+
+
+
 

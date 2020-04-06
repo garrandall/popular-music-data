@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: questions-67-and-68-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/questions67and68.html
 name: Questions 67 And 68
 rankings:
 - end_date: '1969-08-15'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
 ---
+
+Can this feeling that we have together
+Oooh, Suddenly exist between
+Did this meeting of our minds together
+Oooh, Happen just today, somewhere
+I'd like to know,
+Can you tell me -- please don't tell me
+It really doesn't matter anyhow
+It's just that the thought of us so happy
+Appears in my mind, as a beautifully mysterious thing
+Was your image in my mind so deeply
+Was your image in my mind so deeply
+Oooh, other places fade away
+blocking memories of unhappy hours
+Oooh, Leavin' just a burnin' love
+I'd like to know,
+I'd like to know,
+Can you tell me -- please don't tell me
+It really doesn't matter anyhow
+It's just that the thought of us so happy
+Appears in my mind, as a beautifully mysterious thing
+Yes it does now baby
+Can this lovin' we have found within us
+Oooh, Suddenly exist between
+Did we somehow try to make it happen
+Oooh, Was it just a natural thing
+I'd like to know,
+Can you tell me -- please don't tell me
+It really doesn't matter anyhow
+It's just that the thought of us so happy
+Appears in my mind, as a beautifully mysterious thing
+Yes it does now baby
+Questions 67 and 68.
+
+
 

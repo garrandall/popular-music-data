@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-the-blue-debbie-gibson
+lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/outoftheblue.html
 name: Out Of The Blue
 rankings:
 - end_date: '1988-02-05'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
 ---
+
+Without you, without you
+I always thought that
+Ev'rything was fine
+Without you
+Never knowing you'd be mine
+
+Suddenly my world has changed
+And I just wonder why
+All it took was just one smile
+
+Now it's you
+Out of the blue
+Love appeared
+Before my eyes with you
+Dream come true
+I never thought I'd realize
+What love was, what love was,
+What love was
+
+I need you, I need you
+And ev'ry day I love you 
+More and more
+Without you
+I know what it's all for
+
+Suddenly I see you there
+And ev'rything's okay
+Don't know why I feel this way
+
+Now it's you
+Out of the blue
+Love appeared
+Before my eyes with you
+Dream come true
+I never thought I'd realize
+What love was, what love was,
+What love was
+Here with you
+
+
 

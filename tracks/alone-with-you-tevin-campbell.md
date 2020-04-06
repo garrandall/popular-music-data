@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-with-you-tevin-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/alonewithyou.html
 name: Alone With You
 rankings:
 - end_date: '1992-10-23'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
 ---
+
+
+We Were Holding Hands
+In The Park
+We Had To Hurry Home Before It's Dark
+I Can't Wait To See Your Smile Again
+And I Love The Time We Spend
+I Waited For The Break Of Day To Come
+So I Could See Your Smile In The Sun
+I Guess I Couldn't Wait To Get To School
+To See Your Pretty Face
+I've Got To Stay Cool
+Break It Down
+
+
+Girl Don't Leave Me, Don't Leave Me
+Oohh, The You Receive Me
+Don't Take This As An Aggression
+Girl I Learned My Lesson
+Don't Leave Me, Ooohhh
+The Natural Way You Receive Me
+Don't Take This As An Aggression 
+That's Why
+
+
+I Just Want To Be Alone With You
+And There's Nothing Else
+I'd Rather Do
+I Just Want The Chance I Had Again
+Just Us Two, Til The End
+
+
+Now Just The Other Night
+On The Phone
+I Tried To Impress You With My Tone
+I've Got To Be For Real
+If You're My Friend
+Or You'll Never Call Me Back Again
+
+
+
+
+
 

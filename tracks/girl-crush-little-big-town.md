@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-crush-little-big-town
+lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/girlcrush.html
 name: Girl Crush
 rankings:
 - end_date: '2015-02-27'
@@ -103,4 +104,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
 ---
+
+I gotta girl crush, hate to admit it but
+I gotta heart rush, ainât slowinâ down
+I got it real bad, want everything she has
+That smile and that midnight laugh sheâs giving you now
+
+I wanna taste her lips, yeah, âcause they taste like you
+I wanna drown myself in a bottle of her perfume
+I want her long blonde hair, I want her magic touch
+Yeah, âcause maybe then youâd want me just as much
+I gotta girl crush, I gotta girl crush
+
+I donât get no sleep, I donât get no peace
+Thinkinâ about her under your bed sheets
+The way that sheâs whisperinâ, the way that sheâs pullinâ you in
+Lord knows Iâve tried, I canât get her off my mind
+
+I wanna taste her lips, yeah, âcause they taste like you
+I wanna drown myself in a bottle of her perfume
+I want her long blonde hair, I want her magic touch
+Yeah, âcause maybe then youâd want me just as much
+I gotta girl crush
+
+I gotta girl crush, hate to admit it but
+I gotta heart rush, it ainât slowinâ down
+
+
 

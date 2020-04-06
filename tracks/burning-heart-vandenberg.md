@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: burning-heart-vandenberg
+lyrics_url: https://www.azlyrics.com/lyrics/vandenberg/burningheart.html
 name: Burning Heart
 rankings:
 - end_date: '1983-01-14'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
 ---
+
+Does it feel the same
+When he calls your name
+And does it feel the same
+When you play the game
+Of love
+
+When he holds you tight
+Does it feel alright
+Just like it used to do
+When I was with you
+Making love to you
+
+This burning heart of mine
+It still hurts after all this time
+This burning heart in me
+Won't let me be
+
+After all this time
+You still haunt my mind
+I just can't seem to find
+The peace of mind
+I need so bad
+
+Does it feel the same
+When he calls your name
+And does it feel the same
+When you play the game
+Of love
+
+This burning heart of mine
+It still hurts after all this time
+This burning heart in me
+Won't let me be, won't let me be
+
+This burning heart of mine
+It still hurts after all this time
+This burning heart in me
+Won't let me be
+
+This burning heart of mine
+It still hurts after all this time
+This burning heart in me
+Won't let me be, won't let me be
+
+This burning heart of mine
+It still hurts after all this time
+This burning heart in me
+Won't let me be
+
+Oooh, won't you let me be
+
+
 

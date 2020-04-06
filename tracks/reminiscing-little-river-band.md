@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reminiscing-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/reminiscing.html
 name: Reminiscing
 rankings:
 - end_date: '1978-08-04'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
 ---
+
+Friday night, it was late
+I was walking you home
+We got down to the gate
+And I was dreaming of the night
+Would it turn out right?
+
+How to tell you, girl
+I wanna build my world around you
+Tell you that it's true
+I wanna make you understand 
+I'm talking about a lifetime plan
+
+That's the way it began
+We were hand-in-hand
+Glenn Miller's band 
+Was better than before
+We yelled and screamed for more
+
+And the Porter tune (Night and Day)
+Made us dance across the room
+It ended all too soon
+And on the way back home 
+I promised you'd never be alone
+
+Hurry, don't be late
+I can't hardly wait
+I said to myself when we're old
+We'll go dancing in the dark
+Walking through the park
+And reminiscing
+
+Friday night, it was late
+I was walking you home
+We got down to the gate
+And I was dreaming of the night
+Would it turn out right?
+
+Now as the years roll on
+Each time we hear our favorite song
+The memories come along
+Older times we're missing
+Spending the hours reminiscing
+
+Hurry, don't be late
+I can't hardly wait
+I said to myself when we're old
+We'll go dancing in the dark
+Walking through the park
+And reminiscing
+
+
 

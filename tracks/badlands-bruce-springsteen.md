@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: badlands-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/badlands.html
 name: Badlands
 rankings:
 - end_date: '1978-08-25'
@@ -39,4 +40,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
 ---
+
+Well, lights out tonight
+Trouble in the heartland
+Got a head on collision
+Smashin' in my guts, man
+I'm caught in a cross fire
+That I don't understand
+
+But there's one thing I know for sure, girl
+I don't give a damn
+For the same old played out scenes
+Baby, I don't give a damn
+For just the in-betweens
+Honey, I want the heart, I want the soul
+I want control right now
+You better listen to me, baby
+
+Talk about a dream
+Try to make it real
+You wake up in the night
+With a fear so real
+You spend your life waiting
+For a moment that just don't come
+Well, don't waste your time waiting
+
+Badlands, you gotta live it everyday
+Let the broken hearts stand
+As the price you've gotta pay
+Keep pushin' 'til it's understood
+And these badlands start treating us good
+
+Workin' in the fields
+That'll get your back burned
+Workin' 'neath the wheels
+'Til you get your facts learned
+Baby, I got my facts
+Learned real good right now
+You better get it straight, darlin'
+
+Poor man wanna be rich
+Rich man wanna be king
+And a king ain't satisfied
+'Til he rules everything
+I wanna go out tonight
+I wanna find out what I got
+
+Well, I believe in the love that you gave me
+I believe in the faith that can save me
+I believe in the hope and I pray
+That someday it may raise me
+Above these 
+
+Badlands, you gotta live it everyday
+Let the broken hearts stand
+As the price you've gotta pay
+Keep pushin' 'til it's understood
+And these badlands start treating us good
+
+For the ones who had a notion, a notion deep inside
+That it ain't no sin to be glad you're alive
+I wanna find one face that ain't looking through me
+I wanna find one place
+I wanna spit in the face of these
+
+Badlands, you gotta live it everyday
+Let the broken hearts stand
+As the price you've gotta pay
+Keep movin' 'til it's understood
+And these badlands start treating us good
+
+Whoa whoa whoa whoa badlands!
+Whoa whoa whoa whoa badlands!
+Whoa whoa whoa whoa badlands!
+Whoa whoa whoa
+
+
 

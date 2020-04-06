@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-look-good-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/andybrown/youlookgood.html
 name: You Look Good
 rankings:
 - end_date: '2017-04-28'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
 ---
+
+On a boat, on a beach
+In the water, in the sand
+In the back of a bar
+Cold beer in your hand
+Breaking hearts, breaking necks
+When we rolling down the street
+Heads turning all day
+When they see you with me
+
+I'm thinking everybody
+Better stand in line
+'Cause they don't know that your body
+Is coming with me tonight
+
+They're like, "Hey, who that there with the shades?"
+Like oh, the way you move to the bass
+Hold up, whole room gets to spinnin'
+From the second that you walk in it, baby
+You look good all day, all night
+You look good, so fresh, so fine
+You look good, got everybody watching you
+Like cameras in Hollywood
+Baby, you look good
+Baby, you look good
+
+Black dress to the 9s
+New Year's in a pent
+From the floor, to the roof
+Make the skyline spin
+Yeah, you're killing me, girl
+In your black-faded jeans
+You ain't gotta work hard
+When you're smilin' at me
+
+Like, "Hey, who that there with the shades?"
+Like oh, the way you move to the bass
+Hold up, whole room gets to spinnin'
+From the second that you walk in it, baby
+You look good all day, all night
+You look good, so fresh, so fine
+You look good, got everybody watching you
+Like cameras in Hollywood
+Singing, you look good
+Baby, you look good
+
+I'm thinking everybody
+Better stand in line
+'Cause they don't know that your body
+Is coming with me tonight
+
+They're like, "Hey, who that there with the shades?"
+Like oh, the way you move to the bass
+Hold up, whole room gets to spinnin'
+From the second that you walk in it, baby
+You look good all day, all night
+You look good, so fresh, so fine
+You look good, got everybody watching you
+Like cameras in Hollywood
+Baby, you look good
+Baby, you look good, yeah
+Baby, you look good
+
+
 

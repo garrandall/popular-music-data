@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-all-your-lovin-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/gimmeallyourlovin.html
 name: Gimme All Your Lovin
 rankings:
 - end_date: '1983-04-08'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
 ---
+
+I got to have a shot of what you got is oh so sweet.
+You got to make it hot, like a boomerang I need a repeat,
+
+Gimme all your lovin', all your hugs and kisses too,
+Gimme all your lovin', don't let up until we're through,
+
+You got to whip it up and hit me like a ton of lead,
+If I blow my top will you let it go to your head?
+
+Gimme all your lovin', all your hugs and kisses too,
+Gimme all your lovin', don't let up until we're through.
+
+You got to move it up and use it like a screwball would.
+You got to pack it up, work it like a new boy should.
+
+Gimme all your lovin', all your hugs and kisses too.
+Gimme all your lovin', don't let up until we're through.
+
+
 

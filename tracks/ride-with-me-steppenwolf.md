@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-with-me-steppenwolf
+lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/ridewithme.html
 name: Ride With Me
 rankings:
 - end_date: '1971-07-23'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+
+How ya gonna make it baby?
+That's the question to be asked
+Life goes on around you
+In so many different ways
+I know my share of history
+How hard it is to be free
+From wearing masks that turn to skin
+Hiding what you could have been
+
+And I, I, I'm so confused
+Which way, which way to choose?
+Ride with me baby 'til the end of the day
+
+Mama's home philosophy
+Makes everyone a freak but me
+Though I'm starvin' in the streets
+And can't predict the future
+Mirror, mirror on the wall
+Who's the sanest of us all?
+Is he with me or one of them?
+How does he dress, who are his friends?
+
+And I, I, I'm so confused
+Which way, which way to choose?
+Ride with me baby 'til the end of the day
+
+Mama's home philosophy
+Makes everyone a freak but me
+Though I'm starvin' in the streets
+And can't predict the future
+Can I have my vision back?
+I'll live outside your city walls
+You don't have to be afraid
+Until I come together
+
+Ride with me Baby
+'Til the end of the day
+
+
 

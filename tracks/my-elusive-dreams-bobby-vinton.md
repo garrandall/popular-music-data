@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-elusive-dreams-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/myelusivedreams.html
 name: My Elusive Dreams
 rankings:
 - end_date: '1970-02-13'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
 ---
+
+You followed me to Texas
+You followed me to Utah
+We didn't find it there
+So we moved on
+
+You followed me to Alabam'
+Things looked good in Birmingham
+We didn't find it there
+So we moved on
+
+I know your tired
+Of following
+My elusive dreams and schemes
+For there only fleeting things
+My elusive dreams
+
+You had my child in Memphis
+I heard of work in Nashville
+We didn't find it there
+So we moved on
+
+To farm in Nebraska
+To a gold mine in Alaska
+We didn't find it there
+So we moved on
+
+And now we've left Alaska
+Because there was no gold mine
+But this time
+Only two of us move on
+
+Now all we have is each other
+And a little memory to cling to
+And still you won't let me
+Go on alone
+
+I know your tired
+Of following
+My elusive dreams and schemes
+For there only fleeting things
+My elusive dreams
+For there only fleeting things
+My elusive dreams
+
+
 

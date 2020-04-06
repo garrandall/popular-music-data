@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-goodbye-chris-brown
+lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/saygoodbye.html
 name: Say Goodbye
 rankings:
 - end_date: '2006-09-01'
@@ -99,4 +100,139 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
 ---
+
+Look, we gotta talk. Dang, I know, I know, but it'sâit's just some things I gotta get off my chest. Alright.
+
+Listen.
+
+Baby, come here, sit down. Let's talk.
+I got a lot to say. So, I guess I'll start by
+Saying that I love you,
+But you know this thing ain't been
+No walk in the park for us.
+
+I swear it'll only take a minute.
+You'll understand when I finish.
+And I don't wanna see you cry,
+But I don't wanna be the one to tell you a lie.
+
+So, how do you let it go
+When youâyou just don't know
+What's on the other side of the door,
+When you're walking out?
+Talk about it.
+
+Everything I tried to remember to say just went out my head.
+So I'm 'a do the best I can to get you to understand
+'Cause I know
+
+There's never a right time to say goodbye,
+But I gotta make the first move
+'Cause if I don't you're gonna start hating me,
+'Cause I really don't feel the way I once felt about you.
+Girl, it's not you. It's me.
+I kinda gotta figure out what I need.
+
+There's never a right time to say goodbye,
+But we know
+That we gotta go
+Our separate ways.
+And I know it's hard,
+But I gotta do it,
+And it's killing me
+'Cause there's never a right time,
+Right time to say goodbye.
+
+Girl, I know your heart is breaking,
+And a thousand times I found myself asking,
+"Why? Why? Why am I taking so long to say this?"
+
+But trust me, girl, I never
+Meant to crush your world, and I never
+Thought I would see the day we grew apart.
+
+And I wanna know
+How do you let it go
+When youâyou just don't know
+What's on the other side of the door,
+When you're walking out?
+Talk about it.
+
+Girl, I hope you understand
+What I'm tryna say.
+We just can't go on
+Pretending that we get along.
+Girl, how you're not gonna see it?
+
+There's never a right time to say goodbye,
+But I gotta make the first move
+'Cause if I don't you're gonna start hating me,
+'Cause I really don't feel the way I once felt about you.
+Girl, it's not you. It's me.
+I kinda gotta figure out what I need.
+
+There's never a right time to say goodbye,
+But we know
+That we gotta go
+Our separate ways.
+And I know it's hard,
+But I gotta do it,
+And it's killing me
+'Cause there's never a right time,
+Right time to say goodbye.
+
+Listen to your heart,
+Girl, you know,
+We should be apart,
+Baby, IâI just can't do it.
+IâI just can't do it.
+
+Listen to your heart,
+Girl, you know,
+We should be apart,
+Baby, IâI just can't do it,
+And sometimes it makes me wanna cry.
+
+Do you hear me crying?
+There's never a right time.
+
+There's never a right time to say goodbye,
+But I gotta make the first move
+'Cause if I don't you're gonna start hating me
+You're gonna start hating me, baby.
+'Cause I really don't feel the way I once felt about you.
+No more.
+Girl, it's not you. It's me.
+I kinda gotta figure out what I need
+About you and me.
+
+There's never a right time to say goodbye,
+Oh, no, it ain't.
+But we know,
+That we gotta go
+Our separate ways.
+And I know it's hard,
+But I gotta do it,
+And it's killing me
+'Cause there's never a right time,
+Right time to say goodbye.
+
+There's never a right time to say goodbye,
+But I gotta make the first move
+'Cause if I don't, you're gonna start hating me,
+'Cause I really don't feel the way I once felt about you.
+Girl, it's not you. It's me.
+I kinda gotta figure out what I need.
+
+There's never a right time to say goodbye,
+But we know,
+That we gotta go
+Our separate ways.
+And I know it's hard,
+But I gotta do it,
+And it's killing me
+'Cause there's never a right time,
+Right time to say, right time, right time, right time.
+
+
 

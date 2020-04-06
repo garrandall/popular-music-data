@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-s-gone-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/summersgone.html
 name: Summer's Gone
 rankings:
 - end_date: '1960-10-02'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+
+Summer's gone and no songbirds are singing 
+Because you're gone, gone from my arms 
+Gone from my lips but you're still in my heart 
+
+What to do? Oh, I'm left here just crying 
+Over you, oh, I'm so blue 
+What can I do now that you're gone? 
+
+The days, they prolong now that you're gone 
+My nights, they leave me blue (you're so blue) 
+I don't know why there are tears in my eyes 
+Can it be that I'm still in love with you? 
+
+Summer's gone and no songbirds are singing 
+Because you're gone, gone from my arms (from my arms) 
+Gone from my lips (from my lips) but still in my heart 
+(Still in my heart, still in my heart) 
+
+Summer's gone and no songbirds are singing 
+Because you're gone, gone from my arms 
+Gone from my lips but still in my heart 
+(Summer's gone but you're still in my heart)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 3-little-words-nu-flavor
+lyrics_url: https://www.azlyrics.com/lyrics/nuflavor/3littlewords.html
 name: 3 Little Words
 rankings:
 - end_date: '2000-06-09'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
 ---
+
+One look in your eyes
+I knew we two would always be together
+And there are, 3 little words that say it all
+I love you
+
+Never believed in love at first sight
+But I believe what I'm feeling tonight
+'Cause when I saw you across the room
+I felt my heart going boom, boom, boom
+
+I looked, I fell so hard
+Girl I know you can tell that
+I'm hooked, oh you, oh girl
+You know I'm falling for you because
+
+
+One look in your eyes
+I knew we two would alwayz be together
+And there are, 3 little words that say it all
+I love you
+Girl I realize 
+That I wanna be with you forever
+So say those 3 little words I wanna hear
+I love you
+
+I was waitin' for a sign from you
+Hoping you'd feel the same way, too
+When you looked at me and smiled
+My heart was goin' a thousand miles
+
+I stopped, turned around, I tried
+To keep my feet on the ground
+As I stepped to you, we touched
+I knew you were feelin' it too because
+
+
+
+I know it's written all over my face
+And girl you can believe it's true 
+'Cause time could never erase
+These feelings I have for you
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-merilee-donnie-iris
+lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/sweetmerilee.html
 name: Sweet Merilee
 rankings:
 - end_date: '1981-11-06'
@@ -31,4 +32,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
 ---
+
+She comes on like daylight softly creeping
+Sneaking through the glass
+When I taste her lips
+I know the night time ain't for sleeping
+Cause morning comes too fast with Merilee
+Sweet Merilee
+
+Merilee please don't go
+Merilee please don't go
+I need you so
+You've got to know
+I'll never let you go
+Merilee
+
+Laying on her side
+The clouds desert the sky
+Washing her with moonlight
+In a Cinderella sleep
+The twilight kissed her eyes
+Dream a little dream of me tonight Merilee
+Sweet Merilee
+
+Merilee please don't go
+Merilee please don't go
+I need you so
+You've got to know
+I'll never let you go
+Merilee
+
+
 

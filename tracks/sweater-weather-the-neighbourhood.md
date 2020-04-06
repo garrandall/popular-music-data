@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweater-weather-the-neighbourhood
+lyrics_url: https://www.azlyrics.com/lyrics/pentatonix/sweaterweather.html
 name: Sweater Weather
 rankings:
 - end_date: '2013-06-28'
@@ -155,4 +156,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
 ---
+
+And all I am is a man
+I want the world in my hands
+I hate the beach but I stand
+In California with my toes in the sand
+Use the sleeves of my sweater
+Let's have an adventure
+Head in the clouds but my gravity's centred
+Touch my neck and I'll touch yours
+You in those little high waisted shorts
+
+She knows what I think about
+And what I think about
+One love, two mouths
+One love, one house
+No shirt, no blouse
+Just us, you find out
+Nothing that I wouldn't wanna tell you about, no
+
+'Cause it's too cold for you here
+And now, so let me hold
+Both your hands in the holes of my sweater
+
+The holes of my sweater
+The holes of my sweater
+
+I may just take your breath away
+I don't mind if there's not much to say
+Sometimes the silence guides a mind
+To move to a place so far away
+The goosebumps start to raise
+The minute that my left hand meets your waist
+And then I watch your face
+Put my finger on your tongue
+'Cause you love the taste, yeah
+These hearts adore
+Everyone the other beats hardest for
+Inside this place is warm
+Outside it starts to pour
+
+Comin' down
+One love, two mouths
+One love, one house
+No shirt, no blouse
+Just us, you find out
+Nothing that I wouldn't wanna tell you about at all
+No, no
+
+'Cause it's too cold for you here
+And now, so let me hold
+Both your hands in the holes of my sweater
+Too cold for you here
+And now, so let me hold
+Both your hands in the holes of my sweater
+
+The holes of my sweater
+
+She knows what I think about
+And what I think about
+One love, two mouths
+One love, one house
+('Cause it's too cold for you here)
+She knows what I think about
+And what I think about
+One love, two mouths
+(And now, so let me hold)
+One love, one house
+She knows what I think about
+And what I think about
+One love, two mouths
+(Both your hands in)
+The holes of my sweater
+
+'Cause it's too cold for you here
+And now, so let me hold
+Both your hands in the holes of my sweater
+
+
 

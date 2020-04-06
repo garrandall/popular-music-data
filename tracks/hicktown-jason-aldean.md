@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hicktown-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/hicktown.html
 name: Hicktown
 rankings:
 - end_date: '2005-08-19'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-05'
 ---
+
+Oh, you like the way that sounds?
+
+Little Jimmy Jackson is jackin' up his Bronco.
+He's gonna lay a little rubber later on at the truck pull.
+An' all the girls are getting' pretty... they're sprayin' on the White Rain.
+Yeah, they're gonna get a rowdy tonight down at the football game.
+
+Yeah, we let it rip when we got the money...
+Let it roll if we got the gas.
+It gets wild, yeah, but that's the way we get down,
+In a Hicktown.
+
+Well, you can see the neighbors butt crack nailing on his shingles,
+An' his woman's' smokin' Pall Mall's watchin' Laura Ingalls.
+An' Granny's getting' lit, she's headin' out to bingo.
+Yeah, my buddies an' me are goin' muddin' down on Blue Hole Road.
+
+You know, you know, we let it rip when we got the money...
+Let it roll if we got the gas.
+It gets wild, yeah, but that's the way we get down,
+In a Hicktown.
+
+
+(Oh, stand on it.)
+
+We hear folks in the city party in Martini Bars,
+An' they like to show off in their fancy foreign cars.
+Out here in the boondocks we buy beer at Amoco,
+An' crank our Kraco speakers with that country radio.
+
+We let it rip when we got the money...
+Let it roll if we got the gas.
+It gets wild, yeah, but that's the way we get down.
+
+Oh, oh we let it rip when we got the money...
+Let it roll if we got the gas.
+It's buck wild, yeah, but that's the way we get down,
+In a Hicktown.
+In a Hicktown.
+That's the way we get down in a Hicktown.
+In Hicktown, yeah, in Hicktown.
+
+Got your country boys and your redneck girls
+It's the party heard round the world
+Right here in Hicktown
+In Hicktown
+The whole town's getting down
+In Hicktown
+Yeah, in Hicktown
+
+
 

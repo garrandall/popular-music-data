@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-skips-a-beat-the-cover-girls
+lyrics_url: https://www.azlyrics.com/lyrics/covergirls/myheartskipsabeat.html
 name: My Heart Skips A Beat
 rankings:
 - end_date: '1989-09-15'
@@ -63,4 +64,127 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
 ---
+
+My heart skips a beat
+Everytime we meet
+I don't what to do
+I'm so in love with you
+My heart skips a beat
+Everytime we meet
+I don't know what to do
+Can't you feel it beat
+
+Feel it beat
+
+Something in your eyes
+Seems to hypnotize
+Every time I look at you
+I get butterflies
+
+Something in your smile
+Brightens up my day
+I just can't help myself
+You make me feel this way
+
+And there's nothing in this world
+Nothing in this world I wouldn't do for you
+Everything would be so fine
+Baby, baby, baby if you only knew
+
+My heart skips a beat
+Everytime we meet
+I don't what to do
+I'm so in love with you
+My heart skips a beat
+Everytime we meet
+I don't know what to do
+Can't you feel it beat
+
+Feel it beat
+
+Everytime we meet
+I just can't believe
+How everything I plan to say
+Disappears from me
+
+I'm thinking of you now
+And, baby, there's no doubt
+You are my fantasy
+The one I dream about
+
+And there's nothing in this world
+Nothing in this world I wouldn't do for you
+Anything you want from me
+Anything you want is what I'll give to you
+
+That's why
+My heart skips a beat
+Everytime we meet
+I don't what to do
+I'm so in love with you
+My heart skips a beat
+Everytime we meet
+I don't know what to do
+Can'y you feel it beat
+
+I can't believe how I feel for you
+The fire is burning
+And my heart is churning
+Tell me, tell me
+Can you feel it beat
+
+Ooh, and now
+I can't believe how I feel for you
+The fire is burning
+And my heart is churning
+Tell me, tell me
+Can't you feel it beat
+
+(My heart skips a beat)
+(Everytime we meet)
+Oh, oh
+(I don't what to do)
+(I'm so in love with you)
+My heart skips a beat
+Everytime we meet
+(I don't know what to do)
+Can't you feel it beat
+
+(My heart skips a beat)
+(Everytime we meet)
+Yeah, yeah, yeah, yeah
+(I don't what to do)
+(I'm so in love with you)
+Oh oh
+My heart skips a beat
+Everytime we meet
+(I don't know what to do)
+(Can't you feel it beat)
+'Cause I love you
+
+(My heart skips a beat)
+(Everytime we meet)
+Yeah, yeah, yeah, yeah
+(I don't what to do)
+Oh, oh
+(I'm so in love with you)
+(My heart skips a beat)
+(Everytime we meet)
+Tell me, tell me
+(I don't know what to do)
+Can't you feel it beat
+
+(My heart skips a beat)
+(Everytime we meet)
+My heart, my heart, my heart
+(I don't what to do)
+(I'm so in love with you)
+My heart skips a beat
+Everytime we meet
+(I don't know what to do)
+'Cause I love you
+
+My heart skips a beat
+
+
 

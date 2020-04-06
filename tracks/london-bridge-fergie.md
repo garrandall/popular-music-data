@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: london-bridge-fergie
+lyrics_url: https://www.azlyrics.com/lyrics/fergie/londonbridge.html
 name: London Bridge
 rankings:
 - end_date: '2006-08-11'
@@ -91,4 +92,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
 ---
+
+Oh shit, oh shit, oh shit
+Are you ready for this?
+Oh, shit!
+Oh!
+
+It's me
+Fergie
+The pen
+Polo!
+Fergie Ferg, what's up baby?!
+Come on
+
+When I come to the club, step aside (oh, shit)
+Part the seas, don't be having me in the line (oh, shit)
+V.I.P 'cause you know I gotta shine (oh, shit)
+I'm Fergie Ferg
+And me love you long time (oh shit)
+
+All my girls get down on the floor (oh, shit)
+Back to back drop it down real low (oh, shit)
+I'm such a lady but I'm dancing like a ho (oh, shit)
+'Cause you know I don't give a fuck so here we go! (oh shit)
+
+
+How come every time you come around
+My London London Bridge wanna go down
+Like London London London wanna go down
+Like London London London be going down like
+
+The drinks start pouring
+And my speech start slurring
+Everybody start looking real good (oh, shit)
+
+The Grey Goose got your girl feeling loose
+Now I'm wishing that I didn't wear these shoes (I hate heels)
+It's like every time I get up on the dude
+Paparazzi put my business in the news
+And I'm like get up out my face (oh, shit)
+'Fore I turn around and spray your ass with mace (oh, shit)
+My lips make you wanna have a taste (oh, shit)
+You got that? I got the bass (uh)
+
+
+How come every time you come around
+My London London Bridge wanna go down
+Like London London London wanna go down
+Like London London London be going down like
+
+Ah, da, da, da, da, doo, doo, doo, doo
+
+Me like a bullet type, you know they comin' right
+Fergie love 'em long time
+My girls support right?
+
+Me like a bullet type, you know they comin' right
+Fergie love 'em long time
+My girls support right?
+
+Another A.T.L.
+Cali collabo
+Fergie and Polo
+
+When I come to the club, step aside (oh, shit)
+Part the seas, don't be having me in the line (oh, shit)
+V.I.P 'cause you know I gotta shine (oh, shit)
+I'm Fergie Ferg
+And me love you long time (oh, shit)
+
+All my girls get down on the floor (oh, shit)
+Back to back drop it down real low (oh, shit)
+I'm such a lady but I'm dancing like a ho (oh, shit)
+'Cause you know I don't give a fuck so here we go! (oh, shit)
+
+
+How come every time you come around
+My London London Bridge wanna go down
+Like London London London wanna go down
+Like London London London be going down like
+
+Shittin' all over the world
+Fuck you bitches!
+
+
 

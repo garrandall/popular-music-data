@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-surrender-sarah-mclachlan
+lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/sweetsurrender.html
 name: Sweet Surrender
 rankings:
 - end_date: '1998-02-20'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
 ---
+
+It doesn't mean much
+It doesn't mean anything at all
+The life I've left behind me
+Is a cold room
+
+I've crossed the last line
+From where I can't return
+Where every step I took in faith betrayed me
+And led me from my home
+
+Sweet surrender
+Is all that I have to give
+
+Take me in
+No questions asked
+You strip away the ugliness
+That surrounds me
+(who are you?)
+
+Are you an angel?
+Am I already that gone?
+I only hope that I won't disappoint you
+When I'm down here on my knees
+(who are you?)
+
+Sweet surrender
+Is all that I have to give
+(who are you?)
+
+Sweet surrender
+Is all that I have to give
+
+And I don't understand
+How the touch of your hand
+I would be the one to fall
+
+I miss the little things
+I miss everything about you
+
+Doesn't mean much
+It doesn't mean anything at all
+The life I left behind me
+Is a cold room
+(who are you?)
+
+Sweet surrender
+Is all that I have to give
+(who are you?)
+
+Sweet surrender
+Is all that I have to give
+
+
 

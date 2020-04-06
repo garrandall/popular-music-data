@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreams-the-cranberries
+lyrics_url: https://www.azlyrics.com/lyrics/cranberries/dreams.html
 name: Dreams
 rankings:
 - end_date: '1994-04-08'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
 ---
+
+Oh, my life
+Is changing everyday
+In every possible way
+
+And oh, my dreams
+It's never quite as it seems
+Never quite as it seems
+
+I know I felt like this before
+But now I'm feeling it even more
+Because it came from you
+
+Then I open up and see
+The person falling here is me
+A different way to be
+
+Aaah, la-a-la-aaah
+La la laaaa
+La-a-la-aah
+La-ah ah aaah
+
+I want more
+Impossible to ignore
+Impossible to ignore
+
+And they'll come true
+Impossible not to do
+Impossible not to do
+
+And now I tell you openly
+You have my heart so don't hurt me
+You're what I couldn't find
+
+A totally amazing mind
+So understanding and so kind
+You're everything to me
+
+Oh, my life
+Is changing everyday
+In every possible way
+
+And oh, my dreams
+It's never quite as it seems
+'Cause you're a dream to me
+Dream to me
+
+
 

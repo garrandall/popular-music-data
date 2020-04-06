@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jammin--me-tom-petty-and-the-heartbreakers
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/jamminme.html
 name: Jammin' Me
 rankings:
 - end_date: '1987-05-01'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+
+You got me in a corner
+You got me against the wall
+I got nowhere to go
+I got nowhere to fall
+
+Take back your insurance
+Baby nothin's guaranteed
+Take back your acid rain
+Let your T.V. bleed
+
+
+You're jammin' me, you're jammin' me,
+Quit jammin' me
+Baby you can keep me painted in a corner
+You can walk away, but it's not over
+
+Take back your angry slander
+Take back your pension plan
+Take bakc your ups and downs of your life
+In raisin-land
+
+Take back Vanessa Redgrave
+Take back Joe Piscopo
+Take back Eddie Murphy
+Give 'em all some place to go
+
+
+
+Take back your iranian torture
+And the apple in young Steve's eye
+Yeah take back your losing streak
+Check your front wheel drive
+
+Take back Pasadena
+Take back El Salvador
+Take back that country club
+They're tryin' to build outside my door
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-going-to-take-some-time-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/itsgoingtotakesometimethistime.html
 name: It's Going To Take Some Time
 rankings:
 - end_date: '1972-05-05'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
 ---
+
+It's going to take some time this time
+To get myself in shape
+I really feel out-of line this time
+I really missed the gate
+
+The birds on the telephone line (next time)
+Are cryin' out to me (next time)
+And I won't be so blind next time
+And I'll find some harmony
+
+But it's going to take some time this time
+And I can't make demands
+But like the young trees in the wintertime
+I'll learn how to bend
+
+After all the tears we've spent
+How could we make amends
+So it's one more round for experience
+
+And I'm on the road again
+And it's going to take some time this time
+
+It's going to take some time this time
+No matter what I've planned
+But like the young trees in the wintertime
+I'll learn how to bend
+
+After all the tears we've spent
+How could we make amends
+So it's one more round for experience
+And I'm on the road again
+And it's going to take some time this time
+
+
 

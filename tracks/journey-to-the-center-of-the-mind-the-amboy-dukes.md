@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: journey-to-the-center-of-the-mind-the-amboy-dukes
+lyrics_url: https://www.azlyrics.com/lyrics/ramones/journeytothecenterofthemindamboydukes.html
 name: Journey To The Center Of The Mind
 rankings:
 - end_date: '1968-07-05'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
 ---
+
+Leave your cares behind come with us and find
+The pleasures of a journey to the center of the mind
+
+Come along if you care
+Come along if you dare
+Take a ride to the land inside of your mind
+
+Beyond the seas of thought beyond the realm of what
+Across the streams of hopes and dreams where things are really not
+
+Come along if you care...
+
+But please realise you'll probably be surprised
+For it's the land unknown to man
+Where fantasy is fact
+So if you can, please understand
+You might not come back
+
+Come along if you care
+Come along if you dare
+Take a ride to the land inside and you'll see
+
+How happy life could be if all of mankind
+Would take the time to journey to the center of the mind
+
+Would take the time to journey to the center of the mind
+Center of the mind
+
+
 

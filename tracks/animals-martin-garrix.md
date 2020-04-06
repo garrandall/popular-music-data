@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: animals-martin-garrix
+lyrics_url: https://www.azlyrics.com/lyrics/martingarrix/animals.html
 name: Animals
 rankings:
 - end_date: '2013-10-11'
@@ -143,4 +144,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
 ---
+
+We are the fuckin' animals
+We are the fuckin' animals
+
+
 

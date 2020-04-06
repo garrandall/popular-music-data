@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-on-me-ashanti
+lyrics_url: https://www.azlyrics.com/lyrics/ashanti/rainonmeremix.html
 name: Rain On Me
 rankings:
 - end_date: '2003-09-05'
@@ -87,4 +88,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
 ---
+
+ 
+Yeah 
+Murder Inc. 
+We invite you to: epic, ya know? 
+We make music out of a sense of hunger 
+Sort of a desire 
+Through that desire 
+We expose the pain and struggle 
+But we accustom to live it 
+So, we feel without this music, we have nothing 
+So we offer you, well: we offer you our lives 
+So how you gon' take it? 
+
+ 
+See everybody wanna rise to the top these days 
+(Top these days)
+A lot of people might come and try to take your place 
+(Take your place)
+Oh you know that 
+All you gotta do is keep rising, rising 
+Don't look back and keep shining, shining 
+I had a little struggle 
+I had a little pain 
+Now make it rain, make it rain, make it rain 
+
+ 
+
+ 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath till you just 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath yeah 
+
+ 
+I stop and think how life could be so raw 
+(Be so raw)
+Sometimes I just don't wanna fight no more 
+(Fight no more)
+Oh you know just 
+All you gotta do is keep rising, rising 
+Don't look back and keep shining, shining 
+I had a little struggle 
+I had a little pain 
+Now make it rain, make it rain, make it rain 
+
+ 
+
+ 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath till you just 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath yeah 
+
+ 
+
+ 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath till you just 
+Rain on me (rain on me) 
+Lord wont you take this 
+Pain from me 
+I don't wanna live 
+I don't wanna breath yeah 
+
+ 
+Rain down on me 
+Oh, wont you take this 
+Pain from me 
+Oh wont you make it 
+Rain down on me 
+Lord wont you take this pain from me 
+
+ 
+Ba-ba-ba-ba-ba-bada-bada 
+Ba-ba-ba-ba-ba-bada-bada 
+Ba-ba-ba-ba-ba-bada-bada 
+Ba-ba-ba-ba-ba-bada-bada
+
+
 

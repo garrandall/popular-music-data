@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooka-tooka-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/hookatooka.html
 name: Hooka Tooka
 rankings:
 - end_date: '1963-12-13'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
+
+Hooka Tooka my soda cracker
+Does your momma chaw tobacca
+If ya momma chaw tobacca, say
+Hooka Tooka my soda cracker
+Hooka Tooka my soda cracker
+Does your momma chaw tobacca
+If ya momma chaw tobacca, say
+Hooka Tooka my soda cracker
+Who your love, Who your love I say
+You know I love my mother-in-law
+If your love momma like you say
+Why can't momma chaw
+Everybody yup
+Hooka Tooka my soda cracker
+Does your momma chaw tobacca
+If ya momma chaw tobacca, say
+Hooka Tooka my soda cracker
+Momma loves momma loves you all
+And you know I'm her son-in-law
+If you love me like you say you do
+Chaw tobacca too
+Hey Ar
+Hooka Tooka my soda cracker
+Does your momma chaw tobacca
+If ya momma chaw tobacca, say
+Hooka Tooka my soda cracker
+Hooka Tooka my soda cracker
+Hooka Tooka my soda cracker
+
+
 

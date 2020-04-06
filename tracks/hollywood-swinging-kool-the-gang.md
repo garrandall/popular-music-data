@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hollywood-swinging-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/hollywoodswinging.html
 name: Hollywood Swinging
 rankings:
 - end_date: '1974-04-26'
@@ -84,4 +85,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
 ---
+
+Hey, hey, hey
+What ya got to say?
+Hey, hey, hey
+What ya got to say?
+Hollywood
+Hollywood swinging
+Hollywood
+Hollywood swinging
+
+I remember not too long ago
+I went to the theater
+And I saw the Kool in the gang show
+I always wanted to fit a band, yes I did
+To sing my songs, sing my songs
+And become a bad piano playing man
+So here I am, here I am in this Hollywood city
+The city of the stars, movies, women and cars
+Well I guess, I guess I have to stay
+
+Hey, hey, hey
+What ya got to say?
+What ya got to say?
+Hey, hey, hey
+What ya got to say?
+Hollywood
+Hollywood swinging, yea, that's what they're doin'
+Hollywood
+Hollywood swinging
+
+Yea yea, Hollywood, that's how they're doin' it, Hollywood
+I've figured all the swinging down, down in Hollywood
+Moving, swinging down say, say, I like to do it
+And Kool's got the swinging of the dance
+Get down, get down in Hollywood
+You know that Hollywood is swinging down, yea
+You know that, you know that, you know that, you know that
+Hollywood is swinging down
+
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood is swinging down
+Hollywood is swinging down
+Hollywood is swinging down
+
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood is swinging down
+Hollywood is swinging down
+Hollywood is swinging down
+
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood, Hollywood, Hollywood, now swinging
+Hollywood is swinging down
+Hollywood is swinging down
+Hollywood is swinging down
+
+
 

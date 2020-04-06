@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-by-me-mickey-gilley
+lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/standbyme.html
 name: Stand By Me
 rankings:
 - end_date: '1980-05-23'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+
+When the night has come
+And the land is dark
+And the moon is the only light we'll see
+No I won't be afraid, no I won't be afraid
+Just as long as you stand by me
+
+Darlin', stand by me
+Won't you stand by me
+If you're in need, won't you stand, stand by me
+
+And if the sky we look upon
+Should ever crumble and fall
+And the mountains should fall to the sea
+No I won't be afraid, no I won't shed a tear
+Just as long, just as long as you stand by me
+
+Darlin', stand by me
+Won't you stand by me
+If you're in need, won't you stand, stand by me
+
+Darlin', stand by me
+Won't you stand by me
+If you're in need, won't you stand by me
+
+Darlin', stand by me
+Won't you stand by me
+If you're in need, won't you stand, stand by me...
+
+
 

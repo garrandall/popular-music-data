@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-guys-have-all-the-luck-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/someguyshavealltheluck.html
 name: Some Guys Have All The Luck
 rankings:
 - end_date: '1984-08-31'
@@ -75,4 +76,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+
+Chorus:
+Some guys have all the luck
+Some guys have all the pain
+Some guys get all the breaks
+Some guys do nothing but complain
+
+Alone in a crowd on a bus after work
+and I'm dreaming
+The guy next to me has a girl in his arms
+My arms are empty
+How does it feel when the girl next to you
+says she loves you
+It seem so unfair when there's love everywhere
+but there's none for me
+
+(Chorus)
+
+Someone to take on a walk by the lake
+Lord let it be me
+Someone who's shy
+Someone who'll cry at sad movies
+I know I would die if I ever found out
+she was fooling me
+You're just a dream and as real as it seems
+I ain't that lucky
+
+(Chorus)
+
+All of my friends have a ring on their finger
+They have someone
+Someone to care for them it ain't fair
+I got no one
+The car overheated
+I called up and pleaded
+There's help on the way
+I called you collect you didn't accept
+You had nothing to say
+
+(Chorus)
+
+But if you were here with me
+I'd feel so happy I could cry
+You are so dear to me
+I just can't let you say goodbye
+
+
 

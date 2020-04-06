@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: things-can-only-get-better-howard-jones
+lyrics_url: https://www.azlyrics.com/lyrics/howardjones/thingscanonlygetbetter.html
 name: Things Can Only Get Better
 rankings:
 - end_date: '1985-03-29'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
 ---
+
+We're not scared to lose it all
+Security throw through the wall
+Future dreams we have to realize
+A thousand skeptic hands
+Won't keep us from the things we plan
+Unless we're clinging to the things we prize
+
+And do you feel scared, I do
+But I won't stop and falter
+And if we threw it all away
+Things can only get better
+
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+
+Treating today as though it was
+The last, the final show
+Get to sixty and feel no regret
+It may take a little time 
+A lonely path, an uphill climb
+Success or failure will not alter it
+
+And do you feel scared, I do
+And I won't stop and falter
+And if we threw it all away
+Things can only get better
+
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+
+And do you feel scared, I do
+And I won't stop and falter
+And if we threw it all away
+Things can only get better
+Ah!
+
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+
+Whoa whoa whoa-oh-oh whoa-whoa oh-oh-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+Whoa whoa whoa-whoa oh-oh-oh
+(Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh)
+Whoa whoa whoa-oh-oh whoa-whoa whoa-oh-oh
+
+
 

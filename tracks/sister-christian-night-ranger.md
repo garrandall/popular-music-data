@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sister-christian-night-ranger
+lyrics_url: https://www.azlyrics.com/lyrics/coheedandcambria/sisterchristian.html
 name: Sister Christian
 rankings:
 - end_date: '1984-03-16'
@@ -103,4 +104,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
 ---
+
+sister christian oh the time has come
+and you know that you are the only one to say
+okay
+where you going what you looking for
+you know those boys don't wanna play no more with you
+it's true
+
+motoring 
+what's your price for fight
+in finding mr. right
+you'll be alright tonight
+
+babe you know you're growing up so fast
+and momma's worrying that you won't last to say
+let's play
+sister christian there's so much in life
+don't you give it up before your time has done
+to you
+
+ah ah oh oh oh oh oh
+ah ah oh oh oh oh oh
+
+motoring
+what's your price for fight
+you've got him in your sight
+and driving through the night
+
+motoring
+what's your price to fight
+in finding mr. right
+you'll be alright tonight
+
+
 

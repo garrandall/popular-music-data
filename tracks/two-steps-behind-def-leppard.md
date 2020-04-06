@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-steps-behind-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/twostepsbehindacousticversion.html
 name: Two Steps Behind
 rankings:
 - end_date: '1993-09-17'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
 ---
+
+Walk away if you want to 
+it's ok, if you need to 
+you can run, but you can never hide 
+From the shadow that's creeping up beside you 
+There's a magic running through your soul 
+But you can't have it all 
+
+(Whatever you do) 
+I'll be two steps behind you 
+(Wherever you go) 
+and I'll be there to remind you 
+that it only takes a minute of your precious time 
+to turn around and I'll be two steps behind. 
+
+Take the time 
+to think about it 
+Walk the line, you know you just can't fight it 
+Take a look around and see what you can find 
+Like the fire that's burning up inside me, 
+There's a magic running through your soul 
+But you can't have it all 
+
+(Whatever you do) 
+I'll be two steps behind you 
+(Wherever you go) 
+and I'll be there to remind you 
+that it only takes a minute of your precious time 
+to turn around and I'll be two steps behind. 
+
+There's a magic running through your soul 
+but you, you can't have it all 
+(Whatever you do) 
+I'll be two steps behind you 
+(wherever you go) 
+and I'll be there to remind you 
+that it only takes a minute of your precious time 
+To turn around and I'll be two steps behind. 
+
+Two steps behind 
+yeah, baby 
+two steps behind 
+ohh, sugar 
+two steps behind
+
+
 

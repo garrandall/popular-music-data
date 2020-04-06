@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-your-love-the-most-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/loveyourlovethemost.html
 name: Love Your Love The Most
 rankings:
 - end_date: '2009-07-17'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
 ---
+
+I love sleeping in on Saturdays
+And I love college football games
+I love not acting my age
+And good barbecue
+
+Yea I'm a fan of Faulkner books
+And anything my mama cooks
+Small mouthed bass have got me hooked on Sunday afternoons
+
+Yes I love good cold beer
+And mustard on my fries
+I love a good loud Honky Tonk that rocks on Friday nights
+And hell yes I love my truck but I want you to know
+Honey I love your love the most
+
+Man I love how Redman tastes
+Damn I love my Nascar race
+Any song sung by George Strait is country at it's best
+
+Yes I love good cold beer
+And mustard on my fries
+I love a good loud Honky Tonk that rocks on Friday nights
+And hell yes I love my truck but I want you to know
+Honey I love your love the most
+
+I love
+
+Yea I love scuffed up cowboy boots
+And broken torn up jeans
+My 4-wheel drive and 8 point bucks
+And rocky road ice cream
+
+And hell yes I love my dog
+And Jack D in my Coke
+But honey I love your love
+Yea I love your love
+I love your love the most
+
+I love your love the most
+
+
 

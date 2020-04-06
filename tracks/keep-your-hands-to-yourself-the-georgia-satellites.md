@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-hands-to-yourself-the-georgia-satellites
+lyrics_url: https://www.azlyrics.com/lyrics/johnanderson/keepyourhandstoyourself.html
 name: Keep Your Hands To Yourself
 rankings:
 - end_date: '1986-11-28'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
 ---
+
+I got a little change in my pocket goin' jingle-ingle-ing.
+Wanna call ya on the telephone--baby, give you a ring.
+But each time we talk, I get the same old thing,
+Always no huggy, no kissy till I get a weddin' ring.
+
+My honey, my baby dont't keep my love upon no she
+She says "Don't give me no lines and keep your hands to yourself.
+
+Now baby, baby, baby why you wanna treat me this way?
+You know I'm still your loverboy I still feel the same way.
+That's when she told me the story 'bout free milk and a cow.
+She says "No huggy, no kissy till I get a weddin' vow.
+
+My honey, my baby dont't keep my love upon no shelf.
+She says "Don't give me no lines and keep your hands to yourself.
+
+Well I wanted her real bad, I was about to give in.
+That's when she started talkin' about love, started talkin' about sin.
+I said "Now honey I've been a waitin' for the rest of my life.
+She says "No huggy, no kissy till you make me your wife.
+
+My honey, my baby dont't keep my love upon no shelf.
+She says "Don't give me no lines and keep your hands to yourself.
+
+
 

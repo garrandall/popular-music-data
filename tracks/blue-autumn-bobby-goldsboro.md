@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-autumn-bobby-goldsboro
+lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/blueautumn.html
 name: Blue Autumn
 rankings:
 - end_date: '1966-12-16'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
 ---
+
+Blue Autumn, falling leaves with red and gold
+Pretty colors, I am told
+But I only see only shades of blue
+Because I'm losing you
+
+Blue Autumn, there's a rainbow in the sky
+But no matter how I try
+I still see only shades of blue
+Because I'm losing you
+
+Such pretty colors I am told, they're for all to see
+But falling leaves of red and gold
+Have all turned blue to me
+
+Blue Autumn, a love like yours I'll never know
+Other girls may come and go
+But I only see shades of you
+And all my autumns will be blue
+
+Blue Autumn, a love like yours I'll never know
+Other girls may come and go
+But I only see shades of you
+And all my autumns will be blue
+
+
 

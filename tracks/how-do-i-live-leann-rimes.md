@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-i-live-leann-rimes
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/howdoilive.html
 name: How Do I Live
 rankings:
 - end_date: '1997-06-27'
@@ -283,4 +284,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-10'
 ---
+
+How do I,
+Get through one night without you?
+If I had to live without you,
+What kind of life would that be?
+Oh, I...
+I need you in my arms, need you to hold,
+You're my world, my heart, my soul,
+If you ever leave,
+Baby you would take away everything good in my life,
+And tell me now
+How do I live without you?
+I want to know,
+How do I breathe without you?
+If you ever go,
+How do I ever, ever survive?
+How do I, how do I, oh how do I live?
+Without you,
+There'd be no sun in my sky,
+There would be no love in my life,
+There'd be no world left for me.
+And I,
+Baby I don't know what I would do,
+I'd be lost if I lost you,
+If you ever leave,
+Baby you would take away everything real in my life,
+And tell me now,
+How do I live without you?
+I want to know,
+How do I breathe without you?
+If you ever go,
+How do I ever, ever survive?
+How do I, how do I, oh how do I live?
+Please tell me baby,
+How do I go on?
+If you ever leave,
+Baby you would take away everything,
+I need you with me,
+Baby don't you know that you're everything,
+Good in my life?
+And tell me now,
+How do I live without you,
+I want to know,
+How do I breathe without you?
+If you ever go,
+How do I ever, ever survive?
+How do I, how do I, oh how do I live?
+How do I live without you?
+How do I live without you baby?
+
+
 

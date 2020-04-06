@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-and-gone-montgomery-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/lonelyandgone.html
 name: Lonely And Gone
 rankings:
 - end_date: '1999-08-06'
@@ -83,4 +84,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
 ---
+
+Pulled in the driveway, picked up the paper 
+Found my key, and unlocked the door 
+I walked in, felt like a stranger 
+Like I'd never, been there before 
+And as I wandered room to room 
+It was silent as a tomb 
+
+Coulda heard a tear drop, coulda heard a heart break 
+Never saw the flood come, even though I felt the rain 
+Never heard a house sound, so loud with memories 
+Where there used to be a happy home 
+In the house on the corner of lonely and gone 
+
+If she talked about leavin, I wasn't listenin 
+If she showed me a sign, well I never saw 
+Did she stop believin, did I stop givin 
+Can't put my finger on what went wrong 
+Now the quietest noise I'm told 
+Is the sound of letting go. 
+
+Coulda heard a tear drop, coulda heard a heart break 
+Never saw the flood come, even though I felt the rain 
+Never heard a house sound, so loud with memories 
+Where there used to be a happy home 
+In the house on the corner of lonely and gone 
+
+Oh never heard a house sound, so loud with memories 
+Where there used to be a happy home 
+In the house on the corner, in the house on the corner 
+Of lonely and gone
+
+
 

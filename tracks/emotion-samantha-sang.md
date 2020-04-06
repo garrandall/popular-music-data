@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotion-samantha-sang
+lyrics_url: https://www.azlyrics.com/lyrics/emmabunton/emotion.html
 name: Emotion
 rankings:
 - end_date: '1977-11-25'
@@ -115,4 +116,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
 ---
+
+It's over and done
+But the heartache lives on inside
+And who's the one you're clinging to
+Instead of me tonight
+
+And where are you now
+Now that I need you
+Tears on my pillow
+Wherever you go
+I'll cry me a river
+That leads to your ocean
+You'll never see me fall apart
+In the words of a broken heart
+
+It's just emotion that's taken me over
+Tied up in sorrow, lost in my soul
+But if you don't come back, come home to me, darling
+You know that there'll be nobody left in this world to hold me tight
+Nobody left in this world to kiss goodnight
+Goodnight, goodnight
+
+I'm there at your side
+I'm part of all the things you are
+But you've got a part of someone else
+You go to find your shining star
+
+And where are you now
+Now that I need you
+Tears on my pillow
+Wherever you go
+I'll cry me a river
+That leads to your ocean
+You'll never see me fall apart
+In the words of a broken heart
+
+It's just emotion that's taken me over
+Tied up in sorrow, lost in my soul
+But if you don't come back, come home to me, darling
+You know that there'll be nobody left in this world to hold me tight
+Nobody left in this world to kiss goodnight
+Goodnight
+
+And where are you now
+Now that I need you
+Tears on my pillow
+Wherever you go
+I'll cry me a river
+That leads to your ocean
+You'll never see me fall apart
+In the words of a broken heart
+
+It's just emotion that's taken me over
+Tied up in sorrow, lost in my soul
+But if you don't come back, come home to me, darling
+You know that there'll be nobody left in this world to hold me tight
+Nobody left in this world to kiss goodnight
+
+
 

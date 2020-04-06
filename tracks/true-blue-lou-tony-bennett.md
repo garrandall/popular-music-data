@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-blue-lou-tony-bennett
+lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/truebluelou.html
 name: True Blue Lou
 rankings:
 - end_date: '1963-08-02'
@@ -15,4 +16,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+
+Down in the poolroom
+Some of the gang were
+Talking of gals they knew
+Women are all the same, said Joe
+
+Then one dizzy bird
+Said, pal, ain't you heard
+The story of True Blue Lou
+
+Listen and get an earful, Joe
+While I remind you she was
+A dame in love with a guy
+She stuck to him
+But didn't know why
+
+Everyone blamed her
+Still they all named her
+True Blue Lou
+
+He gave her nothing
+She gave him all
+But when he had
+His back to the wall
+
+Who fought to save him
+Smiled and forgave him
+True Blue Lou
+
+He got a break and went
+Away to get a new start
+But poor kid, she never got a break
+Except the one way
+Down in her heart
+
+Maybe somewhere
+In heaven up above
+There's a reward
+For that kind of love
+
+Angels won't blame her
+They too will name her
+True Blue Lou
+
+
 

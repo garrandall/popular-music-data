@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-motion-color-me-badd
+lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/slowmotion.html
 name: Slow Motion
 rankings:
 - end_date: '1992-05-15'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-19'
 ---
+
+Ooooh sock it to me mamma
+
+
+Oh I thought I saw a pussy cat baby
+Yeah she looks like she can be my personal steady
+Yeah, let me make this move
+
+
+Baby I want ya very bad babe (I do)
+And I've been wanting you for soooo long (oh)
+And I could never love you fast babe (not you)
+I'd take my time & love you all night long
+
+Allll night
+You know that I want your love
+Let me make it right
+Forrrr you
+Allll night
+You're the 1 I'm thinking of
+Once I make it right
+Baby I know you will never go
+
+I like to love you in slow motion (oooooh you got it goin on) (slow)
+Let me love you slow (slow)
+I like to love you slow so morning will come before I do
+Let me love you slow
+
+
+Uh well uh
+My motor's runnin
+You got this animal hype & uh
+I gotta slow it down
+To get my timing right
+
+
+Baby I think you're very sexy (I do)
+Come over here & get a little bit closer to me (yeah)
+The time has come for me to love you real slow (slow)
+Motion lover is what they call me (good God)
+
+I like to love you in slow motion (oooooh you got it goin on) (slow)
+Let me love you slow (slow)
+I like to love you slow so morning will come before I do
+Let me love you slow (how ya wanna do it baby)
+
+
+Oh 20 miles per hour is the speed I drive (all night)
+Ain't nothin' wrong I just take my time
+Yeah but check this out
+Don't get offended if I fall for a little behind baby (all right)
+20 miles per hour and uh, your rump is mine yeah
+
+
+I like to love you in slow motion (oooooh you got it goin on)
+Let me love you slow (slow)
+I like to love you slow so morning will come before I do
+Let me love you... ooooh sock it to me mamma
+
+Allll night
+You know that I want your love
+Let me make it right
+Forrrr you
+Allll night
+You're the 1 I'm thinking of
+Once I make it right
+
+
 

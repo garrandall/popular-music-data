@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-she-says-baby-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/whenshesaysbaby.html
 name: When She Says Baby
 rankings:
 - end_date: '2013-12-20'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
 ---
+
+Some days itâs tough just gettinâ up
+Throwinâ on these boots and makinâ that climb
+Some days Iâd rather be a no show
+Lay low âfore I go out of my mind
+
+But when she says baby
+Oh donât matter what comes
+Ainât goinâ nowhere
+She runs her fingers through my hair
+And saves me
+Yeah that look in her eyes got me cominâ alive
+And drivinâ me a good kind a crazy
+When she says baby
+Oh when she says baby
+
+Some nights I come home fightinâ mad
+Feel like runninâ my fist through the wall
+Is it even worth what Iâm fightinâ for anymore
+Feelinâ torn, oh the hell with it all
+
+But when she says baby
+Oh donât matter what comes
+Ainât goinâ nowhere
+She runs her fingers through my hair
+And saves me
+Yeah that look in her eyes got me cominâ alive
+And drivinâ me a good kind a crazy
+When she says baby
+Oh when she says baby
+
+Everything gonna be alright
+Just lay down by my side
+Let me love you through this life
+
+Sheâs a perfect shot of faith
+When every bit of mine is gone
+Somethinâ I can believe in
+A best friend, a heaven sent
+Love to lean on
+
+But when she says baby
+Oh donât matter what comes
+Ainât goinâ nowhere
+She runs her fingers through my hair
+And saves me
+Yeah that look in her eyes got me cominâ alive
+And drivinâ me a good kind a crazy
+When she says baby
+Oh when she says baby
+
+Yeah that look in her eyes got me cominâ alive
+And drivinâ me a good kind a crazy
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honesty--write-me-a-list--rodney-atkins
+lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/honesty.html
 name: Honesty (Write Me A List)
 rankings:
 - end_date: '2003-10-10'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
 ---
+
+He said: "Just think it over, and write me a list,
+"So we can figure out what we both deserve."
+She hardly could believe it, that their love had come to this:
+Dividing an' deciding his and hers.
+But she grabbed a paper napkin, an' asked the waitress for a pen.
+An' one by one, she wrote down what she wanted most from him.
+
+"Honesty, sincerity, tenderness and trust.
+"A little less time for the rest of the world,
+"And more for the two of us.
+"Kisses each mornin', 'I love you's' at night,
+"Just like it used to be.
+"The way life was when you were in love with me."
+
+She reached across the table an' placed it in his hand,
+An' said: "You know this isn't easy for me."
+As he thought about the new car, the house an' the land,
+An' wondered what that bottom line would be.
+An' a thousand other things that she'd want him to leave behind,
+But he never dreamed he'd open up that napkin and find:
+
+"Honesty, sincerity, tenderness and trust.
+"A little less time for the rest of the world,
+"And more for the two of us.
+"Kisses each mornin', 'I love you's' at night,
+"Just like it used to be.
+"The way life was when you were in love with me."
+
+Well, he fought back the tears, as he looked in her eyes,
+An' said: "I don't know where to start."
+An' she said: "Everything on that list in your hand,
+"Is hidden somewhere in your heart.
+
+"Honesty, sincerity, just like it used to be.
+"The way life was when you were in love with me."
+
+
 

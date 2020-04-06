@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vertigo-u2
+lyrics_url: https://www.azlyrics.com/lyrics/u2band/vertigo.html
 name: Vertigo
 rankings:
 - end_date: '2004-10-15'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
 ---
+
+Uno, dos, tres... catorce
+
+Turn it up loud, Captain!
+
+Lights go down itâs dark
+The jungle is your head - canât rule your heart
+A feeling is so much stronger than
+A thought
+Your eyes are wide
+And though your soul it canât be bought
+Your mind can wonder
+
+Hello, hello... (Hola)
+I'm at a place called Vertigo (dÃ³nde estÃ¡s?)
+Itâs everything I wish I didnât know
+Except you give me something...
+I can feel, feel
+
+The night is full of holes
+As bullets rip the sky of ink with gold
+They twinkle as the boys play rock and roll
+They know that they canât dance - at least they know
+
+I canât stand the beats
+Iâm asking for the cheque
+The girl with crimson nails
+Has Jesus 'round her neck
+Swinging to the music  Whoooaaa
+Swinging to the music  Whoooaaa
+Whoooaaa
+Whoooaaa
+Whoooaaa
+
+Hello, hello... (Hola)
+I'm at a place called Vertigo (dÃ³nde estÃ¡s?)
+Itâs everything I wish I didnât know
+But you give me something...
+I can feel, feel
+
+Check mated...
+Hours of fun...
+Jumping in... yeah
+
+
+
+All of this... all of this can be yours
+All of this... all of this can be yours
+All of this... all of this can be yours
+Just give me what I want and no one gets hurt
+
+Hello, hello... (Hola)
+I'm at a place called Vertigo (dÃ³nde estÃ¡s?)
+Lights go down and all I know
+That you give me something...
+I can feel your love teaching me how
+Your love is teaching me how to kneel, kneel
+
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, YEAH,
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, YEEEAAAAH!
+
+
 

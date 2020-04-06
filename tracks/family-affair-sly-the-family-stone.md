@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: family-affair-sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/familyaffair.html
 name: Family Affair
 rankings:
 - end_date: '1971-11-12'
@@ -64,4 +65,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
 ---
+
+It's a family affair
+It's a family affair
+It's a family affair
+It's a family affair
+
+One child grows up to be
+Somebody that just loves to learn
+And another child grows up to be
+Somebody you'd just love to burn
+
+Mom loves the both of them
+You see, it's in the blood
+Both kids are good to mom
+Blood's thicker than the mud
+
+It's a family affair
+(It's a family affair)
+It's a family affair
+(It's a family affair)
+Over there, over there
+
+Newlywed a year ago
+But you're still checking each other out, hey
+Nobody wants to blow
+Nobody wants to be left out, uh-huh
+
+You can't leave 'cause your heart is there
+But, sure, you can't stay 'cause you been somewhere else
+You can't cry 'cause you'll look broke down
+But you're cryin' anyway 'cause you're all broke down
+
+It's a family affair
+(It's a family affair)
+It's a family affair
+(It's a family affair)
+Oh, hey, a family affair
+(It's a family affair)
+Ow
+(It's a family affair)
+
+(It's a family affair)
+Oh
+(It's a family affair)
+(It's a family affair)
+It's a family affair
+(It's a family affair)
+Well
+Do-do-do-do
+Hey-hey-hey
+(It's a family affair)
+(It's a family affair)
+
+
 

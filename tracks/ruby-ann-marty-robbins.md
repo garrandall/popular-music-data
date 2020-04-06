@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ruby-ann-marty-robbins
+lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/rubyann.html
 name: Ruby Ann
 rankings:
 - end_date: '1962-11-23'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
 ---
+
+I said hello to the man that tried to win your hand
+A long time ago.
+I tried to smile as he talked of the days
+When he was your beau,
+
+But I could see he was a-shamin' me
+When he talked of his wealth and fame --
+Ruby Ann took the hand of this poor, poor man,
+Ain't true love a funny thing?
+
+Big man, you got money in your hand,
+So what?
+You're at a table for two, but still there's only you,
+Big shot!
+Well, your money can't buy if your power can't hold,
+You can't romance your fame --
+Ruby Ann took the hand of this poor, poor man,
+Ain't true love a funny thing?
+
+Big man, you got money in your hand,
+So what?
+You're at a table for two, but still there's only you,
+Big shot!
+Well, your money can't buy if your power can't hold,
+You can't romance your fame --
+Ruby Ann took the hand of this poor, poor man,
+Ain't true love a funny thing?
+Ruby Ann took the hand of this poor, poor man,
+Ain't true love a funny thing?
+
+
 

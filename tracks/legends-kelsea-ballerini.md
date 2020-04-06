@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: legends-kelsea-ballerini
+lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/legends.html
 name: Legends
 rankings:
 - end_date: '2017-12-22'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
 ---
+
+We were golden, we were fire, we were magic
+Yeah, and they all knew our names all over town
+We had it made in the middle of the madness
+We were neon in a grey crowd
+Yeah, we wrote our own story
+Full of blood, sweat, and heartbeats
+We didn't do it for the fame or the glory
+But we went down in history
+
+Yeah, we were legends
+Loving you baby, it was heaven
+What everyone wondered, we never questioned
+Closed our eyes and took on the world together
+Do you remember?
+We were crazy, tragic and epic, and so amazing
+I'll always wear the crown that you gave me
+We will always stay lost in forever, and they'll remember
+We were legends
+
+Like we were written down in permanent marker
+Not even the brightest sun could ever fade
+Come whichever, hell or high water
+It was always me and you either way
+Hey, we wrote our own story
+Full of blood, sweat, and heartbeats
+We didn't do it for the fame or the glory
+We just did it for you and me
+
+And that's why we were legends
+Loving you baby, it was heaven
+What everyone wondered, we never questioned
+Closed our eyes and took on the world together
+Do you remember?
+We were crazy, tragic and epic, and so amazing
+I'll always wear the crown that you gave me
+We will always stay lost in forever, and they'll remember
+We were legends
+
+We were legends
+Loving you baby, it was heaven
+What everyone wondered, we never questioned
+Closed our eyes and took on the world together
+Do you remember?
+We were crazy, tragic and epic, and so amazing
+I'll always wear the crown that you gave me
+We will always stay lost in forever, and they'll remember
+We were legends
+
+Yeah, we were legends
+And we wrote our own story
+
+
 

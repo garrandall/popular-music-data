@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: half-breed-cher
+lyrics_url: https://www.azlyrics.com/lyrics/cher/halfbreed.html
 name: Half-Breed
 rankings:
 - end_date: '1973-08-10'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
+
+My father married a pure Cherokee 
+My mother's people were ashamed of me 
+The indians said I was white by law 
+The White Man always called me "Indian Squaw"
+
+ 
+Half-breed, that's all I ever heard 
+Half-breed, how I learned to hate the word 
+Half-breed, she's no good they warned 
+Both sides were against me since the day I was born
+
+We never settled, went from town to town 
+When you're not welcome you don't hang around 
+The other children always laughed at me "Give her a feather, she's a Cherokee"
+
+
+
+We weren't accepted and I felt ashamed 
+Nineteen I left them, tell me who's to blame 
+My life since then has been from man to man 
+But I can't run away from what I am
+
+
+
+
 

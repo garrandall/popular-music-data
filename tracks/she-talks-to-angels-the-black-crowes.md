@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-talks-to-angels-the-black-crowes
+lyrics_url: https://www.azlyrics.com/lyrics/blackcrowes/shetalkstoangels.html
 name: She Talks To Angels
 rankings:
 - end_date: '1991-03-22'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
 ---
+
+She never mentions the word "addiction"
+In certain company
+Yes, she'll tell you she's an orphan
+After you meet her family
+
+She paints her eyes as black as night now
+Pulls those shades down tight
+Yeah, she gives a smile when the pain come
+The pain gonna make everything alright
+
+Says she talks to angels
+They call her out by her name
+Oh, yeah, she talks to angels
+Says they call her out by her name
+
+She keeps a lock of hair in her pocket
+She wears a cross around her neck
+Yes, the hair is from a little boy
+And the cross is someone she has not met
+Not yet
+
+Says she talks to angels
+Says they all know her name
+Oh, yeah, she talks to angels
+Says they call her out by her name
+
+She don't know no lover
+None that I ever seen
+Yeah, to her that ain't nothin'
+But to me, yeah, me
+Means everything
+
+She paints her eyes as black as night now
+She pulls those shades down tight
+Oh, yeah, there's a smile when the pain comes
+The pain gonna make everything alright
+Alright, yeah, heah
+
+She talks to angels
+Says they call her out by her name
+Oh, yeah, heah, angels
+Call her out by her name
+Oh, ooh, oh, oh, angels
+They call her out by her name
+
+Oh, oh, oh, she talks to angels
+They call her out
+Yeah, ee, eah, eah, eah, eah
+Call her out
+Don't you know that they
+Call her out by her name?
+
+
 

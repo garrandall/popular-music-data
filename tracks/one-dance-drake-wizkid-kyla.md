@@ -6,6 +6,7 @@ features:
 - Kyla
 genres: []
 key: one-dance-drake-wizkid-kyla
+lyrics_url: https://www.azlyrics.com/lyrics/drake/onedance.html
 name: One Dance
 rankings:
 - end_date: '2016-04-29'
@@ -153,4 +154,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
 ---
+
+
+Baby, I like your style
+
+
+Grips on your waist
+Front way, back way
+You know that I don't play
+Streets not safe
+But I never run away
+Even when I'm away
+Oti, oti, there's never much love when we go OT
+I pray to make it back in one piece
+I pray, I pray
+
+That's why I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+
+
+Baby, I like your style
+
+
+Strength and guidance
+All that I'm wishing for my friends
+Nobody makes it from my ends
+I had to bust up the silence
+You know you gotta stick by me
+Soon as you see the text, reply me
+I don't wanna spend time fighting
+We've got no time
+
+And that's why I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+
+
+Got a pretty girl and she love me long time
+Wine it, wine it, very long time
+Oh, yeah, she steady on grindin'
+Back up, back up, back up and wine it
+Back up, back up and wine it, girl
+Back up, back up, back up and wine it
+Oh, yeah, she steady on grindin'
+Back up, back up and wine it, girl
+
+
+Tell me, I need to know, where do you wanna go?
+'Cause if you're down, I'll take it slow
+Make you lose control
+Where, where, where
+Where, where, where, where
+Oh, yeah, she steady on grindin'
+Where, where, where
+Back up, back up and wine it, girl
+Where, where, where, where
+'Cause if you're down
+Back up, back up and
+'Cause if you're down
+Back up, back up and
+'Cause if you're down
+Back up, back up and
+
+
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+
+
 

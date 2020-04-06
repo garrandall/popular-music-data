@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sara-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/sara.html
 name: Sara
 rankings:
 - end_date: '1979-12-21'
@@ -63,4 +64,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
 ---
+
+Wait a minute, baby.
+Stay with me awhile
+Said you'd give me light
+But you never told me about the fire
+
+Drowning in the sea of love
+Where everyone would love to drown
+But now it's gone
+It doesn't matter what for
+When you build your house
+Then call me home
+
+And he was just like a great dark wing
+Within the wings of a storm
+I think I had met my match
+He was singing
+And undoing
+And undoing the laces
+Undoing the laces
+
+Said, Sara
+You're the poet in my heart
+Never change
+Never stop
+But now it's gone
+It doesn't matter what for
+But when you build your house
+Then call me home
+
+Hold on
+The night is coming and the starling flew for days
+I'd stay home at night all the time
+I'd go anywhere, anywhere, anywhere
+Ask me and I'm there
+Ask me and I'm there, I care
+
+In the sea of love
+Where everyone would love to drown
+But now it's gone
+They say it doesn't matter anymore
+If you build your house
+Then, please, call me home
+
+Sara
+You're the poet in my heart
+Never change
+And don't you ever stop
+Now it's gone,
+No, it doesn't matter anymore
+When you build your house
+I'll come by
+
+Sara
+Sara
+
+(There's a heartbeat
+And it never really died, it never, never really died)
+Oh Sara,
+Would you swallow all your pride
+Would you speak a little louder
+Singing, all I ever wanted
+
+
 

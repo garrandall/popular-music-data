@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-how-country-boys-roll-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/thatshowcountryboysroll.html
 name: That's How Country Boys Roll
 rankings:
 - end_date: '2009-12-18'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
 ---
+
+
+They wake up in the morning and they drink their coffee black
+They love their woman one beat shy of a heart attack
+On the way to work they might stop by a fishin' hole
+That's how country boys roll
+Yeah, they work, work, work, all week til the job gets done
+Weekends they bar-b-que and have a cold one
+They run on a big ol' heart and a pinch of Skoal
+That's how country boys roll
+
+
+Yeah, they're spinnin' their wheels
+Castin' their reels
+Way back on them ol' county roads
+Singin' in bars
+Soupin their cars just to see how fast they'll go
+From a ball and glove to them fallin' in love
+They do everything heart and soul
+That's how country boys roll
+
+
+Well if you don't know your way around
+They'll draw you a map
+And if you're broke and you ask
+They'll give you the shirt off their back
+All they need is a little gas
+A few dollars to fold
+That's how country boys roll
+
+
+Yeah they're spinnin' their wheels
+Castin' their reels
+Way back on them ol' county roads
+Singin' in bars
+Soupin their cars just to see how fast they'll go
+From that ball and a glove to them fallin' in love
+They do everything heart and soul
+That's how country boys roll
+
+Aw come on now!
+
+Yeah they're cryin aloud
+Humble and proud
+They love momma and Jesus and Jones
+That's how country boys roll
+Don't you know
+
+
 

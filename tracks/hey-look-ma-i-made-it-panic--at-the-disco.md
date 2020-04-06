@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-look-ma-i-made-it-panic--at-the-disco
+lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/heylookmaimadeit.html
 name: Hey Look Ma I Made It
 rankings:
 - end_date: '2019-05-03'
@@ -95,4 +96,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
 ---
+
+All my life been hustling and tonight is my appraisal
+'Cause I'm a hooker selling songs and my pimp's a record label
+This world is full of demons, stocks, and bonds, and bible traders
+So I do the deed, get up and leave, a climber and a sadist, yeah
+
+Are you ready for the sequel?
+Ain't ready for the latest?
+In the garden of evil
+I'm gonna be the greatest
+In a golden cathedral
+I'll be praying for the faithless
+And if you lose, boo hoo
+
+Hey look Ma, I made it
+Hey look Ma, I made it
+Everything's comin' up aces, aces
+And if it's a dream, don't wake me, don't wake me
+I said hey look Ma, I made it
+
+Friends are happy for me, or they're honeysuckle phonies
+Then they celebrate my medals or they wanna take my trophies
+Some are loyal soldiers while these other thorns are rosy
+And if you never know who you can trust then trust me, you'll be lonely, oh
+
+Are you ready for the sequel?
+Ain't ready for the latest?
+In the garden of evil
+I'm gonna be the greatest
+In a golden cathedral
+I'll be praying for the faithless
+And if you lose, boo hoo
+
+Hey look Ma, I made it
+Hey look Ma, I made it
+Everything's comin' up aces, aces
+If it's a dream, don't wake me, don't wake me
+I said hey look Ma, I made it, I made it
+I said hey look Ma, I made it, I made it
+I see it, I want it, I take it, take it
+And if it's a dream, don't wake me, don't wake me
+
+I said hey look Ma, I made it
+(Mama best believe it)
+(Mama best believe it) Hey look Ma, I made it
+(Think I must be dreamin')
+(Wide awake and dreaming) Hey look Ma, I made it
+(Mama best believe it)
+(Mama best believe it) Hey look Ma, I made it
+(Think I must be dreamin')
+Hey look Ma, I made it
+
+
 

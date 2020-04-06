@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 7-days-craig-david
+lyrics_url: https://www.azlyrics.com/lyrics/craigdavid/7days.html
 name: 7 Days
 rankings:
 - end_date: '2001-12-14'
@@ -87,4 +88,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
 ---
+
+On my way to see my friends
+Who lived a couple blocks away from me (owh)
+As I walked through the subway
+It must have been about quarter past three
+In front of me
+Stood a beautiful honey with a beautiful body
+She asked me for the time
+I said it'd cost her name
+A six digit number and a date with me tomorrow at nine
+
+Did she decline? No
+Didn't she mind? I don't think so
+Was it for real? Damn sure
+What was the deal? A pretty girl aged twenty-four
+So was she keen? She couldn't wait
+Cinnamon queen? let me update
+What did she say? She said she'd love to
+Rendezvous
+She asked me what we were gonna do
+Said we'd start with a bottle of moet for two
+
+Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+I met this girl on Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+
+Nine was the time
+Cos I'll be getting mine
+And she was looking fine
+Smooth talker
+She told me
+She'd love to unfold me all night long
+Ooh I loved the way she kicked it
+From the front to back she flipped
+(Back she flipped it, ooh the way she kicked it)
+And I oh oh I yeah
+Hope that she'd care
+Cos I'm a man who'll always be there
+
+Ooh yeah
+I'm not a man to play around baby
+Ooh yeah
+Cos a one night stand isn't really fair
+From the first impression girl hmm you don't seem to be like that
+Cos there's no need to chat for there'll be plenty time for that
+From the subway to my home
+Endless ringing of my phone
+When your feeling all alone
+All you gotta do
+Is just call me call me
+
+Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+I met this girl on Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+
+(Break it down, uh break it down)
+Since I met this special lady
+Ooh yeah
+I can't get her off my mind
+She's one of a kind
+And I ain't about to deny it
+It's a special kinda thing
+With you-oh
+
+Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+I met this girl on Monday
+Took her for a drink on Tuesday
+We were making love by Wednesday
+And on Thursday and Friday and Saturday
+We chilled on Sunday
+
+
+
 

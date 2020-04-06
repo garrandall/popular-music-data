@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blaze-of-glory-jon-bon-jovi
+lyrics_url: https://www.azlyrics.com/lyrics/altiyanchilds/blazeofglory.html
 name: Blaze Of Glory
 rankings:
 - end_date: '1990-07-27'
@@ -91,4 +92,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
 ---
+
+Wake up in the morning and I raise my weary head
+I got an old coat for a pillow and the earth was last night's bed
+I don't know where I'm goin', only God knows where I've been
+I'm a devil on the run, a six gun lover, a candle in the wind
+
+I'm goin' down in a blaze of glory
+But take me now and know the truth
+I'm goin' out in a blaze of glory
+Lord I never drew first but I drew first blood
+And I'm no one's son
+Call me young gun
+
+You're brought into this world
+They say you're born in sin
+Well, at least they gave me somethin' I didn't have to steal or have to win
+Well, they tell me that I'm wanted
+Yeah, I'm a wanted man
+I'm a colt in your stable, I'm what Cain was to Abel
+Mister, catch me if you can
+
+Shot down in a blaze of glory
+But take me now, know the truth
+I'm goin' down in a blaze of glory
+Lord I never drew first but I drew first blood
+And I'm the devil's son
+Call me young gun
+
+Each night I go to bed
+Pray the Lord my soul to keep
+No, I ain't looking for forgiveness
+But before I'm six foot deep
+God, I gotta ask a favour and I hope you'll understand
+'Cause I've lived life to the fullest
+Let this boy die like a man
+Starin' down the bullet, let me make my final stand
+
+Shot down in a blaze of glory
+Take me now but know the truth
+I'm going out in a blaze of glory
+Lord I never drew first but I drew first blood
+And I'm the devil's son
+Call me young gun
+
+
 

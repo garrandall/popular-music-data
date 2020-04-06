@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-for-a-reason-the-osmonds
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/imdyin.html
 name: Love Me For A Reason
 rankings:
 - end_date: '1974-09-06'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
 ---
+
+I've never been so all alone.
+Darkness never touched my day.
+Never once I looked for love
+The only reason is because
+It always came my way.
+
+I never had to get down on my knees.
+I can't remember once I cried.
+But now someone without warning
+Is making darkness of the morning
+And it's tearing me up inside.
+
+Can't you see that I'm dyin'?
+Tell the doctor it's a broken heart.
+The only one who can make it start
+Is killing me, killing me
+'Cause I know I can't have her.
+Yet I gotta keep tryin'
+I know there's gotta be a way.
+Until I know she's here to stay,
+It's killing me, killing me
+'Cause I know that I love her.
+
+Nothing matters anymore.
+My only want has been denied.
+Now I'm left here all alone
+Without someone of my own,
+And it's tearin' me up inside.
+
+Can't you see that I'm dyin'?
+Tell the doctor it's a broken heart.
+The only one who can make it start
+Is killing me, killing me
+'Cause I know I can't have her.
+Yet I gotta keep tryin'
+I know there's gotta be a way.
+Until I know she's here to stay
+It's killing me, killing me
+'Cause I know that I love her.
+
+
 

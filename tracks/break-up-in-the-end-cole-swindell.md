@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-up-in-the-end-cole-swindell
+lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/breakupintheend.html
 name: Break Up In The End
 rankings:
 - end_date: '2018-03-16'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
 ---
+
+I still walk in that bar a little drunk
+I still ask you what you're drinking, what's your name
+I still kiss you by the shuffleboard, last call at 2am
+Even though we break up in the end
+
+I'll introduce you to my mom and dad
+Say "I think I love her" when you leave that room
+I'd still not take their advice when I say you're moving in
+Even though we break up in the end
+
+Even if I knew you'd be the one that got away
+I'd still go back and get you
+Even if I knew you'd be my best and worst mistake
+Oh, I'd still make it with you
+Over and over, again and again
+Even though we break up in the end
+
+I'd still play my favorite song in your car
+Let you love me to it, 'til it felt like ours
+Now all I hear is you in it, but I'd still let you ruin it
+Even though we break up in the end
+
+Even if I knew you'd be the one that got away
+I'd still go back and get you
+Even if I knew you'd be my best and worst mistake
+Girl, I'd still make it with you
+Over and over, again and again
+Even though we break up in the end
+
+You've just had one too many tonight
+You're just calling 'cause you're lonely, that's okay
+But you know if you come over, I can't not let you in
+Even though we'll break up in the end
+I'd do it over and over, again and again
+Even though we break up in the end
+
+
 

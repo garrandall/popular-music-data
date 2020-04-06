@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-are-you-dinah-washington
+lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/whereareyou.html
 name: Where Are You
 rankings:
 - end_date: '1962-05-25'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
 ---
+
+Where are you?
+Where have you gone without me?
+I thought you cared about me
+Where are you?
+
+Where's my heart?
+Where is the dream we started?
+I can't believe we're parted
+Where are you?
+
+When we said goodbye love
+What had we to gain
+When I gave you my love
+Was it all in vain
+
+All life through
+Must I go on pretending
+Where is my happy ending
+Where are you?
+
+When we said goodbye love
+What had we to gain
+When I gave you my love
+Was it all in vain
+
+All life through
+Must I go on pretending
+Where is that happy ending
+Where are you? Where are you?
+
+
 

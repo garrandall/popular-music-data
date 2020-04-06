@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-desire-kenny-rogers
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/morningdesire.html
 name: Morning Desire
 rankings:
 - end_date: '1985-11-29'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
+
+(Dave Loggins)
+Here it's seven in the am,
+It's gonna take more then wakin" to rise me
+I wake up with this need again
+But feel the love of the woman beside me
+It's just one of those days
+When I wana lay here with her
+And love her before I leave
+And listen to the rain fall up on the roof
+And the thunder sounds like horses hooves
+
+Oh I listen to her breathe
+And it makes me wana wake her up
+And tell her that I'm on fire
+With morning desire
+
+It looks like I'm gonna be late again
+And I need to get up and get movin'
+And I'm tryin'
+But the longer I keep stalling
+The more I think about callin' in and lying here
+It's just one of those days
+When I wana stay here with her
+And watch her while she sleeps
+And listen to the rain fall up on the roof
+And the thunder sounds like horses hooves
+
+Oh I listen to her breathe
+And it makes me wana wake her up
+And tell her that I'm on fire
+With morning desire
+
+Well I love to hear the rain fallin' on the roof
+And the thunder sounds like horses hooves
+
+Oh I listen to her breathe
+And it makes me wana wake her up
+And tell her that I'm on fire
+With morning desire
+
+With Morning Desire
+
+
 

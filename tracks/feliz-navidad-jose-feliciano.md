@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feliz-navidad-jose-feliciano
+lyrics_url: https://www.azlyrics.com/lyrics/tarja/feliznavidad.html
 name: Feliz Navidad
 rankings:
 - end_date: '2017-01-13'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+
+Feliz navidad
+Feliz navidad
+Feliz navidad, prospero aÃ±o y felicidad
+Feliz navidad
+Feliz navidad
+Feliz navidad, prospero aÃ±o y felicidad
+
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas from the bottom of my heart
+
+Feliz navidad
+Feliz navidad
+Feliz navidad, prospero aÃ±o y felicidad
+Feliz navidad
+Feliz navidad
+Feliz navidad, prospero aÃ±o y felicidad
+
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas from the bottom of my heart
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas from the bottom of my heart
+
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas from the bottom of my heart
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas
+I want to wish you a merry Christmas from the bottom of my heart
+
+
 

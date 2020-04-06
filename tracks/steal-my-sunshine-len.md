@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steal-my-sunshine-len
+lyrics_url: https://www.azlyrics.com/lyrics/lenka/stealmysunshine.html
 name: Steal My Sunshine
 rankings:
 - end_date: '1999-08-20'
@@ -107,4 +108,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
 ---
+
+I was lying on the grass
+On Sunday morning of last week
+Indulging in my self-defeats
+My mind was thugged, all laced and bugged
+All twisted around and beat
+Uncomfortable, I'm three feet deep
+Now the fuzzy stare from not being there
+On a confusing morning week
+Impaired my tribal lunar speak
+And of course you can't become if you only say
+What you would have done
+So I missed a million miles of fun
+
+I know it's up for me
+(If you steal my sunshine)
+Making sure I'm not in too deep
+(If you steal my sunshine)
+Keeping versed and on my feet
+(If you steal my sunshine)
+(If you steal my sunshine)
+
+I was lying on the bench slide
+In the park across the street
+L-A-T-E-R that week
+My sticky paws were in to making straws
+Out of big fat Slurpee treats
+An incredible eight foot heap
+Now the funny glare to pay a gleaming tare
+In a staring under heat
+Involved an under usual feat
+And I'm not only among
+But I invite who I want to come
+So I missed a million miles of fun
+
+I know it's up for me
+(If you steal my sunshine)
+Making sure I'm not in too deep
+(If you steal my sunshine)
+Keeping versed and on my feet
+(If you steal my sunshine)
+(If you steal my sunshine)
+
+I know it's done for me
+(If you steal my sunshine)
+Not something hard to see
+(If you steal my sunshine)
+Keeping dumb and built to beat
+(If you steal my sunshine)
+(If you steal my sunshine)
+
+My sunshine
+(If you steal my sunshine)
+My sunshine
+(If you steal my sunshine)
+My sunshine
+(If you steal my sunshine)
+(If you steal my sunshine)
+
+If you steal my sunshine
+If you steal my sunshine
+
+
 

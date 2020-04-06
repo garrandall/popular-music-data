@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alright-darius-rucker
+lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/alright.html
 name: Alright
 rankings:
 - end_date: '2009-06-05'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
 ---
+
+Alright, alright
+Yeah, it's alright, alright
+
+And I don't need five star reservations
+I got spaghetti and a cheap bottle of wine
+I don't need no concert in the city
+I got a stereo and the 'Best Of Patsy Cline'
+
+Ain't got no caviar, no Dom Perignon
+But as far as I can see I got everything I want
+
+'Cause I got a roof over my head
+The woman I love layin' in my bed
+And it's alright, alright
+
+I got shoes under my feet
+Forever in the eyes staring back at me
+And it's alright, alright
+
+Yeah, I got all I need
+And it's alright by me
+
+Maybe later on we'll walk down to the river
+Lay on a blanket and stare up at the moon
+It may not be no French Riviera
+But it's all the same to me as long as I'm with you
+
+May be a simple life but that's okay, yeah
+If you ask me baby I think I got it made
+
+'Cause I got a roof over my head
+The woman I love layin' in my bed
+And it's alright, alright
+
+I got shoes under my feet
+Forever in the eyes staring back at me
+And it's alright, alright
+
+Yeah, I got all I need
+And it's alright by me
+It's alright by me, yeah, yeah
+
+When I lay down at night I thank the Lord above
+For giving me everything I ever could dream of
+
+'Cause I got a roof over my head
+The woman I love layin' in my bed
+And it's alright, alright, alright, alright
+
+I got shoes under my feet
+Forever in the eyes staring back at me
+And it's alright, alright, alright
+
+Yeah, I got all I need, yeah, I got all I need
+And it's alright by me, oh yeah
+It's alright by me, yeah, yeah, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 6-minutes-of-pleasure-ll-cool-j
+lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/6minutesofpleasure.html
 name: 6 Minutes Of Pleasure
 rankings:
 - end_date: '1991-09-20'
@@ -15,4 +16,154 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
 ---
+
+Six minutes, six minutes 
+Six minutes, six minutes
+
+
+I know why you're here 
+I ain't sayin nothin 
+
+
+Aiyyo baby I know why you're here 
+I know what you're doing
+I can see it in your eyes you're up to somethin 
+I know what it is, but we're still cool 
+And we can socialize, I'm peepin ya baby
+I'm holdin back I'm not lettin go
+Cause a fool doesn't have a shoulder to cry on 
+So, give me a kiss and you service
+Whether you like a mister or a miss 
+
+
+
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+
+
+Baby you're my dear I know why you're here
+I know why you came I know what you're thinkin 
+I know what you need and that's what I've got 
+You think I'm goin crazy no I'm not drinking
+I know what you want, I made ya want it 
+Take my hand listen to the man
+You have a plan don't even risk it 
+What do you want - a biscuit?
+
+
+
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+
+Six minutes, six minutes
+Six minutes, six minutes
+(I ain't sayin nothin)
+Six minutes, six minutes
+
+
+Honey, I know what you're up to I know how you're livin 
+I know where you go when you leave my house
+I know what your dreams are but I dream too
+Your with a man your not with a mouse 
+I see how you stare I see how you smile 
+I see right through now act like you knew 
+I know all about where you been runnin 
+Wipe your feet before you come in 
+
+
+
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+
+
+Yeah, that's smooth, let's just sit here and relax 
+while my man plays the piano for us  
+Sip somethin mellow
+And it's us while you're here 
+But of course I ain't sayin nothin
+
+
+OK, now that you know I know you know that I know you know 
+And that's the move so sit right here
+Whisper in my ear caress my chest
+And say somethin smooth but don't forget
+I'll know what you'll say
+Just what I thought I know the routine 
+I know the routine just what I thought
+I know you tell the truth I know you don't lie
+Ssssssshhhhhhh, close your eyes    
+
+
+
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+Aiyyo baby I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+
+
+I won't tell if you won't tell
+It's cool with me I know why you're here 
+I ain't sayin nothin 
+I ain't sayin nothin 
+I know why you're here
+But I ain't sayin nothin
+
+
+I know why you're here
+I ain't sayin nothin
+
+
+I know you don't love me 
+I know why you're here
+But I ain't sayin nothin
+
+
+I know why you're here
+But I ain't sayin nothin
+
+
+I know you don't love me
+But I ain't sayin nothin
+(I know why you're here)
+I ain't sayin
+
+
 

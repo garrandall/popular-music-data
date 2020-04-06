@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatever-it-takes-imagine-dragons
+lyrics_url: https://www.azlyrics.com/lyrics/samtsui/believerthunderwhateverittakesimaginedragonsmashup.html
 name: Whatever It Takes
 rankings:
 - end_date: '2017-06-09'
@@ -115,4 +116,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
 ---
+
+First thing's first I'mma say all the words inside my head
+I'm fired up and tired of the way that things have been
+Just a young gun
+With a quick fuse
+I was uptight
+Wanna let loose
+
+Second thing second don't you tell me what you think that I can be
+I'm the one at the sail, I'm the master of my sea
+In the foyer
+Take a number
+I was lightning
+Before the thunder (thunder)
+
+Whip, whip
+Run me like a race horse
+Hold me like a rip cord
+Break me down and build me up
+I wanna be the
+Slip, slip
+Word upon your
+Lip, lip
+Letter that you
+Rip, rip
+Break me down and build me up
+Whatever it takes!
+
+(Pain!)
+You made me a, you made me a
+Believer, believer
+Whatever it takes!
+You broke me down, you build me up
+Believer, believer
+Whatever it takes!
+Cause I love the adrenaline in my veins
+Whatever it takes
+You made me a, you made me a
+Believer, believer
+Whatever it takes
+
+Third things third, set a prayer for the ones up above
+All the hate that you've heard has turned your spirit to a dove
+Kids were laughing in my classes
+While I was scheming for the masses
+
+Whip, whip
+Run me like a race horse
+Hold me like a rip cord
+Break me down and build me up
+I wanna be the
+Slip, slip
+Word upon your
+Lip, lip
+Letter that you
+Rip, rip
+Break me down and build me up
+Whatever it takes!
+
+(Pain!)
+You made me a, you made me a
+Believer, believer
+Whatever it takes!
+You broke me down, you build me up
+Believer, believer
+Whatever it takes!
+Cause I love the adrenaline in my veins
+Whatever it takes!
+You made me a, you made me a
+Believer, believer
+Whatever it takes!
+You made me a, you made me a
+Believer, believer
+Whatever it takes!
+You break me down, you build me up
+Believer, believer
+Whatever it takes!
+Cause I love the adrenaline in my veins
+Whatever it takes!
+You made me a, you made me a
+Believer, believer
+Whatever it takes
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-stronger-sara-evans
+lyrics_url: https://www.azlyrics.com/lyrics/saraevans/alittlebitstronger.html
 name: A Little Bit Stronger
 rankings:
 - end_date: '2011-01-21'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
 ---
+
+Woke up late today,
+And I still feel the sting of the pain.
+But I brushed my teeth anyway,
+I got dressed
+Through the mess
+And put a smile on my face.
+
+I got a little bit stronger.
+
+Riding in the car to work,
+And I'm trying to ignore the hurt.
+So I turned on the radio,
+Stupid song made me think of you,
+I listened to it for a minute,
+But then I changed it.
+
+I'm getting a little bit stronger,
+Just a little bit stronger.
+
+And I'm done hoping that we could work it out,
+I'm done with how it feels,
+Spinning my wheels
+Letting you drag my heart around.
+And oh and I'm done thinking you could ever change.
+
+I know my heart will never be the same,
+But I'm telling myself I'll be okay.
+Even on my weakest days,
+I get a little bit stronger.
+
+It doesn't happen overnight,
+But you turn around and a month's gone by,
+And you realize you haven't cried.
+Not giving you an hour or a second or another minute longer.
+I'm busy getting stronger.
+
+And I'm done hoping that we could work it out,
+I'm done with how it feels,
+Spinning my wheels
+Letting you drag my heart around.
+And oh and I'm done thinking you could ever change.
+
+I know my heart will never be the same,
+But I'm telling myself I'll be okay.
+Even on my weakest days,
+I get a little bit stronger.
+I get a little bit stronger.
+
+Getting along without you baby,
+I'm better off without you baby,
+How does it feel without me baby?
+I'm getting stronger without you baby.
+
+And I'm done hoping we could work it out,
+I'm done with how it feels,
+Spinning my wheels
+Letting you drag my heart around.
+And oh and I'm done thinking you could ever change.
+
+I know my heart will never be the same,
+But I'm telling myself I'll be okay,
+Even on my weakest days,
+I get a little bit stronger.
+I get a little bit stronger.
+
+Just a little bit stronger.
+A little bit, a little bit, a little bit stronger.
+Get a little bit stronger.
+
+
 

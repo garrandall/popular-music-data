@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-tonight-brett-young
+lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/heretonight.html
 name: Here Tonight
 rankings:
 - end_date: '2019-01-18'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
+
+If ever I get lost in your eyes tonight
+Please just let me stay right there a little bit longer
+Underneath the stars, we are on fire
+And I don't wanna go if you don't wanna go
+
+We can just stay here in this minute
+Lose all track of time
+Let the world spin on without us for a while
+I'm telling you, we're just one kiss away from heaven
+So baby, hold on tight
+'Cause I want to get wrapped up in your love
+So baby, let's just stay here tonight
+
+I just wanna linger like this on your lips
+And taste the salt air on your skin
+Hold you in my hands
+Anything and everything, you know that I'm all in
+
+We can just stay here in this minute
+Lose all track of time
+Let the world spin on without us for a while
+I'm telling you, we're just one kiss away from heaven
+So baby, hold on tight
+'Cause I want to get wrapped up in your love
+So baby, let's just stay here tonight, tonight
+Baby, let's just stay here tonight, tonight, tonight, tonight, yeah
+Let's just stay right here tonight
+
+'Cause I don't wanna go if you don't wanna go
+We can just stay here in this minute
+Lose all track of time
+Let the world spin on without us for a while
+
+I'm telling you, we're just one kiss away from heaven
+So baby, hold on tight
+'Cause I want to get wrapped up in your love
+So baby, let's just stay here tonight, tonight
+Baby, let's just stay here tonight, tonight, tonight, tonight, yeah
+Let's just stay right here tonight
+
+
 

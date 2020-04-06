@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-adore-mi-amor-color-me-badd
+lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/iadoremiamor.html
 name: I Adore Mi Amor
 rankings:
 - end_date: '1991-08-02'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
 ---
+
+
+Dream on... Dream away
+I think I'm gonna have to stay
+Stay forever
+
+I adore... mi amor
+I adore... mi amor
+
+
+You want to take her place
+You say you'd treat me better
+But, better I know for sure
+You see she loves me
+And I could never leave her
+Never baby, never
+
+Chica tu eres mi vida la ternura
+Y alegria amor
+Y este sueÃ±o
+Contigo sera verdad (yeah Yeah)
+
+
+
+
+Listen... my love, the girl of my dreams
+And I will never leave
+She's all that I need and more
+I'll love her always
+What more could a man ask for
+What more could I ask for
+
+You know that I really love my baby
+She can give me everything I need
+There is no one to take her place
+She's got my heart in her hands
+Baby, I adore
+
+
+
+
+Ooh mi amor es por ti que yo vivo y por ti suspiro.
+No solo hoy, solo hoy si no siempre.
+Tu estrella brilla siempre en mi.
+Y este sueÃ±o contigo sera realidad te quiero mucho
+Baby te quiero mucho, mi amor.
+
+You know I love you (I adore)
+You know I need you girl (mi amor)
+You know that I really love my baby (I adore)
+She can give me everything I need (mi amor)
+And there would never be noone that could take her place (I adore)
+She got my heart in her hands (mi amor)
+You're the one that I adore (I adore)
+I'll be forever your love (mi amor)
+You're the one that I wanna see (I adore)
+I want you to stay with me... yeah (mi amor
+
+
 

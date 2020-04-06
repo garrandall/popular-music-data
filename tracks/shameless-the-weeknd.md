@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shameless-the-weeknd
+lyrics_url: https://www.azlyrics.com/lyrics/weeknd/shameless.html
 name: Shameless
 rankings:
 - end_date: '2015-09-25'
@@ -15,4 +16,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
 ---
+
+Say it louder, say it louder
+Who's gonna love you like me, like me?
+Say it louder, say it louder
+Who's gonna touch you like me, like me?
+
+Ooh, said you wanna be good but you couldn't keep your composure
+Ooh, said you wanna be good but you're begging me to come over
+Ooh, come over
+Ooh, saying who's gonna fuck you like me? Yeah
+
+I don't wanna hurt you but you live for the pain
+I'm not tryna say it but it's what you became
+You want me to fix you but it's never enough
+That's why you always call me cause you're scared to be loved
+But I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+
+Say it louder, say it louder
+Who's gonna love you like me, like me? Yeah
+Say it louder, say it louder
+Who's gonna touch you like me, like me?
+
+Ooh, said it'd be the last time, all you needed was a little closure
+Ooh, said it'd be the last time but you're begging me to come over
+Ooh, come over
+Ooh, saying who's gonna fuck you like me? Hey
+
+I don't wanna hurt you but you live for the pain
+I'm not tryna say it but it's what you became
+You want me to fix you but it's never enough
+That's why you always call me cause you're scared to be loved
+But I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+
+Who's gonna fuck you like.. hey
+
+I don't wanna hurt you but you live for the pain
+I'm not tryna say it but it's what you became
+You want me to fix you but it's never enough
+That's why you always call me cause you're scared to be loved
+But I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+I'll always be there for you, I'll always be there for you
+I'll always be there for you, girl I have no shame
+
+
 

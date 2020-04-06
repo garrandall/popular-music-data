@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-like-a-wheel-the-steve-miller-band
+lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/heartlikeawheel.html
 name: Heart Like A Wheel
 rankings:
 - end_date: '1981-11-06'
@@ -63,4 +64,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
 ---
+
+I've got a heart like a wheel
+Feel like I got to roll
+Ooohh
+
+Heart like a wheel
+I told you so
+And I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+
+Well, I can give what I take
+And you know I want to give you my love
+Babe I ain't faking
+You know I want to give you my love
+
+I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+Come on and roll
+
+I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+
+It takes two to make love
+It takes love to make a family real
+I got to know what you need
+I got to know what you really feel
+
+And I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+Come on and roll
+
+You know it's such a pity
+If you're going to get the summertime blues
+Lovers everywhere are pairing off two by twos
+
+And I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+
+I've been loving you for so long
+You are the one
+Heart so real
+I love you so
+
+I've got a heart like a wheel
+I love you so
+
+I've got a heart like a wheel
+I've got to roll
+
+
 

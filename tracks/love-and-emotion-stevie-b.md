@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-and-emotion-stevie-b
+lyrics_url: https://www.azlyrics.com/lyrics/stevieb/loveandemotion.html
 name: Love And Emotion
 rankings:
 - end_date: '1990-07-06'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
 ---
+
+You told me that you loved me so
+And then you said you've got to go
+Baby, what's it gonna be
+You told me that you're gonna stay
+And then you up, then you went away
+Why you wanna be so mean
+
+All I need is some love and emotion
+It's the only thing that turns me on
+All I need is some love and emotion
+It's the only thing that turns me on
+
+You told me that you would be mine
+Baby, till the end of time
+Tell me was that just a lie
+Girl, you've got me on my knees
+Begging for your sympathy
+I just want to be your guy
+
+All I need is some love and emotion
+It's the only thing that turns me on
+All I need is some love and emotion
+It's the only thing that turns me on
+
+All I need is some love and emotion
+
+You know it girl that I've got the notion
+Somehow I feel that you got the potion
+To make my life complete, woo
+
+Oh, yeah
+Oh, yeah
+All I need is love
+Oh, yeah
+I need a little love in the morning time
+
+Get nasty
+
+All I need is some love and emotion (All I need)
+It's the only thing that turns me on (All I really need)
+All I need is some love and emotion (Woo)
+It's the only thing that turns me on (I need a little love in the morning time)
+
+All I need is some love and emotion
+It's the only thing that turns me on (All I really need)
+All I need is some love and emotion (Woo)
+It's the only thing that turns me on (I need a little love in the morning time)
+
+All I need is some love and emotion
+It's the only thing that turns me on (All I really need)
+All I need is some love and emotion
+It's the only thing that turns me on (I need a little love in the morning time)
+
+
 

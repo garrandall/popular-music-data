@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chicks-dig-it-chris-cagle
+lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/chicksdigit.html
 name: Chicks Dig It
 rankings:
 - end_date: '2003-11-07'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
 ---
+
+Hey y'all...watch this
+Daddy's belt
+Momma's drapes
+Standin' tall on the
+Backyard shed
+Lookin' cool in my superman cape
+I told the neighborhood girl
+Said hey y'all watch this
+My fate was a broken arm
+My reward one big kiss
+When daddy asked me why I did it
+I made him laugh out loud when I told him
+'Cause the chicks dig it
+
+
+Scars heal, glory fades
+And all we're left with are the memories made
+Pain hurts, but only for a minute
+Yeah life is short so go on and live it
+'Cause the chicks dig it
+
+Black top road
+Learner permit
+Thought I was Earnhardt
+Drivin' fast but I didn't see the ditch
+Took out a mailbox, then a fence and then a barn
+The police came and called my father
+But I met the farmer's daughter
+And when the judge asked me why I did it
+He threw the book at me when I told him
+"Cause the chicks dig it"
+
+
+
+Just throw caution to the wind my friend
+Then sit back and watch your life begin, 'cause
+
+
+
+Scars heal, glory fades
+And all we're left with are the memories made
+Pain hurts, but only for a minute
+Yeah life is short so go on and live it
+It don't matter if you lose or if you win it
+Hey the chicks dig it
+The chicks dig it
+the chicks dig it
+the chicks dig it
+
+
 

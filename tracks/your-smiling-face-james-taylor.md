@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-smiling-face-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/yoursmilingface.html
 name: Your Smiling Face
 rankings:
 - end_date: '1977-10-07'
@@ -75,4 +76,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
 ---
+
+Whenever I see your smiling face, I have to smile myself because I love you, yes, I do.
+And when you give me that pretty little pout, it turns me inside out.
+There's something about you, baby, I don't know.
+
+Isn't it amazing a man like me can feel this way,
+tell me how much longer, it could grow stronger every day. Oh, how much longer?
+
+I thought I was in love a couple of times before with the girl next door,
+but that was long before I met you, now I'm sure that I won't forget you.
+And I thank my lucky stars that you are who you are,
+and not just another lovely lady set out to break my heart.
+
+Isn't it amazing a man like me can feel this way,
+tell me how much longer, it could grow stronger every day.
+
+No one can tell me that I'm doing wrong today, whenever I see you smile at me.
+No one can tell me that I'm doing wrong today whenever I see your smiling face my way.
+No one can tell me that I'm doing it wrong today.
+No one can tell me that I'm doing it wrong today.
+
+
 

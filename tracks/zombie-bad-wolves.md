@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: zombie-bad-wolves
+lyrics_url: https://www.azlyrics.com/lyrics/badwolves/zombie.html
 name: Zombie
 rankings:
 - end_date: '2018-03-30'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
 ---
+
+Another head hangs lowly
+Child is slowly taken
+And the violence causes silence
+Who are we mistaken?
+
+But you see, it's not me
+It's not my family
+In your head, in your head, they are fighting
+With their tanks, and their bombs
+And their bombs, and their drones
+In your head, in your head, they are crying
+
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie-ie, oh
+
+Another mother's breaking
+Heart is taking over
+When the violence causes silence
+We must be mistaken
+
+It's the same old theme
+In two thousand eighteen
+In your head, in your head, they're still fighting
+With their tanks, and their bombs
+And their guns, and their drones
+In your head, in your head, they are dying
+
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie-ie, oh
+
+It's the same old theme
+In two thousand eighteen
+In your head, in your head, they are dying
+
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie
+What's in your head, in your head?
+Zombie, zombie, zombie-ie-ie-ie, oh
+Oh oh oh oh oh oh oh yeah
+
+
 

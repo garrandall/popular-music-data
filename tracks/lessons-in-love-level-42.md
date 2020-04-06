@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lessons-in-love-level-42
+lyrics_url: https://www.azlyrics.com/lyrics/level42/lessonsinlove.html
 name: Lessons In Love
 rankings:
 - end_date: '1987-04-10'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
 ---
+
+I'm not proud, I was wrong
+And the truth is hard to take
+I felt sure we had enough
+But our love went overboard
+
+Lifeboat lies lost at sea
+I've been trying to reach your shore
+Waves of doubt keep drowning me
+
+All the dreams that we were building
+We never fulfilled them
+Could be better, should be better
+For lessons in love
+
+For restless eyes, egos burn
+And the mold is hard to break
+Now we've waded in too deep
+And love is overboard
+
+Heavy hearts, token words
+All the hopes I ever had
+Fade like footprints in the sand
+
+All the homes that we were building
+We never lived in
+Could be better, should be better
+Lessons in love
+
+If we lose the time before us
+The future will ignore us
+We should use it, we could use it, yeah
+Lessons in love
+Lost without love
+
+Lessons in love
+When will you ever learn
+Lessons in love
+When there's nowhere left to turn
+
+Lessons in love
+Don't let your spirit burn
+Lessons in love
+I'll wait 'till you return
+
+All the dreams that we were building
+We never lived them
+We should use it, we could use it, yeah
+For lessons in love
+
+All the homes that we were building
+we never lived in
+Could be better, should be better
+Lessons in love
+
+If we lose the time before us
+The future will ignore us
+We should use it, we could use it, yeah
+Lessons in love
+
+
 

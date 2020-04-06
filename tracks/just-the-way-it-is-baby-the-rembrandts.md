@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-the-way-it-is-baby-the-rembrandts
+lyrics_url: https://www.azlyrics.com/lyrics/rembrandts/justthewayitisbaby.html
 name: Just The Way It Is Baby
 rankings:
 - end_date: '1991-02-15'
@@ -83,4 +84,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
 ---
+
+Do you remember once upon a time - when you were mine?
+The stars above were bright and new.
+I pulled them down for you, just when I fell in love again.
+You said that all good things must end
+
+BABY, THAT'S JUST THE WAY IT IS BABY (WHOAH WHOAH)
+BABY, THAT'S JUST THE WAY IT IS BABY
+
+I've never had a hand for solitaire - it's so unfair.
+That I should have my chance and lose?
+I feel like I've been used to help you through another night. 
+You spelled it out in black and white
+
+BABY, THAT'S JUST THE WAY IT IS BABY (WHOAH WHOAH)
+BABY, THAT'S JUST THE WAY IT IS BABY
+
+The tides that once had carried you away - they bring you back today.
+The time has washed away my pain.
+I find that things have changed and disappeared without a trace.
+You can't get back what you've erased
+And I say 
+
+BABY, THAT'S JUST THE WAY IT IS BABY - THAT'S JUST THE WAY IT IS 
+BABY, THAT'S JUST THE WAY IT IS BABY - OH THAT'S JUST THE WAY IT IS
+BABY, THAT'S JUST THE WAY IT IS BABY 
+BABY, THAT'S JUST THE WAY IT IS BABY
+BABY,THAT'S JUST THE WAY IT IS BABY -  JUST THE WAY IT IS
+
+
+
 

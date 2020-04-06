@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magic-town-the-vogues
+lyrics_url: https://www.azlyrics.com/lyrics/vogues/magictown.html
 name: Magic Town
 rankings:
 - end_date: '1966-03-04'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+
+They told me the streets were all paved with gold
+But these dirty sidewalks are gray and concrete cold
+They said neon lights were a beautiful sight
+But how 'bout the one blinkin' in my room all night
+
+And where's the magic in this magic town
+Where's the good life they said could be found
+Where's the magic to make all my big dreams come true
+
+I gotta find it girl before I send for you
+
+They said in this town you get rich in no time
+But here I am and I'm down to my last dime
+I just don't know why I bother to try
+When nobody here gives a hang if I live or die
+
+And where's the magic in this magic town
+Where's the good life they said could be found
+Where's the magic to make all my big dreams come true
+
+I gotta find it, girl before I send for you
+
+And where's the magic in this magic town
+Where's the good life they said could be found
+Where's the magic to make all my big dreams come true
+
+I'm gonna find it, girl, if it can be found
+
+Before I bring you to
+
+This magic town...
+
+
 

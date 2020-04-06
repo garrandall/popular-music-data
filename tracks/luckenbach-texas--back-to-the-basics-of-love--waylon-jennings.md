@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: luckenbach-texas--back-to-the-basics-of-love--waylon-jennings
+lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/luckenbachtexasbacktothebasicsoflove.html
 name: Luckenbach Texas (Back To The Basics Of Love)
 rankings:
 - end_date: '1977-05-13'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
 ---
+
+The only two things in life
+That make it worth livin'
+Is guitars to tune good 
+And firm feelin' women
+
+I don't need my name in the marquis lights
+I got my song and I got you with me tonight
+Maybe it's time we got back to the basics of love
+
+Let's go to Luckenbach, Texas 
+With Waylon and Willie and the boys
+This successful life we're livin'
+Got us feuding like the Hatfields and McCoys
+
+Between Hank Williams pain songs
+And Newbury's train songs
+And blue eyes cryin' in the rain 
+Out in Luckenbach, Texas 
+Ain't nobody feelin' no pain
+
+So baby let's sell your diamond ring
+Buy some boots and faded jeans and go away
+This coat and tie is choking me
+In your high society you cry all day
+
+We've been so busy 
+Keepin' up with the Jones
+Four car garage and we're still building on
+Maybe it's time we got 
+Back to the basics of love
+
+Let's go to Luckenbach, Texas 
+With Waylon and Willie and the boys
+This successful life we're livin'
+Got us feuding like the Hatfields and McCoys
+
+Between Hank Williams pain songs
+And Newbury's train songs
+And blue eyes cryin' in the rain
+Out in Luckenbach, Texas 
+Ain't nobody feelin' no pain
+
+Let's go to Luckenbach, Texas 
+With Willie and Waylon and the boys
+This successful life we're livin' 
+Got us feuding like the Hatfields and McCoys
+
+Between Hank Williams pain songs
+And Jerry Jeff's train songs
+And blue eyes cryin' in the rain
+Out in Luckenbach, Texas 
+There ain't nobody feelin' no pain
+
+
 

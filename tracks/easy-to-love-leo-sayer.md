@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-to-love-leo-sayer
+lyrics_url: https://www.azlyrics.com/lyrics/leosayer/easytolove.html
 name: Easy To Love
 rankings:
 - end_date: '1977-12-16'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
 ---
+
+It's easy to love when I love someone like you
+It's easy to feel when you feel the way I do
+You know love don't come easy and love don't come fast
+But when loves come to you, you gotta make it last
+On the day that I met you I knew it could be
+So easy for you and so easy for me
+It's easy to love when I love someone like you, babe
+It's easy to feel when you feel the way I do, babe
+Like the stars in the night seem to shine from above
+That's the way that you shine when you give me your love
+And your love satisfies me like a natural high
+From the soles of my feet to the top of the sky
+It's easy to love when I love someone like you
+It's easy to feel when you feel the way I do
+
+
+
+You know love don't come easy, and love don't come fast
+But when love comes to you, you gotta make it last
+On the day that I met you I knew it would be
+So easy for you and so easy for me
+It's easy to love when I love someone like you, babe
+It's easy to feel when you feel the way I do, babe
+It's easy to love when I love someone like you, babe
+It's easy to love
+So easy to love
+Easy to love
+You're so easy to love
+
+
 

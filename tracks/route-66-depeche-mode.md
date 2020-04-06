@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: route-66-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/depechemode/route66.html
 name: Route 66
 rankings:
 - end_date: '1988-05-13'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
 ---
+
+Well if you ever plan to motor west
+Travel my way
+Take the highway that's the best
+Get your kicks on Route 66
+
+Well it winds from Chicago
+To LA
+More than two thousand miles
+All the way
+Get your kicks on Route 66
+
+Well it goes to St. Louis
+Down to Missouri
+Oklahoma City looks oh so pretty
+You'll see Amarillo
+Gallup, New Mexico
+Flagstaff, Arizona
+Don't forget Winona
+Kingman, Barstow, San Bernardino
+
+If you get hip to this kind of trip
+And go take that California trip
+Get your kicks on Route 66
+
+Well it goes to St. Louis
+Down to Missouri
+Oklahoma City looks oh so pretty
+You'll see Amarillo
+Gallup, New Mexico
+Flagstaff, Arizona
+Don't forget Winona
+Kingman, Barstow, San Bernardino
+
+If you get hip to this kind of trip
+And go take that California trip
+Get your kicks on Route 66
+
+
 

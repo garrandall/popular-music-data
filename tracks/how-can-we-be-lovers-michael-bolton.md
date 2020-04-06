@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-we-be-lovers-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/howcanwebelovers.html
 name: How Can We Be Lovers
 rankings:
 - end_date: '1990-03-09'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
 ---
+
+
+How can we be lovers if we can't be friends
+How can we start over when the fighting never ends
+Baby, how can we make love if we can't make amends
+Tell me how we can be lovers if we can't be,
+can't be friends
+
+Look at us now, look at us baby
+Still tryin' to work it out
+Never get it right
+We must be fools, we must be crazy
+Whoa, whoa, when there's no
+communication
+Whao, Whoa, it's a no win situation
+
+
+
+We lie awake, this wall between us
+We're just not talking, we got so much to say
+Let's break these chains, our love can free us
+Whoa, Whoa, ain't it time we started tryin'
+Whoa, whoa, gotta stop this love from dying
+
+
+
+Baby, love is tough but we can take it
+Baby, times are rough but we can make it
+We can work it out
+
+
+
+
 

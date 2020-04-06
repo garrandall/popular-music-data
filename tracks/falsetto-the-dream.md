@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falsetto-the-dream
+lyrics_url: https://www.azlyrics.com/lyrics/thedream/falsetto.html
 name: Falsetto
 rankings:
 - end_date: '2008-02-01'
@@ -83,4 +84,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+Oh ohh ohhh
+Oh ohh ohhh
+Started out talking right here
+Puttin it down like a motherfuckin mack
+Sellin me candy all up in my ear
+She wanna be down like the d's on the lac
+Slow dancin in the club
+The diamonds look like rainbows
+Shes grinding on my dick
+She lookin for the pot of gold
+We hop up in that amg and d we in the westin
+She put the moves on me
+I couldve sworn shawtys a wrestler
+Talkin all that shit
+Soon as I hit
+Now I got her talkin like this
+In a falsetto
+She like ohh ohh baby ah ah ah ohhh
+In a falsetto
+She like ohh ohh baby ah ah ah ah
+
+In a falsetto
+She like ohh ohh baby ah ah ah ohhh
+In a falsetto
+She like ohh ohh baby ah ah ah ah
+
+Shes tellin all her homies im the real.....deal
+Everytime she leave the crib shawty be comin right back
+She talkin dirty all up in my ear
+And im fina put this dog right on the kitty cat
+I wasnt gon show u up
+But damn u got tht look up in you
+Callin last night flute
+Actin like she didnt remember
+I hopped up out dat linen im fina defend my title
+Imma put ur ass to be tell me which way would u like it
+Talkin all that shit
+As soon as I hit
+Now I got her talkin like this
+Oh oh oh oh ohh
+In a falsetto
+She like ohh ohh baby ah ah ah ohhh
+In a falsetto
+She like ohh ohh baby ah ah ah ah
+In a falsetto
+She like ohh ohh baby ah ah ah ohhh
+In a falsetto
+She like ohh ohh baby ah ah ah ah
+
+In a falsetto
+
+Now play tht shit
+Oh!
+
+Oh! oh! oh! oh!
+Oh! oh! oha! oha! oooahhhhhhhh! aahhhhhhh!
+
+In a falsetto
+She like ohh ohh baby ah ah ah ohhh
+In a falsetto
+She like ohh ohh baby ah ah ah ah
+In a falsetto
+
+She said it feels like her very first time
+She said it feels like her very first time
+In a falsetto
+
+Grind it
+Grind it
+Grind it
+Baby
+Grind it
+Grind it
+Make me crazy
+Grind it grind it do it do it
+Oh! oh! oh! oh!
+Grind it grind it grind it baby
+Grind it grind it grind it hun
+Grind it grind it
+
+Now say
+
+Oh! oh! ohhh! ohhaa! ahhhh!
+
+Its all over now u can come back down
+We can talk in this key right here
+But any time u want me to take u up
+Baby jump on this elevator promise there aint nothin greater
+
+Take a shower (eyy)
+Lets take a shower (eyy) (eyy)
+Lets take a shower (eyy)
+Lets take a shower (eyy) (eyy)
+Ima meet chu right back here in a half an hour (eyy) (eyy) (eyy)
+
+Ella ella
+Ella ella
+
+
 

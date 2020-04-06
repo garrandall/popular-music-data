@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-patsy-cline
+lyrics_url: https://www.azlyrics.com/lyrics/patsycline/strange.html
 name: Strange
 rankings:
 - end_date: '1962-02-16'
@@ -15,4 +16,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
+
+Strange how you stopped loving me
+How you stopped needing me
+When she came along
+Oh, how strange
+
+Strange you changed like night and day
+Just up and walked away
+When she came along
+Oh, how strange
+
+Well, I guess that I was just your puppet
+You held on a string
+To think I thought you really loved me
+But look what thoughts can bring
+
+Strange you're still in all my dreams
+Oh, what a funny thing
+I still care for you
+Oh, how strange
+
+Well, I guess that I was just your puppet
+You held on a string
+To think I thought you really loved me
+But look what thoughts can bring oh, oh, oh
+
+Strange you're still in all my dreams
+Oh, what a funny thing
+I still care for you
+Oh, how strange
+How strange, how strange, how strange...
+
+
 

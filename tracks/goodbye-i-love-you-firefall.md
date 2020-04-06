@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-i-love-you-firefall
+lyrics_url: https://www.azlyrics.com/lyrics/firefall/goodbyeiloveyou.html
 name: Goodbye I Love You
 rankings:
 - end_date: '1979-01-26'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
 ---
+
+Maybe you think I'm letting you go
+Maybe it's not that way
+Maybe I love you more than you know
+Maybe you'll know someday
+Maybe you think it's easy for me
+Easy to say Goodbye
+Maybe it hurts me more than you see
+All I can do is cry
+
+But love is not enough to make you mine
+You need someone who's gonna be there all the time
+Someone to treat you better
+Someone to see you through
+Someone who'd never say
+Goodbye, I love you
+
+Goodbye, I love you
+Goodbye, I love you
+Goodbye, I love you
+
+You need a man who's always around 
+Whenever you feel alone
+You need a man who won't let you down
+You need your man at home
+You need the time to let yourself live
+You haven't lived enough
+You need the one thing I cannot give 
+You need the time to love
+
+But love is not enough to make you mine
+You need someone who's gonna be there all the time
+Someone to treat you better
+Someone to see you through
+Someone who'd never say
+Goodbye, I love you
+
+Goodbye, I love you
+Goodbye, I love you
+Goodbye, I love you
+
+
 

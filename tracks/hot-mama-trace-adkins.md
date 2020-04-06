@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-mama-trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/hotmama.html
 name: Hot Mama
 rankings:
 - end_date: '2004-01-30'
@@ -63,4 +64,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
 ---
+
+You're doin' all you can to get in them old jeans.
+You want that body back, you had at seventeen.
+Baby, don't get down; don't worry 'bout a thing.
+'Cause the way you fill 'em out, hey, that's all right with me.
+I don't want the girl you used to be.
+An' if you ain't noticed, the kids are fast asleep,
+
+An' you're one hot mama;
+You turn me on, let's turn it up,
+An' turn this room into a sauna.
+One hot mama,
+Oh, whaddya say, baby?
+You wanna?
+
+Well, I know sometimes you think that all you really are,
+Is the woman with the kids an' the groceries in the car.
+An' you worry about your hips an' you worry about your age.
+Meanwhile I'm tryin' to catch the breath you take away.
+Oh, an' believe me, you still do.
+Baby, all I see, when I look at you,
+
+Is one hot mama;
+You turn me on, let's turn it up,
+An' turn this room into a sauna.
+One hot mama,
+Oh, whaddya say, baby?
+You wanna?
+
+I can't imagine me lovin' someone else.
+I'm a lucky man, 
+I think Daddy's got himself,
+
+One hot mama;
+You turn me on, let's turn it up,
+An' turn this room into a sauna.
+One hot mama,
+Oh, whaddya say, babe?
+Oh, now whaddya say, babe?
+You wanna?
+
+You're one hot mama,
+Let's turn this room into a sauna, yeah.
+Whaddya say, babe?
+Whaddya say, babe?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: aw-shucks-hush-your-mouth-jimmy-reed
+lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/awshuckshushyourmouth.html
 name: Aw Shucks Hush Your Mouth
 rankings:
 - end_date: '1962-02-02'
@@ -27,4 +28,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+
+Aw shucks, hush your mouth, baby you knockin' me out
+I said, shucks, a-hush your mouth, baby you knockin' me out
+You my kind a woman, you know what it's all about
+
+When ya say, the sweet things, they ring all in my head
+Yeah, when ya say, the sweet thing, they ring all in my head
+You've got me on the run, an' honey I can't leave you
+
+Hush hush, shut your mouth, baby you knockin' me out
+Oh, hush hush, shut your mouth, baby you knockin' me out
+All the good in me, you know you bringin' it out, oh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-with-me-now-kongos
+lyrics_url: https://www.azlyrics.com/lyrics/kongos/comewithmenow.html
 name: Come With Me Now
 rankings:
 - end_date: '2014-04-25'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
 ---
+
+Come with me now
+Come with me now
+
+Whoa, come with me now
+I'm gonna take you down
+Whoa, come with me now
+I'm gonna show you how
+
+Whoa, come with me now
+I'm gonna take you down
+Whoa, come with me now
+I'm gonna show you how
+
+Afraid to lose control
+And caught up in this world
+I've wasted time, I've wasted breath
+I think I've thought myself to death
+
+I was born without this fear
+Now only this seems clear
+I need to move, I need to fight
+I need to lose myself tonight
+
+Whoa, come with me now
+I'm gonna take you down
+Whoa, come with me now
+I'm gonna show you how
+
+I think with my heart and I move with my head
+I open my mouth and it's something I've read
+I stood at this door before, I'm told
+But a part of me knows that I'm growing too old
+
+Confused what I thought with something I felt
+Confuse what I feel with something that's real
+I tried to sell my soul last night
+Funny, he wouldn't even take a bite
+
+Far away
+I heard him say (come with me now)
+Don't delay
+I heard him say (come with me now)
+
+Far away
+I heard him say (come with me now)
+Don't delay
+I heard him say (come with me now)
+
+Whoa, come with me now
+I'm gonna take you down
+Whoa, come with me now
+I'm gonna show you how
+
+Afraid to lose control
+And caught up in this world
+I've wasted time, I've wasted breath
+I think I've thought myself to death
+
+I was born without this fear
+Now only this seems clear
+I need to move, I need to fight
+I need to lose myself tonight
+
+Whoa, come with me now
+
+Whoa, come with me now
+I'm gonna take you down
+Whoa, come with me now
+
+
 

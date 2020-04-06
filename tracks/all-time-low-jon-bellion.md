@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-time-low-jon-bellion
+lyrics_url: https://www.azlyrics.com/lyrics/summerhigh/alltimelow.html
 name: All Time Low
 rankings:
 - end_date: '2016-11-04'
@@ -95,4 +96,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
 ---
+
+I was the knight in shining armor in your movie
+Would put your lips on mine and love the aftertaste
+Now I'm a ghost, I call your name, you look right through me
+You're the reason I'm alone and masturbate
+
+I, I've been trying to fix my pride
+But that shit's broken, that shit's broken
+Lie, lie, l-lie I tried to hide
+But now you know it
+
+That I'm at an all time
+Low, low, low, low, low, low, low, low, low 
+
+I was the prototype like 3 stacks on that CD
+An example of the perfect candidate
+Now all your girlfriends say that you don't want to see me
+You're the reason that I just can't concentrate
+
+I, (I, I) I've been trying to fix my pride
+But that shit's broken, that shit's broken
+Lie (lie, lie), lie, l-lie I tried to hide
+But now you know it
+
+That I'm at an all time
+Low, low, low, low, low, low, low, low, low 
+
+I, I, I, I've been trying to fix my pride
+But that shit's broken, that shit's broken
+Lie (lie, lie), lie, l-lie and try to hide
+But now you know it
+That I'm at an all time
+Low, low, low, low, low, low, low, low, low...
+Lie, l-lie, I try to hide, but now you know it
+That I'm at an all time...
+Hey!
+
+Low, low, low, low, low, low, low, low, low 
+
+
 

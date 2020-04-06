@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: again-tonight-john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/againtonight.html
 name: Again Tonight
 rankings:
 - end_date: '1992-02-07'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-25'
 ---
+
+Run in circles again tonight
+Hump the moon again tonight
+Gonna wear my dancin' shoes out tonight
+Gonna have myself a big time again tonight
+
+
+Again tonight
+Again tonight
+Again tonight
+
+Girl's got lightning
+Underneath her skirt
+Boys try to touch it
+For whatever it's worth
+In the morning
+She's just gonna be hurt
+She wonders is it worth it again tonight
+
+
+
+Gonna catch that cloud tonight
+Nine, cloud nine
+Gonna try and catch that cloud tonight
+Nine, cloud nine
+Again tonight
+
+Can you hold me baby again, again tonight
+Can you sing
+Can you dance baby
+Can you sing
+Can you hold me again tonight
+Baby can you sing
+
+Go ego trip'n again tonight
+Tell the same lies they work all right
+Gonna wear my dancin' shoes out tonight
+Probably make a fool of myself again tonight
+
+
+
+
 

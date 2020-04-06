@@ -6,6 +6,7 @@ features:
 - Lil Jon
 genres: []
 key: do-you-remember-jay-sean-sean-paul-lil-jon
+lyrics_url: https://www.azlyrics.com/lyrics/jaysean/doyouremember.html
 name: Do You Remember
 rankings:
 - end_date: '2009-11-27'
@@ -89,4 +90,127 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
 ---
+
+Jay Sean
+Sean Paul
+Let's go
+This will right here
+Alright
+For the ladies
+Alright
+Don't wanna take it back
+Not, not the end
+Holler at, Jay
+
+
+I've been thinkin' about you
+And how we used to be then
+Back when
+It didn't have to end
+We can start again
+
+There's nothing left to say
+Don't waste another day
+Just you and me tonight
+Everything will be okay
+If it's alright with you
+Then it's alright with me
+Baby let's take this time
+Let's make new memories
+Let's go
+
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back
+
+Yo, Jay, sing to these ladies
+
+
+So long since you've been missing
+It's good to see you again
+How you, how you doin'? And how about we
+Don't let this happen again?
+
+Let's go
+
+There's nothing left to say
+Don't waste another day
+Just you and me tonight
+Everything will be okay
+If it's alright with you
+Then it's alright with me
+Baby, let's take this time
+Let's make new memories
+Let's go
+
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back, bring it back
+Let's bring it back
+
+
+Yo, aye, girl yo
+Bring it back to the time when you and me had just begun
+When I was still your number one
+While it might seem far-fetched, baby girl
+But it can be done
+I got this feeling fire blazing and it's hot just like the sun
+Know you feel it too my girl just breathe up
+And the good vibes run
+
+Girl, take a sip out the champagne
+Take a little trip down my lane, my girl
+While you're out every night I will feel alright
+Nigga clearly this girl is a my world
+
+Don't change up now re-arrange it girl
+I'm a telling this straight into my world
+How many years say ya want come kiss this
+Girl, 'cause ya miss this
+
+That's what I heard
+That's what I heard
+That's what I heard
+Word girl
+Tonight
+
+There's nothing left to say
+Don't waste another day
+Just you and me tonight
+Everything will be okay
+If it's alright with you
+Then it's alright with me
+Baby, let's take this time
+Let's make new memories
+Let's go
+
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+Do you remember
+Do you remember
+Do you remember all of the times we had?
+
+Let's bring it back, let's bring it back
+Let's bring it back, let's bring it back
+Let's bring it back, let's bring it back
+
+
 

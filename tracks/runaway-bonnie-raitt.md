@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaway-bonnie-raitt
+lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/runaway.html
 name: Runaway
 rankings:
 - end_date: '1977-05-27'
@@ -55,4 +56,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
 ---
+
+As I walk along I wonder what went wrong
+With our love, a love that was so strong
+And as still walk on I think of the things we've done
+Together while our hearts were young
+
+I'm a walking in the rain, tears are falling and I feel a pain
+Wishing you were here by me to end this misery
+And I wonder, I wo wo wo wo wonder
+Why, why why why why why she (you) ran away
+And I wonder where she (you) will stay
+My little runaway, a run run run run runaway
+
+
 

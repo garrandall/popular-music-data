@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beverly-hills-weezer
+lyrics_url: https://www.azlyrics.com/lyrics/weezer/beverlyhills.html
 name: Beverly Hills
 rankings:
 - end_date: '2005-04-22'
@@ -179,4 +180,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
+Where I come from isn't all that great
+My automobile is a piece of crap
+My fashion sense is a little whack
+And my friends are just as screwy as me
 
+I didn't go to boarding schools
+Preppy girls never looked at me
+Why should they? I ain't nobody
+Got nothing in my pocket
+
+Beverly Hills
+That's where I want to be!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+Beverly Hills
+Rolling like a celebrity!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+
+Look at all those movie stars
+They're all so beautiful and clean
+When the housemaids scrub the floors
+They get the spaces in between
+
+I wanna live a life like that
+I wanna be just like a king
+Take my picture by the pool
+'Cause I'm the next big thing!
+
+Beverly Hills
+That's where I want to be!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+Beverly Hills
+Rolling like a celebrity!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+
+The truth is I don't stand a chance
+It's something that you're born into
+And I just don't belong
+
+No, I don't
+I'm just a no-class, beat-down fool
+And I will always be that way
+(She will)
+I might as well enjoy my life
+And watch the stars play
+
+Beverly Hills
+That's where I want to be!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+Beverly Hills
+Rolling like a celebrity!
+Gimme gimme gimme gimme
+Living in Beverly Hills
+
+Beverly Hills
+Beverly Hills
+Beverly Hills
+Beverly Hills
+Gimme gimme gimme gimme
+Living in Beverly Hills

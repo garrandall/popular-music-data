@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-york-groove-ace-frehley
+lyrics_url: https://www.azlyrics.com/lyrics/acefrehley/newyorkgroove.html
 name: New York Groove
 rankings:
 - end_date: '1978-10-20'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
 ---
+
+Many years since I was here
+On the street I was passin' my time away
+To the left and to the right, buildings towering to the sky
+It's outta sight in the dead of night
+
+(Ooh) Here I am, and in this city
+(Ooh) With a fistful of dollars 
+And baby, you'd better believe 
+
+I'm back, back in the New York Groove 
+I'm back, back in the New York Groove 
+I'm back, back in the New York Groove 
+Back in the New York Groove, in the New York Groove 
+
+In the back of my Cadillac 
+A wicked lady, sittin' by my side, sayin' "Where are we?"
+Stop at Third and Forty-three, exit to the night
+It's gonna be ecstacy, this place was meant for me
+
+(Ooh) I feel so good tonight
+(Ooh) Who cares about tomorrow
+So baby, you'd better believe 
+
+I'm back, back in the New York Groove 
+I'm back, back in the New York Groove 
+I'm back, back in the New York Groove 
+Back in the New York Groove, in the New York Groove
+
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+
+I'm back, back in the New York Groove
+I'm back, back in the New York Groove
+
+
 

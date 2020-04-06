@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fortunate-son-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/fortunateson.html
 name: Fortunate Son
 rankings:
 - end_date: '1969-11-07'
@@ -23,4 +24,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
 ---
+
+Some folks are born made to wave the flag
+Ooh, they're red, white and blue
+And when the band plays "Hail To The Chief"
+Ooh, they point the cannon at you, Lord
+
+It ain't me, it ain't me, I ain't no senator's son, son
+It ain't me, it ain't me; I ain't no fortunate one, no
+
+Some folks are born silver spoon in hand
+Lord, don't they help themselves, oh
+But when the taxman comes to the door
+Lord, the house looks like a rummage sale, yes
+
+It ain't me, it ain't me, I ain't no millionaire's son, no, no
+It ain't me, it ain't me; I ain't no fortunate one, no
+
+Yeah!
+Some folks inherit star spangled eyes
+Ooh, they send you down to war, Lord
+And when you ask them, "How much should we give?"
+Ooh, they only answer, "More! More! More!" Yo
+
+It ain't me, it ain't me, I ain't no military son, son
+It ain't me, it ain't me; I ain't no fortunate one, one
+
+It ain't me, it ain't me, I ain't no fortunate one, no no no
+It ain't me, it ain't me, I ain't no fortunate son, no no no
+
+
 

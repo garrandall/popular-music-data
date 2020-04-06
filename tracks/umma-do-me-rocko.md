@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: umma-do-me-rocko
+lyrics_url: https://www.azlyrics.com/lyrics/rocko/ummadome.html
 name: Umma Do Me
 rankings:
 - end_date: '2008-02-29'
@@ -51,4 +52,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
 ---
+
+Umma do me, umma do me, umma do me
+You just do you, umma do me, umma do me, umma do me
+Umma do me, umma do me, umma do me
+You just do you, umma do me, umma do me, umma do me
+
+You wear Reebok, I wear Bally.
+You smoke Michy, I smoke Cali
+You wear Enyce, but I wear Loui.
+I drop 600 boys on these coochies.
+You really like her, you might wife her.
+I don't like her, so I one night her.
+You make is sprinkle, I make it tsunami.
+You get chump change, but I get money.
+You like dancin, I just two step.
+You like to jack off, (uh uh uh uh) but I do that.
+You don't tote guns, I keep that tooly.
+Wanna see how it's done?
+Watch me do me!
+
+You just do you (and what), umma do me,
+Umma do me, umma do me
+You just do you (and what), umma do me, umma do me, umma do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+
+What's that, new Dolces? These here chrome heart.
+You need a key for yours? Me, my shit auto-start.
+I talk to the car, the car talk back.
+Then I step up out the car, watch the car back back. (aye!)
+Yo' money funny, (ha ha ha ha) my money talk.
+While we talking money, look, this how money walk.
+Playa why you limpin? It could be two things (like what?)...
+Them fifteens or whole stacks in my blue jeans.
+That's last years model, (me) I'm in that new thing. Black flips,
+Black sack, call 'em shoestrings.
+Aye who you with? Frank n Roll best thing since the TV.
+Pay attention let me show you how to do me.
+
+You just do you (and what), umma do me,
+Umma do me, umma do me
+You just do you (and what), umma do me, umma do me, umma do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+
+You like the fo'-door, (me) I just do two.
+If you ain't getting money, nigga, I'm nothin' like you.
+I'm from the ol' school, you from the new school.
+My ol' school cost more than your new school.
+Just got a new school, that's what I'm use to.
+Suede around the panoramic equals clear view.
+You in my rear view, yeah you history (skkrrrt!).
+First to second, two seconds, I love a six speed.
+I swag it out, uh felt my swag.
+The shoes match the hat, the hat match my bag.
+These niggas mad, you don't like it, nigga sue me.
+Wanna see how it's done, then watch me do me.
+
+You just do you (and what), umma do me,
+Umma do me, umma do me
+You just do you (and what), umma do me, umma do me, umma do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+Wanna see how it's done? Then watch me do me,
+Watch me do me, watch me do me
+
+
 

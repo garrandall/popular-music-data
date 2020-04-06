@@ -5,6 +5,7 @@ features:
 - Matthew Koma
 genres: []
 key: wasted-tiesto-matthew-koma
+lyrics_url: https://www.azlyrics.com/lyrics/tiesto/wasted.html
 name: Wasted
 rankings:
 - end_date: '2014-06-27'
@@ -56,4 +57,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
 ---
+
+I like us better when we're wasted
+It makes it easier to fake it
+The only time we really talk
+Is when our clothes are coming off
+I like us better when we're wasted
+It makes it easier to say it
+Lay all your laundry on the bed
+And then I'll lay in it instead
+I like us better when we're wasted
+Oh oh oh oh oh
+
+You are a glass half empty
+Sipping my ocean dry
+Emotionally spend me
+Till none of our planets could align
+But I could stand you one more night
+
+I like us better when we're wasted
+It makes it easier to say it
+Lay all your laundry on the bed
+And then I'll lay in it instead
+I like us better when we're wasted
+Oh oh oh oh oh
+
+You are a catch 22
+Either way I miss out
+All of the grief I'd give you
+Is energy I can live without
+But I could stand you one more night
+
+I like us better when we're wasted
+It makes it easier to say it
+Lay all your laundry on the bed
+And then I'll lay in it instead
+I like us better when we're wasted
+Oh oh oh oh oh
+
+I like us better when we're wasted
+It makes it easier to say it
+Lay all your laundry on the bed
+And then I'll lay in it instead
+I like us better when we're wasted
+Oh oh oh oh oh
+
+Oh oh oh oh oh
+
+
 

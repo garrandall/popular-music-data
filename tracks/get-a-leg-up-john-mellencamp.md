@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-a-leg-up-john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/getalegup.html
 name: Get A Leg Up
 rankings:
 - end_date: '1991-10-11'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
 ---
+
+Don't look at me, don't touch me
+Keep your mind straight ahead
+Don't get no funny ideas about me
+Or you'll wish that you were dead
+That's what I'm thinking she must be thinking
+The girl I spent 53 bucks on last night
+She gives me a look from the corner of her eye
+That says, "Boy, keep acting right."
+How surprised was I
+When she leaned over and whispered in my ear
+
+Get a leg up
+Get a leg over boy
+Get a leg up
+What's the matter
+Are you shy, shy, shy?
+
+I'm pretty good with first impressions
+But sometimes I'm not always right
+I pulled the car to the shoulder of the road
+To see what she had in mind
+Want me to spend the night
+Hey lover boy you know I will
+And my best girlfriend down the road
+Together we will thrill ya
+And I'm thining to myself
+I could be lucky Pierre tonight
+
+If I could get a leg up
+If I could get a leg over boy
+You know I ain't that handsome
+But you know I ain't shy, shy, shy
+
+The rest of the night went on and on
+And the moral to this song
+Don't go making hasty judgments
+Because sometimes they could be wrong
+Nothing wrong with a good time
+Just keep yourself protected, make a list
+And you can bet your life that the women don't know
+The little girls are acting like this
+So the next time a young one moves up
+And she whispers in your ear
+
+Get a leg up
+Get a leg over boy
+Get a leg up
+Now don't you be shy, shy, shy
+
+
 

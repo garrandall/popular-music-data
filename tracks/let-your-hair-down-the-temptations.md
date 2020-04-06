@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-your-hair-down-the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/icouldntcryifiwantedto.html
 name: Let Your Hair Down
 rankings:
 - end_date: '1973-12-28'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
+
+You ask if I remembered, when we first met.
+Girl, tell me how could I ever forget
+
+There, you were standing there.
+Aw, with ruby lips and the golden hair.
+Your beauty seem to hypnotize me.
+I had that feeling I was no longer free.
+
+But when I ask you for a dance. (For a dance)
+You wouldn't even give me a chance. (Me a chance)
+And it hurt me through and through.
+That was the first time I got over you.
+
+You had my heart dingling,
+Like a puppet on a string.
+To you I meant nothing, darling.
+But to me it meant everything.
+Girl, you know since then through the years. (Through the years)
+I've shed so many tears. (So many tears)
+And all because of you, I couldn't cry if I wanted to.
+
+I don't know why I still love you.
+'Cause you don't even want me around.
+Year after year it's the same o' thing.
+You build me up, to let me down.
+
+So go on and hurt me. (Hurt me)
+Aw, like you did.
+This time it'll be different.
+Mmm, my tears you'll see no more.
+'Cause I've cried so through the years. (Through the years)
+Until I run out of tears. (Run out of tears)
+And all because of you, I couldn't cry if I wanted to.
+
+I'll never shed another tear.
+I couldn't cry no more, darling.
+Seems as though the pain
+Have gone the tears from my eyes.
+Never cry, never.
+Never no more.
+I'll never shed another tear.
+
+
 

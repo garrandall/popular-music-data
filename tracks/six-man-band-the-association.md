@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: six-man-band-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/sixmanband.html
 name: Six Man Band
 rankings:
 - end_date: '1968-08-30'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
 ---
+
+Well, I'm a day at a time
+I'm a day at a time
+Well, I'm a seeker and knower
+In a six man mind
+
+'Cause I'm a traveling man
+Yes, I'm a traveling man
+Well, I'm a comer and a goer
+In a six man band
+
+Well, I'm a California man
+My instrument in hand, I'm electrified
+On a fast flying trip
+Dirty laundry in my grip mostly drip-dry
+
+We got the seventeen jewels that dictate the rules
+And the time to fly as we're passing by
+We just got the time to say hello
+And then a fast goodbye
+
+I'm a traveling man
+Yes, I'm a traveling man
+Well, I'm a comer and a goer
+In a six man band
+
+
 

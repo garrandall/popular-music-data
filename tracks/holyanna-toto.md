@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holyanna-toto
+lyrics_url: https://www.musixmatch.com/lyrics/To-To/Holyanna
 name: Holyanna
 rankings:
 - end_date: '1985-02-15'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
 ---
+Your hair's a mess
+You better put on a dress
+And get your feet back on the ground
+You fix your eyes
+For some city guys
+Who wouldn't save you if you drowned
+You hang on forty-second street
+And do your homework in the bar
+Saint helen says you're missin' school
+And i'm wond'rin' where you are
+Holyanna
+Holyanna
+Girl, what you do to me
+Holyanna
+Holyanna
+Girl, you're a blue-eyed mystery
 
+You read your books
+Until nobody looks
+And then you slip out after dark
+You steal my love
+Then say you're sorry
+And do your penance in the park
+You fooled your mother when you skipped ballet
+To paint your face for the midnight show
+And in the morning you knelt beside your bed
+And prayed she'd never know
+Holyanna
+Holyanna
+Girl, what you do to me
+Holyanna
+Holyanna
+Girl, you're a blue-eyed mystery
+Holyanna
+Holyanna
+Girl, what you do to me
+Holyanna
+Holyanna
+Girl, you're a blue-eyed mystery

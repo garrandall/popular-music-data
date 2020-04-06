@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-say-a-little-prayer-diana-king
+lyrics_url: https://www.azlyrics.com/lyrics/dianaking/isayalittleprayer.html
 name: I Say A Little Prayer
 rankings:
 - end_date: '1997-07-25'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
 ---
+
+From the moment I wake up
+Before I put on my makeup
+I say a little prayer for you..
+While combing my hair now
+And wondering what dress to wear now
+I say a little prayer for you...
+
+
+Forever, and ever, you'll stay in my heart, and I'll love you
+Forever, and ever, we never will part, oh I love you
+Together, forever, that's how it should be
+Living without you
+Would only mean heartbreak for me...
+
+I run for the bus dear, while riding I think of us dear,
+I say a lil prayer for you
+At work I just take time, and all through my coffee break time
+I say a lil prayer for you...
+
+
+
+My darling believe me
+For me there is no one but you
+Say you love me too...
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-heartbeat-amy-grant
+lyrics_url: https://www.azlyrics.com/lyrics/amygrant/everyheartbeat.html
 name: Every Heartbeat
 rankings:
 - end_date: '1991-06-21'
@@ -83,4 +84,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+
+Hear me speak what's on my mind
+Let me give this testimony
+To reaffirm that you will find
+That you are my one and only
+No exception to this rule
+I'm simple but I'm no fool
+I've got a witness happy to say
+Every hour, every day
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+My red blood runs true blue
+And every heartbeat belongs to you
+
+Classic case of boy meets girl
+Moving in the same direction
+You're not asking for the world
+I'm not asking for perfection
+Just a love that's well designed
+For passing the test of time
+I'm here to tell you
+I'm here to stay
+Every hour, every day
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+Ask anyone and they'll tell you it's true
+Every heartbeat belongs to you
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+My red blood runs true blue
+And every heartbeat belongs to you
+
+Oh, oh, oh, oh
+Yeah, sure maybe I'm on the edge
+But I love you baby and like I said
+I'm here to tell you
+I'm here to stay
+Every hour, every day
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+Ask anyone and they'll tell you it's true
+Every heartbeat belongs to you
+
+Every heartbeat bears your name
+Loud and clear they stake my claim, yeah
+My red blood runs true blue
+And every heartbeat belongs to you
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+And every heartbeat belongs to you
+
+Every heartbeat bears your name
+Loud and clear they stake my claim
+Ask anyone and they'll tell you it's true
+Every heartbeat belongs to you
+
+
 

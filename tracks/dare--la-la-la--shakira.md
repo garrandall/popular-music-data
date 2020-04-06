@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dare--la-la-la--shakira
+lyrics_url: https://www.azlyrics.com/lyrics/shakira/darelalala.html
 name: Dare (La La La)
 rankings:
 - end_date: '2014-06-13'
@@ -51,4 +52,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
 ---
+
+Hola, hola!
+
+La la la la la
+La la la la la
+La la la la la la
+La la la
+
+La la la la la
+La la la la la
+La la la la la la
+I dare you
+
+Leggo, leggo, leggo, leggo
+
+All of my life, too late
+'Til you showed up with perfect timing
+Now here we are, we rock it
+Our fingers are stuck in the socket
+It's just a nature, a game
+Get ready, we'll do it again
+Let's not recover from the hangover
+When your eyes got me drunk I was sober
+
+Is it true that you love me?
+I dare you to kiss me
+With everyone watching
+It's truth or dare on the dancefloor
+
+La la la la la
+La la la la la
+La la la la la la
+Truth or dare on the dancefloor
+La la la
+
+La la la la la
+La la la la la
+La la la la la la
+I dare you
+
+Leggo, leggo
+
+Of all the millions on the planet
+You're the one who's keeping me on it
+You know I like you like nobody's business
+Your blue Spanish eyes are my witness
+It's just a nature, a game
+Get ready, we'll do it again
+Let's not recover from the hangover
+When your eyes got me drunk I was sober
+
+Is it true that you love me?
+I dare you to kiss me
+With everyone watching
+It's truth or dare on the dancefloor
+
+La la la la la
+La la la la la
+La la la la la la
+Truth or dare on the dancefloor
+La la la
+
+La la la la la
+La la la la la
+La la la la la la
+I dare you
+
+Is it true that you love me?
+I dare you to kiss me
+I dare you to touch me
+It's truth or dare on the dancefloor
+
+Hola, hola!
+Hola, hola!
+Hola, hola!
+Hola, hola!
+
+La la la la la
+La la la la la
+La la la la la la
+La la la
+
+La la la la la
+La la la la la
+La la la la la la
+I dare you
+
+Leggo, leggo, leggo, leggo
+
+
 

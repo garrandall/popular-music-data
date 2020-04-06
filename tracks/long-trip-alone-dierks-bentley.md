@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: long-trip-alone-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/longtripalone.html
 name: Long Trip Alone
 rankings:
 - end_date: '2007-03-16'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
 ---
+
+It's a long trip alone over sand and stone
+That lie along the road that we all must travel down
+
+So maybe you could walk with me a while
+And maybe I could rest beneath your smile
+Everybody stumbles sometimes and needs a hand to hold
+'Cause it's a long trip alone
+
+It's a short piece of time but just enough to find
+A little peace of mind under the sun somewhere
+
+So maybe you could walk with me a while
+And maybe I could rest beneath your smile
+You know we can't afford to let one moment pass us by
+'Cause it's a short piece of time
+
+And I don't know where I'd be without you here
+'Cause I'm not really me without you there
+
+Yea Yeah
+Hallelujah hallelujah oh
+
+So maybe you could walk with me a while
+Maybe I could rest beneath your smile
+Everybody stumbles sometimes and needs a hand to hold
+
+So maybe you could walk with me a while
+Maybe I could rest beneath your smile
+Maybe I could feel you right beside me 'til I'm home
+'Cause it's a long trip alone
+
+
 

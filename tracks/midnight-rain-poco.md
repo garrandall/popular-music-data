@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-rain-poco
+lyrics_url: https://www.azlyrics.com/lyrics/poco/midnightrain.html
 name: Midnight Rain
 rankings:
 - end_date: '1980-10-17'
@@ -23,4 +24,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
 ---
+
+Standing in the midnight rain
+All Alone with the pieces of my heart again
+Knowing one of is right and one of is is gone
+Into another night
+You've gone running all alone
+All alone into another night
+You've gone running all alone
+
+I 've still got these feelings left
+Living in my heart and in my head
+Breaking from the past I've come to know at last
+Only a fool  would stay
+Stay and pretend
+Only a fool would stay
+Stay and pretend
+
+I need you more than anyone
+Or anything under the sun
+Don't leave me lonely here
+I get so lonely here
+
+Standing in the midnight rain
+All Alone with the pieces of my heart again
+Knowing one of is right and one of is is gone
+Into another night
+You've gone running all alone
+All alone into another night
+You've gone running all alone
+
+
 

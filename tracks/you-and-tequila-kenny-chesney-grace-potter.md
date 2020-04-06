@@ -5,6 +5,7 @@ features:
 - Grace Potter
 genres: []
 key: you-and-tequila-kenny-chesney-grace-potter
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/youandtequilalive.html
 name: You And Tequila
 rankings:
 - end_date: '2011-06-17'
@@ -88,4 +89,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
 ---
+
+Baby, here I am again
+Kicking dust in the Canyon wind
+Waiting for that sun to go down
+Made it up Mulholland Drive
+Hell bent on getting high
+High above the lights of town
+
+'Cause you and Tequila make me crazy
+Run like poison in my blood
+One more night could kill me, baby
+One is one too many, one more is never enough
+
+Thirty days and thirty nights
+Been putting up a real good fight
+And there were times I thought you'd win
+It's so easy to forget
+The bitter taste the morning left
+Swore I wouldn't go back there again
+
+'Cause you and Tequila make me crazy
+Run like poison in my blood
+One more night could kill me, baby
+One is one too many, one more is never enough
+
+When it comes to you
+Oh, the damage I could do
+It's always your favorite sins
+That do you in
+
+'Cause you and Tequila make me crazy
+Run like poison in my blood
+One more night could kill me, baby
+One is one too many, one more is never enough
+
+Never enough
+You and Tequila
+You and Tequila
+
+
 

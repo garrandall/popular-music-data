@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: firefly-tony-bennett
+lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/firefly.html
 name: Firefly
 rankings:
 - end_date: '1958-09-14'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+
+I call her Firefly
+Cause, oh, my
+She radiates moonglow
+Wants none of that noon glow
+She starts to glitter
+When the sun goes down
+
+Bout eight p.m., it's mayhem
+She switches the brights up
+Lights up and gives me a call
+Take me to the Fireflies ball
+
+But when I get her there
+Set her there
+Do I get to pet her there
+And grab me some glow
+
+No, she's a gad about, mad about
+Luring every lad about
+While leaving me moaning low
+
+Oh, Firefly, why can't I
+Latch onto you no how
+Oh, how I love you but gee
+While you set the night on
+Firefly, shine a little light on me
+
+But when I get her there
+Set her there
+Do I get to pet her there
+And grab me some glow
+
+No, she's a gad about, mad about
+Luring every lad about
+While leaving me moaning low
+
+Oh, Firefly, why can't I
+Latch on for you no how
+Oh, how I love you but gee
+While you set the night on
+Firefly, shine a little light on
+Shine a little light on
+Shine a little light on me
+(in the mornin')
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: top-of-the-world-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/topoftheworld.html
 name: Top Of The World
 rankings:
 - end_date: '1991-10-18'
@@ -83,4 +84,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
 ---
+
+Hey, Baby, Whew! 
+I know that you believe in me, 
+That's all I ever need, uh huh. 
+No, No, nothing's gonna stop me, 
+Nothing will be scaring me, oh no 
+Hey baby, it's the only way out 
+Oh, little darling, 
+C'mon what's it all about? 
+Standing on top of the world 
+For a little while. 
+Standing on top of the world 
+Gonna give it all we got. 
+Oh, I know it won't hurt, 
+I gotta have a little taste 
+I just wanna sink my teeth in that 
+Fine piece of real estate, yeah 
+Hey baby, make it nice and sweet, 
+Oh, little darling 
+Let's take a walk down easy street 
+Standing on top of the world, 
+For a little while. 
+Standing on top of the world 
+Let's give it all we got, oooh oooh 
+Baby, gotta feeling, oooh oooh, 
+Oh, I wanna touch it,now, oooh oooh oooh, 
+See the whole wide world turn upside down. 
+Hey, Baby, Whew! 
+Someday, we'll be 
+Standing on top of the world 
+For a little while 
+Standing on top of the world 
+Till we got stung. 
+Standing on top of the world 
+For a little while. 
+Standing on top of the world 
+Gonna give it all we got. 
+(Standing on top) Hey, baby. 
+(Standing on top) Hey darling 
+Standing on top, 
+Standing on top, 
+Standing on top.
+
+
 

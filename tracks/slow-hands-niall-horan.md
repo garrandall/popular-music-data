@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-hands-niall-horan
+lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/slowhands.html
 name: Slow Hands
 rankings:
 - end_date: '2017-05-26'
@@ -131,4 +132,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
 ---
+
+We should take this back to my place
+That's what she said right to my face
+'Cause I want you bad, yeah, I want you, baby
+I've been thinking 'bout it all day
+And I hope you feel the same way, yeah
+'Cause I want you bad, yeah, I want you, baby
+
+Slow, slow hands
+Like sweat dripping down our dirty laundry
+No, no chance
+That I'm leaving here without you on me
+I, I know, yeah, I already know that there ain't no stopping
+Your plans and those slow hands
+Slow hands
+
+I just wanna take my time
+We could do this, baby, all night, yeah
+'Cause I want you bad
+Yeah, I want you, baby
+
+Slow, slow hands
+Like sweat dripping down our dirty laundry
+No, no chance
+That I'm leaving here without you on me
+I, I know, yeah, I already know that there ain't no stopping
+Your plans and those slow hands
+
+Fingertips putting on a show
+Got me now and I can't say "No"
+Wanna be with you all alone
+Take me home, take me home
+Fingertips putting on a show
+Can't you tell that I want you, baby, yeah
+
+Slow hands
+Like sweat dripping down our dirty laundry
+No, no chance
+That I'm leaving here without you on me
+I, I know, yeah, I already know that there ain't no stopping
+
+Slow hands
+Like sweat dripping down our dirty laundry
+No, no chance
+That I'm leaving here without you on me
+I, I know, yeah, I already know that there ain't no stopping
+Your plans and those slow hands
+
+Slow hands
+Slow hands
+
+
 

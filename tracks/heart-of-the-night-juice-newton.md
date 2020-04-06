@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-of-the-night-juice-newton
+lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/heartofthenight.html
 name: Heart Of The Night
 rankings:
 - end_date: '1982-12-03'
@@ -71,4 +72,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+Dark city streets
+Twist and moan in the heat
+As night descends
+Two searching eyes
+Cut their way into mine
+Inviting me in
+
+Dancing so close
+We already know
+How good it will be
+We slip out
+From the unseeing crowd
+We find what we need
+
+In the heart of the night
+We run like bandits
+(In the heart of the night)
+Two hungry hearts under the gun
+In the heart of the night
+(Heart of the night)
+When we find each other
+We're stealing love on the run
+In the heart of the night
+Heart of the night
+
+The cool city moon
+Lays its touch on the room
+Your eyes reach to me
+Two shadows fall
+Saying nothing at all
+We know what we need
+
+In the release
+Two prisoners are free
+From all darkness
+One more escape
+Surviving the heartache
+And madness
+
+In the heart of the night
+We run like bandits
+(In the heart of the night)
+Two hungry hearts under the gun
+In the heart of the night
+(Heart of the night)
+When we find each other
+We're stealing love on the run
+In the heart of the night
+Heart of the night
+
+In the heart of the night
+(Heart of the night)
+When we find each other
+We're stealing love on the run
+In the heart of the night
+Heart of the night
+
+In the heart of the night
+In the heart of the night
+(In the heart of the night)
+
+
 

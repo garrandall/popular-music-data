@@ -5,6 +5,7 @@ features:
 - Tony Orlando
 genres: []
 key: say-has-anybody-seen-my-sweet-gypsy-rose-dawn-tony-orlando
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/sayhasanybodyseenmysweetgypsyrose.html
 name: Say Has Anybody Seen My Sweet Gypsy Rose
 rankings:
 - end_date: '1973-07-20'
@@ -72,4 +73,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
 ---
+
+We were very happy
+Well at least I thought we were
+Can't somebody tell me
+What's got into her
+A house, a home, a family
+And a man who loves her so
+Who'd believe she'd leave us
+To join a burlesque show?
+
+Say has anybody seen my
+Sweet Gypsy Rose?
+Here's her picture when she was my
+Sweet Mary Jo
+Now she's got rings on her fingers
+And bells on her toes
+Say has anybody seen my
+Sweet gypsy Rose?
+
+Oh, I know when Mary Jo's been dancin'
+Here in New Orleans
+In this smoke-filled honky-tonk
+They call the land of dreams
+Whoa, here she comes a-struttin'
+In her birthday clothes
+Say has anybody seen my
+Sweet gypsy Rose?
+
+Whoa, baby, baby,
+Won'tcha come home
+Say, we all miss ya
+And every night we kiss your picture
+
+Whoiah Rose, one night the lights go dim,
+And the crowd goes home
+That's the day you wake up
+And you find you're all alone
+So let's say goodbye to Gypsy
+Hello Mary Jo
+Say has anybody seen my
+Sweet Gypsy Rose
+
+So take those rings off your fingers
+And bells off your toes
+Say has anybody seen my
+Now you know just what I mean by
+Has anybody seen my Sweet Gypsy Rose
+
+
 

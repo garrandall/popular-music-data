@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: problems-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/problems.html
 name: Problems
 rankings:
 - end_date: '1958-11-16'
@@ -67,4 +68,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
 ---
+
+Problems, problems, problems all day long
+Will my problems work out right or wrong
+My baby don't like anything I do
+My teacher seems to feel the same way too
+
+Worries, worries pile up on my head
+Woe is me I should have stayed in bed
+Can't get the car my marks ain't been so good
+My love life just ain't swingin' like it should
+
+Problems, problems, problems
+They're all on account-a my lovin' you like I do
+Problems, problems, problems
+They won't be solved until I'm sure of you
+You can solve my problems with a love that's true
+
+Problems, problems, problems all day long
+Problems, problems, problems all day long
+
+
 

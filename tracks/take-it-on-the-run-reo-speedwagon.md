@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-it-on-the-run-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/takeitontherun.html
 name: Take It On The Run
 rankings:
 - end_date: '1981-03-27'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
 ---
+
+Heard it from a friend who
+Heard it from a friend who
+Heard it from another you been messin' around
+They say you got a boy friend
+You're out late every weekend
+They're talkin' about you and it's bringin' me down
+But I know the neighborhood
+And talk is cheap when the story is good
+And the tales grow taller on down the line
+But I'm telling you, babe
+That I don't think it's true, babe
+And even if it is keep this in mind
+
+You take it on the run baby
+If that's the way you want it baby
+Then I don't want you around
+I don't believe it
+Not for a minute
+You're under the gun so you take it on the run
+
+Thinking up your white lies
+Putting on your bedroom eyes
+Say you're coming home but you won't say when
+But I can feel it coming
+If you leave tonight keep running
+And you need never look back again
+
+You take it on the run baby
+If that's the way you want it baby
+Then I don't want you around
+I don't believe it
+Not for a minute
+You're under the gun so you take it on the run
+
+You take it on the run baby
+If that's the way you want it baby
+Then I don't want you around
+I don't believe it
+Not for a minute
+You're under the gun so you take it on the run
+
+Heard it from a friend who
+Heard it from a friend who
+Heard it from another you been messin' around
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whenever-he-holds-you-bobby-goldsboro
+lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/wheneverheholdsyou.html
 name: Whenever He Holds You
 rankings:
 - end_date: '1964-04-24'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
 ---
+
+Take your little heart
+Tear it all apart
+Make the teardrops fall
+From your eyes
+And you'll know how I feel
+When he holds you
+Whenever he holds you
+
+Pretend no one loves you
+Make believe you're blue
+
+And if you get an empty feeling deep inside
+Then you'll know how I feel
+When he holds you
+Whenever he holds you
+
+My friends say forget you
+I know I should try
+But whenever he holds you, I feel I could die
+
+But if you ever find
+That I'm still on your mind
+Maybe you'll come back to my arms
+
+Till then I'll cry
+When he holds you
+Whenever he holds you
+
+
 

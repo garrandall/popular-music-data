@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-my-heart-beat-faster-kim-carnes
+lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/youmakemyheartbeatfasterandthatsallthatmatters.html
 name: You Make My Heart Beat Faster
 rankings:
 - end_date: '1984-01-27'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
 ---
+
+A combination makes the spark
+We fuel the fire then watch it grow
+A stimulation to the heart
+I lose my head
+Out of control
+
+Pulling me over, running me through
+I'd be right there in a beat (beat) boy
+I'd do anything to be with you
+I lose my breath
+Out of control
+
+You make my heart beat faster
+And that's all that matters
+You make my heart beat faster
+And that's all that matters
+You make my heart beat faster
+And that's all that matters
+You make my heart beat faster
+And that's all that matters
+
+Imagination turn the key
+Snap the shot
+It's in my head
+Anticipation grabbing me
+I lose my breath 
+Out of control
+
+A combination makes the spark
+We fuel the fire then watch it grow
+A stimulation to the heart
+I lose my head
+Out of control
+
+
 

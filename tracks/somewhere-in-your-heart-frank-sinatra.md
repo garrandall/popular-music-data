@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-in-your-heart-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/somewhereinyourheart.html
 name: Somewhere In Your Heart
 rankings:
 - end_date: '1964-12-25'
@@ -47,4 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
 ---
+
+Somewhere in your heart, try to find a place for me
+Somewhere in your heart, I won't care where it might be
+One little corner may not mean so much to you
+But one little corner would be enough to see me through
+
+Somewhere in your dreams, let my lips come close to you
+Though they're only dreams, someday they may all come true
+Is it so much to ask for such a tiny part?
+Won't you find a place for me, somewhere in your heart?
+
+(Somewhere in your dreams), let my lips come close to you
+(Though they're only dreams), someday they may all come true
+Is it so much to ask for such a tiny part?
+Won't you find a place for me, somewhere in your heart?
+
+
 

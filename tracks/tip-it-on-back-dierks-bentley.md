@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tip-it-on-back-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/tipitonback.html
 name: Tip It On Back
 rankings:
 - end_date: '2012-11-23'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-23'
 ---
+
+I see main street closing
+Miles of âFor Saleâ signs
+And them fields ainât growing
+Fast enough to get us by
+I feel the sweet release,
+Of a Friday night
+For a couple of hours we can run this town
+Till it runs dry
+
+Tip it on back, make it feel good
+Sip a little more than you know you should
+Let the smoke roll, off your lips
+Let it all go whatever it is
+And tip it on back
+
+So grab the girl you came with
+And set her world on fire
+And watch her sway and singing to the music
+Until itâs all alright
+Yeah
+
+Tip it on back, make it feel good
+Sip a little more than you know you should
+Let the smoke roll, off your lips
+Let it all go whatever it is
+And tip it on back
+
+I donât wanna lose this feeling
+And I donât wanna close my eyes
+I donât wanna remember what Iâm here to forget tonight
+So tip it on back
+
+Tip it on back, make it feel good
+Sip a little more than you know you should
+Let the smoke roll, off your lips
+Let it all go whatever it is
+And tip it on back
+Tip it on back
+
+Yeah, I donât wanna lose this feeling
+I donât wanna close my eyes
+I donât wanna remember what Iâm here to forget tonight
+So tip it on back
+Just tip it on back
+
+Feel the sweet release of a Friday night
+For a couple of hours we can run this town
+Till it runs dry
+Tip it on back
+
+
 

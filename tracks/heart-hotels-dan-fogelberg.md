@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-hotels-dan-fogelberg
+lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/hearthotels.html
 name: Heart Hotels
 rankings:
 - end_date: '1980-03-28'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
 ---
+
+Well, there's too many windows
+In this old hotel
+And rooms filled with reckless pride
+And the walls have grown sturdy
+And the halls have worn well
+But there is nobody living inside
+Nobody living inside
+
+Gonna pull in the shutters
+On this heart of mine
+Roll up the carpets
+And pull in the blinds
+And retreat to the chambers 
+That I left behind
+In hopes there still may be love left to find
+Still may be love left to find
+
+Seek inspiration in daily affairs
+Now your soul is in trouble and requires repairs
+And the voices you hear at the top of the stairs
+Are only echoes of unanswered prayers
+Echoes of unanswered prayers
+
+Well, there's too many windows
+In this old hotel
+And rooms filled with reckless pride
+And the walls have grown sturdy
+And the halls have worn well
+But there is nobody living inside
+Nobody living inside
+
+Ooh-hoo-hoo-hoo
+Ooh-hoo-hoo, hoo-hoo-hoo
+Ooh-hoo-hoo-hoo
+Ooh-hoo-hoo, hoo-hoo-hoo
+Ooh-hoo-hoo-hoo
+Ooh-hoo-hoo, hoo-hoo-hoo
+Ooh-hoo-hoo-hoo
+Ooh-hoo-hoo, hoo-hoo-hoo
+Ooh-hoo-hoo-hoo
+Ooh-hoo-hoo, hoo-hoo-hoo
+Ooh-hoo-hoo-hoo
+
+
 

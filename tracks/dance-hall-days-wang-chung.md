@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-hall-days-wang-chung
+lyrics_url: https://www.azlyrics.com/lyrics/wangchung/dancehalldays.html
 name: Dance Hall Days
 rankings:
 - end_date: '1984-04-27'
@@ -95,4 +96,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
 ---
+
+Take your baby by the hand
+And make her do a high hand stand
+And take your baby by the heel
+And do the next thing that you feel
+
+We were so in phase
+In our dance hall days
+We were cool on craze
+When I, you, and everyone we knew
+Could believe, do, and share in what was true
+I said
+
+Dance hall days, love
+
+Take your baby by the hair
+And pull her close and there, there, there
+And take your baby by the ears
+And play upon her darkest fears
+
+We were so in phase
+In our dance hall days
+We were cool on craze
+When I, you, and everyone we knew
+Could believe, do, and share in what was true
+I said
+
+Dance hall days, love
+Dance hall days
+Dance hall days, love
+
+Take your baby by the wrist
+And in her mouth, an amethyst
+And in her eyes, two sapphires blue
+And you need her and she needs you
+And you need her and she needs you
+And you need her and she needs you
+And you need her and she needs you
+And you need her
+And she needs you
+
+We were so in phase
+In our dance hall days
+We were cool on craze
+When I, you, and everyone we knew
+Could believe, do, and share in what was true
+I said
+
+Dance hall days, love
+
+Dance hall days, love
+Dance hall days
+
+Dance hall days, love
+Dance hall days
+
+Dance hall days, love
+Dance hall days
+
+Dance hall days, love
+
+
 

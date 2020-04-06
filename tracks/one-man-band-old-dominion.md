@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-man-band-old-dominion
+lyrics_url: https://www.azlyrics.com/lyrics/olddominion/onemanband.html
 name: One Man Band
 rankings:
 - end_date: '2019-09-13'
@@ -119,4 +120,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
 ---
+
+Been flying solo for so long
+Nobody's singing a harmony
+Up there just me and my shadow
+No bass, no guitar, no tambourine
+
+And I found you like a melody
+You were singing in the same key as me
+We had 'em dancing in the streets
+
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+I don't wanna be a one man band
+
+No
+
+I wanna run down your wild dreams
+And I wanna chase every high with you
+Count every rip in these old jeans
+We'll never learn how to sing the blues
+
+If I'm gonna be famous
+Girl, I wanna be famous with you
+We got our own little groove
+
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+'Cause I don't wanna be a one man band
+
+When the spotlight goes cold, the curtains come down
+The chairs are all stacked, and there's no one around
+And nobody's payin', we'll still be playin'
+
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+'Cause I don't wanna be a one man band
+
+I don't wanna be a one man band
+
+
 

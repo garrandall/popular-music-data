@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wasting-all-these-tears-cassadee-pope
+lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/wastingallthesetears.html
 name: Wasting All These Tears
 rankings:
 - end_date: '2013-06-28'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
 ---
+
+I tried to find you at the bottom of a bottle
+Laying down on the bathroom floor
+My loneliness was rattling the windows
+You said you don't want me anymore
+
+And you left me
+Standing on a corner crying,
+Feeling like a fool for trying
+I don't even remember
+Why I'm wasting all these tears on you
+I wish I could erase our memory
+'Cause you didn't give a damn about me
+Oh, finally I'm through
+Wasting all these tears on you
+These tears on you
+
+You ain't worth another sleepless night
+And I'll do everything I gotta do to get you off my mind
+'Cause what you wanted I couldn't give
+What you did, boy, I'll never forget
+
+And you left me
+Standing on a corner crying
+Feeling like a fool for trying
+I don't even remember
+Why I'm wasting all these tears on you
+I wish I could erase our memory
+'Cause you didn't give a damn about me
+Oh, finally I'm through
+Wasting all these tears on you
+These tears on you
+
+And you left me
+Standing on a corner crying
+Feeling like a fool for trying
+I don't even remember
+Why I'm wasting all these tears on you
+I wish I could erase our memory
+'Cause you didn't give a damn about me
+Oh, finally I'm through
+Wasting all these tears on you
+Oh, oh, these tears on you
+
+I tried to find you at the bottom of a bottle
+Laying down on the bathroom floor
+
+
 

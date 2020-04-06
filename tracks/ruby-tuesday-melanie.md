@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ruby-tuesday-melanie
+lyrics_url: https://www.azlyrics.com/lyrics/melanie/rubytuesday.html
 name: Ruby Tuesday
 rankings:
 - end_date: '1970-12-11'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
 ---
+
+She would never say where she came from
+Yesterday don't matter 'cause it's gone
+While the sun is bright or in the darkest night
+No one knows
+She comes and then she goes
+
+Goodbye, Ruby Tuesday
+Who is gonna hang a name on you?
+And when you change with every new day
+Still I'm gonna miss you
+
+Don't ask her why she needs to be so free
+She's gonna tell you it's the only way to be
+She just can't be chained to a life
+Where nothing's gained and nothing's lost
+At such a cost
+
+Goodbye, Ruby Tuesday
+Who is gonna hang a name on you?
+And when you change with every new day
+Still I'm gonna miss you
+
+There's no time to lose, I heard her say
+You gotta catch your dreams before they run away
+Dying all the time, lose your dreams
+And you might lose your mind
+Is life unkind?
+
+But goodbye, Ruby Tuesday
+Who is gonna hang a name on you?
+And when you change with every new day
+Still I'm gonna miss you
+
+Oh goodbye, Ruby Tuesday
+Who is gonna hang a name on you?
+And when you change with every new day
+Still I'm gonna miss you
+
+Goodbye, Ruby Tuesday
+Goodbye, Ruby Tuesday
+Goodbye, Ruby Tuesday
+Goodbye, Ruby Tuesday
+Goodbye, Ruby Tuesday
+Goodbye, Ruby Tuesday
+
+
 

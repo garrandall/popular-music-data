@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-am-by-your-side-corey-hart
+lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/iambyyourside.html
 name: I Am By Your Side
 rankings:
 - end_date: '1986-09-26'
@@ -59,4 +60,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
 ---
+
+I am by your side
+Give you strength
+When you're lost inside
+You can always count on me
+I will never hide, you see
+
+For I am by your side
+Shelter from the coldest night
+You can always run to me
+I will be there
+Can't you see, oh, no
+
+And when the world
+Has knocked you down
+And you are trapped by your fears
+They can never reach you
+From high ground, oh, no
+
+And I will never disappear
+Turn the darkest corner
+I'll be there
+With every day
+I'm calling out your name
+
+And I am by your side
+In this truth I will confide
+You can always count on me
+I will never hide, you see, oh, no
+'Cause I will never disappear
+Turn the darkest corner
+I'll be there
+With every day
+I'm calling out your name
+
+And I am by your side
+Suddenly, I realize
+I can always run to you
+You will be there
+It's true, I know
+
+Oh, I am by your side
+I am by your side, oh, oh
+
+I am by your side
+I said I am by your side
+Oh, oh, oh
+
+Well, I am by your side
+I am by your side, oh
+You can count on me
+Ooh, you can
+
+I am by your side
+I am by your side, oh
+You can count on me
+Ooh, you can count on me now
+
+I am by your side
+I said I am by your side
+Oh, oh, oh
+
+I am by your side
+I am by your side
+I am by your side...
+
+
 

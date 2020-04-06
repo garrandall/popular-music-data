@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walkin--with-my-angel-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/walkinwithmyangel.html
 name: Walkin' With My Angel
 rankings:
 - end_date: '1961-12-03'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
 ---
+
+Ain't no guy in town
+Who would ever try to put me down
+When I'm walkin' walkin' with my angel, whoa-uh-oh
+
+'Cause every guy I see
+Is a-wishin' that-a he were me
+When I'm walkin' walkin' with my angel (angel)
+
+A-when we're strollin' hand in hand
+I'm as happy as can be
+Aww, she's the prettiest girl in town
+And everyone can see she belongs to me
+
+Well I feel so proud
+It's as good as walkin' on a cloud
+When I'm walkin' walkin' with my angel
+
+Aww, when we're strollin' hand in hand
+I'm as happy as can be
+'Cause she's the prettiest girl in town
+And everyone can see she belongs to me
+
+Well I feel so proud
+It's as good as walkin' on a cloud
+When I'm walkin' walkin' with my angel
+
+Aww, when I'm walkin' walkin' with my angel
+Yeah, when I'm walkin' walkin' with my angel
+
+
 

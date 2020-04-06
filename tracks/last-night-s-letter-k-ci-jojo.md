@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: last-night-s-letter-k-ci-jojo
+lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/lastnightsletter.html
 name: Last Night's Letter
 rankings:
 - end_date: '1997-10-10'
@@ -88,4 +89,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
 ---
+
+
+
+I was sittin' at home
+Thinkin' to myself
+I started thinkin' bout you
+How much I do love you
+I really do
+I would never trade you
+Never forsake you
+cause nothin' could be better
+That's why I wrote you this letter
+I love you always lady
+
+
+
+Last Night
+I wrote a short letter
+And it went this way
+Dear baby I love you just thinkin' of you
+Love always
+(repeat)
+
+
+
+
+Now I know I could've called
+But it seemed much better this way
+Cause I'm missin' my baby
+I'm so blessed your my lady lady
+Now I know I can't wait till tomorrow
+When your in my arms again
+Holdin' and kissin' you doin' thing thing we love to do
+But till then
+
+
+
+Last Night
+I wrote a short letter
+And it went this way
+Dear baby I love you just thinkin' of you
+Love always
+(repeat)
+
+Ooo, Ooo, Ooo, Ooo, Ooo,....
+
+
+
+Oh baby I love you, I love you, I love you,
+There's nothin' that I wouldn't do
+Just to prove that I really, really love you
+Baby I want you, I want you, I want you
+And there's nothing that I'd rather do
+Than to love you..... I love you always
+Every night and every day.
+
+
 

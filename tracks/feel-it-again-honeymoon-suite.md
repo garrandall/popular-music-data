@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-it-again-honeymoon-suite
+lyrics_url: https://www.azlyrics.com/lyrics/honeymoonsuite/feelitagain.html
 name: Feel It Again
 rankings:
 - end_date: '1986-03-14'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
 ---
+
+If you would just be sensible
+You'd find me indispensable
+I pray deep down to destiny
+That places you with me
+
+Whoa, wanting you here in the sheets
+Wandering around incomplete
+Waiting so long
+
+To feel it again
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+To feel it again (to feel it again)
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+
+Another scratched or scribbled note
+To handsome men in overcoat
+Deception right in front of me
+A jealous fantasy
+
+Whoa, something that sets you apart
+Tightens your grip on my heart
+Don't ever let it go 
+
+Till I feel it again
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+To feel it again (to feel it again)
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+
+All that I know (to feel it again)
+Is people will come and people will go
+I don't really care (to feel it again)
+As long as you're there
+As long as you're there
+
+To feel it again (to feel it again)
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+To feel it again (to feel it again)
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+
+To feel it again (to feel it again)
+I thought that this heart would never mend
+To feel it again, I know it is the living end
+
+
 

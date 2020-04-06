@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-walked-in-dinah-washington
+lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/illrememberapril.html
 name: Love Walked In
 rankings:
 - end_date: '1960-10-09'
@@ -47,4 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+
+This lovely day will lengthen into evening
+We'll sigh goodbye to all we ever had
+Alone where we have walked together
+I'll remember April and be glad
+
+I'll be content you loved me once in April
+Your lips were warm and love and spring were new
+I'm not afraid of autumn and her sorrow
+For I'll remember April and you
+
+The fire will dwindle into glowing ashes
+For flames live such a little while
+I won't forget but I won't be lonely
+I'll remember April and I'll smile
+
+
 

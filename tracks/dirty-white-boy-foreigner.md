@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dirty-white-boy-foreigner
+lyrics_url: https://www.azlyrics.com/lyrics/foreigner/dirtywhiteboy.html
 name: Dirty White Boy
 rankings:
 - end_date: '1979-09-14'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
+
+Hey, baby, if you're feelin' down
+I know what's good for you all day
+Are you worried what your friends see
+Will it ruin your reputation lovin' me
+
+'Cause I'm a dirty white boy
+Yeah a dirty white boy
+A dirty white boy
+
+Don't drive no big black car
+Don't like no Hollywood movie star
+You want me to be true to you
+You don't give a damn what I do to you
+
+I'm just a dirty white boy
+Dirty white boy, dirty white boy
+Dirty white boy, dirty white boy
+Dirty white boy
+
+Well, I'm a dirty white boy
+Dirty white boy, dirty white boy
+Dirty white boy, yeah, dirty white boy
+A dirty white boy
+
+I've been in trouble since I don't know when
+I'm in trouble now and I now somehow I'll find trouble again
+I'm a loner, but I'm never alone
+Every night I get one step closer to the danger zone
+
+'Cause I'm a dirty white boy
+Dirty white boy, yeah, dirty white boy
+Dirty white boy, I'm a dirty white boy
+Dirty white boy
+
+C'mon, c'mon boy
+Dirty white boy, white boy
+Dirty white boy, I'm a dirty white boy
+Dirty white boy
+
+Hey, I'm a dirty white boy
+Dirty white boy, yeah, I'm a dirty white boy
+Dirty white boy, dirty white boy, yeah
+
+
 

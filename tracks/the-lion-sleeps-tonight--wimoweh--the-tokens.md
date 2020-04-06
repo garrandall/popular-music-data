@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-lion-sleeps-tonight--wimoweh--the-tokens
+lyrics_url: https://www.azlyrics.com/lyrics/tokens/thelionsleepstonight.html
 name: The Lion Sleeps Tonight (Wimoweh)
 rankings:
 - end_date: '1994-08-26'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
 ---
+
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+
+In the jungle, the mighty jungle
+The lion sleeps tonight
+In the jungle, the quiet jungle
+The lion sleeps tonight
+
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+
+Near the village, the peaceful village
+The lion sleeps tonight
+Near the village, the quiet village
+The lion sleeps tonight
+
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+
+Hush my darling, don't fear my darling
+The lion sleeps tonight
+Hush my darling, don't fear my darling
+The lion sleeps tonight
+
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+(A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
+
+
 

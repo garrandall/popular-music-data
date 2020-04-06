@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-honestly-love-you-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/ihonestlyloveyou.html
 name: I Honestly Love You
 rankings:
 - end_date: '1974-08-23'
@@ -103,4 +104,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+
+Maybe I hang around here a little more than I should
+We both know I've got somewhere else to go
+But I got somethin' to tell you that I never thought I would
+That I believe you really ought to know
+I love you, I honestly love you
+
+You don't have to answer, I see it in your eyes
+Maybe it was better left unsaid
+But this is pure and simple and you must realize
+That it's comin' from my heart and not my head
+I love you, I honestly love you
+
+I'm not tryin' to make you feel uncomfortable
+I'm not tryin' to make you anything at all
+But this feelin' doesn't come along ev'ry day
+And you shouldn't blow the chance when you've got the chance to say
+I love you, I love you, I honestly love you
+
+If we both were born in another place and time
+This moment might be ending in a kiss
+But there you are with yours and here I am with mine
+So I guess we'll just be leavin' it at this
+I love you, I honestly love you, I honestly love you
+
+
 

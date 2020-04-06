@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: carefree-highway-gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/carefreehighway.html
 name: Carefree Highway
 rankings:
 - end_date: '1974-09-06'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
 ---
+
+Picking up the pieces of my sweet shattered dream
+I wonder how the old folks are tonight
+Her name was Ann and I'll be damned if I recall her face
+She left me not knowing what to do
+
+Carefree highway, let me slip away on you
+Carefree highway, you seen better days
+The morning after blues from my head down to my shoes
+Carefree highway, let me slip away, slip away on you
+
+Turning back the pages to the times I love best
+I wonder if she'll ever do the same
+Now the thing that I call living is just being satisfied
+With knowing I got no one left to blame
+
+Carefree highway, got to see you my old flame
+Carefree highway, you seen better days
+The morning after blues from my head down to my shoes
+Carefree highway, let me slip away, slip away on you
+
+Searching through the fragments of my dream shattered sleep
+I wonder if the years have closed her mind
+I guess it must be wanderlust or trying to get free
+From the good old faithful feeling we once knew
+
+Carefree highway, let me slip away on you
+Carefree highway, you seen better days
+The morning after blues from my head down to my shoes
+Carefree highway, let me slip away, slip away on you
+Let me slip away on you
+Carefree highway, got to see you my old flame
+Carefree highway, you seen better days
+The morning after blues from my head down to my shoes
+Carefree Highway, let me slip away, slip away on you
+
+
 

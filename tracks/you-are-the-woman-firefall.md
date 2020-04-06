@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-the-woman-firefall
+lyrics_url: https://www.azlyrics.com/lyrics/firefall/youarethewoman.html
 name: You Are The Woman
 rankings:
 - end_date: '1976-08-27'
@@ -95,4 +96,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
 ---
+
+You are the woman that I've always dreamed of
+I knew it from the start
+I saw your face and that's the last I've seen of my heart
+
+It's not so much the things you say to me
+It's not the things you do
+It's how I feel each time you're close to me
+That keeps me close to you, whoa oh
+
+You are the woman that I've always dreamed of
+I knew it from the start
+I saw your face and that's the last I've seen of my heart
+
+It's not so much your pretty face I see
+It's not the clothes you wear
+It's more that special way you look at me
+That always keeps me there, whoa oh whoa
+
+You are the woman that I've always dreamed of
+I knew it from the start
+I saw your face and that's the last I've seen of my heart
+
+It's hard to tell you all the love I'm feeling
+That's just not my style
+You've got a way to send my senses reeling
+Every time you smile, whoa oh
+
+You are the woman that I've always dreamed of
+I knew it from the start
+I saw your face and that's the last I've seen of my heart
+I saw your face and that's the last I've seen of my heart
+
+Of my heart
+Oh oh of my heart
+
+
 

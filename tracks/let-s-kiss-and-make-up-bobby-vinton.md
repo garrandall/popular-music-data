@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-kiss-and-make-up-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/letskissandmakeup.html
 name: Let's Kiss And Make Up
 rankings:
 - end_date: '1962-12-07'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
 ---
+
+Last night we had a quarrel 
+And I lost my head 
+How silly of me to say 
+The things I said 
+
+Let's kiss and make up 
+Why should we break up 
+Say it's not too late yet 
+To forgive and forget 
+
+Funny but it doesn't matter now 
+Who was wrong or right 
+Darling all that matters now 
+Is that I miss you tonight 
+
+Let's kiss and make up 
+Why should we break up 
+Say it's not too late yet 
+To forgive and forget 
+
+'Cause I'd do anything 
+To be with you again 
+
+Let's kiss and make up 
+Why should we break up 
+Say it's not too late yet 
+To forgive and forget
+
+
 

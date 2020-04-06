@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-collar-bachman-turner-overdrive
+lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/bluecollar.html
 name: Blue Collar
 rankings:
 - end_date: '1973-12-07'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
 ---
+
+Walk your street
+And I'll walk mine
+And should we meet
+Would you spare me some time?
+Cuz you should see my world,
+Meet my kind, and before you judge our minds
+Blue collar
+
+Sleep your sleep
+I'm awake and alive
+I keep late hours
+You're a nine to five
+So I would like you to know
+I need the quiet hours to create in this world of mine
+Blue collar
+
+I'd like you to know at four in the morning, things are comin' to mind
+All I see, all I've done, and those I hope to find
+I'd like to remind you at four in the morning my world is very still
+The air is fresh under diamond skies, makes me glad to be alive
+
+You keep that beat
+And I keep time
+Your restless face
+Is no longer mine
+I rest my feet while this world's in heat and I wish that you could do the same
+Blue collar
+
+
 

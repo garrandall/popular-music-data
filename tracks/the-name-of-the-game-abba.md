@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-name-of-the-game-abba
+lyrics_url: https://www.azlyrics.com/lyrics/abba/thenameofthegame.html
 name: The Name Of The Game
 rankings:
 - end_date: '1977-12-30'
@@ -71,4 +72,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
 ---
+
+I've seen you twice, in a short time
+Only a week since we started
+It seems to me, for every time
+I'm getting more open-hearted
+
+I was an impossible case
+No-one ever could reach me
+But I think I can see in your face
+There's a lot you can teach me
+So I wanna know..
+
+What's the name of the game?
+Does it mean anything to you?
+What's the name of the game?
+Can you feel it the way I do?
+Tell me please, 'cause I have to know
+I'm a bashful child, beginning to grow
+
+And you make me talk
+And you make me feel
+And you make me show
+What I'm trying to conceal
+If I trust in you, would you let me down?
+Would you laugh at me, if I said I care for you?
+Could you feel the same way too?
+I wanna know..
+
+The name of the game
+
+I have no friends, no-one to see
+And I am never invited
+Now I am here, talking to you
+No wonder I get excited
+
+Your smile, and the sound of your voice
+And the way you see through me
+Got a feeling, you give me no choice
+But it means a lot to me
+So I wanna know..
+
+What's the name of the game? 
+(Your smile and the sound of your voice)
+Does it mean anything to you? 
+(Got a feeling you give me no choice)
+But it means a lot, what's the name of the game? 
+(Your smile and the sound of your voice)
+Can you feel it the way I do?
+Tell me please, 'cause I have to know
+I'm a bashful child, beginning to grow
+
+And you make me talk
+And you make me feel
+And you make me show
+What I'm trying to conceal
+If I trust in you, would you let me down?
+Would you laugh at me, if I said I care for you?
+Could you feel the same way too?
+I wanna know..
+Oh yes I wanna know..
+
+The name of the game 
+(I was an impossible case)
+Does it mean anything to you? 
+(But I think I can see in your face)
+That it means a lot
+What's the name of the game? 
+(Your smile and the sound of your voice)
+Can you feel it the way I do? 
+(Got a feeling you give me no choice)
+But it means a lot, what's the name of the game? 
+(I was an impossible case)
+Does it mean anything to you? 
+(But I think I can see in your face)
+That it means a lot
+
+
+
+
 

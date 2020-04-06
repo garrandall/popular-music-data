@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knocks-me-off-my-feet-donell-jones
+lyrics_url: https://www.azlyrics.com/lyrics/donelljones/knocksmeoffmyfeet.html
 name: Knocks Me Off My Feet
 rankings:
 - end_date: '1996-11-08'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
 ---
+
+
+I see us in the park strolling the summer days of imaginings in my head
+And words from my heart told only to the wind
+Felt even without being said
+
+
+I don't wanna bore you with my troubles (yeah)
+But there's something 'bout your love
+That makes me weak and knocks me off my feet
+There's something 'bout your love
+That makes me weak and knocks me off my feet
+Knocks me off my feet
+
+
+I don't wanna bore you with it
+Oh but I love you, I love you, I love you
+I don't wanna bore you with it
+Oh but I love you, I love you, I love you
+
+More and more
+
+
+We lay beneath the stars under a lover's tree
+That seems through the eyes of my mind
+I reach out for the part of me that lives in you
+That only our two hearts can find
+
+
+
+
+
+
 

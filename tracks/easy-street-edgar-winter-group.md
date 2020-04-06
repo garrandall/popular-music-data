@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-street-edgar-winter-group
+lyrics_url: https://www.azlyrics.com/lyrics/edgarwinter/easystreet.html
 name: Easy Street
 rankings:
 - end_date: '1974-11-01'
@@ -23,4 +24,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
 ---
+
+Saturday night at the corner cafÃ©
+Had me some drinks and I'm feelin' my way
+Moon's on the rise and it looks like a night for romance
+
+Shufflin' down past the local hotel
+Doin' the rounds like I'm under a spell
+Must be the place
+Yes, I knew when she asked me to dance
+
+I'm on easy, easy street
+I'm on easy, easy street
+
+Seein' as how I'm a regular guy
+Watchin' the girls of the evening go by
+Got me a chance so I'm takin' it, makin' it last
+
+I'm on easy, easy street
+I'm on easy, easy streey
+
+So if you're feelin' like you're a lonely man
+And when ever you are down and need a gentle hand
+There's always easy street you know you got it planned
+But just remember boy
+It's only a one night stand
+
+That's all
+Think I'll make it anyway
+That's where it's at
+Easy street USA
+
+
 

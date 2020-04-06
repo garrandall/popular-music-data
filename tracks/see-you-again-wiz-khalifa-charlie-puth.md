@@ -5,6 +5,7 @@ features:
 - Charlie Puth
 genres: []
 key: see-you-again-wiz-khalifa-charlie-puth
+lyrics_url: https://www.azlyrics.com/lyrics/boyceavenue/seeyouagain.html
 name: See You Again
 rankings:
 - end_date: '2015-04-03'
@@ -216,4 +217,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
 ---
+
+It's been a long day without you, my friend
+And I'll tell you all about it when I see you again
+We've come a long way from where we began
+Oh, I'll tell you all about it when I see you again
+When I see you again
+
+Damn, who knew?
+All the planes we flew
+Good things we've been through
+That I'll be standing here talking to you
+'Bout another path
+I know we loved to hit the road and laugh
+But something told me that it wouldn't last
+Had to switch up
+Look at things different, see the bigger picture
+Those were the days
+Hard work forever pays
+Now I see you in a better place
+
+How can we not talk about family when family's all that we got?
+Everything I went through you were standing there by my side
+And now you gon' be with me for the last ride
+
+It's been a long day without you, my friend
+And I'll tell you all about it when I see you again
+We've come a long way from where we began
+Oh, I'll tell you all about it when I see you again
+When I see you again
+
+(Aah oh, aah oh
+Wooooh-oh-oh-oh-oh-oh)
+Yeah
+
+First you both go out your way
+And the vibe is feeling strong
+And small turn to a friendship
+A friendship turn to a bond
+And that bond will never be broken
+The love will never get lost
+And when brotherhood come first
+Then the line will never be crossed
+Established it on our own
+When that line had to be drawn
+And that line is what we reach
+So remember me when I'm gone
+
+How can we not talk about family when family's all that we got?
+Everything I went through you were standing there by my side
+And now you gon' be with me for the last ride
+
+So let the light guide your way, yeah
+Hold every memory as you go
+And every road you take, will always lead you home, home
+
+It's been a long day without you, my friend
+And I'll tell you all about it when I see you again
+We've come a long way from where we began
+Oh, I'll tell you all about it when I see you again
+When I see you again
+
+(Aah oh, aah oh
+Wooooh-oh-oh-oh-oh-oh)
+Yeah
+
+
 

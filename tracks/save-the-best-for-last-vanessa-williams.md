@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-the-best-for-last-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/savethebestforlast.html
 name: Save The Best For Last
 rankings:
 - end_date: '1992-02-07'
@@ -115,4 +116,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
 ---
+
+Sometimes the snow comes down in June
+Sometimes the sun goes round the moon
+I see the passion in your eyes
+Somehow it's all a big surprise
+
+There was a time when all I did was wish
+You'd tell me this was love
+It's not the way I hoped or how I planned
+But somehow it's enough
+
+And now we're standing face to face
+Isn't this world a crazy place
+Just when I thought a chance had passed
+You go and save the best for last
+
+How could you give your love to someone else
+And share your dreams with me
+Sometimes of everything you're looking for
+It's the one thing you can't see
+
+But now we're standing face to face
+Isn't this world a crazy place
+Just when I thought a chance had passed
+You go and save the best for last
+
+Sometimes of everything you're looking for
+It's the one thing you can't see
+
+Sometimes the snow comes down in June
+Sometimes the sun goes 'round the moon
+Just when I thought a chance had passed
+You went and save the best for last
+
+Saved the best for last
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-on-the-wild-side-lou-reed
+lyrics_url: https://www.azlyrics.com/lyrics/vanessaparadis/walkonthewildside.html
 name: Walk On The Wild Side
 rankings:
 - end_date: '1973-02-23'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
 ---
+
+Holly came from Miami, FLA
+Hitch-hiked her way across the USA
+Plucked her eyebrows on the way
+Shaved her legs and then he was a she
+She says: Hey, babe
+Take a walk on the wild side
+She said: Hey, honey
+Take a walk on the wild side
+
+Candy came from out on the Island
+In the backroom she was everybody's darlin'
+But she never lost her head
+Even when she was giving head
+She says: Hey, babe
+Take a walk on the wild side
+Said: Hey, babe
+Take a walk on the wild side
+And the colored girls go: Doo do doo do doo do do doo
+
+Little Joe never once gave it away
+Everybody had to pay and pay
+A hussle here and a hussle there
+New York City's the place where they said: Hey, babe
+Take a walk on the wild side
+I said: Hey, Joe
+Take a walk on the wild side
+
+Sugar Plum Fairy came and hit the streets
+Lookin' for soul food and a place to eat
+Went to the Apollo
+You should've seen 'em go go go
+They said: Hey, sugar
+Take a walk on the wild side
+I said: Hey, babe
+Take a walk on the wild side
+All right, huh
+
+Jackie is just speeding away
+Thought she was James Dean for a day
+Then I guess she had to crash
+Valium would have helped that bash
+Said: Hey, babe
+Take a walk on the wild side
+I said: Hey, honey
+Take a walk on the wild side
+And the colored girls say: Doo do doo do doo do do doo
+
+
 

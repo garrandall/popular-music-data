@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakaway-kelly-clarkson
+lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/breakaway.html
 name: Breakaway
 rankings:
 - end_date: '2004-09-03'
@@ -191,4 +192,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
 ---
+
+Grew up in a small town
+And when the rain would fall down
+I'd just stare out my window
+Dreaming of what could be
+And if I'd end up happy
+I would pray (I would pray)
+
+Trying hard to reach out
+But when I tried to speak out
+Felt like no one could hear me
+Wanted to belong here
+But something felt so wrong here
+So I prayed I could break away
+
+I'll spread my wings and I'll learn how to fly
+I'll do what it takes 'til I touch the sky
+And I'll make a wish
+Take a chance
+Make a change
+And breakaway
+Out of the darkness and into the sun
+But I won't forget all the ones that I love
+I'll take a risk
+Take a chance
+Make a change
+And breakaway
+
+Wanna feel the warm breeze
+Sleep under a palm tree
+Feel the rush of the ocean
+Get on board a fast train
+Travel on a jet plane far away
+And breakaway
+
+I'll spread my wings and I'll learn how to fly
+I'll do what it takes 'til I touch the sky
+And I'll make a wish
+Take a chance
+Make a change
+And breakaway
+Out of the darkness and into the sun
+I won't forget all the ones that I love
+I gotta take a risk
+Take a chance
+Make a change
+And breakaway
+
+Buildings with a hundred floors
+Swinging 'round revolving doors
+Maybe I don't know where they'll take me
+But gotta keep moving on, moving on
+Fly away, breakaway
+
+I'll spread my wings
+And I'll learn how to fly
+Though it's not easy to tell you goodbye
+I gotta take a risk
+Take a chance
+Make a change
+And breakaway
+Out of the darkness and into the sun
+But I won't forget the place I come from
+I gotta take a risk
+Take a chance
+Make a change
+And breakaway, breakaway, breakaway
+
+
 

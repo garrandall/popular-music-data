@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cradle-of-love-johnny-preston
+lyrics_url: https://www.azlyrics.com/lyrics/johnnypreston/cradleoflove.html
 name: Cradle Of Love
 rankings:
 - end_date: '1960-04-03'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
 ---
+
+Well rock-a-bye baby in the tree top
+When the wind blows the cradle will rock
+So rock-a-bye baby in the tree top
+When the wind blows
+
+Well Jack be nimble Jack be quick
+Jack jumped over the candle stick
+He jumped so high up above
+He landed in the cradle of love
+
+Well rock-a-bye baby in the tree top
+When the wind blows the cradle will rock
+So rock-a-bye baby in the tree top
+When the wind blows
+
+Hi diddle diddle the cat and the fiddle
+The cow jumped over the moon
+On,on her way down she met her turtle dove
+Said let's go rockin' in the cradle of love
+
+Well rock-a-bye baby in the tree top
+When the wind blows the cradle will rock
+So rock-a-bye baby in the tree top
+When the wind blows
+
+Jack and Jill went up the hill
+To get the pail of water
+Jack fell for Jill and gave her a shove
+And landed in the cradle of love
+
+Well rock-a-bye baby in the tree top
+When the wind blows the cradle will rock
+So rock-a-bye baby in the tree top
+When the wind blows
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-loosely-38-special
+lyrics_url: https://www.azlyrics.com/lyrics/38special/holdonloosely.html
 name: Hold On Loosely
 rankings:
 - end_date: '1981-03-06'
@@ -75,4 +76,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
 ---
+
+You see it all around you
+Good lovin' gone bad
+And usually it's too late when you
+Realize what you had
+
+And my mind goes back to a girl I left
+Long years ago who told me
+
+Just hold on loosely
+But don't let go
+If you cling too tightly
+You're gonna lose control
+
+Your baby needs someone to believe in
+And a whole lot of space to breathe in
+
+It's so damn easy
+When your feelings are such
+To overprotect her
+To love her too much
+
+And my mind goes back to a girl I left
+Long years ago who told me
+
+Just hold on loosely
+But don't let go
+If you cling too tightly
+You're gonna lose control
+
+Your baby needs someone to believe in
+And a whole lot of space to breathe in
+
+Don't let her slip away
+Sentimental fool
+Don't let your heart get in the way
+Yeah, yeah, yeah
+
+You see it all around you
+Good lovin' gone bad
+And usually it's too late when you 
+Realize what you had
+
+So hold on loosely
+But don't let go
+If you cling too tightly
+You're gonna lose control
+
+Your baby needs someone to believe in
+And a whole lot of space to breathe in
+
+So hold on loosely
+But don't let go
+If you cling too tightly
+You're gonna lose it
+You're gonna lose control
+
+Yeah, yeah, yeah, yeah
+
+So hold on loosely
+But don't let go
+If you cling too tightly
+You're gonna lose control
+
+Hold on loosely
+But don't let go
+If you cling too tightly to her
+You're gonna lose control, yeah, yeah, yeah
+
+
 

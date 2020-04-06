@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-tell-lover-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/notelllover.html
 name: No Tell Lover
 rankings:
 - end_date: '1978-12-29'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
 ---
+
+Pretty smile lovely face and a warm breeze now I need you lady
+You're my no tell lover
+Every night in a different place I'll meet you tender lady
+You're my no tell lover
+Everyone keeps tellin' me that this affair's not meant to be
+Even though I need you night and day
+Walk away if you see me coming, even if it's you I'm lovin'
+Every minute is an hour every day's a lonely lifetime
+You're my no tell lover
+The little time that we spend together just can't last forever
+You're my no tell lover
+Everyone keeps tellin' me that this affair's not meant to be
+Even though I need you night and day
+Walk away if you see me coming even though it's you I'm lovin'
+I want her
+I can't leave her
+I won't live without her
+There's nothing left to say
+I want her
+I can't leave her
+Pretty smile, lovely face and a warm breeze now I need you lady
+You're my no tell lover
+Every night in a different place I'll need you tender lady
+You're my no tell lover
+Everyone keeps tellin' me this affair's not meant to be
+Even though I need you night and day
+Walk away if you see me coming even though it's you I'm lovin'
+I want her
+I can't leave her
+I won't live without her
+She's my no tell lover
+
+
 

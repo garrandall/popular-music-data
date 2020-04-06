@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scary-monsters-and-nice-sprites-skrillex
+lyrics_url: https://www.azlyrics.com/lyrics/skrillex/scarymonstersandnicesprites.html
 name: Scary Monsters And Nice Sprites
 rankings:
 - end_date: '2012-01-13'
@@ -63,4 +64,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
 ---
+
+ I'm just like you... you don't need to hide... For I am just like you
+
+Yes, oh my God!
+
+ I'm just like you... you don't need to hide... For I am just like you
+
+Yes, oh my God!
+
+ I'm just like you... you don't need to hide... For I am just like you
+
+Poltergeist... I'm a coward too..
+You don't need to hide, my friend, for I'm just like you
+
+
 

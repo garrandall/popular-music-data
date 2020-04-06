@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-but-for-fortune-joan-baez
+lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/therebutforfortune.html
 name: There But For Fortune
 rankings:
 - end_date: '1965-09-17'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
 ---
+
+Show me the prison, show me the jail
+Show me the prisoner, whose life has gone stale
+And I'll show you a young man
+With so many reasons why
+And there but for fortune, go you or I......mm, mm
+
+Show me the alley, show me the train
+Show me the hobo, who sleeps out in the rain
+And I'll show you a young man
+With so many reasons why
+And there but for fortune, go you or I, mm, mm
+
+Show me the whiskey, stains on the floor
+Show me the drunkard, as he stumbles out the door
+And I'll show you a young man
+With so many reasons why
+And there but for fortune go you or I, mmm, mm
+
+Show me the country, where the bombs had to fall
+Show me the ruins of the buildings, once so tall
+And I'll show you a young land
+With so many reasons why
+And there but for fortune go you and I, you and I.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: small-town-john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/smalltown.html
 name: Small Town
 rankings:
 - end_date: '1985-11-08'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
+
+Well I was born in a small town
+And I live in a small town
+Prob'ly die in a small town
+Oh, those small communities
+
+All my friends are so small town
+My parents live in the same small town
+My job is so small town
+Provides little opportunity
+
+Educated in a small town
+Taught the fear of Jesus in a small town
+Used to daydream in that small town
+Another boring romantic that's me
+
+But I've seen it all in a small town
+Had myself a ball in a small town
+Married an L.A. doll and brought her to this small town
+Now she's small town just like me
+
+No I cannot forget where it is that I come from
+I cannot forget the people who love me
+Yeah, I can be myself here in this small town
+And people let me be just what I want to be
+
+Got nothing against a big town
+Still hayseed enough to say
+Look who's in the big town
+But my bed is in a small town
+Oh, and that's good enough for me
+
+Well I was born in a small town
+And I can breathe in a small town
+Gonna die in this small town
+And that's prob'ly where they'll bury me
+
+
 

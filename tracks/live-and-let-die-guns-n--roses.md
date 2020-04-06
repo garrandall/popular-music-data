@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-and-let-die-guns-n--roses
+lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/liveandletdie.html
 name: Live And Let Die
 rankings:
 - end_date: '1991-12-27'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
 ---
+
+When you were young
+and your heart was an open book
+You used to say live and let live
+you know you did
+you know you did
+you know you did
+But if this ever changing world
+in which we live in
+Makes you give in and cry
+Say live and let die
+Live and let die
+
+What does it matter to ya
+When ya got a job to do
+Ya got to do it well
+You got to give the other fella hell
+
+You used to say live and let live
+you know you did
+you know you did
+you know you did
+But if this ever changing world
+in which we live in
+Makes you give in and cry
+Say live and let die
+Live and let die
+
+
 

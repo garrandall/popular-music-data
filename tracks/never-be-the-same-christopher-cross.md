@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-be-the-same-christopher-cross
+lyrics_url: https://www.azlyrics.com/lyrics/christophercross/neverbethesame.html
 name: Never Be The Same
 rankings:
 - end_date: '1980-10-17'
@@ -83,4 +84,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
+
+It was good for me
+It was good for you
+Now nothing either of us can say or do
+Can change the way you feel tonight
+Sometimes love just slips out of sight
+
+Just one thing before you go
+Just one thing that you've got to know
+No one will ever touch me that way
+The way that you did that very first day
+
+And I'll
+Never be the same without you here
+I'll live alone
+Hide myself behind my tears
+No I'll
+Never be the same without your love
+I'll live alone
+Try so hard to rise above
+
+The years go by
+There's always someone new
+To try and help me forget about you
+Time and again it does me no good
+Love never feels the way that it should
+
+I loved you then I guess I'll love you forever
+And even though I know we could never stay together
+I think about how it could've been
+If we could just start all over again
+
+And I'll
+Never be the same without you here
+I'll live alone
+Hide myself behind my tears
+No, I'll
+Never be the same without your love
+I'll live alone
+Try so hard to rise above
+
+It was good for me
+It was good for you
+Now nothing either of us can say or do
+Can change the way you feel today
+Sometimes love just slips away
+
+Just one thing before you go
+Just one thing that you've got to know
+No one will ever touch me that way
+The way that you did that very first day
+
+And I'll
+Never be the same without you here
+I'll live alone
+Hide myself behind my tears
+Hey...I'll
+Never be the same without your love
+I'll live alone
+Try so hard to rise above
+
+
 

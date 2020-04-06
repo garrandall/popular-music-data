@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--into-the-night-38-special
+lyrics_url: https://www.azlyrics.com/lyrics/38special/rockinintothenight.html
 name: Rockin' Into The Night
 rankings:
 - end_date: '1980-02-08'
@@ -43,4 +44,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
 ---
+
+Cruisin down the motorway
+Got my girl by my side
+We're both a little anxious
+Ooo, we got love on our mind
+Waitin, anticipatin
+For the fireworks in the night
+Well I swear we were doin eighty
+When we saw those motel lights
+
+
+And we were rockin into the night
+Rockin into the night
+Ooo hoo rockin
+Rockin into the night
+Rockin into the night
+
+Yeah, out on the back street
+Taking love where I can
+I found a sweet madonna
+Ooo, with a bible in her hand
+She's waiting, anticipating well
+For someone to save her soul
+Well I ain't no new messiah
+But I'm close enough for rock and roll
+
+
+And I'm slowin down
+And she's pullin in 
+
+Waitin, anticipatin
+For the fireworks in the night
+Well I swear we were doin eighty
+When we saw those motel lights
+
+We were rockin, rockin
+Into the night
+Ooo yeah
+Rockin into the night
+Rockin into the night
+Hoo rockin
+
+
 

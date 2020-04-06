@@ -5,6 +5,7 @@ features:
 - Tony Orlando
 genres: []
 key: tie-a-yellow-ribbon-round-the-ole-oak-tree-dawn-tony-orlando
+lyrics_url: https://www.azlyrics.com/lyrics/conniesmith/tieayellowribbonroundtheoldoaktree.html
 name: Tie A Yellow Ribbon Round The Ole Oak Tree
 rankings:
 - end_date: '1973-02-23'
@@ -100,4 +101,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
 ---
+
+I'm comin' home, I've done my time
+Now I've got to know what is and isn't mine
+If you received my letter telling you I'd soon be free
+Then you'll know just what to do
+If you still want me
+If you still want me
+
+Whoa, tie a yellow ribbon 'round the ole oak tree
+It's been three long years
+Do ya still want me? (still want me)
+If I don't see a ribbon 'round the ole oak tree
+I'll stay on the bus
+Forget about us
+Put the blame on me
+If I don't see a yellow ribbon 'round the ole oak tree
+
+Bus driver, please look for me
+'Cause I couldn't bear to see what I might see
+I'm really still in prison
+And my love, she holds the key
+A simple yellow ribbon's what I need to set me free
+I wrote and told her please
+
+Now the whole damned bus is cheerin'
+And I can't believe I see
+A hundred yellow ribbons 'round the ole oak tree
+I'm comin' home, mmm, mmm
+(Tie a ribbon 'round the ole oak tree)
+(Tie a ribbon 'round the ole oak tree)
+(Tie a ribbon 'round the ole oak tree)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shinin--on-grand-funk
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/shininon.html
 name: Shinin' On
 rankings:
 - end_date: '1974-07-19'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
+
+We are winners and losers, bedfellow choosers
+Put here to pass by the time
+We are space-age sailors, all had our failures
+Now everybody gonna' shine
+
+Keep it shinin' on
+Keep it shinin' on
+
+See the fire within them burnin'
+Touch the fire, make me feel so fine
+Keep the fire within you livin'
+Everybody gonna' shine, shine, shine
+
+Keep it shinin' on
+Keep it shinin', shinin' on
+Keep it shinin' on
+
+Shinin' on
+Shinin' on
+
+What?
+Alright
+
+Keep it shinin' on
+Keep it shinin', shinin' on
+Keep it shinin' on
+
+Keep it shinin' on, shinin' on, shinin' on
+
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+Keep it shinin', keep it shinin', keep it shinin' on
+
+
 

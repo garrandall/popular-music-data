@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-does-it-take-honeymoon-suite
+lyrics_url: https://www.azlyrics.com/lyrics/honeymoonsuite/whatdoesittake.html
 name: What Does It Take
 rankings:
 - end_date: '1986-07-18'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
+
+The two of us are one of a kind
+This combination ain't easy to find
+But why do I get a feeling from you
+Things ain't right?
+Do you need something new?
+Knowing how both of us live
+Leaves us so little to give
+
+If I could grow wings
+I would do anything
+Just to keep you with me
+Can't you see?
+If I could fly high
+I would give you the sky
+Don't you make that mistake
+What does it take?
+
+It's not like I've been mean to you
+It's not like I've got something better to do
+The life I live you'll never understand
+If you fly with me, we'd never have to land
+It's easy to live hard and fast
+But inside we know it won't last, oh yeah
+
+If I could grow wings
+I would do anything
+Just to keep you with me
+Can't you see?
+If I could fly high
+I would give you the sky
+Don't you make that mistake
+Is it love that I need
+What does it take?
+
+Knowing how both of us live
+Leaves us so little to give, oh yeah
+
+If I could grow wings
+I would do anything
+Just to keep you with me
+Can't you see?
+If I could fly high
+I would give you the sky
+Don't you make that mistake
+What does it take?
+
+If I could grow wings
+I would do anything
+Just to keep you with me
+Can't you see?
+If I could fly high
+I would give you the sky
+Don't you make that mistake
+What does it take?
+
+What does it take?
+What does it take?
+What does it take?
+What does it take?
+
+
 

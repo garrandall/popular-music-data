@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-we-re-goin--down-fall-out-boy
+lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/whatacatchdonnie.html
 name: Sugar We're Goin' Down
 rankings:
 - end_date: '2005-07-08'
@@ -175,4 +176,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
 ---
+
+I got troubled thoughts
+And the self-esteem to match
+What a catch, what a catch
+
+You'll never catch us
+So just let me be
+Said I'll be fine
+Till the hospital or American Embassy
+Miss Flack said I still want you back
+Yeah, Miss Flack said I still want you back
+
+I got troubled thoughts
+And the self-esteem to match
+What a catch, what a catch
+And all I can think of
+Is the way I'm the one
+Who charmed the one
+Who gave up on you
+Who gave up on you
+
+They say the captain
+Goes down with the ship
+So, when the world ends
+Will God go down with it?
+Miss Flack said I still want you back
+Yeah, Miss Flack said I still want you back
+
+I got troubled thoughts
+And the self-esteem to match
+What a catch, what a catch
+And all I can think of
+Is the way I'm the one
+Who charmed the one
+Who gave up on you
+Who gave up on you
+
+What a catch
+What a catch
+What a catch
+What a catch
+
+
+I will never end up like him
+Behind my back, I already am
+Keep a calendar
+This way you will always know
+
+I got troubled thoughts
+And the self-esteem to match
+What a catch, what a catch
+And all I can think of
+Is the way I'm the one
+Who charmed the one
+Who gave up on you
+Who gave up on you
+
+
+Where is your boy tonight?
+I hope he is a gentleman
+Maybe he won't find out what I know
+You were the last good thing
+
+We're going down, down in an earlier round
+And sugar, we're goin' down swinging
+I'll be your number one with a bullet
+A loaded God complex, cock it and pull it
+
+Dance, dance, we're falling apart to halftime
+Dance, dance, and these are the lives you'd love to lead
+Dance, this is the way they'd love
+If they knew how misery loved me
+
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race
+
+One night and one more time
+Thanks for the memories
+Even though they weren't so great
+He tastes like you, only sweeter
+
+Growing up, growing up
+
+I got troubled thoughts
+And the self-esteem to match
+What a catch, what a catch
+
+
 

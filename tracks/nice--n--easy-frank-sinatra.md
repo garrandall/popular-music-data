@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nice--n--easy-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/niceneasy.html
 name: Nice 'N' Easy
 rankings:
 - end_date: '1960-09-04'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+
+Let's take it nice and easy
+It's gonna be so easy
+For us to fall in love
+
+Hey baby what's your hurry?
+Relax and don't you worry
+We're gonna fall in love
+
+We're on the road to romance - that's safe to say
+But let's make all the stops along the way
+
+The problem now of course is
+To simply hold your horses
+To rush would be a crime
+'Cause nice and easy does it every time
+
+We're on the road to romance - that's safe to say
+But let's make all the stops along the way
+
+The problem now of course is
+To simply hold your horses
+To rush would be a crime
+'Cause nice and easy does it
+Nice and easy does it
+Nice and easy does it every time
+
+Like the man says one more time
+Nice and easy does it
+Nice and easy does it
+Nice and easy does it every time
+
+
 

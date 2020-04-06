@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-late-tavares
+lyrics_url: https://www.azlyrics.com/lyrics/tavares/toolate.html
 name: Too Late
 rankings:
 - end_date: '1974-06-07'
@@ -35,4 +36,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
 ---
+
+Too late
+Am I too late
+Too late
+Am I too late
+
+Pain is my best friend
+Making me think of you again
+Waking me up and saying
+"Fool, you've been careless and blind, unkind"
+
+Tears I made you shed (look who's crying)
+Me, I made this bad (no denying)
+I'm the man whose jones
+Can't be brought into line
+
+Am I too late to get in the door
+Am I too late, have you locked the store
+Am I too late to sweep up the floor (too late)
+No, no, no, no
+
+Eyes that could not see (what you needed)
+Arms that could not be (what you wanted)
+Lips that would not say
+What you waited to hear, my dear
+
+I'm the one to blame (I admit it)
+That and I'm so ashamed (that I did it)
+Girl, I'm coming home
+It's you I wanna be near (hey, hey, hey)
+
+Am I too late to get in the door
+Am I too late, have you locked the store
+Am I too late to sweep up the floor
+
+Too late
+Am I too late
+Too late
+Am I too late
+
+Too late, ooh-ooh-hoo, woo-hoo
+Too late, ooh-ooh-hoo, woo-hoo
+Too late, ooh-ooh-hoo, woo-hoo
+Too late, ooh-ooh-hoo, woo-hoo
+
+(Too late) Can I get in the door
+(Too late) Wanna love you some more
+(Too late) Can't you see that I'm free
+(Too late) Girl, it's love that I need
+
+Girl, I would do anything just for you
+If you tell me it isn't too late
+
+Am I too late to get in the door
+Am I too late, have you locked the store
+Am I too late to sweep up the floor
+Girl, I would do anything just for you
+If you tell me, yeah
+
+Am I too late to get in the door
+Am I too late, have you locked the store
+Am I too late to sweep up the floor
+Girl, I was wrong, this is where I belong
+
+Am I too late to get in the door
+Am I too late
+
+
 

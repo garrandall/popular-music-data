@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: engine-number-9-wilson-pickett
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/enginenumber9.html
 name: Engine Number 9
 rankings:
 - end_date: '1970-10-02'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
+
+Engine, engine #9, can you get me back on time? 
+Move on, move on down the track 
+Keep that steam comin' out the stack 
+Keep on movin, keep on movin', keep on movin', ow!
+
+Engine, engine #9, keep on movin' down the line 
+Seem like I've been gone for days 
+I can't wait to see my baby's face 
+Look here, been so long since I have, been so long, since I have
+
+Been so long since I have, been so long since I kissed her 
+Engine, engine #9, move on, move on down the line 
+Seem like I've been gone for days 
+I can't wait to see my baby's face 
+Move on, move on, ow! Move on, ow! 
+Get go on about it, gotta get there, ow hah! Ah!
+
+Ah, that sounded all right; I think I'm gonna hold it a bit longer 
+I wanna let the boys do this a little bit!
+
+
 

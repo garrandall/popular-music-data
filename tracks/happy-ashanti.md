@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-ashanti
+lyrics_url: https://www.azlyrics.com/lyrics/ashanti/happy.html
 name: Happy
 rankings:
 - end_date: '2002-06-07'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
 ---
+
+ 
+Woo, ha ha right back at ya.. 
+it's the world's most talented record label 
+Murder Inc. 
+And that angelic voice you hear in the backround, 
+oh that's our new princess of Hip Hop in R&B yo 
+Miss Ashanti. 
+
+ 
+Boy you fill me with so much joy, 
+you give whatever it is I need 
+my love here to stay won't ever leave, 
+so glad that you fell in love with me. 
+
+ 
+My love is so good that I wouldn't be without you 
+babe, 
+couldn't see me without you babe. 
+My love is so good that I wouldn't be without you 
+babe couldn't see me without you baby. 
+
+ 
+all my life I've been searching for you, 
+everyday. So glad that I found you boy, 
+all my life I've been feeling for you everyday. 
+I'm so happy baby. 
+
+ 
+Boy you got me feeling so good, 
+you take all my pain away from me.. 
+without you around I couldn't be 
+and I 
+know you fell in love with me. 
+
+ 
+
+ 
+
+ 
+I'm so happy that I fell in love, 
+I thank God he sent you from up above. 
+I'm so happy that I found someone, 
+and I thank God he sent you from above. 
+
+ 
+
+ 
+Hmmm that I wouldn't be without you babe 
+couldn't see me without you babe and I wouldn't be 
+without you babe couldn't see me without you baby.
+
+
 

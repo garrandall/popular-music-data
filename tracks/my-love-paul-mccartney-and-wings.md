@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-love-paul-mccartney-and-wings
+lyrics_url: https://www.azlyrics.com/lyrics/corinnebaileyrae/mylove.html
 name: My Love
 rankings:
 - end_date: '1973-04-20'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
 ---
+
+And When I Go Away
+I Know My Heart Can Stay With My Love
+It's Understood
+It's In The Hands Of My Love
+And My Love Does It Good
+Wo-Wo-Wo-Wo-Wo-Wo
+My Love Does It Good
+
+And When The Cupboards Bare
+I'll Still Find Something There With My Love
+It's Understood
+It's Everywhere With My Love
+And My Love Does It Good
+Wo-Wo-Wo-Wo Wo-Wo-Wo-Wo
+My Love Does It Good
+
+I Love Oh Wo... My Love
+Only My Love Holds The Other Key To Me
+Oh... My Love Oh... My Love
+Only My Love Does It Good To Me
+
+Wo-Wo-Wo-Wo Wo-Wo-Wo-Wo
+My Love Does It Good
+
+Don't Ever Ask Me Why
+I Never Say Goodbye To My Love
+It's Understood
+It's Everywhere With My Love
+And My Love Does It Good
+Wo-Wo-Wo-Wo Wo-Wo-Wo-Wo
+My Love Does It Good
+Oh... My Love Oh... My Love
+Only My Love Does It Good To Me
+
+
 

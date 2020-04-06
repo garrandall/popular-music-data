@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: meet-me-half-way-kenny-loggins
+lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/meetmehalfway.html
 name: Meet Me Half Way
 rankings:
 - end_date: '1987-03-13'
@@ -107,4 +108,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
 ---
+
+In a lifetime
+Made of memories
+I believe
+In destiny
+
+Every moment returns again in time
+When I've got the future on my mind
+Know that you'll be the only one
+
+Meet me halfway
+Across the sky
+Out where the world belongs
+To only you and I
+
+Meet me halfway
+Across the sky
+Make this a new beginning of another life.
+
+In a lifetime
+There is only love
+Reaching for the lonely one
+
+We are stronger when we are given love
+When we put emotions on the line
+Know that we are the timeless ones
+
+Meet me halfway
+Across the sky
+Out where the world belongs
+To only you and I
+
+Meet me halfway
+Across the sky
+Make this a new beginning of another life.
+
+
+
+Meet me halfway
+Across the sky
+Out where the world belongs
+To only you and I
+
+Meet me halfway
+Across the sky
+Make this a new beginning of another life.
+
+
 

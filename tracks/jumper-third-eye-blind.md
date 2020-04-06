@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jumper-third-eye-blind
+lyrics_url: https://www.azlyrics.com/lyrics/thirdeyeblind/jumper.html
 name: Jumper
 rankings:
 - end_date: '1998-12-11'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
 ---
+
+I wish you would step back
+From that ledge my friend
+You could cut ties with all the lies
+That you've been living in
+And if you do not want to see me again
+I would understand,
+I would understand
+
+The angry boy a bit too insane
+Icing over a secret pain
+You know you don't belong
+You're the first to fight
+You're way too loud
+You're the flash of light on a burial shroud
+I know something's wrong
+Well everyone I know has got a reason
+To say, "Put the past away."
+
+Wish you would step back
+From that ledge my friend
+You could cut ties with all the lies
+That you've been living in
+And if you do not want to see me again
+I would understand,
+I would understand
+
+Well he's on the table and he's gone to code
+And I do not think anyone knows
+What they're doing here
+And your friends have left you
+You've been dismissed
+I never thought it would come to this
+And I, I want you to know
+Everyone's got to face down the demons
+Maybe today
+You could put the past away
+
+I wish you would step back from
+That ledge my friend
+You could cut ties with all the lies
+That you've been living in
+And if you do not want to see me again
+I would understand, I would understand
+I would understand,
+
+I would understand
+I would understand,
+Understand
+
+Can you put the past away
+I wish you would step back
+From that ledge my friend
+(I would understand)
+I wish you would step back
+From that ledge my friend
+(I would understand)
+I wish you would step back
+From that ledge my friend
+And I would understand
+
+(I wish you would step back
+From that ledge my friend)
+I would understand
+(I wish you would step back
+From that ledge my friend)
+And I would understand
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jealousy-natalie-merchant
+lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/jealousy.html
 name: Jealousy
 rankings:
 - end_date: '1996-06-21'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-26'
 ---
+
+Ooo, jealousy 
+
+Is she fine
+So well bred
+The perfect girl
+A social deb 
+
+Is she the sort
+You've always thought
+Could make you
+What you're not? 
+
+Ooo, jealousy 
+
+Is she bright so well read are there novels by her bed 
+
+Is she the sort
+You've always said
+Could satisfy
+Your head? 
+
+Ooo, my jealousy 
+
+Does she talk
+The way I do
+Is her voice reminding you
+Of the promises
+The little white lies too
+Sometimes, tell me
+While she's touching you
+Just by mistake
+Accidentally do you say my name?
+
+
 

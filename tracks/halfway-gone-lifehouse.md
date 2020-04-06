@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: halfway-gone-lifehouse
+lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/halfwaygone.html
 name: Halfway Gone
 rankings:
 - end_date: '2010-01-01'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
 ---
+
+You were always hard to hold
+So letting go ain't easy
+I'm hanging on but growing cold
+While my mind is leaving
+
+Talk, talk is cheap
+Give me a word you can keep
+Cause I'm halfway gone and I'm on my way
+And I'm feelin, feelin feelin this way
+Cause you're halfway in but don't take too long
+Cause I'm halfway gone, I'm halfway gone
+
+You got one foot out the door
+And choking on the other
+Always think there's something more
+It's just around the corner
+
+Talk, talk is cheap
+Give me a word you can keep
+Cause I'm halfway gone and I'm on my way
+And I'm feelin, feelin, feelin this way
+Cause you're halfway in but don't take too long
+Cause I'm halfway gone, I'm halfway gone
+
+If you want me out, then I'm on my way
+And I'm feelin, feelin, feelin this way
+Cause you're halfway in, but don't take too long
+Cause I'm halfway gone, I'm halfway gone
+I'm halfway gone, I'm halfway gone
+Now I'm halfway gone, I'm halfway gone
+
+Don't take too long, don't take too long
+Cause I'm on my way
+If you take too long
+Cause I'm halfway gone and I'm on way
+And I'm feelin, feelin I'm feelin this way
+Cause you're halfway in but don't take too long
+Cause I'm halfway gone, I'm halfway gone
+
+If you want me out, then I'm on my way
+And I'm feelin, feelin, feelin this way
+Cause you're halfway in, but don't take too long
+Cause I'm halfway gone, I'm halfway gone
+Cause I'm halfway gone, and I'm halfway gone
+Cause I'm halfway gone, yeah I'm halfway gone
+
+
 

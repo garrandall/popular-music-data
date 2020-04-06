@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-for-this-girl-evan-and-jaron
+lyrics_url: https://www.azlyrics.com/lyrics/evanandjaron/crazyforthisgirl.html
 name: Crazy For This Girl
 rankings:
 - end_date: '2000-11-10'
@@ -99,4 +100,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
 ---
+
+She rolls the window down
+And she
+Talks over the sound
+Of the cars that pass us by
+And I don't know why
+But she's changed my mind
+
+
+Would you look at her
+She looks at me
+She's got me thinking about her constantly
+But she don't know how I feel
+And as she carries on without a doubt
+I wonder if she's figured it out
+I'm crazy for this girl
+
+She was the one to hold me
+The night
+The sky fell down
+And what was I thinking when
+The world didn't end
+Why didn't I know what I know now
+
+
+
+Right now
+Face to face
+All my fears
+Pushed aside
+And right now
+I'm ready to spend the rest of my life
+With you
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: because-of-you-98-degrees
+lyrics_url: https://www.azlyrics.com/lyrics/98degrees/becauseofyou.html
 name: Because Of You
 rankings:
 - end_date: '1998-10-09'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
 ---
+
+You're my sunshine after the rain
+You're the cure against my fear and my pain
+'Cause I'm losing my mind when you're not around
+It's all (It's all)
+It's all because of you
+You're my sunshine, oh yeah
+
+Baby I really know by now
+Since we met that day
+You showed me the way
+I felt it then
+you gave me love, I can't describe
+How much I feel for you
+I said baby I should have known by now
+Should have been right there
+whenever you gave me love
+And if only you were here
+I'd tell you, yes I'd tell you (oh yeah)
+
+
+
+Honestly could it be you and me
+Like it was before neither less or more
+'Cause when I close my eyes at night
+I realize that no one else could ever take your place
+I still can feel and it's so unreal
+When you're touching me, kisses endlessly
+It's just a place in the sun where our love's begun
+I miss you, yes I miss you baby, oh yeah
+
+
+
+If I knew how to tell you what's on my mind
+(Make you understand)
+The I'd always be there right by your side
+
+
+
+You're my sunshine
+You're my sunshine
+Oh yeah
+
+
 

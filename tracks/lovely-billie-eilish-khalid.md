@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lovely-billie-eilish-khalid
+lyrics_url: https://www.azlyrics.com/lyrics/hippiesabotage/lovelybillieeilishkhalidflip.html
 name: Lovely
 rankings:
 - end_date: '2018-06-15'
@@ -96,4 +97,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
 ---
+
+But I know someday I'll make it out of here
+Even if it takes all night or a hundred years
+Need a place to hide, but I can't find one near
+Wanna feel alive, outside I can't fight my fear
+
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Tear me to pieces, skin to bone
+Hello, welcome home
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Tear me to pieces, skin to bone
+Hello, welcome home
+
+Need a place to hide, but I can't find one near
+Wanna feel alive, outside I can't fight my fear
+
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Isn't it lovely, all alone
+Heart made of glass, my mind of stone
+Tear me to pieces, skin to bone
+Hello, welcome home
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Isn't it lovely, lovely, lovely
+Heart made of glass, my mind of stone
+Tear me to pieces, skin to bone
+Hello, welcome home
+
+
 

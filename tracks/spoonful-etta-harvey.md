@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: spoonful-etta-harvey
+lyrics_url: https://www.azlyrics.com/lyrics/ettajames/spoonful.html
 name: Spoonful
 rankings:
 - end_date: '1961-01-01'
@@ -20,4 +21,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
 ---
+
+It could be a spoonful of coffee
+It could be a spoonful of tea
+But one little spoon of your precious love
+Is good enough for me
+
+Men lie about that spoonful
+Some cry about that spoonful
+Some die about that spoonful
+Everybody fight about a spoonful
+
+That spoon, that spoon, that spoonful
+
+It could be a spoonful of water
+To save you from the desert sand
+But one spoon of love from my forty five
+Will save you from another man
+
+Men lie about that spoonful
+Some cry about that spoonful
+Some die about that spoonful
+Everybody fightin' about a spoonful
+
+That spoon, that spoon, that spoonful
+That spoon, that spoon, that spoonful
+
+It could be a spoonful of sugar
+It could be a spoonful of tea
+But one little spoon of your precious love
+Is good enough for me
+
+Men lie about that spoonful
+Some cry about that spoonful
+Some die about that spoonful
+Everybody fightin' about a spoonful
+
+That spoon, that spoon, that spoonful
+That spoon, that spoon, that spoonful
+That spoon, that spoon, that spoonful
+That spoon, that spoon, that spoonful
+
+
 

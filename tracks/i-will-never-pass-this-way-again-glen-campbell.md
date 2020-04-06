@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-never-pass-this-way-again-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iwillneverpassthiswayagain.html
 name: I Will Never Pass This Way Again
 rankings:
 - end_date: '1972-09-01'
@@ -35,4 +36,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
 ---
+
+I will pass this way but once if there's any good that I can do
+Let me do it now for I'll never pass this way again
+I will see this day but once if there's any kindness I can show
+Let me show it now for I'll never see this day again
+Tomorrow may be too late my friend to do all the good that you planned
+So reach out to those who need you and lend them a helping hand
+I will know this world but once if there's any love that I can give
+Let me give it now oh Lord please show me how
+For I'll never know this world I'll never see this day
+I'll never pass this way again
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-about-you-stevie-b
+lyrics_url: https://www.azlyrics.com/lyrics/stevieb/dreamaboutyou.html
 name: Dream About You
 rankings:
 - end_date: '1995-02-17'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-15'
 ---
+
+There was a time in my life 
+When I opened my eyes and there you were, 
+You were more than a dream, 
+I could reach out and touch you, 
+Girl that was long ago. 
+There are somethings that I guess I'll never know, 
+When you love someone You got to learn to let them go.
+
+When I dream about you, 
+That's when everything's all right, 
+You're in my arms
+Here next to me, forever. 
+When I dream about you, 
+Girl you never go away, 
+Just close my eyes 
+Wait for my dreams, 
+Cause I still love, loving you.
+
+How can I get you to see 
+That I'm falling apart 
+Since you've been gone, 
+I can never be sure 
+I could ever let go 
+Your love is much to strong, 
+There are somethings that I guess 
+I'll never know, 
+
+When you love someone 
+You got to learn to let them go.
+
+When I dream about you, 
+That's when everything's all right, 
+You're in my arms
+Here next to me, forever. 
+When I dream about you, 
+Girl you never go away, 
+Just close my eyes 
+Wait for my dreams, 
+Cause I still love, loving you.
+
+There are somethings that I guess 
+I'll never know, 
+When you love someone 
+You got to learn to let them go.
+
+When I dream about you, 
+That's when everything's all right, 
+You're in my arms
+Here next to me, forever. 
+When I dream about you, 
+Girl you never go away, 
+Just close my eyes 
+Wait for my dreams, 
+Cause I still love, loving you.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-does-that-grab-you-darlin---nancy-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/howdoesthatgrabyoudarlin.html
 name: How Does That Grab You Darlin'?
 rankings:
 - end_date: '1966-04-29'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
 ---
+
+You came by at two o'clock, you shoulda been by at ten
+I said bye at three o'clock and I ain't coming back again 
+
+Whoa! 
+How does that grab you, darlin'?
+How does that mess your mind? 
+How does that grab you darlin'?
+This girl is leavin' you behind. 
+
+You smart alec tom cat you! 
+
+When the sun goes down and the moon comes up 
+I'm gonna go out and prowl.. Oh ya! 
+Don't come lookin' for your pussy cat, 
+cause I won't be here no how!
+
+Whoa! 
+How does that grab you darlin'? 
+How does that mess your mind? 
+How does that grab you darlin'?
+This girl is leavin' you behind. 
+
+Now you ain't nothin' but an old to cat, runnin' around my house
+I'll tell you sometning you old tom cat...you just lost your mouse 
+
+Whoa! 
+How does that grab you darlin'?
+How does that mess your mind?
+How does that grab you darlin'?
+This girl is leavin' you behind.     
+
+There's more than one way to skin a cat you know. Prrrrrrr...
+Bye Bye
+
+
 

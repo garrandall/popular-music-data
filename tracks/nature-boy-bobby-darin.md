@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nature-boy-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/natureboy.html
 name: Nature Boy
 rankings:
 - end_date: '1961-06-18'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
 ---
+
+There was a boy
+A very strange enchanted boy
+They say he wandered very far, very far
+Over land and sea
+A little shy and sad of eye
+But very wise was he
+
+And then one day
+A magic day he passed my way
+And while we spoke of many things
+Fools and kings
+This he said to me
+The greatest thing you'll ever learn
+Is just to love and be loved in return
+
+Oh, the greatest thing you'll ever learn
+Is just to love and be loved in return
+
+The greatest thing you'll ever learn
+Is just to love and be loved in return
+
+
 

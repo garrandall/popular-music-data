@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-on-little-girl-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/danceonlittlegirl.html
 name: Dance On Little Girl
 rankings:
 - end_date: '1961-06-04'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
 ---
+
+Dance dance on little girl
+In the arms of someone new.
+As you dance, as you twirl,
+My heart dances with you.
+
+Dance dance on little girl,
+Tell me what I've done wrong.
+Why should he hold you tight
+While they're playing our song.
+
+I am watching you,
+Oh no no it cannot be.
+While I'm watching you,
+I'm wishing, hoping it's for me.
+
+Dance dance on little girl,
+Tell me why did we part.
+Dance dance on little girl,
+Dance out of my heart.
+
+I am watching you,
+Oh no no it cannot be.
+While I'm watching you,
+I'm wishing, hoping it's for me.
+
+Dance dance on little girl,
+Tell me why did we part.
+Dance dance on little girl,
+Dance out of my heart.
+Oh look at you,
+There you go go go.
+Oh yes you know
+That you're wrong wrong wrong.....
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-attitude-patti-labelle
+lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/newattitude.html
 name: New Attitude
 rankings:
 - end_date: '1985-02-22'
@@ -91,4 +92,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
 ---
+
+Running hot
+Running cold
+I was running into overload
+That was extreme
+
+I took it so high, so low, so long
+There was no where to go like a bad dream
+
+
+Somehow that wires uncrossed
+The table were turned
+Never knew I had such a lesson to learn
+
+
+I'm feeling good from my hat to my shoe
+Know where I am going and I know what to do
+I've tidied up my point of view
+I've got a new attitude
+I'm in control
+My worries are few
+'Cause I got love like I never knew
+Ooo, ooo, ooo, ooo
+I've got a new attitude
+
+I am wearing a new dress, a new hat
+Brand new ideas
+As a matter of fact
+I've changed for good
+
+Must have been the cold nights, new moon
+Night changes
+Or forget your love for just being like I should
+
+
+
+
+
+Ooo, Ooo, Oooo
+
+
+
+
+
+
 

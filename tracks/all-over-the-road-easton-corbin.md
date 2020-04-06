@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-over-the-road-easton-corbin
+lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/allovertheroad.html
 name: All Over The Road
 rankings:
 - end_date: '2013-05-31'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
 ---
+
+No sir I ain't been drinking
+I ain't even had one beer
+This sweet thing's got me buzzing
+From whispering in my ear
+
+Just take a peek up in here
+At this little hot mess
+Mister, you'll understand
+I'm doing my best
+
+And I know I'm all over the road
+I can't help but go
+A little bit of left, a little bit of right
+It's hard to drive with her hand over here on my knee
+When she's all over me, I'm all outta control
+All over the road
+
+Don't wanna get no ticket
+Don't wanna cause no wreck
+It's hard to concentrate with her pretty little lips on my neck
+I say "girl take it easy"
+She laughs, says "it'll be fine"
+How am I supposed to keep it between the lines
+
+Yeah I know I'm all over the road
+I can't help but go
+A little bit of left, a little bit of right
+It's hard to drive with her hand over here on my knee
+When she's all over me, I'm all outta control
+And all over the road
+
+Something 'bout these wheels rolling
+Radio playing gets her going
+I'm trying to get her home as fast as I can go
+
+And I know I'm all over the road
+I can't help but go
+A little bit of left, a little bit of right
+It's hard to drive with her hand over here on my knee
+Have a little mercy on me
+Sir I'm sorry I know
+I'm all over the road
+All over the road
+All over the road
+
+
 

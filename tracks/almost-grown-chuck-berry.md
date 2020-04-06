@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-grown-chuck-berry
+lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/almostgrown.html
 name: Almost Grown
 rankings:
 - end_date: '1959-04-05'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+
+(Wow wow) You know I'm almost grown (Wow wow)
+
+Yeah 'n' I'm doin' all right in school
+They ain't said I broke no rule
+I ain't never been in Dutch
+I don't browse around too much
+
+Don't bother me, leave me alone
+Anyway I'm almost grown
+
+I don't run around with no mob
+Got myself a little job
+I'm gonna buy me a little car
+Drive my girl in the park
+
+Don't bother just leave us alone
+Anyway we're almost grown
+
+Got my eye on a little girl
+Ah, she's really out of this world
+When I take her to the dance,
+She's got to talk about romance
+
+Don't bother just leave us alone
+Anyway we're almost grown
+
+You know I'm still livin' in town
+But I done married and settled down
+Now I really have a ball
+So I don't browse around at all
+
+Don't bother just leave us alone
+Anyway we're almost grown
+
+
 

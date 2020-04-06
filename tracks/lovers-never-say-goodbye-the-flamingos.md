@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovers-never-say-goodbye-the-flamingos
+lyrics_url: https://www.azlyrics.com/lyrics/flamingos/loversneversaygoodbye.html
 name: Lovers Never Say Goodbye
 rankings:
 - end_date: '1959-01-25'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
 ---
+
+Please wait for me; for I shall return
+My love for you will forever burn
+Though we must part
+There's no reason to cry
+Just say so long
+Because lovers never say goodbye
+
+I love you
+My darling more than life itself
+I wouldn't try to hurt you
+For I'd only be hurting my self
+
+Just kiss me dear
+And hold me tight
+For you know this is not our last night
+Though we must part
+There's no reason to cry
+Just say so long
+Because lovers never say goodbye
+
+
 

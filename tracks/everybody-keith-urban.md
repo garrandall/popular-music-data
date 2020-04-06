@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/everybody.html
 name: Everybody
 rankings:
 - end_date: '2007-10-26'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
 ---
+
+So here you are now, nowhere to turn
+It's just the same old yesterday
+And you made a promise to yourself
+That you were never gonna be this way
+And the only thing that you've ever known is to run
+So you keep on driving faster into the sun
+
+Cause everybody needs somebody sometimes
+Yeah, everybody needs somebody sometimes
+
+Don't have to find your own way out
+You gotta voice, let it be heard
+Just when it feels you're on a dead end road
+There's always somewhere left to turn
+
+So don't give up now
+You're so close to a brand new day
+Yes, you are and if you just can bear to be alone
+I'll stay
+
+Cause everybody needs somebody sometimes
+Yeah, everybody needs somebody sometimes
+
+Well, maybe I been too caught up to see
+What you've been going through and all that I can say is
+
+Oooo, yeah
+
+And everybody needs somebody sometimes
+Yeah, everybody needs somebody sometimes
+Everybody needs somebody sometimes
+A little left to save
+Everybody needs somebody sometimes
+Gotta have someone beside you
+Gotta have someone beside you
+Yes, ya do, yes, ya do
+Everybody, everybody needs somebody sometimes
+
+
 

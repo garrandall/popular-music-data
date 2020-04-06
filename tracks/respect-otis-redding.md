@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: respect-otis-redding
+lyrics_url: https://www.azlyrics.com/lyrics/otisredding/respect.html
 name: Respect
 rankings:
 - end_date: '1965-09-10'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
 ---
+
+What you want, honey you got it
+And what you need, baby you got it
+All I'm askin' is for a little respect when I come home
+Hey now, hey hey hey, yeah now
+
+Do me wrong honey, if you wanna
+You can do me wrong, honey while I'm gone
+But all I'm askin' is for a little respect when I come home
+Hey now, hey hey hey, yeah now
+
+Hey little girl, you're so sweeter than honey
+And I'm about to give you all my money
+But all I'm askin', hey
+Is a little respect when I get home
+
+Hey little girl, you're so sweeter than honey
+And I'm about to give you all my money
+But all I'm askin', hey
+Is a little respect when I get home
+
+Respect is what I want
+Respect is what I need
+
+
 

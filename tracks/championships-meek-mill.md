@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: championships-meek-mill
+lyrics_url: https://www.azlyrics.com/lyrics/meekmill/championships.html
 name: Championships
 rankings:
 - end_date: '2018-12-21'
@@ -11,4 +12,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
 ---
+
+Yeah, uh
+
+All the youngins in my hood popping percs now
+Gettin' high they get by, it's gettin' worse now
+You gotta tell 'em put them guns and the percs down
+Them new jails got ten yards in 'em and that's your first down, uh
+And I ain't come here to preach
+I just had to say somethin' 'cause I'm the one with the reach
+Youngin' gotta quarter ounce, he tryna turn into Meech
+Ain't had no daddy, he's had to learn from the streets
+I used to be a honor roll student, damn
+Then I turned to a beast
+The first time I seen a nigga get some blood on his sneaks
+He had on Air Max 93s but was slumped in the street
+His mama cryin', that there's a sign to me, oh Lord
+The shit I'm doin' for my hood I won't get an Award
+I used to sell Reggie, damn how' I get to the Forbes
+I take a shot if I miss I'm gettin' on boards
+Ain't quittin' no more, like give me some more
+We went Old Navy it felt like Christian Dior
+Was dead broke but rich in soul, was we really that poor?
+Was we really that dumb? 'Cause we carry a gun
+And every nigga in my neighborhood carryin' one
+'Cause we had nightmares of our mamas got to bury her son
+I'm speakin' to you as a prophet as rare as they come, uh
+Gunshots sound like music hangin' out the Buick
+Why you wanna be a shooter?
+Mama told me not to do it but I did it
+Now I'm locked up in a prison
+Callin' mama like I shouldn't have did it
+Watch my dream shatter in an instant
+I'm on a visit posin' for the picture
+Like I'm going for my prom or somethin'
+Like I ain't facing time or somethin'
+Ride for these niggas like that shit ain't hurt my mom or somethin'
+Only one gon' get me commissary or even buy me somethin'
+When it all fall down
+I can call y'all now
+Even if I hit your phone
+That won't get me home
+Seen so many different times , these niggas did me wrong
+Shit that's the reason that I did this song
+
+Shit we was kids used to play on the step
+A couple years later we flirtin' with the angel of death
+I was eleven years old, I got my hands on the Tec
+When I first touched it that shit gave me a rush
+My homie's dying I'm like "Maybe we next"
+That just made me a threat
+Knowin' the niggas smoke my daddy it just made me upset
+Made me a man shit I was five when God gave me my test
+Go to court with a court apointed and he won't say object
+Now it's you against the state and you ain't got no cake
+Jail overpopulated they ain't got no space
+I know a youngin' that got murked ain't get to drive no Wraith
+But he in hearse on the way to church, I know his mom gon' faint
+When she smell like embalment fluid, cologne all on her baby
+Pastor said he sendin' you home, she goin' crazy
+When they drop that casket all in the ground, who gon' save me?
+How could you blame me? When I'm tryna stay alive and just survive and beat them odds when niggas die by twenty-five
+When I stop fearin' for my life, when I decide to change my mind And stop tokin'
+Tryna smoke the pain away, they lock us up for smoking
+Put 'em on probation, lock you up if you ain't perfect
+Victims of the system like a rain drop in the ocean
+They closin' all the schools and all the prisons gettin' open
+
+Yeah
+See comin' from where I come from
+We had to beat the streets
+Beat the system, beat racism, beat poverty
+And now we made it through all that we at the championship
+
+
 

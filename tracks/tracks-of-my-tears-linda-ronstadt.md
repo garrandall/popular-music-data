@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tracks-of-my-tears-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/tracksofmytears.html
 name: Tracks Of My Tears
 rankings:
 - end_date: '1975-12-26'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
 ---
+
+People say I'm the life of the party
+'Cause I tell a joke or two
+Although I might be laughing loud and hearty
+Deep inside I'm blue
+
+So take a good look at my face
+You know my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+
+Oh I need you, need you
+
+Since you left me if you see me with another guy
+Looking like I'm having fun
+Although he might be cute he's just a substitute
+Because you're the permanent one
+
+So take a good look at my face
+You know my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+
+Outside I'm masquerading
+Inside my hope is fading
+I'm just a clown since you put me down
+My smile is my make-up I wear since my break-up with you
+
+Baby take a good look at my face
+You know my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+
+Woah baby take a good look at my face
+You know my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+
+Ooh ooh ooh ooh
+
+
 

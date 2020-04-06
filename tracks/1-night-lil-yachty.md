@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1-night-lil-yachty
+lyrics_url: https://genius.com/Lil-yachty-1night-lyrics
 name: 1 Night
 rankings:
 - end_date: '2016-08-19'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
 ---
+I know you want this for life
+Taking pictures with all my ice
+But I can't have no wife
+I just want you for the night
+I know you want this for life
+Taking pictures with all my ice
+But I can't have no wife
+I just want you for the night (just for the night)
 
+I know you want this for life
+Fuck you so good you be calling out the Christ (oh my God)
+Bottles of the Tech got it laid on ice
+We spent four seasons at the Four Seasons twice
+You be calling all your homegirls like "I'm his wife"
+Hell nah, you trippin', reevaluate your life
+I can't love no bitch, every single hoe is trife
+I sip dirty Sprite just to get me through the night
+But I need you there (I need you there)
+Promise that I need you there
+Ain't no other bitch gon' fuck me like you do, I swear
+Put that on my gang I swear
+I just can't put you on front street like you want I know
+But baby you is not no hoe
+And I put it on my gang I'm not no average joe (average joe)
+It's Yachty from the block you know
+
+I know you want this for life
+Taking pictures with all my ice
+But I can't have no wife
+I just want you for the night
+I know you want this for life
+Taking pictures with all my ice
+But I can't have no wife
+I just want you for the night

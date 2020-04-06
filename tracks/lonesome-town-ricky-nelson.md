@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonesome-town-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/lonesometown.html
 name: Lonesome Town
 rankings:
 - end_date: '1958-10-26'
@@ -79,4 +80,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
 ---
+
+There's a place where lovers go
+To cry their troubles away
+And they call it
+Lonesome Town
+Where the broken hearts stay
+
+You can buy a dream or two
+To last you all through the years
+And the only price you pay
+Is a heart full of tears
+
+Goin' down to Lonesome Town
+Where the broken hearts stay
+Goin' down to Lonesome Town
+To cry my troubles away
+
+In the town of broken dreams
+The streets are filled with regret
+Maybe down in Lonesome Town
+I can learn to forget
+
+Maybe down in Lonesome Town
+I can learn to forget
+Lonesome Town
+
+
 

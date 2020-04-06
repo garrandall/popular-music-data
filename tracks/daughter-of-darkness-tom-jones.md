@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daughter-of-darkness-tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/daughterofdarkness.html
 name: Daughter Of Darkness
 rankings:
 - end_date: '1970-05-08'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
 ---
+
+Woman, I can remember a woman
+Warm were her kisses and tender was she lying there in my arms
+Why
+Why, did you deceive me so?
+What devil inside made you go when I needed you most of all-ll
+Oh Daughter of Darkness
+Stay out of my life, my life
+You took my heart and broke it apart, you daughter of darkness
+Daughter of darkness
+Please, leave me alone forever
+Daughter of darkness, gone is the love that we shared together
+Heaven, we had our own kind of heaven
+Sharing together the magic of love in a world of our own
+Then oh so suddenly you were gone
+The love I depended upon disappeared when you weren't away-ay
+
+Oh Daughter of Darkness
+Stay out of my life, my life
+You took my heart and broke it apart, you daughter of darkness
+Daughter of darkness
+Please, leave me alone forever
+Oh devil daughter of darkness, gone is the love that we shared together
+Oh Daughter of Darkness
+Stay out of my life, my life
+
+You took my heart and broke it apart, you daughter of darkness
+Oh Daughter of Darkness
+Stay out of my life, my life
+You took my heart and broke it apart, you daughter of darkness
+Daughter of darkness
+Please, leave me alone forever
+Oh devil daughter of darkness, gone is the love that we shared together
+
+
+
+
 

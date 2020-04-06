@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-reba
+lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/strange.html
 name: Strange
 rankings:
 - end_date: '2009-06-19'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
 ---
+
+I laid there feeling sorry for myself
+In a bed of Kleenex
+Stuffing chocolates in my mouth
+On the phone with my best friend
+Cussing my ex
+
+He broke my heart
+Felt like the world had ended
+I cried myself to sleep
+Thinking I can't get over him
+
+Strange, talk about luck
+I woke up and the sun was shining
+Strange, I ought to be in bed
+With my head in the pillow crying
+Over us, but I ain't, ain't love
+Strange
+
+Got half a mind
+To spend my whole pay check
+On one of those dresses
+The strapless black ones
+That are so famous
+For teaching lessons
+
+Drop by his place
+Pick up the rest of my things
+He'll tell me I look good
+I'll laugh and say, now isn't time
+
+Strange, talk about luck
+I woke up and the sun was shining
+Strange, I ought to be in bed
+With my head in the pillow crying
+Over us, but I ain't, ain't love
+Strange, strange
+
+Strange, talk about luck
+I woke up and the sun was shining
+Strange, I ought to be in bed
+With my head in the pillow crying
+Over us, but I ain't, ain't love
+Strange
+
+Strange, talk about luck
+I woke up and the sun was shining
+Strange, strange
+
+
 

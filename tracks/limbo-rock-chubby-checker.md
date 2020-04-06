@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: limbo-rock-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/limborock.html
 name: Limbo Rock
 rankings:
 - end_date: '1962-09-14'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
 ---
+
+Every limbo boy and girl
+All around the limbo world
+Gonna do the limbo rock
+All around the limbo clock
+
+Jack be limbo, Jack be quick
+Jack go unda limbo stick
+All around the limbo clock
+Hey, let's do the limbo rock
+
+Limbo lower now
+Limbo lower now
+How low can you go?
+
+First you spread your limbo feet
+Then you move to limbo beat
+Limbo ankolimboneee
+Bend back like a limbo tree
+
+Jack be limbo, Jack be quick
+Jack go unda limbo stick
+All around the limbo clock
+Hey, let's do the limbo rock
+
+La, la, la
+La, la, la
+La, la, la
+
+Get yourself a limbo girl
+Give that chic a limbo whirl
+There's a limbo moon above
+You will fall in limbo love
+
+Jack be limbo, Jack be quick
+Jack go unda limbo stick
+All around the limbo clock
+Hey, let's do the limbo rock
+
+Don't move that limbo bar
+You'll be a limbo star
+How low can you go?
+
+
 

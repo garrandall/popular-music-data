@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-you-stand-the-rain-new-edition
+lyrics_url: https://www.azlyrics.com/lyrics/newedition/canyoustandtherain.html
 name: Can You Stand The Rain
 rankings:
 - end_date: '1989-02-17'
@@ -59,4 +60,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
 ---
+
+
+On a perfect day,
+I know that I can count on you.
+When that's not possible,
+Tell me, can you weather the storm?
+
+
+'Cause I need somebody who will stand by me.
+Through the good times and bad times,
+She will always, always be right there.
+
+Sunny days.
+Everybody loves them.
+Tell me, baby, can you stand the rain?
+Storms will come.
+This we know for sure.
+(this we know for sure.)
+Can you stand the rain?
+
+
+Yeah, yeah.
+Love unconditional I'm not asking just of you.
+And, girl, to make it last
+I'll do whatever needs to be done.
+
+
+But I need somebody who will stand by me.
+When it's tough she won't run.
+She will always be right there for me.
+
+Sunny days.
+Everybody loves them.
+Tell me, baby, can you stand the rain.
+Storms will come.
+I know I know all the days won't be perfect,
+(this we know for sure.)
+But tell me can you stand it?
+Can you stand the rain?
+
+Can you stand the rain?
+Can you stand the rain?
+Can you stand the rain?
+Can you stand the rain?
+
+
+No pressure.
+No pressure from me, baby.
+(this we know for sure).
+'Cause I want you and I need you, and I love you, girl.
+Tell me, baby, can you stand the rain?
+
+
+Will you be there for me?
+
+
+Come on, baby, let's go get wet.
+
+Can you stand the rain?
+Can you stand the rain?
+Can you stand the rain?
+Will you be there, girl?
+Can you stand the rain?
+Storms will come for sure.
+Can you stand the rain?
+Can you stand the rain?
+
+Can you stand the rain?
+This we know for sure.
+Can you stand the rain?
+Can you stand the rain?
+This we know for sure.
+Can you stand the rain?
+
+Can you stand the rain?
+This we know for sure.
+Can you stand the rain?
+Can you stand the rain?
+
+
+Yeah. It's hard, but I'll know I'll be right there. Yeah, yeah, yeah.
+
+Can you stand the rain?
+
+
 

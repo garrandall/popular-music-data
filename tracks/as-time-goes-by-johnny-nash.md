@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-time-goes-by-johnny-nash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/creampuff.html
 name: As Time Goes By
 rankings:
 - end_date: '1959-03-22'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+
+Take her if it has to be this way
+I know she doesn't really want to stay
+But be careful how you hold her
+Please don't ever scold her
+She's my cream puff
+
+We've been together a long, long time
+I know her ways and she knows mine
+So be careful how squeeze her
+Please don't ever tease her
+She's my cream puff
+
+I pray to god above her
+She'll find another lover
+Who'll love her as much as I
+
+I only wanna make her happy
+Even though she made me cry
+
+If things go wrong
+Send her back to me
+I'll be as happy as I could be
+'Cause I feel so lost without her
+All the things about her
+She's my cream puff
+
+I pray to god above her
+She'll find another lover
+Who'll love her as much as I
+
+I only wanna see her happy
+Even though she made me cry
+
+If things go wrong send her back to me
+Id be as happy as I could be
+'Cause I feel so lost without her
+All the things about her
+She's my cream puff
+
+
 

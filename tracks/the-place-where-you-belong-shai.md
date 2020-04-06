@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-place-where-you-belong-shai
+lyrics_url: https://www.azlyrics.com/lyrics/shai/theplacewhereyoubelong.html
 name: The Place Where You Belong
 rankings:
 - end_date: '1994-06-10'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
 ---
+
+Dis Is The Place Where You Belong
+Right Here In My Arms
+Without You Something Is Wrong
+
+Misery
+Such A Fool To Let You Walk Away From Me, Now It Seems It's Just Nobody There For Me
+Girl I'm In Agony For You
+Ohhh
+Though Without A Trace
+Never Knew That Live Was Such A Lonely Place, Damn I Need Your Loving Just To Fill The Space
+I'm In So Much Pain Without You
+Ohhh
+You Let Me Here Alone
+Why Don't You Come Back Home
+To Me
+Ohhh
+Everybody Help Me Sing
+
+Dis Is The Place Where You Belong
+Right Here In My Arms (My Arms)
+Without You Something Is Wrong
+
+Waiting For Your Core
+Can't Help Thinking That The Mess Is All By Far, And Just To Have You Back, I Swear I'd Risk It All
+My Every Fall
+Is You
+Girl I'm On My Knees
+Begging For Forgiveness And Your Sympathy, But Most Of All My Love
+I'm At Your Comforting
+The Only Thing I Need Is You
+I Need You Back My Friend
+So I Can Live
+Come Back Home
+Everybody Help Me Sing It
+
+
+
+
+You Belong You Belong In My Arms
+
+
+
+
 

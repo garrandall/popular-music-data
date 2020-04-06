@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-in-the-way-you-move-ellie-goulding
+lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/somethinginthewayyoumove.html
 name: Something In The Way You Move
 rankings:
 - end_date: '2016-02-19'
@@ -47,4 +48,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
 ---
+
+It's the strangest feeling
+Feeling this way for you
+There's something in the way you move
+Something in the way you move
+With you I'm never healing
+It's heartache through and through
+There's something in the way you move
+Don't know what it is you do
+Not one bone in your body good enough for me
+But this heart is open, bloodstain on my sleeve
+When our eyes meet, I can only see the end
+But tonight I'm here yours again
+
+But tonight I'm gonna lose it all
+Playing with fire, I was the first to fall
+Heart is sinking like a cannonball
+Baby kill it, what're you waiting for?
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+There's an evil night air, the stars don't shine tonight
+Something in the way you do
+Something in the way you
+Push me closer, further
+Break me just enough
+Your lies always seem so true
+There's nothing left for me to lose
+There's not one thing I can do to change your ways
+But I can't sit back and take the lonely days
+When our eyes meet, I can only see the end
+And tonight the rain pours again
+
+But tonight I'm gonna lose it all
+Playing with fire, I was the first to fall
+Heart is sinking like a cannonball
+Baby kill it, what're you waiting for?
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+But tonight I'm gonna lose it all
+Playing with fire, I was the first to fall
+Heart is sinking like a cannonball
+Baby kill it, what're you waiting for?
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+Something in the way you move
+Something in the way you do it
+Something in the way you move
+
+
 

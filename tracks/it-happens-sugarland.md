@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-happens-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/ithappens.html
 name: It Happens
 rankings:
 - end_date: '2009-03-27'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
 ---
+
+Missed my alarm clock ringing
+Woke up, telephone screaming
+Boss man singing his same old song
+
+Rolled in late about an hour
+No cup of coffee, no shower
+Walk of shame with two different shoes on
+
+Now it's poor me, why me, oh me,
+Boring the same old worn-out blah-blah story
+There's no good explanation for it at all
+
+Ain't no rhyme or reason
+No complicated meaning
+Ain't no need to over-think it
+Let go laughing
+
+Life don't go quite like you planned it
+We try so hard to understand it
+The irrefutable, indisputable fact isâpshhâ
+It happens
+
+My trusty-rusty had a flat
+I borrowed my neighbors Cadillac
+"I'll be right back," going down to Wally World
+
+That yellow light turned red too quickly
+Knew that truck the moment it hit me
+Out stepped my ex and his new girl
+"Sorry 'bout your neck, baby."
+
+But it is poor me, why me, oh me
+Boring the same old worn-out blah-blah story
+There is no good explanation for it at all
+
+Ain't no rhyme or reason
+No complicated meaning
+Ain't no need to over-think it
+Let go laughing
+
+Life don't go quite like you planned it
+We try so hard to understand it
+The irrefutable, indisputable fact is
+It happens
+
+Ain't no rhyme or reason
+No complicated meaning
+Ain't no need to over think it
+Let go laughing
+
+Life don't go quite like you planned it
+We try so hard to understand it
+The irrefutable, indisputable fact is
+Yeah, the irrefutable, indisputable, absoluteable, totally beautiful fact isâpshhâit happens
+
+
 

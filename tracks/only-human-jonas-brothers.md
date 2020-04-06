@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-human-jonas-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/onlyhuman.html
 name: Only Human
 rankings:
 - end_date: '2019-06-28'
@@ -151,4 +152,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
 ---
+
+Yeah, ayy
+
+I don't want this night to end
+It's closing time, so leave with me again, yeah
+You got all my love to spend, oh
+Let's find a place where happiness begins (jump)
+
+We gon' dance in my living room, slave to the way you move
+Hurts when I'm leaving you (Ayy)
+Just dance in the living room, love with an attitude
+Drunk to an 80s groove (Ayy)
+We gon' dance in my living room, slave to the way you move
+Hurts when I'm leaving you (Ayy)
+Dance in the living room, love with an attitude
+Drunk
+
+It's only human
+You know that it's real
+So why would you fight or try to deny
+The way that you feel?
+Oh, babe, you can't fool me
+Your body's got other plans
+So stop pretending you're shy, just come on and
+Dance, dance, dance, dance, oh
+
+Early morning la-la-light
+Only getting up to close the blinds, oh
+I'm praying you don't change your mind
+Cause leaving now just don't feel right
+Let's do it one more time, oh, babe
+
+We gon' dance in my living room, slave to the way you move
+Hurts when I'm leaving you (Hurts when I'm leaving you)
+Just dance in the living room, love with an attitude
+Drunk to an 80s groove (Ayy)
+We gon' dance in my living room, slave to the way you move
+Hurts when I'm leaving you (Ayy)
+Dance in the living room, love with an attitude
+Drunk
+
+It's only human
+You know that it's real (Know that it's real)
+So why would you fight or try to deny
+The way that you feel? (The way that you feel)
+Oh, babe, you can't fool me
+Your body's got other plans
+So stop pretending you're shy, just come on
+And dance (jump), dance (jump), dance (jump), dance (jump), oh
+
+Dance, oh (Woo, ayy)
+Only human
+It's only (man), it's only (man)
+Only human
+Oh, yeah, yeah, yeah
+Only human
+It's only (man), it's only (man)
+Only human
+
+
 

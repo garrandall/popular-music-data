@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-sticky-thing-ohio-players
+lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/sweetstickything.html
 name: Sweet Sticky Thing
 rankings:
 - end_date: '1975-09-26'
@@ -39,4 +40,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
 ---
+
+You just go from man to man
+I just don't seem to understand
+Why you're so very hard to take
+You sweet sticky thing
+
+If I could slow you down sometime
+I'd like to try and change your mind
+You're really not the one to blame
+You sweet sticky thing
+
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+
+Every time that you walk by
+You really leave me paralyzed
+If you just wouldn't play those games
+You sweet sticky thing
+
+Your beehive is full of bees
+I wish you had a place for me
+I'm really trying hard to change
+You sweet sticky thing
+
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+
+Little buzzin' bumble bee
+I'd want to take you home with me
+Will you share my beehive with me
+You sweet sticky thing
+
+You leave honey everywhere
+Sometimes I wonder if you care
+Who sees you when you do your thing
+You've got such a sting
+
+Sweet, sweet sticky thing
+Sweet, sweet sticky thing
+That's why I sing
+Da da da daa
+Da da da daa
+Da da da daa ah
+
+Da da da daa
+Da da da daa
+Da da da daa ah
+
+Da da da daa
+Da da da daa
+Da dat da daa ah
+
+Da da da daa
+Da da da daa
+Da da da daa ya
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-there-lonely-girl-robert-john
+lyrics_url: https://www.azlyrics.com/lyrics/robertjohn/heytherelonelygirl.html
 name: Hey There Lonely Girl
 rankings:
 - end_date: '1980-07-25'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
 ---
+
+Ever since he broke your heart
+You seem so lost each time you pass my way
+How I long to take your hand
+And say "Don't cry
+I'll kiss your tears away"
+
+He-e-e-e-y there lonely girl, lonely girl
+Let me make your broken heart like new
+Hey there lonely girl, lonely girl
+Don't you know this lonely boy loves you?
+
+(You think that only his lips
+Can kiss your lips
+And make your heart stand still)
+
+But once you're in my arms you'll see
+No one can kiss your lips the way I will
+The way I will...
+
+Hey there lonely girl, my only girl
+Let me make your broken heart like new
+Hey there lonely girl, my only girl
+Don't you know this lonely boy loves you?
+
+Hey there lonely girl,
+You don't have to be lonely
+Don't you know this lonely boy loves you-ou-ou?
+You-ou-ou-ou-ou
+Don't you know this lonely boy loves you-ou-ou?
+
+I make your broken heart like new
+And I the everything I heart like new
+
+
 

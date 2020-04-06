@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-confessions-the-grass-roots
+lyrics_url: https://www.azlyrics.com/lyrics/grassroots/midnightconfessions.html
 name: Midnight Confessions
 rankings:
 - end_date: '1968-09-06'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
 ---
+
+The sound of your footsteps
+Telling me that you're near
+Your soft gentle motion, baby
+Brings out the need in me that no one can hear, except
+
+In my midnight confessions
+When I tell all the world that I love you
+In my midnight confessions
+When I say all the things that I want to
+I love you
+
+But a little gold ring you wear on your hand makes me understand
+There's another before me, you'll never be mine
+I'm wasting my time
+
+Staggering through the daytime
+Your image on my mind
+Passing so close beside you, baby
+Sometimes the feelings are so hard to hide, but
+
+In my midnight confessions
+When I tell all the world that I love you
+In my midnight confessions
+When I say all the things that I want to
+I love you
+
+That's a little gold ring you wear on your hand that makes me understand
+There's another before me, you'll never be mine
+I'm wasting my time
+
+In my midnight confessions
+When I'm telling the world that I love you
+In my midnight confessions
+When I say all the things that I want to
+Na-na-na-na, na-na-na-na
+Na-na-na-na, na-na-na-na
+Na-na-na-na, na-na-na-na
+Na-na-na-na, na-na-na-na
+
+
 

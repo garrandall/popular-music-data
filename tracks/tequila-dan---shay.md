@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tequila-dan---shay
+lyrics_url: https://www.azlyrics.com/lyrics/danshay/tequila.html
 name: Tequila
 rankings:
 - end_date: '2018-02-02'
@@ -207,4 +208,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
 ---
+
+I can still shut down a party
+I can hang with anybody
+I can drink whiskey and red wine
+Champagne all night
+Little scotch on the rocks and I'm fine, I'm fine
+
+But when I taste tequila, baby I still see ya
+Cutting up the floor in a sorority T-Shirt
+The same one you wore when we were
+Sky high in Colorado, your lips pressed against the bottle
+Swearing on a Bible, baby, I'd never leave ya
+I remember how bad I need ya, when I taste tequila
+When I taste tequila
+
+I can kiss somebody brand new and not even think about you
+I can show up to the same bar
+Hear the same songs in my car
+Baby, your memory it only hits me this hard
+
+When I taste tequila, baby I still see ya
+Cutting up the floor in a sorority t-shirt
+The same one you wore when we were
+Sky high in Colorado, your lips pressed against the bottle
+Swearing on a Bible, baby, I'd never leave ya
+I remember how bad I need ya, when I taste tequila
+When I taste tequila
+
+I ain't even drunk, I ain't even drunk
+And I'm thinking
+How I need your love, how I need your love
+Yeah, it sinks in
+
+When I taste tequila, baby I still see ya
+Sorority t-shirt, the same one you wore when we were
+Sky high in Colorado, your lips pressed against the bottle
+Swearing on a Bible, baby, I'd never leave ya
+I remember how bad I need ya, when I taste tequila
+When I taste tequila
+When I taste tequila
+When I taste tequila
+
+
 

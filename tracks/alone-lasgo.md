@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-lasgo
+lyrics_url: https://www.azlyrics.com/lyrics/lasgo/alone.html
 name: Alone
 rankings:
 - end_date: '2004-01-02'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
 ---
+
+If only I had one more chance
+to change my life today
+Then I would never let you go
+
+All my friends keep telling me 
+That I should leave you for a while
+So you must show your love to me
+And tell me what you feel
+
+I thought that even you had feelings for me too
+I know I was wrong
+And baby when you care, then I will be there
+By your side
+
+And now I stand here alone in the dark
+Without you
+There's nothing more that I would like
+Than be with you
+I close my eyes but I can't stop
+Thinking of you
+And now I stand here alone in the dark
+Without you
+
+
 

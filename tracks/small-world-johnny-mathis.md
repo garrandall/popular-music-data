@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: small-world-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/smallworld.html
 name: Small World
 rankings:
 - end_date: '1959-06-21'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
 ---
+
+Funny, you're a stranger who's come here,
+come from another town.
+Funny, I'm a stranger myself here.
+Small world, isn't it?
+
+Funny, you're a man who goes traveling
+rather than settling down.
+Funny, 'cause I'd love to go traveling.
+Small world, isn't it?
+
+We have so much in common,
+it's a phenomenon.
+We could pool our resources
+by joining forces from now on.
+
+Lucky, you're a man who likes children.
+That's an important sign.
+Lucky, I'm a woman with children.
+Small world, isn't it?
+Funny, isn't it small and funny and fine?
+
+We have so much in common,
+it's a phenomenon.
+We could pool our resources
+by joining forces from now on.
+
+Lucky, you're a man who likes children.
+That's an important sign.
+Lucky,
+You're a
+woman with children.
+Small world, isn't it?
+Funny, isn't it
+isn't it
+small and funny and fine?
+
+
 

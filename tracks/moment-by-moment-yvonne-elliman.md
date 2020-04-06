@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moment-by-moment-yvonne-elliman
+lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/momentbymoment.html
 name: Moment By Moment
 rankings:
 - end_date: '1978-12-29'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
 ---
+
+Though our love
+Is like a whinding road
+Of uncertainty
+I long to trust your smile
+And all the ways you feel touching me
+
+Moment by moment
+Our life time goes on
+Till one day
+Ooh, some days are gone
+
+Look at us
+Two drifters with a dream
+Scared to see it through
+But we're so happy now
+It might be beautiful if we do
+
+Moment by moment
+Our life time goes on
+Till one day
+Ooh, some days are gone
+
+Ooh hoo
+Moment by moment
+The choices we make
+Depend on the chances we take
+Ooh, for moment
+
+Moment by moment
+Our life time goes on
+Till one day
+Ooh, some days are gone
+
+
 

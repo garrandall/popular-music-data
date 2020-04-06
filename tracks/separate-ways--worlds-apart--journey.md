@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: separate-ways--worlds-apart--journey
+lyrics_url: https://www.azlyrics.com/lyrics/journey/separatewaysworldsapart.html
 name: Separate Ways (Worlds Apart)
 rankings:
 - end_date: '1983-02-11'
@@ -75,4 +76,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
 ---
+
+Here we stand
+Worlds apart
+Hearts broken in two, two, two
+Sleepless nights
+Losing ground
+I'm reaching for you, you, you
+
+Feelin' that it's gone
+Can't change your mind
+If we can't go on
+To survive the tide
+Love divides
+
+Someday love will find you
+Break those chains that bind you
+One night will remind you
+How we touched
+And went our separate ways
+If he ever hurts you
+True love won't desert you
+You know I still love you
+Though we touched
+And went our separate ways
+
+Troubled times
+Caught between confusions and pain, pain, pain
+Distant eyes
+Promises we made were in vain
+In vain, vain
+
+If you must go
+I wish you love
+You'll never walk alone
+Take care my love
+Miss you love
+
+Someday love will find you
+Break those chains that bind you
+One night will remind you
+How we touched
+And went our separate ways
+If he ever hurts you
+True love won't desert you
+You know I still love you
+Though we touched
+And went our separate ways
+
+
+
+Oooooooooh
+Someday love will find you
+Break those chains that bind you
+One night will remind you
+If he ever hurts you
+True love won't desert you
+You know I still love you
+
+I still love you, girl
+I really love you, girl
+And if he ever hurts you
+True love won't desert you
+Nooooooooo
+Nooooooooo
+
+
 

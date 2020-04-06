@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-yeah-yello
+lyrics_url: https://www.azlyrics.com/lyrics/yello/ohyeah.html
 name: Oh Yeah
 rankings:
 - end_date: '1987-08-14'
@@ -51,4 +52,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
 ---
+
+Oh yeah... oh yeah... oh yeah
+The moon... beautiful
+The sun... even more beautiful
+Oh yeah... oh yeah... oh yeah
+
+Beautiful
+Oh yeah... oh yeah...
+
+Good time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-just-disagree-dave-mason
+lyrics_url: https://www.azlyrics.com/lyrics/homefree/wejustdisagree.html
 name: We Just Disagree
 rankings:
 - end_date: '1977-09-09'
@@ -83,4 +84,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+
+Been away, haven't seen you in a while
+How've you been, have you changed your style?
+And do you think that we've grown up differently?
+Don't seem the same, seems you've lost your feel for me
+
+So let's leave it alone, 'cause we can't see eye to eye
+There ain't no good guy, there ain't no bad guy
+There's only you and me and we just disagree
+Ooh-hoo-hoo, oh-oh-ho
+
+I'm going back to a place that's far away
+How bout you, have you got a place to stay?
+Why should I care when I'm just trying to get along?
+We were friends, but now it's the end of our love song
+
+So let's leave it alone, 'cause we can't see eye to eye
+There ain't no good guy, there ain't no bad guy
+There's only you and me and we just disagree
+Ooh-hoo-hoo, oh-oh-ho
+
+So let's leave it alone, 'cause we can't see eye to eye
+There ain't no good guy, there ain't no bad guy
+There ain't no good guy, there ain't no bad guy
+There ain't no good guy, there ain't no bad guy
+There's only you and me and we just disagree
+
+So let's leave it alone, 'cause we can't see eye to eye
+There ain't no good guy, there ain't no bad guy
+There's only you and me and we just disagree
+Ooh-hoo-hoo, oh-oh, oh-oh-ho
+
+
 

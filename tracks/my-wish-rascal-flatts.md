@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-wish-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/mywish.html
 name: My Wish
 rankings:
 - end_date: '2006-09-29'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
 ---
+
+I hope the days come easy and the moments pass slow
+And each road leads you where you want to go
+And if youâre faced with the choice and you have to choose
+I hope you choose the one that means the most to you
+And if one door opens to another door closed
+I hope you keep on walkinâ âtil you find the window
+If itâs cold outside, show the world the warmth of your smile
+But more than anything, more than anything
+
+
+My wish for you
+Is that this life becomes all that you want it to
+Your dreams stay big, your worries stay small
+You never need to carry more than you can hold
+And while youâre out there gettinâ where youâre gettinâ to
+I hope you know somebody loves you
+And wants the same things too
+Yeah, this is my wish
+
+I hope you never look back but you never forget
+All the ones who love you
+And the place you left
+I hope you always forgive and you never regret
+And you help somebody every chance you get
+Oh, you find Godâs grace in every mistake
+And always give more than you take
+But more than anything, yeah more than anything
+
+
+
+This is my wish
+I hope you know somebody loves you
+May all your dreams stay big
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: downtime-jo-dee-messina
+lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/downtime.html
 name: Downtime
 rankings:
 - end_date: '2001-06-22'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
 ---
+
+I haven't been myself these days according to friends
+I tend to lose part of me when my heart's on the mend
+I'll be alright it's safe to say
+'Cause just like your love this is only a phase
+
+Oh, I've been on this road a time or two, it's nothing new
+I'll get on my feet and over you
+I tell myself that everything will be just fine
+I'm just going through a little down-time
+
+Some might think I've gotten caught up in heartache's aftermath
+But your memory's taken second to a good book and nice long bath
+I must admit it threw me at first
+But I'm convinced I'm over the worst
+
+Oh, I've been on this road a time or two, it's nothing new
+I'll get on my feet and over you
+I tell myself that everything will be just fine
+I'm just going through a little down-time
+
+Time is meant to play the part
+In taking care of broken hearts
+
+Oh, I've been on this road a time or two, it's nothing new
+I'll get on my feet and over you
+I tell myself that everything will be just fine
+I'm just going through a little down-time
+
+I'm just going through a little down-time
+
+
 

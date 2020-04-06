@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-decorated-my-life-kenny-rogers
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/youdecoratedmylife.html
 name: You Decorated My Life
 rankings:
 - end_date: '1979-09-14'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
 ---
+
+All my life was a paper
+Once plain, pure and white
+Till you moved with your pen
+Changing moods now and then
+Till the balance was right
+
+Then you added some music
+Every note was in place
+And anybody could see
+All the changes in me
+By the look on my face
+
+And you decorated my life
+Created a world where dreams are a part
+And you decorated my life
+By painting your love all over my heart
+You decorated my life
+
+Like a rhyme with no reason
+And an unfinished song
+There was no harmony
+Life meant nothing to me
+Until you came along
+
+And you brought out the colors
+What a gentle surprise
+Now I'm able to see
+All the things life can be
+Shining soft in your eyes
+
+And you decorated my life
+Created a world where dreams are a part
+And you decorated my life
+By painting your love all over my heart
+You decorated my life
+
+
 

@@ -5,6 +5,7 @@ features:
 - Michelle Branch
 genres: []
 key: the-game-of-love-santana-michelle-branch
+lyrics_url: https://www.azlyrics.com/lyrics/santana/thegameoflove.html
 name: The Game Of Love
 rankings:
 - end_date: '2002-10-11'
@@ -156,4 +157,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-14'
 ---
+
+Tell me just what you want me to be
+One kiss and boom you're the only one for me
+So please tell me why don't you come around no more
+Cause right now I'm crying outside the door of your candy store
+
+
+It just takes a little bit of this
+A little bit of that
+It started with a kiss
+Now we're up to bat
+A little bit of laughs
+A little bit of pain
+I'm telling you, my babe
+It's all in the game of love
+
+This, whatever you make it to be
+Sunshine set on this cold lonely sea
+So please baby try and use me for what I'm good for
+It ain't sayin' goodbye that's knocking down the door of your candy store
+
+
+It's all in this game of love
+You roll me
+Control me
+Console me
+Please hold me
+You guide me
+Divide me
+Into what...
+
+
+Make me feel good, yeah
+
+So please tell me why don't you come around no more
+Cause right now I'm dying outside the door of your loving store
+
+
+
+It's all in this game of love
+It's all in the game of love
+Yeah, in the game of love
+
+Roll me
+Control me
+Please hold me
+(make me feel good, yeah)
+
+
 

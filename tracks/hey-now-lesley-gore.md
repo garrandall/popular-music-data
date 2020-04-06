@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-now-lesley-gore
+lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/heynow.html
 name: Hey Now
 rankings:
 - end_date: '1964-10-23'
@@ -31,4 +32,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
 ---
+
+Hey now, what you gonna do
+Are you gonna be mine tried and true
+Hey hey hey now, give it to me straight?
+Am I gonna be the one or just another date?
+Look-a here, I gotta know quick
+Because I can't waste my time just waitin' round your line
+When I can find another guy
+
+So hey hey hey now, what you gonna say?
+Are you gonna go on or are you gonna stay?
+Wo oh right here, oh I gotta go, dear
+Because I can't waste my time just waitin' round your line
+When I can find another guy, so...
+
+Hey hey hey now, what you gonna say?
+Are you gonna go on or are you gonna stay?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-love-air-supply
+lyrics_url: https://www.azlyrics.com/lyrics/airsupply/younglove.html
 name: Young Love
 rankings:
 - end_date: '1982-09-24'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
 ---
+
+Lately all my thoughts have gone to you
+You know that's true
+Sometimes I feel just a word away
+You'll say oh how I miss you too I do
+
+Time is tight I'm lost for words
+That's not like me
+Only your eyes could know the way that I feel
+And how much I need you now with me
+
+
+Young love so strong has never been a part of me
+Young love hold on we're feeling it now is this the way it's meant to be
+
+I know I'll be the one to lose if I'm so wrong
+Don't be afraid to put your heart on the line
+I'll take you where I know you belong
+
+Take my thoughts away beyond the things we see
+Sometimes it seems just a word away
+You'll say oh how I really feel it should be
+
+
+
+
 

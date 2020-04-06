@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flesh-for-fantasy-billy-idol
+lyrics_url: https://www.azlyrics.com/lyrics/billyidol/fleshforfantasy.html
 name: Flesh For Fantasy
 rankings:
 - end_date: '1984-08-31'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
 ---
+
+There's a change in pace
+Of fantasy and taste
+Do you like good music?
+Do you like to dance? Oh yeah.
+Hangin' out for a body shop at night
+Ain't it strange what we do to feel alright? Oh yeah.
+So when will you call?
+I'm experienced Oh yeah
+
+Face to face
+And back to back
+You see and feel
+My sex attack
+Sing it
+Flesh, flesh for fantasy
+We want
+Flesh, flesh for fantasy
+
+It's after midnight
+Are you feelin' alright oh yeah
+Turn on the light, babe
+Are you someone else tonight?
+Neighbour to neighbour, door to door
+Don't ask questions, there's time for it all Oh yeah.
+
+Face to face
+And back to back
+You see and feel
+My sex attack
+Sing it
+Flesh, flesh for fantasy
+We cry
+Flesh, flesh for fantasy
+
+I sing for culture...
+
+Father loves his son,
+Mothers, daughters, too.
+It's an old old story,
+Cries the new world too. 
+
+Flesh, flesh for fantasy
+We want
+Flesh, flesh for fantasy
+We want
+Flesh, flesh for fantasy
+You cry
+Flesh, flesh for fantasy
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crocodile-rock-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/taronegerton/crocodilerock.html
 name: Crocodile Rock
 rankings:
 - end_date: '1972-12-15'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
 ---
+
+"And now, ladies and gentlemen, a rising star in rock and roll
+Please welcome, all the way from London, England, Elton John!"
+
+I remember when rock was young
+Me and Susie had so much fun
+Holdin' hands and skimminâ stones
+Had an old gold Chevy and a place of my own
+But the biggest kick I ever got
+Was doin' a thing called the Crocodile Rock
+While the other kids were rockin' âround the clock
+We were hoppin' and boppin' to the Crocodile Rock
+
+Well, Crocodile Rockin' is something shockin'
+When your feet just can't keep still
+I never knew me a better time, and I guess I never will
+Oh, lawdy mama, those Friday nights
+When Susie wore her dresses tight
+And the Crocodile Rockin' was out of sight
+
+La, la-la-la-la-la
+La-la-la-la-laa
+La-la-la-la-la
+La, la-la-la-la-la
+La-la-la-la-la
+La-la-la-la-la
+La, la-la-la-la-la
+La-la-la-la-la
+La-la-la-la-la
+La, la-la-la-la-la
+La-la-la-la-la
+La-la-la-la-la
+La, la-la-la-la-la
+La-la-la-la-la
+La-la-la-la-la
+
+
 

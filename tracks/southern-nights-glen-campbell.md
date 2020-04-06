@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southern-nights-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/southernnights.html
 name: Southern Nights
 rankings:
 - end_date: '1977-02-18'
@@ -91,4 +92,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
 ---
+
+Southern nights
+Have you ever felt a southern night
+Free as a breeze
+Not to mention the trees
+Whistling tunes that you know and love so
+Southern nights
+Just as good even when closed your eyes
+I apologize
+To any one who can truly say
+That he's found a better way
+
+Southern skies
+Have you ever noticed
+Southern skies
+It's precious beauty
+Lies just beyond the eye
+It goes running through the soul
+Like the stories told of old
+
+Old man
+He and his dog that walk the old land
+Every flower touched his cold hand
+As he slowly walked by
+Weeping willows would cry for joy
+Joy
+
+Feels so good
+Feels so good it's frightening
+Wish I could
+Stop this world from fighting
+La-da-da-da-da, da-la-da-da-da-da
+Da-da-da-da-da-da, da-da-da, da-da-da
+
+Mystery
+Like this and many others
+In the trees
+Blow in the night
+In the southern skies
+
+Southern nights
+They feel so good it's frightening
+Wish I could
+Stop this world from fighting
+Da-da-da-da-da, da-da-da-da-da-da
+Da-da-da-da-da-da, la-da-da, da-da-da-da, da-da-da-da-da-da...
+
+
 

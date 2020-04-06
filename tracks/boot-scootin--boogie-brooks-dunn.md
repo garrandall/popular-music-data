@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: boot-scootin--boogie-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/bootscootinboogie.html
 name: Boot Scootin' Boogie
 rankings:
 - end_date: '1992-07-31'
@@ -68,4 +69,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
 ---
+
+Out in the country past the city limits sign
+Well there's a honky tonk near the county line
+The joint starts jumpin everynight when the sun goes down
+They got whiskey, women, music and smoke
+It's where all the cowboy folk go to boot scootin' boogie
+
+I've got a good job I work hard for my money
+When it's quittin time I hit the door runnin'
+I fire up my pickup truck and let the horses run
+I go flyin' down that highway to that hide-a-way
+Stuck out in the woods to do the boot scootin' boogie
+
+Yeah, heel, toe, docie doe come on baby let's go boot scootin'
+Whoa, Cadillac, Black jack, baby meet me outback we're gonna boogie
+Oh get down, turn around go to town boot scootin' boogie
+
+The bartender asks me says son what'll it be
+I want a shot at that redhead yonder lookin' at me
+The dance floors hoppin' and it's hotter than the fourth of July
+I see outlaws, in-laws, crooks and straights all out makin' it shake
+Doin' the boot scootin' boogie
+
+Yeah, heel, toe, docie doe come on baby let's go boot scootin'
+Whoa, Cadillac, Black jack, baby meet me outback we're gonna boogie
+Oh get down, turn around go to town boot scootin' boogie
+
+Yeah, heel, toe, docie doe come on baby let's go boot scootin'
+Whoa, Cadillac, Black jack, baby meet me outback we're gonna boogie
+Yeah, get down, turn around go to town boot scootin' boogie
+
+I said get down, turn around go to town boot scootin' boogie
+Oh get down, turn around go to town boot scootin' boogie
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-beat-goes-on-sonny-cher
+lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/thebeatgoeson.html
 name: The Beat Goes On
 rankings:
 - end_date: '1967-01-20'
@@ -52,4 +53,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
 ---
+
+
+The beat goes on, the beat goes on
+Drums keep pounding
+A rhythm to the brain
+La de da de de, la de da de da
+
+Charleston was once the rage, uh huh
+History has turned the page, uh huh
+The mini skirts the current thing, uh huh
+Teenybopper is our newborn king, uh huh
+
+
+
+The grocery store's the super mart, uh huh
+Little girls still break their hearts, uh huh
+And men still keep on marching off to war
+Electrically they keep a baseball score
+
+
+
+Grandmas sit in chairs and reminisce
+Boys keep chasing girls to get a kiss
+The cars keep going faster all the time
+Bums still cry, "Hey buddy,
+have you got a dime?"
+
+
+
+
 

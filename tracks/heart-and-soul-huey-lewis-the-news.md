@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: heart-and-soul-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/shakerattleandroll.html
 name: Heart And Soul
 rankings:
 - end_date: '1983-09-16'
@@ -92,4 +93,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
+
+Get out in that kitchen and rattle those pots and pans
+Get out in that kitchen and rattle those pots and pans
+I want my breakfast 'cause I'm a hungry man
+
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+You never do nothin' to save your doggone soul
+You're wearin' those dresses, your hair done up so nice
+You're wearin' those dresses, your hair done up so nice
+You look so warm, but your heart is cold as ice
+
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+You never do nothin' to save your doggone soul
+
+I'm like a one-eyed cat peepin' in a seafood store
+I'm like a one-eyed cat peepin' in a seafood store
+I can look at you and tell you don't love me no more
+
+I believe you're doin' me wrong and now I know
+I believe you're doin' me wrong and now I know
+The more I work, the faster my money goes
+
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+I said, Shake, rattle and roll
+You never do nothin' to save your doggone soul
+Shake, rattle and roll!
+
+
 

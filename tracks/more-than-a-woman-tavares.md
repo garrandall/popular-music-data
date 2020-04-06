@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-a-woman-tavares
+lyrics_url: https://www.azlyrics.com/lyrics/tavares/morethanawoman.html
 name: More Than A Woman
 rankings:
 - end_date: '1977-11-25'
@@ -91,4 +92,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
 ---
+
+Girl, I've known you very well
+I've seen you growing every day
+I never really looked before
+But now you take my breath away
+
+Suddenly you're in my life
+A part of everything I do
+You got me working day and night
+Just trying to keep a hold on you
+
+Here in your arms I found my paradise
+My only chance for happiness
+And if I lose you now I think I would die
+
+Oh, say you'll always be my baby
+We can make it shine
+We can take forever just a minute at a time (Minute at a time)
+
+More than a woman
+More than a woman to me, baby
+More than a woman (More than a woman)
+More than a woman to me
+Shoo, doo doo
+More than a woman, ahh
+
+There are stories old and true
+Of people so in love like you and me
+And I can see myself
+Let history repeat itself
+
+Reflecting how I feel for you
+Thinking 'bout those people then
+I know that in a thousand years
+I'd fall in love with you again
+
+This is the only way that we should fly
+This is the only way to go
+And if I lose your love I know I would die
+
+Oh, say you'll always be my baby
+We can make it shine
+We can take forever just a minute at a time (Minute at a time)
+
+More than a woman (More than a woman)
+More than a woman to me (Yes you are, baby)
+More than a woman (More than a woman)
+More than a woman to me
+Shoo, doo doo
+More than a woman, ahh
+
+More than a woman (More than a woman)
+More than a woman to me, yeah
+More than a woman (More than a woman)
+More than a woman to me (Every day of my life)
+More than a woman (Ohh baby)
+More than a woman to me, yeah (You are, you are, you are)
+More than a woman (More than a woman)
+More than a woman to me (She treats me good, like a love should)
+More than a woman (Yeah)
+More than a woman to me (Yeah baby)
+
+
 

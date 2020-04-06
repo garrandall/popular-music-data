@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/tonight.html
 name: Tonight
 rankings:
 - end_date: '1993-04-09'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
 ---
+
+Ohhhh...Oooooh... 
+I don't wanna play 
+The waiting game 
+And drift away 
+Leavin' an illusion 
+I don't wanna hide 
+It's foolish pride 
+To close my eyes 
+A touch away from wanting you 
+
+Don't try to look away 
+When we're face to face 
+I see your eyes 
+That animal emotion 
+You don't have to set 
+Your tender trap 
+It's in those eyes 
+It's gonna happen anyway 
+
+(Movin' to the rhythm of your heartbeat) 
+Yeah, I'm wantin', willin', touchin' you 
+We'll be 
+(Movin' to the rhythm of your heartbeat) 
+Ooh babe 
+When you get that rhythm 
+Gonna move into your room 
+
+Tonight - Gimme love with no disguise 
+Tonight - I see the fire in your eyes 
+Tonight - So right, this night could be dynamite 
+Wait'n'see 
+If it pleases you it pleases me 
+
+There's nothing I can say 
+No mystery 
+It's in your eyes 
+Those eyes are where I wanted them 
+So give me heart'n'soul 
+I lose control 
+Can't stop my eyes 
+From fallin' into fantasy 
+
+
+
+
+Tonight - Gimme love with no disguise 
+Tonight - I see the fire in your eyes 
+Tonight - I wanna win the greatest prize 
+Tonight - So right, this night could be dynamite 
+Wait'n'see 
+If it pleases you it pleases me
+
+
 

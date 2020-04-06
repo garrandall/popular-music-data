@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: photograph-ringo-starr
+lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/photograph.html
 name: Photograph
 rankings:
 - end_date: '1973-10-12'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
+
+Ev'ry time i see your face,
+It reminds me of the places we used to go.
+But all i got is a photograph
+And i realise you're not coming back anymore.
+
+I thought i'd make it the day you went away,
+But i can't make it
+Till you come home again to stay-yi-yay-yi-yay.
+
+I can't get used to living here,
+While my heart is broke, my tears i cried for you.
+I want you here to have and hold,
+As the years go by and we grow old and grey.
+
+Now you're expecting me to live without you,
+But that's not something that i'm looking forward to.
+
+I can't get used to living here,
+While my heart is broke, my tears i cried for you.
+I want you here to have and hold,
+As the years go by and we grow old and grey.
+
+Ev'ry time i see your face,
+It reminds me of the places we used to go.
+But all i got is a photograph
+And i realise you're not coming back anymore.
+
+Ev'ry time i see your face,
+It reminds me of the places we used to go.
+But all i got is a photograph
+And i realise you're not coming back anymore.
+
+Ev'ry time i see your face,
+It reminds me of the places we used to go.
+But all i got is a photograph
+And i realise you're not.
+
+
 

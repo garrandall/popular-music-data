@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: electric-blue-icehouse
+lyrics_url: https://www.azlyrics.com/lyrics/icehouse/electricblue.html
 name: Electric Blue
 rankings:
 - end_date: '1988-02-19'
@@ -91,4 +92,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
 ---
+
+If a boy had a chance, a chance with someone like you
+Are you gonna break his heart,
+Let him cry for the moon
+Are you hiding somewhere behind those eyes?
+
+(Behind those eyes)
+I just freeze every time you see through me
+And it's all over you,
+Electric blue
+(On my knees) On my knees,
+Help me baby tell me what can I do?
+
+Electric blue
+
+Oh I had a dream, for a moment I believed it was true
+Oh I'd have given anything just to be there with you
+Are you hiding somewhere behind those eyes?
+
+(Behind those eyes)
+I just freeze every time you see through me
+And it's all over you,
+Electric blue
+(In too deep) In too deep,
+Standing here waiting as I'm breaking in two
+Electric blue
+(I can see) I can see,
+Can see that it may be just a vision of you
+Electric blue
+(On my knees) On my knees,
+Help me baby tell me what can I do?
+
+Electric blue
+
+(Help me baby)
+
+Are you hiding somewhere behind those eyes?
+
+(Behind those eyes)
+I just freeze everytime you see through me
+And it's all over you,
+Electric blue
+(In too deep) In too deep,
+Standing here waiting as I'm breaking in two,
+Electric blue
+(I can see) I can see,
+Can see that it may be just a vision of you,
+Electric blue
+(On my knees) On my knees,
+Help me baby tell me what can I do?
+
+Electric blue
+
+(Behind those eyes)
+I just freeze everytime you see through me
+And it's all over you, 
+Electric blue
+(In too deep) In too deep,
+Standing here waiting as I'm breaking in two,
+Electric blue
+(I can see) I can see,
+Can see that it may be just a vision of you,
+Electric blue
+(On my knees) On my knees,
+Help me baby tell me what can I do?
+
+Electric blue
+
+Electric blue
+
+Electric blue
+
+Electric blue
+
+
 

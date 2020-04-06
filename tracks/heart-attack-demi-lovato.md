@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-attack-demi-lovato
+lyrics_url: https://www.azlyrics.com/lyrics/demilovato/heartattack.html
 name: Heart Attack
 rankings:
 - end_date: '2013-03-22'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
 ---
+
+Puttin' my defenses up
+'Cause I don't wanna fall in love
+If I ever did that
+I think I'd have a heart attack
+
+Never put my love out on the line
+Never said "Yes" to the right guy
+Never had trouble getting what I want
+But when it comes to you, I'm never good enough
+
+When I don't care
+I can play 'em like a Ken doll
+Won't wash my hair
+Then make 'em bounce like a basketball
+
+But you make me wanna act like a girl
+Paint my nails and wear high heels
+Yes, you make me so nervous
+That I just can't hold your hand
+
+You make me glow
+But I cover up
+Won't let it show
+So I'm
+
+Puttin' my defenses up
+'Cause I don't wanna fall in love
+If I ever did that
+I think I'd have a heart attack
+I think I'd have a heart attack
+I think I'd have a heart attack
+
+Never break a sweat for the other guys
+When you come around, I get paralyzed
+And every time I try to be myself
+It comes out wrong like a cry for help
+
+It's just not fair
+Pain's more trouble than love is worth
+I gasp for air
+It feels so good, but you know it hurts
+
+But you make me wanna act like a girl
+Paint my nails and wear perfume for you
+Make me so nervous
+That I just can't hold your hand
+
+You make me glow
+But I cover up
+Won't let it show
+So I'm
+
+Puttin' my defenses up
+'Cause I don't wanna fall in love
+If I ever did that
+I think I'd have a heart attack
+I think I'd have a heart attack
+I think I'd have a heart attack
+
+The feelings got lost in my lungs
+They're burning, I'd rather be numb
+And there's no one else to blame (no one else)
+So scared I take off and I run
+I'm flying too close to the sun
+And I burst into flames
+
+You make me glow
+But I cover up
+Won't let it show
+So I'm
+
+Puttin' my defenses up
+'Cause I don't wanna fall in love
+If I ever did that
+I think I'd have a heart attack
+I think I'd have a heart attack (heart attack)
+I think I'd have a heart attack (-tack)
+Oh, I think I'd have a heart attack
+I think I'd have a heart attack
+
+
 

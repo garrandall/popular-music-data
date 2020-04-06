@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-put-it-all-together-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/stylistics/letsputitalltogether.html
 name: Let's Put It All Together
 rankings:
 - end_date: '1974-08-02'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
 ---
+
+Your arms around me are tender and warm
+My arms are meant to hold you
+Your arms and my arms
+What more is there to say
+
+Lets put it all together
+Lets put it all together
+Lets put it all together
+Girl, cause lovin' is there is
+
+Your lips can thrill me just touching my cheek
+My lips are meant to kiss you
+Your lips and my lips
+What more is there to say
+
+Lets put it all together
+Lets put it all together
+Lets put it all together
+Girl, cause lovin' is there is
+
+Love like this never happened before
+Perfect and true
+Day by day we been feeling it more
+You love me (You love me) and I love you
+
+Lets put it all together
+Lets put it all together
+Lets put it all together
+Girl
+
+
 

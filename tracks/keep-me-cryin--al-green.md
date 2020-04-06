@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-me-cryin--al-green
+lyrics_url: https://www.azlyrics.com/lyrics/algreen/keepmecryin.html
 name: Keep Me Cryin'
 rankings:
 - end_date: '1976-10-29'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
 ---
+
+You keep me crying all the time
+I have to say that you
+Keep me crying all the time
+
+Well, I tried to play my music
+But my music was too loud
+Well, I pleased all the people
+But I couldn't please the crowd
+
+And I dropped down on my knees
+And said, hey, mama
+Won't you clear my head
+Don't you know they
+Keep me crying all the time
+
+They keep me crying all the time
+Oh, Lord, don't you know they
+They keep me moaning all the time
+They keep me burning all the time
+
+Well, I tried
+To run my business
+But they said I can't
+Just keep it to myself
+Not bothering any man
+
+Just as sure as I try
+Cause my tears in my eye
+Don't you know they
+Keep me crying all the time
+
+They keep me crying all the time
+Friends knocking in my door
+They keep me crying
+Somebody calling on the phone and
+They keep me crying...
+
+
 

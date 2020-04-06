@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothin--bout-love-makes-sense-leann-rimes
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/nothinboutlovemakessense.html
 name: Nothin 'Bout Love Makes Sense
 rankings:
 - end_date: '2004-11-19'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
 ---
+
+Like a cloud full of rain shouldn't hang in the sky
+Ice shouldn't burn or a bumble bee fly
+If you feel so happy, then why do you cry
+Oh, nothin' 'bout love makes sense 
+
+Like an ocean liner shouldn't float on the sea
+A pearl in an oyster or a circus of fleas
+Someone so perfect can't be fallin' for me
+Oh nothin' 'bout love makes sense 
+
+
+Nothin' 'bout love is less than confusin'
+You can win when you're losin'
+Stand when you're fallin'
+I can't figure it out
+Nothin' 'bout love can make an equation
+Nothin' short of amazin'
+Wish I could explain it
+But I don't know how 
+
+The way that we dance
+The reason we dream
+That big Italian tower
+Oh, how does it lean
+Somethin' so strong shouldn't make me this weak
+Oh, nothin' 'bout love makes sense 
+
+
+
+Like the lights of Las Vegas glowin' out of the sand
+A jumbo shrimp or a baby grand
+How you touch my heart when you hold my hand
+Oh, nothin' 'bout love makes sense 
+
+Oh, nothin' 'bout love makes sense
+Oh, nothin' 'bout love makes sense
+Oh, nothin' 'bout love makes sense
+
+
 

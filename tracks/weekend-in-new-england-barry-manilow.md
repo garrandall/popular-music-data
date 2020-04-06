@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: weekend-in-new-england-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/weekendinnewengland.html
 name: Weekend In New England
 rankings:
 - end_date: '1976-12-03'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
 ---
+
+Last night I wave goodbye
+Now its seems years
+I'm back in the city
+Where nothing is clear
+But thoughts of me holding you
+Bringing us near
+And tell me
+
+
+When will our eyes meet?
+When can I touch you?
+When will this strong yearning end
+And when will I hold you again
+
+Time in New England
+Took me away
+To long rocky beaches
+And you by the bay
+We started a story
+Who's end must now wait
+And tell me
+
+
+
+I feel the change coming
+I feel the wind blow
+I feel brave and daring
+I feel my blood flow
+With you I could bring out
+All the love that I have
+With you there's a heaven
+So earth ain't so bad
+And tell me
+
+
+
+
 

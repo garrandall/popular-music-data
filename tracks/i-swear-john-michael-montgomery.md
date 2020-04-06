@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-swear-john-michael-montgomery
+lyrics_url: https://www.azlyrics.com/lyrics/all4one/iswearjohnmichaelmontgomeryversion.html
 name: I Swear
 rankings:
 - end_date: '1994-02-18'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
 ---
+
+I see the questions in your eyes
+I know what's weighing on your mind
+You can be sure I know my part
+'cause I stand beside you through the years
+You'll only cry those happy tears
+And though I make mistakes
+I'll never break your heart
+
+I swear by the moon and the stars in the sky I'll be there
+And I swear like the shadow that's by your side I'll be there
+For better or worse till death do us part
+I'll love you with every beat of my heart
+And I swear
+
+I'll give you every thing I can
+I'll build your dreams with these two hands
+We'll hang some memories on the walls
+And when (and when) just the two of us are there
+You won't have to ask if I still care
+'cause as the time turns the page
+My love won't age at all
+
+And I swear (I swear) by the moon and the stars in the sky I'll be there (I'll be there)
+I swear (and I swear) like the shadow that's by your side I'll be there (I'll be there)
+For better or worse till death do us part
+I'll love you with every beat of my heart
+And I swear
+
+I swear (I swear) by the moon and the stars in the sky I'll be there (I'll be there)
+And I swear (and I swear) like the shadow that's by your side I'll be there (I'll be there)
+For better or worse (better or worse) till death do us part
+I'll love you with every single beat of my heart
+I swear
+I swear
+I swear
+
+
 

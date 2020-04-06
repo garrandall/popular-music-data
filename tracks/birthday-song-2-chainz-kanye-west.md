@@ -5,6 +5,7 @@ features:
 - Kanye West
 genres: []
 key: birthday-song-2-chainz-kanye-west
+lyrics_url: https://www.azlyrics.com/lyrics/2chainz/birthdaysong.html
 name: Birthday Song
 rankings:
 - end_date: '2012-08-17'
@@ -88,4 +89,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
 ---
+
+
+Yeah
+Birthday, it's your birthday
+If I die bury me inside the Louis store
+
+
+They ask me what I do and who I do it for (yeah)
+And how I come up with this shit up in the studio (yeah)
+All I want for my birthday is a big booty ho (true)
+All I want for my birthday is a big booty ho (tell 'em)
+When I die, bury me inside the Gucci store (tell 'em)
+When I die, bury me inside the Louis store (true)
+All I want for my birthday is a big booty ho (yeah)
+All I want for my birthday is a big booty ho (2 Chainz!)
+
+
+She got a big booty so I call her Big Booty (booty)
+Skrr, skrr, wrists movin', cookin', gettin' to it (cookin')
+I'm in the kitchen (I'm in the kitchen) yams everywhere (yams)
+Just made a juug (just made a juug) I got bands everywhere (bands)
+You the realest nigga breathin' if I hold my breath (damn)
+Referee with a whistle, brrrt, hold this tech (baow)
+Extendo clip (extendo clip) extendo roll (extendo roll)
+When yo girl leave me, she need a hair salon (damn)
+Hair-Hair Weave Killer goin' on a trapathon (yeah)
+See I done had more bombs, than Pakistan (boom)
+Dope bomb, dro bomb and a pill bomb (bomb)
+See nigga, I'm ballin', you in will call (true)
+When I die, bury me inside the jewelry store (2 Chainz)
+When I die, bury me inside the Truey store (true)
+True to my religion, two everything, I'm too different
+So when I die, bury me next to two bitches (two bitches)
+
+
+They ask me what I do and who I do it for (yeah)
+And how I come up with this shit up in the studio (yeah)
+All I want for my birthday is a big booty ho (true)
+All I want for my birthday is a big booty ho (tell 'em)
+When I die, bury me inside the Gucci store (tell 'em)
+When I die, bury me inside the Louis store (true)
+All I want for my birthday is a big booty ho (yeah)
+All I want for my birthday is a big booty ho
+
+
+Ah, Yeezy Yeezy how you doing huh?
+It's my birthday, I deserve to be greedy huh?
+She holding out, she ain't givin' to the needy huh?
+You go downstairs and fall asleep with the T.V on
+Ya'll been together ten years, you deserve a mÃ©nage
+'Specially if you put that BMW in the garage
+'Specially if you paid a couple payments on her mamma crib
+Went to her niece's graduation, man, I hate those kids!
+Last birthday, she got you a new sweater
+Put it on, give her a kiss, and tell her, "Do better"
+She said, "How 'bout I get you jewelry from the West End?"
+How 'bout she hit the Westin and get her best friend?
+I'm jokin', I'm just serious, I asked her
+Don't be actin' like no actress, if we preachin' then we practice
+Don't be reachin', don't be touchin' shit
+We in Kanye West's Benz, 'cause I will turn you back to a pedestrian
+Yeah
+
+
+They ask me what I do and who I do it for (yeah)
+And how I come up with this shit up in the studio (yeah)
+All I want for my birthday is a big booty ho (true)
+All I want for my birthday is a big booty ho (tell 'em)
+When I die, bury me inside the Gucci store (tell 'em)
+When I die, bury me inside the Louis store (true)
+All I want for my birthday is a big booty ho (yeah)
+All I want for my birthday is a big booty ho
+
+
+It's your birthday, it's your birthday
+Bad bitch contest, you in first place
+You in first place, you in first place
+Bad bitch contest, you in first place
+I show up with a check to your work place
+(Then hand the valet the keys to the Merces)
+Tell the DJ play your song, this shit come on
+(What I'm seein' from the back I can't front on)
+They ask me what I do and who I do it for
+When I die, bury me inside the booty club
+Get it girl, get it girl, get it get it girl
+I might switch it up and get you girl
+
+
+They ask me what I do and who I do it for (yeah)
+And how I come up with this shit up in the studio (yeah)
+All I want for my birthday is a big booty ho (true)
+All I want for my birthday is a big booty ho (tell 'em)
+When I die, bury me inside the Gucci store (tell 'em)
+When I die, bury me inside the Louis store (true)
+All I want for my birthday is a big booty ho (yeah)
+All I want for my birthday is a big booty ho
+
+
+Deuce and Ye
+We like Snoop and Dre
+And it's your birthday, baby
+You deserve a coupe today
+(You in first place, you in first place)
+(Bad bitch contest you in first place!)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: imma-be-the-black-eyed-peas
+lyrics_url: https://www.azlyrics.com/lyrics/blackeyedpeas/immabe.html
 name: Imma Be
 rankings:
 - end_date: '2009-06-12'
@@ -115,4 +116,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
 ---
+
+I'mma be I'mma be I'mma I'mma I'mma be
+I'mma be I'mma be I'mma I'mma I'mma be
+I'mma be I'mma be I'mma I'mma I'mma be
+I'mma be be be be I'mma I'mma be
+I'mma be be be be I'mma I'mma be
+I'mma be be be be I'mma I'mma be
+
+
+I'mma be on the next level
+I'mma be rocking over that bass treble
+I'mma be chilling with my mutha mutha crew
+I'mma be making all them deals you wanna do
+I'mma be up in them A-list flicks
+Doing one-handed flips and I'mma be
+Sipping on drinks 'cause
+I'mma be shaking my hips
+You gon' be licking your lips
+I'mma be taking them pics
+Looking all fly and shit
+I'mma be the flyest chick (so fly)
+I'mma be spreading my wings
+I'mma be doing my thing (do it do it OK)
+
+I'mma I'mma swing it this way (I'mma I'mma) I'mma I'mma swing it that way
+This is Fergie-ferg and I'mma (I'mma) be here to say
+21st century until infinity
+
+I'mma be I'mma be I'mma I'mma I'mma be
+I'mma be I'mma be I'mma I'mma I'mma be
+
+Rich baby quick quick I'mma I'mma I'mma be
+The shit baby check me out be
+I'mma be I'mma be
+On top never stop (be be)
+I'mma be I'mma be I'mma I'mma I'mma be
+I'mma be fuckin' her
+I'mma I'mma I'mma be I'mma be be be I'mma I'mma be
+
+
+I'mma be the upgraded new negro
+I'mma be the average brother with soul
+I'mma be world-wide international
+I'mma be in Rio rocking Tokyo
+I'mma be brilliant with my millions
+Loan out a billion I get back a trillion
+I'mma be a brother but my name ain't Lehman
+I'mma be ya bank I'll be loaning out semen
+Honeys in debt but we bouncing them checks but
+I don't really mind when they bouncing them checks
+I'mma be I'mma be I'mma be I'mma be rich baby
+I'mma be I'mma I'mma be I'mma I'mma be
+I'mma be sick with the flow
+When the goal is to rock the whole globe
+I'mma be the future
+I'mma be the whole reason why you ever wanna come to a show
+You can see what I'm rocking
+And I'm kickin' down a door
+
+I'mma be up in the club
+Doing whatever I like
+I'mma be popping that bubbly
+Cooling and living that good life
+Oh let's make this last forever
+Partying we'll chill together
+
+On and on and on-and-on-and
+On and on and on and on and
+
+I'mma be rocking like this (what)
+Yall niggas wanna talk shit (but)
+Why don't you put it on the blog nigga?
+Rocking like this my job nigga
+We can't help that we popular
+And all these folks want to flock to us
+Come to a show and just rock with us
+A million plus with binoculars
+
+I'mma be I'mma be I'mma be I'mma be
+I'mma be living that good life
+I'mma be living that good good
+I'mma be I'mma be I'mma be I'mma be
+I'mma be living that good life
+I'mma be living that good good
+I'mma be I'mma be I'mma be I'mma be
+I'mma be living that good life
+I'mma be living that good good
+I'mma be I'mma be I'mma be I'mma be
+I'mma be living that good life
+I'mma be living that good good
+I'mma be.... I'mma be
+I'mma be I'mma be I'mma be I'mma be
+
+
+I'mma be rocking that Apl.de.ap infinite
+BEP we definitely on some next level shit
+Futuristic musically
+Powerful with energy
+From the soul we sonically
+Sending positivity
+Crossed the globe and seven seas
+Take care of our families
+Rocking shows making cheese
+I'mma be out with my peas
+Living life feeling free
+That's how it's supposed to be
+Come join my festivities
+Celebrate like I'mma be
+
+I'mma be I'mma be I'mma be I'mma be
+I'mma be I'mma be I'mma be I'mma be
+I'mma be I'mma be I'mma be I'mma be
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shine-collective-soul
+lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/shine.html
 name: Shine
 rankings:
 - end_date: '1994-05-13'
@@ -123,4 +124,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
 ---
+
+Give me a word,
+Give me a sign.
+Show me where to look,
+Tell me what will I find?
+What will I find?
+
+Lay me on the ground,
+Or fly me in the sky.
+Show me where to look,
+Tell me what will I find?
+What will I find?
+
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+
+Love is in the water,
+Love is in the air.
+Show me where to look,
+Tell me will love be there?
+Love be there?
+
+Teach me how to speak,
+Teach me how to share.
+Teach me where to go,
+Tell me will love be there?
+Love be there?
+
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+
+Give me a word,
+Give me a sign.
+Show me where to look,
+Tell me what will I find?
+What will I find?
+
+Lay me on the ground,
+Or fly me in the sky.
+Show me where to look,
+Tell me what will I find?
+What will I find?
+
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+Whoa, heaven let your light shine down 
+
+I'm gonna let it shine
+I'm gonna let it shine
+Heaven's little light, gonna shine on me
+O Hey yeah, hey yeah
+Heaven's little light, shine on me
+
+(Shine) Shine on me
+(Shine) C'mon and shine
+
+
 

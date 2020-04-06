@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-not-bow-breaking-benjamin
+lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/iwillnotbow.html
 name: I Will Not Bow
 rankings:
 - end_date: '2009-09-25'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-30'
 ---
+
+Fall
+
+Now the dark begins to rise
+Save your breath, it's far from over
+Leave the lost and dead behind
+Now's your chance to run for cover
+
+I don't want to change the world
+I just wanna leave it colder
+Light the fuse and burn it up
+Take the path that leads to nowhere
+
+All is lost again
+But I'm not giving in
+
+I will not bow
+I will not break
+I will shut the world away
+I will not fall
+I will not fade
+I will take your breath away
+
+Fall
+
+Watch the end through dying eyes
+Now the dark is taking over
+Show me where forever dies
+Take the fall and run to Heaven
+
+All is lost again
+But I'm not giving in
+
+I will not bow
+I will not break
+I will shut the world away
+I will not fall
+I will not fade
+I will take your breath away
+
+And I'll survive, paranoid
+I have lost the will to change
+And I am not proud, cold-blooded fake
+I will shut the world away
+
+Open your eyes!
+
+I will not bow
+I will not break
+I will shut the world away
+I will not fall
+I will not fade
+I will take your breath away
+
+And I'll survive; paranoid
+I have lost the will to change
+And I am not proud, cold-blooded fake
+I will shut the world away
+
+Fall!
+
+
 

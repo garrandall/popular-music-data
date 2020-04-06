@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls-chase-boys-ingrid-michaelson
+lyrics_url: https://www.azlyrics.com/lyrics/ingridmichaelson/girlschaseboys.html
 name: Girls Chase Boys
 rankings:
 - end_date: '2014-05-02'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
 ---
+
+All the broken hearts in the world still beat
+Let's not make it harder than it has to be
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
+I'm a little let down but I'm not dead
+There's a little bit more that has to be said
+You played me now I play you too
+Let's just call it over
+
+All the broken hearts in the world still beat
+Let's not make it harder than it has to be
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
+Chase girls, chase boys, chase boys, chase girls
+
+I'm a little bit home but I'm not there yet
+It's one to forgive but it's hard to forget
+Don't call me, I won't call you too
+Let's just call it over
+
+All the broken hearts in the world still beat
+Let's not make it harder than it has to be
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
+Chase girls, chase boys, chase boys, chase girls
+
+I got two hands, one beating heart
+And I'll be alright
+I'm gonna be alright
+Yeah I got two hands, one beating heart
+And I'll be alright
+I'm gonna be alright
+
+All the broken hearts in the world still beat
+Let's not make it harder than it has to be
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
+(Oh everything is going to be fine
+Oh everybody loves you baby)
+All the broken hearts in the world still beat
+Let's not make it harder than it has to be
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
+Ohh, it's all the same thing
+Girls chase boys chase girls
+
+
 

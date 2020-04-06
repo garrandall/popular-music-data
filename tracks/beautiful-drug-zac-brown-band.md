@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-drug-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/beautifuldrug.html
 name: Beautiful Drug
 rankings:
 - end_date: '2015-11-27'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
 ---
+
+I got a death wish
+Her looks can kill
+She's got a red dress
+Lipstick and heels
+Pull me in, get me hooked like a junkie
+You got me feeling so high
+
+You're such a beautiful drug
+I can't get enough
+Addicted and I'm dying for a hit of your love
+Got a death wish baby, baby
+Don't want you to save me, save me
+
+She lets her hair down
+And all of mine stand up
+Can't help but stare now
+Gotta feel that touch
+Her kiss, my fix, so sweet
+Can't quit those lips are a habit to me
+Sweet intoxication and I'm never getting sober
+I can tell that the effects are taking over
+Pull me in, get me hooked like a junkie
+You got me feeling so high
+
+You're such a beautiful drug
+I can't get enough
+Addicted and I'm dying for a hit of your love
+Got a death wish baby, baby
+Don't want you to save me, save me
+Tonight
+Whoa, whoa, whoa
+Whoa, whoa, whoa
+
+You're such a beautiful drug
+I can't get enough
+I'm addicted and dying for a hit of your love
+I'm losing it, baby
+Keep driving me crazy, crazy
+
+Going out of my mind
+Staring at you
+Burning up in your fire that I've fallen into
+Got a death wish baby, baby
+Don't want you to save me, save me
+Tonight
+
+Whoa, whoa, whoa
+Whoa, whoa, whoa
+Whoa, whoa, whoa
+Whoa, whoa, whoa
+
+
 

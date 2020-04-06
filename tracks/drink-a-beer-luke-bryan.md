@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drink-a-beer-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/drinkabeer.html
 name: Drink A Beer
 rankings:
 - end_date: '2013-11-29'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
 ---
+
+When I got the news today
+I didn't know what to say
+So I just hung up the phone
+
+I took a walk to clear my head
+And this is where the walking led
+Can't believe you're really gone
+Don't feel like going home
+
+So I'm gonna sit right here
+On the edge of this pier
+And watch the sunset disappear
+And drink a beer
+
+Funny how the good ones go
+Too soon, but the good Lord knows
+The reasons why, I guess
+
+Sometimes the greater plan
+Is kinda hard to understand
+Right now it don't make sense
+I can't make it all make sense
+
+So I'm gonna sit right here
+On the edge of this pier
+And watch the sunset disappear
+And drink a beer
+
+So long, my friend
+Until we meet again
+I'll remember you
+And all the times that we used to...
+
+...sit right here on the edge of this pier
+And watch the sunset disappear
+And drink a beer
+Drink a beer
+Drink a beer
+Yeah
+
+
 

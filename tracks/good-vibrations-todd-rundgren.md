@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-vibrations-todd-rundgren
+lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/goodvibrations.html
 name: Good Vibrations
 rankings:
 - end_date: '1976-06-11'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
 ---
+
+I love the colorful clothes she wears
+And the way the sunlight plays upon her hair
+I hear the sound of a gentle word
+On the wind that lifts her perfume through the air
+
+I'm picking up good vibrations
+She's giving me excitations
+Good bop bop, good vibrations
+Bop bop, excitations
+Good, good, good, good vibrations
+
+Close my eyes, she is somehow closer now
+Softly smile, I know she must be kind
+When I look in her eyes
+She comes with me to a blossom world
+I don't know where but she sends me there
+
+Oh my my my, what a sensation
+
+Oh my my, what elation
+
+Got to keep those loving good vibrations
+Happening with her
+
+
 

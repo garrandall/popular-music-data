@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: solitary-man-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/solitaryman.html
 name: Solitary Man
 rankings:
 - end_date: '1966-05-27'
@@ -103,4 +104,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
 ---
+
+Melinda was mine
+'Til the time
+That I found her
+Holding Jim
+Loving Him
+Then Sue came along
+Loved me strong
+That's what I thought
+Me and Sue
+But that died too
+Don't know that I will
+But until I can find me
+The girl who'll stay
+And won't play games behind me
+I'll be what I am
+A solitary man
+Solitary man
+I've had it to here
+Bein' where
+Love's a small word
+Part-time thing
+Paper ring
+I know it's been done
+Havin' one
+Girl who'll love me
+Right or wrong
+Weak or strong
+Don't know that I will
+But until I can find me
+The girl who'll stay
+And won't play games behind me
+I'll be what I am
+A solitary man
+Solitary man
+
+
 

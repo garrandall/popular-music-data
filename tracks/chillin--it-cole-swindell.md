@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chillin--it-cole-swindell
+lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/chillinit.html
 name: Chillin' It
 rankings:
 - end_date: '2013-11-08'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
 ---
+
+I got my shades on, top back
+Rolling with the music jacked
+One on the wheel, one around you baby
+
+Little sun left to burn in the blue sky
+Shining of the cross hanging from the mirror of my ride
+Breeze blowing in, your hair blowing round
+You're scanning through the stations looking for that country sound
+The good stuff iced up in the back seat
+Nowhere to go, nowhere to be
+
+I got my shades on, top back
+Rolling with the music jacked
+One on the wheel, one around you baby
+Sunset
+I bet
+There's a chance we can get
+Sure enough
+Tangled up
+Laid back and lazy
+
+Pour it on easy now, don't spill a bit
+Nothin' but time tonight, let's get to killing it
+Long as I'm rocking with you, girl
+You know I'm cool with just chillin' it
+
+Nothing but two lane country on up ahead
+Girl, you so fine I wouldn't mind if this is all we did
+You got me high on kisses, you got me missing signs
+Hard looking left when my world is on my right
+
+I got my shades on, top back
+Rolling with the music jacked
+One on the wheel, one around you baby
+Sunset
+I bet
+There's a chance we can get
+Sure enough
+Tangled up
+Laid back and lazy
+
+Pour it on easy now, don't spill a bit
+Nothin' but time tonight, let's get to killing it
+Long as I'm rocking with you, girl
+You know I'm cool with just chillin' it
+
+Nothing like a little you and me low key
+Right now I'm right where i wanna be
+
+I got my shades on, top back
+Rolling with the music jacked
+One on the wheel, one around you baby
+Sunset
+I bet
+There's a chance we can get
+Sure enough
+Tangled up
+Laid back and lazy
+
+Pour it on easy now, don't spill a bit
+Nothin' but time tonight, let's get to killing it
+Long as I'm rocking with you, girl
+You know I'm cool with just chillin' it
+
+Yeah, I love rocking with you when, girl, we're just chilling it
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drivin--my-life-away-eddie-rabbitt
+lyrics_url: https://www.azlyrics.com/lyrics/rhettakins/drivinmylifeaway.html
 name: Drivin' My Life Away
 rankings:
 - end_date: '1980-06-27'
@@ -107,4 +108,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
 ---
+
+Well, the midnight headlights blind you on a rainy night
+Steep grade up ahead, slow me down, making no time
+But I gotta keep rolling
+Those windshield wipers slapping out a tempo
+Keeping perfect rhythm with the song on the radio
+Yeah, I gotta keep rolling
+
+Ooh, I'm driving my life away, looking for a better way for me
+Ooh, I'm driving my life away, I'm looking for a sunny day
+
+Well, the truck stop cutie coming on to me
+Tried to talk me into a ride, said I wouldn't be sorry
+Aw, but she was just a baby
+Hey, waitress, pour me another cup of coffee
+Pop it down, jack me up, shoot me out, flying down the highway
+I'm looking for the morning
+
+Ooh, I'm driving my life away, looking for a better way for me
+Ooh, I'm driving my life away, I'm looking for a sunny day
+
+Well, the midnight headlights blind you on a rainy night
+Steep grade up ahead, slow me down, making no time
+Yeah, I gotta keep rolling
+Those windshield wipers slapping out a tempo
+Keeping perfect rhythm with the song on the radio
+Lord, I gotta keep rolling
+
+Ooh, I'm driving my life away, looking for a better way for me
+Ooh, I'm driving my life away, just looking for a sunny day
+Ooh, I'm driving my life away, I'm looking for a sunny day
+...
+
+
 

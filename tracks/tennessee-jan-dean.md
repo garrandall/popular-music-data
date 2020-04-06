@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tennessee-jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/tennessee.html
 name: Tennessee
 rankings:
 - end_date: '1962-06-01'
@@ -36,4 +37,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
 ---
+
+Sweeter than the birds that go in the trees
+That's what she meant to me
+Sweeter than the wine and she looked so fine
+When she met me in Tennessee
+
+I felt so grand when she took my hand
+And said, 'Come, go with me'
+Held me tight on a moonlit night
+Someplace in Tennessee
+
+Sweeter than the birds that go in the trees
+That's what she meant to me
+Sweeter than the wine and she looked so fine
+When I met her in Tennessee
+
+I felt so grand when she took my hand
+And said, 'Come, go with me'
+Held me tight on a moonlit night
+Someplace in Tennessee
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crying-roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/crying237003.html
 name: Crying
 rankings:
 - end_date: '1961-08-20'
@@ -71,4 +72,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
+
+ I was all right for a while 
+I could smile for a while 
+ THEN I saw you last night 
+You held my hand so tight 
+WHEN you stopped to say hello 
+ You wished me well 
+You couldn't tell that 
+I've been crying over you, 
+crying over you 
+And you said "So long" 
+Left me standing all alone, alone and crying, crying, crying, crying 
+It's hard to understand 
+But the touch of your hand can start me crying 
+
+I thought that I was over you But it's true, so true 
+I love you even more than I did before 
+But darling, what can I do? 
+For you don't love me 
+And I'll always be crying over you, crying over you 
+
+ Yes now you're gone 
+ And from this moment on, I'll be crying, crying, crying, crying 
+Yeah, crying, crying over you
+
+
 

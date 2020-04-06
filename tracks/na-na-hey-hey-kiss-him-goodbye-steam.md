@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: na-na-hey-hey-kiss-him-goodbye-steam
+lyrics_url: https://www.azlyrics.com/lyrics/bananarama/nanaheyheykisshimgoodbye.html
 name: Na Na Hey Hey Kiss Him Goodbye
 rankings:
 - end_date: '1969-10-24'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+
+Na na na na
+Na na na na
+Hey hey hey
+Goodbye 
+
+He'll never love you 
+The way that I love you 
+'Cause if he did, oh no, he wouldn't 
+Make you cry 
+
+He might be thrilling, baby, but my love's 
+So doggone willing, so kiss him 
+(Wanna see you kiss him) 
+Go on and kiss him goodbye 
+
+Na na na na 
+Na na na na 
+Hey hey hey 
+Goodbye 
+
+Na na na na 
+Na na na na 
+Hey hey hey 
+Goodbye 
+
+He's never near you 
+To comfort and cheer you 
+When all those sad tears 
+Are falling, baby, from your eyes 
+
+He might be thrilling, baby, but my love's 
+So doggone willing, so kiss him 
+(Wanna see you kiss him) 
+Go on and kiss him goodbye 
+
+Na na na na 
+Na na na na 
+Hey hey hey 
+Goodbye 
+
+Na na na na 
+Na na na na 
+Hey hey hey 
+Goodbye
+
+Na na na na 
+Na na na na 
+Hey hey hey 
+Goodbye
+
+...
+
+
 

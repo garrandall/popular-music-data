@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-sherrie-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/steveperry/ohsherrie.html
 name: Oh Sherrie
 rankings:
 - end_date: '1984-04-13'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
 ---
+
+You should've been gone
+Knowing how I made you feel
+And I should've been gone
+After all your words of steel
+Oh, I must've been a dreamer
+And I must've been someone else
+And we should've been over
+
+Oh, Sherrie, our love
+Holds on, holds on
+Oh, Sherrie, our love
+Holds on, holds on
+
+Oh, I want to let go
+You'll go on hurtin' me
+You'd be better off alone
+If I'm not who you thought I'd be
+
+But you know that there's a fever
+Oh, that you'll never find nowhere else
+Can't you feel it burnin'
+On-and-on
+
+Oh, Sherrie, our love
+Holds on, holds on
+Oh, Sherrie, our love
+Holds on, holds on
+Oh, Sherrie
+
+
+
+Oh, Sherrie
+
+But I should've been gone
+Long ago, far away
+And you should've been gone
+Now I know just why you stay
+
+Oh, Sherrie, our love
+Holds on, holds on
+Oh, Sherrie, our love
+Holds on, holds on
+
+Oh, Sherrie, our love
+Holds on, holds on
+
+Hold on
+Oh, Sherrie
+
+
 

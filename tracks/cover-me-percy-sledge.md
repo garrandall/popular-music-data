@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cover-me-percy-sledge
+lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/coverme.html
 name: Cover Me
 rankings:
 - end_date: '1967-12-01'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
 ---
+
+Cover me, cover me
+Spread your precious love all over me
+Oh, can't you see the need in me?
+Oh, cover me, cover me
+
+Hide me, hide me
+Where no other can find me
+Oh, I'm feeling cold, I need you so
+Oh, cover me, cover me
+
+Girl, my love for you gets stronger everyday
+Oh, temptation might be waiting 'round the way
+When I'm  and I get led astray
+Find me, find me
+Can't stop the little tear that blinds me
+Oh darling, I don't want to lose you
+Oh, find me
+
+Stay with me, stay with me
+Baby, make it all the way with me
+Oh, everyday and every way
+Stay with me, you stay with me
+
+Cover me, cover me
+Spread your precious love all over me
+Oh, can't you see the need in me?
+Oh, cover me, cover me
+
+Cover me, cover me
+Spread your precious love all over me
+Oh, can't you see?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-angel-roy-orbison
+lyrics_url: https://www.musixmatch.com/lyrics/Roy-Orbison/Blue-Angel
 name: Blue Angel
 rankings:
 - end_date: '1960-09-25'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+Sha la la, dooby wah
+Dum dum dum, yeh yeh, um
+Sha la la, dooby wah
+Dum dum dum, yeh yeh um
 
+Oh, blue angel, don't you cry
+Just because he said goodbye
+Oh, ahh ahh ahh
+No, don't cry.
+
+Oh, blue angel, have no fear
+I'll brush away each lonely teardrop
+Hey hey, whoa whoa.
+
+Well, love's precious flame just burned in vain
+But you're not to blame
+He thought love was a game and it's oh such a shame
+But don't you cry, don't sigh, I'll tell you why
+I'll never say goodbye blue angel.
+
+Sha la la, dooby wah
+Dum dum dum, yeh yeh, um
+Wah wah wah wah
+Dum dum dum dum dum dum
+
+We'll have love so fine
+Magic moments divine
+If you'll just say you're mine
+I'll love you till the end of time.
+
+Don't you worry, you pretty head
+I'll never let you down
+I'll always be around
+Blue angel
+
+Sha la la, dooby wah
+Dum dum dum, yeh yeh, um
+Blue angel
+Sha la la

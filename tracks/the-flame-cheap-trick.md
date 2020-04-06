@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-flame-cheap-trick
+lyrics_url: https://www.azlyrics.com/lyrics/sixpartinvention/theflame.html
 name: The Flame
 rankings:
 - end_date: '1988-04-15'
@@ -115,4 +116,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
 ---
+
+Another night slowly closes in
+And I feel so lonely
+Touching heat freezing at my skin
+I pretend you still hold me
+I'm going crazy, I'm losing sleep
+I'm in too far, I'm in way too deep over you
+I can't believe you're gone
+You were the first, you'll be the last
+Wherever you go, I'll be with you
+Whatever you want, I'll give it to you
+Whenever you need someone
+To lay your heart and head upon
+Remember after the fire, after all the rain
+I will be the flame
+I will be the flame
+Watching shadows move across the wall
+I feel so frightened
+I wanna run to you, I wanna call
+But I've been hit by lightening
+Just can't stand up for fallin' apart
+Can't see through this veil across my heart, over you
+You'll always be the one
+You were the first, you'll be the last
+Wherever you go, I'll be with you
+Whatever you want, I'll give it to you
+Whenever you need someone
+To lay your heart and head upon
+Remember after the fire, after all the rain
+I will be the flame
+I will be the flame
+I'm going crazy, I'm losing sleep
+I'm in too far, I'm in way too deep over you
+You'll always be the one
+You were the first, you'll be the last
+Wherever you go, I'll be with you
+Whatever you want, I'll give it to you
+Whenever you need someone
+To lay your heart and head upon
+Remember after the fire, after all the rain
+I will be the flame
+I will be the flame
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-in-a-special-way-debarge
+lyrics_url: https://www.azlyrics.com/lyrics/debarge/lovemeinaspecialway.html
 name: Love Me In A Special Way
 rankings:
 - end_date: '1984-03-23'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
 ---
+
+You know you had me
+With your sinchues charm
+Yet you looked so alarmed
+As I walked on by
+In awesome wonder
+You had to know why I did not respond to carry on
+
+Love me in a special way
+What more can I say
+Love me now
+Love me in a special way
+What more can I say
+Love me now (love me now)
+
+'Cause I'm special
+Not the average kind
+Who'd accept any line
+That sounds good
+So reach into your chain of thoughts
+Try to find something new
+Because what worked for you so well before
+For me it just wont do
+
+So reach into your chain of thoughts
+Try to find something new
+What works so well with you before
+For me it just wont do
+
+So reach into your chain of thoughts
+Try to find something new
+What works so well with you before
+For me it just wont do
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: windy-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/windy.html
 name: Windy
 rankings:
 - end_date: '1967-06-02'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
+
+Who's peeking out from under a stairway
+Calling a name that's lighter than air?
+Who's bending down to give me a rainbow?
+Everyone knows it's Windy
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+And Windy has stormy eyes
+That flash at the sound of lies
+And Windy has wings to fly
+Above the clouds (Above the clouds)
+Above the clouds (Above the clouds)
+
+And Windy has stormy eyes
+That flash at the sound of lies
+And Windy has wings to fly
+Above the clouds (Above the clouds)
+Above the clouds (Above the clouds)
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+Who's tripping down the streets of the city
+Smiling at everybody she sees?
+Who's reaching out to capture a moment?
+Everyone knows it's Windy
+
+
 

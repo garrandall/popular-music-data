@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brand-new-lover-dead-or-alive
+lyrics_url: https://www.azlyrics.com/lyrics/deadoralive/brandnewlover.html
 name: Brand New Lover
 rankings:
 - end_date: '1986-12-05'
@@ -95,4 +96,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
 ---
+
+Your sweet nature, darling
+Was too hard to swallow
+I've got the solution
+I'm leaving tomorrow
+And now as I stand 
+And stare into your eyes
+I see safety there
+I want surprises
+
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+What I really need to do
+Is find a brand new lover
+
+When you wake up tomorrow 
+You'll be all alone
+All the love that we had
+I have quickly outgrown
+I wanted to stay, but I just couldn't do it
+Couldn't stand there and put you through it
+
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+
+My other loves will tell you that
+I'm nothing but a pleasure-seeker
+And for once I really must agree
+I need to leave you by yourself
+And go in search of someone else
+To satisfy my curiosity
+
+Your sweet nature, darling
+Was too hard to swallow
+I've made my decision
+I'm leaving tomorrow
+
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+What I really need to do
+Is find a brand new lover
+
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+
+What I really need to do
+Is find myself a brand new lover
+Somebody with eyes for me
+Who doesn't notice all the others
+What I really need to do
+Is find a brand new lover
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartaches-patsy-cline
+lyrics_url: https://www.azlyrics.com/lyrics/patsycline/heartaches.html
 name: Heartaches
 rankings:
 - end_date: '1962-10-19'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
 ---
+
+Heartaches, heartaches,
+My loving you meant only heartaches
+Your kiss was such a sacred thing to me
+I can't believe it's just a burning memory
+
+Heartaches, heartaches,
+What does it matter how my heart breaks
+I should be happy with someone new
+But my heart aches, for you
+
+Heartaches, heartaches.
+My loving you meant only heartaches
+Your kiss was such a sacred thing to me
+I can't believe it's just a burning memory
+
+Heartaches, heartaches,
+What does it matter how my heart breaks
+I should be happy with someone new
+But my heart aches, for you
+
+Heartaches, heartaches,
+What does it matter how my heart breaks
+I should be happy with someone new
+But my heart aches
+And my heart breaks
+And my heart aches, for you...
+
+
 

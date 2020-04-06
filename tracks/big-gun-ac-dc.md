@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-gun-ac-dc
+lyrics_url: https://www.azlyrics.com/lyrics/acdc/biggun.html
 name: Big Gun
 rankings:
 - end_date: '1993-07-09'
@@ -51,4 +52,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
 ---
+
+Riot on the radio
+Pictures on the TV
+Invader man take what he can
+Shootout on the silver screen
+Sticking 'em up and knocking 'em down
+Living out a fantasy
+There's a bad man cruising around
+In a big black limousine
+Don't let it be wrong
+Don't let it be right
+Get in his way
+You're dead in his sights
+
+
+Big gun
+Big gun number one
+Big gun
+Big gun kick the hell out of you
+
+Terminators, Uzi makers
+Shootin' up Hollywood
+Snakes alive with a .45
+Gettin' off and doing no good
+If you ain't wise they'll cannibalise
+Tear flesh off you
+Classified lady killers
+Preyin' in the human zoo
+They saddle you up
+And take you to town
+Better look out
+When he come around
+
+
+
+Yeah
+Show down
+Ooooh yeah yeah
+ye yeah yeah
+
+Big gun
+Big gun number one
+mmmmmm
+whoa whoa
+yeah yeah
+b - b - b - b - b - b - b
+Big gun, got a hot one
+Big gun, got a number one
+Big gun, loaded and cocked
+Big gun, hot hot hot
+Got big gun, ready or not
+Big gun, give it, give it a shot, c'mon
+
+Terminator, Uzi makers
+Regulators, gonna get you later
+
+Big gun kick the hell out of you
+
+
 

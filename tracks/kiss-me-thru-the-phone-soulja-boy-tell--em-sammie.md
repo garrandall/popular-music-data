@@ -5,6 +5,7 @@ features:
 - Sammie
 genres: []
 key: kiss-me-thru-the-phone-soulja-boy-tell--em-sammie
+lyrics_url: https://www.azlyrics.com/lyrics/souljaboy/kissmethruthephone.html
 name: Kiss Me Thru The Phone
 rankings:
 - end_date: '2009-01-16'
@@ -116,4 +117,122 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
 ---
+
+Soulja Boy, I tell 'em
+
+
+Baby, you know that I miss you
+I wanna get with you
+Tonight but I cannot, baby girl
+And that's the issue
+Girl, you know I miss you
+I just wanna kiss you
+But I can't right now
+So, baby, kiss me through the phone
+(kiss me through the phone)
+I'll see you later on
+Kiss me through the phone
+(kiss me through the phone) 
+See you when I get home
+
+
+Baby, I know that you like me
+You my future wifey
+Soulja Boy, I tell 'em yeah
+You could be my Bonnie
+I can be your Clyde
+You can be my wife
+Text me, call me,
+I need you in my life yeah 
+
+All day, everyday I need you
+And every time I see you
+My feelings get deeper
+I miss you, I miss you
+I really wanna kiss
+You but I can't
+
+
+Six seven eight triple nine eight two one two
+
+
+Baby, you know that I miss you
+I wanna get with you
+Tonight but I cannot, baby girl
+And that's the issue
+Girl, you know I miss you
+I just wanna kiss you 
+But I can't right now
+So, baby, kiss me through the phone
+(kiss me through the phone)
+I'll see you later on
+Kiss me through the phone
+(kiss me through the phone) 
+See you when I get home
+
+
+Baby,
+I've been thinking lately
+So much about you
+Everything about you,
+I like it, I love it
+Kissing you in public
+Thinking nothing of it
+Roses by the dozen
+Talking on the phone
+
+Baby, you're so sexy
+Your voice is so lovely
+I love your complexion
+I miss you, I miss you, I miss you
+I really wanna kiss you
+But I can't
+
+
+Six seven eight triple nine eight two one two
+
+
+Baby, you know that I miss you
+I wanna get with you
+Tonight but I cannot, baby girl
+And that's the issue
+Girl, you know I miss you
+I just wanna kiss you 
+But I can't right now
+So, baby, kiss me through the phone
+(kiss me through the phone)
+I'll see you later on
+Kiss me through the phone
+(kiss me through the phone) 
+See you when I get home
+
+
+She call my phone like
+Da da dadadada da da dadadada da da
+We on the phone like
+Da da dadadada da da dadadada da da
+We taking pics like
+Da da dadadada da da dadadada da da
+She dial my number like
+Da da dadadada da da dadadada da da
+
+
+Six seven eight triple nine eight two one two
+
+
+Baby, you know that I miss you
+I wanna get with you
+Tonight but I cannot, baby girl
+And that's the issue
+Girl, you know I miss you
+I just wanna kiss you 
+But I can't right now
+So, baby, kiss me through the phone
+(kiss me through the phone)
+I'll see you later on
+Kiss me through the phone
+(kiss me through the phone) 
+See you when I get home
+
+
 

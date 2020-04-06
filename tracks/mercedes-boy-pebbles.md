@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mercedes-boy-pebbles
+lyrics_url: https://www.azlyrics.com/lyrics/pebbles/mercedesboy.html
 name: Mercedes Boy
 rankings:
 - end_date: '1988-05-13'
@@ -79,4 +80,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
 ---
+
+Do you wanna ride?
+Baby
+Let me tell you
+I've been watching you
+
+See you dancing in my dreams
+Feel you heartbeat inside of me
+So if you feel it coming on
+Catch me getting in the mood
+
+Boy
+I'll give you anything
+Cruising's all you have to do
+
+Do you wanna ride in my Mercedes
+Boy?
+Tell me what you're gonna do with me
+'Cause if you wanna ride in my Mercedes
+Boy
+
+There are so many things that I'm gonna do to you
+
+Baby
+Let me tell you
+I've been wanting you
+
+Always on the scene
+Good looks and more possessing all of me
+So when it starts to coming on
+Catch me getting in the mood
+
+Boy
+I'll give you anything
+Cruising's all you have to do
+
+Do you wanna ride in my Mercedes
+Boy?
+Tell me what you're gonna do with me
+'Cause if you wanna ride in my Mercedes
+Boy
+
+There are so many things that I'm gonna do to you
+
+Do you wanna ride in my Mercedes
+Boy?
+Tell me what you're gonna do with me
+'Cause if you wanna ride in my Mercedes
+Boy
+
+There are so many things that I'm gonna do to you
+
+Do you wanna ride?
+
+Do you wanna ride in my Mercedes
+Boy?
+Tell me what you're gonna do with me
+'Cause if you wanna ride in my Mercedes
+Boy
+
+There are so many things that I'm gonna do to you
+
+Do you wanna ride in my Mercedes
+Boy?
+Tell me what you're gonna do with me
+'Cause if you wanna ride in my Mercedes
+Boy
+
+There are so many things that I'm gonna do to you
+
+
 

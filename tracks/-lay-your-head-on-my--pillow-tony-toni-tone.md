@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -lay-your-head-on-my--pillow-tony-toni-tone
+lyrics_url: https://www.azlyrics.com/lyrics/tonytonitone/layyourheadonmypillow.html
 name: (Lay Your Head On My) Pillow
 rankings:
 - end_date: '1994-01-21'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
 ---
+
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was meant for you) 
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was made to groove) 
+
+Here we are in the room together 
+Holding hands and it's gonna get better 
+And I know that you're in the mood 
+
+So put your purse down and take off your jacket 
+Oh girl it's about to get nasty 
+You'll love what we gonna do 
+
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was meant for you) 
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was made to groove) 
+
+Won't you pull back the sheets and lay down 
+Put your head upon my shoulders 
+Let me tell you how I wanna feel 
+
+You're the girl that knows my pleasure 
+So let me go down and find my treasure 
+Let me see where my pearl is at 
+
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was meant for you) 
+Lay your head on my pillow 
+And just relax, relax, relax 
+('cause it was made to groove) 
+
+The cutie pies they all know 
+They can always lay on my pillow
+
+
 

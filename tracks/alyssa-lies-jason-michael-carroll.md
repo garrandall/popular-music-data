@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alyssa-lies-jason-michael-carroll
+lyrics_url: https://www.azlyrics.com/lyrics/jasonmichaelcarroll/alyssalies.html
 name: Alyssa Lies
 rankings:
 - end_date: '2007-01-19'
@@ -55,4 +56,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-31'
 ---
+
+My little girl met a new friend
+Just the other day
+On the playground at school
+Between the tires and the swings
+But she came home with tear-filled eyes
+And she said to me "Daddy, Alyssa Lies"
+
+I just brushed it off at first
+Cause I didn't know how much my little girl had been hurt
+Or the things she had seen
+I wasn't ready when I said you can tell me
+And she said
+
+
+Alyssa Lies
+To the classroom
+Alyssa lies
+Everyday at school
+Alyssa lies
+To the teachers
+As she tries to cover every bruise
+
+My little girl laid her head down
+That night to go to sleep
+As I stepped out the room I heard her say
+A prayer so soft and sweet
+God bless my mom and my dad
+And my new friend Alyssa
+I know she needs you bad
+
+
+
+I had the worst night of sleep in years
+As I tried to think of a way to calm her fears
+I knew exactly what i had to do
+But when we got to school on Monday I heard the news
+
+My little girl asked me why everybody looked so sad
+The lump in my throat grew bigger
+With every question that she asked
+Until I felt the tears run down my face
+And I told her that Alyssa wouldn't be at school today
+
+She doesn't lie
+In the classroom
+She doesn't lie
+Anymore at school
+Alyssa lies
+With Jesus
+Because there's nothing anyone would do
+
+Tears filled my eyes,
+When my little girl asked me why Alyssa lies
+
+Daddy tell me why
+Alyssa lies
+
+
 

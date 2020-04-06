@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-real-fine-place-to-start-sara-evans
+lyrics_url: https://www.musixmatch.com/lyrics/Sara-Evans/A-Real-Fine-Place-to-Start-2
 name: A Real Fine Place To Start
 rankings:
 - end_date: '2005-07-15'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
 ---
+I'm gonna do it darlin'
+I could waste time tryin' to figure it out
+But I'm jumpin' in anyhow
+I've never been this far
+Didn't know love could run so deep
+Didn't know I'd lose this much sleep
 
+Holdin' you close, chasin' that moon
+Spendin' all night
+Lovin' just who you are
+Sparks flyin' in the dark
+Shootin' out lights, huntin' down dreams
+Figurin' out what love really means
+
+Baby givin' you my heart
+Is a real fine place to start
+Something is goin' on
+I can't explain but sure can touch
+It's callin' both of us
+Stronger than any fear or doubt
+
+It's changing everything I see
+It's changin' you, it's changin' me
+Holdin' you close, chasin' that moon
+Spendin' all night
+Lovin' just who you are
+Sparks flyin' in the dark
+
+Shootin' out lights, runnin' down dreams
+Figurin' out what love really means
+Baby givin' you my heart
+Is a real fine place to start
+Right here, right now's the perfect spot, the perfect time
+The perfect moment when your skin is next to miiiine
+
+Yaa yaa yaa yaa
+Holdin' you close, chasin' that moon
+Spendin' all night
+Lovin' just who you are
+Sparks flyin' in the dark
+Shootin' out lights, runnin' down dreams
+
+Figurin' out just what love really means
+Baby givin' you my heart
+Is a real fine place
+A real fine place to start
+Oh, yeahhh
+Oh, oh, oh

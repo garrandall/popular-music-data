@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talking-in-your-sleep-gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/talkinginyoursleep.html
 name: Talking In Your Sleep
 rankings:
 - end_date: '1971-06-25'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
 ---
+
+I heard you talking in your sleep
+Is there anything that I can do
+I don't believe we've had a word all day
+'Bout anything at all
+I heard you talking in the night
+That's right, yes I heard ya call
+Though I could hardly hear the name you spoke
+It's a name I don't recall 
+I heard you softly whisper
+I reached out to hold you near me
+Then from your lips there came that secret
+I was not supposed to know 
+
+I heard you talking in your sleep
+Is there anything that I can say
+I don't believe we've had a word all day
+'Bout anything at all
+I heard you talking in the night
+That's right, yes I heard ya call
+Though I could hardly hear the name you spoke
+It's a name I don't recall 
+
+I heard you talking in your sleep
+Is there anything that I can do
+I don't believe we've had a word all day
+'Bout anything at all
+
+
 

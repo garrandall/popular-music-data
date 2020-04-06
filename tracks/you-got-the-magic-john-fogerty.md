@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-the-magic-john-fogerty
+lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/yougotthemagic.html
 name: You Got The Magic
 rankings:
 - end_date: '1976-05-07'
@@ -23,4 +24,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+
+Mmmm, when the midnight ravens appear in your eyes
+Oh, and the mystery holdin' your soul is realized
+Shadows of night, faces in the fire
+Like visions in a dream, takin' me higher
+
+You got the magic thrillin' me
+You got the magic chillin' me
+You got the magic, shine your spell on me
+
+Whoa, when the hoodoo children of night gather near
+Ah, when the whirlwind whispers your name, I can hear
+Wind in the willows, scratchin' in the sand
+And the whole universe is at your command there
+
+You got the magic thrillin' me
+You got the magic chillin' me
+You got the magic, shine your spell on me
+
+You got the magic thrillin' me
+You got the magic chillin' me, ooh
+You got the magic thrillin' me
+You got the magic chillin' me, ooh
+You got the magic, shine your spell on me
+...
+
+
 

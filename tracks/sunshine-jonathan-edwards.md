@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-jonathan-edwards
+lyrics_url: https://www.azlyrics.com/lyrics/jonathanedwards/youaremysunshinesunshinegoawaytoday.html
 name: Sunshine
 rankings:
 - end_date: '1971-11-19'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
 ---
+
+You are my sunshine
+You are my only sunshine
+And you make me happy
+When them old Cambridge skies are grey, yeah
+And you ain't never gonna know, darling
+How much I really love you
+Ain't that the prettiest thing?
+But please don't take my sunshine ever away
+
+Sunshine, go away today
+I don't feel much like dancing
+Some man gone and tried to run my life
+He don't know what he's asking
+When he tells me I better get in line
+I can't hear a word he's saying
+When I grow up, I'm gonna make it mine
+Oh, these ain't been dues I been paying
+
+How much does it cost?
+I'll buy it
+The time is all we've lost
+I'll try it
+He can't even run his own life
+Damned if he'll run mine, sunshine
+
+Sunshine, go away today
+I don't feel much like dancing
+Some man gone and tried to run my life
+He don't know what he's asking
+Working starts to make me wonder where
+The fruits of what I do are going
+When he said in love and war, all is fair
+But Nixon got cards he ain't showing
+
+How much does it cost?
+I'll buy it
+The time is all we've lost
+I'll try it
+And he can't even run his own life
+Damned if he'll run mine, sunshine
+
+Sunshine, come on back another day
+I promise you I'll be singing
+This old world, she's gonna turn around
+And brand new bells had better be ring, hear them ringing, yeah
+
+Thank you very much
+Al Anderson, Orphan, Stuart Schulman, Bill Keith, Bill Elliot
+All you people, thank you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-woogie-man-paul-davis
+lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/boogiewoogieman.html
 name: Boogie Woogie Man
 rankings:
 - end_date: '1972-12-29'
@@ -43,4 +44,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
 ---
+
+Get yourself a crew cut
+Your hair's too long
+I hear it over and over
+And over again
+
+The language you speak
+Is way too strong
+I hear it over and over
+And over again
+
+I bought a brand new guitar
+And I'm so proud
+I play it over and over
+And over again
+
+I can't play good
+But I play it loud
+Now turn it down, turn it down
+Son, you got to turn it down
+
+I hear it over and over
+And over again
+Everybody's telling me
+What I oughta be
+
+A doctor or a lawyer
+But I need a degree
+That good old rock and roll's
+Got a hold on me
+
+Why can't everybody see
+I just wanna be
+A boogie woogie man
+
+Do the best that I can
+To make a living
+By giving my songs
+Yeah, a boogie woogie man
+
+With the boogie woogie dance
+Singing boogie woogie
+All night long
+
+Now my mama and my daddy
+Say that I can't sing
+I hear it over and over
+And over again
+
+But all the little girls
+Like the way I scream
+I hear it over and over
+And over again
+
+Yeah, everybody's telling me
+What I oughta be
+A doctor or a lawyer
+But I need a degree
+
+That good old rock and roll's
+Got a hold on me
+Why can't everybody see
+I just wanna be
+
+Why can't everybody see
+I just wanna be
+A boogie woogie man
+
+Do the best that I can
+To make a living
+By giving my songs
+Yeah, a boogie woogie man
+
+With the boogie woogie dance
+Singing boogie woogie
+All night long
+
+I hear it over and over
+And over and over again
+
+
 

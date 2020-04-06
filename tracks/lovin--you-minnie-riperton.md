@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovin--you-minnie-riperton
+lyrics_url: https://www.azlyrics.com/lyrics/minnieriperton/lovinyou.html
 name: Lovin' You
 rankings:
 - end_date: '1975-01-24'
@@ -79,4 +80,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
 ---
+
+Lovin' you is easy 'cause you're beautiful
+Makin' love with you is all I wanna do
+Lovin' you is more than just a dream come true
+And everything that I do is out of lovin' you
+
+La-la la-la-la
+La-la la-la-la
+La-la la-la-la la-la la la la
+Doo'n doo'n doo-doo, ah...
+
+No one else can make me feel
+The colors that you bring
+Stay with me while we grow old
+And we will live each day in springtime
+
+'Cause lovin' you has made my life so beautiful
+And every day of my life is filled with lovin' you
+Lovin' you, I see your soul come shinin' through
+And every time that we, ooh, I'm more in love with you
+
+La-la la-la-la
+La-la la-la-la
+La-la la-la-la la-la la la la
+Doo'n doo'n doo-doo, ah...
+
+No one else can make me feel
+The colors that you bring
+Stay with me while we grow old
+And we will live each day in springtime
+
+'Cause lovin' you is easy 'cause you're beautiful
+And every day of my life is filled with lovin' you
+Lovin' you, I see your soul come shinin' through
+And every time that we, ooh, I'm more in love with you
+
+La-la la-la-la
+La-la la-la-la
+La-la la-la-la la-la la la la
+Doo'n doo'n doo-doo, ah...
+
+Lov ooh, la-la la-la la la la la la
+Doo'n doo'n doo-doo, ah...
+
+
 

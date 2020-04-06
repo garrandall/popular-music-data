@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-there-for-you-stryper
+lyrics_url: https://www.azlyrics.com/lyrics/stryper/alwaysthereforyou.html
 name: Always There For You
 rankings:
 - end_date: '1988-07-29'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
 ---
+
+
+Love can be so cold 
+And loneliness gets old 
+More than words or broken promises 
+I want to show you what true love is 
+
+
+I'm always there for you 
+I'll always stand by you 
+When the world has closed the door 
+And you can't go on anymore 
+I'm always there for you 
+
+
+You've been hurt before 
+And you don't want anymore 
+There's a better way for you 
+Believe in me, I'll see you through 
+
+
+
+
 

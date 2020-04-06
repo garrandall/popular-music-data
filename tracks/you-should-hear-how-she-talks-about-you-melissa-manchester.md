@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-should-hear-how-she-talks-about-you-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/youshouldhearhowshetalksaboutyou.html
 name: You Should Hear How She Talks About You
 rankings:
 - end_date: '1982-05-28'
@@ -107,4 +108,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+
+She's so very nice you should break the ice
+Let her know that she's on your mind
+Whatcha tryin' to hide when you know inside
+She's the best thing you'll ever find?
+Ah, can't you see it?
+Don't you think she's feeling the same?
+Ah, I guarantee it
+She's the one that's calling your name
+
+You should hear how she talks about you
+You should hear what she says
+She says she would be lost without you
+She's half out of her head (out of her head)
+You should hear how she talks about you
+She just can't get enough
+She says she would be lost without you
+She is really in love
+
+She's in love with you boy
+
+I ain't tellin' tales, anybody else
+Could repeat the things that I've heard
+She's been talkin' sweet and it's on the street
+How our girlfriend's spreadin' the word
+
+Ah, you should hurry
+You should let her know how you feel
+Ah, now don't you worry
+If you're scared this love is for real
+
+You should hear how she talks about you
+You should hear what she says
+She says she would be lost without you
+She's half out of her head (out of her head)
+You should hear how she talks about you
+She is really in love
+(She is really in love)
+
+Ah, you should hurry
+You should let her know how you feel
+Ah, now don't you worry
+If you're scared this love is for real
+
+You should hear how she talks about you
+You should hear what she says
+She says she would be lost without you
+She's half out of her head (out of her head)
+You should hear how she talks about you
+She just can't get enough
+She says she would be lost without you
+She is really in love
+
+Talk, talk, talk...
+
+Can'tcha see? (Can'tcha see?)
+It's me!
+
+You should hear how she talks about you
+You should hear what she says
+She says she would be lost without you
+She's half out of her head (out of her head)
+You should hear how she talks about you
+She just can't get enough
+She says she would be lost without you
+She is really in love
+
+
 

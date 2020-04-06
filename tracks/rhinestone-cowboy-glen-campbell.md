@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhinestone-cowboy-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/davidhasselhoff/rhinestonecowboy827597.html
 name: Rhinestone Cowboy
 rankings:
 - end_date: '1975-06-06'
@@ -99,4 +100,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
 ---
+
+This goes out to Glen Campbell
+
+I've been walking these streets so long
+Singing the same old song
+I know every crack in these dirty sidewalks of Broadway
+Where hustle's the name of the game
+And nice guys get washed away like the snow and the rain
+
+There's been a load of compromisin'
+On the road to my horizon
+But I'm gonna be where they lights are shinin' on me...
+
+Like a Rhinestone cowboy
+Riding out on a horse in a star-spangled rodeo
+Like a Rhinestone cowboy
+Getting cards and letters from people I don't even know
+Offers comin' over the phone
+
+Well I really don't mind the rain
+And a smile can hide all the pain
+But you're down when you're riding the train that's takin' the long way
+And I dream of the things I'll do
+With a subway token and a dollar tucked inside my shoe
+
+There'll be a load of compromisin'
+On the road to my horizon
+But I'm gonna be where they lights are shinin' on me...
+
+Like a Rhinestone cowboy
+Riding out on a horse in a star-spangled rodeo
+Like a Rhinestone cowboy
+Getting cards and letters from people I don't even know
+Offers comin' over the phone
+
+Like a Rhinestone cowboy
+Riding out on a horse in a star-spangled rodeo
+Like a Rhinestone cowboy
+Getting cards and letters from people I don't even know
+Offers comin' over the phone
+
+
 

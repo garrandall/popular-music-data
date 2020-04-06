@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crimson-and-clover-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/crimsonandclover.html
 name: Crimson And Clover
 rankings:
 - end_date: '1968-12-20'
@@ -71,4 +72,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
 ---
+
+Oh
+Now I don't hardly know her
+But I think I could love her
+Crimson and clover
+
+Ah
+I wish she'd come walking over
+Now I've been waiting to show her
+Crimson and clover
+Over and over
+
+Yes (da-da, da-da, da-da)
+My my, such a sweet thing (da-da, da-da, da-da)
+I want to do everything (da-da, da-da, da-da)
+What a beautiful feeling (da-da, da-da, da-da)
+Crimson and clover (da-da, da-da, da-da)
+Over and over
+
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+
+
 

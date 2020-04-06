@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-as-you-feel-jefferson-airplane
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/prettyasyoufeel.html
 name: Pretty As You Feel
 rankings:
 - end_date: '1971-11-26'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+
+You're only pretty as you feel
+only pretty as you feel inside
+you're only pretty as you feel
+just as pretty as you feel inside
+
+when you wake up in the morning
+rub some sleep from your eye
+look inside your mirror
+comb your hair
+
+don't give vanity a second chance
+no no no
+beauty's only skin deep
+it goes just so far 'cause
+you're only pretty as you feel
+you're only pretty as you feel inside
+just as pretty as you feel
+
+now you're feelin pretty
+now you're feelin good
+now you're ready to face the world girl
+now you're feelin good
+go out there 'n' knock 'em silly girl
+go out there 'n' show 'em how ta thrill
+'cause you're only pretty as you feel
+only pretty as you feel
+you're only pretty as you feel
+just as pretty as you feel inside
+feelin' so pretty, feelin' so pretty
+pretty mama.
+
+
 

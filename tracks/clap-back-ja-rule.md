@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: clap-back-ja-rule
+lyrics_url: https://www.azlyrics.com/lyrics/jarule/clapback.html
 name: Clap Back
 rankings:
 - end_date: '2003-10-31'
@@ -47,4 +48,120 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
 ---
+
+
+Yeah, yeah.. haha yeah!
+I gotta get my headphones
+All my gangsta niggaz is in the building on this one!
+You know! Yeah yeah ya know
+It's real!! Hussein what's happ'nin nigga?
+I see you, aight Shadow what's poppin BLAT!!
+Haha haha, yeah my nigga O-1 in the motherfucking house
+Jody in the house (Jody Mack!)
+My nigga Cadillac, Gotti what up!?!
+Blackchild what up!?!
+I'd like to welcome all my niggaz
+To the world famous Murda Inc. Show
+Big shout to all my Queens niggaz in Staten Island
+Niggaz in Uptown, niggaz in Brooklyn niggaz
+All my Bronx niggaz yeah, all my Jersey niggaz! you know?
+We doing it real big right here! all my money niggaz
+This shit commentated on the one's and two's!
+They call me the Mighty Rule! how ya living?
+This real shit we talking
+I wanna ask all my gangsta niggaz a real question (holla back)
+What do you do - when niggaz spit at you?!
+
+
+Clap back, we gon' clap back
+We gon' clap back, we gon' clap back
+(Let's take 'em to war niggaz!)
+We gon' clap back, we gon' clap back
+We gon' clap back, we gon' clap back
+(Let's take 'em to war niggaz)
+We gon' clap back, we gon' clap back
+We gon' clap back, we gon' clap back
+(Let's take 'em to war niggaz!)
+We gon' clap back, we gon' clap back
+We gon' clap back, we gon' clap back
+(Let's take 'em to war niggaz)
+We gon' clap back, we gon' clap back
+
+
+Fuck if they holl'in about Rule nigga, here's the real
+I'll pop ya top like Champagne bottles that chill
+Wear nothing but ice, smiles tinted up to The Greatest
+Tell em I'm nice too, plus push them nice grooves
+The Inc roll like duece man, I'm ol' G Bobby J
+And we sling at soccer fields the yay
+They don't respect that, don't get your minds around
+You'll get it pushed back, y'all don't want that
+I send em to the morgue while keepin my bitches bouncin fa sho
+"In Da Club" with no gun, got em taking it off
+Can't help that, I'm the nigga that puts it down
+Once I hit that, that's if I'm up in the May (bach)
+Fasten them holding the throwback, West 44 Lakers
+Let's make no mistakes, resents take place
+What's the procedure with a gun in your face
+When you got one in your waist, let's cock back nigga air out the space!
+(C'mon!) We gon'
+
+
+
+
+The Rule be "In Da Club" rude motherfucker poppin the bubbly
+When shit get ugly I hug the snub closely
+But usually we still see your bitches
+Thats is known for quick shit, trying to ride my dick
+I can't handle it, lower their manners
+To get they ass infront of my dick to dance, the bitch want more chance
+Catching hate from a glance, but I'm a giant
+These niggaz is mere ants, I'll stomp 'em wit his thang
+Give bitches the back hand, pimp shit, it's not realistic
+The game is helpless, let's not get it twisted
+I'm young, wrapped, and gifted, but still at the bottom
+And stuck somewhere between Gomorrah and Soddom
+I'm here to make this rap shit hotter than Harlem
+Fuck the Dog beware of Rule, cause I'm the problem
+What's the procedure with a gun in your face
+When you got one in your waist, let's cock back nigga air out the space!
+(C'mon!) We gon'
+
+
+
+
+Like Bush and Saddam, I'm a find out
+Where Em Laden's hiding and bomb him first
+It could be much worse, I could be hotter than yo scrubs
+Mask and glove, gun hot from burnin ass up
+I'd rather be bossed up, wit a bunch of broads
+The preachers daughter screaming out "Fuck the law!"
+I play a struck chord, wit the Christians
+But y'all got the freakiest bitches out of all the religions
+And God gave me his blessings to handle my business
+All these wanksta snitches, let the nina blow kisses
+If she some how misses, he gon' meet the mistress
+And "Clap that boy" like Birdman and Clipse
+I got these niggaz all over my dick, like hoes
+I'm the star at these shows, I must be as hot as they come
+What's the procedure with a gun in your face
+When you got one in your waist, let's cock back nigga air out the space!
+(C'mon!) We gon'
+
+
+
+
+ Yeah, my nigga 'Zino in this motherfucker
+ That's how we do it, know what I mean
+ Buck '89 what's up baby, I see you
+ Break 'em down nigga! break 'em down!
+ Bring them birds, in the motherfucking house
+ It's not a game no mo'
+ Queens in this motherfucker
+ You know
+ All my Jersey niggaz, all my Boston niggaz
+ All my Brooklyn niggaz, Brooklyn sir what up!
+ Haha, yeah, holla at me man
+
+
 

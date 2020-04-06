@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-the-world-away-kenny-rogers
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/lovetheworldaway.html
 name: Love The World Away
 rankings:
 - end_date: '1980-06-27'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
 ---
+
+Every now and then
+When the world steps in
+Stealing all our time away
+It soon takes so much
+We forget to touch
+That's when I know
+It's time for me to say
+Take my hand
+Let's walk through love's door
+And be free from the world once more
+Here's my heart
+We can hide today
+And love the world away
+
+Once again we'll be
+Where our hearts are free
+And the time is ours to share
+Love will always stay
+Just a touch away
+Come with me
+All the magic's waiting there
+
+Take my hand
+Let's walk through love's door
+And be free from the world once more
+Here's my heart
+We can hide today
+And love the world away
+We can love the world away
+
+
 

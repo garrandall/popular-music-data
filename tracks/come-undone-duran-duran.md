@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-undone-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/comeundone.html
 name: Come Undone
 rankings:
 - end_date: '1993-04-23'
@@ -107,4 +108,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
 ---
+
+Mine, immaculate dream made breath and skin
+I've been waiting for you.
+Signed with a home tattoo,
+Happy Birthday to You was created for you
+
+Can't ever keep from falling apart at the seams
+Can't I believe you're taking my heart to pieces
+
+Oh, it'll take a little time,
+Might take a little crime
+To come undone now
+
+We'll try to stay blind
+To the hope and fear outside
+Hey, child, stay wilder than the wind
+And blow me in to cry
+
+Who do you need, who do you love
+When you come undone?
+Who do you need, who do you love
+When you come undone?
+
+Words, playing me deja vu
+Like a radio tune I swear I've heard before
+Chill, is it something real
+Or the magic I'm feeding off your fingers?
+
+Can't ever keep from falling apart at the seams
+Can I believe you're taking my heart to pieces?
+
+Lost in a snow filled sky,
+We'll make it alright
+To come undone now
+
+We'll try to stay blind
+To the hope and fear outside.
+Hey, child, stay wilder than the wind
+And blow me in to cry...
+
+Who do you need, who do you love
+When you come undone?
+Who do you need, who do you love
+When you come undone?
+
+(Can't ever keep from falling apart)
+Who do you need, who do you love
+When you come undone?
+(Can't ever keep from falling apart)
+Who do you need, who do you love?
+
+(Can't ever keep from falling apart)
+Who do you love
+When you come undone?
+(Can't ever keep from falling apart)
+
+
 

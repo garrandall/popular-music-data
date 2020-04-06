@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-escape-fastball
+lyrics_url: https://www.azlyrics.com/lyrics/fastball/fireescape.html
 name: Fire Escape
 rankings:
 - end_date: '1998-12-11'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
 ---
+
+Well I don't wanna be President 
+Superman or Clark Kent 
+I don't wanna walk 'round in their shoes 
+
+'Cause I don't know who's side I'm on 
+I don't know my right from wrong 
+I don't know where I'm going to 
+I don't know about you 
+
+
+I'll be the rain falling on your fire escape 
+And I may not be the man you want me to 
+I can be myself, how 'bout you? 
+
+I don't wanna make you mad 
+I don't wanna meet your dad 
+I don't wanna be your dream come true 
+
+'Cause I don't know just what I've found 
+I don't know my sky from ground 
+I don't know where I'm going to 
+I don't know about you 
+
+
+
+
+
+I can be myself, how 'bout you? 
+I can be myself 
+How 'bout you?
+
+
 

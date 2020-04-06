@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-right-here-in-my-heart-pure-prairie-league
+lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/stillrighthereinmyheart.html
 name: Still Right Here In My Heart
 rankings:
 - end_date: '1981-04-24'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
 ---
+
+There's a silver moon in the midnight sky
+And lovers are heart to heart
+But love is a shadow
+Lost in your eyes
+And time has taken us apart
+But it's so far away and so long ago
+It's still so strong I want you to know
+
+You're still right here in my heart
+Where you've been right from the start
+Still right here in my heart, oh baby
+
+There's a hollow sound in this empty room
+Echoes in the dark
+I wish I could wake and find you here
+Give us another chance to start
+But night after night day after day
+I love you so much I still have to say
+
+Well, I wonder what you're feelin'
+Do you ever feel the same
+When you listen to your heart
+Do you ever hear my name
+
+
 

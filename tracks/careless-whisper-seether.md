@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: careless-whisper-seether
+lyrics_url: https://www.azlyrics.com/lyrics/seether/carelesswhisper.html
 name: Careless Whisper
 rankings:
 - end_date: '2009-02-27'
@@ -79,4 +80,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
 ---
+
+I feel so unsure
+As I take your hand and lead you to the dance floor
+As the music dies
+Something in your eyes
+Calls to mind a silver screen
+And all of its sad goodbyes
+
+I'm never gonna dance again
+These guilty feet have got no rhythm
+Though it's easy to pretend
+I know you're not a fool
+I should've known better than to cheat a friend
+And waste the chance that I'd been given
+So I'm never gonna dance again...
+The way I danced with you
+
+Time can never mend
+The careless whispers of a good friend
+To the heart and mind
+Ignorance is kind
+There's no comfort in the truth
+Pain is all you'll find
+
+I'm never gonna dance again
+These guilty feet have got no rhythm
+Though it's easy to pretend
+I know you're not a fool
+I should've known better than to cheat a friend
+And waste the chance that I'd been given
+So I'm never gonna dance again...
+The way I danced with you
+
+Tonight the music seems so loud
+I wish that we could lose this crowd
+Maybe it's better this way
+We'd hurt each other with the things we want to say
+We could have been so good together
+We could have lived this dance forever
+Now who's gonna dance with me
+
+Please stay
+I'm never gonna dance again
+These guilty feet have got no rhythm
+Though it's easy to pretend
+I know you're not a fool
+I should've known better than to cheat a friend
+And waste the chance that I'd been given
+So I'm never gonna dance again...
+The way I danced with you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-saw-god-today-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/isawgodtoday.html
 name: I Saw God Today
 rankings:
 - end_date: '2008-03-14'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
 ---
+
+Just walked down the street to the coffee shop
+Had to take a break
+I've been by her side for eighteen hours straight
+Saw a flower growing in the middle of the sidewalk
+Pushing up through the concrete
+Like it was planted right there for me to see
+
+The flashing lights
+The honking horns
+All seem to fade away
+In the shadow of the hospital
+At 5:08
+I saw God today
+
+I've been to church
+I've read the book
+I know He's here
+But I don't look
+Near as often as I should
+Yeah I know I should
+
+His fingerprints are everywhere
+I just look down and stop and stare
+Open my eyes and then I swear
+I Saw God Today
+
+Saw a couple walking by
+They were holding hands
+Man, she had that glow
+Ya, I couldn't help
+But I noticed that she was starting to show
+Stood there for a minute
+Taking in the sky
+Lost in that sunset
+A splash of amber melted into shades of red
+
+I've been to church
+I've read the book
+I know He's here
+But I don't look
+Near as often as I should
+Yeah I know I should
+
+His fingerprints are everywhere
+I just look down and stop and stare
+Open my eyes and then I swear
+I Saw God Today
+
+Got my face pressed up against the nursery glass
+She's sleeping like a rock
+My name on her wrist
+Wearing tiny pink socks
+She's got my nose
+She's got her Mama's eyes
+My bran new baby girl
+She's a miracle
+I Saw God Today
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daylight-maroon-5
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/daylight.html
 name: Daylight
 rankings:
 - end_date: '2012-12-28'
@@ -107,4 +108,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
 ---
+
+Here I am waiting
+I'll have to leave soon
+Why am I holding on?
+We knew this day would come
+We knew it all along
+How did it come so fast?
+
+This is our last night but it's late
+And I'm trying not to sleep
+'Cause I know, when I wake, I will have to slip away
+
+And when the daylight comes I'll have to go
+But tonight I'm gonna hold you so close
+'Cause in the daylight we'll be on our own
+But tonight I need to hold you so close
+
+Here I am staring
+At your perfection
+In my arms, so beautiful
+The sky is getting bright,
+The stars are burning out
+Somebody slow it down
+
+This is way too hard, 'cause I know
+When the sun comes up I will leave
+This is my last glance that will soon be a memory
+
+And when the daylight comes I'll have to go
+But tonight I'm gonna hold you so close
+'Cause in the daylight we'll be on our own
+But tonight I need to hold you so close
+
+I never want it to stop
+Because I don't wanna start all over
+Start all over
+I was afraid of the dark
+But now it's all that I want
+All that I want, all that I want
+
+And when the daylight comes I'll have to go
+But tonight I'm gonna hold you so close
+'Cause in the daylight we'll be on our own
+But tonight I need to hold you so close
+
+And when the daylight comes I'll have to go
+But tonight I'm gonna hold you so close
+'Cause in the daylight we'll be on our own
+But tonight I need to hold you so close
+
+
 

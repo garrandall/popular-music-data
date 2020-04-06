@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-wait-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/whywait.html
 name: Why Wait
 rankings:
 - end_date: '2010-09-10'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
 ---
+
+What'aya say girl, we do somethin' crazy
+Quit puttin' it off, you know what I'm sayin'
+Ain't like it ain't gunna happen, forever's a given
+It's already written
+Who we kiddin' baby, come on
+
+The stars can't line up any straighter
+Let's do it now and think about it later
+
+Why wait another minute
+For somethin' we should'a done yesterday?
+I know a little church
+With a preacher who could hook us up right away
+Love don't need a reason
+Baby I don't see how I could love you anymore than I do today
+So why wait
+
+Now I love your mama, let's save her some trouble
+And your daddy won't mind if we save him a bundle
+Girl it just so happens, that ring that you wanted
+Well guess what I bought it
+It's in my pocket baby, come on...
+
+Let's get it done, let's get it on your left hand
+This is me, girl, poppin' the question
+
+Why wait another minute
+For somethin' we should'a done yesterday?
+I know a little church
+With a preacher who could hook us up right away
+Love don't need a reason
+Baby I don't see how I could love you anymore than I do today
+So why wait
+
+Let's do something crazy
+'Cause crazy's what you make me
+
+Why wait another minute
+Wait another minute come on
+Well I know a little church
+With a preacher who could hook us up right away
+Love don't need a reason
+Baby I don't see how I could love you anymore than I do today
+So why wait
+Why wait
+
+What'aya say girl we do somethin' crazy
+
+
 

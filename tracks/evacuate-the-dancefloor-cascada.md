@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evacuate-the-dancefloor-cascada
+lyrics_url: https://www.azlyrics.com/lyrics/cascada/evacuatethedancefloor.html
 name: Evacuate The Dancefloor
 rankings:
 - end_date: '2009-09-04'
@@ -111,4 +112,130 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
 ---
+
+(Oh)
+Turn up the music
+Let's get out on the floor
+I like to move it
+Come and give me some more
+
+Watch me getting physical
+Out of control, ah
+There's people watching me, ah
+I never miss a beat
+
+Still the night, kill the lights
+Feel it under your skin
+Time is right, keep it tight
+'Cause it's pulling you in
+
+Wrap it up you can't stop
+'Cause it feels like an overdose
+(Feels like an overdose)
+
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ let the music take me underground
+
+(Everybody in the club)
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+(Everybody in the club)
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ come burn this place right down to the ground
+
+(Oh)
+My body's aching
+System overload
+Temperature's rising
+I'm about to explode
+
+Watch me I'm intoxicated
+Taking the show, ah
+It's got me hypnotized, ah
+Everybody step aside
+
+Still the night, kill the lights
+Feel it under your skin
+Time is right, keep it tight
+'Cause it's pulling you in
+
+Wrap it up you can't stop
+'Cause it feels like an overdose
+(Feels like an overdose)
+
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ let the music take me underground
+
+(Everybody in the club)
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+(Everybody in the club)
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ come burn this place right down to the ground
+
+Come on and evacuate
+Feel the club is heating up
+Move on and accelerate
+Push it to the top
+Come on and evacuate
+Feel the club is heating up
+Move on and accelerate
+You don't have to be afraid
+
+Now guess who's back with a brand new track?
+They got everybody in the club going mad
+So everybody in the back
+Get your back up off the wall and just shake that thang
+
+Go crazy
+Yo lady
+Yo baby
+Let me see you wreck that thang
+Now drop it down low, low
+Let me see you take it to the dancefloor, yo
+
+Everybody in the club
+(Evacuate the dancefloor)
+Everybody in the club
+(I'm infected by the sound)
+
+Everybody in the club
+(Stop this beat is killing me)
+Hey Mr. DJ let the music take me underground
+
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ let the music take me underground
+
+(Everybody in the club)
+Oh, oh
+Evacuate the dancefloor
+Oh, oh
+I'm infected by the sound
+(Everybody in the club)
+Oh, oh
+Stop this beat is killing me
+Hey Mr. DJ come burn this place right down to the ground
+
+
 

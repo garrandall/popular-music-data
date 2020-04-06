@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: delta-dawn-helen-reddy
+lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/deltadawn.html
 name: Delta Dawn
 rankings:
 - end_date: '1973-06-29'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
 ---
+
+Delta Dawn, what's that flower you have on?
+Could it be a faded rose from days gone by?
+And did I hear you say he was a-meeting you here today
+To take you to his mansion in the sky?
+
+She's forty-one and her daddy still calls her "Baby"
+All the folks around Brownsville say she's crazy
+'Cause she walks downtown with a suitcase in her hand
+Looking for a mysterious dark-haired man
+
+In her younger days they called her Delta Dawn
+Prettiest woman you ever laid eyes on
+Then a man of low degree stood by her side
+Promised her he'd take her for his bride
+
+Delta Dawn, what's that flower you have on?
+Could it be a faded rose from days gone by?
+And did I hear you say he was a-meeting you here today
+To take you to his mansion in the sky?
+
+Delta Dawn, what's that flower you have on?
+Could it be a faded rose from days gone by?
+And did I hear you say he was a-meeting you here today
+To take you to his mansion in the sky?
+
+Delta Dawn, what's that flower you have on?
+Could it be a faded rose from days gone by?
+And did I hear you say he was a-meeting you here today
+To take you to his mansion in the sky?
+
+Delta Dawn, what's that flower you have on?
+Could it be a faded rose from days gone by?
+And did I hear you say he was a-meeting you here today
+To take you to his mansion in the sky?
+
+
 

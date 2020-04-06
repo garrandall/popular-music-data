@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jazzman-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/jazzman.html
 name: Jazzman
 rankings:
 - end_date: '1974-09-06'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
 ---
+
+Lift me, won't you lift me above the old routine
+Make it nice, play it clean, Jazzman
+
+When the Jazzman's testifyin'
+A faithless man believes
+He can sing you into paradise
+Or bring you to your knees
+It's a gospel kind of feelin'
+A touch of Georgia slide
+A song of pure revival
+And a style that's sanctified
+
+Jazzman, take my blues away
+Make my pain the same as yours
+With every change you play
+Jazzman, oh, Jazzman
+
+When the Jazzman's signifyin'
+And the band is windin' low
+It's the late night side of morning
+In the darkness of his soul
+He can fill a room with sadness
+As he fills his horn with tears
+He can cry like a fallen angel
+When risin' time is near
+
+Jazzman, take my blues away
+Make my pain the same as yours
+With every change you play
+
+Oh, lift me, won't you lift me with every turnaround
+Play it sweetly, take me down, oh, Jazzman
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-my-country-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/thisismycountry.html
 name: This Is My Country
 rankings:
 - end_date: '1968-12-06'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
 ---
+
+Doo doo doo
+Doo doo doo
+
+Some people think we don't have the right
+To say it's my country
+Before they give in, they'd rather fuss and fight
+Than say it's my country
+I've paid three hundred years or more
+Of slave driving, sweat, and welts on my back
+This is my country
+
+Doo doo doo
+Doo doo doo
+
+Too many have died in protecting my pride
+For me to go second class
+We've survived a hard blow and I want you to know
+That you'll face us at last
+And I know you will give consideration
+Shall we perish unjust or live equal as a nation
+This is my country
+
+Doo doo doo
+Doo doo doo
+
+And I know you will give consideration
+Shall we perish unjust or live equal, as a nation
+This is my country
+
+Doo doo doo
+Doo doo doo
+Doo doo doo
+
+
 

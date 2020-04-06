@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: green-tambourine-the-lemon-pipers
+lyrics_url: https://www.azlyrics.com/lyrics/lemonpipers/greentambourine.html
 name: Green Tambourine
 rankings:
 - end_date: '1967-12-22'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+
+Drop your silver in my tambourine
+Help a poor man fill a pretty dream
+Give me pennies, I'll take anything
+Now listen while I play
+My green tambourine
+
+Watch the jingle jangle start to shine
+Reflections of the music that is mine
+When you toss a coin, you'll hear it sing
+Now listen while I play
+My green tambourine
+
+Drop a dime before I walk away
+Any song you want, I'll gladly play
+Money feeds my music machine
+Now listen while I play
+My green tambourine
+
+Listen and I'll play
+
+
 

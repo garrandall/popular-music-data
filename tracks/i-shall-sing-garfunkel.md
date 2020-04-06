@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-shall-sing-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/ishallsing.html
 name: I Shall Sing
 rankings:
 - end_date: '1974-01-04'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
+
+La-La-La-La-La-La-La-La-La
+La-La-La-La-La-La-La-La-La
+La-La-La-La-La-La-La-La-La
+La-La-La-La-La-La-La-La-La
+
+I shall sing
+sing my song
+Be it right
+be it wrong
+In the night
+in the day
+Anyhow
+anyway.
+I shall ging
+La-La-La-La-La-La-La-La-La
+La-La-La-La-La-La-La-La-La
+
+
+
+La-La-La-...
+
+With my heart
+with my soul
+for the young
+for the old
+When I'm high
+when I'm low
+When I'm fast
+when I'm slow
+Who ah
+I shall sing
+
+La-La-La-
+
+La-La-La-
+
+
 

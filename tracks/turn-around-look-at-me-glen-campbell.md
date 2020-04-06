@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-around-look-at-me-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/turnaroundlookatme.html
 name: Turn Around Look At Me
 rankings:
 - end_date: '1961-11-05'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
 ---
+
+There is someone walking behind you
+Turn around, look at me
+There is someone watching your footsteps
+Turn around, look at me
+
+There is someone who really needs you
+Here's my heart in my hand
+Turn around
+(Turn around)
+Look at me
+(Look at me)
+Understand, understand
+
+That there's someone who'll stand beside you
+Turn around, look at me
+And there's someone to love and guide you
+Turn around, look at me
+
+Oh, I've waited, but I'll wait forever
+For you to come to me
+Look at someone
+(Look at someone)
+Who really loves you
+(Yeah, really loves you)
+Turn around, look at me
+
+
 

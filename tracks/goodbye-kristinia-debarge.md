@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-kristinia-debarge
+lyrics_url: https://www.azlyrics.com/lyrics/kristiniadebarge/betterwaytosaygoodbye.html
 name: Goodbye
 rankings:
 - end_date: '2009-05-15'
@@ -71,4 +72,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
 ---
+
+Another sleepless night, pretending everything's alright
+But we know the truth can't hide, yeah
+I wonder, could we ever be happy
+If we just let it ride
+
+Cause there's something missing
+There's too much distance now
+It's so confusing
+But there's no use in beating round the bush
+You should know I never will forget you
+But now I think it's time I gotta let you go
+
+I can feel your heart breaking every word that I'm saying
+Like a knife just waiting to stop the beating
+And I hate the fact I'm making you cry
+But it's better than living a lie
+And I'm trying but I know that I
+Can't find a better way to say goodbye, say goodbye, say goodbye
+Is there a better way to say goodbye? Say goodbye, say goodbye
+
+There's so much world out there and I don't wanna be unfair
+Cause there's someone for you somewhere, yeah
+And I only want you to be happy
+Because I really care
+
+It's not the way we planned it
+So let's not drag this out
+The clock is ticking
+You gotta listen, listen to your heart
+Baby don't you know you can't control this
+I don't wanna hurt you, but you know it's time
+
+I can feel your heart breaking every word that I'm saying
+Like a knife just waiting to stop the beating
+And I hate the fact I'm making you cry
+But it's better than living a lie
+And I'm trying but I know that I
+Can't find a better way to say goodbye
+
+Maybe in another place
+Maybe in another time
+When the stars are all aligned
+If we're gonna make things right
+Then we gotta walk away
+
+I can feel your heart breaking every word that I'm saying
+Like a knife just waiting to stop the beating
+And I hate the fact I'm making you cry
+But it's better than living a lie
+And I'm trying but I know that I
+Can't find a better way to say goodbye, say goodbye, say goodbye
+Is there a better way to say goodbye? Say goodbye, say goodbye
+Can't find a better way to say goodbye, say goodbye, say goodbye
+Is there a better way to say goodbye? Say goodbye, say goodbye
+
+
 

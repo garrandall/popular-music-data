@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-me-thrill-me-kiss-me-kill-me-u2
+lyrics_url: https://www.azlyrics.com/lyrics/u2band/holdmethrillmekissmekillme.html
 name: Hold Me Thrill Me Kiss Me Kill Me
 rankings:
 - end_date: '1995-06-30'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
 ---
+
+You don't know how you took it 
+You just know what you got 
+Oh Lordy you've been stealing 
+From the theives and you got caught 
+In the headlights 
+Of a stretch car 
+You're a star 
+
+Dressing like your sister 
+Living like a tart 
+They don't know what you're doing 
+Babe, it must be art 
+You're a headache 
+In a suitcase 
+You're a star 
+
+Oh no, don't be shy 
+You don't have to go blind 
+Hold me, thrill me, kiss me, kill me 
+
+You don't know how you got here 
+You just know you want out 
+Believing in yourself 
+Almost as much as you doubt 
+You're a big smash 
+You wear it like a rash 
+Star 
+
+Oh no, don't be shy 
+There's a crowd to cry 
+Hold me, thrill me, kiss me, kill me 
+
+They want you to be Jesus 
+They'll go down on one knee 
+But they'll want their money back 
+If you're alive at thirty-three 
+And you're turning tricks 
+With your crucifix 
+You're a star 
+
+(Oh child) 
+
+Of course you're not shy 
+You don't have to deny love 
+Hold me, thrill me, kiss me, kill me
+
+
 

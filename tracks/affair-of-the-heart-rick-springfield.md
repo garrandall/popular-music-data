@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: affair-of-the-heart-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/affairoftheheart.html
 name: Affair Of The Heart
 rankings:
 - end_date: '1983-04-22'
@@ -79,4 +80,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
 ---
+
+Heart in my mouth
+Pulse in my head 
+Mercury rising into the red 
+The smell of your skin can
+Light up all the fires in me
+
+Hungry to touch
+I'm eager to please 
+Out of control
+And I hand you the keys 
+Every night I am burning
+To make love to you
+
+But don't try to tell me
+you think it's all physical 
+It goes much deeper than that
+
+You ought to know 
+It's an affair of the heart 
+It's an affair of the heart
+It's an affair of the heart
+Have a little blind faith, believe 
+It's an affair of the heart
+
+When we make love
+It's a passionate thing 
+You shudder and shake
+Sink your teeth in my skin 
+I almost believe you were made
+To be played by my hands
+
+And you got the power
+It amazes me still 
+How you play my emotions
+With consummate skill 
+I don't have to look any further
+Than into your eyes
+
+So don't try to tell me
+You think it's just physical 
+It goes way deeper than that
+
+You better know
+It's an affair of the heart
+It's an affair of the heart
+It's an affair of the heart
+Have a little blind faith, believe 
+It's an affair of the heart
+
+I'm the controller
+And I want to touch you and seize you
+And make you mine, hey, hey
+
+Don't try to tell me 
+You think it's all physical
+It goes much deeper than that
+You ought to know 
+It's an affair of the heart
+It's affair of the heart
+
+You better know
+It's an affair of the heart
+It's an affair of the heart
+
+You better know 
+it's an affair of the heart
+Have a little blind faith, believe 
+It's an affair of the heart
+
+
 

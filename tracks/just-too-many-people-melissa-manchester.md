@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-too-many-people-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/justtoomanypeople.html
 name: Just Too Many People
 rankings:
 - end_date: '1975-09-26'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
 ---
+
+Somebody told me a long, long time ago
+O baby, I feel a change in me
+Is comin' on
+I've found the strength I need
+To carry on
+Something's come over me at last
+
+Sweet darlin', long as you stay by me
+I'm halfway home
+I can see brighter days before me
+Tho' it's been stormy
+At least I know I'm not alone
+
+'Cause there's just too many people
+In this world
+Who are undecided
+There's just too many broken people
+Afraid to take a stand
+There's just too many lonely people
+
+Livin' in a house divided
+By loneliness and sorrow
+I'll never understand
+
+Somebody told me a long, long time ago
+Remember when you need something to believe in
+Look in my eyes to find your heaven
+I'll make it happen
+I need to know you're there
+
+'Cause there's just too many people
+In this world
+Who are undecided
+There's just too many broken people
+Afraid to take a stand
+There's just too many lonely people
+Livin' in a house divided
+By loneliness and sorrow
+It's more than I can stand
+
+
 

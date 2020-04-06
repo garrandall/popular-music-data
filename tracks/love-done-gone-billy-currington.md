@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-done-gone-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/lovedonegone.html
 name: Love Done Gone
 rankings:
 - end_date: '2011-07-08'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
 ---
+
+Don't worry, baby, sometimes things change
+Nothin' we can do about it now, no way
+This doesn't come easy, but that's just life
+We can't keep pretendin' everything's alright
+We told each other it was love before
+The simple truth is it just ain't no more
+The bells stop ringin', the music won't play
+The crazy little feelin' that's faded away
+Like snowflakes when the weather warms up
+Like leaves on the trees when the autumn comes
+Like the dogwood blossoms in a late spring rain
+All the disappearin' bubbles in a glass of champagne
+Like a red kite lost in a blue sky wind
+I don't know where the good times went
+It ain't nothin' we ever said or ever did wrong
+It's just love done gone
+I don't regret a single thing that we did
+Anytime together, we ever spent
+I wouldn't change a thing, baby, you know
+Sometimes we gotta just go with the flow
+Like snowflakes when the weather warms up
+Like leaves on the trees when the autumn comes
+Like the dogwood blossoms in a late spring rain
+All the disappearin' bubbles in a glass of champagne
+Like money in a slot machine
+Don't know what happened to you and me
+It ain't nothin' we ever said or ever did wrong
+It's just love done gone
+It's just love done gone
+It's just love done gone
+
+
 

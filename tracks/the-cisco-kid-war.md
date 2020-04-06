@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-cisco-kid-war
+lyrics_url: https://www.azlyrics.com/lyrics/war/theciscokid.html
 name: The Cisco Kid
 rankings:
 - end_date: '1973-03-09'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
 ---
+
+The Cisco Kid was a friend of mine
+The Cisco Kid was a friend of mine
+He drink whiskey, Poncho drink the wine
+He drink whiskey, Poncho drink the wine
+
+We met down on the fort of Rio Grande
+We met down on the fort of Rio Grande
+Eat the salted peanuts out of can
+Eat the salted peanuts out the can
+
+The outlaws had us pinned down at the fort
+The outlaws had us pinned down at the fort
+Cisco came in blastin', drinkin' port
+Cisco came in blastin', drinkin' port
+
+They rode the sunset, horse was made of steel
+They rode the sunset, horse was made of steel
+Chased a gringo last night through a field
+Chased a gringo last night through a field
+
+The Cisco Kid was a friend of mine
+The Cisco Kid he was a friend of mine
+The Cisco Kid was a friend of mine
+The Cisco Kid was a friend of mine
+
+The Cisco Kid was a friend of mine
+The Cisco Kid he was a friend of mine
+The Cisco Kid was a friend of mine
+The Cisco Kid was a friend of mine
+
+The Cisco Kid he was a friend of mine
+The Cisco Kid he was a friend of mine
+The Cisco Kid he was a friend of mine
+
+
 

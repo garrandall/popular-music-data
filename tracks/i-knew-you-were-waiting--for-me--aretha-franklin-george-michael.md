@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-knew-you-were-waiting--for-me--aretha-franklin-george-michael
+lyrics_url: https://www.azlyrics.com/lyrics/bucksfizz/iknewyouwerewaiting.html
 name: I Knew You Were Waiting (For Me)
 rankings:
 - end_date: '1987-02-27'
@@ -76,4 +77,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
 ---
+
+Like a warrior that fights
+And wins the battle
+I know the taste of victory
+Though I went through some nights
+Consumed by the shadows
+I was crippled emotionally
+
+Somehow I made it through the heartache
+Yes I did. I escaped.
+I found my way out of the darkness
+I kept my faith (I know you did), kept my faith
+
+When the river was deep I didn't falter
+When the mountain was high I still believed
+When the valley was low, it didn't stop me, no no
+I knew you were waiting. I knew you were waiting for me
+
+With an endless desire I kept on searching
+Sure in time our eyes would meet
+Like the bridge is on fire
+The hurt is over, one touch and you set me free
+
+I don't regret a single moment, no I don't looking back
+When I think of all those disappointments
+I just laugh (I know you do), I just laugh
+
+When the river was deep I didn't falter
+When the mountain was high I still believed
+When the valley was low it didn't stop me
+I knew you were waiting. I knew you were waiting for me
+
+So we were drawn together through destiny
+I know this love we shared was meant to be
+I knew you were waiting, knew you were waiting
+I knew you were waiting meâ¦
+
+
 

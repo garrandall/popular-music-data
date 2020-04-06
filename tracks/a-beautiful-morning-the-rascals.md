@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-beautiful-morning-the-rascals
+lyrics_url: https://www.azlyrics.com/lyrics/rascals/abeautifulmorning.html
 name: A Beautiful Morning
 rankings:
 - end_date: '1968-04-19'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
 ---
+
+It's a beautiful morning, ah
+I think I'll go outside for a while
+And just smile
+Just take in some clean fresh air, boy
+No sense in staying inside
+If the weather's fine and you've got the time
+It's your chance to wake up and plan another brand new day
+Either way
+
+It's a beautiful morning, ah
+Each bird keeps singing his own song
+So long
+I've got to be on my way now
+No fun just hanging around
+I got to cover ground
+You couldn't keep me down
+It just ain't no good if the sun shines
+When you're still inside
+Shouldn't hide
+Still inside
+Shouldn't hide
+Still inside, shouldn't hide
+
+There will be children with robins and flowers
+Sunshine caresses each new waking hour
+
+Seems to me that people keep seeing more and more each day
+Gotta say, lead the way
+It's okay, brand new day
+Gotta say, it's okay
+Brand new day, gotta say, lead the way
+
+
 

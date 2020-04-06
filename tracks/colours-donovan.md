@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: colours-donovan
+lyrics_url: https://www.azlyrics.com/lyrics/donovan/colours.html
 name: Colours
 rankings:
 - end_date: '1965-08-20'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+
+Yellow is the color of my true love's hair
+In the mornin', when we rise
+In the mornin', when we rise
+That's the time, that's the time
+I love the best
+
+Blue's the color of the sky
+In the mornin', when we rise
+In the mornin', when we rise
+That's the time, that's the time
+I love the best
+
+Green's the color of the sparklin' corn
+In the mornin', when we rise
+In the mornin', when we rise
+That's the time, that's the time
+I love the best
+
+Mellow is the feelin' that I get
+When I see her, mm hmm
+When I see her, uh huh
+That's the time, that's the time
+I love the best
+
+Freedom is a word I rarely use
+Without thinkin', mm hmm
+Without thinkin', uh huh
+Of the time, of the time
+When I've been loved
+
+
 

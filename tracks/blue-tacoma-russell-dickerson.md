@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-tacoma-russell-dickerson
+lyrics_url: https://www.azlyrics.com/lyrics/russelldickerson/bluetacoma.html
 name: Blue Tacoma
 rankings:
 - end_date: '2018-09-07'
@@ -83,4 +84,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
 ---
+
+Blue Tacoma, California
+Rays of gold are shining on ya
+
+Wheels rolling on an old Toyota
+Twist top on a Sunkist soda
+Your brown hair in the west coast wind
+If heaven is anywhere
+Nineties hits at the top of our lungs
+Shuffle landed on "Still the One"
+Missing turns cause that's our song
+If heaven is anywhere
+
+It's in a blue Tacoma, California
+White magnolia in your hair
+Rays of gold are shining on ya
+Oooh, if heaven is anywhere
+It's never running out of golden road
+Always having your hand to hold
+In a blue Tacoma, California
+Oooh, if heaven is anywhere
+It's right here
+
+Blue Tacoma, California
+Rays of gold are shining on ya
+
+Red sun melting to the black top
+Dollar shades from a nowhere truck stop
+Your kiss and that coast line
+If heaven is anywhere
+Pull it over to the shoulder
+To take it in mmmh and pull you closer
+Loving you longer than I ever did
+Going places we never been
+Cause heaven's in
+
+A blue Tacoma, California
+White magnolia in your hair
+Rays of gold are shining on ya
+Oooh, if heaven is anywhere
+It's never running out of golden road
+Always having your hand to hold
+In a blue Tacoma, California
+Oooh, if heaven is anywhere
+It's right here
+
+Blue Tacoma, California
+Rays of gold are shining on ya
+If heaven is anywhere
+
+It's in a blue Tacoma, California
+White magnolia in your hair
+Rays of gold are shining on ya
+Oooh, if heaven is anywhere
+It's never running out of golden road
+Always having your hand to hold
+In a blue Tacoma, California
+Oooh, if heaven is anywhere
+It's right here
+Blue Tacoma, California
+Oooh, if heaven is anywhere
+Rays of gold are shining on ya
+It's always right here, always right here, oh oh
+Blue Tacoma, California
+Rays of gold are shining on ya
+Oooh, if heaven is anywhere
+
+
 

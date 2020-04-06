@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: livingston-saturday-night-jimmy-buffett
+lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/livingstonsaturdaynight.html
 name: Livingston Saturday Night
 rankings:
 - end_date: '1978-08-18'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
 ---
+
+You got your Tony Lama's on your jeans pressed tight,
+You take a few tokes, make you feel all right,
+Rockin' and rollin' on a Livingston Saturday Night.
+
+Pickup's washed and you just got paid.
+With any luck at all you might even get laid,
+'Cause they're pickin' and a-kickin'
+on a Livingston Saturday Night.
+
+So won't you listen to the sound of a hot country band,
+Boot heels shufflin' on the dance floor Sam
+Sing a song, play some pong, shoot a little pool,
+Hittin' on the honeys right out of high school.
+Yeah, fifteen may get you twenty,
+but that's all right,
+"Cause they're rockin and a rollin' on a
+Livingston Saturday Night
+
+So won't you listen to the sound of the hot country band,
+Boot heels shufflin' on the dance floor Sam,
+Hum a song, play some pong, eat a deviled egg,
+Temperature is rising, better pop another keg.
+
+Fifteen may get you twenty, but that's all right,
+'Cause they'll be rockin' and a rollin' on a
+Livingston Saturday Night.
+
+
 

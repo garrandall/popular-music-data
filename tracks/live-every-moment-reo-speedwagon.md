@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-every-moment-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/liveeverymoment.html
 name: Live Every Moment
 rankings:
 - end_date: '1985-07-19'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
 ---
+
+Live every moment - love every day
+'Cus before you know it your precious time slips away.
+Live every moment - love every day
+'Cause if you don't you might just throw your love away.
+I walked for seven miles this mornin'. Footprints in the sand.
+Washed away without a warning when the water hit the land.
+But I will walk on 'til I can no longer stand.
+I'll take you by the hand and we'll...
+
+Live every moment - love every day
+'Cus before you know it your precious time slips away.
+
+There's water in the wind tonight.
+There's a chill in the air.
+It's coolin' down my skin tonight
+Soakin' through your hair.
+There's warmth enough within' tonight
+for both of us to share.
+We can take it anywhere. And we'll...
+
+Live every moment - love every day
+'Cus before you know it your precious time slips away.
+
+Sometimes I wish we could take a trip far away.
+Leave all this trouble and heartache and pain for another day.
+I will search for that place but 'til I find it all I can say is...
+
+Live every moment - and love every day
+
+
 

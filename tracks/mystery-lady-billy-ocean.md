@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mystery-lady-billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/mysterylady.html
 name: Mystery Lady
 rankings:
 - end_date: '1985-07-12'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+
+Hey there Mystery Lady can I spend the night with you
+Can I have your number I'll be anything you want me to
+We ought to get something started
+Ooh I can tell so very well
+He has left you brokenhearted
+It's time to start mending you heart
+Darling when the nights are cold and lonely - I will keep you warm
+You need to be loved by me - Mystery Lady
+You need to be loved by me - Mystery Lady
+Hey there Mystery Lady love is but a kiss away
+And you can bet you bottom dollar
+I'll do anything to make you stay
+So let's get something started
+Why hesitate oh I can't wait
+There is something that you're missing
+The fire in your eyes - you can't disguise
+Darling when the nights are cold and lonely - I will keep you warm
+You need to be loved by me Mystery Lady
+You need to be loved by me Mystery Lady
+You need to be loved by me Mystery Lady
+Girl I'll come knocking at your door
+Caught in your magic just look what you've started
+We ought to get something started oh I can tell so very well
+That he's left you broken hearted it's time to start mending your heart
+So darling when the nights are cold and lonely I will keep you warm
+
+
 

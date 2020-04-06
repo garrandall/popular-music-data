@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-a-bye-your-baby-with-a-dixie-melody-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/rockabyeyourbabywithadixiemelody.html
 name: Rock-A-Bye Your Baby With A Dixie Melody
 rankings:
 - end_date: '1961-10-15'
@@ -43,4 +44,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
 ---
+
+Rock-a-bye your baby with a Dixie melody. 
+When you croon, croon a tune from the heart of Dixie. 
+Just place my cradle, mammy mine, 
+Right on the Mason Dixon line, 
+And swing it from Virginia 
+To Tennessee with all the love that's in ya. 
+
+Weep no more, my lady. 
+
+Sing that song again for me. 
+Soft and low, just as though 
+You had me on your knee. 
+
+A million baby kisses I'd deliver, 
+If you would only sing that Swanee River. 
+Rock-a-bye your rock-a-bye baby with a Dixie melody
+
+
 

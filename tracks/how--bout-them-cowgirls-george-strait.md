@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how--bout-them-cowgirls-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/howboutthemcowgirls.html
 name: How 'Bout Them Cowgirls
 rankings:
 - end_date: '2007-09-28'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
 ---
+
+I felt the rush of the Rio Grande into Yellowstone
+And I've seen first-hand Niagra Falls
+And the lights of Vegas
+I've criss-crossed down to Key Biscayane
+And Chi-town via Bangor, Maine
+Think I've seen it all
+And all I can say is
+
+
+How 'bout them cowgirls
+Boys ain't they somthin'
+Sure are some proud girls
+And you can't tell them nothin'
+And I tell you right now girls
+May just be seven wonders of this big, old round world
+But how 'bout them cowgirls
+
+She's a ridin' colts in Steamboat Springs
+Bailing hay outside Abilene
+She's trying hard
+To fit in some city
+But her home is 'neath that big, blue sky
+And the Northern Plains and those other wide open spaces
+
+
+
+Boy, she don't need you and she don't need me
+She can do just fine on her own two feet
+But she wants a man who wants her to be herself
+And she'll never change, don't know how to hide
+Her stubborn will or her fightin' side
+But you treat her right and she'll love you like no on else
+
+Yeah, how 'bout them cowgirls
+Boys ain't they somethin'
+Sure some are proud girls
+But you can't beat their lovin'
+And I'll tell you right now girls
+May just be seven wonders of this big, old round world
+But how 'bout them cowgirls
+How 'bout them boys
+
+
 

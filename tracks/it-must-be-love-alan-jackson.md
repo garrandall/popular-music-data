@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-must-be-love-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/itmustbelove.html
 name: It Must Be Love
 rankings:
 - end_date: '2000-06-30'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
 ---
+
+First I get cold and hot
+think I'm on fire, but I'm not.
+Oh, what a pain I've got,
+it must be love!
+There's nothing I can do,
+all that I want is you.
+Look what I'm going through,
+it must be love!
+
+It must be love, it must be love.
+I fall like a sparrow and fly like a dove.
+You must be the dream I been dreaming of,
+oh what a feeling, it must be love!
+
+Something is wrong or right,
+I think of you all night.
+Can't sleep 'til morning light,
+It must be love!
+
+Seeing you in my dreams,
+holding you close to me.
+Oh, what else can it be?
+It must be love!
+
+It must be love, it must be love.
+I fall like a sparrow and fly like a dove.
+You must be the dream I been dreaming of
+Oh what a feeling, it must be love.
+
+
+
+
 

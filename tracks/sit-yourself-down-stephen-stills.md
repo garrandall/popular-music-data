@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sit-yourself-down-stephen-stills
+lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/sityourselfdown.html
 name: Sit Yourself Down
 rankings:
 - end_date: '1971-03-19'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
 ---
+
+When I get restless, what can I do?
+When I need someone I think about you
+I got to move on, not fade away
+I'm only just growing a little each day
+
+
+(Hold it) I got to quit this runnin' 'round
+(Hold it) Never gonna get rid of these blues
+(Hold it) I got to find somebody to love
+Slow me down, yeah
+My, what a time (Look out now)
+
+Sit yourself down, take a look around
+Sit yourself down, take a look around
+Sit yourself down, take a look around
+Sit yourself down, take a look around
+When I get older, mellowed down
+Get myself settled on a patch of ground
+Takin' it easy, live everyday
+Me and the raven, we make our way
+
+
+
+Sit yourself down, take a look around 
+
+
 

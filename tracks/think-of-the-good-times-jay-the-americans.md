@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: think-of-the-good-times-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/thinkofthegoodtimes.html
 name: Think Of The Good Times
 rankings:
 - end_date: '1965-04-02'
@@ -40,4 +41,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
 ---
+
+You were the only one I could see
+Now that we're through, if you think of me
+Think of the good times, only the good times
+Walks in the rain, warm summer nights
+Remember the kisses and not just the fights
+
+One foolish moment drove us apart
+If there's a spark still left in your heart
+Think of the good times, only the good times
+You in my arms, two hearts like one
+Don't tell me that it is over and done
+
+Once we promised we'd love forever (way back then)
+Can't we let these wonderful memories bring us together again
+
+If you'll admit you think of me yet
+Darlin' come back, forgive and forget
+Think of the good times, we'll only have good times
+Your lips on mine (where they belong)
+Where they belong
+But this time we won't let our good times go wrong
+
+We'll think of the good times, only the good times
+Yeah, we'll think of the good times, only the good times
+Oh, we'll think of the good times, only the good times
+
+
 

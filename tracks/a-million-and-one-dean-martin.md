@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-million-and-one-dean-martin
+lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/amillionandone.html
 name: A Million And One
 rankings:
 - end_date: '1966-07-29'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+
+(How many teardrops)
+Have I cried over you
+A million and one tears
+A million and two
+
+(How many lonely nights)
+Have my arms ached for you
+A million and one nights
+A million and two
+
+Loving you darlin'
+While I thought you loved me, only me
+But you were just fooling
+And the fool you were fooling was me
+
+How many sweet dreams
+Will never come true
+A million and one dreams
+A million and two
+
+(Loving you darlin'
+While I thought you loved me, only me)
+But you were just fooling
+And the fool you were fooling was me
+(How many sweet dreams)
+Will never come true
+A million and one dreams
+A million and two
+A million and one dreams
+A million and two
+
+
 

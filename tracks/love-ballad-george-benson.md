@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-ballad-george-benson
+lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/loveballad.html
 name: Love Ballad
 rankings:
 - end_date: '1979-03-02'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
 ---
+
+I have never been so much
+In love, in love before
+What a difference
+How true love made in my life
+So nice and so right
+
+Lovers come and then lovers go
+That's what the people say
+Don't they know
+How it feels when you love me
+Hold me and say you care
+And what we have is much more than they can see
+And what we have is much more than they can see
+Baby what we have is much more than they see
+Oh baby, whoa yeah
+
+I'm in love, I'm in love with you girl
+
+I say love I never knew that a touch
+Could mean, could mean so much
+What a difference
+And when we walk hand in hand
+I feel, I feel so real
+
+Lovers come and then lovers go
+That's what the people say
+Don't they know
+How I feel when you love me
+Hold me and say you care
+And what we have is much more than they can see
+And what we have is much more than they can see
+Baby, what we have is much more than they can see
+
+Oh, yeah
+
+
 

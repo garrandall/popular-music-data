@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: simply-irresistible-robert-palmer
+lyrics_url: https://www.azlyrics.com/lyrics/charlixcx/simplyirresistible.html
 name: Simply Irresistible
 rankings:
 - end_date: '1988-07-08'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
 ---
+
+How can it be permissible?
+She compromise my principle, yeah, yeah
+That kind of love is mythical
+She's anything but typical
+
+She's a craze, you'd endorse, she's a powerful force
+You're obliged to conform when there's no other course
+She used to look good to me, but now I find her
+
+Simply irresistible
+Simply irresistible
+
+Her loving is so powerful
+It's simply unavoidable
+The trend is irreversible
+The woman is invincible
+
+She's a natural law and she leaves me in awe
+She deserves the applause, I surrender because
+She used to look good to me, but now I find her
+
+Simply irresistible
+Simply irresistible
+
+Simply irresistible she's so fine, there's no tellin' where the money went
+Simply irresistible she's all mine, there's no other way to go
+
+She's unavoidable, I'm backed against the wall
+She gives me feelings like I never felt before
+I'm breaking promises, she's breaking every law
+She used to look good to me, but now I find her
+
+Simply irresistible
+She's so fine, there's no tellin' where the money went
+Simply irresistible, she's all mine
+There's no other way to go
+
+Her methods are inscrutable
+The proof is irrefutable
+She's so completely kissable
+Our lives are indivisible
+
+She's a natural law and she leaves me in awe
+She deserves the applause, I surrender because
+She used to look good to me, but now I find her
+
+Simply irresistible
+Simply irresistible
+Simply irresistible
+Simply irresistible
+Simply irresistible
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-zone-billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/lovezone.html
 name: Love Zone
 rankings:
 - end_date: '1986-08-01'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
 ---
+
+Don't you believe that I want you?
+I need you here in my arms.
+Although you won't have to worry
+
+I'll spend each day in your charms.
+I wanna kiss you all over
+
+Running my hands through your hair
+
+I know a place where love is
+
+I'll keep you warm
+Night and day.
+In the love zone - you don't have to be alone
+
+Together we can live and learn - in the love zone.
+
+Come rest your head on my shoulder
+
+And we'll count the stars in the night
+
+I wanna feel you beside me
+Oh
+Just holding you tight.
+I wanna give you little tenderness
+
+Letting you know that you're loved
+
+I wanna hold you close to me to keep you warm night and day.
+In the love zone - you don't have to be alone
+
+Together we can live and learn - in the love zone.
+
+Oh baby
+Don't you know
+
+I do the best I can to be good for you.
+But when love's a guarantee there is no mystery
+
+You'll never be a stranger out there on your own -
+In the love zone.
+
+Your love made the difference in my life
+
+You'll never be alone.
+Love zone - you don't have to be alone
+
+Together we can live and learn - in the love zone.
+Love zone - I keep your warm - love zone - night and day -
+Love zone - come rest your head on my shoulder - love zone -
+We can count the stars every night - live and learn.
+
+
 

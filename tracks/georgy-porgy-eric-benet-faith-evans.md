@@ -5,6 +5,7 @@ features:
 - Faith Evans
 genres: []
 key: georgy-porgy-eric-benet-faith-evans
+lyrics_url: https://www.azlyrics.com/lyrics/ericbenet/georgyporgy.html
 name: Georgy Porgy
 rankings:
 - end_date: '1999-03-26'
@@ -64,4 +65,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
 ---
+
+It's not your situation
+I just need contemplation
+Over you
+I'm not so systematic
+
+It's just that I'm an addict for your love
+I'm not the only one that holds you
+I never ever should have told you
+You're my only girl
+I'm not the only one that holds you
+I never ever should have told you
+
+You're my only world
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+
+Kissed the girls and made them cry
+Kissed the girls and made them cry
+
+Just think how long I've known ya'
+It's wrong for me to own ya'
+Lock and key
+It's really not confusion
+I'm just the young illusion
+Can't you see
+
+I'm not the only one that holds you
+I never ever should have told you
+You're my only girl
+
+I'm not the only one that holds you
+I never ever should have told you
+You're my only world
+
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+Georgy Porgy puddin' pie
+Kissed the girls and made them cry
+
+Kissed the girls and made them cry
+Kissed the girls and made them cry
+
+
 

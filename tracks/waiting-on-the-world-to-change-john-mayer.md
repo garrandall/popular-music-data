@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waiting-on-the-world-to-change-john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/lindsayell/waitingontheworldtochange.html
 name: Waiting On The World To Change
 rankings:
 - end_date: '2006-08-04'
@@ -167,4 +168,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
 ---
+
+One, two, one, two, three
+
+Me and all my friends
+We're all misunderstood
+They say we stand for nothing and
+There's no way we ever could
+
+Now we see everything that's going wrong
+With the world and those who lead it
+We just feel like we don't have the means
+To rise above and beat it
+
+So we keep waiting (waiting)
+Waiting on the world to change
+We keep on waiting (waiting)
+Waiting on the world to change
+
+It's hard to beat the system
+When we're standing at a distance
+So we keep on waiting
+Waiting on the world to change
+
+Now if we had the power
+To bring our neighbors home from war
+They would have never missed a Christmas
+No more ribbons on their door
+But when you trust your television
+What you get is what you've got
+Cause when they own the information, oh
+They can bend it all they want
+
+That's why we're waiting (waiting)
+Waiting on the world to change
+We keep on waiting (waiting)
+Waiting on the world to change
+
+It's not that we don't care
+We just know that the fight ain't fair
+So we keep on waiting (waiting)
+Waiting on the world to change
+
+And we're still waiting (waiting)
+Waiting on the world to change
+We keep on waiting (waiting)
+Waiting on the world to change
+
+One day our generation
+Is gonna rule the population
+So we keep on waiting (waiting)
+Waiting on the world to change
+We keep on waiting (waiting)
+Waiting on the world to change
+We keep on waiting (waiting)
+Waiting on the world to change
+Waiting on the world to change
+Waiting on the world to change
+Waiting on the world to change
+Yeaaah...
+
+
 

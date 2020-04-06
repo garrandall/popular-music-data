@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gypsy-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/gypsy.html
 name: Gypsy
 rankings:
 - end_date: '1982-09-10'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
 ---
+
+So I'm back, to the velvet underground
+Back to the floor, that I love
+To a room with some lace and paper flowers
+Back to the gypsy that I was
+To the gypsy... that I was
+And it all comes down to you
+Well, you know that it does
+Well, lightning strikes, maybe once, maybe twice
+Ah, and it lights up the night
+And you see your gypsy
+You see your gypsy
+To the gypsy that remains faces freedom with a little fear
+I have no fear, I have only love
+And if I was a child
+And the child was enough
+Enough for me to love
+Enough to love
+She is dancing away from me now
+She was just a wish
+She was just a wish
+And a memory is all that is left for you now
+You see your gypsy
+You see your gypsy
+Lightning strikes, maybe once, maybe twice
+And it all comes down to you
+And it all comes down to you
+Lightning strikes, maybe once, maybe twice
+And it all comes down to you
+I still see your bright eyes, bright eyes
+And it all comes down to you
+I still see your bright eyes, bright eyes
+And it all comes down to you
+I still see your bright eyes, bright eyes
+(She was just a wish)
+(She was just a wish)
+And it all comes down to you
+Lightning strikes, maybe once, maybe twice
+And it all comes down to you
+
+
 

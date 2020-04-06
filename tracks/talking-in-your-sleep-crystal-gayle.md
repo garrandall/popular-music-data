@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talking-in-your-sleep-crystal-gayle
+lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/talkinginyoursleep.html
 name: Talking In Your Sleep
 rankings:
 - end_date: '1978-08-04'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
 ---
+
+Three o'clock in the morning
+And it looks like it's going to be another sleepless night
+I've been listening to your dreams and getting very low
+Wondering what I can do
+
+Maybe I'm being foolish 
+'Cause I haven't heard you mention anybody's name at all
+How I wish I could be sure it's me that turns you on
+Each time you close your eyes
+I've heard it said that dreamers never lie
+
+You've been talking in your sleep
+Sleeping in your dreams
+With some sweet lover
+Holding on so tight
+Loving her the way
+You used to love me
+Talking in your sleep with loving on your mind
+
+Maybe I'm being foolish 
+'Cause I haven't heard you mention anybody's name at all
+How I wish I could be sure it's me that turns you on
+Each time you close your eyes
+I've heard it said that dreamers never lie
+
+You've been talking in your sleep
+Sleeping in your dreams
+With some sweet lover
+Holding on so tight
+Loving her the way
+You used to love me
+Talking in your sleep with loving on your mind
+
+You've been talking in your sleep
+
+
 

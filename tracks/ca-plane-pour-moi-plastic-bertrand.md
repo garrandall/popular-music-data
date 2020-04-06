@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ca-plane-pour-moi-plastic-bertrand
+lyrics_url: https://www.azlyrics.com/lyrics/plasticbertrand/caplanepourmoi.html
 name: Ca Plane Pour Moi
 rankings:
 - end_date: '1978-05-05'
@@ -47,4 +48,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
 ---
+
+Yam ! Bam ! Mon chat Splash
+Git sur mon lit a bouffe
+Sa langue en buvant tout mon whisky
+Quant a moi peu dormi, vidÃ©, brimÃ©
+J'ai dÃ» dormir dans la gouttiÃ¨re
+Ou j'ai eu un flash
+Oooo-ooo-ooo-ooo !
+En quatre couleurs
+
+Allez hop! un matin
+Une louloute est venue chez-moi
+Poupee de cellophane, cheveux chinois
+Un sparadrap, une gueule de bois
+A bu ma biere dans un grand verre en caoutchouc
+Oooo-ooo-ooo-ooo !
+Comme un indien dans son igloo
+
+Ãa plane pour moi Ã§a plane pour moi
+Ãa plane pour moi moi moi moi moi
+Ãa plane pour moi
+Oooo-ooo-ooo-ooo !
+Ãa plane pour moi
+
+Allez hop! La nana quel panard !
+Quelle vibration !
+De s'envoyer sur le paillasson
+LimÃ©e, ruinÃ©e, vidÃ©e, comblÃ©e
+You are the King of the divan !
+Qu'elle me dit en passant
+Oooo-ooo-ooo-ooo !
+I am the King of the divan
+
+Ca plane pour moi ca plane pour moi
+Ca plane pour moi moi moi moi moi
+Ca plane pour moi
+Oooo-ooo-ooo-ooo !
+Ca plane pour moi
+
+Allez hop ! t'occupe t'inquiÃ¨te
+Touche pas ma planÃ¨te
+It's not today
+Quel le ciel me tombera sur la tÃªte
+Et que la colle me manquera
+Oooo-ooo-ooo-ooo !
+Ãa plane pour moi
+
+Allez hop ! ma nana s'est tirÃ©e
+S'est barrÃ©e enfin c'est marre Ã  tout cassÃ©
+L'evier, le bar me laissant seul
+Comme un grand connard
+Oooo-ooo-ooo-ooo !
+Le pied dans le plat
+
+Ãa plane pour moi Ã§a plane pour moi
+Ãa plane pour moi moi moi moi moi
+Ãa plane pour moi
+Oooo-ooo-ooo-ooo !
+Ãa plane pour moi
+Ãa plane pour moi Ã§a plane pour moi
+Ãa plane pour moi moi moi moi moi
+
+
 

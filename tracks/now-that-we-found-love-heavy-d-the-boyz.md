@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: now-that-we-found-love-heavy-d-the-boyz
+lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/lastrain.html
 name: Now That We Found Love
 rankings:
 - end_date: '1991-07-05'
@@ -96,4 +97,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
 ---
+
+You said "good-bye" leaving the words behind
+As the oversized umbrella watches you go passing by.
+Tears of rain make the city sky look sorry,
+But even with the heavy mists nothing makes me hard to see
+I really want this time to last forever like the rain,
+So I drove my heart held you in my arms and gave you all I had
+
+How could I repress our memories so fast, my love
+Baby, I'll be crying over you all through the night
+Should somebody try to take you away, from me
+I'd rather hold you tight like my captive for eternity
+
+Silent nights feeling your warm embrace,
+My heart and mind were mesmerized by your gracious love...
+But now I know I took this love for granted
+When the troubled waves came crashing down you looked for me with empty hope
+Did you find another shoulder to shed your tears tonight?
+Now it's too late, you've closed your door we will never be the same
+
+How could I repress those memories so fast, my love
+Baby, I'll be crying over you all through the night
+Should somebody try to take you away, from me
+I'd rather hold you tight for eternity
+
+Realized with these rain drops failing down on me,
+I wanted to, but it wasn't me that could cherish you sweetly
+Words cannot express the feelings and emotions inside
+Lonely words cannot define this love chemistry
+Wandering alone, my love has nowhere else to move on
+So I held on to my thoughts and allowed my heart to guide me
+
+
 

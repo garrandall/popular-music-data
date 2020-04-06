@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hats-off-to-larry-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/hatsofftolarry.html
 name: Hats Off To Larry
 rankings:
 - end_date: '1961-06-11'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
+
+Once I had a pretty girl
+Her name it doesn't matter
+She went away with an other guy
+And now he won't even look at her
+
+Hats off to Larry
+He broke your heart
+Just like you broke mine when you
+Said we must part
+He told you lies
+Now its your turn to cry, cry, cry
+Now that Larry said good bye to you
+
+I know this may sound strange
+I want you back I think you'll change
+But there's one more thing I gotta say
+
+Hats off to Larry
+It may sound cruel
+But you laughed at me when you said we were through
+You told me lies
+Now its your turn to cry, cry, cry
+Now that Larry said good bye to you
+
+Hats off to Larry
+It may sound cruel
+But you laughed at me when you said we were through
+You told me lies
+Now its your turn to cry, cry, cry
+Now that Larry said good bye to you
+
+Good Bye to you
+Good Bye to you
+Hats Off To Larry
+
+Hats off Larry!
+
+Yeah!
+Wooh!
+Yeah!
+Yeah!
+
+
 

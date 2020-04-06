@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotions-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/emotions.html
 name: Emotions
 rankings:
 - end_date: '1961-01-08'
@@ -55,4 +56,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
+
+Emotions what are you doing oh don't you know don't you know you'll be my ruin
+You've got me crying crying again when will you let this heartache end
+Emotions you get me upset why make me remember what I wanna forget
+I've been so lonely lonely too long emotions please leave me alone
+You worry my days yes you torture my nights
+Never a dream knows those dreams never turn out right
+Emotions ah give me a break let me forget that I made a mistake
+Oh can't you see what you're doing to me emotions please set me free
+You worry my days...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-over-my-shoulder--til-tuesday
+lyrics_url: https://www.azlyrics.com/lyrics/tiltuesday/lookingovermyshoulder.html
 name: Looking Over My Shoulder
 rankings:
 - end_date: '1985-08-30'
@@ -27,4 +28,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
 ---
+
+If I'm calling you out of the blue
+It's because it's never-ending
+And if I'm dragging out pictures of you
+It's because I'm only pretending
+
+And if I'm looking over my shoulder
+It's just because I hope you'll be there
+And if I'm looking older and older
+It's because I know I haven't a prayer
+
+
 

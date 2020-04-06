@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mamacita-the-grass-roots
+lyrics_url: https://www.azlyrics.com/lyrics/grassroots/mamacita.html
 name: Mamacita
 rankings:
 - end_date: '1975-08-08'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
 ---
+
+She's got a foxy smile
+But I better warn ya
+She's the straightest lady
+In the state of California
+They raised her by the Book
+And reads on page one
+Senoritas they don't make love for fun
+It just ain't done
+Let me tell you 'bout
+
+
+Ma-ma-ma Mamacita
+She'll break your heart when you meet her
+She's so sweet you could eat her
+Ma-ma-ma Mamacita
+
+I dream about those cherry lips
+That never been tasted
+And it just tears me apart
+To think? been wasted
+She's saving all her love
+Ain't giving none away
+Senoritas they never shout olÃ©
+Till their wedding day
+Come and help me now
+
+
+
+I'm gonna say "I do"
+And when we get a?
+We gonna watch the kids
+Come one by one by one by one by one by one by one
+Two three four
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wishful-sinful-the-doors
+lyrics_url: https://www.azlyrics.com/lyrics/doors/wishfulsinful.html
 name: Wishful Sinful
 rankings:
 - end_date: '1969-04-04'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+
+Wishful crystal 
+Water covers everything in blue 
+Coolin' water 
+
+Wishful sinful 
+Our love is beautiful to see 
+I know where I would like to be 
+Right back where I came 
+
+Wishful, sinful, wicked blue 
+Water covers you 
+Wishful, sinful, wicked you 
+Can't escape the blue 
+
+Magic risin' 
+Sun is shinin' deep beneath the sea 
+But not enough for you and me and sunshine 
+Love to hear the wind cry 
+
+Wishful sinful 
+Our love is beautiful to see 
+I know where I would like to be 
+Right back where I came 
+
+Wishful, sinful, wicked blue 
+Water covers you 
+Wishful, sinful, wicked you 
+Can't escape the blue 
+
+Love to hear the wind cry 
+Love to hear you cry, yeah, yeah
+
+
 

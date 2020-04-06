@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-it-gonna-be-dusty-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/whatsitgonnabe.html
 name: What's It Gonna Be
 rankings:
 - end_date: '1967-11-24'
@@ -39,4 +40,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
 ---
+
+What's it gonna be?
+Please tell me
+Is it really me?
+Please tell me
+Are you out for fun?
+Only lovin' on the run
+And leave me cryin', ahh, cryin'
+
+What's it gonna be?
+(Tomorrow)
+Will he set me free?
+(Tomorrow)
+Gotta know for sure
+A broken heart don't have a cure
+It just keeps hurting, ahh, hurtin'
+And when I'm hurtin'
+I can't stop hurtin'
+
+I want a love that's here to stay
+Baby please
+The kind of love that I can count on everyday
+
+Ah, got a hold on me
+You know it
+What's it gonna be?
+You know it
+
+Want a love that's so
+But I'll turn around and go
+'Cause I can't take it 
+I can't take it
+I can't face it
+My heart won't make it
+
+I want a love that's here to stay
+Baby, believe me
+The kind of love that I can count on everyday, mmm
+
+(What's it gonna be?)
+Mmm, tell me
+(What's it gonna be?)
+Baby, tell me
+(What's it gonna be?)
+Come on, baby
+(What's it gonna be?)
+Hey, hey, you gotta tell me 
+What's it gonna be?
+
+
 

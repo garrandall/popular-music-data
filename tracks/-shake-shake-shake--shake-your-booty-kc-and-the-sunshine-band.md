@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -shake-shake-shake--shake-your-booty-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/shakeshakeshakeshakeyourbooty.html
 name: (Shake Shake Shake) Shake Your Booty
 rankings:
 - end_date: '1976-07-16'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+
+Aah, everybody, get on the floor
+Let's dance
+Don't fight the feeling
+Give yourself a chance
+
+Shake shake shake, shake shake shake
+Shake your booty, shake your booty
+Oh, shake shake shake, shake shake shake
+Shake your booty, shake your booty
+
+Aah, You can, you can do it
+Very well
+You're the best in the world
+I can tell
+
+Oh, Shake shake shake, shake shake shake
+Shake your booty, shake your booty
+Oh, shake shake shake, shake shake shake
+Shake your booty, shake your booty
+Woah, woah, yeah
+
+Shake shake, shake shake
+Aah, Shake shake, shake shake
+
+Aah, Shake shake shake, shake shake shake
+Shake your booty, shake your booty
+Oh, shake shake shake, shake shake shake
+Shake your booty, shake your booty
+
+Aah, Shake shake, shake shake, shake your booty
+Aah, don't fight the feeling
+Shake shake, shake shake, shake your booty
+Aah, give yourself a chance
+
+Shake shake, shake shake, shake your booty
+You can do it, do it
+Shake shake, shake shake, shake your booty
+Come home with mama now
+
+Shake shake, shake shake, shake your booty
+Woo woo hoo
+Shake shake, shake shake, shake your booty
+Aah, run down to sister
+
+Shake shake (come on), shake shake (come on) on your booty
+Aah! do your duty. Aah haa
+Shake shake (come on), shake shake (come on)
+
+
 

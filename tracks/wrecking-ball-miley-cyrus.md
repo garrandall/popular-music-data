@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrecking-ball-miley-cyrus
+lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/wreckingball.html
 name: Wrecking Ball
 rankings:
 - end_date: '2013-09-13'
@@ -135,4 +136,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-12'
 ---
+
+We clawed, we chained our hearts in vain
+We jumped never asking why
+We kissed, I fell under your spell.
+A love no one could deny
+
+Don't you ever say I just walked away
+I will always want you
+I can't live a lie, running for my life
+I will always want you
+
+I came in like a wrecking ball
+I never hit so hard in love
+All I wanted was to break your walls
+All you ever did was wreck me
+Yeah, you, you wreck me
+
+I put you high up in the sky
+And now, you're not coming down
+It slowly turned, you let me burn
+And now, we're ashes on the ground
+
+Don't you ever say I just walked away
+I will always want you
+I can't live a lie, running for my life
+I will always want you
+
+I came in like a wrecking ball
+I never hit so hard in love
+All I wanted was to break your walls
+All you ever did was wreck me
+
+I came in like a wrecking ball
+Yeah, I just closed my eyes and swung
+Left me crashing in a blazing fall
+All you ever did was wreck me
+Yeah, you, you wreck me
+
+I never meant to start a war
+I just wanted you to let me in
+And instead of using force
+I guess I should've let you win
+I never meant to start a war
+I just wanted you to let me in
+I guess I should've let you win
+
+Don't you ever say I just walked away
+I will always want you
+
+I came in like a wrecking ball
+I never hit so hard in love
+All I wanted was to break your walls
+All you ever did was wreck me
+
+I came in like a wrecking ball
+Yeah, I just closed my eyes and swung
+Left me crashing in a blazing fall
+All you ever did was wreck me
+Yeah, you, you wreck me
+Yeah, you, you wreck me
+
+
 

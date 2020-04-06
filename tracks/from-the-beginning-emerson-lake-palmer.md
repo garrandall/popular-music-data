@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: from-the-beginning-emerson-lake-palmer
+lyrics_url: https://www.azlyrics.com/lyrics/emersonlakepalmer/fromthebeginning.html
 name: From The Beginning
 rankings:
 - end_date: '1972-09-01'
@@ -53,4 +54,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
 ---
+
+There might have been things I missed 
+But don't be unkind 
+It don't mean I'm blind 
+Perhaps there's a thing or two 
+
+I think of lying in bed 
+I shouldn't have said 
+But there it is 
+
+You see it's all clear 
+You were meant to be here 
+From the beginning 
+
+Maybe I might have changed 
+And not been so cruel 
+Not been such a fool 
+Whatever was done is done 
+I just can't recall 
+It doesn't matter at all 
+
+You see it's all clear 
+You were meant to be here 
+From the beginning
+
+
 

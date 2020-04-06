@@ -5,6 +5,7 @@ features:
 - Avant
 genres: []
 key: nothing-in-this-world-keke-wyatt-avant
+lyrics_url: https://www.azlyrics.com/lyrics/kekewyatt/nothinginthisworld.html
 name: Nothing In This World
 rankings:
 - end_date: '2002-01-11'
@@ -88,4 +89,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
 ---
+
+Ooh, yeah, oooh, yeah, yeah
+
+I can picture us in the living room
+by the mantle piece
+and youâre telling me youâre loving me
+with your hands on my thighs
+while Iâm staring in your brown eyes
+and the expression on your face
+is telling me you want more than a taste
+so tonight weâre going all the way
+weâll be loving till the break of day
+
+
+Thereâs nothing in this world I wouldnât do for you boy
+I donât care what the others say now that I got you babe
+No one can bring me joy like you girl
+All the little things you do
+Its all about you boo
+
+I can picture us running in the rain
+After a movie then we spark a flame
+Oh I love it when you scream my name
+Going 60 in the 3rd lane
+We pull over to the parking lot
+In the Park that's my favorite spot
+Doing just about anything
+Weâll be going till the birds sing
+
+
+
+I think its bout time that I make you mine
+Oh what your saying to me boy come on break it down
+To find another like you will be a lifetime
+I think I see where youâre going baby let it out let it out
+Listen to me baby got something to say
+Is it really what I think donât take all day
+Forever is what I wanna give to you so what do you say
+Baby I do
+
+
+
+
 

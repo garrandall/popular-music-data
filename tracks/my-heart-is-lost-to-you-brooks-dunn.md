@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-heart-is-lost-to-you-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/myheartislosttoyou.html
 name: My Heart Is Lost To You
 rankings:
 - end_date: '2002-05-31'
@@ -60,4 +61,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
 ---
+
+Maybe it was the moonlight
+The scent of you on the breeze
+Maybe it was your shadow that fell over me
+Such a beautiful stranger
+Eyes darker than coal
+Your first look crossed the desert
+Into my soul
+
+Mi Corzon perdido en ti
+My heart is lost to you
+You have captured my love completely
+My heart is lost to you
+Oh my heart is lost to you
+
+Maybe it was the music
+The way it moved with your hair
+Or the heat of the moment
+That hung in the air
+But when I saw you there dancing
+Mesmerized by the gaze
+There was some kind of magic
+That led me away
+
+
+
+
 

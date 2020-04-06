@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: "malague\xF1a-connie-francis"
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/malaguea.html
 name: "Malague\xF1a"
 rankings:
 - end_date: '1960-08-28'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+
+El amor me llevo hacia ti
+Como tu suave matador
+La constancia de tu querer
+La alegria bajo el bisel
+
+MalagueÃ±a de ojos negros
+MalagueÃ±a de mis sueÃ±os
+Me estoy muriendo de pena
+Por tu, solo tu querer
+
+MalagueÃ±a de bonita
+Te quiero besar
+
+MalagueÃ±a de ojos negros
+MalagueÃ±a de mis sueÃ±os
+Me estoy muriendo de pena
+Por tu, solo tu querer...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: l-o-n-e-l-y-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/lonely.html
 name: L-O-N-E-L-Y
 rankings:
 - end_date: '1965-05-14'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+
+Lonely Lonely 
+The "L" is for the laughter, we shared from the start 
+"O" is for the only girl in my heart 
+The "N" is for the night, you told me we were though 
+For you had found somebody new 
+"E" is for the end of my world, a place I shared with only you 
+Empty, my world is dark 
+Loneliness has just begun 
+The "L" is for the Love that was meant for me only 
+And "Y" Why did you leave me lonely. Lonely
+
+
 

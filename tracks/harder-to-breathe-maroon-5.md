@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harder-to-breathe-maroon-5
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/hardertobreathe.html
 name: Harder To Breathe
 rankings:
 - end_date: '2003-08-29'
@@ -95,4 +96,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
 ---
+
+How dare you say that my behaviour's unacceptable
+So condescending unnecessarily critical
+I have the tendency of getting very physical
+So watch your step 'cause if I do you'll need a miracle
+
+You drain me dry and make me wonder why I'm even here
+This double vision I was seeing is finally clear
+You want to stay but you know very well I want you gone
+Not fit to fuckin' tread the ground that I'm walking on
+
+When it gets cold outside and you got nobody to love
+You'll understand what I mean when I say,
+"There's no way we're gonna give up."
+And like a little girl cries in the face of a monster that lives in her dreams
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+
+What you are doing is screwing things up inside my head
+You should know better you never listened to a word I said
+Clutching your pillow and writhing in a naked sweat
+Hoping somebody someday will do you like I did
+
+When it gets cold outside and you got nobody to love
+You'll understand what I mean when I say,
+"There's no way we're gonna give up."
+And like a little girl cries in the face of a monster that lives in her dreams
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+
+Does it kill
+Does it burn
+Is it painful to learn
+That it's me that has all the control
+
+Does it thrill
+Does it sting
+When you feel what I bring
+And you wish that you had me to hold
+
+When it gets cold outside and you got nobody to love
+You'll understand what I mean when I say,
+"There's no way we're gonna give up."
+And like a little girl cries in the face of a monster that lives in her dreams
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+Is there anyone out there 'cause it's getting harder and harder to breathe?
+
+
 

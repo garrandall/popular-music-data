@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: treat-her-like-a-lady-joe
+lyrics_url: https://www.azlyrics.com/lyrics/joe/treatherlikealady.html
 name: Treat Her Like A Lady
 rankings:
 - end_date: '2000-08-11'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
 ---
+
+Something ain't right, something just ain't right.
+Lord have mercy, babe,
+Tell me when was the last time, you brought her roses home from work.
+Tell me when was the last time, you rubbed her feet when she said they hurt.
+Tell me when was the last time, you bought a card to tell her how you feel.
+Don't even know when was the last time, you lit a candle for a late night meal.
+Tell me, 
+
+How long will it be before you treat her like your queen.
+And how long will it take, before she starts coming home too late.
+And how long will it be, before she starts running in the streets.
+You better the time to treat her like your lady.
+
+You probably don't know when was teh last time,
+You stopped to open her car door.
+And tell me when was the last time, you heard say baby do it once more.
+Tell me when was the last time, you didn't have an argument.
+Don't even know when was the last time, you told the truth about where you been.
+Now if this don't apply to you (if this don't apply to you),
+Keep doing what you do (keep doing what you do).
+But if this shoe fits you well, take a minute just to ask yourself (just 60 seconds now).
+
+
+
+Now see what's old to you, is just like new to the next man.
+What you don't do for her, she'll find somebody else who can.
+If you don't wanna lose, out on the best thing you ever had,
+You better take it from me, you'll only end up just a lonely man,
+See I know what I'm talking about.
+
+
+
+(You better run to her)
+
+
+
+
 

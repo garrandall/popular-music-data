@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-again-aaliyah
+lyrics_url: https://www.azlyrics.com/lyrics/aaliyah/tryagain.html
 name: Try Again
 rankings:
 - end_date: '2000-03-24'
@@ -135,4 +136,121 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
 ---
+
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to, step to, step to, step to, step to, step to, freaky-freaky
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to, step to, step to, step to, step to, step to, freaky-freaky
+Baby girl
+
+What would you do
+To get to me
+What would you say
+To have your way
+Would you give up
+Or try again
+If I hesitated
+To let you in
+
+Now would you be yourself
+Or play your role
+Tell all the boys
+Or keep it low
+If I say no
+Would you turn away
+Or play me off
+Or would you stay
+
+And if at first you don't succeed
+Then dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed
+You can dust it off and try again
+Dust yourself off and try again
+
+I'm into you,
+You into me
+But I can't let it go
+So easily
+Not 'til I see
+What this could be
+Could be eternity
+Or just a week
+
+Ayo, our chemistry
+Is off the chain
+It's perfect now
+But will it change?
+This ain't a "Yes"
+This ain't a "No"
+Just do your thing
+We'll see how it goes
+
+And if at first you don't succeed
+Dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed
+You can dust it off and try again
+Dust yourself off and try again
+
+If you don't wanna throw it all away
+I might be shy on the first date
+What about the next date
+
+I said you don't wanna throw it all away
+I might be buggin' on the first date
+What about the next date
+
+And if at first you don't succeed
+Then dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed
+You can dust it off and try again
+Dust yourself off and try again
+
+And if at first you don't succeed
+You dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed
+You can dust it off and try again
+Dust yourself off and try again
+
+And if at first you don't succeed
+Then you dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed baby
+You can dust it off and try again
+Dust yourself off and try again
+
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to
+Step to, step to, step to, step to
+Step to, step to, freaky-freaky
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to
+Step to, step to, step to, step to
+Step to, step to, freaky-freaky
+
+And if at first you don't succeed
+Then dust yourself off and try again
+You can dust it off and try again
+'Cause if at first you don't succeed
+You can dust it off and try again
+Dust yourself off and try again
+
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to
+Step to, step to, step to, step to
+Step to, step to, freaky-freaky
+It's been a long time, we shouldn't have left you
+Without a dope beat to step to
+Step to, step to, step to, step to
+Step to, step to, freaky-freaky
+
+One more beat
+A new millennium baby
+Let me out
+You guess what it is
+
+
 

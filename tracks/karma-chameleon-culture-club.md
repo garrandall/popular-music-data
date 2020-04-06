@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: karma-chameleon-culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/karmachameleon.html
 name: Karma Chameleon
 rankings:
 - end_date: '1983-12-09'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
 ---
+
+Desert loving in your eyes all the way
+If I listened to your lies would you say
+
+I'm a man without conviction
+I'm a man who doesn't know
+How to sell a contradiction
+You come and go, you come and go
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dream
+Red, gold and green, red, gold and green
+
+Didn't hear your wicked words every day
+And you used to be so sweet I heard you say
+
+That my love was an addiction
+When we cling our love is strong
+When you go you're gone forever
+You string along, you string along
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dream
+Red, gold and green, red, gold and green
+
+Every day is like survival
+You're my lover, not my rival
+Every day is like survival
+You're my lover, not my rival
+
+Hey
+
+I'm a man without conviction
+I'm a man who doesn't know
+How to sell a contradiction
+You come and go, you come and go
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dream
+Red, gold and green, red, gold and green
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dreams
+Red, gold and green, red, gold and green
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dreams
+Red, gold and green, red, gold and green
+
+Karma karma karma karma karma chameleon
+You come and go, you come and go
+Loving would be easy if your colors were like my dreams
+Red, gold and green, red, gold and green
+
+
 

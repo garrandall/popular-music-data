@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: neon-rainbow-the-box-tops
+lyrics_url: https://www.azlyrics.com/lyrics/boxtops/theletter.html
 name: Neon Rainbow
 rankings:
 - end_date: '1967-11-17'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
 ---
+
+Gimme a ticket for an aeroplane
+Ain't got time to take a fast train
+Lonely days are gone, I'm-a goin' home
+Oh, my baby, just-a wrote me a letter
+
+I don't care how much money I gotta spend
+Got to get back to my baby again
+Lonely days are gone, I'm-a goin' home
+Oh, my baby, just-a wrote me a letter
+
+Well, she wrote me a letter
+Said she couldn't live without me no more
+Listen, mister, can't you see I got to get back
+To my baby once-a more
+Anyway, yeah!
+
+Gimme a ticket for an aeroplane
+Ain't got time to take a fast train
+Lonely days are gone, I'm-a goin' home
+Oh, my baby, just-a wrote me a letter
+
+Well, she wrote me a letter
+Said she couldn't live without me no more
+Listen, mister, can't you see I got to get back
+To my baby once-a more
+Anyway, yeah!
+
+Gimme a ticket for an aeroplane
+Ain't got time to take a fast train
+Lonely days are gone, I'm-a goin' home
+Oh, my baby, just-a wrote me a letter
+Oh, go, my baby, just-a wrote me a letter
+
+
 

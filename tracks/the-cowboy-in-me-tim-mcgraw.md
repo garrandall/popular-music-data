@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-cowboy-in-me-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/thecowboyinme.html
 name: The Cowboy In Me
 rankings:
 - end_date: '2002-01-18'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
 ---
+
+I don't know why I act the way I do 
+Like I ain't got a single thing to lose 
+Sometimes I'm my own worst enemy 
+I guess that's just the cowboy in me 
+
+I got a life that most would love to have 
+But sometimes I still wake up fightin' mad 
+At where this road I'm heading down might lead 
+I guess that's just the cowboy in me 
+
+The urge to run, the restlessness 
+The heart of stone I sometimes get 
+The things I've done for foolish pride 
+The me that's never satisfied 
+The face that's in the mirror when I don't like what I see 
+I guess that's just the cowboy in me 
+
+The urge to run, the restlessness 
+The heart of stone I sometimes get 
+The things I've done for foolish pride 
+The me that's never satisfied 
+The face that's in the mirror when I don't like what I see 
+I guess that's just the cowboy in me 
+
+Girl I know there's times you must have thought 
+There ain't a line you've drawn I haven't crossed 
+But you set your mind to see this love on through 
+I guess that's just the cowboy in you 
+
+We ride and never worry about the fall 
+I guess that's just the cowboy in us all
+
+
 

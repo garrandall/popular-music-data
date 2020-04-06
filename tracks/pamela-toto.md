@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pamela-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/pamela.html
 name: Pamela
 rankings:
 - end_date: '1988-02-26'
@@ -83,4 +84,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
 ---
+
+Side by side
+I'll be yours forever
+Yes I will
+Rain or shine
+Any kind of weather
+Any kind
+
+There isn't anything I wouldn't do for you
+Let's take what's getting old and make it new
+
+Eye to eye
+It's a blinding confrontation
+I said you and I
+are a deadly combination
+
+So don't start mixing truth with jealousy
+The road we're on is clear as far as I can see
+
+Pamela
+Don't break this heart of mine
+Just remember it may not heal this time
+Pamela
+There is no second chance
+For the one who leaves it all behind
+
+Black and white
+Always go together
+And on day and night
+You're the precious jewel I treasure
+
+Wanting every part of you is not a crime
+Could it be that you're the one who's wrong this time
+
+Pamela
+Don't break this heart of mine
+Just remember it may not heal this time
+Pamela
+There is no second second chance
+For the one who leaves it all behind
+Leave all
+
+Oh Pamela
+Thousands of miles away but always in my heart
+
+Pamela
+So don't break this heart of mine
+Just remember it may not heal this time
+Pamela
+There is no second chance
+For the one who leaves it all behind
+
+Pamela
+Don't break this heart of mine
+Just remember it may not heal this time
+Pamela
+There is no second chance
+For the one who leaves it all
+Leave all beind
+
+I still love you little girl
+I still love you
+And you know it little Pamela
+I still love you yes I do
+And you know it little Pamela
+Come on
+Oh little Pamela
+
+
 

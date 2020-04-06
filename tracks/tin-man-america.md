@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tin-man-america
+lyrics_url: https://www.azlyrics.com/lyrics/america/tinman.html
 name: Tin Man
 rankings:
 - end_date: '1974-08-30'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
 ---
+
+Sometimes late when things are real
+And people share the gift of gab between themselves
+Some are quick to take the bait
+And catch the perfect prize that waits among the shelves
+
+But Oz never did give nothing to the Tin Man
+That he didn't, didn't already have
+And Cause never was the reason for the evening
+Or the tropic of Sir Galahad.
+
+So please believe in me
+When I say I'm spinning round, round, round, round
+Smoke glass stain bright color
+Image going down, down, down, down
+Soapsuds green like bubbles
+
+Oh, Oz never did give nothing to the Tin Man
+That he didn't, didn't already have
+And Cause never was the reason for the evening
+Or the tropic of Sir Galahad
+
+So please believe in me
+When I say I'm spinning round, round, round, round
+Smoke glass stain bright color
+Image going down, down, down, down
+Soapsuds green like bubbles
+
+No, Oz never did give nothing to the Tin Man
+That he didn't, didn't already have
+And Cause never was the reason for the evening
+Or the tropic of Sir Galahad
+
+So please believe in me
+
+
 

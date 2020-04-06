@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rapture--tastes-so-sweet--iio
+lyrics_url: https://www.azlyrics.com/lyrics/iio/rapture.html
 name: Rapture (Tastes So Sweet)
 rankings:
 - end_date: '2002-02-22'
@@ -67,4 +68,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
 ---
+
+La
+La la la la la la
+La la la la la la
+La
+La la la la la la
+La la la la la la
+
+The night I laid my eyes on you
+I felt everything around me move
+Got nervous when you looked my way
+But you knew all the words to say
+
+And your love slowly moved right in
+All this time, oh my love, where you been
+
+Mi amore
+Don't you know
+My love I want you so
+Sugar
+You make my soul complete
+Rapture tastes so sweet
+
+I'm mesmerised in every way
+You keep me in a state of daze
+Your kisses make my skin feel weak
+Always melting in your heat
+
+Then I soar like a bird in the wind
+Oh I glide like I'm flying through heaven
+
+Mi amore
+Don't you know
+My love I want you so
+Sugar
+You make my soul complete
+Rapture tastes so sweet
+
+Mi amore
+Don't you know
+My love I want you so
+Sugar
+You make my soul complete
+Rapture tastes so sweet
+
+La
+La la la la la la
+La la la la la la
+La
+La la la la la la
+La la la la la la
+
+Mi amore
+Don't you know
+My love I want you so
+Sugar
+You make my soul complete
+Rapture tastes so sweet
+
+Mi amore
+Don't you know
+My love I want you so
+Sugar
+You make my soul complete
+Rapture tastes so sweet
+
+La
+La la la la la la
+La la la la la la
+La
+La la la la la la
+La la la la la la
+
+(La la la la la la)
+(La la la la la la)
+
+
 

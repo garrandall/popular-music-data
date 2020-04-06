@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-last-kiss-the-j--geils-band
+lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/onelastkiss.html
 name: One Last Kiss
 rankings:
 - end_date: '1978-11-24'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
 ---
+
+Just one last kiss
+Before I walk out the door
+I'm gonna hold you tighter
+Than I ever did before
+
+And I, I never promised you
+The things you promised me
+And I, I can't justify
+The way it's gotta be
+
+And the good times are the best times
+The bad times fade away
+The good times are forever
+But now, baby, the last time is today
+
+Just one more night
+There's no time for anymore
+I'm gonna tell you something
+That you've never heard before
+
+But I, I can't find the words
+To ease your lovers pain
+And I, I know the feeling's gone
+I can feel it in my veins
+
+And the good times are the best times
+The bad times fade away
+The good times are forever
+But now, baby, the last time is today
+
+One last kiss
+
+And the good times are the best times
+The bad times fade away
+The good times are forever
+But now, baby, the last time is today
+
+One last kiss
+
+
 

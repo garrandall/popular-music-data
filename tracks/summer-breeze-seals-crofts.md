@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: summer-breeze-seals-crofts
+lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/summerbreeze.html
 name: Summer Breeze
 rankings:
 - end_date: '1972-09-15'
@@ -80,4 +81,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
 ---
+
+
+Summer breeze makes me feel fine
+Blowing through the jasmine in my mind
+Summer breeze makes me feel fine
+Blowing through the jasmine in my mind
+
+See the curtains hanging in the window
+In the evening on a Friday night
+A little light shining through the window
+Lets me know everything's alright
+
+
+
+Sweet days of summer, the jasmine's in bloom
+July is dressed up and playing her tune
+When I come home from a hard days work
+And you're waiting there, not a care in the world
+
+See the smile waiting in the kitchen
+Food cooking and the plates for two
+Feel the arms that reach out to hold me
+In the evening when the day is through
+
+
+
+
 

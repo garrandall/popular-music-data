@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-you-remind-me-nickelback
+lyrics_url: https://www.azlyrics.com/lyrics/nickelback/howyouremindme.html
 name: How You Remind Me
 rankings:
 - end_date: '2001-09-14'
@@ -203,4 +204,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
 ---
+
+Never made it as a wise man
+I couldn't cut it as a poor man stealing
+Tired of living like a blind man
+I'm sick of sight without a sense of feeling
+
+And this is how you remind me
+This is how you remind me
+Of what I really am
+This is how you remind me
+Of what I really am
+
+It's not like you to say sorry
+I was waiting on a different story
+This time I'm mistaken
+For handing you a heart worth breaking
+And I've been wrong, I've been down,
+Been to the bottom of every bottle
+These five words in my head
+Scream "are we having fun yet?"
+
+Yeah, yeah, yeah, no, no
+Yeah, yeah, yeah, no, no
+
+It's not like you didn't know that
+I said I love you and I swear I still do
+And it must have been so bad
+Cause living with me must have damn near killed you
+
+And this is how, you remind me
+Of what I really am
+This is how, you remind me
+Of what I really am
+
+It's not like you to say sorry
+I was waiting on a different story
+This time I'm mistaken
+For handing you a heart worth breaking
+And I've been wrong, I've been down,
+Been to the bottom of every bottle
+These five words in my head
+Scream "are we having fun yet?"
+
+Yeah, yeah, yeah, no, no
+Yeah, yeah, yeah, no, no
+Yeah, yeah, yeah, no, no
+Yeah, yeah, yeah, no, no
+
+Never made it as a wise man
+I couldn't cut it as a poor man stealing
+
+And this is how you remind me
+This is how you remind me
+
+This is how you remind me
+Of what I really am
+This is how you remind me
+Of what I really am
+
+It's not like you to say sorry
+I was waiting on a different story
+This time I'm mistaken
+For handing you a heart worth breaking
+And I've been wrong, I've been down,
+Been to the bottom of every bottle
+These five words in my head
+Scream "are we having fun yet?"
+
+
+Yeah, yeah, are we having fun yet?
+
+Yeah, yeah, no, no.
+
+
 

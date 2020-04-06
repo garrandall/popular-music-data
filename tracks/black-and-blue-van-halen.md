@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-and-blue-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/blackandblue.html
 name: Black And Blue
 rankings:
 - end_date: '1988-05-27'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
+
+Slip n' slide, push it in 
+Bitch sure got the rhythm 
+I'm holding back, yeah, I got control 
+Hooked into her system 
+Don't draw the line 
+Honey, I ain't through with you 
+The harder the better 
+Let's do it 'til we're black and blue 
+Well, you never know when love will come 
+Gotta get it while you got it 
+A little bit of everything, even when it hurts 
+Sure feels good 
+Don't draw the line 
+Honey, I ain't through with you 
+The harder the better 
+Let's do it 'til we're black and blue 
+Yo mama! 
+Black and blue 
+Black and blue, yo mama! 
+Black and blue 
+Gotta, gotta, gotta, get it right 
+Black and blue 
+Don't draw the line 
+Honey, I ain't through with you 
+The harder the better 
+We'll do it 'til we're black and blue 
+Don't draw the line 
+Baby, I ain't through with you 
+The harder the better 
+Let's do it 'til we're black and blue 
+The wetter the better 
+Let's do it 'til we're black and blue 
+Do it 'til we're black and blue 
+The wetter the better 
+Let's do it 'til we're black and blue
+
+
 

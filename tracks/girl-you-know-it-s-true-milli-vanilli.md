@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-you-know-it-s-true-milli-vanilli
+lyrics_url: https://www.azlyrics.com/lyrics/millivanilli/girlyouknowitstrue.html
 name: Girl You Know It's True
 rankings:
 - end_date: '1989-01-13'
@@ -111,4 +112,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
 ---
+
+So what are you doing back?
+
+Well, I set back and thought about
+The things we used to do
+It really meant a lot to me
+You mean a lot to me
+
+I really mean that much to you?
+
+Girl, you know it's true
+
+I'm in love with you, girl, 'cause you're on my mind
+You're the one I think about most every time
+And when you crack a smile in everything you do
+Don't you understand, girl, this love is true
+Your soft, silky hand ... long, sweet and thin
+That candlelight complexion upon your skin
+It lightens up my day, and that's, oh, so true
+Together we are one, separated we're two
+To make you all mine, all mine is my desire
+'Cause you contain a quality that I admire
+To put it plain and simple, you rule my world
+So try to understand
+I'm in love, girl, I'm so in love, girl
+I'm just in love, girl, and this is true
+
+Girl, you know it's true
+Ooh, ooh, ooh, I love you
+Yes, you know it's true
+Ooh, ooh, ooh I love you
+Girl, you know it's true
+My love is for you
+Girl, you know it's true
+My love is for you
+
+This is some sort of thing, girl, I can't explain
+My emotions start up when I hear your name
+Maybe your sweet, sweet voice which rings in my ears
+And stimulates my senses, girl, when you are near
+And with your positive emotions, love, liking and joy
+There's no need to blush, it's like a girl and a boy
+These feelings I get I often wonder why
+So I thought I might discuss this, girl, just you and I
+Now what you wear I don't care, how you dressed before
+The reason that I like you, girl, is for what you are
+If I sit and think about it, you rule my world
+So try to understand
+I'm in love, girl, I'm so in love, girl
+I'm just in love girl, and this is true
+
+Girl, you know it's true
+Ooh, ooh, ooh I love you
+Yes, you know it's true
+Ooh, ooh, ooh I love you
+Girl, you know it's true
+My love is for you
+Girl, you know it's true
+My love
+Girl, you know it's true
+Ooh, ooh, ooh I love you
+Yes, you know it's true
+Ooh, ooh, ooh I love you
+
+
 

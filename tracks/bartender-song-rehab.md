@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bartender-song-rehab
+lyrics_url: https://www.azlyrics.com/lyrics/rehab/bartendersongsittinatabar.html
 name: Bartender Song
 rankings:
 - end_date: '2008-07-18'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
 ---
+
+Bartender I really did it this time
+Broke my parole to have a good time
+When I got home it was 6 A.M.
+The door was locked so I kicked it in
+
+She was tripping on the bills
+I think she was high on some pills
+She threw my shit out into the yard
+Then she called me a bum and slapped me real hard
+
+And in my drunken stupor I did what I should've never done
+Now I'm sitting here
+Talking to you
+Drunk and on the run
+
+I'm sitting at a bar on the inside
+Waiting for my ride on the outside
+She stole my heart in the trailer park
+So I jacked the keys to her fucking car
+And crashed that piece of shit, then stepped away
+
+Ya know Moe I'll probably get ten years
+So just give me beers til they get here
+Yeah I know the sun is coming up
+And y'all are probably getting ready for closing up
+
+But I'm trying to drown my soul
+I'm tired of this life on a dirt road
+Everything that I love is gone
+And I'm tired of hanging on
+
+She got me sitting at a bar on the inside
+Waiting for my ride on the outside
+She stole my heart in the trailer park
+So I jacked the keys to her fucking car
+And crashed that piece of shit and then stepped away
+
+Guess it was meant to be
+Romance is misery
+So much for memories
+And now I'm headed to the penitentiary
+See me on TV
+The next cop series I am a danger
+I guess I should've did something about my anger
+But I'll never learn
+Real things I don't concern
+I pour kerosene on everything I love and watch it burn
+I know it's my fault
+But I wasn't happy it was over
+She threw a fist
+So I crashed that piece of shit Nova
+
+And now I'm going back again
+Back to the pen to see my friends
+And when we all pile up that county van
+They gonna ask me where I've been
+
+I been at a bar on the inside
+Waiting for my ride on the outside
+She stole my heart in the trailer park
+So I jacked the keys to her fucking car
+And crashed that piece of shit, then stepped away
+
+Nah na na na na na na na na na na na na na
+Na na na na na na na na na na na na na na
+
+...
+
+
 

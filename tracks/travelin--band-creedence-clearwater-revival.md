@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: travelin--band-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/travelinband.html
 name: Travelin' Band
 rankings:
 - end_date: '1970-02-06'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
 ---
+
+Seven Thirty Seven comin' out of the sky.
+Oh! Won't you take me down to Memphis on a midnight ride,
+I wanna move.
+
+
+Playin' in a Travelin' Band. Yeah!
+Well, I'm flyin' 'cross the land, try'in' to get a hand,
+Playin' in a Travelin' Band.
+
+Take me to the hotel, Baggage gone, oh, well.
+Come on, come on, won't you get me to my room,
+I wanna move.
+
+
+
+Listen to the radio, Talkin' 'bout the last show.
+Someone got excited, Had to call the State Militia,
+Wanna move.
+
+
+
+Oh! WOW!
+
+Here we come again on a Saturday night
+Oh with your fussin' and a fightin'
+Won't you get me to the rhyme,
+I wanna move.
+
+
+
+Oh! WOW!
+
+Oh! I'm playin' in a Travelin' Band;
+Playin' in a Travelin' Band.
+Won't you get me, take me hand
+Well, I'm playin' in a Travelin' Band,
+Well, I'm flyin' 'cross the land.
+Tryin' to get a hand,
+Playin' in a Travelin' Band, OH! WOW!
+
+Hey!
+
+
 

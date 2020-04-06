@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-the-lonely--know-how-i-feel--roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/onlythelonelyknowhowifeel.html
 name: Only The Lonely (Know How I Feel)
 rankings:
 - end_date: '1960-06-12'
@@ -91,4 +92,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
 ---
+
+Dum-dum-dum-dumdy-doo-wah 
+Ooh-yay-yay-yay-yeah 
+Oh-oh-oh-oh-wah
+Only the lonely 
+Only the lonely
+
+Only the lonely (dum-dum-dum-dumdy-doo-wah)
+Know the way I feel tonight (ooh-yay-yay-yay-yeah)
+Only the lonely (dum-dum-dum-dumdy-doo-wah)
+Know this feeling ain't right (dum-dum-dum-dumdy-doo-wah)
+
+There goes my baby
+There goes my heart
+They're gone forever
+So far apart
+
+But only the lonely
+Know why
+I cry
+Only the lonely
+
+Dum-dum-dum-dumdy-doo-wah
+Ooh-yay-yay-yay-yeah
+Oh-oh-oh-oh-wah
+Only the lonely
+Only the lonely 
+
+Only the lonely (dum-dum-dum-dumdy-doo-wah)
+Know the heartaches I've been through (ooh-yay-yay-yay-yeah)
+Only the lonely (dum-dum-dum-dumdy-doo-wah)
+Know I cry and cry for you (dum-dum-dum-dumdy-doo-wah)
+
+Maybe tomorrow 
+A new romance 
+No more sorrow 
+But that's the chance
+
+You gotta take 
+If your lonely heart breaks 
+Only the lonely 
+
+Dum-dum-dum-dumdy-doo-wah
+
+
 

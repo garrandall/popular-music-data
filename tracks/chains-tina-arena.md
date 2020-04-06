@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chains-tina-arena
+lyrics_url: https://www.azlyrics.com/lyrics/tinaarena/chains.html
 name: Chains
 rankings:
 - end_date: '1996-04-26'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
 ---
+
+Your arms are warm but they make me feel
+As if they're made of cold, cold steel
+A simple kiss like a turnin' key
+A little click and the lock's on me
+
+Can't move my arms
+Can't lift my hands
+I won't admit to where I am
+But I know baby
+
+I'm in chains
+I'm in chains
+
+I pretend I can always leave
+Free to go whenever I please
+But then the sound of my desperate calls
+Echo off these dungeon walls
+
+I've crossed the line from mad to sane
+A thousand times and back again
+I love you baby
+
+I'm in chains
+I'm in chains
+I'm in chains
+I'm in chains
+
+Should have known passin' through the gate
+That once inside I could not escape
+I never thought this could happen to me
+I never thought this is where I'd be
+
+But baby, baby
+Baby, look at me
+I said baby, baby, look at me
+
+I'm in chains
+Baby, baby, I'm in chains
+I'm in chains
+Baby, baby, I'm in chains
+
+I never thought this is where I'd be
+I never thought that this could happen to me
+
+Chains
+
+Baby, baby, I'm in chains
+Chains
+Baby look at me
+Baby, baby, I'm in chains
+I'm in chains
+Baby, baby, I'm in chains
+
+Ooh, ahh, ooh, ahh
+
+Chains
+Baby, baby, I'm in chains
+Chains
+Baby, baby, I'm in chains
+Hey, hey
+
+
 

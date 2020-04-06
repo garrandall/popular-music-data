@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candle-in-the-wind-1997-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/candleinthewind1997.html
 name: Candle In The Wind 1997
 rankings:
 - end_date: '1997-10-17'
@@ -175,4 +176,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
 ---
+
+Goodbye England's Rose 
+May you ever grow in our hearts
+You were the grace that placed itself 
+Where lives were torn apart 
+You called out to our country 
+And you whispered to those in pain 
+Now you belong to heaven 
+And the stars spell out your name
+
+
+And it seems to me you lived your life 
+Like a candle in the wind 
+Never fading with the sunset 
+When the rain set in 
+And your footsteps will always fall here 
+Along England's greenest hills 
+Your candle's burned out long before 
+Your legend ever will
+
+Loveliness we've lost
+These empty days without your smile  
+This torch will always carry
+For our nation's golden child
+And even though we try
+The truth brings us to tears
+All our words cannot express
+The joy you've brought us through the years 
+
+
+
+Goodbye England's Rose 
+May you ever grow in our hearts
+You were the grace that placed itself 
+Where lives were torn apart 
+Goodbye England's Rose 
+From a country lost without your soul
+Who'll miss the wings of your compassion
+More than you'll ever know
+
+
+
+And your footsteps will always fall here 
+Along England's greenest hills 
+Your candle's burned out long before 
+Your legend ever will
+
+
 

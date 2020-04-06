@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saved-by-zero-the-fixx
+lyrics_url: https://www.azlyrics.com/lyrics/fixx/savedbyzero.html
 name: Saved By Zero
 rankings:
 - end_date: '1983-06-03'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
 ---
+
+Maybe someday
+Saved by zero
+I'll be more together
+Stretched by fewer
+Thoughts that leave me
+Chasing after
+My dreams disown me
+Loaded with danger
+
+So, maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+
+Holding on to
+Words that teach me
+I will conquer
+Space around me
+
+So, maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+
+So, maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+Maybe I'll win (saved by zero)
+Who needs to win (saved by zero)
+
+Saved by zero
+
+
 

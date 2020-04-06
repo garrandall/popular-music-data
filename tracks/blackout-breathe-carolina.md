@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blackout-breathe-carolina
+lyrics_url: https://www.azlyrics.com/lyrics/breathecarolina/blackout.html
 name: Blackout
 rankings:
 - end_date: '2011-11-25'
@@ -87,4 +88,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
 ---
+
+Cut up and I can't feel my hands
+No need to chase
+Can you relate?
+Can you keep up the pace like you're dying for this?
+
+And when you say "I'm not okay"
+I left my phone in the cab
+Now you can't get mad
+I'm only getting started
+
+I won't blackout
+This time I've got nothing to waste
+Let's go a little harder
+I'm on fire
+I won't blackout
+I'm on my way
+I'm only getting started
+
+And I can't see your face
+Cigarette the wrong way
+Inhale to the top of my lungs
+I've been dying for this
+
+And when you say "I'm not okay"
+I left my phone in the cab
+Now you can't get mad
+I'm only getting started
+
+I won't blackout
+This time I've got nothing to waste
+Let's go a little harder
+I'm on fire
+I won't blackout
+I'm on my way
+I'm only getting started
+
+I won't blackout
+This time I've got nothing to waste
+Let's go a little harder
+I'm on fire
+I won't blackout
+I'm on my way
+I'm only getting started
+
+This won't stop till I say so
+This won't stop till I say so
+This won't stop till I say so
+Going and going and going and going and go, go
+
+This won't stop till I say so
+This won't stop till I say so
+This won't stop till I say so
+Going and going and going and going and go
+I'm only getting started
+
+I won't blackout
+This time I've got nothing to waste
+Let's go a little harder
+I'm on fire
+I won't blackout
+I'm on my way
+I'm only getting started
+
+I won't blackout
+This time I've got nothing to waste
+Let's go a little harder
+I'm on fire
+I won't blackout
+I'm on my way
+I'm only getting started
+
+This won't stop till I say so
+This won't stop till I say so
+This won't stop till I say so
+Going and going and going and going and go
+I'm only getting started
+
+This won't stop till I say so
+This won't stop till I say so
+This won't stop till I say so
+Going and going and going and going and go
+I'm only getting started
+
+
 

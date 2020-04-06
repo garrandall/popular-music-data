@@ -5,6 +5,7 @@ features:
 - Ellie Goulding
 genres: []
 key: i-need-your-love-calvin-harris-ellie-goulding
+lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/ineedyourlove.html
 name: I Need Your Love
 rankings:
 - end_date: '2013-05-10'
@@ -108,4 +109,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
 ---
+
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free with you tonight
+I need your love
+
+I need your love
+
+I take a deep breath every time I pass your door
+I know you're there but I can't see you anymore
+And that's the reason you're in the dark
+I've been a stranger ever since we fell apart
+And I feel so helpless here
+Watch my eyes are filled with fear
+Tell me do you feel the same
+Hold me in your arms again
+
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free with you tonight
+I need your love
+
+I need your love
+
+Am I dreaming? Will I ever find you now?
+I walk in circles but I'll never figure out
+What I mean to you, do I belong?
+I try to fight this but I know I'm not that strong
+And I feel so helpless here
+Watch my eyes are filled with fear
+Tell me do you feel the same
+Hold me in your arms again
+
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free with you tonight
+I need your love
+
+I need your love
+
+All the years
+All the times
+You have never been to blame
+And now my eyes are open
+And now my heart is closing
+And all the tears
+All the lies
+All the waste
+I've been trying to make a change
+And now my eyes are open
+
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free
+
+
 

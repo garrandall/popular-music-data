@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-the-same-joey-mcintyre
+lyrics_url: https://www.azlyrics.com/lyrics/joeymcintyre/staythesame.html
 name: Stay The Same
 rankings:
 - end_date: '1999-03-05'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
 ---
+
+
+Don't you ever wish you were someone else,
+You were meant to be the way you are exactly.
+Don't you ever say you don't like the way you are. 
+When you learn to love yourself, you're better off by far.
+And I hope you always stay the same, 
+cuz there's nothin' 'bout you I would change.
+
+
+I think that you could be whatever you wanted to be
+If you could realize, all the dreams you have inside.
+Don't be afraid if you've got something to say,
+Just open up your heart and let it show you the way.
+
+
+
+
+Believe in yourself.
+Reach down inside.
+The love you find will set you free.
+Believe in yourself, you will come alive.
+Have faith in what you do.
+You'll make it through.
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-i-have-this-dance-anne-murray
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/couldihavethisdance.html
 name: Could I Have This Dance
 rankings:
 - end_date: '1980-09-12'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
 ---
+
+I'll always remember, 
+the song they were playing,
+The first time we danced and I knew
+
+As we swayed to the music,
+and held to each other,
+I fell in love with you
+
+
+Could I have this dance 
+for the rest of my life,
+Could you be my partner
+every night,
+when we're together
+it feels so right, 
+Could I have this dance
+for the rest of my life
+
+I'll always remember, 
+that magic moment,
+When I held you close to me
+
+As we move together,
+I knew forever, 
+you're all I'll ever need
+
+Could I have this dance 
+for the rest of my life,
+Could you be my partner
+every night,
+when we're together
+it feels so right, 
+Could I have this dance
+for the rest of my life
+
+Could I have this dance 
+for the rest of my life,
+Could you be my partner
+every night,
+when we're together
+it feels so right, 
+Could I have this dance
+for the rest of my life!!
+
+
 

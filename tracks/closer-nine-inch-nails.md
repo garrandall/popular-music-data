@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: closer-nine-inch-nails
+lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/closer.html
 name: Closer
 rankings:
 - end_date: '1994-06-17'
@@ -95,4 +96,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
 ---
+
+You let me violate you, you let me desecrate you
+You let me penetrate you, you let me complicate you
+
+Help me I broke apart my insides, help me I've got no soul to sell
+Help me the only thing that works for me, help me get away from myself
+
+I wanna fuck you like an animal
+I wanna feel you from the inside
+I wanna fuck you like an animal
+My whole existence is flawed
+You get me closer to God
+
+You can have my isolation, you can have the hate that it brings
+You can have my absence of faith, you can have my everything
+
+Help me tear down my reason, help me it's your sex I can smell
+Help me you make me perfect, help me become somebody else
+
+I wanna fuck you like an animal
+I wanna feel you from the inside
+I wanna fuck you like an animal
+My whole existence is flawed
+You get me closer to God
+
+Through every forest, above the trees
+Within my stomach, scraped off my knees
+I drink the honey inside your hive
+You are the reason I stay alive
+
+
 

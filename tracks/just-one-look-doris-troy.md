@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-one-look-doris-troy
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/justonelook.html
 name: Just One Look
 rankings:
 - end_date: '1963-06-14'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
 ---
+
+Just one look and I fell so hard
+In love with you, oh-oh, oh-oh
+I found out how good it feels
+To have your love, oh-oh, oh-oh
+Say you will, will be mine
+Forever and always, oh-oh, oh-oh
+Just one look and I knew
+That you were my only one
+Oh oh-oh oh
+
+I thought I was dreamin' but I was wrong, oh yeah, yeah
+Ah, but I'm gonna keep on schemin'
+Till I can make you, make you my own
+
+So you see, I really care
+Without you, I'm nothin', oh-oh, oh-oh
+Just one look and I know
+I'll get you someday, oh-oh, oh-oh
+
+Just one look, that's all it took, hey
+Just one look, that's all it took, well
+Just one look, that's all it was, baby
+(Just one look, that's all it took)
+You know I love you, baby
+(Just one look, that's all it took)
+I built my world around you
+C'mon, baby
+(Just one look, that's all it took)
+
+
 

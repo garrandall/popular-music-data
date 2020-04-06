@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-your-trouble-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/theresyourtrouble.html
 name: There's Your Trouble
 rankings:
 - end_date: '1998-05-22'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
 ---
+
+Should Have Been Different But
+It Wasn't Different, Was It
+Same Old Story, Dear John, And So Long
+Should Have Fit Like A Glove
+Should Have Fit Like A Ring
+Like A Diamond Ring
+A Token Of True Love
+Should Have All Worked Out
+But It Didn't
+She Should Be Here Now
+But She Isn't
+
+
+There's Your Trouble, There's Your Trouble
+You Keep Seeing Double With The Wrong One
+You Can't See I Love You, You Can't See She Doesn't
+But You Just Keep Holding On
+There's Your Trouble
+
+So Now You're Thinking 'Bout
+All You're Missing -- How
+Deep You're Sinking, Round And Round And Dragging Down
+Why Don't You Cash In Your Chips
+Why Don't You Call It A Loss
+Not Such A Big Loss, Chalk It Up to better luck
+Could Have Been True Love
+But It Wasn't
+It Should All Add Up
+But It Doesn't
+
+
+
+Should Have All Worked Out
+But It Didn't
+She Should Be Here Now
+But She Isn't
+
+
+
+
 

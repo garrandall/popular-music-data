@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-i-am--just-when-i-thought-i-was-over-you--air-supply
+lyrics_url: https://www.azlyrics.com/lyrics/airsupply/hereiam.html
 name: Here I Am (Just When I Thought I Was Over You)
 rankings:
 - end_date: '1981-10-02'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
 ---
+
+Here I am playing with those memories again
+And just when I thought time had set me free
+Those thoughts of you keep taunting me
+
+Holding you, a feeling I never outgrew
+Though each and every part of me has tried
+Only you can fill that space inside
+
+So there's no sense pretending
+My heart it's not mending
+
+Just when I thought I was over you
+And just when I thought I could stand on my own
+Oh baby those memories come crashing through
+And I just can't go on without you
+
+On my own I've tried to make the best of it alone
+I've done everything I can to ease the pain
+But only you can stop the rain
+
+I just can't live without you
+I miss everything about you
+
+Just when I thought I was over you
+And just when I thought I could stand on my own
+Oh baby those memories come crashing through
+And I just can't go on without
+Go on without
+It's just no good without you
+
+
 

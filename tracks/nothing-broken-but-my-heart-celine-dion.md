@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-broken-but-my-heart-celine-dion
+lyrics_url: https://www.azlyrics.com/lyrics/celinedion/nothingbrokenbutmyheart.html
 name: Nothing Broken But My Heart
 rankings:
 - end_date: '1992-08-07'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
 ---
+
+I've been over you for some time now baby
+I don't miss your kiss like before now anymore now
+If you asked me how I'm doin' I'm fine
+All I needed was a little time
+So if you still think that I still need you Baby 
+I really don't know why
+Oh baby, since you left me
+You might think that my world's been torn apart
+But if you see me
+Baby you'll see that
+Nothing's broken, nothing broken but my heart
+
+You won't find no tears in my eyes now baby
+If you think I'm sad that you're gone now
+Then you're wrong now
+If you ask I'll say I'm happy I'm free
+Tell you that's the way I wanna be
+And all those nights we shared together baby
+We'll they don't mean a thing
+
+Oh baby since you left me
+You might think that my world's been torn apart
+But if you see me
+Baby you'll see that 
+Nothing's broken, nothing broken but my heart
+
+So if you still think that I need you baby
+I don't think about you
+I'm happy now without you
+
+Oh baby, you might think my world's been torn apart Oh but you'll see that
+Nothing's broken, nothing broken but my heart
+
+Oh baby since you left me 
+You might think that my world's been torn apart
+But if you see me
+Baby you'll see that
+Nothing's broken, nothing broken but my heart
+Nothing broken, nothing broken but my heart
+
+Baby, you might thing my world's been torn apart
+But nothing's broken, nothing broken but my heart, , ,
+
+
 

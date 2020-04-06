@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-with-me-the-drifters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Drifters/Dance-With-Me
 name: Dance With Me
 rankings:
 - end_date: '1959-10-18'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
 ---
+Dance with me
+Dance with me
+Dance with me
+Dance with me
 
+Dance with me
+Oh hold me closer, closer and closer
+Much closer while the music plays
+
+My little darlin'
+Won't you dance with me?
+Oh hold me tighter, tighter and tighter
+Much tighter while the rhythm sways
+
+Hmm put your lips to mine
+While the music blends
+We're no longer strangers
+Now we're more than friends so
+
+Dance with me
+Dance with me closer, closer and closer
+And maybe we'll be lovers when the music ends
+
+Dance with me
+Dance with me
+Dance with me
+Dance with me
+
+Dance with me
+Dance with me closer, closer and closer
+And maybe we'll be lovers when the music ends
+
+Darlin' won't you please, oh?
+Darlin' won't you please, oh?
+Darlin' won't you please?
+Oh yeah?
+Oh oh oh

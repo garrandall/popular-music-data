@@ -5,6 +5,7 @@ features:
 - Sheryl Crow
 genres: []
 key: picture-kid-rock-sheryl-crow
+lyrics_url: https://www.azlyrics.com/lyrics/kidrock/picture.html
 name: Picture
 rankings:
 - end_date: '2002-12-06'
@@ -144,4 +145,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
+
+
+Livin' my life in a slow hell
+Different girl every night at the hotel
+I ain't seen the sun shine in three damn days
+Been fuelin' up on cocaine and whiskey
+Wish I had a good girl to miss me
+Lord I wonder if I'll ever change my ways
+
+I put your picture away
+Sat down and cried today
+I can't look at you while I'm lyin' next to her
+I put your picture away, sat down and cried today
+I can't look at you, while I'm lyin' next to her
+
+(Ohh-ooh-ooh)
+
+
+I called you last night in the hotel
+Everyone knows but they wont tell
+But their half hearted smiles tell me
+Somethin' just ain't right
+I been waitin' on you for a long time
+Fuelin' up on heartaches and cheap wine
+I ain't heard from you in three damn nights
+
+I put your picture away
+I wonder where you been
+I can't look at you while I'm lyin' next to him
+I put your picture away
+I wonder where you been
+I can't look at you while I'm lyin' next to him
+
+(Ooh-ooh-ooh)
+
+I saw you yesterday with an old friend
+
+
+It was the same old same "how have you been?"
+
+
+Since you been gone, my world's been dark & grey
+
+
+You reminded me of brighter days
+
+
+I hoped you were coming home to stay
+
+I was headed to church
+
+
+I was off to drink you away
+
+
+I thought about you for a long time
+Can't seem to get you off my mind
+I can't understand why we're living life this way
+
+I found your picture today
+I swear I'll change my ways
+I just called to say I want you to come back home
+
+I found your picture today
+I swear I'll change my ways
+I just called to say I want you to come back home
+
+I just called to say, I love you come back home
+
+
 

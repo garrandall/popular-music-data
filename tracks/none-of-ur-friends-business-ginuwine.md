@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: none-of-ur-friends-business-ginuwine
+lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/noneofurfriendsbusiness.html
 name: None Of Ur Friends Business
 rankings:
 - end_date: '1999-12-17'
@@ -67,4 +68,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
 ---
+
+
+It aint none of your friends business
+It aint none of your friends business
+What we will be doin tonight
+We can just hang out all night or grab a bite
+It aint none of your friends business
+It aint none of your friends business
+Whether you get sexed tonight
+Long as we protect ourselves and do it right
+It aint none of your friends business
+It aint none of your friends business
+We can just go to the park
+And lay there till after dark
+At the park
+It aint none of your friends business
+It aint none of your friends business
+We can just go to the movies girl
+Cause tonight it's all your world
+Babygirl
+
+
+Tell your friends, back off of us (cause they're in our business and shit)
+Cause they were the same ones, who hooked us up (but now they are jealous
+and shit)
+Cause they see we are living, ghetto fabulous (and they just cant deal with
+that shit)
+But I dont give a damn, long as its me you trust (cause i cant get down with
+your clique)
+
+
+
+
+Put your trust in me girl, leave your friends alone (they make it hard for
+us and shit)
+And I dont know how many guys, have done you wrong (but I dont get down with
+that shit)
+And I dont know how many guys, who would sing a song (to show you they love
+you thats it)
+But lets look to the future girl, cause babe its on (cause i cant get down
+with your clique)
+
+
+
+
+When I see you with your friends, under my breath, all i can say is
+Mmmm Mmmm Damn Mmmm
+When i see you with your friends, under my breath, all i can say is
+Mmmm Mmmm Damn Mmmm
+When i see you with your friends, under my breath, all i can say is
+Mmmm Mmmm Damn Mmmm
+When i see you with your friends, under my breath, all i can say is
+Mmmm Mmmm Damn Mmmm
+
+
+
+
 

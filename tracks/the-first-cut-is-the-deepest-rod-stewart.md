@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-first-cut-is-the-deepest-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/thefirstcutisthedeepest.html
 name: The First Cut Is The Deepest
 rankings:
 - end_date: '1977-02-18'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
 ---
+
+I would have given you all of my heart
+But there's someone who's torn it apart
+And she's taken just all that I had
+But if you want I'll try to love again
+Baby I'll try to love again but I know
+
+The first cut is the deepest
+Baby I know the first cut is the deepest
+But when it come to being lucky she's cursed
+When it come to loving me she's the worst
+I still want you by my side
+Just to help me dry the tears that I've cried
+And I'm sure going to give you a try
+And if you want I'll try to love again
+Baby I'll try to love again but I know
+
+The first cut is the deepest
+Baby I know the first cut is the deepest
+But when it come to being lucky she's cursed
+When it come to loving me she's the worst
+
+I still want you by my side
+Just to help me dry the tears that I've cried
+But I'm sure gonna give you a try
+'cause if you want I'll try to love again
+Baby I'll try to love again but I know
+
+The first cut is the deepest
+Baby I know the first cut is the deepest
+When it come to being lucky she's cursed
+When it come to loving me she's the worst
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saturday-night-sunday-morning-thelma-houston
+lyrics_url: https://www.azlyrics.com/lyrics/thelmahouston/saturdaynightsundaymorning.html
 name: Saturday Night Sunday Morning
 rankings:
 - end_date: '1979-03-30'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
+
+Were fooled by first impressions
+They're not always true
+You thought that I was made out of ice
+But I caught on fire with you
+
+I sparkled for a moment
+Then I flickered out
+I couldn't feel the flame any more
+But darlin' I'm feelin' it no
+
+Took such a long time to convince me
+You could fill that empty space
+But Saturday night is shining
+On my Sunday morning face
+Saturday night is shining
+On my Sunday morning face
+
+Sunlight is streaming
+Through the open window
+While you're dreaming in my arms
+Took such a long time to convince me
+You could fill that empty space
+But Saturday night is shining
+On my Sunday morning face
+Saturday night is shining
+
+This is the real thing
+Look at me beaming with love
+Saturday night is shining
+On my Sunday morning face
+
+
 

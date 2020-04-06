@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: small-town-boy-bronski-beat
+lyrics_url: https://www.azlyrics.com/lyrics/bronskibeat/thisheart.html
 name: Small Town Boy
 rankings:
 - end_date: '1984-12-28'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-06'
 ---
+
+I've been working
+On the line
+To earn my pay
+To get away
+From all the pressure
+In this town
+When I walk around
+It brings me down
+
+I leave it up
+Up to you
+What you want
+Want me to do
+Keep hearing rumours
+About our love
+I can't go on
+I've had enough
+
+This heart, heart of mine
+It just keeps me rolling on
+You small town boy, you've got everything to fight for
+That old hard rain has fallen once before
+This heart, heart of mine
+It just keeps me from going under
+You smalltime boys, you've got everything to fight for
+Pick up that bag and walk right out that door
+
+Is there relief
+This pain inside
+Can't get it out
+Out of my mind
+What have I done?
+Deserving this?
+Where is the fun
+When you love someone?
+
+
 

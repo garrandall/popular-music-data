@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-the-cradle-will-rock-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/andthecradlewillrock.html
 name: And The Cradle Will Rock
 rankings:
 - end_date: '1980-05-30'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
 ---
+
+Well, they say it's kinda fright'nin' how this younger generation swings. 
+You know, it's more than just some new sensation. 
+Well, the kid is into losin' sleep and he don't come home for half the week. 
+You know, it's more than just an aggravation. 
+And the cradle will rock. 
+Yes, the cradle will rock. 
+And I say, rock on! 
+Rock on! 
+And when some local kid gets down, they try and drum him out of town. 
+They say, "You coulda least faked it, boy." 
+At an early age he hits the street and winds up tied with who he meets, and he's unemployed. 
+And the cradle will rock. 
+Yeah, the cradle will rock. 
+And I say, rock on! 
+Rock on! 
+Have you seen Junior's grades? 
+And when some local kid gets down, they try and drum him out of town. 
+They say, "You coulda least faked it, boy." 
+At an early age he hits the street and winds up tied with who he meets, and he's unemployed.
+His folks are overjoyed. 
+And the cradle will rock. 
+Yeah, the cradle will rock. 
+And I say, rock on! 
+Rock on! 
+Rock on! 
+Rock on!
+
+
 

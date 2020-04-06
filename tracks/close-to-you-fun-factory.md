@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: close-to-you-fun-factory
+lyrics_url: https://www.azlyrics.com/lyrics/deadkennedys/wellpaidscentist.html
 name: Close To You
 rankings:
 - end_date: '1995-03-24'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
 ---
+
+You're a well paid scientist
+You only talk in facts
+You know you're always right
+'Cause you know how to prove it
+Step by step 
+
+A PhD to show you're smart
+With textbook formulas
+But you're used up
+Just like a factory hand 
+
+
+Something is wrong here
+You won't find in on a shelf
+You're well paid
+You're well trained
+You're tied to a rack 
+
+Company cocktails-gotta go
+Say the right thing
+Don't fidget, jockey for position
+Be polite
+In the pyramid you hate
+Sip that scotch
+Get that raise
+This ain't no party at all 
+
+
+
+Cringe and tense up
+Grind your teeth
+And wipe your sweaty palms
+Close your windows driving past
+The low life company bar
+They're making fun of you 
+
+AHHH
+Even you
+You've gotta punch the clock
+Too scared to punch your boss
+When will you crack
+When will you crack
+When will you crack
+When will you open your eyes 
+
+Pull up to your sterile home
+You're drained
+Bite the heads off of your kids
+Chew them well, they taste like you
+Just slam the door 
+
+Assigned here 'cause your company owns the land
+All your colleagues live there too
+Private guards in golf carts
+Keep you safe at home? 
+
+
+
+When will you crack
+When will you crack
+When will you crack
+When will you crack 
+
+The dark shattered underbelly
+Of the American dream
+Avoid it like the plague
+It stares you from your bathroom mirror
+Drown
+
+
 

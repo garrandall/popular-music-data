@@ -5,6 +5,7 @@ features:
 - Akon
 genres: []
 key: baby-i-m-back-baby-bash-akon
+lyrics_url: https://www.azlyrics.com/lyrics/babybash/babyimback.html
 name: Baby I'm Back
 rankings:
 - end_date: '2005-03-04'
@@ -108,4 +109,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
 ---
+
+
+Hoooo
+Yeah
+Said everything that you want me to I'll do it
+Tell me what the word is already 
+
+
+Don't look no farther!
+Baby im back (yeah)
+I'm here to cater to you (anything you want me to, I'll do it)
+Cause Ill be your lover (ill be your lover)
+Ill be your best friend
+Tell me what I gotta do (tell me what I gotta do and ill do it)
+
+
+Now im back in a flesh
+Feelin so blessed, back in your corner suga, suga don't stress
+Forget about the rest; let's go inside, im back in your zone
+Baby im back in your vibe, now I cant be denied I can lie im on ya
+I never ever wanna say sayonara
+Some body told me that the grass was greener
+On the other side andale arriba
+Never really used to be a mean to cheat her
+What I gotta do to be your keeper
+These words comin out the speaker, true love is off the meter
+
+
+
+
+I was gone for a minute but now im home,
+Please forgive me for being a rolling stone,
+Please forgive me let me polish it up like chrome,
+Get off the phone till he swears to leave me alone,
+Let my spark your interest, now there's no more dating on the internet,
+Cause you already know how I get it wet, how I get it so saucy and I get respect,
+You don't have to look no farther, you dealin with the whole enchilada
+You don't have to look no farther, you hotter then a fire starter
+
+
+
+
+I was gone for a minute, (oooohhh) 
+Now im back let me hit it (oooohhh) 
+
+
+
+
 

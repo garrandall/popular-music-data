@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soul-kiss-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/undermyskin.html
 name: Soul Kiss
 rankings:
 - end_date: '1985-10-11'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+
+There are nights when you're as mean
+As a ladder with a broken rung
+When I know your sorry won't make it
+From your heart to your tongue
+And there are nights when you keep pushing me
+And I won't go on
+Cause when I get mad enough darling
+I will be standing my ground
+
+But on a night like this I know I can't win
+I know my soul will burn and blister
+When you slide your silky whisper under my skin
+Oh under my skin
+When you slide your silky whisper under my skin
+
+There are nights when every kiss
+Is an order than I can't obey
+And I can taste the lie coming
+From a mile away
+There are nights when you keep holding me
+But your arms are too tight
+And I don't need what I want
+Cause what I want just don't feel right
+
+But on a night like this I know I can't win
+I know my soul will burn and blister
+When you slide your silky whisper under my skin
+Oh under my skin
+When you slide your silky whisper under my skin
+
+Everywhere that I go, I hear your name
+Spoken in whispers, spoken in shame
+In shame
+
+But on a night like this I know I can't win
+I know my soul will burn and blister
+When you slide your silky whisper under my skin
+Yeah under my skin
+Come and slide your whisper under my skin
+Oh under my skin
+Come and slide your whisper under my skin
+Under my skin
+Ooh under my skin
+
+Come and slide your whisper (under my skin)
+
+
 

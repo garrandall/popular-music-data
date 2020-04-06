@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stir-it-up-johnny-nash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/stiritup.html
 name: Stir It Up
 rankings:
 - end_date: '1973-02-16'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
 ---
+
+Stir it up, little darling
+Stir it up, oh yeah, yeah
+Stir it up, little darling
+
+It's been a long, long time
+Since I had you on my mind
+Now you are here, it's so very clear
+Thereâs so much we could do, just me and you, come on
+
+Stir it up, little darling
+Stir it up, oh yeah, yeah
+Stir it up, little darling
+
+I'll push the wood, light the fire
+Oh, I'll satisfy your heart's desire
+I will stir it every, every minute
+All you have to do, girl, is keep it in it
+
+Stir it up, little darling
+Stir it up, oh yeah
+Stir it up, little darling
+
+I said I'll push the wood, light the fire
+Oh, I'll satisfy your heart's desire
+Girl, I'll stir it every, every minute
+All you have to do is keep it in it
+
+Stir it up, little darling
+Stir it up, little darling
+Stir it up, little darling
+Stir it up (yeah, yeah) little darling
+I said stir it up, little darling
+Baby, stir it up, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-the-rain-billie-myers
+lyrics_url: https://www.azlyrics.com/lyrics/thrivingivory/kisstherain.html
 name: Kiss The Rain
 rankings:
 - end_date: '1997-11-14'
@@ -131,4 +132,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-06'
 ---
+
+Hello
+Can you hear me?
+Am I gettin' through to you?
+Hello
+Is it late there?
+There's a laughter on the line
+And do you swear you're there alone?
+Cause I, I'm trying to explain
+Something's wrong
+But it just don't sound the same
+Why don't you, why don't you, go outside, go outside?
+
+Kiss the rain
+Whenever you need me
+Kiss the rain
+Whenever I'm gone too long
+If your lips feel lonely and thirsty
+Kiss the rain
+And wait for the dawn
+Keep in mind, we're under the same sky
+And the night's, as lonely for me as for you
+If you feel, you can't wait til morning
+Kiss the rain
+Kiss the rain
+
+Hello
+Do you miss me?
+I hear you say you do
+But not the way I'm missing you
+Well, what's new?
+How's the weather?
+Is it stormy where you are?
+Cause I'm so close but it feels like you're so far
+Oh, would it mean anything
+If you knew, what I'm left imagining?
+In my mind, in my mind, would you go, would you go
+Think of me, think of me
+
+Kiss the rain
+Whenever you need me
+Kiss the rain
+Whenever I'm gone too long
+If your lips feel lonely and thirsty
+Kiss the rain
+And wait for the dawn
+Keep in mind, we're under the same sky
+And the night's, as lonely for me as for you
+If you feel, you can't wait til morning
+Kiss the rain
+Kiss the rain
+Kiss the rain
+
+Can you hear me?
+Am I gettin' through to you?
+
+And you're tall over me
+Think of me, think of me, think of me, only me
+
+Kiss the rain
+Whenever you need me
+Kiss the rain
+Whenever I'm gone too long
+If your lips feel lonely and thirsty
+Kiss the rain
+And wait for the dawn
+Keep in mind, we're under the same sky
+And the night's, as lonely for me as for you
+If you feel, you can't wait til morning
+Kiss the rain
+Kiss the rain
+Kiss the rain
+Oh...
+Kiss the rain
+Kiss the rain
+
+
 

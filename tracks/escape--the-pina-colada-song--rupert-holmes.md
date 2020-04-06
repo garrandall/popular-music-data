@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: escape--the-pina-colada-song--rupert-holmes
+lyrics_url: https://www.azlyrics.com/lyrics/jackjohnson/escapethepinacoladasong.html
 name: Escape (The Pina Colada Song)
 rankings:
 - end_date: '1979-10-26'
@@ -91,4 +92,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
 ---
+
+You know I love my lady, we'd been together so long
+We're like a worn-out recording of my favorite song
+So while she lay there sleeping, I read the paper in bed
+And in the personal columns, there was this letter that read
+
+If you like piÃ±a coladas and getting caught in the rain
+If you're not into yoga, if you have half a brain
+If you like making love at midnight in the dunes of the cape
+Then I'm the love that you've looked for, write to me and escape
+
+I didn't think about my lady, I know that sounds kind of mean
+But me and my old lady had fallen into the same old dull routine
+So I wrote to the paper, took out a personal ad
+And though I'm nobody's poet, I thought it wasn't half-bad
+
+Yes, I like piÃ±a coladas, and getting caught in the rain
+I'm not much into health food, but I am into champagne
+I've got to meet you by tomorrow, cut through all this red tape
+At a bar called Scrappy Malloy's, we'll plan our escape
+
+So I waited with high hopes, then she walked in the place
+I knew her smile in an instant, I knew the curve of her face
+It was my own lovely lady, and she said, "Oh, it's you"
+Then we laughed for a moment, and I said, "I never knew"
+
+I never knew you liked piÃ±a coladas, or getting caught in the rain
+And the feel of the ocean, and the taste of champagne
+If you like making love at midnight in the dunes of the cape
+Then you're the lady that I've looked for, come with me and escape
+
+
 

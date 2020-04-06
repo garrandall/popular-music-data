@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-of-a-woman-travis-tritt
+lyrics_url: https://www.azlyrics.com/lyrics/travistritt/loveofawoman.html
 name: Love Of A Woman
 rankings:
 - end_date: '2001-09-21'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
 ---
+
+My baby knows me better that I do
+Funny how a woman has that over a man
+I can do anything with her here beside me
+Leaning on her is where I make my stand 
+
+And where would we be without the love of a woman 
+Standing behind her man even when he's wrong
+The true, pure, undying love of a woman 
+Makes a man a fool to think he can make it alone
+
+My Daddy was a wild one when he was younger
+Everyone told my mamma he'd be hard to tame
+Full of himself, said "Sir" to nobody
+But you ought to see him come running when mamma calls his name
+
+Where would we be without the love of a woman
+Standing behind her man even when he's wrong 
+The true, pure, undying love of a woman 
+Makes a man a fool to think he can make it alone
+
+
+
+A man goes crazy tryin' to catch his feelings
+Too much pride or maybe the words come out wrong
+But that's okay, 'cause he's still her hero
+Steady as a rock, her love keeps holdin' on
+
+Where would we be without the love of a woman
+Standing behind her man even when he's wrong 
+The true, pure, undying love of a woman 
+Makes a man a fool to think he can make it alone
+Makes a man a fool to think he can make it alone
+
+
 

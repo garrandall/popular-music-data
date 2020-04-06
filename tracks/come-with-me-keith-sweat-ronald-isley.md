@@ -5,6 +5,7 @@ features:
 - Ronald Isley
 genres: []
 key: come-with-me-keith-sweat-ronald-isley
+lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/comewithme.html
 name: Come With Me
 rankings:
 - end_date: '1997-06-20'
@@ -52,4 +53,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
 ---
+
+Yeah, what I want you to do tonight
+Is turn your the stereo up real loud
+
+Now for all the fellas out there gettin their groove on
+And for all the ladies out there gettin on with the groove
+This one goes out to you, yeah
+
+Would you mind
+If I kiss your lips a thousand times
+Would you mind
+And baby would you mind 
+If I could just sit here
+Take my time
+Would you mind
+Oh, baby
+
+ - Come with me
+To a place where no love has gone before
+Come with me
+To a place where no love has gone before
+
+Would you mind
+If I run my fingers through your hair, baby
+Would it show you how much I care
+And would you mind
+If I made you scream my name out loud, babe
+The thought of it just drives me wild
+
+
+
+Come and go with me 
+Girl then you will see
+I wanna love you now
+Make your body spin around and around and around and around
+
+
+
+
 

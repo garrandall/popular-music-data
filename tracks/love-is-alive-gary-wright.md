@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-alive-gary-wright
+lyrics_url: https://www.azlyrics.com/lyrics/joecocker/loveisalive.html
 name: Love Is Alive
 rankings:
 - end_date: '1976-04-23'
@@ -115,4 +116,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
+
+Well, I think it's time to get ready
+To realize just what I have found
+I've been only half of what I am
+It's all clear to me now
+
+My heart is on fire, my soul's like a wheel that's turnin'
+My love is alive, My love is alive
+
+There's somethin' inside that's makin' me crazy
+I'll try to keep it together
+'Cause what I say may not happen the same way
+Not to be for ever and ever
+
+My heart is on fire, my soul's like a wheel that's turnin'
+My love is alive, My love is alive
+
+My love is alive
+My love is alive
+
+Is there a movie inside my mind
+Reflectin' the love that you shine on me
+Hold on now, to that feelin'
+Let it flow, let it run, yeah
+
+My heart is on fire, my soul's like a wheel that's turnin'
+My love is alive, My love is alive
+
+My love is alive
+My love is alive
+
+
 

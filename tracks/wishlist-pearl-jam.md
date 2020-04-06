@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wishlist-pearl-jam
+lyrics_url: https://www.azlyrics.com/lyrics/pearljam/wishlist.html
 name: Wishlist
 rankings:
 - end_date: '1998-05-29'
@@ -87,4 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
 ---
+
+I wish I was a neutron bomb, for once I could go off
+I wish I was a sacrifice but somehow still lived on
+I wish I was a sentimental ornament you hung on
+The Christmas tree, I wish I was the star that went on top
+I wish I was the evidence, I wish I was the grounds
+For 50 million hands upraised and open toward the sky
+
+I wish I was a sailor with someone who waited for me
+I wish I was as fortunate, as fortunate as me
+I wish I was a messenger and all the news was good
+I wish I was the full moon shining off a Camaro's hood
+
+I wish I was an alien at home behind the sun
+I wish I was the souvenir you kept your house key on
+I wish I was the pedal brake that you depended on
+I wish I was the verb 'to trust' and never let you down
+
+I wish I was a radio song, the one that you turned up
+I wish...
+I wish...
+
+
 

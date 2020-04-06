@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: long-ago-and-far-away-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/longagoandfaraway.html
 name: Long Ago And Far Away
 rankings:
 - end_date: '1971-10-08'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
 ---
+
+Long ago, a young man sits and plays his waiting game.
+But things are not the same it seems as in such tender dreams.
+Slowly passing sailing ships and Sunday afternoon.
+Like people on the moon I see are things not meant to be.
+
+Where do those golden rainbows end? Why is this song so sad?
+Dreaming the dreams I've dreamed my friend, loving the love I love
+to love is just a word I've heard when things are being said.
+Stories my poor head has told me cannot stand the cold.
+And in between what might have been and what has come to pass,
+a misbegotten guess alas and bits of broken glass.
+
+Where do your golden rainbows end? Why is this song I sing so sad?
+Dreaming the dreams I dream my friend, loving the love I love to love to love to love.
+
+
 

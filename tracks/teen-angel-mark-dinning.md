@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teen-angel-mark-dinning
+lyrics_url: https://www.azlyrics.com/lyrics/markdinning/teenangel.html
 name: Teen Angel
 rankings:
 - end_date: '1959-12-27'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+
+Teen angel
+Teen angel
+Teen angel
+
+That fateful night the car was stalled
+Upon the railroad track
+I pulled you out and we were safe
+But you went running back
+
+Teen angel
+Can you hear me?
+Teen angel
+Can you see me?
+Are you somewhere up above?
+And am I still your own true love?
+
+What was it you were looking for
+That took your life that night
+They said they found my high school ring
+Clutched in your fingers tight
+
+Teen angel
+Can you hear me?
+Teen angel
+Can you see me?
+Are you somewhere up above?
+And am I still your own true love?
+
+Just sweet sixteen, and now you're gone
+They've taken you away
+I'll never kiss your lips again
+They buried you today
+
+Teen angel
+Can you hear me?
+Teen angel
+Can you see me?
+Are you somewhere up above?
+And am I still your own true love?
+
+Teen angel
+Teen angel
+Answer me please
+
+
 

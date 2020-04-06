@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rosanna-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/rosanna.html
 name: Rosanna
 rankings:
 - end_date: '1982-04-23'
@@ -99,4 +100,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
 ---
+
+All I wanna do when I wake up in the morning is see your eyes
+Rosanna, Rosanna
+I never thought that a girl like you could ever care for me, Rosanna
+
+All I wanna do in the middle of the evening is hold you tight
+Rosanna, Rosanna
+I didn't know you were looking for more than I could ever be
+
+Not quite a year since she went away, Rosanna
+Now she's gone and I have to say
+
+
+Meet you all the way, meet you all the way, Rosanna
+Meet you all the way, meet you all the way, Rosanna
+
+I can see your face still shining through the window on the other side
+Rosanna, Rosanna
+I didn't know that a girl like you could make me feel so sad, Rosanna
+
+All I wanna tell you is now you'll never ever have to compromise
+Rosanna, Rosanna
+I never thought that losing you could ever hurt so bad
+
+Not quite a year since she went away, Rosanna
+Now she's gone and I have to say
+
+
+
+
+
+Not quite a year since she went away
+Who is it? Rosanna
+Now she's gone and I have to say
+
+
+
+Meet you all the way, meet you all the way, Rosanna
+Meet you all the way, meet you all the way, Rosanna
+
+
 

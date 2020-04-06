@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-some-lovin--blues-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/bluesbrothers/gimmesomelovin.html
 name: Gimme Some Lovin'
 rankings:
 - end_date: '1980-06-06'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+
+Hey!
+
+Well my temperature's rising and my feet on the floor
+Twenty people rockin' and there wanna go more
+Let me in baby, I don't know what you've got
+but you'd better take it easy, this place is hot
+
+So glad we made it
+So glad we made it
+You gotta
+
+Gimme some lovin' (Gimme some lovin')
+Gimme some lovin' (Gimme gimme some lovin')
+Gimme some lovin'
+Everyday
+Hey hey
+
+Hey!
+
+Well I feel so good, everything is sellin' high
+You'd better take it ease cause the place is on fire
+It's been a hard day and I don't know what to do
+We made it baby and it happened to you
+And I'm
+
+So glad we made it
+So glad we made it
+You gotta
+
+Gimme some lovin' (Gimme some lovin')
+Gimme some lovin' (Gimme gimme some lovin')
+Gimme some lovin'
+Everyday
+
+
 

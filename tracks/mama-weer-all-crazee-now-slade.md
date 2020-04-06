@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mama-weer-all-crazee-now-slade
+lyrics_url: https://www.azlyrics.com/lyrics/slade/mamaweerallcrazeenow.html
 name: Mama Weer All Crazee Now
 rankings:
 - end_date: '1972-11-24'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+
+I don't want to drink my whiskey like you do
+I don't need to spend my money but still do
+
+
+Don't stop now a c'mon
+another drop now c'mon
+I wanna lot now so c'mon
+That's right, that's right
+I said Mama but we're all crazy now
+I said Mama but we're all crazy now
+I said Mama but we're all crazy now
+
+A you told me fool fire water won't hurt me
+A you tease me and all my ladies desert me
+
+
+
+I don't want to drink my whiskey but still do
+I had enough to fill up "H" Hill's left shoe
+
+
+
+Mama mama mama mama oh yeah...
+
+
 

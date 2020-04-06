@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tried-to-love-peter-frampton
+lyrics_url: https://www.azlyrics.com/lyrics/peterframpton/triedtolove.html
 name: Tried To Love
 rankings:
 - end_date: '1977-12-16'
@@ -39,4 +40,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
 ---
+
+What you want from me? 
+Just got myself free 
+Oh yeah 
+Baby what you want from me? 
+Only in a day 
+To change over night? 
+Oo I could see you 
+Tried to love 
+Tried to find the one 
+You'll love forever 
+You'd just a rich baby 
+
+How'd you let him get away from you? 
+I could be walkin' 
+Years ago 
+No one knew my name 
+Watch out now 
+How do I know? 
+Nothin' but what I am 
+This is the picture 
+I don't know why 
+I don't know why I bother 
+But you tried to love 
+I tried to find the one 
+You'll love forever 
+
+I don't know why you come 
+By you're wastin' your time 
+I don't know why you come 
+By nothing left 
+I can't see why you should lie 
+I don't know why you come by 
+I don't know why you come by 
+I can't see why you should lie 
+I don't know why you come by
+
+
 

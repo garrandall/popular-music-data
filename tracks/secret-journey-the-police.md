@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: secret-journey-the-police
+lyrics_url: https://www.azlyrics.com/lyrics/police/secretjourney.html
 name: Secret Journey
 rankings:
 - end_date: '1982-04-16'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
 ---
+
+Upon a secret journey
+I met a holy man
+His blindness was his wisdom
+I'm such a lonely man
+
+And as the world was turning
+It rolled itself in pain
+This does not seem to touch you
+He pointed to the rain
+
+You will see light in the darkness
+You will make some sense of this
+And when you've made your secret journey
+You will find the love you miss
+
+And on the days that followed
+I listened to his words
+I strained to understand him
+I chased his thoughts like birds
+
+You will see light in the darkness
+You will make some sense of this
+And when you've made your secret journey
+You will find the love you miss
+
+You will see light in the darkness
+You will make some sense of this
+You will see joy in this sadness
+You will find this love you miss
+
+And when you've made your secret journey
+You will be a holy man
+
+
+
 

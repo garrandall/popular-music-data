@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stoned-out-of-my-mind-the-chi-lites
+lyrics_url: https://www.azlyrics.com/lyrics/chilites/stonedoutofmymind.html
 name: Stoned Out Of My Mind
 rankings:
 - end_date: '1973-08-10'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
 ---
+
+Baby, when I found out you were lyin'
+Playin' around and connivin'
+Undesired tears I was cryin'
+'Cause sugar coated lies I was buyin'
+
+I was just a backseat driver in a car of love
+Goin' wherever you take me
+Don't know why I put up with the pain
+'Cause nobody else could make me
+
+You got me goin' (stoned out of my mind)
+You got me goin' (stoned) hey, hey (out of my mind)
+You got me goin' (stoned out of my mind)
+You got me goin' (stoned) hey, hey (out of my mind)
+
+When you led me to the water I drank it
+Man, I drank more than I could hold
+When you took my mind and body
+You know you wanna take my soul
+
+Where can I run
+Where can I hide
+Who can I talk to
+Tell me what, what can I do
+
+When you got me goin' (stoned out of my mind)
+You got me goin' (stoned) hey, hey (out of my mind)
+You got me goin' (stoned out of my mind)
+You got me goin' (stoned) hey, hey (out of my mind)
+
+Hee... you got me goin' (stoned out of my mind)
+You got me goin' (stoned) hey, hey (out of my mind)
+Been around with every guy in town (stoned out of my mind)
+Funny but I just can't put you down (stoned out of my mind)
+
+You got me goin' (stoned out of my mind)
+You got me goin' (stoned out of my mind)
+
+
 

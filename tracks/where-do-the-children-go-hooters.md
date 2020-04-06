@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-do-the-children-go-hooters
+lyrics_url: https://www.azlyrics.com/lyrics/hooters/wheredothechildrengo.html
 name: Where Do The Children Go
 rankings:
 - end_date: '1986-04-11'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
 ---
+
+Surrender into the night 
+Silently take my hand 
+Nobody knows what's inside us 
+Nobody understands 
+They handed us down a dream 
+To live in this lonely town 
+But nobody hears the music 
+Only the echo of a hollow sound 
+
+Where do the children go 
+Between the bright night and the darkest day 
+Where do the children go 
+And who's that deadly piper who leads them away 
+
+Together we make our way 
+Passengers on a train 
+Whisper a secret forever 
+Promises in the rain 
+We're leaving it all behind 
+While castles are falling down 
+We're going where no one can find us 
+And if there's a heaven 
+We'll find it somehow 
+
+Where do the children go 
+Between the bright night and the darkest day 
+Where do the children go 
+And who's that deadly piper who leads them away
+
+
 

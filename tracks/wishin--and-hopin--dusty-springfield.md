@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wishin--and-hopin--dusty-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/wishinandhopin.html
 name: Wishin' And Hopin'
 rankings:
 - end_date: '1964-06-26'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
 ---
+
+Wishin' and hopin' and thinkin' and prayin'
+Plannin' and dreamin' each night of his charms
+That won't get you into his arms
+
+So if you're lookin' to find love you can share
+All you gotta do is
+Hold him and kiss him and love him
+And show him that you care
+
+Show him that you care just for him
+Do the things he likes to do
+Wear your hair just for him, 'cause
+You won't get him
+Thinkin' and a-prayin'
+Wishin' and hopin'
+
+Just wishin' and hopin' and thinkin' and prayin'
+Plannin' and dreamin' his kiss is the start
+That won't get you into his heart
+
+So if you're thinkin' how great true love is
+All you gotta do is
+Hold him and kiss him and squeeze him and love him
+Yeah, just do it and after you do, you will be his
+
+(You gotta)
+Show him that you care just for him
+Do the things he likes to do
+Wear your hair just for him, 'cause
+You won't get him
+Thinkin' and a-prayin'
+Wishin' and hopin'
+
+Just wishin' and hopin' and thinkin' and prayin'
+Plannin' and dreamin' his kiss is the start
+That won't get you into his heart
+
+So if you're thinkin' how great true love is
+All you gotta do is
+Hold him and kiss him and squeeze him and love him
+Yeah, just do it and after you do, you will be his
+You will be his, you will be his
+
+
 

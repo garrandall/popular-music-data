@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-hurts-to-be-in-love-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/ithurtstobeinlove.html
 name: It Hurts To Be In Love
 rankings:
 - end_date: '1964-07-24'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
+
+It hurts to be in love, when the only one you love
+Turns out to be someone who's not in love with you.
+It hurts to love her so, when deep down inside you know,
+She will never want you, no matter what you do.
+
+And so you cry a little bit (hurts to be in love)
+Oh you die a little bit (hurts to be in love)
+Day and night, night and day
+It hurts to be in love this way.
+
+How long can I exist?
+Wanting lips I've never kissed
+She gives all her kisses, to somebody else.
+She thinks I'm just a friend
+Though it hurts, I must pretend
+The only way to keep her, is to keep it to myself.
+
+And so I cry a little bit (hurts to be in love)
+Oh I die a little bit (hurts to be in love)
+Day and night, night and day
+It hurts to be in love this way.
+
+And so I cry a little bit (hurts to be in love)
+Oh I die a little bit (hurts to be in love)
+Day and night, night and day
+It hurts to be in love this way.
+
+It hurts to be in love, day and night, night and day
+It hurts to be in love. night and day, day and night
+It hurts to be in love, day and night, night and day...
+
+
 

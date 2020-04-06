@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silhouette-kenny-g
+lyrics_url: https://www.azlyrics.com/lyrics/kennyg/silhouette.html
 name: Silhouette
 rankings:
 - end_date: '1988-11-04'
@@ -75,4 +76,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
 ---
+
+Instrumental
+
+
 

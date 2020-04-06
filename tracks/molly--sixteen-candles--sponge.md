@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: molly--sixteen-candles--sponge
+lyrics_url: https://www.azlyrics.com/lyrics/sponge/molly16candlesdownthedrain.html
 name: Molly (Sixteen Candles)
 rankings:
 - end_date: '1995-08-18'
@@ -79,4 +80,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
 ---
+
+Seen you naked in the bath
+Cigarette stains on your hands
+Wilted flowers in a vase
+I ask "how are you?"
+Yeah, "how are you?"
+
+I see the lipstick on your glass
+I think you're drunk, I start to laugh
+I find your note, the letters ran
+It said "I love you"
+Yeah, "I love you"
+
+Don't ask why, don't ask why
+Don't ask why, don't ask why
+Don't ask why, don't ask why, don't ask why
+
+Sixteen candles down the drain
+
+I watch you passed out forever
+I touch your face, you start to smile
+And on your note is my reply
+"I wish I loved you"
+"I wish I loved you"
+
+Don't ask why, don't ask why
+Don't ask why, don't ask why
+Don't ask why, don't ask why, don't ask why
+
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+
+Don't ask why, don't ask why, don't ask why, don't ask why
+Don't ask why, don't ask why, don't ask why
+
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+Sixteen candles down the drain
+(The drain)
+
+
 

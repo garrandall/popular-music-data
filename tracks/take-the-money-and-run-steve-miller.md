@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-the-money-and-run-steve-miller
+lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/takethemoneyandrun.html
 name: Take The Money And Run
 rankings:
 - end_date: '1976-05-14'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
 ---
+
+This here's a story about Billy Joe and Bobbie Sue
+Two young lovers with nothin' better to do
+Than sit around the house, get high, and watch the tube
+And here is what happened when they decided to cut loose
+
+They headed down to, ooh, old El Paso
+That's where they ran into a great big hassle
+Billy Joe shot a man while robbing his castle
+Bobbie Sue took the money and run
+
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+
+Billy Mack is a detective down in Texas
+You know he knows just exactly what the facts is
+He ain't gonna let those two escape justice
+He makes his livin' off of the people's taxes
+
+Bobbie Sue, whoa, whoa, she slipped away
+Billy Joe caught up to her the very next day
+They got the money, hey
+You know they got away
+They headed down south and they're still running today
+Singin' go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+Go on take the money and run
+
+
 

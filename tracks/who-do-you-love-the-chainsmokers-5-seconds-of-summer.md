@@ -5,6 +5,7 @@ features:
 - 5 Seconds Of Summer
 genres: []
 key: who-do-you-love-the-chainsmokers-5-seconds-of-summer
+lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/whodoyoulove.html
 name: Who Do You Love
 rankings:
 - end_date: '2019-03-01'
@@ -72,4 +73,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
 ---
+
+Yeah
+Found cigarettes in your Fendi coat
+Even though you don't even smoke
+Always changing your access codes
+Yeah, I can tell you no one knew
+Yeah you've been acting so conspicuous
+You flip it on me, say I think too much
+You're moving different when we're making love
+Baby, tell me, tell me
+
+Who do you love, do you love now?
+I wanna know the truth (Woah)
+Who do you love, do you love now?
+I know it's someone new
+You ain't gotta make it easy
+Where you been sleeping?
+This shit is keeping me up at night
+Just admit it
+Who do you love, do you love now?
+I wanna know, I wanna know who
+
+Now, now, who do you, who do you love, love (Yeah)
+Now, now, who do you, who do you love now (Woah)
+Now, now, who do you, who do you love, love (Yeah)
+I wanna know, I wanna know who
+
+Well, keep switching your alibi
+Or stuttering when you reply
+You can't ever look me in the eye
+I can tell, I know you're lyin'
+'Cause you've been acting so conspicuous (Conspicuous)
+You flip it on me say I think too much (Too much)
+We're movin' different when we're making love
+So baby tell me, tell me
+
+Who do you love, do you love now?
+I wanna know the truth (Woah)
+Who do you love, do you love now?
+I know it's someone new
+You ain't gotta make it easy
+Where you been sleeping?
+This shit is keeping me up at night
+Just admit it
+Who do you love, do you love now?
+I wanna know, I wanna know who
+
+Now, now, who do you, who do you love, love (Yeah)
+Now, now, who do you, who do you love now (Woah)
+Now, now, who do you, who do you love, love (Yeah)
+I wanna know, I wanna know who
+
+(Who?) You've been acting so conspicuous
+(Who?) You flip it on me say I think too much
+(Who?) Moving different when we're making love
+(Who?) Baby tell me, tell me
+
+Who do you love, do you love now?
+I wanna know the truth (Woah)
+Who do you love, do you love now?
+I know it's someone new
+You ain't gotta make it easy
+Where you been sleeping?
+This shit is keeping me up at night
+Just admit it
+Who do you love, do you love now?
+I wanna know, I wanna know who
+
+Now, now, who do you, who do you love, love
+Now, now, who do you, who do you love now
+Now, now, who do you, who do you love, love
+Now, now, who do you, who do you love now
+
+You ain't gotta make it easy
+Where you been sleeping?
+This shit is keeping me up at night
+Just admit it
+Who do you love, do you love now?
+I wanna know, I wanna know who
+
+(Who do you, who do you love, love)
+(Now, now, who do you, who do you love now)
+(Now, now, who do you, who do you love, love)
+
+
 

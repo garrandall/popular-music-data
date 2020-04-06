@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: into-your-arms-the-lemonheads
+lyrics_url: https://www.azlyrics.com/lyrics/lemonheads/intoyourarms.html
 name: Into Your Arms
 rankings:
 - end_date: '1993-11-19'
@@ -63,4 +64,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
 ---
+
+I know a place where I can go when I'm alone
+Into your arms, whoa, into your arms I can go
+I know a place that's safe and warm from the crowd
+Into your arms, whoa, into your arms I can go
+
+And if I should fall
+I know I won't be alone
+Be alone anymore
+
+I know a place where I can go when I'm alone
+Into your arms, whoa, into your arms I can go
+I know a place that's safe and warm from the crowd
+Into your arms, whoa, into your arms I can go
+
+So if I should fall
+I know I won't be alone
+Be alone anymore
+
+I know a place where I can go when I'm alone
+Into your arms, whoa, into your arms I can go
+I can go
+
+
 

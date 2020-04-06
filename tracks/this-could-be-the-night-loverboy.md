@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-could-be-the-night-loverboy
+lyrics_url: https://www.azlyrics.com/lyrics/loverboy/thiscouldbethenight.html
 name: This Could Be The Night
 rankings:
 - end_date: '1986-01-24'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
 ---
+
+Ask any girl
+In this lonely world 
+Ask any girl
+She'll say make it last forever 
+
+I'm holding out my hand
+I finally understand 
+So turn out the lights, oh yeah
+We'll make it last forever
+
+I've been down the streets of desire 
+Sometimes I was so uninspired 
+You found what was locked up inside of me 
+
+Oh, whoa, this could be the night
+The night to remember 
+We'll make it last forever 
+This could be the night 
+Oh, to end all nights 
+
+I've always been the one 
+Lovin' on the run 
+That's when you come undone, oh girl 
+Why do you wait for me? 
+
+Out on the borderline
+Between the hurtin' lies 
+And the true emotions
+That make it last forever 
+
+This could be the night
+The night to remember 
+We'll make it last forever 
+This could be the night 
+Oh, to end all nights 
+
+I've been down the streets of desire 
+Sometimes I was so uninspired 
+You found what was locked up inside of me 
+
+This could be the night
+The night to remember 
+We'll make it last forever 
+This could be the night 
+Oh, to end all nights 
+
+This could be the night
+The night to remember 
+We'll make it last forever 
+This could be the night 
+Oh, to end all nights 
+
+To end all nights
+
+
 

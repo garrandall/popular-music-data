@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miss-you-like-crazy-natalie-cole
+lyrics_url: https://www.azlyrics.com/lyrics/eriksantos/missyoulikecrazy.html
 name: Miss You Like Crazy
 rankings:
 - end_date: '1989-04-21'
@@ -83,4 +84,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
 ---
+
+Even though it's been so long
+My love for you keeps going strong
+I remember the things that we used to do
+A kiss in the rain till the sun shines through
+I tried to deny it, but I'm still in love with you
+
+I miss you like crazy, I miss you like crazy
+Ever since you went away, every hour of everyday
+I miss you like crazy, I miss you like crazy
+No matter what I say or do
+There's just no getting over you
+
+I can see the love shinning in your eyes
+And it comes in such a sweet surprise
+If seeing is believing, it's worth the wait
+So hold on and tell me it's not too late
+We're so good together
+We're starting forever now
+
+And I miss you like crazy, I miss you like crazy
+Ever since you went away, every hour of everyday
+I miss you like crazy, I miss you baby
+A love like ours will never end
+Just touch me and we're there again
+
+Just one night
+And we'll have the magic feeling like we used to do
+Hold on tight
+And whatever comes our way we're gonna make it through
+
+If seeing is believing, it's worth the wait
+So hold on and tell me it's not too late
+We're so good together
+We're starting forever now
+
+And I miss you like crazy, I miss you like crazy
+No matter what I say or do
+There's just no getting over you
+And I miss you, baby
+I miss you baby
+
+All the tender love you gave me
+When a feeling gets this strong
+I know the real thing will come along
+And I miss you
+I miss you like crazy baby
+Only your sweet love can make me
+I miss you like crazy
+A love like ours will never end
+Just touch me and we're there again
+I miss you like crazy
+I miss you like crazy
+
+
 

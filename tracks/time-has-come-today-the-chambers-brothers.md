@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-has-come-today-the-chambers-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/timehascometoday.html
 name: Time Has Come Today
 rankings:
 - end_date: '1968-08-16'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+
+Time has come today
+Young hearts can go their way
+Can't put it off another day
+And I don't care what the others say
+'Cause they say we don't listen anyway
+Time has come today, Hey!
+The rules have changed today, Hey!
+I have no place to stay, Hey!
+And I'm thinkin' about the subway, Hey!
+Love has gone away, Hey!
+And tears have come and gone, Hey!
+Oh my God, I have to run, Hey!
+I have no home, Hey!
+I have no home, Hey!
+Now the time has come, Time!
+There's no place to run, Time!
+Might get burned up by the sun, Time!
+
+Well, I've had my fun, Time!
+Well, I've been loved and put aside, Time!
+And I've been crushed by tumblin' tide, Time!
+And my soul's be psychedelicized, Time!
+Now the time has come, Time!
+There are things to realize, Time!
+Time has come today, Time!
+Time has come today, Time!
+Time!
+Now the time has come, Time!
+There are things to realize, Time!
+Time has come today, Time!
+Time has come today, Time!
+Time!
+Now the time has come, Time!
+Time has come today, Time!
+Time has come today, Yeah!
+
+
 

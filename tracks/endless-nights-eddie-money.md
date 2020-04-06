@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: endless-nights-eddie-money
+lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/endlessnights.html
 name: Endless Nights
 rankings:
 - end_date: '1987-04-17'
@@ -83,4 +84,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
 ---
+
+Lover, I just can't believe it's turned 
+You're tearing my life apart 
+There's no simple answer 
+Here I am, just standing in circles 
+
+And the logic is turning me round 
+My mind keeps holding 
+Only one thought 
+
+When you gonna call 
+I think it's worth the time 
+How you gonna change 
+All these endless nights 
+If you could stop 
+Leading me around 
+You're never gonna change 
+All these endless nights 
+
+Tender, the way 
+That you touched me now 
+We were taking our fears away 
+There won't be no reason 
+Just a well rehearsed explanation 
+
+Though the love 
+That is turning inside 
+Keeps on twisting 
+Twisting my mind 
+
+When you gonna call 
+I think it's worth the time 
+How you gonna change 
+All these endless nights 
+If you could stop 
+Leading me around 
+You're never gonna change 
+All these endless, endless nights 
+I wish that you could change 
+All these endless, endless nights 
+
+And the hope 
+That is holding me here 
+It's starting to die, oh, no 
+Is it ever gonna stop 
+
+When you gonna call 
+I think it's worth the time 
+How you gonna change 
+All these endless nights 
+If you could stop 
+Leading me around 
+You're never gonna change 
+All these endless, endless nights 
+I wish that you could change 
+All these endless, endless nights 
+All these endless 
+Endless nights now 
+
+When you gonna call 
+I think it's worth the time 
+I wish that you would call now
+When you gonna change 
+All these endless, endless nights
+
+
 

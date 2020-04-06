@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drink-to-that-all-night-jerrod-niemann
+lyrics_url: https://www.azlyrics.com/lyrics/jerrodniemann/drinktothatallnight.html
 name: Drink To That All Night
 rankings:
 - end_date: '2014-01-24'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
 ---
+
+Pullin' up now, and the parking lot's full
+Gonna ride that cow with a Dallas bull
+Everybody in the ATL is coming
+DJs got those speakers thumping
+Got a black ford not a white Mercedes
+Walking in the front door checking out the ladies
+My buddy says hey boys I'm buying
+The hottest girl in here's giving me the eye and.
+
+Everybody knows, it's gonna be one of those
+I can drink to that all night
+That's the stuff I like
+That's the kind of party makes you throw your hands up high
+Bout to tie one on talking gone gone gone
+Turning all the wrongs into right
+I can drink to that all night
+
+Working on the sweet thing sitting on a bar stool
+Doing shots of Jack girl gonna take it old school
+Singing hell yeah to every song they're playing
+Do ya wanna dance? Baby I'm just saying
+
+Everybody knows, it's gonna be one of those
+I can drink to that all night
+That's the stuff I like
+That's the kind of party makes you throw your hands up high
+Bout to tie one on talking gone gone gone
+Turning all the wrongs into right
+I can drink to that all night
+
+Yeah, I can drink to that all night
+
+Take your cup fill it up
+You can't raise it high enough
+Take your cup fill it up
+You can't raise it high enough
+
+Everybody knows, it's gonna be one of those
+I can drink to that all night
+That's the stuff I like
+That's the kind of party makes you throw your hands up
+I can drink to that all night
+That's the stuff I like
+That's the kind of party makes you throw your hands up high
+Bout to tie one on talking gone gone gone
+Turning all the wrongs into right
+I can drink to that all night
+
+I can drink to that all night
+I can drink to that all night
+
+Take your cup fill it up
+You can't raise it high enough
+Take your cup fill it up
+You can't raise it high enough
+Take your cup fill it up
+You can't raise it high enough
+Take your cup fill it up
+You can't raise it high enough
+
+
 

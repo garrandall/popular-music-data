@@ -5,6 +5,7 @@ features:
 - Jeremih
 genres: []
 key: somebody-natalie-la-rose-jeremih
+lyrics_url: https://www.azlyrics.com/lyrics/natalielarose/somebodyremix.html
 name: Somebody
 rankings:
 - end_date: '2015-02-13'
@@ -112,4 +113,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
 ---
+
+Come on
+Natalie La Rose
+
+
+I wanna rock with somebody (Woah yeah)
+I wanna take shots with somebody (Shots, shots, shots, shots)
+I wanna leave with somebody (Somebody, come on, come on)
+And we ain't gotta tell nobody, we ain't gotta tell nobody (Nobody)
+
+
+Aye, I wanna rock with somebody like you
+I don't know another that could do what you do
+Every night turned up baby girl, I'm Lil Zoo
+Going hard all night and we're gonna play it cool
+And they so nosy (aye)
+Everybody can't be in our business
+They don't know me (aye)
+I want you, God is my witness
+
+
+(You already know me, S-A-G-E)
+Uh, stepped in real Bay Area
+Yeah, swag on perkiness
+Pull up in the foreign, and they automatically thinking
+A nigga like me supposed to live in Eastridge
+Lights, camera, action, get the ball rolling
+Now bring the girls, get 'em all going
+I'm just tryna live like the pallbearer
+And we gon' make noise, let 'em all hear us
+
+
+And you know just what I wanna do
+I wanna rock with somebody (Woah yeah)
+I wanna take shots with somebody (Shots, shots, shots, shots)
+I wanna leave with somebody (Somebody, come on, come on)
+And we ain't gotta tell nobody, we ain't gotta tell nobody (Nobody)
+
+
+Why can't everybody know what's good?
+'Cuz some gon' hate what's new
+We just do our thing, no time to waste
+Always play it cool
+
+
+And at the end of the night when the lights go out
+Will we turn down? Oh no we won't
+(We ain't never turnin' down, we ain't never turnin' down)
+And when they try to make us leave, we turn and say
+We never going ho-ome, ho-ome
+(And you know just what I wanna do)
+
+
+I wanna rock with somebody (Woah yeah)
+I wanna take shots with somebody (Shots, shots, shots, shots)
+I wanna leave with somebody (Somebody, come on, come on)
+And we ain't gotta tell nobody, we ain't gotta tell nobody (Nobody)
+
+
+Troy Ave wanna rock right now
+I came in the spot with the guap to get down
+Money, my watch say it's time to get down
+Over the couch, it's ten toes on the ground
+Now we doin dance moves, coolin' my temples
+Got more chicks they can pull so we get loose
+Order up shots, girl, you don't get juice
+Till them back shots come, then you get juice
+Powder!
+
+
+And at the end of the night when the lights go out
+Will we turn down? Oh no we won't
+(We ain't never turnin' down, we ain't never turnin' down)
+And when they try to make us leave, we turn and say
+We never going ho-ome, ho-ome
+(And you know just what I wanna do)
+
+
+I wanna rock with somebody (Woah yeah)
+I wanna take shots with somebody (Shots, shots, shots, shots)
+I wanna leave with somebody (Somebody, come on, come on)
+And we ain't gotta tell nobody, we ain't gotta tell nobody (Nobody)
+
+
 

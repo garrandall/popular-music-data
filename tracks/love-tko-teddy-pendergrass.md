@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-tko-teddy-pendergrass
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/lovetko.html
 name: Love TKO
 rankings:
 - end_date: '1980-12-05'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
 ---
+
+Looking back over my years
+I guess I shedded some tears
+I told myself time and time again
+This time I'm gonna win
+
+But another fight things ain't right,
+I am losing again
+Take a fool to lose twice
+And start all over again
+
+I think I'd better let it go
+It looks like another love TKO
+Think I'd better let it go (What you mind about it, girl)
+Let it go, baby (Oh Yeah)
+Looks like another love TKO
+
+Tried to take control of love,
+Love took control of me
+Because you lose all thoughts, sense of time
+And have a change of mind
+
+Takin' the bumps and the bruises
+Of all the things of a two-time loser
+Tryin' to hold on, faith is gone
+It's just another sad song
+
+
 

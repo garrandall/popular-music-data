@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-day-another-heartache-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/anotherdayanotherheartache.html
 name: Another Day Another Heartache
 rankings:
 - end_date: '1967-05-05'
@@ -31,4 +32,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+
+Another day
+Another heartache
+Sometimes it just don't pay
+To get up out of bed
+Another day
+Another heartache
+Got to try to keep from
+Going out of my head, oh, yeah
+
+Since you left me by myself
+I spend my lonely nights
+Wondering why (why)
+Why you've gone
+
+And though I try (try)
+I just can't go on
+Knowing every minute
+Of my life is going to be
+
+I try to keep you off my mind
+But it's so hard to do
+Because it hurts (hurts)
+Hurts so deep
+
+I can't stop crying (crying)
+To get my sleep
+It's so lonely being
+Chained to a memory
+
+Another day
+Another heartache
+Another day
+Another heartache
+
+
 

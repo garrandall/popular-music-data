@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-respect-erasure
+lyrics_url: https://www.azlyrics.com/lyrics/erasure/alittlerespect.html
 name: A Little Respect
 rankings:
 - end_date: '1988-12-16'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
 ---
+
+I try to discover
+A little something to make me sweeter
+Oh baby refrain from breaking my heart
+I'm so in love with you
+I'll be forever blue
+That you give me no reason
+Why you're making me work so hard
+
+That you give me no
+That you give me no
+That you give me no
+That you give me no
+
+Soul, I hear you calling
+Oh baby please give a little respect to me
+
+And if I should falter
+Would you open your arms out to me
+We can make love not war
+And live at peace with our hearts
+I'm so in love with you
+I'll be forever blue
+What religion or reason
+Could drive a man to forsake his lover
+
+Don't you tell me no
+Don't you tell me no
+Don't you tell me no
+Don't you tell me no
+
+Soul, I hear you calling
+Oh baby please give a little respect to me
+
+I'm so in love with you
+I'll be forever blue
+That you give me no reason
+You know you're making me work so hard
+
+That you give me no
+That you give me no
+That you give me no
+That you give me no
+
+Soul, I hear you calling
+Oh baby please give a little respect to me
+
+Soul, I hear you calling
+Oh baby please give a little respect to me
+
+
 

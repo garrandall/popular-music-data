@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gold-john-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/johnstewart/gold.html
 name: Gold
 rankings:
 - end_date: '1979-05-25'
@@ -79,4 +80,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
 ---
+
+When the lights go down in the California town
+People are in for the evening
+I jump into my car and I throw in my guitar
+My heartbeat in time with my breathing
+
+Driving over Kanan, singing to my soul
+There's people out there turning music into gold
+
+Ah, my buddy Jim Bass, he's a-working pumping gas
+And he makes two-fifty for an hour
+He's got rhythm in his hands as he's tapping on the cans
+Sings rock and roll in the shower
+
+Driving over Kanan, singing to his soul
+There's people out there turning music into gold
+
+Ah, California girls are the greatest in the world
+Each one a song in the making
+Singing right to me, I can hear the melody
+Story is there for the taking
+
+Driving over Kanan, singing to my soul
+There's people out there turning music into gold
+
+(Ooh)
+
+Driving over Kanan, singing to my soul
+There's people out there turning music into gold
+
+When the lights go down in the California town
+People are in for the evening
+I jump into my car and I throw in my guitar
+My heartbeat in time with my breathing
+
+Driving over Kanan, singing to my soul
+There's people out there turning music into gold
+
+Flying over Kanan, singing to my soul
+People out there turning music into gold
+People out there turning music into gold
+People out there turning music into gold
+
+(Ooh, yeah)
+
+People out there turning music into gold (into gold)
+People out there turning music into gold (into gold)
+People out there turning music into gold (into gold)
+(Yes, babe)
+People out there turning music into gold (into gold)
+Rocking on the radio
+People out there turning music into gold (into gold)
+Slipping down the back road
+People out there turning music into gold (into gold)
+People out there turning music into gold (into gold)
+
+
 

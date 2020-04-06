@@ -5,6 +5,7 @@ features:
 - Kierra "KiKi" Sheard
 genres: []
 key: god-in-me-mary-mary-kierra--kiki--sheard
+lyrics_url: https://www.azlyrics.com/lyrics/marymary/godinme.html
 name: God In Me
 rankings:
 - end_date: '2009-07-24'
@@ -88,4 +89,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
 ---
+
+I just wanna tell the truth, man 
+I just wanna tell the truth, man 
+I just wanna tell the truth, man 
+I just wanna tell the truth, man 
+
+You're so fly, you're so high
+Everybody around you trying to figure out why
+You're so cool, you win all the time
+Everywhere you go, man, you get a lot of shine
+
+Boy like a magnet. Better yet a habit
+Everything you wear people say they gotta have it
+From the sweat suit to the white tee to the Gucci
+You can probably say people wanna get like me
+
+But what they don't know is when you go home
+And get behind closed doors, man, you hit the floor
+And what they can't see is your on your knees
+So the next time you get it just tell 'em
+
+It's the God in me 
+
+You think I'm so fresh
+You think I'm so clean
+You think I'm so sweet
+It's the God in me
+What is it, you think, you see?
+It's the God in me
+
+You see her style, you think she nice
+You look at her whip, you say the whip tight
+You look at her crib, you're thinkin' she paid
+You look at her life, you think she got it made
+
+But everything she got the girl's been given
+She call it a blessing, but you call it living
+When it come to money she can be a hero
+She writes them cheques with a whole lot of zeros
+
+But what you don't know is when she get home
+And get behind closed doors, man, she hit the floor
+And what you can't see is she on her knees
+And if you ask her she'll tell you
+
+It's the God in me 
+
+You think I'm so fresh
+You think I'm so clean
+You think I'm so sweet
+It's the God in me
+
+It's the God in me
+What is it, you think, you see?
+It's the God in me
+
+What is it, you think, you see
+When you see me, you see me?
+You don't know how much I pray
+Don't know how much I gave
+Don't know how much I changed
+I'm just tryna explain
+
+It's the God in me 
+
+You think I'm so fresh
+You think I'm so clean
+You think I'm so sweet
+It's the God in me
+
+What is it, you think, you see?
+It's the God in me
+
+It's the God in me
+God in me
+
+You think I'm so fresh
+My God
+You think I'm so clean
+My God
+You think I'm so sweet
+It's the God in me
+
+
 

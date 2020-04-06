@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rough-boy-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/danzig/roughboy.html
 name: Rough Boy
 rankings:
 - end_date: '1986-04-04'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
 ---
+
+What the hell wrong with me?
+I got a fever of a hundred and three
+Got no bed, ain't got no time
+If you give me just a minute then I'll feel so fine
+
+I am the one who can take your heat
+I'm the one you'll never beat
+I'll give it to you straight, I'll look you in the eye
+If you give me just a minute then I'll show you why
+
+I'm a rough boy
+Oh, I'm a rough boy
+I'll give it to you straight or look you in the eye
+If you give me just a minute, girl, I'll show you why
+
+I don't care what you think of me
+'Cause I'm the one who gonna set you free
+I'll give it to you straight or look you in the eye
+Oh, take a fuckin' minute and I'll show you why
+
+I'm a rough boy
+I'm a rough boy
+And I'll shoot it to you straight, I'll look you in the eye
+If you give me just a minute, girl, I'll tell you why
+
+I'm a rough boy
+I'm a rough boy
+I'll give it to you straight, I'll tell you no lie
+If you give me just a minute, girl, I'll show you why
+
+I'm a rough boy
+I'm a rough boy
+Oh, give it to you straight, I'll tell you no lie
+If you give me just a minute, girl, I'll show you fuckin' why
+
+I'm a rough boy
+I'm a rough boy
+Oh, I'll give it to you straight, I'll give it to you right
+If you give me just a minute, girl, I'll show you why
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-commodores
+lyrics_url: https://www.azlyrics.com/lyrics/commodores/easy.html
 name: Easy
 rankings:
 - end_date: '1977-06-10'
@@ -95,4 +96,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
 ---
+
+Know it sounds funny
+But I just can't stand the pain
+Girl, I'm leaving you tomorrow
+Seems to me girl
+You know I've done all I can
+You see I begged, stole
+And I borrowed
+
+Ooh, that's why I'm easy
+I'm easy like Sunday morning
+That's why I'm easy
+I'm easy like Sunday morning
+
+Why in the world
+Would anybody put chains on me?
+I've paid my dues to make it
+Everybody wants me to be
+What they want me to be
+I'm not happy when I try to fake it!
+No!
+
+Ooh, that's why I'm easy
+I'm easy like Sunday morning
+That's why I'm easy
+I'm easy like Sunday morning
+
+I wanna be high, so high
+I wanna be free to know
+The things I do are right
+I wanna be free
+Just me, babe!
+
+That's why I'm easy
+I'm easy like Sunday morning
+That's why I'm easy
+I'm easy like Sunday morning
+Because I'm easy
+Easy like Sunday morning
+Because I'm easy
+Easy like Sunday morning
+
+
 

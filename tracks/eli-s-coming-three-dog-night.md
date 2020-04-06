@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eli-s-coming-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/eliscoming.html
 name: Eli's Coming
 rankings:
 - end_date: '1969-10-31'
@@ -63,4 +64,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
 ---
+
+Eli's comin'
+Eli's comin' (Eli's a-comin')
+Well, you better hide your heart
+Your loving heart
+Eli's a-comin', and the cards say
+A broken heart
+
+Eli's comin', hide your heart, girl
+Eli's comin', hide your heart, girl
+Girl, Eli's a-comin', you better hide
+Girl, Eli's a-comin', you better hide
+Girl, Eli's a-comin', you better hide
+Girl, Eli's comin', hide your heart, girl (Hide it)
+You better, better hide your heart
+Eli's comin', better walk
+
+Walk but you'll never get away
+No, you'll never get away from the burnin' a-heartache
+I walked to Apollo by the bay
+Everywhere I go, though
+Eli's a-comin' (She walked, but she never got away)
+Eli's a-comin' (She walked, but she never got away)
+Eli's a-comin', and he's comin' to get ya (She walked, but, she walked, but)
+Get down on your knees (She walked, but she never got away)
+
+Eli's comin' (Hide it, hide it, hide it)
+Girl, Eli's a-comin', you better hide
+Girl, Eli's a-comin', you better hide
+Girl, Eli's a-comin', you better hide
+Girl, Eli's comin', hide your heart, girl (Hide it)
+You better, better hide your heart
+Eli's comin', better walk
+
+Walk but you'll never get away
+No, you'll never get away from the burnin' a-heartache
+I walked to Apollo by the bay
+Everywhere I go, though
+Eli's a-comin' (She walked, but she'll never get away)
+Eli's a-comin' (She walked, but she'll never get away)
+Eli's a-comin', and he's comin' to get ya (She walked, but, she walked, but)
+Get down on your knees (She walked, but she'll never get away)
+Get down on your knees
+
+No-no, no-no
+Lord, I said no-no, no-no, no-no
+
+(Hide it) She can
+(Hide it) Hide it
+(Hide it) You better
+(Hide it) Somebody
+(Hide it) You got to
+(Hide it) Oh, my
+(Hide it) Oh-oh-oh-oh-oh-oh-oh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: changes-in-latitudes-changes-in-attitudes-jimmy-buffett
+lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/changesinlatitudeschangesinattitudes.html
 name: Changes In Latitudes Changes In Attitudes
 rankings:
 - end_date: '1977-09-23'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
 ---
+
+I took off for a weekend last month
+Just to try and recall the whole year.
+All of the faces and all of the places,
+wonderin' where they all disappeared.
+I didn't ponder the question too long;
+I was hungry and went out for a bite.
+Ran into a chum with a bottle of rum,
+and we wound up drinkin' all night.
+
+It's those changes in latitudes,
+changes in attitudes nothing remains quite the same.
+With all of our running and all of our cunning,
+If we couldn't laugh, we would all go insane.
+
+
+These changes in latitudes, changes in attitudes,
+Nothing remains quite the same.
+Through all of the islands and all of the highlands,
+If we couldn't laugh we would all go insane
+
+Reading departure signs in some big airport
+Reminds me of the places I've been.
+Visions of good times that brought so much pleasure
+Makes me want to go back again.
+If it suddenly ended tomorrow,
+I could somehow adjust to the fall.
+Good times and riches and son of a bitches,
+I've seen more than I can recall
+
+
+
+I think about Paris when I'm high on red wine,
+I wish I could jump on a plane.
+And so many nights I just dream of the ocean.
+God, I wish I was sailin' again.
+Oh, yesterdays are over my shoulder,
+So I can't look back for too long.
+There's just too much to see waiting in front of me,
+and I know that I just can't go wrong
+with these...
+
+
+
+
 

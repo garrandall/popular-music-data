@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: firestarter-the-prodigy
+lyrics_url: https://www.azlyrics.com/lyrics/prodigy/firestarter.html
 name: Firestarter
 rankings:
 - end_date: '1997-01-24'
@@ -87,4 +88,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-31'
 ---
+
+I'm the trouble starter, punkin' instigator
+I'm the fear addicted, danger illustrated
+
+I'm a firestarter, twisted firestarter
+You're the firestarter, twisted firestarter
+I'm a firestarter, twisted firestarter
+
+I'm the bitch you hated, filth infatuated â yeah
+I'm the pain you tasted, well intoxicated
+
+I'm a firestarter, twisted firestarter
+You're the firestarter, twisted firestarter
+
+I'm the self inflicted, mind detonator â yeah
+I'm the one infected, twisted animator
+
+I'm a firestarter, twisted firestarter
+You're the firestarter, twisted firestarter
+I'm a firestarter, twisted firestarter
+
+
 

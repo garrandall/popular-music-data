@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: footstompin--music-grand-funk-railroad
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/footstompinmusic.html
 name: Footstompin' Music
 rankings:
 - end_date: '1972-01-14'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
 ---
+
+Come on everybody
+We're gonna have a good time
+Gimme all the love that's in ya
+I'm gonna give ya mine
+
+I wanna hear some hand clappin
+I want you to get in the groove
+We're gonna play this footstompin' music
+Everybody get up and groove
+
+Does everybody want to?
+Does everybody want to?
+Does everybody want to?
+
+Everybody want to
+Everybody want to
+Everybody want to
+
+Come on, right now
+Everybody
+
+
 

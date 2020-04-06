@@ -5,6 +5,7 @@ features:
 - KeKe Wyatt
 genres: []
 key: my-first-love-avant-keke-wyatt
+lyrics_url: https://www.azlyrics.com/lyrics/avant/myfirstlove.html
 name: My First Love
 rankings:
 - end_date: '2000-11-10'
@@ -88,4 +89,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-17'
 ---
+
+
+Silhouette of a perfect frame
+Shadows of your smile, will always remain (always remain)
+Beginners love, soon fades away ah baby
+We go on, I will always
+
+
+long as I live (long as I live)
+you will be
+my first love (ah baby, you and only)
+long as I live (long as I live)
+you will be my first love
+and I choose you again.
+
+
+I'll keep an old candy-coated, valentine
+Memories of you, you when you were mine
+A tarnished ring, on a tarnished chain
+Times keep changing
+Come sun or rain
+
+
+long as I live (long as I live)
+you will be
+my first love (and my only love)
+long as I live (long as I live)
+you will be my first love
+and I choose you again.
+
+
+see as long as i live
+
+long as I live
+
+i like it baby, sing to me
+
+oh you'll always be my first love
+
+you'll be mine and I'll choose you again
+oooooooooooooooooooo oooo
+
+
+ooooooooo ooo
+a tarnished ring
+on a tarnished chain oh
+
+times keep changing,
+come sun or rain
+
+
+
+
+long as I live baby
+
+you will always be
+
+I'll always love you baby,
+my first love
+
+for the rest of my life
+you will always be
+
+my, oh lady
+
+oh babe
+
+
 

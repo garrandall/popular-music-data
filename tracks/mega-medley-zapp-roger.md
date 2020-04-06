@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: mega-medley-zapp-roger
+lyrics_url: https://www.azlyrics.com/lyrics/zapp/megamedley.html
 name: Mega Medley
 rankings:
 - end_date: '1993-08-13'
@@ -68,4 +69,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-13'
 ---
+
+More bounce
+More bounce
+More bounce
+More bounce
+
+More bounce to the ounce (Much more bounce)
+More bounce to the ounce (Much more bounce)
+More bounce to the ounce
+More bounce to the ounce
+
+Do it, do it, Roger, do it
+Do it, do it, Roger, do it (Wanna do it, girl)
+
+Dance-dance-dance-dance
+I wanna see you, girl
+Dance-dance-dance-dance
+
+I wanna see you, girl
+Movin' on the dance floor
+Ooh, the way you move
+You blow my mind, girl
+
+Good God
+Dance
+Uh, good, Good
+
+Baby, baby, baby, baby
+So ruff, so tuff out here, baby
+So ruff, so tuff out here, baby
+
+I can make you dance (Now baby, dance now)
+I can make you dance (Now baby, dance now)
+I can make you dance (Now baby, dance now)
+
+I can make you dance if you want me to
+I can make you dance-dance-dance-dance-dance-dance
+
+Ooh...
+Let me do my thing
+Ooh...
+Wanna do my thing, baby
+Shoo...
+Now dig my funky thing
+
+Said I wanna blow (Doo wa)
+Just let me blow (Doo wa ditty)
+Blow my thing, baby
+Blow my thing (Doo wa ditty)
+
+Said I wanna blow (Doo wa)
+Just let me blow (Doo wa ditty)
+Blow my thing, baby
+Blow my thing (Doo wa ditty)
+
+Oh, oh, oh, I heard it through the grapevine
+Somebody told me 'bout your plans to leave me
+Grapevine
+I heard it through the grapevine
+Oh, oh, oh, I heard it through the grapevine
+Oh, oh, oh, I heard it through the grapevine
+Oh, oh, oh, I heard it through the grapevine
+Oh, oh, oh, I heard it through the grapevine
+
+
 

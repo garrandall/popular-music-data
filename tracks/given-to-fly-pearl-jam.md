@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: given-to-fly-pearl-jam
+lyrics_url: https://www.azlyrics.com/lyrics/pearljam/giventofly.html
 name: Given To Fly
 rankings:
 - end_date: '1998-01-30'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-09'
 ---
+
+He could've tuned in, tuned in
+But he tuned out
+A bad time, nothing could save him
+Alone in a corridor, waiting, locked out
+He got up outta there, ran for hundreds of miles
+He made it to the ocean, had a smoke in a tree
+The wind rose up, set him down on his knee
+
+A wave came crashing like a fist to the jaw
+Delivered him wings, "Hey, look at me now"
+Arms wide open with the sea as his floor
+Oh, power, oh
+
+He's.. flying
+Whole
+High.. wide, oh
+
+He floated back down 'cause he wanted to share
+His key to the locks on the chains he saw everywhere
+But first he was stripped and then he was stabbed
+By faceless men, well, fuckers
+He still stands
+
+And he still gives his love, he just gives it away
+The love he receives is the love that is saved
+And sometimes is seen a strange spot in the sky
+A human being that was given to fly
+
+High.. flying
+Oh, oh
+High.. flying
+Oh, oh
+He's flying
+Oh, oh
+
+
 

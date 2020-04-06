@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-sacrifice-creed
+lyrics_url: https://www.azlyrics.com/lyrics/creed/mysacrifice.html
 name: My Sacrifice
 rankings:
 - end_date: '2001-11-02'
@@ -123,4 +124,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
 ---
+
+Hello my friend, we meet again
+It's been awhile, where should we begin?
+Feels like forever
+Within my heart are memories
+Of perfect love that you gave to me
+Oh, I remember 
+
+When you are with me, I'm free
+I'm careless, I believe
+Above all the others we'll fly
+This brings tears to my eyes
+My sacrifice
+
+We've seen our share of ups and downs
+Oh how quickly life can turn around
+In an instant
+It feels so good to reunite
+Within yourself and within your mind 
+Let's find peace there
+
+When you are with me, I'm free
+I'm careless, I believe
+Above all the others we'll fly
+This brings tears to my eyes
+My sacrifice
+
+I just want to say hello again
+I just want to say hello again
+
+When you are with me I'm free
+I'm careless, I believe
+Above all the others we'll fly
+This brings tears to my eyes
+Cause when you are with me I am free
+I'm careless, I believe
+Above all the others we'll fly
+This brings tears to my eyes
+My sacrifice, My sacrifice
+
+I just want to say hello again
+I just want to say hello again
+
+My sacrifice.
+
+
 

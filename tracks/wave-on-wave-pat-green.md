@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wave-on-wave-pat-green
+lyrics_url: https://www.azlyrics.com/lyrics/patgreen/waveonwave.html
 name: Wave On Wave
 rankings:
 - end_date: '2003-09-05'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
 ---
+
+Mile upon mile I got no direction
+We're all playing the same game
+We're all looking for redemption
+Just afraid to say the name
+So caught up now in pretending
+What we're seeking is the truth
+I'm just looking for a happy ending
+All I'm looking for is you
+
+It came upon me wave on wave
+You're the reason I'm still here, yeah
+Am I the one you were sent to save
+And it came upon me wave on wave
+
+I wandered out onto the water
+And I thought that I might drown
+I don't know what I was after
+Just know I was going down
+That's when she found me
+Not afraid anymore
+She said, "You know I always had you baby"
+Just waiting for you to find what you were looking for
+
+It came upon me wave on wave
+You're the reason I'm still here, yeah
+Am I the one you were sent to save
+And it came upon me wave on wave
+
+Wave on wave
+Wave on wave
+
+And it came upon me wave on wave
+You're the reason I'm still here, yeah
+Am I the one you were sent to save
+And it came upon me wave on wave
+
+The clouds broke and the angels cried
+You ain't gotta walk alone
+That's why he put me in your way
+And it came upon me wave on wave
+
+Yeah it came upon me wave on wave
+You're the reason I'm still here, yeah
+Am I the one you were sent to save
+And it came upon me wave on wave
+
+Yeah it came upon me wave on wave
+You're the reason I'm still here, yeah
+Am I the one you were sent to save
+And it came upon me wave on wave
+Wave on!
+
+
 

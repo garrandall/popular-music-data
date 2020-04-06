@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-blindness-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/sweetblindness.html
 name: Sweet Blindness
 rankings:
 - end_date: '1968-10-04'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
 ---
+
+Let's go down by the grapevine
+Drink my daddy's wine, get happy
+Down by the grapevine
+Drink my daddy's wine, get happy
+
+Happy, oh, sweet blindness
+A little magic
+A little kindness
+Oh, sweet blindness
+All over me
+
+Four leaves on a clover
+I'm just a bit of a shade hungover
+Come on, baby, do a slow float
+You're a good looking riverboat
+And ain't that sweet eyed
+Blindness good to me
+
+Let's go down by the grapevine
+Drink my daddy's wine, good morning
+Down by the grapevine
+Drink my daddy's wine, good morning
+
+Morning, oh, sweet blindness
+A little magic
+A little kindness
+Oh, sweet blindness
+All over me
+
+Please don't tell my mother
+I'm a saloon and a moonshine lover
+Come on, baby, do a slow float
+You're a good lookin' riverboat
+And ain't that sweet eyed
+Blindness good to me
+
+Don't ask me cause
+I ain't gonna tell you
+What I've been drinking
+Ain't gonna tell you
+What I've been drinking
+Ain't gonna tell you
+What I've been drinking
+Wine, of wonder
+Wonder by the way
+
+Oh, sweet blindness
+A little magic
+A little kindness
+Oh, sweet blindness
+All over me
+
+Don't let daddy hear it
+He don't believe in
+The gin mill spirit
+Don't let daddy hear it
+He don't believe in
+The gin mill spirit
+
+Come on, baby, do a slow float
+You're a good looking riverboat
+And ain't that sweet eyed
+Blindness good to me
+
+Blindness, sweet eyed blindness
+Now ain't that sweet eyed
+Blindness good to me
+
+
 

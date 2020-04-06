@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-bop-cyndi-lauper
+lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/shebop.html
 name: She Bop
 rankings:
 - end_date: '1984-07-27'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
 ---
+
+We-hell-I see them every night in tight blue jeans -
+In the pages of a blue boy magazine
+Hey I've been thinking of a new sensation
+I'm picking up - good vibration -
+Oop - she bop
+
+Do I wanna go out with a lion's roar
+Huh, yea, I wanna go south n get me some more
+Hey, they say that a stitch in time saves nine
+They say I better stop - or I'll go blind
+Oop - she bop - she bop
+
+She bop--he bop--a--we bop
+I bop--you bop--a--they bop
+Be bop--be bop--a--lu--she bop,
+I hope He will understand
+She bop--he bop--a--we bop
+I bop--you bop--a--they bop
+Be bop--be bop--a--lu--she bop,
+Oo--oo--she--do--she bop--she bop
+
+
+
+Hey, hey - they say I better get a chaperone
+Because I can't stop messin' with the danger zone
+No, I won't worry, and I won't fret
+Ain't no law against it yet
+Oop - she bop - she bop
+
+She bop - he bop - we bop...
+
+
 

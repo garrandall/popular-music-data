@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-surrender-john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/sweetsurrender.html
 name: Sweet Surrender
 rankings:
 - end_date: '1975-01-03'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
 ---
+
+Lost and alone on some forgotten highway, traveled by many, remembered by few.
+Looking for something that I can believe in,
+looking for something that I'd like to do with my life.
+There's nothing behind me and nothing that ties me to
+something that might have been true yesterday.
+Tomorrow is open and right now it seems to be more than enough
+To just be here today, and I don't know what the future is holding in store,
+I don't know where I'm going, I'm not sure where I've been.
+There's a spirit that guides me, a light that shines for me,
+my life is worth the living, I don't need to see the end.
+
+Sweet, sweet surrender, live, live without care,
+like a fish in the water, like a bird in the air.
+Sweet, sweet surrender, live, live without care,
+like a fish in the water, like a bird in the air.
+
+Lost and alone on some forgotten highway, traveled by many, remembered by few.
+Looking for something that I can believe in,
+looking for something that I'd like to do with my life.
+There's nothing behind me and nothing that ties me to
+something that might have been true yesterday.
+Tomorrow is open and right now it seems to be more than enough
+To just be here today, and I don't know what the future is holding in store,
+I don't know where I'm going, I'm not sure where I've been.
+There's a spirit that guides me, a light that shines for me,
+my life is worth the living, I don't need to see the end.
+
+Sweet, sweet surrender, live, live without care,
+like a fish in the water, like a bird in the air.
+Sweet, sweet surrender, live, live without care,
+like a fish in the water, like a bird in the air.
+Sweet, sweet surrender, live, live without care,
+like a fish in the water, like a bird in the air.
+
+
 

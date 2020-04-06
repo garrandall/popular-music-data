@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-i-make-you-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/howdoimakeyou.html
 name: How Do I Make You
 rankings:
 - end_date: '1980-02-08'
@@ -71,4 +72,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
 ---
+
+You're a doll
+Your eyes see all
+And how do I make you
+How do I make you
+How do I make you
+Wanna see me
+
+You're so young
+But your feelings are deep
+And how do I make you
+How do I make you
+How do I make you
+Feel for me
+
+You put your head on my pillow
+And you're fast asleep
+And how do I make you
+How do I make you
+How do I make you
+Dream about me
+
+Ooh, ooh
+Ooh, ooh, baby
+The world's a wall of ice
+You're gonna need someone
+To treat you warm and keep you nice
+
+I like the way you dance
+The way you spin
+And how do I make you
+How do I make you
+How do I make you
+Spin for me
+
+
+
+You put your head on my pillow
+And you're fast asleep
+And how do I make you
+How do I make you
+How do I make you
+Dream about me
+Dream about me
+Dream about me
+Whoooa, dream about me
+Dream about me
+Whoooa, dream about me
+Dream about me
+Whoooa, dream about me
+Dream about me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bitter-tears-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/bittertears.html
 name: Bitter Tears
 rankings:
 - end_date: '1991-04-12'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
 ---
+
+In the mist
+Of my endless search
+The best in life
+Becomes clear
+
+The rest just begins
+To fade by itself
+That's a trick I learnt
+Though it took so long
+
+Bitter tears taste so sweet
+I'm seeing my way
+For the first time in years
+When the love around
+Begins to suffer
+And you can't find love
+In one
+In one another
+Push away those bitter tears
+Bitter tears
+
+And I thought I was doing no wrong
+And I thought I was doing no wrong
+
+In the hour
+Of your needs
+Lips are trembling
+Cause your gonna be free
+Realise what were doing here
+The time is right to kill your fears
+
+Bitter tears taste so sweet
+I'm seeing my way
+For the first time in years
+When the love around
+Begins to suffer
+And you can't find love
+In one
+In one another
+Push away those bitter tears
+Bitter tears
+
+An I though I was doing no wrong
+Push away those bitter tears
+Thats what they call doing no wrong
+Thats what they call doing no wrong
+
+Push away those bitter tears
+Push away those bitter tears
+Push away those bitter tears
+
+Thats what they call doing no wrong
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: freak-like-me-adina-howard
+lyrics_url: https://www.azlyrics.com/lyrics/adinahoward/freaklikeme.html
 name: Freak Like Me
 rankings:
 - end_date: '1995-02-17'
@@ -127,4 +128,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
 ---
+
+Let me lay it on the line 
+I got a little freakiness inside 
+And you know that the man 
+Has got to deal with it 
+I don't care what they say 
+I'm not about to pay nobody's way 
+'Cause it's all about the dog in me 
+Mm-hmm 
+
+
+I want to freak in the morning 
+A freak in the evening just like me 
+I need a roughneck brother 
+That can satisfy me just for me 
+If you are that kind of man 
+'cuz i'm that kind of girl 
+I got a freaky secret,everybody sing 
+'cause we don't give a damn about a thing 
+
+
+cause I will be a freak 
+until the day until the dawn 
+and we can pump, pump 
+all through the night till the early morn 
+come on and I will take you 
+around the 'hood on a gangsta lean 
+'cause we can pump, pump 
+any time of day it's all good for me 
+
+Boy, you're moving kind of slow 
+You got to keep it up 
+Now there you go 
+There's just one thing that a man must do 
+Mm-hmm 
+
+I'm packing all the flavor you need 
+I got you shook up on your knees 
+'cause it's all about the dog in me 
+
+
+I want to freak in the morning 
+A freak in the evening just like me 
+I need a roughneck brother 
+That can satisfy me just for me 
+If you are that kind of man 
+'cuz i'm that kind of girl 
+I got a freaky secret,everybody sing 
+'cause we don't give a damn about a thing 
+
+
+cause I will be a freak 
+until the day until the dawn 
+and we can pump, pump 
+all through the night till the early morn 
+come on and I will take you 
+around the 'hood on a gangsta lean 
+'cause we can pump, pump 
+any time of day it's all good for me 
+
+One to the two, to the two, to the three 
+Adina, do you want to get freaky with me?..
+
+
+I want to freak in the morning 
+A freak in the evening just like me 
+I need a roughneck brother 
+That can satisfy me just for me 
+If you are that kind of man 
+'cuz i'm that kind of girl 
+I got a freaky secret,everybody sing 
+'cause we don't give a damn about a thing 
+
+
+cause I will be a freak 
+until the day until the dawn 
+and we can pump, pump 
+all through the night till the early morn 
+come on and I will take you 
+around the 'hood on a gangsta lean 
+'cause we can pump, pump 
+any time of day it's all good for me 
+
+One to the two, to the two, to the three 
+Adina, do you want to get freaky with me?..
+
+
+
 

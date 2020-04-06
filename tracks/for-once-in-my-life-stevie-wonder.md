@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-once-in-my-life-stevie-wonder
+lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/foronceinmylife.html
 name: For Once In My Life
 rankings:
 - end_date: '1968-11-08'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
 ---
+
+For once in my life I have someone who needs me
+Someone I've needed so long
+For once, unafraid, I can go where life leads me
+Somehow I know I'll be strong
+
+For once I can touch what my heart used to dream of
+Long before I knew
+Oooh Someone warm like you
+Would make my dream come true
+
+Yeah yeah yeah
+
+For once in my life I won't let sorrow hurt me
+Not like it hurt me before
+For once, I have something I know won't desert me
+I'm not alone anymore
+
+For once, I can say, this is mine, you can't take it
+As long as I know I have love, I can make it
+For once in my life, I have someone who needs me
+
+HE He He Hey yeah
+Ooh baby ooh baby
+
+For once in my life I won't let sorrow hurt me
+Not like it hurt me before
+For once, I have something I know won't desert me
+I'm not alone anymore
+
+For once, I can say, this is mine, you can't take it
+Long as I know I have love, I can make it
+For once in my life, I have someone who needs me
+
+For once in my life
+Yeah Somebody like my
+Ooh baby
+
+
 

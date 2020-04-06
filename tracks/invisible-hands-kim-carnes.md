@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invisible-hands-kim-carnes
+lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/invisiblehands.html
 name: Invisible Hands
 rankings:
 - end_date: '1983-10-21'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
 ---
+
+I have your photograph
+I have it hanging on my wall
+You neither cry or laugh
+Finding it hard to forget it all
+
+Oh I'm reachin' out my invisible hands
+To touch you
+Oh I'm reachin' out my invisible hands
+To feel you
+
+You make the evening news
+You never had an alibi
+Your evidence my be the truth
+But they believed my lies
+
+Oh I'm reachin' out my invisible hands
+To touch you
+Oh I'm reachin' out my invisible hands
+To feel you
+
+Is it a lie
+When you're asking me why
+Hold out my had 
+When you don't understand
+Is it a lie 
+When you're asking me why
+Who fires the gun..gun..gun..gun
+
+Oh I'm reachin' out my invisible hands
+To touch you
+Oh I'm reachin' out my invisible hands
+To feel you
+
+Is it a lie
+When you're asking me why
+Hold out my had 
+When you don't understand
+Is it a lie 
+When you're asking me why
+Who fires the gun..gun..gun..gun
+
+Oh I'm reachin' out my invisible hands
+To touch you
+Oh I'm reachin' out my invisible hands
+To feel you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/withoutyou.html
 name: Without You
 rankings:
 - end_date: '1984-03-16'
@@ -23,4 +24,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+
+Just when I'm ready to throw in my hand
+Just when the best things in life are gone
+I look into your eyes
+
+There's no smoke without fire.
+You're exactly who I want to be with.
+Without you
+What would I do?
+
+And when I'm willing to call it a day
+Just when I won't take another chance
+I hold your hand
+
+There's no smoke without fire.
+Woman, I love you.
+Without you
+What would I do?
+
+
 

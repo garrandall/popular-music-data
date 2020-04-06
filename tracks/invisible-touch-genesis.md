@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invisible-touch-genesis
+lyrics_url: https://www.azlyrics.com/lyrics/genesis/invisibletouch.html
 name: Invisible Touch
 rankings:
 - end_date: '1986-06-06'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
 ---
+
+Well I've been waiting, waiting here so long
+But thinking nothing, nothing could go wrong, ooh now I know
+She has a built in ability
+To take everything she sees
+And now it seems I'm falling, falling for her.
+
+She seems to have an invisible touch yeah
+She reaches in, and grabs right hold of your heart
+She seems to have an invisible touch yeah
+It takes control and slowly tears you apart.
+
+Well I don't really know her, I only know her name
+But she crawls under your skin, you're never quite the same, and now I know
+She's got something you just can't trust
+It's something mysterious
+And now it seems I'm falling, falling for her.
+
+She seems to have an invisible touch yeah
+She reaches in, and grabs right hold of your heart
+She seems to have an invisible touch yeah
+It takes control and slowly tears you apart.
+
+She don't like losing, to her it's still a game
+And though she will mess up your life,
+You'll want her just the same, and now I know
+She has a built in ability
+To take everything she sees
+And now it seems I've fallen, fallen for her.
+
+She seems to have an invisible touch yeah
+She reaches in, and grabs right hold of your heart
+She seems to have an invisible touch yeah
+It takes control and slowly tears you apart.
+
+She seems to have an invisible touch...
+
+
 

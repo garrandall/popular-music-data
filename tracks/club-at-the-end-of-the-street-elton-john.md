@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: club-at-the-end-of-the-street-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/clubattheendofthestreet.html
 name: Club At The End Of The Street
 rankings:
 - end_date: '1990-05-04'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
 ---
+
+When the shades are drawn
+And the light of the moon is banned
+And the stars up above
+Walk the heavens hand in hand
+There's a shady place
+At the end of the working day
+Where young lovers go
+And this hot little trio plays
+
+That's where we meet
+That's where we meet
+Me and you rendezvous
+In the club at the end of the street
+Oooh where we meet
+Oooh where we meet
+Me and you rendezvous
+In the club at the end of the street
+
+From the alleyways
+Where the catwalks gently sway
+You hear the sound of Otis
+And the voice of Marvin Gaye
+In this smoky room
+There's a jukebox plays all night
+And we can dance real close
+Beneath the pulse of a neon light
+
+There's a downtown smell of cooking
+From the flame on an open grill
+There's a sax and a big bass pumping
+Lord have mercy
+You can't sit still
+You can't sit still
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: gone-too-far-england-dan-john-ford-coley
+lyrics_url: https://www.azlyrics.com/lyrics/englanddanjohnfordcoley/gonetoofar.html
 name: Gone Too Far
 rankings:
 - end_date: '1977-10-07'
@@ -64,4 +65,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+
+How it all started, I hardly remember
+A casual walk through the park in the winter
+All that I wanted was someone I could talk to
+It had to be you.
+
+The wind was cold we huddled together
+Looking back I should have known better
+Wasn't it me who said I'll never fall for anyone
+And look what I've done.
+
+Gone too far, I don't know how I did it
+Gone too far and I hate to admit it
+But I spend all my time thinking of you
+Gone too far, there's nothing I can do now
+Gone too far, it'll work out somehow
+But I spend all my time thinking of you
+
+Seems before I didn't know what was missing
+Maybe I did, but I just wouldn't listen
+Wasn't it me who said I'll never fall for anyone
+And look what I've done.
+
+Gone too far, I don't know how I did it
+Gone too far and I hate to admit it
+But I spend all my time thinking of you
+
+Maybe somewhere along the line
+I knew it would happen to me
+Now I look in those smiling eyes
+And for days now that's all I can see
+
+Gone too far, I don't know how I did it
+Gone too far and I hate to admit it
+But I spend all my time thinking of you
+Gone too far, there's nothing I can do now
+Gone too far, it'll work out somehow
+But I spend all my time thinking of you
+
+
 

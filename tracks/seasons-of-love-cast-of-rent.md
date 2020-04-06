@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seasons-of-love-cast-of-rent
+lyrics_url: https://www.azlyrics.com/lyrics/rentcast/seasonsofloveb.html
 name: Seasons Of Love
 rankings:
 - end_date: '2005-08-26'
@@ -55,4 +56,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
 ---
+
+In diapers, report cards
+In spoke wheels, in speeding tickets
+In contracts, dollars
+In funerals, in births
+
+In five hundred twenty-five thousand six hundred minutes
+How do you figure our last year on earth?
+
+Figure in love
+Figure in love
+Figure in love
+Measure in love
+Seasons of love
+Seasons of love
+
+
 

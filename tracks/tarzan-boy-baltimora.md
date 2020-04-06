@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tarzan-boy-baltimora
+lyrics_url: https://www.azlyrics.com/lyrics/baltimora/tarzanboy.html
 name: Tarzan Boy
 rankings:
 - end_date: '1985-10-25'
@@ -159,4 +160,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
 ---
+
+Oh oh oh oh oh oh oh oh oh oh...
+
+Jungle life, I'm far away from nowhere
+On my own like Tarzan Boy
+Hide and seek, I play along while rushing 'cross the forest
+Monkey business on a sunny afternoon
+
+Jungle life, I'm living in the open
+Native beat that carries on
+Burning bright, a fire that blows a signal to the sky
+I sit and wonder, does the message get to you?
+
+Oh oh oh oh oh oh oh oh oh oh oh... 
+
+Night to night
+Gimme the other, gimme the other
+Chance tonight
+Gimme the other, gimme the other
+Night to night
+Gimme the other, gimme the other world
+
+Oh oh oh oh oh oh oh oh oh oh oh...
+
+Jungle life, you're far away from nothing
+It's all right, you won't miss home
+Take a chance, leave everything behind you
+Come and join me, won't be sorry
+It's easy to survive
+
+Jungle life, we're living in the open
+All alone like Tarzan Boy
+Hide and seek, we play along while rushing 'cross the forest
+Monkey business on a sunny afternoon
+
+Night to night
+Gimme the other, gimme the other
+Chance tonight
+Oh, yeah
+Night to night
+Gimme the other, gimme the other
+Night to night
+You won't play
+
+Night to night
+Gimme the other, gimme the other
+Chance tonight
+Oh, yeah
+Night to night, night to night
+Gimme the other, gimme the other world
+
+Oh oh oh oh oh oh oh oh oh oh oh...
+
+
 

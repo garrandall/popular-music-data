@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-she-wants-is-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/allshewantsis.html
 name: All She Wants Is
 rankings:
 - end_date: '1988-12-30'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
 ---
+
+All she wants is
+All she wants is
+All she wants is
+
+Spend your money on the corner now
+Know you've gotta save some 
+For the shoeshine boys
+You've been pulling 'em
+By the hand inside
+Oh...collecting all your toys
+If you need a lead heaven now,
+Just stick around--
+You're going to be there
+What do you dare?
+What do you care?
+What does your heart say now?
+
+All she wants is
+All she wants is
+All she wants is
+
+Divine intervention
+Couldn't keep the word
+From leaking out
+With your pleasure in suspension
+Not to mention 
+What you hang it around
+If you need a lead to heaven, yeah
+A place to share
+In every position
+What do you dare?
+What do you care?
+What does your heart say now?
+
+All she wants is
+All she wants is
+All she wants is
+
+More...
+
+All she wants is 
+
+
 

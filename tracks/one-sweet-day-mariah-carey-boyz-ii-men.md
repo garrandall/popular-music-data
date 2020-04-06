@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: one-sweet-day-mariah-carey-boyz-ii-men
+lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/onesweetday.html
 name: One Sweet Day
 rankings:
 - end_date: '1995-12-08'
@@ -116,4 +117,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
 ---
+
+
+Sorry I never told you
+All I wanted to say
+And now it's too late to hold you
+'Cause you've flown away
+So far away
+Ayyy
+
+
+Never had I imagined
+Living without your smile
+Feeling and knowing you hear me
+It keeps me alive
+Alive
+
+
+And I know you're shining down on me from heaven
+Like so many friends we've lost along the way
+And I know eventually we'll be together
+
+One sweet day
+
+Eventually I'll see you in heaven...
+
+
+Darling, I never showed you (I never showed you)
+Assumed you'd always be there (I thought you'd always be there)
+I took your presence for granted
+But I always cared
+( But I always cared)
+And I miss the love we shared
+
+
+And I know you're shining down on me from heaven
+Like so many friends we've lost along the way
+And I know eventually we'll be together
+
+One sweet day
+ Eventually I'll see you in heaven
+
+
+Although the sun will never shine the same
+I'll always look to a brighter day
+
+Yeah
+Lord I know when I lay me down to sleep
+You will always listen as I pray
+
+
+And I know you're shining down on me from heaven
+Like so many friends we've lost along the way
+And I know eventually we'll be together
+ Together
+One sweet day
+
+
+And I know you're shining down on me from heaven
+Like so many friends we've lost along the way
+And I know eventually we'll be together
+ Together
+One sweet day
+
+ Sorry I never told you (oooh)
+ All I wanted to say
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamer-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/dreamer.html
 name: Dreamer
 rankings:
 - end_date: '1981-02-06'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
 ---
+
+Can't believe you got that attitude
+You've been so cold and rude
+Baby, when you're gonna give it up
+Tell me are we breaking up?
+
+I know what you wanna do
+You wanna leave me blue, you
+
+Dreamer, dreamer
+Dreamer, dreamer
+
+You've been telling everyone and all
+Just how I'm gonna fall
+When I do, you're gonna be right there
+To walk away and show me you don't care
+
+I know what you wanna do
+You wanna leave me blue, you
+
+Dreamer, dreamer
+Dreamer, dreamer
+
+I remember when
+She goes in my skin
+Though it's very thin
+She thinks she's gonna win
+
+Dreamer, dreamer
+Dreamer, dreamer
+
+Dreamer, dreamer
+Dreamer, dreamer
+
+Dreamer, dreamer
+Dreamer, dreamer
+
+
 

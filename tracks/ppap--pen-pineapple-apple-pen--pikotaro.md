@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ppap--pen-pineapple-apple-pen--pikotaro
+lyrics_url: https://www.azlyrics.com/lyrics/pikotaro/ppappenpineappleapplepen.html
 name: PPAP (Pen-Pineapple-Apple-Pen)
 rankings:
 - end_date: '2016-11-04'
@@ -23,4 +24,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
 ---
+
+P-P-A-P
+
+I have a pen, I have a apple
+Uh! Apple-pen!
+
+I have a pen, I have pineapple
+Uh! Pineapple-pen!
+
+Apple-pen, pineapple-pen
+Uh! Pen-pineapple-apple-pen
+Pen-pineapple-apple-pen
+Dance time!
+
+I have a pen, I have a pen
+Uh! Long pen!
+
+I have a apple, I have pineapple
+Uh! Apple-pineapple!
+
+Long pen, apple-pineapple,
+Uh! Pen-pineapple-apple-pen!
+Pen-pineapple-apple-pen!
+
+
 

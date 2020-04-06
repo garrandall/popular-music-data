@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-girl-rock-keri-hilson
+lyrics_url: https://www.azlyrics.com/lyrics/kerihilson/prettygirlrock.html
 name: Pretty Girl Rock
 rankings:
 - end_date: '2010-12-17'
@@ -95,4 +96,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
 ---
+
+Now do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock, rock
+Now what's your name?
+
+My name is Keri, I'm so very
+Fly oh my, it's a little bit scary
+Boys wanna marry, looking at my derriÃ¨re
+And you can stare but if you touch it I'mma bury
+
+Pretty as a picture
+Sweeter than a swisher
+Mad 'cause I'm cuter than the girl that's with you
+I don't gotta talk about it baby you can see it
+But if you want I'll be happy to repeat it
+
+My name is Keri, I'm so very
+Fly oh my, it's a little bit scary
+Boys wanna marry, looking at my derriÃ¨re
+And you can stare but if you touch it I'mma bury
+
+Pretty as a picture
+Sweeter than a swisher
+Mad 'cause I'm cuter than the girl that's with you
+I can talk about it 'cause I know that I'm pretty
+And if you know it too then ladies sing it with me
+
+All eyes on me when I walk in,
+No question that this girl's a 10
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+My walk, my talk, the way I drip
+It's not my fault, so please don't trip
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+
+Aye, now do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock
+All my ladies do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock
+Do the pretty girl rock
+
+(Now where you at?)
+If you're looking for me you can catch me (hot spot)
+Cameras flashing, daddy turned his head just as soon as I passed him
+Girls think I'm conceited 'cause I know I'm attractive
+Don't worry about what I think, why don't you ask him?
+
+Get yourself together, don't hate (never do it)
+Jealousy's the ugliest trait (don't ever do it)
+I can talk about it 'cause I know that I'm pretty
+And if you know it too then ladies sing it with me
+
+All eyes on me when I walk in,
+No question that this girl's a 10
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+My walk, my talk, the way I drip
+It's not my fault so please don't trip
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+
+Doing the pretty girl rock, rock, rock
+Do the pretty girl rock, rock, rock
+Do the pretty girl rock, rock
+Do the pretty girl rock, rock
+
+All my ladies do the pretty girl rock, rock, rock
+Get along with your pretty girl rock, rock, rock
+Steal the show with your pretty girl rock, rock, rock
+All my ladies do the pretty girl rock, rock, rock
+
+Sing it with me now
+All eyes on me when I walk in,
+No question that this girl's a 10
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+My walk, my talk, the way I drip
+It's not my fault so please don't trip
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+
+All eyes on me when I walk in,
+No question that this girl's a 10
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+My walk, my talk, the way I drip
+It's not my fault so please don't trip
+Don't hate me 'cause I'm beautiful
+Don't hate me 'cause I'm beautiful
+
+
 

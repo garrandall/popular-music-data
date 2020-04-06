@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stuck-like-glue-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/karmin/stucklikeglue.html
 name: Stuck Like Glue
 rankings:
 - end_date: '2010-08-20'
@@ -103,4 +104,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
 ---
+
+Absolutely no one that knows me better
+No one that can make me feel sooo goooood
+How did we stay so long together?
+When everybody, everybody said we never would
+And just when I, I start to think they're right
+That love has died...
+
+There you go making my heart beat again,
+Heart beat again, heart beat again
+There you go making me feel like a kid
+Won't you do it and do it one time?
+There you go pulling me right back in,
+Right back in, right back in
+And I know-oo I'm never letting this go-ooo
+
+I'm stuck on you
+Whutooo whutooo
+Stuck like glue
+You and me baby we're stuck like glue
+Whutooo whutooo
+Stuck like glue
+You and me baby we're stuck like glue
+
+Some days I don't feel like trying, trying, trying
+Some days you know I wanna just give up
+When it doesn't matter who's right, 
+fight about it all night had enough
+You give me that look
+"I'm sorry baby let's make up"
+You do that thing that makes me laugh
+And just like that...
+
+
+There you go making my heart beat again,
+Heart beat again, heart beat again
+There you go making me feel like a kid
+Won't you do it and do it one time
+There you go pulling me right back in,
+Right back in, right back in
+And I know-oo I'm never letting this go-ooo
+
+I'm stuck on you
+Whutooo whutooo
+Stuck like glue
+You and me baby we're stuck like glue
+Whutooo whutooo
+Stuck like glue
+You and me baby were stuck like glue
+
+Whutooo Whutoo
+
+You almost stay out, too stuck together from the ATL
+Whutooo Whutoo
+Feeling kinda sick?
+Just a spoon full of sugar make it better real quick
+
+I say
+Whutooo Whutoo
+Whatcha gonna do with that?
+Whutooo Whutoo
+Come on over here with that
+Sugar sticky sweet stuff
+Come on give me that stuff
+Everybody wants some
+Melodies that get stuck
+
+Up in your head
+Whutooo whutooo
+
+Up in your head
+Whutooo whutooo
+
+Up in your head
+Whutooo whutooo
+
+Up in your head
+
+Whutooo whutooo
+Stuck like glue
+You and me baby we're stuck like glue
+Whutooo whutooo
+Stuck like glue
+You and me baby were stuck like glue
+
+
 

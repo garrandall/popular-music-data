@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trumpets-jason-derulo
+lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/trumpets.html
 name: Trumpets
 rankings:
 - end_date: '2014-06-20'
@@ -135,4 +136,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
 ---
+
+Every time that you get undressed
+I hear symphonies in my head
+I wrote this song just looking at you ooh, oh
+Yeah the drums they swing low
+And the trumpets they go
+And the trumpets they go
+Yeah the trumpets they go
+
+Da da, da ra ra da 
+Oooh-ooh
+They go
+
+Is it weird that I hear
+Violins whenever you're gone
+Whenever you're gone
+Is it weird that your ass
+Remind me of a Kanye West song?
+Kanye West song
+
+Is it weird that I hear
+Trumpets when you're turning me on?
+Turning me on
+Is it weird that your bra
+Remind me of a Katy Perry song?
+
+Every time that you get undressed
+I hear symphonies in my head
+I wrote this song just looking at you ooh, oh
+Yeah the drums they swing low
+And the trumpets they go
+(And they playing for you girl)
+And the trumpets they go
+(Ha, yeah)
+Yeah the trumpets they go
+
+Yeah the trumpets they go
+(Go, go-go, go-go, go, go-go)
+And they go
+
+(Damn) Is it weird that I hear
+Angels every time that you moan?
+Time that you moan
+Is it weird that your eyes
+Remind me of a Coldplay song?
+Coldplay song
+
+Is it weird that I hear
+Trumpets when you're turning me on?
+Turning me on
+Is it weird that your bra
+Remind me of a Katy Perry song?
+
+Every time that you get undressed
+I hear symphonies in my head
+I wrote this song looking at you ooh, oh
+Oh, yeah
+
+Every time (Every time) that you get undressed
+(Every time that you get undressed)
+I hear symphonies in my head
+(I hear symphonies in my head)
+I wrote this song (I wrote this song) just looking at you
+Ooh, oh (Just looking at you girl)
+Yeah the drums they swing low
+And the trumpets they go
+
+(A capella on 'em)
+There you go, oh-ooh, yeah
+Come on, come on, come on
+There you go
+
+
 

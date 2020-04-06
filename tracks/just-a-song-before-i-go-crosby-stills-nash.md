@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: just-a-song-before-i-go-crosby-stills-nash
+lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/justasongbeforeigo.html
 name: Just A Song Before I Go
 rankings:
 - end_date: '1977-06-03'
@@ -93,4 +94,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
 ---
+
+
+
+Just a song before I go
+To whom it may concern
+Travelling twice the speed of sound
+It's easy to get burned
+
+When the shows were over
+We had to get back home
+And when we opened up the door
+I had to be alone
+
+She helped me with my suitcase
+She stands before my eyes
+Driving me to the airport
+And to the friendly skies
+
+Going through security
+I held her for so long
+She finally looked at me in love
+And she was gone
+
+
+
+Just a song before I go
+A lesson to be learned
+Travelling twice the speed of sound
+It's easy to get burned
+
+
+
+
 

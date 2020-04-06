@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: grow-some-funk-of-your-own-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/growsomefunkofyourown.html
 name: Grow Some Funk Of Your Own
 rankings:
 - end_date: '1976-01-30'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
+
+Yeah I looked at my watch and it said a quarter to five
+The headlines screamed that I was still alive
+I couldn't understand it
+I thought I died last night
+
+Oh I dreamed I'd been in a border town
+In a little cantina that the boys had found
+I was desperate to dance
+Just to dig the local sounds
+
+When along came a seÃ±orita
+She looked so good that I had to meet her
+I was ready to approach her with my English charm
+When her brass knuckled boyfriend grabbed me my the arm
+
+And he said grow some funk of your own amigo
+Grow some funk of your own
+We no like to with the gringo fight
+But there might be a death in Mexico tonight
+If you can't grow some funk of your own amigo
+Grow some funk of your own
+Take my advice, take the next flight
+And grow your funk, grow your funk at home
+
+Well I looked for support from the rest of my friends
+For their vanishing trick they get ten out of ten
+I knelt to pray
+Just to see if he would comprehend
+
+
 

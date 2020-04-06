@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-morning-sugar-ray
+lyrics_url: https://www.azlyrics.com/lyrics/sugarray/everymorning.html
 name: Every Morning
 rankings:
 - end_date: '1999-01-15'
@@ -131,4 +132,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
 ---
+
+Every morning there's a halo hangin
+from the corner of my girlfriend's four post bed
+I know it's not mine but I'll see if I can use it for
+the weekend or a one-night stand
+Couldn't understand
+How to work it out
+Once again as predicted left my broken heart open
+and you ripped it out
+Something's got me reeling
+Stopped me from believing
+Turn me around again
+Said that we can do it
+You know I wanna do it again
+(Sugar Ray say)
+Oh...........
+(Every Morning)
+Oh................
+(Every Morning when I wake up)
+(Shut the door baby, don't say a word)
+Oh.......
+(She always rights the wrong, she always rights, she always rights)
+(Shut the door baby, Shut the door baby)
+Every Morning there's a heartache hanging
+from the corner of my girlfriend's four-post bed
+I know it's not mine and I know she thinks she loves me
+but I never can believe what she said
+Something so deceiving
+When you stop believing
+Turn me around again
+Said we couldn't do it
+You know I wanna do it again
+Oh...........
+(Every Morning)
+Oh..................
+(Every Morning when I wake up)
+(Shut the door baby, don't say a word)
+Oh...........
+(Every Morning)
+Oh..........
+(Every Morning when I wake up)
+(Shut the door baby, shut the door baby)
+She always rights the wrong
+For me
+Baby
+She always rights the wrong
+For me
+Every Morning there's a halo hanging
+from the corner of my girlfriend's four-post bed
+I know it's not mine but I'll see if I can use it for
+the weekend or a one-night stand
+(Shut the door baby, don't say a word)
+Every Morning
+Every Morning when I wake up
+(Shut the door baby, shut the door baby)
+Every Morning
+Every Morning (Turn me around again)
+(Shut the door baby, don't say a word)
+Every Morning
+Every Morning
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-could-do-was-cry-etta-james
+lyrics_url: https://www.azlyrics.com/lyrics/ettajames/allicoulddowascry.html
 name: All I Could Do Was Cry
 rankings:
 - end_date: '1960-05-08'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
 ---
+
+I heard church bells ringing
+I heard a choir singing
+I saw my love walk down the aisle
+On her finger he placed a ring
+
+Oh, I saw them holding hands
+She was standing there with my man
+I heard them promise "Till death do us part"
+Each word was a pain in my heart
+
+All I could do, all I could do was cry (cry, cry, cry)
+All I could do was cry (cry, cry, cry)
+I was losing the man that I loved
+And all I could do was cry (cry, cry, cry)
+
+Yeah and now the wedding's over
+Rice, rice has been thrown over their heads
+For them life has just begun
+But mine is at an end
+
+All, all I could do, all I could do was cry (cry, cry, cry)
+All I could do was cry (cry, cry, cry)
+I was losing the man that I loved (cry, cry, cry)
+And all I could do was cry (cry, cry, cry)
+
+
 

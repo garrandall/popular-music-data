@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-in-the-same-old-way-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/iloveyouinthesameoldway.html
 name: I Love You In The Same Old Way
 rankings:
 - end_date: '1960-08-07'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
 ---
+
+I remember when we used to be in our teens
+I wear bobby socks and old blue jeans
+That was long ago I'd like to say
+I love you in the same old way, aha ha
+I love you in the same old way
+
+Hmm, I remember when we used to babysit your brother
+And who was watching us? Your father and mother
+That was long ago and I'd like to say
+I love you in the same old way, aha ha
+I love you in the same old way
+
+Now, Heaven I'm in Heaven again
+And I still remember where and when
+And I love you, you still love me
+And that's the way its gonna be
+
+I remember when we were in school
+A learning how to live by the golden rule
+That was long ago and I'd like to say
+I love you in the same old way, aha
+I love you in the same old way
+Ho!
+
+Hmm, heaven I'm in heaven again
+And I still remember where and when
+I still love you, you know you love me
+And that's the way its gonna be
+
+Hey, I remember when we used to be in school
+A learning how to live by the golden rule
+That was long ago and I'd like to say
+I love you in the same old way, aha
+I love you in the same old way, aha
+I love you in the same old way, aha
+
+
 

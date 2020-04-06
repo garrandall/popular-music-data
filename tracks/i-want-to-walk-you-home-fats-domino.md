@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-walk-you-home-fats-domino
+lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/iwanttowalkyouhome.html
 name: I Want To Walk You Home
 rankings:
 - end_date: '1959-08-16'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
 ---
+
+I want to walk you home
+please let me walk you home
+I want to walk you home
+please let me walk you home
+you look so good to me oowee
+I wish I was a lucky guy
+you've been walking right on
+
+I love the way you walk
+I love to hear you talk
+I love the way you walk
+I love to hear you talk
+I'm not trying to be smart
+I'm not trying to break your heart
+but if I ask you for a date
+then you tell me that I'm not too late
+
+I want to hold your hand
+please let me hold your hand
+I wanna hold your hand
+please let me hold your hand
+you look so good to me oowee
+I saw you walking all alone
+that's why when I walk you home
+
+So let me walk you home
+please let me walk you home
+I wanna walk you home
+please let me walk you home
+you look so good to me oowee
+
+That's why I want to walk you home...
+That's why I want to walk you home...
+
+
+
 

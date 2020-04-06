@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: streetcorner-symphony-rob-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/robthomas/streetcornersymphony.html
 name: Streetcorner Symphony
 rankings:
 - end_date: '2006-10-13'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
 ---
+
+It's morning
+I wake up
+The taste of summer sweetness on my mind
+It's a clear day
+In this city
+Let's go dance under the street lights
+All the people in this world
+Let's come together
+More than ever
+I can feel it
+Can you feel it
+
+Come on over
+Down to the corner
+My sisters and my brothers of every different color
+Can't you feel that sunshine telling you to hold tight
+Things will be alright
+Try to find a better life
+Come on over
+Down to the corner
+My sisters and my brothers there for one another
+Come on over
+Man I know you wanna let yourself go
+
+Some people
+It's a pity
+They go all their lives and never know
+How to love or to let love go
+But it's alright now
+We'll make it through this somehow
+And we'll paint the perfect picture
+All the colors of this world will run together more than ever
+I can feel it
+Can you feel it
+
+We may never find our reason to shine
+But here and now this is our time
+And I may never find the meaning of life
+But for this moment I am fine
+So
+
+
 

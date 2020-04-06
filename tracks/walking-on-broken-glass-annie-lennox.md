@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-on-broken-glass-annie-lennox
+lyrics_url: https://www.azlyrics.com/lyrics/annielennox/walkingonbrokenglass.html
 name: Walking On Broken Glass
 rankings:
 - end_date: '1992-09-11'
@@ -107,4 +108,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
 ---
+
+Walking on walking on broken glass
+Walking on walking on broken glass
+
+You were the sweetest thing that I ever knew
+But I don't care for sugar honey if I can't have you
+Since you abandoned me
+My whole life has crashed
+Won't you pick the pieces up
+'Cause it feels just like I'm walking on broken glass
+
+Walking on walking on broken glass
+Walking on walking on broken glass
+
+The sun's still shining in the big blue sky
+But it don't mean nothing to me
+Oh let the rain come down
+Let the wind blow through me
+I'm living in an empty room
+With all the windows smashed
+And I've got so little left to lose
+That it feels just like I'm walking on broken glass
+
+Walking on walking on broken glass
+
+And If you're trying to cut me down
+You know that I might bleed
+'Cause if you're trying to cut me down
+I know that you'll succeed
+And if you want to hurt me
+There's nothing left to fear
+'Cause if you want to hurt me
+You're doing really well my dear
+
+Now everyone of us was made to suffer
+Everyone of us was made to weep
+But we've been hurting one another
+And now the pain has cut too deepâ¦
+So take me from the wreckage
+Save me from the blast
+Lift me up and take me back
+Don't let me keep on walkingâ¦
+I can't keep on walking
+I can't keep on walking on broken glass
+
+Walking on walking on broken glass
+Walking on walking on broken glass
+...
+
+
 

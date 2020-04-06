@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-isla-bonita-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/laislabonita.html
 name: La Isla Bonita
 rankings:
 - end_date: '1987-03-27'
@@ -75,4 +76,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+
+Â¿CÃ³mo puede ser verdad?
+
+
+Last night I dreamt of San Pedro
+Just like I'd never gone, I knew the song
+A young girl with eyes like the desert
+It all seems like yesterday, not far away
+
+Tropical the island breeze
+All of nature wild and free
+This is where I long to be
+La isla bonita
+
+
+And when the samba played
+The sun would set so high
+Ring through my ears and sting my eyes
+Your Spanish lullaby
+
+I fell in love with San Pedro
+Warm wind carried on the sea, he called to me
+Te dijo te amo
+
+I prayed that the days would last
+They went so fast
+
+Tropical the island breeze
+All of nature wild and free
+This is where I long to be
+La isla bonita
+
+And when the samba played
+The sun would set so high
+Ring through my ears and sting my eyes
+Your Spanish lullaby
+
+I want to be where the sun warms the sky
+When it's time for siesta you can watch them go by
+Beautiful faces, no cares in this world
+Where a girl loves a boy, and a boy loves a girl
+
+Last night I dreamt of San Pedro
+It all seems like yesterday, not far away
+
+Tropical the island breeze
+All of nature wild and free
+This is where I long to be
+La isla bonita
+
+And when the samba played
+The sun would set so high
+Ring through my ears and sting my eyes
+Your Spanish lullaby
+
+Tropical the island breeze
+All of nature wild and free
+This is where I long to be
+La isla bonita
+
+And when the samba played
+The sun would set so high
+Ring through my ears and sting my eyes
+Your Spanish lullaby
+
+Te dijo te amo
+El dijo que te ama
+
+
+
 

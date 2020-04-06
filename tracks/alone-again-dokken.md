@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-again-dokken
+lyrics_url: https://www.azlyrics.com/lyrics/dokken/aloneagain.html
 name: Alone Again
 rankings:
 - end_date: '1985-05-10'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
 ---
+
+I'd like to see you in the morning light
+I like to feel you when it comes to night
+Now I'm here and I'm all alone
+Still I know how it feels, I'm alone again
+
+Tried so hard to make you see
+But I couldn't find the words
+Now the tears, they fall like rain
+I'm alone again without you
+Alone again without you
+Alone again without you
+
+I said stay, but you turned away
+Tried to say that it was me
+Now I'm here and I've lost my way
+Now I know how it feels, I'm alone again
+
+Tried so hard to make you see
+But I couldn't find the words
+Now the tears, they fall like rain
+I'm alone again without you
+Alone again without you
+Alone again without you
+Alone again without you
+
+I tried so hard to make you see
+But I couldn't find the words
+Now the tears, they fall like rain
+I'm alone again without you
+Alone again without you
+Alone again
+Alone again
+Alone again without you
+
+
 

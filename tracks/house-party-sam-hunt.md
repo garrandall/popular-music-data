@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-party-sam-hunt
+lyrics_url: https://www.azlyrics.com/lyrics/samhunt/houseparty.html
 name: House Party
 rankings:
 - end_date: '2015-06-26'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
 ---
+
+You're on the couch,
+Blowing up my phone
+You don't want to come out,
+But you don't want to be alone
+
+It don't take but two
+To have a little soirÃ©e
+If you're in the mood
+Sit tight right where you are, babe
+
+'Cause I'll be at your door in ten minutes
+Whatever you got on, girl, stay in it
+You ain't gotta leave the house to have a good time
+I'm 'a bring the good time home to you
+
+We'll have a house party,
+We don't need nobody
+Turn your TV off, break that boom-box out
+We'll wake up all the neighbours
+'Til the whole block hates us
+And the cops show up and try to shut us down
+
+If you're gonna be a homebody
+We're gonna have a house party
+If you wanna be a homebody
+We're gonna have a house party
+
+Throw a neon tee shirt over the lamp shade
+I'll take the furniture, slide it out of the way
+Shaking the floor, rattling the roof
+(roof's on fire)
+We'll go to town like they're in your living room
+
+Let's have a house party,
+We don't need nobody
+Turn your TV off, break that boom-box out
+We'll wake up all the neighbours
+'Til the whole block hates us
+And the cops show up and try to shut us down
+
+If you're gonna be a homebody
+We're gonna have a house party
+If you wanna be a homebody
+We're gonna have a house party
+
+So I'll be at your door in ten minutes
+Whatever you got on, baby, stay in it
+You ain't gotta leave the house to have a good time
+I'm 'a bring the good time home to you
+
+We'll have a house party,
+We don't need nobody
+Turn your TV off, break that boom-box out
+We'll wake up all the neighbours
+'Til the whole block hates us
+And the cops show up and try to shut us down
+
+If you're gonna be a homebody
+We're gonna have a house party
+If you wanna be a homebody
+We're gonna have a house party
+
+
 

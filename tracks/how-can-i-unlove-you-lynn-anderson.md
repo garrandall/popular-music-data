@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-i-unlove-you-lynn-anderson
+lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/howcaniunloveyou.html
 name: How Can I Unlove You
 rankings:
 - end_date: '1971-08-27'
@@ -35,4 +36,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
 ---
+
+How can I unsay the things I said to you
+How can I undo the things that we used to do
+Tell me how can I unfeel the way I feel for you how can I unlove you
+How can I untight the hold that you got on me
+When you won't unchain my heart and set me free
+How can I unremember every memory so how can I unlove you
+
+I'll never never uncry tears that I cried when you said goodbye
+No I'll never never unmiss the thrill that I missed when we used to kiss
+How can I unsay the things I said to you
+And how can I undo the things that we used to do
+Tell me how can I unfeel the way I feel for you how can I unlove you
+...
+
+
 

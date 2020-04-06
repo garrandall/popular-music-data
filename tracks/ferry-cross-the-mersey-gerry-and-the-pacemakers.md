@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ferry-cross-the-mersey-gerry-and-the-pacemakers
+lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/ferrycrossthemersey.html
 name: Ferry Cross The Mersey
 rankings:
 - end_date: '1965-02-12'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
+
+Life goes on day after day
+Hearts torn in every way
+
+So ferry, cross the Mersey
+'Cause this land's the place I love
+And here I'll stay
+
+People they rush everywhere
+Each with their own secret care
+
+So ferry, cross the Mersey
+And always take me there
+The place I love
+
+People around every corner
+They seem to smile and say
+We don't care what your name is boy
+We'll never turn you away
+
+So I'll continue to say
+Here I always will stay
+
+So ferry, cross the Mersey
+'Cause this land's the place I love
+And here I'll stay
+And here I'll stay
+Here I'll stay
+
+
 

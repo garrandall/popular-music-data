@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-anyone-falls-stevie-nicks
+lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/ifanyonefalls.html
 name: If Anyone Falls
 rankings:
 - end_date: '1983-09-16'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
 ---
+
+I hear a voice... in the room next to mine
+Feels good... sounds good...
+Closes the door from behind
+And another voice... comes thru the door
+
+I am dealing with a man
+When away from me... stays deep inside my heart
+And he says if anyone falls in love
+It will be one of us
+
+If anyone falls in love
+Somewhere... in the twilight... dreamtime
+Somewhere... in the back of your mind
+If anyone falls...
+
+And I heard someone say
+As my eyes turned away
+He said "I have loved many women
+I have many times... run away"
+
+Ooh... I have never known the words
+Well I have tried to be true
+Well I have never known what to say
+How to say... seen anything today
+Never seen... anything... like you
+
+If anyone falls in love
+Somewhere... in the twilight... dreamtime
+Somewhere... in the back of your mind
+If anyone falls...
+
+So I'm never gonna see you
+Never gonna see you... deep inside my heart
+Oh I see your shadow against
+Shadow against... shadow against the wall
+Baby I see your shadow against the wall
+
+
 

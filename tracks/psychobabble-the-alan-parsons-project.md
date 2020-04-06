@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: psychobabble-the-alan-parsons-project
+lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/psychobabble.html
 name: Psychobabble
 rankings:
 - end_date: '1982-12-03'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+
+Tell you 'bout a dream that I have every night
+Tell you 'bout a dream that I have every night
+It ain't in Kodachrome and it isn't black and white
+Take me for a fool if you feel that's right
+Well I'm never on my own but there's nobody in sight
+I don't know why I'm scared of the lightning
+
+
+Trying to reach me
+I can't turn to the left or the right
+I'm too scared to run and I'm too weak to fight
+But I don't care it's all psychobabble rap to me
+
+Tell you 'bout a dream that I have every night
+It's in Dolby stereo but I never hear it right
+Take me for a fool well that's alright
+Well I see the way to go but there isn't any light
+I don't know why I'm scared of the lightning
+
+
+Trying to reach me
+Help me to find what I don't wanna know
+You're taking me there but I don't wanna go
+I don't care it's all psychobabble rap to me
+
+Psychobabble all psychobabble
+Psychobabble all psychobabble
+I don't care it's all psychobabble rap to me
+
+You're readin' my mind you won't look in my eyes
+You say I do things that I don't realise
+But I don't care it's all psychobabble rap to me
+
+Psychobabble all psychobabble
+Psychobabble all psychobabble
+
+You're lighting a scene that's faded to black
+I threw it away cause I don't want it back
+But I don't care it's all psychobabble rap
+
+
 

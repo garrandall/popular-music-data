@@ -5,6 +5,7 @@ features:
 - Katy Perry
 genres: []
 key: if-we-ever-meet-again-timbaland-katy-perry
+lyrics_url: https://www.azlyrics.com/lyrics/timbaland/ifweevermeetagain.html
 name: If We Ever Meet Again
 rankings:
 - end_date: '2009-12-25'
@@ -80,4 +81,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-07-31'
 ---
+
+What's somebody like you doing in a place like this?
+Say, did you come alone or did you bring all your friends?
+Say, what's your name, what are you drinking?
+I think I know what are you're thinking
+Baby, what's your sign? Tell me yours, and I'll tell you mine
+Say what's somebody like you doing in a place like this?
+
+(come on!)
+
+
+I'll never be the same, if we ever meet again
+Won't let you get away say if we ever meet again
+This free fall's got me so
+Kiss me all night don't ever let me go
+I'll never be the same, if we ever meet again
+
+Oh, oh, say if we ever meet again
+
+Do you come here much? I swear I've seen your face before
+Hope you don't see me blush but I can't help, but want you more, more
+Baby, tell me what's your story? I ain't shy, donât you worry
+I'm flirting with my eyes, wanna leave with you tonight
+Do you come here much? I've gotta see your face some more
+(some more 'cause, baby...)
+
+
+
+If we ever meet again
+I'll have so much more to say
+If we ever meet again
+
+If we ever meet again, again
+I won't let you go away
+If we ever meet again
+
+If we ever, ever meet again
+I'll have so much more to say
+If we ever meet again
+If we ever, ever meet again
+I won't let you go away
+
+
+
+
 

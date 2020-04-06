@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarthur-park-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/macarthurparkreprise.html
 name: MacArthur Park
 rankings:
 - end_date: '1978-09-15'
@@ -87,4 +88,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+
+MacArthur Park is melting in the dark
+All the sweet, green icing flowing down...
+Someone left the cake out in the rain
+I don't think that I can take it
+'cause it took so long to bake it
+And I'll never have that recipe again
+Oooh, nooo....
+
+
 

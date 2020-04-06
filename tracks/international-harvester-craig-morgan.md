@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: international-harvester-craig-morgan
+lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/internationalharvester.html
 name: International Harvester
 rankings:
 - end_date: '2007-12-21'
@@ -79,4 +80,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
 ---
+
+I'm the son of a third generation farmer
+I've been married 10 years to the farmer's daughter
+I'm a God fearing hardworking combine driver
+Hogging up the road on my p-p-p-p-plower
+Chug-a-lug-a-lugin 5 miles an hour 
+On my International Harvester.
+
+3 miles of cars laying on their horns
+Falling on deaf ears of corn
+Lined up behind me like a big parade
+Late to work, road raged jerks
+Shouting obscene words flippin me the bird
+
+Well you maybe be on a state paved road
+But that blacktop runs through my pay load
+Excuse me for trying to do my job
+But this year ain't been no bumper crop
+If you don't like the way I'm a driving
+Get back on the interstate
+Otherwise sit tight and be nice
+And quit your honking at me that way
+
+Cause I'm the son of a 3rd generation farmer
+I've been married 10 years to the farmer's daughter
+I got 2 boys in the county 4-H
+I'm a lifetime sponsor of the FFA
+Hey that's what I make 
+I make a lot of Hay for a little pay
+and I'm proud to say
+I'm a God fearing hardworking combine driver
+Hogging up the road on my p-p-p-p-plower
+Chug-a-lug-a-lugin 5 miles an hour 
+On my International Harvester.
+
+Well I know you got your own deadline
+But cussing me won't save you no time Hoss
+But this big wheel wide load ain't going any faster
+So just smile and wave and tip your hat to the man up on the tractor
+
+Cause I'm the son of a 3rd generation farmer
+I've been married 10 years to the farmer's daughter
+I got 2 boys in the county 4-H
+I'm a lifetime sponsor of the FFA
+Hey that's what I make 
+I make a lot of Hay for a little pay
+and I'm proud to say
+I'm a God fearing hardworking combine driver
+Hogging up the road on my p-p-p-p-plower
+Chug-a-lug-a-lugin 5 miles an hour 
+On my International Harvester.
+
+I'm a God fearing hardworking combine driver
+Hogging up the road on my p-p-p-p-plower
+Chug-a-lug-a-lugin 5 miles an hour
+On my International Harvester.
+
+
 

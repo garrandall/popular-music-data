@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ball-of-confusion--that-s-what-the-world-is-today--the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/ballofconfusionthatswhattheworldistoday.html
 name: Ball Of Confusion (That's What The World Is Today)
 rankings:
 - end_date: '1970-05-29'
@@ -67,4 +68,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
 ---
+
+1, 2... 1, 2, 3, 4, Ow!
+
+People moving out, people moving in
+Why? Because of the color of their skin
+Run, run, run but you sure can't hide
+An eye for an eye, a tooth for a tooth
+Vote for me and I'll set you free
+Rap on, brother, rap on
+
+Well, the only person talking about love thine brother is the preacher
+And it seems nobody's interested in learning but the teacher
+Segregation, determination, demonstration, integration
+Aggravation, humiliation, obligation to our nation
+
+Ball of confusion
+Oh yeah, that's what the world is today
+Woo, hey, hey
+
+The sale of pills are at an all time high
+Young folks walking round with their heads in the sky
+The cities aflame in the summer time
+And oh, the beat goes on
+
+Evolution, revolution, gun control, sound of soul
+Shooting rockets to the moon, kids growing up too soon
+Politicians say more taxes will solve everything
+And the band played on
+
+So, round and around and around we go
+Where the world's headed, nobody knows
+
+Oh, Great Googa Mooga, can't you hear me talking to you?
+Just a ball of confusion
+Oh yeah, that's what the world is today
+Woo, hey, hey
+
+Fear in the air, tension everywhere
+Unemployment rising fast, the Beatles new record's a gas
+And the only safe place to live is on an Indian reservation
+And the band played on
+
+Eve of destruction, tax deduction
+City inspectors, bill collectors
+Mod clothes in demand, population out of hand
+Suicide, too many bills, hippies moving to the hills
+People all over the world are shouting, "End the war."
+And the band played on
+
+Great Googa Mooga, can't you hear me talking to you?
+It's a ball of confusion
+That's what the world is today, hey, hey
+Let me hear ya, let me hear ya, let me hear ya
+(Sayin') ball of confusion
+That's what the world is today, hey, hey
+Let me hear ya, let me hear ya, let me hear ya, let me hear ya, let me hear ya
+(Sayin') ball of confusion
+That's what the world is today...
+
+
 

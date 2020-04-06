@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: girl-in-a-country-song-maddie-tae
+lyrics_url: https://www.azlyrics.com/lyrics/maddietae/girlinacountrysong.html
 name: Girl In A Country Song
 rankings:
 - end_date: '2014-08-22'
@@ -88,4 +89,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
 ---
+
+("No country music was harmed in the making of this song, this is only a test-t-t.")
+
+Well, I wish I had some shoes on my two bare feet
+And it's gettin' kinda cold in these painted on cut-off jeans
+I hate the way this bikini top chafes
+Do I really have to wear it all day? (Yeah, baby)
+
+I hear you over there on your tailgate whistlin' 
+Sayin', "Hey girl." ("Hey, girl.")
+But you know I ain't listenin'
+'Cause I got a name
+And to you it ain't "pretty little thing", "hottie" or "baby"
+Yeah it's drivin' me red-red-red-red-red-red-redneck crazy
+
+
+Bein' the girl in a country song
+How in the world did it go so wrong?
+Like all we're good for
+Is looking good for you and your friends on the weekend
+Nothing more
+We used to get a little respect
+Now we're lucky if we even get
+To climb up in your truck, keep our mouth shut and ride along
+And be the girl in a country song
+
+Well, shakin' my moneymaker ain't ever made me a dime
+And there ain't no sugar for you in this shaker of mine
+Tell me one more time, "you gotta get you some of that"
+Sure I'll slide on over, but you're gonna get slapped (Hah!)
+These days it ain't easy being that
+
+
+Girl in a country song
+How in the world did it go so wrong?
+Like all we're good for
+Is looking good for you and your friends on the weekend
+Nothing more
+We used to get a little respect
+Now we're lucky if we even get
+To climb up in your truck, keep our mouth shut and ride along
+And be the girl in a country song (Yeah, yeah, yeah, baby)
+
+Aww no, Conway and George Strait
+Never did it this way
+Back in the old days
+Aww y'all, we ain't a clichÃ©
+That ain't no way
+To treat a lady...
+
+
+... like a girl in a country song
+How in the world did it go so wrong?
+Like all we're good for
+Is looking good for you and your friends on the weekend
+Nothing more
+(Woo)
+We used to get a little respect
+Now we're lucky if we even get
+To climb up in your truck, keep our mouth shut and ride along
+Down some old dirt road we don't even wanna be on
+And be the girl in a country song
+
+("Yeah, baby, I ain't your tan legged Juliet. Can I put on some real clothes now? ")
+
+Aww, no
+(Ha-ha-ha...)
+
+
 

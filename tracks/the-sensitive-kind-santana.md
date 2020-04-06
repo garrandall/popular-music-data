@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sensitive-kind-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/thesensitivekind.html
 name: The Sensitive Kind
 rankings:
 - end_date: '1981-08-07'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+
+Don't take her for granted, she had
+a hard time
+Don't misunderstand her or play
+with her mind
+Treat her so gently, it will pay you
+in time
+You've gotta know she's the
+sensitive kind
+
+Tell her you love her each and
+every night
+You will discover she will treat
+you right
+If you believe, I know you will find
+There ain't nothin' like the
+sensitive kind
+
+She gets so lonely waitin' for you
+You are the only thing to help
+her through
+Don't take her for granted
+She has a hard time
+You got to know she's the
+sensitive kind
+You got to know she's the
+sensitive kind
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harlem-shuffle-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/harlemshuffle.html
 name: Harlem Shuffle
 rankings:
 - end_date: '1986-03-21'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
 ---
+
+Huhuuuhuhuhuhuuuuuuh, hu!
+You move it to the left, yeah, and you go for yourself.
+You move it to the right, yeah, if it takes all night.
+Now take it kinda slow,
+with a whole lot of soul.
+Don't move it too fast.
+Just make it last.
+You scratch just like a monkey.
+Yeah ya do, real cool.
+You slide it to the limbo.
+Yeah, how low can you go?
+Now come on baby, come on baby!
+Don't fall down on me now.
+Just move it right here to the Harlem Shuffle.
+Huh, yeah, yeah, yeah, do the Harlem Shuffle.
+Yeah, yeah, yeah, do the Harlem Shuffle.
+Meooow. Ooh haoooh!
+Hitch me hitch hike baby, across the floor.
+Whow, whow, whow, I can't stand it no more.
+Now come on, baby (oh, come on baby!), now get into your slide.
+Just ride, ride, ride little pony ride.
+Yeah, yeah, yeah, do the Harlem Shuffle.
+Yeah, yeah, yeah, do the Harlem Shuffle.
+(Do the Monkey Shine)
+Yeah, yeah, yeah, shake your tail feather, baby.
+(Shake shake, shake shake yeah!)
+Yeah, yeah, yeah, shake your tail feather, baby.
+Huh, yeah, yeah, yeah, do the Harlem Shuffle.
+Yeah, yeah, yeah, do the Harlem Shuffle.
+Yeah, like your momma told you how.
+Yeah, yeah, yeah, huh, do the Harlem Shuffle.
+Do it, do it do your own, own shine.
+Yeah, yeah, yeah, do the Harlem Shuffle.
+
+
 

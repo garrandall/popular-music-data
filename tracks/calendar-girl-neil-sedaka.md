@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: calendar-girl-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/calendargirl.html
 name: Calendar Girl
 rankings:
 - end_date: '1960-12-25'
@@ -67,4 +68,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
+
+I love, I love, I love my calendar girl
+Yeah, sweet calendar girl
+I love, I love, I love my calendar girl
+Each and every day of the year
+
+(January)
+You start the year all fine
+(February)
+You're my little Valentine
+(March)
+I'm gonna march you down the aisle
+(April)
+You're the Easter bunny
+When you smile
+
+Yeah, yeah
+My heart's in a whirl
+I love, I love, I love my little calendar girl
+Every day (every day)
+Every day (every day)
+Of the year (every day of the year)
+
+(May)
+Maybe if I ask your dad and mom
+(June)
+They'd let me take you to the junior prom
+(July)
+Like a firecracker
+I'm aglow
+(August)
+When you're on the beach you steal the show
+
+Yeah, yeah
+My heart's in a whirl
+I love, I love, I love my little calendar girl
+Every day (every day)
+Every day (every day)
+Of the year (every day of the year)
+
+Whoo!
+
+Yeah, yeah
+My heart's in a whirl
+I love, I love, I love my little calendar girl
+Every day (every day)
+Every day (every day)
+Of the year (every day of the year)
+
+(September)
+I light the candles at your sweet sixteen
+(October)
+Romeo and Juliet on Halloween
+(November)
+I'll give thanks that you belong to me
+(December)
+You're the present 'neath my Christmas tree
+
+Yeah, yeah
+My heart's in a whirl
+I love, I love, I love my little calendar girl
+Every day (every day)
+Every day (every day)
+Of the year (every day of the year)
+
+I love, I love, I love my calendar girl
+Yeah, sweet calendar girl
+I love, I love, I love my calendar girl
+Yeah, sweet calendar girl
+
+
 

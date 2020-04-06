@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: life-is-a-song-worth-singing-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/lifeisasongworthsinging.html
 name: Life Is A Song Worth Singing
 rankings:
 - end_date: '1974-01-04'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
 ---
+
+Life is a song worth singing
+Why don't you?
+Sing It!
+
+You hold the key in the palm of your hand.
+Use it!
+Don't blame your life on the master plan
+Change it!
+Only you generate the power
+To decide what to do with your life
+Your a fool if you think your helpless
+you control what you do with your life
+
+Life is a song worth singing
+Why don't you?
+Sing It!
+
+Don't like the way your living
+To bad!
+Can't change your life because it's out of your hand
+so sad!
+So you sit on your pants and holler
+cause the world ain't been treating you right
+Don't you know you contain the power
+to control destiny with your mind
+
+
 

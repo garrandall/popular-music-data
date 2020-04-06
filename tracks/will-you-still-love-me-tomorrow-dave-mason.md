@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: will-you-still-love-me-tomorrow-dave-mason
+lyrics_url: https://www.azlyrics.com/lyrics/davemason/willyoustilllovemetomorrow.html
 name: Will You Still Love Me Tomorrow
 rankings:
 - end_date: '1978-06-09'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+
+Tonight you're mine completely
+You give your love so sweetly
+Tonight the light of love is in your eyes
+But will you love me tomorrow?
+
+Is this a lasting treasure
+Or just a moment's pleasure?
+Can I believe the magic of your sighs?
+Will you still love me tomorrow?
+
+Tonight with words unspoken
+You say that I'm the only one
+But will my heart be broken
+When the night meets the morning sun?
+
+I'd like to know that your love
+Is love I can be sure of
+So tell me now, and I won't ask again
+Will you still love me tomorrow?
+Will you still love me tomorrow?
+
+
 

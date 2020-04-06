@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holler-back-the-lost-trailers
+lyrics_url: https://www.azlyrics.com/lyrics/losttrailers/hollerback.html
 name: Holler Back
 rankings:
 - end_date: '2008-07-25'
@@ -59,4 +60,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
 ---
+
+I got a city folk friend in a hip-hop world
+He goes by E. Diddy but his name is Earl
+Cocks his hat to the side in his Grandma's ride
+Pumpin' nothin' but bass
+
+He says things like, 'Dawg, are you down with that'
+And, 'Don't that fly girl got some back'
+And I feel so doggone outta place
+
+When he says,
+'Holler back when you get back home'
+I say, 'The only holler back that I know is'
+
+In that holler back in the woods
+Where the country folks got it good
+Homebrewed, homegrown
+Where the wild seeds 'a get sown
+It's a blast from the past
+All the cowgirls shakin' their sassafras
+Let out a howl if 'ya feel like 'ya gotta
+If you wanna go on back to the holler
+Holler back
+
+Take a left off the Interstate
+Go ten miles
+Take a right on Farm Road 99
+And just roll 'til the blacktop ends
+
+'Ya see Mary Jo rockin' that front porch swing
+Bikini top and them cut-off jeans
+And that's where Hillbilly Heaven begins
+
+Ah, she'll pour 'ya some of that cherry wine
+Boy, you're guaranteed to have yourself
+One hell of a time
+
+In that holler back in the woods
+Where the country folks got it good
+Homebrewed, homegrown
+Where the wild seeds 'a get sown
+It's a blast from the past
+All the cowgirls shakin' their sassafras
+Let out a howl if 'ya feel like 'ya gotta
+If you wanna go on back to the holler
+Holler back
+
+In that holler back in the woods
+Where the country folks got it so good
+Homebrewed, homegrown
+Where the wild seeds 'a get sown
+It's a blast from the past
+All the cowgirls shakin' their sassafras
+Let out a howl if 'ya feel like 'ya gotta
+If you wanna go on back to the holler
+Holler back
+
+(Homebrewed, homegrown
+Where the wild seeds a get sown
+It's a blast from the past
+All the cowgirls shakin' their sassafras
+Homebrewed, homegrown
+Where the wild seeds a get sown)
+Ooh...
+
+
 

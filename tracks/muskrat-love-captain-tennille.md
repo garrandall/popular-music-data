@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: muskrat-love-captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/muskratlove.html
 name: Muskrat Love
 rankings:
 - end_date: '1976-10-01'
@@ -88,4 +89,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
 ---
+
+Muskrat, muskrat, candle light
+Doing the town and doing it right in the evening
+It's pretty pleasing
+Muskrat Suzie, muskrat Sam
+Do the jitterbug out in muskrat land
+And they shimmy, Sam is so skinny
+
+And they whirl and they twirl and they tango
+Singing and jinging a jangle
+Float like the heavens above
+Looks like muskrat love
+
+Nibbling on bacon
+Chewing on cheese
+Sam says to Suzie
+"Honey, would you please be my Mrs?"
+Suzie says yes with her kisses
+Now he's tickling her fancy
+Rubbing her toes
+Muzzle to muzzle
+Now anything goes as they wriggle
+Sue starts to giggle
+
+And they whirl and they twirl and they tango
+Singing and jinging a jangle
+Float like the heavens above
+Looks like muskrat love
+
+And they whirl and they twirl and they tango
+Singing and jinging a jangle
+Float like the heavens above
+Looks like muskrat love
+
+
 

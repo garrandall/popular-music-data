@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-good-reason-paul-carrack
+lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/onegoodreason.html
 name: One Good Reason
 rankings:
 - end_date: '1988-03-25'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
 ---
+
+I stand on my ground when we fight
+No matter where we are
+I am the sad clown with tear eyes
+So happy on your own
+We get some strange looks when we shout
+Clowning at the bar
+It seems that I've hoped
+Now I found a match from my own heart
+
+Just give me one good reason baby
+One good reason now
+One good reason, I should
+I should hang around
+
+I often wonder how we look
+In other people's eyes
+Wild lovers, explosive
+And right above these eyes
+She stands on her own ground when we kiss
+Poisoning my mind
+I bet that I found my match
+To strike it up tonight
+
+Just give me one good reason baby
+One good reason now
+One good reason, I should
+I should hang around
+
+One good reason baby
+One good reason now
+One good reason, I should
+I should hang around
+I should hang around
+(One good reason)
+
+
 

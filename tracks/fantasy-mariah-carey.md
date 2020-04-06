@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fantasy-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/fantasybadboyfantasyremix.html
 name: Fantasy
 rankings:
 - end_date: '1995-10-06'
@@ -107,4 +108,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
 ---
+
+
+Keepin' it real, son, that's right
+The shining star, you're my shining star, girl
+Yo, New York in the house
+Is Brooklyn in the house
+Uptown in the house
+Shaolin are you in the house
+Boogie Down are you in the house
+Sacramento in the house
+Atlanta Georgia are you in the house
+West Coast are you in the house
+Japan are you in the house
+Everybody are you in the house
+Baby, baby come on
+Baby come on, baby come on
+
+
+Oh, when you walk by every night
+Talkin' sweet and lookin' fine
+I get kinda hectic inside
+Mmm, baby, I'm so into you
+Darlin', if you only knew
+All the things that flow through my mind
+
+
+But it's such a sweet sweet, I'm in heaven
+With my boyfriend, my laughing boyfriend
+There's no beginning and there is no end
+Feels like I'm dreaming, but I'm not sleeping
+My sweet fantasy
+Sweet, sweet fantasy
+
+Images of rapture
+Creep into me slowly
+As you're goin' to my head
+And my heart beats faster
+When you take me over
+Time and time and time again
+
+
+
+
+Ladies and Gentlemen
+Introducing the Old, Dirty, Doggy
+Here we go now
+Me and Mariah
+Go back like babies and pacifiers
+Old Dirt Dog's no liar
+Keep your fantasy hot like fire
+Jump, jump, let me see you do the stump
+Girls, let me see you shake your rump
+Brothers, hit it from the back and front
+And let's do it, do it, do it, uh-huh
+I'm a little bit of Country
+I'm a little bit of Rock and Roll
+And I'm soul to soul
+Big letters all big and bold
+Old Dirty Bastard bask and blow
+
+
+
+
+What you gonna do when you get out of jail?
+I'm gonna do a remix
+What you gonna do when you get out of jail?
+I'm gon' do a remix
+What you gonna do when you get out of jail?
+I'm gon' have some fun
+What you gonna do when you get out of jail?
+I'm gon' have some fun
+
+
+
+
 

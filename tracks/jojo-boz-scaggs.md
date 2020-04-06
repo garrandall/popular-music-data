@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jojo-boz-scaggs
+lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/jojo.html
 name: JoJo
 rankings:
 - end_date: '1980-06-20'
@@ -75,4 +76,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
+
+Look out behind you
+Jo Jo's got his gun
+He wouldn't mean to
+You know he likes his fun
+
+Jo Jo dig those spinning lights
+Way out games and dizzy heights below him
+Jo Jo dig those Broadway nights
+Flashy lines you know him
+
+He got you covered
+You know it right out front
+Hmm hmm
+Hey fifty dollars
+He'll get you all you want
+Jo Jo dig those spinning nights
+Way out games and dizzy heights below him 
+And its all below him
+Jo Jo dig those Broadway lights
+Flashy lines you know him
+
+Ever so rarely
+That man in a millions born
+Gentle and soft
+But who'd just as soon off you
+For looking the wrong way as not
+(Jo Jo) Jo Jo
+
+His baby stays high
+Got to keep her sweet
+He keep her just right
+Keeps her on the street
+
+Jo Jo dig those spinning lights
+(Way out games and dizzy heights) 
+Oh below him
+Jo Jo dig those Broadway nights
+Oh you know him
+
+(Jo you are so low
+Oh Oh Jo how low can you go)
+
+Jo Jo dig those spinning lights
+Way out games and dizzy heights below him
+(Jo Jo dig those Broadway nights)
+Broadway nights
+You know him
+
+Say what do you think
+Of gentlemen wearing mink
+Gentle and soft
+But who'd just as soon off you
+For looking the wrong way as not
+(Jo Jo) Jo Jo
+
+Jo Jo dig those spinning lights
+Way out games and dizzy heights below him
+Man its way below him
+Jo Jo dig those Broadway nights
+Flashing lights below him
+Yeah yeah
+Jo Jo
+How low can you go
+Jo Jo Oh Oh
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: that-s-what-friends-are-for-dionne-friends
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/thatswhatfriendsarefor.html
 name: That's What Friends Are For
 rankings:
 - end_date: '1985-11-15'
@@ -100,4 +101,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
 ---
+
+And I never thought I'd feel this way
+And as far as I'm concerned
+I'm glad I got the chance to say
+That I do believe, I love you
+
+And if I should ever go away
+Well, then close your eyes and try
+To feel the way we do today
+And then if you can remember
+
+Keep smiling, keep shining
+Knowing you can always count on me, for sure
+That's what friends are for
+For good times and bad times
+I'll be on your side forever more
+That's what friends are for
+
+Well, you came and opened me
+And now there's so much more I see
+And so by the way
+I thank you
+
+Oh and then for the times when we're apart
+Well, then close your eyes and know
+The words are coming from my heart
+And then if you can remember
+
+Keep smiling and keep shining
+Knowing you can always count on me, for sure
+That's what friends are for
+In good times and bad times
+I'll be on your side forever more
+That's what friends are for
+
+Keep smiling, keep shining
+Knowing you can always count on me, for sure
+That's what friends are for
+For good times and bad times
+I'll be on your side forever more
+That's what friends are for
+
+Keep smiling, keep shining
+Knowing you can always count on me, for sure
+'Cause I tell you, that's what friends are for
+Whoa, good times and the bad times
+I'll be on your side forever more
+That's what friends are for
+
+
 

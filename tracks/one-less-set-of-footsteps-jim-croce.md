@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-less-set-of-footsteps-jim-croce
+lyrics_url: https://www.azlyrics.com/lyrics/jimcroce/onelesssetoffootsteps.html
 name: One Less Set Of Footsteps
 rankings:
 - end_date: '1973-02-09'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+
+We've been runnin' away from somethin' we both know
+We've long run out of things to say and I think I'd better go
+So don't be gettin' excited oh-when you hear that slammin' door
+Cause there'll be one less set of footsteps on your floor in the mornin'
+
+And we've been hidin' from somethin' that should have never gone this far
+But after all it's what we've done that makes us what we are
+And you've been talkin' in silence well if it's silence you adore
+Oh there'll be one less set of footsteps on your floor in the mornin'
+
+Oh there'll be one less set of footsteps on your floor
+One less man to walk in
+One less pair of jeans upon your door
+One less voice a-talkin'
+
+But tomorrow's a dream away and today has turned to dust
+Your silver tongue has turned to clay and your golden rule to rust
+If that's the way that you want it well that's the way I want it more
+Cause there'll be one less set of footsteps on your floor in the mornin'
+Oh there'll be one less set of footsteps on you floor in the mornin'
+
+
 

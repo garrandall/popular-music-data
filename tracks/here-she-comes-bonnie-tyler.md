@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-she-comes-bonnie-tyler
+lyrics_url: https://www.azlyrics.com/lyrics/bonnietyler/hereshecomes.html
 name: Here She Comes
 rankings:
 - end_date: '1984-08-17'
@@ -27,4 +28,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
 ---
+
+Shade begins to steal the light
+Confusion throws another mystery
+It's out for focus with eye
+So now you wonder is this just a dream
+
+Here she comes, here she comes
+She's gonna cause a sensation now
+And just between you and me
+I think she'll soon have you temptation bound
+Here she comes, here she comes
+It's the moment you've been waiting for
+See the face and see that smile
+You've never seen the likes of her before
+
+Suppose-who knows
+She's not above suspicion
+Is she-maybe
+On some kind of secret mission-better listen
+
+Somewhere-somehow
+There's still some pieces missing
+I sense-I feel
+Trust my institution don't rush into your decision
+
+Now here's a riddle in a rhyme
+If she's the same how came she's different now
+The same old eyes but bot the shine
+You know you're certain but you're full of doubt
+
+Here she comes, here she comes
+She's gonna have you at her beck and call
+So why refuse, yeah why contend
+When all resistance is impossible
+This lady's serious make no mistake
+Face to face and eye to eye
+She'll cast a spell that you may never break
+
+
 

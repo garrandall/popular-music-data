@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-2-good-matchbox-20
+lyrics_url: https://www.azlyrics.com/lyrics/matchbox20/back2good.html
 name: Back 2 Good
 rankings:
 - end_date: '1999-01-01'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-03'
 ---
+
+It's nothing, it's so normal
+You just stand there I could say so much
+But I don't go there 'cause I don't want to 
+
+And I was thinking if you were lonely 
+Maybe we could leave here and no one would know 
+At least not to the point that we would think so 
+
+And everyone here knows everyone here is thinking about somebody else 
+Well, it's best if we all keep this under our heads 
+
+And I couldn't tell
+If anyone here was feeling the way I do 
+But I'm lonely now
+And I don't know how 
+To get it back to good 
+
+This don't mean that, you own me
+Well, this ain't no good
+In fact it's phony as hell 
+Yeah, but things worked out just like you wanted to
+
+If you see me out you don't know me 
+Try to turn your head
+Try to give me some room 
+How to figure out just what I'm gonna do 
+
+'Cause everyone here hates everyone here for doing just like they do 
+And it's best if we all keep this quiet instead 
+
+And I couldn't tell
+Why everyone here was doing me like they do 
+But I'm sorry now
+And I don't know how 
+To get it back to good 
+
+Well, everyone here is wondering what it's like to be with somebody else 
+And everyone here's to blame
+And everyone here gets caught up in the pleasure of the pain
+Well, everyone here hides shades of shame
+But looking inside we're the same, we're the same 
+And we're all grown now
+Yeah, but we don't know how 
+To get it back to good 
+
+Well, everyone here knows everyone here is thinking 'bout somebody else 
+And it's best if we all keep this under our heads, in our heads
+
+See, I couldn't tell 'bout
+If anyone here was feeling the way I do 
+That's over now
+And I don't know how
+Guess it's over now 
+There's no getting back to good
+
+
 

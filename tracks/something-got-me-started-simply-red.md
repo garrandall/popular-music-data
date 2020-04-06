@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-got-me-started-simply-red
+lyrics_url: https://www.azlyrics.com/lyrics/simplyred/somethinggotmestarted.html
 name: Something Got Me Started
 rankings:
 - end_date: '1991-10-04'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
 ---
+
+Something got me started
+You know that I will love you
+Lately since we parted
+I truly know that I need you
+
+I'd give it all up for you
+(Yes I would)
+
+Totally broken-hearted
+Guilty of what I did to you
+Lately since we parted
+I truly know that I need you
+
+I'd give it all up for you
+(Yes I would)
+
+You've got to help me, help me,help me
+
+
 

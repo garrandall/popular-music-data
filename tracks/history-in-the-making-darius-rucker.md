@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: history-in-the-making-darius-rucker
+lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/historyinthemaking.html
 name: History In The Making
 rankings:
 - end_date: '2009-11-13'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
 ---
+
+Don't move, baby don't move
+Ah, look at you, I just wanna take this in
+The moonlight dancing off your skin
+
+Our time, let's take our time
+I just wanna look in your eyes and catch my breath
+'Cause I got a feelin'
+
+This could be a one of those memories
+We wanna hold on to, cling to, the one we can't forget
+Baby this could be our last first kiss, the door to forever
+What if this was that moment, that chance we're takin'?
+History in the makin'
+
+Inside, baby inside
+Can you feel the butterflies floatin' all around?
+'Cause I can sure feel it now
+
+Tonight, maybe tonight
+Is the start of a beautiful ride that'll never end
+And baby I got a feeling
+
+This could be a one of those memories
+We wanna hold on to, cling to, the one we can't forget
+Baby this could be our last first kiss, the door to forever
+What if this was that moment, that chance we're takin'?
+History in the makin'
+
+Right here, right now
+Holdin' you in my arms
+
+This could be a one of those memories
+We wanna hold on to, we wanna cling to, one that we can't forget
+Baby this could be our last first kiss, the door to forever
+What if this was that moment, that chance we're takin'?
+History in the makin'
+History in the makin', this is a chance worth takin'
+
+
 

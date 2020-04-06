@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: have-i-stayed-too-long-sonny-cher
+lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/haveistayedtoolong.html
 name: Have I Stayed Too Long
 rankings:
 - end_date: '1966-06-10'
@@ -32,4 +33,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
 ---
+
+I think this party is going badly
+Is there something wrong
+I see faces looking sadly
+Have I stayed too long
+
+Even though I see me smile
+That same scene and acting wild
+Pretending that I really care
+Smiling face is just a mask
+
+Without love a kiss is nothing
+Have I done something wrong
+I look around and I can't find nothing
+Have I stayed too long
+
+Without beginning there ain't no end
+Without a hope, you got no friends
+Have I gone from loving you
+To find out what's behind my tears
+
+I got to get out of this place
+I'm tired, tired of waiting
+This phony place
+
+I think this party is going badly
+Is there something wrong
+I see faces looking sadly
+I guess I'm going home
+
+Even though you see me smiling
+That same scene and acting wild
+Pretending that I really care
+Smiling face is just a mask
+
+
 

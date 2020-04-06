@@ -5,6 +5,7 @@ features:
 - Eve
 genres: []
 key: rich-girl-gwen-stefani-eve
+lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/richgirl.html
 name: Rich Girl
 rankings:
 - end_date: '2004-12-31'
@@ -116,4 +117,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
 ---
+
+
+If I was a rich girl
+See, I'd have all the money in the world,
+If I was a wealthy girl
+No man could test me,
+Impress me,
+My cash flow would never ever end
+'Cause I'd have all the money in the world,
+If I was a wealthy girl
+
+Think what that money could bring
+I'd buy everything
+Clean out Vivienne Westwood
+In my Galliano gown
+
+No, wouldn't just have one hood
+A Hollywood mansion if I could
+Please book me first class
+To my fancy house in London town
+
+All the riches baby won't mean anything
+All the riches baby won't bring what your love can bring
+All the riches baby won't mean anything
+Don't need no other baby
+Your lovin' is better than gold and I know
+
+If I was a rich girl
+See, I'd have all the money in the world,
+If I was a wealthy girl
+No man could test me,
+Impress me,
+My cash flow would never ever end
+'Cause I'd have all the money in the world,
+If I was a wealthy girl
+
+I'd get me four Harajuku girls to
+Inspire me and they'd come to my rescue
+I'd dress them wicked,
+I'd give them names
+Love, Angel, Music, Baby
+Hurry up and come and save me
+
+All the riches baby won't mean anything
+All the riches baby won't bring what your love can bring
+All the riches baby won't mean anything
+Don't need no other baby
+Your lovin' is better than gold and I know
+
+
+Come together all over the world
+From the hoods of Japan Harajuku girls
+What? It's all love
+What? Give it up
+What?
+(shouldn't matter) 
+What?
+
+Come together all over the world
+From the hoods of Japan Harajuku girls
+What? It's all the love
+What? Give it up
+What?
+(shouldn't matter) 
+
+What happened to my life? Turned upside down
+Chicks that blew ya mind, ding, it's the second round
+Original track and ting
+You know you can't buy these things
+See Stefani and her L.A.M.B.
+I rock the fetish people you know who I am
+
+
+Yes ma'am, we got the style that's wicked
+I hope you can all keep up
+We climbed all the way from the bottom to the top
+Now we ain't gettin' nothing but love
+
+If I was a rich girl
+See, I'd have all the money in the world,
+If I was a wealthy girl
+No man could test me,
+Impress me,
+My cash flow would never ever end
+'Cause I'd have all the money in the world,
+If I was a wealthy girl
+
+
 

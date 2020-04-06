@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: memory-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/memory.html
 name: Memory
 rankings:
 - end_date: '1982-11-26'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+
+Midnight,
+Not a sound from the pavement
+Has the moon lost her memory
+She is smiling alone
+In the lamplight the withered leaves collect
+At my feet
+And the wind begins to moan
+
+Memory
+All alone in the moonlight
+I cam smile at the old days
+It was beautiful then
+I remember the time I knew what happiness was
+Let the memory live again
+Daylight,
+I must wait for a sunrise
+I must think of a new life
+And I musn't give in
+When the dawn comes tonight will be
+A memory too
+
+And a new day will begin
+Burnt out ends of smokey days
+The stale cold smell of morning
+The streetlamp dies
+Another night is over Another day is dawning
+Touch me,
+It's so easy to leave me
+All alone with the memory
+Of my day in the sun
+If you touch me you'll understand what
+Happiness is
+Look a new day has begun
+
+Memory
+All alone in the moonlight
+I can smile at the old days It was beautiful then
+I remember the time I knew what happiness was
+Let the memory live again
+
+
 

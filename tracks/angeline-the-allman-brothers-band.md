@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angeline-the-allman-brothers-band
+lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/angeline.html
 name: Angeline
 rankings:
 - end_date: '1980-09-19'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
 ---
+
+Ridin' in a long gray limousine.
+Sittin' in a pair of hundred dollar jeans.
+Tryin' to talk sense to a rock'n'roll queen.
+Damn, best kinda livin' anybody ever seen.
+Oh, Angeline.
+
+
+Lookin' at the bright lights, searchin' for the sliver screen.
+I never seen a woman who could look so good, 
+and be so doggone mean.  Yeah.
+
+Oh, midnight struttin' in New York City.
+Midnight woman, she is lookin' so pretty.
+Her little heart beat in rhythm with the world.
+She used to be her mama's little girl.
+Hey, hey Angeline.
+
+
+
+Whoa, just a game that she loves to play,
+leavin' broken hearts all along the way.
+She's got friends that she ain't never used.
+She's winnin' now but she's bound to lose.
+Oh, Angeline.
+
+
+
+
 

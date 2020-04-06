@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-gon--cry-mary-j--blige
+lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/notgoncry.html
 name: Not Gon' Cry
 rankings:
 - end_date: '1996-02-02'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
 ---
+
+
+While all the time that I was loving you
+You were busy loving yourself
+I would stop breathing if you told me to
+Now you're busy loving someone else
+Eleven years out of my life
+Besides the kids I have nothing to show
+Wasted my years a fool of a wife
+I shoulda have left your ass long time ago
+
+
+Well I'm not gon cry,
+I'm not gon cry,
+I'm not gon shed no tears
+No, I'm not gon cry,
+it's not the time
+cuz you're not worth my tears
+Well I'm not gon cry,
+I'm not gon cry,
+I'm not gon shed no tears
+No, I'm not gon cry,
+it's not the time,
+cuz you're not worth my tears
+
+
+I was your lover and your secretary
+Working every day of the week
+Was at the job when no one else was there
+Helping you get on your feet
+Eleven years of sacrifice
+And you can leave me at the drop of a dime
+Swallowed my fears, stood by your side
+I shoulda left your ass a thousand times
+
+
+
+I know there are no guarantees
+In love you take your chances
+But somehow it seems unfair to me
+Look at the circumstances
+Through sickness and health 'till death do us part
+Those were the words that we said from our hearts
+So now when you say that you're leaving me
+I don't get that part
+
+
+
+
+
+
 

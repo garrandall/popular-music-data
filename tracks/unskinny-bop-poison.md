@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unskinny-bop-poison
+lyrics_url: https://www.azlyrics.com/lyrics/poison/unskinnybop.html
 name: Unskinny Bop
 rankings:
 - end_date: '1990-07-13'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
 ---
+
+What's got you so jumpy?
+Why can't you sit still, yeah?
+Like gasoline you wanna pump me
+And leave me when you get your fill, yeah
+
+Every time I touch you honey you get hot
+I want to make love you never stop
+Come up for air you push me to the floor
+What's been going on in that head of yours
+
+
+Unskinny bop
+Just blows me away
+Unskinny bop, bop
+All night and day
+Unskinny bop, bop, bop, bop
+She just loves to play
+Unskinny bop nothin' more to say
+
+You look at me so funny
+Love bite got you acting oh so strange
+You got too many bees in your honey
+Am I just another word in your page, yeah, yeah
+
+Every time I touch you honey you get hot
+I want to make love you never stop
+Come up for air you push me to the floor
+What's been going on in that head of yours
+
+
+
+You're sayin' my love won't do ya
+But that ain't love written on your face
+Well honey I can see right through ya
+We'll see whose ridin' who at the end of the race
+
+What's right
+What's wrong
+What's left
+What the hell is going on
+
+
+
+
 

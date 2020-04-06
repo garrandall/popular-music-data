@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stages-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/stages.html
 name: Stages
 rankings:
 - end_date: '1986-01-24'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
 ---
+
+It's a fine time to fall in love with you,
+I ain't got a single thing to do.
+It happened before I knew what was going on.
+I fell out and knew that I was gone.
+Stages keep on changing,
+stages rearranging love.
+
+Then you left me standing all alone,
+I couldn't even get you on the phone.
+Were you just confused and didn't know
+if you should stay or if you had to go?
+Stages keep on changing,
+stages rearranging love.
+
+Now you're back and say you're gonna stay.
+I wouldn't have it any other way.
+Tell me it's for real and let me know
+why does lovin' have to come and go.
+Stages keep on changing,
+stages rearranging love.
+
+
 

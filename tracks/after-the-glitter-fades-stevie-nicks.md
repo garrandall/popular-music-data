@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-the-glitter-fades-stevie-nicks
+lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/aftertheglitterfades.html
 name: After The Glitter Fades
 rankings:
 - end_date: '1982-05-21'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
 ---
+
+Well I never thought I'd make it
+Here in Hollywood...
+I never thought I'd ever
+Want to stay...
+What I seem to touch these days
+Has turned to gold...
+What I seem to want
+Well you know I'll find a way
+
+For me... it's the only life
+That I've ever known
+And love is only one...
+Fine star... away
+Even though the living
+Is sometimes laced with lies...
+It's alright...
+The feeling remains
+Even after the glitter fades
+
+The loneliness of a one night stand
+Is hard to take
+We all chase something
+And maybe this is a dream
+The timeless face of a rock and roll
+Woman... while her heart breaks
+Oh you know... the dream keeps coming
+Even when you forget to feel
+
+For me... it's the only life...
+That I've ever know
+And love is only one... fine star away
+Even though the living
+Is sometimes laced with lies...
+It's alright...
+The feeling remains...
+Even after the glitter fades
+
+For me... it's the only life
+That I've ever known
+And love is only one fine star away
+Even though the living
+Is sometimes laced with lies
+It's alright...
+The feeling remains
+Even after the glitter fades
+Oh you know... the feeling remains
+Even after the glitter fades
+Oh the feeling remains...
+Even after the glitter... fades
+
+
 

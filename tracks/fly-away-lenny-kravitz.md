@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-away-lenny-kravitz
+lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/flyaway.html
 name: Fly Away
 rankings:
 - end_date: '1998-12-11'
@@ -135,4 +136,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
 ---
+
+I wish that I could fly 
+Into the sky 
+So very high 
+Just like a dragonfly 
+
+I'd fly above the trees 
+Over the seas in all degrees 
+To anywhere I please 
+
+Oh I want to get away 
+I want to fly away 
+Yeah yeah yeah 
+
+Oh I want to get away 
+I want to fly away 
+Yeah yeah yeah 
+
+Let's go and see the stars 
+The milky way or even Mars 
+Where it could just be ours 
+
+Let's fade into the sun 
+Let your spirit fly 
+Where we are one 
+Just for a little fun 
+Oh oh oh yeah ! 
+
+I want to get away 
+I want to fly away 
+Yeah yeah yeah 
+
+I want to get away 
+I want to fly away 
+Yeah yeah yeah 
+
+I got to get away 
+Feel I got to get away 
+Oh oh oh yeah 
+
+I want to get away 
+I want to fly away 
+Yeah with you yeah yeah 
+Oh Yeah ! 
+
+I want to get away 
+I want to fly away 
+Yeah with you yeah yeah 
+I got to get away 
+
+I want to get away 
+Yeah 
+I want to get away 
+I want to fly away 
+Yeah with you yeah yeah 
+I got to get away 
+
+I want to get away 
+Yeah 
+
+I want to get away 
+I want to fly away 
+Yeah with you 
+Yeah yeah yeah yeah yeah
+
+
 

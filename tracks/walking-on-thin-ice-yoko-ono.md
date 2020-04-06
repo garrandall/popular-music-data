@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-on-thin-ice-yoko-ono
+lyrics_url: https://www.azlyrics.com/lyrics/misstila/walkingonthinice.html
 name: Walking On Thin Ice
 rankings:
 - end_date: '1981-03-13'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
 ---
+
+Walking on thin ice,
+I'm paying the price
+For throwing the dice in the air.
+Why must we learn it the hard way
+And play the game of life with your heart? 
+
+I gave you my knife,
+You gave me my life
+Like a gush of wind in my hair.
+Why do we forget what's been said
+And play the game of life with your hearts? 
+
+Ai-ai-ai-ai-ai-ai-ai-ai...
+
+Ooh-ahooh...
+
+Ai-ai-ai-ai-ai-ai-ai-ai...
+
+I may cry some day,
+But the tears will dry whichever way.
+And when our hearts return to ashes,
+It'll be just a story,
+It'll be just a story.
+
+Ai-ai-ai-ai-ai-ai-ai-ai...
+
+Ooh-ahooh...
+
+Ai-ai-ai-ai-ai-ai-ai-ai...
+
+Ooh-ahooh...
+
+
 

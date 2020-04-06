@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-where-i-need-to-be-gary-allan
+lyrics_url: https://www.azlyrics.com/lyrics/garyallan/rightwhereineedtobe.html
 name: Right Where I Need To Be
 rankings:
 - end_date: '2001-04-13'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
 ---
+
+There's a plane flyin' outta here tonight
+Destination New Orleans
+Boss man says my big promotion's on the line
+He says that's right where I need to be
+
+Lately I've been on the road more than I've been home
+All this leavin' her alone is killin' me
+And holdin' her right now has got me thinkin' more and more
+This is right where I need to be
+
+Where when I hear her I can see her
+I can smell her sweet perfume
+I can feel her skin against me when I sleep
+Where I won't miss her I can kiss her
+Anytime that I want to
+Yeah that's right where I need to be
+Yeah that's right where I need to be
+
+There's a plane flyin' outta here tonight
+With an empty first class seat
+'Cause I've finally got all my priorities in line
+And I'm right where I need to be
+
+Where when I hear her I can see her
+I can smell her sweet perfume
+I can feel her skin against me when I sleep
+Where I won't miss her I can kiss her
+Anytime that I want to
+Yeah that's right where I need to be
+Yeah I'm right where I need to be
+
+
 

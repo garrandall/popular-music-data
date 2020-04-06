@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sucker-jonas-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/sucker.html
 name: Sucker
 rankings:
 - end_date: '2019-03-22'
@@ -195,4 +196,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
 ---
+
+We go together
+Better than birds of a feather, you and me
+We change the weather, yeah
+I'm feeling heat in December when you're 'round me
+
+I've been dancing on top of cars
+And stumbling out of bars
+I follow you through the dark
+Can't get enough
+You're the medicine and the pain
+The tattoo inside my brain
+And baby, you know it's obvious
+
+I'm a sucker for you
+Say the word and I'll go anywhere blindly
+I'm a sucker for you, yeah
+Any road you take you know that you'll find me
+
+I'm a sucker for all the subliminal things
+No one knows about you (About you)
+About you (About you)
+And you're making the typical me
+Break my typical rules
+It's true, I'm a sucker for you
+
+Yeah
+Don't complicate it, yeah
+'Cause I know you and you know everything about me
+I can't remember
+All of the nights I don't remember when you're 'round me
+
+I've been dancing on top of cars
+And stumbling out of bars
+I follow you through the dark
+Can't get enough
+You're the medicine and the pain
+The tattoo inside my brain
+And baby, you know it's obvious
+
+I'm a sucker for you
+Say the word and I'll go anywhere blindly
+I'm a sucker for you, ooh yeah
+Any road you take you know that you'll find me
+
+I'm a sucker for all the subliminal things
+No one knows about you (About you)
+About you (About you)
+And you're making the typical me
+Break my typical rules
+It's true, I'm a sucker for you
+
+Yeah
+(I'm a sucker for you)
+
+I've been dancing on top of cars
+And stumbling out of bars
+I follow you through the dark
+Can't get enough
+You're the medicine and the pain
+The tattoo inside my brain
+And baby, you know it's obvious
+
+I'm a sucker for you
+Say the word and I'll go anywhere blindly
+I'm a sucker for you, ooh yeah
+Any road you take you know that you'll find me
+
+I'm a sucker for all the subliminal things
+No one knows about you (About you)
+About you (About you)
+And you're making the typical me
+Break my typical rules
+It's true, I'm a sucker for you
+I'm a sucker for you
+
+
 

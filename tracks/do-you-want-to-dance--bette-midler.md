@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-to-dance--bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/doyouwanttodance.html
 name: Do You Want To Dance?
 rankings:
 - end_date: '1972-12-29'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+
+Do you wanna dance, and hold my hand?
+Tell me you're my lover man.
+Oh baby, do you wanna dance?
+
+We could dance under the moonlight,
+hug and kiss all through the night.
+Oh baby, tell me, do you wanna dance with me baby?
+
+Do you, do you, do you, do you want to dance?
+Do you, do you, do you want to dance?
+Do you, do you, do you, do you want to dance with me baby?
+
+Ah, that's right, ah, ah, aaaaaaaah.
+Do you want to dance under the moonlight?
+Hug me, kiss me, baby, all through the night.
+Oh baby, baby, baby, baby, baby, baby, tell me, do you want to dance?
+
+Oh, do you, do you, do you, do you want to dance?
+Do you want to dance?
+Do you, do you, do you, do you want to dance with me baby?
+You got to dance with me baby.
+Please dance with me baby
+additional lyrics from the quadrophonic version
+Tonight you, you got to
+dance with me baby.
+Please, please, please
+dance with me baby.
+Please, please, please, please
+dance with me baby.
+Please, you got to . . .
+
+
 

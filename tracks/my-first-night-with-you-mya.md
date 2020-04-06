@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-first-night-with-you-mya
+lyrics_url: https://www.azlyrics.com/lyrics/mya/myfirstnightwithyou.html
 name: My First Night With You
 rankings:
 - end_date: '1999-03-26'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
 ---
+
+
+Yesterday was not just another day
+Not like before
+Yesterday, I saw your smilin' face
+Love walked through, my door
+One precious moment
+Changed my life
+One tender kiss
+Made everything right
+One touch from you
+And this world was mine
+It was in your arms where I found forever
+
+
+Cried my first tears of joy, last night
+Heaven shined a light
+All my dreams came true
+My first night with you
+
+
+I felt the sun
+Shine so bright on me
+Chased the rain from my heart
+Through the storm
+Through the darkest night
+I found my brightest star
+One magic moment
+Made one magic night
+I fell in love
+With one look in your eyes baby
+I never knew I could feel so loved
+Darling, in your arms
+I could feel forever
+
+
+One precious moment
+Changed my life
+One tender kiss
+Made everything right
+One touch from you
+And this world was mine
+It was in your arms babe
+Where I found forever and ever
+
+Cried my first tears of joy, last night (last night I cried)
+Heaven shined a light (Heaven shined a light)
+All my dreams came true
+Cried my first tears of joy, last night (cried, tears, shined)
+Heaven shined a light
+All my dreams came true
+My first night with you
+
+
 

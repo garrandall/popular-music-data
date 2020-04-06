@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caledonia-robin-trower
+lyrics_url: https://www.azlyrics.com/lyrics/robintrower/caledonia.html
 name: Caledonia
 rankings:
 - end_date: '1976-12-10'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
 ---
+
+Caledonia, Caledonia
+Seeing you walk by
+Make a river twist and shout
+Shakes the birds right from the sky
+
+
+Caledonia, who could own ya
+Spirit of romance
+Caledonia, Caledonia, dance
+
+Caledonia, Caledonia
+Your simple little greed
+Make an inch of a loser's wings
+Make a fool right out of me
+
+
+
+Caledonia, Caledonia
+You make my senses fly
+Give me reason to believe
+And I don't wonder why
+
+
+
+Caledonia, Caledonia
+Inside of my soul
+Caledonia, Caledonia
+We'll move it slow
+Caledonia, Caledonia
+Caledonia, Caledonia
+
+
 

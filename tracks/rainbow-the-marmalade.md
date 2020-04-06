@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rainbow-the-marmalade
+lyrics_url: https://www.azlyrics.com/lyrics/marmalade/rainbow.html
 name: Rainbow
 rankings:
 - end_date: '1970-08-14'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
 ---
+
+Rainbow
+Look me up look me down
+Rainbow
+You were fun to have around
+I was dreamin'
+Of the love I had to share
+Never thinkin'
+You were here you were there
+
+Not a word, not a sound, could see or even feel the ground
+A pot of gold, I was sold, by the way you let it fly
+
+Rainbow
+Look me up look me down
+Rainbow
+You were fun to have around
+I was dreamin'
+Of the love I had to share
+Never thinkin'
+You were here you were there
+
+Rainbow
+Look me up look me down
+Rainbow
+You were fun to have around
+Now I'm changing
+For the better for the day
+Feel like singing
+All the colours you convey
+
+Come on home, keep me warm
+And love me till the new day's born
+And I pray, you will stay
+For ever in my eyes
+
+
 

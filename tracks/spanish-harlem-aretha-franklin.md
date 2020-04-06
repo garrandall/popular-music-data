@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spanish-harlem-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/spanishharlem.html
 name: Spanish Harlem
 rankings:
 - end_date: '1971-08-06'
@@ -55,4 +56,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
 ---
+
+(La-la-la la la la la la la la)
+(La-la-la la la la la la la la)
+
+(There's a rose in black at Spanish Harlem)
+(A rose in black at Spanish Harlem)
+
+It is the special one
+It never sees the sun
+It only comes up
+When the moon is on the run
+And all the stars are gleaming
+It's growing in the street
+Right up through the concrete
+But soft sweet and dreamy
+
+(There is a rose in Spanish Harlem)
+(A rose in black at Spanish Harlem)
+
+With eyes as black as coal
+That look down in his soul
+It start a fire there and then he looses control
+I'm gonna beg his par-ar-ar-ardon yeah
+He's going to pick that rose
+And watch her as she grows
+In his garden
+
+
+
+(There is a rose in Spanish Harlem uum uum)
+(A rose in black at Spanish Harlem uum uum)
+
+With eyes as black as coal
+That look down in his soul
+And start a fire there and then he loses control
+And I wanna beg his par-ar-ar-don
+He's going to pick that rose
+And watch her as she grows
+In his garden
+
+(La-la-la- la la la la la la la)
+(La la la-la-la la-la-la la)
+(La la la-la-la la-la-la la)
+
+
+
+(La la la-la-la la-la-la la)
+
+
 

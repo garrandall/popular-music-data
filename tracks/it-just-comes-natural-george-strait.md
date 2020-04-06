@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-just-comes-natural-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/itjustcomesnatural.html
 name: It Just Comes Natural
 rankings:
 - end_date: '2006-11-24'
@@ -83,4 +84,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
 ---
+
+Sun shines, clouds rain
+Train whistles blow and guitars play
+Preachers preach, farmers plow
+Wishes go up and the world goes round
+
+And I love you, it just comes natural
+It just comes natural
+Seasons change rivers wind
+Tumble weeds roll and the stars shine
+Wind howls, dawn breaks
+Cowboys riding' time slips away
+
+And I love you, it just comes natural
+It's what I was born to do
+Don't have to think it through
+Baby, it's so easy loving you
+It just comes natural
+
+It's what I was born to do
+Don't have to think it through
+Baby it's so easy loving you
+
+Fire burns waves crash
+Seeds grow and good things last
+Ships sail dreams fly
+Night falls and full moons rise
+
+And I love you, it just comes natural
+And I love you, it just comes natural
+It just comes natural
+It just comes natural
+
+
 

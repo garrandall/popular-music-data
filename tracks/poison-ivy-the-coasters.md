@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poison-ivy-the-coasters
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/poisonivy.html
 name: Poison Ivy
 rankings:
 - end_date: '1959-08-30'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
 ---
+
+She comes on like a rose
+And everybody knows
+She'll get you in dutch
+You can look but you'd better not touch
+
+Poison ivy, poison ivy
+Well late at night while you're sleeping
+Poison ivy comes a-creeping all around
+
+She's pretty as a daisy
+But look out man she's crazy
+She'll really do you in
+If you let her get under your skin
+
+Poison ivy, poison ivy
+Well late at night when you're sleeping
+Poison ivy comes a creeping all around
+
+Measles make you bumpy and mumps'll make you lumpy
+And chicken pox'll make you jump and twitch
+A common cold'll cool you but whooping cough'll fool you
+But poison ivy's gonna make you itch
+
+You're gonna need an ocean
+Of calamine lotion
+You'll be scratching like a hound
+The minute you start to mess around
+
+Poison ivy, poison ivy
+Well late at night when you're sleeping
+Poison ivy comes a-creeping all around
+
+Measles make you bumpy and mumps'll make you lumpy
+And chicken pox'll make you jump and twitch
+A common cold'll cool you, a whooping cough'll fool you
+But poison ivy's gonna make you itch
+
+You're gonna need an ocean
+Of calamine lotion
+You'll be scratching like a hound
+The minute you start to mess around
+
+Poison ivy, poison ivy
+Well late at night when you're sleeping
+Poison ivy comes a creeping all around
+
+La la la la...
+
+
 

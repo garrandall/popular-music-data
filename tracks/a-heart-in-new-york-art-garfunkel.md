@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-heart-in-new-york-art-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/aheartinnewyork.html
 name: A Heart In New York
 rankings:
 - end_date: '1981-08-14'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
 ---
+
+New York
+To that tall skyline I come
+Flyin' in from London 
+To your door
+
+New York
+Lookin' down on Central Park
+Where they say you should not wander after dark
+
+New York
+Like a scene from all those movies
+But you're real enough to me
+There's a heart
+A heart that lives in New York
+
+A heart in New York, a rose on the street
+I write my song to that city heartbeat
+A heart in New York, the love in her eyes
+An open door and a friend for the night
+
+New York
+You've got money on your mind
+And my words don't make a dime's worth of difference
+So here's to you New York
+
+
 

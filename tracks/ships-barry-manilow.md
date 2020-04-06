@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ships-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/ships.html
 name: Ships
 rankings:
 - end_date: '1979-10-19'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+
+We walked to the sea
+Just my father and me
+And the dogs played around on the sand
+Winter cold cut the air
+Hangin' still everywhere
+Dressed in gray, did he say
+Hold my hand
+I said, love's easier when it's far away
+We sat and watched a distant light
+We're two ships that pass in the night
+We both smile and we say it's alright
+We're still here
+It's just that we're out of sight
+Like those ships that pass in the night
+There's a boat on the line
+Where the sea meets the sky
+There's another that rides far behind
+And it seems you and I are like strangers
+A wide ways apart as we drift on through time
+He said, it's harder now, we're far away
+We only read you when you write
+We're two ships that pass in the night
+And we smile when we say it's alright
+We're still here
+It's just that we're out of sight
+Like those ships that pass in the night
+We're just ships that pass in the night
+And we smile when we say it's alright
+We're still here
+It's just that we're out of sight
+Like those ships that pass in the night
+We're just two ships that pass in the night
+And we smile when we say it's alright
+We're still here
+It's just that we're out of sight
+
+
 

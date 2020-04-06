@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-u-next-ariana-grande
+lyrics_url: https://www.azlyrics.com/lyrics/cimorelli/thankunext.html
 name: Thank U Next
 rankings:
 - end_date: '2018-11-23'
@@ -119,4 +120,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
 ---
+
+Thought I'd end up with Sean
+But he wasn't a match
+Wrote some songs about Ricky
+Now I listen and laugh
+Even almost got married
+And for Pete, I'm so thankful
+Wish I could say, "Thank you" to Malcolm
+'Cause he was an angel
+
+One taught me love
+One taught me patience
+And one taught me pain
+Now, I'm so amazing
+I've loved and I've lost
+That's not what I see
+Look what I got
+Look what you taught me
+And for that, I say
+
+Thank you, next (Next)
+Thank you, next (Next)
+Thank you, next
+I'm so, I'm so grateful for my ex
+Thank you, next (Next)
+Thank you, next (Next)
+Thank you, next (Next)
+I'm so, I'm so...
+
+Spend more time with my friends
+I ain't worried 'bout nothin'
+Plus, I met someone else
+We havin' better discussions
+I know they say I move on too fast
+But this one gon' last
+'Cause her name is Ari
+And I'm so good with that
+
+She taught me love
+She taught me patience
+How she handles pain
+That shit's amazing
+I've loved and I've lost
+But that's not what I see
+Look what I've found
+Ain't no need for searching, and for that, I say
+
+Thank you, next (Thank you, next)
+Thank you, next (Thank you, next)
+Thank you, next
+I'm so, I'm so grateful for my ex
+Thank you, next (Thank you, next)
+Thank you, next (Said thank you, next)
+Thank you, next
+I'm so, I'm so' grateful for my ex
+
+Thank you, next
+Thank you, next
+Thank you, next
+
+One day I'll walk down the aisle
+Holding hands with my mama
+I'll be thanking my dad
+'Cause she grew from the drama
+Only wanna do it once, real bad
+Gon' make that shit last
+God forbid something happens
+Least this song is a smash
+
+I've got so much love
+Got so much patience
+I've learned from the pain
+I turned out amazing
+I've loved and I've lost
+But that's not what I see
+'Cause look what I've found
+Ain't no need for searching
+And for that, I say
+
+Thank you, next (Next)
+Thank you, next (Next)
+Thank you, next
+I'm so, I'm so grateful for my ex
+Thank you, next (Thank you, next)
+Thank you, next (Thank you, next)
+Thank you, next
+I'm so, I'm so grateful for my ex
+
+Thank you, next
+Thank you, next
+Thank you, next
+Yeah
+Thank you, next
+Thank you, next
+Thank you, next
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: callaita-bad-bunny-tainy
+lyrics_url: https://www.azlyrics.com/lyrics/badbunny/callaita.html
 name: Callaita
 rankings:
 - end_date: '2019-06-28'
@@ -88,4 +89,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
+
+Se acostÃ³ temprano maÃ±ana hay que estudiar, eh
+Pero llamÃ³ la amiga diciendo pa' hangear, eh
+Tiene un culito ahÃ­ que lo acabÃ³ de testear, eh
+Pero en bajita, ella no es de frentear
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Ella no era asÃ­, ella no era asÃ­
+No sÃ© quiÃ©n la daÃ±o
+Ella no era asÃ­, ella no era asÃ­
+No sÃ© quiÃ©n la daÃ±o, pero
+
+Ahora enrola
+Y lo prende
+Es panita
+Del que vende, ey
+Nena mala de repente
+No sÃ© si me miente, pero
+SÃ© que tiene mas de veinte
+Los shots de tequila ni los siente
+
+Ahora ve la vida diferente
+Buena, pero le gusta un delincuente
+
+La baby llega y se siente la presiÃ³n
+Ella ni trata y llama la atenciÃ³n, ey
+El perreo es su profesiÃ³n
+Siempre puesta pa' la misiÃ³n
+
+La baby llega y se siente la presiÃ³n
+Ella ni trata y llama la atenciÃ³n, ey
+El perreo es su profesiÃ³n
+Siempre puesta pa' la misiÃ³n
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Se dejÃ³ ese poco y tiene vida nueva
+Anda con una amiga que es como su jeva
+Que les trajo cinco doce pa' que se las beba
+Ella es callaita no es que no se atreva
+
+Si hay sol hay playa
+Si hay playa hay alcohol
+Si hay alcohol hay sexo
+Si es contigo mejor
+
+Si hay sol hay playa
+Si hay playa hay alcohol
+Si hay alcohol hay sexo
+Si es contigo mejor
+
+QuÃ­tate la ropa que hace calor
+DÃ­as de playa, noches de terror
+En la gaveta dejo el temor
+Pa' las envidiosas paz y amor
+Yeah, yeah, yeah, yeah, yeah
+Tainy, Tainy, ey
+Bad Bunny baby, bebe
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Ella es callaita
+Pero pal' sexo es atrevida, yo sÃ©
+Marihuana y bebida
+GozÃ¡ndose la vida, como es
+
+Ella no era asÃ­, ella no era asÃ­
+No sÃ© quiÃ©n la daÃ±o
+Ella no era asÃ­, ella no era asÃ­
+No sÃ© quiÃ©n la daÃ±o, pero
+
+
 

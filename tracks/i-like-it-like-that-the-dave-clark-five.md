@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-it-like-that-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/ilikeitlikethat.html
 name: I Like It Like That
 rankings:
 - end_date: '1965-06-25'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
 ---
+
+Come on (come on let me show you where it's at)
+Ah, come on (come on let me show you where it's at)
+Whoa!, come on (come on let me show you where it's at)
+I said the name of the place is I like it like that
+
+Come on (come on let me show you where it's at)
+Ah, come on (come on let me show you where it's at)
+Whoa!, I wanna show you (come on let me show you where it's at)
+I said the name of the place is I like it like that
+
+They got a little place a-down the track
+The name of the place is I like it like that
+You take Sally and I'll take Sue
+And we're gonna rock away all of our blues
+
+Come on (come on let me show you where it's at)
+Oh, come on (come on let me show you where it's at)
+Ah, come on (come on let me show you where it's at)
+The name of the place is I like it like that
+
+The last time I was down they lost my shoes
+They had some cat shoutin' the blues
+The people was yellin' and shoutin' for more
+And all they kept sayin' was-a "go man, go"
+
+Come on (come on let me show you where it's at)
+Ah, come on (come on let me show you where it's at)
+Oh, I wanna show you (come on let me show you where it's at)
+I said the name of the place is I like it like that
+
+Come on (come on let me show you where it's at)
+Ah, come on (come on let me show you where it's at)
+Oh, come on (come on let me show you where it's at)
+The name of the place is I like it like that
+
+
 

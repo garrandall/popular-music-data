@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: church-of-your-heart-roxette
+lyrics_url: https://www.azlyrics.com/lyrics/roxette/churchofyourheart.html
 name: Church Of Your Heart
 rankings:
 - end_date: '1992-03-06'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
 ---
+
+Can't we leave the world outside 
+Just for a while? Just for a while? 
+Spend some time, you and I 
+Under this bright glorious sky 
+
+It's been so long since I first saw you 
+But I still love that smile in your eyes 
+
+Yes it's true, right from the start 
+I believed in the church of your heart 
+Yes it's you, that make me part of 
+And I believe in the church of your heart 
+
+Step inside, lay yourself down 
+Just for a while, rest for a while 
+I can hear a thundering sound 
+Beating inside when you're around 
+
+It's been so long since I first met you 
+Since we made love, you know how time flies 
+
+Yes it's true, right from the start 
+I believed in the church of your heart 
+Yes it's you that make me be part of 
+And I believe in the church of your heart 
+In the church of your heart 
+
+Yes it's true, right from the start 
+I believed in the church of your heart 
+Yes it's you that make me be part of 
+And I believe in the church of your heart 
+
+Pretty baby it's true, right from the start 
+I believed in the church of your heart 
+Yes it's you that make me be part of 
+And I believe in the church of your heart 
+In the church of your heart
+
+
 

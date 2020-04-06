@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh--carol-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/ohcarol.html
 name: Oh! Carol
 rankings:
 - end_date: '1959-10-18'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
 ---
+
+Oh! Carol
+I am but a fool
+Darling, I love you
+Though you treat me cruel
+You hurt me
+And you make me cry
+But if you leave me
+I will surely die
+
+Darling, there will never be another
+Cause I love you so
+Don't ever leave me
+Say you'll never go
+
+I will always want you for my sweet heart
+No matter what you do
+Oh! Carol
+I'm so in love with you
+
+Oh! Carol
+I am but a fool
+Darling, I love you
+Though you treat me cruel
+You hurt me
+And you make me cry
+But if you leave me
+I will surely die
+
+Darling, there will never be another
+Cause I love you so
+Don't ever leave me
+Say you'll never go
+
+I will always want you for my sweet heart
+No matter what you do
+Oh! Carol
+I'm so in love with you
+
+
 

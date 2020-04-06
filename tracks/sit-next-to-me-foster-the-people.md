@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sit-next-to-me-foster-the-people
+lyrics_url: https://www.azlyrics.com/lyrics/fosterthepeople/sitnexttome.html
 name: Sit Next To Me
 rankings:
 - end_date: '2018-04-06'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
 ---
+
+And it's over, it's over
+I'm circling these vultures
+Got me praying, man, this hunger
+Feeling something rotten
+Last time I saw you said "What's up?"
+And pushed right through
+Then I tried to catch you
+But we're always on the move
+And now it's over, we're sober
+Symptoms of the culture
+And the night ain't getting younger
+Last call's around the corner
+Feeling kinda tempted
+And I'm pouring out the truth
+Just fading out these talkers 'cause now all I want is you
+
+I'm saying come over here and sit next to me
+We can see where things go naturally
+Just say the word and I'll part the sea
+Just come over here and sit next to me
+And I'll take you high, high
+
+Well I ain't frontin' my intention
+Got your man outlined in chalk
+It's a midnight intervention
+Got no plans to make it stop
+Last time I saw you said
+"You wanna keep it light"
+But I'm here to tell you
+I'm not trying to change your mind
+It's alright, ooh, it's alright, oooh
+
+Yeah, come over here and sit next to me
+We can see where things go naturally
+Just say the word and I'll part the sea
+Just come over here and sit next to me
+And I'll take you high, high, high, high
+
+It's alright
+It's alright
+It's alright
+It's alright
+
+So come over here and sit next to me
+We can see where things go naturally
+Just say the word and I'll part the sea
+Just come over here and sit next to me
+
+It's alright
+
+
 

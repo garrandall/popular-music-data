@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-young-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/foreveryoung.html
 name: Forever Young
 rankings:
 - end_date: '1988-08-12'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
+
+May the good Lord be with you
+Down every road you roam
+And may sunshine and happiness
+surround you when you're far from home
+And may you grow to be proud
+Dignified and true
+And do unto others
+As you'd have done to you
+Be courageous and be brave
+And in my heart you'll always stay
+Forever Young, Forever Young
+Forever Young, Forever Young
+
+May good fortune be with you
+May your guiding light be strong
+Build a stairway to heaven
+with a prince or a vagabond
+
+And may you never love in vain
+and in my heart you will remain
+Forever Young,  Forever Young
+Forever Young, Forever Young
+Forever Young
+Forever Young
+
+And when you finally fly away
+I'll be hoping that I served you well
+For all the wisdom of a lifetime
+No one can ever tell
+
+But whatever road you choose
+I'm right behind you, win or lose
+Forever Young, Forever Young
+Forever Young ,Forever Young
+Forever Young, Forever Young
+For, Forever Young, Forever Young
+
+
 

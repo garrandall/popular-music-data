@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: highway-to-hell-ac-dc
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/highwaytohell.html
 name: Highway To Hell
 rankings:
 - end_date: '1979-10-19'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+
+Living easy, lovin' free
+Season ticket, on a one-way ride
+Asking nothing, leave me be
+Taking everything in my stride
+Don't need reason, don't need rhyme
+Ain't nothing I would rather do
+Going down, party time
+My friends are gonna be there too
+
+I'm on the highway to hell
+Highway to hell
+I'm on the highway to hell
+Highway to hell
+
+No stop signs, speedin' limit
+Nobody's gonna slow me down
+Like a wheel, gonna spin it
+Nobody's gonna mess me 'round
+Hey Satan! Paid my dues
+Playin' in a rockin' band
+Hey Mama! Look at me
+I'm on my way to the promise land
+
+I'm on the highway to hell
+Highway to hell
+I'm on the highway to hell
+Highway to hell
+
+Don't stop me!
+
+I'm on the highway to hell!
+I'm on the highway to hell!
+I'm on the highway to hell!
+I'm on the highway to hell!
+
+And I'm goin' down... all the way!
+I'm on the highway to hell...
+
+
 

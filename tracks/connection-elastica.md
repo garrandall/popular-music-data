@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: connection-elastica
+lyrics_url: https://www.azlyrics.com/lyrics/elastica/connection.html
 name: Connection
 rankings:
 - end_date: '1995-03-31'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
 ---
+
+Riding on any wave
+That is the luck you crave
+They don't believe it now
+They just think it's stupid
+So got anything?
+Anyone could have done
+Who would've cared at all
+Not you
+
+Another heart has made the trade
+Forget it, forget it, forget it
+I don't understand how a heart is a spade
+But somehow the vital connection is made
+
+Riding on anything
+Anything's good enough
+Who would've thought it of
+Someone like you
+Just as they brought me 'round
+Now that they brought you down
+Roundabout and roundabout
+Who wants a life anyway?
+
+Another heart has made the grade
+Forget it, forget it, forget it
+I don't understand how the last card is played
+But somehow the vital connection is made
+
+
 

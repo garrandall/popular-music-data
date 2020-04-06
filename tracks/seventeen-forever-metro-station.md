@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seventeen-forever-metro-station
+lyrics_url: https://www.azlyrics.com/lyrics/metrostation/seventeenforever.html
 name: Seventeen Forever
 rankings:
 - end_date: '2009-01-02'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
 ---
+
+You were young, and so am I
+And this is wrong, but who am I to judge?
+I feel like heaven when we touch
+I guess, for me this is enough
+
+
+We're one mistake for being together
+Let's not ask why it's not right
+You won't be seventeen forever
+And we can get away with this tonight
+
+You are young and I am scared
+You're wise beyond your years but I dont care
+And I can feel your heartbeat
+You know exactly where to take me
+
+
+
+Will you remember me?
+You ask me as I leave
+Remember what I said?
+Oh how could I, oh how could I forget?
+
+
+
+
 

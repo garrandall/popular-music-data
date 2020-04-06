@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reflections-of-my-life-the-marmalade
+lyrics_url: https://www.azlyrics.com/lyrics/marmalade/reflectionsofmylife.html
 name: Reflections Of My Life
 rankings:
 - end_date: '1970-03-20'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
 ---
+
+The changing of sunlight to moonlight
+Reflections of my life
+Oh, how they fill my eyes
+The greetings of people in trouble
+Reflections of my life
+Oh, how they fill my eyes
+
+All my sorrow
+Sad tomorrow
+Take me back to my old home
+All my crying (all my crying)
+Feel I'm dying, dying
+Take me back to my old home
+
+I'm changing, arranging
+I'm changing, I'm changing everything
+Ah, everything around me
+The world is a bad place
+A bad place, a terrible place to live
+Oh, but I don't wanna die
+
+All my sorrow
+Sad tomorrow
+Take me back to my old home
+All my crying (all my crying)
+Feel I'm dying, dying
+Take me back to my old home
+All my sorrow (all my sorrow)
+Sad tomorrow
+Take me back (take me back) to my old home
+All my crying (all my crying)
+Feel I'm dying...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-lollipops-and-rainbows-lesley-gore
+lyrics_url: https://www.azlyrics.com/lyrics/lenka/sunshinelollipopsandrainbows.html
 name: Sunshine Lollipops And Rainbows
 rankings:
 - end_date: '1965-06-25'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
 ---
+
+Sunshine, lollipops and rainbows
+Everything that's wonderful is how I feel when we're together
+Brighter than a lucky penny
+When you're near the rain clouds disappear, dear
+And I feel so fine just to know that you are mine
+
+My life is sunshine, lollipops and rainbows
+That's how this refrain goes, so come on, join in everybody
+
+Sunshine, lollipops and rainbows
+Everything that's wonderful is sure to come your way
+When you're in love to stay
+
+Sunshine, lollipops and rainbows
+Everything that's wonderful
+Sunshine, lollipops and rainbows
+Everything that's wonderful
+
+Sunshine, lollipops and rainbows
+Everything that's wonderful is how I feel when we're together
+Brighter than a lucky penny
+When you're near the rain clouds disappear, dear
+And I feel so fine just to know that you are mine
+
+My life is sunshine, lollipops and rainbows
+That's how this refrain goes, so come on, join in everybody
+
+Sunshine, lollipops and rainbows
+Everything that's wonderful is sure to come your way
+When you're in love, when you're in love
+And love is here to stay
+
+
 

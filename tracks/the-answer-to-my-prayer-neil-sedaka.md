@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-answer-to-my-prayer-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theanswertomyprayer.html
 name: The Answer To My Prayer
 rankings:
 - end_date: '1966-02-11'
@@ -23,4 +24,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
 ---
+
+I was lonely, couldn't sleep at night
+So I wished for you with all my might
+You're the one I've waited for
+Now I'll never be alone any more
+
+You're the answer to my prayer
+I've found the answer to my prayer
+Now at last my search is through
+Now I know the answer to my prayer is you
+
+You're an angel, I'm a lucky guy
+Prayin' that we never say goodbye
+Still I wonder, is it true?
+Am I really standing here holding you?
+
+You're the answer to my prayer
+I've found the answer to my prayer
+Now at last my search is through
+Now I know the answer to my prayer is you
+
+Still I wonder, is it true?
+Am I really standing here holding you?
+
+You're the answer to my prayer
+I've found the answer to my prayer
+Now at last my search is through
+Now I know the answer to my prayer is you
+
+You're the answer to my prayer
+I've found the answer to my prayer
+You're the answer to my prayer
+I've found the answer to my prayer
+You're the answer to my prayer
+I've found the answer to my prayer...
+
+
 

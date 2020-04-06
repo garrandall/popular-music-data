@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paint-me-a-birmingham-tracy-lawrence
+lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/paintmeabirmingham.html
 name: Paint Me A Birmingham
 rankings:
 - end_date: '2004-04-09'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
 ---
+
+He was sitting' there, his brush in hand
+Painting' waves as they danced, upon the sand
+With every stroke, he brought to life
+The deep blue of the ocean, against the morning' sky
+I asked him if he only painted ocean scenes
+He said for twenty dollars, I'll paint you anything
+
+Could you Paint Me A Birmingham
+Make it look just the way I planned
+A little house on the edge of town
+Porch going' all the way around
+Put her there in the front yard swing
+Cotton dress make it, early spring
+For a while she'll be, mine again
+If you can Paint Me A Birmingham
+
+He looked at me, with knowing eyes
+Then took a canvas from a bag there by his side
+Picked up a brush, and said to me
+Son just where in this picture would you like to be
+And I said if there's any way you can
+Could you paint me back into her arms again?
+
+Could you Paint Me A Birmingham
+Make it look just the way I planned
+A little house on the edge of town
+Porch going' all the way around
+Put her there in the front yard swing
+Cotton dress make it, early spring
+For a while she'll be, mine again
+If you can Paint Me A Birmingham
+
+Paint Me A Birmingham
+Make it look just the way I planned
+A little house on the edge of town
+Porch going' all the way around
+Put her there in the front yard swing
+Cotton dress make it, early spring
+For a while she'll be, mine again
+If you can Paint Me A Birmingham
+
+Oh paint me a Birmingham
+
+
 

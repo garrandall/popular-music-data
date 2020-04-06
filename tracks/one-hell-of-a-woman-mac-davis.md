@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-hell-of-a-woman-mac-davis
+lyrics_url: https://www.azlyrics.com/lyrics/macdavis/onehellofawoman.html
 name: One Hell Of A Woman
 rankings:
 - end_date: '1974-04-05'
@@ -119,4 +120,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
+
+She's a woman
+She's a baby
+She's a witch
+She's a lady
+She's a free and gentle spirit
+She can be what she wants to be
+And if she wants to be with me tonight
+That's alright
+
+She's one hell of a woman
+Young, strong and tame
+But soft when she loves me
+Like a gentle kitten in my hand
+She makes me feel
+Like a hell of a man
+
+She's wild, warm and tender
+She'll resist then she'll surrender
+She's a free and gentle spirit
+She can be what she wants to be
+And if she wants to be with me tonight
+Well that's alright
+
+She's one hell of a woman
+Young, strong and tame
+But soft when she loves me
+Like a gentle kitten in my hand
+She makes me feel
+Like a hell of a man
+
+She's one hell of a woman
+Young, strong and tame
+But soft when she loves me
+Like a gentle kitten in my hand
+She makes me feel
+Like a hell of a man...
+
+
 

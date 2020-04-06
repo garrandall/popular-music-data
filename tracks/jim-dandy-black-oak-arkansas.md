@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jim-dandy-black-oak-arkansas
+lyrics_url: https://www.azlyrics.com/lyrics/blackoakarkansas/hotandnasty.html
 name: Jim Dandy
 rankings:
 - end_date: '1973-12-21'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
 ---
+
+Yeah, they call me, yeah, Hot and Nasty
+Yeah, they call me, uh, Mister Fancy
+Yeah, when you ball me
+Yeah, you're hot and nasty
+Oh, when you ball me
+You're Miss Fancy
+Right
+
+When I come a knockin' at your door
+Let me in and I'll tell you some more
+No two men are ever the same
+And they tell me
+Jim Dandy is my name
+
+Yeah, they call me, yeah, Hot and Nasty
+Yeah, they call me, uh, Mister Fancy
+Yeah, when you ball me
+Yeah, you're hot and nasty
+Oh, when you ball me
+You're Miss Fancy
+Right
+
+They say Jim Dandy is my name
+They say Jim Dandy is my name
+Always to blame
+Always to blame
+And always just the same
+
+Yeah, Hot and Nasty
+Oh, they call me, uh, Mister Fancy
+Yeah, when you ball me
+Yeah, you're hot and nasty
+Oh, when you ball me
+You're Miss Fancy
+Right
+
+Hot and Nasty
+
+
 

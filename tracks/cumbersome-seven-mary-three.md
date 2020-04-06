@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cumbersome-seven-mary-three
+lyrics_url: https://www.azlyrics.com/lyrics/sevenmarythree/cumbersome.html
 name: Cumbersome
 rankings:
 - end_date: '1996-01-26'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
 ---
+
+She calls me Goliath and I wear the David mask
+I guess the stones are coming too fast for her now
+You know I'd like to believe this nervousness will pass
+All the stones that are thrown are building up the wall
+I have become cumbersome to this world
+I have become cumbersome to my girl
+
+I'd like to believe we could reconcile the past
+Resurrect those bridges with an ancient glance
+But my old stone face can't seem to break her down
+She remembers bridges, burns them to the ground.
+I have become cumbersome to this world
+I have become cumbersome to my girl
+
+Too heavy, too light
+Too black or too white
+Too wrong or too right
+Today or tonight
+Cumbersome
+Too rich or too poor
+She's wanting me less and I'm wanting her more
+A bitter taste is cumbersome
+
+There is a balance between two worlds
+One with an arrow and a cross
+Regardless of the balance
+Life has become cumbersome
+
+Too heavy, too light
+Too black or too white
+Too wrong or too right
+Today or tonight
+Cumbersome
+Too rich or too poor
+She's wanting me less and I'm wanting her more
+A bitter taste is cumbersome
+
+Your life has become cumbersome
+
+
 

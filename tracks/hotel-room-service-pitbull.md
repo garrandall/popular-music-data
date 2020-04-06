@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hotel-room-service-pitbull
+lyrics_url: https://www.azlyrics.com/lyrics/pitbull/hotelroomservice.html
 name: Hotel Room Service
 rankings:
 - end_date: '2009-07-10'
@@ -99,4 +100,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
 ---
+
+I want everybody to stop what they're doing.
+Now if you know you're with somebody you're gonna take the hotel room tonight, make some noise...
+
+Meet me at the hotel room 
+
+
+Forget about your boyfriend and meet me at the hotel room,
+You can bring your girlfriends and meet me at the hotel room
+
+We at the hotel, motel, Holiday Inn 
+
+She like that freaky stuff
+2 in the O, 1 in the eye,
+That kinky stuff, you nasty,
+But I like your type
+And like T.I. it's whatever you like.
+Bring your girls,
+It's whatever tonight,
+Your man just left,
+I'm the plumber tonight,
+I'll check your pipes,
+Oh, you're the healthy type.
+Well, here goes some egg whites.
+Now gimme that sweet, that nasty, that gooshy stuff,
+Let me tell you what we gon' do.
+
+2 + 2, I'm gonna undress you.
+Then we're gonna go 3 and 3 you gon' undress me.
+Then we're gon' go 4 and 4,
+We gon' freak some more, but first...
+
+
+Forget about your boyfriend and meet me at the hotel room,
+You can bring your girlfriends and meet me at the hotel room
+
+We at the hotel, motel, Holiday Inn 
+
+After party in hotel lobby,
+Then we off to the room like vroom,
+With them fingers in yo mouth or open up yo blouse,
+And pull that g-sting down south (ooh)
+OK shawty, 1's company, 2's a crowd, and 3's a party.
+If your girl ain't with it, I got somebody,
+And by nature she's naughty.
+Now gimme that sweet, that nasty that gooshy stuff.
+Ima tell you what we gon' do,
+
+2 + 2, I'm gon' undress you.
+Then we gon' go 3 and 3, you gon' undress me.
+Then we gonna go 4 and 4,
+We gon' freak some more, but first...
+
+
+Forget about your boyfriend and meet me at the hotel room,
+You can bring your girlfriends and meet me at the hotel room
+
+We at the hotel, motel, Holiday Inn 
+
+
 

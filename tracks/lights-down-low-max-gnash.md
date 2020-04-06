@@ -5,6 +5,7 @@ features:
 - gnash
 genres: []
 key: lights-down-low-max-gnash
+lyrics_url: https://www.azlyrics.com/lyrics/max/lightsdownlow-gnash.html
 name: Lights Down Low
 rankings:
 - end_date: '2017-11-03'
@@ -120,4 +121,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
 ---
+
+Heaven only knows where you've been
+But I don't really need to know
+I know where you're gonna go
+
+On my heart where you're resting your head
+And you just look so beautiful
+Just like you were an angel
+
+Can I stop the flow of time?
+Can I swim in your divine?
+'Cause I don't think I'd ever leave this place
+
+Oh
+Turn the lights, turn the lights down low
+Yeah
+Now I'm feeling you breathing slow
+
+'Cause, baby, we're just reckless kids
+Tryna find an island in the flood
+Oh
+Turn the lights, turn the lights down low
+Oh
+
+
+Moon light, mood lights, moves like J-Lo
+Tell me what you want from me
+I'll do it if you say so
+'Cause you're the only one for me
+I'm never gonna say "No"
+I found me an angel
+I can see it in your halo
+Have you ever dreamt of what we can do?
+Have you ever sent an "I love you"?
+I've never felt the feelings that I feel for you
+So, maybe we can make a "we" of "me" and "you"
+I'mma treat you right tonight
+Let's make it last forever
+I promise you that no one else will ever treat you better
+And if you don't believe me
+Please see I don't need no effort
+All you gotta do is flip that switch before we bed up
+
+Oh
+Turn the lights, turn the lights down low
+Yeah
+Now I'm feeling you breathing slow
+Oh
+
+'Cause, baby, we're just reckless kids
+Tryna find an island in the flood
+Oh
+Turn the lights, turn the lights down low
+
+Turn the lights down low
+
+And I would give you everything, baby
+But can you feel this energy? Take it
+And you can have the best of me, baby
+
+And I would give you everything
+But can you feel this energy? Take it
+And you can have the best of me, baby
+
+Oh
+Turn the lights, turn the lights down low
+Yeah
+Now I'm feeling you breathing slow
+
+Oh
+Turn the lights, turn the lights down low
+Yeah
+Now I'm feeling you breathing slow
+
+'Cause, baby, we're just reckless kids
+Tryna find an island in the flood
+Oh
+Turn the lights, turn the lights down low
+
+Oh
+Turn the lights down low
+
+
 

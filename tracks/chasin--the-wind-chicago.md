@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chasin--the-wind-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/chasinthewind.html
 name: Chasin' The Wind
 rankings:
 - end_date: '1991-02-01'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
 ---
+
+Did the best I could
+To make you mine
+If you ever felt anything for me
+Well, you never gave a sign
+Thought time would make you change
+Make you want me
+But baby I never had a chance
+Now I know that there's just some things
+Just not meant to be
+
+
+No use
+Making you care about me
+No way
+That I'm gonna win
+Oh darlin'
+I might as well be
+Chasin' the wind
+Oh, I'm just
+Chasin' the wind
+Open up my heart
+Let you inside
+If love was what you we're lookin' for
+Well, I guess it wasn't mine
+So I guess I better go
+It's over and done
+But you know I'm not really sad at all
+'Cause you can't really say it's over
+When it never had begun
+
+
+
+Can't reach the sea
+If you can't get past the sand
+Can't touch the sky
+If you can't reach up your hand
+Can't give if you give nothing back
+
+
+
+
 

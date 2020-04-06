@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-really-know-how-to-hurt-a-guy-jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/youreallyknowhowtohurtaguy.html
 name: You Really Know How To Hurt A Guy
 rankings:
 - end_date: '1965-05-28'
@@ -44,4 +45,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
 ---
+
+We've been goin' steady now for such a long time
+And up until now, everything was just fine
+You say you still love me but it's not the same
+It so plain to see that you're playin' a game
+
+You really know how to hurt a guy
+You really know how to make me cry
+You really know how to hurt a guy
+But what a mean way to say goodbye
+
+Every time you hurt me, it seems like you planned it (it seems like you planned it)
+I've talked to your friends but they don't understand it (they don't understand it)
+Where did we lose it? What did I do wrong?
+We can't break it up now, it's lasted so long
+
+You really know how to hurt a guy
+You really know how to make me cry
+You really know how to hurt a guy
+But what a mean way to say goodbye
+
+If you'd look at me, you'd see tears in my eyes
+When we're together and you're lookin' at other guys (at other guys)
+The ones that you like are really not your kind
+I know their type and what's on their minds
+
+You really know how to hurt a guy
+You really know how to make me cry
+You really know how to hurt a guy
+But what a mean way to say goodbye
+
+You really know how to hurt a guy
+You really know how to make me cry
+You really know how to hurt a guy
+But what a mean way to say goodbye
+
+You really know how to hurt a guy
+You really know how to make me cry
+You really know how to hurt a guy
+But what a mean way to say goodbye
+
+
 

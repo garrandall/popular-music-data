@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 5-4-3-2--yo--time-is-up--jade
+lyrics_url: https://www.azlyrics.com/lyrics/jade/5432yotimeisup.html
 name: 5-4-3-2 (Yo! Time Is Up)
 rankings:
 - end_date: '1994-09-30'
@@ -59,4 +60,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
 ---
+
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+
+You gotta go on, baby, with your life
+You had to get yours and now I gotta get mine
+You came with me and you know I don't play
+I'm sorry, it ain't going your way
+
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+
+Baby give me some love and give me some respect
+The way that you do the things you do when you want my askings
+You know how you smile when you're guessin' me
+Turnin' me on an' on an' on an' then we gets busy
+
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+
+5, 4, 3, 2
+Your time is up
+Your time is up
+Your time is up
+
+You had to get yours and now I gotta get mine
+No more games we're playing boy and no more lies
+No no no, it ain't going your way
+I got a count down for you, send you on your way
+
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+5-4-3-2, your time is up
+...
+
+
 

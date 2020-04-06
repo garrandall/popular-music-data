@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: homesick-kane-brown
+lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/homesick.html
 name: Homesick
 rankings:
 - end_date: '2019-12-06'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+Dancing in the kitchen
+You singing my favorite songs
+Swinging on the front porch
+Just laughing at the dogs
+How you swear you love me more
+When you're whispering goodnight
+All those little moments
+Are every reason why
+
+I'm homesick
+This feeling that I'm feeling no it don't quit
+It's like half of me is missing, heaven knows it
+That all I wanna do is be alone with
+Your brown eyes all tangled up just holding
+Onto you tonight until the morning
+Baby, that's the damn truth
+If home is where the heart is
+I'm homesick for you
+
+Well it says Kane Brown on a sign with a line out the door
+Sold out some little town I've never been before
+Yeah, they're screaming my name
+This is what we dreamed about
+But out here singing 'bout you baby
+All I'm thinking 'bout is how
+
+I'm homesick
+This feeling that I'm feeling no it don't quit
+It's like half of me is missing, heaven knows it
+That all I wanna do is be alone with
+Your brown eyes all tangled up just holding
+Onto you tonight until the morning
+Baby, that's the damn truth
+If home is where the heart is
+I'm homesick for you
+Homesick for you, yeah yeah
+
+I'm homesick
+This feeling that I'm feeling no it don't quit
+It's like half of me is missing, heaven knows it
+That all I wanna do is be alone with
+Your brown eyes all tangled up just holding
+Onto you tonight until morning
+Baby that's the damn truth
+If home is where the heart is
+I'm homesick for you
+I'm homesick for you, yeah yeah
+
+
 

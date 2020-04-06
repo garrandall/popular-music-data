@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: allergies-paul-simon
+lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/allergies.html
 name: Allergies
 rankings:
 - end_date: '1983-11-11'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
 ---
+
+Maladies
+Melodies
+Allergies to dust and grain
+Maladies
+Remedies
+Still these allergies remain
+My hand can't touch a guitar string
+My fingers just burn and ache
+My head intercedes with my bodily needs
+And my body won't give it a break
+My heart can stand a disaster
+My heart can take a disgrace
+But my heart is allergic
+To the women I love
+And it's changing the shape of my face
+Allergies
+Allergies
+Something's living on my skin
+Doctor please
+Doctor please
+Open up it's me again
+I go to a famous physician
+I sleep in the local hotel
+From what I can see of the people like me
+We get better
+But we never get well
+So I ask myself this question
+It's a question I often repeat
+Where do allergies go
+When it's after a show
+And they want to get something to eat?
+Allergies
+Allergies
+Something's living on my skin
+Doctor please
+Doctor please
+Open up it's me again
+Maladies
+Melodies
+Allergies to dust and grain
+Maladies
+Remedies
+Still these allergies remain
+
+
 

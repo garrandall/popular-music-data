@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-want-to-make-love-to-you-foghat
+lyrics_url: https://www.azlyrics.com/lyrics/foghat/ijustwanttomakelovetoyou.html
 name: I Just Want To Make Love To You
 rankings:
 - end_date: '1972-10-13'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+
+I don't want you, cook my bread
+I don't want you, make my bed
+I don't want your money, too
+I just wanna make love to you
+
+I don't want you, be no slave
+I don't want you, work all day
+I don't want you to be sad and blue
+I just wanna make love to you
+
+I can tell by the way that you baby talk
+I can see by the way that you switch and walk
+I can tell by the way that you treat your man
+But I could love you, baby, it's a cryin' shame
+
+I don't want you, wash my clothes
+I don't want you, keep a home
+I don't want you to be true
+I just wanna make love to you
+
+I don't want you, be no slave
+I don't want you, work all day
+I don't want you to be true
+I just wanna make love to you
+
+I don't want you, keep a home
+I don't want you, wash my clothes
+I don't want you to be true
+I just wanna make love
+
+
 

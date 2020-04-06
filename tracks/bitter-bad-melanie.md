@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bitter-bad-melanie
+lyrics_url: https://www.azlyrics.com/lyrics/melanie/bitterbad.html
 name: Bitter Bad
 rankings:
 - end_date: '1973-02-23'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+
+It's bitter bad, heartsick sad
+When the one that you love has lost the feel for you
+If you do me wrong
+I'll put your first and last name in my rock 'n' roll song
+
+It's bitter bad, he's got the nerve to get mad
+When it's he who lost the feel for you
+
+Oh what a life, what a mean low down world
+You've been doing my stuff with another girl
+You've been doing my stuff with another girl
+
+It's bitter bad, he's got the nerve to get mad
+When it's he who lost the feel for you
+
+Oh what a life, what a mean low down world
+You've been doing my stuff with another girl
+You've been doing my stuff with another girl
+
+If you do me wrong
+I'll put your first and last name in my rock 'n' roll song
+
+It's bitter bad, heartsick sad
+When the one that you love has lost the feel for you
+When the one that you love has lost the feel for you
+When the one that you love don't love you anymore
+When the one that you love has lost the feel for you
+
+
 

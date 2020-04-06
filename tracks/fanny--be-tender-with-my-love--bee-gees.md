@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fanny--be-tender-with-my-love--bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/fannybetenderwithmylove.html
 name: Fanny (Be Tender With My Love)
 rankings:
 - end_date: '1976-01-02'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
 ---
+
+First I rise, then I fall
+Seems like you don't want the love
+Of this man at all
+And it's sure been a lonely time
+Right up to the time I met you
+So if you take a love like mine
+
+Be tender with my love;
+You know how easy it is to hurt me
+Fanny, be tender with my love,
+'Cause it's all that I've got
+And my love won't desert me
+
+So you say to yourself, boy,
+You're out of your brain;
+Do you think I'm gonna stand here
+All night in the rain?
+And it's the start of a love affair
+The moment when I first met you
+And if you want I'll take you there;
+
+Be tender with my love;
+You know how easy it is to break me
+Fanny, be tender with my love,
+'Cause it's all that I've got
+And my love won't forsake me.
+
+With my love,
+Our love will seal it together.
+Oh, with our love,
+You made a promise
+You'll always love me forever.
+
+Be tender with my love;
+You know how easy it is to break me
+Fanny, be tender with my love,
+'Cause it's all that I've got
+And my love won't forsake me.
+
+
 

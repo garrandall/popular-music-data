@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-night-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/changingfaces/onemorenight.html
 name: One More Night
 rankings:
 - end_date: '1985-02-15'
@@ -79,4 +80,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-08'
 ---
+
+One more night
+One more night
+One more night
+
+I've been trying oh so long
+To let you know
+Let you know how I feel, mm
+If I stumble, if I fall
+Just help me back
+So I can make you see
+Please give me
+
+One more night
+Give me just one more night
+Oh, one more night
+'Cause I can't wait forever
+One more night
+One more night
+Oh, one more night
+'Cause I can't wait forever
+
+I've been sitting here so long, wasting time
+Just staring at the phone
+And I was wondering should I call you
+Then I thought
+Maybe you're not alone
+Give me
+
+One more night
+Give me just one more night
+Oh, one more night
+'Cause I can't wait forever
+One more night
+One more night
+Oh, one more night
+'Cause I can't wait forever
+One more night
+Give me just one more night
+Oh, one more night
+'Cause I can't wait forever
+
+Like a river to the sea
+I will always be with you
+And if you should sail away
+I will follow you, you (yeah)
+
+I know there'll never be a time
+When we feel the same
+And I know it's only words
+But if, if you change your mind
+You know that I'll be here
+And maybe, maybe we both can learn
+Oh, give me, just give me one
+
+One more night
+Give me just one more night
+Oh, one more night
+'Cause I can't wait forever
+One more night
+One more night
+Oh, one more night
+'Cause I can't wait forever
+...
+
+
 

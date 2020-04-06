@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-over-yourself-eden-s-crush
+lyrics_url: https://www.azlyrics.com/lyrics/edenscrush/getoveryourself.html
 name: Get Over Yourself
 rankings:
 - end_date: '2001-04-06'
@@ -63,4 +64,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-30'
 ---
+
+Uh-huh
+Yeah, yeah, yeah
+Get over, get over (listen)
+
+Yeah, I was right there like a little wife
+I was everything that you need, always in line
+I was livin' you, lovin' you
+Fillin' your desires
+But that was then, this is now
+Look me in the eye and
+
+Oh, oh
+If love could choose sides
+Oh, oh
+It's taking mine
+
+ - Get over yourself, goodbye
+It must be hard to be you, yeah, livin' in your life
+I was always the one to cry
+Now everything, everything, everything is alright
+Get over yourself, know why
+Cuz without you, see I do anything I like
+Sometimes I stay out all night
+And everything, everything, everything is alright
+
+This just can't be it i kept telling myself
+And every magazine said was me was on the shelf
+I was givin' out, givin' in
+Givin' away my dreams
+You put it in, put me down
+Now I got my self-esteem
+
+Oh, oh
+Won't get me back, no
+Oh, oh (no no)
+You think I overreact, yeah
+
+
+
+So now you wanna talk
+Say let's do it just once more for luck
+Like old times make up
+Better yet, just forget
+Better get over yourself
+
+Stay in touch
+When you learn a few things about love (tell me baby)
+Until then wake up
+Better yet, better get
+Better get over yourself
+
+Get over yourself, goodbye (over yourself, goodbye)
+Over yourself, over yourself
+Get over yourself, goodbye (over yourself, goodbye)
+Over yourself, over yourself
+
+Get over yourself, goodbye
+Cuz without you, see I do anything I like
+Sometimes I stay out all night
+And everything, everything, everything is alright
+
+
+
+
+Get over yourself, goodbye (everything is alright)
+Everything is alright (get over yourself)
+Get over yourself, goodbye (everything is alright)
+Everything is alright (get over yourself)
+Get over yourself, goodbye
+
+
 

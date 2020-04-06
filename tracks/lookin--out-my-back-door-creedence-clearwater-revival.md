@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lookin--out-my-back-door-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/childrenofbodom/lookinoutmybackdoor.html
 name: Lookin' Out My Back Door
 rankings:
 - end_date: '1970-08-14'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
 ---
+
+Just got home from Illinois, lock the front door, oh boy!
+Got to sit down, take a rest on the porch.
+Imagination sets in, pretty soon I'm singin',
+
+
+Doo, doo, doo, Lookin' out my back door.
+
+There's a giant doing cartwheels, a statue wearin' high heels.
+Look at all the happy creatures dancing on the lawn.
+A dinosaur Victrola list'ning to Buck Owens.
+
+
+
+Tambourines and elephants are playing in the band.
+Won't you take a ride on the flyin' spoon?
+Doo, doo doo.
+Wond'rous apparition provided by magician.
+
+
+
+Tambourines and elephants are playing in the band.
+Won't you take a ride on the flyin' spoon?
+Doo, doo doo.
+Bother me tomorrow, today, I'll buy no sorrows.
+
+
+
+Forward troubles Illinois, lock the front door, oh boy!
+Look at all the happy creatures dancing on the lawn.
+Bother me tomorrow, today, I'll buy no sorrows.
+
+
+
+
 

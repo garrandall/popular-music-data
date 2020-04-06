@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: through-the-fire-chaka-khan
+lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/throughthefire.html
 name: Through the Fire
 rankings:
 - end_date: '1985-05-03'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
 ---
+
+I look in your eyes and I can see
+We've loved so dangerously
+You're not trusting your heart to anyone
+You tell me you're gonna play it smart
+We're through before we start
+But I believe that we've only just begun
+
+When it's this good, there's no saying no
+I want you so, I'm ready to go
+
+
+Through the fire
+To the limit, to the wall
+For a chance to be with you
+I'd gladly risk it all
+Through the fire
+Through whatever, come what may
+For a chance at loving you
+I'd take it all the way
+Right down to the wire
+Even through the fire
+
+I know you're afraid of what you feel
+You still need time to heal
+And I can help if you'll only let me try
+You touch me and something in me knew
+What I could have with you
+Well I'm not ready to kiss that dream goodbye
+
+When it's this sweet, there's no saying no
+I need you so, I'm ready to go
+
+
+
+Through the test of time
+
+
+
+Through the fire, to the limit
+Through the fire, through whatever
+Through the fire, to the limit
+Through the fire, through whatever
+
+
 

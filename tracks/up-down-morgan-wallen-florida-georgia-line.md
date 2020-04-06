@@ -5,6 +5,7 @@ features:
 - Florida Georgia Line
 genres: []
 key: up-down-morgan-wallen-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/morganwallen/updown.html
 name: Up Down
 rankings:
 - end_date: '2018-04-13'
@@ -88,4 +89,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
 ---
+
+Was Friday after five, I got here just in time
+Went ahead and wet a line 'fore I went and lost my mind
+I ain't been here long, but the bobbers in the pond
+Going up down, up, down, up, down
+Tonight, we're gonna raise a whole lot more than Cain
+'Cause there's money in the bank and tomorrow's Saturday
+So if they pass that fifth of Jack this way
+I turn it up, down, up, down, up, down
+
+We just holding it down here in BFE
+Still rolling around with a burnt CD
+Free Bird, five minutes deep
+Head bobbing up, down, up, down, up, down
+We got what we got, we don't need the rest
+Can turn this parking lot into a party
+With an ice chest, dancing, cold beer
+Man, we live it up, down, up, down
+We live it up down...here
+
+Yeah, the girls, they hit the spot, get hotter when it's hot
+If you can't buy her a yacht, but still proud of what you got
+'Cause when the day's done, red neck is from the sun
+Going up, down, up, down, up, down
+
+We just holding it down here in BFE
+Still rolling around with a burnt CD
+Free Bird, five minutes deep
+Head bobbing up, down, up, down, up, down
+We got what we got, we don't need the rest
+Can turn this parking lot into a party
+With an ice chest, dancing, cold beer
+Man, we live it up, down, up, down
+We live it up, down here
+
+Somebody pass that fifth of Camp this way
+I'll turn it up, down, up, down, up, down
+
+We just holding it down here in BFE
+Still rolling around with a burnt CD
+Free Bird, five minutes deep
+Head bobbing up, down, up, down, up, down
+We got what we got, we don't need the rest
+Can turn this parking lot into a party
+With an ice chest, dancing, cold beer
+Man, we live it up, down, up, down
+We live it up, down here
+
+
 

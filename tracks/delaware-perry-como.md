@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: delaware-perry-como
+lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/delaware.html
 name: Delaware
 rankings:
 - end_date: '1960-02-14'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+
+Oh, what did Delaware boy what did Delaware?
+What did Delaware boy, what did Delaware?
+She wore a brand New Jersey, she wore a brand New Jersey
+She wore a brand New Jersey, that's what she did wear
+
+Oh, why did California, why did Californ?
+Why did California, was she all alone?
+She called to say Hawaii, she called to say How are ya
+She called to say how are ya, that's why she did phone
+
+Oh, what did Mississip boy, what did Missi sip?
+What did Missi sip boy, through her pretty lips
+She sipped a Minnesota, she sipped a mini soda
+She sipped a mini soda, that's what she did sip
+
+Oh, where has Oregon boy, where as Ora gone?
+If you want Alaska, I'll ask her where she's gone
+She went to pay her Texas, she went to pay her taxes
+She went to pay her Taxes, that's where she has gone
+
+Oh, how did Wisconsin boy, she stole a NeBras-ky
+Too bad that Arkan-sas boy, and so did Tenne-see
+It made poor Flora-di, it made poor Flora-di you see
+She died in Missouri boy, she died in Misery
+
+Oh, what did Delaware, boy what did Delaware
+What did Delaware boy, what did Delaware
+
+
 

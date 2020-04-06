@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: working-in-the-coal-mine-lee-dorsey
+lyrics_url: https://www.azlyrics.com/lyrics/devo/workinginthecoalmine.html
 name: Working In The Coal Mine
 rankings:
 - end_date: '1966-07-29'
@@ -55,4 +56,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
 ---
+
+Well, I been working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Five o'clock in the morning 
+I'm up before the sun 
+When my work day is over 
+I'm too tired for having fun 
+
+Well, I been tired but I been
+Working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Lord, I am so tired 
+How long can this go on? 
+
+Well, I been working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Five o'clock in the morning 
+I'm up before the sun 
+When my work day is over 
+I'm too tired for having fun 
+
+Well, I been tired but I been
+Working in a coal mine
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Working in a coal mine 
+Going down, down 
+Working in a coal mine 
+Whew, about to slip down 
+
+Lord, I am so tired 
+How long can this go on? 
+
+I been a-working, going, working 
+Whew, about to slip down 
+
+Working, going, working 
+Whew, about to slip down 
+
+Working, going, working 
+Whew, about to slip down 
+
+Working, going, working 
+Whew, about to slip down 
+
+Working, a-going, working 
+Whew, about to slip down 
+
+Working, going, working 
+Whew, about to slip down 
+
+Working, going, working 
+Whew, about to slip down
+
+
 

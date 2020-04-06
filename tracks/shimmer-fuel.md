@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shimmer-fuel
+lyrics_url: https://www.azlyrics.com/lyrics/fuel/shimmer.html
 name: Shimmer
 rankings:
 - end_date: '1998-09-18'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+
+She calls me from the cold
+Just when I was low, feeling short of stable
+All that she intends
+And all she keeps inside isn't on the label
+
+She says she's ashamed
+And can she take me for awhile?
+And can I be a friend
+We'll forget the past but maybe I'm not able
+And I break at the bend
+
+We're here and now
+Will we ever be again
+'Cause I have found
+All that shimmers in this world is sure to fade away again
+
+She dreams a champagne dream
+Strawberry surprise, pink linen and white paper
+Lavender and cream
+Fields of butterflies, reality escapes her
+
+She says that love is for fools who fall behind
+And I'm somewhere between
+I never really know a killer from a savior
+'Til I break at the bend
+
+We're here and now
+Will we ever be again
+'Cause I have found
+All that shimmers in this world is sure to fade away again
+
+It's too far away for me to hold too far away
+It's too far away for me to hold too far away
+
+It's too far away for me to hold too far away
+It's too far away for me to hold too far away
+It's too far away for me to hold too far away
+It's too far away for me to hold too far away
+
+Guess I'll let it go
+
+
 

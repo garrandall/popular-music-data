@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-dig-two-the-band-perry
+lyrics_url: https://www.azlyrics.com/lyrics/bandperry/betterdigtwo.html
 name: Better Dig Two
 rankings:
 - end_date: '2012-11-23'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
 ---
+
+I told you on the day we wed
+I was gonna love you 'til I's dead
+Made you wait 'til our wedding night
+That's the first and the last time I'll wear white
+
+So if the ties that bind ever do come loose
+Tie 'em in a knot like a hangman's noose
+Cause I'll go to heaven or I'll go to hell
+Before I'll see you with someone else
+
+Put me in the ground
+Put me six foot down
+And let the stone say,
+
+"Here lies the girl whose only crutch
+Was loving one man just a little too much."
+If you go before I do
+I'm gonna tell the gravedigger that he better dig two
+
+Well,
+It won't be whiskey, it won't be meth
+It'll be your name on my last breath
+If divorce or death ever do us part
+The coroner will call it a broken heart
+
+So put me in the ground
+Put me six foot down
+And let the stone say,
+
+"Here lies the girl whose only crutch
+Was loving one man just a little too much."
+If you go before I do
+I'm gonna tell the gravedigger that he better dig two
+
+Dig two
+Ooh, ooh
+
+I took your name when I took those vows (took those vows)
+I meant 'em back then and I mean 'em right now,
+Oh, right now
+
+If the ties that bind ever do come loose
+If "forever" ever ends for you
+If that ring gets a little too tight
+You might as well read me my last rites
+
+And let the stone say,
+
+"Here lies the girl whose only crutch
+Was loving one man just a little too much."
+If you go before I do
+Gonna tell the gravedigger that he better dig, uh!
+
+There'll be a stone right next to mine,
+We'll be together 'til the end of time
+Don't you go before I do,
+I'm gonna tell the gravedigger that he better dig two
+
+I told you on the day we wed
+I was gonna love you 'til I's dead
+
+
 

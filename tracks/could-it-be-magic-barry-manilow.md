@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-it-be-magic-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/coulditbemagic.html
 name: Could It Be Magic
 rankings:
 - end_date: '1975-07-04'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
 ---
+
+Spirit move me
+Every time I"m near you
+Whirling like a cyclone in my mind
+
+Sweet Melissa,
+Angel of my life time
+Answer to all answers I can find
+
+Baby I love you come, come
+Come into my arms
+Let me know the wonder of all of you
+Baby I want you,
+Now, now, now and hold on fast
+Could this be the magic at last
+
+Lady take me
+High upon a hillside
+High up where the stallion meets the sun
+I could love you
+Build my world around you
+Never leave you till my life is done
+
+Baby I love you come, come
+Come into my arms
+Let me know the wonder of all of you
+And baby I want you
+Now, now, oh now, oh now and hold on fast
+Could this be the magic at last
+Now could it be magic
+Come, come on, come on
+Come oh come into my arms
+Let me know the wonder of all of you
+Baby I want you
+Now, now, oh now, oh now and hold on fast
+Could this be the magic at last
+Could it be magic
+Come, come on, come on, come, oh come into my arms
+Let me know the wonder of all of you
+Baby I want you
+Now, now, oh now, oh now and hold on fast
+Could this be the magic at last.
+Could it be magic
+Come, come on, come on, come, oh come into my arms
+Let me know the wonder of all of you
+Baby I want you
+Now, now, oh now, now oh now and hold on fast
+Could this be the magic at last
+
+
 

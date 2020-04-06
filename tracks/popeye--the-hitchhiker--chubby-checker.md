@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: popeye--the-hitchhiker--chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/popeyethehitchhiker.html
 name: Popeye (The Hitchhiker)
 rankings:
 - end_date: '1962-09-21'
@@ -59,4 +60,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
+
+Hitchhike
+Hitchhike
+Popeye
+Standing on the side of the street
+Uh huh
+Hitchhike
+Hitchhike
+Popeye
+Clapping both his hand to the beat
+Oh yeah
+Hitchhike 
+Hitchhike
+Hey
+Popeye
+Tryin' hard to bum a ride
+Popeye
+Tryin' but none come around
+They go by
+Hey
+Popeye
+
+Well now clap your hands
+And thumb your thumbs
+That's how the popeye dance is done
+Popeye
+Standing there and it's gettin' cold
+Oh yeah
+Hitchhike 
+Hitchhike
+Popeye
+Shakin' now to warm up his soul
+Uh huh
+Hitchhike 
+Hitchhike
+Hey
+Popeye
+Double turn and with the thumb
+Popeye
+Tryin' but nobody comes
+They go by
+Hey
+Popeye
+
+Well now clap your hands
+And thumb your thumbs
+That's how the popeye dance is done
+Yeah
+
+Popeye
+Standin' there and it's gettin' late
+Oh yeah
+Hitchhike 
+Hitchhike
+Popeye
+Dancin' there and he's movin' great
+Oh yeah
+Hitchhike 
+Hitchhike
+Yeah
+Popeye
+She's a gorgeous chick all fine
+She just stops and hollers hi
+That lucky guy
+Don't cha know
+Popeye
+
+Well now clap your hands
+And thumb your thumbs
+That's how the popeye dance is done
+Fly
+Hey
+Popeye
+
+
 

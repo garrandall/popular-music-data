@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-we-danced-hooters
+lyrics_url: https://www.azlyrics.com/lyrics/hooters/andwedanced.html
 name: And We Danced
 rankings:
 - end_date: '1985-08-16'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
 ---
+
+She was a be-bop baby on a hard day's night
+She was hangin' on Johnny, he was holdin' on tight
+I could feel her coming from a mile away
+There was no use talking, there was nothing to say
+When the band began to play and play
+
+And we danced like a wave on the ocean, romanced
+We were liars in love and we danced
+Swept away for a moment by chance
+And we danced and danced and danced
+
+I met my be-bop baby at the Union Hall
+She could dance all night and shake the paint off the wall
+But when I saw her smile across a crowded room
+Well I knew we'd have to leave the party soon
+As the band began to play out of tune
+
+And we danced like a wave on the ocean, romanced
+We were liars in love and we danced
+Swept away for a moment by chance
+And we danced and danced and danced
+
+The endless beat, she's walkin' my way
+Hear the music fade when she says
+Are we getting too close, do we dare to get closer
+The room is spinning, she whispers my name
+
+And we danced like a wave on the ocean, romanced
+We were liars in love and we danced
+Swept away for a moment by chance
+And we danced and danced
+
+And we danced like a wave on the ocean, romanced
+We were liars in love and we danced
+Swept away for a moment by chance
+And we danced and danced and danced
+and danced and danced and danced
+and danced and danced and danced
+
+And we danced
+And we danced
+And we danced
+
+And we danced and danced and danced
+and danced and danced and danced
+and danced and danced and danced
+
+
 

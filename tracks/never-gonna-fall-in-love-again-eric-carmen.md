@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-gonna-fall-in-love-again-eric-carmen
+lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/nevergonnafallinloveagain.html
 name: Never Gonna Fall In Love Again
 rankings:
 - end_date: '1976-05-07'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
 ---
+
+No use pretending things can still be right
+There's really nothing more to say
+I'll get along without your kiss goodnight
+Just close the door and walk away
+
+Never gonna fall in love again
+I don't want to start with someone new
+'Cause I couldn't bear to see it end
+Just like me and you
+
+No, I never want to feel the pain
+Of remembering how it used to be
+Never gonna fall in love again
+Just like you and me
+
+At first we thought that love was here to stay
+The summer made it seem so right
+But like the sun we watched it fade away
+From morning into lonely night
+
+Never gonna fall in love again
+I don't want to start with someone new
+'Cause I couldn't bear to see it end
+Just like me and you
+
+No, I never want to feel the pain
+Of remembering how it used to be
+Never gonna fall in love again
+Just like you and me
+
+Never gonna fall in love again
+I don't want to start with someone new
+'Cause I couldn't bear to see it end
+Just like me and you
+
+No, I never want to feel the pain
+Of remembering how it used to be
+Never gonna fall in love again
+Just like you and me
+
+Never gonna fall in love again
+I don't want to start with someone new
+'Cause I couldn't bear to see it end
+Just like me and you
+
+
 

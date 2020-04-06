@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chandelier-sia
+lyrics_url: https://www.azlyrics.com/lyrics/sia/chandelier.html
 name: Chandelier
 rankings:
 - end_date: '2014-05-30'
@@ -191,4 +192,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
 ---
+
+Party girls don't get hurt
+Can't feel anything, when will I learn
+I push it down, push it down
+
+I'm the one "for a good time call"
+Phone's blowin' up, ringin' my doorbell
+I feel the love, feel the love
+
+1, 2, 3, 1, 2, 3 drink
+1, 2, 3, 1, 2, 3 drink
+1, 2, 3, 1, 2, 3 drink
+
+Throw 'em back, till I lose count
+
+I'm gonna swing from the chandelier
+From the chandelier
+I'm gonna live like tomorrow doesn't exist
+Like it doesn't exist
+I'm gonna fly like a bird through the night
+Feel my tears as they dry
+I'm gonna swing from the chandelier
+From the chandelier
+
+But I'm holding on for dear life
+Won't look down, won't open my eyes
+Keep my glass full until morning light
+'Cause I'm just holding on for tonight
+Help me, I'm holding on for dear life
+Won't look down, won't open my eyes
+Keep my glass full until morning light
+'Cause I'm just holding on for tonight
+On for tonight
+
+Sun is up, I'm a mess
+Gotta get out now, gotta run from this
+Here comes the shame, here comes the shame
+
+1, 2, 3, 1, 2, 3 drink
+1, 2, 3, 1, 2, 3 drink
+1, 2, 3, 1, 2, 3 drink
+
+Throw 'em back till I lose count
+
+I'm gonna swing from the chandelier
+From the chandelier
+I'm gonna live like tomorrow doesn't exist
+Like it doesn't exist
+I'm gonna fly like a bird through the night
+Feel my tears as they dry
+I'm gonna swing from the chandelier
+From the chandelier
+
+But I'm holding on for dear life
+Won't look down, won't open my eyes
+Keep my glass full until morning light
+'Cause I'm just holding on for tonight
+Help me, I'm holding on for dear life
+Won't look down, won't open my eyes
+Keep my glass full until morning light
+'Cause I'm just holding on for tonight
+On for tonight
+
+On for tonight
+'Cause I'm just holding on for tonight
+Oh, I'm just holding on for tonight
+On for tonight, on for tonight
+'Cause I'm just holding on for tonight
+'Cause I'm just holding on for tonight
+Oh, I'm just holding on for tonight
+On for tonight, on for tonight
+
+
 

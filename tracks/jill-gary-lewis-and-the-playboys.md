@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jill-gary-lewis-and-the-playboys
+lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/jill.html
 name: Jill
 rankings:
 - end_date: '1967-08-18'
@@ -35,4 +36,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
 ---
+
+Jill, between you and me
+I can see the gleam in your eyes
+And I can hardly wait to see you, Jill
+
+Just as if you were here
+I can hear your voice softly call
+And no, no Jill is here at all
+My love is only a dream away
+Jill is only a dream
+
+All my life, I've done crazy things
+Gonna find a bird that sings to me
+
+La la, you, la la la, ooh ooh
+
+Jill, are you thinking of me?
+I'll be thinking of you all my life
+
+La la you, la la la, ooh ooh
+
+Jill, are you thinking of me?
+I'll be thinking of you all my life
+
+Jill, Jill, Jill
+
+
 

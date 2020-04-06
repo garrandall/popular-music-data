@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-old-fashioned--that-s-the-way-love-should-be--the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/thatsoldfashionedthatsthewayloveshouldbe.html
 name: That's Old Fashioned (That's The Way Love Should Be)
 rankings:
 - end_date: '1962-05-18'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
 ---
+
+We hold hands in the movie show
+So they say that we're old fashioned
+Or we stroll beneath the silvery moon
+And we carve our initials in the old oak tree
+That's old fashioned, that's the way love should be
+
+We enjoy sitting side by side
+In the booth in the ice cream parlor
+Where we play the nickelodeon
+And we dance when we hear our favorite melody
+That's old fashioned, that's the way love should be
+
+It's a modern changing world
+Everything is moving fast
+But when it comes to love I like
+What they did in the past
+
+I'm the kind who loves only one
+So the boys say I'm old fashioned
+Let them laugh, honey I don't mind
+I've made plans for a wedding day for you and me
+That's old fashioned, that's the way love should be
+
+
 

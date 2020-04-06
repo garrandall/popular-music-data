@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: overkill-men-at-work
+lyrics_url: https://www.azlyrics.com/lyrics/menatwork/overkill.html
 name: Overkill
 rankings:
 - end_date: '1983-04-15'
@@ -71,4 +72,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
 ---
+
+I can't get to sleep
+I think about the implications
+Of diving in too deep
+And possibly the complications
+Especially at night
+I worry over situations
+I know will be all right
+Perhaps it's just imagination
+
+Day after day it reappears
+Night after night my heartbeat shows the fear
+Ghosts appear and fade away
+
+Alone between the sheets
+Only brings exasperation
+It's time to walk the streets
+Smell the desperation
+At least there's pretty lights
+And though there's little variation
+It nullifies the night
+From overkill
+
+Day after day it reappears
+Night after night my heartbeat shows the fear
+Ghosts appear and fade away
+Come back another day
+
+I can't get to sleep
+I think about the implications
+Of diving in too deep
+And possibly the complications
+Especially at night
+I worry over situations that
+I know will be all right
+It's just overkill
+
+Day after day it reappears
+Night after night my heartbeat shows the fear
+Ghosts appear and fade away
+Ghosts appear and fade away
+Ghosts appear and fade away
+
+
 

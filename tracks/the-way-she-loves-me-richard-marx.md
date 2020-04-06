@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-she-loves-me-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/thewayshelovesme.html
 name: The Way She Loves Me
 rankings:
 - end_date: '1994-07-22'
@@ -83,4 +84,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
 ---
+
+I'll have this feeling
+Till the day that I die
+When I hear my baby calling
+A simple motion, a look in her eyes
+And I'm helplessly falling
+I'd give all of somebody else
+For any piece of her heart that's left
+She knows me better than I know myself
+
+
+Let me tell you
+'bout the way she loves me
+Ooh, I'm proud to let it show
+I'm crazy about the way she loves me
+Ooh, I want the world to know
+Yeah, yeah, yeah
+
+Came close to letting this train pass me by
+Just like a fool, second guessing
+I could've spent my life wondering why
+I didn't cherish the blessing
+But I know, she'd come my way
+Lonely nights would have been okay
+I have her promise that she's gonna stay
+
+
+
+Nobody else could do me so right
+A breath of Heaven in my darkest night
+I'm gonna hold on with all of my might
+
+
+
+
 

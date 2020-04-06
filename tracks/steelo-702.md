@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steelo-702
+lyrics_url: https://www.azlyrics.com/lyrics/702/steeloremix.html
 name: Steelo
 rankings:
 - end_date: '1996-09-20'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
 ---
+
+Say 7, say 702.
+
+
+
+Boy you're so fine(so fine),
+And dat's no doubt(no doubt),
+When it comes to good taste,
+I know what I'm talking about.
+I dig your style(style style),
+I dig your style,
+The way you flow(flow flow),
+The way you flow.
+It's like I,
+I think I dig your steelo.
+
+
+I know that I like the way you move,
+I dig the way you flow.
+I like the way way you move,
+I like your steelo.
+
+
+I've been thinking about you,
+All the time it's 24/7, your on my mind,
+Can I get your name.
+Boy it's your steelo,
+That drives me all wild.
+
+
+
+
+Ha ha, one two one two anybody,
+Wanna, wanna, wanna follow me.
+
+MC's wanna copy me,
+'Cause they dig the way I hee hee hee,
+They wanna scream when I hee hee ha,
+I hit 'em with the hee hee.
+702, them fools be a follow by crew,
+One two come follow me,
+I hit 'em with the hee hee.
+
+
+
+
 

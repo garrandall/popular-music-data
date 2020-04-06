@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-belong-to-me-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/youbelongtome.html
 name: You Belong To Me
 rankings:
 - end_date: '1978-04-21'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
 ---
+
+Why'd you tell me this
+Were you looking for my reaction
+What do you need to know
+Don't you know I'll always be your girl
+You don't have to prove to me you're beautiful to strangers
+I've got loving eyes of my own
+
+
+You belong to me
+Tell her you were fooling
+You don't even know her
+Tell her that I love you
+
+You belong to me
+Can it be, honey, that you're not sure
+You belong to me
+Thought we'd closed the book - locked the door
+You don't have to prove to me that you're beautiful to strangers
+I've got loving eyes of my own
+And I can tell - I can tell darling
+Tell her - tell her that I love you
+
+You belong - you belong - you belong to me
+Tell her you were fooling
+Tell her she don't even know you
+Tell her you were fooling
+I know you from a long time ago, baby
+Don't leave me to go to her now
+You belong to me.
+
+
 

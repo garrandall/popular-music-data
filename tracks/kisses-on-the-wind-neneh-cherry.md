@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kisses-on-the-wind-neneh-cherry
+lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/kissesonthewind.html
 name: Kisses On The Wind
 rankings:
 - end_date: '1989-07-28'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
 ---
+
+Down this wild street walks
+Walks a child with no trace
+Of ever being as young as her sister is
+A local neighborhood crush the boys would hide out and watch
+Her hanging washing on the line all the time
+
+More like a woman she talks like one
+She was the first girl, she was the first girl
+To turn the boys on
+Boys boys
+Wrapped around her finger
+So young
+Making love was only dreaming
+This girl she's got another story
+When they are gone she blows them kisses on the wind
+
+At the corner shop half way down the block
+All the radios pumping to the way she walks
+Past the fly boy's art where her name's engraved
+Sweet liberty is what it says
+
+More like a woman she talks like one
+She was the first girl, she was the first girl
+To turn the boys on
+Boys boys
+Wrapped around her finger
+So young
+Making love was only dreaming
+This girl she's got another story
+When they are gone she blows them kisses on the wind
+
+The price of puberty's got
+A way of showing
+It doesn't come in easy stages
+Her mother's face in the pot
+She won't ever leave it
+She needs a bell to ring the changes
+
+More like a woman she talks like one
+She was the first girl, she was the first girl
+To turn the boys on
+Boys boys
+Wrapped around her finger
+So young
+Making love was only dreaming
+This girl she's got another story
+When they are gone she blows them kisses on the wind
+
+
 

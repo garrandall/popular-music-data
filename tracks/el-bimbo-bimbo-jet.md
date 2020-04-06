@@ -47,4 +47,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
 ---
+Ah ah! Aie! Aie!
+Bimbo! Oh!
+Vamos a bailar el Bimbo! Oh!
+Hé! Aï!
 
+
+Bailemos el Bimbo!
+Bimbo! Bimbo! Bimbo!
+(Aie Aie!)
+Ese es el Bimbo, venga!
+Si asi!
+Un pasito par aqui, un pasito par alla
+Aïe Mama!
+Ah ah ah aha! Ah ah ah ah ah ah!
+Bimbo Bimbo Bimbo Bimbo Bimbo Bimbo
+Aïe es el bimbo, niña, venga, venga, venga, venga!
+
+Bailemos el Bimbo
+Asi, es asi, todo es asi
+par aqui, par alla
+Ah! La La La La!
+Ah ah ah aha!
+ah ah ha ah ah ah ah ah ah!
+
+aie!
+
+Bailemos el Bimbo!
+Bimbo! Bimbo! Bimbo!
+Aah ah ha ah ah ah ah ah ah!
+Bimbo! Bimbo! Bimbo!
+(Niña, venga asi)
+Asi asi!
+Bimbo! Bimbo!
+
+Ah ah ah ah ah ah
+Asi Asi!
+Asi bailar el Bimbo!

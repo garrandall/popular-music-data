@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: earth-angel-new-edition
+lyrics_url: https://www.azlyrics.com/lyrics/newedition/earthangel.html
 name: Earth Angel
 rankings:
 - end_date: '1986-08-29'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+
+Earth angel,
+Earth angel
+Will you be mine
+My darling dear
+Love you all the time
+I'm just a fool,
+A fool in love, with you
+
+Earth Angel
+Earth angel
+The one I adore
+Love you forever
+And ever more
+I'm just a fool,
+A fool in-love with you
+
+I fell for you
+And I knew
+The vision of your love's loveliness
+I hope and I pray,
+That someday,
+I'll be the vision of your
+Hap-happiness
+
+Earth angel,
+Earth angel
+Please be mine
+My darling dear
+Love you all the time
+I'm just a fool,
+A fool in love, with you
+
+I fell for you
+And I knew
+The vision of your love's loveliness
+I hope and I pray,
+That someday,
+I'll be the vision,
+The vision of your happiness
+
+Earth angel,
+Earth angel
+Please be mine
+My darling dear
+Love you all the time
+I'm just a fool,
+A fool in love, with you
+
+
 

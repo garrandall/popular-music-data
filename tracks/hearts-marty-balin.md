@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hearts-marty-balin
+lyrics_url: https://www.azlyrics.com/lyrics/martybalin/hearts.html
 name: Hearts
 rankings:
 - end_date: '1981-05-29'
@@ -91,4 +92,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
 ---
+
+Is everything all right?
+I just called to say how lost I feel without you
+Miles away
+I really can't believe I'm here and how I still care about you
+
+Hearts can break
+And never mend together
+Love can fade away
+Hearts can cry
+When love won't stay forever
+Hearts can be that way
+
+Is everything the same?
+Do you ever think of me and how we loved one another?
+Will you change your mind?
+Will you want me back again or have you found yourself a new lover?
+
+Hearts can break
+And never mend together
+Love can fade away
+Hearts can cry
+When love won't stay forever
+Hearts can be that way
+
+Is everything okay?
+I just thought I'd write a song to tell the world how I miss you
+'Cause each and every day
+I think of all the words I never said and all the chances that I had to
+
+Hearts can break
+And never mend together
+Love can fade away
+Hearts can cry
+When love won't stay forever
+Hearts can be that way
+Hearts can be that way
+Hearts can be
+
+Is everything all right?
+
+
 

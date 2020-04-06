@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaround-sue-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/runaroundsue.html
 name: Runaround Sue
 rankings:
 - end_date: '1961-10-01'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
 ---
+
+Here's my story, it's sad but true
+It's about a girl that I once knew
+She took my love then ran around
+With every single guy in town
+
+Yeah, I should have known it from the very start
+This girl would leave me with a broken heart
+Now listen people what I'm telling you
+A-keep away from-a Runaround Sue, yeah
+
+I miss her lips and the smile on her face
+The touch of her hand and this girl's warm embrace
+So if you don't wanna cry like I do
+A-keep away from-a Runaround Sue
+
+She likes to travel around, yeah
+She'll love you and she'll put you down
+Now people let me put you wise
+Sue goes out with other guys
+
+Here's the moral in the story from the guy who knows
+I fell in love and my love still grows
+Ask any fool that she ever knew, they'll tell ya
+Keep away from-a Runaround Sue
+
+Yeah keep away from this girl
+I don't know what she'll do
+Keep away from Sue!
+
+She likes to travel around, yeah
+She'll love you and she'll put you down
+Now people let me put you wise
+She goes out with other guys
+
+Here's the moral in the story from that guy who knows
+I fell in love and my love still grows
+Ask any fool that she ever knew, they'll tell ya
+A-keep away from-a Runaround Sue
+
+Stay away from that girl
+Don't you know what she'll do now
+Keep away from that girl
+
+
 

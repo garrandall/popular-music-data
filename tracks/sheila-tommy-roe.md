@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sheila-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/sheila.html
 name: Sheila
 rankings:
 - end_date: '1962-08-03'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
 ---
+
+Sweet little Sheila, you'll know her if you see her
+Blue eyes and a ponytail
+Her cheeks are rosy, she looks a little nosey
+Man, this little girl is fine
+
+Never knew a girl like-a little Sheila
+Her name drives me insane
+Sweet little girl, that's my little Sheila
+Man, this little girl is fine
+
+Me and Sheila go for a ride
+Oh-oh-oh-oh, I feel all funny inside
+Then little Sheila whispers in my ear
+Oh-oh-oh-oh, I love you Sheila dear
+
+Sheila said she loved me, she said she'd never leave me
+True love will never die
+We're so doggone happy just bein' around together
+Man, this little girl is fine
+
+Never knew a girl like-a little Sheila
+Her name drives me insane
+Sweet little girl, that's my little Sheila
+Man, this little girl is fine
+
+Me and Sheila go for a ride
+Oh-oh-oh-oh, I feel all funny inside
+Then little Sheila whispers in my ear
+Oh-oh-oh-oh, I love you Sheila dear
+
+Sheila said she loved me, she said she'd never leave me
+True love will never die
+We're so doggone happy just bein' around together
+Man, this little girl is fine
+
+Oh, this little girl is fine
+Yeah, this little girl is fine
+Oh, this little girl is fine
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moving-to-mars-coldplay
+lyrics_url: https://www.azlyrics.com/lyrics/coldplay/movingtomars.html
 name: Moving To Mars
 rankings:
 - end_date: '2011-07-22'
@@ -11,4 +12,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
 ---
+
+Somewhere up above the stars
+The wreckage of a universe floats past
+Somewhere up above my heart
+A tiny little seed is sown, a government is overthrown,
+Who knows when we'll be coming home at last
+
+And I heard it on the radio that one day we'll be living in the stars
+And I heard it on a TV show that somewhere up above and in my heart
+They'll be tearing us apart, maybe moving us to Mars
+We won't see the earth again
+And the seconds just remain unchanged
+
+8 to 9, 9 to 10
+We are meeting for the first time
+We might never meet again, you and me
+We are meeting for the first time can't you see
+7 6 5 4 3
+We are meeting for the first time
+Singing this space symphony
+
+They'll be tearing us apart, maybe moving us to Mars,
+Past the satellites and stars, they're moving us to Mars
+
+
 

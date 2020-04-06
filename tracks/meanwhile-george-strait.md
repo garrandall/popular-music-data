@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: meanwhile-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/meanwhile.html
 name: Meanwhile
 rankings:
 - end_date: '1999-01-29'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
 ---
+
+She sparkles, she dazzles, she lights up the room
+We walk together to a table for two
+Every man stares but her eyes are only for me
+We take to the dance floor, she squeezes my hand
+I can't believe just how lucky I am
+
+Meanwhile back in the back of my memory
+You're still dancing with me
+And I'm holding you once again
+...Meanwhile
+
+We move to the end of a beautiful night
+Tender the kisses, soft candle light
+She draws the curtains, slowly we climb up the stairs
+And reach for each other the passion begins
+We fall together as lovers and then...
+
+Meanwhile back in the back of my memory
+You're still lying with me and I'm holding you once again
+
+I try and I try, the Lord knows I do
+But each time my heart beats back to you
+
+Meanwhile I'll go on living my life now
+I'll find a way somehow
+Oh but meanwhile back in the back of my memory
+You'll always be with me but I'll never hold you again
+.... Meanwhile...
+
+
 

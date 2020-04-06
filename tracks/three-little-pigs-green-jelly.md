@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: three-little-pigs-green-jelly
+lyrics_url: https://www.azlyrics.com/lyrics/psychostick/nsfw.html
 name: Three Little Pigs
 rankings:
 - end_date: '1993-04-02'
@@ -87,4 +88,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
 ---
+
+Fuck 
+
+"Ladies and gentleman, Bill Manspeaker of Green JellÃ¿:"
+
+Fuck 
+
+Fuck 
+
+SHIT!
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-shy-kajagoogoo
+lyrics_url: https://www.azlyrics.com/lyrics/kajagoogoo/tooshy.html
 name: Too Shy
 rankings:
 - end_date: '1983-04-29'
@@ -83,4 +84,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
 ---
+
+Tied
+
+Tongue tied or short of breath, don't even try
+Try a little harder
+Something's wrong, I'm not naive, you must must be strong
+Ooh, baby, try
+
+Hey, girl
+Move a little closer
+
+You're too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush, eye-to-eye
+
+Too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush
+
+Modern medicine falls short of your complaint
+Ooh, try a little harder
+You're moving in circles, won't you dilate?
+Ooh, baby, try
+
+Hey, girl
+Move a little closer
+
+'Cause you're too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush, eye-to-eye
+
+Too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush
+
+Doo-doo, doo-doo, doo-doo-doo-do, doo-doo-doo-doo-doo-doo, doo-doo
+Doo-doo, doo-doo, doo-doo-doo-do, doo-doo-doo-doo-doo-doo, doo-doo
+Doo-doo, doo-doo, doo-doo-doo-do, doo-doo-doo-doo-doo-doo, doo-doo
+Doo-doo, doo-doo, doo-doo-doo-do, doo-doo-doo-doo-doo-doo, doo-doo
+
+You're too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush, eye-to-eye
+
+Too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush
+
+You're too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush, eye-to-eye
+
+Too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush
+
+Too shy, shy
+Hush hush, eye-to-eye
+Too shy, shy
+Hush hush, eye-to-eye
+
+Too shy, shy
+
+
 

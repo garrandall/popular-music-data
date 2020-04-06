@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sail-on-commodores
+lyrics_url: https://www.azlyrics.com/lyrics/commodores/sailon.html
 name: Sail On
 rankings:
 - end_date: '1979-08-17'
@@ -75,4 +76,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
 ---
+
+Sail on, down the line
+About half a mile or so
+And I don't really wanna know ah
+Where you're going
+Maybe once or twice you see
+Time after time I tried
+Hold on to what we got
+But now you're going
+And I don't mind
+About the things you're gonna say
+Lord, I gave all my money and my time
+I know it's a shame
+But I'm giving you back your name
+Guess I'll be on my way
+I won't be back to stay
+I guess I'll move along
+I'm looking for a good time
+
+Sail on down the line
+Ain't it funny how the time can go
+All my friends say they told me so
+But it doesn't matter
+It was plain to see
+That a small town boy like me
+Just I wasn't your cup of tea
+I was wishful thinking
+I gave you my heart
+And I tried to make you happy
+And you gave me nothing in return
+You know it ain't so hard to say
+Would you please just go away
+
+I've thrown away the blues
+I'm tired of being used
+I want everyone to know
+I'm looking for a good time
+Good time
+Sail on honey
+Good times never felt so good
+Sail on honey
+Good times never felt so good
+Sail on sugar
+Good times never felt so good
+Sail on
+
+
 

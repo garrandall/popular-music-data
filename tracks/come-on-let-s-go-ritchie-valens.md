@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-let-s-go-ritchie-valens
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/comeonletsgo.html
 name: Come On Let's Go
 rankings:
 - end_date: '1958-09-28'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
 ---
+
+Well, come on, let's go, let's go little darlin'
+Tell me that you'll never leave me
+Come on, come on, let's go again
+Go again and again
+
+Well, now swing me, swing me, swing me little darlin'
+Come on, let's go little darlin'
+Let's go, let's go again once more
+
+Well, I love you so, babe
+And I'll never let you go
+Come on, baby so, oh pretty baby, I love you so
+
+Well, let's go, let's go, let's go little sweetheart
+Forever we can always be together
+Come on, come on, let's go again
+
+Oh well, I love you so, babe
+And I'll never let you go
+Come on, baby so, oh pretty baby, I love you so
+
+Well, let's go, let's go, let's go little darlin'
+Tell me that you'll never leave me
+Come on, come on, let's go again
+Again, again, and again
+Again, again, and again
+Again, again, and again
+
+
 

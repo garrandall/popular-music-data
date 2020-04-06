@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honey-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/honey.html
 name: Honey
 rankings:
 - end_date: '1997-09-19'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
 ---
+
+Oh honey you can have me when you want me
+If you simply ask me to be there
+And you're the only one who makes me come running
+'Cause what you got is far beyond compare
+
+
+And it's just like honey
+When your love comes over me
+Oh baby I've got a dependency
+Always strung out for another taste of your honey
+It's like honey when it washes over me
+You know sugar never ever was so sweet
+And I'm dying for ya, crying for ya, I adore ya
+One hit of your love addicted me
+Now I'm strung out on you darling
+Don't you see
+Every night and day
+I can hardly wait
+For another taste of honey
+Honey I can't describe
+How good it feels inside
+Honey I can't describe
+How good it feels inside
+
+I can't be elusive with you honey
+'Cause it's blatant that I'm feeling you
+And it's too hard for me to leave abruptly
+'Cause you're the only thing I wanna do
+
+
+
+Now, what we gonna do right here
+Is we gonna smooth it out
+C'mon
+
+Oh oh honey got me hooked on you
+
+MC
+And she won't stop
+
+
+
+
 

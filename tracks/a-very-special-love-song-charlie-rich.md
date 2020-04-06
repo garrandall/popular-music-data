@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-very-special-love-song-charlie-rich
+lyrics_url: https://www.azlyrics.com/lyrics/charlierich/averyspeciallovesong.html
 name: A Very Special Love Song
 rankings:
 - end_date: '1974-03-01'
@@ -63,4 +64,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
 ---
+
+Babe, somewhere I know I'm gonna find it, babe
+It'll have my love behind it
+And it will be a symphony of all you mean to me
+A Very special love song
+
+And Babe, if there's a way you know I'm gonna say it, babe
+If there's a melody, I'll play it
+And I'll play it through especially for you
+And all the words are true
+A very special love song
+
+So don't be surprised if you're sittin' alone and you hear it
+'Cause I'm gonna sing it to the whole big lonely world
+So turn your radio way down low and get near it
+And I'll tell the world I love you girl
+
+Babe, if there's an ounce of love, I'm gonna give it to you, babe
+If there's a breath of life, I'm gonna live it
+Every day for you and all the whole night through
+Singing just for you a very special love song
+For you
+
+
 

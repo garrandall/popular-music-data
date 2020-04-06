@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: thinking-of-you-loggins-messina
+lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/thinkingofyou.html
 name: Thinking Of You
 rankings:
 - end_date: '1973-04-06'
@@ -60,4 +61,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
 ---
+
+Something inside of me is
+Taking it hard each day
+Something inside of me is
+Making me feel this way
+Whenever you're near me
+You've got me thinking of you
+
+Something about your eyes
+Won't let me look away
+Something about your smile
+That's making it hard to say
+Whenever you're near me
+You've got me thinking of you
+
+You know, you've got me
+Singing a song
+Whenever you're around me
+I just want to belong
+
+To you, I would
+Give all of my love
+I wish that I could tell you
+All what I'm thinking of
+
+You know, you've got me
+Singing a song
+Whenever you're around me
+I just want to belong
+
+To you, I would
+Give all of my love
+I wish that I could tell you
+All what I'm thinking of
+
+Something inside of me
+Won't let me begin the day
+Something inside of me
+Is making it hard to say
+Whenever you're near me
+You've got me thinking of you
+
+Whenever you're near me
+You've got me thinking of you
+Whenever you're near me
+You've got me thinking of you
+
+
 

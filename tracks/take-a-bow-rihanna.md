@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-bow-rihanna
+lyrics_url: https://www.azlyrics.com/lyrics/rihanna/takeabow.html
 name: Take A Bow
 rankings:
 - end_date: '2008-05-02'
@@ -115,4 +116,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
 ---
+
+Oh, how about a round of applause, yeah
+Standing ovation
+Oh, yeah
+Yeah, yeah, yeah, yeah
+
+You look so dumb right now
+Standing outside my house
+Trying to apologize
+You're so ugly when you cry
+Please, just cut it out
+
+Don't tell me you're sorry 'cause you're not
+Baby, when I know you're only sorry you got caught
+
+But you put on quite a show
+Really had me going
+But now it's time to go
+Curtain's finally closing
+That was quite a show
+Very entertaining
+But it's over now (but it's over now)
+Go on and take a bow
+
+Grab your clothes and get gone (get gone)
+You better hurry up
+Before the sprinklers come on (come on)
+Talking' bout'
+"Girl, I love you, you're the one."
+This just looks like a re-run
+Please, what else is on (on)
+
+Don't tell me you're sorry 'cause you're not
+Baby, when I know you're only sorry you got caught
+
+But you put on quite a show
+Really had me going
+But now it's time to go
+Curtain's finally closing
+That was quite a show
+Very entertaining
+But it's over now (but it's over now)
+Go on and take a bow
+
+Oh, and the award
+For the "Best Liar" goes to you
+(goes to you)
+For making me believe
+That you could be
+Faithful to me
+Let's hear your speech
+
+How about a round of applause
+A standing ovation
+
+But you put on quite a show
+Really had me going
+Now it's time to go
+Curtain's finally closing
+That was quite a show
+Very entertaining
+But it's over now (but it's over now)
+Go on and take a bow
+But it's over now
+
+
 

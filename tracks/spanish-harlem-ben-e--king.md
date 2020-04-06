@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spanish-harlem-ben-e--king
+lyrics_url: https://www.azlyrics.com/lyrics/beneking/spanishharlem.html
 name: Spanish Harlem
 rankings:
 - end_date: '1961-01-08'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
+
+There is a rose in Spanish Harlem
+A red rose up in Spanish Harlem
+
+It is the special one, it's never seen the sun
+It only comes out when the moon is on the run
+And all the stars are gleaming
+It's growing in the street
+Right up through the concrete
+But soft and sweet and dreaming
+
+There is a rose in Spanish Harlem
+A red rose up in Spanish Harlem
+
+With eyes as black as coal
+That looks down in my soul
+And starts a fire there and then I lose control
+I have to beg your pardon
+I'm going to pick that rose
+And watch her as she grows
+In my garden
+
+I'm going to pick that rose
+And watch her as she grows
+In my garden
+
+(There is a rose in Spanish Harlem)...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stand-still-don-henley
+lyrics_url: https://www.azlyrics.com/lyrics/donhenley/icantstandstill.html
 name: I Can't Stand Still
 rankings:
 - end_date: '1983-01-21'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
 ---
+
+I know you love me
+You know I love you too
+You know I always will
+No matter what you do
+
+You say you haven't got another lover
+You say you only want to make the scene
+Then you try to keep it under cover
+What does that mean?
+
+And baby, I can't stand still (while he's holding you)
+I can't stand (while he's kissing you)
+
+So we got a little problem, baby:
+How to put together love and work
+If I could figure out that one, darlin'
+I could save us from a world of hurt
+
+I remember when we walked together
+Makin' love on a summer night
+Guess we thought that it would last forever
+We were all right
+
+But baby, I can't stand still (while he's holding you)
+I can't stand still (while he's touching you)
+Baby
+
+I can take it if you need some freedom
+Understand it if you miss your friends
+Don't you ever try to think of me some
+You never tell me where you've been
+
+You say you haven't got another lover
+You say you only want to make the scene
+Then you try to keep it under cover
+What does that mean?
+
+And baby, I can't stand still (while he's holding you)
+I can't stand still (while he's kissing you)
+And baby, I can't stand still (while he's holding you)
+I can't stand still (while he's touching you)
+Baby, I can't stand still (while he=s holding you)
+I can't stand still (while he's kissing you)
+And baby, I can't stand still (while he's holding you)
+I can't stand still (while he's touching you)
+
+
 

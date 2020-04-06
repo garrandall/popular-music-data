@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-back-the-night-the-trammps
+lyrics_url: https://www.azlyrics.com/lyrics/trammps/holdbackthenight.html
 name: Hold Back The Night
 rankings:
 - end_date: '1976-01-23'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
 ---
+
+Hold back the night, turn on the lights
+Don't wanna dream about you, baby
+(Dream about you, baby)
+Hold back the night, turn on the lights
+Don't wanna dream about you, baby
+
+When you left you took the sun right out of the sky
+(Oh yes, you did)
+Wondered why you went away, never told me why
+When the sun goes down and the moon is near
+I'm scared to death 'cause your face appears
+
+Hold back the night, turn on the lights
+Don't wanna dream about you, baby
+(Dream about you, baby)
+Hold back the night, turn on the lights
+
+Loneliness is haunting me when I go to bed, honey
+Like a character in a book, in a book that I read
+When the sun goes down the moon is near
+Scared to death 'cause your face appears
+
+Hold it, hold it, hold it, hold it
+
+Hold back the night, turn on the lights
+Don't want to dream about you, baby
+
+Hold back the night, turn on the lights
+Don't want to dream about you, baby
+
+Hold back the night, turn on the lights
+Don't want to dream about you, baby
+
+
 

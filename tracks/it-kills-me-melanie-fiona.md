@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-kills-me-melanie-fiona
+lyrics_url: https://www.azlyrics.com/lyrics/melaniefiona/itkillsme.html
 name: It Kills Me
 rankings:
 - end_date: '2009-12-11'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
 ---
+
+Oh yeah, I've got trouble with my friends
+Trouble in my life
+Problems when you don't come home at night
+But when you do, you always start a fight
+
+But I can't be alone
+I need you to come on home
+I know you're messing around
+But who the hell else is, is gonna hold me down?
+
+I gotta be out my mind
+To think it's gonna work this time
+A part of me wants to leave
+But the other side still believes
+
+And it kills me to know
+How much I really love you
+So much I wanna ooh, ooh, ooh
+To you, ooh, ooh
+
+Should I grab his cell, call this chick up
+Start some shh, then hang up?
+Or I should I be a lady?
+Ooh, maybe 'cause I wanna have his babies?
+Oh yeah, yeah
+
+'Cause I don't wanna be alone
+I don't need to be on my own
+But I love this man
+But some things I just can't stand
+
+I gotta be out my mind
+To think it's gonna work this time
+A part of me wants to leave
+But the other half still believes
+
+And it kills me to know
+How much I really love you
+So much I wanna ooh, ooh, ooh
+To you, ooh, ooh
+
+Should I pay you back
+To see how you react?
+To see if you react to my love, my love
+
+I gotta be out my mind
+To think it's gonna work this time
+A part of me wants to leave
+But the other side still believes
+
+And it kills me to know
+How much I really love you
+So much I wanna ooh, ooh, ooh
+To you, ooh, ooh
+
+And it kills me to know
+How much I really love you
+So much I wanna ooh, ooh, ooh
+To you, ooh, ooh
+
+
 

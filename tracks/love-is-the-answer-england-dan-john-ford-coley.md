@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: love-is-the-answer-england-dan-john-ford-coley
+lyrics_url: https://www.azlyrics.com/lyrics/englanddanjohnfordcoley/youknowwebelongtogether.html
 name: Love Is The Answer
 rankings:
 - end_date: '1979-03-16'
@@ -80,4 +81,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
 ---
+
+There's no use in trying
+To hold back the sea
+We're talking in circles
+About you and me
+If we don't find an answer we'll both be alone
+I just had to tell you 'fore the feeling is gone
+
+You know we belong together
+Hearts bound with love forever
+You know we belong together
+Yes we do, me and you
+
+You say it's not easy
+It's work all the time
+You've run out of reasons
+They're harder to find
+But I was created to love only you
+I'm feeling so helpless,
+are you feeling it too?
+
+You know we belong together
+Hearts bound with love forever
+You know we belong together
+Yes we do, me and you
+
+We've been here talking for an hour or more
+Sharing space on the floor
+It's a quarter to four
+Maybe we'll know before the moon turns to night
+That it's all gonna work out alright
+
+You know we belong together
+Hearts bound with love forever
+You know we belong together
+Yes we do, me and you
+Yes we do, me and you
+
+
 

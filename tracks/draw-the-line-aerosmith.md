@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: draw-the-line-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/drawtheline.html
 name: Draw The Line
 rankings:
 - end_date: '1977-10-28'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+
+Checkmate honey, beat you at your own damn game
+No dice honey, I'm livin' on a astral plane
+Feet's on the ground, and your head's goin' down the drain
+Oh, heads I win, tails you lose, to the never mind
+When to draw the line
+
+A Indian summer, Carrie was all over the floor
+She was a wet nap winner, and rarely ever left the store
+She'd sing and dance all night, and wrong all the right outa me
+Oh, pass me the vial and cross your fingers, it don't take time
+Nowhere to draw the line
+
+Hi ho silver, we were singin' all your cowboy songs
+Oh, you told Carrie, and promised her you wouldn't be long
+Heads I win, tails you lose, lord it's such a crime
+No dice honey, you the salt, you're the queen of the brine
+Checkmate honey, you're the only one who's got ta choose
+Where to draw the line
+
+Checkmate, don't be late
+Take another pull
+That's right impossible
+When you got to be yourself
+You're the boss of the toss
+The dice, the price
+Grab yourself a slice
+Know where to draw the line
+
+
 

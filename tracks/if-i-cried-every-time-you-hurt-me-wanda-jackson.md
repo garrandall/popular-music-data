@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-cried-every-time-you-hurt-me-wanda-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/ificriedeverytimeyouhurtme.html
 name: If I Cried Every Time You Hurt Me
 rankings:
 - end_date: '1962-04-27'
@@ -39,4 +40,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
+
+If I'd cry every time you hurt me
+I'd be cryin' all the time
+If I made a scene each time you were mean
+We'd be quarrellin' all the time
+
+But I don't cry and I don't get mad
+I try to take the good with the bad
+If I'd cry every time you hurt me
+I'd be cryin' all the time
+
+Now and then you say you love me
+I try to believe you do
+Then you turn right around and hurt me
+Like I was nothing to you
+
+But I love you so and I'll stay somehow
+My tears won't flow and my head won't bow
+If I'd cry every time you hurt me
+I'd be cryin' all the time
+
+
 

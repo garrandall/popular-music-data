@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: georgia-on-my-mind-the-righteous-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/georgiaonmymind.html
 name: Georgia On My Mind
 rankings:
 - end_date: '1966-02-11'
@@ -27,4 +28,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
 ---
+
+Georgia, hey Georgia
+No peace I find
+It's just a song, sweet song
+God, it keeps Georgia on my mind, on my mind
+
+And Georgia, well Georgia
+A song, this is a song of you
+And it comes as sweet and clear
+Just like the moonlight comin' down, down, down through the pines
+
+Other arms reach out to me
+Other eyes, they smile so tenderly
+But still in peaceful, peaceful dreams I see
+That the road, road leads back to you
+
+And Georgia, hey sweet Georgia
+The whole day through
+Comes as sweet and clear
+Just like the moonlight comin' down
+Comin' down, down, down, down through the pines
+
+Other arms, they keep reachin' out to me
+Other eyes, they smile so tenderly
+But still in peaceful, peaceful dreams I see
+That the road, road leads back to you
+
+Lovin' Georgia, love Georgia
+No peace, no peace I find
+It's just a song, sweet song
+Lovin' keeps Georgia on my mind
+
+Keeps you jolted, right here on my mind
+Hey, on my mind
+Keeps you jolted, right here on my mind
+
+
 

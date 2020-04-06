@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surfin--usa-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfinusa.html
 name: Surfin' USA
 rankings:
 - end_date: '1963-03-29'
@@ -107,4 +108,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
+
+If everybody had an ocean
+Across the U. S. A.
+Then everybody'd be surfin'
+Like Californi-a
+You'd seem 'em wearing their baggies
+Huarache sandals too
+A bushy bushy blonde hairdo
+Surfin' U. S. A.
+
+You'd catch 'em surfin' at Del Mar
+Ventura County line
+Santa Cruz and Trestle
+Australia's Narrabeen
+All over Manhattan
+And down Doheny Way
+
+Everybody's gone surfin'
+Surfin' U.S.A.
+
+We'll all be planning that route
+We're gonna take real soon
+We're waxing down our surfboards
+We can't wait for June
+We'll all be gone for the summer
+We're on surfari to stay
+Tell the teacher we're surfin'
+Surfin' U. S. A.
+
+Haggerties and Swamies
+Pacific Palisades
+San Onofre and Sunset
+Redondo Beach L. A.
+All over La Jolla
+At Wa'imea Bay
+
+Everybody's gone surfin'
+Surfin' U.S. A.
+
+Everybody's gone surfin'
+Surfin' U.S. A.
+
+Everybody's gone surfin'
+Surfin' U.S. A.
+
+
 

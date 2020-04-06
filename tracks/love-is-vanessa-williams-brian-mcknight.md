@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-vanessa-williams-brian-mcknight
+lyrics_url: https://www.azlyrics.com/lyrics/brianmcknight/loveis.html
 name: Love Is
 rankings:
 - end_date: '1993-01-29'
@@ -119,4 +120,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
 ---
+
+ 
+They say it's a river, that circles the Earth 
+A beam of light shinin' to the edge of the universe 
+It conquers all 
+It changes everything 
+
+They say it's a blessing 
+They say it's a gift 
+They say it's a miracle and I believe that it is 
+It conquers all 
+But it's a mystery 
+
+ - Love breaks your heart 
+Love takes no less than everything 
+Love makes it hard 
+
+And it fades away 
+So easily 
+
+ 
+In this world we've created 
+In this place that we live 
+In the blink of an eye babe, the darkness slips in 
+Love lights the world 
+Unites the lovers for eternity 
+
+ - Love breaks the chains 
+Love aches for every one of us 
+Love takes the tears and the pain 
+And then turns it into the beauty that remains 
+
+ 
+Look at this place 
+It was paradise 
+But now it's dying 
+I'll pray for love 
+
+ 
+I'll take, my chances that it's not too late 
+
+
+
+
+ 
+And it fades away so easily 
+Oh Oh Oh
+
+
 

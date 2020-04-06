@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-much-little-anthony-and-the-imperials
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Anthony-feat-The-Imperials-6/So-Much
 name: So Much
 rankings:
 - end_date: '1958-12-28'
@@ -15,4 +16,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
 ---
+Oooh, oooo...
 
+I'd move a mountain
+If you want me to
+Though it's hard, so hard
+It's, oh, so hard
+
+I love you
+I need you so much
+(So much)
+
+I'd swim the ocean
+If you want me to
+Though it's hard, so hard
+It's, oh, so hard
+
+I love you
+I need you so much
+(So much)
+
+Where did you go, oh
+Where did you stray
+What must I do, my dear
+To make you stay, oh
+
+I pray every night, dear
+For your return
+For your tender kiss, dear
+(My dear) woah, oh
+
+I'd give you my heart
+If you want me to
+Yes, I will (yes, I will)
+Yes, I will (yes, I will)
+You know I will
+
+Cause I love you
+I need you so much
+(So much)
+
+Oh, so much
+(So much)
+Oh, so, so much

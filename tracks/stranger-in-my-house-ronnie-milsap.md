@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stranger-in-my-house-ronnie-milsap
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/strangerinmyhouse.html
 name: Stranger In My House
 rankings:
 - end_date: '1983-04-01'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
 ---
+
+There's a silence here between us
+I've never heard before
+And I can't find the love
+In her eyes anymore
+There's some changes going on
+I'm beginning to understand
+When I'm holding her
+I swear I feel the presence of another man
+
+There's a stranger in my house
+Somebody here that I can't see
+Stranger in my house
+Somebody here trying to take her away from me
+
+She sits staring out the window
+A million miles away
+And when I ask if she's all right
+She never has too much to say
+Is it somebody we both know
+Or somebody she just met
+Is she loving him in her mind
+While she's lying here in my bed
+
+There's a stranger in my house
+Somebody here that I can't see
+Stranger in my house
+Somebody here trying to take her away from me
+
+Suspicions lead to questions
+And questions to alibis
+Is it just my imagination
+Or has her love turned into lies
+
+There's a stranger in my house
+Somebody's here that I can't see
+Stranger in my house
+Somebody here trying to take her away
+Stranger in my house
+Somebody's here that I can't see
+Stranger in my house
+Somebody here trying to take her away
+Stranger in my house
+Somebody here trying to take her away from me
+
+
 

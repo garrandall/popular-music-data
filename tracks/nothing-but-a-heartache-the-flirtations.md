@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-but-a-heartache-the-flirtations
+lyrics_url: https://www.azlyrics.com/lyrics/transplants/nothingbutaheartache.html
 name: Nothing But A Heartache
 rankings:
 - end_date: '1969-03-14'
@@ -63,4 +64,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
 ---
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+Loving a bad guy is such a sin, yeah
+He's got me all won
+Can I get him?
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+It is one situation that I just can't win, yeah
+He's got me all won
+Can I get him?
+
+I got a lot of those heartaches
+I got a lot of those tear drops
+Heartaches, tear drops, all of the way
+Nothing but a heartache every day!
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+Him loving me is just too slim, yeah
+He's got me all won
+Can I get him?
+
+I got a lot of those heartaches
+I got a lot of those tear drops
+Heartaches, tear drops, all of the way
+Nothing but a heartache every day!
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+Him loving me is just too slim, yeah
+He's got me all won,
+Can I get him?
+
+I got a lot of those heartaches
+I got a lot of those tear drops
+Heartaches, tear drops, all of the way
+Nothing but a heartache every day!
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+Him loving me is just too slim, yeah
+He's got me all won,
+Can I get him?
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a tear drop all of the way
+(Nothing but a tear drop)
+Heartache, ooo I get 'em, ev'ry ev'ry day
+(Nothing but a heartache)
+Tears pouring all down my face
+(Nothing but a tear drop)
+Ooh, the man has got me, so uptight!
+(Nothing but a heartache)
+Nothin' I do, seem to, turn out right
+
+
 

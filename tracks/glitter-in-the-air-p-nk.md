@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: glitter-in-the-air-p-nk
+lyrics_url: https://www.azlyrics.com/lyrics/pink/glitterintheair.html
 name: Glitter In The Air
 rankings:
 - end_date: '2010-02-26'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
 ---
+
+Have you ever fed a lover with just your hands?
+Closed your eyes and trusted, just trusted?
+Have you ever thrown a fistful of glitter in the air?
+Have you ever looked fear in the face and said, "I just don't care."?
+
+It's only half past the point of no return
+The tip of the iceberg, the sun before the burn
+The thunder before the lightning and the breath before the phrase
+"Have you ever felt this way?"
+
+Have you ever hated yourself for staring at the phone?
+Your whole life waiting on the ring to prove you're not alone
+Have you ever been touched so gently you had to cry?
+Have you ever invited a stranger to come inside?
+
+It's only half past the point of oblivion
+The hourglass on the table, the walk before the run
+The breath before the kiss, and the fear before the flames
+"Have you ever felt this way?"
+
+La la la la la la la la
+
+There you are
+Sitting in the garden
+Clutching my coffee
+Calling me sugar
+You called me sugar
+
+Have you ever wished for an endless night?
+Lassoed the moon and the stars and pulled that rope tight?
+Have you ever held your breath and asked yourself will it ever get better than tonight?
+Tonight
+
+
 

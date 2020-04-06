@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-simple-man-lobo
+lyrics_url: https://www.azlyrics.com/lyrics/lobo/asimpleman.html
 name: A Simple Man
 rankings:
 - end_date: '1972-07-14'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
 ---
+
+Where do butterflies go when it rains?
+Who goes around & tucks in the trains?
+What makes a teddy bear like to sleep?
+Why do we all make promises that we can't keep?
+
+Where do puppy dogs go when their sad?
+And what do elephants say when their mad?
+Who do you tell if you don't have a friend?
+Why do we open our mouths and stick our foot in?
+
+These are the things that bother me,
+Not a lot of things across some sea,
+I don't even have a master plan,
+I guess that I am just a simple man.
+
+Where do robins sleep on the road?
+And how can a little ant carry that load?
+Why write words that we have to erase?
+Why does everyone have more than one face?
+
+
 

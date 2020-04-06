@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-here-staind
+lyrics_url: https://www.azlyrics.com/lyrics/staind/righthere.html
 name: Right Here
 rankings:
 - end_date: '2005-07-01'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-05'
 ---
+
+I know I've been mistaken
+But just give me a break and see the changes that I've made
+I've got some imperfections
+But how can you collect them all and throw them in my face
+
+But you always find a way to keep me right here waiting
+You always find the words to say to keep me right here waiting
+And if you chose to walk away I'd still be right here waiting
+Searching for the things to say to keep you right here waiting
+
+I hope you're not intending
+To be so condescending it's as much as i can take
+and you're so independent
+you just refuse to bend so I keep bending till I break
+
+But you always find a way to keep me right here waiting
+You always find the words to say to keep me right here waiting
+And if you chose to walk away I'd still be right here waiting
+Searching for the things to say to keep you right here waiting
+
+I've made a commitment
+I'm willing to bleed for you
+I needed fulfillment
+I found what I need in you
+
+Why can't you just forgive me
+I don't want to relive all the mistakes I've made along the way
+But I always find a way to keep you right here waiting
+I always find the words to say to keep you right here waiting
+
+But you always find a way
+To keep me right here waiting
+You always find the words to say to keep me right here waiting
+And if I chose to walk away would you be right here waiting
+Searching for the things to say to keep me right here waiting
+
+
 

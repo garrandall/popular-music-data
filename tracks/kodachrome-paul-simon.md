@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kodachrome-paul-simon
+lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/kodachrome.html
 name: Kodachrome
 rankings:
 - end_date: '1973-05-25'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
 ---
+
+When I think back
+On all the crap I learned in high school
+It's a wonder
+I can think at all
+And though my lack of education
+Hasn't hurt me none
+I can read the writing on the wall
+
+Kodachrome
+They give us those nice bright colors
+They give us the greens of summers
+Makes you think all the world's
+a sunny day
+I got a Nikon camera
+I love to take a photograph
+So mama don't take my Kodachrome away
+
+If you took all the girls I knew
+When I was single
+And brought them all together
+for one night
+I know they'd never match
+my sweet imagination
+Everything looks worse
+in black and white
+
+
 

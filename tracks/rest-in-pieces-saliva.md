@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rest-in-pieces-saliva
+lyrics_url: https://www.azlyrics.com/lyrics/saliva/restinpieces.html
 name: Rest In Pieces
 rankings:
 - end_date: '2003-10-03'
@@ -19,4 +20,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
 ---
+
+Look at me, my depth perception must be off again
+Cause this hurts deeper than I thought it did
+It has not healed with time
+It just shot down my spine _ You look so beautiful tonight
+Remind me how you laid us down
+And gently smiled before you destroyed my life
+Would you find it in your heart
+To make this go away
+And let me rest in pieces
+Would you find it in your heart?
+To make this go away
+And let me rest in pieces
+Would you find it in your heart?
+To make this go away
+And let me rest in pieces
+Look at me, my depth perception must be off again
+You got much closer than I thought you did
+I'm in your reach
+You held me in your hands
+But could you find it in your heart?
+To make this go away
+And let me rest in pieces
+Would you find it in your heart?
+To make it go away
+And let me rest in pieces
+
+
 

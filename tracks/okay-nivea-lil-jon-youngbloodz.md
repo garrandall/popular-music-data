@@ -6,6 +6,7 @@ features:
 - YoungBloodZ
 genres: []
 key: okay-nivea-lil-jon-youngbloodz
+lyrics_url: https://www.azlyrics.com/lyrics/nivea/okay.html
 name: Okay
 rankings:
 - end_date: '2004-12-31'
@@ -93,4 +94,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
 ---
+
+
+La la la la la lalalala la lalalalalala
+Just got up in this party, tipsy off this Bacardi, bout to take this flight, so high, say bye, bye. We up in here all
+night now, my girl like hey that's my song, cuz I'm feeling fine, so fine, so fine.
+
+
+All the girls that feel me say okay...in the club u hear me say okay feeling good, feeling great I look good don't hate. If
+the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling  great u look good boy
+too don't hate. All my girls get your hair fixed and your nails done put your hands up and say okay (okay) okay (okay)
+okay (okay) okay (okay) ...u got the drink, get another one make him pay for it....put it in the air and say okay (okay) okay
+(okay) okay (okay) okay (okay)..
+
+
+Your hands all on my booty, two stepping in my Gucci, they're like go girl (go girl) go girl (go girl) go girl
+(go girl) u like the way I shake it, you wanna see me naked, it could be your night, your night...your niiighhtt.
+
+
+All the girls that feel me say okay...in the club u hear me say okay feeling good, feeling great I look good don't hate. If
+the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling  great u look good boy
+too don't hate. All my girls get your hair fixed and your nails done put your hands up and say okay (okay) okay (okay)
+okay (okay) okay (okay) u got the drink, get another one make him pay for it....put it in the air and say okay (okay) okay
+(okay) okay (okay) okay (okay)..
+
+
+
+What's Happenin shawty, I'm sean paul, let me holla atcha..what I gotta do..throw a couple dollas at cha? Lift my
+arm, show my wrists tell ya that I ball pick u up in benz and take ya to the mall and all heres my numba shawty in case u
+want the street thing..look me up I'll introduce u to a new game show u where I hang..girl u'll be my sweet thang I love
+ur style, love ur nails and ur tight jeans
+
+
+
+I'm what u call a playa baby how u love that? A youngblood feeling good and never laid back, always run with that
+goose and never Cognac, and keep my ears to these streets cuz that's where home at. So whats shakin in this party, pour a
+drink up and to my ladies lookin good throw ur hands up. Now where my fellas at, ya know how we get crunk. So DJ spin it
+back for me now stomp.
+
+
+All my girls get your hair fixed and your nails done put your hands up and say okay (okay) okay (okay) okay (okay) okay
+(okay) u got the drink, get another one make him pay for it....put it in the air and say okay (okay) okay (okay) okay (okay)
+okay (okay)..
+
+All my girls up in the club...All my girls up in the club...say oh oh oh oh oh..All my fellas spin them thugs...All my fellas
+spin them thugs...say oh oh oh oh oh lalal lalalalla lala lala la lalal la
+
+
 

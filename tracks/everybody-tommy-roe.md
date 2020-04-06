@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/everybody.html
 name: Everybody
 rankings:
 - end_date: '1963-10-18'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+
+Everybody!
+Everybody!
+Everybody's had a broken heart now!
+Everybody!
+Everybody!
+Everybody's had the blues
+Everybody!
+Everybody!
+Everybody's blue when they're lonesome!
+Everybody!
+Everybody!
+Everybody's had the blues
+One time or other everbody listen to me,
+You loose somebody you love,
+But that's no reason for you to break down and cry!
+I said a hey everybody!
+Everybody!
+Everybody's had a lonely moment!
+Everybody!
+Everybody!
+Everbody's had the blues
+One time or other everbody listen to me,
+You loose somebody you love,
+But that's no reason for you to break down and cry!
+I said a hey everybody!
+Everbody!
+Everybody's had a lonely moment!
+Everybody!
+Everybody!
+Everbody's had the blues
+I said a hey everybody!
+Everybody!
+Everybody's blue when they're lonesome!
+Everybody!
+Everybody!
+Everybody's had the blues
+
+
 

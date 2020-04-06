@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-did-your-heart-go--wham-
+lyrics_url: https://www.azlyrics.com/lyrics/wham/wheredidyourheartgo.html
 name: Where Did Your Heart Go?
 rankings:
 - end_date: '1986-10-17'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
 ---
+
+I spend my nights down on the wharf
+In unlit alleyways
+By the church downtown
+Where Sally prays
+Come down sometime
+We'll share a rusty can of corn...
+And listen to the radio
+I love you, I love you, it says...
+
+
+Where did your heart go
+Did you put it on a train
+Did you leave it in the rain
+Or down in Mexico
+
+You cry, but I don't know
+I've heard it all before
+There it goes again, the slamming of the door
+Sometimes the river calls me
+And at night it calls my name
+Says "put your troubles down beside me"
+Things have always been the same...
+And rock 'n' roll won't teach me
+What the river said that night
+I jumped into this beauty
+And drifted out of sight...
+
+
+
+
 

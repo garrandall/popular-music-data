@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anywhere-with-you-jake-owen
+lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/anywherewithyou.html
 name: Anywhere With You
 rankings:
 - end_date: '2013-04-12'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
 ---
+
+If your dream house
+Is a double-wide trailer
+Sittin' back in the holler on a country road
+Well, then, baby, that's where we'll go
+If you don't want to settle down
+We can bounce around from town to town
+And that's fine with me
+If you wanna just ride the breeze
+
+I'll go anywhere
+West Virginia, baby, I don't care
+Mexico on a wild hair
+Have you ever seen California
+Pick a spot on any old map
+I travel light and my bags are packed
+Just as long as I'm where you're at
+I'm gonna have a real good view
+I'll go anywhere, anywhere with you
+
+I bet there's a two-lane
+Runnin' right through the middle
+Of a wide open desert to a ghost town
+If you wanna just hide out
+We can send a postcard back
+From a mountain top out in Idaho
+Maybe get snowed in, anytime, baby, you say when
+
+I'll go anywhere
+West Virginia, baby, I don't care
+Mexico on a wild hair
+Have you ever seen California
+Pick a spot on any old map
+I travel light and my bags are packed
+Just as long as I'm where you're at
+I'm gonna have a real good view
+I'll go anywhere, anywhere with you
+
+I'll go anywhere
+West Virginia, baby, I don't care
+Mexico on a wild hair
+Have you ever seen California
+Pick a spot on any old map
+I travel light and my bags are packed
+Just as long as I'm where you're at
+I'm gonna have a real good view
+I'll go anywhere, well girl, I swear
+Just say the word, I'll take you there
+Aww anywhere, anywhere with you
+
+Yeah, I'll go anywhere with you
+
+
 

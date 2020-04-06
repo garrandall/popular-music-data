@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-miss-you-n2u
+lyrics_url: https://www.azlyrics.com/lyrics/n2u/imissyou.html
 name: I Miss You
 rankings:
 - end_date: '1994-12-09'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
 ---
+
+
+Gave me life
+Gave me all my hope and dreams
+Oh sweet mama
+And now I realize
+All the joy you've put inside of me
+Oh
+
+
+I miss you
+And I want you to know that
+I miss you
+I really miss you mama
+I miss you
+Deep in my heart I'm lonely without you mama
+I miss you
+I want you to know
+
+Ever since you've been gone
+I'm feeling so alone
+All by myself
+I need your help mama
+So many days
+Memories of your face
+Play a song oh...
+
+
+I miss you
+Want you to know that
+(I miss you)
+Sometimes the world feel like it's on my shoulders
+(I miss you)
+I still remember the day you said,
+'son, you've got to be strong'
+(I miss you)
+You've got to hold on, hold on
+Now I'm holding on
+(I miss you)
+You put the joy in my heart
+I don't mind telling the world
+(I miss you)
+Everywhere I go, you always in my heart
+Oh when I
+(I miss you)
+When I look in the mirror I see your face
+And all I do is see reflections of your eyes
+(I miss you)
+Oh Sunday morning no,
+Sunday morning make us breakfast in the morning
+Oh used to sit at the table
+Say our prayers together
+Ohh, oh mama
+(I miss you)
+The tears run down my face
+Cause there's no one to take your place
+(I miss you)
+Oh mama, oh I miss you I miss you I miss you I miss you
+I miss you
+
+
 

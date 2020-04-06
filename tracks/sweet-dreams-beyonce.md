@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-dreams-beyonce
+lyrics_url: https://www.azlyrics.com/lyrics/beyonceknowles/sweetdreams.html
 name: Sweet Dreams
 rankings:
 - end_date: '2009-08-14'
@@ -123,4 +124,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
 ---
+
+Turn the lights on!
+
+Every night I rush to my bed
+With hopes that maybe I'll get a chance to see you when I close my eyes
+I'm going outta my head
+Lost in a fairytale
+Can you hold my hands and be my guide?
+
+Clouds filled with stars cover your skies
+And I hope it rains
+You're the perfect lullaby
+What kind of dream is this?
+
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights on!)
+Sweet dream or a beautiful nightmare
+Somebody pinch me, your love's too good to be true
+(Turn the lights on!)
+
+My guilty pleasure, I ain't going nowhere
+Baby, long as you're here
+I'll be floating on air
+('Cause you're my, you're my...)
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights on!)
+
+I mention you when I say my prayers
+I wrap you around all of my thoughts
+Boy, you're my temporary high
+I wish that when I wake up you're there
+To wrap your arms around me for real and tell me you'll stay by my side
+
+Clouds filled with stars cover the skies
+And I hope it rains
+You're the perfect lullaby
+What kind of dream is this?
+
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights on!)
+Sweet dream or a beautiful nightmare
+Somebody pinch me, your love's too good to be true
+(Turn the lights on!)
+
+My guilty pleasure, I ain't going nowhere
+Baby, long as you're here
+I'll be floating on air
+('Cause you're my, you're my....)
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights on!)
+
+Tattoo your name across my heart
+So it will remain
+Not even death can make us part
+What kind of dream is this?
+
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights on!)
+Sweet dream or a beautiful nightmare
+Somebody pinch me, your love's too good to be true
+(Turn the lights on!)
+
+My guilty pleasure, I ain't going nowhere
+Baby, long as you're here
+I'll be floating on air
+('Cause you're my, you're my...)
+You can be a sweet dream or a beautiful nightmare
+Either way I don't wanna wake up from you
+(Turn the lights out!)
+
+Either way I don't wanna wake up from you
+
+
 

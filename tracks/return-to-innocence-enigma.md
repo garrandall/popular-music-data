@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: return-to-innocence-enigma
+lyrics_url: https://www.azlyrics.com/lyrics/enigma/returntoinnocence.html
 name: Return To Innocence
 rankings:
 - end_date: '1994-03-11'
@@ -111,4 +112,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
 ---
+
+That's not the beginning of the end
+That's the return to yourself
+The return to innocence
+Love - Devotion
+Feeling - Emotion    
+Love - Devotion
+Feeling - Emotion    
+Don't be afraid to be weak
+Don't be too proud to be strong
+Just look into your heart my friend
+That will be the return to yourself
+The return to innocence    
+If you want, then start to laugh
+If you must, then start to cry
+Be yourself don't hide
+Just believe in destiny    
+Don't care what people say
+Just follow your own way
+Don't give up and use the chance
+To return to innocence    
+That's not the beginning of the end
+That's the return to yourself
+The return to innocence    
+Don't care what people say
+Follow just your own way Follow just your own way
+Don't give up, don't give up
+To return, to return to innocence.
+If you want then laugh
+If you must then cry
+Be yourself don't hide
+Just believe in destiny.
+
+
 

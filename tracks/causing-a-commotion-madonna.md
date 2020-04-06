@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: causing-a-commotion-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/causingacommotion.html
 name: Causing A Commotion
 rankings:
 - end_date: '1987-09-18'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
 ---
+
+
+
+I've got the moves baby, you got the motion
+If we got together we'd be causing a commotion
+I've got the moves baby, you got the motion
+If we got together we'd be causing a commotion
+
+You met your match when you met me
+I know that you will disagree it's crazy
+But opposites attract you'll see
+And I won't let you get away so easy
+
+The love you save may be your own
+Can't fight this feeling, aren't you tired of being alone
+You won't admit it but you know it's true
+It's not a secret how I feel when I stand next to you
+
+
+
+Someday you'll see my point of view
+You can't keep wishing on the stars baby
+What works for me can work for you
+You've got to make a compromise and maybe
+
+Then we can keep our love alive
+And when it falls we won't let it die
+It doesn't matter if you win or lose
+It's how you play the game so get into the groove
+
+
+
+Causing a commotion, causing a commotion
+Causing a commotion, causing a commotion
+
+
+
+I hope you find what you're looking for
+Is it mine, walk through that door
+We're wasting time, make up your mind
+And get into the groove
+
+Then we can keep our love alive
+And when it falls we won't let it die
+It doesn't matter if you win or lose
+It's how you play the game so get into the groove
+
+
+
+
+Causing a commotion, causing a commotion
+Causing a commotion, causing a commotion
+
+
+
+
 

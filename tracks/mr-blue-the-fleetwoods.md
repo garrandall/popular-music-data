@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-blue-the-fleetwoods
+lyrics_url: https://www.azlyrics.com/lyrics/classicsiv/mrblue.html
 name: Mr Blue
 rankings:
 - end_date: '1959-09-13'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
 ---
+
+Our guardian star lost all its glow
+The day that I lost you
+It lost all its glitter the day you said no
+And its silver turned to blue
+
+Like him I am doubtful
+That your love is true
+But if you decide to call on me
+Ask for Mr. Blue
+
+Im Mr. Blue, when you say you love me
+Then prove it by going out on the sly
+Proving your love isnt true
+Call me Mr. Blue
+
+Im Mr. Blue, when you say youre sorry
+Then turn around, headed for the lights of town
+Hurt me through and through
+Call me Mr. Blue
+
+I stay at home at night
+Right by the phone each night
+But you dont call and I wont hurt my pride
+Call me Mr. Blue
+
+I wont tell you
+Why you paint the town
+A bright red to turn it upside down
+Im painting it too, but Im painting it blue
+Im Mr. Blue
+
+
 

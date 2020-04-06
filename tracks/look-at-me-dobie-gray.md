@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-at-me-dobie-gray
+lyrics_url: https://www.azlyrics.com/lyrics/dobiegray/lookatme.html
 name: Look At Me
 rankings:
 - end_date: '1963-01-18'
@@ -15,4 +16,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
 ---
+
+Come on and look (look), look (look), look at me
+And tell me what (what) what you see
+I said look (look) look (look) look at me
+And tell me what (what) what you see
+You see a broken heart. My baby's about to set me free
+
+I got tears (tears) tears (tears) tears in my eye
+And I got pain (pain) pain in my heart
+Oh tears (tears) tears (tears) tears in my eye
+And I got pain (pain) pain in my heart
+
+You see a broken heart. My baby's about to set me free
+
+You see a broken heart. His baby's about to set me free (she's gonna set him free)
+
+Come on and look (look), look (look), look at me
+And tell me what (what) what you see
+I said look (look) look (look) look at me
+And tell me what (what) what you see
+You see a broken heart. My baby's about to set me free (she's gonna set him free)
+
+I got tears (tears) tears (tears) tears in my eye
+And I got pain (pain) pain in my heart
+Yeah tears (tears) tears (tears) tears in my eye
+And I got pain (pain) pain in my heart
+
+You see a broken heart. My baby's about to set me free (she's gonna set him free)
+
+I said look (look) look (look) look at me
+And tell me what (what) what you see
+
+
 

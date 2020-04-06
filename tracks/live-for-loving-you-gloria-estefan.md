@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-for-loving-you-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/liveforlovingyou.html
 name: Live For Loving You
 rankings:
 - end_date: '1991-10-18'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
 ---
+
+Ooooh, la, la, la, la, la, la, la, la, la, la, la, la, la, la
+
+Lying awake I turn to you as you are softly sleeping.
+I think of what I'd like to do while you are
+Somewhere dreaming.
+I, I feel so happy by your side, oh why, I
+Wonder, wonder, wonder why.
+Find it hard to find the words to say what
+I am feeling.
+I'm so in love, I'm so alive and I know you're
+The reason, why
+Why I'm so crazy (happy) all the time, oh why,
+I wonder, wonder, wonder why.
+
+I need nothing else in live than to hold you
+I, oh , I am in so deep I don't need no sleep
+Just baby you and me.
+
+Baby, I live for loving you, oh la, la, la, la...
+Live for loving you, all I wanna do is love you,
+Love you
+
+It would never cross my mind to find another lover.
+'Cause after having been with you, there could
+Be no other.
+I, just touching you I'm satisfied, oh why,
+I wonder, wonder, wonder why.
+
+
 

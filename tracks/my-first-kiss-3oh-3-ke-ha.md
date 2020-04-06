@@ -5,6 +5,7 @@ features:
 - Ke$ha
 genres: []
 key: my-first-kiss-3oh-3-ke-ha
+lyrics_url: https://www.azlyrics.com/lyrics/3oh3/myfirstkiss.html
 name: My First Kiss
 rankings:
 - end_date: '2010-05-28'
@@ -80,4 +81,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
 ---
+
+My first kiss went a little like this
+ and twist
+
+Well my first kiss went a little like this
+ and twist
+
+I said no more teachers and no more books
+I got a kiss under the bleachers hopin' that nobody looked
+Lips like licorice, tongue like candy
+Excuse me miss, but can I get you out your panties?
+
+In the back of the car
+On the way to the bar
+I got you on my lips (I got you on my lips)
+At the foot of the stairs
+With my fingers in your hair, baby this is it...
+
+
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+
+ My first kiss went a little like this...
+
+I said no more sailors and no more soldiers
+With your name in a heart tattooed upon their shoulders
+Kisses like whiskey, it gets me drunk
+And I wake up in the morning with the taste of your tongue
+
+In the back of the car
+On the way to the bar
+I got you on my lips (I got you on my lips)
+At the foot of the stairs
+With my fingers in your hair, baby this is it...
+
+
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+
+My first kiss went a little like this
+ and twist
+Well my first kiss went a little like this
+ and twist
+
+Yeah, she won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say...
+
+Ooooooooooooooh
+
+
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say
+Ooooooooooooooh
+Ooooooooooooooh
+
+She won't ever get enough
+Once she gets a little touch
+If I had it my way
+You know that I'd make her say...
+
+
 

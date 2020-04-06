@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: part-time-love-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/parttimelove.html
 name: Part-Time Love
 rankings:
 - end_date: '1978-11-17'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
 ---
+
+Part time love is bringing me down
+'Cause I just can't get started with you my love
+Did I hear you saying that I'm too hard hearted
+Wipe those stars from your eyes
+And you'll get quite a surprise
+Because you'll see everybody's got a part time love
+
+You've been seen running around
+There's not much I don't hear of and still you try
+Telling me all the things I must stay clear of
+Don't tell me what to do
+When you been doing it too
+Because you, me and everybody's got a part time love
+
+Falling, I'm falling can't get free
+Baby if you keep on stalling
+Oh how can I make you see
+That you, me and everybody needs a part time love
+
+Part time love
+I seem to be pulling in the wrong direction
+With you my love
+Whatever I do you raise the same objection
+I've got someone at home
+But she's got a love of her own
+Because you, me and everybody got a part time love
+
+I'm waiting, I'm waiting all the time
+And it's getting so frustrating
+Love well it ain't no crime
+Because you, me and everybody needs a part time love
+And oh you, me and everybody's got a part time love
+And oh you, me and everybody needs a part time love
+You, me, everybody got a part time love
+
+
 

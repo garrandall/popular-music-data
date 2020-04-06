@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-and-spice-the-searchers
+lyrics_url: https://www.azlyrics.com/lyrics/searchers/sugarandspice.html
 name: Sugar And Spice
 rankings:
 - end_date: '1964-05-08'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
 ---
+
+Sugar and spice and all things nice
+Kisses sweeter than wine
+Sugar and spice and all things nice
+You know that little girl is mine
+
+Everybody stops and stares at my baby
+When she's walkin' down the street
+People passin' by just look at my baby
+'Cause my baby looks so sweet
+You know she's...
+
+Sugar and spice and all things nice
+Kisses sweeter than wine
+Sugar and spice and all things nice
+You know that little girl is mine
+
+Everytime we kiss I get that feelin'
+Everytime we simply meet
+When I see her smile I get that feelin'
+'Cause my baby looks so sweet
+You know she's...
+
+Sugar and spice and all things nice
+Kisses sweeter than wine
+Sugar and spice and all things nice
+You know that little girl is mine
+Never ever known a girl so lovely
+Sweet enough to want to eat
+Everybody's crazy 'bout my baby
+'Cause my baby looks so sweet
+You know she's...
+
+Sugar and spice and all things nice
+Kisses sweeter than wine
+Sugar and spice and all things nice
+You know that little girl is mine
+
+
 

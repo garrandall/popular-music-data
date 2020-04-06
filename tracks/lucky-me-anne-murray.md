@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-me-anne-murray
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/luckyme.html
 name: Lucky Me
 rankings:
 - end_date: '1980-04-11'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
 ---
+
+There must be thousands of people out there
+Who search for love and find more than their share
+They seem to fall into it naturally
+But you know that doesn't apply to me.
+
+Some fools (some fools) get lucky 
+The first time out take a chance on love and they win
+But some fools like me, they never learn
+They keep on playin' the game
+And it turns out the same
+Oh, when will it ever be lucky me?
+
+I got that butterfly feeling inside
+With you I knew that love had fin'lly arrived
+Now like all the rest you say goodbye
+Leavin' me alone to keep wondering why.
+
+Some fools (some fools) get lucky
+The first time out take a chance on love and they win
+But some fools like me, they never learn
+They keep on playin' the game
+Though it turns out the same
+Oh, when will it ever be
+Oh my heart aches impatiently
+Oh when will it ever be lucky me?
+
+When will it ever be lucky me?
+
+
 

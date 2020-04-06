@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gloria-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/gloria.html
 name: Gloria
 rankings:
 - end_date: '1982-07-16'
@@ -151,4 +152,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+Gloria, you're always on the run now
+Running after somebody, you gotta get him somehow
+I think you've got to slow down before you start to blow it
+I think you're headed for a breakdown. So, be careful not to show it
+
+You really don't remember, was it something that he said?
+Are the voices in your head calling, Gloria?
+
+Gloria, don't you think you're falling?
+If everybody wants you, why isn't anybody calling?
+You don't have to answer
+Leave them hangin' on the line
+Oh-oh-oh, calling Gloria
+
+Gloria (Gloria), I think they got your number (Gloria)
+I think they got the alias (Gloria) that you've been living under (Gloria)
+But you really don't remember, was it something that they said?
+Are the voices in your head calling, Gloria?
+
+A-ha-ha, a-ha-ha, Gloria, how's it gonna go down?
+Will you meet him on the main line, or will you catch him on the rebound?
+Will you marry for the money, take a lover in the afternoon?
+Feel your innocence slipping away, don't believe it's comin' back soon
+
+And you really don't remember, was it something that he said?
+Are the voices in your head calling, Gloria?
+
+Gloria, don't you think you're falling?
+If everybody wants you, why isn't anybody calling?
+You don't have to answer
+Leave them hangin' on the line
+Oh-oh-oh, calling Gloria
+
+Gloria (Gloria), I think they got your number (Gloria)
+I think they got the alias (Gloria) that you've been living under (Gloria)
+But you really don't remember, was it something that they said?
+Are the voices in your head calling, Gloria?
+
+(Gloria, Gloria, Gloria, Gloria, Gloria)
+(Gloria, Gloria, Gloria, Gloria, Gloria)
+
+
 

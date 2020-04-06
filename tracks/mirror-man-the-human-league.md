@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mirror-man-the-human-league
+lyrics_url: https://www.azlyrics.com/lyrics/humanleague/mirrorman.html
 name: Mirror Man
 rankings:
 - end_date: '1983-10-07'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
 ---
+
+The water shines
+A pebble skips across the face
+A dozen times
+Then disappears, not a trace
+Left behind
+The thrower turns and walks away
+A change of mind
+Another start, a brand new day
+
+You know I'll change
+If change is what you require
+Your every wish
+Your every dream, hope, desire
+
+Here comes the mirror man
+Says he's a people fan
+Here comes the mirror man
+
+And if it seems 
+I'm not the one you used to know
+Our little friendship
+Left behind not long ago
+Don't feel too hurt
+As distance heals the strongest pain
+Things are much better now
+And just the nagging doubt remains
+
+You know I'll change
+If change is what you require
+Your every wish
+Your every dream, hope, desire
+
+Here comes the mirror man
+Says he's a people fan
+Here comes the mirror man
+Here comes the mirror man
+Says he's a people fan
+Here comes the mirror man
+
+Here comes the mirror man
+Says he's a people fan
+Here comes the mirror man
+(The mirror man
+The mirror man)
+Here comes the mirror man
+Says he's a people fan
+Here comes the mirror man
+(The mirror man
+The mirror man)
+Here comes the mirror man
+Says he's a people fan.
+
+
 

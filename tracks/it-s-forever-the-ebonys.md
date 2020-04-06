@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-forever-the-ebonys
+lyrics_url: https://www.azlyrics.com/lyrics/070shake/itsforever.html
 name: It's Forever
 rankings:
 - end_date: '1973-07-13'
@@ -31,4 +32,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
 ---
+
+Forever
+That's how long I'm gonna love you
+Forever
+That's how long I'm gonna...
+
+
 

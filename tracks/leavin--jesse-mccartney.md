@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leavin--jesse-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/jessemccartney/leavin.html
 name: Leavin'
 rankings:
 - end_date: '2008-05-16'
@@ -103,4 +104,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
 ---
+
+Hey baby girl
+I've been watching you all day
+Man that thing you got behind you is amazing
+You make me wanna take you out and let it rain
+I know you got a man but this is what you should say
+
+Why don't you tell him that I'm leavin' never looking back again
+You found somebody who does it better than he can
+No more making you cry
+No more them gray skies
+Girl we're flying on a G5, G5
+And we're leavin' never looking back again
+So call your shawty and tell him you found a new man
+The one who's so so fly
+The one to keep you high
+Have you singing all night like that
+
+Man she gon' be singing
+She gon' be singing
+
+Now if I talk it girl, you know that I will walk it out
+Man I'll put my money money where my mouth is
+'Cause you're the baddest little thing that I've ever seen
+So I'm gonna ask you one time if you got a man
+
+Why don't you tell him that I'm leavin' never looking back again
+You found somebody who does it better than he can
+No more making you cry
+No more them gray skies
+Girl we're flying on a G5, G5
+And we're leavin' never looking back again
+So call your shawty and tell him you found a new man
+The one who's so so fly
+The one to keep you high
+Have you singing all night like that
+
+Man she gon' be singing
+She gon' be singing
+She gon' be singing
+She gon' be singing
+You gon' be singing
+
+Don't stress, don't stress, don't stress
+Just tell him to the left left left
+Don't stress, don't stress, don't stress
+'Cause we gone and we gone and we gone
+
+No stress, no stress, no stress
+Girl you deserve nothing but the best
+No stress, no stress, no stress
+Girl you need to tell him
+
+That I'm leavin' never looking back again
+You found somebody who does it better than he can
+No more making you cry
+No more them gray skies
+Girl we're flying on a G5, G5
+And we're leavin' never looking back again
+So call your shawty and tell him you found a new man
+The one who's so so fly
+The one to keep you high
+Have you singing all night like that
+
+Man she gon' be singing
+She gon' be singing all night like that
+Man she gon' be singing
+She gon' be singing
+She gon' be singing
+She gon' be singing
+Girl you gon' be singing
+
+
 

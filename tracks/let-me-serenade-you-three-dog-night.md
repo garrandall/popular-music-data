@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-serenade-you-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/letmeserenadeyou.html
 name: Let Me Serenade You
 rankings:
 - end_date: '1973-11-02'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
 ---
+
+I will serenade you, all along the way
+I will serenade you, anyway you say
+Take you to the country, I'll take you to the shore
+Show you to my garden, I know you'll make it grow.
+
+If you let me serenade you
+You know that's what you come for,
+So that I will serenade you
+
+And when the walls begin to fall
+Can't hold back the joy
+That love will conquer all.
+
+Every moment, every day,
+If you want to hold me, I will stay
+Let me serenade you, I will serenade you
+If you want to hold me, I will stay
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-live-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iwannalive.html
 name: I Wanna Live
 rankings:
 - end_date: '1968-04-12'
@@ -55,4 +56,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
 ---
+
+Flowers have blooms the ocean has waves the sky has clouds people have babes
+I wanna live till I get old I wanna watch all of this grow
+I wanna live live and let live I want all the love this life has to give
+I wanna smile and be friendly with you I wanna live and let you live some too
+
+Rover is big Tabby is small Betty is short Jimmy is tall
+They wanna live live and let live they want all the love this life has to give
+They wanna smile and be friendly with you they wanna live and let you live some too
+We wanna live what want you
+
+
 

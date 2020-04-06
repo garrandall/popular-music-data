@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-an-angel-good-mornin--charley-pride
+lyrics_url: https://www.azlyrics.com/lyrics/charleypride/kissanangelgoodmornin.html
 name: Kiss An Angel Good Mornin'
 rankings:
 - end_date: '1971-11-26'
@@ -71,4 +72,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
+
+Whenever I chance to meet some old friends on the street
+They wonder how does a man get to be this way
+I've always got a smilin' face any time and any place
+And everytime they ask me why I just smile and say
+You've got to kiss an angel good mornin'
+And let her know you think about her when you're gone
+Kiss an angel good mornin' and love her like a devil when you get back home
+
+Well people may try to guess the secret of happiness
+But some of them never learn it's a simple thing
+The secret I'm speaking of is a woman and a man in love
+And the answer is in the song that I always sing
+You've got to kiss an angel good mornin'...
+Kiss an angel good mornin'...
+
+
 

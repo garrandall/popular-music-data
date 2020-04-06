@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-freshmen-the-verve-pipe
+lyrics_url: https://www.azlyrics.com/lyrics/vervepipe/thefreshmen.html
 name: The Freshmen
 rankings:
 - end_date: '1997-02-28'
@@ -175,4 +176,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
+
+When I was young I knew everything
+And she, a punk who rarely ever took advice
+Now I'm guilt-stricken, sobbin' with my head on the floor
+Stopped a baby's breath and a shoe full of rice, no
+
+Can't be held responsible
+She was touchin' her face
+I won't be held responsible
+She fell in love in the first place
+
+For the life of me
+I can not remember
+What made us think that we were wise and we'd never compromise
+For the life of me
+I can not believe we'd ever die
+For these sins
+We were merely freshmen
+
+My best friend took a week's vacation to forget her
+His girl took a week's worth of valium and slept
+And now he's guilt-stricken, sobbin'
+With his head on the floor
+Thinks about her now and how he never really wept he said
+
+Can't be held responsible
+She was touchin' her face
+I won't be held responsible
+She fell in love in the first place
+
+For the life of me
+I can not remember
+What made us think that we were wise and we'd never compromise
+For the life of me
+I can not believe we'd ever die
+For these sins
+We were merely freshmen
+
+We tried to wash our hands of all of this
+We'd never talk of our lacking relationships
+And how we're guilt-stricken sobbin' with our heads on the floor
+We fell through the ice when we tried not to slip we'd say
+
+Can't be held responsible
+She was touchin' her face
+I won't be held responsible
+She fell in love in the first place
+
+For the life of me
+I can not remember
+What made us think that we were wise and we'd never compromise
+For the life of me
+I can not believe we'd ever die
+For these sins
+We were merely freshmen
+
+For the life of me 
+I can not remember 
+What made us think that we were wise and we'd never compromise
+For the life of me
+I can not believe we'd ever die 
+For these sins
+We were merely freshmen
+We were merely freshmen
+We were only freshmen
+
+
 

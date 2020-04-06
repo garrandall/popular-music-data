@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: need-a-little-taste-of-love-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/needalittletasteoflove.html
 name: Need A Little Taste Of Love
 rankings:
 - end_date: '1989-08-18'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
 ---
+
+Hey mister, walkin' with the blues
+Hey sister, payin' heavy dues
+Havin' troubles, and it ain't so hard to find
+When you're ridin' double, and you're runnin' out of time
+No need to feel, that you lack the spirit
+Within the body, but it's in the soul
+If you wanna be loved, then let somebody hear it
+Might as well face the facts, no need to be holdin' back
+Need a little taste of love
+
+Hey mister, tell me how long has it been
+Hey sister, so how could you pretend
+Why keep the sorrow, where it don't belong
+Well come tomorrow, oh help me sing the song
+
+No need to feel, that you lack the spirit
+Within the body, but it's in the soul
+If you wanna be loved, then let somebody hear it
+Might as well face the facts, no need to be holdin' back
+Need a little taste of love
+
+
 

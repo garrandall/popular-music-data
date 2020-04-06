@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: am-i-wrong-nico-vinz
+lyrics_url: https://www.azlyrics.com/lyrics/boyceavenue/amiwrong.html
 name: Am I Wrong
 rankings:
 - end_date: '2014-05-09'
@@ -132,4 +133,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
 ---
+
+Am I wrong for thinking out the box from where I stay?
+Am I wrong for saying that I choose another way?
+
+I ain't tryna do what everybody else doing
+Just cause everybody doing what they all do
+If one thing I know, I'll fall but I'll grow
+I'm walking down this road of mine, this road that I call home
+
+So am I wrong
+For thinking that we could be something for real?
+Now am I wrong
+For trying to reach the things that I can't see?
+
+But that's just how I feel,
+That's just how I feel
+That's just how I feel
+Trying to reach the things that I can't see
+
+Am I tripping for having a vision?
+My prediction: I'mma be on the top of the world
+
+Walk your walk and don't look back, always do what you decide
+Don't let them control your life, that's just how I feel
+Fight for yours and don't let go, don't let them compare you, no
+Don't worry, you're not alone, that's just how we feel
+
+Am I wrong (am I wrong)
+For thinking that we could be something for real?
+(oh yeah yeah yeah oh)
+Now am I wrong (am I wrong)
+For trying to reach the things that I can't see?
+(oh yeah yeah yeah yeah)
+
+But that's just how I feel,
+That's just how I feel
+That's just how I feel
+Trying to reach the things that I can't see
+
+If you tell me I'm wrong, wrong
+I don't wanna be right, right
+If you tell me I'm wrong, wrong
+I don't wanna be right
+
+Am I wrong
+For thinking that we could be something for real?
+Now am I wrong
+For trying to reach the things that I can't see?
+
+But that's just how I feel,
+That's just how I feel
+That's just how I feel
+Trying to reach the things that I can't see
+
+So am I wrong (am I wrong)
+For thinking that we could be something for real?
+(oh yeah yeah yeah oh)
+Now am I wrong (am I wrong)
+For trying to reach the things that I can't see?
+(oh yeah yeah yeah yeah)
+
+But that's just how I feel,
+That's just how I feel
+That's just how I feel
+Trying to reach the things that I can't see
+
+
 

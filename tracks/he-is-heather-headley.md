@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-is-heather-headley
+lyrics_url: https://www.azlyrics.com/lyrics/heatherheadley/heis.html
 name: He Is
 rankings:
 - end_date: '2002-11-01'
@@ -59,4 +60,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
+
+Oh my where do
+
+
+How do I begin
+To answer
+The question
+I know you been wonderin'
+When could
+Why could
+How could it all be true
+These things
+Who's that
+And what is he to you?
+
+
+He is
+The mind injector
+The heart protector
+The soul defender of anything I fear
+The baby conceiver
+The make me believer
+The joy bringer
+The love giver
+He is
+The dough increaser
+The pleasure releser
+The hard knocks knowler without the scars to show ya
+The night school teacher
+The good life preacher
+The caretaker
+The kiss craver
+He is
+
+
+The words 
+Are only
+Frosting on my cake
+Feelings
+Explained
+Don't do justice to how I
+Feel...so alive
+So in love for the first time
+No way
+Can I hide
+Who...what...
+
+
+
+He is
+So 
+He is
+So
+Everything, everything I wanted, I wanted
+He is
+So
+He is
+So and so much more than I thought it could be
+So I
+So I
+So I gotta be the same for him
+Gotta be the same for him
+
+
+
+The make it alrighter
+The get you through the nighter
+The soul defender of anything I fear
+The pain remover
+The bad times undoer
+The joy bringer
+The love giver
+He is
+
+
 

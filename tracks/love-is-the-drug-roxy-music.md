@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-the-drug-roxy-music
+lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/loveisthedrug.html
 name: Love Is The Drug
 rankings:
 - end_date: '1976-01-02'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
 ---
+
+T'ain't no big thing
+To wait for the bell to ring
+T'ain't no big thing
+The toll of the bell
+
+Aggravated, spare for days
+I troll downtown the red light place
+Jump up bubble up, what's in store
+Love is the drug and I need to score
+
+Showing out, showing out, hit and run
+Boy meets girl where the beat goes on
+Stitched up tight, can't shake free
+Love is the drug, got a hook on me
+
+Oh, catch that buzz
+Love is the drug I'm thinking of
+Oh, can't you see
+Love is the drug for me
+
+Late that night I park my car
+Stake my place in the singles bar
+Face to face, toe to toe
+Heart to heart as we hit the floor
+
+Lumber up, limbo down
+The locked embrace, the stumble round
+I say go, she say yes
+Dim the lights, you can guess the rest
+
+Oh, catch that buzz
+Love is the drug I'm thinking of
+Oh, can't you see
+Love is the drug, got a hook in me
+
+Oh, catch that buzz
+Love is the drug I'm thinking of
+Oh, can't you see
+Love is the drug for me
+
+Love is, love is, love is the drug
+
+
 

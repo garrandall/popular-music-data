@@ -7,6 +7,7 @@ features:
 - Cee-Lo
 genres: []
 key: sugar--gimme-some--trick-daddy-ludacris-lil--kim-cee-lo
+lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/sugargimmesomeremix.html
 name: Sugar (Gimme Some)
 rankings:
 - end_date: '2005-01-28'
@@ -114,4 +115,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
 ---
+
+ Uh huh
+ Yeah
+ Aw man I got a sweet tooth, can you dig it
+ After this one you gon need a root canal then
+ I love sugar all of it
+ This one for all the clean, decent women
+ Lay it on me girl
+ Pay Close Attention
+
+
+She put that sugar on my tongue
+Shes gonna
+Gimme gimme some
+She put it right there on my tongue (Sweet Sweet)
+Right there on my tongue (She turns me on, like no other)
+
+
+And gimme some of your butter pecan 
+Put it right there on tip of my tongue, hold it
+Right jeeeah
+Cuz baby, if I bite you
+I bet you like it
+French Vanilla's a hell of a flavor for me
+With strawberries, two cherries and whipped cream
+The best things are the wet dreams
+And uh, the rest is just a flick without a sex scene
+Or lee, I speak the truth
+Cuz the blacker the berry
+The sweeter the juice
+Cuz, Florida oranges and Georgia peaches
+When they nice and ripe, they the best for eatin'
+Southern boys we crave for old slice of pie after they main course
+So if you game for it
+I came for it
+I got a thing for ya
+That I can't ignore
+
+
+
+
+She put that sugar on my tongue, tongue
+Yippie Yippie, Yum Yum
+Goodie goodie gum drop
+Put me in a tongue lock
+Did it till my body went numb, numb
+Laid her on her back, back
+Turned her round, gave her bottom a smack, smack
+She's a woman from the block with the best of weave
+But I won't stop till I'm pullin out tracks, tracks
+It was lust at first sight
+And she couldn't help sayin that she wanted to get with me
+And my size was just right
+Cuz she wanted a man with a little sec-ur-ity
+Said I been around the world twice
+And my name ring bells from Atlanta to Sic-i-ly
+Said she wanted it all night
+So put the bubbles in the tub and Ludacris and me
+
+
+
+Yeah Yeah Yeah Yeeeah Yeeeah Yeah 
+Yeah Yeah Yeah
+
+
+He's lickin' his lips like I'm somethin' sweet
+Lookin at me like Im something to eat
+I got pimps givin me the money
+Just to taste my jar of honey
+Cotton candy sweet as gold
+Come and lick my tootsie roll
+My sugar baby once you wet it
+Give high blood pressure like a diabetic
+How about having lil kim with your coffee
+I just cant keep these boys off me
+Pink diamonds dudes love to frost me
+Runnin behind me like im mr. softy
+He said I drive 'em crazy
+Thatâs sweet tooth for you baby
+Just gonna look at 'cha lady
+Lil Kim's eye candy baby
+
+
+Sweetie you look so incredible
+So delicious and so damn edible
+All I need is some honey or syrup
+With a lil' butter to rub down all your curves
+And no need for the lemonade
+Just a twist of lime and some grape Kool-Aid
+Can I call you Caramel?
+Cuz I'm bout to go coo-coo to taste your Coco Puffs
+One bowl ought to fill me up
+But that milk gotta be cold enough
+So supper time that'll hold me up
+I might choke myself if I don't slow it up, but
+Honey, you look like a honeydew melon
+Or strawberry with the whipped cream filling
+Of the top part of the peach cobbler
+But uh, the fruit platter ought to do me better
+
+
+
+
 

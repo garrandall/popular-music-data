@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-rider-gregg-allman
+lyrics_url: https://www.azlyrics.com/lyrics/greggallman/midnightrider.html
 name: Midnight Rider
 rankings:
 - end_date: '1973-12-28'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
 ---
+
+Well, I've got to run to keep from hiding
+And I'm bound to keep on riding
+And I've got one more silver dollar
+But I'm not gonna let them catch me, no
+Not gonna let 'em catch the midnight rider
+
+And I don't own the clothes I'm wearing
+And the road goes on forever
+And I've got one more silver dollar
+But I'm not gonna let them catch me, no
+Not gonna let 'em catch the midnight rider
+
+I've gone by the point of caring
+Some old bed I'll soon be sharing
+And I've dropped one more silver dollar
+
+No, I'm not gonna let 'em catch me, no
+Not gonna let them catch the midnight rider
+No, I'm not gonna let 'em catch me, no
+Not gonna let them catch the midnight rider
+No, I'm not gonna let 'em catch me, no
+Not gonna let them catch the midnight rider
+
+
 

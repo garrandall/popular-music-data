@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sour-girl-stone-temple-pilots
+lyrics_url: https://www.azlyrics.com/lyrics/stonetemplepilots/sourgirl.html
 name: Sour Girl
 rankings:
 - end_date: '2000-07-14'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
 ---
+
+She turned away, what was she looking at?
+She was a sour girl the day that she met me
+Hey! What are you looking at?
+She was a happy girl the day that she left me
+She turned away what was she looking at?
+She was a sour girl the day that she met me
+Hey! What are you looking at?
+She was a happy girl when she left me
+
+What would you do?
+What would you do if I followed you?
+What would you do if I follow?
+
+Don't turn away, what are you looking at?
+He was so happy on the day that he met her
+Say, what are you looking at?
+I was a superman, but looks are deceiving
+
+The rollercoaster rides a lonely one
+I paid a ransom note to stop it from steaming
+Hey! What are you looking at?
+She was a teenage girl when she met me
+
+What would you do?
+What would you do if I followed you?
+What would you do if I follow?
+
+The girl got reasons, they all got reasons
+
+Hey! What are you looking at?
+She was a happy girl the day that she left me
+The day that she left me
+She was a happy girl the day that she left me
+She was a sour girl the day that she met
+The day that she left me
+
+
 

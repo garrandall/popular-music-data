@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-all-around-the-troggs
+lyrics_url: https://www.azlyrics.com/lyrics/troggs/loveisallaround.html
 name: Love Is All Around
 rankings:
 - end_date: '1968-03-01'
@@ -71,4 +72,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
 ---
+
+I feel it in my fingers, I feel it in my toes
+Well love is all around me, and so the feeling grows
+It's written on the wind, it's everywhere I go
+So if you really love me, come on and let it show
+
+You know I love you, I always will
+My mind's made up by the way that I feel
+There's no beginning, there'll be no end
+'Cause on my love you can depend
+
+I see your face before me as I lay on my bed
+I kinda get to thinking, of all the things you said
+You gave your promise to me, and I gave mine to you
+I need someone beside me in everything I do
+
+You know I love you, I always will
+My mind's made up by the way that I feel
+There's no beginning, there'll be no end
+'Cause on my love you can depend
+
+It's written on the wind, it's everywhere I go
+So if you really love me, come on and let it show
+Come on and let it show
+Come on and let it show
+Come on and let it show
+Come on and let it show
+Come on and let it show
+
+
 

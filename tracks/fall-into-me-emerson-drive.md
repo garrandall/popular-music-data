@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fall-into-me-emerson-drive
+lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/fallintome.html
 name: Fall Into Me
 rankings:
 - end_date: '2002-11-22'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
 ---
+
+Right here waiting
+Staying strong
+Come and
+Fall into me
+
+You say you've turned it off 
+Hid your heart up on a shelf 
+Scared of what it might cost 
+To take it down for someone else 
+'Cause loving him you lost 
+Too much of yourself 
+Baby can't you see 
+That he's
+Not me
+
+And I need you
+To know you can
+Fall into me 
+That my arms
+Are wide open and
+Will always be 
+Right here waiting
+Staying strong
+Come and
+Fall into me
+
+I'll follow any road 
+Anywhere to get to you 
+I'll open up my soul 
+If that's what you need me to do 
+Now baby it's your move 
+All you got to do is believe
+In love 
+Just believe
+In us 
+
+And I need you
+To know you can
+Fall into me 
+That my arms
+Are wide open and
+Will always be 
+Right here waiting
+Staying strong
+Come and
+Fall into me
+
+Just believe in love
+Just believe in us
+
+Baby I need you
+To know you can
+Fall into me 
+That my arms
+Are wide open and
+Will always be 
+Right here waiting
+Staying strong
+Come and
+Fall into me
+Come and
+Fall into me
+Fall into me
+(Fall into me)
+
+
 

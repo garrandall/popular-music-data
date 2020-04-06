@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-another-night-mick-jagger
+lyrics_url: https://www.azlyrics.com/lyrics/nightflightorchestra/justanothernight.html
 name: Just Another Night
 rankings:
 - end_date: '1985-02-15'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
 ---
+
+Give me just another night, just another night with you 
+Give me just another kiss, just before the dawn breaks through 
+'Cause I'm homesick, feel a little down and blue 
+And I'm hurting, hurting baby just like you 
+
+I was lonely 'til I saw you at the station 
+And I never thought you'd keep our rendezvous 
+
+Baby it's true 
+
+Give me just another night, just another night with you 
+Give me just another kiss, just before the dawn breaks through 
+'Cause I'm hungry, hungry for your loving, babe 
+And I'm thirsty, thirsty for your loving, babe 
+
+And a one-day pass to Heaven is so hard to find 
+And a one-night pass ain't really what I had in mind 
+
+I need your sweet tenderness, I need your soft caress 
+I know the day is coming, don't take away your loving 
+Can't you see that I'm human? 
+
+I am hungry, I am thirsty 
+
+I need your sweet tenderness, I need your soft caress 
+I know the day is coming, don't take away your loving 
+Can't you see that I'm human? 
+
+Give me just another night, just another night with you 
+Give me just another kiss, just before the dawn breaks through 
+Give me just another night, just another night with you 
+'Cause I'm freezing in this hundred-dollar hotel room 
+'Cause I'm freezing, baby just like you 
+'Cause I'm hungry, hungry for your loving, babe 
+And I'm thirsty, thirsty for your loving, babe
+'Cause I'm hungry...
+
+
 

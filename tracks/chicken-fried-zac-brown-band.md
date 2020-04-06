@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chicken-fried-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/sicemonachicken.html
 name: Chicken Fried
 rankings:
 - end_date: '2008-10-10'
@@ -107,4 +108,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
 ---
+
+Uh ha, you thought we were done, huh? Ha-ha-ha, we got more!
+
+Sic 'em on a chicken
+Sic 'em on a chicken
+Sic 'em on a chicken and watch them feathers fly
+Sic 'em on a chicken
+Sic 'em on a chicken
+Bring out the butter and the flour we're ready to fry
+
+My dog Pete is the smallest dog of all the dogs in my yard
+(That's right)
+He's a mean son' bitch
+Drinks Beam and water from a broken mason jar
+
+Sic 'em on a chicken
+Sic 'em on a chicken
+Sic 'em on a chicken and watch them feathers fly
+Sic 'em on a chicken
+Sic 'em on a chicken
+Bring out the butter and the flour we're ready to fry
+
+I heard this awful noise coming from the woods
+(Coming from the woods)
+I heard chicken screams
+Know it wasn't gonna be good
+
+I think we lost a chicken
+I think we lost a chicken
+I think we lost a chicken because I just heard him cry
+I think we lost a chicken
+I think we lost a chicken
+I think we lost a chicken but you can get another one for a dollar 79
+
+Over a couple of years his spurs have grown
+He wasn't safe to keep around the home
+And he almost took an eyeball from Lonny's son
+And I was in the kitchen making fig preserves
+And I heard that youngin get kicked in the face
+And I knew 'twas the day that that rooster's gonna get what he deserves
+
+So I chased the chicken
+I chased a chicken
+I chased a chicken and Pete hit 'em from the side
+I chased a chicken
+I chased a chicken
+Me and Pete suppered on a home-made chicken pot pie
+
+That's awesome
+
+Well, sic 'em on a chicken
+Sic 'em on a chicken
+Sic 'em on a chicken and watch them feathers fly
+Sic 'em on a chicken
+Sic 'em on a chicken
+I can smell the kitchen and it's almost supper time
+
+You're damn right I like my chicken fried... Yeah
+
+
 

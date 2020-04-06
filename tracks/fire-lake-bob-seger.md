@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-lake-bob-seger
+lyrics_url: https://www.azlyrics.com/lyrics/bobseger/firelake.html
 name: Fire Lake
 rankings:
 - end_date: '1980-02-29'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
 ---
+
+Who's gonna ride that chrome three wheeler
+Who's gonna make that first mistake
+Who wants to wear those gypsy leathers
+All the way to Fire Lake
+Who wants to break the news about Uncle Joe
+You remember Uncle Joe
+He was the one afraid to cut the cake
+Who wants to tell poor Aunt Sarah
+Joe's run off to Fire Lake
+Joe's run off to Fire Lake
+
+Who wants to brave those bronze beauties
+Lying in the sun
+With their long soft hair falling
+Flying as they run
+Oh they smile so shy
+And they flirt so well
+And they lay you down so fast
+Till you look straight up and say
+Oh lord
+Am I really here at last
+
+Who wants to play those eights and aces
+Who wants a raise
+Who needs a stake
+Who wants to take that long shot gamble
+And head out to Fire Lake
+Head out
+Who wants to go to Fire Lake
+And head out
+Who wants to go to Fire Lake
+Head out
+Out to Fire Lake
+Who's gonna do it
+
+
 

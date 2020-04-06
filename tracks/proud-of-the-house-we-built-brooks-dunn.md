@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: proud-of-the-house-we-built-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/proudofthehousewebuilt.html
 name: Proud Of The House We Built
 rankings:
 - end_date: '2007-08-17'
@@ -68,4 +69,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
 ---
+
+I dropped to my knees in that field on your daddy's farm.
+Asked you to marry me, all I had to give was my heart.
+While other kids went diving into swimming holes,
+You and me dove off into the great unknown.
+We were barely gettin' by, takin' care of each other.
+Then I became a daddy; you became a mother.
+Was an uphill battle nearly every day,
+Lookin' back I wouldn't have it any other way.
+
+I'm proud of the house we built.
+It's stronger than sticks, stones, and steel.
+It's not a big place sittin' up high on some hill.
+A lot of things will come and go but love never will.
+Oh, I'm proud.
+I'm proud of the house we built.
+
+Still workin' our way through the land of milk and honey.
+At the end of the day there's always more bills than money.
+I close my eyes at night and I still feel
+The same fire in my heart I felt out in that field.
+
+I'm proud of the house we built.
+It's stronger than sticks, stones, and steel.
+It's not a big place sittin' up high on some hill.
+A lot of things will come and go but love never will.
+Oh, I'm proud.
+I'm proud of the house we built.
+
+Oh, look at us today.
+Oh, we've come such a long long way.
+
+I'm proud of the house we built.
+It's stronger than sticks, stones, and steel.
+It's not a big place sittin' up high on some hill.
+A lot of things will come and go but love never will.
+Oh, I'm proud.
+I'm proud of the house we built.
+
+I'm proud of the house we built.
+It's stronger than sticks, stones, and steel.
+It's not a big place sittin' up high on some hill.
+A lot of things will come and go but love never will.
+Oh, I'm proud.
+I'm proud of the house we built
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: swing-my-way-k-p--envyi
+lyrics_url: https://www.azlyrics.com/lyrics/missmulatto/bringitoverhere.html
 name: Swing My Way
 rankings:
 - end_date: '1998-01-02'
@@ -88,4 +89,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-09'
 ---
+
+
+I'll hold you tight, all through the night
+Anything that you want, I'll keep it crump
+Boy your gonna see, How good it can be
+Just come to me, I'll...
+
+
+Uh, shawty swing my way, you heard right
+We was meant to be, like Mike and Ike
+Bout to go in, like they turned on the street lights
+Now we falling off, like when you first learned how to ride a bike
+Now don't you cap like you forgot
+I was the best blessing you got
+Even your mama new that
+And I know that, you want me back
+It added up till we subtracted each other
+Now I'm like what happened?
+Things happen
+
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+
+Sitting back thinking got me reminiscing
+You payed for everything, but never paid attention
+Too just what I was missing we had different visions
+The key in the ignition bout to start it where we ended
+Guess I was tardy to the party
+You pulled up on lil shawty, so I had to pull up on lil' shawty
+I mean like, if you really loved me
+Why you doing all of this to me?
+I know what we could be, over here is where you should be
+
+
+I'll hold you tight, all through the night
+Anything that you want, I'll keep it crump
+Boy your gonna see, How good it can be
+Just come to me, I'll...
+
+
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+
+I know you thinking bout me and from time to time
+I still cross your mind I hope you see the signs
+If you ain't see me in your future than you must be blind
+You must've lost your mind, well I'ma help you find - it
+Hah, bring it over here bae
+I ain't Michelle Obama but I am your First Lady
+No steering wheel but you sure do be driving me crazy
+What I got with you they hate it, let's let 'em hate bae
+
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+Bring it over here
+
+
+I'll hold you tight, all through the night
+Anything that you want, I'll keep it crump
+Boy your gonna see, How good it can be
+Just come to me, I'll...
+
+
 

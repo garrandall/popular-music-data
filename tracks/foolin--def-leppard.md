@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foolin--def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/foolin.html
 name: Foolin'
 rankings:
 - end_date: '1983-09-09'
@@ -63,4 +64,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
 ---
+
+Lady Luck never smiles
+So lend your love to me, awhile
+Do with me what you will
+Break the spell take your fill
+
+On and on we rode the storm
+The flame has died, the fire has gone
+Oh, this empty bed is a night alone
+I realized that long ago
+
+Is anybody out there? Anybody there?
+Does anybody wonder? Anybody care?
+
+Oh, I just gotta know
+If you're really there and you really care
+'Cause baby I'm not
+
+F-f-f-foolin', ah f-f-foolin'
+Not f-f-f-foolin', ah f-f-foolin'
+
+Won't you stay with me awhile
+
+Close your eyes don't run and hide
+Easy love is no easy ride
+Just wakin' up from what we had
+Could stop good love from going bad
+
+Is anybody out there? Anybody there?
+Does anybody wonder? Anybody care?
+
+Oh, I just gotta know
+If you're really there and you really care
+'Cause baby I'm not
+
+F-f-f-foolin', ah f-f-foolin'
+Not f-f-f-foolin', ah f-f-foolin'
+
+Oh, oh, oh oh!
+
+Oh, I just gotta know
+If you're really there and you really care
+'Cause baby I'm not
+
+F-f-f-foolin', ah f-f-foolin'
+Not f-f-f-foolin', ah f-f-foolin'
+
+I'm not fooling myself
+(I'm not fooling myself)
+No no no
+(I'm not fooling myself)
+Ah no no
+(I'm not fooling myself)
+No no no no
+(I'm not fooling myself)
+No
+
+
 

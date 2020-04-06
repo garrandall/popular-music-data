@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: mandolin-rain-bruce-hornsby-the-range
+lyrics_url: https://www.azlyrics.com/lyrics/pamtillis/mandolinrain.html
 name: Mandolin Rain
 rankings:
 - end_date: '1987-01-23'
@@ -80,4 +81,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
 ---
+
+Song came and went,like the times that we spend
+I melt from the rain,under the carnival tent
+I'd laugh and he'd smile
+And it would last for a while
+You don't know what you got til you lose it all again
+
+Listen to the mandolin rain
+Listen to the music on the lake
+Listen to my heart break,any time that he goes away
+Listen to the banjo with a sad song
+Driftin along
+Listen to my tears roll
+Down my face as he turns to go
+
+Cool evening dance
+Listenin to the bluegrass band
+Takes the chill from the end til they play the last song
+And I'll do my time,keeping you off my kind
+But theres moments that I fing I'm not feelin so strong
+
+Listen to the mandolin rain
+Listen to the music on the lake
+Listen to my heart break,any time that he goes away
+Listen to the banjo with a sad song
+Driftin along
+Listen to my tears roll
+Down my face as he turns to go
+
+Now on the lake shore I hear the love song of a summer storm,
+That played on the lake like a mandolin
+Now its washin him away once again
+Once again
+
+Listen to the mandolin rain
+Listen to the music on the lake
+Listen to my heart break,any time that he goes away
+Listen to the banjo with a sad song
+Driftin along
+Listen to my tears roll
+Down my face as he turns to go
+
+
 

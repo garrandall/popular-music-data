@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lalena-donovan
+lyrics_url: https://www.azlyrics.com/lyrics/donovan/lalena.html
 name: Lalena
 rankings:
 - end_date: '1968-10-11'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+
+When the sun goes to bed
+That's the time you raise your head
+That's your lot in life, Lalena
+Can't blame ya
+Lalena
+
+Arty-tart, la-de-da
+Can your part get much sadder?
+That's your lot in life, Lalena
+Can't blame ya
+Lalena
+
+Run your hand through your hair
+Paint your face with despair
+That's your lot in life, Lalena
+Can't blame ya
+Lalena
+
+When the sun goes to bed
+That's the time you raise your head
+That's your lot in life, Lalena
+I can't blame ya
+Lalena
+
+Arty-tart, oh so la-de-da
+Can your part ever get, ever get much sadder?
+That's your lot in life, Lalena
+I can't blame ya
+No, no, no, Lalena
+Oh, Lalena
+
+
 

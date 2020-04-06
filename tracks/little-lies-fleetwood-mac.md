@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-lies-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/littlelies.html
 name: Little Lies
 rankings:
 - end_date: '1987-09-04'
@@ -91,4 +92,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
 ---
+
+If I could turn the page
+In time then I'd rearrange just a day or two
+(Close my, close my, close my eyes)
+But I couldn't find a way
+So I'll settle for one day to believe in you
+(Tell me, tell me, tell me lies)
+
+Tell me lies
+Tell me sweet little lies
+(Tell me lies, tell me, tell me lies)
+Oh, no, no you can't disguise
+(You can't disguise, no you can't disguise)
+Tell me lies
+Tell me sweet little lies
+
+Although I'm not making plans
+I hope that you understand there's a reason why
+Close your, close your, close your eyes
+No more broken hearts
+We're better off apart let's give it a try
+Tell me, tell me, tell me lies
+
+Tell me lies
+Tell me sweet little lies
+(Tell me lies, tell me, tell me lies)
+Oh, no, no you can't disguise
+(You can't disguise, no you can't disguise)
+Tell me lies
+Tell me sweet little lies
+
+If I could turn the page
+In time then I'd rearrange just a day or two
+(Close my, close my, close my eyes)
+But I couldn't find a way
+So I'll settle for one day to believe in you
+(Tell me, tell me, tell me lies)
+
+Tell me lies
+Tell me sweet little lies
+(Tell me lies, tell me, tell me lies)
+Oh, no, no you can't disguise
+(You can't disguise, no you can't disguise)
+Tell me lies
+Tell me sweet little lies
+(Tell me lies, tell me, tell me lies)
+Oh, no, no you can't disguise
+(You can't disguise, no you can't disguise)
+
+Tell me lies
+Tell me sweet little lies
+(Tell me, tell me lies)
+
+
 

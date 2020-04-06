@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-bamba-los-lobos
+lyrics_url: https://www.azlyrics.com/lyrics/loslobos/labamba.html
 name: La Bamba
 rankings:
 - end_date: '1987-07-03'
@@ -91,4 +92,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
 ---
+
+
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa mi pa ti
+Y arriba y arriba
+Ay arriba y arriba
+Por ti sere, por ti sere, por ti sere
+
+Yo no soy marinero
+Yo no soy marinero, soy capitan
+Soy capitan, soy capitan
+
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+Bamba
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa mi pa ti
+Ay y arriba y arriba
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa mi pa ti
+Y arriba y arriba
+Ay arriba y arriba
+Por ti sere, por ti sere, por ti sere
+
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+
+
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita
+Una poca de gracia
+Una poca de gracia
+Y otra cosita
+Arriba y arriba
+Ay arriba y arriba ire
+Asi se canta La Bamba
+Asi se canta La Bamba
+En East L.A.
+En East L.A.
+En East L.A.
+
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+
+Que La Bamba es el himno
+
+Que La Bamba es el himno
+Veracruzano
+Como hermano la canto
+Como hermano la canto
+A lo Chicano
+Arriba, arriba
+Ay arriba, arriba
+Arriba andando
+Esta Bamba Los Lobos
+Esta Bamba Los Lobos
+Estan tocando
+Estan tocando
+Estan tocando
+
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool-for-your-loving-whitesnake
+lyrics_url: https://www.azlyrics.com/lyrics/jorn/foolforyourloving.html
 name: Fool For Your Loving
 rankings:
 - end_date: '1980-08-08'
@@ -95,4 +96,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
 ---
+
+Yeah, yeah, oh
+
+I was born under a bad sign
+Left out in the cold
+I'm a lonely man who knows
+Just what it means to lose control
+
+But, I took all the heartache
+And turned it to shame
+Now I'm moving, moving on
+And I ain't taking the blame
+
+Fool! Don't come running to me
+I know I've done all I can
+A hard loving woman like you
+Just makes a hard loving man
+
+So I can say it to you, babe
+I'll be a fool for your loving no more
+A fool for your loving no more
+I'm so tired of trying, I always end up crying
+Fool for your loving no more
+I'll be a fool for your loving no more
+
+Oh babe
+
+I'm tired of hiding my feelings
+You left me lonely too long
+I gave my heart, and you tore it apart
+Oh, babe, you done me wrong
+
+So don't come running to me
+I know I've done all I can
+A hard loving woman like you
+Just makes a hard loving man
+
+So I can say it to you, babe
+I'll be a fool for your loving no more
+A fool for your loving no more
+I'm so tired of trying, I always end up crying
+Fool for your loving no more
+I'll be a fool for your loving no more
+No more, oh
+
+So I can say it to you, babe
+I'll be a fool for your loving no more
+A fool for your loving no more
+I'm so tired of trying, I always end up crying
+Fool for your loving no more
+A fool for your loving no more
+No more
+No more...
+Fool for your loving no more
+Fool for your loving no more
+Fool for your loving no more
+Fool for your loving
+
+Fool for your loving no more
+No more...
+
+
 

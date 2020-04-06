@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hopelessly-devoted-to-you-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/deltagoodrem/hopelesslydevotedtoyou.html
 name: Hopelessly Devoted To You
 rankings:
 - end_date: '1978-07-14'
@@ -83,4 +84,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
+
+Guess mine is not the first heart broken
+My eyes are not the first to cry
+I'm not the first to know
+There's just no getting over you
+I know, I'm just a fool who's willing
+To sit around and wait for you
+But baby, can't you see
+There's nothing else for me to do?
+I'm hopelessly devoted to you
+
+But now there's nowhere to hide
+Since you pushed my love aside
+I'm out of my head
+Hopelessly devoted to you
+Hopelessly devoted to you
+Hopelessly devoted to you
+
+My head is saying, "Fool, forget him"
+My heart is saying, "Don't let go
+Hold on till the end"
+And that's what I intend to do
+I'm hopelessly devoted to you
+
+But now there's nowhere to hide
+Since you pushed my love aside
+I'm out of my head
+Hopelessly devoted to you
+Hopelessly devoted to you
+Hopelessly devoted to you
+
+
 

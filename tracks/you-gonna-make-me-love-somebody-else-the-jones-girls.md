@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-gonna-make-me-love-somebody-else-the-jones-girls
+lyrics_url: https://www.azlyrics.com/lyrics/donelljones/hewonthurtyou.html
 name: You Gonna Make Me Love Somebody Else
 rankings:
 - end_date: '1979-06-29'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
 ---
+
+You alright baby, don't worry 'bout it
+It's gonna be alright
+
+
+He don't treat you like he use to cause he got somebody else
+Girl, I feel for you cause you're all by yourself, yeah
+Don't you shed a tear, be strong, don't let this nightmare get to you
+'Cause some men gotta have two girls and that ain't cool
+
+
+He won't hurt you again, he's never gonna hurt you again
+'Cause you got a friend in me
+He won't hurt you again, he's never gonna hurt you again
+All you gotta do is believe in me
+
+
+Lock the doors, I'm on my way, he has no right to put his hand on you
+Girl, it hurts me to see him play you for a fool
+So pack your bags, come go with me
+I'll be that sunshine in your life
+There's no need to worry, it's gonna be alright
+
+
+
+Are you in love with someone who's gonna make you cry?
+You should already know I wanna be that special one in your life
+
+
+
+
+You know sometimes I think about you and I wonder
+How could a woman so beautiful be going through such a terrible thing
+But I wanna let you know, I'm here for you
+You don't ahve to worry 'bout a thing baby
+I promise, I promise
+
+
 

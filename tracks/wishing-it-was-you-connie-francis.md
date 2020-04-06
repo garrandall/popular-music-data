@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wishing-it-was-you-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/yourebreakingmyheart.html
 name: Wishing It Was You
 rankings:
 - end_date: '1965-05-07'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
+
+Please hurry back and we'll make a new start
+Till then you're breaking my heart 'cause you're leaving
+You've fallen for somebody new
+It isn't too easy believing
+You'd leave after all we've been through
+
+It's breaking my heart to remember
+The dreams we depended upon
+Your leaving is slow dying ember
+I'll miss you my love when you're gone
+
+I wish you joy though tear drops burn
+But if some day you should care to return
+Please hurry back and we'll make a new start
+Till then you're breaking my heart
+
+Metti anche tu la veste bianca
+E schiudi l'uscio al tuo cantor
+Ove non sei la luce manca
+Ove tu sei nasce l'amor
+
+
 

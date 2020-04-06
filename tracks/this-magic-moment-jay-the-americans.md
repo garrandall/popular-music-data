@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: this-magic-moment-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/thismagicmoment.html
 name: This Magic Moment
 rankings:
 - end_date: '1969-01-03'
@@ -64,4 +65,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
 ---
+
+This magic moment
+So different and so new
+Was like any other
+Until I kissed you
+
+And then it happened
+It took me by surprise
+I knew that you felt it too
+By the look in your eyes
+
+Sweeter than wine (sweeter than wine)
+Softer than a summer night (softer than a summer night)
+Everything I want, I have (everything, everything)
+Whenever I hold you tight
+
+This magic moment (this magic moment)
+While your lips are close to mine
+Will last forever
+Forever till the end of time
+
+(This magic moment)
+(This magic moment)
+
+Sweeter than wine (sweeter than wine)
+Softer than a summer night (softer than a summer night)
+Everything I want, I have (everything, everything)
+Whenever I hold you tight
+
+This magic moment (this magic moment)
+While your lips are close to mine
+Will last forever (this magic moment)
+Forever till the end of time (magic)
+...
+
+
 

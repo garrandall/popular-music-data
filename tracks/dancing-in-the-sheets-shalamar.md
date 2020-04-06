@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-sheets-shalamar
+lyrics_url: https://www.azlyrics.com/lyrics/shalamar/dancinginthesheets.html
 name: Dancing In The Sheets
 rankings:
 - end_date: '1984-03-23'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
 ---
+
+I caught you smiling
+I know I've seen you here before
+How come you're hiding
+Hey don't cha wanna hit the floor?
+
+The place is crowded
+Or maybe you don't like the beat
+I got a two-track playing in my head
+So let me take you somewhere else instead
+(Dancing in the sheets)
+
+Grab your coat and wave goodbye to your friends
+I wanna take you where the night never ends
+I feel the need to sweep you off of your feet
+You and me we should be dancing in the sheets
+(Dancing in the sheets)
+
+We feel the rhythm
+We've got the music on our side
+If we go with 'em
+I'll bet we'll have a wonderful ride
+
+Your hands are cold
+So maybe we could make some heat
+Love is always born on a chance
+So wrap around me and baby let's dance
+(Dancing in the sheets)
+
+Grab your coat and wave goodbye to your friends
+I wanna take you where the night never ends
+I feel the need to sweep you off of your feet
+You and me we should be dancing in the sheets
+(Dancing in the sheets)
+
+Grab your coat and wave goodbye to your friends
+I wanna take you where the night never ends
+I feel the need to sweep you off of your feet
+You and me we should be dancing in the sheets
+(Dancing in the sheets)
+(Dancing in the sheets)
+(Dancing in the sheets)
+(Dancing in the sheets)
+(Dancing in the sheets)
+
+
 

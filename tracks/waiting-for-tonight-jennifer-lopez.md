@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waiting-for-tonight-jennifer-lopez
+lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/waitingfortonight.html
 name: Waiting For Tonight
 rankings:
 - end_date: '1999-10-22'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
 ---
+
+Like a movie scene
+In the sweetest dreams
+I have pictured us together
+Now to feel your lips
+On my fingertips
+I have to say is even better
+Then I ever thought it could possibly be
+It's perfect, it's passion, it's setting me free
+From all of my sadness
+The tears that I've cried
+I have spent all of my life
+
+
+Waiting for tonight, oh
+When you would be here in my arms
+Waiting for tonight, oh
+I've dreamed of this love for so long
+Waiting for tonight
+
+Tender words you say
+Take my breath away
+Love me now, leave me never
+Found a sacred place
+Lost in your embrace
+I want to stay in this forever
+I think of the days when the sun used to set
+On my empty heart, all alone in my bed
+Tossing and turning
+Emotions were strong
+I knew I had to hold on
+
+
+
+Gone are the days when the sun used to set
+On my empty heart all alone in my bed
+Tossing and turning
+Emotions were strong
+I knew I had to hold on
+
+
+
+
 

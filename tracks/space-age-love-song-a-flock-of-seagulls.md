@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: space-age-love-song-a-flock-of-seagulls
+lyrics_url: https://www.azlyrics.com/lyrics/flockofseagulls/spaceagelovesong.html
 name: Space Age Love Song
 rankings:
 - end_date: '1982-11-19'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+I saw your eyes
+And you made me smile
+For a little while
+I was falling in love
+
+I saw your eyes
+And you touched my mind
+Although it took a while
+I was falling in love
+
+I saw your eyes
+And you made me cry
+And for a little while
+I was falling in love
+
+I was falling in love
+
+I saw your eyes (I saw your eyes)
+And you made me cry (And you made me cry)
+For a little while (For a little while)
+I was falling in love
+
+I was falling in love
+Falling in love
+Falling in love
+Falling in love
+Falling in love
+
+
 

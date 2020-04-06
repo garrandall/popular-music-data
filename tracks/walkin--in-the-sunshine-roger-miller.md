@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walkin--in-the-sunshine-roger-miller
+lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/walkininthesunshine.html
 name: Walkin' In The Sunshine
 rankings:
 - end_date: '1967-03-31'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
 ---
+
+Walking In the Sunshine, sing a little sunshine song 
+Put a smile upon your face as if there's nothing wrong 
+Think about a good time had a long time ago 
+Think about forgetting about your worries and your woes 
+Walking In The Sunshine, sing a little sunshine song 
+
+La la la la la dee oh, 
+Whether the weather be rain or snow 
+Pretending can make it real 
+A snowy pasture, a green and grassy field 
+
+Walking In the Sunshine, sing a little sunshine song 
+Put a smile upon your face as if there's nothing wrong 
+Think about a good time had a long time ago 
+Think about forgetting about your worries and your woes 
+Walking In The Sunshine, sing a little sunshine song 
+
+La la la la la dee oh, 
+Whether the weather be rain or snow 
+Pretending can make it real 
+A snowy pasture, a green and grassy field 
+
+Walking In the Sunshine, sing a little sunshine song 
+Put a smile upon your face as if there's nothing wrong 
+Think about a good time had a long time ago 
+Think about forgetting about your worries and your woes 
+Walking In The Sunshine, sing a little sunshine song 
+
+Walking In the Sunshine, singing a little sunshine song 
+Put a smile upon your face as if there's nothing wrong
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-on-little-dreamer-perry-como
+lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/dreamonlittledreamer.html
 name: Dream On Little Dreamer
 rankings:
 - end_date: '1965-04-16'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
+
+Dream on little dreamer dreamer on 
+Dream on little dreamer dreamer on 
+I get a heart full of butterflies, lookin' into your dreamy eyes 
+Dream on (Dream on!) little dreamer dreamer on! 
+
+Dream on little dreamer dreamer on 
+Dream on little dreamer dreamer on 
+Dream about a love so true, dream about how I love you 
+Dream on (Dream on!) little dreamer dreamer on! 
+
+You know I love you,  
+I love you, I need you so bad 
+Each night I realize,  
+when you close your dreamy eyes 
+
+Dream on little dreamer dreamer on 
+Dream on little dreamer dreamer on 
+Dream about a love so fine, sweet as apple berry wine 
+Dream on (Dream on!) little dreamer dreamer on! 
+
+...little dreamer dreamer on!
+
+
 

@@ -5,6 +5,7 @@ features:
 - Rob Thomas
 genres: []
 key: smooth-santana-rob-thomas
+lyrics_url: https://www.musixmatch.com/lyrics/Santana-ft-Rob-Thomas/Smooth
 name: Smooth
 rankings:
 - end_date: '1999-08-06'
@@ -240,4 +241,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
 ---
+Man, it's a hot one
+Like seven inches from the midday sun
+Well, I hear you whispering the words that melt everyone
+But you stay so cool
 
+My muñequita, my Spanish Harlem Mona Lisa
+You're my reason for reason
+The step in my groove
+And if you said this life ain't good enough
+
+I would give my world to lift you up
+I could change my life to better suit your mood
+Cause you're so smooth
+And it's just like the ocean under the moon
+
+It's the same as the emotion that I get from you
+You got the kind of lovin' that can be so smooth, yeah
+Gimme your heart, make it real,
+Or else forget about it
+I'll tell you one thing
+
+If you would leave it'd be a crying shame
+In every breath and every word
+I hear your name calling me out
+Out from the barrio, you hear my rhythm on your radio
+
+You feel the turning of the world so soft and slow
+Turning you round and round
+And if you said this life ain't good enough
+I would give my world to lift you up
+
+I could change my life to better suit your mood
+Cause you're so smooth
+And its just like the ocean under the moon
+It's the same as the emotion that I get from you
+You got the kind of lovin that can be so smooth, yeah
+Gimme your heart, make it real
+Or else forget about it
+And its just like the ocean under the moon
+It's the same as the emotion that I get from you
+You got the kind of lovin that can be so smooth, yeah
+Gimme your heart, make it real
+Or else forget about it

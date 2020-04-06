@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hate-me-ellie-goulding-juice-wrld
+lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/hateme.html
 name: Hate Me
 rankings:
 - end_date: '2019-08-09'
@@ -88,4 +89,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+
+
+Hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+
+I bet you don't kiss her with your eyes closed
+I bet you're still walkin' on a tightrope
+Miss me so much, you've been goin' psycho
+You ain't gotta say it, baby, I know
+
+It's a thin line between all this love and hate
+And if you switch sides, you're gon' have to claim your place
+So baby, this time you're gon' have to seal your fate
+Yeah baby, this time you're gon' have to seal your fate
+
+And tell me how you hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+Hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+
+
+Hate me, hate me, tell me how you hate me
+Tell me how I'm trash and you could easily replace me
+Tell me that I'm strung out, wasted on the daily
+Prolly 'cause there's no one around me numbin' all my pain
+Prolly 'cause there's no umbrella to shield me from all the rain
+Probably because you're the one playin' the mind games
+You hate me because I don't let you play no mind games
+They give me migraines and damage my brain
+Date me, break me, easily replace me
+Hopefully you see it clear, hopefully it's HD
+Bet you wonder why the last few months I've been spacey
+In your head, I sing...
+
+
+And tell me how you hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+Hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+
+
+It's a thin line between all this love and hate (Okay)
+And if you switch sides, you're gon' have to claim your place (Okay)
+So baby, this time you're gon' have to seal your fate (Okay)
+Yeah baby, this time you're gon' have to seal your fate
+
+
+And tell me how you hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+Tell me how you hate me, hate me, still tryna replace me
+Chase me, chase me, tell me how you hate me
+Erase me, 'rase me, wish you never dated me
+Lies, tell me lies, baby, tell me how you hate me
+
+Tell me how you hate me
+Lies, tell me lies, tell me how you hate me
+Tell me how you hate me
+Lies, tell me lies, baby, tell me how you hate me
+
+
 

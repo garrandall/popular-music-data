@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-harmony-smokey-robinson
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/sweetharmony.html
 name: Sweet Harmony
 rankings:
 - end_date: '1973-07-13'
@@ -59,4 +60,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
 ---
+
+This song is dedicated to some people
+With whom I had the pleasure of living
+Over half the years I've lived 'til now
+When we come to our fork in the road
+And though our feet may travel
+A different path from now on
+I want them to know how I feel about them
+And that I wish them well
+
+Sweet harmony, go on and and blow on
+Stay in perfect tune with your own familiar song
+Make the world aware that you're still goin' strong
+Go on, spread your joy around the world
+Spread your joy around the world
+
+Sweet harmony, yeah, yeah, go on and blow on
+I believe in miracles if you can dream it, it can be done
+And though a task was made for two
+It can be done well by one
+Go on,spread your joy around the world
+Spread your joy around the world, ooh...
+
+Sweet harmony, ooh...
+Spread your joy around the world, ooh...
+Sweet harmony
+Go on, spread your joy around the world
+Sweet harmony, ah...
+Sweet harmony, ooh...
+
+Sweet harmony, go on and blown on
+You were the prelude for the song
+The village minstrels play
+Though most of them have come and gone
+You're still around today
+Go on, spread your joy around the world
+Harmony, spread your joy around the world
+
+Keep on, sweet harmony, ooh, yeah
+Go on and blow on, na, na
+Sweet harmony, ooh...
+To every heart and soul
+You know the joy you bring
+When you do your thing, ooh...
+Sweet harmony, yeah
+Go on and warm your heart
+'Cause you know how
+Don't stop now, no
+Sweet harmony, harmony, oh...
+Spread your joy around the world, ooh, yeah
+Sweet harmony, do it
+Do it, do it, do it, do it...
+
+
 

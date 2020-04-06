@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: coming-on-strong-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/comingonstrong.html
 name: Coming On Strong
 rankings:
 - end_date: '1966-10-07'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
 ---
+
+Comin' on strong, comin' on strong.
+I can feel the heartaches
+Comin' on strong.
+I can feel the teardrops, the pain, and the sorrow
+Ever since you've been gone, they' been
+Comin' on strong.
+
+Pain, come on in, hello sorrow,
+I see you're back again.
+Teardrops, glad you dropped by,
+'Cause you can help drown my pride.
+
+And since you're here, time seems just fine,
+To let you know that you're gonna be with me
+'Til I lose my mind,
+But you've been gone,
+Much too long and I can feel the heartaches,
+Comin' on strong.
+
+Only thing you left me, was misery for company,
+And memories of a love gone wrong, that keep
+Comin' on strong. Comin' on strong
+Comin' on strong. Comin' on strong
+Comin' on strong. Comin' on strong
+
+
 

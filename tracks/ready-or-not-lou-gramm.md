@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-or-not-lou-gramm
+lyrics_url: https://www.azlyrics.com/lyrics/lougramm/readyornot.html
 name: Ready Or Not
 rankings:
 - end_date: '1987-05-15'
@@ -55,4 +56,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
 ---
+
+Here I come, ready or not
+Here I come, ready to go
+Here I come, ready or not
+Here I come, ready to go
+
+Something that you said
+Goes round my head
+I know I'm gonna ride tonight
+You look at me
+But all I want to see is you tonight
+
+Nothing can stop me now
+Nothing can stop me now
+Just a question of time
+I said nothing can stop me now
+Nothing can stop me now
+Now that I made up my mind
+
+Here I come, ready or not
+Here I come, ready to go
+Here I come, ready or not
+Here I come, ready to go
+
+Girl, you got the look
+As if you wrote the book
+But I don't understand
+How one girl can be so sure
+You got me in the palm of your hand
+
+Nothing can stop me now
+Nothing can stop me now
+Just a question of time
+I said nothing can stop me now
+Nothing can stop me now
+Now that I made up my mind
+
+Here I come, ready or not
+Here I come, ready to go
+Here I come, ready or not
+Here I come, ready to go
+Let's go
+
+Are you ready?
+(Here I come, ready or not)
+Are you ready?
+(Here I come, ready to go)
+Ready
+(Here I come, ready or not)
+Said get ready
+(Here I come, ready to go)
+
+(Here I come, ready or not)
+Here I come, ready or not
+(Here I come, ready to go)
+Here I come, ready ready
+(Here I come, ready or not)
+Yeah, I'm ready
+(Here I come, ready to go)
+To go
+
+
 

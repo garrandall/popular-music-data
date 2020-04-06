@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-get-serious-jermaine-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/letsgetserious.html
 name: Let's Get Serious
 rankings:
 - end_date: '1980-04-04'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+
+Close my eyes, and I see your face at night
+Toss and turn, fall to sleep holding my pillow tight
+
+All the time I think of you, you're with me no matter what I do
+
+Walk around with a smile upon my face
+In my mind, you have taken up permanent space
+
+I am feeling what I can't explain, and if what you're feeling is the same
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+S.E.R.I.O.U.S
+Baby let's get serious
+Yeh, yeh, yeh, yeh, yeh, yeh, yeh, yeh, yeh, yeh
+
+In your arms is the place I wanna be
+With my love in you, and your love inside of me
+
+Longing for each other just ain't fair
+When we've got so much we wanna share
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+Let's get serious
+Let's get serious
+Let's get serious, and fall in love
+
+Both of us feel like exploding, 'cos this stuffs too hot for holding
+
+Let's get serious and fall in love
+
+Girl you've got my body moaning, just believe it's ment for cloning
+
+Let's get serious and fall in love
+
+Serious, (oh) serious
+Let's get serious, and fall in love
+
+
 

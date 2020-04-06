@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-girl-david-gates
+lyrics_url: https://www.azlyrics.com/lyrics/davidgates/goodbyegirl.html
 name: Goodbye Girl
 rankings:
 - end_date: '1977-12-23'
@@ -103,4 +104,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
 ---
+
+All your life you've waited 
+For love to come and stay
+And now that I have found you
+You must not slip away
+
+I know it's hard believing
+The words you've heard before
+But darlin' you must trust them 
+Just once more
+
+'Cause baby, goodbye doesn't mean forever
+Let me tell you goodbye doesn't mean we'll never be together again 
+If you wake up and I'm not there, I won't be long away 
+'Cause the things you do, my goodbye girl, will bring me back to you
+
+I know you've been taken
+Afraid to hurt again
+You fight the love you feel for me
+Instead of giving in
+
+But I can wait forever
+A-helping you to see
+That I was meant for you 
+And you for me
+
+So remember goodbye doesn't mean forever
+Let me tell you goodbye doesn't mean we'll never be together again
+Though we may be so far apart you still will have my heart
+So forget your past, my goodbye girl
+'Cause now you're home at last
+
+
 

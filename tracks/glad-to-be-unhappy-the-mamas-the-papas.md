@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: glad-to-be-unhappy-the-mamas-the-papas
+lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/gladtobeunhappy.html
 name: Glad To Be Unhappy
 rankings:
 - end_date: '1967-11-03'
@@ -36,4 +37,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
 ---
+
+Fools rush in, so here I am
+Awfully glad to be unhappy.
+I can't win, but here I am
+More than glad to be unhappy.
+
+Unrequited love's a bore, yeah,
+And I've got it pretty bad.
+But for someone you adore,
+It's a pleasure to be sad.
+
+Like a straying baby lamb
+With no mama and no papa,
+I'm so unhappy, yeah.
+
+Unrequited love's a bore, yeah,
+And I've got it pretty bad.
+But for someone you adore,
+It's a pleasure to be sad.
+
+Like a straying baby lamb
+With no mama and no papa,
+I'm so unhappy, yeah...
+
+But oh so glad
+
+
 

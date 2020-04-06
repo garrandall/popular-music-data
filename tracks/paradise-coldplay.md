@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paradise-coldplay
+lyrics_url: https://www.azlyrics.com/lyrics/coldplay/paradise.html
 name: Paradise
 rankings:
 - end_date: '2011-10-07'
@@ -135,4 +136,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
 ---
+
+When she was just a girl
+She expected the world
+But it flew away from her reach
+So she ran away in her sleep
+And dreamed of
+Para-para-paradise,
+Para-para-paradise,
+Para-para-paradise
+Every time she closed her eyes
+
+When she was just a girl
+She expected the world
+But it flew away from her reach
+And the bullets catch in her teeth
+
+Life goes on, it gets so heavy
+The wheel breaks the butterfly
+Every tear a waterfall
+In the night, the stormy night, she'd close her eyes
+In the night, the stormy night, away she'd fly
+
+And dream of
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+She'd dream of
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh-oh
+
+Lalalalalalalalalalala
+And so lying underneath those stormy skies
+She'd say, "Oh, oh-oh-oh-oh, I know the sun must set to rise."
+
+This could be
+Para-para-paradise
+Para-para-paradise
+This could be
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+
+This could be
+Para-para-paradise
+Para-para-paradise
+This could be
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+
+This could be
+Para-para-paradise
+Para-para-paradise
+This could be
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+
+
 

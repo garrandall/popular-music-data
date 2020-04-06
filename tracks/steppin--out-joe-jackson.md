@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steppin--out-joe-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/joejackson/steppinout.html
 name: Steppin' Out
 rankings:
 - end_date: '1982-08-27'
@@ -115,4 +116,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+
+Now 
+The mist across the window hides the lines
+But nothing hides the colour of the lights that shine
+Electricity so fine
+Look and dry your eyes
+
+We 
+So tired of all the darkness in our lives
+With no more angry words to say can come alive
+Get into a car and drive
+To the other side
+
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+
+We 
+Are young but getting old before our time
+We'll leave the T.V. and the radio behind
+Don't you wonder what we'll find
+Steppin' out tonight?
+
+You 
+Can dress in pink and blue just like a child
+And in a yellow taxi turn to me and smile
+We'll be there in just a while
+If you follow me
+
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+
+Me babe, steppin' out
+Into the night
+Into the light
+You babe, steppin' out
+Into the night
+Into the light
+
+Me babe, steppin' out
+Into the night
+Into the light
+
+
 

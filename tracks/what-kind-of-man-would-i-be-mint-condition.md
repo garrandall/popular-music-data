@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-kind-of-man-would-i-be-mint-condition
+lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/whatkindofmanwouldibe.html
 name: What Kind Of Man Would I Be
 rankings:
 - end_date: '1996-09-13'
@@ -103,4 +104,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
+
+You know
+We can't do this
+We just can't
+Listen
+
+
+You say you feel disenchanted
+Cause lately he takes you for granted
+Still faithful and true you remained and to her so have I
+You pour out your heart and I listen
+And we catch a vibe reminiscing
+Temptations so strong not to mention
+The yearning inside
+
+
+But what kind of man would I be
+If I lived unfaithfully
+And what kind of girl would you be
+If you did the same
+Cause I don't wanna see her cry
+And you don't need a reason to lie
+Cause if we laid down tonight
+It won't justify throwing love aside
+
+
+This feeling is strong and we know it
+But we gotta see past the moment
+There's too much to lose if we blow it
+This is no lie
+Still here we are both together
+With promises made that we never
+Yet feeling it now more than ever
+I can't deny
+
+
+
+
+Here we are all alone
+But some how we've got to stay strong
+
+
+
+(Makes me wanna say ohhhhhhhhhhhhh)
+(Just gotta say ohhhhhhhhhh)
+(She makes me wanna say ohhhhhhhhh)
+(Just gotta say ohhhhhhhhh)
+
+But what kind of man would I be ohhhh can't be unfaithful
+Sorry baby
+
+
 

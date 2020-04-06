@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dead-skunk-loudon-wainwright-iii
+lyrics_url: https://www.azlyrics.com/lyrics/loudonwainwrightiii/howoldareyou.html
 name: Dead Skunk
 rankings:
 - end_date: '1973-02-02'
@@ -59,4 +60,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+
+How old are you - tell me what's your story?
+How are old are you - tell me when did you start?
+Are you in it for the money and the glory?
+Do you still have the brains, the guts, and the heart?
+
+When you were younger you were so much better
+When you were younger you were really hot
+Hey, but now you're much older and you're you're colder than ever
+Why won't you hang it up, why won't you stop?
+
+How old are you?
+How 'bout some facts and figures
+How old are you?
+How about a little background
+Is it true you call back people niggers?
+How come you're always clownin' around?
+
+How come you don't try to write a novel?
+How come you don't try to write a play?
+Isn't it time you died or retired?
+Why the hell won't you just go away?
+
+How old are you?
+Are you crazy?
+How old are you?
+Are you really a drunk?
+Are you better - have you grown lazy?
+Were you embarrassed about "Dead Skunk"?
+
+How come you didn't get big like Bob Dylan?
+How come you didn't get big like Springsteen?
+Were you unable or were you unwilling?
+Tell us the truth about it, c'mon, come clean
+
+How old are you?
+How old are you?
+How old are you?
+How old...?
+
+When you were younger you were so much better
+When you were younger you were really hot
+Hey, but now you're much older and you're you're colder than ever
+Why won't you hang it up, why won't you stop?
+
+How old are you?
+Who do you live with?
+How old are you?
+Who was your wife?
+Is it true that you have children?
+I guess that means that you got a sex life
+
+Well, that's about all - I seem to have run out of questions
+There's only a few and they're always the same
+You know we got to sell paper and tickets and records
+So we can keep on playing this show business game
+
+How old are you?
+How old are you?
+How old are you?
+
+
 

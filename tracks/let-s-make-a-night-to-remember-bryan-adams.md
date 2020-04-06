@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-make-a-night-to-remember-bryan-adams
+lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/letsmakeanighttoremember.html
 name: Let's Make A Night To Remember
 rankings:
 - end_date: '1996-09-06'
@@ -99,4 +100,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
 ---
+
+I love the way you look tonight
+With your hair hangin' down on your shoulders
+N' I love the way you dance your slow sweet tango
+The way you wanna do everything but talk
+And how you stare at me with those "undress-me" eyes
+Your breath on my body makes me warm inside
+
+Let's make out - let's do something amazing
+Let's do something that's all the way
+Cuz I've never touched somebody like the way I touch
+your body
+Now I never want to let your body go...
+
+Let's make a night - to remember
+From January - to December
+Let's make love - to excite us
+A memory - to ignite us
+Let's make honey baby - soft and tender
+Let's make sugar darlin' - sweet surrender
+Let's make a night - to remember - all life long
+
+I love the way you move tonight
+Beads of sweat drippin' down your skin
+Me lying here - n' you lyin' there
+Our shadows on the wall and our hands everywhere
+
+Let's make out - let's do something amazing
+Let's do something that's all the way
+Cuz I've never touched somebody like the way I touch
+your body
+Now I never want to let your body go...
+
+Let's make a night - to remember
+From January - to December
+Let's make love - to excite us
+A memory - to ignite us
+Let's make honey baby - soft and tender
+Let's make sugar darlin' - sweet surrender
+Let's make a night - to remember - all life long
+
+I think about you all the time
+Can't you see you drive me outta my mind
+Well I'm never holdin' back again
+Ya I never want this night to end
+Cuz I've never touched somebody like the way I touch
+your body
+Now I never want to let your body go...
+
+
 

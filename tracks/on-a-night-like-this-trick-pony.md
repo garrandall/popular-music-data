@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-a-night-like-this-trick-pony
+lyrics_url: https://www.azlyrics.com/lyrics/trickpony/onanightlikethis.html
 name: On A Night Like This
 rankings:
 - end_date: '2001-08-03'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
 ---
+
+Now when I was a young girl
+My dad warned me about the opposite sex
+He'd say, yeah, that's just what you need
+Some crazy boy with wild ideas
+You know what always happens next
+
+I tried to heed his advice
+Now I'm thinkin' it sounds kinda nice
+
+It's just what I need on a night like this
+A long walk in the dark, someone I can't resist
+A little rendezvous, a little mystery
+When I look at you I think that's just what I need
+
+Now my momma told me in this dog-eat-dog world
+You gotta work harder than a man
+She'd say, yeah that's just what you need
+Some romance book Romeo callin' you at work and messin' up your plans
+
+Night falls, I slow down
+I start dreamin' of you comin' around
+
+It's just what I need on a night like this
+A long walk in the dark, someone I can't resist
+A little rendezvous, a little mystery
+When I look at you I think that's just what I need
+
+Moonlight, sweet bliss
+Melting with every kiss
+Dancin' real slow
+When you hold me close I know
+
+It's just what I need on a night like this
+A long walk in the dark, someone I can't resist
+A little rendezvous, a little mystery
+When I look at you I think that's just what I need
+
+Just what I need
+Just what I need
+Oh yeah
+
+
 

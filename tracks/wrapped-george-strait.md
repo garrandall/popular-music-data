@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrapped-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/wrapped.html
 name: Wrapped
 rankings:
 - end_date: '2007-05-11'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
 ---
+
+I didn't have to turn my head whenever you walked in
+The only one to let these chills roll down my skin
+My heart beats faster, I hear your name
+I feel my confidence slippin' away
+
+
+I thought I was doin' fine
+'Bout to get you off my mind
+I see your face and then I'm
+Wrapped around your pretty little finger again
+
+It feels like ages since you laid down in my arms
+I see no good reason but still I'm tangled in your charms
+My God, you're smilin' and you catch my eye
+My heart is pounding deep inside
+
+
+
+Ain't gonna let no man go down without a fight
+'Cause my stalls and walls look better in the bright day light
+My heart beats faster, I call your name
+I feel my confidence slippin' away
+
+
+
+Your pretty little finger
+Baby, I'm wrapped around your pretty little finger
+Pretty little finger
+
+
 

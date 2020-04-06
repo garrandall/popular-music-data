@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-to-me-the-j--geils-band
+lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/giveittome.html
 name: Give It To Me
 rankings:
 - end_date: '1973-04-06'
@@ -71,4 +72,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
 ---
+
+Yeah, now don't touch the knobs
+Cause I think we're gonna
+Have some with this one here
+
+Oh, yeah
+You got to give it to me
+You got to give it to me
+You got to give it to me
+You got to give it to me
+
+You're so slick, honey
+Know every trick now
+You know I want it
+I want it so bad
+You know I need it
+I can't believe it
+So come on baby
+Please relieve it
+
+Got to give it to me
+You got to give it to me
+Got to give it to me
+You got to give it to me
+
+You've been bugging me
+Every night now
+You say you want it
+You want it right now
+I can't get through it
+And I can't get to it
+So come on, baby, please
+
+Got to get it up (get it up)
+Come on, you got to
+Get it up (get it up)
+You got to get it up (get it up)
+Babe, you got to give it to me
+(Give it to me)
+You got to give it to me
+(Give it to me)
+You got to give it to me
+(Give it to me)
+You got to give it to me
+(Give it to me)
+
+Why keep me cold
+When it's so warm inside
+Come on, baby, your love
+Is too good to hide
+Woah, yeah
+
+
 

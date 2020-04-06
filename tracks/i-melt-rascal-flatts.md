@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-melt-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/imelt.html
 name: I Melt
 rankings:
 - end_date: '2003-08-29'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-03'
 ---
+
+When you light those candles 
+Up there on that mantle, setting the mood 
+Well, I just lie there staring 
+Silently preparing to love on you 
+Well, I can feel the heat from across the room 
+Ain't it wild what a little flame can make you wanna do 
+
+
+I melt every time you look at me that way 
+It never fails, anytime, any place 
+This burn in me is the coolest thing I've ever felt 
+I melt 
+
+Don't know how you do it 
+I love the way I lose it, every time 
+What's even better 
+Is knowing that forever you're all mine 
+The closer you get, the more my body aches 
+One little stare from you is all it takes 
+
+
+
+Every time you look at me that way 
+I melt, I melt
+
+
 

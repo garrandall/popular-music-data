@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-someone-lukas-graham
+lyrics_url: https://www.azlyrics.com/lyrics/lukasgraham/lovesomeone.html
 name: Love Someone
 rankings:
 - end_date: '2019-01-18'
@@ -47,4 +48,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
 ---
+
+There are days
+I wake up and I pinch myself
+You're with me, not someone else
+And I am scared, yeah, I'm still scared
+That it's all a dream
+
+'Cause you still look perfect as days go by
+Even the worst ones, you make me smile
+I'd stop the world if it gave us time
+
+'Cause when you love someone
+You open up your heart
+When you love someone
+You make room
+If you love someone
+And you're not afraid to lose 'em
+You probably never loved someone like I do
+You probably never loved someone like I do
+
+When you say
+You love the way I make you feel
+Everything becomes so real
+Don't be scared, no, don't be scared
+'Cause you're all I need
+
+And you still look perfect as days go by
+Even the worst ones, you make me smile
+I'd stop the world if it gave us time
+
+'Cause when you love someone
+You open up your heart
+When you love someone
+You make room
+If you love someone
+And you're not afraid to lose 'em
+You probably never loved someone like I do
+You probably never loved someone like I do
+
+All my life
+I thought it'd be hard to find
+The one 'til I found you
+And I find it bittersweet
+'Cause you gave me something to lose
+
+But when you love someone
+You open up your heart
+When you love someone
+You make room
+If you love someone
+And you're not afraid to lose 'em
+You probably never loved someone like I do
+You probably never loved someone like I do
+You probably never loved someone like I do
+
+
 

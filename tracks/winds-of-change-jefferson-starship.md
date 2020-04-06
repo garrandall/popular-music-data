@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: winds-of-change-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/windsofchange.html
 name: Winds Of Change
 rankings:
 - end_date: '1983-02-04'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
 ---
+
+Walk softly through the desert sands 
+Careful where you tread 
+Underfoot are the visions lost 
+Sleeping not yet dead 
+
+Hang on - Winds starting to howl 
+Hang on - The beast is on the prowl 
+Hang on - Can you hear the strange cry 
+Winds of change are blowing by 
+
+Mountains crumble and cities fall 
+Don't come to an end 
+Just lie scattered on the desert floor 
+Waiting for the wind 
+
+
+
+You got your life planned carefully 
+But you left out one detail 
+The hidden hand deals just one round 
+And the winds of change prevail 
+
+
+
+Walk softly through the desert sand 
+Old dreams lead the way 
+Nothing new in the sands of time 
+Just changes every day 
+
+Hang on - It's starting again 
+Hang on - There's no shelter from the wind 
+Hang on - Like a fire from the sky 
+Winds of change are blowing by
+
+
 

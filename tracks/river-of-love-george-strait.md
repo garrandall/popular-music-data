@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: river-of-love-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/riveroflove.html
 name: River Of Love
 rankings:
 - end_date: '2008-12-26'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
 ---
+
+Hey baby, won't you take a little ride with me
+Have a look around
+See what we can see
+I've got the paddle
+I've got the boat
+Come on baby, I know she'll float
+
+
+We'll go rolling on the river of love
+We'll go rolling on the river of love
+
+Drift away from all these city lights
+Might rock a little bit
+So hold on tight
+Let's get carried away with the gentle flow
+Might get caught up in its undertow
+
+We'll go rolling on the river of love
+Let's go rolling on the river of love
+
+I got a little ukulele, let me sing you a song
+Got a stream of kisses about ten miles long
+Dancing on the water in the moonlight beach
+Sparkling down through the sea of dreams
+
+
+
+River of love, River of love, River of love
+Rolling on the river of love
+Let's go rolling, rolling on the river of love
+Let's go rolling on the river of love
+Rolling on the river of love
+Rolling on the river of love
+Let's go rolling, rolling on the river of love
+
+
 

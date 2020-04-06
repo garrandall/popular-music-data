@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everywhere-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/everywhere.html
 name: Everywhere
 rankings:
 - end_date: '1987-12-04'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
 ---
+
+Can you hear me calling
+Out your name?
+You know that I'm falling
+And I don't know what to say
+
+I'll speak a little louder
+I'll even shout
+You know that I'm proud
+And I can't get the words out
+
+Oh I...
+I want to be with you everywhere
+Oh I...
+I want to be with you everywhere
+(Wanna be with you everywhere)
+
+Something's happening
+Happening to me
+My friends say I'm acting peculiarly
+
+C'mon baby
+We better make a start
+You better make it soon
+Before you break my heart
+
+Oh I...
+I want to be with you everywhere
+Oh I...
+I want to be with you everywhere
+(Wanna be with you everywhere)
+
+Can you hear me calling
+Out your name?
+You know that I'm falling
+And I don't know what to say
+
+Come along baby
+We better make a start
+You better make it soon
+Before you break my heart
+
+Oh I...
+I want to be with you everywhere
+Oh I...
+I want to be with you everywhere
+Oh I...
+I want to be with you everywhere
+Oh I...
+I want to be with you everywhere
+(Wanna be with you everywhere)
+
+
 

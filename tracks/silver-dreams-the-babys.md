@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silver-dreams-the-babys
+lyrics_url: https://www.azlyrics.com/lyrics/babys/silverdreams.html
 name: Silver Dreams
 rankings:
 - end_date: '1978-02-10'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
 ---
+
+For the last year
+I've been searching
+I needed something to believe
+I'm a gambler
+With my fortune
+Trying to keep you up my sleeve
+When I'm away
+I fill my heart with
+Dreams
+I lose myself
+Keep my silver dreams of you
+Are you lonely
+Are you crying
+Are your tears for me
+When I come home
+And I touch you
+What will our eyes see?
+For the next year
+I'll be traveling
+Roads that take you far from me
+Time can take love
+Time can fade love
+I hope that you'll remember me
+When I'm away
+I fill my heart with
+Dreams
+I lose myself
+Keep my silver dreams of you
+I lose myself dreaming silver dreams
+I lose myself dreaming silver dreams
+Silver dreams
+Silver dreams
+Ah...
+
+
 

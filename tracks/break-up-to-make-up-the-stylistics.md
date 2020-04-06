@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-up-to-make-up-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/stylistics/breakuptomakeup.html
 name: Break Up To Make Up
 rankings:
 - end_date: '1973-02-16'
@@ -63,4 +64,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
 ---
+
+Tell me what's wrong with you now , tell me why I
+Never seem to make you happy though heaven knows I try
+What does it take to please you? Tell me just how
+I can satisfy you woman, you're drivin' me wild
+
+Break up to make up, that's all we do
+First you love me then you hate me
+That's a game for fools
+Break up to make up that's all we do
+First you love me then you hate me
+That's a game for fools
+
+When I come home from workin', you're on the phone
+Talkin' about how bad I treat you, now tell me I'm wrong
+You say it's me who argues, I'll say it's you
+We have got to get together or baby, we're through
+
+Break up to make up, that's all we do
+First you love me then you hate me
+That's a game for fools
+Break up to make up, that's all we do
+Yeah, first you love me then you hate me
+That's a game for fools
+
+Break up to make up, that's all we do
+Yeah, first you love me then you hate me
+That's a game for fools
+
+Break up to make up, that's all we do
+First you love me then you hate me
+That's a game for fools
+
+
 

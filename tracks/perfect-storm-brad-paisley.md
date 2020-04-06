@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: perfect-storm-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/perfectstorm.html
 name: Perfect Storm
 rankings:
 - end_date: '2014-10-31'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
 ---
+
+If she was a drink, she'd be single barrel bourbon on ice
+Smooth with a kick, a chill and a burn all at the same time
+She's Sunday drive meets high-speed chase
+She ain't just a song, she's the whole mixtape
+She's so complicated that's the way God made her
+Sunshine mixed with a little hurricane
+
+
+And she destroys me in that t-shirt
+And I love her so much it hurts
+I never meant to fall like this
+But she don't just rain, she pours
+That girl right there's the perfect storm
+
+I know how to make her laugh or blush or mad at me
+But that's OK, there ain't no one more beautiful angry
+And she loves just as deep as she goes when she's down
+The highs match the lows, can't have one without the other
+And I love her just the way God made her
+Sunshine mixed with a little hurricane
+
+
+And she destroys me in that t-shirt
+And I love her so much it hurts
+I never meant to fall like this
+But she don't just rain, she pours
+That girl right there's the perfect storm
+
+She's the thrill of a lifetime a guy like me spends his whole life looking for
+That girl right there's the perfect storm
+
+Woah-oh-oh
+Woah-oh-oh
+
+(She destroys me in that t-shirt)
+
+
 

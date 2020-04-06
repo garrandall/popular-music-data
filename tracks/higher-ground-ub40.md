@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: higher-ground-ub40
+lyrics_url: https://www.azlyrics.com/lyrics/ub40/higherground.html
 name: Higher Ground
 rankings:
 - end_date: '1993-10-15'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
 ---
+
+Moon and stars sit way up high
+Earth and trees beneath them lie
+The wind blows fragrant lullaby
+To cool the night for you and I
+On the wing the birds fly free
+Leviathan tames angry sea
+The flower waits for honeybee
+The sunrise wakes new life in me.
+
+And every hour of every day I'm learning more
+The more I learn, the less I know about before
+The less I know, the more I want to look around
+Digging deep for clues on higher ground...
+
+The fishes swim while rivers run
+Thru fields to feast my eyes upon
+Intoxicated drinking from
+The loving cup of burning sun
+In dreams I'll crave familiar taste
+Of whispered rain on weary face
+Of kisses sweet and warm embrace
+Another time another place
+
+And every hour of everyday I'm learning more
+The more I learn, the less I know about before
+The less I know, the more I want to look around
+Digging deep for clues on higher ground...
+
+
 

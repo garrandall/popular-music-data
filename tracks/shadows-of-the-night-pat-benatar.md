@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shadows-of-the-night-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/shadowsofthenight.html
 name: Shadows Of The Night
 rankings:
 - end_date: '1982-10-22'
@@ -71,4 +72,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+You said, oh girl, it's a cold world
+When you keep it all to yourself
+I said, you can't hide on the inside
+All the pain you've ever felt
+Ransom my heart, but baby don't look back
+'Cause we got nobody else
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+You know that sometimes, it feels like
+It's all moving way too fast
+Use every alibi and words you deny
+That love ain't meant to last
+You can cry tough, baby
+It's all right
+You can let me down easy
+But not tonight
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+And now the hands of time are standin' still
+Midnight angel, won't you say you will
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+We're running with the shadows of the night
+So baby take my hand, it'll be all right
+Surrender all your dreams to me tonight
+They'll come true in the end
+
+
 

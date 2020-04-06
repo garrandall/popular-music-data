@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotional-rescue-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/emotionalrescue.html
 name: Emotional Rescue
 rankings:
 - end_date: '1980-07-11'
@@ -83,4 +84,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
 ---
+
+Is there nothing I can say
+Nothing I can do
+To change your mind
+I'm so in love with you
+You're too deep in
+You can't get out
+You're just a poor girl in a rich man's house
+Yeah, baby, I'm crying over you
+Don't you know promises were never made to keep?
+Just like the night, dissolve in sleep
+I'll be your savior, steadfast and true
+I'll come to your emotional rescue
+I'll come to your emotional rescue
+Yeah, the other night, crying
+Crying baby, yeah I'm crying
+Yeah I'm like a child baby
+I'm like a child baby
+Child yeah, I'm like a child, like a child
+Like a child
+You think you're one of a special breed
+You think that you're his pet Pekinese
+I'll be your savior, steadfast and true
+I'll come to your emotional rescue
+I'll come to your emotional rescue
+I was dreaming last night
+Last night I was dreaming
+How you'd be mine, but I was crying
+Like a child, yeah, I was crying
+Crying like a child
+You will be mine, mine, mine, mine, mine, all mine
+You could be mine, could be mine
+Be mine, all mine
+I come to you, so silent in the night
+So stealthy, so animal quiet
+I'll be your savior, steadfast and true
+I'll come to your emotional rescue
+I'll come to your emotional rescue
+Yeah, you should be mine, mine, whew
+Yes, you could be mine
+Tonight and every night
+I will be your knight in shining armour
+Coming to your emotional rescue
+You will be mine, you will be mine, all mine
+You will be mine, you will be mine, all mine
+I will be your knight in shining armour
+Riding across the desert with a fine Arab charger
+
+
 

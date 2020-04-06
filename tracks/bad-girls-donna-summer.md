@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-girls-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/badgirls.html
 name: Bad Girls
 rankings:
 - end_date: '1979-06-01'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
 ---
+
+Bad girls
+Talking about the sad girls
+Sad girls
+Talking about bad girls, yeah
+
+See them out on the street at night, walkin'
+Picking up on all kinds of strangers
+If the price is right
+You can't score if you're pocket's tight
+But you want a good time
+You ask yourself who they are
+Like everybody else
+They come from near and far
+Bad girls, yeah
+
+Bad girls
+Talking about the sad girls, yeah
+Sad girls
+Talking about bad girls, yeah
+
+Friday night and the strip is hot
+Sun's gone down and they're out to trot
+Spirit's high and legs look hot
+Do you wanna get down
+Now don't you ask yourself who they are
+Like everybody else, they wanna be a star
+
+Bad girl
+Sad girl, you're such a naughty bad girl
+Beep-Beep, uh-uh
+You bad girl you sad girl
+Your such a dirty bad girl
+Beep-Beep, uh-uh
+
+Now you and me we're both the same
+But you call yourself by different names
+Now your mama won't like it when she finds out
+That her girl is out at night
+
+Hey, Mister, have you got a dime
+Mister, do you want to spent some time
+Oh, yeah
+I got what you want, you got what I need
+I'll be your baby, come and spend it on me
+Hey, Mister
+I'll spend some time with you
+
+
 

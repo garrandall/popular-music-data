@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-saturday-night-cat-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/catstevens/anothersaturdaynight.html
 name: Another Saturday Night
 rankings:
 - end_date: '1974-08-09'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
 ---
+
+Another Saturday night and I ain't got nobody
+I've got some money 'cause I just got paid
+Now, how I wish I had someone to talk to
+I'm in an awful way
+
+I got in town a month ago
+I seen a lot of girls since then
+If I could meet 'em I could get 'em
+But as yet I haven't met 'em
+That's how I'm in the state I'm in
+
+Oh,
+Another Saturday night and I ain't got nobody
+I've got some money 'cause I just got paid
+Now, how I wish I had someone to talk to
+I'm in an awful way
+
+Another fella told me
+He had a sister who looked just fine
+Instead of bein' my deliv'rance
+She had a strange resemblance
+To a cat named Frankenstein
+
+Ooh, la,
+Another Saturday night and I ain't got nobody
+I've got some money 'cause I just got paid
+Now, how I wish I had someone to talk to
+I'm in an awful way
+
+It's hard on a fella
+When he don't know his way around
+If I don't find me a honey
+To help me spend my money
+I'm gonna have to blow this town
+
+Oh, no
+Another Saturday night and I ain't got nobody
+I've got some money 'cause I just got paid
+Now, how I wish I had someone to talk to
+I'm in an awful way
+
+
 

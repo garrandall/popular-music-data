@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-that-girl-eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/whosthatgirl.html
 name: Who's That Girl
 rankings:
 - end_date: '1984-05-11'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
+
+Who's that girl?
+
+The language of love
+Slips from my lover's tongue
+Cooler than ice cream
+And warmer than the sun
+Dumb hearts get broken
+Just like china cups
+The language of love
+Has left me broken on the rocks
+
+But there's just one thing
+(Just one thing)
+But there's just one thing
+And I really wannna know
+
+Who's that girl
+Running around with you?
+Tell me
+Who's that girl
+Running around with you?
+
+The language of love
+Has left me stony grey
+Tongue tied and twisted
+At the price I've had to pay
+Your careless notions
+Have silenced these emotions
+Look at all the foolishness
+Your lover's talk has done
+
+
 

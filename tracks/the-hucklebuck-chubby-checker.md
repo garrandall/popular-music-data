@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hucklebuck-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/thehucklebuck.html
 name: The Hucklebuck
 rankings:
 - end_date: '1960-10-16'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+
+Ah here's a dance you should know
+Ah baby when the lights are down low
+I say grab your baby then go
+
+If you don't know how to do it man you're out of luck
+Push ya baby out then you hunch her back
+Start a little movement in your sacrolliac
+Wiggle like a stick wobble like a duck
+That's what you do when you do the Hucklebuck
+
+Oh - Workout
+
+Ah here's a dance you should know
+Ah baby when the lights are down low
+Ah won't ya grab ya baby then go
+A little bit of Twist a little bit of this
+And if you don't know how to do it ask my little sis
+Push your partner out then you hunch her back
+Start a little movement in your sacrolliac
+Wiggle like a stick wobble like a duck
+That's what you do when you do the Hucklebuck
+
+Oh - Move
+
+A little bit of Twist a little bit of this
+And if you don't know how to do it ask my little sis
+Push your partner out then you hunch her back
+Start a little movement in your sacrolliac
+Wiggle like a stick wobble like a duck
+That's what you do when you do the Hucklebuck
+
+Here's a dance you should know
+ya ya ya ya when when the lights are down...
+
+
 

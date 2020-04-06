@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-lindsey-buckingham
+lyrics_url: https://www.azlyrics.com/lyrics/lindseybuckingham/trouble.html
 name: Trouble
 rankings:
 - end_date: '1981-10-30'
@@ -83,4 +84,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
 ---
+
+I really should be saying goodnight
+I really shouldn't stay anymore
+It's been so long since I held you
+I've forgotten what love is for
+
+I should run on the double
+I think I'm in trouble
+I think I'm in trouble
+
+So come to me darling and hold me
+Let your honey keep you warm
+It's been so long since I held you
+I've forgotten what love is for
+
+I should run on the double
+I think I'm in trouble
+I think I'm in trouble
+
+
 

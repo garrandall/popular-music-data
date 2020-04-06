@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spice-of-life-the-manhattan-transfer
+lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/spiceoflife.html
 name: Spice Of Life
 rankings:
 - end_date: '1983-09-16'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
 ---
+
+Down on the corner there's a reason to smile
+When those evenin' shadows fall
+Some kinda feelin' that it's hard to deny
+Once the neon lights start to call
+People out there searchin' for action
+Daytime distraction slippin' right on by
+
+Tonight, let's taste the spice of life
+Keep it sweet until the mornin' light
+Watch fantasy unfold
+And let the lovin' flow
+
+Caught in the madness of a summer romance
+At a moonlight rendezvous
+Lost in the spirit of a sensual dance
+That can cast a spell over you
+All you need's a night to remember
+Flyin' together on the highest high
+
+Tonight, let's taste the spice of life
+A little music and some candlelight
+Put passion in control
+And let the lovin' flow
+
+Could be the start of a million dreams we share
+So lay back in the feelin' let the evenin' take you there
+
+All we need is a night to remember
+Flyin' together on the highest high
+
+Tonight, let's taste the spice of life
+A little music and some candlelight
+Put passion in control
+And let the lovin' flow
+All night we'll taste the spice of life
+Keep it sweet until the mornin' light
+Watch fantasy unfold
+That's the only way to go
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls-in-love-gary-lewis-and-the-playboys
+lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/girlsinlove.html
 name: Girls In Love
 rankings:
 - end_date: '1967-05-19'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
 ---
+
+Speaking of all those girls in love
+With a guy in their eye, they're lookin' so adorable
+Gee, I want one for me
+
+Since the world's made of all those girls in love
+It's a factuality one is bound to fall in love with me one day
+
+You gotta live each day with this logical philosophy
+Come with me; she'll come in time
+'Cause I found out that love is not supposed to be mine
+Till I find her and I'll find her
+
+If I fall in love and the girl's in love
+Then I wait for the day when I say that I'm thinkin' I do
+If the girl's in love too
+
+You gotta live each day with this logical philosophy
+Come with me; she'll come in time
+'Cause I found out that love is not supposed to be mine
+Till I find her and I'll find her
+
+If I fall in love and the girl's in love
+Then I wait for the day when I say that I'm thinkin' I do
+If the girl's in love too
+
+
 

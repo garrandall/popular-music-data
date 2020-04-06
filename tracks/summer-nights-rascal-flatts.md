@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-nights-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/summernights.html
 name: Summer Nights
 rankings:
 - end_date: '2009-06-19'
@@ -79,4 +80,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
 ---
+
+Ha ha ha ha ha
+Itâs summer nights, babe!
+Woo! Yeah, yeah, yeah
+
+Come on ladies, itâs time to pop that top
+And fellas, I know youâre ready to rock
+We went crazy cooped all winter long
+And school is out, so letâs get it on
+Flip flop tans and some white sand, I know the perfect spot
+
+Well, the sunset better set soon
+So we can get in the mood
+Things start getting all heated up
+When it starts getting cool, yeah
+
+
+Summer nights, everybody, are you with me?
+Let that Igloo cooler mark your piece of paradise
+Summer nights, everybodyâs feeling sexy
+Holler if youâre ready for some summer nights
+A-come on, oh yeah, yeah
+
+Now fellas, you better watch your step
+Donât let them teeny French bikinis make you lose your breath
+Back to the ladies, yâall keep doing yâallâs thang
+âCause everything about you makes me wanna scream
+
+The sun is getting low, there it goes
+Here we go, here comes the moon, yeah
+Things start getting all heated up
+When it starts getting cool, yeah
+
+
+Summer nights, everybody, are you with me?
+Let that Igloo cooler mark your piece of paradise
+Summer nights, everybodyâs feeling sexy
+Holler if youâre ready for some summer nights
+
+Itâs a party down in Padre
+Big bonfire on the beach
+Itâs Coronas in Daytona yâall
+Where itâs wild and itâs free
+
+
+Summer nights, everybody, are you with me?
+Let that Igloo cooler mark your piece of paradise
+Summer nights, everybodyâs feeling sexy
+Holler if youâre ready for some summer nights
+A-come on
+
+
+Summer nights, everybody, are you with me?
+Let that Igloo cooler mark your piece of paradise
+Summer nights, everybodyâs feeling sexy
+Holler if youâre ready for some summer nights
+
+Yeah, oh, are you ready?
+Are you ready? Are you ready?
+For some summer nights
+Yeah baby
+
+Summer nights!
+Itâs summer nights
+Come on!
+
+
 

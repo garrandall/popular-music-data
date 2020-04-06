@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-more-love-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/alittlemorelove.html
 name: A Little More Love
 rankings:
 - end_date: '1978-12-01'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
 ---
+
+Night is draggin' her feet
+I wait alone in the heat
+I know, know that you'll have your way
+Till you have to go home
+No's a word I can't say
+
+Cause it gets me nowhere to tell you no
+And it gets me nowhere to make you go
+Will a little more love make you start depending
+Will a little more love bring a happy ending
+Will a little more love make it right?
+Will a little more love make it right?
+
+Where, where did my innocence go?
+How, how was a young girl to know?
+I'm trapped, trapped in the spell of your eyes
+In the warmth of your arms
+In the web of your lies
+
+But it gets me nowhere to tell you no
+And it gets me nowhere to make you go
+Will a little more love make you start depending
+Will a little more love bring a happy ending
+Will a little more love make it right?
+Will a little more love make it right?
+
+
 

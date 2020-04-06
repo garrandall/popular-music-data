@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: country-boy-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/allamericancountryboy.html
 name: Country Boy
 rankings:
 - end_date: '2008-11-21'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
 ---
+
+I work a forty hour week and I earn my keep
+And I try to walk proud and tall
+I keep my nose to the ground, I don't get behind
+And I don't back up at all
+Well my neck's a little red, my collar's blue
+I sip a little coffee, and I drink a little booze
+
+'Cause I'm an all American country boy
+I'm my daddy's spittin' image and my mama's pride and joy
+There ain't nothing down home that I really don't enjoy
+'Cause I'm an all American country boy
+
+I drive a pickup truck and I don't pass the buck
+And I always speak my mind
+I'm hooked on T.V., Rolaids, and B.C.'s
+And I know how to have a good time
+I'm a little bit rowdy and a little bit tame
+Ain't no way I'm ever gonna change
+
+'Cause I'm an all American country boy
+I'm my daddy's spittin' image and my mama's pride and joy
+There ain't nothing down home that I really don't enjoy
+'Cause I'm an all American country boy
+
+Well I must admit that I've mellowed a bit
+Father Time can slow you down
+I'm still doin' all I used to do
+It just takes a little longer now
+
+'Cause I'm an all American country boy
+I'm my daddy's spittin' image and my mama's pride and joy
+There ain't nothing down home that I really don't enjoy
+'Cause I'm an all American country boy
+
+I'm just a country boy
+A good ol' country boy
+
+
 

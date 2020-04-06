@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hollywood-s-not-america-ferras
+lyrics_url: https://www.azlyrics.com/lyrics/ferras/hollywoodsnotamerica.html
 name: Hollywood's Not America
 rankings:
 - end_date: '2008-04-11'
@@ -47,4 +48,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-07'
 ---
+
+Born Helena Jane
+With a restless soul
+She moved west to California
+Became a centerfold
+
+But once you change your name
+Well the pieces fall
+Now she hardly recognizes
+Herself at all
+
+And there's never any rain, when you want it
+A hollow little game, and you've won it
+Looking for a thrill, but you've done it all
+
+So long, put your blue jeans back on girl
+Go Home
+Remember, Hollywood's Not America
+So long, put your blue jeans back on girl
+Go Home
+Remember, Hollywood's Not America
+O yea
+
+And everybody here's from somewhere else
+You could make a million dollars, but you might lose yourself
+And you can take the heat will your heart go cold
+They say acting's just pretending, even that gets old
+
+And there's never any rain, when you want it
+A hollow little game, and you've won it
+Looking for a thrill but you've done it all
+
+So long, put your blue jeans back on girl
+Go home
+Remember Hollywood's not America
+So long put your blue jeans back on girl
+Go home
+Remember Hollywood's not America
+
+And I know what you're doin'
+I know that you
+You can be anything you want to be
+
+So long, put your blue jeans back on girl
+Go home
+Remember Hollywood's not America
+So long put your blue jeans back on girl
+Go home
+Remember Hollywood's not America
+Hollywood's not America
+It's not America
+
+
 

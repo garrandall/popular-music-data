@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-dance-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/lastdance.html
 name: Last Dance
 rankings:
 - end_date: '1978-05-19'
@@ -91,4 +92,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
 ---
+
+Last dance
+Last dance for love
+Yes, it's my last chance
+For romance tonight
+I I need you by me
+Beside me, to guide me
+To hold me, to scold me
+'Cause when I'm bad
+I'm so, so bad
+
+So let's dance the last dance
+Let's dance the last dance
+Let's dance this last dance tonight
+
+Last dance
+Last dance for love
+Yes, it's my last chance
+For romance tonight
+Oh-ho, I need you by me
+Beside me, to guide me
+To hold me, to scold me
+'Cause when I'm bad
+I'm so, so bad
+So let's dance the last dance
+Let's dance the last dance
+Let's dance the last dance tonight
+
+Oh-ho, I need you by me
+To guide me, to guide me
+To hold me, to scold me
+'Cause when I'm bad
+I'm so, so bad
+
+So, come on baby, dance that dance
+Come on baby, dance that dance
+Come on baby, let's dance tonight
+
+
 

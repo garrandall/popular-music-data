@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-dream-crystal-gayle
+lyrics_url: https://www.azlyrics.com/lyrics/mymp/whenidream.html
 name: When I Dream
 rankings:
 - end_date: '1979-07-13'
@@ -19,4 +20,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+
+I could build a mansion
+That is higher than the trees
+I could have all the gifts I want
+And never ask please
+
+I could fly to Paris
+It's at my beck and calls
+Why do I live my life alone
+With nothing at all
+
+(But) when I dream, I dream of you
+Maybe someday you will come true
+
+When I dream, I dream of you
+Maybe someday you will come true
+
+I can be the singer
+Or the clown in any room
+I can call up someone
+To take me to the moon
+I can put my makeup on
+And drive the man insane
+I can go to bed alone
+And never know his name
+
+
 

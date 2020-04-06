@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-for-being-a-friend-andrew-gold
+lyrics_url: https://www.azlyrics.com/lyrics/andrewgold/thankyouforbeingafriend.html
 name: Thank You For Being A Friend
 rankings:
 - end_date: '1978-02-17'
@@ -67,4 +68,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
 ---
+
+Thank you for being a friend
+Traveled down the road and back again
+Your heart is true you're a pal and a confidant
+
+I'm not ashamed to say
+I hope it always will stay this way
+My hat is off, won't you stand up and take a bow
+
+And if you threw a party
+Invited everyone you knew
+You would see, the biggest gift would be from me
+And the card attached would say,
+Thank you for being a friend
+
+Thank you for being a friend
+Thank you for being a friend
+Thank you for being a friend
+
+If it's a car you lack
+I'd surely buy you a cadillac
+Whatever you need, anytime of the day or night
+
+I'm not ashamed to say
+I hope it always will stay this way
+My hat is off, won't you stand up and take a bow
+
+And when we both get older
+With walking canes and hair of gray
+Have no fear, even though it's hard to hear
+I will stand real close and say,
+Thank you for being a friend
+
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Let me tell you bout a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+
+And when we die and float away
+Into the night, the Milky Way
+You'll hear me call, as we ascend
+I'll see you there, then once again
+Thank you for being a friend
+
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+(I want to thank you)
+Thank you for being a friend
+Whoa, tell you about a friend
+(Thank you right now, for being a friend)
+Thank you for being a friend
+(I wanna tell you right now, and tell you again)
+Thank you for being a friend
+(I wanna thank you, thank you, for being a friend)
+Thank you for being a friend
+
+
 

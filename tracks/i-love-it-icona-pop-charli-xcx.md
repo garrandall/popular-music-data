@@ -5,6 +5,7 @@ features:
 - Charli XCX
 genres: []
 key: i-love-it-icona-pop-charli-xcx
+lyrics_url: https://www.azlyrics.com/lyrics/iconapop/iloveit.html
 name: I Love It
 rankings:
 - end_date: '2013-02-22'
@@ -124,4 +125,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
 ---
+
+I got this feeling on the summer day when you were gone.
+I crashed my car into the bridge. I watched, I let it burn.
+I threw your shit into a bag and pushed it down the stairs.
+I crashed my car into the bridge.
+
+I don't care, I love it.
+I don't care.
+
+I got this feeling on the summer day when you were gone.
+I crashed my car into the bridge. I watched, I let it burn.
+I threw your shit into a bag and pushed it down the stairs.
+I crashed my car into the bridge.
+
+I don't care, I love it.
+I don't care.
+
+You're on a different road, I'm in the Milky Way
+You want me down on earth, but I am up in space
+You're so damn hard to please, we gotta kill this switch
+You're from the 70s, but I'm a 90's bitch
+
+I love it!
+I love it!
+
+I got this feeling on the summer day when you were gone.
+I crashed my car into the bridge. I watched, I let it burn.
+I threw your shit into a bag and pushed it down the stairs.
+I crashed my car into the bridge.
+
+I don't care, I love it.
+I don't care, I love it, I love it.
+I don't care, I love it.
+I don't care.
+
+You're on a different road, I'm in the Milky Way
+You want me down on earth, but I am up in space
+You're so damn hard to please, we gotta kill this switch
+You're from the 70s, but I'm a 90's bitch
+
+I don't care, I love it.
+I don't care, I love it, I love it.
+I don't care, I love it.
+I don't care, I love it, I love it.
+I don't care.
+I love it.
+
+
 

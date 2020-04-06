@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thunderball-tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/thunderball.html
 name: Thunderball
 rankings:
 - end_date: '1965-12-17'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+
+He always runs while others walk.
+He acts while other men just talk.
+He looks at this world, and wants it all,
+So he strikes, like Thunderball.
+He knows the meaning of success.
+His needs are more, so he gives less.
+They call him the winner who takes all.
+And he strikes, like Thunderball.
+
+Any woman he wants, he'll get.
+He will break any heart without regret.
+His days of asking are all gone.
+His fight goes on and on and on.
+But he thinks that the fight is worth it all.
+So he strikes like Thunderball.
+
+
 

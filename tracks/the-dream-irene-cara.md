@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-dream-irene-cara
+lyrics_url: https://www.azlyrics.com/lyrics/irenecara/thedreamholdontoyourdream.html
 name: The Dream
 rankings:
 - end_date: '1983-12-16'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
 ---
+
+I've been chasing dreams for so long
+Just one step behind and then they're gone
+Illusions of love would come and go
+I guess you have to hurt before you grow
+And everybody knows
+Never let go of the, never let go of the dream
+
+I always seem to lose what I thought was mine
+And many times I tried to leave it behind
+Deep inside, hope was still alive
+Deep inside, dreams will never die
+That is why we're movin' closer to the truth
+
+It's really great for me to be here
+I've won over the pain and the fear
+It's been so very hard through the years
+Been looking through a rainbow of tears
+And still I never really let go of the dream
+
+Sometimes I saw my life just falling apart
+And all the rejection tearing at my heart
+Deep inside, hope was still alive
+Deep inside, dreams will never die
+If you try there'll be so much more for you
+
+It's really great for me to be here
+I've won over the pain and the fear
+It's been so very hard through the years
+Been looking through a rainbow of tears
+And still I never really let go of the dream
+
+We can all be free, we hold the key
+If we can see what we wanna be
+Life's never easy, you get no guarantees
+Why not give your all and see what you can find?
+
+
 

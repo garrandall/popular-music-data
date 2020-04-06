@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-p-nk
+lyrics_url: https://www.azlyrics.com/lyrics/pink/trouble.html
 name: Trouble
 rankings:
 - end_date: '2003-10-24'
@@ -23,4 +24,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
 ---
+
+No attorneys
+To plead my case
+No opiates
+To send me into outer space
+And my fingers
+Are bejeweled
+With diamonds and gold
+But that ain't gonna help me now
+
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I disturb my town
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+
+You think you're right
+But you were wrong
+You tried to take me
+But I knew all along
+You can't take me
+For a ride
+I'm not a fool now
+So you better run and hide
+
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I disturb my town
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+
+If you see me coming
+Down the street then
+You know it's time to
+Go (and you know it's time to go
+cause here comes trouble)
+
+No attorneys
+To plead my case
+No opiates
+To send me into outer space
+And my fingers
+Are bejeweled
+With diamonds and gold
+But that ain't gonna help me now
+
+You think you're right
+But you were wrong
+You tried to take me
+But I knew all along
+You can't take me
+For a ride
+I'm not a fool now
+So you better run and hide
+
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I disturb my town
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+
+So if you see me coming
+Down the street then
+You know it's time to
+Go (go-oh-oh..I got)
+
+Trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+
+Trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+I'm trouble
+Yeah trouble now
+I'm trouble y'all
+I got trouble in my town
+I got trouble in my town
+I got trouble in my town
+
+
 

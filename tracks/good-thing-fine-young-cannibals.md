@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-thing-fine-young-cannibals
+lyrics_url: https://www.azlyrics.com/lyrics/fineyoungcannibals/socialsecurity.html
 name: Good Thing
 rankings:
 - end_date: '1989-05-12'
@@ -75,4 +76,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
 ---
+
+There's no one like you for me (Oo, oo, oo, oo, good thing)
+Now, you're here (Oo, oo, oo, oo)
+Don't ever leave (Good thing)
+Maybe my messenger (Ahh, haa)
+But they be' handover' a job (Ahh, haa)
+But there's no one like you for me (Oo, oo, oo, oo, good thing)
+
+Social Security let me pair me together (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+I begin to have (Sha-la-la, sha-ba-da)
+You begin to me forever (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+Yeah, yeah (Sha-la-la, sha-ba-da)
+
+Some people I don't want approve (Oo, oo, oo, oo, good thing)
+They'll tell stories (Oo, oo, oo, oo)
+That's just aren't true (Good thing)
+
+They'll never understand that God see what I can (Aah, haa, aah, haa)
+Some people I don't want approve (Oo, oo, oo, oo, good thing)
+
+Social Security let me turn me together (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+I begin to have (Sha-la-la, sha-ba-da)
+You begin to me forever (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+Yeah, yeah (Sha-la-la, sha-ba-da)
+
+You show me
+Only ever good times
+Never any bad time
+
+You show me
+Only ever glad times
+Never any sad time
+
+Don't take me for a fool (Oo, oo, oo, oo, good thing)
+If you ever think we're through (Oo, oo, oo, oo, good thing)
+Let me feel your presence (Aah, haa)
+I'll pack my bags and clear (Aah, haa)
+Don't take me afarâa fool (Oo, oo, oo, oo, good thing)
+
+Social Security let me turn me together (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+I begin to have (Sha-la-la, sha-ba-da)
+You begin to me forever (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+Yeah, yeah (Sha-la-la, sha-ba-da)
+
+You're my best friend (Sha-la-la, sha-ba-da)
+You do what I love (Sha-la-la, sha-ba-da)
+That you as you plan; does it well (Sha-la-la, sha-ba-da)
+Been through now (Sha-la-la, sha-ba-da)
+
+Social Security let me take me together (Sha-la-la, sha-ba-da, sha-la-la, sha-ba-da, sha-la-la, sha-ba-da)
+Yeah, yeah (Sha-la-la, sha-ba-da)
+
+(Oo, oo, oo, oo, good thing)
+(Aah, haa)
+(Aah; haa, ha)
+
+(Oo, oo, oo, oo, good thing)
+
+
 

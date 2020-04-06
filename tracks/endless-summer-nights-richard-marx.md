@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: endless-summer-nights-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/endlesssummernights.html
 name: Endless Summer Nights
 rankings:
 - end_date: '1988-01-29'
@@ -91,4 +92,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
 ---
+
+Summer came and left without a warning
+All at once I looked and you were gone
+And now you're looking back at me
+Searching for a way that we can be like we were before
+
+Now I'm back to what I knew before you
+Somehow the city doesn't look the same
+I'd give my life for one more night
+Of having you here to hold me tight; oh, please
+Take me there again
+Oh, oh
+
+
+And I remember how you loved me
+Time was all we had until the day we said goodbye
+I remember every moment of those endless summer nights
+
+I still recall the walks along the beaches
+And the way your hair would glisten in the sun
+Rising in the afternoon
+Making love to you under the moon, oh
+
+Do you remember all the nights we spent in silence
+Every single breath you took was mine
+We can have it all again
+Say that you'll be with me when the sun brings your heart to mine
+Oh, oh
+
+
+
+There's only so much I can say
+So please don't run away from what we have together
+It's only you and me tonight
+So let's stay lost in flight
+Oh, won't you please surrender
+
+
+
+
 

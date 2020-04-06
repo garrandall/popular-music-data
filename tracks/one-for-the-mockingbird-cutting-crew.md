@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-for-the-mockingbird-cutting-crew
+lyrics_url: https://www.azlyrics.com/lyrics/cuttingcrew/oneforthemockingbird.html
 name: One For The Mockingbird
 rankings:
 - end_date: '1987-06-12'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
 ---
+
+I have learnt through all my past mistakes
+Not to let the hurdles sap my energy
+Time will tell and time is all it takes
+You won't see the bastards knock the running out of me
+
+And the band, they played one more song
+One for the mocking bird, they played one more song
+All the tears, they fell one by one
+All for the mocking-bird, they fell one by one
+
+Don't be fooled by those who feed you words
+They just twist and tighten up the tourniquet
+But the sweetest song of all the mocking-birds
+Couldn't hope to match one note of any song we played
+
+And the band, they played one more song
+One for the mocking bird, they played one more song
+All the dreams, they broke one by one
+All for the mocking-bird, they broke one by one
+
+What are you hiding from?
+Why do you lock the door?
+Open up the door!
+
+And the band, they played...
+
+I have learnt, time will tell, years will pass, tears will fall,
+Don't be fooled, fed by words, their sweet songs,
+Mocking-birds!
+
+
 

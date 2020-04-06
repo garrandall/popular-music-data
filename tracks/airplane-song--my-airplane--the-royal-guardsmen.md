@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: airplane-song--my-airplane--the-royal-guardsmen
+lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/airplanesongmyairplane.html
 name: Airplane Song (My Airplane)
 rankings:
 - end_date: '1967-06-23'
@@ -31,4 +32,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
+
+I can go for miles in my airplane
+Have a lot of smiles in my airplane
+I can go up - I can get down
+But I can't get to you
+If you don't want me around
+In my airplane
+
+You could wear your flowers in my airplane
+Laugh and talk for hours in my airplane
+You can go from, and you can go to
+And if you'll fly with me
+Then I will fly to you
+In my airplane
+
+If I get my jet and set
+Myself right on the runway of your city
+You would not be there to meet me
+You would not be there to greet me
+That's a rhyme and a pity
+
+We could go to Maine in my airplane
+Chase away the rain in my airplane
+We can go up - We can go down
+But the way we're going now
+We won't get off the ground
+In my airplane
+
+If I get my jet and set
+Myself right on the runway of your city
+You would not be there to meet me
+You would not be there to greet me
+That's a rhyme and a pity
+
+We could go to Maine in my airplane
+Chase away the rain in my airplane
+We can go up - We can go down
+But the way we're going now
+We won't get off the ground
+In my airplane
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--roll-baby-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/stylistics/rockinrollbaby.html
 name: Rockin' Roll Baby
 rankings:
 - end_date: '1973-10-26'
@@ -79,4 +80,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
+
+Tootsie roll soul and doodle-white shoes
+Papa's sure proud of his little bitty rockin' roll baby
+Singin' at the age of two
+He can hardly talk but he sure knows how to sing the blues
+
+Little Joe never sings out of tune
+Always in key, he's a soulful little rockin' roll baby
+Papa loves the way you do
+Never heard a boy sing the way my little Joey do
+
+He was born in a theater in Bluefield, West Virginia
+His ma and I were travelin' on the road
+I worked hard all that summer as a fill-in for the drummer
+One-night stands weren't easy for little Joe
+
+Bought a new house in Beverly Hills
+Papa made it big and he did it for his rockin' roll baby
+A little bit of rhythm and blues
+Got a funky walk in his little orthopedic shoes
+
+He was born in a theater in Bluefield, West Virginia
+His ma and I were travelin' on the road
+I worked hard all that summer as a fill-in for the drummer
+One-night stands weren't easy for little Joe
+
+
 

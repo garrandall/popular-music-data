@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: decode-paramore
+lyrics_url: https://www.azlyrics.com/lyrics/paramore/decode.html
 name: Decode
 rankings:
 - end_date: '2008-11-28'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
 ---
+
+How can I decide what's right
+When you're clouding up my mind?
+I can't win your losing fight all the time
+How can I ever own what's mine
+When you're always taking sides
+But you won't take away my pride
+No not this time
+Not this time
+
+How did we get here?
+Well, I used to know you so well
+How did we get here?
+Well, I think I know
+
+The truth is hiding in your eyes
+And it's hanging on your tongue
+Just boiling in my blood
+But you think that I can't see
+What kind of man that you are
+If you're a man at all
+Well, I will figure this one out
+On my own
+(I'm screaming, "I love you so!")
+On my own
+(My thoughts you can't decode)
+
+How did we get here?
+Well, I used to know you so well, yeah
+How did we get here?
+Well, I think I know
+
+Do you see what we've done?
+We've gone and made such fools of ourselves
+Do you see what we've done?
+We've gone and made such fools of ourselves
+
+Yeah...!
+
+How did we get here?
+Well, I used to know you so well, yeah, yeah
+How did we get here?
+ Well, I used to know you so well
+ Why won't you show yourself?
+
+I think I know
+I think I know
+
+Ooh, there is something
+I see in you
+It might kill me
+I want it to be true
+
+
 

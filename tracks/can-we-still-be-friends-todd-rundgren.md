@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-we-still-be-friends-todd-rundgren
+lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/canwestillbefriends.html
 name: Can We Still Be Friends
 rankings:
 - end_date: '1978-06-02'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
 ---
+
+We can't play this game anymore
+But can we still be friends?
+Things just can't go on like before
+But can we still be friends?
+We had something to learn
+Now it's time for the wheel to turn
+Grains of sand, one by one
+Before you know it, all gone
+
+Let's admit we made a mistake
+But can we still be friends?
+Heartbreak's never easy to take
+But can we still be friends?
+It's a strange, sad affair
+Sometimes seems like we just don't care
+Don't waste time feeling hurt
+We've been through hell together
+
+(La la lala la la lalala
+Can we still be friends?)
+Can we still get together sometime
+(La la lala la la lalala
+Can we still be friends?)
+You know life will still go on and on and on
+
+We awoke from our dream
+Things are not always what they seem
+Memories linger on
+It's like a sweet, sad old song
+
+
 

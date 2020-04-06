@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sledgehammer-fifth-harmony
+lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/sledgehammer.html
 name: Sledgehammer
 rankings:
 - end_date: '2014-12-19'
@@ -67,4 +68,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
 ---
+
+
+If you could take my pulse right now
+It would feel just like a sledgehammer
+If you could feel my heartbeat now
+It would hit you like a sledgehammer
+
+
+I don't admit it
+I play it cool
+But every minute
+That I'm with you
+
+I feel the fever and I won't lie
+I break a sweat
+My body's telling
+All the secrets I ain't told you yet
+
+
+Oh oh
+I struggle to contain
+Whoa oh
+The love that's in my veins
+Oh oh
+And how it circulates
+Oh oh
+
+
+If you could take my pulse right now
+It would feel just like a sledgehammer
+If you could feel my heartbeat now
+It would hit you like a sledgehammer
+
+You're taking over the beat of my body
+You just don't let up, don't let up
+You're taking over the beat of my body
+But you lift me up, lift me up
+If you take my pulse right now
+It would feel just like a sledgehammer
+
+
+So close together
+So far apart
+You're turning me on
+And my fire's waitin' for your spark
+
+
+Oh oh
+I struggle to contain
+Whoa oh
+The love that's in my veins
+Oh oh
+And how it circulates
+Oh oh
+
+
+If you could take my pulse right now
+It would feel just like a sledgehammer
+If you could feel my heartbeat now
+It would hit you like a sledgehammer
+
+You're taking over the beat of my body
+You just don't let up, don't let up
+You're taking over the beat of my body
+But you lift me up, lift me up
+If you take my pulse right now
+It would feel just like a sledgehammer
+
+
+The truth is out
+No stopping now
+I'm getting closer
+
+
+I've had enough
+Undress my love
+I'm coming over
+
+
+If you take my pulse right now
+It would feel just like a sledgehammer, oh
+And if you take my pulse right now
+It would feel just like a sledgehammer, hammer, oh
+
+If you take my pulse
+
+
+If you could take my pulse right now
+It would feel just like a sledgehammer
+If you could feel my heartbeat now
+It would hit you like a sledgehammer
+
+You're taking over the beat of my body
+You just don't let up, don't let up
+You're taking over the beat of my body
+But you lift me up, lift me up
+If you take my pulse right now
+It would feel just like a sledgehammer
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-in-a-bottle-jim-croce
+lyrics_url: https://www.azlyrics.com/lyrics/yungblud/timeinabottle.html
 name: Time In A Bottle
 rankings:
 - end_date: '1973-11-23'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
+
+If I could save time in a bottle
+The first thing that I'd like to do
+Is to save every day till eternity passes away
+Just to spend them with you
+
+If I could make days last forever
+If words could make wishes come true
+I'd save every day like a treasure and then
+Again, I would spend them with you
+
+But there never seems to be enough time
+To do the things you wanna do, once you find them
+Once you find them
+I've looked around enough to know
+That you're the one I wanna go through time with
+Through time with
+
+If I had a box just for wishes
+And dreams that had never come true
+The box would be empty, except for the memory
+Of how they were answered by you
+
+If I could save time in a bottle
+The first thing that I'd like to do
+Is to save every day till eternity passes away
+Just to spend them with you
+
+There never seems to be time
+To do the things you want, once you find them
+Once you find them
+I've looked around enough to know
+That you're the one I wanna go through time with
+Through time with
+
+But there never seems to be enough time
+To do the things you want to do, once you find them
+Once you find them
+I've looked around enough to know
+That you're the one I wanna go through time with
+Through time with
+
+
 

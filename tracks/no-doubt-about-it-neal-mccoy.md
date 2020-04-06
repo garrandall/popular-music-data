@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-doubt-about-it-neal-mccoy
+lyrics_url: https://www.azlyrics.com/lyrics/nealmccoy/nodoubtaboutit.html
 name: No Doubt About It
 rankings:
 - end_date: '1994-04-08'
@@ -27,4 +28,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
 ---
+
+Just like every lock's got to have a key
+Every river flows looking for the sea
+And when you plant a seed, it reaches for the sky
+That's just the way it is, nobody wonders why
+Like coffee needs a cup you know that it ain't much good without it
+We were meant to be together, no doubt about it
+Like a hammer and a nail, socks and shoes
+We go hand in hand, like a rhythm and blues
+What good is a man who hasn't got a dream
+Bout as good as a car with no gasoline
+You're the one I'm dreaming of got to have your love can't live without it
+We were meant to be together, no doubt about it
+
+No there ain't no doubt about it
+Something was missing it was making me blue
+But all I ever needed was you
+
+Just like every lock's got to have a key
+Every river flows lookin' for the sea
+And when you plant a seed, it reaches for the sky
+That's just the way it is, girl with you and I
+Like coffee needs a cup you know that it ain't much good without it
+We were meant to be together, no doubt about it
+No there ain't no doubt about it
+
+Like a hammer and a nail, socks and shoes
+We go hand in hand, like a rhythm and blues
+What good is a man who hasn't got a dream
+'Bout as good as a car with no gasoline
+You're the one I'm dreaming of got to have your love can't live without it
+We were meant to be together, no doubt about it
+
+
 

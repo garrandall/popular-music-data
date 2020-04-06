@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bird-dog-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/birddog.html
 name: Bird Dog
 rankings:
 - end_date: '1958-08-10'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+
+Johnny is a joker (he's a bird)
+A very funny joker (he's a bird)
+But when he jokes my honey (he's a dog)
+His jokin' ain't so funny (what a dog)
+Johnny is a joker that's a-tryin' to steal my baby (he's a bird dog)
+
+Johnny sings a love song (like a bird)
+He sings the sweetest love song (ya ever heard)
+But when he sings to my gal (what a howl)
+To me he's just a wolf dog (on the prowl)
+Johnny wants to fly away and puppy-love my baby (he's a bird dog)
+
+Hey, bird dog get away from my quail
+Hey, bird dog you're on the wrong trail
+Bird dog you better leave my lovey-dove alone
+Hey, bird dog, get away from my chick
+Hey, bird dog, you better get away quick
+Bird dog you better find a chicken little of your own
+
+Johnny kissed the teacher (he's a bird)
+He tiptoed up to reach her (he's a bird)
+Well he's the teachers pet now (he's a dog)
+What he wants he can get now (what a dog)
+He even made the teacher let him sit next to my baby (he's a bird dog)
+
+Hey, bird dog get away from my quail
+Hey, bird dog you're on the wrong trail
+Bird dog you better leave my lovey-dove alone
+Hey, bird dog get away from my chick
+Hey, bird dog you better get away quick
+Bird dog you better find a chicken little of your own
+He's birdâ¦â¦
+
+
 

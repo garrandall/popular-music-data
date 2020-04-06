@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-usual-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/asusual.html
 name: As Usual
 rankings:
 - end_date: '1963-12-20'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
 ---
+
+The sun comes up and brings the dawn
+As usual
+When I awake I'll find you gone
+As usual
+
+But I can't find a way to let
+This crazy heart of mine forget
+I pretend you're still beside me
+As usual
+
+Each evening I take a walk
+As usual
+I make believe that we still talk
+As usual
+
+People always stop and stare
+I guess they just don't see you there
+Don't they know you'll always be right here
+As usual
+
+Today I looked into my mirror
+As usual
+
+
+(I told myself that you're still here
+As usual)
+
+And as I stood there telling lies
+The tears began to fill my eyes
+Cause I know I'm only fooling myself
+As usual
+
+
 

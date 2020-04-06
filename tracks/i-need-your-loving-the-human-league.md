@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-your-loving-the-human-league
+lyrics_url: https://www.azlyrics.com/lyrics/humanleague/ineedyourloving.html
 name: I Need Your Loving
 rankings:
 - end_date: '1986-12-12'
@@ -51,4 +52,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
 ---
+
+I need your loving
+I need your kissing, baby
+I need your loving
+I need your kissing, baby
+
+Moonlit sky casts shadows down
+Romance in the air is strong
+
+Something's telling me
+I need your love
+
+I need your loving
+I need your kissing, baby
+And that's a fact
+I need your loving
+I need your kissing, baby
+Where are you at?
+
+Looking glass reflects the moon
+Your love's missing from this room
+
+Baby, now I see
+I need your love
+
+I need your loving
+I need your kissing, baby
+And that's a fact
+I need your loving
+I need your kissing, baby
+Where are you at?
+
+I need your loving
+I need your love
+I need your kissing, baby
+And that's a fact
+I need your loving
+I need your love
+I need your kissing, baby
+Where are you at?
+
+Oh, I need your love
+I need you tonight
+Can't do without
+Oh, I need your love
+
+Oh, I need your love
+So I can hug
+And squeeze you tight
+Oh, I need your love
+
+Oh, I need your love
+I need you tonight
+Can't do without
+Oh, I need your love
+
+Oh, I need your love
+So I can hug
+And squeeze you tight
+Oh, I need your love
+
+Baby
+Come on home to me
+
+I need your love
+
+I need your loving
+I need your kissing, baby
+And that's a fact
+I need your loving
+I need your kissing, baby
+Where are you at?
+
+I need your loving
+I need your love
+I need your kissing, baby
+I need your loving
+I need your love
+I need your kissing, baby
+And that's a fact
+That's where I'm at
+Baby
+
+I need your loving
+I need your love
+I need your kissing, baby
+Now I know what
+I've been missing
+I need your loving
+I need your love
+I need your kissing, baby
+
+
 

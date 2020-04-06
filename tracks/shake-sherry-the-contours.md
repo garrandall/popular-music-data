@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shake-sherry-the-contours
+lyrics_url: https://www.azlyrics.com/lyrics/contours/shakesherry.html
 name: Shake Sherry
 rankings:
 - end_date: '1962-12-28'
@@ -43,4 +44,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
 ---
+
+Shake, Sherry, shake
+(Shake, Sherry, woo)
+Shake, Sherry, shake
+
+(Shake, Sherry, woo)
+Shake, Sherry, shake
+(Shake, Sherry, shake)
+
+Mercy, mercy, you don't even see
+I'm in love with 
+But no one loves you as much as me
+So dance with me before you go
+
+And shake
+(Shake, Sherry, shake)
+Come on
+Sherry, won't you shake?
+
+(Shake, Sherry, shake)
+Shake, Sherry, shake
+(Shake, Sherry, shake)
+
+Well, now dance to the east
+(Hey, hey, dance to the east)
+Well, now dance to the west
+(Hey, hey, dance to the west)
+
+Well, now dance to the one
+(Hey, hey, dance to the one)
+That you love the best
+(You love the best)
+
+Is it me?
+(No)
+Is it me?
+(No)
+
+Is it me?
+(No)
+Is it me?
+(No)
+
+Me
+(No)
+Hey
+
+Shake, Sherry, shake
+(Shake, Sherry, shake)
+Shake, Sherry, shake
+(Shake, Sherry, shake)
+
+Come on, Sherry, shake
+Shake, Sherry, shake
+(Shake, Sherry, shake)
+
+(Shake, Sherry, shake)
+Shake, Sherry
+(Shake, Sherry, shake)
+
+Shake, Sherry
+(Shake, Sherry, shake)
+Shake, Sherry, shake
+
+Now listen, dance to the east
+(Hey, hey, dance to the east)
+Well, now dance to the west
+(Hey, hey, dance to the west)
+
+Well, now dance to the one
+(Hey, hey, dance to the one)
+That you love the best
+(You love the best)
+
+Is it me?
+(No)
+Is it me?
+(No)
+
+Is it me?
+(No)
+Is it me?
+(No)
+
+Me
+(No)
+Me
+(No)
+
+(Shake, Sherry, shake)
+Shake, Sherry
+(Shake, Sherry, shake)
+Shake, Sherry
+
+(Shake, Sherry, shake)
+Shake, Sherry
+(Shake, Sherry, shake)
+Shake, Sherry
+
+(Shake, Sherry, shake)
+Shake, Sherry
+(Shake, Sherry, shake)
+Shake, Sherry
+...
+
+
 

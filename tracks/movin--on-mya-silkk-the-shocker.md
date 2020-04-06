@@ -5,6 +5,7 @@ features:
 - Silkk The Shocker
 genres: []
 key: movin--on-mya-silkk-the-shocker
+lyrics_url: https://www.azlyrics.com/lyrics/mya/movinon.html
 name: Movin' On
 rankings:
 - end_date: '1998-08-14'
@@ -88,4 +89,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
 ---
+
+
+Ay Yo Mya 
+I know you got a man and all
+But uhhhh I been watchin y'all
+And if he ain't treatin' you right
+It's about time you move on 
+Now I'm not tryna get in between y'all two, 
+But if you gonna move, move this way
+
+
+I'm so confused
+I don't know what to do
+But I gotta be a woman
+I gotta get over you
+I think I saw your baby's motha
+Creeping at yo back door
+And ya lying ass been cheatin' 
+And I can't take it no more oh no
+I'm movin on
+
+
+On (Movin on)
+On (movin on-on)
+Oh-on
+I'll be movin on 
+
+
+
+Whose drawers are these?
+You know I wear a size 4 
+And if you say that you've been faithful
+Who was at your back door?
+You ain't got no money
+I should've left you long ago
+And you stroke ain't strokin' no more
+So I've been sleepin all alone
+If ya know what I mean
+I'm movin on
+
+
+
+
+Well now I'm a No Limit Soldier
+Known to keep it rowdy
+You know one's that make you say uhh
+And Bout It, Bout It
+Now one to the two
+Two to the three
+I aint sayin' leave him
+But you should like roll wit me
+Cause I can see you ain't happy here
+When I look in your eyes
+You a bird, spread your wings
+Cuz now it's time to fly
+You aint never gotta trip
+Or remind me
+I'm trying to live ghetto fab
+Like takin' baths 
+In bottles of Don P
+But I ain't perfect
+Just imagine me with no flaws
+Like a parking lot, Wit no cars
+Cell block, Wit no bars
+World wit no wars, L.A. wit no stars
+So check this out
+I can heal your broken heart
+So don't be so fast To react so quick
+Or get all mad And try to scratch up my 6
+Now you know I get paid 
+For bustin all kind of tight verses
+See I need a girl, That I can see on top
+Like Silkk and Mya
+Or vice versa 
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hit--em-up-style--oops---blu-cantrell
+lyrics_url: https://www.azlyrics.com/lyrics/blucantrell/hitemupstyle.html
 name: Hit 'Em Up Style (Oops!)
 rankings:
 - end_date: '2001-05-11'
@@ -143,4 +144,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
 ---
+
+While he was schemeing
+I was beamin in the Beamer just beamin
+Can't believe that I caught my man cheatin'
+So I found another way to make him pay for it all
+
+So I went
+To Neiman-Marcus on a shopping spree
+And on the way I grabbed Soley and Mia
+And as the cash box rang I thought everything away
+
+(Oops)
+There goes the dreams we used to say
+(oops)
+There goes the time we spent away
+(oops)
+There goes the love I had but you cheated on me
+And thats worth that now
+(oops)
+There goes the house we made a home
+(oops)
+There goes you'll never leave me alone
+For all the lies you told
+This is what you owe
+
+Hey Ladies
+When your man wanna get buckwild
+Just go back and Hit 'Em Up Style
+Put your hands on his cash
+And spend it to the last dime
+For all the hard times
+Oh
+When you go then everything goes
+From the crib to the ride and the clothes
+So you better let him know that
+If he messed up you gotta hit em up
+
+While he was braggin
+I was coming down the hill and just draggin
+All his pictures and his clothes in the bag and
+Sold everything else till there was just nothin left
+
+And I paid
+All the bills about a month too late
+It's a shame we have to play these games
+The love we had just fades away, away
+
+(Oops)
+There goes the dreams we used to say
+(oops)
+There goes the time we spent away
+(oops)
+There goes the love I had but you cheated on me
+And thats worth that now
+(oops)
+There goes the house we made a home
+(oops)
+There goes you'll never leave me alone
+For all the lies you told
+This is what you owe
+
+Hey Ladies
+When your man wanna get buckwild
+Just go back and Hit 'Em Up Style
+Put your hands on his cash
+And spend it to the last dime
+For all the hard times
+Oh
+When you go then everything goes
+From the crib to the ride and the clothes
+So you better let him know that
+If he messed up you gotta hit em up
+
+Hey Ladies
+When your man wanna get buckwild
+Just go back and Hit 'Em Up Style
+Put your hands on his cash
+And spend it to the last dime
+For all the hard times
+Oh
+When you go then everything goes
+From the crib to the ride and the clothes
+So you better let him know that
+If he messed up you gotta hit em up
+
+All of the dreams you sold
+Left me out in the cold
+What happened to the days when we used to trust each other
+And all of the things I sold
+Will take you until you get old
+To get 'em back without me
+Cuz revenge is better than money you see
+
+Hey Ladies
+When your man wanna get buckwild
+Just go back and Hit 'Em Up Style
+Put your hands on his cash
+And spend it to the last dime
+For all the hard times
+Oh
+When you go then everything goes
+From the crib to the ride and the clothes
+So you better let him know that
+If he messed up you gotta hit em up
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-and-smell-the-roses-mac-davis
+lyrics_url: https://www.azlyrics.com/lyrics/macdavis/stopandsmelltheroses.html
 name: Stop And Smell The Roses
 rankings:
 - end_date: '1974-08-30'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
 ---
+
+Hey mister
+Where you going in such a hurry
+Don't you think it's time you realized
+There's a whole lot more to life than work and worry
+The sweetest things in life are free
+And there right before your eyes
+
+You got to stop and smell the roses
+You've got to count your many blessings everyday
+You're gonna find your way to heaven is a rough and rocky road
+If you don't stop and smell the roses along the way
+
+Before you went to work this morning in the city
+Did you spent some time with your family
+Did you kiss your wife and tell her that she's pretty
+Did you take your children to your breast and love them tenderly
+
+You got to stop and smell the roses
+You've got to count your many blessings everyday
+You're gonna find your way to heaven is a rough and rocky road
+If you don't stop and smell the roses along the way
+
+Did you ever take a walk through the forest
+Stop and dream a while among the trees
+Well you can look up through the leaves right straight to heaven
+You can almost hear the voice of god
+In each any every breeze
+
+You got to stop and smell the roses
+You've got to count your many blessings everyday
+You're gonna find your way to heaven is a rough and rocky road
+If you don't stop and smell the roses along the way
+
+You got to stop and smell the roses
+You've got to count your many blessings everyday
+You're gonna find your way to heaven is a rough and rocky road
+If you don't stop and smell the roses along the way
+
+
 

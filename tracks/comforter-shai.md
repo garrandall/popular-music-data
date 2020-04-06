@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: comforter-shai
+lyrics_url: https://www.azlyrics.com/lyrics/shai/comforter.html
 name: Comforter
 rankings:
 - end_date: '1993-01-29'
@@ -103,4 +104,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
 ---
+
+Talk to me, baby.
+I'm listening.
+
+Lay down.
+And tell me what's on your mind.
+What exactly did he do?  To make you cry this time?
+Well, I will be your comforter. I will make it right
+He cast a shadow on your heart. And I will bring back your light
+Come in...
+
+I see he's hurt you again,
+When you're in pain I'm in pain
+That's part of bein' a friend.
+But this is a special case.
+I held my feelings back because of him
+And now I can see more than ever
+I made a big, big, big mistake.
+
+I don't mean to disregard your feelings
+But i think that he's a fool.
+he don't know how sensitive you are
+And baby, that just ain't cool.
+
+I'm just glad I could be here for you
+When you need a helping hand.
+But deep inside my heart, from the start
+I know I shoud have been your man.
+
+Lay down.
+And tell me what's on your mind.
+What exactly did he do?Tell me what he do...
+To make you cry this time? To make you cry this time?
+Well, I will be your comforter. I will make it right
+He cast a shadow on your heart. And I will bring back your light
+
+I will comfort comfort comfort you.
+I will I will comfort you.
+I will comfort comfort comfort you.
+I will I will comfort you.
+I will comfort comfort comfort you.
+I will I will comfort you.
+I will comfort comfort comfort you.
+I will I will comfort you.
+
+Lay down. Please tell me, baby.
+And tell me what's on your mind  Tell me what's on your mind
+What exactly did he do? To make you cry this time
+Well, I'll be your comforter. I will make it alright
+He cast a shadow on your heart. And I will bring back your light
+
+
 

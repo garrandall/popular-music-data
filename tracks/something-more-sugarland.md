@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-more-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/somethingmore.html
 name: Something More
 rankings:
 - end_date: '2005-05-27'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
 ---
+
+Monday, hard to wake up
+Fill my coffee cup, I'm out the door
+Yeah, the freeway's standing still today
+It's gonna make me late, and thats for sure
+I'm running out of gas and out of time
+Never gonna make it there by nine
+
+
+There's gotta be something more
+Gotta be more than this
+I need a little less hard time
+I need a little more bliss
+I'm gonna take my chances
+Taking a chance I might
+Find what I'm looking for
+There's gotta be something more
+
+Five years and there's no doubt
+That I'm burnt out, I've had enough
+So now boss man, here's my two weeks
+I'll make it short and sweet, so listen up
+I could work my life away, but why?
+I got things to do before I die
+
+
+
+Some believe in destiny, and some believe in fate
+I believe that happiness is something we create
+You best believe that I'm not gonna wait
+'Cause there's gotta be something more
+
+I get home 7:30 the house is dirty, but it can wait
+Yeah, 'cause right now I need some downtime
+To drink some red wine and celebrate
+Armageddon could be knocking at my door
+But I ain't gonna answer that's for sure.
+There's gotta be something!
+
+
+
+
 

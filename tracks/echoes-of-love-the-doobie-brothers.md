@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: echoes-of-love-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/echoesoflove.html
 name: Echoes Of Love
 rankings:
 - end_date: '1977-10-14'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
 ---
+
+I hear your voice everywhere
+It's echoes of love
+Making me look back over my shoulder
+Echoes of love are started all over
+Echoes of love
+Keeps on haunting
+I'm out of control
+Keeps on burning
+Echoes of love are out of control
+Bringing back love I used to hold
+
+Darlin', since you went away
+Think about you every day
+So many memories
+Got to get the best of me
+
+Recalling the times
+I used to hold you
+I just wouldn't do
+What I was supposed to
+I've done things
+I'd like to undo
+Now darlin' it's you
+I'd like to run to
+
+Echoes of love
+Keeps on haunting
+I'm out of control
+Keeps on burning
+Echoes of love are out of control
+Bringing back love I used to hold
+
+Echoes of love
+Echoes of love
+Love, echoes of love
+Keeps on haunting
+Echoes of love, echoes of love
+Keeps on burning
+Echoes of love
+
+
 

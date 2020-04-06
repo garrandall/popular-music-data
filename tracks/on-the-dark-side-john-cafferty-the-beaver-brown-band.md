@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: on-the-dark-side-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/openroad.html
 name: On The Dark Side
 rankings:
 - end_date: '1983-10-14'
@@ -116,4 +117,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+
+As I ride this lonesome highway
+The desert wind across my face
+My mind slowly wanders
+To another time, another place
+
+When the world was so much younger
+With no reason to hold back
+And we weren't so afraid of losing
+All the things we'd never had
+
+Those days are gone forever
+Time to kiss the past goodbye
+Meet me out tonight
+On the open road
+
+Baby we belong together
+If I had you by my side
+Meet my out tonight
+On the open road
+
+Your had a dream you once believed in
+That burned inside you like a fire
+And that big wheel kept on turning
+Somehow that dream it passed you by
+
+Now that fire just keeps on burning
+Leaves only hunger and desire
+Gotta find yourself a new dream
+And leave the rest behind
+
+Those days are gone forever
+Time to kiss the past goodbye
+Meet me out tonight
+On the open road
+
+Baby we belong together
+If I had you by my side
+Meet my out tonight
+On the open road
+
+Somewhere over the horizon
+Where the darkness meets the light
+We'll marry all our dreams together
+Out on this open road tonight
+
+Those days are gone forever
+Time to kiss the past goodbye
+Meet me out tonight
+On the open road
+
+Baby we belong together
+If I had you by my side
+Meet my out tonight
+On the open road
+
+Those days are gone forever
+Time to kiss the past goodbye
+Meet me out tonight
+On the open road
+
+On the open road
+On the open road
+On the open road
+
+
 

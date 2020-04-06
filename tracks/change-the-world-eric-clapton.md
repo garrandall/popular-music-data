@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-the-world-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/babyface/changetheworld.html
 name: Change The World
 rankings:
 - end_date: '1996-07-26'
@@ -179,4 +180,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
 ---
+
+If I can reach the stars,
+Pull one down for you,
+Shine it on my heart
+So you could see the truth:
+That this love I have inside
+Is everything it seems.
+But for now I find
+It's only in my dreams.
+
+And I can change the world,
+I will be the sunlight in your universe.
+You would think my love was really something good,
+Baby if I could change the world.
+
+And if I could be king,
+Even for a day,
+I'd take you as my queen;
+I'd have it no other way.
+And our love would rule
+This kingdom we had made.
+Till then I'd be a fool,
+Wishing for the day...
+
+That I can change the world,
+I would be the sunlight in your universe.
+You would think my love was really something good,
+Baby if I could change the world.
+Baby if I could change the world.
+
+I could change the world,
+I would be the sunlight in your universe.
+You would think my love was really something good,
+Baby if I could change the world.
+Baby if I could change the world.
+Baby if I could change the world.
+
+
 

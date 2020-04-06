@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lido-shuffle-boz-scaggs
+lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/lidoshuffle.html
 name: Lido Shuffle
 rankings:
 - end_date: '1977-03-18'
@@ -75,4 +76,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
 ---
+
+Lido missed the boat that day
+He left the shack
+But that was all he missed
+And he ain't comin back
+
+At a tombstone bar
+In a jukejoint car
+He made a stop
+Just long enough
+To grab a handle off the top
+
+Next stop Chi town
+Lido put the money down let em roll
+He said one more job ought to get it
+One last shot 'fore we quit it
+One for the road
+
+Lido.. woah oh oh oh
+He's for the money
+He's for the show
+Lido's waiting for the go
+
+Lido.. woah oh oh oh
+He said one more job ought to get it
+One last shot 'fore we quit it
+One more for the road
+
+Lido will be runnin'
+Havin' great big fun
+Until he got the note
+Sayin' tow the line or blow it
+And that was all she wrote
+
+He'll be makin' like a bee line
+Headin' for the border line
+Goin' for broke
+Sayin' one more hit ought to do it
+This joint aint nothin' to it
+One more for the road
+
+Lido.. whoah oh oh oh
+He's for the money
+He's for the show
+Lido's waiting for the go
+
+Lido.. woah oh oh oh oh oh oh
+One more job ought to get it
+One last shot then we quit it
+One more for the road
+
+Lido.. woah oh oh oh
+He's for the money
+He's for the show
+Lido's a waitin' for the go
+Lido.. woah oh oh oh
+
+
 

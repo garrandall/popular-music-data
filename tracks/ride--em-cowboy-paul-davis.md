@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride--em-cowboy-paul-davis
+lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/rideemcowboy.html
 name: Ride 'em Cowboy
 rankings:
 - end_date: '1974-10-18'
@@ -79,4 +80,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
 ---
+
+Traveling with the rodeo
+It's the only life I'll ever know
+I started in New Mexico
+Must have been a thousand years ago
+
+I used to be the best they say
+At riding young wild horses for my pay
+But now I'm much too old it seems
+I only ride wild horses in my dreams
+
+They used to tell me
+
+Ride em, cowboy
+Don't let 'em throw you down
+You can't make no money
+If you hit the ground
+They said, ride 'em cowboy
+Don't let 'em throw you down
+You're the toughest cowboy in town
+
+I've always been a traveling cowboy
+But now there's no place left to go
+What am I supposed to do
+Seems I'm left out in the cold
+
+Old midnight was a champion
+He's the only bronc I couldn't ride
+But now I hear old midnight's blind
+And rides the little children for a dime
+
+Ladies used to hang around
+I must have been a hero in their eyes
+My silver spurs are rusty now
+Lord, I wish I'd tried to settle down
+
+They used to tell me
+
+Traveling with the rodeo
+It's the only life I'll ever know
+
+
 

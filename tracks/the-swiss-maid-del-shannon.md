@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-swiss-maid-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/theswissmaid.html
 name: The Swiss Maid
 rankings:
 - end_date: '1962-09-21'
@@ -27,4 +28,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
 ---
+
+One time a long time ago
+On a mountain in Switzerland, yo lo lo lo
+There lived a fair young maiden
+Lovely but lonely, oh oh oh oh
+
+Day after day, she'd pine her heart away
+Yo lo lo lo lady yay
+But no love came her way
+
+One day, her papa said, "Some day we'll go down to the village
+In the valley, there you'll meet a nice young man, he'll ask for your hand
+Then you'll be happy"
+
+But every day she grew unhappier
+On a mountain in Switzerland, yo lo lo lo
+Every day a little bit lonelier
+Which way to turn and which way to go
+
+Day after day, she'd pine her heart away
+Yo lo lo lo lady yay
+But no love came her way
+
+Some say the maiden's dream never came true
+She never got to go to the valley
+If she did or not, I really don't know, oh oh oh oh
+Did she die unhappy?
+
+I'd rather think she found her love
+Wouldn't you rather think she did find love?
+Somewhere, some way
+Yo lo lady yay, yo lo lady yay
+
+
 

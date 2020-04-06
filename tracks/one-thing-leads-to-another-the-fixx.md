@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-thing-leads-to-another-the-fixx
+lyrics_url: https://www.azlyrics.com/lyrics/raign/onethingleadstoanother.html
 name: One Thing Leads To Another
 rankings:
 - end_date: '1983-09-02'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
 ---
+
+The deception with tact
+Just what are you trying to say
+You've got a blank face which irritates
+Communicate, pull out your party piece
+
+You see dimensions in two
+State your case with black or white
+But when one little cross
+Leads to shots, grit your teeth
+You run for cover so discreet
+
+Why don't they do what they say
+Say what you mean
+One thing leads to another
+You told me something wrong
+I know I listen too long
+But then one thing leads to another
+
+Then it's easy to believe
+Somebody's been lying to me
+But when the wrong word goes in the right ear
+I know you've been lying to me
+
+Why don't they do what they say
+Say what they mean
+One thing leads to another
+You told me something wrong
+I listen too long
+But one thing leads to another
+
+Why don't they do what they say
+Say what you mean
+One thing leads to another
+One thing leads to another
+
+Do what they say
+Say what you mean
+One thing leads to another
+
+
 

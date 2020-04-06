@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-dido
+lyrics_url: https://www.azlyrics.com/lyrics/dido/thankyou.html
 name: Thank You
 rankings:
 - end_date: '2001-01-19'
@@ -163,4 +164,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-06'
 ---
+
+My tea's gone cold, I'm wondering why
+I got out of bed at all
+The morning rain clouds up my window
+And I can't see at all
+And even if I could, it'd all be grey
+But your picture on my wall
+It reminds me that it's not so bad
+It's not so bad
+
+I drank too much last night, got bills to pay
+My head just feels in pain
+I missed the bus and there'll be hell today
+I'm late for work again
+And even if I'm there, they'll all imply
+That I might not last the day
+And then you call me
+And it's not so bad, it's not so bad
+
+And I want to thank you
+For giving me the best day of my life
+Oh, just to be with you
+Is having the best day of my life
+
+Push the door, I'm home at last
+And I'm soaking through and through
+Then you handed me a towel
+And all I see is you
+And even if my house falls down now
+I wouldn't have a clue
+Because you're near me
+
+And I want to thank you
+For giving me the best day of my life
+Oh, just to be with you
+Is having the best day of my life
+And I want to thank you
+For giving me the best day of my life
+Oh, just to be with you
+Is having the best day of my life
+
+
 

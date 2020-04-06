@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: dance-to-the-music-sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/dancetothemusic.html
 name: Dance To The Music
 rankings:
 - end_date: '1968-02-16'
@@ -68,4 +69,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
 ---
+
+ Get up and dance to the music! 
+Get on up and dance to the fonky music! 
+Dum-dumm du-du-du-du-du-dum-dumm
+Du-du-du-du-du-dum-dumm - du-du-du-du-du-dum-dumm
+ Dance to the Music, Dance to the Music 
+ Hey Greg! 
+ What? 
+ All we need is a drummer, 
+For people who only need a beat, yeah!
+
+I'm gonna add a little guitar 
+And make it easy to move your feet 
+
+ I'm gonna add some bottom, 
+So that the dancers just won't hide 
+
+ You might like to hear my organ 
+I said 'Ride Sally Ride' 
+ Cynthia, Jerry!!
+You might like to hear the horns blowin', 
+Cynthia on the throne, yeah! 
+
+Listen to me
+
+ All the squares, go home! 
+Aaaaah, yeah!!!
+
+
+Dum-dumm du-du-du-du-du-dum-dumm
+Du-du-du-du-du-dum-dumm - du-du-du-du-du-dum-dumm
+ Dance to the Music, Dance to the Music
+
+
 

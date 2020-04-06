@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: coming-around-again-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/copeland/comingaroundagain.html
 name: Coming Around Again
 rankings:
 - end_date: '1986-11-07'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
 ---
+
+Baby sneazes
+Mommy pleases
+Daddy breezes in.
+So good on paper
+So romantic
+So bewildering
+
+I know nothing stays the same
+But if you're willing to play the game
+It's coming around again.
+So don't mind if I fall apart
+There's more room in a broken heart (broken heart)
+
+Pay the grocer
+Fix the toaster
+Kiss the host goodbye.
+Then you break a window
+Burn the soufflae
+Scream the lullaby
+
+I know nothing stays the same
+But if you're willing to play the game
+It's coming around again.
+So don't mind if I fall apart
+There's more room in a broken heart
+
+I believe in love, But what else can I do, I'm so in love with you.
+
+I know nothing stays the same
+But if you're willing to play the game
+It's coming around again, coming around again, coming around again...
+
+I know nothing stays the same (I believe in love)
+But if you're willing to play the game (I believe in love)
+It's coming around again
+
+I do believe, and I do believe in love.
+
+I know nothing stays the same
+But if you're willing to play the game
+It's coming around again.
+
+(I believe in love)
+
+
 

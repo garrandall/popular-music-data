@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: disappear-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/disappear.html
 name: Disappear
 rankings:
 - end_date: '1990-11-30'
@@ -87,4 +88,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
 ---
+
+Say I'm crying
+I'm looking at what's on T.V
+Pain and suffering
+And the struggle to be free
+
+It can't ever be denied and I
+Never will ignore
+But when I see you coming
+I can take it all
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+Say your mine
+And give yourself to the
+Feelings that you know
+I'm needing
+All that you can give me
+All the things
+That you do so well
+Words are healing
+Sweet anticipation
+Making spells
+As the shadows close in
+Fall across all our yesterdays
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+Disappear, disappear, disappear, disappear, disappear, disappear, disappear
+
+Say if I could
+Look into myself and reason
+But I could never never see or
+Make sense of the dealings
+
+Turn around
+Am I looking at salvation
+Make me realise all that I am
+You put the light inside this man
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+You're so fine
+Lose my mind
+And the world seems to disappear
+All the problems, all the fears
+And the world seems to disappear
+
+
 

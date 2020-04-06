@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: powder-blue-mercedes-queen-the-raiders
+lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/powderbluemercedesqueen.html
 name: Powder Blue Mercedes Queen
 rankings:
 - end_date: '1972-05-26'
@@ -39,4 +40,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
 ---
+
+Smokin' down the boulevard
+Flashin' at the red lights
+Baby's lookin' pretty hot
+Well, you're goin' with me tonight
+
+Blue, power blue, blue Mercedes queen
+Not like the Devil, she's a human bein'
+Back to the alley, over to the side
+Go ahead, you know I love to ride
+
+Do it like a lady
+Do it like a lady
+
+Headin' down the highway
+Movin' in the open night
+Hope she's comin' my way
+Like to take her on a ride
+
+Blue, power blue, blue Mercedes queen
+Not like the Devil, she's a human bein'
+Back to the alley, over to the side
+Go ahead, you know I love to ride
+
+Do it like a lady
+Do it like a lady
+
+Movin' on the highway
+Flashin' at the red lights
+Hope she's comin' my way
+We'll you're goin' with me tonight
+
+Blue, power blue, blue Mercedes queen
+Not like the Devil, she's a human bein'
+Back to the alley, over to the side
+Go ahead, you know I love to ride
+
+Do it like a lady
+Do it like a lady
+
+
 

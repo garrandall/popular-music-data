@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sound-of-your-voice-38-special
+lyrics_url: https://www.azlyrics.com/lyrics/38special/thesoundofyourvoice.html
 name: The Sound Of Your Voice
 rankings:
 - end_date: '1991-07-19'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+
+Knock down the doors and break thru the walls
+Tear out the phone run from it all 
+I'm here to tell ya babe 
+It's been one of these days 
+I get a feelin' when I'm feelin' like this
+My heart's a target you never miss 
+You got a way of puttin' everything in its place 
+Takin' your time 
+It's all that you're sayin' just how you say it
+A serious game you start to playin' 
+You never cease to amaze me. 
+
+
+It's your voice I hear drivin' me wild
+Whispering in my ear 
+It's your voice I hear dangerous child 
+You're sayin' what I wanna hear 
+If I had my choice I'd run for cover
+But I think It'll be OK 
+'Cause all I needed to hear 
+Was the sound of your voice 
+
+Curl your words up into the air run your poetry thru my hair 
+Call me that name you call me when there's no one around 
+Take your time take all your precious time 
+It's all that ya sayin' just how you say it 
+Serious game you start to playin' you never fail to amaze. 
+
+
+
+Bye baby bye bye
+I can tell ya that I miss the sound of your voice already 
+Bye baby bye bye 
+It doesn't matter where I go
+It's your voice I hear 
+If I had my choice I'd run for cover
+But I think I'll be OK 
+I can't say I'm going crazy
+But you make a pretty good case
+And you never fail to amaze 
+
+It's your voice I hear drivin' me wild
+Whispering in my ear 
+It's your voice I hear dangerous child
+You're sayin' what I wanna hear 
+It's your voice I hear drivin' me wild
+Whispering in my ear 
+It's your voice I hear dangerous child
+You're sayin' what I wanna hear 
+It's your voice It's your voice 
+It's your voice
+
+
 

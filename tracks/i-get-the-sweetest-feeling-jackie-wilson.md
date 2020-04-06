@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-get-the-sweetest-feeling-jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/igetthesweetestfeeling.html
 name: I Get The Sweetest Feeling
 rankings:
 - end_date: '1968-07-26'
@@ -39,4 +40,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
 ---
+
+The closer you get
+The better you look
+baby
+
+The better you look
+The more I want you
+
+When you turn on your smile I feel my heart go wild
+
+I'm like a child with a brand-new toy.
+And I get the sweetest feeling
+
+Honey
+The sweetest - sweetest feeling -
+Baby
+The sweetest - sweetest feeling - loving you
+yeah!
+
+The warmer your kiss
+The deeper you touch me
+Baby
+
+The deeper your touch
+the more you thrill me
+
+It's more than I can stand
+Girl
+When you hold my hand
+
+I feel so grand that I could cry.
+
+And I get the - sweetest feeling
+Mama
+The sweetest - sweetest feeling
+Baby
+The sweetest - sweetest feeling - loving you.
+
+The greater your love
+The stronger you hold me
+Baby
+
+The stronger your hold
+The more I need you.
+With ev'ry passing day I love you more in ev'ry way
+
+I'm in love to stay and I wanna say.
+
+I get the - sweetest feeling
+Baby
+The sweetest - sweetest feeling -
+Honey't the sweetest - sweetest feeling - loving you.
+
+
 

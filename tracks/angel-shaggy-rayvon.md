@@ -5,6 +5,7 @@ features:
 - Rayvon
 genres: []
 key: angel-shaggy-rayvon
+lyrics_url: https://www.azlyrics.com/lyrics/shaggy/angel.html
 name: Angel
 rankings:
 - end_date: '2001-01-05'
@@ -120,4 +121,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
 ---
+
+
+Now this one's dedicated to all the youths who want to say nice things to all them girls
+Treat her like diamonds and pearls
+Dedicated to all the girls around the world
+Now this is Rayvon and Shaggy with a combination you can't miss
+Flip this one upon the musical disc
+Well
+
+
+Girl, you're my angel, you're my darling angel
+Closer than my peeps you are to me, baby
+Shorty, you're my angel, you're my darling angel
+Girl, you're my friend when I'm in need, lady
+
+
+Life is one big party when you're still young
+But who's gonna have your back when it's all done
+It's all good when you're little, you have pure fun
+Can't be a fool, son, what about the long run
+Looking back shorty always I mention
+Said me not giving her much attention
+She was there through my incarceration
+I wanna show the nation my appreciation
+
+
+Girl, you're my angel, you're my darling angel
+Closer than my peeps you are to me, baby
+Shorty, you're my angel, you're my darling angel
+Girl, you're my friend when I'm in need, lady
+
+
+You're a queen and so you should be treated
+Though you never get the lovin' that you needed
+Could have left, but I called and you heeded
+Begged and I pleaded, mission completed
+Mama said that I and I dissed the program
+Not the type to mess around with your emotion
+But the feeling that I have for you is so strong
+Been together so long and this could never be wrong
+
+
+Girl, you're my angel, you're my darling angel
+Closer than my peeps you are to me, baby
+Shorty, you're my angel, you're my darling angel
+Girl, you're my friend when I'm in need, lady
+
+
+Uh, uh
+Girl, in spite of my behavior, said I'm your savior
+(You must be sent from up above)
+And you appear to me so tender, say girl I surrender
+(Thanks for giving me your love)
+
+Girl, in spite of my behavior, well, you are my savior
+(You must be sent from up above)
+And you appear to me so tender, well, girl I surrender
+(Said thanks for giving me your love)
+
+
+Now life is one big party when you're still young
+And who's gonna have your back when it's all done
+It's all good when you're little, you have pure fun
+Can't be a fool, son, what about the long run
+Looking back shorty always I mention
+Said me not giving her much attention
+She was there through my incarceration
+I wanna show the nation my appreciation
+
+
+Girl, you're my angel, you're my darling angel
+Closer than my peeps you are to me, baby
+Shorty, you're my angel, you're my darling angel
+Girl, you're my friend when I'm in need, lady
+
+Girl, you're my angel, you're my darling angel
+Closer than my peeps you are to me, baby
+Shorty, you're my angel, you're my darling angel
+Girl, you're my friend when I'm in need, lady
+
+
 

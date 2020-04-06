@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool-that-i-am-rita-coolidge
+lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/foolthatiam.html
 name: Fool That I Am
 rankings:
 - end_date: '1980-12-19'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
 ---
+
+Oh, I tried to make the best of
+All the sweet love that you gave me
+Maybe I'm crazy
+But I keep on losing ground
+
+Fool that I am, fool that I may be
+When will I ever know what's true
+And if I found out differently
+Would I still love you?
+
+Two hearts breakin', two hearts achin'
+Someone's takin' more than they gave
+Trusting in someone
+Who has no trust in me
+
+Fool that I am, fool that I may be
+When will I ever know what's true
+And if I found out differently
+Would I still love you?
+
+Fool that I am, fool that I may be
+When will I ever know what's true
+And if I found out differently
+Would I still love you?
+Would I still love you?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-the-wind-donovan
+lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/catchthewind.html
 name: Catch The Wind
 rankings:
 - end_date: '1965-05-21'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
 ---
+
+In the chilly hours and minutes of uncertainty
+I long to be in the warm halls of your love and mine
+To feel you all around me
+To take your hand and walk along the sand 
+Oh, but I may as well try and catch the wind
+
+When sundown pales the sky I want to hide a while behind your smile
+And everywhere I look your eyes I find
+For me to love you now
+Would be the sweetest thing, oh, it would make me sing
+Yeah, but I may as well try and catch the wind, oh yeah
+
+I'm gonna catch that wind
+Help me catch the wind
+All for you, babe
+Just for you baby
+
+When rain has hung the leaves with tears, I want you near to kill my fear
+Help me to leave my blues behind
+For standing inside your heart
+Where I want to be, oh, I long to be
+Oh, but I may as well try and catch the wind
+
+I'll try and catch the wind
+I'm gonna try, oh, to catch the wind
+Feel your arms around me
+Oh, all around me, all around me, all around me
+Oh, but I want you, baby, yeah
+
+Oh, I want to say
+Oh, help me catch that wind
+I'll catch the wind, I'll catch the wind, I'll catch the wind
+Oh, yes I will
+Oh, yes I will
+
+
 

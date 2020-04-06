@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-world-without-love-peter-and-gordon
+lyrics_url: https://www.azlyrics.com/lyrics/petergordon/aworldwithoutlove.html
 name: A World Without Love
 rankings:
 - end_date: '1964-05-15'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
 ---
+
+Please lock me away
+And don't allow the day
+Here inside, where I hide with my loneliness
+I don't care what they say
+I won't stay in a world without love
+
+Birds sing out of tune
+And rain clouds hide the moon
+I'm okay, here I'll stay with my loneliness
+I don't care what they say
+I won't stay in a world without love
+
+So I wait and in a while
+I will see my true love smile
+She may come, I know not when
+When she does, I'll lose
+So baby until then
+
+Lock me away
+And don't allow the day
+Here inside, where I hide with my loneliness
+I don't care what they say
+I won't stay in a world without love
+
+So I wait and in a while
+I will see my true love smile
+She may come, I know not when
+When she does, I'll know
+So baby until then
+
+Lock me away
+And don't allow the day
+Here inside, where I hide with my loneliness
+I don't care what they say
+I won't stay in a world without love
+
+I don't care what they say
+I won't stay in a world without love
+
+
 

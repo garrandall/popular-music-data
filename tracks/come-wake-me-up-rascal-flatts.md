@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-wake-me-up-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/comewakemeup.html
 name: Come Wake Me Up
 rankings:
 - end_date: '2012-08-17'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
 ---
+
+I can usually drink you right off of my mind
+But I miss you tonight
+I can normally push you right out of my heart
+But I'm too tired to fight
+
+Yeah the whole thing begins
+And I let you sink into my veins
+And I feel the pain like it's new
+Everything that we were,
+Everything that you said,
+Everything that I did and that I couldn't do
+Plays through tonight
+
+Tonight your memory burns like a fire
+With every one it grows higher and higher
+And I can't get over it, I just can't put out this love
+I just sit in these flames and pray that you'll come back
+Close my eyes tightly, hold on and hope that I'm dreaming
+Come wake me up
+
+Turn the TV up loud just to drown out your voice, but I can't forget
+Now I'm all out of ideas and baby I'm down to my last cigarette
+Yeah, you're probably asleep deep inside of your dreams while Iâm sitting here crying and trying to see
+Yeah, wherever you are baby now I am sure you moved on and aren't thinking twice about me
+And you tonight
+
+Tonight your memory burns like a fire
+With every one it grows higher and higher
+I can't get over it, I just can't put out this love
+I just sit in these flames and pray that you'll come back
+Close my eyes tightly, hold on and hope that I'm dreaming
+
+I know that you're movin' on
+I know I should give you up
+But I keep hopin' that you'll trip and fall back in love
+Time's not healin' anything
+Baby, this pain is worse than it ever was
+I know that you can't hear me, but baby I need you to save me tonight
+
+Tonight your memory burns like a fire
+With every one it grows higher and higher
+I can't get over it, I just can't put out this love
+I just sit in these flames and pray that you'll come back
+Close my eyes tightly, hold on and hope that I'm dreaming
+Come wake me up
+Oh, I'm dreaming
+Come wake me up
+Oh, I'm dreaming
+
+
 

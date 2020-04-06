@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-and-get-it-badfinger
+lyrics_url: https://www.azlyrics.com/lyrics/warrant/comeandgetit.html
 name: Come And Get It
 rankings:
 - end_date: '1970-02-13'
@@ -67,4 +68,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
 ---
+
+If you want it, here it is, come and get it
+Make your mind up fast
+If you want it anytime, I can give it
+But you better hurry 'cause it may not last
+
+Did I hear you say that there must be a catch
+Will you walk away from a fool and his money, sonny
+If you want it here it is, come and get it
+But you better hurry 'cause it's going fast
+
+If you want it, here it is, come and get it
+Make your mind up fast
+If you want it anytime, I can give it
+Make your mind up fast
+
+Did I hear you say that there must be a catch
+Will you walk away from a fool and his money, sonny
+If you want it here it is, come and get it
+But you better hurry 'cause it's going fast
+
+Did I hear you say that there must be a catch
+Will you walk away from a fool and his money, sonny
+If you want it here it is, come and get it
+But you better hurry 'cause it's going fast
+You better hurry 'cause it's going fast
+You better hurry 'cause it's going fast
+
+
 

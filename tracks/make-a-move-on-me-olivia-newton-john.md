@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-a-move-on-me-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/makeamoveonme.html
 name: Make A Move On Me
 rankings:
 - end_date: '1982-02-19'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
 ---
+
+I can tell you got plans for me
+And your eyes are saying you made them carefully
+But tonight I have to say there just might be another way
+Won't you spare me all the charms and take me in your arms
+I can't wait, I can't wait
+
+I'm the one you want, that's all I wanna be
+So come on baby make a move on me
+Got nowhere to go, all my time is free
+So come on baby make a move on me tonight
+I can't wait, I can't wait
+
+You made the prettiest speech I've heard
+But a single touch surely is worth a thousand words
+To a heart that's open wide and from the start was on your side
+Won't you spare me all the charms and take me in your arms
+I can't wait, I can't wait
+
+I'm the one you want, that's all I wanna be
+So come on baby make a move on me
+Got nowhere to go, all my time is free
+So come on baby make a move on me tonight
+I can't wait, I can't wait
+
+I'm the one you want, that's all I wanna be
+So come on baby make a move on me
+Got nowhere to go, all my time is free
+So come on baby make a move on me tonight
+I can't wait, I can't wait
+
+
 

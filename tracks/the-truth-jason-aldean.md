@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-truth-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/thetruth.html
 name: The Truth
 rankings:
 - end_date: '2009-11-27'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
 ---
+
+Tell 'em all I'm on vacation
+Say I went to visit friends
+That you ain't heard or seen from me in quite a while
+When they ask you where I've been
+
+Tell 'em I'm out on the West Coast
+Where it don't ever rain
+And that I'm probably doing fine
+
+Just don't tell 'em I've gone crazy
+That I'm still strung out over you
+Tell 'em anythin' you want to
+Just don't tell 'em all the truth
+Yeah, don't tell 'em all the truth
+
+Tell 'em all I'm out in Vegas
+Blowin' every dollar I ever made
+Tell 'em that I must be into somethin' bad for me
+'Cause I sure lost a lot of weight
+
+Tell 'em I'm out on the road
+With some old rock and roll band
+Living like a gypsy king
+
+Just don't tell 'em I've gone crazy
+That I'm still strung out over you
+Tell 'em anythin' you want to
+Just don't tell 'em all the truth
+Yeah, don't tell 'em all the truth
+
+The truth is that I'm askin' you to lie
+And we both know that it ain't right
+But if you ever loved me
+Please have some mercy on me
+Yeah, yeah, yeah, yeah
+
+Tell 'em anything you want to
+Just don't tell 'em all the truth
+Yeah, don't tell 'em all the truth
+I still need you
+
+Yeah, that's the truth
+I still love you
+Baby, that's the truth
+
+
 

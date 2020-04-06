@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-got-me-hummin--sam-dave
+lyrics_url: https://www.azlyrics.com/lyrics/samdave/yougotmehummin.html
 name: You Got Me Hummin'
 rankings:
 - end_date: '1966-12-09'
@@ -32,4 +33,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
 ---
+
+I don't know what you got
+But it's gettin' to me
+It makes my cold nights hot
+Hot winds just blow right through me
+
+Oh, power
+Lady, it's in your hands
+
+'Cause you got me hummin' now
+You got me hummin' now
+
+I wake up early at night
+I can't go back to sleep now
+Even walk in the red lights
+Tired of talking, I try to sleep
+
+Look here if I try to walk
+That's when my feet start a runnin'
+
+'Cause you got me hummin' now
+You got me hummin' now
+
+I don't know what you got
+But it's gettin' to me
+It makes my cold nights hot
+Hot winds just blow right through me
+
+Look here if I try to walk
+That's when my feet start a runnin'
+
+'Cause you got me hummin' now
+You got me hummin' now
+You got me hummin' now
+
+You got me hummin', ooh
+You got me hummin', ooh yeah
+You got me hummin'
+
+
 

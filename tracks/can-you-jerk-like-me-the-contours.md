@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-you-jerk-like-me-the-contours
+lyrics_url: https://www.azlyrics.com/lyrics/contours/canyoujerklikeme.html
 name: Can You Jerk Like Me
 rankings:
 - end_date: '1964-12-25'
@@ -35,4 +36,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+
+(Oh, yeah) come on, children
+(Oh, yeah) hey
+
+Can you do the Jerk
+Come on, let's work
+Move your shoulders up and down
+Your feet don't leave the ground
+
+Anyone can do it
+Friends, there's nothing to it
+If you're young or old
+All it takes is soul
+
+And I just wanna know
+Can you Jerk like me
+Come on, children, hey
+(Can you Jerk like me)
+Come on, children now
+(Can you Jerk like me)
+Hey, baby, I just wanna know
+Can you Jerk like me, hey, baby
+
+Get right back in the groove
+Like I said, your feet don't move
+Get a hump down in your back
+Take off all the slack
+
+Come on, let's work
+Snap your fingers
+Make your backbone jerk
+Now you got that feeling
+Cause the music got you reeling
+
+And I just wanna know
+Can you Jerk like me
+Come on, children
+(Can you Jerk like me)
+Hey, baby (can you Jerk like me)
+I just wanna know
+Can you Jerk like me, hey, baby
+Ow, it's all right
+
+I just wanna know
+(Can you Jerk like me)
+Hey, baby
+
+Now you roll back in the groove
+Like I said, your feet don't move
+Come on (oh, yeah) let's work
+Snap those fingers
+Make your backbone jerk
+
+Now you got that feeling
+Cause the music's got you reeling
+
+I just wanna know
+(Can you Jerk like me)
+Hey, baby
+(Can you Jerk like me)
+Come on, children
+(Can you Jerk like me)
+Hey, baby
+(Can you Jerk like me)
+Come on, children now
+
+
 

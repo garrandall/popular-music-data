@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: handy-man-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/handyman.html
 name: Handy Man
 rankings:
 - end_date: '1964-07-10'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+
+Hey girls, gather round
+Because of what I'm puttin' down
+Oh, baby, I'm your handy man
+I'm not the kind that uses pencil or rule
+I'm handy with the love and I'm no fool
+I fix broken hearts, I know I really can
+
+If your broken heart needs repair
+I'm the man to see. I whisper sweet things
+You tell all your friends, and they'll come running to me
+Here is the main thing I want to say
+I'm busy twenty four hours a day
+I fix broken hearts, I know I really can
+
+Hey girls, gather round
+Because of what I'm puttin' down
+Oh, baby, I'm your handy man
+I'm not the kind that uses pencil or rule
+I'm handy with the love and I'm no fool
+I fix broken hearts, I know I really can
+
+If your broken heart needs repair
+I'm the man to see. I whisper sweet things
+You tell all your friends, and they'll come running to me
+Here is the main thing I want to say
+I'm busy twenty four hours a day
+
+
 

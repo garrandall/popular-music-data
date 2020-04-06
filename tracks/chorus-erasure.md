@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chorus-erasure
+lyrics_url: https://www.azlyrics.com/lyrics/erasure/chorus.html
 name: Chorus
 rankings:
 - end_date: '1991-08-16'
@@ -51,4 +52,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+
+Go ahead with your dreamin'
+For what it's worth
+Or you'll be stricken bound
+Kickin' up dirt
+For when it's dark
+You never know what the night it may bring
+
+Go ahead with your schemin'
+And shop at home
+You'll find treasure
+While cookin' up bones
+But the knife is sharp
+You'd better watch that you don't cut your hands
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+Go ahead with your dreamin'
+For what it's worth
+Or you'll be stricken bound
+Kickin' up dirt
+For when it's dark
+You never know what the night it may bring
+
+Go ahead with your schemin'
+And shop at home
+You'll find treasure
+While cookin' up bones
+But the knife is sharp
+You'd better watch that you don't cut your hands
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+Holy Moses our hearts are screaming
+Souls are lifting only dreaming
+We'll be waiting some are praying
+For a time when no one's cheating
+
+The sunlight rising over the horizon
+Just a distant memory a dawn chorus
+Birds singing bells ringing
+In our hearts in our minds
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+And they covered up the sun
+Until the birds had flown away
+And the fishes in the sea
+Had gone to sleep
+
+
 

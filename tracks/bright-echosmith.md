@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bright-echosmith
+lyrics_url: https://www.azlyrics.com/lyrics/echosmith/bright.html
 name: Bright
 rankings:
 - end_date: '2015-04-03'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
 ---
+
+I think the universe is on my side
+Heaven and Earth have finally aligned
+Days are good and that's the way it should be
+
+You sprinkle stardust on my pillowcase
+It's like a moonbeam brushed across my face
+Nights are good and that's the way it should be
+
+You make me sing oh, la, la, la
+You make a girl go oh oh
+I'm in love, love
+
+Did you see that shooting star tonight?
+Were you dazzled by the same constellation?
+Did you and Jupiter conspire to get me?
+I think you and the Moon and Neptune got it right
+'Cause now I'm shining bright, so bright
+Bright, so bright
+
+And I see colors in a different way
+You make what doesn't matter fade to grey
+Life is good and that's the way it should be
+
+You make me sing oh, la, la, la
+You make a girl go oh oh
+I'm in love, love
+
+Did you see that shooting star tonight?
+Were you dazzled by the same constellation?
+Did you and Jupiter conspire to get me?
+I think you and the Moon and Neptune got it right
+'Cause now I'm shining bright (oh) so bright
+And I get lost (oh) in your eyes
+
+Did you see that shooting star tonight?
+Were you dazzled by the same constellation?
+Did you and Jupiter conspire to get me?
+I think you and the Moon and Neptune got it right
+I think you and the Moon and Neptune got it right
+I think you and the Moon and Neptune got it right*
+'Cause now I'm shining bright, so bright
+Bright, so bright
+Bright, so bright
+And I get lost in your eyes tonight
+
+
+
+
 

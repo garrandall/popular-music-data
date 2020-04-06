@@ -5,6 +5,7 @@ features:
 - Sam Smith
 genres: []
 key: latch-disclosure-sam-smith
+lyrics_url: https://www.azlyrics.com/lyrics/disclosure/latch.html
 name: Latch
 rankings:
 - end_date: '2014-04-04'
@@ -140,4 +141,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
 ---
+
+(Never )
+
+You lift my heart up when the rest of me is down (never)
+You, you enchant me even when you're not around (never)
+If there are boundaries, I will try to knock them down (never)
+I'm latching on, babe, now I know what I have found (never)
+
+I feel we're close enough
+I wanna lock in your love
+I think we're close enough
+Could I lock in your love, baby?
+
+Now I've got you in my space
+I won't let go of you (never)
+Got you shackled in my embrace
+I'm latching on to you (never)
+
+Now I've got you in my space
+I won't let go of you (never)
+Got you shackled in my embrace
+I'm latching on to you (never)
+
+I'm so encaptured, got me wrapped up in your touch (never)
+Feel so enamored, hold me tight within your clutch (never)
+How do you do it, you got me losing every breath (never)
+What did you give me to make my heart beat out my chest (never)?
+
+I feel we're close enough
+I wanna lock in your love
+I think we're close enough
+Could I lock in your love, baby?
+I feel we're close enough
+I wanna lock in your love
+I think we're close enough
+Could I lock in your love, baby?
+
+Now I've got you in my space
+I won't let go of you (never)
+Got you shackled in my embrace
+I'm latching on to you (never)
+
+Now I've got you in my space
+I won't let go of you (never)
+Got you shackled in my embrace
+I'm latching on to you (never)
+
+Latching on to you (I'm latching on to you)
+I won't let go of you (never) (No, I won't let go)
+Latching on to you (How you wanna get down)
+I won't let go of you
+(I won't let go, I won't let go)
+
+(I won't let go, I won't let go)
+
+Never
+Never
+
+
 

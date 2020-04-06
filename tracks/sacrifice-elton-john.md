@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sacrifice-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/sacrifice.html
 name: Sacrifice
 rankings:
 - end_date: '1990-01-19'
@@ -75,4 +76,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
 ---
+
+It's a human sign
+When things go wrong
+When the scent of her lingers
+And temptation's strong
+
+Into the boundary
+Of each married man
+Sweet deceit comes calling
+And negativity lands
+
+Cold, cold heart
+Hardened by you
+Some things looking better baby
+Just passing through
+And it's no sacrifice
+Just a simple word
+It's two hearts living
+In two separate worlds
+But it's no sacrifice
+No sacrifice
+It's no sacrifice at all
+
+Mutual misunderstanding
+After the fact
+Sensitivity builds a prison
+In the final act
+
+We lose direction
+No stone unturned
+No tears to damn you
+When jealousy burns
+
+Cold, cold heart
+Hardened by you
+Some things looking better, baby
+Just passing through
+And it's no sacrifice
+Just a simple word
+It's two hearts living
+In two separate worlds
+But, it's no sacrifice
+No sacrifice
+It's no sacrifice, at all
+
+Cold, cold heart
+Hardened by you
+Some things looking better, baby
+Just passing through
+And it's no sacrifice
+Just a simple word
+It's two hearts living
+In two separate worlds
+But, it's no sacrifice
+No sacrifice
+It's no sacrifice, at all
+
+No sacrifice, at all
+No sacrifice, at all
+No sacrifice, at all
+No sacrifice, at all
+
+
 

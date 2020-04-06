@@ -5,6 +5,7 @@ features:
 - The Throne
 genres: []
 key: pop-style-drake-the-throne
+lyrics_url: https://www.azlyrics.com/lyrics/drake/popstyle.html
 name: Pop Style
 rankings:
 - end_date: '2016-04-29'
@@ -88,4 +89,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
 ---
+
+
+Yeah, yeah
+
+
+Dropped outta school now we dumb rich, dumb rich
+This sound like some forty-three-oh-one shit, one shit
+All my niggas wanna do is pop style, pop style
+Turn my birthday into a lifestyle, lifestyle
+
+
+Tell my mom I love her if I do not make it, do not make it
+Got so many chains they call me Chaining Tatum
+They do, they do
+And I like to finish what you think you started
+Man you boys just got to Hollywood, you boys just started
+You don't know what you just started
+All I do is hang with the young and heartless
+All this is for my family, man, I try my hardest
+It's all I ever did and look where it got him
+Yeah, you've been on my mind lately
+You've still got my number, girl you need to call me
+I feel like they wanna see me learn the hard way
+But you know I always handle that one my way
+Girl let me rock, rock, rock, rock, rock your body
+Justin Timberlake and then I hit the highway
+I can't trust no fuckin' body
+They still out to get me cause they never got me
+
+
+They still out to get me, they don't get it
+I can not be got, and that's a given
+They like Pablo, "why are all the windows tinted on your Tahoe?"
+Why do you know every single bitch that I know?
+Why can't you just shut your mouth and take the high road?
+Fuck if I know, that's that Chicago, aye
+South, south, side, that's the motto, aye
+Cop a crib and spend ten million on remodel
+Take the devils out my life and preach the gospel, cause I know
+We went way, way past the line of scrimmage, aye
+Throne is back up in it, aye
+In the field like Emmitt, aye, y'all get so offended, aye
+I be blacking out, I ain't backing out
+Jay about his business, and I'mma let you finish but I...
+I just, I just, I just, I just wanna rock your body
+Take you to the garage and do some karate
+Chop it, chop it, chop it, chop it sipping sake
+Throw a thick bitch on a Kawasaki
+(Perfect)
+
+
+Dropped outta school now we dumb rich, dumb rich
+This sound like some forty-three-oh-one shit, one shit
+All my niggas wanna do is pop style, pop style
+Turn my birthday into a lifestyle, lifestyle
+
+
 

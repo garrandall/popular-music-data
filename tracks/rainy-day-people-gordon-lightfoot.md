@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rainy-day-people-gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/rainydaypeople.html
 name: Rainy Day People
 rankings:
 - end_date: '1975-04-04'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
 ---
+
+Rainy day people always seem to know when it's time to call
+Rainy day people don't talk, they just listen till they've heard it all
+Rainy day lovers don't lie when they tell 'ya they've been down like you
+Rainy day people don't mind if you're cryin' a tear or two 
+
+If you get lonely, all you really need is that rainy day love
+Rainy day people all know there's no sorrow they can't rise above
+Rainy day lovers don't love any others, that would not be kind
+Rainy day people all know how it hangs on a piece of mind 
+
+Rainy day lovers don't lie when they tell you, they've been down there too
+Rainy day people don't mind if you're cryin' a tear or two. 
+
+Rainy day people always seem to know when you're feeling blue
+High stepping strutters who land in the gutters sometimes need one too
+Take it or leave it, or try to believe it
+If you've been down too long 
+
+Rainy day lovers don't hide love inside they just pass it on
+Rainy day lovers don't hide love inside they just pass it on
+
+
 

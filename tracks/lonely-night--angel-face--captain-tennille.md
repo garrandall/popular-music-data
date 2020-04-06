@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lonely-night--angel-face--captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/lonelynightangelface.html
 name: Lonely Night (angel Face)
 rankings:
 - end_date: '1976-01-30'
@@ -84,4 +85,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
 ---
+
+Lonely night, I cry myself to sleep
+Tell me, what am I gonna do
+
+'Cause it's always been you to dry my tears
+It's always been you to wash away my fears
+It's always been you each night and day
+Now what can I say when love slips away?
+
+Lonely night, I'm walking the floor
+Tell me, what am I gonna do
+
+Without your precious love, your tender touch
+Hey, little girl, I miss you so much
+Wish we could turn back the hands of time
+To the day when you were mine
+
+You used to call me angel face
+Used to call me angel face
+You used to help me through the night
+Make me feel all right
+Now all I have is teardrops through a lonely night
+
+I can't get ya out of my mind
+I can't get ya out of my mind
+I can't get ya out of my mind
+
+I promise you I'll change my ways
+I promise you love's here to stay
+Hey, little girl, depend on me
+
+I'll be yours for eternity
+
+You used to call me angel face
+Used to call me angel face
+You used to help me through the night
+Make me feel all right
+Now all I have is teardrops through a lonely night
+
+You used to call me angel face
+Used to call me angel face
+You used to help me through the night
+Make me feel all right
+Now all I have is teardrops through a lonely night
+
+I can't get ya out of my mind
+I can't get ya out of my mind
+I can't get ya out of my mind
+I can't get ya out of my mind
+I can't get ya out of my mind
+I can't get ya out of my mind
+
+
 

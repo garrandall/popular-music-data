@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feels-like-love-vince-gill
+lyrics_url: https://www.azlyrics.com/lyrics/vincegill/feelslikelove.html
 name: Feels Like Love
 rankings:
 - end_date: '2000-09-08'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
 ---
+
+Look what my heart has gotten into
+The sweetest gift I ever knew
+It's even better than my favorite shoes
+Look what my heart has found in you
+
+
+Feels like sunshine, fels like rain
+Lord it feels like love finally called my name
+I wanna jump and shout I wanna sing and dance
+Lord it feels like love wants a second chance
+
+Look what my heart can clearly see
+How much I crave your company
+A true companion I will always be
+Look what my heart has done to me
+
+
+
+Looks like my heart has become
+The safest place for us to run
+I'll be here for you when the day is done
+Looks like my heart has found someone
+
+
+
+
 

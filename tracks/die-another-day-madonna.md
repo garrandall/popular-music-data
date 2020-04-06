@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: die-another-day-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/dieanotherday.html
 name: Die Another Day
 rankings:
 - end_date: '2002-10-25'
@@ -75,4 +76,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
 ---
+
+I'm gonna wake up, yes and no
+I'm gonna kiss some part of
+I'm gonna keep this secret
+I'm gonna close my body now
+
+I guess, die another day
+I guess, die another day
+I guess, die another day
+I guess, die another day
+
+I guess I'll die another day
+(Another day)
+I guess I'll die another day
+(Another day)
+I guess I'll die another day
+(Another day)
+I guess I'll die another day
+
+Sigmund Freud
+Analyze this
+Analyze this
+Analyze this
+
+I'm gonna break the cycle
+I'm gonna shake up the system
+I'm gonna destroy my ego
+I'm gonna close my body now
+
+Uh, uh
+
+I think I'll find another way
+There's so much more to know
+I guess I'll die another day
+It's not my time to go
+
+For every sin, I'll have to pay
+I've come to work, I've come to play
+I think I'll find another way
+It's not my time to go
+
+I'm gonna avoid the cliche
+I'm gonna suspend my senses
+I'm gonna delay my pleasure
+I'm gonna close my body now
+
+I guess, die another day
+I guess I'll die another day
+I guess, die another day
+I guess I'll die another day
+
+I think I'll find another way
+There's so much more to know
+I guess I'll die another day
+It's not my time to go
+
+Uh, uh
+
+
+
+I guess, die another day
+I guess I'll die another day
+I guess, die another day
+I guess I'll die another day
+
+Another day 
+
+
 

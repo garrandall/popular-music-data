@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: crimson-and-clover-joan-jett-the-blackhearts
+lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/crimsonandclover.html
 name: Crimson And Clover
 rankings:
 - end_date: '1982-05-07'
@@ -68,4 +69,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
 ---
+
+Ah, now I don't hardly know her
+But I think I can love her
+Crimson and clover
+
+Ah, now when she comes walkin' over
+Now I've been waitin' to show her
+Crimson and clover
+Over and over
+
+Yeah, if I'm not such a sweet thing
+I wanna do everything
+What a beautiful feelin'
+Crimson and clover
+Over and over
+
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+Crimson and clover, over and over
+
+
 

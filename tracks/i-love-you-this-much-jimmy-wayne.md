@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-this-much-jimmy-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/iloveyouthismuch.html
 name: I Love You This Much
 rankings:
 - end_date: '2004-01-30'
@@ -67,4 +68,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
 ---
+
+He can't remember 
+The times that he thought
+Does my daddy love me?
+Probably not
+That didn't stop him
+From wishing that he did
+Didn't keep him from wanting
+Or worshipping him
+
+He guesses he saw him
+About once a year
+He could still feel the way he felt
+Standing in tears
+Stretching his arms out
+As far as they'd go
+Whispering daddy
+I want you to know
+
+
+I love you this much 
+And i'm waiting on you
+To make up your mind
+Do you love me too?
+How ever long it takes
+I'm never giving up no matter what
+I love you this much
+
+He grew to hate him for what he had done
+'cause what kind of father
+Could do that to his son?
+He said 'damn you daddy'
+The day that he died
+The man didn't blink
+But the little boy cried
+
+
+I love you this much 
+And i'm waiting on you
+To make up your mind
+Do you love me too?
+How ever long it takes
+I'm never giving up no matter what
+I love you this much
+
+Half way through the service
+While the choir sang a hymn
+He looked up above the preacher
+And he sat and stared at him
+
+He said
+'forgive me father' 
+When he realized
+That he hadn't been unloved
+Or alone all his life
+His arms were stretched out 
+As far as they'd go
+Nailed to the cross
+For the whole world to know
+
+
+I love you this much 
+And i'm waiting on you
+To make up your mind
+Do you love me too?
+How ever long it takes
+I'm never giving up no matter what
+I love you this much
+
+
 

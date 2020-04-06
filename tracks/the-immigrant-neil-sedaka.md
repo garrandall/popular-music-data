@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-immigrant-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theimmigrant.html
 name: The Immigrant
 rankings:
 - end_date: '1975-04-04'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
 ---
+
+Harbours open their arms to the young searching foreigner
+Come to live in the light of the beacon of liberty
+Plains and open skies billboards would advertise
+Was it anything like that when you arrived
+Dream boats carried the future to the heart of America
+People were waiting in line for a place by the river
+
+It was a time when strangers were welcome here
+Music would play they tell me the days were sweet and clear
+It was a sweeter tune and there was so much room
+That people could come from everywhere
+
+Now he arrives with his hopes and his heart set on miracles
+Come to marry his fortune with a hand full of promises
+To find they've closed the door they don't want him anymore
+There isn't any more to go around
+Turning away he remembers he once heard a legend
+That spoke of a mystical magical land called America
+
+There was a time when strangers were welcome here
+Music would play they tell me the days were sweet and clear
+It was a sweeter tune and there was so much room
+That people could come from everywhere
+
+There was a time when strangers were welcome here
+Music would play they tell me the days were sweet and clear
+It was a sweeter tune and there was so much room
+That people could come from everywhere
+
+
 

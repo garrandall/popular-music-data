@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-never-loved-a-man--the-way-i-love-you--aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/ineverlovedaman.html
 name: I Never Loved A Man (The Way I Love You)
 rankings:
 - end_date: '1967-03-10'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
 ---
+
+You're a no good heart breaker
+You're a liar and you're a cheat
+And I don't know why
+I let you do these things to me
+My friends keep telling me
+That you ain't no good
+But oh, they don't know
+That I'd leave you if I could
+
+I guess I'm uptight
+And I'm stuck like glue
+Cause I ain't never
+I ain't never, I ain't never, no, no (loved a man)
+(The way that I, I love you)
+
+Some time ago I thought
+You had run out of fools
+But I was so wrong
+You got one that you'll never lose
+The way you treat me is a shame
+How could ya hurt me so bad
+Baby, you know that I'm the best thing
+That you ever had
+Kiss me once again
+
+Don'cha never, never say that we we're through
+Cause I ain't never
+Never, Never, no, no (loved a man)
+(The way that I, I love you)
+
+I can't sleep at night
+And I can't eat a bite
+I guess I'll never be free
+Since you got, your hooks, in me
+
+Whoa, oh, oh
+Yeah! Yeah!
+I ain't never loved a man
+I ain't never loved a man, baby
+Ain't never had a man hurt me so bad
+
+No
+Well this is what I'm gonna do about it
+
+
 

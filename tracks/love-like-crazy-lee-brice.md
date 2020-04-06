@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-like-crazy-lee-brice
+lyrics_url: https://www.azlyrics.com/lyrics/leebrice/lovelikecrazy.html
 name: Love Like Crazy
 rankings:
 - end_date: '2010-05-28'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
 ---
+
+They called him crazy when they started out
+Said, "Seventeen's too young to know what loves about"
+They've been together fifty-eight years now
+That's crazy
+
+He brought home sixty-seven bucks a week
+Bought a little two bedroom house on Maple Street
+Where she blessed him with six more mouths to feed
+Now that's crazy
+
+Just ask him how he did it
+He'll say, "Pull up a seat
+It'll only take a minute
+To tell you everything"
+
+Be a best friend, tell the truth
+And overuse "I love you"
+Go to work, do your best
+Don't outsmart your common sense
+Never let your prayin' knees get lazy
+And love like crazy
+
+They called him crazy when he quit his job
+Said them home computers, boy, they'll never take off
+Well, he sold his one man shop to Microsoft
+And they paid like crazy
+
+Just ask him how he made it
+He'll tell you faith and sweat
+And the heart of a faithful woman
+Who never let him forget
+
+Be a best friend, tell the truth
+And overuse "I love you"
+Go to work, do your best
+Don't outsmart your common sense
+Never let your prayin' knees get lazy
+And love like crazy
+
+Always treat your woman like a lady
+Never get too old to call her baby
+Never let your prayin' knees get lazy
+And love like crazy
+
+They called him crazy when they started out
+They've been together fifty-eight years now
+Ain't that crazy?
+
+
 

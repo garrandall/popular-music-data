@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-mile-a-memory-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/everymileamemory.html
 name: Every Mile A Memory
 rankings:
 - end_date: '2006-09-01'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
 ---
+
+Country Roads, old theater marquee signs
+Parkin' lots, and billboards flyin' by
+Spanish moss, little hick town squares
+Wild roses on a river bank: girl its almost like you're there
+
+Oh, every mile, a memory; every song, another scene
+From some old movie going back in time you and me
+Every day, a page turned down; every night, a lonesome sound
+Like a freight train rollin' through my dreams
+Every mile, a memory
+
+Red sun down, out across the western sky
+Takes me back to the fire in your eyes
+Texas stars in a purple night
+Not seein' 'em with you baby: oh, they never do it right, no
+
+Every mile, a memory; every song, another scene
+From some old movie going back in time you and me
+Every day, a page turned down; every night, a lonesome sound
+Like a freight train rollin' through my dreams
+Every mile, a memory
+
+Funny how no matter where I run
+Round every bend I only see
+Just how far I haven't come
+
+Every mile, a memory; every song, another scene
+From some old movie going back in time you and me
+Every day, a page turned down; every night, a lonesome sound
+Like a freight train rollin' through my dreams
+Every mile, a memory
+Every mile, a memory
+Every mile, a memory
+
+
 

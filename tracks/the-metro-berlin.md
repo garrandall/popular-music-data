@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-metro-berlin
+lyrics_url: https://www.azlyrics.com/lyrics/44/themetro.html
 name: The Metro
 rankings:
 - end_date: '1983-06-03'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
 ---
+
+I'm alone sitting with my empty glass
+My four walls
+follow me through my past
+I was on a Paris train 
+I emerged in London rain
+And you were waiting there 
+swimming through apologies
+
+I remember searching for the perfect words
+I was hoping you might change your mind
+I remember someone sleeping next to me
+Riding on the metro
+
+You wore white smiling as you took my hand
+So removed we spoke of wintertime in France
+Minutes passed with shallow words
+Years have passed and still the hurt
+I can see you now smiling as you pulled away
+
+I remember the letter wrinkled in my hand
+"I'll love you always" filled my eyes
+I remember a night we walked along the Seine
+Riding on the metro
+
+I remember a feeling coming over me
+The soldier turned, then looked away
+I remember hating you for loving me
+Riding on the metro
+
+I'm alone sitting with my broken glass
+My four walls follow me through my past
+I was on a Paris train 
+I emerged in London rain
+And you were waiting there
+swimming through apologies - (sorry)
+
+I remember
+searching for the perfect words
+I was hoping you might
+change your mind
+I remember someone sleeping next to me
+Riding on the metro
+
+
 

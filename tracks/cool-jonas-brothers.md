@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-jonas-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/cool.html
 name: Cool
 rankings:
 - end_date: '2019-04-26'
@@ -75,4 +76,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
 ---
+
+I'm feelin' so cool
+Top to the bottom, just cool
+Every little thing that I do
+Dammit, I'm feelin' so coo-oo-ool, yeah
+
+Woke up feelin' like a new James Dean
+I combed my hair like an old school scene
+I'm feelin' high like a late night summer of last year, yeah
+Standing there with the red dress on ya
+A killer queen like a young Jane Fonda
+Is it me or am I just having a good year?
+
+Lately I've been feelin' so cool (cool)
+Top to the bottom, just cool (cool)
+Every little thing that I do (do)
+Dammit, I'm feelin' so coo-oo-oo-oo-oo-ool
+It's like ooh (ooh)
+Maybe I should bottle my moves (moves)
+Sell 'em for a dollar or two (two)
+Dammit, I'm feelin' so coo-oo-oo-oo-oo-ool (cool)
+
+Must have done something right 'cause all these
+Lights are green, man, they look like palm trees
+And every time that song comes on it's about me
+Oh, I feel like Post Malone when I get home
+Sittin' there, winning like it's Game of Thrones
+And now that we've made it, how complicated was last year?
+
+Lately I've been feelin' so cool (cool)
+Top to the bottom, just cool (cool)
+Every little thing that I do (do)
+Dammit, I'm feelin' so coo-oo-oo-oo-oo-ool
+It's like ooh (ooh)
+Maybe I should bottle my moves (moves)
+Sell 'em for a dollar or two (two)
+'Cause dammit, I'm feelin' so coo-oo-oo-oo-oo-ool (cool)
+
+(Cool)
+(Cool)
+(Cool)
+
+Woke up feelin' like a new James Dean
+I combed my hair like and old school scene
+When I grow up, I wanna be just like me
+
+Lately I've been feelin' so cool (cool)
+Top to the bottom, just cool (cool)
+Every little thing that I do (I do)
+Dammit, I'm feelin' so coo-oo-oo-oo-oo-ool
+It's like ooh (ooh)
+Maybe I should bottle my moves (my moves)
+Sell 'em for a dollar or two (two)
+'Cause dammit, I'm feelin' so coo-oo-oo-oo-oo-ool (cool)
+(Hey, hey, hey, hey)
+Cool
+
+
 

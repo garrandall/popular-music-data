@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-like-a-rock-donnie-iris
+lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/loveislikearock.html
 name: Love Is Like A Rock
 rankings:
 - end_date: '1981-12-25'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
 ---
+
+Love is Like a Rock
+You can't depend on your teacher
+You can't depend on your preacher
+You can't depend on politicians
+You can't depend on superstitions
+
+Love can rock you
+Never stop you
+Ah, ah, ah, ah
+Love is like a rock
+
+You can't rely on Mother Nature
+You can't rely on your paychecks
+You can't depend on your doctor
+You can't depend on your lawyer
+
+Love can rock you
+Never stop you
+Ah, ah, ah, ah
+Love is like a rock
+
+Love can rock you
+Never stop you
+Ah, ah, ah, ah
+Love is like a rock
+
+
 

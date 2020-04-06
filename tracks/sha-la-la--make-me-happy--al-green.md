@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sha-la-la--make-me-happy--al-green
+lyrics_url: https://www.azlyrics.com/lyrics/algreen/shalalamakemehappy413809.html
 name: Sha-La-La (Make Me Happy)
 rankings:
 - end_date: '1974-10-04'
@@ -83,4 +84,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
 ---
+
+Sha la la la-- la la la
+Oh baby
+Sha la la la-- la la la
+Oh baby
+I've been gone so long I know what to do
+Oh baby
+That I know you don't know what I've been going through
+Oh baby
+'Cause you make me happy baby, so I can say
+
+Sha la la la-- la la la
+I love you
+Sha la la la-- la la la
+Thinkin' of you
+I know you can tell what's on my mind
+Oh baby
+And I've been feeling this way for such a long time
+Ya, baby
+Aw, make me happy baby, aw, make me happy, I wanna say
+
+I'm trying, this feeling just won't die
+Oh
+Sha la la la-- la la la
+Make you cry
+It's something that just gets down in your bones
+Baby
+And once I see you I can't leave your love alone
+Ya, heh, baby
+Aw, make me happy baby, aw, make me happy baby, let me sing
+
+Sha la la la-- la la la
+Oh baby
+Sha la la la-- la la la
+Oh baby...
+
+
 

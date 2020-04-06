@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: these-boots-are-made-for-walkin--nancy-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/parquetcourts/thesebootsaremadeforwalkin.html
 name: These Boots Are Made For Walkin'
 rankings:
 - end_date: '1966-01-28'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+
+You keep saying you've got something for me
+Something you call love, but confess
+That you've been messing where you shouldn't have been messing
+And now someone else is getting all your best
+
+Well these boots are made for walkin'
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+
+And you keep lying when you ought to be be truthing
+And you keep losing when you ought to not bet
+Yeah and you keep same-ing when you ought to be changing
+Now what's right is right, but ain't been right yet
+
+Well these boots are made for walkin'
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+
+And you keep playing where you shouldn't be playing
+And you keep thinking that you could never get burned
+Yeah well I just found me a brand new box of matches
+And what do you know, you ain't got time to learn
+
+Well these boots are made for walkin'
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+
+Are you ready, boots?
+Start walking
+
+
 

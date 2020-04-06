@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: buddy-musiq-soulchild
+lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/buddy.html
 name: Buddy
 rankings:
 - end_date: '2007-02-16'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
 ---
+
+
+Pardon darling ..if I alarmed you
+I don't mean to bother you I just wanna
+Get you to pause and slow your walk so
+Maybe we can talk and I can try to charm you
+Just tryna find out who you are
+I don't mean to come off like a telemarketer
+I ain't no hood no crook no robber I
+I just wanna part of your heart I can borrow
+
+
+(sometimes) and maybe I could call you up (sometimes)
+And maybe I can take you out (sometimes)
+So let's exchange digits and later arrange visits
+Either your place or mine (yeah)
+This a different type of commitment (yeah)
+I'm talking 'bout a true friendship (yeah)
+Someone I can depend on
+To be down no matter what
+Let me know if you with it 'cause girl
+
+
+It would be fly if you were b-u-d-d-y
+Don't be shy, give it a try I could be yours and you could be mine
+I can't lie it would be fly if you were my b-u-d-d-y
+Don't be shy give it a try I could be yours if you could be mine
+
+Sorry if I come off disrespectful
+But my convo is a little bit 2 sexual
+But damn it's incredible be a more flexible
+'cause the context some text is a lil special
+But, but, wait, wait, let me explain a buddy is a equal beneficial arrangement
+A buddy is a buddy that don't be complaining
+With his or her buddy buddy ain't the buddy the came with
+
+
+
+
+
+
+Ooh ooh oh baby what I'm really tryna say is (that)
+The definition of a real buddy is... (that)
+She's that one that you can have fun
+And ride shotgun through the city with me
+Together there's no limit to what we can do
+And once we in it girl it's all about me and you
+So baby what you say don't pass this by
+'cause if you decide....
+
+
+
+
 

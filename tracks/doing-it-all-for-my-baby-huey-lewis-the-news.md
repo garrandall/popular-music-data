@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: doing-it-all-for-my-baby-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/doingitallformybaby.html
 name: Doing It All For My Baby
 rankings:
 - end_date: '1987-07-24'
@@ -72,4 +73,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
 ---
+
+Early in the morning, I'm still in bed 
+She comes to me with sweet affection 
+Wakes me with kisses, "Hello sleepyhead." 
+Gets me moving in the right direction 
+I do my best to give her love that lasts forever 
+It seems like everything I do I'm doing better
+
+Doing it all for my baby 
+Because she's as fine as she can be 
+Doing it all for my baby 
+For everything she does for me
+
+Later in the evening, it's been a busy day 
+She lays her head upon my weary shoulder 
+Listen to her laughing, snuggle up and say 
+Now I'm with you baby, the loneliness is over 
+I do my best to give her love that lasts forever 
+It seems like everything I do I'm doing better
+
+Doing it all for my baby 
+Because she's as fine as she can be 
+Doing it all for my baby 
+For everything she does for me
+
+
 

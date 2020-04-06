@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-wings-mr--mister
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/brokenwings.html
 name: Broken Wings
 rankings:
 - end_date: '1985-09-27'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
 ---
+
+Baby don't understand
+Why we can't just hold on
+To each other's hands
+
+This time might be the last
+I fear unless I make it all too clear
+I need you so
+
+Take these broken wings
+And learn to fly again
+And learn to live so free
+And when we hear the voices sing
+The book of love will open up
+And let us in
+Take these broken wings
+
+Baby I think tonight
+We can take what was wrong
+To make it right
+
+Baby it's all I know
+That you're half of the flesh
+And blood makes me whole
+Need you so
+
+Take these broken wings
+And learn to fly again
+And learn to live so free
+And when we hear the voices sing
+The book of love will open up
+And let us in
+Take these broken wings
+You got to learn to fly
+And learn to live so free
+And when we hear the voices sing
+
+Let us in
+Let us in
+
+Baby it's all I know
+That you're half of the flesh
+And blood makes me whole
+Yeah, yeah, yeah
+Yeah, yeah so
+
+Take these broken wings
+And learn to fly again
+And learn to live so free
+And when we hear the voices sing
+The book of love will open up
+And let us in
+Take these broken wings
+You got to learn to fly
+And learn to live so free
+And when we hear the voices sing
+The book of love will open up
+And let us in
+
+
 

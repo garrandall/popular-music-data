@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-suede-shoes-johnny-rivers
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/bluesuedeshoes.html
 name: Blue Suede Shoes
 rankings:
 - end_date: '1973-03-23'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
 ---
+
+Well, it's one for the money, two for the show
+Three to get ready, now go, cat, go
+But don't you step on my blue suede shoes
+You can do anything, but lay off of my blue suede shoes
+
+You can knock me down, step on my face
+Slander my name all over the place
+Do anything that you wanna do
+But uh uh, honey, lay off of my shoes
+You can do anything, but lay off of my blue suede shoes
+
+You can burn my house, you can steal my car
+Drink my liquor from an old fruit jar
+Do anything that you wanna do
+But uh uh, honey, lay off of my shoes
+But don't you step on my blue suede shoes
+Well, you can do anything, but lay off of my blue suede shoes
+
+Well, it's one for the money, two for the show
+Three to get ready, now go, cat, go
+But don't you step on my blue suede shoes
+You can do anything, but lay off of my blue suede shoes
+
+Well, it's blue, blue, blue suede shoes
+Blue, blue, blue suede shoes, yeah
+Well, blue, blue, blue suede shoes
+Blue, blue, blue suede shoes
+Well, you can do anything, but lay off of my blue suede shoes
+
+
 

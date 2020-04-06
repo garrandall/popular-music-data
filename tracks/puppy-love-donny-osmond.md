@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: puppy-love-donny-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/puppylove.html
 name: Puppy Love
 rankings:
 - end_date: '1972-03-03'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
+
+And they called it puppy love
+Oh I guess they'll never know
+How a young heart really feels
+And why I love her so
+
+And they called it puppy love
+Just because we're in our teens
+Tell them all, please tell them it isn't fair
+To take away my only dream
+
+I cry each night my tears for you
+My tears are all in vain
+I hope and I pray that maybe someday
+You'll be back (you'll be back) in my arms (in my arms)
+Once again (you'll be back in my arms once again)
+
+Someone help me, help me, help me please
+Is the answer up above?
+How can I, oh how can I tell them
+This is not a puppy love
+
+Someone help me, help me, help me please
+Is the answer up above?
+How can I, oh how can I tell them
+This is not a puppy love
+
+(This is not a puppy love)
+(This is not a puppy love)
+Not a puppy love
+(This is not a puppy love)
+(This is not a puppy love)
+
+
 

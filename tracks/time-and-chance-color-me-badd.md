@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-and-chance-color-me-badd
+lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/timeandchance.html
 name: Time And Chance
 rankings:
 - end_date: '1993-11-05'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
 ---
+
+
+Don't it hurt so bad... (Time...
+And it hurt so bad... Chance...)
+Tryin' to find the faith before the fall
+Good man's down, while a bad man's standin tall
+Strongest one don't always win them all
+Going crazy, going crazy
+Time and Chance
+
+
+
+(Oh chance and time)
+The way they do my life is going round
+Never straight up, sideways, upside down
+Brothers livin' six feet underground
+Oh got me crazy, I'm so crazy
+Ohh... Time and Chance
+
+
+
+So bad... so, so bad
+A poor man lives in happiness
+A millionaire evil as he wanna be
+A good man going hungry...
+'Cause of Time and Chance
+
+
+
+(Don't it hurt)
+I'm tryin to find the faith before the fall
+A good man's down, while a bad man's standing tall
+A strong man don't always, win 'em all
+I'm going crazy, crazy, crazy, baby!
+Don't it hurt so bad? (Oh it really hurt so bad)
+And it hurt so bad, (Tell me can you feel the pain?)
+Don't it hurt so bad (Time and Chance)
+And it hurt so bad (So bad, so, so, bad)
+(It really hurt so bad, no one can stand the pain, Now is all about Time and Chance)
+Time and Chance... Don't it hurt so bad
+So bad, so bad
+Don't hurt so bad
+And it hurt so bad...
+
+
 

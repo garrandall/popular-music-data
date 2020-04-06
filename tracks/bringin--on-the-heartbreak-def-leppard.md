@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bringin--on-the-heartbreak-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/mattnathanson/bringinontheheartbreak.html
 name: Bringin' On The Heartbreak
 rankings:
 - end_date: '1984-06-15'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
+
+Gypsy, sittin' lookin' pretty
+The broken rose with laughin' eyes
+You're a mystery, always runnin' wild
+Like a child without a home
+You're always searching, searching for a feeling
+But it's easy come and easy go
+
+Oh, I'm sorry but it's true
+You're bringin' on the heartbreak
+Takin' all the best of me
+Oh can't you see?
+You got the best of me
+Whoa can't you see?
+
+You're bringin' on the heartbreak
+Bringin' on the heartache
+You're bringin' on the heartbreak
+Bringin' on the heartache
+Can't you see? Oh
+
+You're such a secret, misty eyed and shady
+Lady how you hold the key
+Oh you're like a candle, your flame slowly fadin'
+Burnin' out and burnin' me
+
+Can't you see?
+I'm tryna say to you
+
+You're bringin' on the heartache
+Takin' all the best of me
+Oh can't you see?
+You got the best of me
+Whoah can't you see?
+
+You're bringin' on the heartbreak
+Bringin' on the heartache
+You're bringin' on the heartbreak
+Bringin' on the heartache
+
+Can't you see?
+Can't you see?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nail-it-to-the-wall-stacy-lattisaw
+lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/nailittothewall.html
 name: Nail It To The Wall
 rankings:
 - end_date: '1986-10-24'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
 ---
+
+Don't even think about tomorrow
+Just keep tonight on your mind
+Gonna rip it up, boy
+One piece at a time
+
+My machine is on automatic
+Just pull the plug if it gets too much
+Out of control
+This love's so strong it's dangerous
+
+When I'm with you
+I can't wait to turn it loose
+
+Nail it to the wall
+If you want an education
+Come on, nail it to the wall
+It's the perfect situation, come on
+
+There's no secrets under the cover
+It's just a place where lovers lie
+Gonna open up, boy
+And let you look inside
+
+Don't be afraid to do some damage
+I can see you're curious
+Let's take tonight
+And turn it into something serious, oh
+
+Right here with you
+I can't wait to turn it loose
+
+Nail it to the wall
+If you want an education
+Come on, nail it to the wall
+It's the perfect situation, come on
+
+Nail it to the wall
+If you want an education
+Come on, nail it to the wall
+It's the perfect situation, come on
+
+Nail it, nail it to the wall
+So, if you want an education
+Nail it to the wall
+
+Nail it to the wall
+If you want an education
+Come on, nail it to the wall
+It's the perfect situation, come on
+
+
 

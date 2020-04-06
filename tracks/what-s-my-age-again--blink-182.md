@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-my-age-again--blink-182
+lyrics_url: https://www.azlyrics.com/lyrics/blink182/whatsmyageagain.html
 name: What's My Age Again?
 rankings:
 - end_date: '1999-07-23'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
 ---
+
+I took her out. It was a Friday night
+I wore cologne to get the feeling right
+We started making out, and she took off my pants
+But then I turned on the TV
+
+And that's about the time she walked away from me
+Nobody likes you when you're 23
+And are still more amused by TV shows
+What the hell is ADD?
+
+My friends say I should act my age
+What's my age again?
+What's my age again?
+
+Then later on, on the drive home
+I called her mom from a pay phone
+I said I was the cops, and your husband's in jail
+This state looks down on sodomy
+
+And that's about the time that bitch hung up on me
+Nobody likes you when you're 23
+And are still more amused by prank phone calls
+What the hell is Call ID?
+
+My friends say I should act my age
+What's my age again?
+What's my age again?
+
+And that's about the time she walked away from me
+Nobody likes you when you're 23
+And you still act like you're in freshman year
+What the hell is wrong with me?
+
+My friends say I should act my age
+What's my age again?
+What's my age again?
+
+That's about the time that she broke up with me
+No one should take themselves so seriously
+With many years ahead to fall in line
+Why would you wish that on me?
+I never wanna act my age
+What's my age again?
+What's my age again?
+
+What's my age again?
+
+
 

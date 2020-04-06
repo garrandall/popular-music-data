@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-in-love-10cc
+lyrics_url: https://www.azlyrics.com/lyrics/10cc/peopleinlove.html
 name: People In Love
 rankings:
 - end_date: '1977-05-27'
@@ -35,4 +36,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
 ---
+
+People in love do funny things
+Walk under buses and burn their wings
+People like us do nothing right
+Talk to the ceiling into the night 
+
+Look at the smile in her eyes
+I knew I was right in my bones
+I feel the turnin' of wheels as it grows
+Look at my face in her eyes
+Am I right, am I wrong
+She's given me butterflies all along 
+
+Ooh sitting alone in the dark
+Ooh feeling you close to me
+We're in a dream
+But the hands on the clock seem to know
+Tell me it's time to go 
+
+People in love play silly games
+Running in circles and everywhere
+People like us can make believe
+Love is forever and I'll never be 
+
+Ooh sitting alone in the dark
+Ooh feeling you close to me
+We're in a dream
+But the hands on the clock seem to know
+Tell us it's time to go
+
+
 

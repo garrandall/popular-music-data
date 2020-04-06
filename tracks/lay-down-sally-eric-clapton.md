@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lay-down-sally-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/laydownsally.html
 name: Lay Down Sally
 rankings:
 - end_date: '1978-01-13'
@@ -99,4 +100,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+
+There is nothing that is wrong
+In wanting you to stay here with me.
+I know you've got somewhere to go,
+But won't you make yourself at home and stay with me?
+And don't you ever leave.
+
+Lay down, Sally, and rest you in my arms.
+Don't you think you want someone to talk to?
+Lay down, Sally, no need to leave so soon.
+I've been trying all night long just to talk to you.
+
+The sun ain't nearly on the rise
+And we still got the moon and stars above.
+Underneath the velvet skies,
+Love is all that matters. Won't you stay with me?
+And don't you ever leave.
+
+Lay down, Sally, and rest you in my arms.
+Don't you think you want someone to talk to?
+Lay down, Sally, no need to leave so soon.
+I've been trying all night long just to talk to you.
+
+I long to see the morning light
+Coloring your face so dreamily.
+So don't you go and say goodbye,
+You can lay your worries down and stay with me.
+And don't you ever leave.
+
+Lay down, Sally, and rest you in my arms.
+Don't you think you want someone to talk to?
+Lay down, Sally, no need to leave so soon.
+I've been trying all night long just to talk to you.
+
+Lay down, Sally, and rest you in my arms.
+Don't you think you want someone to talk to?
+Lay down, Sally, no need to leave so soon.
+I've been trying all night long just to talk to you.
+
+
 

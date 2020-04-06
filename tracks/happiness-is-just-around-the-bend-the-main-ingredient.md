@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happiness-is-just-around-the-bend-the-main-ingredient
+lyrics_url: https://www.azlyrics.com/lyrics/mainingredient/happinessisjustaroundthebend.html
 name: Happiness Is Just Around The Bend
 rankings:
 - end_date: '1974-07-05'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
 ---
+
+Say girl, you look a little restless
+Well you ought to come with me 'cause I'm going where the fun is
+Come on, don't get lazy now, just a little bit up the road, just around the bend
+
+There's something going round inside my head
+I think it's something I need, something unreal
+And so I see my world is upside down
+But there is nothing to fear
+My vision is clear
+All my roads lead nowhere
+What lies at the end
+Reach your destination
+'Cause what you find is your love bird
+It's your birth started again
+
+So get up
+Get it on
+Try it again
+Try it again, girl
+Get up
+Happiness is just round the bend... yeah
+
+Why don't you get up?
+Get it on...
+
+
 

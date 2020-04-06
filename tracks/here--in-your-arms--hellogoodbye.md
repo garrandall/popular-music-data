@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here--in-your-arms--hellogoodbye
+lyrics_url: https://www.azlyrics.com/lyrics/hellogoodbye/hereinyourarms.html
 name: Here (In Your Arms)
 rankings:
 - end_date: '2006-11-24'
@@ -91,4 +92,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
 ---
+
+I like where we are
+When we drive in your car
+I like where we are here
+
+Cause our lips can touch
+And our cheeks can brush
+Our lips can touch here
+
+Well, you are the one, the one that lies close to me
+Whispers, "Hello. I've missed you quite terribly."
+I fell in love, in love with you suddenly
+Now there's no place else I could be but here in your arms
+
+I like where you sleep
+When you sleep next to me
+I like where you sleep here
+
+Our lips can touch
+And our cheeks can brush
+'Cause our lips can touch here
+
+Well, you are the one, the one that lies close to me
+Whispers, "Hello. I've missed you quite terribly."
+I fell in love, in love with you suddenly
+Now there's no place else I could be but here in your arms
+
+Our lips can touch
+Our lips can touch here
+
+You are the one the one that lies close to me
+Whispers, "Hello. I've missed you quite terribly."
+I fell in love, in love with you suddenly
+Now there's no place else I could be but here in your arms
+
+Well, you are the one the one that lies close to me
+Whispers, "Hello. I miss you, I miss you."
+I fell in love, in love with you suddenly
+Now there's no place else I could be but here in your arms
+
+Here in your arms
+Here in your arms
+
+
 

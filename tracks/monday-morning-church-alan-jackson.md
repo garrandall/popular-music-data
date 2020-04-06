@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: monday-morning-church-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/mondaymorningchurch.html
 name: Monday Morning Church
 rankings:
 - end_date: '2004-12-10'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
 ---
+
+You left your Bible on the dresser
+So I put it in the drawer
+'Cause I can't seem to talk to God without yelling anymore
+And when I sit at your piano
+I can almost hear those hymns
+The keys are just collecting dust
+But I can't close the lid
+
+You left my heart as empty
+As a Monday morning church
+It used to be so full of faith and now it only hurts
+And I can hear the devil whisper
+"Things are only getting worse"
+You left my heart as empty
+As a Monday morning church
+
+The preacher came by Sunday
+Said he missed me at the service
+He told me Jesus loves me
+But I'm not sure I deserve it
+'Cause the faithful man that you loved
+Is nowhere to be found
+Since they took all that he believed
+And laid it in the ground
+
+
+
+I still believe in Heaven
+And I'm sure you've made it there
+But as for me without your love, girl
+I don't have a prayer
+
+
+
+You left your Bible on the dresser
+So I put it in the drawer
+
+
 

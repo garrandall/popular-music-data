@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flavor-of-the-weak-american-hi-fi
+lyrics_url: https://www.azlyrics.com/lyrics/americanhifi/flavoroftheweak.html
 name: Flavor Of The Weak
 rankings:
 - end_date: '2001-06-29'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
 ---
+
+She paints her nails and she don't know
+He's got her best friend on the phone
+She'll wash her hair
+His dirty clothes are all he gives to her
+And he's got posters on the wall
+Of all the girls he wished she was
+And he means everything to her
+
+
+Her boyfriend, he don't know
+Anything about her
+He's too stoned, Nintendo
+I wish that I could make her see
+She's just the flavor of the weak
+
+It's Friday night and she's all alone
+He's a million a miles away
+She's dressed to kill
+The TV's on
+He's connected to the sound
+And he's got pictures on the wall
+Of all the girls he's loved before
+And she knows all his favorite songs
+
+
+
+Yeah!
+
+Her boyfriend, he don't know
+Anything about her
+He's too stoned, he's too stoned
+He's too stoned, he's too stoned
+
+
+
+Yeah she's the flavor of the weak
+She makes me weak
+
+
 

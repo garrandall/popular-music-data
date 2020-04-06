@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-when-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/rememberwhen.html
 name: Remember When
 rankings:
 - end_date: '2003-12-19'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
 ---
+
+Remember when
+I was young and so were you
+And time stood still and love was all we knew
+You were the first, so was I
+We made love and then you cried
+Remember when
+
+Remember when
+We vowed the vows and walked the walk
+Gave our hearts, made the start, and it was hard
+We lived and learned life threw curves
+There was joy, there was hurt
+Remember when
+
+Remember when
+Old ones died and new were born
+And life was changed, disassembled, rearranged
+We came together, fell apart
+And broke each other's hearts
+Remember when
+
+Remember when
+The sound of little feet was the music
+We danced to week to week
+Brought back the love, we found trust
+Vowed we'd never give it up
+Remember when
+
+Remember when
+Thirty seemed so old now lookin' back
+It's just a steppin' stone
+To where we are, where we've been
+Said we'd do it all again
+Remember when
+
+Remember when
+We said when we turned gray
+When the children grow up and move away
+We won't be sad, we'll be glad
+For all the life we've had
+And we'll remember when
+
+Remember when
+Remember when
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: opportunities--let-s-make-lots-of-money--pet-shop-boys
+lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/opportunitiesletsmakelotsofmoney.html
 name: Opportunities (Let's Make Lots Of Money)
 rankings:
 - end_date: '1986-06-06'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
+
+I've got the brains, you've got the looks
+Let's make lots of money
+You've got the brawn, I've got the brains
+Let's make lots of -
+
+I've had enough of scheming and messing around with jerks
+My car is parked outside, I'm afraid it doesn't work
+I'm looking for a partner, someone who gets things fixed
+Ask yourself this question: Do you want to be rich?
+
+I've got the brains, you've got the looks
+Let's make lots of money
+You've got the brawn, I've got the brains
+Let's make lots of money
+
+You can tell I'm educated, I studied at the Sorbonne
+Doctored in mathematics, I could have been a don
+I can program a computer, choose the perfect time
+If you've got the inclination, I have got the crime
+
+Oh, there's a lot of opportunities
+If you know when to take them, you know?
+There's a lot of opportunities
+If there aren't, you can make them
+Make or break them
+
+I've got the brains, you've got the looks
+Let's make lots of money
+Let's make lots of -
+(Aahhhhh) Money
+(Aahhhhh)
+(Aahhhhh - Di du da di da bu di ba)
+
+You can see I'm single-minded, I know what I could be
+How'd you feel about it, come and take a walk with me?
+I'm looking for a partner, regardless of expense
+Think about it seriously, you know, it makes sense
+
+Let's (Got the brains)
+Make (Got the looks)
+Let's make lots of money (Oohh money)
+(Let's) You've got the brawn
+(Make) I've got the brains
+Let's make lots of money (Oohh money)
+
+I've got the brains (Got the brains)
+You've got the looks (Got the looks)
+Let's make lots of money (Oohh money)
+Money
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: all-i-ever-need-is-you-sonny-cher
+lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/allieverneedisyou.html
 name: All I Ever Need Is You
 rankings:
 - end_date: '1971-10-22'
@@ -68,4 +69,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+
+Sometimes when I'm down and all alone
+Just like a child without a home
+The love you give me keeps me hangin' on
+Awww honey all I ever need is you
+
+You're my first love, you're my last
+You're my future, you're my past
+And loving you is all I ask
+Awww honey all I ever need is you
+
+Winters come and they go
+And we watch the melting snow
+But sure as summer follows spring
+All the things you do give me
+A reason to built my world around you
+
+Some men follow rainbows I am told
+Some men search for silver, some for gold
+But I have found my treasure
+In your soul, honey
+All I ever need is you
+
+Without our love, I'd never find the way
+Through ups and downs of every single day
+I won't sleep at night until you say, my honey
+All I ever need is you
+
+
 

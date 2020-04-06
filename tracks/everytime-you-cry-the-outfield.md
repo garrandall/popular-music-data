@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everytime-you-cry-the-outfield
+lyrics_url: https://www.azlyrics.com/lyrics/outfield/everytimeyoucry.html
 name: Everytime You Cry
 rankings:
 - end_date: '1986-09-26'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+
+I'm not the one to tell you what clothes to wear 
+I'm not the one who talks about your hair 
+I'm not the one to show you how I feel inside 
+I'm not the one to say how much I care 
+
+
+Everytime you cry I cry just a little bit 
+-cry just a little bit 
+When you say goodbye, I die just a little bit 
+-cry just a little bit more 
+
+I know it's late, I guess I should have called today 
+I know you're tired of waiting by the phone 
+I know you said-you just don't know how long you'll wait 
+I know that you can live your life alone 
+
+
+
+In a world where there's no one to turn to
+In a world where you think there's no one but you
+
+But everytime you need someone to dry your eyes 
+You call my name and know that I'll be there 
+
+
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: aquarius-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/aquariusletthesunshinein.html
 name: Aquarius
 rankings:
 - end_date: '1969-03-14'
@@ -75,4 +76,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
 ---
+
+When the moon is in the Seventh House
+And Jupiter aligns with Mars
+Then peace will guide the planets
+And love will steer the stars
+
+This is the dawning of the age of Aquarius
+Age of Aquarius
+Aquarius
+Aquarius
+
+Harmony and understanding
+Sympathy and trust abounding
+No more falsehoods or derisions
+Golden living dreams of visions
+Mystic crystal revelation
+And the mind's true liberation
+Aquarius
+Aquarius
+
+When the moon (when the moon) is in the Seventh House
+And Jupiter (Jupiter) aligns with Mars
+Then peace will guide the planets
+And love will steer the stars
+
+This is the dawning of the age of Aquarius
+Age of Aquarius
+Aquarius
+Aquarius
+Aquarius
+Aquarius
+
+Let the sunshine
+Let the sunshine in
+The sunshine in
+
+Let the sunshine
+Let the sunshine in
+The sunshine in
+
+Let the sunshine (oh let it shine)
+Let the sunshine in (come on)
+The sunshine in (now, everybody, just sing along)
+
+Let the sunshine (let the sun shine on in)
+Let the sunshine in (open up your heart)
+The sunshine in (and let it shine on in)
+
+(And when you are lonely) Let the sunshine
+(Hey, let it shine) Let the sunshine in
+(You got to open up your heart) The sunshine in
+(And let it shine on in)
+
+(And when you feel like you've been mistreated) Let the sunshine
+(And your friends turn their back on you) Let the sunshine in
+(Just open up your heart) The sunshine in
+(And let it shine on in)
+
+(You've got to feel it) Let the sunshine
+(You've got to feel it) Let the sunshine in
+(Ah, open up your heart) The sunshine in
+(And let it shine on in)
+
+(Now let me tell you one thing) Let the sunshine
+(I want you to sing along with the 5th Dimension) Let the sunshine in
+(Hey, and open up your heart) The sunshine in
+(Ah, come on)
+
+Let the sunshine (and let it shine)
+Let the sunshine in (every day)
+The sunshine in
+
+(Hey, you've got to feel it) Let the sunshine
+(You've got to feel it) Let the sunshine in
+(When you open up your heart) The sunshine in
+(You got to let the sun come on in)
+
+(Now I see it in the morning) Let the sunshine
+(And the rain in the evening) Let the sunshine in
+(Open up your heart) The sunshine in
+
+(Hey, when you're feeling low) Let the sunshine in
+
+
 

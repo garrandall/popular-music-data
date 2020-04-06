@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-in-control--finger-on-the-trigger--donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/loveisincontrol.html
 name: Love Is In Control (Finger On The Trigger)
 rankings:
 - end_date: '1982-07-02'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
 ---
+
+Hung around with big shots
+Never knew love was in the sights
+I guess I missed the target
+Caught up in a different line of fire
+But I know since I've been aiming
+For the sweetness in your soul
+Your name is on the bullet
+And it's gettin' ready to explode
+There's be a change inside my life
+(And just wanna let you know)
+
+I've got my finger on the trigger
+Love is in control, whooo
+I've got my finger on the trigger
+Ah, yeah
+I ain't lettin' go
+
+Mama used to tell me
+Girl, you better load your gun up right
+She said ya, ya gotta come out smokin'
+Hit it with your best shot every time
+Well I didn't understand her
+'Til you walked right into range
+I saw your love at twenty paces
+And I knew I'd won the game
+You better raise your heart up high
+(Or love will blow you right away)
+
+I've got my finger on the trigger
+Love is in control, whooo
+I've got my finger on the trigger
+I ain't lettin' go, whoooo
+I've got my finger on the trigger
+Love is in control
+I've got my finger on the trigger
+I ain't lettin' go
+
+Leave off the safety catch
+There ain't no risk
+We're gonna have some fun, whoooo
+I've got cha, love's begun
+So stay with me
+Until the mornin' sun, whooo
+(You're superbullet number one)
+
+
+
+There's been a change inside my life
+(And I just wanna let you know)
+
+I've got my finger on the trigger
+Love is in control
+I've got my finger on the trigger
+I ain't lettin' go
+I've got my finger on the trigger
+Love is in control
+I've got my finger on the trigger
+I ain't lettin' go...
+
+
 

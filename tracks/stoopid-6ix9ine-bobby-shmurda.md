@@ -5,6 +5,7 @@ features:
 - Bobby Shmurda
 genres: []
 key: stoopid-6ix9ine-bobby-shmurda
+lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/stoopid.html
 name: STOOPID
 rankings:
 - end_date: '2018-10-26'
@@ -44,4 +45,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
 ---
+
+
+Y'all already know it be the boy Yung Gordon
+You rockin' with Take Money promotion
+Ay Take Money Promotion
+Give 'em that new shit, no fool shit
+Oh yeah, let's go
+DJ Lethal, Lethal
+(Rough Rider)
+Tay Keith
+TMP 954, we live
+Take Money Promotion
+Tay Keith, fuck these niggas up
+
+
+Bitch, I'm silly
+Up the chopper, shoot your shit up, let's get busy
+Drinkin' Henny, goin' brazy, poppin' pillies
+Sex Money Murda, shoutout all my blazing Billies (on Billy)
+We in yo' city! (we in yo'!)
+
+
+Shoutout my apes in the fuckin' roof (for real), for mayo they gon' shoot
+Spin a hoop, who the fuck is you?
+Who the fuck you know, nigga? No, nigga
+Niggas killed your cousin, you gon' smoke, nigga? (stupid!)
+Glo nigga, rollin' up your cousin in a blunt, nigga
+Bozo, bitch, are you dumb-d-dumb-dumb-dumb-d-dumb-dumb-dumb? (stupid!)
+Bitch, I'm Nick Cannon with this drum-drum-drum-drum (brra-pom-pom)
+Pull up with semis, no lil' pump-pump-pump-pumps (no esskeetit)
+We goin' dumb-d-dumb-dumb-dumb-d-dumb-dumb-dumb
+Bitch I'm stupid, bitch I'm out, I be tweakin', I be wildin', I be booted! (bitch I'm drunk)
+I be stealin', I be robbin', I be lootin'! (you don't wanna die)
+Your boyfriend dumb, he get no money, bitch, he stupid!
+Oh, bitch, he, oh, bitch, he stupid!
+Damn, homie, in high school you was the man, homie (2012!)
+What the fuck happened to you (stoopid!)? I'm just sayin', homie
+Now you smokin' Black & Milds, smokin' reds, homie
+... ah ah ah what's up Shmurda on the motherfuckin' set nigga 6ix9ine what's poppin cuz
+Tell him shut up, suck a dick
+Tell him fuck him, I'm the shit
+Bitch I'm just recording this
+I'm getting money, I'm the shit
+Shoutout my Bloods, shoutout my Crips
+That nigga Ebro, he a bitch
+Just another old nigga on a young nigga dick
+Bitch I'm lit on the Gram, a million likes, you see my shit
+The bitch DM for the dick
+But I probably wouldn't hit
+VVS, Cuban hit
+Shoutout Jimmy for the drip
+Your baby daddy's mixtape wasn't shit, he a bitch
+Free Bobby, Free Rowdy, free Cueno, free the 9
+Shoutout Jay Dee, shoutout Kooda, Dee Savv, those my guys
+FOA they gon' ride
+GS9 they gon' slide
+When I woo woo back, ahh ahh, those my guys
+
+
+She give me neck until I burst out
+Jesus Piece, we cursed out
+And all these suckers with they fucking feelings always got these bitches with they purse out
+We on the flag, put the bird out
+Like Young Bricks put the word out
+You know you like a nigga shmoney dance
+You gon' love a nigga when I swerve out
+
+
+Bitch, I'm silly
+Up the chopper, shoot your shit up, let's get busy
+Drinkin' Henny, goin' brazy, poppin' pillies
+Sex Money Murda, shoutout all my blazing Billies (on Billy)
+We in yo' city!
+
+
+Hold up, hold up, hold up gang
+Run that shit back up
+
+
 

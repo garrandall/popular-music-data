@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cruel-to-be-kind-nick-lowe
+lyrics_url: https://www.azlyrics.com/lyrics/lisamitchell/crueltobekind.html
 name: Cruel To Be Kind
 rankings:
 - end_date: '1979-08-03'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
 ---
+
+Oh, I can't take another heartache
+Though you say you're my friend
+I'm at my wits' end
+You say your love is bonafide
+But that don't coincide
+With the things that you do
+And when I ask you to be nice, you say
+
+You've gotta be cruel to be kind in the right measure
+Cruel to be kind, it's a very good sign
+Cruel to be kind means that I love you, baby
+(You've gotta be cruel)
+You've gotta be cruel to be kind
+
+Well, I did my best to understand you
+But you still mystify
+And I wanna know why
+I pick myself up off the ground
+To have you knock me back down
+Again and again
+And when I ask you to explain, you say
+
+You've gotta be cruel to be kind in the right measure
+Cruel to be kind, it's a very good sign
+Cruel to be kind means that I love you, baby
+You've gotta be cruel to be kind
+
+Well, I did my best to understand you
+But you still mystify
+And I wanna know why
+I pick myself up off the ground
+To have you knock me back down
+Again and again
+But when I ask you to explain, you say
+
+You've gotta be cruel to be kind in the right measure
+Cruel to be kind, it's a very good sign
+Cruel to be kind means that I love you, baby
+You've gotta be cruel to be kind
+Oh, you've gotta be cruel to be kind
+Baby, you've gotta be cruel to be kind
+You've gotta be cruel to be kind
+You've gotta be cruel to be kind...
+
+
 

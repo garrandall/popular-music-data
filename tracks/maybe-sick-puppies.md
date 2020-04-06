@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: maybe-sick-puppies
+lyrics_url: https://www.azlyrics.com/lyrics/sickpuppies/maybe.html
 name: Maybe
 rankings:
 - end_date: '2010-12-17'
@@ -67,4 +68,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
 ---
+
+Maybe I'm a dreamer
+Maybe I'm misunderstood
+Maybe you're not seeing the side of me you should
+Maybe I'm crazy
+(Maybe I'm crazy)
+Maybe I'm the only one
+(Maybe I'm the only one)
+Maybe I'm just out of touch
+Maybe I've just had enough
+
+Maybe it's time to change
+And leave it all behind
+I've never been one to walk alone
+I've always been scared to try
+So why does it feel so wrong
+To reach for something more
+To wanna live a better life
+What am I waiting for?
+'Cause nothing stays the same
+Maybe it's time to change
+
+Maybe it's hopeless
+(Maybe it's hopeless)
+Maybe I should just give up
+(Maybe I should just give up)
+What if I can't trust myself?
+What if I just need some help?
+
+Maybe it's time to change
+And leave it all behind
+I've never been one to walk alone
+I've always been scared to try
+So why does it feel so wrong
+To reach for something more
+To wanna live a better life
+What am I waiting for?
+'Cause nothing stays the same
+Maybe it's time to change
+
+And maybe it's time to change
+And leave it all behind
+I've never been one to walk alone
+I've always been scared to try
+
+And maybe it's time to change
+And leave it all behind
+I've never been one to walk alone
+I've always been scared to try
+So why does it feel so wrong
+To reach for something more
+To wanna live a better life
+What am I waiting for?
+'Cause nothing stays the same
+Maybe it's time to change
+'Cause nothing stays the same
+Maybe it's time to change
+
+
 

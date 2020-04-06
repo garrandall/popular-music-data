@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-can-t-wait-the-j--geils-band
+lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/justcantwait.html
 name: Just Can't Wait
 rankings:
 - end_date: '1980-07-18'
@@ -27,4 +28,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
 ---
+
+Your daddy's tellin' you
+I just ain't no good
+And everything I try to do
+Is just misunderstood
+
+But I don't care if your daddy says it's wrong
+I just can't stand to be away from you too long
+
+I just can't wait
+I just can't wait
+I just can't wait
+I just can't wait
+
+The clock open my wall
+It must be runnin' slow
+Tonight when you're here next to me
+I'll never let you go
+
+I wish the day would hurry up and set us free
+Because tonight with you is where I want to be
+
+I just can't wait
+I just can't wait
+I just can't wait
+I just can't wait
+
+Ooooh, girl
+Holdin' me so tight
+Ooooh, girl
+I can't wait 'til tonight
+
+But I don't care if your daddy says it's wrong
+I just cant stand to be away from you to long
+
+I just can't wait
+I just can't wait
+I just can't wait
+I just can't wait
+
+I just can't wait
+I just can't wait
+I just can't wait
+I just can't wait
+
+I just can't wait, no, no, my baby
+I just can't wait, no, no, no
+I just can't wait, no, no, my baby
+I just can't wait, no, no, no
+
+
 

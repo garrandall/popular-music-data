@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-us-if-you-can-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/catchusifyoucan.html
 name: Catch Us If You Can
 rankings:
 - end_date: '1965-08-27'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
 ---
+
+Here they come again,
+Catch us if you can,
+Time to get a move on,
+We will yell with all of our might
+
+Catch us if you can
+Catch us if you can
+Catch us if you can
+Catch us if you can
+
+Now we gotta run,
+No more time for fun,
+When we're getting angry,
+We will yell with all of our might
+
+Catch us if you can
+Catch us if you can
+Catch us if you can
+Catch us if you can
+Yeah
+
+Here they come again,
+Catch us if you can,
+Time to get a move on,
+We will yell with all of our might
+
+Catch us if you can
+Catch us if you can
+Catch us if you can
+Catch us if you can
+
+
 

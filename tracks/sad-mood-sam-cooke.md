@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad-mood-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/sadmood.html
 name: Sad Mood
 rankings:
 - end_date: '1960-12-11'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
 ---
+
+I'm in a sad mood tonight
+Oh I'm in a sad mood
+I'm in a sad mood tonight
+Oh my baby done gone away and left me
+My baby done gone yeah
+My baby done gone away and left me
+My baby done gone
+
+I don't know why she left me
+I don't know where shes gone
+All I know is that I'll never be happy
+Until my baby comes back home yeah
+
+I'm in a sad mood tonight
+Oh I'm in a sad mood
+I'm in a sad mood tonight
+Oh my baby done gone away and left me
+My baby done gone yeah
+My baby done gone away and left me
+My baby done gone
+
+I don't know why she left me
+But this one thing I know
+That if my baby tells me that she'll come back home
+I'll never, ever do it no more yeah
+
+I'm in a sad mood tonight
+Oh I'm in a sad mood
+I'm in a sad mood tonight
+Oh my baby done gone away and left me
+My baby done gone yeah
+My baby done gone away and left me
+My baby done gone...
+
+
 

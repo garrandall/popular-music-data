@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dig-in-lenny-kravitz
+lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/digin.html
 name: Dig In
 rankings:
 - end_date: '2001-10-19'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
 ---
+
+It's time to face and come-on in and join the party
+Life has been waiting for you to care
+Don't try to fake it, jump on in and get it started
+There's so much lovin for you to share !
+
+There is nowhere to run
+There is no way to hide
+Don't let it beat you
+Say 'nice to meet you' and 'bye'
+
+Once you dig in
+You'll find it coming out the other side
+And once you dig in
+You'll find you'll have yourself a good time
+
+Wake up and shake it, you didn't make your contribution
+There ain't no time for you to spare
+If you ain't part of the game then how can you find a solution
+Nobody said that it would be fair
+
+When the mountain is high
+Just look up to the sky
+Ask God to teach you
+Then persevere with a smile
+Yeah yeah yeah
+
+Once you dig in
+You'll find it coming out the other side
+And once you dig in
+You'll find you'll have yourself a good time
+Once you dig in
+You'll find it coming out the other side
+And once you dig in
+You'll find you'll have yourself a good time
+
+Once you dig in
+You'll find it coming out the other side
+And once you dig in
+You'll find you'll have yourself a good time
+Once you dig in
+You'll find it coming out the other side
+And once you dig in
+You'll find you'll have yourself a good time
+
+Once you dig in
+Yeah yeah yeah
+And once you dig in
+You're gonna have yourself a good time
+
+Once you dig in
+Once you dig in
+You'll find it coming out the other side
+
+And once you dig in
+
+
 

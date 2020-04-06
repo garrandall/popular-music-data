@@ -5,6 +5,7 @@ features:
 - Sam Martin
 genres: []
 key: dangerous-david-guetta-sam-martin
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/dangerous.html
 name: Dangerous
 rankings:
 - end_date: '2014-11-14'
@@ -68,4 +69,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
 ---
+
+You take me down
+Spin me around
+You got me running all the lights
+Don't make a sound
+Talk to me now
+Let me inside your mind
+
+I don't know what you're thinking sugar
+But I just got that feeling sugar
+I can hear the sirens burning
+Red lights turning
+I can't turn back now
+So hold on tight
+
+I don't know where the lights are taking us
+But something in the night is dangerous
+And nothing's holding back the two of us
+Baby this is getting serious
+Oh, oh, oh, oh, oh
+Detain the dangerous
+Oh, oh, oh, oh, oh
+
+Show me your soul
+I gotta know
+Bet that you're beautiful inside
+Toes on the glass
+Car moving fast
+Come take the wheel and drive
+
+I don't know what you're thinking sugar
+But I just got that feeling sugar
+I can hear the sirens burning
+Red lights turning
+I can't turn back now
+So hold on tight
+
+I don't know where the lights are taking us
+But something in the night is dangerous
+And nothing's holding back the two of us
+Baby this is getting serious
+Oh, oh, oh, oh, oh
+Detain the dangerous
+Oh, oh, oh, oh, oh
+Detain the dangerous
+
+It's dangerous so dangerous
+I wanna do it again
+Come on baby
+It's dangerous so dangerous
+I wanna do it again
+It's dangerous so dangerous
+I wanna do it again
+
+I don't know where the lights are taking us
+But something in the night is dangerous
+And nothing's holding back the two of us
+Baby, this is getting serious
+Oh, oh, oh, oh, oh
+Detain the dangerous
+Oh, oh, oh, oh, oh
+Detain the dangerous
+
+
 

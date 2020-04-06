@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twist-and-shout-the-isley-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/twistandshout.html
 name: Twist And Shout
 rankings:
 - end_date: '1962-06-08'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
 ---
+
+Well, shake it up baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+Well work it on out, honey
+You know you look so good
+You know you got me goin' now
+Just like I know you would
+
+Well, shake it up baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+You know you twist, little girl
+You know you twist so fine
+Come on and twist a little closer now
+And let me know that you're mine, woo
+
+Ah, ah, ah, ah
+Yeah, shake it up baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+You know you twist, little girl
+You know you twist so fine
+Come on and twist a little closer now
+And let me know that you're mine
+Well shake it, shake it, shake it, baby now
+Well shake it, shake it, shake it, baby now
+Well shake it, shake it, shake it, baby now
+Ah, ah, ah, ah
+
+
 

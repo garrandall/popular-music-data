@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: legend-in-your-own-time-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/legendinyourowntime.html
 name: Legend In Your Own Time
 rankings:
 - end_date: '1972-03-31'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
 ---
+
+Well I have know you
+Since you were a small boy
+And your mama used to say
+My boy is gonna grow up and be
+Some kind of leader some day.
+
+Then you'd turn on the radio
+And sing with the singer in the band
+And your mama would say to you
+This isn't exactly what she had planned.
+
+But you're a legend in your own time
+A hero in the footlights
+Playin' tunes to fit your rhyme
+But a legends only a lonely boy
+When he goes home alone.
+
+And although I know you
+Still have the heart of that small boy
+Well, you lend it out far too much
+And no one woman loving you
+Can ever tell if you've been really touched.
+
+Then you turn on the radio
+And sing with the singer in the band
+And think kind of sadly to yourself
+This isn't exactly what you had planned.
+
+But you're a legend in your own time
+A hero in the footlights
+Playin' tunes to fit your rhyme
+But a legends only a lonely boy
+When he goes home alone.
+
+
 

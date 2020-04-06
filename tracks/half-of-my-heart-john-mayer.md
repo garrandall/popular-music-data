@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: half-of-my-heart-john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/halfofmyheart.html
 name: Half Of My Heart
 rankings:
 - end_date: '2009-12-11'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
 ---
+
+I was born in the arms of imaginary friends
+free to roam, made a home out of everywhere I've been
+then you come crashing in, like the realest thing
+trying my best to understand all that your love can bring
+
+oh half of my heart's got a grip on the situation
+half of my heart takes time
+half of my heart's got a right mind to tell you
+that I can't keep loving you (can't keep loving you)
+oh, with half of my heart
+
+I was made to believe i'd never love somebody else
+I made a plan, stay the man who can only love himself
+lonely was the song I sang, 'til the day you came
+Showing me another way and all that my love can bring
+
+oh half of my heart's got a grip on the situation
+half of my heart takes time
+half of my heart's got a right mind to tell you
+that I can't keep loving you (can't keep loving you)
+oh, with half of my heart
+with half of my heart
+
+your faith is strong
+but I can only fall short for so long
+Down the road, later on
+you will hate that I never gave more to you than half of my heart
+but I can't stop loving you
+I can't stop loving you 
+but I can't stop loving you with half of my...
+
+half of my heart
+half of my heart
+
+half of my heart's got a real good imagination
+half of my heart's got you
+half of my heart's got a right mind to tell you
+that half of my heart won't do
+
+half of my heart is a shotgun wedding to a bride with a paper ring
+And half of my heart is the part of a man who's never truly loved anything
+
+half of my heart 
+
+
 

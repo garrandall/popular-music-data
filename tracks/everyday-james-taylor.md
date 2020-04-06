@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everyday-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/everyday.html
 name: Everyday
 rankings:
 - end_date: '1985-11-15'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
+
+Everyday, it's getting closer, going faster than a roller coaster.
+A love like yours would surely come my way.
+Everyday, seems a little faster, all my friends, they say go on up and ask her.
+A love like yours would surely come my way.
+
+Everyday it seems a little stronger, everyday it lasts a little longer.
+Come what may, do you ever long for true love from me?
+Everyday seems a little closer, going faster than a roller coaster.
+A love like yours would surely come my way.
+A love like yours would surely come my way, everyday.
+
+Everyday it seems a little stronger, everyday it lasts a little longer.
+Come what may, do you ever long for true love from me? Like I long from you baby.
+Everyday seems a little closer, going faster than a roller coaster.
+A love like yours would surely come my way.
+
+
 

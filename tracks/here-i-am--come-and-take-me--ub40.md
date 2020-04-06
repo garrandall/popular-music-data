@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-i-am--come-and-take-me--ub40
+lyrics_url: https://www.azlyrics.com/lyrics/ub40/hereiamcomeandtakeme.html
 name: Here I Am (Come And Take Me)
 rankings:
 - end_date: '1991-03-29'
@@ -107,4 +108,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
 ---
+
+I can't believe that it's real
+The way that you make me feel
+A burning deep down inside
+A love that I cannot hide
+
+I know it's you and me babe
+That makes the world go round
+Ah keeping you in love with me baby
+Laying all my troubles down
+
+
+Here I am babe, come and take me
+Here I am babe, wont ya come and take me
+Take me by the hand, ooh show me
+Here I am babe, oooooaaah
+
+It always ends up this way
+Me begging you every day
+A love that I cannot have
+You broke my heart in two halves
+
+Ooh I know it's you and me babe
+That makes the world go round
+Ah keeping you in love with me baby
+Laying all my troubles down
+
+
+
+
 

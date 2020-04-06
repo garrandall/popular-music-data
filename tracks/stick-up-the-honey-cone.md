@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stick-up-the-honey-cone
+lyrics_url: https://www.azlyrics.com/lyrics/honeycone/stickup.html
 name: Stick-Up
 rankings:
 - end_date: '1971-08-13'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
 ---
+
+Help! I've been robbed!
+Stick-up, highway robbery
+Stole my love from me - it's a case of grand larceny
+Stick-up, highway robbery
+It's a felony - heartbreak in the first degree
+
+He walked into my life hungry for love
+So sweet and cautiously he chased my love
+A devil in disguise, he fooled my heart
+Tricked me into the dark, "Hold up!" - I was shocked
+Pulled his charms, took me in his arms
+Stole my love, and now he's gone
+
+Stick-up, highway robbery
+Stole my love from me - it's a case of grand larceny
+Stick-up, highway robbery
+It's a felony - heartbreak in the first degree
+
+A thief in the night, he stole my mind
+Breaking lover's hearts should be a crime
+But he'll return to the scene of the crime
+I'll set a tender trap, he'll be unaware
+I'll wear a smile down the aisle
+'Cause he's the father of my child
+
+Stick-up, highway robbery
+Stole my love from me - it's a case of grand larceny
+Stick-up, highway robbery
+It's a felony - heartbreak in the first degree
+
+(Boom-boom, shakalaka, boom-boom-boom-boom)
+Help! I've been robbed!
+Stick-up, highway robbery
+Stole my love from me - it's a case of grand larceny
+Stick-up, highway robbery
+It's a felony - heartbreak in the first degree
+
+
 

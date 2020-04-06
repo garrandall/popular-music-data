@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/crazy.html
 name: Crazy
 rankings:
 - end_date: '1994-05-27'
@@ -99,4 +100,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
 ---
+
+Come Here baby
+You know you drive me up a wall
+The way you make good on all the nasty tricks you pull
+Seems like we're makin' up more than we're makin' love
+And it always seems you got somethin' on your mind other than me
+Girl, you got to change your crazy ways
+You hear me
+
+Say you're leavin' on a seven thirty train and that you're headin'
+Out to Hollywood
+Girl you been givin' me that line so many times it kinda gets like
+Feelin' bad looks good
+
+That kinda lovin'
+Turns a man to a slave
+That kinda lovin'
+Sends a man right to his grave...
+
+I go crazy, crazy, baby, I go crazy
+You turn it on
+Then you're gone
+Yeah you drive me
+Crazy, crazy, crazy, for you baby
+What can I do, honey
+I feel like the color blue...
+
+You're packin' up your stuff and talkin' like it's tough and tryin'
+To tell me that it's time to go
+But I know you ain't wearin' nothin' underneath that overcoat
+And it's all a show
+
+That kind of lovin'
+Makes me wanna pull
+Down the shade, yeah
+That kind of lovin'
+Yeah now I'm never, never, never, never gonna be the same
+
+I go crazy, crazy, baby, I go crazy
+You turn it on
+Then you're gone
+Yeah you drive me
+Crazy, crazy, crazy, for you baby
+What can I do, honey
+I feel like the color blue...
+
+I'm losin' my mind, girl
+'Cause I'm goin' crazy
+
+I need your love, honey
+I need your love
+
+Crazy, crazy, crazy, I go crazy
+You turn it on
+Then you're gone
+Yeah you drive me
+Crazy, crazy, crazy, for you baby
+I'm losin' my mind, girl
+Cause I'm goin' crazy
+Crazy, crazy, crazy for you baby
+You turn it on, then you're gone
+Yeah you drive me
+
+
 

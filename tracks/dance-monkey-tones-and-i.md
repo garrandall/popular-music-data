@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-monkey-tones-and-i
+lyrics_url: https://www.azlyrics.com/lyrics/tonesandi/dancemonkey.html
 name: Dance Monkey
 rankings:
 - end_date: '2019-10-25'
@@ -99,4 +100,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+They say, oh my god, I see the way you shine
+Take your hands, my dear, and place them both in mine
+You know you stopped me dead while I was passing by
+And now I beg to see you dance just one more time
+Ooh I see you, see you, see you every time
+And, oh my, I, I, I like your style
+You, you make me, make me, make me wanna cry
+And now I beg to see you dance just one more time
+
+So they say
+Dance for me
+Dance for me
+Dance for me oh oh oh
+I've never seen anybody do the things you do before
+They say
+Move for me
+Move for me
+Move for me ay ay ay
+And when you're done, I'll make you do it all again
+
+I said, oh my god, I see you walking by
+Take my hands, my dear, and look me in my eyes
+Just like a monkey I've been dancing my whole life
+But you just beg to see me dance just one more time
+Ooh I see you, see you, see you every time
+And, oh my, I, I, I,
+I like your style
+You, you make me, make me, make me wanna cry
+And now I beg to see you dance just one more time
+
+So they say
+Dance for me
+Dance for me
+Dance for me oh oh oh
+I've never seen anybody do the things you do before
+They say
+Move for me
+Move for me
+Move for me ay ay ay
+And when you're done I'll make you do it all again
+
+They say
+Dance for me
+Dance for me
+Dance for me oh oh oh
+I've never seen anybody do the things you do before
+They say
+Move for me
+Move for me
+Move for me ay ay ay
+And when you're done I'll make you do it all again
+
+They say
+Dance for me
+Dance for me
+Dance for me oh oh oh
+I've never seen anybody do the things you do before
+They say
+Move for me
+Move for me
+Move for me ay ay ay
+And when you're done I'll make you do it all again
+They say
+Dance for me
+Dance for me
+Dance for me oh oh oh
+I've never seen anybody do the things you do before
+They say
+Move for me
+Move for me
+Move for me ay ay ay
+And when you're done I'll make you do it all again
+All again
+
+
 

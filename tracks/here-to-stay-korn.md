@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-to-stay-korn
+lyrics_url: https://www.azlyrics.com/lyrics/korn/heretostay.html
 name: Here To Stay
 rankings:
 - end_date: '2002-05-31'
@@ -55,4 +56,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
 ---
+
+This time, taking it away
+I've got a problem, with me getting in the way,
+Not by design
+So I take my face and bash it into a mirror.
+I won't have to see the pain (bleed, bleed)
+
+This state is elevating, as the hurt turns into hating.
+Anticipating, all the fucked up feelings again.
+
+The hurt inside is fading
+This shit's gone way too far.
+All this time I've been waiting
+No I can not grieve anymore.
+For once inside awaking.
+I'm done, I'm not a whore.
+You've taken everything and, oh, I cannot give anymore.
+
+My mind is done with this,
+Okay, I've got a question.
+"Can I throw it all away?"
+Take back what's mine
+So I take my time, guiding the blade down the line
+Each cut closer to the vein (vein, vein)
+
+This state is elevating, as the hurt turns into hating.
+Anticipating, all the fucked up feelings again.
+
+The hurt inside is fading
+This shit's gone way too far.
+All this time I've been waiting
+No I can not grieve anymore.
+For once inside awaking.
+I'm done, I'm not a whore.
+You've taken everything and, oh, I cannot give anymore.
+
+I'm here to stay (bring it down) 
+Bring it down 
+Gonna break it down 
+GONNA BREAK IT!
+
+This state is elevating, as the hurt turns into hating.
+Anticipating, all the fucked up feelings again.
+
+The hurt inside is fading
+This shit's gone way too far.
+All this time I've been waiting
+No I can not grieve anymore.
+For once inside awaking.
+I'm done, I'm not a whore.
+You've taken everything and, oh, I cannot give anymore.
+
+Give anymore 
+
+
 

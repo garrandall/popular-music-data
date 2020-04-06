@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-tryin--trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/damnyoububba.html
 name: I'm Tryin'
 rankings:
 - end_date: '2001-10-26'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
 ---
+
+I was workin my magic one night at the rusty spur
+I was talkin that you know what to you know her
+I was layin it down like barbeque sauce brushin it on real thick
+When he walk in she flashed him a grin
+I never lost a woman that quick
+
+
+Aww damn you bubba
+And your 82 cadillac
+And your new hairdo and your dancin shoes
+For makin me look bad
+Damn you bubba
+And your 50 dollar bank roll
+Brand new jeans I know what that means
+You musta gotta job
+Aww damn you bubba
+
+Last week bubba sat at the shallow end of the bar
+He was one of us tryin his best to just win a heart
+I walked up to him and said hey bubba let me get in on your plan
+He leaned back and laughed and said "the bubba dont run with a wing man"
+
+
+Aww damn you bubba
+And your 82 cadillac
+And your new hairdo and your dancin shoes
+For makin me look bad
+Damn you bubba
+And your 50 dollar bank roll
+Brand new jeans I know what that means
+You musta gotta job
+And I dont
+Aww damn you bubba
+Damn you bubba
+
+
+Turned in my application friday mornin
+At 6 am on the dot
+The man called monday said im sorry
+Bubba done filled that spot
+
+
+
+
+And I dont
+I gotta get a job
+Damn you bubba
+
+
 

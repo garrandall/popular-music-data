@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-can-i-turn-to--when-nobody-needs-me--tony-bennett
+lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/whocaniturntowhennobodyneedsme.html
 name: Who Can I Turn To (When Nobody Needs Me)
 rankings:
 - end_date: '1964-10-09'
@@ -47,4 +48,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
 ---
+
+Who can I turn to when nobody needs me?
+My heart wants to know and so I must go where destiny leads me
+With no star to guide me and no one beside me
+I'll go on my way and, after the day, the darkness will hide me
+
+And maybe tomorrow I'll find what I'm after
+I'll throw off my sorrow, beg, steal, or borrow my share of laughter
+With you I could learn to, with you what a new day
+But who can I turn to if you turn away?
+
+With you I could learn to, with you what a new day
+But who can I turn to if you turn away?
+
+
 

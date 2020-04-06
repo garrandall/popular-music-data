@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -closest-thing-to--perfect-jermaine-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/closestthingtoperfect.html
 name: (Closest Thing To) Perfect
 rankings:
 - end_date: '1985-06-14'
@@ -35,4 +36,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
 ---
+
+Whoa, oh
+Whoa, oh
+Whoa, oh
+Whoa, oh
+
+She's the closest thing
+To perfect that I've ever seen
+
+Ooh, she's an ideal lady
+That, she's so well-defined
+Ooh, she's drivin' me crazy
+She's got those long legs streamlined
+
+Look at that anatomy
+The sweetest thing
+That could ever be
+(Heaven knows)
+Heaven knows
+She was made for me
+She's the closest thing
+To perfect that I've ever seen
+
+I can't believe
+What I'm feeling
+Ooh, I've lost all control
+Girl, don't you know
+What you're doin'
+You got me burnin' up on the inside
+
+I can't explain
+What she does to me
+(I can't explain)
+It must be some kind of chemistry
+Heaven knows
+It was meant to be
+She's the closest thing
+To perfect that I've ever seen
+
+Whoa, oh
+Whoa, oh
+Whoa, oh
+She's the closest thing
+To perfect that I've ever seen
+
+Oh, listen, precious
+You are on my mind
+I've gotta have some time
+
+Ooh, you're the ideal lady
+That, you've got my heart and mind
+Girl, you're drivin' me crazy
+She's got those long legs streamlined
+
+Look at that anatomy
+The sweetest thing
+That could ever be
+Heaven knows
+She was made for me
+She's the closest thing
+To perfect that I've ever seen
+
+I can't explain
+What she does to me
+(I can't explain)
+It must be some kind of chemistry
+Heaven knows
+It was meant to be
+She's the closest thing
+To perfect that I've ever seen
+
+Whoa, oh
+Whoa, oh
+Whoa, oh
+She's the closest thing
+To perfect that I've ever seen
+
+
 

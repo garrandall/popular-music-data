@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diggin--on-you-tlc
+lyrics_url: https://www.azlyrics.com/lyrics/tlc/digginonyou.html
 name: Diggin' On You
 rankings:
 - end_date: '1995-11-24'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
 ---
+
+I was like peace in a groove
+On a sunday afternoon
+You were there so was I
+In the park 4th of July
+I was chillin' with my Kool-Aid
+When Miss Chilli came to relay
+That you had a thang for me
+Finest thang you'd ever seen
+I must admit to you
+I've heard them lines a time or two
+Although for some apparent reason
+Monkey lines are now in season
+Lights off, lights on
+I guess the groove is on so I am
+
+
+Diggin' the scene
+Diggin' on you
+Diggin' on me
+Baby bay-ooo-baby baby
+It's on like that
+It's on like that
+I gotta be in love or somethin' like that
+
+I was like deep in a cool
+What'nt gone be nobody's fool
+Could not care less who was there
+Could've been like anywhere
+I was chillin' with my Kool-Aid
+Did not want to par-ti-ci-pate
+In no silly conversations
+Had no time for new relation-ships
+I must admit to you
+When I heard the lines you threw
+Although it usually turns me off
+But this time you have turned me on
+Lights off, lights on
+I guess the groove is on and I am
+
+
+
+Oh why do I feel the way I do
+When all I can think about is you
+Diggin' diggin' diggin' on you
+What was it in a line
+That made me fall for you
+Do you know
+Why I'm diggin' diggin' diggin' diggin' on you
+
+
+
+Diggin' on you
+It's on like that
+Diggin' diggin' diggin' diggin' on you
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-of-heart-cyndi-lauper
+lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/changeofheart.html
 name: Change Of Heart
 rankings:
 - end_date: '1986-12-05'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
 ---
+
+Here I am
+Just like I said I would be
+I'm your friend
+Just like you think it should be
+Did you think I would stand here and lie
+As our moment was passing us by
+Oh I am here
+
+Waiting for your change of heart
+It just takes a beat
+To turn it around
+Yes I'm waiting for your change of heart
+At the edge of my seat
+Please turn it around
+
+Days go by
+Leaving me with a hunger
+I could fly
+Back to when we were younger
+When adventures like cars we would ride
+And the years lied ahead still untried
+While I stand here
+
+Waiting for your change of heart...
+
+Blind leading blind
+Never hear the laughter
+Search through time
+Nothing reveals the answer
+If it's truth that you're looking to find
+It is nowhere outside of your mind
+I bide my time
+Waiting for your change of heart...
+
+
 

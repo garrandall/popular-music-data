@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-your-daughter-home-the-guess-who
+lyrics_url: https://www.azlyrics.com/lyrics/guesswho/followyourdaughterhome.html
 name: Follow Your Daughter Home
 rankings:
 - end_date: '1973-02-09'
@@ -35,4 +36,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
 ---
+
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+
+Keep her out of trouble
+Follow your daughter home
+Staying out late in the bar with the bad men
+Follow your daughter home
+Keep her out of mischief
+Follow your daughter home
+What are the boys like she's staying and sleeping with
+Follow your daughter home
+Watch her
+
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+
+Keep her out of mischief
+Follow your daughter home
+What are the boys like she's running and dancing with
+Follow your daughter home
+Is she still a virgin
+Follow your daughter home
+Staying out late with the boys past midnight
+Follow your daughter home
+Tie her up
+
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+
+Keep her out of trouble
+Follow your daughter home
+Staying out late in the bar with the bad men
+Follow your daughter home
+Keep her out of mischief
+Follow your daughter home
+You're asking lots of questions 'bout the boys she's sleeping with
+Follow your daughter home
+Watch her, watch her
+
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+Lovely young woman, now
+Hey man, follow your daughter home
+Hey man, follow your daughter home
+Watch her
+Hey, follow your daughter home
+
+
 

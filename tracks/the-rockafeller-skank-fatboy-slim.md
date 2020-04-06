@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-rockafeller-skank-fatboy-slim
+lyrics_url: https://www.azlyrics.com/lyrics/fatboyslim/therockafellerskank.html
 name: The Rockafeller Skank
 rankings:
 - end_date: '1998-08-14'
@@ -115,4 +116,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
 ---
+
+
+ WBCN who's this?
+ Hey this is Brad (this is Brad this is)
+ Now uh who's your favorite artist, who do you want to hear?
+ Well m my favorite artist right now is Fatboy Slim, that guy kicks ass.
+ How tremendous is Fatboy Slim?
+ The band of the 90's, if you want to call it a band because it's a one man name.
+ Wow...fatboy, and you want to hear that new fatboy song?
+ Absolutely.
+ Which one?
+ The um funk soul brother check it out.
+ Sing it, I don't know which one.
+ Right about now, the funk soul brother check it out now, the funk soul brother.
+
+Right about now, the funk soul brother.
+Check it out now, the funk soul brother
+
+Double Screwball,
+Double Screwball
+
+
 

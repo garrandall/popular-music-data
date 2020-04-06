@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: first-of-may-bee-gees
+lyrics_url: https://www.musixmatch.com/lyrics/Bee-Gees/First-of-May
 name: First Of May
 rankings:
 - end_date: '1969-03-28'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+When I was small and Christmas trees were tall
+We used to love while others used to play
+Don't ask me why but time has passed us by
+Someone else moved in from far away
 
+Now we are tall and Christmas trees are small
+And you don't ask the time of day
+But you and I our love will never die
+But guess we'll cry come first of May
+
+The Apple tree that grew for you and me
+I watched the apples falling one by one
+And I recall the moment of them all
+The day I kissed your cheek and you were gone
+
+Now we are tall and Christmas trees are small
+And you don't ask the time of day
+But you and I our love will never die
+But guess we'll cry come first of May
+
+When I was small and Christmas trees were tall
+Do do do do do do do do do
+Don't ask me why but time has passed us by
+Someone else moved in from far away

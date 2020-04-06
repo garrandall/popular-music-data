@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: automatic-man-michael-sembello
+lyrics_url: https://www.azlyrics.com/lyrics/michaelsembello/automaticman.html
 name: Automatic Man
 rankings:
 - end_date: '1983-09-30'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
 ---
+
+Stayed up endless nights
+Like some Frankenstein
+Cybernetic dream
+Something like you've never seen
+
+He knows every dance
+Pre-programmed romance
+When he looks at you
+I'm watching, too, through his video eyes
+
+He was made to play the part
+He's no ordinary man
+He was made to break your heart
+He's the Automatic Man
+He's the Automatic Man
+
+Two, three, four, five, six, seven, eight
+He's the Automatic Man
+Two, three, four, five, six, seven, eight
+He's the Automatic
+
+His atomic heart
+It has learned to feel
+He cries electric tears
+The impossible is real
+Ah-be-auto-we-bo-we
+Ah-be-auto-we-bo-we
+Ah-be-auto-we-bo-we
+Ah-be-auto-we-bo-we
+
+He was made to play the part
+He's no ordinary man
+He was made to break your heart
+He's the Automatic Man
+
+Two, three, four, five, six, seven, eight
+He's the Automatic Man
+Beep! Beep! Four, five, six, seven, eight
+He's the Automatic
+
+I was such a lonely, lonely boy
+Automatic was my toy
+Never dreamed he would steal her away
+
+One, two, three, four, five
+Six, seven, eight
+He's the Automatic Man
+...
+
+
 

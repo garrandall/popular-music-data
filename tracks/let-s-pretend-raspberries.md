@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-pretend-raspberries
+lyrics_url: https://www.azlyrics.com/lyrics/raspberries/letspretend.html
 name: Let's Pretend
 rankings:
 - end_date: '1973-03-30'
@@ -71,4 +72,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
 ---
+
+I can't sleep nights
+Wishing you were here beside me
+Can't help feeling
+That's the way it ought to be
+You know we could run (run, run) away
+But I couldn't bear
+To hear the things they'd say, oh no
+
+Baby, let's pretend that tonight could live forever
+If we close our eyes and believe it might come true
+Baby, let's pretend we could always be together
+But for now just let me spend the night with you
+
+Somehow, someday
+Things are gonna be so different
+Don't cry, someway
+I promise it'll be all right
+So now that we're all alone
+I couldn't bear
+To leave to take you home, oh no
+
+Baby, let's pretend that tonight could live forever
+If we close our eyes and believe it might come true
+Baby, let's pretend we could always live together
+But for now just let me spend the night with you
+
+So take me now
+My love can't wait
+We're almost there now, darlin', darlin'
+Hold me (hold me), hold me (hold me)
+Ho-oh-old me
+
+Baby, let's pretend that tonight could live forever
+If we close our eyes and believe it might come true
+Baby, let's pretend we could always live together
+But for now just let me spend the night with you
+
+Baby, let's pretend that tonight could live forever
+If we close our eyes and believe it might come true
+Baby, let's pretend we could always be together
+But for now just let me spend the night with you
+
+
 

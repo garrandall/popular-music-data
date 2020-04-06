@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-with-me--brass-bed--josh-gracin
+lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/staywithmebrassbed.html
 name: Stay With Me (Brass Bed)
 rankings:
 - end_date: '2005-08-19'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
 ---
+
+Baby, the clock on the wall is lying
+It's not really that late
+It's too cold outside to be walking around
+the streets of this town
+Anywhere if you think you have to be can wait
+
+
+So why don't you stay with me?
+Share all your secrets tonight
+We can make believe the morning sun  never will rise
+Come and lay your head on this big brass bed
+And we'll be alright as long as you stay with me, yeah
+
+Baby, there's just no use in hiding
+The way that I am feeling right now
+With you standing there baby I swear I can't help but stare
+Girl you're wearing me out, wearing me out
+
+
+Baby why don't you stay with me?
+Share all your secrets tonight
+We can make believe
+the morning sun never will rise
+Come and lay your head on this big brass bed
+We'll be alright as long as you stay with me
+
+
+Baby don't go it looks like it's starting to rain
+And it's so warm here in this apartment wrapped up in this blanket
+
+So Stay
+
+
+
+I'll be all right as long as you
+Stay with me
+
+
 

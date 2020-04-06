@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-the-rules-charli-xcx
+lyrics_url: https://www.azlyrics.com/lyrics/charlixcx/breaktherules.html
 name: Break The Rules
 rankings:
 - end_date: '2015-01-02'
@@ -19,4 +20,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
 ---
+
+Electric lights
+Blow my mind
+But I feel alright
+
+And never stop, it's how we ride
+Comin' up until we die
+
+You catch my eye
+Bitch, you wanna fly
+I'm so alive
+
+Never stop, it's how we ride
+Comin' up until we die
+
+I don't wanna go to school
+I just wanna break the rules
+Boys and girls across the world
+Putting on our dancing shoes
+Going to the discotheque
+Getting high and getting wrecked
+I don't wanna go to school
+I just wanna break the rules
+
+I don't wanna go to school
+I just wanna break the rules
+Boys and girls across the world
+Putting on our dancing shoes
+Going to the discotheque
+Getting high and getting wrecked
+I don't wanna go to school
+I just wanna break the rules
+
+I'm such a star
+Queen boulevard
+Blaze through the dark
+
+And never stop, it's how we ride
+Comin' up until we die
+
+I don't wanna go to school
+I just wanna break the rules
+Boys and girls across the world
+Putting on our dancing shoes
+Going to the discotheque
+Getting high and getting wrecked
+I don't wanna go to school
+I just wanna break the rules
+
+Get my guitar
+Sunglasses on
+So light it up
+
+And never stop, it's how we ride
+Comin' up until we die
+
+I don't wanna go to school
+I just wanna break the rules
+Boys and girls across the world
+Putting on our dancing shoes
+Going to the discotheque
+Getting high and getting wrecked
+I don't wanna go to school
+I just wanna break the rules
+
+Na na na na na na na na na na na na 
+
+
 

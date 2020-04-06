@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: commotion-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/commotion.html
 name: Commotion
 rankings:
 - end_date: '1969-08-08'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
 ---
+
+Traffic in the city turns my head around.
+No, no, no, no, no.
+Backed up on the freeway, backed up in the church,
+Ev'rywhere you look there's a frown, frown.
+
+
+Com, commotion,
+Git, git, git, gone.
+Com, commotion,
+Git, git, git, gone.
+
+People keep atalkin', they don't say a word.
+Jaw, jaw, jaw, jaw, jaw.
+Talk up in the White House, talk up to your door,
+So much goin' on I just can't hear.
+
+
+
+Hurryin' to get there so you save some time.
+Run, run, run, run, run.
+Rushin' to the treadmill, rushin' to get home,
+Worry 'bout the time you save, save.
+
+
+
+
 

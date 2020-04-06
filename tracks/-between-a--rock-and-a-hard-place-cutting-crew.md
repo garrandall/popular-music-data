@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -between-a--rock-and-a-hard-place-cutting-crew
+lyrics_url: https://www.azlyrics.com/lyrics/cuttingcrew/betweenarockandahardplace.html
 name: (Between A) Rock And A Hard Place
 rankings:
 - end_date: '1989-05-19'
@@ -27,4 +28,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
+
+Between a rock
+Between a rock and a hard place
+There's a beating heart
+Watching the lights go down on my world
+Stoney faced
+Letting the rope slip though my fingers
+Ain't nothin' straight, always a riddle
+Caught up in the middle of the party line
+I got a brick but I can't find a window
+Take me to your shelter...
+Between a rock
+Between a rock and a hard place (you better lay your money down)
+You'll never stop
+What you started in the first place
+Between a rock
+You gotta roll with the punches baby
+Between a rock and a hard place...
+There's so many words
+You place your bet you take your chances
+The dealer pays
+But he'll never let you leave the table
+They're gonna take you lock, stock and barrel
+Down to the knuckle, down on your luck
+And when they've stripped you of all resistance
+You can take you place...
+Between a rock
+Between a rock and a hard place (you gotta lay your money down)
+You'll never stop
+What you started in the first place
+Between a rock
+You gotta roll with the punches baby
+Between a rock and a hard place...
+
+It'll take all your money
+We think we like it here
+Between a rock (you gotta roll with the punches baby)
+Between a rock and a hard place
+
+
 

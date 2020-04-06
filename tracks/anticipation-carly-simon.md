@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anticipation-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/anticipation.html
 name: Anticipation
 rankings:
 - end_date: '1971-12-17'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
+
+We can never know about the days to come
+But we think about them anyway
+And I wonder if I'm really with you now
+Or just chasing after some finer day.
+
+Anticipation, anticipation
+Is making me late
+Is keeping me waiting
+
+And I tell you how easy it feels to be with you
+How right your arms feel around me.
+But I, I rehearsed those words just late last night
+When I was thinking about how right tonight might be.
+
+Anticipation, anticipation
+Is making me late
+Is keeping me waiting
+
+And tomorrow we might not be together
+I'm no prophet, not I don't know nature's way
+So I'll try to see into your eyes right now
+And stay right here, 'cause these are the good old days.
+
+These are the good old days
+And stay right here, 'cause these are the good old days
+
+These are the good old days 
+These are the good old days 
+These are the good old days 
+These are the good old days
+
+
 

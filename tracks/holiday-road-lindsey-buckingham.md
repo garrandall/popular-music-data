@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holiday-road-lindsey-buckingham
+lyrics_url: https://www.azlyrics.com/lyrics/lindseybuckingham/holidayroad.html
 name: Holiday Road
 rankings:
 - end_date: '1983-08-12'
@@ -27,4 +28,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
 ---
+
+I found out long ago 
+It's a long way down the holiday road 
+Holiday road 
+Holiday road 
+
+Jack be nimble, Jack be quick 
+Take a ride on the West Coast kick 
+Holiday road 
+Holiday road 
+Holiday road 
+Holiday road 
+
+I found out long ago 
+It's a long way down the holiday road 
+Holiday road 
+Holiday road 
+Holiday road
+Holiday road
+
+
 

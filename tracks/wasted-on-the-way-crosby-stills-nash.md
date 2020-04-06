@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: wasted-on-the-way-crosby-stills-nash
+lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/wastedontheway.html
 name: Wasted On The Way
 rankings:
 - end_date: '1982-07-02'
@@ -69,4 +70,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
 ---
+
+
+
+Look around me
+I can see my life before me
+Running rings around the way it used to be
+
+I am older now
+I have more than what I wanted
+But I wish that I had started long before I did
+
+And there's so much time to make up everywhere you turn
+Time we have wasted on the way
+So much water moving underneath the bridge
+Let the water come and carry us away
+
+
+
+Oh, when you were young
+Did you question all the answers
+Did you envy all the dancers who had all the nerve
+
+Look around you now
+You must go for what you wanted
+Look at all my friends who did and got what they deserved
+
+So much time to make up everywhere you turn
+Time we have wasted on the way
+So much water moving underneath the bridge
+Let the water come and carry us away
+
+So much love to make up everywhere you turn
+Love we have wasted on the way
+So much water moving underneath the bridge
+Let the water come and carry us away
+Let the water come and carry us away
+
+
 

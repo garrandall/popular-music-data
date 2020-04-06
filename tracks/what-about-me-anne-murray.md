@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-about-me-anne-murray
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/whataboutme.html
 name: What About Me
 rankings:
 - end_date: '1973-06-01'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
 ---
+
+
+Hey hey hey, what about me?
+I've got some feelings on my mind, too
+Hey hey hey, what about me?
+I'd like to have a song to sing, too
+
+Please let me in when you're singing your song
+And I'll just sit quiet, I won't try to sing along
+You've got the warmest place that I've ever found
+Please let me in, and I won't make a sound
+
+
+
+But, don't you ask me to give you a song
+I won't know the words to use, I won't know where they belong
+But if you give me one of yours, I will make it my own
+And it would be the sweetest song that I have ever known
+
+
+
+I'd like to have a song to sing, too.
+
+
 

@@ -6,6 +6,7 @@ features:
 - The East Side Boyz
 genres: []
 key: salt-shaker-ying-yang-twins-lil-jon-the-east-side-boyz
+lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/saltshaker.html
 name: Salt Shaker
 rankings:
 - end_date: '2003-11-21'
@@ -113,4 +114,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
 ---
+
+
+Shawty crunk on the floor wide open
+Skeet so much they call her Billy Ocean
+Roll like an eighteen wheeler
+That hoe fine but this hoe killer
+She leakin, she's soakin' wet
+She leakin, soakin' wet
+Shake it like a salt shaker (shake it like a salt shaker)
+Shake it like a salt shaker (shake it like a salt shaker)
+
+
+Pussy poppin, till you percolate
+First booty on duty no time to wait
+Make it work, with your wet t-shirt
+Bitch you gotta shake it till ya calf muscles hurt
+Say the heals on your feet or the strap around your ankle
+Call that bitch bojangles
+Juicy like fruit or dosh like coup Deville
+Used to get loose on the goose for real
+
+
+Five dollars get your ass a table dance
+If you got ten then bring a friend
+Hoe shake your ass to the song then
+If you ain't with it then well gone then
+We ain't no boys we grown men
+If you ain't gone dance then don't then
+Why you wanna waste a niggaz song
+then see your ass down doin nothin
+
+
+
+
+Face the wall shawty, put your hands on it
+Bounce that ass up and down make a nigga want it
+Face the wall shawty, put your hands on it
+Bounce that ass up and down make a nigga want it
+Roll that ass round and round like a motherfuckin' wheel
+Shake that shit this ain't no motherfuckin' drill
+Roll that ass round and round like a motherfuckin' wheel
+Shake that shit this ain't no motherfuckin' drill
+Get crunk with it, get loose with it
+Like short said let bruce bruce hit it
+Get crunk with it, get loose with it
+Like short said let bruce bruce hit it
+Shake that ass real fast then stop (aaww shit!)
+Shake that ass real fast then stop (aaww shit!)
+Shake that ass real fast then drop (aaww shit!)
+Shake that ass real fast then drop (aaww shit!)
+
+
+
+
+Shake it like a dollar five or ten
+But what would you do for 2a twenty twen
+Get on the stage shake that ass then
+Get on the pole do a back bend
+I like that do it again
+Here's another ten bitch do it again
+Work like a game that you playin' to win
+Make that pussy fart for the Ying Yang Twins
+Sixteen bitches in thongs in one club
+The home of the fifth red bones and big butts
+has been bitches splittin' all over the floor
+Hornafy cant deny certified pro
+On the poll upside down, (this shit for real)
+Sixty-nine plenty time will pay a bill
+At day she a clerk but night she turn (stripper)
+You're not even dated your just tryin to (tip her)
+
+
+
+
 

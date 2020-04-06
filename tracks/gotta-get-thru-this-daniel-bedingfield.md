@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gotta-get-thru-this-daniel-bedingfield
+lyrics_url: https://www.azlyrics.com/lyrics/danielbedingfield/gottagetthruthis.html
 name: Gotta Get Thru This
 rankings:
 - end_date: '2002-08-02'
@@ -91,4 +92,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
 ---
+
+If only I could get through this
+I get through this
+
+I gotta get through this
+I gotta get through this
+I gotta make it, gonna make, gonna make it through
+I'm gotta get through this
+I gotta get through this
+I gotta take my, gotta take my mind off you
+
+Give me just a second and I'll be all right
+Surely one more moment couldn't break my heart
+Give me 'til tomorrow then I'll be okay
+Just another day and then I'll hold you tight
+
+When your love is pouring like the rain
+I close my eyes and it's gone again
+When will I get the chance to say I love you
+I pretend that you're already mine
+Then my heart ain't breaking every time
+I look into your eyes
+
+If only I could get through this
+If only I could get through this
+If only I could get through this
+God, God gotta help me get through this
+
+I gotta get through this
+I gotta get through this
+I gotta make it, gonna make, gonna make it through
+Said I'm gonna get through this
+I gotta get through this
+I gotta take my, gotta take my mind off you
+
+Give me just a second and I'll be all right
+Surely one more moment couldn't break my heart
+Give me 'til tomorrow then I'll be okay
+Just another day and then I'll hold you tight
+
+When your love is pouring like the rain
+I close my eyes and it's gone again
+When will I get the chance to say I love you
+I pretend that you're already mine
+Then my heart ain't breaking every time
+I look into your eyes
+
+If only I could get through this
+If only I could get through this
+If only I could get through this
+God, God gotta help me get through this
+
+If only I could get through this
+God, God gotta help me get through this
+
+If only I could get through this
+God, God gotta help me get through this
+
+If only I could get through this...
+
+
 

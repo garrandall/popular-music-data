@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: juicy-fruit-mtume
+lyrics_url: https://www.azlyrics.com/lyrics/mtume/juicyfruit.html
 name: Juicy Fruit
 rankings:
 - end_date: '1983-06-24'
@@ -55,4 +56,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
 ---
+
+Yeah
+(I like it, oh, oh)
+(I like it, oh, oh)
+I need it, I need it
+Oh, girl
+
+You know very well
+What you are
+You're my sugar thing
+My chocolate star
+
+I've had a few
+But not that many
+But you're the only love
+That gives me good and plenty
+
+Juicy fruit (Juicy)
+Juicy (Yeah, yeah, yeah, hey)
+Juicy fruit (Juicy)
+Juicy
+
+Candy rain
+Comin' down
+Taste you in my mind
+And spread you all around
+
+Here I am
+Oh, this love's for you
+Hey, baby
+Sweet as honey dew
+
+Close my eyes
+Oh, what fantasy
+And you're right here with me
+Juicy
+
+Cherry blossom kiss
+What you're givin'
+Makes my body rock
+Keeps me sizzlin'
+
+Do what you want
+I don't care
+I'll be your lollipop
+(You can lick me everywhere)
+
+Juicy fruit (You're so)
+Juicy (Juicy)
+Juicy fruit (Yeah, hey, hey, hey, hey)
+Juicy
+
+Here I am
+This love's for you
+Hey, baby
+You're sweet as honey dew
+
+Close my eyes
+Oh, what fantasy
+And you're right here with me
+Yeah, yeah, yeah, yeah
+
+Juicy fruit
+Juicy
+
+Juicy fruit (Juicy)
+Juicy (I like it, I like it)
+Juicy fruit (In the morning, oh, babe)
+Juicy (Oh, oh)
+
+Juicy fruit (Candy rain comin' down)
+Juicy (Turns me all around)
+Juicy fruit (I like it, I like it)
+Juicy
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarena--bayside-boys-mix--los-del-rio
+lyrics_url: https://www.azlyrics.com/lyrics/losdelrio/macarenabaysideboysmix.html
 name: Macarena (Bayside Boys Mix)
 rankings:
 - end_date: '1995-09-08'
@@ -247,4 +248,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
 ---
+
+I'm not trying to seduce you
+
+When I dance they call me Macarena
+and the boys they say que soy buena
+they all want me
+they can't have me
+so they all come and dance beside me
+Move with me
+Chant with me
+and if your good I'll take you home with me
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Now don't you worry about my boyfriend
+The boy who's name is Vitorino
+I don't want him
+can't stand him
+He was no good so I... ha ha ha ha
+
+Now come on, what was I supposed to do?
+He was out of town and his two friends were sooo fine
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+I'm not trying to seduce you
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+Come and find me, my name is Macarena
+always at the party con las chicas que son buena
+come join me,
+dance with me
+and all you fellows chant along with me.
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+
+
 

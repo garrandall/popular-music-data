@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-britney-spears
+lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/lucky.html
 name: Lucky
 rankings:
 - end_date: '2000-08-18'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
 ---
+
+This is a story about a girl named Luckyâ¦ 
+
+Early morning, she wakes up
+Knock, knock, knock on the door
+It's time for makeup, perfect smile
+It's you they're all waiting for
+They goâ¦
+"Isn't she lovely, this Hollywood girl?"
+And they sayâ¦
+
+
+She's so lucky, she's a star
+But she cry, cry, cries in her lonely heart, thinking
+If there's nothing missing in my life
+Then why do these tears come at night
+
+Lost in an image, in a dream
+But there's no one there to wake her up
+And the world is spinning, and she keeps on winning
+But tell me what happens when it stops?
+They goâ¦
+"Isn't she lovely, this Hollywood girl?"
+And they sayâ¦
+
+
+
+"Best actress, and the winner isâ¦Lucky!"
+"I'm Roger Johnson for Pop News standing outside the arena waiting for Lucky"
+"Oh my godâ¦here she comes!"
+
+Isn't she lucky, this Hollywood girl?
+She is so lucky, but why does she cry?
+If there's nothing missing in her life
+Why do tears come at night?
+
+
+
+
 

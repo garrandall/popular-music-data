@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-finally-found-someone-barbra-streisand-bryan-adams
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/ifinallyfoundsomeone.html
 name: I Finally Found Someone
 rankings:
 - end_date: '1996-11-29'
@@ -88,4 +89,114 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-04-05'
 ---
+
+
+I finally found someone, that knocks me off my feet
+I finally found the one, that makes me feel complete
+
+We started over coffee, we started out as friends
+It's funny how from simple things, the best things begin
+
+This time it's different,
+
+
+Dah dah dah dah
+
+
+It's all because of you,
+
+
+Dah dah dah dah
+
+
+It's better than it's ever been
+
+
+'Cause we can talk it through
+
+
+Oohh, my favorite line was "Can I call you sometime?"
+It's all you had to say
+
+
+To take my breath away
+This is it, oh, I finally found someone
+Someone to share my life
+I finally found the one, to be with every night
+
+
+'Cause whatever I do,
+
+
+It's just got to be you
+My life has just begun
+I finally found someone,
+
+
+Ooh, someone
+
+
+I finally found someone,
+
+
+Oooh...
+
+
+Did I keep you waiting,
+
+
+I didn't mind
+
+
+I apologize,
+
+
+Baby, that's fine
+
+
+I would wait forever
+
+
+Just to know you were mine
+
+
+You know I love your hair,
+
+
+Are you sure it looks right?
+
+
+I love what you wear,
+
+
+Isn't it too tight?
+
+
+You're exceptional,
+
+
+I can't wait for the rest of my life...
+This is it, oh, I finally found someone
+Someone to share my life
+I finally found the one, to be with every night
+
+
+'Cause whatever I do,
+
+
+It's just got to be you
+My life has just begun
+I finally found someone,
+
+
+Whatever I do,
+
+
+It's just got to be you
+
+
+My life has just begun
+I finally found someone...
+
+
 

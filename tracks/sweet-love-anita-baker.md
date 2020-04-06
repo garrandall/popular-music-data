@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-love-anita-baker
+lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/sweetlove.html
 name: Sweet Love
 rankings:
 - end_date: '1986-08-22'
@@ -95,4 +96,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
 ---
+
+With all my heart I love you baby
+Stay with me and you will see
+My arms will hold you, baby
+Never leave, 'cause I believe
+
+
+I'm in love, sweet love
+Hear me calling out your name, I feel no shame
+I'm in love, sweet love
+Don't you ever go away, it'll always be this way
+
+Oh, heart has called me closer to you
+I will be all that you need
+Just trust in what we're feeling
+Never leave 'cause baby, I believe
+
+
+In this love sweet love
+Hear me callin out your name I feel no shame
+I'm in love sweet love
+Don't you ever go away
+It will be always this way
+
+
+No stronger love in this world
+Oh, baby no, you're my man, I'm your girl
+I'll never go, wait and see, can't be wrong
+Don't you know this is where you belong
+
+Sweet this dream how lovely baby
+Stay right here, never fear
+I will be all that you need
+Never leave, 'cause baby, I believe
+
+
+In this love sweet love
+Hear me calling out you name
+I feel no shame I'm in love sweet love
+Don't you ever go away
+It will always be this way
+
+Oh no no no no
+No no no sweet love umm hmm
+So sweet, so sweet, so sweet
+
+
 

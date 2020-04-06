@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-power-of-good-bye-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/thepowerofgoodbye.html
 name: The Power Of Good-Bye
 rankings:
 - end_date: '1998-10-23'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
 ---
+
+Your heart is not open so I must go
+The spell has been broken, I loved you so
+Freedom comes when you learn to let go
+Creation comes when you learn to say no
+
+You were my lesson I had to learn
+I was your fortress you had to burn
+Pain is a warning that something's wrong
+I pray to God that it won't be long
+Do ya wanna go higher?
+
+
+
+There's nothing left to try
+There's no place left to hide
+There's no greater power
+Than the power of good-bye
+
+Your heart is not open so I must go
+The spell has been broken, I loved you so
+You were my lesson I had to learn
+I was your fortress
+
+
+
+There's nothing left to lose
+There's no more heart to bruise
+There's no greater power
+Than the power of good-bye
+
+Learn to say good-bye
+I yearn to say good-bye
+
+
+
+
+
 

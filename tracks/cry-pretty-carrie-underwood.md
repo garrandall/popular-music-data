@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-pretty-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/crypretty.html
 name: Cry Pretty
 rankings:
 - end_date: '2018-05-04'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
 ---
+
+I'm sorry
+But I'm just a girl not usually the kind to show my heart to the world
+I'm pretty good at keeping it together
+I hold my composure for worse or for better
+So I apologize
+If you don't like what you see
+But sometimes my emotions get the best of me
+And falling apart is as human as it gets
+You can't hide it, you can't fight what the truth is
+
+You can pretty lie
+And say it's okay
+You can pretty smile
+And just walk away
+Pretty much fake your way through anything
+But you can't cry pretty
+
+Oh no, you can't dress it up in lace or rhinestones
+Don't matter if you're in a crowd or home all alone
+Yeah, it's all the same when you're looking in the mirror
+A picture of pain
+So let it flow like a river
+
+You can pretty lie
+And say it's okay
+You can pretty smile
+And just walk away
+Pretty much fake your way through anything
+But you can't cry pretty
+
+You can't turn off the flood when the dam breaks
+When all your mascara is going to waste
+When things get ugly you just gotta face
+That you can't cry pretty
+Oh, no, you can't...
+
+You can't turn off the flood when the dam breaks
+When all your mascara is going to waste
+When things get ugly you just gotta face
+That you can't cry pretty... yeah yeah yeah yeah
+No, you can't cry
+No, you can't cry
+Yeah yeah yeah yeah yeah...
+No no no...
+You can't cry
+You can't cry pretty, baby, oh yeah
+
+No, you can't cry pretty...
+
+
 

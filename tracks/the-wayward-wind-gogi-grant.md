@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-wayward-wind-gogi-grant
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/thewaywardwind.html
 name: The Wayward Wind
 rankings:
 - end_date: '1961-04-30'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
 ---
+
+Oh, the wayward wind is a restless wind
+A restless wind that yearns to wander
+And he was born the next of kin
+The next of kin to the wayward wind
+
+In a lonely shack by a railroad track
+He spent his younger days
+And I guess the sound of the outward-bound
+Made him a slave to his wandering ways
+
+And the wayward wind is a restless wind
+A restless wind that yearns to wander
+And he was born the next of kin
+The next of kin to the wayward wind
+
+Oh, I met him there in a border town
+He vowed we'd never part
+Though he tried his best to settle down
+I'm now alone with a broken heart
+
+And the wayward wind is a restless wind
+A restless wind that yearns to wander
+And he was born the next of kin
+The next of kin to the wayward wind
+
+Oh, the wayward wind is a restless wind
+A restless wind that yearns to wander
+And he was born the next of kin
+The next of kin to the wayward wind
+
+
 

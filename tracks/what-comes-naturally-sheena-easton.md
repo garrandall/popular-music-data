@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-comes-naturally-sheena-easton
+lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/whatcomesnaturally.html
 name: What Comes Naturally
 rankings:
 - end_date: '1991-04-05'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
 ---
+
+Lets get together and do what comes naturally
+
+I've been holding back my love for such a long time
+Nobody's come along that I would want to call mine
+My phone's been ringing but my heart it just won't answer
+I can't pretend cause it's love I'm after
+
+I've been lookin'
+I was not prepared for what I saw in your eyes
+I saw something I've been looking for a long time
+Lets get together
+We just me but I know that you're no stranger
+I can tell that my hearts in danger
+
+
+I've been lookin' for you
+You've been lookin' for me
+Lets get together and do what comes naturally
+There's a time to be wild
+There's a time to be free
+Lets get together and do what comes naturally
+
+I could play hard to get but what good would that do me
+You'd look into my eyes and you would see right through me
+This is a powerful feeling that were feelin'
+I can't deny its my heart you're stealin'
+
+I've been lookin'
+I want to tell you now, I am not afraid
+I'll let the walls come down, tonight I'm feelin' brave
+Been lookin' for you
+You've been lookin' for me, you've been lookin' for me
+Baby set your love free, set your love free
+Lets get together and do what comes naturally
+
+
+
+
 

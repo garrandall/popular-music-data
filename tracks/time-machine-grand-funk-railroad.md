@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-machine-grand-funk-railroad
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/timemachine.html
 name: Time Machine
 rankings:
 - end_date: '1969-10-03'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
 ---
+
+Well, hey there baby, do you want to make the scene?
+I said, hey there baby, do you want to make the scene?
+Aw, well, come on over baby, step into my time machine
+
+You better jump into my action, I'm gonna' make you feel right
+Aw, jump into my action, I'm gonna' make you feel right
+Don't worry 'bout tomorrow 'cause I'm gonna love you tonight
+
+Step into the front row, I'm gonna' show you how
+Step into the front row, I wanna' show you how
+Don't worry 'bout no time we can always come back to right now
+Aw, I'm gonna give it to you
+
+When you wanna come back, we just turn about
+When you wanna come back, we just turn about
+But we ain't gonna come back, till there ain't no doubt
+
+Now don't it get good to you? Do you know what I mean?
+Said, don't it get good to you? Don't you know what I mean?
+Well, come on over baby, jump into my time machine
+
+
 

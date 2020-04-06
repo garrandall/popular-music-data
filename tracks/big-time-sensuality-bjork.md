@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-time-sensuality-bjork
+lyrics_url: https://www.azlyrics.com/lyrics/bjork/bigtimesensuality.html
 name: Big Time Sensuality
 rankings:
 - end_date: '1994-02-18'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
 ---
+
+i can sense it 
+something important
+is about to happen 
+it's coming up
+
+it takes courage to enjoy it
+the hardcore and the gentle
+big time sensuality
+
+we just met 
+and i know i'm a bit too intimate
+but something huge is coming up
+and we're both included
+
+it takes courage to enjoy it
+the hardcore and the gentle
+big time sensuality
+
+i don't know my future after this weekend
+and i don't want to
+
+it takes courage to enjoy it
+the hardcore and the gentle
+big time sensuality
+
+
 

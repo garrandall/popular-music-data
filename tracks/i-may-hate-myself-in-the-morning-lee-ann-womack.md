@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-may-hate-myself-in-the-morning-lee-ann-womack
+lyrics_url: https://www.azlyrics.com/lyrics/leeannwomack/imayhatemyselfinthemorning.html
 name: I May Hate Myself In The Morning
 rankings:
 - end_date: '2005-02-04'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
 ---
+
+Ain't it just like one of us
+To pick up the phone and call after a couple drinks
+Say how ya been I've been wondering if maybe you've been thinking 'bout me
+And somewhere in the conversation
+An ole familiar invitation always arrives
+I may hate myself in the morning
+But I'm gonna love you tonight
+
+Everyone's known someone that they just can't help but want
+Even though we just can't make it work out
+Well the want to lingers on
+So once again we wind up in each other's arms pretending that it's right
+I may hate myself in the morning
+But I'm gonna love you tonight
+
+I know it's wrong
+But it ain't easy moving on
+So why can't two friends
+Remember the good times once again
+
+Tomorrow when I wake up I'll be feeling a little guilty, a little sad
+Thinking how it used to be before everything went bad
+I guess that's what is
+In lonely late night calls like this that we try to find
+I may hate myself in the morning but I'm gonna love you tonight
+
+I may hate myself in the morning but I'm gonna love you tonight
+
+
 

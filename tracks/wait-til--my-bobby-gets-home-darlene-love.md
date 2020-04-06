@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wait-til--my-bobby-gets-home-darlene-love
+lyrics_url: https://www.azlyrics.com/lyrics/darlenelove/waittilmybobbygetshome.html
 name: Wait Til' My Bobby Gets Home
 rankings:
 - end_date: '1963-07-26'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
 ---
+
+You've been calling on me every day
+Ever since my Bobby went away
+You've been knocking on my front door
+And I know just what you're looking for
+But, even though you really look so fine
+And we could have a good time
+
+I'm gonna wait till my Bobby gets home
+Wait till my baby gets home
+Yeah, yeah, yeah, you better leave me alone
+Sure I need some lovin' and a-kissin' and a-huggin'
+Gonna wait until my Bobby gets home
+
+You wanna take me to a movie show
+I gotta tell you that I just can't go
+I know Bobby's gonna call tonight
+I wanna tell him evey thing's all right
+So, though I haven't got a thing to do
+And I'm so lonely and blue
+
+I'm gonna wait till my Bobby gets home
+Wait till my baby gets home
+Yeah, yeah, yeah, you better leave me alone
+Sure I need some lovin' and a-kissin' and a-huggin'
+Gonna wait until my Bobby gets home
+
+I'm gonna wait till my Bobby gets home
+Wait till my baby gets home
+Oh, yeah, yeah, yeah, you better leave me alone
+Sure I need some lovin' and a-kissin' and a-huggin'
+Gonna wait until my Bobby gets home
+
+Whuh, oh - wait until my Bobby gets home
+Whuh, oh - wait until my Bobby gets home
+
+
+
 

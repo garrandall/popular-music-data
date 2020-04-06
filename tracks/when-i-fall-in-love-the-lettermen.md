@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-fall-in-love-the-lettermen
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/whenifallinlove.html
 name: When I Fall In Love
 rankings:
 - end_date: '1961-11-26'
@@ -63,4 +64,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
 ---
+
+When I fall in love it will be forever
+Or I'll never fall in love
+In a restless world like this is
+Love is ended before it's begun
+And too many moonlight kisses
+Seem to cool in the warmth of the sun
+
+When I give my heart it will be completely
+Or I'll never give my heart
+And the moment I can feel that you feel that way too
+Is when I fall in love with you.
+When I fall in love with you.
+
+
 

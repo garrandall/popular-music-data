@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: contact-edwin-starr
+lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/contact.html
 name: Contact
 rankings:
 - end_date: '1979-02-16'
@@ -35,4 +36,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
 ---
+
+Contact!
+
+Across the crowded disco-room
+You're amazed of dancing people
+She sets a fire there all alone
+Wanna get you the disco-fever
+
+And if she raised her head her eyes caught mine
+And that was all that I needed
+In her eyes I saw the need for love
+The warm, soft feeling
+'Cause we made
+
+Eye to eye contact
+Eye to eye contact (Oh, oh, oh yeah)
+Eye to eye contact (We made)
+Eye to eye contact
+You and me
+
+Contact!
+You were looking at me
+I was looking at you
+You were looking at me
+
+Across the crowded disco-room
+Oh, your eyes told me the story
+My heart was beating like the drum
+As I walked my way over
+
+I never took my eyes away from yours
+Not even for a moment
+What I saw in your eyes made me realize
+(You I wanted) Yeah, yeah, yeah!
+
+Eye to eye contact (We made)
+Eye to eye contact (Oh, oh, oh yeah)
+Eye to eye contact (We made)
+Eye to eye contact
+You and me
+
+I was looking at you
+You were looking at me
+I was looking at you
+You were looking at me
+
+Contact!
+
+I was looking at you
+You were looking at me
+I was looking at you
+You were looking at me
+
+
 

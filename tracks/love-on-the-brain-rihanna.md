@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-on-the-brain-rihanna
+lyrics_url: https://www.azlyrics.com/lyrics/rihanna/loveonthebrain.html
 name: Love On The Brain
 rankings:
 - end_date: '2016-06-17'
@@ -131,4 +132,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
 ---
+
+And you got me like oh
+What you want from me?
+(What you want from me?)
+And I tried to buy your pretty heart, but the price too high
+Baby, you got me like oh, mm
+You love when I fall apart, fall apart
+So you can put me together
+And throw me against the wall
+
+Baby, you got me like i-i-i-i-i-i-i-i-i-hiii, woo i-i-i-i-i-i-i-i-i-hiii
+Don't you stop loving me, loving me
+Don't quit loving me, loving me
+Just start loving me, loving me
+
+Oh, and, babe, I'm fist-fighting with fire
+Just to get close to you
+Can we burn something, babe?
+And I run for miles just to get a taste
+Must be love on the brain
+That's got me feeling this way (feeling this way)
+It beats me black and blue but it fucks me so good
+And I can't get enough
+Must be love on the brain, yeah
+And it keeps cursing my name (cursing my name)
+No matter what I do
+I'm no good without you
+And I can't get enough
+Must be love on the brain
+
+Baby keep loving me
+Just love me, yeah
+Just love me
+All you need to do is love me yeah
+Got me like ah-ah-ah-ow
+I'm tired of being played like a violin
+What do I gotta do to get in your motherfuckin' heart?
+
+Baby like i-i-i-i-i-i-i-i-i-hiii, woo i-i-i-i-i-i-i-i-i-hiii
+Don't you stop loving me, loving me
+Don't quit loving me, loving me
+Just start loving me, loving me
+
+Oh, and, babe, I'm fist-fighting with fire
+Just to get close to you
+Can we burn something, babe?
+And I run for miles just to get a taste
+Must be love on the brain
+That's got me feeling this way (feeling this way)
+It beats me black and blue but it fucks me so good
+And I can't get enough
+Must be love on the brain
+And it keeps cursing my name (cursing my name)
+No matter what I do
+I'm no good without you
+And I can't get enough
+Must be love on the brain
+
+
 

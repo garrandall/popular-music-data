@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doggin--around-jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/dogginaround.html
 name: Doggin' Around
 rankings:
 - end_date: '1960-04-10'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
 ---
+
+You better stop, yeah, doggin' me around
+If don't you stop, yeah, I'm gonna put you down
+
+Cause, I can't take it
+Much longer
+My heart's getting weak,
+It's not getting any stronger
+You keep me so upset,
+My head's in a whirl,
+But if you wanna be my girl
+
+You better stop, yeah, doggin' me around
+Cause if you don't stop, I'm gonna put you down
+
+Now you know you go out nights,
+To have yourself a ball
+Sometimes you don't, you don't make it home at all
+I don't mind you having yourself a real good time,
+But now what are you tryna do, tryna make me loose my mind
+
+You better stop, yeah, doggin' me around
+If you don't stop, I'm gonna put you down
+Yes, put you down
+I don't want to do it, but I'll have to put you down
+I love you baby, but still, I'll put you down...
+
+
 

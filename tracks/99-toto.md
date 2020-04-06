@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 99-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/99.html
 name: '99'
 rankings:
 - end_date: '1979-12-28'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
 ---
+
+99
+I've been waiting so long
+Oh 99
+Where did we go wrong
+Oh 99
+I love you
+
+99
+I keep breaking your heart
+Oh 99
+How can we be apart
+Oh 99
+I love you
+
+I never thought it would happen
+I feel quite the same
+I don't want to hurt you anymore
+I never knew it would work out
+No one to blame
+You know i love you 99
+
+99
+You keep holding my hand
+Oh 99
+They don't know who i am
+Oh 99
+I love you
+
+I never thought it would happen
+I feel quite the same
+I don't want to hurt you anymore
+I never knew it would work out
+No one to blame
+You know i love you 99
+
+99
+I can't take it no more
+Oh 99
+Oh we were so sure
+Oh 99
+I love you
+
+I never thought it would happen
+I feel quite the same
+I don't want to hurt you anymore
+I never knew it would work out
+No one to blame
+You know i love you 99
+
+
 

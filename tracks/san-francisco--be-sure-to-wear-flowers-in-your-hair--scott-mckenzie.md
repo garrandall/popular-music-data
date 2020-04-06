@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: san-francisco--be-sure-to-wear-flowers-in-your-hair--scott-mckenzie
+lyrics_url: https://www.azlyrics.com/lyrics/scottmckenzie/sanfranciscobesuretowearflowersinyourhair.html
 name: San Francisco (Be Sure To Wear Flowers In Your Hair)
 rankings:
 - end_date: '1967-06-02'
@@ -55,4 +56,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+
+If you're going to San Francisco
+Be sure to wear some flowers in your hair
+If you're going to San Francisco
+You're gonna meet some gentle people there
+
+For those who come to San Francisco
+Summertime will be a love-in there
+In the streets of San Francisco
+Gentle people with flowers in their hair
+
+All across the nation
+Such a strange vibration
+People in motion
+
+There's a whole generation
+With a new explanation
+People in motion
+People in motion
+
+For those who come to San Francisco
+Be sure to wear some flowers in your hair
+If you come to San Francisco
+Summertime will be a love-in there
+
+If you come to San Francisco
+Summertime will be a love-in there
+
+
 

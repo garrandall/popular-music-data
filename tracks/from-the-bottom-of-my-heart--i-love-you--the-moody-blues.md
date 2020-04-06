@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: from-the-bottom-of-my-heart--i-love-you--the-moody-blues
+lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/fromthebottomofmyheart.html
 name: From The Bottom Of My Heart (I Love You)
 rankings:
 - end_date: '1965-06-11'
@@ -19,4 +20,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+
+I can't be with you anymore
+In love with you
+You gotta realise, baby
+There ain't nowhere
+I can find love anymore
+That I can criticize 
+From the bottom of my heart
+I really love you
+Yes, I do now
+It didn't take too long
+To be sure
+From the bottom of my heart
+I really do
+
+Things you do I admire
+And I'm in love with you
+You gotta realise, baby
+Everyday our love grows
+Higher and higher
+I find no fault in you
+I can criticize 
+From the bottom of my heart
+I really love you
+Yes, I do now
+It didn't take too long to be sure
+From the bottom of my heart
+I really do
+
+Now don't you ever go away
+Without you
+I just don't know
+Where to start
+I'm asking you to stay
+And, baby, you know I've said it
+From the bottom of my heart
+
+It's so good
+That I know
+And I'm in love with you
+All you gotta realise baby
+As day by day
+Our love will grow
+I find no fault in you
+I can criticize 
+From the bottom of my heart
+I really love you
+Yes, I do now
+It didn't take too long
+To be sure
+From the bottom of my heart
+I really do
+Oh, I really do love you
+I really do love you, babe
+
+
 

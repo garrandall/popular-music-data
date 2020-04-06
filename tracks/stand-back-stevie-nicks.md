@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-back-stevie-nicks
+lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/standback.html
 name: Stand Back
 rankings:
 - end_date: '1983-06-10'
@@ -83,4 +84,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
 ---
+
+No one looked
+I walked by
+Just an invitation would have been just fine
+Said no to him again and again
+First he took my heart then he ran
+
+No one knows how I feel
+What I say unless you read between my lines
+One man walked away from me
+First he took my hand
+Take me home
+
+(Stand back, stand back)
+In the middle of my room
+I did not hear from you
+It's alright, it's alright
+To be standing in a line
+(Standing in a line)
+To be standing in a line
+I would cry
+
+La, la, la-la, la, la, laaa, la-la
+La, laaaa
+La, la, la-la, laaaaa
+
+Do not turn away my friend
+Like a willow I can bend
+No man calls my name
+No man came
+
+So I walked on down away from you
+Maybe your attention was more
+Than you could do
+But one man did not call
+He asked me for my love
+And that was all
+
+(Stand back, stand back)
+In the middle of my room
+I did not hear from you
+It's alright, it's alright
+To be standing in a line
+(Standing in a line)
+To be standing in a line
+I would cry
+
+La, la, la-la, la, la, laaa, la-la
+La, laaaa
+La, la, la-la, la, la, laaaaa
+Too few, too few
+Laaaaa
+La, la, la-la, la, la, laaa, la-la
+La, la, laaaa
+La, la, la-la, laaaaaa
+
+So I walked, walked down the line
+Away from you
+Maybe your attention was more
+Than I could do
+One man did not fall
+Well, he asked me for my love
+That was all
+
+(Stand back, stand back)
+In the middle of my room
+I did not hear from you
+It's alright, it's alright
+To be standing in a line
+(Standing in a line)
+To be standing in a line
+I could cry
+I need a little sympathy
+Well, I need a little sympathy
+Well, I need to be standing in
+(Stand back)
+Well, I need to be standing in
+(Stand back)
+Well, I need to be standing in
+(Stand back)
+Take me home
+Take me home
+(Stand back)
+Don't you take me home
+Well, I need a little sympathy
+(Stand back)...
+
+
 

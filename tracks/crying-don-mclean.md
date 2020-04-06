@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crying-don-mclean
+lyrics_url: https://www.azlyrics.com/lyrics/donmclean/crying.html
 name: Crying
 rankings:
 - end_date: '1981-01-30'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+
+I was alright for a while
+I could smile for a while
+But when I saw you last night
+You held my hand so tight
+When you stopped to say 'hello'
+And though you wished to me well
+you couldn't tell
+
+That I'd been
+Crying, over you
+Crying, over you
+
+Then you said so long
+Left me standing all alone
+Alone and crying.
+Crying
+Crying
+Crying
+
+It's hard to understand
+That the touch of your hand
+Can start me crying
+
+I thought that I, was over you
+But it's true, so true
+I love you even more, than I did before
+But, darling, what can I do
+
+While you don't love me
+And I'll always be
+Crying, over you
+Crying, over you
+
+Yes, now you're gone
+And from this moment on
+I'll be crying
+(crying)
+Crying
+(crying)
+Crying
+(crying)
+Crying over you
+Over you
+Over you
+
+
 

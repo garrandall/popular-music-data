@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hypnotize-system-of-a-down
+lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/hypnotize.html
 name: Hypnotize
 rankings:
 - end_date: '2005-11-11'
@@ -67,4 +68,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
 ---
+
+Why don't you ask the kids at Tienanmen square?
+Was fashion the reason why they were there?
+
+They disguise it, hypnotize it
+Television made you buy it
+
+I'm just sitting in my car and waiting for my
+
+She's scared that I will take her away from there
+Dreams that her country left with no one there
+
+Mesmerize the simple minded
+Propaganda leaves us blinded
+
+I'm just sitting in my car and waiting for my girl
+I'm just sitting in my car and waiting for my girl
+
+I'm just sitting in my car and waiting for my girl
+I'm just sitting in my car and waiting for my girl
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vitamin-r--leading-us-along--chevelle
+lyrics_url: https://www.azlyrics.com/lyrics/chevelle/vitaminrleadingusalong.html
 name: Vitamin R (Leading Us Along)
 rankings:
 - end_date: '2004-11-26'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
 ---
+
+Some will learn; many do.
+Cover up or spread it out.
+Turn around, had enough,
+Pick and choose or pass it on.
+Buying in, heading for
+Suffer now or suffer then.
+It's bad enough
+I want the fear... need the fear
+
+
+Cause he's alone (he has become)
+He's alone (he has become)
+
+
+Well if they're making it, making it
+Then they're pushing it, pushing it
+And they're leading us along
+The hassle of all the screaming fits
+That panic makes remorse
+
+After all, what's the point?
+Course levitation is possible.
+If you're a fly; achieved and gone
+Theres time for this and so much more.
+It's typical - create a world
+A special place of my design
+To never cope or never care just use the key
+
+
+Cause he's alone (he has become)
+He's alone (he has become)
+
+
+
+Over and Over a slave
+Became
+Over and Over a slave
+Became
+Over and Over a slave
+Became
+Over and Over a slave
+Became
+
+
+
+
 

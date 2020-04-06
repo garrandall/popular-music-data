@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-through-your-eyes-leann-rimes
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/lookingthroughyoureyes.html
 name: Looking Through Your Eyes
 rankings:
 - end_date: '1998-04-24'
@@ -103,4 +104,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
 ---
+
+Look at the sky
+Tell me what do you see
+Just close your eyes
+And describe it to me
+The heavens are sparkling
+With starlight tonight
+That's what I see
+Through your eyes
+I see the heavens
+Each time that you smile
+I hear your heartbeat
+Just go on for miles
+And suddenly I know
+My life is worth while
+That's what I see
+Through your eyes
+
+Here in the night
+I see the sun
+Here in the dark
+Our two hearts are one
+It's out of our hands
+We can't stop what we have begun
+And love just took me by surprise
+Looking through your eyes
+I look at myself
+And instead I see us
+Whoever I am now
+It feels like enough
+And I see a girl
+Who is learning to trust
+That's who I see through your eyes
+
+And there are some things we don't know
+Sometimes a heart just needs to go
+And there is so much I'll remember
+Underneath the open sky with you forever
+
+
+
 

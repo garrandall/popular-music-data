@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eight-miles-high-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/eightmileshigh.html
 name: Eight Miles High
 rankings:
 - end_date: '1966-04-15'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
 ---
+
+Eight miles high and when you touch down
+You'll find that it's stranger than known
+Signs in the street that say where you're going
+Are somewhere just being their own
+
+Nowhere is there warmth to be found
+Among those afraid of losing their ground
+Rain gray town known for its sound
+In places small faces unbound
+
+Round the squares huddled in storms
+Some laughing some just shapeless forms
+Sidewalk scenes and black limousines
+Some living, some standing alone
+
+
 

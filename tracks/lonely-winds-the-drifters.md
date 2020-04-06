@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-winds-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/lonelywinds.html
 name: Lonely Winds
 rankings:
 - end_date: '1960-05-29'
@@ -43,4 +44,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
 ---
+
+Lonely wind, lonely wind
+Lonely wind, lonely wind
+
+Lonely wind
+(Lonely winds)
+Keep right on blowing, whoa
+Lonely wind
+(Lonely winds)
+You know where my baby's going
+
+I said won't you bring
+(Bring)
+Woah, bring
+(Bring)
+Yeah, I ask you to bring now
+(Bring)
+Whoa, you bring
+(Bring)
+
+Yeah, I want you to bring my, my, my
+My-my-my little bitty girly on home to me
+(Lonely wind, lonely wind)
+
+Lonely wind
+(Lonely winds)
+I'm all alone sighing, whoa
+Lonely wind
+(Lonely winds)
+Can't help from crying
+
+I said now blow
+(Blow)
+Yeah, I asked you to blow
+(Blow)
+Whoa, I asked you to blow now
+(Blow)
+Yeah, I want you to blow
+(Blow)
+
+Yeah, I want you to blow my, my
+My little, little, my little, little girly on home to me
+(Lonely wind, lonely wind)
+
+Lonely wind
+(Lonely winds)
+I'm all alone moaning, whoa
+Lonely wind
+(Lonely winds)
+Oh, I'm so lonely
+
+I said won't you bring?
+(Bring)
+Woah, bring
+(Bring)
+Yeah, I ask you to bring now
+(Bring)
+Whoa, you bring
+(Bring)
+
+Yeah, please bring my, my, my
+My-my-my little bitty girly back home to me
+
+(Lonely winds)
+Keep a-right on blowing
+(Lonely winds)
+Keep a-right on blowing
+
+(Lonely winds)
+Keep a-right on blowing
+(Lonely winds)
+Yeah, yeah
+
+(Lonely winds)
+Yeah, yeah, yeah, yeah
+(Lonely winds)
+Yeah, yeah, yeah
+
+(Lonely winds)
+Yeah, yeah, yeah, yeah
+(Lonely winds)
+Yeah, yeah, yeah, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-bitty-pretty-one-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/littlebittyprettyone.html
 name: Little Bitty Pretty One
 rankings:
 - end_date: '1972-04-28'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
 ---
+
+Little bitty pretty one
+Come on and talk to me
+Lovey dovey lovely one
+Come sit down on my knee
+
+I can tell you a story
+That happened a long time ago
+Little bitty pretty one
+I've been watching you grow
+
+Little bitty pretty one
+Come on and talk to me
+Lovey dovey lovely one
+Come sit down on my knee
+
+Come on everybody
+Let's put our hands together and sing along
+Come on, come on
+I'm saying
+Come on
+
+I can tell you a story
+That happened a long time ago
+Little bitty pretty one
+I've been watching you grow
+
+
 

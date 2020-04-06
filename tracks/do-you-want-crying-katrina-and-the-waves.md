@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-crying-katrina-and-the-waves
+lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/doyouwantcrying.html
 name: Do You Want Crying
 rankings:
 - end_date: '1985-08-02'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+
+So long now
+Since you walked and left me
+Why did your love grow cold?
+Don't you think you need me?
+
+I see that smile, it's your face
+I feel you holding on and on
+I hear your voice, it's saying bye bye love
+I count my teardrops as they fall
+
+Do you want crying?
+Look, I'm crying
+Do you want crying?
+Oh, oh, oh
+You've got me crying
+You've got me crying
+Do you want crying?
+
+So long now
+Since you walked and left me
+Why did your love grow cold?
+Don't you think you need me?
+
+Do you want crying?
+Look, I'm crying
+Do you want crying?
+Oh, oh, oh
+You've got me crying
+You've got me crying
+Do you want crying?
+Oh, oh, oh, yeah
+Do you want crying?
+Look, I'm crying
+Do you want crying?
+
+Do you want crying?
+Look, I'm crying
+Do you want crying?
+Oh, oh, oh
+You've got me crying
+You've got me crying
+Do you want crying?
+Oh, oh, oh, yeah
+Do you want crying?
+Look, I'm crying
+Do you want crying?
+Oh, oh, oh
+
+
 

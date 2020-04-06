@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chevy-van-sammy-johns
+lyrics_url: https://www.azlyrics.com/lyrics/sammyjohns/chevyvan.html
 name: Chevy Van
 rankings:
 - end_date: '1975-02-07'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
 ---
+
+I gave a girl a ride in my wagon
+She crawled in and took control
+She was tired as her mind was draggin'
+I said get some sleep and dream of rock and roll
+
+'Cause like a picture she was laying there
+Moonlight dancing off her hair
+She woke up and took me by the hand
+She's gonna love me in my Chevy van
+And that's all right with me
+
+Her young face was like that of an angel
+Her long legs were tanned and brown
+Better keep your eyes on the road, son
+Better slow this vehicle down
+
+'Cause like a picture she was laying there
+Moonlight dancing off her hair
+She woke up and took me by the hand
+She's gonna love me in my Chevy van
+And that's all right with me
+
+I put her out in a town that was so small
+You could throw a rock from end to end
+A dirt road main street, she walked off in bare feet
+It's a shame I won't be passin' through again
+
+'Cause like a picture she was laying there
+Moonlight dancing off her hair
+She woke up and took me by the hand 
+We made love in my Chevy van
+And that's all right with me
+
+'Cause like a picture she was laying there
+Moonlight dancing off her hair
+She woke up and took me by the hand 
+We made love in my Chevy van
+And that's all right with me
+
+'Cause like a picture she was laying there
+Moonlight dancing off her hair
+She woke up and took me by the hand 
+We made love in my Chevy van
+
+
 

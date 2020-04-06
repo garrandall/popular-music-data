@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-love-ace-of-base
+lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/momentofmagic.html
 name: Lucky Love
 rankings:
 - end_date: '1996-03-01'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
 ---
+
+Music's in the air
+They're all on their way to meet
+With expectations
+Everybody takes the highway to happiness today
+I'm falling for you
+
+Green grass and empty chairs
+I am preparing a party
+I do it for you
+So slow I welcome you
+It's a moment of magic
+
+Cold champagne on ice
+I will always drink to you
+Hope you will notice
+What everybody knows
+That I am in love with you tonight
+
+Green grass and empty chairs
+I am preparing a party
+I do it for you
+So slow I welcome you
+It's a moment of magic
+A moment of magic
+
+Green grass and empty chairs
+I am preparing a party
+I do it for you
+So slow I welcome you
+It's a moment of magic
+A moment of magic
+
+(Moments of magic)
+I don't know how I dare
+As always be cautious
+Is out of the question
+
+I don't believe in lucky stars
+I never had the answers oh-oh
+You could restore my faith in truth
+Change my vision
+
+Green grass and empty chairs
+I am preparing a party
+I do it for you
+So slow I welcome you
+It's a moment of magic
+A moment of magic
+
+
 

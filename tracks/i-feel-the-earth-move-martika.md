@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-feel-the-earth-move-martika
+lyrics_url: https://www.azlyrics.com/lyrics/martika/ifeeltheearthmove.html
 name: I Feel The Earth Move
 rankings:
 - end_date: '1989-09-08'
@@ -51,4 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
 ---
+
+Oh baby when I see your face
+Mellow as the month of May
+Oh darling I cant stand it
+When you look at me that way
+
+I feel the earth move under my feet
+I feel the sky tumbling down tumbling down
+I feel my heart start to trembling
+Whenever you're around
+
+Oh darling when I'm near you
+And you tenderly call my name
+I know that, My emotions
+Are something I just cant explain
+Ive just got to have you baby
+Ooh yeah, ooh ooh yeah yeah
+
+I feel the earth move under my feet
+I feel the sky tumbling down tumbling down
+I feel my heart start to trembling
+Whenever you're around
+
+
 

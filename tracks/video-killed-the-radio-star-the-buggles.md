@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: video-killed-the-radio-star-the-buggles
+lyrics_url: https://www.azlyrics.com/lyrics/walkofftheearth/videokilledtheradiostar.html
 name: Video Killed The Radio Star
 rankings:
 - end_date: '1979-11-16'
@@ -47,4 +48,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+
+I heard you on the wireless back in '52
+Lying awake intently tuning in on you
+If I was young it didn't stop you coming through
+Oh-a-oh
+
+They took the credit for your second symphony
+Rewritten by machine on new technology
+And now I understand the problems you can see
+
+Oh-a-oh
+I met your children
+Oh-a-oh oh oh oh
+What did you tell them?
+
+Video killed the radio star
+Video killed the radio star
+Pictures came and broke your heart
+Oh-a-a-a oh
+
+And now we meet in an abandoned studio
+We hear the playback and it seems so long ago
+And you remember the jingles used to go:
+
+Oh-a-oh
+You were the first one
+Oh-a-oh oh oh oh
+You were the last one
+
+Video killed the radio star
+Video killed the radio star
+In my mind and in my car
+We can't rewind, we've gone too far
+
+Video killed the radio star
+Video killed the radio star
+In my mind and in my car
+We can't rewind, we've gone too far
+And pictures came and broke your heart
+Put down the blame on VCR...
+
+You are the radio star
+You are the radio star
+Video killed the radio star
+Video killed the radio star
+(You are the radio star)
+Video killed the radio star
+Video killed the radio star
+(You are the radio star)
+Video killed the radio star
+Video killed the radio star
+(You are the radio, you are the radio star)
+Video killed the radio star
+Video killed the radio star
+(The radio star)
+Video killed the radio star
+Video killed the radio star
+(The radio star)
+
+Oh-a-oh, oh-a-oh...
+
+
 

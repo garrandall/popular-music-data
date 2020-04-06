@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stray-cat-strut-stray-cats
+lyrics_url: https://www.azlyrics.com/lyrics/straycats/straycatstrut.html
 name: Stray Cat Strut
 rankings:
 - end_date: '1982-12-31'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
 ---
+
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+
+Black and orange stray cat sittin' on a fence 
+Ain't got enough dough to pay the rent 
+I'm flat broke, but I don't care 
+I strut right by with my tail in the air 
+
+Stray cat strut, I'm a (Ladies' cat)
+I'm a feline Casanova (Hey, man, that's where it's at) 
+Get a shoe thrown at me from a mean old man 
+Get my dinner from a garbage can 
+
+Meow
+Yeah, don't cross my path 
+
+I don't bother chasing mice around, oh, no
+I slink down the alley looking for a fight 
+Howling to the moonlight on a hot summer night 
+Singin' the blues while the lady cats cry
+"Wild stray cat, you're a real gone guy
+I wish I could be as carefree and wild
+But I got cat class, and I got cat style"
+
+I don't bother chasing mice around
+I slink down the alley looking for a fight 
+Howling to the moonlight on a hot summer night 
+Singin' the blues while the lady cats cry
+"Wild stray cat, you're a real gone guy
+I wish I could be as carefree and wild
+But I got cat class, and I got cat style"
+
+Meow
+
+
 

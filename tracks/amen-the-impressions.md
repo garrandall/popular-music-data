@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amen-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/amen.html
 name: Amen
 rankings:
 - end_date: '1964-11-27'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+
+Amen, amen, amen, amen, amen
+Sing it over
+Amen, amen, amen, amen, amen
+See the little baby
+Wrapped in a manger
+On Christmas morning
+
+Singing in a temple
+Talking with the elders
+Tomorrow there's wisdom
+
+Amen, amen, amen, amen, amen
+Hallelujah
+Amen, amen, amen, amen, amen
+Down at the Jordan
+John was baptizing
+And saving all sinners
+
+See him at the seaside
+Talking with the fisherman
+And made them disciples
+
+Amen, amen, amen, amen, amen
+Keep on pushin' now
+Amen, amen, amen, amen, amen
+Hallelujah now
+Amen, amen, amen, amen, amen
+
+
 

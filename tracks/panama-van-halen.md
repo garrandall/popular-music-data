@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: panama-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/panama.html
 name: Panama
 rankings:
 - end_date: '1984-06-29'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
 ---
+
+Jump back, what's that sound?
+Here she comes, full blast and top down
+Hot shoe, burnin' down the avenue
+Model citizen, zero discipline
+Don't you know she's coming home with me
+You'll lose her in the turn
+I'll get her
+
+Panama, Panama
+Panama, Panama
+
+Ain't nothin' like it, her shiny machine
+Got the feel for the wheel, keep the moving parts clean
+Hot shoe, burnin' down the avenue
+Got an on ramp comin' through my bedroom
+Don't you know she's coming home with me
+You'll lose her in the turn
+I'll get her
+
+Panama, Panama
+Panama, Panama
+
+Yeah, we're runnin' a little bit hot tonight
+I can barely see the road from the heat comin' off of it
+Ah, you reach down, between my legs and ease the seat back
+She's blinding, I'm flying
+Right behind the rear view mirror now
+Got the feeling, power steering
+Pistons popping, ain't no stopping now
+
+Panama, Panama
+Panama, Panama
+Panama, Panama
+Panama
+
+
 

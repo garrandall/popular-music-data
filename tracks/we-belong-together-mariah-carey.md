@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-belong-together-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/otwsadwebelongtogether.html
 name: We Belong Together
 rankings:
 - end_date: '2005-04-22'
@@ -179,4 +180,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
+
+Put it in drive, I'll be outside, I'll be on the way, I'll be on the way
+You can meet me in five, I'll be all night, I'll be all day, I'll be all day
+Put it in drive, I'll be outside, I'll be on the way, I'll be on the way
+You can meet me in five, I'll be all night, I'll be all day, I'll be all day
+
+Yeah, this the type of thing that you been waiting all year for
+Back in town for a minute if you with it
+Got a lot of time, I just need somewhere to spend it
+I just see a button and the top go missing
+I kept the slip so you know it's not rented, yeah, oh, oh
+What you wanna do?
+Worried 'bout your friends, they saw you this afternoon
+
+Girl you got me like
+I gave her everything
+She took my heart and left me lonely
+I think broken heart's contagious
+I won't fix, I'd rather weep
+I'm lost then I'm found
+But it's torture bein' in love
+I love it when you're around me
+But I really hate when you leave
+
+Who am I? Someone that's afraid to let go
+You decide if you're ever gonna let me know
+Suicide if you ever try to let go
+I'm sad, I know, yeah, I'm sad, I know
+Who am I? Someone that's afraid to let go
+You decide if you're ever gonna let me know
+Suicide if you ever try to let go
+I'm sad, I know, yeah, I'm sad, I know
+
+'Cause when you left I lost a part of me
+It's still so hard to believe
+Come back baby please
+'Cause we belong together
+Who else am I gon' lean on when times get rough?
+Who's going to talk to me on the phone 'til the sun comes up?
+Who's going to take your place? There ain't nobody better
+Oh, baby baby, we belong together
+
+Put it in drive, I'll be outside, I'll be on the way
+I know, yeah, I'm sad, I know
+Put it in drive, I'll be outside
+'Cause we belong together
+
+
 

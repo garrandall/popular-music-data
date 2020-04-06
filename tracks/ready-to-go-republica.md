@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-to-go-republica
+lyrics_url: https://www.azlyrics.com/lyrics/republica/readytogo.html
 name: Ready To Go
 rankings:
 - end_date: '1996-08-16'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-21'
 ---
+
+You're weird, in tears, too near and too far away
+He said, saw red, went home stayed in bed all day
+Your T-shirt, dish dirt
+Always love the one you hurt
+
+It's a crack, I'm back yeah standing
+On the rooftops shouting out
+Baby I'm ready to go
+I'm back and ready to go
+From the rooftops shout it out
+It's a crack, I'm back yeah standing
+On the rooftops having it
+Baby I'm ready to go
+I'm back and ready to go
+From the rooftops shout it out, shout it out
+
+You sleep, too deep, one week is another world
+Big mouth, big mouth, drop out, drop out
+You get what you deserve
+You're strange, insane, one thing you can never change
+
+It's a crack, I'm back yeah standing
+On the rooftops shouting out
+Baby I'm ready to go
+I'm back and ready to go
+From the rooftops shout it out
+It's a crack, I'm back yeah standing
+On the rooftops having it
+Baby I'm ready to go
+I'm back and ready to go
+From the rooftops shout it out, shout it out
+
+Abused, confused, always love the one that
+Hurt ya hurt ya hurt ya
+
+It's a crack, baby I'm ready to go
+Baby I'm ready to go
+
+
 

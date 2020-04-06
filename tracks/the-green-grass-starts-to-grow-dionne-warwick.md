@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-green-grass-starts-to-grow-dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/thegreengrassstartstogrow.html
 name: The Green Grass Starts To Grow
 rankings:
 - end_date: '1970-12-11'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
+
+The world outside your house is cold and windy
+The summer breeze becomes a winter storm
+And then you smile at me
+And almost instantly
+The weather turns warm
+
+Slowly the green grass starts to grow
+Softly the sunshine of your smile
+Melts the snow
+
+When I'm alone the streets are dark and cloudy
+I walk around not knowing danger of night
+And then you touch my hand
+That's all that happens
+And the whole world turns bright
+
+Slowly the green grass starts to grow
+Softly the sunshine of your smile
+Melts the snow
+
+To me you're everything that's true
+My world begins and it will end
+With only you
+Forever
+
+Slowly the green grass starts to grow
+Softly the sunshine of your smile
+Melts the snow
+
+Slowly the green grass starts to grow
+Softly the sunshine of your smile
+Melts the snow
+
+
 

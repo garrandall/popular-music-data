@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-thing-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/sweetthing.html
 name: Sweet Thing
 rankings:
 - end_date: '2008-12-05'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-04-11'
 ---
+
+When I picked you up for our first date baby
+Well, your pretty blue eyes, they were drivin' me crazy
+And the tiny little thought that was so amazing
+Is they were lookin at me.
+
+I held open the car door for you then you climbed
+Inside and slid on over
+To the other side.. I thought my, oh my..
+
+Sweet thing
+The moon is high and the night is young
+Come on and meet me
+In the backyard under the cottonwood tree
+It's a good thing and I'm wishin
+C'mon sweet thing
+Won't you climb on out of your window
+While the world is sleepin
+Cause you know I need you
+And there's no way I'll be leavin
+Til we're kissing on the porch swing
+Oh my little sweet thing
+
+Yeah I know I'm gonna see you first thing tomorrow
+But I just couldn't wait so I had to borrow
+Uncle jake's mustang, its his favorite car
+And so I can't stay long..
+
+Standin here feeling like a love struck romeo
+All I wanna do is hold you close and steal a little
+More time, is that such a crime?
+
+Sweet thing
+The moon is high and the night is young
+Come on and meet me
+In the backyard under the cottonwood tree
+It's a good thing and I'm wishin
+C'mon sweet thing
+Won't you climb on out of your window
+While the world is sleepin
+Cause you know I need you
+And there's no way I'll be leavin
+Til we're kissing on the porch swing
+Oh my little sweet thing
+
+Sweet thing, sweet thing..
+
+Oh my sweet thing
+The moon is high and the night is young
+Come on and meet me
+In the backyard under the cottonwood tree
+It's a good thing and tell me I'm not dreamin
+C'mon sweet thing
+Won't you climb on out of your window
+While the world is sleepin
+Cause you know I need you
+And there's no way I'll be leavin
+Til we're kissing on the porch swing
+Oh my little sweet thing
+
+Oh cmon sweet thing, sweet thing, sweet thing..
+
+Yeah, cmon now a little now..
+Do do do do doo do do do do do do
+Oh my little sweet thing, yes you are
+Do do do do doo do do do do do do
+
+
 

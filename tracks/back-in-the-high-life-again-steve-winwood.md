@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-in-the-high-life-again-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/backinthehighlifeagain.html
 name: Back In The High Life Again
 rankings:
 - end_date: '1987-06-05'
@@ -91,4 +92,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
 ---
+
+It used to seem to me
+That my life ran on too fast
+And I had to take it slowly
+Just to make the good parts last
+But when you're born to run
+It's so hard to just slow down
+So don't be surprised to see me
+Back in that bright part of town
+
+I'll be back in the high life again
+All the doors I closed one time will open up again
+I'll be back in the high life again
+All the eyes that watched me once will smile and take me in
+
+And I'll drink and dance with one hand free
+Let the world back into me
+And on I'll be a sight to see
+Back in the high life again
+
+You used to be the best
+To make life be life to me
+And I hope that you're still out there
+And you're like you used to be
+We'll have ourselves a time
+And we'll dance 'til the morning sun
+And we'll let the good times come in
+And we won't stop 'til we're done
+
+We'll be back in the high life again
+All the doors I closed one time will open up again
+We'll be back in the high life again
+All the eyes that watched us once will smile and take us in
+And we'll drink and dance with one hand free
+And have the world so easily
+And oh we'll be a sight to see
+Back in the high life again
+
+We'll be back in the high life again
+All the doors I closed one time will open up again
+We'll be back in the high life again
+All the eyes that watched us once will smile and take us in
+And we'll drink and dance with one hand free
+And have the world so easily
+And oh we'll be a sight to see
+Back in the high life again
+
+
 

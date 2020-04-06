@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-little-secret-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/xscape/mylittlesecret.html
 name: My Little Secret
 rankings:
 - end_date: '1998-10-30'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
 ---
+
+
+See baby you're my little secret,
+If you don't tell, I won't tell,
+And that's how we gotta keep it.
+
+
+
+Did anybody see you coming to my house last night?
+When I got your message on my beeper,
+That you wanna do everything I like,
+Alright, alright.
+
+
+I like being in the same room as you and your girlfriend.
+The fact that she don't know,
+That really turns me on.
+She'll never guess in a million years,
+That we've got this thing going on.
+
+
+You're my little secret,
+And that's how we should keep it.
+It's on everybody's mind, about you and I,
+They think so, but they don't really know.
+Or wanna know that,
+You're my little secret,
+And that's how we should keep it.
+We should never let 'em know,
+Never let it show.
+If you know, like I know,
+We should never let it go.
+
+
+If anybody knew that it was you and your house,
+That I was creepin' to all the time,
+I'd probably still do it,
+'Cause I find it hard to keep you off of my mind.
+
+
+
+
+Everybody cheats,
+But you gotta know how, you gotta know when,
+You gotta know why my infatuation with you,
+Is taking me on an emotional high.
+I'm caught all up in this love affair baby,
+Speculation will bring us stares.
+All my friends are asking me about it,
+Still the truth I can't reveal.
+
+
+
+As long as I'm right here,
+You ain't never gonna be by yourself.
+'Cause the love that we share,
+It stays on my mind,
+You're always gonna be a little secret of mine.
+
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kisses-down-low-kelly-rowland
+lyrics_url: https://www.azlyrics.com/lyrics/kellyrowland/kissesdownlow.html
 name: Kisses Down Low
 rankings:
 - end_date: '2013-03-29'
@@ -59,4 +60,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
 ---
+
+Right about now (yeah)
+
+You put in over time, over night, doing everything I like, go so right yeah
+You hold me close, squeeze me tight, look me deep inside my eyes, baby you know I love it
+But nothing can compare to when you kiss me there
+And I can't lie when I lie in your arms baby I feel so sexy
+
+So boy just take your time, send chills down my spine
+Youâre one of a kind, I swear I gotta make you mine
+
+Boy you turn me on, got me feeling hot
+Now I'm really going
+
+I like, I like, I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+Yeah, baby get a little rough that's okay
+Baby go ahead do your thang, ride on away
+And I love it when we misbehave
+Me and you together babe, we can do everything
+Boy, if somebody could see the way you kiss on me
+Oh they won't believe it, cause even I don't believe it but I love the way I'm feeling
+
+So boy just take your time, send chills down my spine
+Youâre one of a kind, I swear I gotta make you mine
+
+Boy you turn me on, got me feeling hot
+Now I'm really going
+
+I like, I like, I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+Speed it up, heat it up, let it go, let it go, let it go
+'Til I get, get enough, you never know, never know, never know
+I like that there, yeah that there,
+A little more to the left (yeah right there)
+
+So boy just take your time, send chills down my spine
+Youâre one of a kind, I swear I gotta make you mine
+
+Boy you turn me on, got me feeling hot
+Now I'm really going
+
+I like, I like, I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+I like my kisses down low
+Makes me arch my back
+When you give it to me slow
+Baby just like that
+
+She like her kisses down low
+Make her arch her back
+When you give it to her slow
+Baby just like that
+
+I like my kisses down low
+I like my kisses down low
+I like my, like my, I like my, like my...
+I like my kisses down low
+I like my, like my, I like my, like my...
+I like my kisses down low
+
+
 

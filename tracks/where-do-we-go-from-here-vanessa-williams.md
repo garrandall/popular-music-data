@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-do-we-go-from-here-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/wheredowegofromhere.html
 name: Where Do We Go From Here
 rankings:
 - end_date: '1996-07-19'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
 ---
+
+Life can be strange, somethings we forget
+Or rearrange in time, lose the past
+Tell me the truth, tell me how can I know
+That this new love of ours, that it's gonna last
+
+I need your strength and I feel your worth
+With you I feel protected from all harm
+
+Where do we go from here it's clear
+You erase the fear in me, that keeps me alone
+Where do we go from here I know
+No matter what the road, your love will lead me home
+
+What's in a name, his life just a game
+We color then erase (we've been erased), when we lose face
+How many lives, tell me how many tries
+Before we get it right (before we get it right), the truth is inside
+
+I need your strength and I feel your worth
+With you I feel protected from all harm
+
+Where do we go from here it's clear
+You erase the fear in me, that keeps me alone
+Where do we go from here I know
+No matter what the road, your love will lead me home
+
+When I never weak, so weak
+To scared to speak
+When I never low, so low
+To tell me, you will never need
+
+Where do we go from here it's clear
+You erase the fear in me, that keeps me alone
+Where do we go from here I know
+No matter what the road, your love will lead me home
+
+No matter what the road, your love will lead me home
+
+
 

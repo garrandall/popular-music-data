@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: animal-neon-trees
+lyrics_url: https://www.azlyrics.com/lyrics/neontrees/animal.html
 name: Animal
 rankings:
 - end_date: '2010-06-25'
@@ -151,4 +152,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
 ---
+
+Here we go again
+I kinda wanna be more than friends
+So take it easy on me
+I'm afraid
+You're never satisfied
+
+Here we go again
+We're sick like animals
+We play pretend
+You're just
+A cannibal
+And I'm afraid
+I won't get out alive
+No, I won't sleep tonight
+
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+Take a bite of my heart tonight
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+What are you waiting for?
+Say goodbye to my heart tonight
+
+Here we are again
+I feel the chemicals kickin' in
+It's getting heavy
+And I wanna run and hide
+I wanna run and hide
+
+I do it every time
+You're killin' me now
+And I won't be denied by you
+The animal inside of you
+
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+Take a bite of my heart tonight
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+What are you waiting for?
+Say goodbye to my heart tonight
+
+Hush, hush, the world is quiet
+Hush, hush, we both can't fight it
+It's us that made this mess
+Why can't you understand?
+Whoa, I won't sleep tonight
+I won't sleep tonight
+
+Here we go again 
+
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+Take a bite of my heart tonight
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+What are you waiting for?
+What are you waiting?
+
+Here we go again, oh, oh 
+Say goodbye to my heart tonight
+
+Oh oh
+I want some more
+Oh oh
+What are you waiting for?
+What are you waiting for?
+Say goodbye to my heart tonight
+
+
 

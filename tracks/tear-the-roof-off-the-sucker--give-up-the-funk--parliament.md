@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tear-the-roof-off-the-sucker--give-up-the-funk--parliament
+lyrics_url: https://www.azlyrics.com/lyrics/parliament/giveupthefunkteartheroofoffthesucker.html
 name: Tear The Roof Off The Sucker (Give Up The Funk)
 rankings:
 - end_date: '1976-05-21'
@@ -75,4 +76,137 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
 ---
+
+Tear the roof off, we're gonna tear the roof off the mother sucker
+Tear the roof off the sucker
+Tear the roof off, we're gonna tear the roof off the mother sucker
+Tear the roof off the sucker
+Tear the roof off, we're gonna tear the roof off the mother sucker
+Tear the roof off the sucker
+Tear the roof off, we're gonna tear the roof off the mother sucker
+Tear the roof off the sucker
+
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+
+We're gonna turn this mother out
+We're gonna turn this mother out
+
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+(Let us in, we'll tear this mother out)
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+(Let us in, we'll tear this mother out)
+We gotta have that funk
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+We gotta have that funk
+
+(We're gonna turn this mother out)
+Ow, we want the funk
+Give up the funk
+(We're gonna turn this mother out)
+Ow, we need the funk
+We gotta have that funk
+(We're gonna turn this mother out)
+Ow, we want the funk
+Give up the funk
+(We're gonna turn this mother out)
+Ow, we need the funk
+We gotta have that funk
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+(Let us in, we'll tear this mother out)
+We gotta have that funk
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+(Let us in, we'll tear this mother out)
+We gotta have that funk
+
+We want the funk
+Give up the funk
+We need the funk
+We gotta have that funk
+We want the funk
+Give up the funk
+We need the funk
+We gotta have that funk
+We want the funk
+Give up the funk
+We need the funk
+We gotta have that funk
+
+(You've got a real type of thing going down, gettin' down)
+(There's a whole lot of rhythm going round)
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+You've got a real type of thing going down, gettin' down
+There's a whole lot of rhythm going round
+
+Ow, we want the funk
+Give up the funk
+Ow, we need the funk
+(Let us in we'll tear this mother out)
+
+
 

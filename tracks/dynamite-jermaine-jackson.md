@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dynamite-jermaine-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/dynamite.html
 name: Dynamite
 rankings:
 - end_date: '1984-07-27'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
 ---
+
+I don't know too much
+But I know love the way I've been touched
+It's your love that heats me up
+And there's no such thing as too much
+'Cause I don't know any better
+No, I don't know when it's time to stop, no
+
+All night you give me what I like
+Intense high explosive dynamite
+You're dynamite
+All night you supply the spark I like
+Intense heavy dose of dynamite
+Pure dynamite
+
+Wild things can't be tamed
+Under my skin and it's just the same
+I'm waiting to be ignited
+And there's no way I'll ever fight it
+'Cause I don't know any better
+No, no, I don't know when it's time
+Time for me to stop, no, no
+
+All night you give me what I like
+Intense high explosive dynamite
+You're dynamite
+All night you supply the spark I like
+Intense heavy dose of dynamite
+Pure dynamite
+
+I don't want any other
+No, I don't want this to stop
+
+All night you give me what I like
+Intense high explosive dynamite
+You're dynamite
+All night you supply the spark I like
+Intense heavy dose of dynamite
+Pure dynamite
+
+All night you give me what I like
+Intense high explosive dynamite
+You're dynamite
+All night you supply the spark I like
+Intense heavy dose of dynamite
+Pure dynamite
+
+
 

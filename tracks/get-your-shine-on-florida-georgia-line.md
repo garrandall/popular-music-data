@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-your-shine-on-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/getyourshineon.html
 name: Get Your Shine On
 rankings:
 - end_date: '2013-02-15'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
 ---
+
+Strawberry shimmer on hot lips,
+Silver buckle hangin' off her hips.
+Eyes sparkle when she smiles.
+Shinedown on the radio dial.
+Homemade jar o' lemon drop, take a sip.
+Don't stop girl, you know I love it when you get your shine on!
+'Cause you and me be rocking all night long!
+Summer sky dripping rhinestones,
+Turn your party lights on,
+Baby get your shine on - shine on!
+
+Baby get your shine on!
+
+Silverado, candy painted,
+Ray Bans, got the whole world shaded.
+Chrome piece tucked in the console,
+Riding high, roll up on the down low.
+Feeling lucky, got hooked up with some Kentucky clear.
+So slide that little sugar shaker over here...
+And get your shine on!
+'Cause you and me be rocking all night long!
+Summer sky drippin' rhinestones,
+Turn your party lights on,
+Baby get your shine on - shine on!
+
+Baby get your shine on!
+
+Homemade jar o' lemon drop take a sip.
+Don't stop girl, you know I love it when you get your shine on!
+'Cause you and me be rocking all night long!
+Summer sky drippin' rhinestones,
+Turn your party lights on,
+Baby get your shine on - shine on!
+
+Baby get your shine on!
+
+Cause you and me be rocking all night long!
+
+Summer sky drippin' rhinestones,
+Turn your party lights on,
+Baby get your shine on - shine on!
+
+Baby get your shine on!
+
+Baby get your shine on!
+
+Strawberry shimmer on hot lips,
+Silver buckle hanging off her hips.
+Eyes sparkle when she smiles,
+Shinedown on the radio dial.
+Silverado, candy painted,
+Ray Bans, got the whole world shaded.
+Chrome piece tucked in the console.
+Riding high, roll up on the down low.
+
+Baby get your shine on!
+
+
 

@@ -5,6 +5,7 @@ features:
 - Khalid
 genres: []
 key: beautiful-people-ed-sheeran-khalid
+lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/beautifulpeople.html
 name: Beautiful People
 rankings:
 - end_date: '2019-07-19'
@@ -112,4 +113,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
 ---
+
+We are, we are, we are
+
+L.A. on a Saturday night in the summer
+Sun down and they all come out
+Lamborghinis and their rented Hummers
+The party's on, so they're heading downtown
+('Round here)
+
+Everybody's looking for a come-up
+And they wanna know what you're about
+Me in the middle with the one I love and
+We're just tryna figure everything out
+
+We don't fit in well
+'Cause we are just ourselves
+I could use some help
+Getting out of this conversation, here
+You look stunning, dear
+So don't ask that question here
+This is my only fear
+That we become
+
+Beautiful people
+Drop-top, designer clothes
+Front row at fashion shows
+"What d'you do?" and "Who d'you know?"
+Inside the world of
+Beautiful people
+Champagne and rolled-up notes
+Pre-nups and broken homes
+Surrounded, but still alone
+Let's leave the party
+
+That's not who we are
+(We are, we are, we are)
+We are not beautiful
+Yeah, that's not who we are
+(We are, we are, we are)
+We are not beautiful
+
+(L.A., mm)
+
+Drove for hours last night and we made it nowhere
+(Nowhere, nowhere)
+I see stars in your eyes when we're halfway there
+(All night)
+I'm not fazed by all the lights and flashing cameras
+'Cause with my arms around you, there's no need to care
+
+We don't fit in well
+We are just ourselves
+I could use some help
+Getting out of this conversation here
+You look stunning, dear
+So don't ask that question here
+This is my only fear
+That we become
+
+Beautiful people
+Drop-top, designer clothes
+Front row at fashion shows
+"What d'you do?" and "Who d'you know?"
+Inside the world of
+Beautiful people
+Champagne and rolled-up notes
+Pre-nups and broken homes
+Surrounded, but still alone
+Let's leave the party
+
+That's not who we are
+(We are, we are, we are)
+We are not beautiful (yeah)
+Yeah, that's not who we are
+(We are, we are, we are)
+We are not beautiful
+
+(We are, we are, we are)
+We are not beautiful
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fm--no-static-at-all--steely-dan
+lyrics_url: https://www.azlyrics.com/lyrics/steelydan/fm.html
 name: FM (No Static At All)
 rankings:
 - end_date: '1978-06-09'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+
+Worry the bottle Mamma, it's grapefruit wine
+Kick off your high heel sneakers, it's party time
+The girls don't seem to care what's on
+As long as they play till dawn
+Nothin' but blues and Elvis
+And somebody else's favorite song
+
+Give her some funked up music, she treats you nice
+Feed her some hungry reggae, she'll love you twice
+The girls don't seem to care tonight
+As long as the mood is right
+
+FM - no static at all
+
+Give her some funked up music she treats you nice
+Feed her some hungry reggae she'll love you twice
+The girls don't seem to care tonight
+As long as the mood is right
+
+FM - no static at all
+
+
 

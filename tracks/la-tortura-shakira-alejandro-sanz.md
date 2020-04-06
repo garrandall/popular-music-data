@@ -5,6 +5,7 @@ features:
 - Alejandro Sanz
 genres: []
 key: la-tortura-shakira-alejandro-sanz
+lyrics_url: https://www.azlyrics.com/lyrics/shakira/latortura.html
 name: La Tortura
 rankings:
 - end_date: '2005-05-13'
@@ -132,4 +133,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
 ---
+
+
+Ay, payita mÃ­a,
+GuÃ¡rdate la poesÃ­a
+GuÃ¡rdate la alegrÃ­a
+Pa'ti
+
+
+No pido que todos los dÃ­as sean de sol
+No pido que todos los viernes sean de fiesta
+Tampoco te pido que vuelvas rogando perdÃ³n
+Si lloras con los ojos secos y hablando de ella
+
+Ay amor me duele tanto
+
+
+Me duele tanto
+
+
+Que te fueras sin decir a dÃ³nde
+Ay amor fue una tortura perderte
+
+
+Yo sÃ© que no he sido un santo
+Pero lo puedo arreglar, amor
+
+
+No sÃ³lo de pan vive el hombre
+Y no de excusas vivo yo
+
+
+SÃ³lo de errores se aprende
+Y hoy sÃ© que es tuyo mi corazÃ³n
+
+
+Mejor te guardas todo eso
+A otro perro con ese hueso
+Y nos decimos adiÃ³s
+
+No puedo pedir que el invierno perdone a un rosal
+No puedo pedir a los olmos que entreguen peras
+No puedo pedirle lo eterno a un simple mortal
+Y andar arrojando a los cerdos miles de perlas
+
+
+Ay amor me duele tanto, me duele tanto
+Me duele tanto que no creas mÃ¡s en mis promesas
+
+
+Ay amor
+
+
+Es una tortura
+
+
+Perderte
+
+
+Yo sÃ© que no he sido un santo
+Pero lo puedo arreglar, amor
+
+
+No sÃ³lo de pan vive el hombre
+Y no de excusas vivo yo
+
+
+SÃ³lo de errores se aprende
+Y hoy sÃ© que es tuyo mi corazÃ³n
+
+
+Mejor te guardas todo eso
+A otro perro con ese hueso
+Y nos decimos adiÃ³s
+
+
+No te vayas, no te vayas
+Oye negrita mira, no te rajes
+De lunes a viernes tienes mi amor
+DÃ©jame el sÃ¡bado a mÃ­ que es mejor
+
+Oye mi negra no me castigues mÃ¡s
+Porque allÃ¡ afuera sin ti no tengo paz
+Yo sÃ³lo soy un hombre muy arrepentido
+Soy como el ave que vuelve a su nido
+
+Yo sÃ© que no he sido un santo
+Es que no estoy hecho de cartÃ³n
+
+
+No sÃ³lo de pan vive el hombre
+Y no de excusas vivo yo.
+
+
+SÃ³lo de errores se aprende
+Y hoy sÃ© que es tuyo mi corazÃ³n
+
+
+Ay todo lo que he hecho por tÃ­
+Fue una tortura perderte
+Me duele tanto que sea asÃ­
+
+Sigue llorando perdÃ³n
+Yo ya no voy a llorar hoy por tÃ­
+
+
 

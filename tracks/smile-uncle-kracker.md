@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smile-uncle-kracker
+lyrics_url: https://www.azlyrics.com/lyrics/unclekracker/smile.html
 name: Smile
 rankings:
 - end_date: '2009-08-21'
@@ -139,4 +140,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
 ---
+
+You're better than the best
+I'm lucky just to linger in your light
+Cooler than the flip-side of my pillow (that's right)
+Completely unaware
+Nothing can compare to where you send me
+It lets me know that it's okay (yeah, it's okay)
+And the moments when my good times start to fade
+
+You make me smile like the sun
+Fall outta bed
+Sing like a bird
+Dizzy in my head
+Spin like a record
+Crazy on a Sunday night
+You make me dance like a fool
+Forget how to breathe
+Shine like gold
+Buzz like a bee
+Just the thought of you can drive me wild
+Oh, you make me smile
+
+Even when you're gone
+Somehow you come along
+Just like a flower poking through the sidewalk crack
+And just like that
+You steal away the rain
+And just like that
+
+You make me smile like the sun
+Fall outta bed
+Sing like a bird
+Dizzy in my head
+Spin like a record
+Crazy on a Sunday night
+You make me dance like a fool
+Forget how to breathe
+Shine like gold
+Buzz like a bee
+Just the thought of you can drive me wild
+Oh, you make me smile
+
+Don't know how I lived without you
+'Cause every time that I get around you
+I see the best of me inside your eyes
+You make me smile
+
+You make me dance like a fool
+Forget how to breathe
+Shine like gold
+Buzz like a bee
+Just the thought of you can drive me wild
+
+You make me smile like the sun
+Fall outta bed
+Sing like a bird
+Dizzy in my head
+Spin like a record
+Crazy on a Sunday night
+You make me dance like a fool
+Forget how to breathe
+Shine like gold
+Buzz like a bee
+Just the thought of you can drive me wild
+Oh, you make me smile
+
+(Oh, you make me smile)
+Oh, you make me smile
+(Oh, you make me smile)
+Oh, you make me smile
+
+
 

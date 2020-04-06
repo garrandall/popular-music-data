@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pets-porno-for-pyros
+lyrics_url: https://www.azlyrics.com/lyrics/pornoforpyros/pets.html
 name: Pets
 rankings:
 - end_date: '1993-07-16'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
 ---
+
+Children are innocent, yeah
+Teenagers fucked up in the head
+Adults are even more fucked up
+And elderlies are like children
+
+Will there be another race
+To come along and take over for us?
+Maybe Martians could do
+Better than we've done
+
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+
+My friend says we're like the dinosaurs
+Only we are doing ourselves in
+Much faster than they ever did
+
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+
+We will make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+We will make great pets
+We'll make great pets
+We'll make great pets
+We'll make great pets
+
+
 

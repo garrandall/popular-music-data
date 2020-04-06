@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-kind-of-friend-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/somekindoffriend.html
 name: Some Kind Of Friend
 rankings:
 - end_date: '1983-03-04'
@@ -71,4 +72,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+
+I saw you at the Beechwood Cafe
+You looked at me and then you looked away
+That was some kind
+Some kind of friend you turned out to be
+You said you had places you had to be
+Now who is gonna be there for me
+
+That was some kind
+Some kind of friend you turned out to be
+Lady that was some kind
+Some kind of friend you turned out to be
+Baby that was some kind
+Some kind of friend you turned out to be
+
+They say that women like you can't get enough
+Got our Maserati built for two
+They say that women like you like to play
+With love
+Is that true?
+When I ran into you the other day
+You smiled at me but you had nothing to say
+That was some kind
+Some kind of friend you turned out to be
+Tell me why'd you do what you did to me
+Covered up in your life so I couldn't see
+
+Now that was some kind
+Some kind of friend you turned out to be
+Lady that was some kind
+Some kind of friend you turned out to be
+Baby that was some kind
+Some kind of friend you turned out to be
+
+I never should have let you get to me
+Never should have let you bring me down
+Didn't know that I was just some fantasy
+That you found.
+
+Some kind
+Some kind of friend
+Some kind
+Some kind
+Some kind of friend
+Some kind
+Some kind
+Some kind of friend
+Some kind
+Some kind
+Some kind of friend
+Some kind
+Lady that was some kind
+Some kind of friend you turned out to be
+Baby that was some kind
+Some kind of friend you turned out to be
+Some kind of friend
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: even-if-it-breaks-your-heart-eli-young-band
+lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/evenifitbreaksyourheart.html
 name: Even If It Breaks Your Heart
 rankings:
 - end_date: '2012-04-06'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
 ---
+
+Way back on the radio dial,
+The fire got lit inside a bright-eyed child.
+Every note just wrapped around his soul,
+From steel guitars to Memphis, all the way to rock and roll.
+
+Ohhh, I can hear 'em playin'.
+I can hear the ringin' of a beat up ol' guitar.
+Ohhh, I can hear 'em singin',
+"Keep on dreamin', even if it breaks your heart."
+
+Downtown is where I used to wander.
+Old enough to get there but too young to get inside.
+So I would stand out on the sidewalk,
+Listen to the music playin' every Friday night.
+
+Ohhh, I can hear 'em playin'.
+I can hear the ringin' of a beat up ol' guitar.
+Ohhh, I can hear 'em singin',
+"Keep on dreamin', even if it breaks your heart."
+
+Some dreams stay with you forever,
+Drag you around but bring you back to where you were.
+Some dreams keep on gettin' better,
+Gotta keep believin' if you wanna know for sure.
+
+Ohhh, I can hear 'em playin'.
+I can hear the ringin' of a beat up ol' guitar.
+Ohhh, I can hear 'em singin',
+"Keep on dreamin', even if it breaks your heart."
+
+
+Keep on dreamin', even if it breaks your heart.
+
+Keep on dreamin' 
+
+Don't let it break your heart.
+
+
 

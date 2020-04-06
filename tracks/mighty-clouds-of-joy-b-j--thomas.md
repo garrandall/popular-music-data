@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mighty-clouds-of-joy-b-j--thomas
+lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/mightycloudsofjoy.html
 name: Mighty Clouds Of Joy
 rankings:
 - end_date: '1971-07-09'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+
+Those old bad dreams
+Been sleeping in your head
+Those old dark clouds
+Been hanging around your head
+But all your hard times
+Will vanish in the wind
+When the mighty clouds of joy 
+Come rolling in
+Ohhhh, Holy Jesus
+Let your love seize us
+Oh, let us find sweet peace within 
+Hallelujah!
+Happiness begins,
+When the mighty clouds of joy 
+Come rolling in.
+Those old storm clouds
+Are slowly drifting by
+And those old raindrops
+Are fading from your eyes
+And oh, Mr. Sun,
+Gonna shine on us again
+When the mighty clouds of joy 
+Come rolling in
+Ohhhh, Holy Jesus
+Let your love seize us
+Oh, let us find sweet peace within
+Hallelujah!
+Happiness begins,
+When the mighty clouds of joy 
+Come rolling in
+Holy Jesus
+WonÂ´t you let your love seize us
+Let us find sweet peace within
+Hallelujah!
+Happiness begins,
+When the mighty clouds of joy 
+Come rolling in
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-thing-she-does-is-magic-the-police
+lyrics_url: https://www.azlyrics.com/lyrics/sting/everylittlethingshedoesismagic.html
 name: Every Little Thing She Does Is Magic
 rankings:
 - end_date: '1981-10-02'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
 ---
+
+Though I've tried before to tell her
+Of the feelings I have for her in my heart
+Every time that I come near her
+I just lose my nerve as I've done from the start
+
+Every little thing she does is magic
+Everything she do just turns me on
+Even though my life before was tragic
+Now I know my love for her goes on
+
+Do I have to tell the story
+Of a thousand rainy days since we first met
+It's a big enough umbrella
+But it's always me that ends up getting wet
+
+Every little thing she does is magic
+Everything she do just turns me on
+Even though my life before was tragic
+Now I know my love for her goes on
+Every little thing she does is magic
+Everything she do just turns me on
+Even though my life before was tragic
+Now I know my love for her goes on
+
+I resolved to call her up
+A thousand times a day
+And ask her if she'll marry me
+In some old fashioned way
+But my silent fears have gripped me
+Long before I reach the phone
+Long before my tongue has tripped me
+Must I always be alone?
+
+Every little thing she does is magic
+Everything she do just turns me on
+Even though my life before was tragic
+Now I know my love for her goes on
+Every little thing she does is magic
+Everything she do just turns me on
+Even though my life before was tragic
+Now I know my love for her goes on...
+
+Every little thing...
+Every little thing she does...
+Every little thing she does is magic...
+
+
 

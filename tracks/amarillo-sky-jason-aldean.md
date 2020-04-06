@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amarillo-sky-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/amarillosky.html
 name: Amarillo Sky
 rankings:
 - end_date: '2006-11-03'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
 ---
+
+He gets up before the dawn;
+Packs a lunch an' a thermos full of coffee.
+It's another day in the dusty haze;
+Those burnin' rays are wearin' down his body.
+The diesels worth the price of gold;
+It's the cheapest grain he's ever sold,
+But he's still holdin' on.
+
+He just takes the tractor another round,
+An' pulls the plow across the ground,
+And sends up another prayer.
+He says: "Lord, I never complain, I never ask: 'Why?'
+"Please don't let my dreams run dry,
+"Underneath, underneath this Amarillo Sky."
+
+That hail storm back in '83,
+Sure did take a toll on his family.
+But he stayed strong and carried on,
+Just like his Dad and Granddad did before him.
+On his knees every night,
+He prays: "Please let my crops and children grow,"
+'Cause that's all he's ever known.
+
+He just takes the tractor another round,
+An' pulls the plow across the ground,
+And sends up another prayer.
+He says: "Lord, I never complain, I never ask: 'Why?'
+"Please don't let my dreams run dry,
+"Underneath, underneath this Amarillo Sky."
+
+
+
+An' he takes the tractor another round. (Another round.)
+Another round. (Another round.)
+Another round.
+An' he takes the tractor another round, another round.
+He says: "I never complain, I never ask: 'Why?'
+"Please don't let my dreams run dry,
+"Underneath, underneath this Amarillo Sky.
+"Underneath this Amarillo Sky."
+
+
 

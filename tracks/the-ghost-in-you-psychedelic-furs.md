@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-ghost-in-you-psychedelic-furs
+lyrics_url: https://www.azlyrics.com/lyrics/psychedelicfurs/theghostinyou.html
 name: The Ghost In You
 rankings:
 - end_date: '1984-05-18'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
 ---
+
+A man in my shoes runs a light
+And all the papers lied tonight
+But falling over you
+Is the news of the day
+Angels fall like rain
+And love, love, love
+Is all of heaven away (Love, love, love, love, love)
+
+Inside you the time moves and she don't fade
+The ghost in you, she don't fade
+Inside you the time moves and she don't fade
+
+A race is on, I'm on your side
+And here in you, my engines die
+I'm in a mood for you
+Or running away
+Stars come down in you
+And love, love, love
+You can't give it away (Love, love, love, love, love)
+
+Inside you the time moves and she don't fade
+The ghost in you, she don't fade
+Inside you the time moves and she don't fade
+
+Don't you go, it makes no sense
+When all your talk and supermen
+Just take away the time
+And get in the way
+Ain't it just like rain?
+And love, love, love
+Is only heaven away (Love, love, love, love, love)
+
+Inside you the time moves and she don't fade
+The ghost in you, she don't fade
+Inside you the time moves and she don't fade
+The ghost in you, she don't fade
+Inside you the time moves and she don't fade
+The ghost in you, she don't fade
+Inside you the time moves
+
+
 

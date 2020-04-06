@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-you-ever-needed-someone-so-bad-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/haveyoueverneededsomeonesobad.html
 name: Have You Ever Needed Someone So Bad
 rankings:
 - end_date: '1992-08-28'
@@ -87,4 +88,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
 ---
+
+Here I am, I'm in the wrong bed again
+It's a game I just can't win
+There you are breathin' soft on my skin
+Still you won't let me in
+
+So come on
+
+Why save your kisses for a rainy day
+Baby let the moment take your heart away
+
+Have you ever needed someone so bad
+Have you ever wanted someone
+You just couldn't have
+Did you ever try so hard
+That your world just fell apart
+Have you ever needed someone so bad
+
+And you're the girl I gotta have
+I gotta have you baby
+
+Come on
+
+There you go, midnight promises again
+But they're broken by the dawn
+You wanna go further, faster every day, baby
+But in the morning you'll be gone
+
+And I'm alone
+
+Why save your kisses for a rainy day
+Baby let the moment take your heart away
+
+Have you ever needed someone so bad
+Have you ever wanted someone
+You just couldn't have
+Did you ever try so hard
+That your world just fell apart
+Have you ever needed someone so bad
+
+Every dream I dream
+is like some kinda rash and reckless scene
+To give out such crazy love
+You must be some kinda drug
+
+And if my time don't ever come
+For me you're still the one
+Damned if I don't, damned if I do
+I gotta get a fix on you
+
+Have you ever needed someone so bad
+Have you ever wanted someone
+You just couldn't have
+Did you ever try so hard
+That your world just fell apart
+Have you ever needed someone so bad, so bad
+
+Have you ever wanted someone
+(have you ever wanted someone)
+Did you ever try so hard
+That your world just fell apart
+Have you ever needed someone so bad
+
+And you're the girl I gotta have
+I gotta have you baby
+
+It's a game I just can't win
+
+Have you ever needed someone so bad
+Have you ever wanted someone
+(have you ever wanted someone)
+You just can't have
+Did you ever try so hard
+
+
 

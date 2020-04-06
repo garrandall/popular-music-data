@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: elected-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/elected.html
 name: Elected
 rankings:
 - end_date: '1972-10-13'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
+
+I'm your top prime cut of meat, I'm your choice
+I wanna be elected
+I'm your yankee doodle dandy in a gold Rolls Royce
+I wanna be elected
+Kids want a savior, don't need a fake
+I wanna be elected
+We're gonna rock to the rules that I make
+I wanna be elected, elected, elected
+I never lied to you, I've always been cool
+I wanna be elected
+I gotta get the vote, and I told you about school
+I wanna be elected, elected, elected
+Hallelujah, I wanna be elected
+Everyone in the United States of America
+We're gonna win this one, take the country by storm
+We're gonna be elected
+You and me together, young and strong
+We're gonna be elected, elected, elected
+Respected, selected, call collected
+I wanna be elected, elected
+
+
 

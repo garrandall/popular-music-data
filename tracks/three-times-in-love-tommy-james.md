@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: three-times-in-love-tommy-james
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/threetimesinlove.html
 name: Three Times In Love
 rankings:
 - end_date: '1980-02-01'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
 ---
+
+She was all of a lady, you were all of sixteen,
+You were king of the mountain, she was your queen.
+You played in the sunshine, you danced in the rain,
+It was so easy, when love was a game.
+But, everybody's
+
+
+Lovers get older, summer goes away,
+You knew that it was over so you looked the other way.
+Suddenly before you, your second time around,
+Ah, you're older and wiser and you're covering a lot of ground.
+But, everybody's
+
+
+
+Three times in love.
+Two times ain't enough, only one shines above,
+
+Everybody's three times in love.
+
+(Over and over and over again.)
+Now that you're ready, she comes along,
+Your ways are steady and your feelings are strong.
+She is all of your ladies, you are every man.
+You've both been waiting to find each other, now you understand
+Why everybody's
+
+
+
+Three times in love.
+Two times ain't enough, only one shines above,
+Everybody's three times in love.
+
+
 

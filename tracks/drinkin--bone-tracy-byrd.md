@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drinkin--bone-tracy-byrd
+lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/drinkinbone.html
 name: Drinkin' Bone
 rankings:
 - end_date: '2003-12-05'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
 ---
+
+Well it's Friday evening, six o'clock
+And all my friends are twisting off
+I'm at the house just turning on TV
+And they all wonder why I've changed
+How many times must I explain
+It's basic honky-tonk anatomy
+
+The drinkin' bone's connected to the party bone
+The party bone's connected to the staying out all night long
+And she won't think it's funny and I'll wind up all alone
+And the lonely bone's connected to the drinkin' bone
+
+Hey two plus two is always four
+And down is south and up is north
+Thirty-two degrees is freezing cold
+You play with fire, you wind up burned
+The early bird gets the worm
+But the only thing you really need to know
+
+Is the drinkin' bone's connected to the party bone
+The party bone's connected to the staying out all night long
+And she won't think it's funny and I'll wind up all alone
+And the lonely bone's connected to the drinkin' bone
+
+Yeah now sing it with me
+Let's make sure you know
+
+The drinkin' bone's connected to the party bone
+The party bone's connected to the staying out all night long
+And she won't think it's funny and I'll wind up all alone 
+And the lonely bone's connected to the...
+Drinkin' bone's connected to the party bone
+The party bone's connected to the staying out all night long
+And she won't think it's funny and I'll wind up all alone 
+And the lonely bone's connected to the drinkin' bone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spies-like-us-paul-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/spieslikeus.html
 name: Spies Like Us
 rankings:
 - end_date: '1985-11-29'
@@ -75,4 +76,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
 ---
+
+Ooh ooh what do you do
+No one else can dance like you
+So what's all the fuss
+There ain't nobody that spies like us
+
+Hey hey what do you say
+Someone took your plans away
+So what's all the fuss
+There ain't nobody that spies like us
+
+Hey don't feel afraid
+Of an undercover aid
+There's no need to fuss
+There ain't nobody that spies like us
+
+Spies like us
+
+We don't know the meaning of fear
+We play every minute by ear
+One for all and all for one
+Everybody's on the run
+Especially at this time of year
+
+Ooh ooh what do you do
+No one else can dance like you
+So what's all the fuss
+There ain't nobody got spies like us
+
+Hey hey what do you say
+No one else can look that way
+So what's all the fuss
+There ain't nobody got spies like us
+
+We get there by hook or by crook
+We don't do a thing by the book
+Never needed special clothes
+How we did it no one knows
+I guess we must have had what it took
+
+Ooh ooh, ooh
+Oh when things get tough
+(Oh when things get tough)
+Guys like us act rough
+(Guys like us act rough)
+
+Hey hey what do you say
+Someone took your plans away
+So what's all the fuss
+There ain't nobody that spies like us
+
+Spies like us
+
+
 

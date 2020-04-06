@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-my-head--cable-car--the-fray
+lyrics_url: https://www.azlyrics.com/lyrics/daytoremember/overmyheadcablecar.html
 name: Over My Head (Cable Car)
 rankings:
 - end_date: '2006-03-03'
@@ -175,4 +176,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
 ---
+
+I never knew
+I never knew that everything was falling through
+That everyone I knew was waiting on a >cue<
+To turn and run when all I needed was the truth
+But that's how it's got to be
+It's coming down to nothing more than apathy
+I'd rather run the other way than stay and see
+The smoke and who's still standing when it clears
+
+Everyone knows I'm in
+Over my head
+Over my head
+With eight seconds left in overtime
+She's on your mind
+She's on your mind
+
+Let's rearrange
+I wish you were a stranger I could disengage
+Just say that we agree and then never change
+Soften a bit until we all just get along
+But that's disregard
+Find another friend and you discard
+As you lose the argument in a cable car
+Hanging above as the canyon comes between
+
+Everyone knows I'm in
+Over my head
+Over my head
+With eight seconds left in overtime
+She's on your mind
+She's on your mind
+
+Everyone knows I'm in
+Over my head
+Over my head
+With eight seconds left in overtime
+She's on your mind
+She's on your mind
+
+And suddenly I become a part of your past
+I'm becoming the part that don't last
+I'm losing you and its effortless
+Without a sound we lose sight of the ground
+In the throw around
+Never thought that you wanted to bring it down
+I won't let it go down till we torch it ourselves
+
+Everyone knows I'm in
+Over my head
+Over my head
+With eight seconds left in overtime
+She's on your mind
+She's on your mind
+
+
 

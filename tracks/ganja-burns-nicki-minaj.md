@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ganja-burns-nicki-minaj
+lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/ganjaburns.html
 name: Ganja Burns
 rankings:
 - end_date: '2018-08-31'
@@ -11,4 +12,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
 ---
+
+Ayo, as the world turns, the blunt burns
+(Who you gettin' at, Nicki?)
+Watch them cunts learn
+Fashion icon, Audrey Hepburn
+I move keys, but you hoes get one turn
+Yeah, you get one turn, and one urn
+I straighten all these bitches out with one perm
+Who ever gassed 'em ain't none of my concern
+But, see, the Lord showed me dreams to confirm
+They done went to witch doctors to bury the Barbie
+But I double back, kill bitches, bury the body
+And that go for anybody, you'll be thoroughly sorry
+I could wage war or I come in peace like Gandhi
+All my powers back now I'm scary to zombies
+Bring the heat to her, sizzle 'em, ain't talking Kalonji
+I done fasted and prayed, had to cleanse my body
+Abstaining from sex, had to zen my body
+I ain't givin', so don't ask, I don't lend my body
+Gotta be king status to give men my body
+(He gotta be king status to get in ya body?)
+Fuck, yeah, 'cause a Queen is what I embody, uh
+
+Ganja burn, ganja burn, ganja burn (yeah)
+Ganja burn, ganja burn, ganja burn (yeah)
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Ganja burn, ganja burn, ganja burn (yeah)
+Ganja burn, ganja burn, ganja burn (yeah)
+
+Yo, you can't wear a Nicki wig and then be Nicki
+That's like a fat nigga thinkin' he can be Biggie
+One rough ride, now you DMX and Swizzy
+One hot video, you Hype? Nah, you just giddy
+You made one dope beat, now you Kanye?
+You got a nigga named JAY, now you 'YoncÃ©?
+You got about three stacks, now you AndrÃ©?
+You put a part in your fade, yeah you Nas, bae
+You gotta have real skill, gotta work for that
+If it's really your passion, would you give the world for that?
+Unlike a lot of these hoes whether wack or lit
+At least I can say I wrote every rap I spit
+Put my blood, sweat and tears in perfectin' my craft
+Still every team's number one pick in the draft
+You could bring anybody, weatherman, pick a day
+I'm Kobe, KD, Kyrie! Pick a K
+
+Ganja burn, ganja burn, ganja burn (yeah)
+Ganja burn, ganja burn, ganja burn (yeah)
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Everytime I get high, I just think about you
+Ganja burn, ganja burn, ganja burn (yeah)
+Ganja burn, ganja burn, ganja burn (yeah)
+
+I see ya, I see you
+I see ya, I see you
+
+To my surprise I saw you in my eyes
+The nights I cried, repented of the lies
+To my, na-na-na-na-na-na-na-na-na-na-na
+To my, na-na-na-na-na-na-na-na-na-na-na (ooh)
+Na-na-na-na-na-na-na-na-na-na-na-na (ooh)
+Na-na-na-na-na-na-na-na-na-na-na
+Ooh, burn, baby (na-na-na-na-na-na-na-na)
+
+
 

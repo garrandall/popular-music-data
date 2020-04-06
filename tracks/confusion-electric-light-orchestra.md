@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: confusion-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/confusion.html
 name: Confusion
 rankings:
 - end_date: '1979-10-26'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
+
+Everywhere the sun is shining.
+All around the world it's shining.
+But cold winds blow across your mind.
+Confusion--it's such a terrible shame.
+Confusion--you don't know what you're sayin'.
+You've lost your love and you just can't carry on.
+You feel there's no-one there for you to lean on.
+
+Every night you're out there darlin'.
+You're always out there runnin'.
+And I see that lost look in your eyes.
+Confusion,I don't know what I should do.
+Confusion,I leave it all up to you.
+You've lost your love and you just can't carry on.
+You feel there's no-one there for you to lean on.
+
+Dark is the road you wander.
+And as you stand there under.
+The starry sky,you feel sad inside.
+Confusion,you know it's drivin' me wild.
+Confusion,it comes as no big surprise.
+You've lost your love and you just can't carry on.
+You feel there's no-one there for you to lean on.
+
+
 

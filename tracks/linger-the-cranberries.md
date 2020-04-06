@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: linger-the-cranberries
+lyrics_url: https://www.azlyrics.com/lyrics/cranberries/linger.html
 name: Linger
 rankings:
 - end_date: '1993-10-29'
@@ -103,4 +104,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
 ---
+
+If you, if you could return, don't let it burn, don't let it fade.
+I'm sure I'm not being rude, but it's just your attitude,
+It's tearing me apart, it's ruining every day.
+
+I swore, I swore I would be true, and honey, so did you.
+So why were you holding her hand? Is that the way we stand?
+Were you lying all the time? Was it just a game to you?
+
+But I'm in so deep. You know I'm such a fool for you.
+You got me wrapped around your finger, ah, ha, ha.
+Do you have to let it linger? Do you have to, do you have to,
+Do you have to let it linger?
+
+Oh, I thought the world of you.
+I thought nothing could go wrong,
+But I was wrong. I was wrong.
+If you, if you could get by, trying not to lie,
+Things wouldn't be so confused and I wouldn't feel so used,
+But you always really knew, I just wanna be with you.
+
+But I'm in so deep. You know I'm such a fool for you.
+You got me wrapped around your finger, ah, ha, ha.
+Do you have to let it linger? Do you have to, do you have to,
+Do you have to let it linger?
+
+And I'm in so deep. You know I'm such a fool for you.
+You got me wrapped around your finger, ah, ha, ha.
+Do you have to let it linger? Do you have to, do you have to,
+Do you have to let it linger?
+
+You know I'm such a fool for you.
+You got me wrapped around your finger, ah, ha, ha.
+Do you have to let it linger? Do you have to, do you have to,
+Do you have to let it linger?
+
+
 

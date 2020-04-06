@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-learned-from-the-best-whitney-houston
+lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/ilearnedfromthebest.html
 name: I Learned From The Best
 rankings:
 - end_date: '2000-02-25'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-29'
 ---
+
+Did you really think that 
+I would really take you back 
+Let you back in my heart one more time 
+Ohh. No. No. 
+Did you think that I'd still care 
+That there'd be more feeling there 
+Did you think you could walk back in my life. 
+So you found you miss the love you threw away. 
+Baby but you found it out too late. Too Late. 
+
+
+And so now you know the way it feels to cry 
+The way that I cried when you broke my world in two. 
+Baby I learned the way to break a heart 
+I learned from the best. 
+I learned from you. 
+Oh baby now. 
+I learned from you 
+I remember cold nights 
+Tears I though would never dry 
+How you shattered my world 
+With your goodbye.Your goodbye baby 
+Would've sold my soul then. 
+Just to have you back again 
+Now you're the last thing on my mind. 
+Now you say your sorry and 
+You've changed your ways 
+Sorry but you changed you ways too late. 
+
+
+
+So when all you've got are sleepless nights 
+When those tears are clouding up your eyes 
+Just remember it was you who said goodbye 
+Who said goodbye. 
+
+
+
+
+
+
 

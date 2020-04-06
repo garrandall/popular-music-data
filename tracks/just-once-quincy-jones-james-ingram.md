@@ -5,6 +5,7 @@ features:
 - James Ingram
 genres: []
 key: just-once-quincy-jones-james-ingram
+lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/justonce.html
 name: Just Once
 rankings:
 - end_date: '1981-08-21'
@@ -100,4 +101,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
 ---
+
+I did my best but I guess my best wasn't good enough
+'Cause here we are back where we were before
+Seems nothing ever changes we're back to being strangers
+Wondering if we oughta stay or head on out the door
+
+Just once can't we figure out what we keep doing wrong?
+Why we never last for very long? What are we doing wrong?
+Just once can't we find a way to finally make it right?
+To make the magic last for more than just one night
+If we could just get to it, I know we could break through it
+
+I gave my all but I think my all may have been too much
+'Cause Lord knows we're not getting anywhere
+Seems we're always blowing whatever we've got going
+And it seems at times with all we've got, we haven't got a prayer
+
+Just once can't we figure out what we keep doing wrong?
+Why the good times never last for long? Where are we going wrong?
+Just once can't we find a way to finally make it right?
+To make the magic last for more than just one night
+I know we could break through it, if we could just get to it just once
+
+I want to understand
+Why it always comes back to good-bye?
+Why can't we get ourselves in hand?
+And admit to one another we're no good without the other
+Take the best and make it better find a way to stay together
+
+Just once can't we find a way to finally make it right?
+Oh make the magic last for more than just one night
+I know we could break through it if we could just get to it
+Just once
+Oh we can get to it
+Just once
+
+
 

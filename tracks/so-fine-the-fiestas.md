@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-fine-the-fiestas
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/sofine.html
 name: So Fine
 rankings:
 - end_date: '1959-04-12'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
 ---
+
+So fine
+So fine yeah
+My baby's so doggone fine
+She loves me come rain or shine
+Woah woah yeah yeah
+So fine
+
+She thrills me
+She thrills me yeah
+My baby thrill me all the time
+She sends cold chills up and down my spine
+Woah woah yeah yeah
+So fine
+
+Well I know
+She loves me so
+Well I know
+'Cause my baby, tells me so
+
+So fine
+So fine yeah
+My baby's so doggone fine
+She loves me come rain or shine
+Woah woah yeah yeah
+So fine
+
+So fine
+So fine
+So fine
+So fine...
+
+
 

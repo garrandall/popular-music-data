@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: minute-by-minute-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/minutebyminute.html
 name: Minute By Minute
 rankings:
 - end_date: '1979-05-11'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+
+Girl, don't worry, I've been lied to
+I've been here many times before
+Girl, don't you worry, I know where I stand
+I don't need this love, I don't need your hand
+I know I could bend, blink, and you'd be gone
+I must be prepared anytime to carry on
+Oh, I'm telling you
+
+Minute by minute by minute by minute
+I'll be holding on
+Minute by minute by minute by minute
+I'll be holding on
+Keep me holding on
+
+You would stay just to watch me, darlin'
+Wilt away on lies from you
+Can't stop the habit of livin' on the run
+I take it all for granted like you're the only one
+Livin' on my own
+Somehow that sounds nice
+You think I'm your fool
+Well, you may just be right
+Oh, I'm telling you
+
+Minute by minute by minute by minute
+I'll be holding on, keep me holding on
+Oh, minute by minute by minute by minute
+I'll be holding on, on, oh-oh-oh...
+
+Call my name and I'll be there
+You'll reach out and I will be there
+Just my luck you'll realize
+You could spend your life with someone
+You could spend your life with someone
+
+Minute by minute by minute by minute
+I'll be holding on, keep me holding on
+Minute by minute by minute by minute...
+
+
 

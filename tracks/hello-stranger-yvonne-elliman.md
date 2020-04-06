@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-stranger-yvonne-elliman
+lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/hellostranger.html
 name: Hello Stranger
 rankings:
 - end_date: '1977-03-25'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
 ---
+
+Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop
+
+Hello, stranger
+It seems so good to see you back again
+How long has it been?
+It seems like a mighty long time
+(Shoo-bop, shoo-bop, my baby)
+It seems like a mighty long time
+
+I my, my, my, my, I'm so glad
+You stopped by to say "Hello" to me
+Remember that's the way it used to be
+It seems like a mighty long time
+(Shoo-bop, shoo-bop, my baby)
+It seems like a mighty long time
+
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+Yes I'm so glad you're here again
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+(Shoo-bop, shoo-bop, my baby)
+
+If you're not gonna stay
+Please don't tease me like you did before
+Because I still love you so although
+It seems like a mighty long time
+(Shoo-bop, shoo-bop, my baby)
+It seems like a mighty long time
+
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+I my, my, my, my
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+I'm so happy
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+You're here again
+(Shoo-bop, shoo-bop, my baby)
+
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+Seems like a mighty long time
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+Feel so good
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+To have you back again
+(Shoo-bop, shoo-bop, my baby)
+
+How long has it been?
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+(Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
+
+
 

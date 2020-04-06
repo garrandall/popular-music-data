@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: choose-color-me-badd
+lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/choose.html
 name: Choose
 rankings:
 - end_date: '1994-01-21'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
 ---
+
+You know I'm not much on words
+But I gotta tell you how I feel
+Open your eyes, don't try to hide my love
+So hard to say but I think it's best
+Gotta give your heart it's time to heal
+When you're ready, I'll be there
+
+
+Sometimes I try and
+Sometimes I cry
+Only love will make me do
+What I don't wanna do
+Anything you want me to
+I will live or die -you choose
+
+I'm serious when I tell you, love
+That a little heartbreak
+Is ten to a dime
+Don't be afraid
+Just turn the page my love
+I'm curious when the day will come
+I see my reflections in your eyes
+Take your time and I'll be there
+
+
+
+K.T spoken verse
+Looking through my eyes at the world
+Can't you see
+Every time I see your face
+There's a choice to be made
+
+Walking hand in hand
+Through the sands of time
+As I peer in the past
+Foreign steps are terrorizing
+
+Watching what is now
+There's a fork in the path
+Of the future of your life
+Which road shall you choose
+
+Choices to be made
+Past and present
+It's not easy
+But my love will me die
+Until your heart resurrects me
+
+
+
+
 

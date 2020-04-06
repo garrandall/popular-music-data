@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stumblin--in-suzi-quatro-chris-norman
+lyrics_url: https://www.azlyrics.com/lyrics/suziquatro/stumblinin.html
 name: Stumblin' In
 rankings:
 - end_date: '1979-02-02'
@@ -96,4 +97,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
 ---
+
+Our love is alive, and so we begin
+Foolishly laying our hearts on the table
+Stumblin' in
+Our love is a flame, burning within
+Now and then firelight will catch us
+Stumblin' in
+
+Wherever you go, whatever you do
+You know these reckless thoughts of mine are following you
+I'm falling for you, whatever you do
+'Cos baby you've shown me so many things that I never knew
+Whatever it takes, baby I'll do it for you
+
+Our love is alive, and so we begin
+Foolishly laying our hearts on the table
+Stumblin' in
+Our love is a flame, burning within
+Now and then firelight will catch us
+Stumblin' in
+
+You were so young, and I was so free
+I may been young, but baby that's not what I wanted to be
+Well you were the one, oh why was it me
+'Cos baby you've shown me so many things that I've never seen
+Whatever you need, baby you've got it from me
+
+Our love is alive, and so we begin
+Foolishly laying our hearts on the table
+Stumblin' in
+Our love is a flame, burning within
+Now and then firelight will catch us
+Stumblin' in
+Stumblin' in
+Stumblin' in
+Foolishly laying our hearts on the table
+Stumblin' in
+Aagh stumblin' in
+Mm stumblin' in
+Now and then firelight will catch us
+Stumblin' in
+Oh stumblin' in
+I'm stumblin' in
+Foolishly laying our hearts on the table
+Stumblin' in
+Whoa stumblin' in
+Aagh stumblin' in
+I'm stumblin' in
+Keep on stumblin' in
+Now and then firelight will catch us
+Stumblin' in
+
+
 

@@ -5,6 +5,7 @@ features:
 - Nicki Minaj
 genres: []
 key: turn-me-on-david-guetta-nicki-minaj
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/turningmeon.html
 name: Turn Me On
 rankings:
 - end_date: '2011-09-23'
@@ -116,4 +117,106 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
 ---
+
+
+Doctor, doctor, need you back home, baby
+Doctor, doctor, where you at?
+Give me something
+I need your love
+I need your love
+I need your loving
+You got that kind of medicine that keeps me comin'
+
+My body needs a hero
+Come and save me
+Something tells me you know how to save me
+I've been feeling weird
+Oh! I need you to come and rescue me
+
+Oh
+
+
+Make me come alive
+Come on and turn me on
+Touch me, save my life
+Come on and turn me on
+I'm too young to die
+Come on and turn me on
+Turn me on
+Turn me on
+Turn me on
+Turn me on
+
+Make me come alive
+Come on and turn me on
+Touch me, save my life
+Come on and turn me on
+I'm too young to die
+Come on and turn me on
+Turn me on
+Turn me on
+Turn me on
+Turn me on
+
+
+Oh, you make it, make it right
+My temperature is super high
+If I scream, if I cry
+It's only 'cause I feel alive
+
+My body needs a hero
+Come and save me
+Something tells me you know how to save me
+I've been feeling weird
+Oh! I need you to come and rescue me
+
+Oh
+
+
+Make me come alive
+Come on and turn me on
+Touch me, save my life
+Come on and turn me on
+I'm too young to die
+Come on and turn me on
+Turn me on
+Turn me on
+Turn me on
+Turn me on
+
+Make me come alive
+Come on and turn me on
+Touch me, save my life
+Come on and turn me on
+I'm too young to die
+Come on and turn me on
+Turn me on
+Turn me on
+Turn me on
+Turn me on
+
+
+You've got my life in the palm of your hands (palm of your hands)
+Come and save me now
+I know you can, I know you can
+
+Dat-dat-dat-dat-don't let me die young, I just want you to father my young
+I just want you to be my doctor, we can get it crackin' chiropractor, I, I, I, I
+
+I, I, I, I know you can save me
+And make me feel alive
+
+
+Make me come alive
+Come on and turn me on
+Touch me, save my life
+Come on and turn me on
+I'm too young to die
+Come on and turn me on
+Turn me on
+Turn me on
+Turn me on
+Turn me on
+
+
 

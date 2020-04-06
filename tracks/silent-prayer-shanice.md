@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silent-prayer-shanice
+lyrics_url: https://www.azlyrics.com/lyrics/shanice/silentprayer.html
 name: Silent Prayer
 rankings:
 - end_date: '1992-05-01'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
 ---
+
+I send to you, my silent prayer
+before I sleep at night
+I send to you, my silent prayer
+baby, so you'll be all right
+
+Every moment I think of you
+I just can't shake up my dreams, oh no
+I read the paper and watch the news
+I don't know what it means
+
+When you do what you got to do
+You must know that I'm there with you
+Every breath that I take
+I hope and I pray sweet baby
+Baby, we're okay
+silent prayer
+
+
+
+Silent prayer (silent prayer)
+Silent prayer (silent prayer)
+Silent prayer (I send to you my silent prayer)
+
+I hold a picture of a golden sunset (yeah)
+and I'll take you're hand (take my hand)
+we're gonna walk down that promise road
+just like we planned (just like we planned)
+
+Cause I know what I'm gonna do
+Just as soon as I'm back with you
+every breath that I take,
+I hope and I pray sweet baby
+Baby, we're okay
+silent prayer
+
+
+
+I send to you my silent prayer
+I send to you my silent prayer
+I send to you my silent (baby) prayer (every hour)
+my silent prayer
+
+
+
+
 

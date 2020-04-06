@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: freedom-wham-
+lyrics_url: https://www.azlyrics.com/lyrics/wham/freedom.html
 name: Freedom
 rankings:
 - end_date: '1985-08-02'
@@ -79,4 +80,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
 ---
+
+Everyday I hear a different story
+People saying that you're no good for me
+"Saw your lover with another, and she's making a fool of you."
+
+If you loved me baby, you'd deny it
+But you laugh and tell me I should try it
+Tell me I'm a baby and I don't understand
+
+But you know that I'll forgive you
+Just this once, twice, forever
+'Cause, baby, you could drag me to hell and back
+Just as long as we're together
+And you do
+
+I don't want your freedom
+I don't want to play around
+I don't want nobody, baby
+Part-time love just brings me down
+I don't need your freedom
+Girl, all I want right now is you
+
+Like a prisoner who has his own key
+But I can't escape until you love me
+I just go from day to day
+Knowing all about the other boys
+
+You take my hand and tell me I'm a fool
+To give you all that I do
+I bet you: someday, baby
+Someone says the same to you
+
+But you know that I'll forgive you
+Just this once, twice, forever
+'Cause, baby, you could drag me to hell and back
+Just as long as we're together
+And you do
+
+Oh oh
+
+I don't want your freedom
+I don't want to play around
+I don't want nobody, baby
+Part-time love just brings me down
+I don't want your freedom
+Girl, all I want right now is you
+
+Do do do do do
+Can't you see you're hurting me?
+Do do do do do
+
+You're hurting me, baby
+Hurting me, baby
+
+Oh oh
+
+Do do doo doo
+
+You're hurting me baby
+Hurting me baby
+
+But you know that I'll forgive you
+Just this once, twice, forever
+'Cause, baby, you could drag me to hell and back
+Just as long as we're together
+And you do oh
+
+I don't want your freedom
+I don't need to play around
+I don't want nobody, baby
+Part-time love just brings me down
+I don't want your freedom
+I don't want to play around
+I don't want nobody, baby
+Part-time love just brings me down
+
+I don't want your
+I don't want your
+I don't want your
+I don't want your
+I don't want your
+I don't want your
+I don't want your
+I don't want your
+
+
 

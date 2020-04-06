@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feels-like-tonight-daughtry
+lyrics_url: https://www.azlyrics.com/lyrics/daughtry/feelsliketonight.html
 name: Feels Like Tonight
 rankings:
 - end_date: '2008-02-15'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
 ---
+
+You, you got me
+Thinking it'll be alright.
+You, you told me,
+"Come and take a look inside."
+You believed me,
+In every single lie.
+But I, I failed you this time.
+
+And it feels like tonight.
+I can't believe I'm broken inside.
+Can't you see that there's nothing that I wanna do,
+But try to make it up to you?
+And it feels like tonight,
+Tonight.
+
+I was waiting
+For the day you'd come around.
+I was chasing,
+And nothing was all I found.
+From the moment you came into my life,
+You showed me what's right.
+
+And it feels like tonight.
+I can't believe I'm broken inside.
+Can't you see that there's nothing that I wanna do,
+But try to make it up to you?
+And it feels like tonight.
+
+I never felt like this before.
+Just when I leave, I'm back for more.
+Nothing else here seems to matter.
+In these ever-changing days,
+You're the one thing that remains.
+I could stay like this forever.
+
+And it feels like tonight.
+I can't believe I'm broken inside.
+Can't you see that there's nothing that I wanna do,
+But try to make it up to you?
+And it feels like tonight.
+Tonight.
+Tonight.
+'Cause there's nothing that I wanna do,
+But try to make it up to you.
+And it feels like tonight.
+Tonight.
+
+
 

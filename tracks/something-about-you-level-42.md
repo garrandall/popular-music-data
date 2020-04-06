@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-about-you-level-42
+lyrics_url: https://www.azlyrics.com/lyrics/ninjasexparty/somethingaboutyou.html
 name: Something About You
 rankings:
 - end_date: '1986-02-21'
@@ -115,4 +116,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
 ---
+
+How, how can it be that a love
+Carved out of caring, fashioned by fate
+Could suffer so hard
+From the games played once too often?
+But making mistakes
+Is a part of life's imperfections
+Born of the years
+Is it so wrong to be human after all?
+
+Drawn into the stream
+Of undefined illusion
+Those diamond dreams
+They can't disguise the truth
+
+That there is something about you
+Baby so right
+I wouldn't be without you baby tonight
+
+If ever our love was concealed
+No one can say that we didn't feel
+A million things
+And a perfect dream of life
+Gone, fragile but free
+We remain tender together
+If not so in love
+It's not so wrong
+We're only human after all
+
+These changing years
+They add to your confusion
+Oh and you need to hear
+The time that told the truth
+
+Because there's something about you
+Baby so right
+I couldn't be without you
+Baby tonight
+
+I know there's something about you
+Baby
+And I couldn't live without you
+Tonight
+
+
 

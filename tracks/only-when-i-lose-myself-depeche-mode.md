@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-when-i-lose-myself-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/depechemode/onlywhenilosemyself.html
 name: Only When I Lose Myself
 rankings:
 - end_date: '1998-10-09'
@@ -43,4 +44,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+
+Something beautiful is happening inside for me
+Something sensual, it's full of fire and mystery
+I feel hypnotized, I feel paralized
+I have found heaven
+There's a thousand reasons
+Why I shouldn't spend my time with you
+For every reason not to be here I can think of two
+Keep me hanging on
+Feeling nothing's wrong
+Inside your heaven
+
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+
+I can feel the emptiness inside me fade and disappear
+There's a feeling of conteptment now that you are here
+I feel satisfied
+I belong inside
+Your velvet heaven
+
+Did I need to sell my soul
+For pleasure like this
+Did I have to lose control
+To treasure your kiss
+Did I need to place my heart
+In the palm of your hand
+Before I could even start
+To understand
+
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+It's only when I lose myself with someone else
+That I find myself
+I find myself
+
+
 

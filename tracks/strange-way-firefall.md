@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-way-firefall
+lyrics_url: https://www.azlyrics.com/lyrics/firefall/strangeway.html
 name: Strange Way
 rankings:
 - end_date: '1978-10-06'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+
+Didn't I hear you cry this morning, didn't I feel you weep?
+Teardrops flowin' down on me, like rivers in my sleep.
+And in my dream of laughter, you came creepin' with your fears.
+Telling me your sorrows, in the tracings of your tears.
+
+That's a strange way to tell me you love me
+When your sorrow is all I can see
+If you just want to cry to somebody, don't cry to me, no
+Don't cry to me, no
+
+Didn't I hear your voice this morning, didn't you call my name?
+I heard you whisper softly, but the words were never plain.
+And in your dream of darkness, I came shinin' like the sun.
+Waiting for the laughter, but the laughter never comes.
+
+That's a strange way to tell me you love me
+When your sorrow is all I can see
+If you just want to cry to somebody, don't cry to me, no
+Don't cry to me, no
+
+Didn't you feel alone this morning, didn't you need a friend?
+And in your darkest hour, you came runnin' back again
+
+That's a strange way to tell me you love me
+That's a strange way to tell me you love me
+That's a strange way to tell me you love me
+
+
 

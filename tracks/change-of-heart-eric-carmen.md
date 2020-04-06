@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-of-heart-eric-carmen
+lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/changeofheart.html
 name: Change Of Heart
 rankings:
 - end_date: '1978-09-22'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+
+I can still recall when we said that our love was forever
+All those plans we made for tomorrow that looked so bright
+Ah, and I understand all the reasons you gave me for leaving
+But that doesn't help when I'm sleeping alone each night
+
+Ah, so if you ever have a change of heart
+Just remember it's not too late to start
+If you still believe in what love can do
+
+I could find someone more than willing to be your replacement
+But there's no one else who can move me the way you do
+Ah, so for now, goodbye, but if ever you find you still want me
+You just call my name, 'cause I'll always be here for you
+
+Ah, so if you ever have a change of heart
+Just remember it's not too late to start
+If you still believe in what love can do
+
+Nothing you could ever do would change the things I know
+Deep in my heart
+So I got to make you understand before I go
+Sooner or later, I don't know when
+I'm gonna get you back in my arms again
+
+And if you ever have a change of heart
+Just remember it's not too late to start
+If you still believe in what love can do
+
+So if you ever have a change of heart
+Just remember it's not too late to start
+If you still believe in what love can do
+
+So if you ever have a change of heart
+Just remember it's not too late to start
+If you still believe in what love can do
+
+
 

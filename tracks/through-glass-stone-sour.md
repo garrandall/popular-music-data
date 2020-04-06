@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: through-glass-stone-sour
+lyrics_url: https://www.azlyrics.com/lyrics/stonesour/throughglass.html
 name: Through Glass
 rankings:
 - end_date: '2006-08-25'
@@ -111,4 +112,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
 ---
+
+I'm looking at you through the glass
+Don't know how much time has passed
+Oh, god it feels like forever
+But no one ever tells you
+That forever feels like home
+Sitting all alone inside your head
+
+
+'Cause I'm looking at you through the glass
+Don't know how much time has passed
+All I know is that it feels like forever
+But no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+How do you feel? That is the question
+But I forget you don't expect an easy answer
+When something like a soul becomes initialized
+And folded up like paper dolls and little notes
+You can't expect a bit of hope
+
+So while you're outside looking in
+Describing what you see
+Remember what you're staring at is me
+
+'Cause I'm looking at you through the glass
+Don't know how much time has passed
+All I know is that it feels like forever
+And no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+How much is real? So much to question
+An epidemic of the mannequins
+Contaminating everything
+We thought came from the heart
+It never did right from the start
+Just listen to the noises
+(Null and void instead of voices)
+
+Before you tell yourself
+It's just a different scene
+Remember it's just different from what you've seen
+
+I'm looking at you through the glass
+Don't know how much time has passed
+And all I know is that it feels like forever
+And no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+'Cause I'm looking at you through the glass
+Don't know how much time has passed
+All I know is that it feels like forever
+And no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+And it's the stars
+The stars
+That shine for you
+And it's the stars
+The stars
+That lie to you, yeah-ah
+
+
+I'm looking at you through the glass
+Don't know how much time has passed
+Oh, god it feels like forever
+But no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+'Cause I'm looking at you through the glass
+Don't know how much time has passed
+All I know is that it feels like forever
+But no one ever tells you that forever feels like home
+Sitting all alone inside your head
+
+And it's the stars
+The stars
+That shine for you, yeah-ah
+And it's the stars
+The stars
+That lie to you, yeah-ah
+
+And it's the stars
+The stars
+That shine for you, yeah-ah
+And it's the stars
+The stars
+That lie to you, yeah-ah, yeah
+
+Oh, and the stars
+Oh, and the stars, they lie
+
+
 

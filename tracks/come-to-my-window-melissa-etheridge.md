@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-to-my-window-melissa-etheridge
+lyrics_url: https://www.azlyrics.com/lyrics/6cyclemind/cometomywindow.html
 name: Come To My Window
 rankings:
 - end_date: '1994-03-04'
@@ -183,4 +184,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
 ---
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home
+
+I would dial the numbers
+Just to listen to your breath
+I would stand inside my hell
+And hold the hand of death
+You don't know how far I'd go
+To ease this precious ache
+You don't know how much I'd give
+Or how much I can take
+
+Just to reach you
+Just to reach you
+Oh to reach you
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+
+Keeping my eyes open
+I cannot afford to sleep
+Giving away promises
+I know that I can't keep
+Nothing fills the blackness
+That has seeped into my chest
+I need you in my blood
+I am forsaking all the rest
+
+Just to reach you
+Just to reach you
+Oh to reach you
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+
+I don't care what they think
+I don't care what they say
+What do they know about this love anyway
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home, I'll be home
+I'll be home, I'll be home
+I'm coming home
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+I'll be home, I'll be home
+I'm coming home
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+I'll be home, I'll be home, I'll be home
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+I'll be home, I'm coming home
+
+Come to my window
+Crawl inside, wait by the light of the moon
+Come to my window
+I'll be home soon
+I'll be home, I'll be home, I'll be home soon
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whole-lotta-loving-fats-domino
+lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/wholelottaloving.html
 name: Whole Lotta Loving
 rankings:
 - end_date: '1958-11-23'
@@ -67,4 +68,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
 ---
+
+I got a whole lot of lovin'
+Baby just waiting for you
+I got a whole lot of lovin'
+Baby just waiting for you
+And the way I could love you woman
+Honey I know you could love me too
+
+Oh you're so good lookin' baby
+And you build up from the ground
+Well you're so good lookin' baby
+And you build up from the ground
+
+Every time I see you baby
+My love starts tumbling down
+
+Yeah, you're just my type baby
+Just my height and size
+Said you're just my type baby
+You're just my height and size
+And the reason I love you
+Because you've got those little dreamy eyes
+
+
 

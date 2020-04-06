@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-over-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/samhunt/comeover.html
 name: Come Over
 rankings:
 - end_date: '2012-06-08'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
 ---
+
+I turn the TV off, to turn it on again
+Staring at the blades of the fan as it spins around
+Counting every crack, the clock is wide awake
+Talking to myself, anything to make a sound
+
+I told you I wouldn't call, I told you I wouldn't care
+But baby climbing the walls gets me nowhere
+I don't think that I can take this bed getting any colder
+Come over, come over, come over, come over, come over
+
+You can say we're done the way you always do
+It's easier to lie to me than to yourself
+Forget about your friends, you know they're gonna say
+We're bad for each other, but we ain't good for anyone else
+
+I told you I wouldn't call, I told you I wouldn't care
+But baby climbing the walls gets me nowhere
+I don't think that I can take this bed getting any colder
+Come over, come over, come over, come over, come over
+
+We don't have to miss each other, come over
+We don't have to fix each other, come over
+We don't have to say forever, come over
+You don't have to stay forever, come over
+
+I told you I wouldn't call, I told you I wouldn't care
+But baby climbing the walls gets me nowhere
+I don't think that I can take this bed getting any colder
+Come over, come over, come over, come over, come over
+Come over, come over, come over, come over, come over ohhhh
+
+Grab your key,
+Climb in your car,
+Put your headlights in my yard,
+Pull up the drive,
+Put it in park,
+Walk inside,
+Underneath my stars
+
+I'll be waiting,
+I'll be waiting,
+Don't say a word,
+Don't say a word,
+Come over.
+
+
 

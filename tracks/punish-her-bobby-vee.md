@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: punish-her-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/punishher.html
 name: Punish Her
 rankings:
 - end_date: '1962-09-07'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
 ---
+
+If she has wronged you
+Found someone new
+But you feel it's not over
+Here's what you must do
+
+Punish her - kill her with kindness
+Oh, buy her red roses everyday
+Ah, punish her with so much affection
+That she will cry for the love she threw away
+
+She'll soon rediscover with tears in her eyes
+That you're the only lover she was born to idolize
+
+Just punish her - blind her with kisses
+Ah, till she can't see how she let you go
+Then whisper darling, darling, darling
+I still love you so
+
+Punish her, punish her
+Punish her, punish her
+
+Ah, punish her - blind her with kisses
+Till she can't see how she let you go
+Then whisper darling, darling, darling
+I still love you so
+
+Punish her, punish her
+Punish her, punish her
+
+
 

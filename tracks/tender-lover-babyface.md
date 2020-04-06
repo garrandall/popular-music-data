@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tender-lover-babyface
+lyrics_url: https://www.azlyrics.com/lyrics/babyface/tenderlover.html
 name: Tender Lover
 rankings:
 - end_date: '1989-11-24'
@@ -75,4 +76,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
 ---
+
+Feels good, everybody
+Tender lover, tender love
+
+Eleanor Rigby
+Spends half her life all alone
+No fault of her own
+Made a decision
+Love has no place in her home
+Love it has a right to go
+
+Love has no limit
+If you believe in love
+It'll open up so
+Don't even give in
+'Cause if it starts to give
+Just hold on
+We didn't didn't make it
+But love'll get you by
+If you only try
+Just don't give up on love
+'Cause it didn't work out this time
+
+Tender lover, girl, I'm so sorry
+Well I never meant to hurt you
+I never meant to break your heart
+Tender love, so broken hearted
+Well I never meant to break your
+Break your little tender heart
+
+Don't ever give up
+In spite of our love
+Love is much too precious
+It's greater than both of us
+There's more than enough
+Keep lookin' for love
+Just be a believer
+It'll give you what you want
+
+Sky is the limit
+If you believe in love
+It'll open up so
+Don't ever give in
+'Cause if it starts to give
+Just hold on
+We didn't didn't make it
+But love'll get you by
+If you only try
+Just don't give up on love
+'Cause it didn't work out this time
+
+
+
+My tender lover
+
+Tender lover, tender love
+Tender lover, tender love
+
+Love has no limit
+If you believe in love
+It'll open up so
+Don't even give in
+'Cause if it starts to give
+Just hold on
+We didn't didn't make it
+But love'll get you by
+If you only try
+Just don't give up on love
+'Cause it didn't work out this time
+
+
+
+
 

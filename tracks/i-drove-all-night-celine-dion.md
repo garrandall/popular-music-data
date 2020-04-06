@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-drove-all-night-celine-dion
+lyrics_url: https://www.azlyrics.com/lyrics/celinedion/idroveallnight.html
 name: I Drove All Night
 rankings:
 - end_date: '2003-02-21'
@@ -59,4 +60,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
 ---
+
+I had to escape
+The city was sticky and cruel
+Maybe I should have called you first
+But I was dying to get to you
+I was dreaming while I drove
+The long straight road ahead, uh, huh
+
+Could taste your sweet kisses
+Your arms open wide
+This fever for you is just burning me up inside
+
+I drove all night to get to you
+Is that alright
+I drove all night
+Crept in your room
+Woke you from your sleep
+To make love to you
+Is that alright
+I drove all night
+
+What in this world
+Keeps us from falling apart
+No matter where I go I hear
+The beating of our one heart
+I think about you
+When the night is cold and dark
+No one can move me
+The way that you do
+Nothing erases this feeling between me and you
+
+I drove all night to get to you
+Is that alright
+I drove all night
+Crept in your room
+Woke you from your sleep
+To make love to you
+Is that alright
+I drove all night
+
+I taste your sweet kisses
+Your arms open wide
+This fever for you is just burning me up inside
+
+I drove all night to get to you
+Is that alright
+I drove all night
+Crept in your room
+Is that alright
+
+I drove all night
+I drove all night to get to you
+Is that alright
+I drove all night
+Crept in your room
+Woke you from your sleep
+
+
 

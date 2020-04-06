@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: find-another-fool-quarterflash
+lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/findanotherfool.html
 name: Find Another Fool
 rankings:
 - end_date: '1982-02-19'
@@ -59,4 +60,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
 ---
+
+I should have learned this lesson long ago
+That friends and lovers always come and go
+And now you claim that everything's O.K.
+But I've got just one thing to say
+
+Why don't you
+Find another (find another)
+Find another fool to love you
+Find another (find another)
+Find another fool to love you
+Find another, find another
+Find another fool to love you
+To love you
+Find another
+
+I don't believe that I deserve this ride
+You took me for my very heart and pride
+You let me down and now your hand is out
+Well, here's some spare change you can count
+
+Why don't you
+Find another (find another)
+Find another fool to love you
+Find another (find another)
+Find another fool to love you
+Find another, find another
+Find another fool to love you
+To love you
+Find another
+
+You pulled this once, you pulled it twice
+It's time you listened to my advice
+Oh, baby
+
+I'd never take advantage of our love
+I can't imagine what you're thinkin' of
+You're overdue, you think this storm is through
+Well, baby, I've got news for you
+
+Why don't you
+Find another (find another)
+Find another fool to love you
+Find another (find another)
+Find another fool to love you
+Find another (find another)
+Find another fool to love you
+Find another, find another
+Find another fool to love you
+To love you
+Find another
+
+
 

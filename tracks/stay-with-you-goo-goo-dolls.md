@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-with-you-goo-goo-dolls
+lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/staywithyou.html
 name: Stay With You
 rankings:
 - end_date: '2006-04-28'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
 ---
+
+These streets
+Turn me inside out
+Everything shines
+But leaves me empty still
+And I'll, burn this lonely house down
+If you run with me
+If you run with me
+
+I'll stay with you
+The walls will fall before we do
+Take my hand now
+We'll run forever
+I can feel the storm inside you
+I'll stay with you
+
+And fooled by my own desires
+I twist my fate
+Just to feel you
+But you, turn me toward the light
+And you're one with me
+Will you run with me?
+
+I'll stay with you
+The walls will fall before we do
+Take my hand now
+We'll run forever
+I can feel the storm inside you
+I'll stay with you
+
+Now come in from this storm
+I taste you sweet and warm
+Take what you need
+Take what you need
+From me
+
+Wake up this world
+Wake up tonight
+And run to me
+Run to me now
+
+I'll stay with you
+The walls will fall before we do
+Take my hand now
+We'll run forever
+I can feel the storm inside you
+I'll stay with you
+
+
 

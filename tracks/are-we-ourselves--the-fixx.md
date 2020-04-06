@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-we-ourselves--the-fixx
+lyrics_url: https://www.azlyrics.com/lyrics/fixx/areweourselves.html
 name: Are We Ourselves?
 rankings:
 - end_date: '1984-08-24'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
 ---
+
+Lost feelings return
+So maybe I can learn
+To stop the world of a lie
+This time around
+
+Are we, are we, are we ourselves?
+Are we, are we, are we ourselves?
+
+Because seen through these eyes
+We lead a double life
+No one will know
+So check it out steppin' out here I go
+
+Are we, are we, are we ourselves?
+Are we ourselves and do we really know?
+
+Well, lost spirit returns
+Now maybe we learn
+To stop this world of a lie
+To this earth we are bound I ask you
+
+Are we, are we, are we ourselves?
+(Are we ourselves?)
+Are we ourselves, and do we really know?
+Ooo, do we know, are we ourselves?
+(Are we ourselves?)
+(Are we ourselves?)
+Are we ourselves?
+Do we really know?
+(Are we ourselves?)
+
+
 

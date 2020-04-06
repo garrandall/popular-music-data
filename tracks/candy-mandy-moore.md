@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candy-mandy-moore
+lyrics_url: https://www.azlyrics.com/lyrics/mandymoore/candy.html
 name: Candy
 rankings:
 - end_date: '1999-09-17'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
 ---
+
+I'm so addicted 
+To the loving that you're feeding to me 
+Can't do without it. 
+This feeling's got me weak in the knees 
+Body's in withdrawal 
+Every time you take it away 
+Can't you hear me calling 
+Begging you to come out and play? 
+So baby come to me 
+Show me who you are 
+Sweet to me 
+Like sugar to my heart 
+oooh baby 
+I'm craving for you 
+I'm missing you like candy 
+Sweet sweet loving 
+Got me going to the extreme 
+Won't go without it 
+This vibe has gotta hold on me 
+Satisfying baby 
+Let me show what i'm made of 
+No doubt about it 
+Got me feeling crazy can't get enough. 
+So baby come to me 
+Show me who you are 
+Sweet to me 
+Like sugar to my heart 
+oooh baby 
+I'm craving for you 
+I'm missing you like candy 
+So baby come to me 
+Show me who you are 
+Sweet to me 
+Like sugar to my heart 
+oooh baby 
+I'm craving for you 
+I'm missing you like candy 
+Now give it to me 
+You know who you are 
+Your love's as sweet as candy 
+I'll be forever yours 
+Love always, Mandy 
+Boy I'm cravin' 
+Missin' you like candy 
+So baby come to me 
+Show me who you are 
+Sweet to me 
+Like sugar to my heart 
+oooh baby 
+I'm craving for you 
+I'm missing you like candy 
+So baby come to me 
+Show me who you are 
+Sweet to me 
+Like sugar to my heart 
+oooh baby 
+I'm craving for you 
+I'm missing you like candy
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-only-love-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/trusteachotherinlove.html
 name: It's Only Love
 rankings:
 - end_date: '1966-11-11'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
 ---
+
+Look at you, look at me,
+Look at all the things you doubt now.
+That's not how love should be,
+Baby, let it all come out now.
+Some people say there are games you should play, but it's not true.
+Don't waste your time; there's no rhyme; love is blind so we got to
+Trust each other in love
+And we can't stop believing for a single day.
+We got to trust each other in love.
+Oh, take my hand, can't you see it's the only way?
+
+Look at me, look at you,
+If you open up your eyes, girl.
+You will find love is true
+And it has no room for lies, girl.
+When you're in love there are things to think of that you can't do.
+Don't be in doubt; talk it out; that's about all you can do.
+Trust each other in love
+And we can't stop believing for a single day.
+We got to trust each other in love.
+Oh, take my hand, can't you see it's the only way?
+
+Trust each other in love
+And we can't stop believing for a single day.
+We got to trust each other in love.
+Oh, take my hand, can't you see it's the only way?
+
+
+
 

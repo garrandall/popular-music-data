@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bump-n--grind-r--kelly
+lyrics_url: https://www.azlyrics.com/lyrics/miclowry/bumpngrind.html
 name: Bump N' Grind
 rankings:
 - end_date: '1994-02-11'
@@ -107,4 +108,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
 ---
+
+My mind's telling me no
+But my body, my body's telling me yes
+No, I don't wanna hurt nobody
+I said I don't wanna hurt nobody
+But there is something, that I
+Must confess
+
+Sing
+I don't see nothing wrong (Wrong)
+Oh with a little bump n' grind
+I don't see nothing wrong (Wrong)
+(I can't hear you sing along
+Let's get a little bit louder
+MiC LOWRY say)
+I don't see nothing wrong (Wrong)
+(I don't see) With a little bump n' grind
+I don't see nothing wrong (Wrong)
+
+Said I know just what you want
+And I know just what you need, girl
+(Baby bring your body to me)
+Bring your body, baby
+I'm not fooling around with you
+And baby my love is true
+With you (Home is where I wanna be)
+Is where, I wanna be
+I said you need someone, someone like me yeah
+To satisfy your every need
+
+I don't see nothing wrong (Wrong) I don't see
+With a little bump n' grind
+(Nothing wrong with a little)
+I don't see nothing wrong (Wrong)
+(Oh, and I can't hear you sing along)
+I don't see nothing wrong (Wrong)
+(Sing it for me louder)
+With a little bump n' grind
+I don't see nothing wrong (Wrong)
+(MiC LOWRY sing it louder, sing it louder
+Sing it louder, sing it louder, no-oh)
+
+You said, he's not treating you right
+Lady, spend the night
+I'll (I'll love you like you wanna be loved)
+Girl won't you try some of me
+No need to look no more
+Because I've opened up my door
+You'll never (Home is where I wanna be) Baby
+And you'll never find another me
+
+I said you need someone, someone like me, no
+To make love to you, baby, constantly
+
+I don't see nothing wrong (Wrong) I don't see
+With a little bump n' grind
+(Nothing wrong with a little)
+I don't see nothing wrong (Wrong)
+(MiC LOWRY sing it louder, sing it louder
+Can you sing it louder, ooh)
+I don't see nothing wrong (Wrong)
+(I can't hear you)
+With a little bump n' grind
+(Yeah that's how I like it)
+I don't see nothing wrong (Wrong)
+
+There, there
+Ain't nothing wrong
+There, there
+Ain't nothing wrong
+
+I don't see nothing wrong (Wrong)
+(Sing, I don't, I don't)
+With a little bump n' grind
+I don't see nothing wrong (Wrong)
+(Baby, baby, baby, baby)
+I don't see nothing wrong (Wrong)
+(I don't, I don't)
+With a little bump n' grind
+I don't see nothing wrong (Wrong)
+No I don't see nothing wrong
+
+
 

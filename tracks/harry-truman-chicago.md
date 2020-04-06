@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harry-truman-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/harrytruman.html
 name: Harry Truman
 rankings:
 - end_date: '1975-02-28'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
 ---
+
+America needs you
+Harry Truman
+Harry could you please come home
+Things are looking bad
+I know you would be mad
+To see what kind of men
+Prevail upon the land you love
+America's wondering
+How we got here
+Harry all we get is lies
+We're gettin' safer cars
+Rocket ships to mars
+From men who'd sell us out
+To get themselves a piece of power
+We'd love to hear you speak your mind
+In plain and simple ways
+Call a spade a spade
+Like you did back in the day
+You would play piano
+Each morning walk a mile
+Speak of what was going down
+With honesty and style
+America's calling
+Harry Truman
+Harry you know what to do
+The world is turnin' round and losin' lots of ground
+Oh Harry is there something we can do to save the land we love
+Oh woah woah woah
+America's calling
+Harry Truman
+Harry you know what to do
+The world is turnin' round
+And losin' lots of ground
+So Harry is there something we can do to save the land we love
+Oh
+Harry is there something we can do to save the land we love
+Harry
+Harry is there something we can do to save the land we love
+
+
 

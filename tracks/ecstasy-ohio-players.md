@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ecstasy-ohio-players
+lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/ecstasy.html
 name: Ecstasy
 rankings:
 - end_date: '1973-08-17'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
 ---
+
+Well, wanna tell you
+'Bout my baby, my baby
+I'll never, never, never
+Leave her, leave her, no, no
+
+Loving you, loving you
+Is ecstasy to me
+I could never leave you
+Never do without your love
+
+(I could never do without you)
+
+Oh, no, oh, no
+No, baby, no
+
+I wanna tell you, I never
+Never leave you, baby, no, no
+Loving you is ecstasy to me
+And I'll never do, never do
+Without your love, baby, no
+Your love, never, baby, no
+
+(No, no, no, could never do without you)
+(Oh, no, oh, no, I could never do without you)
+(Oh, no, oh, no, I could never do without you)
+(Oh, no, oh, no, I could never do without you)
+(Oh, no, oh, no, I could never do without you)
+(Oh, no, oh, no, I could never do without you)
+(Oh, no, oh, no, I could never do without you)
+
+
 

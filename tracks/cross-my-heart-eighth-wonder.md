@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cross-my-heart-eighth-wonder
+lyrics_url: https://www.azlyrics.com/lyrics/martika/crossmyheart.html
 name: Cross My Heart
 rankings:
 - end_date: '1988-11-25'
@@ -71,4 +72,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
 ---
+
+Hypnotized
+With just one look at you
+I'm paralyzed
+I can't explain
+Why just one touch from you
+Drives me insane
+
+You've got me head over heels
+Better believe it baby
+And I love how it feels
+
+Cross my heart
+Hope to die
+May lightning strike me
+If I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone
+More than I'm loving you
+Cross my heart it's true
+
+Believe me
+
+Heavenly
+Something happens
+When you're next to me
+I get chills
+You can ask me anything
+And babe I will
+
+You've got me out of control
+Better believe it baby
+Form my head to my toes
+
+Cross my heart
+Hope to die
+May lightning strike me
+If I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone
+More than I'm loving you
+Cross my heart it's true
+
+You're my valentine
+Every month of the year
+Baby rain or shine
+I'm so happy when you're here
+I want you all the time
+Am I making myself clear?
+My love's gonna last forever
+Cross my heart
+
+Cross my heart
+
+I've never loved anyone
+More than I'm loving you
+
+Cross my heart
+Hope to die
+May lightning strike me
+If I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone
+More than I'm loving you
+
+Cross my heart
+Hope to die
+May lightning strike me
+If I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone
+More than I'm loving you
+
+Cross my heart
+Hope to die
+May lightning strike me
+If I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone
+More than I'm loving you
+
+
 

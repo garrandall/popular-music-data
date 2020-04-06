@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-jeannie-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/littlejeannie.html
 name: Little Jeannie
 rankings:
 - end_date: '1980-05-09'
@@ -91,4 +92,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
 ---
+
+Oh little Jeannie, you got so much love, little Jeannie
+And you take it where it strikes and give it to the likes of me
+Oh little Jeannie, she got so much love, little Jeannie
+So I see you when I can, you make me all a man can be
+
+And I want you to be my acrobat, I want you to be my lover
+Oh there were others who would treat you cruel
+And oh little Jeannie, you were always someone's fool
+
+Little Jeannie, you got so much time, little Jeannie
+Though you've grown beyond your years, you still retain the fears of youth
+Oh little Jeannie, you got so much time, little Jeannie
+But you're burning it up so fast, searching for some lasting truth
+
+And I want you to be my acrobat, I want you to be my lover
+Oh there were others who would treat you cruel
+But oh Jeannie, I will always be your fool
+
+And I want you to be my acrobat, I want you to be my lover
+Oh there were others, and I've known quite a few
+But oh oh Jeannie, I'm still in love with you
+
+Stepped into my life from a bad dream
+Making the life that I had seem suddenly shiny and new
+Oh Jeannie I'm so in love with you
+Stepped into my life from a bad dream
+
+
 

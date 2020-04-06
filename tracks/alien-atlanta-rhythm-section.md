@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alien-atlanta-rhythm-section
+lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/alien.html
 name: Alien
 rankings:
 - end_date: '1981-09-04'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
 ---
+
+The sun just went behind a cloud again
+Down crowded streets he walks alone
+He's a stranger out of place
+A number not a face
+And all day long, all day long
+
+He's feelin' like an alien
+Feelin' like he don't belong
+Have mercy, cried the alien
+Help him find his way back home
+
+The feelin' that he feels he can't explain
+Sunday, Monday, Tuesday, they're all the same
+He's lost and all alone
+A heart without a home
+Standin' like a statue in the rain
+
+He's feelin' like an alien
+Feelin' like he don't belong
+Have mercy, cried the alien
+Help him find his way back home
+
+Now, now and then we all are aliens
+Feelin' like we don't belong
+Have mercy, cried the alien
+Help him find his way back home
+
+Feelin' like an alien
+He's feelin' like he don't belong
+Have mercy, cried the alien
+Help him find his way
+Help him find his way
+
+
 

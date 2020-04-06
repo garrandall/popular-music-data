@@ -5,6 +5,7 @@ features:
 - Eric Turner
 genres: []
 key: written-in-the-stars-tinie-tempah-eric-turner
+lyrics_url: https://www.azlyrics.com/lyrics/tinietempah/writteninthestars20.html
 name: Written In The Stars
 rankings:
 - end_date: '2011-03-11'
@@ -88,4 +89,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
 ---
+
+Oh! Written in the stars
+A million miles away
+A message to the main. O-o-o-oh
+Seasons come and go
+But I will never change
+And I'm on my way
+
+Is it the sound of an angel, rung by the savior, a mixture of hate and all its grace?
+Is it the color of lonely and suffering souls that take you away?
+Is it the top of the mountain or the feeling you've found it that really flows? Yeah-ah-ah-ah
+Is it the perfect relationship or something in place of it that keeps the mood going? Yee-ee-ee-e-e-e
+
+Written in the stars
+A million miles away
+A message to the main. O-o-o-oh
+Seasons come and go
+But I will never change
+And I'm on my way
+
+Is it the top of the mountain or the feeling you've found it that really flows? Yeah-ah-ah-ah
+Is it the perfect relationship or something in place of it that keeps the mood going? Yee-ee-ee-e-e-e
+Written in the stars
+Written in the stars
+
+Oh! Written in the stars
+A million miles away
+A message to the main. O-o-o-oh
+Seasons come and go
+But I will never change
+And I'm on my way
+
+Is it the top of the mountain?
+I'm on my way
+
+
 

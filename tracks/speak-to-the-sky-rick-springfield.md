@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: speak-to-the-sky-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/speaktothesky164713.html
 name: Speak To The Sky
 rankings:
 - end_date: '1972-08-11'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
 ---
+
+Speak to the sky when ever things go wrong 
+and you know you're not talkin' to the air, to the air 
+and the world will look better from up there
+
+Speak to the sky 'cause things can get ya down 
+and you know when you're talkin' to the Lord, to the Lord 
+the world will look better than before
+
+And if I stumble and it seems that I am blind 
+or if the road I'm on seems awful hard to find 
+and though my conversation doesn't always rhyme 
+I always try to find some time to .......
+
+Speak to the sky and tell you how I feel 
+and to know sometimes what I say ain't right 
+It's all right 
+cause I speak to the sky every night
+
+And if I stumble and it seems that I am blind 
+or if the road I'm on seems awful hard to find 
+and though my conversation doesn't always rhyme 
+I always try to find some time to .......
+
+Speak to the sky and tell you how I feel 
+and to know sometimes what I say ain't right 
+It's all right 
+cause I speak to the sky every night
+
+Speak to the sky when ever things go wrong 
+and you know you're not talkin' to the air, to the air 
+and the world will look better from up there
+and the world will look better from up there
+and the world will look better from up there
+
+
 

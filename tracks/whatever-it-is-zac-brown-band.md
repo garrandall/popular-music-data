@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatever-it-is-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/whateveritis.html
 name: Whatever It Is
 rankings:
 - end_date: '2009-04-03'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
 ---
+
+She got eyes that cut you like a
+Knife and lips that taste like sweet red wine
+And her pretty legs go to heaven every time
+She got a gentle way that puts me at ease
+And when she walks in a room I can hardly breathe
+Got a devastating smile knock a grown man to his knees
+
+She got whatever it is
+It blows me away
+She's everything I want to say to a woman
+But I couldn't find the words to say
+She got whatever it is
+I don't know what to do
+'Cause every time I try and tell her how I feel
+It comes out "I love you"
+You got whatever it is
+
+You know I've never been the type that would ever want to stay
+Bring 'em home at night and they're gone the next day
+But that all changed when she walked into my life
+And people ask me why it is
+Tell them I don't know
+There's just something 'bout the woman makes my heart go haywire
+She's gonna be my wife
+
+She got whatever it is
+It blows me away
+She's everything I want to say to a woman
+But I couldn't find the words to say
+She got whatever it is
+I don't know what to do
+'Cause every time I try and tell her how I feel
+It comes out "I love you"
+You got whatever it is
+
+'Cause when she loves me
+Girl that's how I feel
+'Cause when she loves me
+I'm on top of the world
+'Cause when she loves me
+No, I can live forever
+And when she loves me
+I am untouchable
+
+She's got whatever it is
+It blows me away
+She's everything I wanted to say to a woman
+But couldn't find the words to say
+She's got whatever it is
+I don't know what to do
+'Cause every time I try and tell her how I feel
+It comes out "I love you" (I do)
+You got whatever it is
+Oh, you got whatever it is
+
+
 

@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: serpentine-fire-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/serpentinefire.html
 name: Serpentine Fire
 rankings:
 - end_date: '1977-11-04'
@@ -81,4 +82,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
 ---
+
+When I see you're face like the mornin sun you spark me to shine
+Tell all the world, my need is fulfilled and that's a new design
+As long as you're near, there is no fear of a victory
+But when I'm away, influences stray my mind to disagree
+I wanna see your face in the morning sun ignite my energy
+The cause and effect of you has brought new meaning in my life to me
+
+Gonna tell a story morning glory all about the serpentine fire
+Gonna tell a story morning glory all about the serpentine fire
+
+Oh yeah oh yeah oh yeah, oh yeah oh yeah oh yeah
+I need to see your face like the morning sun ignite my energy
+The cause and effect of you has brought new meaning in my life to me
+The moments I find when I'm inclined to do my best
+Negative wins when I give in and then I lose the test (not many times)
+
+Gonna tell a story morning glory all about the serpentine fire
+Surely as life begun, you will as one battle with the serpentine fire
+
+Oh yeah oh yeah oh yeah, oh yeah oh yeah oh yeah
+Surely as life begun, you will as one battle with the serpentine fire
+Surely as life begun, you will as one battle with the serpentine fire
+Gonna tell a story morning glory all about the serpentine fire
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-right-kinda-lover-patti-labelle
+lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/therightkindalover.html
 name: The Right Kinda Lover
 rankings:
 - end_date: '1994-07-08'
@@ -71,4 +72,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
 ---
+
+A real man
+Strong but tender
+Baby thats the kinda man i need
+to his love i will surrender
+Cause he'll keep his mond on pleasing me
+
+he's the right kinda lover
+I'll never need another
+sure 'nuff he's got the stuff
+he's the right kinda lover fot me
+
+he's the right kinda lover
+I'll never need another
+sure 'nuff he's got the stuff
+he's the right kinda lover fot me
+
+An interesting conversation
+Every night when i get down on my knees and pray
+I thank the lord for sending me Mr. Right my way
+This kind of love had to come from heaven down
+I ain't never going to let him go
+Because i need this kind of man around
+
+he's the right kinda lover
+I'll never need another
+sure 'nuff he's got the stuff
+he's the right kinda lover fot me
+
+
 

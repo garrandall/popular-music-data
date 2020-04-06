@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stones-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/stones.html
 name: Stones
 rankings:
 - end_date: '1971-11-19'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
 ---
+
+Stones would play inside her head
+And where she slept,
+They made her bed
+And she would ache for love
+And get but stones
+
+La la la la la la la la la
+
+Lordy, child
+A good day's comin'
+And I'll be there to let the sun in
+And bein' lost
+Is worth the comin' home
+
+La la la la la la la la la on stones
+
+You and me, a time for planting
+You and me, a harvest granting
+The every prayer ever prayed
+For just two wild flowers that grow
+
+La la la la la la la la la on stones
+Mmmmmmmm.....
+
+
 

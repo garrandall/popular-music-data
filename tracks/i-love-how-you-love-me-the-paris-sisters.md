@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-how-you-love-me-the-paris-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/ilovehowyouloveme.html
 name: I Love How You Love Me
 rankings:
 - end_date: '1961-09-10'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
 ---
+
+I love how your eyes close
+Whenever you kiss me.
+And when I'm away from you
+I love how you miss me. 
+I love the way you always
+Treat me tenderly. 
+But darlin' most of all,
+I love how you love me 
+
+I love how your heart beats
+Whenever I hold you.
+I love how you think of me
+Without being told to.
+I love the way your touch
+Is always heavenly. 
+But darlin' most of all
+I love how you love me.
+
+I love the way your touch
+Is always heavenly. 
+But darlin' most of all
+I love how you love me.
+
+I love how you hug me 
+I love how you squeeze me,
+Tease me, please me
+Love how you love me 
+
+I love how you love me
+
+
 

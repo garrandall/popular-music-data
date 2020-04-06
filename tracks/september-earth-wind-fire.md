@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: september-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/september.html
 name: September
 rankings:
 - end_date: '1978-11-24'
@@ -77,4 +78,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
 ---
+
+Do you remember the
+21st night of September?
+Love was changing the minds of pretenders
+While chasing the clouds away
+
+Our hearts were ringing
+In the key that our souls were singing
+As we danced in the night
+Remember how the stars stole the night away
+
+Ba de ya - say do you remember
+Ba de ya - dancing in September
+Ba de ya - never was a cloudy day
+
+Ba duda, ba duda, ba duda, badu
+Ba duda, badu, ba duda, badu
+Ba duda, badu, ba duda
+
+My thoughts are with you
+Holding hands with your heart to see you
+Only blue talk and love
+Remember how we knew love was here to stay
+
+Now December found the love we shared in September
+Only blue talk and love
+Remember the true love we share today
+
+Ba de ya - say do you remember
+Ba de ya - dancing in September
+Ba de ya - never was a cloudy day
+
+There was a
+Ba de ya - say do you remember
+Ba de ya - dancing in September
+Ba de ya - golden dreams were shiny days
+
+The bell was ringing, aha
+Our souls were singing
+Do you remember
+Never a cloudy day
+
+There was a
+Ba de ya - say do you remember
+Ba de ya - dancing in September
+Ba de ya - never was a cloudy day
+
+There was a
+Ba de ya - say do you remember
+Ba de ya - dancing in September
+Ba de ya - golden dreams were shiny days
+
+Ba de ya de ya de ya
+Ba de ya de ya de ya
+Ba de ya de ya de ya
+De ya
+
+Ba de ya de ya de ya
+Ba de ya de ya de ya
+Ba de ya de ya de ya
+
+
 

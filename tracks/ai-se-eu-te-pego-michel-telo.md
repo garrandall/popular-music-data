@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ai-se-eu-te-pego-michel-telo
+lyrics_url: https://www.azlyrics.com/lyrics/micheltelo/aiseeutepego.html
 name: Ai Se Eu Te Pego
 rankings:
 - end_date: '2012-04-20'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
 ---
+
+Nossa, nossa
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+DelÃ­cia, delÃ­cia
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+SÃ¡bado na balada
+A galera comeÃ§ou a danÃ§ar
+E passou a menina mais linda
+Tomei coragem e comecei a falar
+
+Nossa, nossa
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+DelÃ­cia, delÃ­cia
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+SÃ¡bado na balada
+A galera comeÃ§ou a danÃ§ar
+E passou a menina mais linda
+Tomei coragem e comecei a falar
+
+Nossa, nossa
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+DelÃ­cia, delÃ­cia
+Assim vocÃª me mata
+Ai se eu te pego, ai ai se eu te pego
+
+
 

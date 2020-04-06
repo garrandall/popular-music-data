@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: promises-nero
+lyrics_url: https://www.azlyrics.com/lyrics/skrillex/promisesremix.html
 name: Promises
 rankings:
 - end_date: '2012-07-20'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
 ---
+
+You got me so wild.
+How can I ever deny?
+You got me so high,
+So high I cannot feel the fire.
+
+And you keep telling me,
+telling me that you'll be sweet.
+And you never wanna leave my side
+As long as I don't break these...
+
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+
+And they still feel all so wasted on myself.
+
+And they still feel all so wasted on myself.
+
+You got me so wild.
+How can I ever deny?
+You got me so high,
+So high I cannot feel the fire.
+
+And you keep telling me,
+telling me that you'll be sweet.
+And you never wanna leave my side
+As long as I don't break these...
+
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+
+and they still feel all so wasted on myself.
+
+and they still feel all so wasted on myself.
+
+You got me so wild.
+How can I ever deny?
+You got me so high,
+So high I cannot feel the fire.
+
+And you keep telling me,
+telling me that you'll be sweet.
+And you never wanna leave my side
+As long as I don't break these...
+
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+Promises, and they still feel all so wasted on myself.
+
+
 

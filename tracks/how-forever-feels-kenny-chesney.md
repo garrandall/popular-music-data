@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-forever-feels-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/howforeverfeels.html
 name: How Forever Feels
 rankings:
 - end_date: '1999-02-12'
@@ -91,4 +92,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
 ---
+
+Big orange ball, sinkin' in the water
+Toes in the sand, couldn't get much hotter
+Little umbrella shaped margaritas
+Coconut oil, tannin' senioritas
+Now I know how Jimmy Buffet feels
+
+Hands on the wheel, cruisin' down the interstate
+Gas pedal sticks, carries my car away
+I was going fast as a Rambler goes
+I could feel the speed from my head to my toes
+Now I know how Richard Petty feels
+
+I've been around the block a time or two
+Done almost everything a boy can do
+I've done some livin', yeah I've had fun
+But there is one thing that I haven't done
+
+Saved two months, bought a little diamond
+Tonights the night, feels like perfect timin'
+Down on one knee on momma's front steps
+Man I'm gonna die if she really says yes
+I wanna know how forever feels
+
+I've been around the block a time or two
+Done almost everything a boy can do
+I've done some livin', yeah I've had fun
+But there is one thing that I haven't done
+
+I wanna know how forever feels
+Hey, I wanna know how forever feels
+Girl, I wanna know how forever feels
+
+
 

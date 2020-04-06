@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-wins-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/nobodywins.html
 name: Nobody Wins
 rankings:
 - end_date: '1981-05-15'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
 ---
+
+They must have loved each other once
+But that was many years ago
+And by the time I came along
+Things were already going wrong
+I felt the pain in their pretence
+The side they tried hard not to show
+But through the simple eyes of youth
+It wasn't hard to see the truth
+
+And in the end nobody wins
+When love begins to fall apart
+And it's the innocent who pay
+When broken dreams get in the way
+The game begins, the game nobody wins
+
+They must have loved each other once
+Before the magic slipped away
+And as their life became a lie
+What love remained began to die
+I used to hide beneath the sheets
+I prayed that time would find a way
+But with the passing of the years
+I watched as laughter turned to tears
+
+We used to love each other once
+With all the passion we possessed
+But people change as time goes by
+Some feelings grow while others die
+But if we learn from what we see
+And face the truth while we still can
+Then though the passion may be gone
+Some kind of love can still live on
+
+
 

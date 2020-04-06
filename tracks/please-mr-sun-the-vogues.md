@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-mr-sun-the-vogues
+lyrics_url: https://www.azlyrics.com/lyrics/vogues/pleasemrsun.html
 name: Please Mr Sun
 rankings:
 - end_date: '1966-09-30'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
 ---
+
+Talk to her please Mr. Sun
+Speak to her Mr. Rainbow
+And take her under
+Your branches Mr. Tree
+
+Whisper to her Mr. Wind
+(Whisper to her)
+Sing to her Mr. Robin
+And Mrs. Moonlight
+Put in a word for me
+
+(Talk to her)
+(Talk to her)
+
+Tell her how I feel
+(Tell her how I feel)
+It shouldn't end this way
+(Shouldn't end this way)
+Since you are all her friends
+She'll listen to what you say
+
+Tell it to her Mr. Moon
+(Tell it to her)
+Kiss her for me Miss Raindrop
+And watch to see they all do
+Please Mr. Sun
+
+(Talk to her)
+Please Mr. Sun
+(Talk to her)
+Mr. Sun
+
+
 

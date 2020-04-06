@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: consequences-camila-cabello
+lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/consequences.html
 name: Consequences
 rankings:
 - end_date: '2018-11-23'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
 ---
+
+Dirty tissues, trust issues
+Glasses on the sink, they didn't fix you
+Lonely pillows in a stranger's bed
+Little voices in my head
+Secret keeping, stop the bleeding
+Lost a little weight because I wasn't eating
+All the songs that I can't listen to, to tell the truth
+
+Loving you was young, and wild, and free
+Loving you was cool, and hot, and sweet
+Loving you was sunshine, safe and sound
+A steady place to let down my defenses
+But loving you had consequences
+
+Hesitation, awkward conversation
+Running on low expectation
+Every siren that I was ignoring
+I'm paying for it
+
+Loving you was young, and wild, and free
+Loving you was cool, and hot, and sweet
+Loving you was sunshine, safe and sound
+A steady place to let down my defenses
+But loving you had consequences
+
+No, ooh-ooh-ooh
+Said no, ooh-ooh-ooh
+I, no, ooh-ooh-ooh, mhm
+
+Loving you was dumb, dark, and cheap
+Loving you will still take shots at me
+Found loving you was sunshine, but then it poured
+And I lost so much more than my senses
+'Cause loving you had consequences
+
+Yeah, loving you
+
+
 

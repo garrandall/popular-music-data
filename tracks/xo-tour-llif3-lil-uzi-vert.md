@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: xo-tour-llif3-lil-uzi-vert
+lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/deathbedp2xotourllif3mashup.html
 name: XO TOUR Llif3
 rankings:
 - end_date: '2017-04-21'
@@ -143,4 +144,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
 ---
+
+Don't stay awake for too long
+Don't go to bed
+I'll make a cup of coffee for your head
+I'll get you up and going out of bed
+
+I don't wanna fall asleep, I don't wanna pass away
+I been thinking of our future cause I'll never see those days
+I don't know why this has happened, but I probably deserve it
+I tried to do my best, but you know that I'm not perfect
+I been praying for forgiveness, you been praying for my health
+And when I leave this earth, I'm hoping you'll find someone else
+Cause yeah, we still young, there's so much we haven't done
+Getting married, start a family, watch your husband with his son
+I wish it could be me, but I won't make it off this bed
+I hope I go to heaven, so I see you once again
+My life was kinda short, but I got so many blessings
+I'm happy you were mine, it just sucks that it's all ending
+
+Don't stay awake for too long
+Don't go to bed
+I'll make a cup of coffee for your head
+I'll get you up and going out of bed
+
+Don't stay awake for too long
+Don't go to bed
+I'll make a cup of coffee for your head
+I'll get you up and going out of bed
+
+I don't really care 'cause I'm done
+On the real, our love is not fun
+There's no emotion on my face 'cause I'm numb
+You see me everywhere you look, no, you can't hide or run
+
+And I don't really care if you cry
+On the real you should've never lied
+You should've saw the way she looked me in my eyes
+She said, "Baby, I am not afraid to, die"
+
+Everything I said
+Messin' with your head, yeah, messin' with your head, yeah
+Push me to the edge, all my friends are dead
+Push me to the edge, yeah, all my friends are dead
+
+Don't stay awake for too long
+Don't go to bed
+I'll make a cup of coffee for your head
+I'll get you up and going out of bed
+(Everything I said, messin' with your head)
+Don't stay awake for too long
+Don't go to bed (Everything I said, messin' with your head)
+I'll make a cup of coffee for your head (Messin' with your head))
+I'll get you up and going out of bed (Everything I said)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: calling-occupants-of-interplanetary-craft-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/callingoccupantsofinterplanetarycraft.html
 name: Calling Occupants Of Interplanetary Craft
 rankings:
 - end_date: '1977-10-14'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+
+In your mind you have capacities you know
+To telepath messages through the vast unknown
+Please close your eyes and concentrate
+With every thought you think
+Upon the recitation we're about to sing
+
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary, most extraordinary craft
+
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary, most extraordinary craft
+
+You've been observing our earth
+And we'd like to make a contact with you
+We are your friends
+
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary ultra emissaries
+
+We've been observing your earth
+And one night we'll make a contact with you
+
+We are your friends
+Calling occupants of interplanetary quite extraordinary craft
+
+And please come in peace we beseech you
+(Only of love we will teach you)
+Our earth may never survive (So don't come we beg you)
+
+Please interstellar policemen
+Won't you give us a sign give us a sign that we've reached you
+
+With your mind you have ability to form
+And transmit thought energy far beyond the norm
+You close your eyes, you concentrate, together that's the way
+To send a message we declare World Contact Day
+
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary craft
+Calling occupants of interplanetary, most extraordinary craft
+
+Calling occupants
+Calling occupants
+
+Calling occupants of interplanetary, anti-adversary craft
+
+We are your friends
+
+
 

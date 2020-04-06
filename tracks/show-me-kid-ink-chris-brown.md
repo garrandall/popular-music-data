@@ -5,6 +5,7 @@ features:
 - Chris Brown
 genres: []
 key: show-me-kid-ink-chris-brown
+lyrics_url: https://www.azlyrics.com/lyrics/kidink/showme.html
 name: Show Me
 rankings:
 - end_date: '2013-10-11'
@@ -132,4 +133,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
 ---
+
+
+Baby, yeah
+Mustard on the beat ho
+
+Baby let me put your panties to the side
+I'mma make you feel alright
+'Cause I'mma give you what you need, yeah
+
+Mami you remind me of something
+But I don't know what it is (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me (alright)
+You remind me of something
+But I don't know what it is right now (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me
+
+
+Uh, on the real no lie
+I don't know what it is but you just my type
+Everything just right
+B said put it to the left
+Don't listen to the hype though
+Got a cup in your hand
+Baby sitting but you ain't got no kids
+We ain't leaving 'til there ain't no more left
+Can't see no time on the Rolex
+I could tell you a freak, go and show it
+Looking for the after-party, where the door at?
+Dough on the floor like a doormat
+Baby you know where to throw that
+I said
+
+
+Mami you remind me of something
+But I don't know what it is (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me (alright)
+You remind me of something
+But I don't know what it is right now (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me
+
+
+Baby if you know what it is
+On the real, can't lie, man just my type
+Hands in the air looking for a bitch right now
+On the real, can't lie, man just my type
+
+
+Uh, so tell me what your name is
+I don't really care who you came with
+Unless you got a couple friends look like you
+My bad if my ex try to fight you
+Roll up soon as I roll in
+Security better get with the program
+Too deep, ain't know where to stand
+So high, ain't nowhere to land
+You remind me of something missing
+Missus, you got my full attention
+Listen, let go of the tension
+If I get a minute, I'll put your bad ass in detention
+
+
+Baby let me put your panties to the side
+I'mma make you feel alright
+'Cause I'mma give you what you need, yeah
+
+Mami you remind me of something
+But I don't know what it is (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me (alright)
+You remind me of something
+But I don't know what it is right now (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me
+
+
+Baby if you know what it is
+On the real, can't lie, man just my type
+Hands in the air looking for a bitch right now
+On the real, can't lie, man just my type
+
+
+Oh baby show me, show me something
+Tomorrow I might be hungover, that don't mean nothing
+You see all night long I've been wrong
+Baby show me something
+She gon' let me do it
+
+Baby let me put your panties to the side
+I'mma make you feel alright
+'Cause I'mma give you what you need, yeah
+
+Mami you remind me of something
+But I don't know what it is (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me (alright)
+You remind me of something
+But I don't know what it is right now (I don't know)
+'Cause you remind me of something
+Girl, you gotta show me
+
+
 

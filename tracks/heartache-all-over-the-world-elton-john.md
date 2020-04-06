@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartache-all-over-the-world-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/heartacheallovertheworld.html
 name: Heartache All Over The World
 rankings:
 - end_date: '1986-10-24'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
 ---
+
+Well I'm running away
+From this house on the hill
+There's a devil inside
+sitting on the window sill
+And it's a wild Friday night
+And I'm all on my own
+I knocked on every door in town
+There ain't one little girl that's home
+And everybody's got a date
+And the ones that ain't are tired
+What the hell do you do on a weekend honey
+When your heart's on fire
+
+And you can go from Tokyo to Rome
+Looking for a girl
+But it looks to me like the weekend means
+Heartache all over the world
+Girls, girls, girls
+Have pity on me
+Oh it looks to me like the weekend means
+Heartache, heartache all over the world
+
+He's got lipstick on his collar
+She's got fishnets on her legs
+I'm at home and I've got nothing
+Just a cold and aching head
+There must be something dirty
+Just blame it on the magazines
+Don't read that trash it'll drive you crazy
+`Cause the cops invade your dreams
+And everybody's got a date
+And the one's that ain't are tired
+What the hell do you do on a weekend honey
+When your heart's on fire
+
+
 

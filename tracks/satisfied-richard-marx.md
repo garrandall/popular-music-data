@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: satisfied-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/satisfied.html
 name: Satisfied
 rankings:
 - end_date: '1989-05-12'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
 ---
+
+We work our bodies weary to stay alive
+There must be more to livin' than nine to five
+
+Why should we wait for some better time
+There may not even be a tomorrow
+Ain't no sense in losing your mind
+I'm gonna make it worth the ride
+
+
+Don't you know, I won't give up until
+I'm satisfied
+Don't you know, why should I stop until
+I'm satisfied
+
+Ignore the hesitation, that ties your hands
+Use your imagination, and take a chance
+
+I won't let my moment of thuth pass me by
+I've gotta make my move now or never
+And if they turn mr loose on this town
+They're gonna have to hold me down
+
+
+
+Oh, don't you know, ain't gonna stop until
+Were satisfied
+Don't you know, we shouldn't stop until
+We're satisfied
+
+Don't you know, ain't gonna stop until
+I'm satisfied
+Don't you know, we won't give up until
+We're satisfied
+
+
 

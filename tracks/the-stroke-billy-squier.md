@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-stroke-billy-squier
+lyrics_url: https://www.azlyrics.com/lyrics/billysquier/thestroke.html
 name: The Stroke
 rankings:
 - end_date: '1981-05-22'
@@ -87,4 +88,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
 ---
+
+Now everybody
+Have you heard
+If you're in the game
+Then the stroke's the word
+
+Don't take no rhythm
+Don't take no style
+Got a thirst for killing 
+Grab your vile
+
+Put your right hand out
+Give a firm handshake
+Talk to me
+About the one big break
+
+Spread the ear pollution
+Both far and wide
+Keep your contributions
+By your side
+
+And stroke me, stroke me
+Could be a winner boy you move quite well
+Stroke me, stroke me
+(Stroke)
+Stroke me, stroke me
+You got your number down
+Stroke me, stroke me
+Say you're a winner
+But man you're just a sinner now
+
+Put your left foot out
+Keep it all in place
+Work your way
+Right into my face
+
+First you try to bed me
+You make my backbone slide
+When you find you've bled me
+Skip on by
+
+Keep on stroke me, stroke me
+Give me the business all night long
+Stroke me, stroke me
+(Stroke)
+Stroke me, stroke me
+You're so together boy
+Stroke me, stroke me
+Say you're a winner
+But man you're just a sinner now
+
+Stroke, stroke, stroke, stroke, stroke, stroke, stroke
+
+Better listen now
+Said it ain't no joke
+Let your conscience fail ya'
+Just do the stroke
+
+Don't ya' take no chances
+Keep your eye on top
+Do your fancy dances
+You can't stop
+
+You just stroke me, stroke me
+(Stroke, stroke)
+Stroke me, stroke me
+(Stroke, stroke)
+
+Stroke me, stroke me
+(Stroke, stroke)
+Stroke me, stroke me
+(Stroke)
+
+Do it
+
+Stroke me, stroke me
+(Stroke)
+Stroke me, stroke me
+Keep on
+(Stroke)
+
+Stroke me, stroke me
+(Stroke)
+Stroke me, stroke me
+Say you're a winner
+But man you're just a sinner now
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: once-upon-a-time-marvin-gaye-mary-wells
+lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/onceuponatime.html
 name: Once Upon A Time
 rankings:
 - end_date: '1964-05-08'
@@ -44,4 +45,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+
+Once upon a time I almost lost my mind
+I was lonely, so lonely
+Once upon a time
+
+Hoping every day things would go my way
+Then you came into my life
+Now everything is fine
+
+I never knew what love could do till I met you
+Now everything is oh so cozy
+Now my skies are blue all because of you
+I'm so glad; I was lonely
+Once upon a time
+
+
 

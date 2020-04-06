@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goody-two-shoes-adam-ant
+lyrics_url: https://www.azlyrics.com/lyrics/adamant/goodytwoshoes.html
 name: Goody Two Shoes
 rankings:
 - end_date: '1982-11-19'
@@ -91,4 +92,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
 ---
+
+With the heartbreak open
+So much you can't hide
+Put on a little makeup, makeup
+Make sure they get your good side, good side
+
+If the words unspoken
+Get stuck in your throat
+Send a treasure token, token
+Write it on a pound note, pound note
+
+Goody two, goody two, goody goody two shoes
+Goody two, goody two, goody goody two shoes
+
+Don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+There must be something inside
+
+We don't follow fashion
+That'd be a joke
+You know we're going to set them, set them
+So everyone can take note, take note
+
+When they saw you kneeling
+Crying words that you mean
+Opening their eyeballs, eyeballs
+Pretending that you're Al Green, Al Green
+
+Goody two, goody two, goody goody two shoes
+Goody two, goody two, goody goody two shoes
+
+Don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+No one's gonna tell me
+What's wrong and what's right
+Or tell me who to eat with, sleep with
+Or that I've won the big fight, big fight
+
+Look out or they'll tell you
+You're a "Superstar"
+Two weeks and you're an all-time legend
+I think the games have gone much too far
+
+If the words unspoken
+Get stuck in your throat
+Send a treasure token, token
+Write it on a pound note, pound note
+
+Don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+'Cause I don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+'Cause I don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+'Cause I don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+'Cause I don't drink, don't smoke, what do you do?
+Don't drink, don't smoke, what do you do?
+Subtle innuendos follow
+Must be something inside
+
+
 

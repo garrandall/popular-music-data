@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shot-of-poison-lita-ford
+lyrics_url: https://www.azlyrics.com/lyrics/litaford/shotofpoison.html
 name: Shot Of Poison
 rankings:
 - end_date: '1991-11-08'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
 ---
+
+Gotta love for destruction
+Gotta feel for danger tonight
+Hey, Mr. Moonlight won't you follow me down
+I need the company
+Everybody tells me you're no good
+That's all right with me
+Gimme one shot of poison
+A little twist is all I need
+One drop of your sweet poison
+Sets me free
+Come on baby, poison me
+Gotta hunger for fatal attraction
+I'm savin' all my passion for you
+I gotta heartbreak habit that I can't kick
+Only you can ease the pain
+I'm a midnight animal tryin' to score
+Before I go insane
+Gimme me one shot of poison
+A little twist is all I need
+One drop of your sweet poison
+Sets me free
+One shot of poison
+A little taste of paradise
+One drop of your sweet poison
+Satisfies
+Give me one last kiss before I die
+I'm flyin' high
+On your love, tonight, baby
+One shot of poison
+A little twist is all I need
+One drop of your sweet poison
+Sets me free
+One shot of poison
+A little taste of paradise
+One drop of your sweet poison
+Satisfies
+One shot of poison
+Come on, baby, poison me
+One drop of your sweet poison
+Sets me free
+One shot
+
+
 

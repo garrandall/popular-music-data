@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -your-love-has-lifted-me--higher-and-higher-rita-coolidge
+lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/yourlovehasliftedmehigherandhigher.html
 name: (your Love Has Lifted Me) Higher And Higher
 rankings:
 - end_date: '1977-05-13'
@@ -115,4 +116,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
 ---
+
+Your love is liftin' me higher
+Than I've ever been lifted before
+
+Your love is liftin' me higher
+Than I've ever been lifted before
+So keep it up, quench my desire
+And I'll be at your side forevermore
+
+Now once, I was downhearted
+Disappointment was my closest friend
+But you came, he soon departed
+And he never showed his face again
+
+Oh I'm so glad I finally found you
+You're that one in a million man
+When you wrap your lovin' arms around me
+I can stand up and face the world again
+
+Your love is liftin' me higher
+Than I've ever been lifted before
+So keep it up, quench my desire
+And I'll be at your side forevermore
+
+Oh your love is liftin' me higher
+Than I've ever been lifted before
+So keep it up, quench my desire
+And I'll be at your side forevermore
+
+Your love is liftin' me higher
+Than I've ever been lifted before
+So keep it up, quench my desire
+And I'll be at your side forevermore
+
+
 

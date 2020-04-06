@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-a-gong--get-it-on--t--rex
+lyrics_url: https://www.azlyrics.com/lyrics/powerstation/getitonbangagong.html
 name: Bang A Gong (Get It On)
 rankings:
 - end_date: '1972-01-07'
@@ -67,4 +68,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
+
+Well, you're dirty and sweet
+Clad in black, don't look back
+And I love you
+You're dirty and sweet, oh yeah
+
+Well you're slim and you're weak
+You got the teeth of the hydra upon you
+You're dirty sweet and you're my girl
+
+Get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Well, you're built like a car
+You got a hubcap diamond star halo
+You're built like a truck, oh yeah
+
+Well, you're an untamed youth
+That's the truth
+With your cloak full of eagles
+You're dirty sweet and you're my girl
+
+Get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Whoo, get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Well you're windy and wild
+You got the blues in your shoes
+And your stockings
+You're windy and wild, oh yeah
+
+You're built like a car
+You got a hubcap diamond star halo
+You're dirty sweet and you're my girl
+
+Get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Get it on
+Get it on
+Bang a gong
+
+Whoo, get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+
+Whoo, get it on
+(Bang a gong, get it on) Get it on
+Get it on
+Bang a gong, get it on
+
+Get it on
+Bang a gong, get it on
+Get it on
+Bang a gong, get it on
+Get it on
+
+
 

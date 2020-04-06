@@ -5,6 +5,7 @@ features:
 - Lil' Kim
 genres: []
 key: wait-a-minute-ray-j-lil--kim
+lyrics_url: https://www.azlyrics.com/lyrics/rayj/waitaminuteremix.html
 name: Wait A Minute
 rankings:
 - end_date: '2001-06-01'
@@ -76,4 +77,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
 ---
+
+
+Oh uh oh uh yea
+I dont think yall ready for this one
+The Queen Bee knockout collabo'
+And if ya don't know, now ya know
+
+
+I been workin all day (and now it's on)
+Pull up and don't pay (when the line is long)
+Girls in the club (you wanna fuck)
+Ice grillin these thugs (I wanna thong)
+Is it cause I'ma shine (major ice)
+I'm talkin about blind ya (like Vegas lights)
+Never on the scene (without my team)
+Cali sticky green (know what I mean)
+It's on and poppin
+The DJ's rockin
+Chickens is watchin
+It's on tonight
+You had a long day yo
+Buy the champ by the caseload
+Pockets full of pesos
+It's on tonight oh
+
+
+Wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Girl wait a minute
+Oh wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Yo you know the words say it (wait a minute)
+
+
+I been workin all day (and now it's on)
+Pull up and don't pay (when the line is long)
+Girls in the club (you wanna fuck)
+Ice grillin these thugs (I wanna thong)
+Is it cause I'ma shine (major ice)
+I'm talkin about blind ya (like Vegas lights)
+Never on the scene (without my team)
+Cali sticky green (know what I mean)
+So much you go through
+Only problems know you
+Let's party like we supposed to
+It's on tonight
+There's not a righter way
+You've had a tired day
+Let's party the night away
+It's on tonight
+
+
+Wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Girl wait a minute
+Oh wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Yo you know the words say it (wait a minute)
+
+
+Blaw tadow, watch out now, uh-huh
+It's the little one and I'm not Bow Wow
+You got trees roll it up
+You a G throw it up
+Nigga slipped me his number in a note
+I tore it up
+Oh wait a minute they playin that shit slow it up
+What you outta Cris
+Fuck it Mo it up
+Ya'll just rookies
+Poppin on the scene
+Careful how ya'll talk cuz we pop them things
+Ya'll see us on the TV
+Rappin and actin
+Yup uh-huh look a little closer
+Yea that's us Millennium Testarosa
+People takin pictures
+Blowin our cover
+Papirotzi gonna get you one way or another
+Wait a minute ain't that Brandy's little brother
+Straight from the East side
+And that's how I ride
+Here's another one
+Ray J
+Tell em where you from
+
+
+In the land of women
+Sunny days chrome spinnin
+Juice and ginin
+It's on tonight
+And true you're another one
+Representin where you from
+Sex you're gettin some
+It's on tonight
+
+
+Wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Girl wait a minute
+Oh wait a minute (oh wait a minute)
+Oh wait a minute (oh wait a minute hey hey hey)
+Yo you know the words say it (wait a minute)
+
+
 

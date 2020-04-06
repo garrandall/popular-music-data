@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pompeii-bastille
+lyrics_url: https://www.azlyrics.com/lyrics/bastille/pompeii.html
 name: Pompeii
 rankings:
 - end_date: '2013-09-06'
@@ -219,4 +220,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
 ---
+
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+
+I was left to my own devi-i-i-i-ces
+Many days fell away with nothing to show
+
+And the walls kept tumbling down
+In the city that we love
+Gray clouds roll over the hills
+Bringing darkness from above
+
+But if you close your eyes
+Does it almost feel like
+Nothing changed at all?
+And if you close your eyes
+Does it almost feel like
+You've been here before?
+How am I gonna be an optimist about this?
+How am I gonna be an optimist about this?
+
+We were caught up and lost in all of our vices
+In your pose as the dust settled around us
+
+And the walls kept tumbling down
+In the city that we love
+Gray clouds roll over the hills
+Bringing darkness from above
+
+But if you close your eyes
+Does it almost feel like
+Nothing changed at all?
+And if you close your eyes
+Does it almost feel like
+You've been here before?
+How am I gonna be an optimist about this?
+How am I gonna be an optimist about this?
+
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+
+Oh where do we begin?
+The rubble or our sins?
+Oh oh where do we begin?
+The rubble or our sins?
+
+And the walls kept tumbling down (oh where do we begin?)
+In the city that we love (the rubble or our sins?)
+Gray clouds roll over the hills (oh where do we begin?)
+Bringing darkness from above (the rubble or our sins?)
+
+But if you close your eyes
+Does it almost feel like
+Nothing changed at all?
+And if you close your eyes
+Does it almost feel like
+You've been here before?
+How am I gonna be an optimist about this?
+How am I gonna be an optimist about this?
+
+If you close your eyes, does it almost feel like nothing changed at all?
+
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+Eheu aul aul
+
+
 

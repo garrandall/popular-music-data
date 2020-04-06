@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-town-nancy-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/sugartown.html
 name: Sugar Town
 rankings:
 - end_date: '1966-11-25'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
 ---
+
+I got some troubles but they wont last
+I'm gonna lay right down here in the grass
+And pretty soon all my troubles will pass
+'Cause I'm in shu shu shu,
+Shu shu shu,
+Shu shu shu shu shu shu Sugar Town.
+
+I never had a dog that liked me some
+I never had a friend or wanted one
+So I just lay back and laugh at the sun
+'Cause I'm in shu shu shu,
+Shu shu shu,
+Shu shu shu shu shu shu Sugar Town.
+
+Yesterday it rained in Tennessee
+I heard it also rained in Talahassee
+But not a drop fell on little old me
+'Cause I was in shu shu shu,
+Shu shu shu,
+Shu shu shu shu shu shu Sugar Town.
+
+If I had a million dollars or ten
+I'd give it to your world and then
+You'd go away and let me spend
+My life in shu shu shu,
+Shu shu shu,
+shu shu shu shu shu shu Sugar Town.
+
+La la la...
+
+
 

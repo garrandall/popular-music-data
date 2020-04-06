@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: faithfully-journey
+lyrics_url: https://www.azlyrics.com/lyrics/journey/faithfully.html
 name: Faithfully
 rankings:
 - end_date: '1983-04-22'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
 ---
+
+Highway run
+Into the midnight sun
+Wheels go round and round
+You're on my mind
+
+Restless hearts
+Sleep alone tonight
+Sending all my love
+Along the wire
+
+They say that the road ain't no place to start a family
+Right down the line it's been you and me
+And lovin' a music man ain't always what it's supposed to be
+Oh, girl, you stand by me
+I'm forever yours
+Faithfully
+
+Circus life
+Under the big top world
+We all need the clowns
+To make us smile
+
+Through space and time
+Always another show
+Wondering where I am
+I'm lost without you
+
+And being apart ain't easy on this love affair
+Two strangers learn to fall in love again
+I get the joy of rediscovering you
+Oh, girl, you stand by me
+I'm forever yours
+Faithfully
+
+Faithfully
+I'm still yours
+
+I'm forever yours
+Ever yours
+Faithfully
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-how-love-goes-jermaine-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/thatshowlovegoes.html
 name: That's How Love Goes
 rankings:
 - end_date: '1972-09-22'
@@ -51,4 +52,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
+
+Girl, you walk around
+With your head up in the sky
+Yes, you do now
+'Cause you hurt so many before
+And never had to cry, no
+
+But you better stop, honey
+And realize, yeah
+That one day soon
+You're gonna have to be penalized
+
+Oh
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+It's gonna happen to you
+Just like it's happen to me, girl
+
+Because you made me cry
+You think you're the baddest of them all
+Yes, you do now
+Well, I hope I'm around, my dear
+When he sets you free and you fall, yeah
+
+Then you'll find it's not such a laugh
+When tears run till you can't see, no, no, no
+Your heartaches are gonna come
+And so is your misery, yeah
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+It's gonna happen to you
+Just like it's happen to me, girl
+
+Well, well, come on help me say it
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+But let me tell you something
+
+Baby you better stop
+And take a real good look at yourself
+'Cause when those heartaches strike
+You're gonna wish you were somebody else
+
+Oh, that smile that you're wearing
+Gonna turn to a frown, yeah
+You find the one that you love
+Baby he's gonna put you down
+
+Oh baby, oh baby, oh
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+That's how love goes
+You gotta reap just what you sewn
+You'll get those tears and run free
+Happen to you like it's happened to me, baby
+
+
 

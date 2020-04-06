@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invisible-man-98-degrees
+lyrics_url: https://www.azlyrics.com/lyrics/98degrees/invisibleman.html
 name: Invisible Man
 rankings:
 - end_date: '1997-07-18'
@@ -119,4 +120,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-17'
 ---
+
+You can hardly
+wait to tell all your friends
+How his kisses taste sweet like wine
+And how he always
+makes your heart skip a beat
+Every time he walks by
+And if you're feeling down
+He'll pick you up
+He'll hold you close when
+you're makin' love
+He's everything
+you've been dreaming of
+Oh baby
+
+I wish you'd look at me that way
+Your beautiful eyes
+lookin' deep into mine
+Telling me more than
+any words could say
+But you don't even know I'm alive
+Baby to you all I am
+Is the invisible man
+
+You probably spend
+hours on the phone
+Talkin' 'bout nothing at all
+It doesn't matter
+what the conversation
+Just as long as he called
+Lost in a love so real
+And so sincere
+You wipe away each other's tears
+Your face lights up
+whenever he appears
+
+I see you all the time baby
+The way you look at him
+I wish it was me sweetheart
+Boy I wish it was me
+But I guess I'll never be...
+
+
+
+
 

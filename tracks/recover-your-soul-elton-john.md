@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: recover-your-soul-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/recoveryoursoul.html
 name: Recover Your Soul
 rankings:
 - end_date: '1998-04-24'
@@ -87,4 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
 ---
+
+Baby you're missing something in the air
+I got a name but it don't matter
+What's going on, it's cold in here
+You have a life but it's torn and tattered
+
+Maybe you're losing pieces of your heart
+You have a world but it stopped turning
+You lose the day and gain the dark
+Love was a fire but it stopped burning
+
+Spare your heart, save your soul
+Don't drag your love across the coals
+Find your feet and your fortune can be told
+Release, relax, let go 
+And hey now let's recover your soul
+
+Lazy old sunset sinking like a tear
+Alone at night in a losing battle
+That perfect world is never clear
+You have to fight for the things that matter
+
+
 

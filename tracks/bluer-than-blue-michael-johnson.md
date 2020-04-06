@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bluer-than-blue-michael-johnson
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/bluerthanblue.html
 name: Bluer Than Blue
 rankings:
 - end_date: '1978-04-28'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+
+After you go, I can catch up on my reading
+After you go, I'll have a lot more time for sleeping
+And when you're gone, looks like things are gonna be a lot easier
+Life will be a breeze, you know
+I really should be glad
+
+But I'm bluer than blue, sadder than sad
+You're the only light this empty room has ever had
+Life without you is gonna be
+Bluer than blue
+
+After you go, I'll have a lot more room in my closet
+After you go, I'll stay out all night long if I feel like it
+And when you're gone I can run through the house screaming
+And no one will ever hear me
+I really should be glad
+
+But I'm bluer than blue, sadder than sad
+You're the only light this empty room has ever had
+Life without you is gonna be
+Bluer than blue
+
+I don't have to miss no TV shows
+I can start my whole life over
+Change the numbers on my telephone
+But the nights will sure be colder
+
+And I'm bluer than blue, sadder than sad
+You're the only light this empty room has ever had
+Life without you is gonna be
+Bluer than blue
+Bluer than blue
+Bluer than blue
+
+
 

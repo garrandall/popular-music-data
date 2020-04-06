@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-writer-dire-straits
+lyrics_url: https://www.azlyrics.com/lyrics/direstraits/ladywriter.html
 name: Lady Writer
 rankings:
 - end_date: '1979-08-03'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
 ---
+
+Lady writer on the TV
+Talk about the Virgin Mary
+Reminded me of you
+Expectation left to come up to yeah
+
+Lady writer on the TV
+She had another quality
+The way you used to look
+And I know you never read a book
+
+Just the way that her hair fell down around her face
+And I recall my fall from grace
+Another time, another place
+
+Lady writer on the TV
+She had all the brains and the beauty
+The pictures does not fit
+You'd talk to me when you felt like it
+
+Just the way that her hair fell down around her face
+And I recall my fall from grace
+Another time another place
+
+Yes and your rich old man,
+You know he'd a call her a dead ringer
+You got the same command
+Plus your mother was a Jazz singer
+
+Just the way that her hair fell down around her face
+And I recall my fall from grace
+Another time another place
+
+Lady writer on the TV
+She knew all about a history
+You couldn't hardly write your name
+I think I want it just the same as the ...
+
+Lady writer on the TV
+Talking about the Virgin Mary
+You know I'm talking about you and me
+And the lady writer on the TV
+Talking about the Virgin Mary
+Yeah you know I'm talking about you and me
+And the lady writer on the TV
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honest-i-do-the-innocents
+lyrics_url: https://www.azlyrics.com/lyrics/bigcountry/angelspromises.html
 name: Honest I Do
 rankings:
 - end_date: '1960-08-21'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+
+Heavy is the silence
+That hangs upon my soul
+The velvet glove of the honest truth
+As unmistakable as you
+Here we are all bound together
+No matter win or lose
+
+Angels and promises
+Prisoners and silences
+(Say a prayer)
+
+The factory of the innocents
+The souls that you canât see
+Your fatherâs hands werenât the only fists
+That took the best of me
+Here we are in the same ship sailing
+Across an unknown sea
+
+Angels and promises
+Prisoners and silences
+
+Cardinals, sinners and saints
+In this world, weâre all the same
+
+Iâm walking on a mountain without a summit
+Swimming in a sea without a shore
+
+Say a prayer
+Say a prayer
+
+Angels and promises
+Prisoners and silences
+
+Say a prayer
+Say a prayer
+Say a
+
+Oh Lord
+Where did the feeling go?
+Oh Lord
+I never felt so low
+
+Oh-oh
+Angels and promises
+Oh-oh...
+
+
 

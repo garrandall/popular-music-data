@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: water-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/dontdrinkthewater.html
 name: Water
 rankings:
 - end_date: '2010-05-07'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
 ---
+
+Empty house, Empty Rooms, Empty bottle of Petron
+I need to go out but not around here
+There ain't nowhere we haven't gone
+There's this travel agent that I know who says Cozumel is real nice
+And so he got me a deal on a flight and a room and a little bit of free advice
+
+Don't drink the water
+I told him that's ok
+I ain't going down
+To Mexico to drink the water anyway
+
+Blake ain't you been there yeah
+(Blake) I've been there a time or two
+They got some sweet Senoritas
+That are more than glad to meet you
+But I'm tellin you boy that whatever you do
+
+Don't drink the water
+Ok ok
+I ain't going down
+To Mexico to drink the water anyway
+
+Corona or Tecate or my old friend Jose
+I ain't going down
+To Mexico to drink the water anyway
+
+On this trip anything I sip better have a kick and a burn
+Strong enough to get you off my mind
+Little by little and a little grub of worm
+
+Don't drink the water
+That's what they say
+I ain't going down
+To Mexico to drink the water anyway
+
+No one I know goes to Mexico
+To drink the water anyway
+
+
 

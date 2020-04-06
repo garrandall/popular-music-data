@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-you-win-again-hot-chocolate
+lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/soyouwinagain.html
 name: So You Win Again
 rankings:
 - end_date: '1977-07-22'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
 ---
+
+Just to admit one mistake
+That can be hard to take
+I know we've made them fall
+But only fools come back for more
+Being the fool I am
+I figured in all your plans, darling
+Your perfumed letters didn't say
+That you'd be leaving any day
+
+So you win again, you win again
+Here I stand again, the loser
+And just for fun you took my love and run,
+But love had just begun
+
+I can't refuse her
+But now I know that I'm the fool
+Who won your love to lose it all
+When you come back, you win again
+And I'm not proud to say
+I let love slip away
+Now I'm the one who's crying
+I'm a fool there's no denying
+When will my heartache end?
+Will my whole life depend on fading memories
+You took the game this time with ease
+
+So you win again, you win again
+Here I stand again, the loser
+And just for fun you took my love and run,
+But love had just begun
+
+
 

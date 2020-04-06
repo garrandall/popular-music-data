@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-somebody-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/lovesomebody.html
 name: Love Somebody
 rankings:
 - end_date: '1984-03-16'
@@ -71,4 +72,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
 ---
+
+I can see the path you're cutting
+It cost me a little piece of my heart 
+I can see the doors you're shutting
+'Cause they were open at the start
+
+Baby, loving you has been hard on me 
+You're such a tough little sister
+Just looking for Mr. Right 
+On the wrong side of town 
+
+You better love somebody
+It's late
+You better love somebody
+Don't wait 
+You better love somebody
+Don't tempt fate 
+You're gonna push it just a little too far
+One night 
+
+Your eyes are wild, your skin's so white
+You're undernourished and overfed 
+She's got the teeth, she knows how to bite
+'Cause when you bit I bled 
+
+You got the perfect image
+Of the perfect man 
+You're a tough little sister
+But you'll settle for a mister tonight 
+But you're running out of time 
+
+You better love somebody
+It's late
+You better love somebody
+Don't wait 
+You better love somebody
+Don't tempt fate 
+You're gonna push it just a little too far
+One night
+
+I'm only saying what I feel
+You think I'm wrong I know 
+You thought I was sleeping at the wheel
+I thought that you were driving 
+
+You better love somebody
+You better love somebody
+
+You better love somebody
+It's late
+You better love somebody
+Don't wait 
+You better love somebody
+Don't tempt fate 
+You're gonna push it just a little too far
+One night 
+
+One night - oh oh oh oh
+One night - oh oh oh oh
+One night - oh oh oh oh
+One night - oh oh oh oh
+
+
 

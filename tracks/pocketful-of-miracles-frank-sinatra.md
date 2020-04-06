@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pocketful-of-miracles-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/pocketfulofmiracles.html
 name: Pocketful Of Miracles
 rankings:
 - end_date: '1961-12-24'
@@ -39,4 +40,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
 ---
+
+Pee-rac-ti-cal-I-ty de-us-n't int'rest me, love the life that I lead.
+I've got a pocketful of miracles, and with a pocketful of miracles,
+One miracle a day is all I need!
+Tree-rou-bles, more or less, bee-ah-ther me, I guess when the sun doesn't shine.
+But there's a pocketful of miracles,
+The world's a bright and shiny apple that's mine, all mine.
+I hear sleigh bells ringing, smack! I go around like there's a snow around,
+I feel so good, it's Christmas every day! Lee-ife's a carousel, fee-ar as I can tell
+And I'm riding for free.
+I've got a pocketful of miracles, but if I had to pick a miracle,
+My favorite miracle of all is you love me.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: freedom-overspill-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/freedomoverspill.html
 name: Freedom Overspill
 rankings:
 - end_date: '1986-10-03'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-03'
 ---
+
+Keep on talking all you want
+Well you don't waste a minute of time
+Who cares, who knows what's true
+Coffee and tears the whole night through
+Burning up on midnight oil
+And it's come right back on you
+
+Freedom Overspill
+Freedom Overspill
+
+Force of habit, you could say
+The way they talk you're talking away
+Who cares, who knows what's true
+Your wounded pride is burning you up
+Burning up on midnight oil
+And it's come right back on you
+
+Freedom Overspill
+Freedom Overspill
+
+You're sounding good to me now
+Keep talking on
+I want to hear the worst
+You got no right going around
+Talking 'bout the things that you do
+Talking 'bout the things that you do
+Keep on talking all you want
+Well you don't waste a minute of time
+Who cares, who knows what's true
+Coffee and tears the whole night through
+Burning up on midnight oil
+And it's come right back on you
+
+Freedom Overspill
+Freedom Overspill
+Freedom Overspill
+Freedom Overspill
+
+You're sounding good to me now
+Keep talking on
+I want to hear the worst
+You got no right going around
+Talking 'bout the things that you do
+Talking 'bout the things you do
+Force of habit, you could say
+The way they talk you're talking away
+Who cares, who knows what's true
+Your wounded pride is burning you up
+Burning up on midnight oil
+And it's come right back on you
+
+Freedom Overspill
+Freedom Overspill
+
+
 

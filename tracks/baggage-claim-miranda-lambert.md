@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baggage-claim-miranda-lambert
+lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/baggageclaim.html
 name: Baggage Claim
 rankings:
 - end_date: '2011-09-02'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
 ---
+
+I have been draggin' around your sensitive ego
+Making sure that your bags arrive on time for the dog and pony show
+A little suitcase like a brick
+It kinda makes it hard to get a good grip
+I drop your troubles off at the conveyor belt
+I'll hand you a ticket to go get it yourself
+
+At the baggage claim, you got a lot of luggage in your name
+When you hit the ground, check the lost and found
+Cause it ain't my problem now
+I can't carry it on, I've got a lot of troubles on my own
+It's all over the yard, in the trunk of the car
+I'm packin' it in, so come and get it
+
+If it ain't obvious what has set me off today
+Behind every woman scorned is a man who made her that way
+Go on and take your little business trip with that sweet little habit
+That you can't kick
+You better call your momma when you get to town
+Cause I ain't gonna be hangin' around
+
+At the baggage claim, you got a lot of luggage in your name
+When you hit the ground, check the lost and found
+Because it ain't my problem now
+I can't carry it on, I've got a lot of troubles of my own
+It's all over the yard, in the trunk of the car
+I'm packin' it in, so come and get it
+
+Come and get it
+
+Come and pick it up, pick it up
+Before I blow it up in flames
+You better pick it up, pick it up
+Baby, I'm leaving everything
+
+At the baggage claim, you got a lot of luggage in your name
+And when you hit the ground, check the lost and found
+Cause it ain't my problem now
+I can't carry it on, I've got a lot of troubles of my own
+It's all over the yard, in the trunk of the car
+Well I'm packin' it in, so come and get it
+
+Come and get it
+
+
 

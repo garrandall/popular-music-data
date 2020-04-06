@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: meeting-in-my-bedroom-silk
+lyrics_url: https://www.azlyrics.com/lyrics/silk/meetinginmybedroom.html
 name: Meeting In My Bedroom
 rankings:
 - end_date: '1999-08-27'
@@ -59,4 +60,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
 ---
+
+Silk
+2 G
+2,000 watts
+Yeah, yeah, yeah
+
+There's a meeting in my bedroom
+So girl please don't be late
+There's a meeting in my bedroom
+So please don't make me wait
+There's a meeting in my
+There's a meeting in my bedroom
+
+Lookin' at my rolley
+Girl I see it's almost time
+Oh yeah, oh yeah
+I hope you're getting ready girl
+And don't forget the wine
+How long, don't thing that you
+Tonight it's just for you and I
+And it's gonna be so fly
+So fly, so fly, what, what, what
+
+I like having you around
+So I gotta put you down
+So be there or be square
+
+There's a meeting in my bedroom
+So girl please don't be late
+There's a meeting in my bedroom
+So please don't make me wait
+There's a meeting in my
+There's a meeting in my bedroom
+
+Step into me casa, lay you down, far far far
+Got a little somethin' somethin' for my sexy mama, mama
+Been checkin' for ya since day one
+You're my moon and you're my sun
+
+Girl you're cheeky and you know
+That I'm feeling your steelo
+Be there or be square
+
+There's a meeting in my bedroom
+So girl please don't be late
+There's a meeting in my bedroom
+So please don't make me wait
+There's a meeting in my
+There's a meeting in my bedroom
+
+You're everything that I've been searching for
+And there's no need for me to search no more
+Come into my room
+Don't be late to my room
+
+There's a meeting in my bedroom
+So girl please don't be late
+There's a meeting in my bedroom
+So please don't make me wait
+There's a meeting in my
+There's a meeting in my bedroom
+
+There's a , there's a
+There's a meeting in my
+There's a meeting in my bedroom
+There's a meeting in my bedroom
+
+
 

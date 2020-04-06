@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-and-walk-away-the-babys
+lyrics_url: https://www.azlyrics.com/lyrics/babys/turnandwalkaway.html
 name: Turn And Walk Away
 rankings:
 - end_date: '1980-11-21'
@@ -55,4 +56,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
 ---
+
+You still believe you love him
+I still believe I'm right
+You're lost and I can't find you
+You're somewhere in the night
+
+We've got nothing left to talk about
+This time it's goodbye
+But you can't hurt me anymore
+I've no more chance to cry
+
+Walk away
+Gonna build our plans to start again
+Walk away
+We're gonna turn our backs on love
+And walk away
+
+Captivated by you
+I'm reaching for your love
+Living in your shadow
+But that was not enough
+
+You don't seem to care about
+The reasons that I give
+We'll go fall in love again
+Survivors always live
+
+Walk away
+Gonna build our plans to start again
+Walk away
+We're gonna turn our backs on love
+And walk away
+
+I love you
+I love you still
+I am broken by your words
+But I love you still
+
+Walk away
+Gonna build our plans to start again
+Walk away
+We're gonna turn our backs on love again
+Walk away
+
+Turn around
+Turn and walk away
+We're gonna turn our backs on love
+Walk away
+Turn around
+Turn and walk away
+We're gonna turn our backs on love
+Walk away
+Turn around
+Turn and walk away
+We're gonna turn our backs on love
+
+
 

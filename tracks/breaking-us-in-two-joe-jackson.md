@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breaking-us-in-two-joe-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/joejackson/breakingusintwo.html
 name: Breaking Us In Two
 rankings:
 - end_date: '1983-01-21'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
 ---
+
+Don't you feel like trying something new
+Don't you feel like breaking out
+Or breaking us in two
+You don't do the things that I do
+You want to do things I can't do
+Always something breaking us in two
+
+You and I could never live alone
+But don't you feel like breaking out
+Just one day on your own
+Why does what I'm saying hurt you
+I didn't say that we were through
+Always something breaking us in two
+
+They say two hearts should beat as one for us
+We'll fight it out to see it through
+I say that won't be too much fun for us
+Though it's oh so nice to get advice
+It's oh so hard to do
+
+Could we be much closer if we tried
+We could stay at home and stare 
+Into each other's eyes
+Maybe we could last an hour
+Maybe then we'd see right through
+Always something breaking us in two
+
+
 

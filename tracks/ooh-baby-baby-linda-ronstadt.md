@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooh-baby-baby-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/oohbabybaby.html
 name: Ooh Baby Baby
 rankings:
 - end_date: '1978-11-17'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
 ---
+
+I did you wrong
+My heart went out to play
+And in the game I lost you
+What a price to pay
+I'm crying
+Ooh baby baby
+Ooh baby baby
+
+Mistakes, I've know I've made a few
+But I'm only human
+You've made mistakes too
+I'm crying
+Ooh baby baby
+Ooh baby baby
+
+I'm just about at
+The end of my rope
+But I can't stop trying
+I can't give up hope
+'Cause I'll be here
+Someday I'll hold you near
+Whisper I still love you
+Until that day is here
+Ooh I'm crying
+Ooh baby baby
+Ooh baby baby
+Ooh baby baby
+Ooh baby baby
+Oo-oo-oo-ooh
+
+
 

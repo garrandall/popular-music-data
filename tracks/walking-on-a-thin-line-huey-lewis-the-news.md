@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: walking-on-a-thin-line-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/walkingonathinline.html
 name: Walking On A Thin Line
 rankings:
 - end_date: '1984-10-26'
@@ -68,4 +69,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
 ---
+
+Sometimes in my bed at night 
+I curse the dark and I pray for light 
+And sometimes, the light's no consolation 
+
+Blinded by a memory 
+Afraid of what it might do to me 
+And the tears and the sweat 
+Only mock my desperation
+
+Don't you know me
+I'm the boy next door 
+The one you find so easy to ignore 
+Is that what I was fighting for? 
+
+Walking on a thin line 
+Straight off the front line 
+Labeled as freaks 
+Loose on the streets of the city 
+
+Walking on a thin line 
+Angry all the time
+Take a look at my face
+See what it's doing to me
+
+Taught me how to shoot to kill 
+A specialist with a deadly skill 
+A skill I needed to have to be a survivor 
+
+It's over now or so they say 
+Well, sometimes, it don't work out that way 
+'Cause you're never the same 
+When you've been under fire, no
+
+Don't you know me
+I'm the boy next door 
+The one you find so easy to ignore 
+Is that what I was fighting for? 
+
+Walking on a thin line 
+Straight off the front line 
+Labeled as freaks 
+Loose on the streets of the city 
+
+Walking on a thin line 
+Angry all the time 
+Take a look at my face
+See what it's done to me
+
+Don't you know me
+I'm the boy next door 
+The one you find so easy to ignore 
+Is that what I was fighting for, no
+
+Walking on a thin line 
+Straight off the front line 
+Labeled as freaks 
+Loose on the streets of the city 
+
+Walking on a thin line 
+Angry all the time 
+Take a look at my face
+See what it's doing to me
+
+Walking on a thin line
+Walking on a thin line
+Walking on a thin line
+
+
 

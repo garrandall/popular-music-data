@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runnin--out-of-fools-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/runninoutoffools.html
 name: Runnin' Out Of Fools
 rankings:
 - end_date: '1964-09-25'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
 ---
+
+Sure you haven't got the wrong number
+You sure its me you wanna talk to tonight?
+Everyone in town's got your number
+Everybody's got you pegged right
+
+Is that why you got in touch with me?
+I guess you must be runnin' out of fools
+
+When you went and left me there crying
+Your goodbye was even colder than ice
+It didn't bother you I was crying
+And now you wanna break my heart twice
+
+Is that why you got in touch with me?
+I guess you must be runnin' out of fools
+
+Guess you got back (guess you got)
+To my name
+In your little black book
+
+Well, listen
+Tell you what (tell you what)
+Bet you forgot (you forgot)
+How I even look
+
+So go ahead with all your sweet talking
+Go ahead for all the good it can do
+Have yourself a dime's worth of talking
+And then I'm gonna hang right up on you
+
+'Cause this time, you're not
+You're not getting through to me
+I guess you must be runnin' out of fools
+
+Even fools like me
+Even fools like me
+I said you're running out of fools
+Even old fools like me
+
+
 

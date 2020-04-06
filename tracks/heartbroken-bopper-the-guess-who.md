@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbroken-bopper-the-guess-who
+lyrics_url: https://www.azlyrics.com/lyrics/guesswho/heartbrokenbopper.html
 name: Heartbroken Bopper
 rankings:
 - end_date: '1972-03-10'
@@ -35,4 +36,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
 ---
+
+Night school strutter just struttin' around
+Can't find work since the band left town
+Can't get up cause he can't get down
+
+He's a heartbroken bopper
+
+Honor roll student graduation day
+Summa cum laude is a big okay
+Car wash king is havin' beans today
+
+He's a heartbroken bopper
+
+Rise from the gutters, there's too much has gone to waste
+Rise with the others, there's too much is done in haste
+
+He's a heartbroken bopper
+
+
 

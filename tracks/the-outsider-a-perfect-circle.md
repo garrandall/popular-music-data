@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-outsider-a-perfect-circle
+lyrics_url: https://www.azlyrics.com/lyrics/perfectcircle/theoutsider.html
 name: The Outsider
 rankings:
 - end_date: '2004-05-21'
@@ -27,4 +28,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
 ---
+
+Help me if you can
+It's just that this, this is not the way I'm wired
+So could you please,
+
+Help me understand why
+You've given in to all these
+Reckless dark desires
+
+You're lying to yourself again
+Suicidal imbecile
+Think about it, you're pounding on the fault line
+What'll it take to get it through to you precious
+I'm over this. Why do you wanna throw it away like this?
+Such a mess. 
+
+Why would I want to watch you,
+Disconnect and self destruct one bullet at a time?
+What's your rush now, everyone will have his day to die
+
+Medicated, drama queen, picture perfect, numb belligerence
+Narcissistic, drama queen, craving fame and all its decadence
+
+Lying through your teeth again
+Suicidal imbecile
+Think about it, you're pounding on the fault line
+What'll it take to get it through to you precious
+Go with this, why do you wanna throw it away like this
+Such a mess. 
+
+Why would I wanna watch you... 
+Disconnect and self destruct one bullet at a time?
+What's your rush now, everyone will have his day to die
+
+They were right about you
+They were right about you
+
+Lying to my face again
+Suicidal imbecile
+Think about, you're pounding on the fault line
+What'll it take to get it through to you precious
+I'm over this. Why do you wanna throw it away like this
+Such a mess, over this, over this!
+
+Disconnect and self destruct, one bullet at a time
+What's your hurry, everyone will have his day to die
+If you choose to pull the trigger, should your drama prove sincere,
+Do it somewhere far away from here
+
+
 

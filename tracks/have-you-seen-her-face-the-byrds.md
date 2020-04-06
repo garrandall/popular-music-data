@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-you-seen-her-face-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/haveyouseenherface.html
 name: Have You Seen Her Face
 rankings:
 - end_date: '1967-06-16'
@@ -23,4 +24,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
 ---
+
+Have you seen her face her eyes reflect the colors in the sky
+A warm familiar place to be swept into
+Whenever she's close by makes me wonder why
+
+Run by don't turn back
+Can't hide from that look in her eye
+
+Must be the way she walks a style made up to capture all she needs
+No time to spend on loose talk
+If your luck runs right she might see you tonight anything in sight
+
+Run by don't turn back
+Can't hide from that look in her eyes
+
+You'll find your locked in her spell all the sights and sounds
+Your senses will be found
+That only time will tell how much love can be to wait so patiently
+Wait and see
+
+Run by don't turn back
+Can't hide from that look in her eyes
+
+
 

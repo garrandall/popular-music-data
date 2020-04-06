@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-get-weak-belinda-carlisle
+lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/igetweak.html
 name: I Get Weak
 rankings:
 - end_date: '1988-01-22'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
 ---
+
+When I'm with you
+I shake inside
+My heart's all tangled up
+My tongue is tied it's crazy
+
+Can't walk, can't talk, can't eat, can't sleep
+Oh, I'm in love, oh I'm in deep 'cuz baby
+
+With a kiss you can strip me defenseless
+With a touch I completely lose control
+'Til all that's left of my strength is a memory, wo...
+
+I get weak when I look at you
+Weak when we touch
+I can't speak when I look in your eyes
+I get weak when you're next to me
+Weak from this love
+I can't speak when I look in your eyes
+I get weak
+
+Convincing eyes, persuasive lips
+The helpless heart just can't resist their power
+
+You know you've got a hold over me
+You know you've got me where I want to be 'cuz lover
+
+Like a wave you keep pulling me under
+How I'll ever get out of this I don't know
+I just know there's just no way to fight it, wo...
+
+I get weak when I look at you
+Weak when we touch
+I can't speak when I look in your eyes
+I get weak when you're next to me
+Weak from this love
+I'm in deep when I look in your eyes
+I get weak I get weak I get weak
+
+Just a kiss you can strip me defenseless
+Just a touch I completely lose control
+'Til all that's left of my strength is a memory, wo...
+
+I get weak when I look at you
+Weak when we touch
+I can't speak when I look in your eyes
+I get weak when you're next to me
+Weak from this love
+I can't speak when I look in your eyes
+I get weak I get weak I get weak
+
+
 

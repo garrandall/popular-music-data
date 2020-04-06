@@ -5,6 +5,7 @@ features:
 - Tori Kelly
 genres: []
 key: take-back-home-girl-chris-lane-tori-kelly
+lyrics_url: https://www.azlyrics.com/lyrics/chrislane/takebackhomegirl.html
 name: Take Back Home Girl
 rankings:
 - end_date: '2018-04-20'
@@ -56,4 +57,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
 ---
+
+Duffle bag, backseat
+My dash, your feet
+Those other side of the highway headlights making you shine
+My hand, your leg
+Playlist playing
+Even though I haven't made it yet
+I'm dragging it, dropping it in my mind
+
+You're a drive real slow, down a no lane road
+To a house on a hill where the wild things grow
+You're wake up in pajamas, not a trace of makeup on ya
+You're a help her fix it, having breakfast with my momma
+You're a take back home, home, home girl
+Home, home, home girl
+Take back home, home, home girl
+Home, home, home girl
+
+You're the kind I wanna take a ride with
+Sit by on a Friday night
+In the stadium lights, side by side
+All the ladies like, "Yeah, she's doing just fine"
+Everybody in the bleachers, they all gon' want to meet ya
+From my teachers to my preacher
+My little crowd pleaser
+Parading with you feeling homecoming cool, yeah
+
+I wanna drive real slow, down a no lane road
+To a house on a hill where the wild things grow
+You're wake up in pajamas, not a trace of makeup on ya
+You're a help her fix it, having breakfast with my momma
+You're a take back home, home, home girl
+Home, home, home girl
+Take back home, home, home girl
+Home, home, home girl
+
+You're a take back, you're a take back
+You're a take back home girl
+You're a take back home
+You're a take back home girl
+
+You got that down home, homegrown, found on good ground soul
+That down home, home grown, found on good ground soul
+
+You're a drive real slow, down a no lane road
+To a house on a hill where the wild things grow
+You're wake up in pajamas, not a trace of makeup on ya
+You're a help her fix it, having breakfast with my momma
+You're a take back home, home, home girl
+Home, home, home girl
+Take back home, home, home girl
+Home, home, home girl
+
+You're a take back, you're a take back
+You're a take back home girl
+You're a take back home, yeah
+You're a take back home girl
+You're a take back home
+
+
 

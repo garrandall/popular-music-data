@@ -5,6 +5,7 @@ features:
 - Yung Joc
 genres: []
 key: killa-cherish-yung-joc
+lyrics_url: https://www.azlyrics.com/lyrics/cherish/killa.html
 name: Killa
 rankings:
 - end_date: '2008-02-29'
@@ -68,4 +69,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+'Yung Joc' 'Yeah' 'I don't think they're ready for this one'
+
+
+Cherish, they make me wanna lose control
+Yeah, shawty, owwwww!
+In a wifebeater two-seater cruise control
+Pull up and your girl might lose control
+Dime play a circle with that duffle bag boy
+Guaranteed they can't get enough of that boy
+
+
+I saw him from a distance
+Then I watched him make his way to the floor (floor, floor, floor)
+He walked up to me slowly, whispers
+And he says 'I know who you are' (are, are, are)
+I wanna get to know you
+
+
+I can tell he was a player
+But he knows just how to make you lose control
+Somehow I knew
+
+
+Shawty is a killer
+But I really want him
+And I got to have him tonight
+Straight heart breaker
+But it really don't matter
+'cause I really want him tonight
+
+
+The way he licks his lips
+I'm in an infatuated state of mind, mind (oh-yeah)
+He's so hard to resist
+I gotta tell you, baby boy is so fine (fine)
+Just gotta have you (oh-yeah)
+
+
+
+
+
+
+Oh it feels so wrong that it must, it must be right
+And I'm so high, don't wanna come down
+Just let me fly
+
+
+Hey, hey Let me talk to them
+My whips push buttons
+No car keys man
+Pop the top like a sardine can
+We stay flooded like New Orleans man
+Lebron can't stop I be ballin' man
+
+you I'm pretty sure that you heard the rumors
+Got a big dick and big kahunas
+I'm a pretty slick like Rick the Ruler
+Keep one eye open and my hand on that bitch
+
+I rock the Claudio my shades Giselle
+I break hearts
+The heart break 'em tell
+I treat your chick like a pair of ones
+Where sluts have one good time and fun
+
+
+
+
 

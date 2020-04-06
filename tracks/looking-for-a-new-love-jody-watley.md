@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-for-a-new-love-jody-watley
+lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/lookingforanewlove.html
 name: Looking For A New Love
 rankings:
 - end_date: '1987-03-13'
@@ -83,4 +84,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+
+Hasta la vista, baby
+
+You gave me love, you did me wrong
+Didn't know what to do
+But baby, I'm strong, gonna get over you
+A new boy I'm gonna choose, you'll see
+
+My love was true, still you threw it all away
+Now other guys will have me, they'll appreciate my love
+Tell me, how does it feel
+
+You know that I needed you
+You know that you meant the world to me
+You know I had to have you
+Now I'm gonna find somebody new
+
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+
+Was she hot, did she turn you out?
+Curiosity rules my brain
+Was she worth my heart? It's torn all apart
+Are you going back again? Tell me
+
+My love was true, still you threw it all away
+But now you're like the rest, unworthy of my best
+Hasta la vista, baby
+
+You know that I needed you
+You know that you meant the world to me
+You know I had to have you
+Now I'm gonna find somebody new
+
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+
+You know that I needed you
+You know that you meant the world to me
+I had to have you
+Now I'm gonna find somebody new
+
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+I'm looking for a new love, baby
+A new love, yeah yeah yeah
+
+Other guys will have me, they'll appreciate my love
+Tell me, how does it feel
+Now you're like the rest, unworthy of my best
+Hasta la vista, baby
+
+I'm looking for a new love, baby
+(Other guys will have me, they'll appreciate my love)
+I'm looking for a new love baby
+(Tell me, how does it feel)
+I'm looking for a new love baby
+(Now you're like the rest, unworthy of my best)
+
+I'm looking for a new love baby, a new love
+I'm looking for a new love baby, a new love
+I'm looking for a new love baby, a new love
+Hasta la vista, baby
+
+
 

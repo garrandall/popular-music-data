@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: welcome-to-the-future-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/welcometothefuturereprise.html
 name: Welcome To The Future
 rankings:
 - end_date: '2009-08-28'
@@ -71,4 +72,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
 ---
+
+I went to see father of the bride, 
+With a girl back home, 
+We broke up before the sequal, 
+So I went to that one all alone. 
+
+I wondered who I'd wind up with, 
+And what would our kids look like? 
+Well I guess I got my answer, 
+As I tuck them in at night. 
+
+Heeeeey, I don't think dreams come any truer, 
+Boys, welcome to the future.
+
+
 

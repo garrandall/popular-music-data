@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jimmy-loves-mary-anne-looking-glass
+lyrics_url: https://www.azlyrics.com/lyrics/lookingglass/jimmylovesmaryanne.html
 name: Jimmy Loves Mary-Anne
 rankings:
 - end_date: '1973-07-27'
@@ -67,4 +68,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
 ---
+
+Just seventeen, everything that you've seen 
+It's all there in her eyes
+So many years of her poor mama's tears 
+And her daddy's sweet lies
+
+There's nobody home
+Mary-Anne's alone
+Almost fully grown
+And worrying the whys
+
+Jimmy's been down, he's been out and around
+And he knows where it's at
+Love to be good if he thought that he could
+But it isn't like that
+
+He don't make mistakes
+What he makes, he takes
+Jimmy gets all the breaks 
+'Cause he knows how
+
+Jimmy loves Mary-Anne
+Jimmy wants to be her man
+Jimmy loves Mary-Anne
+She thinks it's all right
+
+She's not alone and she picks up the phone 
+And she hears Jimmy say
+Mother I'm beat, I'm so sick of the street
+Feel like running away
+
+There's no life here at all
+The city seems so small
+There's sweeter music calling us away
+Let it play
+
+Jimmy loves Mary-Anne
+Jimmy wants to be her man
+Jimmy loves Mary-Anne
+She thinks it's all right
+
+This big dollar town, it can drag you right down
+If you go it alone
+Even the strong don't survive very long
+When they're out on their own
+
+Jimmy knows it's true 
+Mary-Anne knows it too
+They can see each other through
+If they hold on
+
+Jimmy loves Mary-Anne
+Jimmy wants to be her man
+Jimmy loves Mary-Anne
+She thinks it's all right
+
+Jimmy loves Mary-Anne
+Jimmy wants to be her man
+Jimmy loves Mary-Anne
+She thinks it's all right
+
+
 

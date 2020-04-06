@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-with-you-avril-lavigne
+lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/tiktok.html
 name: I'm With You
 rankings:
 - end_date: '2002-12-13'
@@ -115,4 +116,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
 ---
+
+Wake up in the mornin' feelin' like P-Diddy (Hey what's up girl)
+Grab ma glasses I'm out the door I'm gonna hit the city (Let's go)
+Before I leave brush ma teeth with a bottle of Jack
+'Cuz when I leave for the night I ain't comin back
+
+I'm talkin pedicure on our toes toes
+Tryin on all our clothes clothes
+Boys blowin' up our phones phones
+
+Drop top and playin' our favorite CD's
+Goin up to the parties
+Tryna get a little bit tipsy
+
+
+Don't stop, make it pop
+DJ, blow my speakers up
+Tonight, Im'ma fight
+Til we see the sunlight
+TiK ToK, on the clock
+But the party don't stop no
+Woah-oh oh oh
+Woah-oh oh oh
+
+Ain't got a care in world, but got plenty of beer
+Ain't got no money in my pocket, but I'm already here
+Now, the dudes are lining up cause they hear we got swagger
+But we kick em to the curb unless they look like Mick Jagger
+
+I'm talkin' bout - everybody getting crunk, crunk
+Boys tryna touch my junk, junk
+Gonna smack him if he getting too drunk, drunk
+Now, now - we goin' til they kick us out, out
+Or the police shut us down, down
+Police shut us down, down
+Po-po shut us - (down)-man
+
+
+
+ 
+You build me up
+You break me down
+My heart, it pounds
+Yeah, you got me
+With my hands up
+You got me now
+You got that sound
+Yeah, you got me
+
+You build me up
+You break me down
+My heart, it pounds
+Yeah, you got me
+With my hands up
+Put your hands up
+Put your hands up
+
+Now, the party don't start till I walk in
+
+
+
+
 

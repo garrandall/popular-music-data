@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-for-you-to-say-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/easyforyoutosay.html
 name: Easy For You To Say
 rankings:
 - end_date: '1983-04-29'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+I heard some talk around this town
+Talk about you and me
+How a fool fell out of love with you
+Wanted to be free
+
+Well that's easy for you to say
+That I don't know what I'm doing
+That I've thrown our love away
+And left my life in ruin
+That's easy for you to say
+
+I read your letter again
+I'm sure you know the one
+"Goodbye," you said like a coward
+"It'll be better in the long run"
+
+Well that's easy for you to say
+That I don't know what I'm doing
+That I've thrown our love away
+Left my life in ruin
+That's easy for you to say
+
+Go back to her again
+Back to the way you were
+She's a damn sight better for you
+You're a damn sight better for her
+
+Well that's easy for you to say
+That I don't know what I'm doing
+When you've thrown our love away
+Left my life in ruin
+That's easy for you to say
+
+
 

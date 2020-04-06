@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: glide-pleasure
+lyrics_url: https://www.azlyrics.com/lyrics/melanieb/sweetpleasure.html
 name: Glide
 rankings:
 - end_date: '1979-12-14'
@@ -47,4 +48,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
+
+I'm physically, dramatically, undeniably
+Attracted to you, did you hear?
+So profoundly, thoroughly visibly
+Attracted to you, did you hear?
+
+The way you hold your keys, your coffee cup
+Even the tempo of your walk
+The way your tattoos lay upon your skin
+Even the tempo of your thought
+
+Sweet pleasure
+Sweet pleasure
+Bring it on, bring it on, on, on, on, on
+Sweet pleasure
+Let me lose myself in your embrace
+Sweet pleasure
+Bring it on, bring it on, bring it home
+
+You satisfy, gratify
+Turn all my, world downside up
+You're so colorful, natural
+Keep giving me a bellyful of your love
+
+The way you feed, glide, breeze across me
+In the softness of your stare
+To clarify, you make my
+Senses naked, my soul bare
+
+Sweet pleasure
+Sweet pleasure
+Bring it on, bring it on, on, on, on, on
+Sweet pleasure
+How i feel for you i can't explain
+Sweet pleasure
+Bring it on, bring it on, bring it home
+
+Bring it on, bring it on, (bring it on) on, on, on, on
+Bring it on, bring it on, (bring it on) on, on, on, on
+
+I'm captured by your whisper
+Into a mind field of love
+Into danger
+Into us
+
+Sweet pleasure
+Sweet pleasure
+Bring it on, bring it on, on, on, on, on
+Sweet pleasure
+How i feel for you i can't explain
+Sweet pleasure
+Bring it on, bring it on, bring it on
+
+Sweet pleasure
+Sweet pleasure
+Bring it on, bring it on, on, on, on, on
+Sweet pleasure
+Gotta feel, gotta feel your warm embrace
+Sweet pleasure
+Bring it on, bring it on, bring it home
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: imagine-jack-johnson
+lyrics_url: https://www.azlyrics.com/lyrics/jackjohnson/drinkthewater.html
 name: Imagine
 rankings:
 - end_date: '2007-07-06'
@@ -15,4 +16,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
 ---
+
+Drink the water drink it down 
+This time I know I'm bound 
+To spit it back up 
+I didn't want this 
+Salty substitute, just not going to do 
+I need some air, if I'm going to live through 
+This experience reminds me of a clock 
+That just won't tick 
+
+I want to wake up 
+>From this concussion 
+But my dream is just not done 
+I'm late again, 
+It's just one of those 
+Bad days look outside and 
+Be careful what you ride 
+You just might find 
+That you're out of time 
+To swim ashore 
+If I drift long enough 
+I'll be home 
+
+He's got delusions between his ears 
+Man it takes up too much space 
+And all that tension between his gears man 
+He'll never ever leave this place 
+He's got stones instead of bones 
+And everybody knows 
+That can make you real real slow 
+And if heaven was below 
+He'd know just where to go 
+Dive in the ocean 
+And he'd sink like a stone 
+And he'd say 
+It's time to swim ashore 
+If I drift long enough 
+I'll be home 
+
+Hold on if you can 
+You're gonna sink faster 
+Than you can imagine so hold 
+Hold on if you can 
+You're gonna sink faster 
+Than you can imagine so hold 
+
+It's just time to swim ashore 
+If I drift long enough 
+I'll be home
+
+
 

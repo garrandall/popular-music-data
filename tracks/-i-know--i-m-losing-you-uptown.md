@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-know--i-m-losing-you-uptown
+lyrics_url: https://www.lyricsreg.com/lyrics/uptown/i+know+im+losing+you/
 name: (I Know) I'm Losing You
 rankings:
 - end_date: '1987-01-02'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
 ---
+Your love is fadin I feel it fade
+Ah, your love is fadin I feel it fade
+Ah, your love is fadin Woman I feel it fade
 
+Ah, woman, woman your touch, your touch has gone cold
+As if someone else controls your very soul
+
+I've fooled myself long as I can
+Can feel the presence of another man
+
+It's there when you speak my name
+It's just not the same
+Ooh babe, I'm losing you
+
+It's in the air
+It's there everywhere
+Baby, baby, babe, I'm Losing you
+
+When I look into your eyes
+A reflection of a face, I see
+
+I'm hurt, down-hearted and worried, girl
+Cause that face doesn't belong to me
+
+It's all over your face
+Someones takin my place
+Ooo baby, I'm losing you
+
+You try hard to hide
+The emptiness you feel inside
+Oo babe, I'm losing you
+
+I can't bear the thought of losing you
+Ah woman, can't you see what I'm goin through
+
+I'm losin my mind
+And it's all because of you
+I can't bear the thought of losing you
+
+I'm losin my mind
+And it's all because of you
+I can't stand the thought of losing you.

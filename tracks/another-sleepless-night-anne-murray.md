@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-sleepless-night-anne-murray
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/anothersleeplessnight.html
 name: Another Sleepless Night
 rankings:
 - end_date: '1982-02-05'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
+
+The nights have been so lonely since you went away
+I could not get to sleep, try as I may
+But now you're back, and you're here to stay.
+
+Still it looks like another sleepless night
+Oh, but darlin', that's alright 
+Just as long as you are holdin' me tight.
+
+Makin' love 'til the early morning light
+Only whets our appetite
+This will be another sleepless night.
+
+Hold me, while the moon shines in through the window
+Let your love flow
+Hold me, we can orchestrate love's scenario with the radio.
+
+And it looks like another sleepless night
+Oh, but darlin', that's alright
+Just as long as you are holdin' me tight.
+
+Hold me, while the moon shines in through the window
+Let your love flow
+Hold me, we can orchestrate love's scenario with the radio.
+
+And it looks like another sleepless night
+Oh, but darlin', that's alright
+Just as long as you are holdin' me tight.
+
+Makin' love 'til the early morning light
+Only whets our appetite...
+
+
 

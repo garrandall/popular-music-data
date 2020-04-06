@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heavy-collective-soul
+lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/heavy.html
 name: Heavy
 rankings:
 - end_date: '1999-03-12'
@@ -87,4 +88,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
 ---
+
+Complicate this world you wrapped for me
+I'm acquainted with your suffering
+
+And all your weight
+It falls on me
+It brings me down
+And all your weight
+It falls on me
+It falls on me
+
+Hold me up to all whom you've deceived
+Promises you break you still believe
+
+
 

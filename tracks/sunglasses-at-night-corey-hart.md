@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunglasses-at-night-corey-hart
+lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/sunglassesatnight.html
 name: Sunglasses At Night
 rankings:
 - end_date: '1984-06-01'
@@ -99,4 +100,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
 ---
+
+I wear my sunglasses at night
+So I can, So I can
+Watch you weave then breathe your story lines
+And I wear my sunglasses at night
+So I can, So I can
+Keep track of the visions in my eyes
+
+While, she's deceiving me, 
+It cuts my security (has)
+she got control of me
+I turn to her and say
+
+Don't switch the blade on the guy in shades; oh no
+Don't masquerade with the guy in shades;
+(oh no) (I can't believe it)
+You got it made with the guy in shades; oh no
+
+I wear my sunglasses at night
+So I can, So I can
+Forget my name while you collect your claim
+And I wear my sunglasses at night
+So I can, So I can
+See the light that's right before my eyes
+
+While she's deceiving me, 
+she cuts my security (has)
+She got control of me
+I turn to her and say
+
+Don't switch the blade on the guy in shades (oh no)
+Don't masquerade with the guy in shades
+(oh no) (I can't believe it)
+(cuz) You got it made with the guy in shades (oh no)
+
+While she's deceiving me, 
+she cuts my security (has)
+She got control of me
+I turn to her and say
+
+Don't switch the blade on the guy in shades (oh no)
+Don't masquerade with the guy in shades
+(oh no) (I can't believe it)
+don't be afraid of the guy in shades
+(oh No) (It can't escape you)
+(cus) You got it made with the guy in shades (oh no)
+
+I said
+I wear my sunglasses at night
+I wear my sunglasses at night
+I wear my sunglasses at night
+
+I say to ya now
+I wear my sunglasses at night
+I wear my sunglasses at night
+I wear my sunglasses at night
+
+I cry to you
+I wear my sunglasses at night
+I wear my sunglasses at night
+
+
 

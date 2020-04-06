@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: inner-city-blues--make-me-wanna-holler--marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/innercitybluesmakemewannaholler.html
 name: Inner City Blues (Make Me Wanna Holler)
 rankings:
 - end_date: '1971-10-15'
@@ -43,4 +44,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
 ---
+
+Rockets, moon shot
+Spend it on, the have nots
+Money, we make it
+Fore we see it you take it
+
+Oh, make me wanna holler
+Way they do my life
+Make me wanna holler
+The way they do my life
+This ain't livin', this ain't livin'
+No, no baby, this ain't livin'
+No, no, no, no
+
+Inflation, no chance
+To increase, finance
+Bills pile up, sky high
+Send that boy off, to die
+
+Oh, make me wanna holler
+The way they do my life
+Make me wanna holler
+The way they do my life
+This ain't livin', this ain't livin'
+No, no baby, this ain't livin'
+No, no, no, no
+
+Hang ups, let down
+Bad breaks, set back
+Natural, fact is
+I can't pay my, taxes
+
+Woah, make me wanna holler
+Throw up both my hands
+Make me wanna holler
+Throw up both my hands
+
+Crime is, increasin'
+Trigger happy, policin' (good god)
+Panic, is spreading
+God knows where, we're heading
+
+Oh, make me wanna holler
+They don't understand, hey hey
+Make me wanna holler
+They don't understand
+This ain't livin', this ain't livin'
+No, no baby, this ain't livin'
+No, no, no, no
+
+This ain't livin', this ain't livin'
+This ain't livin', this ain't livin'
+This ain't livin', this ain't livin'
+This ain't livin', this ain't livin'
+
+
 

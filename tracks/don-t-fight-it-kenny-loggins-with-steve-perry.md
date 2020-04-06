@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-fight-it-kenny-loggins-with-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/dontfightit.html
 name: Don't Fight It
 rankings:
 - end_date: '1982-09-03'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
 ---
+
+Live long enough you're bound to find
+Moonshine'll make a man go blind
+Never can tell what the brew will do
+But there's times you'll wind up feelin so fine
+
+Some women seem to have a knack
+They'll turn you on and leave you flat
+Never can tell who's playin for keeps
+So tell me now what's holding you back
+I know your heart can take it
+
+Don't fight it
+Don't fight it
+Don't fight it
+It'll do your heart so good
+Don't fight it
+Don't fight it
+Don't fight it
+It'll only do you good
+
+Don't fight it'll do your heart so good
+Do what mama do
+Do what daddy do
+When you gonna make up your mind
+You can run but love will find you
+Ready or not here it comes
+
+Some people when they hear a groove
+Shake their heads cause they just can't approve
+Well I turn up the music till it's shakin the sky
+Is everybody ready to move
+
+There's times you wanna shake yourself
+There's nights you wanna yell for help
+You can fly when you're standing still
+N there's nothing wrong with raising some hell
+Tonight we're gonna raise it
+
+Don't fight it
+Don't fight it
+Don't fight it
+Don't fight it
+
+Don't fight it
+Don't fight it
+Don't fight it'll do your heart so good
+Don't fight it
+Don't fight it
+Don't fight it
+Don't fight it
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -there-s-gotta-be--more-to-life-stacie-orrico
+lyrics_url: https://www.azlyrics.com/lyrics/stacieorrico/theresgottabemoretolife.html
 name: (There's Gotta Be) More To Life
 rankings:
 - end_date: '2003-09-26'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-31'
 ---
+
+I've got it all, but I feel so deprived
+I go up, I come down and I'm emptier inside
+Tell me what is this thing that I feel like I'm missing
+And why can't I let it go
+
+
+There's gotta be more to life...
+Than chasing down every temporary high to satisfy me
+Cause the more that I'm...
+Tripping out thinking there must be more to life
+Well it's life, but I'm sure... there's gotta be more
+Than wanting more
+
+I've got the time and I'm wasting it slowly
+Here in this moment I'm half way out the door
+Onto the next thing, I'm searching for something that's missing
+
+
+
+i'm wanting more
+I'm always waiting on something other than this 
+Why am I feelin' like there's something I missed.....
+
+
+
+
 

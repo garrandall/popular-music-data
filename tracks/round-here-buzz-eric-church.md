@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: round-here-buzz-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/roundherebuzz.html
 name: Round Here Buzz
 rankings:
 - end_date: '2017-10-20'
@@ -83,4 +84,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
 ---
+
+Another Friday night
+There's a line of cars leaving
+Home team's got an out-of-towner
+Me, I'm sitting on the hood of mine drinking
+I'm just a parking lot down-and-outer
+
+Under that high school bleacher
+I drove that preacher's daughter crazy
+Her mama was my homeroom teacher
+And her dad was hell bent on saving me
+
+Yeah, I'm sure there's higher highs
+Where the high risers rise
+But me, I'm gonna sit right here tonight, and
+
+Catch me a 'round here buzz
+Cause you ain't 'round here none
+Keep putting 'em down here, 'nother round here
+'Til my down goes up
+Lit up like that one stoplight
+Across from that welcome sign
+Ever since you caught that out there bug
+I catch me a 'round here buzz
+
+I never had big-city eyes
+Hell, I've never been east of Dallas
+Got no idea where you are now
+Or if you ever got that penthouse palace
+
+No, Scotty's ain't got no vibe
+Got no gas in his neon light
+But he's got two-for-one 'til 2:00 tonight
+
+Catch me a 'round here buzz
+Cause you ain't 'round here none
+Keep putting 'em down here, 'nother round here
+'Til my down goes up
+Lit up like that one stoplight
+Across from that welcome sign
+Ever since you caught that out there bug
+I catch me a 'round here buzz
+
+Catch me a 'round here buzz
+Cause you ain't 'round here none
+Keep putting 'em down here, 'nother round here
+'Til my down here
+Is lit up like that one stoplight
+Across from that welcome sign
+Ever since you caught that out there bug
+I catch me a 'round here buzz
+I catch me a 'round here buzz
+'Round here buzz
+I catch me a 'round here buzz
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-rose-has-its-thorn-poison
+lyrics_url: https://www.azlyrics.com/lyrics/poison/everyrosehasitsthorn.html
 name: Every Rose Has Its Thorn
 rankings:
 - end_date: '1988-11-04'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
 ---
+
+We both lie silently still in the dead of the night
+Although we both lie close together we feel miles apart inside
+Was it something I said or something I did?
+Did my words not come out right?
+Though I tried not to hurt you
+Though I tried
+But I guess that's why they say
+
+
+Every rose has its thorn
+Just like every night has its dawn
+Just like every cowboy sings his sad, sad song
+Every rose has its thorn
+
+Yeah it does
+
+I listen to our favorite song playing on the radio
+Hear the DJ say love's a game of easy come and easy go
+But I wonder does he know?
+Has he ever felt like this?
+And I know that you'd be here right now
+If I could have let you know somehow
+I guess
+
+
+
+Though it's been a while now
+I can still feel so much pain
+Like a knife that cuts you the wound heals
+But the scar, that scar remains
+
+I know I could have saved a love that night if I'd known what to say
+Instead of makin' love we both made our separate ways
+And now I hear you found somebody new
+And that I never meant that much to you
+To hear that tears me up inside
+And to see you cuts me like a knife
+I guess
+
+
+
+
 

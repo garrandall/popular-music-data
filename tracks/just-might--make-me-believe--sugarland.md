@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-might--make-me-believe--sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/justmightmakemebelieve.html
 name: Just Might (Make Me Believe)
 rankings:
 - end_date: '2005-12-09'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
 ---
+
+I got miles of trouble spreadin' far and wide
+Bills on the table gettin' higher and higher
+They just keep on comin', there ain't no end in sight
+I'm just holding on tight...
+I've got someone who loves me more then words can say
+And I'm thankful for that each and every day
+And if I count all my blessings, I get a smile on my face
+Still it's hard to find faith..
+
+
+But if you can look in my eyes
+And tell me we'll be alright
+If you promise never to leave You just might make me believe
+
+Its just day to day tryin' to make ends meet
+What id give for an address out on easy street
+I need a deep margarita to help me unwind
+Leave my troubles behind...
+
+
+
+I used to believe in us
+When times got tough
+But lately I'm afraid that even love is not enough
+
+
+But if you can can look in my eyes
+And tell me we'll be alright
+If you promise never to leave you just might make me
+Oh, you just might make me
+You just might make me believe
+
+
 

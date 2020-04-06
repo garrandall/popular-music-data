@@ -5,6 +5,7 @@ features:
 - Andre 3000
 genres: []
 key: green-light-john-legend-andre-3000
+lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/greenlight.html
 name: Green Light
 rankings:
 - end_date: '2008-09-26'
@@ -112,4 +113,152 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
 ---
+
+Give me the green light
+Give me just one night
+I'm ready to go right now
+I'm ready to go right now
+Let's go
+
+I'm ready to go right now
+I'm ready to go right now
+
+
+I see you move
+I'm checking your smile
+Working your back like it's going out of style
+Shake just a little bit faster
+Shake just a little now girl
+
+Dying to meet you
+So let's mess around
+I've got an obsession of us getting down
+Come just a little bit closer
+I just need permission so
+
+Give me the green light
+Give me just one night
+I'm ready to go right now
+I'm ready to go right now
+
+We can go all night
+Give me the green light
+I'm ready to go right now
+I'm ready to go right now
+
+A 1, 2, 3 green light
+But if it's what it seems like
+The way you moving baby
+Let's me know that it's gonna be right
+I'm ready to go right now
+I'm ready to go right now
+
+A 1, 2, 3 red light
+I wanna see what your bed's like
+But if I be your buddy
+Help you study
+Gets your head right
+I'm ready to go right now
+I'm ready to go right now
+
+Do I have a girlfriend
+Technically no
+If you be my girlfriend
+Then I'll make it so
+You'll be my only true lover
+No competition no other (no other)
+
+Baby is just the thrill of the chase
+But I've got a feeling that I'm winning this race!
+Baby I'm getting much closer
+I just need permission so
+
+Give me the green light
+Give me just one night
+I'm ready to go right now!
+I'm ready to go right now
+
+We can go all night
+Give me the green light
+I'm ready to go right now
+I'm ready to go right now
+
+A 1, 2, 3 green light
+But if it's what it seems like
+The way you moving baby
+Let's me know that it's gonna be right
+I'm ready to go right now
+I'm ready to go right now
+
+A 1, 2, 3 red light
+I wanna see what your bed's like
+But if I be your buddy
+Help you study
+Gets your head right
+I'm ready to go right now
+I'm ready to go right now
+
+
+So I went hard
+Like Medusa staring at me
+I told her let's go
+Let's blow this lame nigga factory
+She said what kind of girl
+Do you think that I are
+The kind that you meet in a bar
+You think you can get
+What ever you want 'cause you some kind of star
+
+No I'm a comet
+I just want you woman
+Hey if I were you
+It would be me that I go home with 3
+The one and only
+One thing you ain't considered
+I heard you when you told your girl
+"Oh, he can get it."
+
+Admit it, you did it
+Let's hop a cab and split it
+I'm kidding we both going to where you're living
+I got you giggling like a piglet
+Oh that's the ticket
+I hope you more like Anita Baker than Robin Givens
+
+No I don't know that lady so let me quit it
+I'm just style-freeing, free-styling
+Which I seldom do
+This what I'm telling you
+To the bed I'm nailing you
+Like I been in jail for two
+Years and then they let me loose
+
+Give me the green light
+Give me just one night
+I'm ready to go right now
+I'm ready to go right now
+
+
+You got you one legend
+Sometimes you gotta step from behind the piano
+And let 'em know what's going on
+Even Stevie Wonder got down sometimes
+I'm ready to go
+
+We could go all night
+Give me the green light
+
+I'm ready to go
+I'm ready to go right now
+My men they can't wait
+I'm ready to go right now
+Participate
+
+I'm ready to go right now
+I'm ready to go right now
+
+I'm ready to go right now
+I'm ready to go right now
+
+
 

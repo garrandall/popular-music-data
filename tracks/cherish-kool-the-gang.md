@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cherish-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/cherish.html
 name: Cherish
 rankings:
 - end_date: '1985-07-12'
@@ -108,4 +109,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
 ---
+
+Let's take a walk together near the ocean shore
+Hand in hand you and I
+Let's cherish every moment we have been given
+The time is passing by
+
+I often pray before I lay down
+By your side
+If you receive your calling before I awake
+Could I make it through the night
+
+Cherish the love we have, we should cherish the life we live
+Cherish the love, cherish the life, cherish the love
+Cherish the love we have, for as long as we both shall live
+Cherish the love, cherish the life, cherish the love
+
+The world is always changing, nothing stays the same
+But love will stand the test of time
+The next life that we live in remains to be seen
+Will you be by my side
+
+I often pray before I lay down
+By your side
+And if you receive your calling before I awake
+Could I make it through the night
+
+Cherish the love we have, we should cherish the life we live
+Cherish the love, cherish the life, cherish the love
+Cherish the love we have, for as long as we both shall live
+Cherish the love, cherish the life, cherish the love
+
+Cherish the love
+Cherish the life
+
+Cherish the love we have, we should cherish the life we live
+Cherish the love, cherish the life, cherish the love
+Cherish the love we have, for as long as we both shall live
+Cherish the love, cherish the life, cherish the love
+
+Cherish the love we have, we should cherish the life we live
+Cherish the love, cherish the life, cherish the love
+Cherish the love we have, for as long as we both shall live
+Cherish the love, cherish the life, cherish the love
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-the-dukes-of-hazzard--good-ol--boys--waylon
+lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/themefromthedukesofhazzardgoodolboys.html
 name: Theme From The Dukes Of Hazzard (Good Ol' Boys)
 rankings:
 - end_date: '1980-09-19'
@@ -99,4 +100,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
+
+Just'a good ol' boys
+Never meanin' no harm
+Beats all you never saw
+Been in trouble with the law
+Since the day they was born
+
+Staightnin' the curves, yeah
+Flatnin' the hills
+Someday the mountain might get 'em
+But the law never will
+
+Makin' their way
+The only way they know how
+That's just a little bit more
+Than the law will allow
+
+Makin' their way
+The only way they know how
+That's just a little bit more
+Than the law will allow
+
+I'm a good ol' boy
+You know my momma loves me
+But she don't understand
+They keep a showin my hands and not my face on TV
+
+Oh yeah
+
+
 

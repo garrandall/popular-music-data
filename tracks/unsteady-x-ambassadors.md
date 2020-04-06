@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unsteady-x-ambassadors
+lyrics_url: https://www.azlyrics.com/lyrics/xambassadors/unsteady.html
 name: Unsteady
 rankings:
 - end_date: '2016-06-10'
@@ -143,4 +144,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
 ---
+
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+
+Momma
+Come here
+Approach
+Appear
+Daddy
+I'm alone
+'Cause this house don't feel like home
+
+If you love me
+Don't let go
+If you love me
+Don't let go
+
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+
+Mother
+I know
+That you're tired of being alone
+Dad I know you're trying
+To fight when you feel like flying
+
+But if you love me
+Don't let go
+If you love me
+Don't let go
+
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+Hold
+Hold on
+Hold on to me
+'Cause I'm a little unsteady
+A little unsteady
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-one-amy-grant
+lyrics_url: https://www.azlyrics.com/lyrics/amygrant/luckyone.html
 name: Lucky One
 rankings:
 - end_date: '1994-08-19'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
 ---
+
+You're the kind
+When you love you love with all your might and
+You're the kind
+I would dream about at night
+Now I'm the lucky one
+Baby I'm the lucky one
+
+You're the kind
+That I want to be with in the dark and
+You're the kind who is capturing my heart
+And I'm the lucky one
+Baby I'm the lucky one
+
+And I have never been the one to fall in love so soon
+But I could never face another night or day without you
+Baby I'm the lucky one
+
+You're the kind
+With poetry and valentines and
+You're the kind
+Who will never ever leave
+And I'm the lucky one
+The luckiest girl
+Baby I'm the lucky one
+
+And I have never been the one to fall in love so soon
+But I could never face another night or day without you
+I'm the lucky one
+Baby I'm the lucky one..
+
+
 

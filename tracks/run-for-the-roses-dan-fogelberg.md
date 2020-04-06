@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-for-the-roses-dan-fogelberg
+lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/runfortheroses.html
 name: Run For The Roses
 rankings:
 - end_date: '1982-04-09'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
 ---
+
+Born in the valley
+And raised in the trees
+Of Western Kentucky
+On wobbly knees
+
+With mama beside you
+To help you along
+You'll soon be a-growin' up strong
+
+Oh, the long lazy mornings
+In pastures of green
+The sun on your withers
+The wind in your mane
+
+Could never prepare you
+For what lies ahead
+The run for the roses so red
+
+And it's run for the roses
+As fast as you can
+Your fate is delivered
+Your moment's at hand
+
+It's the chance of a lifetime
+In a lifetime of chance
+And it's high time
+You joined in the dance
+It's high time 
+You joined in the dance
+
+From sire to sire
+It's born in the blood
+The fire of a mare and
+The strength of a stud
+
+It's breeding
+And it's training
+And it's something unknown
+That drives you and carries you home
+
+And it's run for the roses
+As fast as you can
+Your fate is delivered
+Your moment's at hand
+
+It's the chance of a lifetime
+In a lifetime of chance
+And it's high time
+You joined in the dance
+It's high time
+You joined in the dance
+
+
 

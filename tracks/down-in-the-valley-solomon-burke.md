@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-in-the-valley-solomon-burke
+lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/downinthevalley.html
 name: Down In The Valley
 rankings:
 - end_date: '1962-06-01'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
 ---
+
+Down in the valley, the valley so low,
+Late in the evenin', hear the train blow.
+Hear the train blow, dear, hear the train blow,
+Late in the evenin', hear the train blow.
+
+The train won't stay, love, it goes right through.
+It will be gone, love, and so will you!
+Know I love you, dear, know I love you,
+Angels in heaven know I love you!
+
+The train is gone, love, and out of sight;
+Goodnight my darlin', darlin' goodnight!
+
+Goodnight my darlin', darlin' goodnight!
+
+
 

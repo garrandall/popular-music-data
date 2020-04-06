@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-will-i-see-you-smile-again--bell-biv-devoe
+lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/whenwilliseeyousmileagain.html
 name: When Will I See You Smile Again?
 rankings:
 - end_date: '1991-01-25'
@@ -39,4 +40,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
 ---
+
+La da da da da da da
+La da da da da da da da da oh ho
+
+Tears I see drop from your eyes
+Tell me why you cry
+Guilt I feel when you look at me
+Did I let you down
+
+Girl, you see that I
+I apologize
+Tell me what to do
+To get through to you
+
+Girl, it's not the same
+I know I was to blame
+Just tell me when will I
+See you smile again
+
+Tell me when will I see you smile again
+'Cause I know I messed up, baby (Oh)
+And I know you're fed up (Ooh), sugar (Hey, hey)
+
+Tell me when will I see you smile again (Oh, oh, oh)
+'Cause I know I messed up, baby
+And I know you're fed up, sugar
+
+Promises I know I made many times before
+And I broke each one of them
+But I had to learn over and over again
+Don't hurt the one you love
+
+Girl, you see that I
+I apologize
+Tell me what to do
+To get through to you
+
+Girl, it's not the same
+I know I was to blame
+Just tell me when will I
+See you smile again
+
+Tell me when will I see you smile again
+'Cause I know I messed up, baby
+And I know you're fed up (Oh), sugar (Hey, hey)
+
+Tell me when will I see you smile again
+'Cause I know I messed up, baby
+And I know you're fed up, sugar
+
+Look, baby
+Listen
+Please forgive me for all the wrong I've done
+You see, I just can't understand
+Why I keep making this same kind of mistake
+Over and over again
+But there's one question that remains in the back of my mind now
+And that is
+When will I see you smile again
+
+Tell me when will I see you smile again (Maybe we can talk it over)
+'Cause I know I messed up, baby (Maybe we can work it out)
+And I know you're fed up, sugar
+
+Tell me when will I see you smile again
+'Cause I know I messed up, baby
+And I know you're fed up, sugar (Is there something I can do, hey, hey, hey, hey)
+
+Tell me when will I (Oh) see you smile (Ooh) again
+'Cause I know I messed up, baby
+And I know you're fed up, sugar
+
+Tell me when will I see you smile again
+'Cause I know I messed up, baby
+
+
 

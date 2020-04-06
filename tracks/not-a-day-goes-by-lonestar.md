@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-a-day-goes-by-lonestar
+lyrics_url: https://www.azlyrics.com/lyrics/lonestar/notadaygoesby.html
 name: Not A Day Goes By
 rankings:
 - end_date: '2002-05-17'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
 ---
+
+Got a picture of you I carry in my heart
+Close my eyes to see it when the world gets dark
+Got a memory of you I carry in my soul
+I wrap it close around me when the nights get cold
+If you asked me how I'm doin' I'd say just fine
+But the truth is baby, if you could read my mind
+
+Not a day goes by that I don't think of you
+After all this time you're still with me it's true
+Somehow you remain locked so deep inside
+Baby, baby, oh baby, not a day goes by
+
+I still wait for the phone in the middle of the night
+Thinkin' you might call me if your dreams don't turn out right
+And it still amazes me that I lie here in the dark
+Wishin' you were next to me, with your head against my heart
+If you asked me how I'm doing I'd say just fine
+But the truth is baby, if you could read my mind
+
+Not a day goes by that I don't think of you
+After all this time you're still with me it's true
+Somehow you remain locked so deep inside
+Baby, baby, oh baby, not a day goes by
+
+Minutes turn to hours, and the hours to days
+Seems it's been forever that I've felt this way
+
+Not a day goes by that I don't think of you
+After all this time you're still with me it's true
+Somehow you remain locked so deep inside
+Baby, baby, oh baby, not a day goes by
+That I don't think of you
+
+
 

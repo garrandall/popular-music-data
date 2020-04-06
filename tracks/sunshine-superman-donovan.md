@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-superman-donovan
+lyrics_url: https://www.azlyrics.com/lyrics/donovan/sunshinesuperman.html
 name: Sunshine Superman
 rankings:
 - end_date: '1966-08-05'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+
+Sunshine came softly a-through my a-window today
+Could've tripped out easy a-but I've a-changed my ways
+It'll take time, I know it but in a while
+You're gonna be mine, I know it, we'll do it in style
+'Cause I made my mind up you're going to be mine
+
+I'll tell you right now
+Any trick in the book a-now, baby, all that I can find
+
+Everybody's hustlin' a-just to have a little scene
+When I say we'll be cool, I think that you know what I mean
+We stood on a beach at sunset, do you remember when?
+I know a beach where, baby, a-it never ends
+When you've made your mind up forever to be mine
+
+Hmm, hmm, hmm, hmm, hmm
+I'll pick up your hand and slowly blow your little mind
+'Cause I made my mind up you're going to be mine
+I'll tell you right now
+Any trick in the book a-now, baby, that I can find
+
+Superman or Green Lantern ain't got a-nothin' on me
+I can make like a turtle and dive for your pearls in the sea, yep
+A-you you you can just sit there while thinking on your velvet throne
+'Bout all the rainbows a-you can a-have for your own
+When youâve made your mind up, forever to be mine
+
+Hmm, hmm, hmm, hmm, hmm
+Iâll pick up your hand and slowly blow your little mind
+When youâve made your mind up, forever to be mine
+Iâll pick up your hand, Iâll pick up your hand
+
+
 

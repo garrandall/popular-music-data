@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: compass-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/compass.html
 name: Compass
 rankings:
 - end_date: '2013-11-29'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
 ---
+
+Alright
+
+Yeah it's been a bumpy road
+Roller-coasters high and low
+Fill the tank and drive the car
+Pedal fast, pedal hard
+You won't have to go that far
+
+You wanna give up 'cause it's dark
+We're really not that far apart
+
+So let your heart, sweetheart
+Be your compass when you're lost
+And you should follow it wherever it may go
+When it's all said and done
+You can walk instead of run
+'Cause no matter what you'll never be alone
+Never be alone
+Never be alone
+
+Forgot directions on your way
+Don't close your eyes, don't be afraid
+We might be crazy late at night
+I can't wait 'til you arrive
+Follow stars, you'll be alright
+
+You wanna give up 'cause it's dark
+We're really not that far apart
+
+So let your heart, sweetheart
+Be your compass when you're lost
+And you should follow it wherever it may go
+When it's all said and done
+You can walk instead of run
+'Cause no matter what you'll never be alone 
+Never be alone
+Never be alone
+
+You wanna give up 'cause it's dark
+We're really not that far apart
+
+One, two, three
+
+So let your heart, sweetheart
+Be your compass when you're lost
+And you should follow it wherever it may go
+When it's all said and done
+You can walk instead of run
+'Cause no matter what you'll never be alone 
+Never be alone
+Never be alone
+
+When it's all said and done
+You can walk instead of run
+'Cause no matter what you'll never be alone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-did-our-love-go-the-supremes
+lyrics_url: https://www.azlyrics.com/lyrics/softcell/wheredidourlovego.html
 name: Where Did Our Love Go
 rankings:
 - end_date: '1964-07-17'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
 ---
+
+Baby, baby
+Where did our love go?
+Oh, don't you leave me
+Don't you leave me no more
+I've got this burning, yearning yearning feeling inside me
+Oh, deep inside me
+And it hurts so bad
+
+You came into my life
+So tenderly
+With a burning love
+That stings like a bee
+And now that I've surrendered
+So helplessly
+You know I believe
+You want to leave me
+
+Oh, baby baby
+Where did our love go
+Oh, don't you leave me
+Oh, baby baby
+Where did our love go?
+Oh don't you leave me
+Don't you leave me no more
+
+You came into my life
+So tenderly
+With a burning love
+That stings like a bee
+And now that I've surrendered
+So helplessly
+You know I believe
+You want to leave me
+
+Baby, baby
+Where did our love go?
+Oh, baby baby
+Don't you leave me no more
+I've got this burning, burning yearning feeling inside me
+Deep inside me
+And it hurts so bad
+
+Baby, baby
+Where did our love go?
+Don't you leave me
+Don't you leave me no more
+And now that I've surrendered so helplessly
+You know, I believe you want to leave me
+
+Baby, baby
+Where did our love go?
+
+
 

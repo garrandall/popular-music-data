@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: close-enough-to-perfect-alabama
+lyrics_url: https://www.azlyrics.com/lyrics/alabama/closeenoughtoperfect.html
 name: Close Enough To Perfect
 rankings:
 - end_date: '1982-09-10'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
 ---
+
+Sometimes the morning coffee's way too strong.
+And Sometimes what she says she says all wrong.
+
+Right or Wrong, she's there beside me,
+Like only a friend would be!
+And that's close enough to perfect for me.
+
+Now, She's been known to wear her pants too tight.
+And drinkin' puts her out just like a light.
+Heaven knows she's not an angel,
+But she'd really like to be.
+And that's close enough to perfect for me.
+
+She kisses me each mornin'
+And smiles a sleepy smile!
+She don't have to say it.
+I can see it in her eyes!
+
+Don't you worry about my woman,
+And what you think she aught to be!
+She's close enough to perfect for me!
+
+Sometimes she gets down and starts to cry!
+But then again a lady has a right.
+
+She's everything I ever wanted!
+She's all I'll ever need!
+She's close enough to perfect for me!
+
+She kisses me each mornin',
+And smiles a sleepy smile!
+She don't have to say it.
+I can see it in her eyes!
+
+Don't you worry about my woman,
+And what you think she aught to be!
+She's close enough to perfect for me!
+
+Whooooa... She's close enough to perfect... for me!
+
+
 

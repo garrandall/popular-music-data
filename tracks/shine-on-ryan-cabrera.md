@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shine-on-ryan-cabrera
+lyrics_url: https://www.azlyrics.com/lyrics/ryancabrera/shineon.html
 name: Shine On
 rankings:
 - end_date: '2005-10-14'
@@ -27,4 +28,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
 ---
+
+I've given every moment I had
+Still I can never seem to keep up with you
+You're done with one mile, and on to another one thousand
+Still I could never seem to keep up with you
+
+I know you'll be better off without me when I'm gone
+You know you're beautiful
+You're beautiful
+
+
+Shine on
+You were made to shine on
+and you know I love you
+even if we can or can't be friends I'll be with you till the very end
+Shine on
+You were made to
+
+It's keeping me awake everynight
+But I can never seem to give up on you
+I send up a prayer and I'm on to another one thousand
+But I can never seem to give up on you
+
+I know you'll be better off without me when I'm gone
+You know you're beautiful
+You're beautiful
+
+
+Shine on
+You were made to shine on
+and you know I love you
+even if we can or can't be friends I'll be with you till the very end
+Shine on
+You were made to
+
+Nobody's wrong
+Nobody's right
+Keep moving on
+
+Shine on
+You were made to shine on
+
+
+Shine on
+You were made to shine on
+and you know I love you
+even if we can or can't be friends
+You're gonna be better than you've ever been so
+Shine on
+
+You're gonna be just fine
+You're gonna be alright love
+You're gonna be just fine
+You're gonna be alright love
+
+
 

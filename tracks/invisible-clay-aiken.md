@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invisible-clay-aiken
+lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/invisible.html
 name: Invisible
 rankings:
 - end_date: '2003-11-28'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
 ---
+
+Whatchaâ doinâ tonight
+I wish I could be a fly on your wall
+Are you really alone
+Who's stealin' your dreams
+Why can't I bring you into my life
+What would it take to make you see that I'm alive
+
+
+
+If I was invisible
+Then I could just watch you in your room
+If I was invincible
+I'd make you mine tonight
+If hearts were unbreakable
+Then I could just tell you where I stand
+I would be the smartest man
+If I was invisible
+(Wait..I already am)
+
+Saw your face in the crowd
+I call out your name
+You don't hear a sound
+I keep tracing your steps
+Each move that you make
+Wish I could read what goes through your mind
+Wish you could touch me with the colors of your life
+
+
+
+If I was invisible
+Then I could just watch you in your room
+If I was invincible
+I'd make you mine tonight
+If hearts were unbreakable
+Then I can just tell you where I stand
+I would be the smartest man
+If I was invisible
+(Wait..I already am)
+
+I reach out
+But you don't even see me
+Even when I scream out
+Baby, you don't hear me
+I am nothing without you
+Just a shadow passing through...
+
+
+
+If I was invisible...
+If I was invisible...
+If I was invisible...
+If I was invisible...
+If I was invisible...
+If I was invisible...
+
+
 

@@ -6,6 +6,7 @@ features:
 - Gente de Zona
 genres: []
 key: bailando-enrique-iglesias-descemer-bueno-gente-de-zona
+lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/bailando.html
 name: Bailando
 rankings:
 - end_date: '2014-05-23'
@@ -129,4 +130,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
 ---
+
+Yo te miro, se me corta la respiraciÃ³n
+Cuando tÃº me miras se me sube el corazÃ³n
+(Me palpita lento el corazÃ³n)
+Y en silencio tu mirada dice mil palabras
+La noche en la que te suplico que no salga el sol
+
+(Bailando, bailando, bailando, bailando)
+Tu cuerpo y el mÃ­o llenando el vacÃ­o
+Subiendo y bajando (subiendo y bajando)
+(Bailando, bailando, bailando, bailando)
+Ese fuego por dentro me va enloqueciendo
+Me va saturando
+
+Con tu fÃ­sica y tu quÃ­mica tambiÃ©n tu anatomÃ­a
+La cerveza y el tequila y tu boca con la mÃ­a
+Ya no puedo mÃ¡s (ya no puedo mÃ¡s) Ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+Con esta melodÃ­a, tu color, tu fantasÃ­a
+Con tu filosofÃ­a mi cabeza estÃ¡ vacÃ­a
+Y ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+Ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo
+Una noche loca (una noche loca)
+Ay besar tu boca (y besar tu boca)
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo una noche loca
+Con tremenda nota
+(Ooooh, ooooh, ooooh, ooooh)
+
+TÃº me miras y me llevas a otra dimensiÃ³n
+
+(Estoy en otra dimensiÃ³n)
+Tus latidos aceleran a mi corazÃ³n
+(Tus latidos aceleran a mi corazÃ³n)
+Que ironÃ­a del destino no poder tocarte
+Abrazarte y sentir la magia de tu olor
+
+(Bailando, bailando, bailando, bailando)
+TÃº cuerpo y el mÃ­o llenando el vacÃ­o
+Subiendo y bajando (subiendo y bajando)
+(Bailando, bailando, bailando, bailando)
+Ese fuego por dentro me va enloqueciendo
+Me va saturando
+
+Con tu fÃ­sica y tu quÃ­mica tambiÃ©n tu anatomÃ­a
+La cerveza y el tequila y tu boca con la mÃ­a
+Ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+Ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+Con esta melodÃ­a, tu color, tu fantasÃ­a
+Con tu filosofÃ­a mi cabeza estÃ¡ vacÃ­a
+Y ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+Ya no puedo mÃ¡s (ya no puedo mÃ¡s)
+
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo
+Una noche loca (una noche loca)
+Ay besar tu boca (y besar tu boca)
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo una noche loca
+Con tremenda nota
+
+(Ooooh, ooooh, ooooh, ooooh
+Ooooh, ooooh, ooooh, ooooh
+Ooooh bailando amor ooooh
+Bailando amor ooooh es que se me va el dolor
+Ooooh).
+
+
 

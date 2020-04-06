@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-night-to-remember-shalamar
+lyrics_url: https://www.azlyrics.com/lyrics/shalamar/anighttoremember.html
 name: A Night To Remember
 rankings:
 - end_date: '1982-04-16'
@@ -47,4 +48,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
 ---
+
+When you love someone it's natural, not demanding
+And that's one thing I'm proud to say I found in you
+I'm so glad we reached an understanding
+Now I know my heart is safe with you, hoo...
+So now my love to you, baby, I surrender
+
+Get ready tonight
+Gonna make this a night to remember
+Get ready (Oh, baby) tonight
+Gonna make this a night to remember
+
+Celebrations and my heart could stay united
+And there's nothing in this world to come between me and you
+We're together and it keeps me so excited
+To think of what the power of love can do, ooh...
+And I'm filled with a love that's, oh, so tender
+
+Get ready (Baby) tonight (Girl)
+I'm gonna make this a night to remember
+Get ready (Get ready) tonight
+I'm gonna make this a night to remember
+
+Make this a night to remember
+
+Get ready tonight
+Gonna make this a night to remember
+Get ready (Get ready) tonight
+Gonna make this a night to remember
+
+Get ready (Baby) tonight (Darlin')
+Gonna make this a night to remember
+Get ready (Darlin') tonight (Baby)
+Gonna make this a night to remember
+
+This night you won't forget
+Gonna make this a night to remember
+âCause your love I won't regret
+Gonna make this a night to remember
+
+Get ready (Baby) tonight (Darlin')
+Gonna make this a night to remember
+Get ready (It won't be like the past) tonight (I will make it last)
+Gonna make this a night to remember
+
+Tonight
+Make this a night to remember
+Tonight
+Make this a night to remember
+
+Let's make a toast to those who helped make this occasion
+They turn their back on love and that's what drove you straight to me
+Now to you I make a lasting dedication
+I'll show you all that love and life can be, hoo...
+And each day that I live I will deliver
+
+Get ready (This night you won't forget) tonight
+Gonna make this a night to remember
+Get ready (âCause your love I won't regret) tonight
+Gonna make this a night to remember
+
+Get ready (Baby) tonight (Darlin')
+Gonna make this a night to remember
+Get ready (It won't be like the past) tonight (I will make it last)
+Gonna make this a night to remember
+
+Get ready tonight
+
+
 

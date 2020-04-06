@@ -5,6 +5,7 @@ features:
 - John Ryan
 genres: []
 key: fireball-pitbull-john-ryan
+lyrics_url: https://www.azlyrics.com/lyrics/pitbull/fireball.html
 name: Fireball
 rankings:
 - end_date: '2014-08-29'
@@ -88,4 +89,122 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
 ---
+
+Mr. Worldwide to infinity
+You know the roof on fire
+We gon' boogie oogie oogie, jiggle, wiggle and dance
+Like the roof on fire
+We gon' drink drinks and take shots until we fall out
+Like the roof on fire
+Now baby get your booty naked, take off all your clothes
+And light the roof on fire
+Tell her, tell her baby baby baby baby baby baby baby baby baby
+I'm on fire
+I tell her baby baby baby baby baby baby baby baby baby
+I'm a fireball
+
+Fireball
+
+I saw, I came, I conquered
+Or should I say, I saw, I conquered, I came
+They say the chico on fire and he no liar
+While y'all slippin' he runnin' the game
+Now big bang boogie
+Get that kitty little noogie
+In a nice nice little shade
+I gave Suzie a little pat upon the booty
+And she turned around and said
+Walk this way
+
+
+I was born (305) in a flame (M.I.A.)
+Mama said that everyone would know my name
+I'm the best (that's right) you've ever had (that's right)
+If you think I'm burning out, I never am
+I'm on fire
+I'm on fire
+I'm on fire
+I'm on fire
+
+Fireball
+Fireball
+
+Sticks and stones may break my bones
+But I don't care what y'all say
+'Cause as the world turns, y'all boys gonna learn
+That this chico right here don't play
+That boy's from the bottom, bottom of the map
+M.I.A. U.S.A.
+I gave Suzie a little pat upon the booty
+And she turned around and said
+Walk this way
+
+
+I was born (305) in a flame (M.I.A.)
+Mama said that everyone would know my name
+I'm the best (that's right) you've ever had (that's right)
+If you think I'm burning out, I never am
+I'm on fire
+I'm on fire
+I'm on fire
+I'm on fire
+
+Fireball
+
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+We're taking it
+We're taking it
+We're taking it down
+
+Now we're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+We're bringing it
+We're bringing it
+We're bringing it back
+
+Fireball
+Fireball
+
+Tell her baby baby baby baby
+I'm on fire
+I tell her baby baby baby
+I'm a fireball
+
+
 

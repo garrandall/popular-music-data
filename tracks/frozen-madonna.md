@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: frozen-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/frozen.html
 name: Frozen
 rankings:
 - end_date: '1998-03-27'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
 ---
+
+You only see what your eyes want to see
+How can life be what you want it to be
+You're frozen
+When your heart's not open
+
+You're so consumed with how much you get
+You waste your time with hate and regret
+You're broken
+When your heart's not open
+
+Mmmmmm, if I could melt your heart
+Mmmmmm, we'd never be apart
+Mmmmmm, give yourself to me
+Mmmmmm, you hold the key
+
+Now there's no point in placing the blame
+And you should know I suffer the same
+If I lose you
+My heart will be broken
+
+Love is a bird, she needs to fly
+Let all the hurt inside of you die
+You're frozen
+When your heart's not open
+
+Mmmmmm, if I could melt your heart
+Mmmmmm, we'd never be apart
+Mmmmmm, give yourself to me
+Mmmmmm, you hold the key
+
+You only see what your eyes want to see
+How can life be what you want it to be
+You're frozen
+When your heart's not open
+
+Mmmmmm, if I could melt your heart
+Mmmmmm, we'd never be apart
+Mmmmmm, give yourself to me
+Mmmmmm, you hold the key
+
+If I could melt your heart
+Mmmmmm, we'd never be apart
+Mmmmmm, give yourself to me
+Mmmmmm, you hold the key
+
+If I could melt your heart
+
+
 

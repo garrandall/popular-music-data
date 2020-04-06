@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-for-a-stranger-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/lookingforastranger.html
 name: Looking For A Stranger
 rankings:
 - end_date: '1983-04-29'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+I've had it with the same old routine
+I've had it with the same old faces, places, every night in my life
+I started feeling washed up, washed out, hung up, wrung out, left to dry
+Every night
+But
+
+I know, yeah I know you're out there, somewhere
+Oh I, I can almost hear you callin'
+I'm looking for a stranger in the night
+I need a little danger in my life, tonight
+
+I'm tired of the same old "Hello baby, how you're doin', call me often
+Where have you been all my life", every night
+But I know that someday, somewhere, I'll turn around and you'll be there
+Ooh in my life, every night
+And
+
+I know, yeah I know you're out there, somewhere
+Oh I, I can almost hear you callin'
+I'm looking for a stranger in the night
+I need a little danger in my life, tonight
+
+And
+I know, yeah I know you're out there, somewhere
+Oh I, I can almost hear you callin'
+I'm looking for a stranger in the night
+I need a little danger in my life, tonight
+I'm looking for a stranger in the night
+I need a little danger in my life, tonight
+
+
 

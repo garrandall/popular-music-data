@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: price-of-love-bad-english
+lyrics_url: https://www.azlyrics.com/lyrics/badenglish/priceoflove.html
 name: Price Of Love
 rankings:
 - end_date: '1989-12-29'
@@ -83,4 +84,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
 ---
+
+Girl, sometimes it seems to me
+That I don't say the things I should, 
+To you, I act like I'm no good
+And You, wait for me patiently
+This house is not a home without you, 
+It takes two hearts to share
+
+Your eyes will always see through me, 
+And bring me to my knees
+And I will always turn to you, 
+You're everything I need
+
+And through the good and bad times, 
+You have always been there
+We hold each other close, 
+You tell me it's alright
+The nights we fight about it, 
+Never dream of givin' up
+That's the price of love
+
+Love, sometimes it makes us cry
+Forgive me when I get it wrong, 
+Sometimes it's hard to be that strong
+And oh, I would do anything
+For you I'd turn the stars around, 
+I'd find a way somehow
+
+This time, you see I built a bridge to you again
+Love shines, we'll sweep away the past
+We're more than lovers, more than friends
+
+And thru the good and bad times, 
+You have always been there
+We hold each other tight, 
+You tell me it's alright
+The nights we fight about it, 
+Never think of givin' up
+That's the price of love
+
+Your eyes will always see through me, 
+And bring me to my knees
+And I will always turn to you, 
+You're everything I need
+
+And through the good and bad times, 
+You have always been there
+We hold each other close, 
+You tell me it's alright
+And sometimes I can't give enough, 
+That's the price of love
+
+That's the price of love, that's the price of love
+That's the price of love...
+
+
 

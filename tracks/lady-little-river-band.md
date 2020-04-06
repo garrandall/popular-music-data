@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/lady.html
 name: Lady
 rankings:
 - end_date: '1979-01-12'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+
+Look around you, look up here
+Take time to make time, make time to be there
+Look around, be a part
+Feel for the winter, but don't have a cold heart
+
+And I love you best
+You're not like the rest
+You're there when I need you
+You're there when I need
+I'm gonna need you
+
+A long time ago I had a lady to love
+She made me think of things I never thought of
+Now she's gone and I'm on my own
+A love song has come into my mind
+A love song, it was there all the time
+
+So, lady, let me take a look at you now
+You're there on the dance floor making me want you somehow
+Oh, lady, I think it's only fair I should say to you
+Don't be thinking that I don't want you, 'cause maybe I do
+
+Look around, come to me
+I have no answers, but know where I wanna be
+I look around, play a part
+I was born in the winter and cooled by a warm heart
+
+And I love you best
+You're not like the rest
+You're there when I need you
+You're there when I need
+I'm gonna need you
+
+So, lady, let me take a look at you now
+You're there on the dance floor making me want you somehow
+Oh, lady, I think it's only fair I should say to you
+Don't be thinking that I don't want you, 'cause maybe I do
+Don't be thinking that I don't want you, lady, I do
+
+
 

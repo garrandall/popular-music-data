@@ -5,6 +5,7 @@ features:
 - Nicki Minaj
 genres: []
 key: my-chick-bad-ludacris-nicki-minaj
+lyrics_url: https://www.azlyrics.com/lyrics/ludacris/mychickbad.html
 name: My Chick Bad
 rankings:
 - end_date: '2010-03-19'
@@ -88,4 +89,128 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
 ---
+
+My chick bad
+My chick hood
+My chick do stuff that ya chick wish she could
+My chick bad
+My chick hood
+My chick do stuff that ya chick wish she could
+
+My chick bad, badder than yours
+My my chick bad, badder than yours
+My my my chick bad, badder than yours
+
+
+I'm saying my chick bad
+My chick hood
+My chick do stuff that your chick wish she could
+My chick bad, badder than yours
+My chick do stuff that I can't even put in words
+
+Her swagger don't stop
+Her body won't quit
+So fool pipe down you ain't talking bout shit
+
+My chick bad, tell me if you seen her
+She always bring the racket like Venus and Serena
+
+All white top, all white belt
+And all white jeans, body looking like milk
+No time for games, she's full-grown
+My chick bad, tell your chick to go home
+
+My chick bad
+My chick hood
+My chick do stuff that ya chick wish she could
+My chick bad
+My chick hood
+My chick do stuff that ya chick wish she could
+
+My chick bad, badder than yours
+My my chick bad, badder than yours
+My my my chick bad, badder than yours
+
+
+Now your girl might be sick but my girl sicker
+She rides that dick and she handles her liquor
+I knock a bitch out and fight
+Coming out swinging like Tiger Woods' wife
+
+Yeah she could get a little hasty
+Chicks better cover up their chests like pasties
+Couple girlfriends and they all a little crazy
+Coming down the street like a parade Macy's
+
+I fill her up balloons
+Test her and guns get drawn like cartoons
+Doh, but I ain't talking bout homer
+Chick so bad the whole crew wanna bone her
+
+My chick bad
+My chick hood
+My chick do stuff that ya chick wish she could
+My chick bad
+And I love her
+My chick hood
+My chick do stuff that ya chick wish she could
+
+My chick bad, badder than yours
+My my chick bad, badder than yours
+My my my chick bad, badder than yours
+Let's go
+
+
+Yo, now all these bitches wanna try and be my bestie
+But I take a left and leave them hanging like a testi
+Trash talk to em then I put em in a hefty
+Running down the court I'm dunking on em Lisa Leslie
+
+It's going down, basement
+Friday the 13th guess who's playing Jason
+Tuck yourself in you better hold on to your teddy
+It's nightmare on Elm Street and guess who's playing Freddy
+
+(My chick bad)
+
+Chef cooking for me, they say my shoe game crazy
+The Mental Asylum looking for me
+You a rookie to me
+I'm in that wam bam purple Lam'
+Damn bitch you been a fan
+
+My chick bad
+ don't get scared now
+My chick hood
+My chick do stuff that ya chick wish she could
+ Disturbing the peace
+My chick bad
+ what
+My chick hood
+ what
+My chick do stuff that ya chick wish she could
+
+ let's go
+
+My chick bad, badder than yours
+My my chick bad, badder than yours
+My my my chick bad, badder than yours
+Luda
+
+And when we all alone
+I might just tip her
+She slides down the pole
+Like a certified stripper
+
+And when we all alone
+I might just tip her
+She slides down the pole
+Like a certified stripper
+
+And when we all alone
+I might just tip her
+She slides down the pole
+Like a certified stripper
+
+
 

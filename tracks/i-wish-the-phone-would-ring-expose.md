@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-the-phone-would-ring-expose
+lyrics_url: https://www.azlyrics.com/lyrics/expose/iwishthephonewouldring.html
 name: I Wish The Phone Would Ring
 rankings:
 - end_date: '1992-11-06'
@@ -67,4 +68,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
 ---
+
+I hear you're taking the town again
+Havin' a good time
+With all your good-time friends
+I don't think that you think of me
+You're on your own now
+And I'm alone and free
+
+I know that I should get on with my life
+But a life lived without you
+Could never be right
+
+As long as the stars shine down
+From the heavens
+Long as the rivers run
+To the sea
+I'll never get over you
+Getting over me
+
+I try to smile so the hurt won't show
+Tell everybody
+That I was glad to see you go
+But the tears just won't go away
+(Won't go away..)
+Loneliness found me
+Looks like it's here to stay
+
+I know that I oughta find someone new
+But all I find is myself
+Always thinkin' of you
+
+As long as the stars shine down
+From the heavens
+Long as the rivers run
+To the sea
+I'll never get over you
+Getting over me
+
+Oh!
+No matter what I do
+Each night's a lifetime to live through
+I can't go on like this
+(I need your touch)
+You're the only one I'll ever love)
+Oh, oh... ah...
+
+Ooh...
+Ooh...
+Ooh...
+
+And as
+Long as the stars shine down
+From the heavens
+Long as the rivers run
+To the sea
+I'll never get over you
+Getting over me
+
+I'll never get over you
+Getting over
+Never get over you...
+Getting over
+I'll never get over you
+Getting over me
+
+
 

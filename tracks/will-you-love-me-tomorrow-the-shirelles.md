@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: will-you-love-me-tomorrow-the-shirelles
+lyrics_url: https://www.azlyrics.com/lyrics/gleecast/willyoulovemetomorrowheadoverfeet.html
 name: Will You Love Me Tomorrow
 rankings:
 - end_date: '1960-11-27'
@@ -83,4 +84,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
+
+Tonight you're mine completely
+You give your love so sweetly
+Tonight the light of love is in your eyes
+
+
+But will you love me tomorrow
+
+Hey yeah
+
+Oh oh
+
+I had no choice but to hear you
+You stated your case time and again
+I thought about it, yeah
+
+
+You treat me like I'm a princess (You're a princess)
+I'm not used to liking that
+
+
+You ask how my day was (Oh)
+You've already won me over in spite of me
+And don't be alarmed if I fall head over feet
+And don't be surprised if I love you for all that you are (Yeah)
+Will you still love me tomorrow
+
+Yeah
+
+
+( unspoken) (Oh)
+When the night (When then night) meets the (Meets the morning)
+Morning
+
+
+Sun
+
+You've already won me over
+
+
+In spite of me
+And don't be alarmed if I fall head over feet
+Don't be surprised if I love you
+
+
+For all that you are (All that you are)
+
+
+Will you still love me (tomorrow)
+
+You've already won me over
+
+
+Will you still love me tomorrow
+Yeah
+Will you still love me tomorrow
+Yeah, yeah
+
+
 

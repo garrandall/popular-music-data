@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: starbright-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/starbright.html
 name: Starbright
 rankings:
 - end_date: '1960-03-06'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+
+Starbright, I have made a wish upon you.
+Now my heart is counting on you.
+Wont you grant my wish tonight.
+
+Starbright, wont you glow with all your splendor.
+Wont you make her heart surrender.
+Wont you make her mine tonight.
+
+Help me. Help me make her heart discover
+Just how much I really love her.
+Help me make her mine tonight.
+
+Oh, oh, oh, oh starbright. since you know how much I need her.
+Can't you spare some light to lead her to my empty arms tonight.
+
+Oh, oh, oh, oh starbright. since you know how much I need her.
+Can't you spare some light to lead her to my empty arms tonight.
+
+Oh starbright.
+
+
 

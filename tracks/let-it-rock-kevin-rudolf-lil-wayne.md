@@ -5,6 +5,7 @@ features:
 - Lil Wayne
 genres: []
 key: let-it-rock-kevin-rudolf-lil-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/kevinrudolf/letitrock.html
 name: Let It Rock
 rankings:
 - end_date: '2008-09-19'
@@ -148,4 +149,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
 ---
+
+I see your dirty face
+Hide behind your collar
+What is done in vain
+Truth is hard to swallow
+
+So you pray to God
+To justify the way
+You live a lie, live a lie, live a lie
+
+And you take your time
+And you do your crime
+Well, you made your bet
+I made mine
+
+Because when I arrive
+I, I'll bring the fire
+Make you come alive
+I can take you higher
+What this is, forgot?
+I must now remind you
+Let it rock, let it rock, let it rock
+
+
+Now the son's disgraced
+He, who knew his father
+When he cursed his name
+Turned, and chased the dollar
+But it broke his heart
+So he stuck his middle finger
+To the world, to the world, to the world
+
+And you take your time
+And you stand in line
+Well you'll get what's yours
+I got mine
+
+Because when I arrive
+I, I'll bring the fire
+Make you come alive
+I can take you higher
+What this is, forgot?
+I must now remind you
+Let it rock, let it rock, let it rock
+
+
+Yeah!
+Wayne's World
+Planet Rock
+Panties drop
+And the tops
+And she gonna rock 'til the camera stop
+And I sing about angels like Angela (rock)
+And Pamela (rock)
+And Samantha (rock)
+And Amanda (rock)
+And Tamara (rock)
+MÃ©nage Ã  moi
+I'm in here like, "Bitch, what's up?"
+Mechanic, me, I can fix you up
+I can dick you up
+I can dick you down
+Shorty we can go wherever just pick a town
+And the jewelry is louder than an engine sound
+Big-ass rocks like on the ground
+Dirty like socks that's on the ground
+Weezy
+
+Because when I arrive
+I, I'll bring the fire
+Make you come alive
+I can take you higher
+What this is, forgot?
+I must now remind you
+Let it rock, let it rock, let it rock
+
+Because when I arrive
+I, I'll bring the fire
+Make you come alive
+I can take you higher
+What this is, forgot?
+I must now remind you
+Let it rock, let it rock, let it rock
+
+Just let it rock, let it rock, let it rock, let it rock
+
+
+I'm back like I forgot something
+I'm something
+Ruling rock rubbin' rap runnin'
+Miles like I'm trying to get a flat stomach
+Like Wayne the personal trainer
+My aim is perfect I'll bang ya
+Period, like the reminder
+
+
+I wish I could be
+As cruel as you
+And I wish I could say
+The things you do
+
+But I can't and I won't live a lie
+No, not this time
+
+
 

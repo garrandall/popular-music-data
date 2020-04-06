@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oye-mi-canto--hear-my-voice--gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/oyemicantohearmyvoiceenglish.html
 name: Oye Mi Canto (Hear My Voice)
 rankings:
 - end_date: '1990-04-13'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
 ---
+
+Take me... only for what I am
+You've got a right to speak your mind
+You've gotta take a stand
+
+No one... has the right to say
+This is right or that is wrong
+It isn't just one way
+
+Find common ground
+Go in between
+Things aren't always what they seem
+
+Someday it'll be alright
+Changes happen overnight
+
+People, let's give each other room
+If we're gonna work it out
+We better make it soon
+
+Love is... love is such a common word
+When it's pride we mistake for love
+Isn't that absurd
+
+Why always take
+The upper hand
+It's better to understand
+
+Someday it'll be alright
+Changes happen overnight
+
+I believe in love but with no conditions
+Oye mi canto
+And giving in sometimes
+Doesn't make it submission
+Oye mi canto
+Hate is so common It's almost tradition
+Oye mi canto
+Come on let's leave it behind
+And make that transition
+
+
 

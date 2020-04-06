@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sex-me--parts-i---ii--r--kelly
+lyrics_url: https://www.azlyrics.com/lyrics/tyrese/signsoflovemakinpartii.html
 name: Sex Me (Parts I & II)
 rankings:
 - end_date: '1993-11-05'
@@ -83,4 +84,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
 ---
+
+
+Pimpin, it aint easy for me
+Especially the way these chicks be checking for me
+It's like all the time
+And it's like everywhere 
+And it's like into the club honey's stop and stare
+Wait a minute..
+
+It's not my ego ya'll that's just the way it is
+Showbiz like no biz
+I love girls throughout my whole career
+From suburb chicks to the cuties on the bus stop
+Church girls all the way up to the movie stars
+I'm not trippin when it come down to the woman
+Ryse is down with all signs, oh let me tell ya'll something
+
+
+These are the zodiac signs that I wanna make love too
+The zodiac signs that I wanna get next too
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+These are the zodiac signs that I wanna take shopping
+The zodiac signs that I wanna take club-hoppin
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+
+
+Now, let's get a hotel room...And have an after party
+The show is over now it's time to freak somebody
+So throw your hands up and represent your sign
+Fella's I don't know about you but Im about to make one of these hunnies mine
+
+
+Ladies let me tell you all about the Capricorn
+See when it comes to sex it's guaranteed some babies will be born
+See I've got three of um from listening to the 12-play
+Aquarius I tell you they can go from night till day
+
+Kells I ain't trippin 
+Ryse loves um all kinds, yeah
+They all mine
+All dimes
+All fine, yeah...
+
+
+These are the zodiac signs that I wanna make love too
+The zodiac signs that I wanna get next too
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+These are the zodiac signs that I wanna take shopping
+The zodiac signs that I wanna take club-hoppin
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+
+(Pisces, Aries, Taurus, Gemini) I see you in the club with your hands held real high
+(Cancer, Leo, Virgo, Libra) The way you treat your boy I'd do anything for ya
+(Sagittarius, Scorpio, Capricorn, Aquarius) See I ain't gonna front it is all of ya'll I really love...
+
+I love you, wooo I love you, wooo, I love you, wooo, I love you.....
+
+
+These are the zodiac signs that I wanna make love too
+The zodiac signs that I wanna get next too
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+These are the zodiac signs that I wanna take shopping
+The zodiac signs that I wanna take club-hoppin
+See I ain't trippin when it comes down to these girls
+We are the world, we are the world
+
+
+And this is the remix
+Turn it up in your jeep
+Play it when you go to sleep
+On your answerin service
+On a late night creep
+
+
 

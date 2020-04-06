@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-your-love-the-yardbirds
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/foryourlove.html
 name: For Your Love
 rankings:
 - end_date: '1965-05-21'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+
+For your love.
+For your love.
+For your love.
+I'd give you everything and more, and that's for sure.
+For your love.
+I'd bring you diamond rings and things right to your door.
+For your love.
+
+To thrill you with delight,
+I'll give you diamonds bright.
+There'll be things that will excite,
+To make you dream of me at night.
+
+For your love.
+For your love.
+For your love.
+
+For your love, for your love,
+I would give the stars above.
+For your love, for your love,
+I would give you all I could.
+
+For your love.
+For your love.
+For your love.
+I'd give the moon if it were mine to give.
+For your love.
+I'd give the stars and the sun 'fore I live.
+For your love.
+
+To thrill you with delight,
+I'll give you diamonds bright.
+There'll be things that will excite,
+To make you dream of me at night.
+
+For your love.
+For your love.
+For your love.
+For your love.
+
+
 

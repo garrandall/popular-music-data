@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump--for-my-love--the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/jumpformylove.html
 name: Jump (for My Love)
 rankings:
 - end_date: '1984-05-04'
@@ -103,4 +104,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
 ---
+
+Your eyes tell me how you love me
+Can feel it in your heart beat
+I know you like what you see
+Hold me, I'll give that you need
+Wrap your love around me
+You're so excited, I can feel you
+Getting hotter, oh baby
+I'll take you down, I'll take you down
+Where no one's ever gone before
+And if you want more, if you want more
+More, more, more
+
+Jump for my love
+Jump in and feel my touch
+Jump you want to taste my kisses
+In the night then
+
+Jump, jump for my love
+Jump, I know my heart can make you happy
+Jump in, you know these arms
+Can feel you up
+Jump, you want to taste my kisses
+In the night then
+Jump, jump for my love
+
+You told me, I'm the only woman for you
+Nobody does you like I do
+Then make a move before you try and
+Go much farther, oh baby
+You're the one, you, you are the one
+And heaven waits here at my door
+And if you want more,
+If you want more, more, more then
+When you are next to me, oh I come alive
+
+Your love burns inside
+Feels so right
+Come to me if you want me tonight jump
+Jump if you want to taste my kisses
+In the night then
+Jump, jump, jump
+Jump, you know my heart can
+Make you happy
+Jump, you know these arms can feel you up
+Jump in, you want to taste my kisses
+In the night then
+Jump, jump for my love
+
+
 

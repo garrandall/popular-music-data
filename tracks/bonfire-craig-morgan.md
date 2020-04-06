@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bonfire-craig-morgan
+lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/bonfire.html
 name: Bonfire
 rankings:
 - end_date: '2009-10-16'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
 ---
+
+You can see it from the river
+To the top of white pine ridge
+Burning like a summer sun
+A bunch of rednecks getting half lit
+There's mud-covered trucks and suvs
+Cranking out hank and ac/dc
+
+
+At the bonfire, out in the sticks
+Country backwoods, homegrown hicks
+Bonfire, dance a little jig,
+Hold up your cup and take another swig
+Won't sleep til dawn, party right down to the wire
+At the bonfire
+
+Everybody sees the headlights
+When old Sheriff John pulled up
+We all got a little nervous
+It's too late to hide our cups
+He pops a top and hollers real loud
+Dont worry yall i came to hang out
+
+
+
+You dont have to be from around here
+To know right where to go
+All you gotta do is load up 
+And head towards glow
+
+
+
+At the bonfire
+Were all hanging at the bonfire
+
+
 

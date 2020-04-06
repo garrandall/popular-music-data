@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-together-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/cometogether.html
 name: Come Together
 rankings:
 - end_date: '1978-08-11'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
 ---
+
+Here come old flat top
+He come groovin' up slowly
+He got joo joo eyeball
+He one holy roller
+He got hair down to his knee
+Got to be a joker he just do what he please
+
+He wear no shoeshine
+He got toe jam football
+He got monkey finger
+He shoot Coca Cola
+He say I know you, you know me
+One thing I can tell you is you got to be free
+
+Come together
+Right now
+Over me
+
+He bag production
+He got walrus gumboot
+He got Ono sideboard
+He one spinal cracker
+He got feet down below his knee
+Hold you in his armchair you can feel his disease
+
+Come together
+Right now
+Over me
+
+He roller coaster
+He got early warning
+He got muddy water
+He one mojo filter
+He say one and one and one is three
+Got to be good lookin' 'cause he's so hard to see
+
+Come together
+Right now
+Over me
+
+Come Together
+Come Together
+Come Together
+Come Together
+Come Together
+
+
 

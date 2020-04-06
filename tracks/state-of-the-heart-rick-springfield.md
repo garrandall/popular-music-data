@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: state-of-the-heart-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/stateoftheheart.html
 name: State Of the Heart
 rankings:
 - end_date: '1985-06-14'
@@ -67,4 +68,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
 ---
+
+It's just the state of the heart
+I'm waiting here for you
+In the state I'm in
+
+I know your name, I told you mine
+We've stopped and passed the time of day
+You work in town, I work at night
+That gives us six until seven to work this out
+
+If I seem a little strange
+It's just the state of the heart
+I'm waiting here for you
+In the state I'm in
+
+You are the moon, I am the sea
+You pull me in and gaze on down at me
+I was alone, I thought I was immune
+It's good to know
+The door can still be open wide
+
+If I seem a little strange
+It's just the state of the heart
+I'm waiting here for you
+In the state I'm in
+
+It's just the state of the heart
+I wait in the dark
+In the state I'm in
+
+We get closer and closer
+To falling out or falling in
+I go over and over
+But I can't change the state
+This heart is in
+
+If I seem a little strange
+It's just the state of the heart
+I'm waiting here for you
+In the state I'm in
+It's just the state of the heart
+You know I wait in the dark
+In the state I'm in
+
+It's the state of the heart
+The state of the heart
+The state of the heart
+The state of the heart
+
+
 

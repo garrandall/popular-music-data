@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-met-you-baby-freddy-fender
+lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/sinceimetyoubaby.html
 name: Since I Met You Baby
 rankings:
 - end_date: '1975-10-24'
@@ -39,4 +40,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
 ---
+
+Since I met you baby, my whole life has changed
+Since I met you baby, my whole life has changed
+And everybody tells me that I am not the same
+
+I don't need nobody to tell my troubles to
+I don't need nobody to tell my troubles to
+'Cause since I met you baby, all I need is you
+
+Since I met you baby, I'm a happy man
+Since I met you baby, I'm a happy man
+I'm gonna try to please you in every way I can
+
+
 

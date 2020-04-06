@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-divide-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/newdivide.html
 name: New Divide
 rankings:
 - end_date: '2009-06-12'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
 ---
+
+I remembered black skies
+The lightning all around me
+I remembered each flash
+As time began to blur
+Like a startling sign
+That fate had finally found me
+And your voice was all I heard
+That I get what I deserve
+
+So give me reason
+To prove me wrong
+To wash this memory clean
+Let the floods cross
+The distance in your eyes
+Give me reason
+To fill this hole
+Connect this space between
+Let it be enough to reach the truth that lies
+Across this new divide
+
+There was nothing in sight
+But memories left abandoned
+There was nowhere to hide
+The ashes fell like snow
+And the ground caved in
+Between where we were standing
+And your voice was all I heard
+That I get what I deserve
+
+So give me reason
+To prove me wrong
+To wash this memory clean
+Let the floods cross
+The distance in your eyes
+Across this new divide
+
+In every loss in every lie
+In every truth that you'd deny
+And each regret and each goodbye
+Was a mistake too great to hide
+And your voice was all I heard
+That I get what I deserve
+
+So give me reason
+To prove me wrong
+To wash this memory clean
+Let the floods cross
+The distance in your eyes
+Give me reason
+To fill this hole
+Connect this space between
+Let it be enough to reach the truth that lies
+Across this new divide
+Across this new divide
+Across this new divide
+
+
 

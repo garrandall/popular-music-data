@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: big-fun-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/bigfun.html
 name: Big Fun
 rankings:
 - end_date: '1982-09-03'
@@ -52,4 +53,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+
+Have some fun, have some fun
+Have some fun, have some fun
+
+Burn it up
+Let's burn up the night, baby, let's do it together, yeah
+Let's burn up the night, let's have big fun, burn it up
+
+The world is out, it's all over town
+Your work is done, time for some fun
+Let's get it on, the feeling is right
+Come on, baby, let's do it tonight, I say
+
+Have some fun, have some fun
+Have some fun, have some fun
+Have some fun, have some fun
+Have some fun, have some fun
+
+Let's have some fun, baby
+Let's have big fun tonight
+Big fun tonight, let's have big fun
+
+Let's burn up the night, baby, let's do it together
+We're gonna, we're gonna do it together
+Let's burn up the night, let's have big fun
+Big fun, burn it up, burn it up
+??
+
+Burn it up
+Let's burn up the night, baby, let's do it together
+We can do it together, yeah
+Let's burn up the night, let's have big fun
+Big fun, burn it up, burn it up
+
+Burn it up, let's burn it up, fun
+Burn up the night, big fun
+Burn it up, let's burn it up, fun
+Burn up the night, big fun
+
+Have some fun, have some fun
+Have some fun, have some fun
+Have some fun, have some fun
+Have some fun, have some fun
+
+Let's burn up the night, baby, let's do it together
+We're gonna do it together
+Let's burn up the night, let's have big fun
+Big fun, burn it up, burn it up
+
+Let's burn up the night, baby, let's do it together
+We're gonna, we're gonna do it together
+Let's burn up the night, let's have big fun
+Big fun, burn it up, burn it up
+
+Let's burn up the night, baby, let's do it together
+And we can do it together, baby
+Let's burn up the night, let's have big fun, big fun
+Burn it up, burn it up
+
+Let's burn up the night, baby, let's do it together
+Let's burn up the night, let's have big fun
+
+
 

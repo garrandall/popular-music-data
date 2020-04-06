@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-you-daughtry
+lyrics_url: https://www.azlyrics.com/lyrics/daughtry/overyou.html
 name: Over You
 rankings:
 - end_date: '2007-08-31'
@@ -107,4 +108,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
 ---
+
+Now that it's all said and done,
+I can't believe you were the one
+To build me up and tear me down,
+Like an old abandoned house.
+What you said when you left
+Just left me cold and out of breath.
+I fell too far, was in way too deep.
+Guess I let you get the best of me.
+
+Well, I never saw it coming.
+I should've started running
+A long, long time ago.
+And I never thought I'd doubt you,
+I'm better off without you
+More than you, more than you know.
+I'm slowly getting closure.
+I guess it's really over.
+I'm finally getting better.
+And now I'm picking up the pieces.
+I'm spending all of these years
+Putting my heart back together.
+'Cause the day I thought I'd never get through,
+I got over you.
+
+You took a hammer to these walls,
+Dragged the memories down the hall,
+Packed your bags and walked away.
+There was nothing I could say.
+And when you slammed the front door shut,
+A lot of others opened up,
+So did my eyes so I could see
+That you never were the best for me.
+
+Well, I never saw it coming.
+I should've started running
+A long, long time ago.
+And I never thought I'd doubt you,
+I'm better off without you
+More than you, more than you know.
+I'm slowly getting closure.
+I guess it's really over.
+I'm finally getting better.
+And now I'm picking up the pieces.
+I'm spending all of these years
+Putting my heart back together.
+'Cause the day I thought I'd never get through,
+I got over you.
+
+Well, I never saw it coming.
+I should've started running
+A long, long time ago.
+And I never thought I'd doubt you,
+I'm better off without you
+More than you, more than you know.
+
+Well, I never saw it coming.
+I should've started running
+A long, long time ago.
+And I never thought I'd doubt you,
+I'm better off without you
+More than you, more than you know.
+I'm slowly getting closure.
+I guess it's really over.
+I'm finally getting better.
+And now I'm picking up the pieces.
+I'm spending all of these years
+Putting my heart back together.
+Well I'm putting my heart back together,
+'Cause I got over you.
+Well I got over you.
+I got over you.
+'Cause the day I thought I'd never get through,
+I got over you.
+
+
 

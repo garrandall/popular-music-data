@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-tambourine-man-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/mrtambourineman.html
 name: Mr Tambourine Man
 rankings:
 - end_date: '1965-05-21'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
 ---
+
+Hey Mister Tambourine Man, play a song for me
+I'm not sleepy and there ain't no place I'm goin' to
+Hey Mister Tambourine Man, play a song for me
+In the jingle jangle morning, I'll come followin' you
+
+Take me for a trip upon your magic swirlin' ship
+All my senses have been stripped
+And my hands can't feel to grip
+And my toes too numb to step
+Wait only for my boot heels to be wanderin'
+
+I'm ready to go anywhere I'm ready for to fade
+On to my own parade cast your dancin' spell my way
+I promise to go under it
+
+Hey Mister Tambourine Man, play a song for me
+I'm not sleepy and there ain't no place I'm goin' to
+Hey Mister Tambourine Man, play a song for me
+In the jingle jangle morning, I'll come followin' you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wildfire-michael-murphey
+lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/wildfire.html
 name: Wildfire
 rankings:
 - end_date: '1975-04-04'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
 ---
+
+She comes down from Yellow Mountain
+On the dark flat land she rides
+On a pony she named Wildfire
+With a whirlwind by her side.
+
+On a cold Nebraska night.
+
+Oh, they say she died one winter
+When there came a killing frost
+And the pony she named Wildfire he busted down his stall
+And in a blizzard he was lost.
+
+She went callin' Wildfire, callin' Wildfirem callin' Wildfire.
+
+By the dark of the moon I planted
+But there came an early snow
+There's been a hoot owl howlin' by my window now
+For six nights in a row she's coming for me I know
+And on Wildfire we're both gonna go/
+
+We'll be riding Wildfire, riding Wildfire, riding Wildfire/
+
+On Wildfire we'll ride
+we're gonna leave sodbustin' behind
+Get these hard times right on out
+Of our minds riding Wildfire...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-that-fire-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/feelthatfire.html
 name: Feel That Fire
 rankings:
 - end_date: '2008-10-31'
@@ -91,4 +92,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
 ---
+
+She wants her nails painted black
+She wants the toy in the Cracker Jack
+She wants to ride the bull at the rodeo
+She wants to wear my shirt to bed
+She wants to make every stray a pet
+And drive around in my truck with no place to go
+
+But she needs to feel that fire
+The one that lets her know for sure
+She's everything I want and more
+Her real desire
+Is to know I'd walk alone out on the wire
+To make her feel that fire
+
+She wants a cabin in the woods
+She wants to stand where nobody's stood
+Someday she wants a couple kids of her own
+She wants to make love on a train
+Some days she only wants a break
+Hey she wants what she wants but man I know, I know, I know
+
+She needs to feel that fire
+The one that lets her know for sure
+She's everything I want and more
+Her real desire
+Is to know I'd walk alone out on the wire
+To make her feel that fire, yeah, feel that fire
+
+So as long as there's a breath to take
+A smile to share a prayer to pray
+A chance to hold her hand and fan the flame
+
+She's gonna feel that fire
+The one that lets her know for sure
+She's everything I want and more
+Her real desire
+Is to know I'd walk alone out on the wire
+Yeah to make her feel that fire, oh, oh, oh
+Feel that fire
+
+She wants her nails painted black
+She wants the toy in the Cracker Jack
+She wants to ride the bull at the rodeo
+
+
 

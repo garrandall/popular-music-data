@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-crash-eddie-money
+lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/thebigcrash.html
 name: Big Crash
 rankings:
 - end_date: '1983-11-25'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
+
+Well she's always been a good good girl
+But she's always lived in her own world
+Stealing makeup from her mommy's purse
+And her mother said it only got worse
+
+Well she ran with kids much older
+She did all the things they told her to do
+Doin' crazy things because they were in
+
+Now shes heading for the big crash
+She's running with the white trash
+The girl is moving too fast
+She's heading for the big crash
+The big crash, the big crash
+
+Well I wish she'd listen to me
+And I'd tell her 'bout the things that she doesn't see
+Tell her now before it gets too late
+That she's heading for the big crash
+
+Now shes heading for the big crash
+She's running with the white trash
+The girl is moving too fast
+She's heading for the big crash
+The big crash, the big crash
+
+She thinks that she's all grown up now
+She thinks that she's cool enough now
+When will she realize that they're cutting her down to size
+The big crash
+The girls moving too fast-heading for the big crash
+Goin' places where she shouldn't have been
+Doin' crazy things because they were in
+
+Now shes heading for the big crash
+She's running with the white trash
+The girl is moving too fast
+She's heading for the big crash
+The big crash, the big crash
+
+
 

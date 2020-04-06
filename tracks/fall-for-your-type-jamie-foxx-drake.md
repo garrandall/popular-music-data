@@ -5,6 +5,7 @@ features:
 - Drake
 genres: []
 key: fall-for-your-type-jamie-foxx-drake
+lyrics_url: https://www.azlyrics.com/lyrics/dondria/fallforyourtype.html
 name: Fall For Your Type
 rankings:
 - end_date: '2010-12-31'
@@ -80,4 +81,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
 ---
+
+
+Can I, Can I 
+Save you from you. 
+Cause you know there's something missing 
+And that champagne you've been sipping 
+Not supposed to make you different all the time 
+Starting to feel, like the wrong thing to do girl 
+Cause with all the recognition 
+It gets hard for you to listen 
+To the things that Imma say to make you mine 
+
+Like live girl, have some fun girl 
+We'll be fine 
+Tryin to convince myself I've found one 
+Making the mistake I never learn from. 
+
+ 
+I swear I always
+Fall for your type (yeah) 
+For your type 
+Tell me why I always
+Fall for your type 
+For your type 
+(I just can't explain this sh-t at all) 
+Fall For your type 
+(I just can't explain this sh-t at all) 
+Fall For your type 
+(I believe in people like you)
+
+
+I'm tryna to figure out why 
+I keep falling for men like you 
+You tell me all the things that the last one said 
+And you buy me all the same things too 
+Everytime I feel like 
+This is different 
+You turn around and prove me wrong 
+SMH once again 
+Ohh 
+I feel like I'm cursed 
+Will I ever get it right
+Is there someone out there for me 
+Who's willing to give all I need
+
+
+
+I don't know why I always fall for your type yeah 
+For your type 
+Tell me why I always fall for your type yeah 
+For your type
+
+
 

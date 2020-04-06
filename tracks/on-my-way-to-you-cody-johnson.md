@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-my-way-to-you-cody-johnson
+lyrics_url: https://www.azlyrics.com/lyrics/codyjohnson/onmywaytoyou.html
 name: On My Way To You
 rankings:
 - end_date: '2019-02-08'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
 ---
+
+All the boats I've missed
+All the hell I've caused
+All the lips I've kissed
+All the love I've lost
+I got kicked around
+I've been black and blue
+On my way to you
+
+All the stars I've seen
+All the songs I've sung
+All the beers I've drank
+All the damage done
+I was just passing time
+Kinda just passing thru
+On my way to you
+
+Every curve, every ditch
+Every turn, every bridge
+I left behind me up in smoke
+Every fork in the road
+It was all worth the while
+When I finally saw your smile
+Every highway, every heartbreak
+Every mountain, every mile
+
+I got the radio up
+Sun is going down
+I'll take a left at the bank
+And I'll head straight thru town
+So baby put on that dress
+A little sweet perfume
+Cause I'm on my way to you
+
+Every curve, every ditch
+Every turn, every bridge
+I left behind me up in smoke
+Every fork in the road
+It was all worth the while
+When I finally saw your smile
+Every highway, every heartbreak
+Every mountain, every mile
+
+
+All the boats I've missed
+All the hell I've caused
+All the lips I've kissed
+All the love I've lost
+I thank God for that
+I guess he always knew
+I was on my way to you...
+On my way to you...
+On my way to you...
+
+
 

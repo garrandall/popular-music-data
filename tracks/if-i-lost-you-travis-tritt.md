@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-lost-you-travis-tritt
+lyrics_url: https://www.azlyrics.com/lyrics/travistritt/ifilostyou.html
 name: If I Lost You
 rankings:
 - end_date: '1998-10-23'
@@ -51,4 +52,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-12-26'
 ---
+
+There's been times I've felt like half a man
+Life had me down on my knees
+Troubled times I don't understand
+Why they happen to me
+I have struggled through the dark ness
+And I have found the light of day
+
+But if I lost you
+There'd be no sun shine shinin through
+I don't know what in the world I would do
+If I lost you
+
+Like a ship with no harbor, 
+Like a bird with no wings, 
+Like a fish out of water, 
+A dreamer without a dream, 
+I have learned about losing 
+I could lose most n e thing,
+
+But if I lost you
+There'd be no sun shine shinin through
+I don't know what in the world I would do
+If I lost you
+
+
 

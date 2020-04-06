@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: makes-me-wonder-maroon-5
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/makesmewonder.html
 name: Makes Me Wonder
 rankings:
 - end_date: '2007-04-27'
@@ -111,4 +112,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
 ---
+
+I wake up with blood-shot eyes
+Struggled to memorize
+The way it felt between your thighs
+Pleasure that made you cry
+
+Feels so good to be bad
+Not worth the aftermath
+After that, after that
+Try to get you back
+
+I still don't have a reason
+And you don't have the time
+And it really makes me wonder
+If I ever gave a fuck about you
+
+Give me something to believe in
+'Cause I don't believe in you anymore, anymore
+I wonder if it even makes a difference to try
+Yeah
+So, this is goodbye
+
+God damn my spinning head
+Decisions that made my bed
+Now I must lay in it
+And deal with things I've left unsaid
+
+I want to dive into you
+Forget what you're going through
+I get behind, make your move
+Forget about the truth
+
+I still don't have a reason
+And you don't have the time
+And it really makes me wonder
+If I ever gave a fuck about you
+
+Give me something to believe in
+'Cause I don't believe in you anymore, anymore
+I wonder if it even makes a difference
+It even makes a difference to try
+
+And you told me how you're feeling
+But I don't believe it's true anymore, anymore
+I wonder if it even makes a difference to cry
+Oh no
+So, this is goodbye
+Ooh
+
+I've been here before
+One day I'll wake up
+And it won't hurt anymore
+You caught me in a lie
+I have no alibi
+The words you say don't have a meaning
+'Cause...
+
+I still don't have a reason
+And you don't have the time
+And it really makes me wonder
+If I ever gave a fuck about you and I
+And so, this is goodbye
+
+Give me something to believe in
+'Cause I don't believe in you anymore, anymore
+I wonder if it even makes a difference
+It even makes a difference to try
+Yeah
+
+And you told me how you're feeling
+But I don't believe it's true anymore, anymore
+I wonder if it even makes a difference to cry
+Oh no
+So, this is goodbye
+Oh no
+So, this is goodbye
+Oh no
+Yeah
+So, this is goodbye
+Oh no
+Yeah
+So, this is goodbye
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-girl-new-kids-on-the-block
+lyrics_url: https://www.azlyrics.com/lyrics/younggunz/fridaynight.html
 name: Please Don't Go Girl
 rankings:
 - end_date: '1988-07-01'
@@ -119,4 +120,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
+
+3,2,1 Go 
+
+Its a friday night and the bass was bumpin the honeyz was rockin the party was jumpin it wasnt
+long for everybody knew (just blaze) Whats on the b box (Youn Gunz) Travel wit the heat rock
+before I hit the club hit the weed spot it goes 1,2,3,and
+
+
+Its like king midas as I was told young C was on the block 13 years old I dont mean to brag I
+had the meanest bag the suppliers was my peeps I was bringin half took charge of the block a
+pean the ave still bringin cash on the scene at last still gloves and mask as i proceed mad
+mats, mad gats, mad hollow seed, Ya man actin crazy roll wit the kid, playa been hella pimpin
+you already know what it is, they dont gotta notice the whip, I don show them the wrist, they
+already know that chris and they know tha to stick to the script it don't last long hittem and
+i last long cant drive em south long send em in a cab home you takin mad long get cha bags gone
+I aint got a dime for you time for me pass on
+
+
+
+
+Back in effect vest, mach in the tech, show you how to clap wit perfect when they actin a mess
+we from north PHILLY free, peedie crack and the rest mac south side O and sparks back on the
+West we the leaders of the new school,heated cause my jewls cool get my jewls cool every
+weekend its a new crew bout to set the record staight soon as the record break ship t2 more to
+the store wath it levatate
+
+
+Yeah we never late early in the game we brought pain yup heavy spen up in every state yeah you
+bond to hate tiered of the boad and tape 7 60 bound to scape put em all around ya face time to
+cool walk in ya place get every dime you got up out of ya safe plus you gettin more surronded
+wit bait before the law come surroundin ya place my dogs get every pound of ya cake
+
+
+
+
+We the present and the futer you might as well get used to us we been around a minute givin em
+what they wanted the niggas they never fronted but still sick to they stomache once they hear
+about the gunnaz yeah they know they girl comin you try to tell her "Please baby dont wear
+that" but she's on her own think she aint tryna hear that you knowin whats gonna happen after
+the party C and Neef up in the sweat we fishin out the lobby back after back she trippin all
+off that army me , cuff my lib not even probably the gang hereso these chickens get bodied we
+show you how we switch up better than the party, did it in the party me slippin out hardly baby
+baretta tucked the addition we army hit them niggas up then we breeze off calmly bucky right
+behind me the ROC behind me Yup
+
+
+Chris and lil neefie
+
+
+
 

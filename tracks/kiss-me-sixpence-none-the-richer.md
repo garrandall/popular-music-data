@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-me-sixpence-none-the-richer
+lyrics_url: https://www.azlyrics.com/lyrics/sixpencenonethericher/movingon.html
 name: Kiss Me
 rankings:
 - end_date: '1998-12-04'
@@ -139,4 +140,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
 ---
+
+It has gotten to my head. Permeates the path I tread.
+But I tread, I'm moving on in a new and happy song.
+I can sing about the night, how my tunnel without light
+Led me to the other side where the sky is blue.
+
+It's all I can do to not let them ruin me.
+I will not let them ruin me.
+I will not let them ruin me again.
+
+There is fire inside the tree. Flames of knowing kissing me.
+I have waited long to see a sign from you.
+
+It's all I can do to not let them ruin me.
+I will not let them ruin me.
+I will not let them ruin me again.
+
+
 

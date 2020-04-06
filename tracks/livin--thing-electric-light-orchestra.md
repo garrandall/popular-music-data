@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: livin--thing-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/livinthing.html
 name: Livin' Thing
 rankings:
 - end_date: '1976-10-29'
@@ -79,4 +80,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+
+Sailin' away on the crest of a wave
+It's like magic
+Oh, rollin' and riding and slipping and sliding
+It's magic
+
+And you, and your sweet desire,
+You took me, ooh, oh, higher and higher, baby
+
+It's a livin' thing,
+It's a terrible thing to lose
+It's a given thing
+What a terrible thing to lose.
+
+I'm taking a dive
+Dive, dive, dive,
+
+Making believe this is what you've conceived
+From your worst day,
+I'm taking a dive
+Moving in line then you look back in time
+To the first day
+I'm taking, I'm taking
+
+And you and your sweet desire
+(Don't you do it, don't you do it)
+You took me
+Oh, higher and higher, baby
+
+It's a living thing
+It's a terrible thing to lose
+It's a given thing
+What a terrible thing to lose
+
+(And I'm taking a dive on the slide hey)
+
+Takin' a dive 'cause you can't halt the slide
+Floating downstream,
+(I'm taking a dive)
+So let her go don't start spoiling the show
+It's a bad dream
+(I'm taking, I'm taking)
+
+And you and your sweet desire
+(Don't you do it, don't you do it)
+You took me
+Oh, higher and higher, baby
+
+It's a living thing
+It's a terrible thing to lose
+It's a given thing
+What a terrible thing to lose
+
+It's a living thing
+It's a terrible thing to lose
+It's a given thing....
+
+
 

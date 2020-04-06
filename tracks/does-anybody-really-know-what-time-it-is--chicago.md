@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: does-anybody-really-know-what-time-it-is--chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/doesanybodyreallyknowwhattimeitis.html
 name: Does Anybody Really Know What Time It Is?
 rankings:
 - end_date: '1970-11-13'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
+
+As I was walking down the street one day
+A man came up to me and asked me what the time was that was
+on my watch, yeah
+And I said
+Does anybody really know what time it is
+I don't
+Does anybody really care
+care
+If so I can't imagine why
+about time
+We've all got time enough to cry
+Oh no, no
+And I was walking down the street one day
+A pretty lady looked at me and said her diamond watch had
+stopped cold dead
+And I said
+Does anybody really know what time it is
+I don't
+Does anybody really care
+care
+If so I can't imagine why
+about time
+We've all got time enough to cry
+Oh no, no
+And I was walking down the street one day
+Being pushed and shoved by people trying to beat the clock,
+oh, so I just don't know,
+I just don't know
+And I said, yes I said
+Background Vocal:
+People runnin' everywhere
+Don't know the way to go
+Don't know where I am
+Can't see past the next step
+Don't have to think past the last mile
+Have no time to look around
+Just run around, run around and think why
+Does anybody really know what time it is
+I don't
+Does anybody really care
+care
+If so I can't imagine why
+about time
+We've all got time enough to die
+Oh no, no
+
+
 

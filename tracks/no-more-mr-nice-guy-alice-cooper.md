@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-more-mr-nice-guy-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/nomoremrniceguylive.html
 name: No More Mr Nice Guy
 rankings:
 - end_date: '1973-04-20'
@@ -55,4 +56,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
 ---
+
+
+
+I used to be such a sweet, sweet thing
+'Til they got a hold of me
+I'd open doors for little old ladies
+I helped the blind to see
+
+I got no friends 'cause they read the papers
+They can't be seen
+With me and I'm gettin' real shot down
+And I'm feelin' mean
+
+No more mister nice guy
+No more mister clean
+No more mister nice guy
+They say he's sick, he's obscene
+
+I got no friends 'cause they read the papers
+They can't be seen
+With me and I'm gettin' real shot down
+And I'm gettin' mean
+
+No more mister nice guy
+No more mister clean
+No more mister nice guy
+They say he's sick, he's obscene
+
+My dog bit me on the leg today
+My cat clawed my eyes
+Ma's been thrown out of the social circle
+And dad has to hide
+
+I went to church incognito
+When everybody rose
+The Reverend Smith, he recognized me
+And punched me in the nose
+
+He said:
+No more mister nice guy
+No more mister clean
+No more mister nice guy
+He said you're sick, you're obscene
+
+No more mister nice guy
+No more mister clean
+No more mister nice guy
+He says you're sick, you're obscene
+
+
 

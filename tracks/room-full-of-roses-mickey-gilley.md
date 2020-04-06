@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: room-full-of-roses-mickey-gilley
+lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/roomfullofroses.html
 name: Room Full Of Roses
 rankings:
 - end_date: '1974-06-14'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
 ---
+
+If I sent a rose to you
+For every time you made me blue
+You'd have a room full of roses
+And if I sent a rose of white
+For every time I cried all night
+You'd have a room full of roses
+
+And if I took the petals
+I would tear them all apart
+I'd be tearing at the roses
+Just the way you broke my heart
+
+If someday you're feeling blue
+And you could send a roses, maybe too
+Don't send me a room full of roses
+But I want my arms around you
+
+And if I took the petals
+I would tear them all apart
+I'd be tearing at the roses
+Just the way you broke my heart
+
+If someday you're feeling blue
+And you could send a roses, maybe too
+Don't send me a room full of roses
+But I want my arms around you
+
+
 

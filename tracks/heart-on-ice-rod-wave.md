@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-on-ice-rod-wave
+lyrics_url: https://www.azlyrics.com/lyrics/rodwave/heartonice.html
 name: Heart On Ice
 rankings:
 - end_date: '2019-11-29'
@@ -79,4 +80,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+SpeakerBangerz
+Look, uh, look
+
+Heart been broke so many times I don't know what to believe (Yeah, yeah)
+Mama say it's my fault, it's my fault, I wear my heart on my sleeve (Yeah, yeah)
+Think it's best I put my heart on ice, heart on ice 'cause I can't breathe
+I'ma put my heart on ice, heart on ice, it's gettin' the best of me
+
+While in the cell with Lil' Hakeem, after I slapped him I had told him
+"I don't know how you get down with them clowns, but I'm a soldier"
+No one could understand, I had way too much aggression (Brrt)
+That built over the years from my abandoned adolescence
+See I done been lied to, backstabbed, and heartbroken
+I wanted to cry but I was too afraid to open
+Prayin' one day I'd find a peace of mind by the ocean
+I spent all my time committing crimes to get closer
+While at my nana house I play the couch, starin' at the ceiling
+Tryin' not to get in my feelings
+Thinkin' of a way I can make these millions
+Maybe that'll take this pain away and clear up all these rainy days, yeah
+
+Heart been broke so many times I don't know what to believe (Know what to believe, yeah)
+Mama say it's my fault, it's my fault, I wear my heart on my sleeve (My fault, it's my fault)
+Think it's best I put my heart on ice, heart on ice 'cause I can't breathe (I can't breathe, I can't breathe)
+I'ma put my heart on ice, heart on ice, it's gettin' the best of me (The best of me)
+
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah, yeah
+Yeah, yeah
+Brrt
+
+
 

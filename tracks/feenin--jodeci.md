@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feenin--jodeci
+lyrics_url: https://www.azlyrics.com/lyrics/jodeci/feenin.html
 name: Feenin'
 rankings:
 - end_date: '1994-03-18'
@@ -87,4 +88,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
 ---
+
+Hit me
+All the chronic in the world couldn't even mess with you
+You are the ultimate high
+You know what i'm saying baby?
+Now check this out
+Take my money
+My house and my cars
+For one hit of you
+You can have it all, baby
+Cause makin love
+Everytime we do
+Girl it's worse than drugs
+Cause i'm an addict over you
+And you know that i
+
+
+
+I can't leave you alone
+You got me feenin
+Feenin you got me feenin
+Got me goin crazy
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+
+Said i'm feenin for you
+I don't have a mind
+It's all blown on you, baby
+Girl i'm so strung out
+All i do is wish for you
+So tomorrow if you're not here
+Then girl i'm down
+So i need you near
+I just wanna make it through the night
+So hold me tight
+Then girl i'm alright
+
+I can't leave you alone
+You got me feenin
+Girl you got everything that i need, got everything that i need
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+
+Lady i'm hooked on you
+There's nothing else i'd rather do
+Spend my last dime
+For a drop of your time
+Cause you're the girl without a doubt
+You know you got me strung out
+And i need you more
+And more
+Cause you are my joy
+
+You got me feenin
+You got me feenin
+You got me feenin yes you do
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+You got me feenin
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+You got me feenin
+Girl i'm feenin for you
+I can't leave you alone
+
+
 

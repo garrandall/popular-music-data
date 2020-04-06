@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cowboy-casanova-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/cowboycasanova.html
 name: Cowboy Casanova
 rankings:
 - end_date: '2009-10-09'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
 ---
+
+You better take it from me, that boy is like a disease
+You're running, you're trying, you're trying to hide
+And you're wondering why you can't get free
+He's like a curse, he's like a drug
+You get addicted to his love
+You wanna get out but he's holding you down
+'Cause you can't live without one more touch
+
+He's a good time cowboy Casanova
+Leaning up against the record machine
+Looks like a cool drink of water
+But he's candy-coated misery
+He's the devil in disguise
+A snake with blue eyes
+And he only comes out at night
+Gives you feelings that you don't want to fight
+You better run for your life
+
+I see that look on your face
+You ain't hearing what I say
+So I'll say it again
+'Cause I been where you been
+And I know how it ends
+You can't get away
+Don't even look in his eyes
+He'll tell you nothing but lies
+And you wanna believe
+But you won't be deceived
+If you listen to me
+And take my advice
+
+He's a good time cowboy Casanova
+Leaning up against the record machine
+Looks like a cool drink of water
+But he's candy-coated misery
+He's the devil in disguise
+A snake with blue eyes
+And he only comes out at night
+Gives you feelings that you don't want to fight
+You better run for your life
+
+Run run away
+Don't let him mess with your mind
+He'll tell you anything you want to hear
+He'll break your heart
+It's just a matter of time
+But just remember
+
+He's a good time cowboy Casanova
+Leaning up against the record machine
+Looks like a cool drink of water
+But he's candy-coated misery
+He's the devil in disguise
+A snake with blue eyes
+And he only comes out at night
+Gives you feelings that you don't want to fight
+You better run for your life
+
+Oh you better run for your life
+Oh you better run for your life
+
+
 

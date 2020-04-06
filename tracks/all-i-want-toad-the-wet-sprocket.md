@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-want-toad-the-wet-sprocket
+lyrics_url: https://www.azlyrics.com/lyrics/toadthewetsprocket/knowme.html
 name: All I Want
 rankings:
 - end_date: '1992-07-03'
@@ -107,4 +108,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
 ---
+
+Should I have believed I was still a boy
+Naive and sane, protected wholly
+Tongue-tied and restless
+Breathing of futures Know me; I am not a child
+'though you have age
+You have not felt the pain
+
+Should I have remained obedient and docile
+So far restrained
+The hands that hold me back
+Could break my bones
+As each one snaps
+I hate my home
+
+Far on my way
+I should know, I was born here
+Know me
+
+Am I just some fool? Am I far from ready?
+Just let me fall and I'll believe you
+Chained up and pampered I strain until I crack
+Know me before you kill what I want to be
+And leave me cold
+Bled white
+And feeling old
+
+Far on my way
+I should know, I was born here
+Know me-know all I am
+Far on my way
+I was cold then I exploded
+Know me...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/angel.html
 name: Angel
 rankings:
 - end_date: '1973-07-13'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
 ---
+
+
+I got a call the other day
+It was my sister Carolyn, sayin'
+"Aretha, come by when you can
+I've got somethin' that I wanna say"
+
+And when I got there she said
+"You know rather than go through a long drawn out thing
+I think the melody on the box will help me explain"
+
+Gotta find me an angel
+To fly away with me
+Gotta find me an angel
+Ooo and set me free
+
+My heart is without a home
+I don't want to be alone
+I gotta find me an angel
+In my life, in my life
+
+Too long have I loved 
+So unattached within
+So much that I know
+That I need somebody so
+So I'll just go on
+Hoping that I find me someone
+Gotta find me an angel in my life
+In my life...in my life
+
+I know there must be someone
+Somewhere for me
+Oh I lived too long
+Without the love of someone
+And there's no misery
+Ooooh oooh like the misery
+I feel in me
+
+I gotta find me an angel in
+In my life
+(You'll meet him now don't you worry)
+In my life
+(Keep lookin' and just keep cookin')
+In my life
+(He'll be there, now don't you worry)
+In my life.
+
+
 

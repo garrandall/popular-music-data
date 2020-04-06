@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-re-mi-blackbear
+lyrics_url: https://www.azlyrics.com/lyrics/blackbear/doremi.html
 name: Do Re Mi
 rankings:
 - end_date: '2017-05-19'
@@ -107,4 +108,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
 ---
+
+Do, re, mi, fa, so
+Yeah, yeah
+Do, re, mi, fa, so
+Yeah, yeah
+
+Yeah, if I could go back to that day we met
+I probably would just stay in bed
+You run your mouth all over town
+And this one goes out to the sound
+Of breaking glass on my Range Rover
+Pay me back or, bitch, it's over
+All the presents I would send
+Fuck my friends behind my shoulder
+
+Next time I'mma stay asleep
+I pray the Lord my soul to keep
+
+And you got me thinking lately
+Bitch, you crazy
+And nothing's ever good enough
+I wrote a little song for ya
+
+It go like do, re, mi, fa, so fucking done with you, girl
+So fucking done with all the games you play
+I ain't no tic-tac-toe
+Send the X and Os on another note
+I'm do, re, mi, fa, so fucking done with you, baby
+So send the X and Os on another note
+I'm ghost
+
+If I could go back to that day we met
+I probably would've stayed in bed
+You wake up everyday and make me feel like I'm incompetent
+Designer shoes and Xanax tabs
+Compliment your make-up bag
+You never had to buy yourself a drink
+'Cause everybody wanted to tap that ass sometime
+
+And you got me thinking lately
+Bitch, you crazy
+And nothing's ever good enough
+I wrote a little song for ya
+
+It go like do, re, mi, fa, so fucking done with you, girl
+So fucking done with all the games you play
+I ain't no tic-tac-toe
+Send the X and Os on another note
+I'm do, re, mi, fa, so fucking done with you, baby
+So send the X and Os on another note
+I'm ghost
+
+Yeah, yeah, oh
+And you got me thinking lately,
+Bitch, you crazy
+And nothing's ever good enough
+I wrote a little song for ya
+
+It go like do, re, mi, fa, so fucking done with you, girl
+So fucking done with all the games you play
+I ain't no tic-tac-toe
+Send the X and Os on another note
+I'm do, re, mi, fa, so fucking done with you, baby
+So send the X and Os on another note
+I'm ghost
+
+So send the X and Os on another note
+I'm ghost
+
+
 

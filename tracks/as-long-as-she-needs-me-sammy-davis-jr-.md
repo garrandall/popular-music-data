@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-long-as-she-needs-me-sammy-davis-jr-
+lyrics_url: https://www.azlyrics.com/lyrics/sammydavisjr/aslongassheneedsme.html
 name: As Long As She Needs Me
 rankings:
 - end_date: '1963-02-01'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
 ---
+
+As long as she needs me
+I know where I must be
+I'll cling on steadfastly
+As long as she needs me
+
+As long as life is long
+I'll love her right or wrong
+And somehow, I'll be strong
+As long as she needs me
+
+If you are lonely
+Then you will know
+When someone needs you
+You love them so
+
+I won't betray her trust
+Though some folks say I must
+I've got to stay true just
+As long as she needs me
+
+When you need someone
+You love them so
+
+I won't betray her trust
+Though people tell me I must
+I've gotta stay true just
+As long as she needs me
+
+
 

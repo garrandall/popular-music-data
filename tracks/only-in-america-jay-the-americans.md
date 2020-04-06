@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: only-in-america-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/onlyinamerica.html
 name: Only In America
 rankings:
 - end_date: '1963-08-23'
@@ -52,4 +53,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
+
+Only in America
+Can a guy from anywhere
+Go to sleep a pauper and wake up a millionaire
+
+Only in America
+Can a kid without a cent
+Get a break and maybe grow up to be President
+
+Only in America
+Land of opportunity, yeah
+Would a classy girl like you fall for a poor boy like me
+
+Only in America
+Can a kid who's washin' cars
+Take a giant step and reach right up and touch the stars
+
+Only in America
+Could a dream like this come true
+Could a guy like me start with nothing and end up with you
+
+Only in America
+Land of opportunity, yeah
+Would a classy girl like you fall for a poor boy like me
+
+Only in America (poor boy like me)
+Only in America (only in America)
+Only in America (only in America)
+Only in America (only in America)
+Only in America (only in America)
+Only in America
+
+
 

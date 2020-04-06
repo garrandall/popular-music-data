@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-majestic-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/themajestic.html
 name: The Majestic
 rankings:
 - end_date: '1961-12-10'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
+
+Dooby-do yeah let's do this dance now
+This dance started down in NYC
+Now they're doing it on TV
+All the way to the Pacific shore
+Man it's the greatest dance you ever saw
+Let's go everybody and move your feet
+Yeah my drummer's got a swinging beat
+Everything is grooving people here's your chance
+It's time for you to do this dance
+It's called the majestic, majestic yeah, majestic, majestic yeah
+Come on everybody take a tip from me
+They even got the message down in Waikiki
+Grab your partner and get on the ball
+Everytime you hear this call
+Cause there is no more shimmy and no more bop
+The kids in Philly stopped doing the slop
+Everybody now looking just fine
+It's the majestic, majestic yeah, majestic, majestic yeah
+All the way from Georgia to the Golden Gate
+Kentucky Virginia and Dakota state
+There even grooving in Chicago town
+This dance is really getting around
+Dance dance people
+Get up and do this dance ooh...
+
+
 

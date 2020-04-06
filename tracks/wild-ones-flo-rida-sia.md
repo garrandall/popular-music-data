@@ -5,6 +5,7 @@ features:
 - Sia
 genres: []
 key: wild-ones-flo-rida-sia
+lyrics_url: https://www.azlyrics.com/lyrics/florida/wildones.html
 name: Wild Ones
 rankings:
 - end_date: '2012-01-13'
@@ -152,4 +153,117 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
 ---
+
+
+Hey I heard you are a wild one
+Ooh
+If I took you home
+It'd be a home run
+Show me how you do
+I wanna shut down the club with you
+Hey I heard you like the wild ones 
+(Wild ones wild ones)
+Ooh
+
+
+I-I like crazy, foolish, stupid
+Party going wild, fist pumping music
+I might lose it
+Glass to the roof, that how we do'z it (do'z it do'z it)
+I don't care the night, she don't care we like
+Almost dared the right vibe
+Ready to get live, ain't no surprise
+Take me so high, jumping nose dive
+Surfing the crowd
+
+Ooh
+Said I gotta be the man
+I'm the head of my band, mic check one two
+Shut them down in the club while the playboy does it
+And y'all get loose loose
+After bottle, we all get bent and again tomorrow
+Gotta break rules cause that's the motto
+Club shuts down, a hundred super models
+
+
+Hey I heard you are a wild one
+Ooh
+If I took you home
+It'd be a home run
+Show me how you do
+I wanna shut down the club with you
+Hey I heard you like the wild ones 
+(Wild ones wild ones)
+Ooh
+
+
+Party rocker, for show stopper
+More Chambull
+Number-one club popper
+Got a hangover like too much vodka
+Can't see me with ten binoculars
+
+So cool
+No doubt by the end of the night
+Got the clothes coming off
+Then I make that move
+Somehow, someway, gotta raise the roof, roof
+
+All black shades when the sun come through
+Uh-oh, it's on like everything goes
+Round up baby tilt the freaky show
+What happens to that body, it's a private show
+Stays right here, private show
+
+I like 'em untamed, don't tell me how pain
+Tolerance, bottoms up with the champagne
+My life, call my homie then we hit Spain
+Do you busy with the bail, we get insane
+
+
+Hey I heard you are a wild one
+Ooh
+If I took you home
+It'd be a home run
+Show me how you do
+I wanna shut down the club with you
+Hey I heard you like the wild ones 
+(Wild ones wild ones)
+Ooh
+
+
+I am a wild one
+Break me in
+Saddle me up and let's begin
+I am a wild one
+Tame me now
+Running with wolves
+And I'm on the prowl
+
+I show you another side of me
+A side you would never thought you would see
+Tear up that body
+Dominate you 'til you've had enough
+I hear you like the wild stuff
+
+
+Hey I heard you are a wild one
+Ooh
+If I took you home
+It'd be a home run
+Show me how you'll do
+I wanna shut down the club with you
+Hey I heard you like the wild ones 
+(Wild ones wild ones)
+Ooh
+
+I am a wild one
+Break me in
+Saddle me up and let's begin
+I am a wild one
+Tame me now
+Running with wolves
+And I'm on the prowl
+
+
 

@@ -5,6 +5,7 @@ features:
 - Chris Brown
 genres: []
 key: best-love-song-t-pain-chris-brown
+lyrics_url: https://www.azlyrics.com/lyrics/tpain/bestlovesong.html
 name: Best Love Song
 rankings:
 - end_date: '2011-04-15'
@@ -88,4 +89,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
 ---
+
+
+Turn up the bass, turn up the treble,
+I'm about to take it to a whole another level!
+DJ turn off what you're playin',
+I want the whole club to hear what I'm sayin'!
+Because this girl means so much to me,
+And now we're on the floor and she touchin' me.
+And if I wanna take her home
+It's gotta be better than what they do on the radio!
+
+
+It's gotta be the crunkest
+It's gotta be the loudest
+It's gotta be the best (the best) love song she ever heard in her life
+I gotta tell her how I feel
+I gotta let her hear, the best love song she ever heard in her life
+No need for me to write it, I just gotta picture her smilin,
+And if you feel that way
+Go 'head and kiss your baby
+And now we've got the whole stadium in love like eh, eh, eh, eh, eh, eh, eh, eh
+
+
+Turn up the lights, give me a mic
+I'm bout' to sing it to her just how she likes
+Jump off the stage bombs away,
+Crowd surfin' all the way (cowabunga)
+You know it's right, just do the wave
+Girl just move your body like a snake
+And if you wanna get with me
+Put your hands in the air, show me that energy
+
+
+It's gotta be the crunkest
+It's gotta be the loudest
+It's gotta be the best (the best) love song she ever heard in her life
+I gotta tell her how I feel
+I gotta let her hear, the best love song she ever heard in her life
+No need for me to write it, I just gotta picture her smilin,
+And if you feel that way
+Go 'head and kiss your baby
+And now we've got the whole stadium in love like eh, eh, eh, eh, eh, eh, eh, eh
+
+Homie kiss your girl
+Shawty kiss your man
+We can see you on the kissing cam
+Now show me some love (yeah yeah)
+Show me some love (yeah yeah)
+Now look her in the eye, say baby I love you
+I never put no one above you
+And if you feel that way
+Go ahead and kiss your baby
+And now we've got the whole stadium in love like eh
+And if you feel that way
+Go ahead and kiss your baby
+And now we've got the whole stadium in love like
+Eh, eh, eh, eh, eh, eh
+Oh, oh, oh
+
+
 

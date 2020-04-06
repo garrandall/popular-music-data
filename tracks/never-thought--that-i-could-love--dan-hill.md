@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-thought--that-i-could-love--dan-hill
+lyrics_url: https://www.azlyrics.com/lyrics/danhill/neverthoughtthaticouldlove.html
 name: Never Thought (That I Could Love)
 rankings:
 - end_date: '1987-12-18'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
+
+Can I touch you?
+I can't believe that you are real
+How did I ever find you?
+You are the dream that saved my life
+You are the reason I survived
+Baby...
+
+I never thought that I could love
+Someone as much as I love you
+I know it's crazy but it's true
+I never thought that I could need
+Someone as much as I need you
+I Love You...
+
+Can I hold you?
+Girl your smile lights up the sky
+You are too beautiful for the human eye
+You are the dream that never dies
+You are the fire that burns inside
+Baby...
+
+I never thought that I could love
+Someone as much as I love you
+I know it's crazy but it's true
+I never thought that I could need
+Someone as much as I need you
+I Love You...
+
+You are the sunshine in the sky
+You are the sparkle in my eyes
+
+I never thought that I could love
+Someone as much as I love you
+I know it's crazy but it's true
+I know it's true
+I never thought that I could need
+Someone as much as I need you
+I LOVE YOU
+
+
 

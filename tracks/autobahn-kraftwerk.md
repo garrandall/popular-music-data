@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: autobahn-kraftwerk
+lyrics_url: https://www.azlyrics.com/lyrics/kraftwerk/autobahn.html
 name: Autobahn
 rankings:
 - end_date: '1975-03-21'
@@ -47,4 +48,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
 ---
+
+Autobahn
+Autobahn
+Autobahn
+Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Vor uns liegt ein weites Tal
+Die Sonne scheint mit Glitzerstrahl
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Die Fahrbahn ist ein graues Band
+WeiÃe Streifen, grÃ¼ner Rand
+
+Autobahn
+Autobahn
+Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+
+Jetzt schalten wir ja das Radio an
+Aus dem Lautsprecher klingt es dann:
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n auf der Autobahn!)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+(Wir fahr'n auf der Autobahn!)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+(Wir fahr'n, fahr'n, fahr'n auf der Autobahn)
+
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Wir fahr'n, fahr'n, fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+
+Autobahn
+
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+Fahr'n auf der Autobahn
+
+
 

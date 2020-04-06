@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-conquer-all-lionel-richie
+lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/lovewillconquerall.html
 name: Love Will Conquer All
 rankings:
 - end_date: '1986-10-10'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+
+Here we are out hear, me and you
+Reaching out to each other
+Is all that we can do
+Here we stand trying not to fall
+There's no need to worry
+Love will conquer all
+
+Do you really want to know
+Just how long will last
+Will all of the bad times pass?
+How can we make things right?
+Ooh and why, why is the world so unkind?
+
+We surely can find peace of mind
+If we only see the light
+Can't you see that?
+Can somebody tell me why?
+Why do our dreams go wrong?
+Why can't we all belong?
+Oh where did we start?
+Oh and tell me when
+When will we ever learn
+There's nowhere else we can turn
+The truth is in our hearts
+Here we are together
+
+Sometimes the road gets hard to travel
+Sometimes the pains too much to bear
+Sometimes when life seems to unravel
+That's the time oh to say
+We're gonna make it anyway
+Can't you see that?
+
+
 

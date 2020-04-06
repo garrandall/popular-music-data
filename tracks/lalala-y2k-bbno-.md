@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lalala-y2k-bbno-
+lyrics_url: https://www.azlyrics.com/lyrics/bbno/lalala.html
 name: Lalala
 rankings:
 - end_date: '2019-07-19'
@@ -92,4 +93,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
 ---
+
+
+Did I really just forget that melody?
+(Naw, na, na, banananananana)
+Alright, dada dadadada
+
+
+When I popped off, then your girl gave me just a little bit of lockjaw
+Baby so cold, he from the north, he from the Canada
+Bankroll so low, I got nothing else that I can withdraw
+Ran out the door
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+How I stride like that
+
+Amex, no cap, eight hundred score
+They wonder how, how I guap like that
+I rap my lyrics when I perform
+They wonder how, how I stride like that
+Married to the grind, I brought my ring
+I'm corny, but your girly want the dick
+Modest with my jewels, but check the bank
+Finally got the money, say my thanks
+
+When I popped off, then your girl gave me just a little bit of lockjaw
+Baby so cold, he from the north, he from the Canada
+Bankroll so low, I got nothing else that I can withdraw
+Ran out the door
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+How I stride like that
+
+Haha, I'm at the bank again
+They wonder how, how I guap like that
+Pink whip with flames all on the side
+They wonder how, how I stride like that
+Got that Gucci on my body, now she tryna pipe me, woo
+Popped a Lucy Loosey Goosey, sussy boy, I keep you cool
+Got the paper, went to school
+Be careful who you callin' a fool
+Ayy, ha, ayy
+
+When I popped off, then your girl gave me just a little bit of lockjaw
+Baby so cold, he from the north, he from the Canada
+Bankroll so low, I got nothing else that I can withdraw
+Ran out the door
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+I shine my wrist, it go like shashasha, shashasha
+I got your bitch singing like lalala, lalala
+How I stride like that
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrap-your-arms-around-me-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/wrapyourarmsaroundme.html
 name: Wrap Your Arms Around Me
 rankings:
 - end_date: '1977-12-09'
@@ -35,4 +36,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
 ---
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Get it on, get it on
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Rock me all night long
+
+Oh, don't waste a minute
+Don't waste no time
+Give right to it
+Come on and be mine
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Get it on, get it on
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Rock me all night long
+
+Oh, come on and take me
+Make me feel good
+Wrap your arms around me
+You're what I want
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Get it on, get it on
+
+Wrap your arms around me
+Come on, come on
+Wrap your arms around me
+Rock me all night long
+
+Do it, do it now, do it, do it now
+Do it, do it now, baby
+Do it, do it now, do it, do it now
+Do it, do it now, baby
+
+Do it, do it now, do it, do it now
+Do it, do it now, baby
+Do it, do it now, do it, do it now
+Do it, do it now, baby
+
+Do it, do it now
+Do it, do it now
+Do it, do it now
+...
+
+
 

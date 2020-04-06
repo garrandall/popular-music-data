@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-walker-fitz-and-the-tantrums
+lyrics_url: https://www.azlyrics.com/lyrics/fitzandthetantrums/thewalker.html
 name: The Walker
 rankings:
 - end_date: '2014-03-21'
@@ -55,4 +56,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
 ---
+
+Ooh, crazy's what they think about me
+Ain't gonna stop cause they tell me so
+Cause 99 miles per hour baby
+Is how fast that I like to go
+
+Can't keep up with my rhythm
+Though they keep trying
+Too quick for the lines they throw
+I walk to the sound of my own drum
+It goes, they go, we go
+
+Oh, here we go
+Feel it in my soul
+Really need it, need it, so go
+Gotta feel it, body takes control
+Really need it, need it
+
+I wake up to the city of angels
+To see my name headlining the coast
+They say I'm a walking dreamer, baby
+If I stop they would make the show
+
+Can't keep up with my rhythm
+Though they keep trying
+Too quick for the lines they throw
+I walk to the sound of my own drum
+It goes, they go, we go
+
+Oh, here we go
+Feel it in my soul
+Really need it, need it, so go
+Gotta feel it, body takes control
+Really need it, need it
+
+Hey, here we go
+Feel it in my soul
+Really need it, need it, so go
+Gotta feel it, body takes control
+Really need it, need it
+
+Everybody walk
+Everybody walk
+Everybody walk, walk, walk, walk, walk
+
+Oh, here we go
+Feel it in my soul
+Really need it, need it, so go
+Gotta feel it, body takes control
+Really need it, need it
+
+Oh, here we go
+Feel it in my soul
+Really need it, need it, so go
+Gotta feel it, body takes control
+Really need it, need it
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lil--red-riding-hood-sam-the-sham-and-the-pharaohs
+lyrics_url: https://www.azlyrics.com/lyrics/samtheshamandthepharaohs/lilredridinghood.html
 name: Lil' Red Riding Hood
 rankings:
 - end_date: '1966-06-17'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
 ---
+
+Owooo!
+Who's that I see walkin' in these woods?
+Why, it's Little Red Riding Hood
+
+Hey there Little Red Riding Hood
+You sure are looking good
+You're everything a big bad wolf could want
+Listen to me
+
+Little Red Riding Hood
+I don't think little big girls should
+Go walking in these spooky old woods alone
+Owooo!
+
+What big eyes you have
+The kind of eyes that drive wolves mad
+So just to see that you don't get chased
+I think I ought to walk with you for a ways
+
+What full lips you have
+They're sure to lure someone bad
+So until you get to grandma's place
+I think you ought to walk with me and be safe
+
+I'm gonna keep my sheep suit on
+Until I'm sure that you've been shown
+That I can be trusted walking with you alone
+Owooo!
+
+Little Red Riding Hood
+I'd like to hold you if I could
+But you might think I'm a big bad wolf so I won't
+Owooo!
+
+What a big heart I have
+The better to love you with
+Little Red Riding Hood
+Even bad wolves can be good
+
+I'll try to be satisfied
+Just to walk close by your side
+Maybe you'll see things my way
+Before we get to grandma's place
+
+Little Red Riding Hood
+You sure are looking good
+You're everything that a big bad wolf could want
+Owooo! I mean baa! Baa?
+
+
 

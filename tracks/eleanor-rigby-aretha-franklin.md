@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eleanor-rigby-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/eleanorrigby.html
 name: Eleanor Rigby
 rankings:
 - end_date: '1969-11-14'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
 ---
+
+I'm Eleanor Rigby
+I picked up the rice in the church where the weddings have been
+Yeah I'm Eleanor Rigby
+I'm keepin' my face in a jar by the door
+If you wanna know what is it for, Well
+
+All the lonely people
+Where do they all come from
+All the lonely people
+Where do they all belong
+
+Father McKenzie
+Writing the words to a sermon 
+That no one will hear
+No one comes near
+Look at him working
+Knoting his socks in the night
+What does he care, Yeah
+
+All the lonely people
+Where do they all come from
+All the lonely people
+Where do they all belong
+
+Eleanor Rigby died in the church
+And was buried along with her name
+Nobody came
+Father McKenzie Wiping the dirt from his hands 
+As he walks from the grave
+
+
 

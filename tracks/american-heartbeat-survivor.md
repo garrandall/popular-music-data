@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-heartbeat-survivor
+lyrics_url: https://www.azlyrics.com/lyrics/survivor/americanheartbeat.html
 name: American Heartbeat
 rankings:
 - end_date: '1982-10-01'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+
+The night's alive with wind and fire
+
+We telegraph our heart's desire through the night with our eyes.
+Wheels are tuniing fast and hard
+hearts are burnin' on the Boulevard.
+Hear them pound - young and proud:
+It's the American heartbeat.
+Chart the stars and head out for the action
+
+Hit the streets and find some satisfaction.
+It's the American heartbeat
+it's the American heartbeat
+
+Oh
+the American heartbeat.
+The stage is set
+the roles are chosen.
+The lights grow hot as the midnight's closin' in at last -
+It comes so fast.
+Poundin' harder as the midnight's strikin'
+
+It hits us like a bolt of lightning.
+Deeper down
+it's the sound of the American heartbeat.
+Chart the stars and head out for the action
+
+Hit the streets an find some satisfaction.
+It's the American heartbeat - young and proud
+
+The American heartbeat - young and proud
+
+American heartbeat
+the American heartbeat
+
+It's the American heartbeat
+it's the American heartbeat
+. . .
+
+
 

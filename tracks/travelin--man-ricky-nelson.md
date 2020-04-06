@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: travelin--man-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/travelinman.html
 name: Travelin' Man
 rankings:
 - end_date: '1961-04-30'
@@ -71,4 +72,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+
+I'm a travelin' man and I've made a lotta stops all over the world
+And in every port I own the heart of at least one lovely girl
+I've a pretty senorita waitin' for me down in old Mexico
+And if you're ever in Alaska stop and see my cute little Eskimo
+
+Oh, my sweet fraulien down in Berlin town makes my heart start to yearn
+And my China doll down in old Hong Kong waits for my return
+Pretty Polynesian baby over the sea I remember the night
+When we walked in the sands of Waikiki and I held you oh so tight
+
+Oh, my sweet fraulien down in Berlin town makes my heart start to yearn
+And my China doll down in old Hong Kong waits for my return
+Pretty Polynesian baby over the sea I remember the night
+When we walked in the sands of Waikiki and I held you oh so tight
+
+Oh, I'm a travelin' man
+Yes, I'm a travelin' man
+Yes, I'm a travelin' man
+Woe, I'm a travelin' man
+
+
 

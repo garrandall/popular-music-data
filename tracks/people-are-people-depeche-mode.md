@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-are-people-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/depechemode/peoplearepeople.html
 name: People Are People
 rankings:
 - end_date: '1985-05-31'
@@ -79,4 +80,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
 ---
+
+People are people
+So why should it be
+You and I should get along so awfully
+
+So we're different colours
+And we're different creeds
+And different people have different needs
+It's obvious you hate me
+Though I've done nothing wrong
+I've never even met you so what could I have done
+
+I can't understand
+What makes a man
+Hate another man
+Help me understand
+
+Help me understand
+
+Now you're punching
+And you're kicking
+And you're shouting at me
+I'm relying on your common decency
+So far it hasn't surfaced
+But I'm sure it exists
+It just takes a while to travel
+From your head to your fists
+
+
 

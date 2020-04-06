@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-soul-the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/lady.html
 name: Lady Soul
 rankings:
 - end_date: '1986-10-17'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
 ---
+
+My lady soul
+
+Laying here beside you, 
+Close as we can be. 
+I know what this leads to. 
+I know what you need. yeah. 
+
+I'm ready to surrender, 
+My love, lay it all in your hands. 
+Give you my forever. 
+Everything I am. 
+
+'Cause you are my, my, my, my lady soul. 
+You warm my heart when I go cold. 
+Oh you are my, my, my, my lady soul. 
+You are my life, you make me whole. 
+
+My lady soul 
+
+I feel it in your heartbeat. 
+Hear it in your cries. 
+This is where our hearts meet. 
+I see it in your eyes. 
+
+I've been waiting for this moment, 
+My love, it's a dream come alive. 
+Heaven must have sent me, 
+An angel of the night. 
+
+'Cause you are my, my, my, my lady soul. 
+You warm my heart when I go cold. 
+'Cause you are my, you're my, you're my, my lady soul. 
+You're my lady soul. 
+You are my life, you make me whole. 
+
+Hmm, I've always knew we end up together, 
+Right from the very start. 
+And I believe we will make it forever. 
+It's written right here in my heart. 
+Oh yeah. 
+
+You're my, you're my, my lady soul. 
+You warm my heart when I get cold. 
+Oh, you are my, my, my, my lady soul. 
+You are my life, you make me whole. 
+
+My lady soul
+
+O my, my... my lady soul
+
+
 

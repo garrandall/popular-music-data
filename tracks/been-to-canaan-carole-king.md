@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: been-to-canaan-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/beentocanaan.html
 name: Been To Canaan
 rankings:
 - end_date: '1972-12-01'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
 ---
+
+Green fields and rolling hills
+Room enough to do what we will
+Sweet dreams of yestertime
+Are running through my mind
+Of a place I left behind
+
+Been so long, I can't remember when
+I've been to Canaan and I want to go back again
+Been so long, I'm living till then
+'Cause I've been to Canaan and I won't rest until I go back again
+
+Though I'm content with myself
+Sometimes I long to be somewhere else
+I try to do what I can
+But with our day-to-day demands
+We all need a promised land
+
+And it's been so long, I can't remember when
+I've been to Canaan and I want to go back again
+Been so long, I'm living till then
+'Cause I've been to Canaan and I won't rest until I go back again
+
+Oh, I want to be there in the wintertime
+With a fireplace burning to warm me
+And you to hold me when it's stormy
+
+Been so long, I can't remember when
+I've been to Canaan and I want to go back again
+Been so long, I'm living till then
+'Cause I've been to Canaan and I won't rest until I go back again
+
+
 

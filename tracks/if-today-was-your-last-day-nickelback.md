@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-today-was-your-last-day-nickelback
+lyrics_url: https://www.azlyrics.com/lyrics/nickelback/iftodaywasyourlastday.html
 name: If Today Was Your Last Day
 rankings:
 - end_date: '2008-12-05'
@@ -95,4 +96,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
 ---
+
+My best friend gave me the best advice
+He said, "Each day's a gift and not a given right.
+Leave no stone unturned, leave your fears behind
+And try to take the path less traveled by.
+That first step you take is the longest stride."
+
+If today was your last day
+And tomorrow was too late
+Could you say "goodbye" to yesterday?
+Would you live each moment like your last?
+Leave old pictures in the past
+Donate every dime you had?
+If today was your last day
+
+Against the grain should be a way of life
+What's worth the prize is always worth the fight
+Every second counts 'cause there's no second try
+So live it like you'll never live it twice
+Don't take the free ride in your own life
+
+If today was your last day
+And tomorrow was too late
+Could you say "goodbye" to yesterday?
+Would you live each moment like your last?
+Leave old pictures in the past
+Donate every dime you had?
+
+And would you call old friends you never see?
+Reminisce old memories
+Would you forgive your enemies?
+And would you find that one you're dreamin' of?
+Swear up and down to God above
+That you finally fall in love
+If today was your last day
+
+If today was your last day
+Would you make your mark by mending a broken heart?
+You know it's never too late to shoot for the stars
+Regardless of who you are
+So do whatever it takes
+'Cause you can't rewind a moment in this life
+Let nothin' stand in your way
+'Cause the hands of time are never on your side
+
+If today was your last day
+And tomorrow was too late
+Could you say "goodbye" to yesterday?
+
+Would you live each moment like your last?
+Leave old pictures in the past
+Donate every dime you had?
+(Would you? Would you?)
+
+And would you call old friends you never see?
+Reminisce old memories
+Would you forgive your enemies?
+And would you find that one you're dreamin' of?
+Swear up and down to God above
+That you finally fall in love
+If today was your last day
+
+
 

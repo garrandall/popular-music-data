@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-of-love-lesley-gore
+lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/lookoflove.html
 name: Look Of Love
 rankings:
 - end_date: '1965-01-01'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
 ---
+
+Look at the way he looks at her
+Look at the way he smiles
+I remember when he was mine
+I remember when things were fine, oh
+Look at the way he looks at her, now
+Isn't that the look of love?
+
+Look at the way he holds her hand
+Look at the way they dance
+I remember when he loved me
+I remember how we used to be, but
+Look at the way he smiles at her, now
+Isn't that the look of love?
+
+Here I am all by myself
+Watching him with someone else
+Bet he doesn't even know I'm here
+Wish I could hold back my tears, but...
+
+Look at the way he's kissing her
+Look at him hold her tight
+I remember his warm embrace
+And the tender look on his face, yes
+Look at the way he looks at her, now
+Isn't that the look of love?
+Isn't that the look of love? Woh, oh, oh
+Isn't that the look of love? Hey, hey, hey
+Isn't that the look of love? Oh, oh, now
+Isn't that the look of love? Hey, yay
+Isn't that the look of love? Oh, oh, oh...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drinking-class-lee-brice
+lyrics_url: https://www.azlyrics.com/lyrics/leebrice/drinkingclass.html
 name: Drinking Class
 rankings:
 - end_date: '2014-11-07'
@@ -95,4 +96,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
 ---
+
+We're up when the rooster crows
+Clock in when the whistle blows
+Eight hours ticking slow
+And then tomorrow we'll do it all over again
+
+I'm a member of a blue collar crowd
+They can never, nah they can't keep us down
+If you gotta, gotta label me, label me proud
+
+I belong to the drinking class
+Monday through Friday, man we bust our backs
+If you're one of us, raise your glass
+I belong to the drinking class
+
+We laugh, we cry, we love
+Go hard when the going's tough
+Push back, come push and shove
+Knock us down, we'll get back up again and again
+
+I'm a member of a good timing crowd
+We get rowdy, we get wild and loud
+If you gotta, gotta label me, label me proud
+
+I belong to the drinking class
+Monday through Friday, man we bust our backs
+If you're one of us, raise your glass
+I belong to the drinking class
+
+We all know why we're here
+A little fun, a little music, a little whiskey, a little beer
+We're gonna shake off those long week blues
+Ladies, break out your dancing shoes
+It don't matter what night it is, it's Friday
+It's Saturday, it's Sunday
+I just want to hear you say
+I just want to hear you sing it
+Y'all sing it with me
+
+We belong to the drinking class
+Monday through Friday, man we bust our backs
+If you're one of us, raise your glass
+We belong to the drinking class
+
+Yeah, we belong to the drinking class
+Monday through Friday, man we bust our backs
+And if you're one of us, raise your glass
+We belong to the drinking class
+
+
 

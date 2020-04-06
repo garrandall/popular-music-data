@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sal-s-got-a-sugar-lip-johnny-horton
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/salsgotasugarlip.html
 name: Sal's Got A Sugar Lip
 rankings:
 - end_date: '1959-08-23'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
 ---
+
+'Lasses in the cane and sirup in the corn
+Sugar in the gorge and honey in the horn
+Cake on a plate and a pie in my pan
+Come here Sally and sweeten your man
+
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+To sweeten her fellar with every day
+
+Oh, how I love that pretty little gal
+Nothing on earth as sweet as my Sal
+Honey on her lips and honey on her toes
+Honey all over her pretty little nose
+
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+To sweeten her fellar with every day
+
+Bees are buzzin' around her door
+I know what they're buzzin' for
+She's as sweet as 'lasses-cane
+Man alive, that's Sally Jane!
+
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+To sweeten her fellar with every day
+
+Yeah, Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+To sweeten her fellar with every day
+
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+Sal's got a sugarlip, so they say
+To sweeten her fellar with every day
+
+
 

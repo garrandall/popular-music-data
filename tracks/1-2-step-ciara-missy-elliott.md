@@ -5,6 +5,7 @@ features:
 - Missy Elliott
 genres: []
 key: 1-2-step-ciara-missy-elliott
+lyrics_url: https://www.azlyrics.com/lyrics/ciara/12step.html
 name: 1 2 Step
 rankings:
 - end_date: '2004-11-05'
@@ -164,4 +165,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
 ---
+
+
+Ladies and gentlemen (Ladies and gentlemen)
+This is a Jazze Phizal (Jazze Phizal) productshizzle,
+Missy (Missy),
+The princess is here,
+(She's here) Ciara, This beat is
+
+
+Automatic supersonic hypnotic funky fresh,
+Work my body so melodic,
+This beat flows right through my chest,
+Everybody ma and pappi came to party,
+Grab somebody, work your body, work your body,
+Let me see you 1,2 step
+
+
+Rock it, don't stop it,
+Everybody get on the floor,
+Wake the party up,
+We about to get it on,
+(Let me see ya'll)
+1,2 step,
+(I love it when ya'll)
+1,2 step
+(Everybody)
+1,2 step,
+We about to get it on
+
+This beat is
+
+
+Outrageous so contagious make you crave it,
+(Jazze made it),
+So retarded, top charted,
+Ever since the day I started,
+Strut my stuff,
+And yes I flaunt it,
+Goodies make the boys jump on it
+(Jump on it),
+No I can't control myself,
+Now let me do my 1,2 step
+
+
+
+(We going to step it like this. Oooohwee)
+
+
+It don't matter to me,
+We can dance slow
+(Ladies and gentlemen),
+Whichever way the beats drop,
+Our bodies will go
+(I like this ah),
+So swing it over here,
+Mr. DJ (Hey,Hey),
+And we will, we will rock you up
+It don't matter to me,
+We can dance slow
+(Dance slow yeah),
+Whichever way the beats drop,
+Our bodies will go,
+So swing it over here,
+Mr. DJ (Ladies and gentlemen),
+And we will, we will rock you,
+Lets shake
+
+
+I shake it like jello,
+And make the boys say hello,
+Cause they know I'm rockin' the beat
+(Rocking the beat),
+I know you heard about a lot of great MC's,
+But they ain't got nothing on me (nothing on me),
+Because I'm 5 foot 2,
+I wanna dance with you,
+And I'm sophisticated fun,
+I eat fillet mignon,
+And I'm nice and young,
+Best believe I'm number one
+(Whoa)
+
+
+
+This is for the hearing impaired,
+A Jazze Pha production
+
+
+(oooohweee)
+(oooohweee)
+
+
 

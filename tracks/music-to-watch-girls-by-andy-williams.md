@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: music-to-watch-girls-by-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/musictowatchgirlsby.html
 name: Music To Watch Girls By
 rankings:
 - end_date: '1967-03-31'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
 ---
+
+The boys watch the girls while the girls watch the boys who watch the girls go by
+Eye to eye, they solemnly convene to make the scene
+Which is the name of the game, watch a guy watch a dame on any street in town
+Up and down and over and across, romance is boss
+
+Guys talk "girl talk", it happens everywhere
+Eyes watch girls walk with tender lovin' care
+
+It's keepin' track of the pack watching them watching back
+That makes the world go 'round
+"What's that sound?" each time you hear a loud collective sigh
+They're making music to watch girls by
+
+Guys talk "girl talk", it happens everywhere
+Eyes watch girls walk with tender lovin' care
+
+It's keepin' track of the pack watching them watching back
+That makes the world go 'round
+"What's that sound?" each time you hear a loud collective sigh
+They're making music to watch girls by
+
+The boys watch the girls while the girls watch the boys who watch the girls go by
+Eye to eye, they solemnly convene to make the scene
+
+La, la, la, la
+
+
 

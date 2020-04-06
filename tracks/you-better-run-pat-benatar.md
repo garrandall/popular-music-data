@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-run-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/youbetterrun.html
 name: You Better Run
 rankings:
 - end_date: '1980-08-01'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
+
+Whatcha tryin' a do to my heart?
+Whatcha tryin' a do to my heart?
+You go around tellin' lies
+And now you want to compromise
+Whatcha tryin' a do to my heart?
+
+And you better run, you better hide
+You better leave from my sight, yeah
+
+Whatcha tryin' a do to my soul?
+Whatcha tryin' a do to my soul?
+Well, everything I had was yours
+And now I'm closin' all the doors
+Whatcha tryin' a do to my soul?
+
+And you better run, you better hide
+You better leave from my sight, yeah
+
+I love you oh, I love you so
+Can't you see it? Don't you know?
+I can't stand your alibis
+Your tellin' lies, you drive me wild, yeah
+
+I said, what are ya tryin' a do to my head?
+Whatcha tryin' a do to my head?
+Well, now I've gotta draw the line
+'Cause you ain't gonna take my mind
+What are ya tryin' a do to my head?
+
+You better run, you better hide
+You better leave from my sight
+
+You better run, you better hide
+You better leave from my sight
+Let me go, yeah
+
+I said go away, and leave me alone
+I can't stand you no more
+
+
 

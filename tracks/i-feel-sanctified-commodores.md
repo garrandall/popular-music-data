@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-feel-sanctified-commodores
+lyrics_url: https://www.azlyrics.com/lyrics/commodores/ifeelsanctified.html
 name: I Feel Sanctified
 rankings:
 - end_date: '1974-11-22'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-04'
 ---
+
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+
+I just left my baby's house
+And I got the strength I needed
+Knowing that the beast of man
+Is very hard to please
+
+I'm so glad the sun is shining
+To brighten up the day
+Cause behind last night
+I see things in a different way
+
+Yeah, I feel sanctified
+(Feel it, feel it my soul, yeah)
+Yeah, I feel sanctified
+
+She led me to the peak of love
+And no words could ever describe
+Oh, when you get that kind of loving
+It's a blessing to be alive
+
+Ooh, the sacred feeling
+Just blows through my soul
+Searching for sanctuary
+To rest it must explode
+
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+
+She led me to the peak of love
+And no words could ever describe
+Oh, when you get that kind of loving
+It's a blessing to be alive
+
+Ooh, the sacred feeling
+Just blows through my soul
+Searching for sanctuary
+To rest it must explode
+
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+Yeah, I feel sanctified
+
+
 

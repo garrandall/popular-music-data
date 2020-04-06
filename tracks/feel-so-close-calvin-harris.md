@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-so-close-calvin-harris
+lyrics_url: https://www.azlyrics.com/lyrics/nellyfurtado/feelsoclose.html
 name: Feel So Close
 rankings:
 - end_date: '2012-03-02'
@@ -111,4 +112,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
 ---
+
+I feel so close to you right now, it's a force-field
+I wear my heart upon my sleeve, like it's a big deal
+Your love comes down on me, surrounds me like a waterfall
+And there's no stopping us right now
+I feel so close to you right now
+
+I feel so close to you right now, it's a force-field
+I wear my heart upon my sleeve, like it's a big deal
+Your love comes down on me, surrounds me like a waterfall
+And there's no stopping us right now
+I feel so close to you right now
+
+And I never knew I would feel what I feel when I'm with you
+I never knew I would feel what I feel when I'm with you, when I'm with you
+No, come close, hold me now, hold me now
+Oh, come close and hold me now, hold me now
+
+'Cause there's no stopping us right now, oh oh
+I feel so close to you right now
+I feel so close to you right now, a force-field
+There's no stopping us right now
+
+I never knew I would feel what I feel when I'm with you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unchained-melody-the-righteous-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/unchainedmelody.html
 name: Unchained Melody
 rankings:
 - end_date: '1965-07-23'
@@ -235,4 +236,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
 ---
+
+Oh, my love
+My darling
+I've hungered for your touch
+A long, lonely time
+
+And time goes by so slowly
+And time can do so much
+Are you still mine?
+
+I need your love
+I need your love
+God speed your love to me
+
+Lonely rivers flow to the sea, to the sea
+To the open arms of the sea
+Yes, lonely rivers sigh, "Wait for me, wait for me
+I'll be coming home, wait for me"
+
+Oh, my love
+My darling
+I've hungered, hungered for your touch
+A long, lonely time
+
+And time goes by so slowly
+And time can do so much
+Are you still mine?
+
+I need your love
+I, I need your love
+God speed your love to me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-little-one-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/heylittleone.html
 name: Hey Little One
 rankings:
 - end_date: '1968-01-26'
@@ -35,4 +36,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
 ---
+
+Hey little one so far from home and so alone
+Hey little one I'm just like you I'm lonely too
+The road of life is a long long road when you walk alone
+Then I found you I found a love a love I've never known a love I've never known
+Hey hey hey hey little one don't go away tell me you'll stay
+Hey hey hey hey little one I'm just like you I'm so lonely too
+
+
 

@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: leaving-on-a-jet-plane-peter-paul-mary
+lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/leavingonajetplane.html
 name: Leaving On A Jet Plane
 rankings:
 - end_date: '1969-10-31'
@@ -77,4 +78,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
 ---
+
+All my bags are packed, I'm ready to go
+I'm standing here outside your door
+I hate to wake you up to say goodbye
+
+But the dawn is breakin', it's early morn
+Taxi's waiting, he's blowin' his horn
+Already I'm so lonesome I could cry
+
+So kiss me and smile for me
+Tell me that you'll wait for me
+Hold me like you'll never let me go
+
+I'm leavin' on a jet plane
+I don't know when I'll be back again
+Oh babe, I hate to go
+
+There's so many times I've let you down
+So many times I've played around
+I tell you now, they don't mean a thing
+
+Every place I go, I think of you
+Every song I sing, I sing for you
+When I come back, I'll wear your wedding ring
+
+So kiss me and smile for me
+Tell me that you'll wait for me
+Hold me like you'll never let me go
+
+I'm leavin' on a jet plane
+I don't know when I'll be back again
+Oh babe, I hate to go
+
+Now the time has come to leave you
+One more time let me kiss you
+Then close your eyes, I'll be on my way
+
+Dream about the days to come
+When I won't have to leave alone
+About the time, I won't have to say
+
+Kiss me and smile for me
+Tell me that you'll wait for me
+Hold me like you'll never let me go
+
+I'm leavin' on a jet plane
+I don't know when I'll be back again
+Leavin' on a jet plane
+I don't know when I'll be back again
+Leavin' on a jet plane
+I don't know when I'll be back again
+Oh babe, I hate to go
+
+
 

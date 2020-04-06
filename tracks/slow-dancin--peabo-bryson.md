@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-dancin--peabo-bryson
+lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/slowdancin.html
 name: Slow Dancin'
 rankings:
 - end_date: '1984-10-05'
@@ -23,4 +24,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
 ---
+
+Come with me and I'll show you how
+Making love can be
+You will see that it's here and now
+This is our destiny
+
+We'll spend the night by candlelight
+While we're romancing, baby
+As we glide from side to side
+Slow dancing, oh, slow dancing
+
+Come on right now, baby
+Come on right now
+
+Close your eyes and drift away
+Into my fantasy
+Oh, don't ask why
+Just say you'll stay and I
+Will fulfill all your dreams
+
+Let your mind drift into time
+While we're romancing, baby
+As we meet cheek to cheek
+Sugar, we're slow dancing
+Oh, slow dancing
+
+Come on right now, baby
+Come on right now
+Slow dance with me
+
+Sugar, sugar
+
+Let your mind drift into time
+While we're romancing, baby
+As we meet cheek to cheek
+Oh, sugar, we're slow dancing
+Oh, slow dancing
+
+Oh, slow dance
+Slow dance with me
+
+Come on right now, baby
+Come on right now
+Come on right now, baby
+Come on right now
+
+Slow dance with me
+Slow dance
+
+Come on right now, baby
+Come on right now
+Come on right now, baby
+Come on right now
+Slow dance with me
+
+
 

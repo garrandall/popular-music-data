@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honky-tonk-women-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/honkytonkwomen.html
 name: Honky Tonk Women
 rankings:
 - end_date: '1969-07-25'
@@ -67,4 +68,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+
+I met a gin soaked, bar-room queen down in Memphis,
+She tried to take me upstairs for a ride.
+She had to heave me right across her shoulder
+'Cause I just can't seem to drink you off my mind.
+
+It's just the honky tonk women
+Gimme, gimme, gimme the honky tonk blues.
+It's just the honky tonk women
+Gimme, gimme, gimme the honky tonk blues.
+
+I laid a divorce in Detroit City,
+I had to put up some kind of a fight.
+The lady then she covered me with roses,
+She blew my nose and then she blew my mind.
+
+It's just the honky tonk women
+Gimme, gimme, gimme the honky tonk blues.
+
+It's the honky tonk women.
+Gimme, gimme, gimme the honky tonk blues.
+
+It's the honky tonk women.
+Gimme, gimme, gimme the honky tonk blues.
+
+
 

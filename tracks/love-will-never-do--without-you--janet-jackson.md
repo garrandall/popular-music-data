@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-never-do--without-you--janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/lovewillneverdowithoutyou.html
 name: Love Will Never Do (Without You)
 rankings:
 - end_date: '1990-11-23'
@@ -95,4 +96,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
 ---
+
+Our friends think we're opposites
+Falling in and out of love
+They all said we'd never last
+Still we manage to stay together
+There's no easy explanation for it
+But whenever there's a problem
+We always work it out somehow
+Work it out somehow
+
+They said it wouldn't last
+We had to prove them wrong
+Cause I've learned in the past
+That love will never do without you
+
+Other guys have tried before
+To replace you as my lover
+Never did I have a doubt
+Boy it's you I can't do without
+I feel better when I have you near me
+Cause no other love around
+Has quite the same ooh ooh (ha ha ha!)
+Like you do do do do babe
+
+They said it wouldn't last
+We had to prove them wrong
+Cause I've learned in the past
+That love will never do without you
+
+
 

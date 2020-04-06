@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-unforgiven-metallica
+lyrics_url: https://www.azlyrics.com/lyrics/metallica/theunforgiven.html
 name: The Unforgiven
 rankings:
 - end_date: '1991-12-13'
@@ -75,4 +76,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
 ---
+
+New blood joins this earth,
+And quickly he's subdued.
+Through constant pained disgrace
+The young boy learns their rules.
+
+With time the child draws in.
+This whipping boy done wrong.
+Deprived of all his thoughts
+The young man struggles on and on he's known
+A vow unto his own,
+That never from this day
+His will they'll take away.
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never be.
+Never see.
+Won't see what might have been.
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+They dedicate their lives
+To running all of his.
+He tries to please them all â
+This bitter man he is.
+
+Throughout his life the same â
+He's battled constantly.
+This fight he cannot win â
+A tired man they see no longer cares.
+
+The old man then prepares
+To die regretfully â
+That old man here is me.
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never be.
+Never see.
+Won't see what might have been.
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never be.
+Never see.
+Won't see what might have been.
+
+What I've felt,
+What I've known
+Never shined through in what I've shown.
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+You labelled me,
+I'll label you.
+So I dub thee unforgiven.
+
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+You labelled me,
+I'll label you.
+So I dub thee unforgiven.
+
+Never free.
+Never me.
+So I dub thee unforgiven.
+
+
 

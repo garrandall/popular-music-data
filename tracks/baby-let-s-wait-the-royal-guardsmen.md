@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-let-s-wait-the-royal-guardsmen
+lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/babyletswait.html
 name: Baby Let's Wait
 rankings:
 - end_date: '1968-11-22'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
 ---
+
+You say you'd always be proud of me
+Well, I'm gonna see that you do, baby
+I'll be nobody, nothin' if I do what you want me to, yeah
+
+Marryin' now, struggle 'bout anyway anyhow
+Living in misery is that how you want it to be
+
+No, baby, let's wait
+No, baby, let's wait
+We've got time
+
+You say you'll always be needin' me
+Well, I'm gonna see that you do, baby
+I'll be somebody's somethin' if you wait, babe, I promise you, yeah
+
+'Cause I got my pride, our kids gonna hold his head up high
+Nothin' like you and me, victim of poverty
+
+No, baby, let's wait
+No, baby, let's wait
+We've got time
+
+No, baby, let's wait
+No, baby, let's wait
+No, baby, let's wait
+
+
 

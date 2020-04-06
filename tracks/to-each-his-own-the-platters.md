@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-each-his-own-the-platters
+lyrics_url: https://www.azlyrics.com/lyrics/platters/toeachhisown.html
 name: To Each His Own
 rankings:
 - end_date: '1960-10-16'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+
+A rose must remain with the sun and the rain
+Or its lovely promise won't come true
+To each his own, to each his own
+And my own is you
+
+What good is a song if the words just don't belong?
+And a dream must be a dream for two
+No good alone, to each his own
+For me there's you
+
+
+If a flame is to grow there must be a glow
+To open each door there's a key
+I need you, I know, I can't let you go
+Your touch means too much to me
+
+Two lips must insist on two more to be kissed
+Or they'll never know what love can do
+To each his own, I've found my own
+One and only you
+
+
+
+
 

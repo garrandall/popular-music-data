@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-chance-to-turn-around-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/lastchancetoturnaround.html
 name: Last Chance To Turn Around
 rankings:
 - end_date: '1965-05-14'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
 ---
+
+The wheels of my old car
+Are a'turnin, burnin' up the highway
+Tonight that girl of mine
+Will be yearnin' for not learnin' to see things my way
+
+She hurt me for the very last time
+I'm not hangin' around
+I'll show her I can leave her behind
+I'm gettin' out of town
+I won't back down
+I won't back down
+
+Last exit to Brooklyn
+Last chance to turn around
+Last exit to Brooklyn
+Gonna keep these wheels of mine coverin' ground
+
+Last night I caught that girl
+Lyin', tryin' to deceive me
+And now all of these tears she's cryin'
+I'm not buyin' you better believe me
+
+She swore that she was mine alone
+Our love would never die
+I'm leavin' now for parts unknown
+I saw her with that guy
+That's the reason why
+I'll be passin' by
+
+The last exit to Brooklyn
+The last chance to turn around
+The last exit to Brooklyn
+Gonna keep these wheels of mine coverin' ground
+On the last exit to Brooklyn
+The last chance to turn around
+The last exit to Brooklyn
+The last chance to turn around
+...
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-about-me-mya-sisqo
+lyrics_url: https://www.azlyrics.com/lyrics/mya/itsallaboutme.html
 name: It's All About Me
 rankings:
 - end_date: '1998-03-20'
@@ -88,4 +89,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
 ---
+
+
+I cook your dinner
+I wash your clothes
+Baby hell no that's not the way it goes
+It's all about me tonight
+I ain't stop loving you 
+Cause you still my boo 
+You still my boo 
+But you gotta see tonight it's all about me, me, me, me, me
+
+
+Its all about me me me me me 
+Forget about you you you you you
+So whatcha gonna do do do do do 
+Are ya gonna get it up? get it up ?
+
+
+Up jumps my butt nigga what nigga what 
+U know I caught yo eye checkin out my thigh 
+Now swing my body right to left 
+Left to right, You know this ish looks tight 
+Now just look at my body body uh huh 
+And just hold me like a man should (Sisqo:like a nigga should) But baby you gotta see 
+Tonight baby, it's all about me (Sisqo Baby)
+
+
+
+
+Do you know that I'm gonna love you for life 
+So let's make tonight your night 
+Baby my arms are open wide 
+So let me come inside, hey hey 
+Baby (Mya:oh baby)
+Is that what u want from me (Mya:cause thats what i need from you) 
+
+
+
+
 

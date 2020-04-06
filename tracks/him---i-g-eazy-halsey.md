@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: him---i-g-eazy-halsey
+lyrics_url: https://www.azlyrics.com/lyrics/geazy/himi.html
 name: Him & I
 rankings:
 - end_date: '2017-12-29'
@@ -88,4 +89,128 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
 ---
+
+
+Cross my heart, hope to die
+To my lover I'd never lie
+He said, "Be true," I swear, "I'll try."
+In the end, it's him and I
+He's out his head, I'm out my mind
+We got that love; the crazy kind
+I am his, and he is mine
+In the end, it's him and I
+Him and I
+
+
+My '65 speeding up the PCH, a hell of a ride
+They don't wanna see us make it, they just wanna divide
+2017 Bonnie and Clyde
+Wouldn't see the point of living on if one of us died
+
+Got that kind of style everybody try to rip off
+YSL dress under when she take the mink off
+Silk on her body, pull it down and watch it slip off
+Ever catch me cheating, she would try to cut my (ha-ha-ha)
+
+Crazy, but I love her, I could never run from her
+Hit it, no rubber, never would no one touch her
+Swear we drive each other mad, she be so stubborn
+But what the fuck is love with no pain, no suffer
+
+Intense, this shit, it gets dense
+She knows when I'm out of it like she could just sense
+If I had a million dollars, or was down to ten cents
+She'd be down for whatever, never gotta convince
+You know
+
+
+Cross my heart, hope to die
+To my lover I'd never lie
+I love you baby
+He said, "Be true," I swear, "I'll try."
+In the end, it's him and I
+He's out his head, I'm out my mind
+We got that love; the crazy kind
+I am his, and he is mine
+In the end, it's him and I
+
+
+Him and I
+In the end, it's him and I
+Him and I
+In the end, it's him and I
+
+
+It's her and I mobbin' 'til the end of time
+Only one who gets me, I'm a crazy fuckin' Gemini
+Remember this for when I die
+Everybody dressed in all black, suits and a tie
+
+My funeral will be lit if I
+Ever go down or get caught, if they identify
+My bitch was the most solid, nothing to solidify
+She would never cheat, you'd never see her with a different guy
+Ever tell you different, then it's a lie
+
+See, that's my down bitch, see that's my soldier
+She keep that thang-thang, if anyone goes there
+Calm and collected, she keeps her composure
+And she gon' ride for me until this thing over
+
+We do drugs together (together)
+Fuck up clubs together (together)
+And we'd both go crazy (crazy)
+If we was to sever
+You know?
+We keep mobbin', it's just me and my bitch
+Fuck the world, we just gon' keep getting rich
+You know?
+
+
+Cross my heart, hope to die
+To my lover I'd never lie
+He said, "Be true," I swear, "I'll try."
+In the end, it's him and I
+He's out his head, I'm out my mind
+We got that love; the crazy kind
+I am his, and he is mine
+In the end, it's him and I
+
+Him and I
+In the end, it's him and I
+Him and I
+In the end, it's him and I
+
+Cross my heart, hope to die
+To you I've never lied
+For you I'd take a life
+It's him and I, and I swear
+
+'Til the end I'm-ma ride with you
+Mob and get money, get high with you
+
+Cross my heart, hope to die
+This is our ride or die
+You can confide in me
+There is no hiding, I swear
+
+Stay solid, never lie to you
+Swear, most likely I'mma die with you
+
+
+Cross my heart, hope to die
+To my lover I'd never lie
+He said, "Be true," I swear, "I'll try."
+In the end, it's him and I
+He's out his head, I'm out my mind
+We got that love, the crazy kind
+I am his, and he is mine
+In the end, it's him and I
+
+Him and I
+In the end, it's him and I
+Him and I
+In the end, it's him and I
+
+
 

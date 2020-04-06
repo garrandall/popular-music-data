@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: refugee-tom-petty-and-the-heartbreakers
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/refugee.html
 name: Refugee
 rankings:
 - end_date: '1980-02-01'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
 ---
+
+We got somethin', we both know it, we don't talk too much about it
+Ain't no real big secret, all the same, somehow we get around it
+Listen, it don't really matter to me baby
+You believe what you want to believe, you see
+
+You don't have to live like a refugee
+(Don't have to live like a refugee)
+
+Somewhere, somehow, somebody must have kicked you around some
+Tell me why you want to lay there, revel in your abandon
+Honey, it don't make no difference to me, baby
+Everybody's had to fight to be free, you see
+
+You don't have to live like a refugee
+(Don't have to live like a refugee)
+No baby you don't have to live like a refugee
+(Don't have to live like a refugee)
+
+Baby we ain't the first
+I'm sure a lot of other lovers been burned
+Right now this seems real to you, but it's
+One of those things you gotta feel to be true
+
+Somewhere, somehow, somebody must have kicked you around some
+Who knows maybe you were kidnapped, tied up
+Taken away and held for ransom
+Honey, it don't really matter to me, baby
+Everybody's had to fight to be free, you see
+
+Don't have to live like a refugee
+(Don't have to live like a refugee)
+No you don't have to live like a refugee
+(Don't have to live like a refugee)
+You don't have to live like a refugee
+(Don't have to live like a refugee)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: check-it-out-tavares
+lyrics_url: https://www.azlyrics.com/lyrics/tavares/checkitout.html
 name: Check It Out
 rankings:
 - end_date: '1973-09-28'
@@ -55,4 +56,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
 ---
+
+If you need a strong hand
+To guide you through the night
+If you want someone who understands
+Then things can't get uptight
+
+If it means anything to you
+To know that I care for you
+Check it out (Check it out)
+Oh, check it out (Check it out)
+
+I understand complications
+Can sometimes bring you down
+A different situation
+Doesn't always be around
+
+And if it means anything to you
+To know that I care for you
+Check it out (Check it out)
+Baby, check it out (Check it out)
+
+Oh... you know my love is here to stay
+And it will always be that way
+Look at me (Come on and look my way)
+Oh, look at me (My love is here to stay)
+
+Oh... surely you must know
+My love will always grow
+Can't you see (Look into my eyes, girl)
+Mmm, can't you see (Look into my eyes, girl)
+Ooh, can't you see (Ain't a big surprise, girl)
+
+There may not be a dreary day
+For you to suffer through {No, no, no, no}
+If you would let me lead the way
+I'd give the world to you
+
+And if it means anything to you
+Hey
+Check it out (Check it out, check it out, girl)
+Baby, check it out (Check it out, check it out, girl)
+Check out your mind (Check it out, check it out, girl)
+Check it out (Check it out, check it out, girl)
+
+Look into my eyes, girl {Look into my eyes}
+Look into my eyes (Ain't a big surprise, girl)
+Check it out (Check it out, check it out, girl)
+Mmm, check it out (Check it out, check it out, girl)
+Check out your mind (Check it out, check it out, girl)
+Oh, check it out (Check it out, check it out, girl)
+
+Look into my eyes, girl {Look into my eyes}
+Look into my eyes (Ain't a big surprise, girl)
+Check it out (Check it out, check it out, girl)
+Check it out (Check it out, check it out, girl)
+Check out your mind (Check it out, check it out, girl)
+
+
 

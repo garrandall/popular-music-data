@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-s-the-night--gonna-be-alright--rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/tonightsthenightgonnabealright.html
 name: Tonight's The Night (Gonna Be Alright)
 rankings:
 - end_date: '1976-10-08'
@@ -99,4 +100,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
 ---
+
+Stay away from my window
+Stay away from my back door too
+Disconnect the telephone line
+Relax baby and draw that blind
+
+Kick off your shoes and sit right down
+Loosen off that pretty French gown
+Let me pour you a good long drink
+Ooh baby don't you hesitate cause
+
+Tonights the night
+It's gonna be alright
+Cause I love you girl
+Ain't nobody gonna stop us now
+
+C'mon angel my hearts on fire
+Don't deny your man's desire
+You'd be a fool to stop this tide
+Spread your wings and let me come inside
+
+Tonights the night
+It's gonna be alright
+Cause I love you girl
+Ain't nobody gonna stop us now
+
+Don't say a word my virgin child
+Just let your inhibitions run wild
+The secret is about to unfold
+Upstairs before the night's too old
+
+Tonights the night
+It's gonna be alright
+Cause I love you woman
+Ain't nobody gonna stop us now
+
+
 

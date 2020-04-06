@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-catalyst-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/thecatalyst.html
 name: The Catalyst
 rankings:
 - end_date: '2010-08-27'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
 ---
+
+
+God bless us everyone,
+We're a broken people living under loaded gun.
+And it can't be outfought,
+It can't be outdone,
+It can't be outmatched,
+It can't be outrun.
+No!
+
+And when I close my eyes tonight,
+To symphonies of blinding light!
+
+God bless us everyone,
+We're a broken people living under loaded gun.
+Oh!
+
+Like memories in cold decay,
+Transmissions echoing away,
+Far from the world of you and I,
+Where oceans bleed into the sky!
+
+
+God save us everyone,
+Will we burn inside the fires of a thousand suns?
+For the sins of our hands,
+The sins of our tongues,
+The sins of our fathers,
+The sins of our young.
+No!
+
+And when I close my eyes tonight,
+To symphonies of blinding light!
+
+God save us everyone,
+Will we burn inside the fires of a thousand suns?
+
+Ooh!
+
+Like memories in cold decay,
+Transmissions echoing away,
+Far from the world of you and I,
+Where oceans bleed into the sky!
+
+Oh!
+Like memories in cold decay,
+Transmissions echoing away,
+Far from the world of you and I,
+Where oceans bleed into the sky.
+
+
+Lift me up,
+Let me go...
+
+God bless us everyone,
+We're a broken people living under loaded gun
+And it can't be outfought,
+It can't be outdone,
+It can't be outmatched,
+It can't be outrun.
+No!
+
+God bless us everyone,
+We're a broken people living under loaded gun.
+And it can't be outfought,
+It can't be outdone,
+It can't be outmatched,
+It can't be outrun.
+
+
 

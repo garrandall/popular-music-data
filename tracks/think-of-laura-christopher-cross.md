@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-of-laura-christopher-cross
+lyrics_url: https://www.azlyrics.com/lyrics/christophercross/thinkoflaura.html
 name: Think Of Laura
 rankings:
 - end_date: '1983-12-16'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+
+Every once in a while I'd see her smile
+And she'd turn my day around
+A girl with those eyes could stare through the lies
+And see what your heart was saying
+
+Think of Laura but laugh don't cry
+I know she'd want it that way
+When you think of Laura laugh don't cry
+I know she'd want it that way
+
+A friend of a friend, a friend till the end
+That's the kind of girl she was
+Taken away so young
+Taken away without a warning
+
+Think of Laura but laugh don't cry
+I know she'd want it that way
+When you think of Laura laugh don't cry
+I know she'd want it that way
+
+I know you and you're here
+In every day we live
+I know her and well, she's here
+I can feel her when I sing
+
+Hey Laura, where are you now
+Are you far away from here
+I don't think so
+I think you're here
+Taking our tears away
+
+Think of Laura but laugh don't cry
+I know she'd want it that way
+When you think of Laura laugh don't cry
+I know she'd want it that way
+
+
 

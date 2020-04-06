@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-the-beat-around-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/turnthebeataround.html
 name: Turn The Beat Around
 rankings:
 - end_date: '1994-09-30'
@@ -107,4 +108,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-11'
 ---
+
+Turn the beat around
+Love to hear percussion
+Turn it upside down
+Love to hear percussion
+Love to hear it
+
+Blow horns you sure sound pretty
+Your violins keep movin' to the nitty gritty
+But when you hear the scratch of the guitar scratchin'
+Tthen you'll know that rhythm carries all the action, so
+
+Turn the beat around
+Love to hear percussion
+Turn it upside down
+Love to hear percussion
+Love to hear it
+
+Turn the beat around
+Love to hear percussion
+Turn it upside down
+Love to hear percussion
+Love to hear it
+
+Flute player play your flute 'cause
+I know that you want to get your thing off
+But you see I've made up my mind about it
+To me it is the rhythm, no doubt about it, woah woah
+'Cause when the guitar player starts playing
+With the syncopated rhythm, with the scratch, scratch, scratch
+Makes me wanna move my body, yeah, yeah, yeah
+And when the drummer starts beating that beat
+He nails that beat with the syncopated rythm
+With the rat, tat, tat, tat, tat, tat, on the drums, hey
+
+Turn the beat around
+Love to hear percussion
+Turn it upside down
+Love to hear percussion
+Love to hear it
+
+Turn the beat around
+Love to hear percussion
+Turn it upside down
+Love to hear percussion
+Love to hear it
+
+
 

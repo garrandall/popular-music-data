@@ -5,6 +5,7 @@ features:
 - Steve Kazee
 genres: []
 key: a-thousand-years--part-2--christina-perri-steve-kazee
+lyrics_url: https://www.azlyrics.com/lyrics/christinaperri/athousandyearspart2.html
 name: A Thousand Years (Part 2)
 rankings:
 - end_date: '2012-12-07'
@@ -20,4 +21,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
 ---
+
+
+The day we met
+Frozen I held my breath
+Right from the start
+I knew that I'd found a home for my heart
+...beats fast
+Colors and promises
+How to be brave?
+How can I love when I'm afraid to fall?
+But watching you stand alone
+All of my doubt suddenly goes away somehow
+
+
+One step closer
+
+
+I have died everyday waiting for you
+Darling don't be afraid I have loved you
+For a thousand years
+I'll love you for a thousand more
+
+
+Time stands still
+Beauty in all she is
+I will be brave
+I will not let anything take away
+What's standing in front of me
+Every breath
+Every hour has come to this
+
+
+One step closer
+
+I have died everyday waiting for you
+Darling don't be afraid I have loved you
+For a thousand years
+I'll love you for a thousand more
+
+And all along I believed I would find you
+Time has brought your heart to me
+I have loved you for a thousand years
+I'll love you for a thousand more
+
+I'll love you for a thousand more
+
+One step closer
+
+
+I have died everyday waiting for you
+Darling don't be afraid I have loved you
+For a thousand years
+I'll love you for a thousand more
+
+
+And all along I believed I would find you
+Time has brought your heart to me
+I have loved you for a thousand years
+I'll love you for a thousand more
+
+
 

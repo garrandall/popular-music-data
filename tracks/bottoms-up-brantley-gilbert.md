@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bottoms-up-brantley-gilbert
+lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/bottomsup.html
 name: Bottoms Up
 rankings:
 - end_date: '2014-01-10'
@@ -107,4 +108,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
 ---
+
+I see you and me riding like Bonnie and Clyde
+Going ninety five burning down one twenty nine yeah
+Looking for the law, while I push my luck
+She's riding shot gun like it ain't no thing
+Turn the radio up so the girl can sing right
+Pull into the party like, "Y'all wassup"
+
+Tonight is bottoms up
+Throw it on down
+Rock this quiet little country town
+Get up
+Drop the tailgate on ya truck
+Find a keg and fill ya cup up
+Kick it on back
+Pretty little mama looking at ya like that
+Make ya wanna slide on in like, "Girl, what's up"
+Yeah tonight is bottoms up (up up)
+Get em up
+Tonight is bottoms up (up up)
+Get em up
+Damn
+
+Girl I gotta tip my hat
+Never thought a country song make you move like that
+And she's doing it in daisy dukes
+Girl she's got ya tapping on a boys shoulder
+Hey dog check this out
+Man, it's how them girls do it in the dirty south
+She'll have you on your knee, "Can I marry you?"
+
+Yeah tonight is bottoms up
+Throw it on down
+Rock this quiet little country town
+Get up
+Drop the tailgate on ya truck
+Find a keg and fill ya cup up
+Kick it on back
+Pretty little mama looking at ya like that
+Make ya wanna slide on in like, "Girl, what's up"
+Yeah tonight is bottoms up
+Get em up
+Tonight is bottoms up
+Get em up, get em up, get em up
+
+Get em up
+
+Hey y'all whatever ya sipping on,
+Get it up in the air one time
+Bottoms up
+
+Let's give a toast to the good times
+All y'all get your drinks up high
+Everybody feeling alright
+Damn right
+
+'Cause tonight it's bottoms up
+Throw it on down
+Rock this quiet little country town
+And get up, drop the tailgate on ya truck
+Find a keg and fill ya cup up
+Kick it on back
+Pretty little mama looking at ya like that
+Make ya wanna slide on in like, "Girl, what's up"
+
+Tonight is bottoms up
+Throw it on down
+Rock this quiet little country town
+And get up, drop the tailgate on ya truck
+Find a keg and fill ya cup up
+Kick it on back
+Pretty little mama looking at ya like that
+Make ya wanna slide on in like, "Girl, what's up"
+Yeah tonight is bottoms up
+Get em up
+Tonight is bottoms up
+Get em up
+
+
 

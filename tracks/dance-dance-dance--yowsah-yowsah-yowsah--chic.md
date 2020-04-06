@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-dance-dance--yowsah-yowsah-yowsah--chic
+lyrics_url: https://www.azlyrics.com/lyrics/chic/dancedancedanceyowsahyowsahyowsah.html
 name: Dance Dance Dance (Yowsah Yowsah Yowsah)
 rankings:
 - end_date: '1977-11-04'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
+
+Dance, dance, dance, dance
+Keep on dancing
+Dance, dance, dance, dance
+
+Just dancing to the beat
+Feel the heat
+I'm moving my feet
+
+Heading towards the floor
+Gotta get down
+Get down some more
+
+Rumba and tango
+Latin hustle too
+(Yowsah, yowsah, yowsah)
+I wanna boogie with you
+
+Papapapapa
+Papapapapa
+Papapapapa
+Papapapapa
+
+Ooh, what a treat
+Feels so sweet (Ah)
+That body heat
+
+When I'm dancing with my baby
+Drives me crazy
+Makes me hazy
+
+Rumba and tango
+Latin hustle too
+(Yowsah, yowsah, yowsah)
+I wanna boogie with you
+
+Papapapapa
+Papapapapa
+Papapapapa
+Papapapapa
+
+Dance, dance, dance, dance
+Dance, dance, dance, dance
+Dance, dance, dance, dance
+Dance, dance, dance, dance
+
+Dance, dance, dance, dance
+Keep on, keep on
+Dance, dance, dance, dance
+Keep on dancing
+
+Dance, dance, dance, dance
+Keep on, keep on
+Dance, dance, dance, dance
+Keep on dancing
+
+
 

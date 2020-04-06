@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-step-bobby-brown
+lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/everylittlestep.html
 name: Every Little Step
 rankings:
 - end_date: '1989-03-31'
@@ -91,4 +92,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
 ---
+
+Good Lovin'...
+Ow! Yeah!
+
+I can't sleep at night, I toss and turn
+Listenin' for the telephone
+But when I get your call I'm all choked up
+Can't believe you called my home
+And as a matter of fact, it blows my mind
+You would even talk to me
+Because a girl like you is a dream come true
+A real life fantasy
+
+No matter what your friends try to tell ya
+We were made to fall in love
+And we will be together, any kind of weather
+It's like that, it's like that
+
+Every little step I take
+You will be there
+Every little step I make
+We'll be together
+
+Every little step I take
+You will be there
+Every little step I make
+We'll be together
+
+I can't think too straight, I'm all confused
+You must've put a thing on me
+Because there aren't no words that can explain
+I'm livin' in ecstasy
+And you can best believe, I got ya back
+You never have to feel no pain
+'Cause I'd dedicate my life to you
+You'll never look for love again
+
+No matter what your friends try to tell ya
+We were made to fall in love
+And we will be together, any kind of weather
+It's like that, it's like that
+
+Every little step I take
+You will be there
+Every little step I make
+We'll be together
+
+Every little step I take
+You will be there
+Every little step I make
+We'll be together
+
+Every little...woo!
+Every little step I...
+Every little step (Every little...every little step I take)
+
+Girl...good lovin'...
+Good lovin'...
+
+
 

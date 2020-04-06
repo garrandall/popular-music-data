@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucy-in-the-sky-with-diamonds-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/lucyintheskywithdiamonds.html
 name: Lucy In The Sky With Diamonds
 rankings:
 - end_date: '1974-12-06'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
+
+Picture yourself in a boat on a river
+With tangerine trees and marmalade skies
+Somebody calls you, you answer quite slowly
+A girl with kaleidoscope eyes
+
+Cellophane flowers of yellow and green
+Towering over your head
+Look for the girl with the sun in her eyes
+And she's gone
+
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+
+Follow her down to a bridge by a fountain
+Where rocking horse people eat marshmallow pies
+Everyone smiles as you drift past the flowers
+That grow so incredibly high
+
+Newspaper taxis appear on the shore
+Waiting to take you away
+Climb in the back with your head in the clouds
+And you're gone
+
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+
+Newspaper taxis appear on the shore
+Waiting to take you away
+Climb in the back with your head in the clouds
+And you're gone
+
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+
+Picture yourself on a train in a station
+With plasticine porters with looking glass ties
+Suddenly someone is there at the turnstile
+The girl with kaleidoscope eyes
+
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+...
+
+
 

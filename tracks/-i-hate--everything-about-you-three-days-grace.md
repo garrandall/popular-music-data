@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-hate--everything-about-you-three-days-grace
+lyrics_url: https://www.azlyrics.com/lyrics/threedaysgrace/ihateeverythingaboutyou.html
 name: (I Hate) Everything About You
 rankings:
 - end_date: '2003-12-05'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-10'
 ---
+
+Every time we lie awake
+After every hit we take
+Every feeling that I get
+But I haven't missed you yet
+
+Every roommate kept awake
+By every sigh and scream we make
+All the feelings that I get
+But I still don't miss you yet
+
+Only when I stop to think about it
+
+I hate everything about you
+Why do I love you?
+I hate everything about you
+Why do I love you?
+
+Every time we lie awake
+After every hit we take
+Every feeling that I get
+But I haven't missed you yet
+
+Only when I stop to think about it
+
+I hate everything about you
+Why do I love you?
+I hate everything about you
+Why do I love you?
+
+Only when I stop to think about you
+I know
+Only when you stop to think about me
+Do you know?
+
+I hate everything about you
+Why do I love you?
+You hate everything about me
+Why do you love me?
+
+I hate
+You hate
+I hate
+You love me
+
+I hate everything about you
+Why do I love you?
+
+
 

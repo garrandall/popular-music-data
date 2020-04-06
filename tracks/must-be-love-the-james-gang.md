@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: must-be-love-the-james-gang
+lyrics_url: https://www.azlyrics.com/lyrics/jamesgang/mustbelove.html
 name: Must Be Love
 rankings:
 - end_date: '1974-02-08'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
+
+Lord I'm feelin'
+Kinda weak in the knees
+Somebody help me if I fall please
+
+My head is spinnin'
+But I can't get enough
+Got the feelin'
+It must be love
+
+You can't see
+I ain't got much sleep
+Bags under my eyes clear down to my cheeks
+My head is spinning but I can't get enough
+Got this feelin'
+Must be love
+
+
+Must be love, must be love
+Woahh, oohhh, must be love
+
+Now I enjoy the time I spent
+A-livin' alone
+But I've been thinkin' about
+Sharin' my home
+My head is spinning but I can't get enough
+Got this feelin'
+Must be love
+
+
+
+
+
+I'm not complainin'
+Sometimes I'm feelin' so good
+I never thought it would
+Happen this way
+Whole lotta' lightning
+Come down from the sky
+Hit me so hard it
+Take my breath away
+
+
 

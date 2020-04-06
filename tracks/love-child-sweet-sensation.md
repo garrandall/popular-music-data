@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-child-sweet-sensation
+lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/lovechild.html
 name: Love Child
 rankings:
 - end_date: '1990-03-23'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
 ---
+
+You think that I don't feel love
+But what I feel for you is real love
+In other's eyes I see reflected, a hurt, scorn, rejected...
+
+Love child, never meant to be
+Love child, born in poverty
+Love child, never meant to be
+Love child, take a look at me
+
+Started my life, in an old, cold, run down tenement slum
+My father left, he never even married mom
+Or shared the gift my momma knew
+So afraid that others knew I had no name
+This love we're contemplating
+Isn't worth the pain of waiting
+We'll only end up hating the child, we may be creating
+
+Love child, never meant to be
+Love child, society
+Love child, always second best
+Love child, different from the rest
+
+Started school, in a worn, torn dress that somebody threw out
+I knew the way it felt to always live in doubt
+To be without the simple things
+So afraid my friends could see the guilt in me
+Don't think that I don't need ya
+Don't think that I don't want to please ya
+But no child of mine will be bearing, the name of shame I be wearing
+
+Love child, never meant to be
+Love child, born in poverty
+Love child, never meant to be
+Love child, take a look at me
+
+Love child, never meant to be
+Love child, society
+Love child, always second best
+Love child, different from the rest
+
+Love child, never quite as good
+Afraid, ashamed, misunderstood
+I will always love you, I will always love you
+...
+
+
 

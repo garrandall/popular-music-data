@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-the-rain--the-21st-century
+lyrics_url: https://www.azlyrics.com/lyrics/builttospill/alloursongs.html
 name: Remember The Rain?
 rankings:
 - end_date: '1975-06-06'
@@ -11,4 +12,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
 ---
+
+You can see right into my mind,
+If I can keep it together
+Someone's gotta look for you to find,
+It's all out there somewhere
+And all our songs,
+Back before I even remember
+I like all those old songs
+Sound like the've been here forever
+
+Ah, when it's over, then it's over 
+Or so they say we've been over this and we know that there's no other way
+And it's so hard to tell the face that never rang a bell
+It's like a light bulb went out in my head
+And now we settle for this complicated metaphor
+And leave the simple truth unsaid
+
+ll night we listened to their second record
+It had all these songs
+Sounded like we're in this together
+And I found a place
+Where I know I'll always be tethered
+And I knew when I woke up
+Rock and roll will be here forever
+
+Form a cloud,
+make all of your particles seperate and get together
+Rain on down,
+show everybody what it means to get wet      
+Let's take down all the umbrellas
+of all of our enemies
+I'll be fine,
+in Idaho, America in the 21st century
+
+Oh yeah, that's right, I'm sure I'll be alright
+I'm sure I'll be alright
+I'm sure that I'll be alright
+but I don't know
+I don't know
+
+Oh, I'm sure, that I'll be alright,
+but I don't know,
+I don't know
+
+I'm sure that you can smell the spider
+But did you know that thing was in your face?
+
+I'm sure that you can smell the spider
+But did you know that thing was in your face?
+
+
 

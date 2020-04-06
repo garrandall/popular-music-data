@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cut-the-cake-awb
+lyrics_url: https://www.azlyrics.com/lyrics/averagewhiteband/cutthecake.html
 name: Cut The Cake
 rankings:
 - end_date: '1975-04-18'
@@ -67,4 +68,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
 ---
+
+Cut the cake
+Give me a little piece
+Let me lick up the cream
+Cut the cake
+Well, just a little piece
+Baby you know what I mean
+Cut the cake
+Give me a little piece
+A little lovin' on the side
+Cut the cake
+I need a little piece
+Just to keep me satisfied
+
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+Well it tastes so good don't pass it all around
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+You got to cut it-down
+
+Cut the cake
+Just a little piece
+Of your sweet love
+Cut the cake
+Don't you know that I
+Can't get enough
+Cut the cake
+Want you to know that I
+Ain't a greedy man
+Cut the cake
+Don't you know that I'll
+Do the best I can
+
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+Well it tastes so good don't pass it all around
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+You got to cut it-down
+
+Cut the cake
+Give me a little piece
+Let me lick up the cream
+Cut the cake
+Well, just a little piece
+Baby you know what I mean
+Cut the cake
+Give me a little piece
+A little lovin' on the side
+Cut the cake
+I need a little piece
+Just to keep me satisfied
+
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+Well it tastes so good don't pass it all around
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+Never knew you cooked the way you do
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme gimme gimme that cake
+Tastes so good don't pass the recipe around
+Gimme, gimme, gimme, gimme
+Gimme gimme gimme
+
+
 

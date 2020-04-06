@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cheyenne-jason-derulo
+lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/cheyenne.html
 name: Cheyenne
 rankings:
 - end_date: '2015-08-21'
@@ -35,4 +36,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
 ---
+
+I'm a little unsure how it got so complicated
+If I let go I know I'll regret it
+Every heart that I held before, I was sure to break it
+I don't know what you did
+
+But I just can't stop
+Thinking about you every day
+No, I can't stop now
+
+Look what we started, baby
+You're not what I expected
+'Cause all I ever wanted was some fun
+Look what we started, baby
+I used to look for exits
+'Cause all I ever wanted was some fun
+
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+
+Cheyenne
+
+Got the table set for two guess you couldn't make it
+Thought I kissed your lips again, I was dreaming
+I still believe that night we shared was something sacred
+I'm tryna clear my head
+
+But I just can't stop
+Thinking about you every day
+No, I can't stop now
+
+Look what we started, baby
+You're not what I expected
+'Cause all I ever wanted was some fun
+Cheyenne
+Look what we started, baby
+I used to look for exits
+'Cause all I ever wanted was some fun
+
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+
+Cheyenne
+Cheyenne
+Cheyenne
+Cheyenne
+
+No, I can't stop
+Thinking about you every day
+No, I can't stop now
+
+Look what we started, baby
+You're not what I expected
+'Cause all I ever wanted was some fun
+Look what we started, baby
+I used to look for exits
+'Cause all I ever wanted was some fun
+
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+I never meant to fall in love
+
+Cheyenne
+Cheyenne
+Cheyenne
+Cheyenne
+
+Cheyenne
+
+
 

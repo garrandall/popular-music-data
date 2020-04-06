@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drive-incubus
+lyrics_url: https://www.azlyrics.com/lyrics/incubus/drive.html
 name: Drive
 rankings:
 - end_date: '2001-02-23'
@@ -163,4 +164,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-10'
 ---
+
+Sometimes I feel the fear of the uncertainty stinging clear
+And I can't help but ask myself how much I'll let the fear take the wheel and steer
+
+It's driven me before, and it seems to have a vague
+Haunting mass appeal
+Lately I'm beginning to find that I should be the one behind the wheel
+
+Whatever tomorrow brings, I'll be there
+With open arms and open eyes, yeah
+Whatever tomorrow brings, I'll be there, I'll be there
+
+So if I decide to waiver my chance to be one of the hive
+Will I choose water over wine and hold my own and drive, oh oh
+It's driven me before, and it seems to be the way
+That everyone else gets around
+Lately, I'm beginning to find that when I drive myself, my light is found
+
+Whatever tomorrow brings, I'll be there
+With open arms and open eyes, yeah
+Whatever tomorrow brings, I'll be there, I'll be there
+
+Would you choose water over wine, hold the wheel and drive?
+
+Whatever tomorrow brings, I'll be there
+With open arms and open eyes, yeah
+Whatever tomorrow brings, I'll be there, I'll be there
+
+
 

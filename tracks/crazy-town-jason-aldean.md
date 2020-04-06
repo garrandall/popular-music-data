@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-town-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/crazytown.html
 name: Crazy Town
 rankings:
 - end_date: '2010-05-07'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
 ---
+
+Roll into town, step off the bus
+Shake off the where, you came from dust
+Grab you guitar, walk down the street
+Sign says Nashville, Tennessee
+But I have found
+
+It's a crazy town, full of neon dreams
+Everybody plays, everybody sings
+Hollywood with a touch of twang
+To be a star you gotta bang, bang, bang
+
+Bend those strings till the Hank comes out
+Make all the drunk girls scream and shout
+We love it, we hate it, we're all just trying to make it
+In this crazy town
+
+Pay your dues and you play for free
+And you pray for a honky tonk destiny
+You cut your teeth in the smokey bars
+And live off the tips from a pickle jar
+'Til find a cool new sound and you smile
+When the record man shoots you down
+
+It's a crazy town, full of neon dreams
+Everybody plays, everybody sings
+Hollywood with a touch of twang
+To be a star you gotta bang, bang, bang
+
+Bend those strings till the hank comes out
+Make all the drunk girls scream and shout
+We love it, we hate it, we're all just trying to make it
+In this crazy town
+
+One year they repossess your Truck
+And the next you make a couple million bucks
+
+It's a crazy town full of neon dreams
+Everybody plays, everybody sings
+Hollywood with a touch of twang
+To be a star you gotta
+
+Bend those strings till the hank comes out
+Make all the drunk girls scream and shout
+We love it, we hate it, we're all just trying to make it
+We love it, we hate it, we all came here to make it
+In this crazy town, it's a crazy town
+
+
 

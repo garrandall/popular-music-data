@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lookin--through-the-windows-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/lookinthroughthewindows.html
 name: Lookin' Through The Windows
 rankings:
 - end_date: '1972-07-21'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
 ---
+
+(Lookin' through the window)
+(Lookin' through the window)
+(Lookin' through the window)
+(The window)
+(Through the window)
+(Lookin' through the window)
+
+Lookin' through the windows
+The window to your heart
+Oh baby, yeah
+I can see it's cloudy
+The rain's about to start
+
+Lookin' through the windows
+(Lookin' through the window)
+It seems I caused your fears
+Yeah, yeah, yeah
+And that little doubt, girl
+(And your little doubt, girl)
+And now it's bringing tears
+(And it's bringing tears)
+
+(Remember)
+Just remember whatever makes you feel that way
+Don't you worry 'cause I'm gonna stay
+Right by your side
+(By your side)
+To keep on lookin' through the windows
+Lookin' in your eyes
+
+Looking through the windows
+(Lookin' through the window)
+Seems like the only way, yeah
+I can't know your feelings
+If you still love me today
+
+(Remember)
+Just remember whatever makes you feel that way
+Don't you worry 'cause I'm gonna stay
+Right by your side
+(By your side)
+To keep on lookin' through the windows
+Lookin' in your eyes
+
+
 

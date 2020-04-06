@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surfin--safari-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfinsafari.html
 name: Surfin' Safari
 rankings:
 - end_date: '1962-08-17'
@@ -75,4 +76,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+
+Let's go surfin' now
+Everybody's learning how
+Come on and safari with me
+(Come on and safari with...)
+
+Early in the morning we'll be startin' out
+Some honeys will be coming along
+We're loading up our Woody
+With our boards inside
+And headin' out singing our song
+
+Come on (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+Come along (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+
+Let's go surfin' now
+Everybody's learning how
+Come on and safari with me
+(Come on and safari with...)
+
+At Huntington and Malibu
+They're shooting the pier
+At Rincon they're walking the nose
+We're going on safari to the islands this year
+So if you're coming get ready to go
+
+Come on (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+Come along (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+
+Let's go surfin' now
+Everybody's learning how
+Come on and safari with me
+(Come on and safari with...)
+
+They're anglin' in Laguna in Cerro Azul
+They're kicking out in Doheny too
+I tell you surfing's mighty wild
+It's getting bigger every day
+From Hawaii to the shores of Peru
+
+Come on (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+Come along (surfin') baby wait and see (surfin' safari)
+Yes I'm gonna (surfin') take you surfin' (surfin' safari)with me
+
+Let's go surfin' now
+Everybody's learning how
+Come on and safari with me
+(Come on and safari with...)
+
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+With me
+Surfin' Safari
+
+
 

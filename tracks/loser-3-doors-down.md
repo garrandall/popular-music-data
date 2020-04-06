@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loser-3-doors-down
+lyrics_url: https://www.azlyrics.com/lyrics/3doorsdown/loser.html
 name: Loser
 rankings:
 - end_date: '2000-10-27'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
 ---
+
+Breathe in right away
+Nothing seems to fill this place
+I need this every time
+So take your lies, get off my case
+
+Someday I will find
+A love that flows through me like this
+And this will fall away
+This will fall away
+
+You're getting closer
+To pushing me off of life's little edge
+'Cause I'm a loser
+And sooner or later you know I'll be dead
+
+You're getting closer
+You're holding the rope and I'm taking the fall
+'Cause I'm a loser
+I'm a loser, yeah
+
+This is getting old
+I can't break these chains that I hold
+My body's growing cold
+There's nothing left of this mind or my soul
+
+Addiction needs a pacifier
+The buzz of this poison is taking me higher
+And this will fall away
+This will fall away
+
+You're getting closer
+To pushing me off of life's little edge
+'Cause I'm a loser
+And sooner or later you know I'll be dead
+
+You're getting closer
+You're holding the rope and I'm taking the fall
+'Cause I'm a loser
+Well, I'm a loser
+
+You're getting closer
+To pushing me off of life's little edge
+'Cause I'm a loser
+And sooner or later you know I'll be dead
+
+You're getting closer
+You're holding the rope and I'm taking the fall (taking the fall)
+'Cause I'm a loser
+Yeah, yeah, yeah, yeah, yeah
+
+You're getting closer
+To pushing me off of life's little edge
+'Cause I'm a loser (baby)
+And sooner or later you know I'll be dead (sooner or later)
+
+You're getting closer
+You're holding the rope and I'm taking the fall (I'm taking, I'm taking)
+'Cause I'm a loser
+Yeah
+
+
 

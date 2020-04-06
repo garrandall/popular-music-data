@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-a-rock-bob-seger
+lyrics_url: https://www.azlyrics.com/lyrics/bobseger/likearock.html
 name: Like A Rock
 rankings:
 - end_date: '1986-05-30'
@@ -59,4 +60,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
 ---
+
+Stood there boldly
+Sweatin' in the sun
+Felt like a million
+Felt like number one
+The height of summer
+I'd never felt that strong
+Like a rock
+
+I was eighteen
+Didn't have a care
+Working for peanuts
+Not a dime to spare
+But I was lean and
+Solid everywhere
+Like a rock
+
+My hands were steady
+My eyes were clear and bright
+My walk had purpose
+My steps were quick and light
+And I held firmly
+To what I felt was right
+Like a rock
+
+Like a rock
+I was strong as I could be
+Like a rock
+Nothin' ever got to me
+Like a rock
+I was something to see
+Like a rock
+
+And I stood arrow-straight
+Unencumbered by the weight
+Of all these hustlers and their schemes
+I stood proud, I stood tall
+High above it all
+I still believed in my dreams
+
+Twenty years now
+Where'd they go?
+Twenty years
+I don't know
+I sit and I wonder sometimes
+Where they've gone
+
+And sometimes late at night
+Oh, when I'm bathed in the firelight
+The moon comes callin' a ghostly white
+And I recall
+I recall
+
+Like a rock
+Standin' arrow-straight
+Like a rock
+Chargin' from the gate
+Like a rock
+Carryin' the weight
+Like a rock
+
+Like a rock
+The sun upon my skin
+Like a rock
+Hard against the wind
+Like a rock
+I see myself again
+Like a rock
+Oh, like a rock!
+
+
 

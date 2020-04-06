@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-to-be-real-cheryl-lynn
+lyrics_url: https://www.azlyrics.com/lyrics/cheryllynn/gottobereal.html
 name: Got To Be Real
 rankings:
 - end_date: '1978-12-08'
@@ -79,4 +80,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
 ---
+
+What you find-ah
+What you feel now
+What you know-a
+To be real
+
+What you find, ah
+(I think I love you, baby)
+What you feel now
+(I feel I need you, baby)
+What you know-a
+To be real
+
+Ooh, your love's for real now
+You know that your love is my love
+My love is your love
+Our love is here to stay
+
+What you find-ah
+What you feel now
+What you know-a
+To be real
+
+Ooh, your love's for real now
+You know that your love is my love
+My love is your love
+Our love is here to stay
+
+What you find, ah
+(I think I love you, baby)
+What you feel now
+(I feel I need you, baby)
+What you know-a
+To be real
+
+What you find, ah
+(I think I love you, baby)
+What you feel now
+(I feel I need you)
+What you know-a
+To be real...
+
+
 

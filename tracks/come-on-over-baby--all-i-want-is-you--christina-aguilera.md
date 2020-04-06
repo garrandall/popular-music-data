@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-over-baby--all-i-want-is-you--christina-aguilera
+lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/comeonoveralliwantisyou.html
 name: Come On Over Baby (All I Want Is You)
 rankings:
 - end_date: '2000-08-11'
@@ -91,4 +92,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-23'
 ---
+
+C'mon over, c'mon over, baby. 
+
+Hey, boy, don't you know
+I've got something going on (Yes, I do)
+All my friends are gonna come gonna party all night long
+I know, you know, I just want us to go
+The fun we'll have fun you'll never be alone
+So boy, won't you come?
+We will party till the dawn. Listen to me...
+
+All I want is you (Come over here baby)
+All I want is you (You make me go crazy)
+All I want is you, now baby don't be shy (You better cross the line)
+I'm gonna love you right (All I want is you!)
+
+C'mon over, c'mon over, baby. 
+
+I want you to know you could be the one for me (Yes, you could)
+You've got all I'm looking for
+You've got personality
+I know, you know, I'm gonna give more
+But boy you know, I never felt this way before
+So, boy won't you come? won't you come
+And open the door? listen to me.
+
+All I want is you (Come over here baby)
+All I want is you (You make me go crazy)
+All I want is you (now baby dont be shy)
+you better cross the line 
+im gunna love you right. (all I want is you!)
+come on over, come on over baby 
+
+now baby dont be shy, you better cross the line,
+im gunna love you right! oh baby
+
+All I want is you (Come over here baby)
+All I want is you (You make me go crazy)
+All I want is you (now baby dont be shy)
+you better cross the line
+im gunna love you right 
+coz all I want is you!
+
+
 

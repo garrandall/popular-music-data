@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-night-at-a-time-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/onenightatatime.html
 name: One Night At A Time
 rankings:
 - end_date: '1997-04-11'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-21'
 ---
+
+I'm not yours and baby you're not mine.
+We've got something that sure is fine.
+Let's take our love one night at a time.
+
+There's one thing that we both agree.
+I like you and baby you like me.
+Let's take our love one night at a time.
+
+
+All night, love all night, practice makes perfect, gonna get it right
+Gonna get it right, one night at a time.
+
+Oh I think about you all day long.
+It feels so good, it can't be wrong.
+I got my fingers crossed that this goes on and on.
+
+Tomorrow well that's another day.
+Come on baby, now whatta you say.
+Let's take our love one night at a time.
+
+
+
+
 

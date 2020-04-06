@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-looks-so-perfect-5-seconds-of-summer
+lyrics_url: https://www.azlyrics.com/lyrics/im5/shelookssoperfect.html
 name: She Looks So Perfect
 rankings:
 - end_date: '2014-04-25'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
 ---
+
+
+Simmer down, simmer down
+They say we're too young now to amount to anything else
+But look around
+We work too damn hard for this just to give it up now
+If you don't swim, you'll drown
+But don't move, honey
+
+
+She looks so perfect standing there
+In my American Apparel underwear
+And I know now, that I'm so down
+Your lipstick stain is a work of art
+I got your name tattooed in an arrow heart
+And I know now, that I'm so down
+
+
+Let's get out, let's get out
+'Cause this deadbeat town's only here just to keep us down
+While I was out, I found myself alone just thinking
+If I showed up with a plane ticket
+And a shiny diamond ring with your name on it
+Would you wanna run away too?
+'Cause all I really want is you
+
+
+She looks so perfect standing there
+In my American Apparel underwear
+And I know now, that I'm so down
+I made a mixtape straight out of '94
+I've got your ripped skinny jeans lying on the floor
+And I know now, that I'm so down
+
+Hey!
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+
+
+You look so perfect standing there
+In my American Apparel underwear
+And I know now, that I'm so down
+Your lipstick stain is a work of art
+I got your name tattooed in an arrow heart
+And I know now, that I'm so down
+
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+Hey, hey, hey, hey
+
+
+She looks so perfect standing there
+In my American Apparel underwear
+And I know now, that I'm so down
+Your lipstick stain is a work of art (hey, hey)
+I got your name tattooed in an arrow heart (hey, hey)
+And I know now, that I'm so down (hey, hey)
+
+
 

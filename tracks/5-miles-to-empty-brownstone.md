@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 5-miles-to-empty-brownstone
+lyrics_url: https://www.azlyrics.com/lyrics/brownstone/5milestoempty.html
 name: 5 Miles To Empty
 rankings:
 - end_date: '1997-05-23'
@@ -71,4 +72,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
 ---
+
+Oh yeah, yeah, yeah, yeah, yeah, yeah 
+Yeah, yeah, yeah, yeah, yeah, yeah 
+Oh yeah, oh yeah, yeah, yeah, yeah 
+
+Oh baby 
+Can we sit down and talk for a minute 
+You know that we've got a few things 
+We need to work out, oh yeah 
+You can, spare me all your sorry details 
+Had enough of all your lies 
+And my silence cries 
+
+Hurry, hurry, quick, quick 
+I need a man who's gonna do me right 
+Hurry, hurry, quick, quick 
+Somebody who will surely satisfy 
+When I think of your love 
+It only makes me stop and wonder 
+Truly why, oh why 
+Oh, Why would you make me cry, oh baby 
+
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love, babe 
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love 
+
+We spend so much time 
+We're always fighting desperately trying for love 
+We know won't last much longer, no, no, but baby 
+Such a waste of time when we're praying though 
+Some are saying that we won't last much longer than a day 
+No, no, no, no, no 
+
+Hurry, hurry, quick, quick 
+I need a man who's gonna do me right 
+Hurry, hurry, quick, quick 
+Somebody who is gonna satisfy my needs, yeah 
+When I think of your love 
+It only makes me stop and wonder 
+Truly why, oh why 
+Oh, why would you make me cry, oh baby 
+
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love, babe 
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love 
+
+5 miles to a empty 
+My heart is running low 
+
+5 miles to empty 
+My heart is running low 
+
+Hurry, hurry, quick, quick 
+Oh, I need a man who will promise to always do right 
+Hurry, hurry, quick, quick 
+Oh, looking for someone who's gonna satisfy 
+When I think of your love 
+It only makes me stop and wonder 
+Truly why, oh why 
+Why would you make me cry, oh baby 
+
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love, babe 
+5 miles to empty 
+My heart is running low, whoa 
+I need a good man to fill me up 
+I need a good man to give me love 
+
+Five miles to empty 
+
+
 

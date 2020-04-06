@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: famous-in-a-small-town-miranda-lambert
+lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/famousinasmalltown.html
 name: Famous In A Small Town
 rankings:
 - end_date: '2007-10-12'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
 ---
+
+They say life is so much sweeter
+Through the telephoto lens of fame
+Around here you get just as much attention
+Cheerin' at the high school football game
+
+I dreamed of going to Nashville
+Put my money down and placed my bet
+But I just got the first buck of the season
+I made the front page of the Turner "Town Gazette"
+
+Every last one, route one, rural heart's got a story to tell
+Every grandma, in law, ex girlfriend
+Maybe knows you just a little too well
+Whether you're late for church or you're stuck in jail
+Hey words gonna get around
+Everybody dies famous in a small town
+
+Tyler and Casey broke up
+It ended pretty quietly
+We heard he was caught red-handed with her mama
+That's just what they let us all believe
+
+Every last one, route one, rural heart's got a story to tell
+Every grandma, in law, ex girlfriend
+Maybe knows you just a little too well
+Whether you're late for church or you're stuck in jail
+Hey words gonna get around
+Everybody dies famous in a small town
+
+Baby who
+Needs their faces in a magazine
+Me and you
+We've been stars of the town since we were 17
+
+Let's go on down to the quick stop
+Wear your yellow shades
+And I'll put on my tight jeans
+And we'll just spend the weekend burnin' rubber
+And we'll let em point and stare in disbelief
+
+Every last one, route one, rural heart's got a story to tell
+Every grandma, in law, ex girlfriend
+Maybe knows you just a little too well
+Whether you're late for church or you're stuck in jail
+Hey words gonna get around
+Everybody dies famous in a small town
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-yourself-audioslave
+lyrics_url: https://www.azlyrics.com/lyrics/audioslave/beyourself.html
 name: Be Yourself
 rankings:
 - end_date: '2005-04-01'
@@ -79,4 +80,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
 ---
+
+Someone falls to pieces
+Sleeping all alone
+Someone kills the pain
+Spinning in the silence
+She finally drifts away
+
+Someone gets excited
+In a chapel yard
+And catches a bouquet
+Another lays a dozen
+White roses on a grave
+
+And to be yourself is all that you can do
+To be yourself is all that you can do
+
+Someone finds salvation in everyone
+Another only pain
+Someone tries to hide himself
+Down inside himself he prays
+
+Someone swears his true love
+Until the end of time
+Another runs away
+Separate or united?
+Healthy or insane?
+
+And to be yourself is all that you can do
+To be yourself is all that you can do
+To be yourself is all that you can do
+To be yourself is all that you can do
+
+Even when you've paid enough
+Been pulled apart or been held up
+With every single memory of
+The good or bad, faces of luck
+Don't lose any sleep tonight
+I'm sure everything will end up alright
+
+You may win or lose
+
+But to be yourself is all that you can do
+To be yourself is all that you can do
+
+To be yourself is all that you can do
+To be yourself is all that you can do
+To be yourself is all that you can
+Be yourself is all that you can
+Be yourself is all that you can do
+
+
 

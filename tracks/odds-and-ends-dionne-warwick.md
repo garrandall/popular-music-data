@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: odds-and-ends-dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/oddsandends.html
 name: Odds And Ends
 rankings:
 - end_date: '1969-08-01'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
 ---
+
+Your pillow wasn't slept upon
+Your closet was empty, too
+All of your shirts and ties were gone
+There wasn't a trace of you
+How could you go and leave so completely?
+Nothing was left
+Of all the memories that we used to share
+Just an empty tube of toothpaste
+And a half-filled cup of coffee
+Odds and ends of a beautiful love affair
+
+At least you could have said goodbye
+You shouldn't have to run away
+Were you afraid that I would cry?
+My tears might have made you stay
+Gone are the dreams that kept us together
+Nothing was left
+To show that we were once so happy then
+Just an empty tube of toothpaste
+And a half-filled cup of coffee
+Odds and ends of a beautiful love affair
+
+How could you go and leave so completely?
+Nothing was left
+Of all the memories that we used to share
+Just an empty tube of toothpaste
+And a half-filled cup of coffee
+Odds and ends of a beautiful love affair
+Odds and ends of a beautiful love affair
+
+
 

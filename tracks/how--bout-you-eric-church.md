@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how--bout-you-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/howboutyou.html
 name: How 'Bout You
 rankings:
 - end_date: '2006-07-28'
@@ -23,4 +24,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-08-12'
 ---
+
+I know where I come from:
+How 'bout you?
+I don't need baggy clothes,
+Or rings in my nose to be cool.
+The scars on my knuckles,
+Match these scuffs on these cowboy boots.
+An' there's a whole lot more like me:
+How 'bout you?
+
+I punch the clock tryin' to make it to the top:
+How 'bout you?
+I ain't got no blue-blood trust fund,
+I can dip in to.
+Yeah, I wish Uncle Sam would give a damn,
+About the man who's collar's blue.
+But if he don't, hell, I'll make it on my own:
+How 'bout you?
+
+An' how 'bout you?
+Do you feel the way I do?
+To tell the truth,
+I think we're the chosen few.
+But that's just me:
+How 'bout you?
+
+I still say: "Yes, Ma'am" to my Momma:
+How 'bout you?
+If I shake your hand, look you in the eye,
+You can bet your ass, it'll be the truth.
+I cover my heart with my hat,
+When they fly that Red, White and Blue,
+Just like my Daddy taught me:
+How 'bout you?
+
+An' how 'bout you?
+Do you feel the way I do?
+To tell the truth,
+I think we're the chosen few.
+But that's just me:
+Well, how 'bout you?
+
+I like my country rockin',
+How 'bout you?
+Just put me on a stage, man,
+Turn it up an' I'll turn it loose.
+Yeah, give me a crowd that's redneck an' loud,
+We'll raise the roof.
+Hell, I might just stay all night long.
+
+How 'bout you?
+Do you feel the way I do?
+To tell the truth,
+I think we're the chosen few.
+An' how 'bout you?
+Do you feel the way I do?
+'Cause, man, I know where I come from:
+How 'bout you?
+
+
 

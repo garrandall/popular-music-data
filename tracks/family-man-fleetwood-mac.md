@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: family-man-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/familyman.html
 name: Family Man
 rankings:
 - end_date: '1988-04-08'
@@ -23,4 +24,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
+
+Walk down this road
+When the road gets rough
+I fall down
+I get up
+I am what I am...
+A family man
+I am what I am...
+A family man
+Mother... father... brother...
+Mother... father... brother...
+Walk down this road
+In the cool of the night
+Don't know what's wrong
+But I do know what's right
+I am what I am...
+A family man
+I am what I am...
+A family man
+Mother... father... brother...
+Mother... father... brother...
+I am what I am...
+A family man
+I am what I am...
+A family man
+Mother... father... brother...
+Mother... father... brother...
+
+
 

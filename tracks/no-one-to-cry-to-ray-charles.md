@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-to-cry-to-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/noonetocryto.html
 name: No One To Cry To
 rankings:
 - end_date: '1964-07-24'
@@ -31,4 +32,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
 ---
+
+(I need someone to say I do)
+No one to cry to now, no one to say goodnight
+No one to tell my troubles to
+
+I've got no one, to sigh to, no one to hold me
+Tight
+No one to chear me when I'm blue
+
+When I go home to my lonely room
+And find there's no one there
+And each night I think of you, so please answer this
+One prayer
+
+And you'll need someone, I said to cry to
+Someone to say I do
+Someone to whisper I love you
+
+When I go home to my lonely room
+And find there's no one there
+And each night I think of you, so please answer this
+One prayer
+
+And you'll need someone, I said to cry to
+Someone to say I do
+Someone to whisper I love you
+
+
 

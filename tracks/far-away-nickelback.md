@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: far-away-nickelback
+lyrics_url: https://www.azlyrics.com/lyrics/nickelback/faraway.html
 name: Far Away
 rankings:
 - end_date: '2006-08-11'
@@ -127,4 +128,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
 ---
+
+This time, this place
+Misused mistakes
+Too long, too late
+Who was I to make you wait
+
+Just one chance
+Just one breath
+Just in case there's just one left
+'Cause you know, you know, you know
+
+I love you
+I've loved you all along
+And I miss you
+Been far away for far too long
+
+I keep dreaming
+You'll be with me
+And you'll never go
+Stop breathing
+If I don't see you anymore
+
+On my knees I'll ask
+Last chance for one last dance
+'Cause with you I'd withstand
+All of hell to hold your hand
+
+I'd give it all
+I'd give for us
+Give anything but I won't give up
+'Cause you know, you know, you know
+
+I love you
+I've loved you all along
+And I miss you
+Been far away for far too long
+
+I keep dreaming you'll be with me
+And you'll never go
+Stop breathing
+If I don't see you anymore
+
+So far away
+So far away
+Been far away for far too long
+So far away
+So far away
+Been far away for far too long
+But you know, you know, you know
+
+I wanted
+I wanted you to stay
+'Cause I needed
+I need to hear you say
+
+"I love you
+I've loved you all along
+And I forgive you
+For being away for far too long
+
+So keep breathing
+'Cause I'm not leaving you anymore
+Believe it
+Hold on to me and never let me go
+
+Keep breathing
+'Cause I'm not leaving you anymore
+Believe it
+Hold on to me and never let me go
+
+Keep breathing
+Hold on to me and never let me go
+Keep breathing
+Hold on to me and never let me go"
+
+
 

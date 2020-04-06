@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-miss-you-so-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/imissyouso.html
 name: I Miss You So
 rankings:
 - end_date: '1959-04-05'
@@ -43,4 +44,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+
+Those happy hours I spent with you
+That lovely afterglow
+Most of all I miss you so
+
+Your sweet caresses, each rendezvous
+Your voice so soft and low
+Most of all I miss you so
+
+You once filled my heart
+With no regrets, no fears
+Now you find my heart
+Filled to the top with tears
+
+I'll always love you and want you, too
+How much you'll never know
+Most of all I miss you so
+
+I'll always love you and want you, too
+How much you'll never know
+Most of all I miss you so
+(Ah, ah, ah, ah)
+
+
 

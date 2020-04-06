@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-rain-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/letitrain108707.html
 name: Let It Rain
 rankings:
 - end_date: '1972-09-29'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
 ---
+
+The rain is falling through the mist
+Of sorrow that surrounded me.
+The sun could never thaw away
+The the bliss that lays around me.
+
+
+Let it rain, let it rain,
+Let your love rain down on me.
+Let it rain, let it rain,
+Let it rain, rain, rain.
+
+Her life was like a desert flower
+Burning in the sun.
+Until I found the way to love,
+It's harder said than done.
+
+
+
+Now I know the secret;
+There is nothing that I lack.
+If I give my love to you,
+You'll surely give it back.
+
+
+
+
 

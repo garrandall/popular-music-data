@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: words-the-monkees
+lyrics_url: https://www.azlyrics.com/lyrics/monkees/words.html
 name: Words
 rankings:
 - end_date: '1967-07-28'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+
+Girl, don't you know everytime I see you smilin'?
+Hurts so bad cause when I see you, I start tryin'.
+Try everything to stop but there's no denying.
+Falling in love with you girl is just like dying.
+
+Ohhh, don't walk away.
+Ohh, How can I make you stay, don't turn away
+I can still hear you saying those
+
+
+Words that never were true.
+Spoken to help nobody but you.
+Words with lies inside,
+But small enough to hide
+'Til your playin' was through. Ah!
+
+Girl don't you know we can work it out with talkin'?
+You won't turn around or slow down your walking.
+I've given you everything with kiss to seal it
+You had to get your kicks with tryin' to steal it.
+
+Now, I'm standing here.
+Strange, strange voices in my ears, I feel the tears
+But all I can hear are those
+
+
+
+Now, I'm standing here.
+Strange, strange voices in my ears, I feel the tears
+But all I can hear are those-
+
+
+
+
 

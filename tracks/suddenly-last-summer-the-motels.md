@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suddenly-last-summer-the-motels
+lyrics_url: https://www.azlyrics.com/lyrics/motels/suddenlylastsummer.html
 name: Suddenly Last Summer
 rankings:
 - end_date: '1983-09-09'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
 ---
+
+It happened one summer
+It happened one time
+It happened forever
+For a short time
+A place for a moment
+An end to a dream
+Forever I loved you
+Forever it seemed
+
+One summer never ends
+One summer never began
+It keeps me standing still
+It takes all my will
+And then suddenly
+Last summer
+
+Sometimes I never leave
+But sometimes I would
+Sometimes I stay too long
+Sometimes I would
+Sometimes it frightens me
+Sometimes it would
+Sometimes I'm all alone
+And wish that I could
+
+One summer never ends
+One summer never begins
+It keeps me standing still
+It takes all my will
+And then suddenly
+Last summer
+And then suddenly
+Last summer
+
+One summer never ends
+One summer never begins
+It keeps me standing still
+It takes all my will
+And then suddenly
+Last summer
+And then suddenly
+Last summer
+Until suddenly
+Last summer
+
+And then suddenly
+Last summer
+Until suddenly
+Last summer
+
+
 

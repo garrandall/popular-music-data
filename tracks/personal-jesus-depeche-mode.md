@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: personal-jesus-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/personaljesus.html
 name: Personal Jesus
 rankings:
 - end_date: '1989-12-15'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+
+Your own personal Jesus (Jesus)
+Someone to hear your prayers, someone who cares (ooh)
+Your own personal Jesus (Jesus)
+Someone to hear your prayers, someone who's there, hey
+
+Feelings unknown and you're all alone
+With your flesh and bone by the telephone
+Lift up the receiver
+I'll make you a believer (believer)
+
+Take second best, put me to the test
+Things on your chest you need to confess
+I'll deliver
+You know I'm a forgiver (forgiver)
+
+Well, reach out, touch faith
+(Ahh) Reach out, touch faith
+
+Your own personal Jesus (Jesus)
+Someone to hear your prayers, someone who cares (ooh)
+I got my own personal Jesus (Jesus)
+Someone to hear your prayers, someone who's there, hey
+
+Hey, hey, hey, hey
+
+Yeah, your own personal Jesus (Jesus)
+Someone to hear your prayers, someone who cares (ooh)
+Yeah, my own personal Jesus (Jesus)
+Someone to hear your prayers, someone who's there, hey
+
+Come on (ahh), reach out, touch faith
+Come on (ahh), reach out and touch faith, wooh
+(Aah) You gotta reach out and touch faith
+Come on, reach out and touch faith
+
+(Your own personal Jesus)
+(Your own personal Jesus)
+Yeah, my own (personal Jesus) Jesus
+I got my own (Your own personal Jesus)
+Reach out and touch faith
+(Your own personal Jesus)
+Reach out and touch faith
+(Your own personal Jesus)
+Come on, Jesus, Jesus, Jesus
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 867-5309-tommy-tutone
+lyrics_url: https://www.azlyrics.com/lyrics/tommytutone/8675309jenny.html
 name: 867-5309
 rankings:
 - end_date: '1982-01-29'
@@ -115,4 +116,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
 ---
+
+Hey!
+
+Jenny, Jenny, who can I turn to?
+You give me somethin' I can hold on to
+I know you think I'm like the others before
+Who saw your name and number on the wall
+
+Jenny, I got your number
+I need to make you mine
+Jenny, don't change your number
+
+867-5309
+867-5309
+867-5309
+867-5309
+
+Jenny, Jenny, you're the girl for me
+Oh, you don't know me, but you make me so happy
+I tried to call you before, but I lost my nerve
+I tried my imagination, but I was disturbed
+
+Jenny, I got your number
+I need to make you mine
+Jenny, don't change your number
+
+867-5309
+867-5309
+867-5309
+867-5309
+
+I got it, (I got it), I got it
+I got your number on the wall
+I got it, (I got it), I got it
+For a good time, for a good time call
+
+Hey, Jenny, don't change your number
+I need to make you mine
+Jenny, I call your number
+
+867-5309
+867-5309
+867-5309
+867-5309
+
+Jenny, Jenny, who can I turn to?
+867-5309
+For the price of a dime I can always turn to you
+867-5309
+
+867-5309
+867-5309
+867-5309
+867-5309
+
+(5309) 867-5309
+(5309) 867-5309
+(5309) 867-5309
+
+
 

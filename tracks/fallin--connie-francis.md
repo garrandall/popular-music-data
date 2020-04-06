@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fallin--connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/fallin.html
 name: Fallin'
 rankings:
 - end_date: '1958-10-19'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
 ---
+
+I got the feelin' I'm a-fallin'
+Like a star up in the blue
+Like I was fallin' off Niagara
+In a paddle boat canoe
+I got the feelin' I'm a-fallin'
+And it's all because of you
+Like I was walkin' on a tight rope
+Swingin' in the breeze
+And though I tried to keep my balance
+Well, I just weakened in the knees
+I got the feelin' I'm a-fallin'
+Lover, help me please
+Like a leaf falls from a branch
+Like a rock slide avalanche
+Like the rain on a stormy day
+I never thought I'd fall this way
+I thought that love could never touch me
+Yeah I was mountain high
+And then my ivory tower toddled
+And I tumbled from the sky
+I got the feelin' I'm a-fallin'
+Lover, you're the reason why
+Like the light when he met his pole
+Like the walls of Jericho
+Like Delilah's home in town
+When Samson tore it down
+I thought that love could never touch me
+Yeah I was mountain high
+But then my ivory tower toddled
+And I tumbled from the sky
+I got the feelin' I'm a-fallin'
+And you're the reason why
+Ooh, you're the reason why
+Yeah, you're the reason why
+Mmm baby, you're the reason why
+
+
 

@@ -5,6 +5,7 @@ features:
 - T-Pain
 genres: []
 key: hey-baby--drop-it-to-the-floor--pitbull-t-pain
+lyrics_url: https://www.azlyrics.com/lyrics/pitbull/heybabydropittothefloor.html
 name: Hey Baby (Drop It To The Floor)
 rankings:
 - end_date: '2010-10-22'
@@ -132,4 +133,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
 ---
+
+Mr. Worldwide
+T-Pain
+El que no olle consejo
+No llega a viejo
+So listen up
+
+Ooh La La La
+Let her go ...
+If your girl wanna play, let her go, so let her go (La la laâ¦)
+If your girl wanna play, let her go, so let her go (La la laâ¦)
+If your girl wanna play, let her go, so let her go (La la laâ¦)
+If your girl wanna play, let her go
+
+
+Hey baby girl what you doing tonight
+I wanna see what you got in store
+Hey baby - giving it your all when youâre dancing on me
+I wanna see if you can give me some more
+Hey baby - you can be my girl I can be your man
+and we can pump this jam however you want
+Hey baby, pump it from the side pump it upside down
+or we can pump it from the back to the front
+Hey baby
+
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Hey Baby)
+
+Ooh drop it to the floor, make me wanna say it
+Yeah you can shake some more, make me wanna say it
+Ooh you got it, because you make me wanna say
+Donât stop it - I want you tonight
+
+Iâm a Dade county,
+self paid, self made millionaire
+I used to play around the world,
+now Iâm around the world - getting paid
+Girl problems, no problems
+don't hate the game, that wonât solve em
+I wanna get with you mami,
+now let me see what the lord split you dale
+
+
+Hey baby girl what you doing tonight
+I wanna see what you got in store
+Hey baby - giving it you all when youâre dancinâ on me
+I wanna see if you can give me some more
+Hey baby - you can be my girl I can be your man
+and we can pump this jam however you want
+Hey baby, pump it from the side pump it upside down
+or we can pump it from the back to the front
+Hey baby
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Aaah)
+Ooh baby baby, La La La La La La La.. (Hey Baby)
+
+Ooh drop it to the floor, make me wanna say it
+Yeah you can shake some more, make me wanna say it
+Ooh you got it, because you make me wanna say
+Donât stop it - I want you tonight
+
+Make money, make money
+this chico right here gotta eat, baby
+You scared money - donât make money,
+thatâs how it goes in the street baby
+But enough about the nonsense,
+baby girl take a shot to your conscience
+not a goon or a goblin, but Iâm a monster
+'Cause I hit all the baddest women in the world, gangster
+Ooh baby, baby, La La La La La La La 
+
+Hey Baby
+Ooh drop it to the floor, make me wanna say it
+Yeah you can shake some more, make me wanna say it
+Ooh you got it, because you make me wanna say
+Donât stop it - I want you tonight
+
+
 

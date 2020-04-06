@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-like-woe-the-ready-set
+lyrics_url: https://www.azlyrics.com/lyrics/readyset/lovelikewoe.html
 name: Love Like Woe
 rankings:
 - end_date: '2010-09-03'
@@ -91,4 +92,111 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
 ---
+
+Woe oh, oh, oh!
+Woe oh, oh, oh!
+I kinda feel like it don't make, like it don't make
+Feel like it don't make sense
+
+I'm thinking baby you and I are undeniable
+But I'm finding now love's unreliable
+I'm giving all I got to make you stay
+Or am I just a roadblock in your way?
+
+'Cause you're a pretty little windstorm
+Out on the boulevard
+Something like a sunset
+Oh, you're a shooting star
+And I might drive myself insane
+If those lips aren't speaking my name
+
+'Cause I got some intuition
+Or maybe I'm superstitious
+But I think you're a pretty sweet pill that I'm swallowing down
+To counter this addiction
+You've got me on a mission
+Tell me darling can I get a break, somehow?
+Could I say no?
+
+She's got a love like woe (Woe oh oh oh)
+Girl's got a love like woe (Woe oh oh oh)
+(Ba da da)
+I kinda feel like it don't make sense
+Because you're bringing me in
+And now you're kicking me out again
+
+Loved so strong (Woe oh oh oh)
+Then you moved on (Woe oh oh oh)
+Now I'm hung up in suspense
+Because you're bringing me in
+And then you're kicking me out again
+
+It's like a hurricane
+Speed train
+She's a moving car
+Catch her in the fast lane
+Oh I gotta know
+Can I keep up with her pace?
+Kick it into gear when I see that face
+
+You can take up all my time 'cause you're the only one
+That can make a storm cloud break
+Pulling out the sun
+And I can't get caught in the rain
+Can I get your lips to speak my name?
+
+'Cause I got some intuition
+Or maybe I'm superstitious
+But I think you're a pretty sweet pill that I'm swallowing down
+To counter this addiction
+You've got me on a mission
+Tell me darling can I get a break, somehow?
+Could I say no?
+
+She's got a love like woe (Woe oh oh oh)
+Girl's got a love like woe (Woe oh oh oh)
+(Ba da da)
+I kinda feel like it don't make sense
+'Cause you're bringing me in
+And now you're kicking me out again
+
+Loved so strong (Woe oh oh oh)
+Then you moved on (Woe oh oh oh)
+Now I'm hung up in suspense
+Because you're bringing me in
+And then you're kicking me out again
+
+Because we only have one life
+The timing and the moment
+All seem so right
+So would you say you're mine? (We'll be just fine)
+Would you say you're mine? (We'll be just fine)
+
+She's got a love like woe (Woe oh oh oh)
+Girl's got a love like woe (Woe oh oh oh)
+(Ba da da)
+I kinda feel like it don't make sense
+'Cause you're bringing me in
+And now you're kicking me out again
+
+Loved so strong (Woe oh oh oh)
+Then you moved on (Woe oh oh oh)
+Now I'm hung up in suspense
+Because you're bringing me in
+And then you're kicking me out again
+
+She's got a love like woe (Woe oh oh oh)
+Girl's got a love like woe (Woe oh oh oh)
+(Ba da da)
+I kinda feel like it don't make sense
+'Cause you're bringing me in
+And now you're kicking me out again
+
+Loved so strong (Woe oh oh oh)
+Then you moved on (Woe oh oh oh)
+Now I'm hung up in suspense
+Because you're bringing me in
+And then you're kicking me out again
+
+
 

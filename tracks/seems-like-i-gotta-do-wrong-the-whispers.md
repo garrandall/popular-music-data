@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seems-like-i-gotta-do-wrong-the-whispers
+lyrics_url: https://www.azlyrics.com/lyrics/bandofheathens/seemslikeigottadowrong.html
 name: Seems Like I Gotta Do Wrong
 rankings:
 - end_date: '1970-09-25'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
 ---
+
+Another day has come and gone
+In a world where I don't belong
+Another week has passed me by
+And it's not because I didn't try
+
+I keep on trying but nobody saw me walking
+Nobody heard me talking
+I don't know why
+I gotta do wrong, gotta do wrong, gotta do wrong
+Before they notice me
+
+Another job I can not get
+A nice apartment the landlord will not rent
+I go to bed but sleep won't come
+My body's aching and my soul feels numb
+
+Nobody saw me walking
+Nobody heard me talking
+Tell me why
+I gotta do wrong, gotta do wrong, gotta do wrong
+Before they notice me
+
+I'm just a number and not a name
+Well, if I'm crazy tell me, who's to blame
+
+No not me, nobody saw me walking
+Nobody heard me talking
+I believe
+I gotta do wrong, gotta do wrong, gotta do wrong
+Before they notice me
+...
+
+
 

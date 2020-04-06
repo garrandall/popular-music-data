@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-does-it-better-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/nobodydoesitbetter.html
 name: Nobody Does It Better
 rankings:
 - end_date: '1977-07-29'
@@ -107,4 +108,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+
+Nobody does it better
+Makes me feel sad for the rest
+Nobody does it half as good as you
+Baby you're the best
+
+I wasn't looking
+But somehow you found me
+I tried to hide from your love light
+But like heaven above me
+The spy who loved me
+Is keeping all my secrets safe tonight
+
+And nobody does it better
+Though sometimes I wish someone could
+Nobody does it quite the way you do
+Why'd you have to be so good
+
+The way that you hold me
+Whenever you hold me
+There's some kind of magic inside you
+That keeps me from running
+But just keep it coming
+How'd you learn to do the things you do
+
+And nobody does it better
+Makes me feel sad for the rest
+Nobody does it half as good as you
+Baby, baby, darling you're the best
+
+Baby you're the best
+Baby you're the best
+Baby you're the best
+
+Yeah, yeah, yeah, aah
+
+
 

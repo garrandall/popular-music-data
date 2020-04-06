@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: step-by-step-eddie-rabbitt
+lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/stepbystep.html
 name: Step By Step
 rankings:
 - end_date: '1981-07-31'
@@ -95,4 +96,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
 ---
+
+She seems a million miles away
+When she walks by you don't know what to say
+You gonna make a move, you better make it now
+Don't be afraid, cause love will show you how
+
+You take that first step
+Ask her out and treat her like a lady
+Second step
+Tell her she's the one you're dreaming of
+Third step
+Take her in your arms and never let her go
+Don't you know step by step
+Step by step
+You'll win her love
+
+She looks too beautiful to touch
+But your heart keeps talking to you now
+Don't give up
+You think you see something in her eye
+But you will never know until you try
+
+But you gotta take that first step
+Ask her out and treat her like a lady
+Second step
+Tell her she's the one you're dreaming of
+Third step
+Take her in your arms and never let her go
+Don't you know that step by step
+Step by step
+You'll win her love
+
+Second step...
+Third step...
+Don't you know step by step
+Step by step
+
+First step
+Ask her out and treat her like a lady
+Second step
+Tell her she's the one you're dreaming of
+Third step
+Take her in your arms and never let her go
+Don't you know that step by step
+Step by step
+You'll win her love
+
+Second step...
+Third step...
+don't you know step by step
+Step by step
+
+First step
+Ask her out and treat her like a lady
+Second step
+Tell her she's the one you're dreaming of
+Third step
+Take her in your arms and never let her go
+Don't you know that step by step
+Step by step
+You'll win her love
+
+
 

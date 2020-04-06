@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waiting-for-the-end-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/waitingfortheend.html
 name: Waiting For The End
 rankings:
 - end_date: '2010-10-08'
@@ -99,4 +100,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
 ---
+
+
+Yeah!
+Yo!
+This is not the end, this is not the beginning
+Just a voice like a riot rocking every revision
+But you listen to the tone and the violent rhythm
+And though the words sound steady something empty's within them
+We say yeah with fists flying up in the air
+Like we're holding onto something that's invisible there
+'Cause we're living at the mercy of the pain and the fear
+Until we get it, forget it, let it all disappear
+
+
+Waiting for the end to come
+Wishing I had strength to stand
+This is not what I had planned
+It's out of my control
+Flying at the speed of light
+Thoughts were spinning in my head
+So many things were left unsaid
+It's hard to let you go
+
+(Oh) I know what it takes to move on
+(Oh) I know how it feels to lie
+(Oh) All I wanna do
+Is trade this life for something new
+Holding on to what I haven't got
+
+Sitting in an empty room
+Trying to forget the past
+This was never meant to last
+I wish it wasn't so
+
+(Oh) I know what it takes to move on
+(Oh) I know how it feels to lie
+(Oh) All I wanna do
+Is trade this life for something new
+Holding on to what I haven't got
+
+(Yeah, yeah!)
+
+
+What was left when that fire was gone?
+I thought it felt right but that right was wrong
+All caught up in the eye of the storm
+And trying to figure out what it's like moving on
+And I don't even know what kind of things I said
+My mouth kept moving and my mind went dead
+So I'm picking up the pieces, now where to begin
+The hardest part of ending is starting again
+
+Oh-oh-oh-oh-oh-ohâ¦
+
+
+All I want to do
+Is trade this life for something new
+Holding on to what I haven't got
+I'm holding on to what I haven't got
+I'm holding on to what I haven't got
+
+
+This is not the end, this is not the beginning
+Just a voice like a riot rocking every revision
+(I'm holding on to what I haven't got) But you listen to the tone and the violent rhythm
+Though the words sound steady something empty's within them
+We say yeah with fists flying up in the air
+Like we're holding onto something that's invisible there
+(Holding on to what I haven't got) 'Cause we're living at the mercy of the pain and the fear
+Until we get it, forget it, let it all disappear
+
+
 

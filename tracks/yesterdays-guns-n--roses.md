@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yesterdays-guns-n--roses
+lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/yesterdays.html
 name: Yesterdays
 rankings:
 - end_date: '1992-11-27'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
 ---
+
+Yesterday there was so many things I was never told
+Now that I'm startin' to learn I feel I'm growing old
+
+'Cause yesterday's got nothin' for me
+Old pictures that I'll always see
+Time just fades the pages in my book of memories
+
+Prayers in my pocket
+And no hand in destiny
+I'll keep on movin' along
+With no time to plant my feet
+
+'Cause yesterday's got nothin' for me
+Old pictures that I'll always see
+Some things could be better
+If we'd all just let them be
+
+Yesterday's got nothin' for me
+Yesterday's got nothin' for me
+Got nothin' for me
+
+Yesterday there was so many things I was never shown
+Suddenly this time I found I'm on the streets and I'm all alone
+
+Yesterday's got nothin' for me
+Old pictures that I'll always see
+I ain't got time to reminisce old novelties
+
+Yesterday's got nothin' for me
+Yesterday's got nothin' for me
+Yesterday's got nothin' for me
+Yesterday
+
+Yesterday
+
+
 

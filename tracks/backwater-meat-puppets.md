@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: backwater-meat-puppets
+lyrics_url: https://www.azlyrics.com/lyrics/meatpuppets/backwater.html
 name: Backwater
 rankings:
 - end_date: '1994-06-17'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
 ---
+
+And when I wake up in the morning
+To feel the daybreak on my face
+There's a blood that's flowing through the feeling
+With a knife to open up the sky's veins
+
+Some things will never change
+You just stand there looking backwards half unconscious from the pain
+It may seem rearranged
+In the backwater swirling there is something that will never change
+
+And when I should have been done a long time
+Laughs and says I'll find ways
+Just when we shelter under paper
+The rockets come at us sideways
+
+Some things will never change
+You just stand there looking backwards half unconscious from the pain
+It may seem rearranged
+In the backwater swirling there is something that will never change
+
+It may imply
+Good vibes
+Flow from time
+Oh loosed on
+
+And when I wake up in the morning
+To feel the daybreak on my face
+There's a blood that's flowing through the ceiling
+With a knife to open up the sky's veins
+
+Some things will never change
+You just stand there looking backwards half unconscious from the pain
+It may seem rearranged
+In the backwater swirling there is something that will never change
+
+Some things will never change
+You just stand there looking backwards half unconscious from the pain
+It may seem rearranged
+In the backwater swirling there is something that will never change
+
+
 

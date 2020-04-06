@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: north-to-alaska-johnny-horton
+lyrics_url: https://www.azlyrics.com/lyrics/hankwilliamsjr/northtoalaska.html
 name: North To Alaska
 rankings:
 - end_date: '1960-09-25'
@@ -99,4 +100,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
 ---
+
+(Way up north north to Alaska way up north north to Alaska
+North to Alaska go north the rush is on)
+
+Big Sam left Seattle in the year of 1902
+With George as his partner and brother Billy too
+They crossed the Yukon River and found the Bonanza gold
+Just below that old White Mountain just a little southeast of Nome
+Sam crossed the majestic mountain to valleys far below
+He talked to his team of huskys as he mushed on through the snow
+Well the northern lights were running wild in the land of the midnight sun
+Yes Sam McCord was a mighty man in the year of 1901
+Where the river is winding big nuggets they're finding
+North to Alaska go north the rush is on
+(Way up north north to Alaska...)
+
+George turned to Sam with this gold in his hand
+Said Sam you're a looking at a lonely lonely man
+I'd trade all the gold that's burried in this land
+For one small band of gold to place on sweet little Jeannie's hand
+Cause a man needs a woman to love him all the time
+Remember Sam a true love is so hard to find
+I'd build for my Jeannie a honeymoon home
+Just below that old White Mountain just a little southeast of Nome
+Where the river is winding...
+North to Alaska go north the rush is on north to Alaska go north the rush is on
+
+
 

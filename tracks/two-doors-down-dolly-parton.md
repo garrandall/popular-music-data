@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-doors-down-dolly-parton
+lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/twodoorsdown.html
 name: Two Doors Down
 rankings:
 - end_date: '1978-03-24'
@@ -55,4 +56,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
 ---
+
+Two doors down
+They're laughing and drinkin', and having a party
+Two doors down
+They're not aware that I'm around
+
+Cause here I am
+Crying my heart out, feelin' sorry while
+They're having a party just two doors down
+
+I think I'll dry these useless tears
+And get myself together
+I think I'll wonder down the hall
+And have a look around
+'Cause I can't stay inside
+This lonely room and cry forever
+I think I really rather join 'em
+Two door down, yeah
+
+Two doors down
+They're laughing and drinkin', and having a party
+Two doors down
+They're not aware that I'm around
+
+'Cause here I am
+No longer cryin' an' feelin' sorry
+We're having a party just two doors down
+
+I can't believe I'm standin' here
+Dry-eyed, all smiles and talkin'
+Making conversation with the new love I have found
+I ask him if he's like to be alone and we start walkin'
+Down the hall to my place waitin' two doors down, yeah
+
+Two doors down
+They're laughing and drinkin', and having a party
+Two doors down
+We're not aware that they're around
+
+'Cause here I am
+Feelin' everything but sorry
+We're having our own party two doors down
+
+Oh, oh, oh, oh
+Two doors down
+Oh, oh, oh, oh
+Two doors down
+Oh, oh, oh, oh
+Two doors down
+Oh, oh, oh, oh
+Two doors down, oh
+
+Two doors down
+They're laughing and drinkin', and having a party
+Two doors down
+We're not aware that they're around
+
+'Cause here we am
+Feelin' everything but sorry
+We're havin' our own party
+Two doors down, yeah
+
+Two doors down
+They're laughing and drinkin', and having a party
+Two doors down
+We're not aware that they're around
+
+
 

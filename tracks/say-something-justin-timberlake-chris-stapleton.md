@@ -5,6 +5,7 @@ features:
 - Chris Stapleton
 genres: []
 key: say-something-justin-timberlake-chris-stapleton
+lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/saysomething.html
 name: Say Something
 rankings:
 - end_date: '2018-02-16'
@@ -72,4 +73,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
 ---
+
+
+Ooh
+Yeah, alright
+Ooh
+
+Everyone knows all about my direction
+And in my heart somewhere
+I wanna go there, still I don't go there
+
+Everybody says, "say something that says something"
+"Say something that says something", say something that says something
+I don't wanna get caught up in the rhythm of it
+
+But I can't help myself, no, I can't help myself, no, no
+Caught up in the middle of it
+No, I can't help myself, no, I can't help myself, no, no, no
+Caught up in the rhythm of it
+
+
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+
+
+Everyone knows all about my transgressions
+Still in my heart somewhere
+There's melody and harmony
+For you and me, tonight
+Whoa, I hear them call my name
+
+Everybody says, "say something that says something"
+"Say something that says something", say something that says something
+I don't wanna get caught up in the rhythm of it
+
+But I can't help myself, no, I can't help myself, no, no
+Caught up in the middle of it
+No, I can't help myself, no, I can't help myself, no, no, no
+Caught up in the rhythm of it
+
+
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+
+
+Sometimes, the greatest way to say something is to say nothing at all
+Sometimes, the greatest way to say something is to say nothing at all
+Sometimes, the greatest way to say something is to say nothing
+
+But I can't help myself, no I can't help myself, no, no
+Caught up in the middle of it
+No I can't help myself, no I can't help myself, no, no, no
+Caught up in the rhythm of it
+
+
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+Maybe I'm looking for something I can't have
+(Maybe I'm looking for something I can't have)
+
+
+Sometimes the greatest way to say something is to say nothing at all
+Sometimes the greatest way to say something is to say nothing at all
+Sometimes the greatest way to say something is to say nothing
+
+
 

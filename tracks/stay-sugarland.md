@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/sugarland.html
 name: Stay
 rankings:
 - end_date: '2007-11-02'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
 ---
+
+Sugarland, warm breeze blowing, long dirt road
+First time that I saw him was such a long time ago
+I was sixteen going on seventeen
+Blue bonnet Texas queen fell in love with a rodeo king
+Down in Sugarland
+
+Drive in movies, hot summer night
+First time that I kissed him made the world seem right
+I was city bound couldn't wait to get outta this town
+Suddenly everything just changed
+Something told me I just might stay
+Down in sugarland
+
+Down in sugarland doing the best we can
+Holding hands staying up all night
+Swinging stars from satelittes
+Down in sugarland doing the best we can
+Falling in love again down in sugarland
+
+Corn fields swaying, clothes on the line
+Tumbleweed is a turning like the hands of time
+When I was sixteen going on seventeen
+I didn't know much of anything
+Living the American dream down in sugarland
+
+And I see the small town smile in your eyes
+Shining like a diamond in the sky
+The sweet sky, under the sweet sky
+
+Sweet skies of sugarland doing the best we can
+Holding hands staying up all night
+Swinging stars from satelittes down in sugarland
+Doing the best we can
+Falling in love again down in sugarland
+
+Whoa, whoa, whoa, sugarland
+Sweet skies of sugarland, sugarland
+(Sugarland) warm breeze blowing
+Long dirt road
+Sugarland
+
+
 

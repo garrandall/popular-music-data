@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-sang-bass-johnny-cash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/daddysangbass.html
 name: Daddy Sang Bass
 rankings:
 - end_date: '1969-01-03'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
 ---
+
+I remember when I was a lad,
+times were hard and things were bad.
+But there's a silver lining behind every cloud.
+Just poor people, that's all we were.
+Trying to make a living out of black land dirt.
+We'd get together in a family circle singing loud.
+
+Daddy sang bass,
+Mama sang tenor.
+Me and little brother would join right in there.
+Singing seems to help a troubled soul.
+One of these days and it won't be long.
+I'll rejoin them in a song.
+I'm gonna join the family circle at the Throne.
+No, the circle won't be broken.
+By and by, Lord, by and by.
+
+Daddy sang bass,
+Mama sang tenor.
+Me and little brother would join right in there.
+In the sky, Lord, in the sky.
+
+Now I remember after work,
+Mama would call in all of us.
+You could hear us singing for a country mile.
+Now little brother has done gone on.
+But, I'll rejoin him in a song.
+We'll be together again up yonder in a little while.
+
+Daddy sang bass,
+Mama sang tenor.
+Me and little brother would join right in there.
+Cause singing seems to help a troubled soul.
+One of these days and it won't be long,
+I'll rejoin them in a song.
+I'm gonna join the family circle at the Throne.
+Oh, no the circle won't be broken.
+By and by, Lord, by and by.
+
+Daddy sang bass,
+Mama sang tenor.
+Me and little brother would join right in there.
+In the sky, Lord, in the sky.
+In the sky, Lord, in the sky.
+
+
 

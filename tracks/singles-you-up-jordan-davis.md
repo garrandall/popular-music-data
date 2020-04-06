@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: singles-you-up-jordan-davis
+lyrics_url: https://www.azlyrics.com/lyrics/jordandavis/singlesyouup.html
 name: Singles You Up
 rankings:
 - end_date: '2018-02-23'
@@ -83,4 +84,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
 ---
+
+I ain't heard you laugh like that in a long time
+I wonder if you stopped his world like you did mine just now
+I see you sippin' white wine instead of whiskey
+And does he want you to be just a little more city?
+
+Well, I'm sorry if I'm overstepping boundaries
+I don't mean to be, but I've just got to tell you how I feel
+
+If he ever singles you up, if he's ever stupid enough
+I'ma be the first one calling you baby (baby)
+If he ain't holding you tight, if he ain't treating you right
+I'ma be the first one calling him crazy (crazy)
+'Cause girl, it's just a matter of time until you find
+That the right guy's staring you back into your eyes, right now
+No rush, but if he ever singles you up
+
+He hasn't even looked your way since you walked in
+But I can't help it that I can't take my eyes off of you
+
+Your favorite song just came on and me and you were singing along
+And he don't even know a single word
+
+If he ever singles you up, if he's ever stupid enough
+I'ma be the first one calling you baby (baby)
+If he ain't holding you tight, if he ain't treating you right
+I'ma be the first one calling him crazy (crazy)
+'Cause girl, it's just a matter of time until you find
+That the right guy's staring you back into your eyes, right now
+No rush, but if he ever singles you up
+If he ever singles you up
+I'ma be the first to call baby
+
+Sorry if I'm overstepping boundaries
+I don't mean to be, but I've just got to tell you how I feel
+
+If he ever singles you up, if he's ever stupid enough
+I'ma be the first one calling you baby (baby)
+If he ain't holding you tight, if he ain't treating you right
+I'ma be the first one calling him crazy (crazy)
+'Cause girl, it's just a matter of time until you find
+That the right guy's staring you back into your eyes, right now
+No rush, but if he ever singles you up
+Oh, if he ever singles you up
+If he ever singles you up
+
+
 

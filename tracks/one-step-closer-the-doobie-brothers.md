@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-step-closer-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/onestepcloser.html
 name: One Step Closer
 rankings:
 - end_date: '1980-11-28'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
 ---
+
+Baby, there's a chance you ought to take
+Chance of a mistake you gotta make
+Maybe I'm mistaken too
+To take my chance with you
+I need you like a shadow needs a light
+I'll follow you like morning follows night
+When nothin's left ahead of you
+I'll be right behind you
+Shadows disappear at night
+We both know it's a shame if you should lose one
+Why is it so hard to find
+Tell me that you're right there too
+One step baby
+Two steps maybe
+One step closer
+I'll be next to you
+
+Baby, it's a secret I can't keep
+Trouble comes and suddenly you're weak
+I don't believe you got the strength
+To fight this kind of love
+I know it's risky now and then
+What with all the what ifs and the whens
+Who is there to say we're wrong - to tell us it can't be
+Come on, baby, please don't go
+I'm no heart of stone and you know
+Why is it so hard to do
+Tell me that you're right there too, baby
+
+Baby, can't you see we're runnin' late
+Can't you see we ain't got time to wait
+Might be that you're scared of me
+Of something you might feel
+Hold on to me, baby, hold on tight
+I can take us through the night all right
+Maybe I will stay here too
+Take my chance with you
+
+Shadows disappear at night
+We both know it's a shame if you should lose one
+Why is it so hard to find
+Tell me that you're right there too
+
+One step baby
+Two steps maybe
+One step closer
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pass-the-dutchie-musical-youth
+lyrics_url: https://www.azlyrics.com/lyrics/musicalyouth/passthedutchie.html
 name: Pass The Dutchie
 rankings:
 - end_date: '1982-12-17'
@@ -79,4 +80,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
 ---
+
+This generation
+Rules the nation
+With version
+
+Music happen to be the food of love
+Sounds to really make you rub and scrub
+ I say
+
+Pass the Dutchie 'pon the left hand side
+Pass the Dutchie 'pon the left hand side
+It a go bun, give me music, make me jump and prance
+It a go dung, give me the music, make me rockin' at the dance
+(Jah know!)
+
+It was a cool and lonely breezy afternoon
+(How does it feel when you've got no food?)
+You could feel it cause it was the month of June
+(How does it feel when you've got no food?)
+So I left my gate and went out for a walk
+(How does it feel when you've got no food?)
+As I pass the dreadlocks' camp I heard them say
+(How does it feel when you've got no food?)
+
+Pass the Dutchie 'pon the left hand side
+Pass the Dutchie 'pon the left hand side
+It a go bun, give me music, make me jump and prance
+It a go dung, give me the music, make me rockin' at the dance
+(Jah know!)
+
+
+
+So I stopped to find out what was going on
+(How does it feel when you've got no food?)
+Cause the spirit of Jah, you know he leads you on
+(How does it feel when you've got no food?)
+There was a ring of dreads and a session was there in swing
+(How does it feel when you've got no food?)
+You could feel the chill as I seen and heard them say
+(How does it feel when you've got no food?)
+
+Pass the Dutchie 'pon the left hand side
+Pass the Dutchie 'pon the left hand side
+It a go bun, give me music, make me jump and prance
+It a go dung, give me the music, make me rockin' at the dance
+(Jah know!)
+
+Cause me say listen to the drummer, me say listen to the bass
+Give me little music make me wind up me waist
+Me say listen to the drummer, me say listen to the bass
+Give me little music make me wind up me waist, I say
+
+Pass the Dutchie 'pon the left hand side
+Pass the Dutchie 'pon the left hand side
+It a go bun, give me music, make me jump and prance
+It a go dung, give me the music, make me rockin' at the dance
+(Jah know!)
+
+You play it on the radio
+A so me say, we a go hear it on the stereo
+A so me know you a go play it on the disco
+A so me say we a go hear it on the stereo
+
+Pass the Dutchie 'pon the left hand side
+Pass the Dutchie 'pon the left hand side
+It a go bun, give me music, make me jump and prance
+It a go dung, give me the music, make me rockin' at the dance
+(Jah know!)
+
+I say east, say west, say north and south
+This is gonna really make us jump and shout
+
+
 

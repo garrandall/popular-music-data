@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: perfect-world-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/perfectworld.html
 name: Perfect World
 rankings:
 - end_date: '1988-07-22'
@@ -68,4 +69,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
 ---
+
+Everybody's looking for the perfect world
+Where you could have everything your heart desires
+The perfect boy will meet the perfect girl
+And the perfect love will set the world on fire
+
+Well what you gonna do, when one and one makes three
+And a vision of the future is impossible to see
+Nobody's perfect, not even a perfect fool
+If you'll have faith in me
+I'll keep faith with you
+
+Ain't no livin' in a perfect world
+There ain't no perfect world anyway
+Ain't no livin' in a perfect world
+But we'll keep on dreamin' of livin' in a perfect world
+Keep on dreamin' of livin' in a perfect world
+
+Everybody's got secrets, now you know that it's true
+They talk about me and they'll talk about you
+Something happens to the pledges of trust
+Down through the years they begin to rust
+
+Now here we are amid the tears and the laughter
+Still waiting for our happily ever after
+We'll keep on dreamin' as long as we can
+Try to remember and you'll understand
+
+Ain't no livin' in a perfect world
+There ain't no perfect world anyway
+Ain't no livin' in a perfect world
+But we'll keep on dreamin' of livin' in a perfect world
+Keep on dreamin' of livin' in a perfect world
+
+
 

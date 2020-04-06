@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-her-for-me-adam-wade
+lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/Tell-Her-for-Me
 name: Tell Her For Me
 rankings:
 - end_date: '1960-01-17'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
+Why be a big man
+You know that you're blue
+You know that it's true
+Tell her, tell her, ahh, ahh, ooh)
 
+Tell her for me, I'm tired of crying
+(You love her, you know you still do)
+Tell her for me, I'm through feeling blue
+(Then why do you think of her
+The whole night and day through)
+
+Yes, you can say that I'll never cry again
+Never beg for another chance
+You can say that I'll never cry again
+For an off and on romance
+
+Oh, tell her for me, I'm glad it's over
+(You don't mean a word that you say)
+Thank her for dreams that never came true
+(Now say what you really feel
+Why suffer this way)
+
+And if she should say
+That it's so wrong to part
+She'd like to start anew
+Please tell her to call
+I may just feel that way too
+
+And if she should say
+That it's so wrong to part
+She'd like to start anew
+Please tell her to call
+I may just feel that way too
+
+(Tell her you love her
+Tell her you love her
+You know that it's true
+You know you still do)

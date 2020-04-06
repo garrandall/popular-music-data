@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-love-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/biglove.html
 name: Big Love
 rankings:
 - end_date: '1987-04-03'
@@ -71,4 +72,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+
+Looking out for love
+In the night so still
+Oh I'll build you a kingdom
+In that house on the hill
+Looking out for love
+Big, big love
+You said that you love me
+And that you always will
+Oh you begged me to keep you
+In that house on the hill
+Looking out for love
+Big, big love
+I wake up alone
+With it all
+I wake up
+But only to fall
+Looking out for love
+Big, big love
+Just looking out for love
+Big, big love
+
+
 

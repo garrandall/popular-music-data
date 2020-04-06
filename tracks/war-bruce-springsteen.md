@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: war-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/war.html
 name: War
 rankings:
 - end_date: '1986-11-28'
@@ -55,4 +56,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
 ---
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Absolutely nothing, come on
+
+War is something that I despise
+For it means destruction of innocent lives
+And thousands words in mothers' cry
+When their son's go out to fight to give their lives
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Absolutely nothing
+
+War
+It ain't nothing but a heartbreaker
+War
+Friend only to the undertaker
+
+War is the enemy of all mankind
+The thought of war it just blows my mind
+Handed down from generation to generation
+Induction, destruction, who wants to die?
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Absolutely nothing
+
+War
+It ain't nothing but a heartbreaker
+War
+Friend only to an undertaker
+
+War has shattered many young men's dreams
+Made them disabled bitter and mean
+Life is too precious to be fighting wars each day
+War can't give life it can only take it away
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Absolutely nothing
+
+Peace, love and understanding it all
+There must be some place for these things today
+They say we must fight to keep our freedom
+But Lord there's gotta be another way that's better than
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Absolutely nothing, come on now
+
+War
+What is it good for? Absolutely nothing
+Say it again, war
+What is it good for? Nothing
+
+I'm talkin' about war
+
+
 

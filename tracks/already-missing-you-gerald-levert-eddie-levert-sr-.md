@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: already-missing-you-gerald-levert-eddie-levert-sr-
+lyrics_url: https://www.azlyrics.com/lyrics/geraldlevert/alreadymissingyou.html
 name: Already Missing You
 rankings:
 - end_date: '1995-10-27'
@@ -49,4 +50,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
 ---
+
+Aw girl what's up? Aw not again
+So you're packin' your bags and you're leaving?
+But that ain't right
+You need to stay awhile think about it
+But wait a minute
+Before you go there's just one thing I want you to know
+
+We both agree that this love ain't what it used to be
+We just grew apart
+I got nothin' but love for you baby
+Girl you'll always be my heart
+
+It's gonna be strange
+Living without you
+Ain't felt so empty before, no
+See I miss your smile
+And even your fussin'
+When I left my clothes on the floor
+Oh baby say now
+
+I'm gonna miss your face
+I'm gonna miss your moods
+I'm gonna miss makin' love to you
+And even though you haven't gone yet
+I'm already missing you
+I'm already missing you
+
+It's hard to say goodbye but things will be better
+You go your way and I will go mine
+Let's keep in touch, let me know how you're doing
+Girl things will change in time
+
+Don't want you to leave
+Keep sayin' I'm sorry
+But I guess I'm repeating myself
+Girl you know I'm here
+When you need a shoulder
+I can't see you in the arms
+Of someone else, oh baby
+
+I'm gonna miss your face
+I'm gonna miss your moods
+I'm gonna miss makin' love to you
+And even though you haven't gone yet
+I'm already missing you
+
+I'm gonna miss your face
+I'm gonna miss your moods
+I'm gonna miss makin' love to you
+And even though you haven't gone yet
+I'm already missing you
+
+I'm already missing you
+I'm already missing you
+I'm already missing you
+I'm already missing you
+...
+
+
 

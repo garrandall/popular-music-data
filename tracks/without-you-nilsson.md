@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-nilsson
+lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/withoutyou.html
 name: Without You
 rankings:
 - end_date: '1971-12-24'
@@ -83,4 +84,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
 ---
+
+No, I can't forget this evening
+Or your face as you were leaving
+But I guess that's just the way the story goes
+You always smile but in your eyes your sorrow shows
+Yes, it shows
+
+No, I can't forget tomorrow
+When I think of all my sorrow
+When I had you there, but then I let you go
+And now it's only fair that I should let you know
+What you should know
+
+I can't live if living is without you
+I can't live, I can't give anymore
+I can't live if living is without you
+I can't give, I can't give anymore
+
+Well, I can't forget this evening
+Or your face as you were leaving
+But I guess that's just the way the story goes
+You always smile but in your eyes your sorrow shows
+Yes, it shows
+
+I can't live if living is without you
+I can't live, I can't give anymore
+I can't live if living is without you
+I can't live, I can't give anymore
+If living is without you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ordinary-world-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/ordinaryworld.html
 name: Ordinary World
 rankings:
 - end_date: '1993-01-15'
@@ -95,4 +96,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
 ---
+
+Came in from a rainy Thursday
+On the avenue
+Thought I heard you talking softly
+
+I turned on the lights, the TV
+And the radio
+Still I can't escape the ghost of you
+
+What has happened to it all?
+Crazy, some'd say
+Where is the life that I recognize?
+Gone away
+
+But I won't cry for yesterday
+There's an ordinary world
+Somehow I have to find
+And as I try to make my way
+To the ordinary world
+I will learn to survive
+
+Passion or coincidence
+Once prompted you to say
+"Pride will tear us both apart"
+Well now pride's gone out the window
+Cross the rooftops
+Run away
+Left me in the vacuum of my heart
+
+What is happening to me?
+Crazy, some'd say
+Where is my friend when I need you most?
+Gone away
+
+But I won't cry for yesterday
+There's an ordinary world
+Somehow I have to find
+And as I try to make my way
+To the ordinary world
+I will learn to survive
+
+Papers in the roadside
+Tell of suffering and greed
+Here today, forgot tomorrow
+Ooh, here besides the news
+Of holy war and holy need
+Ours is just a little sorrowed talk
+
+And I don't cry for yesterday
+There's an ordinary world
+Somehow I have to find
+And as I try to make my way
+To the ordinary world
+I will learn to survive
+
+Every one
+Is my world, I will learn to survive
+Any one
+Is my world, I will learn to survive
+Any one
+Is my world
+Every one
+Is my world
+
+
 

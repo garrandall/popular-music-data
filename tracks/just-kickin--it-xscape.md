@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-kickin--it-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/xscape/justkickinit.html
 name: Just Kickin' It
 rankings:
 - end_date: '1993-09-24'
@@ -91,4 +92,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
 ---
+
+
+Every man wants a woman,
+Where him and her can just go hang.
+Just the two of them along, kick back,
+Doing their own thing.
+And every man wants a woman,
+That can always keep him in the mood.
+And I'm that kind of girl,
+So this is what I tell my dude.
+
+
+I tell him to kick off your shoes and relax your feet,
+Party on down to the Xscape beat.
+Just kick it.
+Just kick it, just kick it.
+
+
+
+Every man wants a woman,
+That can cook him up a good meal.
+A woman he can treat like his homie,
+And take her out on the Ave. and just chill.
+Every man wants a woman,
+That ain't good for just laying on her back.
+:And I'm that kind of woman,
+:So before me and my man get in the sack...
+
+
+
+
 

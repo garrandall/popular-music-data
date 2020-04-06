@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-eyes-love-and-theft
+lyrics_url: https://www.azlyrics.com/lyrics/loveandtheft/shesamazing.html
 name: Angel Eyes
 rankings:
 - end_date: '2012-06-08'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
 ---
+
+A char on the porch
+That sun comin' up
+Warm on my face
+I'm thanking god for my luck
+
+She walks through the door
+Wrapped up in a sheet
+Floating on air
+An Angel in her bare feet
+Leaving me speechless
+
+
+She's the light at dawn
+She's the cloud I'm on
+She's amazing
+Mona Lisa's smile
+She's so innocent and wild
+She's amazing, yeah
+She's Amazing
+
+Her eyes say it all
+There's something to see
+I can't stop staring
+Her staring back at me
+The world doesn't matter
+Nothing else matters
+
+
+
+Amazing
+So Amazing
+
+
+
+She's Amazing
+She's Amazing
+
+
 

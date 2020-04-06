@@ -5,6 +5,7 @@ features:
 - Sia
 genres: []
 key: dusk-till-dawn-zayn-sia
+lyrics_url: https://www.azlyrics.com/lyrics/zaynmalik/dusktilldawn.html
 name: Dusk Till Dawn
 rankings:
 - end_date: '2017-10-06'
@@ -76,4 +77,111 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
 ---
+
+
+Not tryna be indie
+Not tryna be cool
+Just tryna be in this
+Tell me, are you too?
+Can you feel where the wind is?
+Can you feel it through
+All of the windows
+Inside this room?
+
+'Cause I wanna touch you baby
+And I wanna feel you too
+I wanna see the sunrise
+On your sins just me and you
+
+
+Light it up, on the run
+Let's make love tonight
+Make it up, fall in love, try
+
+Baby, I am right here
+
+But you'll never be alone
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+I'll hold you when things go wrong
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+
+I'll be with you from dusk till dawn
+Baby, I'm right here
+
+
+
+Your life in the daytime is over. There's eyes on you everywhere. You know that, right? I'm watching you. My crew's watching you. You know your little homies? They pissed off. They mad at you, bro. Your name is mud on the streets. Oh, I know who you are.
+
+You don't know me.
+
+We were shut like a jacket
+So do your zip
+We would roll down the rapids
+To find a wave that fits
+Can you feel where the wind is?
+Can you feel it through
+All of the windows
+Inside this room?
+
+
+'Cause I wanna touch you baby
+And I wanna feel you too
+I wanna see the sunrise
+On your sins just me and you
+
+Light it up, on the run
+Let's make love tonight
+Make it up, fall in love, try
+
+Baby, I am right here
+
+But you'll never be alone
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+I'll hold you when things go wrong
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+
+I'll be with you from dusk till dawn
+Baby, I am right here
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+Go, give love to your body
+It's only you that can stop it
+Go, give love to your body
+It's only you that can stop it
+
+Go, give love to your body
+It's only you that can stop it
+Go, give love to your body
+Go, give love to your body
+
+But you'll never be alone
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+I'll hold you when things go wrong
+I'll be with you from dusk till dawn
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+I'll be with you from dusk till dawn
+Baby, I am right here
+
+
 

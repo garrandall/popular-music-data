@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shock-the-monkey-peter-gabriel
+lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/shockthemonkey.html
 name: Shock The Monkey
 rankings:
 - end_date: '1982-10-29'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+
+Cover me when I run
+Cover me through the fire
+Something knocked me out ' the trees
+Now I'm on my knees
+Cover me, darling please
+Monkey, monkey, monkey
+Don't you know you're going to shock the monkey
+
+Fox the fox
+Rat on the rat
+You can ape the ape
+I know about that
+There is one thing you must be sure of
+I can't take any more
+Darling, don't you monkey with the monkey
+Monkey, monkey, monkey
+Don't you know you're going to shock the monkey
+Shock the monkey
+
+Monkey, Wheels keep turning
+Monkey, Something's burning
+Monkey, Don't like it but I guess I'm learning
+Shock! Shock! Shock! - watch the monkey get hurt, monkey
+
+Monkey, Wheels keep turning
+Monkey, Something's burning
+Monkey, Don't like it but I guess I'm learning
+Shock! Shock! Shock! - watch the monkey get hurt, monkey
+
+Monkey, Too much at stake 
+Monkey, Ground beneath me shake
+Monkey, And the news is breaking
+Shock! Shock! Shock! - watch the monkey get hurt, monkey
+
+Shock the monkey, shock the monkey
+Shock the monkey, shock the monkey
+Shock the monkey to life
+
+
 

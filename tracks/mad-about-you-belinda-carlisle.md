@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mad-about-you-belinda-carlisle
+lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/madaboutyou.html
 name: Mad About You
 rankings:
 - end_date: '1986-05-23'
@@ -91,4 +92,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-04'
 ---
+
+I'm mad about you
+You're mad about me babe
+Couple of fools run wild aren't we
+Pushing the day into the nighttime
+Somewhere between the two
+We start to see
+
+Mad about you (Mad about you)
+Lost in your eyes (Reason aside)
+Mad about love (Mad about you)
+You and I
+
+Something 'bout you
+Right here beside me
+Touches the touched part of me like I can't believe
+Pushing the night into the daytime
+Watching the sky's first light
+While the city sleeps
+
+
 

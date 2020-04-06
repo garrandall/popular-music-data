@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweat--a-la-la-la-la-long--inner-circle
+lyrics_url: https://www.azlyrics.com/lyrics/johngibbons/sweatalalalalasong.html
 name: Sweat (A La La La La Long)
 rankings:
 - end_date: '1993-08-13'
@@ -107,4 +108,124 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
 ---
+
+(I've been watching you)
+A La La La La Long...
+A La La La La Long...
+(Come On)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it some more, more, more
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it
+Push it, push it some more
+
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+Woo! (Push it, push it some more)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Come on)
+A La La La La Long...
+(I've been watching you)
+
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+Woo!
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Come on)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Push it, push it some more)
+
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it some more, more, more
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it
+Push it, push it some more
+
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it some more, more, more
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it
+Push it, push it some more
+
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+Woo! (Push it, push it some more)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Come on)
+A La La La La Long...
+(I've been watching you)
+
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+Woo!
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Come on)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Push it, push it some more)
+
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it some more, more, more
+Girl I wanna make you sweat
+Sweat till you can't sweat no more
+And if you cry out I'm gonna push it
+Push it, push it some more
+Push it, push it some more
+(I've been watching you)
+
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+Woo!
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Come on)
+A La La La La Long
+A La La La La Long Long
+Li Long Long Long
+(Push it, push it some more)
+
+
 

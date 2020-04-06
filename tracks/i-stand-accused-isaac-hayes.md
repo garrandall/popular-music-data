@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-stand-accused-isaac-hayes
+lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/istandaccused.html
 name: I Stand Accused
 rankings:
 - end_date: '1970-09-04'
@@ -43,4 +44,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
 ---
+
+I stand accused
+Of lovin' you too much
+And I hope, I hope it's not a crime
+'Cause if it is, I'm guilty
+Of lovin' you, you, you
+
+I, I hope to God
+That I never have, oh, to testify
+'Cause if I do
+Everyone is gonna, they're gonna cry
+They're gonna say
+ is guilty
+Of lovin' a sweet girl like you
+
+I know, I know
+You belong to another
+I, I may not stand a ghost of a chance
+I'll stand on top of Mount Everest
+And proudly tell the world that I love ya
+Oh yes, I will
+
+Because I, I just can't
+I can't help myself
+I'm a victim of circumstance
+
+And just one
+Ooh, one touch of your hand
+I don't know how it happened
+But just look at me
+I find myself chillin'
+On the witness stand
+
+And I'm shoutin' out
+All over, all over the land
+
+I'm guilty of lovin', lovin' you
+
+I'm guilty of lovin' you
+I said, I'm guilty
+But what can I do?
+I wanna hold ya
+I wanna squeeze ya tight
+But my mind said
+She belong to another
+And that ain't right
+
+
 

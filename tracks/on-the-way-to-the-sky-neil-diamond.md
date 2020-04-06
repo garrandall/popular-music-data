@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-way-to-the-sky-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/onthewaytothesky.html
 name: On The Way To The Sky
 rankings:
 - end_date: '1982-02-19'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
 ---
+
+We are two
+And two of us are one
+I'm back on my feet again,
+Out on the street again
+Looking for love
+On the way to the sky
+
+Some people moving up,
+And some people standing still
+Some hold their hands out,
+And some people never will
+
+Lovers and liars
+Consumed by the fires
+Of too many dances
+But not enough song, you're my song
+
+We pity the poor one,
+The shy and unsure one
+Who wanted it perfect
+But waited too long
+There's no way to count
+Or to measure the cost
+Of the innocence lost
+On the way to the sky
+You and I
+
+And we are two,
+And two of us are one
+But maybe two of us
+Can be enough to get it done
+
+Lovers and liars
+Consumed by the fires
+Of too many dances
+But not enough song
+
+We pity the poor one,
+The shy the unsure one
+Who wanted it perfect
+But waited too long,
+Much too long
+
+I'm back on my feet again
+I'm out on the street again
+Looking for love
+On the way to the sky
+You and I
+
+
 

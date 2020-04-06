@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-my-mind-set-on-you-george-harrison
+lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/gotmymindsetonyou.html
 name: Got My Mind Set On You
 rankings:
 - end_date: '1987-10-30'
@@ -95,4 +96,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
 ---
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+But it's gonna take money
+A whole lotta spending money
+It's gonna take plenty of money
+To do it right child
+
+It's gonna take time
+A whole lot of precious time
+It's gonna take patience and time, ummm
+To do it, to do it, to do it, to do it, to do it
+To do it right child
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+And this time I know it's for real
+The feelings that I feel
+I know if I put my mind to it
+I know that I really can do it
+
+I got my mind set on you
+Set on you
+I got my mind set on you
+Set on you
+
+But it's gonna take money
+A whole lotta spending money
+It's gonna take plenty of money
+To do it right child
+
+It's gonna take time
+A whole lot of precious time
+It's gonna take patience and time, ummm
+To do it, to do it, to do it, to do it, to do it
+To do it right child
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+And this time I know it's for real
+The feelings that I feel
+I know if I put my mind to it
+I know that I really can do it
+
+But it's gonna take money
+A whole lotta spending money
+It's gonna take plenty of money
+To do it right child
+
+It's gonna take time
+A whole lot of precious time
+It's gonna take patience and time, ummm
+To do it, to do it, to do it, to do it, to do it
+To do it right
+
+Set on you
+Set on you
+Set on you
+Set on you
+Set on you
+Set on you
+Set on you
+I got my mind set on you
+Set on you...
+
+
 

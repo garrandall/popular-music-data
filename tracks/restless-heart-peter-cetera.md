@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: restless-heart-peter-cetera
+lyrics_url: https://www.azlyrics.com/lyrics/petercetera/restlessheart.html
 name: Restless Heart
 rankings:
 - end_date: '1992-07-17'
@@ -87,4 +88,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
 ---
+
+I don't wanna lose you 
+I don't want you walking away
+We're so good together 
+Tell me it's forever
+'Cause I want you to stay
+
+I'll be damned if 
+I'm living without you
+And as long as I live 
+You will know
+
+I just wanna build 
+My world around you
+Don't want you to go
+
+Don't leave me here 
+With my restless heart
+The one you fill with the emotion 
+Baby right from the start
+'Cause the hardest part is being alone 
+With my restless heart
+Hmmm, with my restless heart
+
+Tell me where you want me
+Anytime, I don't care
+Tell me when you need me
+'Cause baby when you need me
+I will be right there
+(I will be right there)
+
+I'll be damned if 
+I'm living without you
+And as long as I live
+You will know
+
+I will never build 
+A wall around you
+And I don't want you to go
+
+Don't leave me here 
+With my restless heart
+The one you fill with the emotion 
+Baby right from the start
+And the hardest part is being alone 
+With my restless
+With my restless
+With my restless heart
+
+I'll be damned if 
+I'm living without you
+And as long as I live
+You will know
+
+I just wanna build 
+My world around you
+I don't want you to go
+
+Don't leave me here 
+With my restless heart
+The one you fill with the emotion 
+Baby right from the start
+'Cause the hardest part is being alone 
+With my restless
+With my restless
+With my restless heart
+
+Don't leave me here 
+With my restless heart
+The one you fill with the emotion 
+Baby right from the start
+'Cause the hardest part is being alone 
+With my restless heart
+With my restless
+
+Don't leave me here 
+With my restless heart
+The one you fill with the emotion 
+Baby right from the start
+'Cause the hardest part is being alone 
+With my restless
+With my restless
+With my restless heart
+
+
 

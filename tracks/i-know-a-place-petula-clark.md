@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know-a-place-petula-clark
+lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/iknowaplace.html
 name: I Know A Place
 rankings:
 - end_date: '1965-03-26'
@@ -55,4 +56,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
 ---
+
+Every day when the work is behind you
+and the shop and the store put the lock on the door,
+just get away where your worries won't find you.
+If you like, well, I'll tell you more.
+
+Don't let the day get the better of you.
+When the evening comes, there's so much to do!
+You'd better put on your best and wear a smile.
+Come along with me a while
+'cause I tell you
+
+
+I know a place
+where the music is fine and the lights are always low!
+I know a place 
+where we can go.
+
+At the door there's a man who will greet you.
+Then you go downstairs to some tables and chairs.
+Soon, I'm sure, you'll be tapping your feet
+because the beat is the greatest there.
+
+All around there are girls and boys.
+It's a swingin' place,
+a cellar full of noise!
+It's got an atmosphere of its own somehow.
+You gotta come along right now!
+'Cause I tell you
+
+
+
+
+
+Well, all around there are girls and boys.
+It's a swingin' place,
+a cellar full of noise.
+It's got an atmosphere of its own somehow.
+You've gotta come along right now!
+'Cause I tell you
+
+
+
+I know a place where we can go!
+I know a place where the lights are low!
+I know a place where we can go! 
+I know a place where the lights are low!
+
+
+
 

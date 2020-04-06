@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hemorrhage--in-my-hands--fuel
+lyrics_url: https://www.azlyrics.com/lyrics/fuel/hemorrhageinmyhands.html
 name: Hemorrhage (In My Hands)
 rankings:
 - end_date: '2000-11-03'
@@ -95,4 +96,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
 ---
+
+Memories are just where you laid them 
+Dragging the waters til the depths give up their dead 
+What did you expect to find? 
+Was it something you left behind? 
+Don't you remember anything I said when I said, 
+
+
+Don't fall away and leave me to myself 
+Don't fall away and leave love bleeding in my hands, in my hands again 
+And leave love bleeding in my hands, in my hands 
+Love lies bleeding 
+
+Oh hold me now I feel contagious 
+Am I the only place that you've left to go? 
+She cries her life is like 
+Some movie in black and white 
+Dead actors faking lines, over and over and over again she cries 
+
+
+
+And I watched as you turned away 
+You don't remember, but I do 
+You never even tried 
+
+Don't fall away and leave me to myself 
+Don't fall away and leave love bleeding in my hands, in my hands again 
+Leave love bleeding in my hands, in my hands again 
+Leave love bleeding in my hands, in my hands again, oh
+
+
 

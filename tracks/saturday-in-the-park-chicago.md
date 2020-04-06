@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saturday-in-the-park-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/saturdayinthepark.html
 name: Saturday In The Park
 rankings:
 - end_date: '1972-08-11'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
 ---
+
+Saturday in the park
+I think it was the Fourth of July
+Saturday in the park
+I think it was the Fourth of July
+People dancing, people laughing
+A man selling ice cream
+Singing Italian songs
+Eh cumpari, ci vo sunari
+Can you dig it (yes, I can)
+And I've been waiting such a long time
+For Saturday
+
+Another day in the park
+I think it was the Fourth of July
+Another day in the park
+I think it was the Fourth of July
+People talking, really smiling
+A man playing guitar (play a song, play a song, play on)
+Singing for us all (singing for us)
+Will you help him change the world
+Can you dig it (yes, I can)
+And I've been waiting such a long time
+For today
+
+Slow motion riders fly the colours of the day
+A bronze man still can tell stories his own way
+Listen children all is not lost, all is not lost
+Oh no, no
+
+Forty days in the park
+And every day's the Fourth of July 
+Forty days in the park
+Every day's the Fourth of July
+People reaching, people touching
+A real celebration
+Waiting for us all (waiting for us all)
+If we want it, really want it
+Can you dig it (yes, I can)
+And I've been waiting such a long time
+For the day
+Yeah, yeah, yeah
+
+
 

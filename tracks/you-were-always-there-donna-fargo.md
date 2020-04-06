@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-always-there-donna-fargo
+lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/youwerealwaysthere.html
 name: You Were Always There
 rankings:
 - end_date: '1973-06-22'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
 ---
+
+Can't remember my first mem'ry of you you were always there
+And now I know I never knew you well
+But I was just a kid and you were always there to pick me up every time I fell
+And you always warmed a blanket to wrap around my feet
+When you tucked me into bed to say my prayers
+And I'll bet I never thanked you among all the other things
+That I took for granted cause you were always there
+Yes you were always there so we never took the time
+For you to tell me your dreams and me to tell you mine
+And we never took the time to talk of love and happiness
+And life and death and heartache and pain and loneliness
+
+Why I don't even know if you were happy or if you could have been
+Or if you could have one wish what would it be
+Or what would you do differently if you could live again
+And were you glad that you gave life to me
+And I'd give anything to tell you am I glad that you were born
+But you'll never hear the words I've learned to say
+Cause before I got to know you died of loneliness
+And they tell me I grew up and moved away
+Yes you were always there so we never took the time
+For you to tell me your dreams and me to tell you mine
+There were so many things that could have been but now we'll never share
+Cause kids don't know much and you were always there
+No kids don't know much and you were always there
+
+
 

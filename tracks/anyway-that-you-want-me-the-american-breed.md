@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anyway-that-you-want-me-the-american-breed
+lyrics_url: https://www.azlyrics.com/lyrics/priests/pinkwhitehouse.html
 name: Anyway That You Want Me
 rankings:
 - end_date: '1968-08-09'
@@ -23,4 +24,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anyway anyway
+
+Magical psychology, deceptive anthropology
+All the wing nuts got a haircut, bred and had babies
+Bred and had babies
+
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anything you want, anyone you want
+
+A puppet show in which you're made to feel like you participate
+Sign a letter, throw your shoe, vote for numbers 1 or 2
+
+Consider the options of a binary
+Consider the options of a binary
+Consider the options of a binary
+Consider the options of a binary
+
+Come on palm trees, come on soft seas, come on vacation, come on SUV
+Oooh baby my American dream oooh baby my American dream
+Come on sitcom, come on streaming, come on nostalgia, nineties TV
+Oooh baby my American dream oooh baby my American dream
+Come on nothing, come on surface meaning, come on cash grab, safety masturbating
+Oooh baby my American dream oooh baby my American dream
+
+"I am not done fundraising, I am anticipating, appreciation, new age painting"
+
+It's common disease, It's a common disease
+Lap dog or tease, lap dog or tease
+It's a common disease, Lap dog or tease
+Lap dog or tease, so
+
+Kneel at the feet of programming, I'm really not concerned with what you think
+You are just a cog in the machine and I am a wet dream soft and mean
+Thick line steam, slick and mean
+You're too pitiful to be obscene, too cowardly to be embarrassing
+
+Reinforcing everything killing all that bleed, so
+So, so, so
+So, swear it on the leaves
+Swear it on the leaves, swear it on the leaves
+Swear it on the leaves, swear it on the leaves
+Swear it on the leaves, swear it on the leaves
+Swear it on the leaves, swear it on the leaves
+Swear it on the leaves
+
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anything you want, anyone you want, anywhere you want, anyway anyway
+Anyway
+
+
 

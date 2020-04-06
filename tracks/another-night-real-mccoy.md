@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-night-real-mccoy
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/anotherfridaynight.html
 name: Another Night
 rankings:
 - end_date: '1994-09-02'
@@ -187,4 +188,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
 ---
+
+Gonna cash my check before the drive-thru closes
+Get my baby a couple Quick Sack roses
+Put $5 worth of gas in my pride and joy
+Another Friday night in the life of a country boy 
+
+Gonna take her out to the Tasty Freeze then
+We'll go dancin' at the American Legion
+When ole Bobby does Elvis
+You'll swear it was the real mccoy
+Another Friday night in the life of a country boy 
+
+Aww there ain't much to do 
+In this one life town
+But we don't let that 
+Slow us down
+If it's too quiet
+We make our own noise
+Now you can bet your boots
+By the end of the week
+My pretty little girl
+Is ready for me
+Another Friday night in the life of a country boy 
+
+When we've had enough of that shakin' and a-shoutin'
+We go fog up the windows in the Smoky Mountains
+We have more fun than a couple of tourists and a Polaroid
+Another Friday night in the lift of a country boy 
+
+Aww there ain't much to do 
+In this one life town
+But we don't let that 
+Slow us down
+If it's too quiet
+We make our own noise
+Now you can bet your boots
+By the end of the week
+My pretty little girl
+Is ready for me
+Another Friday night in the life of a country boy 
+
+Another Friday night in the life of a country boy
+
+
 

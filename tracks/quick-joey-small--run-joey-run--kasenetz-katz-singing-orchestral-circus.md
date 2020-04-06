@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: quick-joey-small--run-joey-run--kasenetz-katz-singing-orchestral-circus
+lyrics_url: https://www.azlyrics.com/lyrics/bosshoss/quickjoeysmall.html
 name: Quick Joey Small (Run Joey Run)
 rankings:
 - end_date: '1968-10-11'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
 ---
+
+Quick Joey Small went over the wall
+With a ball an' a chain behind him
+Quick Joey Small went over the wall
+Send the dogs right out to find him
+
+In a striped prison suit with no room to move
+He headed for the highway
+With his chain still dragin'
+He thumbed down a wagon said well you're goin' my way
+And they say now
+
+Run Joey, Joey run run the hounds are on your trail
+Jump-up, jump-up
+Run Joey, Joey run run they're gonna send you back to jail
+
+Sheriff got a shotgun, he do
+He'll fill you full of lead son, it's true
+
+He's also got a blackjack, he's mad
+He'd bust your head with one wack
+Here I go now
+
+Run Joey, Joey run run the hounds are on your trail
+
+Sweet Mary Jane was goin' insane
+When she heard of Joey's jail break
+But she knew all the while 'cause
+She sent him a file
+Baked inside a fudge cake
+
+Run Joey, Joey run run the hounds are on your trail
+Jump-up, jump-up
+Run Joey, Joey run run they're gonna send you back to jail
+
+Sheriff Jack Banes was a light on brains
+But he knew one thing for sure
+He took some toughs and a pair of handcuffs
+And headed straight for Mary Jane's door
+
+Run Joey, Joey run run the hounds are on your trail
+Jump-up, jump-up
+Run Joey, Joey run run they're gonna send you back to jail
+
+Run Joey, Joey run run the hounds are on your trail
+Jump-up, jump-up
+Run Joey, Joey run run they're gonna send you back to jail
+
+
 

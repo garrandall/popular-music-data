@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-to-be-in-love-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/ineedtobeinlove.html
 name: I Need To Be In Love
 rankings:
 - end_date: '1976-06-18'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
 ---
+
+The hardest thing I've ever done is keep believing
+There's someone in this crazy world for me
+The way that people come and go through temporary lives
+My chance could come and I might never know
+
+I used to say "No promises, let's keep it simple"
+But freedom only helps you say goodbye
+It took a while for me to learn that nothing comes for free
+The price I paid is high enough for me
+
+ I know I need to be in love
+I know I've wasted too much time
+I know I ask perfection of a quite imperfect world
+
+And fool enough to think that's what I'll find
+
+ So here I am with pockets full of good intentions
+But none of them will comfort me tonight
+I'm wide awake at 4 a.m. without a friend in sight
+I'm hanging on a hope but I'm all right
+
+
+
+
+
+
 

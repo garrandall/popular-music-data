@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daydream-believer-anne-murray
+lyrics_url: https://www.azlyrics.com/lyrics/annemurray/daydreambeliever.html
 name: Daydream Believer
 rankings:
 - end_date: '1979-12-28'
@@ -75,4 +76,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
 ---
+
+Oh I could hide 'neath the wings of the blue bird as she sings
+The six o'clock alarm would never ring
+But it rings and we rise wipe the sleep out of our eyes
+The shaving razor's cold and it stings.
+
+
+Cheer up sleepy Jean Oh what can it mean
+To a daydream believer and a homecoming queen.
+
+I once thought of you as a white knight on a steed
+Now you know how happy we can be.
+Oh when our good times started then
+Not a dollar one to spend 
+But how much baby do we really need
+
+
 

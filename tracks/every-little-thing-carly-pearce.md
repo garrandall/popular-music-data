@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-thing-carly-pearce
+lyrics_url: https://www.azlyrics.com/lyrics/carlypearce/everylittlething.html
 name: Every Little Thing
 rankings:
 - end_date: '2017-08-25'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
 ---
+
+The scent that you left on my pillow
+The sound of your heart beating with mine
+The look in your eyes like a window
+The taste of your kiss soaked in wine
+
+Every little thing
+I remember every little thing
+The high, the hurt, the shine, the sting
+Of every little thing
+
+Guess you forgot what you told me
+Because you left my heart on the floor
+Baby, your ghost still haunts me
+But I don't want to sleep with him no more
+
+Every little thing
+I remember every little thing
+The high, the hurt, the shine, the sting
+Of every little thing
+I remember every little thing
+The high, the hurt, the shine, the sting
+Of every little thing
+
+They say time is the only healer
+God, I hope that isn't right
+Cause right now I'd die to not remember
+
+Every little thing
+I remember every little thing
+The high, the hurt, the shine, the sting
+Every little thing
+I remember every little thing
+I'm haunted by the memories of
+Every little thing
+The high, the hurt, the shine, the sting
+Every little thing
+
+
 

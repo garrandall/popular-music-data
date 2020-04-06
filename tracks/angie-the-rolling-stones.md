@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angie-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/angie.html
 name: Angie
 rankings:
 - end_date: '1973-09-14'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
 ---
+
+Angie, Angie
+When will those clouds all disappear?
+Angie, Angie
+Where will it lead us from here?
+With no loving in our souls
+And no money in our coats
+You can't say we're satisfied
+But Angie, Angie
+You can't say we never tried
+Angie, you're beautiful, yeah
+But ain't it time we said goodbye?
+Angie, I still love you
+Remember all those nights we cried?
+All the dreams we held so close
+Seemed to all go up in smoke
+Let me whisper in your ear
+Angie, Angie
+Where will it lead us from here?
+
+Oh, Angie, don't you weep
+All your kisses still taste sweet
+I hate that sadness in your eyes
+But Angie, Angie
+Ain't it time we said goodbye? Yeah
+
+With no loving in our souls
+And no money in our coats
+You can't say we're satisfied
+But Angie, I still love you, baby
+Everywhere I look, I see your eyes
+There ain't a woman that comes close to you
+Come on, baby, dry your eyes
+But Angie, Angie
+Ain't it good to be alive?
+Angie, Angie
+They can't say we never tried
+
+
 

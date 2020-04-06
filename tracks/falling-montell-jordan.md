@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falling-montell-jordan
+lyrics_url: https://www.azlyrics.com/lyrics/montelljordan/falling.html
 name: Falling
 rankings:
 - end_date: '1996-10-11'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
+
+
+Falling for you 
+And I just can't help myself
+Baby I'm falling
+Falling for you 
+And I just can't help myself
+Baby I'm falling
+
+Thirty days since our first kiss
+Sit alone reminisce
+What you said last night just took me by surprise
+How you said you're not gonna cry no more
+You're waiting to exhale
+Having feelings that you're falling
+Woman I've already fell
+
+
+
+Contemplating what to do
+Falling faster over you
+But my heart and pride are out there on the line
+I dial your number on the phone
+A steady ringing your not home
+If you're listening to this message
+Girl I'm calling cuz I'm falling for you
+
+Falling for you
+And I just can't help myself
+Baby I'm falling
+(Can't believe I'm falling)
+Falling for you 
+(Do you feel the same way too)
+And I just can't help myself
+Baby I'm falling
+
+Falling for you 
+And I just can't help myself 
+Baby I'm falling for you
+Falling for you 
+And I just can't help myself 
+Baby I'm falling for you 
+
+Falling for you
+(yes I am, yes I am)
+And I just can't help myself
+(can't help myself)
+Baby I'm falling
+(Oh I, oh I)
+Falling for you 
+And I just can't help myself
+(Falling baby)
+Baby I'm falling
+(Falling baby)
+
+I can't help myself
+Seems I keep on falling
+No, no I just can't help myself
+Seems I keep on falling
+No just can't help myself
+Seems like I keep on falling
+Yeah, help me
+Won't you help me sugar
+
+
+(I'm falling)
+
+
 

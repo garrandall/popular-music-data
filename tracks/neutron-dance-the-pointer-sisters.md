@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: neutron-dance-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/neutrondance.html
 name: Neutron Dance
 rankings:
 - end_date: '1984-11-30'
@@ -99,4 +100,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
 ---
+
+I don't want to take it anymore
+I'll just stay here locked behind the door
+Just no time to stop and get away
+Cause I work so hard to make it everyday
+
+Whoo oooh
+Whoo oooh
+
+There's no money falling from the sky
+Cause a man took my heart and robbed me blind
+Someone stole my brand new Chevrolet
+And the rent is due, I got no place to stay
+
+Whoo oooh
+Whoo oooh
+
+
+And it's hard to say
+Just how some things never change
+And it's hard to find
+Any strength to draw the line
+I'm just burning doin' the neutron dance
+I'm just burning doin' the neutron dance
+
+Industry don't pay a price that's fair
+All the common people breathing filthy air
+Roof caved in on all the simple dreams
+And to get ahead your heart starts pumping schemes
+
+
+
+Whoo oooh
+Whoo oooh
+I'm on fire
+I'm on fire
+
+
+
+I know there's a pot of gold for me
+All I got to do is just believe
+I'm so happy doin' the neutron dance
+And I'm just burning doin' the neutron dance
+I'm so happy doin' the neutron dance
+I'm just burning doin' the neutron dance
+
+
 

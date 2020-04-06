@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-miss-my-friend-darryl-worley
+lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/imissmyfriend.html
 name: I Miss My Friend
 rankings:
 - end_date: '2002-06-21'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
+
+I miss the look of surrender in your eyes
+The way your soft brown hair would fall
+I miss the power of your kiss when we made love
+But baby most of all
+
+I miss my friend
+The one my heart and soul confided in
+The one I felt the safest with
+The one who knew just what to say to make me laugh again
+And let the light back in
+I miss my friend
+
+I miss the colors that you brought into my life
+Your golden smile, those blue-green eyes
+I miss your gentle voice in lonely times like now
+Saying it'll be alright
+
+I miss my friend
+The one my heart and soul confided in
+The one I felt the safest with
+The one who knew just what to say to make me laugh again
+And let the light back in
+I miss my friend
+
+I miss those times
+I miss those nights
+I even miss our silly fights
+The making up
+The morning talks
+And those late afternoon walks
+
+I miss my friend
+The one my heart and soul confided in
+The one I felt the safest with
+The one who knew just what to say to make me laugh again
+And let the light back in
+I miss my friend
+I miss my friend
+I miss my friend
+Mmmmmmmm
+I miss my friend
+Mmmmmmmm
+
+
 

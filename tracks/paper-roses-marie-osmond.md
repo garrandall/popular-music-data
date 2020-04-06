@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paper-roses-marie-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/paperroses.html
 name: Paper Roses
 rankings:
 - end_date: '1973-09-21'
@@ -71,4 +72,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
+
+I realized the way your eyes deceived me
+With tender looks that I mistook for love
+So take away the flowers that you gave me
+And send the kind that you remind me of
+
+Paper roses, paper roses
+Oh, how real those roses seem to be
+But they're only imitation
+Like you imitation love for me
+
+I thought that you would be a perfect lover
+You seemed so full of sweetness at the start
+But like a big red rose that's made of paper
+There isn't any sweetness in your heart
+
+Paper roses, paper roses
+Oh, how real those roses seem to be
+But they're only imitation 
+Like your imitation love for me
+
+
 

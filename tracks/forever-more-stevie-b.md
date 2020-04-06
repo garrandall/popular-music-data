@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-more-stevie-b
+lyrics_url: https://www.azlyrics.com/lyrics/stevieb/forevermore.html
 name: Forever More
 rankings:
 - end_date: '1991-11-01'
@@ -23,4 +24,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
 ---
+
+Je t'aime toujours, mon amour
+
+Yeah, yeah, yeah
+
+Girl, I'll do anything for you
+'Cause you that made my dream come true
+And I'd really like to know you better
+
+When I looked into your eyes
+It took me by surprise
+All I saw was love and emotion
+Girl, let's run away
+Just you and I today
+Girl, I want your total devotion
+
+Let me love you, girl, forever more
+I love you, baby
+Let me love you, girl, forever more
+I love you, baby
+
+Baby, there's nothing like kissing you
+That's all I really want to do
+Girl, you're like a priceless treasure
+
+When I'm holdin' you so close
+Is what I like the most
+Girl, you know you turn me on, baby
+I know your love is real
+'Cause girl, I know the deal
+I just want your love and devotion
+
+Let me love you, girl, forever more
+I love you, baby
+Let me love you, girl, forever more
+I love you, baby
+
+When I'm sittin' all alone and I'm thinkin' of you, girl
+Won't you believe it when I tell you that I love you, girl
+What can I do to make it last forever
+
+Girl, I only wanna be with you
+
+When I looked into your eyes
+It took me by surprise
+All I saw was love and emotion
+Girl, let's run away
+Just you and I today
+Girl, I want your total devotion
+
+Let me love you, girl, forever more
+I love you, baby
+Let me love you, girl, forever more
+I love you, baby
+
+When I'm sittin' all alone and I'm thinkin' of you, girl
+Won't you believe it when I tell you that I love you, girl
+What can I do to make it last forever, girl
+I'm sittin' all alone, I'm sit-sit-sit, I'm sittin' all alone, sit-sit-sit
+
+Remember I love you, girl
+I'll be there for you, baby
+Oh, yeah, hey, yeah
+
+Let me love you, girl, forever more (I'll be there for you, baby)
+I love you, baby
+Let me love you, girl, forever more (Oh, wanna live my life lovin' you)
+I love you, baby
+
+Let me love you, girl, forever more (Forever more, forever more, baby)
+I love you, baby
+Let me love you, girl, forever more (I'll do anything for you, baby, yeah)
+I love you, baby
+
+
 

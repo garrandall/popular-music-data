@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lookin--for-a-good-time-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/lookinforagoodtime.html
 name: Lookin' For A Good Time
 rankings:
 - end_date: '2008-10-31'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
 ---
+
+Girl you're beautiful
+You're bout near perfect
+But I bet somebody's already told you that
+Name your poison
+Name your passion
+Cause a boy like me just couldn't help but ask
+Keep on talking to me baby
+I'm hanging on your every word
+Keep those drinks a coming maybe
+We'll both get what we deserve
+
+
+How bout baby
+We make a promise
+To not promise anything more than one night
+Complicated situations
+Only get worse in the morning light
+Hey I'm just lookin' for a good time
+
+Put in a long hard week doing this 9 to 5
+And you're just the girl to get that off my mind
+You shouldn't have worn that dress
+You shouldn't dance like that
+You got this little heart of mine in overdrive
+I sure love this conversation
+The band is good, the music's loud
+But would you get the wrong impression
+If I called us a cab right now? Oh yeah
+
+
+
+Go ahead and lie to me and pull me close
+Tell me that you love me even if you don't
+The rule is don't you ever even talk about forever
+But you never say never in life
+
+
+
+Hey I'm just lookin' for a good time
+
+
 

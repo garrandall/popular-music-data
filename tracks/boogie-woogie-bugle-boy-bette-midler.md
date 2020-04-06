@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-woogie-bugle-boy-bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/boogiewoogiebugleboy.html
 name: Boogie Woogie Bugle Boy
 rankings:
 - end_date: '1973-05-18'
@@ -71,4 +72,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
 ---
+
+He was a famous trumpet man from out Chicago way.
+He had a boogie style that no one else could play.
+He was the top man at his craft,
+But then his number came up and he was gone with the draft.
+
+He's in the army now. A blowin' reveille.
+He's the boogie-woogie bugle boy of Company B.
+
+They made him blow a bugle for his Uncle Sam.
+It really brought him down because he could not jam.
+The captain seemed to understand,
+Because the next day the cap' went out and drafted the band.
+
+And now the Company jumps when he plays reveille.
+He's the boogie-woogie bugle boy of Company B.
+
+A root, a toot, a toodlie-a-da-toot.
+He blows it eight to the bar in boogie rhythm.
+He can't blow a note unless a bass and guitar is playin' with him.
+
+And the Company jumps when he plays reveille.
+He's the boogie-woogie bugle boy of Company B.
+
+He was some boogie-woogie bugle boy of Company B.
+And when he played his boogie-woogie bugle he was busy as a busy bee.
+
+And when he played he made the Company jump eight to the bar.
+He's the boogie-woogie bugle boy of Company B.
+
+Andata toodliata-toodliata toot toot
+He blows it eight to the bar.
+He can't blow a note if a bass and guitar isn't with him.
+
+And the Company jumps when he plays reveille.
+He's the boogie-woogie bugle boy of Company B.
+
+He puts the boys to sleep with boogie every night,
+And wakes 'em up the same way in the early bright.
+They clap their hands and stamp their feet,
+'Cause they know how it goes when someone gives him a beat.
+
+Whoa, whoa, he wakes 'em up when he plays reveille.
+The boogie-woogie bugle boy of Company B.
+
+A root, a toot, a toodli-a-da to toot toot toot
+He's blowin' eight to the bar.
+He can't blow a note if a bass and guitar isn't, whoa, with him.
+
+And the Company jumps when he plays reveille.
+He's the boogie-woogie bugle boy of Company B.
+
+
 

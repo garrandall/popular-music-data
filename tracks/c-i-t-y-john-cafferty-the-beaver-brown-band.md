@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: c-i-t-y-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/city.html
 name: C-I-T-Y
 rankings:
 - end_date: '1985-08-16'
@@ -68,4 +69,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
+
+On the South side of Detroit city
+I'm working all night on the line
+Under black smoke stacks
+Building Cadillacs, Jack
+Not one of them will ever be mine
+
+I'm gonna make it out of the city
+Got an American dream that's true
+Want a big red car and
+A big white house and
+A blue-eyed girl like you
+
+You can spend all my money, honey
+Na na na na, your man has come
+It's alright
+
+
+I'm living in the C-I-T-Y
+Talking hard times in the city
+Living in the C-I-T-Y
+Life here ain't no dream
+Living in the C-I-T-Y
+Walking hard times in the city
+Living in the C-I-T-Y
+You know what I mean
+
+Times are tough in the Motor City
+Where the bright lights used to shine
+Got two rooms looking
+Down a one-way street
+Staring out at a dead-end sign
+
+Little girl, I'm gonna be somebody
+If it's the last thing I ever do
+Buy the prettiest things
+Good money can bring
+There ain't nothing I won't do for you
+
+And you can spend
+All my money, honey
+Na na na na, your man has come
+It's alright
+
+
+
+
 

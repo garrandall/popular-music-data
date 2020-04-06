@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: before-the-next-teardrop-falls-freddy-fender
+lyrics_url: https://www.azlyrics.com/lyrics/claywalker/beforethenextteardropfalls.html
 name: Before The Next Teardrop Falls
 rankings:
 - end_date: '1975-02-07'
@@ -91,4 +92,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
+
+If he brings you happiness
+Then I wish you both the best
+It's your happiness that matters most of all
+But if he ever breaks your heart
+If the teardrops ever start
+I'll be there before the next teardrop falls
+
+Si te quire de verdad
+Y te da felicidad
+Te deseo lo mas bueno pa' los dos
+Pero si te hace llorar
+A mi me puedes hablar
+Y estare contigo cuando triste estas
+
+I'll be there anytime
+You need me by your side
+To drive away every teardrop that you cried
+And if he ever leaves you blue
+Just remember, I love you
+And I'll be there before the next teardrop falls
+And I'll be there before the next teardrop falls
+
+
 

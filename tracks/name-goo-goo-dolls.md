@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: name-goo-goo-dolls
+lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/bulletproof.html
 name: Name
 rankings:
 - end_date: '1995-10-20'
@@ -151,4 +152,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
 ---
+
+Do you listen to yourself?
+Never live for someone else
+Do you like the way you feel?
+Nothing hurts when no one's real
+She wants to shake this scene
+Yeah, she wants to shake with me
+She's not looking for the holes in all their lies
+
+I wanna bullet proof your soul
+Would you like to lose control?
+I won't let you fall until you tell me so
+
+What are we?
+(Whatcha wanna be?)
+Everything
+(That ya wanna be)
+All I need
+(Right in front of me)
+I've know before
+
+Would you come my way
+Or did you burn out to the end?
+Would you come my way
+Should have listened when you called my name
+
+Yeah, she wants to tear you down
+And she leaves without a sound
+It's like fallin' backwards into no one's arms
+
+You're a bullet through my soul
+And I'll never let you know
+I won't let you fall until you let it go
+
+What are we?
+(Whatcha wanna be?)
+Everything
+(That ya wanna be)
+All I need
+(Right in front of me)
+I've know before
+
+Would you come my way
+Or did you burn out to the end?
+Would you come my way
+Should have listened when you called my name
+
+Would you come my way
+Or did you burn out to the end?
+Would you come my way
+Should have listened when you called my name
+Should have listened when you called my name
+Should have listened when you called my name
+
+
 

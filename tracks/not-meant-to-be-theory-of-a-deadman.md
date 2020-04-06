@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-meant-to-be-theory-of-a-deadman
+lyrics_url: https://www.azlyrics.com/lyrics/theoryofadeadman/notmeanttobe.html
 name: Not Meant To Be
 rankings:
 - end_date: '2009-05-01'
@@ -91,4 +92,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
 ---
+
+It's never enough to say I'm sorry
+It's never enough to say I care
+But I'm caught between what you wanted from me
+And knowing that if I give that to you
+I might just disappear
+
+Nobody wins when everyone's losing
+
+
+It's like one step forward and two steps back
+No matter what I do you're always mad
+And I, I can't change your mind
+I know it's like trying to turn around on a one way street
+I can't give you what you want
+And it's killing me
+And I, I'm starting to see
+Maybe we're not meant to be
+
+It's never enough to say I love you
+No, it's never enough to say I try
+It's hard to believe
+That's theres no way out for you and me
+And it seems to be the story of our lives
+
+Nobody wins when everyone's losing
+
+
+
+There's still time to turn this around
+You could be building this up instead of tearing it down
+But I keep thinking
+Maybe it's too late
+
+
+
+It's like one step forward and two steps back
+No matter what I do you're always mad
+And I, baby I'm sorry to see
+Maybe we're not meant to be
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-little-town-simon-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/mylittletown.html
 name: My Little Town
 rankings:
 - end_date: '1975-10-24'
@@ -64,4 +65,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
 ---
+
+In my little town
+I grew up believing
+God keeps his eye on us all
+And He used to lean upon me
+As I pledged allegiance to the wall
+Lord, I recall
+My little town
+Coming home after school
+Flying my bike past the gates
+Of the factories
+My mom doing the laundry
+Hanging our shirts
+In the dirty breeze
+
+And after it rains
+There's a rainbow
+And all of the colors are black
+It's not that the colors aren't there
+It's just imagination they lack
+Everything's the same
+Back in my little town
+
+Nothing but the dead and dying
+Back in my little town
+Nothing but the dead and dying
+Back in my little town
+
+In my little town
+I never meant nothin'
+I was just my father's son
+Saving my money
+Dreaming of glory
+Twitching like a finger
+On the trigger of a gun
+Leaving nothing but the dead and dying
+Back in my little town
+
+Nothing but the dead and dying
+Back in my little town
+Nothing but the dead and dying
+Back in my little town
+
+
 

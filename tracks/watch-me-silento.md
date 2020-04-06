@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: watch-me-silento
+lyrics_url: https://www.azlyrics.com/lyrics/silento/watchmewhipnaenae.html
 name: Watch Me
 rankings:
 - end_date: '2015-03-20'
@@ -211,4 +212,121 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
 ---
+
+You already know who it is
+SilentÃ³
+SilentÃ³
+SilentÃ³
+Gonna do it for me
+
+Now watch me whip (Kill it!)
+Now watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Want me do it?)
+
+Now watch me whip (Kill it!)
+Watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Can you do it?)
+
+Now watch me
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+
+Do the stanky leg (stank)
+Do the stanky leg (stank stank)
+Do the stanky leg (stank)
+Do the stanky leg (stank stank)
+
+Do the stanky leg (stank)
+Do the stanky leg (stank stank)
+Do the stanky leg (stank)
+Do the stanky leg (stank stank)
+
+Now break your legs (break 'em, break 'em)
+Break your legs (break 'em dog)
+Tell 'em "break your legs" (break 'em, break 'em)
+Break your legs (break 'em dog)
+Tell 'em "break your legs" (break 'em, break 'em)
+Break your legs (break 'em dog)
+Tell 'em "break your legs" (break 'em, break 'em)
+Break your legs (break 'em dog)
+
+Now watch me
+Bop bop bop bop bop bop bop bop bop
+Now watch me
+Bop bop bop bop bop bop bop bop bop
+
+Now watch me whip (Kill it!)
+Now watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Want me do it?)
+
+Now watch me whip (Kill it!)
+Watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Can you do it?)
+
+Now watch me
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+
+Now watch me yule (Soulja)
+Now watch me superman (okay!)
+Now watch me yule (Soulja)
+Now watch me superman (okay!)
+
+Now watch me yule (Soulja)
+Now watch me superman (okay!)
+Now watch me yule (Soulja)
+Now watch me superman (okay!)
+
+Now watch me duff, duff, duff, duff, duff, duff, duff, duff (Hold on)
+Now watch me duff, duff, duff, duff, duff, duff, duff, duff, duff
+
+Now watch me
+Bop bop bop bop bop bop bop bop bop
+Now watch me
+Bop bop bop bop bop bop bop bop bop
+
+Now watch me whip (Kill it!)
+Now watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Want me do it?)
+
+Now watch me whip (Kill it!)
+Watch me nae nae (Okay!)
+Now watch me whip whip
+Watch me nae nae (Can you do it?)
+
+Now watch me
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh watch me, watch me
+Ooh ooh ooh ooh
+Crank dat
+
+
 

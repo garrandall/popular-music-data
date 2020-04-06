@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: insomnia-faithless
+lyrics_url: https://www.azlyrics.com/lyrics/faithless/insomnia.html
 name: Insomnia
 rankings:
 - end_date: '1997-04-04'
@@ -83,4 +84,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-02'
 ---
+
+Deep in the bosom of the gentle night
+Is when I search for the light
+Pick up my pen and start to write
+I struggle, fight dark forces
+In the clear moon light
+Without fear... insomnia
+I can't get no sleep
+
+I used to worry, thought I was goin' mad in a hurry
+Gettin' stress, makin' excess mess in darkness
+No electricity, something's all over me, greasy
+Insomnia please release me and let me dream of
+Makin' mad love to my girl on the heath
+Tearin' off tights with my teeth
+But there's no release, no peace
+I toss and turn without cease
+Like a curse, open my eyes and rise like yeast
+At least a couple of weeks
+Since I last slept, kept takin' sleepers
+But now I keep myself pepped
+Deeper still, that night I write by candle light
+I find insight, fundamental movement, uh
+So when it's back this insomniac take an original tack
+Keep the beast in my nature under ceaseless attack
+I gets no sleep
+I can't get no sleep
+
+I can't get no sleep
+I can't get no sleep
+I need to sleep, although I get no sleep
+I need to sleep, although I get no sleep
+
+
 

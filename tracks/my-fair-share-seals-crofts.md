@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-fair-share-seals-crofts
+lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/myfairshare.html
 name: My Fair Share
 rankings:
 - end_date: '1977-09-09'
@@ -68,4 +69,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
 ---
+
+Lost, lost as a child's first thought. I must have arms to hold me.
+Lost without lovin' care. I must have my fair share.
+Fair, fair is a changing word. Fair is an honored promise.
+Justice if you're still there. I will have my fair share.
+Justice is a lady. Lay me down with justice in a long white gown.
+With a breath of love, we can share.
+Share, sleep with me if you dare. Celebrate my fair share.
+
+Fair, fair is a changing word. Fair is an honored promise.
+Justice if you're still there. I will have my fair share.
+Justice is a lady. Lay me down with justice in a long white gown.
+With a breath of love, we can share.
+Share, sleep with me if you dare. Celebrate my fair share.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-yellow-taxi-amy-grant
+lyrics_url: https://www.azlyrics.com/lyrics/amygrant/bigyellowtaxi.html
 name: Big Yellow Taxi
 rankings:
 - end_date: '1995-06-23'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
 ---
+
+They paved paradise and put up a parking lot
+With a pink hotel, a botique, and a swinging hot spot
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+
+They took all the trees and put 'em in a tree museum
+And then they charged all the people
+twenty-five bucks just to see 'em
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+
+Hey farmer, farmer, put away your DDT now
+Give me spots on my apples
+but leave me the birds and the bees, please
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+
+Late last night I heard the screen door slam
+And a big yellow taxi carried off my old man
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+
+Don't it always seem to go
+That you don't know what you've got till it's gone
+They paved paradise and put up a parking lot
+Hey, they steamrolled paradise... for a parking lot
+
+
 

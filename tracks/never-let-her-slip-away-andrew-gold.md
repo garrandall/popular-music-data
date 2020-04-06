@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-let-her-slip-away-andrew-gold
+lyrics_url: https://www.azlyrics.com/lyrics/billycrawford/neverletherslipaway.html
 name: Never Let Her Slip Away
 rankings:
 - end_date: '1978-06-23'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+
+I talked to my baby on the telephone
+Long distance
+I never would've guessed
+I could miss someone so bad, yeah
+I really only met her 'bout a week ago
+But it doesn't seem to matter to my heart
+I know that I love her
+I'm hoping that I never recover
+Cause she's good for me
+And it would really make me happy
+To never let her slip away
+
+I feel like a kid with a teenage crush
+On a school date
+I feel like the lead in "Romeo & Juliet"
+I'm a little bit dizzy, I'm a little bit scared
+I guess I never felt this much aware
+That I'd love her
+I'm hoping that I'll never recover
+Cause she's good for me
+And it would really make me happy
+To never let her slip away
+
+Never, never, never let her slip away
+
+I really only met her 'bout a week ago
+But it doesn't seem to matter to my heart
+I know that I love her
+I'm hoping that I never recover
+Cause she's good for me
+And it would really make me happy
+To never let her slip away
+
+Mmm... I love her
+I'm hoping that I never recover, oh
+Cause she's good for me
+And it would really make me happy
+To never let her slip away
+Oh, I know it's gonna make me happy
+To never let her slip away...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alibis-sergio-mendes
+lyrics_url: https://www.azlyrics.com/lyrics/sergiomendes/alibis.html
 name: Alibis
 rankings:
 - end_date: '1984-06-01'
@@ -83,4 +84,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
 ---
+
+It's nothing I can put my finger on
+But it's there, I swear
+It's not somethin' I'm imaginin'
+Each time you call
+I know I'll get your "working late routine" again
+
+Is there someone I should know about?
+Tell me why do I have this doubt?
+
+I'm sure your alibis are water tight
+And you're where you have to be tonight
+Oh, but I know you're slipping away from me
+I'm know your alibis are water tight
+And you're where you say you are tonight
+But honey, I can tell
+I know the pattern much too well
+I don't fool so easily
+You're slippin' away from me
+
+Your telephone service says you're out again
+Somewhere out there
+You've got another rendezvous
+I know the way you work
+You'll be someplace where no one can check up on you
+
+You think you're in the clear
+But don't forget
+That's exactly the way we met
+
+I'm sure your alibis are water tight
+And you're where you have to be tonight
+Oh, but I know you're slipping away from me
+I'm know your alibis are water tight
+And you're where you say you are tonight
+But honey, I can tell
+I know the pattern much too well
+I don't fool so easily
+You're slippin away from me
+
+Is there someone I should know about?
+Tell me why do I have this doubt?
+
+I'm sure your alibis are water tight
+And you're where you have to be tonight
+Oh, but I know you're slipping away from me
+I'm know your alibis are water tight
+And you're where you say you are tonight
+But honey, I can tell
+I know the pattern much too well
+I don't fool so easily
+You're slippin away from me
+
+I'm sure your alibis are water tight
+And you're where you have to be tonight
+Oh, but I know you're slipping away from me...
+
+
 

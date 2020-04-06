@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hollaback-girl-gwen-stefani
+lyrics_url: https://www.azlyrics.com/lyrics/haschaksisters/hollabackgirl.html
 name: Hollaback Girl
 rankings:
 - end_date: '2005-04-08'
@@ -131,4 +132,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
 ---
+
+Uh huh this my hit
+All the girls stomp your feet like this
+Few times I've been round that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+Few times I've been around that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+
+I heard that you were talking trash
+And you didn't think that I would hear it 
+People hear you talking like that, getting everybody fired up 
+So I'm ready to attack, gonna lead the pack 
+Gonna get a touchdown, gonna take you out 
+That's right, put your pom-poms down, getting everybody fired up
+
+Uh huh this my hit
+All the girls stomp your feet like this
+Few times I've been round that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+Few times I've been around that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+
+So that's right dude, meet me at the bleachers 
+No principals, no student-teachers
+Both of us wanna be the winner, but there can only be one 
+So I'm gonna fight, gonna give it my all 
+Gonna make you fall, gonna sock it to ya 
+That's right, I'm the last one standing, another one bites the dust
+Uh huh this my hit
+All the girls stomp your feet like this
+
+Few times I've been round that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+Few times I've been around that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+
+Let me hear you say, this beat is bananas, B-A-N-A-N-A-S!
+This beat is bananas, B-A-N-A-N-A-S!
+Again this beat is bananas, B-A-N-A-N-A-S!
+This beat is bananas, B-A-N-A-N-A-S!
+
+Few times I've been round that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+Few times I've been around that track
+So it's not just gonna happen like that
+'Cause I ain't no hollaback girl
+I ain't no hollaback girl
+
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+This my hit, this my hit
+
+
 

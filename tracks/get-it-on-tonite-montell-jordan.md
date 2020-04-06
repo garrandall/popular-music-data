@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-it-on-tonite-montell-jordan
+lyrics_url: https://www.azlyrics.com/lyrics/montelljordan/getitontonite.html
 name: Get It On Tonite
 rankings:
 - end_date: '1999-10-29'
@@ -135,4 +136,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-05-27'
 ---
+
+Oh, ooh wee oh, oh
+When I'm looking at you I keep thinking
+Why can't she be like you, so I'm scheming
+I can't go on like this
+Believing that her love is true, oh
+Standing on the dance floor while she's trickin'
+You are all I want girl, she's a chicken
+We might be together, but love is missing
+Girl I want you, so what can we do, oh
+
+
+Girl if it's alright
+Let's go somewhere and get it on tonight
+I've got a girl but you look good tonight
+It's one on one tonight, tonight
+
+Girl if it's alright
+Let's go somewhere and get it on tonight
+You shouldn't have to be alone tonight
+It's one on one tonight, tonight
+
+Now she's looking at me, but keep talking
+Oh, now she's trying to ice you, let's start walking
+Over on the dance floor
+It's her fault but what can she do?
+Tell me baby, yeah
+
+Girl if you're ready (I'm ready)
+We can get it on (We can get it on)
+I know where I went wrong 
+(She's where you went wrong)
+With you is where I belong, belong
+
+Girl if I could find the words to say
+I gotta get away from a love 
+That kills me everyday
+I'd gladly say to you
+
+
+
+
+Girl if it's alright
+My baby's stressin' me
+You need to come with me
+We need to go somewhere, yeah
+Tonight, tonight
+
+
+
+
 

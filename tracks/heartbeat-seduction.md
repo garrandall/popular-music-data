@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbeat-seduction
+lyrics_url: https://www.azlyrics.com/lyrics/writtenbywolves/aslongasittakes.html
 name: Heartbeat
 rankings:
 - end_date: '1990-03-02'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
 ---
+
+Shades of scarlet in your smile
+How was I
+Supposed to resist, those looks you don't try to hide
+
+A look of passion in your eyes
+It feels like oxygen has disappeared and been
+Replaced by pure desire
+
+How long will I wait?
+I can give you a life time
+Forever and a day
+Least until my heartbeat flat lines
+I will be right here waiting
+How long will I wait?
+As long as it takes
+
+Feel my senses catch on fire
+With every glance gone unanswered
+I'm doubting my chances
+I just want you to
+Hold me close tiny dancer
+
+Feel like I'm walking on a wire
+But gravity
+Don't mean nothing
+This artful seduction
+Is drawing us closer
+With every touch and my
+Heart beats faster
+
+How long will I wait?
+I can give you a life time
+Forever and a day
+Least until my heartbeat flat lines
+I will be right here waiting
+How long will I wait?
+As long as it takes
+
+How long will I wait?
+I can give you a life time
+Forever and a day
+Least until my heartbeat flat lines
+I will be right here waiting
+How long will I wait?
+As long as it takes
+How long will I wait?
+As long as it takes
+
+
 

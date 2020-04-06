@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-talk-jon-b
+lyrics_url: https://www.azlyrics.com/lyrics/jonb/patient.html
 name: Don't Talk
 rankings:
 - end_date: '2001-02-23'
@@ -63,4 +64,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-05-19'
 ---
+
+
+Dont be mad, Im not tryin to offend
+your shape is captivatin
+but I'ma be patient
+if I have to I'ma just fall back
+aint no need to press the fact that Im
+open off your style
+your sexy when you walk I aint even heard u talk
+if your voice is as fly as ur skin tone
+then I alredy kno just wat u sound like wen u moan
+
+
+I dont wanna be patient dont wanna jump the gun
+but I dont want somebody else to scoop you up
+but I'ma be patient
+baby I wanna see if u feelin me yeah
+
+
+Girl its plain to see when u get close to me
+you make me feel the heat
+I never met anyone quite like you baby
+extend your love to me let me give you what you need
+
+
+I dont wanna be patient dont wanna jump the gun
+but I dont want somebody else to scoop you up
+but I'ma be patient
+baby I wanna see if u feelin me yeah
+
+
+If it takes me a minute
+its only coz its lookin like mah dream n u in it
+u messed around and gave me the eye now u did it
+But I dont wanna see u giv sumbody else ur digits
+But baby your body is
+Like a sexy nine pearl handle desingn
+Thought she was shy she fly pulled me from behind
+Baby kinda bonafied cool relax type
+pleasures I like in my everyday struggles in life
+
+
+Aint no holdin back
+Good things come to those who wait
+Maybe you and I should just motivate
+Dont wanna miss you babe
+Im still J . B if u pass I'ma do ma damn thing
+Im about to let you know
+Ooh Ooh Ooh Ooh Ooh Ooh OOh Ooh OOh Ooh Ooh yeh
+I'ma just let you do your friends
+And I'ma get at you later
+Or maybe I might not and I might or I might not
+yeah huh
+
+
+
+
 

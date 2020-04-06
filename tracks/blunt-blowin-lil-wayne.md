@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blunt-blowin-lil-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/bluntblowin.html
 name: Blunt Blowin
 rankings:
 - end_date: '2011-09-23'
@@ -31,4 +32,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
 ---
+
+I'mma put my shades on
+
+I live it up like these are my last days
+If time is money, I'm an hour past paid
+Gunpowder in my hourglass
+Niggas faker than some flour in a powder bag
+I put it down like my hands hurtin'
+I'm on a natural high, but I land perfect
+
+Some of us are lovers, most of y'all haters
+But I put up a wall, and they just wallpaper
+So love or hate me, I stay hate-free
+They say we learn from mistakes well that's why they mistake me
+
+I got some weight on my shoulders, to me it's like feathers
+All hail Weezy, call it bad weather
+
+I stick to the script, I memorize the lines
+'Cause life is a movie that I've seen too many times
+You're on the outside looking in, close the blinds
+And they say never say never, but fuck it never mind
+
+I've been gone too long
+True or false, right or wrong
+Hello Weezy, welcome home
+
+And I'mma blunt-blowin'
+Polo drawers showin'
+I don't give a lovely motherfuck ass nigga
+With my money growing, no matter where you're goin'
+You don't need a bus pass for me to bust yo ass nigga
+
+I'mma blunt blowin'
+Polo drawers showin'
+I-I don't give a lovely motherfuck ass nigga
+With my money blowing, don't matter I got more
+And you don't need a bus pass for me to bust yo ass nigga
+
+Stunna, I got 'em, I'm back on them bitches
+All about my riches, my name should be Richard
+Cut the bullshit out, I'm Edward with the scissors
+Life is a choice, and death is a decision
+
+Times have changed, but fuck it get a new watch
+I still got the vision like a line between two dots
+Young Money's eating, the label getting fatter
+And yeah, the tables turned, but I'm still sitting at 'em
+
+I'm a bad motherfucker 'cause the good die young
+Everybody selling dreams, I'm too cheap to buy one
+Man when that cookie crumble, everybody want a crumb
+Shoot that hummingbird down, hummingbird don't hum
+
+Big money, big money, deep pockets
+Money talks, and motherfuckers eavesdropping
+Bunch of bloods, you could call it blood clotting
+East side, MOB Piru Damu
+
+I'mma blunt-blowin'
+Polo drawers showin'
+I don't give a lovely motherfuck ass nigga
+With my teeth glowing, I'm on my Deebowin'
+You don't need a bus pass for me to bust yo ass nigga
+
+I'mma blunt blowin'
+Polo drawers showin'
+I-I don't give a lovely motherfuck ass nigga
+With my money blowing, no matter where you going
+You don't need a bus pass for me to bust yo ass nigga
+
+Light that Ashton Kutcher, I'm a limit pusher
+See y'all dead meat, and me I'm just a butcher
+I do it for the money, man I am such a hooker
+And freedom was my girl, until they fucking took her
+
+You could look into the future, it's right behind your eyelids
+But I don't wanna know, 'cause shit I like surprises
+Why that, why this, why you on that why shit?
+Motherfucker ask me why, I say YM
+
+Beach bum, call me Ocean Drive Slim (bitch)
+Drop the top, look up and make the sky grin
+Young mula, skinnies and some Supras
+Belly of the beast 'til it puke us, motherfucker
+
+Blunt-blowin'
+Polo drawers showin'
+I don't give a lovely motherfuck ass nigga
+With my teeth glowing, I'm on my Deebowin'
+You don't need a bus pass for me to bust yo ass nigga
+
+I'mma blunt-blowin'
+Polo drawers showin'
+I don't give a lovely motherfuck ass nigga
+With my money blowing, no matter where you going
+You don't need a bus pass for me to bust yo ass nigga
+
+I've been gone too long
+True or false, right or wrong
+I've been gone too long
+True or false, right or wrong
+Said I've been gone too long
+True or false, right or wrong
+
+Hello Weezy, welcome home
+It's young mula, baby
+Young mula, baby
+
+Bitch I've been gone too long
+True or false, right or wrong
+Hello Weezy, welcome home
+
+
 

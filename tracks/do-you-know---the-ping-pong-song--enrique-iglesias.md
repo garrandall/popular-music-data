@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-know---the-ping-pong-song--enrique-iglesias
+lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/doyouknowthepingpongsong.html
 name: Do You Know? (The Ping Pong Song)
 rankings:
 - end_date: '2007-06-08'
@@ -87,4 +88,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
 ---
+
+Do you know 
+
+Do you know what it feels like
+Loving someone that's in a rush to throw you away.
+(Do you know )
+Do you know what it feels like
+To be the last one to know the lock on the door has changed.
+
+Do you know 
+Do ya
+
+If birds flying south is a sign of changes
+At least you can predict this every year.
+Love, you never know the minute it ends suddenly
+I can't get it to speak
+
+Maybe if I knew all the things that took to save us
+I could fix the pain that bleeds inside of me
+Look in your eyes to see the same about me
+I'm standing on the edge and I don't know what else to give.
+
+Do you know what it feels like
+Loving someone that's in a rush to throw you away.
+Do you know 
+Do you know what it feels like
+To be the last one to know the lock on the door has changed.
+
+Do you know 
+Do ya
+
+How can I love you 
+If you just don't talk to me, babe.
+
+Flowing through my head
+Is the question "Is she needing
+Another side of a man I cannot be?".
+Looking at the last 3 years like I did,
+I could never see us ending like this.
+
+(Do you know)
+Seeing your face no more on my pillow
+Is a scene that's never happened to me.
+(Do you know)
+But after this episode I don't see,
+You can never tell how the next thing life could be
+
+Do you know what it feels like
+Loving someone that's in a rush to throw you away.
+Do you know 
+Do you know what it feels like
+To be the last one to know the lock on the door has changed.
+
+Do you know 
+
+Do you know what it feels like
+Loving someone that's in a rush to throw you away.
+Do you know 
+Do you know what it feels like
+To be the last one to know the lock on the door has changed.
+
+Do you know 
+
+Do you know what it feels like
+Loving someone that's in a rush to throw you away
+Do you know 
+Do you know what it feels like
+To be the last one to know the lock on the door has changed
+
+Do you know 
+
+Do you know what it feels like
+(You don't know how it feels)
+Loving someone that's in a rush to throw you away
+(You don't know how it feels)
+Do you know what it feels like
+To be the last one to know the lock on the door has changed
+
+Do you know 
+Do ya
+
+Do you know 
+Do ya
+
+Do you know 
+Do ya
+
+
 

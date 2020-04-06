@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-of-love--is-all-it-takes--new-edition
+lyrics_url: https://www.azlyrics.com/lyrics/newedition/alittlebitofloveisallittakes.html
 name: A Little Bit Of Love (Is All It Takes)
 rankings:
 - end_date: '1986-02-28'
@@ -67,4 +68,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
 ---
+
+Yeah
+Woo...ooh...ooh...ooh...
+
+You say you want to be the one I need
+You say you want to be the one for me
+You say you want to be the one I need
+But then you go and act so crazy
+
+You say you never want to let me go
+You say you want to be the one I hold
+You say you never want to let me go
+But then you go and leave me lonely
+
+If you want to make things right
+Love can make a way
+If you want to take the time
+Act like what you say, yeah
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+You want to be the one who makes me shy
+The one who makes me laugh and makes me cry
+You want to be the one to change my life
+Then maybe you should treat me kindly
+
+You want to make believe you never left
+You want to make believe I never wept
+You said you'd never ever leave again
+Oh, baby, won't you quit pretendin'
+
+If you want to make things right
+Love can make a way
+And if you want to take the time
+Act like what you say, yeah
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely, oh
+
+Oh
+
+Oh, if you want to make things right
+Love can make a way
+And if you want to take the time
+Act like what you say, yeah
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+A little bit of love is all it takes
+A little bit of love is all it takes (Little bit of love)
+A little bit of love is all it takes
+A little bit of love is all it takes
+
+Girl, you got to make things right
+A little bit of love is all it takes
+Girl, we got to take our time
+A little bit of love is all it takes
+A little bit of love is all it takes
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+A little bit of love is all it takes
+A little bit of love is lovely
+
+A little bit of love is all it takes
+A little bit of love goes a long, long way
+
+
 

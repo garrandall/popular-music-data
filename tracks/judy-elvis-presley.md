@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: judy-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/judy.html
 name: Judy
 rankings:
 - end_date: '1967-09-15'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
 ---
+
+They say you found somebody new
+Whose love will always be true
+I don't know what it is to be alone
+That's why I dread to know you're gone
+
+Oh, Judy, don't let our sweet love wither and die
+Like flowers in the fall
+Oh, Judy, don't you know
+It's you I love most of all
+
+Oh, please come back
+I promise always to be true
+Oh, Judy, there'll never be
+Anyone else, dear, but you
+
+Oh, please come back
+I promise always to be true
+Oh, Judy, there'll never be
+Anyone else, dear, but you
+
+Oh, Judy, there'll never be
+Anyone else, dear, but you
+Oh, Judy, there'll never be
+Anyone else, dear, but you
+
+
 

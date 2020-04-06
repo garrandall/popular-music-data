@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-other-guy-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/theotherguy.html
 name: The Other Guy
 rankings:
 - end_date: '1982-11-26'
@@ -79,4 +80,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
 ---
+
+I found out that you care for another guy
+I found out that you want for another smile
+We are alone as two different people can be
+And it's hurting me so 
+Just to know that you don't care for me
+
+The other guy won't be around to talk to our kids
+He won't understand when you're down the way that I did
+We had it all, you and I, we just need to try again
+
+I found out that your heart's in another guy
+You found out that you're tellin' another lie
+We've gone apart and goin' our own separate ways
+And you don't understand 
+Why I love you and want you to stay
+
+The other guy won't be around to talk to our kids
+He won't understand when you're down the way that I did
+We had it all, you and I, we just need to try again
+
+You don't know it's me that you need
+You're thinking of him and I can't compete
+Well I'm here to say I still want you back again
+
+
 

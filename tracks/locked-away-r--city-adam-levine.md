@@ -5,6 +5,7 @@ features:
 - Adam Levine
 genres: []
 key: locked-away-r--city-adam-levine
+lyrics_url: https://www.azlyrics.com/lyrics/rcity/lockedaway.html
 name: Locked Away
 rankings:
 - end_date: '2015-08-14'
@@ -116,4 +117,127 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
 ---
+
+
+If I got locked away,
+And we lost it all today,
+Tell me honestly,
+Would you still love me the same?
+If I showed you my flaws,
+If I couldn't be strong,
+Tell me honestly,
+Would you still love me the same?
+
+
+Right about now.
+If a judge for-life me,
+Would you stay by my side?
+Or is ya gonna say good-bye?
+Can you tell me right now?
+
+If I couldn't buy you the fancy things in life,
+Shorty, would it be alright?
+Come and show me that you are down
+(ah-ha)
+
+Now tell me would you really ride for me?
+(would you really ride for me?)
+Baby, tell me would you die for me?
+(tell me would you die for me?)
+Would you spend your whole life with me?
+(what's up?)
+Would you be there to always hold me down?
+
+Tell me would you really cry for me?
+(would you really cry for me?)
+Baby, don't lie to me.
+(baby, don't lie to me)
+If I didn't have anything,
+(what's up?)
+I wanna know would you stick around?
+
+
+If I got locked away,
+And we lost it all today,
+Tell me honestly,
+Would you still love me the same?
+If I showed you my flaws,
+If I couldn't be strong,
+Tell me honestly,
+Would you still love me the same?
+
+
+Skiddly-dong-dong-dong dang.
+All I want is somebody real who don't need much.
+A girl I know that I can trust,
+To be here when money low.
+
+If I did not have nothing else to give but love,
+Would that even be enough?
+(tell me, tell me, tell me)
+Girl, meh need fi know 
+(ah-ha)
+
+Now, tell me would you really ride for me?
+(would you really ride for me?)
+Baby, tell me would you die for me?
+(tell me would you die for me?)
+Would you spend your whole life with me?
+(what's up?)
+Would you be there to always hold me down?
+
+Tell me would you really cry for me?
+(would you really cry for me?)
+Baby, don't lie to me.
+(baby, don't lie to me)
+If I didn't have anything,
+(what's up?)
+I wanna know would you stick around?
+
+
+If I got locked away,
+And we lost it all today,
+Tell me honestly,
+Would you still love me the same?
+If I showed you my flaws,
+If I couldn't be strong,
+Tell me honestly,
+Would you still love me the same?
+
+
+Tell me, tell me, would you want me?
+(want me)
+Tell me, tell me, would you call me?
+(call me)
+If you knew I wasn't ballin'
+'Cause I need a gal who's always by my side...
+
+Tell me, tell me, do you need me?
+(need me)
+Tell me, tell me, do you love me? Yeah.
+Or is ya just tryna play me?
+'Cause I need a gal to hold me down for life.
+
+
+If I got locked away,
+And we lost it all today,
+Tell me honestly,
+Would you still love me the same?
+If I showed you my flaws,
+If I couldn't be strong,
+Tell me honestly,
+Would you still love me the same?
+
+If I got locked away,
+And we lost it all today,
+Tell me honestly,
+Would you still love me the same?
+If I showed you my flaws,
+If I couldn't be strong,
+Tell me honestly,
+Would you still love me the same?
+
+Would you still love me the same?
+
+
 

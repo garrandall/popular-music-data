@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: express-yourself-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/expressyourself.html
 name: Express Yourself
 rankings:
 - end_date: '1989-06-09'
@@ -71,4 +72,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
+
+She takes him in her arms
+She kisses his face and lips
+
+There's only one woman in the world
+One woman with many faces
+
+She takes him in her arms
+She kisses his face and lips
+
+Don't go for second best baby
+Put your love to the test
+You know, you know, you've got to
+Make her express how she feels
+And maybe then you'll know your love is real
+
+You don't need diamond rings
+Or eighteen karat gold
+Fancy cars that go very fast
+You know they never last, no, no
+What you need is a big strong hand
+To lift you to your higher ground
+Make you feel like a king on a throne
+Make her love you till you can't come down
+
+Don't go for second best baby
+Put your love to the test
+You know, you know, you've got to
+Make her express how she feels
+Then you'll know your love is real
+
+There's only one woman in the world
+One woman with many faces
+
+Long stemmed roses are the way to your heart
+But she needs to start with your head
+Satin sheets are very romantic
+What happens when you're not there
+You deserve the best in life
+So if the time isn't right then move on
+Second best is never enough
+You'll do much better baby on your own
+
+Don't go for second best baby
+Put your love to the test
+You know, you know, you've got to
+Make her express how she feels
+Then you'll know your love is real
+
+Express yourself (There's only one woman in the world)
+You've got to make her
+Express herself (One woman with many faces)
+Hey, hey, hey, hey
+
+So if you want it right now, make her show you how (There's only one woman in the world)
+Express what she's got, oh baby ready or not (One woman with many faces)
+
+And when you're gone she might regret it
+And think about the love she once had
+Try to carry on, but she just won't get it
+She'll be back on her knees
+
+To express herself
+You've got to make her
+Express herself
+Hey, hey
+
+There's only one woman in the world
+One woman with many faces
+
+Don't go for second best baby
+Put your love to the test
+You know, you know, you've got to
+Make her express how she feels
+Then you'll know your love is real
+
+Express yourself
+You've got to make her
+Express herself
+Hey, hey, hey, hey
+
+So if you want it right now, make her show you how (There's only one woman in the world)
+Express what she's got, oh baby ready or not (One woman with many faces)
+
+Express yourself
+Respect yourself
+Hey hey
+So if you want it right now, better make her show you how
+Express what she's got, oh baby ready or not
+
+Express yourself (There's only one woman in the world)
+One woman with many faces
+
+She takes him in her arms
+She kisses his face and lips
+
+She takes him in her arms
+She kisses his face and lips
+
+She takes him in her arms (There's only one woman in the world)
+She kisses his face and lips (One woman with many faces)
+
+She takes him in her arms (There's only one woman in the world)
+She kisses his face and lips (One woman with many faces)
+
+
 

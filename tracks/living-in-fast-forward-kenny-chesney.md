@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-in-fast-forward-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/livinginfastforward.html
 name: Living In Fast Forward
 rankings:
 - end_date: '2006-02-03'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-20'
 ---
+
+The body's a temple, that's what we're told
+I've treated this one like an old honky-tonk
+Greasy cheeseburgers and cheap cigarettes
+One day they'll get me if they ain't got me yet
+
+'Cause I'm living in fast forward
+A hillbilly rock star out of control
+I'm living in fast forward
+Now I need to rewind real slow
+
+My friends all grew up, they settled down
+Built nice little houses on the outskirts of town
+They work in their office, drive SUVs
+They pray for their babies and they worry 'bout me
+
+'Cause I'm living in fast forward
+A hillbilly rock star out of control
+I'm living in fast forward
+Now I need to rewind real slow
+
+I'm always runnin'
+Son of a gunnin'
+I've had a good time it's true
+But the way I've been goin'
+It's time that I toned it
+Down just a notch or two
+
+Oh yeah ...
+
+Well I'm living in fast forward
+A hillbilly rock star out of control
+I'm living in fast forward
+Now I need to rewind real slow
+
+Well I'm living in fast forward
+A hillbilly rock star out of control
+I'm living in fast forward
+Now I need to rewind real slow
+
+Yeah I need to rewind real slow
+Yeah I still got some miles to go
+
+
 

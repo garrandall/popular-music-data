@@ -5,6 +5,7 @@ features:
 - Baby Bash
 genres: []
 key: doing-too-much-paula-deanda-baby-bash
+lyrics_url: https://www.azlyrics.com/lyrics/pauladeanda/doingtoomuch.html
 name: Doing Too Much
 rankings:
 - end_date: '2006-05-26'
@@ -72,4 +73,121 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
 ---
+
+I'm leaving messages and voicemails
+Telling you I miss you
+Baby am I doing too much (too much)
+Why you tryna diss me
+When I just wanna kiss you
+Baby am I doing too much (too much)
+Tell me what's the issue
+Who I give these lips to
+Baby am I doing too much (too much)
+This is turning into
+Something I ain't hip to
+Baby am I doing too much (too much)
+
+See you got me all alone
+Waiting right here by the phone
+For you to call me,
+Just to hear
+Your voice tone
+I keep on wondering if you was even
+Feeling me, I keep on wondering if
+This was even meant to be
+Tell me imma waste of time, boy
+You showing me no sign, is it cuz u on
+Ya grind, cuz you're always on my mind
+
+I keep on wondering if everything you said was true
+I keep on wondering if you were really coming through
+
+Now here I go again blowing you up,
+And my girlfriends keep telling me
+I'm doing too much
+Now here I go again blowing you up,
+And my girlfriends keep telling me
+I'm doing too much
+
+I'm leaving messages and voicemails
+Telling you I miss you
+Baby am I doing too much (too much)
+Why you tryna diss me
+When I just wanna kiss you
+Baby am I doing too much (too much)
+Tell me what's the issue
+Who I give these lips to
+Baby am I doing too much (too much)
+This is turning into
+Something I ain't hip to
+Baby am I doing too much (too much)
+
+I'm out with my girls tryna have a good time
+And you know I'm looking fly tryna meet sum other guys
+But it gets hard sometimes cuz there ain't no one just like you
+I try my best but I can't shake this thing u got me going through
+
+All i can picture is the color of your eyes, and the way u make me smile
+I ain't felt this in a while,
+But I came to a conclusion that this is pure illusion
+Chaos and confusion but I'm not gonna let it ruin
+
+The way I feel about myself cuz I got self-esteem, sometimes I
+Wonder if I'm just chasing a fantasy
+
+The way I feel about myself cuz I got self-esteem, sometimes I
+Wonder if I'm just chasing a fantasy
+
+I'm leaving messages and voicemails
+Telling you I miss you
+Baby am I doing too much (too much)
+Why you tryna diss me
+When I just wanna kiss you
+Baby am I doing too much (too much)
+Tell me what's the issue
+Who I give these lips to
+Baby am I doing too much (too much)
+This is turning into
+Something I ain't hip to
+Baby am I doing too much (too much)
+
+
+Just leave ya name and number
+And I'm gon holla at cha
+Just leave ya name and number
+And I'm gon holla at cha
+Just leave ya name and number
+And I'm gon holla at cha
+Just leave ya name and number
+And I'm gon holla at cha
+
+Ronnie Ray all day
+Women in the hall way, Ev day losing track of the people tryna call me
+Don't take this the wrong way, I been having long days, doing it, moving
+Round the town wherever I'm getting my song played
+
+Now here I go again blowing you up,
+And my girlfriends keep telling me
+I'm doing too much
+
+Now here I go again blowing you up,
+And my girlfriends keep telling me
+I'm doing too much
+
+I'm leaving messages and voicemails
+Telling you I miss you
+Baby am I doing too much (too much)
+Why you tryna diss me
+When I just wanna kiss you
+Baby am I doing too much (too much)
+Tell me what's the issue
+Who I give these lips to
+Baby am I doing too much (too much)
+This is turning into
+Something I ain't hip to
+Baby am I doing too much (too much)
+
+Doing Too Much
+
+
 

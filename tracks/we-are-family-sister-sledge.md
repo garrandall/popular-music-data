@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-are-family-sister-sledge
+lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/wearefamily.html
 name: We Are Family
 rankings:
 - end_date: '1979-05-04'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
 ---
+
+We are family
+I got all my sisters with me
+We are family
+Get up everybody and sing
+We are family
+I got all my sisters with me
+We are family
+Get up everybody and sing
+
+Everyone can see we're together
+As we walk on by
+(Hey) and we fly just like birds of a feather
+I won't tell no lie
+(All) all of the people around us they say
+Can they be that close
+Just let me state for the record
+We're giving love in a family dose
+
+We are family
+I got all my sisters with me
+We are family
+Get up everybody and sing
+We are family
+I got all my sisters with me (all my, all my)
+We are family
+Get up everybody and sing
+
+Living life is fun and we've just begun
+To get our share of this world's delights
+(High) high hopes we have for the future
+And our goal's in sight
+(We) no we don't get depressed
+Here's what we call our golden rule
+Have faith in you and the things you do
+You won't go wrong, oh no
+This is our family jewel
+
+We are family
+I got all my sisters with me (I got all my sisters)
+We are family (oh yeah)
+Get up everybody and sing (sing)
+We are family
+I got all my sisters with me (I got all my sisters)
+We are family (we are family)
+Get up everybody and sing
+
+
 

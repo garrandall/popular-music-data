@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-public-affair-jessica-simpson
+lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/apublicaffair.html
 name: A Public Affair
 rankings:
 - end_date: '2006-07-21'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
 ---
+
+There go the street lights - the night's officially on,
+I got the green light - to do what ever we want,
+Gonna stand - outside - the box - and put the rules on hold,
+
+Tonight
+Carte blanche, first class for the evening
+Ready, set, go
+
+All the girls stepping out for a public affair
+(All night, that's right 'cause the party don't stop)
+All the cameras come out for a public affair
+(Who cares, let's rock, 'cause the party don't stop)
+
+Hey Baby, I see you looking over here baby
+Are you gonna keep looking - or get up?
+And talk to me
+Here's an opportunity that you don't wanna miss tonight
+
+...got plans first class for the evening
+
+Ready. Set. Go.
+
+All the girls stepping out for a public affair
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+All the cameras come out for a public affair
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+
+Do what you wanna do, tonight the world does not exist
+No, no, no, no
+Move how you wanna move, all my girls work it out - like this
+
+Give me room to shake, shake, shake
+
+All the girls stepping out for a public affair
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+All the cameras come out for a public affair
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+
+All the girls stepping out for a public affair
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+All the cameras come out for a public affair
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+
+All night don't stop,
+,
+Who cares, let's rock?
+Who cares, let's rock?
+All night don't stop (don't stop, don't stop)
+Who cares, let's rock
+
+Ohhh Ohhh Ohhh
+Hey Baby
+Ahhh ohh ohh ohh
+Ahhh ohh ohh
+
+All the girls stepping out for a public affair
+(All night, that's right cos the party don't stop)
+All the cameras come out for a public affair
+(Who cares, let's rock, cos the party don't stop)
+(Stop, stop, stop)
+
+
 

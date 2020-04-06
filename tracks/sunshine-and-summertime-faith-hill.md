@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-and-summertime-faith-hill
+lyrics_url: https://www.azlyrics.com/lyrics/faithhill/sunshineandsummertime.html
 name: Sunshine And Summertime
 rankings:
 - end_date: '2006-08-04'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
 ---
+
+We've got barefoot ladies and tricked out mercedes
+And people getting crazy on the boulevard
+We've got classic colas and ice cold corona's
+And big pool parties in the back yard
+
+
+Hey that's the way we do it
+New friends and blue skies that never end
+Hey that's the way we like it
+Good times, sunshine and summertime
+
+You'll see straw sombreros and t-top cameros
+And stereos blastin' in the parking lot
+You'll see rock hard bodies and bikini hotties
+And everybody's got it goin' on
+And showin' what they've got
+
+
+
+Hey everybody can't you feel the rhythm now
+Hey everybody don't you want to party
+Hey everybody can't you feel the rhythm now
+Hey everybody don't you wanna party
+
+
+
 

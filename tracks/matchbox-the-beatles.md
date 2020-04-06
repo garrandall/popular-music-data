@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: matchbox-the-beatles
+lyrics_url: https://www.azlyrics.com/lyrics/beatles/matchbox.html
 name: Matchbox
 rankings:
 - end_date: '1964-09-11'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
 ---
+
+I said I'm sitting here watching
+Matchbox hole in my clothes
+I said I'm sitting here wondering
+Matchbox hole in my clothes
+I ain't got no matches but I sure
+Got a long way to go
+
+I'm an ole poor boy, and I'm a
+Long way from home
+I'm an ole poor boy, and I'm a
+Long way from home
+I'll never be happy cause everything I've
+Ever did was wrong
+
+Well, if you don't want my peaches honey
+Please don't shake my tree
+Well, if you don't want my peaches honey
+Please don't mess around my tree
+I got news for you baby
+Leave me here in misery
+
+Well, let me be your little dog
+Till your big dog comes
+Well, let me be your little dog
+Till your big dog comes
+And when your big dog gets here
+Watch how your puppy dog runs
+
+I said I'm sitting here watching
+Matchbox hole in my clothes
+I said I'm sitting here watching
+Matchbox hole in my clothes
+I ain't got no matches but I sure
+Got a long way to go
+
+
 

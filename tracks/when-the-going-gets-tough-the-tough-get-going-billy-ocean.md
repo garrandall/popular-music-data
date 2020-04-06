@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-going-gets-tough-the-tough-get-going-billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/whenthegoinggetstoughthetoughgetgoing.html
 name: When The Going Gets Tough The Tough Get Going
 rankings:
 - end_date: '1985-12-06'
@@ -99,4 +100,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
 ---
+
+When the going gets tough
+The tough get going, tough, tough, huh, huh, huh
+When the going gets tough, the tough get ready
+
+Yeah, ooooh, du da do da
+
+I got something to tell you
+I got something to say
+I'm gonna put this dream in motion
+Never let nothing stand in my way
+When the going gets touch
+The tough get going
+
+I'm gonna get myself 'cross the river
+That's the price I'm willing to pay
+I'm gonna make you stand and deliver
+And give me love in the old-fashion way
+
+Woooh
+
+Darlin', I'll climb any mountain
+Darlin', I'll do anything
+
+Ooh, can I touch you (can I touch you)
+And do the things that lovers do
+Ooh, wanna hold you (wanna hold you)
+I gotta get it through to you, oooh
+
+When the going gets tough
+The tough get going
+When the going gets rough
+The tough get rough
+Hey, hey, hey, hey, hey
+Ooooh baby
+
+I'm gonna buy me a one-way ticket
+Nothin's gonna hold me back
+Your love's like a slow train coming (slow train coming)
+And I feel it coming down the track (woh)
+
+Darlin', I'll climb any mountain
+Darlin', I'll do anything
+Ooh (ooh) can I touch you (can I touch you)
+And do the things that lovers do
+Ooh, (ooh) wanna hold you (wanna hold you)
+I gotta get it through to you (ooh)
+'Cause when the going gets tough
+The tough get going
+When the going gets rough
+The tough get rough
+
+Yeah, yeah, yeah, yeah, yeah
+Wooh, yeah, yeah, yeah, yeah
+
+Darlin', I'll climb any mountain
+Darlin', I'll swim any sea
+Darlin', I'll reach for the heaven
+Darlin', with you lovin' me
+Oooh (oooh)
+
+Oooh, can I touch you (can I touch you)
+And do the things that lovers do (can I touch you)
+Oooh, wanna hold you (wanna hold you)
+I gotta get it through to you
+
+When the going gets tough
+Going gets tough
+Going gets rough
+Going gets rough...
+
+
 

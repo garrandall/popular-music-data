@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-and-living-well-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/livingandlivingwell.html
 name: Living And Living Well
 rankings:
 - end_date: '2002-04-12'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
 ---
+
+Had a nice little life
+A little boat a little beach
+A little routine I liked
+A blue ocean view
+Free to go with the flow
+Anywhere that I wanted to
+But the moment you set foot on my shore
+That's when I knew
+
+There's a difference in living and living well
+You can't have it all all by yourself
+Something's always missing
+'Til you share it with someone else
+There's a difference in living and living well
+
+'Til you sailed with me
+Thought that I had it good
+As good as it could be
+From the back of my deck
+Caught a fish caught a breeze
+And a thousand red sunsets
+But sitting here with you girl I just saw
+The best one yet
+
+There's a difference in living and living well
+You can't have it all all by yourself
+Something's always missing
+'Til you share it with someone else
+There's a difference in living and living well
+
+My days are brighter
+My sky a deeper blue
+My nights are sweeter
+When I'm with you
+
+There's a difference in living and living well
+You can't have it all all by yourself
+Something's always missing
+'Til you share it with someone else
+There's a difference in living and living well
+
+
 

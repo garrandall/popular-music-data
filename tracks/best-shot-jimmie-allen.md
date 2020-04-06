@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-shot-jimmie-allen
+lyrics_url: https://www.azlyrics.com/lyrics/jimmieallen/bestshot.html
 name: Best Shot
 rankings:
 - end_date: '2018-10-05'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
 ---
+
+I'm just flesh and bone, heart and soul
+And I've earned a couple scars
+I've let once in a lifetime kind of things slide right out of my arms
+I've struck out, I've been knocked down more times than I can count
+But that don't matter now
+
+'Cause when you smile
+I see the sun sink down on a coast out in California
+And there's no doubt
+Because of you, I'm not the man I was before you
+I'm not saying that I'm perfect
+Oh 'cause girl you know I'm not
+But I'll love you with everything I've got
+Girl I'll give you my best shot
+
+You saw a spark inside of me that no one else could find
+Your good morning eyes, they get me high
+Girl you're always on my mind
+
+'Cause when you smile
+I see the sun sink down on a coast out in California
+And there's no doubt
+Because of you, I'm not the man I was before you
+I'm not saying that I'm perfect
+Oh 'cause girl you know I'm not
+But I'll love you with everything I've got
+Girl I'll give you my best shot
+
+When I saw you for the first time
+I knew I'd found amazing grace
+It's like angels singing every time I hear your name
+When you smile
+I see the sun sink down on a coast out in California
+And there's no doubt
+Because of you, I'm not the man I was before you
+
+When you smile
+I see the sun sink down on a coast out in California
+And there's no doubt
+Because of you, I'm better than I was before you
+I'm not saying that I'm perfect
+Oh, God knows I'm not
+But I'll love you with everything I've got
+Girl I'll give you my best shot
+
+I'm gonna give you, I'll give you my best shot
+I'm gonna give you, I'm gonna give you, yeah
+Whoa whoa yeah
+Whoa yeah
+
+
 

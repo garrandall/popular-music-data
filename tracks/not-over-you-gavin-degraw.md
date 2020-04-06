@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-over-you-gavin-degraw
+lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/notoveryou.html
 name: Not Over You
 rankings:
 - end_date: '2011-07-01'
@@ -147,4 +148,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-21'
 ---
+
+Dreams, that's where I have to go
+To see your beautiful face anymore
+I stare at a picture of you and listen to the radio
+Hope, hope there's a conversation
+We both admit we had it good
+But until then it's alienation, I know
+That much is understood
+And I realize
+
+If you ask me how I'm doing
+I would say I'm doing just fine
+I would lie and say that you're not on my mind
+But I go out and I sit down at a table set for two
+And finally I'm forced to face the truth
+No matter what I say I'm not over you
+Not over you
+
+Damn, damn girl you do it well
+And I thought you were innocent
+You took this heart and you put it through hell
+But still you're magnificent
+And I, I'm a boomerang, doesn't matter how you throw me
+I turn around and I'm back in the game
+Even better than the old me
+But I'm not even close without you
+
+If you ask me how I'm doing
+I would say I'm doing just fine
+I would lie and say that you're not on my mind
+But I go out and I sit down at a table set for two
+And finally I'm forced to face the truth
+No matter what I say I'm not over you
+
+And if I had the chance to renew
+You know there isn't a thing I wouldn't do
+I could get back on the right track
+But only if you'd be convinced
+So until then...
+
+If you ask me how I'm doing
+I would say I'm doing just fine
+I would lie and say that you're not on my mind
+But I go out and I sit down at a table set for two
+And finally I'm forced to face the truth
+No matter what I say I'm not over you
+Not over you
+Not over you
+Not over you
+Not over you
+
+
 

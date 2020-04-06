@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-pea-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/sweetpea.html
 name: Sweet Pea
 rankings:
 - end_date: '1966-06-17'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
 ---
+
+Oh Sweet Pea come on and dance with me
+Come on, come on, come on and dance with me
+Oh Sweet Pea won't you be my girl
+Won't you, won't you, won't you be my girl
+
+I went to a dance just the other night
+I saw a girl there she was out of sight
+I asked a friend of mine who she could be
+He said that her friends just call her Sweet Pea
+
+Oh Sweet Pea come on and dance with me
+Come on, come on, come on and dance with me
+Oh Sweet Pea won't you be my girl
+Won't you, won't you, won't you be my girl
+
+I walked on over and asked her to dance
+Thinkin' maybe later we would make a romance
+But every guy there was thinkin' like me
+I had to stand in line to get a dance with Sweet Pea
+
+Oh Sweet Pea come on and dance with me
+Come on, come on, come on and dance with me
+Oh Sweet Pea won't you be my girl
+Won't you, won't you, won't you be my girl
+
+I finally got to whisper sweet words in her ear
+Suggest her that we outta get away from there
+We took a little walk I held he close to me
+And underneath the stars I said to Sweet Pea
+
+Oh Sweet Pea I love you can't you see
+Love you, love you, love you can't you see
+Oh Sweet Pea won't you be my girl
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: que-te-quiero-katrina-and-the-waves
+lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/quetequiero.html
 name: Que Te Quiero
 rankings:
 - end_date: '1985-10-18'
@@ -31,4 +32,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
+
+People keep telling me
+Don't go South of the border
+People keep telling me
+You're the captain's daughter
+
+But I don't mind
+No, no, no
+Cause I love a boy
+Down in Mexico
+
+Well, people keep telling me
+Don't get on that bus
+
+Oh, people keep telling me
+That he's not like us
+
+But I don't mind
+No, no, no
+Cause I love a boy
+Down in Mexico
+
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero, quiero
+Que te quiero, quiero, ooooh
+
+So people, don't tell me
+He's no good
+So people, don't tell me
+I gotta do what I should
+
+Cause I'm in love
+Yes, I know
+I'm in love with a boy
+Down in Mexico
+
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero, quiero
+Que te quiero, quiero, ooooh
+
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero mi vida, quiero
+Que te quiero, quiero
+Que te quiero, quiero, ooooh
+
+
 

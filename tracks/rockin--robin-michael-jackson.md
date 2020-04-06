@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--robin-michael-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/rockinrobin.html
 name: Rockin' Robin
 rankings:
 - end_date: '1972-03-17'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
 ---
+
+He rocks in the tree tops all day long
+Hoppin' and a-boppin' and singing his song
+All the little birdies on Jaybird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin, rock rock
+Rockin' robin
+Blow rockin' robin
+'Cause we're really gonna rock tonight
+
+Every little swallow, every chickadee
+Every little bird in the tall oak tree
+The wise old owl, the big black crow
+Flappin' their wings singing go bird go
+
+Rockin' robin, rock rock
+Rockin' robin
+Blow rockin' robin
+'Cause we're really gonna rock tonight
+
+Pretty little raven at the bird-band stand
+Taught him how to do the bop and it was grand
+They started going steady and bless my soul
+He out-bopped the buzzard and the oriole
+
+He rocks in the tree tops all day long
+Hoppin' and a-boppin' and singing his song
+All the little birdies on Jaybird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin, rock rock
+Rockin' robin
+Blow rockin' robin
+'Cause we're really gonna rock tonight
+
+Pretty little raven at the bird-band stand
+Taught him how to do the bop and it was grand
+They started going steady and bless my soul
+He out-bopped the buzzard and the oriole
+
+He rocks in the tree tops all day long
+Hoppin' and a-boppin' and singing his song
+All the little birdies on Jaybird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin, rock rock
+Rockin' robin
+Blow rockin' robin
+'Cause we're really gonna rock tonight
+
+
 

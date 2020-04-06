@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: draw-of-the-cards-kim-carnes
+lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/drawofthecards.html
 name: Draw Of The Cards
 rankings:
 - end_date: '1981-08-14'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
 ---
+
+Sleight of hand
+Hands of Fate
+Chance you take
+Life's a snake
+
+And it's all in the draw of the cards
+
+Lightnin' strike
+Breath of life
+Red black or white
+Watch 'em fall
+
+And it's all in the draw of the cards
+And it's all in the draw of the cards
+
+Drop the cards
+Watch the eyes
+Down and dirty
+Let 'em ride
+
+Boulevard
+Small cafe
+Cavaliers
+Pass the day
+
+The joker laughs
+From the street
+Weaves his web
+Bittersweet
+
+Ace is high
+Deuce is low
+Take the first
+The rest should go
+
+And it's all in the draw of the cards
+And it's all in the draw of the cards
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fresh-eyes-andy-grammer
+lyrics_url: https://www.azlyrics.com/lyrics/jessandgabriel/fresheyes.html
 name: Fresh Eyes
 rankings:
 - end_date: '2016-10-28'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
 ---
+
+
+I got these fresh eyes, never seen you before like this
+My God, you're beautiful
+It's like the first time when we open the door
+'Fore we got used to usual
+
+
+It might seem superficial, stereotypical, man
+You dress up just a little and I'm like, "Ohhh, damn"
+
+So suddenly I'm in love with a stranger
+I can't believe s (he) 's mine
+Now all I see is you with fresh eyes, fresh eyes
+
+
+Appreciation, well, it comes and it goes
+But I, I'll ride that wave with you
+It's human nature to miss what's under your nose
+'Til you, 'til you remind a fool
+
+
+Maybe all of this is simple
+My heart's unconditional, yeah
+You dress up just a little and I'm like, "Ohhh, damn"
+
+So suddenly I'm in love with a stranger
+I can't believe s (he) 's mine
+Now all I see is you with fresh eyes, fresh eyes
+So suddenly I'm in love with a stranger
+I can't believe s (he) 's mine
+And now all I see is you with fresh eyes, fresh eyes
+
+
+If I could bottle this up, bottle, bottle this up, I would
+I would bottle this up, bottle, bottle this up, I would
+'Cause you're gorgeous in this moment
+If I could bottle this up, I would
+
+
+So suddenly I'm in love with a stranger
+And I can't believe s (he) 's mine
+Now all I see is you with fresh eyes, fresh eyes
+So suddenly I'm in love with a stranger
+I can't believe s (he) 's mine, yeah
+And now all I see is you with fresh eyes, fresh eyes
+
+
 

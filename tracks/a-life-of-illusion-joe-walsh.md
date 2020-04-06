@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-life-of-illusion-joe-walsh
+lyrics_url: https://www.azlyrics.com/lyrics/joewalsh/alifeofillusion.html
 name: A Life Of Illusion
 rankings:
 - end_date: '1981-05-29'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
 ---
+
+Sometimes I can't help the feeling that I'm
+Living a life of illusion
+And oh, why can't we let it be
+And see through the hole in this wall of confusion
+I just can't help the feeling I'm
+Living a life of illusion
+
+Pow! Right between the eyes
+Oh, how nature loves her little surprises
+Wow! It all seems so logical now
+It's just one of her better disguises
+And it comes with no warning
+Nature loves her little surprises
+Continual crisis
+
+Hey, don't you know it's a waste of your day
+Caught up in endless solutions
+That have no meaning, just another hunch
+Based upon jumping conclusions
+Caught up in endless solutions
+Backed up against a wall of confusion
+Living a life of illusion
+
+
 

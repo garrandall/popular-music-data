@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-leaf-clover-metallica
+lyrics_url: https://www.azlyrics.com/lyrics/metallica/noleafclover.html
 name: No Leaf Clover
 rankings:
 - end_date: '2000-02-18'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
 ---
+
+And it feels right this time
+On this crash course with the big time
+Pay no mind to the distant thunder
+New day fills his head with wonder, boy....
+
+Says it feels right this time
+Turned it 'round and found the right line
+Good day to be alive Sir
+Good day to be alive, he said.....
+
+Then it comes to be that the soothing light at the end of your tunnel
+Is just a freight train coming your way
+Then it comes to be that the soothing light at the end of your tunnel
+Is just the freight train coming your way
+
+Don't it feel right like this
+All the pieces fall to his wish
+Sucker for that quick reward boy
+Sucker for that quick reward they said.....
+
+Then it comes to be that the soothing light at the end of your tunnel
+Is just a freight train coming your way
+Then it comes to be that the soothing light at the end of your tunnel
+Is just the freight train coming your way......
+It's coming your way
+It's coming your way......
+Here comes
+
+Yeah, Then it comes to be that the soothing light at the end of your tunnel
+Is just a freight train coming your way.... Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah...
+Then it comes to be, Yeah
+
+
 

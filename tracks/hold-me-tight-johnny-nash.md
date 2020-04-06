@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-me-tight-johnny-nash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/holdmetight.html
 name: Hold Me Tight
 rankings:
 - end_date: '1968-09-20'
@@ -67,4 +68,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
 ---
+
+I don't want to hear it
+No more fussin' and fightin' baby
+Hold me tight
+Let's let bygones be bygones
+Let's think about tomorrow girl
+Our future's bright
+
+Well, I know I was wrong
+But, I was just a fool
+Too blind to see
+You were the only girl for me
+Ah, but now I see the light
+And everything's gonna be all right
+Baby, hold me tight
+
+Well, I know I was wrong
+But, I was just a fool
+Too blind to see
+You were the only girl for me
+Ah, but now I see the light
+And everything's gonna be all right
+Baby, hold me tight
+
+
 

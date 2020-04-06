@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunny-and-75-joe-nichols
+lyrics_url: https://www.azlyrics.com/lyrics/joenichols/sunnyand75.html
 name: Sunny And 75
 rankings:
 - end_date: '2013-09-20'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
 ---
+
+A yellow two piece, black Ray Bans
+Your bare feet covered in sand
+White jet trails across the blue sky
+Your ponytail showing off the sunshine
+Like a postcard, out of nowhere
+You get to me, you give me that smile and
+
+I'm somewhere, somewhere sunny and 75
+You and me on a beach chair
+Yeah, I'm so there every time I look in your eyes
+Kissing you and the salt air
+I can taste it, I swear
+Take me somewhere sunny and 75
+
+It doesn't take much for you to move me
+Just the way you're leaning into me
+It's a holiday when we're together
+I wanna stay with you forever
+
+Somewhere, somewhere sunny and 75
+You and me on a beach chair
+Yeah, I'm so there every time I look in your eyes
+Kissing you and the salt air
+I can taste it, I swear
+Take me somewhere sunny and 75
+
+You're like the fast lane West bound
+You feel like a windows rolled down
+I can't wait until we get there, somewhere
+
+Somewhere sunny and 75
+You and me on a beach chair
+Yeah, I'm so there every time I look in your eyes
+Kissing you and the salt air
+I can taste it, I swear
+Take me somewhere sunny and 75
+Sunny and 75
+
+
 

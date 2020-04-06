@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oye-como-va-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/oyecomova.html
 name: Oye Como Va
 rankings:
 - end_date: '1971-02-26'
@@ -47,4 +48,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
 ---
+
+Oye como va mi ritmo
+Bueno pa' gozar mulata
+
+Oye como va mi ritmo
+Bueno pa' gozar mulata
+
+
 

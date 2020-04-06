@@ -5,6 +5,7 @@ features:
 - Rihanna
 genres: []
 key: selfish-future-rihanna
+lyrics_url: https://www.azlyrics.com/lyrics/future/selfish.html
 name: Selfish
 rankings:
 - end_date: '2017-03-24'
@@ -48,4 +49,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
 ---
+
+
+Oooh, yeah
+
+It was right
+Even though it felt wrong
+Nothin' ever stopped you
+From showin' your progression suddenly
+
+
+Broken lies
+Drivin' backwards
+Makin' all the wrong turns
+Sayin' all the wrong words
+Dodgin' angels
+
+
+Oh, let's not be alone
+Let's not be alone
+Let's be one
+Oh, let's not be alone
+Empty thoughts fill the room
+Breathe for me and I'll breathe for you
+
+Let's be selfish, selfish, baby
+Tonight
+Tonight
+Let's be selfish, selfish, baby
+Tonight, tonight
+Tonight, yeah, yeah
+
+
+I just hit the liquor side of France
+Currency exchange, lookin' fancy
+If that money dirty, make it dance
+25 karats cost a mansion
+Gold rose petals, bottle standin'
+Came from the concrete, takin' chances
+Pop gold Ace like a Xanny
+I just need the blessin' from your family
+Broken lies, ain't no love without us
+It will die, roses turn into dust
+Every night, we gettin' more popular
+Wrong is right, when it comes to us
+
+
+Oh, let's not be alone
+Let's not be alone
+Tonight, let's be selfish
+Selfish, tonight, tonight
+Let's be selfish, selfish, baby
+Tonight, tonight
+Tonight, yeah, yeah
+
+
+I'll be selfish
+Let's be selfish
+Ohh, ohh
+(Yeah, yeah)
+Ooooh, oooo-oooo-oooh
+I'll be selfish
+Let's be selfish
+Let's be
+Let's be selfish
+(Yeah, yeah)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-orchid-the-white-stripes
+lyrics_url: https://www.azlyrics.com/lyrics/whitestripes/blueorchid.html
 name: Blue Orchid
 rankings:
 - end_date: '2005-05-13'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
 ---
+
+You got a reaction
+You got a reaction, didn't you?
+You took a white orchid
+You took a white orchid turned it blue
+
+Something better than nothing
+Something better than nothing, it's giving up
+We all need to do something
+Try to keep the truth from showing up
+
+How dare you
+How old are you now, anyway?
+How dare you
+How old are you now, anyway?
+
+You're given a flower
+But I guess there's just no pleasing you
+Your lip tastes sour
+But you think that it's just me teasing you
+
+You got a reaction
+You got a reaction, didn't you?
+You took a white orchid
+You took a white orchid turned it blue
+
+Get behind me
+Get behind me now, anyway
+Get behind me
+Get behind me now, anyway
+
+You got a reaction
+You got a reaction, didn't you?
+You took a white orchid
+You took a white orchid turned it blue
+
+
 

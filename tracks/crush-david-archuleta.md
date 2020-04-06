@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crush-david-archuleta
+lyrics_url: https://www.azlyrics.com/lyrics/davidarchuleta/crush.html
 name: Crush
 rankings:
 - end_date: '2008-09-05'
@@ -99,4 +100,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
 ---
+
+I hung up the phone tonight
+Something happened for the first time
+Deep inside it was a rush
+What a rush
+
+'Cause the possibility
+That you would ever feel the same way about me
+It's just too much
+Just too much
+
+Why do I keep running from the truth?
+All I ever think about is you
+You got me hypnotized
+So mesmerized
+And I've just got to know
+
+Do you ever think
+When you're all alone
+All that we could be?
+Where this thing could go?
+Am I crazy or falling in love?
+Is it real or just another crush?
+Do you catch a breath
+When I look at you?
+Are you holding back
+Like the way you do?
+'Cause I'm trying, trying to walk away
+But I know this crush ain't going away
+Going away
+
+Has it ever crossed your mind
+When we're hanging
+Spending time, girl, are we just friends?
+Is there more? Is there more? (Is there more)
+
+See it's a chance we've gotta take
+'Cause I believe that we can make
+This into something that will last
+Last forever, forever
+
+Do you ever think
+When you're all alone
+All that we could be?
+Where this thing could go?
+Am I crazy or falling in love?
+Is it real or just another crush?
+Do you catch a breath
+When I look at you?
+Are you holding back
+Like the way you do?
+'Cause I'm trying, trying to walk away
+But I know this crush ain't going away
+Going away
+
+Why do I keep running from the truth? (why do I keep running?)
+All I ever think about is you (all I ever think about)
+You got me hypnotized (hypnotized)
+So mesmerized (mesmerized)
+And I've just got to know
+
+Do you ever think (ever think)
+When you're all alone (all alone)
+All that we could be
+Where this thing could go (go)
+Am I crazy or falling in love (crazy)
+Is it real or just another crush (another crush)
+Do you catch a breath
+When I look at you
+Are you holding back
+Like the way you do
+'Cause I'm trying, trying to walk away
+But I know this crush ain't going away
+(This crush ain't) going away
+(Goin' away) going away
+(When you're all alone
+All that we could be
+Where this thing could go)
+Going away
+
+
 

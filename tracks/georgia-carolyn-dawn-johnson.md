@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: georgia-carolyn-dawn-johnson
+lyrics_url: https://www.azlyrics.com/lyrics/carolyndawnjohnson/georgia.html
 name: Georgia
 rankings:
 - end_date: '2001-02-02'
@@ -27,4 +28,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
 ---
+
+If I'm not over you by the time I get to Georgia
+Then I guess I'll be Alabama bound
+There was a time when I'd do anything for you
+But this time, baby, I won't turn around, yeah
+
+I always wanted to get married
+And I thought you were the one
+But you never ever asked me
+And I was tired of hangin' on
+
+You know a girl can only be let down
+So many times before she runs
+And now this little bitty town's
+Only got room for one of us, yeah
+
+You always said I'd never leave
+And if I did I wouldn't go far
+So I know how I must look
+With my tank 'a gas and beat up heart
+
+Well baby I'm gone for good
+You can count on that
+Yeah, I'm gonna keep headin' west
+Till I'm too far gone to come back, yeah
+
+And if I'm not over you by the time I get to Georgia
+Then I guess I'll be Alabama bound
+There was a time when I'd do anything for you
+But this time, baby, I won't turn around
+
+I only got ten miles to go
+Before I cross the state line
+I can feel my hands shakin'
+'Cause they usually turn the wheel around about this time
+
+I heard that same ol' voice inside
+I had to drown it out
+So I found me a radio station playin' something fast
+And I turned it up real loud
+
+And if I'm not over you by the time I get to Georgia
+Then I guess I'll be Alabama bound
+There was a time when I'd do anything for you
+But this time, baby, I won't turn around
+
+There was a time when
+I'd do anything for you
+But this time, baby oh I won't turn around, yeah
+No, I won't turn around
+
+If I'm not over you By Georgia
+Then I'll head to Alabama
+Roll on to Mississippi or maybe Louisiana
+I'll drive all the way to California
+
+Oh, I won't turn around
+No, I won't turn around
+No, I won't turn around
+No, I won't turn around
+
+Turn around, turn around
+I won't, I won't turn around
+I won't, I won't turn around
+No, I won't turn around
+
+I won't, I won't turn around
+I won't turn around
+I won't, I won't turn around
+I won't turn around
+I won't, I won't turn around
+I won't turn around
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: escapade-janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/escapade.html
 name: Escapade
 rankings:
 - end_date: '1990-01-26'
@@ -75,4 +76,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
 ---
+
+As I was walkin by
+Saw you standin there
+With a smile
+Lookin' shy
+You caught my eye
+Thought you'd want to hang
+For a while
+Well I'd like to be with you
+And you know it's Friday too
+I hope you can find the time
+This weekend to relax and unwind
+
+My mind's tired
+I've worked so hard all week
+Cashed my check
+I'm ready to go
+I promise you
+I'll show you such a good time
+
+Come on baby let's get away
+Let's save your troubles for another day
+Come go with me we've got it made
+Let me take you on an escapade (let's go)
+
+Es-ca-pade
+We'll have a good time
+Es-ca-pade
+Leave your worries behind
+Es-ca-pade
+You can be mine
+Es-ca-pade
+An escapade
+
+So don't hold back
+Just have a good time
+We'll make the rules up
+As we go along
+And break them all
+If we're not havin' fun
+Come on baby let's get away
+Let's save your troubles for another day
+Come go with me we've got it made
+Let me take you on an escapade (let's go)
+
+My mind's tired I've worked
+Worked so hard all week
+I just got paid, we've got it made
+Ready to go
+I promise you I'll show you
+Such a good time
+Come on baby let's get away
+Let's save your troubles for another day
+Come go with me we've got it made
+Let me take you on an escapade (let's go)
+
+
 

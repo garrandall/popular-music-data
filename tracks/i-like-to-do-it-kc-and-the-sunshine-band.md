@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-to-do-it-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/iliketodoit.html
 name: I Like To Do It
 rankings:
 - end_date: '1976-12-10'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+
+I baby I
+I like to do it
+With you
+I baby I
+I like to do it
+With you
+I like to boogie down all night long
+I like to do it with you
+I like to shake it up
+Shake it down
+Do it with you
+I baby I
+I like to do it
+With you
+I baby I
+I like to do it
+With you
+I like to take you uh round the world
+Do it with you
+I'd like you to be my one and only girl
+Do it with you
+I baby I
+I like to do it
+With you
+I baby I
+I like to do it
+With you
+Oh yeah yeah yeah
+Do it with you
+Oh yeah baby
+Do it with you
+Aw
+Do it with you
+Do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you
+I like to do it with you...
+
+
 

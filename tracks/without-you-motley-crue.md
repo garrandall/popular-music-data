@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-motley-crue
+lyrics_url: https://www.azlyrics.com/lyrics/motleycrue/withoutyou.html
 name: Without You
 rankings:
 - end_date: '1990-03-02'
@@ -75,4 +76,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
 ---
+
+Without you, there's no change
+My nights and days are grey
+If I reached out and touched the rain
+It just wouldn't feel the same
+
+Without you, I'd be lost
+I'd slip down from the top
+I'd slide down so low
+Girl you'd never, never know...
+
+Without you, without you
+A sailor lost at sea
+Without you, woman The world comes down on me
+
+Without you in my life
+I'd slowly wilt and die
+But with you by my side
+You're the reason I'm alive
+But with you in my life
+You're the reason I'm alive
+But without you, without you...
+
+Without you, my hope is small
+Let me be me all along
+You let the fires rage inside
+Knowing someday I'd grow strong Without you, without you
+A sailor lost at sea
+Without you, woman
+The world comes down on me
+
+Without you in my life
+I'd slowly wilt and die
+But with you by my side
+You're the reason I'm alive
+But with you in my life
+You're the reason I'm alive
+But without you, without you...
+
+I could face a mountain
+But I could never climb alone
+I could start another day
+But how many, just don't know
+You're the reason the sun shines down
+And the nights, they don't grow cold
+Only you that I'll hold when I'm young
+Only you...as we grow old
+
+Without you in my life
+I'd slowly wilt and die
+But with you by my side
+You're the reason I'm alive
+But with you in my life
+You're the reason I'm alive
+But without you, without you...
+
+
 

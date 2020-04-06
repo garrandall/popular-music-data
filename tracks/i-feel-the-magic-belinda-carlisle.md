@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-feel-the-magic-belinda-carlisle
+lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/ifeelthemagic.html
 name: I Feel The Magic
 rankings:
 - end_date: '1986-09-26'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
 ---
+
+Last night I gave up on myself
+I hit the bed, tell me what should I do
+And in a dream I saw your face
+
+It's more than just a face
+You make me want to give my heart away
+I feel the magic
+Like I never felt before
+I imagine that it's always been there
+I feel the magic
+There's an angel looking after me
+Angel baby give me more and more
+
+Today I woke up by myself
+I hit the streets I wondered what should I do
+I never noticed from the start
+That I could feel alive again
+That I could feel a part of
+I feel the magic
+Like I never felt before
+I imagine that it's always been there
+I feel the magic
+There's an angel looking after me
+Angel baby give me more and more
+
+
 

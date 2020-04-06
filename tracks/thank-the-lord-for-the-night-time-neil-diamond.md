@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-the-lord-for-the-night-time-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/thankthelordforthenighttime.html
 name: Thank The Lord For The Night Time
 rankings:
 - end_date: '1967-07-21'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
 ---
+
+Daytime turns me off,
+And I don't mean maybe
+Nine to five
+Ain't takin' me where I'm bound
+When it's done,
+I run out to see my baby
+We got groovin'
+When the sun goes down
+
+I thank the Lord for the night time
+To forget the day
+A day of up, uptight time
+Baby, chase it away
+I get relaxation, it's a time to groove
+I thank the Lord for the night time
+I thank the Lord for you
+
+I'll talk about plans now
+Baby, I got plenty
+Nothing ever seems to turn out
+The way it should
+Talk about money, girl,
+I ain't got any
+Seems like just one time
+I'm feeling good
+
+I thank the Lord for the night time
+To forget the day
+A day of up, uptight time
+Baby, chase it away
+I get relaxation, it's a time to groove
+I thank the Lord for the night time
+I thank the Lord for you
+
+Seems like just one time
+I'm feeling good
+I thank the Lord for the night time
+To forget the day
+A day of up, uptight time
+Baby, chase it away
+I get relaxation, it's a time to groove
+I thank the Lord for the night time
+I thank the Lord for you
+Thank the Lord for the night time
+Thank the Lord for you
+
+
 

@@ -6,6 +6,7 @@ features:
 - Digital Farm Animals
 genres: []
 key: back-to-you-louis-tomlinson-bebe-rexha-digital-farm-animals
+lyrics_url: https://www.azlyrics.com/lyrics/louistomlinson/backtoyou.html
 name: Back To You
 rankings:
 - end_date: '2017-08-18'
@@ -49,4 +50,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
 ---
+
+
+I know you say you know me, know me well
+But these days I don't even know myself, no
+I always thought I'd be with someone else
+I thought I would own the way I felt, yeah
+
+I call you but you never even answer
+I tell myself I'm done with wicked games
+But then I get so numb with all the laughter
+That I forget about the pain
+
+Whoah, you stress me out, you kill me
+You drag me down, you fuck me up
+We're on the ground, we're screaming
+I don't know how to make it stop
+I love it, I hate it, and I can't take it
+But I keep on coming back to you
+
+
+I know my friends they give me bad advice
+Like move on, get you out my mind
+But don't you think I haven't even tried
+You got me cornered and my hands are tied
+
+
+You got me so addicted to the drama
+I tell myself I'm done with wicked games
+But then I get so numb with all the laughter
+That I forget about the pain
+
+
+Whoah, you stress me out, you kill me
+You drag me down, you fuck me up
+We're on the ground, we're screaming
+I don't know how to make it stop
+I love it, I hate it, and I can't take it
+But I keep on coming back to you (back to you)
+Oh, no, no, I just keep on coming back to you (back to you)
+Oh, no, no, I just keep on coming back to you
+
+And I guess you'll never know
+All the bullshit that you put me through
+And I guess you'll never know, no
+
+
+Yeah, so you can cut me up and kiss me harder
+You can be the pill to ease the pain
+'Cause I know I'm addicted to your drama
+Baby, here we go again
+
+Whoah, you stress me out, you kill me
+You drag me down, you fuck me up
+We're on the ground, we're screaming
+I don't know how to make it stop
+I love it, I hate it, and I can't take it
+But I keep on coming back to you (back to you)
+Oh, no, no, I just keep on coming back to you (back to you)
+Oh, no, no, I just keep on coming back to you
+Back to you
+I just keep on coming back to you
+
+
 

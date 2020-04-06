@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sign-of-fire-the-fixx
+lyrics_url: https://www.azlyrics.com/lyrics/fixx/thesignoffire.html
 name: The Sign Of Fire
 rankings:
 - end_date: '1983-12-02'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
 ---
+
+Heart of stone -- I tried to reach you
+Of the altar stone -- I tried to warn you
+But you were not alone -- you wouldn't take the call
+You wear brimstone -- I tried to warm you
+
+Always the same desire
+After the tone -- they try to storm you
+You are a voice alone and who dares to question
+Forgotten at home - how do you live with
+Do you wear brimstone -- give me the call
+
+Always the sign is fire
+I'm being drawn by the heat
+Always the same desire. Hot
+
+Through the telephone -- I tried to reach you
+But if you're not alone -- I know your life is torn
+I see your lover's tomb -- why don't you mention
+To me whenever I call -- I'll try to warm you
+
+Always the sign is fire
+I'm being drawn by the heat
+Always the same desire
+
+You're not alone
+Always the sign is fire
+Heart of stone
+Always the sign is fire ... 
+
+
 

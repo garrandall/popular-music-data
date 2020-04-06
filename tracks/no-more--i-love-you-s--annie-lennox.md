@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-more--i-love-you-s--annie-lennox
+lyrics_url: https://www.azlyrics.com/lyrics/annielennox/nomoreiloveyous.html
 name: No More "I Love You's"
 rankings:
 - end_date: '1995-03-17'
@@ -91,4 +92,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
 ---
+
+I used to be lunatic from the gracious days 
+I used to be woebegone and so restless nights 
+My aching heart would bleed for you to see 
+Oh but now... 
+(I don't find myself bouncing home whistling buttonhole tunes to make me cry) 
+
+No more "I love you's" 
+The language is leaving me 
+No more "I love you's" 
+Changes are shifting outside the word 
+
+(The lover speaks about the monsters)
+
+I used to have demons in my room at night
+Desire, despair, desire... SOOO MANY MONSTERS!
+Oh but now... 
+(I don't find myself bouncing home whistling buttonhole tunes to make me cry) 
+
+No more "I love you's" 
+The language is leaving me
+No more "I love you's" 
+The language is leaving me in silence 
+No more "I love you's" 
+Changes are shifting outside the word 
+
+(They were being really crazy 
+They were on the come. 
+And you know what mummy?
+Everybody was being really crazy. 
+Uh huh. The monsters are crazy. 
+There are monsters outside.)
+
+No more "I love you's" 
+The language is leaving me
+No more "I love you's" 
+The language is leaving me in silence 
+No more "I love you's" 
+Changes are shifting outside the word 
+Outside the word
+
+
 

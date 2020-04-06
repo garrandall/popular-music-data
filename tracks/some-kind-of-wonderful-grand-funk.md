@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-kind-of-wonderful-grand-funk
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/somekindofwonderful.html
 name: Some Kind Of Wonderful
 rankings:
 - end_date: '1974-12-20'
@@ -59,4 +60,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
 ---
+
+I don't need a whole lots of money,
+I don't need a big fine car.
+I got everything that a man could want,
+I got more than I could ask for.
+I don't have to run around,
+I don't have to stay out all night.
+'Cause I got me a sweet... a sweet, lovin' woman,
+And she knows just how to treat me right.
+
+Well my baby, she's alright,
+Well my baby, she's clean out-of-sight.
+Don't you know that she's... she's some kind of wonderful.
+She's some kind of wonderful... yes she is, she's,
+She's some kind of wonderful, yeah, yeah, yeah, yeahhh...
+
+When I hold her in my arms,
+You know she sets my soul on fire.
+Oooh, when my baby kisses me,
+My heart becomes filled with desire.
+When she wraps her lovin' arms around me,
+About drives me out of my mind.
+Yeah, when my baby kisses me,
+Chills run up and down my spine.
+
+My baby, she's alright,
+My baby, she's clean out-of-sight.
+Don't you know that she is... she's some kind of wonderful.
+She's some kind of wonderful... yes she is,
+She's some kind of wonderful, yeah, yeah, yeah, yeahhh...
+
+Now is there anybody, got a sweet little woman like mine?
+There got to be somebody, got a, got a sweet little woman like mine? Yeah!
+Can I get a witness?
+Can I get a witness?
+Can I get a witness? Yeah...
+Can I get a witness? Ohhh...
+Can I get a witness? Yeah...
+Can I get a witness? Yes.
+
+I'm talkin', talkin' 'bout my baby. Yeah.
+She's some kind of wonderful.
+Talkin' 'bout my baby.
+She's some kind of wonderful.
+Talkin' 'bout my baby.
+She's some kind of wonderful.
+I'm talkin' 'bout my baby, my baby, my baby.
+She's some kind of wonderful.
+I'm talkin' about my baby, my baby, my baby.
+She's some kind of wonderful.
+Yeah, yeah, yeah, yeah... my baby, my baby.
+She's some kind of wonderful.
+Talkin' 'bout my baby, my baby, my baby.
+She's some kind of wonderful.
+I'm talkin' 'bout my baby, my baby, my baby.
+She's some kind of wonderful.
+
+
+
 

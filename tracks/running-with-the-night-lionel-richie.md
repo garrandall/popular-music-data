@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-with-the-night-lionel-richie
+lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/runningwiththenight.html
 name: Running With The Night
 rankings:
 - end_date: '1983-12-02'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+
+The heart of the city street was beating
+Lights from the neons
+Turned the dark to day
+We were too hot to think of sleeping
+We had to get out
+Before the magic got away
+
+We were running with the night
+Playingin the shadows
+Just you and i
+Till the morning light
+(we were running) oh, oh
+Running with the night
+You were looking so good girl
+Heads were turning
+You and me on the town
+Ooh, we let it all hang out
+The fire was in us, we were running
+We were gonna go all the way
+And we never had a doubt
+
+We were running with the night
+Playing in the shadows
+Just you and i
+Till the morning light
+Running with the night
+We were so in love you and me
+On the boulevard wild and free
+Giving all we got, we laid it down
+Taking every shot, we took the town
+
+We were running with the night
+Playing in the shadows
+Just you and i
+Girl, it was so right
+Girl, it was so right.
+
+
 

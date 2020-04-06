@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: songbird-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/songbird.html
 name: Songbird
 rankings:
 - end_date: '1978-06-23'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+
+Songbird sings from the heart
+Each word can tear you apart
+I sing - you sing along
+You find your life in my song
+When you need the strength to carry on
+You've got me to turn to
+With the songs that I sing
+And the magic they bring
+They've helped you be strong now
+The song sets you free
+But who sings to me
+I'm all alone now
+Who sings for songbird
+Sometimes
+When I' m all alone
+I sing my saddest song
+Lonely, and no one can see
+This time the song is for me
+I can touch your secret place inside
+And still you don't know me
+With the songs that I sing
+And the magic they bring
+You've learned to be strong now
+The song sets you free
+But who sings to me
+I'm all alone now
+Where is my songbird,
+Where is my songbird,
+Who sings his song for me?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember--christmas--nilsson
+lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/rememberchristmas.html
 name: Remember (Christmas)
 rankings:
 - end_date: '1972-12-29'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
 ---
+
+Long ago, far away
+Life was clear
+Close your eyes
+
+Remember, is a place from long ago
+Remember, filled with everything you know
+Remember, when you're sad and feelin' down
+Remember, turn around
+Remember, life is just a memory
+Remember, close your eyes and you can see
+Remember, think of all that life can be
+Remember
+
+Dream, love is only in a dream
+Remember
+Remember, life is never as it seems
+Dream
+
+Dream, love is only in a dream
+Remember
+Remember, life is never as it seems
+Dream
+
+Long ago, far away
+Life was clear
+Close your eyes
+
+
 

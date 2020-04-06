@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockaway-beach-ramones
+lyrics_url: https://www.azlyrics.com/lyrics/totenhosen/rockawaybeach.html
 name: Rockaway Beach
 rankings:
 - end_date: '1977-12-09'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
 ---
+
+Chewing out a rhythm on my bubble gum
+The sun is out and I want some
+It's not hard, not far to reach
+We can hitch a ride 
+To Rockaway Beach
+
+Up on the roof, out on the street
+Down in the playground the hot concrete
+Busride is too slow
+They blast out the disco on the radio
+
+Rock Rock Rockaway Beach
+Rock Rock Rockaway Beach
+We can hitch a ride
+To Rockaway Beach
+
+It's not hard, not far to reach
+We can hitch a ride
+To Rockaway Beach
+
+
 

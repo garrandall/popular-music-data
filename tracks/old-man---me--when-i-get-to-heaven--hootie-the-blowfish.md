@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: old-man---me--when-i-get-to-heaven--hootie-the-blowfish
+lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/oldmanme.html
 name: Old Man & Me (When I Get To Heaven)
 rankings:
 - end_date: '1996-05-03'
@@ -88,4 +89,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-07'
 ---
+
+Well an old man said to me 
+In a voice filled with pain 
+Where you going young man 
+Said I'm going to fight a war 
+Gonna fight for my country 
+In some foreign land 
+He said "The sun will never hurt you 
+Never harmed anyone 
+But you must realize" 
+If you try to stare her down 
+She will win in the end 
+She will burn your eyes 
+She will burn them 
+
+Seen a million places 
+Seen a million faces die 
+And I wonder who will walk with me 
+When I get to Heaven 
+
+He said "Boy I was young once 
+Yeah I was tough 
+Sailing on Uncle Sam's boat 
+Hey I could kill the enemy 
+I could die on foreign streets 
+But I could not vote 
+But now you walk by me 
+You won't talk to me 
+Say this is my fate 
+But every time you walk the streets boy 
+Most of them you meet 
+You see it's you they hate 
+It's you... 
+
+Seen a million faces 
+Seen a million places die 
+And I wonder who will walk with me 
+When I get to Heaven 
+I hope I get there 
+
+Seen a million places 
+Seen a million faces die 
+And I wonder who will walk with me 
+When I get there 
+
+See this woman sitting next to me 
+She's been there for a long, long time 
+And when I fell, she picked me up 
+When I cried, she wiped my tears 
+I thank god she's mine 
+And when I leave this world 
+She won't have anything 
+But her love for me 
+'Cause the man took everything else 
+Made me hate myself 
+So just let her be boy 
+Won't you let her be
+
+
 

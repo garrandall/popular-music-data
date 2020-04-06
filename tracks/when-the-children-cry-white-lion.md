@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-children-cry-white-lion
+lyrics_url: https://www.azlyrics.com/lyrics/whitelion/whenthechildrencry.html
 name: When The Children Cry
 rankings:
 - end_date: '1988-11-11'
@@ -99,4 +100,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
 ---
+
+Little child
+Dry your crying eyes
+How can I explain
+The fear you feel inside
+'Cause you were born
+Into this evil world
+Where man is killing man
+And no one knows just why
+
+What have we become
+Just look what we have done
+All that we destroyed
+You must build again
+
+When the children cry
+Let them know we tried
+'Cause when the children sing
+Then the new world begins
+
+Little child
+You must show the way
+To a better day
+For all the young
+'Cause you were born
+For the world to see
+That we all can live
+With love and peace
+
+No more presidents
+And all the wars will end
+One united world under God
+
+When the children cry
+Let them know we tried
+'Cause when the children sing
+Then the new world begins
+
+What have we become
+Just look what we have done
+All that we destroyed
+You must build again
+
+No more presidents
+And all the wars will end
+One united world under God
+
+When the children cry
+Let them know we tried
+'Cause when the children sing
+The new world begins
+
+What have we become
+Just look what we have done
+All that we destroyed
+You must build again
+
+No more presidents
+And all the wars will end
+One united world under God
+
+When the children cry
+Let them know we tried
+'Cause when the children fight
+Let them know it ain't right
+When the children pray
+Let them know the way
+'Cause when the children sing
+Then the new world begins
+
+
 

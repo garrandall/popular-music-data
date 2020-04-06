@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yester-me-yester-you-yesterday-stevie-wonder
+lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/yestermeyesteryouyesterday.html
 name: Yester-Me Yester-You Yesterday
 rankings:
 - end_date: '1969-10-24'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
 ---
+
+What happened to the world we knew
+When we would dream and scheme
+And while the time away
+Yesterme yesteryou yesterday
+
+Where did it go that yester glow
+When we could feel
+The wheel of life turn our way
+Yesterme yesteryou yesterday
+
+I had a dream so did you life
+Was warm and love was true
+Two kids who followed all the rules
+Yester folls and now
+
+Now it seems those yester dreams
+Were just a cruel
+And foolish game we used to play
+Yesterme yesteryou yesterday
+
+When I recall what we had
+I feel lost I feel sad with nothing but
+The memory of yester love and now
+Now it seems those yester dreams
+Were just a cruel
+And foolish game we had to play
+
+Yesterme yesteryou yesterday
+Yesterme yesteryou yesterday
+Sing with me
+Yesterme yesteryou yesterday
+One more time.....
+
+
 

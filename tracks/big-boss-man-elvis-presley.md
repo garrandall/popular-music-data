@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-boss-man-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/bigbossman.html
 name: Big Boss Man
 rankings:
 - end_date: '1967-10-20'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
 ---
+
+Big boss man, can't you hear me when I call?
+Big boss man, can't you hear me when I call?
+Can't you hear me when I call?
+Well you ain't so big, you know you're just tall that's all, All right
+Well you got me workin' boss man
+Workin' round the clock
+I wanna little drink of water
+But you won't let big Al stop
+Big boss man now can't you hear me when I call? All right
+I said you ain't so big, you know you're just tall that's all
+
+Big boss man, why can't you hear me when I call? All right
+You know you ain't so big, I said you're just tall that's all, All right
+I'm gonna get me a boss man
+One who's gonna treat me right
+I work hard in the day time
+Rest easy at night
+Big boss man, can't you hear me when I call? Can't you hear me when I call?
+I said you ain't so big, you're just tall that's all
+I'm gonna get me a boss man
+One that's gonna treat me right
+I work hard in the evenin'
+Rest easy at night
+Big boss man, big boss man, can't you hear me when I call?
+I said you ain't so big, you're just tall that's all
+All right, big boss man
+It's all right
+
+
 

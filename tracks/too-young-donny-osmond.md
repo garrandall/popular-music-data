@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-young-donny-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/tooyoung.html
 name: Too Young
 rankings:
 - end_date: '1972-06-16'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
 ---
+
+They try to tell us we're too young
+Too young to really be in love
+They say that love's a word, a word we've only heard
+But yet begin to know the meaning of
+
+And yet we're not too young to know
+This love will last though years may go
+And then some day
+They may recall
+We were not too young at all
+
+Oh, Oh
+
+And yet we're not too young to know
+Oh, This love will last though years may go
+And then some day
+They may recall
+We were not too young at all
+
+
 

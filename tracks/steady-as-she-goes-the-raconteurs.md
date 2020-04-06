@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steady-as-she-goes-the-raconteurs
+lyrics_url: https://www.azlyrics.com/lyrics/raconteurs/steadyasshegoes.html
 name: Steady As She Goes
 rankings:
 - end_date: '2006-06-02'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
 ---
+
+Find yourself a girl, and settle down
+Live a simple life in a quiet town
+
+Steady as she goes (steady as she goes)
+Steady as she goes (steady as she goes)
+So steady as she goes
+
+Your friends have shown a kink in the single life
+You've had too much to think, now you need a wife
+
+Steady as she goes (steady as she goes)
+So steady as she goes (steady as she goes)
+Well here we go again, you've found yourself a friend, that knows you well
+But no matter what you do, you'll always feel as though you tripped and fell
+
+So steady as she goes
+
+When you have completed what you thought you had to do
+And your blood's depleted to the point of stable glue
+
+Then you'll get along
+Then you'll get along
+
+Steady as she goes (steady as she goes)
+So steady as she goes (steady as she goes)
+Well here we go again, you've found yourself a friend that knows you well
+But no matter what you do, it always feels as though you tripped and fell
+So steady as she goes
+Steady as she goes
+
+Settle for a world neither up or down
+Sell it to the crowd that's gathered round
+Settle for a girl neither up or down
+Sell it to the crowd that's gathered round
+
+So steady as she goes (steady as she goes)
+Steady as she goes (steady as she goes)
+Steady as she goes (steady as she goes)
+So steady as she goes (steady as she goes)
+
+Steady as she goes
+Are you steady now?
+Steady as she goes
+Are you steady now?
+Steady as she goes
+Are you steady now?
+Steady as she goes
+Are you steady now?
+Steady as she goes
+
+
 

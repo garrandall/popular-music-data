@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-no-mercy
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/imgoingdowntotheriver.html
 name: Please Don't Go
 rankings:
 - end_date: '1997-02-14'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
 ---
+
+I'm goin down to the river and drown myself, well
+I'm goin down to the river and drown myself
+Oh babe, oh I'm goin down yes and turn myself in,
+Cause my baby's lovin someone else
+Now you know why I'm goin down to the river and drown
+Myself
+
+I'm sick and tired of this misery down in my heart,
+Way down in my heart
+I'm sick and tired of this misery down in my heart, oh
+Lord
+Well I'm sick and tired of this misery, lord have
+Mercy, have mercy on me
+I'm sick and tired of this misery down in my heart
+
+So goodbye baby ( bye baby ) well I got to go, so
+Please dont cry, cause its too late to cry
+Bye bye baby well I got to go, so please dont cry,
+Oh no
+Oh bye bye baby, I've got to go, thats why I called
+You, just to let you know
+I'm goin down to the river and drown myself
+
+
 

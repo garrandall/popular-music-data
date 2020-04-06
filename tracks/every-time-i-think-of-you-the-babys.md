@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-time-i-think-of-you-the-babys
+lyrics_url: https://www.azlyrics.com/lyrics/babys/everytimeithinkofyou.html
 name: Every Time I Think Of You
 rankings:
 - end_date: '1979-01-12'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
+
+Every time I think of you
+It always turns out good
+Every time I've held you
+I thought you understood
+
+People say a love like ours
+Will surely pass
+But I know a love like ours
+Will last and last
+
+But maybe I was wrong not knowing how our love should go
+(How our love, how our love should go)
+But I wasn't wrong in knowing how our love would grow
+(How our love, how our love would grow)
+
+And every time I think of you (every time)
+Every time I think of you (every single time)
+It always turns out good
+
+Seasons come and seasons go
+But our love will never die
+Let me hold you, darlin'
+So you won't cry
+
+'Cause people say that our love affair
+Will never last
+But we know a love like ours
+Will never pass
+
+But maybe I was wrong not knowing how our love should go
+(How our love, how our love should go)
+But I wasn't wrong in knowing how our love would grow
+(How our love, how our love would grow)
+
+And every time I think of you (every time)
+Every time I think of you (every single time)
+It always turns out good
+
+People say a love like ours
+Will surely pass
+But I know a love like ours
+Will last and last
+
+But maybe I was wrong not knowing how our love should go
+(How our love, how our love should go)
+But I wasn't wrong in knowing how our love would grow
+(How our love, how our love would grow)
+
+And every time I think of you
+Every time I think of you
+Every time I think of you
+It always turns out good
+
+Every time I think of you
+Every time I think of you
+Every time I think of you
+Every time I think of you
+
+Every time I think of you
+Every time I think of you
+Every time I think of you
+Every time I think of you
+
+Every time I think of you
+Every time I think of you
+
+
 

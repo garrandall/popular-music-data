@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-cat-janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/blackcat.html
 name: Black Cat
 rankings:
 - end_date: '1990-09-21'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
 ---
+
+All the lonely nights I spend alone
+Never around to love me
+You're always gone
+Cause you're hangin out
+Breakin' the rules
+Oh the man has come
+Looking for you
+You're a rebel now
+Don't give a damn
+Always carrying on
+With the gang
+I'm trying to tell you boy
+It's a mistake
+You won't realize
+Til it's too late
+
+Don't understand
+Why you insist
+On ways of living such a dangerous life
+Time after time you stay away
+And I just know that you're telling me lies
+
+Black cat
+Nine lives
+Short days
+Long nights
+Livin on the edge
+Not afraid to die
+Heart beat
+Real strong
+But not
+For long
+Better watch your step
+Or you're gonna die
+
+You're so together boy
+But just at a glance
+You'll do anything
+If given a chance
+Scheming, plannin lies
+To get what you need
+So full of promises
+That you never keep
+
+Don't you tell yourself
+That it's okay
+Sick and tired of
+All of your games
+And you want me to stay
+Better change
+Makes no sense to me
+Your crazy ways
+
+Black cat
+Nine lives
+Short days
+Long nights
+Livin on the edge
+Not afraid to die
+Heart beat
+Real strong
+But not
+For long
+Better watch your step
+Or you're gonna die
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: round-and-round-tevin-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/roundandround.html
 name: Round And Round
 rankings:
 - end_date: '1990-12-14'
@@ -123,4 +124,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
 ---
+
+
+Can you tell me where we're going to
+Can you tell me what it is we really want to find
+Is the truth really there or is it right under our hair
+For all we know it's been there all the time 
+
+
+I say, nothin' comes from dreamers but dreams
+I say, sittin' idle in our boat
+While everyone else is down the stream
+Nothin' comes from talkers but sound
+We can talk all we want to
+But the world still goes around and round
+Round and round
+We go round and round and round
+And what we're lookin' for still isn't found
+
+
+
+
+Can you tell me when we gonna get to it
+I'm tired of foolin' around I said I want to do it
+I learned my lesson young I say, if you really want two have fun
+Go for it and when you win, say "I go for it"
+
+
+One day I'll make it in the big city
+
+And I'll by lookin' for a girl who's pretty
+On day I'll make a play and she will say ok
+Cuz I plan to be a cool kitty
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-mr-please-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/pleasemrplease.html
 name: Please Mr Please
 rankings:
 - end_date: '1975-06-13'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
 ---
+
+In the corner of the bar there stands a jukebox
+With the best of country music, old and new
+You can hear your five selections for a quarter
+And somebody else's songs when yours are through
+
+I got good Kentucky whiskey on the counter
+And my friends around to help me ease the pain
+'Til some button-pushing cowboy plays that love song
+And here I am just missing you again
+
+Please, Mr., please, don't play B-17
+It was our song, it was his song, but it's over
+Please, Mr., please, if you know what I mean
+I don't ever wanna hear that song again
+
+If I had a dime for every time I held you
+Though you're far away, you've been so close to me
+I could swear I'd be the richest girl in Nashville
+Maybe even in the state of Tennessee
+
+But I guess I'd better get myself together
+'Cause when you left, you didn't leave too much behind
+Just a note that said "I'm sorry" by your picture
+And a song that's weighing heavy on my mind
+
+Please, Mr., please, don't play B-17
+It was our song, it was his song, but it's over
+Please, Mr., please, if you know what I mean
+I don't ever wanna hear that song again
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-talk-about-me-the-alan-parsons-project
+lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/letstalkaboutme.html
 name: Let's Talk About Me
 rankings:
 - end_date: '1985-02-22'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
 ---
+
+Let's talk about me for a minute
+Well how do you think
+I feel about what's been going on
+Let's talk about me for a minute
+Well how do you think
+I feel about what's gone wrong
+
+Let's talk about dreams
+I never learned to read the signs
+Let's think about what it all means
+I never seem to have the time
+
+Let's talk about you and your problems
+All that I seem to do is spend the night
+Just talking 'bout you and your problems
+No matter what I say I can't get it right
+
+Don't think about dreams
+Is it all a waste of time
+Don't think about what it all means
+If you are a friend of mine
+
+Talk about me, for a minute
+I'm the one who's losing
+Talk about me, for a minute
+I'm the one who's always losing out
+
+And how do you think
+I feel about what's been going on
+Let's talk about me for a minute
+Well how do you think
+I feel about what's gone wrong
+
+Let's think about dreams
+We never seem to have the time
+Let's think about what it all means
+If you are a friend of mine
+
+Let's talk about me
+I'm the one who's losing out
+I'm the one who's losing out
+I'm the one who's losing out, losing out
+
+Talk about me, for a minute
+I'm the one who's losing
+Talk about me, for a minute
+I'm the one who's always losing out
+
+
 

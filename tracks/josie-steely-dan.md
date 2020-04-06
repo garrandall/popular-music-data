@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: josie-steely-dan
+lyrics_url: https://www.azlyrics.com/lyrics/steelydan/josie.html
 name: Josie
 rankings:
 - end_date: '1978-09-01'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
 ---
+
+We're gonna break out the hats and hooters
+When Josie comes home
+We're gonna rev up the motor scooters
+When Josie comes home to stay
+We're gonna park in the street
+Sleep on the beach and make it
+Throw down the jam till the girls say when
+Lay down the law and break it
+When Josie comes home
+
+When Josie comes home
+So good
+She's the pride of the neighborhood
+She's the raw flame
+The live wire
+She prays like a Roman
+With her eyes on fire
+
+Jo would you love to scrapple
+She'll never say no
+Shine up the battle apple
+We'll shake 'em all down tonight
+We're gonna mix in the street
+Strike at the stroke of midnight
+Dance on the bones till the girls say when
+Pick up what's left by daylight
+When Josie comes home
+
+When Josie comes home
+So bad
+She's the best friend we ever had
+She's the raw flame
+The live wire
+She prays like a Roman
+With her eyes on fire
+
+When Josie comes home
+So good
+She's the pride of the neighborhood
+She's the raw flame
+The live wire
+She prays like a Roman
+With her eyes on fire
+
+
 

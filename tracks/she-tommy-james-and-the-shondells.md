@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/she.html
 name: She
 rankings:
 - end_date: '1969-12-19'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+
+She loves her man
+And lets him know every way she can
+Soul on soul, hand in hand
+Together
+
+She knows his mind
+Every way, all the time
+Soul on soul, hand in hand
+Together (together)
+
+Mmm, oh yeah
+
+She stands along
+All the way, right or wrong
+'Cause one and one, twice as strong, yeah
+Together
+
+She
+She
+She's a woman
+She
+She
+She
+She
+
+
 

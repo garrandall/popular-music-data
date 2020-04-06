@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chug-a-lug-roger-miller
+lyrics_url: https://www.azlyrics.com/lyrics/kentuckyheadhunters/chugalug.html
 name: Chug-A-Lug
 rankings:
 - end_date: '1964-09-11'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
+
+Chug-a-lug chug a lug
+Make ya wanna holla hidy hoe,
+Burns your tummy don't you know
+Chug-a-lug chug-a-lug
+
+Grape wine in a mason jar
+Homemade and brought to school
+By a friend of mine after class
+Me and him and this other fool
+Decided that we'll drink up whats left
+Chug-a-lug so I helped myself
+First time for everything
+Umm my ears still ring
+
+Chug-a-lug Chug-a-lug
+Make you wanna holla hidy hoe,
+Burns your tummy don't you know
+Chug-a-lug chug-a-lug
+
+4 H and an FFA
+On a field trip to the farm
+Me and friend sneak off behind
+This big old barn
+Where we uncovered a covered up
+Moonshine still
+And we thought we'd drink our fill
+And I swallowed it with a smile
+Ohh I run ten mile
+
+Chug-a-lug chug a lug
+Make u wanna holla hidy hoe,
+Burns your tummy don't you know
+Chug-a-lug chug-a-lug
+
+Jukebox and sawdust floor
+Somthin' like I've never seen
+Heck I'm just going on 15,
+But with the help of my finaglin' uncle
+I get snuck in for my first taste of sin
+I said let me have a big old sip
+Bbbbb I done a double back flip
+
+Chug-a-lug chug a lug
+Make u wanna holla hidy hoe,
+Burns your tummy don't you know
+Chug-a-lug chug-a-lug chig a chagle uh
+
+
 

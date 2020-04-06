@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: but-for-the-grace-of-god-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/butforthegraceofgod.html
 name: But For The Grace Of God
 rankings:
 - end_date: '2000-12-29'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
 ---
+
+I can hear the neighbors
+They're arguin' again
+And there hasn't been peace on our street
+Since who knows when
+I don't mean to listen in
+But the shoutin' is so loud
+I turn up the radio to drown it out
+And silently I say a little prayer
+
+But for the grace of God go I
+I must've been born a lucky guy
+Heaven only knows how I've been blessed
+With the gift of you love
+And I look around and all I see
+Is your happiness embracing me
+Oh Lord I'd be lost
+But for the grace of God
+
+I can see that old man
+He's walking past our door
+And I've been told that he's rich
+But he seems so poor
+'Cause no one comes to call on him
+And his phone it never rings
+He wanders through his empty home
+Surrounnded by his things
+And silently I say a little prayer, yes I do
+
+But for the grace of God go I
+I must've been born a lucky guy
+Heaven only knows how I've been blessed
+With the gift of you love
+And I look around and all I see
+Is your happiness embracing me
+Oh Lord I'd be lost
+But for the grace of God
+
+I look around and all I see
+Is your happiness embracing me
+Oh Lord I'd be lost
+But for the grace of God
+Oh Lord I'd be lost
+
+Oh Lord I'd be lost
+But for the grace of God
+Oh Lord I'd be lost
+But for the grace of God
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: animal-i-have-become-three-days-grace
+lyrics_url: https://www.azlyrics.com/lyrics/threedaysgrace/animalihavebecome.html
 name: Animal I Have Become
 rankings:
 - end_date: '2006-05-12'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
 ---
+
+I can't escape this hell
+So many times I've tried
+But I'm still caged inside
+Somebody get me through this nightmare
+I can't control myself
+
+So what if you can see the darkest side of me?
+No one will ever change this animal I have become
+Help me believe it's not the real me
+Somebody help me tame this animal
+(This animal, this animal)
+
+I can't escape myself
+(I can't escape myself)
+So many times I've lied
+(So many times I've lied)
+But there's still rage inside
+Somebody get me through this nightmare
+I can't control myself
+
+So what if you can see the darkest side of me?
+No one will ever change this animal I have become
+Help me believe it's not the real me
+Somebody help me tame this animal I have become
+Help me believe it's not the real me
+Somebody help me tame this animal
+
+Somebody help me through this nightmare
+I can't control myself
+Somebody wake me from this nightmare
+I can't escape this hell
+
+(This animal
+This animal
+This animal
+This animal
+This animal
+This animal
+This animal)
+
+So what if you can see the darkest side of me?
+No one will ever change this animal I have become
+Help me believe it's not the real me
+Somebody help me tame this animal I have become
+Help me believe it's not the real me
+Somebody help me tame this animal
+(This animal I have become)
+
+
 

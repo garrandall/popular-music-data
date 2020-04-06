@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: changes-xxxtentacion
+lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/changes.html
 name: Changes
 rankings:
 - end_date: '2018-03-23'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
+
+
+Mmm, baby, I don't understand this
+You're changing, I can't stand it
+My heart can't take this damage
+And the way I feel, can't stand it
+Mmm, baby, I don't understand this
+You're changing, I can't stand it
+My heart can't take this damage
+And the way I feel, can't stand it
+Mmm, baby, I don't understand it
+
+
+Girl, you're making it hard for me
+Girl, you're making it hard for me
+Girl, you're making it hard for me, oh
+Girl, you're making it hard for me
+Girl, you're making it hard for me
+Girl, you're making it hard for me
+
+
+Mmm, baby, I don't understand this
+You're changing, I can't stand it
+My heart can't take this damage
+And the way I feel, can't stand it
+Mmm, baby, I don't understand this
+You're changing, I can't stand it
+My heart can't take this damage
+And the way I feel, can't stand it
+Mmm, baby, I don't understand this
+
+
+You're changing, I can't stand it
+My heart can't take this damage
+And the way I feel, can't stand it
+Mmm, baby, I don't understand this
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-rain-blind-melon
+lyrics_url: https://www.azlyrics.com/lyrics/blindmelon/norain.html
 name: No Rain
 rankings:
 - end_date: '1993-08-27'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
 ---
+
+All I can say
+Is that my life is pretty plain
+I like watchin' the puddles gather rain
+And all I can do
+Is just pour some tea for two
+And speak my point of view
+But it's not sane,
+It's not sane
+
+I just want someone to say to me,
+"I'll always be there when you wake."
+You know I'd like to keep my cheeks dry today
+So stay with me and I'll have it made
+
+And I don't understand why I sleep all day
+And I start to complain
+That there's no rain
+And all I can do is read a book to stay awake
+And it rips my life away,
+But it's a great escape
+Escape... escape... escape...
+
+All I can say
+Is that my life is pretty plain
+You don't like my point of view
+You think that I'm insane
+It's not sane... it's not sane.
+
+I just want someone to say to me,
+"I'll always be there when you wake."
+You know I'd like to keep my cheeks dry today
+So stay with me and I'll have it made
+
+And I'll have it made
+And I'll have it made
+And I'll have it made oh no no no
+You know I'm really gonna
+Really gonna
+Have it made
+And I'll have it made
+Ah ah ah ah, ah ah ah ah, ah ah ah ah
+
+
 

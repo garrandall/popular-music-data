@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-brick-in-the-wall--part-ii--pink-floyd
+lyrics_url: https://www.azlyrics.com/lyrics/pinkfloyd/anotherbrickinthewallpartii.html
 name: Another Brick In The Wall (Part II)
 rankings:
 - end_date: '1980-01-25'
@@ -107,4 +108,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
 ---
+
+We don't need no education
+We don't need no thought control
+No dark sarcasm in the classroom
+Teacher, leave them kids alone
+
+Hey, teacher, leave them kids alone
+
+All in all it's just another brick in the wall
+All in all you're just another brick in the wall
+
+
+
+We don't need no education
+We don't need no thought control
+No dark sarcasm in the classroom
+Teachers, leave them kids alone
+
+Hey, teacher, leave us kids alone
+
+All in all you're just another brick in the wall
+All in all you're just another brick in the wall
+
+
+Wrong! Do it again!
+Wrong! Do it again!
+If you don't eat your meat, you can't have any pudding!
+How can you have any pudding if you don't eat your meat?!
+You! Yes, you, behind the bike sheds, stand still, laddy!
+
+
 

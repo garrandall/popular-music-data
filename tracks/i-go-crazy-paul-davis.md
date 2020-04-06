@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-go-crazy-paul-davis
+lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/igocrazy.html
 name: I Go Crazy
 rankings:
 - end_date: '1977-09-02'
@@ -167,4 +168,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
 ---
+
+Hello, girl, it's been a while
+Guess you'll be glad to know
+That I've learned how to laugh and smile
+Getting over you was slow
+They say old lovers can be good friends
+But I never thought I'd really see you
+I'd really see you again
+
+I go crazy
+When I look in your eyes, I still go crazy
+No, my heart just can't hide
+That old feelin' inside
+Way deep down inside
+Oh, baby
+You know when I look in your eyes I go crazy
+
+You say he satisfies your mind
+Tells you all of his dreams
+I know how much that means to you
+I realize that I was blind
+Just when I thought I was over you
+I see your face and it just ain't true
+No, it just ain't true
+
+I go crazy
+When I look in your eyes, I still go crazy
+That old flame comes alive
+It starts burning inside
+Way deep down inside
+Oh, baby
+You know when I look in your eyes I go crazy
+
+Whoa, whoa
+I go crazy
+You know when I look in your eyes, I go crazy
+No, my heart just can't hide 
+That old feelin' inside
+Way deep down inside
+I go crazy
+
+
 

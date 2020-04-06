@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flex--ooh-ooh-ooh--rich-homie-quan
+lyrics_url: https://www.azlyrics.com/lyrics/williamsinge/flexoohoohooh.html
 name: Flex (Ooh Ooh Ooh)
 rankings:
 - end_date: '2015-05-15'
@@ -115,4 +116,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
 ---
+
+Walked in 30,000 in my pocket
+Had them boys just like "ooh, ooh, ooh!"
+50 thousand dollars on ya chick wanna do it
+Got her screamin' like "ooh, ooh, ooh, ooh"
+Cause I got a check, brother wanna flex
+I ain't gotta flex, boy I got it, ooh, ooh, ooh, ooh
+Give that girl some x, she gon wanna get every brother in the set
+Got her screaming like ooh, ooh, ooh
+
+Made 2 million dollars off a mixtape
+Had them folks like ooh, ooh, ooh (Hey! Hey!)
+They tried to drop me with a case but you know but I had done skated
+I was singing like ooh, ooh, ooh
+Boy I know my role and I play it (Yes I do!)
+If you heard that I'm talkin' then I said it
+Will where you at?
+At the top of the loft these where I stay
+I'm a bad boy but I don't wear big clothes like Ma$e
+
+In the club I get it boppin'
+And that girl, she want a free drink, tell that chick to get up off me
+I'm the dude to get it poppin', her hair short like Dennis Rodman
+At the Clearport boy, we flying, when I landed boy I...
+
+30,000 in my pocket
+Had them boys just like "ooh, ooh, ooh!"
+50 thousand dollars on ya chick wanna do it
+Got her screamin' like "ooh, ooh, ooh, ooh"
+Cause I got a check, brother wanna flex
+I ain't gotta flex, boy I got it, ooh, ooh, ooh, ooh
+Give that girl some x, she gon wanna get every brother in the set
+And now she screamin' like ooh, ooh, ooh!
+
+(How much you made?) A $100, 000
+(How much, how much you made?) A $100, 000
+(How much, how much you made?)
+Made two million dollars off a mixtape, had them folks like ohhh
+Hey, get at me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: memories-maroon-5
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/memories.html
 name: Memories
 rankings:
 - end_date: '2019-10-11'
@@ -107,4 +108,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+Here's to the ones that we got
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories
+And the memories bring back, memories bring back you
+
+There's a time that I remember
+When I did not know no pain
+When I believed in forever
+And everything would stay the same
+Now my heart feel like December
+When somebody say your name
+'Cause I can't reach out to call you
+But I know I will one day, yeah
+
+Everybody hurts sometimes
+Everybody hurts someday, ay ay
+But everything gon' be alright
+Go on raise a glass and say, ay
+
+Here's to the ones that we got
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories
+And the memories bring back, memories bring back you
+
+Doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo
+Memories bring back, memories bring back you
+
+There's a time that I remember
+When I never felt so lost
+When I felt all of the hatred
+Was too powerful to stop (ooh, yeah)
+Now my heart feel like an ember
+And it's lighting up the dark
+I'll carry these torches for ya
+That you know I'll never drop, yeah
+
+Everybody hurts sometimes
+Everybody hurts someday, ay ay
+But everything gon' be alright
+Go on raise a glass and say, ay
+
+Here's to the ones that we got (oh, oh)
+Cheers to the wish you were here but you're not
+'Cause the drinks bring back all the memories
+Of everything we've been through (no, no)
+Toast to the ones here today (ay)
+Toast to the ones that we lost on the way
+'Cause the drinks bring back all the memories (ay)
+And the memories bring back, memories bring back you
+
+Doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo
+Memories bring back, memories bring back you
+
+Doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo-doo
+Doo-doo-doo-doo, doo-doo-doo (ooh, yeah)
+Memories bring back, memories bring back you
+
+Yeah, yeah, yeah
+Yeah, yeah, yeah, yeah, yeah, no, no
+Memories bring back, memories bring back you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ryan-duarte
+lyrics_url: https://www.azlyrics.com/lyrics/ryanduarte/you.html
 name: You
 rankings:
 - end_date: '2004-01-02'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-10'
 ---
+
+Its all about you 
+
+The way your makin me feel inside feels just so right
+Girl I've tried to front before i cant even lie
+The way i stayed cool, tried to ignore you
+But i knew there was nobody but you
+The way you hold me it really shows me
+You got a hold on me you drive me crazy
+Girl its what you do, im so into you
+Your the reason why its all about
+
+
+You make me feel so good i said
+You give good lovin that i cant deny
+Said it makes me wanna go and tell the whole wide world
+About your lovin girl you got me goin
+
+The way that you look at me brightens up my day
+You bring out the best in me girl i have to say
+Its all about the way you talk to me 
+Girl you know what i mean 
+Said i want you theres nobody who can love me like you do
+Nobody
+Girl its what you do im so into you
+Your the reason why its all about you
+
+
+You make me feel so good i said
+You give good lovin that i cant deny
+Said it makes me wanna go and tell the whole wide world
+About your lovin girl you got me goin
+
+You
+Your the reason why i stay true
+Your the reason why i love you
+Your the reason why its all about you
+
+
+You make me feel so good i said
+You give good lovin that i cant deny
+Said it makes me wanna go and tell the whole wide world 
+About your lovin girl you got me goin
+
+
 

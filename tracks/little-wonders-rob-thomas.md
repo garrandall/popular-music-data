@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-wonders-rob-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/robthomas/littlewonders.html
 name: Little Wonders
 rankings:
 - end_date: '2007-04-20'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
+
+Let it go
+Let it roll right off your shoulder
+Don't you know
+The hardest part is over
+Let it in
+Let your clarity define you
+In the end
+We will only just remember how it feels
+
+Our lives are made
+In these small hours
+These little wonders
+These twists & turns of fate
+Time falls away
+But these small hours
+These small hours still remain
+
+Let it slide
+Let your troubles fall behind you
+Let it shine
+Until you feel it all around you
+And I don't mind
+If it's me you need to turn to
+We'll get by
+It's the heart that really matters in the end
+
+Our lives are made
+In these small hours
+These little wonders
+These twists & turns of fate
+Time falls away
+But these small hours
+These small hours still remain
+
+All of my regret
+Will wash away some how
+But I can not forget
+The way I feel right now
+
+In these small hours
+These little wonders
+These twists & turns of fate
+These twists & turns of fate
+Time falls away but these small hours
+These small hours, still remain
+Still remain
+These little wonders
+These twists & turns of fate
+Time falls away
+But these small hours
+These little wonders still remain
+
+
 

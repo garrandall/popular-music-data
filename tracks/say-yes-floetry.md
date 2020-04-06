@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-yes-floetry
+lyrics_url: https://www.azlyrics.com/lyrics/floetry/sayyes.html
 name: Say Yes
 rankings:
 - end_date: '2003-04-04'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
 ---
+
+
+See I've been watching you for a while your smile and stuff
+and I don't know if I can be with you for tonight alright,
+is that alright baby, baby
+
+
+There is only one for me
+You have made that a possibility
+We could take that step to see, ohh
+If this is really gonna be 
+All you gotta do is say yes
+
+
+All you gotta do is say yes
+Don't deny what you feel let me undress you baby
+Open up your mind and just rest
+I'm about to let you know you make me so
+All you gotta do is say yes
+Don't deny what you feel let me undress you baby
+Open up your mind and just rest
+I'm about to let you know you make me so, so, so, so, so, so, so, so,
+You make me so, so, so, so, so, so, so, so
+
+
+Loving you has taken time, taken time
+But I always knew you could be mine
+I recognize the butterflies inside me
+Sense is gonna be made tonight, tonight
+All you gotta do is say yes
+
+
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-me-a-river-joe-cocker
+lyrics_url: https://www.azlyrics.com/lyrics/joecocker/crymeariver.html
 name: Cry Me A River
 rankings:
 - end_date: '1970-10-16'
@@ -43,4 +44,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
 ---
+
+I keep on runnin' baby
+I keep on runnin'
+But I just can't hide
+No, I just can't hide
+I keep on hurtin' baby
+I keep on hurtin' so deep inside
+So deep inside
+
+Lord I need your smile
+Child like the one I once knew
+Made my grass green
+And my blue skies blue
+Lord was time when 2 was 1
+Tell me now girl
+Where've all the good times gone
+
+Cry me a river
+Wash my blues all away
+Cry me a river
+Girl you is my riverboat
+Take me away
+Is reachin' out my hand
+Won't ya please help me to my feet once again
+Tears fallin' like rain
+Lord it's a time
+When everybody needs a friend
+Girl where've you been
+
+Lord I need your smile
+Child like the one I once knew
+Made my grass green
+And my blue skies blue
+Lord was a time when 2 was 1
+Where've all the good times gone
+
+Cry me a river
+Wash my blues all away
+Cry me a river
+Girl you is my riverboat
+Take me away
+
+
 

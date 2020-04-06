@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -i-could-only--whisper-your-name-harry-connick-jr-
+lyrics_url: https://www.azlyrics.com/lyrics/harryconnickjr/icouldonlywhisperyourname.html
 name: (I Could Only) Whisper Your Name
 rankings:
 - end_date: '1994-10-28'
@@ -88,4 +89,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
 ---
+
+Somebody was spreading rumors
+'Bout better days a comin
+Why was I hummin
+As if I knew
+One and the same
+But I just whispered your name
+
+Somebody was sayin something
+'Bout there being an end to tyranny
+But when they asked me
+What would I do...
+If that day came
+I only whispered your name
+
+Everyone got their own opinion
+And protects their own dominion
+No doubt for them it's true
+But I tell them what I really believe
+My only worry is protecting you
+
+No one should ever be lonely
+We'd all find somebody to care
+Ask me if I dare
+To answer who...
+Could carry that flame
+I'd just whisper your name
+
+
 

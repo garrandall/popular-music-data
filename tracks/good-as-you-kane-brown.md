@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-as-you-kane-brown
+lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/goodasyou.html
 name: Good As You
 rankings:
 - end_date: '2019-03-15'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
 ---
+
+See the way you're taking care of your momma
+The way you're taking care of me
+The way you light up any room girl
+You're what this world should be
+
+Tomorrow, tonight, the rest of my life
+I wanna be the man you want me to be
+So starting right now girl,
+Tell me everything you need
+
+I just wanna wake up every day here in this bed
+And never leave "I love you" left unsaid
+It might take a hundred lifetimes to do
+But baby, I just wanna be good as you
+
+Girl, you're more than just a surface
+Yeah, you got that heart of gold
+So when it comes to lovin' you baby
+Nah, it'll never get old
+
+Tomorrow, tonight, the rest of my life
+I wanna be the man you want me to be
+So starting right now girl,
+Tell me everything you need
+
+I just wanna wake up every day here in this bed
+Never leave "I love you" left unsaid
+It might take a hundred lifetimes to do
+But baby, I just wanna be good as you
+(Good as you, baby)
+
+I just wanna wake up every day here in this bed
+Never leave "I love you" left unsaid
+It might take a hundred lifetimes to do
+But baby, I just wanna be good as you
+
+I just wanna wake up every day here in this bed
+Never leave "I love you" left unsaid
+It might take a hundred lifetimes to do
+But baby, I just wanna be good as you
+Baby, I just wanna be good as you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: possession-bad-english
+lyrics_url: https://www.azlyrics.com/lyrics/badenglish/possession.html
 name: Possession
 rankings:
 - end_date: '1990-06-15'
@@ -75,4 +76,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
 ---
+
+Oh Yeah
+
+I can't find myself
+When you go away
+Makes me wonder where you are
+Is there someone else
+I just need to know
+This charade has gone too far
+
+For the first time in my life
+Feel I'm losing control
+I can't keep pretending
+It's my soul that you own
+I need you
+
+My heart's in your world tonight
+(Possession)
+And you hold the key to my life
+(Possession)
+I've got to be with you
+I wanna dream with you
+You're my obsession
+I want possession of you
+
+I can't play this game
+Am I in too deep
+Cause my world
+Is where you are
+You're always on my mind
+The little things you say
+I can feel you everywhere
+
+The trace of your lipstick
+I can taste your perfume
+The note that you left me
+leaves a space in this room
+I need you
+
+My heart's in your world tonight
+(Possession)
+And you hold the key to my life
+(Possession)
+I've got to be with you
+I wanna dream with you
+You're my obsession
+I want possession of you
+Oh Yeah
+
+I can't live without you
+Can't you see that your mine
+I need you
+
+Your heart's in my world
+(Possession)
+In your world
+In your world
+
+Your heart's in my world tonight
+(Possession)
+And you hold the key to my life
+(Possession)
+I want possession of you every night
+I want possession of you for all my life
+I wanna walk with you
+(Possession)
+I wanna dream
+(Possession)
+(Possession)
+(Possession)
+
+
 

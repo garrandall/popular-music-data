@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: going-to-the-country-the-steve-miller-band
+lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/goingtothecountry.html
 name: Going To The Country
 rankings:
 - end_date: '1970-08-21'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
 ---
+
+Gonna leave the city put my troubles behind
+People in the city goin' out of their minds
+Goin' to the country just to feel like gold
+People in the country really let themselves go
+
+Hey, ho, one thing I know
+People in the country got one thing for sure
+Hey, ho, one thing I know
+Every mother's child really lets himself go
+
+Goin' to the country and leavin' right away
+No time to talk I got to make a getaway
+Gonna leave the city it's a crime and a shame
+People in the city are goin' insane
+
+Hey, ho, one thing I know
+Every mother's child really lets himself go
+Hey, ho, one thing I know
+People in the country really let themselves go
+
+Joining hands
+Making plans
+Come on down
+Look around
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: indestructible-four-tops
+lyrics_url: https://www.azlyrics.com/lyrics/fourtops/indestructible.html
 name: Indestructible
 rankings:
 - end_date: '1988-08-26'
@@ -51,4 +52,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
+
+We are friends, we are brothers
+Always there lookin' out for each other
+In a world where so many dreams are broken apart
+But when the world tries to beat us
+We hang tough, ain't no way they'll defeat us
+You and I will always survive, together we're strong
+Heart to heart
+Any storm we can weather
+You and I we've become
+United forever
+
+Two hearts that can beat as one
+There ain't a single thing, we can't overcome
+We're indestructible (indestructible)
+We've got the power of love
+So strong we can generate
+A wall of solid love
+Nothing can penetrate
+We're indestructible
+
+There's a power, deep inside us
+Ain't no one that could ever divide us
+We won't fall, we'll show 'em all
+Just what we're made of
+You and I
+We're in it together
+We stand strong through it all
+United forever
+
+Two hearts that can beat as one
+There ain't a single thing, we can't overcome
+We're indestructible (indestructible)
+We've got the power of love
+So strong we can generate
+A wall of solid love
+Nothing can penetrate
+We're indestructible
+
+Heart to heart
+Any storm we can weather
+You and I we've become
+Untied forever
+
+Two hearts that can beat as one
+There ain't a single thing, we can't overcome
+We're indestructible (indestructible)
+We've got the power of love
+So strong we can generate
+A wall of solid love
+Nothing can penetrate
+We're indestructible
+
+
 

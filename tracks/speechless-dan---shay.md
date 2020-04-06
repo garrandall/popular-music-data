@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: speechless-dan---shay
+lyrics_url: https://www.azlyrics.com/lyrics/danshay/speechless.html
 name: Speechless
 rankings:
 - end_date: '2018-09-28'
@@ -167,4 +168,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
 ---
+
+You say you'll be down in five
+The smell of your perfume
+Is floating down the stairs
+You're fixing up your hair
+Like you do
+
+I know that I'll be a mess
+The second that I see you
+You won't be surprised
+It happens every time
+It's nothing new
+
+It's always on a night like tonight
+I thank God, you can read my mind
+'Cause when you look at me with those eyes
+
+I'm speechless
+Staring at you standing there in that dress
+What it's doing to me ain't a secret
+'Cause watching you is all that I can do
+
+And I'm speechless
+You already know that you're my weakness
+After all this time I'm just as nervous
+Every time you walk into the room
+I'm speechless
+
+It started when you said, "Hello"
+Just did something to me
+And I've been in a daze
+Ever since the day that we met
+
+You take the breath out of my lungs
+Can't even fight it
+And all of the words, out of my mouth
+Without even trying
+
+And I'm speechless
+Staring at you standing there in that dress
+What it's doing to me ain't a secret
+'Cause watching you is all that I can do
+
+And I'm speechless
+You already know that you're my weakness
+After all this time I'm just as nervous
+Every time you walk into the room
+I'm speechless
+
+Yeah, baby, mmm
+It's always on a night like tonight
+I thank God, you can read my mind
+'Cause when you look at me with those eyes
+
+I'm speechless
+You're standing there in that dress
+And, girl, it ain't a secret
+'Cause watching you is all that I can do
+
+Oh, I'm speechless (speechless)
+You already know that you're my weakness (my weakness)
+After all this time I'm just as nervous
+Every time you walk into the room
+I'm speechless
+
+Oh, you know it, baby
+
+
 

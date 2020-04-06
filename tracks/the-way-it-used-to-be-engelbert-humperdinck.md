@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-it-used-to-be-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thewayitusedtobe.html
 name: The Way It Used To Be
 rankings:
 - end_date: '1969-03-07'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
+
+Lonely table just for one
+In a bright and crowded room
+While the music has begun
+I drink to memories in the gloom
+Though the music's still the same
+It has a bittersweet refrain
+
+So play the song the way it used to be
+Before she left and changed it all to sadness
+And maybe if she's passing by the window
+She will hear our love song and the melody
+And even if the words are not so tender
+She will always remember the way it used to be
+
+Friends stop by and say hello
+And I laugh and hide the pain
+It's quite easy to let go
+Then the song begins again
+
+So play the song the way it used to be
+Before she left and changed it all to sadness
+And maybe if she's passing by the window
+She will hear our love song and the melody
+And even if the words are not so tender
+She will always remember the way it used to be
+
+
 

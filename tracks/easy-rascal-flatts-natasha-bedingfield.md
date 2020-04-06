@@ -5,6 +5,7 @@ features:
 - Natasha Bedingfield
 genres: []
 key: easy-rascal-flatts-natasha-bedingfield
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/easy.html
 name: Easy
 rankings:
 - end_date: '2011-08-19'
@@ -100,4 +101,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
 ---
+
+We broke up
+Yeah, it's tough
+Most guys would've been crushed
+Wastin' their time
+Wonderin' where they went wrong
+
+No way, not me
+Hey, I'm doing just fine
+I'm not afraid of movin' on
+
+It's easy going out on Friday night
+Easy every time I see her out
+I can smile, live it up
+The way a single guy does
+But what she, what she don't know
+Is how hard it is to make it look so easy
+
+
+The truth is
+I miss
+Lyin' in those arms of his
+But I don't ever let it show
+I laugh and I act
+Like I'm having the time of my life
+As far as he knows
+
+It's easy goin' out on Friday night
+Easy, every time I see him out
+I can smile, live it up
+The way a single girl does
+But what he, what he don't know
+Is how hard it is to make it look so easy
+Oh, it's easy
+
+Oh, it's easy goin' out on Friday night
+Oh, it's easy every time I see him out
+I can smile, live it up
+Forget about the way it was
+But what she oh, what he don't know
+What she don't know
+Is how hard it is to make it look so easy
+Look so easy
+
+Oh, and it's so easy
+So easy
+
+
 

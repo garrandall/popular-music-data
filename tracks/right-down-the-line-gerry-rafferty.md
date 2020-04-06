@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-down-the-line-gerry-rafferty
+lyrics_url: https://www.azlyrics.com/lyrics/lucius/rightdowntheline.html
 name: Right Down The Line
 rankings:
 - end_date: '1978-08-18'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
 ---
+
+You know I need your love
+You've got that hold over me
+Long as I've got your love
+You know that I'll never leave
+When I wanted you to share my life
+I had no doubt in my mind
+And it's been you woman
+Right down the line
+
+I know how much I lean on you
+Only you can see
+The changes that I've been through
+Have left a mark on me
+You've been as constant as a Northern Star
+The brightest light that shines
+It's been you woman
+Right down the line
+
+I just wanna say this is my way
+Of telling you everything
+I could never say before
+Yeah this is my way
+Of telling you that every day
+I'm loving you so much more
+
+Cause you believed in me
+Through my darkest night
+Put something better inside of me
+You brought me into the light
+Threw away all those crazy dreams
+I put them all behind
+And it was you woman
+Right down the line
+
+I just wanna say this is my way
+Of telling you everything
+I could never say before
+Yeah this is my way
+Of telling you that every day
+I'm loving you so much more
+
+If I should doubt myself
+If I'm losing ground
+I won't turn to someone else
+They'd only let me down
+When I wanted you to share my life
+I had no doubt in my mind
+And it's been you woman
+Right down the line
+
+Right down the line
+Right down the line
+Right down the line
+
+
 

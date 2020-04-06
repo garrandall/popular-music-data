@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-come-close-smokey-robinson
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/babycomeclose.html
 name: Baby Come Close
 rankings:
 - end_date: '1973-11-23'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
 ---
+
+Turn the lights down low
+Baby, come close
+Put your hand in mine
+Oh, please be kind
+Let me touch your heart
+Let the fire start
+Ooh, so warm, so warm
+
+Yeah, let the soft music play
+Please, darling, stay
+Put your trust in me
+Let this love be
+This is for real
+Let time stand still
+Ooh, so warm, so warm
+So warm, yeah
+
+Turn the lights down low
+Baby, come close
+
+Ooh, so warm, so warm
+So warm, so warm, so warm
+
+Ooh, turn the lights down low
+Baby, come close
+Let dreams come true
+For me and you
+Oh, we won't regret, baby
+We won't forget
+Ooh, so warm, so warm, yeah, yeah
+
+So warm, so warm, yeah
+So warm
+Turn the lights down low
+Baby, come close
+
+Ooh, so warm, so warm
+So warm
+So warm, so warm
+So warm
+
+
 

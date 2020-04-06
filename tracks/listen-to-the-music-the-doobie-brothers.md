@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-to-the-music-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/listentothemusic.html
 name: Listen To The Music
 rankings:
 - end_date: '1972-09-08'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
+
+Don't you feel it growin', day by day
+People gettin' ready for the news
+Some are happy, some are sad
+Oh, we got to let the music play
+What the people need
+Is a way to make 'em smile
+It ain't so hard to do if you know how
+Gotta get a message
+Get it on through
+Oh, now mama's go'n' to after 'while
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+All the time
+
+Well I know, you know better
+Everything I say
+Meet me in the country for a day
+We'll be happy
+And we'll dance
+Oh, we're gonna dance our blues away
+And if I'm feelin' good to you
+And you're feelin' good to me
+There ain't nothin' we can't do or say
+Feelin' good, feeling fine
+Oh, baby, let the music play
+
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+All the time
+
+Like a lazy flowing river
+Surrounding castles in the sky
+And the crowd is growing bigger
+List'nin' for the happy sounds
+And I got to let them fly
+
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+Oh, oh, listen to the music
+All the time
+
+
 

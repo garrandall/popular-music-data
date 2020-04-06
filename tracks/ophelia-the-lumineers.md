@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ophelia-the-lumineers
+lyrics_url: https://www.azlyrics.com/lyrics/lumineers/ophelia.html
 name: Ophelia
 rankings:
 - end_date: '2016-03-04'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
 ---
+
+Ah, ah, when I was younger, ah, ah, should have known better
+And I can't feel no remorse, and you don't feel nothing back
+
+Ah, Ah, got a new girlfriend, he feels like he's on top
+And I don't feel no remorse, and you can't see past my blinders
+
+Oh, Ophelia, you've been on my mind girl since the flood
+Oh, Ophelia, heaven help a fool who falls in love
+
+Ah, Ah, got a little paycheck, you got big plans and you gotta move
+And I don't feel nothing at all
+And you can't feel nothing small
+
+Honey I love you, that's all she wrote
+
+Oh, Ophelia, you've been on my mind girl like a drug
+Oh, Ophelia, heaven help a fool who falls in love
+
+Oh, Ophelia, you've been on my mind girl since the flood
+Oh, Ophelia, heaven help a fool who falls in love
+
+Oh, Ophelia, you've been on my mind girl like a drug
+Oh, Ophelia, heaven help a fool who falls in love
+
+
 

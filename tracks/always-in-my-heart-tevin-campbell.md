@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-in-my-heart-tevin-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/alwaysinmyheart.html
 name: Always In My Heart
 rankings:
 - end_date: '1994-07-01'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
 ---
+
+Where do they get off telling you
+That I am not the least bit into you
+Just tell me how the hell they can tell you they know what's in my heart
+What do they get from telling you
+That I don't give a damn about
+Just tell me why the hell someone wants to tear your heart apart
+
+
+Oh why, oh why, oh why, oh why
+Why do them people like to tell you lies
+I know, I know, I know, I know
+I love you more than words could ever show
+I can't, I can't, I can't, I can't explain
+Why do some people have to be that way
+I can't take much more
+I can't ignore
+I have to let you know what's in my heart
+
+
+If I never ever say that I love you
+Just remember, girl, I'm saying I do
+You can know that from this moment you were always in my heart
+If I never ever say that I love you
+Just remember, girl, I'm saying I do love you
+You'll be always in my heart
+
+They're not the ones who'll be there for you
+When you need someone to turn to
+They won't be anywhere, be anywhere when things start falling down
+They're only in it to confuse you
+So they can turn around and use you
+But it can't happen, it won't happen, girl, as long as I'm around
+
+
+
+
+Oh, why
+Why, why, why
+Yeah
+Why did you have to listen to the lies
+Oh, girl, my sweet girl
+There is only you inside my world
+Oh, please, baby, please
+I wish you could believe in me
+Right now, right now
+If only you could know
+
+
+
+
 

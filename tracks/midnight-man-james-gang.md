@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-man-james-gang
+lyrics_url: https://www.azlyrics.com/lyrics/jamesgang/midnightman.html
 name: Midnight Man
 rankings:
 - end_date: '1971-10-15'
@@ -23,4 +24,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+
+I'm the midnight man
+I do what I can
+To make sure that I am
+The midnight man
+Midnight man's on time
+Everything is fine
+All the words in rhyme
+With everything
+
+
+
+Midnight man, you're pretty
+Midnight man, you're fine
+Midnight man, be careful
+Midnight man
+Midnight man, be mine
+
+
 

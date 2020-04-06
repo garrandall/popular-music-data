@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tra-la-la-la-la-ike-tina-turner
+lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/tralalalala.html
 name: Tra La La La La
 rankings:
 - end_date: '1962-03-30'
@@ -36,4 +37,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
+
+Walking along
+(Walking along)
+And I'm singing a song
+(Singing a song)
+
+'Cause I'm so blue
+('Cause I'm so blue)
+Baby, here without you
+(Here without you)
+Oh, singing
+
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la, la, la
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la
+(Tra, la, la, la, la, la, tra, la, la, la, la, la, la)
+
+Now I love you so
+(I love you so)
+And no, no, no, nobody knows
+(Nobody knows)
+
+The way you make me feel
+(You make me feel)
+Oh, I get such a thrill
+(I get such a thrill)
+Oh, I keep on singing
+
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la, la, la
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la
+(Tra, la, la, la, la, la, tra, la, la, la, la, la, la)
+
+I feel so bad
+(Feel so bad)
+I'm here all alone
+(Here all alone)
+
+I'm hoping that you
+(Hoping that you)
+Hurry back home
+(Hurry back home)
+Oh, I keep on singing
+
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la, la, la
+(Tra, la, la, la, la, la, la, la, la, la)
+Tra, la, la
+(Tra, la, la, la, la, la, tra, la, la, la, la, la, la)
+
+
 

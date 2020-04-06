@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 99-problems-jay-z
+lyrics_url: https://www.azlyrics.com/lyrics/hugo/99problems.html
 name: 99 Problems
 rankings:
 - end_date: '2004-05-14'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
 ---
+
+If you're having girl problems I feel bad for you son
+I got 99 problems and a bitch ain't one
+
+Tip my hat to the sun in the west
+Feel the beat right in my chest
+At the crossroads a second time
+Make the devil change his mind
+It's a pound of flesh but it's really a ton
+99 problems and a bitch ain't one
+
+If you're having girl problems I feel bad for you son
+I got 99 problems and a bitch ain't one
+99 problems
+But a bitch ain't one
+
+Like broken glass under my feet
+I could lose my mind in this heat
+Looking for the prize but I don't want blood
+I order one drink then I drink the flood
+Well, you can come inside but your friends can't come
+99 problems and a bitch ain't one
+
+If you're having girl problems I feel bad for you son
+99 problems and a bitch ain't one
+I got 99
+99
+99
+99
+99 problems
+But a bitch ain't one
+
+99
+99 problems but a bitch ain't one
+
+
 

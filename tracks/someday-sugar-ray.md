@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someday-sugar-ray
+lyrics_url: https://www.azlyrics.com/lyrics/sugarray/someday.html
 name: Someday
 rankings:
 - end_date: '1999-07-09'
@@ -135,4 +136,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
 ---
+
+Someday
+When my life has passed me by
+I'll lay around and wonder why you were always there for me
+One way
+In the eyes of a passerby
+I'll look around for another try
+And'll fade away
+
+Just close your eyes and I'll take you there
+This place is warm without a care
+We'll take a swim in the deep blue sea
+I go to leave as you reach for me
+Some say
+Better things will come our way
+No matter what they try to say you were always there for me
+Someway
+When the sun begins to shine
+I hear a song from another time
+And'll fade away
+And'll fade away
+
+So far, so long, so far away
+So far, so long, so far away (away, away)
+Someday
+When my life has passed me by
+I'll lay around and wonder why you were always there for me
+One way
+In the eyes of a passerby
+I'll look around for another try
+And'll fade away
+And'll fade away
+And'll fade away
+And'll fade away
+And'll fade away
+And'll fade away
+(someday)
+And'll fade away
+
+
 

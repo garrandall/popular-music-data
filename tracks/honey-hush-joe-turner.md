@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honey-hush-joe-turner
+lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/honeyhush.html
 name: Honey Hush
 rankings:
 - end_date: '1960-01-03'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
+
+Come in this house, stop all that yackety yack
+Come in this house, baby, stop all that yackety yack
+Ah, look out my darling, I don't want no talkin' back
+
+You've been runnin' out gossipin', headin' at yackety yack
+You've been runnin' out gossipin', headin' at yackety yack
+They don't care nothin' 'bout you, they say you're just an alley cat
+
+Come on, come on, come on, come on
+Come on in this house, baby, stop all that yackety yack
+
+If I need you again, baby, I won't be back no more
+If I need you again, baby, I won't be back no more
+Ah, turn off the waterworks, baby, that don't move me no more
+
+Come on, come on, come on, come on
+Come on in this house, baby, stop all that yackety yack
+
+Come on in, baby, stop all that yackety yack
+Come on in this house, baby, stop all that yackety yack
+And don't make me nervous, 'cause I'm holdin' up a baseball bat
+
+Come on baby
+Come on baby
+Come on baby
+Come on baby
+Come on in this house, baby, stop all that yackety yack
+
+Come on baby
+
+
 

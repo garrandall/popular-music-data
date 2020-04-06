@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: les-bicyclettes-de-belsize-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/lesbicyclettesdebelsize.html
 name: Les Bicyclettes De Belsize
 rankings:
 - end_date: '1968-10-25'
@@ -43,4 +44,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
 ---
+
+Turning and turning
+The world goes on
+We can't change it, my friend
+Let us go riding now through the days
+Together to the end 
+To the end
+
+Les bicyclettes de Belsize
+Carry us side by side
+And hand in hand we will ride
+Over Belsize
+Turn your magical eyes
+Round and around
+Looking at all we've found
+Carry us through the skies
+Les bicyclettes de Belsize
+
+Spinning and spinning
+The dreams I know
+Rolling on through my head
+Let us enjoy them before they go
+Come the dawn, they all are dead
+Yes, they're dead
+
+Les bicyclettes de Belsize
+Carry us side by side
+And hand in hand we will ride
+Over Belsize
+Turn your magical eyes
+Round and around
+Lookin' at all we've  found
+Carry us through the skies
+Les bicyclettes de Belsize
+
+
 

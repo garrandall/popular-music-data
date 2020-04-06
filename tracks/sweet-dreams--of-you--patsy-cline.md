@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-dreams--of-you--patsy-cline
+lyrics_url: https://www.azlyrics.com/lyrics/patsycline/sweetdreams.html
 name: Sweet Dreams (Of You)
 rankings:
 - end_date: '1963-04-26'
@@ -47,4 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
+
+Sweet dreams of you
+Every night I go through
+Why can't I forget you and start my life anew
+Instead of having sweet dreams about you
+
+You don't love me, it's plain
+I should know, I'll never wear your ring
+I should hate you the whole night through
+Instead of having sweet dreams about you
+
+Sweet dreams of you
+Things I know can't come true
+Why can't I forget the past, start loving someone new
+Instead of having sweet dreams about you
+
+
 

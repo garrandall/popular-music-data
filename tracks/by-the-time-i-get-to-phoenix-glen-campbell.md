@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: by-the-time-i-get-to-phoenix-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/bythetimeigettophoenix.html
 name: By The Time I Get To Phoenix
 rankings:
 - end_date: '1967-11-03'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
 ---
+
+By the time I get to Phoenix
+She'll be rising
+She'll find the note I left hanging on her door
+She'll laugh, when she reads the part that says I'm leaving
+Cause I've left that girl, so many times before
+
+By the time I make Albuquerque
+She'll be working
+She'll probably stop at lunch,
+And give me a call
+But she'll just hear that phone keep on ringing
+Off the wall, that's all
+
+By the time I make Oklahoma
+She'll be sleeping
+She'll turn softly and call my name out low
+And she'll cry, just to think, I'd really leave her
+Though time and time I've tried to tell her so
+She just didn't know,
+I would really go
+
+
 

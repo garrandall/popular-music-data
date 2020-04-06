@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakdance-irene-cara
+lyrics_url: https://www.azlyrics.com/lyrics/irenecara/breakdance.html
 name: Breakdance
 rankings:
 - end_date: '1984-03-30'
@@ -83,4 +84,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
+
+Well, what's this new feeling coming out of the streets
+Everybody's talking 'bout it wherever they meet
+Down by the corner, I keep getting the heat
+Then my feet start moving to the rhythmic beat
+
+Breakdancing, break out
+Breakdancing, break out
+
+They used to do the locomotion, do the jerk and the twist
+But there just ain't never been nothing like this
+Now popping and locking is a new way of talking
+Things will work out for sure spinning 'out on the floor
+
+Breakdancing, break out
+Breakdancing, break out
+
+Hearts are pumping, beat is thumping
+Love the way you're looking tonight
+Fever's rising, no surprises
+We won't have the chance to fight
+
+Breakdancing, break out
+Breakdancing, break out
+
+
 

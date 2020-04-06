@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: potential-breakup-song-aly-aj
+lyrics_url: https://www.azlyrics.com/lyrics/alyaj/potentialbreakupsong.html
 name: Potential Breakup Song
 rankings:
 - end_date: '2007-07-20'
@@ -76,4 +77,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
 ---
+
+It took too long
+It took too long
+It took too long for you to call back
+And normally I would just forget that
+Except for the fact it was my birthday
+My stupid birthday
+
+I played along
+I played along
+I played along
+Rolled right off my back
+But obviously my armor was cracked
+What kind of a boyfriend would forget that?
+Who would forget that?
+
+The type of guy who doesn't see
+What he has until she leaves
+Don't let me go
+'Cause without me, you know you're lost
+Wise up now or pay the cost
+Soon you will know
+
+You're not livin' 'til you're livin'
+Livin' with me
+You're not winnin' 'til you're winnin'
+Winnin' me
+You're not gettin' 'til you're gettin'
+Gettin' me
+You're not livin' 'til you're livin'
+Living for me
+
+This is the potential break-up song
+Our album needs just one
+Oh baby please
+Please tell me
+
+We got along
+We got along
+We got along until you did that
+Now all I want is just my stuff back
+Do you get that?
+Let me repeat that
+I want my stuff back
+
+You can send it in a box
+I don't care just drop it off
+I won't be home
+'Cause without me, you know you're lost
+Minus you I'm better off
+Soon you will know
+
+You're not livin' 'til you're livin'
+Livin' with me
+You're not winnin' 'til you're winnin'
+Winnin' me
+You're not gettin' 'til you're gettin'
+Gettin' me
+You're not livin' 'til you're livin'
+Living for me
+
+You can try, you can try
+You know I know it'd be a lie
+Without me you're gonna die
+So you better think clearly, clearly
+Before you nearly, nearly
+Bust up the situation that you're gonna miss dearly, dearly
+C'mon
+
+You're not livin' 'til you're livin'
+(no)
+Livin' with me
+You're not winnin' 'til you're winnin'
+(no, no, no, no)
+Winnin' me
+You're not gettin' 'til you're gettin'
+Gettin' me
+You're not livin' 'til you're livin'
+(no, no, no, no)
+Living for me
+
+This is the potential break-up song
+Our album needs just one
+Oh baby please
+Please tell me
+
+This is the potential make-up song
+Please just admit you're wrong
+Which will it be?
+Which will it be?
+
+
 

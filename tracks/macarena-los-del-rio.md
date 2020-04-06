@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarena-los-del-rio
+lyrics_url: https://www.azlyrics.com/lyrics/losdelrio/macarena.html
 name: Macarena
 rankings:
 - end_date: '1996-07-12'
@@ -91,4 +92,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
 ---
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera del muchacho
+Se la vio con dos amigos
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se metiÃ³ con dos amigos
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Que en la jura de bandera el muchacho
+Se metiÃ³ con dos amigos
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Macarena sueÃ±a con El Corte InglÃ©s
+Y se compra los modelos mÃ¡s modernos
+Le gustarÃ­a vivir en Nueva York
+Y ligar un novio nuevo
+
+Macarena sueÃ±a con El Corte InglÃ©s
+Que se compra los modelos mÃ¡s modernos
+Le gustarÃ­a vivir en Nueva York
+Y ligar un novio nuevo
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Que en la jura de bandera el muchacho
+Se metiÃ³ con dos amigos
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se metiÃ³ con dos amigos
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+Dale a tu cuerpo alegrÃ­a Macarena
+Que tu cuerpo es pa' darle alegrÃ­a y cosa buena
+Dale a tu cuerpo alegrÃ­a Macarena
+Hey Macarena
+
+
 

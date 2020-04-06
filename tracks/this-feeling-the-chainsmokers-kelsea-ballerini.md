@@ -5,6 +5,7 @@ features:
 - Kelsea Ballerini
 genres: []
 key: this-feeling-the-chainsmokers-kelsea-ballerini
+lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/thisfeeling.html
 name: This Feeling
 rankings:
 - end_date: '2018-10-12'
@@ -88,4 +89,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
 ---
+
+I'll tell you a story before it tells itself
+I lay out all my reasons, you say that I need help
+We all got expectations, and sometimes they go wrong
+But no one listens to me, so I put it in this song
+
+They tell me think with my head, not that thing in my chest
+They got their hands at my neck this time
+But you're the one that I want, if that's really so wrong
+Then they don't know what this feeling is like
+
+And I say yeah-eah
+Yeah-eah-eah-eah
+Yeah-eah
+Yeah-eah-eah-eah
+And I say yeah-eah
+Yeah-eah-eah-eah
+Yeah-eah
+Yeah-eah-eah-eah
+
+I'll tell them a story, they'll sit and nod their heads
+I tell you all my secrets, and you tell all your friends
+Hold on to your opinions, and stand by what you say (stand by what you say)
+In the end, it's my decision, so it's my fault when it ends
+
+They tell me think with my head, not that thing in my chest
+They got their hands at my neck this time
+But you're the one that I want, if that's really so wrong
+Then they don't know what this feeling is like
+
+And I say yeah-eah
+Yeah-eah-eah-eah
+Yeah-eah
+Yeah-eah-eah-eah
+And I say yeah-eah
+Yeah-eah-eah-eah
+Yeah-eah
+Yeah-eah-eah-eah
+
+I'll tell you a story before it tells itself
+I lay out all my reasons, you'll say that I need help
+We all got expectations, and sometimes they go wrong
+But no one listens to me, so I put it in this song
+
+They tell me think with my head, not that thing in my chest
+They got their hands at my neck this time
+But you're the one that I want, if that's really so wrong
+Then they don't know what this feeling is like
+
+My friends say no-o, no-o-o
+Then they don't know
+No-o, no-o-o
+Yeah, no-o, no-o-o
+They don't know
+No-o, no-o-o
+No, no
+
+And I say no, oh, oh
+And I say no, yeah, yeah, yeah, yeah
+They don't know, oh
+
+
 

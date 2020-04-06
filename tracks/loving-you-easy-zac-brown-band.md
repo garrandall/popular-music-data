@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loving-you-easy-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/lovingyoueasy.html
 name: Loving You Easy
 rankings:
 - end_date: '2015-06-19'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
 ---
+
+Every morning when you come downstairs
+Hair's a mess but I don't care
+No make-up on, shining so bright
+My old sweatshirt never fit so right
+
+Dancing around to the radio
+Humming the words that you don't know
+Cross out finding an angel off my list
+Thinking that it don't get no better than this
+
+You make loving you easy
+You make loving you all I wanna do
+Every little smile, every single touch
+Reminds me just how much it all makes
+Loving you easy
+
+Wrapped around me late at night
+Pillow talk by candlelight
+Come slow this down and make it last
+The best things fly by so fast
+
+You make loving you easy
+You make loving you all I wanna do
+Every little smile and every single touch
+Reminds me just how much it all makes
+Oh, I wanna say it again
+
+You make loving you easy
+You make loving you all I wanna do
+Every little smile, every single touch
+Reminds me just how much it all makes
+Loving you easy
+Easy
+Easy
+
+
 

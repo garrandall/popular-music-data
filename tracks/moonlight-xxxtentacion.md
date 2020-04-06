@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moonlight-xxxtentacion
+lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/moonlight.html
 name: Moonlight
 rankings:
 - end_date: '2018-04-06'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
+
+Yeah
+
+Spotlight, uh, moonlight, uh
+Nigga, why you trippin'? Get your mood right, uh
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, moonlight
+Nigga, why you trippin'? Get your mood right
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, uh, moonlight
+Nigga, why you trippin'? Get your mood right, uh
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, moonlight
+Nigga, why you trippin'? Get your mood right
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+
+Feel like I'm destined
+I don't need no Smith & Wesson, no
+Boy, who you testin'?
+Fuck a Scantron, here's your lesson, oh
+Knife in intestine
+Takin' shots at all your brethren, no
+Feel like I'm damaged
+Girl, I know you fucking planned this
+
+All alone, call my phone, make me feel right
+Girl you know when you call, make me feel right
+All alone, call my phone, make me feel right
+Girl you know when you call, make me feel right
+
+Spotlight, uh, moonlight, uh
+Nigga, why you trippin'? Get your mood right, uh
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, moonlight
+Nigga, why you trippin'? Get your mood right
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, uh, moonlight
+Nigga, why you trippin'? Get your mood right, uh
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+Spotlight, moonlight
+Nigga, why you trippin'? Get your mood right
+Shawty look good in the moonlight
+All these pussy niggas so bad mind
+
+
 

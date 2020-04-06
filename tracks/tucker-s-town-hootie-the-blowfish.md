@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tucker-s-town-hootie-the-blowfish
+lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/tuckerstown.html
 name: Tucker's Town
 rankings:
 - end_date: '1996-07-19'
@@ -88,4 +89,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
 ---
+
+Staring back at you 
+Did you see my lips 
+Or were you smiling right in front of me 
+
+Your father called my name 
+Then he smiled with great relief 
+'Cause it wasn't me that you were clinging to 
+
+He made you turn around 
+You do that thing you do 
+And then you laughed with me 
+
+I don't know 
+What I can't see 
+I don't know but I'm makin' time to call 
+I don't know 
+What I can't see 
+I don't know but she's watching me leave 
+
+Just wish they'd turn around 
+Just wish they'd try to see 
+But they don't understand and that's alright with me I'm leaving now 
+
+Going down to Tucker's Town 
+Where I can lie for free 
+Nobody stares at me and I'd love to hurt the population 
+
+She called last night 
+I said I'm about to leave 
+Then I heard him scream, "I'll pack your bags" 
+
+I don't know 
+What I can't see 
+I don't know but I'm makin' time to call 
+I don't know 
+What I can't see 
+I don't know but I'm leaving here 
+
+To see the world through your Rosy glasses 
+I'll teach you to fly but they teach greed 
+We live the belt but I can bleed 
+
+I don't know....
+What I can't see....
+I don't know 
+What I can't see
+
+
 

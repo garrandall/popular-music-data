@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-to-run-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/readytorun.html
 name: Ready To Run
 rankings:
 - end_date: '1999-07-30'
@@ -79,4 +80,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
 ---
+
+When the train rolls by
+I'm gonna be ready this time
+When the boy gets that look in his eye
+I'm gonna be ready this time
+When my momma says I look good in white
+I'm gonna be ready this time
+
+Oh yeah
+Ready, ready, ready, ready...ready to run
+All I'm ready to do is have some fun
+What's all this talk about love
+
+I feel the wind blow through my hair
+I'm gonna be ready this time
+I'll buy a ticket to anywhere
+I'm gonna be ready this time
+You see it feels like I'm starting to care
+And I'm going to be ready this time
+
+Oh yeah
+Ready, ready, ready, ready...ready to run
+All I'm ready to do is have some fun
+What's all this talk about love
+
+I'm ready to run...I'm ready to run
+
+Oh
+Ready, ready, ready, ready...ready to run
+All I'm ready to do is have some fun
+What's all this talk about love
+I'm ready to run
+I'm ready to run
+I'm ready to run
+I'm ready to run...ready to run...
+ready to run...yeah I'm ready to run. I'm ready
+Whoa I'm ready to run...I'm ready...I'm ready to run...
+I'm ready to run...I'm ready
+Oh I'm ready to run..I'm ready.
+
+
 

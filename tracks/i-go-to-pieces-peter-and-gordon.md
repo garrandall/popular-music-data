@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-go-to-pieces-peter-and-gordon
+lyrics_url: https://www.azlyrics.com/lyrics/petergordon/igotopieces.html
 name: I Go To Pieces
 rankings:
 - end_date: '1965-01-15'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
 ---
+
+When I see her comin' down the street
+I get so shaky and I feel so weak
+I tell my eyes look the other way
+But they don't seem to hear a word I say
+
+And I, go to pieces and I wanna hide
+Go to pieces and I almost die
+Everytime my baby passes by
+
+I tell my arms they'll hold someone new
+Another love that will be true
+But they don't listen, they don't seem to care
+They reach for her but she's not there
+
+And I, go to pieces and I wanna hide
+Go to pieces and I almost die
+Everytime my baby passes by
+
+I remember what she said when she said
+Goodbye baby. We'll meet again soon maybe
+But until we do, all my best to you
+I'm so lonely, I think about her only
+
+I go to places we used to go
+But I know she'll never show
+She hurt me so much inside
+Now I hope she's satisfied
+
+And I, go to pieces and I wanna hide
+Go to pieces and I almost die
+Everytime my baby passes by
+Go to pieces and I cry
+Everytime my baby passes by
+Go to pieces and I cry
+
+
 

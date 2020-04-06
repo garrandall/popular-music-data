@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sentimental-deborah-cox
+lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/sentimental.html
 name: Sentimental
 rankings:
 - end_date: '1995-09-15'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
 ---
+
+I used to mess around 
+But I never let it get into me 
+'Cause I didn't take you serious baby 
+Now to be without your love 
+Only makes me realize 
+What I could've had in you honey 
+
+Now that you're gone (oooooooh ooooh ooooh) 
+I want you more 
+I said it slapped me in my face 
+And then my friends don't understand 
+Because I had the chance 
+I don't know why 
+
+
+I'm going crazy alone in a daze 
+And my heart ain't the same 
+And I don't even think unless I think about you 
+That's the only time I get sentimental 
+That's the reason why baby 
+I can't let go of you 
+Yeah, that's the only time I get sentimental 
+
+I miss you day and night, seems like you're still here 
+I'd rather be together honey 
+Now that I'm lost for words 
+I can't believe I'm on my own 
+I should've been looking at love 
+
+Now that you're gone 
+I want you (oooh ooh oooh) 
+I said it slapped me on my face 
+And now my friends don't understand 
+Because I had the chance 
+I don't know why 
+
+
+
+Now that you're gone I want you more 
+I said it slapped me on my face 
+And then my friends don't understand 
+Because I had the chance 
+I don't know why 
+
+
+
+
 

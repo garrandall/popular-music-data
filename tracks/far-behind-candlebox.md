@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: far-behind-candlebox
+lyrics_url: https://www.azlyrics.com/lyrics/candlebox/farbehind.html
 name: Far Behind
 rankings:
 - end_date: '1994-09-02'
@@ -99,4 +100,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
 ---
+
+Now maybe
+I did not mean to treat you bad
+But I did it anyway
+And now maybe
+Some would say your life was sad
+But you lived it anyway
+And so maybe
+Your friends they stand around they watch your crumble
+As you falter to the ground
+And then someday
+Your friends they stand beside as you were flyin'
+Oh you were flyin' oh so high
+
+But then someday people look at you for what they call their own
+They watch you suffer
+Yeah they hear you calling home
+But then some day we could take our time
+To brush the leaves aside so you can reach us
+But you left me far behind
+
+Now maybe
+I didn't mean to treat you oh so bad
+But I did it anyway
+Now I said maybe some would say you're left with what you had
+But you couldn't share the pain
+
+No, no, no
+Couldn't share the pain, they watch you suffer
+
+Now maybe I could have made my own mistakes
+But I live with what I've known
+And then maybe we might share in something great
+But won't you look at where we've grown
+Won't you look at where we've gone
+But then someday comes tomorrow holds
+a sense of what I fear for you in my mind
+As you trip the final line
+And that cold day when you lost control
+It's a shame you left my life so soon you should have told me
+But you left me far behind, yeah
+Now maybe I didn't mean to treat you oh so bad
+But I did it anyway
+Now maybe some would say you're left with what you had
+But you couldn't share the pain
+No, no, no
+
+Oh no
+Oh no no no no...
+Now maybe I didn't mean to treat you oh so bad
+But I did it anyway
+Now maybe some would say you're left with what you had
+But you couldn't share the pain
+I said times have changed your friends
+They come and watch you crumble to the ground
+They watch you suffer
+Yeah, they hold you down
+Hold on down
+Now maybe lover, maybe love
+I didn't mean to treat you bad
+But you left me far behind
+Left me far behind
+Left me far behind
+
+
 

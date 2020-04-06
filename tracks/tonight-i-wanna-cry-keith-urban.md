@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-i-wanna-cry-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/tonightiwannacry.html
 name: Tonight I Wanna Cry
 rankings:
 - end_date: '2006-01-06'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
 ---
+
+Alone in this house again tonight
+I got the TV on, the sound turned down and a bottle of wine
+There's pictures of you and I on the walls around me
+The way that it was and could have been surrounds me
+I'll never get over you walkin' away
+
+I've never been the kind to ever let my feelings show
+And I thought that bein' strong meant never losin' your self-control
+But I'm just drunk enough to let go of my pain
+To hell with my pride, let it fall like rain
+From my eyes
+Tonight I wanna cry
+
+Would it help if I turned a sad song on
+"All By Myself" would sure hit me hard now that you're gone
+Or maybe unfold some old yellow lost love letters
+It's gonna hurt bad before it gets better
+But I'll never get over you by hidin' this way
+
+Cause I've never been the kind to ever let my feelings show
+And I thought that bein' strong meant never losin' your self-control
+But I'm just drunk enough to let go of my pain
+To hell with my pride, let it fall like rain
+From my eyes
+Tonight I wanna cry
+
+I've never been the kind to ever let my feelings show
+And I thought that bein' strong meant never losin' your self-control
+But I'm just drunk enough to let go of my pain
+To hell with this pride, let it fall like rain
+From my eyes
+
+Tonight I wanna cry
+
+
 

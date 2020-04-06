@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dibs-kelsea-ballerini
+lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/dibs.html
 name: Dibs
 rankings:
 - end_date: '2015-11-20'
@@ -75,4 +76,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
 ---
+
+I know everybody wants you
+That ain't no secret
+Hey baby what's your status?
+And tell me are you trynna keep it?
+Well, they can all back off
+'Cause I know what I want
+And while I've got your attention
+Did I mention:
+
+If you got a kiss on your lips that you're looking for somebody to take (hey)
+If you got a heart that ain't afraid of love ain't afraid to break (hey)
+If you've got a Friday night free and a shotgun seat
+Well I'm just saying, I ain't got nowhere to be
+So baby I'll take whatever it is you've got to give
+Yeah
+
+I'm calling dibs
+On your lips
+On your kiss
+On your time
+Boy, I'm calling dibs
+On your hand
+On your heart
+All mine
+
+Make everybody jealous
+When I take you off the market
+And get my lipstick on your right cheek
+'Cause boy I've got to mark it
+Oooh
+So they can all back off
+Yeah
+'Cause I know what I want
+And while I've got you listening
+Come on and show me what I'm missing
+Yeah
+
+If you got a kiss on your lips that you're looking for somebody to take (hey)
+If you've got a heart that ain't afraid to love ain't afraid to break (hey)
+If you've got a Friday night free and a shotgun seat
+Well I'm just saying I ain't got nowhere to be
+So baby I'll take whatever it is you've got to give
+Yeah, I'm calling dibs
+
+If you've got a kiss on your lips that you're looking for somebody to take
+Hey, if you've got a heart that ain't afraid to love ain't afraid to break
+Heyyy, if you've got a Friday night free and a shotgun seat
+Well I'm just saying I ain't got nowhere to be
+So baby I'll take whatever it is you've got to give
+Yeah
+
+I'm calling dibs
+On your lips
+On your kiss
+On your time
+Boy, I'm calling dibs
+On your hand
+On your heart
+All mine
+
+Yeah, boy I'm calling dibs
+On your lips
+On your kiss
+On your time
+Boy, I'm calling dibs
+On your hand
+On your heart
+All mine, yeah
+
+I'm calling dibs on your lips, on your kiss on your time, boy
+I'm just trynna make you mine, boy
+Ooooh
+Dibs
+
+
 

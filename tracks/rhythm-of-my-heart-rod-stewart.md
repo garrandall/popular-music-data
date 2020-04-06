@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhythm-of-my-heart-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/rhythmofmyheart.html
 name: Rhythm Of My Heart
 rankings:
 - end_date: '1991-03-22'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
 ---
+
+Across the street the river runs
+Down in the gutter life is slipping away
+Let me still exist in another place
+Running under cover of a helicopter blade
+
+The flames are getting higher in effigy
+Burning down the bridges of my memory
+Love may still be alive somewhere someway
+where they're downing only deer
+a hundred steel towns away
+
+Oh rhythm of my heart is beating like a drum
+with the words "I love you" rolling off my tongue
+
+No never will I roam for I know my place is home
+where the ocean meets the sky
+I'll be sailing
+
+Photographs and kerosene light up my darkness
+light it up, light it up
+I can still feel the touch of your thin blue jeans
+Running down the alley I've got my eyes all over you baby
+Oh baby
+
+Oh the rhythm of my heart is beating like a drum
+with the words "I love you" rolling off my tongue
+No never will I roam for I know my place is home
+where the ocean meets the sky I'll be sailing
+I'll be sailing
+
+Oh I've got lightning in my veins
+shifting like the handle of a slot machine
+Love may still exist in another place
+I'm just yanking back the handle
+no expression on my face
+
+Oh the rhythm of my heart is beating like a drum
+with the words "I love you" rolling off my tongue
+Never will I roam for I know my place is home
+where the ocean meets the sky
+I'll be sailing
+
+Oh the rhythm of my heart is beating like a drum
+with the words "I love you" rolling off my tongue
+No never will I roam for I know my place is home
+where the ocean meets the sky
+I'll be sailing
+
+The rhythm of my heart is beating like a drum
+with the words "I love you" rolling off my tongue
+Never will I roam for I know my place is home
+where the ocean meets the sky
+I'll be sailing
+
+
 

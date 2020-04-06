@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stone-love-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/stonelove.html
 name: Stone Love
 rankings:
 - end_date: '1987-02-13'
@@ -80,4 +81,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
 ---
+
+Girl, the first time we met, it took me by surprise
+Ooo girl, you walked into my life with those street corner blues
+You were living in the fast lane, much to my surprise, baby
+But I fell for you anyway, I'm addicted to your love, girl
+
+Hey, stone love, solid as a rock
+I'm in love with you, baby
+Stone love, solid as a rock
+
+Girl, our love is so unique, it's one of a kind
+And girl, whenever we kiss it's like a natural high
+But we're living in the fast lane, red lights flashing, baby
+Will we ever change the way we are? Stone love girl
+
+Oh, stone love, solid as a rock
+Stone love, solid as a rock
+
+The life we live is a challenge
+Always standing on the edge
+May not be the best way but that's all we know
+'Cause I don't wanna live my life alone no
+
+Oh, stone love baby
+I've got you, yes, I've got you
+Got you under my skin, yeah, yeah
+
+Stone love, solid as a rock
+That's the way we are, baby
+Stone love, together forever
+
+Solid as a rock, the woman in my arms
+Stone love, solid as a rock
+Ooo baby
+
+May not be the best way but that's all we know
+'Cause I don't wanna live my life alone no
+
+La la la la la, stone love
+La la la, stone love, stone love
+La la la la la, stone love
+La la la, stone love, stone love
+(Oh love, you're my love)
+
+La la la la la, stone love
+La la la, stone love
+(You are every thing I wanted baby)
+La la la la la, stone love
+La la la, stone love, stone love
+(Yeah, something about stone love baby)
+
+La la la la la, stone love
+(It's about me and you, stone love)
+La la la, stone love, stone love
+
+
 

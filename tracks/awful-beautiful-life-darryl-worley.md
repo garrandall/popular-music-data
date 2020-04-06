@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: awful-beautiful-life-darryl-worley
+lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/awfulbeautifullife.html
 name: Awful Beautiful Life
 rankings:
 - end_date: '2004-11-19'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
 ---
+
+I woke up early with a poundin' in my head
+I'd been out the night before with all my friends
+A little worried, kinda wonderin' what I did
+I said, " Lord, please forgive me for my sins."
+My wife wanted to kill me, but she tried to save me first
+"You're goin' if I have to drag your butt to church."
+
+I love this crazy, tragic,
+Sometimes almost magic,
+Awful, beautiful life
+
+I read the hymns and kinda sorta sang along
+And made it through the Sunday sermon wide awake
+We met the family for dinner at our home
+Drank some beer, watched a game, and cooked some steaks
+My little brother had a big fight with his wife
+And my poor mother sat between'em both all night
+
+I love this crazy, tragic,
+Sometimes almost magic,
+Awful, beautiful life
+
+We said a prayer for Cousin Michael in Iraq
+We're all aware that he may never make it back
+We talked about the way we missed his stupid jokes
+And how he loved to be a soldier more than most
+
+I laid in bed that night and thought about the day
+And how my life is like a roller coaster ride
+The ups and downs and crazy turns along the way
+It'll throw you off if you don't hold on tight
+You can't really smile until you've shed some tears
+I could die today or I might live on for years
+
+I love this crazy, tragic,
+Sometimes almost magic,
+Awful, beautiful life
+
+I love this crazy, tragic,
+Sometimes almost magic,
+Awful, beautiful life
+
+Alright
+It's a beautiful life
+Awful, beautiful, life
+I love this life
+It's a beautiful life
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-apologize-anita-baker
+lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/iapologize.html
 name: I Apologize
 rankings:
 - end_date: '1995-01-06'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
 ---
+
+Operator, get my baby on the line
+'Cause jus the other night we had a horrible fight.
+I admit that I, I was out of control,
+But I still love my man with my body and soul.
+When the road gets rough, we say things we should not say.
+But I never meant to treat my baby that way.
+
+I apologize (believe me I do) Oh believe me I do.
+I apologize (honest and true) Oh honest and true.
+Because I know I was wrong
+And so I sing you this song.
+And I'm tryna get through to make it up to you yeah.
+
+Operator, it was like a bad dream.
+Lord you should have heard the way he shouted
+And the way that I screamed.
+I regret it 'cause I was unfair.
+I took it all out on him just because he was there.
+When the road gets rough, we say things we should not say.
+I never meant to treat my daddy that way.
+
+I apologize (believe me I do) Oh believe me I do.
+I apologize (honest and true) Oh honest and true.
+Because I know I was wrong
+And so I sing you this song.
+And I'm tryna get through to make it up to you yeah.
+
+I apologize, for I was unkind and I wish
+That I could go back in time.
+Erase the good-byes and rewrite my lines.
+But, come rain or come shine,
+I'm gonna do right this time.
+I apologize.
+
+I apologize, oh baby, I do.
+Because I know I was wrong
+So I sing you my, my, my song.
+I apologize
+
+I apologize
+Because I know I was wrong
+So I sing you this song
+And I wanna get, gotta get,
+Need to through to you, yeah.
+
+Oh listen, oh baby
+I'm talking to you right now
+I'm talking to you
+Oh yeah, I was wrong, baby
+Now listen to me right now
+Singing it to you right now...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/angel.html
 name: Angel
 rankings:
 - end_date: '1988-02-05'
@@ -107,4 +108,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
 ---
+
+I'm alone
+Yeah, I don't know if I can face the night
+I'm in tears and the cryin' that I do is for you
+
+I want your love
+Let's break the walls between us
+Don't make it tough
+I'll put away my pride
+Enough's enough
+I've suffered and I've seen the light
+
+Baby
+You're my angel
+Come and save me tonight
+You're my angel
+Come and make it all right
+
+Don't know what I'm gonna do
+About this feeling inside
+Yes it's true
+Loneliness took me for a ride
+
+Without your love
+I'm nothing but a beggar
+Without your love
+A dog without a bone
+What can I do
+I'm sleeping in this bed alone
+
+Baby
+You're my angel
+Come and save me tonight
+You're my angel
+Come and make it all right
+
+Come and save me tonight
+
+You're the reason I live
+You're the reason I die
+You're the reason I give
+When I break down and cry
+Don't need no reason why
+
+Baby, baby, baby
+You're my angel
+Come and save me tonight
+You're my angel
+Come and make it all right
+
+You're my angel
+Come and save me tonight
+You're my angel
+Come and take me alright
+Come and save me tonight
+Come and save me tonight
+Come and save me tonight
+Come and save me tonight
+Come and save me tonight
+
+
 

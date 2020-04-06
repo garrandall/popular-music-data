@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-her-no-juice-newton
+lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/tellherno.html
 name: Tell Her No
 rankings:
 - end_date: '1983-08-19'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
 ---
+
+And if she should tell you come closer
+And if she tempts you with her charms
+
+Tell her no no no no no-no-no-no
+No no no no no-no-no-no
+No no no no no
+Don't hurt me now for her love belongs to me
+
+And if she should tell you come closer
+And if she tempts you with her charms
+
+Tell her no no no no no-no-no-no
+No no no no no-no-no-no
+(don't take her love for your arms)
+No no no no no
+Don't hurt me now for her love belongs to me
+
+I know she's the kind of girl
+Who'd throw my love away
+But I still love her so
+Don't hurt me now, don't hurt me now
+
+If she tells you I love you
+Just remember she said that to me
+
+Tell her no no no no no-no-no-no
+No no no no no-no-no-no
+(don't take her love from my arms)
+No no no no no
+Don't leave her now for her love belongs to me
+
+
 

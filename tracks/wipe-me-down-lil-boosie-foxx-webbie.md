@@ -6,6 +6,7 @@ features:
 - Webbie
 genres: []
 key: wipe-me-down-lil-boosie-foxx-webbie
+lyrics_url: https://www.azlyrics.com/lyrics/trillfam/wipemedownremix.html
 name: Wipe Me Down
 rankings:
 - end_date: '2007-05-18'
@@ -81,4 +82,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
 ---
+
+Hey!
+Mr. wipe down ya heard me Foxx-a-million
+This one be the reeemix!
+Badazz, Savage live, Foxx-a-million
+Man you already know what it is ya heard me
+We still on, we still ridin on chrome, we still pullin up
+
+
+I pull up at the club VIP gas tank on E but all drinks on me (wipe me down)
+Fresh kicks fresh white tall tee fresh NFL hat fresh bauds with the crease (wipe me down)
+Pussy niggas wanna hit me with they heat, real recognize real real niggaz gon speak (wipe me down)
+Jiggalatin I been rollin bout a week you can tell I got cake by the diamonds in my teeth (wipe me down)
+Black shades so you know a nigga rollin they ain't check me at the door so ain't no tellin what I'm holdin (wipe me down)
+Bad bitches they gon bust it wide open niggas flashin they lil bread but I'm the nigga they approachin (wipe me down)
+Small niggas tall figures ya'll niggas crowd niggas we gon get mac elevens and maul niggas (wipe me down)
+Ya'll niggas call niggas but my niggas all killas get ya issue and whoever fall with ya
+
+
+Cause I'm on (wipe me down) 
+Shoulders, chest, pants, shoes 
+
+
+B.O.O.S.I.E.B.A.D.A.Z.Z. that's me (wipe me down)
+Red bones caramel all of em stop and stare all of em try and steal my underwear (wipe me down)
+I like to floss like Rick Ross got a hit called set it off when I sing it everybody set it off (wipe me down)
+Black mink yea I'm on play with me I bust ya dome 8 whips on chrome you can gon (wipe me down)
+Fresh fade fresh j's on the corner playin spades I'm an ordinary person but I'm paid (wipe me down)
+Foxx flippin Webbie smokin and we chokin on a whole pound of purple famous like the ninja turtle (wipe me down)
+Just left New York City hooked up with P. Diddy finna blow past 50 you gon have ta (wipe me down)
+We the best I'm a fool I'm the hemi man red light green light yellow light get it man
+
+
+
+
+Hot drop drop top top drop hoes drop it like it's hot yea nigga I'm the shit (wipe me down)
+You see this ice on my wrist how it glist soon as the light hit you can't lie the ice sick (wipe me down)
+Purple got me smellin funky red monkey 500 dollars on em you ain't seen these yet (wipe me down)
+Beatin you can hear me way around the corner paint wet with the 24's on em that's a bet (wipe me down)
+Ol lady's baby momma's few fiances niggas wife savage life who I'm gonna fuck next (wipe me down)
+And I'll use the lifestyle or the magnum or the trojan or go head and use the barrel of the tech (wipe me down)
+Man this chain hit me for a couple grand oh no I ain't complainin just watch how you wipe my chest (wipe me down)
+A bad bitch wanted me to stay lil longer I put that dick up on her but I had a flight to catch (wipe me down)
+
+
+Shoulders, chest, pants, shoes 
+
+
+
+
 

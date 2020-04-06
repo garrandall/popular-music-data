@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: afternoon-delight-starland-vocal-band
+lyrics_url: https://www.azlyrics.com/lyrics/starlandvocalband/afternoondelight.html
 name: Afternoon Delight
 rankings:
 - end_date: '1976-05-14'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
 ---
+
+Gonna find my baby, gonna hold her tight
+Gonna grab some afternoon delight
+My motto's always been "When it's right, it's right"
+Why wait until the middle of a cold dark night
+When everything's a little clearer in the light of day
+And we know the night is always gonna be here any way
+
+Thinkin' of you's workin' up my appetite
+Looking forward to a little afternoon delight
+Rubbin' sticks and stones together make the sparks ignite
+And the thought of loving you is getting so exciting
+
+Sky rockets in flight
+Afternoon delight
+Afternoon delight
+Afternoon delight
+
+Started out this morning feeling so polite
+I always thought a fish could not be caught who didn't bite
+But you've got some bait a waitin' and I think I might
+Like nibblin' in a little afternoon delight
+
+Sky rockets in flight
+Afternoon delight
+Afternoon delight
+Afternoon delight
+
+Please' be waiting for me baby when I come around
+We could make a lot of lovin' 'fore the sun goes down
+
+Thinkin' of you's workin' up an appetite
+Looking forward to a little afternoon delight
+Rubbin' sticks and stones together make the sparks ignite
+And the thought of loving you is getting so exciting
+
+Sky rockets in flight
+Afternoon delight
+Afternoon delight
+Afternoon delight
+Afternoon delight
+Afternoon delight
+
+
 

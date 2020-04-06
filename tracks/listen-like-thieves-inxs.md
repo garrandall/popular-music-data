@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-like-thieves-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/listenlikethieves.html
 name: Listen Like Thieves
 rankings:
 - end_date: '1986-05-16'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
 ---
+
+On the talk back show
+On the radio
+At the local bar
+In the hot traffic
+By the red tail lights
+
+Everybody's down on their knees
+Listen like thieves
+But who needs that
+When it's all in your hands
+
+And we take it down
+To the end of town
+Where they have control
+But they're loosing touch
+When the lights go out
+
+You are all you need
+You are all you need
+So don't hesitate
+There's no time to waste
+You just do it for yourself
+
+
 

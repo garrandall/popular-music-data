@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pop-a-top-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/popatop.html
 name: Pop A Top
 rankings:
 - end_date: '1999-11-19'
@@ -75,4 +76,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
 ---
+
+Pop a top, again.
+I just got time for one more round.
+Set em' up my friend.
+Then I'll be gone;
+And you can let some other fool sit down.
+
+I'd like for you to listen to a joke I heard today
+From a woman who said she was through and calmly walked away.
+I tried to smile, and did a while; but it felt so outta place.
+Did you ever hear of a clown with tear drops streaming down his face?
+
+Pop a top, again.
+I think I'll have another round.
+Set em' up my friend.
+Then I'll be gone and you can let some other fool sit down.
+
+Home for me, is misery, and here I'm wasting time
+Cause a row of fools on a row of stools is not what's on my mind.
+But then you see her leaving me. It's not what I perfer.
+So, it's either here just drinking beer or at home remembering her.
+
+Pop a top, again.
+I think I'll have another round.
+Set em' up my friend.
+Then I'll be gone and you can let some other fool sit down.
+Pop a top, again.
+
+
 

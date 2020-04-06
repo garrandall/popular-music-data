@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anyone-else-collin-raye
+lyrics_url: https://www.azlyrics.com/lyrics/collinraye/anyoneelse.html
 name: Anyone Else
 rankings:
 - end_date: '1999-03-19'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
 ---
+
+Baby I bought wine and roses on my way home
+Yeah I know we can't afford it but life doesn't last too long
+This world has gone half-crazy
+And knocked us both to our knees
+I'm fumbling for the words to try to tell ya
+I love you for hangin' onto me
+
+When anyone else would've been long gone
+Packed it up and headed back home
+And not a soul would blame you after what I put you through
+Yeah anyone else would've gone insane
+Called the game on a count of rain
+Anyone else, anyone else
+Anyone but you
+
+Mayday baby, all the rivets popped loose, it's a total tailspin
+Too much grindstone, too little time with you
+Girl, you know it's wearing thin
+Baby let's trade in these teardrops
+For warm kisses on skin
+You got a drawer full of IOU's
+And it's high time you called those things in
+
+When anyone else would've been long gone
+Packed it up and headed back home
+And not a soul would blame you after what I put you through
+Yeah anyone else would've gone insane
+Called the game on a count of rain
+Anyone else, anyone else
+Anyone but you
+
+You've passed up so many chances
+To walk right out that door
+Instead of dodging a champagne cork
+And watchin' the wet clothes fall to the floor
+
+When anyone else would've been long gone
+Packed it up and headed back home
+And you can hide behind a Cheshire cat grin but you know it's true
+Yeah anyone else would've gone insane
+Called the game on a count of rain
+Anyone else, anyone else
+Anyone but you
+
+Anyone else
+Girl, anyone but you
+
+
 

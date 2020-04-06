@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dressed-for-success-roxette
+lyrics_url: https://www.azlyrics.com/lyrics/roxette/dressedforsuccess.html
 name: Dressed For Success
 rankings:
 - end_date: '1989-06-02'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
 ---
+
+Tried to make it little by little,
+tried to make it bit by bit on my own.
+Quit the job, the grey believers,
+another town where I get close to the bone.
+Whatcha gonna tell your brother? - oh oh oh
+whatcha gonna tell your father? - I don't know!
+Whatcha gonna tell your mother? - Let me go...
+
+I'm gonna get dressed for success
+shaping me up for the big time, baby.
+Get dressed for success
+shaping it up for your love yea yea yea.
+
+I'm not afraid, a trembling flower,
+I'll feed your heart and blow the dust from your eyes
+and in the dark things happen faster.
+I love the way you sway your hips next to mine.
+Whatcha gonna tell your brother? - oh oh oh
+whatcha gonna tell your father? - I don't know!
+Whatcha gonna tell your mother? - Let me go...
+
+I'm gonna get dressed for success,
+hitting a spot for the big time, baby.
+Get dressed for success
+shaping it up for your love.
+
+Look sharp!
+
+
 

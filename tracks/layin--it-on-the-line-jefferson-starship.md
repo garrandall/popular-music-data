@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: layin--it-on-the-line-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/layinitontheline.html
 name: Layin' It On The Line
 rankings:
 - end_date: '1984-09-14'
@@ -31,4 +32,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
 ---
+
+You see it every day in every way 
+We all hear the same routines 
+They all say that it's okay 
+Just let us take care of everything 
+So we lay it on the line 
+
+Layin' it on the line (Layin' it on the line) 
+Layin' it all, right on the line 
+Just layin' it on the line (Layin' it on the line) 
+Layin' it all, we're livin on the front line 
+
+I can see it in the faces 
+We got trouble in the streets tonight 
+And power keeps us in our places 
+And it doesn't matter if you're left or right 
+You lay it on the line 
+
+Layin' it on the line (Layin' it on the line) 
+Just layin' it all, right on the line 
+Layin' it on the line, (layin' it on the line) 
+Layin' it all, right on the line 
+
+Take it to the wilderness 
+Into the jungle sun 
+Lookin' for the voice of reason 
+Inside this Babylon 
+
+Got U.S. boys on foreign soil 
+Spillin' their blood to keep the peace 
+Cities will vanish in turmoil 
+While the sheiks lay sleepin' on the beach 
+We lay it on the line 
+
+Layin' it on the line (Layin' it on the line) 
+Layin' it all, right on the line 
+Just layin' it on the line (Layin' it on the line) 
+Layin' it all, right on the line 
+Layin' it on the line 
+Just layin' it all 
+Layin' it on the line 
+Just layin' it all
+
+
 

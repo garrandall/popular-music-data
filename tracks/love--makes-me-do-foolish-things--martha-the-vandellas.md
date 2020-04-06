@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: love--makes-me-do-foolish-things--martha-the-vandellas
+lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/lovemakesmedofoolishthings.html
 name: Love (Makes Me Do Foolish Things)
 rankings:
 - end_date: '1965-12-17'
@@ -36,4 +37,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
+
+Love, love, love makes me do foolish things
+Sit alone by the phone, a phone that never rings
+Hoping to hear you say, you love me still
+Knowing you never will
+
+Love, love, love has made a fool of me
+Got me doing things, things that shouldn't be
+Listening for the sound of your knock on my door
+Knowing that sweet sound will be no more
+
+Funny, how precious memories linger on
+So long after you're gone
+And oh, precious memories that only make me cry
+But I keep holding on, oh, why do I?
+
+All because love, love, love makes me do these things
+Speak your name softly each night
+While holding your picture tight
+When you took my heart, you took my soul
+And it's far beyond control
+
+Funny how precious memories linger on
+So long, after you've gone
+Oh, precious memories that only make me cry
+But I keep holding on, oh, why do I?
+
+All because love, love, love makes me do these things
+Speak your name softly each night
+While holding your picture tight
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-along-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/getalong.html
 name: Get Along
 rankings:
 - end_date: '2018-04-27'
@@ -91,4 +92,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
+
+Met a man wearin' a t-shirt, says "Virginia is for lovers"
+Had a Bible in his left hand and a bottle in the other
+He says "All you're really given is the sunshine and your name"
+We both started laughin' when the sky started to rain
+
+Get along, on down the road
+We've got a long long way to go
+Scared to live, scared to die
+We ain't perfect but we try
+
+Get along while we can
+Always give love the upper hand
+Paint a wall, learn to dance
+Call your mom, buy a boat
+Drink a beer, sing a song
+Make a friend, can't we all get along
+
+Saw a model on a billboard, 1-800 get to know me
+Wondered was she photoshopped, or were her eyes really that lonely?
+Did she leave her hometown thinkin' she'd end up in L.A.?
+Did she break down in the desert and get stuck beside the highway?
+
+Get along, on down the road
+We've got a long long way to go
+Scared to live, scared to die
+We ain't perfect but we try
+
+Get along while we can
+Always give love the upper hand
+Paint a wall, learn to dance
+Call your mom, buy a boat
+Drink a beer, sing a song
+Make a friend, can't we all get along
+
+We find out when you die the keys to heaven can't be bought
+We still don't know what love is but we sure know what it's not
+Sometimes you got to
+
+Get along, on down the road
+We've got a long long way to go
+Scared to live, scared to die
+We ain't perfect but we try
+
+Get along while we can
+Always give love the upper hand
+Paint a wall, learn to dance
+Call your mom, buy a boat
+Drink a beer, sing a song
+Make a friend, can't we all get along
+
+
 

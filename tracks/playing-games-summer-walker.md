@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: playing-games-summer-walker
+lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/playinggames.html
 name: Playing Games
 rankings:
 - end_date: '2019-09-13'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
 ---
+
+Whip, bought it
+Crib, got it
+Job, on it
+Did I ever ask you take me to go
+Shopping in Paris or go
+Sailing overseas and just
+Drape me in Gucci? No
+
+All I ever asked was you to
+Pick up the phone when you're alone
+All I ever asked was you to
+Show me some love, kisses and hugs
+No I never had an issue
+Go to the club with your boys, baby I
+Never wanted you to stay too long
+Just wanted you to show me off
+
+So won't you say my name, say my name
+If you claim you want me, it ain't no thang
+You actin' kinda shady, you ain't been callin' me, "Baby"
+Boy, you can go and stop playing games, playing games
+
+I know you say you hit my line, I'm on your mind and that
+You want this bad, so I'm cool with that
+I'm just tryna match your words with your actions
+I need more than satisfaction, is you really bout that action?
+
+Really wanna give you all, but flex in front of your friends (How that work?)
+Swear that you're doin' the most, but we take a picture can't post it (How that work?)
+Quit your talkin'? Back that shit up
+Won't you say my, say my
+
+So won't you say my name, say my name
+If you claim you want me, it ain't no thang
+You actin' kinda shady, you ain't been callin' me, "Baby"
+Boy, you can go and stop playing games, playing games
+
+Games (games)
+Games (oh games)
+
+We got London on the track
+
+
 

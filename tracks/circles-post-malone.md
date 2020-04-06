@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: circles-post-malone
+lyrics_url: https://www.azlyrics.com/lyrics/postmalone/circles.html
 name: Circles
 rankings:
 - end_date: '2019-09-20'
@@ -119,4 +120,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+Oh, oh, oh-oh
+Oh, oh, oh-oh
+Oh, oh, oh-oh, oh-oh, oh-oh
+
+We couldn't turn around till we were upside down
+I'll be the bad guy now, but know I ain't too proud
+I couldn't be there even when I try
+You don't believe it, we do this every time
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+Let go, I got a feeling that it's time to let go
+I said so, I knew that this was doomed from the get-go
+You thought that it was special, special
+But it was just the sex though, the sex though
+And I still hear the echoes (The echoes)
+I got a feeling that it's time to let it go, let it go
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+Maybe you don't understand what I'm going through
+It's only me, what you got to lose?
+Make up your mind, tell me, what are you gonna do?
+It's only me, let it go
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+
 

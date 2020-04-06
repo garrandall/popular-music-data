@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-really-want-to-do-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/allireallywanttodo.html
 name: All I Really Want To Do
 rankings:
 - end_date: '1965-07-09'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
 ---
+
+I ain't lookin' to compete with you
+Beat or cheat or mistreat you
+Simplify you, classify you
+Deny, defy, or crucify you
+All I really want to do
+Is baby be friends with you
+
+No, I ain't lookin' to fight with you
+Frighten you or tighten you
+Drag you down or drain you down
+Chain you down or bring you down
+All I really want to do
+Is baby be friends with you
+
+I don't want to fake you out
+Take or shake or forsake you out
+I ain't lookin' for you to feel like me
+See like me or be like me
+
+I don't want to meet your kin
+Make you spin or do you in
+Or select you or disect you
+Or inspect you or reject you
+All I really want to do
+Is baby be friends with you
+
+
 

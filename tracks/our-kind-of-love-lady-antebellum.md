@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-kind-of-love-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/ourkindoflove.html
 name: Our Kind Of Love
 rankings:
 - end_date: '2010-02-12'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
 ---
+
+Here we go!
+
+You wear your smile like a summer sky
+Just shining down on me and you
+I swear your heart is a free bird
+On a lazy Sunday afternoon
+
+I love the way that you were up for anything
+Never worried 'bout what people say
+That's right, oh that's right
+What we got is
+
+Just like driving on an open highway
+Never knowing what we're gonna find
+Just like two kids, baby, always trying to live it up
+Whoa, yeah, that's our kind of love
+Mm that's our kind of love
+
+Skipping rocks and leaving footprints
+Down along the riverbank
+Always holding hands, never making plans
+Just living in the moment, babe
+
+> You get me laughing with those funny faces
+You somehow always know just what to say
+That's right, oh that's right
+What we got is
+
+Just like driving on an open highway
+Never knowing what we're gonna find
+Just like two kids, baby, always trying to live it up
+Whoa, yeah, that's our kind of love
+That's our kind of love
+
+Oh that's right, baby you and I
+What we got is
+
+Just like driving on an open highway
+Never knowing what we're gonna find
+Just like two kids, baby, always trying to live it up
+Whoa, oh
+Just like driving on an open highway
+Never knowing what we're gonna find
+Just like two kids, baby, always trying to live it up
+Whoa, yeah, that's our kind of love
+
+Oo, that's our kind of love
+Oh, that's our kind of love
+
+1,2,3, here we go!
+Oo, yeah
+That's our kind of love, girl
+Dontcha know it
+
+
 

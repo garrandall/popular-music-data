@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-at-that-cadillac-stray-cats
+lyrics_url: https://www.azlyrics.com/lyrics/straycats/lookatthatcadillac.html
 name: Look At That Cadillac
 rankings:
 - end_date: '1984-02-03'
@@ -27,4 +28,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
 ---
+
+Well, wake up in the morning, brush my teeth and comb my hair 
+Well, I wake up in the morning, I brush my teeth and comb my hair 
+There's a big black cadillac parked on the street over there 
+
+Well it's the finest lookin' car, that ever rolled of the line 
+Any other car would just be wasting your time 
+Ooh one fine day I'm gonna make a cadillac mine 
+
+I gotta get a cadillac 
+Look at that cadillac, look at that 
+Look at that cadillac, look at that 
+Rolling down the avenue, I'm gonna get me a cadillac too 
+If it's the last thing I do 
+
+Well I got a job, down at the liquor store 
+Well I got me a job down at the liquor store 
+Oooh I ain't lazy but I don't wanna work no more 
+
+When I get my paycheck I put it right in the bank 
+I'm putting all my money straight right in the bank 
+Well I'm halfway to get my big black cadillac tank 
+
+I gotta get a cadillac 
+Look at that cadillac, look at that 
+Look at that cadillac, look at that 
+Rolling down the avenue, I'm gonna get me a cadillac too 
+If it's the last thing I do 
+
+Sittin' in a bar knockin' 'm back 
+Up pulls a big black cadillac 
+Out steps a kitten, stand back cats 
+Away I go in that cadillac 
+
+Look at that cadillac, look at that 
+Look at that cadillac, look at that 
+Rolling down the avenue, I'm gonna get me a cadillac too 
+If it's the last thing I do 
+
+I gotta get a cadillac 
+Look at that cadillac, look at that 
+Look at that cadillac, look at that 
+Rock and rolling down the avenue, I'm gonna get me a cadillac too 
+If it's the last thing I do
+
+
 

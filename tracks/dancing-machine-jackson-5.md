@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-machine-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/dancingmachine.html
 name: Dancing Machine
 rankings:
 - end_date: '1974-03-22'
@@ -95,4 +96,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
 ---
+
+Dancing, dancing, dancing
+She's a dancing machine
+Ah babe
+Move it baby
+
+Automatic Systematic
+Full of color self contained
+Tuned and channeled to your vibes
+Captivating Stimulating
+She's such a sexy lady
+Filled with space age design
+
+She's moving
+She's grooving dancing until the music stop now
+Yea
+
+Rythmetic acrobatic
+She's a dynamite attraction
+At the drop of a coin she comes alive
+Yeah
+She knows what she's doing
+She super bad now
+She's geared to blow your mind
+
+Dancing, dancing, dancing
+She's a dancing machine
+Ah babe
+Do it baby
+
+Dancing, dancing, dancing
+She's a dancing machine
+Ah babe
+Move it baby
+
+She's a dance, dance, dance, dance, dancing machine
+Watch her get down, watch her get down
+As she do, do, do her thing
+Right on the scene
+
+She's a dance, dance, dance, dance, dancing machine
+Watch her get down, watch her get down
+As she do, do, do her thing
+Right on the scene
+
+Come on babe
+Come on babe
+Babe
+Babe
+Shake it baby
+Shake it babe
+Babe
+Babe
+Babe
+
+Dance
+Dance
+Dance
+Dance
+
+I like it
+I like
+I love you
+She's a dance, dance, dance, dance, dancing machine
+Watch her get down, watch her get down
+As she do, do, do her thing
+Right on the scene
+
+She's a dance, dance, dance, dance, dancing machine
+Watch her get down, watch her get down
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancin--away-with-my-heart-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/dancinawaywithmyheart.html
 name: Dancin' Away With My Heart
 rankings:
 - end_date: '2011-09-23'
@@ -83,4 +84,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
 ---
+
+I finally asked you to dance
+On the last slow song
+Beneath that moon that was really a disco ball
+I can still feel my head on your shoulder
+And hoping that song would never be over
+
+
+I haven't seen you in ages
+Sometimes I find myself
+Wondering where you are
+For me you'll always be 18
+And beautiful and dancin' away with my heart
+
+I brushed your curls back so I could see your eyes
+And the way you moved me was like you were reading my mind
+I can still feel you lean into kiss me
+I can't help but wonder if you ever miss me
+
+
+
+You headed off to college
+At the end of that summer and we lost touch
+I guess I didn't realize even at that moment we lost so much
+
+
+
+Nah nah nah 
+
+Away with My Heart
+
+Nah nah nah 
+
+
 

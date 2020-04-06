@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-love-lesley-gore
+lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/younglove.html
 name: Young Love
 rankings:
 - end_date: '1966-04-01'
@@ -31,4 +32,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+
+Young love, first love
+Filled with true devotion
+
+They say for every boy and girl
+There's just one love in this whole world
+And I know I've found mine
+The heavenly touch of your embrace
+Tells me no one could take your place ever in my heart
+
+Young love, first love
+Filled with true devotion
+Young love, our love
+We share with deep emotion
+
+Just one kiss from your sweet lips
+Will tell me that your love is real
+And I can feel that it's true
+We will vow to one another
+There will never be another love for you or for me
+
+Young love, first love
+Filled with true devotion
+Young love, our love
+We share with deep emotion
+Young love, first love
+
+
 

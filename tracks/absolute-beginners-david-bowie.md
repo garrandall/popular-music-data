@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: absolute-beginners-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/absolutebeginners.html
 name: Absolute Beginners
 rankings:
 - end_date: '1986-04-04'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
 ---
+
+I've nothing much to offer
+There's nothing much to take
+I'm an absolute beginner
+And I'm absolutely sane
+As long as we're together
+The rest can go to hell
+I absolutely love you
+But we're absolute beginners
+With eyes completely open
+But nervous all the same
+
+If our love song
+Could fly over mountains
+Could laugh at the ocean
+Just like the films
+There's no reason
+To feel all the hard times
+To lay down the hard lines
+It's absolutely true
+
+Nothing much could happen
+Nothing we can't shake
+Oh we're absolute beginners
+With nothing much at stake
+As long as you're still smiling
+There's nothing more I need
+I absolutely love you
+But we're absolute beginners
+But if my love is your love
+We're certain to succeed
+
+If our love song
+Could fly over mountains
+Sail over heartaches
+Just like the films
+If there's reason
+To feel all the hard times
+To lay down the hard lines
+It's absolutely true
+
+
 

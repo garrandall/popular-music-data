@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-knows-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/everybodygettogether.html
 name: Everybody Knows
 rankings:
 - end_date: '1967-12-22'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
 ---
+
+Love is but a song to sing
+Feels the way we'll die
+You can make the mountains ring
+Or make the angels cry
+Though the bird is on the wing
+And you may know not why
+
+Oh! Come on you people now
+Smile on your brother
+Everybody get together
+Try to love one another right now
+Come on you people now
+Smile on your brother
+Everybody get together
+Try to love one another right now
+
+Some may come and some may go
+He will surely pass
+When the one that let us heal
+Returns for us at last
+We are but in the morning sunlight
+Fading in the grass
+
+Oh! Come on you people now
+Smile on your brother
+Everybody get together
+Try to love one another right now
+Yes! Come on you people now
+Smile on your brother
+Everybody get together
+Try to love one another right now
+
+Come on you people now
+Smile on your brother
+Everybody get together
+Try to love one another right now
+
+
 

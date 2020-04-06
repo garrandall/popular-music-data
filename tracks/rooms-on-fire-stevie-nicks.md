@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rooms-on-fire-stevie-nicks
+lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/roomsonfire.html
 name: Rooms On Fire
 rankings:
 - end_date: '1989-05-12'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
 ---
+
+Somewhere out in the back of your mind (Somewhere)
+Comes your real life and the life that you know
+It seems like it was the creation of some of those same old things
+It seemed to be the only thing left out in the light
+She had trusted many...
+But been unfamiliar with...
+Almost everyone but you
+
+Well maybe I'm just thinking that the rooms are all on fire
+Everytime that you walk in the room
+Well there is magic all around you, if I do say so myself...
+I have known this much longer than I've known you
+
+She had trusted many...
+And then there would be someone who would enter into her presence
+That she could sense for miles...
+She dreamed of her wanton luxury
+And she laughed and she cried... and she tried to taunt him
+And he hated to be separated...
+From that picture... No...
+
+Well maybe I'm just thinking that the rooms are all on fire
+Everytime that you walk in the room
+Ooh, well there is magic all around you, if I do say so myself...
+Well I have known this much longer than I've known you
+
+Long nets of white cloud my memory...
+Long nets of white cloud my memory...
+Ooh... there is magic... all around you...
+Everytime you walk in the room...
+
+Well maybe I'm just thinking that the rooms are all on fire
+Everytime that you walk in the room
+Well there is magic all around you, if I do say so myself...
+Well I have known this much longer than I've known you...
+
+
+
 

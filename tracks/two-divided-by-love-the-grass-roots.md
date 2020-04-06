@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-divided-by-love-the-grass-roots
+lyrics_url: https://www.azlyrics.com/lyrics/grassroots/twodividedbylove.html
 name: Two Divided By Love
 rankings:
 - end_date: '1971-10-15'
@@ -51,4 +52,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
 ---
+
+Two divided by love
+Can only be one
+And one is a lonely number
+Two divided by love
+Can only be sad
+Can only hurt one another
+
+Every night your tears come down
+And I know how you're feelin' inside
+Loneliness is no one's friend
+I've been takin' the same kind of ride
+And that just shouldn't be
+If you're still lovin' me
+Come on baby
+
+Two divided by love
+Can only be one
+And one is a lonely number
+Two divided by love
+Can only be sad
+Can only hurt one another
+
+I'd by lyin' to myself
+If I said I was gettin' along
+All I do is think of you and I know
+That it's here you belong
+Come on girl make your way
+We can start from today
+Puttin' it back together 'cause
+
+Two divided by love
+Can only be one
+And one is a lonely number
+Two divided by love
+Can only be sad
+Can only hurt one another
+
+Take away the rain from a flower
+And the flower just can't grow
+Take away you from me girl
+Out of my mind
+Out of my mind
+Out of my mind
+Out of my mind
+
+Two divided by love
+Can only be sad
+Can only be broken hearted
+Two divided and blue
+Should take what they had
+And go back to where they started
+
+Two divided by love
+Can only be one
+And one is a lonely number
+Two divided by love
+Can only be sad
+Can only hurt one another
+
+
 

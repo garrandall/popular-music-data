@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -baby--turn-on-to-me-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/babyturnontome.html
 name: (Baby) Turn On To Me
 rankings:
 - end_date: '1970-09-11'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
 ---
+
+Baby, turn on...
+Baby, turn on to me
+Baby, turn on...
+Baby, turn on to me
+
+Which way do I go
+How can I let her go
+If she leaves me I follow
+That's how much I love her so
+
+Turn on to me, turn on
+I'm such a fool
+Just about to lose my cool
+Now when I?
+My mind is all gone, nothin' in it
+So baby, turn on...
+Woooh
+
+Baby, turn on...
+Baby, turn on to me
+Baby, turn on...
+Baby, turn on to me
+
+I need her so bad
+And I'm so helpless
+If she just open her mind, mind
+There's no telllin' just what she might find
+
+Turn on to me, turn on
+
+I'm such a fool
+I'm just about to lose my cool
+Now when I?
+My mind is all gone, nothin' in it
+
+So baby, turn on...
+Baby, turn on to me
+Baby, turn on...
+Baby, turn on to me
+...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooked-dylan-scott
+lyrics_url: https://www.azlyrics.com/lyrics/dylanscott/hooked.html
 name: Hooked
 rankings:
 - end_date: '2018-08-03'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
 ---
+
+It was a Friday night
+No cover but that cover band was sounding right
+And there you were, just flirty dancing by the neon sign
+To fishing in the dark you were reeling in my heart
+And now look where we are
+
+I'm hooked on
+Kissing you, getting, getting you turned on
+Buzzing and loving on you all night long
+Like a hit song on the radio
+You already know the way it goes
+All it took was a look and
+I was hooked on
+The way that you taking, taking my shirt off
+And running my fingers through your long blonde
+Hair falling in your eyes
+Like the first time they caught mine
+All it took was a look and I was
+Hooked
+
+It's Saturday
+You still asleep and I can leave but no way
+This ain't a one night fling kinda thing
+Wanna wake you up, wanna press my luck
+And my lips on your cheek like I can't enough 'cause
+
+I'm hooked on
+Kissing you, getting, getting you turned on
+Buzzing and loving on you all night long
+Like a hit song on the radio
+You already know the way it goes
+All it took was a look and
+I was hooked on
+The way that you taking, taking my shirt off
+And running my fingers through your long blonde
+Hair falling in your eyes
+Like the first time they caught mine
+All it took was a look and I was
+Hooked
+
+You've got me hooked on
+Kissing you, getting, getting you turned on
+Buzzing and loving on you all night long
+Like a hit song on the radio
+You already know the way it goes
+All it took was a look and
+I was hooked on
+The way that you taking, taking my shirt off
+And running my fingers through your long blonde
+Hair falling in your eyes
+Like the first time they caught mine
+All it took was a look and I was
+Hooked
+
+
 

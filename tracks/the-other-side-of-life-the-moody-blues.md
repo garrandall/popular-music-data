@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-other-side-of-life-the-moody-blues
+lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/theothersideoflife.html
 name: The Other Side Of Life
 rankings:
 - end_date: '1986-08-22'
@@ -43,4 +44,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
 ---
+
+The atmosphere on the streets tonight
+Is the driving beat of the world
+The word down here on the streets tonight
+Is the truest music you've heard
+
+So take your share of the gifts that are there
+They all belong to you
+And come what may at the break of each day
+We all begin anew once more, we all begin anew
+
+Baby, baby, baby, let's investigate
+The other side of life tonight
+The lovers and the fighters and the risks they take
+Are on the other side of life tonight
+
+Let's lose our way, go completely astray
+And find ourselves again
+You know the only way to get there is to take that step
+To the other side of life tonight
+
+The atmosphere on the streets tonight
+Is the driving beat of the world
+The word down here on the streets tonight
+Is the truest music you've heard
+
+So take your share of the gifts that are there
+They all belong to you
+And come what may at the break of each day
+We all begin anew once more, we all begin anew
+
+Baby, baby, baby, let's investigate
+The other side of life tonight
+The lovers and the fighters and the risks they take
+Are on the other side of life tonight
+
+Let's lose our way, go completely astray
+And find ourselves again
+You know the only way to get there is to take that step
+To the other side of life tonight
+
+Let's lose our way, go completely astray
+And find ourselves again
+You know the only way to get there is to take that step
+To the other side of life tonight
+
+
 

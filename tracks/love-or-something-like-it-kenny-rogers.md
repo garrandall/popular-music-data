@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-or-something-like-it-kenny-rogers
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/loveorsomethinglikeit.html
 name: Love Or Something Like It
 rankings:
 - end_date: '1978-06-09'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+
+Show me a bar with a good looking woman
+Then just get out of my way
+Turn on the jukebox, I'll show you a song you should play
+Sooner or later a few shots of Bourbon
+And I'll think of somethin' to say
+Whoa, I can take her or leave her
+I'd like to take her away
+
+Liquor and music, a good combination
+If you've got love on the brain
+I never knew two women who acted the same
+Some want a drink first, and some want to just sit and talk
+Whoa, oh, it's two in the mornin'
+I'm running' and she wants to walk
+
+Something's got a hold on me
+It's cheap but it ain't free
+Love or somethin' like it's got a hold on me
+
+That's when I asked her, my place or your place
+I hope I'm not out of line
+I asked the wrong thing, but just the right woman this time
+She knew a hotel, she even had a name we could sign
+Whoa, oh, the cheaper the grapes are, the sweeter the taste of the wine
+
+Something's got a hold on me
+It's cheap but it ain't free
+Love or somethin' like it's got a hold on me
+
+Something's got a hold on me
+It's cheap but it ain't free
+Love or somethin' like it's got a hold on me
+Love or somethin' damn near like it's got a hold on me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: obscene-phone-caller-rockwell
+lyrics_url: https://www.azlyrics.com/lyrics/rockwell/obscenephonecaller.html
 name: Obscene Phone Caller
 rankings:
 - end_date: '1984-05-11'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
 ---
+
+I came home knocked out after work
+
+That's when my telephone goes berserk.
+How can I unwind or get some rest
+Receiving sick phone calls from a lonely pest.
+Find someone else to bother
+Mister or Miss Obscene Phone Caller.
+Why do you get off breathing on that phone
+
+Obscene Phone Caller leave me alone.
+Why did you have to pick me out of all the people in the directory
+
+I don't know what's going thru' your mind
+
+But these nackoff phone calls are a waste of time.
+I must have my number changed
+Or trace these calls from whence they came
+
+If Alexander Bell were alive today
+Would he want the telephone to be used this way?
+Find someone else to bother
+Mister or Miss Obscene phone Caller...
+Obscene phone Caller
+find someone else to bother.
+Obscene phone Caller
+you dirty little nasty twit
+
+
 

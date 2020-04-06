@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-problem-lil-scrappy
+lyrics_url: https://www.azlyrics.com/lyrics/lilscrappy/noproblem.html
 name: No Problem
 rankings:
 - end_date: '2004-07-23'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-27'
 ---
+
+
+
+
+You can get crunk in the club
+Roll wit your hood
+Get stomped in the club
+Or you could get buck in the club
+Get fucked up in the club
+Nigga we don't give a fuck
+But you don't want no problem (Problem)
+But you don't want no problem (Problem)
+But you don't want no problem with me
+Cuz BME we be 50 deep
+
+You don't wanna be dead in the streets
+Mouth full of blood and soul full of heat (Ooo)
+Why you tryna act hard as hell
+And you know damn well you don't wanna feel the shell
+Nigga I been down by a lot
+Gun to my head, pressed dead to the wall
+I got big balls and bullets like baseballs
+Split ya dome, put you straight, knock out all ya'll
+Hell no them boys don't play
+Straight nuts to ya face
+Put your pistol away
+And don't weed to my head
+I pray for the folks in the club gettin scared
+Got a problem with that
+
+
+
+Hold em back, hold em back
+Man fuck that nigga
+Fuck that hold em back
+Gotta push that nigga
+Hold em back, hold em back
+Push that nigga
+Fuck that hold em back
+
+Hey shawty it's on 
+Goddamnit it's on
+Keep poppin in my face and get popped in the dome
+Learn to rush mothafuckas 
+It's gonna hurt
+If a nigga fall 
+That's when shit gets worse
+The problem with you niggas is
+You just talk too much
+Man swang on a nigga and fuck his ass up
+And you can walk on by with your nuts in a tub
+I'll be your obliged if you really won't get crunk
+In the A we don't play them games
+We just stack and slang and load up them things
+Gettin buck if you wanna and catch a bow
+Keep your pretty ass gull, beat your ass, and take your hoe
+
+
+
+
+
+
 

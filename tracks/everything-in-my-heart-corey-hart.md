@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-in-my-heart-corey-hart
+lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/everythinginmyheart.html
 name: Everything In My Heart
 rankings:
 - end_date: '1985-12-06'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
 ---
+
+I never see the light
+Still I follow you
+Couldn't imagine how
+Or what I'm supposed to do
+
+Ah maybe I've been crazy
+Only thinking of you
+I'll do it again
+
+Through the longest nights
+And I know them so well
+I keep forgetting my place
+And I stumbled 'til I fell
+
+So easy it's so easy
+To never see the truth
+Do you remember
+
+I said to give you
+Everything in my heart
+Give you everything in my heart
+Give you everything in my soul
+(I said) for you
+
+And sometimes when my heart is so cold
+And you cut me out and you're so hard to hold
+I keep searching
+I wanna get through to you
+
+I keep on searching
+I want to break through to you
+Again and again
+
+Oh maybe I've been crazy
+Only thinking of you
+But I'll do it again
+
+To give you everything in my heart
+Give you everything in my heart
+Give you everything in my soul
+(I said) for you, and I'll do it again
+
+Give you everything in my heart
+Give you everything in my heart
+Even though, everything in my soul
+(I said) for you and I'll do it again
+
+Everything in my heart
+
+
 

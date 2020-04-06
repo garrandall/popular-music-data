@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tainted-love-soft-cell
+lyrics_url: https://www.azlyrics.com/lyrics/jessicamauboy/taintedlove.html
 name: Tainted Love
 rankings:
 - end_date: '1982-01-22'
@@ -179,4 +180,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+
+Sometimes I feel I've got to
+Run away, I've got to
+Get away from the pain you drive into the heart of me
+The love we share
+Seems to go nowhere
+And I've lost my light
+For I toss and turn, I can't sleep at night
+
+Once I ran to you (I ran)
+Now I'll run from you
+This tainted love you've given
+I give you all a boy could give you
+Take my tears and that's not nearly all
+Tainted love, ohh
+Tainted love
+Oh!
+Tainted love, ohh
+Tainted love
+
+And now I know I've got to
+Run away, I've got to
+Get away, you don't really want any more from me
+To make things right
+You need someone to hold you tight
+And you think love is to pray
+But I'm sorry, I don't pray that way
+
+Once I ran to you (I ran)
+Now I'll run from you
+This tainted love you've given
+I give you all a boy could give you
+Take my tears and that's not nearly all
+Tainted love, ohh
+Tainted love
+Oh!
+Tainted love, ohh
+Tainted love
+
+Don't touch me, please
+I cannot stand the way you tease
+I love you though you hurt me so
+If I do and pack my things and go
+
+Once I ran to you (I ran)
+Now I'll run from you
+This tainted love you've given
+I give you all a boy could give you
+Take my tears and that's not nearly all
+Tainted love, ohh
+Tainted love
+Oh!
+Tainted love, ohh
+Tainted love
+
+Oooh
+(Tainted love)
+Ah, tainted love
+(Tainted love)
+I tainted love
+(Tainted love)
+Tainted love
+(Tainted love)
+Oooh
+(Tainted love)
+Tainted love
+(Tainted love)
+Ta-ta-tainted love
+(Tainted love)
+Ah-ah, mm, baby
+(Tainted love)
+Tainted love
+(Tainted love)
+
+(Tainted love)
+Love
+Love, love, love
+(Tainted love)
+
+(Tainted love)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harden-my-heart-quarterflash
+lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/hardenmyheart.html
 name: Harden My Heart
 rankings:
 - end_date: '1981-10-23'
@@ -103,4 +104,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
+
+Cryin' on the corner, waitin' in the rain
+I swear I'll never, ever wait again
+You gave me your word, but words for you are lies
+
+Darlin', in my wildest dreams, I never thought I'd go
+But it's time to let you know
+
+I'm gonna harden my heart
+I'm gonna swallow my tears
+I'm gonna turn and leave you here
+
+All of my life, I've been waitin' in the rain
+I've been waitin' for a feeling that never, ever came
+It feels so close but always disappears
+
+Darlin', in your wildest dreams, you never had a clue
+But it's time you got the news
+
+I'm gonna harden my heart
+I'm gonna swallow my tears
+I'm gonna turn and leave you here
+
+Darlin', in my wildest dreams, I never thought I'd go
+But it's time to let you know
+
+I'm gonna harden my heart
+I'm gonna swallow my tears
+I'm gonna turn and leave you here
+
+I'm a-gonna harden my heart
+I'm gonna swallow my tears
+I'm a-gonna harden my heart
+I'm gonna swallow my tears
+Harden my heart
+I'm gonna swallow my tears
+No, oh, oh, oh
+Harden my heart
+I'm gonna harden my heart
+I'm gonna swallow my tears
+I'm a-gonna harden my heart
+
+
 

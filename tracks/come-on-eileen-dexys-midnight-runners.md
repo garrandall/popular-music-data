@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-eileen-dexys-midnight-runners
+lyrics_url: https://www.azlyrics.com/lyrics/dexysmidnightrunners/comeoneileen.html
 name: Come On Eileen
 rankings:
 - end_date: '1983-01-28'
@@ -99,4 +100,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+Come on Eileen
+Come on Eileen
+
+Poor old Johnnie Ray
+Sounded sad upon the radio
+But he moved a million hearts in mono
+Our mothers cried
+Sang along
+Who'd blame them?
+
+You've grown (you're grown up)
+So grown (so grown up).
+Now I must say more than ever
+
+Come on Eileen
+
+Too-ra-loo-ra, too-ra-loo-rye, aye
+And we can sing just like our fathers
+
+Come on Eileen
+Oh, I swear (what he means)
+At this moment you mean everything
+You in that dress
+My thoughts I confess
+Verge on dirty
+Oh, come on Eileen
+
+Come on Eileen
+
+These people 'round here
+Wear beaten-down eyes sunk in smoke-dried faces
+They're so resigned to what their fate is
+
+But not us (no, never)
+No, not us (no, never)
+We are far too young and clever
+Remember
+
+Too-ra-loo-ra, too-ra-loo-rye, aye
+Eileen I'll hum this tune forever
+
+Come on Eileen
+Oh, I swear what (what he means)
+Ah, come on let's take off everything
+Pretty red dress
+Eileen (tell him yes)
+Ah, come on let's
+Ah, come on Eileen
+
+Pretty red dress
+Eileen (tell him yes)
+Ah, come on let's
+Ah, come on Eileen, please
+
+Come on Eileen, too-loo-rye-aye
+Come on Eileen, too-loo-rye-aye
+Now you're all grown
+Now you have shown
+Oh, Eileen
+
+Say, come on Eileen
+These things they are real
+And I know how you feel
+Now I must say more than ever
+Things 'round here have changed
+
+I say, too-ra-loo-ra, too-ra-loo-rye-aye
+
+Come on Eileen
+Oh, I swear (what he means)
+At this moment you mean everything
+You in that dress,
+My thoughts I confess
+Verge on dirty
+Ah, come on Eileen
+
+Ah, come on Eileen
+Oh, I swear (what he means)
+At this moment you mean everything
+You in that dress,
+My thoughts I confess
+Well, they're dirty
+Come on Eileen
+
+Come on Eileen
+
+
 

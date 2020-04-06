@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reach-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/reach.html
 name: Reach
 rankings:
 - end_date: '1996-04-26'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-31'
 ---
+
+Some dreams live on in time forever
+Those dreams, you want with all
+Your heart
+
+And I'll do whatever it takes
+Follow through with the promise I made
+Put it all on the line
+What I hoped for at last would be mine
+
+If I could reach, higher
+Just for one moment touch the sky
+From that one moment
+In my life
+I'm gonna be stronger
+Know that I've tried my
+Very best
+I'd put my spirit to the test
+If I could reach
+
+Some days are meant to be
+Remembered
+Those days we rise above
+The stars
+
+So I'll go the distance
+This time
+Seeing more the higher
+I climb
+That the more I believe
+All the more that this
+Dream will be mine
+
+If I could reach, higher
+Just for one moment touch
+
+The sky
+From that one moment
+In my life
+I'm gonna be stronger
+Know that I've tried my
+Very best
+I'd put my spirit to the test
+If I could reach
+
+If I could reach, higher
+Just for one moment touch the sky
+From that one moment
+In my life
+I'm gonna be stronger
+I'm gonna be so much stronger
+Yes I am
+I put my spirit to the test
+
+If I could reach, higher
+If I could, if I could,
+If I could reach
+Reach, I'd reach, I'd reach
+I'd reach, I'd reach so
+Much higher
+Be stronger
+
+
 

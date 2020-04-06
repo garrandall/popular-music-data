@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: play-the-game-tonight-kansas
+lyrics_url: https://www.azlyrics.com/lyrics/kansas/playthegametonight.html
 name: Play The Game Tonight
 rankings:
 - end_date: '1982-05-14'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
 ---
+
+You think that something's happening
+And it's bigger than your life
+But it's only what you're hearing
+Will you still remember
+When the morning light has come
+Will the songs be playing over and over
+Till you do it all over again
+
+
+Play, play the game tonight
+Can you tell me if it's wrong or right
+Is it worth the time, is it worth the price
+Do you see yourself in a white spotlight
+Then play the game tonight
+
+And when the curtains open
+To the roaring of the crowd
+You will feel it all around you
+Then it finally happens
+And it's all come true for you
+And the songs are playing over and over
+Till you do it all over again
+
+
+
+
 

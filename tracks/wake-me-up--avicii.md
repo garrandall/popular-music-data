@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wake-me-up--avicii
+lyrics_url: https://www.azlyrics.com/lyrics/avicii/wakemeup.html
 name: Wake Me Up!
 rankings:
 - end_date: '2013-07-19'
@@ -223,4 +224,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
 ---
+
+Feeling my way through the darkness
+Guided by a beating heart
+I can't tell where the journey will end
+But I know where to start
+
+They tell me I'm too young to understand
+They say I'm caught up in a dream
+Well life will pass me by if I don't open up my eyes
+Well that's fine by me
+
+
+So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lost
+
+I tried carrying the weight of the world
+But I only have two hands
+Hope I get the chance to travel the world
+But I don't have any plans
+
+Wish that I could stay forever this young
+Not afraid to close my eyes
+Life's a game made for everyone
+And love is the prize
+
+
+So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lost
+
+Didn't know I was lost
+I didn't know I was lost
+I didn't know I was lost
+I didn't know (didn't know, didn't know)
+
+
 

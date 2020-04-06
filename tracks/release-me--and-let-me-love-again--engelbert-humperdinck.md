@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: release-me--and-let-me-love-again--engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/pleasereleasemeletmego.html
 name: Release Me (And Let Me Love Again)
 rankings:
 - end_date: '1967-04-14'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
 ---
+
+Please release me, let me go
+For I don't love you anymore
+To waste our lives would be a sin
+Release me and let me love again
+
+I have found a new love, dear
+And I will always want her near
+Her lips are warm while yours are cold
+Release me, my darling, let me go
+
+(Please release me, let me go)
+For I don't love you anymore
+(To waste my life would be a sin)
+So release me and let me love again
+
+Please release me, can't you see
+You'd be a fool to cling to me
+To live a lie would bring us pain
+So release me and let me love again
+(Let me love, let me love)
+
+
 

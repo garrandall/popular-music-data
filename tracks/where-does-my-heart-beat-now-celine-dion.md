@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-does-my-heart-beat-now-celine-dion
+lyrics_url: https://www.azlyrics.com/lyrics/celinedion/wheredoesmyheartbeatnow.html
 name: Where Does My Heart Beat Now
 rankings:
 - end_date: '1990-12-14'
@@ -103,4 +104,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
 ---
+
+So much to believe in - We were lost in time
+Everything I needed
+I feel in your eyes
+Always thought of keeping -
+Your heart next to mine
+But now that seems so far away
+Don't know how love could leave
+Without a trace
+Where do silent hearts go?
+
+Where does my heart beat now
+Where is the sound
+That only echoes through the night
+Where does my heart beat now
+I can't live without
+Without feeling it inside
+Where do all the lonely hearts go
+
+Candle in the water - Drifting helplessly
+Hiding from the thunder-
+Come and rescue me
+Driven by hunger -
+Of the endless dream
+
+I'm searching for the hand that I can hold
+I'm reaching for the arms that let me know
+Where do silent hearts go?
+
+Where does my heart beat now
+Where is the sound
+That only echoes through the night
+Where does my heart beat now
+I can't live without
+Without feeling it inside
+Where do all the lonely hearts go
+Where do all the lonely hearts go
+
+Then one touch overcomes the silence
+Love still survives
+Two hearts needing one another
+Give me wings to fly
+
+Where does my heart beat now
+Where is the sound
+That only echoes through the night
+Where does my heart beat now
+I can't live without
+Without feeling it inside
+
+I've got someone to give my heart to
+Feel it getting stronger and stronger
+And stronger
+And I feel inside
+
+Hearts are made to last
+Till the end of time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ran--so-far-away--a-flock-of-seagulls
+lyrics_url: https://www.azlyrics.com/lyrics/darude/iransofaraway.html
 name: I Ran (So Far Away)
 rankings:
 - end_date: '1982-07-16'
@@ -95,4 +96,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
 ---
+
+I walked along the avenue, I never thought I'd meet a girl like you
+Meet a girl like you.
+With auburn hair and tawny eyes, the kind of eyes that hypnotize me through
+Hypnotize me through.
+
+And I ran
+I just ran
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+
+And I ran
+I couldn't get away
+
+I couldn't get away
+I couldn't get away
+I couldn't get away
+I couldn't get away
+I couldn't get away
+I couldn't get away
+I couldn't get away
+I couldn't get away
+
+Reached out a hand to touch your face. You're slowly disappearing from my view
+'Appearing from my view.
+Reached out a hand to try again. I'm floating in a beam of light with you
+A beam of light with you.
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+Night and day, night and day...
+
+And I ran...
+
+
 

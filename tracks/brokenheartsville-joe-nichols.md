@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brokenheartsville-joe-nichols
+lyrics_url: https://www.azlyrics.com/lyrics/joenichols/brokenheartsville.html
 name: Brokenheartsville
 rankings:
 - end_date: '2003-01-31'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
 ---
+
+He wore that cowboy hat to cover up his horns.
+Sweet-talkin' forked tongue had a temptin' charm.
+Before I turned around, that girl was gone.
+All I can say is, "Bartender, pour me somethin' strong."
+
+Here's to the past, they can kiss my glass.
+I hope she's happy with him.
+Here's to the girl, who wrecked my world,
+That angel who did me in.
+I think the devil drives a Coupe de Ville.
+I watched 'em drive away over the hill,
+Not against her will, and I've got time to kill,
+Down in Brokenheartsville.
+
+It was long and chrome sittin' in the lot.
+And fire engine red, that thing was hot.
+He revved it up, she waved goodbye.
+Well, love's gone to hell and so have I.
+
+Here's to the past, they can kiss my glass.
+I hope she's happy with him.
+Here's to the girl, who wrecked my world,
+That angel who did me in.
+I think the devil drives a Coupe de Ville.
+I watched 'em drive away over the hill,
+Not against her will, and I've got time to kill,
+Down in Brokenheartsville.
+
+Here's to the past, they can kiss my glass.
+I hope she's happy with him.
+Here's to the girl, who wrecked my world,
+That angel who did me in.
+I think the devil drives a Coupe de Ville.
+I watched 'em drive away over the hill,
+Not against her will, and I've got time to kill,
+Down in Brokenheartsville.
+
+
 

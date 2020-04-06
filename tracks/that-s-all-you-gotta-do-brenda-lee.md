@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-all-you-gotta-do-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/thatsallyougottado.html
 name: That's All You Gotta Do
 rankings:
 - end_date: '1960-06-12'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+
+Anytime you're feeling low
+And you got no place to go
+You don't have to be blue
+Here's all you gotta do
+
+Call me on the telephone
+Tell me that you're all alone
+And I'll come a runnin' to you
+Baby thats all you gotta do
+
+All you gotta do when you're lonesome
+Is to call on me
+And I'll come a runnin' to you
+As a fast as I can
+
+I'll love and squeeze you uh huh huh
+I'll try to please you
+Cause baby I want you to be my lovin' man
+
+I've been waiting for the chance
+Needing you to start a romance
+And if you feel the same way too
+Here's all you gotta do
+
+Tell me just a how you feel
+Tell me that your love is real
+And I'll give my heart to you
+Baby thats all you gotta do
+
+All you gotta do when you're lonesome
+Is to call on me
+And I'll come a runnin' to you
+As a fast as I can
+
+I'll love and squeeze you uh huh huh
+I'll try to please you
+Cause baby I want you to be my lovin' man
+
+I've been waiting for the chance
+Needing you to start a romance
+And if you feel the same way too
+Here's all you gotta do
+
+Tell me just a how you feel
+Tell me that your love is real
+And I'll give my heart to you
+Baby thats all you gotta do
+
+
 

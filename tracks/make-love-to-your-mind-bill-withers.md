@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-love-to-your-mind-bill-withers
+lyrics_url: https://www.azlyrics.com/lyrics/billwithers/makelovetoyourmind.html
 name: Make Love To Your Mind
 rankings:
 - end_date: '1975-12-26'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
 ---
+
+I love the story in your love song
+Buildin' them castles in your mind
+You come down here lookin' for a feelin'
+Someday I know you're gonna find
+I wanna lay down now beside you
+But first we ought to take some time
+Before I make love to your body
+I wanna make love to your mind
+
+I wanna feel good just like you do
+I haven't love in quite some time
+I have some phases that I've been through
+Where I've just loved and left behind
+I'm just too tired of feeling guilty
+I don't wanna be unkind
+But before I make love to your body
+I wanna make love to your mind
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-arms-erasure
+lyrics_url: https://www.azlyrics.com/lyrics/erasure/inmyarms.html
 name: In My Arms
 rankings:
 - end_date: '1997-05-30'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
 ---
+
+The deal is on the rise again
+The ship comes in to shore
+You've been away to somewhere
+But life goes on no less
+
+Through the foreign ocean
+Underneath the sea
+
+And walls come tumbling down
+We'll be forever calm
+And you'll be here in my arms
+I'll keep you away from harm
+
+I thought about you twice just then
+You get me every time
+Keeps coming out of nowhere
+It cannot be defined
+
+Your colours are magnificent
+From magenta to bright blue
+
+And walls come tumbling down
+We'll be forever calm
+And you'll be here in my arms
+I'll keep you away from harm
+
+Through the foreign ocean
+Underneath the sea
+
+And walls come tumbling down
+We'll be forever calm
+And you'll be here in my arms
+I'll keep you away from harm
+
+
 

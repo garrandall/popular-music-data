@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-dark-billy-squier
+lyrics_url: https://www.azlyrics.com/lyrics/billysquier/inthedark.html
 name: In The Dark
 rankings:
 - end_date: '1981-09-18'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
 ---
+
+Life isn't easy from the singular side
+Down in the hole, some emotions are hard to hide
+It's your decision, it's a chance that you take
+It's on your head, it's a habit that's hard to break
+
+Do you need a friend 
+Would you tell no lies
+Would you take me in 
+Are you lonely in the dark
+In the dark
+In the dark
+In the dark
+
+You never listen to the voices inside
+They fill your ears as you run to a place to hide
+You're never sure if the illusion is real
+You pinch yourself but the memories are all you feel
+
+Can you break away 
+From your alibis
+Can you make a play 
+Oh, will you meet me in the dark
+In the dark
+In the dark
+In the dark
+In the dark
+In the dark
+
+Don'tcha need me, hey, hey
+Don'tcha need me, oh yeah
+Don'tcha leave me, hey, hey
+Don'tcha need me, oh yeah
+
+You take no interest, no opinion's too dear
+You make the rounds, oh, you try to be so sincere
+You guard your hopes and you pocket your dreams
+You'd trade it all to avoid an unpleasant scene
+
+Can you face the fire 
+When you see me there
+Can you feel the fire 
+Will you love me in the dark
+In the dark
+In the dark
+In the dark
+In the dark
+In the dark
+In the dark
+In the dark
+In the dark
+
+
 

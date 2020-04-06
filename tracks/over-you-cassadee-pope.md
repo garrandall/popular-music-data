@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-you-cassadee-pope
+lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/overyou.html
 name: Over You
 rankings:
 - end_date: '2012-12-14'
@@ -15,4 +16,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
 ---
+
+Weather man said it's gonna snow
+By now I should be used to the cold
+Mid-February shouldn't be so scary
+It was only December I still remember
+The presents, the tree, you and me
+
+But you went away
+How dare you?
+I miss you
+They say I'll be OK
+But I'm not going to ever get over you
+
+Living alone here in this place
+I think of you, and I'm not afraid
+Your favorite records make me feel better
+Cause you sing along with every song
+I know you didn't mean to give them to me
+
+But you went away
+How dare you?
+I miss you
+They say I'll be OK
+But I'm not going to ever get over you
+
+It really sinks in you know
+When I see it in stone
+
+Cause you went away
+How dare you?
+I miss you
+They say I'll be OK
+But I'm not going to ever get over you
+Ever get over you
+
+
 

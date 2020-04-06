@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: secret-garden-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/secretgarden.html
 name: Secret Garden
 rankings:
 - end_date: '1995-05-05'
@@ -99,4 +100,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
 ---
+
+She'll let you in her house
+If you come knockin' late at night
+She'll let you in her mouth
+If the words you say are right
+If you pay the price
+She'll let you deep inside
+But there's a secret garden she hides
+She'll let you in her car
+To go drivin' 'round
+She'll let you into the parts of herself
+That'll bring you down
+She'll let you in her heart
+If you got a hammer and a vise
+But into her secret garden, don't think twice
+
+You've gone a million miles
+How far'd you get
+To that place where you can't remember
+And you can't forget
+
+She'll lead you down a path
+There'll be tenderness in the air
+She'll let you come just far enough
+So you know she's really there
+Then she'll look at you and smile
+And her eyes will say
+She's got a secret garden
+Where everything you want
+Where everything you need
+Will always stay
+A million miles away
+
+
 

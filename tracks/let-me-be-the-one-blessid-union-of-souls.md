@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-the-one-blessid-union-of-souls
+lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/letmebetheone.html
 name: Let Me Be The One
 rankings:
 - end_date: '1995-08-11'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-16'
 ---
+
+So you're scared to show your feelings
+Baby I do understand
+Well I don't make a promise I can't keep
+And I vow to be a real good friend
+
+In those big green eyes I see a glow of love
+I just hope I'm the one you're dreaming of
+
+Let me be the one to love you
+Let me be the one to care
+Let me be the one to light your flame
+Oh baby Oh baby
+Let me be the one
+
+We spend all our time together
+We can't stand to sleep alone
+When you say you have to leave for now
+I miss you before you're gone
+
+All along we thought this was absurd (absurd)
+Every moment we spend goes by too fast
+Darling Darling take this chance with me
+Cause I have eyes only for you
+Oh baby
+
+Let me be the one to love you
+Let me be the one to care
+Let me be the one to light your flame
+Oh baby Oh baby
+Let me be the one
+Let me be the one to love you
+Let me be the one to care
+Let me be the one to light your flame
+Oh baby Oh baby
+Let me be the one
+For you
+
+Don't be scared to show your feelings
+Cause baby I do understand
+And I don't make promises that I can't keep
+And I vow to be a real good man
+
+
 

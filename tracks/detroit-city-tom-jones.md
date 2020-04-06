@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: detroit-city-tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/detroitcity.html
 name: Detroit City
 rankings:
 - end_date: '1967-03-17'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
 ---
+
+Last night I went to sleep in Detroit City,
+and I dreamed about those cotton fields at home.
+I dreamed about my mother,
+dear old Papa, Sister and brother,
+
+I dreamed about that girl
+who's been waiting for so long.
+I wanna go home, I wanna go home,
+oh, how I wanna go home!
+
+Home, folks think I'm big in Detroit City.
+From the letters that I write, they think I'm fine.
+But by day, I make the cars,
+and by night I make the bars,
+If only they could read between the lines!
+
+
+
+You know,
+I rode a freight train north to Detroit City.
+After all these years,
+I find that I've just been wastin' my time.
+So I just think I'll take my foolish pride,
+put on a south bound freight and ride,
+Goin' back to the love ones,
+The ones I left waitin' so far behind.
+
+I wanna go home, I wanna go home,
+oh, how I want to go home.
+
+
 

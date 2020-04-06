@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stoney-end-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/stoneyend.html
 name: Stoney End
 rankings:
 - end_date: '1970-11-06'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
 ---
+
+I was born from love
+And my poor mother worked the mines
+I was raised on the Good Book Jesus
+Till I read between the lines
+Now I don't believe
+I want to see the morning
+Going down the stoney end
+I never wanted to go
+Down the stoney end
+Mama let me start all over
+Cradle me,  Mama,  cradle me again
+I can still remember him
+With love light in his eyes
+But the light flickered out and parted
+As the sun began to rise
+Now I don't believe
+I want to see the morning
+Going down the stoney end
+I never wanted to go
+Down the stoney end
+Mama let me start all over
+Cradle me,  mama, cradle me again
+(Cradle me,  mama, cradle me again
+Mama, cradle me again...)
+Never mind the forecast
+'Cause the sky has lost control
+'Cause the fury and the broken thunders
+Come to match my raging soul
+Now I don't  believe
+I want to see the morning
+Going down the stoney end
+I never wanted to go
+Down the stoney end
+Mama let me start all over
+Cradle me,  mama,  cradle me again
+Going down the stoney end...
+
+
 

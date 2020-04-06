@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-together-growing-together-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/livingtogethergrowingtogether.html
 name: Living Together Growing Together
 rankings:
 - end_date: '1973-01-12'
@@ -43,4 +44,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
 ---
+
+Start with a man and you have one
+Add on a woman and then you have two
+Add on a child and what have you got?
+You've got more than three
+You've got what they call a family
+
+Living together
+Growing together
+Just being together
+That's how it starts
+Three loving hearts all
+Pulling together
+Working together
+Just building together
+That makes you strong
+
+If things go wrong
+We'll still get along somehow
+Living and growing together
+
+It just takes wood to build a house
+Fill it with people and you have a home
+Fill it with love and people take root
+It's just like a tree
+Where each branch becomes a family that's
+
+Living together
+Growing together
+Just being together
+That's how it starts
+Three loving hearts all
+Pulling together
+Working together
+Just building together
+That makes you strong
+
+If things go wrong
+We'll still get along somehow
+Living and growing together
+Still get along somehow
+Living and growing together
+
+Living together
+Growing together
+Just being together
+That's how it starts
+Three loving hearts all
+Pulling together
+Working together
+Just building together
+That makes you strong
+
+If things go wrong
+We'll still get along somehow
+Living and growing
+Just like we're doing now, together
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-i-feel-tonight-bay-city-rollers
+lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/thewayifeeltonight.html
 name: The Way I Feel Tonight
 rankings:
 - end_date: '1977-10-21'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
 ---
+
+Turn the music way down low
+Let me see you in the glow
+In the fire light you are shining
+Though it's much too soon to know
+If this love I feel will grow
+Let's take tonight to start out finding
+
+'Cause the way I feel tonight
+Everything will be all right
+I will keep your candle burning
+Oh, yes, the way I feel tonight
+Everything will be all right
+And the way I feel tonight
+I love you
+
+Close the door and turn the key
+Open up your heart to me
+I can see your love light glowing
+Let your body melt in mine
+Let us taste each other's wine
+Till the cup is overflowing
+
+'Cause the way I feel tonight
+Everything will be all right
+I will keep your candle burning
+Oh, yes, the way I feel tonight
+Everything will be all right
+And the way I feel tonight
+I love you
+
+Baby, I love you...
+Baby, I love you...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roses-are-red--my-love--bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/rosesareredmylove.html
 name: Roses Are Red (My Love)
 rankings:
 - end_date: '1962-06-15'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
 ---
+
+(Roses are red, my love)
+(Doo doo da doo)
+
+A long, long time ago 
+On graduation day 
+You handed me your book 
+I signed this way: 
+
+"Roses are red, my love.
+Violets are blue.
+Sugar is sweet, my love.
+But not as sweet as you."
+
+We dated through high school
+And when the big day came
+I wrote into your book
+Next to my name:
+
+"Roses are red, my love.
+Violets are blue.
+Sugar is sweet, my love.
+But not as sweet as you." (as sweet as you)
+
+Then I went far away
+And you found someone new
+I read your letter, dear
+And I wrote back to you:
+
+"Roses are red, my love.
+Violets are blue.
+Sugar is sweet, my love.
+But luck may God bless you." (may God bless you)
+
+Is that your little girl? 
+She looks a lot like you
+Someday some boy will write
+In her book, too:
+
+"Roses are red, my love.
+Violets are blue.
+Sugar is sweet, my love.
+But not as sweet as you."
+(Roses are red)
+
+
 

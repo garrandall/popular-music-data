@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-view-to-a-kill-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/aviewtoakill.html
 name: A View To A Kill
 rankings:
 - end_date: '1985-05-24'
@@ -75,4 +76,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
 ---
+
+Meeting you, with a view to a kill
+Face to face in secret places, feel the chill
+Night fall covers me, but you know the plans I'm making
+Still oversea, could it be the whole world opening wide
+A sacred why, a mystery gaping inside
+The weekend's why
+
+Until we dance into the fire, that fatal kiss is all we need
+Dance into the fire, to fatal sounds of broken dreams
+Dance into the fire, that fatal kiss is all we need
+Dance into the fire
+
+Choice for you, is the view to a kill
+Between the shades, assassination's standing still
+The first crystal tears, fall as snowflakes on your body
+First time in years, to drench you skin with lovers rosy stain
+A chance to find the phoenix for the flame
+A chance to die
+
+But can we dance into the fire, that fatal kiss is all we need
+Dance into the fire, to fatal sounds of broken dreams
+Dance into the fire, that fatal kiss is all we need
+Dance into the fire, when all we see is the view to a kill
+
+
 

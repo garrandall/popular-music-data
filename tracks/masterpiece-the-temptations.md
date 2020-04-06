@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: masterpiece-the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/masterpiece.html
 name: Masterpiece
 rankings:
 - end_date: '1973-03-02'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
 ---
+
+Where I was born ev`rything was dull and dingy
+I lived in a place they called the inner city
+Getting ahead huh was strictly a nono
+Cause nobody cares what happens to the folks
+That live in the ghetto
+Thousands of lives wasting away
+People living from day to day
+It`s a challenge just staying alive
+`Cause in the ghetto only the strong survive
+
+Money I ain`t got none, job can`t find one
+The streets raised me from a baby, ooh
+Thousands of lives wasting away
+People living from day to day
+It`s a challenge just staying alive
+`Cause in the ghetto only the strong survive
+
+Broken down homes, kids strung out
+They don`t even know what life`s all about
+Stealin` cars, robbin` bars
+Mugging drugs, rat infested
+And no one`s interested
+
+Kids dodging cars for recreation
+Only adds to a mother`s frustration
+Breakings, folks comin` home
+And finding all their possessions gone
+Oh it`s an ev`ry day thing - well well - in the ghetto
+Oh it`s an ev`ry day thing in the ghetto
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-remember-i-love-you-firefall
+lyrics_url: https://www.azlyrics.com/lyrics/firefall/justrememberiloveyou.html
 name: Just Remember I Love You
 rankings:
 - end_date: '1977-08-19'
@@ -91,4 +92,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+
+When it all goes crazy and the thrill is gone
+The days get rainy and the nights get long
+When you get that feelin' you were born to lose
+Staring at your ceiling thinkin' of your blues
+
+When there's so much trouble that you wanna cry
+The world has crumbled and you don't know why
+When your hopes are fading and they can't be found
+Dreams have left you waiting, friends have let you down
+
+Just remember I love you
+And it'll be alright
+Just remember I love you
+More than I can say
+Maybe then your blues will fade away
+
+When you need a lover and you're down so low
+Start to wonder, but you never know
+When it feels like sorrow is your only friend
+Knowing that tomorrow you'll feel this way again
+
+When the blues come callin' at the break of dawn
+Rain keeps fallin', but the rainbow's gone
+When you feel like crying but the tears won't come
+When your dreams are dyin', when you're on the run
+
+Just remember I love you
+And it'll be alright
+Just remember I love you
+More than I can say
+Just remember I love you
+And it'll be alright
+It'll be alright
+It'll be alright
+It'll be alright
+
+
 

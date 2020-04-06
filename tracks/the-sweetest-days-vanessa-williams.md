@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sweetest-days-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/thesweetestdays.html
 name: The Sweetest Days
 rankings:
 - end_date: '1994-11-18'
@@ -99,4 +100,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
 ---
+
+You and I in this moment, holding the night so close 
+Hanging on still unbroken, while outside the thunder rolls 
+
+Listen now, you can hear our heart beat
+Warm against life's bitter cold... these are the days 
+The sweetest days we'll know
+
+There are times that scare me, that rattle the house like wind 
+Both of us so unbending, we battle the fear within 
+All the while, life is rushing by us hold it now and don't let go 
+These are the days, the sweetest days we'll know 
+
+So we whisper a dream here in the darkness 
+Watching the stars til they're gone 
+And when even the memories have all faded away 
+These days go on and on 
+
+Listen now you can hear our heartbeat 
+Hold me now and don't let go 
+These are the days 
+Every day is the sweetest day we'll know 
+
+The sweetest days we'll know
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caribbean-queen--no-more-love-on-the-run--billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/caribbeanqueennomoreloveontherun.html
 name: Caribbean Queen (No More Love On The Run)
 rankings:
 - end_date: '1984-08-17'
@@ -111,4 +112,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
+
+She dashed by me in painted on jeans
+And all the heads turned because she was the queen
+In the blink of an eye I knew her number and her name yeah
+And she said I was the tiger she wanted to tame
+
+I was in search of a good time
+Just running my game
+Love was the furthest
+From my mind
+
+Caribbean Queen
+Now we're sharing the same dream
+And our hearts they beat as one
+No more love on the run
+
+I lose my cool when she steps in the room
+And I get so excited just from her perfume
+Electric eyes that you can't ignore
+And passion burns you like never before
+
+I was in search of a good time
+Just running my game
+Love was the furthest
+Furthest from my mind
+
+Caribbean Queen
+Now we're sharing the same dream
+And our hearts they beat as one
+No more love on the run
+
+Caribbean Queen
+Now we're sharing the same dream
+And our hearts they beat as one
+No more love on the run
+
+Caribbean Queen
+Now we're sharing the same dream
+And our hearts they beat as one
+No more love on the run
+
+She's the queen
+My Caribbean queen...
+
+
 

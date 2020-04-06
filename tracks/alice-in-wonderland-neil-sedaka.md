@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alice-in-wonderland-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/aliceinwonderland.html
 name: Alice In Wonderland
 rankings:
 - end_date: '1963-02-08'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
 ---
+
+Alice, pretty little Alice, pretty little Alice in Wonderland.  
+
+Alice in wonderland, won't you take me by the hand,
+And lead me to your wonderland of love.
+
+I took one look at you, and that was all I had to do,
+Alice, you're the girl I'm dreamin of.  
+
+Tweedle dum, tweedle dee,
+You have made my life a fantasy.
+You don't know what you're doing to me,
+My heart goes pitter patter 
+'cause I'm mad as a hatter for 
+
+Alice, my little girl, there is no other in this whole wide world,
+Take me by the hand, tell me you understand,
+Alice, Alice in wonderland  
+
+Oh Alice, pretty little Alice, pretty little Alice in wonderland.
+
+
 

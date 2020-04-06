@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mercy-mercy-mercy-the-buckinghams
+lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/mercymercymercy.html
 name: Mercy Mercy Mercy
 rankings:
 - end_date: '1967-06-23'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
+
+My baby, she may not a-look
+Like one of those bunnies out of the playboy club
+But she got somethin' much greater than gold
+Crazy 'bout that girl 'cause she got so much soul
+
+I said she got the kind of lovin', kissin' and a-huggin'
+Sure is mellow, glad that I'm her fellow
+And I know that she knocks me off my feet
+(Have mercy on me)
+'Cause she knocks me off my feet
+
+There is no girl in the whole world
+That can love me like you do, yeah
+
+Oh, my baby when she walks by
+All the fellows go, ooh, and I know why
+It's simply 'cause that girl, she looks so fine
+And if she ever leaves me I would lose my mind
+
+She got the kind of lovin', kissin' and a-huggin'
+Sure is mellow, glad that I'm her fellow
+And I know that she knocks me off my feet
+(Have mercy on me)
+'Cause she knocks me off my feet, hey
+
+There is no girl in the whole world
+That can love me like you do
+
+Hey, everybody in the neighborhood
+Will testify that my girl, she looks so good now
+Yeah, she's so fine, she'd give eyesight to the blind
+And if she ever leaves me I would lose my mind
+
+She got the kind of lovin', kissin' and a-huggin'
+Sure is mellow glad that I'm her fellow
+And I know that she knocks me off my feet
+(Have mercy on me)
+'Cause she knocks me off my feet
+
+There is no girl in the whole world
+That can love me like you do
+Baby, yeah, feel yeah, it's alright
+Mercy, mercy, mercy
+
+
 

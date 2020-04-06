@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakdown-dead-ahead-boz-scaggs
+lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/breakdowndeadahead.html
 name: Breakdown Dead Ahead
 rankings:
 - end_date: '1980-04-04'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
 ---
+
+I call ya
+You ain't in
+What's this cold reaction
+Where you been?
+Ooh baby
+Layin' it on the line
+If this is last call 
+And you say that's all you can take
+It's fine
+
+I'm sorry but
+It don't make sense
+You'd be a fool
+If you just run out on first offense
+Ooh baby play it smart
+Before you go south with your big mouth
+Better check your heart
+
+Danger there's a breakdown dead ahead
+Maybe you're in way above your head
+I may burn.. might upset you
+But you know I'd never let you down
+
+I told ya
+No more lying
+No more tears a falling
+Stop your cryin'
+Ooh baby
+I'm your man
+Before you go back to your side track
+Baby understand
+
+Danger there's a breakdown dead ahead
+And just maybe you're in way above your head
+I may burn.. might upset you
+But you know I'd never let you down
+No no no
+No no no no
+No no no no no no no
+
+Danger there's a breakdown dead ahead
+And just maybe you're in way above your head
+I may burn.. might upset you
+But you know I'd never let you down
+No no no
+
+Danger there's a breakdown dead ahead
+And just maybe you're in way above your head
+I may burn.. might upset you
+But you know I'd never let you down down down down
+No no no oh oh oh
+
+
 

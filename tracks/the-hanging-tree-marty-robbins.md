@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hanging-tree-marty-robbins
+lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/thehangingtree.html
 name: The Hanging Tree
 rankings:
 - end_date: '1959-02-08'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
+
+I came to town to search for gold
+And I brought with me a memory
+And I seem to hear the night wind cry,
+"Go hang your dreams on the hangin' tree
+Your dreams of love that could never be
+Hang your faded dreams on the hangin' tree!"
+
+I searched tor gold and I found my gold
+And I found a girl who loved just me
+And I wished that I could love her too
+But I'd left my heart on the hangin' tree
+I'd left my heart with a memory
+And a faded dream on the hangin' tree.
+
+Now there were men who craved my gold
+And meant to take my gold from me
+When a man is gone he needs no gold
+So they carried me to the hangin' tree
+To join my dreams and a memory
+Yes they carried me to the hangin' tree.
+
+To really live you must almost die
+And it happened just that way with me
+They took the gold and set me free
+And I walked away from the hangin' tree
+I walked away from the hangin' tree
+And my own true love, she walked with me!
+
+That's when I knew that the hangin' tree
+Was a tree of life, new life for me
+A tree of hope, new hope for me
+A tree of love, new love tor me
+The hangin' tree, the hangin' tree, the hangin' tree!
+
+
 

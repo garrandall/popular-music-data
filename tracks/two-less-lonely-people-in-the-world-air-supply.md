@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-less-lonely-people-in-the-world-air-supply
+lyrics_url: https://www.azlyrics.com/lyrics/kztandingan/twolesslonelypeopleintheworld.html
 name: Two Less Lonely People In The World
 rankings:
 - end_date: '1982-11-19'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-12'
 ---
+
+I was down, my dreams were wearing thin
+When you're lost, where do you begin?
+My heart always seemed to drift from day to day
+Looking for the love that never came my way
+
+Then you smiled and I reached out to you
+I could tell you were lonely too
+One look and then it all began for you and me
+The moment that we touched I knew that there would be
+
+Two less lonely people in the world
+And it's gonna be fine
+Out of all the people in the world
+I just can't believe you're mine
+In my life where everything was wrong
+Something finally went right
+Now there's two less lonely people
+In the world tonight
+
+Just to think what I might have missed
+Looking back how did I exist
+I dreamed, still I never thought I'd come this far
+But miracles come true, I know 'cause here we are
+
+Two less lonely people in the world
+And it's gonna be fine
+Out of all the people in the world
+I just can't believe you're mine
+In my life where everything was wrong
+Something finally went right
+Now there's two less lonely people
+In the world tonight
+
+Tonight I fell in love with you
+And all the things I never knew
+Seemed to come to me somehow
+'Cause, baby, love is here and now there's
+
+Two less lonely people in the world
+And it's gonna be fine
+Out of all the people in the world
+I just can't believe you're mine
+In my life where everything was wrong
+Something finally went right
+Now there's two less lonely people
+In the world tonight
+
+Two less lonely people in the world
+And it's gonna be fine
+Out of all the people in the world
+I just can't believe you're mine
+Something finally went right
+Now there's two less lonely people
+Two less lonely people
+Two less lonely people
+In the world tonight
+
+Two less lonely people in the world...
+
+
 

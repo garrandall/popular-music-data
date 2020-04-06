@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pay-the-devil--ooo-baby-ooo--the-knack
+lyrics_url: https://www.azlyrics.com/lyrics/knack/paythedevilooobabyooo.html
 name: Pay The Devil (Ooo Baby Ooo)
 rankings:
 - end_date: '1981-11-06'
@@ -27,4 +28,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
 ---
+
+Ooh baby ooh ooh baby ooh
+Got to learn to give the devil his due
+
+You've got it made
+And you made it your way
+Life's looking great
+Now you've found the right game to play
+Came a long way from the valley
+Aimed so high shot so true
+
+Ooh baby ooh ooh baby ooh
+Everybody's got to read the reviews
+Ooh baby ooh even you
+Got to learn to give the devil his due
+
+I'm not alone
+I'm lonely for you
+Won't use the phone
+No i don't want to say it's true
+Still your frame hangs in the gallery
+The paint is dry but the pain's still new
+
+Ah love conquers all
+When after all it was you
+Just you you you you you
+
+
 

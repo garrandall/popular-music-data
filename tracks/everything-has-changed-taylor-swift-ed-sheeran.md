@@ -5,6 +5,7 @@ features:
 - Ed Sheeran
 genres: []
 key: everything-has-changed-taylor-swift-ed-sheeran
+lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/everythinghaschanged.html
 name: Everything Has Changed
 rankings:
 - end_date: '2012-11-16'
@@ -88,4 +89,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
 ---
+
+
+All I knew this morning when I woke
+Is I know something now, know something now I didn't before
+And all I've seen since eighteen hours ago
+Is green eyes and freckles and your smile
+In the back of my mind making me feel like
+
+I just wanna know you better, know you better, know you better now
+I just wanna know you better, know you better, know you better now
+
+
+I just wanna know you better, know you better, know you better now
+I just wanna know you, know you, know you
+
+'Cause all I know is we said, "Hello"
+And your eyes look like coming home
+All I know is a simple name
+Everything has changed
+All I know is you held the door
+You'll be mine and I'll be yours
+All I know since yesterday is everything has changed
+
+
+And all my walls stood tall painted blue
+And I'll take them down, take them down and open up the door for you
+
+
+And all I feel in my stomach is butterflies
+The beautiful kind, making up for lost time
+ Taking flight, making me feel right
+ Taking flight, making me feel right like
+
+
+I just wanna know you better, know you better, know you better now
+I just wanna know you better, know you better, know you better now
+I just wanna know you better, know you better, know you better now
+I just wanna know you, know you, know you
+
+
+'Cause all I know is we said, "Hello"
+And your eyes look like coming home
+All I know is a simple name
+Everything has changed
+All I know is you held the door
+And you'll be mine and I'll be yours
+All I know since yesterday is everything has changed
+
+
+Come back and tell me why
+I'm feeling like I've missed you all this time, oh, oh, oh
+And meet me there tonight
+And let me know that it's not all in my mind
+
+
+I just wanna know you better, know you better, know you better now
+I just wanna know you, know you, know you
+
+
+All I know is we said, "Hello"
+And your eyes look like coming home
+All I know is a simple name
+Everything has changed
+All I know is you held the door
+You'll be mine and I'll be yours
+All I know since yesterday is everything has changed
+
+
+All I know is we said, "Hello"
+So dust off your highest hopes
+All I know is pouring rain and everything has changed
+All I know is a new found grace
+All my days I'll know your face
+All I know since yesterday is everything has changed
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-when-color-me-badd
+lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/iremember.html
 name: Remember When
 rankings:
 - end_date: '1998-07-31'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
 ---
+
+I remember when I was a young boy
+Nothing really ever mattered to me
+I would take each day as it came my way
+You know children live for the moment
+
+I remember the first girl I kissed
+I remember when grandma
+Insisted I came inside
+When she'd say come in for the night
+You know tomorrow will be another day
+
+Do you remember when youth used to be a friend
+Do you remember when comfort was in never understanding
+Comfort was in never understanding
+
+Do you know what I mean?
+
+Do you remember the way that it used to be?
+Full of innocence, so alive, life was carefree
+It was so good then, hangin' out with your best friend
+You float wherever you wanted to
+
+Do you remember your first true love?
+You you ever wonder if she ever
+Thinks of the times when you
+Used to walk home from school
+And say tomorrow will be another day
+
+
+
+Come along to the place we once lived
+Touch the things that made us happy
+Find the child that lives within
+Come along
+Come along
+You know it's alright to go back there
+Touch the things that made us happy
+Look for the days that were so fair
+Come along
+And you know that it goes without sayin'
+There's a child deep inside always playin'
+
+
 

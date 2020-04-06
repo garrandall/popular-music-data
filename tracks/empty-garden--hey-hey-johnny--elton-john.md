@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: empty-garden--hey-hey-johnny--elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/emptygardenheyheyjohnny.html
 name: Empty Garden (Hey Hey Johnny)
 rankings:
 - end_date: '1982-03-26'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+
+What happened here
+As the New York sunset disappeared
+I found an empty garden among the flagstones there
+Who lived here
+He must have been a gardener that cared a lot
+Who weeded out the tears and grew a good crop
+And now it all looks strange
+It's funny how one insect can damage so much grain
+
+And what's it for
+This little empty garden by the brownstone door
+And in the cracks along the sidewalk nothing grows no more
+Who lived here
+He must have been a gardener that cared a lot
+Who weeded out the tears and grew a good crop
+And we are so amazed we're crippled and we're dazed
+A gardener like that one no one can replace
+
+And I've been knocking but no one answers
+And I've been knocking most all the day
+Oh and I've been calling oh hey hey Johnny
+Can't you come out to play
+
+And through their tears
+Some say he farmed his best in younger years
+But he'd have said that roots grow stronger if only he could hear
+Who lived there
+He must have been a gardener that cared a lot
+Who weeded out the tears and grew a good crop
+Now we pray for rain, and with every drop that falls
+We hear, we hear your name
+
+Johnny can't you come out to play in your empty garden
+
+
 

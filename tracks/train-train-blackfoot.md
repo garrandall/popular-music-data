@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: train-train-blackfoot
+lyrics_url: https://www.azlyrics.com/lyrics/blackfoot/traintrain.html
 name: Train Train
 rankings:
 - end_date: '1979-10-26'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
 ---
+
+Oh, here it comes
+
+Well, train, train, take me on out of this town
+Train, train, Lord, take me on out of this town
+Well, that woman I'm in love with, Lord, she's Memphis bound
+
+Well, leavin' here, I'm just a raggedy hobo
+Lord, I'm leaving here, I'm just a raggedy hobo
+Well, that woman I'm in love with, Lord, she's got to go
+
+Well, goodbye pretty mama, get yourself a money man
+Goodbye, pretty mama, Lord, get yourself a money man
+You take that midnight train to Memphis
+Lord, leave if you can
+Oh, take that midnight train to Memphis
+Lord, leave if you can
+Oh, take that train, baby
+
+
 

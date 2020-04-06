@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaway-janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/runaway.html
 name: Runaway
 rankings:
 - end_date: '1995-09-22'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
 ---
+
+I've seen the world, been to many places
+Made lots of friends, many different races
+I've had such fun around the world it's true
+African skies with a Nairobi mood
+I fell asleep in Tuscany and dreamed
+The one thing missing was you
+
+Runaway with me my love,
+Yeah, yeah, yeah, yeah
+Runaway with me my love,
+Yeah, yeah, yeah, yeah
+
+I woke up with an Australian breeze
+And danced the dance with Aborigines
+Oh under the moon glow down in Mexico I dreamed
+One thing was missing that's you
+
+Runaway with me my love,
+Yeah, yeah, yeah, yeah
+Runaway with me my love,
+Yeah, yeah, yeah, yeah
+
+We'll sail the waters of many colours
+We won't need a compass, love will guide our way
+Don't need nobody, as long as we got each other
+No need to hurry, we've got everyday
+I wanna share the world with you, you see
+Spring time in Paris feels so good to me
+Oh this is for me reality
+So please make all my wishes come true
+
+Runaway with me my love,
+Yeah, yeah, yeah, yeah
+
+And I just know we'll have a good time
+And I just know we'll have a good time
+
+
 

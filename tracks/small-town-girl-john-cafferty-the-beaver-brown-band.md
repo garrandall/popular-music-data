@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: small-town-girl-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/strangersinparadise.html
 name: Small Town Girl
 rankings:
 - end_date: '1985-11-15'
@@ -48,4 +49,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+
+Billy said when he was seventeen,
+There ain't nothin left here for me now,
+A small town boy with American dreams
+He was California bound,
+He said "I'm gonna make it,
+Damned if I don't try,
+You know I just won't take it,
+This life won't pass me by",
+
+Billy grew into a blue-eyed handsome man,
+The road it left him hard and lean,
+He lost his heart to a southern girl,
+She made him feel just like James Dean,
+And her name was Rita,
+She said her love was deep,
+Billy bought her promises,
+She could never keep
+
+
+Strangers in paradise,
+Long and lonely nights,
+Never had a dream come true,
+Strangers in paradise,
+Long and lonely nights,
+Searched their whole lives through
+
+Billy rode those highway lines,
+Till they one day brought him back home,
+He took a job,
+And he took a wife,
+And he worked real hard for things of his own,
+
+Said "I'm gonna make it,
+Damned if I don't try,
+You know I just won't take it,
+This life won't pass me by",
+
+
+
+
 

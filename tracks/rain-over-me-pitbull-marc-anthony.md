@@ -5,6 +5,7 @@ features:
 - Marc Anthony
 genres: []
 key: rain-over-me-pitbull-marc-anthony
+lyrics_url: https://www.azlyrics.com/lyrics/pitbull/rainoverme.html
 name: Rain Over Me
 rankings:
 - end_date: '2011-07-08'
@@ -84,4 +85,111 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
 ---
+
+
+Girl my body don't lie (Red One)
+I'm outta my mind
+Let it rain over me (Mr. Worldwide)
+I'm rising so high
+Out of my mind (Marc Anthony)
+So let it rain over me
+
+Ay ay ay
+Ay ay ay
+Let it rain over me
+Ay ay ay
+Ay ay ay
+Let it rain over me
+
+
+A billion's a new million
+Voli's a new vodka
+Forty is the new 30
+Baby you're a rock star
+Dale veterana, que tÃº sabe
+MÃ¡s de la cuenta, no te hagas
+Teach me baby, or better yet,
+Freak me baby, yes, yes
+I'm freaky baby, I'mma make sure that your peach feels peachy baby
+No bullshit broads, I like my women sexy, classy, sassy
+Powerful yes, they love to get a little nasty, ow
+This ain't a game you'll see, you can put the blame on me
+Dale muÃ±equita, abre ahÃ­, and let it rain over me
+
+
+Girl my body don't lie
+I'm outta my mind
+Let it rain over me
+I'm rising so high
+Out of my mind
+So let it rain over me
+
+Ay ay ay
+Ay ay ay
+Let it rain over me
+Ay ay ay
+Ay ay ay
+Let it rain over me
+
+
+A billion's a new million
+Voli's a new vodka
+Latin is the new majority, ya tÃº sabe
+Next step la Casablanca
+No hay carro, nos vamos en balsa
+Mami you know the drill, they won't know what I got 'til they read the will
+I ain't trying, I ain't trying to keep it real
+I'm trying to keep wealthy that's for real
+Pero mira que tÃº 'tas buena, y mira que tÃº 'tas dura
+Baby no me hables mÃ¡s, y tÃ­ramelo mami chula
+No games you'll see, you can put the blame on me
+Dale muÃ±equita, abre ahÃ­, and let it rain over me
+
+
+Girl my body don't lie
+I'm outta my mind
+Let it rain over me
+I'm rising so high
+Out of my mind
+So let it rain over me
+
+Ay ay ay
+Ay ay ay
+Let it rain over me
+Ay ay ay
+Ay ay ay
+Let it rain over me
+
+
+Mr. Worldwide, Marc Anthony, tÃº sabe
+I was playing with her, she was playing with me
+Next thing you know, we were playing with three
+Oh oh oh oh oh oh
+I was playing with her, she was playing with me
+Next thing you know, we were playing with three
+Oh oh oh oh oh oh
+Rain over me
+
+
+Girl my body don't lie
+I'm outta my mind
+Let it rain over me
+I'm rising so high
+Out of my mind
+So let it rain over me (over me)
+
+Ay ay ay
+Ay ay ay
+Let it rain over me (over me)
+Ay ay ay
+Ay ay ay
+Let it rain over me (aa aaa)
+Ay ay ay
+Ay ay ay
+Let it rain over me.
+Ay ay ay
+Ay ay ay
+Let it rain over me.
+
+
 

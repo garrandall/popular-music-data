@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chicken-strut-the-meters
+lyrics_url: https://www.azlyrics.com/lyrics/meters/chickenstrut.html
 name: Chicken Strut
 rankings:
 - end_date: '1970-04-10'
@@ -39,4 +40,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
 ---
+
+Just keep on strut...
+
+Fell on you
+
+Just keep on strut...
+
+
 

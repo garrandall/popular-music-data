@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-evil-child-b-b--king
+lyrics_url: https://www.azlyrics.com/lyrics/bbking/thatevilchild.html
 name: That Evil Child
 rankings:
 - end_date: '1971-04-30'
@@ -15,4 +16,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
 ---
+
+Whenever I try to hold my baby,
+She just stand there for a while
+No matter how I try to please that woman,
+She won't even crack a smile
+Lord, maybe you in heaven can help me,
+'cause this is one evil child
+Oh, I say maybe, maybe somebody can help me,
+Because this is one evil child
+
+When I buy her flowers or candy she just looks at me and growls,
+She say, "You must be guilty or have a guilty conscience buddy",
+Because I'm convicted without a trial
+She just grunts when I call baby, hmm one evil child
+I said, "Lord, maybe you can help me, because she's a strange and evil child"
+
+Still, I'm tryin' to please my woman but she 'bout to drive me wild
+I buy her hundred dollar dresses, people,
+Still she complains about the style
+Won't somebody give me a suggestion?
+Help me with this evil child
+Oh, maybe the Lord in heaven above can help me
+
+
 

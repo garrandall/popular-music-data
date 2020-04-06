@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-down-eddie-kendricks
+lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/boogiedown.html
 name: Boogie Down
 rankings:
 - end_date: '1974-01-11'
@@ -79,4 +80,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
 ---
+
+Boogie, boogie down, baby
+Ooh uh, boogie
+Baby, let's boogie down
+
+I'm bad enough to make another bad lie
+I'm gonna hook you on a natural high
+And I know, I can satisfy, hey
+I wanna love ya, kiss and hug you, baby, tonight
+
+Ooh hoo, tonight
+Boo hoo hoo, boogie down
+
+Hey, hey, boogie, boogie down, baby
+Ooh uh, boogie
+Baby, let's boogie down
+
+Let's get it on, girl, don't hesitate
+Let my love flood your water gate
+Sweet lover, don't make me wait, hey
+I wanna love ya, kiss and hug ya, baby, tonight
+
+Make ya feel all right
+Boo hoo hoo ooh ooh, boogie down
+
+Boogie down, boogie down, baby
+Boogie down, boogie down, baby
+Boogie, boogie down, baby
+Boogie, boogie down, baby
+
+Boogie hmm, have mercy
+Boogie down, baby
+Boogie down, boogie down, baby
+
+Boogie ah, ha
+Boogie down, baby
+Boogie down, boogie down, baby
+
+Go downtown
+Gonna mess around
+Uh huh huh huh
+Boogie down, uh huh
+
+Go downtown
+Gonna mess around
+Ah ha ha ha
+Boogie down
+
+Like a hound, gonna sniff around
+Ah ha ha ha, boogie down
+I found a girl, love you up and down
+Ah ha ha ha, boogie down
+
+Boogie, boogie down, baby
+Boogie down, boogie down, baby
+
+Boogie, hey hey y'all boogie down, baby
+Boogie down, boogie down, baby
+Ooh, have mercy
+
+Boogie ooh, huh, huh, huh, huh
+Boogie down, baby
+Boogie down
+
+
 

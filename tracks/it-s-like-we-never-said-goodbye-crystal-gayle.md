@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-like-we-never-said-goodbye-crystal-gayle
+lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/itslikeweneversaidgoodbye.html
 name: It's Like We Never Said Goodbye
 rankings:
 - end_date: '1980-02-29'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
 ---
+
+I was sure I'd lost my chance for forever
+I never dreamed we'd ever meet again
+Now here we are alone once more together
+Doing all the loving things we used to do back then
+
+Its we like never said goodbye love
+You're just a little shy love
+But you sure remember how to make me smile
+A different bed a different ceiling
+But still that same old feeling
+As I hold you close I almost want to cry
+Cause it feels just like we never said goodbye
+
+Its good to hear you talk about the old times
+Its good to hear your sweet voice once again
+Right now all I want to do is touch you
+And feel the love start happening
+The way it happened then
+
+Its we like never said goodbye love
+We're both a little shy love
+But you sure remember how to make me smile
+A different bed a different ceiling
+But still that same old feeling
+As I hold you close I almost want to cry
+Cause it feels just like we never said goodbye
+
+
 

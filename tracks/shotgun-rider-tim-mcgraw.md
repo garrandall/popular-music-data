@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shotgun-rider-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/shotgunrider373587.html
 name: Shotgun Rider
 rankings:
 - end_date: '2014-10-24'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
 ---
+
+Roll, won't you come roll with me slow, fast, full speed
+Girl wherever sweet time takes us
+Hang, with me down this old road
+Only God knows where we'll go
+Don't matter long as I've got your love
+
+
+I don't ever want to wake up,
+Lookin' into someone else's eyes
+Another voice calling me baby
+On the other end of the phone
+A new girl puttin' on her makeup
+Before dinner on Friday night
+No I don't ever wanna know, Oh Oh
+No other shotgun rider, beside me, singin' to the radio, Whoa Oh, Oh Oh
+
+Slide, slide over nice and close
+Lay your head down on my shoulder
+You can fall asleep I'll let you
+Dream, life ain't nothing but a dream, don't wanna be
+Cruisin' through this dream without you
+
+
+I don't ever want to wake up,
+Lookin' into someone else's eyes
+Another voice calling me baby
+On the other end of the phone
+A new girl puttin' on her makeup
+Before dinner on Friday night
+No I don't ever wanna know, Oh Oh
+No other shotgun rider, beside me, singin' to the radio, Whoa Oh, Oh Oh
+No other shotgun rider, Oh Oh
+
+
+I don't ever want to wake up,
+Lookin' into someone else's eyes
+Another voice calling me baby
+On the other end of the phone
+A new girl puttin' on her makeup
+Before dinner on Friday night
+No I don't ever wanna know, Oh Oh
+No other shotgun rider, beside me, singin' to the radio, Whoa Oh, Oh Oh
+
+No other shotgun rider, Oh Oh
+
+Singin' to the radio, Oh Oh
+
+You're my shotgun rider.
+
+
 

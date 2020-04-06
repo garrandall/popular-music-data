@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poetry-man-phoebe-snow
+lyrics_url: https://www.azlyrics.com/lyrics/phoebesnow/poetryman.html
 name: Poetry Man
 rankings:
 - end_date: '1975-01-10'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
+
+You make me laugh
+'Cause your eyes they light the night
+They look right through me
+You bashful boy
+You're hiding something sweet
+Please give it to me yeah, to me
+
+Talk to me some more
+You don't have to go
+You're the Poetry Man
+You make things all rhyme
+
+You are a genie
+All I ask for is your smile
+Each time I rub the lamp
+When I am with you
+I have a giggling teen-age crush
+Then I'm a sultry vamp
+
+Talk to me some more
+You don't have to go
+You're the Poetry Man
+You make things all right
+
+So once again
+It's time to say so long
+And so recall the cull of life
+You're going home now
+Home's that place somewhere you go each day
+To see your wife
+
+Talk to me some more
+You don't have to go
+You're the Poetry Man
+You make things all rhyme
+
+
 

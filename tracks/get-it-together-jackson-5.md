@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-it-together-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/getittogether.html
 name: Get It Together
 rankings:
 - end_date: '1973-09-07'
@@ -59,4 +60,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
 ---
+
+You better get it together
+Or leave it alone
+If you don't want my lovin'
+I'll be gone
+
+Get up, get up, get up
+Get up off your high horse, girl
+Think what you're doing, doin'
+Get up off your high horse, girl
+Think what you're doin', doin'
+
+I'm spinnin' around on your merry-go-round
+You got me dizzy, dizzy, dizzy, dizzy, dizzy
+
+Get it together
+Or leave it alone
+If you don't want my lovin'
+I'll be gone
+
+Now, now, babe
+
+Get it together
+Or leave it alone
+You better, get it, get it
+If you don't want my lovin'
+I'll be gone
+
+Get up off your high horse, girl
+Think what you're doin', doin'
+Get up off your high horse, girl
+Think what you're doin', doin'
+
+I can't stand all this confusion
+All this shuckin' and jivin'
+You're putting down, down, down
+
+Get it together
+Or leave it alone
+If you don't want my lovin'
+I'll be gone
+Gone, gone, gone, gone
+
+Big girl what you're doing
+Throwin' this heart of mine all away
+Oh, big girl you know I love you
+To keep a love like mine is hard this day
+All ya gotta do, girl
+
+
 

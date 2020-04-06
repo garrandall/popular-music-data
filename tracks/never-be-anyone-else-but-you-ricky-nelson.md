@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-be-anyone-else-but-you-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/neverbeanyoneelsebutyou.html
 name: Never Be Anyone Else But You
 rankings:
 - end_date: '1959-03-01'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
 ---
+
+There'll never be anyone else
+But you for me
+Never ever be
+Just couldn't be
+Anyone else but you
+
+If I could take my pick
+Of all the girls I've ever known
+Then I'd come and pick you
+Out to be my very own
+
+There'll never be anyone else
+But you for me
+Never ever be
+Just couldn't be
+Anyone else but you
+
+A heart that's true and longs for you
+Is all I have to give
+All my love belongs to you
+As long as I may live
+
+There'll never be anyone else
+But you for me
+Never ever be
+Just couldn't be
+Anyone else but you
+
+I never will forget the way you kiss me
+And when we're not together
+I wonder if you've missed me
+
+'Cause I hope and pray
+The day will come
+When you belong to me
+Then I'm gonna prove to you
+How true my love can be
+
+There'll never be anyone else
+But you for me
+Never ever be
+Just couldn't be
+Anyone else but you
+
+Mm, mm, mm, mm
+Mm, mm, mm
+Mm, mm, mm
+
+
 

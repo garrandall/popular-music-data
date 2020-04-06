@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-body-is-a-wonderland-john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/boyceavenue/yourbodyisawonderland.html
 name: Your Body Is A Wonderland
 rankings:
 - end_date: '2002-11-08'
@@ -123,4 +124,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
 ---
+
+We got the afternoon
+You got this room for two
+One thing I've left to do
+Discover me
+Discovering you
+
+One mile to every inch of
+Your skin like porcelain
+One pair of candy lips and
+Your bubblegum tongue
+
+And if you want love
+We'll make it
+Swim in a deep sea
+Of blankets
+Take all your big plans
+And break 'em
+This is bound to be awhile
+
+Your body is a wonderland
+Your body is a wonder (I'll use my hands)
+Your body is a wonderland
+
+Something 'bout the way the hair falls in your face
+I love the shape you take when crawling towards the pillowcase
+You tell me where to go and
+Though I might leave to find it
+I'll never let your head hit the bed
+Without my hand behind it
+
+You want love?
+We'll make it
+Swim in a deep sea
+Of blankets
+Take all your big plans
+And break 'em
+This is bound to be awhile
+
+Your body is a wonderland
+Your body is a wonder (I'll use my hands)
+Your body is a wonderland
+
+Damn baby
+You frustrate me
+I know you're mine all mine all mine
+But you look so good it hurts sometimes
+
+Your body is a wonderland
+Your body is a wonder(I'll use my hands)
+Your body is a wonderland
+Your body is a wonderland
+
+
 

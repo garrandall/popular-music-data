@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-impossible-perry-como
+lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/itsimpossible.html
 name: It's Impossible
 rankings:
 - end_date: '1970-11-20'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
+
+It's impossible, tell the sun to leave the sky
+It's just impossible
+It's impossible, ask a baby not to cry
+It's just impossible
+
+Can I hold you closer to me
+And not feel you going through me
+Split the second that I never think of you
+Oh, how impossible
+
+Can the ocean keep from rushing to the shore
+It's just impossible
+If I had you, could I ever want for more
+It's just impossible
+
+And tomorrow
+Should you ask me for the world, somehow I'd get it
+I would sell my very soul and not regret it
+For to live without your love
+It's just impossible
+
+Can the ocean keep from rushing to the shore
+It's just impossible
+If I had you, could I ever want for more
+It's just impossible
+
+And tomorrow
+Should you ask me for the world, somehow I'd get it
+I would sell my very soul and not regret it
+For to live without your love
+It's just impossible
+Impossible, mmm
+Impossible
+
+
 

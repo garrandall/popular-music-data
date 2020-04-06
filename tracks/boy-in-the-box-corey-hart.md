@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boy-in-the-box-corey-hart
+lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/boyinthebox.html
 name: Boy In The Box
 rankings:
 - end_date: '1985-09-20'
@@ -55,4 +56,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
 ---
+
+When I go out
+I can see the world from inside
+Without a doubt
+I can shake my head and scream and shout
+(Because) I can't take it no more
+I can't stand it no more
+
+Who's laughin' at me?
+
+Through the night
+Was the giant sleeping?
+The endless flight
+O the mystery's for keeping
+(Because) I can't take it no more
+I can't stand it no more
+
+Who's staring at me
+I gotta say -
+
+
+Pull up your sox
+You're the boy in the box
+What did the rebel say?
+When the wolf cried "fox"
+To the boy in the box
+Will you come out to play
+
+One, two 
+You can't get enough
+Three, four
+Open up the door
+Six, five
+Alive is the boy in the box
+
+(I gotta say)
+
+
+
+And no-one talks
+To the boy in the box
+When the world cried "fox"
+to the boy in the box
+
+One, two
+I can't get enough
+Three, four
+Open up the door
+Six, five
+Alive is the boy in the box
+
+Like a boy in the box
+The boy in the box
+Like a boy in the box
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brokenhearted-brandy
+lyrics_url: https://www.azlyrics.com/lyrics/brandy/brokenhearted.html
 name: Brokenhearted
 rankings:
 - end_date: '1995-09-15'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
 ---
+
+Da da 
+Da da da da 
+Da da da da 
+Da da da da, da da 
+
+I'm young but I'm wise 
+Enough to know that you 
+Don't fall in love over night 
+That's why I thought if I 
+Took my time that everything 
+In love would be right 
+But as soon as I closed my eyes 
+I was sayin' to love Goodbye
+
+
+But I guess I'm 
+Lonely brokenhearted 
+Life's not over 
+I can start again 
+While I'm lonely brokenhearted 
+It's a hurting thing to get over
+
+No more empty conversation 
+Next time I will be totally sure 
+Don't want the pain of falling 
+In and out of love 
+It's more than my poor heart should endure 
+So I listen to all the advice 
+And remember each time I cry
+
+
+
+While I'm lonely brokenhearted 
+Life's not over 
+I can start again 
+While I'm lonely brokenhearted 
+It's a hurting thing to get over 
+Da Da Da 
+Oh Ya 
+Da Da Da Da Da 
+Wow Ya 
+A Da, Oohh
+
+I listen to all the advice 
+And remember each time I cry
+
+Only brokenhearted 
+Life's not over 
+I can start again 
+While I'm lonely brokenhearted 
+It's a hurting thing to get over
+
+Lonely brokenhearted 
+Life's not over 
+I can start again 
+While I'm lonely brokenhearted 
+It's a hurting thing to get over 
+
+
 

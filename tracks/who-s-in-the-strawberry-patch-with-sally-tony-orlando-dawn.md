@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: who-s-in-the-strawberry-patch-with-sally-tony-orlando-dawn
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/whosinthestrawberrypatchwithsally.html
 name: Who's In The Strawberry Patch With Sally
 rankings:
 - end_date: '1973-11-16'
@@ -56,4 +57,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
 ---
+
+One day happy, one day sad
+Feeling good, then feeling bad
+In anger words are spoken
+Then haste a heart is broken
+
+Who's in the strawberry patch with Sally
+Now that she's not picking them with me?
+Oh no, I don't care what they're doing there
+'Neath the shade of the old apple tree
+
+Hey, I bet they're laughing and talking love talk
+Just like the way we used to do
+Ah, who's in the strawberry patch with Sally
+Whispering 'I love you'?
+
+I can't take it, I just can't take it
+It's driving me mad
+Sally was the best love-maker
+That I ever had
+Who's in the strawberry patch with Sally?
+Who's making love to her tonight?
+
+I can't take it, I just can't take it
+It's driving me mad
+Sally was the best love-maker
+That I ever had
+Who's in the strawberry patch with Sally
+While the Wabash moon is shining bright?
+
+Had I been true to her
+I'd be there now
+In the strawberry patch with Sally tonight, oh yeah
+In the strawberry patch with my Sally tonight
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-the-long-way-home-supertramp
+lyrics_url: https://www.azlyrics.com/lyrics/supertramp/takethelongwayhome.html
 name: Take The Long Way Home
 rankings:
 - end_date: '1979-10-19'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
 ---
+
+So you think you're a Romeo
+playing a part in a picture-show
+Take the long way home
+Take the long way home
+
+Cos you're the joke of the neighborhood
+Why should you care if you're feeling good
+Take the long way home
+Take the long way home
+
+But there are times that you feel you're part of the scenery
+all the greenery is comin' down, boy
+And then your wife seems to think you're part of the
+furniture oh, it's peculiar, she used to be so nice.
+
+When lonely days turn to lonely nights
+you take a trip to the city lights
+And take the long way home
+Take the long way home
+
+You never see what you want to see
+Forever playing to the gallery
+You take the long way home
+Take the long way home
+
+And when you're up on the stage, it's so unbelievable,
+unforgettable, how they adore you,
+But then your wife seems to think you're losing your sanity,
+oh, calamity, is there no way out?
+
+Does it feel that you life's become a catastrophe?
+Oh, it has to be for you to grow, boy.
+When you look through the years and see what you could
+have been oh, what might have been,
+if you'd had more time.
+
+So, when the day comes to settle down,
+Who's to blame if you're not around?
+You took the long way home
+You took the long way home...........
+
+
 

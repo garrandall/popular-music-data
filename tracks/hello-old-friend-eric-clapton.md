@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-old-friend-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/hellooldfriend108754.html
 name: Hello Old Friend
 rankings:
 - end_date: '1976-10-22'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
 ---
+
+As I am strolling down the garden path,
+I saw a flower glowing in the dark.
+It looked so pretty and it was unique;
+I had to bend down just to have a peek.
+
+
+Hello old friend,
+It's really good to see you once again.
+Hello old friend,
+It's really good to see you once again.
+
+I saw you walking underneath the stars;
+I couldn't stop 'cause I was in a car.
+I'm sure the distance wouldn't be too far
+If I got out and walked to where you are.
+
+
+
+An old man passed me on the street today;
+I thought I knew him but I couldn't say.
+I stopped to think if I could place his frame.
+When he tipped his hat I knew his name.
+
+
+
+
 

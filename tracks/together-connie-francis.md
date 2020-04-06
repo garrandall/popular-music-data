@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/together.html
 name: Together
 rankings:
 - end_date: '1961-07-02'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
 ---
+
+We strolled the lane together, laughed at the rain together
+Sang love's refrain together and we'd both pretend it would never end
+But one day we cried together, cast love aside together
+
+You're gone from me but in my memory
+We always will be together
+
+Oh darlin', the memory of all the happy moments
+We shared together will always remain in my heart
+The picnics at the park, the boat rides on the lake
+
+The way we danced all night, the warmth of your kiss
+The way you held me tight are all part of a tender love
+I'll never, never forget
+
+You're gone from me but in my memory
+Darlin', wherever you are
+We'll always be together
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-gnarls-barkley
+lyrics_url: https://www.azlyrics.com/lyrics/gnarlsbarkley/crazy.html
 name: Crazy
 rankings:
 - end_date: '2006-05-26'
@@ -123,4 +124,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
 ---
+
+I remember when, I remember, I remember when I lost my mind
+There was something so pleasant about that place.
+Even your emotions had an echo
+In so much space
+
+And when you're out there
+Without care,
+Yeah, I was out of touch
+But it wasn't because I didn't know enough
+I just knew too much
+
+Does that make me crazy?
+Does that make me crazy?
+Does that make me crazy?
+Possibly 
+probably 
+
+And I hope that you are having the time of your life
+But think twice, that's my only advice
+
+Come on now, who do you, who do you, who do you, who do you think you are,
+Ha ha ha bless your soul
+You really think you're in control
+
+Well, I think you're crazy
+I think you're crazy
+I think you're crazy
+Just like me
+
+My heroes had the heart to lose their lives out on a limb
+And all I remember is thinking, I want to be like them
+Ever since I was little, ever since I was little it looked like fun
+And it's no coincidence I've come
+And I can die when I'm done
+
+Maybe I'm crazy
+Maybe you're crazy
+Maybe we're crazy
+Probably
+
+Uh, uh
+
+
 

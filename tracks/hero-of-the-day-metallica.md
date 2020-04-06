@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hero-of-the-day-metallica
+lyrics_url: https://www.azlyrics.com/lyrics/metallica/herooftheday.html
 name: Hero Of The Day
 rankings:
 - end_date: '1996-11-15'
@@ -79,4 +80,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
 ---
+
+Mama, they try and break me
+
+The window burns to light the way back home
+A light that warms no matter where theyâve gone
+Theyâre off to find the hero of the day
+But what if they should fall by someoneâs wicked way?
+
+Still the window burns
+Time so slowly turns
+And someone there is sighing
+Keepers of the flames
+Do you feel your name?
+Did you hear your babies crying?
+
+Mama, they try and break me
+Still they try and break me
+
+Excuse me while I tend to how I feel
+These things return to me that still seem real
+Now, deservingly, this easy chair
+But the rocking stopped by wheels of despair
+
+Donât want your aid
+But the fist I make
+For years canât hold or feel
+No, Iâm not all me
+So please excuse me while I tend to how I feel
+
+But now the dreams and waking screams
+That ever last the night
+So build the wall, behind it crawl
+And hide until itâs light
+So can you hear your babies crying now?
+
+Still the window burns
+Time so slowly turns
+And someone there is sighing
+Keepers of the flames
+Did you feel your names?
+Did you hear your babies crying?
+
+But now the dreams and waking screams
+That ever last the night
+So build a wall, behind it crawl
+And hide until itâs light
+So canât you hear your babies crying now?
+
+Mama, they try and break me
+Mama, they try and break me
+Mama they try
+Mama they try
+
+
 

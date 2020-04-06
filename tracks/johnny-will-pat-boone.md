@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-will-pat-boone
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/therealthing.html
 name: Johnny Will
 rankings:
 - end_date: '1961-11-19'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
 ---
+
+I was on a bus comin' back to us
+From Atlanta in '53
+And I picked up a Rhythm & Blues magazine
+Layin' underneath my seat
+And I found out the stuff they'd been playin' us
+Wasn't made from grits and bone
+And it would take more than the Crew Cuts
+And Pat Boone to take me home
+
+I want the real thing
+Give me the real thing
+Make it loud I'll make you proud
+Or the songs they'd sing
+I don't want you under my roof with your 86 proof
+Watered down ''til it tastes like tea
+You're gonna pull my string
+Make it the real thing
+
+I remember old Elvis when he forgot
+To remember to forget
+And when young Johnny Cash hadn't seen this side of
+Big River yet
+And old Luther and Lewis and Perkins was pickin
+And playin' them songs for me
+
+I want the real thing
+Give me the real thing
+Make it loud I'll make you proud
+Or the songs they'd sing
+I don't want you under my roof with your 86 proof
+Watered down 'til it tastes like tea
+You're gonna pull my string
+Make it the real thing
+
+
 

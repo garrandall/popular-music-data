@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tough-world-donnie-iris
+lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/toughworld.html
 name: Tough World
 rankings:
 - end_date: '1982-10-29'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
 ---
+
+Baby whatcha gonna do
+Go ahead and make your move
+First you say ya love me
+Say you'll never leave me
+Now you say that we are through
+
+It's a tough world
+Ain't it a rough world
+
+Without love it's true
+I don't know what I would do
+So if you're gonna leave me
+Go ahead and leave me
+'Cause I'm gonna find somebody new
+
+It's a tough world
+Ain't it a rough world
+It's a tough world rough world stab it in the back world
+Tough world
+It's a hard world cold world hit you where it hurts world
+Rough world... Tough world
+It's a tough life rough life try to make a buck life
+Tough life
+Get a job hotshot make it to the top
+Rough life... tough life
+
+I'm gonna hold my chin up high
+I'm gonna walk right out the door
+And I'm gonna make it
+Yeah I'm gonna make it
+'Cause I don't need you anymore
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: driver-s-seat-sniff--n--the-tears
+lyrics_url: https://www.azlyrics.com/lyrics/sniffnthetears/driversseat.html
 name: Driver's Seat
 rankings:
 - end_date: '1979-07-27'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+
+Doing all right
+A little driving on a Saturday night
+And come what may
+Gonna dance the day away
+
+Jenny was sweet
+She always smiled for the people she'd meet
+On trouble and strife
+She had another way of looking at life
+
+The news is blue (the news is blue)
+It has its own way to get to you (ooh)
+What can I do? (What can I do?)
+I'll never remember my time with you
+
+Pick up your feet
+Got to move to the trick of the beat
+There is no elite
+Just take your place in the driver's seat
+
+Driver's seat, ooh
+Driver's seat, yeah
+
+We're doing all right (ooh)
+A little driving on a Saturday night (yeah)
+And come what may (ooh)
+Gonna dance the day away (yeah)
+
+Driver's seat, ooh
+Driver's seat, yeah
+
+Jenny was sweet (ooh)
+There is no elite (yeah)
+Pick up your feet (ooh)
+Pick up, pick up (yeah)
+Pick up your feet (ooh)
+Gonna dance the day away (yeah)
+
+Driver's seat, ooh
+Driver's seat, yeah
+Driver's seat, ooh
+Driver's seat, yeah
+
+Yeah
+Driver's seat
+
+
 

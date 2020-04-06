@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-i-can-say-leo-sayer
+lyrics_url: https://www.azlyrics.com/lyrics/leosayer/morethanicansay.html
 name: More Than I Can Say
 rankings:
 - end_date: '1980-10-03'
@@ -99,4 +100,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
 ---
+
+Whoa, whoa
+Yeah, yeah
+I love you more than I can say
+I'll love you twice as much tomorrow
+Whoa-oh
+Love you more than I can say
+
+Whoa, whoa
+Yeah, yeah
+I miss you ev'ry single day
+Why must my life be filled with sorrow
+Ooooh, oh
+I love you more than I can say
+
+Ah, don't you know I need you so
+Oh, tell me please
+I gotta know
+Do you mean to make me cry
+Am I just another guy
+
+Whoa, whoa
+Yeah, yeah
+I miss you more than I can say
+Why must my life be filled with sorrow
+Whoa-oh
+I'll love you more than I can say
+
+
+
+Ah, don't you know I need you so
+So tell me please
+I gotta know
+Do you mean to make me cry
+Am I just another guy
+
+Whoa, whoa
+Yeah, yeah
+I love you more than I can say
+I'll love you twice as much tomorrow
+Whoa-oh
+Love you more than I can say
+I love you more than I can say
+I love you more than I can say
+
+Oh-oh, ooooooh
+(More than I can say)
+I love twice as much tomorrow
+(More than I can say)
+I love twice as much tomorrow
+(More than I can say)
+I love you more than I can say
+(More than I can say)
+I love you more than words can say
+
+
 

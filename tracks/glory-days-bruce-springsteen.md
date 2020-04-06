@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: glory-days-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/glorydays.html
 name: Glory Days
 rankings:
 - end_date: '1985-06-07'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+
+I had a friend was a big baseball player
+Back in high school
+He could throw that speedball by you
+Make you look like a fool boy
+Saw him the other night at this roadside bar
+I was walking in, he was walking out
+We went back inside sat down had a few drinks
+But all he kept talking about was
+
+Glory days well they'll pass you by
+Glory days in the wink of a young girl's eye
+Glory days, glory days
+
+Well there's a girl that lives up the block
+Back in school she could turn all the boys' heads
+Sometimes on a Friday I'll stop by
+And have a few drinks after she put her kids to bed
+Her and her husband Bobby well they split up
+I guess it's two years gone by now
+We just sit around talking about the old times
+She says when she feels like crying
+She starts laughing thinking about
+
+Glory days well they'll pass you by
+Glory days in the wink of a young girl's eye
+Glory days, glory days
+
+Now I think I'm going down to the well tonight
+And I'm going to drink till I get my fill
+And I hope when I get old I don't sit around thinking about it
+But I probably will
+Yeah, just sitting back trying to recapture
+A little of the glory of, well time slips away
+And leaves you with nothing mister but
+Boring stories of
+
+Glory days well they'll pass you by
+Glory days in the wink of a young girl's eye
+Glory days, glory days
+
+Well they'll pass you by
+Glory days in the wink of a young girl's eye
+Glory days, glory days
+
+
 

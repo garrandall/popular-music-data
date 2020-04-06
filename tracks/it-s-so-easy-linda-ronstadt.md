@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-so-easy-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/itssoeasy.html
 name: It's So Easy
 rankings:
 - end_date: '1977-10-14'
@@ -79,4 +80,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
 ---
+
+It's so easy to fall in love
+It's so easy to fall in love
+
+People tell me love's for fools
+Here I go, breaking all the rules
+It seems so easy
+Yeah, so doggone easy
+Oh, it seems so easy
+Yeah, where you're concerned
+My heart can learn
+Oh-oh-oh
+
+It's so easy to fall in love
+It's so easy to fall in love
+
+Look into your heart and see
+What your love book has set aside for me
+
+It seems so easy
+Yeah, so doggone easy
+Oh, it seems so easy
+Yeah, where you're concerned
+My heart can learn
+Oh-oh-oh
+
+It's so easy to fall in love
+It's so easy to fall in love
+
+It seems so easy
+Oh, so doggone easy
+Yeah, it seems so easy
+Oh, where you're concerned
+My heart can learn
+
+It's so easy to fall in love
+It's so easy to fall in love
+It's so easy to fall in love
+It's so easy to fall in love
+It's so easy to fall in love (Wa-uh-oh)
+It's so easy to fall in love
+
+
 

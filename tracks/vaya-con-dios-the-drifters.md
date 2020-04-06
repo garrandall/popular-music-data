@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vaya-con-dios-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/vayacondiosmaygodbewithyou.html
 name: Vaya Con Dios
 rankings:
 - end_date: '1964-02-07'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
 ---
+
+Vaya con dios, my darlin'
+Vaya con dios, vaya con dios, my love
+
+Now the hacienda is so dark, the town is sleeping
+Now the time has come to part, the time for weeping
+(Vaya con dios, my darlin', vaya con dios, vaya con dios, my love)
+
+Now the village mission bell's softly ringing
+(Bung, bung, bung)
+And if you listen with your heart, you'll hear them singing
+(Bung, bung, bung)
+Singin'
+(Vaya con dios, my darlin', vaya con dios, vaya con dios, my love)
+
+Wherever you may be, I'll be beside you, whoa, yes I will
+Although you're many million dreams away
+Each night I'll say a prayer, a prayer to guide you, oh, yes I will
+To hasten every lonely hour of every long lonely day
+
+Well, now the dawn is breaking through a gray tomorrow
+But the memories that we share are still there to borrow, oh, oh
+(Vaya con dios, my darlin')
+Whoa
+(Vaya con dios, vaya con dios, my love)
+Whoa, whoa, whoa
+(Vaya con dios, my darlin')
+
+Whoa, vaya con dios, vaya con dios, my love
+Whoa, vaya con dios, vaya con dios, my love
+Whoa, vaya con dios, vaya con dios, my love
+
+
 

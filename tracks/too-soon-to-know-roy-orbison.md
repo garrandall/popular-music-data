@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-soon-to-know-roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/toosoontoknow.html
 name: Too Soon To Know
 rankings:
 - end_date: '1966-08-12'
@@ -27,4 +28,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+
+It's too soon to know if I can forget her 
+My heart's been broken in too many pieces 
+And It's too soon to know 
+
+Time passes slow will I ever know 
+If I can forget her  and not let it show 
+But it's too soon to know 
+
+News travels fast when a love affair ends 
+People keep asking what happened to them 
+
+But it's too soon to know it I can forget her 
+My heart's been broken in too many pieces 
+And It's too soon to know 
+My heart's been broken in too many pieces 
+And It's too soon to know
+
+
 

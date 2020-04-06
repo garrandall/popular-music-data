@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-ride-cowboy-garth-brooks
+lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/goodridecowboy.html
 name: Good Ride Cowboy
 rankings:
 - end_date: '2005-10-28'
@@ -63,4 +64,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
 ---
+
+From the hills to Kaycee, Wyoming
+Where life's wooly and wild
+Came an Air Force brat
+In a cowboy hat
+And that Copenhagen smile
+And from bucking broncs
+To honky tonks
+He always sang a cowboy's song
+We were much too young
+Having too much fun
+As we all sang along
+
+(And we sang) Life's a highway
+There's only one way
+You're gonna get through it
+When she starts to twist
+Be more like Chris
+Pull your hat down tight
+And just LeDoux it
+When that whistle blows
+And that crowd explodes
+And them pickup men are at your side
+They tell you good ride cowboy, good ride
+
+From gold buckles to gold records
+Well once again he was spinning 'round
+Took the whole world on
+And he turned us on
+To that Western Underground
+And from "Bareback Jack"
+To "This Cowboy's Hat"
+The songs were stronger than his pain
+He would not slow down
+From town to town
+Like children running through the rain
+
+(And we sang)
+Life's a highway
+There's only one way
+You're gonna get through it
+When she starts to twist
+Be more like Chris
+Pull your hat down tight
+And just LeDoux it
+When that whistle blows
+And that crowd explodes
+And them pickup men are at your side
+They tell you good ride cowboy, good ride
+
+(And we sang)
+Life's a highway
+There's only one way
+You're gonna get through it
+When she starts to twist
+Be more like Chris
+Pull your hat down tight
+And just LeDoux it
+When that whistle blows
+And that crowd explodes
+And them pickup men are at your side
+They tell you good ride cowboy, good ride
+
+I bet he crossed that river Jordan
+With St. Peter on the other side
+Singing good ride cowboy, good ride
+Good ride cowboy, good ride
+
+
 

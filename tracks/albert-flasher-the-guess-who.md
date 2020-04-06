@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: albert-flasher-the-guess-who
+lyrics_url: https://www.azlyrics.com/lyrics/guesswho/albertflasher.html
 name: Albert Flasher
 rankings:
 - end_date: '1971-04-23'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
 ---
+
+I was a workshop owner in the gulch for the people
+And I offered myself to the world
+I was a workshop owner
+I was a workshop owner
+
+I was a diesel fixer, fixed a diesel
+Diesel fixed me, what a weasel
+And baby was a workshop owner
+Baby was a workshop owner
+
+Baby and me were ripe for the pickin'
+Well, that was the day we ran into Albert Flasher
+
+It was a cold, snowy, rainy afternoon
+And we were sittin' there in high school, my school
+And Michael was a moonbeam maker
+Michael was a moonbeam maker
+
+I was a diesel fixer, fixed a diesel
+Diesel fixed me, what a weasel, oh no
+Baby was a workshop owner
+Baby was a workshop owner
+
+Baby and me were ripe for the pickin'
+Well, that was the day we ran into Albert Flasher, ah!
+
+I was a workshop owner in the gulch for the people
+And I offered myself to the world
+I was a workshop owner
+I was a workshop owner
+I was a workshop owner
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jack-and-jill-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/jackandjill.html
 name: Jack And Jill
 rankings:
 - end_date: '1969-07-25'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+
+Hey Jack you better get right
+Or Jill won't be impressed
+Hey Jill you better get right
+'Cause Jack expects the best
+
+The temperature is risin' and exitement's in the air
+Girls buy new bikinis and beauticians dye their hair
+Health clubs are overcrowded with young men
+Concerned and unhappy with conditions that they're in
+
+So hey Jack you better get right
+Or Jill won't be impressed
+Hey Jill you better get right
+'Cause Jack expects the best
+
+Sports cars, hot rods, Cadillacs and Jeeps
+Pretty girls sittin' on the beach admiring men's physiques
+Bands of motorcyclists are riding through the parks
+Diggin' girls in mini skirts, and try'n to win their hearts
+
+So hey Jack you better get right
+Or Jill won't be impressed
+Hey Jill you better get right
+'Cause Jack expects the best
+
+Summer nights and city lights create an atmosphere
+Girls and boys begin to dance to the music that they hear
+Jack you better look your best 'cause competition's tough
+Jill you better wear a mini skirt that's short enough
+
+So hey Jack you better get right
+Or Jill won't be impressed
+Hey Jill you better get right
+'Cause Jack expects the best
+
+Hey Jack you better get right
+Or Jill won't be impressed
+Hey Jill you better get right
+Cause Jack expects the best
+
+
+
 

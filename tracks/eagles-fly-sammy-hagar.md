@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eagles-fly-sammy-hagar
+lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/eaglesfly.html
 name: Eagles Fly
 rankings:
 - end_date: '1987-10-30'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
 ---
+
+Sunday morning, 9 a.m.
+I saw fire in the sky
+I felt my heart pound in my chest
+I heard an eagle cry
+
+Now I'm alive, I can breathe the air
+Feel the wind, smell the earth in the air
+I watch an eagle rise above the trees
+Project myself into what he sees
+
+Hey
+
+Take me away
+Come on and fly me away
+Take me up so high 
+Where eagles fly 
+
+I often dream I sail through the sky
+I've always wished I could fly
+The simple life of a bird on the wing
+Oh Lord, I could sing
+
+Hey, take me away 
+Come on, fly me away 
+Pick me up so high 
+Where eagles fly, oh yeah
+
+Oh, yeah
+
+I'm alive, I breathe the air
+Wash the earth from my face
+I catch a glimpse of another dream
+I turn, I look, but there's no trace
+
+Take me away 
+Come on, fly me away 
+I wanna fly away 
+Pick me up so high 
+Where eagles fly 
+Oh yeah
+
+Eagles fly, oh, take me away 
+Eagles fly, oh, take me away 
+Come on, let's fly away where eagles fly 
+I wanna fly away, ooh, where eagles fly, yeah
+
+
 

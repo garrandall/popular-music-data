@@ -5,6 +5,7 @@ features:
 - Ellie Goulding
 genres: []
 key: outside-calvin-harris-ellie-goulding
+lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/outside.html
 name: Outside
 rankings:
 - end_date: '2014-11-14'
@@ -88,4 +89,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
 ---
+
+Look at what you've done
+Stand still, falling away from me
+When it takes so long
+Fire's out, what do you want to be?
+
+Now I'm holding on
+Myself was never enough for me
+Gotta be so strong
+There's a power in what you do
+Now every other day I'll be watching you
+
+I'll show you what it feels like
+Now I'm on the outside
+We did everything right
+Now I'm on the outside
+I'll show you what it feels like
+Now I'm on the outside
+We did everything right
+Now I'm on the outside
+
+So, you give me no reason
+For me to stay close to you
+Tell me what lovers do
+How are we still breathing?
+It's never for us to choose
+I'll be the strength in you
+
+Now I'm holding on (I'm holding on)
+Myself was never enough for me
+Gotta be so strong
+There's a power in what you do
+Now every other day I'll be watching you
+
+I'll show you what it feels like
+Now I'm on the outside
+We did everything right
+Now I'm on the outside
+I'll show you what it feels like
+Now I'm on the outside
+We did everything right
+Now I'm on the outside
+
+I'll show you what it feels like
+Now I'm on the outside
+I'll show you what it feels like
+
+I'll show you what it feels like
+Now I'm on the outside
+We did everything right
+Now I'm on the outside
+
+
 

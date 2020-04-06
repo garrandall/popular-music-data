@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blow-away-george-harrison
+lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/blowaway.html
 name: Blow Away
 rankings:
 - end_date: '1979-03-09'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
 ---
+
+Day turned black, sky ripped apart
+Rained for a year 'til it dampened my heart
+Cracks and leaks
+The floorboards caught rot
+About to go down
+I had almost forgot.
+
+All I got to do is to love you
+All I got to be is, be happy
+All it's got to take is some warmth to make it
+Blow Away, Blow Away, Blow Away.
+
+Sky cleared up, day turned to bright
+Closing both eyes now the head filled with light
+Hard to remember what a state I was in
+Instant amnesia
+Yang to the Yin.
+
+All I got to do is to love you
+All I got to be is, be happy
+All it's got to take is some warmth to make it
+Blow Away, Blow Away, Blow Away.
+
+Wind blew in, cloud was dispersed
+Rainbows appearing, the pressures were burst
+Breezes a-singing, now feeling good
+The moment had passed
+Like I knew that it should.
+
+All I got to do is to love you
+All I got to be is, be happy
+All it's got to take is some warmth to make it
+Blow Away, Blow Away, Blow Away.
+
+
 

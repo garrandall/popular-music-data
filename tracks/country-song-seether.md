@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: country-song-seether
+lyrics_url: https://www.azlyrics.com/lyrics/seether/countrysong.html
 name: Country Song
 rankings:
 - end_date: '2011-04-01'
@@ -79,4 +80,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
 ---
+
+Well I can't stand to look at you now
+This revelation's out of my hands
+Still I can't bear the thought of you now
+This complication's leaving me scared
+
+Stay when you think you want me
+Pray when you need advice
+Hey keep your sickness off me trying to get through
+Blame all your weakness on me
+Shame that I'm so contrite
+Hey keep your fingers off me, why can't I get through?
+
+You think you have the best of intentions
+I cannot shake the taste of blood in my mouth
+
+
+(Hey) I keep on thinking that it's
+(Hey) all done and all over now (whoa)
+You keep on thinking you can save me, save me
+(Hey) My ship is sinking but it's
+(Hey) all good and I can go down (whoa)
+You've got me thinking that the party's all over
+
+Well I can't stand to be with myself
+This liberation's seemingly rare
+And I can't stand the taste of your mouth
+This sublimation's out of my hands
+
+You stay 'cause you think you want me
+Pray when you need advice
+Hey keep your sickness off me (I'm trying to get through)
+Shame you can't take this from me
+Bane on the empty mind
+Hey keep your fingers off me, why can't I get through?
+
+
+(Hey) I keep on thinking that it's
+(Hey) all done and all over now (whoa)
+You keep on thinking you can save me, save me
+(Hey) My ship is sinking but it's
+(Hey) all good and I can go down (whoa)
+You've got me thinking that the party's all over
+
+Lay down
+Just stay down
+Lay down because I am trying to get through
+
+
+Say what you want but you're not gonna win this time
+Take what you want, but just leave me alive 
+
+
+(Hey) I keep on thinking that it's
+(Hey) all done and all over now (whoa)
+You keep on thinking you can save me, save me
+(Hey) My ship is sinking but it's
+(Hey) all good and I can go down (whoa)
+Still you believe that we can start it all over
+
+Lay down
+Just stay down
+Lay down because the party's all over
+
+Lay down
+Just stay down
+Lay down because I am trying to get through
+
+
 

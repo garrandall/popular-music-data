@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-day-for-you-basia
+lyrics_url: https://www.azlyrics.com/lyrics/basia/newdayforyou.html
 name: New Day For You
 rankings:
 - end_date: '1988-12-16'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
 ---
+
+Hello again it's me
+
+Your shoulder's where I sit
+The half, nobody sees,of a silent partnership
+I am here your help at hand
+
+I'm never far away
+A clear view from where I stand
+I'll be there if you need me
+
+I am your helping hand
+My words you've heard them all before
+It's only for the sake of love
+
+It's gonna be a new day for you
+A new day for you
+The stars have played their part
+The past is gone and done
+Have more faith in love
+The best is yet to come
+
+So what is this I hear?
+
+You deserve a break
+
+Take time to think it out
+Don't make a new mistake
+I am here your help at hand
+
+It's gonna be a new day for you
+A new day for you, new day for you, new day for you
+The stars have played their part
+The past is gone and done
+Have more faith in love
+The best is yet to come
+
+My words you've heard them all before
+It's only for the sake of love
+
+The stars have played their part
+The past is gone and done
+Have more faith in love
+The best is yet to come
+
+It's gonna be a new day for you
+A new day for you, new day for you, new day for you
+It's gonna be a new day for you
+A new day for you, new day for you, new day for you
+
+Hello again it's me
+
+
 

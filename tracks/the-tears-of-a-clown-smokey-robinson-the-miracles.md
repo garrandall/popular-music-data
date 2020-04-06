@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-tears-of-a-clown-smokey-robinson-the-miracles
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/thetearsofaclown.html
 name: The Tears Of A Clown
 rankings:
 - end_date: '1970-10-23'
@@ -72,4 +73,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
+
+Oh yeah, yeah, yeah
+
+Now if there's a smile on my face
+It's only there trying to fool the public
+But when it comes down to fooling you
+Now honey, that's quite a different subject
+
+But don't let my glad expression
+Give you the wrong impression
+Really, I'm sad
+Oh, I'm sadder than sad
+You're gone and I'm hurtin' so bad
+Like a clown I pretend to be glad
+
+Now there's some sad things known to man
+But ain't too much sadder than
+The tears of a clown
+When there's no one around
+
+Oh yeah, baby
+
+Now if I appear to be carefree
+It's only to camouflage my sadness
+In order to shield my pride I've tried
+To cover this hurt with a show of gladness
+
+But don't let my show convince you
+That I've been happy since you
+Decided to go
+Oh, I need you so
+I'm hurt and I want you to know
+But for others I put on a show
+
+Oh, there's some sad things known to man
+But there ain't too much sadder than
+The tears of a clown
+When there's no one around, oh yeah
+
+Just like Pagliacci did
+I try to keep my sadness hid
+Smiling in the public eye
+But in my lonely room I cry
+The tears of a clown
+When there's no one around
+
+Oh yeah, baby
+
+Now if there's a smile on my face
+Don't let my glad expression
+Give you the wrong impression
+Don't let this smile I wear
+Make you think that I don't care
+Really, I'm sad
+Hurtin' so bad
+
+
 

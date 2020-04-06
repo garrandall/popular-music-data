@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-love-is-real-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/onlyloveisreal.html
 name: Only Love Is Real
 rankings:
 - end_date: '1976-02-20'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
 ---
+
+As I bask in the glow of a just-lit fire
+Feeling the warmth as the flame grows higher
+I think it's true that nothing is really new under the sun
+Watching a new love grow from old love's embers
+Yesterday's gone but today remembers
+Doesn't it seem to come down the same for everyone
+
+Only love is real
+Everything else illusion
+Adding to the confusion of the way we connive
+At being alive
+Tracing a line till we can define
+The thing that allows us to feel
+Only love is real
+
+Childhood dreams like muddy waters
+Flowing through me to my son and daughters
+Everything I ever thought is confirmed as truth to me
+Even as I see the way that I want to go now
+Still I wish I had known what I know now
+Maybe I could have spared you giving your youth to me
+
+Only love is real
+Everything else illusion
+Adding to the confusion of the way we contrive
+To just stay alive
+Tracing a line till we can define
+The thing that allows us to feel
+Only love is real
+
+
 

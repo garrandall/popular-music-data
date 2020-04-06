@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: headed-for-a-heartbreak-winger
+lyrics_url: https://www.azlyrics.com/lyrics/winger/headedforaheartbreak.html
 name: Headed For A Heartbreak
 rankings:
 - end_date: '1989-06-09'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
 ---
+
+Yeah
+
+Morning came and I was on my way
+When you reminded me
+I had too soon forgotten
+It was you that set me free
+Yeah, you were here when I came
+You'll be here when I'm gone
+So don't be waiting on love
+'Cause I'll be waiting to ramble on
+
+Headed for a heartbreak
+Headed for a heartbreak
+
+Darling, don't wait up for me
+Tonight I won't be home
+You've become a stranger
+I just got to be alone
+Don't need nobody on my side
+To dull the blade I'm on
+So don't be waiting on love
+'Cause I'll be waiting to ramble on
+
+Headed for a heartbreak
+Headed for a heartbreak
+Headed for a heartbreak
+
+It's not a mistake
+Don't you think I can feel the pain?
+I walk away, to live again...
+
+Headed for a heartbreak
+Headed for a heartbreak (Don't make me hurt you)
+Headed for a heartbreak ('Cause I love you...)
+Headed for a heartbreak
+
+Don't you think I feel the pain?
+
+
 

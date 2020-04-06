@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: making-memories-of-us-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/makingmemoriesofus.html
 name: Making Memories Of Us
 rankings:
 - end_date: '2005-04-29'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
 ---
+
+I'm gonna be here for you baby
+I'll be a man of my word
+Speak the language in a voice that you have never heard
+I wanna sleep with you forever
+And I wanna die in your arms
+In a cabin by a meadow where the wild bees swarm
+
+And I'm gonna love you like nobody loves you
+And I'll earn your trust making memories of us
+
+I wanna honor your mother
+I wanna learn from your pa
+I wanna steal your attention like a bad outlaw
+I wanna stand out in a crowd for you
+A man among men
+I wanna make your world better than it's ever been
+
+And I'm gonna love you like nobody loves you
+And I'll earn your trust making memories of us
+
+We'll follow the rainbow
+Wherever the four winds blow
+And there'll be a new day
+Comin' your way
+
+I'm gonna be here for you from now on
+This you know somehow
+You've been stretched to the limits but it's alright now
+ And I'm gonna make you a promise
+ And I'm gonna make you this promise
+If there's life after this
+I'm gonna be there to meet you with a warm, wet kiss
+
+And I'm gonna love you like nobody loves you
+And I'll earn your trust making memories of us
+I'm gonna love you like nobody loves you
+And I'll win your trust making memories of us
+
+
 

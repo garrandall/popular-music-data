@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: burn-jo-dee-messina
+lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/burn.html
 name: Burn
 rankings:
 - end_date: '2000-12-08'
@@ -87,4 +88,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-14'
 ---
+
+Do you want to be a poet and write... 
+Do you want to be an actor up in lights 
+Do you wanna be a solider -- and fight for love 
+Do you want to travel the world 
+Do you wanna be a diver for pearls 
+Or climb a mountain and touch the clouds above 
+Be anyone you want to be 
+Bring to life your fantasies 
+
+
+I want something in return 
+I want you to burn 
+Burn for me baby, like a candle in my night
+
+
 

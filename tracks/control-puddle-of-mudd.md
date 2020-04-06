@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: control-puddle-of-mudd
+lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/control.html
 name: Control
 rankings:
 - end_date: '2001-10-19'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
 ---
+
+I love the way you look at me
+I feel the pain you place inside
+you lock me up inside your dirty cage
+well I'm alone inside my mind
+
+I'd like to teach you all the rules
+I'd get to see them set in stone
+I like it when you chain me to the bed
+but then your secrets never shone
+
+
+I need to feel you
+You need to feel me
+I can't control you
+You're not the one for me, no
+
+I can't control you
+You can't control me
+I need to feel you
+so why's there even you and me?
+
+I love the way you rake my skin
+I feel the hate you place inside
+I need to get your voice out of my head
+Cause I'm that guy you'll never find
+
+I think you know all of the rules
+there's no expressions on your face
+I'm hope that some day you will let me go
+Release me from my dirty cage
+
+
+I need to feel you
+You need to feel me
+I can't control you
+You're not the one for me, no
+
+I can't control you
+You can't control me
+I need to feel you
+So why's there even you and me?
+
+
+I love the way you look at me
+I love the way you smack my ass
+I love the dirty things you do
+I have control of you
+
+
+I need to feel you
+You need to feel me
+I can't control you
+You're not the one for me, no
+
+I can't control you
+You can't control me
+I need to feel you
+So why's there even you and me.....
+
+
+You're not the one for me, no
+
+
 

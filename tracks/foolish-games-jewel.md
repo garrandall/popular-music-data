@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foolish-games-jewel
+lyrics_url: https://www.azlyrics.com/lyrics/jewel/foolishgames.html
 name: Foolish Games
 rankings:
 - end_date: '1996-12-06'
@@ -267,4 +268,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
 ---
+
+You took your coat off and stood in the rain
+You're always crazy like that
+And I watched from my window
+Always felt I was outside looking in on you
+You're always the mysterious one with
+Dark eyes and careless hair
+You were fashionably sensitive
+But too cool to care
+You stood in my doorway, with nothing to say
+Besides some comment on the weather
+
+Well in case you failed to notice
+In case you failed to see
+This is my heart bleeding before you
+This is me down on my knees, and
+
+These foolish games are tearing me apart
+And your thoughtless words are breaking my heart
+You're breaking my heart
+
+You're always brilliant in the morning
+Smoking your cigarettes and talking over coffee
+Your philosophies on art, Baroque moved you
+You loved Mozart; and you'd speak of your loved ones
+As I clumsily strummed my guitar
+
+You'd teach me of honest things
+Things that were daring, things that were clean
+Things that knew what an honest dollar did mean
+I hid my soiled hands behind my back
+Somewhere along the line, I must have gone
+Off track with you
+
+Excuse me, think I've mistaken you for somebody else
+Somebody who gave a damn
+Somebody more like myself
+
+And these foolish games are tearing me
+You're tearing me
+You're tearing me apart
+And your thoughtless words are breaking my heart
+You're breaking my heart
+
+You took your coat off
+Stood in the rain
+You're always crazy like that
+
+
 

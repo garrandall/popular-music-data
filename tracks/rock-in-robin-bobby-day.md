@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-in-robin-bobby-day
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyday/rockinrobin.html
 name: Rock-in Robin
 rankings:
 - end_date: '1958-08-10'
@@ -91,4 +92,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
 ---
+
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweet tweet tweet tweet)
+
+He rocks in the tree-top all the day long
+Hoppin' and a-boppin' and a-singin' his song
+All the little birds on Jay Bird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin (tweet tweet tweet)
+Rock, rock, rockin' robin (Tweet, tweedle-lee-dee)
+Blow, rockin' robin
+'Cause we're really gonna rock tonight
+(Tweet, tweedle-lee-dee)
+
+Every little swallow, every chickadee
+Every little bird in the tall oak tree
+The wise old owl, the big black crow
+Flap-a their wings singin' "go bird go"
+
+Rockin' robin (tweet tweet tweet)
+Rock, rock, rockin' robin (Tweet, tweedle-lee-dee)
+Blow, rockin' robin
+'Cause we're really gonna rock tonight
+Blow!
+(Tweet, tweedle-lee-dee)
+
+A pretty little raven at the bird bandstand
+Taught him how to do the bop and it was grand
+They started goin' steady and bless my soul
+He out-bopped the buzzard and the oriole
+
+He rocks in the tree-top all the day long
+Hoppin' and a-boppin' and a-singin' his song
+All the little birds on Jay Bird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin (tweet tweet tweet)
+Rock, rock, rockin' robin (Tweet, tweedle-lee-dee)
+Blow, rockin' robin
+'Cause we're really gonna rock tonight
+(Tweet, tweedle-lee-dee)
+
+Well the pretty little raven at the bird bandstand
+Taught him how to do the bop and it was grand
+They started goin' steady and bless my soul
+He out-bopped the buzzard and the oriole
+
+He rocks in the tree-top all the day long
+Hoppin' and a-boppin' and a-singin' his song
+All the little birds on Jay Bird Street
+Love to hear the robin go tweet tweet tweet
+
+Rockin' robin (tweet tweet tweet)
+Rock, rock, rockin' robin (Tweet, tweedle-lee-dee)
+Blow, rockin' robin
+'Cause we're really gonna rock tonight
+(Tweet, tweedle-lee-dee)
+
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweedle-lee-deedle-lee-dee)
+(Tweet tweet) (wolf whistle)
+
+
 

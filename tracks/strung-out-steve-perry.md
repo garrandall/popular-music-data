@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strung-out-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/steveperry/strungout.html
 name: Strung Out
 rankings:
 - end_date: '1984-09-14'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
 ---
+
+One very happy warm summer night
+I saw your face, what could I do
+So carefully I walked straight up to you
+
+And in the shadow of a moonlit night
+I saw those eyes a-shinin' through
+Heart of gold I love you, misty blue
+
+Whoa, it's hard to love somebody
+Especially when they don't belong to you
+'Cause they're loving someone else
+Strung out and hung up on you
+
+I feel like Bogart in a crazy movie
+Bogie and me, we never beg
+But this time maybe I've got voices in my head
+
+They're sayin' that he's never been good to you
+And he's always hurt and let you down
+If what you need is good lovin', I'll be around
+
+It's hard to love somebody
+Especially when they don't belong to you
+'Cause they're loving someone else
+Strung out and hung up on you
+Strung out
+Strung out
+
+Well, it's hard to love somebody
+Especially when they don't belong to you
+'Cause they're loving someone else
+Strung out and hung up on you
+
+It's hard to love somebody
+Oh, when they don't belong to you
+'Cause they're loving someone else,
+Strung out and hung up on you
+Strung out and hung up on you
+Yeah, strung out
+
+
 

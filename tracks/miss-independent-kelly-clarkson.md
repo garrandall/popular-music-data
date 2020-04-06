@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miss-independent-kelly-clarkson
+lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/missindependent.html
 name: Miss Independent
 rankings:
 - end_date: '2003-05-23'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
 ---
+
+Miss Independent
+Miss Self-Sufficient
+Miss Keep-Your-Distance
+
+Miss Unafraid
+Miss Out-Of-My-Way
+Miss Don't-Let-A-Man-Interfere, no
+
+Miss On-Her-Own
+Miss Almost-Grown
+Miss Never-Let-A-Man-Help-Her-Off-Her-Throne
+
+So, by keeping her heart protected
+She'd never ever feel rejected
+Little Miss Apprehensive
+Said ooh, she fell in love
+
+What is the feelin' takin' over?
+Thinkin' no one could open my door
+Surprise it's time
+To feel what's real
+What happened to Miss Independent?
+No longer need to be defensive
+Goodbye, old you
+When love is true
+
+Misguided heart
+Miss Play-It-Smart
+Miss If-You-Want-To-Use-That-Line-You-Better-Not-Start, no
+
+But she miscalculated
+She didn't want to end up jaded
+And this miss decided not to miss out on true love
+
+So, by changing her misconceptions
+She went in a new direction
+And found inside she felt a connection
+She fell in love
+
+What is the feelin' takin' over?
+Thinkin' no one could open my door (open this door)
+Surprise it's time
+To feel what's real
+What happened to Miss Independent?
+No longer need to be defensive
+Goodbye (goodbye), old you (old you)
+When love, when love is true
+
+When Miss Independence walked away
+No time for love that came her way
+She looked in the mirror and thought today
+What happened to Miss No-Longer-Afraid?
+
+It took some time for her to see
+How beautiful love could truly be
+No more talk of why can't that be me
+I'm so glad I finally see
+
+What is the feelin' takin' over?
+Thinkin' no one could open my door
+Surprise (surprise), it's time
+To feel (to feel) what's real
+What happened to Miss Independent?
+No longer need to be defensive
+Goodbye (goodbye), old you
+When love, when love is true
+
+Miss Independent
+
+
 

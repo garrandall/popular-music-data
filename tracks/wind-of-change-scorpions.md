@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wind-of-change-scorpions
+lyrics_url: https://www.azlyrics.com/lyrics/scorpions/windofchange.html
 name: Wind Of Change
 rankings:
 - end_date: '1991-06-07'
@@ -107,4 +108,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
 ---
+
+I follow the Moskva
+Down to Gorky Park
+Listening to the wind of change
+An August summer night
+Soldiers passing by
+Listening to the wind of change
+
+The world is closing in
+Did you ever think
+That we could be so close, like brothers
+The future's in the air
+I can feel it everywhere
+Blowing with the wind of change
+
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow dream away
+in the wind of change
+
+Walking down the street
+Distant memories
+Are buried in the past forever
+I follow the Moskva
+Down to Gorky Park
+Listening to the wind of change
+
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow share their dreams
+With you and me
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow dream away
+in the wind of change
+
+The wind of change
+Blows straight into the face of time
+Like a stormwind that will ring the freedom bell
+For peace of mind
+Let your balalaika sing
+What my guitar wants to say
+
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow share their dreams
+With you and me
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow dream away
+in the wind of change
+
+
 

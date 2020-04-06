@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shallow-lady-gaga-bradley-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/shallow.html
 name: Shallow
 rankings:
 - end_date: '2018-10-19'
@@ -188,4 +189,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
 ---
+
+
+Tell me somethin' girl
+Are you happy in this modern world?
+Or do you need more?
+Is there somethin' else you're searchin' for?
+
+I'm falling
+In all the good times I find myself longin' for change
+And in the bad times I fear myself
+
+
+Tell me something boy
+Aren't you tired tryin' to fill that void?
+Or do you need more?
+Ain't it hard keeping it so hardcore?
+
+I'm falling
+In all the good times I find myself longin' for change
+And in the bad times I fear myself
+
+I'm off the deep end, watch as I dive in
+I'll never meet the ground
+Crash through the surface, where they can't hurt us
+We're far from the shallow now
+
+
+In the sha-ha-sha-ha-low
+In the sha-ha-sha-la-la-la-low
+In the sha-ha-sha-ha-ha-low
+We're far from the shallow now
+
+
+Wooaaaah
+Woaaaaaaaaaaah
+
+I'm off the deep end, watch as I dive in
+I'll never meet the ground
+Crash through the surface, where they can't hurt us
+We're far from the shallow now
+
+
+In the sha-ha-sha-ha-low
+In the sha-ha-sha-la-la-la-low
+In the sha-ha-sha-ha-ha-low
+We're far from the shallow now
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ti-amo-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/tiamo.html
 name: Ti Amo
 rankings:
 - end_date: '1984-11-09'
@@ -55,4 +56,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
 ---
+
+Ti amo
+God how I love you so
+My heart just won't let go
+Day after day I'm still holdin' on
+Even though you're gone
+
+Ti amo
+Wasn't I good to you?
+I did all that I could do
+To make you want to be here with me
+I thought you loved me
+
+I can't believe, you could just turn and leave
+Did it so easily
+You pulled my world out from under me
+Look what you've done to me
+
+How could you end it this way
+After the love that we made?
+God, how I wish you had stayed
+Can't you see that I just want you back?
+
+Ti amo
+I never had a clue
+That I was losin' you
+You never once let me know
+You were lettin' me go
+
+Oh, I guess it was there in your eyes
+Guess it was there in your sighs
+Guess it was there in your lies
+I was blind then, couldn't face the end
+
+Ti amo
+Thought we'd go on and on
+Thought we had something strong
+You pulled my world out from under me
+Look what you've done to me
+
+How could you end it this way
+After the love that we made?
+God, how I wish you had stayed
+Can't you see that I just want you back?
+
+Ti amo
+God, how I love you so
+My heart just won't let go
+Day after day I'm still holdin' on
+Even though you're gone
+
+Guess it was there in your eyes
+Guess it was there in your sighs
+Guess it was there in your lies
+I was blind then, couldn't face the end
+
+Ti amo
+Thought we'd go on and on
+Thought we had something strong
+You pulled my world out from under me
+Look what you've done to me
+
+How could you end it this way
+After the love that we made?
+God, how I wish you had stayed
+Can't you see that I just want you back?
+
+Ti amo
+Wasn't I good to you?
+Did all that I could do
+To make you want to be here with me
+I thought you loved me
+
+I can't believe, you could just turn and leave
+Did it so easily
+You pulled my world out from under me
+Look what you've done to me
+
+Ti amo
+God, how I love you so
+My heart just won't let go
+Day after day I'm still holdin' on
+Even though you're gone
+
+
 

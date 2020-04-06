@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-day-in-july-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/colddayinjuly.html
 name: Cold Day In July
 rankings:
 - end_date: '2000-06-30'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-26'
 ---
+
+The moon is full and my arms are empty
+All night long I've pleaded and cried
+You always said the day that you would leave me
+Would be a cold day in July
+
+Your bags are packed not a word is spoken
+I guess we said everything with good-bye
+Time moves so slow and promises get broken
+On this cold day in July
+
+Sun's comin' up comin' up down on Main Street
+Children shout as they're running out to play
+Head in my hands 
+Here I am
+Standing in my bare feet
+Watching you drive away
+Watching you drive away
+
+You said that we were gonna last forever
+You said our love would never die
+It looks like spring and
+It feels like sunny weather
+But it's a cold day in July
+
+On sun's comin' up comin' up
+Down on Main Street
+Children shout as they're running out to play
+Head in my hands
+Here I am 
+Standing in my bare feet
+Watching you drive away
+Watching you drive away
+
+The moon is full and my arms are empty
+All night long how I've pleaded and cried
+You always said the day that
+you would leave me,
+Would be a cold day in July
+
+Here comes that cold day in July
+Oh
+Yeah
+Oh yeah
+la da da la da da la da da
+Oh Ooo
+
+
 

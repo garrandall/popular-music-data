@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: viva-la-vida-coldplay
+lyrics_url: https://www.azlyrics.com/lyrics/coldplay/vivalavida.html
 name: Viva La Vida
 rankings:
 - end_date: '2008-05-30'
@@ -211,4 +212,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
 ---
+
+I used to rule the world
+Seas would rise when I gave the word
+Now in the morning I sleep alone
+Sweep the streets I used to own
+
+I used to roll the dice
+Feel the fear in my enemy's eyes
+Listened as the crowd would sing,
+"Now the old king is dead! Long live the king!"
+One minute I held the key
+Next the walls were closed on me
+And I discovered that my castles stand
+Upon pillars of salt and pillars of sand
+
+I hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+My missionaries in a foreign field
+For some reason I can't explain
+Once you'd gone there was never
+Never an honest word
+And that was when I ruled the world
+
+It was a wicked and wild wind
+Blew down the doors to let me in
+Shattered windows and the sound of drums
+People couldn't believe what I'd become
+Revolutionaries wait
+For my head on a silver plate
+Just a puppet on a lonely string
+Oh who would ever want to be king?
+
+I hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+My missionaries in a foreign field
+For some reason I can't explain
+I know St. Peter won't call my name
+Never an honest word
+But that was when I ruled the world
+
+Oh, oh, oh, oh, oh, oh 
+
+Hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+My missionaries in a foreign field
+For some reason I can't explain
+I know St. Peter won't call my name
+Never an honest word
+But that was when I ruled the world
+
+
 

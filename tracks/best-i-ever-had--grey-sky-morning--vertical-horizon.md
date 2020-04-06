@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-i-ever-had--grey-sky-morning--vertical-horizon
+lyrics_url: https://www.azlyrics.com/lyrics/verticalhorizon/bestieverhadgreyskymorning.html
 name: Best I Ever Had (Grey Sky Morning)
 rankings:
 - end_date: '2001-03-09'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
 ---
+
+So you sailed away
+Into a grey sky morning
+Now I'm here to stay
+Love can be so boring
+
+Nothing's quite the same now
+I just say your name now
+
+But it's not so bad
+You're only the best I ever had
+You don't want me back
+You're just the best I ever had
+
+So you stole my world
+Now I'm just a phony
+Remembering the girl
+Leaves me down and lonely
+
+Send it in a letter
+Make yourself feel better
+
+But it's not so bad
+You're only the best I ever had
+You don't need me back
+You're just the best I ever had
+
+And it may take some time to
+Patch me up inside
+But I can't take it so I
+Run away and hide
+And I may find in time that
+You were always right
+You're always right
+
+So you sailed away
+Into a grey sky morning
+Now I'm here to stay
+Love can be so boring
+
+What was it you wanted
+Could it be I'm haunted
+
+But it's not so bad
+You're only the best I ever had
+I don't want you back
+You're just the best I ever had
+The best I ever had
+The best I ever
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: we-go-together-jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/wegotogether.html
 name: We Go Together
 rankings:
 - end_date: '1960-08-07'
@@ -36,4 +37,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
 ---
+
+We go together like castles and kings
+Birds of a feather? robins in spring
+
+Let's go steady
+You are my first love
+We like the same things
+That makes livin' so sweet
+Lovin' midnight movies
+In the balcony seats
+
+Let's go steady
+You are my first love
+So please, listen to me
+Someday we will be
+Side by side, hand in hand
+You'll be wearing my wedding band
+
+We go together like two straws in a coke
+Why not come over and you'll meet my folks?
+
+Let's go steady
+You are my first love
+(So please, listen to me
+Someday we will be)
+Side by side, hand in hand
+You'll be wearing my wedding band
+
+I love you so
+We go together like straws in a coke
+Why not come over
+And you'll meet my folks?
+
+Let's go steady
+You are my first love
+First love
+You are my first love
+
+
 

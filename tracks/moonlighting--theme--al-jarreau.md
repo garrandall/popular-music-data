@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moonlighting--theme--al-jarreau
+lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/moonlightingtheme.html
 name: Moonlighting (Theme)
 rankings:
 - end_date: '1987-06-05'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
 ---
+
+Some walk by night
+Some fly by day
+Nothing could change you
+Set and sure of the way
+Charming and bright
+Laughing and gay
+I'm just a stranger
+Love the Blues and the Braves
+There is the sun and moon
+Facing their old, sweet tune
+Watch them when dawn is due
+Sharing one space
+Some walk by night
+Some fly by day
+Something is sweeter
+When you meet 'long the way
+There is the sun and moon
+Facing their old, sweet tune
+Watch them when dawn is due
+Sharing one space
+So come walk the night
+Come fly by day
+Something is sweeter
+'Cause we met 'long the way
+We'll walk the night
+We'll fly by day
+Moonlighting strangers
+Who just met on the way
+Who just met on the way
+
+
 

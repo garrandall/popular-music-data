@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-that-dream-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/followthatdream.html
 name: Follow That Dream
 rankings:
 - end_date: '1962-05-18'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
 ---
+
+Follow that dream, I gotta follow that dream
+Keep a-movin, move along, keep a moving
+I've got to follow that dream wherever that dream may lead
+I've got to follow that dream to find the love I need
+
+When your heart gets restless, time to move along
+When your heart gets weary, time to sing a song
+But when a dream is calling you,
+There's just one thing that you can do
+
+Well, you gotta follow that dream wherever that dream may lead
+You gotta follow that dream to find the love you need
+
+Keep a-movin, move along, keep a moving
+
+Got to find me someone whose heart is free
+Someone to look for my dream with me
+And when I find her I may find out
+Just what my dreams are all about
+
+I've got to follow that dream wherever that dream may lead
+I've got to follow that dream to find the love I need
+
+I've got to follow that dream wherever that dream may lead
+I've got to follow that dream to find the love I need
+
+Keep a-movin, move along
+Keep a-movin, move along
+Keep a-movin, move along
+
+
 

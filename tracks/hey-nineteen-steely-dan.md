@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-nineteen-steely-dan
+lyrics_url: https://www.azlyrics.com/lyrics/steelydan/heynineteen.html
 name: Hey Nineteen
 rankings:
 - end_date: '1980-12-05'
@@ -83,4 +84,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
 ---
+
+Way back when
+In Sixty-seven
+I was the dandy
+Of Gamma Chi
+Sweet things from Boston
+So young and willing
+Moved down to Scarsdale
+Where the hell am I
+Hey Nineteen
+No we can't dance together
+No we can't talk at all
+Please take me along
+When you slide on down
+
+Hey Nineteen
+That's 'Retha Franklin
+She don't remember
+The Queen of Soul
+It's hard times befallen
+The Soul Survivors
+She thinks I'm crazy
+But I'm just growing old
+
+Hey Nineteen
+No we got nothing in common
+No we can't talk at all
+Please take me along
+When you slide on down
+
+Nice
+Sure looks good
+Mmm-mmm-mmm
+Skate a little lower now
+
+The Cuervo Gold
+The fine Colombian
+Make tonight a wonderful thing
+
+The Cuervo Gold
+The fine Colombian
+Make tonight a wonderful thing
+
+The Cuervo Gold
+The fine Colombian
+Make tonight a wonderful thing
+
+No we can't dance together
+No we can't talk at all
+
+
 

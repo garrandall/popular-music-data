@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: por-amor-viviremos-captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/poramorviviremos.html
 name: Por Amor Viviremos
 rankings:
 - end_date: '1975-08-22'
@@ -32,4 +33,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
 ---
+
+Si, por amor viviremos
+Piense en mi en el momento
+Que una linda mujer
+Llegue a ti, con su cancion
+Cuidate amor solo piensa
+En mi amor en mi
+
+Que yo si te quiero
+Yo, que te necesito
+Piense en los dos y el amor
+Que viviremos
+
+Tu, tu me perteneces
+Te mantendre a mi lado
+Cuando llegue a ti otra mujer
+Quiera tu amor
+Recordaras el amor de los dos
+Amor
+
+Que yo si te quiero
+Yo, que te necesito
+Piense en los dos y el amor
+Que viviremos
+Por siempre
+
+Un amor fugaz
+Pronto te puede dejar
+Cuando hace la ilusion
+Quien su amor te dara
+
+Yo soy, yo soy, yo soy, yo soy
+Quien estara contigo
+Por amor viviremos
+Soy en verdad quien te llena de amor
+Que no encontraras
+Quien pueda marco mi sinceridad
+
+Yo soy. que yo si te quiero
+Yo, que te necesito
+Piense en los dos y el amor
+Que viviremos
+Por siempre
+
+Ba ba ba, whatever
+Yo soy (ever) yo soy (ever)
+Yo soy (ever) yo soy (ever)
+
+Da da da da...
+
+Yo soy, que yo si te quiero
+Yo. que te necesito
+Piense en los dos y el amor
+Que viviremos
+Por siempre
+
+Ba ba ba, whatever
+Yo soy (ever) yo soy (ever)
+Yo soy (ever) yo soy (ever)
+
+Da da da da...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: letter-to-lucille-tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/lettertolucille.html
 name: Letter To Lucille
 rankings:
 - end_date: '1973-05-18'
@@ -39,4 +40,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
 ---
+
+Somebody, please, if somebody will
+Let them take a letter to my girl, Lucille
+Let them tell her, Lord, how I'm missing her still
+I think about her constantly
+
+Somebody, please, if somebody can
+Let them take a letter from this lonely man
+All I ask is Lord, make her understand
+I'll die if she don't wait for me
+
+I heard a rumor from the guys in Cell A
+You've served your time and you are leaving today
+Well, there is something you can do
+For me to help your old friend
+Help me, please
+'Cause I've got seven years in this old pen
+Till I'm home again
+
+Somebody, please, if somebody will
+Let them take a letter to my girl, Lucille
+Let them tell her, Lord, how I'm missing her still
+I think about her constantly
+
+Somebody, please, if somebody can
+Let them take a letter from this lonely man
+All I ask is, Lord, make her understand
+I'll die if she don't wait for me
+
+To hear you tell it, you're all innocent men
+But I was guilty, and I'd do it all again
+Just to hold her for a minute or two
+I'd steal a king's crown, yes, I would
+If I don't reach that girl some way, I know
+There'll be another man around
+
+Somebody, please, if somebody will
+Let them take a letter to my girl, Lucille
+Let them tell her, Lord, how I'm missing her still
+Because I think about her constantly
+Ugh, somebody, please, if somebody can
+Let them take a letter from this lonely man
+All I ask is, Lord, why don't you make her
+Understand because
+I'll die if she don't wait for me
+
+Oooooh, somebody, please, if somebody will
+Let them take a letter to my girl, Lucille
+Let them tell her, Lord, how I'm missing her still
+I think about her constantly...
+
+
 

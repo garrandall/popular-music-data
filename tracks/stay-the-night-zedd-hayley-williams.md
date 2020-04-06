@@ -5,6 +5,7 @@ features:
 - Hayley Williams
 genres: []
 key: stay-the-night-zedd-hayley-williams
+lyrics_url: https://www.azlyrics.com/lyrics/zedd/staythenight.html
 name: Stay The Night
 rankings:
 - end_date: '2013-10-04'
@@ -96,4 +97,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
 ---
+
+
+I know that we are upside down
+So hold your tongue and hear me out
+I know that we were made to break
+So what? I don't mind
+
+You kill the lights, I'll draw the blinds
+Don't dull the sparkle in your eyes
+I know that we were made to break
+So what? I don't mind
+
+Are you gonna stay the night?
+Are you gonna stay the night?
+Oh oh oh, are you gonna stay the night?
+
+Are you gonna stay the night?
+Doesn't mean we're bound for life
+So oh oh oh, are you gonna stay the night?
+
+
+
+Are you gonna stay the night?
+Doesn't mean we're bound for life
+So oh oh, are you gonna stay the night?
+
+I am a fire, you're gasoline,
+Come pour yourself all over me
+We'll let this place go down in flames only one more time
+
+You kill the lights, I'll draw the blinds
+Don't dull the sparkle in your eyes
+I know that we were made to break
+So what? I don't mind
+
+Are you gonna stay the night?
+Are you gonna stay the night?
+Oh oh oh, are you gonna stay the night?
+
+Are you gonna stay the night? (we get burned!)
+Doesn't mean we're bound for life (we never learn!)
+So oh oh, are you gonna stay the night?
+Night night night night night...
+
+
+
+ARE YOU GONNA STAY THE NIGHT?!
+
+
+
+Are you gonna stay the night?
+Doesn't mean we're bound for life
+So oh oh, are you gonna stay the night?
+
+
+Are you gonna stay the night?
+Are you gonna stay the night?
+Oh oh oh oh.
+Are you gonna stay the night?
+
+
 

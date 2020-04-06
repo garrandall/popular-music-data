@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everlasting-love-howard-jones
+lyrics_url: https://www.azlyrics.com/lyrics/howardjones/everlastinglove.html
 name: Everlasting Love
 rankings:
 - end_date: '1989-03-24'
@@ -83,4 +84,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
 ---
+
+He wasn't looking for a pretty face
+She wasn't searching for the latest style
+He didn't want someone who walked straight off the TV
+She needed someone with an interior smile
+
+She wasn't looking for a cuddle in the back seat
+He wasn't looking for a five minute thrill
+She wasn't thinking of tomorrow or of next week
+This vacancy he meant to permanently fill
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+Back in the world of disposable emotion
+In the climate of temporary dreams
+He wasn't looking for a notch on his bedpost
+A love to push, pull and burst at the seams
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+Is this love worth waiting for?
+Something special, something pure
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+Wait for it, wait for it, give it some time
+
+Is this love worth waiting for?
+Bitterness will die for sure
+Something special, something pure
+Is this love worth waiting for?
+
+Is this love worth waiting for?
+(I need an everlasting love)
+Bitterness will die for sure
+Something special, something pure
+(I need a friend and a lover divine)
+Is this love worth waiting for?
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+I need an everlasting love
+I need a friend and a lover divine
+An everlasting precious love
+Wait for it, wait for it, give it some time
+
+
 

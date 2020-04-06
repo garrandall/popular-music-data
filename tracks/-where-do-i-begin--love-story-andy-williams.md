@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -where-do-i-begin--love-story-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/wheredoibeginlovestory.html
 name: (Where Do I Begin) Love Story
 rankings:
 - end_date: '1971-02-12'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
 ---
+
+Where do I begin
+To tell the story of how great a love can be
+The sweet love story that is older than the sea
+The simple truth about the love she brings to me
+Where do I start
+
+With her first hello
+She gave new meaning to this empty world of mine
+There'd never be another love, another time
+She came into my life and made the living fine
+She fills my heart
+
+She fills my heart with very special things
+With angels' songs , with wild imaginings
+She fills my soul with so much love
+That anywhere I go I'm never lonely
+With her around, who could be lonely
+I reach for her hand-it's always there
+
+How long does it last
+Can love be measured by the hours in a day
+I have no answers now but this much I can say
+I know I'll need her till the stars all burn away
+And she'll be there
+
+How long does it last
+Can love be measured by the hours in a day
+I have no answers now but this much I can say
+I know I'll need her till the stars all burn away
+And she'll be there
+
+
 

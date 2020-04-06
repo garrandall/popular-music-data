@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: monday-monday-the-mamas-the-papas
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/mondaymonday.html
 name: Monday Monday
 rankings:
 - end_date: '1966-04-15'
@@ -56,4 +57,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
 ---
+
+Monday, Monday
+So good to me
+Monday mornin', it was all I hoped it would be
+Oh Monday mornin', Monday mornin' couldn't guarantee
+That Monday evenin' you would still be here with me
+
+Monday, Monday, can't trust that day
+Monday, Monday, sometimes it just turns out that way
+Oh Monday mornin' you gave me no warnin' of what was to be
+Oh Monday, Monday, how could you leave and not take me
+
+Every other day (every other day), every other day
+Every other day of the week is fine, yeah
+But whenever Monday comes, but whenever Monday comes
+A-you can find me cryin' all of the time
+
+Monday, Monday
+So good to me
+Monday mornin', it was all I hoped it would be
+Oh Monday mornin', Monday mornin' couldn't guarantee
+That Monday evenin' you would still be here with me
+
+Every other day, every other day
+Every other day of the week is fine, yeah
+But whenever Monday comes, but whenever Monday comes
+You can find me cryin' all of the time
+
+Monday, Monday
+So good to me
+Monday mornin', it was all I hoped it would be
+Oh Monday mornin', Monday mornin' couldn't guarantee
+That Monday evenin' you would still be here with me
+
+Every other day, every other day
+Every other day of the week is fine, yeah
+But whenever Monday comes, but whenever Monday comes
+You can find me cryin' all of the time
+
+Monday, Monday
+Can't trust that day
+Monday, Monday
+It just turns out that way
+Whoa, Monday, Monday, won't go away
+Monday, Monday, it's here to stay
+Oh Monday, Monday
+Oh Monday, Monday
+
+
 

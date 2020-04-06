@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: t-r-o-u-b-l-e-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/trouble110974.html
 name: T-R-O-U-B-L-E
 rankings:
 - end_date: '1975-05-16'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
 ---
+
+I play an old piano from nine till a half past one
+Tryin' to make a livin' watchin' everybody have fun
+Well, I don't miss much that ever happens on a dance hall floor
+Mercy, look what just walked through that door
+
+Well, hello T-R-0-U-B-L-E
+What in the world you're doin' A-L-O-N-E?
+Say, good L-double O-K-I-N-G
+I smell T-R-O-U-B-L-E
+
+I was a little bitty baby when my papa hit the skids
+Mama had a time tryin' to raise nine kids
+Told me not to stare 'cause it was impolite
+And did the best she could to try to raise me right
+
+But mama never told me 'bout nothing like Y-O-U
+Say, your mama must have been another something or the other too
+Say, hello good L-double O-K-I-N-G
+I smell T-R-O-U-B-L-E
+
+Well, you talk about a woman I've seen a lot of others
+But too much something' and not enough another
+You've got it all together like a lovin' machine
+Lookin' like glory and walkin' like a dream
+
+Mother Nature's sure been good to Y-O-U
+Well, your mama must have been another good lookin' too
+Say, hey, good L-double O-K-I-N-G
+I smell T-R-O-U-B-L-E
+
+Well, you talk about a trouble-makin' hunka pokey bait,
+The men are gonna love and all the women gonna hate
+Reminding them of everything they never gonna be
+Maybe the beginning of the World War III
+Oh, the world ain't ready for nothin' like a Y-O-U
+Well, I bet your mama must have been another something or the other too
+
+Say hey good L-double O-K-I-N-G
+I smell T-R-O-U-B-L-E
+
+
 

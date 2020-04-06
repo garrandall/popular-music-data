@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-song-howard-jones
+lyrics_url: https://www.azlyrics.com/lyrics/howardjones/newsong.html
 name: New Song
 rankings:
 - end_date: '1984-01-27'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
 ---
+
+I've been waiting for so long
+To come here now and sing this song
+Don't be fooled by what you see
+Don't be fooled by what you hear
+
+This is a song to all of my friends
+They take the challenge to their hearts
+Challenging preconceived ideas
+Saying goodbye to long standing fears
+
+Don't crack up
+Bend your brain
+See both sides
+Throw off your mental chains
+
+I don't wanna be hip and cool
+I don't wanna play by the rules
+Not under the thumb of the cynical few
+Or laden down by the doom crew
+
+Don't crack up
+Bend your brain
+See both sides
+Throw off your mental chains
+
+Don't crack up
+Bend your brain
+See both sides
+Throw off your mental chains
+
+I've been waiting for so long
+To come here now and sing this song
+Don't be fooled by what you see
+Don't be fooled by what you hear
+
+This is a song to all of my friends
+They take the challenge to their hearts
+Challenging preconceived ideas
+Saying goodbye to long standing fears
+
+Don't crack up
+Bend your brain
+See both sides
+Throw off your mental chains
+
+
 

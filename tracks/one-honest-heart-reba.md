@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-honest-heart-reba
+lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/onehonestheart.html
 name: One Honest Heart
 rankings:
 - end_date: '1999-06-04'
@@ -47,4 +48,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
 ---
+
+Times are tough on an honest heart.
+People don't follow through with what they start.
+Lyin' eyes looking at me up and down.
+Makin' talk that's only cheap.
+Makin' promises they never keep.
+But I keep lookin' for what I still haven't found.
+
+One honest heart.
+That I can believe in.
+Two lovin' arms that will never let me go.
+One good man that I can count on.
+It shouldn't be so hard.
+Finding one honest heart.
+
+Now I've been close a time or two.
+I thought I saw my dreams comin' true.
+But I was just livin' in a fairy tale.
+I won't play the fool again.
+I won't play a game that I can't win.
+But I still have faith and I keep tellin' myself. There's...
+
+One honest heart.
+That I can believe in.
+Two lovin' arms that will never let me go.
+One good man that I can count on.
+It shouldn't be so hard.
+Finding one honest heart.
+
+I don't think I'm asking too much.
+Just once in my life I want to be touched by...
+
+One honest heart.
+That I can believe in.
+Two lovin' arms that will never let me go.
+One good man that I can count on.
+It shouldn't be so hard.
+Finding one honest heart.
+
+One good man.
+
+One honest heart.
+That I can believe in.
+Two lovin' arms that will never let me go.
+One good man that I can count on.
+It shouldn't be so hard.
+Finding one honest heart.
+
+One honest heart.
+
+One honest heart.
+That I can believe in.
+Two lovin' arms that will never let me go.
+One good man that I can count on.
+It shouldn't be so hard.
+Finding one honest heart.
+
+One good man, one honest heart.
+
+
 

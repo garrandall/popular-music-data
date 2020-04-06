@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: already-gone-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/alreadygone.html
 name: Already Gone
 rankings:
 - end_date: '2008-10-17'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
 ---
+
+My Mama mapped out the road that she knows
+Which hands you shake and which hands you hold
+In my hand-me-down Mercury, ready to roll
+She knew that I had to go
+And hang out, make lots of noise
+And lay out late with a boy
+Make the mistakes that she made 'cause she knew all along
+
+I was already gone
+I was already gone
+I was already gone
+Life is a runaway train you can't wait to jump on
+
+They say the first time won't ever last
+But that didn't stop me. the first time he laughed
+All my friends tried to warn me the day that we met
+"Girl, don't you lose your heart yet"
+But his dark eyes dared me with danger
+And sparks fly like flame to a paper
+Fire in his touch burning me up, but still I held on
+
+'cause I was already gone
+I was already gone
+I was already gone
+Life is a runaway train you can't wait to jump on
+
+The last time I saw him, we packed up my things
+And he smiled like the first time he told me his name
+And we cried with each other
+We split the blame for the parts that we couldn't change
+Pictures, dishes and socks
+It's our whole life down to one box There he was waving goodbye on the front porch alone
+
+But I was already gone
+I was already gone
+I was already gone
+I was already gone
+I was already gone
+Hang out, make lots of noise
+And lay out late with a boy
+Make the mistakes that she made, life is a runaway train
+
+His dark eyes dared me with danger
+And sparks fly like flame to a paper, Fire in his touch
+Life is a runaway train you can't wait to jump on
+
+My mama mapped out the road that she knows
+Which hands to shake, which hands you hold
+In my hand-me-down Mercury
+Life is a runaway train you can't wait to jump on
+
+
 

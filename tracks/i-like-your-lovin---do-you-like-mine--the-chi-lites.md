@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-your-lovin---do-you-like-mine--the-chi-lites
+lyrics_url: https://www.azlyrics.com/lyrics/chilites/ilikeyourlovindoyoulikemine.html
 name: I Like Your Lovin' (Do You Like Mine)
 rankings:
 - end_date: '1970-08-21'
@@ -31,4 +32,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
 ---
+
+Friends of mine try to change
+My mind about loving you
+They say I made a bad mistake
+
+So I stop (stop) and I listen
+Giving up just ain't no way
+
+I'm like a man stranded on an island
+Where's the nobody but me and you
+Oh, it just couldn't be no better
+I'd like to live here forever
+
+And I just got to tell you
+And I just got to tell you
+I just got to tell you
+Never gonna let you go
+
+I like your loving, do you like mine
+I like your loving, do you like mine
+I like your loving, do you like mine
+I like your loving, do you like mine
+
+I'm like a man stranded on an island
+Well, there ain't nobody there
+But me and you, no, no
+Oh, it just couldn't be no better
+I'd like to live here forever
+
+And I just got to tell you
+And I just got to tell you
+And I just got to tell you
+Never gonna let you go
+...
+
+
 

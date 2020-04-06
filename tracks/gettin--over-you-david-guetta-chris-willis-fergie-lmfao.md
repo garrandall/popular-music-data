@@ -7,6 +7,7 @@ features:
 - LMFAO
 genres: []
 key: gettin--over-you-david-guetta-chris-willis-fergie-lmfao
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/gettinoveryou.html
 name: Gettin' Over You
 rankings:
 - end_date: '2010-05-21'
@@ -90,4 +91,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
 ---
+
+
+All the things I know right now
+If I only knew back then
+There's no gettin' over
+No gettin' over
+There's just no gettin' over you.
+
+
+Wish I could spin my world into reverse, just to have you back again
+There's no gettin' over
+There's no gettin' over
+There's just no gettin' over you (you)!
+
+
+We're back
+Hey hey I can't forget you baby
+I think about you everyday
+I tried to mascarate the pain
+Thats why I'm next on the booth
+D-d-d dance to the groove
+There is no there is no getting over you.
+Baby it feels so right
+To dance to the beat up night
+The heat between you and I retreat to the morning light
+We like to live like class
+And pour them shots up in the glass
+But there is no, there is no getting over you.
+I'm a party, and party and party and party...
+And party and party and party...
+I'm a party, and party and party and party...
+And party and party and party...
+
+
+All the things I know right now
+If I only knew back then
+There's no gettin' over
+There's just no gettin' over you.
+
+
+Wish I could spin my world into reverse, just to have you back again
+There's no gettin' over
+There's no gettin' over
+There's just no gettin' over you (you)!
+
+
+I'm a party, and party and party and party...
+And party and party and party...
+I'm a party, and party and party and party...
+And party and party and party...
+
+
+People in the place
+If you ever felt love
+Then you know what I'm talking about
+There is no gettin' over
+Aaaaaahhhhhh
+
+
+I'm a party, and party and party and party...
+And party and party and party...
+I'm a party, and party and party and party...
+And party and party and party...
+
+
 

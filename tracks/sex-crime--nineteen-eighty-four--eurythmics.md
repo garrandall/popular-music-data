@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sex-crime--nineteen-eighty-four--eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/sexcrimenineteeneightyfour.html
 name: Sex Crime (Nineteen Eighty-Four)
 rankings:
 - end_date: '1984-11-30'
@@ -23,4 +24,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+
+Sex crime, crime
+Can I take this for granted
+With your eyes over me?
+In this place, this wintery home
+I know there's always someone in
+
+Sex crime, sex crime
+Nineteen eighty four
+Nineteen eighty four
+
+And so I face the wall
+Turn my back against it all
+How I wish I'd been unborn
+Wish I was unliving here
+
+Sex crime, sex crime
+Sex crime, sex crime
+Nineteen eighty four
+Nineteen eighty four
+
+I'll pull the bricks down
+One by one
+Leave a big hole in the wall
+Just where you are looking in
+
+Sex crime, sex crime
+Nineteen eighty four
+Nineteen eighty four
+Nineteen eighty four
+...
+
+
 

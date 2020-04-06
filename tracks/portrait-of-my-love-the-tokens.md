@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: portrait-of-my-love-the-tokens
+lyrics_url: https://www.azlyrics.com/lyrics/tokens/portraitofmylove.html
 name: Portrait Of My Love
 rankings:
 - end_date: '1967-04-21'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+
+There could never be
+A portrait of my love
+For nobody can paint a dream
+You will never see
+A portrait of my love
+For miracles are never seen
+
+Anyone who sees her
+Soon forget the Mona Lisa
+It would take I know, a Michaelangelo
+And he would need the glow of dawn
+That paints the skies above
+To try and paint a portrait of my love
+
+Anyone who sees her
+Soon forget the Mona Lisa
+It would take I know, a Michaelangelo
+And he would need the glow of dawn
+That paints the skies above
+To try and paint a portrait of my love
+
+To try and paint a portrait of my love
+Love
+Love...
+
+
 

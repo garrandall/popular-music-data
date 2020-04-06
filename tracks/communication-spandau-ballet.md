@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: communication-spandau-ballet
+lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/communication.html
 name: Communication
 rankings:
 - end_date: '1984-04-06'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+
+Communication always leaves me incomplete,
+The grass is greener, but it's grown beneath my feet...
+Love inspiration is a message on a wing,
+But I have left it in the words you'll never sing...
+
+Communication let me down,
+And I'm left here
+Communication let me down,
+And I'm left here, I'm left here again!
+
+Telex or tell me, but it's always second-hand,
+I'm incognito but no rendezvous's been planned...
+Dictate or relay, I could send it to your home,
+"Return to Sender" - I could sing it down the phone!
+
+Communication let me down,
+But I'm left here
+Communication let me down,
+But I'm left here, I'm left here, I, I, I...
+
+(Dictate!)
+(Relay!)
+
+I'm sitting here, waiting by the telephone,
+Waiting for the bell to ring,
+Short change, fumble,
+Dial-a-heart trouble,
+And I ain't got time for searching through the rubble, oh no!
+Well, I know-oh-oh-oh-oh-oh-oh!
+
+Communication let me down,
+And I'm left here
+Communication let me down
+And I'm left here, I'm left here, I, I, I...
+
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+(I'm a-left a-here-oh!)
+
+
 

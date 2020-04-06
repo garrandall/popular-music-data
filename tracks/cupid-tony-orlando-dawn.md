@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cupid-tony-orlando-dawn
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/cupid.html
 name: Cupid
 rankings:
 - end_date: '1976-02-13'
@@ -44,4 +45,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
+
+Cupid draw back your bow
+And let your arrow go
+Straight to my lover's heart for me
+
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now I don't mean to bother you but I'm in a mess
+There's danger of me losing all of my happiness
+For I love a girl who doesn't know I exist
+And this you can fix
+
+So...
+
+Cupid draw back your bow
+And let your arrow go
+Straight to my lover's heart for me
+
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Cupid with your arrow make a love storm for me
+I promise I will lover her until eternity
+I know between the two of us her heart we can steal
+Help me if you will
+
+Cupid draw back your bow
+And let your arrow go
+Straight to my lover's heart for me
+
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Cupid, don't you hear me
+Calling you
+I need you
+Cupid
+Help me
+
+
 

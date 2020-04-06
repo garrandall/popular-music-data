@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-shook-me-all-night-long-ac-dc
+lyrics_url: https://www.azlyrics.com/lyrics/acdc/youshookmeallnightlong.html
 name: You Shook Me All Night Long
 rankings:
 - end_date: '1980-09-12'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
 ---
+
+She was a fast machine she kept her motor clean
+She was the best damn woman that I ever seen
+She had the sightless eyes telling me no lies
+Knocking me out with those American thighs
+Taking more than her share
+Had me fighting for air
+She told me to come but I was already there
+Cause the walls start shaking
+The earth was quaking
+My mind was aching
+And we were making it
+And you shook me all night long
+Yeah you shook me all night long
+
+I'm working double time on the seduction line
+She's one of a kind she's just mine all mine
+Wanted no applause it's just another course
+Made a meal outta me
+And come back for more
+Had to cool me down to take another round
+Now I'm back in the ring to take another swing
+Cause the walls were shaking the earth was quaking
+My mind was aching
+And we were making it
+
+And you shook me all night long
+Yeah you shook me all night long
+Knocked me out I said you
+Shook me all night long
+You had me shaking and you
+Shook me all night long
+Yeah you shook me
+When you took me
+
+You really took me and you
+Shook me all night long
+You shook me all night long
+Yeah, yeah, you shook me all night long
+You really got me and you
+Shook me all night long
+Yeah you shook me
+Yeah you shook me
+All night long
+
+
 

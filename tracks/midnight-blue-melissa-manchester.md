@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-blue-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/midnightblue.html
 name: Midnight Blue
 rankings:
 - end_date: '1975-05-16'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
+
+Whatever it is, it'll keep till the morning
+Haven't we both got better things to do?
+Midnight blue
+Even the simple things become rough
+Haven't we had enough?
+
+And I think we can make it
+One more time
+If we try
+One more time for all the old times
+
+For all of the times you told me you need me
+Needing me now is something I could use
+Midnight blue
+Wouldn't you give your hand to a friend?
+Maybe it's not the end
+
+And I think we can make it
+One more time
+If we try
+One more time for all the old times
+Midnight blue
+
+I think we can make it
+I think we can make it
+Oh, wouldn't you give your heart to a friend?
+Think of me as your friend
+
+And I think we can make it
+One more time
+If we try
+One more time for all of the old, old times
+
+One more time
+I think we can make it
+If we try
+I think we can make it
+If we try
+Looks like we're gonna make it
+Looks like we're gonna make it
+If we try
+I think we can make it
+...
+
+
 

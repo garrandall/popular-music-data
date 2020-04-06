@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-on-the-corner-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/downonthecorner.html
 name: Down On The Corner
 rankings:
 - end_date: '1969-10-31'
@@ -67,4 +68,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+
+Early in the evenin' just about supper time
+Over by the courthouse they're starting to unwind
+Four kids on the corner trying to bring you up
+Willy picks a tune out and he blows it on the harp
+
+
+Down on the corner, out in the street
+Willy and the Poorboys are playin'
+Bring a nickel; tap your feet
+
+Rooster hits the washboard and people just got to smile
+Blinky, thumps the gut bass and solos for a while
+Poorboy twangs the rhythm out on his kalamazoo
+Willy goes into a dance and doubles on kazoo
+
+
+
+
+
+You don't need a penny just to hang around
+But if you've got a nickel, won't you lay your money down?
+Over on the corner there's a happy noise
+People come from all around to watch the magic boy
+
+
+
+
+
+
 

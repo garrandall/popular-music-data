@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southern-comfort-zone-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/southerncomfortzone.html
 name: Southern Comfort Zone
 rankings:
 - end_date: '2012-10-26'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
 ---
+
+When your wheelhouse is the land of cotton,
+The first time you leave it can be strange, it can be shocking
+
+Not everybody drives a truck, not everybody drinks sweet tea
+Not everybody owns a gun, wears a ball cap boots and jeans
+Not everybody goes to church or watches every NASCAR race
+Not everybody knows the words to "Ring Of Fire" or "Amazing Grace"
+
+
+Oh, Dixie Land,
+I hope you understand
+When I miss my Tennessee Home
+And I've been away way too long
+I can't see this world unless I go
+Outside my Southern Comfort Zone
+
+I have walked the streets of Rome, I have been to foreign lands
+I know what it's like to talk and have nobody understand
+I have seen the Eiffel Tower lit up on a Paris night
+I have kissed a West Coast girl underneath the Northern Lights
+I know what it's like to be the only one like me,
+To take a good hard look around and be a minority
+
+And I Miss my Tennessee home
+I can see the ways that I grown
+I can't see this world unless I go
+Outside my Southern Comfort Zone
+
+I miss your biscuits and your gravy
+Fireflies dancing in the night
+You have fed me, You have saved me
+Billy Graham and Martha White
+
+I have since become a drifter
+And I just can't wait to pack
+Cause I know the route I leave on
+It will always bring me back
+
+
+
+
+I wish I was in Dixie Again
+I miss my Tennessee Home
+I've been away way too long
+I can't see this world unless I go
+Outside My Southern Comfort Zone
+
+Look away, look away
+
+I wish I was in Dixie, away, look away
+
+
 

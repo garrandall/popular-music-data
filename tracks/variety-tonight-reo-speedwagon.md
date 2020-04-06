@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: variety-tonight-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/varietytonight.html
 name: Variety Tonight
 rankings:
 - end_date: '1987-05-15'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
 ---
+
+If ever you think you miss the thrill of the chase
+Or just get tired of the same old face
+I can be different honey, I can be new
+Want someone else, I can be that too
+
+
+Whoa-oh, gonna make you feel right, honey if you want it, variety tonight
+Whoa-oh, gonna make you feel right, honey you got it, variety tonight
+
+The faces of love have their smiles and frowns
+And every romance has its ups and downs
+There are cases when love has been less than sweet
+Love without hate is a little like light without heat
+
+
+
+And the fire will fade if you forget it
+'Cause love can't live unless you let it
+Whoa, you gotta try just a little harder with the passin' days
+You got to find some new ways, ow!
+
+
+
+ repeats out...
+
+
 

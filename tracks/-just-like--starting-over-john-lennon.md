@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -just-like--starting-over-john-lennon
+lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/justlikestartingover.html
 name: (Just Like) Starting Over
 rankings:
 - end_date: '1980-11-07'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
 ---
+
+Our life together is so precious together,
+We have grown - we have grown,
+Although our love is still special,
+Let's take our chance and fly away somewhere alone,
+
+It's been so long since we took the time,
+No-one's to blame,
+I know time flies so quickly,
+But when I see you darling,
+It's like we both are falling in love again,
+It'll be just like starting over - starting over,
+
+Everyday we used to make it love,
+Why can't we be making love nice and easy,
+It's time to spread our wings and fly,
+Don't let another day go by my love,
+It'll be just like starting over - starting over,
+
+Why don't we take off alone,
+Take a trip somewhere far, far away,
+We'll be together all alone again,
+Like we used to in the early days,
+Well, well, darling,
+
+It's been so long since we took the time,
+No-one's to blame,
+I know time flies so quickly,
+But when I see you darling,
+It's like we both are falling in love again,
+It'll be just like starting over - starting over,
+
+Our life together is so precious together,
+We have grown - we have grown,
+Although our love is still special,
+Let's take a chance and fly away somewhere alone.
+
+
 

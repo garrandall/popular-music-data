@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mad-season-matchbox-twenty
+lyrics_url: https://www.azlyrics.com/lyrics/matchbox20/madseason.html
 name: Mad Season
 rankings:
 - end_date: '2001-05-11'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
 ---
+
+I feel stupid, but I know it won't last for long
+And I've been guessin', and I coulda been guessin' wrong
+You don't know me now, I kinda thought that you should somehow
+Has that whole mad season got ya down?
+
+Well, I feel stupid but it's something that comes and goes
+And I've been changin', I think it's funny how no one knows
+We don't talk about, the little things that we do without
+When that whole mad season comes around
+
+So why ya gotta stand there
+Looking like the answer now?
+It seems to me, you'd come around
+I need you now
+
+Do you think you can cope? You figured me out?
+That I'm lost and I'm hopeless
+I'm bleeding and broken though I've never spoken
+I come undone in this mad season
+
+I feel stupid, but I think I've been catchin' on
+I feel ugly, but I know I still turn you on
+You've grown colder now, torn apart, angry, turned around
+Will that whole mad season knock you down?
+
+So are you gonna stand there?
+Or are you gonna help me out?
+We need to be together now
+I need you now
+
+Do you think you can cope? You figured me out?
+That I'm lost and I'm hopeless
+I'm bleeding and broken though I've never spoken
+I come undone in this mad season
+
+Now I'm cryin', isn't that what you want?
+I'm tryin' to live my life on my own, but I won't, no
+At times, I can believe I am strong
+So someone tell me
+
+Why, why, why do I, I, I feel stupid?
+And I come undone
+Well I come undone
+I need you now
+
+Do you think you can cope? You figured me out?
+That I'm lost and I'm hopeless
+I'm bleeding and broken though I've never spoken
+Well I need you now
+
+Do you think you can cope? You figured me out?
+I'm a child and I'm hopeless
+I'm bleeding and broken though I've never spoken
+I come, oh I come undone
+
+In this mad season
+In this mad season
+It's been a mad season
+Been a mad season
+
+
 

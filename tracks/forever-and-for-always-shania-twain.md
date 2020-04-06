@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-and-for-always-shania-twain
+lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/foreverandforalways.html
 name: Forever And For Always
 rankings:
 - end_date: '2003-05-30'
@@ -99,4 +100,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
 ---
+
+In your arms I can still feel the way you
+Want me when you hold me
+I can still hear the words you whispered
+When you told me
+I can stay right here forever in your arms
+
+And there ain't no way
+I'm lettin' you go now
+And there ain't no way
+And there ain't no how
+I'll never see that day
+
+
+'Cause I'm keeping you
+Forever and for always
+We will be together all of our days
+Wanna wake up every
+Morning to your sweet face - always
+
+Mmmm, baby
+In your heart - I can still hear
+A beat for every time you kiss me
+And when we're apart
+I know how much you miss me
+I can feel your love for me in your heart
+
+And there ain't no way
+I'm lettin' you go now
+And there ain't no way
+And there ain't no how
+I'll never see that day
+
+'Cause I'm keeping you
+Forever and for always
+We will be together all of our days
+Wanna wake up every
+Morning to your sweet face - always
+
+(I wanna wake up every morning)
+
+In your eyes - (I can still see
+The look of the one) I can still see
+The look of the one who really loves me
+(I can still feel the way that you want)
+The one who wouldn't put anything
+Else in the world above me
+(I can still see love for me) I can
+Still see your love for me in your eyes
+(I still see the love)
+
+And there ain't no way
+I'm lettin' you go now
+And there ain't no way
+And there ain't no how
+I'll never see that day
+
+Cause I'm keeping you forever and for always
+We will be together all of our days
+Wanna wake up every morning to your sweet face
+I'm keeping you forever and for always
+We will be together all of our days
+Wanna wake up every morning to your sweet face
+I'm keeping you forever and for always
+I'm in your arms
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-me-when-we-re-dancing-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/touchmewhenweredancing.html
 name: Touch Me When We're Dancing
 rankings:
 - end_date: '1981-06-26'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+
+Play us a song we can slow dance on
+We want to hold each other
+Play us a groove so we hardly move
+Just let our hearts beat together
+Oh, baby, 'cause it feel so good
+When we're close like this
+Whisper in my ear and let me steal a kiss
+
+
+Come on and touch me
+When we're dancing
+You know you've got that loving touch
+Touch me when we're dancing
+I want to feel you when I'm falling in love
+
+Tonight's the night and it feels so right
+My heart is saying it to me
+You're the one I've waited for so long
+So let your love flow through me
+Oh, baby, 'cause it feels so good
+Just to be this close
+You've got me up so high
+I could fly coast to coast
+
+
+
+
 

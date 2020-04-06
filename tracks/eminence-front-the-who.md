@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eminence-front-the-who
+lyrics_url: https://www.azlyrics.com/lyrics/who/eminencefront.html
 name: Eminence Front
 rankings:
 - end_date: '1982-12-31'
@@ -31,4 +32,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+
+The sun shines
+And people forget
+The spray flies as the speedboat glides
+And people forget
+Forget they're hiding
+The girls smile
+And people forget
+The snow packs as the skier tracks
+And people forget
+Forget they're hiding
+
+Behind an eminence front
+Eminence front - It's a put on
+It's an Eminence front
+It's an Eminence front - It's a put on
+An Eminence front
+Eminence front - It's a put on
+Eminence front
+It's an Eminence front
+It's an Eminence front - It's a put on
+It's a put on
+It's a put on
+It's a put on
+
+Come and join the party
+Dress to kill
+Won't you come and join the party
+Dress to kill
+Dress to kill
+
+The drinks flow
+People forget
+That big wheel spins, the hair thins
+People forget
+Forget they're hiding
+The news slows
+People forget
+The shares crash, hopes are dashed
+People forget
+Forget they're hiding
+
+Behind an eminence front
+An Eminence front - it's a put on
+It's just an Eminence front
+An Eminence front - It's a put on
+An Eminence front
+An Eminence front- It's a put on
+Eminence front
+It's an Eminence front - It's a put on
+
+It's a put on
+It's a put on
+It's a put on
+
+Come on join the party
+Dress to
+Come on join the party
+Dress to
+Come on join the party
+Dress to
+Come on join the party
+Dress to kill
+Dress yourself to kill
+
+
 

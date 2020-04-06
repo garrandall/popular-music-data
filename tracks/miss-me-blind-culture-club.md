@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miss-me-blind-culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/missmeblind.html
 name: Miss Me Blind
 rankings:
 - end_date: '1984-03-09'
@@ -71,4 +72,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
 ---
+
+Miss me
+I know you'll miss me
+I know you'll miss me blind
+
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+
+Bet you got a good gun
+Bet you know how
+To have some fun and then
+You turn it around on me because
+I'm better than the rest of the men
+
+I say you'll miss me
+And you always do
+I say you'll miss me
+Now would I lie to you
+
+Now there's no need to demand
+Grab my golden hand
+I'll teach you and you'll never be sure
+If the way that you need
+Is too much like greed
+Decide if you are rich or you're poor
+
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+
+Bet you make the fool run
+Bet you know how
+To make it last forever
+But you know I'm never really sure
+If you're just kissing to be clever
+
+I say you'll miss me
+And you always do
+I say you'll miss me
+Now would I lie to you
+
+Now there's no need to demand
+Grab my golden hand
+I'll teach you and you'll never be sure
+If the way that you need
+Is too much like greed
+Decide if you are rich or you're poor
+
+Because this love
+That I have to give
+Must be better than that kind
+It can make you rich
+It can make you poor
+But i know that you'll miss me blind
+
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+
+Now there's no need to demand
+Grab my golden hand
+I'll teach you and you'll never be sure
+If the way that you need
+Is too much like greed
+Decide if you are rich or you're poor
+
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+I know you'll miss me
+I know you'll miss me
+I know you'll miss me blind
+
+
 

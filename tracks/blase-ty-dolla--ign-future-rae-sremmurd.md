@@ -6,6 +6,7 @@ features:
 - Rae Sremmurd
 genres: []
 key: blase-ty-dolla--ign-future-rae-sremmurd
+lyrics_url: https://www.azlyrics.com/lyrics/tydollasign/blas.html
 name: Blase
 rankings:
 - end_date: '2015-10-09'
@@ -81,4 +82,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
 ---
+
+
+You know what's going on
+Over there and over there, okay
+
+
+(Ordered up a hundred roses
+Need a benz like BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©)
+Ordered up a hundred bottles in the club like
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+Oh, BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+
+
+BlasÃ©, BlasÃ©, BlasÃ©, all I drink is Bombay
+When I'm with my niggas, I might drink that Henny
+Smoking Kush and pull it, motherfuck the police
+I ain't scared to die, on them dead homies
+Hit them licks, wh-whipping the bricks
+Still with the shit
+I'm young and I'm rich, young and I'm rich
+I got hoes nigga, I got hoes in different area codes, I think I'm Nate Dogg
+I started from the ground I'm that nigga now
+I stay with the loud, can you hear me now?
+And my bitch cold, She a centerfold
+Put her on a stand, and she never told
+
+
+(Ordered up a hundred roses
+Need a benz like BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©)
+Ordered up a hundred bottles in the club like
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+Oh, BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+
+
+I break the bank like an athlete, hon
+Shawty caught drunk, fucking up her new Louboutins
+If I let her in my Masi she might be a trending topic
+Before she gotta ride it, bust it, pop it, BlasÃ©, BlasÃ©
+Been spent your rent and I'm still blowing big faces
+Something 'bout them Ben Franklins make any bitch get naked
+Crew got the juice, bitch you don't need no chasers
+Ball on these niggas, I need knee replacements
+
+
+(Ordered up a hundred roses
+Need a benz like BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©)
+Ordered up a hundred bottles in the club like
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+Oh, BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+
+
+Sipping out the jug until I feel it in my body
+I was, uh, hoping you were salty when you saw me, keep a rowdy
+Scene around me, all we do is dip and dab
+Got twin turbos on twin turbos and them bitches really smash
+It's a 50/50 chance I might, get ya, get ya
+It's a 50/50 chance that these niggas didn't pitch in
+I'm pouring up 'til I can't no more
+I swear everything I see slow mo'
+
+
+(Ordered up a hundred roses
+Need a benz like BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©)
+Ordered up a hundred bottles in the club like
+BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+Whiping Maserati, skurr, skurr, skurr
+Oh, BlasÃ©, BlasÃ©, BlasÃ©, BlasÃ©
+
+
+Alcohol and chronic is all we want
+Alcohol and chronic is all we want
+Alcohol and chronic is all we want
+Alcohol and chronic is all we want
+Is all we want
+Is all we want
+Is all we want
+
+
 

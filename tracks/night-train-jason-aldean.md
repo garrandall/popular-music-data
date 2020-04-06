@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: night-train-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/nighttrain.html
 name: Night Train
 rankings:
 - end_date: '2012-11-09'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
 ---
+
+I've been thinkin' 'bout you all day baby
+Waitin' on that sun to go down
+Whatcha say I pick you up after work
+Slide over we slip out to the outskirts of town
+I got a blanket and a fifth of comfort
+A little something to knock off the edge
+It's supposed to get a little cool tonight
+Looks like I'm gonna have to hold you tight
+Yeah...
+
+
+About a mile off old mill road 
+That spot nobody knows
+We park the truck and we take off runnin'
+Hurry up, girl I hear it coming
+Got a moon and a billion stars
+Sound of steel and old boxcars
+The thought of you is driving me insane
+Come on baby, let's go listen to the night train
+
+Yeah, I hope it's gonna be a long one
+And if we're lucky it's movin' slow
+Wouldn't mind if it lasted all night
+Lyin' next to you on that hillside
+Let's go...
+
+
+About a mile off old mill road 
+That spot nobody knows
+We park the truck and we take off runnin'
+Hurry up, girl I hear it coming
+Got a moon and a billion stars
+Sound of steel and old boxcars
+The thought of you is driving me insane
+Come on baby, let's go listen to the night train
+Let's go listen to the night train
+
+
+About a mile off old mill road 
+That spot nobody knows
+We park the truck and we take off runnin'
+Hurry up, girl I hear it coming
+Got a moon and a billion stars
+Sound of steel and old boxcars
+The thought of you is driving me insane
+Come on baby, let's go listen to the night train
+Let's go listen to the night train
+
+
 

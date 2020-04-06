@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-complete-me-keyshia-cole
+lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/youcompleteme.html
 name: You Complete Me
 rankings:
 - end_date: '2009-02-27'
@@ -47,4 +48,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
 ---
+
+Can you hear me out there
+Have you ever had someone who loved you
+Never leave your side
+I know you'll be here
+Because you love me... yes you do
+
+I'm givin all my life and all my love... if you...
+Promise that you'll be here forever
+I'll give you all of me I'll give you everything
+If you promise you'll never leave me
+
+What my friends say don't matter
+You'll be right here from the start
+And I'll get on my knees
+I'll give you all of me
+If you never leave my side
+Because
+
+You love me
+You complete me
+You hold my heart in your hands
+And it's okay cause I trust that
+You'll be the best man that you can
+
+Baby you love me... oh yes you do... yea...
+
+And no matter what they ever say about you
+I'm gonna stay by your side
+Promise me no matter what they say about me
+That... you're gon' be here til the end of time
+Cause you held me down when no body was around
+And gave me all the love I need
+So give me more don't you ever leave
+Cause you complete me
+
+I know...
+You love me
+You complete me
+You hold my heart in your hands
+And it's okay cause I trust that
+You'll be the best man that you can
+
+Cause you...
+Give me my heart back
+Give me my love back baby
+I want it all
+Because it's never enough
+Give me my heart
+Give me my love back, baby
+I want it all
+Because
+It's never enough
+
+You love me
+You complete me
+You hold my heart in your hands
+And it's okay cause I trust that
+You'll be the best man that you can
+
+You love me
+You complete me
+You hold my heart in your hands
+And it's okay cause I trust that
+You'll be the best man that you can
+
+And it's okay...
+I know you do you... I know you do.
+Yes you do... I need you too... yeaahh. I love you baby (ohhh)
+
+
 

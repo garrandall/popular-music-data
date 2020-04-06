@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ruby-tuesday-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/rubytuesday.html
 name: Ruby Tuesday
 rankings:
 - end_date: '1967-01-27'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
 ---
+
+She would never say where she came from
+Yesterday don't matter if it's gone
+While the sun is bright
+Or in the darkest night
+No one knows
+She comes and goes
+Goodbye, Ruby Tuesday
+Who could hang a name on you?
+When you change with every new day
+Still I'm gonna miss you...
+Don't question why she needs to be so free
+She'll tell you it's the only way to be
+She just can't be chained
+To a life where nothing's gained
+And nothing's lost
+At such a cost
+Goodbye, Ruby Tuesday
+Who could hang a name on you?
+When you change with every new day
+Still I'm gonna miss you...
+There's no time to lose, I heard her say
+Catch your dreams before they slip away
+Dying all the time
+Lose your dreams
+And you will lose your mind.
+Ain't life unkind?
+Goodbye, Ruby Tuesday
+Who could hang a name on you?
+When you change with every new day
+Still I'm gonna miss you... [x2
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-race-is-on-george-jones
+lyrics_url: https://www.azlyrics.com/lyrics/georgejones/theraceison.html
 name: The Race Is On
 rankings:
 - end_date: '1965-01-29'
@@ -11,4 +12,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
 ---
+
+I feel tears wellin' up cold and deep inside
+Like my heart's sprung a big break
+And the stab of loneliness, sharp and painful
+That I may never shake
+Now you might say that I was taking it hard
+Since you wrote me off with a call
+But don't you wager that I'll hide the sorrow
+When I may break right down and bawl
+
+Now the race is on and here comes pride up the backstretch
+Heartaches are going to the inside
+My tears are holding back
+They're trying not to fall
+My heart's out of the running
+True love's scratched for another's sake
+The race is on and it looks like heartaches
+And the winner loses all
+
+One day I had ventured in love, never once suspecting
+What the final results would be
+How I lived in fear of waking up each morning
+And finding that you'd gone from me
+There's aching and pain in my heart
+For the day was the one that I hated to face
+Somebody new came up to win her
+And I came out in second place
+
+Now the race is on and here comes pride up the backstretch
+Heartaches are going to the inside
+My tears are holding back
+They're trying not to fall
+My heart's out of the running
+True love's scratched for another's sake
+The race is on and it looks like heartaches
+And the winner loses all
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-baby-loves-me-martha-the-vandellas
+lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/mybabylovesme.html
 name: My Baby Loves Me
 rankings:
 - end_date: '1966-01-28'
@@ -52,4 +53,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
 ---
+
+My baby loves me, oh yeah, my baby needs me, oh yeah
+No other guy can whisper sweet things in my ear
+My sweetie pie has the only sweet voice I hear, so clear
+
+Sayin' needs me, oh yeah, my baby loves me, oh yeah
+I'm tellin' you he needs me, oh yes, he does
+Can't seem to see no other handsome face
+There's just no cute substitute can take my baby's place
+
+'Cause I know he needs me, oh yeah
+I will never, ever give my baby no trouble
+Whenever he calls me I come runnin' on the double
+
+'Cause I know he loves me, oh yeah and he needs me, yes he does
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
+Now nobody can tell me the place where I'm goin' wrong, oh no
+Nobody could ever erase the love so strong
+
+'Cause I know he loves me, he told me that he needs me
+I know he loves me
+
+
 

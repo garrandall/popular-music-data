@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: marrakesh-express-crosby-stills-nash
+lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/marrakeshexpress.html
 name: Marrakesh Express
 rankings:
 - end_date: '1969-07-25'
@@ -41,4 +42,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
 ---
+
+
+
+Looking at the world through the sunset in your eyes
+Traveling the train through clear Moroccan skies
+Ducks and pigs and chickens call
+Animal carpet wall to wall
+American ladies five-foot tall in blue
+
+Sweeping cobwebs from the edges of my mind
+Had to get away to see what we could find
+Hope the days that lie ahead
+Bring us back to where they've led
+Listen not to what's been said to you
+
+Wouldn't you know we're riding on the Marrakesh Express
+Wouldn't you know we're riding on the Marrakesh Express
+They're taking me to Marrakesh
+All aboard the train, all aboard the train
+
+I've been saving all my money just to take you there
+I smell the garden in your hair
+
+Take the train from Casablanca going south
+Blowing smoke rings from the corners of my mouth
+Colored cottons hang in the air
+Charming cobras in the square
+Striped djellebas we can wear at home  Well, let me hear you now
+
+Wouldn't you know we're riding on the Marrakesh Express
+Wouldn't you know we're riding on the Marrakesh Express
+They're taking me to Marrakesh
+
+Wouldn't you know we're riding on the Marrakesh Express
+Wouldn't you know we're riding on the Marrakesh Express
+They're taking me to Marrakesh
+All on board the train, all on board the train
+All on board
+
+
+
+
 

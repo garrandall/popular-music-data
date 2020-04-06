@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaway-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/runaway.html
 name: Runaway
 rankings:
 - end_date: '1961-03-12'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
 ---
+
+As I walk along, I wonder
+A-what went wrong with our love
+A love that was so strong
+
+And as I still walk on, I think of
+The things we've done together
+While our hearts were young
+
+I'm a-walkin' in the rain
+Tears are fallin' and I feel the pain
+Wishin' you were here by me
+To end this misery
+
+I wonder
+I wah-wah-wah-wah-wonder
+Why
+Why, why, why, why, why
+She ran away
+
+And I wonder
+Where she will stay
+My little runaway
+A-run, run, run, run, runaway
+
+I'm a-walkin' in the rain
+Tears are fallin' and I feel the pain
+Wishin' you were here by me
+To end this misery
+
+And I wonder
+I wah-wah-wah-wah-wonder
+Why
+Why, why, why, why, why
+She ran away
+
+And I wonder
+Where she will stay
+My little runaway
+A-run, run, run, run, runaway
+A-run, run, run, run, runaway
+A-run, run, run, run, runaway
+
+
 

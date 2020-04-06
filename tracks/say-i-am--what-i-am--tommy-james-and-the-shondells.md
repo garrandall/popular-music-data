@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-i-am--what-i-am--tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/sayiamwhatiam.html
 name: Say I Am (What I Am)
 rankings:
 - end_date: '1966-08-12'
@@ -39,4 +40,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+
+If you're looking for a loving man
+A loving man, say, say I am
+If you're looking for a hugging man
+A hugging man, say, say I am
+If you're looking for a kissing man
+A kissing man, say, say, I am
+
+Well, if you're looking for a dancing man
+A dancing man, say, say I am
+
+Oh, yeah!
+Shake this baby up, come on and
+Shake this baby up, come on and
+Shake this baby up, come on and
+Shake this baby up, come on and
+Shake this baby up, whoa, yeah
+Shake this baby up, look out
+Shake this baby up, come on and
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, hey, shake
+
+If you're looking for a loving man
+A loving man, say, say I am
+If you're looking for a hugging man
+A hugging man, say, say I am
+If you're looking for a kissing man
+A kissing man, say, say, I am
+
+Well, if you're looking for a dancing man
+A dancing man, say, say I am
+
+Oh, yeah!
+Shake this baby up, come on and
+Shake this baby up, come on and
+Shake this baby up, whoa, yeah
+Shake this baby up, come on and
+Shake this baby up, come on and
+Shake this baby up, whoa, yeah
+Shake this baby up, come on and
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake, shake
+Shake, shake, shake
+
+
 

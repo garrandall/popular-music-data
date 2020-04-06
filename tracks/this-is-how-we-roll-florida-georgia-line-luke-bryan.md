@@ -5,6 +5,7 @@ features:
 - Luke Bryan
 genres: []
 key: this-is-how-we-roll-florida-georgia-line-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/thisishowweroll.html
 name: This Is How We Roll
 rankings:
 - end_date: '2013-12-20'
@@ -120,4 +121,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
 ---
+
+The mixtape's got a little Hank, little Drake
+A little something bumping, thumb-thumping on the wheel ride
+The mix in our drink's a little stronger than you think
+So get a grip, take a sip of that feel right
+The truck's jacked up, flat bills flipped back
+Yeah, you can find us where the party's at
+
+This is how we roll
+We hanging 'round singing out everything on the radio
+We light it up with our hands up
+This is how we roll
+This is how we do
+We're burning down the night shooting bullets at the moon, baby
+This is how we roll
+
+Yeah, baby, this is how we roll
+We rollin' into town
+With nothing else to do we take another lap around
+Yeah, holler at your boy if you need a ride
+Let's go
+If you roll with me, yeah, you know we rollin' high
+Up on them 37 Nittos, windows tinted hard to see though
+How fresh my baby is in the shotgun seat, oh
+Damn!
+Them kisses are for me though,
+Automatic like a free throw
+This life I live it might not be for you
+But it's for me though
+Let's roll!
+
+This is how we roll
+We hanging round singing out everything on the radio
+We light it up with our hands up
+This is how we roll
+This is how we do
+When the world turns ugly I just turn and look at you, baby
+This is how we roll
+
+LB, go on sing it to 'em!
+
+
+Yeah, we're proud to be young
+We stick to our guns
+We love who we love and we wanna have fun
+Yeah, we cuss on them Mondays
+And pray on them Sundays
+Pass it around and we dream about one day
+
+'Cause this is how we roll
+Come ya'll
+We hanging 'round singing out everything on the radio
+Get your hands up, get your hands up, get your hands up
+We light it up with our hands up
+
+This is how we roll
+This is how we ride
+We slingin' up the mud, cuttin' through the countryside,
+Baby, this is how we roll
+
+Yeah, this is how we roll
+This is how we roll
+Yeah, baby
+Yeah, LB
+Let's go
+
+Yeah, this is how we roll
+This is how we do
+We're burning down the night shooting bullets at the moon,
+Baby, this is how we roll
+BK, Tyler, LB, baby
+One more time
+Let's go
+Yeah, this is how we roll
+
+
 

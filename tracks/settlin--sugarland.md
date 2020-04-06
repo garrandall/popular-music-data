@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: settlin--sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/settlin.html
 name: Settlin'
 rankings:
 - end_date: '2007-02-23'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
 ---
+
+Fifteen minutes left to throw me together
+For mister right now, not mister forever
+Don't know why I even try when I know how it ends
+Looking like another "maybe we could be friends"
+I've been leaving it up to fate
+It's my life so it's mine to make
+
+I ain't settling for just getting by
+I've had enough so so for the rest of my life
+Tired of shooting too low, so raise the bar high
+Just enough ain't enough this time
+I ain't settling for anything less than everything, yeah
+
+With some good red wine and my brand new shoes
+Gonna dance a blue streak around my living room
+Take a chance on love and try how it feels
+With my heart wide open now you know I will
+Find what it means to be the girl
+Who changed her mind and changed her world
+
+I ain't settling for just getting by
+I've had enough so so for the rest of my life
+Tired of shooting too low, so raise the bar high
+Just enough ain't enough this time
+I ain't settling for anything less than everything
+
+I ain't settling for just getting by
+I've had enough so so for the rest of my life
+Tired of shooting too low, so raise the bar high
+Just enough ain't enough this time
+
+I ain't settling for just getting by
+I've had enough so so for the rest of my life
+Tired of shooting too low, so raise the bar high
+I ain't settling no, no, no, no, no, no
+
+So raise the bar high
+
+
 

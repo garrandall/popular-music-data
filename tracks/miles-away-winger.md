@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miles-away-winger
+lyrics_url: https://www.azlyrics.com/lyrics/winger/milesaway.html
 name: Miles Away
 rankings:
 - end_date: '1990-10-19'
@@ -95,4 +96,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
 ---
+
+So this is love
+Or so you tell me
+As you're walkin
+Out the door
+The months go by
+And I know for certain
+It's not the love
+I'm looking for
+
+But sometimes
+Just for a moment
+I reach out
+Hope you're still there
+
+Miles away
+No you're never turning back
+And I just can't wait anymore
+Miles away
+Nothing left of what we had
+Just when I needed you most
+You were miles away
+
+It's hard to tell
+What you're going through
+You kept your feelings locked inside of you
+Open your heart and chances are
+What you're feeling
+I'm feeling too
+
+If only just for a moment
+Hold on to the dreams that we had
+
+Miles away
+No you're never turning back
+And I just can't wait anymore
+Miles away
+Nothing left of what we had
+Just when I needed you most
+You were miles away
+
+When times were tough
+And you were down and out
+Who was there by your side
+But now you're gone
+And I'm so tired of being alone
+With only your promises
+
+The loneliness just fades away
+Thoughts of you just memories
+No cryin out for what you're missing
+Time won't forget
+What you meant to me
+
+If only just for a moment
+Hold on to the dreams that we had...
+
+
 

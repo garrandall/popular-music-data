@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-there-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/onemorechance.html
 name: I'll Be There
 rankings:
 - end_date: '1970-09-25'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
 ---
+
+Everybody loves the star
+When hes on the top
+But noone ever comes around
+When he starts to drop
+
+But you were someone special
+You stuck through thick and thin
+But I was much too busy
+Trying to shine
+To let your love shine in
+
+Let you slip away
+I must have been insane
+Stop in the name of love
+Dont make me live my life in vain
+
+
+Give me one more chance
+Thats all I ask of you
+Just one more chance
+Ill make it up to you
+Just one more chance
+Thats all I ask of you
+Ill build you a world for two
+Ill make it up to you
+
+Now since Im all alone
+Im talking to myself
+I know youre out there somewhere
+Having fun with someone else
+
+But a distant voice of hope
+Echo from within, sayin
+(Dont give up)
+(Your ship is comin' in)
+
+Though my ships alone
+Ill play right to the end
+Im crying outside
+Heavens door
+Wont you let me back in
+
+Youll never know
+What Ive been through
+Let your love shine in again
+This time Ill shine with you
+
+
 

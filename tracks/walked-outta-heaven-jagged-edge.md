@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walked-outta-heaven-jagged-edge
+lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/walkedouttaheaven.html
 name: Walked Outta Heaven
 rankings:
 - end_date: '2003-09-12'
@@ -115,4 +116,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
 ---
+
+
+I'm rolling down a lonely highway asking god to please forgive me for messing up the blessing he gave to me, I see,
+Everything clearer now the nights is black as, black as its ever been
+Without my girl, I'm gonna lose it, I pray that he would just shed his grace on me, I need just to be back with my baby
+
+
+Feels like I just walked right out of heaven
+Feels like I have damn near thrown my life away, hey yea yea
+Scared, just like a child that's lost at seven
+Don't know what to do, get back right wit you
+Feels like I just walked right out of heaven
+Feels like I have damn near thrown my life away, hey yea yea
+Scared, just like a child that's lost at seven
+Don't know what to do, Feels like I just walk right out of heaven
+
+
+See my mama told me that's if its meant to be she'll come back and she'll forgive me and the best thing I can do it to just
+Let her, let her go I know, I don't wanna do it
+But if I continue to push she'll just pull away and I know that in my heart its a reality I didn't treat her like she wanted
+To be treated, and I hope that shes not gone for good no no
+
+
+
+
+Hey girl waiting for you all the time, suppose to move on with my life, and girl I tried and I tried
+I feel like I can't walk, I feel like I can't talk girl I don't know what to do get back right with you I feel like I just
+Walked outta heaven
+
+
+If u ever loved somebody, and if you ever had somebody, but you know that you hurt that somebody, let me here you say yea
+
+
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shop-around-captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/shoparound.html
 name: Shop Around
 rankings:
 - end_date: '1976-05-07'
@@ -72,4 +73,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
+
+Just because you've become a young woman now
+There's still some things that you don't understand now
+Before you ask some guy for his hand now
+Keep your freedom for as long as you can now
+My mama told me
+You better shop around
+
+There's some things that I want you to know now
+Just as sure as the wind's gonna blow now
+The men'll come and the men are gonna go now
+Before you tell 'em that you love 'em so now
+My mama told me
+You better shop around
+
+Try to get yourself a bargain, girl
+Don't be sold on the very first one
+Good-looking guys come a dime a dozen
+Try to find you one who's gonna give you true loving
+
+Before you take a man and say I do now
+Make sure he's in love with you now
+Make sure that his love is true now
+I hate to see you feeling sad and blue now
+My mama told me
+You better shop around
+
+
 

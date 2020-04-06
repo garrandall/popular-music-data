@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: africa-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/africa.html
 name: Africa
 rankings:
 - end_date: '1982-11-05'
@@ -91,4 +92,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
 ---
+
+I hear the drums echoing tonight
+But she hears only whispers of some quiet conversation
+She's coming in twelve-thirty flight
+Her moonlit wings reflect the stars that guide me towards salvation
+
+I stopped an old man along the way
+Hoping to find some old forgotten words or ancient melodies
+He turned to me as if to say
+"Hurry, boy, it's waiting there for you"
+
+It's gonna take a lot to drag me away from you
+There's nothing that a hundred men or more could ever do
+I bless the rains down in Africa
+Gonna take some time to do the things we never had
+
+The wild dogs cry out in the night
+As they grow restless longing for some solitary company
+I know that I must do what's right
+Sure as Kilimanjaro rises like Olympus above the Serengeti
+
+I seek to cure what's deep inside
+Frightened of this thing that I've become
+
+It's gonna take a lot to drag me away from you
+There's nothing that a hundred men or more could ever do
+I bless the rains down in Africa
+Gonna take some time to do the things we never had
+
+"Hurry, boy, she's waiting there for you"
+
+It's gonna take a lot to drag me away from you
+There's nothing that a hundred men or more could ever do
+I bless the rains down in Africa
+I bless the rains down in Africa
+I bless the rains down in Africa
+I bless the rains down in Africa
+I bless the rains down in Africa
+Gonna take some time to do the things we never had
+
+
 

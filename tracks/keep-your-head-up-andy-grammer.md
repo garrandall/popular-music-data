@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-head-up-andy-grammer
+lyrics_url: https://www.azlyrics.com/lyrics/andygrammer/keepyourheadup.html
 name: Keep Your Head Up
 rankings:
 - end_date: '2011-06-24'
@@ -87,4 +88,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
 ---
+
+I've been waiting on the sunset
+Bills on my mindset
+I can't deny they're getting high
+Higher than my income
+Income's bread crumbs
+I've been trying to survive
+
+The glow that the sun gets
+Right around sunset
+Helps me realize
+That this is just a journey
+Drop your worries
+You are gonna turn out fine.
+Oh, you turn out fine.
+Fine, oh, you turn out fine.
+
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+You gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+I know it's hard, know it's hard
+To remember sometimes,
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+I got my hands in my pockets,
+Kicking these rocks.
+It's kinda hard to watch this life go by.
+I'm buying into skeptics,
+Skeptics mess with
+The confidence in my eyes
+
+I'm seeing all the angles
+Thoughts get tangled
+I start to compromise
+My life and my purpose.
+Is it all worth it?
+Am I gonna turn out fine?
+Oh, you turn out fine.
+Fine, oh, you turn out fine.
+
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+You gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+I know it's hard, know it's hard,
+To remember sometimes,
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+Only rainbows after rain
+The sun will always come again.
+And it's a circle, circling,
+Around again, it comes around again.
+I said,
+
+Only rainbows after rain
+The sun will always come again.
+And it's a circle, circling,
+Around again, it comes around,
+
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+You gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+I know it's hard, know it's hard
+To remember sometimes,
+But you gotta keep your head up, oh,
+And you can let your hair down, eh.
+
+And keep your head up, oh,
+And you can let your hair down, eh.
+And keep your head up, oh,
+And you can let your hair down, eh.
+And keep your head up, oh,
+And you can let your hair down.
+I said oh, no, no, no, no, no
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sideways-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/sideways.html
 name: Sideways
 rankings:
 - end_date: '2009-04-24'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
 ---
+
+Hey girl, what's your name?
+It's so loud in here I can't hear a thing
+But I sure do like your style
+And I can see you came to rock
+In your blue jeans and white tank top
+Man that look drives me wild
+
+And it's hey now here we go
+DJ don't you play nothing slow
+Keep those girls out on the floor
+Gotta make them want to come back for more
+Been here since the sun went down
+Be here when it comes back around
+Worked all week it's time to play
+Gonna get a little bit sideways...
+Sideways
+
+Ain't no need to fight
+Y'all take that redneck stuff outside
+That's what parking lots are for
+Once you're out you ain't coming back
+The velvet rope ain't got no slack
+Man they're busting down the door!
+
+And it's hey now here we go
+DJ don't you play nothing slow
+Keep those girls out on the floor
+Gotta make 'em wanna come back for more
+Been here since the sun went down
+Be here when it comes back around
+Worked all week it's time to play
+Gonna get a little bit sideways...
+Sideways.
+
+That's right
+
+Hey now here we go
+(hey now here we go)
+DJ don't you play nothing slow
+Gotta make 'em wanna (what?)...
+Gotta make 'em wanna (what?)...
+Gotta make 'em wanna come back for more
+
+Hey now here we go
+DJ don't you play nothing slow
+Keep those girls out on the floor
+Gotta make 'em wanna come back for more
+Been here since the sun went down
+Be here when it comes back around
+Worked all week it's time to play
+Gonna get a little bit sideways (na na na na na)...
+Sideways... sideways... sideways
+
+Hey girl what's your name?
+It's so loud in here I can't hear a thing...
+
+
 

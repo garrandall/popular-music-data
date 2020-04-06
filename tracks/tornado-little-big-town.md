@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tornado-little-big-town
+lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/tornado.html
 name: Tornado
 rankings:
 - end_date: '2012-11-30'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
 ---
+
+Thought you'd change the weather
+Start a little storm
+Make a little rain
+But I'm gonna do one better hide the sun until you pray
+I'm a tornado looking for a soul to take
+
+You're gonna see me coming by the selfish things that you did
+I'm gonna leave you guessin' how this funnel is gonna hit
+I'm a tornado looking for a man to break
+
+Yeah, I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground
+Make sure you're never found
+
+Thought you'd take a swing
+Try another girl, try another night,
+But it's the pain that brings my force of nature back to life
+I'm a tornado more disturbed than an F5
+
+Hey, I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground
+I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground
+Make sure you're never found, oh, yeah
+
+OOOOOOOOOOO
+MMMMMMMMMM
+
+I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground
+I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground
+Make sure you're never found
+
+The winds are getting stronger
+And the sky is falling through
+And you ain't got much longer
+'Til the rage rips off the roof
+I'm a tornado... and I'm coming after you...
+
+Oooo...
+Hmm...
+Oooo...
+
+(I'm gonna lift this house, spin it all around
+Toss it in the air and put it in the ground)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daughters-john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/daughters.html
 name: Daughters
 rankings:
 - end_date: '2004-11-12'
@@ -99,4 +100,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
 ---
+
+I know a girl
+She puts the color inside of my world
+But she's just like a maze
+Where all of the walls all continually change
+And I've done all I can
+To stand on her steps with my heart in my hands
+Now I'm starting to see
+Maybe it's got nothing to do with me
+
+Fathers, be good to your daughters
+Daughters will love like you do
+Girls become lovers who turn into mothers
+So mothers, be good to your daughters too
+
+Oh, you see that skin?
+It's the same she's been standing in
+Since the day she saw him walking away
+Now she's left
+Cleaning up the mess he made
+
+So fathers, be good to your daughters
+Daughters will love like you do
+Girls become lovers who turn into mothers
+So mothers, be good to your daughters too
+
+Boys, you can break
+You find out how much they can take
+Boys will be strong
+And boys soldier on
+But boys would be gone without the warmth from
+A woman's good, good heart
+
+On behalf of every man
+Looking out for every girl
+You are the God and the weight of her world
+
+So fathers, be good to your daughters
+Daughters will love like you do
+Girls become lovers who turn into mothers
+So mothers, be good to your daughters too
+So mothers, be good to your daughters too
+So mothers, be good to your daughters too
+
+
 

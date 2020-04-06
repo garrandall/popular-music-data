@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-forever-rick-astley
+lyrics_url: https://www.azlyrics.com/lyrics/ninanesbitt/togetherforever.html
 name: Together Forever
 rankings:
 - end_date: '1988-04-22'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
 ---
+
+If there's anything you need
+All you have to do is say
+You know you satisfy everything in me
+We shouldn't waste a single day
+
+So don't stop me falling
+It's destiny calling
+A power I just can't deny
+And it's never changing
+"Can't you hear me?", I'm saying
+I want you for the rest of my life
+
+Together forever and never to part
+Together forever we two
+And don't you know I would move heaven and earth
+To be together forever with you
+
+If they ever get you down
+There's always something I can do
+Because I wouldn't ever wanna see you frown
+I'll always do what's best for you
+
+There ain't no mistaking
+It's true love we're making
+Something to last for all time
+And it's never changing
+"Can't you hear me?", I'm saying
+I want you for the rest of my life
+
+Together forever and never to part
+Together forever we two
+And don't you know I would move heaven and earth
+To be together forever with you
+
+And don't you know I would move heaven and earth
+To be together forever with you
+
+
 

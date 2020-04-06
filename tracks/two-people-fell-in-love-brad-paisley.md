@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-people-fell-in-love-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/twopeoplefellinlove.html
 name: Two People Fell In Love
 rankings:
 - end_date: '2001-05-04'
@@ -79,4 +80,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-08-25'
 ---
+
+A baby's born in the middle of the night in a local delivery room
+They grab his feet, smack him till he cries he goes home the next afternoon
+'Fore you know it he's off to school and then he graduates in May
+Goes out and gets a Ph.D. and then cures all sorts of things
+Wins a Nobel Prize and saves a million different lives
+The world's a better place for all he's done
+It's funny when you think about the reason he's alive
+It's all because two people fell in love
+
+Right now at a picnic shelter down by Caney Creek
+You'll find potato salad hot dogs and baked beans
+The whole Wilson family's lined up fillin' their paper plates
+They've drove or flown in here from fifteen different states
+Well Stanley Wilson says that sixty years ago he knew
+That Miss Emma Tucker was the one
+Now five generations get together every June
+All because two people fell in love
+
+
+There ain't nothin' not affected
+When two hearts get connected
+All that is, will be, or ever was
+Every single choice we make
+Every breath we get to take
+Is all because two people fell in love
+
+Well, I recall a young man who was driftin' aimlessly
+And a young waitress who seemed lonesome as could be
+But in a little cafÃ°Â³ right off of fourteenth avenue
+With a whole lotta help from up above
+We met and things sure turned around for me and you
+And all because two people fell in love
+
+
+Baby, there ain't nothin' not affected
+When two hearts get connected
+All that is, will be, or ever was
+I'm glad your dad could not resist
+Your mama's charms and you exist
+All because two people fell in love
+
+
+You know, to me it's all so clear
+Every one of us is here
+All because two people fell in love
+
+A baby's born in the middle of the night in a local delivery room
+They grab his feet, smack him till he cries he goes home the next afternoon
+
+
 

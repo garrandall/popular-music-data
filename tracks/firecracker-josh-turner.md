@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: firecracker-josh-turner
+lyrics_url: https://www.azlyrics.com/lyrics/joshturner/firecracker.html
 name: Firecracker
 rankings:
 - end_date: '2007-10-05'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
 ---
+
+Yeah
+
+When I look into her eyes
+It ain't no suprise
+Sparks start a flyin' like the 4th of July
+She gets me so hot my heart starts a pumpin'
+When we get to kissin' there ain't no stoppin'
+When it comes to love she ain't no slacker
+My little darlin' is a Firecracker
+
+When I light the fuse I gotta get back quick
+You gotta be careful with a dynamite stick
+Son of a gun she's fun to handle
+and she packs a punch like a roman candle
+She's a pack of black cats in a red paper wrapper
+My little darlin' is a Firecracker
+
+
+We might not oughta take a roll in the hay
+Cause we'll burn the barn down a one of these days
+We're a match made in Heaven and it ain't no joke
+But I'd sure hate to see it go up in smoke
+We gotta go thing goin' and if feels so right
+She's a Firecracker
+She's the light of my life
+
+She goes off with a great big bang
+Boys I tell ya' it's a beautiful thing
+When she takes off you better hang on tight
+She's a blonde bottle rocket in the middle of the night
+When she makes love she's a heartattacker
+My little darlin' is a Firecracker
+
+
+
+uhuh
+
+Yea, we gotta good thing going and it feels so right
+She's a Firecracker
+She's the light of my life
+
+We gotta good thing goin' and it feels so right
+She's a Firecracker
+She's the light of my life
+
+She's a Firecracker she's the light of my life
+
+Firecracker
+Firecracker
+
+Ooooooo
+
+Firecracker (sssssss)
+Firecracker
+
+Bang
+
+Firecracker
+Firecracker
+
+
 

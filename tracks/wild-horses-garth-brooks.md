@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-horses-garth-brooks
+lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/wildhorses.html
 name: Wild Horses
 rankings:
 - end_date: '2000-12-29'
@@ -63,4 +64,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
 ---
+
+From a phone booth in Cheyenne 
+I made a promise to Diane 
+No more rodeos 
+I'd gone my last go 'round 
+
+The same promise that I made 
+In San Antone and Santa Fe 
+But tonight I saddled up 
+And let her down 
+
+Wild horses keep draggin' me away 
+And I'll lose more than I'm gonna win someday 
+Wild horses just stay wild 
+And her heart is all I break 
+Wild horses keep draggin' me away 
+
+She'll watch me drive around her block 
+Gettin' courage up to stop 
+To make her one more promise 
+That I can't keep 
+
+The way I love the rodeo 
+I guess I should let her go 
+Before I hurt her more 
+Than she loves me 
+
+Wild horses keep draggin' me away 
+And I'll lose more than I'm gonna win someday 
+Wild horses just stay wild 
+And her heart is all I break 
+Wild horses keep draggin' me away
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-legs-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/orgy/hotlegs.html
 name: Hot Legs
 rankings:
 - end_date: '1978-02-17'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
 ---
+
+Who's that knocking on my door
+It's gotta be a quarter to four
+Is it you again coming 'round for more
+Well you can love me tonight if you want
+But in the morning make sure you're gone
+
+I'm talkin' to you
+Hot legs, wearing me out
+Hot legs, you can scream and shout
+Hot legs, are you still in school
+I love you honey
+
+Gotta most persuasive tongue
+You promise all kinds of fun
+But what you don't understand
+I'm a working man
+
+Gonna need a shot of vitamin E
+By the time you're finished with me
+
+I'm talking to you, Hot legs
+you're an alley cat
+Hot legs, you scratch my back
+Hot legs, bring your mother too
+I love you honey
+
+Imagine how my daddy felt
+in your jet black suspender belt
+Seventeen years old
+He's touching sixty four
+
+You got legs right up to your neck
+You're making me a physical wreck
+
+I'm talking to you
+Hot legs, in your satin shoes
+Hot legs, are you still in school
+Hot legs, you're making me a fool I love you honey
+Hot legs, making your mark
+Hot legs, keep my pencil sharp
+Hot legs, keep your hands to yourself
+I love you honey
+
+Hot legs, you're wearing me out
+Hot legs, you can scream and shout
+Hot legs, you're still in school
+I love you honey
+
+I hate you too,
+I hate you too.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-dancing-the-gentrys
+lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/keepondancing.html
 name: Keep On Dancing
 rankings:
 - end_date: '1965-09-17'
@@ -59,4 +60,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
 ---
+
+Keep on dancing
+Keep on doin' the jerk
+Shake it, shake it, baby
+Come on and show me how you work
+
+Now you're in motion
+I'm gonna do the locomotion, yeah
+Well, don't you hurry me away
+Shake it, shake it till the break of day
+
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+
+Keep on dancing
+Keep on doin' the jerk
+Shake it, shake it, baby
+Come on and show me how you work
+
+Now you're in motion
+I'm gonna do the locomotion, yeah
+Well, don't you hurry me away
+Shake it, shake it till the break of day
+
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+
+All right everybody! We wanna see y'all get up and dance
+We wanna see y'all havin' a real good time
+And now by popular demand
+Keep on dancin', dancin', dancin'
+
+Keep on dancing
+Keep on doin' the jerk
+Shake it, shake it, baby
+Come on and show me how you work
+
+Now you're in motion
+I'm gonna do the locomotion, yeah
+Well, don't you hurry me away
+Shake it, shake it till the break of day
+
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+Keep on dancin' and a prancin'
+...
+
+
 

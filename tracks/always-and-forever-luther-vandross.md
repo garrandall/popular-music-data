@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-and-forever-luther-vandross
+lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/alwaysandforever.html
 name: Always And Forever
 rankings:
 - end_date: '1994-12-16'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
 ---
+
+Always and forever
+Each moment with you
+Is just like a dream to me
+That somehow came true, yeah
+
+And I know tomorrow
+Will still be the same
+Cuz we got a life of love
+That won't ever change and
+
+ - Everyday love me your own special way
+Melt all my heart away with a smile
+Take time to tell me you really care
+And we'll share tomorrow together
+Ooh baby, I'll always love you forever
+
+Ever, ever, ever
+There'll always be sunshine
+When I look at you
+It's something I can't explain
+Just the things that you do
+If you get lonely
+Call me and take
+A second to give to me
+That magic you make and
+
+
+
+
+
+
 

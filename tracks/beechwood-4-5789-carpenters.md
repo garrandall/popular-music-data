@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beechwood-4-5789-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/beechwood45789.html
 name: Beechwood 4-5789
 rankings:
 - end_date: '1982-04-30'
@@ -23,4 +24,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
 ---
+
+You can have this dance with me
+You can hold my hand and whisper
+In my ear sweet words, that I
+Love to hear
+
+ Don't be shy, just take your time
+I'd like to get to know you
+I'd like to make you mine
+
+I've been waiting, sitting here so patiently
+For you to come over
+And have this dance with me
+
+ And my number is Beechwood 4-5789
+You can call me up and have a date
+Any old time
+
+
+
+Beechwood 4-5789
+You can call me up and have a date
+Any old time
+
+
+
+
+Beechwood 4-5789
+You can call me up and have a date
+Any old time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nowhere-to-go-melissa-etheridge
+lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/nowheretogo.html
 name: Nowhere To Go
 rankings:
 - end_date: '1996-10-18'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
+
+I know a place
+Down past an old shack
+On a road that goes to nowhere
+Ain't nobody coming back
+We can go there tonight
+We can talk until dawn
+Or maybe something else
+I'll leave the radio on
+
+There's no one to hear
+You might as well scream
+They never woke up
+From the American dream
+And they don't understand
+What they don't see
+And they look through you 
+And they look past me
+Oh, you and I dancing slow
+And we got nowhere to go
+
+Past the Wal-Mart and the prison
+Down by the old V.A. 
+Just my jeans and my t-shirt
+And my blue Chevrolet
+It's Saturday night
+Feels like everything's wrong
+I've got some strawberry wine
+I wanna get you alone
+
+Down by the muddy water
+Of the mighty Mo
+In an old abandoned box car
+Will I ever know
+Dance with me forever
+This moment is divine
+I'm so close to heaven
+This hell is not mine 
+This hell is not mine...
+
+
 

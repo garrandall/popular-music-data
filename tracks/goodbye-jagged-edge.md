@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-jagged-edge
+lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/goodbye.html
 name: Goodbye
 rankings:
 - end_date: '2001-11-23'
@@ -67,4 +68,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
 ---
+
+Sometimes...
+What may be the best thing for you to do
+Sometimes it the hardest thing for you to do
+And thats real
+Cause I know that I love you
+I know how I feel about you
+But I also know that don't make everything alright
+And for that reason
+I gotta say goodbye
+
+Tell me have you ever been in a 
+Situation where the best thing you could do 
+was the hardest thing you've ever done 
+But you try to do whats right
+And I know that deep down inside
+That I really wanna be there by your side
+But I can't stand to see you cry
+Not when its because of me
+
+And its over, I'll never love another
+I'm always thinking of her, I'm doing this because of her
+
+Don't wanna say goodbye
+I don't wanna let her see me cry
+Looking out the window and wondering why
+Did we have to say all those things that we said last night
+Baby I don't wanna say goodbye
+So I'm just standing here wondering why
+Just don't like to see when you cry
+So I'ma say goodbye
+
+If you think I cause I packed your stuff
+That inside I ain't really really cracking up
+Cause you're wrong I just hide it good
+Cause I know thats what you need
+And there's more to life than loving yourself
+You gotta learn to love somebody else
+And thats why I do the things that I do
+
+And its over, I'll never love another
+I'm always thinking of her, I'm doing this because of her
+
+Don't wanna say goodbye
+I don't wanna let her see me cry
+Looking out the window and wondering why
+Did we have to say all those things that we said last night
+Baby I don't wanna say goodbye
+So I'm just standing here wondering why
+Just don't like to see when you cry
+So I'ma say goodbye
+
+There's no one in this world that can ever take your place
+All the love that we share, it can never be erased
+And I know that, that it hurts so bad
+And its so that, that you're the best I've had
+
+There's no one in this world that can ever take your place
+All the love that we share, it can never be erased
+And I know that, that it hurts so bad
+And its so that, that you're the best I've had
+
+There's no one in this world that can ever take your place
+All the love that we share, it can never be erased
+And I know that, that it hurts so bad
+And it's so that, that you're the best I've had
+
+There's no one in this world that can ever take your place
+All the love that we share, it can never be erased 
+And I know that, that it hurts so bad
+And it's so that, that you're the best I've had
+
+
 

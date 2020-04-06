@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-thank-you-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/ithankyou.html
 name: I Thank You
 rankings:
 - end_date: '1980-01-25'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
 ---
+
+You didn't have to love me like you did
+But you did, but you did.
+And I thank you.
+You didn't have to love me like you did
+But you did, but you did.
+And I thank you.
+But you took your love to someone else
+I wouldn't know what it meant to be loved to death
+
+You made me feel like I've never felt
+Kisses so good I had to holler for help
+You didn't have to squeeze it but you did
+But you did but you did
+And I thank you.
+You didn't have to hold it but you did
+But you did but you did
+And I thank you.
+
+Every day was something new,
+You put on your bag and your fine to-do
+You got me trying new things too
+Just so I can keep up with you.
+
+You didn't have to shake it but you did
+But you did but you did
+And I thank you.
+You didn't have to make it like you did
+but you did but you did
+And I thank you.
+
+All my life I've been shortchanged
+Without your love baby it's a crying shame
+But now I know what the fellas talking about
+Hear me say that they been turned out
+I want to thank you
+I want to thank you
+I want to thank you
+Yes, I want to thank you
+
+
 

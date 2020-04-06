@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: hi-de-ho-blood-sweat-tears
+lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/hideho.html
 name: Hi-De-Ho
 rankings:
 - end_date: '1970-08-07'
@@ -41,4 +42,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
 ---
+
+Hi De Ho
+Hi De Hi
+Gonna Get me
+A piece of the pie
+Gonna get me
+Some of that Old Sweet Roll
+Singin' Hi de hi de hi de hi de Hooooo
+
+I've been down so low
+Bottom looked like up
+Once I thought that seconds saves
+Was enough to fill my cup
+So I proffered all I got
+But it ain't no way to live
+Being taken by the ones who got
+The least amount to give
+
+Hi de ho
+Hi de hi
+Gonna get me a piece of the sky
+Gonna get me some of that old sweet roll
+Singing hi de hi de hi de hi de hooooo.
+
+Once I met the devil
+He was mighty slick
+Tempted me with worldly goods
+Said -you can have your pick-
+But when he laid that paper on me
+And he showed me where to sign
+I said thank you very kindly
+But I'm in too great a need of mine
+
+Hi de ho
+Hi de hi
+Gonna get me a piece of the sky
+Gonna get me some of that old sweet roll
+Singin' hi de hi de hi de hi de hooooo.
+Hi de ho
+Hi de hi
+Gonna get me a piece of the sky
+Gonna get me some of that old sweet roll
+Singin' hi de hi de hi de hi de hoooo
+
+
 

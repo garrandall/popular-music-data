@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wind-beneath-my-wings-bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/sonataarctica/thewindbeneathmywings.html
 name: Wind Beneath My Wings
 rankings:
 - end_date: '1989-03-10'
@@ -123,4 +124,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
+
+It must have been cold there in my shadow
+To never have sunlight on your face
+You were content to let me shine
+You always walked a step behind
+
+I was the one with all the glory
+While you were the one with all the strength
+Only a face without a name
+I never once heard you complain
+
+Did you ever know that you're my hero
+And everything I would like to be?
+I can fly higher than an eagle
+'Cause you are the wind beneath my wings
+
+It might have appeared to go unnoticed
+But I've got it all here in my heart
+I want you to know I know the truth, yes I do
+I would be nothing without you
+
+Did you ever know that you're my hero
+And everything I would like to be?
+I can fly higher than an eagle
+'Cause you are the wind beneath my
+
+Did you ever know that you're my hero
+And everything I would like to be?
+I can fly higher than an eagle
+'Cause you are the wind beneath my wings
+
+Did you ever know that you're my hero
+And everything I would like to be?
+I can fly higher than an eagle
+'Cause you are the wind beneath my wings
+
+'Cause you are the wind beneath my wings
+'Cause you are the wind beneath my wings
+'Cause you are the wind beneath my wings
+
+
 

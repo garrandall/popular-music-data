@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine---whiskey-frankie-ballard
+lyrics_url: https://www.azlyrics.com/lyrics/frankieballard/sunshinewhiskey.html
 name: Sunshine & Whiskey
 rankings:
 - end_date: '2014-08-01'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
 ---
+
+Every time you kiss me it's like sunshine and whiskey
+
+Chilling on a beach with my sweet Georgia peach.
+Not a care in the world, just trying to beat the heat.
+Body like an hourglass, sand on her feet.
+Can't help but stare cause I got the best seat.
+Just when I thought it couldn't get any hotter you slid on in,
+Said, "I'm a little hot and bothered, if you know what I mean.
+Let's crank it up to a hundred degrees." Alright
+
+You hit me like fire, shot me like a bullet.
+Burned me up and down, no way to cool it.
+Every time you kiss me it's like sunshine and whiskey.
+Like a bottle of Jack straight to the head.
+One shot, two shot, copper tone red.
+Every time you kiss me it's like sunshine and whiskey.
+
+Slow driving south with the drop top down,
+Hair in the wind, Tom Petty up loud.
+You gave me that look, you licked them lips.
+I said, "Hang on baby, better pull over for this."
+I don't wanna get DWK, driving while kissing they'll put you away.
+
+You hit me like fire, shot me like a bullet.
+Burned me up and down, no way to cool it.
+Every time you kiss me it's like sunshine and whiskey.
+Like a bottle of Jack straight to the head.
+One shot, two shot, copper tone red.
+Every time you kiss me it's like sunshine and whiskey.
+
+Every time you kiss me it's like sunshine and whiskey. 
+
+Well, you hit me like fire, shot me like a bullet
+Burn me up and down, no where to cool it
+
+Every time you kiss me it's like sunshine and whiskey.
+
+You hit me like fire, shot me like a bullet.
+Burned me up and down, no way to cool it.
+But every time you kiss me it's like sunshine and whiskey.
+It's like a bottle of Jack straight to the head.
+One shot, two shot, copper tone red.
+Every time you kiss me it's like sunshine and whiskey.
+
+Every time you kiss me it's like sunshine and whiskey. 
+
+
 

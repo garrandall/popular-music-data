@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: her-diamonds-rob-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/robthomas/herdiamonds.html
 name: Her Diamonds
 rankings:
 - end_date: '2009-06-12'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
 ---
+
+Oh what the hell she said
+I just can't win for losing
+And she lays back down
+Man there's so many times
+I don't know what I'm doing
+Like I don't know now
+
+By the light of the moon
+She rubs her eyes
+Says it's funny how the night
+Can make you blind
+I can just imagine
+And I don't know what I'm supposed to do
+But if she feels bad then i do too
+So I let her be
+
+And she says oh
+I can't take no more
+Her tears like diamonds on the floor
+And her diamonds bring me down
+Cause I can't help her now
+She's down in it
+She tried her best but now she can't win it
+Hard to see them on the ground
+Her diamonds falling down
+
+She sits down and stares into the distance
+And it takes all night
+And i know i could break her concentration
+But it don't feel right
+
+By the light of the moon
+She rubs her eyes
+Sits down on the bed and starts to cry
+And there's something less about her
+And I don't know what I'm supposed to do
+So I sit down and I cry too
+And don't let her see
+
+And she says oh
+I can't take no more
+Her tears like diamonds on the floor
+And her diamonds bring me down
+Cause I can't help her now
+She's down in it
+She tried her best but now she can't win it
+Hard to see them on the ground
+Her diamonds falling down
+
+She shuts out the night
+Tries to close her eyes
+If she can find daylight
+She'll be alright
+She'll be alright
+Just not tonight
+
+And she says oh
+I can't take no more
+Her tears like diamonds on the floor
+And her diamonds bring me down
+Cause I can't help her now
+She's down in it
+She tried her best but now she can't win it
+Hard to see them on the ground
+Her diamonds falling down
+
+
 

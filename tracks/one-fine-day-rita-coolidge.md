@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-fine-day-rita-coolidge
+lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/onefineday.html
 name: One Fine Day
 rankings:
 - end_date: '1979-09-07'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+
+One fine day, you'll look at me
+And you will know our love was really meant to be
+One fine day, you're gonna want me for your girl
+
+The arms I long for, will open wide
+And you'll be proud to have me, standing by your side
+One fine day, you're gonna want me for your girl
+
+Though I know you're the kind of boy
+Who only wants to run around
+I'll keep waiting, and, someday darling
+You'll come to me when you want to settle down
+
+One fine day, we'll meet once more
+And then you'll want the love you threw away before
+One fine day, you're gonna want me for your girl
+...
+
+
 

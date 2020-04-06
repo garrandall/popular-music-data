@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunset-grill-don-henley
+lyrics_url: https://www.azlyrics.com/lyrics/donhenley/sunsetgrill.html
 name: Sunset Grill
 rankings:
 - end_date: '1985-09-06'
@@ -63,4 +64,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
 ---
+
+Let's go down to the Sunset Grill
+We can watch the working girls go by
+Watch the "basket people" walk around and mumble
+And stare out at the auburn sky
+There's an old man there from the Old World
+To him, it's all the same
+Calls all his customers by name
+
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+
+You see a lot more meanness in the city
+It's the kind that eats you up inside
+Hard to come away with anything that feels like dignity
+Hard to get home with any pride
+These days a man makes you somethin'
+And you never see his face
+But there is no hiding place
+
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+
+Respectable little murders pay
+They get more respectable every day
+Don't worry girl, I'm gonna stick by you
+And someday soon we're gonna get in that car and get outa here
+
+Let's go down to the Sunset Grill
+Watch the working girls go by
+Watch the "basket people" walk around and mumble
+And gaze out at the auburn sky
+Maybe we'll leave come springtime
+Meanwhile, have another beer
+What would we do without all these jerks anyway?
+Besides, all our friends are here
+
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+Down at the Sunset Grill
+
+
 

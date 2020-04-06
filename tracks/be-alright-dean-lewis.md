@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-alright-dean-lewis
+lyrics_url: https://www.azlyrics.com/lyrics/deanlewis/bealright.html
 name: Be Alright
 rankings:
 - end_date: '2018-11-16'
@@ -123,4 +124,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
 ---
+
+I look up from the ground to see your sad and teary eyes
+You look away from me
+And I see there's something you're trying to hide, and I
+Reach for your hand, but it's cold, you pull away again
+And I wonder, what's on your mind?
+
+And then you say to me you made a dumb mistake
+You start to tremble and your voice begins to break
+You say the cigarettes on the counter weren't your friends, they were my mates
+And I feel the color draining from my face
+
+And my friend said
+"I know you love her, but it's over, mate
+It doesn't matter, put the phone away
+It's never easy to walk away
+Let her go, it'll be alright"
+
+So I still look back at all the messages you'd sent
+And I know it wasn't right but it was fucking with my head
+And everything deleted like the past, yeah it was gone
+And when I touched your face, I could tell you're moving on
+
+But it's not the fact that you kissed him yesterday
+It's the feeling of betrayal, that I just can't seem to shake
+And everything I know tells me that I should walk away
+But I just want to stay
+
+And my friend said
+
+"I know you love her, but it's over, mate
+It doesn't matter, put the phone away
+It's never easy to walk away
+Let her go, it'll be okay
+It's gonna hurt for a bit of time
+So bottoms up, let's forget tonight
+You'll find another and you'll be just fine
+Let her go"
+
+Nothing heals
+The past like time
+And they can't steal
+The love you're born to find
+
+But nothing heals
+The past like time
+And they can't steal
+The love you're born to find
+
+"I know you love her, but it's over, mate
+It doesn't matter, put the phone away
+It's never easy to walk away
+Let her go, it'll be okay
+It's gonna hurt for a bit of time
+So bottoms up, let's forget tonight
+You'll find another and you'll be just fine
+Let her go"
+
+It'll be alright
+It'll be alright
+It'll be alright
+It'll be alright
+It'll be alright
+
+
 

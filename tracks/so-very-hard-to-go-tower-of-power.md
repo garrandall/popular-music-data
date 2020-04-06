@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-very-hard-to-go-tower-of-power
+lyrics_url: https://www.azlyrics.com/lyrics/towerofpower/soveryhardtogo.html
 name: So Very Hard To Go
 rankings:
 - end_date: '1973-05-11'
@@ -79,4 +80,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
+
+Ain't nothin' I can say
+Nothin' I can do
+I feel so bad, yeah
+I feel so blue
+I got to make it right
+For everyone concerned
+Even if it's me, if it means, just me
+Wants getting back
+
+'Cause I can never make you unhappy
+No, I couldn't do that, love
+Only wish I didn't love you so
+Makes it so, so very hard to go
+
+So very hard to go
+'Cause I love you so
+So very hard to go
+I, I love you so
+
+I knew the time would come
+I'd have to pay for my mistake
+I can't blame you for what you're doin' to me girl
+Even though my heart aches
+
+Your dreams have all come true
+Just the way you planned them
+So I'll just step aside, I'm going to step aside
+And lend a helping hand
+
+'Cause I can never make you unhappy
+No, I couldn't do that, love
+Only wish I didn't love you so
+Makes it so very hard to go
+
+So very hard to go
+'Cause I love you so
+So very hard to go
+I, I love you so
+
+I could never make you unhappy
+No, I couldn't do that, love
+Only wish I didn't love you so
+Makes it so, so very hard to go
+
+So very hard to go
+'Cause I love you so
+So very hard to go
+I, I love you so
+So very hard to go
+It ain't easy to walk away when a man loves somebody
+So very hard to go
+Hey, hey...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-horizontal-bop-bob-seger
+lyrics_url: https://www.azlyrics.com/lyrics/bobseger/thehorizontalbop.html
 name: The Horizontal Bop
 rankings:
 - end_date: '1980-11-14'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
 ---
+
+Wally's getting' anxious thinkin' 'bout tonight
+Bruce is all spiffy lookin' wicked lookin' right
+Eddie's getting' spruced
+And Donna's getting' loose
+Theyre passin' round the bottle
+And they're gettin' good and juiced
+B.G.'s winin' dinin' checkin' talent at the club
+Skippers hauntin' second lookin' forward to his rub
+The busters from the country
+And the hitters from the shop
+Everybody wants to do the Horizontal Bop
+
+Someone bring the records
+Someone get the brew
+Someone get a house
+Buddy we'll know what to do
+Someone tell the ladies
+Someone make a deal
+If we can't find a house
+Then someone better find a field
+
+Grass is good as carpet
+Anyplace is fine
+Its time to get to rockin'
+Babe it's time to make it shine
+Tell 'em we'll be dancin'
+Dancin' till we drop
+It's time to get down and do the Horizontal Bop
+
+Theyre fillin' up the corners
+Theyre fillin' up the streets
+You can feel the tension
+You can almost feel the heat
+The music's gettin' louder
+The beat's gittin' fast
+Summers finally made it
+Yeah its finally here at last
+
+The pony cars are cruisin' on Woodward Avenue
+Go and try to pass'em
+They'll smoke you if you do
+The whole town's shakin' from the bottom to the top
+Everybody wants to do the Horizontal Bop
+The busters from the country
+And the hitters from the shop
+Everybody wants to do the Horizontal Bop
+Tell 'em we'll be dancin'
+Dancin' till we drop
+Everybody wants to do the Horizontal Bop
+
+
 

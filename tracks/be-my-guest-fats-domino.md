@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-my-guest-fats-domino
+lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/bemyguest.html
 name: Be My Guest
 rankings:
 - end_date: '1959-11-01'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
+
+Come on baby and be my guest
+Come join the party and meet the rest
+Everything is gonna be alright
+So be my guest tonight!
+
+We're gonna dance to the rock an roll
+We're gonna even do the stroll
+We're gonna lindy hop with Suzy Q
+It's a special party just for you
+
+My, my oh my, gee, you so fine
+Don't let me down
+I'm the king but you can wear my crown
+I'm gonna sing, my band gonna play
+
+I'm gonna make you 'Queen For A Day'
+Everythings gonna be alright
+So be my guest tonight!
+
+My, my oh my, gee, you so fine
+Don't let me down
+I'm the king but you can wear my crown 
+I'm gonna sing, my band gonna play
+I'm gonna make you "Queen For A Day"
+Everything gonna be alright
+So be my guest tonight!
+
+
 

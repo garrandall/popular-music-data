@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-the-last-to-know-del-amitri
+lyrics_url: https://www.azlyrics.com/lyrics/delamitri/alwaysthelasttoknow.html
 name: Always The Last To Know
 rankings:
 - end_date: '1992-08-21'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
 ---
+
+So you're in love with someone else
+Someone who burns within your soul
+And it looks like I am the last to know
+I hear you've never felt so alive
+So much desire beyond control
+And as usual I am the last to know
+
+The last to know how you're feeling
+The last to know where you are
+The last to know if you're happy now
+Or if he's treating you like I treated you
+Or if he's cruel
+I'll be the last to know
+
+We spent summers up beyond the bay
+And you said these are such perfect days
+That if the bomb drops baby
+I wanna be the last to know
+But now you're living up behind the hill
+And though we share the same city and feel the same sun
+When your winter comes
+I'll be the last to know
+
+Always the last to know how you're feeling
+The last to know where you are
+The last to know if you're happy now
+Or if he's pleaded with you
+Like I pleaded with you if you go
+Don't let me be the last to know
+Don't let me be the last to know
+
+Creation's gone crazy
+The TV's gone mad
+Now you're the only sane thing that I've had
+
+Always the last to know how you're feeling
+The last to know where you are
+The last to know if you're happy now
+Or if he's cheated on you
+Like I cheated on you, oh
+You were the last to know
+You were the last to know
+Don't let me be the last to know
+
+Oh, Oh, Oh.
+
+Don't let me be the last to know
+
+No, No, No, No, No, No, No, No, No, No, No, No, No, No.
+
+
 

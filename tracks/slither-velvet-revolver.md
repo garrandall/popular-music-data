@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slither-velvet-revolver
+lyrics_url: https://www.azlyrics.com/lyrics/velvetrevolver/slither.html
 name: Slither
 rankings:
 - end_date: '2004-05-21'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
 ---
+
+Hey Hey Hey
+
+When you look you see right through me
+Cut the rope, fell to my knees
+Born and broken every single time
+
+Always keep me under finger
+That's the spot where you run to me
+Might see some type of pleasure in my mind
+
+Yeah, here comes the water
+It comes to wash away the sins of you and I
+This time you see
+
+Hey hey hey
+
+When you seek me you destroy me
+Rape my mind and smell the poppies
+Born and bloodied every single time
+
+Always keep me under finger
+That's the spot where you might linger
+But I see some type of pleasure in my mind
+
+Yeah, here comes the water
+It comes to wash away the sins of you and I
+This time you see
+Like holy water
+It only burns you faster than you'll ever dry
+This time with me
+
+
+
+When you look you see right through me
+Cut the rope, fell to my knees
+Born and Bloodied
+Every single time
+
+Yeah, here comes the water
+It comes to wash away the sins of you and I
+This time you see
+Like holy water
+It only burns you faster than you'll ever dry
+This time with me
+
+Hey, hey, hey
+
+
 

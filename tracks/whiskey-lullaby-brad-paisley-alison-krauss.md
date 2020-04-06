@@ -5,6 +5,7 @@ features:
 - Alison Krauss
 genres: []
 key: whiskey-lullaby-brad-paisley-alison-krauss
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/whiskeylullaby.html
 name: Whiskey Lullaby
 rankings:
 - end_date: '2004-06-25'
@@ -80,4 +81,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
 ---
+
+
+She put him out, like the burnin' end of a midnight cigarette
+She broke his heart, he spent his whole life tryin' to forget
+We watched him drink his pain away a little at a time
+But he never could get drunk enough to get her off his mind
+Until the night
+
+
+He put that bottle to his head and pulled the trigger
+And finally drank away her memory
+Life is short, but this time it was bigger
+Than the strength he had to get up off his knees
+We found him with his face down in the pillow
+With a note that said, "I'll love her 'til I die"
+And when we buried him beneath the willow
+The angels sang a whiskey lullaby
+
+La, la, la, la, la, la, la
+La, la, la, la, la, la, la
+
+
+The rumors flew, but nobody knew how much she blamed herself
+For years and years she tried to hide the whiskey on her breath
+She finally drank her pain away a little at a time
+But she never could get drunk enough to get him off her mind
+Until the night
+
+
+She put that bottle to her head and pulled the trigger
+And finally drank away his memory
+Life is short, but this time it was bigger
+Than the strength she had to get up off her knees
+We found her with her face down in the pillow
+Clinging to his picture for dear life
+We laid her next to him beneath the willow
+While the angels sang a whiskey lullaby
+
+La, la, la, la, la, la, la
+La, la, la, la, la, la, la
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-were-made-for--all-my-love-jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/youweremadeforallmylove.html
 name: (You Were Made For) All My Love
 rankings:
 - end_date: '1960-07-17'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+
+All my love
+Give me the right to give you
+All my love
+With all my might
+I'd give you all my love
+If I had only half a chance
+
+Into your world
+Oh, let me come and being you
+All my love
+No other one could give you half the love
+That I feel in my heart for you
+
+Come to me
+Come and let me share your destiny
+Can you see
+There's just you within the heart of me
+
+So wonderful
+I know our love could be so wonderful
+For it is written in the stars above
+That you were made for all my love
+
+
 

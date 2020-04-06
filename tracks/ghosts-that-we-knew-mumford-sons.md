@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ghosts-that-we-knew-mumford-sons
+lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/ghoststhatweknew.html
 name: Ghosts That We Knew
 rankings:
 - end_date: '2012-10-19'
@@ -20,4 +21,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
 ---
+
+You saw my pain washed out in the rain
+Broken glass, saw the blood run from my veins
+But you saw no fault, no cracks in my heart
+And you knelt beside my hope torn apart
+
+But the ghosts that we knew will flicker from view
+We'll live a long life
+
+So give me hope in the darkness that I will see the light
+'Cause oh that gave me such a fright
+But I will hold as long as you like
+Just promise me we'll be alright
+
+So lead me back, turn south from that place
+And close my eyes to my recent disgrace
+'Cause you know my call
+And we'll share my all
+And our children come and they will hear me roar
+
+So give me hope in the darkness that I will see the light
+'Cause oh that gave me such a fright
+But I will hold as long as you like
+Just promise me we'll be alright
+
+But hold me still, bury my heart on the coals
+But hold me still, bury my heart on the coals 
+
+So give me hope in the darkness that I will see the light
+'Cause oh that gave me such a fright
+But I will hold on as long as you like 
+Just promise me we'll be alright
+
+[Live and US versions' additional lines:
+"But the ghosts that we knew made us black and all blue
+But we'll live a long life"]
+And the ghosts that we knew will flicker from view
+And we'll live a long life
+
+
 

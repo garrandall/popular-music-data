@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-ur-freak-on-missy--misdemeanor--elliott
+lyrics_url: https://www.azlyrics.com/lyrics/missymisdemeanorelliott/geturfreakonremix.html
 name: Get Ur Freak On
 rankings:
 - end_date: '2001-03-30'
@@ -107,4 +108,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
 ---
+
+
+REMIX! with Nelly Furtado . . . 
+Come in and I landed 
+
+
+NELLY FURTADO! 
+Come in and I landed 
+
+
+She's a freak and I'm a cheif head banger with the top down low on the flow 
+cause your so fresh (fresh!) like b-boys with vests like runners' carved chests ? hehehehe 
+I run like the breeze to catch this life but sometimes get a need til I bleed! 
+There's truth, I go, there's around, I will tell it A story, on the planet 
+Missy come in and I landed! Well where did she come from? 
+This international goddess sun so get your hands up like this hun 
+until the party's just begun! So come over to my house and that's where 
+this song's from a less for the laugh from west coast version portugese 
+diva! And Missy's the woman who always be cooking, says somethin' for Neltado 
+who come dip her vibin from DC to DJ and all around the world come giddy up 
+giddy up back back up to my girl! 
+
+ 
+UN get ur freak on  
+Get  Get ur freak on! 
+
+
+Who's that bitch?
+
+
+Me me! Nelly Nelly Nelly Furtado all in your stereo 
+I'm pumpin louder please don't tell me you don't like the flow . . . 
+You got the means to put down so lemme step it -- YO! 
+
+
+It's a original flow, people better lay low, stick you up like velcro
+cause me and Nelly say SO! 
+
+
+I'm doin how we do -- some strange loose thing and crew 
+Because my fire springs your head round right MISSY! 
+
+ 
+Get ur freak on!  
+Get  ahhhh! 
+
+
+They want dance, 
+Everybody gettin freak-deaky want dance, 
+grab your partners tightly by the ass and want dance, 
+move your body swiftly to the beat and want dance! 
+They want dance, they want dance! 
+Everybody crunk in the club - they want dance! 
+Everybody hot and on the block - they want dance! 
+Everybody gettin freak-deaky want dance, they want dance! 
+
+
+Get ur freak on!  
+Get  yeah yeah! ahhhhhhh!
+
+
 

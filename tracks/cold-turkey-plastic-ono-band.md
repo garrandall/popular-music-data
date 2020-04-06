@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-turkey-plastic-ono-band
+lyrics_url: https://www.azlyrics.com/lyrics/hollywoodvampires/coldturkey.html
 name: Cold Turkey
 rankings:
 - end_date: '1969-11-21'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+
+Temperature's rising
+Fever is high
+Can't see no future
+Can't see the sky
+
+My feet are so heavy
+So is my head
+I wish I was a baby
+I wish I was dead
+
+Cold turkey has got me on the run
+
+My eyes are wide open
+Can't get to sleep
+One thing I'm sure of
+I'm in at the deep freeze
+Oh I'll be a good boy
+Please make me well
+I promise you anything
+Get me out of this hell
+
+Cold turkey has got me on the run
+
+Cold turkey has got me on the run
+
+
 

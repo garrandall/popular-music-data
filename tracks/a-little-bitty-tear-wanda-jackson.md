@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bitty-tear-wanda-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/littlebittytear.html
 name: A Little Bitty Tear
 rankings:
 - end_date: '1962-01-26'
@@ -19,4 +20,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
 ---
+
+When you said you were leaving tomorrow that today was our last day
+I said there'd be no sorrow that I'd laugh when you walked away
+But a little bitty tear let me down spoiled my act as a clown
+I had it made up not to make a frown but a little bitty tear let me down
+
+I said I'd laugh when you left me full of funny as you went out the door
+That I'd have another one a waitin' I'd wave goodbye as you go
+But a little bitty tear...
+
+Everything went out like I planned it and I really put on quite a show
+I thought that I was gonna stand it but when you've got through the door
+But a little bitty tear...
+When you said you were leaving...
+
+
 

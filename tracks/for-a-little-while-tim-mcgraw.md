@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-a-little-while-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/foralittlewhile.html
 name: For A Little While
 rankings:
 - end_date: '1998-12-11'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
 ---
+
+Hot sun dancin' on the river
+We're sittin on the bank and watch the world go by
+Our feet in the water she pressed her lips to mine
+We were so long on love but short on time
+She could be a honeymoon sweet and a little wild
+But she was mine oh, for a little while
+
+And I laugh everytime I start to think about us
+We sent that summer out in style
+And she's gone but she let me with a smile
+'Cause she was mine for a little while
+
+We'd take a ride and head on down to airport road
+Put the seats back watch the planes leave town
+She always said nobody's strong enough to tie her down
+Oh but I wasn't lookin' for that anyhow
+I knew she'd leave but I didn't know when
+It matters to me now oh but it didn't back then
+
+And I laugh everytime I start to think about us
+We sent that summer out in style
+And she's gone but she let me with a smile
+'Cause she was mine for a little while
+
+I keep seein' pictures now of me and her and those summer nights
+My mind fills with her
+Oh but it's alright
+'Cause I laugh everytime I start to think about us
+We sent that summer out in style
+And she's gone but she let me with a smile
+'Cause she was mine for a little while
+Yeah she was mine for a little while
+
+
 

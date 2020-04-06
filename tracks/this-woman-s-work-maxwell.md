@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-woman-s-work-maxwell
+lyrics_url: https://www.azlyrics.com/lyrics/maxwell/thiswomanswork.html
 name: This Woman's Work
 rankings:
 - end_date: '2002-03-22'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
 ---
+
+Pray God you can cope
+I'll stand outside
+This woman's work
+This woman's world
+Oh it's hard on the man
+Now his part is over
+Now starts the craft of the Father
+
+I know you've got a little life in you yet
+Now I know you've got a lot of strength left
+Now I know you've got a little life in you yet
+I know you've got a lot of strength left
+
+I should be crying but I just can't let it show
+Should be hoping but I can't stop thinking
+Of all the things we should've said that we never said
+And all the things we should've done that we never did
+All the things we should've given but I didn't
+
+Oh, darling, make it go, make it go away
+
+Give me these moments
+Give them back to me
+Give me your little kiss
+
+Give me your...
+I know you have a little life in you yet
+Give me your hand, babe
+I know you have a lot of strength left
+Give me that pretty hand
+I know you have a little life in you yet
+Show me you understand
+I know you have a lot of strength left
+
+My love child
+I know you have a little life in you yet
+Whatever you need me
+I know you have a lot of strength left
+Give me your hand
+I know you have a little life in you yet
+Give me your hand
+I know you have a lot of strength left
+
+Should be crying but I just can't let it go, baby
+Should be hopin' but I can't stop thinkin', thinkin', thinkin'.
+Of all the things we should've said that we never said
+All the things we should've done that we never did
+All the things that you wanted from me
+All the things that you needed from me
+All the things I should've given but I didn't
+
+Oh, darling, make it go away, just make it go away
+
+
 

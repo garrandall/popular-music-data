@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-belongs-to-me-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/myheartbelongstome.html
 name: My Heart Belongs To Me
 rankings:
 - end_date: '1977-05-27'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+
+I got the feelin' the feelin's gone
+My heart has gone to sleep
+One of these mornings I'll be gone
+My heart belongs to me
+Can we believe in fairy tales?
+Can love survive when all else fails?
+Can't hide the feelin' the feelin' s gone
+My heart belongs to me
+But now my love, hey didn't I love you
+But we knew what had to be
+Some how my love I'll always love you
+But my heart belongs to me
+Put out the light and close your eyes
+Come lie beside me, don't ask why
+Can't hide the feelin' the feelin's gone
+My heart belongs to me
+
+
+But now my love, hey didn't I love you
+Didn't I love you, didn't I love you, didn't I love you, baby!
+Don't cry my love, I'll always love you
+But my heart belongs to me
+I got the feelin' the feelin's gone
+My heart belongs to me...
+I got the feelin' the feelin's gone
+My heart belongs to me...
+
+
+Didn't I love you, didn't I love you
+
+
 

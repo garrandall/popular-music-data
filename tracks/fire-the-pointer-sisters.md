@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/fire.html
 name: Fire
 rankings:
 - end_date: '1978-11-17'
@@ -99,4 +100,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
 ---
+
+I'm ridin' in your car
+You turn on the radio
+You're pullin' me close
+I just say no
+I say I don't like it
+But you know I'm a liar
+'Cause when we kiss
+Ooooh, fire
+
+Late at night
+You're takin' me home
+You say you wanna stay
+I say I wanna be alone
+I say I don't love you
+But you know I'm a liar
+'Cause when we kiss
+Ooooh, fire
+
+You had a hold on me
+Right from the start
+A grip so tight
+I couldn't tear it apart
+My nerves all jumpin'
+Actin' like a fool
+Well, your kisses they burn
+But my heart stays cool
+
+Well, Romeo and Juliet
+Samson and Delilah
+Baby you can bet
+A love they couldn't deny
+My words say split
+But my words they lie
+'Cause when we kiss
+Ooooh, fire
+
+Ooooh, fire
+Kisses like fire
+Burn me up with fire
+I like what you're doin' now
+Fire
+Touchin' me
+Fire
+Touchin' me
+Burnin' me
+Fire
+Take me home
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-cool-boney-m
+lyrics_url: https://www.azlyrics.com/lyrics/placebo/daddycool.html
 name: Daddy Cool
 rankings:
 - end_date: '1977-01-28'
@@ -27,4 +28,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+
+She's crazy like a fool
+What about Daddy Cool?
+I'm crazy like a fool
+What about Daddy Cool?
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+
+She's crazy like a fool
+What about Daddy Cool?
+I'm crazy like a fool
+What about Daddy Cool?
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+
+She's crazy like her daddy
+Mmm... she...
+She loves her daddy
+
+She's crazy like a fool
+What about Daddy Cool?
+I'm crazy like a fool
+What about Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+Daddy, Daddy Cool
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: immigrant-song-led-zeppelin
+lyrics_url: https://www.azlyrics.com/lyrics/ledzeppelin/immigrantsong.html
 name: Immigrant Song
 rankings:
 - end_date: '1970-11-27'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
 ---
+
+Ah, ah
+
+We come from the land of the ice and snow
+From the midnight sun where the hot springs flow
+
+The hammer of the gods will drive our ships to new land
+To fight the horde and sing, and cry
+Valhalla, I am coming
+
+On we sweep with, with threshing oar
+Our only goal will be the western shore
+
+Ah, ah
+
+We come from the land of the ice and snow
+From the midnight sun where the hot springs flow
+
+How soft your fields so green. Can whisper tales of gore
+Of how we calmed the tides of war. We are your overlords
+
+On we sweep with threshing oar
+Our only goal will be the western shore
+
+So now you'd better stop and rebuild all your ruins
+For peace and trust can win the day despite of all your losing
+
+Ooh. Ooh. Ooh. Ooh. Ooh
+Ooh. Ah
+Ooh. Ooh. Ooh. Ooh. Ooh
+Ooh. Ooh. Ooh. Ooh
+
+
 

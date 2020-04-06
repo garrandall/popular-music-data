@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: if-you-want-me-to-stay-sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/ifyouwantmetostay.html
 name: If You Want Me To Stay
 rankings:
 - end_date: '1973-07-06'
@@ -76,4 +77,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
 ---
+
+If you want me to stay,
+I'll be around today,
+to be available for you to see.
+But I am about to go,
+And then you'll know,
+For me to stay here I got to be me.
+
+You'll never be in doubt,
+That's what it's all about,
+You can't take me for granted and smile.
+Count the days I'm gone
+Forget reachin' me by phone
+Because I promise I'll be gone for a while.
+
+And when you see me again,
+I hope that you have been,
+The kind of person....that you really are now.
+Got to get in straight,
+How could I ever be late,
+When you're my woman taking up my time.
+
+Whoa, oh how could I ever allow,
+I guess I wonder how,
+I could get out a pocket for fun. HOW HOW!!
+When you know that you're never number two,
+Number one's gonna be number one,
+ohh oww oohh
+
+I'll be good,
+I wish I could
+I get this message over to you now.
+ahhh, yeah, message, mmmm
+When you see me again,
+I hope that you have been,
+The kind of person you really are now.
+I'll be so good, oh
+I wish I could,
+I get this message over to you now.
+
+ahhh, yeah.....
+
+
 

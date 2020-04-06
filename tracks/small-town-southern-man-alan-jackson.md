@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: small-town-southern-man-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/smalltownsouthernman.html
 name: Small Town Southern Man
 rankings:
 - end_date: '2008-01-25'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+Born the middle son of a farmer
+And a small town Southern man
+Like his daddy's daddy before him
+Brought up workin' on the land
+Fell in love with a small town woman
+And they married up and settled down
+Natural way of life if you're lucky
+For a small town Southern man
+
+First there came four pretty daughters
+For this small town Southern man
+Then a few years later came another
+A boy, he wasn't planned
+Seven people livin' all together
+In a house built with his own hands
+Little words with love and understandin'
+From a small town Southern man
+
+
+And he bowed his head to Jesus
+And he stood for Uncle Sam
+And he only loved one woman
+(He) was always proud of what he had
+He said his greatest contribution
+Is the ones you leave behind
+Raised on the ways and gentle kindness
+Of a small town Southern man
+(Raised on the ways and gentle kindness)
+(Of a small town Southern man)
+
+Callous hands told the story
+For this small town Southern man
+He gave it all to keep it all together
+And keep his family on his land
+Like his daddy, years wore out his body
+Made it hard just to walk and stand
+You can break the back
+But you can't break the spirit
+Of a small town Southern man
+
+
+
+Finally death came callin'
+For this small town Southern man
+He said it's alright 'cause I see angels
+And they got me by the hand
+Don't you cry, and don't you worry
+I'm blessed, and I know I am
+'Cause God has a place in Heaven
+For a small town Southern man
+
+
+
+
 

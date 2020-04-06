@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-a-little-bit-better-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/justalittlebitbetter.html
 name: Just A Little Bit Better
 rankings:
 - end_date: '1965-09-24'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
 ---
+
+He may send you flowers, baby, every single day
+Buy you fancy clothes from Paris
+And have sweet things to say
+But I can give you love, sweet sweet love
+Now ain't that just a little bit better?
+Uh-ho-ho, uh-ho-ho, uh-ho-ho
+
+He'll take you to nightclubs in a shiny limousine
+Buy you furs and diamond bracelets
+Make you look just like a queen
+But I can give you love, sweet sweet love
+Now ain't that just a little bit better?
+Uh-ho-ho, uh-ho-ho, uh-ho-ho
+
+Love, love, love is what I could give ya
+True, true love as long as I may live
+
+But I can give you love, sweet sweet love
+Now ain't that just a little bit better?
+Uh-ho-ho, uh-ho-ho, uh-ho-ho
+
+Love, love, love is what I could give ya
+True, true love as long as I may live
+
+Well, he may want to buy a fancy mansion on a hill
+Will you live with him forever?
+Baby, that ain't such a thrill
+'Cause I can give you love, sweet sweet love
+Now ain't that just a little bit better?
+Uh-ho-ho, uh-ho-ho, uh-ho-ho
+
+
 

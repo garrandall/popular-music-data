@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-could-only-win-your-love-emmylou-harris
+lyrics_url: https://www.azlyrics.com/lyrics/emmylouharris/ificouldonlywinyourlove.html
 name: If I Could Only Win Your Love
 rankings:
 - end_date: '1975-09-05'
@@ -27,4 +28,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
 ---
+
+If I could only win your love
+I'd make the most of everything
+I'd proudly wear your wedding ring
+My heart would never stray when you're away
+
+If I could only win your love
+I'd give my all to make it live
+You'll never know how much I give
+If I could only win your love
+
+Oh how can I  ever say
+How I crave your love when your gone away
+Oh how can I ever show
+How I burn inside when you hold me tight
+
+If I could only win your love
+I'd give my all to make it live
+You'll never know how much I give
+If I could only win your love
+
+Oh how can I  ever say
+How I crave your love when your gone away
+Oh how can I ever show
+How I burn inside when you hold me tight
+
+If I could only win your love
+I'd give my all to make it live
+You'll never know how much I give
+If I could only win your love
+
+
 

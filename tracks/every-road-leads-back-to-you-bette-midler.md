@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-road-leads-back-to-you-bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/everyroadleadsbacktoyou.html
 name: Every Road Leads Back To You
 rankings:
 - end_date: '1991-12-27'
@@ -31,4 +32,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
 ---
+
+Old friend, here we are,
+after all the years and tears
+and all that we've been through.
+It feels so good to see you.
+Lookin' back in time,
+there've been other friends and other lovers,
+but no other one like you.
+All my life, no one ever has known me better.
+
+I must have traveled down a thousand roads.
+Been so many places, seen so many faces,
+always on my way to somethin' new.
+Ohhh, but it doesn't matter,
+'cause no matter where I go,
+every road leads back,
+every road just seems to lead me back to you.
+
+Old friend, there were times
+I didn't want to see your face
+or hear your name again.
+Now those times are far behind me.
+It's so good to see your smile.
+I'd forgotten how nobody else
+could make me smile the way you do.
+All this time, you're the one I still want beside me.
+
+I must have traveled down a thousand roads.
+Been so many places, seen so many faces,
+always on my way to somethin' new.
+Ohh, but it doesn't matter,
+'cause no matter where I go,
+every road leads back,
+every road just seems to lead me back to you.
+
+I must have traveled down a thousand roads.
+Been so many places, seen so many faces,
+always on my way to somethin' new.
+Ohh, but it doesn't matter,
+'cause no matter where I go,
+every road leads back,
+every road just seems to lead me back,
+every road leads back,
+every road just seems to lead me back to you.
+Every road just seems to lead me back to you.
+
+
 

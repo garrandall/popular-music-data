@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drink-in-my-hand-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/drinkinmyhand.html
 name: Drink In My Hand
 rankings:
 - end_date: '2011-10-14'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
 ---
+
+Early Monday morning to Friday at five,
+Man, I work, work, work but I don't climb, climb, climb
+Boss man can shove that overtime up his can,
+All I wanna do is put a drink in my hand
+
+Fill it up or throw it down,
+I got a forty-hour week worth of trouble to drown
+No need to complicate it. I'm a simple man,
+All you gotta do is put a drink in my hand
+
+Yeah, the parking lot is muddy. Can't get to the door,
+I take my jacked-up drop er down in 4x4
+Chill down a long neck, warm up the band,
+All you gotta do is put a drink in my hand
+
+Fill it up or throw it down,
+I'm about to tear a new one in this old town
+5-4-3-2-1. I'm a rocket man,
+All you gotta do is put a drink in my hand
+
+Make me wanna go, ooh, ooh, ooh, when you dance like that,
+You got that little tattoo playing peeky boo on your back
+Yeah, if you want to impress me, baby, here's my plan,
+All you gotta do is put a drink in my hand
+
+Fill it up or throw it down,
+When you drive me home take the long way around
+You be my Lois Lane I'll be your Superman,
+All you gotta do is put a drink in my hand
+
+My head Monday morning, that alarm clock sings,
+It goes bang, bang, bang while it ring-ring-rings
+Yeah, I'm ready to roll if you wanna rock again,
+All you gotta do is put a drink in my hand
+
+Fill it up or throw it down,
+I got a little hungover still hanging around
+Yeah, that hair of a dog is howling, "Hey there, man!"
+All you gotta do is put a drink in my hand
+
+Yeah, that hair of a dog is howling, "Hey there, man!"
+All you gotta do is put a drink in my hand
+
+Haaaouuhhh, yeah
+
+
 

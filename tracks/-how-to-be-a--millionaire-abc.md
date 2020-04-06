@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -how-to-be-a--millionaire-abc
+lyrics_url: https://www.azlyrics.com/lyrics/abc/howtobeamillionaire.html
 name: (How To Be A) Millionaire
 rankings:
 - end_date: '1986-01-24'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
 ---
+
+I've seen the future, I can't afford it
+Tell me the truth sir, someone just bought it
+Say mr. whispers! Here come the click of dice
+Roulette and blackjacks - gonna build us a paradise
+Larger than life and twice as ugly
+If we have to live there, you'll have to drug me
+
+Maybe these luxuries can only compensate
+For all the cards you were dealt at the hands of fate
+
+So tell me
+Tell me! tell me! How to be a millionaire
+Tell me! tell me! How to be a millionaire!
+Millionaire! Billionaire! Trillionaire!
+
+Hardly surprising if you might consider
+Loyalties go to the highest of bidders
+What's my opinion? I'd give you ten to one
+Give me a million, a franchise on fun
+But there are millions who often get nowhere
+And there's just one secret I think you should share
+
+Maybe these luxuries can only compensate
+For all the cards you were dealt at the hands of fate
+
+So tell me
+Tell me! tell me! How to be a millionaire
+Tell me! tell me! How to be a millionaire!
+Who wants to be millionaire?
+
+I do! - I don't! - I do!
+Who wants to be millionaire?
+I do! - I don't!
+
+I've seen the future and I can't afford it
+
+
 

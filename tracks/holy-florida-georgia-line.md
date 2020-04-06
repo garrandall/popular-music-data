@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holy-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/holy.html
 name: HOLY
 rankings:
 - end_date: '2016-05-27'
@@ -95,4 +96,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
 ---
+
+When the sun had left and the winter came
+And the sky fall to only bring the rain
+I sat in darkness
+All broken-hearted
+I couldn't find a day I didn't feel alone
+I never meant to cry, started losing hope
+But somehow baby
+You broke through and saved me
+
+You're an angel. Tell me you're never leaving
+'Cause you're the first thing I know I can believe in
+
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+
+You made the brightest days from the darkest nights
+You're the river bank where I was baptized
+Cleansed from the demons
+That were killing my freedom
+Let me lay you down, give me to ya
+Get you singing, babe, hallelujah
+We'll be touching
+We'll be touching heaven
+
+You're an angel. Tell me you're never leaving
+'Cause you're the first thing I know I can believe in
+
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+
+I don't need these stars 'cause you shine for me
+Like fire in my veins, you're my ecstasy
+You're my ecstasy
+
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+You're holy, holy, holy, holy
+I'm high on loving you, high on loving you
+
+You're the healing hands where it used to hurt
+You're my saving grace, you're my kind of church
+You're holy
+
+
 

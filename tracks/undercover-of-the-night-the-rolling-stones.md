@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: undercover-of-the-night-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/undercoverofthenight.html
 name: Undercover Of The Night
 rankings:
 - end_date: '1983-11-18'
@@ -63,4 +64,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
 ---
+
+Hear the screams of Center 42
+Loud enough to bust your brains out
+The opposition's tongue is cut in two
+Keep off the street 'cause you're in danger
+One hundred thousand disparus
+Lost in the jails in South America
+Cuddle up baby
+Cuddle up tight
+Cuddle up baby
+Keep it all out of sight
+Undercover
+Keep it all out of sight
+Undercover of the night
+The sex police are out there on the streets
+Make sure the pass laws are not broken
+The race militia has got itchy fingers
+All the way from New York back to Africa
+Cuddle up baby
+Keep it all out of sight
+Cuddle up baby
+Sleep with all out of sight
+Cuddle up baby
+Keep it all out of sight
+Undercover
+Undercover
+Undercover
+Keep it all out of sight
+Undercover of the night
+All the young men they've been rounded up
+And sent to camps back in the jungle
+And people whisper people double-talk
+And once proud fathers act so humble
+All the young girls they have got the blues
+They're heading on back to Center 42
+Keep it undercover
+Keep it all out of sight
+Keep it undercover
+Keep it all out of sight
+Undercover
+Keep it all out of sight
+Undercover
+Keep it all out of sight
+Undercover of the night
+Down in the bars the girls are painted blue
+Done up in lace, done up in rubber
+The John's are jerky little G.I. Joe's
+On R&R from Cuba and Russia
+The smell of sex, the smell of suicide
+All these things I can't keep inside
+Undercover
+Keep it all out of sight
+Undercover of the night
+Undercover of the night
+Undercover of the night
+Undercover
+Undercover
+Undercover of the night
+
+
 

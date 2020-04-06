@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falling-harry-styles
+lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/falling.html
 name: Falling
 rankings:
 - end_date: '2020-01-03'
@@ -11,4 +12,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
 ---
+
+I'm in my bed
+And you're not here
+And there's no one to blame but the drink and my wandering hands
+
+Forget what I said
+It's not what I meant
+And I can't take it back
+I can't unpack the baggage you left
+
+What am I now?
+What am I now?
+What if I'm someone I don't want around?
+I'm falling again
+I'm falling again
+I'm falling
+
+What if I'm down?
+What if I'm out?
+What if I'm someone you won't talk about?
+I'm falling again
+I'm falling again
+I'm falling
+
+You said you cared
+And you missed me too
+And I'm well aware I write too many songs about you
+
+And the coffee's out
+At the Beachwood Cafe
+And it kills me 'cause I know we've run out of things we can say
+
+What am I now?
+What am I now?
+What if I'm someone I don't want around?
+I'm falling again
+I'm falling again
+I'm falling
+
+What if I'm down?
+What if I'm out?
+What if I'm someone you won't talk about?
+I'm falling again
+I'm falling again
+I'm falling
+
+And I get the feeling that you'll never need me again
+
+What am I now?
+What am I now?
+What if you're someone I just want around?
+I'm falling again
+I'm falling again
+I'm falling
+
+What if I'm down?
+What if I'm out?
+What if I'm someone you won't talk about?
+I'm falling again
+I'm falling again
+I'm falling
+
+
 

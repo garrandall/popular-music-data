@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: america-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/america.html
 name: America
 rankings:
 - end_date: '1981-05-01'
@@ -75,4 +76,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
 ---
+
+Far,
+We've been traveling far
+Without a home
+But not without a star
+
+Free,
+Only want to be free
+We huddle close
+Hang on to a dream
+
+On the boats and on the planes
+They're coming to America
+Never looking back again,
+They're coming to America
+
+Home
+Don't it seem so far away
+Oh, we're traveling light today
+In the eye of the storm
+In the eye of the storm
+
+Home
+To a new and a shiny place
+Make our bed and we'll say our grace
+Freedom's light burning warm
+Freedom's light burning warm
+
+Everywhere around the world
+They're coming to America
+Ev'ry time that flag's unfurled
+They're coming to America
+
+Got a dream to take them there
+They're coming to America
+Got a dream they've come to share
+They're coming to America
+
+They're coming to America
+They're coming to America
+They're coming to America
+They're coming to America
+Today, Today,
+Today, Today, Today
+
+My country 'tis of thee (today)
+Sweet land of liberty (today)
+Of thee I sing (today)
+Of thee I sing
+Today, Today, Today
+Today, today, today......
+
+
 

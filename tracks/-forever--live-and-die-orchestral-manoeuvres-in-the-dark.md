@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -forever--live-and-die-orchestral-manoeuvres-in-the-dark
+lyrics_url: https://www.azlyrics.com/lyrics/orchestralmanoeuvresinthedark/foreverliveanddie.html
 name: (Forever) Live And Die
 rankings:
 - end_date: '1986-10-03'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+
+I never wanted another
+Come over to me and discover
+How I want to be near you
+And you need to be far away
+You always seem to make me feel at home
+Hey you
+
+People like
+I never knew, I never knew, I never knew why
+You make me wanna cry
+I never knew, I never knew, I never knew why
+Forever live and die
+
+I look at all of the people
+Doing it over and over
+You never get any older
+I wish that you could be here
+I look at you and I
+Make the same mistakes
+Hey you
+
+People like
+I never knew, I never knew, I never knew why
+You make me wanna cry
+I never knew, I never knew, I never knew why
+Forever Live and Die
+
+I never knew, I never knew, I never knew why
+You make me wanna cry
+I never knew, I never knew, I never knew why
+Forever Live and Die
+
+
+
+
 

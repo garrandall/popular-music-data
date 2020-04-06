@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: free-fallin--john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/freefallin.html
 name: Free Fallin'
 rankings:
 - end_date: '2008-07-25'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
 ---
+
+She's a good girl, loves her mama
+Loves Jesus and America, too
+She's a good girl, crazy 'bout Elvis
+Loves horses and her boyfriend, too, yeah, yeah
+
+It's a long day living in reseda
+There's a freeway runnin' through the yard
+I'm a bad boy 'cause I don't even miss her
+I'm a bad boy for breaking her heart
+
+And I'm free, free fallin', fallin'
+And I'm free, free fallin', fallin'
+
+All the vampires walkin' through the valley
+They move west down Ventura boulevard
+And all the bad boys are standing in the shadows
+And the good girls are home with broken hearts
+
+And I'm free, free fallin', fallin'
+Now I'm free, free fallin', fallin'
+
+Free fallin',
+Now I'm free fallin',
+Now I'm free fallin',
+Now I'm free fallin',
+Now I'm free fallin',
+Now I'm free fallin',
+Now I'm free fallin',
+Now I'm free fallin'.
+
+I wanna glide down over Mulholland
+I wanna write her, her name in the sky
+I wanna free fall out into nothin'
+Oh, I'm gonna leave this, this world for a while
+
+Now I'm free, free fallin', fallin'
+Now I'm free, free fallin', fallin'
+Now I'm free, free fallin', fallin'
+Now I'm free, free fallin', fallin'
+Free fallin', fallin'
+Free fallin', fallin'
+Free fallin', fallin'
+
+
 

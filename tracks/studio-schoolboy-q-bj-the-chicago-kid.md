@@ -5,6 +5,7 @@ features:
 - BJ The Chicago Kid
 genres: []
 key: studio-schoolboy-q-bj-the-chicago-kid
+lyrics_url: https://www.azlyrics.com/lyrics/schoolboyq/studio.html
 name: Studio
 rankings:
 - end_date: '2014-06-27'
@@ -88,4 +89,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
 ---
+
+
+I'm just sitting in the studio just tryna get to you, baby
+But this song so fucking dope, girl, it's hard not for me to blaze it
+To tell the truth, wish it was you in this booth that I was blazing
+So, I'm just sitting in the studio just tryna get to you, baby
+
+
+See I've been in the studio just tryna get to you, baby
+All night laying verses though I'd rather lay with you, baby
+Bra and panties matching, nail and toes, you were kinda lady
+Angel out of Heaven, such a goddess have a nigga prayin'
+
+
+I'm just sitting in the studio just tryna get to you, baby
+But this song so fucking dope, girl, it's hard not for me to blaze it
+To tell the truth, wish it was you in this booth that I was blazing
+So, I'm just sitting in the studio just tryna get to you, baby
+
+
+You need a real nigga shorty so come and
+Throw that pussy shorty, see I think you and me can make it
+This little verse to get you naked
+See your heart ain't meant for breaking
+Cupid's never been mistaken
+See, I been caught up in the moment
+Shit, my type ain't quite her type
+But now this gangsta nigga on it
+She can twist my weed and hit the 'yac
+I can hit your type without the hat
+Put that pussy on the map
+I see qualities in a bad girl
+I know that ass you got
+Come with attitude and your swag, girl
+You ain't wrong, girl
+Just when that door knock lose your thong, girl
+'Cause you girl, 'cause you girl, girl, 'cause you girl, girl
+
+
+I'm just sitting in the studio just tryna get to you, baby
+But this song so fucking dope, girl, it's hard not for me to blaze it
+To tell the truth, wish it was you in this booth that I was blazing
+So, I'm just sitting in the studio just tryna get to you, baby
+
+
+Throw and loc your pussy, girl, you knowing that your nigga faded
+Can I hit that pussy way I wanna while this record playin'?
+Put my tongue in different places, play a game of operation
+Na-na-na-nla-nla-la-la, you get what I'm sayin'
+No metaphors, nothing like that
+I'm keeping it straight to the point with you
+So, I'mma put this dick up all inside of you
+
+
+I'm just sitting in the studio just tryna get to you, baby
+But this song so fucking dope, girl, it's hard not for me to blaze it
+To tell the truth, wish it was you in this booth that I was blazing
+So I'm just sitting in the studio just tryna get to you, baby
+
+
+I'm just sitting in the studio just tryna get to you, baby
+But this song so fucking dope, girl, it's hard not for me to blaze it
+To tell the truth, wish it was you in this booth that I was blazing
+So, I'm just sitting in the studio just tryna get to you, baby
+
+
 

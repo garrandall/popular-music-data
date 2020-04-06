@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-lights-tiesto
+lyrics_url: https://www.azlyrics.com/lyrics/tiesto/redlights.html
 name: Red Lights
 rankings:
 - end_date: '2014-04-04'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
 ---
+
+Blacked out, everything's faded
+On your love I'm already wasted
+So close that I can taste it now... now...
+
+So let's break right out of these gilded cages
+We're gonna make it now...
+Don't ever turn around
+Don't ever turn around
+
+Nobody else needs to know
+Where we might go...
+We could just run them red lights
+We could just run them red lights
+
+There ain't no reason to stay
+We'll be light years away...
+We could just run them red lights
+We could just run them red lights
+
+We could just run them red lights...
+
+White lights, flirt in the darkness
+This road leads where your heart is
+These signs, something we can't ignore...no...
+
+We can't back down
+We'll never let them change us
+We're gonna make it now
+What are we waiting for...
+What are we waiting for...
+
+Nobody else needs to know
+Where we might go...
+We could just run them red lights
+We could just run them red lights
+
+There ain't no reason to stay
+We'll be light years away...
+We could just run them red lights
+We could just run them red lights
+
+We could just run them red lights...
+We could just run them red lights...
+
+
 

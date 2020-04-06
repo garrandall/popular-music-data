@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smile-lonestar
+lyrics_url: https://www.azlyrics.com/lyrics/lonestar/smile.html
 name: Smile
 rankings:
 - end_date: '1999-12-24'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-29'
 ---
+
+I still remember the night we met
+You said you loved my smile
+But your love for me was like a summer breeze
+Oh, it lasted for a while
+I could hold on a little tighter I know
+But when you love someone you gotta let 'em go so
+
+I'm gonna smile
+'Cause I want to make you happy
+Laugh, so you can't see me cry
+I'm gonna let you go in style
+And even if it kills me
+I'm gonna smile
+
+Kiss me once for the good times, baby
+Kiss me twice for goodbye
+You can't help how you don't feel
+And it doesn't matter why
+Give me a chance to bow out gracefully
+'Cause that's how I want you to remember me
+
+I'm gonna smile
+'Cause I want to make you happy
+Laugh, so you can't see me cry
+I'm gonna let you go in style
+And even if it kills me
+I'm gonna smile
+
+I'm gonna smile
+So you can find the courage
+Laugh, so you won't see me hurtin'
+I'm gonna let you go in style
+And even if it kills me
+I'm gonna smile
+
+
 

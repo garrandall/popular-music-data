@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yakety-yak-the-coasters
+lyrics_url: https://www.azlyrics.com/lyrics/coasters/yaketyyak.html
 name: Yakety Yak
 rankings:
 - end_date: '1958-08-10'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
+
+Take out the papers and the trash
+Or you don't get no spendin' cash
+If you don't scrub that kitchen floor
+You ain't gonna rock and roll no more
+Yakety yak (don't talk back)
+
+Just finish cleanin' up your room
+Let's see that dust fly with that broom
+Get all that garbage out of sight
+Or you don't go out Friday night
+Yakety yak (don't talk back)
+
+You just put on your coat and hat
+And walk yourself to the laundromat
+And when you finish doin' that
+Bring in the dog and put out the cat
+Yakety yak (don't talk back)
+
+Don't you give me no dirty looks
+Your father's hip, he knows what cooks
+Just tell your hoodlum friend outside
+You ain't got time to take a ride
+Yakety yak (don't talk back)
+
+Yakety yak, yakety yak
+Yakety yak, yakety yak
+Yakety yak, yakety yak
+
+
 

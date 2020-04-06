@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -everything-i-do--i-do-it-for-you-bryan-adams
+lyrics_url: https://www.azlyrics.com/lyrics/brandy/everythingidoidoitforyou.html
 name: (Everything I Do) I Do It For You
 rankings:
 - end_date: '1991-07-05'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
 ---
+
+Look in to my eyes
+You will see what you mean to me
+Search your heart,
+search your soul
+Oh, when you find me
+there you'll search no more
+Don't tell me it's not worth tryin' for
+You can't tell me it's not worth dyin' for
+You know it's true,
+everything I do, I do it for you
+Look in to your heart, you will find
+There is nothin' there to hide
+Take me as I am, take my life
+I would give it all, I would sacrifice
+Don't tell me it's not
+worth fightin' for
+I can't help it, there's
+nothin' I want more
+You know it's true,
+everything I do, I do it for you
+There is no love, like your love
+An' no other could give me more love
+There's nowhere, unless your there
+All the time, all the way
+Everything I do
+You can't tell me it's not worth tryin' for
+I just can't help it,
+there's nothin' in the
+world I want more
+Oh, I would fight for
+you, yeah, I'd lie for you
+Walk the wire for you,
+yeah, I'd die for you
+You know it's true,
+everything I do, I do it for you
+
+
 

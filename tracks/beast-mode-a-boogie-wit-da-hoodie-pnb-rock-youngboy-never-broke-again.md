@@ -6,6 +6,7 @@ features:
 - YoungBoy Never Broke Again
 genres: []
 key: beast-mode-a-boogie-wit-da-hoodie-pnb-rock-youngboy-never-broke-again
+lyrics_url: https://www.azlyrics.com/lyrics/boogiewitdahoodie/beastmode.html
 name: Beast Mode
 rankings:
 - end_date: '2017-10-27'
@@ -13,4 +14,124 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
 ---
+
+
+Beast mode (yeah)
+Go beast mode
+
+Ballin' so hard, yeah they think I got the cheat code (huh)
+I got the cheat code
+
+Spent two bands on some mothafuckin' jeans hoe
+Those is Mike Amiri jeans tho
+
+Yeah, bad little bitch, yeah she come from Puerto Rico
+Yeah, she a freak hoe (huh)
+
+I don't really wanna fall in love with a freak hoe
+Yeah, she a freak hoe
+
+Huh, ballin' so hard they gon' think I got the cheat code
+They gon' think I got the cheat code, yeah
+
+
+I don't gotta do it
+NBA gon' follow up, but nigga Rock'll do it
+Yeah, but fuck it I'ma do it
+I got a 40 with a drum and I know how to use it
+It go, with the beat I told 'em it's the music
+See the pinky ring when throw up the W
+I gotta keep a pistol in my Bentley coupe, yeah
+Don't get too comfortable, yeah
+My Patek too flooded up, yeah
+Got a Rollie but I fucked it up, yeah
+We don't know about a 1 on 1
+We don't fuck with them if they don't fuck with us, yeah
+
+
+Beast mode (yeah)
+Go beast mode
+
+Ballin' so hard, yeah they think I got the cheat code (huh)
+I got the cheat code
+
+Spent two bands on some mothafuckin' jeans hoe
+Those is Mike Amiri jeans tho
+
+Yeah, bad little bitch, yeah she come from Puerto Rico
+Yeah, she a freak hoe (huh)
+
+I don't really wanna fall in love with a freak hoe
+Yeah, she a freak hoe
+
+Huh, ballin' so hard they gon' think I got the cheat code
+They gon' think I got the cheat code, yeah
+
+
+Huh, man I swear I be so faded
+I almost forgot that I was famous
+Last night I almost popped a nigga
+He got too close, he had a hoodie on, he wanted a picture
+He ain't even think that I was about to smoke him like a fucking swisher
+I can't afford it, I got a daughter you won't catch me slippin'
+Yeah, I should be gettin' realer. I be gettin' richer
+But I just spent up on my neck could pay a bitch tuition
+All my diamonds they be dancin' like they New Edition
+I mix the Louis and Supreme that's limited edition
+Fuck ya bitch and now ya bitch she missin'
+Yeah, mothafucka I'm in
+
+
+Beast mode (yeah)
+Go beast mode
+
+Ballin' so hard, yeah they think I got the cheat code (huh)
+I got the cheat code
+
+Spent two bands on some mothafuckin' jeans hoe
+Those is Mike Amiri jeans tho
+
+Yeah, bad little bitch, yeah she come from Puerto Rico
+Yeah, she a freak hoe (huh)
+
+I don't really wanna fall in love with a freak hoe
+Yeah, she a freak hoe
+
+Huh, ballin' so hard they gon' think I got the cheat code
+They gon' think I got the cheat code, yeah
+
+
+Fuck her with my jeans on, fuck her with my chains on
+She like how I be kicking she might think that I'm from Hong Kong
+Everybody turn yo' power off if yo' phone's on
+Hoe you gon' get slapped up in yo' shit using the wrong tone
+PnB got us all milly rocking with his song on
+A Boogie just walked up in the party with his hoodie on
+You know me, rollin' off the pills, strapped up with that chrome
+Hoe, don't walk up smilin' in my face if I can't take you home
+Baby girl I'm leaning right now on a 4
+You know I'm going hard when it's time for beast mode
+I'm turnt up, I'm on my body, I'm in crunch mode
+40 Glock up in my pocket you don't wanna know
+
+
+Beast mode (yeah)
+Go beast mode
+
+Ballin' so hard, yeah they think I got the cheat code (huh)
+I got the cheat code
+
+Spent two bands on some mothafuckin' jeans hoe
+Those is Mike Amiri jeans tho
+
+Yeah, bad little bitch, yeah she come from Puerto Rico
+Yeah, she a freak hoe (huh)
+
+I don't really wanna fall in love with a freak hoe
+Yeah, she a freak hoe
+
+Huh, ballin' so hard they gon' think I got the cheat code
+They gon' think I got the cheat code, yeah
+
+
 

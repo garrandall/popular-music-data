@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-so-hard-to-say-goodbye-to-yesterday-boyz-ii-men
+lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/itssohardtosaygoodbyetoyesterday.html
 name: It's So Hard To Say Goodbye To Yesterday
 rankings:
 - end_date: '1991-09-27'
@@ -95,4 +96,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
 ---
+
+How do I say goodbye to what we had?
+The good times that made us laugh
+Outweigh the bad
+
+I thought we'd get to see forever
+But forever's gone away
+It's so hard to say goodbye to yesterday
+
+I don't know where this road
+Is going to lead
+All I know is where we've been
+And what we've been through
+
+If we get to see tomorrow
+I hope it's worth all the wait
+It's so hard to say goodbye to yesterday
+
+And I'll take with me the memories
+To be my sunshine after the rain
+It's so hard to say goodbye to yesterday
+
+And I'll take with me the memories
+To be my sunshine after the rain
+It's so hard to say goodbye to yesterday
+
+
 

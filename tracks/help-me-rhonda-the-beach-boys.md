@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: help-me-rhonda-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/helpmerhonda.html
 name: Help Me Rhonda
 rankings:
 - end_date: '1965-04-23'
@@ -63,4 +64,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
 ---
+
+Well since she put me down I 've been out doin' in my head
+Come in late at night and in the mornin' I just lay in bed
+
+Well, Rhonda you look so fine (look so fine)
+And I know it wouldn't take much time
+For you to help me Rhonda
+Help me get her out of my heart
+
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda yeah
+Get her out of my heart
+
+She was gonna be my wife
+And I was gonna be her man
+But she let another guy come between us
+And it shattered our plan
+
+
+Well, Rhonda you caught my eye (caught my eye)
+And I can give you lotsa reasons why
+You gotta help me Rhonda
+Help me get her out of my heart
+
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda yeah
+Get her out of my heart
+
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda yeah
+Get her out of my heart
+
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+Help me Rhonda
+Help, help me Rhonda
+
+
 

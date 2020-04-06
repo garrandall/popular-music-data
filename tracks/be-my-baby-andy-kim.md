@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-my-baby-andy-kim
+lyrics_url: https://www.azlyrics.com/lyrics/andykim/bemybaby.html
 name: Be My Baby
 rankings:
 - end_date: '1970-11-13'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
 ---
+
+The night we met I knew I needed you so
+And if I had the chance I'd never let you go
+So won't you say you love me
+I'll make you so proud of me
+We'll make 'em turn their heads every place we go
+So won't you please
+
+Be my, be my, be my little baby
+My one and only baby
+Say you'll be my darling
+Be my baby now
+My one and only baby
+
+I'll make you happy, baby
+Just wait and see
+For every kiss you give me
+I'll give you three
+Oh, since the day I saw you
+I have been waiting for you
+You know I will adore you
+Till eternity so won't you please
+
+Be my, be my, be my little baby
+My one and only baby
+Say you'll be my darling
+Be my baby now
+My one and only baby
+
+
 

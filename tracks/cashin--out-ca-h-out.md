@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cashin--out-ca-h-out
+lyrics_url: https://www.azlyrics.com/lyrics/cahout/cashinout.html
 name: Cashin' Out
 rankings:
 - end_date: '2012-05-04'
@@ -87,4 +88,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
 ---
+
+
+Iâm ridinâ âround with that nina
+You know we smokinâ on Keisha
+Hey, hey, hey can I meet you hoe?
+(Cool)
+
+
+36 Oâs so Iâm ridinâ âround with that nina (Iâm ridinâ âround with that nina)
+Ridinâ with a hoe named Keisha, smokinâ on Keisha (You know we smokinâ on Keisha)
+My diamonds talk for me, they say "Hi can I meet you hoe?" (Hey can I meet you hoe?)
+She fly high, high in the sky, hoe I canât see you (Well I canât see you)
+Got a condo on my wrist - girl, Iâm cashinâ out (Iâm cashinâ out)
+Got a condo around my neck - girl, Iâm cashinâ out (Iâm cashinâ out)
+36 Oâs so Iâm ridinâ âround with that nina
+My diamonds talk for me, they say "Hi can I meet you?"
+
+
+I got Versace all on my back, these hoes all on my back
+Plus these plugs all on my back, cause they know Iâm movinâ that pack
+These Louies all in my face, foâ-fifth stay up on my waist
+Plus it ainât on me for nothinâ, so please donât make me catch a case
+Cause bitch Iâm âbout it, me walkinâ âround with no check on me
+Psssh - yeah I doubt it!
+Your girl ainât finna leave with me? Psssh - yeah I doubt it!
+And Iâm like, what the hell they talkinâ âbout?
+And if I got it I bought it, cause boy you know Iâm cashinâ out (cool)
+
+
+36 Oâs so Iâm ridinâ âround with that nina (Iâm ridinâ âround with that nina)
+Ridinâ with a hoe named Keisha, smokinâ on Keisha (You know we smokinâ on Keisha)
+My diamonds talk for me, they say "Hi can I meet you hoe?" (Hey can I meet you hoe?)
+She fly high, high in the sky, hoe I canât see you (Well I canât see you)
+Got a condo on my wrist - girl, Iâm cashinâ out (Iâm cashinâ out)
+Got a condo around my neck - girl, Iâm cashinâ out (Iâm cashinâ out)
+36 Oâs so Iâm ridinâ âround with that nina
+My diamonds talk for me, they say "Hi can I meet you?"
+
+
+Okay I drop the top, hop in
+Hoes they cominâ by flocks in
+Birds cominâ by flocks in
+Pass them birds like Stockton
+Play with my money, Iâm poppinâ
+No actinâ, but itâs a movie
+Got Spinz on the beat so we ainât losing
+Donât act like yoâ hoe ainât choosinâ
+Iâm blowed up, yeah Iâm the bomb, ridinâ round blowinâ on stank bombs
+Pussy so good you should thank moms, top floâ suite chillinâ at The Palms
+We want the whole loaf leave yâall the crumbs, âtil then Iâm runninâ my check up
+And itâs fuck a Bugatti; Iâm callinâ my jet up (cool)
+
+
+36 Oâs so Iâm ridinâ âround with that nina (Iâm ridinâ âround with that nina)
+Ridinâ with a hoe named Keisha, smokinâ on Keisha (You know we smokinâ on Keisha)
+My diamonds talk for me, they say "Hi can I meet you hoe?" (Hey can I meet you hoe?)
+She fly high, high in the sky, hoe I canât see you (Well I canât see you)
+Got a condo on my wrist - girl, Iâm cashinâ out (Iâm cashinâ out)
+Got a condo around my neck - girl, Iâm cashinâ out (Iâm cashinâ out)
+36 Oâs so Iâm ridinâ âround with that nina
+My diamonds talk for me, they say "Hi can I meet you?"
+
+
+Yeah - itâs big pimpinâ over here - touch
+Time to cop the Maybach already had the âvert
+I got big money visions, Sammy Sosa pigeons
+What that mean? That mean they jumpinâ out the kitchen
+And Iâm on the money mission, nobody can stop me
+Just grab your camcorder, press record and go on and watch me
+And you can skate on my ice, just like you playinâ hockey
+And in the booth, I beat the beat up
+Call me Rocky, yeah Iâm cocky (cool)
+
+
+36 Oâs so Iâm ridinâ âround with that nina (Iâm ridinâ âround with that nina)
+Ridinâ with a hoe named Keisha, smokinâ on Keisha (You know we smokinâ on Keisha)
+My diamonds talk for me, they say "Hi can I meet you hoe?" (Hey can I meet you hoe?)
+She fly high, high in the sky, hoe I canât see you (Well I canât see you)
+Got a condo on my wrist - girl, Iâm cashinâ out (Iâm cashinâ out)
+Got a condo around my neck - girl, Iâm cashinâ out (Iâm cashinâ out)
+36 Oâs so Iâm ridinâ âround with that nina
+My diamonds talk for me, they say "Hi can I meet you?"
+
+
+Iâm ridinâ âround with that nina
+You know we smokinâ on Keisha
+Hey, hey, hey can I meet you hoe?
+
+
 

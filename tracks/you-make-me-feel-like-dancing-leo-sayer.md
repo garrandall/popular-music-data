@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-me-feel-like-dancing-leo-sayer
+lyrics_url: https://www.azlyrics.com/lyrics/leosayer/youmakemefeellikedancing.html
 name: You Make Me Feel Like Dancing
 rankings:
 - end_date: '1976-10-29'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
 ---
+
+You've got a cute way of talking
+You got the better of me
+Just snap your fingers and I'm walking
+Like a dog hanging on your lead
+I'm in a spin you know
+Shaking on string you know
+
+You make me feel like dancing
+I'm gonna dance the night away
+You make me feel like dancing
+I'm gonna dance the night away
+You make feel like dancing
+I feel like dancing
+Dancing, dance the night away
+I feel like dancing, dancing, aaaah
+
+Quarter to four in the morning
+I ain't feeling tired no, no, no, no, no
+Just hold me tight and leave on the light
+'Cause I don't want to go home
+You put a spell on me
+I'm right where you want me to be
+
+You make me feel like dancing
+I gonna to dance the night away
+You make me feel like dancing
+I'm gonna dance the night away
+You make feel like dancing
+I feel like dancing, dancing
+Dance the night away
+I feel like dancing, dancing
+Dance the night away
+I feel like dancing, dancing
+Dance the night away
+I feel like dancing, dancing
+
+And if you'll let me stay
+We'll dance our lives away
+You make me feel like dancing
+I want to dance my life away
+You make me feel like dancing
+I'm want to dance my life away
+You make feel like dancing
+I'm want to dance my life away
+You make feel like dancing
+I'm want to dance my life away
+
+
 

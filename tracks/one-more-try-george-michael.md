@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-try-george-michael
+lyrics_url: https://www.azlyrics.com/lyrics/beverleyknight/onemoretry.html
 name: One More Try
 rankings:
 - end_date: '1988-04-22'
@@ -79,4 +80,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
 ---
+
+I've had enough of danger
+And people on the street
+I'm looking out for angels
+Just trying to find some peace
+Now I think it's time
+That you let me know
+So if you love me say you love me
+If you don't then just let me go
+
+'Cos teacher
+There are things that I don't want to learn
+And the last one I had
+Made me cry
+So I don't want to learn to
+Hold you, touch you
+Think you're mine
+âCause it ain't no joy
+For an uptown boy
+Whose teacher has told him good-bye, good-bye, good-bye
+
+When you were just a stranger
+And I was at your feet I felt no danger
+I didn't feel the danger
+Now I feel the heat
+(I see) That look in your eyes
+Itâs telling me no
+So if you think that you love me
+Know that you need me
+I wrote the song,
+I know it's wrong
+Just let me go
+
+And teacher
+There are things
+I don't want to learn
+Oh the last one I had
+Made me cry
+So I don't want to learn to
+Hold you, touch you
+Think that you're mine
+Because it ain't no joy
+For an uptown boy
+Whose teacher has told him good-bye, good-bye
+
+So when you say that you need me
+You'll never leave me
+I know you're wrong, you're not that strong
+Just let me go
+
+Teacher
+There are things
+That I still have to learn
+But the one thing I have is my pride
+I don't want to learn to hold you, touch you
+Think that you're mine
+Because there ain't no joy
+For an uptown boy
+Who just isn't willing to try
+I'm so cold inside
+Maybe just one more try
+
+
 

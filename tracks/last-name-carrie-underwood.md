@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-name-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/lastname.html
 name: Last Name
 rankings:
 - end_date: '2008-04-25'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
 ---
+
+Last night I got served a little bit too much of that poison, baby
+Last night I did things I'm not proud of
+And I got a little crazy
+Last night I met a guy on the dance floor and I let him call me "Baby"
+
+And I don't even know his last name
+My momma would be so ashamed
+It started off "Hey, cutie, where you from?"
+And then it turned into "Oh, no! What have I done?"
+And I don't even know his last name
+
+We left the club right 'bout around 3 o'clock in the morning
+His Pinto sitting there in the parking lot, well, it should have been a warning
+I had no clue what I was getting into
+So, I'll blame it on the Cuervo
+Oh, where did my manners go?
+
+I don't even know his last name
+Oh, my momma would be so ashamed
+It started off "Hey, cutie, where you from?"
+And then it turned into "Oh, no! What have I done?"
+And I don't even know his last name
+
+Here we go
+
+Today I woke up thinking about Elvis somewhere in Vegas
+I'm not sure how I got here
+Or how this ring on my left hand just appeared outta nowhere
+I gotta go take the chips and the Pinto and hit the road
+They say, "What happens here, stays here, all of this will disappear."
+
+There's just one little problem
+
+I don't even know my last name
+Oh, my momma would be so ashamed
+It started off "Hey, cutie, where you from?"
+And then it turned into "Oh, no! What have I done?"
+And I don't even know my last name
+
+What have I done
+What have I done
+What have I done
+
+Oh, what have I done?
+I don't even know my last name
+
+Well, it turned into "Oh, no! What have I done?"
+And I don't even know my last name
+
+It started off "Hey, cutie, where you from?"
+And then it turned into, "Oh, no! What have I done?"
+And I don't even know my last name
+
+
 

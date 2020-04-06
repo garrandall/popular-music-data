@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-the-party-at-jagged-edge-with-nelly
+lyrics_url: https://www.azlyrics.com/lyrics/junesdiary/wherethepartyat.html
 name: Where The Party At
 rankings:
 - end_date: '2001-06-08'
@@ -123,4 +124,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
 ---
+
+June's Diary
+Y'all ready to get lit
+Ha ha
+
+
+Everybody, put your hands up, throw 'em up
+When the beat come back around e'rybody
+
+Don't be trippin' when you see us in the club
+Just show a little love, represent your side like me
+Cause 'round here if you slick pick a hot one
+Ride shotgun, couple of 'em got one
+Belvedere in the rear of the club
+Pulled up on dubs yeah we 'bout to go and buy the bar up
+JD so for sure we ain't playin'
+Hang with no lames, hit the park and sayin'
+
+Ay, where the party at? (Where the party at)
+Girls is on the way, where the Bacardi at? (Bacardi at, yeah)
+Bottles and models, talkin' all a that
+Know I can't forget about my thugs
+Where the party at?
+And all my girls
+Where the party at?
+Off in the club
+Where the party at?
+If the party's where you're at let me hear you say
+
+If the party's where you're at just let me know
+
+All the girls in the club in they best outfits
+Just showin' that skin, tryna make these niggas wanna spit
+Where you been boy? You and your friend
+Need to come to the back where we got it locked down
+In your white t-shirt or a three-piece suit
+Don't matter what you wear all that matters is who you with
+Some jiggy and some are straight grindin'
+All up in the club just to have a good time
+
+Ay, where the party at?
+Girls is on the way, where the Bacardi at?
+Bottles and models, talkin' all a that
+Know I can't forget about my thugs
+Where the party at?
+And all my girls
+Where the party at?
+Off in the club
+Where the party at?
+If the party's where you're at let me hear you say
+
+If the party's where you're at just let me know
+
+Just show me where that party at dirty
+Somewhere where it's crackin' right around one-thirty
+Never get done too early
+Come in as is, doo-rags and Tims
+I'm rollin' past his, his little Jag and Benz
+With the rolls, not the one with the stem, the one with the rims
+The one that seem to make more enemies than friends
+I'm slidin' in past doors, both eyes closed
+Both arms rose, both charms froze
+With the JD JD Squa Squad till death
+Buyin' bottles, bottles, until it ain't none left
+I'm quick to go left, I blaze with no rep
+We jams more than them, baby show me the club
+I'm like "hey, where that Bacardi at?"
+Come and mix it with the Cris', baby, what's wrong with that?
+We in the V.I.P. twisted, down right spliffed it
+Two way and shit, actin' like they missed it
+
+Ay, where the party at?
+Girls is on the way, where the Bacardi at?
+Bottles and models, talkin' all a that
+Know I can't forget about my thugs
+Where the party at?
+And all my girls
+Where the party at?
+Off in the club
+Where the party at?
+If the party's where you're at let me hear you say
+
+If the party's where you're at just let me know
+(Just let me know)
+
+
+Just put your hands up, throw 'em up
+Right side, just put your hands up, throw 'em up
+Everybody, put your hands up, throw 'em up
+When the beat come back do do it do do it again
+Eastside run this mutha for ya? (Hell yeah)
+Do my southside run this mutha for ya? (Hell yeah)
+And them haters ain't hittin' on, ain't talkin' 'bout us
+And they look like
+If the party's where you're at let me hear you say
+
+
 

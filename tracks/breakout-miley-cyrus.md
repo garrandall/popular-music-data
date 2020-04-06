@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakout-miley-cyrus
+lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/breakout.html
 name: Breakout
 rankings:
 - end_date: '2008-08-15'
@@ -23,4 +24,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
 ---
+
+Every weeks the same
+Stuck in school's so lame
+My parents say that I'm lazy
+Getting up at 8 AM's crazy
+
+Tired of being told what to do
+So unfair
+So uncool
+
+The day's too long
+And I'm holding on
+'til I hear the bell ring
+
+'cause that's time when we're gonna
+(Time when we're gonna)
+
+
+Breakout
+Let the party start
+We're gonna stay out
+Gonna break some hearts
+We're gonna dance till the dance floor falls apart
+Uh oh, all over again.
+We're gonna wake up everyone we know
+We're gonna have some fun, gonna lose control
+Feels so good, to let go-oh-oh.
+
+Hangin' out's just somethin' we like to do
+My friends and the mess we get into
+These are the lessons that we choose
+Not a book full of things we'll never use
+
+
+
+I wish it would never end,
+Spending time with my friends.
+Oh with my friends!
+
+
+
+
 

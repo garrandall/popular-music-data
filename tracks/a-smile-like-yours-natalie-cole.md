@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-smile-like-yours-natalie-cole
+lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/asmilelikeyours.html
 name: A Smile Like Yours
 rankings:
 - end_date: '1997-10-17'
@@ -27,4 +28,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
 ---
+
+Hmm, thought I'd seen everything there was to see in this world
+Now I'm not so sure I've really seen anything at all
+I thought life could show me no surprises
+And then you came and showed me I was wrong
+I have seen the bluest skies, rainbows that would make you cry
+I have seen miracles that moved my soul, days that changed my life
+I have seen the brightest stars shine like diamonds in the dark
+Seen all the wonders of the world, but I've never seen a smile
+As beautiful as yours, ooh, ooh, ooh, oh, I thought I'd been everywhere
+I've climbed a mountain so high, sailed the sea, crossed the sky
+And still I was nowhere at all, until that day, oh, you came to my senses
+And your smile, it made sense out of it all, (I have seen the bluest skies)
+Rainbows that would make you cry, I have seen miracles
+
+(miracles that moved me soul) that moved my soul, days that changed my life,
+I have seen the brightest stars shine like diamonds in the dark
+Seen all the wonders of the world, but I've never seen a smile as beautiful as yours
+(smile so beautiful) so beautiful, comes one time in a lifetime
+A smile this beautiful, (a smile this beautiful) I've never dreamed I'd ever see, oh
+(I have seen the bluest skies) I have seen it, (rainbows that would make you cry)
+That would make you cry, I've seen miracles (miracles) moved my soul,
+(days that changed my life) and days that changed my life
+I have seen the brightest stars shine like diamonds in the dark
+Oh, I've seen the wonders of this world (wonders of the world)
+But I've never seen a smile (never seen a smile before as beautiful as yours)
+Oh, I've never seen a smile before, (never seen a smile before as beautiful)
+As beautiful as yours.
+
+
 

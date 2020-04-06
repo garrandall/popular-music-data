@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-bear-johnny-preston
+lyrics_url: https://www.azlyrics.com/lyrics/johnnypreston/runningbear.html
 name: Running Bear
 rankings:
 - end_date: '1959-10-18'
@@ -115,4 +116,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+
+On the bank of the river
+Stood Running Bear, young Indian brave
+On the other side of the river
+Stood his lovely Indian maid
+
+Little White Dove was her name
+Such a lovely sight to see
+But their tribes fought with each other
+So their love could never be
+
+Running Bear loved Little White Dove
+With a love big as the sky
+Running Bear loved Little White Dove
+With a love that couldn't die
+
+He couldn't swim the raging river
+'Cause the river was too wide
+He couldn't reach Little White Dove
+Waiting on the other side
+
+In the moonlight, he could see her
+Throwing kisses 'cross the waves
+Her little heart was beating faster
+Waiting there for her Indian brave
+
+Running Bear loved Little White Dove
+With a love big as the sky
+Running Bear loved Little White Dove
+With a love that couldn't die
+
+Running Bear dove in the water
+Little White Dove did the same
+And they swam out to each other
+Through the swirling stream they came
+
+As their hands touched and their lips met
+The raging river pulled them down
+Now they'll always be together
+In their happy hunting ground
+
+Running Bear loved Little White Dove
+With a love big as the sky
+Running Bear loved Little White Dove
+With a love that couldn't die
+
+
 

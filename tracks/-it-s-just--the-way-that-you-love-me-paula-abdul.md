@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -it-s-just--the-way-that-you-love-me-paula-abdul
+lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/thewaythatyouloveme.html
 name: (It's Just) The Way That You Love Me
 rankings:
 - end_date: '1988-11-18'
@@ -107,4 +108,116 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
 ---
+
+The way that you love me
+The way that you love me
+The way that you love me
+It's just the way that you love me
+
+The way that you love me
+It's just the way that you love me
+The way that you love me
+It's just the way that you love me
+
+It ain't the clothes that you wear
+It ain't the things that you buy
+It ain't your house on the hill
+It ain't the plane that you fly
+
+It ain't your black limousine
+It ain't your ninety-foot yacht
+It ain't the things that you'll get
+It ain't the things that you got
+
+It ain't the money or the diamond rings
+Honey, I ain't impressed with your material things
+
+It's the way that you love me
+It's just the way that you love me, baby
+The way that you love me
+It's just the way that you love me, babe
+
+It ain't your friends at the top
+It ain't their fortune and fame
+It ain't your heavy connections
+It ain't the Hollywood game
+
+Ain't famous people or the parties they throw
+Honey, I ain't impressed with all the people you know
+
+It's just the way that you love me
+(In the heat of the night)
+It's just the way that you love me, baby
+
+It's just the way that you love me
+(When you're lovin' me right)
+It's just the way that you love me, baby
+
+It's just the way that you love me
+(And the things that you do)
+It's just the way that you love me, baby
+
+It's just the way that you love me
+(Make me crazy for you)
+It's just the way that you love me, baby
+
+Break it down
+That's right
+Keep it right there
+I like that
+Get tough
+
+It ain't the money or the diamond rings
+Honey, I ain't impressed with those material things
+
+It ain't the trips to Brazil
+It ain't the weekends in Rome
+It ain't the French Riviera
+You know I'd rather stay home
+
+Ain't the Bahamas, it ain't Monaco
+Honey, I ain't impressed with all the places we go
+
+It's just the way that you love me
+The way that you love me, baby
+The way that you love me
+It's just the way that you love me, baby
+
+The way that you love me
+(It ain't the money)
+It's just the way that you love me
+(Or the diamond rings)
+
+The way that you love me
+(Ain't what you buy my, baby)
+It's just the way that you love me
+(Ain't material things)
+
+The way that you love me
+(Ain't your Maserati)
+It's just the way that you love me
+(Your house on the hill)
+
+The way that you love me
+(It ain't the parties)
+It's just the way that you love me
+Or your trips to Brazil
+
+Watch me dancing
+Watch me dancing
+Watch me dancing
+I'm watching your, girl, girl
+Watch me dancing
+Keep a-rocking the world
+
+Watch me dancing
+you dance
+Go Paula
+Watch me dancing
+
+Watch me dancing
+I'm watching your, girl
+Watch me dancing
+
+
 

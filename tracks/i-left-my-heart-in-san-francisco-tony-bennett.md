@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-left-my-heart-in-san-francisco-tony-bennett
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/ileftmyheartinsanfrancisco.html
 name: I Left My Heart In San Francisco
 rankings:
 - end_date: '1962-08-17'
@@ -91,4 +92,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
 ---
+
+I left my heart in San Francisco
+High on a hill it calls to me
+To be where little cable cars
+Climb halfways to the stars
+The morning fog may chill the air
+I don't care
+
+My love waits there in San Francisco
+Above the blue and windy sea
+When I come home to you San Francisco
+Your golden sun will shine for me
+
+(My love waits there in San Francisco)
+(Above the blue and windy sea)
+When I come home to you San Francisco
+Your golden sun will shine for me
+
+
 

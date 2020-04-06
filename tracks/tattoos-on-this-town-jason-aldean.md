@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tattoos-on-this-town-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/tattoosonthistown.html
 name: Tattoos On This Town
 rankings:
 - end_date: '2011-10-14'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
 ---
+
+There's still black marks on that county road,
+Where we drag raced our pick-ups and Mustangs
+And weathered all the sun and rain.
+And to this day up on that overpass,
+Even underneath the new paint, you can still see
+"Allie, will you marry me?"
+
+Take a ride, look around
+There ain't no doubt
+
+It sure left its mark on us, we sure left our mark on it
+We let the world know we were here with everything we did
+We laid a lot of memories down, like tattoos on this town
+
+There's still a rope burn on that old branch, that hangs over the river.
+I still got the scar
+From swinging out a little too far.
+There ain't a corner of this hallow ground,
+That we ain't laughed or cried on.
+It's where we loved, lived and learned real life stuff.
+It's everything we're made of.
+
+It sure left its mark on us, we sure left our mark on it
+We let the world know we were here with everything we did
+We laid a lot of memories down, like tattoos on this town
+Like tattoos on this town.
+
+Everywhere, there we are,
+It hits me right in my heart.
+
+It sure left its mark on us, we sure left our mark on it
+We let the world know we were here with everything we did
+We laid a lot of memories down,
+And we'll always be hangin' around,
+Like tattoos on this town
+Like tattoos on this town
+
+
 

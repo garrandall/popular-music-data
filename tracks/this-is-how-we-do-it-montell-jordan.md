@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-how-we-do-it-montell-jordan
+lyrics_url: https://www.azlyrics.com/lyrics/misteeq/thisishowwedoit.html
 name: This Is How We Do It
 rankings:
 - end_date: '1995-03-03'
@@ -123,4 +124,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-09'
 ---
+
+This is how we do it in a UK vibe
+This is how we do it
+Ha it's the Mis-Teeq (Mis-Teeq, Mis-Teeq)
+This is how we do it
+Feel the flava this is party time
+This is how we do it
+Cos Su-Elise, Alesha, Sabrina bring the rhyme
+
+This is how we do it, it's Friday night
+And I feel all right
+The party's here on the West side
+So I reach for my 40 and I turn it up
+Designated driver turn the keys to my truck
+Hit the shore 'cause I'm faded
+Guys in the street say, "Girls, yo we made it!"
+It feels so good in my hood tonight
+The summertime skirts and the guys in Kani
+All the gang bangers forgot about the drive-by
+
+You gotta get your groove on, before you go get paid
+So tip up your cup and throw your hands up
+And let me hear the party say
+
+I'm kinda buzzed and it's all because (This is how we do it)
+South Central does it like nobody does (This is how we do it)
+To all my neighbours you got much flava (This is how we do it)
+So flip the track, bring the old school back (This is how we do it)
+
+This is how we do it, all hands are in the air
+And wave them from here to there
+If you're an O.G. mack or a wanna-be playa
+You see the hood's been good to me
+Ever since I was a lower-case G
+But now I'm a big G, the guys see I got the money
+Dollar dollar bill y'all
+
+If you were from where I'm from then you would know
+That I gotta get mine in a big black truck
+You can get yours in a '6 4
+Whatever it is, the party's underway
+So tip up your cup and throw your hands up
+And let me hear the party say
+
+I'm kinda buzzed, and it's all because (This is how we do it)
+South Central does it like nobody does (This is how we do it)
+To all my neighbours you got much flava (This is how we do it)
+So flip the track, bring the old school back (This is how we do it)
+
+Oh I'm buzzing because (This is how we do it)
+South Central does it like nobody does, nobody does (This is how we do it)
+L O N, D O N (This is how we do it) all my homies
+I'll never come wack on an old school track (This is how we do it)
+
+Check it out!
+Once upon a time in '94
+Mis-Teeq made no money and life sure was slow
+And all they said was 5'8" he stood
+And people thought the music that he made was good
+There lived a D.J. PDS was his name
+He came up to me and this is what he said
+You and them girls are gonna make some cash
+Sell a million records and we'll make in a dash
+
+Oh I'm buzzing because (This is how we do it)
+South Central does it like nobody does, nobody does (This is how we do it)
+L O N, D O N (This is how we do it) all my homies
+I'll never come wack on an old school track (This is how we do it)
+
+I'm kinda buzzed and it's all because (This is how we do it)
+South Central does it like nobody does (This is how we do it)
+To all my neighbours you got much flava (This is how we do it)
+So flip the track, bring the old school back (This is how we do it)
+
+This is how we do it (This is how we do it)
+Mis-Teeq does it like nobody does (This is how we do it)
+All my neighbours you got much flava (This is how we do it)
+And we'll never come wack on an old school back (This is how we do it)
+
+This is how we do it
+This is how we do it
+This is how we do it
+This is how we do it
+
+
 

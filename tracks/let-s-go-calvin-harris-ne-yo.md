@@ -5,6 +5,7 @@ features:
 - Ne-Yo
 genres: []
 key: let-s-go-calvin-harris-ne-yo
+lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/letsgo.html
 name: Let's Go
 rankings:
 - end_date: '2012-05-18'
@@ -88,4 +89,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
 ---
+
+Let's go
+Make no excuses now
+I'm talking here and now
+I'm talking here and now
+Let's go
+Your time is running out
+I'm talking here and now
+I'm talking here and now
+
+It's not about what you've done
+It's about what you're doing
+It's all about where you're going no matter where you've been
+Let's go
+Let's go
+Let's go
+Let's go
+
+Hey, it's now or never
+Ohhh, ohhh
+Lets go
+Tomorrow's good, tonight is better
+Ohhh, ohhh
+Ohhh, let's go
+
+There is no better time
+I'm talking here and now
+I'm talking here and now
+Let's go
+Right now is where you shine
+I'm talking here and now
+I'm talking here and now
+
+It's not about what you've done
+It's about what you're doing
+It's all about where you're going no matter where you've been
+Let's go
+Let's go
+Let's go
+Let's go
+
+Hey, it's now or never
+Ohhh, ohhh
+Let's go
+Tomorrow's good, tonight is better
+Ohhh ohhh
+
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight
+Let's make it happen
+Ooh, let's make it happen tonight 
+Let's go
+Let's go
+Let's go
+
+Hey, it's now or never
+Ooh, ooh
+Let's go
+Tomorrow's good, tonight is better
+Ooh, ooh
+Ooh, let's go
+
+
 

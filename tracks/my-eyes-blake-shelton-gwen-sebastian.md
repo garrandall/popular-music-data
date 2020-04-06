@@ -5,6 +5,7 @@ features:
 - Gwen Sebastian
 genres: []
 key: my-eyes-blake-shelton-gwen-sebastian
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/myeyes.html
 name: My Eyes
 rankings:
 - end_date: '2014-05-23'
@@ -72,4 +73,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
 ---
+
+Those high heels with that sun dress
+Turquoise heart hanging 'round your neck
+Red lips like wine, wanna drink 'em up
+And keep on drinkin' 'til you make me drunk
+
+Tied up hair, wanna let it down
+And just let the rest fall to the ground
+You take beautiful to the max
+Can't help myself when you look like that
+
+Come a little closer, come a little closer
+Come a little closer, girl the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+Come a little closer, come a little closer
+Come a little closer, love the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+There's a million stars dancing in the sky
+A picture perfect moon so bright
+But I don't care, I'm looking at you
+From where I stand you can't beat the view
+
+Come a little closer, come a little closer
+Come a little closer, girl the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+Come a little closer, come a little closer
+Come a little closer, love the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+My eyes have seen
+Some amazing things
+But girl, my eyes ain't seen
+Nothing quite like you, hey baby
+
+Come a little closer, come a little closer
+Come a little closer, girl the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+Come a little closer, come a little closer
+Come a little closer, love the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+Come a little closer, come a little closer
+Come a little closer, love the way you look tonight
+My eyes are the only thing I don't wanna take off of you
+
+
 

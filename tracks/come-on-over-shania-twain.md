@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-over-shania-twain
+lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/comeonover.html
 name: Come On Over
 rankings:
 - end_date: '1999-10-29'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
 ---
+
+Get a life-get a grip
+Get away somewhere, take a trip
+Take a break-take control
+Take advice from someone you know 
+Come on over-come on in
+Pull up a seat-take a load off your feet
+Come on over-come on in
+You can unwind-take a load off your mind 
+
+Make a wish-make a move
+Make up your mind-you can choose
+When you're up-when you're down
+When you need a laugh come around 
+
+Come on over-come on in
+Pull up a seat-take a load off your feet
+Come on over-come on in
+You can unwind-take a load off your mind 
+
+Oh, oh, oh... 
+
+Be a winner-be a star
+Be happy to be who you are
+Gotta be yourself-gotta make a plan
+Gotta go for it while you can 
+
+Come on over-come on in
+Pull up a seat-take a load off your feet
+Come on over-come on in
+You can unwind-take a load off your mind 
+
+Get a life-get a grip
+Get away somewhere, take a trip
+Take a break-take control
+Take advice from someone you know 
+
+Come on over-come on in
+Pull up a seat-take a load off your feet
+Come on over-come on in
+You can unwind-take a load off your mind 
+
+Oh, oh, oh...
+
+
 

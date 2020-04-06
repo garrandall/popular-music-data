@@ -5,6 +5,7 @@ features:
 - H.E.R.
 genres: []
 key: best-part-daniel-caesar-h-e-r-
+lyrics_url: https://www.azlyrics.com/lyrics/danielcaesar/bestpart.html
 name: Best Part
 rankings:
 - end_date: '2018-08-10'
@@ -84,4 +85,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
 ---
+
+
+Oh, ey
+
+You don't know babe
+When you hold me
+And kiss me slowly
+It's the sweetest thing
+And it don't change
+If I had it my way
+You would know that you are
+
+You're the coffee that I need in the morning
+You're my sunshine in the rain when it's pouring
+Won't you give yourself to me
+Give it all, oh
+
+
+I just wanna see
+I just wanna see how beautiful you are
+You know that I see it
+I know you're a star
+Where you go I'll follow
+No matter how far
+If life is a movie
+Oh you're the best part, oh
+You're the best part, oh
+Best part
+
+
+It's this sunrise
+And those brown eyes, yes
+You're the one that I desire
+When we wake up
+And then we make love
+It makes me feel so nice
+
+You're my water when I'm stuck in the desert
+You're the Tylenol I take when my head hurts
+You're the sunshine on my life
+
+
+I just wanna see how beautiful you are
+You know that I see it
+I know you're a star
+Where you go I'll follow
+No matter how far
+If life is a movie
+Then you're the best part, oh
+You're the best part, oh
+Best part
+
+If you love me won't you say something
+If you love me won't you
+Won't you
+If you love me won't you say something
+If you love me won't you
+Love me, won't you
+If you love me won't you say something
+If you love me won't you
+If you love me won't you say something
+If you love me won't you
+Love me, won't you
+If you love me won't you say something
+If you love me won't you
+If you love me won't you say something
+If you love me won't you
+Love me, won't you
+
+
 

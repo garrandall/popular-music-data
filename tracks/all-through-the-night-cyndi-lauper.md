@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-through-the-night-cyndi-lauper
+lyrics_url: https://www.azlyrics.com/lyrics/sleepingatlast/allthroughthenight.html
 name: All Through The Night
 rankings:
 - end_date: '1984-10-12'
@@ -83,4 +84,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
 ---
+
+All through the night, I'll be awake and I'll be with you.
+All through the night, this precious time, when time is new.
+All, all through the night today, knowing that we feel
+the same, without saying, the same without saying
+
+We have no past we won't reach back,
+Keep with me forward all through the night
+and once we start a meter clicks,
+and it goes running all through the night.
+Until it ends, there is no end.
+
+All through the night a stray cat is crying, stray cat sings back.
+All through the night, they have forgotten what by they do lack.
+Under those white street lamps, there is a little chance they may see you, a chance they may see you.
+
+We have no past, we won't reach back
+Keep with me forward all through the night,
+And once we start, the meter clicks,
+it goes running all through the night.
+
+Until it ends there is no end, keep with me forward all through the night and once we start,
+the meter clicks, and goes running all through the night.
+Until it ends, there is no end, keep with me forward all through the night.
+Keep with me all through the night.
+
+
 

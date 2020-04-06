@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: muscles-diana-ross
+lyrics_url: https://www.azlyrics.com/lyrics/dianaross/muscles.html
 name: Muscles
 rankings:
 - end_date: '1982-10-08'
@@ -75,4 +76,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
+
+She said she wants a man
+To always understand
+But that's alright for her
+Still it ain't enough for me
+
+And she said she wants a guy
+To keep her satisfied
+But that's alright for her
+But it ain't enough for me
+
+Still, I don't care
+If he's young or old
+(Just make him beautiful)
+I just want someone
+I can hold on to
+
+I want muscles
+All, all over his body
+(Make him strong enough)
+(From his head down to his toes)
+I want muscles
+All, all over his body
+(Make him strong enough)
+(From his head down to his toes)
+
+They say they have to see
+His real personality
+But that's alright for them
+Still it ain't enough for me
+I need what the eyes can see, ah
+(His anatomy)
+If that's alright for them
+Still it ain't enough for me
+
+I don't care if he's young or old
+(Just make him beautiful)
+I just want some strong man
+To hold on to
+
+I want muscles
+All, all over his body
+(Make him strong enough)
+(From his head down to his toes)
+I want muscles
+Whooooa-ho-ho, all over his body
+(Make him strong enough)
+(From his head down to his toes)
+
+Muscle man, I want to love you
+In the sun, or on your body
+Come with me, high in the cascades
+Let this be, we've got this thing made
+Lost at sea, hide the desert
+Stay with me, you won't regret it
+Take this love, so deep to swim in
+Come to me, and let the love in
+
+She said she wants a man
+To always understand
+But that's alright for her
+Still it ain't enough for me
+
+I don't care if he's young or old
+(Just make him beautiful)
+I just want someone I can hold on to
+
+I want muscles
+All, all over his body
+(Make him strong enough)
+(From his head down to his toes)
+I want muscles
+Whoooa-ho-ho, all over his body
+All over his
+(I want) muscles
+All, all, all over his body
+(I want) muscles
+I want all I can get
+All over him, all over him
+All over him
+(I want) muscles, muscles, muscles...
+
+
 

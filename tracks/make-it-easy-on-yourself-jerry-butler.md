@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-it-easy-on-yourself-jerry-butler
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/makeiteasyonyourself.html
 name: Make It Easy On Yourself
 rankings:
 - end_date: '1962-07-13'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
 ---
+
+Make it easy on yourself
+Oh, breaking up is so very hard to do
+
+If you really love him
+And there's nothing I can do
+Don't try to spare my feelings
+Just tell me that we're through
+
+And make it easy on yourself
+Make it easy on yourself
+'Cause breaking up is so very hard to do
+
+And if the way I hold you
+Can't compare to his caress
+No words of consolation
+Will make me miss you less
+
+My darling, if this is goodbye
+I just know I'm gonna cry
+So run to him
+Before you start crying too
+
+And make it easy on yourself
+Make it easy on yourself
+'Cause breaking up is so very hard to do
+
+Oh, baby, it's so hard to do
+
+
 

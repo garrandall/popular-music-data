@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sail-awolnation
+lyrics_url: https://www.azlyrics.com/lyrics/awolnation/sail.html
 name: Sail
 rankings:
 - end_date: '2011-09-09'
@@ -323,4 +324,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
 ---
+
+Sail!
+
+This is how I show my love
+I made it in my mind because
+I blame it on my A.D.D. baby
+
+This is how an angel dies
+I blame it on my own supply
+Blame it on my A.D.D. baby
+
+Sail!
+Sail!
+Sail!
+Sail!
+Sail!
+
+Maybe I should cry for help
+Maybe I should kill myself (myself)
+Blame it on my A.D.D. baby
+
+Maybe I'm a different breed
+Maybe I'm not listening
+So blame it on my A.D.D. baby
+
+Sail!
+Sail!
+Sail!
+Sail!
+Sail!
+
+La la la la la
+La la la la la oh!
+La la la la la,
+La la la la la oh!
+La la la la la,
+La la la la la,
+
+Sail!
+Sail!
+Sail!
+Sail!
+
+Sail with me into the dark
+Sail!
+Sail with me into the dark
+Sail!
+Sail with me into the dark
+Sail!
+Sail with me
+Sail!
+
+
 

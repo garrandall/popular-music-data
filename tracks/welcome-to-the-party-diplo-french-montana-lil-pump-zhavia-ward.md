@@ -7,6 +7,7 @@ features:
 - Zhavia Ward
 genres: []
 key: welcome-to-the-party-diplo-french-montana-lil-pump-zhavia-ward
+lyrics_url: https://www.azlyrics.com/lyrics/diplo/welcometotheparty.html
 name: Welcome To The Party
 rankings:
 - end_date: '2018-06-08'
@@ -26,4 +27,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
 ---
+
+
+Haaan
+We on fire
+Step up in the party, step up in the party
+Ha (Haaan)
+We on fire
+Ride up to the party, ride up to the party
+Ha (Haaan, aye) (live it up)
+
+
+Welcome to the party, aye
+Welcome to the party, aye
+Welcome to the party, aye
+Welcome to the party
+
+Hit 'em up (haaan), get 'em up (haaan)
+Put 'em up (haaan), we wakin' up (haaan)
+Fly with my dogs, ridin' high when we pull up (haaan)
+Fly with my dogs, ridin' high when we pull up (haaan)
+When we ride, when we pull up (haaan)
+We be high, when we pull up (haaan)
+Coupe with the top down, no ceilin'
+Rocks on the watch now, armageddon
+Roof on fire, fire
+We ride, ride
+Pull up in a tank, bow-bow (haaan)
+Yeah, on Ciroc, in the drop, full of beans
+Yeah, we the squad, 100 cars full of tings
+Yeah, I pull up with fire boy chinchilla
+Yeah, it's Frenchy Montana, quilla and vanilla
+Roof on fire, we be higher like a wheelie
+Shawty bad, talkin' MJ Thriller
+Welcome to the party, sippin' on the Act
+Pull up in a 'Rari, DJ bring it back
+Fell in love with shawty, money like Shaq
+Welcome to the party (live it up)
+
+
+Welcome to the party (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+Welcome to the party (welcome to the party)
+Burn up, let it burn
+Burn up, let it burn
+Burn up, let it burn (Lil Pump, ooh)
+(I'mma let it burn) (ooh, ooh, ooh)
+Burn up, let it burn
+Essketit
+
+
+I can't feel my body, 'cause I pop a lot of molly
+Welcome to the party, bitch I'm 'bout to catch a body
+Bitch I'm in the shit, we don't give a fuck about it
+Bitch I start a riot, bitch I'm 'bout to start a riot
+Welcome to the trap, got my grandma sellin' crack
+I make what you makin' when you sittin' down just movin' packs
+Make a bitch do jumpin' jacks like she was an acrobat
+Got these bitches lookin' at me crazy 'cause I got face tats
+Ooh, drip, drip, drip, I cannot go away for a bitch
+Drop 5 million on my crib, now Lil Pump is rich as shit, ooh
+And I'm still on probation, pop a pill I feel amazing
+You just bluffin', you just hatin'
+All these diamonds on me skatin'
+Man I do this every day, spend three thousand on some shades
+I got bitches in L.A., your boyfriends broke, his diamonds fake
+
+
+Welcome to the party (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+Welcome to the party (welcome to the party)
+Welcome to the party (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+Welcome to the party, aye (welcome to the party)
+
+
+We on fire
+Step up in the party, step up in the party hot
+
+
 

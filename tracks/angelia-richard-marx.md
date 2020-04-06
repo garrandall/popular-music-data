@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angelia-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/angelia.html
 name: Angelia
 rankings:
 - end_date: '1989-10-13'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
 ---
+
+Memories of you and me
+Tumble inside my head
+The way that we used to be
+Things that we said
+
+No one has ever made me believe so strong
+You left me to wonder
+How did our love go wrong
+
+
+Angelia
+Where you running to now
+Angelia
+Got to make you turn around
+
+I lie awake at night
+Wait for the sun to shine
+I still feel you next to me
+Your lips on mine
+
+Without a warning
+You made our love a lie
+You said you were sorry
+But you never told me why
+
+
+
+Maybe my love is in vain
+Maybe you're the hurting kind
+Can't take no more of this pain
+I've got to get you off my mind
+
+Tried to be what you wanted
+I gave you all I had
+You left me without nothin'
+Nothin' but a photograph
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-so-beautiful-joe-cocker
+lyrics_url: https://www.azlyrics.com/lyrics/tommeeprofitt/youaresobeautiful.html
 name: You Are So Beautiful
 rankings:
 - end_date: '1975-01-17'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
+
+You are so beautiful
+To me
+You are so beautiful
+To me
+Can't you see
+
+You're everything I hoped for
+You're everything I need
+You are so beautiful
+To me
+
+You are so beautiful
+To me
+You are so beautiful
+To me
+Can't you see
+
+You're everything I hoped for
+You're everything I need
+You are so beautiful
+To me
+
+You are so beautiful
+You are so beautiful
+You are so beautiful
+
+You are so beautiful
+
+
 

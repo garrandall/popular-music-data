@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-tide-is-high-blondie
+lyrics_url: https://www.azlyrics.com/lyrics/blondie/thetideishigh.html
 name: The Tide Is High
 rankings:
 - end_date: '1980-11-21'
@@ -111,4 +112,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
 ---
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+I'm not the kind of girl who gives up just like that
+Oh, no
+
+It's not the things you do that tease and hurt me bad
+But it's the way you do the things you do to me
+
+I'm not the kind of girl who gives up just like that
+Oh, no
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+Number one, number one
+
+Every girl wants you to be her man
+But I'll wait my dear 'til it's my turn
+
+I'm not the kind of girl who gives up just like that
+Oh, no
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+Number one, number one
+
+Every girl wants you to be her man
+But I'll wait my dear 'til it's my turn
+
+I'm not the kind of girl who gives up just like that
+Oh, no
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+Number one, number one
+
+Every girl wants you to be her man
+But I'll wait my dear 'til it's my turn
+
+I'm not the kind of girl who gives up just like that
+Oh, no
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+Number one, number one
+Number one
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+The tide is high but I'm holding on
+I'm gonna be your number one
+
+The tide is high but I'm holding on
+I'm gonna be your number one
+The tide is high but I'm holding on
+I'm gonna be your number one
+Your number one
+
+
 

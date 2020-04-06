@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-wishes-came-true-sweet-sensation
+lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/ifwishescametrue.html
 name: If Wishes Came True
 rankings:
 - end_date: '1990-06-22'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
 ---
+
+All alone, silence fills my room
+But in a memory, I hear you calling me
+Close my eyes and I'm there with you
+Like it was yesterday, but then it fades away
+
+Take me back, turn back the hands of time
+When you kissed me in the warm September rain (warm September rain)
+Back before my heart was filled with pain
+If only we could be in love that way again
+
+If wishes came true
+Then all the dreams at night of love were real
+I'd be holding you
+If wishes came true
+Then I would be that someone always special in your heart
+And we would still be lovers, not apart
+If wishes came true
+
+Now you're gone and I'm on my own
+Feeling lost inside since you said goodbye
+In my dreams, I still feel your touch
+Lying next to me, feeling ecstasy
+
+Take me back, turn back the hands of time
+When you kissed me in the warm September rain (warm September rain)
+Back before my heart was filled with pain
+If only we could be in love that way again
+
+If wishes came true
+Then all the dreams at night of love were real
+I'd be holding you
+If wishes came true
+Then I would be that someone always special in your heart
+And we would still be lovers, not apart
+If wishes came true
+
+I love you madly
+I need you badly
+Give our love one more chance
+
+If wishes came true
+Then all the dreams at night of love were real
+I'd be holding you
+If wishes came true
+Then I would be that someone always special in your heart
+And we would still be lovers, not apart
+If wishes came true
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-in-my-dreams-debbie-gibson
+lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/onlyinmydreams.html
 name: Only In My Dreams
 rankings:
 - end_date: '1987-05-15'
@@ -119,4 +120,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
 ---
+
+Everytime I'm telling secrets
+I remember how it used to be
+And I realized how much I miss you
+And I realize how it feels to be free
+
+Now I see I'm up to no good (no, no good)
+And I wanna start again
+Can't remember when I felt good (felt good baby)
+No I can't remember when
+
+No, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+Couldn't see how much I missed you (now I do)
+Couldn't see how much it meant (ahh)
+Now I see my world come tumbling down
+(Tumbling down my world)
+Now I see the road is bent
+
+If I only once could hold you (no, no, no)
+And remember how it used to be (ahh)
+If only I could scold you
+And forget how it feels to be free
+
+No, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+No,
+No, no, no, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+No, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+No,
+No, no, no, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+No, no, no, only in my dreams
+As real as it may seem
+It was only in my dreams
+
+
 

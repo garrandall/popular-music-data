@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-do-we-go-from-here-deborah-cox
+lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/wheredowegofromhere.html
 name: Where Do We Go From Here
 rankings:
 - end_date: '1996-07-12'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
 ---
+
+When you're in love 
+Some things you take for granted until someone 
+Pulls it apart and leaves you with half of your heart 
+How do I trade the best I have for less 
+Without giving up 
+Should I slowly accept that we'll be no more than just friends 
+
+How do I know 
+When to let go? 
+I know what I'm feeling inside 
+But part of me still wants to try 
+So tell me 
+
+
+Where do we go from here? 
+Why's my heart filled with so much fear? 
+When all that you are is all I need and more 
+
+There's no winning this 
+The battle's just begun 
+I know it's over, but I still feel the same 
+You'll always remain number one 
+'Cause letting go 
+Warrants so much 
+I know what I'm feeling inside 
+But part of me still wants to try 
+So tell me 
+
+
+
+Letting go, warrants so much 
+I know what I'm feeling inside 
+But part of me still wants to try 
+
+
+
+
 

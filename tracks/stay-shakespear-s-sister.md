@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-shakespear-s-sister
+lyrics_url: https://www.azlyrics.com/lyrics/cradleoffilth/stay.html
 name: Stay
 rankings:
 - end_date: '1992-07-10'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
 ---
+
+If this world is wearing thin
+And you're thinking of escape
+I'll go anywhere with you
+Just wrap me up in chains
+But if you try to go alone
+Don't think I'll understand
+
+Stay with me
+Stay with me
+
+In the silence of your room
+In the darkness of your dreams
+You must only think of me
+There can be no in between
+When your pride is on the floor
+I'll make you beg for more
+
+Stay with me
+Stay with me
+
+You'd better hope and pray
+That you make it safe
+Back to your own world
+You'd better hope and pray
+That you'll wake one day
+In your own world
+Cause when you sleep at night
+They don't hear your cries
+In your own world
+Only time will tell
+If you can break the spell
+Back in your own world
+
+Stay with me
+Stay with me
+Stay, stay with me
+Stay, stay, stay, stay, stay
+Stay with me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1234-feist
+lyrics_url: https://www.azlyrics.com/lyrics/feist/1234.html
 name: '1234'
 rankings:
 - end_date: '2007-10-05'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
 ---
+
+One, two, three, four
+Tell me that you love me more
+Sleepless long nights
+That is what my youth was for
+
+Old teenage hopes are alive at your door
+Left you with nothing but they want some more
+
+Oh, you're changing your heart
+Oh, You know who you are
+
+Sweetheart bitterheart now I can't tell you apart
+Cozy and cold, put the horse before the cart
+
+Those teenage hopes who have tears in their eyes
+Too scared to own up to one little lie
+
+Oh, you're changing your heart
+Oh, you know who you are
+
+One, two, three, four, five, six, nine, or ten
+Money can't buy you back the love that you had then
+One, two, three, four, five, six, nine, or ten
+Money can't buy you back the love that you had then
+
+Oh, you're changing your heart
+Oh, you know who you are
+Oh, you're changing your heart
+Oh, you know who you are
+Oh, who you are
+
+For the teenage boys
+They're breaking your heart
+For the teenage boys
+They're breaking your heart
+
+
 

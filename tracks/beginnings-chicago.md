@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beginnings-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/beginnings.html
 name: Beginnings
 rankings:
 - end_date: '1971-07-02'
@@ -59,4 +60,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
 ---
+
+When I'm with you, it doesn't matter where we are,
+Or what we're doing. I'm with you, that's all that matters.
+Time passes much too quickly when we're together laughing.
+I wish I could sing it to you, oh no,
+I wish I could sing it to you.
+Mostly I'm silent.
+Never think about words to say.
+When I kiss you, I feel a thousand different feelings.
+The color of chills all over my body.
+And when I feel them, I quickly try to decide which one
+I should try to put into words, oh no,
+Try to put into words.
+Mostly I'm silent.
+Only the beginning of what I want to feel forever.
+Only the beginning. Only just the start.
+I've got to get you into my life.
+Got to get you next to me.
+Only the beginning. Only just the start.
+
+
 

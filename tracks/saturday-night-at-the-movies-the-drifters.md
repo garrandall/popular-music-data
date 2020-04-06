@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saturday-night-at-the-movies-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/saturdaynightatthemovies.html
 name: Saturday Night At The Movies
 rankings:
 - end_date: '1964-11-20'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
 ---
+
+Well, Saturday night at eight o'clock
+I know where I'm gonna go
+I'm a-gonna pick my baby up
+And take her to the picture show
+Everybody in the neighborhood
+Is dressing up to be there, too
+And we're gonna have a ball
+Just like we always do
+
+Saturday night at the movies
+Who cares what picture you see
+When you're hugging with your baby
+Last row in the balcony?
+
+Well, there's Technicolor and Cinemascope
+A cast out of Hollywood
+And the popcorn from the candy stand
+Makes it all seem twice as good
+There's always lots of pretty girls
+With figures they don't try to hide
+But they never can compare
+To the girl sitting by my side
+
+Saturday night at the movies
+Who cares what picture you see
+When you're hugging with your baby
+Last row in the balcony?
+
+Oh, Saturday night at the movies
+Who cares what picture you see
+When you're hugging with your baby
+Last row in the balcony?
+
+Whoa, Saturday night at the movies
+Who cares what picture you see
+When you're hugging with your baby
+Last row in the balcony?
+
+Yeah, Saturday night at the movies
+
+
 

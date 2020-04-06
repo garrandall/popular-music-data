@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dirt-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/dirt.html
 name: Dirt
 rankings:
 - end_date: '2014-08-01'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
 ---
+
+You get your hands in it, plant your roots in it
+Dusty head lights dance with your boots in it
+(Dirt, dirt, dirt...)
+You write her name on it, spin your tires on it
+Build your corn field, whiskey bonfires on it
+(Dirt)
+You bet your life on it
+(Yeah)
+
+
+It's that elm shade, red rust clay you grew up on
+That plowed up ground that your dad damned his luck on
+That postgame party field you circle up on
+And when it rains you get stuck on
+Drift a cloud back behind county roads that you run up
+The mud on her jeans that she peeled off and hung up
+Her blue eyed summertime smile looks so good that it hurts
+Makes you wanna build a ten percent down white picket fence house on this dirt
+
+You've mixed some sweat with it, taken a shovel to it
+You've stuck some crosses and some painted goal posts through it (dirt, dirt, dirt...)
+You know you came from it (dirt)
+And someday you'll return to this...
+
+
+... elm shade, red rust clay you grew up on
+That plowed up ground that your dad damned his luck on
+That postgame party field you circle up on
+And when it rains you get stuck on
+Drift a cloud back behind county roads that you run up
+The mud on her jeans that she peeled off and hung up
+Her blue eyed summertime smile looks so good that it hurts
+Makes you wanna build a ten percent down white picket fence house on this dirt
+
+You know you came from it (dirt)
+And someday you'll return to this...
+
+
+... elm shade, red rust clay you grew up on
+That plowed up ground that your dad damned his luck on
+That postgame party field you circle up on
+And when it rains you get stuck on
+Drift a cloud back behind county roads that you run up
+The mud on her jeans that she peeled off and hung up
+Her blue eyed summertime smile looks so good that it hurts
+Makes you wanna build a ten percent down white picket fence house on this dirt
+Makes you wanna build a ten percent down white picket fence house on this dirt
+
+You know you came from it and someday you'll return to it
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-star-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/luckystar.html
 name: Lucky Star
 rankings:
 - end_date: '1984-08-31'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
 ---
+
+You must be my Lucky Star
+'Cause you shine on me wherever you are
+I just think of you and I start to glow
+And I need your light
+And baby you know
+
+
+
+Starlight, starbright first star I see tonight
+Starlight,  make everything all right
+Starlight, starbright first star I see tonight
+Starlight,  yeah
+
+You must be my Lucky Star
+'Cause you make the darkness seem so far
+And when I'm lost you'll be my guide
+I just turn around and you're by my side
+
+
+
+Come on shine your heavenly body tonight
+'Cause I know you're gonna make everything all right
+
+You may be my lucky star
+But I'm the luckiest by far
+
+
 

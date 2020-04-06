@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lot-of-leavin--left-to-do-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/lotofleavinlefttodo.html
 name: Lot Of Leavin' Left To Do
 rankings:
 - end_date: '2005-04-08'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
 ---
+
+These old boots still got a lot of ground
+They ain't covered yet
+There's at least another million miles
+Under these old bus treads
+So if you think I'm gonnna settle down
+I've got news for you
+I still got a lot of leavin' left to do
+
+And as long as there's a song
+Left in this old guitar
+This life I'm bound to lead
+Ain't for the faint of heart
+So you won't fall for me
+If you know what's good for you
+'Cause I still got a lot of leavin' left to do
+
+I guess the Lord made me hard to handle
+So lovin' me might be a long shot gamble
+So before you go and turn me on
+Be sure that you can turn me loose
+'Cause I still got a lot of leavin' left to do
+
+Girl, you look like you might be an angel
+So I won't lie
+I could love you like the devil
+If you wanted me to tonight
+And we could talk about forever for a day or two
+But I still got a lot of leavin' left to do
+
+I guess the Lord made me hard to handle
+So lovin' me might be a long shot gamble
+So before you go and turn me on
+Be sure that you can turn me loose
+'Cause I still got a lot of leavin' left to do
+
+Yeah, I still got a leavin' left to do
+
+
 

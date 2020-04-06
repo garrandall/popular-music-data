@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-moment-of-truth-survivor
+lyrics_url: https://www.azlyrics.com/lyrics/survivor/themomentoftruth.html
 name: The Moment Of Truth
 rankings:
 - end_date: '1984-06-22'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
+
+When you're alone you ask yourself
+What are you searching for
+Deep in the night a dream is born
+One that you can't ignore
+If you think you can find the passion
+And you're ready to take a chance
+If you really believe you can make it
+Then the power is in your own hands
+
+It's the moment of truth
+You're giving it all
+Standing alone, willing to fall
+If you can do it
+Get up and prove it
+Get up and show them who you are
+It's the moment of truth
+It's all on the line
+This is the place
+This is the time
+Waited forever, it's now or it's never
+Nothing can stop you now
+
+Once in your life you make a choice
+Ready to risk it all
+Deep in your soul you hear a voice
+Answering to the call
+Though yea know that it won't be easy
+It's a promise you make for love
+For the people that keep believing
+And the one that you're thinking of
+
+It's the moment of truth
+You're giving it all
+Standing alone, willing to fall
+If you can do it
+Get up and prove it
+Get up and show them who you are
+It's the moment of truth
+It's all on the line
+This is the place
+This is the time
+Waited forever, it's now or it's never
+Nothing can stop you now
+...
+
+
 

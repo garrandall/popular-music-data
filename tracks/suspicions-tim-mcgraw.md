@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suspicions-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/suspicions.html
 name: Suspicions
 rankings:
 - end_date: '2008-02-01'
@@ -27,4 +28,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
 ---
+
+I'm so glad that I met you baby
+I'm so proud when we walk in the room
+I know it's crazy to worry like I do
+I get this feelin' that I'm losing you
+
+
+I get these suspicions
+Even though I know that you love me baby
+And I really shouldn't feel this way
+Ooh Suspicions
+I can't help it you're just so good lookin'
+I'm afraid somebody's gonna steal you away from me
+
+When I go out to a party with you
+You always turn every head in the room
+I just know what's on every man's mind
+I try to fight it, but it gets me sometimes
+
+
+
+Ooh, suspicions
+
+When I'm with you I feel so satisfied
+The way you touch me when you lay by my side
+That look in your eyes when we make love
+Makes me hate myself for what I'm thinkin' of
+
+
+
+Suspicions
+Even though I know that you love me baby
+And I really shouldn't feel this way
+Ooh suspicions
+I can't help it you're just so good lookin'
+I'm afraid somebody's gonna steal you away from me
+Suspicions
+Oh baby Oh darlin'
+
+Cause I love her
+Cause I love her
+
+I love her and she loves me
+Ain't nobody gonna take my girl from me
+
+
 

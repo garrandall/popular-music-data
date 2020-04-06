@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-a-stranger-eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/loveisastranger.html
 name: Love Is A Stranger
 rankings:
 - end_date: '1983-09-23'
@@ -59,4 +60,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
 ---
+
+Love is a stranger
+In an open car
+To tempt you in
+And drive you far away
+
+And I want you
+And I want you
+And I want you so
+It's an obsession
+
+Love is a danger
+Of a different kind
+To take you away
+And leave you far behind
+And love love love
+Is a dangerous drug
+You have to receive it
+And you still can't
+Get enough of the stuff
+
+It's savage and it's cruel
+And it shines like destruction
+Comes in like the flood
+And it seems like religion
+It's noble and it's brutal
+It distorts and deranges
+And it wrenches you up
+And you're left like a zombie
+
+And I want you
+And I want you
+And I want you so
+It's an obsession
+
+It's guilt edged
+Glamorous and sleek by design
+You know it's jealous by nature
+False and unkind
+It's hard and restrained
+And it's totally cool
+It touches and it teases
+As you stumble in the debris
+
+And I want you
+And I want you
+And I want you so
+It's an obsession
+
+
 

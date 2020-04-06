@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-my-head-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/overmyhead.html
 name: Over My Head
 rankings:
 - end_date: '1975-11-14'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
 ---
+
+You can take me to paradise,
+And then again you can be cold as ice
+I'm over my head,
+But it sure feels nice.
+You can take me anytime you like,
+I'll be around if you think you might love me baby,
+And hold me tight.
+Your mood is like a circus wheel,
+You're changing all the time,
+Sometimes I can't help but feel,
+That I'm wasting all of my time.
+Think I'm looking on the dark side,
+But everyday you hurt my pride,
+I'm over my head,
+But it sure feels nice,
+I'm over my head,
+But it sure feels nice.
+
+
 

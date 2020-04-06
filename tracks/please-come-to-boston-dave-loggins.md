@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-come-to-boston-dave-loggins
+lyrics_url: https://www.azlyrics.com/lyrics/babyface/pleasecometoboston.html
 name: Please Come To Boston
 rankings:
 - end_date: '1974-06-07'
@@ -79,4 +80,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
 ---
+
+Please come to Boston for the springtime
+I'm stayin' here with some friends and they've got lots of room
+You can sell your paintings on the sidewalk
+By a cafe club I hope to be workin' soon
+
+Please come to Boston, She said no
+But you come home to me
+And she said
+
+Hey ramblin' boy now you can settle down
+Boston ain't your kind of town
+There ain't no gold and there ain't nobody like me
+I'm the number one fan of the man from Tennessee
+
+Please come to Denver with the snowfall
+We'll move up into the mountains, so far where we can't be found
+Through I love you' echoes down the canyon
+And then lie awake at night til ther come back around
+
+Please come to Denver, she said no
+Boy, but you come home to me
+And she said
+
+Hey ramblin' boy now you can settle down
+Denver ain't your kind of town
+There ain't no gold and there ain't nobody like me
+I'm the number one fan of the man from Tennessee
+
+Now this drifter's world goes round and round
+And I doubt if it's ever gonna stop
+But of all the dreams I've lost or found
+And all that I ain't got
+I still need somebody I can cling to
+Somebody I can sing to
+
+Please come to L.A., we'll live forever
+Cause California life alone is just too hard to deal
+We'll live in a house that looks out over the ocean
+And there's some stars that fell from the sky, livin' up on the hill
+
+Please come to L.A., she said no
+But you come home to me
+And she said
+
+Hey ramblin' boy now you can settle down
+L.A ain't your kind of town
+There ain't no gold and there ain't nobody like me
+I'm the number one fan of the man from Tennessee
+I'm the number one fan of the man from Tennessee
+
+
 

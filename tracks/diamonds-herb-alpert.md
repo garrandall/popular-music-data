@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diamonds-herb-alpert
+lyrics_url: https://www.azlyrics.com/lyrics/herbalpert/diamonds.html
 name: Diamonds
 rankings:
 - end_date: '1987-04-17'
@@ -83,4 +84,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
 ---
+
+You told me you love me
+You told me you care
+
+But when I'm around you
+It's like I'm not there
+I need a reminder
+Something I can see
+
+Something on my finger shines so brightly
+
+Don't you know
+Diamonds are a girl's best friend
+
+When you go
+They stay with me until the end
+Don't you know
+Diamonds are a girl's best
+Best friend
+
+When you go
+They stay with me until the end
+
+Don't want your money
+Don't want your key
+
+Diamonds - love don't come for free
+Don't want your money
+
+Don't want your key
+
+Diamonds - love don't come for free
+
+They say you need some roses
+But roses do die
+
+You gave me some candy
+It melted
+Nice try
+I'm not that demanding
+I have simple taste
+
+I just want a token that can't go to waste - Diamonds
+
+Don't want your money
+Don't want your key
+
+Don't you know
+Diamonds are a girl's best friend
+
+Don't want your money
+Don't want your key
+
+Don't want your money
+Don't want your key
+
+Diamonds - love don't come for free
+
+
 

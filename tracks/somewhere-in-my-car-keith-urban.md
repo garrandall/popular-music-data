@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-in-my-car-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/somewhereinmycar.html
 name: Somewhere In My Car
 rankings:
 - end_date: '2014-09-19'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
 ---
+
+I'm driving home tonight, catching all red lights
+That's alright 'cause I don't want to be alone
+There's nobody waitin there, cold and empty bed
+Words I wished I'd said come on the radio
+
+Ooh, ooh, ooh, and I don't know why I do this to myself
+Ooh, ooh, ooh, I know you're with someone else
+
+But in my mind we're somewhere in my car
+And it's raining hard on the streetlight glow
+You got your lips on mine, it's gasoline on fire
+I never will forget, you grabbed my shirt and pulled it over my head
+Fingertips slide up and down my back
+Breathin' hard, steamin' up the glass
+I'd give anything if I could bring you back ho o o o home
+
+So, I've been sleeping 'til noon in the same bedroom
+Where I once held you and it's breaking my heart
+I should take down all those pictures from my wall
+Promises we made won't fill this empty space
+
+Ooh, ooh, ooh, and I don't know why I just can't let you go o o o
+Ooh, ooh, ooh, I know you're never coming back
+
+But in my mind we're somewhere in my car
+And it's raining hard on the streetlight glow
+You got your lips on mine, it's gasoline on fire
+I never will forget, you grabbed my shirt and pulled it over my head
+Fingertips slide up and down my back
+Breathin' hard, steamin' up the glass
+I'd give anything if I could bring you back ho o o o home
+If I could bring you back!
+
+But in my mind we're somewhere in my car
+And it's raining hard on the streetlight glow
+You got your lips on mine, it's gasoline on fire
+I never will forget, you grabbed my shirt and pulled it over my head
+And your fingertips slide up and down my back
+Breathin' hard, steamin' up the glass
+I'd give anything if I could bring you back ho o o o home
+
+
+Mmmm
+If I could bring you back
+Mmmm
+Just close my eyes...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock--n--roll-fantasy-bad-company
+lyrics_url: https://www.azlyrics.com/lyrics/badcompany/rocknrollfantasy.html
 name: Rock 'n' Roll Fantasy
 rankings:
 - end_date: '1979-03-23'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
 ---
+
+Hey, yeah.
+Here come the jesters, one, two, three.
+It's all part of my fantasy,
+I love the music and I love to see
+the crowd,
+Dancing in the aisles and singing out loud, yeah.
+
+Here come the dancers one by one,
+Your mamas calling but you're having fun
+You'll find you're dancing on a number nine cloud
+Put your hands together and sing
+it out loud
+
+Its all part of my rock 'n' roll
+fantasy, yeah.
+Its all part of my rock 'n' roll
+dream, yeah.
+
+It's all part of my rock 'n' roll fantasy.
+It's all part of my rock 'n' roll
+dream.
+
+Put out the spot lights one and all
+And let the feeling get down to
+your soul
+The music's so loud you can here the sound
+Reaching for the sky churning up the ground
+
+It's all part of my rock 'n' roll fantasy.
+Its all part of my rock 'n' roll dream, oh, yeah.
+It's all part of my rock 'n' roll fantasy.
+Its all part of my rock 'n' roll dream, yeah, yeah.
+Fantasy, yeah, yeah, yeah, yeah, yeah.
+Fantasy, yeah, yeah, yeah, yeah.
+
+
 

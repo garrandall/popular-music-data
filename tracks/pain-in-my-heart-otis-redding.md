@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pain-in-my-heart-otis-redding
+lyrics_url: https://www.azlyrics.com/lyrics/otisredding/paininmyheart.html
 name: Pain In My Heart
 rankings:
 - end_date: '1963-11-29'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
 ---
+
+Pain in my heart
+she's treating me cold
+where can my baby be
+Lord no one knows.
+
+Pain in my heart just won't let me sleep
+where can my baby be
+Lord where can she be
+
+Another day, as again it is though
+I want you to come back, come back, come back, baby, 'till I get enough
+A little pain in my heart just won't let me be
+wake up at restless nights
+Lord and I can't even sleep
+
+Stop this little pain in my heart
+
+Another day as again it's rough
+I want you to love me, love me, love me, baby, 'till I get enough
+Pain in my heart, a little pain in my heart
+stop this little pain in my heart
+stop this little pain in my heart
+someone stop this pain
+someone stop this pain
+
+
 

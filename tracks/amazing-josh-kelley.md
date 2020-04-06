@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amazing-josh-kelley
+lyrics_url: https://www.azlyrics.com/lyrics/joshkelley/amazing.html
 name: Amazing
 rankings:
 - end_date: '2003-08-15'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
 ---
+
+You paint a picture on the wall 
+Cause you've got a lot to tell me 
+But you don't think you could say it better oh baby
+
+You're bringing up times I can't recall 
+And I'm sure they made your point 
+But I just can't seem to remember yeah
+
+And I know you've got the feeling
+And I can't say I'm agreeing
+With your topic of conversation 
+So just listen to the reasons 
+And the hints I've been giving
+To the thoughts of my imagination
+
+
+So come on let me see
+I say baby you are amazing 
+I want to let you see 
+That you are everything and more to me 
+I will let you be I will I will
+
+Cause I saw you walking down the hall 
+And I had a lot to tell you 
+But I didn't think you could say it better oh baby
+
+You're good at makin me feel so small 
+And I know you made your point 
+But I just don't want to remember yeah
+
+And I know you've got the feelin 
+And I cant say I'm agreein with your topic of conversation
+So just listen to the reasons 
+And the hints that I've been giving 
+To the thoughts of my imagination
+
+
+
+Cause I'm dancing around 
+In your world of play
+I'm takin my time to make sure you stay 
+I would give my life to make it okay yeah
+
+So come on let me see...
+
+
+
+
 

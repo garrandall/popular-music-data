@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-real--inside-me-mr--mister
+lyrics_url: https://www.azlyrics.com/lyrics/mrmister/somethingrealinsidemeinsideyou.html
 name: Something Real (Inside Me
 rankings:
 - end_date: '1987-08-28'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
 ---
+
+Everyone's looking for something real
+Everyone's taking all they can steal
+Brother to sister, look at eachother face to face
+There's something missing here in this human race - hey
+
+
+Inside me (all we want is something real)
+Is a part of you (we can make this last forever)
+And I know inside you (make a world where we can feel)
+Is a part of me (we will always be together)
+
+Yeah
+
+Person to person, place to place
+We run from eachother, lost in the race
+Brother to sister, hold on to eachother with all we got
+Our time is coming, if you're ready or not, if you're ready or not, oh
+
+
+
+Gimme something real (all we want is something real)
+Gimme something real (we can make this last forever)
+Inside you (make a world where we can feel)
+Is a part of me (we will always be together) - yeah, yeah
+
+
+
+Brother to sister, hold on to eachother with all we got
+Our time is coming, oh, if you're ready or not, if you're ready or not, oh
+
+
+
+Gimme something real (all we want is something real)
+Something real (we can make this last forever)
+Inside you (make a world where we can feel) make a world where we can feel
+(We will always be together) we will always be together
+
+(All we want is something real) something real
+(We can make this last forever)
+Inside you (make a world where we can feel)
+Is a part of me (we will always be together)... 
+
+
 

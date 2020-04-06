@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-found-somebody-glenn-frey
+lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/ifoundsomebody.html
 name: I Found Somebody
 rankings:
 - end_date: '1982-06-11'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
 ---
+
+I never thought it could happen
+It was the furthest thing from my mind
+I just turned my back on a sad love affair
+Was try'n' to leave it all behind
+That's when I met you
+I just couldn't say no
+One look in your eyes
+And I said here I go
+I found somebody
+I found somebody to love
+I found somebody
+I found somebody to love
+
+I'd seen so much deceivin'
+I almost stopped believin'
+I'd ever fall in love again
+I was runnin' around hidin' my heart
+Fakin' it with all of my friends
+I was down on my luck
+That's when you came along
+You put me back on my feet
+You got me singin' this song
+
+I found somebody
+I found somebody to love
+I found somebody
+I found somebody to love
+And she loves me in the midnight hour
+
+You know ever since I found you
+And put my arms around you
+I don't need a doggone thing
+You know that ev'ry day is such a beautiful day
+I want the whole world to dance and sing
+So don't you dare hang your head
+Don't you dare be blue
+If it can happen to me
+It can happen to you
+
+And you'll be singin' this song
+I found somebody
+I found somebody to love
+I found somebody
+I found somebody to love
+
+
 

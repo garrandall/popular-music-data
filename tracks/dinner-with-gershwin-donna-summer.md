@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dinner-with-gershwin-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/dinnerwithgershwin.html
 name: Dinner With Gershwin
 rankings:
 - end_date: '1987-08-28'
@@ -51,4 +52,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
 ---
+
+I want to have dinner with Gershwin
+I want to watch Rembrandt sketch
+I want to talk theory with Curie
+Impossible I guess
+
+I want to talk moods with Picasso
+On a rendezvous
+I want to fly double with Earhart
+I want to get next to you
+Next to you
+
+So close
+Just as close as I can get
+The rain of your worry
+Can't effect
+What I feel is what I feel
+One touch
+Of your greatness
+Is what I need
+My circle of fantasy
+Would be complete
+
+I want to sing hymns with Mahalia
+When the day is through
+I want to tell you about it
+I want to get next to you
+Next to you
+
+So close
+Just as close as I can get
+The rain of your worry
+Can't effect
+What I feel is what I feel
+One touch
+Of your greatness
+Is what I need
+My circle of fantasy
+Would be complete
+
+So close
+Just as close as I can get
+The rain of your worries
+Can't effect
+What I feel is what I feel
+One touch
+Of your greatness
+Is what I need
+My circle of fantasy
+Would be complete
+
+I want to have dinner with Gershwin
+I want to watch Rembrandt sketch
+I want to talk theory with Curie
+Impossible I guess...
+
+
 

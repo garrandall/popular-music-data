@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-baby-you-marc-anthony
+lyrics_url: https://www.azlyrics.com/lyrics/marcanthony/mybabyyou.html
 name: My Baby You
 rankings:
 - end_date: '2000-09-22'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
 ---
+
+as i look into your eyes 
+i see all the reasons why 
+my life's worth a thousand skies 
+you're the simplest love i've known 
+and the purest one i'll own 
+know you'll never be alone 
+ 
+my baby you 
+are the reason i could fly 
+and 'cause of you 
+i don't have to wonder why 
+baby you 
+there's no more just getting by 
+you're the reason i feel so alive 
+though these words i say are true 
+they still fail to capture you 
+as mere words can only do 
+how do i explain that smile 
+and how it turns my world around 
+keeping my feet on the ground 
+
+i will soothe you if you fall 
+i'll be right there if you call 
+you're my greatest love of all 
+
+arianna i feel so alive
+
+
 

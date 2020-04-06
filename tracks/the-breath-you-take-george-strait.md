@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-breath-you-take-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/thebreathyoutake.html
 name: The Breath You Take
 rankings:
 - end_date: '2010-09-24'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
 ---
+
+He looks up from second base, dad's up in the stands
+He saw the hit, the run, the slide, there ain't no bigger fan
+In the parking lot after the game
+He said, "Dad, I thought you had a plane to catch?"
+He smiled and said, "Yeah, son, I did"
+
+But life's not the breath you take, the breathing in and out
+That gets you through the day, ain't what it's all about
+You just might miss the point trying to win the race
+Life's not the breaths you take but the moments that take your breath away
+
+Fast forward fifteen years and a thousand miles away
+Boy's built a life, he's got a wife and a baby due today
+He hears a voice saying, "I made it son"
+Says, "I told you dad, you didn't have to come"
+He smiles and says, "Yeah, I know you did"
+
+But life's not the breath you take, the breathing in and out
+That gets you through the day, ain't what it's all about
+You just might miss the point trying to win the race
+Life's not the breaths you take but the moments that take your breath away
+
+Just like it took my breath when she was born
+Just like it took my breath away when dad took his last that morn
+
+Life's not the breath you take, the breathing in and out
+That gets you through the day, ain't what it's all about
+Just might miss the point if you don't slow down the pace
+Life's not the breaths you take but the moments that take your breath away
+
+
 

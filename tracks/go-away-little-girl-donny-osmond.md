@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-away-little-girl-donny-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/goawaylittlegirl.html
 name: Go Away Little Girl
 rankings:
 - end_date: '1971-08-13'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
 ---
+
+Go away little girl
+Go away little girl
+I'm not supposed to be alone with you
+
+I know that your lips are sweet
+but our lips must never meet
+I'm dating somebody else and I must be true
+
+Oh, go away little girl (go away little girl)
+Go away little girl (go away little girl)
+It's hurting me more each minute that we delay
+
+When you're near me like this
+You're much too hard to resist
+So go away little girl
+Before I beg you to stay
+
+(Go away little girl) Go away little girl
+(Go away little girl) Oh, go away little girl
+(It hurts me more the more that we delay)
+
+When you're near me like this
+You're much too hard to resist
+So, go away little girl
+Let's call it a day little girl
+Please, go away little girl
+Before I beg you to stay
+
+(Go away) Go away little girl
+(Go away) Go away little girl
+(Go away) Please, go away little girl
+(Go away) Go away little girl
+(Go away)
+
+
 

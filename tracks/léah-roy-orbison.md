@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: "l\xE9ah-roy-orbison"
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/leah.html
 name: "L\xE9ah"
 rankings:
 - end_date: '1962-10-12'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
+
+Leah, Leah
+Leah, Leah
+
+Here I go, from the hut to the boat to the sea, for Leah
+
+Uh huh I've gotta go diving in the bay
+Gotta get a lot of oysters, find some pearls today
+To make a pretty necklace for Leah
+Leah
+
+I've gotta go deep and find the ones just right 
+I'll bet my Leah'll be surprised tonight
+I'll place the pearls around the only girl for me 
+Leah
+
+But something's wrong I cannot move around 
+My leg is caught it's pulling me down
+But I'll keep my hand shut tight for if they find me
+They'll find the pearl for Leah
+
+And now it's over, I'm awake at last
+Old heartaches and memories from the past 
+It was just another dream about my lost love 
+About Leah
+
+Leah, Leah
+Leah, Leah
+
+Here I go, back to sleep and in my dreams 
+I'll be with Leah, Leah, Leah
+
+
 

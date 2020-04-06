@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-velvet-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/bluevelvet.html
 name: Blue Velvet
 rankings:
 - end_date: '1963-08-16'
@@ -67,4 +68,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
 ---
+
+She wore blue velvet
+Bluer than velvet was the night
+Softer than satin was the light
+From the stars
+
+She wore blue velvet
+Bluer than velvet were her eyes
+Warmer than May her tender sighs
+Love was ours
+
+Ours a love I held tightly
+Feeling the rapture grow
+Like a flame burning brightly
+But when she left, gone was the glow of
+
+Blue velvet
+But in my heart there'll always be
+Precious and warm, a memory
+Through the years
+And I still can see blue velvet
+Through my tears
+
+
 

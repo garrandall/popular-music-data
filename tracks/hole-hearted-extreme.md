@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hole-hearted-extreme
+lyrics_url: https://www.azlyrics.com/lyrics/extreme/holehearted.html
 name: Hole Hearted
 rankings:
 - end_date: '1991-08-09'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
 ---
+
+Life ambition occupy my time
+Priorities confuse the mind
+Happiness one step behind
+This inner peace I've yet to find
+
+Rivers flow into the sea
+Yet even the sea is not so full of me
+If I'm not blind why can't I see
+That a circle can't fit
+Where a square should be
+
+There's a hole in my heart
+That can only be filled by you
+And this hole in my heart
+Can't be filled with the things I do
+
+Hole-hearted
+Hole-hearted
+
+This heart of stone is where I hide
+These feet of clay kept warm inside
+Day by day less satisfied
+Not fade away before I die
+
+Rivers flow into the sea
+Yet even the sea is not so full of me
+If I'm not blind why can't I see
+That a circle can't fit
+Where a square should be
+
+There's a hole in my heart
+That can only be filled by you
+And this hole in my heart
+Can't be filled with the things I do
+There's a hole in my heart
+That can only be filled by you
+Should have known from the start
+I'd fall short with the things I do
+
+Hole-hearted
+Hole-hearted
+Hole-hearted
+Hole-hearted
+
+
 

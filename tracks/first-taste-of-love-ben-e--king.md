@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: first-taste-of-love-ben-e--king
+lyrics_url: https://www.azlyrics.com/lyrics/beneking/firsttasteoflove.html
 name: First Taste Of Love
 rankings:
 - end_date: '1961-01-08'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
 ---
+
+Mmm, the very first time you kissed me
+It was so thrilling
+What made it so great was
+I knew that your heart was willing
+
+I never thought that I'd give love a try
+Then you came a walking by
+And gave me my first taste of love
+
+Mmm, the very first time you held me
+It was so nice
+I finally found this place they call paradise
+
+Oh, I was such a sad and lonely guy
+Then you came a walking by
+And gave me my first taste of love
+
+Your lips upon my lips
+Your arms around my waist
+How can I forget that first date
+
+Mmm, so keep your
+Head on my shoulder
+Stay real close, baby, don't let go
+
+Don't think of tomorrow
+Let's live for tonight
+Because I love you so
+
+You see that love light
+Gleaming in my eye
+Swear it's gonna never die
+'Cause I've got my first taste of love
+
+You see that love light
+Gleaming in my eye
+Swear it's never gonna die
+'Cause I've got my first taste of love
+
+Swear it's never gonna die
+'Cause I've got my first taste of love
+Swear it's gonna never die
+'Cause I've got my first taste of love
+
+
 

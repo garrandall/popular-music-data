@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 80s-mercedes-maren-morris
+lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/80smercedes.html
 name: 80s Mercedes
 rankings:
 - end_date: '2016-11-11'
@@ -59,4 +60,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
 ---
+
+Still runs good, built to last
+Moves like a hula girl on the dash
+She ain't made for practicality
+Yeah, I guess she's just like me
+
+It's Saturday night, about time to go
+Got my white leather jacket and a neon soul
+Once I turn on the radio I'm ready to roll
+
+Feel like a hard-to-get starlet when I'm driving
+Turning every head hell I ain't even trying
+Got them Ray-Ban shades pretty in pink
+Call me old school but hey
+
+I'm a 90's baby
+In my 80's Mercedes
+I'm a 90's baby
+In my 80's Mercedes
+
+Pop the top down like a summer dream
+She's my teenage time machine
+Just keeps getting sweeter with age
+She's classic through any decade
+
+The suns in the sky, glitter on the seats
+You can try, but the Benz is hard to beat
+So, hey, if you want you can ride with me
+
+Feel like a hard-to-get starlet when I'm driving
+Turning every head hell I ain't even trying
+Got them Ray-Ban shades pretty in pink
+Call me old school but hey
+
+I'm a 90's baby
+In my 80's Mercedes
+I'm a 90's baby
+In my 80's Mercedes
+
+It's Saturday night, about time to go
+Got my white leather jacket and a neon soul
+Once I turn on the radio I'm ready to roll
+
+Feel like a hard-to-get starlet when I'm driving
+Turning every head hell I ain't even trying
+Got them Ray-Ban shades pretty in pink
+Call me old school but hey
+
+I'm a 90's baby
+In my 80's Mercedes
+I'm a 90's baby
+In my 80's Mercedes
+
+
 

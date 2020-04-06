@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: learn-to-fly-foo-fighters
+lyrics_url: https://www.azlyrics.com/lyrics/gallant/learntofly.html
 name: Learn To Fly
 rankings:
 - end_date: '1999-10-22'
@@ -91,4 +92,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
 ---
+
+I'm looking to the sky to save me
+Looking for a sign of life
+I'm looking for a way to burn out bright
+Looking for a complication
+Looking cause I'm tired of lying
+Make my way back home when I learn to fly
+
+Learn to fly high, fly high
+Learn to fly high, fly high
+
+Run and tell all of the angels
+This could take all night
+Think I need a devil to help me get things right
+Hook me up a new revolution
+Cause this one is a lie
+We sat around laughing and watched the last one die
+
+I'm looking to the sky to save me
+Looking for a sign of life
+I'm looking for a way to burn out bright
+Looking for a complication
+Looking cause I'm tired of lying
+Make my way back home when I learn to fly
+
+Learn to fly high, fly high
+Learn to fly high, fly high
+
+
 

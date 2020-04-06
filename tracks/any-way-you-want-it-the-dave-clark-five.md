@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-way-you-want-it-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/ramones/anywayyouwantit.html
 name: Any Way You Want It
 rankings:
 - end_date: '1964-11-20'
@@ -55,4 +56,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+
+It's alright, it's alright, it's alright, it's alright
+It's alright, it's alright, it's alright, it's alright
+Any way you want it
+It's the way it will be
+
+You don't want money
+You don't want a diamond ring - ay, hey, hey
+You say you want my lovin' more than any other thing - ay, hey, hey
+
+It's alright, it's alright, it's alright, it's alright
+It's alright, it's alright, it's alright, it's alright
+Any way you want it
+It's the way it will be
+
+Any way - any way you want it
+That's alright by me
+
+Any way - any way you want it
+That's the way it will be
+
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+
+It's alright, it's alright, it's alright, it's alright
+It's alright, it's alright, it's alright, it's alright
+Any way you want it
+It's the way it will be
+
+Any way - any way you want it
+That's alright by me
+
+Any way - any way you want it
+That's the way it will be
+
+Any way you want it
+You can call me any day - ay, hey, hey
+Any way you want it
+You can always hear me say - ay, hey, hey
+
+It's alright, it's alright, it's alright, it's alright
+It's alright, it's alright, it's alright, it's alright
+Any way you want it
+It's the way it will be
+
+That's the way it will be
+That's the way it will be
+That's the way it will be
+
+
 

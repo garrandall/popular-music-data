@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-street-where-you-live-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/onthestreetwhereyoulive.html
 name: On The Street Where You Live
 rankings:
 - end_date: '1964-09-18'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
+
+I have often walked down this street before
+But the pavement always stayed beneath my feet before
+All at once am I several stories high
+Knowing I'm on the street where you live
+
+Are there lilac trees in the heart of town?
+Can you hear a lark in any other part of town?
+Does enchantment pour out of every door?
+No, it's just on the street where you live
+
+And oh, the towering feeling just to know somehow you are near
+The overpowering feeling that any second you may suddenly appear
+
+People stop and stare, they don't bother me
+For there's nowhere else on earth that I would rather be
+Let the time go by, I won't care if I
+Can be here on the street where you live
+
+
 

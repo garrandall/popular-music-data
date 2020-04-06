@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-wanna-go-party-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/doyouwannagoparty.html
 name: Do You Wanna Go Party
 rankings:
 - end_date: '1979-05-25'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+
+Ooh, ah, party
+Ooh, ah, party
+Ooh, ah, party
+Ooh, ah, party
+Do you wanna go party
+We'll get funky there, party
+Drink a little wine, party
+Have a funky time, party
+Come on baby, sexy lady
+Let's go out tonight
+We'll go party
+we'll go dancin'
+Let's go get satisfied
+Ooh, ah, party
+Ooh, ah, party
+Ooh, ah, party
+Ooh, ah, party
+Como on baby, sexy lady
+Let yourself unwind
+I wanna love you
+Kiss and hug you
+Make it last all night
+Ooh, ah, party
+Ooh, ah, party
+
+Ooh, ah, party
+Ooh, ah, party
+Do you wanna go party
+We'll get funky there, party
+Drink a little wine, party
+Have a funky time, party
+Ooh, ah
+Ooh, ah
+Ooh, ah
+Ooh, ah
+
+Do you wanna go party
+
+Do you wanna go party
+We'll get funky there, party
+Drink a little wine, party
+Have a funky time, party
+Party
+Party
+Party
+
+
 

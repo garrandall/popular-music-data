@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-life-ace-of-base
+lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/beautifulmorning.html
 name: Beautiful Life
 rankings:
 - end_date: '1995-11-17'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-23'
 ---
+
+What a beautiful morning
+The best in life is free
+
+What a beautiful morning
+Believe me
+
+What a mystery
+Though the world's on fire
+Yesterday's hard words is still in my head
+I feel no despair
+No regrets or sorrows
+Cause this new day
+Makes me dance on air
+
+What a golden day
+
+What a beautiful morning in my life
+The best in life is free
+I give it all away
+And I wonder what more is to come
+And this beautiful morning changed my mind
+Believe me when I say 
+The shadows fading out
+
+As the day grows bright
+We are turning pages
+And we write new chapters of our life
+Some are strong and long
+Others weak with sorrows
+Keep the focus on the rising sun
+
+What a golden day
+
+What a beautiful morning in my life
+The best in life is free
+I give it all away
+And I wonder what more is to come
+And this beautiful morning changed my mind
+Believe me when I say 
+Shadows fading out 
+
+Believe me - crows will always fly
+Believe me - they are only birds
+You have to
+You have to let go and you will see things in a different light
+
+What a beautiful morning
+What a beautiful morning
+Believe me
+
+What a beautiful
+What a beautiful morning...
+
+Believe me
+
+
 

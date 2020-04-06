@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: "coraz\xF3n-carole-king"
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/corazon.html
 name: "Coraz\xF3n"
 rankings:
 - end_date: '1973-11-02'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
+
+Corazon - mi corazon
+Corazon - mi corazon
+Yo te quiero - mi corazon
+Corazon - mi corazon
+Yo te quiero - mi corazon
+Corazon - mi corazon
+Yo te quiero - mi corazon
+Espero que tu me quieras tambien
+Corazon
+
+Corazon - mi Corazon
+Corazon - mi Corazon
+Ayudame - mi Corazon
+Yo te quiero - mi Corazon
+Ayudame, te quiero, te quiero
+Corazon
+
+
 

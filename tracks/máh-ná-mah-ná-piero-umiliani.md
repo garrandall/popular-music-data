@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: "m\xE1h-n\xE1-mah-n\xE1-piero-umiliani"
+lyrics_url: https://www.azlyrics.com/lyrics/cake/mahnmahn.html
 name: "M\xE1h-N\xE1-Mah-N\xE1"
 rankings:
 - end_date: '1969-09-12'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
 ---
+
+Mah NÃ  Mah NÃ 
+Do doo be-do-do
+Mah NÃ  Mah NÃ 
+Do do-do do
+Mah NÃ  Mah NÃ 
+Do doo be-do-do be-do-do be-do-do be-do-do-doodle Do do do-doo do!
+Mah NÃ  Mah NÃ 
+Do doo be-do-do
+Mah NÃ  Mah NÃ 
+Do do-do do
+Mah NÃ  Mah NÃ 
+Do doo be-do-do be-do-do be-do-do be-do-do-doodle Do do do-doo do!
+Mah NÃ  Mah NÃ 
+Do doo be-do-do
+Mah NÃ  Mah NÃ 
+Do do-do do
+Mah NÃ  Mah NÃ 
+Do doo be-do-do be-do-do be-do-do be-do-do-doodle Do do do-doo do!
+Mah NÃ  Mah NÃ 
+Do doo be-do-do
+Mah NÃ  Mah NÃ 
+Do do-do do
+Mah NÃ  Mah NÃ 
+Do doo be-do-do be-do-do be-do-do be-do-do-doodle Do do do-doo do!
+Mah NÃ  Mah NÃ 
+Do doo be-do-do
+Mah NÃ  Mah NÃ 
+Do do-do do
+Mah NÃ  Mah NÃ 
+Do doo be-do-do be-do-do be-do-do be-do-do-doodle Do do do-doo do!
+
+Hello?
+Just a second
+It's for you
+Mah NÃ  Mah NÃ ! 
+The question is, what is a mah nÃ  mah nÃ ? 
+The question is, who cares?
+
+
 

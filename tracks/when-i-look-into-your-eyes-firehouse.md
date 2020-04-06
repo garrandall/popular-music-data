@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-look-into-your-eyes-firehouse
+lyrics_url: https://www.azlyrics.com/lyrics/firehouse/whenilookintoyoureyes.html
 name: When I Look Into Your Eyes
 rankings:
 - end_date: '1992-08-21'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
 ---
+
+I see forever when I look in your eyes
+You're all I've ever wanted
+I always want you to be mine
+Let's make a promise to the end of time
+We'll always be together
+And our love will never die
+
+So here we are face to face and heart to heart
+I want you to know we will never be apart
+Now I believe that wishes can come true
+'Cause when I see my whole world
+I see only you
+
+
+When I look into your eyes
+I can see how much I love you
+And it makes me realize
+When I look into your eyes
+I see all my dreams come true
+When I look into your eyes
+
+I've looked for you all of my life
+Now that I've found you
+We will never say good-bye
+Can't stop this feelin'
+And there's nothing I can do
+'Cause I see everything
+When I look at you
+
+
+
+
+
+
 

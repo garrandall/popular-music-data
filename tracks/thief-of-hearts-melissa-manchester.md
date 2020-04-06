@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thief-of-hearts-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/thiefofhearts.html
 name: Thief Of Hearts
 rankings:
 - end_date: '1984-11-30'
@@ -31,4 +32,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
 ---
+
+Somewhere deep inside of a stranger's eyes
+There are stranger things I see
+Shades of light on a secret part of me
+Living in the shadows hiding from my life
+I was waiting for a dream
+Now a perfect stranger fills my needs
+
+Thief of hearts
+Stole my heart from me
+Thief of hearts
+Better than a dream
+The thief of hearts
+
+Hands upon my body full of cool control
+Baby tell me how you knew
+Everything that felt so good to me
+Now I see you clearer through your one-way mirror
+Real, but too surreal
+Turn the pages
+You're a memory
+
+Thief of hearts
+Stole my heart from me
+Thief of hearts
+Better than a dream
+The thief of hearts
+
+When I think about my soul
+All the secrets that you stole
+Then I know that I've just got to let you go
+
+Thief of hearts
+Stole my heart from me
+Thief of hearts
+Better than a dream
+The thief of hearts
+
+Thief of hearts
+Stole my heart from me
+Thief of hearts
+Better than a dream
+...
+
+
 

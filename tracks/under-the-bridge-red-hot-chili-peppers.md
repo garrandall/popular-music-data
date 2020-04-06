@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: under-the-bridge-red-hot-chili-peppers
+lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/underthebridge.html
 name: Under The Bridge
 rankings:
 - end_date: '1992-04-10'
@@ -111,4 +112,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
 ---
+
+Sometimes I feel
+Like I don't have a partner
+Sometimes I feel
+Like my only friend
+Is the city I live in
+The city of angels
+Lonely as I am
+Together we cry
+
+I drive on her streets
+'Cause she's my companion
+I walk through her hills
+'Cause she knows who I am
+She sees my good deeds
+And she kisses me windy
+I never worry
+Now that is a lie
+
+I don't ever wanna feel
+Like I did that day
+But take me to the place I love
+Take me all the way
+I don't ever wanna feel
+Like I did that day
+But take me to the place I love
+Take me all the way
+
+It's hard to believe
+That there's nobody out there
+It's hard to believe
+That I'm all alone
+At least I have her love
+The city she loves me
+Lonely as I am
+Together we cry
+
+I don't ever wanna feel
+Like I did that day
+But take me to the place I love
+Take me all the way
+I don't ever wanna feel
+Like I did that day
+But take me to the place I love
+Take me all the way
+
+Under the bridge downtown
+Is where I drew some blood
+Under the bridge downtown
+I could not get enough
+Under the bridge downtown
+Forgot about my love
+Under the bridge downtown
+I gave my life away
+
+
 

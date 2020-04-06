@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-midnight-j-j--cale
+lyrics_url: https://www.azlyrics.com/lyrics/jjcale/aftermidnight.html
 name: After Midnight
 rankings:
 - end_date: '1972-05-26'
@@ -51,4 +52,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
 ---
+
+After midnight, we're gonna let it all hang out
+After midnight, we're gonna chug-a-lug and shout
+We're gonna cause talk and suspicion
+Give an exhibition
+Find out what it is all about
+After midnight, we're gonna let it all hang out
+After midnight, gonna shake your tambourine
+After midnight, it's gonna be peaches and cream
+We're gonna cause talk and suspicion
+Give an exhibition
+Find out what it is all about
+After midnight, we're gonna let it all hang out
+After midnight, we're gonna let it all hang out
+
+
 

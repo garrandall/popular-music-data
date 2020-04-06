@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: achy-breaky-heart-billy-ray-cyrus
+lyrics_url: https://www.azlyrics.com/lyrics/billyraycyrus/achybreakyheart.html
 name: Achy Breaky Heart
 rankings:
 - end_date: '1992-05-15'
@@ -107,4 +108,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
 ---
+
+You can tell the world you never was my girl
+You can burn my clothes when I'm gone
+Or you can tell your friends just what a fool I've been
+And laugh and joke about me on the phone
+
+You can tell my arms go back to the farm
+You can tell my feet to hit the floor
+Or you can tell my lips to tell my fingertips
+They won't be reaching out for you no more
+
+But don't tell my heart my achy breaky heart
+I just don't think it'd understand
+And if you tell my heart my achy breaky heart
+He might blow up and kill this man
+
+You can tell your ma I moved to Arkansas
+You can tell your dog to bite my leg
+Or tell your brother Cliff, whose fist can tear my lip
+He never really liked me anyway
+
+Or tell your Aunt Louise tell anything you please
+Myself already knows I'm not okay
+Or you can tell my eyes to watch out for my mind
+It might be walking out on me today
+
+But don't tell my heart my achy breaky heart
+I just don't think he'd understand
+And if you tell my heart my achy breaky heart
+He might blow up and kill this man
+
+Don't tell my heart my achy breaky heart...
+I just don't think he'd understand
+And if you tell my heart my achy breaky heart
+He might blow up and kill this man
+
+Don't tell my heart my achy breaky heart...
+I just don't think he'd understand
+And if you tell my heart my achy breaky heart
+He might blow up and kill this man
+
+
 

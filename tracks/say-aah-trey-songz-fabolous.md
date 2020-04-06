@@ -5,6 +5,7 @@ features:
 - Fabolous
 genres: []
 key: say-aah-trey-songz-fabolous
+lyrics_url: https://www.azlyrics.com/lyrics/treysongz/sayaahremix.html
 name: Say Aah
 rankings:
 - end_date: '2009-12-04'
@@ -124,4 +125,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
 ---
+
+
+Go girl like it's my birthday I walk by they looking thirsty and I say bye (bye, bye, bye, bye)
+Go girl like it's my birthday I walk by they looking thirsty and I say bye (bye, bye, bye, bye)
+
+
+Purse full of dollars niggas tryna holla now I don't need a bottle I already got it don't stand to close
+Boy you better watch it smug these luccies and you coming up out of pocket me & my ladies at the table
+Baby u ain't gotta follow chill 4 convo that ain't we come fo I just wanna get poppin tonight hands up if u
+Tryna get a ride
+
+
+Sexy in the club I know (I know)
+Smoke what's on the a for show (for show)
+This is how it go down everyday and when I walk up in the club they say
+
+
+Go girl like it's my birthday I walk by they looking thirsty and I say bye (bye, bye, bye, bye)
+Go girl like it's my birthday I walk by they looking thirsty and I say bye (bye, bye, bye, bye)
+
+
+Dance like a video vixen
+Said her man be on that bullshit pimpin
+Well I retire from the bull like Pippen
+Tryin to get you homer would you be Marge Simpson
+Whip out front we could leave like pronto
+Maple leaf gas got you feelin like Toronto
+Make your body rise like your puffin on a joint though
+Girl that's only if you want though (you ready)
+
+
+Since we in the club for now (for now)
+Might as well get another round
+Notice there ain't nothin in your cup
+So get here and baby let me fill it up (fill it up)
+
+
+Go girl,
+It's your birthday
+Hold the wine,
+I know your thirsty
+Say Aah (Aah, Aah, Aah, Aah)
+Say Aah (Aah, Aah, Aah, Aah)
+We don't buy no drinks at the bar
+We pop champagne cause we got that dough
+Let me hear you say Aah (Aah, Aah, Aah, Aah)
+You want me say Aah (Aah, Aah, Aah, Aah)
+
+
+I make you say aah just like I'm your doctor
+All I prescribe is cranberry and vodka
+Then I'm tryna kick it play a lil socca
+Then bust a couple off blocka blocka
+The henny in your system you start drunk texting and suddenly you miss him
+Or even wanna diss him
+Then you call your girl like what the hell you gave me
+She like don't blame me better do like Jamie
+And blame it on the liquor
+He works every time patron you my nigga
+Know it's somebody birthday
+Well where your ass at
+And I know you're thirsty but don't know where ya glass at
+
+
+Go girl,
+It's your birthday
+Hold the wine,
+I know your thirsty
+Say Aah (Aah, Aah, Aah, Aah)
+Say Aah (Aah, Aah, Aah, Aah)
+We don't buy know drinks at the bar
+We pop champagne cause we got that dough
+Let me hear you say Aah (Aah, Aah, Aah, Aah)
+Say Aah (Aah, Aah, Aah, Aah)
+And we don't buy no drinks at the bar
+Pop champagne cause we got that dough
+Let me hear you say aah (Aah, Aah, Aah, Aah)
+You want me say aah (Aah, Aah, Aah, Aah)
+
+
+Go girl,
+It's your birthday
+Hold the wine,
+I know your thirsty
+Say Aah (Aah, Aah, Aah, Aah)
+Say Aah (Aah, Aah, Aah, Aah)
+And We don't buy no drinks at the bar
+We pop champagne cause we got that dough
+Let me hear you say Aah (Aah, Aah, Aah, Aah)
+If you want me say Aah (Aah, Aah, Aah, Aah)
+
+
 

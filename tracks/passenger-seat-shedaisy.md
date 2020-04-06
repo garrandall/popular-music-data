@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: passenger-seat-shedaisy
+lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/passengerseat.html
 name: Passenger Seat
 rankings:
 - end_date: '2004-05-21'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
 ---
+
+Passenger side, I slide on in
+Vinyl seats hot from the heat of the sun
+Chewin' on a Slim Jim, can't stop 
+thinkin' about him
+Yeah, yeah, yeah he's the one
+Yeah, yeah, yeah he's the one
+
+
+Ooo life's so sweet right here in the 
+passenger seat
+Ooo yeah life's so sweet
+When I look to my left, see his 
+suntanned hands
+His muddy river hair and his 
+thousand-acre plans
+I'm all shook up like a quarter in a can
+Ain't life sweet in the passenger seat
+
+I daydream of me and a cold cotton pillow
+And the feel of his skin
+The windowsill smiles and before I know 
+it I'm miles 
+Away sittin' next to him
+Miles away sittin' next to him
+
+
+
+
+Shiftin' those gears baby, one, two, three
+Then he shifts those ocean eyes back to me
+Can't imagine a moment any better than this
+Then we kiss
+
+Ooo Life's so sweet right here in the 
+passenger seat
+Ooo yeah, life's so sweet
+Ooo life's so sweet right here in the 
+passenger seat
+Ooo yeah life's so sweet, it's life's so sweet
+It's life's so sweet, it's so sweet in the 
+passenger seat
+
+Life's so, life's so
+Life's so sweet
+Sweet right here, right here
+
+
 

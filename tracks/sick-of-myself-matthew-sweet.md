@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sick-of-myself-matthew-sweet
+lyrics_url: https://www.azlyrics.com/lyrics/matthewsweet/sickofmyself.html
 name: Sick Of Myself
 rankings:
 - end_date: '1995-06-02'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
 ---
+
+You don't know how you move me
+Deconstruct me
+And consume me
+I'm all used up
+I'm out of luck
+I am starstuck
+By something in your eyes
+That is keeping my hope alive
+
+But I'm sick of myself when I look at you
+Something is beautiful and true
+In a world that's ugly and a lie
+It's hard to even want to try
+And I'm beginning to think
+Baby you don't know
+
+I'll take or leave
+The room to breathe
+The choice to leave you
+I'll throw away
+A chance at greatness
+Just to make this
+Dream come into play
+I don't know if I'll find a way
+
+'Cause I'm sick of myself when I look at you
+Something is beautiful and true
+In a world that's ugly and a lie
+It's hard to even want to try
+And I'm beginning to think
+Baby you don't know
+And I'm beginning to think
+Baby you don't know
+
+There's something in your eyes
+That is keeping my hope alive
+'Cause I'm sick of myself when I look at you
+Something is beautiful and true
+In a world that's ugly and a lie
+It's hard to even want to try
+And I'm beginning to think
+Baby you don't know
+And I'm beginning to think
+Baby you don't know
+
+
 

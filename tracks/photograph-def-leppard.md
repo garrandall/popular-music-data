@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: photograph-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/photograph.html
 name: Photograph
 rankings:
 - end_date: '1983-03-18'
@@ -75,4 +76,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
 ---
+
+I'm outta luck, outta love
+Got a photograph, picture of
+Passion killer, you're too much
+You're the only one I wanna touch
+
+I see your face every time I dream
+On every page, every magazine
+So wild and free,
+So far from me
+You're all I want, my fantasy
+
+Look what you've done to this rock 'n' roll clown
+Look what you've done
+
+Photograph
+I don't want your photograph
+I don't need your photograph
+All I've got is a photograph
+But it's not enough
+
+I'd be your lover, if you were there
+Put your hurt on me, if you dare
+Such a woman, you got style
+You make every man feel like a child
+
+You got some kinda hold on me
+You're all wrapped up in mystery
+So wild and free
+So far from me
+You're all I want, my fantasy
+
+Look what you've done to this rock 'n' roll clown
+Look what you've done
+
+I gotta have you
+
+Photograph
+I don't want your Photograph
+I don't need your photograph
+All I've got is a photograph
+
+You've gone straight to my head
+
+Look what you've done to this rock 'n' roll clown
+Look what you've done
+
+I gotta have you
+
+Photograph
+I don't want your photograph
+I don't need your photograph
+All I've got is a photograph
+
+I wanna touch you
+
+Photograph
+Photograph
+Your photograph
+Photograph
+Photograph
+I need more than your photograph
+I'm outta love
+Photograph
+I'm outta love
+Photograph
+You're the only one
+Photograph
+I wanna touch
+
+
 

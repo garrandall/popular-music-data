@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blockbuster-the-sweet
+lyrics_url: https://www.azlyrics.com/lyrics/sweet/blockbuster.html
 name: Blockbuster
 rankings:
 - end_date: '1973-06-22'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
 ---
+
+Aah-aah, aah-aah
+
+You better beware, you better take care
+You better watch out if you've got long black hair
+He'll come from behind, you'll go out of your mind
+You'd better not go, you'd never know what you'll find
+
+Aah-aah, aah-aah
+
+You look in his eyes, don't be surprised
+If you don't know what's going on behind his disguise
+Nobody knows where Buster goes
+He'll steal your woman out from under your nose
+
+Does anyone know the way? Did we hear someone say:
+"We just haven't got a clue what to do"?
+Does anyone know the way? There's got to be a way
+To block Buster
+
+The cops are out, they're running about
+Don't know if they'll ever be able to block Buster out
+He's gotta be caught, he's gotta be taught
+'Cause he's more evil than anyone here ever thought
+
+Does anyone know the way? Did we hear someone say:
+"W,w,w,we just haven't got, hoowa!"?
+Does anyone know the way? There's got to be a way
+To block Buster
+
+Does anyone know the way? Did we hear someone say
+"We just haven't got a clue what to do"?
+Does anyone know the way? There's got to be a way
+To block Buster
+
+Aah-aah, aah-aah
+Aah-aah, aah-aah
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+Buster, Buster, block Buster
+
+
 

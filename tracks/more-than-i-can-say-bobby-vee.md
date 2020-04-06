@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-i-can-say-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/morethanicansay.html
 name: More Than I Can Say
 rankings:
 - end_date: '1961-03-05'
@@ -27,4 +28,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
+
+Wo-oh yay yay
+Love you more than I can say
+I'll love you twice as much tomorrow
+Wo-oh, love you more than I can say
+
+Wo-oh yay yay
+I miss you every single day
+Why must my life be filled with sorrow
+Wo-oh, love you more than I can say
+
+Don't you know I need you so
+Tell me please, I gotta know
+Do you mean to make me cry
+Am I just another guy
+
+Wo-oh yay yay
+Love you more than I can say
+I'll love you twice as much tomorrow
+Wo-oh, love you more than I can say
+
+Don't you know I need you so
+Tell me please, I gotta know
+Do you mean to make me cry
+Am I just another guy
+
+Wo-oh yay yay
+I love you more than I can say
+I'll love you twice as much tomorrow
+Wo-oh, love you more than I can say
+
+
 

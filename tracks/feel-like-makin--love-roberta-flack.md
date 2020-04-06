@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-like-makin--love-roberta-flack
+lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/feellikemakinlove.html
 name: Feel Like Makin' Love
 rankings:
 - end_date: '1974-06-28'
@@ -71,4 +72,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
+
+Strollin' in the park
+Watchin' winter turn to spring
+Walkin' in the dark
+Seein' lovers do their thing
+
+Oo-oo-ooh
+That's the time
+I feel like makin' love to you
+That's the time
+I feel like makin' dreams come true, oh Baby
+
+When you talk to me
+When you're moanin' sweet and low
+When you're touchin' me
+And my feelin's start to show
+
+Oo-oo-ooh
+That's the time
+I feel like makin' love to you
+That's the time
+I feel like makin' dreams come true, oh Baby
+
+In a restaurant
+holdin' hands by candlelight
+While I'm touchin' you
+Wanting you with all my might
+
+Oo-oo-ooh
+That's the time
+I feel like makin' love to you
+That's the time
+I feel like makin' dreams come true, oh Baby
+
+Strollin' in the park
+Watchin' winter turn to spring
+Walkin' in the dark
+Seein' lovers do their thing
+
+Oo-oo-ooh
+That's the time
+I feel like makin' love to you
+
+
 

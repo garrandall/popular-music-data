@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-in-the-air-thunderclap-newman
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/somethingintheair.html
 name: Something In The Air
 rankings:
 - end_date: '1969-09-12'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
+
+Call out the instigator
+Because there's something in the air
+We've got to get together sooner or later
+Because the revolution's here
+And you know it's right
+And you know that it's right
+
+We have got to get it together
+We have got to get it together, now
+
+Run through the fields and houses
+Because there's something in the air
+We've got to get together sooner or later
+Because the revolution's here
+And you know it's right
+And you know that it's right
+
+We have got to get it together
+We have got to get it together, now
+
+Call out the instigator
+Because there's something in the air
+We've got to get together sooner or later
+Because the revolution's here
+And you know it's right
+And you know that it's right
+
+We have got to get it together
+We have got to get it together, now
+
+
 

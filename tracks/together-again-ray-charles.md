@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-again-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/togetheragain.html
 name: Together Again
 rankings:
 - end_date: '1966-04-01'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
 ---
+
+Together again
+My tears have stopped fallin
+The long lonely nights
+Are now at an end
+The key to my heart
+You hold in your hand
+And nothing else matters
+We're together  again
+Together again
+The grey skies are gone
+You're back in my arms
+Now where you belong
+The love that we knew
+Is living again
+And nothing else matters, Baby
+We're together again
+Well, nothing  else matters, Baby
+We're together again
+
+
 

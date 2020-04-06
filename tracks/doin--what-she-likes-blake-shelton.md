@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doin--what-she-likes-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/doinwhatshelikes.html
 name: Doin' What She Likes
 rankings:
 - end_date: '2014-02-07'
@@ -75,4 +76,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
 ---
+
+She likes it when I call in sick to work
+Spend the whole day hanging with her
+I might get fired but that's alright
+I'm doin' what she likes
+
+She likes it when I bring home fresh fajitas
+And mix up a pitcher of margaritas
+Catch a kind of buzz that lasts all night
+Doin' what she likes
+
+She likes hearin' how good she looks in them blue jeans
+Little kisses, sweeter than sweet tea
+Things I whispered in her ear, oh my
+I like doin' what she likes
+
+Like running my fingers through her long hair
+Lightin' watermelon candles upstairs
+Lettin' them burn and holdin' her all night
+I like doin' what she likes
+
+She likes it when I get past second gear
+Sees gravel flying in the rearview mirror
+Sometimes I'm pushing 95
+Doin' what she likes
+
+And she likes it when I find a road that's dark
+Can we pull up somewhere and park?
+Turn the radio on and turn off the lights
+Keep doin' what she likes
+
+She likes hearin' how good she looks in them blue jeans
+Little kisses, sweeter than sweet tea
+Things I whispered in her ear, oh my
+I like doin' what she likes
+
+Like running my fingers through her long hair
+Lightin' watermelon candles upstairs
+Lettin' them burn and holdin' her all night
+I like doin' what she likes
+
+She likes it when I sing her old silly songs
+And throwin' words where they don't belong
+Sometimes we laugh 'til we almost cry
+Doin' what she likes
+Doin' what she likes
+
+She likes hearin' how good she looks in them blue jeans
+Little kisses, sweeter than sweet tea
+Things I whispered in her ear, oh my
+I like doin' what she likes
+
+Like running my fingers through her long hair
+Lightin' watermelon candles upstairs
+Lettin' them burn and holdin' her all night
+I like doin' what she likes
+
+Yeah, I like doin' what she likes
+Hmm, yeah
+
+
 

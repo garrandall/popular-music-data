@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-sorry-now-marie-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/whossorrynow.html
 name: Who's Sorry Now
 rankings:
 - end_date: '1975-03-14'
@@ -31,4 +32,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
 ---
+
+Who's sorry now, who's sorry now
+Whose heart is achin' for breakin' each vow
+Who's sad and blue, who's cryin too
+Just like I cried over you
+
+Right to the end just like a friend
+I tried to warn you somehow
+You had your way, now you must pay
+I'm glad that you're sorry now
+
+Right to the end just like a friend
+I tried to warn you somehow
+You had your way, now you must pay
+I'm glad that you're sorry now
+
+
 

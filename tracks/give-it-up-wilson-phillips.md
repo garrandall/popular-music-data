@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-up-wilson-phillips
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/giveitup.html
 name: Give It Up
 rankings:
 - end_date: '1992-08-14'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
 ---
+
+You can't hide it from me
+Admit it baby
+'Cause I'm wise to your disguise
+I've seen you love me with your eyes
+
+Even if you think I'm a fool and I just can't tell
+Then you don't know me well
+Won't you come over here and break the ice
+It would be so nice
+
+It's what you want when you're around me
+You're a little bit shy, and I feel the need
+And I can tell that you're happy you found me
+Just give it up...
+
+
+Why wait around when you know what you're feeling (give it up)
+I look through your eyes
+I can see that you want somebody (give it up)
+It could feel so good to get into it.
+Give it up! Give it up! You want it baby.
+Give it up! Give it up! You know you got me.
+Come on, come on, come on and give it up.
+
+I can't, I can't lie to you
+Now we can all tell stories so come over here and love me. Uh-huh
+Even if you think I'm a fool and I just can't tell
+Sorry I know you well.
+And I know you will
+
+Come over here and love me
+It's what you want when you're around me
+You're a little bit shy, and I feel the need
+And I can tell that you're happy you found me
+Just give it up...
+
+
+
+So dream your way into my life
+'Cause baby I'll give you tonight
+I'll bring all your pictures to life
+Give it up! Give it up! Give it up! Give it up!
+Give it up... (ooh God) Give it up... Just give it up...Give it up
+
+Give it up! Give it up (Yeah!)
+Give it up! Give it up!
+C'mon, c'mon, c'mon, c'mon, give it up
+Give it up! Won't you give it up baby tonight?
+
+
+
+
 

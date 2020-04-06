@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-on-my-feet-again-the-foundations
+lyrics_url: https://www.azlyrics.com/lyrics/foundations/backonmyfeetagain.html
 name: Back On My Feet Again
 rankings:
 - end_date: '1968-03-15'
@@ -31,4 +32,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
 ---
+
+Yeh
+Yeh
+Yeh
+You can pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Yes you got what it takes
+To end all the heartaches
+
+Pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Yes you got what it takes
+To end all the heartaches
+
+In my life there has been nobody
+Who ever cared a bit about me
+I was the one guy deserving love
+But every time it seemed to be found
+I was the one guy really hurt in love
+Who ended up flat on the ground (flat on the ground)
+
+You can pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Yes you got what it takes
+To end all the heartaches
+
+Pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Yes you got what it takes
+To end all the heartaches
+
+Tried so hard to take it cool and easy
+But everything seems to go wrong
+I was the one guy, believed in love
+Who seemed to have some kind of knack
+To be the one guy, deceived in love
+Who ended up flat on his back (straight on his back)
+
+You can pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Yes you got what it takes
+To end all the heartaches
+
+Pick me up baby and put me back
+Back on my feet again
+And make this life of mine sweet again
+Cause you got what it takes
+To end all the heartaches
+
+
 

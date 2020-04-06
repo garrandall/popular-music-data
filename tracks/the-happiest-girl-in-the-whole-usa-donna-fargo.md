@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-happiest-girl-in-the-whole-usa-donna-fargo
+lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/thehappiestgirlinthewholeusa.html
 name: The Happiest Girl In The Whole USA
 rankings:
 - end_date: '1972-06-02'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
 ---
+
+Shine on me sunshine 
+Walk with me world, it's a skippidy doo da day 
+I'm the happiest girl in the whole U.S.A.
+
+Good morning, mornin', hello sunshine 
+Wake up, sleepy head 
+Why'd you move that bojangle clock
+So far away from the bed?
+
+Just one more minute that's why we moved it
+One more hug or two 
+Do you love wakin' up next to me 
+As much as I love wakin' up next to you?
+
+You make the coffee, I'll make the bed 
+I'll fix your lunch, and you'll fix mine! 
+Now tell me the truth do these old shoes look funny? 
+Honey, it's almost nine
+
+Now you be careful, got to go 
+"I love you, have a beautiful day!" 
+And kiss the happiest girl in the whole U.S.A.
+
+Skippidy doo da thank you
+Lord for makin' him for me 
+And thank you for letting life turn out the way 
+That I always thought it could be
+
+There once was a time, that I could not imagine 
+How it would feel to say I'm the happiest girl in the whole U.S.A.
+
+Now shine on me sunshine 
+Walk with me world, it's a skippidy doo da day 
+I'm the happiest girl in the whole U.S.A.
+
+Shine on me sunshine 
+Walk with me world, it's a skippidy doo da day 
+I'm the happiest girl in the whole U.S.A.
+
+Shine on me sunshine 
+Walk with me world, it's a skippidy doo da day 
+I'm the happiest girl in the whole U.S.A.
+
+
 

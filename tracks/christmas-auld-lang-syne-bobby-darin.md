@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: christmas-auld-lang-syne-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/christmasauldlangsyne.html
 name: Christmas Auld Lang Syne
 rankings:
 - end_date: '1960-12-25'
@@ -19,4 +20,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+
+When mistletoe and tinsel glow
+Paint a yuletide valentine
+Back home I go to those I know
+For a Christmas auld lang syne
+
+And as we gather 'round the tree
+Our voices all combine
+In sweet accord to thank the Lord
+For a Christmas auld lang syne
+
+When sleigh bells ring and choirs sing
+And the children's faces shine
+With each new toy we share their joy
+With a Christmas auld lang syne
+
+We sing His praise this day of days
+And pray next year this time
+We'll all be near to share the cheer
+Of a Christmas auld lang syne
+
+"Merry Christmas everybody and a Happy New Year!"
+
+In sweet accord we thank the Lord
+For a Christmas auld lang syne
+
+
 

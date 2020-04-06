@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-when-the-music-takes-me-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/thatswhenthemusictakesme.html
 name: That's When The Music Takes Me
 rankings:
 - end_date: '1975-07-04'
@@ -47,4 +48,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
+
+That's when the music takes me
+Takes to a brighter day
+That's when the music takes me
+Helpin' me to find my way
+
+When the day is so long that I can't hold on
+When I'm down and I think my hope is gone
+Oooh, Yeah,
+That's when the music takes me
+Closer to a brighter daaaay
+I can feel my soul explodin'
+There's a good feelin'
+Helpin' me to find my waaay
+My, my, my way
+
+When the bluebird sings her sad, sad song
+And the wind brings a cold to tag along
+Oh, yeah,
+I can feel the spirit move me
+I can almost touch the sky
+Reachin' for a new tomorrow
+I know it's hard
+But music makes me waaaaanna try
+Wanna try
+And then
+That's when the music takes me
+Takes to a brighter day
+Yeah, yeah
+That's when the music takes me
+Helpin' me to find my way
+(That's when the music takes me)
+(That's when the music takes me)
+Oh, yeah
+But when the music takes me
+Closer to a brighter day
+I can feel my soul explodin'
+There's a good feelin'
+Helpin' me to fiiiiiiind my waaay
+Yeah, yeah, yeah, yeah
+And then I'm sayin'
+That's when the music takes me
+Takes to a brighter day
+Yeah, yeah, yeah
+That's when the music takes me
+Helpin' me to find my way
+
+Happy, happy, happy day
+Happy, happy, happy day
+Happy, happy, happy day
+(That's when the music takes me)
+(That's when the music takes me)
+(That's when the music takes me)
+(And that's when the music takes me)
+Happy, happy when the music takes
+Whooooooo
+
+
 

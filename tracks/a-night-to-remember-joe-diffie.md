@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-night-to-remember-joe-diffie
+lyrics_url: https://www.azlyrics.com/lyrics/joediffie/anighttoremember.html
 name: A Night To Remember
 rankings:
 - end_date: '1999-05-21'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-25'
 ---
+
+Been one tough week, dead on my feet
+But, I've made plans for tonight
+When I'm feeling blue, know just what to do
+And how to make it right
+Seems like I've needed this forever
+Gonna have myself a night to remember
+
+Dim the lights, lock the door, spread your pictures
+On the floor, throw the dust off of our past let it
+All come floodin' back, cause' it ain't easy being 
+Strong and when I can't forget your gone I just 
+Surrender, and have myself a night to remember.
+
+Sad ain't my style but once in a while 
+I just have to give in
+'Cause a woman like you, is so hard to lose
+You just don't want it to end
+I know this can't go on forever 
+So tonight I'll have a night to remember
+
+Dim the lights, lock the door, spread your pictures
+On the floor, throw the dust off of our past let it
+All come floodin' back, cause' it ain't easy being 
+Strong and when I can't forget your gone I just 
+Surrender, and have myself a night to remember.
+
+Oh it ain't easy being strong and when I can't 
+Forget your gone I'll just surrender and have
+Myself a night to remember
+
+
 

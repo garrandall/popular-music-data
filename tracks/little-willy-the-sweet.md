@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-willy-the-sweet
+lyrics_url: https://www.azlyrics.com/lyrics/sweet/littlewilly.html
 name: Little Willy
 rankings:
 - end_date: '1973-01-26'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
 ---
+
+North side, east side
+Little Willy, Willy wears the crown, he's the king around town
+Dancing and glancing
+Willy drives them silly with his star shoe shimmy shuffle down
+
+Way past one and feeling alright
+'Cause with little Willy 'round they can last all night
+Hey down, stay down, stay down down
+
+'Cause little Willy, Willy won't go home
+But you can't push Willy 'round
+Willy won't go, try tellin' everybody but, oh no
+Little Willy, Willy won't go home
+
+Up town, down town
+Little Willy, Willy drives them wild with his run-around style
+Inside, outside
+Willy sends them silly with his star-shine shimmy shuffle smile
+
+Mama done chase Willy down through the hall
+But laugh, Willy laugh, he don't care at all
+Hey down, stay down, stay down down
+
+'Cause little Willy, Willy won't go home
+But you can't push Willy 'round
+Willy won't go, try tellin' everybody but, oh no
+Little Willy, Willy won't go home
+
+Little Willy, Willy won't
+Willy won't, Willy won't
+Little Willy, Willy won't
+Willy won't, Willy won't
+Little Willy, Willy won't
+Willy won't, Willy won't
+Little Willy, Willy won't
+Willy won't, Willy won't
+
+Little Willy, Willy won't go home
+But you can't push Willy 'round
+Willy won't go, try tellin' everybody but, oh no
+Little Willy, Willy won't go home
+
+Little Willy, Willy won't go home
+But you can't push Willy 'round
+Willy won't go, try tellin' everybody but, oh no
+Little Willy, Willy won't go home
+
+Little Willy, Willy won't go home
+But you can't push Willy 'round
+Willy won't go, try tellin' everybody but, oh no
+
+
 

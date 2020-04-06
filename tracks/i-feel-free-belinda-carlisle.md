@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-feel-free-belinda-carlisle
+lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/ifeelfree.html
 name: I Feel Free
 rankings:
 - end_date: '1988-08-05'
@@ -23,4 +24,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
 ---
+
+Mmm
+Mmm
+Mmm
+I feel free
+I feel free
+
+Feel when I dance with you
+We move like the sea
+You - you're all I want to know
+I feel free
+I feel free
+I feel free
+
+I can walk down the street but there's no one there
+Though the pavement's one huge crowd
+I can drive down the road but my eyes don't see
+Thought my mind wants to cry out loud
+Yea my mind wants to cry out loud
+
+Ahh
+Ahh
+Ahh
+
+I feel free
+I feel free
+I feel free
+
+As far as I can see
+Ceiling is the sky
+You're the sun and as you shine on me
+I feel free
+I feel free
+I feel free
+
+Mmm
+Mmm
+Mmm
+I feel free
+I feel free
+
+
 

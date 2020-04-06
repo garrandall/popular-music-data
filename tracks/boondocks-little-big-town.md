@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boondocks-little-big-town
+lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/boondocks.html
 name: Boondocks
 rankings:
 - end_date: '2005-11-04'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
 ---
+
+
+I feel no shame
+I'm proud of where I came from
+I was born and raised in the boondocks
+
+One thing I know
+No matter where I go
+I keep my heart and soul
+In the boondocks
+
+I can feel that
+Muddy water runnin' through my veins
+I can hear that
+lullaby of the midnight train
+And it sings to me and sounds familiar
+
+
+
+I can taste that honeysuckle
+And it's still so sweet
+When it grows wild
+On the banks down at old Camp Creek
+And it calls to me like a warm wind blowin'
+
+
+
+It's where I learned about livin'
+Its where I learned about love
+Its where I learned about working hard,
+And having a little was just enough
+It's where I learned about Jesus
+And knowin' where I stand
+You can take it or leave it
+This is me
+This is who I am
+Give me a tin roof, a front porch, and a gravel road
+And thats home to me, feels like home to me
+
+
+
+You get a line I'll get a pole
+We'll go fishin' in the crawfish hole
+Five card poker on Saturday night
+Church on Sunday morning
+
+
 

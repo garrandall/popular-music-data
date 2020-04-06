@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-made-me-believe-in-magic-bay-city-rollers
+lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/youmademebelieveinmagic.html
 name: You Made Me Believe In Magic
 rankings:
 - end_date: '1977-06-10'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
 ---
+
+I believed all love has gone
+I've no strength to carry on
+Thought my world was upside down
+
+Then you walked on to my life
+Went to work to set things right
+What's the secret that you use
+
+You made me believe in magic
+You know that I can be true to your love
+You made me believe in magic
+Your love's put magic into my life
+
+Now I'm filled with new sense to be
+You gave my life harmony
+Loving you is all I need
+
+You made me believe in magic
+You know that I can be true to your love
+You made me believe in magic
+Your love's put magic into my life
+
+
 

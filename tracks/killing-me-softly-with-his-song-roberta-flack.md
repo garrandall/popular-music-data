@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: killing-me-softly-with-his-song-roberta-flack
+lyrics_url: https://www.azlyrics.com/lyrics/zhavia/killingmesoftlywithhissong.html
 name: Killing Me Softly With His Song
 rankings:
 - end_date: '1973-02-02'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
 ---
+
+I heard he sang a good song
+I heard he had a style
+And so I came to see him
+And listen for a while
+And there he was this young boy
+A stranger to my eyes
+
+Strumming my pain with his fingers
+Singing my life with his words
+Killing me softly with his song
+Killing me softly with his song
+Telling my whole life with his words
+Killing me softly with his song
+
+I felt all flushed with fever
+Embarassed by the crowd
+I felt he found my letters
+And read each one out loud
+I prayed that he would finish
+But he just kept right on
+
+Strumming my pain with his fingers
+Singing my life with his words
+Killing me softly with his song
+Killing me softly with his song
+Telling my whole life with his words
+Killing me softly with his song
+
+Killing me, killing me, killing me, killing me softly
+Woah oh... 
+With his song
+
+Strumming my pain with his fingers
+He was singing my life with his words
+Killing me softly with his song
+Killing me softly with his song
+Telling my whole life with his words
+Killing me softly with his song
+
+
 

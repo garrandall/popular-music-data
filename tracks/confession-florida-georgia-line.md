@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: confession-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/confession.html
 name: Confession
 rankings:
 - end_date: '2016-01-22'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
 ---
+
+Rusty barbed wire lines these fields
+Gravel dust behind the wheels
+Drifting like my mind into the rearview
+Jet trails cutting across the sky
+I'm rolling through the open wide
+Searching for a song to drink beer to
+And trying to find a place to disappear to
+
+I light up the night and let it burn
+Lean back and watch the sundown fade
+Do what I do when life's a little sideways
+I take a sip and say a prayer
+Wait for a shooting star and stare
+Off at the headlights on the highway
+That guy in the windshield looking back looks just like me
+But there's a crack in the reflection
+This is just a moonlight soaked, ring of smoke
+Right hand on a cold one confession
+
+Embers in the ashtray glow
+Like memories that won't let go
+I'm out here trying to get 'em untangled
+In the darkness on the edge of town
+A little lost, a little found
+Waiting on a call from an angel
+
+I light up the night and let it burn
+Lean back and watch the sundown fade
+Do what I do when life's a little sideways
+I take a sip and say a prayer
+Wait for a shooting star and stare
+Off at the headlights on the highway
+That guy in the windshield looking back looks just like me
+But there's a crack in the reflection
+This is just a moonlight soaked, ring of smoke
+Right hand on a cold one confession
+
+Light up the night and let it burn
+Lean back and watch the sundown fade
+Do what I do when life's a little sideways
+I take a sip and say a prayer
+Wait for a shooting star and stare
+Off at the headlights on the highway
+That guy in the windshield looking back looks just like me
+But there's a crack in the reflection
+Hope he's moving in the right direction
+This is just a moonlight soaked, ring of smoke
+Right hand on a cold one confession
+
+
 

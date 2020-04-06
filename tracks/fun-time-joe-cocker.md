@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fun-time-joe-cocker
+lyrics_url: https://www.azlyrics.com/lyrics/joecocker/funtime.html
 name: Fun Time
 rankings:
 - end_date: '1978-10-27'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
 ---
+
+Got a few jingles jangle in my pocket
+And I got a couple that don't make no noise
+See, I'm all fired up just like a rocket
+And the stars above are just a few of my toys
+
+It's fun time, it's fun time
+Let yourself be happy, it's fun time
+Shake time, you deserve a break time
+It's fun time for U S all
+
+I've got a new resolution
+That is if my mojo wanna disco hand
+Got my mind set on a good time
+You can come along whatever shape you're in
+
+It's fun time, fun time
+Let yourself be happy, it's fun time
+Shake time, you deserve a break time
+It's fun time for U S all
+
+Sayin' it's fun time, fun time
+Let yourself be happy, it's fun time
+Shake time, you deserve a break time
+It's fun time for U S all
+
+Fun time, fun time
+Let yourself be happy, it's fun time
+Shake time, you deserve a break time
+It's fun time for U S all
+
+
 

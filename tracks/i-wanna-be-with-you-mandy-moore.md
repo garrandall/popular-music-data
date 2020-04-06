@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-with-you-mandy-moore
+lyrics_url: https://www.azlyrics.com/lyrics/mandymoore/iwannabewithyou.html
 name: I Wanna Be With You
 rankings:
 - end_date: '2000-06-23'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-07'
 ---
+
+I try but I can't seem to get myself to think of anything but you
+Your breath on my face your warm, gentle kiss I taste the truth, I taste the truth
+We know what I came here for
+So I won't ask for more
+
+I wanna be with you
+If only for a night
+To be the one who's in your arms to hold you tight
+I wanna be with you
+There's nothing more to say
+There's nothing else I want more than to feel this way
+I wanna be with you
+
+So I'll hold you tonight like I would if you were mine to hold forevermore
+And I'll savor each touch that I've wanted so much to feel before, to feel before
+How beautiful it is
+Just to be like this
+
+I wanna be with you
+If only for a night
+To be the one who's in your arms to hold you tight
+I wanna be with you
+There's nothing more to say
+There's nothing else I want more than to feel this way
+I wanna be with you
+
+Oh, baby
+I can't fight this feeling anymore (anymore)
+Drives me crazy when I try to
+So call my name and take my hand
+Can you make my wish, baby, your command (command)?
+Yeah
+
+I wanna be with you
+There's nothing more to say
+There's nothing else I want more than to feel this way
+I wanna be with you
+
+Oh yeah
+I wanna be with you
+Wanna be with you, ooo, yeah
+I wanna be, I wanna be
+
+
+
 

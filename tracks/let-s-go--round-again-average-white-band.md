@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-go--round-again-average-white-band
+lyrics_url: https://www.azlyrics.com/lyrics/averagewhiteband/letsgoroundagain.html
 name: Let's Go 'round Again
 rankings:
 - end_date: '1980-06-27'
@@ -39,4 +40,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
 ---
+
+Baby, I'm back
+And right away I have come to you
+To see if the love that we knew before
+Has past the test of time, ooh
+Time could change almost everything
+Sometimes it seems the better side are the
+Feelings we once shared
+So baby
+
+Let's go round again
+Maybe we'll turn back the hands of time
+Let's go round again
+One more time
+Let's go round again
+Maybe we'll turn back the hands of time
+Let's go round again
+One more time, one more time, one more time
+One more time
+
+Now baby, I know that you think I will be different now
+Inside of me nothing has changed
+So I'm asking you again, ooh
+Please no one else could have brought me back
+No one could ever change, the memory I kept within my heart
+
+Let's go round again
+Maybe we'll turn back the hands of time
+Let's go round again
+One more time
+Let's go round again
+Maybe we'll turn back the hands of time
+Let's go round again
+One more time, one more time, one more time
+One more time
+Let's go round again
+Maybe we'll turn back the hands of time
+Let's go round again
+One more time, one more time, one more time
+Let's go round again, one more time
+
+
 

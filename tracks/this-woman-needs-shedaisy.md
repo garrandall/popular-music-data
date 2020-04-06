@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-woman-needs-shedaisy
+lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/thiswomanneeds.html
 name: This Woman Needs
 rankings:
 - end_date: '2000-02-11'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-01'
 ---
+
+This woman that takes on the world
+And picks up your shirts, keeps it together somehow
+This same woman, that melts with your touch
+Wants you to feel what I'm feeling right now
+
+
+'Cause this woman needs
+A safe place to land
+The strength in your hands
+To know you know
+What this woman needs
+Is somewhere to cry
+So lay by my side
+And I'll tell you, I'll tell you
+
+This woman needs to be reassured
+That my heart's your home and love is what wills you to stay
+I need you to see me in every light
+And hear that you still think I'm beautiful anyway
+
+
+
+What this woman needs
+Yeah, yeah, yeah, 
+Oh, oh, oh, oh, oh
+Oh, what this woman needs
+Is somewhere to cry
+So lay by my side
+And I'll tell you, I'll tell you
+
+What this woman needs
+Yeah, what this woman needs
+Yeah, yeah, yeah - 
+What this woman needs
+
+
 

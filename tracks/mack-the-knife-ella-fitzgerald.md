@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mack-the-knife-ella-fitzgerald
+lyrics_url: https://www.azlyrics.com/lyrics/ellafitzgerald/macktheknife.html
 name: Mack The Knife
 rankings:
 - end_date: '1960-05-08'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
+
+Oh the shark has pretty teeth dear 
+And he shows them pearly white 
+Just a jack-knife has Mac-heath, dear 
+And he keeps it out of sight
+When the shark bites with his teeth, dear 
+Scarlet billows start to spread 
+Fancy gloves though wears Mac-heath, dear 
+So there's not a trace, not a trace of red 
+On the sidewalk on a Sunday morning 
+Lies a body oozing life 
+Someone's sneaking 'round that corner
+Tell me could it be, could it be Mack the Knife
+
+On a tugboat down by the river, don't you know
+A cement bag's dropping down 
+The cement's just for the weight, dear 
+Bet you that cat called Mack-heath, oh Mack-heath, he's back in town 
+
+
+
+Oh Mack-heath's back in town
+He's back, he's back, he's back, he's back
+He's back, he's back, he's back, he's back, he's back, he's back in town
+Mack-heath's back in town
+
+
 

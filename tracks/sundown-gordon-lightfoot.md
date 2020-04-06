@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sundown-gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/sundown.html
 name: Sundown
 rankings:
 - end_date: '1974-04-19'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
 ---
+
+I can see her lying back in her satin dress
+In a room where you do what you don't confess
+
+Sundown, you better take care
+If I find you been creeping 'round my back stairs
+Sundown, you better take care
+If I find you been creeping 'round my back stairs
+
+She's been looking like a queen in a sailor's dream
+And she don't always say what she really means
+
+Sometimes I think it's a shame
+When I get feeling better when I'm feeling no pain
+Sometimes I think it's a shame
+When I get feeling better when I'm feeling no pain
+
+I can picture every move that a man could make
+Getting lost in her loving is your first mistake
+
+Sundown, you better take care
+If I find you been creeping 'round my back stairs
+Sometimes I think it's a sin
+When I feel like I'm winning when I'm losing again
+
+I can see her looking fast in her faded jeans
+She's a hard loving woman, got me feeling mean
+
+Sometimes I think it's a shame
+When I get feeling better when I'm feeling no pain
+Sundown, you better take care
+If I find you been creeping 'round my back stairs
+Sundown, you better take care
+If I find you been creeping 'round my back stairs
+Sometimes I think it's a sin
+When I feel like I'm winning when I'm losing again
+
+
 

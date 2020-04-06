@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stand--sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/stand.html
 name: Stand!
 rankings:
 - end_date: '1969-04-18'
@@ -40,4 +41,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
 ---
+
+Stand 
+In the end you'll still be you 
+One that's done all the things you set out to do 
+Stand 
+There's a cross for you to bear 
+Things to go through if you're going anywhere 
+Stand 
+For the things you know are right 
+It s the truth that the truth makes them so uptight 
+Stand 
+All the things you want are real 
+You have you to complete and there is no deal 
+Stand. stand, stand 
+Stand. stand, stand 
+Stand 
+You've been sitting much too long 
+
+There's a permanent crease in your right and wrong 
+Stand 
+There's a midget standing tall 
+And the giant beside him about to fall 
+Stand. stand, stand 
+Stand. stand, stand 
+Stand 
+They will try to make you crawl 
+And they know what you're saying makes sense and all 
+Stand 
+Don't you know that you are free 
+Well at least in your mind if you want to be 
+
+Everybody 
+Stand, stand, stand
+
+
 

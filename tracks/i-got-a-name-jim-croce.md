@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-a-name-jim-croce
+lyrics_url: https://www.azlyrics.com/lyrics/jimcroce/igotaname.html
 name: I Got A Name
 rankings:
 - end_date: '1973-10-12'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
 ---
+
+Like the pine trees lining the winding road
+I got a name, I got a name
+Like the singing bird and the croaking toad
+I got a name, I got a name
+And I carry it with me like my daddy did
+But I'm living the dream that he kept hid
+
+Moving me down the highway
+Rolling me down the highway
+Moving ahead so life won't pass me by
+
+Like the north wind whistling down the sky
+I've got a song, I've got a song
+Like the whippoorwill and the baby's cry
+I've got a song, I've got a song
+And I carry it with me and I sing it loud
+If it gets me nowhere, I go there proud
+
+Moving me down the highway
+Rolling me down the highway
+Moving ahead so life won't pass me by
+
+And I'm gonna go there free
+
+Like the fool I am and I'll always be
+I've got a dream, I've got a dream
+They can change their minds but they can't change me
+I've got a dream, I've got a dream
+Well, I know I can share it if you want me to
+If you're going my way, I'll go with you
+
+Moving me down the highway
+Rolling me down the highway
+Moving ahead so life won't pass me by
+Moving me down the highway
+Rolling me down the highway
+Moving ahead so life won't pass me by
+
+
 

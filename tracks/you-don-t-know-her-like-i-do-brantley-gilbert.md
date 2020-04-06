@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-know-her-like-i-do-brantley-gilbert
+lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/dirtroadanthemrevisited.html
 name: You Don't Know Her Like I Do
 rankings:
 - end_date: '2011-10-07'
@@ -103,4 +104,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
 ---
+
+
+yeah I'm chillin on a dirt road.
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the window
+An ice cold beer sittin in the console.
+Memory Lane up in the headlights.
+got me reminiscing on the good times
+said I'm turnin' off the real life drive and that's right
+hittin easy street on mud tires
+
+
+back in the day Potts' farm was the place to go
+load the truck up hit the dirt road
+Jump the barbwire, spread the word
+light the bon fire , then call the girls
+king in the can, and the Marlboro man
+Jack and Jim were a few good men
+we learned how to kiss and cuss and fight too
+better watch out for the boys in blue
+and all this small town he said she said
+it aint as funny how rumors spread
+like i know somethin ya'll dont know
+man this shit is gettin old
+man mind your business watch your mouth
+before i have to knock your loud ass out
+no time for talkin ya'll aint listenin
+them old dirt road is what ya'll missing
+
+
+yeah I'm chillin on a dirt road.
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the window
+An ice cold beer sittin in the console.
+Memory Lane up in the headlights.
+got me reminiscing on the good times
+said I'm turnin' off the real life drive and that's right
+hittin easy street on mud tires
+
+
+I sit back and think about them good ole days
+the way we were raised and our southern ways
+we like corn bread and biscuits
+and if its broke round here we fix it
+see i can take ya'll where you need to go
+down to my hood or back in them woods
+we do it different round here thats right
+but we sure do it good and we do it all night
+so if you really wanna know how it feels
+to get off the road and truck with four wheels
+jump on in tell ya friends
+that well be raisin hell where the black top ends
+
+
+yeah I'm chillin on a dirt road.
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the window
+An ice cold beer sittin in the console.
+Memory Lane up in the headlights.
+got me reminiscing on the good times
+said I'm turnin' off the real life drive and that's right
+hittin easy street on mud tires
+
+
+I was brought up in a small town in North Georgia
+raised on southern baptist morals
+in a front row pew for the Sunday roll call
+now everybody praise the lord
+i grew up learned how to hunt and fish
+bust a 12 gauge pump and not miss
+a life without work that's just a myth
+never listen when they talkin shit
+my dad taught me how to stand my ground
+be a man boy and never back down
+don't start up something but if he's talking trash
+you better throw the first punch and whip his ass
+now be somebody, make a name for yourself
+life is hard, you go through hell
+there comes a time when you've got to slow down
+that's what we doing lets go
+
+
+yeah I'm chillin on a dirt road.
+Laid back swervin' like I'm George Jones
+Smoke rollin' out the window
+An ice cold beer sittin in the console.
+Memory Lane up in the headlights.
+got me reminiscing on the good times
+said I'm turnin' off the real life drive and that's right
+hittin easy street on mud tires
+
+
 

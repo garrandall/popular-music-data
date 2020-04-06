@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-my-love--to-your-new-lover--adele
+lyrics_url: https://www.azlyrics.com/lyrics/adele/sendmylovetoyournewlover.html
 name: Send My Love (To Your New Lover)
 rankings:
 - end_date: '2015-12-18'
@@ -115,4 +116,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
 ---
+
+Just the guitar. OK, cool.
+
+This was all you, none of it me
+You put your hands on, on my body and told me
+Mmm
+You told me you were ready
+For the big one, for the big jump
+I'd be your last love everlasting you and me
+Mmm
+That was what you told me
+
+I'm giving you up
+I've forgiven it all
+You set me free
+
+Send my love to your new lover
+Treat her better
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+Send my love to your new lover
+Treat her better
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+
+I was too strong, you were trembling
+You couldn't handle the hot heat rising (rising)
+Mmm
+Baby, I'm still rising
+I was running, you were walking
+You couldn't keep up, you were falling down (down)
+Mmm
+There's only one way down
+
+I'm giving you up
+I've forgiven it all
+You set me free, oh
+
+Send my love to your new lover
+Treat her better
+We gotta let go of all of our ghosts
+We both know we ain't kids no more
+Send my love to your new lover
+Treat her better
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+
+If you're ready, if you're ready
+If you're ready, I'm ready
+If you're ready, if you're ready
+We both know we ain't kids no more
+No, we ain't kids no more
+
+I'm giving you up
+I've forgiven it all
+You set me free
+
+Send my love to your new lover
+Treat her better
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+Send my love to your new lover
+Treat her better
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+
+If you're ready, if you're ready (send my love to your new lover)
+If you're ready, I'm ready (treat her better)
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+If you're ready, if you're ready (send my love to your new lover)
+If you're ready, I am ready (treat her better)
+We've gotta let go of all of our ghosts
+We both know we ain't kids no more
+
+
 

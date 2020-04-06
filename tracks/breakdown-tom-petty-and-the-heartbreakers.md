@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakdown-tom-petty-and-the-heartbreakers
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/breakdown.html
 name: Breakdown
 rankings:
 - end_date: '1977-11-11'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
 ---
+
+It's alright if you love me
+It's alright if you don't
+I'm not afraid of you running away
+Honey, I get the feeling you won't
+
+There is no sense in pretending
+Your eyes give you away
+Something inside you is feeling like I do
+We said all there is to say
+
+Baby Breakdown
+Go ahead and give it to me
+Breakdown honey take me through the night
+Breakdown now I'm standing here can't you see
+Breakdown, it's alright
+It's alright
+It's alright
+
+Breakdown
+Go ahead and give it to me
+Breakdown honey take me through the night
+Breakdown now I'm standing here can't you see
+Breakdown, it's alright
+It's alright
+It's alright
+
+
 

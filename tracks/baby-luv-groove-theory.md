@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-luv-groove-theory
+lyrics_url: https://www.azlyrics.com/lyrics/groovetheory/babyluv.html
 name: Baby Luv
 rankings:
 - end_date: '1996-08-09'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
 ---
+
+There's something I know I should of told you
+Something that's growing everyday
+Whether or not
+I say it a lot
+I'm down with you in every single way
+Gonna be days when you are lonely
+And people will say they got no time
+When you're alone
+Call me on the phone
+Baby, you always got mine
+And when the wind blows
+Baby, don't cry, just remember my words
+
+
+Baby luv
+Gentle as raindrops falling in June
+Pretty as sunshine
+And flowers in bloom
+Baby love
+
+As long as you're happy, I'm happy too
+It's a delight
+You're in my life
+You got a glow that just surrounds you
+When I'm with you I'm shining bright
+Honey, it's true
+I love the way you do
+And I could tell you every night
+You're so lovely when you're laughing
+It makes my day just to see you smile
+Didn't you know
+When you played in the snow
+You set my winter on fire
+And when the wind blows
+Baby, don't cry, just remember my worlds
+Baby love
+Gentle as raindrops falling in June
+Pretty as sunshine and flowers in bloom
+Baby love
+Long as your happy, I'm happy too
+It's a delight
+God gave you life
+Baby love
+Ooh, baby luv, baby, baby
+
+
+
+
 

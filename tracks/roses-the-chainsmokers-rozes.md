@@ -5,6 +5,7 @@ features:
 - Rozes
 genres: []
 key: roses-the-chainsmokers-rozes
+lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/roses.html
 name: Roses
 rankings:
 - end_date: '2015-11-13'
@@ -132,4 +133,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
 ---
+
+Taking it slow, but it's not typical
+He already knows that my love is fire
+His heart was a stone, but then his hands roamed
+I turned him to gold and took him higher
+
+Well, I'll be your daydream, I'll be your favorite things
+We could be beautiful
+Get drunk on the good life, I'll take you to paradise
+Say you'll never let me go
+
+Deep in my bones, I can feel you
+Take me back to a time only we knew
+Hideaway
+We could waste the night with an old film
+Smoke a little weed on my couch in the back room
+Hideaway
+Say you'll never let me go
+Say you'll never let me go
+
+Ah, ah, ah
+Ah, ah, ah
+Ah, ah, ah
+Say you'll never let me go
+Say you'll never let me go
+Say you'll never let me go
+Ah
+Ah
+Say you'll never let me go
+
+Deep in my bones, I can feel you
+Take me back to a time only we knew
+Hideaway
+We could waste the night with an old film
+Smoke a little weed on my couch in the back room
+Hideaway
+Say you'll never let me go
+Say you'll never let me go
+
+Ah, ah, ah
+Ah, ah, ah
+Ah, ah, ah
+Say you'll never let me go
+Ah
+Say you'll never let me go
+Ah
+
+
 

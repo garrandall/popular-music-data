@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-the-music-take-your-mind-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/letthemusictakeyourmind.html
 name: Let The Music Take Your Mind
 rankings:
 - end_date: '1970-07-10'
@@ -32,4 +33,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
 ---
+
+Come on y'all
+
+Let the music take your mind
+Everyone feel it deep inside
+Let the music take your mind
+Gonna feel it deep inside
+
+Let the music take your mind, yeah
+Let the music take your mind
+Take your what
+Let the music take your mind
+Take your mind
+Gonna feel it deep inside
+
+Let the music take your mind
+I wanna feel it deep inside
+Let the music take your mind
+I wanna feel it deep inside
+
+Let the music take your mind
+I wanna feel it deep inside
+Let the music take your mind
+I wanna feel it deep inside
+
+Let the music take your mind
+
+
 

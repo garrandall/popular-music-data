@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-girl-gone-donna-fargo
+lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/littlegirlgone.html
 name: Little Girl Gone
 rankings:
 - end_date: '1973-10-12'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
 ---
+
+It just took a little while for me
+To get my head together
+Growing up's the hardest thing I've ever done
+
+Here I am like a stranger in the house I grew up in
+And learned right from wrong in if I did
+Where the sun never shined enough
+On daddies growing older and mothers never died in
+But she did
+
+And I remember feeling guilty
+'Cause I couldn't wait to leave here
+Though I loved 'em every way that I knew how
+So I packed up all my yesterdays and headed for tomorrow
+And it's almost tomorrow now
+And daddy's little girl is home
+But where's the little girl gone
+
+She bundled up her dirty jeans and teenie bopper magazine
+In search of what her life was all about
+With a little rag doll named Charlie Brown
+And an ol' suitcase full of hand me downs
+And a loneliness she knew so much about
+
+Now the dreams that I trusted
+And all the playthings have rusted
+But here I am a woman somehow
+And all those growing pains of yesterdays
+Are gonna get me through tomorrow
+Cause it's almost tomorrow now
+
+And daddy's little girl is home
+But where's the little girl gone
+She bundled up her dirty jeans...
+
+Oh, but I can still remember
+When I used to gaze out this window
+Wondering who I was and what I would become
+And it just took a little while for me to get my head together
+
+Growing up's the hardest thing I've ever done
+Oh, but I can still remember...
+
+
 

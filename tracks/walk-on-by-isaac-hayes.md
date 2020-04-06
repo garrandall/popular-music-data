@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-on-by-isaac-hayes
+lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/walkonby.html
 name: Walk On By
 rankings:
 - end_date: '1969-08-29'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+
+If you see me walking down the street
+And I start to cry each time we meet
+Walk on by, walk on by
+
+Make believe
+That you don't see the tears
+Just let me grieve
+In private 'cause each time I see you
+I break down and cry
+And walk on by don't stop
+And walk on by don't stop
+And walk on by
+
+I just can't get over losing you
+And so if I seem broken in two
+Walk on by, walk on by
+
+Foolish pride
+Is all that I have left
+So let me hide
+The tears and the sadness you gave me
+When you said goodbye
+Walk on by
+And walk on by
+And walk by don't stop
+
+Walk on by, walk on by
+Foolish pride
+Is all that I have left
+So let me hide
+The tears and the sadness you gave me
+When you said goodbye
+Walk on by don't stop
+And walk on by don't stop
+And walk by don't stop
+
+
 

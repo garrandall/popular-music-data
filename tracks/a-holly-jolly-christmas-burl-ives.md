@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-holly-jolly-christmas-burl-ives
+lyrics_url: https://www.azlyrics.com/lyrics/burlives/ahollyjollychristmas.html
 name: A Holly Jolly Christmas
 rankings:
 - end_date: '2017-01-13'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+
+(Ding-dong-ding)
+(Ding-dong-ding)
+
+(Ding-dong-ding) Have a holly jolly Christmas
+(Ding-dong-ding) It's the best time of the year
+I don't know if there'll be snow
+But have a cup of cheer
+
+(Ding-dong-ding) Have a holly jolly Christmas
+(Ding-dong-ding) And when you walk down the street
+Say hello to friends you know
+And everyone you meet
+
+Oh ho, the mistletoe
+Hung where you can see
+Somebody waits for you
+Kiss her once for me
+
+(Ding-dong-ding) Have a holly jolly Christmas
+(Ding-dong-ding) And in case you didn't hear
+Oh, by golly, have a holly jolly Christmas this year
+
+Have a holly jolly Christmas
+It's the best time of the year
+
+Have a holly jolly Christmas
+And when you walk down the street
+Say hello to friends you know
+And everyone you meet
+
+Oh ho, the mistletoe
+Hung where you can see
+Somebody waits for you
+Kiss her once for me
+
+(Ding-dong-ding) Have a holly jolly Christmas
+(Ding-dong-ding) And in case you didn't here
+Oh, by golly, have a holly jolly Christmas this year
+
+(Ding-dong-ding-dong)
+(Ding-dong-ding-dong)
+(Ding-dong-ding)
+
+
 

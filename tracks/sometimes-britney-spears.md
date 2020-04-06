@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-britney-spears
+lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/sometimes.html
 name: Sometimes
 rankings:
 - end_date: '1999-05-28'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-02'
 ---
+
+You tell me you're in love with me
+Like you can't take your pretty eyes away from me
+It's not that I don't want to stay
+But every time you come too close I move away
+
+I wanna believe in everything that you say
+'Cause it sounds so good
+But if you really want me move slow
+There's things about me you just have to know
+
+Sometimes I run
+Sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+Treat you right, be with you day and night
+Baby, all I need is time
+
+I don't wanna be so shy
+Every time that I'm alone I wonder why
+Hope that you will wait for me
+You'll see that you're the only one for me
+
+I wanna believe in everything that you say
+'Cause it sounds so good
+But if you really want me move slow
+There's things about me you just have to know
+
+Sometimes I run (sometimes)
+Sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+Treat you right, be with you day and night
+All I really want is to hold you tight
+Treat you right, be with you day and night
+Baby all I need is time
+
+Just hang around and you'll see
+There's nowhere I'd rather be
+If you love me, trust in me
+The way that I trust in you
+
+Sometimes I run (sometimes)
+Sometimes I hide,
+Sometimes I'm scared of you (oh)
+But all I really want is to hold you tight (hold you tight)
+Treat you right, be with you day and night (day and night)
+
+Sometimes I run (sometimes)
+Sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+Treat you right, be with you day and night (day and night)
+
+All I really want is to hold you tight
+Be with you day and night
+
+Sometimes I run (sometimes)
+Sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: life--everybody-needs-somebody-to-love--haddaway
+lyrics_url: https://www.azlyrics.com/lyrics/haddaway/lifeeverybodyneedssomebodytolove.html
 name: Life (Everybody Needs Somebody To Love)
 rankings:
 - end_date: '1993-12-31'
@@ -71,4 +72,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
 ---
+
+Life
+Life will never be
+Life
+
+Life will never be...the same
+
+Hey yeah 
+
+Time is getting cold
+What is going on?
+What is on your mind?
+Are your feelings gone?
+Need to see it clear,
+Where do we go?
+Why are you doing things,
+All the things you do?
+
+Hey yeah 
+
+
+Life will never be the same
+Life is changing
+
+Hey yeah 
+
+
+
+
+Everybody needs somebody to love, to love
+Everybody needs somebody to love, to love
+
+
+Hey yeah 
+
+Whoa, whoa 
+
+In...the name of love
+You should draw the line
+Got to feel secure
+That you're still mine
+
+Hey yeah! 
+
+
+
+Hey yeah 
+
+
+
+
+
+
+
+Hey yeah! 
+
+
+
+Ohhh whoa, yeah, yeah 
+
+Whoa, whoa 
+
+Hey yeah! 
+
+Whoa whoa whoa whoa, 
+Ohhh whoa, yeah, yeah 
+
+
+
+Hey yeah 
+
+
+
+Life
+Life will never be
+Life
+
+Life will never be...the same
+
+
 

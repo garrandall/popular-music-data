@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-new-york-new-york-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/themefromnewyorknewyork.html
 name: Theme From New York New York
 rankings:
 - end_date: '1980-05-09'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
 ---
+
+Start spreading the news
+I'm leaving today
+I want to be a part of it
+New York, New York
+
+These vagabond shoes
+Are longing to stray
+Right through the very heart of it
+New York, New York
+
+I wanna wake up in a city
+That doesn't sleep
+And find I'm king of the hill
+Top of the heap
+
+These little town blues
+Are melting away
+I'll make a brand new start of it
+In old New York
+
+If I can make it there
+I'll make it anywhere
+It's up to you
+New York, New York
+
+New York, New York
+
+I want to wake up in a city
+That never sleeps
+And find I'm a number one
+Top of the list
+King of the hill
+A number one
+
+These little town blues
+Are melting away
+I'm gonna make a brand new start of it
+In old New York
+
+And if I can make it there
+I'm gonna make it anywhere
+It's up to you
+New York, New York, New York
+
+
 

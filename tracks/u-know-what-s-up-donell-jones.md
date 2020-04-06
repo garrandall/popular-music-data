@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: u-know-what-s-up-donell-jones
+lyrics_url: https://www.azlyrics.com/lyrics/donelljones/uknowwhatsup56049.html
 name: U Know What's Up
 rankings:
 - end_date: '1999-10-01'
@@ -103,4 +104,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
 ---
+
+
+Ooh, say what, say what, say what
+Ooh, girl u know what's up
+Ooh, say what, say what, say what
+Ooh, girl u know what's up
+
+
+Me and my niggas be rollin'
+Schemin' on u and your homies
+The very first day of summer
+All chromed out in a Hummer, babe
+Hit the park and parlay
+Hopin' that u walk this way
+Do u and your girls wanna ride
+Play all day and puff on the la
+
+
+Ooh, say what, say what, say what
+Ooh, girl u know what's up
+Ooh, say what, say what, say what
+Ooh, girl u know what's up
+
+I'm diggin' u and I'm feelin' u
+U know what's up
+Said i'm diggin' u and I'm wantin' u
+So tell me what's up
+
+
+Peep her thighs and I'm zonin'
+Right around two in the mornin'
+Lookin' fly with a sundress on
+Think I feel a bone comin on
+Girl u got it wide open
+Want all day and in hopin'
+Baby don't front
+Back seat Jeep, u know what I want
+
+
+
+
+
+So baby tell me what's up
+Can we ascend to higher heights
+And when the path gets rough
+We can give in to brighter nights
+Breathe with peace, expand by leaps
+Sow to reap our souls to keep
+The passions deep and filled with heat
+Living this life on the hustle
+I barely get enough time
+U know me for the Platinum
+How I stack them and shine
+U see a lot of contenders
+They try to end up in my world
+A reputation known as the untouchable girl
+I'm movin' on and now I'm tryin'
+To make a change in my ways
+Be the best that I can be
+To last me all of my days
+Now we can blaze pathways
+Or just take our time
+Better hollar if you hear me
+Cuz Left-Eye gonna shine
+My eyes don't lie see how
+They glisten when you pass me by
+U and I don't need permission to be unified
+Surely I done seen and heard of many places
+Then I traveled around the world, seen many faces
+don't let another one get near me if you wanna be true
+And show me that nobody else can do it better than you
+So if you serious, I'm curious to see what you got
+My love is furious, cuz I believe in blowin' up spots
+
+
+
+
 

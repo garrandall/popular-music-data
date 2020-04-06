@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-you-in-the-morning-michael-ray
+lyrics_url: https://www.azlyrics.com/lyrics/michaelray/kissyouinthemorning.html
 name: Kiss You In The Morning
 rankings:
 - end_date: '2015-06-19'
@@ -63,4 +64,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
 ---
+
+Them jeans are faded
+In all the right places
+You got me hanging on tight to your curves like little E races
+Girl your funky little back beat has got me
+Feel like I'm tipsy
+And I ain't even had a drink
+
+I wanna kiss you in the parking lot
+Under the moonlight
+Kiss you running red lights
+Baby set the mood right
+Just like everything you're doing to me right now's
+Making me crazy
+I wanna kiss you on the dance floor
+Kiss you like a let's go, come on
+Baby let me hear you say oh, oh
+I wanna kiss you with the neon lights in your eyes glowing
+Then I wanna kiss you in the morning
+Yeah I wanna kiss you in the morning
+
+Oh you little outlaw
+Stealing my heart and all
+When you drop it down low
+Touch your toes girl
+You know you just show it off
+That little tattoo on your tan line, oh my
+Pretty little butterfly
+What else have you got to hide?
+
+I wanna kiss you in the parking lot
+Under the moonlight
+Kiss you running red lights
+Baby set the mood right
+Just like everything you're doing to me right now's
+Making me crazy
+I wanna kiss you on the dance floor
+Kiss you like a let's go, come on
+Baby let me hear you say oh, oh
+I wanna kiss you with the neon lights in your eyes glowing
+Then I wanna kiss you in the morning
+Yeah I wanna kiss you in the morning
+
+I wanna kiss you in the parking lot
+Under the moonlight
+Kiss you running red lights
+Baby set the mood right
+Just like everything you're doing to me right now's
+Making me crazy
+I wanna kiss you on the dance floor
+Kiss you like a let's go, come on
+Baby let me hear you say oh, oh
+I wanna kiss you with the neon lights in your eyes glowing
+Then I wanna kiss you in the morning
+Yeah I wanna kiss you in the morning, morning
+Yeah I wanna kiss you in the morning
+
+
 

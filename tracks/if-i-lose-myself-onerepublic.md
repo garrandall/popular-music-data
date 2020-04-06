@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-lose-myself-onerepublic
+lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/ifilosemyself.html
 name: If I Lose Myself
 rankings:
 - end_date: '2013-02-01'
@@ -27,4 +28,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-04'
 ---
+
+I stared up at the sun,
+Thought of all of the people, places and things I've loved.
+I stared up just to see
+With all of the faces, you were the one next to me.
+
+You can feel the light start to tremble,
+Washing what you know out to sea.
+You can see your life out the window tonight.
+
+If I lose myself tonight,
+It'll be by your side.
+I lose myself tonight.
+
+If I lose myself tonight,
+It'll be you and I.
+Lose myself tonight.
+
+I woke up with the sun,
+Thought of all of the people, places and things I've loved.
+I woke up just to see
+With all of the faces, you were the one next to me.
+
+You can feel the light start to tremble,
+Washing what you know out to sea.
+You can see your life out the window tonight.
+
+If I lose myself tonight,
+It'll be by your side.
+I lose myself tonight.
+
+If I lose myself tonight,
+It'll be you and I.
+Lose myself tonight.
+
+Take us down and we keep trying,
+Forty thousand feet, keep flying.
+Take us down and we keep trying,
+Forty thousand feet, keep flying.
+Take us down and we keep trying,
+Forty thousand feet, keep flying.
+Take us down and we keep trying,
+Forty thousand feet, keep flying.
+
+Lose myself.
+If I lose myself tonight.
+
+
 

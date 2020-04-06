@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: envy-me-calboy
+lyrics_url: https://www.azlyrics.com/lyrics/147calboy/envyme.html
 name: Envy Me
 rankings:
 - end_date: '2019-01-04'
@@ -115,4 +116,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
 ---
+
+Now I lay me down to sleep, ayy
+I pray the Lord my soul to keep, yeah, ayy
+Like a locksmith, I got the keys, yeah, ayy
+Pull up, make opp niggas bleed, yeah, ayy
+I got water like overseas, yeah, ayy
+Bitch, I ball like NBA, yeah, ayy
+Bitch, I ball like MVP's, yeah, ayy
+I got money, they envy me
+
+I'm with the gang, I'm with the mob, what was you thinking?
+Remember them days, and that shit was hard, a nigga been thinking
+I put a four in a twenty ounce, a nigga been drinking, yeah
+If you with the squad, I give you my heart, lil' nigga, I mean it
+I was fighting some demons, in the field, bitch, I'm deep in
+I was raised in the deep end, I know niggas be sinking
+Take your bitch and go deep in, but I gave her back, why you tweaking?
+Come around with that rah-rah, we leave you dead on the cement
+With the gang, we ain't playing fair
+Matter fact, we don't play at all
+OG 'Woods in the air
+But we bought the Runtz so we smoke it all
+Putting on a front, boy, you better fall
+We gone kill 'em dead, we gone kill 'em all
+Might spend a ten when I'm in the mall
+I was on the bend with it in my drawers
+Hit that smoke and I'm blacking
+Hit that smoke and I black out
+If he run, blow his back down
+I was gone but I'm back now
+These niggas gone fold, but I never back down
+In the school, I was trapping
+In the school, you was class clown
+
+Ayy, now I lay me down to sleep, ayy
+I pray the Lord my soul to keep, yeah, ayy
+Like a locksmith, I got the keys, yeah, ayy
+Pull up, make opp niggas bleed, yeah, ayy
+I got water like overseas, yeah, ayy
+Bitch, I ball like NBA, yeah, ayy
+Bitch, I ball like MVP's, yeah, ayy
+I got money, they envy me
+
+
 

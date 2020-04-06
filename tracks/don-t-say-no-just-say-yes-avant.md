@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-say-no-just-say-yes-avant
+lyrics_url: https://www.azlyrics.com/lyrics/avant/dontsaynojustsayyes.html
 name: Don't Say No Just Say Yes
 rankings:
 - end_date: '2002-10-04'
@@ -23,4 +24,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
 ---
+
+Oh....Yes...
+Oh babe....Yes babe..
+
+I hope she answers my prayers tonite
+
+ Open your heart and let me pour my loving
+Inside of you (...inside of you)
+You make me feel like living and breathing again
+I wanna touch you (...i wanna touch you)
+ Don't say....No...(just say)...yes...(oh babe)
+Your body's what i need
+Don't say .....No..(just say)...Yes..(oh babe)
+I can hear you calling me
+ Your my diamond that shines all of the time
+On mercy me, yeah..yeah
+You make me reach my peak
+the day you told me that you wanted me...dont be afraid...please
+ Don't say...No..(just say)...Yes...(oh babe)
+Your body's what i need
+Don't say...No...(just say)...Yes...(oh babe)
+I can hear you calling me
+ You are my season...(...season)
+And you are the reason.....
+I feel the way I do.....
+As our bodies come as one....(....come as one)
+Your my star..(my star)...That what you are(...you are...you are)
+
+
+Now let me hear you say yes....say yes....say yes... 
+Oh yeah
+Now let me hear you say yes...say yes.....say yes...
+oh yeah
+
+Come here baby...lay down right here
+I dont wanna talk no more.....
+I can feel you...your body all over mine..
+Oh wee..open your door for me...... I'm coming in....
+..knock, knock...knock, knock babe 
+
+
 

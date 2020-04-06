@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/somewhere.html
 name: Somewhere
 rankings:
 - end_date: '1985-12-20'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
 ---
+
+Someday, somewhere
+We'll find a new way of living
+Will find a way of forgiving
+Somewhere...
+There's a place for us
+Somewhere a place for us
+Peace and quiet and open air
+Wait for us
+Somewhere
+There's a time for us
+Someday there'll be a time for us
+Time together with time to spare
+Time to learn, time to care
+Someday, somewhere
+We'll find a new way of living
+Will find there's a way of forgiving
+Somewhere...
+There's a place for us
+A time and a place for us
+Hold my hand and we're half way there
+Hold my hand and I'll take you there
+Somehow...
+Someday, somewhere...
+
+
 

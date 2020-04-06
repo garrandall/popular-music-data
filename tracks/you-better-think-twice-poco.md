@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-think-twice-poco
+lyrics_url: https://www.azlyrics.com/lyrics/poco/youbetterthinktwice.html
 name: You Better Think Twice
 rankings:
 - end_date: '1970-10-09'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
 ---
+
+You better think twice
+About leaving me behind
+Make up your mind
+About what you're gonna do
+You know it ain't easy
+When your love huts night and day
+Oh, how you please
+When I hear you call my name
+
+Breathlessly I await the moment to surround you
+Do not fear the song that makes you sing
+It'll offer you wings to fly away
+But do not expect to land if you can't stay
+
+You better think twice
+About leaving me behind
+Make up your mind
+About what you're gonna do
+You take my advice
+Oh woman, you've got to choose
+Take a little time
+You got nothing more to lose
+
+In time, you know my melody will haunt you
+Your words can make it rhyme so easily
+It ain't no sin when love is real
+So come on and let me know just how you feel
+
+You better think twice
+About leaving me behind
+Make up your mind
+About what you're gonna do
+You take my advice
+Oh woman, you've got to choose
+Take a little time
+You got nothing more to lose
+
+
 

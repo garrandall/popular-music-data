@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-hurry-love-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/philcollins/youcanthurrylove.html
 name: You Can't Hurry Love
 rankings:
 - end_date: '1982-11-12'
@@ -91,4 +92,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
 ---
+
+I need love, love
+ooh, ease my mind
+And I need to find time
+Someone to call mine;
+
+My mama said
+You can't hurry love
+No, you'll just have to wait
+She said love don't come easy
+But it's a game of give and take
+You can't hurry love
+No, you'll just have to wait
+Just trust in a good time
+No matter how long it takes
+
+How many heartaches must I stand
+Before I find the love to let me live again
+Right now the only thing that keeps me hanging on
+When I feel my strength, ooh, it's almost gone
+
+I remember mama said
+You can't hurry love
+No you'll just have to wait
+She said love don't come easy
+It's a game of give and take
+How long must I wait
+How much more must I take
+Before loneliness
+Will cause my heart, heart to break?
+
+No, I cant bear to live my life alone
+I grow impatient for a love to call my own
+But when I feel that I, I can't go on
+Well these precious words keep me hanging on
+
+I remember mama said
+You can't hurry love
+No, you'll just have to wait
+She said love don't come easy
+Well, it's a game of give and take
+You can't hurry love
+No, you'll just have to wait
+Just trust in a good time
+No matter how long it takes, now break!
+
+Now love, love don't come easy
+But I keep on waiting
+Anticipating for that soft voice
+To talk to me at night
+For some tender arms
+hold me tight
+I keep waiting
+Ooh, till that day
+But it ain't easy (Love don't come easy)
+No, you know it ain't easy
+
+My mama said
+You can't hurry love
+No, you'll just have to wait
+She said love don't come easy
+It's a game of give and take...
+
+
 

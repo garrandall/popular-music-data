@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: december-collective-soul
+lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/december.html
 name: December
 rankings:
 - end_date: '1995-05-19'
@@ -163,4 +164,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
 ---
+
+Why drink the water from my hand?
+Contagious as you think I am
+
+Just tilt my sun towards your domain.
+Your cup runneth over again.
+
+Don't scream about
+Don't think aloud
+Turn your head now baby 
+Just spit me out
+Don't worry about
+Don't speak of doubt
+Turn your head now baby
+Just spit me out
+
+Why follow me to higher ground?
+Lost as you swear I am.
+Don't throw away your basic needs,
+Ambiance and vanity.
+
+Don't scream about
+Don't think aloud
+Turn your head now baby 
+Just spit me out
+Don't worry about
+Don't speak of doubt
+Turn your head now baby
+Just spit me out
+
+Don't scream about
+Don't think aloud
+Turn your head now baby 
+Just spit me out
+Don't worry about
+Don't speak of doubt
+Turn your head now baby
+Just spit me out
+
+December promise you gave unto me
+December whispers of treachery
+December clouds are now covering me
+December songs no longer I sing
+
+December promise you gave unto me
+December whispers of treachery
+December clouds are now covering me
+December songs no longer I sing
+
+
+Don't scream about
+Don't think aloud
+Turn your head now baby 
+Just spit me out
+Don't worry about
+Don't speak of doubt
+Turn your head now baby
+Just spit me out
+
+
+December promise you gave unto me
+December whispers of treachery
+December clouds are now covering me
+December songs no longer I sing
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ladies-night-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/inthehood.html
 name: Ladies Night
 rankings:
 - end_date: '1979-10-12'
@@ -104,4 +105,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
 ---
+
+Summer, mercury is high
+Hangin' with my baby
+Love is on my mind
+Jeep style, music pumpin' high
+Everybody's dancin', stars are in the sky
+
+It's a beautiful night in the hood
+I'm feelin' good
+Coolin' with the ladies
+The way that we should
+And I know that it's gonna be
+All right tonight, yeah
+
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+
+People come out to play
+Brothers and Sisters from around the way
+Jeep style, music pumpin' strong
+Everybody's chillin' all night long
+
+It's a beautiful night in the hood
+I'm feelin' good
+Coolin' with the ladies
+The way that we should
+And I know that it's gonna be
+All right tonight, yeah
+
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+
+Hangin' out in the hood, feeling good
+Hangin' out in the hood, feeling good
+
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+Hangin' out in the hood tonight
+Doin' it 'cause it feels so right
+
+It's a beautiful night in the hood.
+I'm feelin' good
+And I know that it's gonna be
+All right tonight, yeah
+
+
 

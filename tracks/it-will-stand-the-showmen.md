@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-will-stand-the-showmen
+lyrics_url: https://www.azlyrics.com/lyrics/doors/blackpolishedchromelatinochrome.html
 name: It Will Stand
 rankings:
 - end_date: '1961-11-19'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
 ---
+
+The music was new
+Black polished chrome
+And came over the summer
+Like liquid night.
+The DJ's took pills to stay awake
+And play for seven days
+They went to the studio
+And someone knew him
+Someone knew the TV showman
+He came to our homeroom party
+And played records
+And when he left in the hot noon sun
+And walked to his car
+We saw the chooks had written
+F-U-C-K on his windshield
+He wiped it off with a rag
+And smiling cooly drove away
+He's rich. Got a big car.
+
+My gang will get you
+Scenes of rape in the arroyo
+Seduction in cars, abandoned buildings
+Fights at the food stand
+The dust
+The shoes
+Open shirts and raised collars
+Bright sculptured hair.
+
+Hey man, you want girls, pills, grass? C'mon...
+I show you good time.
+This place has everything. C'mon...
+I show you.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: has-anyone-ever-written-anything-for-you-stevie-nicks
+lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/hasanyoneeverwrittenanythingforyou.html
 name: Has Anyone Ever Written Anything For You
 rankings:
 - end_date: '1986-05-23'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
 ---
+
+Has anyone ever written anything for you
+In all your darkest hours
+Have you ever heard me sing
+Listen to me now
+You know I'd rather be alone
+Than be without you
+Don't you know
+
+Has anyone ever given anything to you
+In your darkest hours
+Did you ever give it back
+Well, I have
+I have given that to you
+If it's all I ever do
+This is your song
+
+And the rain comes down
+There's no pain and there's no doubt
+It was easy to say
+I believed in you everyday
+If not for me
+Then do it for the world
+
+Has anyone ever written anything for you
+In your darkest sorrow
+Did you ever hear me sing
+Listen to me now
+You know I'd rather be alone
+Than be without you
+Don't you know
+
+So, if not for me, then
+Do it for yourself
+If not for me then
+Do it for the world
+Poet... priest of nothing
+Poet... priest of nothing
+
+
 

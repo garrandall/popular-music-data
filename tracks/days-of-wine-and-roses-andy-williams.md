@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: days-of-wine-and-roses-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/daysofwineandroses.html
 name: Days Of Wine And Roses
 rankings:
 - end_date: '1963-03-22'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
 ---
+
+
+
+The days of wine and roses laugh and run away like a child at play
+Through the meadow land toward a closing door
+A door marked "nevermore" that wasn't there before
+The lone-ly night discloses just a passing breeze filled with memories
+Of the golden smile that introduced me to
+The days of wine and roses and you
+
+
+
+The days of wine and roses
+
+
+
+The lonely-----the night discloses just a passing breeze filled with memories
+Of the golden smile that introduced me to
+The days of wine and roses and you
+
+
 

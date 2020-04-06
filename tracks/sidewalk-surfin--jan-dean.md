@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: sidewalk-surfin--jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/sidewalksurfin.html
 name: Sidewalk Surfin'
 rankings:
 - end_date: '1964-11-06'
@@ -40,4 +41,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
 ---
+
+Grab your board and go sidewalk surfin' with me
+Don't be afraid to try the newest sport around
+Bust your buns, bust your buns now
+It's catchin' on in every city and town
+
+You can do the tricks the surfers do, just try a
+"Quasimodo" or "The Coffin" too, why don't you?
+Grab your board and go sidewalk surfin' with me
+
+You'll probably wipeout when you first try to shoot the curve
+Bust your buns, bust your buns now
+Takin' gas in a bush takes a lotta nerve
+
+Those hopscotch poledads and pedestrians, too, will bug ya
+Shout "Cowabunga!" now and skate right on through, why don't you?
+Grab your board and go sidewalk surfin' with me
+
+You can do the tricks the surfers do, just try a
+"Quasimodo" or "The Coffin" too, why don't you?
+Grab your board and go sidewalk surfin' with me
+
+So get your girl and take her tandem down the street
+Bust your buns, bust your buns now
+Then she'll know you're an asphalt athlete
+
+A downhill grade, man, will give you a kick
+But if the sidewalk's cracked, ya better pull out quick, why don't you?
+Grab your board and go sidewalk surfin' with me
+Skateboard with me, why don't you skateboard me?
+Grab your board and go sidewalk surfin' with me
+Skateboard with me, why don't you skateboard me?
+
+Grab your board and go sidewalk surfin' with me
+Skateboard with me, why don't you skateboard me?
+Grab your board and go sidewalk surfin' with me
+Skateboard with me, why don't you skateboard me?
+Grab your board and go sidewalk surfin' with me
+
+
 

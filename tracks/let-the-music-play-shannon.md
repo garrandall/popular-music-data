@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-music-play-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/shannonnoll/longlivethesummer.html
 name: Let The Music Play
 rankings:
 - end_date: '1983-11-18'
@@ -103,4 +104,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
 ---
+
+Long live the summertime
+Just let the sun shine down
+From the Alice plains to the Oceanside
+Let's crank the music loud
+See the southern stars rise in the sky
+Playing guitars in the heat
+Singing long live the summertime
+Just keep me young and free
+
+Got tunes on tap, beers on ice
+The BBQ fired up just right
+The blue sky lightin' up the red dirt by sea
+Playing Back in Black in an outback pub
+Gonna tie one on in the diesel and dust
+You can feel that heat arisin' in this town
+That's what I'm talking bout
+
+Long live the summertime
+Just let the sun shine down
+From the Alice plains to the Oceanside
+Let's crank the music loud
+See the southern stars rise in the sky
+Playing guitars in the heat
+Singing long live the summertime
+Just keep me young and free
+
+See a working man, he works the land
+He's building dreams with working hands
+Apples of his eye don't fall far from that tree
+Now the Spring is done, the earth is ripe
+The hot sun says it's harvest time
+Rolling fields of gold over sunburn ground
+That's what it's all about
+
+Long live the summertime
+Just let the sun shine down
+From the Alice plains to the Oceanside
+Let's crank the music loud
+See the southern stars rise in the sky
+Playing guitars in the heat
+Singing long live the summertime
+Just keep me young and free
+
+Been on the road, seen a thousand smiles
+Horizon golden brown
+The rainbow serpent paints the sky
+And drives away the clouds
+
+Long live the summertime
+Just let the sun shine down
+From the Alice plains to the Oceanside
+Let's crank the music loud
+See the southern stars rise in the sky
+Playing guitars in the heat
+Singing long live the summertime
+Just keep me young and free
+
+Long live the summer
+Long live the summer
+Long live the summer
+Long live the summer
+
+
 

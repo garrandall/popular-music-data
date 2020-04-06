@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sorry-buckcherry
+lyrics_url: https://www.azlyrics.com/lyrics/buckcherry/sorry.html
 name: Sorry
 rankings:
 - end_date: '2007-12-28'
@@ -103,4 +104,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+Oh I had a lot to say
+Was thinking all my time away
+I missed you and things weren't the same
+
+'Cause everything inside
+It never comes out right
+And when I see you cry
+It makes me wanna die
+
+I'm sorry I'm bad, I'm sorry you're blue
+I'm sorry 'bout all the things I said to you
+And I know I can't take it back
+I love how you kiss, I love all your sounds
+And baby the way you make my world go round
+And I just wanted to say "I'm sorry"
+
+This time I think I'm to blame
+It's harder to get through the days
+You get older and blame turns to shame
+
+'Cause everything inside
+It never comes out right
+And when I see you cry
+It makes me wanna die
+
+I'm sorry I'm bad, I'm sorry you're blue
+I'm sorry 'bout all the things I said to you
+And I know I can't take it back
+I love how you kiss, I love all your sounds
+And baby the way you make my world go round
+And I just wanted to say "I'm sorry"
+
+Every single day
+I think about how we came all this way
+The sleepless nights
+And the tears you've cried
+It's never too late to make it right
+Oh yeah sorry!
+
+I'm sorry I'm bad, I'm sorry you're blue
+I'm sorry 'bout all the things I said to you
+And I know I can't take it back
+I love how you kiss, I love all your sounds
+And baby the way you make my world go round
+And I just wanted to say "I'm sorry"
+
+I'm sorry, baby
+I'm sorry, baby
+Yeah I'm sorry
+
+
 

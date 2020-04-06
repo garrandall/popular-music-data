@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eight-second-ride-jake-owen
+lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/eightsecondride.html
 name: Eight Second Ride
 rankings:
 - end_date: '2009-11-27'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
 ---
+
+Come on
+
+I said, "Hey girl, what's your name
+Haven't I seen you before?
+I recognize them dark green eyes
+When you walked through the door"
+
+"Are you alone or are you with someone?"
+She said, "As a matter of fact I'm not"
+So I took her hand that's when it all began
+And we headed towards the parking lot
+
+And she said, "Hey boy, do you mind taking me home tonight
+'Cuz I ain't never seen a country boy with tires on his truck this high
+I said, "Climb on up but honey watch the cup that I spitttin' my dip inside
+And hold on tight 'cuz it's gonna be wilder then any eight second ride"
+
+We went ridin' around rockin'
+To the sound of a country boy can survive
+And I knew then she was my kinda girl
+'Cuz she was singin' every single line
+
+Then she slid on over put my hand on her shoulder
+And I asked her what she wanted to do
+She said, "It really don't matter where we go
+Just as long as I'm ridin' with you"
+
+She said, "Hey boy, do you mind taking me home tonight
+'Cuz I ain't never seen a country boy with tires on his truck this high
+I said, "Climb on up but honey watch the cup that I spittin' my dip inside
+And hold on tight 'cuz it's gonna be wilder then any eight second ride"
+
+So we headed out to Old Tobacco Road
+Put the tailgate down and we made love
+She said "A true country boy is hard to find
+But I found one wilder then any eight second ride"
+
+She said, "Hey boy, do you mind taking me home tonight
+'Cuz I ain't never seen a country boy with tires on his truck this high
+I said, "Climb on up but honey watch the cup that I spittin' my dip inside
+And hold on tight 'cuz it's gonna be wilder then any eight second ride
+Yeah, hold on tight 'cuz it's gonna be wilder then any eight second ride"
+
+
 

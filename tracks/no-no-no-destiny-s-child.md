@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-no-no-destiny-s-child
+lyrics_url: https://www.azlyrics.com/lyrics/youngbloodz/whatchulookinat.html
 name: No No No
 rankings:
 - end_date: '1997-12-05'
@@ -147,4 +148,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
 ---
+
+
+Yeah yeah yeah whatchu lookin at nigga whatchu lookin at
+Whatchu lookin at bitch whatchu lookin at
+bitch whatchu lookin at nigga whatchu lookin at
+Now whatchu lookin at now whatchu lookin at
+now whatchu lookin at now whatchu lookin at
+Nigga whatchu lookin at bitch whatchu lookin at
+bitch whatchu lookin at
+Bitch whatchu lookin at nigga whatchu lookin at
+
+
+I ride woozie with some motherfucking wood
+Still hangin and slangin yea for beat at my hood
+Ay go get to it talking big boy shit
+Mean muggin like a motherfucker my head on my dick
+Bitch I can shake with your help nigga we buck ass wild
+We get crunk I got the truth I bought that destinys child
+Slide to the ride bitch where a nigga don't dance
+What I look like out there juking with this gat in my pants
+I put this thing to your back make you throw out your hands
+My bull is shit ali a nigga spill some hen on your pants
+I'm unruly seem like I don't give a damn
+Maybe cause I don't motherfucker understand (understand)
+
+
+I'm bout foolish I'm what I motherfucking said
+I put a peep hole in your head I'm about my motherfucking thread
+Its your truly I still roll with the squad
+Ain't talkin your points outta thing feelin your bars
+They want to do me but heck I'm already on it
+I ain't gotta hit the car I got it already own it
+Nigga you ain't they say this song is to cold
+The same thing you heard before your mug got hit with a bottle
+I gets to it I'm out there smokin on purple
+Posted up getting money with my nigga from the circle
+Homeboy believe it I keep some sacks on my hand
+I'm posted up with my gat in my pants motherfucker I ain't playin
+
+
+Whatchu lookin at nigga step the fuck back
+We on the post your in our space don't step so close
+They know I'm ownin the game cause I stay grippin the grain
+I'm riding dirty on probation but I'll scrap with no things
+So whatchu lookin at nigga whatchu lookin at
+So whatchu lookin at nigga whatchu lookin at
+So whatchu lookin at nigga step the fuck back
+So whatchu lookin at nigga step the fuck back
+
+
+It's something new for them lets clean up off his plate
+Let's make a move on them no time to hesitate
+So ride the groove on them ain't no more time to wait
+Ain't no more room for them ain't nothing to debate
+Just let them fight for it something they never heard
+We keep it fight for them precise with every word
+I'm screamin at it nigga just watch where I swerve
+We runnin havoc nigga bangin on every curve
+We hit it raw on them real make calling off air
+We making blood on the niggaz don't want to take it there
+A-t-l running things you goobers stack your chains
+Moe back off in this thing jump off put in the game
+
+
+We are known for being sold in a click foolish as mine
+Cigarillo bustin choppin hoes down the line
+Hating if you like us still the sun gone shine
+Add a coupe the feature your request goes rewind
+Like play action we stay ahead of the game
+Runnin through your whole league and still a catch the grain
+Cause this that real shit that make you act a fool
+Where you straighten out that nigga and tell that bitch be cool
+It's J-Bo shit nigga you already know
+We shake them off and keep on rolling it begin to show
+And sip good nigga I wish you would
+I'm slidin with about 50 niggaz straight up dead out the hood
+
+
+
+
 

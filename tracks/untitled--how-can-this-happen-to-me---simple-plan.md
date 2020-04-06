@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: untitled--how-can-this-happen-to-me---simple-plan
+lyrics_url: https://www.azlyrics.com/lyrics/simpleplan/untitled.html
 name: Untitled (How Can This Happen To Me?)
 rankings:
 - end_date: '2005-05-27'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
 ---
+
+I open my eyes
+I try to see but I'm blinded by the white light
+I can't remember how
+I can't remember why
+I'm lying here tonight
+
+And I can't stand the pain
+And I can't make it go away
+No, I can't stand the pain
+
+How could this happen to me?
+I've made my mistakes
+Got nowhere to run
+The night goes on
+As I'm fading away
+I'm sick of this life
+I just wanna scream
+How could this happen to me?
+
+Everybody's screaming
+I try to make a sound but no one hears me
+I'm slipping off the edge
+I'm hanging by a thread
+I wanna start this over again
+
+So I try to hold onto a time when nothing mattered
+And I can't explain what happened
+And I can't erase the things that I've done
+No, I can't
+
+How could this happen to me?
+I've made my mistakes
+Got nowhere to run
+The night goes on
+As I'm fading away
+I'm sick of this life
+I just wanna scream
+How could this happen to me?
+
+I've made my mistakes
+Got nowhere to run
+The night goes on
+As I'm fading away
+I'm sick of this life
+I just wanna scream
+How could this happen to me?
+
+
 

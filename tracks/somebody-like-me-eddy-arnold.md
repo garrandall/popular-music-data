@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-like-me-eddy-arnold
+lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/somebodylikeme.html
 name: Somebody Like Me
 rankings:
 - end_date: '1966-10-21'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
 ---
+
+Your baby loves you now so don't make her blue now
+You'd better start bein' true now I'm telling you why
+Because if you break her heart somebody's gonna come along
+And he'll steal her away from you somebody like me
+
+Let me tell you friend I'm not botherin'
+But I think it's such a sin if you don't treat her right
+Because if you break her heart...
+
+She wants to be held tight now each and every night now
+You'd better treat her right now I'm telling you why
+Because if you break her heart somebody's gonna come along
+And he'll steal her away from you somebody like me
+
+I hope you listen to now each word that I've told you now
+Please friend you'd better do now and you won't have alone
+Because if you break her heart somebody's gonna come along
+And he'll steal her away from you somebody like me
+
+Will steal her away somebody like me...
+
+
 

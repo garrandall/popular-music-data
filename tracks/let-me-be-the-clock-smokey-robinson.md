@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-the-clock-smokey-robinson
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/letmebetheclock.html
 name: Let Me Be The Clock
 rankings:
 - end_date: '1980-03-21'
@@ -63,4 +64,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
 ---
+
+Let me be the clock for the time of your life, oh, yeah
+Let me be the pendulum that strikes your chime
+For the first time
+
+I'm a cuckoo I know
+Counting hours till we will be together
+When the door to my heart will open
+It's for sure that I will be hopin', hopin' that you
+
+Will let me be the clock for the time of your life
+Oh, yeah, baby, oh, yeah, baby
+And let me be the pendulum that strikes your chime
+For the first time, let it begin
+
+'Cause every moment we're apart is some good feeling wasted
+A good feeling deep down inside me, told me
+A good time for me to try to get you to hold me
+Is right here and now
+
+So let me be the clock for the time of your life
+Oh, yeah, oh, yeah, baby
+And let me be the pendulum that strikes your chime
+For the first time, for the first time
+
+I wanna be your pendulum, baby
+Striking your chime
+
+Hickory dickory dock
+I want to be your clock
+Just set me for lifetime
+And I'll wake you up every morning
+
+Woo, woo, ooh, let me
+Let me be the clock for the time of your life
+For the time of your life, oh, yeah, ooh
+Let me be the pendulum striking your chime
+For the first time and every time after that
+'Cause I know where it's at
+
+So let me, let me, let me, let me
+Let me, let me, baby, ooh, ooh
+Let me be the pendulum striking your chime
+For the first time, for the first time
+
+Strike your chime one time, baby
+Strike your chime one time
+Let me be the pendulum striking your chime
+For the first time
+
+Let me be the clock for the time of your life, oh, yeah
+And let me be the pendulum who's striking your chime
+For the first time and every time after that
+'Cause I know where it's at
+
+So let me, let me, let me, let me
+Let me, let me, baby, ooh, ooh
+Let me be the pendulum striking your chime
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-rain-go-away-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/rainraingoaway.html
 name: Rain Rain Go Away
 rankings:
 - end_date: '1962-08-31'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
 ---
+
+I can still remember 
+When you moved in next door 
+I brought you some choc'late 
+From the corner candy store 
+When it started raining 
+You started crying too 
+That was the first time 
+I sang this song to you 
+
+Rain rain go away 
+Come again some other day 
+Rain rain go away 
+Bring my love a sunny day 
+
+We grow up together 
+And as the years went by 
+Ev'rybody knew that we were 
+Sweethearts you and I 
+Through many april showers 
+I held your hand in mine 
+Between the raindrops 
+We sang time after time 
+
+Rain rain go away 
+Come again some other day 
+Rain rain go away 
+Bring my love a sunny day 
+
+I went away to college 
+You said you'd wait for me 
+Then I got your letter 
+Asking me to set you free 
+Tomorrow you'll be maried 
+There's nothing I can do 
+But wish you sunshine 
+Now and your whole life through 
+
+Rain rain go away 
+Tomorrow is her wedding day 
+Rain rain go away 
+Bring my love a sunny day
+
+
 

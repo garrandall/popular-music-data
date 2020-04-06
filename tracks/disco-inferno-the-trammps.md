@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: disco-inferno-the-trammps
+lyrics_url: https://www.azlyrics.com/lyrics/trammps/discoinferno.html
 name: Disco Inferno
 rankings:
 - end_date: '1977-03-11'
@@ -123,4 +124,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
 ---
+
+(Burn baby burn)
+(Burn baby burn)
+(Burn baby burn)
+(Burn baby burn)
+
+To my surprise one hundred storeys high
+People getting loose y'all
+Getting down on the roof
+Folks are screaming out of control
+It was so entertaining
+When the boogie started to explode
+I heard somebody say
+
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+
+Satisfaction came in a chain reaction
+(Burnin)
+I couldn't get enough
+So I had to self-destruct
+The heat was on, rising to the top
+Everybody is going strong
+And that is when my spark got hot
+I heard somebody say
+
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+
+Up above my head
+I hear music in the air
+That makes me know
+There's a party somewhere
+
+Satisfaction came in a chain reaction
+I couldn't get enough
+So I had to self-destruct
+The heat was on, rising to the top
+Everybody is going strong
+And that is when my spark got hot
+I heard somebody say
+
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+(Burn baby burn) disco Inferno
+(Burn baby burn) burn that mother down
+
+
 

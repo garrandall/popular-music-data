@@ -5,6 +5,7 @@ features: []
 genres: []
 key: to-be-with-you-mr--big
 name: To Be With You
+lyrics_url: https://www.azlyrics.com/lyrics/mrbig/tobewithyou.html
 rankings:
 - end_date: '1991-12-27'
   rank: 82
@@ -103,4 +104,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
 ---
+Hold on little girl
+Show me what he's done to you
+Stand up little girl
+A broken heart can't be that bad
+When it's through, it's through
+Fate will twist the both of you
+So come on baby come on over
+Let me be the one to show you
 
+I'm the one who wants to be with you
+Deep inside I hope you feel it too
+Waited on a line of greens and blues
+Just to be the next to be with you
+
+Build up your confidence
+So you can be on top for once
+wake up who cares about
+Little boys that talk too much
+I seen it all go down
+Your game of love was all rained out
+So come on baby, come on over
+Let me be the one to hold you
+
+I'm the one who wants to be with you
+Deep inside I hope you feel it too
+Waited on a line of greens and blues
+Just to be the next to be with you
+
+Why be alone when we can be together baby
+You can make my life worthwhile
+I can make you start to smile
+
+When it's through, it's through
+Fate will twist the both of you
+So come on baby come on over
+Let me be the one to show you
+
+I'm the one who wants to be with you
+Deep inside I hope you feel it too
+Waited on a line of greens and blues
+Just to be the next to be with you
+
+I'm the one who wants to be with you
+Deep inside I hope you feel it too
+Waited on a line of greens and blues
+Just to be the next to be with you
+
+Just to be the next to be with you

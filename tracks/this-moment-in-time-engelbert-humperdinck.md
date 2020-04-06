@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-moment-in-time-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thismomentintime.html
 name: This Moment In Time
 rankings:
 - end_date: '1978-12-29'
@@ -31,4 +32,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
 ---
+
+More than a ripple, less than a splash
+The heir to a long line of glory
+Give me the morning and I'll give you a song
+It's so good being part of the story
+
+This moment in time
+This right time of day
+Oh I love being with you
+And watching my life at play
+My love in your eyes
+Is lighting my dreams
+And the feelings you choose
+Have touches of blues and greens
+
+This trip into time
+This timeless embrace
+And like a kid in a store
+I'll always want more to taste
+And no matter what comes
+I know the sun is gonna shine
+Because of you and me
+There'll be this moment in time
+
+And no matter what comes
+I know the sun is gonna shine
+Because of you and me
+There'll be this moment in time
+
+More than a ripple, less than a splash
+The heir to a long line of glory
+Give me the morning and I'll give you a song
+It's so good being part of the story
+
+This moment in time
+This right time of day
+Oh I love being with you
+And watching my life at play
+And no matter what comes
+I know the sun is gonna shine
+Because of you and me
+There'll be this moment in time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-blessed-texas-little-texas
+lyrics_url: https://www.azlyrics.com/lyrics/littletexas/godblessedtexas.html
 name: God Blessed Texas
 rankings:
 - end_date: '1993-11-19'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
 ---
+
+I've seen a lot of places
+I've been around the world
+I've seen pretty faces
+Been with some beautiful girls
+After all I've witnessed
+One thing still amazes me
+Just like a miracle, you have to see to believe
+
+
+(Cause) God blessed Texas
+With His own hand
+Brought down angels from the promised land
+Gave 'em a place where they could dance
+If you wanna see heaven, brother, here's you chance
+I've been sent to spread the message
+God blessed Texas.
+
+First, He let the sun shine
+Then He made the waters deep
+Then He gave us moonlight
+For all the world to see
+Well everybody knows that the Lord works in mysterious ways
+He took a rest, then on the very next day
+
+
+
+Well I've been sent to spread the message
+God blessed Texas
+Well I've been sent to spread the message
+God blessed Texas.
+
+
 

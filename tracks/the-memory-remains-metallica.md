@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-memory-remains-metallica
+lyrics_url: https://www.azlyrics.com/lyrics/metallica/thememoryremains.html
 name: The Memory Remains
 rankings:
 - end_date: '1997-12-05'
@@ -83,4 +84,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
 ---
+
+Fortune, fame
+Mirror vain
+Gone insane
+But the memory remains
+
+Heavy rings on fingers wave
+Another star denies the grave
+See the nowhere crowd, cry the nowhere tears of honor
+
+Like twisted vines that grow
+That hide and swallow mansions whole
+And dim the light of an already faded prima donna
+
+Fortune, fame
+Mirror vain
+Gone insane...
+Fortune, fame
+Mirror vain
+Gone insane...
+But the memory remains
+
+Heavy rings hold cigarettes
+Up to lips that time forgets
+While the Hollywood sun sets behind your back
+
+And can't the band play on?
+Just listen, they play my song
+Ash to ash
+Dust to dust
+Fade to black
+
+Fortune, fame
+Mirror vain
+Gone insane...
+Fortune, fame
+Mirror vain
+Gone insane...
+Dance, little tin goddess
+
+Na-na-na...
+
+Drift away
+Fade away
+Little tin goddess
+
+Ash to ash
+Dust to dust
+Fade to black
+
+Fortune, fame
+Mirror vain
+Gone insane...
+Fortune, fame
+Mirror vain
+Gone insane...
+But the memory remains
+
+Ash to ash
+Dust to dust
+Fade to black...
+But the memory remains, yeah
+
+To this faded prima donna yeah, yeah, yeah, hey
+
+
+
+Dance, little tin goddess, dance
+
+Na-na-na...
+
+
+Say yes
+At least say hello
+Say yes
+At least say hello
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sexyback-justin-timberlake
+lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/sexyback.html
 name: SexyBack
 rankings:
 - end_date: '2006-07-28'
@@ -151,4 +152,126 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
 ---
+
+I'm bringing sexy back
+Them other boys don't know how to act
+I think it's special, what's behind your back?
+So turn around and I'll pick up the slack.
+
+Take it to the bridge
+
+Dirty babe
+You see these shackles
+Baby I'm your slave
+I'll let you whip me if I misbehave
+It's just that no one makes me feel this way
+
+Take it to the chorus
+
+Come here girl
+Go ahead, be gone with it
+Come to the back
+Go ahead, be gone with it
+VIP
+Go ahead, be gone with it
+Drinks on me
+Go ahead, be gone with it
+Let me see what you're twerking with
+Go ahead, be gone with it
+Look at those hips
+Go ahead, be gone with it
+You make me smile
+Go ahead, be gone with it
+Go ahead child
+Go ahead, be gone with it
+And get your sexy on
+Go ahead, be gone with it
+
+
+Get your sexy on
+Go ahead, be gone with it
+
+Get your sexy on
+
+I'm bringing sexy back
+Them other fuckers don't know how to act
+Come let me make up for the things you lack
+'Cause you're burning up I gotta get it fast
+
+Take it to the bridge
+
+Dirty babe
+You see these shackles
+Baby I'm your slave
+I'll let you whip me if I misbehave
+It's just that no one makes me feel this way
+
+Take it to the chorus!
+
+Come here girl
+Go ahead, be gone with it
+Come to the back
+Go ahead, be gone with it
+VIP
+Go ahead, be gone with it
+Drinks on me
+Go ahead, be gone with it
+Let me see what you're twerking with
+Go ahead, be gone with it
+Look at those hips
+Go ahead, be gone with it
+You make me smile
+Go ahead, be gone with it
+Go ahead child
+Go ahead, be gone with it
+And get your sexy on
+Go ahead, be gone with it
+
+
+Get your sexy on
+Go ahead, be gone with it
+
+Get your sexy on
+
+You ready?
+You ready?
+You ready? Yes!
+
+I'm bringing sexy back
+You motherfuckers watch how I attack
+If that's your girl you better watch your back
+'Cause she'll burn it up for me and that's a fact
+
+Take it to the chorus
+
+Come here girl
+Go ahead, be gone with it
+Come to the back
+Go ahead, be gone with it
+VIP
+Go ahead, be gone with it
+Drinks on me
+Go ahead, be gone with it
+Let me see what you're twerking with
+Go ahead, be gone with it
+Look at those hips
+Go ahead, be gone with it
+You make me smile
+Go ahead, be gone with it
+Go ahead child
+Go ahead, be gone with it
+And get your sexy on
+Go ahead, be gone with it
+
+
+Get your sexy on
+Go ahead, be gone with it
+
+Get your sexy on
+
+You ready? Yes!
+You ready? Yes!
+You ready? Yes!
+
+
 

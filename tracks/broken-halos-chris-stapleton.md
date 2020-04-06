@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-halos-chris-stapleton
+lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/brokenhalos.html
 name: Broken Halos
 rankings:
 - end_date: '2017-05-12'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
 ---
+
+Seen my share of broken halos
+Folded wings that used to fly
+They've all gone wherever they go
+Broken halos that used to shine
+
+Angels come down from the heavens
+Just to help us on our way
+Come to teach us, then they leave us
+And they find some other soul to save
+
+Seen my share of broken halos
+Folded wings that used to fly
+They've all gone wherever they go
+Broken halos that used to shine
+Broken halos that used to shine
+
+Don't go looking for the reasons
+Don't go asking Jesus why
+We're not meant to know the answers
+They belong to the by and by
+They belong to the by and by
+
+Seen my share of broken halos
+Folded wings that used to fly
+They've all gone wherever they go
+Broken halos that used to shine
+Broken halos that used to shine
+Broken halos that used to shine
+Broken halos that used to shine
+
+
 

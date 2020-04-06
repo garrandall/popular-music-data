@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-me-to-the-moon-bobby-womack
+lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/flymetothemoon.html
 name: Fly Me To The Moon
 rankings:
 - end_date: '1968-08-23'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+
+Fly me to the moon
+Let me play among the stars
+Let me see what spring is like
+On a-Jupiter and Mars
+In other words, hold my hand
+In other words, baby, kiss me
+
+Fill my heart with song
+And let me sing for ever more
+You are all I long for
+All I worship and adore
+In other words, please be true
+In other words, I love you
+
+Fill my heart with song
+Let me sing for ever more
+You are all I long for
+All I worship and adore
+In other words, please be true
+In other words, in other words
+I love you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: raining-in-my-heart-leo-sayer
+lyrics_url: https://www.azlyrics.com/lyrics/leosayer/raininginmyheart.html
 name: Raining In My Heart
 rankings:
 - end_date: '1978-10-06'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
+
+The sun is out, the sky is blue
+There's not a cloud to spoil the view
+But it's raining
+Raining in my heart
+The weatherman says fine today
+He doesn't know that you've gone away
+And it's raining
+Raining in my heart
+Oh misery, Oh misery
+Oh misery
+What's gonna become of me, oh
+I tell myself, my blues won't show but I know
+That soon all my tears will flow
+Come a raining down, raining in my heart
+
+
+
+Oh misery, Oh misery
+Oh misery
+What's gonna become of me, oh
+The sun is out, the sky is blue
+There's not a cloud to spoil the view
+But it's raining, oh it's raining in my heart
+
+
+
+
 

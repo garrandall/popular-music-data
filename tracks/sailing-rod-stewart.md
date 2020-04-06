@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sailing-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/sailing.html
 name: Sailing
 rankings:
 - end_date: '1975-10-24'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
+
+I am sailing
+I am sailing
+Home again
+'Cross the sea
+I am sailing
+Stormy waters
+To be near you
+To be free
+
+I am flying
+I am flying
+Like a bird
+'Cross the sky
+I am flying
+Passing high clouds
+To be with you
+To be free
+
+Can you hear me, can you hear me
+Through the dark night, far away
+I am dying, forever crying
+To be with you, who can say
+
+Can you hear me, can you hear me
+Through the dark night far away
+I am dying, forever crying
+To be with you, who can say
+
+We are sailing, we are sailing
+Home again
+'Cross the sea
+We are sailing
+Stormy waters
+To be near you
+To be free
+
+Oh Lord, to be near you, to be free
+Oh Lord, to be near you, to be free
+Oh Lord, to be near you, to be free
+Oh Lord
+
+
 

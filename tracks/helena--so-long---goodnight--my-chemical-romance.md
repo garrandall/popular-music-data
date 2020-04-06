@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: helena--so-long---goodnight--my-chemical-romance
+lyrics_url: https://www.azlyrics.com/lyrics/mychemicalromance/helena.html
 name: Helena (So Long & Goodnight)
 rankings:
 - end_date: '2005-07-15'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
 ---
+
+Long ago
+Just like the hearse, you die to get in again
+We are so far from you
+
+Burning on just like a match you strike to incinerate
+The lives of everyone you know
+And what's the worst you take (worst you take)
+From every heart you break (heart you break)
+And like the blade you stain (blade you stain)
+Well, I've been holding on tonight
+
+What's the worst that I can say?
+Things are better if I stay
+So long and goodnight
+So long not goodnight
+
+Came a time
+When every star fall brought you to tears again
+We are the very hurt you sold
+
+And what's the worst you take (worst you take)
+From every heart you break (heart you break)
+And like the blade you stain (blade you stain)
+Well, I've been holding on tonight
+
+What's the worst that I can say?
+Things are better if I stay
+So long and goodnight
+So long not goodnight
+
+Well if you carry on this way
+Things are better if I stay
+So long and goodnight
+So long not goodnight
+
+Can you hear me?
+Are you near me?
+Can we pretend
+To leave and then
+We'll meet again
+When both our cars collide
+
+What's the worst that I can say?
+Things are better if I stay
+So long and goodnight
+So long not goodnight
+
+Well if you carry on this way
+Things are better if I stay
+So long and goodnight
+So long not goodnight
+
+
 

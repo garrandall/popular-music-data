@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-surrender-bread
+lyrics_url: https://www.azlyrics.com/lyrics/bread/sweetsurrender.html
 name: Sweet Surrender
 rankings:
 - end_date: '1972-11-17'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+
+Baby I'm through runnin' it's true
+I'd be a fool to try to escape you
+Maybe I'm beat but oh what a sweet surrender
+
+You keep your rights, I'll take your nights
+No one can lose when we turn the lights out
+Tastin' defeat, lovin' that sweet surrender
+
+I'm givin' up myself to you but I didn't really lose at all
+I gained the only love I've known and it never hurt me to fall
+
+Now that it's done, so glad you won
+I know our lives have only begun now
+No more retreat, only my sweet surrender
+
+Umm Babe, I may be beat, but oh what a sweet surrender
+surrender...
+And you, sweet thing in my life
+I surrender to you
+
+
 

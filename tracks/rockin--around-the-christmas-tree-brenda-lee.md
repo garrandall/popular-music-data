@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--around-the-christmas-tree-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/jessiejames/rockinaroundthechristmastree.html
 name: Rockin' Around The Christmas Tree
 rankings:
 - end_date: '1960-12-18'
@@ -135,4 +136,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+
+Rockin' around the Christmas tree
+At the Christmas party hop
+Mistletoe hung where you can see
+Every couple tries to stop
+
+Rockin' around the Christmas tree
+Let the Christmas spirit ring
+Later we'll have some pumpkin pie
+And we'll do some carolling
+
+You will get a sentimental feeling
+When you hear
+Voices singing let's be jolly
+Deck the halls with boughs of holly
+
+Rockin' around the Christmas tree
+Have a happy holiday
+Everyone's dancing merrily
+In the new old fashioned way
+
+You will get a sentimental feeling
+When you hear
+Voices singing let's be jolly
+Deck the halls with boughs of holly
+
+Rockin' around the Christmas tree
+Have a happy holiday
+Everyone's dancing merrily
+In the new old fashioned way
+
+
 

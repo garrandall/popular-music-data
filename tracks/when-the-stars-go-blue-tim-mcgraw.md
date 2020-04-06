@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-stars-go-blue-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/whenthestarsgoblue.html
 name: When The Stars Go Blue
 rankings:
 - end_date: '2006-04-21'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
 ---
+
+Dancin' when the stars go blue
+Dancin' when the evening fell
+Dancin' in your wooden shoes
+In a wedding gown
+
+Dancin' out on 7th street
+Dancin' through the underground
+Dancin' with the marionette
+Are you happy now?
+
+Where do you go when you're lonely
+Where do you go when you're blue
+Where do you go when you're lonely
+I'll follow you
+When the stars go blue
+stars go blue
+stars go blue
+stars go blue
+
+Laughin' with your pretty mouth
+Laughin' with your broken eyes
+Laughin' with your lover's tongue
+In a lullaby
+
+Where do you go when you're lonely
+Where do you go when you're blue
+Where do you go when you're lonely
+I'll follow you
+When the stars go blue
+stars go blue
+stars go blue
+stars go blue
+
+
 

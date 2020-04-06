@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooo-baby-baby-the-miracles
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/ooobabybaby.html
 name: Ooo Baby Baby
 rankings:
 - end_date: '1965-04-02'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
 ---
+
+I did you wrong
+My heart went out to play
+And in the game I lost you
+What a price to pay ooh
+I'm cryin'
+
+Ooh ooh baby baby
+
+Ooh ooh baby baby
+
+Mistakes, I know I've
+Made a few, but I'm
+Only human, you've made
+Mistakes too I'm cryin'
+
+Ooh ooh baby baby
+Ooh ooh baby baby
+
+Oooooh baby baby
+Ooh ooh ooh ooh
+
+I'm just about at the
+End of my rope
+But I can't stop cryin
+I can't give up hope
+Because I feel someday
+I'll hold you near
+Whisper I still Love you
+Until that day is here oooooh
+I'm cryin'
+
+Ooh ooh baby baby
+Ooh ooh baby baby
+
+Oooooh baby baby
+Ooh ooh ooh ooh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-fool-s-advice-nat-king-cole
+lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/takeafoolsadvice.html
 name: Take A Fool's Advice
 rankings:
 - end_date: '1961-07-02'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+
+If you love her
+And she makes one mistake,
+Please don't leave her
+It would make your heart ache.
+Take a fool's advice,
+Don't pay the price I had to pay.
+
+If you need her
+But you're letting her go,
+Please don't do it
+You'll be sorry, I know.
+Take a fool's advice, 
+Don't pay the price I had to pay.
+
+Truly,
+She's caused you to doubt her,
+Truly,
+She's broken the rules.
+But life's not worth living without her,
+So listen to the wisdom of a fool.
+
+Think it over
+And forgive her this time,
+I was foolish
+I lost the love that was mine.
+Take a fool's advice,
+Don't pay the price I had to pay.
+
+Take a fool's advice,
+Don't pay the price I had to pay.
+
+
 

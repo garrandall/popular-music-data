@@ -5,6 +5,7 @@ features:
 - Amy Lee
 genres: []
 key: broken-seether-amy-lee
+lyrics_url: https://www.azlyrics.com/lyrics/seether/brokenfeatamylee.html
 name: Broken
 rankings:
 - end_date: '2004-09-10'
@@ -92,4 +93,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
 ---
+
+I wanted you to know that I love the way you laugh
+I wanna hold you high and steal your pain away
+I keep your photograph and I know it serves me well
+I wanna hold you high and steal your pain
+
+'Cause I'm broken when I'm lonesome
+And I don't feel right when you're gone away
+
+You've gone away, you don't feel me here anymore
+
+The worst is over now and we can breathe again
+I wanna hold you high, you steal my pain away
+There's so much left to learn, and no one left to fight
+I wanna hold you high and steal your pain
+
+'Cause I'm broken when I'm open
+And I don't feel like I am strong enough
+'Cause I'm broken when I'm lonesome
+And I don't feel right when you're gone away
+
+'Cause I'm broken when I'm open
+And I don't feel like I am strong enough
+'Cause I'm broken when I'm lonesome
+And I don't feel right when you're gone away
+
+'Cause I'm broken when I'm lonesome
+And I don't feel right when you're gone away
+
+You've gone away
+You don't feel me here anymore
+
+
 

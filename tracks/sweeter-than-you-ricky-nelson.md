@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweeter-than-you-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/sweeterthanyou.html
 name: Sweeter Than You
 rankings:
 - end_date: '1959-07-12'
@@ -55,4 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
 ---
+
+I could never be loved by anyone sweeter than you
+And I could never belong to anyone sweeter than you
+With you to stand beside me I'll never be alone
+And what more could I long for than to have you for my own
+
+My only desire is loving you eternally
+For no, no other love could ever mean so much to me
+So if you say you love me forever I'll be true
+And what more could I long for than to live my life {with you}
+
+I could never be loved by anyone sweeter than you
+And I could never belong to anyone {sweeter than you}
+
+
 

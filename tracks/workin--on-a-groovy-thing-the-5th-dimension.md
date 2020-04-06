@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: workin--on-a-groovy-thing-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/workinonagroovything.html
 name: Workin' On A Groovy Thing
 rankings:
 - end_date: '1969-07-25'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
 ---
+
+When I saw you I knew that
+I was gonna love you
+And everyday I thought
+Of how I'm gonna love you
+
+Now you're here next to me
+And ecstasy is a reality
+I feel good when you are near
+I'm alive 'cause you are here
+
+Workin' on a groovy thing, baby
+Workin' on a groovy thing
+Workin' on a groovy thing, baby
+Let's not rush in, we'll take it slow
+
+Before I met you I knew my lips
+Were only wasted
+'Cause you have got the sweetest kiss
+I ever tasted
+
+Music moves us along
+Your arms around me are snug and warm
+Happiness is in my soul
+I'm about to lose all control
+
+Workin' on a groovy thing, baby
+Workin' on a groovy thing
+Workin' on a groovy thing, baby
+Let's not rush in, we'll take it slow
+
+Now you're here next to me
+And ecstasy is a reality
+I feel good when you are near
+I'm alive 'cause you are here
+
+And we're workin' on a groovy thing, baby
+Workin' on a groovy thing
+Workin' on a groovy thing, baby
+Let's not rush in, we'll take it slow
+
+Workin' on a groovy thing, baby
+Workin' on a groovy thing
+
+
 

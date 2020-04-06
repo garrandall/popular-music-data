@@ -5,6 +5,7 @@ features:
 - Frankie J
 genres: []
 key: suga-suga-baby-bash-frankie-j
+lyrics_url: https://www.azlyrics.com/lyrics/babybash/sugasuga.html
 name: Suga Suga
 rankings:
 - end_date: '2003-08-29'
@@ -140,4 +141,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
 ---
+
+So tight, so fly
+You got me lifted, you got me lifted
+
+
+You got me lifted shifted higher than a ceiling
+And ooh wee it's the ultimate feeling
+You got me lifted feeling so gifted
+Sugar how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+
+
+You know it's leather when we ride
+Wood grain and raw hide
+Doing what we do, watching screens getting high
+Girl you keep it so fly with your sweet honey buns
+You was there when the money gone
+You'll be there when the money comes
+Off top I can't lie I love to get blowed
+You my little sugar, I'm your little chulo
+And every time we kick it it's off to the groovy
+Treat you like my sticky ickey or my sweet oowy goowy (fa real though)
+
+
+You got me lifted shifted higher than a ceiling
+And ooh wee it's the ultimate feeling
+You got me lifted feeling so gifted
+Sugar how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+
+
+Now I ain't worried about a thang 'cause I just hit me a lick
+I got a fat sack and a superfly chick
+and I--and I ain't acting you can say to a player
+'Cause doo-wop, she fly like the planes in the air
+That's right she full grown setting the wrong tone
+I'm digging the energy and I'm loving her o-zone
+So fly like a dove fly like a raven
+Quick to politic with some fly conversation
+In a natural mood then I'm a natural dude
+And we some natural fools blowing out by the pool
+She like my sexy-cool mama with blades on the Bravada
+Rockin' Dolce Gabbana hydro and a Cubana
+
+
+You got me lifted shifted higher than a ceiling
+And ooh wee it's the ultimate feeling
+You got me lifted feeling so gifted
+Sugar how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+
+You know it's leather when we ride
+Wood grain and raw hide
+Doing what we do, watching screens getting high
+Girl you keep it so fly with you sweet honey buns
+You was there when the money gone
+You'll be there when the money comes
+
+You know it's leather when we ride
+Wood grain and raw hide
+Doing what we do, watching screens getting high
+Girl you keep it so fly with you sweet honey buns
+You was there when the money gone
+You'll be there when the money comes (fa real though)
+
+
+You got me lifted shifted higher than a ceiling
+And ooh wee it's the ultimate feeling
+You got me lifted feeling so gifted
+Sugar how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+Suga suga how you get so fly?
+
+So high like I'm a star
+So high like I'm a star
+So high like I'm a star
+So high like I'm a star
+
+Azucar
+
+
 

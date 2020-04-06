@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shoeshine-boy-eddie-kendricks
+lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/shoeshineboy.html
 name: Shoeshine Boy
 rankings:
 - end_date: '1975-02-21'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
 ---
+
+Shoeshine boy how you do your work so well
+Shoeshine boy tryin' to make a livin', you go somewhere
+Shoeshine boy where are you gonna be ten years from now
+Just move, just keep workin' shoeshine boy
+
+I wanna know are you gonna be the richest man around
+You've been a workin' so hard
+So many things in life to learn
+Shoeshine boy, what will you discover
+
+Though it's a long way up, you'll reach the top
+Now when you'll finally get back
+Don't forget from where you came shoeshine boy
+Workin' so hard in the noon day sun
+Just, just keep workin' shoeshine boy
+
+Look at ya now, gettin' it together
+Teasing the guys and havin' lots of fun
+Shoeshine boy, yeah, don't you know that you're a star
+Yeah, you're a star shoeshine boy
+
+Just the way, just the way that you are
+You've been a workin' so hard
+So many things in life to learn, so much to learn
+Shoeshine boy, what will you discover
+
+Yeah, shoeshine boy
+Shoeshine boy
+You've been a workin' so hard
+Shoeshine boy
+Don't you know that you're a star
+That's the way that you are
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-little-drummer-boy-johnny-cash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/thelittledrummerboy.html
 name: The Little Drummer Boy
 rankings:
 - end_date: '1959-12-27'
@@ -19,4 +20,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
 ---
+
+Come they told me
+Our newborn King to see
+Our finest gifts we bring
+To lay before the King
+
+This is to honor Him
+When we come
+
+Baby Jesus, I am a poor boy too
+I have no gift to bring
+That's fit to give a King
+
+But may I play for You
+On my drum
+
+The Mother Mary nodded
+The ox and lamb kept time
+I played my drum for Him
+I played my best for Him
+
+Then He smiled at me
+Me and my drum
+
+
 

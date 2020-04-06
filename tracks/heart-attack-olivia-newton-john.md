@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-attack-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/heartattack.html
 name: Heart Attack
 rankings:
 - end_date: '1982-09-10'
@@ -91,4 +92,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
+
+(S. Kipner/P. Bliss)
+My mouth is dry, my legs are weak
+I'm thinking this cause I can't speak
+I'm looking at you, you're looking at me
+You must think that I'm just crazy
+
+If you only knew what you're putting me through
+It feels like a heart attack
+You're giving me a heart attack
+Heart attack
+You're giving me a heart attack
+Must have died and gone to heaven
+What a way to go
+
+I can't catch my breath
+You must be a dream
+But you're the cutest thing I've ever seen
+I'm way past the point of recovery
+You're gonna be the death of me
+
+If you only knew what you're putting me through
+It feels like a heart attack
+You're giving me a heart attack
+Heart attack
+You're giving me a heart attack
+Must have died and gone to heaven
+What a way to go
+A heart attack
+You're giving me a heart attack
+Heart attack
+You're giving me a heart attack
+You're giving me a heart attack
+You're giving me a heart attack
+
+
 

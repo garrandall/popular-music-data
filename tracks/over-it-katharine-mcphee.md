@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-it-katharine-mcphee
+lyrics_url: https://www.azlyrics.com/lyrics/katharinemcphee/overit.html
 name: Over It
 rankings:
 - end_date: '2007-02-23'
@@ -71,4 +72,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
 ---
+
+I'm over your lies,
+and I'm over your games.
+I'm over you asking me,
+when you know I'm not okay.
+You call me at night,
+and I pick up the phone.
+And though you've been telling me,
+I know you're not alone.
+oh..
+
+That's why
+(your eyes)
+I'm over it
+(your smile)
+I'm over it
+(realize)
+I'm over it
+I'm over it
+I'm over..
+
+Wanting you,
+to be wanting me.
+No that ain't no way to be.
+How I feel, read my lips,
+because I'm so over..
+Moving on, it's my time,
+you never were a friend of mine.
+Hurt at first, a little bit,
+but now I'm so over.
+I'm so over it..
+
+I'm over your hands,
+and I'm over your mouth.
+Trying to drag me down,
+and fill me with self-doubt.
+oh..
+
+That's why,
+(your words)
+I'm over it
+(so sure)
+I'm over it
+(I'm not your girl)
+I'm over it
+I'm over it
+I'm over...
+
+Wanting you,
+to be wanting me.
+No that ain't no way to be.
+How I feel, read my lips,
+because I'm so over..
+Moving on, it's my time,
+you never were a friend of mine.
+Hurt at first, a little bit,
+but now I'm so over.
+I'm so over it..
+
+Don't call,
+don't come by,
+ain't no use,
+don't ask me why,
+you'll never change,
+there'll be no more crying in the rain.
+
+Wanting you,
+to be wanting me.
+No that ain't no way to be.
+How I feel, read my lips,
+because I'm so over..
+Moving on, it's my time,
+you never were a friend of mine.
+Hurt at first, a little bit,
+but now I'm so over.
+I'm so over it..
+
+I'm so over it....
+I'm over it....
+
+Wanting you,
+to be wanting me.
+No that ain't no way to be.
+How I feel, read my lips,
+because I'm so over..
+Moving on, it's my time,
+you never were a friend of mine.
+Hurt at first, a little bit,
+but now I'm so over.
+I'm so over it..
+
+
 

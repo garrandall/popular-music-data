@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-and-over-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/cryingoveryou.html
 name: Over And Over
 rankings:
 - end_date: '1965-11-19'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
 ---
+
+If you don't love me
+Don't cry in my arms tonight
+I'll be cryin' over you
+
+Just say it's over
+I won't let you know tonight
+I'll be cryin' over you
+
+I gave myself to you
+Like a fool with open arms
+Never thought you'd ever go
+And hurt me, hurt me
+
+I know it's over
+But you'll never know tonight
+I'll be cryin' over you
+
+I gave myself to you
+Like a fool with open arms
+Never thought you'd ever go
+And hurt me, hurt me
+
+I know it's over
+But you'll never know tonight
+I'll be cryin' over you
+
+
 

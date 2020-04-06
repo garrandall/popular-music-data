@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-on-my-mind-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/xscape/loveonmymind.html
 name: Love On My Mind
 rankings:
 - end_date: '1994-04-29'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
 ---
+
+
+Boy, I can't wait to get you alone,
+Inside my house.
+'Cause baby it's you and only you,
+That I keep on thinking about.
+I know that you want it,
+How good my love could be.
+Tonight you will get the answer,
+I'll satisfy your curiosity.
+
+
+
+Take me away in ecstasy,
+I want to know how it feels to be loved.
+Boy take your time because I have all night,
+I'm gonna show you what I been thinking of
+
+
+I've got love on my mind,
+I knew it's the way to make things right,
+I think it's about that time.
+I got love on my mind,
+I'm in the mood to be moved,
+And do all the things you want me to.
+
+
+I've been watching you,
+And thinking to myself.
+You're looking so so def to me,
+And I'm feeling so sexy.
+You know I never felt this way before,
+I really can't help myself,
+'Cause I'm thinking of nothing else.
+
+
+
+
 

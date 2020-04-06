@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tusk-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/tusk.html
 name: TUSK
 rankings:
 - end_date: '1979-10-12'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+
+Why don't you ask him if he's going to stay?
+Why don't you ask him if he's going away?
+Why don't you tell me what's going on?
+Why don't you tell me who's on the phone?
+Why don't you ask him what's going on?
+Why don't you ask him who's the latest on his throne?
+
+Don't say that you love me!
+Just tell me that you want me!
+
+Tusk! Tusk! Tusk! Tusk!
+Tusk! Tusk! Tusk! Tusk!
+Tusk! Tusk! Tusk! Tusk!
+Tusk! Tusk! Tusk! Tusk!
+Tusk!
+
+
 

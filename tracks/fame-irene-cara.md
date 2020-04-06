@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fame-irene-cara
+lyrics_url: https://www.azlyrics.com/lyrics/irenecara/fame.html
 name: Fame
 rankings:
 - end_date: '1980-06-20'
@@ -111,4 +112,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
 ---
+
+Baby, look at me
+And tell me what do you see?
+You ain't seen the best of me yet
+Give me time, I'll make you forget
+The rest
+
+I've got more in me,
+And you can set it free
+I can catch the moon in my hand
+Don't you know who I am?
+Remember my name
+
+Fame
+I'm gonna live forever
+I'm gonna learn how to fly high
+I feel it coming together
+People will see me and cry
+
+Fame
+I'm gonna make it to heaven
+Light up the sky like a flame
+Fame
+I'm gonna live forever
+Baby, remember my name
+
+Remember, remember, remember, remember, remember, remember, remember, remember
+
+Baby, hold me tight,
+'Cause you can make it right
+You can shoot me straight to the top
+Give me love and take all I got
+To give
+
+Baby, I'll be tough,
+Too much is not enough,
+No
+I can ride your heart 'til it breaks
+Ooh, I got what it takes
+
+Fame
+I'm gonna live forever
+I'm gonna learn how to fly high
+I feel it coming together
+People will see me and cry
+
+Fame
+I'm gonna make it to heaven
+Light up the sky like a flame
+Fame
+I'm gonna live forever
+Baby, remember my...
+
+Remember, remember, remember, remember, remember, remember, remember, remember
+
+Fame
+I'm gonna live forever
+I'm gonna learn how to fly high
+I feel it coming together
+People will see me and cry
+
+Fame
+I'm gonna make it to heaven
+Light up the sky like a flame
+Fame
+I'm gonna live forever
+Baby, remember my name
+
+Remember, remember, remember, remember, remember, remember, remember, remember
+
+Remember my name
+
+Fame
+I'm gonna live forever
+Fame
+I'm gonna learn how to fly high
+I feel it coming together
+Fame
+People will see me and cry
+
+Fame
+I'm gonna make it to heaven
+Fame
+Light up the sky like a flame
+Fame
+I'm gonna live forever
+Fame
+Baby, remember my name
+
+Fame
+I'm gonna live forever
+Fame
+I'm gonna learn how to fly high
+I feel it coming together
+Fame
+People will see me and cry
+Fame
+I'm gonna make it to heaven
+
+
 

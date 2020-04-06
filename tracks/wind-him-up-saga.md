@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wind-him-up-saga
+lyrics_url: https://www.azlyrics.com/lyrics/saga/windhimup.html
 name: Wind Him Up
 rankings:
 - end_date: '1983-04-08'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
 ---
+
+Aldo's standing at his table
+He's wondering if he's able
+To pick the number right this time
+He watches as the wheel stops spinning
+Sees the number that is winning
+As he reaches for his glass of wine
+
+Once he starts it's hard to stop
+He's keeping up a pace like a tight wound clock
+Be sure you don't step in his way
+He'll keep those numbers rolling
+This may be his last day
+
+As all the bets are taken
+Aldo lights a smoke, he's shakin'
+From carnation right to the ground
+He knows tonight holds one last chance
+He gives the wheel a final glance
+Slippery fingers drop the money down
+
+Once he starts it's hard to stop
+He's keeping up a pace like a tight wound clock
+And as he leaves the table (no luck today?)
+You can rest assured
+He's coming back to try again
+
+Wind him up, he can't stop
+He's wound up tight just like the clock
+That's winding its second hand down
+Wind him up, he can't stop
+He keeps on going 'round the clock
+He's winding his second hand down
+
+Wind him up, he won't stop
+He's wound up tight just like the clock
+That's winding its second hand down
+Wind him up, he won't stop
+He keeps on going 'round the clock
+That's winding its second hand down
+
+Wind him up, he can't stop
+He's wound up tight just like the clock
+That's winding its second hand down
+Wind him up, he can't stop
+He keeps on going 'round the clock
+He's winding his second hand
+
+
 

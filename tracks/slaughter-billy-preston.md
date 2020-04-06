@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slaughter-billy-preston
+lyrics_url: https://www.azlyrics.com/lyrics/billypreston/slaughter.html
 name: Slaughter
 rankings:
 - end_date: '1972-09-15'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
 ---
+
+Slaughter's going to blow your mind
+Slaughter does not waste his time
+My advice to you is this
+If you shoot at him you better not miss
+
+Slaughter's big, bad, black and bold
+The brother has a lot of soul
+Don't you make him mean and cross
+'Cause he'll show you who's the boss
+Slaughter
+
+Slaughter come to blow your mind
+Slaughter does not waste his time
+My advice to you is this
+If you shoot at him, brother
+You better not miss
+
+Slaughter is big, bad, black and bold
+The brother has a whole lot of soul
+Don't you make him mean and cross
+'Cause he will show you who's the boss
+Slaughter
+
+Yeah, Slaughter
+Yeah, Slaughter
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: grizzly-bear-the-youngbloods
+lyrics_url: https://www.azlyrics.com/lyrics/youngbloods/grizzlybear.html
 name: Grizzly Bear
 rankings:
 - end_date: '1966-12-23'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+
+Whoa, when I woke up this morning
+She was gone, solid gone
+When I woke up this morning
+She was gone, solid gone
+
+I used to love to watch her dance
+That grizzly bear
+I guess she's gone to Frisco, whoa
+To dance out there
+
+'Cause when I woke up this morning
+Yeah, she was gone, solid gone
+
+I used to love to watch her dance
+That grizzly bear
+I guess she's gone to Frisco, whoa
+To dance out there
+
+'Cause when I woke up this morning
+Yeah, she was gone, solid gone
+
+She did not even tell me (did not even tell me)
+The reason why she was gone
+She did not even tell me (did not even tell me)
+The reason why she was gone
+
+I used to love to watch her dance
+That grizzly bear
+I guess she's gone to Frisco, whoa
+To dance out there
+
+'Cause whoa, when I woke up this morning
+Yeah, she was gone, solid gone
+
+
 

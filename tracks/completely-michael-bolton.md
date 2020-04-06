@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: completely-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/completely.html
 name: Completely
 rankings:
 - end_date: '1994-03-25'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
 ---
+
+Completely, wanna give my love, completely
+I'd rather be alone than be in love just half the way
+I want to find someone that I can trust, completely
+Wanna give my heart, completely
+To someone who'll completely give their heart to only me
+And when I find that one
+That's when I'll fall in love
+
+
+Completely
+Not half but whole
+With heart and soul
+Completely, not in between
+But everything
+Completely
+That's the way it's got to be
+The way I want someone to fall in love with me
+
+Forever, wanna feel the word, forever
+And know there'll be somebody there forever by my side
+And when that feeling comes
+That's when I'll give my love
+
+
+
+It's all or nothing at all for this heart of mine
+And I won't give up this heart until the day I find
+Someone who can be
+Someone who loves me
+
+
+
+
 

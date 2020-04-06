@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-shall-be-released-the-box-tops
+lyrics_url: https://www.azlyrics.com/lyrics/boxtops/ishallbereleased.html
 name: I Shall Be Released
 rankings:
 - end_date: '1969-05-02'
@@ -27,4 +28,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
+
+They say everything can be replaced
+This every distance is not near
+So I remember every face
+Of every man who put me here
+
+I see my light come shining
+From the west down to the east
+Any day now, any day now
+I shall be released
+
+They say every man needs protection
+They say every man must fall
+Yet I swear I see my reflection
+Some place so high above this wall
+
+I see my light come shining
+From the west down to the east
+Any day now, any day now
+I shall be released
+
+Standing next to me in this lonely crowd
+Is a man who swears he's not to blame
+All day long I hear him shout so loud
+Crying out that he was framed
+
+I see my light come shining
+From the west down to the east
+Any day now, any day now
+I shall be released
+
+I see my light come shining
+From the west down to the east
+Any day now, any day now
+I shall be released
+
+Any day now, any day now
+I shall be released
+
+
 

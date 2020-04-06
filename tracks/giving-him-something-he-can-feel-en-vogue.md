@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: giving-him-something-he-can-feel-en-vogue
+lyrics_url: https://www.azlyrics.com/lyrics/envogue/givinghimsomethinghecanfeel.html
 name: Giving Him Something He Can Feel
 rankings:
 - end_date: '1992-06-12'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
 ---
+
+(shoo)
+
+
+Many say
+That I?m too young
+To let you know just where I?m coming from.
+But you will see
+It's just a matter of time
+My love surely make you mine
+
+
+Well, i?m
+Livin? in a world of ghetto life
+Everyone is so uptight
+Nothin?s wrong, it?s alright, my man
+I like the way we carry on
+His love will send me on and on
+With my man
+People out there can understand
+
+
+I'm givin him somethin he can feel
+To let him know this love is real
+This love is real
+
+
+So much joy for us it seems
+So much hope for material things
+Are they only in my dreams? 
+(hey, oh yeah)
+And that?s exactly why I?m singing this song to you
+To let you know that real dreams do come true.
+You tell me ?what does it mean?.
+
+
+
+
+
 

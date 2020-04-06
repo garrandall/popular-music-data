@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shut-up-and-drive-rihanna
+lyrics_url: https://www.azlyrics.com/lyrics/rihanna/shutupanddrive.html
 name: Shut Up And Drive
 rankings:
 - end_date: '2007-06-29'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
 ---
+
+I've been looking for a driver who is qualified
+So if you think that you're the one step into my ride
+I'm a fine-tuned supersonic speed machine
+With a sunroof top and a gangster lean
+
+So if you feel me let me know, know, know
+Come on now what you waiting for, for, for
+My engine's ready to explode, explode, explode
+So start me up and watch me go, go, go, go
+
+Get you where you wanna go if you know what I mean
+Got a ride that's smoother than a limousine
+Can you handle the curves? Can you run all the lights?
+If you can baby boy then we can go all night
+
+'Cause I'm zero to 60 in three point five
+Baby, you got the keys
+
+Now shut up and drive
+(drive, drive, drive)
+
+Shut up and drive
+(drive, drive, drive)
+
+I got class like a '57 Cadillac
+Got overdrive with a whole lot of boom in the back
+You look like you can handle what's under my hood
+You keep saying that you will boy I wish you would
+
+So if you feel me let me know, know, know
+Come on now what you waiting for, for, for
+My engine's ready to explode, explode, explode
+So start me up and watch me go, go, go, go
+
+Get you where you wanna go if you know what I mean
+Got a ride that's smoother than a limousine
+Can you handle the curves? Can you run all the lights?
+If you can baby boy then we can go all night
+
+'Cause I'm zero to 60 in three point five
+Baby, you got the keys
+
+Now shut up and drive
+(drive, drive, drive)
+
+Shut up and drive
+(drive, drive, drive)
+
+'Cause your Maybach ain't got what I got (get it get it)
+Don't stop it's a sure shot
+And your Ferrari huh boy I'm sorry
+I ain't even worried
+So step inside and ride
+(ride, ride, ride, ride, ride...)
+
+So if you feel me let me know, know, know
+Come on now what you waiting for, for, for
+My engine's ready to explode, explode, explode
+So start me up and watch me go, go, go, go
+
+Get you where you wanna go if you know what I mean
+Got a ride that's smoother than a limousine
+Can you handle the curves? Can you run all the lights?
+If you can baby boy then we can go all night
+
+'Cause I'm zero to 60 in three point five
+Baby, you got the keys
+
+Now shut up and drive
+(drive, drive, drive)
+
+Shut up and drive
+(drive, drive, drive)
+
+Now shut up and drive
+(drive, drive, drive)
+
+Shut up and drive
+(drive, drive, drive)
+
+
 

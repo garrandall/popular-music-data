@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loco-david-lee-murphy
+lyrics_url: https://www.azlyrics.com/lyrics/davidleemurphy/loco.html
 name: Loco
 rankings:
 - end_date: '2004-05-14'
@@ -79,4 +80,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-04'
 ---
+
+Little Hula girls on the shot glass.
+All we need's a little salt and lime.
+We can plug in the hot pepper lights and pretend,
+That we're livin' on Key West time.
+I can run to the store an' get some charcoal,
+Buy a tikki torch an' fire up the grill.
+The whole town wants to know when I'm gonna grow up,
+But you know I never will.
+
+Yeah, I might be a little bit loco, 
+But it keeps me from losin' my mind.
+Oh, but half insane, that's ok, babe,
+A little bit crazy's all right.
+
+There's nothin' wrong with a little excitement;
+No, it makes me forget about work.
+'Cause I live by the rule that everything's cool, 
+Just as long as nobody gets hurt.
+Hey, I feel like I'm on vacation.
+Honey, you say the word and we'll go.
+'Cause you're getting to me in those cut off jeans,
+And that T-shirt from Sloppy Joe's.
+
+Yeah, I might be a little bit loco, 
+But it keeps me from losin' my mind.
+Oh, but half insane, that's ok, babe,
+A little bit crazy's all right.
+
+Yeah, the deep end might be so close,
+Oh, that I'm hangin' on for dear life.
+Yeah, I might be a little bit loco, baby,
+But a little bit crazy's all right.
+That's right.
+
+Yeah, I might be a little bit loco,
+But it keeps me from losin' my mind.
+Oh, but half insane, that's ok, babe,
+A little bit crazy's all right.
+
+Yeah, the deep end might be so close, 
+Oh, that I'm hangin' on for dear life.
+Yeah, I might be a little bit loco, baby, 
+But a little bit crazy's all right.
+
+Yeah, I might be a little bit loco, 
+But it keeps me from losin' my mind.
+Well, I might be a little bit loco, baby,
+But, a little bit crazy's all right.
+You're crazy, baby.
+
+Might be a little bit loco, baby,
+But, a little bit crazy's all right.
+
+
 

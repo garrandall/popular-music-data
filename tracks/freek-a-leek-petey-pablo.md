@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: freek-a-leek-petey-pablo
+lyrics_url: https://www.azlyrics.com/lyrics/peteypablo/freekaleekremix.html
 name: Freek-A-Leek
 rankings:
 - end_date: '2004-01-09'
@@ -163,4 +164,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
 ---
+
+How you like it daddy? 
+Would you do it from the front?
+How you like it daddy? 
+Would you do it from the back?
+How you like it daddy?
+Baby breake it down like that!
+How you like it daddy?
+
+How you like it daddy?
+Would you do it from the front?
+How you like it daddy?
+Can you take it from the back?
+How you like it daddy? 
+Baby breake it down like that!
+How you like it daddy?
+
+
+
+One thats always thinkin of new shit any place any time she wanna do it keep her pumpin that "get krunk fluid" never
+Hesitate shorty get right to it i know that its her when my phone go ring in three in the morning its time to cut!
+Sometimes she like it soft but not as much as she like it when a nigga stright beat it up she dont care where i put it at
+Long as a put it back deep down deep down in that putty cat if you aing never had a freek a leek in yo life i suggest you
+Get you get one cuz aint nothin like a freek a leek
+
+
+FREAK A LEEK!
+How you like it daddy? shameka kisha
+How you like it daddt? Tara 
+FREAK A LEEK shonda
+How you like it daddy? sabrina crystal
+How you like it daddy? Daronda FREAK A LEEK! Theresa
+How you like it daddy? felicia tenisha
+How you like it daddy? shavon Freek a leek monica
+How you like it daddy? monique christina
+How you like it daddy? Yolanda
+
+
+
+Girl i love how you clap dat ass the way ya booty cheeks move around when i tap that ass she twork it so slow she gon
+Stack some cash poppin it quick askin me twista how you rap dat fast? wanna split lik dis cuz it is i from the chi wanna
+Get that booty up in the bed thighs open wide every time she speak she tell me how her throat go deep and how she a freek
+A leek so i kept my eyes on the prize shorty work dat twork dat guh, pump back she me how you cut back guh suck dat luv it
+How you take dat guh show lil jon and petey pab how you shake dat stuff never be trippin she cuttin like it aint nothin an
+Info maniac always got fussin suckin and fuckin she told me next time better be sure i bring the seguls and she gon bring
+Her guh and we can all have a threesome
+
+
+
+
+
+You aint never had a freek like dis dat do all the tricks and could do what she do to a dick take mouthfuls supurb that'll
+Make u sick cant imagine who the fuck would talk wit her all this shit everybody wanna know who the hot chick is i was wit
+In the video wit the blue outfit i dont know what to tell a nigga tryin how to find a bitch i might try to find a ho
+Myself how you love that there? i keep em all to self i dont like to share unless the determine that the into that being
+The man i an imma let them help they self and jus hope that i live to tell it im good for that every now and then its good
+To feflect and thing back to the hot cocks that you done hit or u done licked and that nigga say he aint did it he lying
+Mafuckin son of a bitch! haha!
+
+
+
+
+How you like it daddy?
+Would you do it from the front?
+How you like it daddy?
+Would you do it from the back?
+How you like it daddy?
+Baby break it down like that! 
+How you like it daddy?
+
+How you like it daddy?
+Would you do it from the front?
+How you like it daddy?
+Could you do it from the back?
+How you like it daddy?
+Baby breake it down like that! 
+How you like it daddy?
+
+
 

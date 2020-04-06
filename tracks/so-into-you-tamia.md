@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-into-you-tamia
+lyrics_url: https://www.azlyrics.com/lyrics/tamia/sointoyou.html
 name: So Into You
 rankings:
 - end_date: '1998-07-24'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+
+With every passing moment
+Thoughts of you run through my head
+Every time that I'm near you
+I realize that you're heaven sent
+
+I think you're truly something special
+Just what my dreams are really made of
+Let's stay together you and me boy
+There's no one like you around
+Oh, baby
+
+I really like what you've done to me
+I can't really explain it, I'm so into you
+
+
+It could be the way that you hold me
+It could be the things that you say
+Oh, I'm not too sure what it is boy
+But I know I like feeling this way
+
+I think you're truly something special
+Just what my dreams are really made of
+Let's stay together you and me boy
+There's no one like you around
+Oh, baby
+
+I really like what you've done to me
+I can't really explain it, I'm so into you
+
+
+Oh I really like
+What I feel when I'm with you
+You're a dream come true
+Don't you ever leave my side
+'Cause it feels so right
+
+I really like what you've done to me
+I can't really explain it, I'm so into you
+
+
 

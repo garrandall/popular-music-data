@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunrise-sunburn-sunset-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/sunrisesunburnsunset.html
 name: Sunrise Sunburn Sunset
 rankings:
 - end_date: '2018-07-20'
@@ -71,4 +72,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
 ---
+
+Your daddy had a lake house
+He had me paint it that summer sophomore year
+Said I could stay for free
+A couple buddies, a couple weeks
+You rode in in a little red Honda
+And headed straight for the pier
+Tank top and cut-off jeans
+A little PacSun underneath
+Who knew it was 'bout to be
+
+Sunrise, sunburn, sunset, repeat
+Moonlight, all night, crashing into me
+Nothing will ever be easy as you and me
+Tangled up and nowhere to be
+Just sunrise, sunburn, sunset, repeat
+Sunrise, sunburn, sunset, repeat, ayy
+
+I turned those shutters the color of your eyes
+'Til the day turned into night
+And took turns with a jar
+Turn that boat dock into a bar
+And then we passed the guitar around the fire to each other
+And watched all of our friends pair off with one another
+But we felt like the stars we were under
+And everybody knew that that was our summer
+
+Sunrise, sunburn, sunset, repeat
+Moonlight, all night, crashing into me
+Nothing will ever be easy as you and me
+Tangled up and nowhere to be
+Just sunrise, sunburn, sunset, repeat
+Yeah
+
+Whoa
+We set July on fire
+Whoa
+Yeah, girl, you and I were
+Sunrise, sunburn, sunset, repeat
+
+Sunrise, sunburn, sunset, repeat
+Moonlight, all night, crashing into me
+Nothing will ever be easy as you and me
+Tangled up and nowhere to be
+Just sunrise, sunburn, sunset, repeat
+Sunrise, sunburn, sunset, repeat
+Yeah
+
+Whoa
+We set July on fire
+Whoa
+Yeah, girl, you and I were
+Sunrise, sunburn, sunset, repeat
+Sunrise, sunburn, sunset, repeat
+
+
 

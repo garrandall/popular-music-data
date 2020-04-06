@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peter-pan-kelsea-ballerini
+lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/peterpan.html
 name: Peter Pan
 rankings:
 - end_date: '2016-06-24'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
 ---
+
+The smile, the charm, the words, the spark,
+Everything, you had it
+I guess I had a naive heart,
+'Cause, boy, I let you have it
+
+You said I was your only,
+Never thought you'd leave me lonely
+
+You're just a lost boy
+With your head up in the clouds
+You're just a lost boy
+Never keep your feet on the ground
+
+Always gonna fly away, just because you know you can
+Never gonna learn there's no such place as a Neverland
+You don't understand
+You'll never grow up
+You're never gonna be a man,
+Peter Pan
+
+Deep down, I knew that you were too good to be true
+But every piece and part of me wanted to believe in you
+Now it's "Happily Ever Never"
+I guess now I know better
+
+You're just a lost boy
+With your head up in the clouds
+You're just a lost boy
+Never keep your feet on the ground
+
+Always gonna fly away, just because you know you can
+Never gonna learn there's no such place as a Neverland
+You don't understand
+You'll never grow up
+You're never gonna be a man,
+Peter Pan
+
+You're just a lost boy,
+Yeah, I know who you are
+And you don't know what you lost, boy,
+Too busy chasing stars
+
+And you're always gonna fly away, just because you know you can
+Never gonna learn there's no such place as a Neverland
+You don't understand
+You'll never grow up
+You're never gonna be a man
+
+You're never gonna grow up
+Yeah, you're never gonna be a man,
+Peter Pan
+
+Never gonna be a man
+
+
 

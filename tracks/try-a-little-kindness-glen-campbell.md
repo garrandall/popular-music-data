@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-a-little-kindness-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/tryalittlekindness.html
 name: Try A Little Kindness
 rankings:
 - end_date: '1969-10-17'
@@ -51,4 +52,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
 ---
+
+If you see your brother standing by the road
+With a heavy load from the seeds he sowed
+And if you see your sister falling by the way
+Just stop and say you're goin' the wrong way
+You've got to try a little kindness yes show a little kindness
+Yes shine your light for everyone to see
+And if you'll try a little kindness and you'll overlook the blindness
+Of the narrow minded people on the narrow minded streets
+
+Don't walk around the down and out lend a helping hand instead of doubt
+And the kindness that you show every day will help someone along their way
+You've got to try a little kindness...
+You've got to try a little kindness...
+
+
 

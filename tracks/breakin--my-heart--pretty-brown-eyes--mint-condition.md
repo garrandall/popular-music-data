@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakin--my-heart--pretty-brown-eyes--mint-condition
+lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/breakinmyheartprettybrowneyes.html
 name: Breakin' My Heart (Pretty Brown Eyes)
 rankings:
 - end_date: '1992-01-10'
@@ -103,4 +104,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
 ---
+
+
+Pretty... 
+Brown... 
+Eyes...
+
+
+Pretty brown eyes 
+You know I see you 
+It's a disguise the way you treat me 
+
+You keep holding on 
+To your thoughts of rejection 
+If you're with me you're secured 
+
+You keep telling me 
+That your time is always taken 
+But I keep seeing you out alone 
+
+Listen to love 
+Your heart is pounding with desire 
+Waiting to be unleashed 
+
+
+Quit breakin my heart 
+Breakin my heart 
+Breakin my heart 
+Breakin my heart 
+
+
+Don't tell your friends 
+That I don't mean nothin to ya 
+Please don't deny the truth 
+
+Tell me right now 
+I know your heart is in the right place 
+You know I won't let you down yeah 
+
+You can't disguise 
+All the pounding of your heart yeah 
+I see your eyes 
+And you can't hide 
+
+Start to make sense 
+And quit playin these love games 
+Tell me what you're gonna do yeah 
+
+
+
+
+I wanna know one thing 
+Will you be with me 
+
+
+Here comes my darling 
+Here comes romance 
+Here comes my love 
+And please honey will you dance 
+
+
+
+
 

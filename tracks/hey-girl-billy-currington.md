@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-girl-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/heygirl.html
 name: Hey Girl
 rankings:
 - end_date: '2013-05-24'
@@ -91,4 +92,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
 ---
+
+Hey girl, what's your name girl
+I've been lookin' at you
+And every guy here's doin' the same girl
+It'd be a shame girl
+If I let you just walk on by
+'Cause I'm all caught up in your sweet smile
+A girl like you comes around once in a while
+So hot, gotta give it a shot
+Gotta get get a little bit of what you got
+
+I know you don't know me but I can't leave here lonely
+Knowin' I didn't even try to make you mine and
+You might think I'm crazy
+Girl but who could blame me
+You're lookin' so fine, got me all tongue tied
+And the only line I can think to say is
+
+Hey girl, whatcha think girl
+You look a little thirsty lemme go getcha something to drink girl
+Before you blink girl
+I'll be right back by your side
+And if you want we can roll out
+I know my way around this town
+I got a shotgun seat for you
+You can tell me where it is you wanna take off to
+
+I know you don't know me but I can't leave here lonely
+Knowin' I didn't even try to make you mine and
+You might think I'm crazy
+Girl but who could blame me
+You're lookin' so fine, got me all tongue tied
+And the only line I can think to say is
+Hey girl
+
+Ooh, baby you're still standin' here
+I guess you must like what you hear
+Hey girl, whatcha say girl
+About you and me gettin' away girl
+
+I know you don't know me but I can't leave here lonely
+Knowin' I didn't even try to make you mine and
+You might think I'm crazy
+Girl but who could blame me
+You're lookin' so fine, got me all tongue tied
+And the only line I can think to say is
+Hey girl, oh yeah
+Oh, hey girl
+
+You're lookin' so fine, got me all tongue tied
+And the only line I can think to say is
+Hey girl
+Oh yeah
+
+
 

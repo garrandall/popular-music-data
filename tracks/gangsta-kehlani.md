@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gangsta-kehlani
+lyrics_url: https://www.azlyrics.com/lyrics/kehlani/gangsta.html
 name: Gangsta
 rankings:
 - end_date: '2016-09-02'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
 ---
+
+I need a gangsta
+To love me better
+Than all the others do
+To always forgive me
+Ride or die with me
+That's just what gangsters do
+
+I'm fucked up, I'm black and blue
+I'm built for all the abuse
+I got secrets that nobody, nobody, nobody knows
+I'm good on that pussy shit
+I don't want what I can get
+I want someone with secrets that nobody, nobody, nobody knows
+
+I need a gangsta
+To love me better
+Than all the others do
+To always forgive me
+Ride or die with me
+That's just what gangsters do
+
+My freakness is on the loose
+And running all over you
+Please, take me to places that nobody, nobody knows
+You got me hooked up on the feeling
+You got me hanging from the ceiling
+Got me up so high I'm barely breathing
+So don't let me, don't let me, don't let me, don't let me go
+
+I need a gangsta (gangsta gangsta)
+To love me better (love me, love me better better, baby)
+Than all the others do (they do, they do, they do, oh, oh, oh)
+To always forgive me (always forgive me)
+Ride or die with me (ride or die with me)
+That's just what gangsters do (do, oh)
+
+
 

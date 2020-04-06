@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stick-with-me-baby-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/stickwithmebaby.html
 name: Stick With Me Baby
 rankings:
 - end_date: '1961-06-11'
@@ -23,4 +24,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
 ---
+
+Everybody's been a-talking
+They said our love wasn't real
+That it would soon be over
+That's not the way that I feel
+
+But I don't worry honey
+Let them say what they may
+Come on and stick with me baby
+We'll find a way
+Yes, we'll find a way
+
+Everybody's been a-talking
+Yes, the news travels fast
+They said the fire would stop burning
+That the flame couldn't last
+
+But I don't worry honey
+Let them say what they may
+Come on and stick with me baby
+We'll find a way
+Yes, we'll find a way
+
+Come on and stick with me baby
+Come on and stick with me baby
+Come on and stick with me baby
+
+
 

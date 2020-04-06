@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovin--touchin--squeezin--journey
+lyrics_url: https://www.azlyrics.com/lyrics/journey/lovintouchinsqueezin.html
 name: Lovin' Touchin' Squeezin'
 rankings:
 - end_date: '1979-07-27'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
 ---
+
+You make me weep and wanna die
+Just when you said we'd try
+
+Lovin', touchin', squeezin' each other
+When I'm alone all by myself
+You're out with someone else
+Lovin', touchin', squeezin' each other
+
+You're tearin' me apart
+Every, every day
+You're tearin' me apart
+Oh, what can I say?
+You're tearin' me apart
+
+It won't be long, yes, till you're alone
+When your lover, oh, he hasn't come home
+Cause he's lovin', ooh, he's touchin',
+He's squeezin' another
+
+He's tearin' you apart
+Every, every day
+He's tearin' you apart
+Oh, girl, what can you say?
+Cause he's lovin', touchin' another
+Now it's your turn girl to cry
+Na na na na na na
+Na na na na na
+Na na na na na na
+Na na na na na
+
+
 

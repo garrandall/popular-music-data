@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-side-of-lonesome-jim-reeves
+lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/bluesideoflonesome.html
 name: Blue Side Of Lonesome
 rankings:
 - end_date: '1966-09-02'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
 ---
+
+I'm calling to tell you its over
+Yes darling, you're now free to go.
+You're saying you're sorry you hurt me
+But you hurt me much more than you know.
+You're asking me where this call comes from
+Oh, I hope you won't end up here.
+If your new romance turns out a failure,
+Here's where you'll find me my dear.
+
+
+
+I'm just on the blue side of lonesome
+Right next to the Heartbreak Hotel
+In a tavern that's known as Three Teardrops
+On a bar stool, not doing so well.
+
+The floor has a carpet of sorrows,
+Yet  no one can weep in the aisle.
+And they say someone broke the bar mirror,
+With only the ghost of a smile.
+The hands on the clock never alter,
+For things never change in this place.
+There's no present, no past, no future,
+We're the ones who have lost in loves race.
+
+
+
+
 

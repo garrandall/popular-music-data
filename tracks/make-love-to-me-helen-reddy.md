@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-love-to-me-helen-reddy
+lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/makelovetome.html
 name: Make Love To Me
 rankings:
 - end_date: '1979-05-25'
@@ -47,4 +48,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+I know what it's like to be loved
+Cause I've been loved before
+I know what it's like to be down
+You know I fell before
+
+I know what it's like to be lonely
+I know what it's like to be blue
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+I know what it's like to be touched
+Cause I've been touched before
+I know what it's like to be a fool
+I've been a fool before
+
+I know what it's like to be lonely
+I know what it's like to be blue
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+Won't you make love to me
+Let it be, set me free
+You and me so tenderly
+Make love to me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretending-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/pretending.html
 name: Pretending
 rankings:
 - end_date: '1989-11-24'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
 ---
+
+How many times must we tell the tale?
+How many times must we fall?
+Living in lost memory
+You just recalled
+
+Working on the sound of the band
+Trying to get the music right
+Two go out working
+Three stay home at night
+
+That's when she said she was pretending
+Like she knew the plan
+That's when I knew she was pretending
+Pretending to understand
+
+Pretending, pretending
+Pretending, pretending
+
+Satisfied but lost in love
+Situations change
+You're never who you used to think you are
+How strange
+
+
+
+
+
+I get lost in alibis
+Sadness can't prevail
+Everybody knows strong love
+Can't fail
+
+Don't be pretending about how you feel
+Don't be pretending that your love is real
+Don't be pretending about how you feel
+Don't be pretending that your love is real
+
+
+
+
 

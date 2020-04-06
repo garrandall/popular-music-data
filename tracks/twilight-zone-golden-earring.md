@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twilight-zone-golden-earring
+lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/twilightzone.html
 name: Twilight Zone
 rankings:
 - end_date: '1982-12-03'
@@ -115,4 +116,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
 ---
+
+Somewhere in a lonely hotel room there's a guy starting to realize that eternal fate has turned its back on him.
+It's two A.M.
+
+It's two A.M., it's two A.M
+The fear has gone, the fear has gone
+I'm sittin' here waitin', the gun's still warm
+Sittin' here waitin', the gun's still warm
+Maybe my connection is tired of takin' chances
+Yeah there's a storm on the loose, sirens in my head
+Wrapped up in silence, all circuits are dead
+Cannot decode, my whole life spins into a frenzy
+
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+
+Soon you will come to know
+When the bullet hits the bone
+Soon you will come to know
+When the bullet hits the bone
+
+I'm falling down the spiral, destination unknown
+Double-crossed messenger, all alone
+Can't get no connection, can't get through, where are you
+
+Well the night weighs heavy on his guilty mind
+This far from the borderline
+When the hitman comes
+He knows damn well he has been cheated
+And he says
+
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+
+Soon you will come to know
+When the bullet hits the bone
+Soon you will come to know
+When the bullet hits the bone
+
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+
+Help I'm steppin' into the twilight zone
+Place is a madhouse, feels like being cloned
+My beacon's been moved under moon and star
+Where am I to go, now that I've gone too far
+
+Soon you will come to know
+When the bullet hits the bone
+Soon you will come to know
+When the bullet hits the bone
+
+Soon you will come to know
+When the bullet hits the bone
+Soon you will come to know
+When the bullet hits the bone
+
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+When the bullet hits the bone
+
+
 

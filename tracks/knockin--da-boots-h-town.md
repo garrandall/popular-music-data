@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knockin--da-boots-h-town
+lyrics_url: https://www.azlyrics.com/lyrics/htown/knockindaboots.html
 name: Knockin' Da Boots
 rankings:
 - end_date: '1993-04-16'
@@ -107,4 +108,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-25'
 ---
+
+Well....Yeah...yeah 
+
+Yeah We doin' this one for all the ladies, huh H-Town Boys kickin' it with my boys Luke for the 9-3, you know what I'm sayin' 'cause we will be knockin' boots GI, Shazam, Dino they gon; do a little somethin, for you real sexy like you know what I'm sayin' Hey, yo, check the verse
+
+Last night I thought to back when we made good love listinin' to some Marvin Gaye all night long 
+Now I want that old flame back make these moments once again comfort so won't, won't mmm do it for us, babe
+
+Good lovin,body rockin' knockin' boots all night long yeah, Makin' love until we tire to the break of dawn
+But oh, come on, come on and turn the lights down, and let me get on it, yeah
+âCause when I do, just me and you, it'll be so right
+
+A-give me some good love
+(Somebody rockin' knockin' da boots)
+A-give me some good love
+(Somebody rockin' knockin' da boots) Somebody rockin', baby, ooh
+
+A-give me some good love
+(Somebody rockin' knockin' da boots) That's all I need, I need
+A-give me some good love
+(Somebody rockin' knockin' da boots)
+
+I feel so good when I'm near you
+That's why I always wanna be close to you
+I'm so addicted, I'm so addicted
+To makin' love to you, baby
+All night long, baby, all night long, long, long, long
+
+Good lovin', body rockin' all night long, oh, oh
+Makin' love until we tire to the break of dawn
+But oh, come on, come on and turn the lights down, and let me get on it, uh
+âCause when I do, just me and you, it'll be so right, so right, so right
+
+A-give me some good love
+(Somebody rockin' knockin' da boots)
+A-give me some good love
+(Somebody rockin' knockin' da boots) That's all I want, baby
+
+A-give me some good love
+(Somebody rockin' knockin' da boots) A little body, body rockin', yeah
+A-give me some good love
+(Somebody rockin' knockin' da boots) Complete rockin'
+
+Some sweet love
+(Somebody rockin' knockin' da boots) Give you mounds of pleasure
+âCause I'm ready
+(Somebody rockin' knockin' da boots) I'm so ready
+
+I'm so ready, baby
+(Somebody rockin' knockin' da boots)
+To give you everything that we've been waitin' on
+(Somebody rockin' knockin' da boots) So come on and give it to me, baby
+
+Ah, yeah
+Right about now we on the intermission tip
+So all you ladies go get your towels
+You know what I'm sayin', ha
+âCause it's laid out like that, you know
+But wait a minute, we ain't through
+Kick the vamp
+
+Whoa...ho...oh...
+(Somebody rockin' knockin' da boots) Oh, baby, whoa
+
+I want your good touch, lady
+You're here with me, my baby
+It's drivin' me crazy
+So won't you come on
+(Somebody rockin' knockin' da boots)
+Come on and rock my body, rock my body, baby
+Come on and rock my body
+Yeah...ha...ha...hey...
+I wanna lay you down
+(Somebody rockin' knockin' da boots)
+So let me make some sweet lovin', baby
+I will turn the lights down low and close the door
+(Somebody rockin' knockin' da boots)
+I'll do everything to you, oh
+âCause I'm ready
+
+
 

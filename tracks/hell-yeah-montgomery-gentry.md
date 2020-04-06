@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hell-yeah-montgomery-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/hellyeah.html
 name: Hell Yeah
 rankings:
 - end_date: '2003-11-07'
@@ -87,4 +88,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
 ---
+
+He works way too much for way too little 
+He drinks way too early till way too late 
+He hasn't had a raise since new years day 
+In eighty-eight gets trampled on by everyone 
+Except when he comes in here 
+And he's the product of the Haggard generation 
+He's got a redneck side when you get him agitated 
+He got the gold toothed look from a stiff right hook 
+He's proud he took for his right wing stand on Vietnam 
+Says he lost his brother there 
+
+He yells out Johnny Cash 
+And the band starts to play 
+A ring of fire as he walks up 
+And stands there by the stage 
+And he says 
+
+Hell yeah! 
+Turn it up! 
+Right on! 
+Hell yeah! 
+Sounds good! 
+Sing that song! 
+Guitar man playin' all night long 
+Take me back to where the music hit me 
+Life was good and love was easy 
+
+She's got an MBA and a plush corner office 
+She's got a don't mess with me attitude 
+She'll close a deal she don't reveal that she can feel 
+The loneliness the emptiness 
+Except when she comes in here 
+She's the product of the Me generation 
+She's got a rock and roll side when you get her agitated 
+She got the tattoo there on her derriere from a spring break dare 
+In Panama where love was all she thought she'd ever need 
+
+She yells out to the band 
+Know any Bruce Springsteen 
+Then she jumps up on the bar 
+And she, and she starts to scream 
+She says 
+
+Hell yeah! 
+Turn it up! 
+Right on! 
+Hell yeah! 
+Sounds good! 
+Sing that song! 
+Guitar man playin' all night long 
+Take me back to where the music hit me 
+When life was good and love was easy 
+
+Yeah, yeah 
+Can or can't you get my mind off thinkin' 'bout 
+Monday, Tuesday, Wednesday, Thursday 
+Hey, hell yeah 
+
+Hell yeah 
+Turn it up 
+Right on 
+Hell yeah 
+Sounds good 
+Sing that song 
+Guitar man playin' all night long 
+Take me back to where the music hit me 
+When life was good 
+
+Hell yeah! 
+Turn it up! 
+Right on! 
+Hell yeah! 
+Sounds good! 
+Sing that song! 
+Guitar man playin' all night long 
+Take me back to where the music hit me 
+When life was good and love was easy
+
+
 

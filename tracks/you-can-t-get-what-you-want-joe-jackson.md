@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-get-what-you-want-joe-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/damitajo.html
 name: You Can't Get What You Want
 rankings:
 - end_date: '1984-04-27'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
 ---
+
+Sexy Quiet
+Shy, but down for a good time
+Taurus sign
+Like rain, but love the sunshine
+Makin' headlines
+Feel I'm too deep define
+Simple inside
+But I'm livin' the diva life
+
+Damita Jo
+Do you like me
+Do you want me
+Just for what you see
+Damita Jo
+Do you think that I'm that person
+You watch on TV
+Damita Jo
+There's another side
+That I don't hide
+But might never show
+Damita Jo
+If you wanna get close
+Baby, you cant
+'Til you get to know
+Damita Jo
+
+A friend and a lover
+A sista
+A freak undercover
+Do movies
+I do dance
+Do music
+I love doin' my man
+I wanna nasty boy to put it on me good
+Ms. Jackson don't
+But Damita Joe do
+A little lady
+A whole lotta class
+But you do me wrong I'll get in that ass
+
+
+
+Oh I'm gonna tell your daddy
+I'm gonna tell your momma
+Sometimes you just wanna fit in
+Sometimes you just wanna play
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kinfolks-sam-hunt
+lyrics_url: https://www.azlyrics.com/lyrics/samhunt/kinfolks.html
 name: Kinfolks
 rankings:
 - end_date: '2019-11-01'
@@ -91,4 +92,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
 ---
+
+I saw you goin' by, I had to say, "Hello"
+And I don't mean to pry but
+Girl, I gotta know, what is your name?
+How come I ain't seen you around before?
+
+You know I ain't never had a type
+Having a type takes two
+But I know what I like
+And you're the only one of you
+You're something else
+And I know we just met but
+
+I wanna introduce you to my kinfolks
+To my old friends
+To the house in the pines where the road ends
+Take you to my hometown
+Where I grew up
+Where I thought I knew it all before I knew what love was
+Gave up on it
+But honey you got my hopes up
+And I'm thinkin' that I wanna introduce you to my kinfolks
+
+I wanna take you home
+Not just take you home tonight
+Get Joanie on the phone
+She'll leave us on a light
+I wanna see the way you look up under all those stars
+
+You're gonna be the talk
+Word's gonna get around
+They'll tell you how they thought I'd
+Never settle down
+Out on the porch
+Ain't it funny the way things change
+
+I wanna introduce you to my kinfolks
+To my old friends
+To the house in the pines where the road ends
+Take you to my hometown
+Where I grew up
+Where I thought I knew it all before I knew what love was
+Gave up on it
+But honey you got my hopes up
+And I'm thinkin' that I wanna introduce you to my kinfolks
+
+I don't wanna wait around for the right time
+
+I wanna introduce you to my kinfolks
+To my old friends
+To the house in the pines where the road ends
+Take you to my hometown
+Where I grew up
+Where I thought I knew it all before I knew what love was
+Gave up on it
+But honey you got my hopes up
+And I'm thinkin' that I wanna introduce you to my kinfolks
+
+And I'm thinkin' that I wanna introduce you to my kinfolks
+
+
 

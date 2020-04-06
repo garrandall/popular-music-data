@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-i-feel-about-you-karyn-white
+lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/thewayifeelaboutyou.html
 name: The Way I Feel About You
 rankings:
 - end_date: '1991-12-06'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
 ---
+
+Day after day
+Just thinking about you
+I can't wait to see your smiling face
+Could this be love
+I'm feeling for you
+I've never felt this way before
+
+I made a wish upon a shooting star
+And baby here you are, just you and me
+That's the way it should be
+My heart is waiting, it's an open door
+Each day I'm gonna love you more
+Of this I'm sure
+That's the way I feel about you
+
+
+Bye bye cloudy days
+Sunshine's here to stay
+Tell the world
+That's the way I feel about you
+Happy days are here
+Whenever you're near
+This is clear
+That's the way I feel about you
+
+I'm so satisfied with you in my life
+You're everything I've dreamed of
+Ooh and it feels so good when I'm in your arms
+Nothing seems to matter as long as you're lovin' me
+
+I made a wish upon a shooting star
+And baby here you are, just you and me
+That's the way it should be
+My heart is waiting, it's an open door
+Each day I'm gonna love you more
+Of this I'm sure
+That's the way I feel about you
+
+
+
+The way I feel about you
+The way I feel about you
+
+Every time you hold me in your arms
+I look into your eyes and I see happiness
+And my heart just can't deny what I'm feelin'
+I love what you do when you do all the things
+That you do to me
+
+
+
+
 

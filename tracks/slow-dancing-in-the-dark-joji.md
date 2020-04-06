@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-dancing-in-the-dark-joji
+lyrics_url: https://www.azlyrics.com/lyrics/joji/slowdancinginthedark.html
 name: Slow Dancing In The Dark
 rankings:
 - end_date: '2019-04-05'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
 ---
+
+I don't want a friend (Just one more night)
+I want my life in two (My life in two)
+(Please one more night)
+Waiting to get there
+Waiting for you (Waiting for you)
+(Just one more night)
+(I done fight it all night)
+
+When I'm around slow dancing in the dark
+Don't follow me, you'll end up in my arms
+You done made up your mind
+I don't need no more signs
+Can you?
+Can you?
+
+Give me reasons we should be complete
+You should be with him, I can't compete
+You looked at me like I was someone else, oh well
+Can't you see? 
+I don't wanna slow dance 
+In the dark, dark
+
+When you gotta run
+Just hear my voice in you (My voice in you)
+Shutting me out of you (shutting me out of you)
+Doing so great (So great, so great)
+You
+
+Used to be the one to hold you when you fall
+Yeah, yeah, yeah (When you fall, when you fall)
+I don't fuck with your tone (I don't fuck with your tone)
+I don't wanna go home (I don't wanna go home)
+Can it be one night?
+Can you?
+Can you?
+
+Give me reasons we should be complete
+You should be with him, I can't compete
+You looked at me like I was someone else, oh well
+Can't you see?
+I don't wanna slow dance (I don't wanna slow dance)
+In the dark, dark
+In the dark, dark
+
+
 

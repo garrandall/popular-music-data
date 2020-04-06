@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-wonderful-sweet-sweet-love-the-supremes
+lyrics_url: https://www.azlyrics.com/lyrics/supremes/yourwonderfulsweetsweetlove.html
 name: Your Wonderful Sweet Sweet Love
 rankings:
 - end_date: '1972-08-11'
@@ -39,4 +40,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
 ---
+
+Now there's a theory
+That everybody has a love somewhere
+
+(Somewhere) Yeah (Somewhere)
+
+But I had begin to believe
+That mine wasn't there, oh, oh
+Oh but then, you came to me and proved the theory
+And all of my days
+I wanna have you near me with a...
+Your wonderful sweet, sweet love
+That's all I need now
+Your wonderful sweet, sweet love
+
+Oh, oh I'd been searching here and there
+
+(Oh yeah)
+
+Seems you came from outta nowhere
+
+(Oh yeah)
+
+With the kind of love I wanted to share
+I feel good now, oh, oh, oh yeah
+
+Ah, before you came along
+I had some sad and lonely nights
+
+(Sad and lonely so sad and lonely)
+
+I thought it was gonna take a miracle to make things right
+Yes I did now
+Oh but then you came to me as if by magic
+And ended the loneliness that was so tragic with your...
+Your wonderful sweet, sweet love
+Sweet, sweet love now
+Your wonderful sweet, sweet love
+
+Ooh yeah!
+
+Your wonderful sweet, sweet love
+
+I've got to have it
+
+Sweet, sweet love, yeah, yeah
+
+Your wonderful sweet, sweet love
+
+Sweet, sweet love
+
+You know I need it now
+
+Your wonderful sweet, sweet love!
+
+Oh! Everyday I had cried so much
+You came to me and you showed me such
+Tenderness with your loving touch
+I feel good now
+Ah baby yeah, yeah
+I need, I need, I need, I need
+
+Your wonderful sweet, sweet love
+
+Your sweet loving
+
+Your wonderful sweet, sweet love
+
+It's getting so I can't be without you
+Wanna tell the whole wide world about you
+I'm talking about your sweet love
+Your sweet loving
+Talking 'bout your loving
+
+
 

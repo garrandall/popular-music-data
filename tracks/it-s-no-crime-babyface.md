@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-no-crime-babyface
+lyrics_url: https://www.azlyrics.com/lyrics/babyface/itsnocrime.html
 name: It's No Crime
 rankings:
 - end_date: '1989-08-18'
@@ -79,4 +80,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
 ---
+
+Calling all cars 
+
+I never thought that
+I could feel this way
+You came around and
+Brought about a change in me
+
+I was a typical guy
+You came along and blew my mind
+You were runnin' fast
+I was runnin' slow
+Everybody said that it would not work
+Love came and set me free
+You were standing there to rescue me
+Love caught it, we thought
+Why can't we be in love, well
+
+Why, it's no crime
+If I'm guilty of love
+Let me do my time
+Why, it's no crime
+Everybody needs love
+And baby (so do I)
+
+You never thought love
+Came so easily
+No doubt about it
+Never in your dreams, no way
+
+You were a typical girl
+You came along and changed my world
+I walk slow
+You walk fast
+Everybody said that it could not last
+Love came inside of me
+Never knew how good our love could be
+Love caught it, we thought
+Why can't we be in love, well
+
+
+
+I've spent half a lifetime
+Waiting for someone
+You say I know it was you
+They don't recommend it
+I don't understand it
+I've been reprimanded
+'Cause I'm in love with you
+
+Calling all cars 
+
+You were a typical girl
+You came along and changed my world
+I walk slow
+You walk fast
+Everybody said that it could not last
+Love came inside of me
+Never knew how good our love could be
+Love caught it, we thought
+Why can't we be in love, well
+
+Why, why
+
+So do I, so do I
+So do I, so do I
+Oh so do I
+
+
+
+Why
+
+
 

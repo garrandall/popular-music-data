@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-lovelytheband
+lyrics_url: https://www.azlyrics.com/lyrics/lovelytheband/broken.html
 name: Broken
 rankings:
 - end_date: '2018-08-03'
@@ -95,4 +96,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
 ---
+
+I like that you're broken
+Broken like me
+Maybe that makes me a fool
+I like that you're lonely
+Lonely like me
+I could be lonely with you
+
+I met you late night, at a party
+Some trust fund baby's Brooklyn loft
+By the bathroom, you said let's talk
+But my confidence is wearing off
+
+These aren't my people
+These aren't my friends
+She grabbed my face and
+That's when she said
+
+I like that you're broken
+Broken like me
+Maybe that makes me a fool
+I like that you're lonely
+Lonely like me
+I could be lonely with you
+
+There's something tragic, but almost pure
+Think I could love you, but I'm not sure
+There's something wholesome, there's something sweet
+Tucked in your eyes that I'd love to meet
+
+These aren't my people
+These aren't my friends
+She grabbed my face and
+That's when she said
+
+I like that you're broken
+Broken like me
+Maybe that makes me a fool
+I like that you're lonely
+Lonely like me
+I could be lonely with you
+
+Life is not a love song that we like
+We're all broken pieces floating by
+Life is not a love song we can try
+To fix our broken pieces one at a time
+
+I like that you're broken
+Broken like me
+Maybe that makes me a fool
+I like that you're lonely
+Lonely like me
+I could be lonely with you
+I like that you're broken
+Broken like me
+Maybe that makes me a fool
+I like that you're lonely
+Lonely like me
+I could be lonely with you
+
+
 

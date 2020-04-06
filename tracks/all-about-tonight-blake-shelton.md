@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-about-tonight-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/allabouttonight.html
 name: All About Tonight
 rankings:
 - end_date: '2010-07-09'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
 ---
+
+Don't bother telling me what I got coming in the morning
+I already know
+I got some feelgood pills and a red gatorade by my bed
+Ready to go
+
+I'm gonna do my best to dance with every girl in this bar
+Before they shut it down
+Then I'll pay my tab climb in a cab
+Headin' to a spot downtown
+
+It's all about tonight
+Good times and the music and laughing and grooving to the band
+Everybody's getting right
+No worries we're rocking all kinds of concoctions in our hands
+Yeah tomorrow can wait 'til tomorrow
+It's all about tonight
+
+Hey pretty thing
+I've been looking at you since the moment that you walked in
+I got some wildest buddies that love spending money
+And I see you brought a couple of friends
+
+Just tell me your name
+I don't need your number or a date next saturday
+Baby let's act like fools break a few rules
+Party the night away
+
+It's all about tonight
+Good times and the music and laughing and grooving to the band
+Everybody's getting right
+No worries we're rocking all kinds of concoctions in our hands
+Yeah tomorrow can wait 'til tomorrow
+It's all about tonight
+
+Haha slide
+
+It's all about tonight
+Good times and the music and laughing and grooving to the band
+Everybody's getting right
+No worries we're rocking all kinds of concoctions in our hands
+Yeah tomorrow can wait 'til tomorrow
+I said tomorrow can wait 'til tomorrow
+It's all about tonight
+
+Yeah it's all about tonight
+Come on it's all about tonight
+We're gonna get our swerve on a buzz on
+It's all about tonight
+Come on baby I wouldn't worry about that
+It's all about tonight
+
+
 

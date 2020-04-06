@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wildest-dreams-taylor-swift
+lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/wildestdreams.html
 name: Wildest Dreams
 rankings:
 - end_date: '2014-11-21'
@@ -115,4 +116,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
 ---
+
+He said, "Let's get out of this town
+Drive out of the city, away from the crowds"
+I thought heaven can't help me now
+Nothing lasts forever, but this is gonna take me down
+
+He's so tall and handsome as hell
+He's so bad but he does it so well
+I can see the end as it begins
+My one condition is
+
+Say you'll remember me
+Standing in a nice dress
+Staring at the sunset, babe
+Red lips and rosy cheeks
+Say you'll see me again
+Even if it's just in your
+Wildest dreams, ah-ha oh
+Wildest dreams, ah-ha oh
+
+I said, "No one has to know what we do"
+His hands are in my hair, his clothes are in my room
+And his voice is a familiar sound
+Nothing lasts forever but this is getting good now
+
+He's so tall and handsome as hell
+He's so bad but he does it so well
+And when we've had our very last kiss
+My last request it is
+
+Say you'll remember me
+Standing in a nice dress
+Staring at the sunset, babe
+Red lips and rosy cheeks
+Say you'll see me again
+Even if it's just in your
+Wildest dreams, ah-ha oh
+Wildest dreams, ah-ha oh
+
+You see me in hindsight
+Tangled up with you all night
+Burning it down
+Someday when you leave me
+I bet these memories
+Follow you around
+
+You'll see me in hindsight
+Tangled up with you all night
+Burning it down
+Someday when you leave me
+I bet these memories
+Follow you around
+
+Say you'll remember me
+Standing in a nice dress
+Staring at the sunset, babe
+Red lips and rosy cheeks
+Say you'll see me again
+Even if it's just pretend
+
+Say you'll remember me
+Standing in a nice dress
+Staring at the sunset, babe
+Red lips and rosy cheeks
+Say you'll see me again
+Even if it's just in your (just pretend, just pretend)
+Wildest dreams, ah-ha oh
+In your wildest dreams, ah-ha oh
+(Even if it's just in your wildest dreams) ah-ha
+In your wildest dreams, ah-ha
+
+
 

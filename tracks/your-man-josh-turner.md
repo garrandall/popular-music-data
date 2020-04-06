@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-man-josh-turner
+lyrics_url: https://www.azlyrics.com/lyrics/joshturner/yourman.html
 name: Your Man
 rankings:
 - end_date: '2005-12-30'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
 ---
+
+Baby lock the door and turn the lights down low
+Put some music on that's soft and slow
+Baby we ain't got no place to go
+I hope you understand
+
+I've been thinking 'bout this all day long
+Never felt a feeling quite this strong
+I can't believe how much it turns me on
+Just to be your man
+
+There's no hurry
+Don't you worry
+We can take our time
+Come a little closer
+Lets go over
+What I had in mind
+
+Baby lock the door and turn the lights down low
+Put some music on that's soft and slow
+Baby we ain't got no place to go
+I hope you understand
+
+I've been thinking 'bout this all day long
+Never felt a feeling quite this strong
+I can't believe how much it turns me on
+Just to be your man
+
+Ain't nobody ever love nobody
+The way that I love you
+We're alone now
+You don't know how
+Long I've wanted to
+
+Lock the door and turn the lights down low
+Put some music on that's soft and slow
+Baby we ain't got no place to go
+I hope you understand
+
+I've been thinking 'bout this all day long
+Never felt a feeling that was quite this strong
+I can't believe how much it turns me on
+Just to be your man
+I can't believe how much it turns me on
+Just to be your man
+
+
 

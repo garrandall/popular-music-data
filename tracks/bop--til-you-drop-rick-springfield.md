@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bop--til-you-drop-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/boptilyoudrop.html
 name: Bop 'til You Drop
 rankings:
 - end_date: '1984-08-24'
@@ -67,4 +68,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
 ---
+
+Bop 'til you drop 
+In the hot city 
+Keep on working day and night 
+Don't stop 'til you get what you want
+
+Bop 'til you drop
+'Til you sit pretty 
+Burn the candle, burn it bright 
+Love won't, love won't wait
+
+You wake up wired and draw on your makeup 
+And the city breathes 
+And the city jumps to life 
+
+Lately it seems 
+Your time is all used up 
+Chasing dreams 
+Of money and the good life
+
+But there is something 
+You've been thinking of 
+Lately you're feeling 
+The power of love 
+
+Everybody says it's
+So hard to hold 
+The alarm rings 
+You gotta get up, you gotta get up
+
+Bop 'til you drop
+In the hot city 
+Keep on working day and night 
+Don't stop 'til you get what you want
+
+Bop 'til you drop
+'Til you sit pretty 
+Burn the candle, burn it bright 
+Love won't, love won't wait
+
+Whoa, oh, oh, oh
+Whoa, oh, oh, oh
+
+People say you're the lucky one 
+But you don't believe it 
+And you want to stop 
+And you want to take some time 
+To sus' out a feeling and look for a reason 
+And the flesh is weak 
+But the spirit is willing
+
+'Cause there is something 
+You've been thinking of 
+Lately you're feeling 
+The power of love 
+
+Everybody says it's so
+So hard to hold 
+The alarm rings 
+You gotta get up, you gotta get up
+
+Bop 'til you drop
+In the hot city 
+Keep on working day and night 
+Don't stop 'til you get what you want
+
+Bop 'til you drop
+'Til you sit pretty 
+Burn the candle, burn it bright 
+Love won't, love won't wait
+
+There is something 
+You've been thinking of 
+Lately you're feeling 
+The power of love 
+
+Everybody says it's so
+So hard to hold 
+The alarm rings 
+You gotta get up, you gotta get up
+
+Bop 'til you drop
+In the hot city 
+Keep on working day and night
+
+
 

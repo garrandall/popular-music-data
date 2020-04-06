@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-told-me-john-lennon
+lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/nobodytoldme.html
 name: Nobody Told Me
 rankings:
 - end_date: '1984-01-27'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
 ---
+
+Everybody's talking and no one says a word
+Everybody's making love and no one really cares
+There's Nazis in the bathroom just below the stairs
+Always something happening and nothing going on
+There's always something cooking and nothing in the pot
+They're starving back in China so finish what you got
+
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Strange days indeed -- strange days indeed
+
+Everybody's runnin' and no one makes a move
+Everyone's a winner and nothing left to lose
+There's a little yellow idol to the north of Katmandu
+Everybody's flying and no one leaves the ground
+Everybody's crying and no one makes a sound
+There's a place for us in the movies you just gotta lay around
+
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Strange days indeed -- most peculiar, mama
+
+Everybody's smoking and no one's getting high
+Everybody's flying and never touch the sky
+There's a UFO over New York and I ain't too surprised
+
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Nobody told me there'd be days like these
+Strange days indeed -- most peculiar, mama
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: christine-sixteen-kiss
+lyrics_url: https://www.azlyrics.com/lyrics/kiss/christinesixteen.html
 name: Christine Sixteen
 rankings:
 - end_date: '1977-07-22'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
 ---
+
+She's got me dizzy, she sees me through to the end
+She's got me in her hands and there's no use in pretending
+
+Christine sixteen, Christine sixteen
+
+She drives me crazy, I want to give her all I've got
+And she's hot every day and night, there is no doubt about it
+
+Christine sixteen, Christine sixteen
+
+"I don't usually say things like this to girls your age, but when I saw you
+coming out of the school that day, that day I knew, I knew, I've got to have
+you, I've got to have you."
+
+She's' been around, but she's young and clean
+I've got to have her, can't live without her, whoo no
+Christine sixteen, Christine sixteen
+
+Christine, Christine, sixteen, sixteen
+Christine, yeah, yeah
+So clean, Christine, sixteen, sixteen
+Christine, yeah, Christine, yeah, yeah
+Christine, Christine, sixteen, sixteen
+Christine, yeah, Christine, yeah, yeah
+Christine, Christine, sixteen, sixteen
+Christine, yeah, yeah, yeah, yeah
+Christine, Christine, sixteen, sixteen
+Christine, yeah, yeah, yeah
+Christine, Christine, sixteen, sixteen
+Christine, yeah, yeah, yeah
+Christine, Christine, sixteen, sixteen, Christine, yeah, yeah
+Christine, Christine, sixteen, sixteen
+Christine, yeah, yeah, yeah
+
+
 

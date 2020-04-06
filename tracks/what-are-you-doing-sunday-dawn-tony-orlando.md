@@ -5,6 +5,7 @@ features:
 - Tony Orlando
 genres: []
 key: what-are-you-doing-sunday-dawn-tony-orlando
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/whatareyoudoingsunday.html
 name: What Are You Doing Sunday
 rankings:
 - end_date: '1971-10-08'
@@ -44,4 +45,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
 ---
+
+I hear some people get married in the park on a Sunday afternoon
+And all their friends bring pretty flowers while the band plays a happy tune
+Now, do you want me, do you need me
+Do you love me like I love you?
+
+What are you doing Sunday, baby?
+Would you like to marry me?
+Oh, what do you say now
+If it's a nice day now
+What are you doing Sunday, baby?
+Gee, I wanna marry you
+Oh, what are you doing Sunday afternoon?
+
+Maybe we should wait till night to join hands 'neath the stars above
+And we'll be kissing our first kiss by moonlight as we vow eternal love
+Now, do you want me, do you need me
+Do you love me like I love you?
+
+What are you doing Sunday, baby?
+Would you like to marry me?
+Oh, what do you say now
+If it's a nice day now
+What are you doing Sunday, baby?
+Gee, I wanna marry you
+Oh, what are you doing Sunday afternoon?
+
+Do you want me, do you need me, baby
+Love me like I love you?
+
+What are you doing Sunday, baby?
+Would you like to marry me?
+What do you say now?
+If it's a nice day now
+What are you doing Sunday, baby?
+Gee, I wanna marry you
+Oh, what do you say now
+
+
 

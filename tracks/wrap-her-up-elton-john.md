@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrap-her-up-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/wrapherup.html
 name: Wrap Her Up
 rankings:
 - end_date: '1985-11-01'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
+
+There are ladies, illegal X's
+Mona Lisa's, well connected
+They may be shady, English roses
+Blue blooded, turned up noses
+
+Money talks, see what it catches
+Postage paid, no strings attached
+She's a honey, she's a tramp
+Roaring twenties, molls and vamps
+
+Wrap her up, I'll take her home with me
+Wrap her up, she is all I need
+Wrap her up, I only get one chance
+Beasts and beauties, but they all can dance
+
+Wrap her up, I'll taker her home with me
+Wrap her up, she is all I need
+Wrap her up
+Give her to me, wrap her up
+
+Is she foreign, legs eleven
+Italian girls, take me to heaven
+You pretty babies, from Paris, France
+Crazy horses, love to dance
+
+
 

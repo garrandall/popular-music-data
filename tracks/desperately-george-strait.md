@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: desperately-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/desperately.html
 name: Desperately
 rankings:
 - end_date: '2004-04-02'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
 ---
+
+Every night it's the same
+I hear you callin' my name
+You're lyin' next to me
+I give into your charms
+You disappear in my arms
+I realize it's just a dream, but
+
+
+Desperately, I long to feel your touch
+But you left me all alone in love
+
+And now I
+Shake the sleep from my head
+And try to crawl out of bed
+Today is just another day
+I make the coffee for one
+I turn the radio on
+Pretend that everything's ok, but
+
+
+
+And now I
+Know there's no reason to smile
+It's gonna take me awhile
+'Cause I still love you desperately
+
+
+
+And now I
+Watch the sun goin' down
+There ain't nobody around
+I feel a night in the breeze
+I keep on tellin' myself
+I don't need nobody else
+And I can do as I please, but
+
+And now I
+
+
+
+And now
+Every night it's the same
+I hear you callin' my name
+I still love you desperately
+I still love you
+I still want you
+I still love you desperately
+
+
 

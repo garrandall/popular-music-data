@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-on-my-shoulders-john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/sunshineonmyshoulders.html
 name: Sunshine On My Shoulders
 rankings:
 - end_date: '1974-02-01'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
 ---
+
+Sunshine on my shoulders makes me happy
+Sunshine in my eyes can make me cry
+Sunshine on the water looks so lovely
+Sunshine almost always makes me high
+
+If I had a day that I could give you
+I'd give to you a day just like today
+If I had a song that I could sing for you
+I'd sing a song to make you feel this way
+
+Sunshine on my shoulders makes me happy
+Sunshine in my eyes can make me cry
+Sunshine on the water looks so lovely
+Sunshine almost always makes me high
+
+If I had a tale that I could tell you
+I'd tell a tale sure to make you smile
+If I had a wish that I could wish for you
+I'd make a wish for sunshine all the while
+
+Sunshine on my shoulders makes me happy
+Sunshine in my eyes can make me cry
+Sunshine on the water looks so lovely
+Sunshine almost always makes me high
+
+Sunshine almost all the time makes me high
+Sunshine almost always
+
+
 

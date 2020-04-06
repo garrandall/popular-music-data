@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: malibu-miley-cyrus
+lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/malibudillonfrancisremix.html
 name: Malibu
 rankings:
 - end_date: '2017-06-02'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
 ---
+
+I never came to the beach, or stood by the ocean
+I never sat by the shore, under the sun with my feet in the sand
+But you brought me here and I'm happy that you did
+'Cause now I'm as free as birds catching the wind
+I always thought I would sink, so I never swam
+I never went boatin', don't get how they are floatin'
+And sometimes I get so scared of what I can't understand
+
+But here I am, next to you (hey, hey)
+The sky's more blue in Malibu (hey, hey)
+Next to you in Malibu (hey, hey)
+Next to you
+
+
+In Malibu
+In Malibu
+
+We watched the sun go down as we were walking
+I'd spent the rest of my life standing here talking
+You would explain the current, as I just smile
+Hoping that you'll stay the same, and nothing will change
+And it'll be us, just for a while
+Do we even exist?
+That's when I make the wish, to swim away with the fish
+Is it supposed to be this hot all summer long?
+I never would've believed you if three years ago you told me
+I'd be here writing this song (hey)
+
+But here I am, next to you (hey, hey)
+The sky's so blue in Malibu (hey, hey)
+Next to you in Malibu (hey, hey)
+Next to you
+
+
+In Malibu
+In Malibu
+In Malibu
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pride-and-joy-marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/prideandjoy.html
 name: Pride And Joy
 rankings:
 - end_date: '1963-05-24'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
 ---
+
+You are my pride and joy
+And I just love you, little darlin'
+Like a baby boy loves his toy
+You've got kisses sweeter than honey
+And I work every day to give you all I know
+And that's why you're my pride and joy
+
+And I'm tellin' the world
+You're my (pride and joy) pride and joy (pride and joy)
+I believe I'm no (baby boy) baby boy (baby boy)
+But I know you're mine (pride and joy)
+My pride and joy (pride and joy)
+Yeah baby (baby boy) Yeah baby (baby boy)
+
+You, you are my pride and joy
+And a love like mine, yeah baby
+Is something nobody can ever destroy
+You pick me up (pick me up) when I'm down (when I'm down)
+And when we go out, pretty baby
+You shake up the whole town (whole town)
+And that's why (that's why)
+I believe you're my (you're my) pride and joy (pride and joy)
+
+
+(Pride and joy)
+(Pride and joy) My pride and joy (pride and joy)
+And I love you like a baby loves his toy (pride and joy)
+
+
 

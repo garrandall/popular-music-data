@@ -5,6 +5,7 @@ features:
 - Lil Wayne
 genres: []
 key: strange-clouds-b-o-b-lil-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/bob/strangeclouds.html
 name: Strange Clouds
 rankings:
 - end_date: '2011-10-21'
@@ -88,4 +89,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
 ---
+
+
+Yeah
+Hahaha
+Oh you already know we gon' do
+Hahahaha
+Hey
+
+
+Well, if you guessin' it's me, you guessed correctly
+I just stay with a stallion, you would swear I was an equestrian
+I hit her with that pipe, call that Nancy Kerrigan
+Stay on the greenest greens, call us vegetarians
+You be on that minor league, but we smoke professionally
+I do my job exceptionally, on point like a decimal is
+The way I ride on the beat man I be in the street it's done so effortlessly
+Yeah, so these niggas can't sleep on me, there's no Inception in this bitch
+I'm top chef, you top ramen, I'm top shelf
+No last call, to the bartender, what you got left?
+Pour it up, don't stop there, hold your cup, take a shot, yeah
+All night we celebrate, cause we everywhere and you not there
+Ha,
+
+
+All we do is pour it up
+All night, drinks out
+(That's how we do it)
+(That's how we do it)
+And all we do is light it up
+All night, all you see is strange clouds
+Strange clouds, strange clouds
+
+
+Blue jeans, I'm faded, mindin' my own data
+Smokin' on that strong, that Arnold Schwarzenegger
+It's Tunechi Lee you bitch you, you hot as an igloo
+Kick back on that glock, call that Jiu Jitsu
+Hello world, I'm with a yellow girl, number 2 pencil
+These rappers is washed up, spin cycle, rinse you
+My nigga, all day, all night, half pipe
+I dive in that pussy, yeah I belly flop, I jackknife and shit
+And tell my homies that I say it's a party
+Got that tech for technical difficulties
+I'm top dog, you top ramen, I'm top dog
+Piru, gangsters, outlaws
+Yeah!
+(Young Mula baby)
+
+
+All we do is pour it up
+All night, drinks out
+(That's how we do it)
+(That's how we do it)
+And all we do is light it up
+All night, all you see is strange clouds
+Strange clouds, strange clouds
+
+
+Well ain't no question, yes, it's B.o.B yes definitely
+Up in the studio, I got on my necessities
+If you want that real shit, you made the right selection
+I'm Decatur 'til I die, yes, I rep that definitely
+They say I'm a celebrity, what the fuck's a celebrity?
+I guess I must invest in the proper form of protection
+And I, say it's a curse but it's emotionally a blessing
+To a nigga from the hood tryna aim for the top
+But I don't even need no directions
+I just wake up and then I roll up the purp
+But these niggas wake up on my dick
+At least have some breakfast first
+Nigga keep your nourishment first and your mind on my lyrics
+Cause what you hoping to accomplish I already did it bitch
+
+
+All we do is pour it up
+All night, drinks out
+(That's how we do it)
+(That's how we do it)
+And all we do is light it up
+All night, all you see is strange clouds
+Strange clouds, strange clouds
+
+
 

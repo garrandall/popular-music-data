@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bitty-tear-burl-ives
+lyrics_url: https://www.azlyrics.com/lyrics/dongibson/alittlebittytear.html
 name: A Little Bitty Tear
 rankings:
 - end_date: '1961-12-24'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
+
+A little bitty tear let me down
+Spoiled my act as a clown
+I had it made up not make a frown
+But a little bitty tear let me down
+
+You said you were leaving tomorrow
+That today was our last day
+I said there'd be no sorrow
+That I'd laugh when you walked away
+
+A little bitty tear let me down
+Spoiled my act as a clown
+I had it made up not make a frown
+But a little bitty tear let me down
+
+I said I'd laugh when you left me
+Pull a funny as you went out the door
+That I'd have another waiting
+And I'd wave goodbye as you go
+
+A little bitty tear let me down
+Spoiled my act as a clown
+I had it made up not make a frown
+But a little bitty tear let me down
+
+Everything went like a planned it
+And really put on quite a show
+In my heart I felt I could stand it
+'Til you walked with your grip through the door
+
+A little bitty tear let me down
+Spoiled my act as a clown
+I had it made up not make a frown
+But a little bitty tear let me down
+
+A little bitty tear let me down
+
+
 

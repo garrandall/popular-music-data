@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sleeping-with-a-friend-neon-trees
+lyrics_url: https://www.azlyrics.com/lyrics/neontrees/sleepingwithafriend.html
 name: Sleeping With A Friend
 rankings:
 - end_date: '2014-03-21'
@@ -71,4 +72,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
 ---
+
+All my friends, theyâre different people
+Anxious like the ocean in a storm
+When we go out, yeah, weâre electric
+Coursing through our bodies âtil weâre one
+
+And why mess up a good thing, baby?
+Itâs a risk to even fall in love
+So, when you give that look to me
+I better look back carefully
+âCause this is trouble, yeah this is trouble
+
+I said ooh, ooh
+You got me in the mood, mood
+Iâm scared
+But if my heartâs gonna break before the night will end
+I said, ooh, ooh weâre in danger
+Sleeping with a friend, sleeping with a friend
+
+All my friends, stay up past midnight
+Looking for the thing to fill the void
+I donât go out much like I used to
+Something âbout the strangers and the noise
+
+And why leave when I got you, baby?
+Itâs a risk but babe, I need the thrill
+I never said youâd be easy
+But if it was all up to me
+Iâd be no trouble, hey, weâre in trouble
+
+I said ooh, ooh
+You got me in the mood, mood
+Iâm scared
+But if my heartâs gonna break before the night will end
+I said, ooh, ooh weâre in danger
+Sleeping with a friend, sleeping with a friend
+
+We are both young, hot-blooded people
+We donât wanna die alone
+Two become one, it could be lethal
+Sleeping with a friend
+
+All my friends
+All my friends
+All my friends
+All my friends
+
+I said ooh, ooh
+You got me in the mood, mood
+Iâm scared
+But if my heartâs gonna break before the night will end
+I said, ooh, ooh weâre in danger
+Sleeping with a friend
+
+(All my friends) Sleeping with a friend
+(All my friends)
+If my heartâs gonna break before the night will end
+I said, ooh, ooh weâre in danger
+Sleeping with a friend
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrap-it-up-the-fabulous-thunderbirds
+lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/wrapitup.html
 name: Wrap It Up
 rankings:
 - end_date: '1986-08-15'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
 ---
+
+I've been watching you for days, now baby
+I just love your sexy ways, now baby
+You know my love will never stop, now baby
+Just put your loving in my box, now baby
+
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+
+Well, no more will I shop around, now baby
+I know I got the best thing in town, now baby
+I've seen all I want to see, now baby
+Bring your loving straight to me, now baby
+
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+
+Well, I'm gonna treat you like the queen you are
+Bring you sweet things from my candy jar
+You've got tricks you ain't never used
+Give it, give it to me, it won't be abused
+
+I've been watching you for days, now baby
+I just love your sexy ways, now baby
+You know my love will never stop, now baby
+Just put your loving in my box, now baby
+
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+Wrap it up, I'll take it
+
+Wrap, wrap
+Wrap, wrap, wrap
+Wrap it up, I'll take it...
+
+
 

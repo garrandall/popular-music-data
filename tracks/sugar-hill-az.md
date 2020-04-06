@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-hill-az
+lyrics_url: https://www.azlyrics.com/lyrics/az/sugarhill.html
 name: Sugar Hill
 rankings:
 - end_date: '1995-07-21'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
 ---
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+At times I wanna watch out the Mariot, zoning on owning co-ops,
+Foreign drop top coups, and yachts guzzling straight shots a scotch,
+Formulating up plots ta escape from Salems lock cause its scorching hot,
+Making it hard trying ta figure who's out ta trap me, Pataki, got all
+Kinds of undercovers coming at me, perhaps he, won't be happy, til they
+Snatch me, and place me where half slacks be, sitting in Catsaki, but
+Never me, see, my destiny ta be forever free, in ecstacy, on a hill
+That awaits for me, so plus, just ta visualize is like a coke rush,
+Vivid enough ta make living this a must, plus this is real
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+First line & (sugar hill baby, sugar hill baby)
+Second line & (ayo son pull the shades down and let's count this money
+Put the grants in the safe, cause we spending the jacksons, the
+Washingtons go to wify, ya know how we do)
+
+No more cutting grams, and wrapping grands up in rubberbands, I'm a
+Recovered man, our plans ta discover other lands, suburban places got me
+Seeking for oasis, cristal by the cases, ladies of all races with dime
+Faces, sex on the white sand beaches of Saint Thomas, though this ain't
+Promised, I'm as determined as them old timers, I wanna villa in a Costa
+Rica, so I can smoke my reefer and enjoy how life supposed ta treat
+Ya, laid in the shades of the everglades, finally forever paid, wearing
+The finest fabrics tailors ever made, me and my team, carrabeans
+Forseen, I guess being down for so long I'm all in store ta see my dreams
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+So until I see past the green pasture, me being supreme master, ain't
+Much more life ta feind after, but another chapter, a new way of life to
+Adap ta, cause these streets a gas ya, and have ya caught up in the rapture
+De ja vouz, I could vision my killa crew, more hospitable, consciously
+Aware plus political, cause though they claim that every man created equal
+What's his native people, find it harder for nights to sleep through,
+But once established we living lavish, like the house of versi, paris,
+I gotta have it, it so plus, just ta visualize is like a coke rush,
+Vivid enough, ta make living this a must, plu this is real
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+I wanna chill (Chill) on sugar hill (its so lovely, so lovely)
+AZ's for real (oh he's for real) he's for real (its so lovely sippin on bubbly)
+
+Its so crazy I'm down with AZ, its so lovely sippin on bubbly
+Its so crazy jones and AZ, its so lovely sippin on bubbly
+I wanna chill on sugar hill baby
+I wanna chill on sugar hill baby
+I wanna chill, I wanna chill, I wanna chill on sugar hill baby
+Sugar Hill
+
+
 

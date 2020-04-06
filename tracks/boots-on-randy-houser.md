@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boots-on-randy-houser
+lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/bootson.html
 name: Boots On
 rankings:
 - end_date: '2009-06-19'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
 ---
+
+Man, I've been workin too hard
+Ten hour days and I'm tired
+Damn this knuckle busted',
+back breakin', no paying job
+Know where I'm goin from here
+Hot headed women, cold beer
+Kick up my heels for a little while
+and do it country style
+
+
+In my dirty 'ole hat
+with my crooked little grin
+Granny beaded neck
+and these calloused hands
+And a muddy pair of jeans
+with that copenhagen ring
+No need to change a thing, hey y'all
+I'm going out with my boots on
+
+How I keep catching her eye
+Man, I keep wondering why
+Ain't nothing special 'bout
+an "awe shucks" country boy
+Lord, she's sure lookin' good
+Like something from Hollywood
+She got me thinkin' that I just might
+leave here with her tonight
+
+
+
+'Cause I am who I am and that's
+the man I'm gonna be, yeah
+And when the Lord comes callin',
+well, he ain't gonna have
+to holler, y'all
+There'll be no trouble finding me
+
+
+
+With my boots on
+He's gonna take me home
+Lord, with my boots on
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pledge-pin-robert-plant
+lyrics_url: https://www.azlyrics.com/lyrics/robertplant/pledgepin.html
 name: Pledge Pin
 rankings:
 - end_date: '1982-11-19'
@@ -27,4 +28,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
 ---
+
+Watch them go 'cause one by one they rise to fall
+Hearts in tow, it's just a game - she's only having fun
+She laughs and turns away surprised
+She mocks it all the same
+Tonight's the loss tomorrow's gain and in the end it's so
+
+Stand in line as one by one they march in time
+In the wings I stand and watch these foolish things go by
+Just preparing for the play aloof she moves
+The confidante, with practiced step
+The merry dance she executes her role
+
+As the cavalcade begins to thin, do you stop and look around
+Free to choose but not to win - you're just too late
+Your show is at an end - now you're the victim of your game
+Through your fingers watch them slip
+Familiar rules just hit and miss for the one who never shows
+
+
 

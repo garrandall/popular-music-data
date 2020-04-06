@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-my-fall-billy-idol
+lyrics_url: https://www.azlyrics.com/lyrics/billyidol/catchmyfall.html
 name: Catch My Fall
 rankings:
 - end_date: '1984-11-09'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
 ---
+
+I have the time so I will sing yeah
+I'm just a boy but I will win yeah
+Lost song of lovers fellow travelers yeah
+Leave me sad and hollow out of words
+
+It could happen to you so think for youreself
+
+If I should stumble
+Catch my fall yeah
+If I should stumble
+Catch my fall
+Catch my fall
+If I should stumble
+Catch my fall
+If I should stumble
+
+I've traveled and unwound my own truth yeah
+I've laid my head on the rock of youth yeah
+i've trusted and then broken my own word
+Just to keep me free in this mad, mad word
+
+It could happen to you so think for youreself
+
+If I should stumble
+Catch my fall yeah
+If I should stumble
+Catch my fall
+Catch my fall
+
+It could happen to you so think for youreself
+
+If I should stumble won't yoc catch my fall yeah
+If I should stumble catch my fall yeah
+If I should stumble would you catch my fall
+If I should stumble catch my fall
+
+
 

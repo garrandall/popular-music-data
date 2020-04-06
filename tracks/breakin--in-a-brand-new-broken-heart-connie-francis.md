@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakin--in-a-brand-new-broken-heart-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/breakinginabrandnewbrokenheart.html
 name: Breakin' In A Brand New Broken Heart
 rankings:
 - end_date: '1961-04-23'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
 ---
+
+If my friends should ask for me
+Here at home is where I'll be
+There's no one I care to see
+I'm breakin' in a brand new broken heart.
+
+Now the heartache has begun
+There's a job that must be done
+I'll have no time for havin' fun
+I'm breakin' in a brand new broken heart.
+
+Aw, leave me alone
+And let me cry, cry, cry
+There are tears that must be cried
+Till there's no more tears inside.
+
+Let me take a count of ten
+Then I'll bounce right back again
+Let me be alone till then
+I'm breakin' in a brand new broken heart.
+
+I'm breakin' in a brand new broken heart...
+
+
 

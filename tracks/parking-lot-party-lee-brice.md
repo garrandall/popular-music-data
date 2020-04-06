@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: parking-lot-party-lee-brice
+lyrics_url: https://www.azlyrics.com/lyrics/leebrice/parkinglotparty.html
 name: Parking Lot Party
 rankings:
 - end_date: '2013-07-19'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
 ---
+
+Johnny's firing' up his coleman grill
+We've got 24 tall boys on the chill
+Yeah, 14 of 'em's mine
+A little Marshall Tucker on the radio (can't you see)
+You know we're just catching a little groove before the show
+Yeah, ain't playin' nothin' slow.
+
+At the parking lot party
+Tailgate buzz just sipping' on suds
+Ain't never too early
+To light one up, fill up your cup
+Cause there ain't no party like the pre-party
+And after the party the after-party
+At the parking lot party
+
+Well, the opening band is doin' sound-check
+Man, they sound pretty good, heh
+Hell, I ain't even bought no tickets yet
+Yeah, but that's alright, we don't care
+'cause all the pretty girls are sitting right here
+Kicking back in a lawn chair
+
+At the parking lot party
+Tailgate buzz just sipping on suds
+Ain't never too early
+To light one up, fill up your cup
+Cause there ain't no party like the pre-party
+And after the party the after-party
+At the parking lot party
+(yeah, pass me the chicken wings now)
+
+Whoa-oh-oh-oh!
+Old Tom's pulling' his guitar out
+Whoa-oh-oh-oh!
+It's bout time to pass that shine around
+Hey-hey-hey!
+Show's about to start but we ain't about to leave
+Hey-hey-hey!
+It's one hell of a time and it's all for free!
+
+At the parking lot party
+Tailgate buzz just sipping on suds
+Ain't never too early
+To light one up, fill up your cup
+Cause there ain't no party like the pre-party
+And after the party the after-party
+At the parking lot party
+
+Oh yeah, now, c'mon
+
+Parkin' lot party
+Oh, they're gonna have to tow my ass out of here
+Parking lot party
+Oh, man, damn, girl
+Parking lot party
+Woo-ooh
+Parking lot party
+Don't think I've ever seen that before, lord
+(hey-hey-hey)
+
+
+At the parking lot party
+Tailgate buzz just sipping on suds
+Ain't never too early.
+To light one up, fill up your cup
+Cause there ain't no party like the pre-party
+And after the party the after-party
+At the parking lot party
+
+
 

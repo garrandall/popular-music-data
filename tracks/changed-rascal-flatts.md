@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: changed-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/changed.html
 name: Changed
 rankings:
 - end_date: '2012-04-06'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
 ---
+
+I came up out of the water
+Raised my hands up to the Father
+Gave it all to him that day
+Felt a new wind kiss my face
+Walked away, eyes wide open
+Could finally see where I was going
+It didn't matter where I'd been
+I'm not the same man I was then
+
+I got off track, I made mistakes
+Back slid my way into that place where souls get lost
+Lines get crossed
+And the pain won't go away
+I hit my knees, now here I stand
+There I was, now here I am
+Here I am
+Changed
+
+I got a lot of "Hey, I'm sorry"s
+The things I've done
+Man, that was not me
+I wish that I could take it all back
+I just want to tell em' that
+Tell 'em that
+
+I got off track, I made mistakes
+Back slid my way into that place where souls get lost
+Lines get crossed
+And the pain won't go away
+I hit my knees, now here I stand
+There I was, now here I am
+Here I am
+
+I'm changed for the better
+More smiles, less bitter
+I'm even starting to forgive myself
+
+I hit my knees, I'm here I stand
+There I was, now here I am
+Here I am, here I am, here I am
+I'm changed
+Yes I am
+I'm changed for the better
+Thank God I'm changed
+
+
 

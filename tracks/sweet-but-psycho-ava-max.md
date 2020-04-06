@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-but-psycho-ava-max
+lyrics_url: https://www.azlyrics.com/lyrics/samanthaharvey/sweetbutpsycho.html
 name: Sweet But Psycho
 rankings:
 - end_date: '2019-01-04'
@@ -147,4 +148,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
 ---
+
+Oh, she's sweet but a psycho
+A little bit psycho
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+She's hot but a psycho
+So left but she's right though
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+
+She'll make you curse, but she a blessing
+She'll rip your shirt within a second
+You'll be coming back, back for seconds
+With your plate, you just can't help it
+
+No, no
+You'll play along
+Let her lead you on
+You'll be sayin', "No, no"
+Then saying, "Yes, yes, yes"
+'Cause she messin' with your head
+
+Oh, she's sweet but a psycho
+A little bit psycho
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+She's hot but a psycho
+So left but she's right though
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+
+Grab a cop gun. Kinda crazy
+She's poison but tasty
+People say, "Run, don't walk away"
+Oh, she's sweet but a psycho
+A little bit psycho
+At night she's screamin', "I'm-ma-ma-ma out my mind"...
+
+See, someone said, "Don't drink her potions
+She'll kiss your neck with no emotions
+When she's mean, you know you love it
+Cause she tastes so sweet. Don't sugarcoat it"
+
+No, no
+You'll play along
+Let her lead you on
+You'll be saying, "No, no"
+Then saying, "Yes, yes, yes"
+'Cause she messin' with your head
+
+Oh, she's sweet but a psycho
+A little bit psycho
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+She's hot but a psycho
+So left but she's right though
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+
+Grab a cop gun. Kinda crazy
+She's poison but tasty
+People say, "Run, don't walk away"
+Oh, she's sweet but a psycho
+A little bit psycho
+At night she's screamin', "I'm-ma-ma-ma out my mind"
+
+I'm-ma-ma-ma out my mind
+
+
 

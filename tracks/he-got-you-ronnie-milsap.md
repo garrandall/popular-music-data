@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-got-you-ronnie-milsap
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/hegotyou.html
 name: He Got You
 rankings:
 - end_date: '1982-08-27'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
 ---
+
+He got the sunshine, I got the rain
+He got your loving, I got the pain
+He got a lifetime of love to see him through
+I got the mem'ries, he got you.
+
+He got your good times, I got the bad
+He got your sweet side, I got the sad
+He got forever to make your dreams come true
+I got your letter goodbye, he got you.
+
+Sometimes the wine taste bitter
+Sometimes the wine taste sweet
+Sometimes the only road I can see
+Leads me right back to your feet.
+
+He got the sunshine, I got the rain
+He got your loving, I got the pain
+He got a lifetime of love to see him through
+I got the mem'ries, he got you.
+
+He got a lifetime of love to see him through
+I got the mem'ries, he got you.
+
+He got you baby, he got you
+He got you baby, baby, baby
+He got you, he got you baby, oh...
+
+
 

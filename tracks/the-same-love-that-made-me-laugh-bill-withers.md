@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-same-love-that-made-me-laugh-bill-withers
+lyrics_url: https://www.azlyrics.com/lyrics/joanosborne/samelovethatmademelaugh.html
 name: The Same Love That Made Me Laugh
 rankings:
 - end_date: '1974-04-19'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
 ---
+
+Your love is like a chunk of gold
+Hard to gain and hard to hold
+Like a rose that's so soft to touch
+Love has gone that can hurt so much
+
+Well and why?
+Must the same love that made me laugh
+Have to make me cry?
+
+Well you think of love as sittin' on a mountain
+Think of it as bein' a great big rock
+Why don't you think before you started to roll it down?
+Because once you start it, you can't make it stop
+
+I've given all I have to give
+And if you don't want me, I don't want to live
+
+Oh, you think of love as sittin' on a mountain
+Think of it as bein' a great big rock
+Why don't you think before you started to roll it down?
+Because once you start it, you can't make it stop
+
+I've given all I have to give
+And if you don't want me, I don't want to live
+
+Well and why?
+Must the same love that made me laugh
+Have to make me cry?
+Oh now why?
+Must the same love that made me laugh
+Why you wanna make me cry?
+
+Why you wanna make me cry?
+Tell me now
+
+
 

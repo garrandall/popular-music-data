@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daisy-jane-america
+lyrics_url: https://www.azlyrics.com/lyrics/america/daisyjane.html
 name: Daisy Jane
 rankings:
 - end_date: '1975-07-25'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
 ---
+
+Flyin' me back to Memphis
+Gotta find my Daisy Jane
+Well, the summer's gone
+And I hope she's feelin' the same
+
+Well, I left her just to roam the city
+Thinkin' it would ease the pain
+I'm a crazy man
+And I'm playin' my crazy game, game
+
+Does she really love me
+I think she does
+Like the stars above me
+I know because
+When the sky is bright
+Everything's alright
+
+Flyin' me back to Memphis
+Honey, keep the oven warm
+All the clouds are clearin'
+And I think we're over the storm
+
+Well, I've been pickin' it up around me
+Daisy, I think I'm sane
+And I'm awful glad
+And I guess you're really to blame, blame
+
+Do you really love me
+I hope you do
+Like the stars above me
+How I love you
+When it's cold at night
+Everything's alright
+
+Does she really love me
+I think she does
+Like the stars above me
+I know because
+When the sky is bright
+Everything's alright
+
+
 

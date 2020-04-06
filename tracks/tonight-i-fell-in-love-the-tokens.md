@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-i-fell-in-love-the-tokens
+lyrics_url: https://www.azlyrics.com/lyrics/tokens/tonightifellinlove.html
 name: Tonight I Fell In Love
 rankings:
 - end_date: '1961-03-12'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
 ---
+
+Dum, doobie dum, woo - ooh, doobie, doobie
+Dum, doobie dum, woo - ooh, doobie, doobie
+Dum, doobie dum, woo - ooh tonight I fell in love, woo - ooh
+
+Tonight, tonight I fell in love, I want the stars above
+To know tonight I fell in love
+Tonight, I gave my heart away to love that can stay
+'Cause tonight I fell in love
+
+Oh what a wonder, this magic spell I'm under
+This feeling that I feel, is it really real?
+My heart beats so fast, I pray that it will last
+Till the end of time
+
+Dum, doobie dum, woo - ooh, doobie, doobie
+Dum, doobie dum, woo - ooh, doobie, doobie
+Dum, doobie dum, woo - ooh, tonight I fell in love, woo - ooh
+
+Tonight, oh may it last forever, forever and ever
+Yes, tonight I fell in love
+Yes, tonight I fell in love
+Yes, tonight I fell in love
+Woo...
+
+
 

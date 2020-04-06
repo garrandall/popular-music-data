@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tip-toe-thru--the-tulips-with-me-tiny-tim
+lyrics_url: https://www.azlyrics.com/lyrics/tinytim/tiptoethruthetulipswithme.html
 name: Tip-Toe Thru' The Tulips With Me
 rankings:
 - end_date: '1968-05-24'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
 ---
+
+Tiptoe through the window
+By the window, that is where I'll be
+Come tiptoe through the tulips with me
+
+Oh, tiptoe from the garden
+By the garden of the willow tree
+And tiptoe through the tulips with me
+
+Knee deep in flowers we'll stray
+We'll keep the showers away
+And if I kiss you in the garden, in the moonlight
+Will you pardon me?
+And tiptoe through the tulips with me
+
+Knee deep in flowers we'll stray
+We'll keep the showers away
+And if I kiss you in the garden, in the moonlight
+Will you pardon me?
+And tiptoe through the tulips with me
+
+
 

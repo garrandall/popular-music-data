@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-blood-shawn-mendes
+lyrics_url: https://www.azlyrics.com/lyrics/leroysanchez/inmyblood.html
 name: In My Blood
 rankings:
 - end_date: '2018-04-06'
@@ -99,4 +100,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
 ---
+
+Help me, it's like the walls are caving in
+Sometimes I feel like giving up
+But I just can't
+It isn't in my blood
+
+Laying on the bathroom floor, feeling nothing
+I'm overwhelmed and insecure, give me something
+I could take to ease my mind slowly
+Just have a drink and you'll feel better
+Just take her home and you'll feel better
+Keep telling me that it gets better
+What does it ever?
+
+Help me, it's like the walls are caving in
+Sometimes I feel like giving up
+No medicine is strong enough
+Someone help me
+I'm crawling in my skin
+Sometimes I feel like giving up
+But I just can't
+
+It isn't in my blood
+It isn't in my blood
+
+Looking through my phone again feeling anxious
+Afraid to be alone again, I hate this
+I'm trying to find a way to chill, can't breathe
+Oh, is there somebody who could help me
+
+It's like the walls are caving in
+Sometimes I feel like giving up
+No medicine is strong enough
+Someone help me
+Oh, I'm crawling in my skin
+Sometimes I feel like giving up
+But I just can't
+
+It isn't in my blood
+It isn't in my blood
+
+I need somebody now
+I need somebody now
+Someone to help me out
+I need somebody now
+
+Help me
+It's like the walls are caving in
+Sometimes I feel like giving up
+But I just can't
+
+It isn't in my blood
+It isn't in my blood, ohhh
+It isn't in my blood
+I need somebody now
+It isn't in my blood
+I need somebody now
+It isn't in my blood
+It isn't in my blood
+
+
 

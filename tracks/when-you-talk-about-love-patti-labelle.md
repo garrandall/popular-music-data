@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-talk-about-love-patti-labelle
+lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/whenyoutalkaboutlove.html
 name: When You Talk About Love
 rankings:
 - end_date: '1997-07-25'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
 ---
+
+I'd like to give you a test,
+So darlin' prepare yourself,
+When I say Love please explain,
+What picture pop in your brain,
+'Cause when you talk about love (love, love, love),
+When you think about love (love, love, love),
+When you talk about love (love, love, love),
+You should be talkin' 'bout me.
+Now if you need to be taught,
+Don't make me an after thought,
+For every lesson that's wrong,
+You can bet my good lovin' will be gone,
+So let's erase any doubt,
+Take a few seconds to figure out,
+Speak from your lips to my ears,
+Yes, I know you know what I wanna hear,
+'Cause when you talk love (love, love, love),
+When you think about love (love, love, love),
+When you talk about love (love, love, love),
+You should be talkin' 'bout me.
+No I'm not gonna play tit for tat,
+When it comes to affairs of the heart,
+But if I love you I want you back,
+And I know that I love you so just do your part.
+
+
 

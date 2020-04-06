@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sending-my-love-zhane
+lyrics_url: https://www.azlyrics.com/lyrics/zhane/sendingmylove.html
 name: Sending My Love
 rankings:
 - end_date: '1994-05-27'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
 ---
+
+If I could mail my heart
+Right to you, I would
+I'd pack it up, seal it tight
+And I'd send it over night
+
+Every time I hear your voice
+And I look into your eyes
+Sends a burning sweet sensation
+Oh, inside of me
+
+The look in your eyes
+Has found me
+I am sending
+
+Sending my love to you
+Praying that you are home
+Sealing it with a kiss
+Sending my love
+
+Sending my love to you
+Praying that you are home
+Sealing it with a kiss
+Sending my love
+
+With my heart in your hands
+I'm as helpless as a baby
+I'm in desperate need of your love
+So just send it right away
+
+I've been thinking bout you, boy
+Because you're so far way
+Makes me want to send you all this love
+Inside of me
+
+The look in your eyes
+Has found me
+I am sending
+
+Sending my love to you
+Praying that you are home
+Sealing it with a kiss Oh, ho
+Sending my love
+
+Sending my love to you
+Praying that you are home
+Sealing it with a kiss With a kiss
+Sending my love
+
+If I could mail my heart
+Right to you, I would
+I'd pack it up, seal it tight
+And I'd send it over night
+
+
 

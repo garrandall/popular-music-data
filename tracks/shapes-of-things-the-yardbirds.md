@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shapes-of-things-the-yardbirds
+lyrics_url: https://www.azlyrics.com/lyrics/jeffbeck/shapesofthings.html
 name: Shapes Of Things
 rankings:
 - end_date: '1966-03-25'
@@ -51,4 +52,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
+
+Shapes of things before my eyes,
+Just help me to despise.
+Will time make men more wise?
+
+Here, within my lonely frame,
+My eyes just hurt my brain.
+Will time make men more sane?
+
+Come tomorrow, will I be older?
+Come tomorrow, maybe a soldier, (Now listen)
+Come tomorrow, maybe I'm older than today.
+
+(Listen to this)
+Here within my lonely frame,
+My eyes just hurt my goddarn brain.
+Will time make men more sane?
+
+
 

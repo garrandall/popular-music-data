@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jingle-jangle-the-archies
+lyrics_url: https://www.azlyrics.com/lyrics/archies/jinglejangle.html
 name: Jingle Jangle
 rankings:
 - end_date: '1969-12-05'
@@ -59,4 +60,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+
+Sing me, sing me, baby
+Sing me, sing me, sing me
+Oooh
+
+La, lala, lalala
+(Sing me, sing me, sing me, yeah)
+La, lala, lalala
+(Sing the jingle jangle song)
+
+La, lala, lalala
+(Sing me, sing me, baby, yeah)
+La, lala, lalala
+
+Ever since I met you
+I couldn't want you better
+I couldn't love you stronger if I tried
+
+It's my true heart I'm showin'
+Or my nose would be growin'
+You know that it gets longer when I lie
+
+Singin' la, lala, lalala
+(Sing me, sing me, sing me, yeah)
+La, lala, lalala
+(Sing the jingle jangle song)
+
+La, lala, lalala
+(Oooh, sing me, sing me, baby, yeah)
+La, lala, lalala
+
+Bein' kinda pretty and down here in the city
+Find it isn't easy to be smart
+When tryin' to untangle the jingle from the jangle
+It's easy if you listen with your heart
+
+Singin' la, lala, lalala
+(Sing me, sing me, sing me, yeah)
+La, lala, lalala
+(Sing the jingle jangle song)
+
+La, lala, lalala
+(Sing me, sing me, baby, yeah)
+La, lala, lalala
+
+You'll make the winter springtime
+And jingle jangle sing time
+Right on through the summer and the fall
+
+So darlin' don't be weepin'
+And please don't you be sleepin'
+When I come creepin' down the hill
+To sing you
+
+La, lala, lalala
+(Sing me, sing me, sing me, yeah)
+La, lala, lalala
+
+Oh, come on (Come on)
+
+We'll get it together
+
+Oh, come on (Come on)
+
+Oooh, yeah, yeah, yeah
+
+Oh, come on (Come on)
+
+We'll get it together
+
+Oh, come on (Come on)
+
+Come on, come on, come on, come on, come on
+
+La, lala, lalala
+(Sing the jingle jangle song)
+La, lala, lalala
+(Sing me, sing me, baby, yeah)
+
+La, lala, lalala
+(Sing the jingle jangle song)
+La, lala, lalala
+(Sing me, sing me, baby, yeah)
+
+
 

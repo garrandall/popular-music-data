@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do--cherish-you--98-degrees
+lyrics_url: https://www.azlyrics.com/lyrics/98degrees/idocherishyou.html
 name: I Do (Cherish You)
 rankings:
 - end_date: '1999-08-13'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
 ---
+
+All I am, all I'll be
+Everything in this world
+All that I'll ever need
+Is in your eyes
+Shining at me
+When you smile I can feel
+All my passion unfolding
+Your hand brushes mine
+And a thousand sensations
+Seduce me 'cause I
+
+I do cherish you
+For the rest of my life
+You don't have to think twice
+I will love you still
+From the depths of my soul
+It's beyond my control
+I've waited so long to say this to you
+If you're asking do I love you this much
+I do
+
+In my world, before you
+I lived outside my emotions
+Didn't know where I was going
+'Til that day I found you
+How you opened my life
+To a new paradise
+In a world torn by change
+Still with all of my heart
+'Til my dying day
+
+
+
+
 

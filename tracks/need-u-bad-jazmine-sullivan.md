@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: need-u-bad-jazmine-sullivan
+lyrics_url: https://www.azlyrics.com/lyrics/jazminesullivan/needubad.html
 name: Need U Bad
 rankings:
 - end_date: '2008-08-08'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
 ---
+
+Oh!
+
+Ay baby weh you ah deal with?
+We come through a lot of things you know?
+Wo wahamum to you?
+Me make one little mistake you wan dun us?
+
+
+If I had you back in my world
+I would prove that I could be a better girl
+Oh, oh, oh
+If you let me back in
+I would sho'nuff never never let you go again (hey baby)
+I was so foolish to ever leave your side,
+Searching for what was right before my eyes
+It was me who didn't realize
+'til it was gone but now I know I need you in my life
+
+Boy I need you bad as my heartbeat (bad like the food I eat)
+Bad as the air I breath (baby I want you bad)
+I need you bad I can't take this pain (bad I can't take this pain)
+Boy I'm about to go insane (baby I need you bad)
+I need you
+I need you
+What I gotta do (baby I want you bad)
+I need you
+I need you
+Do it all for you (baby I need you bad)
+
+
+Baby there's nothing I wouldn't do
+To get back what we had when love was true (oh oh oh)
+No lie I'd give up all I got
+Just so I could get back in my spot (Oh)
+
+
+
+
+When you want him so bad and
+You gotta get him back say, oh oh oh oh  (oh oh oh oh)
+'cause it won't get no better
+Two you are together say, oh oh oh oh (oh oh oh oh)
+If you believe in love and
+You can't give him up say, oh oh oh oh (oh oh oh oh)
+If there's nothing you wont do to get
+Back with your boo say Oh
+
+
+
+
 

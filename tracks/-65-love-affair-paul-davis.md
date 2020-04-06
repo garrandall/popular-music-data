@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -65-love-affair-paul-davis
+lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/65loveaffair.html
 name: '''65 Love Affair'
 rankings:
 - end_date: '1982-03-05'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+
+I was a car hop
+You were into be-bop
+You sang, do wop diddy wop diddy wop doo
+All of them changes you put me through
+
+If I could go back again
+Well, I know I'd never let you go
+Back with all of my friends
+To that wonderful
+
+'65 Love Affair
+We wasn't gettin' nowhere
+But we didn't care
+It was a crazy
+'65 Love Affair
+Rock 'n' roll was simple and clear
+Oh, I still can hear I can hear it baby
+
+Well I acted like a dum-dum
+You were bad with your pom-poms
+You said, ooh wah go team, ooh wah go
+Ooh-ee baby, I want you to know
+
+If I could go back in time
+Well, I know somehow you'd still be mine
+I wouldn't be so blind
+To that wonderful
+
+'65 Love Affair
+When rock 'n' roll was simple and clear
+Oh, I still can hear
+I can hear it baby
+
+Well, I tried to make you give in
+One night at the drive-in
+You said oh no baby, oh no woo
+All of them changes you put me through
+
+If I could go back in time
+Well, I know somehow you'd still be mine
+I wouldn't be so blind
+To that wonderful
+
+'65 Love Affair
+We wasn't gettin' nowhere
+But we didn't care
+It was a crazy
+'65 Love Affair
+Rock 'n' roll was simple and clear
+Oh, I still can hear I can hear it baby
+
+We sang, doo wop diddy wop diddy wop doo
+Doo wop diddy wop diddy wop doo...
+
+If I could go back again
+Well I know our love would never end
+Back with all of my friends
+To that wonderful '65 love affair...
+
+
 

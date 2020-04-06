@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-kut-klose
+lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/getuponit.html
 name: I Like
 rankings:
 - end_date: '1995-04-21'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
 ---
+
+I got something for the fellas this time around
+Lady's, won't you tell me your names
+Tabath, Avina and Lavan
+
+If you really, really want it
+All you got to do is get up on it
+If you really, really want it
+All you got to do is get up on it
+
+The time has come for us, ooh baby
+To get real busy baby, oh yes, it has, umm
+And you don't have to be afraid of our love, oh no
+'Cause it won't hurt you sugar
+Oh no, it won't, oo yeah, baby
+
+If you really, really want it
+All you got to do is get up on it
+If you really, really want it
+All you got to do is get up on it
+
+I like it girl when we can get real freaky baby
+Ooh yes, I do baby
+And I'm on my hands and knees
+You know I'm with you sugar
+Girl, I am with everything you want to do, sang
+
+If you really, really want it
+All you got to do is get up on it
+If you really, really want it
+All you got to do is get up on it
+
+Boy yeah, I know that this is it, a love
+'Cause I know that I'm giving you my love
+Love, love, a love that you cant resist, baby
+Sang, sang, bring it on
+
+If you really, really want it
+All you got to do is get up on it
+If you really, really want it
+All you got to do is get up on it
+
+Ho baby yeah
+I know that this is it, boy
+And I'm giving you my love
+Don't leave me baby, ho oh
+Yeah baby
+Oh boy, I know, I know, I know
+I know I'm giving you, I'm giving you all my love, baby
+Oh love, nothing can resist
+I wanna lift you up and down, oh baby
+I want you take me, take me, take your time
+I want you to take your time with me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-habit-to-break-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/hardhabittobreak.html
 name: Hard Habit To Break
 rankings:
 - end_date: '1984-08-10'
@@ -107,4 +108,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
 ---
+
+I guess I thought you'd be here forever
+Another illusion I chose to create
+You don't know what ya got until it's gone
+And I found out a little too late
+I was acting as if you were lucky to have me
+Doin' you a favor I hardly knew you were there
+But then you were gone and it all was wrong
+Had no idea how much I cared
+
+
+Now being without you
+Takes a lot of getting used to
+Should learn to live with it
+But I don't want to
+Being without you
+It's all a big mistake
+Instead of getting easier
+It's the hardest thing to take
+I'm addicted to ya babe
+You're a hard habit to break
+You found someone else you had every reason
+You know I can't blame you for runnin' to him
+Two people together but living alone
+I was spreading my love too thin
+After all of these years
+I'm still tryin' to shake it
+Doin' much better they say that it just takes time
+But deep in the night it's an endless fight
+I can't get ya out of my mind
+
+
+
+Being without you
+Takes a lot of getting used to
+Should learn to live with it
+I don't want to
+Being without
+Is all a big mistake
+Instead of getting any easier
+It's the hardest thing to take
+I'm addicted to you
+You're a hard habit to break
+
+
 

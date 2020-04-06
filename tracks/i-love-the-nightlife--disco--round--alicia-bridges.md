@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-the-nightlife--disco--round--alicia-bridges
+lyrics_url: https://www.azlyrics.com/lyrics/bronskibeat/ilovethenightlife.html
 name: I Love The Nightlife (Disco 'round)
 rankings:
 - end_date: '1978-07-14'
@@ -131,4 +132,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+
+Action
+Ohhh I, I love the nightlife,
+I got to boogie on the disco 'round, yea
+Oh, I love the night life,
+I got to boogie on the disco 'round, yea
+
+Please don't talk about love tonight
+Please don't talk about silly love
+Please don't talk about being true
+And all the problems we've been through
+
+Ah, please don't talk about all of the plans
+We had for fixin' this broken romance
+I want to go where the people dance
+I want some action
+I want to live!
+
+Action
+I got so much to give
+I want to give it
+I want to get some too
+
+Oh, I, Ohhh I, Oh
+I love the nightlife,
+I got to boogie on the disco 'round, yea
+Oh, I love the night life
+I got to boogie on the disco 'round, yea
+
+Please don't talk about love tonight
+Your sweet talking won't make it right
+Love and lies just bring me down
+When you've got women all over town.
+
+You can love them all and when you're through
+Maybe that'll make, huh, a man out of you
+I want go where the people dance
+I want some action
+I want to live
+
+Action
+I got so much to give
+I want to give it
+I want to get some too
+
+Oh, I, Ohhh I, Oh
+I love the nightlife,
+I got to boogie on the disco 'round, yea
+Oh, I love the night life
+I got to boogie on the disco 'round, yea
+
+Oh, I love the night life,
+I got to boogie on the disco 'round, oh yea
+Oh, I love the night life
+I got to boogie on the disco 'round, oh yea
+
+I love the night life
+I got to boogie on the disco 'round, oh yea
+Oh, I love the night life,
+I got to boogie on the disco 'round, oh yea
+
+Oh, I love the night life,
+I got to boogie on the disco 'round, oh yea
+Oh, I love the night life
+I got to boogie on the disco 'round, oh yea
+
+
 

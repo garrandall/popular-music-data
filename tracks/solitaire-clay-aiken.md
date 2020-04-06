@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: solitaire-clay-aiken
+lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/solitaire.html
 name: Solitaire
 rankings:
 - end_date: '2004-04-09'
@@ -39,4 +40,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
 ---
+
+There was a man, a lonely man
+Who lost his love through his indifference
+A heart that cared, that went unshared
+Until it died in his silence
+
+And Solitaire's the only game in town
+And every road that takes him, takes him down
+And by himself, it's easy to pretend
+He'll never love again
+
+And keeping to himself he plays the game
+Without her love it always ends the same
+While life goes on around him everywhere
+He's playing Solitaire
+
+Another day, a lonely day
+So much to say that goes unspoken
+And through the night, his sleepless nights
+His eyes are closed, his heart is broken
+
+And Solitaire's the only game in town
+And every road that takes him, takes him down
+And by himself it's easy to pretend
+She's coming back again
+
+And keeping to himself he plays the game
+Without her love it always ends the same
+While life goes on around him everywhere
+He's playing Solitaire
+
+A little hope, goes up in smoke
+Just how it goes, goes without saying
+Solitaireee
+And by himself it's easy to pretend 
+He'll never love again
+Ohhh
+
+And keeping to himself he plays the game
+Without her love it always ends the same
+While life goes on around him everywhere
+He's playing Solitaire
+Solitaire, solitaire
+
+
 

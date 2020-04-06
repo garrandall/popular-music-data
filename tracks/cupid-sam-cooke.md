@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cupid-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/cupid.html
 name: Cupid
 rankings:
 - end_date: '1961-06-11'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
 ---
+
+Cupid, draw back your bow
+And let your arrow go
+Straight to my lover's heart for me, for me
+Cupid, please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now, I don't mean to bother you
+But I'm in distress
+There's danger of me losing all of my happiness
+For I love a girl who doesn't know I exist
+And this you can fix
+
+So, Cupid, draw back your bow
+And let your arrow go
+Straight to my lover's heart for me, nobody but me
+Cupid, please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now, Cupid, if your arrow make her love strong for me
+I promise I will love her until eternity
+I know between the two of us her heart we can steal
+Help me if you will
+
+So, Cupid, draw back your bow
+And let your arrow go
+Straight to my lover's heart for me, nobody but me
+Cupid, please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now, Cupid
+Don't you hear me
+Calling you?
+I need you
+Cupid
+Help me
+I need you
+Cupid
+Don't fail me
+
+
 

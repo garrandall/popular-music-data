@@ -5,6 +5,7 @@ features:
 - Bounty Killer
 genres: []
 key: hey-baby-no-doubt-bounty-killer
+lyrics_url: https://www.azlyrics.com/lyrics/nodoubt/heybaby.html
 name: Hey Baby
 rankings:
 - end_date: '2001-12-14'
@@ -88,4 +89,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
 ---
+
+Iâm the kinda girl that hangs with the guys
+Like a fly on the wall with my secret eyes
+Takin it in, try to be feminine
+With my makeup bag watchin all the sin
+Misfit, I sit
+Lit up, wicked
+Everybody else surrounded by the girls
+With the tank tops and the flirty words
+
+Iâm just sippin on chamomile
+Watching boys and girls and their sex appeal
+With a stranger in the face who says he knows my mom
+And went to my high school
+
+
+All the boys say,
+Hey Baby, Hey Baby, Hey
+Girls Say, Girls Say,
+Hey Baby, Hey Baby, Hey
+Hey Baby Baby
+Hey Baby, Hey Baby, Hey
+Boys Say, Boys Say
+Hey Baby, Hey Baby, Hey
+All the boys get the girls in the back
+
+Iâm the one they feed upon
+Give a bit a star is born
+And if you're hot enough you'll get the pass
+And you can tell your friends how you made it back
+No matter what they say Iâm still the same
+Somehow everybody knows my name
+And all the girls wanna get with the boys
+And the boys really like it
+
+All the boys say,
+Hey Baby, Hey Baby, Hey
+Girls Say, Girls Say,
+Hey Baby, Hey Baby, Hey
+Hey Baby Baby
+Hey Baby, Hey Baby, Hey
+Boys Say, Boys Say
+Hey Baby, Hey Baby, Hey
+All the boys get the girls in the back
+
+
+Check it out, itâs Bounty Killer, and No Doubt
+
+Jump on the stage makes me goin crazy
+Afterwards myself and one of them gorgeous ladies
+There is no need to be actin shady
+Comon baby, hey hey baby
+
+
+When you rock your hips you know that it amaze me
+Got me off the hook and nothing else don't phase me
+Can you be my one and only sunshine lady
+If no, no maybe, Hey Baby
+
+
+Iâm just sippin on chamomile
+Watching boys and girls and their sex appeal
+With a stranger in the face who says he knows my mom
+And went to my high school
+
+
+
+
 

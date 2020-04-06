@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rich---sad-post-malone
+lyrics_url: https://www.azlyrics.com/lyrics/postmalone/richsad.html
 name: Rich & Sad
 rankings:
 - end_date: '2018-05-18'
@@ -31,4 +32,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
 ---
+
+Hundred thousand for the chain and now my drop (drop, drop)
+When I pull out the garage, I chop my top (top, top)
+Just like a fiend, when I start I cannot stop (whoa)
+I got, I got hella guap, look at me now (at me now)
+Ooh, covered in carats, ooh, mahogany cabinets
+Ooh, I ball like the Mavericks, ooh, stable and stallions
+Ooh, massive medallions, ooh, I finally had it
+Ooh, but then you just vanished, damn, I thought I was savage
+
+All this stuntin' couldn't satisfy my soul
+Got a hundred big places, but I'm still alone
+
+Ayy, I would throw it all away
+I just keep on wishin' that the money made you stay
+You ain't never cared about that bullshit anyway
+I just keep on wishin' that the money made you stay, ayy
+You know I would throw it all away
+I just keep on wishin' that the money made you stay
+Price went up, my price went up, we went our separate ways
+I just keep on wishin' that the money made you stay, ayy, ayy
+
+Buy me love, tried to buy me love
+Now I'm alone, Ice Box, Omarion (ooh)
+Plenty sluts grabbin' on my nuts (woah)
+Might have fucked, it was only lust (trust)
+I was livin' life, how could I have known? (could have known)
+Couldn't listen to advice 'cause I'm never wrong (oh)
+In the spotlight, but I'm on my own (oh)
+Now that you're gone (now that you're gone)
+
+All this stuntin' couldn't satisfy my soul
+Got a hundred big places, but I'm still alone 
+
+Ayy, I would throw it all away
+I just keep on wishin' that the money made you stay
+You ain't never cared about that bullshit anyway
+I just keep on wishin' that the money made you stay, ayy
+You know I would throw it all away
+I just keep on wishin' that the money made you stay
+Price went up, my price went up, we went our separate ways
+I just keep on wishin' that the money made you stay, ayy, ayy
+
+I don't even wanna go home
+In a big house all alone (alone)
+I don't even wanna go home (no, no, no)
+But I'ma try to call you on the phone
+Brrt
+
+I would throw it all away
+I just keep on wishin' that the money made you stay
+You ain't never cared about that bullshit anyway
+I just keep on wishin' that the money made you stay (made you stay) ayy
+You know I would throw it all away
+I just keep on wishin' that the money made you stay (made you stay)
+Price went up, my price went up, we went our separate ways (separate ways)
+I just keep on wishin' that the money made you stay (made you stay) ayy, ayy
+
+
 

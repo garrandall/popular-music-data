@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: uma-thurman-fall-out-boy
+lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/umathurman.html
 name: Uma Thurman
 rankings:
 - end_date: '2015-02-06'
@@ -115,4 +116,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
 ---
+
+I can move mountains
+I can work a miracle, work a miracle
+I'll keep you like an oath
+"May nothing but death do us part..."
+
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I canât get you out of my head
+
+The stench, the stench of summer sex
+And CK eternity, oh, hell, yes
+Divide me down to the smallest I can be
+Put your, put your v-v-venom in me
+
+I can move mountains
+I can work a miracle, work a miracle
+I'll keep you like an oath
+"May nothing but death do us part..."
+
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I canât get you out of my head
+
+The blood, the blood, the blood of the lamb
+Is worth two lions, but here I am
+And I slept in last nightâs clothes and tomorrowâs dreams
+But theyâre not quite what they seem
+
+I can move mountains
+I can work a miracle, work a miracle
+I'll keep you like an oath
+"May nothing but death do us part..."
+
+Youâll find your way
+And may death find you alive
+Take me down the line
+In Gem City we turned the tide
+Youâll find your way
+And may death find you alive
+Take me down the line
+In Gem City we turned the tide
+
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I canât get you out of my head
+
+I can move mountains
+I can work a miracle, work a miracle
+I'll keep you like an oath
+"May nothing but death do us part..."
+
+I can move mountains
+I can work a miracle, work a miracle
+I'll keep you like an oath
+"May nothing but death do us part..."
+
+
 

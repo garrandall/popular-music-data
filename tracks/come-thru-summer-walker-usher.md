@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: come-thru-summer-walker-usher
+lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/comethru.html
 name: Come Thru
 rankings:
 - end_date: '2019-10-25'
@@ -52,4 +53,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
 ---
+
+(We got London on the track)
+
+I shoulda known better
+Can't even pretend like I don't want it again
+On the brain all the time
+Thinking of all the things that we did
+
+You did something
+'Cause shit like this don't happen too often
+It's the way you put it down
+I don't want no one else around
+Got me takin' a step on the wild side
+Cuttin' all ties with them other guys
+Way you, way you, look in my eyes
+Lovin' me nice and slow
+
+You make me wanna come through
+Quarter after 2, just to put it down on you
+You make me wanna replay
+All of those things that you and me went through
+You make me wanna come through
+Quarter after 2, just to put it down on you
+You make me wanna replay
+All of those things that you and me went through
+
+Look at what you make me wanna do
+I'll drop all my niggas for you
+Got my feelings runnin' on a loop
+This ain't what I'm really used to
+
+Before anything happens between us
+Be sure you ten toes down before I pull out this car
+And the only thing that's coming beside me
+Out this situation is you waiting to get some more
+I told ya, I'ma take you places, I seen it in your face
+And I knew that you would say this, so how you wanna play this?
+Yeah, you got somebody, I been in this predicament
+Don't trip, creep discrete, that's just what we dealin' with
+
+Come through
+Quarter after 2, just to put it down on you
+You make me wanna replay
+All of those things that you and me went through
+You make me wanna come through
+Quarter after 2, just to put it down on you
+You make me wanna replay
+All of those things that you and me went through
+
+(You make wanna)
+Look at what you make me wanna do
+I'll drop all my niggas for you
+Got my feelings runnin' on a loop
+This ain't what I'm really used to
+(You make wanna)
+
+It ain't what you're used to
+But you'll do
+(You make wanna)
+
+New relationship too, this is what ya do
+Think about her, good Lord
+
+
 

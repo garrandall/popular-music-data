@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wham-bam--shang-a-lang--silver
+lyrics_url: https://www.azlyrics.com/lyrics/silver/whambamshangalang.html
 name: Wham Bam (Shang-A-Lang)
 rankings:
 - end_date: '1976-06-25'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-06'
 ---
+
+Starry nights, sunny days
+I always thought that love should be that way
+Then comes a time that you're ridden with doubt
+You've loved all you can, now you're all loved out
+
+Ooh, ooh, baby, we've been a long, long way
+And who's to say where we'll be tomorrow?
+Well, my heart says no but my mind says it's so
+That we gotta love, is it a love to stay?
+
+We got a wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+Wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+
+Looking at you, I wanted to say
+I think a little emotion goes a long, long way
+Careful, now, you don't get caught in your dreams
+Look out, baby, this is not what it seems
+
+Ooh, ooh, baby, you've been so good to me
+But please don't make it what it's not
+Well, I thought we agreed on what we need
+So, listen to me, I'll tell you what we've got
+
+We got a wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+Wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+
+I think you're seeing what I've been saying
+Because I hear you singing to the tune I'm playing
+Now that it's said and we both understand
+Let's say our goodbyes before it gets out of hand
+
+Bye bye, baby, I'd really like to stay
+But we'll remember the best time in our life
+
+We had a wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+Wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+
+Wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+Wham bam shang-a-lang
+And a sha-la-la-la-la-la thing
+
+
 

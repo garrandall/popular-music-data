@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady--you-bring-me-up--commodores
+lyrics_url: https://www.azlyrics.com/lyrics/commodores/ladyyoubringmeup.html
 name: Lady (You Bring Me Up)
 rankings:
 - end_date: '1981-06-26'
@@ -95,4 +96,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
 ---
+
+Lady, you bring me up when I'm down
+Maybe you're gonna change my life around
+
+You came to me when I was lonely 
+And no one cared
+You made me see that I was only 
+Just running scared
+
+I saw your face and something told me
+You were the one
+You smiled at me and now I see
+My life's begun
+
+Lady (Pretty lady), you bring me up when I'm down
+(Up when I'm down)
+Maybe you're gonna change my life around
+(Gonna change my life around, yeah)
+Lady, you brought me in from out the rain (Yeah)
+Maybe my life will never be the same
+
+Once I was filled with desperation
+A solitary man
+You gave me hope and inspiration
+Like only true love can
+
+Now I believe in what you're saying
+I'm ten feet tall
+This love don't need no explaining
+We've got it all
+
+Lady, you bring me up when I'm down (Up when I'm down)
+Maybe (Maybe) you're gonna change my life around
+
+Lady, you bring me up when I'm down (Up when I'm down)
+Maybe (Yeah) you're gonna change my life around
+(You're gonna change my life around)
+Lady (Pretty lady), you brought me in from out the rain
+Maybe my life will never be the same
+(It'll never be the same, yeah)
+Lady, you bring me up when I'm down (Up when I'm down)
+Maybe (Maybe) you're gonna change my life around
+(Yeah, yeah, yeah, lady)
+
+Lady, you bring me up when I'm down
+Maybe you're gonna change my life around
+
+Lady...
+
+
 

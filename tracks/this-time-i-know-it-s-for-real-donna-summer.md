@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-i-know-it-s-for-real-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/thistimeiknowitsforreal.html
 name: This Time I Know It's For Real
 rankings:
 - end_date: '1989-04-28'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
 ---
+
+What would I have to do
+To get you to notice me too
+Do I
+Stand in line
+One of a million
+Admiring eyes
+
+Walk a tightrope way up high
+Write your name across the sky
+
+I'm going crazy just to let you know
+You'd be amazed how much I love you so baby
+When I get my hands on you I won't let go
+This time I know it's for real
+
+Should I write or call your home
+Shout it out with a megaphone
+Radio, TV news
+Got to find a way
+To get my message to you
+
+To say I love you with a neon sign
+Anything to make you mine
+
+I'm going crazy just to let you know
+If I wait too long for you I might explode baby
+I've been around the block enough to know
+That this time I know it's for real
+
+Oh baby
+This time, this time, this time, this time
+Oh baby
+This time, this time
+
+Walk a tightrope way up high
+Write your name across the sky
+
+I'm going crazy just to let you know
+You'd be amazed how much I love you so baby
+When I get my hands on you I won't let go
+This time I know it's for real
+
+I'm going crazy just to let you know
+If I waited too long for you I might explode baby
+I've been around the block enough to know
+That this time I know it's for real
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shoot-for-the-moon-poco
+lyrics_url: https://www.azlyrics.com/lyrics/poco/shootforthemoon.html
 name: Shoot For The Moon
 rankings:
 - end_date: '1982-12-24'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+I hear tell it's far away
+And no one goes there now
+But if we set our sights you know
+We'll get there somehow
+
+Come on darlin' let's
+Take our chances we'll
+Take them all the way and ...
+Shoot for the moon
+
+Remember nights you blinked your eyes
+
+And the moon winked back at you
+Now it was not so distand then
+If your aim was true
+
+Let's throw our dreams together
+And seal it with a kiss
+There is no way we can miss...
+We'll shoot for the moon
+Shoot for the moon
+
+
 

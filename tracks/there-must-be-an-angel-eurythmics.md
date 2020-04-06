@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-must-be-an-angel-eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/celticwoman/theremustbeanangelplayingwithmyheart.html
 name: There Must Be An Angel
 rankings:
 - end_date: '1985-08-09'
@@ -51,4 +52,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+
+No one on Earth could feel like this
+I'm thrown and overblown with bliss
+There must be an Angel
+Playing with my heart
+
+I walk into an empty room
+And suddenly my heart goes boom
+It's an orchestra of Angels
+And they're playing with my heart, yeah
+
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+
+No one on Earth could feel like this
+I'm thrown and overblown with bliss
+There must be an Angel
+Playing with my heart
+
+And when I think that I'm alone
+It seems there's more of us at home 
+It's a multitude of Angels
+And they're playing with my heart
+
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+
+I must be hallucinating
+Watching Angels celebrating
+Could this be reactivating
+All my senses dislocating
+This must be a strange deception
+By celestial intervention
+Leaving me the recollection
+Of your heavenly connection
+
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+
+I walk into an empty room
+And suddenly my heart goes boom
+It's an orchestra of Angels
+They're playing with my heart
+
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+Must be talking to an Angel
+
+
 

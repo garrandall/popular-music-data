@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bleed-red-ronnie-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/ronniedunn/bleedred.html
 name: Bleed Red
 rankings:
 - end_date: '2011-03-04'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
 ---
+
+Let's say were sorry, before it's too late, give forgiveness a chance
+Turn the anger into water; let it slip through our hands
+We all bleed red, we all taste rain, all fall down, lose our way
+We all say words we regret, we all cry tears, we all bleed red
+
+If we're fighting, we're both losing; we're just wasting our time
+Because my scars, they are your scars and your world is mine
+You and I, we all bleed red, we all taste rain, all fall down, lose our way
+We all say words, we regret, we all cry tears, we all bleed red
+Sometimes we're strong, sometimes we're weak, sometimes we're hurt and it cuts deep
+We live this life, breath to breath, we're all the same; we all bleed red
+
+
+
+Let's say we're sorry...
+Before it's too late...
+
+We all bleed red, all taste rain, all fall down, lose our way
+We all say words we regret, we all cry tears we all bleed red
+Sometimes we're strong, sometimes we're weak; sometimes we're hurt
+It cuts deep; we live this life breath to breath; we're all the same
+We all bleed r-e-e-e-d-d-d
+
+
 

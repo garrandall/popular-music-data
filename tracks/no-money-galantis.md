@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-money-galantis
+lyrics_url: https://www.azlyrics.com/lyrics/galantis/nomoney.html
 name: No Money
 rankings:
 - end_date: '2016-08-05'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
 ---
+
+Sorry I ain't got no money I'm not trying to be funny but I left it all at home today
+You can call me what you wanna I ain't giving you a dollar this time I ain't gonna run away
+You might knock me down, you might knock me down, but I will get back up again
+You can call it how you wanna I ain't giving you a dollar this time I ain't gonna run away (run away, run away)
+
+This time, this time, this time
+This time I ain't gonna run, run, run, run
+Not this time, not this time
+This time I ain't gonna run, run, run, run
+Not this time, not this time
+Not this time, not this time (time)
+
+Sorry I ain't got no money I'm not trying to be funny but I left it all at home today
+You can call me what you wanna I ain't giving you a dollar this time I ain't gonna run away
+You might knock me down, you might knock me down, but I will get back up again
+You can call it how you wanna I ain't giving you a dollar this time I ain't gonna run away, run away, run away
+
+This time, this time
+This time, this time I ain't gonna run, run, run, run...
+Not this time, not this time
+This time I ain't gonna run, run, run, run
+Not this time, not this time
+Not this time, not this time
+Not this time
+
+
 

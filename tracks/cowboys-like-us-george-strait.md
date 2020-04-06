@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cowboys-like-us-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/cowboyslikeus.html
 name: Cowboys Like Us
 rankings:
 - end_date: '2003-10-10'
@@ -83,4 +84,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
 ---
+
+I take off time to time
+With those crazy friends of mine
+Head out on steel horses
+With wheels and we ride
+
+We burn up that road to old Mexico
+Blend in with the desert
+Just we amigos
+And we roll
+
+
+Cowboys like us sure do have fun
+Racin' the wind, chasin' the sun
+Take the long way around back to square one
+Today we're just outlaws out on the run
+There'll be no regrets, no worries and such
+For cowboys like us
+
+We talk about livin', babies, and women
+All that we've lost and all we've been givin'
+We sing about true love, lie about things we ain't done
+Drink one more cold one, come mornin' get up
+And we roll
+
+
+
+Cowboys like us
+
+
 

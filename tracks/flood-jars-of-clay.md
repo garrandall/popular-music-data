@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flood-jars-of-clay
+lyrics_url: https://www.azlyrics.com/lyrics/jarsofclay/flood.html
 name: Flood
 rankings:
 - end_date: '1996-05-24'
@@ -83,4 +84,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
 ---
+
+Rain, rain on my face
+It hasn't stopped raining for days
+My world is a flood
+Slowly I become one with the mud
+
+
+
+But if I can't swim after forty days
+and my mind is crushed by the crashing waves
+Lift me up so high that I cannot fall
+Lift me, oh
+Lift me up - when I'm falling
+Lift me up - I'm weak and I'm dying
+Lift me up - I need you to hold me
+Lift me up - keep me from drowning again
+
+Downpour on my soul
+Splashing in the ocean, I'm losing control
+Dark sky all around
+I can't feel my feet touching the ground
+
+
+
+Calm the storms that drench my eyes
+And dry the streams still flowing
+Casting down all the waves of sin
+And guilt that overthrow me
+
+
+
+Lift me up - when I'm falling
+Lift me up - I'm weak and I'm dying
+Lift me up - I need you to hold me
+Lift me up - keep me from drowning again
+
+
 

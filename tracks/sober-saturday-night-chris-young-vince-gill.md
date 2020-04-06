@@ -5,6 +5,7 @@ features:
 - Vince Gill
 genres: []
 key: sober-saturday-night-chris-young-vince-gill
+lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/sobersaturdaynight.html
 name: Sober Saturday Night
 rankings:
 - end_date: '2017-01-27'
@@ -52,4 +53,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
 ---
+
+I feel terrible, sunlight's hurting my eyes. 
+So I pull the shades and I make my place as black as night 
+I feel miserable, and I'm missing you and me. 
+Another Sunday morning all alone underneath these sheets. 
+
+No, I'm not hungover it's true, but I'm still not over you. 
+All messed up. All strung out. I was sitting at home breaking down.
+Not out there getting high underneath some neon lights. 
+Ain't no whiskey strong enough to make things right.
+I'm just getting over another sober Saturday night. 
+
+Besides the pain. I don't feel a thing.
+When my buddies call me up I just let it ring. 
+
+No, I'm not hungover it's true, but I'm still not over you. 
+All messed up. All strung out. I was sitting at home breaking down.
+Not out there getting high underneath some neon lights. 
+Ain't no whiskey strong enough to make things right.
+I'm just getting over another sober Saturday night. 
+
+No, I'm not out there getting high underneath some neon lights. 
+Ain't no whiskey strong enough to make things right.
+I'm just getting over another sober Saturday night.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-is-love-josh-turner
+lyrics_url: https://www.azlyrics.com/lyrics/joshturner/timeislove.html
 name: Time Is Love
 rankings:
 - end_date: '2012-04-20'
@@ -107,4 +108,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
 ---
+
+I know I gotta put in the hours,
+Make the money while the sunlight shines
+But anything I gotta get done,
+It can get done some other time
+
+Time is love, gotta run,
+Love to hang longer,
+But I got someone who waits,
+Waits for me and right now
+She's where I need to be,
+Time is love, gotta run
+
+I only get so many minutes,
+Don't wanna spend 'em all on the clock
+In the time that we spent talkin',
+How many kisses have I lost?
+
+Time Is love, gotta run,
+Love to hang longer,
+But I got someone who waits,
+Waits for me and right now
+She's where I need to be,
+Time is love, gotta run.
+
+Gotta fly
+Fly
+Before one more moment
+Gets by...
+
+Time Is love, gotta run,
+Love to hang longer,
+But I got someone who waits,
+Waits for me and right now
+She's where I need to be
+
+Time is love, gotta run,
+Love to hang longer,
+But I got someone who waits,
+Waits for me and right now
+She's where I need to be,
+Time is love, gotta run.
+
+Time is Love, gotta run...
+
+
 

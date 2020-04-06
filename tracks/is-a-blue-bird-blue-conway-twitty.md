@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-a-blue-bird-blue-conway-twitty
+lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/isabluebirdblue.html
 name: Is A Blue Bird Blue
 rankings:
 - end_date: '1960-06-19'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
 ---
+
+Well, me and my girl went out the other night
+Down lover's lane we were walkin'
+She said, "Aw honey child, do you love me?"
+Right away I started talkin',
+"Is a blue bird blue? Has a cat got a tail?
+Mmmm, if a blue bird's blue, well then honey, I love you."
+
+Well. I held her close and kissed her
+Then I looked in those big green eyes
+She said, "I hear boy that you love me!'
+I said, "I wouldn't be at all surprised.
+Is a blue bird blue? Can a big wheel roll?
+Mmmm, if a blue bird's blue, then honey, I love you."
+
+Well, she finally believed my story
+Said, "Baby I understand.
+Well, now I'm gonna be your little lovin' girl
+And you'll be my big lovin' man.
+Is a blue bird blue? Ahh, has a bear got hair?
+Mmmm, if a blue bird's blue, well honey, I love you."
+
+Ahhh, is a blue bird blue, baby?
+Ah, tell me honey, has a bear got hair?
+Oooh, can a big wheel roll?..
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-in-the-clowns-judy-collins
+lyrics_url: https://www.azlyrics.com/lyrics/judycollins/sendintheclowns.html
 name: Send In The Clowns
 rankings:
 - end_date: '1975-06-27'
@@ -115,4 +116,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+
+Isn't it rich? 
+Are we a pair? 
+Me here at last on the ground, 
+You in mid-air.. 
+Where are the clowns? 
+
+Isn't it bliss? 
+Don't you approve? 
+One who keeps tearing around, 
+One who can't move... 
+Where are the clowns? 
+Send in the clowns. 
+
+Just when I'd stopped opening doors, 
+Finally knowing the one that I wanted was yours. 
+Making my entrance again with my usual flair 
+Sure of my lines... 
+No one is there. 
+
+Don't you love farce? 
+My fault, I fear. 
+I thought that you'd want what I want... 
+Sorry, my dear! 
+And where are the clowns 
+Send in the clowns 
+Don't bother, they're here. 
+
+Isn't it rich? 
+Isn't it queer? 
+Losing my timing this late in my career. 
+And where are the clowns? 
+There ought to be clowns... 
+Well, maybe next year.
+
+
 

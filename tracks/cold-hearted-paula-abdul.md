@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-hearted-paula-abdul
+lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/coldhearted.html
 name: Cold Hearted
 rankings:
 - end_date: '1989-06-30'
@@ -91,4 +92,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
 ---
+
+He's a cold-hearted snake (girl)
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play (girl)
+He don't play by rules
+Girl, don't play the fool now
+
+You're the one givin' up the love
+Anytime he needs it
+But you turn your back and then he's off and runnin' with the crowd
+You're the one to sacrifice
+Anything to please him
+Do you really think he thinks about you when he's out?
+
+He's a cold-hearted snake (girl)
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play (girl)
+He don't play by rules
+Girl, don't play the fool now
+
+It was only late last night
+He was out there sneakin'
+Then he called you up to check
+That you were waiting by the phone
+All the world's a candy store
+He's been trick or treatin'
+When it comes to true love girl
+With him there's no one home
+
+He's a cold-hearted snake (girl)
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play (girl)
+He don't play by rules
+Girl, don't play the fool now
+
+You could find somebody better, girl
+He could only make you cry
+You deserve somebody better, girl
+He's c-cold as ice
+
+He's cold as ice
+He's cold as ice
+
+Stay away from him, girl
+
+Cold-hearted
+Cold-hearted snake
+Cold-hearted
+Cold-hearted snake
+
+He's a cold-hearted snake
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play
+He don't play by rules
+Girl, don't play the fool
+
+Look into his eyes
+He's been tellin' lies
+He don't play by rules
+Girl, don't play the fool
+
+He's a cold-hearted snake
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play
+He don't play by rules
+Girl, don't play the fool
+
+He's a cold-hearted snake
+Look into his eyes
+He's been tellin' lies
+He's a lover boy at play
+
+
 

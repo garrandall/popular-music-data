@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-magic-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/strangemagic.html
 name: Strange Magic
 rankings:
 - end_date: '1976-03-19'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
 ---
+
+You're sailing softly through the sun
+in a broken stone age dawn.
+You fly so high.
+
+I get a strange magic,
+oh, what a strange magic,
+oh, it's a strange magic.
+Got a strange magic,
+got a strange magic.
+
+You're walking meadows in my mind,
+making waves across my time,
+oh no, oh no.
+
+I get a strange magic,
+oh, what a strange magic,
+oh, it's a strange magic.
+Got a strange magic,
+got a strange magic.
+
+Oh, I'm never gonna be the same again,
+now I've seen the way it's got to end,
+sweet dream, sweet dream.
+
+Strange magic,
+oh, what a strange magic,
+oh, it's a strange magic.
+Got a strange magic,
+got a strange magic.
+
+It's magic, it's magic, it's magic.
+
+Strange magic,
+oh, what a strange magic,
+oh, it's a strange magic.
+Got a strange magic.
+
+Strange magic STRANGE MAGIC
+oh, what a strange magic STRANGE MAGIC
+oh, it's a strange magic.
+Got a strange magic.
+
+Strange magic STRANGE MAGIC
+oh, what a strange magic STRANGE MAGIC
+oh, it's a strange magic.
+Got a strange magic,
+got a strange magic,
+you know I got a strange magic,
+yeah, I got a strange magic,
+oo-o-o-oo, strange magic. (fade)
+
+
 

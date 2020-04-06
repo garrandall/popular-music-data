@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-my-friends-say-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/allmyfriendssay.html
 name: All My Friends Say
 rankings:
 - end_date: '2007-08-24'
@@ -59,4 +60,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
 ---
+
+I got smoke in my hair
+My clothes thrown everywhere
+Woke up in my rocking chair
+Holding a beer in my hand
+Sporting a neon tan
+
+My stereo cranked up
+I can't find my truck
+How'd I get home from the club
+Ain't got a clue what went down
+So I started calling around
+
+And all my friends say
+I started shooting doubles
+When you walked in
+All my friends say
+I went a little crazy
+Seeing you with him
+You know I don't remember a thing
+But they say I sure was raising some cain
+I was a rock star, party hard,
+Getting over you comeback kid
+Yay I must have did
+What all my friends say
+Yeah, Yeah, Yeah
+
+I found my billfold
+I cried oh no no
+Good time Charlie got me now I'm broke
+But it was worth acting like a fool
+Yeah girl I must have really showed you
+
+Cause all my friends say
+I started shooting doubles
+When you walked in
+All my friends say
+I went a little crazy
+Seeing you with him
+You know I don't remember a thing
+But they say I sure was raising some cain
+I was a rock star, party hard,
+Getting over you comeback kid
+Yay I must have did
+What all my friends say
+Yeah, Yeah, Yeah
+
+I was Elvis rocking on the bar
+Working the crowd pouring out my heart
+
+And all my friends say
+I started shooting doubles
+When you walked in
+All my friends say
+I went a little crazy
+Seeing you with him
+You know I don't remember a thing
+But they say I sure was raising some cain
+I was a rock star, party hard,
+Getting over you comeback kid
+Yay I must have did
+What all my friends say
+Yeah, Yeah, Yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: greatest-love-of-all-whitney-houston
+lyrics_url: https://www.azlyrics.com/lyrics/blow/greatestloveofall.html
 name: Greatest Love Of All
 rankings:
 - end_date: '1986-04-04'
@@ -87,4 +88,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
 ---
+
+I believe the children are our future
+Teach them well and let them lead the way
+Show them all the beauty they possess inside
+Give them a sense of pride to make it easier
+Let the children's laughter remind us how we used to be
+
+Everybody's searching for a hero
+People need someone to look up to
+I never found anyone who fulfilled my needs
+A lonely place to be
+So I learned to depend on me
+
+I decided long ago, never to walk in anyone's shadow
+If I fail, if I succeed
+At least I'll live as I believe
+No matter what they take from me
+They can't take away my dignity
+
+Because the greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+I found the greatest love of all
+Inside
+
+I believe the children are our future
+Teach them well and let them lead the way
+Show them all the beauty they possess inside
+Give them a sense of pride to make it easier
+Let the children's laughter remind us how we used to be
+
+Everybody's searching for a hero
+People need someone to look up to
+I never found anyone who fulfilled my needs
+A lonely place to be
+So I learned to depend on me
+
+I decided long ago, never to walk in anyone's shadow
+If I fail, if I succeed
+At least I'll live as I believe
+No matter what they take from me
+They can't take away my dignity
+
+Because the greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+I found the greatest love of all
+Inside
+
+And if, by chance, that special place
+That you've been dreaming of
+Leads you to a lonely place
+Find your strength in love
+In love
+
+And if, by chance, that special place
+That you've been dreaming of
+Leads you to a lonely place
+Find your strength in love
+In love
+In love
+In love
+In love
+
+Because the greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+I found the greatest love of all
+Inside of me
+
+
 

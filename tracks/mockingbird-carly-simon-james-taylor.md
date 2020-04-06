@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: mockingbird-carly-simon-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/mockingbird.html
 name: Mockingbird
 rankings:
 - end_date: '1974-02-08'
@@ -72,4 +73,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
 ---
+
+Everybody have you heard
+He's gonna buy me a mockingbird
+And if that mockingbird don't sing
+He's gonna buy me a diamond ring
+And if that diamond ring won't shine
+He's gonna surely break this heart of mine
+And that's why I keep on tellin' everybody.....
+
+Hear me now and understand
+He's gonna find me some piece of mind
+And if that piece of mind won't stay
+I'm gonna find myself a better way
+And if that better way ain't so
+I'll ride with the tide and go with the flow
+And that's why I keep on shoutin' in your ear.....
+
+Everybody have you heard
+She's gonna buy me a mockingbird
+And if that mockingbird don't sing
+She's gonna buy me a diamond ring
+And if that diamond ring won't shine
+Gonna surely break this heart of mine
+And that's the reason why I keep on tellin' everybody...
+
+Listen now and understand
+She's gonna find me some piece of mind
+And if that piece of mind won't stay
+I'm gonna get myself a better way
+I might rise above, I might go below
+Ride with the tide and go with the flow
+And that's the reason why I keep on shouting in your ear...
+
+
 

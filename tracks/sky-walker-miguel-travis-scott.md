@@ -5,6 +5,7 @@ features:
 - Travis Scott
 genres: []
 key: sky-walker-miguel-travis-scott
+lyrics_url: https://www.azlyrics.com/lyrics/miguel/skywalker.html
 name: Sky Walker
 rankings:
 - end_date: '2017-09-29'
@@ -112,4 +113,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
 ---
+
+
+(Quick to dead the bull like a matador
+Quick to dead the bull like a matador
+Bull, bull, bull like a matador
+Quick to dead the bull like a matador)
+
+Cap and a stem, catch a wave on us (splish)
+Take a shot, make a friend, just enjoy the moment
+I'm Luke Skywalkin' on these haters (splish)
+Celebrate every day like a birthday
+Good things come to those that wait up (splish, hey)
+But don't wait to jump in too long
+Don't sleep, you gotta stay up (splish)
+Don't, don't sleep, you gotta stay up
+Nonchalant
+
+I'm outstandin' so I stand out (stand out)
+Got more babes than a bathhouse (yah)
+Top Gun, on my Tom Cruise
+I play for keeps and I don't lose (no)
+You're gonna love it 'cause you're cool as a breeze (cool as a breeze)
+So pick a poison, yeah I got what you need (got what you need)
+Nonchalant, got the green on rotation all night
+We gon' keep it psychedelic like a
+
+Cap and a stem, catch a wave on us (splish)
+Take a shot, make a friend, just enjoy the moment
+I'm Luke Skywalkin' on these haters (splish)
+Celebrate every day like a birthday
+Good things come to those that wait up (splish, hey)
+But don't wait to jump in too long
+Don't sleep, you gotta stay up (splish)
+Don't, don't sleep, you gotta stay up
+Yeah, yeah
+
+
+Wildin' on my haters (yah, hey)
+In my 23's, havin' a Jordan moment
+Wildin' with the paper (it's lit)
+Ice out on my chain imma (imma make the diamond sing, yeah)
+I just popped two, I'll be stayin' up (yeah, yeah)
+Hangin' with the gang, that shit dangerous, yah
+I can fuck you with my chain, them shits tangle up, yah (yeah)
+Come and catch a wave, take one out my cup, yah (yeah)
+Damn near OD'd (OD'd)
+Damn the police, woah (hey)
+Wildin' in SV, yeah (hey)
+Movin' up your street, yeah (straight up)
+When we on the creek
+And bring sand to the beach (alright)
+Ain't no day, ain't no night
+Made no plans, ain't no sleep
+Yeah, yeah
+
+
+Cap and a stem, catch a wave on us (splish)
+Take a shot, make a friend, just enjoy the moment
+I'm Luke Skywalkin' on these haters (splish)
+Celebrate every day like a birthday
+Good things come to those that wait up (splish, hey)
+But don't wait to jump in too long
+Don't sleep, you gotta stay up (splish)
+Don't, don't sleep, you gotta stay up
+
+I was good then, but I'm better now (hey)
+All gains I've been wrappin' up (ahh, hey)
+Quick to dead the bull like a matador (hey)
+Right now I'm higher up than Canada (ahh, hey)
+Oh
+
+Cap and a stem, catch a wave on us (splish)
+Take a shot, make a friend, just enjoy the moment
+I'm Luke Skywalkin' on these haters (splish)
+Celebrate every day like a birthday
+Good things come to those that wait up (splish, hey)
+But don't wait to jump in too long
+Don't sleep, you gotta stay up (splish)
+Don't, don't sleep, you gotta stay up
+Oh
+
+(Quick to dead the bull like a matador)
+
+Got the babes lookin' at me like it's dinnertime
+I know she vegan, but she want the steak tonight, yah
+And I smile like a saint with a sinner's mind
+Baby roll it, lick it, love it, daddy blow your mind
+
+Shotgunnin', takin' shots now
+Conversation flowin'
+Lift off, we in the clouds now
+Laughin' in the moments
+First you put the work in till it works out
+Work it out 'til it's turnt out, yah
+
+
 

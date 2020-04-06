@@ -5,6 +5,7 @@ features:
 - Nicki Minaj
 genres: []
 key: nice-to-meet-ya-meghan-trainor-nicki-minaj
+lyrics_url: https://www.azlyrics.com/lyrics/meghantrainor/nicetomeetya.html
 name: Nice To Meet Ya
 rankings:
 - end_date: '2020-02-21'
@@ -12,4 +13,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
 ---
+
+
+(Nice to meet ya, ooh) mmh
+(Nice to meet ya, ooh)
+(Nice to meet ya) Meghan Trainor
+(Nice to meet ya) let's go
+
+
+I used my makeup to hide (hide)
+I'm tellin' you, there ain't nothin' I haven't tried (tried)
+Changed my hair but I couldn't change up my mind (my mind, mind, mind)
+You know I been tryna work it (yeah, yeah)
+You know ain't nobody perfect (yeah, yeah)
+
+Go ahead, go talk about me (me)
+You don't know the half of the shit that I've seen (I've seen)
+Go ahead and tell them whatever you heard (whatchu you heard)
+I look different on the surface (yeah, yeah)
+You know ain't nobody perfect (yeah, yeah)
+
+I am blessed by the heavens, someone's got a hold on me
+Sweet, but I get rough, just what I wanna be
+What I wanna be, just what I wanna be
+I don't know you
+
+But I am blessed by the heavens, someone's got a hold on me
+Sweet, but I get rough, just what I wanna be
+What I wanna be, just what I wanna be
+I don't know you, but I'm just what I wanna be
+
+(Nice to meet ya, hey)
+(Nice to meet ya)
+(Nice to meet ya)
+(Nice to meet ya)
+
+I used to care way too much (ah-ah)
+Filter myself, I thought I wasn't enough (enough)
+Now I'm givin' myself nothing but love (but love, love, love)
+'Cause I know that I am worth it (yeah, yeah)
+I know ain't nobody perfect (yeah, yeah)
+
+I am blessed by the heavens, someone's got a hold on me
+Sweet, but I get rough, just what I wanna be
+What I wanna be, just what I wanna be
+I don't know you
+
+But I am blessed by the heavens, someone's got a hold on me
+Sweet, but I get rough, just what I wanna be
+What I wanna be, just what I wanna be
+I don't know you, but I'm just what I wanna be
+
+(Nice to meet ya, hey)
+(Nice to meet ya)
+(Nice to meet ya)
+(Nice to meet ya)
+
+
+Prrrt!
+Who you gon' call when you ain't got theâ uh
+Me and Meghan run up in the spot likeâ uh
+I pop off 'cause I am the reignin' champ
+Please, no comparisons, 'cause you know they can't
+Had to cut the grass, there was snakes in the camp
+They know I'm the billy, I be laughin'
+Ha, ha, ha-ha, ha, ha-ha, ha
+One minute I'm nice, the next a monster (prrrt)
+My guesthouse alone cost like three tickets
+And that Rolls truck and that paint job real wicked
+Used to dumb, dumb myself down for these chickens
+Now when dem, dem talk, I smile it be crickets
+
+Boom
+I turn every head when I walk in the room
+I'm pretty in real life, hit my pics with the zoom
+A ten when they rate it like Tune
+Elevator to the penthouse, we ain't stoppin' anytime soon
+
+
+Blessed by the heavens, someone's got a hold on me
+Sweet, but I get rough, just what I wanna be
+What I wanna be, just what I wanna be
+I don't know you, but I'm just what I wanna be
+
+(Nice to meet ya) oh-oh-oh
+(Nice to meet ya) oh-oh-oh-oh
+(Nice to meet ya) oh-oh-oh-oh
+(Nice to meet ya)
+
+
 

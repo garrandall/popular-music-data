@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-god-it-s-friday-love-and-kisses
+lyrics_url: https://www.azlyrics.com/lyrics/blainelarsen/iminlovewithamarriedwoman.html
 name: Thank God It's Friday
 rankings:
 - end_date: '1978-05-12'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+
+We sit alone in the darkest corner
+Waitress comes and takes our order
+And looks at us so suspiciously
+It's plain to see that we're lovers
+Trying to be alone with each other
+It's so hard for us to break free
+She whispers softly, "I love you"
+This ain't your average rendezvous
+
+Cause I'm in love with a married woman
+And I don't care, I don't care who knows it
+Yes, I'm in love with a married woman
+And on her left hand there's a wedding band
+She wears faithfully
+And I thank God she's married to me
+
+No cheap hotel where we'll check-in
+No other lives we'll be wrecking with alibis
+To hide a cheaters kiss
+Cause if there's lipstick on my collar
+You can bet your bottom dollar
+It's the color she wears on nights like this
+And every Friday here at five
+We try to keep the fire alive
+
+Cause I'm in love with a married woman
+And I don't care, I don't care who knows it
+Yes, I'm in love with a married woman
+And on her left hand there's a wedding band
+She wears faithfully
+And I thank God, I thank God
+I thank God she's married to me
+
+
 

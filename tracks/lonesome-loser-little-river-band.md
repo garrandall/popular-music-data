@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonesome-loser-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/lonesomeloser.html
 name: Lonesome Loser
 rankings:
 - end_date: '1979-07-27'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
 ---
+
+Have you heard about the lonesome loser
+Beaten by the queen of hearts every time
+Have you heard about the lonesome loser
+He's a loser, but he still keeps on tryin'
+
+Oohoohooh .... oooh ....
+
+Sit down, take a look at yourself
+Don't you want to be somebody
+Someday somebody's gonna see inside
+You have to face up, you can't run and hide
+
+Have you heard about the lonesome loser
+Beaten by the queen of hearts every time
+Have you heard about the lonesome loser
+He's a loser, but he still keeps on tryin'
+
+Unlucky in love, least that's what they say
+He lost his head and he gambled his heart away
+He still keeps searching though there's nothing left
+Staked his heart and lost, now he has to pay the cost.
+
+Have you heard about the lonesome loser
+Beaten by the queen of hearts every time
+Have you heard about the lonesome loser
+He's a loser, but he still keeps on tryin'
+
+"It's okay", he smiles and says
+Though this loneliness is driving him crazy,
+He don't show what goes on in his head,
+but if you watch very close you'll see it all
+
+Sit down, take a look at yourself
+Don't you want to be somebody
+Someday somebody's gonna see inside
+You have to face up, you can't run and hide
+
+Have you heard about the lonesome loser
+Beaten by the queen of hearts every time
+Have you heard about the lonesome loser
+He's a loser, but he still keeps on tryin'
+
+Have you heard about the lonesome loser
+Have you heard about the lonesome loser
+Have you heard about the lonesome loser
+Now tell me have you heard about the lonesome loser
+
+
 

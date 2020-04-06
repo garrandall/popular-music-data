@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-love-juice-newton
+lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/alittlelove.html
 name: A Little Love
 rankings:
 - end_date: '1984-06-08'
@@ -47,4 +48,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
 ---
+
+You say a little love just isn't
+Enough for you
+Sometimes I feel lucky just to get a little
+Coming through
+
+I weigh the differences everyday
+Sometimes I feel like running away
+
+A little love here makes me want to stay
+A little love there'll keep me from running away
+A little love here, a little love there
+Give a little, get a little, just a little love
+A little love here, a little love there
+Give a little, get a little, just a little love
+
+Well, you thought you had it beat
+But it didn't seem to last that long
+Now you're back out on the street
+But you've got to keep hanging on
+
+I weigh the differences everyday
+Sometimes I feel like running away
+
+A little love here makes me want to stay
+A little love there'll keep me from running away
+A little love here, a little love there
+Give a little, get a little, just a little love
+A little love here, a little love there
+Give a little, get a little, just a little love
+
+Well, I know it's hard, my friend
+But the hurt can heal and your heart will mend
+And this world keeps dragging you down
+But love can bring you round and round
+And round and round again
+
+I weigh the differences everyday
+Sometimes I feel like running
+Sometimes I feel like running away
+
+A little love here makes me want to stay
+(Just a little love)
+A little love there'll keep me from running away
+A little love here, a little love there
+Give a little, get a little, just a little love
+
+A little love here, a little love there
+Give a little, get a little, just a little love
+A little love, a little little love there
+Give a little, get a little, just a little love
+
+A little love here, a little love there
+Give a little, get a little, just a little love
+A little love, a little little love there
+Give a little, get a little, just a little love
+
+I get a little love, a little love there
+Give a little, get a little, just a little love
+A little love here, a little love there
+Give a little, get a little, just a little love
+
+
 

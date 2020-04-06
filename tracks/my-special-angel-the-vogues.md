@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-special-angel-the-vogues
+lyrics_url: https://www.azlyrics.com/lyrics/vogues/myspecialangel.html
 name: My Special Angel
 rankings:
 - end_date: '1968-09-13'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+
+You are my special angel
+Sent from up above
+The lord smiled down on me
+And sent an angel to love
+
+You are my special angel
+Right from paradise
+I know that your an angel
+Heaven is in your eyes
+
+A smile from your lips
+Brings the summer sunshine
+The tears from your eyes
+Brings the rain
+I feel your touch
+You're warm embrace
+And I'm in heaven again
+
+You are my special angel
+Through eternity
+I'll have my special angel
+Here to watch over me
+
+You are my special angel
+Through eternity
+I'll have my special angel
+Here to watch over me
+Here to watch over me
+
+Angel, angel, angel
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fortunate-maxwell
+lyrics_url: https://www.azlyrics.com/lyrics/maxwell/fortunate.html
 name: Fortunate
 rankings:
 - end_date: '1999-04-16'
@@ -107,4 +108,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-25'
 ---
+
+
+
+Never seen a sun shine like this 
+Never seen the moon glow like this 
+Never seen the waterfalls like this 
+Never seen the lights off like this 
+Never dug anyone like this 
+Never had tasty lips to kiss 
+Never had someone to miss 
+Never wrote a song quite like this 
+
+
+
+Fortunate to have you girl, 
+I'm so glad you're in my world, 
+Just as sure as the sky is blue, 
+I bless the day that I found you. 
+
+
+
+Never had room service all night 
+Never took a trip first class flight 
+Never had a love affair so tight 
+I've never felt a feeling so right 
+Never seen a winter so white 
+Never had words to recite 
+Never had a flame to ignite 
+And I never sang a song with all my might. 
+
+
+
+Silence child hope you hear 
+I'm callin out to your body 
+Baby you know just what to do 
+Close the door no interlude 
+
+
+
+
 

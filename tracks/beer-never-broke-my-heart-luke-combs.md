@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beer-never-broke-my-heart-luke-combs
+lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/beerneverbrokemyheart.html
 name: Beer Never Broke My Heart
 rankings:
 - end_date: '2019-05-24'
@@ -91,4 +92,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
 ---
+
+I've had a largemouth bass bust my line
+A couple beautiful girls tell me goodbye
+Trucks break down, dogs run off
+Politicians lie, been fired by the boss
+
+It takes one hand to count the things I can count on
+No, there ain't much, man, that ain't never let me down
+
+Long neck ice cold beer never broke my heart
+Like diamond rings and football teams have torn this boy apart
+Like a neon dream, it just dawned on me, that bars and this guitar
+And long neck ice cold beer never broke my heart
+
+She was a Carolina blue jean baby
+Fire in her eyes that drove me crazy
+It was red taillights when she left town
+If I didn't know then, I sure know now
+
+But long neck ice cold beer never broke my heart
+Like diamond rings and football teams have torn this boy apart
+Like a neon dream, it just dawned on me, that bars and this guitar
+And long neck ice cold beer never broke my heart
+
+It takes one hand to count the things I can count on
+But I got one hand that's gripping down on a cold one
+
+'Cause long neck ice cold beer never broke my heart
+Like diamond rings and football teams have torn this boy apart
+Like a neon dream, it just dawned on me, that bars and this guitar
+And long neck ice cold beer never broke my heart, no
+It never broke my heart
+
+
 

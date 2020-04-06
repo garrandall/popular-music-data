@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: automatic-miranda-lambert
+lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/automatic.html
 name: Automatic
 rankings:
 - end_date: '2014-03-07'
@@ -83,4 +84,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-07-12'
 ---
+
+Quarter in a payphone
+Drying laundry on the line
+Watching Sun Tea in the window
+Pocket watch for tellin' time
+Seems like only yesterday I'd get a blank cassette
+Record the country countdown 'cause I couldn't buy it yet
+
+If we drove all the way to Dallas just to buy an Easter dress
+Weâd take along a Rand McNally, stand in line to pay for gas
+God knows that shifting gears ainât what it used to be
+I learned to drive that 55 just like a queen, three on a tree
+
+Hey, whatever happened to waitin' your turn
+Doing it all by hand,
+'Cause when everything is handed to you
+It's only worth as much as the time put in
+It all just seemed so good the way we had it
+Back before everything became automatic
+
+If you had something to say
+You'd write it on a piece of paper
+Then you'd put a stamp on it
+And they'd get it three days later
+Boys would call the girls
+And girls would turn them down
+Staying married was the only way to work your problems out
+
+Hey, whatever happened to waitin' your turn
+Doing it all by hand,
+'Cause when everything is handed to you
+It's only worth as much as the time put in
+It all just seemed so good the way we had it
+Back before everything became automatic
+
+Automatic
+
+Let's roll the windows down
+Windows with the cranks
+Come on let's take a picture
+The kind you gotta shake
+
+Hey, whatever happened to waitin' your turn
+Doing it all by hand,
+'Cause when everything is handed to you
+It's only worth as much as the time put in
+It all just seemed so good the way we had it
+Back before everything became automatic
+
+Yeah
+
+Automatic
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-at-us-sarina-paris
+lyrics_url: https://www.azlyrics.com/lyrics/sarinaparis/lookatus.html
 name: Look At Us
 rankings:
 - end_date: '2001-03-02'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
 ---
+
+For all the times that we,
+We ever wouldn't be,
+Look at us baby,
+Look at us now,
+For everyday that I should have you by my side,
+We'll make it baby,
+Look at us now,
+
+For every night I pray,
+I know that you will stay,
+Look at us baby,
+Look at us now,
+
+Remembering the time our love was not so fine,
+We made it baby,
+Look at us now,
+Baby look at us,
+
+Everybody believed we would never be,
+Look at us up above,
+We are so in love,
+Everyday in your arms,
+Baby can't go wrong we are strong look at us now,
+
+For all the times that we,
+We ever were to be,
+Look at us baby,
+Look at us now,
+For everyday that I should have you by my side,
+We'll make it baby,
+Look at us now,
+
+For every night I pray,
+I know that you will stay,
+Look at us baby,
+Look at us now,
+
+Remembering the time,
+Our love was not so fine,
+We made it baby,
+Look at us
+
+Baby look at us,
+Baby look at us,
+Baby look at us.
+
+
 

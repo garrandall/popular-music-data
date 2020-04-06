@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: spinning-wheel-blood-sweat-tears
+lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/spinningwheel.html
 name: Spinning Wheel
 rankings:
 - end_date: '1969-06-06'
@@ -61,4 +62,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
 ---
+
+What goes up, must come down
+Spinning wheel got to go round
+Talkin' 'bout your troubles, it's a cryin' sin
+Ride a painted pony, let the spinning wheel spin
+
+You got no money and you, you got no home
+Spinning wheel, all alone
+Talkin' 'bout your troubles and you, you never learn
+Ride a painted pony, let the spinning wheel turn
+
+Did you find a directing sign on the straight and narrow highway?
+Would you mind a reflecting sign?
+Just let it shine within your mind
+And show you the colors that are real
+
+Someone is waiting just for you
+Spinning wheel spinning through
+Drop all your troubles by the riverside
+Catch a painted pony on the spinning wheel ride
+Ha!
+
+Someone's waiting just for you
+Spinning wheel spinning through
+Drop all your troubles by the riverside
+Ride a painted pony, let the spinning wheel fly
+
+
 

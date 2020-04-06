@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooked-on-a-feeling-blue-swede
+lyrics_url: https://www.azlyrics.com/lyrics/blueswede/hookedonafeeling.html
 name: Hooked On A Feeling
 rankings:
 - end_date: '1974-02-22'
@@ -75,4 +76,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
+
+Ooga-chaka, ooga-ooga
+Ooga-chaka, ooga-ooga
+Ooga-chaka, ooga-ooga
+Ooga-chaka, ooga-ooga
+
+I can't stop this feeling
+Deep inside of me
+Girl, you just don't realize
+What you do to me
+
+When you hold me
+In your arms so tight
+You let me know
+Everything's all right
+
+I'm hooked on a feeling
+I'm high on believing
+That you're in love with me
+
+Lips as sweet as candy
+Its taste is on my mind
+Girl, you got me thirsty
+For another cup of wine
+
+Got a bug from you girl
+But I don't need no cure
+I'll just stay a victim
+If I can for sure
+
+All the good love
+When we're all alone
+Keep it up girl
+Yeah, you turn me on
+
+I'm hooked on a feeling
+I'm high on believing
+That you're in love with me
+
+All the good love
+When we're all alone
+Keep it up girl
+Yeah, you turn me on
+
+I'm hooked on a feeling
+I'm high on believing
+That you're in love with me
+
+I'm hooked on a feeling
+And I'm high on believing
+That you're in love with me
+
+I said I'm hooked on a feeling
+And I'm high on believing
+That you're in love with me
+I'm hooked on a feeling
+
+
 

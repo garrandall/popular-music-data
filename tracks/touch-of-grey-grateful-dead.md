@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-of-grey-grateful-dead
+lyrics_url: https://www.azlyrics.com/lyrics/gratefuldead/touchofgrey.html
 name: Touch Of Grey
 rankings:
 - end_date: '1987-07-31'
@@ -67,4 +68,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
 ---
+
+It must be getting early
+Clocks are running late
+Paint by numbers morning sky
+Looks so phony
+
+Dawn is breaking everywhere
+Light a candle, curse the glare
+Draw the curtains, I don't care
+'Cause it's alright
+
+I will get by
+I will get by
+I will get by
+I will survive
+
+I see you got your list out
+Say your piece and get out
+Yes I got the gist of it
+But it's alright
+
+Sorry that you feel that way
+The only thing there is to say
+Every silver lining's got a
+Touch of grey
+
+I will get by
+I will get by
+I will get by
+I will survive
+
+It's a lesson to me
+The Ables and the Bakers and the C's
+The ABC's
+We all must face
+And try to keep a little grace
+
+It's a lesson to me
+The Deltas and the East and the Freeze
+The ABC's
+We all think of
+And try to keep a little love
+
+I know the rent is in arrears
+The dog has not been fed in years
+It's even worse than it appears
+But it's alright
+
+Cows are giving kerosene
+The kid can't read at seventeen
+The words he knows are all obscene
+But it's alright
+
+I will get by
+I will get by
+I will get by
+I will survive
+
+The shoe is on the hand it fits
+There's really nothing much to it
+Whistle through your teeth and spit
+'Cause it's alright
+
+Oh well a touch of grey
+Kind of suits you anyway
+That was all I had to say
+It's alright
+
+I will get by
+I will get by
+I will get by
+I will survive
+
+We will get by
+We will get by
+We will get by
+We will survive
+
+We will get by
+We will get by
+We will get by
+We will survive
+
+
 

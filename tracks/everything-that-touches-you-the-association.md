@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-that-touches-you-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/everythingthattouchesyou.html
 name: Everything That Touches You
 rankings:
 - end_date: '1968-02-09'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
 ---
+
+In my most secure moments I still can't believe
+I'm spending those moments with you
+And the ground I am walking, the air that I breathe
+Are shared at those moments with you
+
+You love for real
+You show the feel
+Of everything that touches you
+
+In the songs I've been singing quite often a phrase
+Comes close to the feeling of you
+But I never suspected that one of those days
+The wish of the song would come true
+
+You love for real
+You show the feel
+Of everything that touches you
+
+You are of gracefulness
+You are of happiness
+You are what I would guess to be most like
+What I've been singing of
+
+Love, love, love
+
+In the songs I've been singing quite often a phrase
+Comes close to the feeling of you
+But I never suspected that one of those days
+The wish of the song would come true
+
+You love for real
+You show the feel
+Of everything that touches you
+
+Love, love, love, love
+Everything is love
+Love, love, love, love, love, love, love, love, love, love, love, love
+Everything is love
+Love, love, love, love, love, love, love, love, love, love, love, love
+Everything is love
+Love, love, love, love, love, love, love, love, love, love, love, love
+
+
 

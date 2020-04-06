@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ask-the-lonely-four-tops
+lyrics_url: https://www.azlyrics.com/lyrics/fourtops/askthelonely.html
 name: Ask The Lonely
 rankings:
 - end_date: '1965-02-12'
@@ -39,4 +40,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
 ---
+
+ Just ask the lonely
+
+
+When you feel that need
+To make it all alone,
+Remember no one is thinking of,
+Going alone
+
+Just ask the lonely...
+They know the hurt and pain,
+Of losing a love, you can never regain
+
+ Just ask the lonely
+ Just ask the lonely
+
+ The young and foolish laugh at love
+ Woo-hoo
+ So they run away...
+ Woo-hoo hoo hoo
+ Confident and sure that fate
+ Woo-hoo
+ Will bring another love their way
+
+ Aaah
+ But ask the lonely....
+ Aaah
+How vainly a heart can yearn,
+ Aaah
+ For losing a love that will never return
+
+ Just ask the lonely
+ Just ask the lonely....
+They'll tell you
+
+ Ooooh, Woo-hoo hoo-hoo
+Ooooooh
+
+ Aaah
+ They'll tell you a story of sadness,
+ Aaah
+A story too hard to believe...
+ Aaah
+ They'll tell you the loneliest one is me
+
+ Just ask the lonely
+ Just ask the lonely
+
+ Ask me...
+I'm the loneliest one you'll see
+
+ Just ask the lonely
+
+
+
+
 

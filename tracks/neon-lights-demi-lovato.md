@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: neon-lights-demi-lovato
+lyrics_url: https://www.azlyrics.com/lyrics/demilovato/neonlights.html
 name: Neon Lights
 rankings:
 - end_date: '2014-01-17'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
 ---
+
+Baby, when they look up at the sky
+We'll be shootin' stars just passin' by
+You'll be comin' home with me tonight
+We'll be burnin' up like neon lights
+
+Be still, my heart 'cause it's freakin' out, it's freakin' out, right now
+Shining like stars 'cause we're beautiful, we're beautiful, right now
+You're all I see in all these places
+You're all I see in all these faces
+So let's pretend we're running out of time, of time
+
+Baby, when they look up at the sky
+We'll be shootin' stars just passin' by
+You'll be comin' home with me tonight
+And we'll be burnin' up like neon lights
+
+Baby, when they look up at the sky
+We'll be shootin' stars just passin' by
+You'll be comin' home with me tonight
+And we'll be burnin' up like neon lights
+
+Neon lights
+Neon lights
+Neon lights
+Like neon lights, oh
+Like neon lights, oh
+
+Be still, my heart 'cause it's freakin' out, it's freakin' out, right now
+Shining like stars 'cause we're beautiful, we're beautiful, right now
+You're all I see in all these places
+You're all I see in all these faces
+So let's pretend we're running out of time, of time
+
+Baby, when they look up at the sky
+We'll be shootin' stars just passin' by
+You'll be comin' home with me tonight
+And we'll be burnin' up like neon lights
+
+Baby, when they look up at the sky
+We'll be shootin' stars just passin' by
+You'll be comin' home with me tonight
+And we'll be burnin' up like neon lights
+
+Neon lights
+Neon lights
+Neon lights
+Like neon lights, oh
+Like neon lights, oh
+
+Shining like stars 'cause we're beautiful, beautiful
+You're all I see in all these places
+You're all I see in all these faces
+So let's pretend we're running out of time, of time
+
+Like neon lights, oh
+Like neon lights, oh
+
+Be still, my heart 'cause it's freakin' out
+
+
 

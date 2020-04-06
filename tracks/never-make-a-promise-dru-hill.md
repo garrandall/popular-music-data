@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-make-a-promise-dru-hill
+lyrics_url: https://www.azlyrics.com/lyrics/druhill/nevermakeapromise.html
 name: Never Make A Promise
 rankings:
 - end_date: '1997-08-15'
@@ -87,4 +88,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
 ---
+
+I don't have to think about it 
+I've never been in love 
+I've only dreamed about it 
+I wondered what it was
+
+But now I think I know it's clear to me 
+You've made me understand 
+I'm so proud to say I love you, 
+And I'm so proud to be your man, 
+Yes I am.
+
+I promise I'll never hurt you
+I'll never make you cry 
+No
+
+I promise I'll never hit you 
+Cross my heart and hope to die 
+I know I'll keep you safe, I'll keep you warm 
+I'll keep you satisfied 
+Be your sunshine in the morning 
+Be your everything at night 
+
+
+You told me what you wanted 
+I gave you what you needed
+I told ya that I'd love you, make it good for you and me 
+I never make a promise that I can't keep, that ain't me 
+
+Ain't no way to get around it 
+No cause now you're stuck with me 
+Did you know that yo'd be surrounded 
+By my love and ecstacy 
+This is the staart of one great love afair 
+That never, never, never gonna end 
+We can share the world together 
+This is where it begins 
+
+
+
+Girl, I'll stand by you, if you give me your hand 
+I'll make love to you baby, Your wish is my command 
+Let play out your fantasies I'll make you u lose your mind 
+Take you places you ain't never been before, 
+I promise you in time 
+
+
+
+If I make a promise to you 
+Then baby thats what Ill do
+I got nothin to loose
+Ill give my whole world to you
+
+I never make a promise that I can't keep
+
+I'm a man of my word 
+And you my moreest concern 
+Thay you'll never be hurt 
+It's for better or worst
+
+I never make a promise that I can't keep
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-a-memory-garth-brooks
+lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/morethanamemory.html
 name: More Than A Memory
 rankings:
 - end_date: '2007-09-21'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
 ---
+
+People say she's only in my head
+It's gonna take time but I'll forget
+They say I need to get on with my life
+They don't realize
+
+Is when you're dialing 6 numbers just to hang up the phone
+Driving across town just to see if she's home
+Waking a friend in the dead of the night
+Just to hear him say its gonna be alright
+When you're finding things to do not to fall asleep
+Cause you know she'll be there in your dreams
+That's when she's more than a memory
+
+Took a match to everything she ever wrote
+Watched her words go up in smoke
+Tore all her pictures off the wall
+That ain't helping me at all
+
+Cause when you're talking out loud but nobody's there
+You look like hell and you just don't care
+Drinking more than you ever drank
+Sinking down lower than you ever sank
+When you find yourself falling down upon your knees
+Praying to God, begging Him "please"
+that's when she's more than a memory
+
+She's more
+She's more
+
+Cause when you're dialing her number just hang up the phone
+Driving across town just to see if she's home
+Waking a friend in the dead of night
+Just to hear him say it's gonna be alright
+When you're finding things to do not to fall asleep
+Cause you know she's waiting in your dreams
+That's when she's more than a memory
+
+People say she's only in my head
+It's gonna take time but I'll forget
+
+
 

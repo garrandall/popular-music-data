@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alright-janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/alright.html
 name: Alright
 rankings:
 - end_date: '1990-04-13'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-21'
 ---
+
+Seeing that your love's true
+Never I'll doubt you
+My heart belongs to you
+That's alright with me
+Worlds could end around me
+So in love that I can't see
+You and me were meant to be
+That's alright with me
+
+Friends come and friends may go
+My friend, you're real I know
+True self you have shown
+You're alright with me
+Through thick and thick to thin
+I'll love you till the end
+You know it's true my friend
+You're alright with me
+
+Catch a fallin' star that shines
+Make a wish clap 3 times
+Dreams come true it's in the mind
+That's alright with me
+Your wish is my command
+Never thought I'd fall in love again
+Again with my best friend
+That's alright with me
+
+Friends come and friends may go
+My friend, you're real I know
+True self you have shown
+You're alright with me
+Through thick and thick to thin
+I'll love you till the end
+You know it's true my friend
+You're alright with me
+
+Always and everlasting
+This love is just not passing
+We're happy as can be
+Alright with me
+Friends come and friends may go
+My friend, you're real I know
+True self you have shown
+You're alright with me
+Through thick and thick to thin
+I'll love you till the end
+You know it's true my friend
+You're alright with me
+
+
 

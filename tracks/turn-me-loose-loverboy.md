@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-me-loose-loverboy
+lyrics_url: https://www.azlyrics.com/lyrics/electricsix/turnmeloose.html
 name: Turn Me Loose
 rankings:
 - end_date: '1981-02-06'
@@ -75,4 +76,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+
+I was born to run
+I was born to dream
+The craziest boy you ever seen
+I gotta do it my way
+Or no way at all
+
+And I was here to please
+I'm even on my knees
+Making love to whoever I please
+I gotta do it my way
+Or no way at all
+
+And then you came around
+Tried to tie me down
+I was such a clown
+You had to have it your way
+Or no way at all
+
+Well I've had all I can take
+I can't take it no more
+I'm gonna pack my bags and fly my way
+Or no way at all
+
+So why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+Or no way at all
+
+Why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+I wanna fly
+
+I'm here to please
+I'm even on my knees
+Making love to whoever I please
+I gotta do it my way
+I gotta do it my way
+
+And when you came around
+You tried to tie me down
+I was such a clown
+You had to have it your way
+Well, I'm saying no way
+
+So why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+Or no way at all
+
+Why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+I wanna fly, oh yeah
+
+So why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+Or no way at all
+
+Why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+I gotta do it my way
+
+Why don't you turn me loose
+Turn me loose
+Turn me loose
+I gotta do it my way
+I wanna fly
+
+Turn me loose
+Turn me loose
+Turn me loose
+Turn me loose
+Turn me loose
+Turn me loose
+Turn me loose
+
+
 

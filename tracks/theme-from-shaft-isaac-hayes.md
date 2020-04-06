@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-shaft-isaac-hayes
+lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/themefromshaft.html
 name: Theme From Shaft
 rankings:
 - end_date: '1971-10-22'
@@ -59,4 +60,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
 ---
+
+Who's the black private dick
+That's a sex machine to all the chicks?
+(Shaft)
+You're damn right
+
+Who is the man
+That would risk his neck for his brother man?
+(Shaft)
+Can you dig it?
+
+Who's the cat that won't cop out
+When there's danger all about?
+(Shaft)
+Right on
+
+They say this cat Shaft is a bad mother
+(Shut your mouth)
+But I'm talkin' 'bout Shaft
+(Then we can dig it)
+
+He's a complicated man
+But no one understands him but his woman
+(John Shaft)
+
+
 

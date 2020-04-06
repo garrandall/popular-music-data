@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stickwitu-the-pussycat-dolls
+lyrics_url: https://www.azlyrics.com/lyrics/pussycatdolls/stickwitu.html
 name: Stickwitu
 rankings:
 - end_date: '2005-10-28'
@@ -111,4 +112,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
 ---
+
+I don't wanna go another day
+So I'm telling you exactly what is on my mind
+Seems like everybody's breaking up
+And throwing their love away
+But I know I got a good thing right here
+That's why I say
+
+Nobody gonna love me better
+I must stick with you forever
+Nobody gonna take me higher
+I must stick with you
+You know how to appreciate me
+I must stick with you, my baby
+Nobody ever made me feel this way
+I must stick with you
+
+I don't wanna go another day
+So I'm telling you exactly what is on my mind
+See the way we ride in our private lives
+Ain't nobody getting in between
+I want you to know that you're the only one for me (one for me)
+And I say
+
+Nobody gonna love me better
+I must stick with you forever
+Nobody gonna take me higher
+I must stick with you
+You know how to appreciate me
+I must stick with you, my baby
+Nobody ever made me feel this way
+I must stick with you
+
+And now
+Ain't nothing else I can need (nothing else I can need)
+And now
+I'm singing 'cause you're so, so into me
+I got you
+We'll be making love endlessly
+I'm with you (baby, I'm with you)
+Baby, you're with me (baby, you're with me)
+
+So don't you worry about
+People hanging around
+They ain't bringing us down
+I know you and you know me
+And that's all that counts
+
+So don't you worry about
+People hanging around
+They ain't bringing us down
+I know you and you know me
+And that's, that's why I say
+
+Nobody gonna love me better
+I must stick with you forever
+Nobody gonna take me higher
+I must stick with you
+You know how to appreciate me
+I must stick with you, my baby
+Nobody ever made me feel this way
+I must stick with you
+
+Nobody gonna love me better
+I must stick with you forever
+Nobody gonna take me higher
+I must stick with you
+You know how to appreciate me
+I must stick with you, my baby
+Nobody ever made me feel this way
+I must stick with you
+
+
 

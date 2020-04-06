@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-fine-day-the-chiffons
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/onefineday.html
 name: One Fine Day
 rankings:
 - end_date: '1963-06-07'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+
+One fine day
+You'll look at me
+And you will know
+Our love was meant to be
+One fine day
+You're gonna want me for your girl
+
+The arms I long for
+Will open wide
+And you'll be proud
+To have me by your side
+One fine day
+You're gonna want me for your girl
+
+Though I know you're the kind of guy
+Who only wants to run around
+I'll keep waiting and someday, darling
+You'll come to me
+When you want to settle down, oh
+
+One fine day
+We'll meet once more
+And then you'll want
+The love you threw away before
+One fine day
+You're gonna want me for your girl
+
+Though I know you're the kind of guy
+Who only wants to run around
+I'll keep waiting and someday, darling
+You'll come to me
+When you want to settle down, oh
+
+One fine day
+We'll meet once more
+And then you'll want
+The love you threw away before
+One fine day
+You're gonna want me for your girl
+
+
 

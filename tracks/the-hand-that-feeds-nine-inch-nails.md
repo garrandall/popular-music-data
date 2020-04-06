@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hand-that-feeds-nine-inch-nails
+lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/thehandthatfeeds.html
 name: The Hand That Feeds
 rankings:
 - end_date: '2005-04-15'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
 ---
+
+You're keeping in step 
+In the line 
+Got your chin held high and you feel just fine 
+Cause you do 
+What you're told 
+But inside your heart it is black and it's hollow and it's cold 
+
+Just how deep do you believe? 
+Will you bite the hand that feeds? 
+Will you chew until it bleeds? 
+Can you get up off your knees? 
+Are you brave enough to see? 
+Do you want to change it?
+
+What if this whole crusade's
+A charade
+And behind it all there's a price to be paid
+For the blood
+On which we dine
+Justified in the name of the holy and the divine
+
+Just how deep do you believe?
+Will you bite the hand that feeds?
+Will you chew until it bleeds?
+Can you get up off your knees?
+Are you brave enough to see?
+Do you want to change it?
+
+So naive
+I keep holding on to what I want to believe
+I can see
+But I keep holding on and on and on and on
+
+
+Will you bite the hand that feeds you?
+Will you stay down on your knees?
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-way-i-want-to-touch-you-captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/thewayiwanttotouchyou.html
 name: The Way I Want To Touch You
 rankings:
 - end_date: '1975-10-03'
@@ -76,4 +77,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
 ---
+
+I never wanted
+I never wanted to touch a man
+The way that I want to touch you
+
+I never wanted
+I never wanted to love a man
+The way that I want to love you
+
+You are sunshine
+You are shadow
+You are morning
+You are night
+You are hard times
+You are good times
+You are darkness
+You are light
+
+I never wanted
+I never wanted to give a man
+The things that I want to give you
+
+I never wanted
+I never wanted to live with a man
+The way that I want to live with you
+
+You are sunshine
+You are shadow
+You are morning
+You are night
+You are hard times
+You are good times
+You are darkness
+You are light
+
+I never wanted
+I never wanted to love a man
+The way that I want to love you
+
+I never wanted
+I never wanted to touch a man
+The way that I want to touch you
+The way that I want to touch you now
+The way that I want to touch you
+The way that I want to touch you now
+The way that I want to touch you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chattahoochee-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/chattahoochee.html
 name: Chattahoochee
 rankings:
 - end_date: '1993-07-16'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
 ---
+
+Well, way down yonder on the Chattahoochee
+It gets hotter than a hoochie coochie
+We laid rubber on the Georgia asphalt
+We got a little crazy but we never got caught.
+
+Down by the river on a Friday night
+Pyramid of cans in the pale moonlight
+Talkin' 'bout cars and dreamin' 'bout women
+Never had a plan, just a livin' for the minute.
+
+Yeah, way down yonder on the Chattahoochee
+Never knew how much that muddy water meant to me
+But I learned how to swim and I learned who I was
+A lot about livin' and a little 'bout love.
+
+Ya ha
+
+Well, we fogged up the windows in my old Chevy
+I was willin' but she wasn't ready
+So I settled for a burger and a grape sno-cone
+I dropped her off early but I didn't go home.
+
+Down by the river on a Friday night
+Pyramid of cans in the pale moonlight
+Talkin' 'bout cars and dreamin' 'bout women
+Never had a plan, just a livin' for the minute.
+
+Yeah, way down yonder on the Chattahochee
+Never knew how much that muddy water meant to me
+But I learned how to swim and I learned who I was
+A lot about livin' and a little 'bout love.
+
+Well, way down yonder on the Chattahochee
+
+It gets hotter than a hoochie coochie
+
+We laid rubber on the Georgia asphalt
+We got a little crazy but we never got caught.
+
+Well, we fogged up the windows in my old Chevy
+I was willin' but she wasn't ready
+So I settled for a burger and a grape sno-cone
+I dropped her off early but I didn't go home.
+
+Down by the river on a Friday night 
+Pyramid of cans in the pale moonlight 
+Talkin' 'bout cars and dreamin' 'bout women 
+Never had a plan, just a livin' for the minute.
+
+Yeah, way down yonder on the Chattahochee
+Never knew how much that muddy water meant to me
+But I learned how to swim and I learned who I was
+A lot about livin' and a little 'bout love.
+
+A lot about livin' and a little 'bout love.
+
+Ya he
+
+That's right...
+
+
 

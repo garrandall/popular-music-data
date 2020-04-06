@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: runnin--away-sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/runninaway.html
 name: Runnin' Away
 rankings:
 - end_date: '1972-02-11'
@@ -48,4 +49,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
+
+Running away to get away
+Ha ha ha ha
+You're wearing out your shoes
+
+Look at you, fooling you
+
+Making blues of night and day
+Hee hee hee hee
+You're stretching out your dues
+
+Look at you, fooling you
+
+Shorter cut is quicker but
+Ha ha ha ha
+Time is here to stay
+
+Look at you, fooling you
+
+The deeper in debt the harder you bet
+Hee hee hee hee
+Need more room to play
+
+Look at you, fooling you
+
+Another day you're farther away
+Ha ha ha ha
+A longer trip back home
+
+
 

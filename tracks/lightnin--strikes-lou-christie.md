@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lightnin--strikes-lou-christie
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/lightninstrikes.html
 name: Lightnin' Strikes
 rankings:
 - end_date: '1965-12-31'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
 ---
+
+Listen to me, baby, you gotta understand
+You're old enough to know the makings of a man
+Listen to me, baby, it's hard to settle down
+Am I asking too much for you to stick around?
+
+Every boy wants a girl
+He can trust to the very end
+Baby, that's you
+Won't you wait?
+But till then
+
+When I see lips beggin' to be kissed (Stop)
+I can't stop (Stop)
+I can't stop myself (Stop, stop)
+
+Lightning's striking again
+Lightning's striking again
+
+Nature's takin' over my one-track mind
+Believe it or not, you're in my heart all the time
+All the girls are sayin' that you'll end up a fool
+For the time being, baby, live by my rule
+
+When I settle down
+I want one baby on my mind
+Forgive and forget
+And I'll make up
+For all lost time
+
+If she's put together fine and she's readin' my mind (Stop)
+I can't stop (Stop)
+I can't stop myself (Stop, stop)
+
+Lightning's striking again
+Lightning's striking again and again and again and again
+
+Lightning's striking again
+Lightning's striking again
+
+There's a chapel in the pines
+Waiting for us around the bend
+Picture in your mind
+Love forever
+But till then
+
+If she gives me a sign that she wants to make time (Stop)
+I can't stop (Stop)
+I can't stop myself (Stop, stop)
+
+Lightning's striking again
+Oh, lightning is striking again and again and again and again and
+Lightning's striking again and again and again and again
+
+
 

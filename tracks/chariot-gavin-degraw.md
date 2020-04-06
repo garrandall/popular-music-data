@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chariot-gavin-degraw
+lyrics_url: https://www.azlyrics.com/lyrics/gavindegraw/chariot.html
 name: Chariot
 rankings:
 - end_date: '2005-04-22'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
 ---
+
+Staring at a maple leaf
+Leaning on the mother tree
+I said to myself we all lost touch
+Your favorite fruit is chocolate covered cherries
+And seedless watermelon ohhhh
+Nothing from the ground is good enough
+Body rised
+It puts over me
+
+
+Oh chariot your golden waves
+are walking down upon this face
+Oh chariot I'm singing out loud
+To guide me
+Give me your...
+Strength
+
+Remember seeking moons rebirth
+Rains made mirrors of the earth
+The sun was just yellow energy
+It is a living promise land
+Even over fields of sand
+Seasons fill my mind and
+Cover me
+From bringing back
+More than a memory
+
+
+
+You'll be my vacation away from this place
+You know what I want
+Holding that cup,
+It's pouring over the sides
+Make me wanna spread my arms and fly
+
+
+
+
 

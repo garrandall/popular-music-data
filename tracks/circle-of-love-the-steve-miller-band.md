@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: circle-of-love-the-steve-miller-band
+lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/circleoflove.html
 name: Circle Of Love
 rankings:
 - end_date: '1982-01-29'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
 ---
+
+Ooooooooh
+When I met you baby
+You put a circle of love around me
+
+Ooooooooh
+When I met you baby
+You put a circle of love around me
+
+And I give you my heart
+I was in love right from the start
+(Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii)
+
+Got my first kiss in the back seat of a car
+I was hot, I was really rarin' to go
+Got my first kiss in the back seat of a car
+At the drive-in, the drive-in movie show
+
+And I gave her my heart
+I was in love right from the start
+(Iiiii Iiiii Iiiii Iiiii)
+
+Ooooooooh
+When I met you baby
+You put a circle of love around me
+
+Ooooooooh
+When I met you baby
+You put a circle of love around me
+
+And I give you my heart
+I was in love right from the start
+(Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii)
+
+
 

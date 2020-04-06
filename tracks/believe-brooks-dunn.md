@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: believe-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/believe.html
 name: Believe
 rankings:
 - end_date: '2005-12-30'
@@ -88,4 +89,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
 ---
+
+Old man Wrigley lived in that white house
+Down the street where I grew up
+Momma used to send me over with things
+We struck a friendship up
+I spent a few long summers out on his old porch swing
+
+Says he was in the war when in the navy
+Lost his wife, lost his baby
+Broke down and asked him one time
+How ya keep from going crazy
+He said I'll see my wife and son in just a little while
+I asked him what he meant
+He looked at me and smiled, said
+
+I raise my hands, bow my head
+I'm finding more and more truth in the words written in red
+They tell me that there's more to life than just what I can see
+Oh I believe
+
+Few years later I was off at college
+Talkin' to mom on the phone one night
+Getting all caught up on the gossip
+The ins and outs of the small town life
+She said oh by the way son, old man Wrigley's died
+
+Later on that night, I laid there thinkin' back
+Thought 'bout a couple long-lost summers
+I didn't know whether to cry or laugh
+If there was ever anybody deserved a ticket to the other side
+It'd be that sweet old man who looked me in the eye, said
+
+I raise my hands, bow my head
+I'm finding more and more truth in the words written in red
+They tell me that there's more to life than just what I can see
+
+I can't quote the book
+The chapter or the verse
+You can't tell me it all ends
+In a slow ride in a hearse
+You know I'm more and more convinced
+The longer that I live
+Yeah, this can't be
+No, this can't be
+No, this can't be all there is
+
+When I raise my hands, bow my head
+I'm finding more and more truth in the words written in red
+They tell me that there's more to life than just what I can see
+I believe
+Oh, I
+I believe
+I believe
+I believe
+I believe
+I believe
+
+
 

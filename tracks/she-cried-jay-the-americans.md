@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: she-cried-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/thisisit.html
 name: She Cried
 rankings:
 - end_date: '1962-03-23'
@@ -64,4 +65,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
 ---
+
+She doesn't love me anymore
+She doesn't want my kisses
+I know that this is it for me
+
+She doesn't want me anymore
+Somehow my touch just misses
+I know that this is it for me
+
+So turn on the sun, I need the sunlight
+Need it's glow to make things bright
+Without her, every day is black as night
+
+And bring out the moon, I need the moonlight
+Brighter than it's ever shone
+She is gone and I am so alone
+
+But she cried for me, when she cried for me
+Yes she cried for me, yes she cried for me
+And she could've laid down and died for me
+
+She doesn't love me anymore
+She doesn't want my kisses
+I know that this is it for me
+
+This is it, goodbye my love
+This is it, and so long my little girl
+This is it, and I know, I know, I know
+This is it, that this is it for me
+
+
 

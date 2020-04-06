@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-orleans-the-staple-singers
+lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/neworleans.html
 name: New Orleans
 rankings:
 - end_date: '1976-03-05'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
+
+Down in New Orleans...
+New Orleans...
+
+What can I tell ya
+Hard for me to say
+I got my mind on Louisiana
+Everybody hustle now...
+
+Sweet Louisiana...
+
+Sho' nuff like to talk about it
+Baby how you turn me out
+Got to the real nitty gritty
+In this fine funky city
+
+Guess you may not believe
+That mama don't wanna leave
+Just the way I wanna be
+New Orleans, you and me
+
+Man so sweet, fine on his feet
+And I love sweet Louisiana
+
+Sweet Louisiana...
+New Orleans...
+
+Oh Louisiana...
+Sweet Louisiana...
+
+Beans and rice
+Sho' nuff go nice
+Down home in New Orleans
+
+Sweet Louisiana...
+New Orleans...
+
+
 

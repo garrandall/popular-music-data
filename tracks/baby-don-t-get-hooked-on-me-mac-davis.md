@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-don-t-get-hooked-on-me-mac-davis
+lyrics_url: https://www.azlyrics.com/lyrics/macdavis/babydontgethookedonme.html
 name: Baby Don't Get Hooked On Me
 rankings:
 - end_date: '1972-07-07'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
 ---
+
+Girl you're gettin' that look in your eyes
+And it's startin' to worry me
+I ain't ready for no family ties
+Nobody's gonna hurry me
+
+Just keep it friendly girl
+'Cause I don't wanna leave
+Don't start clingin' to me girl
+'Cause I can't breathe
+
+Baby baby, don't get hooked on me
+Baby baby, don't get hooked on me
+'Cause I'll just use you then I'll set you free
+Baby baby, don't get hooked on me
+
+Girl, you're a hot-blooded woman, child
+And it's warm where you're touchin' me
+But I can tell by your tremblin' smile
+You're seein' way too much in me
+
+Girl, don't let your life
+Get tangled up with mine
+'Cause I'll just leave you 
+I can't take no clingin' vine
+
+Baby baby, don't get hooked on me
+Baby baby, don't get hooked on me
+'Cause I'll just use you then I'll set you free
+Baby baby, don't get hooked on me
+
+Baby baby, don't get hooked on me
+Baby baby, don't get hooked on me
+'Cause I'll just use you then I'll set you free
+Baby baby, don't get hooked on me
+
+Baby baby don't get hooked on me
+
+
 

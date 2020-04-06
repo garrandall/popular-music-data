@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dear-lonely-hearts-nat-king-cole
+lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/dearlonelyhearts.html
 name: Dear Lonely Hearts
 rankings:
 - end_date: '1962-11-16'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
 ---
+
+Dear Lonely Hearts
+I'm a-writing to you
+You said you could help
+People looking for love
+
+I've been so lonely
+I don't know what to do
+And that is why
+I'm writing this letter to you
+
+
+
+(It's no use living)
+When you're alone
+Please help me find
+A love of my own
+
+If you know someone
+Please tell me who
+Dear Lonely Hearts
+I'd be so grateful to you (so grateful to you)
+
+(She don't have to have money) She don't have to have money
+(She don't have to be a queen) She don't have to be a queen
+(As long as she loves me) As long as she loves me
+(That's the important thing) That's the important thing
+
+Cause I'm gonna love her (I'm gonna love her)
+I'll always be true (I'll always be true)
+Dear Lonely Hearts
+Oh please see what you can do (see what you can do)
+
+I guess that's all (I guess that's all)
+I'm gonna close them now (I'm gonna close them now)
+But try to find (Please try to find)
+Somebody somehow (Somebody somehow)
+
+If you know someone
+Please tell me who
+Dear Lonely Hearts
+I'd be so grateful to you (grateful to you)
+
+
 

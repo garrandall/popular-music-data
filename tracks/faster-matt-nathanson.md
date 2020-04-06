@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: faster-matt-nathanson
+lyrics_url: https://www.azlyrics.com/lyrics/mattnathanson/faster.html
 name: Faster
 rankings:
 - end_date: '2011-08-19'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
 ---
+
+You're so delicious
+You're so soft
+Sweet on the tip of my tongue
+You taste like sunlight
+And strawberry bubble gum
+
+You bite my lip
+You spike my blood
+You make my heart beat faster
+
+Own me, you own
+You rattle my bones
+You turn me over and over
+Till I can't control myself
+Make me a liar
+One big disaster
+You make my heart beat faster
+
+It's the way you swell, slow
+Pushing right out your seams
+It's the way you smile, baby
+When you've got me on my knees
+
+Your all night noise
+Your siren's howl
+You make my heart beat faster
+
+Own me, you own
+You rattle my bones
+You turn me over and over
+Till I can't control myself
+Make me a liar
+One big disaster
+You make my heart beat faster
+
+'Cause I jump back, crash, I crawl
+I beg and steal, I follow you
+Yeah, you own me
+And you make my heart beat faster
+
+(I can't get enough
+Because it's on like
+I guess this world is over to me)
+
+You own me, you own
+You rattle my bones
+You turn me over and over
+Till I can't control myself
+Make me a liar
+One big disaster
+You make my heart beat faster
+
+
 

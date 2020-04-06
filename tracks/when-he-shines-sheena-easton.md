@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-he-shines-sheena-easton
+lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/whenheshines.html
 name: When He Shines
 rankings:
 - end_date: '1982-04-09'
@@ -67,4 +68,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+
+This man's a child, this man is old
+Sometimes he's mild, sometimes he's bold
+This man I love, sometimes in spite
+I wish he would stick to his guns, or abandon the fight
+
+But when he shines, oh when he shines
+Yes when he shines, he shines so bright
+
+Sometimes a tramp, sometimes a dude
+He changes colour just like a cameleon, cant find the mood
+He is a song that's not easy to write
+He is a moon in the morning, and the sun out at night
+
+But when he shines, when he shines, oh when he shines, he shines so bright
+
+This man's a gentleman, this man is strong
+This temperamental man plays me along
+
+But when he shines, when he shines, oh when he shines, he shines so bright
+Yes when he shines, when he shines, oh when he shines, he shines so bright
+
+But when he shines, oh when he shines
+Yes when he shines, he shines so bright
+
+
 

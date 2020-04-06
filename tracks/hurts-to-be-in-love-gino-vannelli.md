@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurts-to-be-in-love-gino-vannelli
+lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/hurtstobeinlove.html
 name: Hurts To Be In Love
 rankings:
 - end_date: '1985-09-27'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
 ---
+
+More and more
+Your kiss is like a half opened door
+I can't get in
+You stop me just before I begin
+And it hurts to be in love
+When you never get enough
+Oh it hurts to be in love
+
+This endless urge
+Keeps my body right on the verge
+We touch and then
+I wanna do it all over again
+
+And it hurts to be in love
+When you only want me half as much
+I tell you it hurts to be in love
+
+I'm always worried you think I'm pushing too hard
+Oh baby it hurts me when you tell me I'm going to far
+
+We touch and then
+I wanna do it all over again
+And it hurts to be in love
+When you only want me half as much
+I tell you it hurts to be in love
+It hurts
+Baby it hurts
+It hurts
+
+
 

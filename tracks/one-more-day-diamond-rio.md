@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-day-diamond-rio
+lyrics_url: https://www.azlyrics.com/lyrics/diamondrio/onemoreday.html
 name: One More Day
 rankings:
 - end_date: '2001-01-26'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
 ---
+
+Last night I had a crazy dream
+A wish was granted just for me
+It could be for anything
+I didn't ask for money
+Or a mansion in Malibu
+I simply wished, for one more day with you
+
+One more day
+One more time
+One more sunset, maybe I'd be satisfied
+But then again
+I know what it would do
+Leave me wishing still, for one more day with you
+
+One more day
+
+First thing I'd do is pray for time to crawl
+Then I'd unplug the telephone
+And keep the TV off
+I'd hold you every second
+Say a million I love you's
+That's what I'd do, with one more day with you
+
+One more day
+One more time
+One more sunset, maybe I'd be satisfied
+But then again
+I know what it would do
+Leave me wishing still, for one more day with you
+
+One more day
+One more time
+One more sunset, maybe I'd be satisfied
+But then again
+I know what it would do
+Leave me wishing still, for one more day
+Leave me wishing still, for one more day
+Leave me wishing still, for one more day
+With you...
+
+One more day
+(One more day)
+
+
 

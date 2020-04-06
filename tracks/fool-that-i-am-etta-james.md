@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool-that-i-am-etta-james
+lyrics_url: https://www.azlyrics.com/lyrics/ettajames/foolthatiam.html
 name: Fool That I Am
 rankings:
 - end_date: '1961-06-18'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
 ---
+
+Fool that I am,
+For falling in love with you.
+And a, fool that I am,
+For thinking you loved me, too.
+
+You took my heart,
+Then played the part of little coquette.
+And, all my dreams just disappeared
+Like the smoke from a cigarette.
+
+Fool that I am,
+For hoping you'd understand.
+And thinking you
+Would listen, too,
+And, oh, the things I had planned.
+
+But we couldn't see eye to eye
+So, darling, darling, darling,
+This is goodbye.
+But I still care, but I still care,
+And oh, fool that I am.
+Oh, but I still care,
+Fool that I am.
+
+
 

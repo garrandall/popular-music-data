@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-s-to-the-night-eve-6
+lyrics_url: https://www.azlyrics.com/lyrics/eve6/herestothenight.html
 name: Here's To The Night
 rankings:
 - end_date: '2001-06-15'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
 ---
+
+So denied so I lied are you the now or never kind
+In a day and a day love I'm gonna be gone for good again
+Are you willing to be had are you cool with just tonight
+Here's a toast to all those who hear me all too well
+
+Here's to the nights we felt alive
+Here's to the tears you knew you'd cry
+Here's to goodbye 
+Tomorrow's gonna come too soon
+
+Put your name on the line along with place and time
+Wanna stay not to go I wanna ditch the logical
+Here's a toast to all those who hear me all too well
+
+Here's to the nights we felt alive
+Here's to the tears you knew you'd cry
+Here's to goodbye 
+Tomorrow's gonna come too soon
+
+All my time is froze in motion 
+Can't I stay an hour or two or more
+Don't let me let you go
+Here's a toast to all those who hear me all too well
+
+Here's to the nights we felt alive
+Here's to the tears you knew you'd cry
+Here's to goodbye 
+Tomorrow's gonna come too soon
+
+
 

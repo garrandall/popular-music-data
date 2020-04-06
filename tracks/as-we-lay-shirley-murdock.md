@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-we-lay-shirley-murdock
+lyrics_url: https://www.azlyrics.com/lyrics/case/2manynightsinla.html
 name: As We Lay
 rankings:
 - end_date: '1987-01-23'
@@ -79,4 +80,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
 ---
+
+Fresh off the plane
+I can feel the wind
+Know what I'm saying
+Baby girl
+Knew just what I was phased with, same shit
+And she gonna make the time when the time's right
+And she gonna show me love when love won't
+I'm just saying, maybe she's thinking
+
+That I'm with it
+Just say the word and I'm out and I'm wit it
+Everytime she be calling I'm wit it
+We both know the sound when she's calling
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took too many nights with her so
+
+I'm stuck here thinking about you
+This crazy love the way it is
+I know you're done thinking about me
+But I can't stay away from her
+Baby I don't know where this is going
+These California nights pulled me away
+And everytime she calls you pull away
+I'm just thinking, maybe she's thinking
+
+That I'm with it
+Just say the word and I'm out and I'm wit it
+Everytime she be calling I'm wit it
+We both know the sound when when we making love
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took 2 many nights with her so
+
+Everything you say it don't matter
+What you thinking about all the time when you had her?
+Spending all the time out there in LA
+Listening to Shirley Murdock as we lay
+I don't really know what you saw in her
+Hanging up the phone saw you calling her
+You will never know what you mean to me
+Damn I really thought that you needed me
+
+I'm with it
+Just say the word and I'm out and I'm wit it
+Everytime she be calling I'm wit it
+We both know the sound when when we making love
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took 2 many nights with her so
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took 2 many nights with her so
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took 2 many nights with her so
+
+2 many nights in LA
+I spent 2 many nights in LA
+2 many nights in LA
+I took 2 many nights with her so
+
+
 

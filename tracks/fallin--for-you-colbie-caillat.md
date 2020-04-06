@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fallin--for-you-colbie-caillat
+lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/fallinforyou.html
 name: Fallin' For You
 rankings:
 - end_date: '2009-07-24'
@@ -131,4 +132,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
 ---
+
+I don't know but I think I may be
+Fallin' for you dropping so quickly
+Maybe I should keep this to myself
+Wait until I know you better
+
+I am trying not to tell you
+But I want to
+I'm scared of what you'll say
+So I'm hiding what I'm feeling
+But I'm tired of holding this inside my head
+
+I've been spending all my time
+Just thinking 'bout you
+I don't know what to do
+I think I'm fallin' for you
+
+I've been waiting all my life and now I found you
+I don't know what to do
+I think I'm falling for you
+I'm falling for you
+
+As I'm standing here and you hold my hand
+Pull me towards you and we start to dance
+
+All around us
+I see nobody
+Here in silence
+It's just you and me
+
+I'm trying not to tell you
+But I want to
+I'm scared of what you'll say
+So I'm hiding what I'm feeling
+But I'm tired of holding this inside my head
+
+I've been spending all my time
+Just thinking 'bout you
+I don't know what to do
+I think I'm fallin' for you
+
+I've been waiting all my life and now I found you
+I don't know what to do
+I think I'm fallin' for you
+I'm fallin' for you
+
+Oh I just can't take it
+My heart is racing
+Emotions keep spilling out
+
+I've been spending all my time
+Just thinking 'bout you
+I don't know what to do
+I think I'm fallin' for you
+
+I've been waiting all my life and now I found you
+I don't know what to do
+I think I'm fallin' for you
+I'm fallin' for you
+
+I think I'm fallin' for you
+
+I can't stop thinking about it
+I want you all around me
+And now I just can't hide it
+I think I'm fallin' for you
+
+I can't stop thinking about it
+I want you all around me
+And now I just can't hide it
+I think I'm fallin' for you
+I'm fallin' for you
+
+Oh no no
+
+I'm falling for you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-into-you-paramore
+lyrics_url: https://www.azlyrics.com/lyrics/paramore/stillintoyou.html
 name: Still Into You
 rankings:
 - end_date: '2013-05-03'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
 ---
+
+Can't count the years on one hand
+That we've been together
+I need the other one to hold you
+Make you feel, make you feel better
+
+It's not a walk in the park
+To love each other
+But when our fingers interlock,
+Can't deny, can't deny you're worth it
+'Cause after all this time I'm still into you
+
+I should be over all the butterflies
+But I'm into you (I'm into you)
+And baby even on our worst nights
+I'm into you (I'm into you)
+
+Let 'em wonder how we got this far
+'Cause I don't really need to wonder at all
+Yeah, after all this time I'm still into you
+
+Recount the night that
+I first met your mother
+And on the drive back to my house
+I told you that, I told you that I loved ya
+
+You felt the weight of the world
+Fall off your shoulder
+And to your favorite song
+We sang along to the start of forever
+And after all this time I'm still into you
+
+I should be over all the butterflies
+But I'm into you (I'm into you)
+And baby even on our worst nights
+I'm into you (I'm into you)
+Let 'em wonder how we got this far
+'Cause I don't really need to wonder at all
+Yeah, after all this time I'm still into you
+
+Some things just, some things just make sense
+And one of those is you and I (Hey)
+Some things just, some things just make sense
+And even after all this time (Hey)
+
+I'm into you, baby, not a day goes by
+That I'm not into you
+
+I should be over all the butterflies
+But I'm into you (I'm into you)
+And baby even on our worst nights
+I'm into you (I'm into you)
+Let 'em wonder how we got this far
+
+'Cause I don't really need to wonder at all
+Yeah, after all this time
+I'm still into you
+I'm still into you
+I'm still into you
+
+
 

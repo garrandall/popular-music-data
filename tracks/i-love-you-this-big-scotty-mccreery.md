@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-this-big-scotty-mccreery
+lyrics_url: https://www.azlyrics.com/lyrics/scottymccreery/iloveyouthisbig.html
 name: I Love You This Big
 rankings:
 - end_date: '2011-06-17'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
 ---
+
+I know I'm still young
+But, I know how I feel
+I might not have too much experience
+But, I know when love is real.
+
+By the way my heart starts pounding
+When I look into your eyes
+I might look a little silly
+Standing with my arms stretched open wide.
+
+I love you this big
+Eyes have never seen... this big
+No-one's ever dreamed... this big
+And I'll spend the rest of my life
+Explaining what words cannot describe but, I'll try
+I love you this big
+
+I'll love you to the moon and back
+I'll love you all the time
+Deeper than the ocean
+And higher than the pines.
+
+Cause girl, you do something to me
+Deep down in my heart
+I know I look a little crazy
+Standing with my arms stretched all apart.
+
+I love you this big
+Eyes have never seen... this big
+No-one's ever dreamed... this big
+And I'll spend the rest of my life
+Explaining what words cannot describe but, I'll try
+I love you this big
+
+So much bigger than I ever dreamed my heart ever would
+I love you this big
+And I'd write your name in stars across the sky
+If I could, I would
+
+I love you this big
+Oh, eyes have never seen... this big
+No-one's ever dreamed... this big
+And I'll spend the rest of my life
+Explaining what words cannot describe but, I'll try
+I love you this big
+
+I love you this big
+Oh, eyes have never seen... this big
+No-one's ever dreamed... this big
+And I'll spend the rest of my life
+Explaining what words cannot describe but, I'll try
+I love you this big
+
+
 

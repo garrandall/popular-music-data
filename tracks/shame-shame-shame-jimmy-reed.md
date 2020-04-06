@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shame-shame-shame-jimmy-reed
+lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/shameshameshame.html
 name: Shame Shame Shame
 rankings:
 - end_date: '1963-04-19'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
 ---
+
+Well I tried to tell you baby
+But it make no sense
+Know you got me baby
+Up against this fence
+
+An' ain't that a shame, shame, shame
+Shame, shame the way you do
+Well, it's a shame, shame, shame
+Shame, shame, on you
+
+Well now you walk out in the evenin'
+Don't even say you goin'
+Six o'clock in the mornin'
+You come walkin' home
+
+An' ain't it a shame, shame, shame
+Shame, shame, the way you do
+Well, it's a shame, shame, shame
+Oh it's a shame on you
+
+Well, I be sittin' there waitin'
+For you to come home
+When I wake up baby
+I'm sittin' there all alone
+
+An' ain't it a shame, shame, shame
+Shame, shame, the way you do
+Oh, it's a shame, shame, shame
+Shame, shame on you
+
+
 

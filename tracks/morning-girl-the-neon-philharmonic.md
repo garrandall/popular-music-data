@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-girl-the-neon-philharmonic
+lyrics_url: https://www.azlyrics.com/lyrics/danielpadilla/morninggirl.html
 name: Morning Girl
 rankings:
 - end_date: '1969-04-11'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+
+Morning girl, how'd ya sleep last night?
+You're several ages older now
+Your eyes have started showing how
+The little girls growing now
+
+Morning girl, was that you last night?
+Crying on the radio
+Begging for a way to go
+Where love wasn't jumbled so
+Oh, no, things are different now than they were before
+You know love is more than kisses
+A whole lot more
+
+Morning girl, put your dreams away
+And read your box of Cheerios
+And powder-puff that pretty nose
+And go out and find your man where the wild wind blows
+Morning girl
+
+
 

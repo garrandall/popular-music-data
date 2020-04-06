@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crawling-in-the-dark-hoobastank
+lyrics_url: https://www.azlyrics.com/lyrics/hoobastank/crawlinginthedark.html
 name: Crawling In The Dark
 rankings:
 - end_date: '2002-03-08'
@@ -83,4 +84,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
 ---
+
+I will dedicate
+And sacrifice my everything for just a second's worth
+Of how my story's ending
+And I wish I could know if the directions that I take
+And all the choices that I make won't end up all for nothing
+Show me what it's for
+Make me understand it
+I've been crawling in the dark looking for the answer
+Is there something more than what i've been handed?
+I've been crawling in the dark looking for the answer
+Help me carry on
+Assure me it's ok to use my heart and not my eyes
+To navigate the darkness
+Will the ending be ever coming suddenly?
+Will I ever get to see the ending to my story?
+Show me what it's for
+Make me understand it
+I've been crawling in the dark looking for the answer
+Is there something more than what i've been handed?
+I've been crawling in the dark looking for the answer
+So when and how will I know?
+How much further do I have to go?
+How much longer until I finally know?
+Because I'm looking and I just can't see what's in front of me
+In front of me
+Show me what it's for
+Make me understand it
+I've been crawling in the dark looking for the answer
+Is there something more than what i've been handed?
+I've been crawling in the dark looking for the answer
+
+
 

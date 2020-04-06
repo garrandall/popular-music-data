@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-black-cadillacs-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/twoblackcadillacs.html
 name: Two Black Cadillacs
 rankings:
 - end_date: '2013-01-04'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
 ---
+
+Two black Cadillacs driving in a slow parade
+Headlights shining bright in the middle of the day
+One is for his wife,
+The other for the woman who loved him at night
+Two black Cadillacs meeting for the first time
+
+And the preacher said he was a good man
+And his brother said he was a good friend
+But the women in the two black veils didn't bother to cry
+Bye-bye, bye-bye
+
+They took turns laying a rose down
+Threw a handful of dirt into the deep ground
+He's not the only one who had a secret to hide
+Bye-bye, bye-bye, bye-bye
+
+Two black Cadillacs, two black Cadillacs
+
+Two months ago his wife called the number on his phone
+Turns out he'd been lying to both of them for oh so long
+They decided then
+He'd never get away with doing this to them
+Two black Cadillacs waiting for the right time, the right time
+
+And the preacher said he was a good man
+And his brother said he was a good friend
+But the women in the two black veils didn't bother to cry
+Bye, bye, bye, bye
+
+They took turns laying a rose down
+Threw a handful of dirt into the deep ground
+He's not the only one who had a secret to hide
+Bye-bye, bye-bye, bye-bye
+
+It was the first and the last time they saw each other face to face
+They shared a crimson smile and just walked away
+And left the secret at the grave
+
+And the preacher said he was a good man
+And his brother said he was a good friend
+But the women in the two black veils they didn't bother to cry
+Bye-bye, bye-bye
+
+They took turns laying a rose down
+Threw a handful of dirt into the deep ground
+He's not the only one who had a secret to hide
+Bye-bye, bye-bye, bye-bye
+
+
 

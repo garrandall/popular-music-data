@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-nights-heatwave
+lyrics_url: https://www.azlyrics.com/lyrics/heatwave/boogienights.html
 name: Boogie Nights
 rankings:
 - end_date: '1977-07-29'
@@ -115,4 +116,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
 ---
+
+Boogie nights, whoa
+Boogie nights, whoa
+
+(Boogie nights, boogie nights)
+(Boogie nights) ain't no doubt we are here to party
+(Boogie nights) come on now got to get it started
+Dance with the boogie get down
+(Dance with the boogie get down)
+'Cause boogie nights are always the best in town
+
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+
+(Boogie nights) get that groove let it take you higher
+(Boogie nights) make it move set this place on fire
+Dance with the boogie get down
+(Dance with the boogie get down)
+'Cause boogie nights are always the best in town
+
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+
+(Party night) can you show that you know how to do it
+(Boogie nights) do it, do it
+(Party night) settle down with the sounds of the music
+(Boogie night) music, music
+
+(Boogie nights) feel so right when you got the feeling
+(Boogie nights) hold you tight get to keep on dealing
+Dance with the boogie get down
+(Dance with the boogie get down)
+'Cause boogie nights are always the best in town
+
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+(Boogie nights, boogie nights)
+Got to keep on dancing, keep on dancing
+(Boogie nights, boogie nights)
+Got to keep on dancing, keep on dancing
+
+Dance with the boogie get down
+(Dance with the boogie get down)
+'Cause boogie nights are always the best in town
+
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+
+(Party night) can you show that you know how to do it
+(Boogie nights) do it, do it
+(Party night) settle down with the sounds of the music
+(Boogie night) music, music
+
+(Boogie nights) feel so right when you got the feeling
+(Boogie nights) hold you tight get to keep on dealing
+Dance with the boogie get down
+(Dance with the boogie get down)
+'Cause boogie nights are always the best in town
+
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+
+(Boogie nights, ohh)
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+(Boogie nights, ohh)
+Got to keep on dancing, keep on dancing
+Got to keep on dancing, keep on dancing
+
+(Boogie nights, ohh)
+If you wanna boogie, boogie, boogie, boogie nights
+(Boogie nights, ohh)
+If you wanna boogie, boogie, boogie, boggie nights
+
+
+
+Boogie nights, whoa
+Boogie nights, whoa
+
+
+
+
 

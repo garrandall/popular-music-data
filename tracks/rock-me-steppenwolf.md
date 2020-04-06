@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-me-steppenwolf
+lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/rockme.html
 name: Rock Me
 rankings:
 - end_date: '1969-03-07'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+
+She asked me maybe I could share her sorrow
+For all the men that tried to treat her wrong
+Though just a baby, awaiting her tomorrow
+It's rock me baby, rock me baby, all night long
+
+She needs an answer to her confusion
+Someone to guide her with tenderness
+But when she's askin' for a solution
+All that she gets, you know, is something like this
+
+I don't know where we come from
+Don't know where we're goin' to
+But if all this should have a reason
+We would be the last to know
+So let's just hope there is a promised land
+Hang on 'til then
+As best as you can
+
+Ev'rybody's ills, you know it fills her with compassion
+That's why she tries to save the world alone
+She helps the needy in her own fashion
+And tries to give them all her own
+
+She needs an answer to her confusion
+Someone to guide her with tenderness
+But when she's askin' for a solution
+All that she gets, you know, is
+Something like this
+
+Repeat Chorus
+
+
 

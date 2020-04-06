@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-walks-in-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/lovewalksin.html
 name: Love Walks In
 rankings:
 - end_date: '1986-08-15'
@@ -67,4 +68,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
 ---
+
+Contact
+Is all it takes
+To change your life
+To lose your place in time
+
+Contact!
+Asleep or awake
+Coming around
+You may wake up to find
+
+Questions deep within your eyes
+Now more than ever you realize
+
+And then you sense a change
+Nothing feels the same
+All your dreams are strange
+Love comes walkin' in
+
+Some kind of alien
+Reach for the opening
+Then simply pulls a string
+
+Another world
+Some other time
+You lay your sanity
+On the line
+
+Familiar faces
+Familiar sights
+Reach back
+Remember with all your might
+
+Ooh there she stands in a silken gown
+Silver lights shining down
+
+And then you sense a change
+Nothing feels the same
+All your dreams are strange
+Love comes walkin' in
+
+Some kind of alien
+Reach for the opening
+Then simply pulls a string
+Love comes walkin' in
+
+Sleep and dream that's all I crave
+I travel far across the Milky Way
+To my master I become a slave
+'Til we meet again some other day
+
+Where silence speaks as loud as war
+Earth returns to what it was before
+
+And then you sense a change
+Nothing feels the same
+All your dreams are strange
+Love comes walkin' in
+
+Some kind of alien
+Reach for the opening
+Then simply pulls a string
+Love comes walkin' in
+
+Love comes walkin' in
+Baby, pull the string
+Love comes walkin' in
+Love comes walkin' in
+
+
 

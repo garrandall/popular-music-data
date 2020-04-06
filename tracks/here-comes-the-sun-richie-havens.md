@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-comes-the-sun-richie-havens
+lyrics_url: https://www.azlyrics.com/lyrics/richiehavens/herecomesthesun.html
 name: Here Comes The Sun
 rankings:
 - end_date: '1971-03-26'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
 ---
+
+Here comes the sun, here comes the sun
+And I say it's alright
+
+Little darling, it's been a long, cold, lonely winter
+Little darling, it feels like years since it's been here
+Here comes the sun, here comes the sun
+And I say it's alright
+
+Little darling, the smiles returning to the faces
+Little darling, it seems like years since it's been here
+Here comes the sun, here comes the sun
+And I say it's alright
+
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+
+Little darling, I feel that ice is slowly melting
+Little darling, it seems like years since it's been clear
+Here comes the sun, here comes the sun
+And I say it's alright
+It's alright
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-time-we-went-joe-cocker
+lyrics_url: https://www.azlyrics.com/lyrics/joecocker/hightimewewent.html
 name: High Time We Went
 rankings:
 - end_date: '1971-05-28'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
 ---
+
+Well, it's five o'clock in the morning
+feel just like the end of a mule
+Somebody's been yawning
+trying to break out the rules.
+Yes, it's high time we went
+Ain't it high time we went?
+Ain't it high time we went there?
+Ain't it high time we went?
+
+Well, it's four o'clock in the morning,
+somebody's shouting the news,
+nobody's been yawning,
+Preachers all around for the blues.
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+
+Three o'clock and I'm dreaming,
+somebody's shouting the way,
+nobody can see me,
+trying to find a brand new day.
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+
+Two o'clock and I'm rolling,
+everywhere I look is the same,
+somebody's been calling,
+trying to put the blame on my name.
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+
+It's one o'clock and I'm falling,
+falling for the same old game,
+somebody's been shouting,
+let me be by the stage.
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+
+Well, it's twelve o'clock and I got there,
+didn't think I'd make it in time,
+somebody's been shouting,
+"Don't forget the lemon and lime."
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+Ain't it high time we went?
+
+
 

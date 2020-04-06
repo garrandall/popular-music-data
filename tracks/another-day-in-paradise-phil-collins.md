@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-day-in-paradise-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/copeland/anotherdayinparadise.html
 name: Another Day In Paradise
 rankings:
 - end_date: '1989-11-10'
@@ -79,4 +80,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
 ---
+
+She calls out to the man on the street, "Sir, can you help me?
+It's cold and I've nowhere to sleep. Is there somewhere you can tell me?"
+He walks on, doesn't look back, he pretends he can't hear her.
+He starts to whistle as he crosses the street, seems embarassed to be there.
+
+Oh, think twice, it's just another day for you and me in paradise.
+Oh, think twice, it's just another day for you, you and me in paradise.
+
+She calls out to the man on the street, he can tell she's been crying.
+She's got blisters on the soles of her feet, she can't walk, but she's trying. (trying)
+
+Oh, think twice, it's just another day for you and me in paradise.
+Oh, (oh) think twice, (oh) it's just another day for you, you and me in paradise.
+
+Oh Lord, is there nothing more anyone can do?
+Oh oh Lord, there must be something you can say..
+
+You can tell from the lines on her face, you can see that she's been there.
+Probably been moved on from everyplace, cause she didn't fit in there.
+
+Oh, think twice, it's just another day for you and me in paradise.
+Oh, (oh) think twice, (oh) it's just another day for you, you and me in paradise.
+Just think about it, ohh.....
+
+It's just another day for you and me in paradise
+It's just another day for you and me ohh....
+
+
 

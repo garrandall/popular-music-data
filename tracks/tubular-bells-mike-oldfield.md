@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tubular-bells-mike-oldfield
+lyrics_url: https://www.azlyrics.com/lyrics/mikeoldfield/farabovetheclouds.html
 name: Tubular Bells
 rankings:
 - end_date: '1974-03-01'
@@ -71,4 +72,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
+
+...far above the clouds
+far above the clouds
+far above the clouds...
+
+And the man in the rain picked up his bag of secrets, and journeyed up the mountainside, far above the clouds, and nothing was ever heard from him again...
+
+...except for the sound of Tubular Bells.
+
+
 

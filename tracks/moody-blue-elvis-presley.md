@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moody-blue-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/moodyblue.html
 name: Moody Blue
 rankings:
 - end_date: '1976-12-31'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
 ---
+
+Well, it's hard to be a gambler
+Bettin' on the number
+That changes ev'ry time
+Well, you think you're gonna win
+Think she's givin' in
+A stranger's all you find
+Yeah, it's hard to figure out
+What she's all about
+That she's a woman through and through
+She's a complicated lady, so color my baby moody blue,
+
+Oh, Moody blue
+Tell me am I gettin' through
+I keep hangin' on
+Try to learn the song
+But I never do
+Oh, Moody blue,
+Tell me who I'm talkin' to
+You're like the night and day
+And it's hard to say
+Which one is you.
+
+Well, when Monday comes she's Tuesday,
+When Tuesday comes she's Wednesday,
+Into another day again
+Her personality unwinds
+Just like a ball of twine
+On a spool that never ends
+Just when I think I know her well
+Her emotions reveal,
+She's not the person that
+I though I knew
+She's a complicated lady, so color my baby moody blue,
+
+Oh, Moody blue
+Tell me am I gettin' through
+I keep hangin' on
+Try to learn the song
+But I never do
+Oh, Moody blue,
+Tell me who I'm talkin' to
+You're like the night and day
+And it's hard to say
+Which one is you.
+
+
 

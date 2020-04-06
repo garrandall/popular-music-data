@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mmm-mmm-mmm-mmm-crash-test-dummies
+lyrics_url: https://www.azlyrics.com/lyrics/jeremyrenner/mmmmmmmmmmmm.html
 name: Mmm Mmm Mmm Mmm
 rankings:
 - end_date: '1994-02-04'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
 ---
+
+Once there was this kid who
+Got into an accident and couldn't come to school
+But when he finally came back
+His hair had turned from black into bright white
+He said that it was from when
+The cars had smashed so hard
+
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+
+Once there was this girl who
+Wouldn't go and change with the girls in the change room
+But when they finally made her
+They saw birthmarks all over her body
+She couldn't quite explain it
+They'd always just been there
+
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+
+But both girl and the boy were glad
+Cause one kid had it worse than that
+
+Cause then there was this boy whose
+Parents made him come directly home right after school
+And when they went to their church
+They shook and lurched all over the church floor
+He couldn't quite explain it
+They'd always just gone there
+
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+Mmm mmm mmm mmm
+
+
 

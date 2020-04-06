@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-caroline-glee-cast
+lyrics_url: https://www.azlyrics.com/lyrics/gleecast/sweetcaroline.html
 name: Sweet Caroline
 rankings:
 - end_date: '2009-11-13'
@@ -11,4 +12,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
 ---
+
+Where it began, I can't begin to knowing 
+But then I know it's growing strong 
+Was in the spring, 
+And spring became the summer 
+Who'd believe you'd come along 
+
+Hands, touching hands, reaching out 
+Touching me, touching you 
+Oh, sweet Caroline 
+Good times never seem so good 
+I've been inclined to believe it never would 
+
+Oh, sweet Caroline 
+Good times never seem so good 
+I've been inclined to believe it never would oooh oh no no..
+
+
 

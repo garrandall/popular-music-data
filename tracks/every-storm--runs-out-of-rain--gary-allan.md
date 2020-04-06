@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-storm--runs-out-of-rain--gary-allan
+lyrics_url: https://www.azlyrics.com/lyrics/garyallan/everystormrunsoutofrain.html
 name: Every Storm (Runs Out Of Rain)
 rankings:
 - end_date: '2012-10-26'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
 ---
+
+Oh so you're standing in the middle of the thunder and lightning
+I know you're feeling like you just can't win, but you're trying
+It's hard to keep on keepin' on, when you're being pushed around
+Don't even know which way is up, you just keep spinning down, 'round, down
+
+Every storm runs, runs out of rain
+Just like every dark night turns into day
+Every heartache will fade away
+Just like every storm runs, runs out of rain
+
+So hold your head up and tell yourself
+That there's something more
+And walk out that door
+Go find a new rose
+Don't be afraid of the thorns
+'Cause we all have thorns
+
+Just put your feet up to the edge
+Put your face in the wind
+And when you fall back down
+Keep on rememberin'
+
+Every storm runs, runs out of rain
+Just like every dark night turns into day
+Every heartache will fade away
+Just like every storm runs, runs out of rain
+
+It's gonna run out of pain
+It's gonna run out of sting
+It's gonna leave you alone
+It's gonna set you free
+Set you free
+
+Every storm runs, runs out of rain
+Just like every dark night turns into day
+Every heartache will fade away
+Just like every storm runs, runs out of rain
+
+It's gonna set you free
+It's gonna run out of pain
+And set you free
+
+
 

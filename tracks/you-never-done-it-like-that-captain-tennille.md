@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-never-done-it-like-that-captain-tennille
+lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/youneverdoneitlikethat.html
 name: You Never Done It Like That
 rankings:
 - end_date: '1978-08-11'
@@ -96,4 +97,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+
+You're so terrific, mmm
+You never done it like that
+You never been this way before
+To be specific, ooh
+You never done it like that
+Who went and opened up the door?
+
+Oh, my lips are burnin', yeah
+You never done it like that
+I thought the flame was dead and gone
+Oh, but you've been learnin', yeah
+You never done it like that
+How long has this been goin' on?
+
+Ooh, who's been teachin' you?
+Hey, little man, I wanna shake your hand
+One kiss from you and I feel just like Columbus
+I did discover you're some kinda lover
+
+My mind is blowin', ooh
+You never done it like that
+You got me climbin' up the walls
+Ooh, my love is growin', yeah
+You never done it like that
+You know you made me ten feet tall
+
+Ooh, what you're doin' (Ooh, what you do)
+Ooh, what you're doin' (Ooh, what you do)
+Ooh, what you're doin' (Ooh, what you do)
+You never done it, you never done it (You never done it)
+You never done it like that (You never, ever done it like that)
+
+Ooh, what you're doin' (Ooh, what you do)
+Yeah, what you're doin' (Ooh, what you do)
+Oh, what you're doin' (Ooh, what you do)
+You never done it, you never done it (You never done it)
+You never done it like that (You never, ever done it like that)
+
+Ooh, what a feelin', yeah
+You never done it like that
+Not since I can remember when
+Oh, on the ceilin', yeah
+You never done it like that
+Looks like we've got it on again
+
+Ooh, what you're doin' (Ooh, what you do)
+Yeah, what you're doin' (Ooh, what you do)
+Oh, what you're doin' (Ooh, what you do)
+You never done it, you never done it (You never done it)
+You never done it like that (You never, ever done it like that)
+
+Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
+Yeah, what you're doin' (Ohh, what you do, ooh, what you do)
+Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+You never done it, you never done it (You never done it)
+You never done it like that (You never, ever done it like that)
+
+Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
+Yeah, what you're doin' (Ohh, what you do, ooh, what you do)
+Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+You never done it. you never done it (You never done it)
+You never done it like that (You never, ever done it like that)
+
+Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
+Yeah, what you're doin' (Ooh, what you do, ooh, what you do)
+Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+(You never done it, you never done it) You never done it
+You never, ever done it like that
+
+Ooh, what you do
+Ooh, what you do
+Ooh, what you do
+Ooh, what you do
+Ooh, what you do
+Ooh, what you do
+You never done it
+You never, ever done it like that
+
+
 

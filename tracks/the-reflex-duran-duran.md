@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-reflex-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/thereflex.html
 name: The Reflex
 rankings:
 - end_date: '1984-04-27'
@@ -91,4 +92,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
 ---
+
+The reflex
+The reflex
+The reflex
+The reflex  (flex, flex, flex)
+
+"You've gone too far this time"
+But I'm dancing on the valentine
+I tell you somebody's fooling around
+With my chances on the dangerline
+I'll cross that bridge when I find it
+Another day to make my stand
+High time is no time for deciding
+If I should find a helping hand
+
+Why don't you use it?
+Try not to bruise it
+Buy time don't lose it
+
+Why don't you use it?
+Try not to bruise it
+Buy time don't lose it
+
+The reflex is an only child he's waiting by the park
+The reflex is in charge of finding treasure in the dark
+And watching over lucky clover isn't that bizarre
+Every little thing the reflex does
+Leaves you answered with a question mark
+
+I'm on a ride and I want to get off
+But they won't slow down the roundabout
+I sold the Renoir and the TV set
+Don't want to be around when this gets out
+
+So why don't you use it?
+Try not to bruise it
+Buy time don't lose it
+
+Why don't you use it?
+
+The reflex is an only child he's waiting in the park
+The reflex is in charge of finding treasure in the dark
+And watching over lucky clover isn't that bizarre
+Every little thing the reflex does
+Leaves you answered with a question mark
+
+Reflex
+
+So why don't you use it?
+Try not to bruise it
+Buy time don't lose it
+The reflex is an only child he's waiting by the park
+The reflex is in charge of finding treasure in the dark
+And watching over lucky clover isn't that bizarre
+Every little thing the reflex does
+Leaves you answered with a question mark
+
+Oh the reflex what a game he's hiding all the cards
+The reflex is in charge of finding treasure in the dark
+
+
 

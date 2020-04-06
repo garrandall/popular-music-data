@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-mama-j-j--cale
+lyrics_url: https://www.azlyrics.com/lyrics/jjcale/crazymama.html
 name: Crazy Mama
 rankings:
 - end_date: '1972-02-04'
@@ -63,4 +64,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
 ---
+
+Crazy mama, where you been so long
+Crazy mama, where you been so long
+You've been hiding out, I know that's true
+
+Crazy mama, I sure need you
+Crazy mama, where you been so long
+Standing on the corner, looking for you, baby
+
+Standing on the corner, looking for you, baby
+Lord mercy, I can not see, crazy mama coming back to me
+Crazy mama, where you been so long
+
+
 

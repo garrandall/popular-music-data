@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: imma-star--everywhere-we-are--jeremih
+lyrics_url: https://www.azlyrics.com/lyrics/jeremih/immastareverywhereweare.html
 name: Imma Star (Everywhere We Are)
 rankings:
 - end_date: '2009-08-14'
@@ -87,4 +88,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
 ---
+
+I thought I told ya 
+Ima star.
+You see the ice?
+You see the cars?
+Flashy lights. everywhere we are.
+Livin like, like there's no tomorrow 
+
+
+I got money.
+I dont need a range.
+Im a pimp.
+I dont need a cane.
+Be it kills charlie.
+You can keep the change.
+Now that I got the torch.
+Ima keep the flame.
+Ima keep my aim, gotta make the big shots.
+In my latest suit louie v flip flops.
+Gotta bad bitch her hair and nails tip top.
+Jeremih got the game on a slip knot. 
+Just before the stacks.
+I got rubberbands.
+Consumers only want you to supply demand.
+So here I am. check my DNA. 
+Gettin money's only thing on my resamay 
+
+
+I thought I told ya I'm a star 
+You see the ice? you see the cars?
+Flashy lights everywhere we are 
+Livin like like there's no tomorrow 
+
+
+Like the dealership I got buku cars 
+Penitentary I keep buku bars 
+Flow so hot, ridin buku large 
+Hollywood ground, I got buku stars 
+Dont need rogger ebert, or the paparazzi 
+Take on and alread the county stop me 
+I hit hella licks 
+Man hella staggin 
+Hit the weed man so you can get in touch with mary jane 
+You a scorpio? girl get over here 
+Ride me all night like you kin a paul revere. 
+Kissin on my neck 
+Nibblin on my ear. 
+You say you wanna chill? 
+Go head and grab a beer 
+
+
+I thought I told ya. I'm a star 
+You see the ice? you see the cars? 
+Flashy lights everywhere we are. 
+Livin like like there's no tomorrow 
+
+
+Flashy lights 
+Ohhhhh, ohhhhhh, ohh, ohh, ohhhh 
+Everywhere we are ohhh ohhh ohhhhh 
+Everywhere we are ohhh ohhh ohhhhh 
+
+
+Ok now I be ballin I I I be ballin 
+You can catch me in the ait.
+I be ballin 
+When im tryna buy some gear, I be mallin 
+In the middle of the club or where ever you call it. 
+Either the cameras flickin or the police clockin.
+Especially at the end of the month when its just not an option 
+
+Now they got the spotlight on me, why they put that on me 
+Now I'm never lonley cuz everywhere I go there's... 
+
+Flashy lights
+
+
 

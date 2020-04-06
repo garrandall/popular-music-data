@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: uhh-ahh-boyz-ii-men
+lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/timewillreveal.html
 name: Uhh Ahh
 rankings:
 - end_date: '1991-12-20'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-25'
 ---
+
+Uhh
+What can I do?
+To make you feel secure
+Remove all your doubts
+So that you'll know for sure that you're the apple of my eye, girl
+Fulfillment of my dreams
+Time, will show the value
+Of just what you mean to me
+More precious than silver
+More precious than diamond rings or anything that I can give you
+It wouldn't mean a thing
+If you didn't have my love beside you there to guide you through
+Well it is good to know you do
+
+I know just how you feel
+Well this time love's for real
+In time it will reveal
+That special love that's deep inside of us all will reveal in time
+
+I tell you I love you, but you don't believe it's true
+More precious than silver
+More precious than diamond rings or anything that I can give you
+It wouldn't mean a thing
+If you didn't have my love beside you there to guide you through
+But it is good to know you do, ahh
+
+I know just how you feel
+But this time love's for real
+In time it will reveal
+That special love that's deep inside of us will all reveal in time
+
+I know just how you feel
+But this time love's for real
+In time it will reveal
+That special love that's deep inside of us all will reveal in time
+
+Da da da...
+Or anything that I could give you
+It wouldn't mean a thing
+If you didn't have my love beside you there to guide you through
+Well it is good to know you do, ahh
+
+I know just how you feel
+But this time love's for real
+In time it will reveal
+That special love that's deep inside of us will all reveal in time
+
+I know just how you feel
+But this time love's for real
+In time it will reveal
+That special love that's deep inside of us will all reveal in time
+
+Oh, that special love in us will all reveal in time
+So let your little heart lay down upon me
+
+I know just how you feel
+But this time love's for real
+In time it will reveal
+That special love that's deep inside of us will all reveal in time
+
+
 

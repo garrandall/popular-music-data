@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: carrie-cliff-richard
+lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/carrie.html
 name: Carrie
 rankings:
 - end_date: '1980-02-29'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
 ---
+
+Sorry to disturb you
+But I was in the neighbourhood
+About a friend I've her picture
+Could you take a look?
+Oh, I appreciate you're busy
+And time is not your own
+Yeah, maybe it would be better
+If I telephoned
+
+
+Carrie doesn't live here anymore
+Carrie used to room on the second floor
+Sorry that she left no forwarding address
+That was known to me
+Carrie doesn't live here anymore
+You could always ask at the corner store
+Carrie had a date with her own kind of fate
+It's plain to see
+
+Another missing person
+One of many we assume
+The young wear their freedom
+Like cheap perfume
+(It's useless information)
+Returning my call
+(To help the situation)
+They've nothing at all
+You're just another message
+On a payphone wall
+
+
+
+
 

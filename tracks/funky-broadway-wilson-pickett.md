@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funky-broadway-wilson-pickett
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/funkybroadway.html
 name: Funky Broadway
 rankings:
 - end_date: '1967-08-11'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
 ---
+
+Every town I go in, there's a street
+Name of the street, ha
+Funky, Funky Broadway
+Down on Broadway
+There's a nightclub
+Now, now, name of the nightclub, now baby
+Funky, Funky Broadway
+Down on Broadway
+There's a crowd, now
+Name of the crowd, baby
+Broadway Crowd
+Down on Broadway, ya
+There's a dance step, ha
+Name of the dance
+Funky, Funky Broadway
+
+Wiggle your legs now, baby
+Shake your head up
+Do the shing-a-ling now, baby
+Shake, shake, shake, now
+You don't know, baby
+You don't know now, woman
+Do the Funky Broadway
+
+Lord have mercy
+
+Oh, you got me feelin' alright
+
+Dirty filthy Broadway
+Don't I like Broadway, ha
+At Broadway, look-ee here
+Down Broadway, there's a woman
+Name of the woman, ha
+Broadway Woman
+Down on Broadway, yeah
+There's a man, ha
+Name of the man, now
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smiling-faces-sometimes-the-undisputed-truth
+lyrics_url: https://www.azlyrics.com/lyrics/angiestone/smilingfacessometimes.html
 name: Smiling Faces Sometimes
 rankings:
 - end_date: '1971-07-02'
@@ -79,4 +80,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
 ---
+
+Smiling faces sometimes pretend to be your friend
+Smiling faces show no traces of the evil that lurks within
+Smiling faces, smiling faces sometimes
+They don't tell the truth, uh
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+The truth is in the eyes
+Cause the eyes don't lie, amen
+Remember a smile is just
+A frown turned upside down
+My friend, ah-ha, so give me when I tell you
+Smiling faces, smiling faces sometimes
+They don't tell the truth, listen
+Smiling faces, smiling faces
+Tell lies and I got proof
+Beware of the handshake
+That hides the snake
+I'm telling you of the pat on the back
+It just might hold you back
+Jealousy (jealousy)
+Misery (misery)
+Envy
+
+You can't see behind smiling faces
+Smiling faces sometimes they don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+Yeah-eh, yeah
+
+Um
+Eh
+Two, three, eh
+
+Smiling faces (smiling)
+Show no traces (show)
+Of the evil that lurks within (oh ohh)
+
+Smiling faces (smiling faces)
+Smiling faces tell lies (say that lie)
+They don't tell the truth
+
+Smiling faces (smiling faces)
+Smiling faces tell lies (tell lies)
+And I got proof (I got proof)
+
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+
+Listen
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+Smiling faces, smiling faces...
+
+
 

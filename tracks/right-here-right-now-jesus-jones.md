@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-here-right-now-jesus-jones
+lyrics_url: https://www.azlyrics.com/lyrics/annanalick/righthererightnow.html
 name: Right Here Right Now
 rankings:
 - end_date: '1991-04-19'
@@ -107,4 +108,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
 ---
+
+A woman on the radio talks about revolution
+When it's already passed her by
+Bob Dylan didn't have this to sing about
+Didn't know it could feel this good to be alive
+
+I was alive and I waited, waited
+I was alive and I waited for this
+
+Right here, right now
+There is no other place I wanna be
+Right here, right now
+Watching the world wake up from history
+
+I saw the decade end, when it seemed the world could change
+At the blink of an eye
+And if anything
+Then there's your sign of the times
+
+I was alive and I waited, waited
+I was alive and I waited for this
+
+Right here, right now
+
+I was alive and I waited, waited
+I was alive and I waited for this
+
+Right here, right now
+There is no other place I wanna be
+Right here, right now
+Watching the world wake up from history
+
+Right here, right now
+There is no other place I wanna be
+Right here, right now
+Watching the world wake up
+
+Right here, right now
+There is no other place I wanna be
+Right here, right now
+Watching the world wake up from history
+
+
 

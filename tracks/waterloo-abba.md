@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waterloo-abba
+lyrics_url: https://www.azlyrics.com/lyrics/abba/waterloo.html
 name: Waterloo
 rankings:
 - end_date: '1974-06-07'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
+
+My, my, at Waterloo Napoleon did surrender
+Oh yeah, and I have met my destiny in quite a similar way
+The history book on the shelf
+Is always repeating itself
+
+Waterloo - I was defeated, you won the war
+Waterloo - promise to love you for ever more
+Waterloo - couldn't escape if I wanted to
+Waterloo - knowing my fate is to be with you
+Waterloo - finally facing my Waterloo
+
+My, my, I tried to hold you back but you were stronger
+Oh yeah, and now it seems my only chance is giving up the fight
+And how could I ever refuse
+I feel like I win when I lose
+
+Waterloo - I was defeated, you won the war
+Waterloo - promise to love you for ever more
+Waterloo - couldn't escape if I wanted to
+Waterloo - knowing my fate is to be with you
+Waterloo - finally facing my Waterloo
+
+So how could I ever refuse
+I feel like I win when I lose
+
+Waterloo - couldn't escape if I wanted to
+Waterloo - knowing my fate is to be with you
+Waterloo - finally facing my Waterloo
+
+Waterloo - knowing my fate is to be with you
+Waterloo - finally facing my Waterloo
+Waterloo - knowing my fate is to be with you
+
+
 

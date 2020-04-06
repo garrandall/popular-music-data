@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-made-it-through-the-rain-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/imadeitthroughtherain.html
 name: I Made It Through The Rain
 rankings:
 - end_date: '1980-11-28'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
 ---
+
+We dreamers have our ways
+Of facing rainy days
+And somehow we survive
+We keep the feelings warm
+Protect them from the storm
+Until our time arrives
+Then one day the sun appears
+And we come shining through those lonely years
+
+I made it through the rain
+I kept my world protected
+I made it through the rain
+I kept my point of view
+I made it through the rain
+
+And found myself respected
+By the others who
+Got rained on too
+And made it through
+When friends are hard to find
+And life seems so unkind
+Sometimes you feel so afraid
+Just aim beyond the clouds
+And rise above the crowds
+And start your own parade
+'Cause when I chased my fears away
+That's when I knew that I could finally say
+
+I made it through the rain
+I kept my world protected
+I made it through the rain
+I kept my point of view
+I made it through the rain
+
+And found myself respected
+By the others who
+Got rained on too
+And made it through
+
+I made it through the rain
+I kept my world protected
+I made it through the rain
+I kept my point of view
+I made it through the rain
+
+And found myself respected
+By the others who
+Got rained on too
+And made it through
+And made it through
+I made it through
+
+
 

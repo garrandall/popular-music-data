@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mornin--jarreau
+lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/mornin.html
 name: Mornin'
 rankings:
 - end_date: '1983-03-25'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+Mornin' Mister Radio
+Mornin' little Cheerios
+Mornin' sister oriole
+Did I tell you everything is fine 
+In my mind?
+
+Mornin' Mister Shoeshine man
+Shine'em bright in white and tan
+Baby said she loves me and
+Need I tell you that everything here is just fine
+In my mind
+
+'Scuse me if I sing 
+My heart has found its wings
+Searchin' high and low
+And now at last I know
+
+Mornin' Mister Golden Gate
+I should walk but I can't wait
+I can't wait to set it straight
+I was shakin' but now I am makin' it fine 
+Here in my mind
+
+My heart will soar
+With love that's rare and real
+My smiling face will feel every cloud
+Then higher still beyond the blue until
+I know I can like any man reach out my hand
+And touch the face of God
+
+'Scuse me if I sing 
+My heart has found its wings
+Searchin' high and low
+And now at last I know
+
+Mornin' Mister Radio
+Mornin' little Cheerios
+Mornin' sister oriole
+Did I tell you everything is fine
+In my mind
+
+So won't you get up, oriole
+So won't you get up, Cheerio
+Wake up, Mister Radio
+ it's fine
+Here in my mind
+
+Singin' about mornin' little radio
+Mornin' little Cheerios
+Wake up, Mister Radio
+Need I tell you everything right is just doing fine
+Woo, in my mind
+
+
 

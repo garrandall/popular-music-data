@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-a-little-bit-supertramp
+lyrics_url: https://www.azlyrics.com/lyrics/supertramp/givealittlebit.html
 name: Give A Little Bit
 rankings:
 - end_date: '1977-06-10'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
 ---
+
+Alright
+Here we go again
+
+Give a little bit
+Give a little bit of your love to me
+I'll give a little bit
+I'll give a little bit of my love to you
+
+There's so much that we need to share
+So send a smile and show you care
+
+Alright, alright
+
+I'll give a little bit
+I'll give a little bit of my life for you
+So give a little bit
+Oh, give a little bit of your time to me
+
+See the man with the lonely eyes
+Oh, take his hand, you'll be surprised
+
+Oh, take it
+
+Come along
+Come on
+
+Give a little bit
+Give a little bit of your love to me
+I give a little bit
+I give a little bit of my life for you
+
+Now's the time that we need to share
+So, find yourself, we're on our way back home
+
+Going home
+Don't you need, don't you need to feel at home?
+Oh, yeah, we gotta see
+
+You gotta get a feeling
+You come along too
+
+You can come along too, yeah
+Come aâ, come aâ, come aâ, come along
+
+Cha, cha, cha
+Ooh, yeah, come along too
+Yeah, come along too, yeah
+Sing Betty Lou
+
+Come along too
+What a long ride
+Come a long way
+Ooh, sing it tonight
+
+
 

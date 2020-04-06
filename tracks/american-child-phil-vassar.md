@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-child-phil-vassar
+lyrics_url: https://www.azlyrics.com/lyrics/philvassar/americanchild.html
 name: American Child
 rankings:
 - end_date: '2002-08-30'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
 ---
+
+I was ten,
+I was thin,
+I was playing first base
+with a secondhand glove and dirt on my face
+In nowhere, Virginia
+Who'd ever figure that kid in the yard would go very far
+It was 419 Lakewood , had no silverspoons
+Just an old beat up upright that played out of tune
+Now I'm singin' and living the life that I love
+And when I count my blessings I thank God I was
+An American child
+
+An American child
+'Cause dreams can grow wild
+Born inside an American child
+
+Seven pounds, three ounces, she's got my nose
+And she's into my heart as deep as it goes
+With a promise that's more than just someone's last name
+Anyone's equal, in late August came
+An American child
+
+An American child
+'Cause dreams can grow wild
+Born inside an American child
+
+My grandfather would have been eighty today
+But in '45 he fell down beside an American child
+
+An American child
+Oh, an American child
+'Cause dreams can grow wild born inside an American child
+An American child
+
+
 

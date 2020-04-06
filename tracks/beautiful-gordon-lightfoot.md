@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/beautiful.html
 name: Beautiful
 rankings:
 - end_date: '1972-06-02'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
 ---
+
+At times I just don't know
+How you could be anything but beautiful
+I think that I was made for you
+And you were made for me 
+
+And I know that I won't ever change
+'Cause we've been friends
+Through rain or shine
+For such a long, long time 
+
+Laughing eyes and smiling face
+It seems so lucky just to have the right
+Of telling you with all my might
+You're beautiful tonight 
+
+And I know that you will never stray
+'Cause you've been that way
+From day to day
+For such a long, long time 
+
+And when you hold me tight
+How could life be anything but beautiful
+I think that I was made for you
+And you were made for me 
+
+And I know that I won't ever change
+'Cause we've been friends
+Through rain or shine
+For such a long, long time 
+
+And I must say it means so much to me 
+To be the one who's telling you
+I'm telling you
+That you're beautiful
+
+
 

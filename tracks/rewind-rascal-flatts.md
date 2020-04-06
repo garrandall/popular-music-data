@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rewind-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/rewind.html
 name: Rewind
 rankings:
 - end_date: '2014-02-07'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
 ---
+
+Wish I could reach up and reset that sun
+Reverse these wheels go back and re-pick you up
+Went by so fast, oh, so sweet
+Make me wanna remake a memory
+Wish I had me a time machine
+
+Oh, I float the moon back up in the sky
+Put a cork back into that sweet red wine
+Put your midnight hair back up
+So you can let it fall one more time
+Untouch your skin
+Unkiss your lips and kiss 'em again
+So good, so right,
+This is one night I'm wishing I could rewind
+
+I turn back that radio dial re-open your door,
+Try to talk George Strait into giving us an encore
+Re-spin you around
+Replay that sound
+Of you laughing when we hit the ground,
+I can see it now how 'bout we
+
+Float the moon back up in the sky,
+Put a cork back into that sweet red wine
+Put your midnight hair back up
+So you can let it fall one more time
+Untouch your skin
+Unkiss your lips and kiss 'em again
+So good, so right,
+This is one night I'm wishing I could rewind
+
+I wanna re-fall and re-fly
+Baby, re-live this night
+
+Float the moon back up in the sky,
+Put a cork back into that sweet red wine
+Put your midnight hair back up
+So you can let it fall one more time
+Untouch your skin
+Unkiss your lips and kiss 'em again
+So good, so right,
+This is one night I'm wishing I could rewind
+
+(Float the moon back up in the sky)
+I'm wishing I could rewind
+(put a cork back into that sweet red wine)
+I wanna re-live this night
+So good, so right
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hot-fun-in-the-summertime-sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/hotfuninthesummertime.html
 name: Hot Fun In The Summertime
 rankings:
 - end_date: '1969-08-15'
@@ -72,4 +73,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
 ---
+
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+
+End of the spring
+And here she comes back
+Hi hi hi hi there
+Well, summer days
+Those summer days
+I'd lie down when I want to
+Out of school
+County fair in the country sun
+And everything is cool
+
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+
+That's when I had most of my fun back
+Hi hi hi hi there
+Well, summer days
+Those summer days
+
+That's when I had most of my fun back
+Hi hi hi hi there
+Well, summer days
+Those summer days
+
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-on-the-mountain-the-marshall-tucker-band
+lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/fireonthemountain.html
 name: Fire On The Mountain
 rankings:
 - end_date: '1975-10-24'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
 ---
+
+Took my fam'ly away from my Carolina home 
+Had dreams about the West and started to roam 
+Six long months on a dust covered trail 
+They say heaven's at the end but so far it's been hell 
+And there's fire on the mountain, lightnin' in the air 
+Gold in them hills and it's waitin' for me there 
+
+We were diggin' and siftin' from five to five
+Sellin' everything we found just to stay alive
+Gold flowed free like the whiskey in the bars
+Sinnin' was the big thing, lord and Satan was his star 
+And there's fire on the mountain, lightnin' in the air 
+Gold in them hills and it's waitin' for me there 
+
+Dance hall girls were the evenin' treat
+Empty cartridges and blood lined the gutters of the street
+Men were shot down for the sake of fun
+Or just to hear the noise of their forty-four guns
+And there's fire on the mountain, lightnin' in the air
+Gold in them hills and it's waitin' for me there
+
+Now my widow she weeps by my grave
+Tears flow free for her man she couldn't save
+Shot down in cold blood by a gun that carried fame
+All for a useless and no good worthless claim
+
+And there's fire on the mountain, lightnin' in the air
+Gold in them hills and it's waitin' for me there
+Fire on the mountain, lightnin' in the air
+Gold in them hills and it's waitin' for me there
+Waitin' for me there
+
+
 

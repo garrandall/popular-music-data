@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-her-in-john-travolta
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/ithinkyoumightlikeit.html
 name: Let Her In
 rankings:
 - end_date: '1976-05-07'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
+
+Here comes my hometown
+Itâs so good to get my wheels down
+Iâm coming home tonight
+Here comes that magic
+That spell of Christmas Eve
+Thereâs nothing you can do
+When youâre having fun to sleep
+
+My mind is going
+A little crazy knowing
+Youâre coming home tonight
+I canât help smiling
+To strangers on my street
+Iâm singing to myself
+And tripping over my own feet
+Iâm coming home
+
+
+Iâve got a little plan for you
+I think you might like it
+Letâs do a little dance for two
+I think you might like it
+And then weâre gonna hideaway
+Making up all night
+And we can cry tomorrow
+Wash away so wonderful why
+I think you might like it
+
+Oh baby I kind of like
+So many got to come by
+Hey Iâm coming home tonight
+Your mamaâs gonna swinging 
+Do you hear what I hear
+And in a little while sheâll be swinging from the chandelier
+
+No stopping at the ways
+Tickling the ivorys
+Iâm coming home tonight
+Whole town gonna be there
+It will be a squeeze
+You better put your sleigh
+In a holding pattern Santa please
+Iâm coming home
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-time-any-place-janet-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/anytimeanyplace.html
 name: Any Time Any Place
 rankings:
 - end_date: '1994-06-03'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
 ---
+
+In the thunder and rain
+You stare into my eyes
+I can feel your hand
+Movin up my thighs
+
+Skirt around my waist
+Wall against my face
+I can feel your lips
+Oooh
+
+
+I don't wanna stop just because
+People walkin by are watchin us
+I don't give a damn what they think
+I want you now
+I don't wanna stop just because
+You feel so good inside of my love
+I'm not gonna stop no no no
+I want you
+All I wanna say is
+
+
+Any time
+And any place
+I don't care who's around
+Mmmm
+
+Any time
+And any place
+I don't care who's around
+Nonononono
+Weeoooh-hooo
+Ooooooohooo
+Hoohoo
+
+Dancin on the floor
+Feelin the slow groove
+My mind is startin to burn
+With forbidden thoughts
+
+Strangers all around
+With the lights down low
+I was thinkin maybe we could
+Well...you know
+
+
+
+
+
+
 

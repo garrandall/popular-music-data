@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-day-now-ronnie-milsap
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/anydaynow.html
 name: Any Day Now
 rankings:
 - end_date: '1982-05-07'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
 ---
+
+Any day now, I will hear you say,
+Good bye, my love. 
+And you'll be on your way.
+Then my wild beautiful bird, you will have flown.
+Any day now, I'll be all alone. 
+
+Any day now, when your restless eyes meets someone new,
+Oh, to my sad surprise,
+Then blue shadows will fall all over town
+Any day now, love will let me down. 
+
+I know I shouldn't want to keep you, 
+If you don't want to stay,
+Until you're gone forever, 
+I'll keep holding on for dear life.
+
+Holding you this way, 
+Begging you to stay,
+Any day now, when the clock strikes go, you'll call it off.
+Then my tears will flow.
+Then my wild beautiful bird, you will have flown.
+Any day now, love will let me down.
+Cause you won't be around.
+
+Oh, then the blue shadows will fall all over town.
+Any day now, love will let me down,
+Cause you won't be around.
+Any day now, you won't be around
+No, no, no, no, no, no, you won't be around.
+
+
 

@@ -5,6 +5,7 @@ features:
 - Skylar Grey
 genres: []
 key: coming-home-diddy---dirty-money-skylar-grey
+lyrics_url: https://www.azlyrics.com/lyrics/diddydirtymoney/cominghome.html
 name: Coming Home
 rankings:
 - end_date: '2010-12-17'
@@ -104,4 +105,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
 ---
+
+
+I'm coming home, I'm coming home
+Tell the world I'm coming home
+Let the rain wash away
+All the pain of yesterday
+I know my kingdom awaits
+And they've forgiven my mistakes
+I'm coming home, I'm coming home
+Tell the world I'm coming
+
+
+I'm back where I belong (yeah)
+I never felt so strong, man (I'm back, baby)
+I feel like there's nothing I can't try
+And if you feel me put your hands high (put your hands high)
+If you ever lost a light before, this one's for you
+(Baby, put your hands high)
+And you, the dreams are for you
+
+I hear the "Tears of a Clown," uh, I hate that song
+I always feel like they're talking to me, when it comes on (come on)
+Another day, another dawn
+Another Keisha, nice to meet ya, get the math, I'm gone
+What am I supposed to do when the club lights come on?
+It's easy to be Puff but it's harder to be Sean
+What if my twins ask why I ain't marry their mom?
+Damn, how do I respond?
+What if my son stares with a face like my own
+And says he wants to be like me when he's grown?
+Shit! But I ain't finished growing
+Another night, the inevitable prolongs
+Another day, another dawn
+Just tell Keisha and Teresa I'll be better in the morn'
+(I'll be better in the morn')
+Another lie that I carry on
+I need to get back to the place where I belong
+
+
+I'm coming home, I'm coming home
+Tell the world that I'm coming home
+Let the rain wash away
+All the pain of yesterday
+I know my kingdom awaits
+And they've forgiven my mistakes
+I'm coming home, I'm coming home
+Tell the world I'm coming home
+
+
+"A House Is Not a Home," I hate this song
+Is a house really a home when your loved ones is gone?
+And niggas got the nerve to blame you for it
+And you know you woulda took the bullet if you saw it
+But you felt it, and still feel it
+And money can't make up for it or conceal it
+But you deal with it (deal with it), and you keep ballin'
+Pour out some liquor, playboy, and we keep ballin' (ballin')
+Baby, we've been living in sin
+Cause we've been really in love, but we been living as friends
+So you've been a guest in your own home
+It's time to make your house your home
+Pick up your phone, come on
+
+
+I'm coming home, I'm coming home
+Tell the world that I'm coming home
+Let the rain wash away
+All the pain of yesterday
+I know my kingdom awaits
+And they've forgiven my mistakes
+I'm coming home, I'm coming home
+Tell the world I'm coming
+
+
+"Ain't No Stopping Us Now," I love that song
+Whenever it comes on, it makes me feel strong
+I thought I told y'all that we won't stop
+Til we back cruising through Harlem, these old blocks
+It's what made me, saved me, drove me crazy
+Drove me away, then embraced me
+Forgave me for all of my shortcomings
+Welcome to my homecoming
+Yeah, it's been a long time coming
+Lot of fights, lot of scars, lot of bottles
+Lot of cars, lot of ups, lot of downs
+Made it back, lost my dog (I miss you Big!)
+But here I stand (here I stand), a better man
+Thank you, Lord! Thank you all
+
+
+I'm coming home, I'm coming home
+Tell the world that I'm coming home
+Let the rain wash away
+All the pain of yesterday
+I know my kingdom awaits
+And they've forgiven my mistakes
+I'm coming home, I'm coming home
+Tell the world I'm coming
+
+
 

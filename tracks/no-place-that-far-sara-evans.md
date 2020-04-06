@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-place-that-far-sara-evans
+lyrics_url: https://www.azlyrics.com/lyrics/saraevans/noplacethatfar.html
 name: No Place That Far
 rankings:
 - end_date: '1998-12-18'
@@ -83,4 +84,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
 ---
+
+I can't imagine, any greater fear
+Then waking up, without you here
+And though the sun, would still shine on
+My whole world, would all be gone
+But not for long
+
+If I had to run, if I had to crawl
+If I had to swim a hundred rivers, just to climb a thousand walls
+Always know that I would find a way, to get to where you are
+There's no place that far
+
+It wouldn't matter why we're apart
+Lonely minds or two stubborn hearts
+Nothing short of God above
+Could turn me away from your love
+I need you that much
+
+If I had to run, if I had to crawl
+If I had to swim a hundred rivers, just to climb a thousand walls
+Always know that I would find a way, to get to where you are
+There's no place that far
+
+If I had to run, if I had to crawl
+If I had to swim a hundred rivers, just to climb a thousand walls
+Always know that I would find a way, to get to where you are
+There's no place that far
+
+Baby there's no place that far
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-gonna-take-a-miracle-deniece-williams
+lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/itsgonnatakeamiracle.html
 name: It's Gonna Take A Miracle
 rankings:
 - end_date: '1982-04-09'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
 ---
+
+Loving you so
+I was to blind to see
+You letting me go
+But now that you've set me free
+It's gonna take a miracle
+Yes, it's gonna take a miracle
+To make me love someone new
+Cause I'm crazy for you
+
+Oh oh, didn't you know
+It wouldn't be so easy
+You lettin' me go
+You can be sure that now it's gonna take a miracle
+Yes, it's gonna take a miracle
+To make me love someone new
+Cause I'm crazy for you
+
+Oh, tho' I know I can't forget about you
+I'm gonna try to show how much
+You're turning me around, destroying me
+I'll never be the same anymore
+
+You must realize
+You took your love and left me
+Quite by surprise
+You can be sure that now it's gonna take a miracle
+Yes, it's gonna take a miracle
+To make me love someone new
+Cause I'm crazy for you
+
+
 

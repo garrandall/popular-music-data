@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bother-stone-sour
+lyrics_url: https://www.azlyrics.com/lyrics/stonesour/bother.html
 name: Bother
 rankings:
 - end_date: '2002-11-08'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
 ---
+
+Wish I was too dead to cry
+My self-affliction fades
+Stones to throw at my creator
+Masochists to which I cater
+You don't need to bother;
+I don't need to be 
+I'll keep slipping farther
+But once I hold on,
+I won't let go 'til it bleeds
+
+Wish I was too dead to care
+If indeed I cared at all
+Never had a voice to protest
+So you fed me shit to digest
+I wish I had a reason;
+my flaws are open season
+For this, I gave up trying
+One good turn deserves my dying
+
+You don't need to bother;
+I don't need to be
+I'll keep slipping farther
+But once I hold on,
+I won't let go 'til it bleeds
+
+
+
+Wish I'd died instead of lived
+A zombie hides my face
+Shell forgotten
+with its memories
+Diaries left
+with cryptic entries
+
+And you don't need to bother;
+I don't need to be
+I'll keep slipping farther
+But once I hold on,
+I won't let go 'til it bleeds
+
+You don't need to bother;
+I don't need to be
+I'll keep slipping farther
+But once I hold on:
+I'll never live down my deceit
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: understanding-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/xscape/understanding.html
 name: Understanding
 rankings:
 - end_date: '1993-12-31'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
 ---
+
+
+What I need from you is understanding,
+How can we communicate,
+If you don't hear what I say.
+What I need from you is understanding,
+So simple as 1-2-3,
+Understanding is what we need.
+
+
+You don't really know me,
+You just wanna do what you wanna do.
+That's not the way it should be,
+No, you should listen to me boy.
+I try so very hard to make you understand,
+But the choices you make, baby they're all demands.
+
+
+
+I try so very hard to keep our love alive,
+But you don't wanna meet me half way,
+Then the understanding dies.
+
+There's no way that we can work it out,
+If we don't pull together.
+I don't mean to be demanding,
+But I want some understanding,
+I want to be with you.
+
+
+
+
+I listen to you baby,
+And I know the things you're going through.
+I try to understand,
+That's why I'm still here with you, baby.
+See everyday we're living,
+Is one thing that will always be unsure.
+That's why I need you baby, pleading baby,
+Please let our love endure.
+
+
+
+
+
+
 

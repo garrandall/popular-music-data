@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stir-it-up-patti-labelle
+lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/stiritup.html
 name: Stir It Up
 rankings:
 - end_date: '1985-06-21'
@@ -63,4 +64,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
 ---
+
+Stir it up
+Stir it up
+Stir it up
+Stir it up
+I can't sit here while I go nowhere
+Chase my dreams through the polluted air
+Walking on a wire, running out of time
+There's no room in this ol' heart of mine
+Bill collectors waiting down the hall
+Neighbors scream and crack the bedroom wall
+Nerves jump off the pavement, passion hits the street
+Angels cookin' in the city heat
+World's too crazy, I can't take no more
+I won't stay here locked behind the door
+Baby, stir it up, got to break it up now
+When I think about tomorrow, ooh, I can't wait to
+Stir it, got to shake it up now
+If I have to beg or borrow, I'm not gonna take it anymore, mmm, mmm
+Hungry minds do stare you in the eyes
+Spread it thick and lay the biggest lies
+Don't say what you feel, must play hard to get
+All those time bombs tickin' in your head
+So much pressure to keep holdin' on
+Pack my clothes up, baby, I'll be gone
+I've got to stir it up, got to break it up now
+When I think about tomorrow, ooh, I can't wait to
+Stir it, got to shake it up now
+If I have to beg or borrow, I'm not gonna take it anymore, mmm, mmm
+Can't find love because it's trapped inside
+Can't find freedom flirting with line
+Make some room in this ol' heart of mine
+So much pressure to keep holdin' on
+Pack my clothes up, baby, I'll be gone
+Stir it up, I've got to break it up now
+When I think about tomorrow, I can't wait to
+Stir it, got to shake it up now
+If I have to beg or borrow, I don't wanna take it anymore
+Stir it up, got to break it up now
+When I think about tomorrow, I can't wait to
+Stir it, got to shake it up now
+If I have to beg or borrow, I don't wanna take it anymore
+
+Stir it up
+Stir it up
+Stir it up
+Stir it up
+Stir it up
+Baby, there is so much pressure to keep me holdin' on
+Got to pack up my clothes and, baby, I'll be gone
+Stir it up, got to break it up now
+When I think about tomorrow, I can't wait to
+Stir it, got to shake it up now
+If I have to beg or borrow, I don't wanna take it no more
+Stir it up, got to break it up now
+I'm gonna stir it up, gonna stir it up
+I'm not gonna take it no more, no more, no more, no more, no more, no more
+Mmm Stir it up, got to break it up now 
+Stir it up, got to break it up now
+(Mmm...got to stir it up) 
+Stir it up, got to break it up now 
+(Stir it up, baby, I...I'm gettin' out of here) 
+Stir it up, got to shake it up now
+(Stir it up, baby, I...I'm gettin' out of here) 
+Stir it up, got to break
+it up now Stir it, got to shake it up now 
+If I have to beg or borrow, I don't wanna take it no more 
+Stir it up, got to break it up now 
+When I think about tomorrow, I can't wait to 
+Stir it, got to shake it up now 
+I'm gonna stir it up, gonna stir it up 
+I'm not gonna take it no more, no more, no more, no more, no more, no more, no more 
+Mmm Stir it up, got to break it up now 
+Stir it up, got to break it up now 
+(Ooh...got to sir it up) 
+Stir it up, got to break it up now 
+(Stir it up, baby, I...I'm gettin' out of here) 
+Stir it up, got to shake it up now 
+(Stir it up, baby, I...I'm gettin' out of here) 
+Stir it up, got to break it up no
+
+
 

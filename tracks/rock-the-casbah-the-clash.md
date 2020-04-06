@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-the-casbah-the-clash
+lyrics_url: https://www.azlyrics.com/lyrics/trustcompany/rockthecasbah.html
 name: Rock The Casbah
 rankings:
 - end_date: '1982-10-08'
@@ -103,4 +104,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+Now the king told the boogie men 
+You have to let that raga drop 
+The oil down the desert way 
+Has been shakin' to the top 
+The sheik he drove his Cadillac 
+He went a' cruisnin' down the ville 
+The muezzin was a' standing 
+On the radiator grille 
+
+
+The shareef don't like it 
+Rockin' the Casbah 
+Rock the Casbah 
+The shareef don't like it 
+Rockin' the Casbah 
+Rock the Casbah 
+
+By order of the prophet 
+We ban that boogie sound 
+Degenerate the faithful 
+With that crazy Casbah sound 
+But the Bedouin they brought out 
+The electric camel drum 
+The local guitar picker 
+Got his guitar picking thumb 
+As soon as the shareef 
+Had cleared the square 
+They began to wail 
+
+
+
+Now over at the temple 
+Oh! They really pack 'em in 
+The in crowd say it's cool 
+To dig this chanting thing 
+But as the wind changed direction 
+The temple band took five 
+The crowd caught a wiff 
+Of that crazy Casbah jive 
+
+
+
+The king called up his jet fighters 
+He said you better earn your pay 
+Drop your bombs between the minarets 
+Down the Casbah way 
+
+As soon as the shareef was 
+Chauffeured outta there 
+The jet pilots tuned to 
+The cockpit radio blare 
+
+As soon as the shareef was 
+Outta their hair 
+The jet pilots wailed 
+
+
+
+He thinks it's not kosher 
+Fundamentally he can't take it. 
+You know he really hates it.
+
+
 

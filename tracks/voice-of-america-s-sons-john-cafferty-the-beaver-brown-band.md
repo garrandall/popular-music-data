@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: voice-of-america-s-sons-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/voiceofamericassons.html
 name: Voice Of America's Sons
 rankings:
 - end_date: '1986-06-20'
@@ -40,4 +41,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
 ---
+
+You better wake up, little Johnny
+Better wake up real
+soon
+The time has come now
+For me and you
+
+Spent
+those years dreaming
+But the dreams didn't
+last
+Time is moving much too fast
+Turn the radio
+on
+
+Well they built those factories
+With blood,
+sweat and steel
+Coming down fast under
+The weight of the
+wheel
+
+Hey, little Johnny
+There ain't no room
+for you
+Tell me, Johnny
+Am I getting
+through?
+
+
+Turn the radio on
+With every
+beat of the drum
+Then go out in the streets
+With the
+voice of America's sons
+There ain't no one
+today
+Tonight someone will play
+Out in the
+streets
+
+Hear the voice of America's sons
+
+Well,
+they're fighting in the jungles
+And they're
+fighting in the streets
+They're playing those
+games
+Man, they're playing for keeps
+
+Hey,
+little Johnny
+When they call on you
+Tell me,
+Johnny
+What are you gonna
+do?
+
+
+
+Turn the radio on
+Turn the
+radio on
+
+
+
+Turn the radio on
+With
+every beat of the drum
+Then go out in the streets
+Hear
+the voice of America's sons
+
+Turn the radio
+on
+With every beat of the drum
+Then go out in the
+streets
+Hear the voice of America's sons
+
+
 

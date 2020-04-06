@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: green-river-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/greenriver.html
 name: Green River
 rankings:
 - end_date: '1969-08-08'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+
+Well, take me back down where cool water flows, yeah.
+Let me remember things I love,
+Stoppin' at the log where catfish bite,
+Walkin' along the river road at night,
+Barefoot girls dancin' in the moonlight.
+
+I can hear the bullfrog callin' me.
+Wonder if my rope's still hangin' to the tree.
+Love to kick my feet 'way down the shallow water.
+Shoefly, dragonfly, get back t'your mother.
+Pick up a flat rock, skip it across Green River.
+Welllllll!
+
+Up at Cody's camp I spent my days, oh,
+With flat car riders and cross-tie walkers.
+Old Cody, Junior took me over,
+Said, "You're gonna find the world is smould'rin'.
+And if you get lost come on home to Green River."
+
+Welllllll!
+Come on home.
+
+
 

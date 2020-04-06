@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-lasgo
+lyrics_url: https://www.azlyrics.com/lyrics/lasgo/something.html
 name: Something
 rankings:
 - end_date: '2002-11-08'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
 ---
+
+I don't wanna say I'm sorry
+Cause I know there is nothing wrong
+Don't be afraid there is no need to worry
+Cause my feelings for you are still strong
+
+Hold me in your arms
+And never let me go
+Hold me in your arms
+Cause I need you so
+
+I can see it in your eyes
+There is something
+Something you wanna tell me
+I see it in your eyes
+There is something
+That you hide from me
+Is there a reason why ?
+There is something
+Something you wanna tell me
+I see it in your eyes
+There is something
+That you hide for me
+
+I don't wanna say I'm sorry
+Cause I know there is nothing wrong
+Don't be afraid there is no need to worry
+Cause my feelings for you are still strong
+
+Hold me in your arms
+And never let me go
+Hold me in your arms
+Cause I need you so
+
+I can see it in your eyes
+There is something
+Something you wanna tell me
+I see it in your eyes
+There is something
+That you hide from me
+Is there a reason why ?
+There is something
+Something you wanna tell me
+I see it in your eyes
+There is something
+That you hide for me
+
+
 

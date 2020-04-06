@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mister-sandman-emmylou-harris
+lyrics_url: https://www.azlyrics.com/lyrics/emmylouharris/mistersandman.html
 name: Mister Sandman
 rankings:
 - end_date: '1981-03-06'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+
+Mister Sandman, bring me a dream
+Make him the cutest that I've ever seen
+Give him two lips like roses and clover
+Then tell him that his lonesome nights are over
+
+Sandman, I'm so alone
+Don't have nobody to call my own
+Please turn on your magic beam
+Mister Sandman, bring me a dream
+
+Mister Sandman, bring me a dream
+Make him the cutest that I've ever seen
+Give him the word that I'm not a rover
+Then tell him that his lonesome nights are over
+
+Mister Sandman, bring me a dream
+Give him a pair of eyes with a come hither gleam
+Give him a lonely heart like Pagliacci
+And lots of wavy hair like Liberace
+
+Mister Sandman, someone to hold
+Would be so peachy before we're too old
+Sp please turn on your magic beam
+Mister Sandman, bring us
+Please, please, please
+Mister Sandman, bring us a dream
+
+
 

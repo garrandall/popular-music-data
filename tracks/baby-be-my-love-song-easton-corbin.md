@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-be-my-love-song-easton-corbin
+lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/babybemylovesong.html
 name: Baby Be My Love Song
 rankings:
 - end_date: '2015-05-01'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-08'
 ---
+
+So here we are, here all alone
+The band quit playinâ, everyone went home
+But the stars are still out and youâre so damn hot
+And I ainât ready for the music to stop
+
+
+Baby be my love song
+Baby be my all night long
+Be the buzz in my Dixie cup
+My steady rockinâ âtil the sun comes up
+You know I really love to watch you dance
+Baby be my, âOh hell yeah!â
+I feel a little sing-along, sing-along cominâ on
+Baby be my love song
+
+Girl, fast or slow, three-quarter time
+It donât have to make sense
+And it donât have to rhyme
+As long as itâs you
+Babe, Iâm all in
+And when itâs over
+Just play it again
+
+
+
+Baby be my melody
+My little feel good that gets to me
+Donât be shy baby, set it free
+Crank it up, hit me way down deep
+
+
+
+I feel a little sing-along, sing-along cominâ on
+Baby be my love song
+Baby be my love song, oh yeah
+Be my love song
+
+
 

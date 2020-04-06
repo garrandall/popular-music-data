@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caroline-no-brian-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/chrissiehynde/carolineno.html
 name: Caroline No
 rankings:
 - end_date: '1966-04-01'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
 ---
+
+Where did your long hair go
+Where is the girl I used to know
+How could you lose that happy glow
+Oh, Caroline no
+
+Who took that look away
+I remember how you used to say
+You'd never change, but that's not true
+Oh, Caroline you
+
+Break my heart
+I really want to go and cry
+It's so sad to watch a sweet thing die
+Caroline why
+
+Could I ever find in you again
+Things that made me love you so much then
+Could we ever bring 'em back once they have gone
+Oh, Caroline no
+Oh, Caroline no
+
+Break my heart
+I really want to go and cry
+It's so sad to watch a sweet thing die
+Caroline why
+
+Could I ever find in you again
+Things that made me love you so much then
+Could we ever bring 'em back once they have gone
+Oh, Caroline no
+Oh, Caroline no
+
+Oh, Caroline no...
+
+
+
 

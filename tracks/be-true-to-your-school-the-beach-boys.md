@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-true-to-your-school-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/gracevanderwaal/betruetoyourschool.html
 name: Be True To Your School
 rankings:
 - end_date: '1963-11-08'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
 ---
+
+When some loud braggart tries to put me down
+And says his school is great
+I tell him right away
+"Now what's the matter buddy
+Ain't you heard of my school
+It's number one in the state"
+
+So be true to your school now
+Just like you would to your girl or guy
+Be true to your school now
+And let your colors fly
+Be true to your school
+
+I got a letterman's sweater
+With a letter in front
+I got for football and track
+I'm proud to wear it now
+When I cruise around
+The other parts of the town
+I got a decal in back
+
+So be true to your school now
+Just like you would to your girl or guy
+Be true to your school now
+Let your colors fly
+Be true to your school
+
+On Friday we'll be jacked up on the football game
+And I'll be ready to fight
+We're gonna smash 'em now
+My girl will be working on her pom-poms now
+And she'll be yelling tonight
+
+So be true to your school now
+Just like you would to your girl or guy
+Be true to your school now
+Let your colors fly
+Be true to your school
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-her-cry-hootie-the-blowfish
+lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/lethercry.html
 name: Let Her Cry
 rankings:
 - end_date: '1995-03-17'
@@ -148,4 +149,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
 ---
+
+She sits alone
+By a lamp post
+Trying to find a thought that's escaped her mind
+She says Dar's the one
+I love the most
+But Stipe's not far behind
+
+She never lets me in
+Only tell me where's she's been
+When she's had too much to drink
+I say that I don't care
+I just run my hands through her dark hair
+Then I pray to God you gotta help me fly away and just...
+
+Let her cry, if the tears fall down like rain
+Let her sing, if it eases all her pain
+Let her go, let her walk right out on me
+And if the sun comes up tomorrow
+Let her be, let her be.
+
+This morning I woke up alone
+Found a note standin' by the phone
+Saying maybe, maybe I'll be back some day
+I wanted to look for you
+You walked in
+I didn't know just what I should do
+So I sat back down and had a beer and felt sorry for myself saying...
+
+Let her cry, if the tears fall down like rain
+Let her sing, if it eases all her pain
+Let her go, let her walk right out on me
+And if the sun comes up tomorrow
+Let her be, let her be.
+
+
+
+Let her cry, if the tears fall down like rain
+Let her sing, if it eases all her pain
+Let her go, let her walk right out on me
+And if the sun comes up tomorrow
+Let her be, oh, oh.
+
+Last night I tried to leave
+Cried so much I could not believe
+She was the same girl I fell in love with long ago
+
+She went in the back to get high
+I sat down on my couch and cried
+Yelling oh mama please help me
+Won't you hold my hand and...
+
+Let her cry, if the tears fall down like rain
+Let her sing, if it eases all her pain
+Let her go, let her walk right out on me
+And if the sun comes up tomorrow
+Let her be, oh, oh.
+
+Let her cry, if the tears fall down like rain
+Let her sing, if it eases all her pain
+Let her go, let her walk right out on me
+And if the sun comes up tomorrow
+Let her be, oh, let her be.
+
+
 

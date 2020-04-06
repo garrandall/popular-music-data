@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-had-a-good-thing-goin--the-cyrkle
+lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/wehadagoodthinggoin.html
 name: We Had A Good Thing Goin'
 rankings:
 - end_date: '1967-05-19'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
 ---
+
+We had a good thing going
+But it couldn't last
+We had a good thing going
+But now it's just a thing of the past
+
+Love took a long time growing
+But then it turned bad
+You've got no way of knowing
+Just how much I'm missing
+All the love we had
+
+Well, I know that you don't want me any longer, baby
+But my love for you keeps getting stronger, baby
+Even though you're gone, I can't keep from hanging on
+
+'Cause we had a good thing going
+So don't let it end
+Let's save our love by showing
+We can get that good thing going again
+
+A good thing going
+A good thing going
+A good thing going
+
+We had a good thing going
+So don't let it end
+We'll save our love by showing
+We can get that good thing going again
+
+We can get that good thing going again
+We can get that good thing going again
+We can get that good thing going again...
+
+
 

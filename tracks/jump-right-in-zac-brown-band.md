@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump-right-in-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/jumprightin.html
 name: Jump Right In
 rankings:
 - end_date: '2013-05-17'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
 ---
+
+The Southern wind sings again an island lullaby
+
+Baby powder beach under my feet has got me rolling
+And the breeze through crackling leaves like a daytime campfire burning
+And the ship is off to sea
+And the wake is a churning
+As the Southern wind sings again an island lullaby
+
+You can jump right in
+Let the music pull you in
+You can jump right in
+Oh and lose yourself again
+As the Southern wind sings again a island lullaby
+
+There's a place the locals go and no one knows where to find it
+And the river starts to flow inside the clouds of Misty Mountain
+The water from this stone below becomes a blue-green fountain
+As the Southern wind sings again an island lullaby
+
+You can jump right in
+Let the music pull you in
+You can jump right in
+Oh and lose yourself again
+As the Southern wind sings again an island lullaby
+
+La la la la la la
+La la la la la
+La la la la la la 
+La la la la la
+
+You can find me where the music meets the ocean
+If you get the notion
+Stop on by and play a while
+Simple tune to get your love light glowing
+Keep your heart wide open
+Disappear just like the tide
+Let it roll on by
+
+And jump right in
+Let the music pull you in
+You can jump right in
+Oh and lose yourself again
+As the Southern wind sings again an island lullaby
+The Southern wind sings again an island lullaby
+Island lullaby
+
+
 

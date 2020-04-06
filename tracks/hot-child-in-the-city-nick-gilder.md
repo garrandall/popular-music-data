@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-child-in-the-city-nick-gilder
+lyrics_url: https://www.azlyrics.com/lyrics/nickgilder/hotchildinthecity.html
 name: Hot Child In The City
 rankings:
 - end_date: '1978-06-16'
@@ -131,4 +132,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
 ---
+
+Danger in the shape of somethin' wild
+Stranger dressed in black, she's a hungry child
+No one knows who she is or what her name is
+I don't know where she came from or what her game is
+
+Hot child in the city
+Hot child in the city
+Runnin' wild and lookin' pretty
+Hot child in the city
+
+So young to be loose and on her own
+Young boys, they all want to take her home
+She goes downtown, the boys all stop and stare
+When she goes downtown, she walks like she just don't care, yeah
+
+Hot child in the city
+Hot child in the city
+Runnin' wild and lookin' pretty, yeah
+Hot child in the city
+
+Come on down to my place, baby
+We'll talk about love
+Come on down to my place, woman
+We'll make love
+
+Hot child in the city
+(Hot child in the city)
+She's kinda dangerous
+(Hot child in the city)
+Young child
+(Runnin' wild and lookin' pretty)
+Young child, runnin' wild
+(Hot child in the city)
+
+Hot child in the city
+(Hot child in the city)
+(Hot child in the city)
+(Hot child in the city)
+Hot child in the city
+(Hot child in the city)
+Hot child in the city
+(Hot child in the city)
+Oh
+
+Hot child
+
+
 

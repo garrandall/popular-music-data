@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-would-take-a-strong-strong-man-rick-astley
+lyrics_url: https://www.azlyrics.com/lyrics/rickastley/itwouldtakeastrongstrongman.html
 name: It Would Take A Strong Strong Man
 rankings:
 - end_date: '1988-07-22'
@@ -71,4 +72,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
+
+My heart starts breaking
+When I think of making
+A plan to let you go
+I keep thinking maybe tomorrow
+I'm gonna let you know
+But I when I think about leaving
+I think about losing
+The only love I ever knew
+Every time I think of you
+
+My heart starts aching
+My hands keep shaking
+And you know, you know, you know
+
+It would take a strong, strong man
+To ever let you go (to ever let you go)
+To ever let you go
+
+My heart's been hurting
+When I see you flirting
+Every night out on the floor
+I keep thinking maybe tomorrow
+You'll grow to love me more
+But whenever we're together
+I could leave you never
+Even though you treat me cruel
+Every time I look at you
+
+My heart starts aching
+My hands keep shaking
+And you know, you know, you know
+
+It would take a strong, strong man
+To ever let you go (to ever let you go)
+To ever let you go
+
+I tried to resist you
+When you're gone, all I ever do is miss you
+Anyone in love would know
+Anyone with half a heart
+Could never let you go
+
+But I when I think about leaving
+I think about losing
+The only girl I ever loved
+Can't you tell me why do you hurt me
+I guess some people never see
+Especially a fool like me
+
+My heart starts aching
+My hands keep shaking
+And you know, you know, you know
+
+It would take a strong, strong man
+To ever let you go (to ever let you go)
+To ever let you go
+
+To ever let you go
+I'll never let you go
+(To ever let you go)
+
+
 

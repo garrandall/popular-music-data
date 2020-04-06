@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: maria-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/maria.html
 name: Maria
 rankings:
 - end_date: '1960-06-05'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
 ---
+
+Maria
+The most beautiful sound I ever heard 
+Maria, Maria, Maria, Maria
+All the beautiful sounds of the world 
+In a single word 
+Maria, Maria, Maria, Maria 
+Maria, Maria
+Maria
+I just met a girl named Maria
+And suddenly that name
+Will never be the same to me
+Maria,
+I just kissed a girl named Maria
+And suddenly I found
+How wonderful a sound can be
+Maria,
+Say it loud and there's music playing
+Say it soft and it's almost like praying
+Maria
+I'll never stop saying
+Maria
+
+Say it loud and there's music playing
+Say it soft and it's almost like praying
+Maria
+I'll never stop saying
+Maria
+The most beautiful sound I ever heard
+Maria
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: youth-troye-sivan
+lyrics_url: https://www.azlyrics.com/lyrics/troyesivan/youth.html
 name: Youth
 rankings:
 - end_date: '2016-02-26'
@@ -79,4 +80,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
 ---
+
+What if
+What if we run away
+What if
+What if we left today
+What if
+We said goodbye to safe and sound
+What if
+What if we're hard to find
+What if
+What if we lost our minds
+What if
+We let them fall behind, and they're never found
+
+And when the lights start flashing like a photo booth
+And the stars exploding
+We'll be fireproof
+
+My youth
+My youth is yours
+Trippin' on skies, sippin' waterfalls
+My youth
+My youth is yours
+Run away now and forevermore
+My youth
+My youth is yours
+The truth so loud you can't ignore
+My youth, my youth, my youth
+My youth is yours
+
+What if
+What if we start to drive
+What if
+What if we close our eyes
+What if
+We're speeding through red lights into paradise
+'Cause we've no time for getting old
+Mortal body, timeless souls
+Cross your fingers, here we go
+Oh, oh, oh
+
+And when the lights start flashing like a photo booth
+And the stars exploding
+We'll be fireproof
+
+My youth
+My youth is yours
+Trippin' on skies, sippin' waterfalls
+My youth
+My youth is yours
+Run away now and forevermore
+My youth
+My youth is yours
+The truth so loud you can't ignore
+My youth, my youth, my youth
+My youth is yours
+My youth is yours
+
+My youth
+My youth is yours
+Trippin' on skies, sippin' waterfalls
+My youth
+My youth is yours
+Run away now and forevermore
+My youth
+My youth is yours
+The truth so loud you can't ignore
+My youth, my youth, my youth
+My youth is yours
+Oh, oh, oh
+My youth is yours
+Oh, oh, oh
+My youth is yours
+
+
 

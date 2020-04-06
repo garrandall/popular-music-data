@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: susan-the-buckinghams
+lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/susan.html
 name: Susan
 rankings:
 - end_date: '1967-12-15'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
 ---
+
+Susan, looks like I'm losing
+I'm losing my mind
+I'm wasting my time
+
+Susan, do you
+Have to be confusing
+I ask myself why
+You're saying goodbye
+
+No other girl could ever
+Take the place of you
+Though you're hurting me
+You know I'll always
+Be thinking of you
+Girl, I love you
+
+No other girl could ever
+Take the place of you
+Though you're hurting me
+You know I'll always
+Be thinking of you
+Girl, I love you
+
+Love, love, love, love
+I love you, yes, I do, I do
+I love you, yes, I do, I do
+Susan, I love you
+Oh, Susan, I love you
+My Susan, I love you
+My Susan, I love you
+
+
 

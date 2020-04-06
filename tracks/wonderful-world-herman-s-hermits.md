@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful-world-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/whatawonderfulworld.html
 name: Wonderful World
 rankings:
 - end_date: '1965-06-04'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+
+Don't know much about history
+Don't know much biology
+Don't know much about science books
+Don't know much about the French I took
+But I do know that I love you
+And I know that if you loved me too
+What a wonderful world this would be
+
+Don't know much about geography
+Don't know much trigonometry
+Don't know much about algebra
+Don't know what a slide rule is for
+But I know that one and one is two
+And if this one could be with you
+What a wonderful world this would be
+
+Now, I don't claim to be an A student
+But I'm tryin' to be
+For maybe by being an A student, baby
+I can win your love for me
+
+Don't know much about history
+Don't know much biology
+Don't know much about science books
+Don't know much about the French I took
+But I do know that I love you
+And I know that if you loved me too
+What a wonderful world this would be
+
+But I do know that I love you
+And I know that if you loved me too
+What a wonderful world this would be
+
+
 

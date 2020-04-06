@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-something-there-to-remind-me-naked-eyes
+lyrics_url: https://www.azlyrics.com/lyrics/nakedeyes/alwayssomethingtheretoremindme.html
 name: Always Something There To Remind Me
 rankings:
 - end_date: '1983-03-18'
@@ -95,4 +96,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
 ---
+
+I walk along the city streets you used to walk along with me
+And every step I take reminds me of just how
+We used to be
+
+Well, how can I forget you girl
+When there is always something there to remind me?
+Always something there to remind me
+
+As shadows fall, I pass a small cafe where we would dance at night
+And I can't help recalling
+How it felt to kiss and hold you tight
+
+Well, how can I forget you girl
+When there is always something there to remind me?
+Always something there to remind me
+
+I was born to love her
+And I will never be free
+You'll always be a part of me
+Oh whoa whoa whoa
+
+If you should find you miss the sweet and tender love we used to share
+Just come back to the places where we used to go
+And I'll be there
+
+Well, how can I forget you girl
+When there is always something there to remind me?
+Always something there to remind me
+
+I was born to love her 
+And I will never be free
+You'll always be a part of me
+
+'Cause there is always something there to remind me
+Always something there to remind me
+
+Always something there to remind me
+Always something there to remind me
+Always something there to remind me
+Always something there to remind me
+
+Always something there to remind me
+Always something there to remind me
+Always something there to remind me
+
+
 

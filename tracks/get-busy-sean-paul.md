@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-busy-sean-paul
+lyrics_url: https://www.azlyrics.com/lyrics/seanpaul/getbusy.html
 name: Get Busy
 rankings:
 - end_date: '2003-02-28'
@@ -135,4 +136,116 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
 ---
+
+Shake that thing Miss Kana Kana
+Shake that thing Miss Annabella
+Shake that thing yan Donna Donna
+Jodi and Rebecca
+
+Woman Get busy, Just shake that booty non-stop
+When the beat drops
+Just keep swinging it
+Get jiggy
+Get crunked up
+Percolate anything you want to call it
+Oscillate you hip and donât take pity
+Me want fi see you get live âpon the riddim when me ride
+And me lyrics a provide electricity
+Gal nobody can tell you nuttinâ
+Can you done know your destiny
+
+Yo sexy ladies want par with us
+In a the car with us
+Them nah war with us
+In a the club them want flex with us
+To get next to us
+Them cah vex with us
+From the day me born jah ignite me flame gal a call me name and its me fame
+Its all good girl turn me on
+âTil a early mornâ
+Letâs get it on
+Letâs get it on âtil a early morning
+Girl itâs all good just turn me on
+
+Woman donât sweat it, donât get agitate just gwaan rotate
+Can anything you want you know you must get it
+From you name a mentuin
+Donât ease the tension just run the program gals wan pet it
+Just have a good time
+Gal free up unu mind caw nobody can dis you man wonât let it can
+You a the number one gal
+Wave you hand
+Make them see you wedding band
+
+
+Yo sexy ladies want par with us
+In a the car with us
+Them nah war with us
+In a the club them want flex with us
+To get next to us
+Them cah vex with us
+From the day me born jah ignite me flame gal a call me name and its me fame
+Its all good girl turn me on
+âTil a early mornâ
+Letâs get it on
+Letâs get it on âtil a early morning
+Girl itâs all good just turn me on
+
+Woman Get busy , Just shake that booty non-stop
+When the beat drops
+Just keep swinging it
+Get jiggy
+Get crunked up
+Percolate anything you want to call it
+Oscillate you hip and donât take pity
+Me want fi see you get live âpon the riddim when me ride
+And me lyrics a provide electricity
+Gal nobody can tell you nuttinâ
+Can you done know your destiny
+
+
+Yo sexy ladies want par with us
+In a the car with us
+Them nah war with us
+In a the club them want flex with us
+To get next to us
+Them cah vex with us
+From the day me born jah ignite me flame gal a call me name and its me fame
+Itâs all good girl turn me on
+âtil a early mornâ
+letâs get it on
+letâs  get it on âtil a early morning
+girlâ¦itâs all good just turn me on
+
+Yo, Shake that thing 
+Miss Kana Kana shake that thing
+Yo, Annabella shake that thing
+Miss Donna Donna 
+Yo Miss Jodi yuâr di one and Rebecca shake that thing
+
+Yo shake that thing 
+Yo Joanna shake that thing
+Yo Annabella shake that think
+Miss Kana Kana 
+
+
+Yo sexy ladies want par with us
+In a the car with us
+Them nah war with us
+In a the club them want flex with us
+To get next to us
+Them cah vex with us
+From the day me born jah ignite me flame
+gal a call me name and its me fame
+Its all good girl turn me on
+âTil a early mornâ
+Letâs get it on
+Letâs get it on âtil a early morning
+Girl itâs all good just turn me on
+
+
+Letâs get it on âtil a early morning
+Girl itâs all good just turn me on
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chloe-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/chloe.html
 name: Chloe
 rankings:
 - end_date: '1981-07-31'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
 ---
+
+How come you're so understanding
+When I tell you all my lies
+And pretending to believe them
+See through all my alibis
+And I need you more than ever
+And I want you till the end
+Chloe
+
+How you handle what you live through
+I can never hope to learn
+Taking all the pain I give you
+Loving blindly in return
+And I need you more than ever
+I will always be your friend
+Chloe, Chloe
+
+Chloe, what you gonna do about me
+Chloe, what you gonna do
+What you gonna do about me
+
+You're the lifeline that I cling to
+When I feel like giving in
+When the dreams that I rely on
+Start to wear a little thin
+Then I need you more than ever
+And I want you till the end
+Chloe, Chloe
+
+
 

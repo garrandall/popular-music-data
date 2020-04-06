@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hero-david-crosby-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/davidcrosby/hero.html
 name: Hero
 rankings:
 - end_date: '1993-05-14'
@@ -88,4 +89,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-18'
 ---
+
+It was one of those great stories
+That you can't put down at night
+The hero knew what he had to do
+And he wasn't afraid to fight
+
+The villain goes to jail
+While the hero goes free
+I wish it were that simple for me
+
+And the reason that she loved him
+Was the reason I loved him too
+And he never wondered
+What was right or wrong
+He just knew, he just knew
+
+Shadow and shape
+Mix together at dawn
+But by the time you catch them
+Simplicity's gone
+
+So we sort through the pieces
+My friends and I
+Searching through the darkness
+To find the breaks in the sky
+
+And the reason that she loved him
+Was the reason I loved him too
+And he never wondered
+What was right or wrong
+He just knew, he just knew
+
+And we wonder, yes, we wonder
+How do you make sense of this
+When the hero kills the maiden
+With his kiss, with his kiss
+
+Well, it was one of those great stories
+That you can't put down at night
+The hero knew what he had to do
+And he wasn't afraid to fight
+
+The villain goes to jail
+While the hero goes free
+I wish it were that simple for me
+Were that simple for me
+
+
 

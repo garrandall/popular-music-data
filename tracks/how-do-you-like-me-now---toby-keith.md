@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-you-like-me-now---toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/howdoyoulikemenow.html
 name: How Do You Like Me Now?!
 rankings:
 - end_date: '2000-02-04'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
 ---
+
+I was always the crazy one
+I broke into the stadium
+And I wrote your number on the 50 yard line
+You were always the perfect one
+And the valadictorian so
+Under your number I wrote "call for a good time"
+
+I only wanted to catch your attention
+But you overlooked me somehow
+Besides you had too many boyfriends to mention
+And I played my guitar too loud.
+
+How do you like me now?
+How do you like me now,
+Now that I'm on my way?
+Do you still think I'm crazy 
+Standin here today?
+I couldnt make you love me
+But I always dreamed about living in your radio 
+How do you like me now?
+
+When I took off to Tennessee 
+I heard that you made fun of me
+Never imagined I'd make it this far
+Then you married into money girl
+Aint it a cruel and funny world?
+He took your dreams and tore them apart.
+
+He never comes home 
+And youre always alone
+And your kids hear you cryin down the hall
+Alarm clock starts ringin
+Who could that be singin
+Its me baby, with your wake up call!
+
+How do you like me now?
+How do you like me now,
+Now that I'm on my way?
+Do you still think I'm crazy 
+Standin here today?
+I couldnt make you love me
+But I always dreamed about living in your radio 
+How do you like me now?
+
+Tell me baby...
+I will preach on...
+
+
 

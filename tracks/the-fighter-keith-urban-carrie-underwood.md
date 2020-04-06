@@ -5,6 +5,7 @@ features:
 - Carrie Underwood
 genres: []
 key: the-fighter-keith-urban-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/thefighter.html
 name: The Fighter
 rankings:
 - end_date: '2016-06-10'
@@ -100,4 +101,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
 ---
+
+
+I know he hurt you
+Made you scared of love, too scared to love
+He didn't deserve you
+Cause your precious heart is a precious heart
+
+He didn't know what he had and I thank God, oh, oh, oh
+And it's gonna take just a little time
+But you're gonna see that I was born to love you
+
+
+What if I fall?
+I won't let you fall
+What if I cry?
+I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+What if I fall?
+I won't let you fall
+What if I cry?
+I promise I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+
+
+Look in the mirror
+You're beautiful, so beautiful
+I'm here to remind you
+You're my only one, let me be the one
+
+To heal all the pain that he put you through
+It's a love like you never knew
+Just let me show you
+
+
+What if I fall?
+I won't let you fall
+What if I cry?
+I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+What if I fall?
+I won't let you fall
+What if I cry?
+I promise, I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+
+I wanna believe that you got me, baby
+I swear I do from now until the next life
+I wanna love, wanna give you all my heart
+
+
+What if I fall?
+I won't let you fall
+What if I cry?
+I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+What if I fall?
+I won't let you fall
+What if I cry?
+I promise I'll never make you cry
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+
+What if I fall?
+What if I cry?
+And if I get scared?
+I'll hold you tighter
+When they're tryna get to you, baby, I'll be the fighter
+
+
 

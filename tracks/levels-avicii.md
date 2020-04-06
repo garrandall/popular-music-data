@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: levels-avicii
+lyrics_url: https://www.azlyrics.com/lyrics/avicii/levels.html
 name: Levels
 rankings:
 - end_date: '2011-12-09'
@@ -87,4 +88,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
 ---
+
+Oh, sometimes
+I get a good feeling, yeah
+Get a feeling that I never, never, never, never had before, no no
+I get a good feeling, yeah
+
+
+
 

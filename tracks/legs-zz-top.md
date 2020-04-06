@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: legs-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/legs.html
 name: Legs
 rankings:
 - end_date: '1984-05-25'
@@ -83,4 +84,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
 ---
+
+She got legs, she knows how to use them
+She never begs, she knows how to choose them
+She's holdin' leg wonderin' how to feel them
+Would you get behind them if you could only find them?
+She's my baby, she's my baby
+Yeah, it's alright
+
+She's got hair down to her fanny
+She's kinda jet set, try undo her panties
+Everytime she's dancin' she knows what to do
+Everybody wants to see if she can use it
+She's so fine, she's all mine
+Girl, you got it right
+
+She got legs, she knows how to use them
+She never begs, she knows how to choose them
+She got a dime all of the time
+Stays out at night movin' through time
+Oh, I want her, shit, I got to have her
+The girl is alright, she's alright
+
+
 

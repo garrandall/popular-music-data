@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gypsys-tramps---thieves-cher
+lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/gypsystrampsthieves.html
 name: Gypsys Tramps & Thieves
 rankings:
 - end_date: '1971-09-24'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-01'
 ---
+
+I was born in the wagon of a travelin' show
+My mama used to dance for the money they'd throw
+Papa would do whatever he could
+Preach a little gospel
+Sell a couple bottles of doctor good
+
+
+"Gypsies, tramps and thieves"
+We'd hear it from the people of the town
+They'd call us "gypsies, tramps and thieves"
+But every night all the men would come around
+And lay their money down
+
+Picked up a boy just south of Mobile
+Gave him a ride, filled him with a hot meal
+I was sixteen, he was twenty-one
+Rode with us to Memphis
+And papa would of shot him if he knew what he'd done
+
+
+
+Never had schoolin' but he taught me well
+With his smooth southern style
+Three months later, I'm a gal in trouble
+And I haven't seen him for a while, oh
+I haven't seen him for a while, oh
+
+She was born in the wagon of a travelin' show
+Her mama had to dance for the money they'd throw
+Grandpa'd do whatever he could
+Preach a little gospel
+Sell a couple bottles of doctor good
+
+
+
+
 

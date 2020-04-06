@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-once-in-my-life-the-righteous-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/justonceinmylife.html
 name: Just Once In My Life
 rankings:
 - end_date: '1965-04-16'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+
+There's a lot of things I want
+A lot of things that I'd like to be
+But girl I don't forsee a rags to riches story for me
+It's just one little thing I got to make come true
+It's just one round I've got to win
+I can't be a loser with you
+
+Baby baby just once in my life
+I'm gonna get what I want girl don't let me down
+Just once in my life let me hold on to
+The good thing I found don't let me down
+Baby say that you'd be staying
+
+Cause I couldn't face the day if you weren't here by my side
+And if you went away then I'd be left without any pride
+I've given up on schemes cause everyone fell through
+I've given up so many things don't ask me to give up on you
+
+And baby, baby just once in my life
+I'm gonna get what I want girl don't let me down
+Just once in my life
+Let me hold on to the good thing I found don't let me down
+Baby say that you'd be staying
+
+That old pot of gold ain't so easy to find
+But if you'll stand by me
+Girl I'll keep peace of mind
+I can't give you the world
+But I'll work hard for you girl
+I'll work hard, everyday, all my life,
+If you'll say you won't leave me,
+Baby don't leave me,
+Please don't leave me
+Baby don't leave me,
+Just do this for me baby,
+
+Once in my life, let me get what I want,
+Girl don't let me down;
+Just once in my life, let me hold onto a good thing I've found, don't
+Let me down,
+Baby say that you'll be stayin' mmm,
+Oh yeah, mmm
+
+Just once in my life let me get what I want,
+Girl don't let me down;
+Just once in my life let me hold onto
+A good thing I've found, don't let me down....
+
+
 

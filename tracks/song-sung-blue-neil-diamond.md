@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: song-sung-blue-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/songsungblue.html
 name: Song Sung Blue
 rankings:
 - end_date: '1972-05-12'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
 ---
+
+Song sung blue, everybody knows one
+Song sung blue, every garden grows one
+
+Me and you are subject to
+The blues now and then
+But when you take the blues
+And make a song
+You sing 'em out again
+You sing 'em out again
+
+Song sung blue, weeping like a willow
+Song sung blue, sleeping on my pillow
+Funny thing,
+But you can sing it with a cry in your voice
+And before you know it get to feeling good
+You simply got no choice
+
+Me and you are subject to
+The blues now and then
+But when you take the blues
+And make a song
+You sing 'em out again
+
+Song sung blue, weeping like a willow
+Song sung blue, sleeping on my pillow
+Funny thing,
+But you can sing it with a cry in your voice
+And before you know it start to feeling good
+You simply got no choice
+
+Song sung blue
+Song sung blue
+Funny thing,
+But you can sing it with a cry in your voice
+
+
 

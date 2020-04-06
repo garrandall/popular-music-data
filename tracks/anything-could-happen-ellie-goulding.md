@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anything-could-happen-ellie-goulding
+lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/anythingcouldhappen.html
 name: Anything Could Happen
 rankings:
 - end_date: '2012-11-02'
@@ -87,4 +88,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-09'
 ---
+
+
+Stripped to the waist
+We fall into the river
+Cover your eyes
+So you don't know the secret
+
+
+I've been trying to hide
+We held our breath
+To see our names are written
+
+
+On the wreck of '86
+
+
+That was the year
+I knew the panic was over
+
+
+But since we found out
+Since we found out
+
+
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uhuh, uh, uhuh
+
+
+After the war we said we'd fight together
+
+
+Oh whoa whoa whoa
+Oh whoa whoa whoa
+
+
+I guess we thought that's just what humans do
+
+
+Oh whoa whoa whoa
+
+
+But now I've seen it through
+And now I know the truth
+
+
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uhuh, uh, uhuh
+
+
+Baby, I'll give you everything you need
+I'll give you everything you need, oh yeah
+I'll give you everything you need
+
+
+I know it's gonna be
+I know it's gonna be
+
+
+I know it's gonna be
+I know it's gonna be
+I know it's gonna be
+I know it's gonna be
+I know it's gonna be
+I know it's gonna be
+Alright
+
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uh, uh, uh, uhuh
+Uhuh, uh, uhuh
+
+Since we found out
+Since we found out
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+Uh, uh, uh, uhuh
+Uhuh, uh, uhuh
+
+
 

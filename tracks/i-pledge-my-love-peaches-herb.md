@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-pledge-my-love-peaches-herb
+lyrics_url: https://www.musixmatch.com/lyrics/Peaches-feat-Herb/I-Pledge-My-Love
 name: I Pledge My Love
 rankings:
 - end_date: '1980-01-25'
@@ -84,4 +85,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
 ---
+Always together
+Together forever
+Always together forever
+I will love you till the day I die
+I know this now and my love won't run dry
+You came along my life has begun
+Two hearts are now beating
+As though they were one
+Like the stars that make the night so bright
+You shine on me with a love that's so right
+A love that is lasting a love that's so pure
+Each time I feel it, it makes me more sure
 
+I know with all my heart we'll never part for
+For this is the day that our love comes alive
+And I mean what I say as I stand here saying
+This is the day when our love comes alive
+And I mean every word and I want you to know
+That this is the day that our love comes alive
+And I mean what I say if somebody should ask me
+
+I pledge my love to you
+I pledge my love is true
+I pledge my life to you
+I do my dear, I do my dear
+
+Like a river finds the deep blue sea
+Love took your hand and led you to me
+This is the us that I'll never forget
+Both sparkling with love both happy we met
+I'm so proud to have you by my side
+You be my strength and I'll be your guide
+You are the one you're a dream that is real
+Heaven has sent you it's love that I feel
+I do, I pledge my love to you

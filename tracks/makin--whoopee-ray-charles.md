@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: makin--whoopee-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/makinwhoopee.html
 name: Makin' Whoopee
 rankings:
 - end_date: '1964-12-18'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+
+Another bride, Another June
+Another sunny honeymoon
+Another season, Another reason
+To make whoopee
+
+A lot of shoes, a lot of rice
+The groom is nervous, uhh, he answers twice
+Its really killin', the boy's so willin'
+To make whoopee, whoopee
+Picture a little love nest, yeah
+Down where the roses cling
+Picture that same sweet love nest
+See what a year can bring
+I tell you the boy's washin' dishes 'n, baby clothes
+He's so ambitious, ooh, I tell you he sews
+Its really killin', the boy's so willin'
+To make whoopee, whoopee
+You see, I don't make much money
+Only five, uh-uh, thousand per
+And some judge who thinks he's funny
+Tells me I got to pay six to her
+I said now judge, suppose I fail?
+The judge says, "Ray, son, son, right on into jail.
+Ah, you better keep her.  I think it's cheaper."
+
+ You know what I've been doin', don't you?
+
+
+
 

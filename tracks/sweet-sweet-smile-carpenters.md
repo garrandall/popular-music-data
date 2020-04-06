@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-sweet-smile-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/sweetsweetsmile.html
 name: Sweet Sweet Smile
 rankings:
 - end_date: '1978-02-10'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
 ---
+
+Yoy're always in my heart
+From early in the mornin' til it's dark
+I gotta see your sweet , sweet smile every day
+
+When I wake up in the mornin'
+And I see you there
+I always whisper a little prayer
+I gotta see your sweet , sweet smile every day
+
+ I gotta know that you love me
+And that you want me
+And that you'll always be there
+I've gotta know that you care
+
+ And I gotta feel your arms around me
+And that you need me
+And that you'll always be there
+I've gotta know that you care
+
+If my times are bringin' me down
+You're the only one that I want around
+I gotta see your sweet , sweet smile every day
+
+And if I'll all strung out
+You're the only one who can straighten me out
+I gotta see your sweet , sweet smile every day
+
+
+
+
+
+
+Yoy're always in my heart
+From early in the mornin' til it's dark
+I gotta see your sweet , sweet smile every day
+I gotta see your sweet , sweet smile every day
+I gotta see your sweet , sweet smile every day
+
+
 

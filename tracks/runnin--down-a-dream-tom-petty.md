@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runnin--down-a-dream-tom-petty
+lyrics_url: https://www.azlyrics.com/lyrics/painsofbeingpureatheart/runnindownadream.html
 name: Runnin' Down A Dream
 rankings:
 - end_date: '1989-08-04'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
 ---
+
+It was a beautiful day, the sun beat down
+I had the radio on, I was drivin'
+Trees went by, me and Del were singin' little Runaway
+I was flyin'
+
+Yeah, runnin' down a dream that never would come to me
+Workin' on a mystery, goin' wherever it leads
+Runnin' down a dream
+
+I felt so good, like anything was possible
+Hit cruise control and rubbed my eyes
+The last three days the rain was unstoppable
+It was always cold, no sunshine
+
+Yeah, runnin' down a dream that never would come to me
+Workin' on a mystery, goin' wherever it leads
+Runnin' down a dream
+
+I rolled on, the sky grew dark
+I put the pedal down to make some time
+There's something good waitin' down this road
+I'm pickin' up whatever's mine
+
+I'm runnin' down a dream that never would've come to me
+Workin' on a mystery, goin' wherever it leads
+Runnin' down a dream
+Yeah, I'm runnin' down a dream that never would've come to me
+Workin' on a mystery, goin' wherever it leads
+I'm runnin' down a dream
+
+
 

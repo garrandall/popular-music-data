@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: millionaire-chris-stapleton
+lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/millionaire.html
 name: Millionaire
 rankings:
 - end_date: '2018-11-30'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
 ---
+
+They say love is more precious than gold
+It can't be bought, and it can't be sold
+I've got love enough to spare
+That makes me a millionaire
+
+I got a woman with eyes that shine
+Down deep as a diamond mine
+She's my treasure, so very rare
+She's made me a millionaire
+
+When we ride around, ride around this old town
+In my beat up car, with the windows down
+People look at her, then they look at me
+They say that boy, he's sure living in luxury, sweet luxury
+
+Because love is more precious than gold
+It can't be bought, no, never could be sold
+I've got love, enough to share
+That makes me a millionaire
+
+When her kisses fall from everywhere
+Like riches on a millionaire
+When my pockets are empty and my cupboard is bare
+I still feel like a millionaire
+
+Because love is more precious than gold
+It can't be bought, no, and it can't be sold
+I've got love, enough to spare
+That makes me a millionaire
+
+
 

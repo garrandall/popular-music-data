@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-night-paul-davis
+lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/coolnight.html
 name: Cool Night
 rankings:
 - end_date: '1981-11-13'
@@ -83,4 +84,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
 ---
+
+I sometimes wonder why all the flowers have to die
+I dream about you and now summer's come and gone
+And the nights they seem so long
+Come on over tonight, come on over
+
+It's gonna be a cool night
+Just let me hold you by the firelight
+If it don't feel right, you can go
+Oh, when the cool night
+Brings back memories of a good life
+When this love was not so old
+
+I won't talk about the past
+How love's supposed to last forever
+And you, don't have to take a stand, lay out any plans
+Come on over tonight, come on over
+
+It's gonna be a cool night
+Just let me hold you by the firelight
+If it don't feel right, you can go
+Oh, when the cool night
+Brings back memories of a good life
+When this love was not so old
+
+Come on over tonight, come on over
+It's gonna be a cool night
+Just let me hold you by the firelight
+If it don't feel right you can go
+
+On a cool night, let me hold you
+On a cool, just let me hold you by the firelight
+If it don't feel right you can go
+
+
 

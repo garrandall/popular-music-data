@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-my-everything-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/theregoesmyeverything.html
 name: There Goes My Everything
 rankings:
 - end_date: '1967-06-30'
@@ -35,4 +36,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
 ---
+
+There goes my only possession
+There goes my everything
+
+I hear footsteps slowly walking
+As they gently walk across a lonely floor
+And a voice is softly saying
+Darling, this will be goodbye forever more
+
+There goes my reason for living
+There goes the one of my dreams
+There goes my only possession
+There goes my everything
+
+As my memory turns back the pages
+I can see the happy years we had before
+Now the love that kept this old heart beating
+Has been shattered by the closing of the door
+
+There goes my reason for living
+There goes the one of my dreams
+There goes my only possession
+There goes my everything
+There goes my only possession
+There goes my everything
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: groove-is-in-the-heart-deee-lite
+lyrics_url: https://www.azlyrics.com/lyrics/puppinisisters/grooveisintheheart.html
 name: Groove Is In The Heart
 rankings:
 - end_date: '1990-09-21'
@@ -99,4 +100,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
 ---
+
+The chills that you spill up my back keep me filled
+With satisfaction when we're done
+Satisfaction of what's to come
+I couldn't ask for another
+I couldn't ask for another
+Your groove I do deeply dig
+No walls, only the bridge
+My supper dish, my succotash wish
+I couldn't ask for another
+No, I couldn't ask for another
+Wah wah wah wah...
+
+Groove is in the heart, wah wah wah
+Groove is in the heart, wah wah wah
+Groove is in the heart
+Groove is in the heart, wah wah wah
+
+The depth of hula groove
+Moves into the tenth hoop
+We're gonna groove to Horton Hears a who...
+I couldn't ask for another
+I couldn't ask for another
+DJ Soul was on a roll
+I've been told he can't be sold
+He's not vicious or malicious
+Just de-lovely and delicious
+I couldn't ask for another
+
+Some looks in this torso
+Hot, got a deal, you wanna know?
+The live of truely delightful
+Makin' it, doin' it, 'specially at a show
+Feelin' kinda high like a Hendrix haze
+Music makes motion, moves like a maze
+All inside of me, heart especially
+Note of the rhythm, where I wanna be
+
+Groove is in the heart, wah wah wah
+Groove is in the heart, wah wah wah
+Groove is in the heart
+Groove is in the heart, wah wah wah
+
+1, 2, 3, go!
+
+Groove is in the heart, wah wah wah
+Groove is in the heart, wah wah wah
+Groove is in the heart
+Groove is in the heart, wah wah wah
+
+
 

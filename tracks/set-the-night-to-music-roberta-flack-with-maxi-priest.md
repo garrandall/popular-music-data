@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: set-the-night-to-music-roberta-flack-with-maxi-priest
+lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/setthenighttomusic.html
 name: Set The Night To Music
 rankings:
 - end_date: '1991-09-27'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
 ---
+
+Set the night to music
+Set the night to music
+
+Look at all the stars tonight
+Look at all the moonlight
+Look at us we're all alone
+Oh, and it's just like a dream
+Like some romantic fantasy
+Darling come and hold me close
+
+We could be making love
+And with the slightest touch
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music
+
+We'll find a rhythm all our own
+Melt into it nice and slow
+Love ourselves away from here
+Your heart beating next to mine
+Perfect love in perfect time
+Watch the world, just disappear
+
+This moment is our to take
+And with the love we make
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music
+
+This moment is ours to take
+And with the love we make
+And with the slightest touch
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music
+
+Set the night to music
+Set the night to music
+Set the night to music
+
+
 

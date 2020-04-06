@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: around-the-world--la-la-la-la-la--atc
+lyrics_url: https://www.azlyrics.com/lyrics/atc/aroundtheworld.html
 name: Around The World (La La La La La)
 rankings:
 - end_date: '2001-02-16'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
 ---
+
+The kisses of the sun - Were sweet I didn't blink
+I let it in my eyes - Like an exotic drink
+The radio playing songs - That I have never heard
+I don't know what to say - Oh not another word
+
+Just - la la la la la - It goes around the world
+Just - la la la la la - It's all around the world
+Just - la la la la la - And everybody's singing 
+La la la la la - And now the bells are ringing
+
+La la la la la - la la la la la la la - la la la la la - la la la la la la la
+La la la la la - la la la la la la la - la la la la la - la la la la la la la 
+
+Inside an empty room - My inspiration flows
+Now wait to hear the tune - Around my head it goes
+The magic melody - You want to sing with me
+Just la la la la la - the music is the key
+And now the night is gone - Still it goes on and on
+So deep inside of me - I long to set it free
+I don't know what to do - Just can't explain to you
+I don't know what to say - Oh not another word
+
+Just - la la la la la - It goes around the world
+Just - la la la la la - It's all around the world
+Just - la la la la la - And everybody's singing 
+La la la la la - And now the bells are ringing
+
+La la la la la - la la la la la la la - la la la la la - la la la la la la la
+La la la la la - la la la la la la la - la la la la la - la la la la la la la 
+
+The kisses of the sun 
+
+La la la la la - It goes around the world
+Just - la la la la la - It's all around the world
+Just - la la la la la - And everybody's singing 
+La la la la la - And now the bells are ringing
+
+La la la la la - la la la la la la la - la la la la la - la la la la la la la 
+La la la la la - la la la la la la la - la la la la la - la la la la la la la
+
+Around - Around - Around the world
+
+
 

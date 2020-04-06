@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: came-here-to-forget-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/cameheretoforget.html
 name: Came Here To Forget
 rankings:
 - end_date: '2016-04-01'
@@ -83,4 +84,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
 ---
+
+Girl you're getting over him and I'm getting over her
+The eyes have it made, ain't gotta say a word
+Misery loves company, that's why it's you and me
+Buying each other drinks, back at the bar, as thick as thieves
+Stealing these little sips
+Doing our best to make the best of the worst of it
+
+Keep playing them songs, keep singing along
+Keep leaning it on in closer
+Keep salting the rim, getting even with her
+And with him before the night is over
+That first kiss was like a Colorado hit
+We better keep on keeping it lit
+'Til we can't remember
+Can't remember what we came here to forget
+
+Go ahead and check your phone, like I've been checking mine
+Nobody's ex texting for a rewind
+Looks like it's just me and you
+Fall in love just enough to get us through
+What we're getting through
+
+Keep playing them songs, keep singing along
+Keep leaning it on in closer
+Keep salting the rim, getting even with her
+And with him before the night is over
+That first kiss was like a Colorado hit
+We better keep on keeping it lit
+'Til we can't remember
+Can't remember what we came here to forget
+Ya, it's what we came here to forget
+
+Looks like it's just me and you
+Fall in love just enough to get us through
+What we're getting through
+
+Keep playing them songs, keep singing along
+Keep leaning it on in closer
+Keep salting the rim, getting even with her
+And with him before the night is over
+That first kiss was like a Colorado hit
+We better keep on keeping it lit
+'Til we can't remember
+Can't remember what we came here to forget
+
+What we came here to forget
+What we came here to forget
+Baby, baby
+That's what we came here to forget
+
+
 

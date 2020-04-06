@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-girls-like-you-kip-moore
+lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/moregirlslikeyou.html
 name: More Girls Like You
 rankings:
 - end_date: '2017-09-08'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
 ---
+
+Well, I've been living like a wild old mustang
+Out in Montana fields
+Might've earned me a bad reputation
+But never stopped these wheels
+From going and rolling too far
+Running and gunning a little too hard
+So unreigned, so untamed, yeah
+
+So God made girls like you make guys like me
+Wanna reach for the brightest star, set it on a ring
+Put it on your hand, grab a piece of land
+And raise a few
+More girls like you
+
+Your soul is pure golden
+Must've been true love you were grown in
+Sent the sun rays to a dark place
+On the same day, yeah, God made
+
+Girls like you make guys like me
+Wanna reach for the brightest star, set it on a ring
+Put it on your hand, grab a piece of land
+And raise a few
+More girls like you...
+
+It's been a while since I stopped and prayed
+But Lord have mercy look at her
+He sure didn't make no mistake when he put that angel on Earth
+Yeah, God made
+
+Girls like you make guys like me
+Wanna reach for the brightest star, set it on a ring
+Put it on your hand, grab a piece of land
+And raise a few
+Yeah
+More girls like you
+Yeah
+More girls like you
+Yeah
+More girls like you
+Yeah
+
+Yeah
+
+More girls like...
+Yeah
+
+More girls like you
+Yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: toxicity-system-of-a-down
+lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/toxicity.html
 name: Toxicity
 rankings:
 - end_date: '2002-05-10'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
 ---
+
+Conversion, software version 7.0
+Looking at life through the eyes of a tire hub
+
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+New, what do you own the world?
+How do you own disorder, disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+More wood for their fires, loud neighbours
+Flashlight reveries caught in the headlights of a truck
+
+Eating seeds as a pastime activity
+The toxicity of our city, of our city
+
+New, what do you own the world?
+How do you own disorder, disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+New, what do you own the world?
+How do you own disorder
+Now, somewhere between the sacred silence, sacred silence and sleep
+Somewhere between the sacred silence and sleep
+Disorder, disorder, disorder
+
+When I became the sun
+I shone life into the man's hearts
+When I became the sun
+I shone life into the man's hearts
+
+
 

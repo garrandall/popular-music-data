@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-rock-show-blink-182
+lyrics_url: https://www.azlyrics.com/lyrics/blink182/therockshow.html
 name: The Rock Show
 rankings:
 - end_date: '2001-08-03'
@@ -43,4 +44,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
 ---
+
+Hanging out behind the club on the weekend
+Acting stupid, getting drunk with my best friends
+I couldn't wait for the summer and the Warped Tour
+I remember it's the first time that I saw her there
+
+She's getting kicked out of school 'cause she's failing
+I'm kinda nervous, 'cause I think all her friends hate me
+She's the one, she'll always be there
+She took my hand and I made it I swear
+
+Because I fell in love with the girl at the rock show
+She said, "What?" and I told her that I didn't know
+She's so cool, gonna sneak in through her window
+Everything's better when she's around
+I can't wait 'til her parents go out of town
+I fell in love with the girl at the rock show
+
+When we said we were gonna move to Vegas
+I remember the look her mother gave us
+Seventeen without a purpose or direction
+We don't owe anyone a fucking explanation
+
+I fell in love with the girl at the rock show
+She said, "What?" and I told her that I didn't know
+She's so cool, gonna sneak in through her window
+Everything's better when she's around
+I can't wait 'til her parents go out of town
+I fell in love with the girl at the rock show
+
+Black and white picture of her on my wall
+I waited for her call, she always kept me waiting
+And if I ever got another chance I'd still ask her to dance
+Because she kept me waiting
+
+I fell in love with the girl at the rock show
+She said, "What?" and I told her that I didn't know
+She's so cool, gonna sneak in through her window
+Everything's better when she's around
+I can't wait 'til her parents go out of town
+I fell in love with the girl at the rock show
+
+With the girl at the rock show
+With the girl at the rock show
+(I'll never forget tonight)
+With the girl at the rock show
+
+
 

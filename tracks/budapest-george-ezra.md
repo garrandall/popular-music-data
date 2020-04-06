@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: budapest-george-ezra
+lyrics_url: https://www.azlyrics.com/lyrics/georgeezra/budapest.html
 name: Budapest
 rankings:
 - end_date: '2015-02-20'
@@ -99,4 +100,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
 ---
+
+My house in Budapest
+My, my hidden treasure chest
+Golden grand piano
+My beautiful Castillo
+
+You
+Ooh, you
+Ooh, I'd leave it all
+
+My acres of a land
+That I've achieved
+It may be hard for you to
+Stop and believe
+
+But for you
+Ooh, you
+Ooh, I'd leave it all
+
+Oh, for you
+Ooh, you
+Ooh, I'd leave it all
+
+And give me one good reason
+Why I should never make a change
+And baby if you hold me
+Then all of this will go away
+
+My many artifacts
+The list goes on
+If you just say the words
+I'll, I'll up and run
+
+Oh, to you
+Ooh, you
+Ooh, I'd leave it all
+
+Oh, for you
+Ooh, oh
+Ooh, I'd leave it all
+
+And give me one good reason
+Why I should never make a change
+Baby if you hold me
+Then all of this will go away
+
+Give me one good reason
+Why I should never make a change
+And baby if you hold me
+Then all of this will go away
+
+A-ooh, a-ooh
+
+My friends and family
+They don't understand
+They fear they'll lose so much
+If you take my hand
+
+But, for you
+Ooh, you
+Ooh, I'd lose it all
+
+Oh, for you
+Ooh, you
+Ooh, I'd lose it all
+
+And give me one good reason
+Why I should never make a change
+And baby if you hold me
+Then all of this will go away
+
+Give me one good reason
+Why I should never make a change
+And baby if you hold me
+Then all of this will go away
+
+My house in Budapest
+My, my hidden treasure chest
+Golden grand piano
+My beautiful Castillo
+
+You
+Ooh, you
+Ooh, I'd leave it all
+
+Oh, for you
+Ooh, you
+Ooh, I'd leave it all
+
+
 

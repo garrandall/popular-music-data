@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rgf-island-fetty-wap
+lyrics_url: https://www.azlyrics.com/lyrics/fettywap/rgfisland.html
 name: RGF Island
 rankings:
 - end_date: '2015-10-16'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
 ---
+
+
+My niggas stack their money just to spend it
+Cause when you die you cannot take it with you
+If you ain't beefin' 'bout the money, then what's the problem?
+Don't worry about my niggas cause I got 'em
+My niggas stack their money just to spend it
+Cause when you die you cannot take it with you
+And if you ain't beefin' 'bout the money, then what's the problem?
+Don't worry about my niggas, Zoo I've got 'em
+
+On everything, for 17 I'm wild in
+Treat my whole squad on an island
+Ziploc gang, bring a lighter
+It's gon' be a house party on this island
+Shit boom like M80s on this island
+It's a lot of trillionaires throwin' dollars
+Cause I'm pure hell, wildin' out on this island
+I do this too swell, my pockets too swell
+Come try the 100 gang and they'll shoot ya
+I do this for my squad, I do this for my gang
+I do this for my squad, I do this for my gang
+It's Zoovier from the trap and ain't a damn thing change
+
+
+
+
 

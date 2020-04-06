@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cowboys-and-angels-dustin-lynch
+lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/cowboysandangels.html
 name: Cowboys And Angels
 rankings:
 - end_date: '2012-06-08'
@@ -95,4 +96,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
 ---
+
+There's a want and there's a need
+There's a history between
+Girls like her and guys like me
+Cowboys and angels
+
+I've got boots and she's got wings
+I'm hell on wheels and she's heavenly
+I'd die for her and she lives for me 
+Cowboys and angels
+
+
+We ride side by side
+A cloud of dust, a ray of light
+My touch is her temptation
+Her kiss is my salvation
+She's sweet, I'm wild, we're dangerous
+Cowboys and angels
+
+Not sure why her path crossed mine
+Accident or grand design
+Ah maybe God just kinda likes
+Cowboys and angels
+
+
+We ride side by side
+A cloud of dust, a ray of light
+My touch is her temptation
+Her kiss is my salvation
+She's sweet, I'm wild, we're dangerous
+Cowboys and angels
+
+There's a want and there's a need
+There's a history between
+Girls like you and guys like me
+Cowboys and angels
+Cowboys and angels
+
+
 

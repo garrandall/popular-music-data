@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-to-love-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/somebodytolove.html
 name: Somebody To Love
 rankings:
 - end_date: '1960-10-02'
@@ -43,4 +44,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
 ---
+
+I've been all over this country
+Been half way 'round the world
+I've been traveling so dog gone much
+That I haven't got a steady girl
+
+Somebody to love (Somebody to love)
+Somebody to love (Somebody to love)
+Somebody to call me turtledove
+Somebody to love
+
+Yes I guess I've been lucky
+I've had me fortune and fame
+But I would give up my roman ways
+Just to change some girlie's name
+
+Somebody to love (Somebody to love)
+Somebody to love (Somebody to love)
+Somebody to call me turtledove
+Somebody to love
+
+I've been hurtin' (He's been hurtin')
+Such a long, long time (Long, long time)
+I've been searchin' (He's been searchin')
+Where's that girl of mine
+
+Won't you hear me now,
+If there's somebody listenin'
+Won't you hear my plea?
+Won't you send me a good, good girl
+To spend her life with me
+
+Somebody to love (Somebody to love)
+Somebody to love (Somebody to love)
+Somebody to call me turtledove
+Somebody to love
+I've been hurtin' (He's been hurtin')
+Such a long, long time (Long, long time)
+I've been searchin' (He's been searchin')
+Where's that girl of mine
+
+Won't you hear me now,
+If there's somebody listenin'
+Won't you hear my plea?
+Won't you send me a good, good girl
+To spend her life with me
+
+Somebody to love (Somebody to love)
+Somebody to love (Somebody to love)
+Somebody to call me turtledove
+Somebody to love
+
+Somebody to love (Somebody to love)
+Somebody to love (Somebody to love)
+Somebody to call me turtledove
+Somebody to love...
+
+
 

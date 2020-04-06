@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-must-have-been-a-beautiful-baby-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/youmusthavebeenabeautifulbaby.html
 name: You Must Have Been A Beautiful Baby
 rankings:
 - end_date: '1961-09-10'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
 ---
+
+Oh... you know, you know, you know, you know... 
+
+You must a been a beautiful baby
+You must a been a beautiful child 
+When you were only startin'
+To go to kindergarten 
+I bet you drove those other childs wild!
+
+Oh yeah... oh yeah... oh yeah... 
+An' when it came to winnin' blue ribbons
+Well... I bet you taught the other kids how 
+Well, I can see the judge's eyes
+As they handed you the prize
+I bet you took the cutest bow! 
+
+Yeah! You must a been a beautiful baby
+'cause baby won't you look at you now. 
+
+Oh yeah... oh yeah... oh yeah... 
+
+You must a have been a beautiful baby
+You must a have been a beautiful child
+When you were only startin'
+
+To go to kindergarten
+I know you drove the other childs wild.
+An' I wasn't even there.
+
+An' when you came to winnin' blue ribbons
+Hey... I know you taught those other kids how
+Well, I can see the judge's eyes
+As they handed you the prize
+I know you made the cutest bow! 
+
+Yeah! You must a been a beautiful baby
+âcause baby won't you look at you now. 
+Oh, I mean... I mean... oh, beautiful...
+Oh, beautiful...
+Oh, beautiful...
+
+Oh, beautiful...
+Oh, beautiful...
+Oh, beautiful...
+
+Aah, I know you're beautiful... too beautiful for words...
+
+
 

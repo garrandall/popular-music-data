@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: green-green-grass-of-home-tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/greengreengrassofhome.html
 name: Green Green Grass Of Home
 rankings:
 - end_date: '1966-12-30'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
+
+The old home town looks the same
+As I step down from the train,
+And there to meet me is my Mama and Papa.
+
+Down the road I look and there runs Mary,
+Hair of gold and lips like cherries.
+It's good to touch the green, green grass of home.
+
+Yes, they'll all come to meet me,
+Arms reaching, smiling sweetly.
+It's good to touch the green, green, grass of home.
+
+The old house is still standing,
+Though the paint is cracked and dry,
+And there's that old oak tree that I used to play on.
+
+Down the lane I walk with my sweet Mary,
+Hair of gold and lips like cherries.
+It's good to touch the green, green grass of home.
+
+Then I awake and look around me
+At four grey walls that surround me,
+And I realize: yes, I was only dreaming.
+
+For there's a guard and there's a sad old padre.
+On in on we'll walk at daybreak.
+Then again I'll touch the green, green grass of home.
+
+Yes, they'll all come to see me
+In the shade of that old oak tree
+As they lay me neath the green, green grass of home.
+
+
 

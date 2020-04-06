@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-to-get-you-off-my-mind-solomon-burke
+lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/gottogetyouoffmymind.html
 name: Got To Get You Off My Mind
 rankings:
 - end_date: '1965-03-12'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
 ---
+
+Got to get you off of my mind
+I know it's just a matter of time
+You've found somebody new
+And our romance is through
+Yes it is
+
+Gonna throw your picture away
+You didn't want my love, any old way
+You've found somebody new
+And our romance is through
+Yes it is
+
+Some folks love is hard and strong
+That's the kind of love that lingers on
+Some folks love is swift and fast
+That's the kind of love that'll never last
+
+We had a love that was in between
+And to me it was like a dream
+If we had stayed together till June
+Not a problem, bride and groom
+
+That's why
+Got to get you off of my mind
+I know it's just a matter of time
+You've found somebody new
+And our romance is through
+Listen to me
+
+Got to get you off of my mind
+I know it's just a matter of time
+Got to get you off of my mind
+I know it's just a matter of time
+
+
 

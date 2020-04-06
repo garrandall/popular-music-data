@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mississippi-girl-faith-hill
+lyrics_url: https://www.azlyrics.com/lyrics/faithhill/mississippigirl.html
 name: Mississippi Girl
 rankings:
 - end_date: '2005-06-17'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
 ---
+
+Well it's a long way from Star, Mississippi
+To the big stage I'm singing on tonight
+And sometimes the butterflies still get me
+When I'm in the spotlight
+
+And some people seem to think that I've changed
+That I'm different than I was back then
+But in my soul I know that I'm the same way
+That I really always been
+
+
+Cause a Mississippi girl don't change her ways
+Just cause everybody knows her name
+Ain't big-headed from a little bit of fame
+I still like wearing my old ball cap
+Ride my kids around piggy back
+They might know me all around this world
+But y'all I'm still a Mississippi girl
+
+Well I spent a few weeks in California
+They put my face on the big movie screen
+But that don't mean I've forgotten where I came from
+That's just me chasing dreams, yeah
+
+
+Cause a Mississippi girl don't change her ways
+Just cause everybody knows her name
+Ain't big headed from a little bit of fame
+I still like wearing my old ball cap
+Ride my kids around piggy back
+They might know me all around this world
+But y'all I'm still a Mississippi girl
+
+Cause a Mississippi girl don't change her ways
+Just cause everybody knows her name
+Ain't big headed from a little bit of fame
+I still like wearing my old ball cap
+Ride my kids around piggy back
+They might know me all around this world
+But y'all I'm still a Mississippi girl
+
+Mississippi girl
+oh
+Mississippi girl
+Mississippi girl
+yeah yeah
+oh oh
+
+Mississippi girl
+
+
 

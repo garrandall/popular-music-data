@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-stay-together-tina-turner
+lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/letsstaytogether.html
 name: Let's Stay Together
 rankings:
 - end_date: '1984-01-27'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
 ---
+
+LET ME SAY SINCE
+SINCE WE`VE BEEN TOGETHER
+LOVING YOU FOREVER
+IS ALL I NEED
+LET ME BE THE ONE YOU COME RUNNING TO
+I`LL NEVER BE UNTRUE
+OH BABY
+
+
+LET`S, LET`S STAY TOGETHER
+LOVING YOU WHETHER
+WHETHER TIMES ARE GOOD OR BAD
+HAPPY OR SAD
+
+I, I`M SO IN LOVE WITH YOU
+WHATEVER YOU WANT TO DO
+IT`S ALRIGHT WITH ME
+
+LET ME BE THE ONE YOU COME RUNNING TO
+I`LL NEVER BE UNTRUE
+OH BABY
+
+
+
+WHY, OH TELL ME, WHY DO PEOPLE BREAK UP
+AND TURN AROUND AND MAKE UP
+I JUST CAME TO SEE
+YOU`D NEVER DO THAT TO ME, WOULD YA BABY
+BEING AROUND YOU IS ALL I SEE
+OH BABY
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-know--what-it-takes--robyn
+lyrics_url: https://www.azlyrics.com/lyrics/robyn/doyouknowwhatittakes.html
 name: Do You Know (What It Takes)
 rankings:
 - end_date: '1997-06-06'
@@ -119,4 +120,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
+
+Don't you know i can see what you're doing
+Runnin' around with your cheap talk, cheap talk
+What I need is a man who can do me right
+
+If you got what I need I can gurarantee
+To return all the love that you've given to me
+But I've got to be sure that you'll always be around
+Do you know what it takes to love me?
+Do you know what it takes to do me right?
+Do you know what it takes to love me baby?
+
+Heaven knows in my time I've been lonely
+Feelin' my love echo in my mind, in my mind yeah
+A never satisfied girl's what they call me
+But I just can't keep goin' on livin' lies
+
+Guarantee unto me, you won't let me down
+There's so much I can give but it's buried so deep
+I just got to be sure that you always will be around
+
+
+do you know what it takes?
+do you know what it takes?
+
+Don't waste my time with your lies (yeah baby, i gotta know)
+You got to prove that you will always be around
+I'll give you everything
+Boy will you do the same for me?
+Will you do anything? 
+I gotta know what will it be
+
+
 

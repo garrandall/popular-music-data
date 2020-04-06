@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: darling-come-back-home-eddie-kendricks
+lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/darlingcomebackhome.html
 name: Darling Come Back Home
 rankings:
 - end_date: '1973-07-20'
@@ -27,4 +28,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
 ---
+
+This is a heart
+That used to feel the joy of waking
+I was thankful for each flower every tree
+These are eyes that used to see each new day breakin'
+and believe it was a gift from God to me
+
+I have felt these things inside, with you by my side
+Since you've gone and left me, everything beautiful has died
+
+Come back home
+Oh baby, come back home
+Everything that I've been living for is gone, is gone
+Darling, won't you come back home
+I don't know, I don't know
+
+What I did to make you leave, girl
+I've relived every moment
+Every single word I've said
+If you love someone more than me, he's a thief
+He's taken happiness, left me emptiness instead
+
+Come back home
+Oh baby, come back home
+Everything that I've been living for is gone, is gone
+Darling won't you come back home
+I don't know what I'm gonna do
+
+Come back
+Come back
+
+Hey hey
+I'm no poet, no philosopher of logic
+I can hardly make my feelings conversation
+Oh no... cause you control my thoughts and my body
+The pain, the pain of losin' you makes even livin' hard to do
+
+Come back home
+Oh baby, come back home
+Everything that I've been living for is gone, is gone
+Darling won't you come back home
+I don't know what I'm gonna do
+...
+
+
 

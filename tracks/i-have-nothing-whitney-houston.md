@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-have-nothing-whitney-houston
+lyrics_url: https://www.azlyrics.com/lyrics/cymphonique/ihavenothing.html
 name: I Have Nothing
 rankings:
 - end_date: '1993-03-05'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
 ---
+
+I don't really need to look very much further
+I don't want to have to go where you don't follow
+I won't hold it back again, this passion inside
+Can't run from myself
+There's nowhere to hide
+
+Well, don't make me close one more door
+I don't wanna hurt anymore
+Stay in my arms if you dare
+Or must I imagine you there
+Don't walk away from me...
+I have nothing, nothing, nothing
+If I don't have you, you, you, you, you, you...
+
+You see through, right to the heart of me
+You break down my walls with the strength of your love mmmmm...
+I never knew love like I've known it with you
+Will a memory survive, one I can hold on to
+
+I don't really need to look very much further
+I don't want to have to go where you don't follow
+I won't hold it back again, this passion inside
+I Can't run from myself
+There's nowhere to hide
+Your love I'll remember, forever
+
+Don't make me close one more door
+I don't wanna hurt anymore
+Stay in my arms if you dare
+Or must I imagine you there
+Don't walk away from me...
+I have nothing, nothing, nothing...
+
+Well, don't make me close one more door
+I don't wanna hurt anymore
+Stay in my arms if you dare
+Or must I imagine you there
+Don't walk away from me no...
+Don't walk away from me
+Don't you dare walk away from me
+I have nothing, nothing, nothing
+If I don't have you, you
+Ooohhh, ooooh
+If I don't have you, oohh
+
+
 

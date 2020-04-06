@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: work-to-do-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/worktodo.html
 name: Work To Do
 rankings:
 - end_date: '1992-10-02'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
 ---
+
+I can't wait to get home to you 
+I got so much work to do, work 
+I'm taking care of business baby can't you see 
+I goota make it for you, and I gotta make it for me 
+Sometimes it may seem boy I'm neglecting you 
+But I'd love to spend more time 
+But I got so much to do 
+
+Ooh, I got work to do, I got work baby 
+I got work to do, I got a job yeah 
+I got work to do, said I got work to do 
+
+Oh I'm out here trying to make it baby can't you see 
+It takes a lot of money to make it let's talk truthfully 
+So keep your love light burning 
+Oh you gotta have a little faith 
+You might as well get used to me coming home a little late, oh 
+
+Ooh, I got work to do, I got work baby 
+I got work to do, I got a job yeah 
+I got work to do, said I got work to do 
+
+I can't wait to get home to you 
+I got so much work to do
+
+
 

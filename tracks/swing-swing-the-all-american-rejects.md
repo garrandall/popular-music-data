@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swing-swing-the-all-american-rejects
+lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/swingswing.html
 name: Swing Swing
 rankings:
 - end_date: '2003-06-27'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
 ---
+
+Days swiftly come and go.
+I'm dreaming of her
+She's seeing other guys
+Emotions they stir
+The sun is gone.
+The nights are long
+And I am left while the tears fall.
+
+Did you think that I would cry,
+on the phone?
+Do you know what it feels like,
+being alone?
+I'll find someone new
+
+
+(Swing) Swing, Swing from the tangles of
+My heart is crushed by a former love
+Can you help me find a way
+To carry on again.
+
+Wish cast into the sky
+I'm moving on
+Sweet beginnings do arise
+She knows I was wrong
+The notes are old,
+They bend, they fold
+and so do I to a new love.
+
+Did you think that I would cry,
+on the phone?
+Do you know what it feels like,
+being alone?
+I'll find someone new
+
+(Swing) Swing, Swing from the tangles of
+My heart is crushed by a former love
+Can you help me find a way
+To carry on again
+
+Bury me
+(you thought your problems were gone)
+Carry me
+(away. away, away...)
+
+
+(Swing) Swing, Swing from the tangles of
+My heart is crushed by a former love
+Can you help me find a way
+To carry on again
+
+
 

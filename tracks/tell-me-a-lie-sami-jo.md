@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-a-lie-sami-jo
+lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/tellmealie.html
 name: Tell Me A Lie
 rankings:
 - end_date: '1974-02-15'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-11'
 ---
+
+Tell me a lie say I look familiar
+Though I know that you don't even know my name
+Tell me a lie say you just got into town
+Even though I've seen you here before just hangin' round
+Tell me a lie say you're not a married man
+Even though I saw you slip off your weddin' band
+Tell me a lie say you got no place to stay
+You'll be glad to drop me off 'cause it's on your way
+
+Tell me a lie when you take me home
+(Tell me a lie) I don't really wanna spend the night alone
+Tell me a lie don't worry about my sorrow you'll be long gone tomorrow
+Then you won't not to see me cry tell me a lie
+
+Tell me a lie tell me that you need me
+And I could tell me it's not real the way you want me to
+C'mon tell me a lie when you're lyin' close beside me
+And whisper when you hold me sweet words like I love you
+Mhm, tell me a lie when the night is almost over
+Make it easy on us both when it's time for you to go
+Tell me a lie say you really like to stay
+Tell me please just one more time that you'll be back someday
+
+Tell me a lie when you take me home
+(Tell me a lie) I don't really wanna spend the night alone
+Tell me a lie don't worry about my sorrow you'll be long gone tomorrow
+Then you won't not to see me cry tell me a lie
+...
+
+
 

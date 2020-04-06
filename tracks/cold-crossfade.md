@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-crossfade
+lyrics_url: https://www.azlyrics.com/lyrics/crossfade/cold.html
 name: Cold
 rankings:
 - end_date: '2004-08-13'
@@ -99,4 +100,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-08'
 ---
+
+Looking back at me I see
+That I never really got it right
+I never stopped to think of you
+I'm always wrapped up in
+Things I cannot win
+You are the antidote that gets me by
+Something strong
+Like a drug that gets me high
+
+
+What I really meant to say
+Is I'm sorry for the way I am
+I never meant to be so cold
+Never meant to be so cold
+
+To you I'm sorry about all the lies
+Maybe in a different light
+You could see me stand on my own again
+Cause now I can see
+You were the antidote that got me by
+Something strong like a drug that got me high
+
+
+
+I never meant to be so cold
+
+I never really wanted you to see
+The screwed up side of me that I keep
+Locked inside of me so deep
+It always seems to get to me
+I never really wanted you to go
+So many things you should have known
+I guess for me there's just no hope
+I never meant to be so cold
+
+
+
+
 

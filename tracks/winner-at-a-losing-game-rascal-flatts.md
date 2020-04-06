@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: winner-at-a-losing-game-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/winneratalosinggame.html
 name: Winner At A Losing Game
 rankings:
 - end_date: '2007-11-16'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
 ---
+
+Baby, look here at me
+Have you ever seen me this way
+I've been fumblin' for words
+Through the tears and the hurt and the
+Pain
+I'm gonna lay it all out
+On the line tonight
+And I think that it's time
+To tell this uphill fight goodbye
+
+
+Have you ever had to love someone
+That just don't feel the same
+Tryin' to make somebody care for you
+The way I do
+Is like tryin' to catch the rain
+And if love is really forever
+I'm a winner at a losin' game
+
+I know that baby, you tried
+To find me somewhere inside of you
+But you know you can't lie
+Girl, you can't hide the truth
+Sometimes two hearts
+Just can't dance to the same beat
+So I'll pack up my things
+And I'll take what remains of me
+
+
+
+I know that I'll never be the man that you need or love
+Yeah, baby it's killin' me to stand here and see
+I'm not what you've been dreamin' of
+
+
+
+Oh, oh, if love is really forever
+I'm a winner at a losin' game
+Oh, I'm tired of losing
+Oh, oh, oh-
+
+
 

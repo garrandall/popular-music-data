@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-get-excited-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/igetexcited.html
 name: I Get Excited
 rankings:
 - end_date: '1982-09-17'
@@ -55,4 +56,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
 ---
+
+Well, you admit you like the game but you're not gonna play
+You're just ignorin' what you're body's tryin' to say
+I get the feelin' that you're playin' and we're both gonna win
+I think this angel's about to sin
+
+I get excited just thinkin' what you might be like
+I get excited, there's heaven in your eyes tonight
+The fire's ignited, down below it's burnin' bright
+Oh baby, stay; we got all night, all night
+Baby please, I can't please if I'm on my knees tonight
+
+No, baby you don't look that nervous when you bite your lip
+You keep 'em open when we kiss, you're a hypocrite
+You got my body dancin' tengo in three-four time
+This angel's gonna spread her wings tonight
+
+I get excited just thinkin' what you might be like
+I get excited, there's heaven in your eyes tonight
+The fire's ignited, down below it's burnin' bright
+Oh baby, stay; we got all night, all night
+We got all night, all night
+Baby please, I can't please, if I'm on my knees tonight
+Tonight...
+
+Baby, I can feel your heartbeat; can't you feel the heat?
+Baby's got cold feet, fire below
+Oh baby, stay; we got...
+Oh baby, stay; we got all night, all night
+We got all night, all night
+Baby please, I can't please if I'm on my knees
+All night, all night
+We got all night, all night
+Baby please, I can't please if I'm on my knees tonight
+Tonight!
+
+
 

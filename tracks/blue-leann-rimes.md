@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-leann-rimes
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/blue.html
 name: Blue
 rankings:
 - end_date: '1996-06-28'
@@ -87,4 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
 ---
+
+Blue
+Oh, so lonesome for you
+Why can't you be blue over me?
+
+Blue
+Oh, so lonesome for you
+Tears fill my eyes 'til I can't see
+3 o'clock in the morning, here am I
+Sittin' here so lonely, so lonesome I could cry
+
+Blue
+Oh, so lonesome for you
+Why can't you be blue over me?
+Now that it's over, I realize
+Those weak words you whispered, were nothing but lies
+
+Blue
+Oh, so lonesome for you
+Why can't you be blue over me?
+Why can't you be blue over me?
+
+
 

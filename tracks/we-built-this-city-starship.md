@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-built-this-city-starship
+lyrics_url: https://www.azlyrics.com/lyrics/emilbulls/webuiltthiscity.html
 name: We Built This City
 rankings:
 - end_date: '1985-09-13'
@@ -103,4 +104,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
 ---
+
+We built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+
+Say, "You don't know me or recognize my face"
+Say, "You don't care who goes to that kind of place"
+Knee deep in the hoopla sinking in your fight
+Too many runaways eating up the night
+Marconi plays the Mamba, listen to the radio, don't you remember
+
+We built this city, we built this city on rock and roll
+We built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+
+Someone always playing corporation games
+Who cares they're always changing corporation names
+We just want to dance here, someone stole the stage
+They call us irresponsible, write us off the page
+Marconi plays the Mamba, listen to the radio, don't you remember
+
+We built this city, we built this city on rock and roll
+We built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+
+It's just another Sunday, in a tired old street
+Police have got the choke hold, oh... then we just lost the beat
+
+Who counts the money, underneath the bar
+Who rides the wrecking ball in two rock guitars
+Don't tell us you need us, 'cos we're the ship of fools
+Looking for America coming through your schools
+
+(I'm looking out over that Golden Gate bridge
+Out on another gorgeous sunny Saturday, not seein' that bumper to bumper traffic)
+
+Don't you remember
+
+(It's your favorite radio station, in your favorite radio city
+The city by the bay, the city that rocks, the city that never sleeps)
+
+Marconi plays the Mamba, listen to the radio, don't you remember
+
+We built this city, we built this city on rock and roll
+We built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+Built this city, we built this city on rock and roll
+
+(We built, we built this city)
+Built this city
+(We built, we built this city)
+(We built, we built this city)
+Built this city
+(We built, we built this city)
+(We built, we built this city)
+Built this city
+(We built, we built this city)
+(We built, we built this city)
+Built this city
+(We built, we built this city)
+
+
 

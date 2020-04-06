@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-what-if-bobby-bare
+lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/daddywhatif.html
 name: Daddy What If
 rankings:
 - end_date: '1974-01-11'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
+
+(Daddy what if the sun stop shinin', what would happen then?)
+
+If the sun stopped shinin' you'd be so surprised
+You'd stare at the heavens with wide open eyes
+And the wind would carry your light to the skies
+And the sun would start shinin' again.
+
+(Daddy what if the wind stopped blowin', what would happen then?)
+
+If the wind stopped blowin' then the land would be dry
+And your boat wouldn't sail son and your kite wouldn't fly
+And the grass would see your troubles and she'd tell the wind
+And the wind would start blowin' again.
+
+(But daddy, what if the grass stopped growin', what would happen then?)
+
+If the grass stopped growin' why you'd probably cry
+And the ground would be watered by the tears from your eyes
+And like your love for me the grass would grow so high
+Yes, the grass would start growin' again.
+
+(But daddy. what if I stopped lovin' you, what would happen then?)
+
+If you stopped lovin' me then the grass would stop growin'
+The sun would stop shinin' and the wind would stop blowin'
+So you see if you wanna keep this old world a goin'
+You better start lovin' me again, again, you better start lovin' me again.
+
+You hear me Bobby, you better start lovin' me again.
+You love me Bobby, you better start lovin' me again...
+
+
 

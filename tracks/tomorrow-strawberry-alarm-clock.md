@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tomorrow-strawberry-alarm-clock
+lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/tomorrow.html
 name: Tomorrow
 rankings:
 - end_date: '1968-01-05'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
 ---
+
+Tomorrow
+Things won't be the same
+Tomorrow
+Life would be a different game
+
+But right now I am with you, and
+Together we can make it through
+Ba-ba-ba...
+
+Forever
+Our love might last
+Forever
+Will it come too fast
+
+But right now I am with you, and
+Together we can make it through
+Ba-ba-ba...
+
+We live in a world
+Of carnivals and clowns
+And buildings to the sky
+That make us want to fly
+
+But right now I am with you, and
+Together we can make it through
+Ba-ba-ba...
+
+We live in a world
+Of carnivals and clowns
+And buildings to the sky
+That make us want to fly
+
+But right now I am with you, and
+Together we can make it through
+But right now I am with you, and
+Together we can make it through
+Wow
+
+
 

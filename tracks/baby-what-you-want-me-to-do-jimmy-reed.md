@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-what-you-want-me-to-do-jimmy-reed
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/babywhatyouwantmetodo.html
 name: Baby What You Want Me To Do
 rankings:
 - end_date: '1960-02-21'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+
+You got me runnin'
+Got me hidin'
+Got me run, hide, hide, run
+Any way you want me let it roll
+Yeah, yeah, yeah
+Got me doin' what you want babe
+Baby what you want me to do?
+
+Goin' up, goin' down
+Goin' up, down, down, up
+Any way you want me let it roll
+Yeah, yeah, yeah
+Got me doin' want you want babe
+Baby what you want me to do?
+
+Got me peepin'
+Got me hidin'
+Got me peep, hide, hide, peep
+Any way you want me let it roll
+Yeah, yeah, yeah
+Got me doin what you want babe
+Baby what you want me to do?
+
+Goin' up, goin' down
+Goin' up, down, down, up
+Any way you want me let it roll...
+
+
 

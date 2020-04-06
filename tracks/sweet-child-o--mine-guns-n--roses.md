@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-child-o--mine-guns-n--roses
+lyrics_url: https://www.azlyrics.com/lyrics/anastacia/sweetchildomine.html
 name: Sweet Child O' Mine
 rankings:
 - end_date: '1988-07-01'
@@ -103,4 +104,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
 ---
+
+She's got a smile that it seems to me
+Reminds me of childhood memories
+Where everything
+Was as fresh as the bright blue sky
+Now and then when I see her face
+She takes me away to that special place
+And if I stared too long
+I'd probably break down and cry
+
+Sweet child o' mine
+Sweet love of mine
+
+She's got eyes of the bluest skies
+As if they thought of rain
+I hate to look into those eyes
+And see an ounce of pain
+Her hair reminds me of a warm safe place
+Where as a child I'd hide
+And pray for the thunder
+And the rain
+To quietly pass me by
+
+Sweet child o' mine
+Sweet love of mine
+
+Where do we go
+Where do we go now
+Where do we go
+
+Where do we go
+Oh, where do we go now
+Where do we go
+Oh, where do we go now
+Oh, where do we go now
+Oh, where do we go
+Oh, where do we go now
+Where do we go
+Oh, where do we go now
+Where do we go
+Oh, where do we go now
+No, no, no, no, no, no, no
+Where do we go
+Sweet child of mine...
+Oohhhhh... Sweet child o' mine...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rope-foo-fighters
+lyrics_url: https://www.azlyrics.com/lyrics/foofighters/rope.html
 name: Rope
 rankings:
 - end_date: '2011-03-25'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
 ---
+
+This indecision's got me climbing up the walls
+I've been cheating gravity and waiting on the falls
+How did this come over me, I thought I was above it all
+Our hope's gone up in smoke, swallow your crown 
+
+Choke! On a kiss, I thought I'd save my breath for you
+Choke! On a kiss, I thought I'd save my breath for you
+Give me some rope I'm coming loose, I'm hanging on you
+Give me some rope I'm coming loose, I'm pulling for you now
+Give me some rope I'm coming out of my head, into the clear 
+When you go I come loose 
+
+These premonitions got me crying up a storm
+Leave your condition, this position does no harm
+
+Choke! On a kiss, I thought I'd save my breath for you
+Choke! On a kiss, I thought I'd save my breath for you
+Give me some rope I'm coming loose, I'm hanging on you
+Give me some rope I'm coming loose, I'm pulling for you now
+Give me some rope I'm coming out of my head, into the clear 
+When you go I come loose 
+
+Give me some rope I'm coming loose, I'm hanging on you
+Give me some rope I'm coming loose, I'm pulling for you now
+Give me some hope I'm coming through, I'm counting on you
+Give me some rope I'm coming out of my head, into the clear 
+When you go I come... 
+Loose
+
+
 

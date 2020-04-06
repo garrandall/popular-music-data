@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-akon
+lyrics_url: https://www.azlyrics.com/lyrics/akon/angel.html
 name: Angel
 rankings:
 - end_date: '2010-10-15'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
 ---
+
+I'm looking at an angel
+And believe me when I say
+She got that whole place blowing 
+She got that whole place glowing, glowing, glowing...
+I'm looking at an angel
+And believe me when I say
+She got that whole place glowing 
+And she's high in the sky singing
+Way above the clouds in the sky singing 
+
+She got wings she got a halo
+It seems to me so unnatural
+Cause that's one thing that I just don't know
+What seems to be so incredible
+She looked at me took me by surprise yeaaahh
+As if she took me by the hand to some foreign land
+And had me way up
+Way above the clouds in the sky singing 
+
+Singing my song yeah yeah
+From dust til dawn yeah yeah
+I know you got a lot on your mind
+But it won't be long yeah yeah
+Always get better yeah yeah
+And I may be wrong yeah yeah
+Cause I'll never get it across the line before they make it home yeah yeah
+Singing my song yeah yeah
+From dust til dawn yeah yeah
+I know you got a lot on your mind
+But it won't be long yeah yeah
+Always get better yeah yeah
+And I may be wrong yeah yeah
+Cause I'll never get it across the line before they make it home yeah yeah
+
+I'm looking at an angel
+And believe me when I say
+She got that whole place blowing 
+I'm looking at an angel
+And believe me when I say
+She got that whole place glowing 
+And she's high in the sky singing
+
+
 

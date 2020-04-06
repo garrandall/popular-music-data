@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-in-the-usa-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/backintheusa.html
 name: Back In The Usa
 rankings:
 - end_date: '1978-08-25'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
+
+Oh well oh well I feel so good today
+We just touched ground on an international runway
+Jet-propelled back home from overseas to the USA
+
+New York, Los Angeles
+Oh how I yearn for you
+Detroit, Chicago, Chattanooga, Baton Rouge
+God I long to be at my home back in old St Lou
+
+Did I miss the skyscrapers
+Did I miss the long freeway
+From the coast of California
+To the shores of the Delaware Bay
+You can bet your life I did
+Till I got back to the USA
+
+Looking hard for a drive-in
+Searching for a corner cafe
+Where hamburgers sizzle on an open grill night and day
+Yeah, and the jukebox jumping with records back in the USA
+
+I'm so glad I'm living in the USA
+Yes I'm so glad I'm living in the USA
+Anything you want we got it right here in the USA
+
+Ah we're so glad we're living in the USA
+Yes we're so glad we're living in the USA
+Anything you want we got it right here in the USA
+
+Ah we're so glad
+We're so glad
+Ah we're so glad
+We're so glad
+
+
 

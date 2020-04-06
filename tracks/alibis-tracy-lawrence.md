@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alibis-tracy-lawrence
+lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/alibis.html
 name: Alibis
 rankings:
 - end_date: '1993-04-23'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
 ---
+
+She knows every move that a man could make
+She knows every trick in the book
+She knows how to give, and she knows how to take
+But so many times she's been taken a fool
+
+
+By those alibis and lying eyes, and all the best lines, Lord knows she heard em all
+She's been cheated on, and pushed around, and left alone, Lord knows what I put her through
+But boy you can bet, if a move can be made, she knows how to make one on you
+
+She once thought that love wasn't just a game
+Her feelings once came from the heart
+One day I gave her a wedding ring, and one night I tore all those feelings apart
+
+With my alibis and lying eyes, and all the best lines, Lord knows she heard em all
+She's been cheated on, and pushed around, and left alone, Lord knows what I put her through
+But boy you can bet, if a move can be made, she knows how to make....
+
+Her own alibis and lying eyes, and all the best lines, Lord knows she heard em all
+She's been cheated on, and pushed around, and left alone, Lord knows what I put her through
+But boy you can bet, if a move can be made, she knows how to make one on you
+
+
 

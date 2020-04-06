@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tennessee-waltz-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/tennesseewaltz.html
 name: Tennessee Waltz
 rankings:
 - end_date: '1964-06-19'
@@ -39,4 +40,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
 ---
+
+I was dancing with my darling to the Tennessee Waltz
+When an old friend I happened to see
+I untroduced him to my loved one and while they were dancing
+My friend stole my sweetheart from me
+I remember the night and the Tennessee Waltz
+Only you know how much I have lost 
+Yes I lost my little darling the night they were playing
+That beautiful Tennessee Waltz
+
+
 

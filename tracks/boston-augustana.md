@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boston-augustana
+lyrics_url: https://www.azlyrics.com/lyrics/augustana/boston.html
 name: Boston
 rankings:
 - end_date: '2006-10-27'
@@ -103,4 +104,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-31'
 ---
+
+In the light of the sun, is there anyone? Oh, it has begun...
+Oh dear, you look so lost, your eyes are red and tears are shed,
+This world you must've crossed...
+You said...
+
+You don't know me, and you don't even care, oh yeah,
+And you said
+You don't know me, and you don't wear my chains... oh yeah,
+
+Essential yet appealed, you carry all your thoughts across an open field,
+When flowers gaze at you... they're not the only ones who cry when they see you
+You said...
+
+You don't know me, and you don't even care, oh yeah,
+Well you said
+You don't know me, and you don't wear my chains... oh yeah,
+
+She said I think I'll go to Boston...
+I think I'll start a new life,
+I think I'll start it over, where no one knows my name,
+
+I'll get out of California,
+I'm tired of the weather,
+I think I'll get a lover and fly him out to Spain...
+
+Oh yeah and I think I'll go to Boston,
+I think that I was tired
+I think I need a new town to leave this all behind...
+
+I think I need a sunrise,
+I'm tired of the sunset,
+I hear it's nice in the summer, some snow would be nice... oh yeah,
+
+You don't know me, and you don't even care, oh yeah...
+
+Boston... where no one knows my name...
+Where no one knows my name...
+Where no one knows my name... yeah
+
+Boston...
+No one knows my name.
+
+
 

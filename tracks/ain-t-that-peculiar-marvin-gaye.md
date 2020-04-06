@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-that-peculiar-marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/thelmahouston/aintthatpeculiar.html
 name: Ain't That Peculiar
 rankings:
 - end_date: '1965-10-15'
@@ -55,4 +56,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
 ---
+
+You do me wrong
+But I'm still crazy about you
+Stay away too long
+And I can't do without you
+
+Every chance you get
+You seem to just hurt me more and more
+But each hurt just makes my love go stronger
+Stronger than before
+
+I know flowers grow from rain
+But how can love grow from pain
+
+Ain't that peculiar, baby?
+Peculiarity
+Ain't that peculiar, baby?
+Peculiar as it can be
+
+You tell me lies
+It should be obvious to me
+But I'm so much in love with you, baby
+That I don't want to see
+
+That the things you do and say
+Are designed to make me blue
+But it's a doggone shame my love for you
+Makes all your lies seem true
+
+But if the truth makes love last longer
+Why do lies make my love stronger?
+
+Ain't that peculiar, baby?
+Peculiarity
+Ain't that peculiar, baby?
+Peculiar as it can be
+
+I cried so much just as like a child
+That's lost it's toy
+Baby, baby, you think these tears I cry
+Are tears of joy
+
+A child can cry so much
+And then you do everything they say
+No, no, no, like a child my tears don't help me
+To get my way
+
+I know love can last through years
+But how can love last through tears?
+
+Ain't that peculiar, baby?
+Peculiarity
+Ain't that peculiar, baby?
+Peculiar as it can be
+
+I don't understand
+Why you made me cry so much?
+I don't understand
+Why you lie so much?
+
+And made me cry tears of pain
+You made me cry for all that rain
+I don't understand
+Don't understand sometimes
+
+Ain't that peculiar, baby?
+Ain't that peculiar, baby?
+Peculiar as it can be
+
+Ain't that peculiar?
+Peculiarity
+Ain't that peculiar, baby?
+
+
 

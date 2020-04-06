@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ramblin--rose-nat-king-cole
+lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/ramblinrose.html
 name: Ramblin' Rose
 rankings:
 - end_date: '1962-08-10'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
 ---
+
+Ramblin' rose, ramblin' rose
+Why you ramble, no one knows
+Wild and wind-blown, that's how you've grown
+Who can cling to a ramblin' rose?
+
+Ramble on, ramble on
+When your ramblin' days are gone
+Who will love you with a love true
+When your ramblin' days are GONE
+
+Ramblin' rose, ramblin' rose
+Why I want you, heaven knows
+Though I love you with a love true
+Who can cling to a ramblin' rose?
+
+"One more time, everybody, now"
+
+Ramblin' rose, ramblin' rose
+Why I want you, heaven knows
+Though I love you with a love true
+Who can cling to a ramblin' rose?
+
+
 

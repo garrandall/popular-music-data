@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: solo-iyaz
+lyrics_url: https://www.azlyrics.com/lyrics/iyaz/solo.html
 name: Solo
 rankings:
 - end_date: '2010-03-05'
@@ -79,4 +80,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
 ---
+
+Well ya dun know it's ya boy I-Y-A-Z
+Alongside the man J-R'a
+
+I said I don't want to walk this earth
+If I got to do it solo
+
+See girl we used to be a team
+Running the streets
+Ya we was living out our dream, oh
+You used to be my rider
+I was your provider
+And now we separated in two
+
+Oh baby you left and sailed away alone (yeah, alone)
+And now you got me trapped up on this island
+With no way to get home
+
+And I don't wanna go, go
+I don't wanna go, go
+I don't want it down low
+I don't want it down low
+I don't want to walk this earth
+If I gotta do it solo (solo)
+
+'Cause I was so high
+And now I'm so low
+And I don't wanna walk around alone, solo
+I said I don't want to walk this earth
+If I gotta do it solo (solo, solo)
+
+You was the beat onto my top line
+Put us together
+And you have to hit the rewind
+See, you gave me a purpose
+Now I'm getting nervous
+That my heart will never sing again
+Oh, when we were burning up the airways
+They knew us from the Virgin Islands to the U.K
+See, we was on our way to the platinum and gold
+Never thought that you'd go, but you did
+Yeah, you did
+
+Oh baby you left and sailed away alone (yeah, alone)
+And now you got me trapped up on this island
+With no way to get home
+
+And I don't wanna go, go
+I don't wanna go, go
+I don't want it down low
+I don't want it down low
+I don't want to walk this earth
+If I gotta do it solo (solo)
+
+'Cause I was so high
+And now I'm so low
+And I don't wanna walk around alone, solo
+I said I don't want to walk this earth
+If I gotta do it solo (solo, solo)
+
+I don't wanna walk S-O-L-O
+I don't wanna walk S-O-L-O
+Oh no (oh no)
+
+I don't wanna walk S-O-L-O
+I don't wanna walk S-O-L-O
+I don't ever wanna let your love go
+Whoa
+I don't wanna walk S-O-L-O
+
+And I don't wanna go, go
+I don't wanna go, go
+I don't want it down low
+I don't want it down low
+I don't want to walk this earth
+If I gotta do it solo (solo)
+
+'Cause I was so high
+And now I'm so low
+And I don't wanna walk around alone, solo
+I said I don't want to walk this earth
+If I gotta do it solo (solo, solo)
+
+
 

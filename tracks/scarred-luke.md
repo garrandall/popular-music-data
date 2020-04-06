@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scarred-luke
+lyrics_url: https://www.azlyrics.com/lyrics/lukejames/exitwounds.html
 name: Scarred
 rankings:
 - end_date: '1996-05-03'
@@ -71,4 +72,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
 ---
+
+
+I slept on your side of the bed yesterday
+I don't understand why I can't forget you
+I know I messed up when I missed your birthday
+We both broke the code
+Didn't think I'd ever see you go
+
+
+I wonder if you ever loved me
+Cause if you did why be so cold
+I hope you know...
+
+
+This 'ain't a heart it's just an exit wound
+That just won't close
+My brain is scarred each time I let you through
+You left a hole
+Stole my smile
+And all that I've got left of you are these exit wounds
+
+
+Well, fuck you
+You can leave with everything you came with
+All that shit about me you was sayin' (Well, fuck you)
+Everything you are today you made it
+Can't believe I fell for all your fake shit (Well, fuck you)
+
+
+I'm kinda glad that it's over I found
+A better half I hope that hurts you
+I heard you moved back to New Orleans somehow
+We spoke on the phone
+Asking me where we went wrong
+
+
+You wonder if I, ever loved you
+Cause if I did, why be so cold?
+I hope you know...
+
+
+This 'ain't a heart it's just an exit wound
+That just won't close
+My brain is scarred each time I let you through
+You left a hole
+Stole my smile
+And all that I've got left of you are these exit wounds
+
+
+Tried to stitch it up
+Had no luck
+Keep bleeding out for love
+
+
+I wonder if you ever loved me
+Cause if you did why be so cold
+I hope you know...
+
+
+This 'ain't a heart it's just an exit wound
+That just won't close
+My brain is scarred each time I let you through
+You left a hole
+Stole my smile
+And all that I've got left of you are these exit wounds
+
+
+Well, fuck you!
+You can leave with everything you came with
+All that shit about me you was sayin' (Well, fuck you)
+Everything you are today you made it
+Can't believe I fell for all your fake shit (Well, fuck you)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-mama-savoy-brown
+lyrics_url: https://www.azlyrics.com/lyrics/savoybrown/tellmama.html
 name: Tell Mama
 rankings:
 - end_date: '1971-11-12'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
 ---
+
+Quit my job, ain't got no money
+Seems I have to leave this town
+Packed my bags, run to the station
+Board the train that's eastward bound
+
+Tell Mama
+And all the folks back home
+Sometimes a man just feels
+He's got to make it alone
+Tell Mama
+Why I'm leaving so soon
+Because this life I live
+Has got me sick through and through
+
+Nothing to do, that's why I had to go
+Seemed no use in hanging round
+I can't stop now, the tickets in my hand
+Board the train that's eastward bound
+
+Tell Mama
+And all the folks back home
+Sometimes a man just feels
+He's got to make it alone
+Tell Mama
+Why I'm leaving so soon
+Because this life I live
+Has got me sick through and through
+
+Quit my job, ain't got no money
+Seems I have to leave this town
+
+
 

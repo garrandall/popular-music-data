@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-your-smile-shanice
+lyrics_url: https://www.azlyrics.com/lyrics/tiffanyevans/iloveyoursmile.html
 name: I Love Your Smile
 rankings:
 - end_date: '1991-11-29'
@@ -111,4 +112,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
 ---
+
+Sitting in my class, just drifting away
+Staring into the windows of the world
+I can't hear the teacher, his books don't call me at all
+I don't see the bad boys tryin' to catch some play...
+
+
+'cause I love your smile
+I love your smile
+
+The clock at work says three
+And I wanna be free
+Free to scream, free to bathe, free to paint
+My toes all day
+My boss is lame you know, and so is the pay
+I'm gonna put that new black mini on my charge anyway
+
+
+
+Time came and showed me your direction
+Now I know I'll never ever go back
+Taught me that
+I can be a better girl with love you give
+You rock my world
+You dig
+
+I'm showin'
+The life that I'm livin'
+This is the life that I have
+And it's given to you
+
+Yeh'and it's true
+La-d-da
+Twinkley d
+Do you
+
+Believe in a girl
+Like me
+Shanice is the one
+For you to be with
+
+But when I'm caught
+All alone
+I start fessin'
+It's from a state of depression
+And the thunder clouds of doubt move in
+I begin to wonder "Do you still love me?"
+But after that
+My whole world is beautiful
+
+Time came and showed me your direction
+Now I know I'll never ever go back
+Taught me that
+I can be a better girl with love you give
+You rock my world
+You dig
+
+
 

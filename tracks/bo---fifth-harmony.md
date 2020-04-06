@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bo---fifth-harmony
+lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/bo.html
 name: Bo$$
 rankings:
 - end_date: '2014-08-01'
@@ -67,4 +68,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
 ---
+
+
+Everyday is payday
+Swipe my card, then I do the nae nae
+You talking to a lady
+I want a Kanye ye not a Ray J
+So that's a no no
+I'm a Maybach and you's a Volvo
+This convo's beat like Dre aye
+I already know what you trying to say hey!
+
+
+You say that you a baller
+And I see you trying holla
+But that ain't how I was brought up-next
+Working for the money
+'Cause that what my momma taught me
+So yo ass better show me some re-spect
+
+
+
+Boss
+
+Michelle Obama
+Purse all heavy
+Gettin' Oprah dollars
+
+
+C-O-N-F-I-D-E-N-T
+That's me, I'm confident
+Don't want yo compliments
+Use common sense
+I'm on my Michelle Obama-shhhhhhhhh
+Shut yo mouth
+Boy I think you know who run this house
+I ain't thirstin for no bae...
+'Cause I already know watch you trying to say hey!
+
+
+You say that you a baller
+And I see you trying to holla
+But that ain't how I was brought up-next
+Working for the money
+'Cause that's what my momma taught me
+So yo ass better show me some re-spect
+
+
+
+
+I pledge allegiance to my independent girls in here
+
+Ooh Baby...
+
+So if you with us, come on lemme hear you say-
+Yeah, yeah, yeah, yeah
+
+
+Uhuh uhuh
+Hey Hey
+Uhuh uhuh
+
+
+Da da la da da
+I see you
+
+
+You say that you a baller
+And I see you trying to holla
+But that ain't how I was brought up-next (No)
+Working for the money
+'Cause that's what my momma taught me
+So yo ass better show me some re-spect
+
+
+
+Ohoooh
+
+Oh
+
+
 

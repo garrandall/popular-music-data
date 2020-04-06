@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: constant-rain--chove-chuva--sergio-mendes-brasil--66
+lyrics_url: https://www.azlyrics.com/lyrics/sergiomendes/constantrain.html
 name: Constant Rain (Chove Chuva)
 rankings:
 - end_date: '1966-12-30'
@@ -32,4 +33,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
 ---
+
+Chove, chuva
+Constant is the rain
+Chove, chuva
+Endless is the pain
+
+As I stand here and remember
+That once our hearts were one
+And every day was spring to me
+Till you left and took off to the sun
+
+Now the days are lonely
+The song of love is still
+They say that I'll forget you
+But I say I never will
+
+And it hurts with such a pain
+To be alone and lonely in the rain
+And it hurts with such a pain to be
+Alone and lonely in the rain
+
+Chove, chuva
+Constant is the rain
+Chove, chove, chove, chuva
+Endless is the pain
+
+As I stand here and remember
+That once our hearts were one
+And every day was spring to me
+Till you left and took off to the sun
+
+Now the days are lonely
+The song of love is still
+They say that I'll forget you
+But I say I never will
+
+And it hurts with such a pain
+To be alone and lonely in the rain
+And it hurts with such a pain to be
+Alone and lonely in the rain
+
+Chove, chuva
+Constant is the rain
+Chove, chove, chove, chuva
+Endless is the pain
+Chove, chuva
+Constant is the rain
+Chove, chove, chove, chuva
+Endless is the pain
+Chove, chuva
+Constant is the rain
+Chove, chove, chove, chuva
+Endless is the pain
+Chove, chuva
+Constant is the rain
+Chove, chove, chove, chuva
+Endless is the pain
+
+
 

@@ -5,6 +5,7 @@ features:
 - Taylor Swift
 genres: []
 key: two-is-better-than-one-boys-like-girls-taylor-swift
+lyrics_url: https://www.azlyrics.com/lyrics/boyslikegirls/twoisbetterthanone.html
 name: Two Is Better Than One
 rankings:
 - end_date: '2009-10-02'
@@ -92,4 +93,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
 ---
+
+I remember what you wore on the first day
+You came into my life and I thought hey
+You know, this could be something
+
+'Cause everything you do and words you say
+You know that it all takes my breath away
+And now I'm left with nothing
+
+So maybe it's true that I can't live without you
+And maybe two is better than one
+But there's so much time to figure out the rest of my life
+And you've already got me coming undone
+And I'm thinking two is better than one
+
+I remember every look upon your face
+The way you roll your eyes, the way you taste
+You make it hard for breathing
+
+'Cause when I close my eyes and drift away
+I think of you and everything's okay
+I'm finally now believing
+
+Then maybe it's true that I can't live without you
+Maybe two is better than one
+But there's so much time to figure out the rest of my life
+And you've already got me coming undone
+And I'm thinking two is better than one
+
+I remember what you wore on the first day
+You came into my life and I thought, hey (hey, hey)
+
+Maybe it's true that I can't live without you
+Maybe two is better than one
+There's so much time to figure out the rest of my life
+And you've already got me coming undone
+
+And I'm thinking, ooh, I can't live without you
+'Cause, baby, two is better than one
+There's so much time to figure out the rest of my life
+But I've figured out with all that's said and done
+Two is better than one, two is better than one
+
+
 

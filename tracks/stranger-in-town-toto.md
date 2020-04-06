@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stranger-in-town-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/strangerintown.html
 name: Stranger In Town
 rankings:
 - end_date: '1984-11-02'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
+
+I remember it was late one night
+in the middle of a dream
+woke up in a pool of sweat
+thought I heard a scream
+Ran over to the window sill
+stuck my head out for a peek
+Dressed in black was a man I didn't recognise
+running down my back street
+My heart skipped a beat
+
+
+You better watch out, there's a stranger in town
+You better watch out, there's a stranger in town
+You better watch out when he comes around
+Don't make a sound
+
+Got the morning paper and the headlines read:
+"Danger to the queen"
+Buckingham Palace better tighten things up
+The son of a bitch is mean
+Vendors on the corner just doin' their job
+acting like nothing's new
+Scotland Yard's still looking for him
+but he doesn't leave a single clue
+
+
+
+Who's this man who fell out of the sky?
+What's he done and where's he live?
+How can a man who's a criminal be a hero to the kids?
+The old couple swear that the ripper's back
+They say it's him all right
+The young girl says it's Jesus and he won't be back again tonight
+I wonder who's right ?
+
+
+
+You better watch out...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doo-doo-doo-doo-doo--heartbreaker--the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/doodoodoodoodooheartbreaker.html
 name: Doo Doo Doo Doo Doo (heartbreaker)
 rankings:
 - end_date: '1974-01-18'
@@ -51,4 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
 ---
+
+The police in New York City
+They chased a boy right through the park
+And in a case of mistaken identity
+The put a bullet through his heart
+Heart breakers with your forty four
+I wanna tear your world apart
+You heart breaker with your forty four
+I wanna tear your world a part
+A ten year old girl on a street corner
+Sticking needles in her arm
+She died in the dirt of an alleyway
+Her mother said she had no chance, no chance!
+Heart breaker, heart breaker
+She stuck the pins right in her heart
+Heart breaker, pain maker
+Stole the love right out of you heart
+Heart breaker, heart breaker
+You stole the love right out of my heart
+Heart breaker, heart breaker
+I wanna tear your world apart
+Doo doo, doo doo doo doo doo doo...
+
+
 

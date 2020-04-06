@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-time-of-the-night-jennifer-warnes
+lyrics_url: https://www.azlyrics.com/lyrics/jenniferwarnes/righttimeofthenight.html
 name: Right Time Of The Night
 rankings:
 - end_date: '1977-02-04'
@@ -95,4 +96,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-25'
 ---
+
+Sun goes down on a silky day
+Quarter moon walking through the Milky Way
+Oh, you and me, baby
+We could think of something to do
+
+It's the right time of the night
+The stars are winking above
+It's the right time of the night
+For making love
+
+No use talking when the shadows fall
+Nightbird's calling and he says it all
+Oh, you and me, baby
+We could think of something to do
+
+It's the right time of the night
+The stars are winking above
+It's the right time of the night
+For making love
+
+I got you and you got me
+Tell you, that's the way my mama always said it should be
+I'll be cruel, you'll be kind
+We'll be bad, if you don't mind
+
+It's the right time of the night
+The stars are winking above
+It's the right time of the night
+For making love
+
+It's the right time of the night
+The stars are winking above
+It's the right time of the night
+For making love
+
+It's the right time of the night
+The stars are winking above
+It's the right time of the night
+For making love
+
+
 

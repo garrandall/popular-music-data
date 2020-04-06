@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-had-a-dream-come-true-s-club-7
+lyrics_url: https://www.azlyrics.com/lyrics/sclub7/neverhadadreamcometrue.html
 name: Never Had A Dream Come True
 rankings:
 - end_date: '2001-03-09'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
 ---
+
+Everybody's got something they had to leave behind
+One regret from yesterday that just seems to grow with time
+There's no use looking back or wondering
+How it could be now or might have been
+All this I know but still I can't find ways to let you go
+
+I've never had a dream come true
+Till the day that I found you
+Even though I pretend that I've moved on
+You'll always be my baby
+I never found the words to say
+You're the one I think about each day
+And I know no matter where life takes me to
+A part of me will always be with you
+
+Somewhere in my memory
+I've lost all sense of time
+And tomorrow can never be 
+Cause yesterday is all that fills my mind
+There's no use looking back or wondering
+How it should be now or might have been
+All this I know but still I can't find ways to let you go
+
+I've never had a dream come true
+Till the day that I found you
+Even though I pretend that I've moved on
+You'll always be my baby
+I never found the words to say
+You're the one I think about each day
+And I know no matter where life takes me to
+A part of me will always be
+
+You'll always be the dream that fills my head
+Yes you will, say you will, you know you will
+Oh baby, you'll always be the one I know I'll never forget
+There's no use looking back or wondering
+Because love is a strange and funny thing
+No matter how I try and try I just can't say goodbye
+No no no no
+
+I've never had a dream come true
+Till the day that I found you
+Even though I pretend that I've moved on
+You'll always be my baby
+I never found the words to say (words to say)
+You're the one I think about each day
+And I know no matter where life takes me to
+A part of me will always be
+A part of me will always be with you
+
+
 

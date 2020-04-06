@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-steel-guitar-and-a-glass-of-wine-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/steelguitarandaglassofwine.html
 name: A Steel Guitar And A Glass Of Wine
 rankings:
 - end_date: '1962-06-01'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
 ---
+
+Just give me a steel guitar, a glass of wine 
+And let me drink to a love I thought was mine 
+A love I thought was true to me 
+But now I'm drinkin' to her memory 
+A steel guitar and a glass of wine 
+While my tears they glisten and the candles shine 
+Oh candle-glow, oh candle bright 
+Tell me who she holds tonight 
+
+And bring me wine 
+And make the music mine 
+Play another set 
+So that I'll forget 
+
+Mmm, bring me a steel guitar and a glass of wine 
+And let me toast her just one more time 
+Oh candle-glow, before you dim 
+Tell her what a fool she's been 
+
+And bring me wine 
+Make the music mine 
+Play another set 
+So that I'll forget 
+
+And bring me a steel guitar and a glass of wine 
+And let me toast her just one more time 
+Oh candle-glow, before you dim 
+Tell her what a fool she's been 
+
+And one more thing before I go 
+Here's a secret, I still love her so 
+And one more thing before I go 
+Here's a secret, I still love her so 
+And one more thing before I go 
+Here's a secret, I still love her so 
+And one more thing before I go 
+Here's a secret, I still love her so
+
+
 

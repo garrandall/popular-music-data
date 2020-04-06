@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-thursday-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/sweetthursday.html
 name: Sweet Thursday
 rankings:
 - end_date: '1962-03-23'
@@ -15,4 +16,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
 ---
+
+It was on a sweet Thursday
+Monday, Tuesday, Wednesday all had passed
+Came the day I'd waited for at last
+And you were there, with love to spare
+
+Making it a sweet Thursday
+Not like any other day I'd known
+Giving me a dream to call my own
+A dream that you are sharing too
+
+People meet by some design
+Prearranged by laws divine
+Yet who is there who can define
+Just what mystic fate combined to make you mine
+
+We were only two strangers
+But we aren't strangers anymore
+And as I stand and kiss you at your door
+I know my life was incomplete
+'Till that wonderful, wonderful Thursday, my sweet
+'Till that wonderful, wonderful Thursday, my sweet
+
+
 

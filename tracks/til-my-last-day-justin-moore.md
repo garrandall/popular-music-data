@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: til-my-last-day-justin-moore
+lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/tilmylastday.html
 name: Til My Last Day
 rankings:
 - end_date: '2012-10-05'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
 ---
+
+People say I'm just a rough boy
+I ain't no good for you girl
+It's a dead end street, tryin' to love me
+Yeah, I'll wreck your world
+I can see why they're all talkin'
+Lookin' back at my past
+I've got a bad name, but a man can change
+I'm livin' proof of that
+
+Til my last day, til my last breath
+Of everyone that can, I can love you the best
+Til my last day, I'll be lovin' you
+All the way up, til they lay me down
+Six feet under the cold hard ground
+Til my last day, I'll be lovin' you
+
+Baby I might meet all my friends
+Shoot the bull, have a beer or two
+But you know I'll be the first one to leave
+In a hurry to get to you
+Somewhere deep inside your angel eyes
+I found a place to rest,
+Don't ever doubt that I'll be around,
+And baby don't you ever forget
+
+Til my last day, til my last breath
+Of everyone that can, I can love you the best
+Til my last day, I'll be lovin' you
+All the way up, til they lay me down
+Six feet under the cold hard ground
+Til my last day, I'll be lovin' you
+Darlin' yes I will
+
+Til my last day, til my last breath
+Of everyone that can, I can love you the best
+Til my last day, I'll be lovin' you
+All the way up, til they lay me down
+Six feet under the cold hard ground
+Til my last day, I'll be lovin' you
+Oh babe, til my last day
+
+
 

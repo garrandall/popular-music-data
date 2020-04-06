@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-mean-everything-to-me-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/youmeaneverythingtome.html
 name: You Mean Everything To Me
 rankings:
 - end_date: '1960-08-14'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
 ---
+
+You are the answer to my lonely prayer
+You are an angel from above
+I was so lonely till you came to me
+With the wonder of your love
+
+I don't know how I ever lived before
+You are my life
+My destiny
+Oh, my darling
+I love you so
+You mean everything to me
+
+If you should ever, ever go away
+There would be lonely tears to cry
+The sun above would be never shine again
+There would be teardrops in the sky
+
+So hold me close and never let me go
+And say our love will always be
+Oh, my darling
+I love you so
+You mean everything to me (you mean everything to me)
+
+So hold me close and never let me go
+And say our love will always be
+Oh, my darling
+I love you so
+You mean everything to me
+
+
 

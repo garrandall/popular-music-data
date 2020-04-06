@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: manic-monday-the-bangles
+lyrics_url: https://www.azlyrics.com/lyrics/relientk/manicmonday.html
 name: Manic Monday
 rankings:
 - end_date: '1986-01-31'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
 ---
+
+Six o'clock already I was just in the middle of a dream
+I was kissin' Valentino by a crystal blue Italian stream
+And I can't be late 'cause then I guess I just won't get paid
+These are the days when you wish your bed was already made.
+
+It's just another manic Monday
+I wish it was Sunday
+'Cause that's my Funday
+My I don't have to runday
+It's just another manic Monday.
+
+Have to catch an early train, got to be to work by nine
+And if I had an air-o-plane, I still couldn't make it on time
+'Cause it takes me so long just to figure out what I'm gonna wear
+Blame it on the train but the boss is already there.
+
+It's just another manic Monday
+I wish it was Sunday
+'Cause that's my Funday (oh-woe-oh-oh)
+My I don't have to runday
+It's just another manic Monday.
+
+All of my nights why did my lover have to pick last night to get down (last night, last night)
+Doesn't it matter that I have to feed the both of us, employment's down
+He said to me in his quiet riot voice:
+"C'mon feel the noise" (bum bum bum bummm)
+Time, it goes so fast (when you're having fun).
+
+It's just another manic Monday
+I wish it was Sunday
+'Cause that's my Funday
+My I don't have to runday
+It's just another manic Monday
+I wish it was Sunday
+'Cause that's my funday
+My I don't have to runday
+It's just another manic Monday.
+
+
 

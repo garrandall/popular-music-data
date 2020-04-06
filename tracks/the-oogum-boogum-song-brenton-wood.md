@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-oogum-boogum-song-brenton-wood
+lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/theoogumboogumsong.html
 name: The Oogum Boogum Song
 rankings:
 - end_date: '1967-04-21'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
 ---
+
+Oogum oogum boogum boogum
+boogum now baby you're castin' your spell on me
+A-I say, "Oogum oogum boogum boogum
+boogum now baby you're castin' you're spell on me"
+
+You got me doin' funny things like a clown
+A-just look at me
+
+When you wear your high heeled boots with your hip hugger suit, huh
+its all right, you're outta sight
+and you wear that cute mini skirt with your brother's sloppy shirt, huh
+A-I admit it, girl that I can dig it
+
+Well then I say
+Oogum oogum boogum boogum
+boogum now baby you're castin' your spell on me
+A-I say, "Oogum oogum boogum boogum
+boogum now baby you're castin' your spell on me"
+
+You got me doin' funny things like a clown
+A-just look at me
+
+When you wear your bell bottom pants
+I just stand there in a trance, huh
+I can't move, you're in the groove
+would you believe little girl that I am crazy 'bout you, huh
+now go on with your bad self
+
+(Ooh)
+
+Ooh, ooh, my my my baby's got these spells on me
+Ooh, ooh, ooh now mercy, mercy on me
+Huh, all right
+
+When you wear those big earrings, long hair, and things
+you got style, girl, that sure is wild
+and you wear that cute trench coat and you're standin' and posin'
+you got soul, you got too much soul
+
+I just say who got the blues say who got the blues
+say who got the blues now castin' your spell on me
+Well I say, "Who got the blues say who got the blues..."
+
+
 

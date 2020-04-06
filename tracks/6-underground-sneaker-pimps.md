@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 6-underground-sneaker-pimps
+lyrics_url: https://www.azlyrics.com/lyrics/sneakerpimps/6underground.html
 name: 6 Underground
 rankings:
 - end_date: '1997-05-09'
@@ -95,4 +96,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
 ---
+
+(A one, two)
+
+Take me down, 
+6 underground, the ground beneath your feet (A one, two)
+Laid out low
+Not meant to go
+No where or way to meet (A one, two)
+I've got a head full of drought
+Down here
+So far off from losing out
+Round here
+Overground
+Watch this space
+I'm open...to falling from grace
+
+Calm me down
+Bring it round
+To way high off your street (A one, two)
+I can see
+Like nothing else
+In me you're better than I wanna be
+Don't think cuz I understand
+I care
+Don't think cuz I'm talkin'
+We're friends
+Overground
+Watch this space
+I'm open...to falling from grace
+
+Talk me down
+Safe and sound
+Too strung up to sleep (A one, two)
+Wear me out
+Scream and shout
+Swear my time's never cheap (A one, two)
+I fake my life like I bleed
+Too much
+I'll take whatever you're givin'
+Not enough
+Overground
+Watch this space
+I'm open
+I fake my life like I've lived
+Too much
+I'll take whatever you're givin'
+Not enough
+Overground
+Watch this space
+I'm open...to falling from grace
+
+(A one, two)
+(A one, two)
+(A one, two)
+(A one, two)
+
+
 

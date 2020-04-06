@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-a-little-closer-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/comealittlecloser.html
 name: Come A Little Closer
 rankings:
 - end_date: '2005-09-30'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
+
+Come a little closer, baby
+I feel like layin' you down
+On a bed sweet surrender
+Where we can work it all out
+There ain't nothin' that love can't fix
+Girl, it's right here at our fingertips
+So come a little closer baby,
+I feel like layin' you down
+
+Come a little closer, baby
+I feel like lettin' go
+Of everything that stands between us
+And the love we used to know
+I wanna touch you like a cleansing rain
+Let it wash all the hurt away
+So come a little closer baby
+I feel like lettin' go
+
+If there's still a chance
+Then take my hand
+And we'll steal away
+Off into the night
+'Til we make things right
+The sun's gonna rise on a better day
+
+Come a little closer baby
+I feel like strippin' it down
+Back to the basics of you and me
+And what makes the world go round
+Every inch of you against my skin
+I wanna be stronger than we've ever been
+So come a little closer baby
+I feel like strippin' it down
+
+Come a little bit closer baby
+Just a little bit closer baby
+Come a little bit closer baby
+I feel like layin' you down
+
+
 

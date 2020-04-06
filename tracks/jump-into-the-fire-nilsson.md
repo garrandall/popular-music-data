@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump-into-the-fire-nilsson
+lyrics_url: https://www.azlyrics.com/lyrics/hollywoodvampires/onejumpintothefire.html
 name: Jump Into The Fire
 rankings:
 - end_date: '1972-03-24'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
+
+One is the loneliest number that you'll ever do
+Two can be as bad as one
+It's the loneliest number since the number one
+
+"No" is the saddest experience you'll ever know
+Yes, it's the saddest experience you'll ever know
+'Cause one is the loneliest number that you'll ever do
+One is the loneliest number, that you'll ever know
+
+You can climb a mountain, you can swim the sea
+You can jump into the fire but you'll never be free
+You can shake me up, or I can break you down
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
+
+We can make each other happy
+We can make each other happy
+We can make each other happy
+We can make each other happy
+
+You can climb a mountain, you can swim the sea
+You can climb a mountain but you'll never be free
+Or you can shake me up, or you can break me down
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
+
+We can make each other happy
+We can make each other happy
+We can make each other happy
+We can make each other happy
+
+Oh!
+
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
+
+We can make each other happy
+We can make each other happy
+We can make each other happy
+We can make each other happy
+
+
 

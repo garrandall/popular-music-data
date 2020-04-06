@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-on-the-radio-reba
+lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/turnontheradio.html
 name: Turn On The Radio
 rankings:
 - end_date: '2010-10-08'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
 ---
+
+No Good, Two Timin', Lies comin' outta your mouth. 
+Cheatin', mistreatin' games that you play brought you down. 
+Broke my heart, tore it apart, look who's got the last laugh now. 
+Don't you come crawlin' begging please on your knees, baby if you're missin' me. 
+
+
+Well, you can hear me on the radio! 
+You wanna turn me on, turn on your stereo. 
+You can sing along, while they're playin' our song. How you done me wrong... 
+Baby crank it up! 
+Until you blow the speakers out your Chevy truck. 
+So listen Romeo, when you're feelin' kinda lonely, let me tell you where to go. 
+Turn On The Radio! 
+
+Try to call, twitter me, text until your fingers bleed. 
+Oh! The DJ's the only way you're ever gonna hear from me. 
+If you're reminiscing, and you're missin me this much, and you really wanna stay in touch. 
+
+
+Well, you can hear me on the radio! 
+You wanna turn me on, turn on your stereo. 
+You can sing along, while they're playin' my song. How you done me wrong... 
+Baby crank it up! 
+Until you blow the speakers out your Chevy truck. 
+So listen Romeo, when you're feelin' kinda lonely, let me tell you where to go. Oh 
+
+Turn On The Radio! 
+Whoaaoooa! 
+Turn On The Radio! 
+Turn On The Radio 
+Oh!Oh!OhOhOh!Oh!Ohh! 
+
+
+Oh! You can hear me on the radio! 
+You wanna turn me on, turn on your stereo. 
+You can sing along, while they're playin' my song. How you done me wrong... 
+Baby crank it up! 
+Until you blow the speakers out your Chevy truck. 
+So listen Romeo, when you're feelin' kinda lonely, let me tell you where to go. 
+When you're feelin' kinda lonely. 
+
+Turn On The Radio! 
+Turn On The Radio! 
+Turn On, Turn On The Radio! 
+Turn On The Radio! 
+Turn On The Radio, Oh Oh Oh Oh Oh Ohhh! 
+Turn On The Radio!
+
+
 

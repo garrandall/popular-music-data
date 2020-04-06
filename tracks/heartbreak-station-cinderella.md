@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreak-station-cinderella
+lyrics_url: https://www.azlyrics.com/lyrics/cinderella/heartbreakstation.html
 name: Heartbreak Station
 rankings:
 - end_date: '1991-03-22'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
 ---
+
+Waiting at the station
+Tears filling up my eyes
+Sometimes the pain you hide
+Burns like a fire inside
+Look out my window
+Sometimes it's hard to see
+The things you want in life
+Come and go so easily
+
+
+She took the last train
+Out of my heart
+She took the last train
+And now I think I'll make
+A brand new start
+She took the last train
+Out of my heart
+
+Watching the days go by
+Thinking 'bout the plans we made
+Days  turn into years
+Funny how they fade away
+Sometimes I think of those days
+Sometimes I just hide away
+Waiting on that 9:20 train
+Waiting on a memory
+
+
+
+My lady's on the fly
+And she's never coming back
+My love is like a steam train
+Rolling down  the tracks yea, yeaa
+
+
+
+
 

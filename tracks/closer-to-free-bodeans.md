@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: closer-to-free-bodeans
+lyrics_url: https://www.azlyrics.com/lyrics/bodeans/closertofree.html
 name: Closer To Free
 rankings:
 - end_date: '1996-03-15'
@@ -87,4 +88,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
 ---
+
+Everybody wants to live how they wanna live and
+Everybody wants to love how they wanna love and
+Everybody wants to be closer to free
+
+Everybody wants respect, just a little bit
+And everybody needs a chance once in a while
+Everybody wants to be closer to free
+
+Everybody one, everybody two, everybody free
+Everybody needs to touch, you know now and then and
+Everybody wants a good good friend
+Everybody wants to be closer to free
+
+I said everybody one, everybody two, everybody free
+Everybody wants to live like they wanna live
+And everybody wants to love like they wanna love
+And everybody wants to be closer to free
+
+Closer to free
+Closer to free
+Closer to free
+
+
 

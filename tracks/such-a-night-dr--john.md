@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: such-a-night-dr--john
+lyrics_url: https://www.azlyrics.com/lyrics/band/suchanight.html
 name: Such A Night
 rankings:
 - end_date: '1973-09-21'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
 ---
+
+Such a night, it's such a night
+Sweet confusion under the moonlight
+Such a night, such a night
+To steal away, the time is right
+
+Your eyes caught mine, and at a glance
+You let me know that this was my chance
+But you came here with my best friend Jim
+And here I am, tryin' to steal you away from him
+
+Oh, but if I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+
+And it's such a night, it's such a night
+Sweet confusion under the moonlight
+It's such a night, such a night
+To steal away, the time is right
+
+Yeah, I couldn't believe my ear and my heart just skipped a beat
+When you told me to take you walkin' down the street
+Oh yeah, you came here with my best friend Jim
+Here I am, I'm stealin' you away from him
+
+Oh, but if I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+If I don't do it, you know somebody else will
+'Cause it's such a night
+
+
 

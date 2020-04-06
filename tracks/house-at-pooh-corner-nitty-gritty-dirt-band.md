@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-at-pooh-corner-nitty-gritty-dirt-band
+lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/houseatpoohcorner.html
 name: House At Pooh Corner
 rankings:
 - end_date: '1971-04-30'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
 ---
+
+Christopher Robin and I walked along
+Under branches lit up by the moon
+Posing our questions to Owl and Eeyore
+As our days disappeared all too soon
+But I've wandered much further today than I should
+And I can't seem to find my way back to the wood
+
+So help me if you can, I've got to get
+Back to the house at Pooh Corner by one
+You'd be surprised, there's so much to be done
+Count all the bees in the hive
+Chase all the clouds from the sky
+Back to the days of Christopher Robin and Pooh
+
+Winnie the Pooh doesn't know what to do
+Got a honey jar stuck on his nose
+He came to me asking help and advise
+And from here no one knows where he goes
+So I sent him to ask of the owl if he's there
+How to loosen the jar from the nose of a bear
+
+So help me if you can, I've got to get
+Back to the house at Pooh Corner by one
+You'd be surprised, there's so much to be done
+Count all the bees in the hive
+Chase all the clouds from the sky
+Back to the days of Christopher Robin and Pooh
+
+It's hard to explain how a few precious things
+Seem to follow throughout all our lives
+After all's said and done I was watching my son
+Sleeping there with my bear by his side
+So I tucked him in, kissed him
+And as I was going
+I swear that old bear whispered 
+Boy, welcome home!
+
+Believe me if you can, I've got to get
+Back to the house at Pooh Corner by one
+What do you know, there's so much to be done
+Count all the bees in the hive
+Chase all the clouds from the sky
+Back to the days of Christopher Robin and Pooh
+Back to the ways of Christopher Robin and Pooh
+Back to the ways of Pooh
+
+
 

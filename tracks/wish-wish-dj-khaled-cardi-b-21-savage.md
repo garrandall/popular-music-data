@@ -6,6 +6,7 @@ features:
 - 21 Savage
 genres: []
 key: wish-wish-dj-khaled-cardi-b-21-savage
+lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/wishwish.html
 name: Wish Wish
 rankings:
 - end_date: '2019-06-07'
@@ -69,4 +70,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
+
+(Tay Keith, fuck these niggas up!)
+
+Cardi, Cardi bops, Cardi, Cardi in the spot (We The Best Music)
+Cardi from the block, Cardi with the Glock
+Cardi, yeah, Cardi, yeah, Cardi(Another one)
+(DJ Khaled!)
+
+They say my time is almost up
+Tell them bitches, "Wish, wish"
+All these hoes looking cold, all these bitches fish sticks
+Put a ribbon on my box 'cause this pussy gifted
+I ain't got no free time, all my shit expensive
+See my ring, my watch, my chain and everything is lit-lit (Ice)
+All this gold on a bitch, I feel like I'm Slick Rick
+If they love me or they hate me, it don't make no difference (Cardi)
+It be hard not to kill a hoe 'cause I be tempted
+
+Now I be countin' money, buyin' jewelry, hoes be riding dick (Dick)
+I just make my M's and mind my business, hoes be riding dick (Dick)
+"I can see Cardi eat so much" and that's what got 'em sick
+But I wonder how they still ain't pregnant, all that riding dick
+Y'all better go ahead with that weak shit
+I'm certified real street bitch
+Won't be a song if I leak shit
+We strapped up like defense
+Whatever you do sis, keep it cute sis
+Leave that beef and shit at Ruth Chris or end up toothless
+I been official my whole life
+I bought burners, I ain't buy lights
+How lil' ol' me gettin' money got everybody all tight
+These bitches whack, bitches garb', they diss me, I disregard
+Bet you if I had a dick these bitches couldn't get it hard
+
+They say my time is almost up
+Tell them bitches, "Wish, wish" (wish)
+All these hoes looking cold, all these bitches fish sticks
+Put a ribbon on my box 'cause this pussy gifted
+I ain't got no free time, all my shit expensive
+See my ring, my watch, my chain and everything is lit-lit (Ice)
+All this gold on a bitch, I feel like I'm Slick Rick
+If they love me or they hate me, it don't make no difference (Cardi)
+It be hard not to kill a hoe 'cause I be tempted
+
+
+Bought a Richard Mille, I could've bought me a house (No joke)
+Feel like I'm the greatest rapper came out the South (Who want smoke?)
+She keep tryna fuck, I told her, "top me for now" (On God)
+She got ass shots, I told her work on her mouth (Straight up)
+Everybody talkin' this king talk, nigga we shoot shit up, we don't battle (Bitch)
+Quarrel 'bout nigga, ye ain't get no money, we don't give a fuck about your talents (Snitch)
+Came from the bottom, I'm a multi-millionaire, I was just sleepin' on pallets (21)
+Fuck these rappers, I'm 4L gang, we the best like DJ Khaled (Straight up)
+Your bitch got that crazy head like a Kanye tweet (21)
+Had a wedding for my Glocks, call 'em J and B (21)
+I split the rent with my chopper 'cause it stay with me (On God)
+Leave you drunk like a shot of liquor, ain't no chasing me (On God)
+
+He threw in a white flag, but I still want beef (Stupid)
+Catch you at your album release, you play with Cardi B (Shoot it)
+Made this pistol blow both ways, I call it Hennessy (Bow!)
+I know your mamma taught you look both ways 'fore crossing me
+Lil' bitch
+
+
+They say my time is almost up
+Tell them bitches, "Wish, wish" (wish)
+All these hoes looking cold, all these bitches fish sticks
+Put a ribbon on my box 'cause this pussy gifted
+I ain't got no free time, all my shit expensive
+See my ring, my watch, my chain and everything is lit-lit (Ice)
+All this gold on a bitch, I feel like I'm Slick Rick
+If they love me or they hate me, it don't make no difference (Cardi)
+It be hard not to kill a hoe 'cause I be tempted
+
+
+(We The Best Music!)
+(What's that on your wrist?)
+(I call her a chandelier)
+(Another one)
+
+
 

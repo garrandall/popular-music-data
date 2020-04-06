@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blackberry-molasses-mista
+lyrics_url: https://www.azlyrics.com/lyrics/lilkim/dreams.html
 name: Blackberry Molasses
 rankings:
 - end_date: '1996-07-05'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-26'
 ---
+
+Gimme all the rhythm and blues niggas then rock the shots of liquor they
+Make me cum quicker rub between your belly like jelly R.Kelly you think
+You ballin but your body's callin free fallin all in fuck the bumpin and
+Grindin have you jumpin and whinin while I'm climbin I be doin groups
+Like Troup body rockin H-Town or Horace Brown watch out now Baby face
+Can pay da rent and cook me five meals what the deal on that Prince cat
+He be lookin kind of fruity but he can still eat the booty Brian
+McKnights tight Joe is lookin kinda slow and oh what about D'Angelo I
+Want some of that brown sugar and what watch this rap bitch bust all
+Over ya nuts like
+
+
+Dreams, dreams, dreams of fucking an R&B dick (dreams of fucking and R&B dick)
+Dreams, dreams, dreams of fuckin and R&B dick
+
+I fuck mike sta flyway fuck dem LaDae cats and one on dem resemble Craig
+Mack I need a New Edition I need some Men of Vision pussy eatin position
+To go to shower pissin I made my Intro getting fucked in the Pinto now
+Im skin deep in da Lexus Jeep peep da Queen sista if I would fuck wit
+Mista they'd be lickin blackberry molasses out my asses Jason who da
+Fuck time ya wastin I got no patience for little dick tastin I'd rather
+Go Solo so I can get some Heaven and be the fuck out After Seven All for
+One and One for All I swear to God I'd never fuck with none of yall and
+If ya Immature than Im out the door I'm on fire gettin head by the
+Harlem Boys Choir.
+
+
+
+I couldn't find a mall with Kenny Lattimore Montell Jordan ain't scorin
+Tevin Campbell niggas like to shamble make him an example with this
+Pussy sample her we go you didn't know Joe was my hoe Tony Rich my bitch
+I got the 112 nuts to bust so just open wide and when Im done give me a
+High five.
+
+
+
+You can touch me and tease me as if my name was Case We got to drink a
+Pace for me to participate don't playa hate you didn't school with me Im
+Icin Bryson that dude down with Groove Theory
+
+
+
+
 

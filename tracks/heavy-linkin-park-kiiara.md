@@ -5,6 +5,7 @@ features:
 - Kiiara
 genres: []
 key: heavy-linkin-park-kiiara
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/heavy.html
 name: Heavy
 rankings:
 - end_date: '2017-03-17'
@@ -84,4 +85,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
 ---
+
+
+I don't like my mind right now
+Stacking up problems that are so unnecessary
+Wish that I could slow things down
+I wanna let go but there's comfort in the panic
+And I drive myself crazy
+Thinking everything's about me
+Yeah I drive myself crazy
+'Cause I can't escape the gravity
+
+I'm holding on
+Why is everything so heavy?
+Holding on
+To so much more than I can carry
+I keep dragging around what's bringing me down
+If I just let go, I'd be set free
+Holding on
+
+
+Why is everything so heavy?
+You say that I'm paranoid
+But I'm pretty sure the world is out to get me
+It's not like I make the choice
+To let my mind stay so fucking messy
+I know I'm not the center of the universe
+But you keep spinning round me just the same
+I know I'm not the center of the universe
+But you keep spinning round me just the same
+
+I'm holding on
+Why is everything so heavy?
+Holding on
+To so much more than I can carry
+I keep dragging around what's bringing me down
+If I just let go, I'd be set free
+Holding on
+Why is everything so heavy?
+
+
+I know I'm not the center of the universe
+But you keep spinning round me just the same
+
+
+I know I'm not the center of the universe
+But you keep spinning round me just the same
+And I drive myself crazy
+Thinking everything's about me
+
+
+Holding on
+Why is everything so heavy?
+Holding on
+
+:
+To so much more than I can carry
+I keep dragging around what's bringing me down
+If I just let go, I'd be set free
+Holding on
+Why is everything so heavy?
+
+Why is everything so heavy?
+
+
+Why is everything so heavy?
+
+
 

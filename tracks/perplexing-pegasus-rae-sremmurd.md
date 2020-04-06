@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: perplexing-pegasus-rae-sremmurd
+lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/perplexingpegasus.html
 name: Perplexing Pegasus
 rankings:
 - end_date: '2017-09-01'
@@ -19,4 +20,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
 ---
+
+Ear Drummers
+Mike WiLL Made-It
+
+Jump in the Pegasus
+All kinda reckless the necklace
+All kinda reckless I flexed it
+K-keep the change, yeah you heard me correctly
+If she sleek and foreign, call her Lexus
+Every week a foreign, I just check her wishlist
+Only thing I'm here for is perplexin'
+Caterpillar whip and I lowered it
+
+Lil' Jxm', I got a problem
+I'm in love with money, I'm in love with ballin'
+Gotta keep my phone on vibrate, how these bitches callin'
+Neiman Marcus' shawty and I ain't with no shoppin'
+2K on my feet, yeah, 2K, I be kickin' game
+Bubble Gum on Jxm', smokin' on a different strain
+Niggas still in south, they need to stay up in their lane
+Baby, we on top and that ain't ever gonna change
+Put you boys to shame
+Pull them foreign's out
+And put you boys to shame
+Going hard on a bitch like Major Payne
+Say my name (Jxm')
+They ain't know how to spell it, so I put it on my chain
+
+Jump in the Pegasus
+All kinda reckless the necklace
+All kinda reckless I flexed it
+K-keep the change, yeah you heard me correctly
+If she sleek and foreign, call her Lexus
+Every week a foreign, I just check her wishlist
+Only thing I'm here for is perplexin'
+Caterpillar whip and I lowered it
+
+All these, hundreds got me siftin'
+Jeep 35, needs a liftkit
+Man dirty cup I'm grippin' I mean it's a kick-in
+Leave your chick within 5 feet of me, wouldnât risk it
+Niggas cannot stop me, told them just to face it
+Aston sittin' low, wow, damn I scraped it
+She like spreading wings, 'cause it's the Pegasus
+I'm like "I might go and take the spot, because of negligence"
+Barricades ain't holdin' me
+Money on me, but that ain't controllin' me
+Last night had bitches go at me, like they go at me?
+Took off all these niggas, call it jetstream
+
+Jump in the Pegasus
+All kinda reckless the necklace (yeah)
+All kinda reckless I flexed it (yeah)
+K-keep the change, yeah, you heard me correctly
+If she sleek and foreign, call her Lexus
+Every week a foreign, I just check her wishlist (yeah)
+Only thing I'm here for is perplexing (yeah)
+Caterpillar whip and I lowered it (yeah)
+
+
 

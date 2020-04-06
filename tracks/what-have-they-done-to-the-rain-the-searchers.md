@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-have-they-done-to-the-rain-the-searchers
+lyrics_url: https://www.azlyrics.com/lyrics/seekers/whathavetheydonetotherain.html
 name: What Have They Done To The Rain
 rankings:
 - end_date: '1965-02-05'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
 ---
+
+Just a little rain falling all around
+The grass lifts its head to the heavenly sound
+Just a little rain just a little rain
+What have they done to the rain
+
+Just a little boy standing in the rain
+The gentle rain that falls for years
+And the grass is gone the boy disappears
+The rain keeps falling like helpless tears
+And what have they done to the rain
+
+Just a little breeze out of the sky
+The leaves pat their hands as the breeze blows by
+Just a little breeze with some smoke in its eye
+What have they done to the rain
+
+Just a little boy standing in the rain
+The gentle rain that falls for years
+And the grass is gone the boy disappears
+The rain keeps falling like helpless tears
+And what have they done to the rain
+What have they done to the rain
+
+
 

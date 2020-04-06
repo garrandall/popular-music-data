@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: system-of-survival-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/systemofsurvival.html
 name: System Of Survival
 rankings:
 - end_date: '1987-11-06'
@@ -61,4 +62,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+
+The Human Race is runnin' over me
+I punch a clock at 9 and 5
+Just tryin' to make a livin'
+A plastic face on satellite TV
+Says, "Life is filled with give and take"
+He's takin' and I'm givin
+So I dance
+
+
+It's my system of survival (SOS)
+I'm dancin'
+System of survival (SOS)
+It's a system of survival
+Future revival
+Greet the new arrival
+
+
+At times it's the only way
+I'm gonna make it through this day
+
+
+Everybody get up
+Do your dance
+Keep survivin'
+Everybody get up
+Do your dance
+Stay alive
+
+A city night
+I walk a street in fear
+While politicians brag about
+A paperwork solution
+
+Another life
+I shed another tear
+I'm waiting for somebody new
+To lead the revolution
+So I dance
+
+
+
+It's my system of survival...
+
+
+
+(SOS) Send it out
+Send it out, send it out, send it out...
+
+
 

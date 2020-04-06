@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-off-boogaloo-ringo-starr
+lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/backoffboogaloo.html
 name: Back Off Boogaloo
 rankings:
 - end_date: '1972-04-07'
@@ -47,4 +48,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
 ---
+
+Go!
+
+Back off boogaloo,
+I said, back off boogaloo,
+I said, back off boogaloo, boo.
+
+Back of boogaloo,
+What d'yer think i'm gonna do?
+I got a flash right from the start.
+
+Wake up, meat head,
+Don't pretend that you are dead,
+Get yourself up off the cart.
+
+Get yourself together now
+And give me something tasty.
+Ev'rything you try to do,
+You know it sure sounds wasted.
+
+Back off boogaloo,
+I said, back off boogaloo.
+
+You think you're a groove,
+Standing there in your wallpaper shoes
+And your socks that match your eyes.
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Get yourself together now
+And give me something tasty.
+Ev'rything you try to do,
+You know it sure sounds wasted.
+
+Back off boogaloo,
+What d'yer think i'm gonna do?
+I got a flash right from the start.
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Back, ba-ba-ba-back!
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Back, back, ba-ba-back, come on!
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+Back off boogaloo,
+I said, back off boogaloo,
+Come on, back off boogaloo, boo.
+
+
 

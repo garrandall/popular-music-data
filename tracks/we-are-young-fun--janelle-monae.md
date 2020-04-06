@@ -5,6 +5,7 @@ features:
 - Janelle Monae
 genres: []
 key: we-are-young-fun--janelle-monae
+lyrics_url: https://www.azlyrics.com/lyrics/fun/weareyoung.html
 name: We Are Young
 rankings:
 - end_date: '2011-12-30'
@@ -176,4 +177,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
 ---
+
+Give me a second I
+I need to get my story straight
+My friends are in the bathroom getting higher than the Empire State
+My lover she's waiting for me just across the bar
+My seat's been taken by some sunglasses asking 'bout a scar, and
+I know I gave it to you months ago
+I know you're trying to forget
+But between the drinks and subtle things
+The holes in my apologies, you know
+I'm trying hard to take it back
+So if by the time the bar closes
+And you feel like falling down
+I'll carry you home
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+Now I know that I'm not
+All that you got
+I guess that I, I just thought
+Maybe we could find new ways to fall apart
+But our friends are back
+So let's raise a toast
+'Cause I found someone to carry me home
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+Carry me home tonight (Nananananana)
+Just carry me home tonight (Nananananana)
+Carry me home tonight (Nananananana)
+Just carry me home tonight (Nananananana)
+
+The moon is on my side (Nananananana)
+I have no reason to run (Nananananana)
+So will someone come and carry me home tonight (Nananananana)
+The angels never arrived (Nananananana)
+But I can hear the choir (Nananananana)
+So will someone come and carry me home (Nananananana)
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+Tonight
+We are young
+So let's set the world on fire
+We can burn brighter than the sun
+
+So if by the time the bar closes
+And you feel like falling down
+I'll carry you home tonight
+
+
 

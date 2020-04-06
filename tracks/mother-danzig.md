@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mother-danzig
+lyrics_url: https://www.azlyrics.com/lyrics/danzig/mother.html
 name: Mother
 rankings:
 - end_date: '1994-02-18'
@@ -67,4 +68,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
 ---
+
+
+
+Mother
+Tell your children not to walk my way
+Tell your children not to hear my words
+What they mean
+What they say
+Mother
+
+Mother
+Can you keep them in the dark for life
+Can you hide them from the waiting world
+Oh mother
+
+Father
+Gonna take you daughter out tonight
+Gonna show her my world
+Oh father
+
+Not about to see your light
+But if you wanna find hell with me
+I can show you what it's like
+Till you're bleeding
+
+Not about to see your light
+And if you wanna find hell with me
+I can show you what it's
+
+Mother
+Tell your children not to hold my hand
+Tell your children not to understand
+Oh mother
+
+Father
+Do you wanna bang heads with me
+Do you wanna feel everything
+Oh father
+
+Not about to see your light
+And if you wanna find hell with me
+I can show you what it's like
+Till you're bleeding
+
+Not about to see your light
+And if you wanna find hell with me
+I can show you what it's
+Yea
+
+Not about to see your light
+But if you wanna find hell with me
+I can show you what it's like
+Till you're bleeding
+
+Not about to see your light
+And if you wanna find hell with me
+I can show you what it's like
+Wo-oh
+Mother
+Yea
+
+
 

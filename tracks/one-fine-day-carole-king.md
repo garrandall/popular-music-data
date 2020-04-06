@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-fine-day-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/onefineday.html
 name: One Fine Day
 rankings:
 - end_date: '1980-05-23'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
 ---
+
+One fine day, you'll look at me
+And you will know our love was, meant to be
+One fine day, you're gonna want me for your girl
+
+The arms I long for, will open wide
+And you'll be proud to have me
+Walkin' right by your side
+One fine day
+You're gonna want me for your girl
+
+Though I know you're the kind of boy
+Who only wants to run around
+I'll keep waiting, and, someday darling
+You'll come to me when you want to settle down
+Oh
+
+One fine day, we'll meet once more
+And then you'll want the love you threw away before
+One fine day, you're gonna want me for your girl
+One fine day, oh
+Oooh, one fine day, you're gonna want me for your girl
+
+
 

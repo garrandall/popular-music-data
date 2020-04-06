@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-for-the-times-to-get-better-crystal-gayle
+lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/readyforthetimestogetbetter.html
 name: Ready For The Times To Get Better
 rankings:
 - end_date: '1978-03-03'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
 ---
+
+I've got to tell you I've been rackin' my brain
+Hopin' to find a way out
+I've had enough of this continual rain
+Changes are comin', no doubt
+
+It's been a too long time
+With no peace of mind
+And I'm ready for the times
+To get better
+
+You seem to want from me what I cannot give
+I feel so lonesome at times
+I have a dream that I wish I could live
+It's burnin' holes in my mind
+
+It's been a too long time
+With no peace of mind
+And I'm ready for the times
+To get better
+
+It's been a too long time
+With no peace of mind
+And I'm ready for the times
+To get better
+
+
 

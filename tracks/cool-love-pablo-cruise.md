@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-love-pablo-cruise
+lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/coollove.html
 name: Cool Love
 rankings:
 - end_date: '1981-07-10'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
 ---
+
+A room full of faceless strangers
+Here I am again
+Suddenly, my eyes meet yours
+Looks like I found a friend
+
+Warms up as the night wears on
+We're both feelin' good
+Gonna take it to the end
+This time, we're gonna find out
+Find out, find out
+Just how good it is, yeah
+
+It's a cool kinda love
+It's like rain in the summertime
+Coming down
+Yes, it's a cool kinda love
+And cool love, baby
+That's what it's all about
+
+You don't have to say
+You don't have to say a thing
+It's just a feelin' that happens
+And what that feelin' brings
+
+Time ain't gonna change it
+It ain't gonna take it away
+It's gonna keep right on goin'
+Every night and every day
+Every night, every day
+Hey-hey-heeeey, heeeeey-hey-yeah
+(Cool kinda love)
+
+Like rain in the summertime
+Coming down, yeah
+It's a cool kinda love
+Yes, a cool love, baby
+That's what it's all about, all right
+
+It's a cool kinda love
+It's like rain in the summertime
+Coming down, yeah
+It's a cool kinda love
+Yes, a cool love, baby
+That's what it's all about
+It's a cool kinda love
+You know it's a cool kinda love
+
+
 

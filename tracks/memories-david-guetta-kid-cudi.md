@@ -5,6 +5,7 @@ features:
 - Kid Cudi
 genres: []
 key: memories-david-guetta-kid-cudi
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/memories.html
 name: Memories
 rankings:
 - end_date: '2010-10-29'
@@ -80,4 +81,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
 ---
+
+All the crazy shit I did tonight 
+those will be the best memories. 
+I just wanna let it go for the night 
+that would be the best therapy for me. 
+
+All the crazy shit I did tonight 
+those will be the best memories. 
+I just wanna let it go for the night 
+that would be the best therapy for me. 
+
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+
+Yeah, yeah. 
+
+All the crazy shit I did tonight 
+those will be the best memories. 
+I just wanna let it go for the night 
+that would be the best therapy for me. 
+
+All the crazy shit I did tonight 
+those will be the best memories. 
+I just wanna let it go for the night 
+that would be the best therapy for me. 
+
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+It's gettin' late but I don't mind. 
+
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah. 
+Hey, hey, yeah, yeah.
+
+
 

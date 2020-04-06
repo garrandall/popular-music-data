@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-great-commandment-camouflage
+lyrics_url: https://www.azlyrics.com/lyrics/camouflage/thegreatcommandment.html
 name: The Great Commandment
 rankings:
 - end_date: '1988-12-30'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
 ---
+
+Some people suppress you
+They parch you
+And reap a disaster
+Re-education for the infants
+Who demanded for an innocent instance
+
+The great commandment shows the contempt
+Between the world and their embarrassing pavement
+Believe the scholars
+Read the readings
+Realize the man who says anything
+
+The great commandment
+
+The needers believe you
+They treat you
+Like survivors of a disaster
+Re-education for the infants
+Who demanded for an innocent instance
+
+The great commandment shows the contempt
+Between the world and their embarrassing pavement
+Believe the scholars
+Read the readings
+Realize the man who says anything
+
+The great commandment shows the contempt
+Between the world and their embarrassing pavement
+Believe the scholars
+Read the readings
+Realize the man who says anything
+
+The great commandment
+
+
 

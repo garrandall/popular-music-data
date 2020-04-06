@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-to-know-a-secret-the-beatles
+lyrics_url: https://www.azlyrics.com/lyrics/beatles/doyouwanttoknowasecret.html
 name: Do You Want To Know A Secret
 rankings:
 - end_date: '1964-04-03'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
 ---
+
+You'll never know how much I really love you
+You'll never know how much I really care
+
+Listen
+Do you want to know a secret
+Do you promise not to tell, whoa oh, oh
+
+Closer
+Let me whisper in your ear
+Say the words you long to hear
+I'm in love with you
+
+Listen
+Do you want to know a secret
+Do you promise not to tell, whoa oh, oh
+
+Closer
+Let me whisper in your ear
+Say the words you long to hear
+I'm in love with you
+
+I've known the secret for a week or two
+Nobody knows, just we two
+
+Listen
+Do you want to know a secret
+Do you promise not to tell, whoa oh, oh
+
+Closer
+Let me whisper in your ear
+Say the words you long to hear
+I'm in love with you
+
+
 

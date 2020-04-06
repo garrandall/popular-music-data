@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hope-of-deliverance-paul-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/hopeofdeliverance.html
 name: Hope Of Deliverance
 rankings:
 - end_date: '1993-02-26'
@@ -31,4 +32,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
 ---
+
+I Will Always Be Hoping, Hoping.
+You Will Always Be Holding, Holding
+My Heart In Your Hand. I Will Understand.
+
+I Will Understand Someday, One Day.
+You Will Understand Always,
+Always From Now Until Then.
+
+When It Will Be Right, I Don't Know.
+What It Will Be Like, I Don't Know.
+We Live In Hope Of Deliverance From The Darkness That Surrounds Us.
+
+Hope Of Deliverance, Hope Of Deliverance.
+Hope Of Deliverance From The Darkness That Surrounds Us.
+
+And I Wouldn't Mind Knowing, Knowing
+That You Wouldn't Mind Going, Going Along With My Plan.
+
+When It Will Be Right, I Don't Know.
+What It Will Be Like, I Don't Know.
+We Live In Hope Of Deliverance From The Darkness That Surrounds Us.
+
+Hope Of Deliverance, Hope Of Deliverance.
+Hope Of Deliverance From The Darkness That Surrounds Us.
+
+Hope Of Deliverance, Hope Of Deliverance.
+Hope Of Deliverance From The Darkness That Surrounds Us.
+
+Hope Of Deliverance, Hope Of Deliverance.
+Hope Of Deliverance From The Darkness That Surrounds Us.
+
+Hope Of Deliverance, Hope Of Deliverance.
+Hope Of Deliverance From The Darkness That Surrounds Us.
+
+
 

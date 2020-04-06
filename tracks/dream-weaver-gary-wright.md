@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-weaver-gary-wright
+lyrics_url: https://www.azlyrics.com/lyrics/garywright/dreamweaver.html
 name: Dream Weaver
 rankings:
 - end_date: '1976-01-09'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
 ---
+
+I've just closed my eyes again
+Climbed aboard the dream weaver train
+Driver, take away my worries of today
+And leave tomorrow behind
+
+Ooh, dream weaver
+I believe you can get me through the night
+Ooh, dream weaver
+I believe we can reach the morning light
+
+Fly me high through the starry skies
+Maybe to an astral plane
+Cross the highways of fantasy
+Help me to forget today's pain
+
+Ooh, dream weaver
+I believe you can get me through the night
+Ooh, dream weaver
+I believe we can reach the morning light
+
+Though the dawn may be coming soon
+There still may be some time
+Fly me away to the bright side of the moon
+And meet me on the other side
+
+Ooh, dream weaver
+I believe you can get me through the night
+Ooh, dream weaver
+I believe we can reach the morning light
+Dream weaver
+Dream weaver
+
+
 

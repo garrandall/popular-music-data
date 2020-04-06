@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someone-you-loved-lewis-capaldi
+lyrics_url: https://www.azlyrics.com/lyrics/conormaynard/someoneyouloved.html
 name: Someone You Loved
 rankings:
 - end_date: '2019-05-31'
@@ -183,4 +184,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+I'm going under, and I fear this time there's no one to save me
+This all or nothing really got a way of driving me crazy
+I need somebody to heal, somebody to know
+Somebody to have, somebody to hold
+It's easy to say, but it's never the same
+I guess I kinda liked the way you numbed all the pain
+
+And now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and you pulled the rug
+I was getting kinda used to being someone you loved
+
+I'm going under, and I fear this time there's no one to turn to
+This all or nothing way of loving got me sleeping without you
+Now, I need somebody to know, somebody to hear
+Somebody to have, just to know how it feels
+It's easy to say, but it's never the same
+I guess I kinda like the way you help me escape
+
+And now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and you pulled the rug
+I was getting kinda used to being someone you loved
+
+And now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and you pulled the rug
+I was getting kinda used to being someone you loved
+
+
 

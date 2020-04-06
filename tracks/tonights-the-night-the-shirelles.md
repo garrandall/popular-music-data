@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonights-the-night-the-shirelles
+lyrics_url: https://www.azlyrics.com/lyrics/shirelles/tonightsthenight.html
 name: Tonights The Night
 rankings:
 - end_date: '1960-09-18'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
 ---
+
+You said you're gonna meet me (tonight's the night)
+Tonight's the night (tonight's the night)
+You said you're gonna kiss me (tonight's the night)
+Tonight's the night (tonight's the night)
+Well, I don't know
+Said I don't know right now
+I might love you so (tonight's the night)
+
+You say you're gonna beg me (tonight's the night)
+Turn the lights down low (tonight's the night)
+You said you're gonna make me (tonight's the night)
+Feel all aglow (tonight's the night)
+Well, I don't know
+Well, I don't know right now
+I might love you so (tonight's the night)
+
+I might love you so much
+You may break my heart
+I may want you so much
+And all my dream's been torn apart
+
+You say you're gonna love me (tonight's the night)
+Tonight's the night (tonight's the night)
+You say you're gonna hold me (tonight's the night)
+Tonight's the night (tonight's the night)
+Well, I don't know
+Said I don't know right now
+I might love you so (tonight's the night)
+
+Let's take a chance (tonight's the night)
+Gonna be a great romance (tonight's the night)
+Feelin' good right now (tonight's the night)
+Gonna be a great romance (tonight's the night)
+Upsettin' my goals (tonight's the night)
+Gonna be a great romance (tonight's the night)
+
+
 

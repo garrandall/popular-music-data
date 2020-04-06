@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: believe-lenny-kravitz
+lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/believeinme.html
 name: Believe
 rankings:
 - end_date: '1993-07-09'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-23'
 ---
+
+Where's the love we had ?
+When did it go bad ?
+Or am I just insecure ?
+I give all I can
+Baby I'm your man
+Tell me what you're in this for
+Remind me 
+
+I can't go on
+I know not what to do
+My heart is worn
+I feel as If I'm through
+Please believe in me
+'Cause what I need is for you
+To believe in me
+
+Countless sleepless nights
+Never ending fights
+I'm trying to make your dreams come true
+I will sacrifice to find paradise
+But I need to know you're behind me 
+
+I can't go on
+I know not what to do
+My heart is worn
+I feel as If I'm through
+Please believe in me
+'Cause what I need is for you
+To believe in me 
+
+I can't go on
+I know not what to do
+My heart is worn
+I feel as If I'm through
+Please believe in me
+'Cause what I need is for you
+To believe in me 
+
+I can't go on
+I know not what to do
+My heart is worn
+I feel as If I'm through
+Please believe in me
+'Cause what I need is for you
+To believe in me
+To believe in me
+To believe in me
+To believe in me
+
+
 

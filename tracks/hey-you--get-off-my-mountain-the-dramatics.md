@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-you--get-off-my-mountain-the-dramatics
+lyrics_url: https://www.azlyrics.com/lyrics/dramatics/heyyougetoffmymountain.html
 name: Hey You! Get Off My Mountain
 rankings:
 - end_date: '1973-05-11'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
 ---
+
+Hey you, get off my mountain
+Hey you, get off my cloud
+Hey you, get off my mountain
+You're just trying to
+Bring me down
+
+And you laugh in my face
+Make me feel like a clown
+Baby, I think I better put you in your place
+
+That kind of action I don't need
+(I don't need that kind of action)
+That kind of heartache I can't use
+(I can't use that kind of heartache)
+That kind of loving I can do without
+So go and play your games with someone new
+
+Hey you (hey you), get off my mountain
+Hey you (you), get off my cloud
+Hey you (hey you), get off my mountain
+You're just trying to (you're just trying to)
+You're just trying to
+Bring me down
+
+That kind of action I don't need
+(I don't need that kind of action)
+And that kind of heartache I can't use
+(I can't use that kind of heartache)
+That kind of loving I can do without
+So go and play your games with someone new
+
+Hey you (hey you), get off my mountain
+Hey you (hey you), get off my cloud (stay off of my cloud)
+Hey you, get off my mountain
+You're just trying to (you're just trying to)
+I said you're just trying to
+Bring me down
+
+You're trying, you're trying
+You're trying, you're trying
+
+
 

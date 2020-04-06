@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lost-in-your-love-john-paul-young
+lyrics_url: https://www.azlyrics.com/lyrics/johnpaulyoung/lostinyourlove.html
 name: Lost In Your Love
 rankings:
 - end_date: '1978-12-15'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+
+I'm lost in your love
+Drowning in you
+I'm North and I'm South
+And I'm way overdue
+I'm under your spell
+And I'm in way over my head
+I'm losing my way
+Lost in your love
+
+I'm lost in your love
+Eyes open wide
+Don't know where I am
+But I'm all for the ride
+I'm head over heels
+I can't tell left from my right
+I'm losing my way
+Lost in your love
+Ooh lost in your love
+
+I see but I don't know I'm seeing
+I speak I don't know what I say
+I hear I don't know what I'm hearing
+I'm lost in a maze
+And I can't find the way
+
+I'm lost in your love
+Drownin' in you...
+
+Ooh lost in your love
+Lost in your love
+Lost in your love
+
+
 

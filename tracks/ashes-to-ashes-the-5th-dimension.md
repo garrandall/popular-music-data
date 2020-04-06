@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ashes-to-ashes-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/ashestoashes.html
 name: Ashes To Ashes
 rankings:
 - end_date: '1973-08-31'
@@ -47,4 +48,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
 ---
+
+They're tearing down the street
+Where I grew up
+Like pouring brandy
+In a Dixie cup
+
+They're paving concrete
+On a part of me
+No trial for killing off
+A memory
+
+Ashes to ashes, dust to dust
+Can you find the Milky Way
+Long Tall Sally and Tin Pan Alley
+Have seen their dying day
+
+Ashes to ashes, dust to dust
+It'll never be the same
+But we're all forgiven
+We're only livin'
+To leave the way we came
+
+No sidewalk playground now
+To meet my friends
+They put a roadblock
+At the rainbow's end
+
+We're driving faster now
+Than Orville flew
+We leave our mark on
+Every single thing we do
+
+Ashes to ashes, dust to dust
+It's the way the West was won
+Amos and Andy and nickel candy
+Have fallen to the gun
+
+Ashes to ashes, dust to dust
+It'll never be the same
+But we're all forgiven
+We're only livin'
+To leave the way we came
+
+Ashes to ashes, dust to dust
+Can you find the Milky Way
+Long Tall Sally and Tin Pan Alley
+Have seen their dying day
+
+Ashes to ashes, dust to dust
+It'll never be the same
+But we're all forgiven
+We're only livin'
+To leave the way we came
+
+Ashes to ashes, dust to dust
+It's the way the West was won
+Amos and Andy and nickel candy
+Have fallen to the gun
+
+Ashes to ashes, dust to dust
+It'll never be the same
+But we're all forgiven
+We're only livin'
+To leave the way we came
+
+Ashes to ashes, dust to dust
+Can you find the Milky Way
+Long Tall Sally and Tin Pan Alley
+Have seen their dying day
+
+Ashes to ashes, dust to dust
+It'll never be the same
+
+
 

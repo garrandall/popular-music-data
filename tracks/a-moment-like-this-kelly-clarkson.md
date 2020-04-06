@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-moment-like-this-kelly-clarkson
+lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/amomentlikethis.html
 name: A Moment Like This
 rankings:
 - end_date: '2002-09-27'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
 ---
+
+
+
+What if I told you
+It was all meant to be
+Would you believe me,
+Would you agree
+It's almost that feelin'
+That we've met before
+So tell me that you don't think I'm crazy
+When I tell you love has come here and now...
+
+A moment like this
+Some people wait a lifetime,
+For a moment like this
+Some people search forever,
+For that one special kiss
+Oh, I can't believe it's happening to me
+Some people wait a lifetime,
+For a moment like this
+
+Everything changes
+But beauty remains
+Something so tender
+I can't explain
+Well I maybe dreamin'
+But 'till I awake
+Can we make this dream last forever
+And I'll cherish all the love we share
+
+For a moment like this
+Some people wait a lifetime,
+For a moment like this
+Some people search forever,
+For that one special kiss
+Oh, I can't believe it's happening to me
+Some people wait a lifetime,
+For a moment like this
+
+Could this be the greatest love of all
+I wanna know that you will catch me when I fall
+So let me tell you this...
+Some people wait a lifetime
+
+For a moment like this
+Some people wait a lifetime,
+For a moment like this
+Some people search forever,
+For that one special kiss
+Oh, I can't believe it's happening to me
+Some people wait a lifetime,
+For a moment like this
+
+Oh, like this oh, I can't believe it's happening to me.
+
+Some people wait a lifetime,
+For a moment like this.
+
+Oh, like this.
+
+
 

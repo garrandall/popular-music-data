@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: warm-and-tender-love-percy-sledge
+lyrics_url: https://www.azlyrics.com/lyrics/percysledge/warmandtenderlove.html
 name: Warm And Tender Love
 rankings:
 - end_date: '1966-07-29'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
 ---
+
+Let me wrap you in my warm and tender love, yeah
+Let me wrap you in my warm and tender love
+Oh, I loved you for a long, long time
+Darling, please say you'll be mine
+And let me wrap you in my warm and tender love
+
+Let me wrap you in my warm and tender love, yeah
+Let me wrap you in my warm and tender love
+You're so lovely, you're oh so fine
+
+Come on and please me with your touch
+And let me wrap you in my warm and tender love
+
+For I loved you for a long, long time
+Darling please say you'll be mine
+And let me wrap you in my warm and tender love
+I said it'll be alright if you just let me
+Let me wrap you in my warm and tender love
+Oh baby, come on and let me
+Let me wrap you in my warm and tender love
+I said it'll be alright if you just let me
+Wrap you in my warm and tender love, yeah
+
+
 

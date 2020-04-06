@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: freedom-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/freedom.html
 name: Freedom
 rankings:
 - end_date: '1985-11-08'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+
+Freedom, freedom let me go
+
+Do you want to know me?
+I would like to know you
+Do you want to talk to me?
+I would like to talk to you
+
+Oh, oh I just wanna love you
+
+If you don't trust me
+I'm never gonna trust you
+If you don't try to understand me
+I'll never understand you
+
+Oh, oh I just wanna love you
+
+I'm talking about freedom
+Do you want to know me?
+I'm talking about freedom
+I would like to know you
+Talking about freedom
+Oh let me go
+
+If you take my eyes
+I'll still be watching you
+And if you take my voice
+I'll still hear me saying
+
+Oh, oh I just wanna love you
+
+I wanna take you there
+Oh baby talking about freedom everywhere
+Freedom for you, freedom for me
+Freedom, freedom
+Let me go, let me go, let me go
+
+I want it now, I want it now, I want freedom
+Love and understanding
+Oh talking about freedom, talk about it
+Just love talking about freedom again
+Freedom, let me go
+Don't let it hold you back
+
+
 

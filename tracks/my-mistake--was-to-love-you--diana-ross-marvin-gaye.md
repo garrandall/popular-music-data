@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-mistake--was-to-love-you--diana-ross-marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/dianaross/mymistakewastoloveyou.html
 name: My Mistake (Was To Love You)
 rankings:
 - end_date: '1974-03-01'
@@ -72,4 +73,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
+
+My mistake was to love you, girl
+Love you, girl
+My mistake was to give you all
+Tell the world
+
+First I had you
+In the palm of my hand
+But I let you slip through
+Like rain to sand
+At the beginning
+When I didn't care
+Like my own reflection
+You were always there
+
+My mistake was to love you, girl
+Love you, girl
+My mistake was to give you all
+Tell the world
+
+You were sweeter
+Then my very own skin
+But what did I do for you
+Not a thing
+In front of my friends
+You broke me down
+Since then darling
+It's hard to track you down
+
+My mistake was to love you, boy
+Love you, boy
+My mistake was to give my all
+Tell the world
+
+Many a smile
+You put on my face
+But I paid dearly
+With the tears I taste
+
+My tenderness
+Made you cold, not sweet
+'Cause if a girl loves you
+You only call her weak
+
+My mistake was to love you, boy
+Love you, boy
+My mistake was to give my all
+Tell the world
+
+My mistake was to love you, girl
+Love you, girl
+My mistake was to give you all
+Tell the world
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pop-that-thang-the-isley-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/popthatthang.html
 name: Pop That Thang
 rankings:
 - end_date: '1972-07-07'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
 ---
+
+Pop that thang
+Bang, bang, bang
+Pop that thang
+Bang, bang, bang
+Ting a ling a ling
+I hook it on up
+Get on down
+Now do your stuff
+Come on
+Pop that thang
+Bang, bang, bang
+Pop that thang
+Bang, bang, bang
+If you can't do it right
+Don't you try it again
+Look at that rooster
+Runnin' after that hen
+Come on
+Pop that thang
+Bang, bang, bang
+Pop that thang
+Bang, bang, bang
+Sister Rosaline
+Ting a ling a ling
+Look at that child
+Popping that thang
+Hitch up to my wagon
+And get ready to roll
+But don't get on board
+If you can't carry the load
+If balloon goes down
+I fill it up with wind
+If the record stops
+Start it over again
+Pop that thang
+Bang, bang, bang
+Pop that thang
+Bang, bang, bang
+Ting a ling a ling
+Hook it on up
+Get on down
+And do your own stuff
+Pop that thang
+Bang, bang, bang
+Pop that thang
+Bang, bang, bang
+If you can't do it right
+Don't you try it again
+Look at that rooster
+Running after that hen
+Come on and pop it
+Pop it, pop it, pop it
+Come on and pop it
+Pop it, pop it, pop it
+Come on and pop it
+
+
 

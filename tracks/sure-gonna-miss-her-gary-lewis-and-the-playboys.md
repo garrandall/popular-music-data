@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sure-gonna-miss-her-gary-lewis-and-the-playboys
+lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/suregonnamissher.html
 name: Sure Gonna Miss Her
 rankings:
 - end_date: '1966-03-11'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+
+I never did too much to make her stay here
+And words of love to her I'd never say
+I guess I learned a lesson when she walked out to stay
+But I'm sure gonna miss her, sure gonna miss her, sure gonna miss her every day
+
+I don't suppose I ever said "I love you"
+And I found out too late that wasn't right
+I'm just now realizin' what I lost, that's why I'm cryin'
+And I'm sure gonna miss her, sure gonna miss her, sure gonna miss her every night
+
+I know I took her love for granted
+Guess you could say my love was blind
+Thought if she left that I could stand it
+Or else it didn't matter at the time
+
+I heard she's found a guy that treats her better
+I hope he knows that he's a lucky guy
+I know the rumor's true because I saw her today
+And I'm sure gonna miss her, he was walking with her, sure gonna miss her, yes I am
+
+
 

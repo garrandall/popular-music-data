@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: having-a-party-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/havingaparty.html
 name: Having A Party
 rankings:
 - end_date: '1994-01-07'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
 ---
+
+Yeah, clap your hands
+
+We're having a party,
+dancing to the music
+played by the D.J.
+on the radio
+The Cokes are in the icebox,
+popcorn's on the table
+Me and my baby, yeah,
+we're out here on the floor, oh yeah
+
+So, Mister, Mr. D.J.
+keep those records playing
+coz I'm having
+such a good time,
+dancing with my baby
+
+Everybody's swinging,
+Sally's doing that twist now
+If you playrequests now,
+I've got a few for you
+Play that one called "Soul Twist".
+Play that one called "I Know"
+Don't forget them "Mashed Potatoe"
+no other songs will do
+
+So, Mister, Mr. D.J.
+keep those records playing
+coz I'm having
+such a good time,
+dancing with my baby
+
+Having a party
+
+So, Mister, Mr. D.J.
+keep those records playing
+coz I'm having
+such a good time,
+dancing with my baby
+
+Having a party
+Everybody's swinging
+dancing to the music
+on the radio
+Yeah
+We're having a party
+Everybody's swinging
+dancing to the music
+yeah
+on the radio
+
+bring it way down now
+We're having a party
+Everybody's swinging
+dancing to the music
+on the radio
+We're having a party
+Everybody's swinging
+dancing to the music
+where is it
+on the radio
+just two more times
+We're having a party
+Everybody's swinging
+dancing to the music
+on the radio
+We're having a party
+Everybody's swinging
+dancing to the music
+on the radio
+Yeah, yeah, oh oh
+
+
 

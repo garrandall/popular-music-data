@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: because-of-you-reba-mcentire-kelly-clarkson
+lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/becauseofyou.html
 name: Because Of You
 rankings:
 - end_date: '2007-07-20'
@@ -68,4 +69,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
 ---
+
+
+I will not make the same mistakes that you did
+I will not let myself
+Cause my heart so much misery
+I will not break the way you did,
+You fell so hard
+I've learned the hard way
+To never let it get that far
+
+
+Because of you
+I never stray too far from the sidewalk
+Because of you
+I learned to play on the safe side so I don't get hurt
+
+Because of you
+I find it hard to trust not only me, but everyone around me
+
+Because of you
+I am afraid
+
+
+I loose my way
+And it's not too long (before you point it out) 
+I cannot cry
+Because I know that's weakness (in your eyes) 
+I'm forced to fake
+A smile, a laugh everyday of my life
+My heart can't possibly break
+When it wasn't even whole to start with
+
+
+Because of you
+I never stray too far from the sidewalk
+Because of you
+I learned to play on the safe side so I don't get hurt
+
+Because of you
+I find it hard to trust not only me, but everyone around me
+
+Because of you
+I am afraid
+
+
+I watched you die
+I heard you cry every night in your sleep
+(I watched you die...) 
+I was so young
+You should have known better than to lean on me
+(I was too young for you to lean on me...) 
+You never thought of anyone else
+You just saw your pain
+(You never saw me...) 
+And now I cry in the middle of the night
+For the same damn thing
+
+
+Because of you
+I never stray too far from the sidewalk
+Because of you
+I learned to play on the safe side so I don't get hurt
+Because of you
+I find it hard to trust not only me but everyone around me
+Because of you 
+I am afraid
+
+
+Because of you...
+
+Mmmmmm... Oooooh...
+
+Because of you...
+
+Mmmmmm... Oooooh...
+
+
 

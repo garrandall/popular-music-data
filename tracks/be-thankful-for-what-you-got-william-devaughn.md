@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-thankful-for-what-you-got-william-devaughn
+lyrics_url: https://www.azlyrics.com/lyrics/rumer/bethankfulforwhatyougot.html
 name: Be Thankful For What You Got
 rankings:
 - end_date: '1974-05-10'
@@ -79,4 +80,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
 ---
+
+Though you may not drive a great big Cadillac
+Gangsta whitewalls
+TV antennas in the back
+You may not have a car at all
+But remember brothers and sisters
+You can still stand tall
+
+Just be thankful for what you've got
+You may not have a great big Cadillac
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean
+Gangsta whitewalls
+TV antennas in the back
+
+You may not have a car at all
+But remember brothers and sisters
+You can still stand tall
+Just be thankful for what you've got
+
+Diamond in the back, sunroof top
+Diggin the scene
+With a gangsta lean, wooh-ooh-ooh
+Diamond in the back, sunroof top
+Diggin the scene
+With a gangsta lean, wooh-ooh-ooh
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean, wooh-ooh-ooh
+
+Though you may not drive a great big Cadillac
+Gangsta whitewalls
+TV antennas in the back
+You may not have a car at all
+But remember brothers and sisters
+You can still stand tall
+
+Just be thankful for what you've got
+You may not have a great big Cadillac
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean
+Gangsta whitewalls
+TV antennas in the back
+
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean, wooh-ooh-ooh
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean, wooh-ooh-ooh
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean, wooh-ooh-ooh
+Diamond in the back, sunroof top
+Diggin' the scene
+With a gangsta lean, wooh-ooh-ooh...
+
+
 

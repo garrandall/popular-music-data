@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wide-awake-katy-perry
+lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/wideawake.html
 name: Wide Awake
 rankings:
 - end_date: '2012-06-15'
@@ -111,4 +112,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
 ---
+
+I'm wide awake
+I'm wide awake
+
+I'm wide awake
+Yeah, I was in the dark
+I was falling hard
+With an open heart
+I'm wide awake
+How did I read the stars so wrong
+
+I'm wide awake
+And now it's clear to me
+That everything you see
+Ain't always what it seems
+I'm wide awake
+Yeah, I was dreaming for so long
+
+I wish I knew then
+What I know now
+Wouldn't dive in
+Wouldn't bow down
+Gravity hurts
+You made it so sweet
+Till I woke up on
+On the concrete
+
+Falling from cloud 9
+Crashing from the high
+I'm letting go tonight
+(Yeah I'm) Falling from cloud 9
+
+I'm wide awake
+Not losing any sleep
+I picked up every piece
+And landed on my feet
+I'm wide awake
+Need nothing to complete myself - nooohooo
+
+I'm wide awake
+Yeah, I am born again
+Outta the lion's den
+I don't have to pretend
+And it's too late
+The story's over now, the end
+
+I wish I knew then
+What I know now
+Wouldn't dive in
+Wouldn't bow down
+Gravity hurts
+You made it so sweet
+Till I woke up on
+On the concrete
+
+Falling from cloud 9
+Crashing from the high
+I'm letting go tonight (yeah, I'm letting go)
+I'm Falling from cloud 9
+
+Thunder rumbling
+Castles crumbling
+I am trying to hold on
+God knows that I tried
+Seeing the bright side
+But I'm not blind anymore...
+I'm wide awake
+I'm wide awake
+
+Yeah, I'm Falling from cloud 9
+Crashing from the high
+You know I'm letting go tonight
+I'm Falling from cloud 9
+
+I'm wide awake
+I'm wide awake
+I'm wide awake
+I'm wide awake
+I'm wide awake
+
+
 

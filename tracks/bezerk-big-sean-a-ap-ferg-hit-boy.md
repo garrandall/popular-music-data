@@ -6,6 +6,7 @@ features:
 - Hit-Boy
 genres: []
 key: bezerk-big-sean-a-ap-ferg-hit-boy
+lyrics_url: https://www.azlyrics.com/lyrics/bigsean/bezerk.html
 name: Bezerk
 rankings:
 - end_date: '2019-09-20'
@@ -13,4 +14,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
 ---
+
+
+Yeah, yeah (Hit-Boy)
+{Woah}, yeah, yeah
+Sean, what up nigga? (Sean, what up nigga?)
+Yeah (Yeah) Yeah, yeah
+{Lil bitch}
+
+Couple riders with them llamas if you pick a bone wit' me
+Put my bitch up on designer, got Balenci' on her feet
+My momma say a couple prayers, keep them demons off me
+{Cause I know my head blessed, got so many reasons on me
+Yeah niggas done tried and niggas done died, too many believers around me
+Yeah I know my enemies meeting up, double teaming on me}
+Now you know nobody tried that ever got pieces off me
+Fucking these hoes 'til they be dying, don't catch a seizure on me
+See, Ferg used to move the product in the whole school (Yeah)
+{Thumbing through paper from last year but it's not old news} (Right)
+My psycho bitch, she got me shopping up at Whole Foods
+{Fucking these cougars like a young nigga s'posed to}
+I got your bitch up on the mattress while I'm fly no T (Woo!)
+I'm sick and tired of all the yapping, little nigga I'm your OG (Woo!)
+My diamonds shining like the ball that drop on New Year's Eve (Come on!)
+{And she countdown to the D, she be like "5-4-3"}
+
+Now drop down, you a freak (Milly rock)
+Bend it over, touch your feet (Yeah!)
+Shake that booty, I know it's little but unique {So unique}
+Back that thing up on my nigga from the D {Oh, that's me?}
+
+
+Okay, back out the hearse, they trapped out the church {Woo!}
+Niggas say my name, okay they asked for the worst {Come on!}
+Me and A$AP Ferg preaching back to back on the verse {Damn!}
+Hit-Boy on the beat so, bitch, you gotta go berserk {That's right!}
+Kill 'em all one-by-one, "Final Destination"
+Fuck that medication, I'm sipping cold flu Echinacea {Come on!}
+You done fucked up, I stayed up, sleep deprivation {Woo!}
+They on the search nigga {Uh!} Know your worth nigga {Yeah!}
+Tell the DJ bring it back, reimburse niggas {Damn}
+Hum-du-allah, my finance advisors been through hell
+Oh well, pshh, we on fire {Woo, woo!}
+Brung her back home more times than McGuire, higher {Grr}
+Trap Lord packed out the risers
+{Big getting his bread, your pocket on carb diets
+I just start up a riot at all the Hyatts}
+And make them hoes leave right before they cook the omelettes {Woo, woo!}
+
+
+Drop down {Woah} You a freak {Woah}
+Bend it over (Yeah) Touch your feet {Touch your feet}
+Shake that booty, I know it's little but unique {So unique}
+Back that thing up on my nigga from the D {Oh, that's me?}
+On God!
+{Now, drop down (Down), you a freak (Hoo!)}
+{Bend it over, woah (Come on!), touch your feet (Touch your feet)
+Shake that booty, I know it's little but unique (So unique)}
+{Then throw it back on my nigga from NYC} (Oh, that's me?)
+
+
+Yeah (Yeah), yeah (Yeah)
+Me and A$AP Ferg preaching back to back on the verse
+Hit-Boy on the beat so, bitch, you gotta go berserk {That's right!}
+
+
 

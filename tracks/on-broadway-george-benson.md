@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-broadway-george-benson
+lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/onbroadway.html
 name: On Broadway
 rankings:
 - end_date: '1978-03-17'
@@ -79,4 +80,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
 ---
+
+They say the neon lights are bright on broadway
+They say there's always magic in the air
+But when you're walkin' down that street
+And you ain't had enough to eat
+The glitter rubs right off and you're nowhere
+
+They say the women treat you fine on Broadway
+But looking at them just gives me the blues
+'Cause how ya gonna make some time
+When all you got is one thin dime
+And one thin dime won't even shine your shoes
+
+They say that I won't last too long on Broadway
+I'll catch a Greyhound bus for home, they all say
+But they're dead wrong, I know they are
+'Cause I can play this here guitar
+And I won't quit till I'm a star on Broadway
+
+I won't quit till I'm a star on Broadway
+
+
 

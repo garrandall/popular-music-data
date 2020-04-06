@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jesus-to-a-child-george-michael
+lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/jesustoachild.html
 name: Jesus To A Child
 rankings:
 - end_date: '1996-03-01'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-25'
 ---
+
+Kindness in your eyes
+I guess you heard me cry
+You smiled at me
+Like Jesus to a child
+I'm blessed I know
+Heaven sent and Heaven stole
+You smiled at me like
+Jesus to a child
+And what have I learned
+From all this pain
+I thought I'd never feel the same
+About anyone or anything again
+But now I know
+
+When you find a love
+When you know that it exists
+Then the lover that you miss
+Will come to you on those cold, cold nights
+When you've been loved
+When you know it holds such bliss
+Then the lover that you kissed
+Will comfort you when there's no hope in sight
+
+Sadness in my eyes
+No one guessed, well no one tried
+You smiled at me
+Like Jesus to a child
+Loveless and cold
+With your last breath you saved my soul
+You smiled at me
+Like Jesus to a child
+And what have I learned
+From all these tears
+I've waited for you all those years
+Then just when it began
+He took your love away
+But I still say
+
+When you find a love
+When you know that it exists
+Then the lover that you miss
+Will come to you on those cold, cold nights
+When you've been loved
+When you know it holds such bliss
+Then the lover that you kissed
+Will comfort you when there's no hope in sight
+
+So the words you could not say
+I'll sing them for you
+And the love we would have made
+I'll make it for two
+For every single memory
+Has become a part of me
+
+You will always be... my love
+
+Well I've been loved
+So I know just what love is
+And the lover that I kissed is always by my side
+Oh the lover I still miss... was Jesus to a child
+
+
 

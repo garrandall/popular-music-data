@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: atomic-blondie
+lyrics_url: https://www.azlyrics.com/lyrics/blondie/atomic.html
 name: Atomic
 rankings:
 - end_date: '1980-05-23'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
 ---
+
+Uh-huh make me tonight
+Tonight
+Make it right
+Uh-huh make me tonight
+Tonight
+Tonight
+
+Oh, uh-huh make it magnificent
+Tonight
+Right
+
+Ah, oh your hair is beautiful
+Ah, tonight
+Atomic
+
+Tonight make it magnificent
+Tonight
+Make me tonight
+
+Your hair is beautiful
+Oh, tonight
+Atomic
+Oh Atomic
+Oh
+
+Oh Atomic
+Oh Atomic
+Oh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fall-for-you-secondhand-serenade
+lyrics_url: https://www.azlyrics.com/lyrics/secondhandserenade/fallforyou.html
 name: Fall For You
 rankings:
 - end_date: '2008-07-04'
@@ -127,4 +128,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
 ---
+
+The best thing about tonight's that we're not fighting
+Could it be that we have been this way before
+I know you don't think that I am trying
+I know you're wearing thin down to the core
+
+But hold your breath
+Because tonight will be the night that I will fall for you
+Over again
+Don't make me change my mind
+I won't live to see another day
+I swear it's true
+Because a girl like you is impossible to find
+You're impossible to find
+
+This is not what I intended
+I always swore to you I'd never fall apart
+You always thought that I was stronger
+I may have failed
+But I have loved you from the start
+Oh
+
+But hold your breath
+Because tonight will be the night that I will fall for you
+Over again
+Don't make me change my mind
+I won't live to see another day
+I swear it's true
+Because a girl like you is impossible to find
+It's impossible
+
+So breathe in so deep
+Breathe me in
+I'm yours to keep
+And hold onto your words
+'Cause talk is cheap
+And remember me tonight
+When you're asleep
+
+Because tonight will be the night that I will fall for you
+Over again
+Don't make me change my mind
+I won't live to see another day
+I swear it's true
+Because a girl like you is impossible to find
+Tonight will be the night that I will fall for you
+Over again
+Don't make me change my mind
+I won't live to see another day
+I swear it's true
+Because a girl like you is impossible to find
+You're impossible to find
+
+
 

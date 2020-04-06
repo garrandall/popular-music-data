@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: levitate-hadouken-
+lyrics_url: https://www.azlyrics.com/lyrics/hadouken/levitate.html
 name: Levitate
 rankings:
 - end_date: '2013-03-22'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
 ---
+
+Heart in my mouth, but my head in the clouds yeah
+I can feel it rising
+Bound to the Earth but, we could ascend yeah
+Iâm realizing
+
+I feel both feet lift off the ground
+I can levitate
+With every jolt that leaves I close my eyes
+And levitate
+
+I just know
+Yeah, yeah, yeah
+Yeah, yeah, yeah
+The air is electric, it heightens the senses
+I can feel it charging
+Iâll never forget it, weâre transcending
+And I know weâve started
+
+I feel both feet lift off the ground
+I can levitate
+With every jolt that leaves I close my eyes
+And levitate
+I levitate
+
+Heart in my mouth, but my head in the clouds yeah
+I can feel it rising
+Bound to the Earth but, we could ascend yeah
+Iâm realizing
+
+I feel both feet lift off the ground
+I can levitate
+With every jolt that leaves I close my eyes
+And levitate
+
+I just know
+Yeah, yeah, yeah
+Yeah, yeah, yeah
+I can levitate
+I can levitate
+
+I feel both feet lift off the ground
+I can levitate
+With every jolt that leaves I close my eyes
+And levitate
+I levitate
+
+
 

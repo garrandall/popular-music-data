@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-let-her-go-david-gates
+lyrics_url: https://www.azlyrics.com/lyrics/davidgates/neverlethergo.html
 name: Never Let Her Go
 rankings:
 - end_date: '1975-01-24'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
 ---
+
+Everybody needs a someone
+waitin' to be there when things are a-lookin' down
+So if you feel a little lonely
+Go out, find your one and only
+Somewhere out there
+Someone will care for you and then, 
+never let her go
+never let her go
+
+You may wonder how you know love
+when the moment comes that you've been a-dreamin' of
+Well true love takes a little longer
+Your heart beats a little stronger
+You'll know it's real
+inside you'll feel you're home at last 
+Then, never let her go
+Never let her go
+
+So if you feel a little lonely
+go out, find your one and only
+Open your heart
+Give love a start and watch it grow
+And never let her go
+Never let her go
+Never let her go
+Never let her go
+
+
 

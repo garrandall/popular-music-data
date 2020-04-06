@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time--clock-of-the-heart--culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/timeclockoftheheart.html
 name: Time (Clock Of The Heart)
 rankings:
 - end_date: '1983-04-22'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
 ---
+
+Don't put your head on my shoulder
+Sink me in a river of tears
+This could be the best place yet
+But you must overcome your fears
+In time we could've been so much more
+But time is precious I know
+In time we could've been so much more
+The time has nothing to show
+because
+Time won't give me time
+And time makes lovers feel
+Like they've got something real
+But you and me we know
+We got nothing
+but time
+And time won't give me time
+Won't give me time
+Don't make me feel any colder
+Time is like a clock in my heart
+Touch we touch was the heat too much
+I felt I lost you from the start
+In time we could've been so much more
+But time is precious I know
+In time we could've been so much more
+The time has nothing to show because
+Time won't give me time
+And time makes lovers feel
+Like they've got something real
+But you and me we know
+We've got nothing but time
+And time won't give me time
+Won't give me time
+
+
 

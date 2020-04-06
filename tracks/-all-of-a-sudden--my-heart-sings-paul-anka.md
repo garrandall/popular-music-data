@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -all-of-a-sudden--my-heart-sings-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/allofasuddenmyheartsings.html
 name: (All of a Sudden) My Heart Sings
 rankings:
 - end_date: '1958-12-28'
@@ -75,4 +76,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+
+The secret way you hold my hand
+to let me know you understand
+the wind and rain upon your face
+the breathless world of your embrace
+your little laugh and handsome cries
+the star light gleaming in your eyes
+remembering all those little things
+all of a sudden my heart sings
+
+All of a sudden my heart sings
+when I remember little things
+the way you dance and hold me tight
+the way you kiss and say good night
+the crazy things we say and do
+the fun it is to be with you
+the magic thrill that's in your touch
+oh darling I love you so much
+
+The secret way you hold my hand
+to let me know you understand
+the wind and rain upon your face
+the breathless world of your embrace
+your little laugh and handsome cries
+the star light gleaming in your eyes
+remembering all those things
+all of a sudden my heart sings
+
+
 

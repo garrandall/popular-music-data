@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ray-of-light-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/rayoflight.html
 name: Ray Of Light
 rankings:
 - end_date: '1998-07-17'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-21'
 ---
+
+
+Zephyr in the sky at night I wonder
+Do my tears of mourning sink beneath the sun
+She's got herself a universe gone quickly
+For the call of thunder threatens everyone
+
+
+
+And I feel like I just got home
+And I feel
+And I feel like I just got home
+And I feel
+
+Faster than the speeding light she's flying
+Trying to remember where it all began
+She's got herself a little piece of heaven
+Waiting for the time when Earth shall be as one
+
+
+
+Quicker than a ray of light
+Quicker than a ray of light
+Quicker than a ray of light
+
+
+
+And I feel
+Quicker than a ray of light
+Then gone for
+Someone else shall be there
+Through the endless years
+
+She's got herself a universe
+She's got herself a universe
+She's got herself a universe
+
+And I feel
+And I feel
+And I feel like I just got home
+And I feel
+
+Quicker than a ray of light she's flying
+Quicker than a ray of light I'm flying
+
+
 

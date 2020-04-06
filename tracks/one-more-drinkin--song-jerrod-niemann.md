@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-drinkin--song-jerrod-niemann
+lyrics_url: https://www.azlyrics.com/lyrics/jerrodniemann/onemoredrinkinsong.html
 name: One More Drinkin' Song
 rankings:
 - end_date: '2011-08-19'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
 ---
+
+Yea
+Today I wanted to write a tune started strummin' this little grove,
+I could've wrote about love or money something sad or something funny,
+
+But hey, hey, hey whats so wrong with one more drinkin' song,
+Hold up your cups and sing along to one more drinkin' song
+
+And if by chance this brings you cheer maybe someday you'll bring me a beer
+or not to mention my favorite drink a marga-daiquiri-screw-aloda-on the beach
+
+Hey, hey, hey whats so wrong with one more drinkin' song
+Hold up your cups and sing along to one more drinkin' song
+
+So here's to cheap whiskey and fine wine buyin' shots and pick up lines
+And here's to bartenders tryin' to get paid when all of us are tryin' to get
+
+Hey, hey, hey whats so wrong with one more drinkin' song
+Hold up your cups and sing along to one more drinkin' song
+Hey, hey, hey whats so wrong with one more drinkin' song
+Hold up your cups and sing along to one more drinkin' song
+Hey, hey, hey whats so wrong with one more drinkin' song
+Hold up your cups and sing along to one more drinkin' song
+
+
 

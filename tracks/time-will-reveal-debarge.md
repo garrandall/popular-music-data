@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-will-reveal-debarge
+lyrics_url: https://www.azlyrics.com/lyrics/debarge/timewillreveal.html
 name: Time Will Reveal
 rankings:
 - end_date: '1983-10-21'
@@ -91,4 +92,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
 ---
+
+What can I do
+To make you feel secure
+Remove all your doubts
+So that you'll know for sure
+
+That you're the apple of my eye, girl
+Fulfillment of my dream
+Time will show the value
+Of just what you mean to me
+
+More precious than silver
+More precious than diamond rings
+Or anything that I could give you
+
+It wouldn't mean a thing
+If you didn't have my love
+Beside you there to guide you through
+Well, ain't it good to know you do
+
+I know just how you feel
+But this time love's for real
+In time, it will reveal
+The special love that's deep inside of us
+Will all reveal in time, oh
+
+I tell you I love you
+But you won't believe it's true
+More precious than silver
+More precious than diamond rings
+
+Or anything that I could give you
+It wouldn't mean a thing
+If you didn't have my love
+Beside you there to guide you through
+Well, ain't it good to know you do
+
+I know just how you feel
+But this time love's for real
+In time, it will reveal
+The special love that's deep inside of us
+Will all reveal in time, oh
+
+I know just how you feel
+But this time love's for real
+In time, it will reveal
+The special love that's deep inside of us
+Will all reveal in time, oh
+
+Hey, baby, yeah, baby
+
+Or anything that I could give you
+It wouldn't mean a thing
+If you didn't have my love
+Beside you there to guide you through
+But ain't it good to know you do
+
+I know just how you feel
+But this time love's for real
+In time, it will reveal
+The special love that's deep inside of us
+Will all reveal in time, oh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady--hear-me-tonight--modjo
+lyrics_url: https://www.azlyrics.com/lyrics/modjo/ladyhearmetonight.html
 name: Lady (Hear Me Tonight)
 rankings:
 - end_date: '2001-01-12'
@@ -83,4 +84,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
 ---
+
+Lady
+Hear me tonight
+'Cos my feeling
+Is just so right
+As we dance
+By the moonlight
+Can't you see
+You're my delight
+
+Lady
+I just feel like
+I won't get you
+Out of my mind
+I feel loved
+For the first time
+And I know that it's true
+I can tell by the look in your eyes
+
+Lady
+Hear me tonight
+'Cos my feeling
+Is just so right
+As we dance
+By the moonlight
+Can't you see
+You're my delight
+
+Lady
+I just feel like
+I won't get you
+Out of my mind
+I feel loved
+For the first time
+And I know that it's true
+I can tell by the look in your eyes
+
+Lady
+Hear me tonight
+'Cos my feeling
+Is just so right
+As we dance
+By the moonlight
+Can't you see
+You're my delight
+
+Lady
+I just feel like
+I won't get you
+Out of my mind
+I feel loved
+For the first time
+And I know that it's true
+I can tell by the look in your eyes
+
+Lady
+Hear me tonight
+'Cos my feeling
+Is just so right
+
+Lady
+I just feel like
+I feel loved
+For the first time
+
+Lady
+Hear me tonight
+Can't you see
+You're my delight
+
+
 

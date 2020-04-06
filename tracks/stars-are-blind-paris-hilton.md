@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stars-are-blind-paris-hilton
+lyrics_url: https://www.azlyrics.com/lyrics/parishilton/starsareblind.html
 name: Stars Are Blind
 rankings:
 - end_date: '2006-07-14'
@@ -55,4 +56,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
 ---
+
+I don't mind spending some time
+Just hanging here with you
+'Cause I don't find too many guys
+That treat me like you do.
+Those other guys all wanna take me for a ride
+But when I walk they talk of suicide
+Some people never get beyond their stupid pride
+But you can see the real me inside
+And I'm satisfied, oh no, ohh
+
+Even though the gods are crazy
+Even though the stars are blind
+If you show me real love baby
+I'll show you mine
+I can make it nice and naughty
+Be the devil and angel too
+Got a heart and soul and body
+Let's see what this love can do
+Maybe I'm perfect for you
+
+Ohh, ohh, ohh
+
+I could be your confidante
+Just one of your girlfriends
+But I know that's not what you want
+If tomorrow the world ends
+Why shouldn't we be with the one we really love?
+Now tell me who have you been dreaming of?
+I and I alone, oh, no
+
+Even though the gods are crazy
+Even though the stars are blind
+If you show me real love baby
+I'll show you mine
+I can make it nice and naughty
+Be the devil and angel too
+Got a heart and soul and body
+Let's see what this love can do
+Baby I'm perfect for you
+
+Excuse me for feeling
+This moment is critical
+Might be we feel it
+It could get physical, oh no, no, no
+
+Even though the gods are crazy
+Even though the stars are blind
+If you show me real love baby
+I'll show you mine
+I can make it nice and naughty
+Be the devil and angel too
+Got a heart and soul and body
+Let's see what this love can do
+Oh
+Let's see what love can do (Oh)
+Maybe I'm perfect for you
+
+Maybe I'm perfect for you (Oh)
+You (Oh)
+Maybe I'm perfect for you
+
+Even though the gods are crazy (Oh)
+
+Even though the stars are blind (Oh)
+
+Even though the gods are crazy (Oh)
+
+Even though the stars are blind (Oh)
+
+
 

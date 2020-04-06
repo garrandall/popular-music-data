@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-why--i-love-you-so--jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/thatswhyiloveyouso.html
 name: That's Why (I Love You So)
 rankings:
 - end_date: '1959-03-29'
@@ -59,4 +60,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
 ---
+
+The way you make me feel like I belong
+The way you make me right when I am wrong
+The way you sacrifice just for me
+Just how lucky can a poor man be?
+
+That is why
+(that's why I love you so)
+That is why...
+(that's why I love you so)
+Don't you know, baby...
+(that's why I love you so)
+Yeah, yeah, yeah, I want the world to know!
+
+The way you rub my back when I'm in pain
+The way you soothe me so I won't complain
+And when you kiss me with your ruby-red lips
+It thrills me so, I turn a back-over flip
+
+That is why...
+(that's why I love you so)
+Don't you know, baby...
+(that's why I love you so)
+That is why...
+(that's why I love you so)
+Yeah, yeah, yeah, I want the world to know!
+
+If Shakespeare thought that Juliet
+Really loved Romeo from the time they met
+He would blow his top if he could see
+Just how you've been lovin' me
+
+The way you rub my back when I'm in pain
+The way you soothe me so I won't complain
+And when you kiss me with your ruby-red lips
+It thrills me so, I turn a back-over flip
+
+That is why...
+(that's why I love you so)
+That is why...
+(that's why I love you so)
+C'mon now, baby...
+(that's why I love you so)
+Yeah, yeah, yeah, I want to... take it easy, baby!
+
+(that's why I love you so)
+Take it easy, honey...
+(that's why I love you so)
+Don't you know now...
+(that's why I love you so)
+Yeah, yeah, yeah, I want the... one more time, now!
+
+(that's why I love you so)
+C'mon, c'mon, baby...
+(that's why I love you so)
+
+
 

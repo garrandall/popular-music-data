@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: at-the-beginning-richard-marx-donna-lewis
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/atthebeginning.html
 name: At The Beginning
 rankings:
 - end_date: '1997-11-14'
@@ -88,4 +89,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
 ---
+
+We were strangers, starting out on a journey
+Never dreaming, what we'd have to go through
+Now here we are, I'm suddenly standing
+At the beginning with you
+
+No one told me I was going to find you
+Unexpected, what you did to my heart
+When I lost hope, you were there to remind me
+This is the start
+
+And life is a road that I wanna keep going
+Love is a river, I wanna keep flowing
+Life is a road, now and forever, wonderful journey
+I'll be there when the world stops turning
+I'll be there when the storm is through
+In the end I wanna be standing
+At the beginning with you
+
+We were strangers, on a crazy adventure
+Never dreaming, how our dreams would come true
+Now here we stand, unafraid of the future
+At the beginning with you
+
+And life is a road that I wanna keep going
+Love is a river, I wanna keep flowing
+Life is a road, now and forever, wonderful journey
+I'll be there when the world stops turning
+I'll be there when the storm is through
+In the end I wanna be standing
+At the beginning with you
+
+Knew there was somebody, somewhere
+Like me alone in the dark
+Now I know my dream will live on
+I've been waiting so long
+Nothing's gonna tear us apart
+
+And life is a road that I wanna keep going
+Love is a river, I wanna keep flowing
+Life is a road, now and forever, wonderful journey
+I'll be there when the world stops turning
+I'll be there when the storm is through
+In the end I wanna be standing
+At the beginning with you
+
+Yeah
+
+Life is a road that I wanna keep going
+Love is a river, I wanna keep going on
+Starting out on a journey
+
+Life is a road that I wanna keep going
+Love is a river, I wanna keep flowing
+In the end I want to be standing
+At the beginning with you...
+
+
 

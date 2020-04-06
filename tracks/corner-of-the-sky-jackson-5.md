@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: corner-of-the-sky-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/cornerofthesky.html
 name: Corner Of The Sky
 rankings:
 - end_date: '1972-11-03'
@@ -55,4 +56,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
 ---
+
+Everything has its season
+Everything has its time
+Show me a reason
+And I'll soon show you a rhyme
+Cats sit on the window sill
+Children sit in the show
+Why do I feel
+I don't fit in anywhere I go
+
+Rivers belong where they can ramble
+Eagles belong where they can fly
+I've got to be where my spirit can run free
+Gotta find my corner of the sky
+
+Every man has his daydreams
+Every man has his goal
+People like the way dreams have of sticking to the soul
+Thunder comes after lightning
+Nightingales have their song
+And don't you see I want my life
+To be something more than none
+
+Rivers belong where they can ramble
+Eagles belong where they can fly
+I've got to be where my spirit can run free
+Gotta find my corner of the sky
+Of the sky
+
+So many men seem desperate
+'Cause they got something small
+But I, I won't rest
+Until I know I have it all
+So don't ask where I'm goin'
+But listen when I'm gone
+Always you'll hear me singin'
+Softly to the dawn
+
+Rivers belong where they can ramble
+Eagles belong where they can fly
+I've got to be where my spirit can run free
+Gotta find my corner of the sky
+Rivers belong where they can ramble
+Eagles belong where they can fly
+(Fly, oh)
+I've got to be where my spirit can run free
+(Gotta find)
+Gotta find my corner
+(Gotta find)
+Gotta find my corner, yes, I do
+(Gotta find)
+Gotta find my corner
+(Gotta find)
+Gotta find my corner of the sky
+
+
 

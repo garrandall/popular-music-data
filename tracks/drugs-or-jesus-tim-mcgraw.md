@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drugs-or-jesus-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/drugsorjesus.html
 name: Drugs Or Jesus
 rankings:
 - end_date: '2005-04-01'
@@ -43,4 +44,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
 ---
+
+In my home town
+For anyone who sticks around
+You're either lost or you're found
+There's not much in between
+In my home town
+Everything's still black and white
+It's a long, long way from wrong to right
+From Sunday morning to Saturday night
+
+Everybody just wants to get high
+Sit and watch a perfect world go by
+We're all looking for love and meaning in our lives
+We follow the roads that lead us
+To drugs or Jesus
+
+My whole life
+I've tried to run, I've tried to hide
+From the stained glass windows in my mind
+Refusing to let God's light shine
+Down on me
+Down on me
+
+Everybody just wants to get high
+Sit and watch a perfect world go by
+We're all looking for love and meaning in our lives
+There's not much space between us
+Drugs or Jesus
+
+Everybody wants acceptance
+We all just want some proof
+Everyone's just looking for the truth
+
+Everybody just wants to get high
+Sit and watch a perfect world go by
+We're all looking for love and meaning in our lives
+We follow the roads that lead us
+To drugs or Jesus
+
+
 

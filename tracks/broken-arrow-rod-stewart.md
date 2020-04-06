@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-arrow-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/brokenarrow.html
 name: Broken Arrow
 rankings:
 - end_date: '1991-10-25'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
 ---
+
+Who else is gonna bring you a broken arrow
+Who else is gonna bring you a bottle of rain
+There he goes moving across the water
+There he goes turning my whole world around
+
+Do you feel what I feel
+Can we make it so that's part of the deal
+I gotta hold you in these arms of steel
+Lay your heart on the line this time
+
+I wanna breathe when you breathe
+When you whisper like that hot summer breeze
+Count the beads of sweat that cover me
+Didn't you show me a sign this time
+
+Who else is gonna bring you a broken arrow
+Who else is gonna bring you a bottle of rain
+There he goes moving across the water
+There he goes turning my whole world around, around
+
+Do you feel what I feel
+Do you feel what I feel
+Ah can you see what I see
+Can you cut behind the mystery
+I will meet you by the witness tree
+Leave the whole world behind
+
+I want to come when you call
+I'll get to you if I have to crawl
+They can't hold me with these iron walls
+We got mountains to climb, to climb
+
+Who else is gonna bring you a broken arrow
+Who else is gonna bring you a bottle of rain
+There he goes moving across the water
+There he goes turning  my whole world around
+turning my whole world around
+turning my whole world around
+turning my whole world around
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-man-greg-kihn-band
+lyrics_url: https://www.azlyrics.com/lyrics/gregkihnband/happyman.html
 name: Happy Man
 rankings:
 - end_date: '1982-05-28'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
 ---
+
+I do not ask for much
+Something real that I can touch
+Someone there late at night
+Someone there to hold me tight
+
+You know I understand
+Just what it takes
+To be a happy man
+
+I'm gonna be a happy man
+Just you and me while we still can
+There's nothing that we can't do
+Me and you, a happy man
+
+Some people need a lot
+Others want what they haven't got
+I need just what it takes
+That's when the tension breaks
+
+I'll be just what I am
+Oh, oh, oh
+A happy man
+
+I'm gonna be a happy man
+Just you and me while we still can
+There's nothing that we can't do
+Me and you, a happy man
+
+I'm gonna be a happy man
+Just you and me while we still can
+There's nothing that we can't do
+Me and you, a happy man
+
+I'm gonna be a happy man
+Just you and me while we still can
+There's nothing that we can't do
+Me and you, a happy man
+
+A happy man
+A happy man
+A happy man
+
+I'm gonna be, I'm gonna be
+A happy man
+
+
 

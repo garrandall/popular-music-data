@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-say-lauren-daigle
+lyrics_url: https://www.azlyrics.com/lyrics/laurendaigle/yousay.html
 name: You Say
 rankings:
 - end_date: '2018-08-03'
@@ -179,4 +180,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
 ---
+
+I keep fighting voices in my mind that say I'm not enough
+Every single lie that tells me I will never measure up
+Am I more than just the sum of every high and every low?
+Remind me once again just who I am because I need to know
+
+Ooh oh
+
+You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+And You say I am held when I am falling short
+And when I don't belong, oh You say I am Yours
+And I believe, (I) oh I believe (I)
+What You say of me (I)
+I believe
+
+The only thing that matters now is everything You think of me
+In You I find my worth, in You I find my identity
+
+Ooh oh
+
+You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+And You say I am held when I am falling short
+When I don't belong, oh You say I am Yours
+And I believe, (I) oh I believe (I)
+What You say of me (I)
+Oh, I believe
+
+Taking all I have and now I'm laying it at your feet
+You have every failure God, and You'll have every victory
+
+Ooh oh
+
+You say I am loved when I can't feel a thing
+You say I am strong when I think I am weak
+You say I am held when I am falling short
+When I don't belong, oh You say I am Yours
+And I believe, (I) oh I believe (I)
+What You say of me (I)
+I believe
+
+Oh I believe, ah
+Yes I believe, ah
+What You say of me
+Oh I believe
+
+
 

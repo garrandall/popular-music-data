@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paralyzer-finger-eleven
+lyrics_url: https://www.azlyrics.com/lyrics/fingereleven/paralyzer.html
 name: Paralyzer
 rankings:
 - end_date: '2007-06-29'
@@ -207,4 +208,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+I hold on so nervously
+To me and my drink
+I wish it was cooling me
+But so far, has not been good
+Itâs been shitty
+And I feel awkward, as I should
+This club has got to be
+The most pretentious thing
+Since I thought you and me
+Well I am imagining
+A dark lit place
+Or your place or my place
+
+Well Iâm not paralyzed
+But, I seem to be struck by you
+I want to make you move
+Because youâre standing still
+If your body matches
+What your eyes can do
+Youâll probably move right through
+Me on my way to you
+
+I hold out for one more drink
+Before I think
+Iâm looking too desperately
+But so far has not been fun
+I should just stay home
+If one thing really means one
+This club will hopefully
+Be closed in three weeks
+That would be cool with me
+Well Iâm still imagining
+A dark lit place
+Or your place or my place
+
+Well, Iâm not paralyzed
+But, I seem to be struck by you
+I want to make you move
+Because youâre standing still
+If your body matches
+What your eyes can do
+Youâll probably move right through
+Me on my way to you
+
+Well, Iâm not paralyzed
+But, I seem to be struck by you
+I want to make you move
+Because youâre standing still
+If your body matches
+What your eyes can do
+Youâll probably move right through
+Me on my way to you
+
+Iâm not paralyzed
+But, I seem to be struck by you
+I want to make you move
+Because youâre standing still
+If your body matches
+What your eyes can do
+Youâll probably move right through
+Me on my way to you
+
+Youâll probably move right through
+Me on my way to you
+
+Youâll probably move right through
+Me on my way to you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falls-apart-sugar-ray
+lyrics_url: https://www.azlyrics.com/lyrics/sugarray/fallsapart.html
 name: Falls Apart
 rankings:
 - end_date: '2000-01-21'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-05-27'
 ---
+
+She falls apart by herself
+No ones there to talk or understand
+Feels sustained, dries her eyes
+Finds herself, opens the door inside
+People see right through you
+Everyone who knew you well
+Falls apart, might as well
+Day is long and nothing is wasteful
+Runaway runaway  runaway runaway
+Hold, hold you but your going away
+Runaway runaway  runaway runaway
+
+Hold (Want) you tomorrow but your leaving today
+You walk along by yourself
+There's no sound, nothing is changing
+Been gone away, left you there
+Emptiness is nothing you can't share
+All those words that hurt you
+More than you would let it show
+Comes apart, by yourself
+All is well and everything is wasted
+Runaway runaway  runaway runaway
+
+Hold (Want) hold you but your going away
+Runaway runaway  runaway runaway
+
+Hold (Want) you tomorrow but your leaving today
+Sometimes we'll feel around and this dance instead can't be down
+All the sound of me on my own
+Any sound of me again it's time away surround around a friend
+I know where I know where no where to runaway
+She falls apart, no one there
+Hold her hand, it seems to disappear
+Falls apart, might as well
+Day is long and nothing is wasted
+Runaway runaway  runaway runaway
+ Want
+Hold (Want) hold you but your going away
+Runaway runaway  runaway runaway
+ Want
+Hold (Want) you tomorrow but your leaving today
+Runaway Runaway
+Hold (Want) hold you (Want) but your going away
+But your leaving today, but your leaving today
+
+
 

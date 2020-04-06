@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tender-years-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/tenderyears.html
 name: Tender Years
 rankings:
 - end_date: '1984-02-03'
@@ -84,4 +85,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
 ---
+
+When the moon hung soft and low, 
+Catchin' stardust in the light 
+You held me closer and closer 
+There was magic in the night 
+
+A sweet love song, a melody 
+that I still can recall 
+Two young hearts filled with dreams 
+To walk away with it all 
+
+Whoa, whoa tender years 
+Won't you wash away my tears 
+How I wish you were here 
+
+Please don't go, tender years 
+
+A summer love, a beach romance 
+Sought her kisses in the sand 
+Two young hearts filled with fire 
+Lost in never-neverland. 
+
+Whoa, whoa tender years 
+Won't you wash away my tears 
+How I wish you were here 
+Please don't go, tender years
+
+
 

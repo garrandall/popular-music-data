@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: night-jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/night.html
 name: Night
 rankings:
 - end_date: '1960-03-27'
@@ -75,4 +76,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
 ---
+
+Night, here comes the night
+Another night to dream about you
+Night, each lovely night
+The only time I'm not without you
+
+Once more, I feel your kisses
+Once more, I know what bliss is
+Comes dawn, my darling, you're gone
+But you come back into my arms each night
+
+Once more, I feel your kisses
+Once more, I know what bliss is
+Comes dawn, my darling, you're gone
+But you come back into my arms each night
+
+
 

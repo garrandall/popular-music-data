@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dirty-little-secret-the-all-american-rejects
+lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/biteback.html
 name: Dirty Little Secret
 rankings:
 - end_date: '2005-08-12'
@@ -163,4 +164,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-06'
 ---
+
+You couldn't break me in the end... (oh no) 
+And such a freedom I enjoy 
+When you're deaf to the sounds you trust 
+If that was all you've got, my friend... (oh no) 
+Then set yourself to disappoint 
+Yeah... 
+
+Feels like I'm strapped down on this table... so tight
+You've got me stuck to a razor's edge 
+And I'm trapped in a deadbolt glove 
+You stand to cut me or enable... oh no 
+And such a streak starts steading heads
+And I live for the things I love 
+
+Sad, but maybe it's true 
+Push you back's what I'll do 
+And it's just enough 
+To keep you back one second longer 
+
+Take a little more than what I've got 
+It's all I have to please you 
+Break a little piece of what you want 
+Bite back the hand that feeds you 
+
+Remember when things seem so stable... you know that 
+I compromise just to appease 
+Yeah, you take but you take too much 
+If what you need's not seeming able... yeah, right 
+Then maybe it works when I leave 
+Yeah, you fake what you say you love 
+
+Sad, but maybe it's true 
+Push you back's what I'll do 
+And it's just enough 
+To keep you back one second longer 
+
+Take a little more than what I've got 
+It's all I have to please you 
+Break a little piece of what you want 
+Bite back the hand that feeds you 
+
+Take a little more than what I've got 
+It's all I have to please you 
+Break a little piece of what you want 
+Bite back the hand that feeds you 
+
+Move faster 
+I can't move enough 
+How much longer? 
+Is this long enough? 
+We can't be 
+And it won't even catch your attention 
+And it pains me so to mention 
+
+Sad, but maybe it's true 
+Push you back's what I'll do 
+And it's just enough 
+To keep you back one second longer 
+
+Take a little more than what I've got 
+It's all I have to please you 
+Break a little piece of what you want 
+Bite back the hand that feeds you 
+
+Take a little more than what I've got 
+It's all I have to please you 
+Break a little piece of what you want 
+Bite back the hand that feeds you 
+
+Take what I've got 
+It's all I have to please you 
+Break what you want 
+Bite back the hand that feeds you 
+
+Take what I've got 
+It's all I have to please you 
+Break what you want 
+Bite back the hand that feeds you
+
+
 

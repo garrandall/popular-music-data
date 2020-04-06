@@ -6,6 +6,7 @@ features:
 - Kelly Price
 genres: []
 key: heartbreak-hotel-whitney-houston-faith-evans-kelly-price
+lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/heartbreakhotel.html
 name: Heartbreak Hotel
 rankings:
 - end_date: '1999-01-01'
@@ -121,4 +122,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-03'
 ---
+
+This is the heartbreak hotel 
+You said that you'd be here by nine
+And said you took your time
+You didn't think to call me boy
+Here I sit trying not to cry
+Asking myself why you do this to me
+
+
+
+Since you're not around for me to tell you baby face to face
+I'm writing you this letter, and this is what I have to say
+All I really wanted was some of your time
+Instead you told me lies
+When someone else was on your mind
+What you do to me
+Look what you did to me
+I thought that you were someone who would do me right
+Until you play with my emotions and you made me cry
+What you do to me
+Can't take what you did to me
+
+Now I see that you been doing wrong
+You played me all along
+And made a fool of me, baby
+You got it all wrong to think that I wouldn't find out
+That you were cheating on me
+How could you do it to me?
+
+
+
+This is the heartbreak hotel 
+Chorus and ad lib
+I ain't going to take it no more 
+ Everything you said was a lie
+Don't lie to me 
+
+
 

@@ -5,6 +5,7 @@ features:
 - Justin Timberlake
 genres: []
 key: love-sex-magic-ciara-justin-timberlake
+lyrics_url: https://www.azlyrics.com/lyrics/ciara/lovesexmagic.html
 name: Love Sex Magic
 rankings:
 - end_date: '2009-04-03'
@@ -56,4 +57,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
 ---
+
+1, 2, 3, go
+Ciara
+Sex
+Ciara
+Here we go
+Talk to me
+
+
+Your touch is so magic to me
+The strangest things can happen
+The way that you react to me
+I wanna do something you can't imagine, imagine
+
+If there was a million mes talking sexy to you like that
+You think you can handle, boy
+If I give you my squeeze
+And I need you to push it right back
+
+
+Baby show me, show me
+What's your favorite trick
+That you wanna use on me
+And I'll volunteer
+And I'll be flowing and going
+'Til clothing disappears
+Ain't nothing but shoes on me
+Oh baby
+
+
+All-night show
+Just you and the crowd doing tricks you never seen
+And I bet that I can make you believe in love and sex and magic
+So let me drive my body around you
+I bet you know what I mean
+'Cause you know that I can make you believe in love and sex and magic
+
+
+Everything ain't what it seems
+I wave my hands and I got you
+And you feel so fly assist in me
+But now it's my turn to watch you
+I ain't gon' stop you
+
+If you wanna grab my neck
+Talk sexy to me like that
+Just do what I taught you girl
+When I give you my heat
+And I need you to push it right back
+
+
+Baby show me, show me
+What's your favorite trick
+That you wanna use on me
+And I'll volunteer
+And I'll be flowing and going
+'Til clothing disappears
+Ain't nothing but shoes on me
+Oh baby
+
+
+All-night show
+Just you and the crowd doing tricks you never seen
+And I bet that I can make you believe in love and sex and magic
+So let me drive my body around you
+I bet you know what I mean
+'Cause you know that I can make you believe in love and sex and magic (breakdown)
+
+
+Now this is the part where we fall in love (sugar)
+Let's slow it down so we fall in love
+But don't stop whatcha doing to me
+
+Ciara
+Bring it back
+
+
+All-night show
+Just you and the crowd doing tricks you never seen
+And I bet that I can make you believe in love and sex and magic
+So let me drive my body around you
+I bet you know what I mean
+'Cause you know that I can make you believe in love and sex and magic
+
+
+All-night show
+Just you and the crowd doing tricks you never seen
+And I bet that I can make you believe in love and sex and magic
+So let me drive my body around you
+I bet you know what I mean
+'Cause you know that I can make you believe in love and sex and magic
+
+I see you on the floor
+Get it girl
+Love, sex and magic
+I see you on the floor
+You know what I mean
+Get it girl
+I bet that I can make you believe in love and sex and magic
+I see you on the floor
+Get it girl
+
+
 

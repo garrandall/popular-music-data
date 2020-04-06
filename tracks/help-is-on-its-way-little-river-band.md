@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: help-is-on-its-way-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/helpisonitsway.html
 name: Help Is On Its Way
 rankings:
 - end_date: '1977-08-12'
@@ -95,4 +96,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+
+Why are you in so much hurry
+Is it really worth the worry
+Look around
+Then slow down
+
+What's it like inside the bubble
+Does your head ever give you trouble
+It's no sin
+Trade it in
+
+Hang on, help is on its way
+I'll be there as fast as I can
+Hang on, a tiny voice did say
+From somewhere deep inside the inner man
+
+Are you always in confusion
+Surrounded by illusion
+Sort it out
+You'll make out
+
+Seem to make a good beginning
+Someone else ends up winning
+Don't seem fair
+Don't you care
+
+Hang on, help is on its way
+I'll be there as fast as I can
+Hang on, a tiny voice did say
+From somewhere deep inside the inner man
+
+Don't you forget who'll take care of you
+It don't matter what you do
+Form a duet, let him sing melody
+You'll provide the harmony
+
+Why are you in so much hurry
+Is it really worth the worry
+Look around
+Then slow down
+
+What's it like inside the bubble
+Does your head ever give you trouble
+It's no sin
+Trade it in
+
+Hang on, help is on its way
+I'll be there as fast as I can
+Hang on, a tiny voice did say
+From somewhere deep inside the inner man
+
+Hang on, help is on its way
+I'll be there as fast as I can
+Hang on, a tiny voice did say
+From somewhere deep inside the inner man
+
+
 

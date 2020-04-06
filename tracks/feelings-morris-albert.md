@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feelings-morris-albert
+lyrics_url: https://www.azlyrics.com/lyrics/rachelleanngo/feelings.html
 name: Feelings
 rankings:
 - end_date: '1975-06-27'
@@ -135,4 +136,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
 ---
+
+Feelings, nothing more than feelings
+Trying to forget my feelings of love
+Teardrops rolling down on my face
+Trying to forget my feelings of love
+
+Feelings, for all my life I'll feel it
+I wish I've never met you, boy
+You'll never come again
+Feelings, oh-oh-oh feelings, oh-oh-oh
+Feel you again in my arms
+
+Feelings, feelings like I've never lost you
+And feelings like I'll never have you again in my heart
+
+Feelings, for all my life I'll feel it
+I wish I've never met you, boy
+You'll never come again
+Feelings, oh-oh-oh feelings, oh-oh-oh
+Feelings again in my arms
+
+Feelings, feelings like I've never lost you
+And feelings like I'll never have you again in my life
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-sprung-t-pain
+lyrics_url: https://www.azlyrics.com/lyrics/kayone/thrillerfrommanila.html
 name: I'm Sprung
 rankings:
 - end_date: '2005-09-02'
@@ -111,4 +112,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
 ---
+
+Bitch, ich verteil' KÃ¶rbe, fick' die Industrie
+Digga, knall' Nutten, die so scharf sind, dass meine Knie zittern
+Zielsicher, schieÃ', Digga, Panzerglasscheiben
+Dein schwuler Vater lÃ¤sst sich ein'n Undercut schneiden
+Ich fick' Rapper gern, Streetrapper sind fake
+Durch Shows verdien' ich jetzt mehr Cash als T-Pain
+Alle meine Autos schwarz, so wie Diddy Pablo
+Schwarz wie mein Lamborghini Diablo
+Zieh deine Bahn Koks, geh mal weiter freestyl'n am Bahnhof
+Und deine Mutter liebt den Spagat, Bro
+Gib mir Carpaccio, ich lieb' rohes Fleisch
+Deutschrap ist wieder mal fÃ¼r 'nen Deepthroat bereit
+Ich kack' auf die Szene, denn bald ist das Spiel vorbei
+Und kleid' mich ein wie ein scheiÃ Immobilienhai
+Und jetzt zieh dir rein wie dieser lila Schein
+Deine Frau lutschen lÃ¤sst, heut fick' ich ihren Preis
+
+Helikopter fliegen um die Villa
+Ich spring' in mein'n Ferrari California
+Halt' die Uzi aus dem Fenster
+Wer ich bin? (wer ich bin?) â Thriller from Manila
+Kein'n Respekt, kein'n Anstand, was wollt ihr Toys?
+Deine Frau wird bei 22 Zoll hier feucht
+Helikopter fliegen um die Villa, wer ich bin?
+
+Hol dir dein'n Uppercut ab, shut the fuck up, Papperlapapp
+Glaub nicht, dass du in dei'm Mazda Platz hast
+Also was, du Bastard? Mach nicht auf hart, Bitch
+Fick dein YouTube, du wichst dir ein'n auf paar Klicks
+Rauch' grad Shit, ficke Bitches aus Madrid
+Sauf' nur Chris, ich bin wieder auf 'nem Trip
+Blaulicht fickt mein'n Kopf, du glaubst es nicht
+Und deine Mutter zaubert sich die Scheine aus dem Slip
+Rauschgift ist Ã¼berall, fick den Zoll
+Du Student, deine Felgen haben siebzehn Zoll
+Ich bin Proll, weil ich alles einfach leb'
+Und auf Facebook mach' ich ein'n auf scheiÃ Poet
+Jeder weiÃ, dass du SchwÃ¤nze liebst, mach nicht auf Memphis Bleek
+Ich Ã¼berroll' dich im brandneuen Wrangler Jeep
+Und am Ende krieg' ich, was ich will
+Mann, ich mach' ein Selfie, doch du bist nicht im Bild
+
+Helikopter fliegen um die Villa
+Ich spring' in mein'n Ferrari California
+Halt' die Uzi aus dem Fenster
+Wer ich bin? (wer ich bin?) â Thriller from Manila
+Kein'n Respekt, kein'n Anstand, was wollt ihr Toys?
+Deine Frau wird bei 22 Zoll hier feucht
+Helikopter fliegen um die Villa, wer ich bin?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-mind-heather-headley
+lyrics_url: https://www.azlyrics.com/lyrics/heatherheadley/inmymind.html
 name: In My Mind
 rankings:
 - end_date: '2006-02-24'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
 ---
+
+Imagine seeing him on the town
+Holding another hand
+She's starin' me down,
+So I figure that he told her who I am.
+But it don't matter either way,
+What they do or say cause ain't nothin' changed.
+He's standing with her, but his soul is calling out my name.
+
+In my mind, I'll always be his lady.
+In my mind, I'll always be his girl.
+
+Saw his momma just the other day,
+Said he'd been through a spell.
+Had a bad break up, thinks he's on his way up, it's hard to tell.
+She said I think it'd do some good if you called him every now and then.
+You see he's been through some things and I'm thinking he could really use a friend.
+
+In my mind, I'll always be his lady.
+In my mind, I'll always be his girl.
+Only time can tell if I'm his lady.
+But in my mind, I'll always be his girl.
+
+They say if you love something, you've got to let it go.
+And if it comes back, then it means so much more.
+But if it never does, at least you will know,
+That it was something you had to go through to grow.
+
+In my mind, I'll always be his lady.
+In my mind, I'll always be his girl.
+Only time will tell if I'm his lady.
+But in my mind, I'll always be his girl.
+
+Always feel this way about ya,
+Always be your lady,
+In my heart, in my mind.
+In my heart, in my mind.
+In my soul, in my mind.
+Baby you should know,
+You're in my thoughts, in my mind.
+You're in my prayers, in my mind.
+I'll always keep you there.
+
+Yeah, yeah, yeah.
+Yeah, yeah, yeah.
+
+
 

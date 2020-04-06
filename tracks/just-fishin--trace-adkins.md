@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-fishin--trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/justfishin.html
 name: Just Fishin'
 rankings:
 - end_date: '2011-06-24'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
 ---
+
+Iâm lost in her there holdinâ that pink rod and reel
+Sheâs doinâ almost everything but sittinâ still
+Talkinâ âbout her ballet shoes and training wheels
+And her kittens
+And she thinks weâre just fishinâ
+
+I say, âDaddy loves you, babyâ one more time
+She says, âI know. I think I got a bite.â
+And all this laughinâ, cryin, smilinâ dyinâ here insideâs
+What I call, livinâ
+
+And she thinks weâre just fishinâ on the riverside
+Throwinâ back what we could fry
+Drowninâ worms and killinâ time
+Nothinâ too ambitious
+She ainât even thinkinâ âbout
+Whatâs really goinâ on right now
+But I guarantee this memoryâs a bigâin
+And she thinks weâre just fishinâ
+
+Sheâs already pretty, like her mama is
+Gonna drive the boys all crazy
+Give her daddy fits
+And I better do this every chance I get
+âCause time is tickinâ
+(Yeah it is)
+
+And she thinks weâre just fishinâ on the riverside
+Throwinâ back what we could fry
+Drowninâ worms and killinâ time
+Nothinâ too ambitious
+She ainât even thinkinâ âbout
+Whatâs really goinâ on right now
+But I guarantee this memoryâs a bigâin
+And she thinks weâre just fishinâ
+
+She ainât even thinkinâ âbout
+Whatâs really goinâ on right now
+But I guarantee this memoryâs a bigâin
+And she thinks weâre just fishinâ
+Yeah, aww, she thinks weâre just fishinâ
+We ainât only fishinâ
+(This ainât about fishinâ)
+
+
 

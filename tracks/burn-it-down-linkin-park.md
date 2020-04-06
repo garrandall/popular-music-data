@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: burn-it-down-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/burnitdown.html
 name: Burn It Down
 rankings:
 - end_date: '2012-05-11'
@@ -99,4 +100,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
 ---
+
+The cycle repeated
+As explosions broke in the sky
+All that I needed
+Was the one thing I couldn't find
+
+And you were there at the turn
+Waiting to let me know
+
+We're building it up
+To break it back down
+We're building it up
+To burn it down
+We can't wait
+To burn it to the ground
+
+The colors conflicted
+As the flames climbed into the clouds
+I wanted to fix this
+But couldn't stop from tearing it down
+
+And you were there at the turn
+Caught in the burning glow
+And I was there at the turn
+Waiting to let you know
+
+We're building it up
+To break it back down
+We're building it up
+To burn it down
+We can't wait
+To burn it to the ground
+
+You told me, "Yes,"
+You held me high
+And I believed when you told that lie
+I played soldier, you played king
+And struck me down, when I kissed that ring
+You lost that right, to hold that crown
+I built you up, but you let me down
+So when you fall, I'll take my turn
+And fan the flames
+As your blazes burn
+
+And you were there at the turn
+Waiting to let me know
+
+We're building it up
+To break it back down
+We're building it up
+To burn it down
+We can't wait
+To burn it to the ground
+
+When you fall, I'll take my turn
+And fan the flames
+As your blazes burn
+
+We can't wait
+To burn it to the ground
+
+When you fall, I'll take my turn
+And fan the flames
+As your blazes burn
+
+We can't wait
+To burn it to the ground
+
+
 

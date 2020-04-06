@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-saturday-night-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/americansaturdaynight.html
 name: American Saturday Night
 rankings:
 - end_date: '2009-12-25'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
 ---
+
+Woahhhhh woahhhhhhh 
+Shes got Brazilian leather boots on the pedal of her German car 
+Listen to the Beatles singing back in the USSR 
+Yeah shes goin around the world tonight 
+But she ain't leavin here 
+Shes just going to meet her boyfriend down at the street fair 
+
+It's a french kiss, italian ice 
+Spanish moss in the moonlight 
+Just another American Saturday night 
+
+There's a big toga party tonight down at Delta Chi 
+They've got Canadian bacon on their pizza pie 
+They've got a cooler full of cold Coronas and Amstel light 
+It's like were all livin' in a big ol' cup 
+Just fire up the blender, mix it all up 
+
+It's a French kiss, Italian ice 
+Margaritas in the moonlight (woahhhh) 
+Just another American Saturday night 
+
+You know everywhere has something they're known for 
+Although usually it washes up on our shores 
+My great great great granddaddy stepped off of that ship 
+I bet he never ever dreamed we'd have all this 
+
+You know everywhere has somethin' they're known for 
+Although usually it washes up on our shores 
+Little Italy, Chinatown, sittin' there side by side 
+Live from New York, It's Saturday Night! 
+
+It's a French kiss, Italian ice, 
+Spanish moss in the moonlight 
+Just another American, just another American,
+Its just another American Saturday night
+
+
 

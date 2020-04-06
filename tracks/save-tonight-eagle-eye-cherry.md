@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-tonight-eagle-eye-cherry
+lyrics_url: https://www.azlyrics.com/lyrics/eagleeyecherry/comatoseinthearmsofslumber.html
 name: Save Tonight
 rankings:
 - end_date: '1998-12-11'
@@ -119,4 +120,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
 ---
+
+The doors are closed and walls are white
+Someone calls but I don't want to talk tonight
+Stay away you all want to stay away
+I'm going to be all right, all right
+Within the arms of slumber, going to leave it all behind, mmm yeah
+Comatose gone under, like all the other times
+
+With pride and disdain I'm going to ignore this pain
+When someone falls you're supposed to get up again
+I try to oblige but I, I can't tonight
+I'm going to be all right, all right
+Within the arms of slumber, going to leave it all behind, mmm
+Comatose gone under, like all the other times, yeah
+
+Comfort of my dreams I resign myself to you
+Dream as I might, oh I'm sleeping when I'm blue
+Such a pleasure when I feel myself go under
+Stay away, stay away while I'm in the arms of slumber
+And I'm leaving it all behind
+Mmm, going to leave it all behind
+
+The magic of sweet morpheus, you're doing it once again
+You saved me from my sadness, you saved me from my pain
+
+Protect me from depression, protect me one more night
+And I'll be all right, all right
+
+Within the arms of slumber leaving it all behind, mm
+Comatose gone under, like all the other times, yeah
+
+Comfort of my dreams I resign myself to you
+Dream as I might, oh I'm sleeping when I'm blue
+Such a pleasure when I feel myself go under
+Stay away, stay away while I'm in the arms of slumber
+
+Comfort of my dreams I resign myself to you
+Dream as I might, well I'm sleeping when I'm blue
+Such a pleasure when I feel myself go under
+So stay away, stay away while I'm in the arms of slumber
+And I'm leaving it all behind, mmmhm
+
+Stay away you all want to stay away
+Stay away you all want to stay away
+Stay away you all want to stay away
+Stay away you all want to stay away
+
+
 

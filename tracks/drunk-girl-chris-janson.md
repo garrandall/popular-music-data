@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drunk-girl-chris-janson
+lyrics_url: https://www.azlyrics.com/lyrics/chrisjanson/drunkgirl.html
 name: Drunk Girl
 rankings:
 - end_date: '2018-09-14'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
 ---
+
+Couple of cover charge stamps got her hand looking like a rainbow
+In and out of every bar on a whim just like the wind blows
+She's either a bachelorette or coming off a breakup
+Take a drunk girl home
+
+She's bouncing like a pinball
+Singing every word she never knew
+Dancing with her eyes closed like she's the only one in the room
+Her hair's a perfect mess, falling out of that dress
+Take a drunk girl home
+
+Take a drunk girl home
+Let her sleep all alone
+Leave her keys on the counter your number by her phone
+Pick up her life she threw on the floor
+Leave the hall lights on walk out and lock the door
+That's how she knows the difference between a boy and a man
+Take a drunk girl home
+
+You leave her drive for a dive
+You get something bad to eat
+They're singing closing time at that little bar across the street
+Then two by two strangers and lovers headed for the covers hooking up
+That TV in your two-bedroom sounds turned off
+Through the paper thin walls you can hear the neighbor's cigarette cough
+There's a million things you could be doing, but there's one thing you're damn sure glad you did
+
+Take a drunk girl home
+Let her sleep all alone
+Leave her keys on the counter your number by the phone
+Pick up her life she threw on the floor
+Leave the hall lights on walk out and lock the door
+That's how you know the difference in a boy and a man
+You take a drunk girl home
+
+You took a drunk girl home
+In the sober light of dawn
+She left you a message she thanked you on the phone
+'Cause you picked up her life she threw on the floor
+And left the hall lights on walked out and locked the door
+That's how she knows the difference between a boy and a man
+Take a drunk girl home
+
+You take a drunk girl home
+Take a drunk girl home
+
+
 

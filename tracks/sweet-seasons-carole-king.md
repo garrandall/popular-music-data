@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-seasons-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/sweetseasons.html
 name: Sweet Seasons
 rankings:
 - end_date: '1972-02-04'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
+
+Sometimes you win sometimes you lose
+And sometimes the blues just get a hold of you
+Just when you though you had made it
+All around the block people will talk
+But I want to give it all that I've got
+I just don't want, I don't want to waste it
+
+Talkin' 'bout sweet seasons on my mind
+Sure does appeal to me
+You know you we can get there easily
+Just like a sailboat a-sailin' on the sea
+
+
+
+Sometimes you win, sometimes you lose
+And most times you choose between the two
+Wonderin', wonderin' if you have made it
+
+But I'll have some kids and make my plans
+And I'll watch the seasons runnin' away
+And I'll build me a life in the open
+A life in the country
+
+I'm Talkin' 'bout a sweet seasons on my mind
+Sure does appeal to me
+You know you we can get there easily
+Just like a sailboat a-sailin' on the sea
+
+Talkin' 'bout a sweet seasons
+Talkin' 'bout a sweet, sweet, sweet seasons
+Talkin' 'bout a sweeeeeet seasons
+
+
 

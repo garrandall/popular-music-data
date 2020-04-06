@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-leave-me-now-jaya
+lyrics_url: https://www.azlyrics.com/lyrics/jaya/ifyouleavemenow.html
 name: If You Leave Me Now
 rankings:
 - end_date: '1989-10-20'
@@ -111,4 +112,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
 ---
+
+Why are you leaving me now, boy?
+
+We were not just lovers
+We were not just friends, boy
+The time we shared was not a simple love affair
+No
+
+We learned about each other
+That you're so afraid of the love, boy
+There is no one that could ever love me better
+No
+
+Time and time again
+I thought you were my friend
+You say you gotta go
+And I want you to know
+
+If you leave me now, boy
+I'll close my eyes and I'll just lay down and cry
+Why would you leave me now, boy
+After all the things that we've been through?
+You say you leave me now, boy
+And when you're gone, what am I supposed to do?
+And if you wanna come back to me
+I think you should know that I'll be loving you
+I'll be loving you
+
+No more changes for my life
+I pray to God that you'll come back to me
+When we're together
+There's nothing better than loving you
+
+I wanna know why you're leaving, boy
+The love we had was an open door
+What happened to the dreams we shared together?
+No
+
+Time and time again
+I thought you were my friend
+You say you gotta go
+And I want you to know
+
+Why are you leaving me now, boy
+After all the things that we've been through?
+(You know I love you)
+You know I still love you
+(You know I need you)
+
+Time and time again
+I thought you were my friend
+You say you gotta go
+And I want you to know
+
+If you leave me now, boy
+I'll close my eyes and I'll just lay down and cry
+Why would you leave me now, boy
+After all the things that we've been through?
+You say you leave me now, boy
+And when you're gone, what am I supposed to do?
+And if you wanna come back to me
+I think you should know that I'll be loving you
+(I'll be loving you)
+
+If you leave me now, boy
+I'll close my eyes and I'll just lay down and cry
+Why would you leave me now, boy?
+After all the things that we've been through?
+You say you leave me now, boy
+And when you're gone, what am I supposed to do?
+And if you wanna come back to me
+I think you should know that I'll be loving you
+
+If you leave me now, boy
+I'll close my eyes and I'll just lay down and cry
+Why would you leave me now, boy?
+After all the things that we've been through?
+You say you leave me now, boy
+And when you're gone, what am I supposed to do?
+And if you wanna come back to me
+I think you should know that I'll be loving you
+
+
 

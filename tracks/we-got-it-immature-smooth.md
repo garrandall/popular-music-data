@@ -5,6 +5,7 @@ features:
 - Smooth
 genres: []
 key: we-got-it-immature-smooth
+lyrics_url: https://www.azlyrics.com/lyrics/immature/wegotit.html
 name: We Got It
 rankings:
 - end_date: '1995-12-15'
@@ -88,4 +89,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
 ---
+
+
+I'm given you all my time
+Just come and feel the flavor
+Whether its rain or shine
+Cuz we got it
+
+Thinkin of you is all I do
+Daydreamin' about my boo
+Crazy days I like your silly ways
+And just thinkin bout you
+What can I do
+
+
+
+I know our love is real
+You make my mind do flips
+Its funny how you make me feel
+Toss and turnin in my bed
+My time is just for you 24/7 our love is true
+
+
+
+Its the mack of the year in your ear
+With the flavor you've been waitin for
+A taste in your face don't take it personal
+4 deep we gonna creep for the street
+Smooth Batman and Romeo and LDB
+Throw your hands in the air put the bounce in your body
+Microphone check now scream ladi dadi
+Ain't no party like an Immature party
+Give 'em props, cuz you love what they got
+
+
+
+Don't you wanna feel the funk
+What we got is what you want
+Don't you wanna feel the funk
+What we got is what you want
+
+
 

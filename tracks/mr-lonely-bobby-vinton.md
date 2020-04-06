@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-lonely-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/mrlonely.html
 name: Mr Lonely
 rankings:
 - end_date: '1964-11-06'
@@ -67,4 +68,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
+
+Lonely, I'm Mr. Lonely
+I have nobody for my own
+I'm so lonely, I'm Mr. Lonely
+Wish I had someone to call on the phone
+
+I'm a soldier, a lonely soldier
+Away from home through no wish of my own
+That's why I'm lonely, I'm Mr. Lonely
+I wish that I could go back home
+
+Letters, never a letter
+I get no letters in the mail
+I've been forgotten, yeah, forgotten
+Oh, how I wonder how is it I failed
+
+Now I'm a soldier, a lonely soldier
+Away from home through no wish of my own
+That's why I'm lonely, I'm Mr. Lonely
+I wish that I could go back home
+
+
 

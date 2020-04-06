@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-can-i-turn-to-dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/whocaniturntowhennobodyneedsme.html
 name: Who Can I Turn To
 rankings:
 - end_date: '1965-03-05'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+
+Who can I turn to 
+When nobody needs me?
+My heart wants to know 
+And so I must go 
+Where destiny leads me
+
+With no star to guide me 
+And no one beside me
+I'll go on my way 
+And, after the day
+The darkness will hide me
+
+And maybe tomorrow 
+I'll find what I'm after
+I'll throw off my sorrow
+Beg, steal, or borrow 
+my share of laughter
+With you I could learn to
+With you what a new day
+But who can I turn to 
+If you turn away?
+
+With you I could learn to
+With you what a new day
+But who can I turn to 
+If you turn away?
+
+
 

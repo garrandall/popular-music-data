@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twisted-keith-sweat
+lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/twisted.html
 name: Twisted
 rankings:
 - end_date: '1996-06-28'
@@ -159,4 +160,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
 ---
+
+Oh yeah baby
+You got to make your mind up
+Yeah, Kut Klose, help me out
+
+-You know you are my lover
+You got me twisted over you
+I know i got what you need
+So what you wanna do
+
+Baby, baby I know
+Baby I love you so
+But you don't feel like I do
+Tell me what can I do
+
+-But I gotta be strong
+Did me wrong
+When I thought we were really down
+So you say you want me
+Make up your mind 
+Cuz I'm not gonna be here for long
+
+
+Baby, baby in time
+Baby I know you'll find
+That what you needed was here
+Think about it my dear
+
+
+
+
+
+Breaking up now 
+You got me twisted
+Thinking about the way things used to be
+When it was you and me girl I was free
+See you had my heart from the start
+Like Cupid and I was just down right foolish and stupid
+But now I know the reason for the pain and the headaches
+You left me all alone now I can't even concentrate
+I guess I'll wait for the day until you come back
+Because my heart is where your love is at
+You got me twisted
+
+
+
+
 

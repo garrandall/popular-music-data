@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-old-man-down-the-road-john-fogerty
+lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/theoldmandowntheroad.html
 name: The Old Man Down The Road
 rankings:
 - end_date: '1984-12-28'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
 ---
+
+He take a thunder from the mountain
+He take a lightning from the sky
+He bring a strong man to his begging knee
+He make a young girl's mama cry
+
+You got to hidey-hide
+You got to jump and run
+You got to hidey-hidey-hide
+The old man is down the road
+
+He got the voices speak in riddles
+He got the eye as black as coal
+He got a suitcase covered with rattlesnake hide
+And he stands right in the road
+
+You got to hidey-hide
+You got to jump up, run away
+You got to hidey-hidey-hide
+The old man is down the road
+
+He make the river call your lover
+He make the barking of the hound
+Put a shadow 'cross the window
+When the old man comes around
+
+You got to hidey-hide
+You got to jump and run again
+You got to hidey-hidey-hide
+The old man is down the road
+The old man is down the road
+
+Ah, you got to, you got to, you got to hidey-hidey-hide
+
+
 

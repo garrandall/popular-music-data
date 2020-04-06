@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ashes-by-now-lee-ann-womack
+lyrics_url: https://www.azlyrics.com/lyrics/leeannwomack/ashesbynow.html
 name: Ashes By Now
 rankings:
 - end_date: '2000-12-15'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
 ---
+
+This morning is Monday
+Where are you now?
+Teasing my memory
+teaching me how
+To lay low when I don't want to
+Your love is elusive
+This I know now
+It's making me crazy
+Leaving me out in the open
+When I don't want to
+
+Baby, I can't go through this again
+I don't need to go down more than I've already been
+Just like a wildfire, you're running all over town
+As much as you've burned me baby, I should be ashes by now
+
+The moments of pleasure
+Never do last
+They're gone like a suitcase
+Full of your past
+Long gone
+And in a hurry
+
+Baby, I can't go through this again
+I don't need to go down more than I've already been
+Just like a wildfire, you're running all over town
+As much as you've burned me baby, I should be ashes by now
+
+You're running all over town
+As much as you burned me baby, I should be ashes by now
+
+Just like a wildfire, you're running all over town
+As much as you've burned me baby, I should be ashes by now
+As much as you've burned me baby, I should be ashes by now
+
+(Ooh, ooh, ooh, ashes by now)
+(Ooh, ooh, ooh, ashes by now)
+As much as you've burned me baby, I should be ashes by now
+
+
 

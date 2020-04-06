@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-sail-away-styx
+lyrics_url: https://www.azlyrics.com/lyrics/styx/comesailaway.html
 name: Come Sail Away
 rankings:
 - end_date: '1977-09-30'
@@ -95,4 +96,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
 ---
+
+I'm sailing away, set an open course for the virgin sea
+Cause I've got to be free, free to face the life that's ahead of me
+On board, I'm the captain, so climb aboard
+We'll search for tomorrow on every shore
+And I'll try, oh Lord, I'll try to carry on
+
+I look to the sea, reflections in the waves spark my memory
+Some happy, some sad
+I think of childhood friends and the dreams we had
+We lived happily forever, so the story goes
+But somehow we missed out on that pot of gold
+But we'll try best that we can to carry on
+
+A gathering of angels appeared above my head
+They sang to me this song of hope, and this is what they said
+They said come sail away, come sail away
+Come sail away with me now
+Come sail away, come sail away
+Come sail away with me
+
+Come sail away, come sail away
+Come sail away with me now
+Come sail away, come sail away
+Come sail away with me
+
+I thought that they were angels, but to my surprise
+We climbed aboard their starship, we headed for the skies
+Singing come sail away, come sail away
+Come sail away with me now
+Come sail away, come sail away
+Come sail away with me
+Come sail away, come sail away
+Come sail away with me
+Come sail away, come sail away
+Come sail away with me
+
+Come sail away, come sail away
+Come sail away, come sail away
+
+
 

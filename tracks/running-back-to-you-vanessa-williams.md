@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-back-to-you-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/runningbacktoyou.html
 name: Running Back To You
 rankings:
 - end_date: '1991-08-16'
@@ -91,4 +92,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
 ---
+
+Boy, you've been running around to long
+Now I think you're running out of time
+No more jumping in and out of my bed
+It's time for me to draw the line
+So you think you can call me the only one, then walk out the door
+And you think you can run arround having fun,
+And just come back for more
+
+
+I think you're living in a fantasy
+It's got to be them or me
+So if you try it onr more time
+Baby dont expect me to come running back to you
+
+Running back to you
+Then you'll think about love, all the good I gave to you
+I won't come running back, running back to you
+I won't come running back, running back to you
+And I'll find someone, somebody else to give it to
+
+Oh oh, oh oh
+I won't come running back
+I won't come running
+
+Oh oh, oh oh
+I won't come running back
+I won't come running
+
+Boy, hope you see before to late
+I won't play the fool-no not this time
+And I'll show you just how wrong you are
+To think I just can't get you out of my mind
+
+So you think you can just play me off, then walk out the door
+And you think that you can just run arround and come back for more
+
+
+
+You can't dis me when you wanna
+Or come and go when you wanna
+I hear you're playing around when you wanna
+Any time that you wanna
+Or just tell me lies when you wanna
+I got more than you want oh
+Oh, and by the way
+
+Oh, oh I won't come running back, I won't come running
+Oh, oh I won't come running back, I won't come running
+Running back to you
+Then you'll think about love, all the good I gave to you
+
+I won't come running back, running back to you
+I won't come running back, running back to you
+And I'll find someone, somebody to give it to
+
+Oh oh, oh oh
+I won't come running back
+I won't come running
+
+Oh oh, oh oh
+I won't come running back
+I won't come running
+
+
 

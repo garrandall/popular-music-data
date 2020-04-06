@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roll-with-the-changes-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/rollwiththechanges.html
 name: Roll With The Changes
 rankings:
 - end_date: '1978-05-19'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
 ---
+
+As soon as you are able
+Woman I am willing
+To make the break that we
+Are on the brink of
+My cup is on the table
+Our love is spilling
+Waiting here for you to
+Take and drink of
+So if you're tired of the
+Same old story
+Turn some pages
+I'll be here when you are ready
+To roll with the changes
+
+I knew it had to happen
+Felt the tables turnin'
+Got me through my darkest hour
+I heard the thunder clappin'
+Felt the desert burnin'
+Until you poured on me
+Like a sweet sunshower
+
+So if you're tired of the
+Same old story
+Turn some pages
+I'll be here when you are ready
+To roll with the changes
+
+Roll with the changes
+
+
 

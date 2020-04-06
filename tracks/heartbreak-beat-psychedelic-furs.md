@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreak-beat-psychedelic-furs
+lyrics_url: https://www.azlyrics.com/lyrics/psychedelicfurs/heartbreakbeat.html
 name: Heartbreak Beat
 rankings:
 - end_date: '1987-03-20'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
 ---
+
+I'm a heartbreak beat
+Yeah, all night long
+And nobody don't dance on the edge of the dark
+We've got the radio on
+And it feels like love
+But it don't mean a lot
+And it feels like love
+And it's all that we've got
+
+There's a heartbreak beat playin' all night long
+Down on my street
+And it feels like love got the radio on
+And it's all that we need
+There's a heartbreak beat
+And it feels like love
+There's a heartbreak beat
+And it feels like love
+
+Well the beat don't stop
+We talk so tough
+And there's a perfect kiss, somewhere out in the dark
+But a kiss ain't enough
+And the world don't stop
+Every time that you call
+And the world don't stop
+Every time that you fall
+
+There's a heartbreak beat playin' all night long
+Down on my street
+And it feels like love got the radio on
+And it's all that we need
+There's a heartbreak beat
+And it feels like love
+There's a heartbreak beat
+And it feels like love
+
+I'm a heartbreak beat
+Yeah, all night long
+And nobody don't dance on the edge of the dark
+We've got the radio on
+And it feels like love
+But it don't mean a lot
+And it feels like love
+And it's all that we've got
+
+There's a heartbreak beat playin' all night long
+Down on my street
+And it feels like love got the radio on
+And it's all that we need
+There's a heartbreak beat
+And it feels like love
+There's a heartbreak beat
+And it feels like love
+
+There's a heartbreak beat
+I'm a heartbreak beat
+I'm a heartbreak beat
+I'm a heartbreak beat
+
+
 

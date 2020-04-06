@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cook-with-honey-judy-collins
+lyrics_url: https://www.azlyrics.com/lyrics/judycollins/cookwithhoney.html
 name: Cook With Honey
 rankings:
 - end_date: '1973-02-16'
@@ -51,4 +52,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+
+Muffin warm and basket brown
+Smiling faces gathered round our dinner table
+Close together, hand in hand
+
+I always cook with honey
+To sweeten up the night
+We always cook with honey
+Tell me, how's your appetite
+For some sweet love
+
+Find in favor with your neighbor
+Well, it can be so fine
+It's easier than pie to be kind
+We've been searching for so long
+Now our house has turned into a home
+
+'Cause I always cook with honey
+To sweeten up the night
+We always cook with honey
+Tell me, how's your appetite
+For some sweet love
+
+'Cause I always cook with honey
+To sweeten up the night
+We always cook with honey
+Tell me, how's your appetite
+For some sweet love
+
+Well, our door is always open
+And there's surely room for more
+Cooking where there's good love
+Is never any chore
+So come and get to know us
+There'll be a place set just for you
+Sweet wine before dinner
+That is surely bound to soothe
+
+I always cook with honey
+To sweeten up the night
+We always cook with honey
+Tell me, how's your appetite
+For some sweet love
+
+I always cook with honey
+To sweeten up the night
+We always cook with honey
+Tell me, how's your appetite
+For some sweet love
+
+
 

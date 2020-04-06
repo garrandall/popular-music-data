@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vacation-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/vacation.html
 name: Vacation
 rankings:
 - end_date: '1962-08-03'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
 ---
+
+V-A-C-A-T-I-O-N in the summer sun
+
+Put away the books, we're out of school
+The weather's warm but we'll play it cool
+We're on vacation, havin' lots of fun
+V-A-C-A-T-I-O-N in the summer sun
+
+We're gonna grab a bite at the pizza stand
+Write love letters in the sand
+We're on vacation and the world is ours
+V-A-C-A-T-I-O-N under summer stars
+
+Yeah, we'll hop in a jalopy to a drive-in movie and never look at the show
+We're gonna hug and kiss just like this and I can't wait to go, go, go
+
+We're gonna mashed potato to a jukebox tune
+Park your car 'neath an August moon
+We're on vacation till the start of the fall
+
+V-A-C-A-T-I-O-N, we're gonna have a ball, go!!
+
+
+
+V-A-C-A-T-I-O-N, gonna have a ball
+
+Uh-huh, we'll hop in a jalopy to a drive-in movie and never look at the show
+We're gonna hug and kiss just like this and I can't wait to go, go, go
+
+We're gonna mashed potato to a jukebox tune
+Park your car 'neath an August moon
+We're on vacation till the start of the fall
+
+V-A-C-A-T-I-O-N, we're gonna have a ball, yeah
+
+
+V-A-C-A-T-I-O-N, (yeah) gonna have a ball
+
+
 

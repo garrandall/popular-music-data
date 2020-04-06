@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny-face-donna-fargo
+lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/funnyface.html
 name: Funny Face
 rankings:
 - end_date: '1972-10-06'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+
+Funny face, I love you
+Funny face, I need you
+My whole worlds wrapped up in you
+
+When the road I walk seems all up hill
+And the colors in my rainbow turn blue
+You kiss the tears away
+You smile at me and say
+Funny face, funny face I love you
+
+Funny face, I love you
+Funny face, I need you
+These are the sweetest words I've ever heard
+Funny face, don't leave me
+Funny face, believe me
+My whole worlds wrapped up in you
+
+And when I hurt your feelings as I sometimes do
+And I say those mean things that we know are not true
+You forgive my childish ways
+You hold me close and say
+Funny face, funny face I love you
+
+Funny face, I love you
+Funny face, I need you
+These are the sweetest words I've ever heard
+Funny face, don't leave me
+Funny face, believe me
+My whole worlds wrapped up in you
+
+Funny face, I love you
+Funny face, I need you
+These are the sweetest words I've ever heard
+Funny face, don't leave me
+Funny face, believe me
+My whole worlds wrapped up in you
+
+
 

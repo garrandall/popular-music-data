@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sleep-without-you-brett-young
+lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/sleepwithoutyou.html
 name: Sleep Without You
 rankings:
 - end_date: '2016-10-07'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
 ---
+
+Oh babe
+Never thought I would be like this
+Wide awake waitin' on a goodnight kiss
+Sippin' ninety proof
+Talkin' to the moon
+Countin' down the hours till its two AM
+Never thought I would be like this
+
+But as long as the night ends with you in a yellow cab shootin' me a text sayin' "Comin' home soon"
+As long as I can bet on ya crawlin' into bed after slippin' out ya high heel shoes
+I ain't lyin' sayin' havin' a good time
+Out with your girls
+Girl do what you do
+No matter how late
+Baby I'll be stayin' up
+I can't sleep without you
+
+I'd be tossin' and turnin' all night babe
+From the smell of your hair on the pillow case
+Even if I tried without you by my side I'd be dreamin' with my eyes open
+I'd be tossin' and turnin' all night babe
+
+But as long as the night ends with you in a yellow cab shootin' me a text sayin' "Comin' home soon"
+As long as I can bet on ya crawlin' into bed after slippin' out ya high heel shoes
+I ain't lyin' sayin' havin' a good time
+Out with your girls, girl do what you do
+No matter how late
+Baby I'll be stayin' up
+I can't sleep without you, no
+I can't sleep without you, no, no
+
+I bet that DJ'S playin' your song and your carryin' on
+Baby I love the thought of that long as I know I'm the one you're comin' home to
+
+But as long as the night ends with you in a yellow cab shootin' me a text sayin' "Comin' home soon"
+As long as I can bet on ya crawlin' into bed after slippin' out ya high heel shoes
+I ain't lyin sayin' havin' a good time
+Out with your girls, girl do what you do
+No matter how late
+Baby I'll be stayin' up
+I can't sleep without you
+Ya no matter how late baby
+I'll be stayin' up
+I can't sleep without you no
+
+Can't sleep without you
+I can't sleep without you
+
+Never thought I would be like this
+Just wide awake waitin' on a goodnight kiss
+
+
 

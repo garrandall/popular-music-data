@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-a-little-more-maroon-5
+lyrics_url: https://www.azlyrics.com/lyrics/phillipphillips/givealittlemore.html
 name: Give A Little More
 rankings:
 - end_date: '2010-09-10'
@@ -11,4 +12,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
 ---
+
+Now, you've been bad, and it goes on and on and on
+Till you come home, babe, till you come home
+Now, you taste best, the poison I've learned to love is gone
+I'm all alone, baby, I'm all alone
+
+I'm waiting for something, always waiting
+Feeling nothing, wondering if it'll ever change
+And then I give a little more, oh baby, ohhh
+Give a little more, oh baby, ohhh
+
+I'm not falling in love with ya, I'm not falling in love
+I'm not falling in love with ya, I'm not falling in love
+Till I get a little more from you baby, ohhh
+Get a little more from you baby, ohhh
+
+Now, you were wrong for turning me on and on and on
+And on and on
+You make it so hard
+
+I'm waiting for something, always waiting
+Feeling nothing, wondering if it'll ever change
+And then I give a little more, oh baby, ohhh
+Give a little more, oh baby, ohhh
+
+I'm not falling in love with ya, I'm not falling in love
+I'm not falling in love with ya, I'm not falling in love
+Till I get a little more from you baby, ohhh
+Get a little more from you baby, ohhh
+
+I have no defense
+I know you're gonna get me in the end
+I cannot pretend
+I never want to feel this way again
+
+I'm not falling in love with ya, I'm not falling in love, no-no
+I'm not falling in love with you, I'm not gon' fall in love
+Till I get a little more, oh baby, ohhh
+Get a little more from you baby, nooo
+
+I'm not falling in love with ya
+I'm not gon' fall in love with you no more
+Till I get a little more from you baby, ohhh
+Get a little more, get a little more, get a little more
+From you baby
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-out-of-mind-steely-dan
+lyrics_url: https://www.azlyrics.com/lyrics/steelydan/timeoutofmind.html
 name: Time Out Of Mind
 rankings:
 - end_date: '1981-03-20'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+
+Son you better be ready for love
+On this glory day
+This is your chance to believe
+What I've got to say
+Keep your eyes on the sky
+Put a dollar in the kitty
+Don't the moon look pretty
+
+Tonight when I chase the dragon
+The water may change to cherry wine
+And the silver will turn to gold
+Time out of mind
+
+I am holding the mystical sphere
+It's direct from Lhasa
+Where people are rolling in the snow
+Far from the world we know
+
+Children we have it right here
+It's the light in my eyes
+It's perfection and grace
+It's the smile on my face
+
+Tonight when I chase the dragon
+The water may change to cherry wine
+And the silver will turn to gold
+Time out of mind
+
+Children we have it right here
+It's the light in my eyes
+It's perfection and grace
+It's the smile on my face
+
+Tonight when I chase the dragon
+The water may change to cherry wine
+And the silver will turn to gold
+Time out of mind
+
+
 

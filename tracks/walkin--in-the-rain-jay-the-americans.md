@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: walkin--in-the-rain-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/walkinintherain.html
 name: Walkin' In The Rain
 rankings:
 - end_date: '1969-11-28'
@@ -68,4 +69,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
 ---
+
+I want her, I need her
+And someday, some way... I'll meet her
+She'll be kinda shy
+And real good lookin' too
+And I'll be certain she's my girl
+By the things she'll like to do
+
+Like walkin' in the rain
+And wishin' on the stars up above
+And bein' so in love
+
+When she's near me, I'll kiss her
+And when she leaves me... I'll miss her
+Though sometimes we'll fight
+I won't really care
+I know she's gonna be all right
+'Cause we got so much to share
+
+Like walkin' in the rain
+And wishin' on the stars up above
+And bein' so in love
+
+(Joannie) No, no she'll never do
+(Peggy) No it isn't her too
+They would never, no they'd never
+Never, ever love
+
+Walkin' in the rain
+And wishin' on the stars
+Or bein' so in love
+Walkin' in the rain
+
+
 

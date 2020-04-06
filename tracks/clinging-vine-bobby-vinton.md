@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: clinging-vine-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/clingingvine.html
 name: Clinging Vine
 rankings:
 - end_date: '1964-08-14'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
+
+Cling to me, clinging vine
+Just to me, clinging vine
+How I wish those arms you're clinging to were mine
+Please come back and cling to me
+Clinging vine
+
+I can't believe that we're through
+That you're clinging to someone new
+Don't you know she'll never love you like I do
+Please come back and cling to me
+Clinging vine
+
+Cling to me, clinging vine
+Just to me, clinging vine
+How I wish those arms you're clinging to were mine
+Please come back and cling to me
+Clinging vine
+
+Cling to me, clinging vine
+Just to me, clinging vine
+How I wish those arms you're clinging to were mine
+Please come back and cling to me
+Clinging vine
+Please come back and cling to me
+Clinging vine
+
+
 

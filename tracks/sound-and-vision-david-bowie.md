@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sound-and-vision-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/franzferdinand/soundandvision.html
 name: Sound And Vision
 rankings:
 - end_date: '1977-04-15'
@@ -31,4 +32,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
+
+Drifting into my solitude
+Over my head
+
+Don't you wonder sometimes
+'Bout sound and vision
+Aah-Aahh...
+
+Blue, blue, electric blue
+That's the colour of my room
+Where I will live
+Blue-ooh
+
+Pale blinds drawn all day
+Nothing to read
+Nothing to say
+Blue-ooh
+
+I will sit right down
+Waiting for the gift of sound and vision
+
+And I will sing
+Waiting for the gift of sound and vision
+
+Don't you wonder sometimes
+'Bout sound and vision
+Aah-Aahh...
+
+Blue, blue, electric blue
+That's the colour of my room
+Where I will live
+Blue-ooh
+
+I will sit right down
+Waiting for the gift of sound and vision
+
+And I will sing
+Waiting for the gift of sound and vision
+
+Drifting into my solitude
+Over my head
+
+
 

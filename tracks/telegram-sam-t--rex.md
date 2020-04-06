@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: telegram-sam-t--rex
+lyrics_url: https://www.azlyrics.com/lyrics/trex/telegramsam.html
 name: Telegram Sam
 rankings:
 - end_date: '1972-04-28'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
 ---
+
+Telegram Sam Telegram Sam
+You're my main man
+
+Golden Nose Slim Golden Nose Slim
+I know's where you' ve bin
+Purple Pie Pete Purple Pie Pete
+Your lips are like lightning
+Girls melt in the heat
+
+Telegram Sam
+You're my main man
+Telegram Sam
+You're my main man
+
+Bobby's alright Bobby's alright
+He's a natural born poet
+He's just outa sight
+Jungle faced Jake
+Jungle faced Jake
+I say make no mistake
+About Jungle faced Jake
+
+Automatic shoes
+Automatic shoes
+Give me three D vision
+And the California blues
+Me I funk but I don't care
+I ain't no square with my corkscrew hair
+
+Telegram Sam Telegram Sam
+
+I'm a howlin' wolf
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-day-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/everyday.html
 name: Every Day
 rankings:
 - end_date: '2008-04-04'
@@ -75,4 +76,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
 ---
+
+You could've bowed out gracefully
+But you didn't
+You knew enough to know
+To leave well enough alone
+But you wouldn't
+I drive myself crazy
+Tryin' to stay out of my own way
+The messes that I make
+But my secrets are so safe
+The only one who gets me
+Yeah, you get me
+It's amazing to me
+
+
+How every day
+Every day, every day
+You save my life
+
+I come around all broken down and
+Crowded out
+And you're comfort
+Sometimes the place I go 
+Is so deep and dark and desperate
+I don't know, I don't know
+
+
+
+Sometimes I swear, I don't know if 
+I'm comin' or goin'
+But you always say something
+Without even knowin'
+That I'm hangin' on to your words
+With all of my might and it's alright
+Yeah, I'm alright for one more night-
+Every day
+Every day, every day, every day
+Every day, every day
+You save me, you save me, oh, oh, oh
+Every day
+Every, every, every day-
+
+Every day you save my life
+
+
 

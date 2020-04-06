@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-brightside-the-killers
+lyrics_url: https://www.azlyrics.com/lyrics/killers/mrbrightside39068.html
 name: Mr Brightside
 rankings:
 - end_date: '2005-02-18'
@@ -159,4 +160,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
 ---
+
+I'm coming out of my cage
+And I've been doing just fine
+Gotta gotta be down
+Because I want it all
+It started out with a kiss
+How did it end up like this?
+It was only a kiss, it was only a kiss
+Now I'm falling asleep
+And she's calling a cab
+While he's having a smoke
+And she's taking a drag
+Now they're going to bed
+And my stomach is sick
+And it's all in my head
+But she's touching his chest
+Now, he takes off her dress
+Now, let me go
+
+And I just can't look - it's killing me
+And taking control
+Jealousy, turning saints into the sea
+Turning through sick lullabies 
+Choking on your alibis
+But it's just the price I pay
+Destiny is calling me
+Open up my eager eyes
+âCause I'm Mr Brightside
+
+I'm coming out of my cage
+And I've been doing just fine
+Gotta gotta be down
+Because I want it all
+It started out with a kiss
+How did it end up like this?
+It was only a kiss, it was only a kiss
+Now I'm falling asleep
+And she's calling a cab
+While he's having a smoke
+And she's taking a drag
+Now they're going to bed
+And my stomach is sick
+And it's all in my head
+But she's touching his chest
+Now, he takes off her dress
+Now, let me go
+
+'Cause I just can't look - it's killing me
+And taking control
+Jealousy, turning saints into the sea
+Turning through sick lullabies 
+Choking on your alibis
+But it's just the price I pay
+Destiny is calling me
+Open up my eager eyes
+âCause I'm Mr Brightside
+
+I never...
+I never...
+I never...
+I never...
+
+
 

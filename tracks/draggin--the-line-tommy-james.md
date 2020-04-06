@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: draggin--the-line-tommy-james
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjames/draggintheline.html
 name: Draggin' The Line
 rankings:
 - end_date: '1971-06-18'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+
+Makin' a livin' the old, hard way
+Takin' and givin' by day by day
+I dig snow and rain and the bright sunshine
+Draggin' the line (Draggin' the line)
+
+My dog Sam eats purple flowers
+Ain't got much, but what we got's ours
+We dig snow and rain and the bright sunshine
+Draggin' the line (Draggin' the line)
+Draggin' the line (Draggin' the line)
+
+I feel fine
+I'm talkin' 'bout peace of mind
+I'm gonna take my time
+I'm gettin' the good sign
+Draggin' the line (Draggin' the line)
+Draggin' the line (Draggin' the line)
+
+Lovin' the free and feelin' spirit
+Of hugging a tree, when you get near it
+Diggin' the snow and rain and the bright sunshine
+Draggin' the line (Draggin' the line)
+Draggin' the line (Draggin' the line)
+
+I feel fine
+I'm talkin' 'bout peace of mind
+I'm gonna take my time
+I'm gettin' the good sign
+Draggin' the line (Draggin' the line)
+Draggin' the line (Draggin' the line)
+
+Draggin' the line (Draggin' the line) (La-la la-la la-la la-la)
+Draggin' the line (Draggin' the line) (La-la la-la la-la la)
+Draggin' the line (Draggin' the line) (La-la la-la la-la la-la)
+Draggin' the line (Draggin' the line) (La-la la-la la-la la)
+Draggin' the line (Draggin' the line) (La-la la-la la-la la-la)
+Draggin' the line (Draggin' the line) (La-la la-la la-la la)
+
+
 

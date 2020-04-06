@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-where-you-wanna-go-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/gowhereyouwannago.html
 name: Go Where You Wanna Go
 rankings:
 - end_date: '1967-01-20'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+
+You gotta go where you wanna go
+Do what you wanna do
+With whomever you wanna do it with
+
+Baby, you gotta go where you wanna go
+Do what you wanna do
+With whomever you wanna do it with
+
+You don't understand
+That a girl like me can love just one man
+Three thousand miles, that's how far you'll go
+And you said to me, "Please, don't follow"
+
+You gotta go where you wanna go
+Do what you wanna do
+With whomever you wanna do it with
+
+You gotta go where you wanna go
+Do what you wanna do
+With whomever you wanna do it with
+
+You don't understand
+That a girl like me can love just one man
+You've been gone a week and I tried so hard
+Not to be the cryin' kind, not to be the girl you left behind
+
+You gotta go where you wanna go
+Do what you wanna do
+With whomever you wanna do it with
+
+
 

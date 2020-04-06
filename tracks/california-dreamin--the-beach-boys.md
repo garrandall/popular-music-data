@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: california-dreamin--the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/californiadreaming.html
 name: California Dreamin'
 rankings:
 - end_date: '1986-09-26'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+
+All the leaves are brown and the sky is gray
+I've been for a walk on a winter's day
+I'd be safe and warm if I was in L.A.
+California dreamin' on such a winter's day
+
+Stopped in to a church I passed along the way
+Well I got down on my knees and I pretend to pray
+You know the preacher likes the cold
+He knows I'm gonna stay
+California dreamin' on such a winter's day
+
+All the leaves are brown and the sky is gray
+I've been for a walk on a winter's day yeah
+I'd be safe and warm if I was in L.A.
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day
+California
+
+
 

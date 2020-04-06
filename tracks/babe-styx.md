@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: babe-styx
+lyrics_url: https://www.azlyrics.com/lyrics/styx/babe.html
 name: Babe
 rankings:
 - end_date: '1979-10-12'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
+
+Babe, I'm leaving, I must be on my way
+The time is drawing near
+My train is going, I see it in your eyes
+The love, the need, your tears
+But I'll be lonely without you
+And I'll need your love to see me through
+Please believe me, my heart is in your hands
+And I'll be missing you
+
+You know it's you Babe
+Whenever I get weary and I've had enough
+Feel like giving up
+You know it's you Babe
+Giving me the courage and the strength I need
+Please believe that it's true
+Babe, I love you
+
+You know it's you Babe
+Whenever I get weary and I've had enough
+Feel like giving up
+You know it's you Babe
+Giving me the courage and the strength I need
+Please believe that it's true
+Babe, I love you
+
+Babe, I'm leaving, I'll say it once again
+Somehow try to smile
+I know the feeling we're trying to forget
+If only for a while
+Cause I'll be lonely without you
+And I'll need your love to see me through
+Please believe me, my heart is in your hands
+Cause I'll be missing you
+Babe, I love you
+Babe, I love you
+Oh, Babe
+
+
 

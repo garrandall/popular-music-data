@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ballad-of-easy-rider-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/balladofeasyrider.html
 name: Ballad Of Easy Rider
 rankings:
 - end_date: '1969-11-07'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
 ---
+
+The river flows
+It flows to the sea
+Wherever that river goes
+That's where I want to be
+Flow river flow
+Let your waters wash down
+Take me from this road
+To some other town
+
+All he wanted
+Was to be free
+And that's the way
+It turned out to be
+Flow river flow
+Let your waters wash down
+Take me from this road
+To some other town
+
+Flow river flow
+Past the shaded tree
+Go river, go
+Go to the sea
+Flow to the sea
+
+The river flows
+It flows to the sea
+Wherever that river goes
+That's where I want to be
+Flow river flow
+Let your waters wash down
+Take me from this road
+To some other town
+
+
 

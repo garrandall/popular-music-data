@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barely-breathing-duncan-sheik
+lyrics_url: https://www.azlyrics.com/lyrics/duncansheik/barelybreathing.html
 name: Barely Breathing
 rankings:
 - end_date: '1996-12-06'
@@ -227,4 +228,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
 ---
+
+I know what you're doing
+I see it all too clear
+I only taste the saline
+When I kiss away your tears
+
+You really had me going
+Wishing on a star
+The black holes that surround you
+Are heavier by far
+
+I believed in your confusion
+So completely torn
+Must have been that yesterday
+Was the day that I was born
+
+There's not much to examine
+There's nothing left to hide
+You really can't be serious
+If you have to ask me why
+I say goodbye
+
+'Cause I am barely breathing
+And I can't find the air
+Don't know who I'm kidding
+Imagining you care
+
+And I could stand here waiting
+A fool for another day
+I don't suppose it's worth the price
+It's worth the price, the price
+That I would pay, yeah yeah, yeah
+
+Everyone keeps asking
+What's it all about?
+I used to be so certain
+Now I can't figure out
+
+What is this attraction?
+I only feel the pain
+There's nothing left to reason
+And only you to blame
+Will it ever change?
+
+'Cause I am barely breathing
+And I can't find the air
+Don't know who I'm kidding
+Imagining you care
+
+And I could stand here waiting
+A fool for another day
+I don't suppose it's worth the price
+It's worth the price, the price
+That I would pay, yeah yeah, yeah
+But I'm thinking it over anyway
+I'm thinking it over anyway
+
+I've come to find
+I may never know
+Your changing mind
+Is it friend or foe?
+
+I rise above or sink below
+With every time
+You come and go
+Please don't come and go
+
+'Cause I am barely breathing
+And I can't find the air
+Don't know who I'm kidding
+Imagining you care
+
+And I could stand here waiting
+A fool for another day
+But I don't suppose it's worth the price
+It's worth the price, the price
+That I would pay, yeah yeah, yeah
+But I'm thinking it over anyway
+I'm thinking it over anyway
+
+Well, I know what you're doing
+I see it all too clear
+
+
 

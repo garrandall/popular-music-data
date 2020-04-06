@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brighter-than-the-sun-colbie-caillat
+lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/brighterthanthesun.html
 name: Brighter Than The Sun
 rankings:
 - end_date: '2011-09-09'
@@ -107,4 +108,102 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
 ---
+
+Stop me on the corner
+I swear you hit me like a vision
+I, I, I wasn't expecting
+But who am I to tell fate where it's supposed to go with it
+Don't you blink you might miss it
+See we got a right to just love it or leave it
+You find it and keep it
+'Cause it ain't every day you get the chance to say
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+Oh, we could be the stars
+Falling from the sky
+Shining how we want
+Brighter than the sun
+
+I've never seen it
+But I found this love, I'm gonna feed it
+You better believe, I'm gonna treat it
+Better than anything I've ever had
+'Cause you're so damn beautiful
+
+Read it
+It's signed and delivered let's seal it
+Boy, we go together like peanuts and paydays
+Marley and reggae
+And everybody needs to get a chance to say
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+Oh, we could be the stars
+Falling from the sky
+Shining how we want
+Brighter than the sun
+
+Everything is like a white out
+'Cause we shika-shika a shine down
+Even when the, when the light's out
+But I can see you glow
+Got my head up in the rafters
+Got me happy-ever-after
+Never felt this way before
+Ain't felt this way before
+
+I swear you hit me like a vision
+I, I, I wasn't expecting
+But who am I to tell fate where it's supposed to go?
+
+Oh, this is how it starts (this is how it starts)
+Lightning strikes the heart (lightning strikes the heart)
+It goes off like a gun
+Brighter than the sun
+Oh, we could be the stars
+Falling from the sky
+(falling from the sky)
+Shining how we want
+Brighter than the sun
+
+Oh, this is how it starts (this is how it starts)
+Lightning strikes the heart (lightning strikes the heart)
+It goes off like a gun
+Brighter than the sun
+Oh, we could be the stars
+Falling from the sky
+Shining how we want
+(shining how we want)
+Brighter than the sun
+
+Brighter than the sun
+Brighter than the sun
+Brighter than the sun
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+
+Oh, this is how it starts
+Lightning strikes the heart
+It goes off like a gun
+Brighter than the sun
+
+
 

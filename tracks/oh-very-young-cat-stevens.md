@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-very-young-cat-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/catstevens/ohveryyoung.html
 name: Oh Very Young
 rankings:
 - end_date: '1974-03-22'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
 ---
+
+Oh very young
+What will you leave us this time
+You're only dancing on this earth for a short while
+And though your dreams may toss and turn you now
+They will vanish away like your daddy's best jeans
+Denim Blue fading up to the sky
+And though you want him to last forever
+You know he never will
+(You know he never will)
+And the patches make the goodbye harder still
+
+Oh very young
+What will you leave us this time
+There'll never be a better chance to change your mind
+And if you want this world to see a better day
+Will you carry the words of love with you
+Will you ride the great white bird into heaven
+And though you want to last forever
+You know you never will
+(You know you never will)
+And the goodbye makes the journey harder still
+
+Oh very young
+What will you leave us this time
+You're only dancing on this earth for a short while
+Oh very young
+What will you leave us this time
+
+
 

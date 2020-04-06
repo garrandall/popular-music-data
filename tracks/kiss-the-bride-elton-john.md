@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-the-bride-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/kissthebride.html
 name: Kiss The Bride
 rankings:
 - end_date: '1983-08-12'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
 ---
+
+Well she looked a peach in the dress she made
+When she was still her mama's little girl
+And when she walked down the aisle everybody smiled
+At her innocence and curls
+And when the preacher said is there anyone here
+Got a reason why they shouldn't wed
+I should have stuck up my hand
+I should have got up to stand
+And this is what I should have said
+
+I wanna kiss the bride yeah!
+I wanna kiss the bride yeah!
+Long before she met him
+She was mine, mine, mine
+Don't say I do
+Say bye, bye, bye
+And let me kiss the bride yeah!
+
+Underneath her veil I could see a tear
+Trickling down her pretty face
+And when she slipped on the ring I knew everything
+Would never be the same again
+But if the groom would have known he'd have had a fit
+About his wife and the things we did
+And what I planned to say
+Yeah on her wedding day
+Well I thought it but I kept it hid
+
+
 

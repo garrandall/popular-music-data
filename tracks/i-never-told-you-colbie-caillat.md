@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-never-told-you-colbie-caillat
+lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/inevertoldyou.html
 name: I Never Told You
 rankings:
 - end_date: '2010-04-16'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
 ---
+
+I miss those blue eyes
+How you kiss me at night
+I miss the way we sleep
+Like there's no sunrise
+Like the taste of your smile
+I miss the way we breathe
+
+But I never told you
+What I should have said
+No, I never told you
+I just held it in
+
+And now I miss everything about you
+I can't believe it, I still want you
+After all the things we've been through
+I miss everything about you
+Without you, whoa...
+
+I see your blue eyes
+Every time I close mine
+You make it hard to see
+Where I belong to
+When I'm not around you
+It's like I'm not with me
+
+But I never told you
+What I should have said
+No, I never told you
+I just held it in
+
+And now I miss everything about you (still you're gone)
+I can't believe it, I still want you (And I'm lovin' you, I never should have walked away)
+After all the things we've been through (I know it's never gonna come again)
+I miss everything about you
+Without you, whoa...
+
+But I never told you
+What I should have said
+No I never told you
+I just held it in
+
+And now I miss everything about you (still you're gone)
+Can't believe it, I still want you (And I'm lovin' you, I never should have walked away)
+After all the things we've been through (I know itâs never gonna come again)
+I miss everything about you
+Without you, whoa, no, no...
+
+
 

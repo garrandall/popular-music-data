@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-safety-dance-men-without-hats
+lyrics_url: https://www.azlyrics.com/lyrics/sleepingatlast/thesafetydance.html
 name: The Safety Dance
 rankings:
 - end_date: '1983-07-01'
@@ -103,4 +104,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
 ---
+
+We can dance if we want to
+We can leave your friends behind
+Cause your friends don't dance 
+And if they don't dance then their no friends of mine
+
+We can go where we want to
+A place where they'll never find
+We can act like we've come from out of this world
+Leave the real one far behind
+
+And we can dance or sing
+
+We can go when we want to 
+The night is young and so am I
+And we can dress real neat from our hats to our feet
+And surprise 'em with the victory cry
+
+Say, we can act if we want to 
+If we don't, nobody will
+And you can act real rude and totally removed
+And I can act like an imbecile
+
+And say, we can dance, we can dance
+Everything's out of control
+We can dance, we can dance
+They're doing it from wall to wall
+We can dance, we can dance
+Everybody look at your hands
+We can dance, we can dance
+Everybody's taking, taking little chance
+
+We can dance if we want to
+We've got all your life and mine
+As long as we abuse it, never gonna lose it
+Everything'll work out right
+
+I say, we can dance if we want to
+We can leave your friends behind
+Because your friends don't dance and if they don't dance
+Well, they're no friends of mind
+
+And say, we can dance, we can dance
+Everything's out of control
+We can dance, we can dance
+They're doing it from wall to wall
+We can dance, we can dance
+Everybody look at your hands
+We can dance, we can dance
+Everybody's taking, taking little chance
+
+The safety dance 
+
+
 

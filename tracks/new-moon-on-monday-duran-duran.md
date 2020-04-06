@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-moon-on-monday-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/newmoononmonday.html
 name: New Moon On Monday
 rankings:
 - end_date: '1984-01-20'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
 ---
+
+Shake up the picture the lizard mixture
+With your dance on the eventide
+You got me coming up with answers
+All of which I deny
+I said it again
+Could I please rephrase it
+Maybe I can catch a ride
+I couldn't really put it much plainer
+But I'll wait till you decide
+Send me your warning siren
+As if I could ever hide
+Last time La Luna
+
+
+
+I light my torch and wave it for the
+New moon on Monday
+And a firedance through the night
+I stayed the cold day with a lonely satellite
+
+Breaking away with the best of both worlds
+A smile that you can't disguise
+Every minute I keep finding
+Clues that you leave behind
+Save me from these reminders
+As if I'd forget tonight
+This time La Luna
+
+
+
+
 

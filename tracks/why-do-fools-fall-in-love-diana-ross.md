@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-do-fools-fall-in-love-diana-ross
+lyrics_url: https://www.azlyrics.com/lyrics/dianaross/whydofoolsfallinlove.html
 name: Why Do Fools Fall In Love
 rankings:
 - end_date: '1981-10-23'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
 ---
+
+Ooh-wah, ooh-wah
+Ooh-wah, ooh-wah
+Ooh-wah, ooh-wah
+Why do fools fall in love
+
+Why do birds sing so gay
+And lovers await the break of day
+Why do they fall in love
+Why does the rain
+Fall from up above
+Why do fools fall in love
+Why do they fall in love
+
+Love is a losing game
+Love can be a shame
+I know of a fool you see
+For that fool is me
+Tell my why
+Tell me why
+
+Why do birds sing so gay
+And lovers await the break of day
+Why do they fall in love
+Why does the rain
+Fall from up above
+Why do fools fall in love
+Why do they fall in love
+
+Why does my heart skip a crazy beat
+For I know
+It will reach defeat
+Tell me why
+Tell my why
+Why do fools fall in love
+
+
 

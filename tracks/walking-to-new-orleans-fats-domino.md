@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-to-new-orleans-fats-domino
+lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/walkingtoneworleans.html
 name: Walking To New Orleans
 rankings:
 - end_date: '1960-06-26'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
 ---
+
+This time I'm walking to New Orleans
+I'm walking to New Orleans
+I'm gonna need two pair-a shoes
+When I get through walking these blues
+When I get back to New Orleans
+
+I've got my suitcase in my hand
+Now ain't that a shame?
+I'm leaving here today
+Yes, I'm going back home to stay
+Yes, I'm walking to New Orleans
+
+You used to be my honey
+Till you spent all my money
+No use for you to cry
+I'll see you by and by
+'Cause I'm walking to New Orleans
+
+I've got no time for talking
+I've got to keep on walking
+New Orleans is my home
+That's the reason why I'm gone
+Yes I'm walking to New Orleans
+New Orleans is my home
+That's the reason why I'm gone
+Yes I'm walking to New Orleans
+
+Walking, walking, walking
+(Walking to New Orleans)
+I'm walking, walking, walking
+
+I'm walking to New Orleans
+I'm walking, walking, walking
+I'm walking to New Orleans
+I'm walking to New Orleans
+I'm walking, walking, walking, walk-
+I'm walking to New Orleans
+I'm walking to New Orleans
+I'm walking to New Orleans
+I'm walking to New Orleans
+I'm walking to New Orleans
+
+
 

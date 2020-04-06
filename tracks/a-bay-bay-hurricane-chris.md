@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-bay-bay-hurricane-chris
+lyrics_url: https://www.azlyrics.com/lyrics/hurricanechris/abaybay.html
 name: A Bay Bay
 rankings:
 - end_date: '2007-06-29'
@@ -87,4 +88,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
 ---
+
+
+Dis baby doin' everybody say A Bay Bay
+
+
+A Bay Bay, A Bay Bay, A Bay Bay 
+
+
+You wanna know what we say in da club (A Bay Bay)
+White folks, gangstas, and the thugs (A Bay Bay)
+Stuntin with a stacks of dem dubs (A Bay Bay)
+Ridin in the lac' with a mug (A Bay Bay)
+
+I'm in da club hollerin
+A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay 
+I'm in da club hollerin
+
+
+Now when I holla A Bay Bay,
+I'm finna get my groove on
+It's so hot up in da club
+That I ain't got no shoes on
+Holdin up a big stack of dem honeys
+In a rubberband
+So don't ask me for no cash
+Cause I'm not that other man
+Everybody trippin cause I'm limpin when I'm walkin
+And I'm pimpin when I'm talkin
+I don't trick 'em when I'm talkin
+Them boys in the back
+They be rollin up they dopey
+And they blow until choke
+And that's what got his got his game flossin
+Wen I see a bad chick I'm hollerin out A Bay Bay
+Hope ya'll ain't with your boyfriend
+Cause I don't care what they say
+And I don't care what he say, or she say
+I'm in the DJ both takin pics. with the DJ
+You wanna know what we say
+When the clubs get crunk (wat) A Bay Bay
+Let it play that's my song turn it up (ok)
+You wanna know what we say
+When the clubs get crunk (wat) A Bay Bay
+Let it play that's my song turn it up
+
+
+
+
+Now if you lookin for me baby
+You can find me bangin in the chevy
+Candy painted swangin 90
+Big cars creep with my people right behind me
+I showed 'em my chain
+And now she hollerin where you findin me
+Show my mouth piece to them freaks
+Now they hirin me
+Oh u gotta fire dem well I hope you ain't tryin me
+Throw the car in park then I reach under my seat
+Hop out with my hand under my shirt
+That's where that 9 be
+Yellowbone tryna chirp me
+She tryna see where I be
+You goin to let me get in your mouth
+Well that's where I'm a be
+Unpop trunk with lights
+That's where the chopper be
+Straight to the hotel
+All the baddest chicks followin me
+I know you like my style
+I ain't trippin I'm just tryna see
+Girl is you drunk
+Well tell me why you leanin on me
+And if you thankin I'm a stunt you trippin
+I pulled up in an expedition with the roof missin
+
+
+
+
+A Bay Bay let it play that's my song turn it up
+I'm in the club hot, crunk, sweatin, burnin up
+I'm bouncin thru the crowd
+Buckin, and hollerin wass up
+When I done fell out on the dance floor
+And now I can't get up
+J's on ya feet but you can't get ease
+Loui vaton brown, white, and yellow trick please
+I go to Saint Louis and let my chain hang low
+Conary yellow diamonds mixed with rows gold
+I shine real bright in the light cause I'm a star
+8 shots of patron now I'm standin on the bar
+Tried to get drunk as a skunk
+And put the keys in the wrong car
+Prolly got drunk as a skunk
+And put the keys in the wrong car
+
+
+
+A Bay Bay let it play that's my song turn it up hey 
+
+
 

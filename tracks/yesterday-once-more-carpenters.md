@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yesterday-once-more-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/yesterdayoncemore.html
 name: Yesterday Once More
 rankings:
 - end_date: '1973-06-08'
@@ -63,4 +64,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
+
+When I was young
+I'd listen to the radio
+Waitin' for my favorite songs
+When they played I'd sing along
+It made me smile
+
+Those were such happy times
+And not so long ago
+How I wondered where they'd gone
+But they're back again
+Just like a long lost friend
+All the songs I loved so well
+
+Every Sha-la-la-la
+Every Wo-o-wo-o
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing's
+So fine
+
+When they get to the part
+Where he's breakin' her heart
+It can really make me cry
+Just like before
+It's yesterday once more
+
+Lookin' back on how it was
+In years gone by
+And the good times that I had
+Makes today seem rather sad
+So much has changed
+
+It was songs of love that
+I would sing to then
+And I'd memorize each word
+Those old melodies
+Still sound so good to me
+As they melt the years away
+
+Every Sha-la-la-la
+Every Wo-o-wo-o
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing's
+So fine
+
+All my best memories
+Come back clearly to me
+Some can even make me cry
+Just like before
+It's yesterday once more
+
+Every Sha-la-la-la
+Every Wo-o-wo-o
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing's
+So fine
+
+Every Sha-la-la-la
+Every Wo-o-wo-o
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing's
+So fine
+
+
 

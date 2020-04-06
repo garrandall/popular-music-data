@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shiftwork-kenny-chesney-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/shiftwork.html
 name: Shiftwork
 rankings:
 - end_date: '2008-01-25'
@@ -72,4 +73,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
 ---
+
+Shift work, hard work, tired body
+Blue-collar shirt and a baseball cap
+You knew me
+
+He's hot, sweat drops, 'round the clock
+Door never locks
+Noise never stops
+Not all day
+Work seven to three
+Three to eleven
+Eleven to seven
+
+Shift work, tough work for the busy convenience store clerk
+Two feet that hurt, going insane
+She's mad at some lad
+Drove off and didn't pay for his gas and he won't be the last
+'round the clock pain
+Work seven to three
+Three to eleven
+Eleven to seven
+
+
+Talking about a bunch of shift work
+A big ol' pile of shift work
+Work seven to three
+Three to eleven
+Eleven to seven
+
+Well i work, shift work,
+Ten years man, i hated that work
+I made a break with the money i saved
+It took me to the beach to have a beer by the edge of the sea
+And this 'round a clock place
+I drank my money away
+We partied
+Work seven to three
+Three to eleven
+Eleven to seven
+
+
+
+
+
+
+
+Work seven to three
+Three to eleven
+Eleven to seven
+
+
 

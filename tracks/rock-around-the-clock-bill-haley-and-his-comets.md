@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-around-the-clock-bill-haley-and-his-comets
+lyrics_url: https://www.azlyrics.com/lyrics/adrianocelentano/awomaninloverockaroundtheclock.html
 name: Rock Around The Clock
 rankings:
 - end_date: '1974-03-22'
@@ -63,4 +64,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+
+Your eyes are the eyes
+Of a woman in love
+And oh, how they give you away
+
+Why try to deny
+You're a woman in love
+When I know
+Very well what I say
+
+I say no moon in the sky
+Ever lent such a glow
+Some flame deep within
+Made them shine
+
+Those eyes are the eyes
+Of a woman in love
+And may they gaze
+Ever more into mine
+Crazily gaze
+Ever more into mine
+
+One, two, three o'clock, four o'clock, rock
+Five, six, seven o'clock, eight o'clock, rock
+Nine, ten, eleven o'clock, twelve o'clock, rock
+We're gonna rock around the clock tonight
+
+Put your glad rags on and join me, hon
+We'll have some fun when the clock strikes one
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'til broad daylight
+We're gonna rock, gonna rock, around the clock tonight
+
+When the clock strikes two, three and four
+If the band slows down we'll yell for more
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'til broad daylight
+We're gonna rock, gonna rock, around the clock tonight
+
+When the chimes ring five, six and seven
+We'll be right in seventh heaven
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'til broad daylight
+We're gonna rock, gonna rock, around the clock tonight
+
+When it's eight, nine, ten, eleven too
+I'll be goin' strong and so will you
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'til broad daylight
+We're gonna rock, gonna rock, around the clock tonight
+
+When the clock strikes twelve, we'll cool off then
+Start a rockin' round the clock again
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'til broad daylight
+We're gonna rock, gonna rock, around the clock tonight
+
+
 

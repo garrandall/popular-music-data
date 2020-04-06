@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soul-meets-body-death-cab-for-cutie
+lyrics_url: https://www.azlyrics.com/lyrics/deathcabforcutie/soulmeetsbody.html
 name: Soul Meets Body
 rankings:
 - end_date: '2005-10-14'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-11'
 ---
+
+I want to live where soul meets body
+And let the sun wrap its arms around me
+And bathe my skin in water cool and cleansing
+And feel, feel what its like to be new
+
+Cause in my head thereâs a greyhound station
+Where I send my thoughts to far off destinations
+So they may have a chance of finding a place
+where theyâre far more suited than here
+
+And I cannot guess what we'll discover
+When we turn the dirt with our palms cupped like shovels
+But I know our filthy hands can wash one anotherâs
+And not one speck will remain
+
+And I do believe itâs true
+That there are roads left in both of our shoes
+But if the silence takes you
+Then I hope it takes me too
+So brown eyes I hold you near
+Cause youâre the only song I want to hear
+A melody softly soaring through my atmosphere
+
+Where soul meets body
+Where soul meets body
+Where soul meets body
+
+And I do believe itâs true
+That there are roads left in both of our shoes
+But if the silence takes you
+Then I hope it takes me too
+So brown eyes I hold you near
+Cause youâre the only song I want to hear
+A melody softly soaring through my atmosphere
+A melody softly soaring through my atmosphere
+A melody softly soaring through my atmosphere
+A melody softly soaring through my atmosphere
+
+
 

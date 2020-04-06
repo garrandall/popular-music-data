@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnite-maniac-krokus
+lyrics_url: https://www.azlyrics.com/lyrics/krokus/midnitemaniac.html
 name: Midnite Maniac
 rankings:
 - end_date: '1984-09-21'
@@ -31,4 +32,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
 ---
+
+Did you read it in the paper
+'Bout the danger comin' your way
+She'll tear you up at midnight
+Killer on the loose get out of her way
+
+Sex machine terrorizin' dream
+Lock the door tonight
+She's got it all she can walk through a wall
+Better run for your life
+
+And in the light of day
+In hidin' she will stay
+Watch out at midnight
+Feel her shadow on your face
+
+Midnite maniac, she's a killer at large
+Midnite maniac, lock your door
+Cause she can't be far
+
+Did you hear it on the radio
+Crimes of passion makin' the news
+It happened after midnight
+In your neighborhood could've been you
+
+Sex machine terrorizin' dream
+Lock the door tonight Instant Song Lyrics
+She's got it all she can walk through a wall
+Better run for your life
+
+And in the light of day
+In hidin' she will stay
+Watch out at midnight
+Feel her shadow on your face
+
+Midnite maniac, she's a killer at large
+Midnite maniac, lock your door
+Cause she can't be far
+
+Midnite maniac, she's a killer at large
+Midnite maniac, lock your door
+She knows where you are
+
+Midnite maniac, she's a killer at large
+Midnite maniac, lock your door
+Cause she can't be far
+
+Midnite maniac, she's a killer at large
+Midnite maniac, lock your door
+She knows where you are
+
+
 

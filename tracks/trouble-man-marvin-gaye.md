@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-man-marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/troubleman.html
 name: Trouble Man
 rankings:
 - end_date: '1972-12-22'
@@ -55,4 +56,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
 ---
+
+I've come up hard baby
+And now I'm cool
+Didn't make it sugar
+Playing by the rules
+I've come up hard baby
+But now I'm fine.
+In checking trouble sugar
+Moving down the line
+I've come up hard baby
+But that's ok
+'Coz trouble man
+Don't get in my way
+I've come up hard baby
+I've been for real
+Gonna keep on moving
+Gonna go to town
+I've come up hard
+Come up and get down
+There's only three things that's for sure
+Taxes death and trouble
+This I know baby
+Oh I've come up hard baby
+With a troubled mind
+But then I've got my share
+Of what's mine
+Oh I've come up hard baby
+But that's Ok
+'Coz trouble man
+Don't get in my way
+Oh I've come up hard baby
+I know some places
+And I see some faces,
+I've got the connections,
+They dig my directions, 
+What people say
+That's ok
+They don't bother me
+I'm ready to make it
+Don't care what the weather
+Don't care about no trouble
+Got myself together
+Got the kind of protection
+It's all around me
+I've come up hard but now I'm cool
+I didn't make it baby
+Playing by the rules
+Oh I've come up hard baby
+But that's Ok
+'Coz trouble man
+Don't get in my way
+Oh I've come up hard baby
+With the troubled mind
+But then I've got my share
+Of what's mine
+I've come up hard
+But now I'm fine
+Checking trouble sugar
+Moving down the line...
+
+
 

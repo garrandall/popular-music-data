@@ -6,6 +6,7 @@ features:
 - MO
 genres: []
 key: lean-on-major-lazer-dj-snake-mo
+lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/leanon.html
 name: Lean On
 rankings:
 - end_date: '2015-05-01'
@@ -201,4 +202,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
 ---
+
+Do you recall, not long ago
+We would walk on the sidewalk
+Innocent, remember?
+All we did was care for each other
+
+But the night was warm
+We were bold and young
+All around the wind blows
+We would only hold on to let go
+
+
+Blow a kiss, fire a gun
+We need someone to lean on
+Blow a kiss, fire a gun
+All we need is somebody to lean on
+
+(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+
+What will we do when we get old?
+Will we walk down the same road?
+Will you be there by my side?
+Standing strong as the waves roll over
+
+When the nights are long
+Longing for you to come home
+All around the wind blows
+We would only hold on to let go
+
+
+Blow a kiss, fire a gun
+We need someone to lean on
+Blow a kiss, fire a gun
+All we need is somebody to lean on
+
+(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+All we need is somebody to lean on
+(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+All we need is somebody to lean on
+Lean on, lean on, lean on, lean on...
+
+
+Blow a kiss, fire a gun
+We need someone to lean on
+Blow a kiss, fire a gun
+All we need is somebody to lean on
+
+
 

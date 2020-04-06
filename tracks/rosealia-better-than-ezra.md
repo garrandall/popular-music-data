@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rosealia-better-than-ezra
+lyrics_url: https://www.azlyrics.com/lyrics/betterthanezra/rosealia.html
 name: Rosealia
 rankings:
 - end_date: '1995-12-01'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
 ---
+
+Where have you gone, my Rosealia?
+Into the crowd, he'll never find you.
+If you walk real fast, and you stay down low.
+So many times, so many chances, this one could be your last.
+
+
+You say no, no, no, the fighting has left you tired.
+You say no, no, no, but the fighting goes on.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+
+What has he done, my senorita?
+His kind of love is going to kill you.
+Do you fake a smile when you dodge the blows?
+So many times, so many chances.
+This one could be your last.
+
+
+You say no, no, no, the fighting has left you tired.
+You say no, no, no, but the fighting goes on.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+
+
+Jealousy can rip your heart out.
+And jealousy can turn a hand into a fist.
+
+
+You say no, no, no, the fighting has left you tired.
+You say no, no, no, but the fighting goes on.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+Put on your mask, wearing your cape.
+Put on your mask, my Rosealia.
+
+Rosealia...
+
+
 

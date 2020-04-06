@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-tomorrow-goodbye-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/kisstomorrowgoodbye.html
 name: Kiss Tomorrow Goodbye
 rankings:
 - end_date: '2012-09-14'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
 ---
+
+All we do right is make love and
+We both know now that ainât enough
+Ainât gonna beg you to stay
+Ain't gotta ask you what's wrong
+Ainât no reason running after something already gone
+Take off your leavin' dress
+Letâs do what we do best
+I guess everybodyâs got their way of moving on
+Girl rest your head one more time in my bed
+Love me like you loved me when you loved me
+And you didnât have to try
+Letâs lay down tonight
+And kiss tomorrow goodbye
+
+Baby who we are just didnât work
+But maybe we can leave with something out of all this hurt
+Ainât gonna beg you to stay
+Ainât gotta ask you whatâs wrong
+Ainât no reason running after something already gone
+Take off your leavin' dress
+Letâs do what we do best
+I guess everybodyâs got their way of moving on
+Girl rest your head one more time in my bed
+Love me like you loved me when you loved me
+And you didnât have to try
+Letâs lay down tonight
+And kiss tomorrow goodbye
+
+Ainât gonna beg you to stay
+Ainât gotta ask you whatâs wrong
+Ainât no reason running after something already gone
+Take off your leavin' dress
+Letâs do what we do best
+I guess everybodyâs got their way of moving on
+Girl rest your head one more time in my bed
+Love me like you loved me when you loved me
+And you didnât have to try
+Letâs lay down tonight
+And kiss tomorrow goodbye
+Kiss tomorrow goodbye.
+
+
 

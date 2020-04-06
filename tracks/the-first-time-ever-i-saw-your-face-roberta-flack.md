@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-first-time-ever-i-saw-your-face-roberta-flack
+lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/thefirsttimeeverisawyourface.html
 name: The First Time Ever I Saw Your Face
 rankings:
 - end_date: '1972-03-10'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
 ---
+
+The first time ever I saw your face
+I thought the sun rose in your eyes
+And the moon and the stars were the gifts you gave
+To the dark and the endless skies, my love
+To the dark and the endless skies
+
+And the first time ever I kissed your mouth
+I felt the earth move in my hand
+Like the trembling heart of a captive bird
+That was there at my command, my love
+That was there at my command, my love
+
+And the first time ever I lay with you
+I felt your heart so close to mine
+And I knew our joy would fill the earth
+And last 'til the end of time, my love
+And it would last 'til the end of time, my love
+
+The first time ever I saw your face
+Your face
+Your face
+Your face
+
+
 

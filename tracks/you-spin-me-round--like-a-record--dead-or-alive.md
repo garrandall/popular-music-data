@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-spin-me-round--like-a-record--dead-or-alive
+lyrics_url: https://www.azlyrics.com/lyrics/gleecast/youspinmeroundlikearecord.html
 name: You Spin Me Round (Like A Record)
 rankings:
 - end_date: '1985-06-07'
@@ -79,4 +80,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+
+
+You spin me right round, baby (You spin me)
+Right round like a record, baby (You spin me)
+Right round round round
+
+
+If I, I get to know your name
+Well I, could trace your private number, baby
+
+All I know is that to me
+You look like you're lots of fun
+Open up your loving arms
+I want some, want some
+
+I've set my sights on you
+And I have got to have my way now, baby
+
+
+All I know is that to me
+You look like you're having fun
+Open up your loving arms
+Watch out, here I come
+
+
+You spin me right round, baby (You spin me)
+Right round like a record, baby (You spin me)
+Right round round round
+
+You spin me right round, baby (You spin me)
+Right round like a record, baby (You spin me)
+Right round round round
+
+
+I, I got to be your friend now, baby
+And I, would like to move it just a little bit closer
+
+All I know is that to me
+You look like you're lots of fun
+Open up your loving arms
+Watch out, here I come
+
+
+You spin me right round, baby (You spin me)
+Right round like a record, baby (You spin me)
+Right round round round
+
+You spin me right round, baby (You spin me)
+Right round like a record, baby (You spin me)
+Right round round round
+
+
+I want your love
+(I want your love)
+
+
+All I know is that to me
+You look like you're lots of fun
+Open up your loving arms
+Watch out, here I come
+
+
+You spin me right round, baby
+Right round like a record, baby
+Right round round round (Oh whoa)
+
+You spin me right round, baby (The Warblers: You spin me)
+Right round like a record, baby
+Right round round round (Oh whoa)
+
+You spin me right round, baby (The Warblers: You spin me)
+Right round like a record, baby
+Right round round round (I want your love)
+
+You spin me right round, baby
+Right round like a record, baby
+Right round round round (I want your love)
+
+You spin me right round, baby
+Right round like a record, baby
+Right round round round (I need your love)
+
+You spin me right round, baby
+Right round like a record, baby
+Right round round round
+
+
 

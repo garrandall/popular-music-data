@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-left-of-me-nick-lachey
+lyrics_url: https://www.azlyrics.com/lyrics/nicklachey/whatsleftofme.html
 name: What's Left Of Me
 rankings:
 - end_date: '2006-03-17'
@@ -107,4 +108,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
 ---
+
+Watch my life,
+Pass me by,
+In the rear view mirror
+Pictures frozen in time
+Are becoming clearer
+I don't wanna waste another day
+Stuck in the shadow of my mistakes
+
+Yeah...
+
+
+Cause I want you,
+And I feel you,
+Crawling underneath my skin
+Like a hunger,
+Like a burning,
+To find a place I've never been
+Now I'm broken,
+And I'm faded,
+I'm half the man I thought I would be:
+But you can have what's left of me
+
+I've been dying inside,
+Little by little,
+No where to go,
+But going out of my mind
+In endless circles,
+Running from my self until,
+You gave me a reason for standing still
+
+
+
+It's falling faster,
+Barely breathing,
+Give me something,
+To believe in
+Tell me: It's not all in my head
+
+Take what's left
+Of this man
+Make me whole
+Once again
+
+
+
+I've been dying inside you see
+I'm going out of my mind
+Out of my mind
+I'm just running in circles all the time
+Will you take what's left
+Will you take what's left
+Will you take what's left of me?
+Just running in circles in my mind
+Will you take what's left
+Will you take what's left
+Will you take what's left of me?
+
+
 

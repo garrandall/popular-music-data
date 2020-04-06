@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-girl-belongs-to-yesterday-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/thatgirlbelongstoyesterday.html
 name: That Girl Belongs To Yesterday
 rankings:
 - end_date: '1964-01-24'
@@ -35,4 +36,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
 ---
+
+Last night I needed you so bad
+I was alone and feeling sad
+But now that I recall
+You left me after all
+The only girl I've ever had
+
+I never ever made you cry
+No, no I didn't even try
+You promised you'd be true
+You said you loved me too
+My only girl told me a lie
+
+Maybe there'll come a day
+When I can smile and say
+She used to be my girl
+
+But now there's nothing left to say
+She only wanted me for play
+I learned my lesson fast
+But now I know at last
+That girl belongs to yesterday
+
+My only girl
+My only girl
+I learned my lesson fast
+But now I know at last
+That girl belongs to yesterday
+That girl she belongs to yesterday
+
+
 

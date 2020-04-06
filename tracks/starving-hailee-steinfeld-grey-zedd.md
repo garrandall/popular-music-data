@@ -6,6 +6,7 @@ features:
 - Zedd
 genres: []
 key: starving-hailee-steinfeld-grey-zedd
+lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/starving.html
 name: Starving
 rankings:
 - end_date: '2016-08-26'
@@ -125,4 +126,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
 ---
+
+You know just what to say
+Things that scare me
+I should just walk away
+But I can't move my feet
+
+The more that I know you, the more I want to
+Something inside me's changed
+I was so much younger yesterday, oh
+
+I didn't know that I was starving 'til I tasted you
+Don't need no butterflies when you give me the whole damn zoo
+By the way, right away you do things to my body
+I didn't know that I was starving 'til I tasted you
+
+I didn't know that I... I didn't know that I... 'til I tasted you
+I didn't know that I... I didn't know that I... 'til I tasted you
+
+By the way, right away you do things to my body
+I didn't know that I was starving 'til I tasted you
+
+You know just how to make
+My heart beat faster
+Emotional earthquake
+Bring on disaster
+
+You hit me head on, got me weak in my knees
+Yeah, something inside me's changed
+I was so much younger yesterday, aye
+So much younger yesterday, oh, yeah
+
+I didn't know that I was starving 'til I tasted you
+Don't need no butterflies when you give me the whole damn zoo
+By the way, right away you do things to my body
+I didn't know that I was starving 'til I tasted you
+
+I didn't know that I... I didn't know that I... 'til I tasted you
+I didn't know that I... I didn't know that I... 'til I tasted you
+
+By the way, right away you do things to my body
+I didn't know that I was starving 'til I tasted you
+You, yeah, 'til I tasted you
+
+I didn't know that I... I didn't know that I... 'til I tasted you
+
+By the way, right away you do things to my body
+I didn't know that I was starving 'til I tasted you
+
+The more that I know you, the more I want to
+Something inside me's changed
+I was so much younger yesterday
+
+
 

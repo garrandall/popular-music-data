@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foolish-pride-daryl-hall
+lyrics_url: https://www.azlyrics.com/lyrics/darylhall/foolishpride.html
 name: Foolish Pride
 rankings:
 - end_date: '1986-10-24'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
 ---
+
+When I'm hurt then I come on strong
+I wanna break down
+But I just keep it in
+Being too strong is the weakness, girl
+'Cause when you fight the world
+You know who's gonna win
+
+And you say I won't look you in the eye
+It's like talking to the wall
+But a wall can crumble down
+Yeah, there's something that's deep inside
+That's gotta be tough
+Whenever you're around 
+
+And I've got this foolish pride
+And pride goes before a fall
+Yeah, I've got this foolish pride
+
+Foolish pride
+Fool, fool, foolish, foolish pride
+
+You make me feel like the livin' end
+But the end came quick
+And made me wanna die
+So I played like I didn't care
+I didn't mess my hair
+Believe me, I don't know why 
+
+But I've got this foolish pride
+And pride goes before a fall
+But I've got this foolish pride
+
+Foolish pride
+Fool, fool foolish, foolish pride 
+
+If I wanted I could have fooled 'em all
+That's great 'til tomorrow when I'm all alone
+You know the truth comes out in the end
+When the fools start falling they need their friends
+
+Fool, foolish, foolish pride
+Fool, foolish pride
+Fool, foolish, foolish pride
+Fool, foolish pride
+Fool, foolish, foolish pride
+Fool, foolish pride
+
+
 

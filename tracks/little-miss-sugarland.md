@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-miss-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/littlemiss.html
 name: Little Miss
 rankings:
 - end_date: '2010-11-05'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
 ---
+
+Little miss done on love
+Little miss, I give up
+Little miss, I'll get tough, don't you worry about me anymore
+Little miss checkered dress
+Little miss, one big mess
+Little miss, I'll take less when I always give so much more
+
+It's alright, it's alright, it's alright
+Yeah, sometimes you gotta lose 'til you win
+It's alright, it's alright, it's alright
+It'll be alright again
+It'll be alright again, I'm okay
+It'll be alright again, I'm okay (I'm okay)
+It'll be alright again, I'm okay
+
+Little miss, do your best
+Little miss, never rest
+Little miss, be my guest, I'll make more anytime that it runs out
+Little miss, you'll go far
+Little miss, hide your scars
+Little miss, who you are is so much more than you like to talk about
+
+It's alright, it's alright, it's alright
+Yeah, sometimes you gotta lose 'til you win
+It's alright, it's alright, it's alright
+It'll be alright again
+It'll be alright again, I'm okay
+It'll be alright again, I'm okay (I'm okay)
+It'll be alright again, I'm okay
+
+Hold on
+Hold on, you are loved
+Are loved...
+
+Little miss, brand new start
+Little miss, do your part
+Little miss, big old heart beats wide open and she's ready now for love
+
+It's alright, it's alright, it's alright
+Yeah, sometimes you gotta lose 'til you win
+It's alright, it's alright, it's alright
+It'll be alright again
+It'll be alright again, I'm okay
+It'll be alright again, I'm okay (I'm okay, it'll be alright again)
+I'm okay! (It'll be alright again)
+
+
 

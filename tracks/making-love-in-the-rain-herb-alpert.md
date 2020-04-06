@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: making-love-in-the-rain-herb-alpert
+lyrics_url: https://www.azlyrics.com/lyrics/herbalpert/makingloveintherain.html
 name: Making Love In The Rain
 rankings:
 - end_date: '1987-07-24'
@@ -63,4 +64,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
 ---
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+Making love all alone
+I hear the rain on my window
+
+It's just a little thing
+But it means so much to me
+Our bodies together while
+The rain plays a melody
+
+Every raindrop
+Makes think of you
+(Wishing you
+Were close to me)
+There is nothing
+That I'd rather do than
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+Making love all alone
+I hear the rain on my window
+
+When it's stormy outside
+It's warm in my heart
+With you in my arms
+
+And when you're away from me
+I wish it would rain
+Cause it's always the same
+
+Every raindrop
+Makes think of you
+(Wishing you
+Were close to me)
+There is nothing
+That I'd rather do than
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+(I can't believe)
+When we're done, all alone
+I hear the rain on my window
+(On my window)
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+(Making love)
+
+Making love all alone
+I hear the rain on my window
+(On my window)
+(I hear the raindrops flow)
+
+Every raindrop
+Makes think of you
+(Wishing you were
+Close to me)
+There is nothing
+That I'd rather do than
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+(Making love)
+
+When we're here all alone
+I hear the rain on my window
+(On my window, I hear it)
+
+Making love in the rain
+I can't believe the
+Joy it brings me
+
+All alone, I hear the rain
+My love, here comes the rain
+My love, here comes the rain
+My love, here comes the rain
+My love, here comes the rain
+
+
 

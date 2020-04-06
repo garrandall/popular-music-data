@@ -5,6 +5,7 @@ features:
 - DeJ Loaf
 genres: []
 key: be-real-kid-ink-dej-loaf
+lyrics_url: https://www.azlyrics.com/lyrics/kidink/bereal.html
 name: Be Real
 rankings:
 - end_date: '2015-05-08'
@@ -88,4 +89,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
 ---
+
+
+You ain't got no will, you ain't got no bottle
+Let's just be honest, let's just be real
+You ain't got no cash, you ain't got no dollars
+You stay with that drama, let's just be real
+Let's just be honest, let's just be real
+Yeah, let's just be honest, let's just be real
+
+
+Uh, just keep it real with ya
+You the only nigga here feeling yourself
+Walk in, them bitches start filming
+They sittin' with a man, thotty ass still grinning, it's on
+Honest, so hot, mind on a comet
+Fast life sometimes feel like I'm in a comic
+I don't give a fuck, bitch with or without a condom
+Fat Joe, pockets lean back like a recliner
+I'm in this, representing West Side
+Lotta people try to tell me I'm the next guy
+Batgang, got it tatted by my left eye
+Chain gang over here, no neck tie
+Bitch you know I'm all about the business
+From beginning to the ending never simpin', never slippin'
+Sippin' P-A-T-R-O-to the-N
+And if I'm in the building know it's complaints from the tenants
+On the real
+
+
+You could call anyone you want
+I'm a kill 'em all, bet on it
+Said we the only ones that stuntin' now
+Let's just be real
+
+
+Let's just be honest, let's just be real
+Yeah let's just be honest, let's just be real
+Let's just be honest, we all know the deal
+So let's just be honest, let's just be real
+
+
+Uh, slow down back to back, it's enough, to go round back to back
+Been drinkin' like you thirsty
+How you make it to my section in the first place?
+Nah, I ain't trippin', shit is nada
+They say it ain't trickin' if you got it
+Bitch I'm a boss like Gotti
+Rock Tom Ford and I still pop Molly
+Roll up good Cali, ladeedadee
+It's just me and all my hommies
+At your door like the shining, ooh!
+Feel like can't nobody stop me, I'm a hot nigga
+And the bitch that I'm with know she hot stuff
+Pull up in the hot wheels, ballin' get yo hops up
+If you got a problem need a hotline
+9-1-1 but we don't ever call the cops, for real
+
+
+You could call anyone you want
+I'm a kill 'em all, bet on it
+Said we the only ones that stuntin' now
+Let's just be real
+
+
+Let's just be honest, let's just be real
+Yeah let's just be honest, let's just be real
+Let's just be honest, we all know the deal
+So let's just be honest, let's just be real
+
+
 

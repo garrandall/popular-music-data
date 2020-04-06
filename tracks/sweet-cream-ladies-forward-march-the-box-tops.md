@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-cream-ladies-forward-march-the-box-tops
+lyrics_url: https://www.azlyrics.com/lyrics/boxtops/sweetcreamladiesforwardmarch.html
 name: Sweet Cream Ladies Forward March
 rankings:
 - end_date: '1969-01-03'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
 ---
+
+Sweet cream ladies, forward march
+The world owes you a living
+Sweet cream ladies, do your part
+Think of what you're giving
+To the lost and lonely people of the night
+Out of need, they seek direction for their life
+They will love you in the darkness
+Take advantage of your starkness
+And refuse to recognize you in the light
+
+Sweet cream ladies, forward march
+Think what you're providing
+Sweet cream ladies, show your starch
+What's the use of hiding?
+Tell the socialites to look the other way
+It's instinctive stimulation you convey
+It's a necessary function
+Meant for those without compunction
+
+Who get tired of vanilla every day
+
+Sweet cream ladies forward march
+Puritans ignore them
+Sweet cream ladies do their part
+Sweet cream men adore them
+Let them satisfy the ego of the male
+Let them fabricate success to those who fail
+And should penalties pursue them
+When there's really credit due them
+They might keep a simple fellow out of jail!
+Sweet cream ladies, forward march, oooh-ooh
+Sweet cream ladies, forward march, oooh-ooh
+
+
 

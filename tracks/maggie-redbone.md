@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: maggie-redbone
+lyrics_url: https://www.azlyrics.com/lyrics/redbone/maggie.html
 name: Maggie
 rankings:
 - end_date: '1970-12-11'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
 ---
+
+Maggie was a buck and gain
+Following the hookin' game
+Boo-lah rooka hook and chain
+Maggie's eyes could cook a man
+
+But oh, she loved to tantalize
+Make it feel like paradise
+Oh, nobody cry when Maggie die
+When Maggie die - um um um
+
+Boom boom like a shi shi hand
+Take her to the rock and hang
+Rum and boogie love to dance
+Maggie didn't stand no chance
+
+But oh, she love to tantalize
+And make it feel like paradise
+And oh, nobody cry when Maggie die
+When Maggie die - oh oh oh
+
+Boom boom boom - boom poor Maggie
+Boom boom boom - poor Maggie
+Boom boom boom - boom poor Maggie
+Boom boom boom - poor Maggie
+
+Maggie was a buck and gain
+Following the hookin' game
+Boo-lah rooka hook and chain
+Maggie's eyes could cook a man
+
+But oh, she loved to tantalize
+And make it feel like paradise
+And oh, nobody cry when Maggie die
+When Maggie die - mmmm
+
+Boom boom like a shi shi hand
+Take her to the rock and hang
+Rum and boogie love to dance
+Maggie didn't stand no chance
+
+But oh, she love to tantalize
+And make it feel like paradise
+And oh, nobody cry when Maggie die
+When Maggie die - oh oh oh now
+
+Boom boom boom - boom poor Maggie
+Boom boom boom - poor Maggie
+Boom boom boom - boom poor Maggie
+Boom boom boom - poor Maggie
+
+
 

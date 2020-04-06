@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gives-you-hell-the-all-american-rejects
+lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/givesyouhell.html
 name: Gives You Hell
 rankings:
 - end_date: '2008-12-05'
@@ -151,4 +152,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
 ---
+
+I wake up every evening
+With a big smile on my face
+And it never feels out of place
+And you're still probably working
+At a nine to five pace
+I wonder how bad that tastes
+
+When you see my face
+Hope it gives you hell
+Hope it gives you hell
+When you walk my way
+Hope it gives you hell
+Hope it gives you hell
+
+Now where's your picket fence love?
+And where's that shiny car?
+And did it ever get you far?
+You never seemed so tense love
+I've never seen you fall so hard
+Do you know where you are?
+
+And truth be told I miss you
+And truth be told I'm lying
+
+When you see my face
+Hope it gives you hell
+Hope it gives you hell
+When you walk my way
+Hope it gives you hell
+Hope it gives you hell
+If you find a man that's worth a damn and treats you well
+Then he's a fool you're just as well
+Hope it gives you hell
+Hope it gives you hell
+
+Tomorrow you'll be thinking to yourself
+Where'd it all go wrong?
+But the list goes on and on
+
+And truth be told I miss you
+And truth be told I'm lying
+
+When you see my face
+Hope it gives you hell
+Hope it gives you hell
+When you walk my way
+Hope it gives you hell
+Hope it gives you hell
+When you find a man that's worth a damn and treats you well
+Then he's a fool, you're just as well
+Hope it gives you hell
+
+Now you'll never see
+What you've done to me
+You can take back your memories
+They're no good to me
+And here's all your lies
+You can look me in the eyes
+With the sad, sad look
+That you wear so well
+
+When you see my face
+Hope it gives you hell
+Hope it gives you hell
+When you walk my way
+Hope it gives you hell
+Hope it gives you hell
+When you find a man that's worth a damn and treats you well
+Then he's a fool you're just as well
+Hope it gives you hell
+
+When you see my face
+Hope it gives you hell
+Hope it gives you hell
+When you walk my way
+Hope it gives you hell
+Hope it gives you hell
+When you hear this song and you sing along but you'll never tell
+Then you're the fool, I'm just as well
+Hope it gives you hell
+
+When you hear this song
+I hope that it will give you hell
+
+You can sing along
+I hope that it puts you through hell
+
+
 

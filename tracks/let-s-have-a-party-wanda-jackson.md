@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-have-a-party-wanda-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/letshaveaparty.html
 name: Let's Have A Party
 rankings:
 - end_date: '1960-09-04'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
 ---
+
+Some people like to rock, some people like to roll
+But movin' and a-groovin' gonna satisfy my soul
+Let's have a party, hoo, let's have a party
+Well, send him to the store, let's buy some more
+Let's have a party tonight
+
+I never kissed a bear, I never kissed a goon
+But I can shake a chicken in the middle of the room
+Let's have a party, hoo, let's have a party
+Well, send him to the store, let's buy some more
+Let's have a party tonight
+
+I never kissed a bear, I never kissed a goon
+But I can shake a chicken in the middle of the room
+Let's have a party, hoo, let's have a party
+Well, send him to the store, let's buy some more
+Let's have a party tonight
+
+Honky Tonky Joe is knockin' at the door
+Bring him in and fill him up and set him on the floor
+Let's have a party, hoo, let's have a party
+Well, send him to the store, let's buy some more
+Let's have a party tonight
+
+The meat is on the stove, the bread's a-gettin' hot
+Everybody run, he got the possum in the pot
+Let's have a party, hoo, let's have a party
+Well, send him to the store, let's buy some more
+Let's have a party tonight
+Let's have a party tonight
+Let's have a party tonight
+We gon' have a party tonight
+
+
 

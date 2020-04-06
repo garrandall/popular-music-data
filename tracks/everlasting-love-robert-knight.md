@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everlasting-love-robert-knight
+lyrics_url: https://www.azlyrics.com/lyrics/sandra/everlastinglove.html
 name: Everlasting Love
 rankings:
 - end_date: '1967-10-06'
@@ -55,4 +56,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
 ---
+
+You are my everlasting
+You are my everlasting love
+
+Hearts go astray
+Leaving hurt when they go
+You went away just when you needed me so
+Finding your way
+You come back on to me
+I'm gonna stay loving you endlessly
+
+Open up your eyes
+Then you realize
+Here I stand with my
+Everlasting love
+Need you by my side
+There's no need to hide
+Never be denied
+Everlasting love
+From the very start
+Open up your heart
+Be a lasting part of
+Everlasting love
+
+You are my everlasting
+You are my everlasting love
+
+Look in my eyes
+See my love burning strong
+No more goodbyes
+In your arms I belong
+Our time has come
+All my dreams have come true
+Two hearts as one
+Loving me loving you.
+
+Open up your eyes
+Then you realize
+Here I stand with my
+Everlasting love
+Need you by my side
+There's no need to hide
+Never be denied
+Everlasting love
+From the very start
+Open up your heart
+Be a lasting part of
+Everlasting love
+
+You are my everlasting
+You are my everlasting love
+You are my everlasting
+You are my everlasting love
+
+Open up your eyes
+Then you realize
+Here I stand with my
+Everlasting love
+Need you by my side
+There's no need to hide
+Never be denied
+Everlasting love
+From the very start
+Open up your heart
+Be a lasting part of
+Everlasting love
+
+Open up your eyes
+Then you realize
+Here I stand with my
+Everlasting love
+Need you by my side
+There's no need to hide
+Never be denied
+Everlasting love
+From the very start
+Open up your heart
+Be a lasting part of
+Everlasting love
+
+
 

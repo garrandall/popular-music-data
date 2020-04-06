@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: devoted-to-you-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/devotedtoyou.html
 name: Devoted To You
 rankings:
 - end_date: '1958-08-17'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
 ---
+
+Darlin' you can count on me 
+Till the sun dries up the sea 
+Until then I'll always be devoted to you 
+
+I'll be yours through endless time 
+I'll adore your charms sublime 
+Guess by now you know that I'm devoted to you 
+
+I'll never hurt you, I'll never lie 
+I'll never be untrue 
+I'll never give you reason to cry 
+I'd be unhappy if you were blue 
+
+Through the years my love will grow 
+Like a river it will flow 
+It can't die because I'm so devoted to you 
+
+I'll never hurt you, I'll never lie 
+I'll never be untrue 
+I'll never give you reason to cry 
+I'd be unhappy if you were blue 
+
+Through the years my love will grow 
+Like a river it will flow 
+It can't die because I'm so devoted to you
+
+
 

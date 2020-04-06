@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-people-change-montgomery-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/somepeoplechange.html
 name: Some People Change
 rankings:
 - end_date: '2006-11-03'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
 ---
+
+His old man was a rebel yeller...
+Bad boy to the bone.
+He'd say: "Can't trust that other fella,"
+He'd judge 'em by the tone of their skin.
+He was raised to think like his Dad...
+Narrow mind full of hate.
+On the road to no-where fast,
+Till the Grace of God got in the way.
+Then he saw the Light an' hit his knees an' cried an' said a prayer...
+Rose up a brand new man; left the old one right there.
+
+Here's to the strong; thanks to the brave.
+Don't give up hope... some people change.
+Against all odds, against the grain,
+Love finds a way... some people change.
+
+She was born with her mother's habit...
+You could say: "It's in her blood."
+She hates that she's gotta have it...
+As she fills her glass up.
+An she'd love to kill that bottle,
+But all she can think about,
+Is a, a better life, a second chance,
+An' everyone she's letting down.
+She throws that bottle down.
+
+Here's to the strong; thanks to the brave.
+Don't give up hope... some people change.
+Against all odds, against the grain,
+Love finds a way... some people change.
+
+Thank God for those who make it...
+Let them be the Light.
+
+(Let them be the light)
+(Some people change.)
+Here's to the strong; thanks to the brave.
+Don't give up hope... some people change.
+Against all odds, against the grain,
+Love finds a way... some people change.
+Some people change.
+
+(Some people change)
+
+
 

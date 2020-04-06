@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-days-are-diamonds--some-days-are-stone--john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/somedaysarediamonds.html
 name: Some Days Are Diamonds (Some Days Are Stone)
 rankings:
 - end_date: '1981-06-19'
@@ -87,4 +88,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
 ---
+
+When you ask how I've been here without you, I like to say I've been fine, and I do.
+But we both know the truth is hard to come by. And if I told the truth, that's not quite true.
+Some days are diamonds, some days are stone. Some times the hard times won't leave me alone.
+Some times the cold winds blow a chill in my bones.
+Some days are diamonds, some days are stone.
+
+Now the face that I see in my mirror, more and more is a stranger to me.
+More and more I can see there's a danger in becoming what I never thought I'd be.
+Some days are diamonds, some days are stone. Some times the hard times won't leave me alone.
+Some times the cold winds blow a chill in my bones.
+Some days are diamonds, some days are stone.
+
+Some days are diamonds, some days are stone. Some times the hard times won't leave me alone.
+Some times the cold winds blow a chill in my bones.
+Some days are diamonds, some days are stone.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: damaged-danity-kane
+lyrics_url: https://www.azlyrics.com/lyrics/danitykane/damaged.html
 name: Damaged
 rankings:
 - end_date: '2008-04-04'
@@ -95,4 +96,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
 ---
+
+Do, do you got a first-aid kit handy?
+Do, do you know how to patch up a wound?
+Tell me, are, are, are, are you
+Are you patient, understanding?
+'Cause I might need some time
+To clear the hole in my heart
+And I, I've tried every remedy
+And nothing seems to work for me
+
+Baby, baby,
+This situation's driving me crazy, crazy
+And I really wanna be your lady, lady
+But the one before you left me so
+
+Damaged, damaged
+Damaged, damaged
+I thought that I should let you know
+That my heart is damaged, damaged
+So damaged, so damaged
+And you can blame the one before
+
+So how you gonna fix it, fix it, fix it
+(Baby, I gotta know what you are gonna do?)
+How you gonna fix it, fix it, fix it
+How you gonna fix it, fix it, fix it
+(Baby, I gotta know what you are gonna do?)
+How you gonna fix it, fix it, fix it
+
+Do, do you got a first-aid kit handy?
+Do, do you know how to patch up a wound?
+Tell me, are, are, are, are you
+Are you patient, understanding?
+'Cause I might need some time
+To clear the hole in my heart
+And I
+
+You try to gain my trust
+Talking is not enough
+Actions speak louder than words
+You gotta show me something
+My heart is missing some pieces
+I need this puzzle put together again
+
+Damaged, damaged
+Damaged, damaged
+I thought that I should let you know
+That my heart is damaged, damaged
+So damaged, so damaged
+And you can blame the one before
+
+So how you gonna fix it, fix it, fix it
+(Baby, I gotta know what you are gonna do?)
+How you gonna fix it, fix it, fix it
+How you gonna fix it, fix it, fix it
+(Baby, I gotta know what you are gonna do?)
+How you gonna fix it, fix it, fix it
+
+Can you fix my h-e-a-r-t
+'Cause it's d-a-m-a-g-e-d?
+Can you fix my h-e-a-r-t?
+Tell me are you up for the challenge
+'Cause my heart is
+
+Damaged, damaged,
+Is damaged, damaged
+I thought that I should let you know
+That my heart is damaged, damaged
+Don't you know my heart is damaged
+So damaged
+And you can blame the one before
+
+Damaged, damaged,
+So damaged
+Damaged,
+I thought that I should let you know
+I thought that I should let you know
+That my heart is damaged, damaged
+So damaged, so damaged
+And you can blame the one before
+
+So how you gonna fix it, fix it, fix it
+How you gonna fix it, fix it, fix it
+How you gonna fix it, fix it, fix it
+How you gonna fix it, fix it, fix it
+
+My heart is damaged, damaged, damaged
+My heart is damaged, damaged, damaged
+My heart is damaged, damaged, damaged
+My heart is damaged, damaged, damaged
+My heart is damaged
+
+
 

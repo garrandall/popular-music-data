@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: made-for-now-janet-daddy-yankee
+lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/madefornow.html
 name: Made For Now
 rankings:
 - end_date: '2018-09-07'
@@ -12,4 +13,108 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
 ---
+
+Janet Jackson
+Iconic
+Daddy
+
+If you're livin' for the moment
+Don't stop, and celebrate the feelin'
+Go up, if you're livin' for the moment
+Don't stop, 'cause there ain't no ceilings
+Go up
+
+We're made for now
+Not tomorrow
+Made for now
+Look around
+We're made for now
+Not tomorrow
+Made for now (uno)
+Look around (dos, tres)
+We're made for now (fuego)
+
+Everybody move your body, everybody
+Everybody move your body, everybody (right now)
+We're made for now
+Everybody move your body (right now), everybody (right now)
+Everybody move your body (right now), everybody
+
+If you're livin' for the moment
+Don't stop, try to celebrate the feelin'
+Go up, if you're livin' for the moment (the moment, baby)
+Don't stop, 'cause there ain't no ceilings
+Go up
+
+Love is in the rhythm now, we're
+Dancing with a whole new meaning
+Love is on the way to fill you up
+
+We're made for now
+Not tomorrow
+Made for now
+Look around
+We're made for now
+Not tomorrow
+Made for now (uno)
+Look around (dos, tres)
+We're made for now (fuego)
+
+Everybody move your body (woo), everybody
+Everybody move your body, everybody (right now)
+We're made for now
+Everybody move your body (right now), everybody (right now)
+Everybody move your body (right now), everybody (right now)
+
+We're made for now
+Not tomorrow
+Made for now
+Look around
+We're made for now (right now, right now)
+Made for now (right now)
+Right now (right now)
+
+Arriba la raza, estamos en la casa
+Dale suelta en banda to' lo que te atrasa
+MuÃ©vete eso rÃ¡pi-rÃ¡pido
+MuÃ©vete eso rÃ¡pi-rÃ¡pido
+We don't stop it, no te escapas
+Yo soy volcÃ¡n pero tÃº eres lava
+Seguimos lighty, lighty, prendÃ­'os
+VÃ­velo hoy, que maÃ±ana se acaba
+
+Right now
+Not tomorrow
+Made for now (right now)
+Look around
+They're made for now (right now)
+Not tomorrow
+Made for now
+Look around
+
+We're made for now
+Not tomorrow
+Made for now (sube)
+Look around
+We're made for now
+Not tomorrow
+Made for now
+Look around
+We're made for now
+
+Everybody move your body (right now), everybody (right now)
+We're made for now
+Everybody move your body (right now), everybody (right now)
+We're made for now
+Da' una vuelta y ponte pa' mÃ­ (right now), ponte pa' mÃ­ (right now) (Ponte, ponte, ponte)
+We're made for now
+Da' una vuelta y ponte pa' mÃ­ (right now), ponte pa' mÃ­ (right now)
+We're made for now
+
+Made for now
+Not tomorrow
+Made for now (Janet Jackson)
+Look around
+
+
 

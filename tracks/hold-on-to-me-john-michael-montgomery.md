@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-to-me-john-michael-montgomery
+lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/holdontome.html
 name: Hold On To Me
 rankings:
 - end_date: '1998-12-11'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
 ---
+
+I wanna wake up each morning
+With you for the rest of my life
+I wanna feel your heart beating
+And just get lost in your eyes
+You can tell me your secrets
+You can let me feel your pain
+You can show me your weakness
+And never be ashamed
+
+Hold on to me when your world's turnin' cold
+When it feels like your life's spinnin' out of control
+You're hopin', prayin', tryin' so hard to believe
+Hold on to me when there's no middle ground
+And every emotion is comin' unwound
+And you don't know if you can hold on to your dreams
+Baby you can hold on to me
+
+I wanna lay down each evenin'
+With you right here by my side
+I wanna get drunk on your laughter
+And wipe all the tears when you cry
+You can scare me with your darkness
+You can blind me with your light
+Throw your worries out the window baby
+On your wildest night
+
+Hold on to me when your world's turnin' cold
+When it feels like your life's spinnin' out of control
+You're hopin', prayin', tryin' so hard to believe
+Hold on to me when there's no middle ground
+And every emotion is comin' unwound
+And you don't know if you can hold on to your dreams
+Baby you can hold on to me
+
+Hold on to me when there's no middle ground
+And every emotion is comin' unwound
+And you don't know if you can hold on to your dreams
+Baby you can hold on I said
+Baby you can hold on I said
+Baby you can hold on to me
+
+
 

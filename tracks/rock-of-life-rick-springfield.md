@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-of-life-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/rockoflife.html
 name: Rock Of Life
 rankings:
 - end_date: '1988-02-12'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
 ---
+
+(I feel the big beat...)
+(Rock Of Life...)
+
+Big beat talk to me 
+Waking up blind with the house on fire
+
+Well I pick up my guitar, (I tune up)
+I look in the mirror 
+It's like a stranger in my hand (the baby is crying) 
+There comes a time when the boy must leave (get up) 
+And the man has to enter 
+For the soul to understand (all of the changes) 
+As if it ain't hard enough this life I'm living in 
+I was caught with my guard down 
+When the world came knocking
+
+I feel the big beat, the Rock Of Life 
+Big beat talk to me
+Hey!  Whoo!
+I feel the back beat, the Rock Of Life
+Waking up blind with the house on fire
+
+Is it something in my head (look up) 
+Or the time of season 
+Or the little boy in my hands (must be a reason) 
+Yeah, there's new meaning in my life (a shake-up) 
+But there's pain and confusion 
+And I'm trying to understand (all of the changes) 
+I've been cut so deep but I can't make it bleed 
+I was caught with my head in the sand 
+When the world came knocking
+
+I feel the big beat, the Rock Of Life 
+Big beat talk to me
+Hey!  Whoo!
+I feel the back beat, the Rock Of Life
+Waking up blind with the house on fire
+
+It ain't no perfect life 
+This one I'm living in 
+And I was caught with my guard down 
+When the world came knocking
+
+I feel the big beat, the Rock Of Life 
+Big beat talk to me
+Hey!  Whoo!
+I feel the back beat, the Rock Of Life
+Waking up blind with the house on fire
+
+
 

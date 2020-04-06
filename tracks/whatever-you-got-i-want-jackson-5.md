@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatever-you-got-i-want-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/whateveryougotiwant.html
 name: Whatever You Got I Want
 rankings:
 - end_date: '1974-11-01'
@@ -51,4 +52,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-04'
 ---
+
+Whatever you got, I want
+Whatever you want
+I'll give to you
+Whatever you got, I want
+Whatever it takes
+I'm willing to do, girl
+
+Your eyes speak
+Your walk is rhythm in motion
+You're too hot to handle
+You're full of emotion, girl
+
+My pride's weak
+I can tell I'm standing in line again, yeah
+(In line again)
+When you pass by
+Guys double take
+It's a crime, yeah
+
+Where there's a will there's a way
+(Say it)
+Even with the games you play
+Girl, you've got a one track mind
+(I'll make you mine)
+I'll make you mine to stay, now, now
+
+Whatever you got, I want
+Whatever you want
+I'll give to you
+Whatever you got, I want
+Whatever it takes
+I'm willing to do, girl
+
+You got me
+Right on your finger tips
+But I'm gonna keep my balance
+I won't slip
+Your sunshine ain't gonna melt my heart, yeah
+If you let it shine on me
+We'll never part
+
+Where there's a will there's a way
+(Say it)
+Even with the games you play
+Girl, you've got a one track mind
+I'll make you mine to stay, now, now
+
+Whatever you got, I want
+Whatever you want
+I'll give to you
+Whatever you got, I want
+Whatever it takes
+I'm willing to do, girl
+Yeah, yeah
+Now
+
+Whatever you got, I want
+Whatever it takes
+I'm willing to do
+
+
+
+
 

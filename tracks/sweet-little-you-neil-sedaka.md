@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-little-you-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/sweetlittleyou.html
 name: Sweet Little You
 rankings:
 - end_date: '1961-09-03'
@@ -35,4 +36,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+
+(Sweet, sweet, sweet little you, sweet little you)
+(Sweet, sweet, sweet little you)
+
+Ah, baby, I'm so in love (sweet little you)
+(Sweet, sweet, sweet little you)
+I never get enough of, whoa, yeah
+(sweet little you)
+(Sweet, sweet, sweet little you)
+You got the hand (ah, huh)
+That I love to hold
+You got a love (ah, huh)
+That won't go cold
+You got a kiss that thrills my soul, oh, ho, oh
+Sweet little you
+
+You make me feel so fine, whoa (sweet little you)
+(Sweet, sweet, sweet little you)
+And I'm so glad that you're mine, oh, yeah (sweet little you)
+(Sweet, sweet, sweet little you)
+You say the words (ah, huh)
+That I love to hear
+You got a way (ah, huh)
+That's so sincere
+I just go wild every time you're near, ooo, hoo, ooo
+Sweet little you
+
+Here we go now
+
+Woo!
+
+oh, yeah!
+
+You say the words (ah, huh)
+That I love to hear
+You got a way (ah, huh)
+That's so sincere
+I just go wild every time you're near, ooo, hoo, ooo
+Sweet little you
+
+Whoa, yeah
+(Sweet, sweet, sweet little you)
+Oh, yeah, ah, ha, ha
+(Sweet, sweet, sweet little you)
+Ah, ha, ha
+(Sweet, sweet, sweet little you)
+Ah, ha, ha
+(Sweet, sweet, sweet little you)
+Ah, ha, ha
+(Sweet, sweet, sweet little you)
+Whoa!
+Ah, ha, ha
+(Sweet, sweet, sweet)
+
+
 

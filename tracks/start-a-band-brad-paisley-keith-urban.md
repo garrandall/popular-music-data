@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: start-a-band-brad-paisley-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/startaband.html
 name: Start A Band
 rankings:
 - end_date: '2008-11-07'
@@ -72,4 +73,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
 ---
+
+I never was a straight-lace, straight A student
+teacher's pet or child prodigy
+I wasn't gonna get rich throwin' a football
+It take too long to get a law degree
+
+So I sat down with momma and daddy
+tried to talk some sense into my big head
+But the best advice that I ever got
+was from my sister's rock star boyfriend
+
+Just get you a guitar and learn how to play
+Cut up some jeans, come up with a name
+When you're living in a world that you dont understand
+Find a few good buddies, start a band
+Start a band, Start a band
+
+And all those girls that were too cool to talk to,
+They'll be waiting in the line out back
+Might get your picture in the hometown paper
+Maybe buy your momma that Cadillac
+
+Just get you a guitar and learn how to play
+Cut up some jeans, come up with a name
+When you're living in a world that you don't understand
+Find a few good buddies, start a band
+
+Start a band, Scrape up some money, buy a van
+Learn free bird and ramblin' man
+Never buy another beer again
+
+Just get you a guitar and learn how to play
+Grow out your hair, come up with a name
+With a little bit of luck you'll be packing the stands
+Find a few good buddies, start a band
+
+No need to study, start a band
+Call up some buddies man, start a band
+
+
 

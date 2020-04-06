@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: saturday-nights-khalid-kane-brown
+lyrics_url: https://www.azlyrics.com/lyrics/khalid/saturdaynightsremix.html
 name: Saturday Nights
 rankings:
 - end_date: '2018-11-09'
@@ -56,4 +57,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
 ---
+
+Saturday nights, blueberry cigarillos
+Swishers make my throat hurt
+Rolling OCB's on the side for me
+Light 'em up and let 'em both burn
+Family feuds, say your mom's confused
+Off of shit she doesn't wanna learn
+But daddy's gone, say he's never home
+And wishing only makes it worse
+
+I guess there's certain dreams that you gotta keep
+'Cause they'll only know what you let 'em see
+
+All the things that I know
+That your parents don't
+They don't care like I do
+Nowhere like I do
+And all the things that I know
+That your parents don't
+They don't care like I do
+Nowhere like I do
+Nowhere like I do
+Nowhere like I do
+
+Saturday nights, your works shoes are stilettos
+Smell of cheap perfume
+Makeup on your face, try to hide the pain
+All the lies, they look like the truth
+Deep in your heart, all you want is love
+But you never felt good enough
+You got wrapped up in other plans
+But this ain't the way the story ends
+
+I guess there's certain dreams that you gotta keep
+'Cause they'll only know what you let 'em see
+
+All the things that I know
+That your parents don't
+They don't care like I do
+Nowhere like I do
+And all the things that I know
+That your parents don't
+They don't care like I do
+Nowhere like I do
+Nowhere like I do
+
+(Do, do, do)
+'Cause I care, I care, I care about you
+(Do, do, do)
+There's nowhere I'd rather be
+(Do, do, do)
+Than right here around you
+(Do, do, do)
+I care, care, I care, care about you
+(Do, do, do)
+There's nowhere I'd rather be
+
+With all the things that I know
+That your parents don't
+They don't care about you
+The way that I do
+All the things that I know
+That your parents don't
+Don't care about you
+The way that Iâ 
+The way that I do (Do, do, do)
+The way that I do (Do, do, do)
+The way that I do (Do, do, do)
+The way that I do (Do, do, do)
+The way that I do (Do, do, do)
+I do (Do, do, do)
+
+
 

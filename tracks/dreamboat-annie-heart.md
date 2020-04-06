@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamboat-annie-heart
+lyrics_url: https://www.azlyrics.com/lyrics/heart/dreamboatannie.html
 name: Dreamboat Annie
 rankings:
 - end_date: '1976-12-24'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+
+Heading out this morning into the sun
+Riding on the diamond waves, little darlin' one
+
+Warm wind caress her
+Her lover it seems
+Oh, Annie
+Dreamboat Annie my little ship of dreams
+
+Going down the city sidewalk alone in the crowd
+No one knows the lonely one whose head's in the clouds
+
+Sad faces painted over with those magazine smiles
+Heading out to somewhere won't be back for a while
+
+
 

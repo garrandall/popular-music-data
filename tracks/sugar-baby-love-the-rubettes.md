@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-baby-love-the-rubettes
+lyrics_url: https://www.azlyrics.com/lyrics/rubettes/sugarbabylove.html
 name: Sugar Baby Love
 rankings:
 - end_date: '1974-07-26'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
+
+Sugar baby love, sugar baby love
+I didn't mean to make you blue
+Sugar baby love, sugar baby love
+I didn't mean to hurt you
+
+All lovers make
+Make the same mistakes
+Yes they do
+Yes, all lovers make
+Make the same mistakes
+As me and you
+
+Sugar baby love, sugar baby love
+I didn't mean to make you blue
+Sugar baby love, sugar baby love
+I didn't mean to hurt you
+
+People take my advice
+If you love someone
+Don't think twice
+
+Love your baby love, sugar baby love
+Love her anyway, love her ev'ryday
+
+
 

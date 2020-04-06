@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovely-day-bill-withers
+lyrics_url: https://www.azlyrics.com/lyrics/billwithers/lovelyday.html
 name: Lovely Day
 rankings:
 - end_date: '1977-12-16'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
 ---
+
+When I wake up in the morning, love
+And the sunlight hurts my eyes
+And something without warning, love
+Bears heavy on my mind
+
+Then I look at you
+And the world's alright with me
+Just one look at you
+And I know it's gonna be
+A lovely day
+... lovely day, lovely day, lovely day ...
+
+When the day that lies ahead of me
+Seems impossible to face
+When someone else instead of me
+Always seems to know the way
+
+Then I look at you
+And the world's alright with me
+Just one look at you
+And I know it's gonna be
+A lovely day.....
+
+When the day that lies ahead of me
+Seems impossible to face
+When someone else instead of me
+Always seems to know the way
+
+Then I look at you
+And the world's alright with me
+Just one look at you
+And I know it's gonna be
+A lovely day......
+
+
 

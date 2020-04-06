@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-rain-carl-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/carlthomas/summerrain.html
 name: Summer Rain
 rankings:
 - end_date: '2000-09-29'
@@ -51,4 +52,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
 ---
+
+Storming outside, rain
+She keeps me home
+Quiet conversation makes me warm
+So
+
+Summer rain
+Whispers me to sleep 
+And wakes me up again
+Sometimes I swear I hear her call my name
+To wash away the pain
+My summer rain
+
+In the middle of the night when I'm alone
+I feel her kisses on me even when she's gone
+Can't wait 'till she gets home
+
+Summer rain
+Whispers me to sleep 
+And wakes me up again
+Sometimes I swear I hear her call my name
+To wash away the pain
+My summer rain
+
+I don't mind if it rains forever
+Let it rain, rain, let it rain
+I said I don't mind if it rains forever
+Let it rain, rain, let it rain
+
+So go ahead and make it rain
+You bring the sunshine back again
+So go ahead and make it rain
+Your tender touches wash away my rain
+
+Summer rain
+Whispers me to sleep 
+And wakes me up again
+Sometimes I swear I hear her call my name
+To wash away the pain
+My summer rain
+
+Summer rain
+Whispers me to sleep 
+And wakes me up again
+Sometimes I swear I hear her call my name
+To wash away the pain
+My summer rain
+
+So go ahead and make it rain
+You bring the sunshine back again
+So go ahead and make it rain
+Your tender touches wash away my rain
+
+So go ahead and make it rain
+You bring the sunshine back again
+So go ahead and make it rain
+Your tender touches wash away my rain
+
+Summer rain
+Whispers me to sleep 
+And wakes me up again
+Sometimes I swear I hear her call my name
+To wash away the pain
+My summer rain
+
+
 

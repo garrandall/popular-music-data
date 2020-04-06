@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beer-barrel-polka-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/beerbarrelpolka.html
 name: Beer Barrel Polka
 rankings:
 - end_date: '1975-03-21'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
 ---
+
+There's a garden, what a garden
+Only happy faces bloom there
+And there's never any room there
+For a worry or a gloom there
+
+Oh there's music and there's dancin'
+And a lot of sweet romancin'
+When they play the polka
+They all get in the swing
+
+Every time they hear that oom-pa-pa
+Everybody feels so tra-la-la
+They want to throw their cares away
+And (Polish) ''Loopde shpay devashteva"
+
+Then they hear a rumble on the floor
+It's the big surprise they're waitin' for
+And all the couples form a ring
+Und miles around you'll hear them sing
+
+Roll out the barrel, we'll have a barrel of fun
+Roll out the barrel, we've got the blues on the run
+Sing boom tararrei, sing out a song of good cheer
+Now's the time to roll a barrel, cause the gang's all here
+
+La-la-la-la-la, la-la-la-la-la-la-la
+Hey, hey, hey
+La-la-la-la-la, la-la-la-la-la-la-la
+Hey, hey, hey
+La-la-la-la-la, la-la-la-la-la-la-la
+
+Now's the time to roll a barrel, cause the gang's all here
+
+La-la-la-la-la, la-la-la-la-la-la-la
+Hey, hey, SHAKE!
+La-la-la-la-la, la-la-la-la-la-la-la
+Hey, hey, hey
+La-la ...
+
+
 

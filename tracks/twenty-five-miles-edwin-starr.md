@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twenty-five-miles-edwin-starr
+lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/twentyfivemiles.html
 name: Twenty-Five Miles
 rankings:
 - end_date: '1969-02-21'
@@ -63,4 +64,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
 ---
+
+Come on, feet, start moving
+Got to get me there
+Ow!
+Hey, hey!
+Uh-huh, huh, huh, huh, oh!
+Uh-huh, huh, huh, huh, yeah
+Oh!
+
+Twenty-five miles from home, girl
+My feet are hurting mighty bad
+Now I've been walking for three days and two lonely nights
+You know that I'm mighty mad, huh
+
+But I got a woman waiting for me
+That's gonna make this trip worthwhile
+You see she's got the kind of loving and a kissing
+A-make a man go stone wild
+
+So I got to keep on walking, mm-hmm, huh
+I got to walk on, oh, ho, ho
+(I-I, I-I, I, I, I) I'm so tired
+But I just can't lose my stride
+
+I got fifteen miles to go now
+And I can hear my baby calling my name
+It's as if as though I'm standing at her front door
+I can hear her, that's doggone plain
+
+Now I'll be so glad to see my baby
+And hold her in my arms one more time, huh
+Now when I kiss her lips, I turn a back over flip
+And I forget these feet of mine
+
+I got to keep on walking, hey, ooh
+I got to walk on, yeah, yeah, yeah, yeah, y'all
+(I-I, I-I, I, I, I) I'm so tired, huh
+But I just can't lose my stride
+
+Whoa, come on, feet, don't fail me now (come on, feet, don't stop)
+I got ten more miles to go (ten more miles)
+I got nine (same old, same old)
+Eight (same old, same old)
+Seven (same old, same old)
+Six, six, six (same old, same old)
+
+I got a five more miles to go
+Over the hill, just around the bend, huh
+Although my feet are tired, I can't lose my stride
+I got to get to my baby again
+
+I got to keep on walking, mm-hmm, hey
+I got to walk on, please let me ya, y'all
+(I-I, I-I, I, I, I) I'm so tired, huh
+But I just can't lose my stride
+
+(Walking) Yeah, huh
+I got to walk on, let me ya, y'all
+(I-I, I-I, I, I, I) You see, my baby just across the bend
+(I-I, I-I, keep on, keep on) Whoa
+
+(Walking) Hey, hey now
+I got to walk on, let me ya, y'all, got to be
+(I-I, I-I, I, I, I)
+
+
 

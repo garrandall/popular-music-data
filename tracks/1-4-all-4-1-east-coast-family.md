@@ -31,4 +31,3 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
 ---
-

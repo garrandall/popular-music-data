@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-this-way-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/walkthisway.html
 name: Walk This Way
 rankings:
 - end_date: '1976-11-26'
@@ -75,4 +76,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
 ---
+
+Backstroke lover
+Always hidin' 'neath the covers
+'Til I talked to your daddy, he say
+
+He said, "You ain't seen nothin'
+'Til you're down on a muffin
+Then you're sure to be a-changin' your ways"
+
+I met a cheerleader
+Was a real young bleeder
+Oh, the times I could reminisce
+
+'Cause the best things of lovin'
+With her sister and her cousin
+Only started with a little kiss
+Like this
+
+Seesaw swingin' with the boys in the school
+And your feet flyin' up in the air
+Singin', "Hey diddle diddle"
+With your kitty in the middle
+Of the swing like you didn't care
+
+So I took a big chance
+At the high school dance
+With a missy who was ready to play
+Wasn't me she was foolin'
+'Cause she knew what she was doin'
+And I knew love was here to stay
+When she told me to
+
+"Walk this way, talk this way"
+"Walk this way, walk this way"
+"Walk this way, walk this way"
+"Walk this way, talk this way"
+Just gimme a kiss
+Like this
+
+Schoolgirl sweetie with a classy kinda sassy
+Little skirt's climbin' way up the knee
+There was three young ladies in the school gym locker
+When I noticed they was lookin' at me
+
+I was a high school loser, never made it with a lady
+'Til the boys told me somethin' I missed
+Then my next door neighbor with a daughter had a favor
+So I gave her just a little kiss
+Like this
+
+Seesaw swingin' with the boys in the school
+And your feet flyin' up in the air
+Singin', "Hey diddle diddle"
+With your kitty in the middle
+Of the swing like you didn't care
+
+So I took a big chance
+At the high school dance
+With a missy who was ready to play
+Wasn't me she was foolin'
+'Cause she knew what she was doin'
+When she told me how to walk this way
+She told me to
+
+"Walk this way, talk this way"
+"Walk this way, walk this way"
+"Walk this way, walk this way"
+"Walk this way, talk this way"
+Just gimme a kiss
+Like this
+
+
 

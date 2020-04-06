@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: magnetic-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/magnetic.html
 name: Magnetic
 rankings:
 - end_date: '1983-11-18'
@@ -45,4 +46,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
 ---
+
+No self-control
+A chain reaction as my body lets go
+A strange kind of light
+The tempo takes me and the circuit excites
+
+It's magnetic
+The rhythm of a dangerous dance
+Let's dance in the static
+Suck you in twice as fast
+Magnetic
+The rhythm of a dangerous dance
+Let's dance in the static
+Suck you in, you'll never last
+
+Step into the light
+Make the spark ignite
+Step into the light tonight
+
+No place to hide
+I keep on runnin' but I'm falling behind
+A new kind of beat
+It takes your mind, then it takes your feet
+
+It's magnetic
+The rhythm of a dangerous dance
+Let's dance in the static
+Suck you in twice as fast
+Magnetic
+The rhythm of a dangerous dance
+Let's dance in the static
+Suck you in, you'll never last
+
+Are we making contact tonight?
+Don't break the circuit
+I'll be making contact tonight
+Don't break the circuit
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-there-s-no-you-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/whentheresnoyou.html
 name: When There's No You
 rankings:
 - end_date: '1971-03-12'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
 ---
+
+I walk along empty streets,
+And night becomes another dawn.
+It's only heartaches that I meet.
+And tears that tell me you have gone from me.
+Is it hard to see that,
+My heart is breaking.
+It was yours for the taking.
+You said we're through,
+What can I do,
+When there's no you?
+This time the loneliness I found,
+Has taken over in my mind.
+And it will always be around,
+For a love like ours I'll never find, I know.
+Did you have to go,
+'Cause my heart is breaking.
+It was yours for the taking.
+You said we're through,
+What can I do,
+When there's no you?
+My heart is breaking.
+It was yours for the taking.
+You said we're through,
+What can I do,
+When there's no you?
+
+
 

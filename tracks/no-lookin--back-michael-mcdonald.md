@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-lookin--back-michael-mcdonald
+lyrics_url: https://www.azlyrics.com/lyrics/michaelmcdonald/nolookinback.html
 name: No Lookin' Back
 rankings:
 - end_date: '1985-08-02'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+
+I'm fading out of sight
+My wheels are the only sound
+Runnin' at the speed of light
+I can't slow down
+
+Out on the open road
+Racing to beat the night
+No matter where I go
+Guess I'll get there all right
+
+So why don't I understand
+What's trippin' me up
+It used to be a simple thing
+
+I can't hold on, I can't return
+Time to let go, start to live and learn
+
+I took the one way flight
+Too high to see the ground
+Now I know how long it takes
+A heart to come down
+
+Why don't I understand 
+What's trippin' me up
+Oh, it ought to be a simple thing
+
+I can't hold on, I can't return
+Rivers will run, bridges will burn
+I'm not sure just how
+But there's no lookin' back now
+
+I can't hold on, I can't return
+Rivers will run, bridges will burn
+I'm not sure just how
+But there's no lookin' back now
+
+I can't hold on, I can't return
+Rivers will run, bridges will burn
+I'm not sure just how
+But there's no lookin' back now
+
+No lookin' back now
+No lookin' back now
+No lookin' back now
+
+
 

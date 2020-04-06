@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: piece-of-me-britney-spears
+lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/pieceofme.html
 name: Piece Of Me
 rankings:
 - end_date: '2007-11-23'
@@ -87,4 +88,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
 ---
+
+I'm Miss American Dream since I was 17
+Don't matter if I step on the scene
+Or sneak away to the Philippines
+They're still gon' put pictures of my derriÃ¨re in the magazine
+You want a piece of me
+You want a piece of me
+
+I'm Miss Bad Media Karma
+Another day another drama
+Guess I can't see the harm
+In working and being a mama
+And with a kid on my arm
+I'm still an exceptional earner
+You want a piece of me
+
+I'm Mrs. Lifestyles Of The Rich And Famous
+(You want a piece of me)
+I'm Mrs. Oh My God That Britney's Shameless
+(You want a piece of me)
+I'm Mrs. Extra! Extra! This Just In
+(You want a piece of me)
+I'm Mrs. She's Too Big Now She's Too Thin
+(You want a piece of me)
+
+I'm Mrs. You Want A Piece Of Me
+Tryin' and pissin' me off
+Well get in line with the paparazzi
+Who's flippin' me off
+Hopin' I'll resort to some havoc
+End up settlin' in court
+Now are you sure you want a piece of me? (you want a piece of me)
+
+I'm Mrs. Most Likely To Get On The TV For Slippin' On The Streets
+When getting the groceries, no, for real
+Are you kidding me?
+No wonder there's panic in the industry
+I mean please
+Do you want a piece of me?
+
+I'm Mrs. Lifestyles Of The Rich And Famous
+(You want a piece of me)
+I'm Mrs. Oh My God That Britney's Shameless
+(You want a piece of me)
+I'm Mrs. Extra! Extra! This Just In
+(You want a piece of me)
+I'm Mrs. She's Too Big Now She's Too Thin
+(You want a piece of me)
+
+I'm Miss American Dream since I was 17
+Don't matter if I step on the scene
+Or sneak away to the Philippines
+They're still gon' put pictures of my derriÃ¨re in the magazine
+You want a piece of me
+You want a piece piece of me
+You want a piece of me
+
+I'm Mrs. Lifestyles Of The Rich And Famous
+(You want a piece of me)
+I'm Mrs. Oh My God That Britney's Shameless
+(You want a piece of me)
+I'm Mrs. Extra! Extra! This Just In
+(You want a piece of me)
+I'm Mrs. She's Too Big Now She's Too Thin
+(You want a piece of me)
+
+I'm Mrs. Lifestyles Of The Rich And Famous
+(You want a piece of me)
+I'm Mrs. Oh My God That Britney's Shameless
+(You want a piece of me)
+I'm Mrs. Extra! Extra! This Just In
+(You want a piece of me)
+I'm Mrs. She's Too Big Now She's Too Thin
+(You want a piece of me)
+
+Piece of me
+You want a piece of me me
+
+
 

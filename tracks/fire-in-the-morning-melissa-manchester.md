@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-in-the-morning-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/fireinthemorning.html
 name: Fire In The Morning
 rankings:
 - end_date: '1980-02-29'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
 ---
+
+I know it's late to call
+I don't blame you if you're angry
+But there are things
+That only old lovers understand
+
+I remember rainy nights like this
+When we'd go to bed real early
+(And) try to catch each other's dreams
+And wake up holding hands
+
+We'd light a fire in the morning
+And keep it burning strong
+Outside it could be storming
+But we never felt so warm
+We'd curl up on the couch
+And trade the world for our love song
+We'd light a fire in the morning
+And make love all day long
+
+I hope you know
+It's not that I've got no one else to go to
+'Cause I keep thinking of you
+Even when I'm not alone
+
+Now I'd love to hear you say
+I'm still the one you can't say "no" to
+And that you'll take me back tonight
+For all the love we've known
+
+We'd light a fire in the morning
+And keep it burning strong
+Outside it could be storming
+But we never felt so warm
+We'd curl up on the couch
+And trade the world for our love song
+We'd light a fire in the morning
+And make love all day long
+
+
 

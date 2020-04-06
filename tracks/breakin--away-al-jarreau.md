@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakin--away-al-jarreau
+lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/breakinaway.html
 name: Breakin' Away
 rankings:
 - end_date: '1981-12-11'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
 ---
+
+Look what you've done for me-
+You're makin' more fun for me.
+Troubadour me, destined to be
+Set in my ways-stuck in my daze.
+
+You were the butterfly,
+winkin' at me-
+Makin' my fires fly.
+Brought me romance,
+taught me to dance-
+Makin' me win, makin' me grin.
+Schoolin' me.
+
+Breakin' away, your love has
+opened eyes that couldn't see.
+Breakin' away, your beacon in the
+the night discovered me.
+
+Show me some parachutes
+(Away, today, sail away)
+As long as I'm here, bring me some
+climbing boots.
+Open the door, give me some more.
+
+Fasten me in-loosen the pin.
+Pull for me.
+
+Breakin' away, your love has opened
+eyes that couldn't see.
+Breakin' away, your beacon in the
+night discovered me.
+
+
 

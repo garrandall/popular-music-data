@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gemini-dream-the-moody-blues
+lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/geminidream.html
 name: Gemini Dream
 rankings:
 - end_date: '1981-06-12'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
 ---
+
+Long time, no see
+Short time for you and me
+So fine, so good
+We're on the road like you knew we would
+
+First night, so long
+A state of mind, what can go wrong
+We're here, the time is right
+To rock 'n' roll right through the night
+
+Make it work out, make it work
+Make it work out, make it work out
+For each other tonight
+
+Stage fright, candle light
+You can let go, tonight's the night
+Came back for you
+Glad to see, that you came too
+
+There's a place, a Gemini dream
+There's no escaping from the love we have seen (so come with me)
+So come with me, turn night to day
+You're gonna wake up
+You know you're gonna wake up in a Gemini dream
+
+Turned 'round to see
+Where we've been and what we believe
+In life, love, take a chance, see it through
+You'll be glad that you came too
+
+There's a place, a Gemini dream
+There's no escaping from the love we have seen (so come with me)
+So come with me, turn night to day
+You're gonna wake up
+You know you're gonna wake up in a Gemini dream
+
+Long time, no see
+The lights go up for you and me
+We're here, the time is right
+To rock 'n' roll right through the night
+
+Living it
+Believing it
+Wanting it
+Make it work out, make it work
+Make it work out, make it work out
+For each other tonight
+
+Long time no see
+Short time for you and me
+So fine, so far, so good
+We're on the road, like you knew we would
+
+
 

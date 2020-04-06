@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-love-brian-mcknight
+lyrics_url: https://www.azlyrics.com/lyrics/brianmcknight/crazylove.html
 name: Crazy Love
 rankings:
 - end_date: '1995-04-21'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
 ---
+
+I can hear her heart beat for a thousand miles 
+And the heavens open up every time she smiles 
+And when I come home to her that's where I belong 
+Yet I'm running to her like a river's song 
+
+
+she gives me love love love love crazy love 
+she gives me love love love love crazy love... 
+
+She's got a fine sense of humor when I'm feeling low down 
+And when I come home to her when the sun goes down 
+She takes away my troubles, takes away my grief 
+Takes away my heartache in the night like a thief. 
+
+
+
+She's got love love love love crazy love 
+Yes I need her in the daytime 
+Yes I need her in the night 
+I want to throw my arms around her 
+To kiss her, hug her, kiss her, hug her tight 
+And when I'm returning from so far away 
+She gives me such sweet lovin' brightens up my day 
+And makes me righteuos and makes me whole 
+And it makes me mellow down to my soul 
+
+
+
+
 

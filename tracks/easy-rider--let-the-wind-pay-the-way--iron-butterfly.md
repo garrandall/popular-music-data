@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-rider--let-the-wind-pay-the-way--iron-butterfly
+lyrics_url: https://www.azlyrics.com/lyrics/ironbutterfly/easyriderletthewindpaytheway.html
 name: Easy Rider (Let The Wind Pay The Way)
 rankings:
 - end_date: '1970-10-30'
@@ -31,4 +32,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+
+Pegs of people line the street
+A ball and chain around their feet
+Waitin' for a weekend treat
+But Easy Rider's got 'em all beat 'cause
+
+Easy rider, he's a glider
+(Easy) Freedom, every day
+(Rider) Easy rider, easy glider
+Lettin' the wind pay the way
+(That's all he ever does)
+
+Freedom!
+Freedom!
+
+Puts a rocket in his pocket
+At the dawn of day
+Needs a goodbye kiss in the mornin', mist
+You know the man can't stay
+
+Easy rider, he's a glider
+(Easy) Freedom, every day
+(Rider) Easy rider, easy glider
+Lettin' the wind pay the way
+(That's all he ever does)
+
+(Who'm I talkin' 'bout)
+Easy, easy, easy rider
+Easy, easy, easy rider
+
+Goin' easy, where you goin'
+Gettin' tired of being all alone
+Oh, the roads are calling you
+Back to where you belong
+Oh, ride on!
+
+Talkin' bout easy
+
+
 

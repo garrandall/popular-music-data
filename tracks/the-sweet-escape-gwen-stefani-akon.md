@@ -5,6 +5,7 @@ features:
 - Akon
 genres: []
 key: the-sweet-escape-gwen-stefani-akon
+lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/thesweetescape.html
 name: The Sweet Escape
 rankings:
 - end_date: '2007-01-05'
@@ -168,4 +169,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
 ---
+
+
+If I could escape I would
+But first of all, let me say
+I must apologize
+For acting stank and treating you this way
+
+'Cause I've been acting like sour milk all on the floor
+It's your fault you didn't shut the refrigerator
+Maybe that's the reason I've been acting so cold?
+
+If I could escape and recreate a place that's my own world
+And I could be your favourite girl forever
+Perfectly together
+Now tell me boy now wouldn't that be sweet?
+(sweet escape)
+If I could be sweet (be sweet)
+I know I've been a real bad girl
+(I'll try to change)
+I didn't mean for you to get hurt
+(whatsoever)
+We can make it better,
+And tell me boy now wouldn't that be sweet?
+(sweet escape)
+
+
+I want to get away
+To our sweet escape
+I want to get away
+
+
+You melt me down,
+I'm at my lowest boiling point
+Come help me out
+I need to get me out of this joint
+Come on let's bounce
+Counting on you to turn me around
+Instead of clowning around
+Let's look for some common ground
+
+So, baby
+Times get a little crazy
+I've been gettin' a little lazy
+Waitin' on you to come save me
+I can see that you're angry
+By the way that you treat me
+Hopefully you don't leave me
+Wanna take you with me
+
+If I could escape and recreate a place that's my own world
+And I could be your favourite girl forever
+Perfectly together
+And tell me boy now wouldn't that be sweet?
+(sweet escape)
+If I could be sweet (be sweet)
+I know I've been a real bad girl
+(I'll try to change)
+I didn't mean for you to get hurt
+(whatsoever)
+We can make it better
+And tell me boy now wouldn't that be sweet?
+(sweet escape)
+
+If I could escape
+If I could escape
+
+'Cause I've been acting like sour milk all on the floor
+It's your fault you didn't shut the refrigerator
+Maybe that's the reason I've been acting so cold?
+
+If I could escape and recreate a place that's my own world
+And I could be your favourite girl forever
+Perfectly together
+And tell me boy now wouldn't that be sweet?
+(sweet escape)
+If I could be sweet (be sweet)
+I know I've been a real bad girl
+(I'll try to change)
+I didn't mean for you to get hurt
+(whatsoever)
+We can make it better
+And tell me boy now wouldn't that be sweet?
+(sweet escape)
+
+I wanna get away, get away
+To our sweet escape
+I wanna get away
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bye-bye-baby-mary-wells
+lyrics_url: https://www.azlyrics.com/lyrics/marywells/byebyebaby.html
 name: Bye Bye Baby
 rankings:
 - end_date: '1961-02-05'
@@ -51,4 +52,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
+
+Well, you know you took my heart
+And you broke it apart
+Why did our love baby, yeah yeah
+Have to ever start?
+
+You know you took my love, threw it away
+You gonna want my love someday
+Well a bye bye baby
+(Bye bye bye)
+
+Well I thought your love
+Was oh so true
+And you lured me baby, yeah
+Started loving you
+
+You know you took my love, threw it away
+You gonna want my love someday
+Well a bye bye baby
+(Bye bye bye)
+
+Well, your love was
+Sweeter than any I know
+So don't come back running
+Knockin' on my front door
+
+Well you said that I
+Was your only girl
+And there was no others, yeah
+In this whole wide world
+
+You know you took my love, threw it away
+You gonna want my love someday
+Well-a bye bye baby
+(Bye bye bye)
+
+Well, your love was
+Sweeter than any I know
+So don't come back running
+Knockin' on my front door
+
+Well you said that I
+Was your only girl
+And there was no others, yeah
+In this whole wide world
+
+You know you took my love, threw it away
+You gonna want my love someday
+Well-a bye bye baby
+(Bye bye bye)
+
+Whoah, bye bye baby
+(Bye bye bye)
+Bye, I don't want you know more, wooh
+(Bye bye bye)
+
+Bye, bye baby
+(Bye bye bye)
+Whooo, don't need your love, yeah yeah
+(Bye bye bye)
+I don't want you baby, whoooo
+(Bye bye bye)
+
+Bye bye baby, yeah
+(Bye bye bye)
+Bye bye baby, ohh
+(Bye bye bye)
+
+
 

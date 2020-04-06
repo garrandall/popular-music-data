@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-only-difference-between-martyrdom-and-suicide-is-press-coverage-panic--at-the-disco
+lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/theonlydifferencebetweenmartyrdomandsuicideispresscoverage.html
 name: The Only Difference Between Martyrdom And Suicide Is Press Coverage
 rankings:
 - end_date: '2006-04-07'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-20'
 ---
+
+Sit tight, I'm gonna need you to keep time
+Come on just snap, snap, snap your fingers for me
+Good, good now we're making some progress
+Come on just tap, tap, tap your toes to the beat
+
+And I believe this may call for a proper introduction, and well
+Don't you see, I'm the narrator, and this is just the prologue?
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes, trophy boys, trophy wives
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes, trophy boys, trophy wives
+
+Applause, applause, no wait wait
+Dear studio audience, I've an announcement to make
+It seems the artists these days are not who you think
+So we'll pick back up on that on another page
+
+And I believe this may call for a proper introduction, and well
+Don't you see, I'm the narrator and this is just the prologue?
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes, trophy boys, trophy wives
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes, trophy boys, trophy wives
+
+Swear to shake it up, you swear to listen
+Swear to shake it up, you swear to listen
+Swear to shake it up, you swear to listen
+Swear to shake it up, swear to shake it up
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes, trophy boys, trophy wives
+
+Swear to shake it up, if you swear to listen
+Oh, we're still so young, desperate for attention
+I aim to be your eyes
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-the-same-old-song-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/itsthesameoldsong.html
 name: It's The Same Old Song
 rankings:
 - end_date: '1978-05-19'
@@ -47,4 +48,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
 ---
+
+You're sweet as a honey bee
+But like a honey bee stings
+You've gone and left my heart in pain
+All you left is our favorite song
+The one we danced to all night long
+It used to bring sweet memories
+Of a tender love that used to be
+
+Now it's the same old song
+But with a different meaning
+Since you been gone
+It's the same old song
+But with a different meaning
+Since you been gone
+
+A sentimental fool am I
+To hear a old love song
+And wanna cry
+But the melody keeps haunting me
+Reminding me how in love we used to be
+Keep hearing the part that used to touch my heart
+Saying together forever
+Breaking up never
+
+It's the same old song
+But with a different meaning
+Since you been gone
+It's the same old song
+But with a different meaning
+Since you been gone
+
+Precious memories keep a lingering on
+Everytime I hear our favorite song
+Now you're gone
+Left this emptiness
+I only reminisce
+The happiness we spent
+We used to dance on the music
+Make romance through the music
+
+It's the same old song
+But with a different meaning
+Since you been gone
+It's the same old song
+But with a different meaning
+Since you been gone
+
+It's the same old song
+But with a different meaning
+Since you been gone
+It's the same old song
+But with a different meaning
+Since you been gone
+
+
 

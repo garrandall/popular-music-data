@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-your-eyes-only-sheena-easton
+lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/onemanwoman.html
 name: For Your Eyes Only
 rankings:
 - end_date: '1981-07-31'
@@ -107,4 +108,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+
+I'm a one man woman, that's forever
+So open your eyes, we can't stay together
+I'd rather say from the start, before we take it too far
+
+I'm a one man woman, I'm a one man woman, I'm a one man woman, oohoo
+
+I'm a one man woman, and you want me to
+Be yours for one night, and that's all I am to you
+Two's complete, three is a crowd, so I'm not playin' around
+
+I'm a one man woman, I'm a one man woman, I'm a one man woman, oohoo
+
+There's only one, and you don't come near him no way
+There's only one, and you'll understand what I mean, someday, hey, hey, hey
+
+I'm free to do as I please, but I know what works best for me
+
+I'm a one man woman,
+I'm a one man woman
+I'm a one man woman,
+I'm a one man woman
+I'm a one man woman, 
+I'm a one man woman,
+I'm a one man woman, oohoo
+
+I want you to know,
+I'm a one man woman
+
+
 

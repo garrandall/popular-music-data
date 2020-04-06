@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pink-cadillac-natalie-cole
+lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/pinkcadillac.html
 name: Pink Cadillac
 rankings:
 - end_date: '1988-03-11'
@@ -75,4 +76,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
 ---
+
+You may think I'm fooling
+For the foolish things I do
+You may wonder how come I love you
+When you get on my nerves like you do
+
+Well baby, you know you bug me
+There ain't no secret about that
+Well, come on over here and hug me
+And, baby, I'll spill the facts
+
+Well, honey it ain't your money
+'Cause I got plenty of that
+
+I love you for your pink Cadillac
+Crushed velvet seats
+Riding in the back, oozing down the street
+Waving to the girls, peeling out of sight
+Spending all my money on a Saturday night
+Honey, I just wonder what you do 
+There in the back of your pink Cadillac
+Pink Cadillac
+
+Well, now way back in the Bible
+Temptations always come along
+There's always somebody tempting you
+Somebody into doing something they know is wrong
+
+Well, they tempt you, man, with silver 
+And they tempt you, sir, with gold
+And they tempt you with the pleasures 
+That flesh does surely hold
+
+They say Eve tempted Adam with an apple
+Man, I ain't going for that
+
+I know it was her pink Cadillac
+Crushed velvet seats
+Riding in the back, oozing down the street
+Waving to the girls, peeling out of sight
+Spending all my money on a Saturday night
+Honey, I just wonder what you're doing
+In the back of your pink Cadillac
+Pink Cadillac
+
+Now, now, now, some folks say it's too big 
+And uses too much gas
+Some folks say that it's too old
+And that it just goes too fast
+
+Ho, but love is bigger than a Honda (Honda)
+And it's bigger than a Subaru (that, too)
+Hey man there's only one thing
+And one car that will do
+
+Anyway we don't have to drive it 
+Honey, we can park it out in back
+And have a party in your pink Cadillac
+
+Crushed velvet seats
+Riding in the back, oozing down the street
+Waving to the girls, peeling out of sight
+Spending all my money on a Saturday night
+Honey, I just wonder what you do there
+In the back of your pink Cadillac
+You know the one I mean, Le Car
+
+
 

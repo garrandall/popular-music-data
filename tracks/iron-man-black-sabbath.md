@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: iron-man-black-sabbath
+lyrics_url: https://www.azlyrics.com/lyrics/blacksabbath/ironman.html
 name: Iron Man
 rankings:
 - end_date: '1972-02-04'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
+
+I am Iron Man
+
+Has he lost his mind?
+Can he see or is he blind?
+Can he walk at all
+Or if he moves will he fall?
+
+Is he alive or dead?
+Has he thoughts within his head?
+We'll just pass him there
+Why should we even care?
+
+He was turned to steel
+In the great magnetic field
+When he traveled time
+For the future of mankind
+
+Nobody wants him
+He just stares at the world
+Planning his vengeance
+That he will soon unfurl
+
+Now the time is here
+For Iron Man to spread fear
+Vengeance from the grave
+Kills the people he once saved
+
+Nobody wants him
+They just turn their heads
+Nobody helps him
+Now he has his revenge
+
+Heavy boots of lead
+Fill his victims full of dread
+Running as fast as they can
+Iron Man lives again!
+
+
 

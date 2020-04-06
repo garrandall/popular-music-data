@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-down-easy-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/letmedowneasy.html
 name: Let Me Down Easy
 rankings:
 - end_date: '2010-12-17'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
 ---
+
+There's a little moonlight, dancin' on the sand
+There's a warm breeze blowin' by the ocean as you're takin' my hand
+You need to know where I'm standin' now
+That I'm right on the edge of givin' in to ya
+Baby it's a long way down
+
+If I fall, can ya let me down easy?
+If I leave my heart with you tonight
+Will you promise me that you're gonna treat it right?
+I'm barely hangin' on
+If I fall, can you let me down easy?
+
+The scent of your perfume, floatin' in the air
+Lookin' like an angel, lyin' on a blanket with a halo of hair
+And those lips, look too good to be true
+Once I taste that kiss, I know what'll happen
+I'll be at the mercy of you
+
+If I fall, can ya let me down easy?
+If I leave my heart with you tonight
+Will you promise me that you're gonna treat it right?
+I'm barely hangin' on
+So if I fall, can you let me down easy?
+
+If I fall, can ya let me down easy?
+If I leave my heart with you tonight
+Will you promise me, girl, you're gonna treat it right?
+I'm barely hangin' on
+So if I fall, can you let me down easy?
+If I fall, can you let me down easy?
+
+Let me down easy babe
+Mmmm
+
+
 

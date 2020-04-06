@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shut-up-and-dance-walk-the-moon
+lyrics_url: https://www.azlyrics.com/lyrics/derekryan/shutupanddancewithme.html
 name: Shut Up And Dance
 rankings:
 - end_date: '2014-11-28'
@@ -219,4 +220,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
 ---
+
+Oh don't you dare look back
+Just keep your eyes on me
+I said you're holding back
+She said shut up and dance with me!
+This woman is my destiny
+She said oh oh oh
+Shut up and dance with me
+
+We were victims of the night
+The chemical, physical, kryptonite
+Helpless to the bass and faded light
+Oh we were born to get together
+Born to get together
+
+She took my arm
+I don't know how it happened
+We took the floor and she said
+
+Oh don't you dare look back
+Just keep your eyes on me
+I said you're holding back
+She said shut up and dance with me!
+This woman is my destiny
+She said oh oh oh
+Shut up and dance with me
+
+A backless dress and some beat up sneaks
+My discotheque Juliet teenage dream
+I felt it in my chest as she looked at me
+I knew we were born to be together
+Born to be together
+
+She took my arm
+I don't know how it happened
+We took the floor and she said
+
+Oh don't you dare look back
+Just keep your eyes on me
+I said you're holding back
+She said shut up and dance with me!
+This woman is my destiny
+She said oh oh oh
+Shut up and dance with me
+
+Deep in her eyes
+I think I see the future
+I realize this is my last chance
+
+She took my arm
+I don't know how it happened
+We took the floor and she said
+
+Oh don't you dare look back
+Just keep your eyes on me
+I said you're holding back
+She said shut up and dance with me!
+This woman is my destiny
+She said oh oh oh
+Shut up and dance with me
+
+Don't you dare look back
+Just keep your eyes on me
+I said you're holding back
+She said shut up and dance with me!
+This woman is my destiny
+She said oh oh oh
+Shut up and dance with me
+
+Oh oh oh
+Shut up and dance with me
+
+Oh oh oh
+Shut up and dance with me
+
+
 

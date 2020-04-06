@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: palisades-park-freddy-cannon
+lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/palisadespark.html
 name: Palisades Park
 rankings:
 - end_date: '1962-05-18'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
 ---
+
+Last night I took a walk in the dark
+A swingin' place called Palisades Park
+To have some fun and see what I could see
+That's where the girls are
+
+I took a ride on a shoot-the-chute
+That girl I sat beside was awful cute
+And when we stopped she was holdin' hands with me
+My heart was flyin'
+
+Up like a rocket ship
+Down like a roller coaster
+Back like a loop-the-loop
+And around like a merry-go-round
+
+We ate and ate at a hot dog stand
+We danced around to a rockin' band
+And when we stopped I gave that girl a hug
+In the tunnel of love
+
+You'll never know how great a kiss can feel
+'Til you stop at the top of a Ferris wheel
+When we fell in love
+Down at Palisades Park
+
+We ate and ate at a hot dog stand
+We danced around to a rockin' band
+And when we stopped I gave that girl a hug
+In the tunnel of love
+
+You'll never know how great a kiss can feel
+'Til you stop at the top of a Ferris wheel
+When we I fell in love
+Down at Palisades Park
+Down at Palisades Park
+Down at Palisades Park
+Down at Palisades Park
+Down at Palisades Park
+Down at Palisades Park
+
+
 

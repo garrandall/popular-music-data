@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-it-against-me-britney-spears
+lyrics_url: https://www.azlyrics.com/lyrics/alexgoot/holditagainstme.html
 name: Hold It Against Me
 rankings:
 - end_date: '2011-02-04'
@@ -75,4 +76,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
 ---
+
+Hey, over there
+Please, forgive me
+If I'm comin' on too strong
+Hate to stare
+But, you're winnin'
+And they're playin' my favorite song
+So, so come here
+A little closer
+Wanna whisper in your ear
+Make it clear
+A little question
+Wanna know just how you feel
+
+
+If I said my heart was beating loud
+If we could escape the crowd somehow
+If I said I want your body now
+Would you hold it against me?
+'Cause, you feel like paradise
+And I need a vacation tonight
+if I said I want your body now
+Would you hold it against me?
+
+Hey, you might think
+That I'm crazy
+But, you know I'm just your type
+I might be
+A little hazy
+But, you know you can't deny
+There's a spark
+In between us
+When we're dancin' on the floor
+I want more
+Wanna see it
+So, I'm askin' you tonight
+
+
+If I said my heart was beating loud
+If we could escape the crowd somehow
+If I said I want your body now
+Would you hold it against me?
+'Cause, you feel like paradise
+And I need a vacation tonight
+if I said I want your body now
+Would you hold it against me?
+
+If I said I 
+If I said I
+Would you hold it against me?
+If I said I 
+If I said I
+Would you hold it against me?
+
+If I said I want your body now
+Would you hold it against me?
+
+If I said I want your body now
+Would you hold it against me?
+
+
 

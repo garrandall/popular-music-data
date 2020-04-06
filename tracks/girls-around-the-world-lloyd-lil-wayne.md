@@ -5,6 +5,7 @@ features:
 - Lil Wayne
 genres: []
 key: girls-around-the-world-lloyd-lil-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/lloyd/pusha104854.html
 name: Girls Around The World
 rankings:
 - end_date: '2008-06-13'
@@ -64,4 +65,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
 ---
+
+
+(Yeah, ooh, ooh, ooh)
+
+You're my pusha
+Girl you got the world
+But I wanna try
+Don't wanna break the rules but I get high off your supply
+Don't make me wait
+I'll do what it takes
+Your love is the fix I wanna taste
+
+Her love is like cocaine cocaine
+I'm flying on a private plane
+And I'm so high (so high, so high, I sail in the sky)
+Cobain, Cobain
+She blows my brain
+I'm trippin', I'm rollin'
+I'm losing all control cause
+
+She's my pusha, pusha
+She's my pusha pusha
+Girl she's my pusha, pusha
+Pusha, pusha
+
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+
+I'm lifted baby
+Your love is extasy
+Everytime I'm with ya baby
+I relapse and I OD
+I'm addicted to you
+Keep coming back for more
+Never took a trip like this before
+
+Her love is like cocaine cocaine
+I'm flying on a private plane
+And I'm so high (so high, so high, I sail in the sky)
+Cobain, Cobain
+She blows my brain
+I'm trippin', I'm rollin'
+I'm losing all control cause
+
+She's my pusha, pusha
+She's my pusha pusha
+Girl she's my pusha, pusha
+Pusha, pusha
+
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+
+(Pusha, yes she's my pusha, yes she's my pusha, yes she's my my my pusha)
+
+
+And this is your Wayne on drugs
+I be running around getting high on love
+Too much it kill you, I know that's right
+But she got that crack and I got that pipe
+Now if shes the pusha, then I'm the hustla
+And loves the drug, then this for the lovers
+Uh, one time for them boys in the streets with it
+But me and shorty we be hustlin in the sheets with it
+She sellin em fire
+And only when the drugs are done, I'll feel like dying
+She dope, she bad, I think I'm a have to go to rehab
+
+She's my pusha, pusha
+She's my pusha pusha
+Girl she's my pusha, pusha
+Pusha, pusha
+
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+She gon' make me push it
+Push our love
+
+Push our love
+(Push, push, push)
+
+
 

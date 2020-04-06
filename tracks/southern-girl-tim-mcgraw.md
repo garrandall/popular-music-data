@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southern-girl-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/southerngirl.html
 name: Southern Girl
 rankings:
 - end_date: '2013-08-16'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
 ---
+
+Now I ain't sayin' them LA ladies don't know what they're doin'
+And I been in love with New York City a time or two
+I had some Seattle coffee, some Chicago wind
+Some Kansas wheat fields I'd love to see again
+But the fireflies play where the cattails grow
+And them southern girls, they talk nice and slow with
+
+Kisses sweeter than Tupelo honey
+Little bit crazy like New Orleans
+Memphis blue and Daytona sunny
+Soft as cotton in some cut-off jeans
+Don't you know,
+Ain't nothing in the whole wide world
+Like a southern girl
+
+(Southern girl rock my world
+Hazel eyes and golden curls
+Put on a country song
+We'll dance all night long)
+
+A southern girl's mama probably taught her how a lady should act
+But a southern girl's probably got a barn somewhere reared out back
+She'll get a little hay in her hair, her tires in the mud
+She's been caught in the rain, and washed in the blood
+Likes cherries in her coke, takes a little sip,
+Comes over to me with them sunburned lips and them
+
+Kisses sweeter than Tupelo honey
+Little bit crazy like New Orleans
+Memphis blue and Daytona sunny
+Soft as cotton in some cut-off jeans
+Don't you know,
+Ain't nothing in the whole wide world
+Like a southern girl
+
+(Southern girl rock my world
+Hazel eyes and golden curls
+Put on a country song
+We'll dance all night long)
+
+If you've ever seen Savannah heat up when the stars come out
+Well, then, fellas, come on, you know what I'm talkin' about
+
+Kisses sweeter than Tupelo honey
+Little bit crazy like New Orleans
+Memphis blue and Daytona sunny
+Soft as cotton in some cut-off jeans
+Don't you know,
+Ain't nothing in the whole wide world
+Like a southern girl
+
+(Southern girl rock my world
+Put on a country song
+
+
+(Southern girl rock my world
+Hazel eyes and golden curls
+Put on a country song
+We'll dance all night long)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-drag-the-intruders
+lyrics_url: https://www.azlyrics.com/lyrics/intruders/slowdrag.html
 name: Slow Drag
 rankings:
 - end_date: '1968-11-15'
@@ -35,4 +36,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
 ---
+
+Hmm, closer
+I wanna be closer to you
+
+(I like to get close)
+Closer
+(I like to get close)
+Like to be close to you, baby
+(I like to get close
+To the one I love)
+
+Oh, baby
+I like to get close
+To the one I love
+So I slow drag
+
+My girl, she asked me
+How come I don't do the boogaloo
+(Boogaloo)
+I told her, baby
+'Cause I can't get close
+Enough to you
+(Close to you)
+(Closer, closer)
+
+I told her
+That's the only dance
+That I like to do
+It's a dance
+I can hold her yet
+Steal a little kiss or two
+
+Oh, baby
+I like to get close
+To the one I love
+So I slow drag
+
+And I want to slow down
+With you, baby
+I like to close
+To the one I love
+So I slow drag
+
+My girl
+She asked me out to the party
+Her friends told her
+That I was a drag (drag)
+Just because I don't do the dance
+The way they want me to
+Can't they see
+That I'm in a different bag
+
+Oh, baby
+I like to get close
+To the one I love
+So I slow drag
+
+And I want to slow down
+With you, baby
+I like to close
+To the one I love
+So I slow drag
+
+Ooh, hold me close
+Hold me closer to you
+And all you got to do
+Is squeeze me, baby
+And hold me closer to you
+
+Oh, baby
+I like to get close
+To the one I love
+So I slow drag
+
+And I want to slow down
+With you, baby
+I like to close
+To the one I love
+So I slow drag
+
+I like to close
+To the one I love
+So I slow drag
+
+I like to close
+To the one I love
+So I slow drag
+
+I like to close
+To the one I love
+So I slow drag
+
+
 

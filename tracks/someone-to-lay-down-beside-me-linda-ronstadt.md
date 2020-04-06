@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someone-to-lay-down-beside-me-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/someonetolaydownbesideme.html
 name: Someone To Lay Down Beside Me
 rankings:
 - end_date: '1976-12-10'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
 ---
+
+There's somebody waiting alone in the street
+For someone to walk up and greet
+Here you are all alone in the city
+Where's the love that you took to your side
+Lonely faces will stare through your eyes in the night
+
+And they'll say
+Woman sweet woman
+Please come home with me
+You're shining and willing and free
+But your love is a common occurrence
+Not like love that I feel in my heart
+Still you know that may be what I need
+
+Is someone to lay down beside me
+And even though it's not real
+Just someone to lay down beside me
+You're the story of my life
+
+Someone to lay down beside me
+And even though it's not real
+Just someone to lay down beside me
+You're the story of my life
+
+The morning is breaking
+The street lights are off
+The sun will soon share all the cost
+Of a world that can be sort of heartless
+Not like love that I feel in my heart
+Still you know that may be all you'll get
+
+Is someone to lay down beside you
+And even though it's not real
+Just someone to lay down beside you
+You just can't ask for more
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hazy-shade-of-winter-the-bangles
+lyrics_url: https://www.azlyrics.com/lyrics/bangles/hazyshadeofwinter.html
 name: Hazy Shade Of Winter
 rankings:
 - end_date: '1987-11-20'
@@ -91,4 +92,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
 ---
+
+Time, time, time, see what's become of me
+While I looked around
+For my possibilities
+I was so hard to please
+But look around, leaves are brown
+And the sky is a hazy shade of winter
+
+Hear the salvation army band
+Down by the riverside, it's bound to be a better ride
+Than what you've got planned
+Carry your cup in your hand
+And look around, leaves are brown now
+And the sky is a hazy shade of winter
+
+Hang on to your hopes, my friend
+That's an easy thing to say, but if your hopes should pass away
+Simply pretend
+That you can build them again
+Look around, the grass is high
+The fields are ripe, it's the springtime of my life
+
+Ahhh, seasons change with the scenery
+Weaving time in a tapestry
+Won't you stop and remember me
+
+But look around, leaves are brown now
+And the sky is a hazy shade of winter
+
+Look around, leaves are brown
+There's a patch of snow on the ground...
+
+
 

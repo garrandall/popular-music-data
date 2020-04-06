@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: now-and-forever-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/nowandforever.html
 name: Now And Forever
 rankings:
 - end_date: '1994-01-28'
@@ -115,4 +116,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
 ---
+
+Whenever I'm weary
+From the battles that raged in my head
+You made sense of madness
+When my sanity hangs by a thread
+I lose my way, but still you
+Seem to understand
+Now & Forever,
+I will be your man
+
+Sometimes I just hold you
+Too caught up in me to see
+I'm holding a fortune
+That Heaven has given to me
+I'll try to show you
+Each and every way I can
+Now & Forever,
+I will be your man
+
+Now I can rest my worries
+And always be sure
+That I won't be alone, anymore
+If I'd only known you were there
+All the time,
+All this time.
+
+Until the day the ocean
+Doesn't touch the sand
+Now & Forever
+I will be your man
+
+Now & Forever,
+I will be your man
+
+
 

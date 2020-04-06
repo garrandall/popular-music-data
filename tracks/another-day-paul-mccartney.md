@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-day-paul-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/anotherday.html
 name: Another Day
 rankings:
 - end_date: '1971-03-12'
@@ -55,4 +56,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
 ---
+
+Every day she takes a morning bath, she wets her hair,
+Wraps a towel 'round her as she's heading for the bedroom chair,
+It's just another day.
+Slippin' into stockings,
+Steppin' into shoes,
+Dippin' in the pocket of her raincoat,
+
+It's just another day.
+
+At the office where the papers grow she takes a break,
+Drinks another coffee and she finds it hard to stay awake,
+
+It's just another day,
+Choo choo choo choo choo choo,
+It's just another day,
+Choo choo choo choo choo choo,
+It's just another day.
+
+So sad, so sad,
+Sometimes she feels so sad,
+Alone in her apartment she'd dwell,
+Til the man of her dreams comes to break the spell.
+
+Ah... Stay,
+Don't stand her up,
+Then he comes and he stays,
+But he leaves the next day... so sad,
+Sometimes she feels so sad...
+
+As she posts another letter to the sound of five,
+People gather 'round her and she finds it hard to stay alive,
+
+It's just another day,
+Choo choo choo choo choo choo,
+It's just another day,
+Choo choo choo choo choo choo,
+It's just another day.
+
+So sad, so sad,
+Sometimes she feels so sad,
+Alone in her apartment she'd dwell,
+'Til the man of her dreams comes to break the spell.
+
+Ah... Stay,
+Don't stand her up,
+And he comes and he stays,
+But he leaves the next day... so sad,
+Sometimes she feels so sad.
+
+Everyday she takes a morning bath, she wets her hair,
+Wraps a towel 'round her as she's heading for the bedroom chair,
+It's just another day.
+
+Slippin' into stockings,
+Steppin' into shoes,
+Dippin' in the pocket of her raincoat,
+
+Ah, It's just another day,
+Choo choo choo choo choo choo,
+It's just another day,
+Choo choo choo choo choo choo,
+It's just another day.
+
+
 

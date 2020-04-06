@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: victoria-the-kinks
+lyrics_url: https://www.azlyrics.com/lyrics/kinks/victoria.html
 name: Victoria
 rankings:
 - end_date: '1970-02-06'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+
+Long ago life was clean
+Sex was bad and obscene
+And the rich were so mean
+Stately homes for the Lords
+Croquet lawns, village greens
+Victoria was my queen
+Victoria, Victoria, Victoria, 'toria
+
+I was born, lucky me
+In a land that I love
+Though I am poor, I am free
+When I grow I shall fight
+For this land I shall die
+Let her sun never set
+Victoria, Victoria, Victoria, 'toria
+Victoria, Victoria, Victoria, toria
+
+Land of hope and gloria
+Land of my Victoria
+Land of hope and gloria
+Land of my Victoria
+Victoria, 'toria
+Victoria, Victoria, Victoria, 'toria
+
+Canada to India
+Australia to Cornwall
+Singapore to Hong Kong
+From the West to the East
+From the rich to the poor
+Victoria loved them all
+Victoria, Victoria, Victoria, 'toria
+Victoria, Victoria, Victoria
+
+
 

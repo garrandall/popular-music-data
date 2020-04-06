@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: telephone-line-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/timeofourlife.html
 name: Telephone Line
 rankings:
 - end_date: '1977-06-17'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+
+Went down to London town
+To play our music at the football ground
+I can't believe this is going down
+I said to my friend Phil
+
+60,000 rocking out
+And singing loud, I had to shout
+And best of all, they seemed so happy
+Just being there
+
+Oh what a time we had that night
+We had the time of our life
+Oh what a time we had that night
+We had the time of our life
+
+We had the time of our life
+
+As we played on it came to me
+This could be the best night I've ever seen
+The whole of Wembley is singing along
+To every little song
+
+60,000 mobile phones
+Were shining in the dark of night
+Waving and weaving and boy did they shine
+When we struck up with Telephone Line
+Oh telephone line
+We had that night
+We had the time of our life
+Oh what a time we had that night
+We had the time of our life
+
+We had the time of our life
+
+Oh what a time we had that night
+We had the time of our life
+Oh what a time we had that night
+We had the time of our life
+We had the time of our life
+We had the time of our life
+Time of our life
+
+
 

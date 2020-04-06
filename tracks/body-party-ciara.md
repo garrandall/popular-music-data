@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: body-party-ciara
+lyrics_url: https://www.azlyrics.com/lyrics/ciara/bodypartygentlemensremix.html
 name: Body Party
 rankings:
 - end_date: '2013-05-17'
@@ -87,4 +88,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
 ---
+
+This is the remix
+Gentlemenâs remix
+You ready?
+Yeah
+Where do you want me to start?
+Right there
+
+
+Did you receive my invitation
+You did I see that you R.S.V.P. no hesitation
+Three letters on the bottom
+B.Y.B.: bring ya body
+Nothing more and nothing less
+Dress code is strictly enforced
+But feel free to come under dressed
+Ooh girl slow it down a bit
+Movinâ that thang like that girl
+You gon' end this party quick
+Have me apologizing and shit
+Talkinâ bout my bad
+Give me ten minutes
+Round two will be greater
+While we are waiting come here baby,
+Let me taste your party favors
+When I put my mouth on you
+Kiss you right there, rock that body
+Treat you like good cooked food
+Girl your body is my dinner party
+I know you like it too
+Your legs wonât stop shakinâ
+Girl youâre invited to my dinner party
+Your bodyâs the entrÃ©e, ooh
+Girl you should know that
+Your love is my favorite dish
+You wanted your mind blown, just lay back
+And let me grant your wish
+Girl you should know that your love
+Is my favorite dish
+You wanted your mind blown I love it
+Hold on, you like that baby?
+
+
+I canât lie, I wonât lie, itâs amazing
+My faces go places, youâre taking me
+Baby take your time now, thereâs no need to rush
+We can go another round if thatâs what you want
+Cause tonight itâs going down
+Yeah, you know itâs going down
+We in the zone now, donât stop
+Oh oh
+
+You can't keep your hands off me
+Touch me right there, rock my body
+I canât keep my hands off you
+Your body is my party
+Iâm doing this little dance for you
+You got me so excited
+Now itâs just me and you
+Your bodyâs my party, letâs get it started, oh
+Boy you should know that
+Your love is always on my mind
+Iâm not gonna fight it
+I want it all the time
+Boy you should know that
+Your love is always on my mind
+And I canât deny it
+I want you, Iâm on you
+
+The things I wanna do to you
+My bodyâs calling you
+Iâm having so much fun with you
+Now itâs just me and you
+Your bodyâs my party,
+Letâs get it started, ooh
+
+
 

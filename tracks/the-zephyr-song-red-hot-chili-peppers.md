@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-zephyr-song-red-hot-chili-peppers
+lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/thezephyrsong.html
 name: The Zephyr Song
 rankings:
 - end_date: '2002-11-15'
@@ -63,4 +64,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
 ---
+
+Can I get your hand to write on
+Just a piece of leg to bite on?
+What a night to fly my kite on
+Do you want to flash your light on?
+Take a look it's on display for you
+Coming down, no not today
+
+Did you meet your fortune teller
+Get it off with no propeller
+Do it up itâs on with Stella
+What a way to finally smell her
+Pickinâ up but not too strong for you
+Take a piece and pass it on
+
+Fly away on my zephyr
+I feel it more than ever
+And in this perfect weather
+Weâll find a place together
+Fly on my wind
+
+Rebel and a liberator
+Find a way to be a skater
+Rev it up to levitate her
+Super friendly aviator
+Take a look it's on display for you
+Cominâ down, no not today
+
+Fly away on my zephyr
+I feel it more than ever
+And in this perfect weather
+Weâll find a place together
+
+In the water where I center my emotion
+All the world can pass me by
+Fly away on my zephyr
+Weâll find a place together
+
+Whoa whoa whoa whoa whoa whoa - do you
+Yeah yeah yeah yeah yeah yeah
+Whoa whoa whoa whoa whoa whoa - won't you
+Yeah yeah yeah yeah yeah yeah
+
+Fly away on my zephyr
+I feel it more than ever
+And in this perfect weather
+Weâll find a place together
+
+In the water where I center my emotion
+All the world can pass me by
+Fly away on my zephyr
+Weâre gonna live forever
+Forever
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hawaiian-wedding-song--ke-kali-nei-au--andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/thehawaiianweddingsongkekalineiau.html
 name: The Hawaiian Wedding Song (Ke Kali Nei Au)
 rankings:
 - end_date: '1959-01-04'
@@ -87,4 +88,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
+
+This is the moment I've waited for
+I can hear my heart singing
+Soon bells will be ringing
+
+This is the moment of sweet aloha
+I will love you longer than forever
+Promise me that you will leave me never
+
+Here and now, dear
+All my love I vow, dear
+Promise me that you will leave me never
+I will love you longer than forever
+
+Now that we are one
+Clouds won't hide the sun
+Blue skies of Hawaii smile
+On this, our wedding day
+
+I do
+Love you
+With all
+My heart
+
+
 

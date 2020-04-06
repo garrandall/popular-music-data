@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: weak-and-powerless-a-perfect-circle
+lyrics_url: https://www.azlyrics.com/lyrics/perfectcircle/weakandpowerless.html
 name: Weak And Powerless
 rankings:
 - end_date: '2003-10-03'
@@ -79,4 +80,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-24'
 ---
+
+Tilling my own grave to keep me level
+Jam another dragon down the hole
+Digging to the rhythm and the echo of a solitary siren
+One that pushes me along and leaves me so
+
+Desperate and ravenous
+So weak and powerless over you
+
+Someone feed the monkey while I dig in search of China
+White as Dracula as I approach the bottom
+
+Desperate and ravenous
+So weak and powerless over you
+
+Little angel go away
+Come again some other day
+The devil has my ear today
+I'll never hear a word you say
+He promised I would find a little solace
+And some peace of mind
+Whatever just as long as I don't feel so
+
+Desperate and ravenous
+So weak and powerless
+Desperate and ravenous
+So weak and powerless
+Over you
+Over you
+
+
 

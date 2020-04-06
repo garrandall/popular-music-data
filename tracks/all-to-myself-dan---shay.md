@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-to-myself-dan---shay
+lyrics_url: https://www.azlyrics.com/lyrics/danshay/alltomyself.html
 name: All To Myself
 rankings:
 - end_date: '2019-05-24'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
 ---
+
+I'm jealous of the blue jeans that you're wearing
+And the way they're holding you so tight
+I'm jealous of the moon that keeps on staring
+So lock the door and turn out the night
+
+I want you all to myself
+We don't need anyone else
+Let our bodies do the talking
+Let our shadows paint the wall
+I want you here in my arms
+We'll hide away in the dark
+Slip your hand in my back pocket
+Go and let your long hair fall
+I want you all to myself, to myself
+
+I'm jealous of the song that you've been singing
+And the way it's rolling off your lips
+It might be selfish but I'm thinking
+I don't need nothing between you
+Leaning for another kiss, yeah
+
+I want you all to myself
+We don't need anyone else
+Let our bodies do the talking
+Let our shadows paint the wall
+I want you here in my arms
+We'll hide away in the dark
+Slip your hand in my back pocket
+Go and let your long hair fall
+I want you all, all, all to myself, to myself, yeah
+
+Girl, I want you in the worst way
+Yeah, I want you in the worst way
+
+I want you all to myself
+We don't need anyone else
+Let our bodies do the talking
+Let our shadows paint the wall
+I want you here in my arms
+We'll hide away in the dark
+Slip your hand in my back pocket
+Go and let your long hair fall
+I want you all, all, all to myself, to myself
+I want you all, all, all to myself, to myself, yeah
+
+
 

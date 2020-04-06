@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amanda-waylon
+lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/amanda.html
 name: Amanda
 rankings:
 - end_date: '1979-06-15'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+
+I've held it all inward, God knows, I've tried,
+But it's an awful awakening in a country boy's life,
+To look in the mirror in total surprise.
+At the hair on my shoulders and the age in my eyes. 
+
+Amanda, light of my life.
+Fate should have made you a gentleman's wife.
+Amanda, light of my life. 
+Fate should have made you a gentleman's wife.
+
+It's a measure of people who don't understand,
+The pleasures of life in a hillbilly band.
+I got my first guitar when I was fourteen, 
+Well I finally made forty, still wearing jeans.
+
+Amanda, light of my life.
+Fate should have made you a gentleman's wife.
+Amanda, light of my life. 
+Fate should have made you a gentleman's wife.
+
+
 

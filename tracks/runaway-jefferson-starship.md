@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaway-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/runaway.html
 name: Runaway
 rankings:
 - end_date: '1978-06-02'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
 ---
+
+You don't know how much I love you 
+but I love you like the sun 
+I'd like to put my arms around you 
+and we could runaway 
+
+if you knew how much I miss you 
+oh and I miss you more and more each day 
+I'd really like o come and see you 
+and we could runaway 
+sun is comin' and it's getting warmer 
+they tell me spring is just around the corner 
+I been sitting watchin' all the flowers 
+birds are singin' getting louder and louder 
+
+and here I am missin' you 
+and here I go I'm lovin' you 
+run run run run runnin' 
+if you knew how much I need you 
+oh and I need you like the air 
+and if someone should take you from me 
+well then I'd runaway...
+
+
 

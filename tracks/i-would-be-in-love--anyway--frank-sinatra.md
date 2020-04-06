@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-would-be-in-love--anyway--frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/iwouldbeinloveanyway.html
 name: I Would Be In Love (Anyway)
 rankings:
 - end_date: '1970-03-27'
@@ -19,4 +20,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
 ---
+
+If I lived the past over, saw today from yesterday
+I would be in love anyway
+If I knew that you'd leave me, if I knew you wouldn't stay
+I would be in love anyway
+Sometimes I think, think about before
+Sometime I think, if I knew then what I know now
+I don't believe I'd ever change somehow
+Though you'll never be with me, and there are no words to say
+I'll still be in love anyway
+If I knew then what I know now, I don't believe I'd ever change
+Somehow if I knew then what I know now
+I don't believe I'd ever change somehow
+
+
 

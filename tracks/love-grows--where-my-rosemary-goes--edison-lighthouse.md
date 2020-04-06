@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-grows--where-my-rosemary-goes--edison-lighthouse
+lyrics_url: https://www.azlyrics.com/lyrics/edisonlighthouse/lovegrowswheremyrosemarygoes.html
 name: Love Grows (Where My Rosemary Goes)
 rankings:
 - end_date: '1970-02-27'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
 ---
+
+She ain't got no money
+Her clothes are kinda funny
+Her hair is kinda wild and free
+Oh, but love grows where my Rosemary goes
+And nobody knows like me
+
+She talks kinda lazy
+And people say she's crazy
+And her life's a mystery
+Oh, but love grows where my Rosemary goes
+And nobody knows like me
+
+There's something about her hand holding mine
+It's a feeling that's fine
+And I just gotta say, hey!
+She's really got a magical spell
+And it's working so well
+That I can't get away
+
+I'm a lucky fella
+And I just got to tell her
+That I love her endlessly
+Because love grows where my Rosemary goes
+And nobody knows like me
+
+There's something about her hand holding mine
+It's a feeling that's fine
+And I just gotta say, hey!
+She's really got a magical spell
+And it's working so well
+That I can't get away
+
+I'm a lucky fella
+And I just got to tell her
+That I love her endlessly
+Because love grows where my Rosemary goes
+And nobody knows like me
+
+It keeps growing every place she's been
+And nobody knows like me
+If you've met her, you'll never forget her
+And nobody knows like me
+La la la, believe it when you've seen it
+Nobody knows like me
+
+
 

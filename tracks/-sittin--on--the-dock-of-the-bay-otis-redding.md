@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -sittin--on--the-dock-of-the-bay-otis-redding
+lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/sittinonthedockofthebay.html
 name: (Sittin' On) The Dock Of The Bay
 rankings:
 - end_date: '1968-02-02'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
+
+Sittin' in the morning sun
+I'll be sittin' when the evening come
+Watching ships roll in
+And I'll watch 'em roll away again
+
+Lord, I'm just sittin' on the dock of the bay
+Watching the tide roll away
+Sittin' on the dock of the bay
+Wasting time
+
+I left my home in Georgia
+Headed for the Frisco bay
+I have nothing to live for
+Looks like nothings gonna come my way
+
+So I'm gonna sit on the dock of the bay
+Watching the tide roll away, ooh Lord
+Sittin' on the dock of the bay
+Wasting time, oh
+
+Look like nothings gonna change
+Every, everything still remains the same
+I can't do what ten people tell me to do
+So I guess I'll remain the same, yeah
+
+Sittin' here resting my bones
+This loneliness won't leave me alone, no
+Two thousand miles I roam
+Just to make this dock my home
+
+Now, I'm just sittin' on the dock of the bay
+Watching the tide roll away, yeah
+Sittin' on the dock of the bay
+Wasting time, oh yeah
+
+Sittin' on the dock of the bay
+Wasting time, time, time, oh
+Sittin' on the dock of the bay
+Wasting time, time, time
+
+Sittin' on the dock of the bay
+Wasting time, time, time
+Sittin' on the dock of the bay
+Wasting time, time, time, oh
+
+Sittin' on the dock of the bay
+Wasting time, time, time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-gabrielle
+lyrics_url: https://www.azlyrics.com/lyrics/gabrielle/iwish.html
 name: I Wish
 rankings:
 - end_date: '1994-05-06'
@@ -63,4 +64,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
 ---
+
+You don't know what you do to me
+Sometimes I find
+You knock me off my feet
+Oh how I wish
+That we could be alone
+Oh how I wish to me
+That you belonged
+
+I often watch you
+When you're least aware
+Even though I know
+It's really rude to stare
+Sometimes I find
+I just can't help myself
+'Cos I want you
+want nobody else
+
+My heart skips a beat
+Whenever you are near
+And I just don't know
+What I'm gonna do
+
+Oh how I wish
+That you were here
+Oh how I wish
+That you were near
+Holding me tight
+Spending some time
+Wish you were mine
+
+My thoughts revealed
+I'm showing all the signs
+When we're face to face
+I can't look in your eyes
+Sometimes I find
+I just can't help myself
+'Cos I want you
+Want nobody else
+
+My heart skips a beat
+Whenever you are near
+And I just don't know
+What I'm gonna do
+
+Oh how I wish
+That you were here
+Oh how I wish
+That you were near
+Holding me tight
+Spending some time
+Wish you were mine
+
+My heart skips a beat
+Whenever you are near
+And I just don't know
+What I'm gonna do
+
+
 

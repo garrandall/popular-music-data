@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-climb-miley-cyrus
+lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/theclimb.html
 name: The Climb
 rankings:
 - end_date: '2009-03-27'
@@ -119,4 +120,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
 ---
+
+I can almost see it
+That dream I'm dreaming
+But there's a voice inside my head sayin'
+"You'll never reach it"
+Every step I'm takin'
+Every move I make feels lost with no direction
+My faith is shakin'
+
+But I, I gotta keep tryin'
+Gotta keep my head held high
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Sometimes I'm gonna have to lose
+Ain't about how fast I get there
+Ain't about what's waitin' on the other side
+It's the climb
+
+The struggles I'm facing
+The chances I'm taking
+Sometimes might knock me down
+But no, I'm not breaking
+I may not know it
+But these are the moments
+That I'm gonna remember most, yeah
+Just gotta keep goin'
+
+And I, I gotta be strong
+Just keep pushing on
+
+'Cause
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Sometimes I'm gonna have to lose
+Ain't about how fast I get there
+Ain't about what's waitin' on the other side
+It's the climb
+
+Yeah
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Somebody's gonna have to lose
+Ain't about how fast I get there
+Ain't about what's waitin' on the other side
+It's the climb
+
+Yeah, yeah, yeah
+
+Keep on movin'
+Keep climbin'
+Keep the faith, baby
+It's all about â it's all about the climb
+Keep the faith, keep your faith, whoa, whoa, oh
+
+
 

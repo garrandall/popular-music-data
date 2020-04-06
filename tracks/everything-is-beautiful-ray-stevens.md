@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-is-beautiful-ray-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/everythingisbeautiful.html
 name: Everything Is Beautiful
 rankings:
 - end_date: '1970-04-10'
@@ -67,4 +68,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
 ---
+
+Everything is beautiful
+In it's own way
+Like the starry summer nights
+Or a snow covered winter's day
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find the way
+
+There is none so blind
+As he who will not see
+We must not close our minds
+To let our thoughts be free
+For every hour that passes by
+The world's a little bit older
+It's time to realize
+That beauty lies in the
+Eyes of the beholder
+
+Everything is beautiful
+In it's own way
+Like the starry summer nights
+Or a snow covered winter's day
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find the way
+
+We shouldn't care
+About the length of his hair
+Or the color of his skin
+Don't worry about
+What shows from without
+But the love that lives within
+Well get it all together now
+Everything will work out fine
+Just take the time
+To look on the good side
+And straighten it out in your mind
+
+Everything is beautiful
+In it's own way
+Like a starry summer night
+On a snow covered winter's day
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find the way
+
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find the way
+
+Everybody's beautiful
+In their own way...
+
+
 

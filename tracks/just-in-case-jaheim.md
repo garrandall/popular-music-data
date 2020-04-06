@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-in-case-jaheim
+lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/justincase.html
 name: Just In Case
 rankings:
 - end_date: '2001-07-06'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-10'
 ---
+
+Think of how we made love almost anywhere
+Haven't I taken you almost everywhere?
+Think of all the things that, that we shared
+Then imagine me not there, oh
+
+Giving you more carrots than the rabbit
+Got you living lavish
+Anything I've got, you can have it
+Baby I'll do magic
+I'll do all I can to keep you satisfied
+So just in case I don't make it home tonight, baby
+
+Just in case I don't make it home tonight
+Maybe make love to you for the last time, baby
+Just in case, just in case
+Wanna cherish each moment like the last
+Cause baby you're all that I have, so just in case
+Just in case I don't make it home tonight
+Maybe make love to you for the last time, baby
+Wanna cherish each moment like the last
+Cause baby you're all that I have, so just in case
+
+Case, night, I don't make it
+Case, night
+Case, night, I don't make it
+Case, night, I don't make it
+Case, night, I don't make it
+Case, night, I don't make it
+
+Just in case I don't make it home tonight
+Maybe make love to you for the last time, baby
+Just in case, just in case
+Wanna cherish each moment like the last
+Cause baby you're all that I have, so just in case
+
+There's something you need to know
+Just in case I don't make it home tonight
+Maybe make love to you for the last time, baby
+Wanna cherish each moment like the last
+Cause baby you're all that I have, so just in case
+You're my heart, you're my soul
+Your heart makes me whole
+
+
 

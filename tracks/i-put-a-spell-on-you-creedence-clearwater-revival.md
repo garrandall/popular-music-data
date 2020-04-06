@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-put-a-spell-on-you-creedence-clearwater-revival
+lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/iputaspellonyou.html
 name: I Put A Spell On You
 rankings:
 - end_date: '1968-11-15'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
 ---
+
+I put a spell on you
+Because you're mine
+You better stop
+The things that you're doin'
+I said "Watch out!
+I ain't lyin', yeah!
+
+I ain't gonna take none of your
+Foolin' around
+I ain't gonna take none of your
+Puttin' me down
+I put a spell on you
+Because you're mine
+
+All right!
+
+
 

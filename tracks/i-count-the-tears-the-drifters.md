@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-count-the-tears-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/icountthetears.html
 name: I Count The Tears
 rankings:
 - end_date: '1960-12-25'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+
+Na, na, na, na, na, na late at nite
+Na, na, na, na, na, na late at nite
+
+I have counted everyday since you've been away
+It seemed like a thousand years
+And at na, na, na, na, na, na, late at night
+Na, na, na, na, na, na late at night
+I'll sit and count the tears
+
+I have counted all your lies all your alibis
+I'm a guy believes just what he hears
+And at na, na, na, na, na, na, late at night
+Na, na, na, na, na, na, late at night
+I'll sit and count the tears
+
+She's gone and found somebody new
+He may be happy now but soon
+He'll be counting everyday that she's been away
+It'll seem like a thousand years
+
+And at na, na, na, na, na, na, late at night
+Na, na, na, na, na, na, late at night
+He'll sit and count his tears
+He'll sit and count his tears
+He'll sit and count his tears
+He'll sit...and count his tears
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-finer-things-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/thefinerthings.html
 name: The Finer Things
 rankings:
 - end_date: '1987-02-13'
@@ -99,4 +100,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+
+While there is time
+Let's go out and feel everything
+If you hold me
+I will let you into my dream
+For time is a river rolling into nowhere
+We must live while we can
+And we'll drink our cup of laughter
+
+The finer things keep shining through
+The way my soul gets lost in you
+The finer things I feel in me
+The golden dance life could be
+
+Oh, I've been sad
+And have walked bitter streets alone
+And come morning
+There's a good wind to blow me home
+So time is a river rolling into nowhere
+I will live while I can
+I will have my ever after
+
+The finer things keep shining through
+The way my soul gets lost in you
+The finer things I feel in me
+The golden dance life could be
+
+We go so fast, why don't we make it last
+Life is glowing inside you and me
+Please take my hand, here where I stand
+Won't you come out and dance with me
+Come see, with me, come see
+
+And lovers try
+'Til they get the best of the night
+And come morning
+They are tangled up in the light
+So time be a river rolling into nowhere
+They love while they can
+And they think about the night so sweet
+
+The finer things keep shining through
+The way my soul gets lost in you
+The finer things I feel in me
+The golden dance life could be
+
+
 

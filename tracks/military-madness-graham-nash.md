@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: military-madness-graham-nash
+lyrics_url: https://www.azlyrics.com/lyrics/grahamnash/militarymadness.html
 name: Military Madness
 rankings:
 - end_date: '1971-09-10'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
 ---
+
+In an upstairs room in Blackpool
+By the side of a Northern Sea
+The army had my father
+And my mother was having me
+
+Military madness
+Was killing my country
+Solitary sadness
+Comes over me
+
+And after the school was over
+And I moved to the other side
+I found another country
+But I never lost my pride
+
+Military madness
+Was killing the country
+Solitary sadness
+Creeps over me
+
+And after the wars are over
+And the body count is finally filed
+I hope that man discovers
+What's driving the people wild
+
+Military madness
+Is killing your country
+So much sadness
+Between you and me
+
+War, war, war
+War, war, war
+
+
 

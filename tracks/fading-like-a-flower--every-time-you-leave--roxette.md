@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fading-like-a-flower--every-time-you-leave--roxette
+lyrics_url: https://www.azlyrics.com/lyrics/roxette/fadinglikeaflowereverytimeyouleave.html
 name: Fading Like A Flower (Every Time You Leave)
 rankings:
 - end_date: '1991-06-21'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
 ---
+
+In a time where the sun descends alone 
+I ran a long long way from home 
+To find a heart that's made of stone 
+
+I will try, I just need a little time 
+To get your face right out of my mind 
+To see the world through different eyes 
+
+Every time I see you oh I try to hide away 
+But when we meet it seems I can't let go 
+Every time you leave the room I feel I'm fading like a flower 
+
+Tell me why 
+When I scream there's no reply 
+When I reach out there's nothing to find 
+When I sleep I break down and cry 
+Cry, yeah 
+
+Every time I see you oh I try to hide away 
+But when we meet it seems I can't let go 
+Every time you leave the room I feel I'm fading like a flower 
+
+Fading like a rose 
+Fading like a rose 
+Beaten by the storm 
+Talking to myself 
+Getting washed by the rain 
+It's such a cold cold town 
+Oh, it's a such cold town 
+
+Every time I see you oh I try to hide away 
+But when we meet it seems I can't let go 
+Every time you leave the room I feel I'm fading like a flower
+
+
 

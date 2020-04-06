@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crash-and-burn-thomas-rhett
+lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/crashandburn.html
 name: Crash And Burn
 rankings:
 - end_date: '2015-05-01'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
 ---
+
+So I guess it's over baby
+DÃ©jÃ  vu again
+Who'd have thought that time don't stop 
+And somehow girl, the world keeps spinning
+I guess I've turned myself into a solitary man
+Ain't like I'm the only one 
+That's in the shoes that I am
+
+Do you hear that
+I'm right back
+At the sound of lonely calling 
+Do you hear that
+It's where I'm at
+It's the sound of teardrops falling down, down
+A slamming door and a lesson learned 
+I let another lover crash and burn 
+
+I know that it might sound jaded
+And I have to say
+I think love is overrated 
+But I don't like throwing it away
+
+I know you could probably tell me 
+Right where I went wrong
+Some guys can't have all the luck 
+If others don't sing sad songs
+
+Do you hear that
+I'm right back
+At the sound of lonely calling 
+Do you hear that
+It's where I'm at
+It's the sound of teardrops falling down, down
+A slamming door and a lesson learned 
+I let another lover crash and burn 
+
+That's right
+Another lover 
+Another lover crash and burn
+Ooooh yeah
+
+Do you hear that
+I'm right back
+At the sound of lonely calling 
+Do you hear that
+It's where I'm at
+It's the sound of teardrops falling down, down
+A slamming door and a lesson learned 
+I let another lover crash and burn 
+Yeah, I let another lover crash and burn 
+
+Mhhhmm...
+
+Mhhhmm...
+
+
 

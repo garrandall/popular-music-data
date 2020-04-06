@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: coming-home-soldier-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/cominghomesoldier.html
 name: Coming Home Soldier
 rankings:
 - end_date: '1966-11-25'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
 ---
+
+I'm coming home I'm coming,
+I'm coming home I'm coming home.
+
+Home, I'm coming home.
+Coming home from across the sea.
+Home, I'm coming home.
+No more marching and fighting for me
+
+I am soldier,
+A coming home soldier.
+No purple heart
+Do I wear on my chest.
+I'm just a soldier,
+A coming home soldier
+I know that I,
+I've done my best.
+
+I'm coming home I'm coming,
+I'm coming home I'm coming home.
+
+The girl I left behind.
+Has been waiting patently
+She said, she didn't mind.
+Cause helpin keep our land free.
+
+I am soldier,
+A coming home soldier.
+No purple heart
+Do I wear on my chest.
+I'm just a soldier,
+A coming home soldier
+I know that I,
+I've done my best.
+
+I'm coming home I'm coming,
+I'm coming home I'm coming home.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-hands-off-my-baby-little-eva
+lyrics_url: https://www.azlyrics.com/lyrics/littleeva/keepyourhandsoffmybaby.html
 name: Keep Your Hands Off My Baby
 rankings:
 - end_date: '1962-11-09'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
 ---
+
+We've been friends for oh, so long
+I let you share what's mine
+But when you mess with the boy I love
+It's time to draw the line
+
+Keep your hands (keep your hands) off my baby
+I ain't gonna tell you but-a one more time
+Oh, keep your hands (keep your hands) off my baby
+Girl, you get it through your head
+That boy is mine
+
+I don't mind when you lend my clothes
+My jewelry and such
+But, honey, let's get something straight
+There's one thing you don't touch
+
+Keep your hands (keep your hands) off my baby
+Girl, you get it through your head
+That boy is mine
+
+Keep your hands (keep your hands) off my baby
+I ain't gonna tell you but-a one more time
+Oh, keep your hands (keep your hands) off my baby
+Girl, you get it through your head
+That boy is mine
+
+(Keep your hands)
+Oh, keep your hands (off my) off my baby (baby)
+I ain't gonna tell you twice
+(Keep your hands off my)
+He's mine (baby)
+Yay, yay, yeah, he's mine
+(Keep your hands off my)
+You better watch yourself, now (baby)
+
+
+
 

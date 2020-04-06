@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -ghost--riders-in-the-sky-outlaws
+lyrics_url: https://www.azlyrics.com/lyrics/outlaws/ghostridersinthesky.html
 name: (Ghost) Riders In The Sky
 rankings:
 - end_date: '1981-01-02'
@@ -67,4 +68,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
 ---
+
+An old cowboy went ridin' out one dark and windy day
+Upon a ridge he rested as he went along his way
+When all at once a mighty herd of red eyed steers he saw
+A ploughin' through the ragged skies and up a cloudy draw
+
+Their brands were still on fire and their hooves were made of steel
+Their horns were black and shiny and their hot breath he could feel
+A bolt of fear went through him as they thundered through the sky
+He saw the riders coming hard... and he heard their mournful cry
+
+Yippie i ay Yippie i oh
+Ghost riders in
+Ghost riders in the sky
+
+Yippie i ay (Yippie i ay) Yippie i oh (Yippie i oh)
+Ghost riders in the sky
+
+Their faces gaunt, their eyes were blurred, their shirts all soaked with sweat
+They're ridin' hard to catch that herd but they ain't caught 'em yet
+'Cause they've got to ride forever in the range up in the sky
+On horses snorting fire as they ride hard, hear them cry
+
+Yippie i ay Yippie i oh
+Ghost riders in
+Ghost riders in the sky
+
+Ghost riders in the sky
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-wanderer-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/thewanderer.html
 name: The Wanderer
 rankings:
 - end_date: '1980-09-26'
@@ -87,4 +88,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
 ---
+
+Woke up this morning
+Dragged myself across the bed
+Alice went to wonderland
+But I stayed home instead
+I started feeling bad
+'Cause I was left behind
+'Cause I'm a wanderer
+Whoooa, I'm a wanderer
+
+She climbed right through the mirror
+Oh that really blew my mind
+I think I'll follow through her rhythm
+And her rhyme
+I know I'm ready now
+It's just a little time
+'Cause I'm a wanderer
+Whoooa, I'm a wanderer
+
+'Cause I'm a wanderer
+I travel every place
+'Cause I'm a wanderer
+From here to outer space
+'Cause I'm a wanderer
+Got no time
+'Cause I'm a wanderer
+Whooooa, just a wanderer
+
+Slipped down the back stair
+On my toes
+Then out the door
+They didn't hear
+Now they won't see me anymore
+'Cause I'm can't take
+That nine to five life
+It's a bore
+'Cause I'm a wanderer
+Yeaaaah, just a wanderer
+
+And so it's up and out
+And on and off the road
+Won't have no troubles
+'Cause the whole world is my home
+No need to worry
+'Cause I seldom am alone
+'Cause I'm wanderer
+Whooooa, I'm a wanderer
+
+'Cause I'm a wanderer
+I travel every place
+'Cause I'm a wanderer
+From here to outer space
+'Cause I'm wanderer
+Got no time
+'Cause I'm a wanderer
+Whooooa, just a wanderer
+
+
+
+'Cause I'm a wanderer
+Whooooa, just a wanderer
+
+Now you may see me
+Any time and any place
+And you may know me
+From the same look
+On your face
+And I don't know if I could
+Change your frame of mind
+'Cause I'm a wanderer
+Whooooa, just a wanderer
+
+'Cause I'm a wanderer
+I travel every place
+'Cause I'm a wanderer
+From here to outer space
+'Cause I'm a wanderer
+Got no time
+'Cause I'm a wanderer
+'Cause I'm a wanderer
+'Cause I'm a wanderer
+
+'Cause I'm a wanderer
+I travel every place
+'Cause I'm a wanderer
+From here to outer space
+'Cause I'm a wanderer
+Got no time
+'Cause I'm a wanderer
+I travel every place
+'Cause I'm a wanderer
+From here to outer space
+'Cause I'm a wanderer
+Got no time
+
+
 

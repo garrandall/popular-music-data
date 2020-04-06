@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-a-little-tenderness-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/tryalittletenderness.html
 name: Try A Little Tenderness
 rankings:
 - end_date: '1969-02-14'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
+
+Ooh, she may be weary
+Young girls they do get weary
+Wearing that same old funky dress
+But, ooh, while she gets weary weary
+Won't you try some tenâtenderness
+
+You know she's there waitin'
+And anticipatin'
+For the thing she'll never, never have
+Oh, no no
+Ooh, while she gets weary
+Won't you try, oh, try some tenderness
+Mmm hmm
+
+And I know it, hah
+Sentimental no no, ah
+She had, Lord, she had her grief and cares
+But when ah, ha girl
+Soft words were spoken
+Made it easier, easy girl, easier to bear
+
+You know you won't regret it, no ah
+Young girls they don't forget it
+Lovin' the same old, same old happiness, yeah, ha yeah
+Ooh, while she gets weary weary
+Won't you try, oh, try some tenderness
+I feel good, Lord, in the mornin'
+
+You've got to hold her, squeeze her
+Never leave her
+You got to, you got to
+You got to try some tenderness
+I feel good, yeah
+I feel good, Lord, ow yeah
+
+You got to hold her, squeeze her
+Never leave her
+You got to, got to, yeah, you got to
+Try now try, try, try, try some tenderness
+In the morning you'll feel good, whoa
+
+You got to hold her, squeeze her
+Never leave her
+Sock it to me, sock it to me one more time
+You've got to help me
+I feel good, Lord
+
+You got to hold her, squeeze her
+Never leave her
+
+
 

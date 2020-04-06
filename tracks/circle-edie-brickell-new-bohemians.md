@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: circle-edie-brickell-new-bohemians
+lyrics_url: https://www.azlyrics.com/lyrics/ediebrickellnewbohemians/circle.html
 name: Circle
 rankings:
 - end_date: '1989-04-14'
@@ -48,4 +49,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
+
+Me
+I'm a part of your circle of friends
+And we
+Notice you don't come around 
+And me
+I think it all depends
+On you
+Touching ground with us, but
+
+I quit
+I give up
+Nothing's good enough for anybody else
+It seems, and
+I quit
+I give up
+Nothing's good enough for anybody else
+It seems, and
+
+And being alone is the
+Is the best way to be
+When I'm by myself
+It's the best way to be
+When I'm all alone
+It's the best way to be
+When I'm by myself
+Nobody else can say goodbye
+
+Everything is temporary anyway
+When the streets are wet
+The colors slip into the sky
+But I don't know why
+That means you and I are
+That means you and I
+
+I quit
+I give up
+Nothing's good enough for anybody else
+It seems, and
+I quit
+I give up
+Nothing's good enough for anybody else
+It seems, and
+
+And being alone is the
+Is the best way to be
+When I'm by myself
+It's the best way to be
+When I'm all alone
+It's the best way to be
+When I'm by myself
+Nobody else can say
+
+Me
+I'm a part of your circle of friends
+And we
+Notice you don't come around
+
+La la la la, la la la la la
+
+
 

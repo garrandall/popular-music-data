@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-bowling-for-soup
+lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/almost.html
 name: Almost
 rankings:
 - end_date: '2005-02-25'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
 ---
+
+I almost got drunk at school at 14
+Where I almost made out with the homecoming queen
+Who almost went on to be Miss Texas
+But lost to a slut with much bigger breastes
+I almost dropped out to move to LA
+Where I was almost famous for almost a day
+
+And I almost had you
+But I guess that doesn't cut it
+Almost loved you
+I almost wished you would've loved me too
+
+I almost held up a grocery store
+Where I almost did five years and then seven more
+'Cause I almost got popped for a fight with a thug
+'Cause he almost made off with a bunch of the drugs
+That I almost got hooked on 'cause you ran away
+And I wish I woulda had the nerve to ask you to stay
+
+And I almost had you
+But I guess that doesn't cut it
+Almost had you
+And I didn't even know it
+
+You kept me guessing and now I'm destined
+to spend my time missing you
+I almost wish you would've loved me too
+
+Here I go thinking about all the things I could've done
+I'm gonna need a forklift 'cause all the baggage weighs a ton
+I know we had our problems I can't remember one
+
+I almost forgot to say something else
+And if I can't fit it in I'll keep it all to myself
+I almost wrote a song about you today
+But I tore it all up and then I threw it away
+
+And I almost had you
+But I guess that doesn't cut it
+Almost had you
+And I didn't even know it
+
+You kept me guessing and now I'm destined
+to spend my time missing you
+And I almost had you 
+
+I almost wish you would've loved me too
+
+
 

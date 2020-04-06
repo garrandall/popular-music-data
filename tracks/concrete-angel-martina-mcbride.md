@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: concrete-angel-martina-mcbride
+lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/concreteangel.html
 name: Concrete Angel
 rankings:
 - end_date: '2003-03-21'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
+
+She walks to school with the lunch she packed
+Nobody knows what she's holdin' back
+Wearin' the same dress she wore yesterday
+She hides the bruises with linen and lace
+
+The teacher wonders but she doesn't ask
+It's hard to see the pain behind the mask
+Bearing the burden of a secret storm
+Sometimes she wishes she was never born
+
+Through the wind and the rain
+She stands hard as a stone
+In a world that she can't rise above
+But her dreams give her wings
+And she flies to a place where she's loved
+Concrete angel
+
+Somebody cries in the middle of the night
+The neighbors hear, but they turn out the lights
+A fragile soul caught in the hands of fate
+When morning comes it'll be too late
+
+Through the wind and the rain
+She stands hard as a stone
+In a world that she can't rise above
+But her dreams give her wings
+And she flies to a place where she's loved
+Concrete angel
+
+A statue stands in a shaded place
+An angel girl with an upturned face
+A name is written on a polished rock
+A broken heart that the world forgot
+
+Through the wind and the rain
+She stands hard as a stone
+In a world that she can't rise above
+But her dreams give her wings
+And she flies to a place where she's loved
+Concrete angel
+
+
 

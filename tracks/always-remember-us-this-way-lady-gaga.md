@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-remember-us-this-way-lady-gaga
+lyrics_url: https://www.azlyrics.com/lyrics/tylerward/alwaysrememberusthiswayarizonaskyacoustic.html
 name: Always Remember Us This Way
 rankings:
 - end_date: '2018-10-26'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
 ---
+
+That Arizona sky
+Burnin' in your eyes
+You look at me and babe I wanna catch on fire
+It's buried in my soul
+Like California gold
+You found the light in me that I couldn't find
+
+So when I'm all choked up and I can't find the words
+And every time we say goodbye, baby it hurts
+When the sun goes down
+And the band won't play
+I'll always remember us this way
+
+Lovers in the night
+Poets tryin' to write
+We don't know how to rhyme but damn we'll try
+But all I really know
+You're where I wanna go
+The part of me that's you will never die
+
+So when I'm all choked up and I can't find the words
+Every time we say goodbye baby it hurts
+When the sun goes down
+And the band won't play
+I'll always remember us this way
+
+Yeah when the sun goes down
+And the band won't play
+I'll always remember us this way
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-is-my-middle-name-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/troubleismymiddlename.html
 name: Trouble Is My Middle Name
 rankings:
 - end_date: '1962-12-14'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
 ---
+
+Hello, little girl, goodbye, little girl 
+I'm not your kind of guy, little girl 
+I'll only make you cry, little girl 
+Trouble (trouble, trouble, trouble, trouble) is my middle name 
+
+Each kiss, little girl, is sweet, little girl 
+They sweep me off my feet, little girl 
+But no more must our lips meet, little girl 
+Trouble (trouble, trouble, trouble, trouble) is my middle name 
+
+I'm just a born wanderer driftin' by one day 
+Each place that I've been, heartbreak moved in 
+So I'll move on my way 
+
+In time, little girl, you'll find, little girl 
+I've been really kind, little girl 
+Not changing your name to mine, little girl 
+Trouble (trouble, trouble, trouble, trouble) is my middle name 
+
+Not changing your name to mine, little girl 
+Trouble (trouble, trouble, trouble, trouble) is my middle name 
+
+Oh, trouble (trouble, trouble, trouble, trouble) is my middle name 
+FADE 
+Yes, trouble (trouble, trouble, trouble, trouble) is my middle name
+
+
 

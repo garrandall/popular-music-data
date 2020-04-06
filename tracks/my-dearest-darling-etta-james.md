@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-dearest-darling-etta-james
+lyrics_url: https://www.azlyrics.com/lyrics/ettajames/mydearestdarling.html
 name: My Dearest Darling
 rankings:
 - end_date: '1960-09-25'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
+
+All I need
+Is someone like you
+My dearest darling
+Please~love me to
+Within my heart 
+I pray your answer's yes
+I'll make your life
+Full of happiness
+
+I'll be there by your side
+Oh,I pledge my love to you
+With God as our guide..
+
+Unh~my dearest darling
+I offer you my heart
+
+Oh, yeah whenever you need me
+I'll..I'll be there by your side
+Oh~I pledge my love to you
+With God as our guide
+
+Oh nothing, nothing, nothing in this world
+Can keep us apart
+Unh~ my dearest darling
+I'm offering you my heart
+
+Unh~my dearest darling...
+
+
 

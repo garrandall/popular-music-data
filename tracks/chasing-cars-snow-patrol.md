@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chasing-cars-snow-patrol
+lyrics_url: https://www.azlyrics.com/lyrics/snowpatrol/chasingcars.html
 name: Chasing Cars
 rankings:
 - end_date: '2006-06-09'
@@ -187,4 +188,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
 ---
+
+We'll do it all
+Everything
+On our own
+
+We don't need
+Anything
+Or anyone
+
+If I lay here
+If I just lay here
+Would you lie with me and just forget the world?
+
+I don't quite know
+How to say
+How I feel
+
+Those three words
+Are said too much
+They're not enough
+
+If I lay here
+If I just lay here
+Would you lie with me and just forget the world?
+
+Forget what we're told
+Before we get too old
+Show me a garden that's bursting into life
+
+Let's waste time
+Chasing cars
+Around our heads
+
+I need your grace
+To remind me
+To find my own
+
+If I lay here
+If I just lay here
+Would you lie with me and just forget the world?
+
+Forget what we're told
+Before we get too old
+Show me a garden that's bursting into life
+
+All that I am
+All that I ever was
+Is here in your perfect eyes, they're all I can see
+
+I don't know where
+Confused about how as well
+Just know that these things will never change for us at all
+
+If I lay here
+If I just lay here
+Would you lie with me and just forget the world?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-to-love-jefferson-airplane
+lyrics_url: https://www.azlyrics.com/lyrics/wasp/somebodytolove.html
 name: Somebody To Love
 rankings:
 - end_date: '1967-04-07'
@@ -67,4 +68,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
 ---
+
+When the truth is found to be lies
+You know the joy within you dies
+
+Don't you want somebody to love
+Don't you need somebody to love
+Wouldn't you love somebody to love
+You Better find someone to love
+
+Find somebody to love
+Find somebody to love
+Find somebody to love
+
+When the dawn is rose, they are dead
+Yes and you're mine, you're so full of red
+
+Your eyes, I say you eyes may look like his
+Yeah, but in your head, baby I'm afraid you don't know where it is
+
+Tears are running
+Running along down your breast
+And your friends baby
+They treat you like a guest
+
+
 

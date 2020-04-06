@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-there--with-another-girl--dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/deaconblue/areyoutherewithanothergirl.html
 name: Are You There (With Another Girl)
 rankings:
 - end_date: '1965-12-17'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
+
+I hear the music coming out of the radio
+Are you there with another girl
+Instead of me
+I hear your laughter and theres something I've got to know
+Are you there with another girl
+Instead of me
+
+I'm standing on your doorstep and I don't know what to do
+Should I ring your door bell or just walk away
+My friends all say you were never true
+(hiding in the shadows)
+
+I see two silhouettes at the back of your window shield
+Are you there with another girl
+When I am gone
+I can't believe you'd break the promises that you made
+If your there with another girl I can't go on
+
+I only know I love you I couldn't say why
+So if theres another I don't want to know
+If you should go I would surely die
+
+Love requires faith I've got a lot of faith but
+
+I hear the music coming out of your radio
+
+I only know I love you I couldn't say why
+So if theres another I don't want to know
+If you should go I would surely die
+
+You would never leave me hurt me or deceive me
+I'm a fool to doubt you worry so about you
+Love requires faith I've got a lot of faith but
+
+I hear the music coming out of the radio
+
+Hmmn yeah, I hear the music , coming out of your radio
+The sweet sweet music
+And your there with another girl
+I hear the music
+I don't wanna know
+
+
 

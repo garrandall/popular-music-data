@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -if-you-cry--true-love-true-love-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/ifyoucrytruelovetruelove.html
 name: (If You Cry) True Love True Love
 rankings:
 - end_date: '1959-11-08'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
 ---
+
+Bom, bom, bom, bom, bom, bom
+Bom, bom, bom, bom, bom, bom
+
+If you cry, I think my heart would break
+That would be much more than I could take
+And if I saw a tear fall from your eye
+Darling, don't you know that I would die?
+
+True love, true love, true love, true love
+
+Bom, bom, bom, bom, bom, bom
+Bom, bom, bom, bom, bom, bom
+
+If you cry, I don't know what I'll do
+Baby, 'cause I'm so in love with you
+And if I knew that I had caused you pain
+My tears would fall like the rain
+
+True love, true love, true love, true love
+
+Bom, bom, bom, bom, bom, bom
+Bom, bom, bom, bom, bom, bom
+Bom, bom, bom, bom, bom, bom
+Bom, bom, bom, bom, bom, bom
+
+
 

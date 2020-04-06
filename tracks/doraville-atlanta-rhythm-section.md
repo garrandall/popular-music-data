@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doraville-atlanta-rhythm-section
+lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/doraville.html
 name: Doraville
 rankings:
 - end_date: '1974-10-11'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
 ---
+
+Doraville, touch of country in the city
+Doraville, it ain't much, but it's home
+
+Friends of mine say I oughta move to New York
+New York's fine, but it ain't Doraville
+Every night, I make a living making music
+And that's all right to folks in Doraville
+Yeah, hey hey
+
+Ooh, hot time in Dixie, hey
+It's funky but it's pretty
+Sweet Georgia
+
+Yeah, hey hey
+Ooh, hot time in Dixie, hey
+Come on down and visit, you'll dig it
+
+Red clay hills, rednecks drinking wine on Sunday
+Behind their field getting down in Doraville
+
+Doraville, touch of country in the city
+Doraville, it ain't much, but it's home
+
+It's all right
+It's all right
+
+Doraville
+Doraville, it's all right, it's all right, it's all right
+Doraville
+Doraville
+
+
 

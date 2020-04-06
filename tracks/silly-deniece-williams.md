@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silly-deniece-williams
+lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/silly.html
 name: Silly
 rankings:
 - end_date: '1981-08-21'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
 ---
+
+Silly of me to think that I could ever have you for my guy
+How I love you... How I want you...
+Silly of me to think that you could ever really want me too
+How I love you...
+
+You're just a lover out to score
+And I know that I should be looking for more
+What could it be in you I see
+What could it be...
+Oh, love, oh, love, stop making a fool of me
+Oh, love, oh, love, stop making a fool of me
+
+Silly of me to think that you could ever know the things I do
+Are all done for you, only for you
+Silly of me to take the time to comb my hair and pour the wine
+And Know you're not there
+
+You're just a lover out to score
+And I know that I should be looking for more
+What could it be in you I see
+What could it be...
+Oh, love, oh, love, stop making a fool of me
+Oh, love, oh, love, stop making a fool of me
+
+Ooh, ooh, ooh, ooh, ooh...
+
+Silly of me to go around and brag about the love I found
+And say you're the best, well, I cant tell the rest
+AndfFoolish of me to tell them all that every night and day you call
+When you could care less
+
+You're just a lover out to score
+And I know that I should be looking for more
+What could it be in you I see
+What could it be...
+Oh, love, oh, love, stop making a fool of me
+Oh, love, oh, love, stop making a fool of me
+
+Ooh, ooh, ooh, ooh, ooh... Silly
+Ooh, ooh, ooh, ooh, ooh... Silly
+Ooh, ooh, ooh, ooh, ooh... Silly
+Ooh, ooh, la, la, la, la, la, la, la... Silly
+La, la, la, la, la, la, la, la, la, la, la... Silly
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bitter-sweet-symphony-the-verve
+lyrics_url: https://www.azlyrics.com/lyrics/londongrammar/bittersweetsymphonylive.html
 name: Bitter Sweet Symphony
 rankings:
 - end_date: '1998-04-03'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
 ---
+
+'Cause it's a bitter sweet symphony this life
+Tryna make ends meet, you're a slave to the money then you die
+I'll take you down the only road I have ever been down
+You know the one that takes you to the places where all the thins meet, yeah
+
+And I'll change, I can change, I can change, I can change
+I am here in my mode, here in my mode
+I am a million different people from one day to the next
+I can change my mode, no, no, no, no, no
+
+Well I never prayed but tonight I'm on my knees, yeah
+I need to hear some sounds that recognizes pain in me, yeah
+I let the melody shine let it cleanse my mind I feel free now
+But the airway's clean and there's nobody's singing to me now
+
+And I'll change, I can change, I can change, I can change
+I am here in my mode, here in my mode
+I am a million different people from one day to the next
+I can change my mode, no, no, no, no, no
+Have you ever been down
+Have you ever been down
+
+'Cause it's a bitter sweet symphony this life
+Tryna make ends meet, you're a slave to the money then you die
+I know I cannot change, I can change and I'm here in my
+I'll take you down the only road I have ever been down
+
+And I'll change, I can change, I can change, I can change
+I am here in my mode, here in my mode
+I am a million different people from one day to the next
+I can change my mode, no, no, no, no, no
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-smile--come-up-and-see-me--steve-harley-and-cockney-rebel
+lyrics_url: https://www.azlyrics.com/lyrics/erasure/makemesmilecomeupandseeme.html
 name: Make Me Smile (Come Up And See Me)
 rankings:
 - end_date: '1976-03-05'
@@ -19,4 +20,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
 ---
+
+you've done it all, you've broken every code
+and pulled the rebel to the floor
+you spoilt the game, no matter what you say
+for only metal - what a bore!
+
+blue eyes, blue eyes
+how come you tell so many lies?
+
+come up and see me, make me smile
+or do what you want, running wild
+
+there's nothing left, all gone and run away
+maybe you'll tarry for a while
+it's just a test, a game for us to play
+win or lose, it's hard to smile
+
+resist, resist
+it's from yourself you have to hide
+
+come up and see me, make me smile
+or do what you want, running wild
+
+there ain't no more, you've taken everything
+from my belief in Mother Earth
+can you ignore my faith in everything
+'cause i know what faith is and what it's worth
+
+away, away
+and don't say maybe you'll try
+
+to come up and see me, make me smile
+or do what you want, running wild 
+
+
 

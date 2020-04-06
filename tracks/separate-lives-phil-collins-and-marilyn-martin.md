@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: separate-lives-phil-collins-and-marilyn-martin
+lyrics_url: https://www.azlyrics.com/lyrics/philcollins/separatelives.html
 name: Separate Lives
 rankings:
 - end_date: '1985-10-11'
@@ -91,4 +92,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
 ---
+
+You called me from the room in your hotel
+All full of romance for someone that you met
+And telling me how sorry you were, leaving so soon
+And that you miss me sometimes when you're alone in your room
+Do I feel lonely too?
+
+You have no right to ask me how I feel
+You have no right to speak to me so kind
+I can't go on just holding on to times
+Now that we're living separate lives
+
+Well I held on to let you go
+And if you lost your love for me, well you never let it show
+There was no way to compromise
+So now we're living (living)
+Separate lives
+
+Ooh, it's so typical, love leads to isolation
+So you build that wall (build that wall)
+Yes, you build that wall (build that wall)
+And you make it stronger
+
+Well you have no right to ask me how I feel
+You have no right to speak to me so kind
+Some day I might (I might) find myself looking in your eyes
+But for now, we'll go on living separate lives
+Yes for now, we'll go on living separate lives
+Separate lives
+
+
 

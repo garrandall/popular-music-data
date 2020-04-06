@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-why-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/tellmewhy.html
 name: Tell Me Why
 rankings:
 - end_date: '1964-05-29'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
+
+Tell me why, though I try to forget
+Tell me why, why I think of you yet
+I know I'll never be free
+What has happened to me?
+
+Tell me why, when we danced until three
+Tell me why, why my heart couldn't see
+I never dreamed of romance
+Never gave it a chance
+
+When I think of how you looked that day
+In your gown of silk and lace
+Should have known the day you came my way
+That this was the time and the place
+
+Tell me why I keep fooling my heart
+When I know it was love from the start
+Why don't we give it a try?
+If you know, tell me why
+
+Tell me why I keep fooling my heart
+When I know it was love from the start
+Why don't we give it a try?
+If you know, tell me why
+Tell me, tell me why
+
+
 

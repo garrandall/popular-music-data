@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-belle-of-st-mark-sheila-e-
+lyrics_url: https://www.azlyrics.com/lyrics/sheilae/thebelleofstmark.html
 name: The Belle Of St Mark
 rankings:
 - end_date: '1984-11-02'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
+
+The belle of St. Mark was a frail but passionate creature
+Ebony hair and eyes a deep blue-green
+The belle of St. Mark wore clothes that belonged to his father
+Even though he was only 17
+
+I'm in love, I'm in love, I'm in love with the belle of St. Mark
+It tears me apart whenever I hear him cry
+I'm in love, I'm in love, I'm in love with the belle of St. Mark
+And if he doesn't love me I think I'll probably die
+
+You can tell from expressions that he makes public
+That he suffers from a badly broken heart
+He smiles as he feeds the afternoon pigeons
+But he cries as he walks the night streets of St. Mark
+
+I'm in love, I'm in love, I'm in love with the belle of St. Mark
+It tears me apart whenever I hear him cry
+I'm in love, I'm in love, I'm in love with the belle of St. Mark
+And if he doesn't love me I think I'll probably die
+
+The belle of St. Mark, he don't talk to strangers, he's so mysterious
+His erotic persuasion provokes me like no other man
+The fire I have for him is undoubtedly serious
+I need to make him see that he needs love to forget
+And if anyone can help him, I can
+I can help, I can help you
+
+His Paris hair, it blows in the warm Parisian air
+That blows whenever his Paris hair is there
+The woman that hurt him surely must have trouble sleeping
+'Cause the belle of St. Mark is a beauty extraordinaire
+
+Oh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
+It tears me apart whenever I hear him cry
+I'm in love, I'm in love, I'm in love with the belle of St. Mark
+And if he doesn't love me I think I'll probably die
+
+Ooh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
+It tears me apart whenever I hear him cry
+Ooh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
+And if he doesn't love me I think I'll probably die
+And if he doesn't love me I think I'll probably die
+And if he don't, I'll die
+
+
 

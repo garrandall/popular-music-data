@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucille-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/lucille.html
 name: Lucille
 rankings:
 - end_date: '1960-09-11'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
 ---
+
+Lucille
+You don't do your daddy's will
+Lucille
+You don't do your daddy's will
+There's ain't nothing to you
+But I love you still
+
+Lucille
+Please come back where you belong
+Lucille
+Please come back where you belong
+I've been good to you baby
+Please don't leave me alone
+
+I woke up this morning
+Lucille was not in sight
+Asked my friends about her
+All their lips were tight
+
+Lucille
+Please come back where you belong
+I've been good to you baby
+Please don't leave me alone
+
+Ooohhhhhh
+
+Lucille
+You don't do your daddy's will
+Lucille
+You don't do your daddy's will
+There ain't nothing to you
+But I love you still
+
+Ooohhhhhh
+
+
 

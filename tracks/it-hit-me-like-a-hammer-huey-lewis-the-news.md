@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: it-hit-me-like-a-hammer-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/ithitmelikeahammer.html
 name: It Hit Me Like A Hammer
 rankings:
 - end_date: '1991-07-26'
@@ -60,4 +61,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
 ---
+
+I don't like to worry 
+About no one else 
+I like to be, you know alone and free 
+I'm happy by myself, yeah 
+
+But here comes this girl, whoa, yeah 
+I've seen 'em all around the world 
+She looks into me 
+Looks right through me 
+
+Don't you know it hit me like a hammer 
+Hit me like a ton of lead 
+You know it hit me like a hammer 
+You know it hit me, baby, well 
+
+I told myself to take it easy 
+'Cause this won't last long 
+A day or two, I'll be back in love 
+And she'll be long gone, yeah 
+
+But then she caught my eye, whoa, yeah
+I knew that it was all a lie 
+I started shakin' 
+My heart was breakin 
+
+Don't you know it hit me like a hammer 
+Hit me like a ton of lead 
+You know it hit me like a hammer 
+You know it hit me, baby
+
+And now I can't stop this feelin' I've got
+I wanna know 
+'Cause there's no time to make up my mind 
+You shocked me, now you got me
+If you really want me 
+
+Here comes this girl, whoa, yeah 
+I've seen 'em all around the world 
+She looks into me 
+Looked right through me 
+
+Don't you know it hit me like a hammer 
+Hit me like a ton of lead 
+You know it hit me like a hammer 
+You know it hit me, baby
+
+You shocked me, now you've got me 
+You know you hit me like a hammer
+You know you hit me like a hammer 
+Hit me like a five pound sledge
+You know it hit me, baby
+You know you hit me like a hammer
+
+
 

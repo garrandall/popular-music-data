@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-nobody-believed-in-you-joe-nichols
+lyrics_url: https://www.azlyrics.com/lyrics/joenichols/ifnobodybelievedinyou.html
 name: If Nobody Believed In You
 rankings:
 - end_date: '2004-08-27'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
 ---
+
+I watched him take the two strike call"
+He hadn't tried to swing at all.
+I guess he'd had all that he could take,
+He walked away, for goodness sake.
+His father's voice was loud an' mean:
+"You won't amount to anything."
+
+That little boy quit tryin',
+He just walked away.
+There were teardrops on his face.
+Tell me, how would you feel?
+You'd probably give up too,
+If nobody believed in you.
+
+That old man said: "One more try,
+I know i'm not too old to drive.
+I promise, son, i'll do my best,
+This time, i'm gonna pass the test."
+"Give me the keys, Dad, an' get in."
+His father never drove again
+
+That old man quit trying',
+He just turned away.
+An' there were teardrops on his face.
+Tell me, how would you feel?
+You'd probably give up too,
+If nobody believed in you.
+
+We take His name out of the schools.
+The lawyers say it breaks the rules.
+Pledge of allegiance can't be read,
+An' under God, should not be said.
+I wonder how much He will take.
+I just pray it's not too late.
+
+What if God quit tryin',
+He just turned away?
+There were teardrops on his face?
+Tell me, how would you feel?
+You'd probably give up too,
+If nobody believed in you.
+
+Tell me, how would you feel?
+You'd probably give up too,
+If nobody believed in you.
+
+
 

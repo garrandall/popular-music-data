@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-tryin--groove-theory
+lyrics_url: https://www.azlyrics.com/lyrics/groovetheory/keeptryin.html
 name: Keep Tryin'
 rankings:
 - end_date: '1996-02-16'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
 ---
+
+You've been
+Missin'
+Out on all the chances you've been given
+Is it something
+Within
+Holding you back instead of livin'
+
+Your day is coming though it seems far
+Things will be clear when you love who you are
+Nothin' can stop you as long as you listen to your heart
+
+
+Lift your head to the sky
+And keep tryin'
+Believe in you
+And it will take you higher 
+
+You have
+Sorrows
+Everywhere you turn they seem to follow
+If you
+Let go
+Happiness will come to you tomorrow
+
+Your day is coming though it seems far
+Things will be clear when you love who you are
+Nothin' can stop you as long as you listen to your heart
+
+
+
+You can make it if you try
+
+
+
+
 

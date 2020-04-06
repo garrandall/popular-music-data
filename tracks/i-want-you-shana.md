@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-shana
+lyrics_url: https://www.azlyrics.com/lyrics/noangels/sendmeflowers.html
 name: I Want You
 rankings:
 - end_date: '1989-10-13'
@@ -99,4 +100,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
 ---
+
+Send me flowers shana nanana
+Oh send me flowers
+Just to say you're sorry
+Send me flowers
+Oh send me flowers
+Send me flowers
+
+So many days we spent together
+Don't you miss this love of mine
+Dreams will never last forever
+After the rain the sun will shine
+
+If you want me you need me
+Send a little message
+Since you left me I'm waiting
+Waiting for a call
+If you love me you miss me
+Send a little message of your love
+Let me see a sign
+
+Send me flowers
+Shanananana oh send me flowers
+Just to say you're sorry
+Send me flowers
+Shanananana oh send me flowers
+I miss you come back into my life
+
+Can't a man show what he's feeling
+Can't he show what's on his mind
+Like a deep wound goes on healing
+I left all the things behind
+
+If you want me you need me
+Send a little message
+Since you left me I'm waiting
+Waiting for a call
+If you love me you miss me
+Send a little message of your love
+Let me see a sign
+
+Send me flowers
+Shanananana oh send me flowers
+Just to say you're sorry
+Send me flowers
+Shanananana oh send me flowers
+I miss you come back into my life
+
+If you want me you need me
+Send a little message
+Since you left me I'm waiting
+Waiting for a call
+If you love me you miss me
+Send a little message of your love
+Let me see a sign
+
+Send me flowers
+Shanananana oh send me flowers
+Just to say you're sorry
+Send me flowers
+Shanananana oh send me flowers
+I miss you come back into my life
+
+
 

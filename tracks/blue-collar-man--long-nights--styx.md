@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-collar-man--long-nights--styx
+lyrics_url: https://www.azlyrics.com/lyrics/styx/bluecollarmanlongnights.html
 name: Blue Collar Man (Long Nights)
 rankings:
 - end_date: '1978-09-22'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
 ---
+
+Give me a job, give me security
+Give me a chance to survive
+I'm just a poor soul in the unemployment line
+My God, I'm hardly alive
+My mother and father, my wife and my friends
+I see them laugh in my face
+But I've got the power, and I've got the will
+I'm not a charity case
+
+I'll take those long nights, impossible odds
+Keeping my eye to the keyhole
+If it takes all that to be just what I am
+I'm gonna be a blue collar man
+
+Make me an offer that I can't refuse
+Make me respectable, man
+This is my last time in the unemployment line
+So like it or not I'll take those
+
+Long nights, impossible odds
+Keeping my back to the wall
+If it takes all that to be just what I am
+I'm gonna be a blue collar man
+
+Keeping my mind on a better life
+When happiness is only a heartbeat away
+Paradise, can it be all I heard it was
+I close my eyes and maybe I'm already there
+
+
 

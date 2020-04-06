@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-girl--i-like-your-style--the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/heygirlilikeyourstyle.html
 name: Hey Girl (i Like Your Style)
 rankings:
 - end_date: '1973-08-24'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
 ---
+
+Hey girl, I want you to know
+I'm going to miss you so much if you go.
+And hey girl, I'll tell you no lie
+Something deep inside of me is going to dye.
+If you say so long, if this is goodbye.
+Whoa
+
+Hey girl, this can't be true
+How am I suppose to exist without you?
+And hey girl, now don't put me on
+What's going to happen to me when you're gone?
+How will I live, how can I go on?
+How can I go on, hey girl
+
+
+
+Hey girl, now sit yourself down.
+I'm not ashame to get down on the ground
+And beg you, baby. Beg you to stay.
+Don't go away.
+
+Hey girl.
+Naw, naw, don't go away.
+Hey girl, little girl, don't go away.
+I'm beggin' you to stay.
+Little girl, don't go away.
+Hey girl, little girl, don't go away.
+
+
 

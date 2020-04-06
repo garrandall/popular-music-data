@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: snoopy-vs-the-red-baron-the-royal-guardsmen
+lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/snoopyvstheredbaron.html
 name: Snoopy Vs The Red Baron
 rankings:
 - end_date: '1966-12-23'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+
+Achtung! Jetzt wir singen zusammen die Geschichte
+Uber dem schweinkomischen Hund und dem lieben Red Baron!
+
+After the turn of the century
+In the clear blue skies over Germany
+Came a roar and a thunder men had never heard
+Like the screamin' sound of a big war bird
+
+Up in the sky, a man in a plane
+Baron von Richthofen was his name
+Eighty men tried, and eighty men died
+Now they're buried together on the countryside
+
+Ten, twenty, thirty, forty, fifty or more
+The bloody Red Baron was rollin' up the score
+Eighty men died tryin' to end that spree
+Of the bloody Red Baron of Germany
+
+In the nick of time, a hero arose
+A funny-looking dog with a big black nose
+He flew into the sky to seek revenge
+But the Baron shot him down -
+"Curses, foiled again!"
+
+Ten, twenty, thirty, forty, fifty or more
+The bloody Red Baron was rollin' up the score
+Eighty men died tryin' to end that spree
+Of the bloody Red Baron of Germany
+
+Now, Snoopy had sworn that he'd get that man
+So he asked the Great Pumpkin for a new battle plan
+He challenged the German to a real dogfight
+While the Baron was laughing, he got him in his sight
+
+That bloody Red Baron was in a fix
+He'd tried everything, but he'd run out of tricks
+Snoopy fired once, and he fired twice
+And that bloody Red Baron went spinning out of sight
+
+Ten, twenty, thirty, forty, fifty or more
+The bloody Red Baron was rollin' up the score
+Eighty men died tryin' to end that spree
+Of the bloody Red Baron of Germany
+
+Well, ten, twenty, thirty, forty, fifty or more
+The bloody Red Baron was rollin' up the score
+Eighty men died tryin' to end that spree
+Of the bloody Red Baron of Germany
+
+
 

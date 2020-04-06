@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-have-you-seen-her--the-rembrandts
+lyrics_url: https://www.azlyrics.com/lyrics/rembrandts/johnnyhaveyouseenher.html
 name: Johnny Have You Seen Her?
 rankings:
 - end_date: '1992-11-06'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
 ---
+
+Johnny have you seen her-She was headed out this way
+And I notice, that you don't have much to say
+Do you think that she's been wanderin', a little far from home?
+Oh Johnny tell me, what's been goin' on
+Johnny can you hear me, 'cause I could really use a friend
+And I've known you, since before I can't say when
+Did you think I was the kind of man, to leave well enough alone?
+Oh Johnny tell me, what's been goin' on
+IF YOU COULD LOOK INSIDE THIS TORTURED HEART OF MINE
+YOU WOULD SEE THE PAIN I'M GOIN' THROUGH
+CAN YOU LOOK ME IN THE EYES AND TELL IF I AM BLIND
+MAYBE THEN I MIGHT BELIEVE YOU (Oh yeh)
+'Cause I wanna believe you
+Johnny did she tell you, that her heart belongs to me?
+And did she tell you, that I will never set her free?
+For the vows that we made years ago, are carved upon a stone
+Oh Johnny tell me, what's been goin' on
+..Oh yeh
+'Cause I wanna believe you
+Johhny, Yeh!
+Johnny have you seen her-She was headed out this way
+And I notice, that you don't have much to say
+You can take me for the fool I am-That's where the line is drawn
+Oh Johnny tell me, what's been goin' on
+
+I wanna believe you
+I wanna believe you
+Yeh I wanna believe you
+
+
 

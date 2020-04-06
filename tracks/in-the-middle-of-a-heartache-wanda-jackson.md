@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-middle-of-a-heartache-wanda-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/inthemiddleofaheartache.html
 name: In The Middle Of A Heartache
 rankings:
 - end_date: '1961-10-22'
@@ -47,4 +48,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
 ---
+
+I'm in the middle of a heartache half out half in
+Not quite out of love with you not too much in love with him
+I'm in the middle of a heartache half way half blue
+Can't give all my love to him when I'm still in love with you
+
+Just when I think that I've forgotten you the mem'ry of your love grows dim
+That old pain starts again of wanting you more than I ever wanted him
+I'm in the middle of a heartache heart old heart new
+Can't give all my love to him when I'm still in love with you
+
+Just when I think...
+
+
 

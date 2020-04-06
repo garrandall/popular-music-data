@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 100-years-five-for-fighting
+lyrics_url: https://www.azlyrics.com/lyrics/fiveforfighting/johnnyamerica.html
 name: 100 Years
 rankings:
 - end_date: '2004-02-20'
@@ -95,4 +96,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
 ---
+
+Show me a better bike than the one I got
+If it makes any difference you can keep the lot
+There's plenty of space in the parking lot
+
+A head full of hopes
+A pocket full of dreams
+Handle bars coming apart at the seams
+
+There goes Johnny America
+Riding Hard up Mission Hill
+Some think he'll make it to the top today
+Some say he never will
+Though he's just a child at heart
+He's old enough to fall
+Nobody in 100 years
+Can touch him faults and all...
+
+What you going to say about my little man
+Take another shot, do the best you can
+They're selling out souls in the grandstand
+
+His Cap peeled back
+Got Blood on his knees
+Fighting back tears
+Tearing through the breeze
+
+There goes Johnny America
+Riding Hard up Mission Hill
+Some think he'll make it to the top today
+Some say he never will
+Though he's just a child at heart
+He's old enough to fall
+Nobody in 100 years
+Can touch him faults and all...
+
+He's come to far to fall
+
+There goes Johnny America
+Riding Hard up Mission Hill
+Some think he'll make it to the top today
+Some say he never will...
+
+GO!
+Go Johnny!
+Go Johnny!
+
+There goes Johnny America
+Riding Hard up Mission Hill
+Some think he'll make it to the top today
+I say he will.
+
+
 

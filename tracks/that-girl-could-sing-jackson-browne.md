@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-girl-could-sing-jackson-browne
+lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/thatgirlcouldsing.html
 name: That Girl Could Sing
 rankings:
 - end_date: '1980-09-26'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
 ---
+
+She was a friend to me when I needed one
+Wasn't for her I don't know what I'd done
+She gave me back something that was missing in me
+She could of turned out to be almost anyone
+Almost anyone...
+With the possible exception
+Of who I wanted her to be
+
+Running into the midnight
+With her clothes whipping in the wind
+Reaching into the heart of the darkness
+For the tenderness within
+Stumblin' into the lights of the city
+And then back in the shadows again
+Hanging onto the laughter
+That each of us hid our unhappiness in
+
+Talk about celestial bodies
+And your angels on the wing
+She wasn't much good at stickin' around... but 
+That girl could sing
+She could sing...
+
+In the dead of night
+She could shine a light
+On some places that you've never been
+In that kind of light
+You could lose your sight
+And believe there was something to win
+You could hold her tight
+With all your might
+But she'd slip through your arms like the wind
+And be back in flight
+Back into the night
+Where you might never see her again
+
+The longer I thought I could might find her
+The shorter my vision became
+Running in circles behind her
+And thinking in terms of the blame
+But she couldn't have been any kinder
+If she'd come back and tried to explain
+She wasn't much good a saying goodbye... but
+That girl could sing...
+
+
 

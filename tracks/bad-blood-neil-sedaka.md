@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-blood-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/badblood.html
 name: Bad Blood
 rankings:
 - end_date: '1975-09-19'
@@ -63,4 +64,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
 ---
+
+It could've been me
+But it was you
+Who went and bit off
+A little bit more than he could chew
+
+You said that you had it made
+But you been had
+The woman no good, no how
+Thinkin' maybe the blood is bad
+
+Bad (bad) blood (blood)
+The woman was born to lie
+Makes promises she can't keep
+With the wink of an eye
+
+Bad (bad) blood (blood)
+Brother, you've been deceived
+It's bound to change your mind
+About all you believe
+
+From where I stand
+It looks mighty strange
+How you let a woman like that
+Treat you like small change
+
+I don't understand
+What you're lookin' to find
+The only thing bad blood do
+Is mess up a good man's mind
+Hear me talkin' now
+
+Bad (bad) blood (blood)
+The bitch is in her smile
+The lie is on her lips
+Such an evil child
+
+Bad (bad) blood (blood)
+Is takin' you for a ride
+The only good thing about bad blood
+Is lettin' it slide
+
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Bad blood, talkin' 'bout bad blood
+
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Doo-ron, doo-ron, di di, dit, do-ron-ron
+Bad blood, here we go
+
+Bad (bad) blood (blood)
+The bitch is in her smile
+The lie is on her lips
+Such an evil child
+
+Bad (bad) blood (blood)
+Is takin' you for a ride
+The only good thing about bad blood
+Is lettin' it slide
+
+The only good thing about bad blood
+Is lettin' it slide
+
+
 

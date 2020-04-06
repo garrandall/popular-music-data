@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: some-enchanted-evening-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/someenchantedevening.html
 name: Some Enchanted Evening
 rankings:
 - end_date: '1965-09-10'
@@ -48,4 +49,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
+
+(Once you have found her never let her go)
+(Once you have found her never let her go)
+
+Some enchanted evening
+You may see a stranger
+You may see a stranger
+Across a crowded room
+And somehow you know
+You know even then
+That somewhere you'll see her
+Again and again
+
+Some enchanted evening (some enchanted evening)
+Someone may be laughing (someone may be laughing)
+You may hear her laughing
+Across a crowded room
+And night after night
+As strange as it seems
+The sound of her laughter will
+Sing in your dreams
+
+(Some enchanted evening you may see a stranger)
+(You may see a stranger)
+Across a crowded room
+Then run to her arms
+And make her your own
+Or all through your life
+You may dream all alone
+
+(Once you have found her never let her go)
+(Once you have found her never let her go)
+Never let her go
+
+
 

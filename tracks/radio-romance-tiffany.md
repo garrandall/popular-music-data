@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: radio-romance-tiffany
+lyrics_url: https://www.azlyrics.com/lyrics/tiffany/radioromance.html
 name: Radio Romance
 rankings:
 - end_date: '1989-03-03'
@@ -43,4 +44,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
 ---
+
+From who?
+Uh, just say from
+From the one who loves you, baby
+
+I see you baby
+Every single day
+Holding on to my best friend
+But you don't see me
+So I make the same request now
+Every single night
+Going out from me to you
+On the dedication line
+I wonder if you're listening
+To the words that keep me wishing
+That one day I'll be kissing you
+
+Radio radio romance
+Radio radio romance
+Radio radio romance
+Radio romance
+
+My secret admiration
+I won't reveal
+I wouldn't want to hurt no one
+By tellin' how I feel
+The DJ knows my voice now
+He even knows my choice now
+He never says my name
+He just says "from the one
+Who loves you baby"
+
+Radio radio romance
+Radio radio romance
+Radio radio romance
+Radio romance
+
+One night you'll hear a song
+And then you'll know just who it's from
+
+I see you baby, every single day
+Holding on to my best friend
+But you don't see me
+I wonder if you're listening
+To the words that keep me wishing
+That one day I'll be kissing you
+
+Radio radio romance
+Radio radio romance
+Radio radio romance
+Radio romance
+
+
 

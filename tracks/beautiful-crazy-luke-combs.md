@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-crazy-luke-combs
+lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/beautifulcrazy.html
 name: Beautiful Crazy
 rankings:
 - end_date: '2018-05-25'
@@ -131,4 +132,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
 ---
+
+Her day starts with a coffee
+And ends with a wine.
+Takes forever getting ready.
+So, she's never on time 
+For anything.
+
+When she gets that come-get-me
+Look in her eyes,
+Well, it kinda scares me
+The way that she drives 
+Me wild.
+But she drives me wild.
+
+Beautiful, crazy.
+She can't help but amaze me.
+The way that she dances,
+Ain't afraid to take chances.
+And wears her heart on her sleeve.
+Yeah, she's crazy,
+But her crazy is beautiful to me.
+
+She makes plans for the weekend,
+Can't wait to go out
+'Til she changes her mind.
+Says, "Let's stay on the couch 
+And watch TV."
+And she falls asleep.
+
+Beautiful, crazy.
+She can't help but amaze me.
+The way that she dances,
+Ain't afraid to take chances.
+And wears her heart on her sleeve.
+Yeah, she's crazy,
+But her crazy is beautiful to me.
+
+She's unpredictable, unforgettable.
+It's unusual, unbelievable.
+How I'm such a fool!
+Yeah, I'm such a fool for her.
+
+Beautiful, crazy.
+She can't help but amaze me.
+The way that she dances,
+Ain't afraid to take chances.
+And wears her heart on her sleeve.
+Yeah, she's crazy.
+She's crazy.
+She's crazy,
+But her crazy is beautiful to me.
+Her crazy is beautiful to me.
+
+
 

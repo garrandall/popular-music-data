@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-cha--gonna-do-for-me-chaka-khan
+lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/whatchagonnadoforme.html
 name: What Cha' Gonna Do For Me
 rankings:
 - end_date: '1981-05-22'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
 ---
+
+All night and day
+Just chippin' away
+It's all in a day's work
+Tryin' hard to defend
+The time that I spend alone
+
+The crown that you lose
+Exploiting the blues
+Won't get the job done
+As hard as it bites
+I'm keepin' my sights on you
+
+
+What cha' gonna do for me
+What cha' gonna do for me
+What cha' gonna do for me
+When the chips are down
+
+In the cool of the night
+When nothing seems right
+The feeling can take you
+Strange as it seems
+You make your own dreams come true
+
+If you try to conceal
+The way that you feel
+You're asking for trouble
+Just as sure as I cry
+I'm keeping my eye on you
+
+
+
+You don't have to tell me
+I'm to blame for this
+'Cause what you hold against me
+Is what I miss
+
+
 

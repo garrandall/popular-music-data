@@ -6,6 +6,7 @@ features:
 - MO
 genres: []
 key: cold-water-major-lazer-justin-bieber-mo
+lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/coldwater.html
 name: Cold Water
 rankings:
 - end_date: '2016-08-19'
@@ -117,4 +118,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
 ---
+
+
+Everybody gets high sometimes, you know
+What else can we do when we're feeling low?
+So take a deep breath and let it go
+You shouldn't be drowning on your own
+
+And if you feel you're sinking
+I will jump right over into cold, cold water for you
+And although time may take us into different places
+I will still be patient with you
+And I hope you know
+
+I won't let go
+I'll be your lifeline tonight
+I won't let go
+I'll be your lifeline tonight
+
+Cause we all get lost sometimes, you know?
+It's how we learn and how we grow
+And I wanna lay with you 'til I'm old
+You shouldn't be fighting on your own
+
+And if you feel you're sinking
+I will jump right over into cold, cold water for you
+And although time may take us into different places
+I will still be patient with you
+And I hope you know
+
+I won't let go (I won't let go, no, no, no, no, no, no)
+I'll be your lifeline tonight
+I won't let go
+I'll be your lifeline tonight
+
+
+Come on, come on
+Save me from my rocking boat
+I just want to stay afloat
+I'm all alone
+And I hope, I hope
+Someone's gonna take me home
+Somewhere I can rest my soul
+I need to know
+
+
+You won't let go (I won't let go, no, no, no, no, no, no)
+I'll be your lifeline tonight
+You won't let go
+I'll be your lifeline tonight
+
+
+I won't let go
+I won't let go
+
+
 

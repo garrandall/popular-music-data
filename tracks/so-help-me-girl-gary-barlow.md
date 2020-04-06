@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-help-me-girl-gary-barlow
+lyrics_url: https://www.azlyrics.com/lyrics/garybarlow/sohelpmegirl.html
 name: So Help Me Girl
 rankings:
 - end_date: '1997-10-24'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
 ---
+
+You could've kissed me, like this wasn't gonna last
+Kept me from saying, something I'll never take back
+You could've held me like there was no chance
+Of me waking up where I am
+You could've stopped short of every dream I've ever had
+
+So help me girl, you've gone too far
+It's way too late, to save my heart
+The way it feels, each time we touch
+I know I've never been so loved
+And I can't help myself
+So help me girl
+
+Oh yeah
+You gotta help me girl
+
+You had to be there until the sun came up
+Making last night feel like a vision of things yet to come
+You just had to hold me like nobody else
+Now look what you've gone and done
+You had to love me, till I just can't get enough
+
+Please, help me girl...
+
+So help me girl, you've gone too far
+It's way too late, to save my heart
+The way it feels, each time we touch
+I know I've never been so loved
+And I can't help myself
+
+So help me girl you've gone too far
+It's way too late, to save my heart
+The way it feels, each time we touch
+I know I've never been so loved
+And I can't help myself...
+No, baby
+I can't help myself...
+I can't help myself...
+So help...girl. 
+
+You've got to help me girl. 
+I'm falling down... (falling, falling, falling)
+I'm falling down... (You've got me falling down!)
+Cause I'm falling down... (You've got me falling down!)
+Falling...(You've got me falling down!)
+
+
+
+
 

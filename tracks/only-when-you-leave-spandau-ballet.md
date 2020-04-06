@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-when-you-leave-spandau-ballet
+lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/onlywhenyouleave.html
 name: Only When You Leave
 rankings:
 - end_date: '1984-08-03'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
 ---
+
+Laying in the after glow,
+I only want to learn what you know,
+But now you're leaving...
+How many hearts must you break?
+How many calls must I make?
+But now you're leaving...
+
+In this world, all that I choose has come unbearable
+But love is in your touch
+Ooh, it's killing me so much
+
+Only when you leave
+I need to love you
+And when the action has all gone
+I'm just a little fool enough to need you
+Fool enough too long
+Only when you leave, you'll leave in danger
+Oh, I'll make sure that you pay
+So give a little passion to a stranger
+And take this soul away
+
+I only want to make this things last,
+So how could this have gone so fast?
+And now you're leaving...
+How many times must I learn?
+It' s only when you've gone that I burn,
+And now you're leaving...
+
+In the end, all that I left has come unbearable
+It's hard to change your mind,
+So leave it all behind
+
+Only when you leave
+I need to love you
+And when the action has all gone
+I'm just a little fool enough to need you
+Fool enough too long
+Only when you leave, you'll leave in danger
+Oh, I'll make sure that you pay
+So give a little passion to a stranger
+And take this soul away
+
+
 

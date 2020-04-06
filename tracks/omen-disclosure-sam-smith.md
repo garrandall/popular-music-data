@@ -5,6 +5,7 @@ features:
 - Sam Smith
 genres: []
 key: omen-disclosure-sam-smith
+lyrics_url: https://www.azlyrics.com/lyrics/disclosure/omen.html
 name: Omen
 rankings:
 - end_date: '2015-08-28'
@@ -32,4 +33,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
 ---
+
+I'm feeling something, something different
+When you left, my picture changed
+I was blinded, I'd not envisioned
+The same face in a different frame
+
+It's an omen
+Caught my baby crying
+Saw the silver lining
+It must be an omen
+Needed you to show me
+Without you I am lonely
+
+My mind would rule my heart
+I didn't pay attention to the light in the dark
+It left me torn apart
+But now I see your tears as an omen
+
+Omen, omen
+
+You were waiting, I was vacant
+You left before my eyes
+Then it hit me, you're relocating
+And I need you by my side
+
+It's an omen
+Caught my baby crying
+Saw the silver lining
+It must be an omen
+Needed you to show me
+Without you I am lonely
+
+My mind would rule my heart
+I didn't pay attention to the light in the dark
+It left me torn apart
+But now I see your tears as an omen
+
+My mind would rule my heart
+I didn't pay attention to the light in the dark
+It left me torn apart
+But now I see your tears as an omen
+
+Omen
+Now love
+Omen
+I didn't pay attention to the light in the dark
+
+Omen
+But now I see your tears as an omen
+Omen
+Now I see your tears as an omen
+Omen
+
+
 

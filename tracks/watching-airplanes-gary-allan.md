@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: watching-airplanes-gary-allan
+lyrics_url: https://www.azlyrics.com/lyrics/garyallan/watchingairplanes.html
 name: Watching Airplanes
 rankings:
 - end_date: '2007-11-16'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
 ---
+
+Sittin Out here on the hood of this truck looking up 
+At a caramel colored sunset sky 
+Checkin my watch doin the math in my head 
+Counting back words to when you said goodbye 
+Well those runway lights are gettin brighter 
+
+Im just sittin' out here watching airplanes 
+Take off and fly 
+Tryin to figure out which one you might be on 
+And why you dont love me anymore 
+Right now im sittin' out here watching airplanes 
+
+I would've lied could've cried should've tried harder 
+Done anything to make you stay 
+I wonder what you'd do if you looked out your window 
+Saw me runnin down the runway just like i was crazy 
+That fence is too high so am i 
+
+So I'm just sittin' out here watching airplanes 
+Take off and fly 
+Tryin to figure out which one you might be on 
+And why you don't love me anymore 
+By now i know you're thirty thousand feet above me 
+But a million miles away, a million miles away 
+By now i know i outta act like you don't love me 
+
+But im just sittin' out here watching airplanes 
+Take off and fly 
+Im just sittin' out here watching airplanes 
+Take off and fly 
+Tryin to figure out which one you might be on 
+And why you don't love me anymore 
+
+Yeah im just sittin' out here watching airplanes 
+Go by, by, by 
+Im just sittin' out here watching airplanes 
+Baby bye, bye, bye
+
+
 

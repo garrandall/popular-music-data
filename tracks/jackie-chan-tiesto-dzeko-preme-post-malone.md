@@ -7,6 +7,7 @@ features:
 - Post Malone
 genres: []
 key: jackie-chan-tiesto-dzeko-preme-post-malone
+lyrics_url: https://www.azlyrics.com/lyrics/tiesto/jackiechan.html
 name: Jackie Chan
 rankings:
 - end_date: '2018-07-27'
@@ -86,4 +87,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
 ---
+
+
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+
+
+Drop top, how we rollin' down on Collins South Beach (yeah)
+Look like Kelly rowland, this might be my destiny (yeah)
+She want me to eat it, I guess dinner's on me (I got you, babe)
+Know I got the sauce like a fuckin' recipe (ohh)
+She just wanna do it for the 'Gram (you know, you know)
+She just want this money in my hand (I know, you know)
+I'ma give it to her when she dance, dance, dance (ayy)
+She gon' catch an Uber out to Calabasas
+
+
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+Now your bitch wanna kick it, Jackie Chan
+
+
+I think you got the wrong impression 'bout me, baby ('bout me, baby)
+Just 'cause they heard what hood I'm from they think I'm crazy (they think I'm crazy)
+Okay, well maybe just a little crazy (just a little)
+'Cause I admit I'm crazy 'bout that lady, yeah (oh)
+Finger to the world, it's fuck you, pay me (I been slayin')
+Run the pussy 'cause I'm runnin' out of patience
+No more waitin' no, no (ayy)
+Bouncin' like a yo-yo (ayy)
+Livin' life on fast forward but we fuck in slow mo', yeah
+
+
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+Now your bitch wanna kick it, Jackie Chan
+
+I can't wait for the show, oh, oh
+Got that good, yeah, I know, oh, oh
+You should not be alone, oh, oh
+All this drink got me throwed, oh, oh
+Club got me right
+And I feel so alive, ayy
+She don't want a thing
+She don't wanna be no wife
+She just wanna stay all night
+She just wanna sniff the white
+Can't tell her nothing, no
+Can't tell her nothing, no
+
+She say she's too young, don't want no man
+So she gon' call her friends, now that's a plan
+I just ordered sushi from Japan
+Now your bitch wanna kick it, Jackie Chan
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-like-an-eagle-steve-miller
+lyrics_url: https://www.azlyrics.com/lyrics/inthismoment/flylikeaneagle.html
 name: Fly Like An Eagle
 rankings:
 - end_date: '1976-12-24'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
 ---
+
+I wanna fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Oh, Lord, through the revolution
+
+Fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Oh, Lord, through the revolution
+
+Time keeps on slippin'
+Into the future
+Time keeps on slippin'
+Into the future
+Yeah, time keeps on slippin'
+Into the future
+Yeah, time keeps on slippin'
+Into the future
+
+I wanna fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Oh, Lord, through the revolution
+
+Feed the babies
+Who don't have enough to eat
+Shoe the children
+With no shoes on their feet
+House the people
+Livin' in the street
+Oh, lord, there's a solution
+
+I want to fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til we're free
+Oh, lord, through the revolution
+
+Fly like an eagle
+Come with me
+Fly like an eagle
+Let our spirit make you free
+I want to fly like an eagle
+Fly with me
+Fly right through the revolution
+
+
 

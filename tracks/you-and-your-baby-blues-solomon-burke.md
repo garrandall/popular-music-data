@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-and-your-baby-blues-solomon-burke
+lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/igottheblues.html
 name: You And Your Baby Blues
 rankings:
 - end_date: '1975-03-28'
@@ -15,4 +16,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
+
+Oh baby, oh baby, oh baby
+Oh my baby, oh baby
+
+As I stand by your flame
+I get burned once again
+Feelin' low down, I'm blue
+
+As I sit by the fire
+Of your warm sexy sweet desire
+I've got the blues for you, for you
+
+Every night you've been away
+I've sat down and I have prayed
+That you're safe in the arms of a guy
+
+Who will bring you alive, I hope will bring you alive
+Someone who won't drag you down
+Someone who won't misuse you, accuse you, abuse you, oh baby
+
+In the satin sheets of time
+I hope I'll find true peace of mind
+Love is a bed, love is a bed full of blues, blues
+
+And I've got the blues for you, I won't tell you
+I, I've got the blues, the blues for you, babe
+Look what you doin' to me, babe
+
+I've got the blues all night with you, baby, oh baby, oh baby, oh baby
+I come on form a half, I don't which way to turn, I don't which way to go
+I can't watch TV, I can't watch the late show
+'Cause I, I've got the blues, late night blues for you, babe
+
+Cry myself here in the morning, cry, baby
+You somewhere watching The Rolling Stones
+I here waiting here waiting in this bed of blues all alone
+
+Singing a song to you, singing a song to you
+Singing a song to you, you, you, you
+Singing a song to you, oh
+
+
 

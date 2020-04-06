@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-to-depend-on-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/noonetodependon.html
 name: No One To Depend On
 rankings:
 - end_date: '1972-02-18'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
+
+Ain't got nobody that I can depend on
+Ain't got nobody that I can depend on
+
+Ain't got nobody that I can depend on
+
+Ain't got no one tengo anadie
+That I know of no tengo anadie
+That I can depend on no tengo anadie
+Ain't got no one
+
+Got nobody
+That I can depend on no tengo anadie
+Ain't got nobody that I can depend on
+No tengo anadie.
+
+
 

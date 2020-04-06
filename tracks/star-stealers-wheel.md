@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: star-stealers-wheel
+lyrics_url: https://www.azlyrics.com/lyrics/stealerswheel/star.html
 name: Star
 rankings:
 - end_date: '1974-01-11'
@@ -63,4 +64,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
 ---
+
+So they made you a star, now your head's in a cloud,
+Now you're walking down the street with your feet off the ground
+They read in the press all about your success,
+They believe every word they've been told.
+After all you've been through tell me what will you do,
+When you find yourself out in the cold?
+
+When you appear on the stage there's a standing ovation,
+You really live out your performance, you're the biggest sensation.
+You breeze through the door and when you take the floor
+You expect to have it all to yourself.
+After all you've been through tell me what will you do
+When you find yourself back on the shelf?
+
+You breeze through the door and when you take the floor
+You expect to have it all to yourself.
+After all you've been through tell me what will you do
+When you find yourself back on the shelf?
+
+
 

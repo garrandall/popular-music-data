@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sun-daze-florida-georgia-line
+lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/sundaze.html
 name: Sun Daze
 rankings:
 - end_date: '2014-10-10'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
 ---
+
+Alright
+Make you wanna dance. Don't it, baby?
+
+I'm gonna wear my flip-flops
+And I'm gonna play some flip-cup
+And
+Rock a little bit of hip-hop and Haggard and Jagger
+
+And throw a 20 on a cornhole game
+If I'm lucky yeah I might get laid
+The way that it's going
+That keg gon' be floatin'
+
+All I wanna do today
+Is wear my favorite shades
+And get stoned
+Work a little less, play a little more
+That's what this day is for
+
+And all I wanna do is lace my Js
+And lay some Jack in my Coke
+Work on my lay back, ain't nothin' wrong
+With gettin' my sun daze on
+Gettin' my sun daze on
+
+Girl, you know you're the life of my party
+You can stay and keep sippin' Bacardi
+Stir it up as we turn on some Marley
+If you want you can pet on my Harley
+
+I'll sit you up on the kitchen sink
+And stick the pink umbrella in your drink
+The way that we're feeling
+We gone by this evening
+
+But all I wanna do today
+Is wear my favorite shades
+And get stoned
+Work a little less, play a little more
+That's what this day is for
+
+And all I wanna do is lace my Js
+And lay some Jack in my Coke
+Work on my lay back, ain't nothin' wrong
+With gettin' my sun daze on
+Gettin' my sun daze on
+
+Take 'em out to the sticks, boys. C'mon
+
+All I wanna do today
+Is wear my favorite shades
+And get stoned
+Work a little less, play a little more
+That's what this day is for
+
+And all I wanna do is lace my Js
+And lay some Jack in my Coke
+Work on my lay back, ain't nothin' wrong
+With gettin' my sun daze on
+Gettin' my sun daze on
+Gettin' my sun daze on
+
+
 

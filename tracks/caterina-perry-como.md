@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caterina-perry-como
+lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/caterina.html
 name: Caterina
 rankings:
 - end_date: '1962-04-06'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
 ---
+
+Cat-er-eee-na.
+Oh! Ho! Ho!
+(Oh! Ho! Ho!)
+When we kiss, pretty miss, pretty miss, I'm in ecstasy.
+Cat-er-eeen-a.
+Oh! Ho! Ho! Ho! Ho!
+(Oh! Ho! Ho! Ho!)
+But when we kiss, pretty miss, pretty miss, are you thinking of me?
+(Are you thinking of me?)
+Cat-er-eeen-a.
+Ah! Ha! Ha!
+(Ah! Ha! Ha!)
+Just how long is the list, is the list, of the lips you've kissed?
+(Oh! Uh!)
+Oh how happy my heart would be.
+If I knew that you loved just me.
+Say it's true.
+Say you do.
+Cat-er-eeen-a.
+
+Cat-er-eeen-a.
+Oh! Ho! Ho!
+(Oh! Ho! Ho!)
+When we kiss, pretty miss, pretty miss, I'm in ecstasy.
+(Cee,cee,cee,cee.)
+Cat-er-eeen-a.
+Oh! Ho! Ho! Ho! Ho!
+(Oh! Ho! Ho! Ho! Ho!)
+But when we kiss, pretty miss, pretty miss, are you thinking of me?
+(Are you thinking of me?)
+Cat-er-eeen-a.
+Ah! Ha! Ho!
+(Ah! Ha! Ho!)
+Just how long is the list, is the list, of the lips you've kissed?
+(Oh! Ho!)
+Oh how happy my heart would be.
+If I knew that you loved just me.
+Say it's true. 
+(Say it's true)
+Say you do.
+(Say you do)
+Cat-er-eeeeen-a.
+Catereee-Catereee-Cat-er-eeeeen-a.
+
+
 

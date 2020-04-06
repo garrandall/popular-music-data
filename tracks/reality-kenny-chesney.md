@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reality-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/reality.html
 name: Reality
 rankings:
 - end_date: '2011-11-25'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
 ---
+
+For me it's a beach bar
+Or on a boat underneath the stars
+Or with my band up on a stage
+For a while everything's okay
+
+For some it's a fast car
+Moonshine in a mason jar
+And everybody has their way
+Somehow to escape
+
+Reality, yeah, sometimes life
+Ain't all that it's cracked up to be
+So let's take a chance and live this fantasy
+'Cause everybody needs to break free from reality
+
+Yeah, some days it's a bitch, it's a bummer
+We need a rock and roll show in the summer
+To let the music take us away
+Take our minds to a better place
+
+Where we feel that sense of freedom
+Leave our worries behind, we don't need 'em
+All we need is a sunny day and an old tailgate
+And we'll escape
+
+Reality, yeah, sometimes life
+Ain't all that it's cracked up to be
+So let's take a chance and live this fantasy
+'Cause everybody needs to break free from reality
+
+Everybody raise your hands and voice tonight
+Set your soul free, let's take a carpet ride
+We'll leave it all behind
+
+Reality, yeah, sometimes life
+Ain't all that it's cracked up to be
+So let's take a chance and live this fantasy
+'Cause everybody needs to break free from reality
+
+Come on everybody, break free
+Come on everybody, break free
+
+
 

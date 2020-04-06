@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-should-be-sleeping-emerson-drive
+lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/ishouldbesleeping.html
 name: I Should Be Sleeping
 rankings:
 - end_date: '2002-03-22'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
 ---
+
+I never knew there were such great movies 
+on TV at 3 AM 
+I'd never guessed that at midnight Tuesday 
+I could have pizza ordered in 
+I've never been a real night owl 
+But these days I'm all turned around 
+There's only one thing I'm sure of right now
+
+
+I should be sleeping 
+'Stead of keeping 
+These late hours I've been keeping 
+I've been pacing and retracing 
+every step of every move 
+even though I'm feeling so right 
+I'm so happy still I know I 
+should be sleeping 
+instead of dreaming about you 
+
+I never knew that I was funny 
+'til I went and made you laugh 
+never liked a girl to call me honey 
+but you did and I liked that 
+I keep thinking about your smile 
+trying to read between the lines 
+looks like I'll be up for a while 
+
+
+
+After just three dates 
+and one great kiss 
+it's way too soon 
+to be obsessing like this 
+
+
+
+Dreaming about you 
+I should be sleeping 
+dreaming about you 
+
+Well, I'm dreaming about you 
+Yeah
+
+
 

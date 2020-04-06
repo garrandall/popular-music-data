@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: even-the-nights-are-better-air-supply
+lyrics_url: https://www.azlyrics.com/lyrics/airsupply/eventhenightsarebetter.html
 name: Even The Nights Are Better
 rankings:
 - end_date: '1982-06-18'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
 ---
+
+I, I was the lonely one
+Wondering what went wrong
+Why love had gone
+And left me lonely
+
+I, I was so confused
+Feeling like I'd just been used
+Then you came to me
+And my loneliness left me
+
+I use to think I was tied to a heartache
+That was the heartbreak
+But now that I've found you
+
+
+Even the nights are better
+Now that we're here together
+Even the nights are better
+Since I found you, oh
+Even the days are brighter
+When someone you loves beside you
+Even the nights are better
+Since I found you
+
+You, you knew just what to do
+Cause you had been lonely too
+And you showed me how
+To ease the pain
+
+And you did more
+Than mend a broken heart
+Cause now you've made a fire start
+And I, I can see that you feel
+The same way
+
+I never dreamed there'd be
+Someone to hold me until you
+Told me and now that I've found
+
+
+
+I never dreamed there'd be
+Someone to hold me until you
+Told me and now that I've found
+
+
+
+
 

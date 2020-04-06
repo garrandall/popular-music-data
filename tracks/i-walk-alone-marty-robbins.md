@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-walk-alone-marty-robbins
+lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/iwalkalone.html
 name: I Walk Alone
 rankings:
 - end_date: '1968-11-01'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
 ---
+
+I walk alone where once we wandered
+It seems so strange that you are gone
+Till you return I'll stay the same, dear
+I'll still be true and walk alone
+
+Flame of love is brightly burnin'
+You know that I'm your very own
+Until you return I'll stay the same, dear
+And I'll still be true and walk alone
+
+Flame of love is brightly burnin'
+You know that I'm your very own
+Until you return I'll stay the same, dear
+And I'll still be true and walk alone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lost-you-anyway-toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/lostyouanyway.html
 name: Lost You Anyway
 rankings:
 - end_date: '2009-05-22'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
 ---
+
+Maybe you were right, Maybe I could have changed 
+Sittin' here alone tonight thinkin' 'bout a lot of things 
+What's a man to say when all the questions start 
+Hell I know deep down inside my broken heart 
+
+
+Could've tried just a little bit harder 
+Kissed you just a little bit sweeter 
+Held on just a little bit longer 
+Dug down just a little bit deeper 
+Let the world revolve around you 
+And give you the stars above 
+Loved you just enough to make you stay 
+And I'd lost you anyway 
+
+I hate it when it's like this, baby it's like that now 
+Nothing I can say to you, you even care to talk about 
+How you gonna dress it up, wrap it in a pretty bow 
+When it's gone, it's gone for good, baby at least I know 
+
+
+
+Let the world revolve around you 
+And given you the stars above 
+Loved you just enough to make you stay 
+And I'd lost you anyway
+
+
 

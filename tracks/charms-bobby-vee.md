@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: charms-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/charms.html
 name: Charms
 rankings:
 - end_date: '1963-04-05'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
 ---
+
+Pretty charms, pretty little charms
+See how they sparkle in the sun
+Ding dong ding listen to them ring
+They seem to be telling everyone
+That you're my baby
+With a twist of your wrist it can be told
+You're my baby
+There it is, in fourteen carat golden
+
+Pretty charms, pretty little charms
+Starting from the day we met
+The Sweet Sixteen, the moments in between
+That New Year's Eve we won't forget
+So if some guy should ask you
+If some night you're free
+Wave him away with a wave of your arms
+Do as I say, just blind 'em with your charms
+And show him you belong to me
+
+So if some guy should ask you
+If some night you're free
+Wave him away with a wave of your arms
+Do what I say, just blind 'em with your charms
+And show him you belong to me
+
+(Pretty charms, pretty little charms)
+(Pretty charms, pretty little charms)
+(Pretty charms, pretty little charms)
+
+
 

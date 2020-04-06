@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-over-states-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/flyoverstates.html
 name: Fly Over States
 rankings:
 - end_date: '2012-03-16'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
 ---
+
+A couple of guys in first class on a flight
+From New York to Los Angeles
+Kinda making small talk killin' time
+Flirting with the flight attendants
+Thirty thousand feet above, could be Oklahoma
+
+Just a bunch of square cornfields and wheat farms
+Man, it all looks the same
+Miles and miles of back roads and highways
+Connecting little towns with funny names
+Who'd want to live down there in the middle of nowhere?
+
+They've never drove through Indiana
+Met the man who plowed that earth
+Planted that seed, busted his ass for you and me
+Or caught a harvest moon in Kansas
+They'd understand why God made
+Those fly over states
+
+I bet that mile long Santa Fe
+Freight train engineer's seen it all
+Just like that flatbed cowboy
+Stacking US Steel on a three day haul
+Roads and rails under their feet
+Yeah, that sounds like a first class seat
+
+On the plains of Oklahoma
+With a windshield sunset in your eyes
+Like a water colored painted sky
+You'll think heaven's doors have opened
+You'll understand why God made
+Those fly over states
+
+Take a ride across the badlands
+Feel that freedom on your face
+Breathe in all that open space
+Meet a girl from Amarillo
+You'll understand why God made
+You might even wanna plant your stakes
+In those fly over states
+
+Have you ever been through Indiana
+On the plains of Oklahoma
+Take a ride
+
+
 

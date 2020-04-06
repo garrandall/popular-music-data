@@ -5,6 +5,7 @@ features:
 - Sia
 genres: []
 key: titanium-david-guetta-sia
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/titanium.html
 name: Titanium
 rankings:
 - end_date: '2011-09-02'
@@ -140,4 +141,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
 ---
+
+You shout it out, but I can't hear a word you say
+I'm talking loud, not saying much
+I'm criticized, but all your bullets ricochet
+Shoot me down, but I get up
+
+I'm bulletproof, nothing to lose
+Fire away, fire away
+Ricochet, you take your aim
+Fire away, fire away
+
+You shoot me down, but I won't fall
+I am titanium
+You shoot me down, but I won't fall
+I am titanium
+
+Cut me down, but it's you who'll have further to fall
+Ghost town and haunted love
+Raise your voice, sticks and stones may break my bones
+I'm talking loud, not saying much
+
+I'm bulletproof, nothing to lose
+Fire away, fire away
+Ricochet, you take your aim
+Fire away, fire away
+
+You shoot me down, but I won't fall
+I am titanium
+You shoot me down, but I won't fall
+I am titanium
+I am titanium
+I am titanium
+
+Stone hard, machine gun
+Firing at the ones who run
+Stone hard, as bulletproof glass
+
+You shoot me down, but I won't fall
+I am titanium
+You shoot me down, but I won't fall
+I am titanium
+You shoot me down, but I won't fall
+I am titanium
+You shoot me down, but I won't fall
+I am titanium
+I am titanium
+
+
 

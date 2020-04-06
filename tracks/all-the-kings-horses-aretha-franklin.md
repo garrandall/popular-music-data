@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-the-kings-horses-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/allthekingshorses.html
 name: All The Kings Horses
 rankings:
 - end_date: '1972-06-09'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
 ---
+
+All the king's horse and all the king's men
+They couldn't put my broken heart back together again.
+I woke up this mornin' that this is what I found.
+You had gone and left me,
+Any you never even made a farewell sound.
+
+All the king's horse and all the king's men
+They couldn't put my broken heart back together again.
+I asked my friends about you and this is what they said,
+"She can live without you, 
+She's gonna find a man with money instead."
+
+All the king's horse and all the king's men
+They couldn't put my broken heart back together again.
+Someday you will know, the meaning of a love that's true.
+But when you find out I won't be around to share it with you.
+
+All the king's horse and all the king's men
+They couldn't put my broken heart back together again.
+All the king's horse and all the king's men
+They couldn't put my broken heart back together again.
+
+
 

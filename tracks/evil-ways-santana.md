@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evil-ways-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/evilways.html
 name: Evil Ways
 rankings:
 - end_date: '1970-01-30'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
 ---
+
+You've got to change your evil ways... baby
+Before I stop loving you
+You've got to change... baby
+And every word that I say is true
+You've got me running and hiding
+All over town
+You've got me sneaking and peeping
+And running you down
+This can't go on...
+Lord knows you got to change... baby
+
+When I come home... baby
+My house is dark and my pots are cold
+You're hangin' round, baby
+With Jean and Joan and-a who knows who
+I'm getting tired of waiting and fooling around
+I'll find somebody who won't make me feel like a clown
+This can't go on...
+Lord knows you got to change
+
+When I come home, baby
+My house is dark and my pots are cold
+You're hangin' round, baby
+With Jean and Joan and-a who knows who
+I'm gettin' tired of waitin' and foolin' around
+I'll find somebody who won't make me feel like a clown
+This can't go on
+
+Yeah ... Yeah ... Yeah ...
+
+
 

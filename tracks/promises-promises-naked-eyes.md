@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: promises-promises-naked-eyes
+lyrics_url: https://www.azlyrics.com/lyrics/nakedeyes/promisespromises.html
 name: Promises Promises
 rankings:
 - end_date: '1983-07-22'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
 ---
+
+Never had a doubt in the beginning
+Never a doubt
+Trusted you true in the beginning
+I loved you right through
+
+Arm in arm we laughed like kids
+At all the silly things we did
+
+You made me promises, promises
+Knowing I'd believe
+Promises, promises
+You knew you'd never keep
+
+Second time around, I'm still believing
+The words that you said
+You said you'd always be here
+"In love forever" still repeats in my head
+
+You can't finish what you start
+If this is love it breaks my heart
+
+You made me promises, promises
+You knew you'd never keep
+Promises, promises
+Why do I believe?
+
+Arm in arm we laughed like kids
+
+At all the silly things we did
+But you can't finish what you start
+If this is love it breaks my heart
+
+You made me promises, promises
+You knew you'd never keep
+Promises, promises
+Why do I believe
+All of your promises
+You knew you'd never keep
+Promises, promises
+Why do I believe?
+
+Promises
+Promises
+Promises
+Promises
+Promises
+
+
 

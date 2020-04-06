@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tragedy-bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/tragedy.html
 name: Tragedy
 rankings:
 - end_date: '1979-02-16'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
 ---
+
+Here I lie
+In a lost and lonely part of town
+Held in time
+In a world of tears I slowly drown
+Goin'home
+I just can't make it all alone
+I really should be holding you
+Holding you
+Loving you loving you
+
+Tragedy
+When the feeling's gone and you can't go on
+It's tragedy
+When the morning cries and you don't know why
+It's hard to bear
+With no-one to love you you're
+Goin' nowhere
+Tragedy
+When you lose control and you got no soul
+It's tragedy
+When the morning cries and you don't know why
+It's hard to bear
+With no-one beside you you're
+Goin' nowhere
+
+Night and day
+There's a burning down inside of me
+Burning love
+With a yearning that won't let me be
+Down I go
+And I just can't take it all alone
+I really should be holding you
+Holding you
+Loving you loving you
+
+Tragedy
+When the feeling's gone and you can't go on
+It's tragedy
+When the morning cries and you don't know why
+It's hard to bear
+With no-one to love you you're
+Goin' nowhere
+Tragedy
+When you lose control and you got no soul
+It's tragedy
+When the morning cries and you don't know why
+It's hard to bear
+With no-one beside you you're
+Goin' nowhere
+
+Tragedy...
+
+
 

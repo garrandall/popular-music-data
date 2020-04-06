@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-promises-icehouse
+lyrics_url: https://www.azlyrics.com/lyrics/icehouse/nopromises.html
 name: No Promises
 rankings:
 - end_date: '1986-07-11'
@@ -43,4 +44,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-30'
 ---
+
+A winter palace
+From the arabian nights
+White waves on an ocean
+Gems from a golden age
+
+Life in your new world
+Turning round and round
+Making some sense
+Where there's no sense at all
+
+No promises
+But if you should fall
+
+Stars die in the silence
+Of arabian nights
+Wind washes the seasons
+In these days of a golden age
+
+Life in your new world
+Turning round and round
+Making some sense
+Where there's no sense at all
+
+No promises
+But if you should fall
+
+I could give you more
+Than just the shape of things
+Break every word
+Begin it all again
+Your name on a white sheet
+Pure lace shot with passion
+But as love lies
+Bleeding in your hands
+
+Heaven sends you
+No promises
+Of arabian nights
+No white waves on an ocean
+No gems from a golden age
+
+Life in your new world
+Turning round and round
+So make some sense
+Where there's no sense at all
+
+I give you
+No promises
+But if you should fall
+
+No promises
+But if you should fall
+You fall
+
+No promises
+But if you should fall
+
+No promises
+But if you should fall
+You fall
+
+Life in your new world
+As it turns round and round
+
+No promises
+But if you should fall
+
+
 

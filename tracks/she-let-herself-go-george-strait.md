@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-let-herself-go-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/sheletherselfgo.html
 name: She Let Herself Go
 rankings:
 - end_date: '2005-11-11'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
 ---
+
+He wondered how she'd take it when he said goodbye.
+Thought she might do some cryin'... lose some sleep at night.
+But he had no idea, when he hit the road,
+That without him in her life, she'd let herself go.
+
+Let herself go on a singles cruise,
+To Vegas once, then to Honolulu.
+Let herself go to New York City...
+A week at the Spa; came back knocked-out pretty.
+When he said he didn't love her no more,
+She let herself go.
+
+
+
+She poured her heart an' soul into their three-bedroom ranch.
+Spent her days raisin' babies, ironin' his pants.
+Came home one day from the grocery store and found his note,
+And without him there to stop her, she let herself go.
+
+Let herself go on her first blind-date...
+Had the time of her life with some friends at the lake.
+Let herself go, buy a brand new car,
+Drove down to the beach he always said was too far.
+Sand sure felt good between her toes...
+
+She let herself go on a singles cruise,
+To Vegas once, then to Honolulu.
+Let herself go to New York City...
+A week at the Spa; came back knocked-out pretty.
+When he said he didn't love her no more,
+She let herself go.
+
+To Vegas once... Honolulu, New York City.
+Came back knocked-out pretty.
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-day-will-come-ruby-and-the-romantics
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/ourdaywillcome.html
 name: Our Day Will Come
 rankings:
 - end_date: '1963-02-15'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
 ---
+
+Our day will come
+And we'll have everything.
+We'll share the joy
+Falling in love can bring.
+
+No one can tell me
+That I'm too young to know (young to know)
+I love you so (love you so)
+And you love me.
+
+Our day will come
+If we just wait a while.
+No tears for us -
+Think love and wear a smile.
+
+Our dreams have magic
+Because we'll always stay
+In love this way
+Our day will come.
+(Our day will come; our day will come.)
+
+Our dreams have magic
+Because we'll always stay
+In love this way.
+Our day will come.
+Our day will come.
+
+
 

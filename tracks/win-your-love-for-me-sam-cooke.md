@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: win-your-love-for-me-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/winyourloveforme.html
 name: Win Your Love For Me
 rankings:
 - end_date: '1958-08-10'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
 ---
+
+Wooah ooo little girl
+How happy I would be
+If some miracle could win your love for me
+
+Wooah ooo little girl
+How happy I would be
+If some miracle could win your love for me
+
+Win your love for me
+
+Manys the day I've longed for you
+To hold you in my arms
+Manys the night I've cried for you
+And for your many charms
+
+If you'd only come to me my heart wouldn't be full of sorrow
+But now all I can do is hope and prey that you will come to me tomorrow
+
+Wooah ooo little girl
+How happy I would be
+If some miracle could win your love for me
+
+Win your love for me
+
+To me you are so beautiful
+Beautiful as a song
+Whenever I look at you my heart beat like the tom tom
+If you'd only come to me
+This torch I wouldn't have to carry
+And if everything goes right
+To the church we'll go to marry
+
+Wooah ooo little girl
+How happy I would be
+If some miracle could win your love for me
+
+Win your love for me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: indian-love-call-ray-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/raystevens/indianlovecall.html
 name: Indian Love Call
 rankings:
 - end_date: '1975-10-17'
@@ -27,4 +28,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
 ---
+
+When I'm calling you, ooh
+If you answer too, ooh
+
+That means that I offer my love to you
+To be your own
+If you refuse me, I will be blue
+And waiting all alone
+
+But, if when you hear
+My love call, ringing clear, ooh
+And I hear you're
+Answering a call so dear, ooh
+
+Then I will know
+That our love will be true
+You belong to me
+I belong to you, ooh, ooh, ooh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-on-your-love-suite-rick-james
+lyrics_url: https://www.azlyrics.com/lyrics/rickjames/highonyourlovesuiteonemohitofyourlove.html
 name: High On Your Love Suite
 rankings:
 - end_date: '1979-04-13'
@@ -31,4 +32,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
+
+Baby baby baby!
+
+I'm high
+I can't come down
+Ever since
+You came around
+
+I'm high
+There's no doubt
+It feels so good
+You're so far out
+
+Baby baby baby girl
+You know you turn me on
+You are so sexy, sister, sing your song
+Baby baby baby girl
+You turn on all my fire
+And your sweet love takes me higher
+
+I am high, high on your love
+
+I'm high
+Too high to cope
+I'm high on love
+Ain't had no dope, nah
+I'm high
+It's such a thrill
+You said I could
+I said I will
+
+Baby baby baby girl
+You know you turn me on
+You are so sexy, sister, sing your song
+Baby baby baby girl
+You turn on all my fire
+And your sweet love takes me higher
+
+I am high, high on your love
+
+I'm high on your love now baby babe
+(Get on up, get on up)
+
+Everybody get up, get high on the funk
+(Get stoned, get a little stoned)
+
+Everybody get up, let's dance on the funk
+Sing on the funk
+Get high on the funk
+
+High, love down baby
+Play on it
+
+I am high, high on your love
+
+
 

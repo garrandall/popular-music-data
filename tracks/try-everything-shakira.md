@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-everything-shakira
+lyrics_url: https://www.azlyrics.com/lyrics/shakira/tryeverything.html
 name: Try Everything
 rankings:
 - end_date: '2016-04-01'
@@ -43,4 +44,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
 ---
+
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+
+I messed up tonight, I lost another fight
+I still mess up but I'll just start again
+I keep falling down, I keep on hitting the ground
+I always get up now to see what's next
+
+Birds don't just fly, they fall down and get up
+Nobody learns without getting it wrong
+
+I won't give up, no I won't give in
+'Til I reach the end and then I'll start again
+No, I won't leave, I wanna try everything
+I wanna try even though I could fail
+I won't give up, no I won't give in
+'Til I reach the end and then I'll start again
+No, I won't leave, I wanna try everything
+I wanna try even though I could fail
+
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+
+Look how far you've come, you filled your heart with love
+Baby, you've done enough, take a deep breath
+Don't beat yourself up, don't need to run so fast
+Sometimes we come last, but we did our best
+
+I won't give up, no I won't give in
+'Til I reach the end and then I'll start again
+No, I won't leave, I wanna try everything
+I wanna try even though I could fail
+I won't give up, no I won't give in
+'Til I reach the end and then I'll start again
+No, I won't leave, I wanna try everything
+I wanna try even though I could fail
+
+I'll keep on making those new mistakes
+I'll keep on making them every day
+Those new mistakes
+
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+Try everything
+Oh, oh, oh, oh, oh
+
+Try everything
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-power-of-love-celine-dion
+lyrics_url: https://www.azlyrics.com/lyrics/celinedion/thepoweroflove.html
 name: The Power Of Love
 rankings:
 - end_date: '1993-12-03'
@@ -139,4 +140,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
 ---
+
+The whispers in the morning
+Of lovers sleeping tight
+Are rolling by like thunder now
+As I look in your eyes
+
+I hold on to your whole body
+And feel each move you make
+Your voice is warm and tender
+A love that I could not forsake
+
+'Cause I'm your lady
+And you are my man
+Whenever you reach for me
+I'll do all that I can
+
+Lost is how I'm feeling
+Lying in your arms
+When the world outside's too much to take
+That all ends when I'm with you
+
+Even though there may be times
+It seems I'm far away
+Never wonder where I am
+'Cause I am always by your side
+
+'Cause I'm your lady
+And you are my man
+Whenever you reach for me
+I'll do all that I can
+We're heading for something
+Somewhere I've never been
+Sometimes I am frightened but I'm ready to learn
+Of the power of love
+
+The sound of your heart beating
+Made it clear suddenly
+The feeling that I can't go on
+Is light years away
+
+'Cause I'm your lady
+And you are my man
+Whenever you reach for me
+I'm gonna do all that I can
+We're heading for something
+Somewhere I've never been
+Sometimes I am frightened but I'm ready to learn
+Of the power of love
+
+The power of love
+The power of love
+
+Sometimes I am frightened but I'm ready to learn
+Of the power of love
+
+The power of love
+
+As I look into your eyes
+
+The power of love
+
+
 

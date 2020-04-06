@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -til-my-baby-comes-home-luther-vandross
+lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/tilmybabycomeshome.html
 name: '''Til My Baby Comes Home'
 rankings:
 - end_date: '1985-03-22'
@@ -71,4 +72,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
 ---
+
+There's a whole lot of girls
+Messin around
+Trying to get me
+
+They do things cause they know
+My girl is away
+They try to upset me
+
+They can't believe I resist
+How can I hold out,
+Where is that girl now
+But the truth really is
+I don't worry cause I love you baby so, That...
+
+
+No matter where my baby is
+She never leaves me without love
+She gives it up till I get enough
+Then I'm alright
+Til my baby comes home
+If she stays away for long
+She calls me on the phone
+I jump up when I hear her voice
+Then I'm alright
+Til my baby comes home
+
+I get weak in the knees
+My hands start to shakin
+Head gets to achin
+Is she thinkin of me
+Or feelin the fire
+With some other guy, yeah
+I can't believe I can be
+Worried about her
+I should'ntdoubt her
+Cause our thing is for real
+And I don't worry
+Cause I know, I know, I know...
+
+
+
+Bring it on
+Home to me
+She makes everything alright, shes
+Good to me
+Shes the best part of my life
+Can't you tell
+That I'm just like a new guy, I'm doing
+Very well
+Cause I know shes coming back tonight
+
+Every night when I sleep
+I dream of my baby
+Shes such a lady
+Then I wake up and see
+That shes laying by me
+Right there beside me
+I can't explain how I fell
+I really love her, keep dreaming of her
+Cause our love is for real
+And I don't worry
+Cause I know, I know, I know
+
+
+
+
 

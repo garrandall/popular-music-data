@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot--n--nasty-humble-pie
+lyrics_url: https://www.azlyrics.com/lyrics/humblepie/hotnnasty.html
 name: Hot 'N' Nasty
 rankings:
 - end_date: '1972-05-12'
@@ -39,4 +40,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
 ---
+
+Find it (Who that?)
+Mercy (Who that sayin' mercy?)
+So hot 'n' nasty.
+
+Hey Joe, don't forget to shake it
+While you're sleepin' on that bed
+You know it really makes it
+Look at me shake a leg, no.
+
+I got my head in a cloud
+I'm gonna stand up and shout
+I wanna sing out loud
+Oh, got to do it with the feelin'
+Now you gonna hit the ceiling.
+
+(Do you get the message?) yeah
+(Do you get the message?)
+(Do you get the message?)
+(Do you get the message yeah?)
+
+Hey boogaloo, I really love you
+Look what you've done to my head
+Take all my time, take all my money
+But most of all you take all my bed.
+
+I got my head in a cloud
+I wanna sing it loud
+I'm gonna stand right here and shout
+You got to do it with the feelin'
+Well, you gonna hit the ceiling.
+
+(Do you get the message?) yeah
+(Do you get the message?)
+(Do you get the message?)
+(Do you get the message yeah?).
+
+Don't forget to shake that thing.
+
+Do you get the feelin'? Oh yeah
+Then you gonna, then you gonna hit the ceiling
+Hot 'n' nasty, hot 'n' nasty
+It's hot 'n' nasty, so hot 'n' nasty...
+
+
 

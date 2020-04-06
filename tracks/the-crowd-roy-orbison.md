@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-crowd-roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/thecrowd.html
 name: The Crowd
 rankings:
 - end_date: '1962-06-08'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
 ---
+
+I go out with the crowd, I play the game
+Pretending out loud but it don't seem the same
+For the heart of the crowd is gone from sight
+My part of the crowd is not with me tonight
+
+I remember the prom, every dance with you
+All the crazy things that we used to do
+Sometimes we'd wait for a chance
+And then we'd steal away
+From the crowd and the dance to our hideaway
+
+Aww, but you're gone and it's not the same old game
+I fall apart each time I hear your name
+Guess I'll go along with the crowd, I'll make believe
+That you'll come back to me, run back to me
+Hurry back to the crowd a-and me
+
+
 

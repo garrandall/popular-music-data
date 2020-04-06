@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: light-the-sky-on-fire-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/lighttheskyonfire.html
 name: Light The Sky On Fire
 rankings:
 - end_date: '1978-12-08'
@@ -31,4 +32,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
 ---
+
+Fly unidentified if you want to
+But I would really like to know
+
+Will you light the sky on fire?
+Will you light tonight like
+You did the night before, baby?
+You could take me higher
+Than the diamonds in the sky
+Take me, light in the sky and
+We'll vanish without a trace
+In a cigar-shaped object
+
+Temples and pyramids they sing
+Know all there really is to know
+
+Will you light the sky on fire?
+Will you light the sky
+On fire again tonight?
+You can take me higher
+Than the diamonds in the sky
+Take me, we'll vanish without a trace
+In a cigar-shaped object
+(Vanish without a trace)
+
+On the pyramids is a legend
+The great god Kopa Khan who
+Came from the stars and vanished
+And the legends say he will come
+Back again someday
+Someday (someday)
+
+Will you light the sky on fire?
+Will you light tonight like
+You did the night before?
+You could take me higher
+Than the diamonds in the sky
+Take me, light in the sky and
+We'll vanish without a trace
+In a cigar-shaped object
+
+Yes, I would really like to know
+What are they watching us for?
+Yes, I would really like to know
+
+Will you light the sky on fire?
+Will you light the sky like
+You did the night before?
+You could take me higher
+Than the diamonds in the sky
+Take me, we'll vanish without a trace
+In a cigar-shaped object
+Vanish without a trace
+Vanish without a trace
+
+Come on, come on, come on
+Come on, come on
+Let's vanish without a trace
+Come on, come on, come on
+Come on, come on
+We'll vanish without a trace
+
+
 

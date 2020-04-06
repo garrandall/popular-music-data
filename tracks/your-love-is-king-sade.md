@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-love-is-king-sade
+lyrics_url: https://www.azlyrics.com/lyrics/sade/yourloveisking.html
 name: Your Love Is King
 rankings:
 - end_date: '1985-06-28'
@@ -51,4 +52,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
 ---
+
+Your love is king
+Crown you with my heart
+Your love is king
+Never need to part
+Your kisses ring
+Round and round and round my head
+Touching the very part of me
+It's making my soul sing
+Tearing the very heart of me
+I'm crying out for more 
+Your love is king
+Crown you with my heart
+Your love is king
+You're the ruler of my heart
+Your kisses ring
+Round and round and round my head
+Touching the very part of me
+It's making my soul sing
+I'm crying out for more
+Your love is king 
+
+I'm coming on
+I'm coming
+You're making me dance
+Inside 
+
+Your love is king
+Crown you with my heart
+Your love is king
+Never need to part
+Your kisses ring
+Round and round and round my head
+Touching the very part of me
+It's making my soul sing
+Tearing the very heart of me
+I'm crying out for more 
+
+Touching the very part of me
+It's making my soul sing
+I'm crying out for more
+Your love is king 
+
+This is no
+Blind faith
+This is no
+Sad or sorry dream
+This is no
+Blind faith 
+
+Your love, your love is real
+(your love is king)
+Gotta crown me with your heart
+(your love is king)
+Never never need to part
+(your love is king)
+Touch me
+(your love is king)
+never letting go
+(your love is king)
+Your Love is King
+never letting go
+(your love is king)
+never gonna give it up
+(your love is king)
+I'm comming
+(your love is king)
+making me dance
+
+
 

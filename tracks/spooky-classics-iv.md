@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spooky-classics-iv
+lyrics_url: https://www.azlyrics.com/lyrics/classicsiv/spooky.html
 name: Spooky
 rankings:
 - end_date: '1967-12-29'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
 ---
+
+In the cool of the evenin'
+When everything is gettin' kind of groovy
+I call you up and ask you if you'd like to
+Go with me and see a movie
+
+First you say no
+You've got some plans for the night
+And then you stop, and say, all right
+Love is kinda crazy with a spooky little girl like you
+
+You always keep me guessin'
+I never seem to know what you are thinkin'
+And if a fella looks at you
+It's for sure your little eye will be a-winkin'
+
+I get confused
+'Cause I don't know where I stand
+And then you smile and hold my hand
+Love is kinda crazy with a spooky little girl like you
+Spooky, heh, yeah
+
+If you decide someday to stop
+This little game that you are playin'
+I'm gonna tell you all the things
+My heart's been a-dyin' to be sayin'
+
+Just like a ghost
+You've been a-hauntin' my dreams
+So I'll propose on Halloween
+Love is kinda crazy with a spooky little girl like you
+
+Spooky, spooky
+Oh, whoa, all right, I said spooky
+Oh, yeah, yeah, I said spooky
+Yeah, yeah
+Oh spooky, spooky
+I said spooky
+
+
 

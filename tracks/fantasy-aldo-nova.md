@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fantasy-aldo-nova
+lyrics_url: https://www.azlyrics.com/lyrics/aldonova/fantasy.html
 name: Fantasy
 rankings:
 - end_date: '1982-04-02'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+
+City nights, summer breeze makes you feel alright
+Neon lights, shining brightly make your brain ignite
+See the girls with the dresses so tight
+Give you love if the price is right
+Black or white, in the streets there's no wrong and no right, no
+
+Outta site, buy your kicks from the man in the white
+Feels alright, powder pleasure in your nose tonight
+See the men paint their faces and cry 
+Like some girl it makes you wonder why 
+City life, sure is cool but it cuts like a knife, it's your life
+
+So forget all that you see
+It's not reality 
+It's just a fantasy 
+
+Can't you see what this crazy life is doing to me
+Life is just a fantasy, can you live this fantasy life
+Life is just a fantasy, can you live this fantasy life
+
+So forget all that you see
+It's not reality 
+It's just a fantasy 
+
+Can't you see what this crazy life is doing to me, yeah
+Life is just a fantasy, can you live this fantasy life
+Life is just a fantasy, can you live this fantasy life
+Life is just a fantasy, can you live this fantasy life
+Life is just a fantasy, can you live this fantasy life
+I know
+I know
+
+
 

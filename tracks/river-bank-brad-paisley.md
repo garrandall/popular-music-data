@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: river-bank-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/riverbank.html
 name: River Bank
 rankings:
 - end_date: '2014-05-30'
@@ -79,4 +80,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
 ---
+
+Well, I won 2 dollars on a scratch-off ticket
+So I went back to the counter and I bought 2 more with it
+And I won 10 bucks and that was just right
+So, I bought a six pack and a bag of ice
+
+You know even if our ship came in and this is all we got
+It ainât like we really need a million dollar yacht, 'cause
+
+
+We got an inner tube
+We got a trailer hitch
+Weâre near the river and far from rich
+But we have got each other and gas in the tank
+Weâre laughing all the way to the river bank
+
+Still, can you imagine if we ever struck it
+Iâd go shoot tequila, take a lime and suck it
+And weâd tell our bosses they can do the same
+Weâll find a big cruise ship and buy the whole dang thing
+
+Weâd sail around the world and go to shore in a dingy
+But till that dream comes true why donât you grab your bikini 'cause
+
+
+
+However it goes (whatever happens),
+Weâve got it made (in these shades)
+'Cause baby we can float (behind this boat)
+We can ride away
+
+
+We got an inner tube
+We got a trailer hitch
+Weâre near the river and far from rich
+But we have got each other and gas in the tank
+And it's a beautiful day.
+Weâre laughing all the way
+To the river bank
+
+
 

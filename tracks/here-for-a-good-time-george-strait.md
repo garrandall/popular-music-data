@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-for-a-good-time-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/hereforagoodtime.html
 name: Here For A Good Time
 rankings:
 - end_date: '2011-07-22'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
 ---
+
+I'm not gonna lay around and whine and moan
+'Cause somebody done done me wrong
+Don't think for a minute that I'm gonna sit around
+And sing some old sad song
+
+I believe it's half-full not a half-empty glass
+Every day I wake up knowing it could be my last
+
+I ain't here for a long time
+I'm here for a good time
+So bring on the sunshine
+To hell with the red wine
+Pour me some moon shine
+
+When I'm gone
+Put it in stone
+"He left nothing behind"
+I ain't here for a long time
+I'm here for a good time
+
+Folks are always dreaming 'bout
+What they'd like to do
+But I like to do just what I like
+I'll take the chance
+Dance the dance
+It might be wrong
+But then again it might be right
+
+There's no way of knowing what tomorrow brings
+Life's too short to waste it
+I say, "Bring on anything."
+
+I ain't here for a long time
+I'm here for a good time
+So bring on the sunshine
+To hell with the red wine
+Pour me some moon shine
+
+When I'm gone
+Put it in stone
+"He left nothing behind"
+I ain't here for a long time
+I'm here for a good time
+I ain't here for a long time
+I'm here for a good time
+
+
 

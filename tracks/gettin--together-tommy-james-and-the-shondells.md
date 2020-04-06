@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gettin--together-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/gettintogether.html
 name: Gettin' Together
 rankings:
 - end_date: '1967-09-01'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
 ---
+
+Gettin' together is better than ever
+Gettin' together
+
+I am so happy, baby
+Now that you are my lady
+We can hold hands together
+Every day, come what may
+I promise you I'll always 
+Give you my lovin' always
+You can depend on me girl
+All the time, rain or shine
+
+You're gonna love it
+I'm gonna love it
+Day time, night time
+Your time, my time
+
+Gettin' together is better than ever
+Gettin' together never felt like this before
+Gettin' together is better than ever
+Gettin' together
+
+You bring me new excitement
+I never knew what night meant
+We got a thing together 
+very few ever knew
+You can be sure of one thing
+All of the love that I bring
+I'm gonna keep you happy
+All the time rain or shine
+
+You're gonna love it
+I'm gonna love it
+Day time, night time
+Your time, my time
+
+Gettin' together is better than ever
+Gettin' together never felt like this before
+Gettin' together is better than ever
+Gettin' together
+
+Gettin' together is better than ever
+Gettin' together never felt like this before
+Gettin' together is better than ever
+Gettin' together
+
+
 

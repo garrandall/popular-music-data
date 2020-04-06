@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-light-up-my-life-leann-rimes
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/youlightupmylife.html
 name: You Light Up My Life
 rankings:
 - end_date: '1997-09-19'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
 ---
+
+So many nights, I'd sit by my window,
+Waiting for someone to sing me his song.
+So many dreams, I kept deep inside me,
+Alone in the dark, but now you've come along.
+And you light up my life,
+You give me hope, to carry on.
+You light up my days
+And fill my nights with song.
+Rollin' at sea, adrift on the waters
+Could it be finally, I'm turning for home
+Finally a chance to say, "Hey, I Love You"
+Never again to be all alone.
+And you light up my life,
+You give me hope, to carry on.
+You light up my days
+And fill my nights with song.
+You, You light up my life
+You give me hope to carry on
+
+You light up my day's
+And fill my life with song
+It can't be wrong when it feels so right
+'cause you, you light up my life
+
+
 

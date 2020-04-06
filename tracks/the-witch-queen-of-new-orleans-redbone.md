@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-witch-queen-of-new-orleans-redbone
+lyrics_url: https://www.azlyrics.com/lyrics/redbone/thewitchqueenofneworleans.html
 name: The Witch Queen Of New Orleans
 rankings:
 - end_date: '1971-11-26'
@@ -75,4 +76,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
 ---
+
+Marie, Marie 
+La voodoo, veau 
+She'll put a spell on you
+
+Marie, Marie 
+La voodoo, veau 
+She'll put a spell on you 
+Marie, Marie 
+La voodoo, veau 
+She's the witch queen - oh 
+Of New Orleans 
+
+Of New Orleans 
+
+I'm gonna tell you a story 
+Strange as it now seems 
+Of zombie, voodoo, gris gris 
+And the Witch Queen of New Orleans 
+
+She lived in a world of magic 
+Possessed by the devils skew 
+From a shack near the swamplands 
+Made of mud-brown brick 
+Marie stirred the witches brew 
+
+Marie, Marie 
+La voodoo veau 
+She'll put a spell on you
+
+Marie, Marie 
+La voodoo veau 
+She'll put a spell on you
+
+Marie Marie 
+La voodoo veau 
+She's the Witch Queen - of New Orleans 
+
+Of New Orleans 
+
+Dime or a nickel anyone could buy 
+Voodoo of any kind 
+She had potions and lotions, herbs 
+and tanna leaves 
+Guaranteed to blow your mind 
+
+Early one morning into mud, the swamp dew 
+Vanished Marie with hate in her eyes 
+Though she never returned 
+All the Cajuns knew 
+A Witch Queen never dies. 
+
+Marie, Marie 
+La voodoo, veau 
+She'll put a spell on you 
+
+Marie, Marie 
+La voodoo, veau 
+She'll put a spell on you 
+
+Marie, Marie 
+La voodoo, veau 
+She's the witch queen - oh 
+Of New Orleans
+
+
 

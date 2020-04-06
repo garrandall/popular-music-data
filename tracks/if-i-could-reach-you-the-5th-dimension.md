@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-could-reach-you-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/ificouldreachyou.html
 name: If I Could Reach You
 rankings:
 - end_date: '1972-09-15'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
 ---
+
+Oh no, don't go
+It's hours 'til dawn
+And there's no one
+Who'd rather be with you
+
+I know you know
+Other girls like me
+I let you take my love
+Knowing you don't love me
+
+But if I could reach you some way
+If I knew the magic it would take
+To love you good enough on the outside
+And make you feel it on the inside
+Maybe I could make you stay
+If I could reach you
+
+The dark is getting light
+And you're dressed to go
+And never said a word
+About tomorrow
+
+But if I could reach you some way
+If I knew the magic it would take
+To love you good enough on the outside
+And make you feel it on the inside
+Maybe I could make you stay
+
+See you next time
+I'll see you next time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shame-evelyn--champagne--king
+lyrics_url: https://www.azlyrics.com/lyrics/evelynchampagneking/shame.html
 name: Shame
 rankings:
 - end_date: '1978-06-23'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
 ---
+
+Shame
+Burning, you keep my whole body yearning
+You got me so confused
+It's a shame
+Sometimes I think I'm going insane
+But still I want to stay
+
+Wrapped in your arms
+Is where I want to be, want to be
+Wrapped in your arms
+That's my high, my high
+
+Shame, ooh
+My mother says you're playing a game
+And what you do to me is a shame
+Ooh, gonna love you just the same
+Mama just don't understand
+
+Wrapped in your arms
+Is where I want to be, want to be
+Wrapped in your arms
+That's my high, my high
+
+I can't get enough, ooh baby
+Enough of that magic touch
+Love is in my heart
+Tearing the rules apart
+So, why should I be ashamed
+
+Only love can be to blame
+If we lose our love it's a shame
+Ooh, I wouldn't want to live with the pain
+Gonna stay forever
+
+Wrapped in your arms
+Is where I want to be, want to be
+Wrapped in your arms
+That's my high, my high
+
+Shame
+Only love can be to blame
+If we lose our love it's a shame
+Ooh, I wouldn't want to live with the pain
+Oh, it's a shame
+Shame...
+
+
 

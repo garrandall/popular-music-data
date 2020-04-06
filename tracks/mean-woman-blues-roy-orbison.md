@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mean-woman-blues-roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/royorbison/meanwomanblues.html
 name: Mean Woman Blues
 rankings:
 - end_date: '1963-09-13'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
+
+Hmm, well I got a woman mean as she can be
+Well I got a woman mean as she can be
+Some-a-times I think she's almost mean as me
+
+She gotta ruby lips, she got shapely hips, yeah
+Boy she makes ole Roy-oy flip
+I got a woman mean as she can be
+Some-a-times I think she's almost mean as me
+
+Well I ain't braggin', it's understood
+Everything I do, well I sure do it good
+Yeah I got a woman mean as she can be
+Some-a-times I think she's almost mean as me
+Well!
+
+She gotta ruby lips, she got shapely hips, yeah
+Boy she makes ole Roy-oy flip
+I got a woman mean as she can be
+Some-a-times I think she's almost mean as me, easy now
+
+Ah-huh-huh-huh ....
+
+Now let's go one time
+
+Well I got a woman (sha la la la)
+Yeah I got a woman (sha la la la)
+Yeah I got a woman (sha la la la)
+Well I got a woman (sha la la la)
+Some-a-times I think she's almost mean as me
+
+
 

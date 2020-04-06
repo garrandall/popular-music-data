@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-more-words-berlin
+lyrics_url: https://www.azlyrics.com/lyrics/berlin/nomorewords.html
 name: No More Words
 rankings:
 - end_date: '1984-03-16'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
 ---
+
+You're talking, it all sounds fair
+You promise your love, how much you care
+I'm still listening and still unsure
+Your actions are lacking, nothing is clear
+
+
+No more words
+You're telling me you love me while you're looking away
+No more words
+No more words and no more promises of love
+
+Remember when the words were new
+They carried a meaning, a feeling so true
+Well, I'm looking for a long romance
+Not a picture of passion or one time chance
+
+
+
+But don't fool yourself
+Your empty passion won't satisfy me, I know
+So don't pretend that you want me
+You don't want me, no
+
+
+
+We make love, and it's all the same
+Your eyes show nothing, no lover's flame
+Well, don't promise we can work it out
+You can leave right now if you're feeling doubt
+
+
+
+No more words
+You're telling me you love me and looking away
+No more words and no more promises
+No more words and no more promises
+
+
+
+No more words and no more promises
+No more words and no more promises of love
+No more words and no more promises of love
+No more words and no more promises of love
+
+
 

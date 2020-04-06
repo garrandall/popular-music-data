@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yesterday-s-songs-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/yesterdayssongs.html
 name: Yesterday's Songs
 rankings:
 - end_date: '1981-11-13'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
 ---
+
+Saying "I love you"
+Just sayin'  "I love you"
+
+Yesterday's songs
+Don't stay around long
+Not much anymore
+Yesterday's words
+Don't make themselves heard
+Like they did before
+
+Baby, yesterday's blues
+May be yesterday's news
+But the truth always stays the same
+And the good things will never change
+Like sayin'  "I love you"
+Just sayin'  "I love you"
+
+Yesterday's songs
+Don't seem to belong
+They're here and they're gone
+Yesterday's moves
+Don't stay in the grooves
+They keep moving on
+
+Maybe yesterday's rhyme
+Was for yesterday's time
+And the future's not ours to see
+But there's some things that always will be
+Like sayin'  "I love you"
+Sayin'  "I love you"
+
+Baby, yesterday's blues
+May be yesterday's news
+But the truth always stays the same
+And the good things will never change
+Like sayin'  "I love you"
+Just sayin'  "I love you"
+Sayin'  "I love you"
+Like sayin'  "I love you"
+
+
 

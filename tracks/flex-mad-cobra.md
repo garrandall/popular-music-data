@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flex-mad-cobra
+lyrics_url: https://www.azlyrics.com/lyrics/alkaline/dependpannobody.html
 name: Flex
 rankings:
 - end_date: '1992-10-23'
@@ -83,4 +84,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
 ---
+
+Depend pan nobody
+Ah the youngeest, lawd
+A jus di vibes
+Seaview nuh depend pan nobody
+Uptown nuh depend pan nobody, nobody
+
+Vendetta nuh depend pan nobody fi nothing
+Cause we ah soldier
+And We have whole heap a gyal everywhere, all over
+Ready fi pop the pussy and flex up like Yoga
+She ah say she would do anything
+Nah fool nobody yasuh
+Cause we know say uno ah poser
+And all in ah uno mind uno feel uno ah Orge
+Run inna the zig shot a bite yu like Cobra
+Pussy dem nah do ah
+
+Dem die out inna no time
+Me mek moves from me own time
+Pocket fat like folder full ah notes
+Me N'ave no coin
+Pon The buddy top you gyal ah slow wine
+Hear say she ah freak so you know
+She haffi blow mine
+Dem loss and miss up
+Syle weh we put down ah that dem pick up
+Every gyal weh see we ah road ah say big up
+Say dem love how we ah live yow
+We badda than dem
+And we more precise
+We madda than dem
+Detta know fi hold the order
+Whenever problem
+And we don't beggy beggy
+Owna money we ah spend
+You can't see
+Dem annuh boss dem ah basket
+Can't run the place uno gwaan run a crossfit
+45 deh to you jaw bone nah stick, ah don't need a second or a third till mi claat it
+
+Plus me nuh depend pan nobody
+Cause we ah soldier
+And We have whole heap a gyal everywhere, all over
+Ready fi pop the pussy and flex up like Yoga
+She ah say she would do anything
+Nah fool nobody yasuh
+Cause we know say uno ah poser
+And all in ah uno mind uno feel uno ah Orge
+Run inna the zig shot a bite yu like Cobra
+Pussy dem nah do ah thing
+
+Aye
+Indestructible a we
+Yah guh hurt yuhself an waste yuh time
+Ah try get out the G
+Me success come like mother nature
+Dem caah stop what is to be
+And that is for me go out as the best inna history
+Everything you see a HD
+The whip to the jewelry
+Dem better recognize ah work we work
+We nuh get nuttn free
+Claim dem tuff, dem softer than the cushion inna the sitty
+But a good over evil we nuh sponge from people
+Ah hype bout car and Money
+Dem nuh have pocket change
+Gyal weh everybody fuk have dem a mad
+No nah do nuh mixy, lally, nuh drop
+Mash up dem dolly house cause dem nuh bad
+We nuh licky licky certain game we nuh play
+Man ah touch down long time so we stay
+We take it to dem anytime, Any way, any day
+And we nuh give people thing fi have over we
+Like say...
+
+Detta Depend pan nobody fi nuttn
+Cause we ah soldier
+And We have whole heap a gyal everywhere, all over
+Ready fi pop the pussy and flex up like Yoga
+She ah say she would do anything
+Nah fool nobody yasuh
+Cause we know say uno ah poser
+And all in ah uno mind uno feel uno ah Orge
+Run inna the zig shot a bite yu like Cobra
+Pussy dem nah do ah ting
+Vendetta nuh depend pan nobody fi nuttn
+Cause we ah soldier
+And We have whole heap a gyal everywhere, all over
+Ready fi pop the pussy and flex up like Yoga
+She ah say she would do anything
+Nah fool nobody yasuh
+Cause we know say uno ah poser
+And all in ah uno mind uno feel uno ah Orge
+Run inna the zig shot a bite yu like Cobra
+Pussy dem nah do ah ting
+
+A di youngest lawd
+
+
 

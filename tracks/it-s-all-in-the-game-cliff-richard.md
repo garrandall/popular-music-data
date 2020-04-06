@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-in-the-game-cliff-richard
+lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/itsallinthegame.html
 name: It's All In The Game
 rankings:
 - end_date: '1963-12-13'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
 ---
+
+Many a tear has to fall
+But it's all, in the game
+All in the wonderful game
+That we know as love
+
+You have words with him
+And your future's looking dim
+But these things
+Your heart can rise above
+Once in a while he won't call
+But it's all, in the game
+Soon he'll be there at your side
+With a sweet bouquet
+And he'll kiss your lips
+And caress your waiting finger tips
+And your heart will fly away
+
+Once in a while he won't call
+But it's all in the game
+Soon he'll be there at your side
+With a sweet bouquet
+And then he'll kiss your lips
+And caress your waiting finger tips
+And your heart will fly away
+And your heart will fly fly away
+And your heart will fly away
+
+
 

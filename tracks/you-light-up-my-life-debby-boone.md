@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-light-up-my-life-debby-boone
+lyrics_url: https://www.azlyrics.com/lyrics/debbyboone/youlightupmylife.html
 name: You Light Up My Life
 rankings:
 - end_date: '1977-09-09'
@@ -107,4 +108,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
 ---
+
+So many nights
+I'd sit by my window
+Waiting for someone
+To sing me his song
+So many dreams
+I've kept deep inside me
+Alone in the dark
+But now you've come along
+
+And you
+Light up my life
+You give me hope
+To carry on
+You light up my days
+And fill my nights
+With song
+
+Rolling at sea
+Adrift on the waters
+Could it be finally
+I'm turning for home?
+Finally, a chance
+To say, "Hey, I love you"
+Never again
+To be all alone
+
+And you
+Light up my life
+You give me hope
+To carry on
+You light up my days
+And fill my nights
+With song
+
+And you
+Light up my life
+You give me hope
+To carry on
+You light up my days
+And fill my nights
+With song
+
+It can't be wrong
+When it feels so right
+'Cause you
+You light up my life
+
+
 

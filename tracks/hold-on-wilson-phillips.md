@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-wilson-phillips
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/holdon.html
 name: Hold On
 rankings:
 - end_date: '1990-03-23'
@@ -107,4 +108,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
 ---
+
+I know this pain
+Why do you lock yourself up in these chains?
+No one can change your life except for you
+Don't ever let anyone step all over you
+Just open your heart and your mind
+Is it really fair to feel this way inside?
+
+Some day somebody's gonna make you want to
+Turn around and say goodbye
+Until then baby are you going to let them
+Hold you down and make you cry
+Don't you know?
+Don't you know things can change
+Things'll go your way
+If you hold on for one more day
+Can you hold on for one more day
+Things'll go your way
+Hold on for one more day
+
+You could sustain
+Or are you comfortable with the pain?
+You've got no one to blame for your unhappiness
+You got yourself into your own mess
+Lettin' your worries pass you by
+Don't you think it's worth your time
+To change your mind?
+
+Some day somebody's gonna make you want to
+Turn around and say goodbye
+Until then baby are you going to let them
+Hold you down and make you cry
+Don't you know?
+Don't you know things can change
+Things'll go your way
+If you hold on for one more day
+Can you hold on for one more day
+Things'll go your way
+Hold on for one more day
+
+I know that there is pain
+But you hold on for one more day and
+Break free from the chains
+Yeah I know that there is pain
+But you hold on for one more day and you
+Break free, break from the chains
+
+Some day somebody's gonna make you want to
+Turn around and say goodbye
+Until then baby are you going to let them
+Hold you down and make you cry
+Don't you know?
+Don't you know things can change
+Things'll go your way
+If you hold on for one more day yeah
+If you hold on
+
+Don't you know things can change
+Things'll go your way
+If you hold on for one more day,
+If you hold on
+Can you hold on
+Hold on baby
+Won't you tell me now
+Hold on for one more day 'Cause
+It's gonna go your way
+
+Don't you know things can change
+Things'll go your way
+If you hold on for one more day
+Can't you change it this time
+
+Make up your mind
+Hold on
+Hold on
+Baby hold on
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-on-my-way-rusted-root
+lyrics_url: https://www.azlyrics.com/lyrics/newtonfaulkner/sendmeonmyway.html
 name: Send Me On My Way
 rankings:
 - end_date: '1995-09-08'
@@ -35,4 +36,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
 ---
+
+I would like to reach out my hand
+I may see you, I may tell you to run
+You know what they say about the young
+Well pick me up with golden hand
+I may see you, I may tell you to run
+You know what they say about the young
+Well, I would like to hold my little hand
+And we will run, we will, we will crawl, we will
+I would like to hold my little hand
+And we will run, we will, we will crawl
+
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+
+I would like to reach out my hand
+I may see you, I may tell you to run
+You know what they say about the young
+Now pick me up with golden hand
+I may see you, I may tell you to run
+You know what they say about the young
+Well, I would like to hold my little hand
+And we will run, we will, we will crawl, we will
+I would like to hold my little hand
+And we will run, we will, we will crawl
+
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+Send me on my way
+
+I would like to reach out my hand
+I may see you, I may tell you to run
+You know what they say about the young
+
+
 

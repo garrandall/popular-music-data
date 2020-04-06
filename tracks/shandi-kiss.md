@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shandi-kiss
+lyrics_url: https://www.azlyrics.com/lyrics/kiss/shandi.html
 name: Shandi
 rankings:
 - end_date: '1980-06-27'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
 ---
+
+I just can't pretend no more, I keep runnin' out of lies
+Lovin' you is killin' me inside
+Everytime I find the words to end it, something in your eyes won't let it
+
+Shandi, tonight must last us forever, forever we say goodnight and go home
+But you know me very well, and I know you, you can't tell me goodnight
+(say goodnight)
+
+We been holding on so tight, we're afraid to let it go
+Shake it loose, we both could use the ride
+Here's another mess I got myself in, and when you touch me you ain't helpin'
+
+Shandi, tonight must last us forever, forever we say goodnight and go home
+But you know me very well, and I know you, you can't tell me goodnight
+(say goodnight)
+Say goodnight when we should say goodbye (say goodbye)
+
+(Shandi, Shandi) Tonight must last us forever and ever
+Forever we say goodnight and go home
+Shandi, Shandi, tonight must last us forever
+
+
 

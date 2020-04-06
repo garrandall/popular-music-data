@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trampoline-shaed
+lyrics_url: https://www.azlyrics.com/lyrics/shaed/trampoline.html
 name: Trampoline
 rankings:
 - end_date: '2019-06-21'
@@ -163,4 +164,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
 ---
+
+I've been having dreams
+Jumping on a trampoline
+Flipping in the air
+I never land just float there
+As I'm looking up
+Suddenly the sky erupts
+Flames alight the trees
+Spread to falling leaves
+Now they're right upon me
+
+Wait if I'm on fire
+How am I so deep in love?
+When I dream of dying
+I never feel so loved
+
+I've been having dreams
+Splashing in a summer stream
+Trip and I fall in
+I wanted it to happen
+My body turns to ice
+Crushing weight of paradise
+Solid block of gold
+Lying in the cold
+I feel right at home
+
+Wait if I'm on fire
+How am I so deep in love?
+When I dream of dying
+I never feel so loved
+
+Wait if I'm on fire
+How am I so deep in love?
+When I dream of dying
+I never feel so loved
+
+I never feel so loved
+
+La la la la la
+La la la la la la la
+La la la la la
+La la la la la la
+
+Wait if I'm on fire
+How am I so deep in love?
+When I dream of dying
+I never feel so loved
+
+Wait if I'm on fire
+How am I so deep in love?
+When I dream of dying
+I never feel so loved
+
+
 

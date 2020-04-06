@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: friends-with-you-john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/friendswithyou.html
 name: Friends With You
 rankings:
 - end_date: '1971-11-12'
@@ -51,4 +52,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
 ---
+
+What a friend we have in time. Gives us children, makes us wine.
+Tells us what to take or leave behind.
+And the gifts of growing old, all the stories to be told
+of the feelings more precious than gold.
+
+Friends I will remember you, think of you, pray for you.
+And when another day is through, I'll still be friends with you.
+
+Baby's days are never long. Mother's laugh is baby's song.
+Gives us all the hope to carry on.
+
+Friends I will remember you, think of you, pray for you.
+And when another day is through, I'll still be friends with you.
+Friends I will remember you, think of you, pray for you.
+And when another day is through, I'll still be friends with you.
+My friends, I will remember you, think of you, pray for you.
+And when another day is through, I'll still be friends with you.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: way-out-here-josh-thompson
+lyrics_url: https://www.azlyrics.com/lyrics/joshthompson/wayouthere.html
 name: Way Out Here
 rankings:
 - end_date: '2010-09-17'
@@ -43,4 +44,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
 ---
+
+Our houses are protected by the good Lord and a gun
+And you might meet 'em both if you show up here not welcome son
+Our necks are burnt, our roads are dirt and our trucks ain't clean
+The dogs run lose, we smoke, we chew and fry everything
+Out here, way out here
+
+
+We won't take a dime if we ain't earned it
+When it comes to weight brother we pull our own
+If it's our backwoods way of livin' you're concerned with
+You can leave us alone
+We're about John Wayne, Johnny Cash and John Deere
+Way out here
+
+We got a fightin' side a mile wide but we pray for peace
+'Cause it's mostly us that end up servin' overseas
+If it was up to me I'd love to see this country run
+Like it used to be, oughta be, just like it's done
+Out here, way out here
+
+
+We won't take a dime if we ain't earned it
+When it comes to weight brother we pull our own
+If it's our backwoods way of livin' you're concerned with
+You can leave us alone
+We're about John Wayne, Johnny Cash and John Deere
+Way out here
+
+We won't take a dime if we ain't earned it
+When it comes to weight brother we pull our own
+If it's our backwoods way of livin' you're concerned with
+You can leave us alone
+We're about John Wayne, Johnny Cash and John Deere
+Way out here, way out here
+
+Our houses are protected by the good Lord and a gun
+And you might meet 'em both if you show up here not welcome son
+
+
 

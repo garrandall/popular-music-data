@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: softly-as-i-leave-you-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/softlyasileaveyou.html
 name: Softly As I Leave You
 rankings:
 - end_date: '1964-09-11'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
 ---
+
+Softly, I will leave you softly
+For my heart would break if you should wake and see me go
+So I leave you softly, long before you miss me
+Long before your arms can beg me stay
+For one more hour or one more day
+After all the years, I can't bear the tears to fall
+So, softly as I leave you there
+
+(Softly, long before you kiss me)
+(Long before your arms can beg me stay)
+(For one more hour) or one more day
+After all the years, I can't bear the tears to fall
+So, softly as I leave you there
+As I leave you there
+As I leave you there
+
+
 

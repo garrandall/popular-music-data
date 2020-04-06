@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-this-side-of-goodbye-the-righteous-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/onthissideofgoodbye.html
 name: On This Side Of Goodbye
 rankings:
 - end_date: '1966-11-04'
@@ -31,4 +32,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
+
+I've had my taste of independence
+Since the day I set you free
+Now I don't bare the least resemblance
+To the man I used to be
+
+'Cause baby, things look much different now
+On this side of goodbye
+Can't you find it in your heart, somehow
+To give us just one more try?
+
+I thought I knew just what I wanted
+When I left you standing there
+But now each night my soul is haunted
+By the dreams we used to share
+
+And baby, things look much different now
+On this side of goodbye
+Can't you find it in your heart, somehow
+To give our love just one more try?
+
+I've got to find a way to make you hear me
+Gotta reach you somehow
+I need you to forgive me
+
+For my mistake I've already paid
+Too much of my soul
+
+Baby, don't make me
+Don't make me beg
+
+Baby, things look much different now
+On this side of goodbye
+Can't you find it in your heart, somehow
+To give our love just one more try?
+
+Now baby, things look so much different now
+On this side of goodbye
+Things look so much different now
+Oh baby
+
+
 

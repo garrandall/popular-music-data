@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-on-your-feet-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/getonyourfeet.html
 name: Get On Your Feet
 rankings:
 - end_date: '1989-10-06'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
 ---
+
+You say I know it's a waste of time
+There's no use trying
+So scared that life's gonna pass you by
+Your spirit dying
+Not long ago
+I could feel your strenght and your devotion
+What was so clear is now overcast
+With mixed emotions
+Deep in your heart is the answer
+Find it, I know it will pull you through
+
+Get on your feet
+Get up and make it happen
+Get on your feet
+Stand up and take some action
+Get on your feet
+Don't stop before it's over
+Get on your feet
+The weight is off your shoulder
+
+I think it's true that we've all been through
+Some nasty weather
+Let's understand that we're here
+To handle things together
+You gotta keep looking onto tomorrow
+There's so much in life
+That's meant for you
+
+Get on your feet
+Get up and make it happen
+Get on your feet
+Stand up and take some action
+Get on your feet
+Don't stop before it's over
+Get on your feet
+The weight is off your shoulder
+
+
 

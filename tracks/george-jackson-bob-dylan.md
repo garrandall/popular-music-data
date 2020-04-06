@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: george-jackson-bob-dylan
+lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/georgejackson.html
 name: George Jackson
 rankings:
 - end_date: '1971-12-10'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+
+I woke up this mornin'
+There were tears in my bed
+They killed a man I really loved
+Shot him through the head
+Lord, Lord
+They cut George Jackson down
+Lord, Lord
+They laid him in the ground
+
+Sent him off to prison
+For a seventy-dollar robbery
+Closed the door behind him
+And they threw away the key
+Lord, Lord
+They cut George Jackson down
+Lord, Lord
+They laid him in the ground
+
+He wouldn't take shit from no one
+He wouldn't bow down or kneel
+Authorities, they hated him
+Because he was just too real
+Lord, Lord
+They cut George Jackson down
+Lord, Lord
+They laid him in the ground
+
+Prison guards, they cursed him
+As they watched him from above
+But they were frightened of his power
+They were scared of his love
+Lord, Lord
+So they cut George Jackson down
+Lord, Lord
+They laid him in the ground
+
+Sometimes I think this whole world
+Is one big prison yard
+Some of us are prisoners
+The rest of us are guards
+Lord, Lord
+They cut George Jackson down
+Lord, Lord
+They laid him in the ground
+
+
 

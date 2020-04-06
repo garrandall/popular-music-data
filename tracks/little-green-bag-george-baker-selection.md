@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-green-bag-george-baker-selection
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/littlegreenbag.html
 name: Little Green Bag
 rankings:
 - end_date: '1970-03-27'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
 ---
+
+Lookin' back on the track for a little green bag,
+Got to find just the kind or I'm losin' my mind
+
+Out of sight in the night out of sight in the day,
+Lookin' back on the track gonna do it my way.
+
+Out of sight in the night out of sight in the day,
+Lookin' back on the track gonna do it my way.
+
+Lookin' back
+
+Lookin' for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin' upstairs, lookin' behind!
+
+Lookin' for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin' upstairs, lookin' behind, yeah!
+
+Lookin' back on the track for a little green bag,
+Got to find just the kind or I'm losin' my mind
+
+Out of sight in the night out of sight in the day,
+Lookin' back on the track gonna do it my way.
+
+Lookin' back on the track for a little little green bag,
+Got to find just the kind or I'm losin' my mind,
+
+Alright.
+
+Lookin' for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin' upstairs, lookin' behind.
+
+Lookin' for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin' upstairs, lookin' behind.
+
+Pa pa pa pa pa pa....
+
+
 

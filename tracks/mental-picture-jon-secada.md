@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mental-picture-jon-secada
+lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/mentalpicture.html
 name: Mental Picture
 rankings:
 - end_date: '1994-12-02'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
 ---
+
+I've been avoiding things I'm missing
+Then you came into my life a brand new flower, baby
+A reminder of what happiness is like
+On the other side
+What can't I feel?
+(I'm saying my blind side)
+
+
+And if a mental picture 's all I've got, to go on
+For a while or more
+Girl you know I'll always think of you, think of you
+Yes if a mental picture's all I've got, to go on, I know
+You're a picture to remember.
+
+Time was of the essence
+And as usual the day turns into minutes
+Sharing love and tenderness
+That's the nerve you struck in me that sent a signal
+To the other side
+Girl I don't know
+I'm saying my blind side.
+
+
+And if a mental picture 's all I've got, to go on
+For a while or more
+Girl you know I'll always think of you, think of you
+Yes if a mental picture's all I've got, to go on, I know
+You're a picture to remember.
+
+Take me to the other side
+Why can't I feel?
+Out of my blind side.
+
+
+And oh if a mental picture's all I've got
+All I've got to go on
+For a while or more
+Girl you know I'll always think of you, think of you
+Yes if a mental picture's all I've got, to go on, I know
+You're a picture to remember, remember.
+
+
 

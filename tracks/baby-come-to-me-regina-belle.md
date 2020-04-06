@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-come-to-me-regina-belle
+lyrics_url: https://www.azlyrics.com/lyrics/reginabelle/babycometome.html
 name: Baby Come To Me
 rankings:
 - end_date: '1989-10-20'
@@ -43,4 +44,145 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
 ---
+
+Silver moon
+Shining on my bed
+Beside my pillow
+Light the pathway
+To bring that man
+To me
+
+Something tells me
+My words
+Are goin' straight
+To his heart
+And ooh
+Somethin' tells me
+You will be all mine
+
+Baby, come to me
+'Cause I love you
+Thinkin' of you, oh
+Baby, come to me
+Gotta have you
+You got it goin'
+You turn me on
+Baby, come to me
+
+Know a secret
+How to make you want me
+How to make you love me
+Whoa
+Sure
+As there's a moon above
+It's a friend of mine
+It still makes you burn
+
+Said, ooh, ooh
+Something tells me
+The fires
+Goin' right up
+Your spine
+Whoa, ooh
+Somethin' tells me
+You will be all mine
+
+Baby, come to me
+'Cause I love you
+Thinkin' of you, oh
+Baby, come to me
+Gotta have you
+You got it goin'
+You're turnin' me on
+
+Baby, come to me
+Said I love you
+Thinkin' of you
+Oh, whoa
+Baby, come to me
+Gotta have you, yeah
+Got it goin'
+You're turnin' me on
+
+Baby, come to me
+Whoa, yeah
+
+Come on, baby
+You know what I want
+Listen
+Come on closer
+Go 'head
+
+Oh, oh
+Something's
+Tellin' me, yeah
+The fire's
+Goin' right up
+Your spine
+And ooh, ooh
+Something's tells me
+Yeah
+You'll be all mine
+
+Baby, come to me
+'Cause I love you
+Thinkin' of you
+Oh, oh, yeah
+Baby, come to me
+Gotta have you
+You got it goin'
+You're turnin' me on
+
+Baby, come to me
+Sweet baby
+I love you
+(Sweet baby)
+Oh, baby, I need you
+(Said I need you)
+Sweet baby
+Come to me now
+(Come on home to me, baby)
+
+Baby, come to me
+Sweet baby, I love you
+(There's a silver moon)
+Oh, baby, I need you
+(Shining over you)
+Sweet baby
+Come to me now
+(Me and you, oh)
+
+Baby, come to me
+Sweet baby, I love you
+(Oh)
+Oh, baby, I need you
+Sweet baby
+Come to me now
+(Baby, why don't you
+come on home to me)
+
+Baby, come to me
+Sweet baby, I love you
+(You got it goin' on)
+Oh, baby, I need you
+(Oh, oh, oh)
+Sweet baby
+Come to me now
+(Baby, please
+come on home to me)
+
+Baby, come to me
+(Oh)
+Sweet baby, I love you
+Oh, baby, I need you
+Sweet baby
+Come to me now
+(Oh, baby, come to me)
+
+Baby, come to me
+(Oh)
+Sweet baby
+I love you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-we-were-a-movie-hannah-montana
+lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/ifwewereamovie.html
 name: If We Were A Movie
 rankings:
 - end_date: '2006-11-17'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
 ---
+
+Uh oh
+There you go again talking cinematic
+Yeah you!
+You're charming, got everybody star struck.
+I know
+How you always seem to go
+For the obvious instead of me
+But get a ticket and you'll see
+
+
+If we were a movie
+You'd be the right guy
+And I'd be the best friend
+You'd fall in love with
+In the end we'd be laughing
+Watching the sunset
+Fade to black
+Show the names
+Play that happy song
+
+(Yeah)
+Yeah, yeah
+When you call me
+I can hear it in your voice
+Oh sure!
+Wanna see me
+And tell me all about her
+La la
+I'll be acting through my tears
+I guess you'll never know
+That I should win
+An Oscar for this scene I'm in
+
+
+
+Wish I could tell you there's a twist
+Some kind of hero in disguise
+And we're together
+It's for real
+Now playing
+Wish I could tell you there's a kiss
+Like something more than in my mind
+I see it
+Could be amazing
+
+
+
+
 

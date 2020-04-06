@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: taking-you-home-don-henley
+lyrics_url: https://www.azlyrics.com/lyrics/donhenley/takingyouhome.html
 name: Taking You Home
 rankings:
 - end_date: '2000-06-30'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
 ---
+
+I had a good life
+Before you came
+I had my friends and my freedom
+I had my name
+Still there was sorrow and emptiness
+'Til you made me glad
+Oh, in this love I found strength I never knew I had
+
+And this love
+Is like nothing I have ever known
+Take my hand, love
+I'm taking you home
+I'm taking you home
+
+There were days, lonely days
+When the world wouldn't throw me a crumb
+But I kept on believing
+That this day would come
+
+And this love
+Is like nothing I have ever known
+Take my hand, love
+I'm taking you home
+I'm taking you-home
+Where we can be with the ones who really care
+Home, where we can grow together
+Keep you in my heart forever
+
+And this love
+Is like nothing I have ever known
+Take my hand, love
+I'm taking you home
+Taking you home
+
+And this love
+Is like nothing I have ever known
+Take my hand, love
+I'm taking you home
+I'm taking you home
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: edge-of-a-broken-heart-vixen
+lyrics_url: https://www.azlyrics.com/lyrics/vixen/edgeofabrokenheart.html
 name: Edge Of A Broken Heart
 rankings:
 - end_date: '1988-09-23'
@@ -91,4 +92,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
 ---
+
+I can't believe I could've been so blind, but love is strange
+I thought about it for a long, long time, but the truth remains
+I don't need another lonely night to dry my tears
+The answer's plain as black and white, and I can see the picture very clear...
+
+I've been livin' on the edge of a broken heart
+I don't wanna fall, I don't wanna crawl
+I've been livin' on the edge of a broken heart
+Don't you wonder why, I gotta say goodbye!
+
+It isn't like you never had the chance to change your tune
+Did you think that I'm a dime a dance, well the dance is through
+I've been doing things your way too long, well, baby that's over! (Baby that's over)
+It won't be easy, but I gotta be strong, and if I wanna cry I won't need your shoulder
+
+I've been livin' on the edge of a broken heart
+I don't wanna fall, I don't wanna crawl
+I've been livin' on the edge of a broken heart
+Don't you wonder why, I gotta say goodbye!
+
+I'll find someone else, who's nothing like you
+And two can play the game as well
+And you're gonna be sorry, baby, when it's over!
+
+I've been doing things your way too long, baby that's over! (Baby that's over)
+It won't be easy, but I got to be strong, and if I wanna cry I won't need your shoulder
+
+I've been livin' on the edge of a broken heart
+I don't wanna fall, I don't wanna crawl
+I've been livin' on the edge of a broken heart
+Don't you wonder why, I gotta say goodbye!
+I've been living on the edge of a broken heart
+I've been living on the edge of a broken heart
+Don't you wonder why, I gotta say goodbye!
+I've been living on the edge of a broken heart
+
+
 

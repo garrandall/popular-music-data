@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-and-my-arrow-nilsson
+lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/meandmyarrow.html
 name: Me And My Arrow
 rankings:
 - end_date: '1971-03-26'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+
+Me and my Arrow
+straighter than narrow
+where ever we go
+everyone knows
+it's me and my Arrow
+
+Me and my Arrow
+taking the high road
+where ever we go
+everyone knows
+it's me and my Arrow
+
+And in the morning when I wake up
+she may be gone
+I don't know
+and if we make up just to break up
+I'll carry on
+oh yes I will
+
+Me and my Arrow
+straighter than narrow
+where ever we go
+everyone knows
+it's me and my Arrow
+
+Me and my Arrow
+Me and my Arrow
+Me and my Arrow
+Me and my Arrow
+Me and my Arrow
+
+Me and my Arrow
+straighter than narrow
+where ever we go
+everyone knows
+it's me and my Arrow
+
+
 

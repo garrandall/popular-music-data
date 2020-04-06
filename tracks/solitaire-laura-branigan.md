@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: solitaire-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/solitaire.html
 name: Solitaire
 rankings:
 - end_date: '1983-03-25'
@@ -75,4 +76,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
 ---
+
+I still remember how much I used to need you
+Tried so hard to please you, but you didn't need me
+You knew I loved you, knew I always would be there
+You just did what you wanted, you didn't care
+All the cards were held by you
+There was nothin' I could do
+All those nights I sat alone, starin' at the telephone
+Wonderin' were you ever comin' home
+
+Solitaire, it got so lonely
+Solitaire, no one to hold me
+Where were you when I played solitaire?
+
+It took some time but I stopped thinkin' about you
+Started livin' without you, now look who's back here
+You've had a change of heart, well, mine just couldn't wait, no no
+You found out you loved me just a little too late
+
+Once the cards were held by you
+Now there's nothin' you can do
+All those nights you sit alone, starin' at the telephone
+Wonderin' if I'm ever comin' home
+
+Solitaire, see what it's like now
+Solitaire, to cry all night now
+Solitaire, see how it feels to bear
+
+Solitaire, it gets so lonely
+Solitaire, you wanna hold me
+Don't wait up, 'cos babe, I won't be there
+Solitaire, solitaire, solitaire
+
+Solitaire, see what it's like now
+Solitaire, to cry all night now
+Solitaire, see how it feels to bear
+
+Solitaire, it gets so lonely
+Solitaire, you wanna hold me
+Don't wait up, 'cos babe, I won't be there
+Solitaire (solitaire, solitaire)
+
+
 

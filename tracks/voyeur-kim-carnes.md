@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: voyeur-kim-carnes
+lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/voyeur.html
 name: Voyeur
 rankings:
 - end_date: '1982-08-27'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+
+When voices from the thin walls
+Speak of aberrant behavior
+And the video (videos)
+Her only savior
+
+She turns it on when they're all gone
+Then she turns an slips her high heels on
+Shadows fill the room
+And she starts movin'
+
+Voyeur, voyeurs are ya' hot tonite
+Dance, dance, dance
+Till it makes ya' feel good
+Voyeur, voyeur, who ya' got tonight?
+Where love is still alive
+It's just locked up inside
+
+Lingerie and loveliness
+Still lookin' for a strange and sweet caress
+Her love life's hot
+But her life's a mess
+Says she's got no minor vices
+And she makes no excuses
+And she concedes
+That she's the one she pleases
+
+Voyeur, voyeur are ya' hot tonight
+Dance, dance, dance
+Till it makes you feel good
+Voyeur, voyeur who ya' got tonight?
+Where love is still alive
+It's just locked up inside
+
+
 

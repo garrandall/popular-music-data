@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-red-rooster-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/littleredrooster.html
 name: Little Red Rooster
 rankings:
 - end_date: '1963-11-01'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
 ---
+
+I'm a little red rooster,
+Too lazy to crow for day
+I'm a little red rooster,
+Too lazy to crow for day
+Keep everything in the barnyard,
+Upset in every way
+
+Dogs begin to bark now,
+And the hounds begin to howl
+Dogs begin to bark now,
+And the hounds begin to howl
+Watch out stray cat,
+The little red rooster's on the prowl
+
+If you see the little red rooster
+Won't you please drive him home
+If you see the little red rooster
+Won't you please drive him home
+Been no peace in the barnyard
+Since that little red rooster's been gone
+
+I'm a little red rooster,
+Too lazy to crow for day
+I'm a little red rooster,
+Too lazy to crow for day
+Keep everything in the barnyard,
+Upset in every way
+
+
 

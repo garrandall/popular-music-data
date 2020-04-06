@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thinking-out-loud-ed-sheeran
+lyrics_url: https://www.azlyrics.com/lyrics/samtsui/thinkingoutloudimnottheonlyone.html
 name: Thinking Out Loud
 rankings:
 - end_date: '2014-10-31'
@@ -239,4 +240,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
 ---
+
+When my legs don't work like they used to before
+And I can't sweep you off of your feet
+Will your mouth still remember the taste of my love?
+Will your eyes still smile from your cheeks?
+
+And, darling, I will be loving you 'til we're 70
+(You and me, we made a vow
+For better or for worse)
+And, baby, my heart could still fall as hard at 23
+(I can't believe you let me down
+But the proof is in the way it hurts)
+And I'm thinking 'bout how people fall in love in mysterious ways
+(For months on end I've had my doubts)
+Maybe just the touch of a hand
+(Denying every tear)                                           
+Me-I fall in love with you 
+(Every single day)
+(And I just wanna tell you I am)
+So, baby, now
+
+(You say I'm crazy)
+Take me into your loving arms
+(Cause you don't think I know what you've done)
+Kiss me under the light of a thousand stars
+(But when you call me baby)
+Place your head on my beating heart
+(I know I'm not the only one)
+I'm thinking out loud
+Maybe,
+(We found love right where we are)
+
+When my hair's all but gone and my memory fades
+(You've been so unavailable)
+And the crowds don't remember my name
+(Now sadly I know why)
+When my hands don't play the strings the same way
+(Your heart is unobtainable)
+I know you will still love me the same
+(I'm thinking 'bout how people fall in love in mysterious ways)
+Cause your soul could never grow old, it's evergreen
+(Maybe it's all part of a plan)
+(Baby I'll just keep on making the same mistakes)
+(Hoping that you'll understand)
+But, baby, now
+
+(You say I'm crazy)
+Take me into your loving arms
+(Cause you don't think I know what you've done)
+Kiss me under the light of a thousand stars
+(But when you call me baby)
+Place your head on my beating heart
+(I know I'm not the only one)
+I'm thinking out loud
+Maybe,
+(We found love right where we are)
+
+I have loved you for many years
+(Maybe I am just not enough)
+Ooohooo
+(You've made me realize my deepest fear)
+(By lying) Oh
+(And tearing) Oh (Us up)
+So, Baby, now
+
+(You say I'm crazy)
+Take me into your loving arms
+(Cause you don't think I know what you've done)
+Oh, Kiss me under the light of a thousand stars
+(But when you call me baby)
+Place your head on my beating heart
+(I know I'm not the only one)
+I'm thinking out loud
+(And I know, and I know, and I know, and I know, and I know ohh)
+
+(I know I'm not the only one)
+We found love right where we are
+
+
 

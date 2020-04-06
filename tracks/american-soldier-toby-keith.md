@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-soldier-toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/americansoldier.html
 name: American Soldier
 rankings:
 - end_date: '2004-01-02'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
 ---
+
+I'm just trying to be a father
+Raise a daughter and a son
+Be a lover to their mother
+Everything to everyone
+
+Up and at 'em bright and early
+I'm all business in my suit
+Yeah, I'm dressed up for success
+From my head down to my boots
+
+I don't do it for the money
+There's bills that I can't pay
+I don't do it for the glory
+I just do it anyway
+
+Providing for our future's my responsibility
+Yeah, I'm real good under pressure, being all that I can be
+
+I can't call in sick on Mondays
+When the weekend's been too strong
+I just work straight through the holidays
+Sometimes all night long
+
+You can bet that I stand ready
+When the wolf growls at the door
+Hey, I'm solid, hey, I'm steady
+Hey, I'm true down to the core
+
+And I will always do my duty
+No matter what the price
+I've counted up the cost
+I know the sacrifice
+
+Oh, and I don't wanna die for you
+But if dying's asked of me
+I'll bear that cross with honor
+'Cause freedom don't come free
+
+I'm an American soldier, an American
+Beside my brothers and my sisters I will proudly take a stand
+When liberty's in jeopardy I will always do what's right
+I'm out here on the front lines
+Sleep in peace tonight
+American soldier, I'm an American soldier
+
+Yeah, an American Soldier, an American
+Beside my brothers and my sisters I will proudly take a stand
+When liberty's in jeopardy I will always do what's right
+I'm out here on the front lines
+So sleep in peace tonight
+American soldier, I'm an American, an American, an American soldier!
+
+
 

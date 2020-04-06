@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: satellite-hooters
+lyrics_url: https://www.azlyrics.com/lyrics/hooters/satellite.html
 name: Satellite
 rankings:
 - end_date: '1987-10-09'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+
+Hush little baby don't cry like that 
+God's gonna buy you a Cadillac 
+He's chosen you to do his will 
+You can spread the word in your coupe de ville 
+
+So jump in the river and learn to swim 
+God's gonna wash away all your sins 
+And if you still can't see the light 
+God's gonna buy you a satellite 
+
+Look to the heavens and see it shine 
+Heals the sick and leads the blind 
+Tune it in and hear it say 
+It's countin' down to judgment day 
+
+So jump in the river and learn to swim 
+God's gonna wash away all your sins 
+And if you still can't see the light 
+God's gonna buy you a satellite 
+
+Hey satellite man your time has come 
+Your word received by everyone 
+And should you fall, well that's ok 
+You love the ones that you betray 
+
+So jump in the river and learn to swim 
+God's gonna wash away all your sins 
+And when at last you see the light 
+God's gonna buy you a satellite
+
+
 

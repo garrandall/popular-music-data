@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-take-or-leave-your-loving-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/icantakeorleaveyourloving.html
 name: I Can Take Or Leave Your Loving
 rankings:
 - end_date: '1968-01-19'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
 ---
+
+I don't need her
+Don't need her kind of heartache and pain
+She's gonna have to see
+Things now can never be the same again
+
+I won't miss her
+Well, maybe I'll miss her once in a while
+She thinks I'm gonna die
+Now that she's said goodbye
+But she's so wrong
+Her eyes just smile
+
+Baby baby, don't you believe it?
+When it comes to your lovin', I can take it or leave it
+Baby baby, don't you believe it?
+When it comes to your lovin', I can take it or leave it
+I can take or leave your lovin'
+I can take or leave your lovin'
+
+I'm not sorry
+I still think we're better apart
+She says she's gonna see
+A day when there's gonna be a change of heart
+
+Baby baby, don't you believe it?
+When it comes to your lovin', I can take it or leave it
+Baby baby, don't you believe it?
+When it comes to your lovin', I can take it or leave it
+I can take or leave your lovin'
+I can take or leave your lovin'
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-you-goin--now-damn-yankees
+lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/whereyougoinnow.html
 name: Where You Goin' Now
 rankings:
 - end_date: '1992-10-16'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
 ---
+
+There's a face in the mirror
+And you close your eyes
+Much easier to turn away
+Than to take a look inside
+So you're thinking it's over
+Walking away
+Let your little world crash and burn
+Oh, what a price to pay
+
+Didn't anybody tell you
+It's not who's right or wrong?
+Hold the line
+Is this what's going on?
+
+Where you going now?
+When your world's turned inside out
+Isn't love what it's all about?
+Where you going now?
+When you get to the top of the hill
+Gonna be there yes I will
+
+There's a crack in the mirror
+There's a hole in the sun
+Full moon in the midnight sky
+And you feel like you wanna run
+So you blow out the candle
+And you turn off the light
+Then you stumble into darkness
+Do you believe that love is blind?
+
+Didn't anybody tell you
+It's never too late to try?
+Hold the line
+Before you say goodbye
+
+Where you going now?
+When your world's turned inside out
+Isn't love what it's all about?
+Where you going now?
+When you get to the top of the hill
+Gonna be there yes I will
+
+Now I'm not talking 'bout what's good for me
+And I'm not saying, how you ought to be
+But if there is a message shining on through to you
+Take a little piece of mind
+And let your love light shine
+
+Didn't anybody tell you
+It's never too late to try?
+Hold the line
+Before you say goodbye
+
+Where you going now?
+When your world's turned inside out
+Isn't love what it's all about?
+Where you going now?
+When you get to the top of the hill
+Gonna be there yes I will
+
+Where you going now?
+When your world's turned inside out
+Isn't love what it's all about?
+Where you going now?
+When you get to the top of the hill
+Gonna be there yes I will
+Gonna be there yes I will
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lips-of-an-angel-hinder
+lyrics_url: https://www.azlyrics.com/lyrics/hinder/lipsofanangel.html
 name: Lips Of An Angel
 rankings:
 - end_date: '2006-08-04'
@@ -139,4 +140,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
 ---
+
+Honey why you calling me so late?
+It's kinda hard to talk right now.
+Honey why are you crying? Is everything okay?
+I gotta whisper 'cause I can't be too loud
+
+Well, my girl's in the next room
+Sometimes I wish she was you
+I guess we never really moved on
+It's really good to hear your voice saying my name
+It sounds so sweet
+Coming from the lips of an angel
+Hearing those words it makes me weak
+
+And I never wanna say goodbye
+But girl you make it hard to be faithful
+With the lips of an angel
+
+It's funny that you're calling me tonight
+And, yes, I've dreamt of you too
+And does he know you're talking to me
+Will it start a fight
+No I don't think she has a clue
+
+Well my girl's in the next room
+Sometimes I wish she was you
+I guess we never really moved on
+It's really good to hear your voice saying my name
+It sounds so sweet
+Coming from the lips of an angel
+Hearing those words it makes me weak
+
+And I never wanna say goodbye
+But girl you make it hard to be faithful
+With the lips of an angel
+
+It's really good to hear your voice saying my name
+It sounds so sweet
+Coming from the lips of an angel
+Hearing those words it makes me weak
+
+And I never wanna say goodbye
+But girl you make it hard to be faithful
+With the lips of an angel
+
+And I never wanna say goodbye
+But girl you make it hard to be faithful
+With the lips of an angel
+
+Honey why you calling me so late?
+
+
 

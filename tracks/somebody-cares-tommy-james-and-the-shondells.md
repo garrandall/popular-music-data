@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-cares-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/somebodycares.html
 name: Somebody Cares
 rankings:
 - end_date: '1968-08-02'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+
+If you think I'd ever leave you,
+Girl, you're wrong, I'd never want to.
+And how could you know that my love is real?
+A-take this kiss, and you'll know how I feel.
+
+
+Somebody cares, and I'm gonna make you see.
+Somebody cares, so put your trust in me, baby.
+
+Now the time is going and the sky is cloudy.
+The birds are leaving and the cold is nearing.
+A-trust in me and you'll know the reason
+That our love will last through many a season.
+
+
+
+So give me a smile and you'll know that our love's true.
+Don't be in doubt, 'cause I'd never hurt you.
+A-trust in me and you'll know the reason
+That our love will last through many a season.
+
+
+
+
+
+
 

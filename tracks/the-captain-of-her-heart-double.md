@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-captain-of-her-heart-double
+lyrics_url: https://www.musixmatch.com/lyrics/Double/The-Captain-of-Her-Heart
 name: The Captain Of Her Heart
 rankings:
 - end_date: '1986-07-04'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
+It was way past midnight
+And she still couldn't fall asleep
+This night the dream was leavin'
+She tried so hard to keep
+And with the new day's dawning
+She felt it drift away
+Not only for a cruise
+Not only for a day
 
+Too long ago
+Too long apart
+She couldn't wait another day for
+The captain of her heart
+
+As the day came up she made a start
+She stopped waiting another day for
+The captain of her heart
+
+Too long ago
+Too long apart
+She couldn't wait another day for
+The captain of her heart
+
+Too long ago
+Too long apart
+She couldn't wait another day for
+The captain of her heart
+
+As the day came up
+She made a stop
+She stopped waiting another day for
+The captain of her heart
+
+Too long ago
+Too long apart
+She couldn't wait another day for
+The captain of her heart

@@ -5,6 +5,7 @@ features:
 - Lil Wayne
 genres: []
 key: down-jay-sean-lil-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/jaysean/downnosideremix.html
 name: Down
 rankings:
 - end_date: '2009-07-24'
@@ -168,4 +169,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
 ---
+
+What you really expect when I strut thru town,
+2 or 3 days I'll shut you down,
+Chillin' with the homie NO'SIDE,
+You call, he that prince he rep 2 up 2 down,
+Anyone I know get used to me,
+I'm far from the man that I used to be,
+And I don't ever really kick game,
+I know you find it impressive
+Whenever you introduced to me,
+Cause I'm a good dude, take pride in that,
+Need good lovin', I'm providin' that,
+Understand that I'm worldwide,
+You get it how you went it
+Wherever you be residin' at,
+Cause I do things from Spain back
+Out to Texas, from the M town to the UK (to the U),
+Where the girls all down
+(Down, down, down)
+
+
+So baby don't worry, you are my only,
+You won't be lonely, even if the sky is falling down,
+You'll be my only, no need to worry,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Even if the sky is falling down.
+
+
+Don't stop get it get it,
+Bout to jump all the way up in it,
+Love the way you drop low and bend it,
+Girl you killin' me wait a minute,
+Love the way that you shake it up,
+Too natural not to make it up,
+Won't be long for we wakin' up (that's right),
+I know you ain't used to havin'
+Real fellas like me around (real),
+I'm here to change your whole, life
+Girl so you don't deal with clowns (no mo' clowns),
+And treat like the superstar, that you are (uh huh),
+Cause I'm a superstar too and I
+Know exactly what I must do to make you feel...
+
+
+Dooooooowwn, dooooooowwn,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Even if the sky is falling down.
+
+
+Just let it be, come on and bring your body next to me,
+I'll take you away, hey, turn this
+Place into our private getaway,
+So leave it behind cause we have a night to get away,
+So come on and fly with me as we make our great escape,
+
+
+So baby don't worry, you are my only,
+You won't be lonely, even if the sky is falling down,
+You'll be my only, no need to worry,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Even if the sky is falling down.
+
+
+Even if the sky is falling down like
+She supposed to be,
+She gets down low for me,
+Down like her temperature, cause
+To me she zero degree,
+She's cold, overfreeze,
+I got that girl from overseas,
+Now she my Miss America,
+Now can I be her soldier, please,
+I'm fighting for this girl,
+On a battlefield of love,
+Don't it look like baby cupid sent
+His arrows from above,
+Don't you ever leave the side of me,
+Indefinitely, not probably,
+And honestly I'm down like economy,
+Yeahhhhhh
+
+
+Baby don't worry you are, my only,
+You won't be lonely, even if the sky is falling down,
+You'll be my only, no need to worry,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Baby are you down down down down down
+Dooooooowwn, dooooooowwn,
+Even if the sky is falling down.
+
+
 

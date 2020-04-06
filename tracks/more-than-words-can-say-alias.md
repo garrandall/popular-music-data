@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-words-can-say-alias
+lyrics_url: https://www.azlyrics.com/lyrics/sixpartinvention/morethanwordscansay.html
 name: More Than Words Can Say
 rankings:
 - end_date: '1990-09-14'
@@ -99,4 +100,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
 ---
+
+Here I am at six o'clock in the morning
+Still thinking about you
+It's still hard, at six o'clock in the morning
+To sleep without you
+
+And I know that it might
+Seem too late for love
+All I know
+
+I need you now
+More than words can say
+I need you now
+I've got to find a way
+I need you now
+Before I lose my mind
+I need you now
+
+Here I am, I'm looking out my window
+I'm dreaming about you
+Can't let you go, at six o'clcok in the morning
+I feel you beside me
+
+And I know that it might
+Seem too late for love
+For love Oh, Oh, Oh
+
+I need you now
+More than words can say
+I need you now
+I've got to find a way
+I need you now
+Before I lose my mind
+I need you now
+More than words can say
+I need you now
+Oh I got to find a way
+I need you now
+Before I lose my mind
+I need you now
+more than words can say
+I need you now
+before i loose my mind
+i need you now . oh oh oh
+
+
 

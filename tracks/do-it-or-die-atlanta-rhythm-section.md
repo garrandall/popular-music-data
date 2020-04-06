@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-or-die-atlanta-rhythm-section
+lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/doitordie.html
 name: Do It Or Die
 rankings:
 - end_date: '1979-06-01'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
 ---
+
+Don't let your troubles make you cry
+Don't waste a moment wonderin' why
+When everything goes wrong, you have to go on
+And do it or die
+
+Do it or die now, stand your ground
+Don't let your bad breaks go gettin' you down
+Even when times get rough
+And you've had enough
+You still gotta try
+That's right
+
+Do it no matter what the people say
+(It don't matter)
+They don't even know you
+(They don't know you at all)
+Die before you let them stand in your way
+(Don't you know that)
+You should know that
+
+Life is a gamble all along
+Winners are losers who keep rollin' on
+So go on and roll the dice
+You only live twice
+Do it or die
+
+Do it no matter what the people say
+(It don't matter)
+They don't even know you
+(They don't know you at all)
+Die before you let them stand in your way
+(Don't you know that)
+I know that
+(You know that)
+
+Life is a gamble all along
+Winners are losers who keep rollin' on
+Just go on and roll the dice
+You only live twice
+So do it or die
+
+You got nothin' to lose
+Just go on and roll the dice
+You only live twice
+Do it or die
+
+
 

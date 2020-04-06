@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-kind-of-wonderful-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/somekindofwonderful.html
 name: Some Kind Of Wonderful
 rankings:
 - end_date: '1961-03-26'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
 ---
+
+All you have to do is touch my hand
+To show me you understand
+And something happens to me
+That's some kind of wonderful
+
+Any time my little world is blue
+I just have to look at you
+And every thing seems to be
+Some kind of wonderful
+
+I know I can't express
+This feeling of tenderness
+There's so much I want to say
+But the right words just don't come my way
+
+I just know when I'm in your embrace
+This world is a happy place
+And something happens to me
+That's some kind of wonderful
+
+I know I can't express
+This feeling of tenderness
+There's so much I want to say
+But the right words just don't come my way
+...
+
+
 

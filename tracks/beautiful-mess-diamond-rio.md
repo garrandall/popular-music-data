@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-mess-diamond-rio
+lyrics_url: https://www.azlyrics.com/lyrics/diamondrio/beautifulmess.html
 name: Beautiful Mess
 rankings:
 - end_date: '2002-08-16'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
 ---
+
+Going out of my mind these days,
+Like I'm walkin' round in a haze.
+I can't think straight, I can't concentrate.
+And I need a shave.
+
+I go to work and I look tired.
+The boss man says: "Son, you're gonna get fired."
+This ain't your style, and from behind my coffee cup,
+I just smile.
+
+What a beautiful mess!
+What a beautiful mess I'm in.
+Spendin' all my time with you,
+There's nothin' else I'd rather do.
+What a sweet addiction that I'm caught up in.
+'Cos I can't get enough,
+Can't stop the hunger for your love.
+What a beautiful, what a beautiful mess I'm in. 
+Ahhh.
+
+This morning put salt in my coffee.
+I put my shoes on the wrong feet.
+I'm losin' my mind, I swear; It might be the death of me,
+But I don't care.
+
+What a beautiful mess!
+What a beautiful mess I'm in.
+Spendin' all my time with you,
+There's nothin' else I'd rather do.
+What a sweet addiction that I'm caught up in.
+'Cos I can't get enough,
+Can't stop the hunger for your love.
+What a beautiful, what a beautiful mess I'm in. 
+Ahhh.
+
+Is it your eyes? Is it your smile?
+All I know is that you're drivin' me wild.
+
+What a beautiful mess!
+What a beautiful mess I'm in.
+Spendin' all my time with you,
+There's nothin' else I'd rather do.
+What a sweet addiction that I'm caught up in.
+'Cos I can't get enough,
+Can't stop the hunger for your love.
+(What a beautiful.)
+What a beautiful.......
+
+What a beautiful mess!
+What a beautiful mess I'm in.
+Spendin' all my time with you,
+There's nothin' else I'd rather do.
+What a sweet addiction that I'm caught up in.
+'Cos I can't get enough,
+Can't stop the hunger for your love.
+What a beautiful, what a beautiful mess I'm in. 
+Ahhh.
+
+Ahhh.
+
+
 

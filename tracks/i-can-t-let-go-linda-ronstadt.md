@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-let-go-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/lacigarra.html
 name: I Can't Let Go
 rankings:
 - end_date: '1980-07-04'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+
+
+
+Ya no me cantes cigarra
+Que acabe tu sonsonete
+Que tu canto aqui en el alma
+Como un punal se me mete
+Sabiendo que cuando cantas
+Pregonado vas tu muerte
+
+Marinero marinero
+Dime si es verdad que sabas
+Porque distinguir no puedo
+Si en el fondo de los mares
+Hay otro color mas negro
+Que el color de mis pesares
+
+Un palomito al volar
+Que llevaba el pecho herido
+Ya casi para llorar
+Me dijo muy afligido
+Ya me canso de buscar
+Un amor correspondido
+
+Bajo la sombra de un arbol
+Y al compas de mi guitarra
+Canto alegre este huapango
+Porque la vida se acaba
+Y quiero morir cantando
+Como muere la cigarra
+
+
+
+Don't sing to me anymore, cicada
+Let your singsong end
+For your song, here in the soul
+Stabs me like a dagger
+Knowing that when you sing
+You are proclaiming that you are
+Going to your death
+
+Sailor, sailor
+Tell me if it is true that you know
+Because I cannot distinguish
+If in the depth of the seas
+There is another color blacker
+Than the color of my sorrows
+
+A little dove upon flying
+Bearing a wounded breast
+Was about to cry
+And told me very afflicted
+I'm tired of searching for
+A mutual love
+
+Under the shade of a tree
+And to the beat of my guitar
+I sing this "huapango" happily
+Because my life is ending
+And I want to die singing
+Like the cicada dies
+
+
 

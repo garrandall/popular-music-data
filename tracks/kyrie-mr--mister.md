@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kyrie-mr--mister
+lyrics_url: https://www.azlyrics.com/lyrics/mrmister/kyrie.html
 name: Kyrie
 rankings:
 - end_date: '1985-12-27'
@@ -87,4 +88,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
 ---
+
+KÃ½rie, elÃ©ison
+KÃ½rie, elÃ©ison
+KÃ½rie
+
+The wind blows hard against this mountainside
+Across the sea into my soul
+It reaches into where I cannot hide
+Setting my feet upon the road
+
+My heart is old, it holds my memories
+My body burns a gem-like flame
+Somewhere between the soul and soft machine
+Is where I find myself again
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow?
+KÃ½rie, elÃ©ison
+On a highway in the light
+
+When I was young, I thought of growing old
+Of what my life would mean to me
+Would I have followed down my chosen road
+Or only wished what I could be
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow?
+KÃ½rie, elÃ©ison
+On a highway in the light
+
+Whoa, oh, oh
+Whoa, oh, oh
+Whoa, oh, oh
+Whoa, oh, oh
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow?
+KÃ½rie, elÃ©ison
+On a highway in the light
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel (will you follow?)
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow? (will you follow)
+KÃ½rie, elÃ©ison
+On a highway in the light
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel (yeah)
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow? (will you follow?)
+KÃ½rie, elÃ©ison
+On a highway in the light
+
+KÃ½rie, elÃ©ison
+Down the road that I must travel (will you follow?)
+KÃ½rie, elÃ©ison
+Through the darkness of the night
+
+KÃ½rie, elÃ©ison
+Where I'm going, will you follow? (will you follow)
+
+
 

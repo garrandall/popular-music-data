@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-never-cry-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/poison/inevercry.html
 name: I Never Cry
 rankings:
 - end_date: '1976-07-09'
@@ -115,4 +116,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
 ---
+
+If there's a tear on my face
+It makes me shiver to the bone
+It shakes me, Babe
+It's just a heartache that got caught in my eye
+And you know I never cry, I never cry
+
+Sometimes I drink more than I need
+Until the TV's dead and gone
+I may be lonely
+But I'm never alone
+And the night may pass me by
+But I never cry
+
+Take away, take away my eyes
+Sometimes I'd rather be blind
+Break a heart, break a heart of stone
+Open it up but don't you leave it alone
+
+'Cuz that's all I got to give you
+Believe me Babe, it ain't been used
+My heart's a virgin, it ain't never been tried
+and you know I never cry
+and you know I never cry
+Well you know you know you know you know
+I never cry, I never cry
+
+Break a heart, Go ahead, break a heart of stone
+Open it up, but don't you leave it alone
+'Cuz that's all I got to give you
+Believe me Babe, it ain't been used
+My heart's a virgin it ain't never been tried
+And you know I never cry
+I never cry
+
+
 

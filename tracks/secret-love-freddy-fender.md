@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: secret-love-freddy-fender
+lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/secretlove.html
 name: Secret Love
 rankings:
 - end_date: '1975-10-24'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
 ---
+
+Once I had a secret love
+That lived within the heart of me
+All too soon my secret love
+Became impatient to be free
+
+So I told a friendly star
+The way that dreamers often do
+Just how wonderful you are
+And why I'm so in love with you
+
+Now I shout it from the highest hills
+Even told the golden daffodils
+At last my heart's an open door
+And my secret love is no secret anymore
+
+Ai amor mon me le quer morir
+Que non miras lo que pasa en mi
+Ven y da-me tu calor
+Que mi corazon se muere sin tu amor
+And my secret love is no secret anymore
+
+
 

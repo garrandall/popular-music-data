@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-a-kiss-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/karmin/justakiss.html
 name: Just A Kiss
 rankings:
 - end_date: '2011-05-27'
@@ -175,4 +176,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
 ---
+
+Lyin' here with you so close to me
+It's hard to fight these feelings when it feels so hard to breathe
+Caught up in this moment
+Caught up in your smile
+
+I've never opened up to anyone
+So hard to hold back when I'm holding you in my arms
+We don't need to rush this
+Let's just take it slow
+
+Just a kiss on your lips in the moonlight
+Just a touch of the fire burning so bright
+I don't want to mess this thing up
+I don't want to push too far
+Just a shot in the dark that you just might
+Be the one I've been waiting for my whole life
+Baby I'm alright, with just a kiss goodnight ohhho
+
+I know that if we give this a little time
+It'll only bring us closer to the love we wanna find
+It's never felt so real, no it's never felt so right
+
+Just a kiss on your lips in the moonlight
+Just a touch of the fire burning so bright
+I don't want to mess this thing up
+I don't want to push too far
+Just a shot in the dark that you just might
+Be the one I've been waiting for my whole life
+Baby I'm alright, with just a kiss goodnight
+
+Naw, now I don't wanna say goodnight
+We be dancing in the moonlight
+Dancing with the stars tonight
+Let me get this right and tell you everything I'm feeling like
+You the really sweet type, not the regular mike-n-ike
+Not the regular sugar high
+Nobody gonna be crushing tonight
+I'll be waiting standing by your window with the rose like
+Ya, a I'm romeo reverse bro
+Even if it's just the first date I'm on the ninth hole
+But who's counting I already found a soul mate
+Thinking we should celebrate, maybe even commemorate
+Maybe even set a date
+What am I sayin' pump the brakes
+Tell me what you wanna do, all I really want is a kiss or two
+
+Just a kiss on your lips in the moonlight
+Just a touch of the fire burning so bright
+I don't want to mess this thing up
+I don't want to push too far
+Just a shot in the dark that you just might
+Be the one I've been waiting for my whole life
+Baby I'm alright, with just a kiss goodnight
+Just a kiss goodnight
+Just a kiss goodnight
+
+
 

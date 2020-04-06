@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-dew-lulu
+lyrics_url: https://www.azlyrics.com/lyrics/lulu/morningdew.html
 name: Morning Dew
 rankings:
 - end_date: '1968-08-16'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
 ---
+
+Walk me out in the morning dew, my honey
+Walk me out in the morning dew today
+Can't walk you out in the morning dew, my honey
+Can't walk you out in the morning dew, at all
+
+Thought I heard a young man crying, oh baby
+Thought I heard a young man crying today
+You didn't hear no young man crying, baby
+You didn't hear no young man crying, at all
+
+Thought I heard a young man crying, oh baby
+Thought I heard a young man crying today
+You didn't hear no young man crying, baby
+You didn't hear no young man crying, at all
+
+Now there's no more morning dew
+Now there's no more morning dew
+What they were saying all these years was true
+Now there's no more morning dew
+
+Thought I heard a young man crying, baby
+Thought I heard a young man crying today
+You didn't hear no young man crying, baby
+You didn't hear no young man crying, at all
+
+Now there's no, no, no, no, no morning dew
+
+
 

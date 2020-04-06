@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: round-every-corner-petula-clark
+lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/roundeverycorner.html
 name: Round Every Corner
 rankings:
 - end_date: '1965-10-15'
@@ -39,4 +40,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
 ---
+
+Round every corner.
+Round every corner.
+Round every corner.
+Round every corner.
+Round every corner.
+Round every corner.
+Round every corner.
+Round every corner.
+
+Stop being sad now.
+Life ain't so bad now.
+Round every corner!
+(Round every corner!)
+While you're debating
+some things are waiting 
+round every corner!
+(Round every corner!)
+
+When Columbus sailed away to other shores,
+how could he imagine all that waited for him?
+Round every corner!
+(Round every corner.)
+Round every corner!
+(Round every corner!)
+Leave all the gloom days.
+Think about the new days.
+Round every corner!
+(Round every corner!)
+Everything is yours now,
+open all the doors now.
+Round every corner!
+(Round every corner!)
+
+Man will soon be standing on the moon above!
+Just imagine all the things that he'll discover!
+Round every corner!
+(Round every corner!)
+Round every corner!
+(Round every corner!)
+
+You've gottta stop a-sittin' there on the shelf!
+You've gotta start lookin' there for yourself!
+Yeah!
+Round every corner!
+(Round every corner!)
+Round every corner!
+(Round every corner!)
+What's the use in crying?
+Happiness is lying
+Round every corner!
+(Round every corner!)
+And if you want a true love
+look for a new love 
+round every corner!
+(Round every corner!)
+
+Just forget the worries that you leave behind!
+There are many things to do 
+and you can find them
+Round every corner!
+(Round every corner!)
+Round every corner!
+(Round every corner!)
+Round every corner!
+(Round every corner!)
+Round every corner!
+(Round every corner!) 
+
+
 

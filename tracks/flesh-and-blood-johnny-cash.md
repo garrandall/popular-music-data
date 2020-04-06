@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flesh-and-blood-johnny-cash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/fleshandblood.html
 name: Flesh And Blood
 rankings:
 - end_date: '1970-12-18'
@@ -35,4 +36,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
 ---
+
+Beside a Singin' Mountain Stream 
+Where the Willow grew
+
+Where the Silver Leaf of Maple
+Sparkled in the Mornin' Dew
+I braided Twigs of Willows
+Made a String of Buckeye Beads;
+But Flesh And Blood need Flesh And Blood
+And you're the one I need
+Flesh And Blood need Flesh And Blood
+And you're the one I need.
+
+I leaned against a Bark of Birch
+And I breathed the Honey Dew
+I saw a North-bound Flock of Geese
+Against a Sky of Baby Blue
+Beside the Lily Pads
+I carved a Whistle from a Reed;
+Mother Nature's quite a Lady
+But you're the one I need
+Flesh And Blood need Flesh And Blood
+And you're the one I need.
+
+A Cardinal sang just for me
+And I thanked him for the Song
+Then the Sun went slowly down the West
+And I had to move along
+These were some of the things
+
+On which my Mind and Spirit feed;
+But Flesh And Blood need Flesh And Blood
+And you're the one I need
+Flesh And Blood need Flesh And Blood
+And you're the one I need.
+
+
+
+So when this Day was ended
+I was still not satisfied
+For I knew ev'rything I touched
+Would wither and would die
+And Love is all that will remain
+And grow from all these Seed;
+
+
+
+Mother Nature's quite a Lady
+But you're the one I need
+Flesh And Blood need Flesh And Blood
+And you're the one I need.
+
+
 

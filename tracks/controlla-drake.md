@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: controlla-drake
+lyrics_url: https://www.azlyrics.com/lyrics/bryanj/controlladrakeremix.html
 name: Controlla
 rankings:
 - end_date: '2016-05-27'
@@ -111,4 +112,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
 ---
+
+
+My, have changed
+You buzzed the gate
+I thank God you came
+How many more days should I wait?
+How many more days should I wait?
+I made plans with you
+And I won't let em fall through
+
+
+I think I'd lie for you
+I think I'd die for you
+Jodeci... cry for you
+Do things when you want me to
+Like controlla, controlla
+Controlla, controlla
+Controlla, controlla
+
+
+And you like it when I'm aggressive
+Tell you to go slower, go faster
+Controlla, controlla
+Controlla, controlla
+
+
+And I'm never on a waste ting shorty
+I do it how you say you want it
+Them girls, they just wanna take my money
+They don't want me to give you nothing
+They don't want you to have nothing
+They don't wanna see me find your loving
+They don't wanna see me
+Smiling back when they pree
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-street-van-halen
+lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/dancinginthestreets.html
 name: Dancing In The Street
 rankings:
 - end_date: '1982-05-28'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
 ---
+
+Wow! 
+Ah yeah! 
+Calling out around the world,are you ready for a brand new beat. 
+Summer's here and the time is right,for dancing in the streets, 
+They're dancing in Chicago (They'll be dancing) 
+Down in New Oreleans (Dancing in the streets) 
+Up in New york city (Dancing in the streets) 
+All we need is music (sweet sweet) sweet music (sweet sweet music) 
+There'll be music everywhere. 
+There'll be swinging,swaying,records playing,dancing in the streets,Oh! 
+It doesnt matter what hat you wear,just as long as you are there, 
+So come on 
+Grab a guy,grab a girl,everywhere around the world. 
+There'll be dancing,dancing in the streets. 
+(Oh)Its just an invitation,across the nation,a chance for folks to meet. 
+There'll be laughing and singing,music swinging,dancing in the streets 
+All we need is music (sweet sweet) sweet music (sweet sweet music) 
+There'll be music everywhere. 
+There'll be swinging,swaying,records playing,dancing in the streets,Oh! 
+It doesnt matter what hat you wear,just as long as you are there, 
+So come on 
+Grab a guy,grab a girl,everywhere around the world. 
+Dancing,dancing in the streets, 
+Way down in LA,everyday,dancing in the streets (Dancing in the streets) 
+San Francisco way, (Dancing in the streets), they do it everyday now, 
+(Dancing in the streets)
+
+
 

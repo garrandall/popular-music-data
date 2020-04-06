@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: downtown-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/downtown.html
 name: Downtown
 rankings:
 - end_date: '2013-03-01'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
 ---
+
+Well, all the parties on the streets are talking, store front mannequins sleeping in lights.
+We used to smoke while we were jaywalking like it was your birthday every other saturday night.
+Knew The bands so we never payed our cover.
+Wrote our names on the bathroom tiles.
+We never dressed to impress all the others,
+They would let us in on our laid back kind of style.
+But boy you know it's been a while.
+
+I don't know why you don't take me down town like you got anywhere better to be.
+Talk it up and give me the go round, round like a good time tease.
+I'm only counting on your cancellation,
+When I should be counting on you at my door.
+Did you forget about how we went around,
+I don't know why you don't take me downtown anymore.
+Ohhhhhhhh anymore.
+
+I got some platforms sitting in the corner.
+They wanna stroll on a city sidewalk.
+I got a dress that'll show a little uh uh but you ain't gettin' uh uh if you don't come pick me up (damn),
+Show me off (wow),
+You might be tired, but I'm not!
+
+And I don't know why you don't take me down town like you got anywhere better to be.
+Talk it up and give me the go round, round like a good time tease.
+I'm only counting on your cancellation,
+When I should be counting on you at my door.
+Did you forget about how we went around,
+I don't know why you don't take me downtown anymore.
+
+I don't know why you don't take me downtown like you got anywhere better to be.
+Talk it up and give me the go round round like a good time tease.
+I'm only counting on your cancellation,
+When I should be countin on you at my door.
+Did you forget about how we went around,
+I don't know why you don't take me downtown anymore.
+Ohhh anymore.
+Yeaaaaah I don't know why you don't take me downtown,
+I don't know why you don't take me downtown anymore.
+I just don't get it
+
+
 

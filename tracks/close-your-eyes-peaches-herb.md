@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: close-your-eyes-peaches-herb
+lyrics_url: https://www.azlyrics.com/lyrics/peachesherb/closeyoureyes.html
 name: Close Your Eyes
 rankings:
 - end_date: '1967-03-31'
@@ -56,4 +57,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
 ---
+
+Close your eyes (close your eyes), take a deep breathe (ahhh!)
+Open your heart (open your heart), and whisper
+I love you, I love you,
+Tell me you love me, tell me you love me,
+You love me, You love me.
+
+Hold me tight, (hold me tight), don't say good-night (don't say good-night)
+We've got the time
+Everything's gonna be alright
+
+Just hold me darling, never let me go, and tell me
+You love me, you love me, you love me.
+
+Oh no no, (oh no no) even though (even though)
+This is not the way I want it to be
+But if you must pretend
+That's alright with me
+
+
+
+
 

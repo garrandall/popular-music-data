@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakeven-the-script
+lyrics_url: https://www.azlyrics.com/lyrics/script/breakeven.html
 name: Breakeven
 rankings:
 - end_date: '2009-12-25'
@@ -179,4 +180,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
 ---
+
+I'm still alive but I'm barely breathing
+Just praying to a god that I don't believe in
+'Cause I got time while she got freedom
+'Cause when a heart breaks, no, it don't break even
+
+Her best days will be some of my worst
+She finally met a man that's gonna put her first
+While I'm wide awake she's no trouble sleeping
+'Cause when a heart breaks no it don't break even, even, no
+
+What am I supposed to do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+I'm falling to pieces
+I'm falling to pieces
+
+They say bad things happen for a reason
+But no wise words gonna stop the bleeding
+'Cause she's moved on while I'm still grieving
+And when a heart breaks no it don't break even, even, no
+
+And what am I gonna do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+
+I'm falling to pieces
+I'm falling to pieces
+I'm falling to pieces
+(One still in love while the other one's leaving)
+I'm falling to pieces
+('Cause when a heart breaks, no, it don't break even)
+
+Oh, you got his heart and my heart and none of the pain
+You took your suitcase, I took the blame
+Now I'm tryna make sense of what little remains
+'Cause you left me with no love and no love to my name
+
+I'm still alive but I'm barely breathing
+Just praying to a god that I don't believe in
+'Cause I got time while she got freedom
+'Cause when a heart breaks, no, it don't break
+No, it don't break
+No, it don't break even, no
+
+What am I gonna do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+(Oh glad you're okay now)
+
+I'm falling to pieces
+I'm falling to pieces
+(Oh, I'm falling, falling)
+I'm falling to pieces
+(One still in love while the other one's leaving)
+I'm falling to pieces
+('Cause when a heart breaks, no, it don't break even)
+
+Oh, it don't break even, no
+Oh, it don't break even, no
+Oh, it don't break even, no
+
+
 

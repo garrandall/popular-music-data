@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seventeen-winger
+lyrics_url: https://www.azlyrics.com/lyrics/winger/seventeen.html
 name: Seventeen
 rankings:
 - end_date: '1989-03-03'
@@ -71,4 +72,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
+
+Yeah, I saw sparks fly 
+From the corner of my eye 
+And when I turned 
+Ooh, it was love at first sight 
+
+I said, please excuse me 
+I didn't catch your name 
+Oh, it'd be a shame 
+Not to see you again 
+
+And just when I thought she was comin' to my door 
+She whispered sweet and brought me to the floor
+She said
+
+I'm only seventeen (seventeen)
+But I'll show you love like you've never seen
+She's only seventeen 
+Daddy says she's too young, but she's old enough for me 
+
+Mmm, come to my place 
+We can talk it over 
+Oh, everything 
+going down in your head 
+
+She said take it easy 
+I need some time 
+Time to work it out 
+To make you mine 
+
+And just when I thought she was comin' to my door 
+She whispered sweet and brought me to the floor
+She said
+
+I'm only seventeen (seventeen)
+You ain't seen love, ain't seen nothing like me 
+She's only seventeen 
+Seventeen 
+
+Such a bad girl 
+Loves to work me overtime 
+Feels good, ha
+Dancing close to that borderline 
+
+She's a magic mountain 
+She's a leather glove 
+Oh, she's my soul 
+It must be love 
+
+I'm only seventeen (seventeen)
+Girl, she gives me love like I've never seen
+She's only seventeen (seventeen)
+Daddy says she's too young, but she's old enough for me (seventeen)
+She's everything I need (seventeen)
+Daddy says she's too young, but she's old enough, old enough for me
+Yeah, yeah, yeah
+
+
 

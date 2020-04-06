@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-jon-secada
+lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/angel.html
 name: Angel
 rankings:
 - end_date: '1993-02-05'
@@ -95,4 +96,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
 ---
+
+Yo, no veo el futuro
+Pero quiere tenerte aqui
+Conmigo, lo necesito asi
+No pienses, no pienses en manana
+Vamos a amarnos hoy
+Ahora, este momento vivir.
+
+Mi vida yo tratare de olvidarte
+Pero la luz de tus ojos
+Brilla, eres un angel
+Que alumbra mi corazon.
+
+Yo, no quise decirte
+Lo que no queria saber de mi
+Tenia miedo sentir
+Pero tu, tu me ensenaste 
+
+A enfrentar a la realidad
+A la verdad
+La realidad, la verdad.
+
+Mi vida yo tratare de olvidarte
+Pero la luz de tus ojos
+Brilla, eres un angel
+Que alumbra mi corazon.
+
+Mi angel
+
+
 

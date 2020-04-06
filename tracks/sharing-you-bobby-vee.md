@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sharing-you-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/sharingyou.html
 name: Sharing You
 rankings:
 - end_date: '1962-05-25'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
 ---
+
+Sharing you, I know I'm sharing you
+I'm not the only one who's in your heart
+When I'm with you, your love belongs to me
+But you have someone else when we're apart
+There are two of to kiss you
+Two of us to miss you
+And two of us to wish there were two of you
+And though it hurts me so to go on sharing you
+I know my helpless heart just can't be free
+But even though I must keep sharing you
+You know you'll never be sha-a-rin' me
+Oh, no, you'll never be shar-a-rin' me
+Ah, ah, you'll never be shar-a-rin' me...
+
+
 

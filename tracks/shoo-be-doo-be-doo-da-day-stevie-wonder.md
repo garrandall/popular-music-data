@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shoo-be-doo-be-doo-da-day-stevie-wonder
+lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/shoobedoobedoodaday.html
 name: Shoo-Be-Doo-Be-Doo-Da-Day
 rankings:
 - end_date: '1968-04-12'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
 ---
+
+Your precious sweetheart, she's so faithful, she's so true, oh yeah,
+Her dreams are tumblin', her world is crumblin' because of you, uhh uh.
+One day you'll hurt her just once too much,
+And when you finally lose your tender touch, hey, hey,
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Day
+Her feet may wander, her heart may stray, oh yeah,
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Dee.
+You gonna send your baby straight to me,
+
+I'm gonna give her all the lovin' within my heart, oh yeah,
+I'm gonna patch up every single little dream you tore apart, understand me?
+And when she tells you she's cried her last tear,
+Heaven knows I'm gonna be somewhere near, oh yeah,
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Day
+Her feet may wander, her heart may stray, baby,
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Dee.
+Love's gon' send your baby straight to me, yeah, hum, yeah,
+
+You'd better listen to me, yeah, yeah.
+Heartaches are callin' tears are fallin' because of you, hey, yeah,
+And when you're gone she'll know I'm the one to go to her rescue
+Baby you didn't know that thing.
+You're gonna leave her once too many times and when you come back
+That girl's gonna be mine, all mine, hey, hey.
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Day
+Her feet may wander, her heart may stray, yeah, yeah
+Shoo-Be-Doo-Be-Doo- Be-Doo-Da-Dee.
+Love's gon' send your baby straight to me, hey, hey.
+
+
 

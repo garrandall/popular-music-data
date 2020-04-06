@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-should-be-dancing-bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/youshouldbedancing.html
 name: You Should Be Dancing
 rankings:
 - end_date: '1976-07-09'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
 ---
+
+My baby moves at midnight
+Goes right on till the dawn
+My woman takes me higher
+My woman keeps me warm
+
+What you doin' on your back aah
+What you doin' on your back aah
+You should be dancing, yeah
+Dancing, yeah
+
+She's juicy and she's trouble
+She gets it to me good
+My woman gives me power
+Goes right down to my blood
+
+What you doin' on your back aah
+What you doin' on your back aah
+You should be dancing, yeah
+Dancing, yeah
+
+My baby moves at midnight
+Goes right on till the dawn
+My woman takes me higher
+My woman keeps me warm
+
+What you doin' on your back aah
+What you doin' on your back aah
+You should be dancing, yeah
+Dancing, yeah
+
+You should be dancing, yeah
+You should be dancing, yeah
+You should be dancing, yeah
+You should be dancing, yeah
+You should be dancing, yeah
+
+
 

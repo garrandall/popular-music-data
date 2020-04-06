@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alcohol-brad-paisley
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/alcohol.html
 name: Alcohol
 rankings:
 - end_date: '2005-07-08'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
 ---
+
+I can make anybody pretty
+I can make you believe any lie
+I can make you pick a fight 
+With somebody twice your size
+
+I been known to cause a few break ups
+I been known to cause a few births
+I can make you new friends 
+Or get you fired from Work
+
+
+And since the day I left Milwaukee 
+Lynchburg and Bordeaux France
+Been making the bars lots of big money
+And helping white people dance
+I got you in trouble in high school
+But college, now that was a ball
+You had some of the best times 
+You'll never remember with me
+Alcohol
+Alcohol
+
+I got blamed at your wedding reception
+For your best man's embarrassing speech
+And also for those
+Naked pictures of you at the beach
+
+I've influenced kings and world leaders
+I helped Hemmingway write like he did
+And I'll bet you a drink or two that I can make you
+Put that lampshade on your head
+
+
+'Cause since the day I left Milwaukee 
+Lynchburg and Bordeaux France
+Been making a fool out of folks just like you
+And helping white people dance
+I'm medicine and I am poison 
+I can help you up or make you fall
+You had some of the best times 
+You'll never remember with me
+Alcohol
+Alcohol
+
+
+
+
 

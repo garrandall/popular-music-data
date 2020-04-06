@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: galveston-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/galveston.html
 name: Galveston
 rankings:
 - end_date: '1969-03-07'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
 ---
+
+Galveston, oh Galveston, I still hear your sea winds blowin'
+I still see her dark eyes glowin'
+She was 21 when I left Galveston
+
+Galveston, oh Galveston, I still hear your sea waves crashing
+While I watch the cannons flashing
+I clean my gun and dream of Galveston
+
+I still see her standing by the water
+Standing there lookin' out to sea
+And is she waiting there for me?
+On the beach where we used to run
+
+Galveston, oh Galveston, I am so afraid of dying
+Before I dry the tears she's crying
+Before I watch your sea birds flying in the sun
+At Galveston, at Galveston
+
+
+
+
 

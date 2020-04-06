@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: gee-jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/gee.html
 name: Gee
 rankings:
 - end_date: '1960-11-20'
@@ -28,4 +29,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
+
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da, da-da-da-la
+Da
+
+Oh-oh-oh gee
+My oh-oh gee
+Where oh-oh gee-e
+Why I love that girl
+
+Oh-oh-oh-oh please
+Listen to me
+Hear-ear-ear my plea-e
+Why I love that girl
+
+Hold me baby, squeeze me
+Never let me go
+I'm not takin' chances
+Because I love, I love her so
+
+Oh-oh gee
+Yes I love her
+Yes I need her
+Why I love that girl
+
+Hold me baby, squeeze me
+Never let me go
+I'm not takin' chances
+Because I love, I love her so
+
+Gee
+Well, oh-oh gee-e
+My-y oh-oh gee-e
+Why I love that girl
+
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da, da-da-da-la
+Da
+
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da, da-da-da-la
+Da, da-da-da, da-da-da...
+
+
 

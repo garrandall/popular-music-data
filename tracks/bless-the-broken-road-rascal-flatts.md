@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bless-the-broken-road-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/jessandgabriel/blessthebrokenroad.html
 name: Bless The Broken Road
 rankings:
 - end_date: '2004-12-24'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
 ---
+
+
+I set out on a narrow way many years ago
+Hoping I would find true love along the broken road
+But I got lost a time or two
+Wiped my brow and kept pushing through
+I couldn't see how every sign pointed straight to you
+
+
+Every long lost dream led me to where you are
+Others who broke my heart they were like Northern stars
+Pointing me on my way into your loving arms
+This much I know is true
+That God blessed the broken road
+That led me straight to you
+
+
+I think about the years I spent just passing through
+I'd like to have the time I lost and give it back to you
+But you just smile and take my hand
+You've been there you understand
+It's all part of a grander plan that is coming true
+
+
+Every long lost dream led me to where you are
+Others who broke my heart they were like Northern stars
+Pointing me on my way into your loving arms
+This much I know is true
+That God blessed the broken road
+That led me straight to you
+
+
+That God blessed the broken road
+That led me straight to you
+That God blessed the broken road
+That led me straight to you
+
+
 

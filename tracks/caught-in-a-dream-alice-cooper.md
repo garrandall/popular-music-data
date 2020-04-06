@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caught-in-a-dream-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/caughtinadream.html
 name: Caught In A Dream
 rankings:
 - end_date: '1971-06-18'
@@ -19,4 +20,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+
+Well I'm runnin' through the world with a gun in my back tryin' to catch a ride in a cadillac
+Thought that I was livin' but you can't really tell been tryin' to get away from that success smell
+You know I need a houseboat and I need a plane I need a butler and a trip to Spain
+I need everything the world owes me I tell that to myself and I agree
+I'm caught in a dream so what you don't know what I'm goin' through
+I'm right in between so I'll I'll just play along with you 
+Well I'm runnin' through the world with a gun in my back tryin' to catch a ride in that cadillac
+Thought I was livin' but you can't never tell what I thought was heaven turned out to be hell
+Whoa whoa when you see me with a smile on my face
+Whoa whoa then you'll know I'm a mental case whoa whoa whoa whoa whoa whoa
+I'm caught in a dream so what I don't know what I'm going through
+I'm right in between so I'll I'll just play along with you
+Whoa whoa ooh ooh ooh aah aah aah aah oo oo oo oo oo oo
+
+
 

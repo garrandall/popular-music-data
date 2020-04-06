@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: honey-chile-martha-reeves-the-vandellas
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/honeychile.html
 name: Honey Chile
 rankings:
 - end_date: '1967-11-24'
@@ -56,4 +57,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
 ---
+
+You're shiftless and you're crazy
+Just like the hound-dog Daisy
+That grandma had when I was young
+
+And when she told me, darling
+You're not good for me honey
+I fell down on my knees sweet honey chile
+
+Honey chile
+You're 'bout to drive me wild
+Can't live without you, can't do without you
+Honey chile
+
+Honey chile
+You're 'bout to drive me wild
+Can't do without you
+Sweet, sweet honey chile
+
+To think I needed someone
+It turned out to be you
+And I so glad, sweet honey chile
+
+'Cause they all told me about you
+Said I got to leave you lonely
+But I can't do that to you, honey chile
+
+Honey chile
+You're 'bout to drive me wild
+Can't live without you, can't do without you
+Honey chile
+
+
 

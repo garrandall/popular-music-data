@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bigger-than-my-body-john-mayer
+lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/biggerthanmybody.html
 name: Bigger Than My Body
 rankings:
 - end_date: '2003-09-05'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
 ---
+
+This is a call to the color-blind
+This is an IOU
+I'm stranded behind a horizon line
+Tied up in something true
+
+Yes, I'm grounded
+Got my wings clipped
+I'm surrounded (by) 
+All this pavement
+Guess I'll circle 
+While I'm waiting 
+For my fuse to dry
+
+Someday I'll fly
+Someday I'll soar
+Someday I'll be so damn much more
+Cause I'm bigger than my body gives me credit for
+
+Why is it not my time?
+What is there more to learn?
+Shed this skin I've been tripping in
+Never to quite return
+
+Yes, I'm grounded
+Got my wings clipped
+I'm surrounded (by) 
+All this pavement
+Guess I'll circle 
+While I'm waiting 
+For my fuse to dry
+
+Someday I'll fly
+Someday I'll soar
+Someday I'll be so damn much more
+Cause I'm bigger than my body gives me credit for
+Cause I'm bigger than my body now
+
+Maybe I'll tangle in the power lines
+And it might be over in a second's time
+But I'll gladly go down in a flame
+If the flame's what it takes to remember my name
+
+Yes, I'm grounded
+Got my wings clipped
+I'm surrounded (by) 
+All this pavement
+Guess I'll circle 
+While I'm waiting 
+For my fuse to dry
+For my fuse to dry
+
+Someday I'll fly
+Someday I'll soar
+Someday I'll be so damn much more
+Cause I'm bigger than my body 
+I'm bigger than my body
+I'm bigger than my body now
+
+
 

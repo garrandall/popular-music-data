@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: soul-man-sam-dave
+lyrics_url: https://www.azlyrics.com/lyrics/samdave/soulman.html
 name: Soul Man
 rankings:
 - end_date: '1967-09-15'
@@ -68,4 +69,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
 ---
+
+Comin' to you on a dusty road
+Good lovin', I got a truck load
+And when ya get it, huh, ya got some
+So don't worry, 'cause I'm comin'
+
+I'm a soul man, wow
+I'm a soul man
+I'm a soul man, woah, heh
+I'm a soul man
+And that ain't all, huh
+
+Gots what I got the hard way
+And I'll make it better each and every day
+So honey, don't you fret, huh
+'Cause you ain't seen uh, nothin' yet
+
+I'm a soul man, oh road
+I'm a soul man, play it Steve
+I'm a soul man, ha
+I'm a soul man, oh
+
+I was brought up on a side street, yes maam
+I learned how to love before I could eat
+I was educated from good stock
+When I start lovin', oh I can't stop
+
+I'm a soul man
+I'm a soul man
+I'm a soul man, yeah
+I'm a soul man, look
+
+Grab a rope and I'll pull you in
+Give you hope and be your only boyfriend
+Yeah (yeah) yeah (yeah), uh
+
+I'm talking about a
+Soul man, I'm a
+Soul man, and you
+Soul man, aah
+Soul man, hold on
+Soul man, I'm a
+Soul man, and you a
+Soul man, and you're a
+Soul man, hold on
+
+
 

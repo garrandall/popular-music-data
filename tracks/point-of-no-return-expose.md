@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: point-of-no-return-expose
+lyrics_url: https://www.azlyrics.com/lyrics/expose/pointofnoreturn.html
 name: Point Of No Return
 rankings:
 - end_date: '1987-05-15'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
 ---
+
+The common road seems just like a dream
+It's a mystery to me
+Fills me within when we're together
+Oh, baby, can't you see?
+
+I - I'd like to feel the passion
+To the point of no return
+I - will be in full reaction
+I'm gonna take you in my arms
+
+You're taking me to the point of no return, oh oh oh
+You're taking me to the point of no return, oh oh oh
+
+It took so long, well I treasure now,
+The love you gave to me
+And when you smile, it warms my heart in need
+Oh, baby, can't you see?
+
+I - I'd like to feel the passion
+To the point of no return, oh, baby
+I - will be in full reaction
+I'm gonna take you in my arms
+
+You're taking me to the point of no return
+(To the point of no return) oh oh oh
+You're taking me to the point of no return,
+(Hey hey hey yeah) oh oh oh
+
+I wanna be with you baby (ooh-wah ooh-wah)
+I'm gonna be by your side (by your side)
+I wanna be with you baby (ooh-wah ooh-wah)
+I'm gonna love you every night
+
+You're taking me to the point of no return
+(Hey hey hey) oh oh oh
+You're taking me to the point of no return,
+(C'mon and take me to the point)
+(C'mon and take me to the point) oh oh oh
+You're taking me to the point of no return,
+(No holding back)
+(No holding back) oh oh oh
+You're taking me to the point of no return,
+(Hey hey hey yeah) oh oh oh
+You're taking me to the point of no return
+(Oh baby)
+
+
 

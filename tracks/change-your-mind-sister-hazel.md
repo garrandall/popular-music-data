@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-your-mind-sister-hazel
+lyrics_url: https://www.azlyrics.com/lyrics/sisterhazel/changeyourmind.html
 name: Change Your Mind
 rankings:
 - end_date: '2000-07-21'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
 ---
+
+Hey, Hey
+Did you ever think
+There might be another way
+To just feel better,
+Just feel better about today
+
+Oh no-
+If you never want to have
+To turn and go away
+You might feel better,
+Might feel better if you stay
+
+
+Yeah yeah
+I bet you haven't heard
+A word I've said
+Yeah yeah
+If you've had enough
+Of all your tryin'
+Just give up
+The state of mind you're in:
+
+
+If you want to be somebody else,
+If you're tired of fighting battles with yourself
+If you want to be somebody else
+Change your mind...
+
+Hey hey-
+Have you ever danced in the rain
+Or thanked the sun
+Just for shining- just for shining
+Over the sea?
+Oh no- take it all in
+The world's a show
+And yeah, you look much better,
+Look much better when you glow
+
+
+
+Hey hey-
+what ya say
+We both go and seize the day
+'cause what's your hurry
+what's your hurry anyway
+
+
+
+
 

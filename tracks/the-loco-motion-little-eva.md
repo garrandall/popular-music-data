@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-loco-motion-little-eva
+lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/thelocomotion.html
 name: The Loco-Motion
 rankings:
 - end_date: '1962-07-06'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
 ---
+
+The loco-motion, the loco-motion
+The loco-motion, the loco-motion
+The loco-motion, the loco-motion
+The loco-motion, the loco-motion
+
+Everybody's doing a brand new dance now
+(C'mon baby, do the loco-motion)
+I know you'll get to like it if you give it a chance now
+(C'mon baby, do the loco-motion)
+My little baby sister can do it with ease
+It's easier than learning your A-B-C's
+So come on, come on
+Do the loco-motion with me
+
+You gotta swing your hips now
+Come on baby, jump up, jump back
+Oh well I think you got the knack
+
+Now that you can do it, let's make a chain now
+(C'mon baby, do the loco-motion)
+Chug-a-chug-a motion like a railway train now
+(C'mon baby, do the loco-motion)
+Do it nice and easy now, don't lose control
+A little bit of rhythm and a lot of soul
+So come on, come on
+Do the loco-motion with me
+
+Move around the floor in a loco-motion
+(C'mon baby, do the loco-motion)
+Do it holding hands if you got the notion
+(C'mon baby, do the loco-motion)
+There's never been a dance that's so easy to do
+It even makes you happy when you're feeling blue
+So come on, come on
+
+
 

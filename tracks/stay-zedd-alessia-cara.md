@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stay-zedd-alessia-cara
+lyrics_url: https://www.azlyrics.com/lyrics/zedd/stay.html
 name: Stay
 rankings:
 - end_date: '2017-03-24'
@@ -132,4 +133,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
 ---
+
+Waiting for the time to pass you by
+Hope the winds of change will change your mind
+I could give a thousand reasons why
+And I know you, and you've got to
+
+Make it on your own, but we don't have to grow up
+We can stay forever young
+Living on my sofa, drinking rum and cola
+Underneath the rising sun
+I could give a thousand reasons why
+But you're going, and you know that
+
+All you have to do is stay a minute
+Just take your time
+The clock is ticking, so stay
+All you have to do is wait a second
+Your hands on mine
+The clock is ticking, so stay
+
+All you have to do is... uh
+All you have to do is stay
+
+Won't admit what I already know
+I've never been the best at letting go
+I don't wanna spend the night alone
+Guess I need you, and I need to
+
+Make it on my own, but I don't wanna grow up
+We can stay forever young
+Living on my sofa, drinking rum and cola
+Underneath the rising sun
+I could give a million reasons why
+But you're going, and you know that
+
+All you have to do is stay a minute
+Just take your time
+The clock is ticking, so stay
+All you have to do is wait a second
+Your hands on mine
+The clock is ticking, so stay
+
+All you have to do is... uh
+All you have to do is stay
+
+All you have to do is stay
+So stay
+Yeah
+
+All you have to do is stay a minute
+Just take your time
+The clock is ticking, so stay
+All you have to do is wait a second
+Your hands on mine
+The clock is ticking, so stay
+All you have to do is stay
+Stay
+
+
 

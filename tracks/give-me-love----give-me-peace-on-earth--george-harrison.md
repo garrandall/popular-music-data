@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-me-love----give-me-peace-on-earth--george-harrison
+lyrics_url: https://www.azlyrics.com/lyrics/gracevanderwaal/givemelovegivemepeaceonearth.html
 name: Give Me Love - (Give Me Peace On Earth)
 rankings:
 - end_date: '1973-05-25'
@@ -63,4 +64,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
 ---
+
+Give me love
+Give me love
+Give me peace on earth
+Give me light
+Give me life
+Keep me free from birth
+Give me hope
+Help me cope, with this heavy load
+Trying to, touch and reach you with
+Heart and soul
+
+My Lord
+
+Please take hold of my hand
+That I might understand you
+
+Won't you please
+Oh won't you
+Give me love
+Give me love
+Give me peace on earth
+Give me light
+Give me life
+Keep me free from birth
+Give me hope
+Help me cope, with this heavy load
+Trying to, touch and reach you with
+Heart and soul
+
+My Lord
+
+Won't you please
+Oh won't you
+Give me love
+Give me love
+Give me peace on earth
+Give me light
+Give me life
+Keep me free from birth
+Give me hope
+Help me cope, with this heavy load
+Trying to, touch and reach you with
+Heart and soul
+
+Give me love
+Give me love
+Give me peace on earth
+Give me light
+Give me life
+Keep me free from birth
+Give me hope
+Help me cope, with this heavy load
+Trying to, touch and reach you with
+Heart and soul
+
+My Lord
+
+
 

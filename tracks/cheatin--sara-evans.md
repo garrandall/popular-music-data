@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cheatin--sara-evans
+lyrics_url: https://www.azlyrics.com/lyrics/saraevans/cheatin.html
 name: Cheatin'
 rankings:
 - end_date: '2006-02-03'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
 ---
+
+You say your every day
+Is a bad dream that keeps repeatin'
+Maybe you should've thought about that
+When you were cheatin'
+
+How do you like that furnished room, the bed, the chair, the table
+The TV picture comes and goes, too bad you don't have cable
+How do you like that paper plate, and those pork-n-beans you're eatin'
+Maybe you should've thought about that
+When you were cheatin'
+
+How do you like that beat up car, I think it's fair we traded
+Your pick up truck is running fine, it's a cozy ride for datin'
+Yes, I've been out a time or two, and found the comfort I've been needin
+Maybe you should've thought about that
+When you were cheatin'
+
+You made your bed and your out of mine
+You lie awake and I sleep just fine
+You've done your sowing, now you can do the reaping
+Maybe you should've thought about that
+When you were cheatin'
+
+Now what became of what's her name, after she spent all your money
+Did she leave you just like you left me, well sometimes life is funny
+Yes I'll be glad to take you back, just as soon as I stop breathin
+Maybe you should've thought about that
+Oh, maybe you should've thought about that
+Maybe you should've thought about that
+When you were cheatin'
+When you were cheatin'
+
+
 

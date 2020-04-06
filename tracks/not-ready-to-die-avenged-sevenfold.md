@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-ready-to-die-avenged-sevenfold
+lyrics_url: https://www.azlyrics.com/lyrics/avengedsevenfold/notreadytodie.html
 name: Not Ready To Die
 rankings:
 - end_date: '2011-05-27'
@@ -11,4 +12,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
 ---
+
+Gone, cast away in time
+Evil yours, now evil mine
+So I robbed you blind
+The voices in my head suggest a less than peaceful side
+
+The endless possibilities
+Controlling 9-3-5.
+
+You can't break me
+Crush the fears of yesterday
+You can't save me
+Barriers of trust will fade.
+
+I've stood in the dark
+Been waiting all this time
+While we damn the dead I'm trying to survive
+I'm not ready to die
+
+Damned, watch the masses fall
+Burn it down, control 'em all
+(Let 'em bleed) Make me crawl
+To daddy's little girl I'll read the writings on the wall
+
+While cast into the nothingness
+Their final curtain call
+
+You can't break me
+Crush the fears of yesterday
+You can't save me,
+Barriers of trust will fade.
+
+I've stood in the dark
+Been waiting all this time
+While we damn the dead I'm trying to survive,
+I'm not ready to die
+
+
+
+Through the madness we find
+Loyalty is no match for power
+Say goodbye to your life,
+Left to rot in your darkest hour
+Prayers won't help you now
+As long as you're mine
+
+
+
+You can't break me
+Crush the fears of yesterday
+You can't save me
+Barriers of trust will fade.
+
+I've stood in the dark
+Been waiting all this time
+While we damn the dead I'm trying to survive
+
+I'll control the world
+One person at a time
+As I damn the dead I'm trying to survive
+I'm not ready to die!
+
+I'm not ready to die!
+I'm not ready to die!
+I'm not ready to die!
+I'm not ready to die!
+Ready to die!
+Ready to die!
+Ready to die!
+Not ready to die!
+
+
 

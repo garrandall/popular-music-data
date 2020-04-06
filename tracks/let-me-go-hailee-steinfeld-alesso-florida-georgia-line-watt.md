@@ -7,6 +7,7 @@ features:
 - Watt
 genres: []
 key: let-me-go-hailee-steinfeld-alesso-florida-georgia-line-watt
+lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/letmego.html
 name: Let Me Go
 rankings:
 - end_date: '2017-10-06'
@@ -98,4 +99,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
 ---
+
+
+You made plans and I, I made problems
+We were sleeping back to back
+We know this thing wasn't built to last
+Good on paper, picture perfect
+Chased the high too far, too fast
+Picket white fence, but we paint it black
+
+Ooh, and I wished you would hurt me harder than I hurt you
+Ooh, and I wish you wouldn't wait for me but you always do
+
+I've been hoping somebody loves you in the ways I couldn't
+Somebody's taking care of all of the mess I made
+Someone you don't have to change
+I've been hoping
+Someone will love you, let me go
+Someone will love you, let me go
+I've been hoping
+Someone will love you, let me go
+
+
+Spend some time, but this time ain't even
+I could leave it in the past but you're holding on to what you never had
+Good on paper, picture perfect
+Chased the high too far, too fast
+Picket white fence, but we paint it black
+
+
+Ooh, and I wished you would hurt me harder than I hurt you
+Ooh, and I wish you wouldn't wait for me but you always do
+
+I've been hoping somebody loves you in the ways I couldn't
+Somebody's taking care of all of the mess I made
+Someone you don't have to change
+I've been hoping
+Someone will love you, let me go
+Someone will love you, let me go
+I've been hoping
+Someone will love you, let me go (go, go, go)
+Someone will love you, let me go (go, go, go)
+Someone will love you, let me go (go, go, go)
+Someone will love you, let me go (go, go, go)
+Someone will love you, let me go
+
+I've been hoping somebody loves you in the ways I couldn't
+Somebody's taking care of all of the mess I made
+Someone you don't have to change
+I've been hoping
+Someone will love you, let me go
+
+
 

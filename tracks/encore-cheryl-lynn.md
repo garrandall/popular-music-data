@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: encore-cheryl-lynn
+lyrics_url: https://www.azlyrics.com/lyrics/cheryllynn/encore.html
 name: Encore
 rankings:
 - end_date: '1984-02-17'
@@ -39,4 +40,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+
+Your love so good deserves an encore
+(Your good love deserves an encore)
+Your love so good deserves an encore
+(Your good love deserves an encore)
+
+Going to a show tonight
+After working hard 9 to 5
+Not talking about a movie, no
+Or a Broadway play, this show is live
+
+And I know it's you I want to see tonight
+Want to see you tonight
+I'll buy my ticket at the door if it's alright
+So your show can make me feel good again
+
+Your love so good deserves an encore
+(Your good love deserves an encore)
+Your love so good deserves an encore
+(Your good love deserves an encore)
+
+I can give you rave reviews
+You sold out my heart with love
+And every time that I'm with you
+Boy, you take control, I'm your captive audience
+
+And I know it's you I want to see tonight
+Want to see you tonight
+I'll buy my ticket at the door if it's alright
+So your show can make me feel good again
+
+Your love so good deserves an encore
+(Your good love deserves an encore)
+Your love so good deserves an encore
+(Your good love deserves an encore)
+
+Can't get enough, ooh
+Of your gentle loving touch
+I can't get enough
+So intense, it drives me nuts
+Makes me want to break it down now
+
+Feels so good, feels so good
+It deserves an encore
+
+
 

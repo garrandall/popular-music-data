@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-champ-nelly
+lyrics_url: https://www.azlyrics.com/lyrics/nelly/thechamp.html
 name: The Champ
 rankings:
 - end_date: '2012-01-20'
@@ -19,4 +20,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
 ---
+
+Letâs go
+
+
+Ever since I was a kid Iâve been dreaming about this
+First day of practice I was thinking about this
+Picture on the news, yeah they see about this
+Even in the paper they gon' read about this
+Cause all of my life
+Training day and night
+Iâm preparing to fight
+For everyone I believed in
+I was going insane, they were screaming our name
+While were spraying champagne
+Thereâs nothing nobody can say
+
+
+Cause today is the day
+Is the day that I have always dreamed of forever
+When you call me,
+You call me the champ of the world
+I can raise my hands
+I can scream Iâm the best in the world
+Whole world
+All my blood, sweat and grind
+Was all for this time
+
+
+Lap after lap, mile after mile
+Push up after push up
+Everybody count it out
+Everybody up, now we back down
+All my pain and sweat was for this moment right now
+All from different places well we came with each other
+We came together as a team,
+But weâre leaving as brothers
+Standing next to one another while we hold up our colors
+Iâm gonâ look in to the camera and tell my mama I love her
+
+
+Cause today is the day
+Is the day that I have always dreamed of forever
+When you call me,
+You call me the champ of the world
+I can raise my hands
+I can scream Iâm the best in the world
+Whole world
+All my blood, sweat and grind
+Was all for this time
+
+Today is the day
+Is the day that I have always dreamed of forever
+When you call me,
+You call me the champ of the world
+I can raise my hands
+I can scream Iâm the best in the world
+Whole world
+All my blood, sweat and grind
+Was all for this time
+
+Today is the day
+Is the day that I have always dreamed of forever
+When you call me,
+You call me the champ of the world
+I can raise my hands
+I can scream Iâm the best in the world
+Whole world
+All my blood, sweat and grind
+Was all for this time
+
+
 

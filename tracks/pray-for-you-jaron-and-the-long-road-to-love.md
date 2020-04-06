@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pray-for-you-jaron-and-the-long-road-to-love
+lyrics_url: https://www.azlyrics.com/lyrics/jaronandthelongroadtolove/prayforyou.html
 name: Pray For You
 rankings:
 - end_date: '2010-04-16'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
 ---
+
+I haven't been in church since I don't remember when
+Things were goin' great 'til they fell apart again
+So I listened to the preacher as he told me what to do
+He said you can't go hatin' others who have done wrong to you
+Sometimes we get angry, but we must not condemn
+Let the good Lord do His job and you just pray for them
+
+I pray your brakes go out runnin' down a hill
+I pray a flower pot falls from a window sill
+And knocks you in the head like I'd like to
+I pray your birthday comes and nobody calls
+I pray you're flyin' high when your engine stalls
+I pray all your dreams never come true
+Just know wherever you are honey, I pray for you
+
+I'm really glad I found my way to church
+'Cause I'm already feelin' better and I thank God for the words
+Yeah I'm goin' take the high road
+And do what the preacher told me to do
+You keep messin' up and I'll keep prayin' for you
+
+I pray your tire blows out at 110
+I pray you pass out drunk with your best friend
+And wake up with his and her tattoos
+
+I pray your brakes go out runnin' down a hill
+I pray a flower pot falls from a window sill and knocks you in the head like I'd like to
+I pray your birthday comes and nobody calls
+I pray you're flyin' high when your engine stalls
+I pray all your dreams never come true
+Just know wherever you are, near or far, in your house or in your car
+wherever you are honey, I pray for you
+I pray for you
+
+
 

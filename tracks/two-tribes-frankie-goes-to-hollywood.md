@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-tribes-frankie-goes-to-hollywood
+lyrics_url: https://www.azlyrics.com/lyrics/frankiegoestohollywood/twotribes.html
 name: Two Tribes
 rankings:
 - end_date: '1984-10-26'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
 ---
+
+Ladies and gentlemen, let me present-
+FRANKIE GOES TO HOLLYWOOD
+Possibly the most important thing.
+This side of the world........
+
+Oh yeah, well I........
+
+Let's go
+
+-When two tribes go to war
+A point is all you can score
+When two tribes go to war
+A point is all you can score
+
+Cowboy No. 1
+A born-again poor man's son
+On the air America
+I modelled shirts by Van Heusen-yeah
+
+You know
+
+
+
+Working on the black gas
+
+Switch off your shield
+Switch off and feel
+I'm working on loving-yeah
+Giving you back the good times
+Ship it out-out
+I'm working for the black gas
+
+
+
+We got two tribes
+We got the bomb
+We got the bomb-yeah
+Sock it to me biscuits-now
+
+Are we living in a land
+Where sex and horror are the new Gods?
+Yeah
+
+When two tribes go to war
+A point is all you can score
+
+
 

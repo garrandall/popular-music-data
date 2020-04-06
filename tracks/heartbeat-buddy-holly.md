@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbeat-buddy-holly
+lyrics_url: https://www.azlyrics.com/lyrics/buddyholly/heartbeat.html
 name: Heartbeat
 rankings:
 - end_date: '1959-01-04'
@@ -23,4 +24,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
 ---
+
+Heartbeat
+Why do you miss when my baby kisses me?
+Heartbeat
+Why does a love kiss stay in my memory?
+
+Piddly pat
+I know that new love thrills me
+I know that true love will be
+
+Heartbeat
+Why do you miss when my baby kisses me?
+
+Heartbeat
+Why do you skip when my baby's lips meet mine?
+Heartbeat
+Why do you flip and give me a skip each sign?
+
+Piddly pat
+And sing to me love's story
+And bring to me love's glory
+
+Heartbeat
+Why do you miss when my baby kisses me?
+
+
 

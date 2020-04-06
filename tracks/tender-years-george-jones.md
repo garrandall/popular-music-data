@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tender-years-george-jones
+lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/tenderyears.html
 name: Tender Years
 rankings:
 - end_date: '1961-07-09'
@@ -23,4 +24,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
 ---
+
+You keep saying you love him
+I believe that it's true
+And it just doesn't matter
+How much I love you
+
+But in time you'll understand, dear
+When you shed a tear
+Then you'll know you were living
+In your tender years
+
+In your eyes there's a lovelight
+That shines for him
+But how long will it stay there
+Will that love light grow dim?
+
+You can just see the happiness
+You can't see the tears
+It's true, you've been living
+In your tender years
+
+So, if I can't be your first love
+I'll wait and be your last
+I'll be somewhere in your future
+To help you forget the past
+
+And you'll know that I love you
+With a love that's sincere
+'Cause I'll wait till you're through living
+In your tender years
+
+Yes, you'll know that I love you
+With a love that's sincere
+I'll wait till you're through living
+In your tender years...
+
+
 

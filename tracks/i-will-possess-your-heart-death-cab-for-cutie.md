@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-possess-your-heart-death-cab-for-cutie
+lyrics_url: https://www.azlyrics.com/lyrics/deathcabforcutie/iwillpossessyourheart.html
 name: I Will Possess Your Heart
 rankings:
 - end_date: '2008-04-18'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
 ---
+
+How I wish you could see the potential,
+the potential of you and me.
+It's like a book elegantly bound but,
+in a language that you can't read.
+Just yet.
+
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+
+There are days when outside your window
+I see my reflection as I slowly pass,
+and I long for this mirrored perspective
+when we'll be lovers, lovers at last.
+
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+I will possess your heart.
+I will possess your heart.
+
+You reject my... advances... and desperate pleas...
+I won't let you... let me down... so easily.
+So easily.
+
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+You gotta spend some time, Love.
+You gotta spend some time with me.
+And I know that you'll find, love
+I will possess your heart.
+I will possess your heart.
+I will possess your heart.
+
+
 

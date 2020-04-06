@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-why-i-love-you-andrew-gold
+lyrics_url: https://www.azlyrics.com/lyrics/andrewgold/thatswhyiloveyou.html
 name: That's Why I Love You
 rankings:
 - end_date: '1976-01-09'
@@ -27,4 +28,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
 ---
+
+I'm a robin sitting in a tree
+Singing for you, darling, endlessly
+Inspiration's got a hold on me
+And I don't want to be set free
+
+It's the smile on your face
+It's your style and your grace
+And that's why, that's why
+I love you
+
+You're a party with the lights down low
+You're my Friday night movie show
+Love me tender on the radio
+Just hold me tight and don't let go
+
+It's the smile on your face
+It's your style and your grace
+And that's why, that's why
+I love you
+
+People fall in love and
+All too soon it fades away
+But, sweet darling, we won't fade
+I will travel with you on down the line
+
+It's the smile on your face
+It's your style and your grace
+And that's why, that's why
+I love you
+
+It's the smile on your face
+It's your style and your grace
+And that's why, that's why
+I love you
+
+It's the smile on your face
+It's your style and your grace
+And that's why, that's why
+I love you
+
+
 

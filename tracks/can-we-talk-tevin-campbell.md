@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-we-talk-tevin-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/canwetalk.html
 name: Can We Talk
 rankings:
 - end_date: '1993-10-22'
@@ -111,4 +112,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
 ---
+
+Last night I, I saw you standing, and I started, started pretending
+I knew you and you knew me too.And just like a roni you were
+Too shy, but you weren't the only cause so was I.
+And I dreamed of you ever since. Now I built up my confidence
+Girl next next time you come my way I'll know just what to say
+
+Can we talk for a minute Girl I want to know your name
+Can we talk for a minute Girl I want to know your name
+
+I started to write you letters, but I wanted to be more clever
+I wanted to get down and sweet talk you. (Baby) But just like a baby, I could not talk
+And I tried to come closer but could not walk. And I think of it every night
+How I just could not get it right oh if we ever come close again,
+I know what I'll say then
+
+Can we talk for a minute Girl I want to know your name
+Can we talk for a minute Girl I want to know your name
+
+Oh girl. One more chance with you again I will not let it go oh oh please
+Give me just one more chance for love, love, love, love
+
+Can we talk for a minute Girl I want to know your name
+Can we talk for a minute Girl I want to know your name
+
+Oh baby baby baby, come on talk to me baby come on and talk to me baby
+ (Girl I want to know your name Can we talk for a minute)
+See I wanna know I wanna know I wanna know your name. Now can we talk for a minute
+Come on and talk to me baby come on baby come on baby, yeah I said can we talk for a minute
+Come on and talk to me baby. See I wanna know you better tell me your name baby.
+I said talk to me for a minute come on and talk to me baby.
+
+
 

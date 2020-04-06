@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: til-the-world-ends-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/tiltheworldends.html
 name: Til The World Ends
 rankings:
 - end_date: '1975-07-11'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
+
+Seasons change and summer's gone
+Another year of love I've known
+Fades like a dream
+Rearrange, boy, make yourself strong
+You're not the first or last who's lost everything
+
+And you can bundle up your feelings
+Hang them in some closet
+Until you need them again
+All of us brokenhearted young lovers
+Oh, we'll search for one another
+'Til the world ends
+
+Frosty window, scribbled name
+Stabbing sad refrain of
+What's come to pass
+The candle glows, so follow the flame
+The light of hope can ease the pain of loneliness
+
+And you can bundle up your feelings
+Hang them in some closet
+Until you need them again
+All of us brokenhearted young lovers
+Oh, we'll search for one another
+'Til the world ends
+
+You know we all live but once
+Losing is a part of living your life
+Daylight always follows the night
+Looking at life as it's always been
+It will be that way
+'Til the world ends
+
+'Til the world ends
+
+
 

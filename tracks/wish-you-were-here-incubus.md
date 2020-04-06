@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wish-you-were-here-incubus
+lyrics_url: https://www.azlyrics.com/lyrics/incubus/wishyouwerehere.html
 name: Wish You Were Here
 rankings:
 - end_date: '2001-09-28'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
 ---
+
+I dig my toes into the sand
+The ocean looks like a thousand diamonds
+Strewn across a blue blanket
+I lean against the wind
+Pretend that I am weightless
+And in this moment I am happy, happy
+
+I wish you were here 
+I wish you were here 
+I wish you were here 
+I wish you were here
+
+I lay my head onto the sand
+The sky resembles a back-lit canopy
+With holes punched in it
+I'm counting UFOs
+I signal them with my lighter 
+And in this moment I am happy, happy
+
+I wish you were here 
+I wish you were here 
+I wish you were here 
+Wish you were here
+
+The world's a roller coaster
+And I am not strapped in
+Maybe I should hold with care
+But my hands are busy in the air
+Saying
+
+I wish you were here 
+I wish you were
+I wish you were here 
+I wish you were here
+
+I wish you were here
+I wish you were here
+
+
 

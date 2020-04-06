@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-only-have-eyes-for-you-art-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/ionlyhaveeyesforyou.html
 name: I Only Have Eyes For You
 rankings:
 - end_date: '1975-08-29'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
 ---
+
+My love must be a kind of blind love
+I can't see anyone but you
+
+Are the stars out tonight?
+I don't know if it's cloudy or bright
+I only have eyes for you, dear
+
+The moon may be high
+But I can't see a thing in the sky
+'Cause I only have eyes for you
+
+I don't know if we're in a garden
+Or on a crowded avenue
+
+You are here, so am I
+Maybe millions of people go by
+But they all disappear from view
+And I only have eyes for you
+
+The moon may be high
+But I can't see a thing in the sky
+'Cause I only have eyes for you
+
+You are here, so am I
+Maybe millions of people go by
+But they all disappear from view
+
+I don't know if we're in a garden
+Or on a crowded avenue
+
+You are here, so am I
+Maybe millions of people go by
+But they all disappear from view
+And I only have eyes for you
+
+
 

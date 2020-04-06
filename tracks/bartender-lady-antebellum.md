@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bartender-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/bartender.html
 name: Bartender
 rankings:
 - end_date: '2014-06-13'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
 ---
+
+8 o'clock on Friday night I'm still at home
+All my girls just keep on blowing up my phone
+Saying come on he ain't worth the pain
+Do what you gotta do to forget his name
+Now there's only one thing left for me to do
+Slip on my favorite dress and sky-high leather boots
+Check the mirror one last time
+And kiss the past goodbye
+
+
+What I'm really needing now
+Is a double shot of Crown
+Chase that disco ball around
+Till I don't remember
+Go until they cut me off
+Wanna get a little lost
+In the noise
+In the lights
+Hey bartender pour 'em hot tonight
+Till the party and music and the truth collide
+Bring it till his memory fades away
+Hey bartender
+
+Tonight I'll let a stranger pull me on the floor
+Spin me round and let 'em buy a couple more
+But before it goes too far I'll let him down easy
+Cause tonight is all about
+Dancing with my girls to the DJ
+Put that song on replay
+
+
+What I'm really needing now
+Is a double shot of Crown
+Chase that disco ball around
+Till I don't remember
+Go until they cut me off
+Wanna get a little lost
+In the noise
+In the lights
+Hey bartender pour 'em hot tonight
+Till the party and music and the truth collide
+Bring it till his memory fades away
+Hey bartender
+
+Feeling that buzz I'm ready to rock
+Ain't no way I'm gonna tell you to stop
+So pour that thing up to the top
+I'm coming in hot
+Hey Bartender
+
+
+Oh what I'm really needing now
+Is a double shot of Crown
+Chase that disco ball around
+Till I don't remember
+Go until they cut me off
+Wanna get a little lost
+In the noise
+In the lights
+Hey bartender pour 'em hot tonight
+Till the party and music and the truth collide
+Bring it till his memory fades away
+Hey bartender
+Hey bartender
+
+
 

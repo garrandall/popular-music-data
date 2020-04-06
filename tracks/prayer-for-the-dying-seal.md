@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: prayer-for-the-dying-seal
+lyrics_url: https://www.azlyrics.com/lyrics/bamboo/prayerforthedying.html
 name: Prayer For The Dying
 rankings:
 - end_date: '1994-06-17'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
 ---
+
+Fearless people, careless needle
+Harsh words spoken, and lives are broken
+Forceful ageing, help me I'm fading
+Heaven's waiting, it's time to move on
+
+Crossing that bridge, with lessons I've learned
+Playing with fire, and not getting burned
+I may not know what you're going through
+But time is the space between me and you
+Life carries on
+
+Just say die, and that would be pessimistic
+In your mind, we can walk across water
+Please don't cry, it's just a prayer for the dying
+I just don't know what's got into me
+
+Been crossin' that bridge, with lessons I've learned
+Playing with fire, and not getting burned
+I may not know what you're going through
+But time is the space between me and you
+There is a light through that window
+Hold on say yes, while people say no
+Life carries on
+
+It goes on
+
+Crossing that bridge with lessons I've learned
+Playing with fire, and not getting burned
+I may not know what you're going through
+But time is the space between me and you
+There is a light through that window
+Hold on say yes, while people say no
+
+
 

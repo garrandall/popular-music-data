@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-chemicals-between-us-bush
+lyrics_url: https://www.azlyrics.com/lyrics/bush/thechemicalsbetweenus.html
 name: The Chemicals Between Us
 rankings:
 - end_date: '1999-10-08'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
 ---
+
+I want you to remember
+A love so full it could send us all ways
+And I want you to surrender 
+All my feelings rose today
+
+And I want you to remain
+The power of children can amaze
+I'll try not to complain
+I know that's a pisser baby
+
+The chemicals between us 
+The walls that lie between us
+Lying this bed 
+The chemicals displaced 
+There is no lonelier state 
+Lying this bed 
+
+I want you to remember
+Everything you said
+Every driven word 
+Like a hammer, held, to my head
+
+The chemicals between us 
+The walls that lie between us
+Lying this bed
+The chemicals displaced 
+There is no lonelier face 
+Lying this bed
+
+The chemicals between us
+The chemicals between us
+Lying this bed 
+
+We're of the hollow men
+We are the naked ones 
+We never meant you harm
+Never meant you wrong
+
+And I'd like to thank 
+All of my lovers, lovers, lovers, lovers, lovers, lovers
+
+The chemicals between us
+The army of achievers
+Lying this bed 
+The chemicals displaced
+There is no lonelier face 
+Lying this bed
+
+The chemicals between us
+The chemicals between us 
+Chemicals 
+
+The chemicals between us
+
+
 

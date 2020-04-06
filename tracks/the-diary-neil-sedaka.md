@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-diary-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/thediary.html
 name: The Diary
 rankings:
 - end_date: '1958-12-14'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
 ---
+
+Whoa, oh
+
+How I'd like to look
+Into that little book
+The one that has the lock and key
+And know the boy that you care for
+The boy who's in your diary
+
+When it's late at night
+What is the name you write?
+Oh, what I'd give if I could see
+Am I the boy that you care for?
+The boy who's in your diary
+
+Do you recall
+And make note of all
+The little things I say and do?
+The name you underline
+I'm hoping
+That it's mine
+Darling, I'm so in love with you
+
+Please don't leave me blue
+Make all my dreams come true
+You know how much you mean to me
+Say I'm the boy that you care for
+The boy who's in your diary
+
+Whoa, oh
+
+Oh, whoo, whoo, whoo, whoo, whoo
+Whoo
+
+
 

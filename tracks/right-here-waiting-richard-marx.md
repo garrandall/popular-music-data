@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-here-waiting-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/bonnietyler/rightherewaiting.html
 name: Right Here Waiting
 rankings:
 - end_date: '1989-07-14'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
 ---
+
+Oceans apart day after day
+And I slowly go insane
+I hear your voice on the line
+But it doesn't stop the pain
+
+If I see you next to never
+How can we say forever
+
+Wherever you go
+Whatever you do
+I will be right here waiting for you
+Whatever it takes
+Or how my heart breaks
+I will be right here waiting for you
+
+I took for granted, all the times
+That I though would last somehow
+I hear the laughter, I taste the tears
+But I can't get near you now
+
+Oh, can't you see it baby
+You've got me goin' crazy
+
+Wherever you go
+Whatever you do
+I will be right here waiting for you
+Whatever it takes
+Or how my heart breaks
+I will be right here waiting for you
+
+I wonder how we can survive
+This romance
+But in the end if I'm with you
+I'll take the chance
+
+Oh, can't you see it baby
+You've got me goin' crazy
+
+Wherever you go
+Whatever you do
+I will be right here waiting for you
+Whatever it takes
+Or how my heart breaks
+I will be right here waiting for you
+
+
 

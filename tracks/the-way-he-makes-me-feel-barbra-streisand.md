@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-he-makes-me-feel-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/thewayhemakesmefeel.html
 name: The Way He Makes Me Feel
 rankings:
 - end_date: '1983-10-28'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
+
+
+
+There's no chill and yet I shiver
+There's no flame and yet I burn
+I'm not sure what I'm afraid of
+And yet I'm trembling
+There's no storm yet I hear thunder.
+And I'm breathless, why I wonder?
+Weak one moment,
+Then the next I'm fine.
+I feel as if 1'm falling every time
+I close my eyes
+And flowing through my body
+Is a river of surprise.
+Feelings are awakening
+I hardly' recognize as mine!
+What are all these new sensations?
+What's the secret they reveal?
+I'm not sure I understand
+But I like the way I feel.
+Oh, why is it that every time
+I close my eyes he's there?
+The water shining on his skin,
+The sunlight in his hair?
+And all the while I'm thinking things
+That I can never share with him.
+I'm a bundle of confusion
+Yet it has a strange appeal.
+Did it all begin with him,
+And the way he makes me feel
+I like the way he makes me feel...
+
+
 

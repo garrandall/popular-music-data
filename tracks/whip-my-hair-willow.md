@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whip-my-hair-willow
+lyrics_url: https://www.azlyrics.com/lyrics/karmin/whipmyhair.html
 name: Whip My Hair
 rankings:
 - end_date: '2010-11-12'
@@ -79,4 +80,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
 ---
+
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+
+Hop up out the bed, turn my swag on
+Pay no attention to them haters
+Because we whip 'em off
+And we ainât doin' nothin' wrong
+So donât tell me nothin'
+Iâm just trying to have fun
+So keep the party jumping
+So what's up? (yeah)
+And now they don't know what to do
+We turn our back and whip our hair and just
+Shake em off, shake em off
+Shake em off, shake em off
+
+Donât let haters get me off my grind
+Keep my head up, I know Iâll be fine
+Keep fighting until I get there
+When Iâm down and I feel like giving up
+
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth 
+I whip my hair back and forth
+
+Imma get more shine in a little bit
+Soon as I hit the stage applause
+Iâm hearing it
+Whether is black stars, black cars
+Iâm feelin it
+But can't none of them whip it like I do (I)
+I get to the mm-yeah go hard
+When they see me pull up
+I whip it real hard
+I whip it real hard
+Real hard
+I whip it real hard
+
+Donât let haters get me off my grind
+Keep my head up, I know Iâll be fine
+Keep fighting until I get there
+When Iâm down and I feel like giving up
+
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth 
+I whip my hair back and forth
+I whip my hair back and forth 
+
+All my ladies if you feel it
+Gone and do it, do it
+Whip your hair (whip your hair)
+Donât matter if itâs long, short
+Do it, do it whip your hair!
+
+All my ladies if you feel it
+Gone and do it, do it
+Whip your hair (whip your hair)
+Donât matter if itâs long, short
+Do it, do it whip your hair, your hair, your hair!
+
+I whip my hair back and forth
+I whip my hair back and forth 
+I whip my hair back and forth
+I whip my hair back and forth 
+I whip my hair back and forth
+I whip my hair back and forth 
+I whip my hair back and forth...
+
+
 

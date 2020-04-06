@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: megalomaniac-incubus
+lyrics_url: https://www.azlyrics.com/lyrics/incubus/megalomaniac.html
 name: Megalomaniac
 rankings:
 - end_date: '2004-01-09'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
 ---
+
+I hear you on the radio
+You permeate my screen, its' unkind but
+If I met you in a scissor fight
+I'd cut off both your wings on principle alone
+On principle alone
+
+Hey megalomaniac
+You're no Jesus
+Yeah, you're no fucking Elvis
+Wash your hands clean of yourself baby
+Maniac, step down, step down
+
+If I were your appendages
+I'd hold open your eyes
+So you would see
+That all of us are heaven sent
+There was never meant to be only one
+To be only one
+
+Hey megalomaniac
+You're no Jesus
+Yeah, you're no fucking Elvis
+Wash your hands clean of yourself baby
+Maniac, step down, step down
+
+Yeah
+You're no Jesus
+You're no Elvis
+You're no Jesus
+You're no Jesus
+You're no Elvis
+You're no answer
+
+Step down, step down, 
+Step down, step down
+
+Hey megalomaniac
+You're no Jesus
+Yeah, you're no fucking Elvis
+Wash your hands clean of yourself baby
+Maniac, step down, step, 
+Step down, step down, 
+Step down, step down, 
+Step down
+
+
 

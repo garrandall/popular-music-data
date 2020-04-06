@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-my-bones-randy-travis
+lyrics_url: https://www.azlyrics.com/lyrics/randytravis/outofmybones.html
 name: Out Of My Bones
 rankings:
 - end_date: '1998-05-01'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
 ---
+
+I'm in need of a remedy
+To cure me from loving you
+It may sound a little extreme
+But I'll do what I have to do
+Bury your jacket in my backyard
+Carry your picture in my shoe
+And keep walkin' till the hurting stops
+Keep walkin' till my temperature drops
+Keep walkin' until the fever is gone
+And you're out of my bones
+
+I'm in need of medicine
+Something strong that will work real fast
+That I can take to fortify me
+To keep my arms from taking you back
+Chase that ghost out from under my bed
+Still daylight till dawn
+Till you're out of my bones
+
+Sweet amnesia
+Come and set me free
+I just need to
+Get you out of me
+
+Bury your jacket in my backyard
+Carry your picture in my shoe
+And keep walkin' till the hurting stops
+Keep walkin' till my temperature drops
+Keep walkin' until the fever is gone
+And you're out of my bones
+You're out of my bones
+
+
 

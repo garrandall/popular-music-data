@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucid-dreams-juice-wrld
+lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/luciddreams.html
 name: Lucid Dreams
 rankings:
 - end_date: '2018-06-01'
@@ -199,4 +200,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
 ---
+
+Enviyon on the mix
+No, no, no, no
+No-no, no, no, no
+No, no, no, no, no
+No, no, no, no
+
+I still see your shadows in my room
+Can't take back the love that I gave you
+It's to the point where I love and I hate you
+And I cannot change you so I must replace you (oh)
+Easier said than done
+I thought you were the one
+Listening to my heart instead of my head
+You found another one, but
+I am the better one
+I won't let you forget me
+I still see your shadows in my room
+Can't take back the love that I gave you
+It's to the point where I love and I hate you
+And I cannot change you so I must replace you (oh)
+Easier said than done
+I thought you were the one
+Listening to my heart instead of my head
+You found another one, but
+I am the better one
+I won't let you forget me
+
+You left me falling and landing inside my grave
+I know that you want me dead 
+I take prescriptions to make me feel a-okay
+I know it's all in my head
+
+I have these lucid dreams where I can't move a thing
+Thinking of you in my bed
+You were my everything
+Thoughts of a wedding ring
+Now I'm just better off dead 
+I'll do it over again
+I didn't want it to end
+I watch it blow in the wind
+I should've listened to my friends
+Leave this shit in the past
+But I want it to last
+You were made outta plastic (fake)
+I was tangled up in your drastic ways
+Who knew evil girls had the prettiest face
+You gave me a heart that was full of mistakes
+I gave you my heart and you made heart break
+
+You made my heart break
+You made my heart ache (I still see your shadows in my room)
+You made my heart break
+You made my heart ache (can't take back the love that I gave you)
+You made my heart break (were made outta plastic fake)
+You made my heart ache (I still see your shadows in my room)
+You made my heart break again (I was tangled up your drastic ways)
+(Who knew evil girls had the prettiest face?)
+
+I still see your shadows in my room
+Can't take back the love that I gave you
+It's to the point where I love and I hate you
+And I cannot change you so I must replace you (oh)
+Easier said than done
+I thought you were the one
+Listening to my heart instead of my head
+You found another one, but
+I am the better one
+I won't let you forget me
+I still see your shadows in my room
+Can't take back the love that I gave you
+It's to the point where I love and I hate you
+And I cannot change you so I must replace you (oh)
+Easier said than done
+I thought you were the one
+Listening to my heart instead of my head
+You found another one, but
+I am the better one
+I won't let you forget me
+
+Leave this shit in the past but I want it to last
+You were made outta plastic (fake)
+I was tangled up in your drastic ways
+Who knew evil girls had the prettiest face?
+
+Easier said than done
+I thought you were the one
+(Instead of my head)
+I won't let you forget me
+
+
 

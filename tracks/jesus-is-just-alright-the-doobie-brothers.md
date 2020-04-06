@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jesus-is-just-alright-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/jesusisjustalright.html
 name: Jesus Is Just Alright
 rankings:
 - end_date: '1972-12-22'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
 ---
+
+Jesus is just alright with me, Jesus is just alright, oh yeah
+Jesus is just alright with me, Jesus is just alright
+I don't care what they may say
+I don't care what they may do
+I don't care what they may say
+Jesus is just alright, oh yeah
+Jesus is just alright
+
+Jesus is just alright with me, Jesus is just alright, oh yeah
+Jesus is just alright with me, Jesus is just alright
+
+I don't care what they may know
+I don't care where they may go
+I don't care what they may know
+Jesus is just alright, oh yeah
+
+Jesus, he's my friend; Jesus, he's my friend
+He took me by the hand; Led me far from this land
+Jesus, he's my friend
+
+Jesus is just alright with me, Jesus is just alright, oh yeah
+Jesus is just alright with me, Jesus is just alright
+
+I don't care what they may say, I don't care what they may do
+I don't care what they may say, Jesus is just alright, oh yeah
+
+
 

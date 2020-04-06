@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-you--hold-yuh--gyptian
+lyrics_url: https://www.azlyrics.com/lyrics/gyptian/holdyuh.html
 name: Hold You (Hold Yuh)
 rankings:
 - end_date: '2010-06-11'
@@ -67,4 +68,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
 ---
+
+Oooohh ohhohh yeaah yeaah
+Gyal me wann fi hold yuhhh
+Put mi arms right arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Gyal me wann fi just squeeze yahh
+Put mi tings all around ya
+Gyal you give me the tightest hold me eva get inna my life ohhhh
+
+Me eye dem dry and me nuh care
+Mi tek it anytime, anywhere
+Inna de square, seh me nuh fear
+And as a woman I will be there
+Mi want a gyal who can wine pon me
+Mi want a gyal who can take care of me
+And mek mi feel it
+And mi reveal it
+Ooh, my haf fi really squeeze it
+
+Gyal me wann fi hold yuhhh
+Put mi arms right arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Gyal me juss wann fi just squeeze yuh
+Put me tings all around ya
+Gyal you give me the tightest hold me eva get inna my life
+Oh lord
+
+Like a fast bike pon di road, roo-room, roo-room
+Gyal pon de back and she-a boom, boom, boom, boom
+Gime mi da mawga one and de fat tun tun tun tun
+When a player has one time we come to come come
+Me outta control
+A more fire she want inna her soul
+She say more pon more and still she groan
+And still me multiply more
+
+Gyal me wann fi juss hold yuhh
+Put me arms right arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Gyal me wann fi juss squeeze yuhh
+Put me arms right arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Squeeze yuh, around yuh
+(Tightest hold me eva get inna my life)
+Swidle didle daddle deehh, yeah
+(Tightest hold me eva get inna my life) ohh
+
+Me eye dem dry and me nuh care
+Mi tek it anytime, anywhere
+Inna de square, seh me nuh fear
+And as a woman I will be there
+Mi want a gyal who can take care of me
+Mi want a gyal who can wine pon me
+And mek mi feel it
+And mi reveal it
+Show me that you can girl
+
+Gyal me wann fi hold yuhh
+put me arms right arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Gyal me wann juss fi squeeze yuhh
+put me tings all arounddd ya
+Gyal you give me the tightest hold me eva get inna my life
+
+Squeeze yuh, around yuh
+(Tightest hold mi eva get inna my life)
+looove yeaaaaaa, yeaaaaaa
+(Tightest hold mi eva get inna my life)
+
+
 

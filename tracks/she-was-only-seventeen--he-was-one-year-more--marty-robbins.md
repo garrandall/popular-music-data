@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-was-only-seventeen--he-was-one-year-more--marty-robbins
+lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/shewasonlyseventeenhewasoneyearmore.html
 name: She Was Only Seventeen (He Was One Year More)
 rankings:
 - end_date: '1958-08-10'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
 ---
+
+She was only seventeen and he was one year more
+She loved him with all her heart and he the girl adored
+But all their friends believed they're too young to know the score
+'Cause she was only seventeen and he was one year more.
+
+Are they old enough to know if love will last for life
+Isn't he too young to be a husband her a wife
+Well in the past I bet it's happened more than once before
+When someone was seventeen another one year more.
+
+Do we have the right to question love that seems so strong
+As long as God has no objections there can be no wrong
+Let us be the first to wish them all the very best
+Let us hope their love is strong enough to meet the test.
+
+'Cause like I said I bet it's happened more than once before
+When someone was seventeen another one year more.
+
+Do we have the right to question love that seems so strong
+As long as God has no objections there can be no wrong
+Let us be the first to wish them all the very best
+Let us hope their love is strong enough to meet the test.
+
+
 

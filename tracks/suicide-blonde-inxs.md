@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suicide-blonde-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/suicideblonde.html
 name: Suicide Blonde
 rankings:
 - end_date: '1990-09-14'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
 ---
+
+Suicide blonde, suicide blonde
+Suicide blonde, suicide blonde
+Suicide blonde was the colour of her hair
+Like a cheap distraction
+For a new affair
+She knew it would finish
+Before it began
+Something tells me you lost the plan
+
+You want to make her
+Suicide Blonde
+Love devastation
+Suicide Blonde
+
+You want to make her
+Suicide Blonde
+Love devastation
+Suicide Blonde
+
+She stripped to the beat
+But her clothes stay on
+White light everywhere
+But you can't see a thing
+Such a squeeze
+A mad, sad moment
+Glory to you, glory to you, take me there
+
+Got some revelation put into your hands
+Save you from your misery
+Like rain across the land
+Don't you see
+The colour of deception
+Turning your world around again
+
+You want to make her
+Suicide Blonde
+Love devastation
+Suicide Blonde
+
+You want to make her
+Suicide Blonde
+Love devastation
+Suicide Blonde
+
+
+
+
 

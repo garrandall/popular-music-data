@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothin--to-lose-josh-gracin
+lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/nothintolose.html
 name: Nothin' To Lose
 rankings:
 - end_date: '2005-01-28'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
 ---
+
+It was noon time, down time, break time
+Summertime, Miller Time, anytime
+She was looking pretty fine
+A red light, green light, go
+All fired upside downtown
+She was shaking me all around
+I was tuned in, going nowhere, second wind
+Jonesing, drooling, feeling good, if you would
+
+
+Oh yeah, by the way she moves
+She's got me rolling in dirt in a white t-shirt
+Breaker Breaker 1-9 she's a big ol' flirt
+By now she's got me pretty tied up
+Tied down, any way I choose
+I got nothin' to lose
+
+In like Flynn, I was
+Looking for the win
+Just trying anything, hey
+Baby, where you been
+All my life I've been looking for
+Someone like you
+Falling head over heels
+Hey what can I do
+
+
+
+
+
+Now I'm in the fast lane going 98
+By now I know she can
+Smooth operate me
+I know now she's no goody two shoes
+But hey I got myself nothin' to lose
+
+
+
+Noon time, down time, break time
+Summertime, Miller Time, any time
+She was looking pretty fine
+In like Flynn I was looking for the win
+Just trying anything, hey baby where you been
+All my life I been looking for someone like you
+Falling head over heels hey what can I do
+I got nothin' to lose, yeah
+
+
 

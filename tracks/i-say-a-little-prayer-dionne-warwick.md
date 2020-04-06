@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-say-a-little-prayer-dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/humannature/isayalittleprayer.html
 name: I Say A Little Prayer
 rankings:
 - end_date: '1967-10-27'
@@ -59,4 +60,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
 ---
+
+The moment I wake up
+Before you put on your makeup
+I say a little prayer for you
+While combing my hair now
+And wondering what dress to wear now
+I say a little prayer for you
+
+Forever and ever, you'll stay in my heart
+And I will love you
+Forever and ever, we never will part
+Oh, how I love you
+Together, forever, that's how it must be
+To live without you
+Would only mean heartbreak for me
+
+I run for the bus, dear
+While riding I think of us, dear
+I say a little prayer for you
+At work I just take time
+And all through my coffee break time
+I say a little prayer for you
+
+Forever and ever, you'll stay in my heart
+And I will love you
+Forever and ever we never will part
+Oh, how I'll love you
+Together, forever, that's how it must be
+To live without you
+Would only mean heartbreak for me
+
+My darling, believe me (Believe me)
+For me there is no one but you
+(Answer my prayer) Answer my prayer now, baby
+(Answer my prayer)
+
+Forever and ever, you'll stay in my heart
+And I will love you
+Forever and ever we never will part
+Oh, how I'll love you
+Together, forever, that's how it must be
+To live without you
+Would only mean heartbreak for me
+
+My darling, believe me (Believe me)
+For me there is no one but you
+Please love me too
+Answer my prayer now, baby (Answer my prayer)
+Answer my prayer (Answer my prayer)
+Answer my prayer (Answer my prayer)
+Answer my prayer (Answer my prayer, baby)
+Answer my prayer now, baby
+
+
 

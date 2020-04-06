@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: el-perdon--forgiveness--nicky-jam-enrique-iglesias
+lyrics_url: https://www.azlyrics.com/lyrics/nickyjam/forgivenesselperdn.html
 name: El Perdon (Forgiveness)
 rankings:
 - end_date: '2015-04-17'
@@ -128,4 +129,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
 ---
+
+
+I know you moved on
+I heard you're doing better without me
+Girl this is drivin' me crazy
+Can't you see what you're doing to me
+
+She let go
+She killed me when she said it was over
+Now I'm in the middle of nowhere
+And got no space to breath
+
+
+I'm missing you baby
+Up all night goin' crazy
+Now my angel can't save me
+Oh no
+
+I'm missing you baby
+Up all night goin' crazy
+Drinking my pain away-ehh-hey
+
+
+Girl I'm not with you, you're not with me
+And I don't like the way it feels
+Esto no me gusta
+Esto no me gusta
+
+Girl I'm not with you, you're not with me
+And I don't like the way this feels
+Esto no me gusta
+Esto no me gusta
+
+
+Can't take the pain, can't take the hurt
+I wish that I could turn back time and say 'I Love You'
+I'd do anything to make it work
+
+'Cause even through the times they try to hate on us
+The only thing that mattered to me was our love
+Never will I stop, I'll never get enough
+
+
+I'm missing you baby
+Up all night goin' crazy
+Now my angel can't save me
+Oh no
+
+I'm missing you baby
+Up all night goin' crazy
+Drinking my pain away-ehh-hey
+
+
+Girl I'm not with you, you're not with me
+And I don't like the way it feels
+Esto no me gusta
+Esto no me gusta
+
+Girl I'm not with you, you're not with me
+And I don't like the way this feels
+Esto no me gusta
+Esto no me gusta
+
+
+I know they say that you're moving on
+But I'm begging you please don't go
+No I don't wanna let you go
+Oh no
+
+Yeah you know that I want you back
+Baby I love you to the max
+From here to the moon and back
+
+
+Girl I'm not with you, you're not with me
+And I don't like the way this feels
+Esto no me gusta
+Esto no me gusta
+
+Girl I'm not with you, you're not with me
+And I don't like the way it feels
+Esto no me gusta-ahh 
+Oh yeah, oh no
+
+(TÃº sin mÃ­)
+Dicen que uno no sabe lo que tiene hasta que lo pierde pero...
+(Yo sin ti)
+Vale la pena luchar por lo que uno quiere
+(No puedo vivir asÃ­)
+Y hacer el intento
+(No quiero vivir asÃ­)
+N.I.C.K.
+Nicky Jam, Enrique Iglesias
+(No quiero que me dejes por favor)
+Haciendo Historia
+Saga Whiteblack
+(Y te pido perdÃ³n)
+
+
 

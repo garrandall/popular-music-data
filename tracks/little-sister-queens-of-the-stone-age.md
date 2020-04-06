@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-sister-queens-of-the-stone-age
+lyrics_url: https://www.azlyrics.com/lyrics/queensofthestoneage/littlesister.html
 name: Little Sister
 rankings:
 - end_date: '2005-02-18'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
 ---
+
+Hey, sister, why you all alone?
+I'm standing out your window
+Hey, little sister, can I come inside, dear?
+
+I wanna show you all my love
+I wanna be the only one
+I know you like nobody ever, baby
+
+
+Little sister, can't you find another way?
+No more living life behind a shadow
+
+You whisper secrets in my ear
+Slowly dancing cheek to cheek
+It's such a sweet thing when you open up, baby
+They say I'll only do you wrong
+We come together 'cause I understand
+Just who you really are, baby
+
+
+Little sister, can't you find another way?
+No more living life behind a shadow
+
+
 

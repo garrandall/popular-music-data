@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-beat-hit--em-lisa-lisa-and-cult-jam
+lyrics_url: https://www.azlyrics.com/lyrics/lisalisacultjam/letthebeathitem.html
 name: Let The Beat Hit 'Em
 rankings:
 - end_date: '1991-06-28'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
 ---
+
+In order to play with this record
+You must tune your bass to up
+Look out
+One, two, three, four, hit it
+
+Rock the house, y'all
+
+Let the beat hit 'em
+Let the music take control
+The beat goes round and round
+And up and down and let the beat hit em
+Got to learn to let go, go, go, go
+Go, go, go, go, go, all right
+
+Get away me fun
+Rock the house, y'all
+
+It's time to move, it's time to move
+He, he, he, hey, yeah, he, he, hey, yeah
+
+The beat goes round and round
+And up and down and let the beat hit em
+Got to learn to let go, go, go, go
+Go, go, go, go, go
+
+Keep movin' and round
+And up and down and let the beat hit em
+Got to learn to let go, go, go, go
+Go, go, go, go, go
+
+There's enough
+What will the people say?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-id-pearl-jam
+lyrics_url: https://www.azlyrics.com/lyrics/pearljam/igotid.html
 name: I Got Id
 rankings:
 - end_date: '1995-12-29'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
 ---
+
+My lips are shaking, my nails are bit off
+Been a month since I heard myself talk
+All the advantage this life's got on me
+Picture a cup in the middle of the sea
+
+And I fight back in my mind
+Never lets me be right
+I got memories, I got shit
+So much it don't show
+
+I walked the line
+When you held me in that night
+I walked the line
+When you held my hand that night
+
+An empty shell seems so easy to crack
+Got all these questions don't know who I could even ask
+So I'll just lie alone and wait for the dream
+Where I'm not ugly and you're looking at me
+
+And I'll stay in a bed
+Oh, blue eyes, I've seen them
+If just once I could feel loved
+Oh, stare back at me 
+
+But I walked the line
+When you held me in that night
+I walked the line
+When you held my hand that night
+I walked the line
+When you held me close that night
+I paid the price
+Never held you in real life
+
+My lips are shaking
+
+
 

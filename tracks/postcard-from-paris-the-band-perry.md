@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: postcard-from-paris-the-band-perry
+lyrics_url: https://www.azlyrics.com/lyrics/bandperry/postcardfromparis.html
 name: Postcard From Paris
 rankings:
 - end_date: '2012-05-25'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
 ---
+
+I remember when my heart caught the fever.
+You were standing all alone in the summer heat.
+I was with my boyfriend, my new boyfriend;
+He was as sweet as he could be.
+But one look at you and I was through
+My heart switched up on me.
+
+Like a postcard from Paris when I've seen the real thing.
+It's like finding out your diamond is from her old promise ring.
+A call back from your fortune teller, she read your cards upside down.
+The meanest thing you ever did is come around
+And now, I'm ruined.
+
+In the evening you can catch me daydreaming.
+Did that moment send you reeling just like me?
+I should have gone over, right over.
+I should have never let you leave.
+But it's the never-knowing that keeps this going and drives me crazy.
+
+Like a postcard from Paris when I've seen the real thing.
+It's like finding out your diamond is from her old promise ring.
+A call back from your fortune teller she read your cards upside down.
+The meanest thing you ever did is come around.
+
+Just when I thought things were alright,
+My eyes play tricks on my mind, yeah.
+Will I ever be satisfied cause all I ever seem to find is a...
+
+Postcard from Paris, when I need the real thing.
+It's like finding out your diamond is from an old promise ring.
+A call back from your fortune teller she read your cards upside down.
+The meanest thing you ever did, the cruelest thing you ever did,
+The meanest thing you ever did is come around.
+
+I am ruined, yeah I'm ruined.
+Now I am ruined, yeah I'm ruined
+
+
 

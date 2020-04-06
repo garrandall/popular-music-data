@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shiny-happy-people-r-e-m-
+lyrics_url: https://www.azlyrics.com/lyrics/rem/shinyhappypeople.html
 name: Shiny Happy People
 rankings:
 - end_date: '1991-08-02'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
 ---
+
+Shiny happy people laughing
+
+Meet me in the crowd, people, people
+Throw your love around, love me, love me
+Take it into town, happy, happy
+Put it in the ground where the flowers grow 
+Gold and silver shine
+
+Shiny happy people holding hands
+Shiny happy people holding hands
+Shiny happy people laughing 
+
+Everyone around, love them, love them
+Put it in your hands, take it, take it
+There's no time to cry, happy, happy
+Put it in your heart where tomorrow shines
+Gold and silver shine
+
+Shiny happy people holding hands
+Shiny happy people holding hands
+Shiny happy people laughing 
+
+Whoa, here we go
+
+Shiny happy people holding hands
+Shiny happy people holding hands
+Shiny happy people laughing
+
+Shiny happy people holding hands
+Shiny happy people holding hands
+Shiny happy people laughing
+
+Shiny happy people holding hands
+Shiny happy people holding hands
+Shiny happy people laughing
+
+Shiny happy people holding hands
+People, happy people
+People
+
+
 

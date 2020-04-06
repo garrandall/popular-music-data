@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-clean-hilary-duff
+lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/comeclean.html
 name: Come Clean
 rankings:
 - end_date: '2004-03-05'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
 ---
+
+Let's go back, back to the beginning
+Back to when the earth, the sun, the stars all aligned
+
+'Cause perfect didn't feel so perfect
+Trying to fit a square into a circle was no life
+I defy
+
+Let the rain fall down and wake my dreams
+Let it wash away my sanity
+'Cause I wanna feel the thunder, I wanna scream
+Let the rain fall down
+I'm coming clean
+I'm coming clean
+
+I'm shedding, shedding every color
+Trying to find a pigment of truth beneath my skin
+'Cause different doesn't feel so different
+And going out is better than always staying in
+Feel the wind
+
+Let the rain fall down and wake my dreams
+Let it wash away my sanity
+'Cause I wanna feel the thunder, I wanna scream
+Let the rain fall down
+I'm coming clean
+I'm coming clean
+
+I'm coming clean
+Let the rain fall, let the rain fall
+I'm coming
+
+Let the rain fall down and wake my dreams
+Let it wash away my sanity
+'Cause I wanna feel the thunder, I wanna scream
+Let the rain fall down
+I'm coming clean
+I'm coming clean
+I'm coming clean
+Let the rain fall, let the rain fall, let the rain fall
+I'm coming clean
+
+Let's go back, back to the beginning
+
+
 

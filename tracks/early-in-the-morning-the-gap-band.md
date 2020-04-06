@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: early-in-the-morning-the-gap-band
+lyrics_url: https://www.azlyrics.com/lyrics/gapband/earlyinthemorning.html
 name: Early In The Morning
 rankings:
 - end_date: '1982-05-28'
@@ -63,4 +64,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
 ---
+
+Oh, I never, you know I loved you till you left me
+Oh, I never, you know I cared till you were gone
+I was young and foolish, I didn't know what I was doin'
+I didn't know I lost you till you're gone
+Oh, I never, knew I loved you till you were gone
+
+So I gotta get up early in the morning
+To find me another lover
+So I gotta get up early in the morning
+To find me another lover
+
+So I gotta get up early in the morning
+To find me another lover
+Gotta get up early in the morning
+To find me another lover
+
+Now I gotta get up early every morning
+'Cause the early bird always catches the worm
+Now I gotta get up every morning
+Gotta make up for the lesson I've learned
+Gotta find me a lover that won't run for cover
+Gotta find me a lover that won't run the mother
+
+'Cause I gotta get up early in the morning
+To find me another lover
+So I gotta get up early in the morning
+To find me another lover
+
+So I gotta get up early in the morning
+To find me another lover
+So I gotta get up early in the morning
+To find me another lover
+
+I was young and foolish, I didn't know what I was doin'
+I didn't know I lost you till you're gone
+She had a pretty face that drove me wild
+I even wanted her to have my child
+
+Early in the morning
+To find me another lover
+So I gotta get up early in the morning
+To find me another lover
+
+So I gotta get up early in the morning
+To find me another lover
+So I gotta get up early in the morning
+To find me another lover
+
+(Team say it)
+Gotta find me another lover
+Gotta find me another lover
+Gotta find me another lover
+Gotta find me another lover
+
+(Ladies just sing it one time, sing ladies)
+Gotta find me another lover
+Gotta find me another lover
+Gotta find me another lover
+Gotta find me another lover
+
+Early in the mornin'
+In the middle of the day, baby
+Late at night, mama
+Everything gonna be all right
+
+Early in the mornin'
+In the middle of the day, baby
+Late at night, baby
+Everything will be all right
+
+Early in the mornin'
+In the middle of the day, baby
+Late at night, baby
+Everything will be all right
+
+Early in the mornin', baby
+In the middle of the day, baby
+Late at night, mama
+Everything will gonna be all right, yeah
+
+Early in the mornin', baby
+In the middle of the day, baby
+Late at night, mama
+Everything will gonna be all right
+
+
 

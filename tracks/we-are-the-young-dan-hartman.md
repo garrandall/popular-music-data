@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-are-the-young-dan-hartman
+lyrics_url: https://www.azlyrics.com/lyrics/danhartman/wearetheyoung.html
 name: We Are The Young
 rankings:
 - end_date: '1984-10-12'
@@ -75,4 +76,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
 ---
+
+We're the ones with the runaway eyes
+We're the ones who can improvise
+Give us room in a hot situation
+We believe in positive stimulation
+
+(We are the young)
+We are the young, with the modern attitude
+Breaking down the walls, breaking all the rules
+(We are the young)
+Tomorrow comes and we might go away
+So we don't worry about the price we pay
+We are the young, (oh), we are the young
+(We are the young), yeah
+
+Every street is an arcade of dreams, oh
+I found downtown exploding at the seam, ooh
+With lights and sounds and the soul parade
+Light and blue color promenade
+
+(We are the young)
+We are the young, with the modern attitude
+Breaking down the walls, breaking all the rules
+(We are the young)
+Tomorrow comes and we might go away
+So we don't worry about the price we pay
+
+Another way to take control
+A brand new day to rock and roll
+
+(We are the young)
+We are the young (we are the young)
+
+Another way to gain control
+When you need to rock and roll
+
+(We are the young)
+We are the young, with the modern attitude
+Breaking down the walls, breaking all the rules
+(We are the young)
+Tomorrow comes and we might go away
+So we don't worry about the price we pay
+
+(We are the young)
+We are the young, with the modern attitude
+Breaking down the walls, breaking all the rules
+(We are the young)
+We are the young
+We are the young
+We are the young
+
+We are the young (we are the young)
+Young, young, young (we are the young)
+Young, young, oh (we are the young)
+
+
 

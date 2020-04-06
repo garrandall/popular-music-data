@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summertime-blues-eddie-cochran
+lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/summertimeblues.html
 name: Summertime Blues
 rankings:
 - end_date: '1958-08-10'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
+
+Well I'm gonna raise a fuss
+And I'm gonna raise a holler
+About workin' all summer
+Just tryin' to earn a dollar
+Well, I went to my boss
+That governs me
+He said "No, dice, bud
+You gotta work late!"
+
+Sometime I wonder
+What I'm ever gonnna do
+Well there ain't no cure
+For the summertime blues
+
+Well, my mom and papa told me
+Now you better earn some money
+If one of you is gonna go
+Ridin' next Sunday
+Well, I didn't go to work
+I told my boss I was sick
+He said, "You can't use the car
+'Cause you didn't work a lick"
+
+Sometime I wonder
+What I'm ever gonnna do
+Well there ain't no cure
+For the summertime blues
+
+Gonna save two weeks
+Gonna have a fine vacation
+Gonna take my problem
+To the United Nations
+Well, I went to my Congressman
+He sent me back a note
+It said, "I'd like to help you, hon
+But you're too young to vote"
+
+Sometime I wonder
+What I'm ever gonnna do
+Now there ain't no cure
+For the summertime blues
+
+Now there ain't no cure
+For the summertime blues
+
+Now there ain't no cure
+For the summertime blues
+
+
 

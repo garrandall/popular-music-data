@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seven-wonders-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/sevenwonders.html
 name: Seven Wonders
 rankings:
 - end_date: '1987-06-26'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
 ---
+
+So long ago
+Certain place
+Certain time
+You touched my hand
+All the way
+All the way down to Emmaline
+
+But if our paths never cross
+Well you know I'm sorry but
+
+If I live to see the seven wonders
+I'll make a path to the rainbow's end
+I'll never live to match the beauty again
+The rainbow's end
+
+So it's hard to find
+Someone with that kind of intensity
+You touched my hand, I played it cool
+And you reached out your hand to me
+
+But if our paths never cross
+Well you know I'm sorry but
+
+If I live to see the seven wonders
+I'll make a path to the rainbow's end
+I'll never live to match the beauty again
+The rainbow's end
+
+So long ago
+It's a certain time
+It's a certain place
+You touched my hand and you smiled
+All the way back you held out your hand
+
+If I hope and if I pray
+Ooh it might work out someday
+
+If I live to see the seven wonders
+I'll make a path to the rainbow's end
+I'll never live to match the beauty again
+The rainbow's end
+
+If I live to see the seven wonders
+I'll make a path to the rainbow's end
+I'll never live to match the beauty again
+
+If I live to see the seven wonders
+I'll make a path to the rainbow's end
+I'll never live to match the beauty again
+
+
 

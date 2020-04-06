@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: voices-carry--til-tuesday
+lyrics_url: https://www.azlyrics.com/lyrics/clickfive/voicescarry.html
 name: Voices Carry
 rankings:
 - end_date: '1985-04-19'
@@ -91,4 +92,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
 ---
+
+In the dark I like to read her mind
+But I'm frightened of the things I might find
+Oh there must be something she's thinking of to tear her away
+When I tell her that I'm falling in love, why does she say
+
+Hush hush, keep it down now, voices carry
+Hush hush, keep it down now, voices carry, ohh
+
+I try so hard not to get upset
+Because all the trouble I'll get
+Oh she tells me tears are something to hide and something to fear
+And I try so hard to keep it inside so no one can hear
+
+Hush hush, keep it down now, voices carry
+Hush hush, keep it down now, voices carry
+Hush hush, keep it down now, voices carry, ohh
+
+She wants me
+But only part of the time
+She wants me 
+If she can keep me in line
+
+Keep it down now, voices carry
+Hush hush, keep it down now, voices carry
+Ohhhh hush, she says, shut up, she says, shut up
+Oh why can't you just keep it down
+Voices carry
+Hush hush, she might overhear
+Hush hush, voices carry
+Hush hush, keep it down now, voices carry
+Hush hush, keep it down now, voices carry
+
+
 

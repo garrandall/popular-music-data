@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-ya-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/doya.html
 name: Do Ya
 rankings:
 - end_date: '1977-02-11'
@@ -55,4 +56,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
 ---
+
+In this life I've seen everything I can see woman,
+I've seen lovers flying through the air hand in hand
+I've seen babies dancing in the midnight sun,
+And I've seen dreams that came from the heavenly skies above
+I've seen old men crying at their own grave sides
+And I've seen pigs all sitting watching, picture slides
+But I never seen nothing like you.
+
+
+Do ya do ya want my love
+Do ya do ya want my face
+Do ya do ya want my mind
+Do ya do ya want my love
+
+Well I, heard the crowd singin' out of tune,
+As they, sat and sang Auld Lang Syne by the light of the moon
+I heard the preachers bangin' on the drums,
+And I heard the police playin' with their guns
+But I never heard nothin' like you.
+
+In the country where the sky touches down
+On the field, she lay her down to rest
+In the morning sun,
+They come a'runnin' just to get a look, just to
+Feel to touch her long black hair they don't give a damn
+
+
+
+Well I think you know what I'm trying to say woman,
+That is I'd like to save you for a rainy day,
+I've seen enough of the world to know,
+That I've got to get it all to get it all to grow.
+
+
+
+
 

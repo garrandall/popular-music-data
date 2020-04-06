@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-tickle-your-fancy-jermaine-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/letmetickleyourfancy.html
 name: Let Me Tickle Your Fancy
 rankings:
 - end_date: '1982-07-30'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
 ---
+
+Like the sun, I rise and shine
+With last night on my mind
+It's so hard to concentrate
+Till our love we recreate
+
+Let me tickle your fancy
+Let me excite your soul
+Let me tickle your fancy
+Let me excite your soul
+
+When I think about us
+I get all keyed up
+And the tantalizing touch
+That I love
+
+Honey words cannot express
+The sensation that I get
+It's a quiverin tremblin feelin'
+Make me wiggle
+It makes me shake
+When I think about us
+I get all keyed up
+And the tantalizing touch
+That I love
+
+It's gettin' late
+And I can't wait
+To relieve that love we made
+I got an itchin in my heart
+You control that vital part
+(Let me) tantalizing tickle
+Keyed up for touch (good God)
+C'mon let me tickle your fancy
+Let me excite your soul
+
+
 

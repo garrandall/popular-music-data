@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mixed-emotions-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/mixedemotions.html
 name: Mixed Emotions
 rankings:
 - end_date: '1989-09-08'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
 ---
+
+Button your lip baby
+Button your coat
+Let's go out dancing
+Go for the throat
+Let's bury the hatchet
+Wipe out the past
+Mae love together
+Stay on the path
+You're not the only one
+With mixed emotions
+You're not the only ship
+Adrift on this ocean
+This coming and going
+Is driving me nuts
+This to-ing and fro-ing
+Is hurting my guts
+So get off the fence
+It's creasing your butt
+Life is a party
+Let's get out and strut
+You're not the only one
+That's feeling lonesome
+You're not the only one
+With mixed emotions
+You're not the only one
+You're not the only one
+You're not the only one
+You're not the only one
+Let's grab the world
+By the scruff of the neck
+And drink it down deeply
+Let's love it to death
+So button your lip
+And button your coat
+Let's go out dancing
+Let's rock 'n' roll
+You're not the only one
+With mixed emotions
+You're not the only ship
+Adrift on this ocean
+You're not the only one
+That's feeling lonesome
+You're not the only one
+With mixed emotions
+
+
 

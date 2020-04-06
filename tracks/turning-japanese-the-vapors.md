@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turning-japanese-the-vapors
+lyrics_url: https://www.azlyrics.com/lyrics/nouseforaname/turningjapanese.html
 name: Turning Japanese
 rankings:
 - end_date: '1980-10-03'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+
+I got your picture of me and you
+You wrote "I love you" I love you too
+I sit there staring and there's nothing else to do 
+Oh it's in color 
+Your hair is brown 
+Your eyes are hazel 
+And soft as clouds 
+I often kiss you when there's no one else around
+
+I've got your picture, I've got your picture 
+I'd like a million of you over myself 
+I asked the doctor to take your picture 
+So I can look at you from inside as well 
+You've got me turning up and turning down 
+and turning in and turning 'round 
+
+I'm turning Japanese 
+I think I'm turning Japanese 
+I really think so 
+
+I've got your picture, I've got your picture 
+I'd like a million of you over myself 
+I asked the doctor to take your picture 
+So I can look at you from inside as well 
+You've got me turning up and turning down 
+and turning in and turning 'round 
+
+I'm turning Japanese 
+I think I'm turning Japanese 
+I really think so
+
+No sex, no drugs, no wine, no women 
+No fun, no sin, no you, no wonder it's dark 
+Everyone around me is a total stranger 
+Everyone avoids me like a psyched lone-ranger 
+Everyone 
+
+
+That's why I'm turning Japanese 
+I think I'm turning Japanese 
+I really think so 
+
+I'm turning Japanese 
+I think I'm turning Japanese 
+I really think so
+
+
 

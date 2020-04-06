@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-good-times-roll-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/letthegoodtimesroll.html
 name: Let The Good Times Roll
 rankings:
 - end_date: '1960-01-17'
@@ -19,4 +20,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
+
+Hey everybody, let's have fun
+You only live but once and when you're dead you're done
+You better let the good time roll, baby, oh, let's get it own mama
+And I don't care if you're old now
+Get yourself together and let the good time roll
+
+Don't sit there mumbling, talkin' trash
+If you want to have a ball you got to go out, spend some cash
+L-l-let the good times roll, babe, oh baby, oh baby
+And I don't care if you're old now, get together and let the good time roll
+
+Hey y'all tell everybody, Ray Charles' in town
+Got a dollar and a quarter and I'm just ringing the clock now
+Don't let nobody, play me cheap
+I got fifty cents more than I'm gonna keep
+
+I'm gonna let the good times roll now, oh baby, oh baby
+And I don't care if you're old now, get together and let the good time roll
+
+Hey no matter whether, rainy weather
+If you want to have a ball you got to get yourself together
+Oh, get yourself under control
+Ohh, yeah, oh
+
+
 

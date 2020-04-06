@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-some-lovin--the-spencer-davis-group
+lyrics_url: https://www.azlyrics.com/lyrics/spencerdavisgroup/feelyourway.html
 name: Gimme Some Lovin'
 rankings:
 - end_date: '1967-01-06'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
 ---
+
+C'mon baby, won't you stay - gimme love in every way
+Things I feel, gotta say, keep us talkin', talkin' everyday
+I got so many reasons
+It would take a year and twenty days
+
+Goin' out to buy some gin - it ain't right, the mood you're in
+Lights down low, sounds from low, work it out but not too, not too slow
+'Cause things are happening to me babe
+Make some fun and make it your way
+
+C'mon baby, won't you feed me - don't you leave me, give me lovin' everyday
+Things I feel, gotta say, keep us talkin', talkin' everyday
+We've got so many reasons
+While others make this way
+
+C'mon baby, won't you stay - gimme love in every way
+Things I feel, gotta say, keep us talkin' everyday
+We got so many reasons
+It would take a year and twenty days
+
+C'mon babe
+C'mon babe
+
+
 

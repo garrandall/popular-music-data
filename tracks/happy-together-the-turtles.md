@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-together-the-turtles
+lyrics_url: https://www.azlyrics.com/lyrics/neilyoung/happytogether.html
 name: Happy Together
 rankings:
 - end_date: '1967-02-17'
@@ -67,4 +68,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
 ---
+
+No matter how they toss the dice, it had to be
+The only one for me is you, and you for me
+So happy together
+
+I can't see me lovin' nobody but you
+
+
 

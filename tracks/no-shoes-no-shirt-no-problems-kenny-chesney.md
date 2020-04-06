@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-shoes-no-shirt-no-problems-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/noshoesnoshirtnoproblems.html
 name: No Shoes No Shirt No Problems
 rankings:
 - end_date: '2003-07-04'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
 ---
+
+I've been up to my neck workin' 6 days a week
+wearin' holes in the soles of the shoes on my feet
+been dreamin' of gettin' away since I don't know
+Ain't no better time than now..for mexico
+
+No shoes, No shirt, No problems
+Blues what blues..hey I forgot them
+The sun and the sand and a drink in my hand with no bottom 
+and no shoes, no shirt, and no problems!
+No problems 
+
+Want a towel on a chair in the sand by the sea
+want to look thru my shades and see you there with me
+Want to soak up life for a while
+In laid back mode
+No boss, no clock, no stress, no dress code 
+
+No shoes, no shirt, no problems 
+Blues what blues hey I forgot them
+The sun and the sand and a drink in my hand with no bottom
+and no shoes, no shirt, and no problems
+
+Babe lets get packed..tank tops and flip flops if you got them
+No shoes, no shirt, no problems
+No problems.
+
+
 

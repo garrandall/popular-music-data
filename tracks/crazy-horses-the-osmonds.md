@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-horses-the-osmonds
+lyrics_url: https://www.azlyrics.com/lyrics/prettymaids/crazyhorses.html
 name: Crazy Horses
 rankings:
 - end_date: '1972-10-27'
@@ -55,4 +56,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
 ---
+
+There's a message floatin' in the air
+Come from crazy horses ridin' everywhere
+It's a warning, it's in every tongue
+Gotta stop them crazy horses on the run
+
+What a show, there they go smokin' up the sky yeah
+Crazy horses all got riders, and they're you and I
+
+Crazy horses
+Crazy horses
+
+Never stop and they never die
+They just keep on puffin' how they multiply
+Crazy horses, will they never halt
+If they keep on movin' then it's all our fault
+
+What a show, there they go smokin' up the sky yeah
+Crazy horses all got riders, and they're you and I
+
+Crazy horses
+Crazy horses
+
+So take a good look around
+See what they've done
+What they've done
+They've done
+They've done
+They've done
+They've done...
+
+Crazy horses
+Crazy horses
+
+There's a message floatin' in the air
+Come from crazy horses ridin' everywhere
+It's a warning, it's in every tongue
+Gotta stop them crazy horses on the run
+
+What a show, there they go smokin' up the sky yeah
+Crazy horses all got riders, and they're you and I
+
+Crazy horses
+Crazy horses
+
+Crazy horses
+Crazy horses
+
+
 

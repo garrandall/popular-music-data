@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bones-maren-morris
+lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/thebones.html
 name: The Bones
 rankings:
 - end_date: '2019-09-20'
@@ -107,4 +108,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+We're in the homestretch of the hard times
+We took a hard left, but we're alright
+Yeah, life sure can try to put love through it, but
+We built this right, so nothing's ever gonna move it
+
+When the bones are good, the rest don't matter
+Yeah, the paint could peel, the glass could shatter
+Let it rain 'cause you and I remain the same
+When there ain't a crack in the foundation
+Baby, I know any storm we're facing
+Will blow right over while we stay put
+The house don't fall when the bones are good
+
+Call it dumb luck, but baby, you and I
+Can't even mess it up, although we both try
+No, it don't always go the way we planned it
+But the wolves came and went and we're still standing
+
+When the bones are good, the rest don't matter
+Yeah, the paint could peel, the glass could shatter
+Let it rain 'cause you and I remain the same
+When there ain't a crack in the foundation
+Baby, I know any storm we're facing
+Will blow right over while we stay put
+The house don't fall when the bones are good
+When the bones are good
+
+Bones are good, the rest, the rest don't matter (Baby, it don't really matter)
+Paint could peel, the glass could shatter (Oh, the glass, oh, the glass could shatter)
+Bones are good, the rest, the rest don't matter (Ooh)
+Paint could peel, the glass, the glass could shatter (Yeah)
+
+When the bones are good, the rest don't matter
+Yeah, the paint could peel, the glass could shatter
+Let it rain (Let it rain, let it rain)
+'Cause you and I remain the same (Woo)
+When there ain't a crack in the foundation (Woo)
+Baby, I know any storm we're facing
+Will blow right over while we stay put
+The house don't fall when the bones are good
+
+Yeah, ooh
+
+
 

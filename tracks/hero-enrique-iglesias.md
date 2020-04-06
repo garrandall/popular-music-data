@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hero-enrique-iglesias
+lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/hero.html
 name: Hero
 rankings:
 - end_date: '2001-10-05'
@@ -143,4 +144,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
 ---
+
+Let me be your hero
+
+Would you dance if I asked you to dance?
+Would you run and never look back?
+Would you cry if you saw me crying?
+Would you save my soul tonight?
+
+Would you tremble if I touched your lips?
+Would you laugh? Oh, please tell me this.
+Now would you die for the one you love?
+Hold me in your arms, tonight.
+
+I can be your hero, baby.
+I can kiss away the pain.
+I will stand by you forever.
+You can take my breath away.
+
+Would you swear that you'll always be mine?
+Would you lie? Would you run and hide?
+Am I in too deep? Have I lost my mind?
+I don't care. You're here tonight.
+
+I can be your hero, baby.
+I can kiss away the pain.
+I will stand by you forever.
+You can take my breath away.
+
+Oh, I just want to hold you.
+I just want to hold you, oh, yeah.
+
+Am I in too deep? Have I lost my mind?
+Well, I don't care. You're here tonight.
+
+I can be your hero, baby.
+I can kiss away the pain, oh, yeah.
+I will stand by you forever.
+You can take my breath away.
+
+(I can be your hero, baby)
+I can be your hero.
+I can kiss away the pain.
+And I will stand by you forever.
+You can take my breath away.
+You can take my breath away.
+
+I can be your hero.
+
+
 

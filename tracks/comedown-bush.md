@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: comedown-bush
+lyrics_url: https://www.azlyrics.com/lyrics/bush/comedown.html
 name: Comedown
 rankings:
 - end_date: '1995-09-08'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-13'
 ---
+
+Love and hate get it wrong
+She cut me right back down to size
+Sleep the day
+Let it fade
+Who was there to take your place
+
+No one knows never will
+Mostly me but mostly you
+What do you say
+Do you do when it all comes down
+
+'Cause I don't wanna come back down from this cloud
+It's taken me all this time to find out what I need
+I don't wanna come back down from this cloud
+It's taken me all this all this time
+
+There is no blame
+Only shame
+When you beg you just complain
+The more I come the more I try
+All police are paranoid
+
+So am I
+So's the future
+So are you
+Be a creature
+What do you say
+Do you do when it all comes down
+
+'Cause I don't wanna come back down from this cloud
+It's taken me all this time to find out what I need
+I don't wanna come back down from this cloud
+It's taken me all this all this time
+
+Shoot up
+Shoot up
+Shoot up
+You're high
+
+Love and hate get it wrong
+She cut me right back down to size
+Sleep the day
+Let it fade
+Who was there to take your place
+
+No one knows
+Never will
+Mostly me but mostly you
+What do you say
+Do you do when it all comes down
+
+'Cause I don't wanna come back down from this cloud
+It's taken me all this time to find out what I need
+I don't wanna come back down from this cloud
+It's taken me all this all this time
+
+Why did you
+Why did you
+Why did you
+Why did you
+Why did you
+Why did you
+Why did you
+Why did you
+Why did you come down
+I don't wanna come back down from this cloud
+This cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud
+
+
 

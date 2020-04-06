@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: second-hand-rose-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/secondhandrosefrombarbraandothermusicalinstruments.html
 name: Second Hand Rose
 rankings:
 - end_date: '1965-12-24'
@@ -43,4 +44,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
+
+Every one knows
+I'm second hand Rose
+From Second Avenue
+I got rhythm, I got rhythm, I got rhythm
+I got rhythm, I got rhythm, I got rhythm
+I got rhythm, oh... oh...
+
+
 

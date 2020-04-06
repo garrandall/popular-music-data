@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lazy-river-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/lazyriver.html
 name: Lazy River
 rankings:
 - end_date: '1961-02-12'
@@ -47,4 +48,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
 ---
+
+Up a lazy river
+By the old mill run
+Lazy river
+In the noonday sun
+
+Linger awhile
+In the shade of a tree
+Throw away your troubles
+Dream with me
+
+Up a lazy river
+Where the robin's song
+Wakes the mornin' we roll along
+May be blue skies above
+Everyone's in love
+Up a lazy river
+How happy we'll be
+Up a lazy river with me
+
+Up a lazy river
+By the old mill run
+That lazy, lazy river
+In the noonday sun
+
+You can linger for awhile
+In the shade of a tree
+Throw away your troubles, baby
+Dream a dream of me
+
+Up a lazy river
+Where the robin's song
+Wakes a bright new mornin'
+Where we can roll along
+
+There may be blue skies up above
+But, as long as we're in love
+Yeah... we'll be up a lazy river
+How happy we could be
+Up a lazy river with me
+
+From the halfway mark
+
+Yeah... up a lazy river
+Where that robin's song
+Awakes a bright new mornin'
+We can roll along
+
+A-a-a... there are blue skies up above
+And as long as we're in love
+We'll be up a lazy river
+Up a crazy, lazy river
+
+Up a lazy river
+I ain't goin' your way
+Get outta my way
+Up a lazy river with me
+
+
 

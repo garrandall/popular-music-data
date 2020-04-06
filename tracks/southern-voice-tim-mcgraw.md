@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southern-voice-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/southernvoice.html
 name: Southern Voice
 rankings:
 - end_date: '2009-11-13'
@@ -79,4 +80,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
 ---
+
+Hank Williams sang it 
+Number 3 drove it 
+Chuck Berry twanged it 
+Will Faulkner wrote it 
+Aretha Franklin sold it 
+Dolly Parton graced it 
+Rosa Parks rode it 
+Scarlett O chased it 
+
+Smooth as the hickory wind 
+That blows from Memphis 
+Down to Appalachicola 
+It's hi ya'll did ya eat well 
+Come on in I'm 
+Sure glad to know ya 
+Don't let this old gold cross 
+An' this Allman Brothers t-shirt throw ya 
+It's cicadas making noise 
+With the southern voice 
+
+Hank Aaron smacked it 
+Michael Jordan dunked it 
+Pocahantas tracked it 
+Jack Daniels drunk it 
+Tom Petty rocked it 
+Dr. King paved it 
+Bear Bryant won it 
+Billy Graham saved it 
+
+Smooth as the hickory wind 
+That blows from Memphis 
+Down to Appalachicola 
+It's hi ya'll did ya eat well 
+Come on in I'm 
+Sure glad to know ya 
+Don't let this old gold cross 
+An' this Crimson Tide t-shirt throw ya 
+It's cicadas making noise 
+With the southern voice 
+
+Jesus is my friend 
+America is my home 
+Sweet iced tea and Jerry Lee 
+Daytona Beach 
+That's what gets to me 
+I can feel it in my bones 
+
+Smooth as the hickory wind 
+That blows from Memphis 
+Down to Appalachicola 
+It's hi ya'll did ya eat well 
+Come on in child 
+I'm sure glad to know ya 
+Don't let this old gold cross 
+An' this Charlie Daniels t-shirt throw ya 
+We're just boys making noise 
+With the southern voice 
+
+Yeah, yeah, yeah, yeah 
+Southern Voice 
+I got a southern voice 
+A southern voice
+
+
 

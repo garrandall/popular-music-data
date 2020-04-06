@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-all-al-jarreau
+lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/afterall.html
 name: After All
 rankings:
 - end_date: '1984-10-19'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
 ---
+
+There, there was a time I knew
+That no matter, come what may, love 
+Would prevail
+And then inside the dreams I knew
+Came the question lovers fear 
+Can true love fail 
+Then I would miss the childhood wish 
+And haven't I sung to you 
+Of the knight in armor bright 
+Faithful and true to you 
+
+
+Darling, after all
+I will be the one to hold you in my arms 
+After all 
+I will be the one to hold you 
+I will be the one to hold you in my arms 
+In my arms 
+
+I know in my heart and mind
+That no matter, come what may, love will survive
+And love, the author of space and time 
+Keeps the galaxies and each sparrow alive 
+And the love that heals the wound 
+After the war is through 
+Is the knight in armor bright 
+Faithful and true to you 
+
+
+
+
 

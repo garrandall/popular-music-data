@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ice-box-omarion
+lyrics_url: https://www.azlyrics.com/lyrics/omarion/iceboxremix.html
 name: Ice Box
 rankings:
 - end_date: '2006-12-22'
@@ -91,4 +92,119 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
 ---
+
+
+I don't know
+Should I stay
+Should I go
+Yeah, I know
+It's the remix, remix
+
+Yeah
+
+See I'm in this situation
+Think I need a little help
+Let's go
+
+
+When this began, we were friends
+She knew all my business (business)
+All my good, all my bad
+Said that she was with it (now)
+I got memories, this is crazy
+She ain't nothing like that girl I used to know
+Didn't believe she would creep
+Thought we was forever (oh)
+She broke out, I broke down
+& that's just all that left of us (oh)
+Now these memories, they be haunting me
+You ain't feeling me
+My girl's about to go 
+
+
+& I really wanna work this out
+Cause I'm tired of fighting (if that don't work) &
+I really hope she still want me the way I want her (you'll get your feelings hurt)
+I said I really wanna work this out
+Damn girl I'm trying
+Here's the remix (remix)
+
+
+I got this ice box where my heart used to be  but (said)
+I'm so cold, I'm so cold, I'm so cold, I'm so cold (ohh)
+I'm so cold, I'm so cold, I'm so cold
+
+
+
+
+Ha pimping listen 
+Hold up now
+Take your time
+Let me get this right (huh)
+You tripping on what's in front of you
+Cause you're looking behind you (yeah but I mean)
+You got memories (but)
+Take it from me (cause)
+She ain't nothing like oh girl you used to know
+If shawty's doing right by you
+Maybe you should let it go
+At the end of the day,
+It ain't worth it
+Wanna know how I know (how you know)
+Remember confessions
+So you already know that it's gonna hurt
+Shawty, learn your lesson
+You don't really wanna feel the burn 
+
+No, listen
+
+
+If you really wanna work it out
+Then stop denying (denying)
+Quit living in the past of time
+You face the truth (truth)
+If it's ever gonna work out
+You gotta stop lying
+Stop blaming her when it's you, that's
+
+
+Got the ice box where your heart used to be
+Got a ice box where your heart used to be
+
+
+I'm so cold I'm so cold I'm so cold I'm so cold (ohh)
+I'm so cold I'm so cold I'm so cold 
+
+ Boy you gotta ice box 
+
+
+
+
+I don't wanna be stuck off in this cold cold world
+Don't wanna mess this up
+Better keep your eye on me, girl 
+
+
+Leave the past in the past
+Gotta let it go (say bra)
+You gotta know when to move on (say bra)
+You gotta know when to let go (yes sir)
+Don't lose ya lady
+
+
+
+
+
+
+This is the remix
+This is the remix
+Go ahead replay it
+This is the remix 
+
+
+Omarion
+Girl, I really wanna work this out
+Cause I'm tired of fighting
+
+
 

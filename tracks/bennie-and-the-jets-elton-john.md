@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bennie-and-the-jets-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/taronegerton/bennieandthejetsinterlude.html
 name: Bennie And The Jets
 rankings:
 - end_date: '1974-02-22'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+
+Hey kids, shake it loose together
+The spotlight's hitting something
+That's been known to change the weather
+We'll kill the fatted calf tonight, so stick around
+You're gonna hear electric music, solid walls of sound
+
+Oh, Candy and Ronnie, have you seen them yet?
+Oh, but they're so spaced out
+B-B-B-B-B-Bennie and the Jets
+Oh, but they're weird and they're wonderful
+Oh, Bennie, she's really keen
+She's got electric boots, a mohair suit
+You know I read it in a magazine, oh
+B-B-B-Bennie and the Jets
+
+Bennie (Bennie), Bennie (Bennie)
+Bennie, Bennie, Bennie, Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie, Bennie, Bennie, Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie, Bennie, Bennie, Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie (Bennie), Bennie, Bennie, Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie, Bennie, Bennie, Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie (Bennie), Bennie and the Jets
+Bennie (Bennie), Bennie (Bennie)
+Bennie, Bennie, Bennie, Bennie and the Jets, Jets
+
+
 

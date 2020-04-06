@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unwritten-natasha-bedingfield
+lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/unwritten.html
 name: Unwritten
 rankings:
 - end_date: '2005-12-16'
@@ -175,4 +176,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
 ---
+
+I am unwritten, can't read my mind
+I'm undefined
+I'm just beginning, the pen's in my hand
+Ending unplanned
+
+Staring at the blank page before you
+Open up the dirty window
+Let the sun illuminate the words that you could not find
+
+Reaching for something in the distance
+So close you can almost taste it
+Release your inhibitions
+
+Feel the rain on your skin
+No one else can feel it for you
+Only you can let it in
+No one else, no one else
+Can speak the words on your lips
+Drench yourself in words unspoken
+Live your life with arms wide open
+Today is where your book begins
+
+The rest is still unwritten
+
+I break tradition, sometimes my tries
+Are outside the line
+We've been conditioned to not make mistakes
+But I can't live that way
+
+Staring at the blank page before you
+Open up the dirty window
+Let the sun illuminate the words that you could not find
+
+Reaching for something in the distance
+So close you can almost taste it
+Release your inhibitions
+
+Feel the rain on your skin
+No one else can feel it for you
+Only you can let it in
+No one else, no one else
+Can speak the words on your lips
+Drench yourself in words unspoken
+Live your life with arms wide open
+Today is where your book begins
+
+Feel the rain on your skin
+No one else can feel it for you
+Only you can let it in
+No one else, no one else
+Can speak the words on your lips
+Drench yourself in words unspoken
+Live your life with arms wide open
+Today is where your book begins
+
+The rest is still unwritten
+
+Staring at the blank page before you
+Open up the dirty window
+Let the sun illuminate the words that you could not find
+
+Reaching for something in the distance
+So close you can almost taste it
+Release your inhibitions
+
+Feel the rain on your skin
+No one else can feel it for you
+Only you can let it in
+No one else, no one else
+Can speak the words on your lips
+Drench yourself in words unspoken
+Live your life with arms wide open
+Today is where your book begins
+
+Feel the rain on your skin
+No one else can feel it for you
+Only you can let it in
+No one else, no one else
+Can speak the words on your lips
+Drench yourself in words unspoken
+Live your life with arms wide open
+Today is where your book begins
+
+The rest is still unwritten
+The rest is still unwritten
+The rest is still unwritten
+
+
 

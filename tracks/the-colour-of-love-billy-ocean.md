@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-colour-of-love-billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/thecolouroflove.html
 name: The Colour Of Love
 rankings:
 - end_date: '1988-06-03'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
 ---
+
+If I had to paint a picture
+To show the world how true love can really be
+I would use the brightest colours
+To create a vision of harmony
+
+It would be a reality
+Cause it's only what's inside of my heart
+You would see I've always loved you
+Right from the very start
+
+Tell me what is the colour of love, what do you see
+Is it warm, is it tender when you think of me
+I see the colour of love when I'm thinking of you
+As a picture perfect painting of a love forever true
+
+The colours of the rainbow
+Turn grey whenever you're so far away
+It changes like the seasons
+You're the reason it happens that way
+
+What you see are colours of emotion
+Reflecting what I feel deep inside
+Now I'd like to take a look
+At emotions that you hide
+
+Tell me what is the colour of love, what do you see
+Is it warm, is it tender when you think of me
+I see the colour of love when I'm thinking of you
+As a picture perfect painting of a love forever true
+
+And oh, though many may try to keep us apart
+Oh the colours that I see in you
+Will shine a light to see us through
+No matter what the world will do, I'll always love you
+
+Tell me what is the colour of love, what do you see
+Is it warm, is it tender when you think of me
+I see the colour of love when I'm thinking of you
+As a picture perfect painting of a love forever true
+
+What is the colour of love, oh tell me, tell me
+Oh I wanna know, I wanna know
+I see the colour of love when I'm thinking of you
+As a picture perfect paining of a love forever true
+
+
 

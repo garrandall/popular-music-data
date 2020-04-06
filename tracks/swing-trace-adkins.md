@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swing-trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/swing.html
 name: Swing
 rankings:
 - end_date: '2006-07-14'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
 ---
+
+ take me out to the ball game 
+
+
+
+Swing batter batter Swing batter batter Swing batter batter Swing 
+Swing batter batter Swing batter batter Swing batter batter Swing 
+(Strike one) 
+Hey baby do you do come here often 
+(Strike two) 
+Hey baby now what's your sign 
+(Strike three) 
+Hold on now where you goin' 
+(He is out) 
+Jimmy's out next in line 
+Swing batter batter swing batter batter swing batter batter swing 
+Swing batter batter swing batter batter swing batter batter swing 
+
+
+
+(First Base) 
+Why yes I went to Harvard 
+(SAFE) 
+I majored in pre-med 
+(He's got a big lead) 
+(Picked off) 
+Just stayed for one semester 
+(It could be he's out) 
+Toms out who's next 
+Swing batter batter swing batter batter swing batter batter swing 
+Swing batter batter swing batter batter swing batter batter swing 
+Swing batter batter swing batter batter swing batter batter swing 
+Swing batter batter swing batter batter swing batter batter swing 
+Swing it now 
+
+
+
+Everybody strikes out nine times out of ten 
+But you got to step up to the plate son 'cause every now and then 
+(Fast ball) 
+She walked right up to me 
+(Here's the pitch) 
+Said could I take you home 
+(Theirs a drive) 
+Hey boys I'll see you later 
+(It could be, it...it is!) 
+Goin' goin' goin' gone 
+(Swing batter batter swing batter batter swing batter batter swing) 
+
+
 

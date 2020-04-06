@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: getaway-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/getaway.html
 name: Getaway
 rankings:
 - end_date: '1976-07-23'
@@ -85,4 +86,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
 ---
+
+So you say you tried
+But you just can't find the pleasure
+People around you givin' you pressure
+Try to resist all the hurt that's all
+Around you
+If you taste it, it will haunt you
+
+So come, take me by the hand,
+We'll leave this troubled land
+I know we can, I know we can, I know we can, I know we can
+Getaway
+
+Watch for the signs
+That lead in the right direction
+Not to heed them is a bad reflection
+They'll show you the way
+Into what you have been seeking
+To ignore them you're only cheating
+
+So come, take me by the hand,
+We'll leave this troubled land
+I know we can getaway
+Getaway
+
+Lay awake every night
+Till the sun comes up in the morning
+Nothing exciting, it all seems boring
+Make up your mind which way to go about it
+To your road, you just don't doubt it.
+
+So come, take me by the hand,
+We'll leave this troubled land
+I know we can, I know we can, I know we can, I know we can
+Getaway
+
+
 

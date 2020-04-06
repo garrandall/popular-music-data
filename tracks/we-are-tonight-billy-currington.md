@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-are-tonight-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/wearetonight.html
 name: We Are Tonight
 rankings:
 - end_date: '2014-05-16'
@@ -83,4 +84,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
 ---
+
+Summer comin' through a rolled down window
+Tearin' down an almost two lane back road
+Freedom and fireflies in the air
+
+The night's still young, never gonna get old
+Livin' for today like there's no tomorrow
+Follow the grooves, the tires in the grass
+Stayin' on the gas like we're never comin' back
+
+
+It's a Friday night, it's a small town girl
+Everything is right and we rule the world
+2 twelve's in the truck back, beating
+A bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa
+Everything we wanna be
+We are, we are, we are tonight
+
+Swayin' back-n-forth, can't you feel the music?
+Time stands still, I don't wanna lose it
+Her tan, her touch, her laugh
+Were flyin' so high like we're never gonna crash
+
+
+It's a Friday night, it's a small town girl
+Everything is right and we rule the world
+2 twelve's in the truck back, beating
+A bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa
+Everything we wanna be
+We are, we are, we are tonight
+
+We are tonight, we are tonight
+Toes in the grass with our hands up high
+Dream as big as the midnight sky
+So untamed and we're so alive tonight
+
+
+It's a Friday night, it's a small town girl
+Everything is right and we rule the world
+2 twelve's in the truck back, beating
+A bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa
+Everything we wanna be
+We are, we are, we are tonight
+
+We are tonight
+Everything we wanna be, yeah
+We are, we are, we are tonight
+Yeah
+We are tonight
+Whoa, oh, oh, oh, oh
+
+
 

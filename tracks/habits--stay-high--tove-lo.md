@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: habits--stay-high--tove-lo
+lyrics_url: https://www.azlyrics.com/lyrics/madilynbailey/habitsstayhigh.html
 name: Habits (Stay High)
 rankings:
 - end_date: '2014-06-20'
@@ -163,4 +164,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
 ---
+
+I eat my dinner in my bathtub
+Then I go to dance clubs
+Watching freaky people gettin' it on
+It doesn't make me nervous
+If anything I'm restless
+Yeah, I've been around and I've seen it all
+
+I get home, I got the munchies
+Binge on all my Twinkies
+Throw up in the tub
+Then I go to sleep
+And I drank up all my money
+Dazed and kinda lonely
+
+You're gone and I gotta stay
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+Spend my days locked in a haze
+Trying to forget you babe
+I fall back down
+I gotta stay high all my life
+To forget I'm missing you
+Ooh-ooh, ooh-ooh
+
+I pick up daddies at the playground
+How I spend my daytime
+Loosen up the frown,
+Make them feel alive
+I'm gonna make it fast and greasy
+I'm numb and way too easy
+
+You're gone and I gotta stay
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+Spend my days locked in a haze
+Trying to forget you babe
+I fall back down
+Gotta stay high all my life
+To forget I'm missing you
+Ooh-ooh, ooh-ooh
+
+Staying in my play pretend
+Where the fun ain't got no end
+Can't go home alone again
+Need someone to numb the pain
+
+You're gone and I gotta stay
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+High all the time
+To keep you off my mind
+Ooh-ooh, ooh-ooh
+Spend my days locked in a haze
+Trying to forget you babe
+I fall back down
+I gotta stay high all the time
+To keep you off my mind
+
+Trying to forget you babe
+I fall back down
+Gotta stay high all my life
+To forget I'm missing you
+Ooh-ooh, ooh-ooh
+
+
 

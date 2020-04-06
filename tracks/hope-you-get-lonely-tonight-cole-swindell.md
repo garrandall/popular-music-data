@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hope-you-get-lonely-tonight-cole-swindell
+lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/hopeyougetlonelytonight.html
 name: Hope You Get Lonely Tonight
 rankings:
 - end_date: '2014-07-04'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
 ---
+
+I could go for a tipsy tailgate kiss, 
+baby taste the moonshinin' off of your lips, 
+I want to see that want ya smile, 
+still got me hooked been hooked for awhile. 
+If you got a bottle you ain't opened yet, 
+and an empty spot beside ya in ya bed, 
+if you got some room for a little regret, 
+let me know girl I've already left
+
+If you're feelin' what I'm feelin' let's mix it up, 
+you got my number baby hit me up, 
+if you need a little late night pick me up, 
+I, hope you get lonely tonight, 
+we ain't gotta make up just kiss me, 
+we could straight up blame it on the whiskey, 
+you ain't gotta wake up and miss me, no, 
+I hope you get lonely tonight
+
+I don't care if you're spinnin' in the neon, 
+or burnin' up the sheets with my tee on, 
+either way the thought is turning me on, 
+and I can't shake it girl I'm wide awake, so
+
+If you're feelin' what I'm feelin' let's mix it up, 
+you got my number baby hit me up, 
+if you need a little late night pick me up, 
+I, hope you get lonely tonight, 
+we ain't gotta make up just kiss me, 
+we could straight up blame it on the whiskey, 
+you ain't gotta wake up and miss me, no, 
+I hope you get lonely tonight
+
+Hope you get lonely, 
+Hope you get lonely, 
+Hope you get lonely tonight, 
+Girl
+
+If you're feelin' what I'm feel in' let's mix it up, 
+you got my number baby hit me up, 
+if you need a little late night pick me up, 
+I, hope you get lonely tonight, 
+we ain't gotta make up just kiss me, 
+we could straight up blame it on the whiskey, 
+you ain't gotta wake up and miss me, no, 
+I hope you get lonely tonight
+
+
 

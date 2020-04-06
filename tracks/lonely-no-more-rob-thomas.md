@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-no-more-rob-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/robthomas/lonelynomore.html
 name: Lonely No More
 rankings:
 - end_date: '2005-02-25'
@@ -143,4 +144,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-08'
 ---
+
+Now it seems to me
+That you know just what to say
+But words are only words
+Can you show me something else
+Can you swear to me that you'll always be this way
+Show me how you feel
+More than ever baby
+
+I don't wanna be lonely no more
+I don't wanna have to pay for this
+I don't want another lover at my door
+It's just another heartache on my list
+
+I don't wanna be angry no more
+You know I could never stand for this
+So when you tell me that you love me know for sure
+I don't want to be lonely anymore
+
+Now its hard for me with my heart still on the mend
+Open up to me, like you do your girlfriends
+And you sing to me and it's harmony
+Girl, what you do to me is everything
+Make me say anything; just to get you back again
+Why can't we just try
+
+I don't wanna be lonely no more
+I don't wanna have to pay for this
+I don't want another lover at my door
+It's just another heartache on my list
+
+I don't wanna be angry no more
+You know I could never stand for this
+So when you tell me that you love me know for sure
+I don't want to be lonely anymore
+
+What if I was good to you, what if you were good to me
+What if I could hold you till I feel you move inside of me
+What if it was paradise, what if we were symphonies
+What if I gave all my life to find some way to stand beside you
+
+I don't wanna be lonely no more
+I don't wanna have to pay for this
+I don't want another lover at my door
+It's just another heartache on my list
+
+I don't wanna be angry no more
+But you know I could never stand for this
+So when you tell me that you love me know for sure
+I don't want to be lonely anymore
+
+I don't wanna be lonely anymore
+I don't wanna be lonely anymore
+I don't wanna be lonely anymore
+
+
 

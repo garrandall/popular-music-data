@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonder-natalie-merchant
+lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/wonder.html
 name: Wonder
 rankings:
 - end_date: '1995-12-15'
@@ -159,4 +160,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
 ---
+
+Doctors have come from distant cities
+Just to see me
+Stand over my bed
+Disbelieving what they're seeing
+
+They say I must be one of the wonders
+God's own creation
+And as far as they see they can offer
+No explanation
+
+Newspapers ask intimate questions
+Want confessions
+They reach into my head
+To steal the glory of my story
+
+They say I must be one of the wonders
+God's own creation
+And as far as they see they can offer
+No explanation
+
+O, I believe
+Fate smiled and destiny
+Laughed as she came to my cradle
+Know this child will be able
+Laughed as my body she lifted
+Know this child will be gifted
+With love, with patience and with faith
+She'll make her way,
+She'll make her way!
+
+People see me
+I'm a challenge to your balance
+I'm over your heads
+How I confound you and astound you
+To know I must be one of the wonders
+God's own creation
+And as far as you see you can offer me
+No explanation
+
+O, I believe
+Fate smiled and destiny
+Laughed as she came to my cradle
+Know this child will be able
+Laughed as she came to my mother
+Know this child will not suffer
+Laughed as my body she lifted
+Know this child will be gifted
+With love, with patience and with faith
+She'll make her way!
+She'll make her way!
+She'll make her way!
+
+
 

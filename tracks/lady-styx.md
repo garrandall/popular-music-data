@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-styx
+lyrics_url: https://www.azlyrics.com/lyrics/styx/lady.html
 name: Lady
 rankings:
 - end_date: '1974-12-20'
@@ -75,4 +76,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
 ---
+
+Lady, when you're with me I'm smiling
+Give me all your love
+Your hands build me up when I'm sinking
+Touch me and my troubles all fade
+Lady, from the moment I saw you
+Standing all alone
+You gave all my love that I needed
+So shy, like a child who has grown
+
+You're my lady of the morning
+Love shines in your eyes
+Sparkling, clear, and lovely
+You're my lady
+
+Lady, turn me on when I'm lonely
+Show me all your charms
+Evenings when you lay down beside me
+Take me gently into your arms
+
+You're my lady of the morning
+Love shines in your eyes
+Sparkling, clear, and lovely
+You're my lady
+
+Lady of the morning
+Love shines in your eyes
+Sparkling, clear, and lovely
+You're my... lady
+
+
 

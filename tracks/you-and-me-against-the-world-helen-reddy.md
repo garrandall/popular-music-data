@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-and-me-against-the-world-helen-reddy
+lyrics_url: https://www.azlyrics.com/lyrics/rachelleanngo/youandmeagainsttheworld.html
 name: You And Me Against The World
 rankings:
 - end_date: '1974-06-21'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
 ---
+
+You and me against the world
+Sometimes it feels like you and me against the world
+When all the others turn their backs and walked away
+You can count on me to stay
+
+Remember when the circus came to town
+And you were frightened by the clown
+Wasn't it nice to be around someone that you knew
+Someone who was big and strong and looking out for
+
+You and me against the world
+Sometimes it feels like you and me against the world
+And for all the times we've cried
+I always felt that God was on our side
+
+And when one of us is gone
+And one of us is left to carry on
+Then remembering will have to do
+Our memories alone will get us through
+Think about the days of me and you
+You and me against the world
+
+And when one of us is gone
+And one of us is left to carry on
+Then remembering will have to do
+Our memories alone will get us through
+Think about the days of me and you
+You and me against the world
+
+You and me against the world
+
+
 

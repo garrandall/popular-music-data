@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-letter-the-arbors
+lyrics_url: https://www.azlyrics.com/lyrics/xandria/thelostelysion.html
 name: The Letter
 rankings:
 - end_date: '1969-02-28'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
+
+For the lost desire, the star of once been higher
+Light the face of dead worlds, forever in my heart
+
+For the lost Elysion
+
+Rivers of red run through the land
+Cover the ruins of once golden past
+When starlight was strong and I did belong
+To the almighty light
+
+Burned are the homes where dreams could be born
+The whispers of hope, into hate they are torn
+Letters to fate, tears like a blade
+Wisdom of Shar-Ilya
+
+For the lost desire, the star of once been higher
+Light the face of dead worlds, forever in my heart
+
+Secrets are lost, arbors are crossed
+The doors of this house will forever be closed
+Nothing remains, all full of stains
+The colours are fading away
+
+This world full of fear, of lies in my ears
+This peace is so false, only greed is sincere
+Oh how I wish to be once released
+But nothing will turn back time
+
+For the lost desire, the star of once been higher
+Light the face of dead worlds, forever in my heart
+Born from grace and silence, blissful sound of sirens
+For the lost Elysion can never be found again
+
+Silence fell down, broken the crown
+Now it will never be anyone's own
+In this weary world, it's cruelty unfurled
+Frozen until we die
+
+Trying to hold a piece of this gold
+Back in my heart till it all will be sold
+So I hold the key to open and see
+The world behind the lies
+
+For the lost desire, the star of once been higher
+Light the face of dead worlds, forever in my heart
+Born from grace and silence, blissful sound of sirens
+For the lost Elysion can never be found again
+
+
 

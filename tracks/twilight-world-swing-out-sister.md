@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twilight-world-swing-out-sister
+lyrics_url: https://www.azlyrics.com/lyrics/swingoutsister/twilightworld.html
 name: Twilight World
 rankings:
 - end_date: '1987-12-25'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
 ---
+
+It's twilight world 
+
+It's twilight world 
+
+Time out
+World in a hurry
+There's more love than money changing hands
+
+Lights out
+Thinking out loud
+Turn your back on the world outside
+
+Night thoughts
+No one can share
+As darkness breaks through another day
+
+Secrets
+Talking out loud
+Silence waits just a dream away
+
+Forget lonely crowds, unfriendly faces
+They'll soon became familiar places
+Before too long, before too long
+
+Don't be fooled by love songs and lonely hearts
+You're living in a twilight world
+Don't be fooled by love songs and lonely hearts
+Don't give in to the twilight world
+
+Time out
+World in a hurry
+There's more love than money changing hands
+
+Lights out
+Thinking out loud
+Turn your back on the world outside
+
+Forget lonely crowds, unfriendly faces
+They'll soon became familiar places
+Before too long, before too long
+
+Don't be fooled by love songs and lonely hearts
+You're living in a twilight world
+Don't be fooled by love songs and lonely hearts
+Don't give in to the twilight world
+
+Don't be fooled by love songs and lonely hearts
+You're living in a twilight world
+Don't be fooled by love songs and lonely hearts
+Don't give in to the twilight world
+
+
 

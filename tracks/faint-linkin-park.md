@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: faint-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/faint.html
 name: Faint
 rankings:
 - end_date: '2003-08-01'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-06'
 ---
+
+
+I am a little bit of loneliness, a little bit of disregard
+Handful of complaints, but I can't help the fact that everyone can see these scars
+I am what I want you to want, what I want you to feel
+But it's like no matter what I do, I can't convince you, to just believe this is real
+
+So I let go watching you, turn your back like you always do
+Face away and pretend that I'm not
+But I'll be here 'cause you're all that I got
+
+
+I can't feel the way I did before
+Don't turn your back on me
+I won't be ignored
+Time won't heal this damage anymore
+Don't turn your back on me
+I won't be ignored
+
+
+I am a little bit insecure, a little unconfident
+'Cause you don't understand I do what I can but sometimes I don't make sense
+I am what you never wanna say, but I've never had a doubt
+It's like no matter what I do I can't convince you for once just to hear me out
+
+So I let go watching you, turn your back like you always do
+Face away and pretend that I'm not
+But I'll be here 'cause you're all that I've got
+
+
+I can't feel the way I did before
+Don't turn your back on me
+I won't be ignored
+Time won't heal this damage anymore
+Don't turn your back on me
+I won't be ignored
+
+Now
+Hear me out now
+You're gonna listen to me, like it or not
+Right now
+Hear me out now
+You're gonna listen to me, like it or not
+Right now
+
+I can't feel the way I did before
+Don't turn your back on me
+I won't be ignored
+
+I can't feel the way I did before
+Don't turn your back on me
+I won't be ignored
+Time won't heal this damage anymore
+Don't turn your back on me
+I won't be ignored
+
+I can't feel
+Don't turn your back on me
+I won't be ignored
+Time won't heal
+Don't turn your back on me
+I won't be ignored
+
+
 

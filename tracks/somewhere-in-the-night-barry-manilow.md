@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-in-the-night-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/somewhereinthenight.html
 name: Somewhere In The Night
 rankings:
 - end_date: '1978-12-22'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
 ---
+
+Time, you found time enough to love
+And I found love enough to hold you
+So tonight I'll stir the fire you feel inside
+Until the flames of love enfold you
+Layin' beside you lost in the feeling
+So glad you opened my door, come with me
+Somewhere in the night we will know
+Everything lovers can know
+You're my song, music too magic to end
+I'll play you over and over again
+Lovin' so warm, movin' so right
+Closin' our eyes and feelin' alive
+We'll just go on burnin' bright
+Somewhere in the night
+
+You'll sleep when the mornin' comes
+And I'll lie and watch you sleepin'
+And you'll smile when you dream about the night
+Like it's a secret you've been keepin'
+Layin' beside you lost in the feeling
+So glad you opened my door
+You're my song, music too magic to end
+I'll play you over and over again
+Lovin' so warm, movin' so right
+Closin' our eyes and feelin' alive
+We'll just go on burnin' bright
+Somewhere in the night
+
+We'll just go on burnin' bright
+Somewhere in the night!!
+
+(We'll just go on burnin' bright)
+(Somewhere in the night)
+(We'll just go on burnin' bright)
+
+(Somewhere in the night)
+
+
 

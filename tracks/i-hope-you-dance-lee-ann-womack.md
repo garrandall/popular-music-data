@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-hope-you-dance-lee-ann-womack
+lyrics_url: https://www.azlyrics.com/lyrics/ronankeating/ihopeyoudance.html
 name: I Hope You Dance
 rankings:
 - end_date: '2000-05-19'
@@ -199,4 +200,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-08-04'
 ---
+
+I hope you never lose your sense of wonder
+You get your fill to eat but always keep that hunger
+May you never take one single breath for granted
+God forbid love ever leave you empty handed
+I hope you still feel small when you stand beside the ocean
+Whenever one door closes I hope one more opens
+Promise me that you'll give faith a fighting chance
+And when you get the choice to sit it out or dance
+
+I hope you dance... I hope you dance...
+
+I hope you never fear those mountains in the distance
+Never settle for the path of least resistance
+Livin' might mean takin' chances, but they're worth takin'
+Lovin' might be a mistake, but it's worth makin'
+Don't let some Hell bent heart leave you bitter
+If you come close to sellin' out reconsider
+Give the heavens above more than just a passing glance
+And when you get the choice to sit it out or dance
+
+I hope you dance... I hope you dance...
+I hope you dance... I hope you dance...
+(Time is a wheel in constant motion always rolling us along
+Tell me who wants to look back on their years
+And wonder where those years have gone)
+
+I hope you still feel small when you stand beside the ocean
+Whenever one door closes I hope one more opens
+Promise me that you'll give faith a fighting chance
+And when you get the choice to sit it out or dance
+
+Dance... I hope you dance...
+I hope you dance... I hope you dance...
+I hope you dance... I hope you dance...
+(Time is a wheel in constant motion always rolling us along
+Tell me who wants to look back on their years
+And wonder where those years have gone)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cleopatra-s-cat-spin-doctors
+lyrics_url: https://www.azlyrics.com/lyrics/spindoctors/cleopatrascat.html
 name: Cleopatra's Cat
 rankings:
 - end_date: '1994-06-24'
@@ -19,4 +20,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
 ---
+
+Cleopatra's favorite cat
+Got his hands on Caesar's spats
+The heat was on as you could see
+So he front 'em to Mark Antony.
+Said, "My girlfriend's cat is smarter than me."
+
+Caesar had an eye for clothes
+He saw them spats and said, "I like those."
+Caesar had no thing to say, except,
+"Jesu Christi Domine,
+Et tu, Brute,
+Jesu Christi Domine,
+Et tu, Brute."
+
+The senate tried to sympathize
+It was the cat they should despise
+Informant told his whereabouts
+Centurions to seek him out
+
+Centurions! There go the centurions.
+
+Brutus had to turn his head
+When THIS cat done went and said,
+"If he's got this thing for shoes,
+He just might be ambitious, too.
+They got holidays all in his name,
+And all a tyrant needs is fame.
+Those fascists don't play pretty games
+Egypt is the place to be...
+But Rome is a democracy.
+Rome!"
+
+Caesar never got them back
+'Cause they killed his ass in the second act.
+Brutus spoke, then Antony:
+Said, "My girlfriend's cat is smarter than me.
+Friends, Romans, can't you see
+My girlfriend's cat is smarter than me
+Egypt's biggest rivalry:
+Cleopatra's cat and me."
+
+
 

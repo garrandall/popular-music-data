@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: what-about-me--kenny-rogers-with-kim-carnes-james-ingram
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/whataboutme.html
 name: What About Me?
 rankings:
 - end_date: '1984-09-21'
@@ -84,4 +85,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
 ---
+
+I see you here with me
+I've waited all my life
+For someone like you
+Someone to give
+My heart and soul to
+
+I look into your eyes
+Your love for me
+Was such a welcome surprise
+I think at last
+I've found forever
+
+But what about me
+(I'll always love you)
+Oh, what about me
+(I'll always need you)
+
+You were my love before
+But I need so much more of you
+
+Time after time
+I feel I'm losing my mind
+Or maybe this is what
+Lovers must go through
+
+It never entered my mind
+We could be wasting our time
+What am I gonna do
+
+What about me
+Oh, what about me
+
+No reason to pretend
+True love affairs don't
+Have to come to an end
+The moment we don't
+Have all the answers
+
+I nearly go insane
+(Oh, I go insane)
+Each and every time
+I hear you whisper my name
+I feel the same
+When I'm around you
+
+(But what about me)
+I'll always love you
+(Oh, what about me)
+I'll always need you
+
+This is so hard for me
+I wanted so much to be
+With you, whoa
+
+Time after time
+I feel I'm losing my mind
+Or maybe this is what
+Lovers must go through
+
+It never entered my mind
+We could be wasting our time
+What am I gonna do
+
+Time after time
+I'm losing my mind
+
+It never entered my mind
+We could be wasting our time
+
+But what about me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unforgettable-natalie-cole
+lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/unforgettable.html
 name: Unforgettable
 rankings:
 - end_date: '1991-07-19'
@@ -75,4 +76,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
 ---
+
+Unforgettable, that's what you are
+Unforgettable, though near or far
+Like a song of love that clings to me
+How the thought of you does things to me
+Never before has someone been more
+Unforgettable in every way
+And forevermore (and forevermore)
+That's how you'll stay (that's how you'll stay)
+That's why darling, it's incredible
+That someone so unforgettable
+Thinks that I am unforgettable too
+
+
+
+No, never before has someone been more
+Ooh unforgettable (unforgettable)
+In every way (in every way)
+And forevermore (and forevermore)
+That's how you'll stay (that's how you'll stay)
+That's why darling it's incredible
+That someone so unforgettable
+Thinks that I am unforgettable too.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-like-a-pill-p-nk
+lyrics_url: https://www.azlyrics.com/lyrics/pink/justlikeapill.html
 name: Just Like A Pill
 rankings:
 - end_date: '2002-07-12'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
 ---
+
+I'm lyin' here on the floor where you left me
+I think I took too much
+I'm crying here, what have you done?
+I thought it would be fun
+
+I can't stay on your life support,
+There's a shortage in the switch,
+I can't stay on your morphine,
+'Cause it's making me itch
+I said I tried to call the nurse again
+But she's being a little bitch,
+I think I'll get outta here, where I can
+
+Run just as fast as I can
+To the middle of nowhere
+To the middle of my frustrated fears
+And I swear you're just like a pill
+Instead of makin' me better,
+You keep makin' me ill
+You keep makin' me ill
+
+I haven't moved from the spot where you left me
+This must be a bad trip
+All of the other pills, they were different
+Maybe I should get some help
+
+I can't stay on your life support,
+There's a shortage in the switch,
+I can't stay on your morphine,
+'Cause it's making me itch
+I said I tried to call the nurse again
+But she's being a little bitch,
+I think I'll get outta here, where I can
+
+Run just as fast as I can
+To the middle of nowhere
+To the middle of my frustrated fears
+And I swear you're just like a pill
+Instead of makin' me better,
+You keep makin' me ill
+You keep makin' me ill
+
+Run just as fast as I can
+To the middle of nowhere
+To the middle of my frustrated fears
+And I swear you're just like a pill
+Instead of makin' me better,
+You keep makin' me ill
+You keep makin' me ill
+
+I can't stay on your life support,
+There's a shortage in the switch,
+I can't stay on your morphine,
+'Cause it's making me itch
+I said I tried to call the nurse again
+But she's being a little bitch,
+I think I'll get outta here, where I can
+
+Run just as fast as I can
+To the middle of nowhere
+To the middle of my frustrated fears
+And I swear you're just like a pill
+Instead of makin' me better,
+You keep makin' me ill
+You keep makin' me ill
+
+
 

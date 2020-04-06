@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mother-freedom-bread
+lyrics_url: https://www.azlyrics.com/lyrics/bread/motherfreedom.html
 name: Mother Freedom
 rankings:
 - end_date: '1971-07-23'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
 ---
+
+Freedom, keep walkin'
+Keep on your toesand don't stop talkin' 'bout
+Freedom, get goin'
+Lots to be learned and lots to be known 'bout
+People gotta reach 'em
+Sit 'em right down and then you gotta teach 'em 'bout
+Freedom, gotta win it
+Gotta put yourself smack dab in it
+
+Hey tomorrow
+Now don't you go away
+'Cause freedom
+Just might come your way
+
+Freedom, keep tryin'
+People stay alive and people keep dyin' for
+Freedom, so don't lose it
+Ya gotta understand ya just can't abuse it
+Freedom, get movin'
+Never gonna stop till everybody's groovin' on
+Love for - one another
+Callin' some friend and callin' some brother
+
+Hey tomorrow
+You're not so far away
+Mother freedom
+We'll know you well someday
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotional-rollercoaster-vivian-green
+lyrics_url: https://www.azlyrics.com/lyrics/viviangreen/emotionalrollercoaster.html
 name: Emotional Rollercoaster
 rankings:
 - end_date: '2003-02-21'
@@ -83,4 +84,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
 ---
+
+
+Last night I cried tossed and turned, woke up with dry eyes.
+My mind was racing, feet were pacing.
+Lord help me please tell me what I have gotten into.
+Ran my 3 miles to clear my mind, it always helps me out,
+It's my therapy when I'm losing it which is usually.
+
+
+I'm on a emotional roller coaster.
+Loving you ain't nothing healthy.
+Loving you was never good for me.
+But I can't get off.
+It's emotional roller coaster,
+Loving you ain't nothing healthy,
+Loving you was never good for me, for me,
+But I can't get off.
+
+
+Yesterday I told myself I was gonna be okay.
+Gonna start a new day, be truly happy.
+I was gonna take control of me.
+But eventually reality hit me
+Mentally, physically, emotionally.
+And I opened my eyes and realized
+That I was still being taken for a constant ride on your...
+
+
+Emotional roller coaster.
+Loving you ain't nothing healthy.
+Loving you was never good for me.
+But I can't get off.
+Emotional roller coaster,
+Loving you ain't nothing healthy,
+Loving you was never good for me,
+But I can't get off.
+
+
+So tired of you making love to me, then disappearing so suddenly.
+Up and down it goes.
+And I'm so tired of you pacifying me
+With promises you know that you'll never keep.
+Round and round it goes.
+
+
+I am on a emotional roller coaster.
+Loving you ain't nothing healthy.
+Loving you was never good for me.
+But I can't get off.
+It's emotional roller coaster,
+Loving you ain't nothing healthy,
+Loving you was never good for me,
+But I can't get off.
+
+
 

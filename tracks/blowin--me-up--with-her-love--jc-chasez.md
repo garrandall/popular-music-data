@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blowin--me-up--with-her-love--jc-chasez
+lyrics_url: https://www.azlyrics.com/lyrics/jcchasez/blowingmeupwithherlove.html
 name: Blowin' Me Up (With Her Love)
 rankings:
 - end_date: '2003-01-10'
@@ -75,4 +76,124 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
 ---
+
+Saw you 'round the other day, 
+Shorty she was all the way 
+Looked like you were feeling me 
+So I had to come and see 
+Girl he wasn't tryin' to hate 
+But she had to demonstrate 
+That she was the queen to be 
+But she couldn't fight the chemistry 
+and I say... 
+I I I 
+I can't lose you, no 
+I I I 
+Nooooo 
+
+
+She was disco lights on a Friday night 
+She moves across the floor 
+Suga! 
+She was o so tight like dynamite 
+Blowin' me up with her love 
+She was on the phone with me 
+All night long 
+I just can't get enough 
+She was ah ah oh, ah ah oh 
+Blowin' me up with her love 
+Uh uh uh uh uh uh uh uh uh uh
+
+
+Girl its just the sexy way 
+You back yourself into me 
+You're more then just a pretty face 
+You're better then a fantasy 
+Come on baby 
+Don't ignore me 
+I know what you're feeling for me 
+You can't fight it 
+Cause you want me 
+Don't you miss this or you'll be sorry 
+So tell me what it's gonna take 
+You've got me all bent out of shape 
+Thinking bout you all day 
+And how you gonna make me wait 
+and I say.. 
+I I I 
+I can't lose you no
+I I I 
+Whoaaaa 
+
+
+She was disco lights on a Friday night 
+She moves across the floor 
+She moves across the floor 
+She was o so tight like dynamite 
+Blowin' me up with her love 
+She was on the phone with me 
+All night long 
+I just can't get enough 
+She was ah ah oh, ah ah oh 
+Blowin' me up with her love 
+
+
+
+Ahhhh... there's just something about you baby.. 
+it's taking me over... I want you to know 
+
+Now it's on tonight 
+She took all control 
+Turned off all the lights 
+She said .... don't.. you.. want.. to.. 
+Na na na, na na na 
+Hey! 
+Na na na na na 
+Yeh yeh yeh yeh 
+Na na na na na na 
+Oh oh oh 
+
+Tell a story 
+She was leaning on me 
+Getting horny 
+Maybe we'll get naughty 
+Look at shorty 
+She was leaning on me 
+Getting horny 
+Maybe we'll get naughty 
+
+She was on the phone with me 
+All night long 
+And I just can't get enough 
+She was ah ah oh, ah ah oh 
+Blowin' me up with her love 
+She was disco lights on a Friday night 
+She moves across the floor 
+She moves across the floor 
+She was o so tight like dynamite 
+Blowin' me up with her love 
+
+She was on the phone with me 
+All night long 
+And I just can't get enough 
+She was ah ah oh, ah ah oh 
+Blowin' me up with her love 
+Na na na, na na na, na na na na 
+She moves across the floor 
+Na na na na na na na na na na na na no 
+O! she may! o! I can't get enough 
+
+She was disco lights on a Friday night
+She moves across the floor 
+Ahhhh!! 
+She was o so tight like dynamite 
+Blowin' me up with her love 
+She was on the phone with me 
+All night long 
+And I just can't get enough 
+She was ah ah oh, ah ah oh 
+Blowin' me up with her love 
+Oooh oooooh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-midnight-hour-wilson-pickett
+lyrics_url: https://www.azlyrics.com/lyrics/phillipphillips/inthemidnighthour.html
 name: In The Midnight Hour
 rankings:
 - end_date: '1965-07-16'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+
+I'm gonna wait till the midnight hour
+That's when my love comes tumbling down
+I'm gonna wait till the midnight hour
+When there's no one else around
+I'm gonna take you, girl, and hold you
+And do all the things I told you in the midnight hour
+Oh, yes, I am
+
+I'm gonna wait till the stars come out
+See them twinkle in your eyes
+I'm gonna wait till the midnight hour
+That's when my love begins to shine
+You're the only girl I know
+That can really love me so, oh, in the midnight hour
+Oh, in the midnight hour
+
+I'm gonna wait till the midnight hour
+That's when my love comes tumbling down
+I'm gonna wait till the midnight hour
+That's when my love begins to shine
+Oh, 'cause you're the only girl I know
+That can really love me so, oh, in the midnight hour
+Oh, in the midnight hour
+Oh, in the midnight hour
+
+Oh, in the midnight hour
+
+I'm gonna wait till the midnight hour
+
+That's when my love come tumbling down
+When there's no one else around
+
+Do all the things I told you in the midnight hour
+
+
 

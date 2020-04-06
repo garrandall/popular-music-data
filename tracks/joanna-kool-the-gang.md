@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: joanna-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/joanna.html
 name: Joanna
 rankings:
 - end_date: '1983-11-11'
@@ -104,4 +105,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
 ---
+
+Joanna, I love you
+You're the one, the one for me
+
+I'm in love, and I won't lie
+She's my girl and always on my mind
+She gives me her love and a feeling that's right
+Never lets me down, especially at night
+
+So, I'm gonna do the best I can
+To please that girl and be her only man, see
+She cheers me up when I feel alone
+And that's why baby I've got to let you know
+
+Joanna, I love you
+You're the one, the one for me, my baby
+
+She's the one, the one for me
+She's the kind of girl makes you feel nice, so
+I'll try my best to do what's right
+Take her for a ride, everything's fine
+
+Joanna, I love you
+You're the one, the one for me
+
+Searched so far, searched so long
+To find someone, someone to count on
+Now I feel I've got it right here
+Found it in you, baby, you, my dear
+
+We can do all night, so nice
+We'll have it all and everything will be alright
+I'm promising you, take it from me
+Take it home, baby take it home, baby
+
+She's the one, the one for me
+She's the kind of girl makes you feel nice, so
+I'll try my best to do what's right
+Take her for a ride, everything's fine
+
+Oh Joanna
+Oh Joanna
+
+Joanna, I love you
+You're the one, the one for me
+
+Joanna, yes I love you, I love you
+You're the one, the one for me
+Believe me babe
+
+
 

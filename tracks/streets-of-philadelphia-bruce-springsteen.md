@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: streets-of-philadelphia-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/fray/streetsofphiladelphia.html
 name: Streets Of Philadelphia
 rankings:
 - end_date: '1994-02-25'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
 ---
+
+I was bruised and battered
+And I couldn't tell what I felt
+I was unrecognizable to myself
+
+See my reflection in a window
+And I don't know my own face
+Oh brother, please don't leave me wastin' away
+On the streets of Philadelphia...
+
+I walk this avenue
+'til my legs feel like stone
+I hear the voices of friends vanished and gone
+
+At night I can hear the blood
+Runnin' through my veins
+Just as black and whispering as the rain
+On the streets of Philadelphia...
+Philadelphia...
+
+Ain't no angel gonna greet me
+It's just you and I, my friend
+These clothes, they don't fit me anymore
+I've walked a thousand miles and I wanna slip this skin
+
+Night has fallen 
+And I'm lyin' awake
+I can feel myself fading away
+
+So receive me brother
+With your faithful kiss
+Or we will leave each other alone like this
+On the streets of Philadelphia...
+Philadelphia...
+
+
 

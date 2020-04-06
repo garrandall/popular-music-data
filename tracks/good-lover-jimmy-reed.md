@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-lover-jimmy-reed
+lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/goodlover.html
 name: Good Lover
 rankings:
 - end_date: '1962-06-29'
@@ -23,4 +24,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
 ---
+
+Well my baby wants mansion, diamond ring
+Big fine car and everything
+But I'm a natural born lover
+
+Hey, I'm a natural born lover
+Well now tell me baby
+Which one of us would you rather
+
+Well now all those luxuries don't mean a thing
+You should get yourself a real good man
+And I'm a real gone lover
+Hey, I'm a natural born lover
+Well now tell me baby
+Which one of us would you rather
+
+I ain't got no mansion, no diamond ring
+Big fine car, I don't have a thing
+But I'm a natural born lover
+Hey, I'm a real good lover
+Well now tell me baby
+Which one of us would you rather
+
+
 

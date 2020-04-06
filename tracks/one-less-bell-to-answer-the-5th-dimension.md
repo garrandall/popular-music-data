@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-less-bell-to-answer-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/onelessbelltoanswer.html
 name: One Less Bell To Answer
 rankings:
 - end_date: '1970-10-30'
@@ -83,4 +84,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
 ---
+
+One less bell to answer
+One less egg to fry
+One less man to pick up after
+I should be happy
+But all I do is cry
+
+(Cry, cry, no more laughter) 
+Oh, I should be happy
+(Oh, why did he go)
+I only know that since he left
+My life's so empty
+
+Though I try to forget
+It just can't be done
+Each time the doorbell rings
+I still run
+I don't know how in the world
+To stop thinking of him
+'Cause I still love him so
+I end each day the way I start out
+Crying my heart out
+
+Oh, one less man to pick up after
+No more laughter
+No more love
+Since he went, oh he went away (he went away)
+
+(One less bell to answer) 
+Why did he leave me
+(Oh why, why, why did he leave)
+(One less bell to answer) 
+Now I've got one less egg to fry
+One less egg to fry
+(Oh why, why, why did he leave) 
+And all I do is cry
+(One less bell to answer) 
+Because my man told me goodbye
+(Oh why, why, why did he leave)
+(One less bell to answer) 
+Somebody tell me please
+Where did he go, why did he go
+(Ohy, why, why did he leave) 
+Tell me, how could he leave me
+
+
 

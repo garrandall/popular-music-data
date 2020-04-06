@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-under-sideways-down-the-yardbirds
+lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/overundersidewaysdown.html
 name: Over Under Sideways Down
 rankings:
 - end_date: '1966-07-01'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+
+Hey! Hey! Hey! Hey!
+Cars and girls are easy come by in this day and age,
+Laughing, joking, drinking, smoking,
+Till I've spent my wage.
+When I was young people spoke of immorality,
+All the things they said were wrong,
+Are what I want to be.
+
+(Hey)
+Over under sideways down,
+(Hey)
+Backwards forwards square and round.
+(Hey)
+Over under sideways down,
+(Hey)
+Backwards forwards square and round.
+When will it end, when will it end,
+When will it end, when will it end.
+
+Hey! Hey! Hey! Hey!
+I find comment 'bout my looks irrelativity,
+Think I'll go and have some fun,
+'Cos it's all for free.
+I'm not searching for a reason to enjoy myself,
+Seems it's better done,
+Than argued with somebody else.
+
+(Hey)
+Over under sideways down,
+(Hey)
+Backwards forwards square and round.
+(Hey)
+Over under sideways down,
+(Hey)
+Backwards forwards square and round.
+When will it end, when will it end,
+When will it end, when will it end.
+
+Hey! Hey! Hey! Hey!
+Over under sideways down...
+
+
 

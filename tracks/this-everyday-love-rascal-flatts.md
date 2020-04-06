@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-everyday-love-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/thiseverydaylove.html
 name: This Everyday Love
 rankings:
 - end_date: '2000-12-29'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
 ---
+
+Can't get enough of this everyday love
+Can't get enough of this everyday love
+
+Each morning the sun shines through my window
+Lands on the face of a dream come true
+I shuffle to the kitchen for my coffee
+And catch up on the front page morning news
+Then she walks up behind me and throws her arms around my neck
+Just another normal thing I've come to expect
+
+
+It's ordinary plain and simple
+Typical, this everyday love
+Same ol', same ol' keeping it new
+(Same ol'/This everyday love)
+Emotional, so familiar
+Nothing about it too peculiar
+Oh, but I can't get enough
+Of this everyday love
+
+Every afternoon I make a phone call
+Listen to the voice that warms my heart
+I drag myself through a few more hours
+Then head on home to try and beat the dark
+Her smile will be right there when I step through that door
+And it will be that way tomorrow, just like everyday before
+
+
+
+Wouldn't change one single thing about it
+No, it's run-of-the-mill, still I can't live without it
+
+
+
+Yeah, of this everyday love
+Can't get enough of this everyday love
+Can't get enough of this everyday love
+Can't get enough of this everyday love
+Can't get enough
+
+
 

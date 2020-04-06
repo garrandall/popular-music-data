@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someday-out-of-the-blue-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/somedayoutoftheblue.html
 name: Someday Out Of The Blue
 rankings:
 - end_date: '2000-04-28'
@@ -67,4 +68,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
 ---
+
+Someday out of the blue
+In a crowded street
+Or a deserted square
+I'll turn and I'll see you
+As if our love were new
+Someday we can start again someday soon
+
+Here comes the night
+Here come the memories
+Lost in your arms
+Down in the foreign fields
+Not so long ago
+Seems like eternity
+Those sweet afternoons
+Still capture me
+
+Someday out of the blue
+In a crowded street
+Or a deserted square
+I'll turn and I'll see you
+As if our love were new
+Someday we can start again someday soon
+
+I still believe
+I still put faith in us
+We had it all
+And watched it slip away
+Where are we now
+Not where we want to be
+Those hot afternoons
+Still follow me
+
+Someday out of the blue
+Maybe years from now
+Or tomorrow night
+I'll turn and I'll see you
+As if we always knew
+Someday we would live again someday soon
+
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+
+Here comes the night
+Here come the memories
+Lost in your arms
+Down in the foreign fields
+Not so long ago
+Seems like eternity
+Those sweet afternoons
+Still capture me
+
+Someday out of the blue
+Maybe years from now
+Or tomorrow night
+I'll turn and I'll see you
+As if we always knew
+Someday we would live again someday soon
+
+Someday out of the blue
+In a crowded street
+Or a deserted square
+I'll turn and I'll see you
+As if our love were new
+Someday we can start again someday soon
+
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+I still believe
+I still put faith in us
+
+
 

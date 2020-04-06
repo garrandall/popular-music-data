@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: choice-of-colors-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/choiceofcolors.html
 name: Choice Of Colors
 rankings:
 - end_date: '1969-07-04'
@@ -51,4 +52,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
 ---
+
+If you had a choice of colors
+Which one would you choose, my brothers
+If there was no day or night
+Which would you prefer to be right
+
+How long have you hated your white teacher
+Who told you, you love your black preacher
+Do you respect your brother's woman friend
+And share with black folks not of kin
+
+People must prove to the people
+A better day is coming for you and for me
+With just a little bit more education
+And love for our nation
+We'll make a better society
+
+Now some of us would rather cuss and make a fuss
+Than to bring about a little trust
+But we shall overcome, I believe someday
+If you'll only listen to what I have to say
+
+And how long have you hated your white teacher
+Who told you, you love your black preacher
+Can you respect your brother's woman friend
+And share with black folks not of kin
+
+I say now, people must prove to the people
+A better day is coming for you and for me
+With just a little bit more education
+And love for our nation
+We'll make a better society
+
+And if you had a choice of colors
+Which one would you choose, my brothers
+If there was no day or night
+Which would you prefer to be right
+
+And if you had a choice of colors
+Which one would you choose, my brothers
+If there was no day or night
+Which would you prefer to be right
+
+If you had a choice of colors
+Which one would you choose, my brothers
+
+
 

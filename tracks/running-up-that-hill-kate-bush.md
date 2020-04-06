@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-up-that-hill-kate-bush
+lyrics_url: https://www.azlyrics.com/lyrics/placebo/runningupthathill.html
 name: Running Up That Hill
 rankings:
 - end_date: '1985-09-13'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
+
+It doesn't hurt me
+You want to feel how it feels?
+You want to know, know that it doesn't hurt me?
+You want to hear about the deal I'm making?
+
+You
+(If I only could, be running up that hill)
+You and me
+(If I only could, be running up that hill)
+
+And if I only could
+Make a deal with God
+And get him to swap our places
+Be running up that road
+Be running up that hill
+Be running up that building
+If I only could, ooh
+
+You don't want to hurt me
+But see how deep the bullet lies
+Unaware that I'm tearing you asunder
+And there's a thunder in our hearts, baby
+There's so much hate for the ones we love
+Tell me we both matter, don't we?
+
+You
+(If I only could, be running up that hill)
+You and me
+(If I only could, be running up that hill)
+You and me, won't be unhappy
+(If I only could, be running up that hill)
+
+And if I only could
+Make a deal with God
+And get him to swap our places
+Be running up that road
+Be running up that hill
+Be running up that building
+If I only could, ooh
+
+C'mon, baby
+C'mon, c'mon, darling
+Let me steal this moment from you now
+C'mon, angel
+C'mon, c'mon, darling
+Let's exchange the experience, ooh
+
+And if I only could
+Make a deal with God
+And get him to swap our places
+Be running up that road
+Be running up that hill
+With no problems
+
+And if I only could
+Make a deal with God
+And get him to swap our places
+Be running up that road
+Be running up that hill
+With no problems
+
+If I only could
+Be running up that hill
+...
+
+
 

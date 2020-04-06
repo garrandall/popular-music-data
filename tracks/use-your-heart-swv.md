@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: use-your-heart-swv
+lyrics_url: https://www.azlyrics.com/lyrics/swv/useyourheartinterlude.html
 name: Use Your Heart
 rankings:
 - end_date: '1996-08-23'
@@ -87,4 +88,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
 ---
+
+Use your heart 
+And not your eyes 
+You've got time 
+And I've got time 
+
+Use your heart and not your eyes 
+Baby just relax your mind 
+If you've got time then I've got time 
+Free your thoughts 
+And watch them fly 
+Use your heart 
+And not your eyes 
+(Please)
+
+
 

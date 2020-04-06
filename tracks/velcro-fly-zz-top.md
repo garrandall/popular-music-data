@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: velcro-fly-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/velcrofly.html
 name: Velcro Fly
 rankings:
 - end_date: '1986-08-01'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
 ---
+
+Hey, look at the hooks
+on your pants makes you wanna dance.
+I say yeah yeah,
+I say yeah yeah.
+There ain't never a catch, all you got to do is snatch,
+do the velcro fly,
+do the velcro fly.
+
+You need just enough of that sticky stuff
+to hold the seams of your fine blue jeans.
+I say yeah yeah.
+I say yeah yeah.
+There ain't never a catch, all you got to do is snatch,
+do the velcro fly,
+do the velcro fly.
+
+Well, it feels so right when you squeezed it tight,
+when you reach the end do it over again.
+I say yeah yeah.
+I say yeah yeah.
+There ain't never a catch, all you got to do is snatch,
+do the velcro fly,
+do the velcro fly.
+
+
 

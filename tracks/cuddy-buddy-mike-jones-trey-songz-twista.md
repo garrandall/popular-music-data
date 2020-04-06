@@ -6,6 +6,7 @@ features:
 - Twista
 genres: []
 key: cuddy-buddy-mike-jones-trey-songz-twista
+lyrics_url: https://www.azlyrics.com/lyrics/mikejones/cuddybuddy.html
 name: Cuddy Buddy
 rankings:
 - end_date: '2008-11-07'
@@ -21,4 +22,159 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
 ---
+
+
+Oh, Oh
+You can be my cuddy, cuddy buddy,
+Foâ Shoâ you can ride with me
+Girl donât act like you donât already know,
+Act like you donât see
+We can get it on the bed or the floor,
+Donât matter to me girl
+I Wanna take you to h town
+
+You can be my cuddy, cuddy buddy,
+Foâ Shoâ you can ride with me
+Girl donât act like you donât already know,
+Act like you donât see
+We can get it on the bed or the floor,
+Donât matter to me girl
+
+
+Girl if you need this here,
+Call me donât have no fear,
+I wanna (love you down la, la love you down)
+Lay nice and lovey dovey
+Someone thatâll lova love me
+Sheâs something like a friend,
+Call her my cuddy buddy
+
+Even though she got a man,
+She already known the plan,
+She already known the deal,
+So what the bid-ness is?
+
+Even though she (got a man)
+She already (Known the plan)
+She already known the deal, known the deal
+Known the deal
+
+Even though Iâm chubby (chubby)
+Your chick
+She loves me (loves me)
+She might be with you now but
+Sheâs still thinking of me,
+Yall out there makin love
+I couldnât make em love me
+In the back of the lap with it
+Just.......that!
+
+
+Oh, Oh
+You can be my cuddy, cuddy buddy,
+Foâ Shoâ you can ride with me
+Girl donât act like you donât already know,
+Act like you donât see
+We can get it on the bed or the floor,
+Donât matter to me girl
+I Wanna take you to h town
+
+
+Young weezy baby!
+See I can be her man and
+She can be my girl
+But we do it like its
+The end of the world, ya digg
+We have relations like
+Iâm kend to the girl
+
+I make her hollar like when
+Mama brought her into the world
+Like Iâll let him buy you dinner tonight
+Then at the end of the night,
+Youâll be my dinner tonight
+You see he dark, you always dim in his lights
+And that girl wanna shine
+I bring her into the light
+Wa la!
+I become her Ala and I swear
+That thing feel like la, la, la
+And since he feed her lies,
+Iâll be her dessert on the side
+
+
+Oh, Oh
+You can be my cuddy, cuddy buddy,
+Foâ Shoâ you can ride with me
+Girl donât act like you donât already know,
+Act like you donât see
+We can get it on the bed or the floor,
+Donât matter to me girl
+I Wanna take you to h town
+
+
+How u do ur lips like that,
+Move ur hips like that
+Work ur ass like that?
+Why u make noise like that
+Move slow like that
+Fuck fast like that?
+
+Baby I ainât gon lie to you
+We so sexually compatible
+How I thrill myself,
+I could kill myself
+When I feel myself 
+
+You could be cuddy buddy,
+Nibble on my nutty buddy
+While we do some freaky things
+wit the lights on
+Touching on you while
+Iâm listening to T-Pain
+Hugging on you while
+Iâm listening to Mike Jones
+Then as soon as we got in the sac
+I can hit it in the back of the lack of
+A fifth of the yac like like........that!
+
+
+Itâs the middle of the night yall got into a fight,
+Now your mad with your feelings hurt
+Girl let me buy you a drink, please,
+Tell me what you think,
+Right before I get up in them shirt (Skeet, skeet)
+
+Pull up in the lack truck (beep, beep)
+Be shorty back up (feed me)
+If your man after he full time,
+Girl Iâll be the bad girl
+Cuz Iâm your cuddy buddy
+c-c-c-cuddy buddy
+Soon as he fell asleep
+She on her way to love me
+Cuz i'm your cuddy buddy 
+c-c-c-cuddy buddy
+Soon as he fall asleep
+She on her way to love me
+She knows that I (got that wood),
+And she knows that my (sex is good)
+We can do it on the bed or the floor (girl)
+Cuz you know that I keep it hood
+She knows that I (got that wood),
+And she knows that my (sex is good)
+We can do it on the bed or the floor,
+Let me Know Aye!
+
+
+Oh, Oh
+You can be my cuddy, cuddy buddy,
+Foâ Shoâ you can ride with me
+Girl donât act like you donât already know,
+Act like you donât see
+We can get it on the bed or the floor,
+Donât matter to me girl
+I wanna take you to h town.
+
+
 

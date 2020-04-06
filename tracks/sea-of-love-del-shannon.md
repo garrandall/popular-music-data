@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sea-of-love-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/seaoflove.html
 name: Sea Of Love
 rankings:
 - end_date: '1981-12-18'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
 ---
+
+Come with me, my love
+To the sea, the sea of love
+I want to tell you oh how much I love you
+
+Do you remember when we met?
+That's the day I knew you were my pet
+I want to tell you how much I love you
+
+Come with me
+To the sea
+Of
+Love
+
+Do you remember when we met?
+That's the day I knew you were my pet
+I want to tell you oh how much I love you
+
+Come with me
+To the sea
+Of
+Love
+
+Do you remember when we met?
+That's the day I knew you were my pet
+I want to tell you oh how much I love you
+
+
 

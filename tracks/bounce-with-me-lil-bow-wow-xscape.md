@@ -5,6 +5,7 @@ features:
 - Xscape
 genres: []
 key: bounce-with-me-lil-bow-wow-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/lilbowwow/bouncewithme.html
 name: Bounce With Me
 rankings:
 - end_date: '2000-08-25'
@@ -88,4 +89,141 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
 ---
+
+
+Uh-huh, yo
+(Oh, oh)
+Uh-huh, yo
+(Uh-huh, oh, oh)
+Uh-huh, yo
+(Bounce, bounce)
+See around here
+(Uh-huh, uh, huh-uh)
+I make things that make y'all bounce
+Ya know?
+Heh, ya know what I mean?
+(Yeah, yeah)
+Left to right, right to left
+(Uh-huh, uh-huh)
+It's So So Def
+(Yeah uh)
+And uh it's going down
+Ya know what I mean?
+(Yeah)
+My man Bow Wow
+(Bow Wow, yeah hear me now)
+Yeah ya heard?
+(Check it out)
+Let's go! Let's go! Let's go!
+(Peep game, let's go)
+
+
+Around here we pop them collars
+Around here we get them dollars
+Every girl I see that look right
+A nigga like me just gotta holla
+This kid here all about stackin' up
+Got big head but we can back it up
+Long cause everybody get crunk
+When we drop in the club starts acting up
+I represent the S-O-S-O, D-E-F-M-O-B
+That's me, JD, Da Brat, and JE
+So please believe
+What I do ain't never been done
+Ohio is where I'm from
+I heard what you said
+And I saw what you do
+And y'all playas really don't want none
+From the day to the night, I ROCK
+Say what you like, NEVER NOT
+Stayin' alive, living the life
+Gots to keep it hot
+Shotgun in the drop
+Riding good, twenties, TVs, leather and wood
+Poppin', watching Big Momma
+Holdin' it down like a playa should
+Sing-a-long now!
+
+
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+
+
+It's the B to the O-W
+Wow even your girl fall in love
+When I smile
+The tight little guy you ain't seen in a while
+Ignore the hype, just right for you size
+I get in where I fit in
+Braided up, made the bucks
+And I'm still a kid
+Imagine what life like when I get big
+I'mma be rich surrounded by chicks
+Couple of cars, couple of cribs
+Gettin' a couple of mills
+Shining every time I feel
+You see how So So get ill
+You don't want no stuff up in here
+Bow to the wow get it in your ear now
+I get down cause I'm hit bound
+And I rock an iced out Mickey Mouse around my neck
+And I hang on niggas like Vince Carter
+with his arm in the net
+And I outta snatch up your daughters
+But I was brought up with respect
+When I turn 16 I'mma call her though
+And show her how to ride with a baller yo
+Let her know why it wouldn't hurt her
+To fall in love with a {nigga} like me a long time ago
+Sing-a-long now!
+
+
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+All I wanna do is see ya
+Bounce with me, bounce with me
+Grab a partner hit the floor
+Bounce with me, bounce with me
+Some clap, clap others stomp
+But around here we get it crunk when ya
+Bounce with me, bounce with me
+
+
+I, I, I wanna see you bounce with me now
+Take, take, take it down to the ground with me now
+Shake, shake, shake it all around the town with me now
+What'cha gon do shorty, what'cha gon do
+
+
 

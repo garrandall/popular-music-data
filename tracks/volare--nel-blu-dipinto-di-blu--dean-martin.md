@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: volare--nel-blu-dipinto-di-blu--dean-martin
+lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/volare.html
 name: Volare (Nel Blu Dipinto Di Blu)
 rankings:
 - end_date: '1958-08-10'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
 ---
+
+Volare, oh oh
+Cantare, oh oh oh oh
+Let's fly way up to the clouds
+Away from the maddening crowds
+We can sing in the glow of a star that I know of
+Where lovers enjoy peace of mind
+Let us leave the confusion and all disillusion behind
+Just like birds of a feather, a rainbow together we'll find
+
+Volare, oh oh
+E contare, oh oh oh oh
+No wonder my happy heart sings
+Your love has given me wings
+Penso che un sogno cosi non ritorni mai piu
+Mi dipingevo le mani e la faccia di blu
+Poi d'improvviso venivo dal vento rapito
+E incominciavo a volare nel cielo infinito
+
+Volare, oh oh
+E contare, oh oh oh oh
+Nel blu, dipinto di blu
+Felice di stare lassu
+E volavo, volavo felice piu in alto del sole ed ancora piu su
+Mentre il mondo pian piano spariva lontano laggiu
+Una musica dolce suonava soltanto per me
+
+Volare, oh oh
+E cantare, oh oh oh oh
+No wonder my happy heart sings
+Your love has given me wings
+Nel blu, dipinto di blu
+Felice di stare lassu
+
+
 

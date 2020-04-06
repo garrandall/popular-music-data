@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fight-fire-with-fire-kansas
+lyrics_url: https://www.azlyrics.com/lyrics/kansas/fightfirewithfire.html
 name: Fight Fire With Fire
 rankings:
 - end_date: '1983-09-09'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
 ---
+
+There's a hole in the wall
+With a light shining in
+And it's letting me know to get up
+It's time to begin
+
+Oh there is nothing to lose
+'Cause it's already lost
+In a runaway world
+Of confusion
+I'm gonna take it
+
+
+That's why I fight fire with fire
+Oh I'm burning inside and my heart is a-cryin'
+Fire with fire
+I don't want to lose this flamin' desire
+Standing alone
+In a crowded room
+I can feel a chill in the air
+I'm shakin'
+
+I'm miles away
+I want to cry out loud
+I want to fight till the end
+I won't let 'em take me alive
+
+
+And you know I'll fight fire with fire
+Oh I'm burning inside and my heart is a-cryin'
+Fire with fire
+'Cause I'm never gonna lose this flamin' desire
+
+
 

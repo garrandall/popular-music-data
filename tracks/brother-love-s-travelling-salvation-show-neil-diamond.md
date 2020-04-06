@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brother-love-s-travelling-salvation-show-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/brotherlovestravelingsalvationshow.html
 name: Brother Love's Travelling Salvation Show
 rankings:
 - end_date: '1969-02-28'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
 ---
+
+Hot August night
+And the leaves hanging down
+And the grass on the ground smellin' sweet
+Move up the road to the outside of town
+And the sound of that good gospel beat
+Sits a ragged tent
+Where there ain't no trees
+And that gospel group tellin' you and me
+It's Love, Brother Love, say
+Brother Love's Traveling Salvation Show
+Pack up the babies and grab the old ladies
+And ev'ryone goes, 'cause everyone knows
+Brother Love's show
+
+Room gets suddenly still
+And when you'd almost bet
+You could hear yourself sweat, he walks in
+Eyes black as coal
+And when he lifts his face
+Ev'ry ear in the place is on him
+Starting soft and slow
+Like a small earthquake
+And when he lets go,
+Half the valley shakes
+
+It's Love, Brother Love, say
+Brother Love's Traveling Salvation Show
+Pack up the babies and grab the old ladies
+And ev'ryone goes, 'cause everyone knows
+Brother Love's show
+
+
+
+Take my hand in yours,
+Walk with me this day
+In my heart I know, I will never stray
+Halle, halle, halle, halle
+Halle, halle, halle, halle
+It's Love, Brother Love, say
+Brother Love's Traveling Salvation Show
+Pack up the babies
+And grab the old ladies and ev'ryone goes
+I say, Love, Brother Love, say
+Brother Love's Traveling Salvation Show
+Pack up the babies
+And grab the old ladies and ev'ryone goes...
+
+
 

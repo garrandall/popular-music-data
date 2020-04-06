@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-village-of-st-bernadette-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/thevillageofstbernadette.html
 name: The Village Of St Bernadette
 rankings:
 - end_date: '1959-12-20'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
+
+I've traveled far, the land and the sea
+Beautiful places I happened to be
+One little town I'll never forget
+Is Lourdes, the village of St. Bernadette
+
+Ave, ave, ave Ma-ri-a
+Ave, ave, ave Ma-ri-i-ia
+
+There, like a dream, this wonderful night
+I gazed at the grotto aglow in the light
+A feeling divine swept over me there
+I fell to my knees as I whispered the prayer
+
+Ave, ave, ave Ma-ri-a
+Ave, ave, ave Ma-ri-i-ia
+
+Now I am home, I'm happy to be
+Telling of places I've traveled to see
+One little town I'll never forget
+Is Lourdes, the village of St. Bernadette
+
+Ave, ave, ave Ma-ri-a
+Ave, ave, ave Ma-ri-i-ia
+
+Ave, ave, ave Ma-ri-a
+Ave, ave, ave Ma-ri-a
+
+
 

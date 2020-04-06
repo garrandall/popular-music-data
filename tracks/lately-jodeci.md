@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lately-jodeci
+lyrics_url: https://www.azlyrics.com/lyrics/jodeci/lately.html
 name: Lately
 rankings:
 - end_date: '1993-06-18'
@@ -103,4 +104,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
 ---
+
+Lately I've had the strangest feeling
+With no vivid reason here to find
+But yet the thought of losing you been hanging
+Around my mind
+K-ci sing it
+
+Far more frequently your wearing perfume
+With you say the special place to go
+But when I ask will you be coming back soon
+You don't know never know
+
+
+Oh I'm a man of many wishes
+I hope my preminition misses
+But what I really feel
+My eyes wont let me hide
+Cuz they always start to cry
+Cuz this time could mean goodbye
+
+Lately I've been staring in the mirror
+And I'ts very slowly picking me apart
+I've tried to tell myself I have no reason
+With your heart
+
+Now just the other night while you were sleeping
+I vaguely heard you whisper someone's name
+But when I ask you of the thought's your keeping
+You just say nothing's changed
+
+Well I'm a man of many wishes
+I hope my premenition misses
+But what I really feel
+My eyes wont let me hide
+Cuz they always start to cry
+Cuz this time could mean goodbye
+
+
+
+
+
 

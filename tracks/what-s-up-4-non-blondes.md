@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-up-4-non-blondes
+lyrics_url: https://www.azlyrics.com/lyrics/4nonblondes/whatsup.html
 name: What's Up
 rankings:
 - end_date: '1993-04-30'
@@ -111,4 +112,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
 ---
+
+25 years and my life is still
+Tryin' to get up that great big hill of hope
+For a destination
+
+I realized quickly when I knew I should
+That the world was made up of this brotherhood of man
+For whatever that means
+
+And so I cry sometimes when I'm lying in bed
+Just to get it all out what's in my head
+And I, I am feeling a little peculiar
+
+And so I wake in the morning and I step outside
+And I take a deep breath and I get real high
+And I scream from the top of my lungs
+"What's going on?"
+
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+
+Ooh, ooh
+Ooh
+Ooh, uh huh
+Ooh, ooh
+Ooh
+Ooh, uh huh
+
+And I try
+Oh my God, do I try
+I try all the time
+In this institution
+
+And I pray
+Oh my God, do I pray
+I pray every single day
+For revolution
+
+And so I cry sometimes when I'm lying in bed
+Just to get it all out, what's in my head
+And I, I am feeling a little peculiar
+
+And so I wake in the morning and I step outside
+And I take a deep breath and I get real high
+And I scream from the top of my lungs
+"What's going on?"
+
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+(Wake in the morning and step outside)
+Hey-ey-ey
+(Take a deep breath and I get real high)
+(And I scream)
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+(Wake in the morning and step outside)
+Hey-ey, yeah yeah yeah
+(Take a deep breath and I get real high)
+(And I scream)
+I said "Hey, a-what's going on?"
+
+Ooh, ooh
+Ooh
+Ooh, uh huh
+
+25 years and my life is still
+Tryin' to get up that great big hill of hope
+For a destination, mmm
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-good-to-be-king-tom-petty
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/itsgoodtobeking.html
 name: It's Good To Be King
 rankings:
 - end_date: '1995-05-05'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
 ---
+
+It's good to be king, if just for a while
+To be there in velvet, yeah, to give 'em a smile
+It's good to get high and never come down
+It's good to be king of your own little town
+
+Yeah, the world would swing if I were king
+Can I help it if I still dream time to time
+
+It's good to be king and have your own way
+Get a feeling of peace at the end of the day
+And when your bulldog barks and your canary sings
+You're out there with winners, it's good to be king
+
+Yeah I'll be king when dogs get wings
+Can I help it if I still dream time to time
+
+It's good to be king and have your own world
+It helps to make friends, it's good to meet girls
+A sweet little queen who can't run away
+It's good to be king, whatever it pays
+
+Excuse me if I have some place in my mind
+Where I go time to time
+
+
 

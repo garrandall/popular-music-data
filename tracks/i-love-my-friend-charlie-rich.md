@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-my-friend-charlie-rich
+lyrics_url: https://www.azlyrics.com/lyrics/charlierich/ilovemyfriend.html
 name: I Love My Friend
 rankings:
 - end_date: '1974-08-09'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
 ---
+
+She was crying
+And I was lonely
+And a band was playing
+Some old love song
+Someone had hurt her
+And someone had left me
+And we both needed something
+To hold on to
+
+Who knows
+Tomorrow it might all end
+But tonight I love my friend
+
+I love my friend
+And we'll make it
+Maybe
+Just maybe
+Even though we're going to share the night
+In each other's arms
+I'll treat her like a lady
+And I'll call her baby
+
+'Cause I love my friend
+We'll make it
+Maybe
+Just maybe
+Tomorrow when we start another day
+And we don't know the way
+I'll still treat her like a lady
+Still call her baby
+
+'Cause I love my friend
+And we'll make it
+Maybe
+
+
 

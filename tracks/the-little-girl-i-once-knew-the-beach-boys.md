@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-little-girl-i-once-knew-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/brianwilson/thelittlegirlionceknew.html
 name: The Little Girl I Once Knew
 rankings:
 - end_date: '1965-12-03'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
 ---
+
+We met when she was younger
+Then I had no eyes for her
+A few years went by and I saw her
+Now I'm gonna try for her
+
+Look out babe
+
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+
+How could I ever have known that
+She'd be what she is today
+And look at how her boyfriend holds her
+I'll be moving in one day
+
+Split man
+
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+
+La doo day pow pow pow
+La doo day pow pow pow
+La doo day pow pow pow
+
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+She's not the little girl I once knew
+
+
 

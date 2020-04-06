@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dust-in-the-wind-kansas
+lyrics_url: https://www.azlyrics.com/lyrics/kansas/dustinthewind.html
 name: Dust In The Wind
 rankings:
 - end_date: '1978-02-03'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+
+I close my eyes
+Only for a moment, and the moment's gone
+All my dreams
+Pass before my eyes, a curiosity
+
+Dust in the wind
+All they are is dust in the wind
+
+Same old song
+Just a drop of water in an endless sea
+All we do
+Crumbles to the ground, though we refuse to see
+
+Dust in the wind
+All we are is dust in the wind
+
+Now don't hang on
+Nothing lasts forever but the earth and sky
+It slips away
+And all your money won't another minute buy
+
+Dust in the wind
+All we are is dust in the wind
+(All we are is dust in the wind)
+Dust in the wind
+(Everything is dust in the wind)
+Everything is dust in the wind
+(In the wind)
+
+
 

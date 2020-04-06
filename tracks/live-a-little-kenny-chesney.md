@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-a-little-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/livealittle.html
 name: Live A Little
 rankings:
 - end_date: '2011-04-01'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
 ---
+
+Stressed out, running late, racing down the interstate
+Spilled hot coffee, down the front of my jeans
+It's work, work, pay the rent, money and my time's spent
+Not a minute left for me to be me
+
+Been going like nothing can wait
+I gotta get my priorities straight
+
+I need to live a little, have some fun
+Take some time, waste it on number one
+Find a girl that brings my whole world to a stop
+Live a little, love a lot
+
+Friday night, here we go, do a little do-si-do
+Kick back, have a laugh, catch my breath
+Tell the band slow it down, there she is, think I found
+Maybe Ms. Wonderful, I haven't met yet
+
+It just hit me like a wrecking ball
+She's giving me a wake up call
+
+I need to live a little, have some fun
+Take some time, waste it on number one
+Find a girl that brings my whole world to a stop
+Live a little, love a lot
+
+Step back, smell the rose
+Feel the sand between your toes
+Unplug, unwind
+Step out in the sunshine
+
+I need to live a little, have some fun
+Take some time, waste it on number one
+Find a girl that brings my whole world to a stop
+Live a little
+
+I need to live a little, have some fun
+Take some time, waste it on number one
+Take the girl, get a map and pick any old dot
+Live a little, we need to live a little, love a lot
+
+
 

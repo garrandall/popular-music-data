@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock--n-roll-soul-grand-funk-railroad
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/rocknrollsoul.html
 name: Rock 'N Roll Soul
 rankings:
 - end_date: '1972-09-29'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
 ---
+
+We're having a party, yeah, yeah, everybody's invited,
+The new generation along with the old.
+If you could get with it just a little more, it don't take much tryin',
+You'll find out if you've got some rock & roll soul, baby.
+
+Ain't everybody in the world. So when you know what you got, let everybody know,
+You got some rock & roll soul.
+So when you know what you got, let everybody know,
+You got some rock & roll soul.
+
+I know it when I'm feelin' groovy,
+It's kind of funky like an old-time movie.
+
+I can feel it and it's really something,
+It's really something when my heart starts pumpin', yeah.
+
+Tell everybody you know, you got some rock 'n roll soul.
+Tell everybody you know, you got some rock 'n roll soul.
+
+Tell everybody you know, you got some rock 'n roll soul.
+Tell everybody you know, you got some rock 'n roll soul.
+Tell everybody you know, you got some rock 'n roll soul.
+Tell everybody you know, you got some rock 'n roll soul.
+Tell everybody you know, you got some rock 'n roll soul.
+
+
 

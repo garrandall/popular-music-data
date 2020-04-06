@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-brave-face-paul-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/mybraveface.html
 name: My Brave Face
 rankings:
 - end_date: '1989-06-02'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
 ---
+
+My Brave Face.
+I've Been Living In Style
+Unaccustomed As I Am To The Luxury Life.
+I've Been Hitting The Town And It Didn't Hit Back.
+
+I've Been Doing The Rounds
+Unaccustomed As I Am To The Time On My Hands.
+Now I Don't Have To Tell Anybody When I'm Gonna Get Back.
+
+Ever Since You Went Away I've Had This Sentimental
+Inclination Not To Change A Single Thing.
+As I Pull The Sheets Back On The Bed I Want To Go Bury My Head
+In Your Pillow.
+
+Now That I'm Alone Again, I Can't Stop Breaking Down Again,
+The Simplest Things Set Me Off Again
+And Take Me To That Place
+Where I Can't Find My Brave Face
+Where I Can't Find My Brave Face
+My Brave, My Brave, My Brave Face.
+
+I've Been Living A Lie
+Unaccustomed As I Am
+To The Work Of A Housewife,
+I've Been Breaking Up
+Dirty Dishes And Throwing Them Away.
+
+Ever Since You Left I Have Been Trying To
+Compose A "Baby Will You Please Come Home" Note
+Meant For You.
+As I Clear Away Another
+Untouched Tv Dinner
+From The Table I Laid For Two.
+
+Now That I'm Alone Again
+I Can't Stop Breaking Down Again,
+The Simplest Things Set Me Off Again
+And Take Me To That Place
+Where I Can't Find My Brave Face,
+Where I Can't Find My Brave Face,
+My Brave, My Brave, My Brave Face.
+My Brave Face.
+
+
 

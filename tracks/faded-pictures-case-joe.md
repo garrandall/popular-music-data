@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: faded-pictures-case-joe
+lyrics_url: https://www.azlyrics.com/lyrics/case/fadedpictures.html
 name: Faded Pictures
 rankings:
 - end_date: '1999-01-01'
@@ -88,4 +89,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
 ---
+
+That's right 
+Life is funny, ain't it? 
+Sometimes you can end up with 
+Somebody you really don't wanna be with 
+And others left to figure it out 
+Check it 
+
+She was more than a women a goddess for all to see 
+All I ever needed was her right here loving me 
+For a while we were coolin and groovin and love was on 
+But I still remember how it felt when are love was gone...(Ohhhhh) 
+
+ - Tattered picture book 
+Was a photograph she took years ago 
+Secret memories in her mind, how could love be so unkind 
+Heartbreak time 
+
+(My heart is breaking, Oh) 
+
+ - Faded pictures in abroken glass 
+Like a mirror revealing 
+What the woman is feeling 
+Was it someone from a distant past 
+Cuz it's breaking my heart 
+To watch her stare into the glass 
+
+(Joe help me out) 
+
+As she turned through the pages, the tears rolled down her face 
+I could see her reminiscing, whied her life have to be this way 
+As she stopped and she came to a page where her diary end 
+To smell the scent of an old rose, from her lover I suppose ohhh 
+(Picture book) 
+
+
+
+
+(Oh na, na, na, na, na, na) 
+As she stares into the glass, I'll be waiting 
+(Oh na, na, na, na, na, na) 
+Cuz she's lost inside the past 
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happiness-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/happiness.html
 name: Happiness
 rankings:
 - end_date: '1979-03-23'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+
+I love the way you love to live
+You got life, you're inspiration
+I love the way that you do
+Your heart's so freely
+You're a sweet sensation
+You're my invitation to happiness
+You're full of sweet surprises happiness
+You fill my heart desire
+More, more, more and more
+And over and over again
+Keep that goodness coming
+I love the way you watch the world
+Through kind eyes
+That's why you're never sad, sad
+Things don't bother you like dos, don'ts and whys
+You hold on to the good and you let the bad go by
+Yeah, yeah
+Happiness
+I want your love forever
+Happiness
+Give me your love forever
+More, more, more and more
+And over and over again
+Keep that goodness coming
+Happiness
+Give me your love forever
+Happiness
+Say you'll leave me never
+More, more, more and more
+And over and over again
+Keep that goodness coming
+Keep it coming, keep it coming
+Keep it coming, coming
+Keep it coming, keep it coming
+Keep it, keep it coming
+
+
 

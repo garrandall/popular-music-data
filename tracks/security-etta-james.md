@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: security-etta-james
+lyrics_url: https://www.azlyrics.com/lyrics/ettajames/security.html
 name: Security
 rankings:
 - end_date: '1968-03-08'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
 ---
+
+Security, yeah yeah
+I want some security
+
+I want security, yeah
+Without it I'm at a great loss
+Yes I am, now
+Security, yeah, yeah
+And I want it any cost, yes I do now
+
+Oh, don't want no money now
+Don't want no pay
+But with security, yeah, yeah
+I'll have all these things
+Yes, I will now
+
+Security, yeah
+That's all I want from you
+Yes, I do now
+Talkin' bout security, yeah, yeah
+And a little love that'll be true
+Right now
+
+Your sweet lips, you know
+They tell me
+That you're the one for me
+Darlin', how can I forget now?
+How can I forget? Yeah
+
+Security is what I want right now
+Your love is all right
+But I need a little more honey
+I can't spend your love
+At the grocery store
+
+I need security, right now
+Security, yeah
+I tell you once again
+Yes I will now
+Talkin' about security, yeah
+And I want it to the end, yes I do
+
+Your sweet tender lips, you know
+They tell me
+That you're the one for me
+Darling, how can I forget now?
+How can I forget? Yeah
+Security, yeah, security is what I want
+
+
 

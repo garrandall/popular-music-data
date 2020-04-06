@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nice-to-meet-ya-niall-horan
+lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/nicetomeetya.html
 name: Nice To Meet Ya
 rankings:
 - end_date: '2019-10-25'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
 ---
+
+I like the way you talk
+I like the things you wear
+I want your number tattooed
+On my arm in ink, I swear
+
+'Cause when the mornin' comes
+I know you won't be there
+Every time I turn around
+You disappear
+
+I wanna blow your mind
+Just come with me, I swear
+I'm gonna take you somewhere warm
+ You know "J'adore la mer"
+
+'Cause when the mornin' comes
+I know you won't be there
+Every time I turn around
+You disappear
+
+(I got love for you, I got love for you)
+Nice to meet ya
+(I got love for you, I got love for you)
+Nice to meet ya, what's your name?
+Let me treat you to a drink
+
+I like the way you talk
+I like the things you wear
+I want your number tattooed
+On my arm in ink, I swear
+
+'Cause when the mornin' comes
+I know you won't be there
+Every time I turn around
+You disappear
+
+(I got love for you, I got love for you)
+Nice to meet ya
+(I got love for you, I got love for you)
+
+One minute you're there
+The next one you're gone
+Been waiting for you
+All night, so come on
+
+You know what I need
+You know what I want
+You know what I need now
+You know what I need now
+
+Nice to meet ya, what's your name?
+Let me treat you to a drink
+Nice to meet ya, where ya been?
+(I got love for you, I got love for you)
+Let me treat you to a drink
+(I got love for you, I got love for you)
+
+Nice to meet ya
+
+
 

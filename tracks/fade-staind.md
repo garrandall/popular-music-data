@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fade-staind
+lyrics_url: https://www.azlyrics.com/lyrics/staind/fade.html
 name: Fade
 rankings:
 - end_date: '2001-10-26'
@@ -75,4 +76,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
 ---
+
+I try to breathe
+Memories overtaking me
+I try to face them but
+The thought is too much to conceive
+
+I only know that I can change
+Everything else just stays the same
+So now I step out of the darkness
+that my life became 'cause
+
+I just needed someone to talk to
+You were just too busy with yourself
+You were never there for me
+To express how I felt
+I just stuffed it down
+Now I'm older and I feel like
+I could let some of this anger fade
+But it seems the surface I am scratching
+Is the bed that I have made
+
+So where were you?
+When all this I was going through
+You never took the time
+To ask me just what you could do
+
+I only know that I can change
+Everything else just stays the same
+So now I step out of the darkness
+that my life became 'cause
+
+I just needed someone to talk to
+You were just too busy with yourself
+You were never there for me
+To express how I felt
+I just stuffed it down
+Now I'm older and I feel like
+I could let some of this anger fade
+But it seems the surface I am scratching
+Is the bed that I have made
+
+I never meant to fade...
+Away
+
+I NEVER MEANT TO FADE
+
+I just needed someone to talk to
+You were just too busy with yourself
+You were never there for me
+To express how I felt
+I just stuffed it down
+Now I'm older and I feel like
+I could let some of this anger fade
+But it seems the surface I am scratching
+Is the bed that I have made
+
+I try to breathe...
+
+
 

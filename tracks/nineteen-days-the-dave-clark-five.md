@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nineteen-days-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/nineteendays.html
 name: Nineteen Days
 rankings:
 - end_date: '1966-10-28'
@@ -31,4 +32,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
 ---
+
+In nineteen days
+In nineteen days
+
+Nineteen days before I get to see my lovin' girl again
+Nineteen days, been away too long, I can't stand the pain
+I'm gonna be movin' on home (baby!)
+I'm gonna be movin' on home
+Movin' on home, I hope I find you waiting there
+
+Nineteen days, each town I go to brings me nearer home
+Nineteen days, been workin' too hard every finger to the bone
+
+I'm gonna be movin' on home (baby!)
+Gonna be movin' on home
+Movin' on home, I hope I find you waiting there
+
+In nineteen days
+
+I'm gonna be movin' on home (baby!)
+Gonna be movin' on home
+Movin' on home, I hope I find you waiting there
+
+In nineteen days
+In nineteen days
+In nineteen days
+
+
 

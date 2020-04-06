@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: xanadu-olivia-newton-john-and-the-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/reginevelasquez/xanadu.html
 name: Xanadu
 rankings:
 - end_date: '1980-08-15'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
 ---
+
+A place where nobody dared to go, 
+the love that we came to know 
+They call it Xanadu 
+
+And now, open your eyes and see, 
+what we have made is real 
+We are in Xanadu 
+
+A million lights are dancing and there you are, a shooting star 
+An everlasting world and you're here with me, eternally 
+
+
+Xanadu, Xanadu, (now we are here) in Xanadu 
+Xanadu, Xanadu, (now we are here) in Xanadu 
+
+Xanadu, your neon lights will shine for you, Xanadu 
+The love, the echoes of long ago, 
+you needed the world to know 
+They are in Xanadu 
+
+The dream that came through a million years 
+That lived on through all the tears, it came to Xanadu 
+
+A million lights are dancing and there you are, a shooting star 
+An everlasting world and you're here with me, eternally 
+
+
+Now that I'm here, now that you're near in Xanadu 
+Now that I'm here, now that you're near in Xanadu, Xanadu
+
+
 

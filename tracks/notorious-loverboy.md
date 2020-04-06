@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: notorious-loverboy
+lyrics_url: https://www.azlyrics.com/lyrics/loverboy/notorious.html
 name: Notorious
 rankings:
 - end_date: '1987-08-28'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+
+Hey, hey, hey
+
+Well there's a lone wolf out on the prowl tonight
+Lurkin' in the shadows, always out of sight
+
+I said, little girl, don't you hesitate, cause you're usin' live bait
+Senorita, solitaire, you got a certain kind of savoir-faire
+
+Cause you're notorious (notorious), everything you want,
+everything you need
+Cause you're notorious (notorious), every mother's nightmare,
+Every schoolboy's dream
+
+Everybody by name, every trick in the book
+Everywhere that she goes she gets those dirty looks
+
+I said, little girl, don't you hesitate, cause you're usin' live bait
+Senorita, solitaire, you got a certain kind of savoir-faire
+
+Cause you're notorious (notorious), everything you want,
+everything you need
+Cause you're notorious (notorious), every mother's nightmare
+Every schoolboy's dream
+
+Lock me up, I want to be your prisoner
+Lock me up, I want to be your slave
+
+I said, little girl, don't you hesitate cause you're usin' live bait
+Senorita, solitaire, you got a certain kind of savoir-faire
+
+Cause you're notorious (notorious), everything you want,
+everything you need
+Cause you're notorious (notorious), every mother's nightmare
+Every schoolboy's dream
+
+Cause you're notorious (notorious), everything I want,
+everything I need
+Cause you're notorious (notorious), every mother's nightmare
+Every schoolboy's dream
+
+Every schoolboy's dream, oh yeah
+
+Lock me up
+
+
 

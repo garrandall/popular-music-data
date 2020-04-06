@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-really-mine-jimmie-rodgers
+lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/tuckawaymylonesomeblues.html
 name: Are You Really Mine
 rankings:
 - end_date: '1958-08-10'
@@ -59,4 +60,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
 ---
+
+I'm always blue feeling so blue I wish I had someone I knew
+Just to help me tuck away my blues lonesome blues
+So won't you be that someone to help me lose the blues
+
+I really need someone to love me someone to kiss someone to scold me someone to miss
+So help me tuck away my lonesome blues
+...
+
+
 

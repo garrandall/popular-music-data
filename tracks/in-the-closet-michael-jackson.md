@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-closet-michael-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/inthecloset.html
 name: In The Closet
 rankings:
 - end_date: '1992-05-01'
@@ -87,4 +88,143 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
 ---
+
+
+There's something I have to say to you if you promise you'll understand.
+I cannot contain myself when in your presence
+I'm so humble.
+Touch me, don't hide our love
+Woman to man
+
+
+She's just a lover who's doin' me by
+It's worth the giving
+It's worth the try
+You cannot cleave it or put it in the furnace
+You cannot wet it
+You cannot burn it
+
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+Dare me
+(she wants to give it)
+(ah, she wants to give it)
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+(she wants to give it)
+(ah, she wants to give it)
+
+It's just a feeling
+You have to soothe it
+You can't neglect it
+You can't abuse it
+It's just desire
+You cannot waste it
+Then if you want it
+Then won't you taste it
+
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+Dare me
+(she wants to give it)
+(ah, she wants to give it)
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+(she wants to give it)
+(ah, she wants to give it)
+
+
+One thing in life you must understand
+The truth of lust
+Woman to man
+So open the door and you will see
+There are no secrets
+Make your move
+Set me free
+
+
+Because there's something about you baby
+That makes me want to give it to you
+I swear there's something about you baby
+
+Just promise me
+Whatever we say or whatever we do to each other
+For now we'll make a vow to just keep it in the closet
+
+If you can get it
+It's worth a try
+I really want it
+I can't deny
+It's just desire
+I really love it
+
+'Cause if it's aching
+You have to rub it
+
+
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+(she wants to give it)
+(ah, she wants to give it)
+She wants to give it
+(she wants to give it)
+(ah, she wants to give it)
+(she wants to give it)
+(ah, she wants to give it)
+
+
+Just open the door and you will see
+This passion burns inside of me
+Don't say to me
+You'll never tell
+Touch me there
+Make the move
+Cast the spell
+
+
+Because there's something about you baby
+That makes me want to give it to you
+I swear there's something about you baby
+That makes me want
+
+Just promise me
+Whatever we say or do to each other
+For now we'll make a vow to just keep it in the closet
+
+Because there's something about you baby
+That makes me want to give it to you
+Because there's something about you baby
+That makes me want to give it to you
+
+I swear there's something about you baby
+That makes me want to give it to you
+I swear there's something about you baby
+That makes me want to give it to you
+
+I swear there's something about you baby
+That makes me want to give it to you
+There is somethin' about you baby
+That makes me want
+
+Just promise me
+Whatever we say or whatever we do to each other
+For now we'll make a vow to just keep it in the closet
+
+(she wants to give it)
+Dare me
+Keep it in the closet
+(she wants to give it)
+Dare me
+Keep it in the closet
+
+
+(she wants to give it)
+(ah, she wants to give it)
+
+
 

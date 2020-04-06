@@ -5,6 +5,7 @@ features:
 - PnB Rock
 genres: []
 key: everyday-we-lit-yfn-lucci-pnb-rock
+lyrics_url: https://www.azlyrics.com/lyrics/yfnlucci/everydaywelit.html
 name: Everyday We Lit
 rankings:
 - end_date: '2017-05-05'
@@ -88,4 +89,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
 ---
+
+
+I came up from nothing nigga you can't tell me shit yeah
+Did it on my own, check out neck check my wrist yeah
+I swear I ain't never expected it to be like this
+Now a nigga gettin' rich I swear everyday we lit yeah
+Everyday we lit yeah, you can't tell me shit yeah
+'Member I was broke yeah, now I'm gettin' rich yeah
+Yeah when yo' diamonds colder than a bitch, then you know you lit
+When you quick to take a nigga bitch, then you know you lit
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit everyday we lit
+Everyday we lit yeah, everyday we lit
+
+
+Can't wait to get that Vodka Ron
+Put it on my arm
+Just counted a 50 with my mom, the boy gone
+All my cars came foreign, my chain glowin'
+I ain't goin' man look where we came from
+Uh all yo' bangers got my name on it
+She want me to put my name on it
+I got the hottest '16, one of the best you've ever seen
+But she like it when I sing on it
+
+
+I came up from nothing nigga you can't tell me shit yeah
+Did it on my own, check out neck check my wrist yeah
+I swear I ain't never expected it to be like this
+Now a nigga gettin' rich I swear everyday we lit yeah
+Everyday we lit yeah, you can't tell me shit yeah
+'Member I was broke yeah, now I'm gettin' rich yeah
+Yeah when yo' diamonds colder than a bitch, then you know you lit
+When you quick to take a nigga bitch, then you know you lit
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit everyday we lit
+Everyday we lit yeah, everyday we lit
+
+
+Can't wait to get that new drop
+Put that on my block
+I just copped a new B, put that on my Glock
+I done stepped my game up, got my chains up
+I swear on my niggas I won't never change up
+Rollie all on my wrist, rollie all on my bitch
+I ain't goin' back broke, now a nigga gettin' rich
+I did it all on my own, and nobody gave me a loan
+Now my diamonds on froze, now I'm fuckin' niggas' hoes
+
+
+I came up from nothing nigga you can't tell me shit yeah
+Did it on my own, check out neck check my wrist yeah
+I swear I ain't never expected it to be like this
+Now a nigga gettin' rich I swear everyday we lit yeah
+Everyday we lit yeah, you can't tell me shit yeah
+'Member I was broke yeah, now I'm gettin' rich yeah
+Yeah when yo' diamonds colder than a bitch, then you know you lit
+When you quick to take a nigga bitch, then you know you lit
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit yeah everyday we lit yeah
+Everyday we lit everyday we lit
+Everyday we lit yeah, everyday we lit
+
+
+Yeah-yea-yea yeah
+Ay say everyday we lit
+You can't tell me shit
+Yeah
+Everyday we lit uh
+Everyday we lit
+Everyday we lit uh
+
+
 

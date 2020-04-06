@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-time-i-hear-that-song-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/everytimeihearthatsong.html
 name: Every Time I Hear That Song
 rankings:
 - end_date: '2017-06-02'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
 ---
+
+There's something 'bout yesterday
+How fast it all flies away
+I don't know what it is about a goodbye kiss
+That makes you wanna stay
+We were crazy then we were over
+We were breaking up, making love, a runaway roller coaster
+
+Every time I hear that song
+I'm standing in the pouring rain
+On your front lawn and oh-oh-oh
+I still think about you oh-oh-oh
+Every time I hear that song
+It's like the first time it came on and oh-oh-oh
+I still think about you oh-oh-oh
+I still think about you
+
+There's something in the bittersweet
+The feeling of a memory
+Right there in the moment
+All I ever wanted was you and me
+We were crying, we were wasted
+We were dying when they played it
+
+Every time I hear that song
+I'm standing in the pouring rain
+On your front lawn and oh-oh-oh
+I still think about you oh-oh-oh
+Every time I hear that song
+It's like the first time it came on and oh-oh-oh
+I still think about you oh-oh-oh
+I still think about you
+Oh, I still think about you
+
+There's a soundtrack in my mind
+That takes me back in time
+When I hear that melody
+I think about you and me
+
+Every time I hear that song
+I'm standing in the pouring rain
+On your front lawn and oh-oh-oh
+I still think about you oh-oh-oh
+Every time I hear that song
+It's like the first time it came on and oh-oh-oh
+I still think about you oh-oh-oh
+I still think about you
+Oh, I still think about you
+I still think about you
+Yeah, I still think about you
+
+There's a soundtrack in my mind
+That takes me back in time
+When I hear that melody
+
+
 

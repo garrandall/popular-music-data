@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: takin--it-to-the-streets-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/takinittothestreets.html
 name: Takin' It To The Streets
 rankings:
 - end_date: '1976-04-23'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
 ---
+
+You don't know me but I'm your brother
+I was raised here in this living hell
+You don't know my kind in your world
+Fairly soon the time will tell
+You, telling me the things you're gonna do for me
+I ain't blind and I don't like what I think I see
+Takin' it to the streets
+Takin' it to the streets
+Takin' it to the streets
+Takin' it to the streets
+
+Take this message to my brother
+You will find him everywhere
+Wherever people live together
+Tied in poverty's despair
+You, telling me the things you're gonna do for me
+I ain't blind and I don't like what I think I see
+
+Takin' it to the streets
+Takin' it to the streets
+Takin' it to the streets
+Takin' it to the streets
+
+
 

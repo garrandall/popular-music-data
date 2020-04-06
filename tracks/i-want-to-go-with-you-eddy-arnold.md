@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-go-with-you-eddy-arnold
+lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/iwanttogowithyou.html
 name: I Want To Go With You
 rankings:
 - end_date: '1966-02-11'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
 ---
+
+I wanna go with you
+To that other world
+The one your love takes me to
+I wanna go with you
+
+I wish I were glass
+So you could see through
+Then you'd know before you ask
+That I wanna go with you
+
+I wanna go with you
+To that other world
+The one your love takes me to
+I wanna go with you
+
+You take me away
+To a world I never knew
+But what else can say
+I wanna go with you
+
+I wanna go with you
+To that other world
+The one your love takes me to
+I wanna go with you
+
+The one your love takes me to
+I wanna go with you...
+
+
 

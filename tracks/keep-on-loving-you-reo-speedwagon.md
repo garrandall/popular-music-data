@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-loving-you-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/keeponlovingyou.html
 name: Keep On Loving You
 rankings:
 - end_date: '1980-12-05'
@@ -119,4 +120,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
 ---
+
+You should have seen by the look in my eyes, baby
+There was something missin'
+You should have known by the tone in my voice, maybe
+But you didn't listen
+
+You played dead
+But you never bled
+Instead you lay still in the grass
+All coiled up and hissin'
+
+And though I know all about those men
+Still I don't remember
+'Cause it was us baby, way before them
+And we're still together
+
+And I meant every word I said
+When I said that I love you
+I meant that I love you forever
+
+And I'm gonna keep on lovin' you
+Cause it's the only thing I wanna do
+I don't wanna sleep
+I just wanna keep on lovin' you
+
+And I meant every word I said
+When I said that I love you
+I meant that I love you forever
+
+And I'm gonna keep on lovin' you
+Cause it's the only thing I wanna do
+I don't wanna sleep
+I just wanna keep on lovin' you
+
+Baby, I'm gonna keep on lovin' you
+Cause it's the only thing I wanna do
+I don't wanna sleep
+I just wanna keep on lovin' you
+
+
 

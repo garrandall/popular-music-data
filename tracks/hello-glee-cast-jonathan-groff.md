@@ -5,6 +5,7 @@ features:
 - Jonathan Groff
 genres: []
 key: hello-glee-cast-jonathan-groff
+lyrics_url: https://www.azlyrics.com/lyrics/gleecast/hello.html
 name: Hello
 rankings:
 - end_date: '2010-05-07'
@@ -12,4 +13,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
 ---
+
+I've been alone with you inside my mind
+And in my dreams I've kissed your lips a thousand times
+I sometimes see you pass outside my door
+Hello, is it me you're looking for?
+
+I can see it in your eyes
+I can see it in your smile
+You're all I've ever wanted, and my arms are open wide
+'Cause you know just what to say
+And you know just what to do
+And I want to tell you so much, I love you ...
+
+Ohh yeahh...
+
+I long to see the sunlight in your hair
+And tell you time and time again how much I care
+Sometimes I feel my heart will overflow
+Hello, I've just got to let you know
+
+'Cause I wonder where you are
+And I wonder what you do
+Are you somewhere feeling lonely, or is someone loving you?
+Tell me how to win your heart
+For I haven't got a clue
+But let me start by saying... I love you ...
+
+Is it me you're looking for?
+'Cause I wonder where you are
+And I wonder what you do (wonder what you do...)
+Are you somewhere feeling lonely or is someone loving you?
+Tell me how to win your heart
+For I haven't got a clue
+But let me start by saying ... I love you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: purest-of-pain--a-puro-dolor--son-by-four
+lyrics_url: https://www.azlyrics.com/lyrics/sonbyfour/purestofpainapurodolorspanglish.html
 name: Purest Of Pain (A Puro Dolor)
 rankings:
 - end_date: '2000-04-14'
@@ -111,4 +112,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
 ---
+
+I'm sorry I didn't mean to call you
+But I coudn't fight it
+I guess I was weak and couldn't even hide it
+And so I surrended just to hear your voice
+I know how many times I said I'm gonna to live with out you
+and maybe someone else is standing there beside you
+But there is something baby that you need to know
+That deep inside me i feel like I'm dying
+I have to see you it's all that I'm asking
+
+Vida, give me back my fantasies,
+The courage that I need to live
+The air that I Breathe
+Carino mio, my worlds become so empty
+My day's are so cold and lonely,
+and each night I taste
+The purest of Pain
+
+I wish I could tell you I'm feeling better every day
+That it din't hurt me when you walked away
+But to tell you the truth I can't find my way
+And deep inside me I feel like I'm dying
+I have to see you it's all that I'm asking
+
+
 

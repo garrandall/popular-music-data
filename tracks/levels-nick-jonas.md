@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: levels-nick-jonas
+lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/levelsalexghenearadioedit.html
 name: Levels
 rankings:
 - end_date: '2015-09-18'
@@ -55,4 +56,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
 ---
+
+Levels, levels, levels, levels
+
+Get on my elevator, baby we're going up
+Give me that now and later, I can't get enough
+So much to discover, please don't stop me now (don't stop me)
+Every time I touch you, you lift right off the ground
+
+Let them go, all the one's tryna get in the door
+I'm a go where they all couldn't go
+Up a floor, up a floor, up a floor, oh
+
+I know, we can get higher
+There's levels to your love
+Yeah, there's levels to your love
+And I know, we can get higher
+There's levels to your love
+And I keep on climbing up
+
+(Rooftop)
+Levels, levels, levels, levels
+Levels, levels, levels, levels
+Levels, levels, levels, levels
+Levels, levels, levels, levels
+
+Walking up on the ceiling, dancing up on the wall
+You and that drug you're dealing, should be against the law
+All this heat keep rising, make you stop, drop, and roll
+I'm bottling up the lightning, supernatural
+
+Let them go, all the one's tryna get in the door
+I'm a go where they all couldn't go
+Up a floor, up a floor, up a floor, yeah
+
+I know, we can get higher
+There's levels to your love
+Yeah, there's levels to your love
+And I know, we can get higher
+There's levels to your love
+And I keep on climbing up
+
+(Rooftop)
+Levels, levels, levels, levels (Oh)
+Levels, levels, levels, levels (They can't reach us; yeah, we're high-fiving Jesus)
+Levels, levels, levels, levels (Yeah; yeah, levels to your love)
+Levels, levels, levels, levels (Yeah)
+
+And I know, we can get higher
+There's levels to your love
+Yeah, there's levels to your love
+And I know (I know), we can get higher
+There's levels to your love
+And I keep on climbing up
+
+(Rooftop) Oh
+Levels, levels, levels, levels (There's levels to your love, no no no)
+Levels, levels, levels, levels (Hey, oh oh)
+Levels, levels, levels, levels (Yeah, get on my levels)
+There's levels to your love
+And I keep on climbing up
+(Levels)
+We can get higher (Levels)
+We can get higher
+There's levels to your love
+And I keep on climbing up
+(Levels)
+
+
 

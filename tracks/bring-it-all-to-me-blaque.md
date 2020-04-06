@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-it-all-to-me-blaque
+lyrics_url: https://www.azlyrics.com/lyrics/blaque/bringitalltome.html
 name: Bring It All To Me
 rankings:
 - end_date: '1999-10-29'
@@ -123,4 +124,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
 ---
+
+
+There you are
+Looking as fine as can be
+In your fancy car
+I can see you looking at me
+What you wanna do?
+Are you just gonna sit there and stare?
+Baby talk to me
+Tell me what's on your mind, baby oh
+
+
+Oh baby, bring it all to me
+But I don't need no fancy cars or diamond rings
+Oh baby, bring it all to me
+Gimme your time, your love, your space, your energy
+
+
+Baby, what's the deal?
+Would I be too forward if
+I told you how I feel
+That's just the way I do my thang
+I'm so for real
+Are you feeling my Timb's, my baggy jeans
+My thug appeal
+Do you like it when a man can keep it real?
+Oh
+
+
+
+Oh, baby
+
+
+Oh, I'll put my pride to the side
+Just to tell you how good you make me feel inside
+
+
+There's not a single question
+That we can't make this right
+Cause it's you I need every day and night
+
+
+oh ho ho baby yeah
+
+
+
+
 

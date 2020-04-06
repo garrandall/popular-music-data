@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-sent-keyshia-cole
+lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/heavensentremix.html
 name: Heaven Sent
 rankings:
 - end_date: '2008-05-23'
@@ -87,4 +88,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
 ---
+
+This is the remix
+Mario
+Keyshia cole
+World wide baby
+Sent from heaven.
+Sent from heaven.
+
+Now you can wait your whole life wondering
+When it's gonna come or where it's been.
+You may have got your heart broken
+A few times in the past
+Never last strong as it used to,
+Don't feel as good as it used to (before)
+And all the things you used to say,
+Things you used to do, went right out the door
+
+Oooo no more, will you be the one
+That's what you tell everyone around you
+But you know they've heard it all before
+What more can you say
+When love won't let you, walk away
+You can't help who you love
+And you find yourself giving it away
+When you think you're in love
+
+
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)I wanna be
+I'll be the one to comfort you baby
+And you know id do whatever to please your every need,
+I'll be right here to keep you warm,
+You got no worry atall I'll protect you from the start,
+You know I'll be right here always by your side, baby,
+I'm here to love you always and let me tell you why
+
+Why
+I, cause heaven knows that your my angel,
+Cause I, I, will never leave you baby,
+Cause love won't let me walk away
+And I can't help who I love
+And I find myself giving it all away
+Cause I know I'm in love
+I wanna be
+
+
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)
+
+Everybody say
+I wanna be the one you love
+I wanna be (sent from heaven)
+I wanna be the one you trust
+I wanna be (sent from heaven)
+I wanna be the one you need
+I wanna be (sent from heaven)
+I wanna be the one
+I wanna be the one (sent from heaven)
+
+
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)
+I wanna be the one who you believe
+In your heart is sent from (sent from heaven)
+There's a piece of me who leaves when your gone
+Because you're sent from (sent from heaven)
+
+
 

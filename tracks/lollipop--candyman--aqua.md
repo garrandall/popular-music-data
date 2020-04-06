@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lollipop--candyman--aqua
+lyrics_url: https://www.azlyrics.com/lyrics/aqua/lollipopcandyman.html
 name: Lollipop (Candyman)
 rankings:
 - end_date: '1997-12-19'
@@ -75,4 +76,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
 ---
+
+I am the Candyman - Coming from Bountyland
+I am the Candyman - Coming from Bountyland!
+
+I wish that you were my Lollipop
+Sweet things, I will never get enough
+If you show me to the sugar tree,
+will you give me a sodapop for free?
+
+Come with me Honey,
+I'm your sweet sugar Candyman
+Run like the wind - fly with me to Bountyland
+Bite me, I'm yours - if you're hungry please understand
+This is the end - of the sweet sugar Candyman
+
+Oh my love - I know you are my Candyman,
+And oh my love - your word is my command
+Oh my love - I know you are my Candyman,
+And oh my love - let us fly to Bountyland
+
+You are my Lollipop - sugar sugar top
+You are my Lollipop - sugar sugar top
+
+I wish that I were a Bubble Gum,
+chewing on me, baby, all day long
+I will be begging for sweet delight,
+until you say I'm yours tonight
+
+Come with me Honey,
+I'm your sweet sugar Candyman
+Run like the wind - fly with me to Bountyland
+Bite me, I'm yours - if you're hungry please understand
+This is the end - of the sweet sugar Candyman
+
+Oh my love - I know you are my Candyman,
+And oh my love - your word is my command
+Oh my love - I know you are my Candyman,
+And oh my love - let us fly to Bountyland
+
+Oh my love - I know you are my Candyman,
+and oh my love - your word is my command
+Oh my love - I know you are my Candyman,
+And oh my love - let us fly to Bountyland
+
+I am the Candyman - Coming from Bountyland
+I am the Candyman - Coming from Bountyland!
+
+Oh my love - I know you are my Candyman,
+And oh my love - your word is my command
+Oh my love - I know you are my Candyman,
+And oh my love - let us fly to Bountyland
+
+You are my Lollipop - sugar sugar top
+You are my Lollipop - sugar sugar top
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: powerful-stuff-the-fabulous-thunderbirds
+lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/powerfulstuff.html
 name: Powerful Stuff
 rankings:
 - end_date: '1988-09-02'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
 ---
+
+She walks down the street a-knockin' 'em dead
+Store window dummies even turn their heads
+Sho' 'nuff, powerful stuff
+When I saw her I burned my black book
+Made a blind man take a second look
+Sho' 'nuff I think I'm in love
+And that's powerful stuff
+
+Naugahyde skirt, black stacked heels
+Red copper head, dig the wig it's unreal
+Sho' 'nuff, powerful stuff
+Ole man Atlas holding up the world
+He'd drop everything for that girl
+Sho' 'nuff, I think I'm in love
+And it's powerful stuff
+
+Her hip shakin' whip snakin' cooked my goose
+I tell you that babe she's a fine papoose
+I love her mind, but here's the deal
+She's got the kind of girl who rides the manmobile
+
+She opens her eyes and turns on the juice
+Pulls 'em like a magnet and she don't turn loose
+Sho' 'nuff, powerful stuff
+When she starts rockin', don't touch that dial
+She's a hundred-mega-kilowatts of woman, child
+Sho' 'nuff, I think I'm in love
+Think I'm in love, I think I'm in love
+And that's powerful stuff
+
+
 

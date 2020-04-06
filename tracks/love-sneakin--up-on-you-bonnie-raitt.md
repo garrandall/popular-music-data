@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-sneakin--up-on-you-bonnie-raitt
+lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/lovesneakinuponyou.html
 name: Love Sneakin' Up On You
 rankings:
 - end_date: '1994-03-18'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
 ---
+
+Rainy night, I'm all alone
+Sittin' here, waiting for your voice on the phone
+Fever turns to cold, cold sweat
+Thinkin' about things we ain't done yet
+Tell me now
+I gotta know, do you feel the same
+Do you just light up at the mention of my name
+
+
+Don't worry baby, it ain't nothin' new
+That's just love sneakin' up on you
+And if your whole world is shakin', feel like I do
+That's just love sneakin' up on you
+
+Hey, hey yeah
+
+Nowhere on Earth for your heart to hide
+Once love comes sneakin' up on your blind side
+You might as well try to stop the rain
+Stand in the track of a runaway train
+Just can't fight it when a thing is meant to be, yeah
+Come on, let's finish what you started with me
+Yeah
+
+
+
+Hey yeah
+
+
+
+
 

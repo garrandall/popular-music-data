@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-once-in-a-lifetime-demis-roussos
+lyrics_url: https://www.azlyrics.com/lyrics/demisroussos/thatonceinalifetime.html
 name: That Once In A Lifetime
 rankings:
 - end_date: '1978-06-09'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
 ---
+
+True love had found us and vowed to be around us
+till the end of the time (baby baby)
+And we were the lovers who once could show the others
+how a poem should rhyme (oh didn't we baby)
+That love has faded from your touch somehow,
+it seems one-sided to me now, I beg you.
+
+Babe let's bring back that once in a lifetime
+when we were the ones who took a ride on a rainbow
+and kissed in the sun.
+Let's try to bring back the time when we had stars in our eyes.
+Hey babe, this once in a lifetime, let's fly.
+Don't say goodbye,
+don't let our love just die.
+
+And though I'm so near you I'm living in the fear 
+you will leave soon (baby baby)
+And we sang the chorus that love had written for us.
+but we fell out of tune (oh didn't we baby)
+No doubt this broken heart will never mend.
+You know I'll love you to the end, I beg you.
+
+Babe let's bring back that once in a lifetime
+when we were the ones who took a ride on a rainbow
+and kissed in the sun.
+Let's try to bring back the time when we had stars in our eyes.
+Hey babe, this once in a lifetime, let's fly.
+Don't say goodbye,
+don't let our love just die.
+Bring back the love of yesterday
+that somehow got away
+'cause baby I love you,
+you know that I love you.
+
+
 

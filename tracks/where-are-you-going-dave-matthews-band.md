@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-are-you-going-dave-matthews-band
+lyrics_url: https://www.azlyrics.com/lyrics/davematthewsband/whereareyougoing.html
 name: Where Are You Going
 rankings:
 - end_date: '2002-06-21'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
+
+Where are you going, with your long face pulling down?
+Donât hide away, like an ocean
+But you canât see, but you can smell
+And the sound of waves crash down
+
+I am no Superman
+I have no reasons for you
+I am no hero, oh thatâs for sure
+But I do know one thing
+Is where you are, is where I belong
+I do know, where you go is where I wanna be
+
+Where are you going, where do you go?
+Are you looking for answers to questions under the stars?
+Well, if along the way you are growing weary,
+You can rest with me until a brighter day
+And you're okay
+
+I am no Superman
+I have no answers for you
+I am no hero, oh thatâs for sure
+But I do know one thing
+Is where you are, is where I belong
+I do know, where you go is where I wanna be
+
+Where are you going, where do you go?
+
+Where do you go?
+Where are you going, where do you go?
+
+I am no Superman
+I have no answers for you
+I am no hero, oh thatâs for sure
+But I do know one thing
+Is where you are, is where I belong
+I do know, where you go is where I wanna be
+
+Where are you going, where do you go?
+Tell me, where are you going, where?
+
+Letâs go.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: truly-madly-deeply-savage-garden
+lyrics_url: https://www.azlyrics.com/lyrics/yokelore/trulymadlydeeply.html
 name: Truly Madly Deeply
 rankings:
 - end_date: '1997-12-12'
@@ -215,4 +216,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+
+I'll be your dream, I'll be your wish, I'll be your fantasy
+I'll be your hope, I'll be your love, be everything that you need
+I'll love you more with every breath
+Truly, madly, deeply do
+I will be strong, I will be faithful
+'Cause I'm counting on a new beginning
+A reason for living, a deeper meaning
+
+I wanna stand with you on a mountain
+I wanna bathe with you in the sea
+I wanna lay like this forever
+Until the sky falls down on me
+Until the sky falls down on me
+Until the sky falls down on me
+
+And when the stars are shining brightly in the velvet sky
+I'll make a wish send it to heaven and make me want to cry
+The tears of joy for all the pleasure and the certainty
+That we're surrounded by the comfort and protection
+Of the highest power in lonely hours
+The tears devour you
+
+Oh you can see it baby?
+You don't have to close your eyes
+'Cause it's standing right before you
+All that you need will surely come
+
+I wanna stand with you on a mountain
+I wanna bathe with you in the sea
+I wanna lay like this forever
+Until the sky falls down on me
+I wanna stand with you on a mountain
+I wanna bathe with you in the sea
+I wanna lay like this forever
+Until the sky falls down on me
+Until the sky falls down on me
+Until the sky falls down on me
+Until the sky falls down on me
+Until the sky falls down on me
+
+
 

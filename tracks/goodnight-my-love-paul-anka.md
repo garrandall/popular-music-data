@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodnight-my-love-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/goodnightmylove.html
 name: Goodnight My Love
 rankings:
 - end_date: '1969-01-10'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
 ---
+
+Goodnight, my love (wah-ooh) 
+Pleasant dreams and sleep tight, my love 
+May tomorrow be sunny and bright 
+And bring you closer to me 
+
+Before you go (wah-ooh) 
+There's just one thing I'd like to know (wah-ooh) 
+If you love is still warm for me 
+Or has it gone cold? 
+
+If you should awake in the still of the night 
+Please have no fear 
+For I'll be there, darling you know I care 
+Please give your love to me, dear, only 
+
+Goodnight, my love (wah-ooh) 
+Pleasant dreams and sleep, sleep tight, my love (wah-ooh) 
+May tomorrow be sunny and bright 
+
+And bring you closer to me 
+
+Goodnight, my love 
+Pleasant dreams and sleep tight, my love 
+May tomorrow be sunny and bright 
+And bring you closer to me 
+
+(wah-ooh, wah-ooh) 
+Goodnight, my love 
+(wah-ooh, wah-ooh) 
+Goodnight, my love 
+(wah-ooh, wah-ooh) 
+Goodnight, my love 
+(wah-ooh, wah-ooh) 
+Sleep tight, my love 
+
+
+
+
 

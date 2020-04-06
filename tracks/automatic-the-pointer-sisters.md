@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: automatic-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/automatic.html
 name: Automatic
 rankings:
 - end_date: '1984-02-03'
@@ -87,4 +88,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
 ---
+
+Look what you're doing to me
+I'm utterly at your whim
+All of my defenses down
+
+Your camera looks through me
+With it's X-ray vision
+And all systems run aground
+
+All I can manage to push from my lips
+Is a stream of absurdities
+Every word I intended to speak
+Winds up locked in a circuitry
+
+No way to control it
+It's totally automatic
+Whenever you're around
+
+I'm walking blindfolded
+Completely automatic
+All of my systems are down
+Down, down, down
+Automatic (automatic)
+Automatic (automatic)
+
+What is this madness
+That makes my motor run
+And my legs too weak to stand
+I go from sadness to exhilaration
+Like a robot at your command
+
+My hands perspire
+And shake like a leaf
+Up and down goes my temperature
+I summon doctors to get some relief
+But they tell me there is no cure
+They tell me
+
+No way to control it
+It's totally automatic
+Whenever you're around
+
+I'm walking blindfolded
+Completely automatic
+All of my systems are down
+Down, down, down
+Automatic (automatic)
+Automatic (automatic)
+
+Automatic, automatic
+Automatic, automatic
+
+Look what you're doing to me
+I'm utterly at your whim
+All of my defenses down
+
+Your camera looks through me
+With it's X-ray vision
+And all systems run aground
+
+All I can manage to push from my lips
+Is a stream of absurdities
+Every word I intended to speak
+Wind up locked in the circuitry
+
+No way to control it
+It's totally automatic
+Whenever you're around
+
+I'm walking blindfolded
+Completely automatic
+All of my systems are down
+Down, down, down
+
+No way to control it
+It's totally automatic
+Whenever you're around
+
+I'm walking blindfolded
+Completely automatic
+All of my systems are down
+Down, down, down
+
+No way to control it
+It's totally automatic
+Whenever you're around
+
+I'm walking blindfolded
+Completely automatic
+All of my systems are down
+Down, down, down
+Automatic (automatic)
+Automatic (automatic)
+
+
 

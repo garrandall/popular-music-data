@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-on-the-chain-gang-pretenders
+lyrics_url: https://www.azlyrics.com/lyrics/morrissey/backonthechaingang.html
 name: Back On The Chain Gang
 rankings:
 - end_date: '1982-12-17'
@@ -103,4 +104,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
 ---
+
+I found a picture of you, oh oh oh oh
+It hijacked my world at nights
+From a place in the past
+We've been cast out of, oh oh oh oh
+Now we're back in the fight
+
+Yes we're back on the chain gang
+Oh back on the chain gang
+
+A circumstance beyond our control, oh oh oh oh
+The phone, the tv and the news of the world
+Got in the house like a pigeon from hell, oh oh oh oh
+Sand in our eyes, descended like flies
+
+Yes we're back on the chain gang
+Oh back on the chain gang
+
+The powers that be
+That force us to live like we do
+Bring me to my knees
+When I see what they've done to you
+
+But I'll die as I stand here today
+Knowing that deep in my heart
+They'll fall to ruin one day
+For making us part
+
+I found a picture of you, oh oh oh oh
+They were the happiest days of my life
+Like a break in the battle was your part, oh oh oh oh
+Lonely heart, lonely hearts
+
+Yes we're back on the chain gang
+Oh back on the chain gang (chain gang)
+
+
 

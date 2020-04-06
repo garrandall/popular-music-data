@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: carnival-natalie-merchant
+lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/carnival.html
 name: Carnival
 rankings:
 - end_date: '1995-08-11'
@@ -131,4 +132,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
 ---
+
+I've walked these streets
+A virtual stage
+It seemed to me
+Make up on their faces
+Actors took their
+Places next to me 
+
+I've walked these streets
+In a carnival
+Of sights to see
+All the cheap thrill seekers
+The vendors & the dealers
+They crowded around me 
+
+Have I been blind
+Have I been lost
+Inside myself and
+My own mind
+Hypnotized
+Mesmerized
+By what my eyes have seen? 
+
+I've walked these streets
+In a spectacle of wealth & poverty
+In the diamond market
+The scarlet welcome carpet
+That they just rolled out for me 
+
+I've walked these streets
+In the mad house asylum
+They can be
+Where a wild eyed misfit prophet
+On a traffic island stopped
+And he raved of saving me 
+
+Have I been blind
+Have I been lost
+Inside myself and
+My own mind
+Hypnotized
+Mesmerized
+By what my eyes have seen? 
+
+Have I been wrong
+Have I been wise
+To shut my eyes
+And play along
+Hypnotized
+Paralyzed
+By what my eyes have found
+By what my eyes have seen
+What they have seen? 
+
+Have I been blind
+Have I been lost
+Have I been wrong
+Have I been wise
+Have I been strong
+Have I been
+Hypnotized
+Mesmerized
+By what my eyes have found
+In that great street carnival
+In that carnival?
+
+
 

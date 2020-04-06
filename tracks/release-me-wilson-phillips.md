@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: release-me-wilson-phillips
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/releaseme.html
 name: Release Me
 rankings:
 - end_date: '1990-07-06'
@@ -95,4 +96,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
 ---
+
+I know that it's time for a change
+Mmm but when that change comes
+Will you still feel the same?
+
+How many times have I tried to turn this love around?
+I don't want to give up
+But baby it's time I had two feet on the ground
+Can you release me
+Can you release me
+Now that you're gone I can't help myself from wondering
+Oh, if you'd have come down from your high
+Would we've been all right?
+Release me
+Can you release me
+
+
+Come on baby, come on baby
+You knew it was time to just let go
+'Cause we want to be free
+But somehow it's just not that easy
+Come on Darlin', hear me Darlin'
+'Cause you're a waste of time for me
+I'm trying to make you see
+That baby you've just got to release me
+Release me
+Release me
+I'm not going back to you anymore
+Finally my weakened heart is healing though very slow
+So stop coming around my door
+'Cause you're not gonna find
+What you're looking for
+
+
+
+What is this power you've got on me
+What is this power, Oh
+What is it,What is it
+
+
+
+Release me
+Will you release me
+Ah...Release me
+Will you release me
+
+
 

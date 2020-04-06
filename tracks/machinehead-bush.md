@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: machinehead-bush
+lyrics_url: https://www.azlyrics.com/lyrics/bush/machinehead.html
 name: Machinehead
 rankings:
 - end_date: '1996-04-19'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
 ---
+
+Breathe in breathe out
+Breathe in breathe out
+Breathe in
+
+Breathe in breathe out
+Breathe in breathe out
+Breathe in
+
+Tied to a wheel our fingers got to feel
+Bleeding through a tourniquet smile
+I spin on a whim I slide to the right
+I felt you like electric light
+
+For our love
+For our fear
+For our rise against the years and years and years
+
+Got a machinehead
+It's better than the rest
+Green to red machinehead
+
+Got a machinehead
+It's better than the rest
+Green to red
+
+And I walk from my machine
+I walk from my machine
+
+Breathe in breathe out
+Breathe in breathe out
+Breathe in
+
+Deaf, dumb, dirty
+Starting to deserve this
+Leaning on my conscience wall
+Blood is like wine
+Unconscious all the time
+If I had it all again
+I'd change it all
+
+Got a machinehead
+It's better than the rest
+Green to red machinehead
+
+Got a machinehead
+It's better than the rest
+Green to red
+
+And I walk from my machine
+I walk from my machine
+
+"Just minding my chemistry
+Just minding my chemistry
+It's a foul ball"
+
+Breathe in breathe out
+Breathe in breathe out
+Breathe in
+Breathe in
+Breathe in
+
+Got a machinehead
+It's better than the rest
+Green to red machinehead
+Got a machinehead
+It's better than the rest
+Green to red
+
+It's better than the rest
+
+It's better than the rest
+Machinehead
+
+And I walk from my machine
+I walk from my machine
+
+
 

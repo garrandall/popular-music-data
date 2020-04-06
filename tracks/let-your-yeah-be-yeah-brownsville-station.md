@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-your-yeah-be-yeah-brownsville-station
+lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/letyouryeahbeyeah.html
 name: Let Your Yeah Be Yeah
 rankings:
 - end_date: '1973-03-09'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+
+You keep telling me yes
+But you don't mean it
+You keep telling me no
+And try to lean it
+You're giving me buts and maybe
+You know this will drive me crazy
+Why can't you tell it like it is 
+
+Let your yeah be yeah and your no be no, now 
+Let your yeah be yeah and your no be no, now 
+Because I'm on my guard and I'm watching you from head to toe
+You better let your yeah be yeah and your no be no 
+
+You wear a plastic smile
+I know by you eyes
+You speak with indefinite style
+You're telling me lies
+You've got to face reality
+What is wrong with you and me
+Why can't you free your honesty
+
+Let your yeah be yeah and your no be no, now 
+Let your yeah be yeah and your no be no, now 
+Because I'm on my guard and I'm watching you from head to toe
+You better let your yeah be yeah and your no be no
+
+
 

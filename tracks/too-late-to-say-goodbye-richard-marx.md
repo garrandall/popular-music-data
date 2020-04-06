@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-late-to-say-goodbye-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/toolatetosaygoodbye.html
 name: Too Late To Say Goodbye
 rankings:
 - end_date: '1990-01-26'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
 ---
+
+What I had to flaunt
+Has come back to haunt
+Like a restless wind
+And the best of times
+That were left behind
+They come blowing in
+
+No one's pushing me
+Through that door
+But it might as well be
+A forty-four in the night
+
+It's too late to say goodbye
+I'm all out of lies
+It's too late to say goodbye
+
+How can I resist
+One more stranger's kiss
+Should the thrill be gone
+And if I must refrain
+Will I wind up the same
+As the jealous dogs?
+
+From this day forward
+Could be too long
+But crossing the border
+Would be so wrong, and you're right
+
+It's too late to say goodbye
+I've run out of lies
+And it's too late to say goodbye
+
+I know that you're right
+It's too late to say goodbye
+I'm all out of lies
+It's too late to say goodbye
+This feeling won't die
+It's too late to say goodbye
+I can't watch you cry
+It's too late to say goodbye
+
+
 

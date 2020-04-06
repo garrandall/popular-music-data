@@ -5,6 +5,7 @@ features: []
 genres: []
 key: love-is-blue--l-amour-est-bleu--claudine-longet
 name: Love Is Blue (L'Amour Est Bleu)
+lyrics_url: https://genius.com/Claudine-longet-love-is-blue-lyrics
 rankings:
 - end_date: '1968-03-01'
   rank: 97
@@ -43,4 +44,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
 ---
-
+Blue, blue, my world is blue
+Blue is my world now I'm without you
+Gray, gray, my life is gray
+Cold is my heart since you went away
+Red, red, my eyes are red
+Crying for you alone in my bed
+Green, green, my jealous heart
+I doubted you and now we're apart
+When we met how the bright sun shone
+Then love died, now the rainbow is gone
+Black, black, the nights I've known
+Longing for you so lost and alone

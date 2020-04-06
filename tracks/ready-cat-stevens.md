@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-cat-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/catstevens/ready.html
 name: Ready
 rankings:
 - end_date: '1974-12-13'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
 ---
+
+I love I love I'm ready to love yes
+I love I love I'm ready to love yeah
+I love I love I'm ready
+to ready to ready to love
+I love I love I'm ready to love yeah
+
+You keep me awake with your white lilly smile
+don't keep me watching your charms all the while
+Cause as all the wise men say
+Grab it if it comes your way
+I'm ready Oh
+
+I love I love I'm ready to love yeah
+ready to love
+I love I love I'm ready to love yeah
+
+You make me feel things Ive never felt before
+Help my baby eyes and open up the door
+You make me real to everyone and everyday I
+I thank the Lord that you came along this way
+Its no more an illusion than I can say
+
+I love I love I'm ready to love yes
+I love I love I'm ready to love yeah
+I love I love I'm ready
+Ready Ready Ready to love
+
+
 

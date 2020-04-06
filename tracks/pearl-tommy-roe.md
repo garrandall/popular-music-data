@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pearl-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/pearl.html
 name: Pearl
 rankings:
 - end_date: '1970-06-26'
@@ -43,4 +44,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
 ---
+
+Pearl,
+One summer night with you,
+Will make up for the past,
+And the nights I never knew,
+Love, warm love.
+
+Just light the match,
+That lights my fire.
+Pearl, I'm burnin' with desire,
+With Pearl, with my girl.
+
+You comb my hair,
+With your fingertips,
+Kiss me with your pretty little lips,
+Oh Pearl,
+You're my girl.
+
+Pearl,
+Your smile brings on a glow,
+And deep inside my heart,
+I begin to know,
+Love, warm love.
+
+You strike the match,
+That lights my fire.
+Pearl, I'm burnin' with desire,
+Oh Pearl, you're my girl.
+
+You comb my hair,
+With your fingertips,
+Kiss me with your pretty little lips,
+Oh Pearl,
+You're my girl.
+
+You strike the match,
+That lights my fire.
+Pearl, I'm burnin' with desire,
+Oh Pearl, you're my girl.
+
+You comb my hair,
+With your fingertips,
+Kiss me with your pretty little lips,
+Oh Pearl,
+You're my girl.
+
+You strike the match,
+That lights my fire.
+Pearl, I'm burnin' with desire,
+Oh Pearl, you're my girl.
+
+You comb my hair,
+With your fingertips,
+Kiss me with your pretty little lips,
+Oh Pearl,
+You're my girl.
+
+
 

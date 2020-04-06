@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: takin--care-of-business-bachman-turner-overdrive
+lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/takincareofbusiness.html
 name: Takin' Care Of Business
 rankings:
 - end_date: '1974-05-24'
@@ -87,4 +88,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
 ---
+
+
+
+You get up every morning
+From your 'larm clock's warning
+Take the 8:15 into the city
+There's a whistle up above
+And people pushin', people shovin'
+And the girls who try to look pretty
+And if your train's on time
+You can get to work by nine
+And start your slaving job to get your pay
+If you ever get annoyed
+Look at me I'm self-employed
+I love to work at nothing all day
+And I'll be
+
+Taking care of business (every day)
+Taking care of business (every way)
+I've been taking care of business (it's all mine)
+Taking care of business and working overtime
+Work out
+
+If it were easy as fishin'
+You could be a musician
+If you could make sounds loud or mellow
+Get a second-hand guitar
+Chances are you'll go far
+If you get in with the right bunch of fellows
+People see you having fun
+Just a-lying in the sun
+Tell them that you like it this way
+It's the work that we avoid
+And we're all self-employed
+We love to work at nothing all day
+And we be
+
+Taking care of business (every day)
+Taking care of business (every way)
+We be been taking care of business (it's all mine)
+Taking care of business and working overtime
+
+Mercy
+Whooooo
+All right
+
+
+
+Take good care of my business
+When I'm away, every day
+Whoooo
+
+You get up every morning
+From your 'larm clock's warning
+Take the 8:15 into the city
+There's a whistle up above
+And people pushin', people shovin'
+And the girls who try to look pretty
+And if your train's on time
+You can get to work by nine
+And start your slaving job to get your pay
+If you ever get annoyed
+Look at me I'm self-employed
+I love to work at nothing all day
+And I'll be
+
+Taking care of business (every day)
+Taking care of business (every way)
+I've been taking care of business (it's all mine)
+Taking care of business and working overtime
+
+
+
+Takin' care of business, whoo
+Takin' care of business
+Takin' care of business
+Takin' care of business
+Takin' care of business (every day)
+Takin' care of business (every way)
+Takin' care of business (it's all mine)
+Takin' care of business
+And working overtime
+Whoooo
+Takin' care of business
+Takin' care of business
+Takin' care of business
+We be Takin' care of business
+We be Takin' care of business
+Takin' care of business
+Takin' care of business
+
+
+
+
 

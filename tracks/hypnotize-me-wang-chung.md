@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hypnotize-me-wang-chung
+lyrics_url: https://www.azlyrics.com/lyrics/wangchung/hypnotizeme.html
 name: Hypnotize Me
 rankings:
 - end_date: '1987-06-12'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
 ---
+
+Darlin', I believe in love
+Since I met you, baby
+I believe in love
+The way you hold me
+My heart is stirred
+You can control me
+Without a word
+
+
+Turn on you white light
+In my open eyes
+Oh girl, you hypnotize me
+I feel your white light
+You're so bright
+I'm hypnotized
+And as you're looking at me
+It's a deep ecstasy
+And no word is enough
+Just shine the light in my eyes
+And hypnotize me love
+
+Darlin', I believe in love
+In this hate-ridden world
+I believe in love
+Do you know the power
+You have over me
+Use it every hour
+Shine the light on me
+
+
+
+Turn me on (with your love)
+Turn me on (with your love)
+Turn your light around to mesmerise me
+Turn me on, oo-oh
+Just shine the light in my eyes
+And hypnotize me love
+Just shine the light in my eyes
+And hypnotize me love
+
+
+
+
 

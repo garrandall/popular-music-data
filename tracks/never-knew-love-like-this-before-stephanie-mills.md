@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-knew-love-like-this-before-stephanie-mills
+lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/neverknewlovelikethisbefore.html
 name: Never Knew Love Like This Before
 rankings:
 - end_date: '1980-08-15'
@@ -107,4 +108,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
 ---
+
+I never knew love like this before;
+Now I'm lonely never more,
+Since you came into my life...
+
+You are my lovelight, this I know,
+And I'll never let you go;
+You're my all, you're part of me...
+
+Once I was lost, and now I'm found,
+Then you turned my world around;
+When I need, I call your name...
+
+'Cause I never knew love like this before;
+Opened my eyes,
+'Cause I never knew love like this before;
+What a surprise,
+'Cause I never knew love like this before...
+
+This feeling's so deep inside of me,
+Such a tender fantasy;
+You're the one I'm living for...
+
+You are my sunlight and my rain,
+And time could never change
+What we share forevermore...
+
+Ooh, hoo... I never knew love like this before;
+Now I'm lonely never more,
+Since you came into my life...
+
+'Cause I never knew love like this before;
+Opened my eyes,
+'Cause I never knew love like this before;
+What a surprise,
+'Cause I never knew love like this before...
+
+You are my lovelight, this I know,
+And I'll never let you go;
+You're my all, you're part of me...
+
+Once I was lost, and now I'm found,
+Then you turned my world around;
+When I need, I call your name...
+
+'Cause I never knew love like this before;
+Opened my eyes,
+'Cause I never knew love like this before;
+What a surprise,
+'Cause I never knew love like this before...
+Inside of me,
+(I never) never knew love like this before...
+Opened my eyes...
+
+(Never,) Never, (never) never;
+(Never knew love like this...) I never knew, I never knew, I never...
+(Never,) Never, (never) never;
+(Never knew love like this...) I never knew, I never knew, I never knew...
+
+(Never,) Never, (never) never;
+(Never knew love like this...) I never knew...
+(Never,) Never knew, (never) never...
+(Never knew love like this...) I never knew...
+
+(Never,) Never knew, (never) never...
+(Never knew love like this...) I never knew, I never knew, I never knew,
+(Never,) I never knew, I never knew, I never knew (never) I never...
+(Never knew love like this...) Never knew love like... never knew...
+
+(Never,) Never knew... (Never) never;
+(Never knew love like this...) Opened my eyes...
+(Never,) What a surprise... (Never...) Never...
+(Never knew love like this...) I never knew...
+
+
 

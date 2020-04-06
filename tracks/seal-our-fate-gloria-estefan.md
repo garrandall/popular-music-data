@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seal-our-fate-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/sealourfate.html
 name: Seal Our Fate
 rankings:
 - end_date: '1991-04-26'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
 ---
+
+They say it's never too late and
+Though that might be the case sometimes
+The sad truth of it is opportunity won't knock twice
+You can put off until tomorrow
+But tomorrow might never come
+Gotta think about the future
+'cause today soon will be long gone
+
+Where will you be a few years down the line,
+Will it be everything you've dreamed of
+It's always harder to do what is right
+Sometimes one bad decision can mess up your life
+
+We seal our fate with the choices we make
+But don't give a second thought
+To the chances we take
+Could come up anytime
+Better we be wide awake 'cause we
+Seal our fate with the choices we make
+Seal our fate, seal our fate, seal our fate,
+Seal our fate with the choices we make
+
+Surely, you say, it's not as bad as
+You make it sound
+If we make a mistake
+You can alsways turn it back around
+Get back on the straight and narrow
+When I'm through having all my fun
+After all it's m,y decision,
+I'm not reeally hurting anyone
+
+Before you know it's gotten way out of hand
+In ways that you had never dreamed of
+Never worth the price you pay in the end
+Instead of being ahead you're starting over again
+
+We seal our fate with the choices we make
+But don't give a second thought
+To the chances we take
+Could come up anytime
+Better we be wide awake 'cause we
+Seal our fate with the choices we make
+Seal our fate, seal our fate, seal our fate,
+Seal our fate with the choices we make
+
+
 

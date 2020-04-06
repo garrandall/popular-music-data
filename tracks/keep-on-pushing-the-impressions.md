@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-pushing-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/keeponpushing.html
 name: Keep On Pushing
 rankings:
 - end_date: '1964-06-12'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+
+Keep on pushin'
+Keep on pushin'
+
+I've got to keep on pushin'
+I can't stop now
+Move up a little higher
+Someway or somehow
+
+'Cause I've got my strength
+And it, don't make sense
+Not to, keep on pushin'
+
+Hey, Hallelu-jah, Hallelu-jah
+Keep on pushin'
+
+Now maybe some day
+I'll reach that higher goal
+I know, I can make it
+With just a, little bit of soul
+
+'Cause I've got my strength
+And it, don't make sense
+Not to, keep on pushin'
+
+Now look a look, look a look
+A look a yonder
+A what's that I see
+A great big stone, wall
+Stands there ahead of me
+
+But I've got my pride
+And I'll, move the wall aside
+And keep on pushin'
+
+Hey, Hallelu-jah, Hallelu-jah
+Keep on pushin'
+Keep on pushin'
+
+What I say yeah
+Keep on pushin'
+Well, that's alright
+
+
 

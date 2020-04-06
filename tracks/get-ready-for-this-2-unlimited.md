@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-ready-for-this-2-unlimited
+lyrics_url: https://www.azlyrics.com/lyrics/2unlimited/getreadyforthis.html
 name: Get Ready For This
 rankings:
 - end_date: '1992-09-25'
@@ -143,4 +144,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
 ---
+
+Ya'll ready for this?
+
+Get down with the sound, house on the ground
+Please when I squeeze, drop to your knees
+You must have bet I'm in here to stay
+Ready to take you around the way
+So get ready for this, mind your own biz
+Cause I invented the microphone biz
+No need to sit, cause we're 2 Unlimited
+Ready, ready, ready for this!
+
+Feel the bass, you just get closer
+Be impressed by the words I chose so
+Once again kicking it live
+Doing everything yo just to survive
+Above the law, I take our stand
+Being on stage with a mic in my hand
+Busting it loud to the crowd
+The age is 20, I'm from the south!
+
+Be a part, break my heart
+Get ready for this, mind your own biz
+People in the front, show me what you want
+And I won't give it in get ready for this
+We're 2 Unlimited, so people won't you sit?
+Moving up and down, dancing all around
+Feeling kinda free; security
+House is sound that moves you from the ground
+
+House on the ground, bass in your face
+Racing the place, no time to waste
+Being hypnotised, I can see it in your eyes
+Feeling kinda better, put on your sweater
+Being black or white, I think it doesn't matter
+Super, dope, def, and even outrageous
+If I was an animal, they'dve kept me in cages
+So get ready for this!
+
+Ya'll ready for this?
+
+Be a part, break my heart
+Get ready for this, mind your own biz
+People in the front, show me what you want
+And I won't give it in get ready for this
+We're 2 Unlimited, so people won't you sit?
+Moving up and down, dancing all around
+Feeling kinda free; security
+House is sound that moves you from the ground
+
+
 

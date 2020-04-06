@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-away-information-society
+lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/walkingaway.html
 name: Walking Away
 rankings:
 - end_date: '1988-12-02'
@@ -83,4 +84,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
 ---
+
+It is useless to resist us
+
+Cold winds blow around me
+And I can't help but think of you
+All the things we wanted
+All the things we had to do
+
+Wrap yourself around me
+We can steal away sometime
+Your whispers surround me
+But it's only in my mind
+
+'Cause I'm walking away from
+Walking away from things in my own past
+Walking away from
+Walking away from things that just won't last
+
+You got what you wanted
+But you can't help but think of me
+All the things you wanted
+All the things you got for free
+
+One thing to remember
+Is that I have feelings too
+I surely would have closed my eyes
+If I had known the real you
+
+'Cause I'm walking away from
+Walking away from things in my own past
+Walking away from
+Walking away from things that just won't last
+And I'm walking away from
+Walking away from things that move too fast
+
+Let's go see
+Let's go see
+Let's go see
+Let's, let's, let's, let's go see
+
+Let's go see
+Let's go see
+Let's go see
+Let's, let's, let's, let's go see
+
+'Cause I'm walking away from
+Walking away from things in my own past
+Walking away from
+Walking away from things that just won't last
+
+And I'm walking away from
+Walking away from things that move too fast
+Walking away from
+Walking away from things in my own past
+
+Walking away from
+Walking away from things in my own past
+Walking away from
+Walking away from things that just won't last
+
+
 

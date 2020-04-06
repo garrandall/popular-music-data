@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pink-houses-john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/pinkhouses.html
 name: Pink Houses
 rankings:
 - end_date: '1983-12-16'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-24'
 ---
+
+There's a black man with a black cat
+Livin' in a black neighborhood
+He's got an interstate
+Runnin' through his front yard
+You know he thinks that he's got it so good
+And there's a woman in the kitchen
+Cleanin' up the evenin' slop
+And he looks at her and says, hey darlin'
+I can remember when you could stop a clock
+
+Oh, but ain't that America
+For you and me
+Ain't that America
+Something to see, baby
+Ain't that America
+Home of the free, yeah
+Little pink houses
+For you and me
+Oooh, yeah
+For you and me
+
+Well, there's a young man in a t-shirt
+Listenin' to a rockin' rollin' station
+He's got greasy hair, greasy smile
+He says, Lord this must be my destination
+'Cause they told me when I was younger
+Said boy, you're gonna be president
+But just like everything else
+Those old crazy dreams
+Just kinda came and went
+
+Oh, but ain't that America
+For you and me
+Ain't that America
+Something to see, baby
+Ain't that America
+Home of the free, yeah
+Little pink houses
+For you and me
+Oooh, little baby
+For you and me
+
+
+
+Well, there's people and more people
+What do they know, know, know
+Go to work in some high rise
+And vacation down at the Gulf of Mexico
+Ooh, yeah
+And there's winners and there's losers
+But they ain't no big deal
+'Cause the simple man, baby
+Pays for thrills
+The bills the pills that kill
+
+Oh, but ain't that America
+For you and me
+Ain't that America
+Something to see, baby
+Ain't that America
+Home of the free, yeah
+Little pink houses
+For you and me
+Oooh
+Ooooh, yeah...
+
+
 

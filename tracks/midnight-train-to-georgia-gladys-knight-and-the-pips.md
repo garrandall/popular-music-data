@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-train-to-georgia-gladys-knight-and-the-pips
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/midnighttraintogeorgia.html
 name: Midnight Train To Georgia
 rankings:
 - end_date: '1973-09-07'
@@ -83,4 +84,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
 ---
+
+L.A. proved too much for the man
+(He couldn't make it)
+So he's leavin' the life he's come to know
+
+He said he's goin' back to find
+Ooh, what's left of his world
+The world he left behind
+Not so long ago
+
+He's leavin'
+On that midnight train to Georgia
+Said he's goin' back
+To a simpler place in time
+
+And I'll be with him
+On that midnight train to Georgia
+I'd rather live in his world
+Than live without him in mine
+
+He kept dreamin'
+That someday he'd be a star
+But he sure found out the hard way
+That dreams don't always come true
+So he pawned all his hopes
+And he even sold his old car
+Bought a one way ticket back
+To the life he once knew
+Oh yes he did
+He said he would
+
+He's leavin'
+On that midnight train to Georgia
+Said he's goin' back to find
+A simpler place in time
+
+And I'm gonna be with him
+On that midnight train to Georgia
+I'd rather live in his world
+Than be without him in mine
+
+He's leavin'
+On that midnight train to Georgia
+Said he's goin' back to find
+A simpler place in time
+
+And I've gotta be with him
+On that midnight train to Georgia
+I'd rather live in his world
+Than be without him in mine
+
+Go, gonna board, gonna board
+The midnight train to Georgia
+Gonna board the midnight train
+Gotta go, gonna board
+Gonna board
+Gonna board the midnight train
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-over-the-world-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/allovertheworld.html
 name: All Over The World
 rankings:
 - end_date: '1980-08-08'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
 ---
+
+Everybody all around the world, gotta tell you what I just heard
+There's gonna be a party all over the world
+
+I got a message on the radio, but where it came from I don't really know
+And I heard these voices calling all over the world
+
+
+All over the world, everybody got the word
+Everybody everywhere is gonna feel tonight
+
+Everybody walkin' down the street, everybody movin' to the beat
+They're gonna get hot down in the U.S.A. (New York, Detroit, L.A.)
+
+We're gonna take a trip across the sea, everybody come along with me
+We're gonna hit the night down in gay Pareee
+
+
+
+
+
+London, Hamburg, Paris, Rome, Rio, Hong Kong, Tokyo
+L.A., New York, Amsterdam, Monte Carlo, Shard End and
+
+
+
+Everybody all around the world, gotta tell you what I just heard
+Everybody walkin' down the street, I know a place where we all can meet
+Everybody gonna have a good time, everybody will shine till the daylight
+
+
+
+All over the world, everybody got the word 
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: up-on-cripple-creek-the-band
+lyrics_url: https://www.azlyrics.com/lyrics/band/uponcripplecreek.html
 name: Up On Cripple Creek
 rankings:
 - end_date: '1969-11-07'
@@ -63,4 +64,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+
+When I get off of this mountain, you know where I want to go?
+Straight down the Mississippi river, to the Gulf of Mexico
+To Lake Charles, Louisiana, little Bessie, girl that I once knew
+She told me just to come on by, if there's anything she could do
+
+Up on Cripple Creek she sends me
+If I spring a leak she mends me
+I don't have to speak, she defends me
+A drunkard's dream if I ever did see one
+
+Good luck had just stung me, to the race track I did go
+She bet on one horse to win and I bet on another to show
+The odds were in my favor, I had 'em five to one
+When that nag to win came around the track, sure enough she had won
+
+Up on Cripple Creek she sends me
+If I spring a leak she mends me
+I don't have to speak, she defends me
+A drunkard's dream if I ever did see one
+
+I took up all of my winnings, and I gave my little Bessie half
+She tore it up and threw it in my face, just for a laugh
+Now there's one thing in the whole wide world, I sure would like to see
+That's when that little love of mine, dips her doughnut in my tea
+
+Up on Cripple Creek she sends me
+If I spring a leak she mends me
+I don't have to speak, she defends me
+A drunkard's dream if I ever did see one
+
+Now me and my mate were back at the shack, we had Spike Jones on the box
+She said, "I can't take the way he sings, but I love to hear him talk"
+Now that just gave my heart a throb, to the bottom of my feet
+And I swore as I took another pull, my Bessie can't be beat
+
+Up on Cripple Creek she sends me
+If I spring a leak she mends me
+I don't have to speak, she defends me
+A drunkard's dream if I ever did see one
+
+Now there's a flood out in California and up north it's freezing cold
+And this living on the road is getting pretty old
+So I guess I'll call up my big mama, tell her I'll be rolling in
+But you know, deep down, I'm kind of tempted to go and see my Bessie again
+
+Up on Cripple Creek she sends me
+If I spring a leak she mends me
+I don't have to speak, she defends me
+A drunkard's dream if I ever did see one
+
+
 

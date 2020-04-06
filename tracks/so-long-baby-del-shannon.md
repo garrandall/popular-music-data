@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-long-baby-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/solongbaby.html
 name: So Long Baby
 rankings:
 - end_date: '1961-09-24'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
 ---
+
+I see you're laughing and 
+A-telling everyone in town
+That you've made a fool of me
+Well go ahead and talk some more
+'cause, baby, I don't care no more
+You don't bother me at all
+
+'cause I got news for you:
+I was untrue too
+And I don't care what you say
+So go and laugh some more
+'cause baby I don't care no more
+I got another lover of my own
+
+Step by step you put me down
+Always calling me a clown
+If you ever go away
+Promise that you'll stay
+Far, far, far away from me
+
+Now that we played our game
+I guess we're both to blame
+We tried to break each other's hearts
+You had one jump on me
+But I jumped twice, you see
+It's over now, be on your way
+
+So long, baby, be on your way
+I had a ball, you thought I'd fall
+You had one jump on me
+But I jumped twice, you see
+It's over now, be on your way
+
+So long, baby, be on your way
+So long, baby, be on your way
+So long, baby, be on your way
+
+
 

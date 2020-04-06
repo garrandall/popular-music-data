@@ -6,6 +6,7 @@ features:
 - Travis Scott
 genres: []
 key: take-what-you-want-post-malone-ozzy-osbourne-travis-scott
+lyrics_url: https://www.azlyrics.com/lyrics/postmalone/takewhatyouwant.html
 name: Take What You Want
 rankings:
 - end_date: '2019-09-27'
@@ -89,4 +90,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
 ---
+
+I feel you crumble in my arms down to your heart of stone
+You bled me dry just like the tears you never show
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+
+I never needed anything from you
+And all I ever asked was for the truth
+You showed your tongue and it was forked in two
+Your venom was lethal, I almost believed you
+Yeah, you preyed on my every mistake
+Waited on me to break
+Held me under hoping I would drown
+Like a plague, I was wasting away, tryna find my way out
+Find my way out
+
+And it finally came the day
+I start giving my heart away
+For heaven's sakes, my bones will break
+But you'll never own my soul, no
+
+I feel you crumble in my arms down to your heart of stone
+You bled me dry just like the tears you never show
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+
+I took them stones you threw, made chains for the crew (Ice)
+I brought up ten hoes, this coupe only made for two (Yessir)
+They all ran through it, it ain't nothing left to do
+I need some more reasons to live out this evening (Straight up)
+I been sipping forever and just taking whatever
+Hoping, thinking whenever you'll be back around
+Let's go our ways, whichever
+You say how is however long
+'Cause you know I'll never be alone
+
+Love
+Shorty gone back
+Need it on sight
+Crack it all back
+Give her that pipe
+All of my gang
+Shorty went bad
+
+I feel you crumble in my arms down to your heart of stone
+You bled me dry just like the tears you never show
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+Why don't you take what you want from me?
+Take what you need from me
+Take what you want and go
+
+(Take it all away)
+
+Why don't you
+(Take what you want, take what you need)
+Take what you need from me
+(Take what you want, take what you need)
+Why don't you
+Whatever you need
+
+
 

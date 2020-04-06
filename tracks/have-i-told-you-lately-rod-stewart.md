@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-i-told-you-lately-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/haveitoldyoulately.html
 name: Have I Told You Lately
 rankings:
 - end_date: '1993-04-30'
@@ -95,4 +96,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-18'
 ---
+
+Have I told you lately that I love you
+Have I told you there's no one else above you
+Fill my heart with gladness
+take away all my sadness
+ease my troubles that's what you do
+
+For the morning sun in all it's glory
+greets the day with hope and comfort too
+You fill my life with laughter
+and somehow you make it better
+ease my troubles that's what you do
+There's a love that's divine
+and it's yours and it's mine like the sun
+And at the end of the day
+we should give thanks and pray
+to the one, to the one
+
+Have I told you lately that I love you
+Have I told you there's no one else above you
+Fill my heart with gladness
+take away all my sadness
+ease my troubles that's what you do
+
+There's a love that's divine
+and it's yours and it's mine like the sun
+And at the end of the day
+we should give thanks and pray
+to the one, to the one
+
+And have I told you lately that I love you
+Have I told you there's no one else above you
+You fill my heart with gladness
+take away my sadness
+ease my troubles that's what you do
+Take away all my sadness
+fill my life with gladness
+ease my troubles that's what you do
+Take away all my sadness
+fill my life with gladness
+ease my troubles that's what you do
+
+
 

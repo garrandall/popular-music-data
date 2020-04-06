@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-me-deadly-lita-ford
+lyrics_url: https://www.azlyrics.com/lyrics/litaford/kissmedeadly.html
 name: Kiss Me Deadly
 rankings:
 - end_date: '1988-04-08'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
 ---
+
+I went to a party last Saturday night
+I didn't get laid, I got in a fight,
+Uh, huh
+It ain't no big thing
+Late for my job and the traffic was bad
+Had to borrow ten bucks from my old man,
+Uh, huh
+It ain't no big thing
+I went to a party last Saturday night
+I told you that story, I'd be alright
+Uh, huh
+It ain't no big thing
+But I know what I like
+I know I like dancin' with you
+And I know what you like
+I know you like dancin' with me
+Yeah, yeah
+Kiss me once
+Kiss me twice
+C'mon pretty baby, kiss me deadly
+Had a few beers, gettin' high
+Sittin', watchin' the time go by,
+Uh, huh
+It ain't no big thing
+Nothin' to eat and no TV
+Lookin' in the mirror don't get it for me
+Uh, huh
+It ain't no big thing
+But I know what I like
+I know I like dancin' with you
+And I know what you like
+I know you like dancin' with me
+Oh, yeah
+Kiss me once
+Kiss me twice
+C'mon pretty baby, kiss me deadly
+Kiss me once
+Kiss me twice
+C'mon pretty baby, kiss me deadly
+You know I like dancin' with you
+Dancin' with you
+C'mon
+Kiss me once
+Kiss me twice
+C'mon pretty baby, kiss me deadly
+Kiss me once
+Kiss me twice
+C'mon pretty baby, kiss me
+C'mon pretty baby, kiss me
+C'mon pretty baby, kiss me deadly
+
+
 

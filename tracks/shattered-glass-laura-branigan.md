@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shattered-glass-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/shatteredglass.html
 name: Shattered Glass
 rankings:
 - end_date: '1987-07-10'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
 ---
+
+I gave you everything I had 
+You took my heart and broke it bad 
+I'm not the kind who can take it alone 
+I've got nothing more for you 
+I want somebody who needs me too 
+I've given up, boy 
+I'm chasing my joy 
+And you can make your own 
+You're not the only one
+'Cos my time will come 
+
+You can shatter glass 
+With your heart of stone 
+But you won't get far on your own
+You keep running hot and blowing cold 
+And everything you hold 
+Just falls apart like shattered glass
+
+It really doesn't matter to me
+Where you're going and who you see 
+I know that I can make it this time 
+It doesn't matter any more 
+Since you've gone and walked out that door 
+I made a new start 
+I found a true heart
+I'm gonna make it mine 
+Go out and have your fun
+'Cos my time will come 
+
+You can shatter glass 
+With your heart of stone 
+But you won't get far on your own 
+You keep running hot and blowing cold 
+And everything you hold
+Just falls apart like shattered glass 
+
+You can shatter glass 
+You can shatter glass 
+
+You're not the only one 
+Go out and have your fun 
+'Cos my time will come 
+
+You can shatter glass 
+With your heart of stone 
+But you won't get far on your own 
+You keep running hot and blowing cold 
+And everything you hold
+Just falls apart like shattered glass
+
+
 

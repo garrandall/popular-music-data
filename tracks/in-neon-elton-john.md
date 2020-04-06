@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-neon-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/inneon.html
 name: In Neon
 rankings:
 - end_date: '1984-12-07'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
 ---
+
+Lipstick and lashes, the traces of stardom
+Lit up on a billboard so everyone sees them in neon
+Behind the counter she stares out the window
+Up at the billboard that's like a reminder in neon
+
+She hates how she feels but she hangs like a mirror
+Maybe a stranger could walk in and see her in neon
+For two cents of danger she'd trust anybody
+She'd smoke like a gun if it meant she might wind up
+
+In neon the dreams in the light of a promise that dies
+A shimmering city, a glimmer of hope and a lie
+In neon the name's gone there's no reason why anymore
+Trust them and wind up alone behind a locked door
+
+In neon, in neon
+
+Pictures and patterns, the touches of glamour
+Cut into a fashion that flashes above them in neon
+A hot cup of coffee held in her fingers
+A perfect complexion that lingers above her in neon
+
+She hates how she feels but she hangs like a mirror
+Maybe a stranger could walk in and see her in neon
+For a shot at the title, she'd slip into something
+She'd smoulder like ashes if it meant she might wind up in neon
+
+In neon
+
+
 

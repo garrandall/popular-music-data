@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hollow-tori-kelly
+lyrics_url: https://www.azlyrics.com/lyrics/torikelly/hollow.html
 name: Hollow
 rankings:
 - end_date: '2016-01-08'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
 ---
+
+I don't wanna be the last man standing
+I don't wanna be the lonely one
+Picking petals when the party's over
+No, it's not any fun
+
+'Cause I'm fragile
+And you know this
+
+So hold me
+Wrap me in love, fill up my cup
+Empty and only your love can fill up my cup
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+
+I don't wanna be the first one folding
+I don't wanna be the joker heart
+Tell me, darling, will you understand me?
+And not show me your cards?
+
+'Cause I'm paper-thin
+And you, you make me whole again
+
+So hold me
+Wrap me in love, fill up my cup
+Empty and only your love can fill up my cup
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+
+I confess (yeah), my weakness
+Till you pick up the parts that are broken
+Pour out your perfection on me now
+
+And hold me
+Wrap me in love, fill up my cup
+Empty, 'cause only your love can fill up my cup
+So hold me
+Wrap me in love, fill up my cup
+Empty and only your love can fill up my cup
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+'Cause I'm hollow
+Yeah, I'm hollow, oh, oh, oh
+'Cause I'm hollow (yeah)
+Yeah, I'm hollow, oh, oh, oh (oh yeah)
+'Cause I'm hollow (I'm hollow)
+Yeah, I'm hollow, oh, oh, oh
+
+
 

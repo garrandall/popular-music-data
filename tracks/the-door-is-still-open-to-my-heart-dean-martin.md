@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-door-is-still-open-to-my-heart-dean-martin
+lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/thedoorisstillopentomyheart.html
 name: The Door Is Still Open To My Heart
 rankings:
 - end_date: '1964-10-02'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
 ---
+
+(The door is still open to my heart)
+I must confess that I cry from loneliness
+And the door is still open to my heart
+
+You are to me like honey is to the bee
+And the door is still open to my heart
+I'm not ashamed to cry
+It's better then to hold it inside
+And I won't be satisfied
+Until you're here by my side
+You're as close to me as two is to three
+And the door is still open to my heart
+
+(I'm not ashamed to cry
+It's better than to hold it inside)
+And I won't be satisfied
+Until you're here by my side
+You're as close to me as two is to three
+And the door is still open to my heart
+And the door is still open to my heart
+
+
 

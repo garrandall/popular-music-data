@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: muskrat-love-america
+lyrics_url: https://www.musixmatch.com/lyrics/America/Muskrat-Love
 name: Muskrat Love
 rankings:
 - end_date: '1973-08-24'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
 ---
+Muskrat, muskrat candlelight
+Doin' the town and doin' it right
+In the evenin', it's pretty pleasin'
 
+Muskrat Susie, Muskrat Sam
+Do the jitterbug
+Out in the muskrat land
+And they shimmy
+And Sammy's so skinny
+
+And they whirled and they twirled and they tangoed
+Singin' and jinglin' the jango
+Floatin' like the heavens above
+It looks like muskrat love
+
+Nibblin' on bacon, chewin' on cheese
+Sammy says to Susie
+Honey, would you please be my missus?
+And she says yes with her kisses
+
+And now he's ticklin' her fancy
+Rubbin' her ties
+Muzzle to muzzle now
+Anything goes
+As they wiggle
+And Sue starts to giggle
+
+And they whirled and they twirled and they tangoed
+Singin' and jinglin' the jango
+Floatin' like the heavens above
+It looks like muskrat love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-glamorous-life-sheila-e-
+lyrics_url: https://www.azlyrics.com/lyrics/sheilae/theglamorouslife.html
 name: The Glamorous Life
 rankings:
 - end_date: '1984-06-22'
@@ -111,4 +112,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
 ---
+
+She wears a long fur coat of mink
+Even in the summer time
+Everybody knows from the coy little wink
+The girl's got a lot on her mind
+
+She's got big thoughts, big dreams
+And a big brown Mercedes sedan
+What I think this girl, she really wants
+Is to be in love with a man
+
+She wants to lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much
+
+She saw him standing in the section marked
+"If you have to ask you can't afford it" lingerie
+She threw him bread and said, "Make me scream"
+In the dark, what could he say?
+
+Boys with small talk and small minds
+Really don't impress me in bed
+She said, "I need a man's man, baby. Diamonds and furs
+Love would only conquer my head"
+
+She wants to lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much
+
+They made haste in the brown sedan
+They drove to 55 Secret Street
+They made love and by the seventh wave
+She knew she had a problem
+
+She thought real love is real scary
+Money only pays the rent
+Love is forever, that's all your life
+Love is heaven sent, it's glamorous
+
+Lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much
+
+She wants to lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much, it ain't much
+
+Lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much, it ain't much
+
+She wants to lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much, it ain't much
+
+Lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much, it ain't much
+
+She wants to lead the glamorous life
+She don't need a man's touch
+She wants to lead the glamorous life
+Without love it ain't much, it ain't much
+Ooh, oh
+
+
 

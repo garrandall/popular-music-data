@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sure-lookin--donny-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/surelookin.html
 name: Sure Lookin'
 rankings:
 - end_date: '1991-01-25'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
 ---
+
+On a search, on a quest
+For the one, for the best
+Heavy days, heavy nights
+I got you in my sight
+I want you, you want me
+To love you forever
+Hold it together
+And I want you to know that
+
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good to me)
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good)
+
+You defy, you possess
+Wounded hearts of the best
+But if I surrender to your demands
+Would it change circumstance?
+
+I want you, you want me
+To love you forever
+Hold it together
+And I want you to know
+It's you for me, me for you
+Forever and ever
+Ah, any weather
+And I want you to know that
+
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good to me)
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good)
+
+Anything your heart desires
+I will provide to you gladly
+(Anything you want)
+All you ever need and all you ever want
+Is everlasting
+(Just because your sure lookin' good)
+
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good to me)
+Girl, sure lookin' good to me
+Girl, sure lookin' good
+(Sure lookin' good)
+
+
 

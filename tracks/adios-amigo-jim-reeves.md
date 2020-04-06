@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: adios-amigo-jim-reeves
+lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/adiosamigo.html
 name: Adios Amigo
 rankings:
 - end_date: '1962-05-11'
@@ -31,4 +32,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+
+Adios amigo, adios my friend
+The road we have travelled has come to an end
+When two love the same love, one love has to lose
+And it's you who she longs for, it's you she will choose
+
+Adios compadre, what must be must be
+Remember to name one muchacho for me
+I ride to the Rio, where my life I must spend
+Adios amigo, adios my friend
+
+Adios compadre, let us shed no tears
+May all your mananas bring joy through the years
+Away from these memories, my life I must spend
+Adios amigo, adios my friend...
+
+
 

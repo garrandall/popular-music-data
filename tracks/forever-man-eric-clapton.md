@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-man-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/yngwiemalmsteen/foreverman.html
 name: Forever Man
 rankings:
 - end_date: '1985-03-15'
@@ -55,4 +56,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
 ---
+
+How many times must I say I love you
+Before you finally understand?
+Won't you be my forever woman?
+I'll try to be your forever man
+
+How many times when I try and tell you
+How many bridges I've got to cross?
+How many  to myself
+Before I talk to the boss
+
+How many times must I say I love you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-but-me-the-human-beinz
+lyrics_url: https://www.azlyrics.com/lyrics/mileskane/nobodybutme.html
 name: Nobody But Me
 rankings:
 - end_date: '1967-12-15'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
 ---
+
+A-no-no, no, no, no, no-no-no-no
+No, no, no, no, no, no-no, no-no, no, no
+No-no-no-no, no-no, no, no-no, no
+
+Nobody can do the (Philly) like I do
+Nobody can do the (skate) like I do
+Nobody can do (boogaloo) like I do
+Nobody can do (Philly) like I do
+
+Well, don't you know I'm gonna skate right through
+Ain't nobody do it but me (nobody but me)
+Yeah, I'm gonna spin right through
+Ain't nobody do it but me, babe (nobody but me)
+Well, let me tell ya, nobody
+Nobody but me (nobody but me)
+Well, let me tell ya
+
+Nobody (nobody), nobody (nobody)
+Nobody (nobody), nobody (nobody)
+Nobody (nobody), nobody (nobody)
+Nobody (nobody), nobody (nobody)
+Alright
+
+A-no-no, no, no, no, no-no-no-no
+No, no, no, no, no, no-no, no-no, no, no
+No-no-no-no, no-no, no, no-no, no
+
+Nobody can do the (Philly) like I do
+Nobody can do the (skate) like I do
+Nobody can do (boogaloo) like I do
+Nobody can do (Philly) like I do
+Oh, yeah
+
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+
+Nobody can do the (Philly)
+Nobody can do the (skate)
+Nobody can do the (boogaloo)
+(Philly)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: glass-thompson-square
+lyrics_url: https://www.azlyrics.com/lyrics/thompsonsquare/glass.html
 name: Glass
 rankings:
 - end_date: '2012-06-29'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
 ---
+
+Trying to live and love,
+With a heart that can't be broken,
+Is like trying to see the light with eyes that can't be opened.
+Yeah, we both carry baggage,
+We picked up on our way, so if you love me do it gently,
+And I will do the same.
+
+We may shine, we may shatter,
+We may be picking up the pieces here on after,
+We are fragile, we are human,
+We are shaped by the light we let through us,
+We break fast, cause we are glass.
+Cause we are glass.
+
+I'll let you look inside me, through the stains and through the cracks,
+And in the darkness of this moment,
+You see the good and bad.
+But try not to judge me, 'cause we've walked down different paths,
+But it brought us here together, so I won't take that back.
+
+We may shine, we may shatter,
+We may be picking up the pieces here on after,
+We are fragile, we are human,
+We are shaped by the light we let through us,
+We break fast, cause we are glass.
+
+We might be oil and water, this could be a big mistake,
+We might burn like gasoline and fire,
+It's a chance we'll have to take.
+
+We may shine, we may shatter,
+We may be picking up the pieces here on after,
+We are fragile, we are human,
+And we are shaped by the light we let through us,
+We break fast, cause we are glass.
+We are glass.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-blue-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/trueblue.html
 name: True Blue
 rankings:
 - end_date: '1986-10-10'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+
+I've had other guys
+I've looked into their eyes
+But I never knew love before
+'Til you walked through my door
+I've had other lips
+I've sailed a thousand ships
+But no matter where I go
+You're the one for me baby this I know, 'cause it's
+
+
+
+True love
+You're the one I'm dreaming of
+Your heart fits me like a glove
+And I'm gonna be true blue baby I love you
+
+I've heard all the lines
+I've cried oh so many times
+Those tear drops they won't fall again
+I'm so excited 'cause you're my best friend
+So if you should ever doubt
+Wonder what love is all about
+Just think back and remember dear
+Those words whispered in your ear, I said
+
+
+
+
+
+No more sadness, I kiss it good-bye
+The sun is bursting right out of the sky
+I searched the whole world for someone like you
+Don't you know, don't you know that it's
+
+True love, oh baby, true love, oh baby
+True love, oh baby, true love it's
+
+
+True, so if you should ever doubt
+Wonder what love is all about
+Just think back and remember dear
+Those words whispered in your ear, I said
+
+
+
+
+'Cause it's
+
+True love, oh baby, true love, oh baby
+True love, oh baby, true love it's
+
+
+
 

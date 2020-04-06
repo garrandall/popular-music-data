@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: town-without-pity-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/townwithoutpity.html
 name: Town Without Pity
 rankings:
 - end_date: '1961-11-05'
@@ -83,4 +84,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+
+When you're young and so and love as we
+And bewildered by the world we see
+Why do people hurt us so
+Only those in love would know
+What a Town Without Pity can do..
+
+If we stop to gaze upon a star
+People talk about how bad we are...
+Ours is not an easy age
+We're like tigers in a cage
+What a Town Without Pity can do..
+
+The young have problems Many problems
+We need an understanding heart..
+Why don't they help us, try to help us
+Before this clay and granite planet falls apart...
+
+Take these eager lips and hold me fast..
+I'm afraid this kind of joy can't last
+How can we keep love alive
+How can anything survive
+When these little minds tear you in two..
+What a town Without Pity can do..
+
+How can we keep love alive
+How can anything survive
+When these little minds tear you in two..
+What a town Without Pity can do..
+
+
 

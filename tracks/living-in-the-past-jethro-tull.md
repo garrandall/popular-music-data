@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-in-the-past-jethro-tull
+lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/livinginthepast.html
 name: Living In The Past
 rankings:
 - end_date: '1972-11-10'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
 ---
+
+Happy and I'm smiling
+Walk a mile to drink your water
+You know I'd love to love you
+And above you there's no other
+We'll go walking out
+While others shout of war's disaster
+Oh, we won't give in
+Let's go living in the past
+
+Once I used to join in
+Every boy and girl was my friend
+Now there's revolution, but they don't know
+What they're fighting
+Let us close our eyes
+Outside their lives go on much faster
+Oh, we won't give in
+We'll keep living in the past
+
+
 

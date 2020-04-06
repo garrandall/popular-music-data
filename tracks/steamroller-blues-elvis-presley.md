@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steamroller-blues-elvis-presley
+lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/steamrollerblues.html
 name: Steamroller Blues
 rankings:
 - end_date: '1973-04-20'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
 ---
+
+I'm a steamroller baby
+I'm 'bout to roll all over you
+I'm a steamroller baby
+I'm 'bout to roll all over you
+I'm gonna inject your soul
+With sweet rock'n'roll, poor heaven
+
+I'm a cement mixer
+A churning urn of burning funk
+I'm a cement mixer
+A churning urn of burning funk
+A hefty hunk, steaming junk
+
+I'm a steamroller baby
+I'm 'bout to roll over you
+I'm a steamroller baby
+I'm 'bout to roll over you
+I'm gonna inject your soul
+With some sweet rock'n'roll
+And shoot you full of rhythm and blues
+
+I'm a napalm-bomb
+Guaranteed to blow your mind
+I'm a napalm-bomb
+Guaranteed to blow your mind
+If I can't have your love now baby
+There won't be nothing left behind
+
+
 

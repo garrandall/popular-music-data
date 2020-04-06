@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: el-farsante-ozuna-romeo-santos
+lyrics_url: https://www.azlyrics.com/lyrics/ozuna/elfarsanteremix.html
 name: El Farsante
 rankings:
 - end_date: '2018-02-16'
@@ -88,4 +89,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
 ---
+
+
+This is a Golden Remix
+King
+
+
+Calculan que relaciones que fracasan mayormente es por desengaÃ±o
+Falsedad que contamina y hace daÃ±o
+TÃº fuiste perfecto clavel que con mis manos marchitÃ©
+Mi obra se llama "Romeo sin Julieta otra vez"
+Puedes pensar "Soy el rey de las mentiras, volverÃ­a a fallar"
+Aunque lo jure por mi vida
+Mis palabras no importan ni valen ni de rodilla na' 'e na'
+Dice que has visto muchas novelas, el actor debe llorar
+
+No, Â¿ahora quÃ© hago?
+Ozuna y yo somos farsantes, nos ahogamo' en el fracaso
+No, no juro en vano
+JamÃ¡s yo vuelvo a ser infiel con chapeadoras, yo te amo
+No, escÃºchame esa pena que siento
+Voy a hacer otro disco con Aventura y te lo dedico enterito
+
+
+BebÃ©, si todavÃ­a me amas como antes
+Ya nada me parece interesante
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+
+Si todavÃ­a me amas como antes
+Ya nada me parece interesante
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+
+Yo sin ti yo no me vuelvo a enamorar
+No sÃ© ni que pensar
+Ya sÃ© por quÃ© todo me sale mal
+MentÃ­ diciÃ©ndote que era leal
+Siendo un amor real, le pido a Dios me pueda perdonar
+No quiero que te vayas, vamo' a intentarlo
+Â¿Por quÃ© no salvamos nuestra relaciÃ³n?
+TÃº sabe', bebÃ©, perdona, bebÃ©
+
+
+Ey bebÃ©
+Si todavÃ­a me amas como antes
+Ya nada me parece interesante
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+
+Si todavÃ­a me amas como antes
+Ya nada me parece interesante (-sante)
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+ExtraÃ±o tu aroma en la cama (ehh)
+De ese que dejas cuando entras y sales
+Donde quedaron los besos y todos los planes (oh-oh-oh)
+No sÃ© si vivir o morir
+Me encuentro en un limbo desde que te fuiste de aquÃ­ (oh-oh-oh)
+Eres la Ãºnica persona que yo quiero que se venga encima de mÃ­
+Mi libertad no la quiero, tampoco la vida 'e soltero
+Yo lo que quiero es que quieras lo mismo que todos queremos
+Tener una cuenta de banco con dÃ­gito' y muchos cero' (ehhh)
+Hacer el amor a diario y de paso gastar el dinero
+
+
+Dime bebÃ©, si todavÃ­a me amas como antes
+Ya nada me parece interesante
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+
+Si todavÃ­a me amas como antes
+Ya nada me parece interesante
+Yo sÃ© que en el amor soy un farsante
+Yo sin ti no vuelvo a enamorarme, bebÃ©
+
+
+How to do it
+Golden Remix
+The King
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-runway-the-grass-roots
+lyrics_url: https://www.azlyrics.com/lyrics/grassroots/therunway.html
 name: The Runway
 rankings:
 - end_date: '1972-06-23'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
 ---
+
+I've been a brother to sorrow
+I've been surrounded by gloom
+'Cause this hotel's got hot & cold runnin'
+Heartache in every room
+Checkin' out of here in the mornin'
+Even that will be too much time
+I'm gonna get up on a big white bird
+Waitin' after you with a line
+
+Oh the runway is the one way to get back to you
+Oh the runway is the one way to get back to you
+If I have to beg, steal or borrow
+I'll be seein' you, girl, tomorrow
+Oh the runway is the one way to get back to you
+
+TV's gonna get to me
+Haven't heard a bit of good news
+Who needs that when I'm sittin' here chewin'
+I'm goin' struttin' in blues
+I threw 'way to wake me at 7
+Don't you wait a minute too long
+I'm gonna leave with a one-way ticket
+Goin' back to where I belong
+
+
 

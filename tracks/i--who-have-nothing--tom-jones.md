@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i--who-have-nothing--tom-jones
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/iwhohavenothing.html
 name: I (Who Have Nothing)
 rankings:
 - end_date: '1970-08-28'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
 ---
+
+I, I who have nothing
+I, I who have no one
+Adore you, and want you so
+I'm just a no one,
+With nothing to give you but Oh
+I Love You
+
+He, He buys you diamonds
+Bright, sparkling diamonds
+But believe me, dear when I say,
+That he can give you the world,
+But he'll never love you the way
+I Love You
+
+He can take you anyplace he wants
+To fancy clubs and restaurants
+But I can only watch you with
+My nose pressed up against the window pane
+I, I who have nothing
+I, I who have no one
+Must watch you, go dancing by
+Wrapped in the arms of somebody else
+When darling it's I
+Who Loves you
+
+I Love You
+I Love You
+I Love You
+
+
 

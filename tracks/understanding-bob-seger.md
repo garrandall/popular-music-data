@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: understanding-bob-seger
+lyrics_url: https://www.azlyrics.com/lyrics/bobseger/understanding.html
 name: Understanding
 rankings:
 - end_date: '1984-11-16'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
 ---
+
+It seems like only yesterday
+I didn't have a clue
+I stood alone not knowing where to turn
+Now suddenly I look around
+Everything looks new
+I don't know why, but I think I'm startin' to learn
+They call it understanding
+A willingness to grow
+
+I'm finally understanding
+There's so much I can know
+Until the day you came along
+I used to just get lost
+I only heard the things I wanted to hear
+Always seemed like no one cared
+Then you took the time
+And now I look and everything seems clear
+You've got me understanding
+You've really helped me see
+
+I'm finally understanding
+It's meant so much to me
+You've got me understanding
+You've given me some pride
+I'm finally understanding
+You're really on my side
+
+You're really on my side
+Yeah, yeah
+
+Got me understanding
+Understanding
+You've got me understanding
+Ooh yeah
+Understanding
+Understanding
+You've got me understanding
+
+For the first time
+You've got me understanding
+Yeah, yeah, yeah, yeah
+
+You've got me understanding
+
+
 

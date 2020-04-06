@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-chilliwack
+lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/ibelieve.html
 name: I Believe
 rankings:
 - end_date: '1982-01-22'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
+
+I was lost in time
+Feelin' like the victim of a perfect crime
+Until that night I met you
+How was I to know just what your love could do
+
+Now I believe
+There has been a change in me
+I believe
+That it was meant to be
+Oh, can't you see?
+I believe in you and me
+
+In the dark of night
+We can be what we would like to be
+And it's alright
+When it's you, you and me, girl
+Well, I feel like we're the only people in the world
+
+I believe
+There has been a change in me
+(Now that you're always on my mind)
+Yeah, I believe
+That it was meant to be
+(And it will all work out in time)
+Can't you see?
+I believe in you and me
+
+It's so easy
+So damn easy to see
+The way I feel for you
+And you for me
+
+Well, I believe
+There has been a change in me
+Yeah, I believe
+That it was meant to be
+Can't you see?
+I believe in you and me
+(Now that you're always on my mind)
+Oh, can't you see?
+I believe in you and me
+
+Oh, can't you see?
+I believe in you and me
+Oh, can't you see?
+I believe in you and me
+
+
 

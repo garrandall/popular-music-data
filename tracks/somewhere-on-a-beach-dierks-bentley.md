@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-on-a-beach-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/somewhereonabeach.html
 name: Somewhere On A Beach
 rankings:
 - end_date: '2016-02-19'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
 ---
+
+Bet you think I'm sitting at home. No.
+Bet you think that I'm all alone. No.
+Bet you think I'm missing you and wishing you would call my phone,
+Hell, no!
+
+I went wheels up on a runway
+And that ticket was a one-way
+
+I'm somewhere on a beach
+Sipping something strong,
+Got a new girl, she got it going on
+We drink all day, and party all night
+I'm way too gone to have you on my mind
+She got a body and she's naughty,
+And she got me like you ain't ever got me.
+I'm getting sun, getting some, and I ain't slept in a week
+Yeah, I'm somewhere on a beach.
+
+Heard you called my boys,
+Heard you called my folks
+They said you drove by my house real slow
+You can check any spot, roll down every road
+But, girl, I ain't even close
+
+I'm somewhere on a beach
+Sipping something strong,
+Got a new girl, she got it going on
+We drink all day, and party all night
+I'm way too gone to have you on my mind
+She got a body and she's naughty,
+And she got me like you ain't ever got me
+I'm getting sun, getting some, and I ain't slept in a week
+Yeah, I'm somewhere on a beach.
+
+I wish it could've worked out
+But I'm gettin' over you now,
+On a beach towel
+With my shades on
+My drink's up
+And the sun's out
+Huh! I'm somewhere on a beach!
+
+I'm somewhere on a beach
+Sipping something strong,
+Got a new girl, she got it going on
+We drink all day, and party all night
+I'm way too gone to have you on my mind
+She got a body and she's naughty,
+And she got me like you ain't never got me
+I'm getting sun, getting some, and I ain't slept in a week
+Yeah, I'm somewhere on a beach.
+
+Yeah, I'm somewhere on a beach.
+
+
 

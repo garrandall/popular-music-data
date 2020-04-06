@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-stripes-johnny-cash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/igotstripes.html
 name: I Got Stripes
 rankings:
 - end_date: '1959-08-09'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
 ---
+
+On A Monday I Was Ar-rested (Uh Huh)
+On A Tuesday They Locked Me In The Jail (Oh Boy)
+On A Wednesday My Trial Was At-tested
+On A Thursday They Said Guilty And The Judge's Gavel Fell
+
+I Got Stripes - Stripes Around My Shoulders
+I Got Chains - Chains Around My Feet
+I Got Stripes - Stripes Around My Shoulders
+And Them Chains - Them Chains They're About To Drag Me Down
+
+On A Monday My Momma Come To See Me
+On A Tuesday They Caught Me With A File
+On A Wednesday I'm Down In Solitary
+On A Thursday I Start On Bread And Water For A While
+
+I Got Stripes - Stripes Around My Shoulders
+I Got Chains - Chains Around My Feet
+I Got Stripes - Stripes Around My Shoulders
+And Them Chains - Them Chains They're About To Drag Me Down
+
+I Got Stripes - Stripes Around My Shoulders
+I Got Chains - Chains Around My Feet
+I Got Stripes - Stripes Around My Shoulders
+And Them Chains - Them Chains They're About To Drag Me
+
+
 

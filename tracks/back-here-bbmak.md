@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-here-bbmak
+lyrics_url: https://www.azlyrics.com/lyrics/bbmak/backhere.html
 name: Back Here
 rankings:
 - end_date: '2000-05-05'
@@ -131,4 +132,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
 ---
+
+Baby, set me free from this misery 
+I can't take it no more 
+Since you ran away nothing's been the same 
+Don't know what I'm living for 
+
+Here I am so alone 
+And there's nothing in this world I can do 
+
+Until you're back here baby 
+Miss you, want you, need you so 
+Until you're back here baby, yeah 
+There's a feeling inside I want you to know 
+You are the one and I can't let you go 
+
+So I told you lies, even made you cry 
+Baby, I was so wrong 
+Girl, I promise you now my love is true 
+This is where my heart belongs 
+
+'Cause here I am so alone 
+And there's nothing in this world I can do 
+
+Until you're back here baby 
+Miss you, want you, need you so 
+Until you're back here baby, yeah 
+There's a feeling inside I want you to know 
+You are the one and I can't let you go 
+
+And I wonder
+Are you thinking of me? 
+'Cause I'm thinking of you 
+And I wonder 
+Are you ever coming back in my life? 
+
+'Cause here I am so alone 
+And there's nothing in this world I can do 
+
+Until you're back here baby 
+Miss you, want you, need you so 
+Until you're back here baby, yeah 
+There's a feeling inside I want you to know 
+You are the one and I can't let you go
+
+
 

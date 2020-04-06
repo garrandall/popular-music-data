@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beachin--jake-owen
+lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/beachin.html
 name: Beachin'
 rankings:
 - end_date: '2014-04-18'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
 ---
+
+So just watchin' her blonde hair, sun burnt, stare at them, white caps rolling over
+Laid back in a thrift store beach chair, droppin' limes in a Corona
+Well, she looks back, yeah, she throws me a kiss, like "Honey, I sure want you."
+And it's a hundred and three between her and me and only 92 in Daytona
+
+
+And it's sunshine, blue eyes, tan lines, slow tide rollin'
+White sand, cold can, koozie in my hand, just a summertime strolling
+Chillin', breezing, sippin', singin' whoa
+
+Beachin'
+
+We got 2-for-1s, we're at a Margarita bar, whatever happens happens
+And there's a reggae band, full of dread heads, just sittin' in the corner laughin'
+Well, my baby walks over, drops a 20 in a jar, she smiles and shakes it at me
+Yeah, she gets 'em goin', she gets 'em playin' a little "Don't Worry, Be Happy"
+
+
+And it's sunshine, blue eyes, tan lines, slow tide rollin'
+White sand, cold can, koozie in my hand, just a summertime strolling
+Chillin', breezing, sippin', singin' whoa
+
+Beachin'
+
+Ha ha aww yeah...a little palm tree leaning
+I got a Margarita here in my hand, doin' a little drinkin'
+
+
+Talkin' 'bout sunshine, blue eyes, tan lines, slow tide rollin'
+White sand, cold can, koozie in my hand, just a summertime strolling
+Chillin', breezing, sippin', singin' whoa,
+
+Beachin'
+
+Sunshine, blue eyes, tan lines, slow tide rollin'
+White sand, cold can, koozie in my hand
+
+
 

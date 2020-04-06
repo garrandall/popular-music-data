@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-you-most-of-all-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/loveyoumostofall.html
 name: Love You Most Of All
 rankings:
 - end_date: '1958-11-23'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+
+Your my girl you're so sweet
+Honey you can't be beat
+I love you, I love you
+Most of all
+
+I believe you can rock, you can roll
+You're so fine
+Honey, you're mine, all mine
+That's why I love you, I love you
+Most of all
+
+Well, I love the way you move me
+When you walk
+I love the way you thrill me
+When you talk
+And, ooh baby, when you hold my hand
+Tell me, pretty baby, that you understand
+
+When we walk down the street
+All the fellas go "wooo weeee"
+That's why I love you
+I love you most of all
+
+I love ya, I love ya, most of all
+
+Well, and let me tell ya honey
+You're my girl, you're just so sweet
+Honey you can't be beat
+I love you, I love you most of all
+
+Well and I believe you can rock, you can roll
+You're so fine
+Honey you're mine all mine
+That's why I love you
+I love you most of all
+
+Well, I love the way you move me
+When you walk
+I love the way you thrill me
+When you talk
+And, ooh baby, when you hold my hand
+Tell me, pretty baby, that you understand
+
+When we walk down the street
+All the fellas go "wooo weeee"
+That's why I love you
+I love you most of all
+
+
 

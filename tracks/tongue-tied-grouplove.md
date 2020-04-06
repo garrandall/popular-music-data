@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tongue-tied-grouplove
+lyrics_url: https://www.azlyrics.com/lyrics/grouplove/tonguetied.html
 name: Tongue Tied
 rankings:
 - end_date: '2011-12-23'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
 ---
+
+Take me to your best friend's house
+Go around this roundabout
+Oh yeah
+Take me to your best friend's house
+I loved you then and I love you now
+Oh yeah
+
+Don't take me tongue tied
+Don't wave no goodbye
+Don't...
+Right!
+
+Take me to your best friend's house
+Marmalade we're making out
+Oh yeah
+Take me to your best friend's house
+I loved you then and I love you now
+
+Don't take me tongue tied
+Don't wave no goodbye
+Don't...
+Right!
+
+One, two, three, four
+Don't leave me tongue tied
+Let's stay up all night
+I'll get real high
+Slumber party; pillow fight
+My eyes on your eyes
+Like Peter Pan up in the sky
+My best friend's house tonight
+Let's bump the beats till beddy-bye
+
+Don't take me tongue tied
+Don't wave no goodbye
+Don't take me tongue tied
+Don't kiss me goodnight
+Don't...
+
+Take me to your best friend's house
+Go around this roundabout
+Oh yeah
+Take me to your best friend's house
+I loved you then and I love you now
+
+
+Don't leave me tongue tied
+Don't wave no goodbye
+Don't leave me tongue tied
+Don't...
+
+
 

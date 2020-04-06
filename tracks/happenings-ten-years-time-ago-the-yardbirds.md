@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happenings-ten-years-time-ago-the-yardbirds
+lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/happeningstenyearstimeago.html
 name: Happenings Ten Years Time Ago
 rankings:
 - end_date: '1966-12-02'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+
+Meeting people on my way
+Seemingly I've known one day
+Familiarity of things
+That my dreaming always brings
+
+Happenings ten years time ago
+Situations we really know
+But the knowing is in the mind
+Sinking deep into the well of time
+Sinking deep into the well of time
+
+Walking in the room I see
+Things that mean a lot to me
+Why they do I'll never know
+Memories don't strike me so
+Memories don't strike me so
+
+It seems to me I've been here before
+The sounds I heard, and the sights I saw
+Was it real, was it in my dreams
+I need to know what it all means
+
+Happenings ten years time ago
+Situations we really know
+But the knowing is in the mind
+Sinking deep into the well of time
+Sinking deep into the well of time
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cannonball-the-breeders
+lyrics_url: https://www.azlyrics.com/lyrics/breeders/cannonball.html
 name: Cannonball
 rankings:
 - end_date: '1993-12-10'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
 ---
+
+(Check check check
+One, two
+One, two)
+
+Spitting in a wishing well
+Blown to hell
+Crash
+On the last splash
+
+I know you, little libertine
+I know you're a real koo koo
+
+(Hey now)
+
+Want you
+Koo koo
+Cannonball
+Want you
+Koo koo
+Cannonball
+(Hey now)
+In the shade
+In the shade
+(Hey now)
+In the shade
+In the shade
+
+I know you, little libertine
+I know you're a cannonball
+I'll be your whatever you want
+The bong in this reggae song
+
+(Hey now)
+In the shade
+(Hey now)
+In the shade
+
+Want you
+Koo koo
+Cannonball
+Want you
+Koo koo
+Cannonball
+
+Spitting in a wishing well
+Blown to hell
+Crash
+I'm the last splash
+
+I'll be your whatever you want
+The bong in this reggae song
+(Hey
+Hey now)
+
+Want you
+Koo koo
+Cannonball
+Want you
+Koo koo
+Cannonball
+(Hey now)
+In the shade
+In the shade
+(Hey now)
+In the shade
+In the shade.
+
+
 

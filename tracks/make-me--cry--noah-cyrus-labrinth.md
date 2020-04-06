@@ -5,6 +5,7 @@ features:
 - Labrinth
 genres: []
 key: make-me--cry--noah-cyrus-labrinth
+lyrics_url: https://www.azlyrics.com/lyrics/noahcyrus/makemecry.html
 name: Make Me (Cry)
 rankings:
 - end_date: '2016-12-23'
@@ -68,4 +69,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
 ---
+
+I never needed you like I do right now
+I never needed you like I do right now
+I never hated you like I do right now
+'Cause all you ever do is make me...
+
+Gave you up 'bout 21 times
+Felt those lips, tell me 21 lies, yeah
+You'll be the death of me
+Sage advice
+Love-lovin' you could make Jesus cry
+
+When I hear you sayin' "Darling,
+Your kiss is like an antidote."
+I'm fightin' like I'm Ali,
+But you got me on the ropes
+
+I never needed you like I do right now
+I never needed you like I do right now
+I never hated you like I do right now
+'Cause all you ever do is make me...
+
+Couldn't hear the thunder
+But I heard your heart race
+Couldn't see the rain
+We're too busy makin' hurricanes, yeah
+Love ain't easy when it ain't my way
+But it gets hard, when you ain't here makin' me crazy
+
+Baby, say the word, darlin'
+You know just how to hold the sucker down
+So I'll see you in the morning
+I can't watch you walk out
+
+I never needed you like I do right now
+I never needed you like I do right now
+I never hated you like I do right now
+'Cause all you ever do is make me...
+
+Cry
+Cry
+Cry
+
+Hear the thunder
+See the rain
+Yeah
+Keep on makin' me cry
+Yeah
+Hey, hey, yeah
+Keep makin' me scream and holler
+Keep on makin' me cry
+You don't know what you're doin' to me
+Hey, hey, yeah
+Yeah
+
+I never needed you like I do right now
+I never needed you like I do right now
+I never hated you like I do right now
+'Cause all you ever do is make me
+
+
 

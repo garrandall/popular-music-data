@@ -5,6 +5,7 @@ features:
 - John Newman
 genres: []
 key: blame-calvin-harris-john-newman
+lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/blame.html
 name: Blame
 rankings:
 - end_date: '2014-10-03'
@@ -88,4 +89,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-07'
 ---
+
+Can't be sleepin'
+Keep on waking
+Is that the woman next to me?
+Guilt is burning
+Inside I'm hurting
+This ain't a feeling I can keep
+
+So blame it on the night
+Don't blame it on me
+Don't blame it on me
+Blame it on the night
+Don't blame it on me
+Don't blame it on me
+
+Blame it on the night
+Don't blame it on me
+Don't blame it on me
+So blame it on the night
+Don't blame it on me
+Don't blame it on me
+Don't blame it on me
+
+Can't you see it?
+I was manipulated
+I had to let her through the door
+I had no choice in this
+I was a friend she missed
+She needed me to talk
+
+So blame it on the night
+Don't blame it on me
+Don't blame it on me
+Blame it on the night
+Don't blame it on me
+Don't blame it on me
+
+Blame it on the night
+Don't blame it on me
+Don't blame it on me
+So blame it on the night
+Don't blame it on me
+Don't blame it on me
+Don't blame it on me
+
+Oh, I'm so sorry, so sorry, baby
+Yeah (I'll be better this time, I will be better this time)
+I got defense
+(I'll be better this time, I will be better this time)
+I'm sorry
+Oh, I promise (I'll be better this time, I will be better this time)
+
+Don't blame it on me
+Don't blame it on me
+
+
 

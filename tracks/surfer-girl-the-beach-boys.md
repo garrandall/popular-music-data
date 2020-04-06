@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surfer-girl-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfergirl.html
 name: Surfer Girl
 rankings:
 - end_date: '1963-08-09'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
 ---
+
+Little surfer little one
+Made my heart come all undone
+Do you love me, do you surfer girl
+Surfer girl my little surfer girl
+
+I have watched you on the shore
+Standing by the ocean's roar
+Do you love me do you surfer girl
+Surfer girl surfer girl
+
+We could ride the surf together
+While our love would grow
+In my Woody I would take you everywhere I go
+
+So I say from me to you
+I will make your dreams come true
+Do you love me do you surfer girl
+Surfer girl my little surfer girl
+Little one
+Girl surfer girl my little surfer girl
+Little one
+Girl surfer girl my little surfer girl
+Little one
+Girl surfer girl my little surfer girl
+
+
 

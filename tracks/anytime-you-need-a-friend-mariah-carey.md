@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anytime-you-need-a-friend-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/anytimeyouneedafriend.html
 name: Anytime You Need A Friend
 rankings:
 - end_date: '1994-06-03'
@@ -91,4 +92,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
 ---
+
+If you're lonely
+And need a friend
+And troubles seem like
+They never end
+Just remember
+To keep the faith
+And love will be there
+To light the way
+
+
+Anytime you need a friend
+I will be here
+You'll never be alone again
+So don't you fear
+Even if you're miles away
+I'm by your side
+So don't you ever be lonely
+Love will make it alright
+
+When the shadows are closing in
+And your spirit diminishing
+Just remember
+You're not alone
+And love will be there
+To guide you home
+
+
+
+If you just believe in me
+I will love you endlessly
+Take my hand
+Take me into your heart
+I'll be there forever baby
+I won't let go
+I'll never let go
+
+
+
+
 

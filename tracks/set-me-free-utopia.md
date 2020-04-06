@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: set-me-free-utopia
+lyrics_url: https://www.azlyrics.com/lyrics/darkwater/afoolsutopia.html
 name: Set Me Free
 rankings:
 - end_date: '1980-02-29'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
 ---
+
+When night and day unite
+And dreams turn to dust
+Another day to be
+Consumed in tragedy
+Calamity
+You're set up to be free
+But the mirror lies to you
+
+Wafting every fear within me
+Downing inside
+Fatal was your mode this time
+
+Know that you're the one who follows
+A fool's utopia
+Leave this season in its colors
+
+Your standing on the edge
+Beneath a troubled sky
+Your faith was all you had
+Now it's shattered on the ground
+Calamity
+Not set up to be weak
+But the mirror lies to you
+
+Walking every fear within me
+Downing inside
+Fatal was your mode this time
+
+Know that you're the one who follows
+A fool's utopia
+Leave this season in its colors
+
+Calamity
+Waking every fear within me
+Drowning inside
+Fatal was your mode this time
+
+Know that you're the one who follows
+A fool's utopia
+Leave this season in its colors
+Remember you're the one who follows
+A fool's utopia
+
+(Know that you're the one who follows)
+Leave this season in its colors
+
+
 

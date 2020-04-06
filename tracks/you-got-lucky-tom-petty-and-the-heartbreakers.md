@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-lucky-tom-petty-and-the-heartbreakers
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/eventhelosers.html
 name: You Got Lucky
 rankings:
 - end_date: '1982-11-19'
@@ -79,4 +80,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+
+Well it was nearly summer, we sat on your roof
+Yeah, we smoked cigarettes and we stared at the moon
+And I showed you stars you never could see
+No, it couldn't been that easy to forget about me
+
+Baby, time meant nothin', anything seemed real
+Yeah, you could kiss like fire and you made me feel
+Like every word you said was meant to be
+No, it couldn't been that easy to forget about me
+
+Baby, even the losers
+Get lucky sometimes
+Even the losers
+Keep a little bit of pride
+They get lucky sometimes
+
+Two cars parked on the overpass
+Rocks hit the water like broken glass
+I shoulda known right then it was too good to last
+God, it's such a drag when you live in the past
+
+Baby, even the losers
+Get lucky sometimes
+Even the losers
+Keep a little bit of pride
+They get lucky sometimes
+
+Baby, even the losers
+Get lucky sometimes
+Even the losers
+Keep a little bit of pride
+Yeah, they get lucky sometimes
+
+Baby, even the losers
+Get lucky sometimes
+Even the losers get lucky sometimes
+
+Even the losers
+Get lucky sometimes...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-called-me-baby-charlie-rich
+lyrics_url: https://www.azlyrics.com/lyrics/charlierich/shecalledmebaby.html
 name: She Called Me Baby
 rankings:
 - end_date: '1974-10-04'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
 ---
+
+She called me 'Baby, Baby'
+All night long
+Used to hold and kiss me
+Till the dawn
+Then one day I looked
+And she was gone
+Now there's no more 'Baby, Baby'
+All night long
+
+She called me 'Baby, Baby'
+All night long
+Kissed my tears away
+When things went wrong
+
+Oh what I'd give if she'd
+Just come back home
+And call me 'Baby, Baby'
+All night long
+
+She called me 'Baby, Baby'
+All night long
+Held me up so high
+And made me strong
+
+Now each night in dreams
+Just like the song
+I still hear 'Baby, Baby'
+'Baby, Baby'
+'Baby, Baby' all night long
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: haunted-house-jumpin--gene-simmons
+lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/hauntedhouse.html
 name: Haunted House
 rankings:
 - end_date: '1964-08-14'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
 ---
+
+I just moved in my new house today
+Moving was hot but I got squared away
+Bells started ringing and chains rattled loud
+I knew I'd moved in a haunted house
+
+Still I made up in my mind to stay
+Nothing was a gonna drive me away
+When I seen something that gave me the creep
+Had a one big eye and two big feet
+
+I stood right still and I did the freeze
+And he did the stroll right up to me
+Made a sound with his feet like a drum
+Saying, "You'll be here when the morning comes"
+
+Say, "Yes,I'll be here when the morning comes
+I'll be right here and I ain't gonna run
+I bought this house, now you know I'm boss
+Ain't no haunt gonna run me off"
+
+In the kitchen, my stove wad a blazing hot
+The coffee was a boiling in the pot
+The grease had melted in my pan
+I had a hunk of meet in my hand
+
+From out of space,there sat a man
+On a hot stove was pots and pans
+Say, that's hot, I began to shout
+He drank a hot coffee from the spout
+
+He ate the raw meat right from my hand
+Drank the hot grease from the frying pan
+He said to me, "Now you better run
+And don't be here when the morning comes"
+
+Say, "Yes, I'll be here when the morning comes
+I'll be right here and I ain't gonna run
+I bought this house, now you know I'm boss
+Ain't no haunt gonna run me off"
+
+
 

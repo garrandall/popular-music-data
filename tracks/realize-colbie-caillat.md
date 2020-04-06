@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: realize-colbie-caillat
+lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/realize.html
 name: Realize
 rankings:
 - end_date: '2008-02-29'
@@ -111,4 +112,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
 ---
+
+Take time to realize,
+That your warmth is crashing down on in.
+Take time to realize,
+That I am on your side.
+Didn't I, didn't I tell you?
+
+But I can't spell it out for you.
+No, it's never gonna be that simple.
+No, I can't spell it out for you.
+
+
+If you just realize what I just realized,
+Then we'd be perfect for each other,
+And we'll never find another.
+Just realize what I just realized.
+We'd never have to wonder if
+We missed out on each other now.
+
+Take time to realize.
+Oh-oh, I'm on your side.
+Didn't I, didn't I tell you?
+Take time to realize
+This all can pass you by.
+Didn't I tell you?
+
+But I can't spell it out for you.
+No, it's never gonna be that simple.
+No, I can't spell it out for you.
+
+
+If you just realize what I just realized
+Then we'd be perfect for each other,
+And we'll never find another.
+Just realize what I just realized.
+We'd never have to wonder if
+We missed out on each other but...
+
+It's not the same,
+No, it's never the same
+If you don't feel it too.
+If you meet me halfway,
+If you would meet me halfway,
+It could be the same for you.
+
+
+If you just realize what I just realized
+Then we'd be perfect for each other,
+And we'll never find another.
+Just realize what I just realized.
+We'd never have to wonder.
+Just realize what I just realized.
+If you just realize what I just realized.
+
+Oh.
+
+Missed out on each other now.
+Missed out on each other now, yeah.
+
+Realize.
+Realize.
+Realize.
+Realize.
+
+
 

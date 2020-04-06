@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: used-to-love-you-gwen-stefani
+lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/usedtoloveyou.html
 name: Used To Love You
 rankings:
 - end_date: '2015-11-20'
@@ -43,4 +44,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
 ---
+
+Never thought this would happen
+Gonna let it sink in, you're gone
+Don't know, know what I'm feeling
+I must be dreaming, you're gone
+
+Suitcase, band-aids
+Pulling back out the driveway
+You go, I'll stay
+You can keep all the memories
+I thought I was the best thing that ever happened to you
+I thought you loved me the most
+
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+
+Oh, oh, oh, oh
+I used to love you
+Oh, oh, oh, oh
+I used to love you
+
+You thought
+There were no boundaries
+What, you just pushed me too far
+I guess nobody taught you
+Nobody taught you how to love
+
+Suitcase, band-aids
+Pulling back out the driveway
+You go, I'll stay
+You can keep all the memories
+I thought I was the best thing that ever happened to you
+I thought you loved me the most
+
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+
+Oh, oh, oh, oh
+I used to love you
+Oh, oh, oh, oh
+I used to love you
+
+You know I was the best thing that ever happened to you
+Well, now look at what you lost, oh
+You know I was the best thing that ever happened to you
+Now look at what you lost, oh
+
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+I don't know why I cry
+But I think it's 'cause I remembered for the first time
+Since I hated you
+That I used to love you
+
+Oh, oh, oh, oh
+I used to love you
+Oh, oh, oh, oh
+I used to love you
+
+I don't know why I cry
+I don't, I don't, I don't
+I don't know why I used to love you
+I don't, I don't, I don't
+I don't know why I cry
+I don't, I don't, I don't
+I don't know why I used to love you
+I don't, I don't, I don't
+
+
 

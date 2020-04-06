@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stormy-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/stormy.html
 name: Stormy
 rankings:
 - end_date: '1979-01-12'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
 ---
+
+You are the sunshine, baby, whenever you smile
+But I call you Stormy today
+All of a sudden that ol' rain is fallin' down
+And my world is cloudy and gray
+You've gone away
+
+Old Stormy Stormy
+Old Stormy Stormy
+Old Stormy Stormy
+Old Stormy Stormy
+
+Yesterday's love was alive, the warm summer breeze
+But like the weather you changed
+Now things are dreary, baby, windy and cold
+And I stand alone in the rain
+Callin' out your name
+
+Stormy Stormy
+Stormy Stormy
+Come back to me Stormy
+Stormy Stormy
+
+Bring back that sunny day
+
+
+
+Yesterday's love was alive, the warm summer breeze
+But like the weather you changed
+Now things are dreary, baby, windy and cold
+And I stand alone in the rain
+Callin' out your name
+
+Whoa! Stormy
+
+Stormy, come back to me Stormy
+Stormy, come back to me Stormy
+
+Come on home! Stormy
+
+Bring back that sunny day
+
+
+
+
 

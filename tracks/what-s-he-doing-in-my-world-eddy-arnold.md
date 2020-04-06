@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-he-doing-in-my-world-eddy-arnold
+lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/whatshedoininmyworld.html
 name: What's He Doing In My World
 rankings:
 - end_date: '1965-05-21'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
 ---
+
+What's he doin' in my world what's he doin' holdin' my world
+If he's not more than just a friend why were you kissin' him
+And what's he doin' in my world
+
+What's he doin' in my world did you tell him that you're my girl
+If your love is really true tell him my world's made for two
+What's he doin' in my world
+
+Oh, don't let me keep on wonderin' just what you're gonna do
+Wondering if the one I love loves somebody new
+
+What's he doin' in my world we don't need him here in our world
+So if it's true he's just a friend explain those kisses you gave him
+And what's he doin' in my world
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: queen-of-the-hop-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/queenofthehop.html
 name: Queen Of The Hop
 rankings:
 - end_date: '1958-10-12'
@@ -83,4 +84,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
 ---
+
+Well you can talk about your Julie and your Peggy Sue 
+You can keep your Miss Molly and your Mary Lou
+When it comes to the chicken or to doing the hop
+I've got a girl they call the queen of the hop
+
+Well I love my queen
+Do you know who I mean
+Sweet little sixteen
+Yes that's my queen
+
+Well she wears short shorts and rock and roll shoes
+Gotta see her dance to the yellow dog blues
+She's my sugar time baby
+I'm her lollipop
+Everybody knows I love my queen of the hop
+
+Well I love my queen
+Do you know who I mean
+Sweet little sixteen
+Yes that's my queen
+
+Well she tunes into bandstand every day
+To watch the kids dancing cross the USA
+She don't care about a thing except in rock and roll
+My baby drives me crazy when she does the stroll
+
+Well she tunes into bandstand every day
+To watch the kids dancing cross the USA
+She don't care about a thing except in rock and roll
+My baby drives me crazy when she does the stroll
+
+Well I love my queen
+Do you know who I mean
+Sweet little sixteen
+Yes that's my queen
+
+Well that's my queen
+Yes that's my queen
+Well that's my queen...
+
+
 

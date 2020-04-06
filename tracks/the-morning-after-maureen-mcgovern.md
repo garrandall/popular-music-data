@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-morning-after-maureen-mcgovern
+lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/themorningafter.html
 name: The Morning After
 rankings:
 - end_date: '1973-06-29'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
 ---
+
+There's got to be a morning after
+If we can hold on through the night
+We have a chance to find the sunshine
+Let's keep on looking for the light
+
+Oh, can't you see the morning after?
+It's waiting right outside the storm
+Why don't we cross the bridge together
+And find a place that's safe and warm?
+
+It's not too late, we should be giving
+Only with love can we climb
+It's not too late, not while we're living
+Let's put our hands out in time
+
+There's got to be a morning after
+We're moving closer to the shore
+I know we'll be there by tomorrow
+And we'll escape the darkness
+We won't be searching anymore
+
+There's got to be a morning after
+(There's got to be a morning after)
+There's got to be a morning after
+(There's got to be a morning after)
+There's got to be a morning after
+(There's got to be a morning after)
+There's got to be a morning after
+(There's got to be a morning after)
+There's got to be a morning after
+(There's got to be a morning after)
+There's got to be a morning after
+(There's got to be a morning after)
+
+
 

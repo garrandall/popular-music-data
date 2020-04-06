@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 8th-world-wonder-kimberley-locke
+lyrics_url: https://www.azlyrics.com/lyrics/kimberleylocke/8thworldwonder.html
 name: 8th World Wonder
 rankings:
 - end_date: '2004-04-02'
@@ -87,4 +88,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
 ---
+
+Woke up early this morning, made my coffee like I always do.
+Then it hit me from nowhere, everything I feel about me and you.
+The way you kiss me crazy, baby you're so amazing.
+
+Seven days and seven nights of thunder,
+The waters rising and I'm slipping under.
+I think I fell in love with the 8th world wonder yeah.
+
+I guess that I'm just falling deeper into something I've never known.
+But the way that I'm feeling, makes me realize that it can't be wrong.
+You're love's like a summer rain, washing my doubts away.
+
+Seven days and seven nights of thunder,
+The waters rising and I'm slipping under.
+I think I fell in love with the 8th world wonder yeah.
+
+It's only been a week, but it's coming over me.
+It's making me believe that you're the one for me.
+
+Seven days and seven nights of thunder,
+The waters rising and I'm slipping under.
+I think I fell in love with the 8th world wonder yeah 
+
+
 

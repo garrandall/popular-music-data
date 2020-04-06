@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wake-me-shake-me-the-coasters
+lyrics_url: https://www.azlyrics.com/lyrics/coasters/wakemeshakeme.html
 name: Wake Me Shake Me
 rankings:
 - end_date: '1960-06-26'
@@ -43,4 +44,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+
+Why don't you wake me, shake me?
+Don't let me sleep too late
+Gotta get up in the morning
+About a quarter to eight
+
+(Don't you know I'm bound)
+I'm bound to my job
+(My boss)
+My boss is a big, fat slob
+Can't even be a minute late
+Or the boss will blow his gate
+
+Why don't you wake me, shake me?
+Don't let me sleep too late
+Gotta get up in the morning
+About a quarter to eight
+
+(Don't you know I'm bound)
+I'm bound to my garbage truck
+(I got a lot)
+Got a lot of cans to pick up
+Can't even be a minute late
+Or the boss will blow his gate
+
+Why don't you wake me, shake me?
+Gotta get up in the morning time
+About a quarter to eight
+
+I had a dream, I had a dream
+I said, "I looked over yonder"
+What did I see
+I said, "Two big garbage trucks"
+I said, "Are coming after me"
+
+Picking up cans, I said, "Side by side
+Why don't you swing down sweet garbage truck?
+And let your buddy ride"
+
+Why don't you wake me, shake me?
+Don't let me sleep too late
+Gotta get up in the morning
+About a quarter to eight
+
+(Don't you know I'm bound)
+I'm bound to my job
+(My boss)
+My boss is a big, fat slob
+Can't even be a minute late
+Or the boss will blow his gate
+
+Why don't you wake me, shake me?
+Gotta get up in the morning time
+About a quarter to eight
+
+Why don't you wake me, shake me?
+Gotta get up in the morning time
+About a quarter to eight
+
+Why don't you wake me, shake me?
+
+
 

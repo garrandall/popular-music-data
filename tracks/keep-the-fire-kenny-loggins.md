@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-the-fire-kenny-loggins
+lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/keepthefire.html
 name: Keep The Fire
 rankings:
 - end_date: '1980-02-29'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
 ---
+
+There's a river in
+Evening ember glow
+And you're wishing you could see
+How far it flows
+Rolling on to an endless sea
+You'd be well on your way
+If you could only set sail.
+
+But dreams can drift away
+And sails can fill with doubt
+Where's your vision
+If the embers flicker out?
+Don't let it slip from view
+
+The horizons are waiting
+Your river is fading
+
+
+So keep the fire burning tonight
+See just what comes into sight
+Don't take forever
+Take it through the night
+
+And believe the sun
+Will rise with the dawn
+That's all you need to go on
+But for tonight
+Just keep the fire burning bright
+
+I will never need to ask
+"What have I done?"
+Comes a moment when it's clear
+There's only one.
+Oh, whatever you need of me
+I've made up my mind
+I'll give you more than you've asked for
+
+And there are those who can foresee
+Where we will go
+All the future...
+I don't really want to know
+Only that you'll be here with me.
+
+While the embers still glow
+We'll be safe till tomorrow.
+
+
 

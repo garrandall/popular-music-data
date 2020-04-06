@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-nothin-s-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/sweetnothins.html
 name: Sweet Nothin's
 rankings:
 - end_date: '1959-12-27'
@@ -103,4 +104,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+
+ Uh huh, Honey
+ Alright
+
+My baby whispers in my ear (pst pst pst)
+Mmmm sweet nothin's
+He knows the things I like to hear (pst pst pst)
+Mmmm sweet nothin's
+Things he wouldn't tell
+Nobody else
+Secret baby
+I keep 'em to myself
+Sweet nothin's
+Mmmm sweet nothin's
+
+We walk along hand in hand
+Mmmm sweet nothin's
+Yeah, we both understand
+Mmmm sweet nothin's
+Sittin' in the classroom trying to read my book
+My baby give me that special look
+Sweet nothin's
+Mmmm sweet nothin's
+
+Ah, sittin on my front porch (pst pst pst)
+Mmmm sweet nothin's
+Well, do I love you? Of course (pst pst pst)
+Mmmm sweet nothin's
+Mama turned on the front porch light
+Sayin', "Come in darlin', that's enough for tonight"
+Sweet nothins
+Mmmm sweet nothin's
+Sweet nothins
+Mmmm sweet nothin's
+
+Sweet nothins
+
+
 

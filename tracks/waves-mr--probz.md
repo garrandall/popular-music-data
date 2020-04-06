@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waves-mr--probz
+lyrics_url: https://www.azlyrics.com/lyrics/mrprobz/waves.html
 name: Waves
 rankings:
 - end_date: '2014-09-12'
@@ -107,4 +108,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
 ---
+
+My face above the water
+My feet can't touch the ground,
+Touch the ground, and it feels like
+I can see the sands on the horizon
+Every time you are not around
+
+I'm slowly drifting away (drifting away)
+Wave after wave, wave after wave
+I'm slowly drifting (drifting away)
+And it feels like I'm drowning
+Pulling against the stream
+Pulling against the stream
+
+I wish I could make it easy
+Easy to love me, love me
+But still I reach
+To find a way
+I'm stuck here in between
+I'm looking for the right words to say
+
+I'm slowly drifting (drifting away)
+Wave after wave, wave after wave
+I'm slowly drifting (drifting away)
+And it feels like I'm drowning
+Pulling against the stream
+Pulling against the stream
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-loves-me-like-you-the-flamingos
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/homespunlove.html
 name: Nobody Loves Me Like You
 rankings:
 - end_date: '1960-04-24'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
 ---
+
+You spun your web back a Sunday or two
+I ain't never met nobody
+Like the likes of you
+You got me preachin' the news
+You turned down my road and decided to stay
+And I took a shine to your hair
+And your hillbillly ways
+And how you kiss on my face
+I got a bone deep feelin'
+You're the start of the good ole days
+
+
+Well I still remember
+You came by my trailer
+With chicken and some homemade wine
+The dogs got to barkin'
+When we got the sparkin'
+We almost set the house on fire
+Well I got a big heapin' helpin'
+Of the stuff I get a hankerin' for
+But honey your homespun love
+Just keeps me comin' back for more
+
+I like the flamingos you stuck in your yard
+And I like the notions you stick in my head and my heart
+Yeah and how you fix on my car
+Well I reckon I'm lucky you're everything I need so far
+
+
+
+
 

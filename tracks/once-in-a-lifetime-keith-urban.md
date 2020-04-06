@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: once-in-a-lifetime-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/onceinalifetime.html
 name: Once In A Lifetime
 rankings:
 - end_date: '2006-09-22'
@@ -63,4 +64,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
 ---
+
+...Mm hmm
+
+I can see it in your eyes 
+And feel it in your touch 
+I know that you're scared 
+But you've never been this loved (mm hmm)
+
+It's a long shot, baby, 
+I know it's true. 
+But if anyone can make it, 
+I'm bettin' on me and you. (mm hmm)
+
+Just keep on moving into me, 
+I know you're gonna see 
+The best is yet to come
+
+And don't fear it now, 
+We're going all the way. 
+That sun is shining on a brand new day. 
+It's a long way down 
+And it's a leap of faith 
+But we're never giving up 
+Cuz i know we've got a once in a lifetime love
+
+Everybody's looking 
+For what we've found 
+Some wait their whole life 
+And it never comes around. (uu huhh)
+
+So don't hold back now. 
+Just let go of all you've ever known 
+You can put your hand in mine.
+
+And don't fear it now, 
+We're going all the way. 
+That sun is shining on a brand new day. 
+It's a long way down 
+And it's a leap of faith 
+But we're never giving up 
+Cuz i know we've got a once in a lifetime love
+
+I close my eyes and i see you standing right there 
+Sayin 'i do' and they're throwing the rice in our hair. 
+Well the first one's born 
+And a brother comes along, 
+And he's got your smile. 
+I've been looking back on the life we had 
+I'm still by your side.
+
+So don't fear it now, 
+We're going all the way. 
+That sun is shining on a brand new day. 
+It's a long way down 
+And it's a leap of faith 
+But I'm never givin up 
+Cuz i know we've got a once in a lifetime love.
+
+
 

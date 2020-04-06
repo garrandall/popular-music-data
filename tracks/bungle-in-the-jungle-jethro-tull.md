@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bungle-in-the-jungle-jethro-tull
+lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/bungleinthejungle.html
 name: Bungle In The Jungle
 rankings:
 - end_date: '1974-11-08'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
 ---
+
+Walking through forests of palm tree apartments ---
+scoff at the monkeys who live in their dark tents
+down by the waterhole --- drunk every Friday ---
+eating their nuts --- saving their raisins for Sunday.
+Lions and tigers who wait in the shadows ---
+they're fast but they're lazy, and sleep in green meadows.
+
+Let's bungle in the jungle --- well, that's all right by me.
+I'm a tiger when I want love,
+but I'm a snake if we disagree.
+
+Just say a word and the boys will be right there:
+with claws at your back to send a chill through the night air.
+Is it so frightening to have me at your shoulder?
+Thunder and lightning couldn't be bolder.
+I'll write on your tombstone, ``I thank you for dinner.''
+This game that we animals play is a winner.
+
+Let's bungle in the jungle --- well, that's all right by me.
+I'm a tiger when I want love, 
+but I'm a snake if we disagree.
+
+The rivers are full of crocodile nasties
+and He who made kittens put snakes in the grass.
+He's a lover of life but a player of pawns ---
+yes, the King on His sunset lies waiting for dawn
+to light up His Jungle
+as play is resumed.
+The monkeys seem willing to strike up the tune.
+
+
 

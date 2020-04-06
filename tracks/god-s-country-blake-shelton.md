@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-s-country-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/godscountry.html
 name: God's Country
 rankings:
 - end_date: '2019-04-19'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
 ---
+
+Right outside of this one church town
+There's a gold dirt road to a whole lot of nothing
+Got a deed to the land but it ain't my ground
+This is God's country
+
+We pray for rain and thank Him when it's fallin'
+'Cause it brings a grain and a little bit of money
+We put it back in a plate, I guess that's why they call it
+God's country
+
+I saw the light in a sunrise
+Sittin' back in a 40 on the muddy river side
+Gettin' baptized in holy water and shine with the dogs runnin'
+Saved by the sound of the been found
+Dixie whistle in the wind, that'll get you Heaven bound
+The devil went down to Georgia but he didn't stick around
+This is God's country
+
+We turn the dirt and work until the week's done
+We take a break and break bread on Sunday
+Then do it all again 'cause we're proud to be
+From God's country (Yeah)
+
+I saw the light in a sunrise
+Sittin' back in a 40 on the muddy river side
+Gettin' baptized in holy water and shine with the dogs runnin'
+Saved by the sound of the been found
+Dixie whistle in the wind, that'll get you Heaven bound
+The devil went down to Georgia but he didn't stick around
+This is God's country
+
+(Yeah, this is God's country)
+(This is God's country) God's country
+
+I don't care what my headstone reads
+Or what kind of pine wood box I end up in
+When it's my time lay me six feet deep in
+God's country
+
+I saw the light in a sunrise
+Sittin' back in a 40 on the muddy river side
+Gettin' baptized in holy water and shine with the dogs runnin'
+Saved by the sound of the been found
+Dixie whistle in the wind, that'll get you Heaven bound
+The devil went down to Georgia but he didn't stick around
+This is God's country
+
+Yeah, I saw the light in a sunrise
+Sittin' back in a 40 on the muddy river side
+Gettin' baptized in holy water and shine with the dogs runnin'
+Saved by the sound of the been found
+Dixie whistle in the wind, that'll get you Heaven bound
+The devil went down to Georgia but he didn't stick around
+This is God's country
+
+
 

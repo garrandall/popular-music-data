@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: keep-your-head-to-the-sky-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/keepyourheadtothesky.html
 name: Keep Your Head To The Sky
 rankings:
 - end_date: '1973-11-23'
@@ -53,4 +54,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
 ---
+
+Master told me one day
+I'd find peace in every way
+But in search for the clue
+Wrong things I was bound to do
+
+Keep my head to the sky
+For the clouds to tell me why
+As I grew and with strength
+Master kept me as I repent and he said
+
+Keep your head to the sky
+Keep your head to the sky
+
+You gave me the will to be free
+Purpose to live is reality
+Hey and I found myself never alone
+Chances came to make me strong
+
+Step right up, be a man
+You need faith to understand
+So we're saying for you to hear
+Keep your head in faith's atmosphere...
+
+Keep your head to the sky
+Keep your head to the sky
+
+
 

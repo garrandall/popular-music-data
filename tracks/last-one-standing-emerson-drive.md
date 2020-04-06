@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-one-standing-emerson-drive
+lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/lastonestanding.html
 name: Last One Standing
 rankings:
 - end_date: '2004-05-07'
@@ -39,4 +40,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
 ---
+
+Queen of the night
+Life of the party 
+It's all an illusion
+You can't hide that big a heart ache
+So stop the delusion
+Waitin' for someone's rescue
+My arms are right here for you
+
+
+Through the wind and the rain
+Through the laughter and pain 
+Count on me
+And when life isn't fair and there's nobody there
+I will be 
+In a world of pretenders 
+I am your defender
+And when it all comes down
+I'll be the last one standing
+
+This is for life don't ever doubt it
+You've already fallen
+Love is alive so stand up and shout it
+'Cause destiny's callin'
+The others who stand behind me
+They don't look nothin' like me
+
+
+
+Waitin' for someone's rescue
+My arms are right here for you
+
+
+
+Yeah yeah
+I'll be the last one standing
+Through the wind and the rain 
+Through the laughter and pain
+I'll be the last one standing
+
+
 

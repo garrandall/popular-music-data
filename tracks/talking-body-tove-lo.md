@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talking-body-tove-lo
+lyrics_url: https://www.azlyrics.com/lyrics/williamsinge/talkingbody.html
 name: Talking Body
 rankings:
 - end_date: '2015-02-20'
@@ -127,4 +128,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
 ---
+
+Ooh-oh
+Yeah
+
+Bed, stay in bed
+The feeling of your skin locked in my head, yeah
+Smoke, smoke me broke
+I don't care, girl I'm down for what you want, okay
+
+Day drunk into the night, wanna keep you here (Wanna keep you here)
+Cause you dry my tears (Ooh)
+Summer lovin' and fights, how it is for us
+And it's all because (Okay)
+
+Now if we're talking body
+You got a perfect one
+So put it on me
+Swear it won't take you long
+If you love me right
+We fuck for life
+On and on and on
+Now if we're talking body (Talking body)
+You got a perfect one
+So put it on me
+Swear it won't take you long
+If you love me right
+We fuck for life
+On and on and on (on and on, on, on)
+
+Now if we're talking body
+You got a perfect one
+So put it on me
+Swear it won't take you long
+If you love me
+If you love me right, babe
+We can fuck for, we can fuck for life, yeah
+
+
 

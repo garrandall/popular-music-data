@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-time-to-cry-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/itstimetocry.html
 name: It's Time To Cry
 rankings:
 - end_date: '1959-11-29'
@@ -67,4 +68,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
 ---
+
+When somebody leaves you
+That's the time to cry
+When you know you're lonely
+You're not the one and only
+Who will cry
+
+When your heart is broken
+That's the time to cry
+When you know she's left you
+You'll know that she has left you
+So you can cry
+
+Happiness is what I long for
+Loneliness is why I cry
+For you have made my heart a slave
+And now it's up to you
+
+When somebody leaves you
+That's the time to cry
+When you know she's left you
+You'll know that she has left you
+So you can cry
+
+
 

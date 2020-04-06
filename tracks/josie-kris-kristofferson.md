@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: josie-kris-kristofferson
+lyrics_url: https://www.azlyrics.com/lyrics/kriskristofferson/josie.html
 name: Josie
 rankings:
 - end_date: '1972-03-17'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
 ---
+
+I've been chasing after Josie since the day I could run
+Even though I didn't know it at the time
+And I followed her from Texas 'til she found me undone
+Just a jump ahead of what I left behind.
+
+She was proud of her young body as a body could be
+On her way to be a woman of the world
+And I still can see her smiling as she gave it to me
+Lookin' like a lonesome little girl.
+
+
+Josie, is it true that you've grown harder than your years
+Sellin' them your sadness on the street
+How much did you lose between the laughter and the tears
+Gettin' back the bitter for the sweet
+
+Well, she loved me back to livin' at a time I was lost
+With the closest thing to love I've ever known
+And she led me through some bridges I was burnin' to cross
+Then she went and burned some bridges of her own.
+
+Now the road's a little colder every time that I leave
+For another empty place I've never been
+And I don't suppose it's likely that she's lookin' for me
+But someday I may just chase her down again.
+
+
+Josie, is it true that you've grown harder than your years
+Sellin' them your sadness on the street
+How much did you lose between the laughter and the tears
+Gettin' back the bitter for the sweet
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: near-you-roger-williams
+lyrics_url: https://www.azlyrics.com/lyrics/bexey/directions.html
 name: Near You
 rankings:
 - end_date: '1958-08-24'
@@ -75,4 +76,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
+
+Can you count, suckers? I say, the future is ours...
+If you can count!
+
+
+She just wanna go down with the moonlight
+Me I just wanna go up with the sunrise
+She don't wanna get left when its my time
+When its my time, my time
+Me I'm just tryna get right up in my mind
+Baby you might die if you sting me
+Like a honey bee you gon' give it all to me
+How I'm runnin' with yellow and black jacket
+I'm on madness
+Baby spread your wings start flapping
+(Bzz bzzz bzzz)
+Now stop with the buzzin and be quiet
+Ima flip the switch put you on silent kinda like a iPhone
+I know what you like but I don't like that anxious look in your eye
+Gotta silver hoop in my earring
+And a mind fulla' paranoid  but okay
+Lookin' away from every girl that gets near 
+Switch gears, I run out of tears, run out of fears
+But bitch I get it in
+
+She just wanna go down with the moonlight
+Me I just wanna go up with the sunrise
+She don't wanna get left when its my time
+When its my time, my time
+Me I'm just tryna get right up in my mind
+Direction, baby what's ya direction
+Direction, I need to know where you headin
+Direction, hey babe what's ya direction
+Dickre-ction
+
+
+I remember when I was in addaka
+Swine father keep his hoes in pig tails
+Pig nasty, Pig jersey get the mail and on my hip I gotta keep a gat-akka
+That'll blow your mind like Roger Troutman have ya singing Doo Wa Ditty when its zappin' ya
+Gotta second cabin in another different set of woods where I fuck hoes on camera
+Wait
+I just gotta get one thing straight
+I don't care who hates me
+I don't care about making mistakes
+I pretty much gave birth to all of y'all and that there takes the fucking cake
+Get into it do it do it to em dump their stupid bodies in a murky lake
+Think you gotta blind date with death-y wait posted at the gate
+Rozzy Dyliams woulda been the fifth or sixth William if my momma didn't named me Dylan
+If you got an enemy then kill em
+Trap and zagged in outer space like Roger Wilco
+I be on that horsed sim code generate more sim codes spraying up your zip code but everyday that's a
+
+
+She just wanna go down with the moonlight
+Me I just wanna go up with the sunrise
+She don't wanna get left when its my time
+When its my time, my time
+Me I'm just tryna get right up in my mind
+
+
 

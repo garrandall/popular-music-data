@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-other-arms-no-other-lips-the-chordettes
+lyrics_url: https://www.azlyrics.com/lyrics/chordettes/nootherarmsnootherlips.html
 name: No Other Arms No Other Lips
 rankings:
 - end_date: '1959-03-08'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
+
+No other arms, no other lips
+No other love but you
+
+We've had our stormy weather
+We've had our sunshine too
+We've shared them both together
+And I'm still here with you
+
+Sometimes I made you happy
+Sometimes I made you blue
+But love kept us together
+And I'm still here with you
+
+No other arms, no other lips
+No other love beside me
+No other star of love
+Above to guide me
+
+Someday you'll go to Heaven
+As all good angels do
+I'll find my way to Heaven
+So I'll be there with you
+
+No other arms, no other lips
+No other love but you
+
+
 

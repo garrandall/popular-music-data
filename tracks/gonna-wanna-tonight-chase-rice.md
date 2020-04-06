@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gonna-wanna-tonight-chase-rice
+lyrics_url: https://www.azlyrics.com/lyrics/chaserice/gonnawannatonight.html
 name: Gonna Wanna Tonight
 rankings:
 - end_date: '2015-09-04'
@@ -55,4 +56,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
 ---
+
+If you wanna climb a ladder on a water tower
+Then we'll kick it with the stars for a couple hours
+If you wanna then we're gonna get way up high
+If you wanna dip your toes where the water stops
+Then we'll let our feet hang off a fishin' dock
+If you wanna then we're gonna have to give it a try, that's right
+
+If you wanna go way out where there ain't nobody around
+And let your long hair get to fallin' down
+And let your red lips leave their mark all over mine
+
+If you wanna then we're gonna girl
+I hope you're gonna wanna tonight
+If you wanna then we're gonna girl
+I hope you're gonna wanna all night
+
+If you wanna catch a buzz and ride it til the mornin'
+Let's get two plastic cups and baby I'll get to pourin'
+It don't really matter if it's whiskey or wine, it's fine
+
+If you wanna go way out where there ain't nobody around
+And let your long hair get to fallin' down
+And let your red lips leave their mark all over mine
+
+Fill up the night air with the radio
+And put your hands wherever they wanna go
+Yeah, we're right there
+Girl just close your eyes
+
+If you wanna then we're gonna girl
+I hope you're gonna wanna tonight
+If you wanna then we're gonna girl
+I hope you're gonna wanna all night
+
+Gonna wanna get a little closer
+Gonna wanna slide it on over
+Gonna wanna
+
+Gonna wanna go out where there ain't nobody around
+And let your long hair get to fallin' down
+And let your red lips leave their mark all over mine
+
+Come on
+Fill up the night air with the radio
+And put your hands wherever they wanna go
+Yeah, we're right there
+Girl just close your eyes
+
+If you wanna then we're gonna girl
+I hope you're gonna wanna tonight
+If you wanna then we're gonna girl
+I hope you're gonna wanna all night
+
+Gonna wanna get a little closer
+Gonna wanna slide it on over
+Gonna wanna
+
+Ya gonna wanna tonight
+
+
 

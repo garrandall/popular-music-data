@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unconditionally-katy-perry
+lyrics_url: https://www.azlyrics.com/lyrics/katyperry/unconditionally.html
 name: Unconditionally
 rankings:
 - end_date: '2013-11-15'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
 ---
+
+Oh no, did I get too close?
+Oh, did I almost see what's really on the inside?
+All your insecurities
+All the dirty laundry
+Never made me blink one time
+
+Unconditional, unconditionally
+I will love you unconditionally
+There is no fear now
+Let go and just be free
+I will love you unconditionally
+
+Come just as you are to me
+Don't need apologies
+Know that you are worthy
+I'll take your bad days with your good
+Walk through the storm I would
+I do it all because I love you, I love you
+
+Unconditional, unconditionally
+I will love you unconditionally
+There is no fear now
+Let go and just be free
+I will love you unconditionally
+
+So open up your heart and just let it begin
+Open up your heart and just let it begin
+Open up your heart and just let it begin
+Open up your heart
+
+Acceptance is the key to be
+To be truly free
+Will you do the same for me?
+
+Unconditional, unconditionally
+I will love you unconditionally
+And there is no fear now
+Let go and just be free
+'Cause I will love you unconditionally (oh yeah)
+I will love you (unconditionally)
+I will love you
+I will love you unconditionally
+
+
 

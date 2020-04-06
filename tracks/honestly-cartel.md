@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honestly-cartel
+lyrics_url: https://www.azlyrics.com/lyrics/cartel/honestly.html
 name: Honestly
 rankings:
 - end_date: '2007-01-19'
@@ -27,4 +28,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
 ---
+
+Please don't mind what I'm trying to say 'cause I'm, I'm being honest
+When I tell you that you
+You're part of the reason I'm so set on the rest of my life
+Being a part of you
+You tell me what you think about being open,
+About being honest with yourself
+
+'Cause things will never be the same.
+
+So I guess I'll see you, I'll see you around
+I'm spinning while I'm falling down
+Now you know why I'm begging you to stay
+
+And don't waste time getting to the point, 'cause I'm, I'm patiently waiting
+For your next phone call, your next excuse for losing sleep again
+Tell me what you think about being open,
+About being honest with yourself
+
+'Cause things will never be the same
+
+So I guess I'll see you, I'll see you around
+I'm spinning while I'm falling down
+Now you know why I'm begging you to stay
+
+'Cause I can't stop it now
+It's so amazing how
+I know I cant, I could never walk away
+
+How can we resolve this now
+We let it go, and wonder how 
+This can never be the same
+Can never be the same
+
+So I guess I'll see you, I'll see you around
+I'm spinning while I'm falling down
+Now you know why I'm begging you, I'm begging!
+
+'Cause I can't stop it now,
+It's so amazing how,
+I know I cant, I could never walk away.
+
+Please don't mind what I'm trying to say, 'cause I'm, I'm being honest.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-do-it-all-terri-clark
+lyrics_url: https://www.azlyrics.com/lyrics/terriclark/iwannadoitall.html
 name: I Wanna Do It All
 rankings:
 - end_date: '2003-12-19'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
 ---
+
+I'm sitting in traffic
+For the 5th year in a row
+Wasting my time
+Just to get
+Where I don't even wanna go
+I started jotting things down
+On a krispy kreme sack
+Everything I'd do
+If I could leave this place
+And never look back
+
+I wanna do it all
+Visit Paris in the fall
+Watch the Yankees play ball
+I wanna take it all in
+Catch a few beads
+Down at Mardi Gras
+Start a tradition
+Lay down the law
+I wanna do it all
+
+I want to drink tequila
+Down in Tijuana
+Say why not
+When somebody says
+Hey do you wanna
+I wanna get my heart broke
+Once or twice
+Settle down with the love of my life
+Rock little babies to sleep at night
+
+I wanna do it all
+Visit Paris in the fall
+Watch the Yankees play ball
+I wanna take it all in
+Catch a few beads
+Down at Mardi Gras
+Start a tradition
+Lay down the law
+I wanna do it all
+
+I wanna spend a day
+Every now and then
+Just doin what I want to do
+When I wanna do it
+Anytime I wanna do it
+
+I wanna do it all
+Visit Paris in the fall
+Watch the Yankee's play ball
+I wanna take it all in
+Catch a few beads
+Down at Mardi Gras
+Start a tradition
+Lay down the law
+
+I wanna do it all
+See Niagara falls
+Fight city hall
+Feel good in my skin
+Beating the odds 
+With my back to the wall
+Try to rob Peter
+Without paying Paul
+I wanna do it all
+I wanna do it all
+I wanna do it all
+
+
 

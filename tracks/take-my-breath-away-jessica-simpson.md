@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-my-breath-away-jessica-simpson
+lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/takemybreathaway.html
 name: Take My Breath Away
 rankings:
 - end_date: '2004-04-09'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
 ---
+
+Watching every motion
+In my foolish lover's game
+On this endless ocean
+Finally lovers know no shame
+Turning and returning
+To some secret place inside
+Watching in slow motion
+As you turn around and say
+My love
+
+Take my breath away
+Take my breath away
+
+Watching I keep waiting
+Still anticipating love
+Never hesitating
+To become the fated ones
+Turning and returning
+To some secret place inside
+Watching in slow motion
+As you turn around and say
+My love
+
+Take my breath away 
+Take my breath away
+
+Through the hourglass I saw you
+In time you slipped away
+When the mirror crashed I called you
+And turned to hear you say
+If only for today
+I am unafraid
+
+Take my breath away 
+Take my breath away
+
+Watching every motion
+In this foolish lovers game 
+Haunted by the notion
+Somewhere there's a love in flames
+Turning and returning 
+To some secret place inside
+Watching in slow motion
+As you turn around and say
+My love
+
+Take my breath away
+Take my breath away
+
+
 

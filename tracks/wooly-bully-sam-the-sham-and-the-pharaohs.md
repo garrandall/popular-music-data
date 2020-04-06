@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wooly-bully-sam-the-sham-and-the-pharaohs
+lyrics_url: https://www.azlyrics.com/lyrics/samtheshamandthepharaohs/woolybully.html
 name: Wooly Bully
 rankings:
 - end_date: '1965-04-09'
@@ -79,4 +80,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+
+Uno, dos
+One, two, tres, quatro
+
+Matty told Hatty about a thing she saw
+Had two big horns and a wooly jaw
+Wooly bully, wooly bully
+Wooly bully, wooly bully, wooly bully
+
+Hatty told Matty: "Let's don't take no chance
+Let's not be L-seven, come and learn to dance."
+Wooly bully, wooly bully
+Wooly bully, wooly bully, wooly bully
+
+Matty told Hatty: "That's the thing to do
+Get you someone really to pull the wool with you."
+Wooly bully, wooly bully
+Wooly bully, wooly bully, wooly bully
+
+
 

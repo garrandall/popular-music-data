@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-my-trials-ray-stevens
+lyrics_url: https://www.azlyrics.com/lyrics/raystevens/allmytrials.html
 name: All My Trials
 rankings:
 - end_date: '1971-09-03'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
 ---
+
+Hush, little baby, don't you cry
+You know your mama was born to die
+All my trials, Lord, soon be over
+
+The river Jordan is muddy and cold
+It chills the body but not the soul
+All my trials, Lord, soon be over
+
+Too late, my brothers
+Too late but never mind
+All my trials, Lord, soon be over
+
+If living were a thing that money could buy
+You know the rich would live and the poor would die
+All my trials, Lord, soon, they will soon be over
+
+Too late, my brothers
+Too late but never mind
+All my trials, Lord
+They're gonna soon, soon be over
+All my trials, Lord
+They're gonna soon, they're gonna soon be over
+
+
 

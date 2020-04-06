@@ -5,6 +5,7 @@ features:
 - Big Sean
 genres: []
 key: as-long-as-you-love-me-justin-bieber-big-sean
+lyrics_url: https://www.azlyrics.com/lyrics/alexgoot/aslongasyouloveme.html
 name: As Long As You Love Me
 rankings:
 - end_date: '2012-07-06'
@@ -124,4 +125,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
 ---
+
+As long as you love me 
+
+We're under pressure,
+Seven billion people in the world trying to fit in
+Keep it together,
+Smile on your face even though your heart is frowning 
+But hey now (hey now), you know, girl (know girl),
+We both know it's a cruel world
+But I will take my chances
+
+As long as you love me
+We could be starving, we could be homeless, we could be broke
+As long as you love me
+I'll be your platinum, I'll be your silver, I'll be your gold
+As long as you lo-o-o-o-o-o love me (love me)
+As long as you lo-o-o-o-o-o love me (love me)
+
+I'll be your soldier,
+Fighting every second of the day for your dreams, girl
+I'll be your Hova
+You could be my Destiny's Child on the scene girl
+So don't stress (don't stress), don't cry (don't cry), we don't need no wings to fly
+Just take my hand
+
+As long as you love me
+We could be starving, we could be homeless, we could be broke
+As long as you love me
+I'll be your platinum, I'll be your silver, I'll be your gold
+As long as you lo-o-o-o-o-o love me (love me)
+As long as you lo-o-o-o-o-o love me (love me)
+
+As long as you love me 
+As long as you love me 
+
+As long as you lo-o-o-o-o-o love me (love me)
+As long as you lo-o-o-o-o-o love me (love me)
+As long as you lo-o-o-o-o-o love me (love me)
+As long as you lo-o-o-o-o-o love me (love me)
+
+As long as you love me
+
+
 

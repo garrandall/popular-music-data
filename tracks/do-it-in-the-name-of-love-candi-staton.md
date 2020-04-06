@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-in-the-name-of-love-candi-staton
+lyrics_url: https://www.azlyrics.com/lyrics/candistaton/doitinthenameoflove.html
 name: Do It In The Name Of Love
 rankings:
 - end_date: '1973-02-09'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
 ---
+
+You can make me talk so easy
+Boy, you sure know how
+To please me (ooh, yeah)
+
+Don't you do it if you
+Think you got to, no
+Don't you do it if you
+Think you ought to (ooh, yeah)
+
+Oh, oh, oh
+Do it in the name of love
+If you really want me
+That's reason enough
+
+Do it in the name of love
+Do it in the name of love
+
+Ooh, Lord, mmm hmm
+Got to, oh
+
+Don't you know we go together
+I swear it feels like forever, boy
+(Ooh, yeah)
+
+Don't be scared now
+Don't you worry, oh, yeah
+It's all right
+There's no hurry, woo (ooh, yeah)
+
+Oh, oh, oh
+Do it in the name of love
+If you really want me
+That's reason enough
+
+Do it in the name of love
+Oh, do it in the name of love
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-tracks-of-my-tears-the-miracles
+lyrics_url: https://www.azlyrics.com/lyrics/bryanferry/thetracksofmytears.html
 name: The Tracks Of My Tears
 rankings:
 - end_date: '1965-07-23'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
 ---
+
+People say i'm the life of the party
+'cause I tell a joke or two
+Although I may be laughin' loud and hearty
+Deep inside i'm blue
+So take a good look at my face
+You'll see my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+I need you, need you
+Since you left me
+If you see me with another girl
+Seemin' like i'm havin' fun
+Although she may be cute
+She's just a substitute
+
+Because you're the only one
+So take a good look at my face
+You see my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+I need you, need you
+I'm masquerading
+My hope is fading
+Oh yeah, since you put me down
+My smile is my makeup
+I wear since my break-up with you
+Baby take a good look at my face
+You'll see my smile looks out of place
+If you look closer it's easy to trace
+The tracks of my tears
+
+
 

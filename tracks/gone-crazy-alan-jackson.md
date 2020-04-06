@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gone-crazy-alan-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/gonecrazy.html
 name: Gone Crazy
 rankings:
 - end_date: '1999-03-19'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
 ---
+
+here i am alone again tonight
+in this old empty house
+its hard to learn what you don't think you need
+that you can't live without
+never leave the sound of the telephone
+but ever since you left
+i've been gone
+
+gone crazy 
+going out of my mind
+i've asked myself the reasons
+atleast a thousand times
+going up and down this hall way
+trying to leave the pain behind
+ever since you left
+i've been gone
+
+never saw your face this many times 
+when you were really here
+things you said i never understood
+now crystal clear
+never spent this much time alone
+but ever since you left
+i've been gone
+
+gone crazy 
+going out of my mind
+i've asked myself the reasons
+atleast a thousand times
+going up and down this hall way
+trying to leave the pain behind
+ever since you left
+i've been gone 
+
+i've been gone 
+
+
 

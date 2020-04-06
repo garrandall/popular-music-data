@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cara-mia-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/caramia.html
 name: Cara Mia
 rankings:
 - end_date: '1965-06-11'
@@ -60,4 +61,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
 ---
+
+Cara Mia why must we say goodbye?
+Each time we part my heart wants to die
+Darling hear my prayer
+Cara Mia fair
+I'll be your love till the end of time
+
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+
+Cara Mia why must we say goodbye?
+Each time we part my heart wants to die
+Darling hear my prayer
+Cara Mia fair
+I'll be your love till the end of time
+
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+
+Each time we part my heart wants to die
+Darling hear my prayer
+Cara Mia fair
+I'll be your love till the end of time
+
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+Cara Mia mine
+
+
 

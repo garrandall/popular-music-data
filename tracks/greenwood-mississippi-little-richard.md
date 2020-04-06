@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: greenwood-mississippi-little-richard
+lyrics_url: https://www.azlyrics.com/lyrics/littlerichard/greenwoodmississippi.html
 name: Greenwood Mississippi
 rankings:
 - end_date: '1970-09-11'
@@ -27,4 +28,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
 ---
+
+Well I've been on the road
+for a long time
+met a lot of women
+had to leave them all behind
+'cause I want to go back 
+to the land I love
+where Magnolia smells sweet 
+and white cotton is warm
+
+
+Take me on back
+Back to the country
+Take me on down, down
+Greenwood Mississippi
+
+Old farmer John
+he lives down the road
+works in the fields
+carryin' a heavy load
+He don't have to worry
+'bout a thing
+'cause everyday now
+you can hear him sing
+
+
+
+
 

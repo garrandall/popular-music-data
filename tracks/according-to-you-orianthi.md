@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: according-to-you-orianthi
+lyrics_url: https://www.azlyrics.com/lyrics/orianthi/accordingtoyou.html
 name: According To You
 rankings:
 - end_date: '2009-12-25'
@@ -91,4 +92,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
 ---
+
+According to you
+I'm stupid,
+I'm useless,
+I can't do anything right.
+According to you
+I'm difficult,
+hard to please,
+forever changing my mind.
+I'm a mess in a dress,
+can't show up on time,
+even if it would save my life.
+According to you. According to you.
+
+But according to him
+I'm beautiful,
+incredible,
+he can't get me out of his head.
+According to him
+I'm funny,
+irresistible,
+everything he ever wanted.
+Everything is opposite,
+I don't feel like stopping it,
+so baby tell me what I got to lose.
+He's into me for everything I'm not,
+according to you.
+
+According to you
+I'm boring,
+I'm moody,
+you can't take me any place.
+According to you
+I suck at telling jokes cause I always give it away.
+I'm the girl with the worst attention span;
+you're the boy who puts up with that.
+According to you. According to you.
+
+But according to him
+I'm beautiful,
+incredible,
+he can't get me out of his head.
+According to him
+I'm funny,
+irresistible,
+everything he ever wanted.
+Everything is opposite,
+I don't feel like stopping it,
+so baby tell me what I got to lose.
+He's into me for everything I'm not,
+according to you.
+
+I need to feel appreciated,
+like I'm not hated. oh... no...
+Why can't you see me through his eyes?
+It's too bad you're making me decide.
+
+According to me
+you're stupid,
+you're useless,
+you can't do anything right.
+But according to him
+I'm beautiful,
+incredible,
+he can't get me out of his head.
+According to him
+I'm funny,
+irresistible,
+everything he ever wanted.
+Everything is opposite,
+I don't feel like stopping it,
+baby tell me what I got to lose.
+He's into me for everything I'm not,
+according to you. (you, you)
+According to you. (you, you)
+
+According to you
+I'm stupid,
+I'm useless,
+I can't do anything right.
+
+
 

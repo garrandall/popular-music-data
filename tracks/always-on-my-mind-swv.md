@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-on-my-mind-swv
+lyrics_url: https://www.azlyrics.com/lyrics/swv/yourealwaysonmymind.html
 name: Always On My Mind
 rankings:
 - end_date: '1994-01-14'
@@ -75,4 +76,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
 ---
+
+You're always on my mind 
+
+
+Boy, I can't seem to get you outta my head
+But there's something about you that makes me smile
+Don't change, I like the way you make me feel
+Can we take our time and do this for a while
+
+
+Girl, I never thought I'd find someone to love me
+Now, you're the only one I want in my life
+And the special touch you give comes from you only
+I guess that's why you're always on my mind
+
+
+You're always on my mind
+You're always on my mind
+You're always on my mind
+You're always on my mind
+
+
+Sometimes, I find it hard to concentrate
+Because thoughts of us together fill my head
+When you're away, it's hard to sleep at night
+So, my pillow, like my thoughts of you, I hold tight
+
+
+Girl, I never thought I'd find someone to love me
+Now, you're the only one I want in my life
+And the special touch you give comes from you only
+I guess that's why you're always on my mind
+
+
+
+
+Thinking 'bout ya, thinking 'bout ya, I can't stop thinking 'bout ya
+(On my mind)
+
+
+
+
 

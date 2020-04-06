@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-the-night-clay-aiken
+lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/thisisthenight.html
 name: This Is The Night
 rankings:
 - end_date: '2003-07-04'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
 ---
+
+When the world wasn't upside down, I could take all the time I had
+But I'm not going to wait when a moment can vanish so fast
+
+'Cause every kiss is a kiss you can never get back
+
+Lift me up in your arms
+If you told me that is what Heaven is, well, you'd be right
+I've been waiting forever for this
+This is the night
+
+When the answer to all my dreams is as close as a touch away
+Why am I here holding back what I'm trying to say?
+
+Lift me up in your arms
+If you told me that is what Heaven is, well, you'd be right
+Hold me close to your heart
+I would go with you to the ends of the Earth and we'll fly
+I've been waiting forever for this
+This is the night
+
+This is the night where we capture forever and all our tomorrows begin
+After tonight, we will never be lonely again
+
+Lift me up in your arms
+If you told me that is what Heaven is, well, you'd be right
+Hold me close to your heart
+I would go with you to the ends of the Earth and we'll fly
+I've been waiting forever for this
+This is the night
+
+
 

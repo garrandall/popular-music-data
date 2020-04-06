@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sentimental-street-night-ranger
+lyrics_url: https://www.azlyrics.com/lyrics/nightranger/sentimentalstreet.html
 name: Sentimental Street
 rankings:
 - end_date: '1985-05-31'
@@ -75,4 +76,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
 ---
+
+Saw you walkin' out on Sentimental Street
+What'cha doin' out there
+Who you tryin' to be
+I know what you're thinking
+'Cause I've been there myself
+I've been kicked so many times
+I don't know nothin' else
+
+Still I noticed your urgency
+I'll recognize the flair
+That ya got from chasin'
+All those east coast dares
+And I've seen it before
+It happens time and again
+All cut up inside
+Yet you're caught in a spin
+
+Out on Sentimental Street in the Avenues
+Take a good hard look
+There ain't nothin' ever new
+Out on Sentimental Street in the Avenues
+Will you ever find out
+Guess I'll leave it up to you
+
+Saw you dancin' out at Madame Wong Two's
+You did the same two steps
+That I taught you back in June
+Heard you dined last night
+At Conte Razor's CafÃ©
+Did you get your fill
+Did you think you had to pay
+
+Still I noticed your urgency
+And recognized the pain
+And I'm sure it's the same
+You feel again and again
+And I wish I could get us
+That second chance
+But you're having too much fun
+With your sudden romance
+
+Out on Sentimental Street in the Avenues
+Take a good hard look
+There ain't nothin' ever new
+Out on Sentimental Street in the Avenues
+Will you ever find us
+Guess I'll leave it up to you
+
+Out on Sentimental Street in the Avenues
+Take a good hard look
+There ain't nothin' ever new
+Out on Sentimental Street in the Avenues
+Will you ever find us
+Guess I'll leave it up to you
+
+Sentimental Street in the Avenues
+Oh' take a good hard look
+There ain't nothin' ever new
+Out on Sentimental Street in the Avenues
+Will you ever find us
+Guess I'll leave it up to you
+Saw you walking out on Sentimental Street
+What'cha doin' out there
+Who you tryin' to be
+Out on Sentimental Street in the Avenues
+Will you ever find us
+Guess I'll leave it up to you
+
+
 

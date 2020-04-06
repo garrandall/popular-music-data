@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: behind-blue-eyes-limp-bizkit
+lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/behindblueeyes.html
 name: Behind Blue Eyes
 rankings:
 - end_date: '2004-03-12'
@@ -51,4 +52,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
 ---
+
+No one knows what it's like
+To be the bad man
+To be the sad man
+Behind blue eyes
+And no one knows what it's like
+To be hated
+To be fated
+To telling only lies
+
+But my dreams they aren't as empty
+As my conscience seems to be
+I have hours, only lonely
+My love is vengeance
+That's never free
+
+No one knows what it's like
+To feel these feelings
+Like I do,
+And I blame you!
+No one bites back as hard
+On their anger
+None of my pain and woe
+Can show through
+
+But my dreams they aren't as empty
+As my conscience seems to be
+I have hours, only lonely
+My love is vengeance
+That's never free
+
+Discover
+
+
+L.I.M.P.
+Say it
+Discover
+
+No one knows what it's like
+To be mistreated,
+To be defeated
+Behind blue eyes
+No one knows how to say
+That they're sorry
+And don't worry
+I'm not telling lies
+
+But my dreams they aren't as empty
+As my conscience seems to be
+I have hours, only lonely
+My love is vengeance
+That's never free
+
+No one knows what it's like
+To be the bad man,
+To be the sad man
+Behind blue eyes.
+
+
 

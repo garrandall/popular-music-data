@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hero-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/hero.html
 name: Hero
 rankings:
 - end_date: '1993-10-29'
@@ -127,4 +128,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
 ---
+
+There's a hero
+If you look inside your heart
+You don't have to be afraid
+Of what you are
+There's an answer
+If you reach into your soul
+And the sorrow that you know
+Will melt away
+
+And then a hero comes along
+With the strength to carry on
+And you cast your fears aside
+And you know you can survive
+So when you feel like hope is gone
+Look inside you and be strong
+And you'll finally see the truth
+That a hero lies in you
+
+It's a long road
+When you face the world alone
+No one reaches out a hand
+For you to hold
+You can find love
+If you search within yourself
+And the emptiness you felt
+Will disappear
+
+And then a hero comes along
+With the strength to carry on
+And you cast your fears aside
+And you know you can survive
+So when you feel like hope is gone
+Look inside you and be strong
+And you'll finally see the truth
+That a hero lies in you
+
+Lord knows
+Dreams are hard to follow
+But don't let anyone
+Tear them away
+Hold on
+There will be tomorrow
+In time
+You'll find the way
+
+And then a hero comes along
+With the strength to carry on
+And you cast your fears aside
+And you know you can survive
+So when you feel like hope is gone
+Look inside you and be strong
+And you'll finally see the truth
+That a hero lies in you
+That a hero lies in you
+That a hero lies in you
+
+
 

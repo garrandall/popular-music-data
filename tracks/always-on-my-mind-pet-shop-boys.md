@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-on-my-mind-pet-shop-boys
+lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/alwaysonmymind.html
 name: Always On My Mind
 rankings:
 - end_date: '1988-04-01'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
 ---
+
+Maybe I didn't treat you quite as good as I should
+Maybe I didn't love you quite as often as I could
+Little things I should've said and done, I never took the time
+You were always on my mind
+You were always on my mind
+
+Maybe I didn't hold you all those lonely, lonely times
+And I guess I never told you, I'm so happy that you're mine
+If I made you feel second best, I'm so sorry, I was blind
+You were always on my mind
+You were always on my mind
+
+Tell me, tell me that your sweet love hasn't died
+Give me one more chance to keep you satisfied
+Satisfied
+
+Little things I should've said and done, I never took the time
+You were always on my mind
+You were always on my mind
+
+Tell me, tell me that your sweet love hasn't died
+Give me one more chance to keep you satisfied
+
+You were always on my mind
+You were always on my mind
+You were always on my mind
+You were always on my mind
+You were always on my mind
+You were always on my mind
+
+Maybe I didn't treat you quite as good as I should
+Maybe I didn't love you quite as often as I could
+Maybe I didn't hold you all those lonely, lonely times
+And I guess I never told you, I'm so happy that you're mine
+
+(Maybe I didn't love you...)
+
+
 

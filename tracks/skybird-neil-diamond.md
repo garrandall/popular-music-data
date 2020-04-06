@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: skybird-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/skybird.html
 name: Skybird
 rankings:
 - end_date: '1974-03-22'
@@ -23,4 +24,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
 ---
+
+Skybird
+Make your sail
+And every heart
+Will know of the tale
+
+
+And head for the farthest shore
+
+Songbird
+Make your tune
+For none may sing it just as you do
+
+
+And make your song be heard
+
+Look at the way I glide
+Caught on the winds lazy tide
+Sweetly how it sings
+Rally each heart
+At the sight of your silver wings
+
+Skybird
+Skybird
+Night bird
+Find your way
+For none may know it just as you may
+
+
+Seek out your harbor of light
+Let your song be heard
+Rally each heart
+To the sight of your silver wings
+Skybird
+
+
 

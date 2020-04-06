@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-and-roll-girls-john-fogerty
+lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/rockandrollgirls.html
 name: Rock And Roll Girls
 rankings:
 - end_date: '1985-03-22'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
 ---
+
+Sometimes I think life is just a rodeo
+The trick is to ride and make it to the bell
+But there is a place, sweet as you will ever know
+In music and love and things you never tell
+You see it in their face, secrets on the telephone
+A time out of time, for you and no one else
+
+Hey, let's go all over the world
+Rock and roll girls, rock and roll girls
+
+Yeah, yeah, yeah
+
+If I had my way, I'd shuffle off to Buffalo
+Sit by the lake and watch the world go by
+Ladies in the sun, listenin' to the radio
+Like flowers on the sand, the rainbow in my mind
+
+Hey, let's go all over the world
+Rock and roll girls, rock and roll girls
+
+Hey, let's go all over the world
+Rock and roll girls, rock and roll girls
+
+Hey, let's go all over the world
+Rock and roll girls, rock and roll girls, yeah, yeah, yeah
+
+
 

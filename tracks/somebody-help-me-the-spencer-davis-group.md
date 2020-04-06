@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-help-me-the-spencer-davis-group
+lyrics_url: https://www.azlyrics.com/lyrics/spencerdavisgroup/somebodyhelpme.html
 name: Somebody Help Me
 rankings:
 - end_date: '1967-06-23'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
 ---
+
+Somebody help me, yeah
+Somebody help me now
+Won't somebody tell me
+What I've done wrong
+
+When I was just
+A little boy of seventeen
+I had a girl
+She was my queen
+She didn't love me like I loved her
+Now I know
+Now I'm so lonesome on my own
+
+Somebody help me, yeah
+Somebody help me now
+Won't somebody tell me
+What I've done wrong
+
+I need someone in my life
+I need a girl to hold me tight
+Someone who can make me feel
+Make me feel all right
+
+Somebody help me, yeah
+Somebody help me now
+on't somebody tell me
+What I've done wrong
+
+Somebody help me, yeah
+Somebody help me now
+Somebody help me, yeah
+Somebody help me now
+Somebody help me, yeah
+Somebody help me now
+
+
 

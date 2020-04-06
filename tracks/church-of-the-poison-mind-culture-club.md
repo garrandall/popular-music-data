@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: church-of-the-poison-mind-culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/churchofthepoisonmind.html
 name: Church Of The Poison Mind
 rankings:
 - end_date: '1983-10-28'
@@ -75,4 +76,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
 ---
+
+Desolate loving in your eyes
+You used an' made my life so sweet
+Step out like a God-found child
+I saw your eyes across the street
+
+Who would be the fool to take you
+Be more than just kind
+Step into a life of maybe
+Love is hard to find
+
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+(In the church of the poison)
+
+Watch me clinging to the beat
+I had to fight to make it mine
+That religion you could sink it neat
+Just move your feet an' you'll feel fine
+
+Who would be the fool to maybe
+Trick a kiss in time
+Who am I to say that's crazy
+Love will make you blind
+
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+(In the church of the poison mind)
+
+Desolate loving in your eyes
+You used an' made my life so sweet
+Step out like a God-found child
+I saw your eyes across the street
+
+Who would be the fool to take you
+Be more than just kind
+Step into a life of maybe
+Love is hard to find
+
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+(In the church of the poison mind)
+
+In the church of the poison mind
+(In the church of the poison mind)
+In the church of the poison mind
+
+
 

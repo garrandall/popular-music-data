@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-who-s-blue-don-gibson
+lyrics_url: https://www.azlyrics.com/lyrics/dongibson/lookwhosblue.html
 name: Look Who's Blue
 rankings:
 - end_date: '1958-10-05'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+
+(Look, look, look-a, look who's blue)
+(Look, look, look-a, look who's blue)
+Please, please, have pity on me
+Oh, can't you see that I'm in misery
+Please, please, I'm beggin' like a fool
+Woe is me, look who's blue
+
+I said no gal's gonna ever tie me down
+I'm goin' out every night and paint the town
+Well I was doin' fine till I met you
+Woe is me, look who's blue
+
+Please, please, have pity on me
+Oh, can't you see that I'm in misery
+Please, please, I'm beggin' like a fool
+Woe is me, look who's blue
+
+I said there'd never be just one for me
+And I'm gonna stay footloose and fancy free
+No gal's gonna ever tell me what to do
+Woe is me, look who's blue
+
+Please, please, have pity on me
+Oh, can't you see that I'm in misery
+Please, please, I'm beggin' like a fool
+Woe is me, look who's blue woh-oh, blue
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful-world-beautiful-people-jimmy-cliff
+lyrics_url: https://www.azlyrics.com/lyrics/jimmycliff/wonderfulworldbeautifulpeople.html
 name: Wonderful World Beautiful People
 rankings:
 - end_date: '1969-12-12'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
 ---
+
+Wonderful world, beautiful people
+You and your girl, things could be pretty
+But underneath this there is a secret
+That nobody can reveal
+
+Take a look at the world
+And the state that it's in today
+I am sure you'll agree
+We all could make it a better way
+With our love, put together
+Everybody learn to love each other
+
+Instead of fussing and fighting
+Cheating, backbiting
+Scandalizing and hating
+Baby we could have a
+Wonderful world, beautiful people
+You and your girl, things could be pretty
+But underneath this there is a secret
+That nobody can reveal
+
+Man and woman, girl and boy
+Let us try to give a helping hand
+This I know and I'm sure
+That with love we all could understand
+This is our world, can't you see?
+Everybody wants to live and be free
+
+Instead of fussing and fighting
+Cheating, backbiting
+Scandalizing and hating
+We could have a
+Wonderful world, beautiful people
+You and your girl, things could be pretty
+But underneath this there is a secret
+That nobody can reveal
+
+Talking about the
+Wonderful world, beautiful people
+You and your girl, talking about you
+Things could be pretty, talking about me
+Wonderful world, talking about Nixon
+Beautiful people, Harold Wilson
+Wonderful world, power too
+Beautiful people, and the Seagate
+
+
 

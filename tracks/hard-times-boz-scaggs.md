@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-times-boz-scaggs
+lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/hardtimes.html
 name: Hard Times
 rankings:
 - end_date: '1977-10-21'
@@ -31,4 +32,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
 ---
+
+I am down in the sea of confusion
+Neath the waves of no recovery
+Swept away by a distant voice calling
+Ain't no use in trying to rescue me
+
+I am falling
+Back into your spell
+Back into your cell of no return
+No way to rescue me
+
+I still see you
+Reaching out to take your hold on me
+Through a crack in the moon
+I believed you
+But I know this time there ain't no use
+
+I am falling
+Back into your spell
+Back into a cell of no return
+No way to rescue me
+
+Falling
+Back into your spell
+Back into your cell of no return
+No way to rescue me
+
+I am falling
+Back into your spell
+Back into your cell of no return
+No way to rescue me
+
+Back into your spell
+Back into your cell of no return
+No way to rescue me
+
+
 

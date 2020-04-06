@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-natasha-bedingfield
+lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/trickyangel.html
 name: Angel
 rankings:
 - end_date: '2008-10-10'
@@ -39,4 +40,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
 ---
+
+I like to think I know how to look out for myself
+I've got ways and means to filter wrong guys out
+When the B.S. meter is slamming into the red
+I just walk away 'cause I'm not interested
+
+I've never met a boy who didn't hit on me
+I did not suspect reverse psychology
+You know, if you'd knocked I wouldn't have let you in
+How'd you get the code to my security system
+
+I think some tricky angel
+Just knocked me on the head
+Made me look at you different
+Made me see some sense
+Tricky angel got me falling
+Without my consent
+And I'm so glad he did
+'cause I didn't know you were heaven sent
+
+I was writing you off, making a huge mistake
+His intervention rescued us from fate
+I don't know how, but somehow you got me down
+You just broke into me and ignored that it wasn't allowed
+
+Someone's being sneaky, sneaky
+'cause I'm so hard to please
+I was so picky, picky
+So cupid take the boxes for me
+
+I think some tricky angel
+Just knocked me on the head
+Made me look at you different
+Made me see some sense
+Tricky angel got me falling
+
+Without my consent
+And I'm so glad he did
+'cause I didn't know you were heaven sent
+
+Under the radar
+You slipped into my heart
+You gave me a taste for
+What I didn't know that I wanted
+When I wasn't looking
+You did what I least expected
+Tiptoed in while I was sleeping
+And I'm wide awake now
+
+I think some tricky angel
+Just knocked me on the head
+Made me look at you different
+Made me see some sense
+Tricky angel got me falling
+Without my consent
+And I'm so glad he did
+'cause I didn't know you were heaven sent
+
+I think some tricky angel
+Just knocked me on the head
+Made me look at you different
+Made me see some sense
+Tricky angel got me falling
+Without my consent
+And I'm so glad he did
+'cause I didn't know you were heaven sent
+
+Tricky angel got me falling
+And I'm so glad he did
+
+
 

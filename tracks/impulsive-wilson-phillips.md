@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: impulsive-wilson-phillips
+lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/impulsive.html
 name: Impulsive
 rankings:
 - end_date: '1990-10-19'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
 ---
+
+The secret of love
+I thought I understood
+The way it's supposed to be
+I never imagined you could
+Blow my theory apart
+But now you're running away with my heart
+
+
+I don't wanna think about it
+Don't wanna think clear
+Don't analyze
+What I'm doing here
+Wanna be impulsive
+Reckless
+And lose myself in your kiss
+
+Arrows through hearts
+Drawn on a misty window
+You're taking me home in the rain
+My heart, it's beating 'Don't say no'
+My head keeps saying 'Take it slow'
+
+
+
+You're giving me a feeling
+It's a sudden rush
+Acting on the moment
+Spontaneous, woh
+Ooh this is not like me
+To follow my heart so easily
+
+I am reckless... Impulsive
+
+I never imagined you could
+Blow my theory apart
+But now you're running away... with my heart... my heart
+
+
+
+You're giving me a feeling
+It's a sudden rush
+Acting on the moment
+Spontaneous
+Wanna be impulsive... reckless
+And lose myself in your kiss... woh
+
+Impulsive
+I wanna be... impulsive
+I'm gonna be impulsive... reckless
+And lose myself, lose myself
+
+
 

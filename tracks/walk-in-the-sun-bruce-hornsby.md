@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-in-the-sun-bruce-hornsby
+lyrics_url: https://www.azlyrics.com/lyrics/brucehornsby/walkinthesun.html
 name: Walk In The Sun
 rankings:
 - end_date: '1995-09-01'
@@ -43,4 +44,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
 ---
+
+My name is Vernon James
+And I live to the south of town
+I work my window, watching the women 
+Go round and round
+
+Some people come here for love
+Some people come for fantasy
+When two in the morning comes around
+My baby comes around for me
+
+Someone come, come my someone
+Take the clouds from my eyes, my one
+I know that sometime soon
+One day, we'll walk in the sun
+
+I'm taking tickets
+Watching the men always looking down
+Sometimes I feel like an animal 
+In the zoo, staring out
+
+No one looks me in the eye
+They save it for the girls inside
+I don't much care what they see
+I know she saves it all for me
+
+Someone come, come my someone
+Take the clouds from my eyes, my one
+I know that sometime soon
+One day, we'll walk in the sun
+
+Some people come here for love
+Some come for curiosity
+I know there will be a day
+I know we'll figure out a way
+
+Someone come, come my someone
+Take the clouds from my eyes, my one
+I know that sometime soon
+One day we'll walk in the sun
+
+Someone come, come my someone
+Take the clouds from my eyes, my one
+I know that sometime soon
+One day we'll walk in the sun
+
+One day we'll walk in the sun
+One day we'll walk in the sun
+One day we'll walk in the sun
+One day we'll walk in the sun
+
+
 

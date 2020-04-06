@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-between-you-and-me-april-wine
+lyrics_url: https://www.azlyrics.com/lyrics/laguns/justbetweenyouandme.html
 name: Just Between You And Me
 rankings:
 - end_date: '1981-02-13'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+
+Time and time again I see
+A love that seemed strong, was not meant to be
+Broken hearts don't always mend
+Left too unsure to try love again
+
+Just between you and me
+Baby I know our love will be
+Just between you and me
+Always I know our love will be
+Just between you and me
+
+Lovers often seem to say
+Hearts can be blind to love gone astray
+Always it's the same old song
+Someone's been hurt by a love that's gone wrong
+
+Just between you and me
+Baby I know our love will be
+Just between you and me
+Always I know our love will be
+Just between you,
+Just between you and me
+
+Words are sometimes hard to find
+The silence can be so unkind
+You always help me find my way
+The love that we share grows stronger each day
+
+Just between you and me
+Baby I know our love will be
+Just between you and me
+Always I know our love will be
+Seulement entre toi et moi
+Means that our love will always be
+Just between you and me
+Baby I know our love will be
+Just between you,
+Just between you and me
+
+
 

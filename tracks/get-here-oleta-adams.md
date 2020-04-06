@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-here-oleta-adams
+lyrics_url: https://www.azlyrics.com/lyrics/oletaadams/gethere.html
 name: Get Here
 rankings:
 - end_date: '1990-12-21'
@@ -99,4 +100,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
 ---
+
+You can reach me by railway, you can reach me by trailway
+You can reach me on an airplane, you can reach me with your mind
+You can reach me by caravan, cross the desert like an Arab man
+I don't care how you get here, just get here if you can
+
+You can reach me by sailboat, climb a tree and swing rope to rope
+Take a sled and slide down slow, into these arms of mine
+You can jump on a speedy colt, cross the border in a blaze of hope
+I don't care how you get here, just get here if you can
+
+There are hills and mountains between us
+Always something to get over
+If I had my way, then surely you would be closer
+I need you closer
+
+There are hills and mountains between us
+Always something to get over
+If I had my way, then surely you would be closer
+I need you closer
+
+You can windsurf into my life, take me up on a carpet ride
+You can make it in a big balloon, but you better make it soon
+You can reach me by caravan, cross the desert like an Arab man
+I don't care how you get here, just get here if you can
+
+I don't care, I don't care, I need you right here right now
+I need you right here, right now, right by my side (yeah, yeah, yeah, yeah)
+
+I don't care how you get here, get here if you can
+
+
 

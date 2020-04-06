@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scar-tissue-red-hot-chili-peppers
+lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/scartissue.html
 name: Scar Tissue
 rankings:
 - end_date: '1999-06-11'
@@ -123,4 +124,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
 ---
+
+Scar tissue that I wish you saw
+Sarcastic mister know it all
+Close your eyes and I'll kiss you
+'Cause with the birds I'll share
+
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+
+Push me up against the wall
+Young Kentucky girl in a push-up bra
+Fallin' all over myself
+To lick your heart and taste your health
+'Cause with the birds I'll share this lonely view
+
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+
+Blood loss in a bathroom stall
+A southern girl with a scarlet drawl
+Wave good-bye to ma and pa
+'Cause with the birds I'll share
+
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+
+Soft spoken with a broken jaw
+Step outside but not to brawl and
+Autumn's sweet we call it fall
+I'll make it to the moon if I have to crawl and
+And with the birds I'll share this lonely view
+
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+
+Scar tissue that I wish you saw
+Sarcastic mister know it all
+Close your eyes and I'll kiss you
+'Cause with the birds I'll share
+
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+With the birds I'll share this lonely view
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-know-it-jackie-wilson
+lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/youbetterknowit.html
 name: You Better Know It
 rankings:
 - end_date: '1959-09-13'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
 ---
+
+Well I want you to run to me baby
+Run with all your might
+I want to love you pretty baby
+Till the broad day light
+Want to thrill you pretty momma
+Till the sun don't shine
+Satisfy your soul before I loose my mind
+
+You better know it cause its me and you
+You better know it, this is what I do
+You better know it for the rest of your life
+You better listen to me and you better hear what I say
+
+Why pretty baby can't you understand
+That I want to be your lovin man
+Gonna love you pretty baby with all my heart
+But tell me pretty momma that we will never part
+You better know it
+You better know it
+You better know it
+You better listen to me and you better hear what I say
+
+A river's a river, a sea is a sea
+And I want you to belong to me
+If they says it goes together like a road with bumps
+Then I got the measles and you got the mumps
+
+You'd better know it, yeah
+You'd better know it
+You'd better know it
+
+You'd better listen to me and you better hear what I say
+
+Come along, baby, come along
+You'd better come along
+I love you baby can't you plainly see
+Well, come on, come on, come on, come on,
+You can love me, come on, you can hug me, come on
+You can squeeze me, well come on
+Come, come on come a right along baby
+Just come on love me honey
+Love me long, love me right, love me strong
+Yes, come on, come on, come right along
+
+
 

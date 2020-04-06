@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-let-me-down-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/neverletmedown.html
 name: Never Let Me Down
 rankings:
 - end_date: '1987-08-14'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
 ---
+
+When I believed in nothing 
+I called her name
+Trapped in a high-dollar joint 
+in some place 
+I called her name
+And though my days are slipping by
+And nights so cruel 
+I thought I'd die
+She danced her little dance 
+'till it made me cry
+She was shakin' like this honey doing that
+
+When I needed soul revival 
+I called your name
+When I was falling to pieces 
+I screamed in pain
+
+Your soothing hand that turned me round
+A love so real 
+swept over me
+You danced your little dance 
+'till it made me cry
+You were shakin' like this honey doing that
+
+Never let me down She never let me down
+Never let me down She never let me down
+
+When all your faith is failing Call my name
+When you've got nothing coming Call my name
+
+I'll be strong for all it takes
+I'll cover your head
+till the bad stuff breaks
+I'll dance my little dance 
+till it makes you smile
+Shaking like this honey doing that
+
+Never let you down I'll never let you down
+I'll never let you down 
+I'll never let you down
+
+
 

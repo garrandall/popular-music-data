@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-think-we-re-alone-now-tommy-james-and-the-shondells
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-James-feat-The-Shondells/I-Think-We-re-Alone-Now
 name: I Think We're Alone Now
 rankings:
 - end_date: '1967-02-17'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+"Children, behave"
+That's what they say when we're together
+"And watch how you play"
+They don't understand
 
+And so we're running just as fast as we can
+Holding on to one another's hand
+Trying to get away into the night
+And then you put your arms around me
+As we tumble to the ground and then you say
+
+I think we're alone now
+There doesn't seem to be anyone around
+I think we're alone now
+The beating of our hearts is the only sound
+
+Look at the way
+We gotta hide what we're doing
+'Cause what would they say
+If they ever knew
+
+And so we're running just as fast as we can
+Holding on to one another's hand
+Trying to get away into the night
+And then you put your arms around me
+As we tumble to the ground and then you say
+
+I think we're alone now
+There doesn't seem to be anyone around
+I think we're alone now
+The beating of our hearts is the only sound
+
+I think we're alone now
+There doesn't seem to be anyone around
+I think we're alone now
+The beating of our hearts is the only sound
+I think we're alone now
+There doesn't seem to be anyone around
+I think we're alone now

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: counting-blue-cars-dishwalla
+lyrics_url: https://www.azlyrics.com/lyrics/dishwalla/countingbluecars.html
 name: Counting Blue Cars
 rankings:
 - end_date: '1996-04-12'
@@ -199,4 +200,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
 ---
+
+Must have been mid afternoon
+I could tell by how far the child's shadow stretched out
+And he walked with a purpose in his sneakers, down the street
+He had many questions like children often do
+
+He said, "Tell me all your thoughts on God
+And tell me am I very far?"
+
+Must have been late afternoon
+On our way the sun broke free of the clouds
+We count only blue cars, skip the cracks in the street
+And ask many questions like children often do
+
+We said, "Tell me all your thoughts on God
+'Cause I would really like to meet her
+And ask her why we're who we are
+Tell me all your thoughts on God
+'Cause I am on my way to see her
+So tell me am I very far, am I very far now?"
+
+It's getting cold picked up the pace
+How our shoes make hard noises in this place
+Our clothes are stained
+We pass many cross-eyed people
+And ask many questions
+Like children often do
+
+Tell me all your thoughts on God
+'Cause I would really like to meet her
+And ask her why we're who we are
+Tell me all your thoughts on God
+'Cause I am on my way to see her
+So tell me am I very far, am I very far now?
+(Tell me all your thoughts on God)
+Am I very far now?
+Am I very far now?
+(Tell me all your thoughts on God)
+(Tell me all your thoughts on God)
+
+
 

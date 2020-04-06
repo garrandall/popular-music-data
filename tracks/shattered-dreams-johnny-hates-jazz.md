@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shattered-dreams-johnny-hates-jazz
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyhatesjazz/shattereddreams.html
 name: Shattered Dreams
 rankings:
 - end_date: '1988-03-25'
@@ -83,4 +84,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
+
+So much for your promises
+They died the day you let me go
+Caught up in a web of lies
+But it was just too late to know
+I thought it was you
+Who would stand by my side
+
+And now you've given me, given me
+Nothing but shattered dreams, shattered dreams
+Feel like I could run away, run away
+From this empty heart
+
+You said you'd die for me
+
+Woke up to reality
+And found the future not so bright
+I dreamt the impossible
+That maybe things could work out right
+I thought it was you
+Who would do me no wrong
+
+And now you've given me, given me
+Nothing but shattered dreams, shattered dreams
+Feel like I could run away, run away
+From this empty heart
+
+You've given me, given me
+Nothing but shattered dreams, shattered dreams
+Feel like I could run away, run away
+From this empty heart
+
+From this empty heart
+
+I thought it was you
+Who said they'd die for love
+
+And now you've given me, given me
+Nothing but shattered dreams, shattered dreams
+Feel like I could run away, run away
+From this empty heart
+
+You've given me, given me
+Nothing but shattered dreams, shattered dreams
+Feel like I could run away, run away
+From this empty heart
+
+Oh, no, no, no
+You said you'd die for me
+
+Oh, for
+Die for me
+
+So much for your promises
+
+So much for your promises
+
+
 

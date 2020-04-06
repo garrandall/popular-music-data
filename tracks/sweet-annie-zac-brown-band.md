@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-annie-zac-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/sweetannie.html
 name: Sweet Annie
 rankings:
 - end_date: '2013-11-08'
@@ -75,4 +76,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
 ---
+
+I been burning bright
+For so long I can't remember
+Pretty girls and late night bars seem to be my line of work
+Believe me when I say, I can't stay this high forever
+This man's had all he can stand, time to lay this body down
+
+Sweet Annie
+Can I stay with you a while
+'Cause this road's been putting miles on my heart,
+Sweetheart I've been livin' in a fantasy
+But one day Lightning will strike
+And my bark will lose its bite
+But don't give up on me
+Sweet Annie.
+
+Sweet Annie
+I know I promised you a life
+But with an empty bed and the words I said don't carry any weight
+If I could take back yesterday, find a way to start it over
+Turn around, put that bottle down and I'd pray it's not too late
+
+Sweet Annie
+Can I stay with you a while
+'Cause this road's been putting miles on my heart,
+Sweetheart I've been livin' in a fantasy
+But one day Lightning will strike
+And my bark will lose its bite
+But don't give up on me
+What will be will be
+
+Sweet Annie.
+
+Turn out the lights
+These hands, they long to hold you
+Fall all over you
+All over again
+Come a little closer so I can show you
+My heart still beats fast for you
+All over, and over again
+
+Oh...
+
+Sweet Annie
+Can I stay with you a while
+'Cause this road's been putting miles on my heart,
+Sweetheart I've been livin' in a fantasy
+But one day Lightning will strike
+And my bark will lose its bite
+But don't give up on me
+
+Sweet Annie.
+
+
 

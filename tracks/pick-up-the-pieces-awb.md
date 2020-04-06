@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pick-up-the-pieces-awb
+lyrics_url: https://www.azlyrics.com/lyrics/averagewhiteband/pickupthepieces.html
 name: Pick Up The Pieces
 rankings:
 - end_date: '1974-12-13'
@@ -75,4 +76,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
+
+Pick up the pieces, uh-huh
+Pick up the pieces, alright
+Pick up the pieces, uh-huh
+Pick up the pieces, woo!
+
+Woo!
+
+Pick up the pieces
+Pick up the pieces
+Pick up the pieces
+Woo!
+Pick up the pieces
+Wow!
+
+
 

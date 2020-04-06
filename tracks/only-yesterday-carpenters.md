@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-yesterday-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/onlyyesterday.html
 name: Only Yesterday
 rankings:
 - end_date: '1975-04-04'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
+
+After long enough of being alone
+Everyone must face their share of loneliness
+In my own time nobody knew
+The pain I was goin' through
+And waitin' was all my heart could do
+
+Hope was all I had until you came
+Maybe you can't see how much you mean to me
+You were the dawn breaking the night
+The promise of morning light
+Filling the world surrounding me
+When I hold you
+
+Baby, baby, feels like maybe, things will be all right
+Baby, baby, your love's made me
+
+Free as a song, singin' forever
+
+Only yesterday when I was sad and I was lonely
+You showed me the way to leave the past and all its tears behind me
+Tomorrow maybe even brighter than today
+Since I threw my sadness away
+Only yesterday
+
+I have found my home here in your arms
+Nowhere else on earth I'd really rather be
+Life waits for us, share it with me
+The best is about to be
+So much is left for us to see
+When I hold you
+
+Baby, baby, feels like maybe, things will be all right
+
+Baby, baby, your love's made me
+Free as a song, singin' forever
+
+Only yesterday when I was sad and I was lonely
+You showed me the way to leave the past and all its tears behind me
+Tomorrow maybe even brighter than today
+Since I threw my sadness away
+Only yesterday
+
+
 

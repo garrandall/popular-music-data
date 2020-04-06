@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: landslide-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/landslide.html
 name: Landslide
 rankings:
 - end_date: '2002-09-27'
@@ -123,4 +124,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
 ---
+
+I took my love and I took it down
+I climbed a mountain and I turned around
+And I saw my reflection in the snow-covered hills
+Well, the landslide brought me down
+
+Oh, mirror in the sky, what is love?
+Can the child within my heart rise above?
+Can I sail through the changing ocean tides?
+Can I handle the seasons of my life?
+
+Uh-huh...
+
+Well, I've been afraid of changing 'cause I built my life around you
+But time makes you bolder
+Children get older
+I'm getting older, too
+Well...
+
+Well, I've been afraid of changing 'cause I built my life around you
+But time makes you bolder
+Children get older
+I'm getting older, too
+Well I'm getting older, too
+
+So, take this love and take it down
+Yeah, and if you climb a mountain and you turn around
+And if you see my reflection in the snow-covered hills
+Well, the landslide brought me down
+And if you see my reflection in the snow-covered hills
+Well, maybe
+Well, maybe
+Well, maybe the landslide will bring you down
+
+
 

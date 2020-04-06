@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: power-of-love-deee-lite
+lyrics_url: https://www.azlyrics.com/lyrics/deeelite/poweroflove.html
 name: Power Of Love
 rankings:
 - end_date: '1991-01-11'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
 ---
+
+I believe in the power of love (I believe)
+I believe in the power of love (I believe)
+I believe in the power of love
+I believe in the power of love
+
+Feel the power
+Let the people call me naive
+I believe I believe I believe I believe
+
+What is it that can make a lost soul found?
+Love
+And what is it that can make the coldest day seem warm?
+Love
+And what is it that can bring a smile through to strangers?
+Love love love love
+
+I believe in the power of love (I believe)
+I believe in the power of love (I believe)
+I believe in the power of love
+Let them call me naÃ¯ve
+But I still believe
+
+What is it that can make a lost soul found?
+Love
+And what is it that can make the coldest day seem warm?
+Love
+And what is it that can bring a smile through to strangers?
+
+Give it everything
+'Cause what you give you get so give it everything
+Open your heart
+
+I believe I believe
+Power of power of power of love
+
+
 

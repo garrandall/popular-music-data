@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-your-thing-isaac-hayes
+lyrics_url: https://www.azlyrics.com/lyrics/buddyguy/doyourthing.html
 name: Do Your Thing
 rankings:
 - end_date: '1972-03-03'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
 ---
+
+If the music make you move
+And you take the groove,
+Groove on, groove on
+If you feel like you wanna make love
+Under the stars above,
+Love on, love on
+If there's something you wanna say
+And talkin' is the only way,
+Rap on, oh, rap on
+'Cause whatever you do
+Hey, do your thing
+Do your thing
+
+If you feel like you wanna scream
+And that's your way of lettin' off steam,
+Scream on, scream on
+If you feel like you wanna sing
+And singing is your thing,
+Sing on, sing on
+If you wanna make love all night
+And you feel that it's right,
+Right on, right on
+Cause whatever you do
+Hey, do your thing
+Do your thing
+
+How, let me do my thing
+
+
 

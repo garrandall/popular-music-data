@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-sure-love-to-ball-marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/yousurelovetoball.html
 name: You Sure Love To Ball
 rankings:
 - end_date: '1974-02-01'
@@ -31,4 +32,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
 ---
+
+Ooh Baby please turn yourself around
+Ahh baby so I can love you
+Ohh baby baby
+I'll make you feel so good
+Ohh baby just like you want me to
+Ohhh
+Ohh baby you sure do love to ball
+Ohh baby you sure do love to ball
+Ohh baby I hope you never freeze
+I love you I love you so much
+Ohh baby baby don't ever go no where
+Ohh baby I'll love you night and day
+Ohh baby you sure do love to ball
+Ohh baby you sure do love to ball
+Ohh I just love you that's all
+I've got my mind made up baby
+There are no doubts (Ohh baby)
+Since you're my foxy lady, foxy lady
+Ohh baby you sure do love to ball
+Ohh baby you sure do love to ball
+My lady my baby sure does love to ball
+(on my mind there's....)
+All I know that if we should ever
+Ever, ever ever ever part
+That one day will surely break my heart
+Got to get ready, got ot get ready
+(ohh)
+Ohh baby You sure do love to ball
+Ohh baby you sure do love to ball
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: weak-swv
+lyrics_url: https://www.azlyrics.com/lyrics/swv/weak.html
 name: Weak
 rankings:
 - end_date: '1993-04-30'
@@ -111,4 +112,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
 ---
+
+I don't know what it is that you've done to me
+But it's caused me to act in such a crazy way
+Whatever it is that you do when you do what you're doing
+It's a feeling that I want to stay
+
+'Cause my heart starts beating triple time
+With thoughts of loving you on my mind
+I can't figure out just what to do
+When the cause and cure is you
+
+I get so weak in the knees I can hardly speak
+I lose all control and something takes over me
+In a daze, your love's so amazing
+It's not a phase
+I want you to stay with me by my side
+I swallow my pride,
+Your love is so sweet
+It knocks me right off of my feet
+Can't explain why your loving makes me weak
+
+Time after time, after time I try to fight it
+But your love is strong it keeps on holding on
+Resistance is down when you're around, cries fading
+In my condition I don't want to be alone
+
+'Cause my heart starts beating triple time
+With thoughts of loving you on my mind
+I can't figure out just what to do
+When the cause and cure is you
+
+I get so weak in the knees I can hardly speak
+I lose all control and something takes over me
+In a daze, your love's so amazing
+It's not a phase
+I want you to stay with me by my side
+I swallow my pride,
+Your love is so sweet
+It knocks me right off of my feet
+Can't explain why your loving makes me weak
+
+I try hard to fight it
+No way can I deny it
+Your love's so sweet
+It knocks me off my feet
+
+I get so weak in the knees I can hardly speak
+I lose all control and something takes over me
+In a daze, your love's so amazing
+It's not a phase
+I want you to stay with me by my side
+I swallow my pride,
+Your love is so sweet
+It knocks me right off of my feet
+Can't explain why your loving makes me weak
+
+I get so weak
+Blood starts racing through my veins
+I get so weak
+Boy it's something I can't explain
+I get so weak
+Something 'bout the way you do
+The things you do
+It knocks me right off of my feet
+Can't explain why your loving makes me weak
+
+I get so weak in the knees I can hardly speak
+I lose all control and something takes over me
+In a daze, your love's so amazing
+It's not a phase
+I want you to stay with me by my side
+I swallow my pride,
+Your love is so sweet
+It knocks me right off of my feet
+Can't explain why your loving makes me weak
+
+
 

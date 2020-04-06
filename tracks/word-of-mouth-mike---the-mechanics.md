@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: word-of-mouth-mike---the-mechanics
+lyrics_url: https://www.azlyrics.com/lyrics/mikethemechanics/wordofmouth.html
 name: Word Of Mouth
 rankings:
 - end_date: '1991-04-12'
@@ -31,4 +32,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
 ---
+
+Now the world is getting older
+There's a few things to be said
+Do you believe the things they told you
+Do you believe the things you've read
+
+There's a rumour on the corner
+But it's always been denied
+Cause they don't want you any wiser
+You're just toeing the party line
+
+From the west side to the east side
+From the north side to the south
+You'll never get back information
+If you believe in the word of mouth
+
+Look out for those who still want to hang on
+Look out for those who live in the past
+Get out and listen to the whisper
+Because the times are changing fast
+
+From the west side to the east side
+From the north side to the south
+You'll never get bad information
+If you believe in the word of mouth
+
+You don't believe the information
+You don't believe it when it's denied
+So when you're reading explanations
+You have to read between the lines
+
+From the west side to the east side
+Through the windows I'm looking out
+You'll never get back information
+If you believe in the word of mouth
+
+
 

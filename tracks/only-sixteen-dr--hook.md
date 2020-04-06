@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-sixteen-dr--hook
+lyrics_url: https://www.azlyrics.com/lyrics/drhook/onlysixteen.html
 name: Only Sixteen
 rankings:
 - end_date: '1976-01-09'
@@ -95,4 +96,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
 ---
+
+She was only sixteen, only sixteen
+But I loved her so
+But she was too young to fall in love
+And I was too young to know
+
+We'd laugh and we'd sing and do funny things
+And it made our hearts glow
+But she was too young to fall in love
+And I was too young to know
+
+So why did I give my heart so fast
+It never will happen again
+But I was a mere child of sixteen
+I've aged a year since then
+
+She was only sixteen, only sixteen
+Ooh, with eyes that would glow
+But she was too young to fall in love
+And I was too young to know
+
+So why did I give my heart so fast
+It never will happen again
+But I was a mere child of sixteen
+I've aged a year since then
+
+Now she was only sixteen, only sixteen
+Ooh, but I loved that girl so
+
+But she was too young to fall in love
+And I was too young to know
+
+Yes, she was too young to fall in love
+And I, I  was too young
+I was much too young to know
+
+
 

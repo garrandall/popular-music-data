@@ -5,6 +5,7 @@ features:
 - Lady Saw
 genres: []
 key: underneath-it-all-no-doubt-lady-saw
+lyrics_url: https://www.azlyrics.com/lyrics/nodoubt/underneathitall.html
 name: Underneath It All
 rankings:
 - end_date: '2002-09-06'
@@ -128,4 +129,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
 ---
+
+Hey, you don't have to forget
+Just remember this Sunday, alright
+
+There's times when I want something more
+Someone more like me
+There's times when this dress rehearsal
+Seems incomplete
+But, you see the colors in me like no one else
+And behind your dark glasses you're
+You're something else
+
+You're really lovely
+Underneath it all
+You want to love me
+Underneath it all
+I'm really lucky
+Underneath it all
+You're really lovely
+
+You know some real bad tricks
+And you need some discipline
+But, lately you've been trying real hard
+And giving me your best
+And, you give me the most gorgeous sleep
+That I've ever had
+And when it's really bad
+I guess it's not that bad
+
+You're really lovely
+Underneath it all
+You want to love me
+Underneath it all
+I'm really lucky
+Underneath it all
+You're really lovely
+
+So many moons that we have seen
+Stumbling back next to me
+I've seen right through and underneath
+And you make me better
+I've seen right through and underneath
+And you make me better
+Better... better
+
+
+For real
+'Cause underneath it all
+You are my real Prince Charming
+Like the heat from the fire
+You were always burnin'
+Any time you're around
+My body keeps calling
+For your touch
+Your kisses and your sweet romancin'
+There's another side of you
+And this a woman you adore
+Aside from your temper
+Everything else secure
+Oh you're good for me, baby
+Of that I'm sure
+'Cause over and over again
+Me want more
+
+
+You've used up all your coupons
+And all you've got left is me
+And somehow I'm full of forgiveness
+I guess it's meant to be
+
+You're really lovely
+Underneath it all
+You want to love me
+Underneath it all
+I'm really lucky
+Underneath it all
+You're really lovely
+
+You're really lovely
+Underneath it all
+You want to love me
+Underneath it all
+And I really love you
+Underneath it all
+And you're really lovely
+
+Underneath it all
+Underneath it all
+Underneath it all
+Underneath it all
+
+
 

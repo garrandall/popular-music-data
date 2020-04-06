@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-love-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/coldlove.html
 name: Cold Love
 rankings:
 - end_date: '1980-12-05'
@@ -55,4 +56,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
+
+I'm walking the line
+I'm walking the line
+Treading thin ice
+Time after time
+
+I go for the best, end up with much less
+I need the real thing
+Forget all the rest
+Oh yeah, alright
+
+Started out good
+Working out bad
+All the sweet love turner
+Sour and sad
+
+A face and name
+It's always the same
+So tired of playing love's foolish games
+Tell me why
+Love passes me by
+
+Cold love, cold love
+Another shot of rock'n'roll love
+Cold love, cold love
+Whatever happened to that
+Good old love
+Tell me why, tell me why, tell me why
+Tell me why, tell me why
+
+Hope in the dark, love in the light
+I'll keep on looking for someone
+Who's right
+
+I'm out for the best
+Can you stand the test
+I need the real thing
+No more and no less
+Tell me why
+Love passes me by
+
+Cold love, cold love
+Another shot of rock'n'roll love
+Cold love, cold love
+Whatever happened to that
+Sweet old love
+Tell me why, tell me why, tell me why
+Tell me why, tell me why
+
+Tell me why, tell me why, tell me why
+Tell me why, tell me why
+
+Cold love, cold love
+Whatever happened to that
+Sweet old love
+Cold love, cold love
+Another shot of rock'n'roll love
+Cold love, cold love
+Whatever happened to that
+Sweet old love
+Cold love, cold love
+Whatever happened to that
+Sweet old love
+
+
 

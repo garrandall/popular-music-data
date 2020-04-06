@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: united-we-stand-the-brotherhood-of-man
+lyrics_url: https://www.azlyrics.com/lyrics/raystevens/unitedwestand.html
 name: United We Stand
 rankings:
 - end_date: '1970-04-24'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
 ---
+
+There's nothing in the world that I would rather see
+Than your smile my friend
+In a world where freedom could never find any enemy
+And peace would never end
+
+For United we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+And if the world about you falls apart today
+Then I'll still be here
+And if the going gets too hard along the way
+Just you call, I'll hear
+
+For United we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+And if the world about you falls apart today
+Then I'll still be here
+And if the going gets too hard along the way
+Just you call, I'll hear
+
+
 

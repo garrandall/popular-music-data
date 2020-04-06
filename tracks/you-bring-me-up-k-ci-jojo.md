@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-bring-me-up-k-ci-jojo
+lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/youbringmeup.html
 name: You Bring Me Up
 rankings:
 - end_date: '1997-06-20'
@@ -88,4 +89,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
 ---
+
+Isn't it funny
+The things you said and done to me
+But now Lady I wanna be free
+You lied to me
+You said you never would play me
+But I found out
+That you were lying all the time
+You pick me up
+You bring me down
+When I thought I found in you
+Solid ground
+You turned my smile
+Into a frown
+Girl you promise you never let me down
+But now you're not around
+Ooh, ooh, ooh, ooh
+When I was up
+Girl you brought me down
+Played me like a clown
+When you thought I stay around
+So you could
+You could abuse me
+Take my heart
+And use me
+And you see I'm still around
+For you talk before your smile
+There is something I got to say
+Something I can't delay
+You hurt me so bad
+And you made me feel sad
+It's a feeling I can't explain
+I won't let you wreck my brain
+You said you never hurt me
+But then you going to desert me baby
+
+
 

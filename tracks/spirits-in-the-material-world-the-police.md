@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spirits-in-the-material-world-the-police
+lyrics_url: https://www.azlyrics.com/lyrics/police/spiritsinthematerialworld.html
 name: Spirits In The Material World
 rankings:
 - end_date: '1982-01-22'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
 ---
+
+There is no political solution
+To our troubled evolution
+Have no faith in constitution
+There is no bloody revolution
+
+We are spirits in the material world
+Are spirits in the material world
+Are spirits in the material world
+Are spirits in the material world
+
+Our so called leaders speak
+With words they try to jail you
+They subjugate the meek
+But it's the rhetoric of failure
+
+We are spirits in the material world
+Are spirits in the material world
+Are spirits in the material world
+Are spirits in the material world
+
+Where does the answer lie?
+Living from day to day
+If it's something we can't buy
+There must be another way
+
+We are spirits in the material world
+Are spirits in the material world
+
+Are spirits in the material world...
+
+
+
 

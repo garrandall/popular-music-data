@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-far-away-staind
+lyrics_url: https://www.azlyrics.com/lyrics/staind/sofaraway.html
 name: So Far Away
 rankings:
 - end_date: '2003-08-08'
@@ -119,4 +120,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
 ---
+
+This is my life
+It's not what it was before
+All these feelings I've shared
+And these are my dreams
+That I'd never lived before
+
+Somebody shake me
+'Cause I I must be sleeping
+
+And now that we're here
+It's so far away
+All the struggle we thought was in vain
+And all the mistakes
+One life contained
+They all finally start to go away
+
+And now that we're here
+It's so far away
+And I feel like I can face the day
+And I can forgive
+And I'm not ashamed
+To be the person that I am today
+
+These are my words
+I've never said before
+I think I'm doing okay
+This is the smile
+That I've never shown before
+
+Somebody shake me 'cause I
+I must be sleeping
+
+And now that we're here
+It's so far away
+All the struggle we thought was in vain
+And all the mistakes
+One life contained
+They all finally start to go away
+
+And now that we're here
+It's so far away
+And I feel like I can face the day
+I can forgive
+And I'm not ashamed
+To be the person that I am today
+
+I'm so afraid of waking
+Please don't shake me
+Afraid of waking
+Please don't shake me
+
+Now that we're here
+It's so far away
+All the struggle we thought was in vain
+And all the mistakes
+One life contained
+They all finally start to go away
+
+And now that we're here
+It's so far away
+And I feel like I can face the day
+And I can forgive
+And I'm not ashamed
+To be the person that I am today
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-for-all-seasons-the-fuzz
+lyrics_url: https://www.azlyrics.com/lyrics/nizlopi/freedom.html
 name: I Love You For All Seasons
 rankings:
 - end_date: '1971-01-29'
@@ -87,4 +88,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
+
+Call me up, and thats all I need, 
+Bring your loving, smiling, face over. 
+I feel like, getting it right, 
+Overnight, start over, 
+
+I thought playing that loving game would never be simple again 
+But you're staying overnight, 
+So maybe I'm doing something right. 
+
+You can feel it in the trees 
+I feel it by degrees 
+Feel it fresh and new 
+I'm getting myself in love with you 
+
+
+The sun will rise up, and you'll be in Freedom 
+So much freer than you were before 
+It's in the seed now 
+It's in the season 
+I'm so excited its knocking down your door. 
+
+And they say, it's such a funny story, 
+After a winter, of getting dull and blue like a tory 
+And getting all feared up, 
+As their up on their ties, lies, incites the tears to your eyes. 
+And the job will know I'm insane 
+To go running from love again 
+Into a lovers arms 
+Like a burgular running out on an alarm 
+It's a fucking swarm of bees 
+Or some waitress, it's a tease 
+Or some song that's full of lies 
+Coming round to you late at night. 
+
+
+The sun will rise up, and you'll be in Freedom 
+So much freer than you were before 
+It's in the seed now 
+It's in the season 
+I'm so excited its knocking down your door. 
+
+The sun will rise up, and I will wise up 
+So much freer than we were before 
+
+It's in your CD, its fucking teaming 
+Saw it around you taking you on a tour 
+And now now! Call the fuzz, it's such a buzz, 
+
+From the start 
+You press the memory, you press the memory to your heart 
+What you waiting for? 
+Fall in love is an idea for sure 
+What you waiting for? 
+Like there was any law 
+It's like a sonnet, she's so on it 
+
+From the start 
+You press the memory, you press the memory to your heart 
+What you waiting for? 
+Fall in love is an idea for sure 
+What you waiting for? 
+Like there was any law 
+
+From the start 
+You press the memory, you press the memory to your heart 
+What you waiting for? 
+Fall in love is an idea for sure 
+What you waiting for? 
+Like there was any law 
+It's like a sonnet, she's so on it 
+
+From the start 
+You press the memory, you press the memory to your heart 
+What you waiting for? 
+Fall in love is an idea for sure 
+What you waiting for? 
+Like there was any law 
+
+
+The sun will rise up, and you'll be in Freedom 
+So much freer than you were before 
+It's in the seed now 
+It's in the season 
+I'm so excited its knocking down your door. 
+
+You'll bring that blessing 
+We'll sing the rest in 
+Freedom, to prisoner, to freedom.
+
+
 

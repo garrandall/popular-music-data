@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suzanne-journey
+lyrics_url: https://www.azlyrics.com/lyrics/journey/suzanne.html
 name: Suzanne
 rankings:
 - end_date: '1986-06-27'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
+
+I see your face at the movies
+I hear your voice on the radio
+You're makin' love on the silver screen
+I want you more, I know
+Temptation...Infatuation...
+
+
+Suzanne, don't walk away
+On no Suzanne, oh girl I'm callin' you
+Suzanne, so far away
+Remember Suzanne, those summer nights with me
+
+I wonder if you're really happy
+And if you saw me, would you know my name
+I'm the one you used to hold on to
+You're the one who used to wear my ring
+Remember...our last September...
+
+
+
+Remember...our last September...
+Suzanne, so far away
+Remember Suzanne, those summer nights with me
+Suzanne, don't walk away, I love you Suzanne
+I'm still callin' you
+Suzanne...no no no no no remember
+Those summer nights with me, those summer nights
+
+
 

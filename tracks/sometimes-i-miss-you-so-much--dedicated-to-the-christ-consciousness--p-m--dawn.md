@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-i-miss-you-so-much--dedicated-to-the-christ-consciousness--p-m--dawn
+lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/sometimesimissyousomuchdedicatedtothechristconsciousness.html
 name: Sometimes I Miss You So Much (Dedicated To The Christ Consciousness)
 rankings:
 - end_date: '1995-12-29'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
 ---
+
+There are only whispers and shadows for me
+The way things are and the way things are
+And with this I blow a kiss to disaster
+Because I wish to perfect my heart...
+I gotta check my mind...
+Am I in tune with you?
+Do we connect within the realm of the gods?
+Electric word "life" that means forever
+and that's a mighty long time when you've kissed divine
+So divine...as with you
+The Christ within will come in the clouds
+Trusting "divinity is always with me"
+Trusting "this is the here and now"
+Mercy's right...I gotta check my love
+and I'm trying to do as such
+I don't let the demons get me down
+it's just that sometimes I miss you so much...
+
+I can envision all things to life
+I can understand realistic ways
+But I invent the next phase in forever
+I like you, rewrite the next page
+It's so pristine...it's so untouched
+I'm an emmaculate sign of devotion
+Still unseen...I'm thinking so what
+Bless me cursed with colorful emotions
+God said "I guess you don't know I'm you
+because you know the entire 360"
+A Christ that's me
+A Christ that's you
+Regardless...constantly within me
+I'm so not responsible for this
+I'm just a man in love with so much
+I know love...you'll always be with me
+It's just sometimes I miss you so much
+
+
 

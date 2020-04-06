@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-the-love-of-money-bulletboys
+lyrics_url: https://www.azlyrics.com/lyrics/bulletboys/fortheloveofmoney.html
 name: For The Love Of Money
 rankings:
 - end_date: '1989-05-05'
@@ -31,4 +32,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-03'
 ---
+
+For the love of money
+You would lie to your mother
+For the love of money
+You would steal from your own brother
+
+For the love of money
+People can't even walk the streets
+They never know who in the world they're gonna meet
+For that mean, mean green
+
+Oh mighty dollar, yeah
+Money, money, money, money
+
+Some people got to have it, yeah
+Some people really need it
+Talkin' y'all do things, do things, do things, bad things with it
+Money, money, money, money
+
+Ooh, you gotta do things, do things, do things, do things with it
+Money, money, money, money
+For that mean
+Mean green
+
+Oh mighty dollar
+Ow!
+
+Oh baby girl
+Cash, money
+Anytime
+
+Oh! Whoa yeah!
+Whoa whoa yeah!
+
+Don't you know my name
+The root of all evil
+Do funny, funny things to ya
+Give me a nickel
+
+Brother, can you spare a dime
+If you think you're children know it
+Out of your mind
+
+Listen up
+I say
+
+For the love of money
+Don't let money fool ya
+Don't you let, don't you let, don't you let the money fool ya
+
+For the love of money
+Ow!
+Don't let money fool ya
+Don't, don't, BulletBoys say
+
+For the love of money
+Don't let money fool ya
+Ooh don't lie to your mother
+
+For the love of money
+Don't let money fool ya
+All I got left to say, let freshen money no more
+
+For the love of money
+Ooh yeah yeah
+Don't let money fool ya
+
+For the love of money
+Don't let money fool ya
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soak-up-the-sun-sheryl-crow
+lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/soakupthesun.html
 name: Soak Up The Sun
 rankings:
 - end_date: '2002-04-19'
@@ -123,4 +124,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
+
+My friend the communist 
+Holds meetings in his RV
+I can't afford his gas
+So I'm stuck here watching TV
+I don't have digital
+I don't have diddly squat
+It's not having what you want
+It's wanting what you've got
+
+I'm gonna soak up the sun
+Gonna tell everyone 
+To lighten up
+I'm gonna tell 'em that
+I've got no one to blame
+For every time I feel lame
+I'm looking up
+I'm gonna soak up the sun
+I'm gonna soak up the sun
+
+I've got a crummy job
+It don't pay near enough
+To buy the things it takes
+To win me some of your love
+Every time I turn around
+I'm looking up, you're looking down
+Maybe something's wrong with you
+That makes you act the way you do
+
+I'm gonna soak up the sun
+Gonna tell everyone 
+To lighten up
+I'm gonna tell 'em that
+I've got no one to blame
+For every time I feel lame
+I'm looking up
+I'm gonna soak up the sun
+While it's still free
+I'm gonna soak up the sun
+Before it goes out on me
+
+Don't have no master suite
+But I'm still the king of me
+You have a fancy ride, but baby
+I'm the one who has the key
+Every time I turn around
+I'm looking up, you're looking down
+Maybe something's wrong with you
+That makes you act the way you do
+Maybe I am crazy too 
+
+I'm gonna soak up the sun
+Gonna tell everyone 
+To lighten up
+I'm gonna tell 'em that
+I've got no one to blame
+For every time I feel lame
+I'm looking up
+
+I'm gonna soak up the sun
+Gonna tell everyone 
+To lighten up (I'm gonna tell 'em that)
+I've got no one to blame
+For every time I feel lame
+I'm looking up
+
+I'm gonna soak up the sun
+I got my 45 on
+So I can rock on
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swayin--to-the-music--slow-dancin---johnny-rivers
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/swayintothemusic.html
 name: Swayin' To The Music (slow Dancin')
 rankings:
 - end_date: '1977-07-01'
@@ -103,4 +104,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
 ---
+
+It's late at night and we're all alone,
+just the music on the radio.
+No one's comin', no one's gonna telephone.
+Just me and you and the lights down low.
+
+
+We're slow dancin', swayin' to the music.
+slow dancin', just me and my girl.
+Slow dancin', swayin' to the music.
+no one else in the whole wide world,
+
+Just you, girl.
+
+And we just flow together when the lights are low,
+Shadows dancin' all across the wall.
+Music's playin' so soft and slow
+The rest of the world's so far away and small, when...
+
+
+
+Hold me, oh hold me, no, never let me go.
+And as we dance together in the dark,
+So much love in this heart of mine.
+Whisper to me, hold me tight.
+You're the one I thought I'd never find,
+And now...
+
+
+
+
 

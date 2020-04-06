@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-need-my-love-darryl-worley
+lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/whenyouneedmylove.html
 name: When You Need My Love
 rankings:
 - end_date: '2000-06-16'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
 ---
+
+Two in the morning telephone rings
+Somehow I knew who it was
+'Cause baby it's always the same old thing
+When you need my love
+
+You say it's over again and again
+This time you've had enough
+Girl I know you've been fighting with him
+When you need my love
+
+Oh I wish I could just say no
+And get you out of my heart
+It must be nice to have some place to go
+When your world falls apart
+
+He'll call tomorrow with the same ol' line
+And you'll forget about us
+I'll be lonely until the next time
+When you need my love
+
+Oh I wish I could just say no
+And get you out of my heart
+It must be nice to have some place to go
+When your world falls apart
+
+Now someday someone's gonna love me true
+And baby when she does
+Then I wonder what you're gonna do
+When you need my love
+
+Yeah, then I wonder what you're gonna do
+When you need my love
+When you need my love
+When you need my love
+What are you gonna do
+
+
 

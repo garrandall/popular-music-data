@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jeopardy-greg-kihn-band
+lyrics_url: https://www.azlyrics.com/lyrics/gregkihnband/jeopardy.html
 name: Jeopardy
 rankings:
 - end_date: '1983-02-04'
@@ -95,4 +96,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+Where were you
+When we needed you
+Well you could not be found
+What can I do
+Oh, I believed in you
+You're running me around
+
+Well you can take it as a warning
+Or take it anyway you like
+It's the lightning, not the thunder
+You never know where it's gonna strike
+
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+
+Don't be cute
+Don't be funny now
+It's later than you think
+Oh, what's the use
+Save your money now
+It's hanging on the brink
+
+Don't let go while I'm hanging on
+'Cause I been hanging on so long
+It's so hard to be all alone
+I know you're not that strong
+Yeah, yeah
+
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+
+
+
+Don't let go while I'm hanging on
+'Cause I've been hanging on so long
+It's so hard to be all alone
+I know you're not that strong
+Yeah, yeah
+
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+Our love's in jeopardy, baby
+Ooooh-ooh-oooooh
+Our love's in jeopardy (jeopardy), baby
+Ooooh-ooh-oooooh
+Our love's in jeopardy (jeopardy), baby
+Ooooh-ooh-oooooh
+Love's in jeopardy, baby
+
+
 

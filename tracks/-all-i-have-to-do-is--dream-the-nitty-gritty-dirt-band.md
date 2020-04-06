@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -all-i-have-to-do-is--dream-the-nitty-gritty-dirt-band
+lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/allihavetodoisdream.html
 name: (All I Have To Do Is) Dream
 rankings:
 - end_date: '1975-09-05'
@@ -31,4 +32,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
 ---
+
+When I want you in my arms
+When I want you and all your charms
+Whenever I want you
+All I have to do is dream
+Dream, dream, dream
+
+When I feel blue in the night
+And I want you to hold me tight
+Whenever I want you
+All I have to do, is dream
+
+I can make you mine
+Taste your lips of wine
+Any time, night or day
+
+Only trouble is
+Gee wiz
+I'm dreamin' my life away
+
+I need you so that I could die
+I love you so, and that is why
+Whenever I want you
+All I have to do is dream
+Dream, dream, dream
+
+I can make you mine
+Taste your lips of wine
+Any time, night or day
+
+Only trouble is
+Gee wiz
+I'm dreamin' my life away
+
+I need you so that I could die
+I love you so, and that is why
+Whenever I want you
+All I have to do is dream
+Dream, dream, dream...
+
+
 

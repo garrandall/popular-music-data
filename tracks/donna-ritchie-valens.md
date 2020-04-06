@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: donna-ritchie-valens
+lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/donna.html
 name: Donna
 rankings:
 - end_date: '1958-11-30'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
+
+Oh, Donna
+Oh, Donna
+Oh, Donna
+Oh, Donna
+
+I had a girl
+Donna was her name
+Since she left me
+I've never been the same
+
+'Cause I love my girl
+Donna, where can you be?
+Where can you be?
+
+Now that you're gone
+I'm left all alone
+All by myself
+To wander and roam
+
+'Cause I love my girl
+Donna, where can you be?
+Where can you be?
+
+Oh, darlin', now that you're gone
+I don't know what I'll do
+All the time and all my love
+For you
+
+I had a girl
+Donna was her name
+Since she left me
+I've never been the same
+
+'Cause I love my girl
+Donna, where can you be?
+Where can you be?
+
+Oh, Donna
+Oh, Donna
+Oh, Donna
+Oh, Donna
+
+
 

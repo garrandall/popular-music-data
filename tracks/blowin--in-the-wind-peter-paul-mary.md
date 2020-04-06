@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: blowin--in-the-wind-peter-paul-mary
+lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/blowininthewind.html
 name: Blowin' In The Wind
 rankings:
 - end_date: '1963-07-05'
@@ -69,4 +70,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
 ---
+
+How many roads must a man walk down
+Before they call him a man?
+How many seas must a white dove sail
+Before she sleeps in the sand?
+How many times must the cannon balls fly
+Before they're forever banned?
+
+The answer, my friend, is blowin' in the wind
+The answer is blowin' in the wind.
+
+How many years must a mountain exist
+Before it is washed to the sea?
+How many years can some people exist
+Before they're allowed to be free?
+How many times can a man turn his head
+And pretend that he just doesn't see?
+
+The answer, my friend, is blowin' in the wind
+The answer is blowin' in the wind.
+
+How many times must a man look up
+Before he can see the sky?
+How many ears must one man have
+Before he can hear people cry?
+How many deaths will it take 'til he knows
+That too many people have died?
+
+The answer, my friend, is blowin' in the wind
+The answer is blowin' in the wind.
+The answer is blowin' in the wind.
+
+
 

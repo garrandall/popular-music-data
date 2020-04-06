@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-morning-beautiful-steve-holy
+lyrics_url: https://www.azlyrics.com/lyrics/steveholy/goodmorningbeautiful.html
 name: Good Morning Beautiful
 rankings:
 - end_date: '2001-12-07'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-13'
 ---
+
+Good morning, beautiful, how was your night?
+Mine was wonderful with you by my side
+And when I open my eyes to see your sweet face
+It's a good morning, beautiful day
+
+I couldn't see the light, I didn't know day from night
+I had no reason to care
+Well, since you've came along, I can face the dawn
+'Cause I know, you'll be there
+
+Good morning, beautiful, how was your night?
+Mine was wonderful with you by my side
+And when I open my eyes to see your sweet face
+It's a good morning, beautiful day
+
+I never worry if it's raining outside
+'Cause in here with you, girl, the sun always shines
+
+Good morning, beautiful, how was your night?
+Mine was wonderful with you by my side
+And when I open my eyes to see your sweet face
+It's a good morning, beautiful day
+
+Hmm, good morning, beautiful day
+Hmm, it's a beautiful day
+(Good morning beautiful, good morning beautiful)
+Good morning, what a beautiful day
+(Good morning beautiful, good morning beautiful)
+
+
 

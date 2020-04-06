@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-the-pain-below-chevelle
+lyrics_url: https://www.azlyrics.com/lyrics/chevelle/sendthepainbelow.html
 name: Send The Pain Below
 rankings:
 - end_date: '2003-05-16'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
 ---
+
+I liked having hurt,
+So send the pain below where I need it,
+You used to beg me to take care of things,
+And smile at the thought of me failing.
+
+But long before, having hurt,
+I'd send the pain below,
+I'd send the pain below.
+
+Much like suffocating,
+Much like suffocating,
+Much like suffocating,
+(I'd send the pain below...)
+Much like suffocating,
+(I'd send the pain below...)
+
+You used to run me away,
+All while laughing.
+Then cry about that fact,
+'til I returned.
+
+But long before, having hurt,
+I'd send the pain below,
+I'd send the pain below.
+
+Much like suffocating,
+Much like suffocating,
+Much like suffocating,
+(I'd send the pain below...)
+Much like suffocating,
+(I'd send the pain below...)
+Much like suffocating.
+
+I can't feel my chest,
+Need more, drop down,
+Closing in.
+
+I can't feel my chest,
+Drop down.
+
+I liked, having hurt.
+So send the pain below,
+So send the pain below,
+(Much like suffocating) 
+So send the pain below,
+(Much like suffocating) 
+So send the pain below,
+(Much like suffocating)
+So send the pain below,
+(Much like suffocating)
+So send the pain below.
+
+
 

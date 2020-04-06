@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-gonna-come-at-last-badfinger
+lyrics_url: https://www.azlyrics.com/lyrics/badfinger/loveisgonnacomeatlast.html
 name: Love Is Gonna Come At Last
 rankings:
 - end_date: '1979-04-13'
@@ -23,4 +24,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-28'
 ---
+
+There are times when it feels so hard just to carry on
+There are times when the days all seem to be so long
+Then this feeling inside of me sets me free from the past
+
+And I know that when I'm ready, love is gonna come at last
+Yes, I know that when I'm ready, love is gonna come at last
+
+Been alone in a crowded room, watched it all go on
+I've had so many sleepless nights when I dreamed alone
+Then a break in the clouds above feels like love shinin' down
+
+And I know that when I'm ready, love is gonna come around
+Yes, I know that when I'm ready, love is gonna come around
+
+I live for tomorrow, what it may bring
+I live through the sorrow
+Live in my dreams, in my dreams
+
+
+
+This feeling inside of me sets me free from the past
+And someday I'll find a way to make my dreams come true
+
+'Cause I know that when I'm ready, love is gonna come at last
+Yes, I know that when I'm ready, love is gonna come at last
+Yes, I know that when I'm ready, love is gonna come at last
+Yes, I know that when I'm ready, love is gonna come at last
+Yes, I know that when I'm ready, love is gonna come at last.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-a-girl-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/kissagirl.html
 name: Kiss A Girl
 rankings:
 - end_date: '2009-04-03'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
 ---
+
+To kiss and tell, it's just not my style.
+But the night is young, and it's been awhile and she broke my heart, broke it right in two,
+and it took some time but I'm feelin' like I'm finally ready to find, find somebody new 
+
+I wanna kiss a girl 
+I wanna hold her tight 
+Maybe make a little magic in the moonlight 
+Don't wanna go too far just to take it slow 
+But I shouldn't be lonely in this big old world 
+I wanna kiss a girl 
+
+It's that moment when you start closin' in 
+First you're holding back, then surrenderin' 
+It can start a fire, light up the sky, such a simple thing. 
+Do you wanna try? 
+Are you ready to say good-bye to all these blues? 
+
+I wanna kiss a girl 
+I wanna hold her tight 
+Maybe make a little magic in the moonlight 
+Don't wanna go too far just to take it slow 
+But I shouldn't be lonely in this big old world 
+I wanna kiss a girl 
+
+'Cause maybe tonight it could turn into the rest of our lives, oh yeah. 
+Are you ready? Are you ready..to cross that line, put your lips on mine?? 
+
+(Put your lips on mine baby) 
+
+Do you wanna try? 
+Are you ready to say good-bye to all these blues? 
+
+I wanna kiss a girl 
+I wanna hold her tight 
+Maybe make a little magic baby 
+Don't wanna go too far just to take it slow 
+But no one should be lonely, I shouldn't be lonely 
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-there-blessid-union-of-souls
+lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/iwannabethere.html
 name: I Wanna Be There
 rankings:
 - end_date: '1997-05-16'
@@ -87,4 +88,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-09-20'
 ---
+
+Won't you let me catch your fall
+Won't you let me lend a hand
+Those lonely eyes have seen it all
+But love's too blind to understand
+
+Cause you don't know what you have
+Til your everything is gone
+You need someone to show you how to live again
+
+I wanna be there when you're feeling high
+I wanna be there when you wanna die
+I'm gonna light your fire
+Gonne feel your flame
+I wanna be there when you go insane
+I wanna be there when you're feeling' down
+And I'll be there when your head is spinnin' round
+Gonna be your lover
+Gonna be your friend
+I wanna be there til the end
+
+You wouldn't know that I was there
+Cause I have been there all the time
+And if I had my way I'd hold you in my arms
+And leave this madness all behind
+
+Cause you got so much to give
+But you throw it all away
+And all you got to show for who you are is pain
+
+And I've got so much to give
+If you'd only let me in
+I'm gonna take the time to show you I'm a friend
+You'll believe in love again
+
+I wanna be there in the pouring rain
+I wanna be there when you call my name
+I'm gonna light your fire
+Gonna feel your flame
+I wanna be there when you go insane
+II wanna be there when I'm outta town
+And when your whole damn world is crashing down
+I'm gonna be your lover
+Gonna be your friend
+I wanna be there til the end
+Cause you don't know what you have
+Til your everything is gone
+You need someone to show you how to live again
+
+And I've got so much to give
+If you'd only let me in
+I'm gonna take the time to show you I'm a friend
+You'll believe again
+
+I wanna be there when your baby cries
+I wanna be there when they tell you lies
+I'm gonna light your fire
+Gonna feel your flame
+I wanna be there when you go insane
+I wanna be there when your nights are long
+And when you're feeling like you don't belong
+Gonna be your lover
+Gonna be your friend
+Gonna be there til the end
+
+I'm gonna be there in the morning
+I'm gonna be there in the night
+I'm gonna be there to make you strong when
+you're tired
+I'm gonne be there when you want me
+I wanna be there when you don't
+Gonna be your lover
+Gonna be your friend
+Gonna be there til the end
+
+
 

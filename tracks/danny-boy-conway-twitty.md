@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: danny-boy-conway-twitty
+lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/dannyboy.html
 name: Danny Boy
 rankings:
 - end_date: '1959-10-04'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
+
+Oh, Danny boy, the pipes, the pipes are calling
+From glenn to glenn and down the mountain side
+The summer's gone and all the roses falling
+It's you, It's you must go and I must bide.
+
+Oh Danny boy, oh Danny boy, the pipes are calling
+From glenn to glenn and even down the mountain side
+The summer's gone and all the roses falling
+It's you, It's you must go and I must bide.
+
+Well, come on back when summer's in the meadow
+When the valley's hushed and even white with snow
+Hey, I'll be there in sunshine or in shadow
+Oh Danny boy, oh Danny boy I love you so.
+
+Oh Danny boy, oh Danny boy, the pipes are calling
+From glenn to glenn and even down the mountain side
+The summer's gone and all the roses falling
+It's you, It's you must go and I must bide.
+
+Well, come on back when summer's in the meadow
+When the valley's hushed and even white with snow
+Hey, I'll be there in sunshine or in shadow
+Oh Danny boy, oh Danny boy I love you so.
+
+Oh Danny boy, oh Danny boy I love you so.
+Oh Danny boy, oh Danny boy I love you so....
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-your-letter-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/inyourletter.html
 name: In Your Letter
 rankings:
 - end_date: '1981-08-14'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
 ---
+
+In your letter ooh in your letter
+In your letter ooh in your letter
+In your letter ooh in your letter
+In your letter ooh in your letter
+In your letter you said you didn't love me
+You said you're gonna leave me
+But you could've said it better
+Oh in your letter, you said you couldn't face me
+You said you could replace me
+But you could've said it better
+
+You could've left him only
+For an evening let him be lonely
+But you hid behind your poison pen and his pride
+You could've told him something
+And proved to me you don't love him
+But you hid behind your future full of lies
+
+
+
+You could've left him only
+For an evening let him be lonely
+But you hid behind your poison pen and his pride
+You could've told him something
+And proved to me you don't love him
+But you hid behind your future full of lies
+
+In your letter you said you didn't love me
+You said you're gonna leave me
+But you could've said it better
+Oh in your letter, you said you couldn't face me
+You said you could replace me
+But you could've said it better
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-of-both-worlds-lulu
+lyrics_url: https://www.azlyrics.com/lyrics/lulu/bestofbothworlds.html
 name: Best Of Both Worlds
 rankings:
 - end_date: '1967-12-22'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
 ---
+
+Best of both worlds, that's what you want
+All your own way, that's not my way
+I won't share you, I couldn't bear to
+It's time for you to choose
+Which love you'd rather lose
+
+Could you love her and forget me?
+Are you sorry that you've met me?
+What we've been through means nothing to you
+I can't satisfy you
+You want best of both worlds
+
+Make your fickle mind up
+I won't stay while you enjoy
+Best of both worlds
+
+I have loved you since I've found you
+You belong here, just look around you
+Keep your true love or take your new love
+You must chose between us
+You want best of both worlds
+
+Make your fickle mind up
+I won't stay while you enjoy
+Best of both worlds
+
+You've gotta choose between us
+You can't have the two of us
+
+Make your fickle mind up
+I won't stay while you enjoy
+Best of both worlds - best of both worlds
+Best of both worlds
+
+
 

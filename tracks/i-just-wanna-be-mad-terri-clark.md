@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-wanna-be-mad-terri-clark
+lyrics_url: https://www.azlyrics.com/lyrics/terriclark/ijustwannabemad.html
 name: I Just Wanna Be Mad
 rankings:
 - end_date: '2002-11-15'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
 ---
+
+Last night we went to bed not talking
+Cause we already said to much
+I face the wall you faced the window
+Bound and determined not to touch
+
+We've been married 7 years now
+Some days if feels like 21
+I'm still mad at you this morning
+Coffee's ready if you want some
+I've been up since 5 
+Thinking about me and you
+And I've got to tell you 
+The conclusion I've come to
+
+
+I'll never leave, I'll never stray
+My love for you will never change
+But I ain't ready to make up or get around to that
+I think I'm right I think your wrong
+I'll probably give in before long
+Please don't make me smile
+I just want to be mad for awhile
+
+For now you might as well forget it
+Don't run your fingers through my hair
+Yeah that's right I'm being stubborn
+No I don't want to go back upstairs
+I'm going to leave for work 
+Without a goodbye kiss
+But as I'm driving off
+Just remember this
+
+
+
+I just want to be mad for awhile
+I just want to be mad for awhile
+I just want to be mad for awhile
+
+
 

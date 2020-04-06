@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smooth-up-bulletboys
+lyrics_url: https://www.azlyrics.com/lyrics/bulletboys/smoothupinya.html
 name: Smooth Up
 rankings:
 - end_date: '1989-07-28'
@@ -47,4 +48,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
 ---
+
+Smooth up in ya
+Mama, whoa
+
+I know you really want to move me
+You know I like to see you try
+I've said it before and I'll say it again
+You're not my type if you don't begin
+
+Looks like you're the hard kind
+I ain't got that kind of time
+Oh, I send shivers
+
+(Smooth up in ya)
+(Smooth up in ya)
+In ya
+
+You say I'm never gonna break ya
+But we won't know until we try
+So now's the time to make up your mind
+I'll never ever be the one woman kind
+
+Don't let your lovin' go to waste
+All it takes is just one taste
+Oh I send shivers
+
+(Smooth up in ya)
+(Smooth up in ya)
+Smooth up in ya
+(Smooth up in ya)
+I wanna go, I wanna go
+(Smooth up in ya)
+Right now, yeah yeah yeah yeah yeah
+
+Oh oh oh
+I wanna go
+I wanna
+I wanna go
+
+Oh yeah yeah yeah, don't let your lovin' go to waste
+Oh honey child, I'm gonna give you a taste
+Whoa I send shivers
+
+(Smooth up in ya)
+(Smooth up in ya)
+Smooth up in ya
+
+(Smooth up in ya)
+(Smooth up in ya)
+I said it before and I'll say it again
+
+(Smooth up in ya) Whoa
+(Smooth up in ya) Whoa I really wanna go
+(Smooth up in ya)
+(Smooth up in ya) (I really wanna go)
+
+(Smooth up in ya)
+(Smooth up in ya) Yeah, yeah
+
+(Smooth up in ya)
+(Smooth up in ya) I really want to go
+
+
 

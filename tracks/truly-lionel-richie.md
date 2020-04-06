@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: truly-lionel-richie
+lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/truly.html
 name: Truly
 rankings:
 - end_date: '1982-10-15'
@@ -79,4 +80,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-05'
 ---
+
+Girl, tell me only this
+That I'll have your heart for always
+And you want me by your side
+Whispering the words I'll always love you
+
+And forever I will be your lover
+And I know if you really care
+I will always be there
+
+Now I need to tell you this
+There's no other love like your love
+And i,as long as I live,
+I'll give you all the joy
+My heart and soul can give
+
+Let me hold you
+I need to have you near me
+And I feel with you in my arms
+This love will last forever
+
+Because I'm truly
+Truly in love with you girl
+I'm truly head over heels with your love
+I need you, and with your love I'm free
+And truly,you know you're alright with me
+
+
 

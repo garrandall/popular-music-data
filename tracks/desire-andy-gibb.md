@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: desire-andy-gibb
+lyrics_url: https://www.azlyrics.com/lyrics/andygibb/desire.html
 name: Desire
 rankings:
 - end_date: '1980-02-01'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
 ---
+
+We may be big or small or black or white, eternally 
+And black and white is you and me in a special light 
+We may be young or old or in between, but this much I know
+Together we can learn to grow 
+In a world that's ever turning it's back on you
+If you give it all away, 
+make it mine, ine, ine, ine, mine
+You are desire, everything you need 
+I give you right or wrong 
+And you are the woman that I 
+base my whole existence on 
+And when I get to you my 
+desire is glowing in your light 
+
+These are the golden years we get to live
+we lead the way, tomorrow we can start today
+in a special light
+Love could be good or bad or in between 
+but this much I learn
+Baby, you and I can learn
+In a world that's rearranging it's reality
+If you give it all away 
+make it mine, ine, ine, ine, mine 
+You are desire, everything you need 
+I give you right or wrong
+And you are the woman that I 
+base my whole existence on 
+And when I get to you my 
+desire is glowing in your light
+And it's nice to light a fire 
+when it's cold outside 
+If you give it all away 
+make it mine, ine, ine, ine, mine
+You are desire, everything you need
+I give you right or wrong
+And you are the woman that I 
+base my whole existence on 
+And when I get to you my 
+desire is glowing in your light
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-think-i-can-t-love-you-jake-owen
+lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/dontthinkicantloveyou.html
 name: Don't Think I Can't Love You
 rankings:
 - end_date: '2009-02-20'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
 ---
+
+I learned the hard way real early in life
+That money sure don't grow on a tree
+And there's a few things that a dollar can't buy
+The best things in life, they come free
+
+So girl I can't buy you a big diamond ring
+No house on a hill full of life's finer things
+And I'll tell you right now there's a whole lot that I just can't do
+Oh, but baby don't think I can't love you
+
+And when I get home after workin' all day
+I'm beat down girl, I'm dead on my feet
+But as tired as I am if you wanna play
+Well, playin' sounds real good to me
+
+'Cause girl I can't buy you a big diamond ring
+No house on a hill full of life's finer things
+And I'll tell you right now there's a whole lot that I just can't do
+Oh, but baby don't think I can't love you
+
+So girl I can't buy you a big diamond ring
+No house on a hill full of life's finer things
+And I'll tell you right now there's a whole lot that I just can't do
+Oh, but baby, baby, oh baby don't think I can't love you
+
+
 

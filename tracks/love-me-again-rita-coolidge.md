@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-again-rita-coolidge
+lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/lovemeagain.html
 name: Love Me Again
 rankings:
 - end_date: '1978-11-10'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
 ---
+
+I wanna say I love you
+I wanna say I care
+Even though you
+May not feel the same
+I'm not afraid to wait
+'Cause I know you'll change
+
+Love ends
+So love begins, my friend
+Love me again
+Love me again
+
+If love were a road
+I'd be walking
+If you were still lucky
+I'd be home
+
+Obey your heart
+And let me walk in
+Open up your eyes
+And love me again
+
+Love ends
+So love begins, my friend
+Love me again
+Love me again
+
+Obey your heart
+And let me walk in
+Open up your eyes
+And love me again
+
+Love ends
+So love begins, my friend
+Love me again
+Love me again
+
+Love me again
+Love me again
+
+
 

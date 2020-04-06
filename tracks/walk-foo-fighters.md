@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-foo-fighters
+lyrics_url: https://www.azlyrics.com/lyrics/foofighters/walk.html
 name: Walk
 rankings:
 - end_date: '2011-07-29'
@@ -59,4 +60,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
 ---
+
+A million miles away
+Your signal in the distance
+To whom it may concern
+I think I lost my way
+Getting good at starting over
+Every time that I return
+
+Learning to walk again
+I believe I've waited long enough
+Where do I begin?
+Learning to talk again
+Can't you see I've waited long enough?
+Where do I begin?
+
+Do you remember the days
+We built these paper mountains
+Then sat and watched them burn?
+I think I found my place
+Can't you feel it growing stronger?
+Little conquerors
+
+Learning to walk again
+I believe I've waited long enough
+Where do I begin?
+Learning to talk again
+I believe I've waited long enough
+Where do I begin?
+
+Now
+For the very first time
+Don't you pay no mind?
+Set me free again
+To keep alive a moment at a time
+But still inside a whisper to a riot
+To sacrifice but knowing to survive
+The first to climb another state of mind
+I'm on my knees, I'm praying for a sign
+Forever, whenever
+I never wanna die
+
+I never wanna die
+I never wanna die
+I'm on my knees
+I never wanna die
+I'm dancing on my grave
+I'm running through the fire
+Forever, whenever
+I never wanna die
+
+I never wanna leave
+I'll never say goodbye
+Forever, whenever
+Forever, whenever
+
+Learning to walk again
+I believe I've waited long enough
+Where do I begin?
+Learning to talk again
+Can't you see I've waited long enough?
+Where do I begin?
+
+Learning to walk again
+I believe I've waited long enough
+Learning to talk again
+Can't you see I've waited long enough?
+
+
 

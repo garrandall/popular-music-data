@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-girl-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/babygirl.html
 name: Baby Girl
 rankings:
 - end_date: '2004-12-17'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
 ---
+
+They say this town,
+The stars stay up all night,
+Don't know can't see'em,
+For the glow of the neon lights.
+And it's a long way from here,
+To the place where the home fires   burn,
+Well it's 2,000 miles and one left turn.
+
+
+Dear Mom and Dad,
+Please send money,
+I'm so broke that it ain't funny.
+I don't need much just enough to get me through.
+Please don't worry 'cause I'm alright.
+(I'm playin here at the bar tonight)
+This time I'm gonna make our dreams come true...
+Well I love you more than anything in the world.
+Love,
+Your Baby Girl
+
+Black top blue sky,
+Big town full of little white lies,
+Everybody's your friend you can never be sure.
+They'll promise fancy cars and diamond rings,
+All sorts of shiny things.
+Girl, you'll remember what your knees are for.
+
+
+
+I know that I'm on my way,
+When I can tell every time I play.
+And I know it's worth all the dues I pay,
+When I can write to you and say...
+
+Dear Mom and Dad,
+I'll send money. I'm so rich that It ain't funny.
+Well it oughtta be more then enough to get you through.
+Please don't worry cause I'm alright,
+I'm stayin here at the Ritz tonight,
+Whatta ya know we made our dreams come true!
+And there are fancy cars and diamond rings,
+But you know that they don't mean a thing,
+Well they all add up to nothin compared to you,
+Well, remember me in ribbons and curls...
+I still love you more than anything in the world
+
+Love,
+Your Baby Girl
+
+(Your baby girl.....
+Dear Mom and Dad,
+Please send money,
+I'm so broke that it ain't funny,
+Don't need much just enough to get me through,
+Please don't worry cause I'm alright,
+I'm playin here at the bar tonight..
+Dreams come true....)
+
+
 

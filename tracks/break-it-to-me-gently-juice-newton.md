@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-it-to-me-gently-juice-newton
+lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/breakittomegently.html
 name: Break It To Me Gently
 rankings:
 - end_date: '1982-08-27'
@@ -75,4 +76,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
 ---
+
+Break it to me gently
+Let me down the easy way
+Make me feel you still love me
+If it's just, just for one more day
+
+Break it to me gently
+So my tears, my tears won't fall too fast
+If you must go then go slowly
+Let me love you 'til the last
+
+The love we've shared, oh so long
+It's a teary part of me
+If you must take your love away
+Take it gradually
+
+And break it to me gently, give me time
+Oh, give me a little time to ease the pain
+If you must go then go slowly
+'Cause I'll never love again
+
+If you must take your love away
+Take it gradually
+
+And break it to me gently, give me time
+Oh, give me a little time to ease the pain
+Love me just a little longer
+'Cause I'll never, never love again
+'Cause I'll never, no, never love again, ooh
+
+
 

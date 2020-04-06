@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-you-tonight-nicky-jam
+lyrics_url: https://www.azlyrics.com/lyrics/nickyjam/withyoutonighthastaelamanecer.html
 name: With You Tonight
 rankings:
 - end_date: '2016-06-17'
@@ -83,4 +84,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
 ---
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight
+
+What's your name, mamacita? My sweet seÃ±orita
+So hot that you giving me the fever
+So sexy, muy bonita
+You'll make a non-believer a believer
+
+Trust me, girl, you and me, that is what it's gotta be
+I give you everything you need, make you weak in your knees
+You the baddest one I ever seen
+Tell me how you fit that in them jeans
+
+Oyeme asi asi, baby I can finally see
+Girl you're so perfect to me
+You'll remember this night of pleasure
+I need you to come now with me
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight
+
+Want more than just your name
+From where you came
+Looking at you through me Ray-ban frames
+Them girl a dime but girl you not the same
+It's not you it's your mother me blame
+Me want tell you straight
+Let me explain
+Keep it a hundred, come ride on the wave
+Come through your tunnel up in my train
+Just cause me flyer than a plane
+
+You gon' call me papi
+I'll make your body happy
+Every time that you call me
+You know that I'll take care of you
+
+You gon' call me papi
+I'll make your body happy
+Every time that you call me
+You know I want you, baby
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight (I wanna leave with you)
+
+Girl you know that I'll do anything
+To know a little more than just your name
+Only thing I know is you're too fine
+And I would like to leave with you tonight
+
+N.I.C.K
+Nicky Nicky Nicky Jam
+Saga WhiteBlack
+La Industria Inc
+
+
 

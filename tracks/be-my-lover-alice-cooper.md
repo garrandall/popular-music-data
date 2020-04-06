@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-my-lover-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/bemylover.html
 name: Be My Lover
 rankings:
 - end_date: '1972-03-17'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
+
+She struts into the room well I don't know her but with a magnifying glance I just sort of looked her over hmm
+We had a drink or two well maybe three and then suddenly she starts telling me her life story
+She says baby if you wanna be my lover you better take me home
+'cause it's a long long way to paradise and I'm still on my own
+Told her that I came from Detroit city and I played guitar in a long haired rock and roll band
+She asked me why the singer's name was Alice I said listen baby you really wouldn't understand
+And I said baby if you wanna be my lover you better take me home
+'cause it's a long long way to paradise and I'm still on my own on my own
+Oh baby if you wanna be my lover you better take me home
+'cause it's a long long way to paradise and I'm still on my own oh
+
+
 

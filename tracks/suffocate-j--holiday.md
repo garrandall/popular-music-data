@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suffocate-j--holiday
+lyrics_url: https://www.azlyrics.com/lyrics/jholiday/suffocate.html
 name: Suffocate
 rankings:
 - end_date: '2007-11-30'
@@ -103,4 +104,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
 ---
+
+Now even though I try to play it off
+I'm thinking about you all day long
+And I can't wait for shorty to come through
+From your lips and back up to your eyes
+My hands on your hips when we grind
+I'm fantasizing bout what I'm gonna do to you
+Got me fiening for her love can't lie
+Man you should see how she got me
+Spending all this time with her
+And I couldn't leave her if I wanted to
+Her love turns men into fools
+Tell me what a man is to do
+
+Cause I can't breathe when you talk to me
+I can't breathe when you're touching me
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind
+I can't breathe when you talk to me
+I can't breathe when you're touching me
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind
+
+Whenever we up in this bed
+And my fingers fall in your hair
+I wonder if you feel me watching you
+Cause I can't go a night without your loving
+Got me looking at this phone
+Every time it rings I hope it's you girl
+You got my bracing for your love
+And I fallen for you I can't lie
+I just wanna be with you
+Yes she got me there I said
+And somebody call the paramedics
+Tell em to hurry up and come through
+
+Cause I can't breathe when you talk to me (can't breathe)
+I can't breathe when you're touching me (when you touch me)
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind (I'm going outta my mind)
+I can't breathe when you talk to me
+I can't breathe when you're touching me
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind
+
+Don't ever leave me girl
+I need you inside my world
+I can't go a day without you
+And see nobody else will ever do
+I'll never feel like I feel with you
+
+Cause I can't breathe when you talk to me
+I can't breathe when you're touching me (when you touch me)
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind (I'm going outta my mind)
+I can't breathe when you talk to me (oh when you talk to me)
+I can't breathe when you're touching me (I can't breathe when you touching me)
+I suffocate when you're away from me
+So much love you take from me
+I'm going outta my mind (I'm going outta my mind)
+
+Oh no no I can't breathe
+Oh no no I can't breathe (I can't breathe)
+Oh no no I can't breathe oh no
+
+
 

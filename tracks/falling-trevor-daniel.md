@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falling-trevor-daniel
+lyrics_url: https://www.azlyrics.com/lyrics/trevordaniel/falling.html
 name: Falling
 rankings:
 - end_date: '2019-12-06'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+My last made me feel like I would never try again
+But when I saw you, I felt something I never felt
+Come closer, I'll give you all my love
+If you treat me right, baby, I'll give you everything
+My last made me feel like I would never try again
+But when I saw you, I felt something I never felt
+Come closer, I'll give you all my love
+If you treat me right, baby, I'll give you everything
+
+Talk to me, I need to hear you need me like I need ya
+Fall for me, I wanna know you feel how I feel for you, love
+Before you, baby, I was numb, drown the pain by pouring up
+Speeding fast on the run, never want to get caught up
+Now you the one that I'm calling
+Swore that I'd never forget, don't think I'm just talking
+I think I might go all in, no exceptions, girl, I need ya
+
+Feeling like I'm out of my mind, cause I can't get enough
+Only one that I give my time, 'cause I got eyes for ya
+Might make an exception for ya, 'cause I been feeling ya
+Think I might be out of my mind, I think that you're the one
+
+My last made me feel like I would never try again
+But when I saw you, I felt something I never felt
+Come closer, I'll give you all my love
+If you treat me right, baby, I'll give you everything
+My last made me feel like I would never try again
+But when I saw you, I felt something I never felt
+Come closer, I'll give you all my love
+If you treat me right, baby, I'll give you everything
+
+I'll never give my all again
+'Cause I'm sick of falling down
+When I open up and give my trust
+They find a way to break it down
+Tear me up inside, and you break me down
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: check-yes-juliet--run-baby-run--we-the-kings
+lyrics_url: https://www.azlyrics.com/lyrics/wethekings/checkyesjuliet.html
 name: Check Yes Juliet (Run Baby Run)
 rankings:
 - end_date: '2008-08-01'
@@ -51,4 +52,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
 ---
+
+Check yes Juliet
+Are you with me?
+Rain is falling down on the sidewalk
+I won't go until you come outside
+Check yes Juliet
+Kill the limbo
+I'll keep tossing rocks at your window
+There's no turning back for us tonight
+
+Lace up your shoes
+Ayo ayo
+Here's how we do
+
+Run baby run
+Don't ever look back
+They'll tear us apart if you give them the chance
+Don't sell your heart, don't say we're not meant to be
+Run baby run, forever we'll be
+You and me
+
+Check yes Juliet
+I'll be waiting
+Wishing, wanting yours for the taking
+Just sneak out and don't tell a soul goodbye
+Check yes Juliet
+Here's the countdown:
+3, 2, 1, now fall in my arms now
+They can change the locks, don't let them change your mind
+
+Lace up your shoes
+Ayo ayo
+Here's how we do
+
+Run baby run
+Don't ever look back
+They'll tear us apart if you give them the chance
+Don't sell your heart, don't say we're not meant to be
+Run baby run, forever we'll be
+You and me
+
+We're flying through the night
+We're flying through the night
+Way up high
+The view from here is getting better with you
+By my side
+
+Run baby run
+Don't ever look back
+They'll tear us apart if you give them the chance
+Don't sell your heart, don't say we're not meant to be
+Run baby run, forever will be
+
+Run baby run
+Don't ever look back
+They'll tear us apart if you give them the chance
+Don't sell your heart, don't say we're not meant to be
+Run baby run, forever will be
+You and me
+You and me
+You and me
+
+
 

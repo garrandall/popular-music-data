@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-little-sign-brenton-wood
+lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/gimmelittlesign.html
 name: Gimme Little Sign
 rankings:
 - end_date: '1967-08-18'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
 ---
+
+If you do want me, gimme little sugar
+If you don't want me, don't lead me on girl
+But if you need me, show me that you love me
+And when I'm feeling blue and I want you
+There's just one thing that you should do
+
+Just gimme some kind of sign girl
+Oh my baby
+To show me that you're mine girl
+Oh yeah
+
+Just gimme some kind of sign girl
+Oh my darling
+To show me that you're mine girl
+All right
+
+If you do want me, gimme little sweet talk
+If you don't want me, don't lead me on girl
+But if you need me, show me that you love me
+And when I'm feeling down, wearing a frown
+You be there when I look around
+
+Just gimme some kind of sign girl
+Oh my baby
+To show me that you're mine girl
+All right
+
+Just gimme some kind of sign girl
+Oh my baby
+To show me that you're mine girl
+All right
+...
+
+Just gimme some kind of sign girl
+Oh my baby
+To show me that you're mine girl
+Oh yeah
+
+Just gimme some kind of sign girl
+Oh my darling
+To show me that you're mine girl
+All right
+
+Just gimme some kind of sign, sign
+
+Just gimme some kind of sign girl
+Oh my baby
+To show that you're mine girl
+Oh yeah...
+
+
 

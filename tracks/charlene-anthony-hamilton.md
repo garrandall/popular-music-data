@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: charlene-anthony-hamilton
+lyrics_url: https://www.azlyrics.com/lyrics/anthonyhamilton/charlene.html
 name: Charlene
 rankings:
 - end_date: '2004-09-10'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
 ---
+
+Woke up this morning, found a letter that she wrote.
+She said she's tired that I'm always on the road.
+Too hard to swallow being alone.
+She needs someone at night that she can hold.
+
+She must have told me a thousand times or more.
+Silent cries I used to ignore.
+God knows I love her.
+Didn't mean to hurt her.
+
+Baby, I'll be
+Sitting here waiting on you to come home again.
+I won't leave.
+Promise I'll be here to the very end
+By your side
+To protect you and to love you and to be with you for life.
+Come on, home to me, Charlene.
+
+She knows I really love this old music thing.
+Since I was a child it's been my dream.
+I can support her, treat her and spoil her.
+You know: buy her the finer things.
+
+But I forgot about loving her.
+Damn the money, diamonds and furs.
+What about the hard day she had with the baby?
+All she need is for me to love her.
+
+Baby, I'll be
+Sitting here waiting on you to come home again.
+I'll be waiting.
+I won't leave.
+Promise I'll be here to the very end
+(Said, I promise I'll be here.)
+By your side
+To protect you and to love you and to be with you for life.
+Come on, home to me, Charlene.
+
+Promise I can't live without her.
+God knows I need her loving.
+And it hurts so bad that's she gone away.
+I hope and pray she'll come back one day in my life.
+
+Baby, I'll be
+Sitting here waiting on you to come home again.
+I won't leave.
+Promise I'll be here to the very end
+(I'll be with you for life.)
+By your side
+To protect you and to love you and to be with you for life.
+(Say I won't go nowhere.)
+Come on, home to me, Charlene.
+
+Sometimes I cry.
+Charlene, if you're listening, would you call on me?
+Because my heart is aching without you.
+Call me. Say about me.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: semi-charmed-life-third-eye-blind
+lyrics_url: http://www.songlyrics.com/third-eye-blind/semi-charmed-life-lyrics/
 name: Semi-Charmed Life
 rankings:
 - end_date: '1997-07-11'
@@ -179,4 +180,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
 ---
+I'm packed and I'm holding I'm smiling
+She's living, she's golden
+And she lives for me
+She says she lives for me
+Ovation, what motivation
 
+She comes round and she goes down on me
+And I make her smile, it's like a drug for you
+Do ever what you want to do coming over you
+Keep on smiling, what we go through
+One stop to the rhythm that divides you
+
+And I speak to you like the chorus to the verse
+Chop another line like a coda with a curse
+And I come on like a freak show takes the stage
+We give them the games we play
+
+She said I want something else
+To get me through this
+Semi-charmed kind of life
+Baby, baby
+I want something else
+I'm not listening when you say
+Goodbye
+
+The sky it was gold, it was rose
+I was taking sips of it through my nose
+And I wish I could get back there
+Some place back there
+Smiling in the pictures you would take
+
+Doing crystal meth will lift you up until you break
+It won't stop I won't come down
+I keep stock with a tick-tock rhythm
+And a bump for the drop and then I bumped up
+I took the hit that I was given then I bumped again
+And then I bumped again
+
+I said how do I get back there to
+The place where I fell asleep inside you?
+How do I get myself back to
+The place where you said?
+
+I want something else
+To get me through this
+Semi-charmed kind of life
+Baby, baby
+I want something else
+I'm not listening when you say
+Goodbye
+
+I believe in the sand beneath my toes
+The beach gives a feeling, an earthy feeling
+I believe in the faith that grows
+And the four right chords can make me cry
+
+When I'm with you I feel like I could die
+And that would be alright
+Alright
+
+When the plane came in she said she was crashing
+The velvet it rips in the city we tripped
+On the urge to feel alive but now I'm struggling to survive
+Those days you were wearing that velvet dress
+You're the priestess I must confess
+Those little red panties they pass the test
+
+Slide up around the belly
+Face down on the mattress
+One, and you hold me
+And we're broken
+Still it's all that I want to do just a little
+
+I feel myself with a head made of the ground
+I'm scared but I'm not coming down, no no
+And I won't run for my life
+She's got her jaws just locked now in smile
+But nothing is all right, all right
+
+I want something else
+To get me through this life
+Baby, I want something else
+Not listening when you say
+Goodbye, goodbye, goodbye
+
+The sky it was gold, it was rose
+I was taking sips of it through my nose
+And I wish I could get back there
+Some place back there
+In the places he gets the stars
+
+I want something else

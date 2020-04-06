@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-made-girls-raelynn
+lyrics_url: https://www.azlyrics.com/lyrics/raelynn/godmadegirls.html
 name: God Made Girls
 rankings:
 - end_date: '2014-11-14'
@@ -71,4 +72,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
 ---
+
+Somebody's gotta wear a pretty skirt
+Somebody's gotta be the one to flirt
+Somebody's gotta wanna hold his hand
+So God made girls
+
+Somebody's gotta make him get dressed up
+Give him a reason to wash that truck
+Somebody's gotta teach him how to dance
+So God made girls
+
+He needed something soft and loud
+And sweet and proud
+But tough enough to break a heart
+Something beautiful, unbreakable
+That lights up in the dark
+
+So God made girls, God made girls
+He stood back and told the boys, "I'm 'bout to rock your world."
+And God made girls for singing in your front seat
+God made girls for dancin' to their own beat
+He stood back and told the boys, "I'm 'bout to rock your world."
+Then God made girls
+
+Somebody's gotta be the one to cry
+Somebody's gotta let him drive
+Give him a reason to hold that door
+So God made girls
+
+Somebody's gotta put up a fight
+Make him wait on a Saturday night
+To walk downstairs and blow his mind
+So God made girls
+
+Something that can wake him up
+And call his bluff
+And drag his butt to church
+Something that is hard to handle
+Somethin' fragile
+To hold him when he hurts
+
+So God made girls, God made girls
+He stood back and told the boys, "I'm 'bout to rock your world."
+And God made girls for singin' in your front seat
+God made girls for dancin' to their own beat
+He stood back and told the boys, "I'm 'bout to rock your world."
+And God made girls
+
+Somebody's gotta wear a pretty skirt
+Somebody's gotta be the one to flirt
+Somebody's gotta wanna hold his hand
+
+So God made girls, God made girls
+He stood back and told the boys, "I'm 'bout to rock your world."
+And God made girls for singin' in your front seat
+God made girls for dancin' to their own beat
+He stood back and told the boys, "I'm 'bout to rock your world."
+Then God made girls
+
+Somebody's gotta wear a pretty skirt
+Somebody's gotta be the one to flirt
+And God made girls, yeah
+Somebody's gotta wanna hold his hand
+
+So God made girls
+
+
 

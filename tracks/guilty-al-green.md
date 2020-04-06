@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guilty-al-green
+lyrics_url: https://www.azlyrics.com/lyrics/algreen/guilty.html
 name: Guilty
 rankings:
 - end_date: '1972-10-06'
@@ -35,4 +36,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
 ---
+
+Girl I love you
+Yeah, yeah, honest I do
+And I'm guilty, baby
+On being untrue
+
+What you heard
+Through the grapevine
+Every word it's true
+Now the blame's all mine you all
+
+I'm guilty
+Yeah, yeah, yeah
+Yeah, yeah, yeah, yeah
+I'm guilty, guilty, guilty
+Baby, I'm guilty of this crime
+
+Don't condemn me
+Or cast me aside
+'Cause I'm gonna be good to you
+Love to you is more, more important
+Than your foolish pride, ooh
+
+Just put me on probation
+Loving you is my
+Yeah, an infatuation
+
+Guilty, yeah
+Ooh, I'm guilty
+But listen
+
+Don't condemn me, baby, baby, baby
+Or cast me aside
+Yeah, yeah, yeah, yeah, yeah, yeah
+Loving you is more hard
+Than your foolish pride
+
+All you got to do is
+Just put me on probation
+Loving you is more, yeah
+Than infatuation
+
+'Cause I'm guilty
+Not so guilty, guilty
+Guilty, guilty, guilty, guilty
+Don't condemn me
+
+
 

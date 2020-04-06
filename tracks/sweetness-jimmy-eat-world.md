@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweetness-jimmy-eat-world
+lyrics_url: https://www.azlyrics.com/lyrics/jimmyeatworld/sweetness.html
 name: Sweetness
 rankings:
 - end_date: '2002-08-09'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
 ---
+
+If you're listening
+Sing it back
+String from your tether unwinds
+(string from your tether unwinds)
+Up and outward to bind
+(Up and outward to bind)
+
+I was spinning free
+With a little sweet
+And simple numbing me
+
+Are you listening?
+Sing it back
+So tell me what do I need
+(tell me what do I need)
+When words lose their meaning
+(When words lose their meaning)
+
+I was spinning free
+With a little sweet
+And simple numbing me
+
+Yeah, stumble 'til you crawl
+Sinking into sweet uncertainty
+
+Are you listening? Are you listening?
+
+If you're listening
+If you're listening. Are you listening?
+Sing it back
+If you're listening. Are you listening?
+
+And I'm still running away
+I'm still running away
+I won't play your hide and seek game
+(Your hide and seek game)
+
+I was spinning free
+With a little sweet
+And simple numbing me
+
+What a dizzy dance
+This sweetness will not be concerned with me
+No the sweetness will not be concerned with me
+No the sweetness will not be concerned with me
+
+
 

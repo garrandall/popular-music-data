@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-remember-me-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/pleaserememberme.html
 name: Please Remember Me
 rankings:
 - end_date: '1999-04-09'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
 ---
+
+When all our tears have reached the sea
+Part of you will live in me
+Way down deep inside my heart
+The days keep coming without fail
+A new wind is gonna find your sail
+That's where your journey starts
+
+You'll find better love
+Strong as it ever was
+Deep as the river runs
+Warm as the morning sun
+Please remember me
+
+Just like the waves down by the shore
+We're gonna keep on coming back for more
+'Cause we don't ever wanna stop
+Out in this brave new world you seek
+Oh the valleys and the peaks
+And I can see you on the top
+
+You'll find better love
+Strong as it ever was
+Deep as the river runs
+Warm as the morning sun
+Please remember me
+
+Remember me when you're out walkin'
+When the snow falls high outside your door
+Late at night when you're not sleepin'
+And moonlight falls across your floor
+When I can't hurt you anymore
+
+You'll find better love
+Strong as it ever was
+Deep as the river runs
+Warm as the morning sun
+Please remember me
+Please remember me
+
+
 

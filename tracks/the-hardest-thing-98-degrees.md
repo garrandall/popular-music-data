@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hardest-thing-98-degrees
+lyrics_url: https://www.azlyrics.com/lyrics/98degrees/thehardestthing.html
 name: The Hardest Thing
 rankings:
 - end_date: '1999-04-02'
@@ -103,4 +104,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
 ---
+
+We both know that I shouldn't be here
+This is wrong
+And baby it's killin' me, it's killin' you
+Both of us tryin' to be strong
+I've got somewhere else to be
+Promises to keep
+Someone else who loves me
+And trusts me fast asleep
+I've made up my mind
+There is no turning back
+She's been good to me
+And she deserves better than that
+
+It's the hardest thing
+I'll ever have to do
+To look you in the eye
+And tell you I don't love you
+It's the hardest thing
+I'll ever have to lie
+To show no emotion
+When you start to cry
+I can't let you see
+What you mean to me
+When my hands are tied
+And my heart's not free
+We're not meant to be
+It's the hardest thing
+I'll ever have to do
+To turn around and walk away
+Pretending I don't love you
+
+I know that we'll meet again
+Fate has a place and time
+So you can get on with your life
+I've got to be cruel to be kind
+Like Dr. Zhivago
+All my love I'll be sending
+And you will never know
+'Cause there can be no happy ending
+
+
+
+Maybe another time, another day
+As much as I want to, I can't stay
+I've made up my mind
+There is no turning back
+She's been good to me
+And she deserves better than that
+
+
+
+
 

@@ -5,6 +5,7 @@ features:
 - Jennifer Lawrence
 genres: []
 key: the-hanging-tree-james-newton-howard-jennifer-lawrence
+lyrics_url: https://www.azlyrics.com/lyrics/jenniferlawrence/thehangingtree.html
 name: The Hanging Tree
 rankings:
 - end_date: '2014-12-19'
@@ -76,4 +77,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
 ---
+
+Are you, are you
+Coming to the tree?
+They strung up a man
+They say who murdered three
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+Where dead man called out
+For his love to flee
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+Where I told you to run
+So we'd both be free
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+ Wear a necklace of rope
+ Wear a necklace of hope
+Side by side with me
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+Where I told you to run
+So we'd both be free
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+They strung up a man
+They say who murdered three
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+Are you, are you
+Coming to the tree?
+Where dead man called out
+For his love to flee
+Strange things did happen here
+No stranger would it be
+If we met at midnight
+In the hanging tree
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: proud-mary-solomon-burke
+lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/proudmary.html
 name: Proud Mary
 rankings:
 - end_date: '1969-05-09'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
 ---
+
+Left a good job in the city
+Working for The Man every night and day
+And I never lost one minute of sleeping
+Worrying 'bout the way things might have been
+
+Big wheel keep on turning
+Proud Mary keep on burning
+Rolling, rolling, rolling on the river
+
+Cleaned a lot of plates in Memphis
+Pumped a lot of pain down in New Orleans
+But I never saw the good side of the city
+Until I hitched a ride on a river boat queen
+
+Rolling, rolling, rolling on the river
+If you come down to the river
+Bet you gonna find some people who live
+You don't have to worry 'cause you have no money
+People on the river are happy to give
+
+Rolling, rolling, rolling on the river
+Rolling, rolling, rolling on the river
+Rolling, rolling, rolling on the river
+
+
 

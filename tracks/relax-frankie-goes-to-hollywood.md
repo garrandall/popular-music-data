@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: relax-frankie-goes-to-hollywood
+lyrics_url: https://www.azlyrics.com/lyrics/frankiegoestohollywood/relax.html
 name: Relax
 rankings:
 - end_date: '1984-04-13'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
+
+Oh oh
+Wee-ell-Now!
+
+Relax don't do it
+When you want to go to it
+Relax don't do it
+When you want to come
+Relax don't do it
+When you want to come
+When you want to come
+
+Relax don't do it
+When you want to to go to it
+Relax don't do it
+When you want to come
+Relax don't do it
+When you want to suck to it
+Relax don't do it
+When you want to come
+Come-oh oh oh
+
+But shoot it in the right direction
+Make making it your intention-ooh yeah
+Live those dreams
+Scheme those schemes
+Got to hit me
+Hit me
+Hit me with those laser beams
+
+I'm coming
+I'm coming-yeah
+
+Relax don't do it
+When you want to go to it
+Relax don't do it
+When you want to come
+
+Relax don't do it
+When you want to suck to it
+Relax don't do it (love)
+When you want to come
+When you want to come
+When you want to come
+Come-huh
+
+Get it up
+The scene of love
+Oh feel it
+
+Relax
+Higher higher
+
+Hey-
+Pray
+
+
 

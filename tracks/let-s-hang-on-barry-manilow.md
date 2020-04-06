@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-hang-on-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/letshangon.html
 name: Let's Hang On
 rankings:
 - end_date: '1982-03-26'
@@ -47,4 +48,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
 ---
+
+There ain't no good in our goodbyein'
+True love takes a lot of tryin'
+Ohh, I'm cryin'
+
+
+Let's hang on
+To what we've got
+Don't let go girl
+We got a lot
+Got a lotta love between us
+Hang on
+Hang on
+Hang on
+
+To what we got
+You say you're gonna go and call it quits
+Gonna check it all and break
+Our love to bits
+Break it up
+(I wish you'd never said it)
+Break it up
+(Oh, no we'll both regret it)
+That little chip of diamond on your hand
+Ain't a fortune baby but you know it stands
+For the love
+(a love to tie and bind ya)
+Such a love
+(we both can't leave behind us)
+
+Baby
+(don't you go)
+Baby
+(don't you go)
+Think it over and stay
+
+
+
+There isn't anything I wouldn't do
+I'd pay any price to get in good with you
+Patch it up
+(give me a second turnin')
+Patch it up
+(don't cool off while I'm burning)
+You've got me cryin' dyin' at your door
+Don't shut me out
+Ooh let me in once more
+Open up
+(your arms I need to hold you)
+Open up
+(your heart, oh girl I love you)
+Baby
+(don't you know)
+Baby
+(don't you go)
+Think it over and stay
+
+
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: pride---passion-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/pridepassion.html
 name: Pride & Passion
 rankings:
 - end_date: '1989-08-04'
@@ -36,4 +37,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
 ---
+
+I don't run for the money honey
+It don't mean a thing
+and the power and the glory
+never ever made a man a king
+and I don't need to ride
+in a long black limousine
+I don't even need to see my picture
+On the cover of a magazine
+
+I just need a little satisfaction
+And it hits me like a chain reaction
+Talkin' bout the pride and passion
+And the thrill of it all
+Talkin' bout the pride and passion
+And the thrill of it all
+
+I don't need to read my name
+All over the front page news
+Better save your ink, mister
+'cause I ain't got no use
+
+maybe you could say that I'm
+that I'm just another prisoner of love
+it's the only thing I know for sure
+to help me rise above
+
+I just need a little satisfaction
+And it hits me like a chain reaction
+Talkin' bout the pride and passion
+And the thrill of it all
+Talkin' bout the pride and passion
+And the thrill of it all
+
+And it burns like a fire
+And I feel it take me higher
+It gets down under my skin
+Makes me wanna give that wheel a spin
+
+I just need a little satisfaction
+And it hits me like a chain reaction
+Talkin' bout the pride and passion
+And the thrill of it all
+Talkin' bout the pride and passion
+And the thrill of it all
+
+Talkin' bout the pride and passion
+And the thrill of it all
+Talkin' bout the pride and passion
+And the thrill of it all
+
+
 

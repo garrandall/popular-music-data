@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreaker-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/heartbreaker.html
 name: Heartbreaker
 rankings:
 - end_date: '1979-12-28'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
 ---
+
+Your love is like a tidal wave, spinning over my head
+Drownin' me in your promises, better left unsaid
+You're the right kind of sinner to release my inner fantasy
+The invincible winner and you know that you were born to be
+
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+You're a heartbreaker, dream maker, love taker
+Don't you mess around, no, no, no
+
+Your love has set my soul on fire, burnin' out of control
+You taught me the ways of desire, now it's takin' its toll
+You're the right kind of sinner to release my inner fantasy
+The invincible winner and you know that you were born to be
+
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+You're a heartbreaker, dream maker, love taker
+Don't you mess around, no, no, no
+
+You're the right kind of sinner to release my inner fantasy
+The invincible winner and you know that you were born to be
+
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+You're a heartbreaker, dream maker, love taker
+Heartbreaker
+
+
 

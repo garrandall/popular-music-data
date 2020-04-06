@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-number-away-luke-combs
+lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/onenumberaway.html
 name: One Number Away
 rankings:
 - end_date: '2018-04-06'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
 ---
+
+Are you sitting at home all alone trying to fall asleep?
+Are you staring a hole through your phone praying that it rings?
+Are you watching a movie that you've seen a thousand times?
+Maybe playing some Mayer getting lost in your favorite lines?
+
+Well, if you're anything like me
+You just might be doing whatever it takes to drown out the noise
+But I just wanna hear your voice
+
+I'm one number away from calling to you
+I said I was through, but I'm dying, inside
+Got my head in a mess, girl I confess
+I lied when I said, "I'm leaving and not coming back"
+Might be the whiskey or the midnight rain
+But everywhere I go I see your face
+In my brain, dialing up, everything I want to say
+But I'm still one number away
+
+Are you stuck at a red light with a Marlboro Light on your lips?
+Does the smoke in your mirror get clearer without my kiss?
+Are you changing the station replacing our favorite song?
+Maybe it's a mistake, hit the brakes, on the moving on
+
+Well, if you're anything like me
+You just might be doing whatever it takes to outrun the storm
+But I'm almost out that door
+
+And I'm one number away from calling you
+I said I was through, but I'm dying, inside
+Got my head in a mess, girl, I confess
+I lied when I said, "I'm leaving and not coming back"
+Might be the whiskey or the midnight rain
+But everywhere I go I see your face
+In my brain, dialing up, everything I want to say
+But I'm still one number away
+
+Will you pick up when I call?
+Or just forget we loved at all?
+We don't have to talk, I just wanna hear your voice
+
+And I'm one number away from calling you
+I said I was through, but I'm dying, inside
+Got my head in a mess, girl, I confess
+I lied when I said, "I'm leaving and not coming back"
+Might be the whiskey or the midnight rain
+But everywhere I go I see your face
+In my brain, dialing up, every thing I want to say
+But I'm still one number away
+Away
+Away
+Yeah, I'm still one number away
+
+
 

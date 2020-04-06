@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-certain-smile-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/acertainsmile.html
 name: A Certain Smile
 rankings:
 - end_date: '1958-08-10'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
 ---
+
+A certain smile, a certain face
+Can lead an unsuspecting heart
+On a merry chase
+Afleeting glance can say 
+So many lovely things
+Suddenly you know why my heart sings
+
+You love awhile and when love goes
+You try to hide the tears inside
+With a cheerful pose
+
+But in the hush of night
+Exactly like a bitter sweet refrain
+Comes that certain smile
+To haunt your heart again
+
+
 

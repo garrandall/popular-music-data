@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-columbus-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/goodbyecolumbus.html
 name: Goodbye Columbus
 rankings:
 - end_date: '1969-03-21'
@@ -51,4 +52,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
 ---
+
+Got to say hello
+It's a lucky day
+Kiss the moon goodbye
+And be on our way
+
+It's a lucky day
+Cause I found you
+Gonna build a
+New world around you
+Touch the sun and run
+It's a lucky day
+
+Hello life
+Goodbye Columbus
+I've got a feeling that
+You're gonna hear from us
+You're gonna know
+That we've taken
+The world by surprise
+Got that look in our eyes
+It's a lucky day
+
+Just for changing
+Leaving the old world behind
+Lucky day for walking a new road
+Just to clear your mind
+
+It's a day for starting a new way
+Telling the old one goodbye
+Lucky day for getting above it
+Spread your wings and fly
+
+Hello life
+Goodbye Columbus
+I've got a feeling that
+You're gonna hear from us
+You're gonna know
+That we've taken
+The world by surprise
+Got that look in our eyes
+It's a lucky day
+
+Hello life
+Goodbye Columbus
+I've got a feeling that
+You're gonna hear from us
+You're gonna know
+That we've taken
+The world by surprise
+Got that look in our eyes
+It's a lucky day
+
+Yeah, yeah...
+Goodbye, goodbye Columbus
+Goodbye, goodbye Columbus...
+
+
 

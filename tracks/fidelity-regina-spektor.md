@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fidelity-regina-spektor
+lyrics_url: https://www.azlyrics.com/lyrics/reginaspektor/fidelity.html
 name: Fidelity
 rankings:
 - end_date: '2007-01-05'
@@ -59,4 +60,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
 ---
+
+(Shake it up)
+
+I never loved nobody fully
+Always one foot on the ground
+And by protecting my heart truly
+I got lost in the sounds
+I hear in my mind
+All these voices
+I hear in my mind all these words
+I hear in my mind all this music
+
+And it breaks my heart
+And it breaks my heart
+And it breaks my heart
+It breaks my heart
+
+And suppose I never ever met you
+Suppose we never fell in love
+Suppose I never ever let you kiss me so sweet and so soft
+Suppose I never ever saw you
+Suppose we never ever called
+Suppose I kept on singing love songs just to break my own fall
+Just to break my fall
+Just to break my fall
+Just to break my fall
+Break my fall
+Break my fall
+
+All my friends say that of course it's gonna get better
+Gonna get better
+Better better better better
+Better better better
+
+I never love nobody fully
+Always one foot on the ground
+And by protecting my heart truly
+I got lost
+In the sounds
+I hear in my mind
+All these voices
+I hear in my mind all these words
+I hear in my mind
+All this music
+And it breaks my heart
+It breaks my heart
+
+I hear in my mind all of these voices
+I hear in my mind all of these words
+I hear in my mind all of this music
+
+Breaks my
+Heart
+Breaks my heart
+
+
 

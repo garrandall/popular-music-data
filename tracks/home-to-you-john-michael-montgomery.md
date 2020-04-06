@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: home-to-you-john-michael-montgomery
+lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/hometoyou.html
 name: Home To You
 rankings:
 - end_date: '1999-10-08'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
 ---
+
+I get up and battle the day 
+Things don't always go my way 
+It might rain but that's okay 
+I get to come home to you 
+Sometimes life may get me down 
+And I get tired of getting kicked around 
+I feel lost in this maddening crowd 
+But I get to come home to you 
+
+You are my best friend 
+And you are where my heart is 
+And I know at the day's end 
+I get to come home to you 
+
+Hanging out in our old sweatshirts 
+You let me complain about a hard day's work 
+I don't know what I did to deserve 
+To get to come home to you 
+
+You are my best friend 
+And you are where my heart is 
+And I know at the day's end 
+I get to come home to you 
+
+You are my best friend 
+And you are where my heart is 
+And I know at the day's end 
+I get to come home to you 
+
+Yes I get to come home to you 
+Oh I love coming home to you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drift---die-puddle-of-mudd
+lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/driftanddie.html
 name: Drift & Die
 rankings:
 - end_date: '2002-05-31'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
 ---
+
+Forgotten thoughts of yesterdays
+Through my eyes, I see the past
+Well I don't know, I don't know, I don't know why
+
+I believe, I believe, I believe in the truth
+From inside
+Go away, go away, go away from me
+Leave me alone
+
+Ignorance spreads lies
+How much will money buy
+Well I'll take my time
+As I drift and die
+
+Unwanted, live my life in shame
+Who's to blame for my mistakes
+Well I don't know, I don't know, I don't know why
+
+I believe I said I believe in the truth
+From inside
+Go away, go away, go away from me
+Leave me alone
+
+Ignorance spreads lies
+How much will money buy
+Well I'll take my time
+As I drift and die
+As I drift and die
+As I drift and die
+As I drift and die
+
+Ignorance spreads lies
+How much will money buy
+Well I'll take my time
+As I drift and die
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: linda-on-my-mind-conway-twitty
+lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/lindaonmymind.html
 name: Linda On My Mind
 rankings:
 - end_date: '1975-02-28'
@@ -39,4 +40,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
 ---
+
+Now I'm lying here with Linda on my mind
+And next to me my soon to be the one I left behind
+And Lord it's killing me to see her cryin'
+She know I'm lying here beside her with Linda on my mind
+Yes I know that I once loved her and I place no one above her
+And I never thought I'd ever set her free
+But it just wasn't in my plans the way Linda squeezed my hand
+The first time that I held her close as she danced with me
+She said I've loved you for such a long time but you're married to a friend of mine
+And I try hard to never let it show
+But my love for you is stronger and I can't hide it any longer
+And so I thought I'd better let you know
+Now I'm lying here with Linda on my mind...
+
+
 

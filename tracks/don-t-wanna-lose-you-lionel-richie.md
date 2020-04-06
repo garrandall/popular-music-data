@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-wanna-lose-you-lionel-richie
+lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/forever76474.html
 name: Don't Wanna Lose You
 rankings:
 - end_date: '1996-04-19'
@@ -67,4 +68,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
 ---
+
+Forever and ever and ever..forever girl 
+
+Don't know why we had a argument 
+All I know is that my baby left 
+Now I'm looking at her photograph 
+Thinking about all the time we spend 
+And I cant even be can you stop 
+You are not here that tears me apart 
+But you gotta know that I need you 
+Girl I dont know else to go too (Girl I'm lost and dont know else to go too) 
+I need you babe 
+
+Girl I missing you 
+Need you in my life 
+Cuz I finally be love 
+For a long time 
+Even if youre gone 
+Youll be on my mind 
+Forever and ever and ever..forever girl 
+
+I dont wanna hate yall no more 
+Tell me why I'm go fore 
+If you been in love (promise that) 
+And I dont wanna see you with another man 
+This is crazy 
+All you gotta do is come back 
+Baby if you are the world that I gent that 
+You now that I need you (need you) 
+Please tell me what I need to do (Tell me what I need to do ) 
+Ooooooh I'm so tired to be without you oOOOHOEOH 
+
+Girl I missing you 
+Need you in my life 
+Cuz I finally be in love 
+For a long time 
+Even if youre gone 
+Youll be on my mind 
+Forever (forever and ever and never) and ever and ever..forever girl 
+
+Why gotta keep going true changes 
+Youre the reason that I breath 
+Every girl for me is nothing but a stranger 
+Girl I know youre the one for me 
+Tell me what I am be without your love 
+To be your friend is not enough (oehoe) uhhu 
+Come back to me girl 
+You forever You forever fooooo 
+
+Girl I missing you 
+Need you in my life 
+Cuz I finally be in love 
+For a long time 
+Even if youre gone (if youre gone) 
+Youll be on my mind 
+Forever (forever and ever heee) and ever and ever..forever girl 
+
+Girl I missing you 
+Need you in my life (in my life) 
+Cuz I finally be in love 
+For a long time 
+Even if youre gone (if youre gone) 
+Youll be on my mind youll be on my mind) 
+Forever and (Forever and ever fooorever) ever and ever..forever girl
+
+
 

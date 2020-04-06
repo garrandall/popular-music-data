@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy--mudvayne
+lyrics_url: https://www.azlyrics.com/lyrics/mudvayne/happy.html
 name: Happy?
 rankings:
 - end_date: '2005-05-06'
@@ -23,4 +24,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
 ---
+
+In this hole
+That is me
+The dead are rolling over
+In this hole
+Thickening
+Dirt shoveled over shoulders
+
+I feel it in me
+So overwhelmed
+Oh, this pressured center rising
+My life overturned
+Unfair the despair
+All these scars keep ripping open
+
+Peel me from the skin
+Tear me from the rind
+Does it make you happy now?
+
+Tear meat from the bone
+Tear me from myself
+Are you feeling happy now?
+
+In this hole
+That is me
+A life that's growing feeble
+In this hole
+So limiting
+The sun has set; all darkens
+
+Buried underneath
+Hands slip off the wheel
+Internal path-way to contention
+
+Peel me from the skin
+Tear me from the rind
+Does it make you happy now?
+
+Tear meat from the bone
+Tear me from myself
+Are you feeling happy now?
+
+Are you
+HAPPY?
+
+Are you
+HAPPY?
+
+Are you feeling happy?
+
+In this hole
+That is me
+Left with a heart exhausted
+What's my release??
+What sets me free?
+Do you pull me up just to push me down again?
+
+Peel me from the skin
+Tear me from the rind
+Does it make you happy now?
+
+Tear meat from the bone
+Tear me from myself
+Are you feeling happy?
+
+Peel me from the skiiiiiiiiiin
+Peel me from the skiiiiiiiiiin
+Tear me from the rind
+Does it make you happy now?
+
+Tear me from the boooooooooone
+Tear me from the boooooooooone
+Tear me from myself
+Are you feeling happy?
+
+Does it make you happy?
+Are you feeling happy?
+Are you fucking happy?
+Now that I'm lost left with nothing
+
+Does it make you happy?
+Are you feeling happy?
+Are you fucking happy?
+Now that I'm lost left with nothing
+
+
 

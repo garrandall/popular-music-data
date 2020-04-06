@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: not-so-sweet-martha-lorraine-country-joe-the-fish
+lyrics_url: https://www.azlyrics.com/lyrics/nelliemckay/notsosweetmarthalorraine.html
 name: Not So Sweet Martha Lorraine
 rankings:
 - end_date: '1967-08-11'
@@ -16,4 +17,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+
+She hides in an attic concealed on a shelf
+Behind volumes of literature based on herself
+And runs across the pages like some tiny elf
+Knowing that it's hard to find
+Stuff way back in her mind
+Winds up spending all of her time
+Trying to memorize every line
+Sweet Lorraine
+Ah, sweet Lorraine
+
+Sweet lady of death wants me to die
+So she can come sit by my bedside and sigh
+And wipe away tears from all my friends' eyes
+Then softly, she will explain
+Just exactly who's to blame
+For causing me to go insane
+And finally blow out my brain
+Sweet Lorraine
+Mmm, sweet Lorraine
+
+Well, you know that it's a shame and a pity
+You were raised up in the city
+And you never
+Learned nothing 'bout country ways
+Ah, country ways
+
+The joy of life, she dresses in black
+With celestial secrets engraved on her back
+And her face keeps flushing, but she's got the knack
+But you know when you look into her eyes
+All she's learned, she's had to memorize
+And the only way you'll ever get her high
+Is to let her do her thing, and then watch you die
+Sweet Lorraine
+Ah, sweet Lorraine
+
+Now, she's the one who gives us all those magical things
+And reads us stories out of the I Ching
+And she passes out a whole new basket of rings
+That, when you put on your hand
+Makes you one of the angel band
+And gives you the power to be a man
+But what it does for her, you never quite understand
+Sweet Lorraine
+Ah, sweet Lorraine
+
+Well, you know
+That it's a shame and a pity
+You were raised
+Up in the city
+And you never
+Learned nothing 'bout country ways
+Oh, country ways
+Oh, 'bout country ways
+Yeah, country ways
+Oh, country ways
+
+
 

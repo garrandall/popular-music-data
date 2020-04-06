@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steamy-windows-tina-turner
+lyrics_url: https://www.azlyrics.com/lyrics/johnanderson/steamywindows.html
 name: Steamy Windows
 rankings:
 - end_date: '1989-12-01'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
 ---
+
+I was thinking about parking the other night
+We was out on a back road
+Me and my baby was just getting right
+All our systems on overload
+Radio blasting in the front seat
+Turning out the music fine
+We was snuggled up in the back seat
+Making up for lost time
+
+Steamy windows
+Zero visibility
+Steamy windows
+Coming from the body heat
+
+You can wine and dine with a man all night
+With good intent
+But there is something about
+a confrontation on a back road
+Breaks down the defense
+
+Steamy windows
+Zero visibility
+Steamy windows
+Coming from the body heat
+
+Steamy windows
+Ain't nobody can see
+Steamy windows
+Coming from the body heat
+
+There's a sound outside the front door
+And I know that's just the wind
+And it makes him snuggle up
+just a little bit closer
+And start things happening again
+
+Steamy windows
+Ain't nobody can see
+Steamy windows
+Coming from the body heat
+
+Steamy windows
+Zero visibility
+Steamy windows
+Coming from the body heat
+
+Steamy windows
+Steamy windows
+Steamy windows...
+
+
 

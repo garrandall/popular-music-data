@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-vibrations-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/goodvibrations.html
 name: Good Vibrations
 rankings:
 - end_date: '1966-10-28'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+
+I-I love the colorful clothes she wears
+And the way the sunlight plays upon her hair
+I hear the sound of a gentle word
+On the wind that lifts her perfume through the air
+
+I'm pickin' up good vibrations
+She's giving me excitations (Oom bop bop)
+I'm pickin' up good vibrations (Good vibrations, oom bop bop)
+She's giving me excitations (Excitations, oom bop bop)
+Good, good, good, good vibrations (Oom bop bop)
+She's giving me excitations (Excitations, oom bop bop)
+Good, good, good, good vibrations (Oom bop bop)
+She's giving me excitations (Excitations)
+
+Close my eyes, she's somehow closer now
+Softly smile, I know she must be kind
+When I look in her eyes
+She goes with me to a blossom world
+
+I'm pickin' up good vibrations
+She's giving me excitations (Oom bop bop)
+I'm pickin' up good vibrations (Good vibrations, oom bop bop)
+She's giving me excitations (Excitations, oom bop bop)
+Good, good, good, good vibrations (Oom bop bop)
+She's giving me excitations (Excitations, oom bop bop)
+Good, good, good, good vibrations (Oom bop bop)
+She's giving me excitations (Excitations)
+
+(Ahh)
+(Ah, my my, what elation)
+I don't know where but she sends me there
+(Oh, my my, what a sensation)
+(Oh, my my, what elation)
+(Oh, my my, what)
+
+Gotta keep those lovin' good vibrations a-happenin' with her
+Gotta keep those lovin' good vibrations a-happenin' with her
+Gotta keep those lovin' good vibrations a-happenin'
+
+(Ahh)
+
+Good, good, good, good vibrations (Oom bop bop)
+(I'm pickin' up good vibrations) (Oom bop bop)
+She's giving me excitations (Excitations, oom bop bop)
+Good, good, good, good vibrations
+
+Na na na na na, na na na
+Na na na na na, na na na (Bop bop-bop-bop-bop, bop)
+Do do do do do, do do do (Bop bop-bop-bop-bop, bop)
+Do do do do do, do do do (Bop bop-bop-bop-bop, bop)
+
+
 

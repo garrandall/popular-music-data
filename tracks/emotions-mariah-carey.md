@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotions-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/emotions.html
 name: Emotions
 rankings:
 - end_date: '1991-09-06'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
 ---
+
+
+You've got me feeling emotions
+Deeper than I've ever dreamed of
+You've got me feeling emotions
+Higher than the heavens above
+
+I feel good
+I feel nice
+I've never felt so
+Satisfied
+I'm in love
+I'm alive
+Intoxicated
+Flying high
+It feels like a dream
+When you touch me tenderly
+I don't know if it's real
+But I like the way I feel
+Inside
+
+
+
+In the morning
+When I rise
+You are the first thing
+On my mind
+And in the middle
+Of the night
+I feel your heartbeat
+Next to mine
+It feels like a dream
+When you love me tenderly
+I don't know if you're for real
+But I like the way I feel
+Inside
+
+
+
+You know the way to make me lose control
+When you're looking into my eyes
+You make me feel so
+High
+
+
+
+
 

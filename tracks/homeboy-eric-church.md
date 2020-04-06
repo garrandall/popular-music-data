@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: homeboy-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/homeboy.html
 name: Homeboy
 rankings:
 - end_date: '2011-04-01'
@@ -91,4 +92,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
 ---
+
+You were too bad for a little square town
+With your hip-hop hat and your pants on the ground
+Heard you cussed out mamma, pushed daddy around
+You tore off in his car
+Here you are runnin' these dirty old streets
+Tattoo on your neck, fake gold on your teeth
+Got the hood here snow, but you cant fool me, we both know who you are
+
+
+Homeboy your gonna wish one day you were sittin' on the gate of a truck by the lake
+With your high school flame on one side, ice cold beer on the other
+Ain't no shame in a blue collar forty, little house little kids little small town story
+If you don't ever do anything else for me just do this for me brother, come on homeboy
+
+I's haulin' this hay, Uncle Joe's farm
+Thought of us bare foot kids in the yard
+Man it seems we were just catchin' snakes in the barn
+Now you're caught up in this mess
+I can use a little help unloadin' these bales
+I can keep ya pretty busy with a hammer and a nail
+Ain't a glamorous life, but it'll keep you outta jail
+And not worry us all to death
+
+
+
+You can't hold back the hands of time
+Mamas goin' grey and so is Daddy's mind
+I wish you'd come on back and make it alright
+Before they're called...homeboy
+
+Homeboy
+Come on homeboy
+Homeboy
+Come on homeboy
+
+
 

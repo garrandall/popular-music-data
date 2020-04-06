@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-a-man-loves-a-woman-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/whenamanlovesawoman.html
 name: When A Man Loves A Woman
 rankings:
 - end_date: '1991-10-18'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
 ---
+
+When a man loves a woman
+Can't keep his mind on nothin' else
+He'd trade the world
+For a good thing he's found
+If she is bad, he can't see it
+She can do no wrong
+Turn his back on his best friend
+If he puts her down
+
+When a man loves a woman
+Spend his very last dime
+Trying to hold on to what he needs
+He'd give up all his comforts
+And sleep out in the rain
+If she said that's the way
+It ought to be
+
+When a man loves a woman
+I give you everything I got (yeah)
+Trying to hold on
+To your precious love
+Baby please don't treat me bad
+
+When a man loves a woman
+Deep down in his soul
+She can bring him such misery
+If she is playing him for a fool
+He's the last one to know
+Loving eyes can never see
+
+Yes when a man loves a woman
+I know exactly how he feels
+'Cause baby, baby, baby
+I am a man
+When a man loves a woman
+
+
 

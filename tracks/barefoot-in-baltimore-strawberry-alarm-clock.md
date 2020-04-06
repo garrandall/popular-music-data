@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barefoot-in-baltimore-strawberry-alarm-clock
+lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/barefootinbaltimore.html
 name: Barefoot In Baltimore
 rankings:
 - end_date: '1968-09-06'
@@ -23,4 +24,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
+
+Barefoot in Baltimore
+Heel and toe with you
+
+Summer turns the stove on
+And fun begins to cook
+Barefoot walks in Baltimore
+With empty pocketbook
+Laugh at sizzling sidewalks
+Don't step on the cracks
+Old folks try to catch their breath
+As children catch their jacks
+
+Barefoot in Baltimore
+Heel and toe with you
+
+Baltimore is music
+Dancing in the street
+Half-chewed Dubble Bubble
+Tugging at our feet
+Melted tar in crosswalks
+Crab shells in the park
+Pavement frying our poor toes
+Until long after dark
+
+Barefoot in Baltimore
+Heel and toe with you
+
+When night comes we can go walking
+On the shores of Chesapeake Bay
+A silence tailored for talking
+And a love with so much to say
+
+Barefoot in Baltimore
+Heel and toe with you
+
+
 

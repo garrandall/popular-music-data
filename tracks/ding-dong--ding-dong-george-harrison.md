@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ding-dong--ding-dong-george-harrison
+lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/dingdongdingdong.html
 name: Ding Dong; Ding Dong
 rankings:
 - end_date: '1975-01-17'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
 ---
+
+Ring out the old
+Ring in the new
+Ring out the old
+Ring in the new
+
+Ring out the false
+Ring in the true
+Ring out the old
+Ring in the new
+
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+
+Yesterday, today was tomorrow
+And tomorrow, today will be yesterday
+So ring out the old
+Ring in the new
+Ring out the old
+Ring in the new
+
+Ring out the false
+Ring in the true
+Ring out the old
+Ring in the new
+
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+Ding-dong, ding-dong
+
+
 

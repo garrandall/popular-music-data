@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hillbilly-deluxe-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/hillbillydeluxe.html
 name: Hillbilly Deluxe
 rankings:
 - end_date: '2007-02-16'
@@ -44,4 +45,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
 ---
+
+Hey, up in the backwoods, down in the holler,
+Old boys feelin' like a dog on a collar,
+Keepin' that chain pulled tight,
+Waitin' on Saturday night.
+
+Put on the smell-good, put on Skynard,
+Head into to town like a NASCAR winner.
+Cruisin' back an' forth to the Tasty-Freeze.
+Everywhere you look, all you see...
+
+Is hillbilly deluxe, slick pick-up trucks.
+Big timin' in a small town.
+Stirrin' it up right about sundown.
+Black denim an' chrome to the bone with a little home grown.
+A country girl cuddled up...
+Hillbilly deluxe.
+
+Yeah, couple cute sweet things drivin' a fastback.
+Shoot 'em a cool smile hopin' that they smile back.
+"Hey, Baby, what's you name?"
+Burn a little rubber when the red lights change.
+
+Here come the blue lights, here come Barney.
+Hide all the beer, y'all, let's move the party.
+Gotta go, but that's all right...
+Do it all again next Friday night.
+
+Hillbilly deluxe, slick pick-'em-up trucks.
+Big timin' in a small town.
+Stirrin' it up right about sundown.
+Black denim an' chrome to the bone with a little home grown.
+Country girl cuddled up...
+Hillbilly deluxe.
+
+
+
+Hillbilly deluxe, slick pick-'em-up trucks.
+Big timin' in a small town.
+Stirrin' it up right about sundown.
+Black denim an' chrome to the bone with a little home grown.
+Country girl cuddled up...
+Hillbilly deluxe.
+Hillbilly deluxe.
+Hillbilly deluxe.
+
+
+
+
 

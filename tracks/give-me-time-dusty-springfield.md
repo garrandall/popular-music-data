@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-me-time-dusty-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/givemetime.html
 name: Give Me Time
 rankings:
 - end_date: '1967-07-07'
@@ -23,4 +24,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
+
+If you'll only give me time
+All the heartache that he left behind
+Will fade from my mind
+I'll be free to love again
+
+If you'll only give me time
+I'll forget I even knew his name
+Forget that he came
+I'll be no good till I can
+Try to understand
+But when I'm sure I need him no more
+That's when I'll reach out for your hand
+
+So darling give me time
+And you will see that I'm 
+Ready to love you
+Just as you love me
+Wait awhile
+'Til I can find my smile
+And I'll be yours for as long as I live
+If you'll only give me time, yeah
+
+So darling give me time
+And you will see that I'm 
+Ready to love you
+Just as you love me, oh
+Wait awhile
+'Til I can find my smile
+And I'll be yours for as long as I live
+If you'll only give me time
+
+
 

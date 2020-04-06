@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-people-the-temptations
+lyrics_url: https://www.azlyrics.com/lyrics/temptations/happypeople.html
 name: Happy People
 rankings:
 - end_date: '1974-12-27'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
 ---
+
+Get up
+Everybody
+Happy people (I'm feeling good) are we (Well)
+Happy people are we
+
+Throw away your lifelong pain and follow
+Yeah, ha
+I'll take you to a land of peace and a new tomorrow
+Hey, hey
+
+Brothers, (Well) sisters, come and take my hand. (Take my hand.)
+I will take you to a better land
+Sunshine, laughter, love is all you bring
+Start off a new day and here's the song we'll sing
+
+Happy (Happy) people are we
+Well, well, well, well
+Happy (Happy) people (Happy people) are we
+Hey, hey. Listen, children now
+
+Don't believe in this troubled world
+We can get higher, higher (Higher)
+Come along and I'll take you there
+Hey, dum, dum, dum, now
+
+People, my people, let's party and get down
+Life is for living, now let's not mess around
+Dance to the music, (Uh huh) throw your cares away (Yeah, yeah, yeah)
+Pizza, soda, hold them in your hand (Hey, hey, hey, hey)
+
+Happy (Happy) people are we
+Everybody happy, happy
+Happy people are we
+
+Happy
+Happy
+You can make the whole party happy
+Everybody's got to be
+Happy
+Everybody wants to be
+Happy
+Brothers, sisters got to be happy
+Happy
+Mothers, fathers want to be happy
+Happy
+Everybody got to be
+
+Happy (Happy) people are we
+Get on up, get on up. Let me hear you
+Happy (Happy) people (Yeah) are we
+(Happy, happy)
+
+Get up, get up
+I'm in the mood, yeah
+Everybody
+Happy
+Happy
+Well, well, well, well
+Happy
+Dum, dum, dum, dum. Dum, dum, dum, dum, dum, dum, dum
+(Happy) Hey, everybody wants to be
+Happy
+Get on up, get on up, let's hear it
+Happy
+Get on up, get on up, let's hear it
+Happy
+Well, well, well, well
+
+
 

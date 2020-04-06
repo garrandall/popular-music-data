@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/withoutyou.html
 name: Without You
 rankings:
 - end_date: '2000-10-13'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-17'
 ---
+
+I've sure enjoyed the rain
+but I'm looking forward to the sun
+You have to feel the pain
+when you lose the love you gave someone
+I thought by now the time
+would take away these lonely tears
+I hope you're doing fine all alone,
+but where do I go from here 'cause
+
+Without you I'm not okay
+And without you
+I've lost my way
+My heart's stuck
+in second place ooh
+Without you
+
+Well I never thought I'd be
+lying here without you by my side
+It seems unreal to me that
+the life you promised was a lie
+You made it look so easy
+making love into memories
+I guess you got what you wanted
+but what about me 'cause
+
+Without you I'm not okay
+And without you
+I've lost my way
+My heart's stuck
+in second place ooh
+Without you
+
+Somebody tell my head to try to tell my heart
+That I'm better off without you
+'Cause baby I can't live
+
+Without you I'm not okay
+And without you
+I've lost my way
+My heart's stuck
+in second place ooh
+Without you...Without you
+
+
 

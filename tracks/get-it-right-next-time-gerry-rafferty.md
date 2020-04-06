@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-it-right-next-time-gerry-rafferty
+lyrics_url: https://www.azlyrics.com/lyrics/gerryrafferty/getitrightnexttime.html
 name: Get It Right Next Time
 rankings:
 - end_date: '1979-08-17'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
 ---
+
+Out on the street I was talkin' to a man
+He said "there's so much of this life of mine that I don't understand"
+You shouldn't worry, I said, that ain't no crime
+Cause if you get it wrong you'll get it right next time (next time)
+
+You need direction, yeah you need a name
+When you're standing in the crossroads every highway looks the same
+After awhile you get to recognize the signs
+So if you get it wrong you'll get it right next time (next time)
+
+Life is a liar yeah life is a cheat
+It'll lead you on and pull the ground from underneath your feet
+No use complainin', don't you worry, don't you whine
+Cause if you get it wrong you'll get it right next time (next time)
+
+You gotta grow, you gotta learn by your mistakes
+You gotta die a little everyday just to try to stay awake
+When you believe there's no mountain you can climb
+And if you get it wrong you'll get it right next time (next time)
+
+Next time, hmmmmm
+
+
 

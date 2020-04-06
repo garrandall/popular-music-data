@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-here--departed--brandy
+lyrics_url: https://www.azlyrics.com/lyrics/brandy/rightheredeparted.html
 name: Right Here (Departed)
 rankings:
 - end_date: '2008-10-03'
@@ -79,4 +80,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
 ---
+
+When you feel your heart's guarded
+And you see the break's started
+And when the clouds have all departed
+You'll be right here with me
+
+
+B-Tock
+Darkchild
+We back
+You'll be right here with me
+
+You'll be right here with me
+You'll be right here with me
+
+When your life is going too fast
+Off the train tracks
+I can slow it down
+Just when you think you're 'bout to turn back
+Scared you might crash
+I'll be your ground
+
+When you feel your heart's guarded
+And you see the break's started
+And when the clouds above departed
+You'll be right here with me
+
+When your tears have dried from crying
+And when the world has turned silent
+So when the clouds above departed
+You will be right here with me
+
+I will be right here with you
+You'll be right here with me
+I will be right here with you
+You'll be right here with me
+
+When you're trapped and there's just no key
+And you can't breathe
+I breathe for you
+The fire's got you down on both knees
+And the walls are closing in but I ll be breaking through
+And when you feel alone
+I'mma be your home
+When others come and go
+You know I got you
+
+When you feel your heart's guarded
+And you see the break's started
+When the clouds above departed
+You'll be right here with me
+(You'll see the sun)
+
+When your tears have dried from crying, crying
+And the world has turned to silent, silent
+When the clouds above departed
+You will be right here with me
+
+I will be here right beside you
+Every step you take
+I will be your strength your shelter
+Shield you from the rain
+
+When you feel
+When you feel your heart's guarded
+And you see the break's started
+And when the clouds above departed
+You'll be right here with me (right here)
+
+When your tears have dried from crying
+And the world has turned to silent
+So when the clouds above departed
+You will be right here with me
+
+When you feel your heart's guarded
+And you see the break's started
+And when the clouds above departed
+You'll be right here with me
+
+When your tears have dried from crying
+And the world has turned to silent
+So when the clouds above departed
+You will be right here with me
+
+I will be right here with you
+You'll be right here with me
+I will be right here with you
+You'll be right here with me
+I will be right here with you
+You'll be right here with me
+I will be right here with you
+You'll be right here with me
+
+
 

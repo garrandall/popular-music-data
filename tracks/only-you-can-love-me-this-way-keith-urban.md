@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-you-can-love-me-this-way-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/onlyyoucanlovemethisway.html
 name: Only You Can Love Me This Way
 rankings:
 - end_date: '2009-04-17'
@@ -83,4 +84,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
 ---
+
+Well I know there's a reason 
+And I know there's a rhyme 
+We were meant to be together 
+That's why ... 
+We can roll with the punches 
+We can stroll hand in hand 
+And when I say it's forever 
+You understand ... 
+
+That you're always in my heart, 
+You're always on my mind 
+But when it all becomes too much, 
+You're never far behind 
+And there's no one that comes close to you 
+Could ever take your place 
+Cause only you can love me this way 
+
+I could have turned a different corner 
+I could have gone another place 
+Then I'd of never had this feeling 
+That I feel today, yeah.. 
+
+And you're always in my heart, 
+Always on my mind 
+When it all becomes too much, 
+You're never far behind 
+And there's no one that comes close to you 
+Could ever take your place 
+Cause only you can love me this way 
+
+Ooooh... 
+
+And you're always in my heart, 
+You're always on my mind 
+And when it all becomes too much, 
+you're never far behind 
+And there's no one that comes close to you 
+Could ever take your place 
+Cause only you can love me this way 
+
+Ooooh... 
+
+Only you can love me this way.
+
+
 

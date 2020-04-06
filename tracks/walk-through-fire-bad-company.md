@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-through-fire-bad-company
+lyrics_url: https://www.azlyrics.com/lyrics/badcompany/walkthroughfire.html
 name: Walk Through Fire
 rankings:
 - end_date: '1991-08-30'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
 ---
+
+I used to see those red tail lights, heading for another town
+And wish that I was on my way
+Looking back on these summer nights, wasting time, fooling 'round
+And there was nothing here to make me stay
+
+But that night I met you, the night you came through made me realise
+There's no way I can leave, you made me believe
+And now when I look in your eyes
+
+
+I could walk through fire, I can feel it burning
+And I could walk through fire, (to get) right back to you
+And as the flames get higher, you know I'll get stronger
+Baby I could walk through fire
+
+It's crazy how these things work out, I used to think I had no chance
+And I somehow thought you'd slip away
+You pulled me through the fear and doubt, gave me all I'm looking for
+Everything I needed to stay
+
+How could something so good, something so simple, get serious
+How could someone so right come into my life, and now I just want you to know
+
+
+
+And I would go anywhere, I would do anything, I do what you want me to
+You know that I would, I want you to know this, whenever you need me
+Ooh wherever you are, no matter how far, you know I'll be coming for you
+
+
+
+Baby I could walk through fire, right back to you
+And I could walk through fire, and I could walk through fire
+And I could walk through fire, right back to you, yeah
+
+
 

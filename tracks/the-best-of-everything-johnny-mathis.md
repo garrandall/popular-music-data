@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-best-of-everything-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/thebestofeverything.html
 name: The Best Of Everything
 rankings:
 - end_date: '1959-11-22'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
 ---
+
+We've proven romance is still
+The best of everything
+That sudden thrill
+The best of everything
+
+That one little sigh is treasure
+You cannot buy or measure
+By any test
+The best of everything
+
+You found the moon and the sun
+Yes, he is the one, it seems
+But soon it's done
+And not the fun it seems
+
+You walk through the night just groping
+It's still alright, you're hoping
+Love can be all or nothing
+But even when its nothing
+
+It's still the best
+The best of everything
+We've proven romance is still
+The best of everything
+
+
 

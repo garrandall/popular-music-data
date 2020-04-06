@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-carl-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/carlthomas/iwish.html
 name: I Wish
 rankings:
 - end_date: '2000-03-31'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
 ---
+
+It was love at first sight
+I know from the way she looked at me
+Her eyes said it all
+Long days and nights, we spent
+Until she dropped the bomb on me
+When she said that she
+Was unhappily married with children
+
+
+And I wish I never met her at all
+Even though I love her so
+She got love from me
+But she still belongs to someone else
+
+It hurts so bad, for sure
+Because she wants to be with me
+But she cannot be with me
+She chose to stay, at home
+So they could be a family
+For the children
+But what about me?
+
+
+
+Maybe in another life
+Things could be the way we both desired
+It's a catch-22
+Either way it hurts
+Someone that you lose
+
+
+
+I wish I wish I never met her at all
+I wouldn't hurt so much inside
+Oh I wouldn't feel this pain
+If I never met her at all, at all, at all
+Wish I never, wish I never
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: would-i-lie-to-you--eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/wouldilietoyou.html
 name: Would I Lie To You?
 rankings:
 - end_date: '1985-05-03'
@@ -83,4 +84,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
 ---
+
+Would I lie to you?
+Would I lie to you honey?
+Now would I say something that wasn't true?
+I'm asking you sugar
+Would I lie to you?
+
+My friends - know what's in store.
+I won't be here anymore.
+I've packed my bags
+I've cleaned the floor.
+Watch me walkin'.
+Walkin' out the door.
+
+(Believe me - I'll make it make it)
+
+Tell you straight - no intervention.
+To your face - no deception.
+You're the biggest fake.
+That much is true.
+Had all I can take.
+Now I'm leaving you
+
+(Believe me - I'll make it make it)
+
+
+
+(Watch me - watch me! Ooh yea)
+
+
 

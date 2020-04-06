@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hungry-heart-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/hungryheart.html
 name: Hungry Heart
 rankings:
 - end_date: '1980-11-14'
@@ -79,4 +80,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
 ---
+
+Got a wife and kids in Baltimore, Jack
+I went out for a ride and I never went back
+Like a river that don't know where it's flowing
+I took a wrong turn and I just kept going
+
+
+Everybody's got a hungry heart
+Everybody's got a hungry heart
+Lay down your money and you play your part
+Everybody's got a hungry heart
+
+I met her in a Kingstown bar
+We fell in love. I knew it had to end
+We took what we had and we ripped it apart
+Now here I am down in Kingstown again
+
+
+
+Everybody needs a place to rest
+Everybody wants to have a home
+Don't make no difference what nobody says
+Ain't nobody like to be alone
+
+
+
+
 

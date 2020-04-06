@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: games-without-frontiers-peter-gabriel
+lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/gameswithoutfrontiers.html
 name: Games Without Frontiers
 rankings:
 - end_date: '1980-08-22'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
 ---
+
+Jeux sans frontiÃ¨res 
+
+Hans plays with Lotte, Lotte plays with Jane
+Jane plays with Willi, Willi is happy again
+Suki plays with Leo, Sacha plays with Britt
+Adolf builds a bonfire, Enrico plays with it
+
+Whistling tunes we hide in the dunes by the seaside
+Whistling tunes we're kissing baboons in the jungle
+
+It's a knockout
+
+
+If looks could kill,
+They probably will
+In games without frontiers
+War without tears
+
+Games without frontiers
+War without tears
+
+Jeux sans frontiÃ¨res 
+
+Andre has a red flag, Chiang Ching's is blue
+They all have hills to fly them on except for Lin Tai Yu
+Dressing up in costumes, playing silly games
+Hiding out in tree-tops shouting out rude names
+
+Whistling tunes we hide in the dunes by the seaside
+Whistling tunes we piss on the goons in the jungle
+
+It's a knockout
+
+
+If looks could kill,
+They probably will
+In games without frontiers
+War without tears
+
+Games without frontiers
+War without tears
+
+Jeux sans frontiÃ¨res
+
+
 

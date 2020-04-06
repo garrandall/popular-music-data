@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cruel-summer-bananarama
+lyrics_url: https://www.azlyrics.com/lyrics/bananarama/cruelsummer.html
 name: Cruel Summer
 rankings:
 - end_date: '1984-07-27'
@@ -79,4 +80,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
 ---
+
+Hot summer streets 
+And the pavements are burning 
+I sit around 
+
+Trying to smile 
+But the air is so heavy and dry
+
+Strange voices are saying 
+What did they say 
+Things I can't understand 
+It's too close for comfort 
+This heat has got right out of hand 
+
+It's a cruel, cruel summer 
+Leaving me here on my own 
+It's a cruel, cruel summer 
+Now you're gone 
+
+The city is crowded 
+My friends are away 
+And I'm on my own
+
+It's too hot to handle
+So I got to get up and go 
+
+It's a cruel, cruel summer 
+Leaving me here on my own 
+It's a cruel, 
+It's a cruel cruel summer 
+Now you're gone
+You're not the only one
+
+It's a cruel, cruel summer 
+Leaving me
+Leaving me here on my own 
+It's a cruel, 
+It's a cruel cruel summer 
+Now you're gone
+
+It's a cruel, cruel summer 
+Leaving me here on my own 
+It's a cruel, cruel summer 
+Now you're gone 
+You're not the only one
+
+It's a cruel, cruel summer 
+Leaving me
+Leaving me here on my own 
+It's a cruel, 
+It's a cruel cruel summer 
+Now you're gone
+You're not the only one
+
+
 

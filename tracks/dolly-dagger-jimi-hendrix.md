@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dolly-dagger-jimi-hendrix
+lyrics_url: https://www.azlyrics.com/lyrics/jimihendrix/dollydagger.html
 name: Dolly Dagger
 rankings:
 - end_date: '1971-10-29'
@@ -35,4 +36,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
 ---
+
+Here comes dolly dagger
+Her love's so heavy, gonna make you stagger.
+Dolly dagger, she drinks her blood from a jagged edge...
+Been riding broomsticks since she was fifteen
+Blow out all the other witches on the scene.
+She got a bull whip, just as long as your life.
+Her tongue can even scratch
+The soul out of the devil's wife.
+
+
 

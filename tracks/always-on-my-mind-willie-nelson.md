@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-on-my-mind-willie-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/willienelson/alwaysonmymind.html
 name: Always On My Mind
 rankings:
 - end_date: '1982-03-12'
@@ -99,4 +100,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
 ---
+
+Maybe I didn't love you
+Quite as often as I could have
+And maybe I didn't treat you
+Quite as good as I should have
+If I made you feel second best
+Girl I'm sorry I was blind
+
+You were always on my mind
+You were always on my mind
+
+And maybe I didn't hold you
+All those lonely, lonely times
+I guess I never told you
+I'm so happy that you're mine
+Little things I should have said and done
+I just never took the time
+
+But you were always on my mind
+You were always on my mind
+
+Tell me
+Tell me that your sweet love hasn't died
+And give me
+Give me one more chance
+To keep you satisfied
+I'll keep you satisfied
+
+
+
+Little things I should have said and done
+I just never took the time
+
+But you were always on my mind
+You were always on my mind
+You were always on my mind
+You were always on my mind
+
+
 

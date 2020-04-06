@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: lisa-listen-to-me-blood-sweat-tears
+lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/lisalistentome.html
 name: Lisa Listen To Me
 rankings:
 - end_date: '1971-11-05'
@@ -33,4 +34,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
 ---
+
+Once a girl I knew, all alone and unprepared.
+Everyone she knew, running scared.
+Then she found him or maybe he found her.
+His were gentle words she had never heard before.
+
+He said, "Lisa, listen to me,
+Don't you know where you belong?
+Darling, Lisa, you can tell me
+You've been silent for too long."
+
+Once another man took her on a younger day,
+All a young girl can do is pray.
+Then she found him or maybe he found her.
+His were gentle words she had never heard before.
+She had never heard before.
+
+He said, "Lisa, listen to me,
+Don't you know where you belong?
+Darling, Lisa, you can tell me...
+You've been silent for too long."
+
+He said, "Lisa, listen to me,
+Don't you know where you belong?
+Darling, Lisa, you can tell me...
+You've been silent for too long."
+
+Once a girl I knew, all alone and unprepared.
+Everyone she knew, running scared.
+Then she found him or maybe he found her.
+His were gentle words she had never heard before.
+She had never heard before
+
+
 

@@ -6,6 +6,7 @@ features:
 - Wiz Khalifa
 genres: []
 key: beat-it-sean-kingston-chris-brown-wiz-khalifa
+lyrics_url: https://www.azlyrics.com/lyrics/seankingston/beatit.html
 name: Beat It
 rankings:
 - end_date: '2013-05-10'
@@ -81,4 +82,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
 ---
+
+
+He ain't fly, no, he don't even drive, no
+That's why you're calling my phone, and won't leave me alone
+He ain't even fly though ,you ain't gotta lie no
+That's why you're calling my phone
+And you're wanting me to get, get, get it
+
+
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat it
+Beat, beat, beat it, beat, beat, beat it
+Not a problem, baby
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat
+Beat, beat, beat it, beat, beat, beat it
+Beat beat
+
+I've been out here looking for a girl like you
+You already settled down and loyal to your dude
+You got your eyes on me girl, he got his eyes on you
+My eyes are on this money and it's nothing he can do
+
+
+He ain't fly, no, he don't even drive, no
+That's why you're calling my phone, and won't leave me alone
+He ain't even fly though, you ain't gotta lie no
+That's why you're calling my phone
+And you're wanting me to get, get, get it
+
+
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat it
+Beat, beat, beat it, beat, beat, beat it
+Not a problem, baby
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat
+Beat, beat, beat it, beat, beat, beat it
+Beat beat
+
+
+You've been out here lookin' for a guy like me
+And I ain't never settled down just loyal to my team
+
+
+You got your eyes on me, and girl, I got my eyes on green
+Your nigga he so bummy, need to boost his self-esteem
+
+
+Cause he ain't fly, no, he don't t even drive, no (don't drive)
+That's why you're calling my phone, and won't leave me alone
+He ain't even fly though, you ain't gotta lie no (girl please don't lie)
+That's why you're calling my phone
+And you're wanting me to get, get, get it
+
+
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat it
+Beat, beat, beat it, beat, beat, beat it
+Not a problem, baby
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat (beat it up)
+Beat, beat, beat it, beat, beat, beat it
+Beat beat
+
+
+Ugh, you say you want a fly nigga
+Roll somethin' and get high nigga
+I spendin' all the most and if he ain't coming close then its time to tell him bye
+I'll take you up in the sky
+We'll be floatin'
+Get you wet, like the ocean
+I'ma speed up on it, if your pussy was a book I would read up on it
+Girl I'm just trying to get you back to my crib
+Seen all them Instagram pictures you post so I already know what it is
+Talk to me now
+
+
+He ain't fly, no, he don't t even drive, no (don't drive)
+That's why you're calling my phone, and won't leave me alone
+He ain't even fly though, you ain't gotta lie no (girl please don't lie)
+That's why you're calling my phone
+And you're wanting me to get, get, get it
+
+
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat it
+Beat, beat, beat it, beat, beat, beat it
+Not a problem, baby
+Beat, beat, beat it, beat, beat, beat it
+You wantin' me to beat, beat, beat (beat it up)
+Beat, beat, beat it, beat, beat, beat it
+Beat beat
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: liquid-dreams-o-town
+lyrics_url: https://www.azlyrics.com/lyrics/otown/liquiddreams.html
 name: Liquid Dreams
 rankings:
 - end_date: '2000-12-29'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
 ---
+
+Posters of love surrounding me, lost in the world of fantasy
+Every night she comes to me and gives me all the love I need.
+
+Now this hot girl, she's not your average girl
+She's a morpharotic dream from a magazine
+And she's so fine designed to blow your mind
+She's a dominatrix supermodel beauty queen
+
+I dream about a girl who's a mix of Destiny's Child
+Just a little touch Madonna's wild style
+With Janet Jackson's smile, throw in a body like Jennifers'
+You've got the star of my liquid dream
+
+Angelina Jolie's lips to kiss in the dark
+Underneath Cindy C's beauty mark
+When it comes to the test well Tyra's the best
+And Salma Hayek brings the rest
+
+Now this hot girl, she's not your average girl
+She's a morpharotic dream from a magazine
+And she's so fine designed to blow your mind
+She's a dominatrix supermodel beauty queen
+
+I dream about a girl who's a mix of Destiny's Child
+Just a little touch Madonna's wild style
+And Janet Jackson's smile, throw in a body like Jennifers'
+You've got the star of my liquid dreams
+
+Looks ain't everything she's got the sweetest personality
+Like Halle B
+My mama thinks I'm lazy, my friend all think I'm crazy
+But in my mind, I leave the world behind every night I dream
+Oh.
+
+Liquid Dreams, my Liquid Dreams
+Waterfall and streams, these liquid dreams
+
+I dream about a girl who's a mix of Destiny's Child
+Just little touch of Madonna's wild style
+With Janet Jackson's smile
+Throw in a body like Jennifer's 
+You've got the star of my liquid dreams
+My liquid dreams
+
+
+
 

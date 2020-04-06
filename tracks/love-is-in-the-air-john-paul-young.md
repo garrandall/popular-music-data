@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-in-the-air-john-paul-young
+lyrics_url: https://www.azlyrics.com/lyrics/tomjones/loveisintheair.html
 name: Love Is In The Air
 rankings:
 - end_date: '1978-07-21'
@@ -91,4 +92,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
 ---
+
+Love is in the air everywhere I look around
+love is in the air every sight and every sound
+and I don't know if I'm being foolish
+I don't know if I'm being wise
+but it's something that I must believe in
+and it's there when I look in your eyes.
+
+Love is in the air, in the whisper of the trees,
+love is in the air in the thunder of the sea,
+and I don't know if I'm just dreaming,
+I don't know if I feel safe,
+but it's something that I must believe in
+and it's there when I call out your name.
+
+Love is in the air, love is in the air, oh, oh, oh, oh, uh, uh, uh, uh.
+
+Love is in the air, in the rising of the sun,
+love is in the air, when the day is nearly done,
+and I don't know if you are illusion,
+don't know if I see truth,
+but you are something that I must believe in,
+and you are there when I reach out for you.
+
+Love is in the air everywhere I look around
+love is in the air every sight and every sound
+and I don't know if I'm being foolish
+I don't know if I'm being wise
+but it's something that I must believe in
+and it's there when I look in your eyes.
+
+Love is in the air, love is in the air, oh, oh, oh, oh, uh, uh, uh, uh.
+
+
 

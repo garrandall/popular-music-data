@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: naked-eye-luscious-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/lusciousjackson/nakedeye.html
 name: Naked Eye
 rankings:
 - end_date: '1996-12-27'
@@ -111,4 +112,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
 ---
+
+wearing nothing is divine
+naked is a state of mind
+i take things off to clear my head
+to say the things i haven't said
+i live inside the elements
+the earth and sky are my best friends
+water is the evidence
+that washes me from end to end
+
+
+with my naked eye
+i saw all the falling rain
+coming down on me
+with my naked eye
+i saw all if i said it all
+i could see
+
+it's not a choice i tried to make
+it's not a thought i couldn't take
+something told me it was time
+to give you yours and leave me mine
+my vision started to be clear
+i watched the sunlight coming near
+i knew the day i knew the night
+i knew i could regain my sight
+and it feels alright 
+
+
+
+last night i came into your home
+to break some ice and throw some stones
+i asked if we could be alone
+i had some troubles of my own
+knew i had to say goodbye
+to all the old things held inside
+if i let the moment fly
+i knew they'd all be magnified
+
+and it feels alright 
+
+came around after dark
+you are nothing but a lark
+know i snuck in like a narc
+i knew i had to leave my mark
+wanted to be satisfied
+i tried to be dignified
+wearing nothing is divine
+naked is a state of mind
+
+and it feels alright 
+
+
+
+it feels alright 
+
+
 

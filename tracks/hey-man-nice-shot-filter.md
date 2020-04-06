@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-man-nice-shot-filter
+lyrics_url: https://www.azlyrics.com/lyrics/filter/heymanniceshot.html
 name: Hey Man Nice Shot
 rankings:
 - end_date: '1995-08-11'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
 ---
+
+I wish I would've met you
+Now it's a little late
+What you could've taught me
+I could've saved some face
+They think that your early ending
+Was all wrong
+For the most part they're right
+But look how they all got strong
+That's why I say hey man, nice shot
+What a good shot man
+A man
+Has gun
+Hey man
+Have fun
+Nice shot
+Now that the smoke's gone
+And the air is all clear
+Those who were right there
+Got a new kind of fear
+You'd fight and you were right
+But they were just too strong
+They'd stick it in your face
+And let you smell what they consider wrong
+That's why I say hey man nice, nice shot
+What a good shot man
+A man
+Has gun
+Hey man
+Have fun
+Nice shot
+I wish I would've met you
+I wish I would've met you
+I'd say
+Nice shot
+
+
 

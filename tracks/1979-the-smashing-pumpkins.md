@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1979-the-smashing-pumpkins
+lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/1979.html
 name: '1979'
 rankings:
 - end_date: '1996-02-16'
@@ -95,4 +96,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
 ---
+
+Shakedown 1979
+Cool kids never have the time
+On a live wire right up off the street
+You and I should meet
+
+Junebug skipping like a stone
+With the headlights pointed at the dawn
+We were sure we'd never see an end to it all
+
+And I don't even care to shake these zipper blues
+And we don't know just where our bones will rest
+To dust I guess
+Forgotten and absorbed into the earth below
+
+Double-cross the vacant and the bored
+They're not sure just what we have in store
+Morphine city slipping dues down to see
+
+That we don't even care as restless as we are
+We feel the pull in the land of a thousand guilts
+And poured cement, lamented and assured
+To the lights and towns below
+
+Faster than the speed of sound
+Faster than we thought we'd go
+Beneath the sound of hope
+
+Justine never knew the rules,
+Hung down with the freaks and ghouls
+No apologies ever need be made
+I know you better than you fake it to see
+
+That we don't even care to shake these zipper blues
+And we don't know just where our bones will rest
+To dust I guess
+Forgotten and absorbed into the earth below
+
+The street heats the urgency of now
+As you see there's no one around
+
+
 

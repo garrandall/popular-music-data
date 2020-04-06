@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-away-roy-orbison
+lyrics_url: https://www.azlyrics.com/lyrics/devendrabanhart/rideawaylikeroyorbison.html
 name: Ride Away
 rankings:
 - end_date: '1965-08-27'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
 ---
+
+There's always something going on
+and there's always something happening
+
+There's always something going on
+and there's always something happening
+
+There's always something going on
+and there's always something happening
+
+There's always something going on
+and there's always something happening
+
+Don't be cruel to a heart that's true
+
+Don't be cruel to a heart that's true
+
+I was born in Texas state 
+and I moved to where my mother went
+
+I was born in Texas state 
+and I moved to where my mother went
+
+and I found my love in a happy pink glow
+and I found my love in a happy pink glow
+
+There's always something going on
+and there's always something happening
+
+There's always something going on
+and there's always something happening
+
+Ride away to a heart that's true
+Ride away to a heart that's true
+Ride away like Roy Orbison would
+Ride away to a heart that's true
+Ride away like Roy Orbison would
+
+
 

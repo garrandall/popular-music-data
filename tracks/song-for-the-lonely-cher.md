@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: song-for-the-lonely-cher
+lyrics_url: https://www.azlyrics.com/lyrics/cher/thisisasongforthelonely.html
 name: Song For The Lonely
 rankings:
 - end_date: '2002-04-12'
@@ -31,4 +32,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
 ---
+
+When you're standing on the edge of nowhere
+There's only one way up
+So your heart's got to go there
+Through the darkest night
+See the light shine bright
+When hero's fall, in love or war
+They live forever
+
+
+This is a song - for the lonely
+Can you hear me tonight?
+For the broken hearted, battle scarred
+I'll be by your side
+And this is a song - for the lonely
+When your dreams won't come true
+Can you hear this prayer?
+'Cause someone's there for you
+
+Well, love don't need a reason
+She can pick you up
+Or leave you bleeding
+I've seen a strong man cry
+I know the reason why
+We all forgive, we all forget
+We just keep believing
+
+
+
+So let it find you
+Wherever you may go
+I'm right beside you
+You don't have to look no more
+You don't have to look no more, oh no
+
+
+
+It's gonna be alright
+It's gonna be alright
+It's gonna be alright
+
+This is a song
+A song for the lonely
+And that's not you only
+Through the darkest night
+You're gonna see the light
+
+Love don't need a reason
+Just to leave you bleeding
+
+Can you hear this prayer?
+Someone's there
+
+This is a song - for the lonely
+Can you hear me tonight?
+For the broken hearted, battle scarred
+I'll be by your side
+And this is a song
+For the lonely
+
+
 

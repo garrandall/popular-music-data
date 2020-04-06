@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-night-long-joe-walsh
+lyrics_url: https://www.azlyrics.com/lyrics/joewalsh/upallnight.html
 name: All Night Long
 rankings:
 - end_date: '1980-05-23'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+
+Well the sun came up and a new day dawned 
+Didn't make a bit of difference to me. 
+With the curtains drawn in the candlelight 
+I was up all night 
+Feelin' alright. 
+(Up all night, feelin' alright) 
+Cos the world goes round if its dark or light 
+It don't really matter. 
+But the clocks wind down 
+Anytime is right 
+Waking up all night 
+Feelin' alright. 
+(Up all night, feelin' alright) 
+
+And its been confirmed if you stay up late 
+It starts getting early. 
+But it takes as long as it does to write a song 
+And you dance all night 
+Its alright. 
+(Up all night) You'll be up all night. 
+
+I didn't need to be up all night 
+With the curtains drawn 
+In the candlelight 
+And the moonlight 
+Feelin' alright! 
+I was up all night 
+(Up all night) 
+I was up all night 
+Feelin' alright 
+(Up all night )
+
+
 

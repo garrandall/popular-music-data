@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: head-over-heels-tears-for-fears
+lyrics_url: https://www.musixmatch.com/lyrics/Tears-for-Fears/Head-Over-Heels
 name: Head Over Heels
 rankings:
 - end_date: '1985-09-20'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
+I wanted to be with you alone
+And talk about the weather
+But traditions I can trace against the child in your face
+Won't escape my attention
 
+You keep your distance with a system of touch
+And gentle persuasion
+I'm lost in admiration, could I need you this much?
+Oh, you're wasting my time
+You're just, just, just wasting time
+
+Something happens and I'm head over heels
+I never find out 'til I'm head over heels
+Something happens and I'm head over heels
+Ah, don't take my heart, don't break my heart
+Don't, don't, don't throw it away
+Throw it away, throw it away
+
+I made a fire, I'm watching it burn (Yeah)
+Thought of your future
+With one foot in the past, now, just how long will it last?
+No, no, no, have you no ambitions?
+
+My mother and my brothers used to breath in clean air
+And dreaming I'm a doctor
+It's hard to be a man when there's a gun in your hand
+Oh, I feel so
+
+Something happens and I'm head over heels
+I never find out 'til I'm head over heels
+Something happens and I'm head over heels
+Ah, don't take my heart, don't break my heart
+Don't, don't, don't throw it away
+
+And this is my four-leaf clover
+I'm on the line, one open mind
+This is my four leaf-clover
+
+La la la la la, la la la la la, la la la la la la
+La la la la la, la la la la la, la la la la la la
+La la la la la, la la la la la, la la la la la la
+La la la la la, la la la la la, la la la la la la
+La la la la la, la la la la la, la la la la la la
+
+In my mind's eye
+One little boy, one little man
+Funny how time flies

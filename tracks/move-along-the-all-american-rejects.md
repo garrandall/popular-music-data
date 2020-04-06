@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: move-along-the-all-american-rejects
+lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/movealong.html
 name: Move Along
 rankings:
 - end_date: '2006-02-17'
@@ -163,4 +164,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
 ---
+
+Go ahead as you waste your days with thinking
+When you fall everyone stands
+Another day and you've had your fill of sinking
+With the life held in your
+Hands are shaking cold
+These hands are meant to hold
+
+Speak to me, when all you got to keep is strong
+Move along, move along like I know you do
+And even when your hope is gone
+Move along, move along just to make it through
+Move along
+Move along
+
+So a day when you've lost yourself completely
+Could be a night when your life ends
+Such a heart that will lead you to deceiving
+All the pain held in your
+Hands are shaking cold
+Your hands are mine to hold
+
+Speak to me, when all you got to keep is strong
+Move along, move along like I know you do
+And even when your hope is gone
+Move along, move along just to make it through
+Move along
+(Go on, go on, go on, go on)
+
+When everything is wrong, we move along
+(Go on, go on, go on, go on)
+When everything is wrong, we move along
+Along, along, along
+
+When all you got to keep is strong
+Move along, move along like I know you do
+And even when your hope is gone
+Move along, move along just to make it through
+
+
+(Go on, go on, go on, go on)
+Right back what is wrong
+We move along
+
+
+
+
 

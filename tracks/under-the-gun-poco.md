@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: under-the-gun-poco
+lyrics_url: https://www.azlyrics.com/lyrics/poco/underthegun.html
 name: Under The Gun
 rankings:
 - end_date: '1980-07-25'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
 ---
+
+Now and then you see me falling, way behind the things I need to do
+Don't you believe I've missed my calling, I'm just the one to play your fool
+
+
+Under the gun, under the gun, I'm down and crawlin' like I've never done
+Under the gun, under the gun, standing in my own way and nowhere to run
+
+Waited so long it felt like a lifetime and looking up just seemed so far away
+Between these walls I live on the bottom line
+It's just enough to get me through the day
+
+
+
+Now and then you see me falling, way behind the things I need to do
+Don't you believe I've missed my calling, I'm just the one to play your fool
+
+
+
+
 

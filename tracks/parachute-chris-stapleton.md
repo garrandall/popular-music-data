@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: parachute-chris-stapleton
+lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/parachute.html
 name: Parachute
 rankings:
 - end_date: '2016-12-16'
@@ -27,4 +28,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
 ---
+
+Street lights along the highway
+Throwing shadows in the dark
+And the memories keep on turning
+To the rhythm of a broken heart
+
+You only need a roof when it's raining
+You only need a fire when it's cold
+You only need a drink when the whiskey
+Is the only thing that you have left to hold
+Sun comes up and goes back down
+And falling feels like flying till you hit the ground
+Say the word and I'll be there for you
+Baby, I will be your parachute
+Parachute
+
+There's a song that I remember
+I never learned to play
+And a lifetime of forgotten words
+I never got to say
+
+You only need a roof when it's raining
+You only need a fire when it's cold
+You only need a drink when the whiskey
+Is the only thing that you have left to hold
+Sun comes up and goes back down
+And falling feels like flying till you hit the ground
+Say the word and I'll be there for you
+Baby, I will be your parachute
+Parachute
+
+If you think you're going down
+Just know I will be around
+
+You only need a roof when it's raining
+You only need a fire when it's cold
+You only need a drink when the whiskey
+Is the only thing that you have left to hold
+Sun comes up and goes back down
+And falling feels like flying till you hit the ground
+Say the word and I'll be there for you
+Baby, I will be your
+Baby, I will be your parachute
+Parachute
+
+
 

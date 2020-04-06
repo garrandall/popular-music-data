@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-a-child-noel
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/noelleon.html
 name: Like A Child
 rankings:
 - end_date: '1988-04-15'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
 ---
+
+Leon Dixon leaves his Christmas lights up all year 'round
+It's somethin' different about our town
+We've often wondered why he never takes 'em down
+But Leon leaves his Christmas lights up all year 'round
+There's a big bright noel flashin' off and on
+In the yard where the children play the whole year long
+We've all gotten used to it year by year
+Now it's kinda gotten to be a part of things 'round here
+
+
+Peace on earth, Good will to men
+Christmas time is here again
+Can it be all that wrong
+To feel like Christmas all year long
+
+Leon got sick, it's been back awhile
+Short on luck and money, but he still wore that smile
+And nobody could stand to see him do without
+So we all drove over to see if we could help out
+Yeah, the noel flashed on and the bills stayed paid
+I felt so warm as we drove away
+I had never seen Christmas spelled so clear
+As when I saw "LEON" flashin' in my rear view mirror
+
+
+
+Noel Leon
+
+
 

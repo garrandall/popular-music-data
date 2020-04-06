@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: might-just-take-your-life-deep-purple
+lyrics_url: https://www.musixmatch.com/lyrics/Deep-Purple/Might-Just-Take-Your-Life
 name: Might Just Take Your Life
 rankings:
 - end_date: '1974-03-29'
@@ -23,4 +24,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
+I got more than I asked for
+There ain't nothin' I need
+I took all till I had more
+I'm always takin' the lead
 
+Old man shakin' dice down on the street
+Try'n to make a livin' somehow
+But I'm really sure about gettin' things sorted out
+And I'm gettin' ready right now
+
+You can't hold me
+I have told you
+Might just take your life
+Might just take your life
+
+I've been called by many names
+And all of them are bad
+I can take it all the same
+It's all I've ever had
+
+I've got somethin' that you can't get
+But one thing you can see
+Gettin' there ain't easy
+But it sure was hard for me
+
+You can't hold me
+I have told you
+Might just take your life
+Might just take your life
+
+Every time I take a look
+There's someone close behind
+They never used to make a pass
+The things that crossed their minds
+
+Now they tell me that it's all right
+And they want to be my friend
+They're ridin' on my back
+When is it goin' to end
+
+You can't hold me
+I have told you.
+Might just take your life
+Might just take your life
+Might just take your life
+
+Got more than I asked for
+Got more than I need
+Got more than I asked for
+Got more than I need
+Got more than I asked for
+Got more than I need

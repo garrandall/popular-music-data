@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-you-have-it-blackhawk
+lyrics_url: https://www.azlyrics.com/lyrics/blackhawk/thereyouhaveit.html
 name: There You Have It
 rankings:
 - end_date: '1998-12-11'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
 ---
+
+You're the kind of woman, I've been dreaming of.
+But I never thought I could ever say it good enough to win your love
+You probably think I'm foolish you probably tell me so
+I open up my heart then you're probably going to tell me no, but here I go
+I want to give you all I've got inside, I want to love you for the rest of my life
+
+There I've done it.
+There I've said it.
+There you have it.
+I don't regret it.
+I give you my love, in a minute, if you want it, come and get it.
+There I've done it.
+There I've said it.
+There you have it.
+
+This is confidential, I never told a soul.
+Every time I see you, feel my heart begin to lose control.
+And all I know; is I'm feeling something I've never felt.
+I want to be with you and nobody else.
+
+There I've done it.
+There I've said it.
+There you have it.
+I don't regret it.
+I give you my love, in a minute, if you want it, come and get it.
+There I've done it.
+There I've said it.
+There you have it.
+
+There I've done it.
+There I've said it.
+There you have it.
+I don't regret it.
+I give you my love, in a minute, if you want it, come and get it.
+There I've done it.
+There I've said it.
+There you have it.
+Oh yah yah yah
+
+There I've done it.
+There I've said it.
+There you have it.
+
+
 

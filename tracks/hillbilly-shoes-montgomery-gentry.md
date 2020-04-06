@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hillbilly-shoes-montgomery-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/hillbillyshoes.html
 name: Hillbilly Shoes
 rankings:
 - end_date: '1999-04-02'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
 ---
+
+I was there when the men came, and told us all the news 
+Father forgive them for they know not what they do 
+Till they walk a while, a country mile 
+In my hillbilly shoes 
+
+You want to judge me by the whiskey on my breath 
+You think you know me but you ain't seen nothing yet 
+Till you walk a while, a country mile 
+In my hillbilly shoes 
+In my hillbilly shoes 
+
+You work all day in the muck and the mire 
+Dance a little jig and a stomp by the fire 
+Ain't too much these boots cant do 
+Might even kick a little sense into you 
+
+Well I'm going up cripple creek going in a run 
+Going up cripple creek to have a little fun 
+Law man said they found some tracks 
+People saw them leavin but they never come back 
+
+Oh, you don't know me, you don't know, you don't know you don't know 
+Till you walk a while, a country mile 
+In my hillbilly shoes 
+In my hillbilly shoes
+
+
 

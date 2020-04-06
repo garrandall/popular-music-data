@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-there-gerry-and-the-pacemakers
+lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/fooltomyself.html
 name: I'll Be There
 rankings:
 - end_date: '1964-12-18'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
+
+I've been a fool, yes, a fool to myself
+
+To think that you were mine, I never thought you'd be so wild
+You played around with everyone anytime at all
+I thought you were bein' friendly
+When you took them home to tea
+
+I've been a fool, yes, a fool to myself
+I've been a fool, yes, a fool to myself
+
+When I used to ring you and you said you were ill in bed
+I should have realized, yes, you were ill but in your head
+There's only one thing left for me to say
+And it's this, my friend
+
+I've been a fool, yes, a fool to myself
+I've been a fool, yes, a fool to myself
+
+Life, I know, is not a dream
+A dream of your A T
+But must you go and try to make
+Some kind of monkey out of me
+
+If this life you're livin' suits your temperament and your face
+I'm ever tryin' to change it, I'll leave you in disgrace
+There's only one thing left for me to say
+And it's this, my friend
+
+I've been a fool, yes, a fool to myself
+I've been a fool, yes, a fool to myself
+
+
 

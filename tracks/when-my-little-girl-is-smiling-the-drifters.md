@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-my-little-girl-is-smiling-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/whenmylittlegirlissmiling.html
 name: When My Little Girl Is Smiling
 rankings:
 - end_date: '1962-03-02'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
+
+Ev'ry time my baby and I have a quarrel,
+I swear I won't give in.
+Then my baby starts to smile at me,
+And I know, I know I just can't win.
+
+When my little girl is smiling
+There's nothing more I can say.
+I see those big bright eyes
+And then I realize
+That girl is gonna get her way
+
+When my little girl is smiling
+I can't stay mad at her for long.
+Why should I want to fight
+When I can hold her tight?
+I just don't care who's right or wrong.
+
+When my little girl is smiling
+It's the greatest thrill there can be.
+She gets her way it's true,
+But I know I won't be blue
+As long as she just smiles for me.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fopp-ohio-players
+lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/fopp.html
 name: Fopp
 rankings:
 - end_date: '1976-02-27'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
 ---
+
+Fopped last night and the night before
+I had to fopp outside and then I went indoors
+Fopped so hard I made the people warm
+They stood back and gave me all the floor
+
+I did the fopp, the fopp
+They wouldn't let me stop
+Yeah I was foppin' and rockin'
+Had the house hoppin'
+
+Foppin', the way it makes you go, everybody was
+Foppin', everywhere you go, do all your
+Shoppin', wiggle to the floor, everybody was foppin'
+
+Fopp with me and I'll fopp with you
+Foppin' is the brand new thing to do
+Fopped so hard that I lost my shoe
+I fopped so tough they had to make some room
+
+Break your leg, don't you fopp your back
+Do your thing, don't you give no slack
+Shake your hips and then you turn around
+Well first you fopp it up
+And then you fopp it down
+
+Fopp me right, don't you fopp me wrong
+We'll be here foppin' all night long
+I'm too short, baby, and you're too tall
+But when we're foppin' that don't mean a thing at all
+
+Foppin', the way it makes you go, everybody was
+Foppin', everywhere you go, do all your
+Shoppin', wiggle to the floor, everybody was foppin'
+
+
 

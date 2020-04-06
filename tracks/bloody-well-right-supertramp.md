@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bloody-well-right-supertramp
+lyrics_url: https://www.azlyrics.com/lyrics/supertramp/bloodywellright.html
 name: Bloody Well Right
 rankings:
 - end_date: '1975-04-18'
@@ -47,4 +48,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
 ---
+
+So you think your schooling's phoney
+I guess it's hard not to agree
+You say it all depends on money
+And who is in your family tree
+Right, you're bloody well right
+you know you got a right to say
+Right, you're bloody well right
+you know you got a right to say
+Ha-ha you're bloody well right
+you know you're right to say
+Yeah-yeah you're bloody well right
+you know you're right to say
+Me, I don't care anyway!
+Write your problems down in detail
+Take them to a higher place
+You've had your cry - no, I should say wail
+In the meantime hush your face
+Right, quite right, you're bloody well right... etc.
+
+
 

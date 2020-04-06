@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-got-the-best-of-me-luke-combs
+lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/shegotthebestofme.html
 name: She Got The Best Of Me
 rankings:
 - end_date: '2018-08-31'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
 ---
+
+Seventeen, you don't think that much about life
+You just live it
+Like Kerosene dancing around a fire
+But you're in it
+
+So you jump right in
+Ain't afraid to fall
+And you give it all
+
+She got the best of me
+She broke my heart
+Now all that's left of me
+Is beating in this guitar
+Every night, a different town
+She follows me around
+So you get what's left of me
+Yeah, you get what's left of me
+Cause she got the best of me
+
+I picked myself up off the floor
+And found something new worth living for
+In an old dusty hand-me-down six string
+And a couple chords
+
+I'm getting over her
+A little more with every song
+So y'all sing a-long
+
+She got the best of me
+She broke my heart
+Now all that's left of me
+Is beating in this guitar
+Every night, a different town
+She follows me around
+So you get what's left of me
+Yeah, you get what's left of me
+Cause she got the best of me
+
+Woah
+She got the best of me
+She broke my heart
+Now all that's left of me
+Is beating in this guitar
+Every night, a different town
+She follows me around
+So you get what's left of me
+Yeah, you get what's left of me
+Cause she got the best of me
+Cause she got the best of me
+She got the best of me
+
+
 

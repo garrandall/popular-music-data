@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-comes-goodbye-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/herecomesgoodbye.html
 name: Here Comes Goodbye
 rankings:
 - end_date: '2009-03-20'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
 ---
+
+I can hear the truck tires coming up the gravel road
+And its not like her to drive that slow, nothin's on the radio
+Footsteps on the front porch, I hear my doorbell
+She usually comes right in, now I can tell
+
+
+Here comes goodbye
+Here comes the last time
+Here comes the start of every sleepless night
+The first of every tear I'm gonna cry
+Here comes the pain 
+Here comes me wishing things had never changed
+And she was right here in my arms tonight, but here comes goodbye
+
+I can hear her say I love you like it was yesterday
+And I can see it written on her face that she had never felt this way
+One day I thought I'd see her with her daddy by her side
+And violins would play here comes the bride
+
+
+Here comes goodbye
+Here comes the last time
+Here comes the start of every sleepless night
+The first of every tear I'm gonna cry
+Here comes the pain 
+Here comes me wishing things had never changed
+And she was right here in my arms tonight, but here comes goodbye
+
+Why does it have to go from good to gone?
+Before the lights turn on, yeah and you're left alone
+All alone, but here comes goodbye
+
+Oh-oooo
+
+
+Here comes goodbye 
+Here comes the last time
+Here comes the start of every sleepless night
+The first of every tear I'm gonna cry
+Here comes the pain 
+Here comes me wishing things had never changed
+And she was right here in my arms tonight, but here comes goodbye
+
+Oh-oooo
+
+
 

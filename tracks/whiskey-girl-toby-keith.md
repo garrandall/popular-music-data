@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whiskey-girl-toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/whiskeygirl.html
 name: Whiskey Girl
 rankings:
 - end_date: '2004-05-07'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
 ---
+
+Don't my baby look good in them blue jeans?
+Tight on the top with a belly button ring
+A little tattoo somewhere in between
+She only shows to me
+
+Hey we're going out dancin' she's ready tonight
+So damn good-lookin' boys it ain't even right
+And when the bartender says for the lady
+What's it gonna be?
+I tell him man
+
+She ain't into wine and roses
+Beer just makes her turn up her nose
+And, she can't stand the thought of sippin' champagne
+No Cuervo Gold Margaritas
+Just ain't enough good burn in tequila
+She needs somethin' with a little more edge and a little more pain
+She's my little whiskey girl
+She's my little whiskey girl
+My ragged-on-the-edges girl
+Ah, but I like 'em rough
+
+Baby got a '69 mustang
+Four on the floor, and you ought to hear the pipes ring
+I jump behind the wheel and it's away we go
+Hey, I drive too fast, but she don't care
+Blue bandana tied all up in her hair
+Just sittin' there singin' every song on the radio
+
+She ain't into wine and roses
+Beer just makes her turn up her nose
+And, she can't stand the thought of sippin' champagne
+No Cuervo Gold Margaritas
+Just ain't enough good burn in tequila
+She needs somethin' with a little more edge and a little more pain
+She's my little whiskey girl
+She's my little whiskey girl
+My ragged-on-the-edges girl
+Ah, but I like 'em rough
+
+No Cuervo Gold Margaritas
+Just ain't enough good burn in tequila
+She needs somethin' with a little more edge and a little more pain
+She's my little whiskey girl
+She's my little whiskey girl
+My ragged-on-the-edges girl
+Ah, but I like 'em rough
+
+Whoa she's my little whiskey girl
+My ragged-on-the-edges girl
+Ah, but I like 'em rough
+Yeah, I like 'em rough
+I like 'em rough
+
+
 

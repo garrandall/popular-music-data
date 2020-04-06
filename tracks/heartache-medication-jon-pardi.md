@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartache-medication-jon-pardi
+lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/heartachemedication.html
 name: Heartache Medication
 rankings:
 - end_date: '2019-10-18'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
 ---
+
+Same old dive, same old end of the work week drink
+Bartender knows my name, but I don't mind
+She kicks 'em up strong, serves me up right
+
+And here I go again
+I'm drinkin' one, I'm drinkin' two
+I got my heartache medication, a strong dedication
+To gettin' over you, turnin' me loose
+On that hardwood jukebox lost in neon time
+My heartache medication, well it suits me fine
+And I'm drinkin' enough to take you off my mind
+I got my heartache medication
+
+Another girl, another dance to a country song
+Turnin' me on, here's to a good time
+And halfway to feelin' all right
+
+And here I go again
+I'm drinkin' one, I'm drinkin' two
+I got my heartache medication, a strong dedication
+To gettin' over you, turnin' me loose
+On that hardwood jukebox lost in neon time
+My heartache medication, well it suits me fine
+And I'm drinkin' enough to take you off my mind
+I got my heartache medication
+
+Single drinkin' doubles
+Teardrops turnin' into bubbles
+Yeah, a little later on
+I'll probably find me some trouble
+
+And here I go again
+I'm drinkin' one, I'm drinkin' two
+I got my heartache medication, a strong dedication
+To gettin' over you, turnin' me loose
+On that hardwood jukebox lost in neon time
+My heartache medication, well it suits me fine
+And I'm drinkin' enough to take you off my mind
+I got my heartache medication
+
+Heartache medication
+Takin' me away, oh whoa
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-kids-echosmith
+lyrics_url: https://www.azlyrics.com/lyrics/echosmith/coolkids.html
 name: Cool Kids
 rankings:
 - end_date: '2014-08-01'
@@ -99,4 +100,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
 ---
+She sees them walking in a straight line, that's not really her style
+And they all got the same heartbeat, but hers is falling behind
+Nothing in this world could ever bring them down
+Yeah, they're invincible, and she's just in the background
+And she says
 
+"I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to fit in
+I wish that I could be like the cool kids, like the cool kids"
+
+He sees them talking with a big smile, but they haven't got a clue
+Yeah, they're living the good life, can't see what he is going through
+They're driving fast cars, but they don't know where they're going
+In the fast lane, living life without knowing
+And he says
+
+"I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to fit in
+I wish that I could be like the cool kids, like the cool kids
+I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to get it
+I wish that I could be like the cool kids, like the cool kids"
+
+And they said
+"I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to fit in
+I wish that I could be like the cool kids, like the cool kids
+I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to fit in
+I wish that I could be like the cool kids, like the cool kids
+I wish that I could be like the cool kids
+'Cause all the cool kids, they seem to get it
+I wish that I could be like the cool kids, like the cool kids"
+
+Whoa
+Whoa
+Whoa
+
+Like the cool kids

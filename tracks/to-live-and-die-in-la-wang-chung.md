@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-live-and-die-in-la-wang-chung
+lyrics_url: https://www.azlyrics.com/lyrics/wangchung/toliveanddieinla.html
 name: To Live And Die In LA
 rankings:
 - end_date: '1985-10-18'
@@ -79,4 +80,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
 ---
+
+In the heat of the day
+Every time you go away
+I have to piece my life together
+Every time you're away
+In the heat of the day
+In the dark of the night
+Every time I turn the light
+I feel that God is not in heaven
+In the dark of the night
+The dark of the night
+
+I wonder why I live alone here
+I wonder why we spend these nights together
+Is this the room I'll live my life forever
+I wonder why in LA
+To live and die in LA
+I wonder why we waste our lives here
+When we could run away to paradise
+But I am held in some invisible vice
+And I can't get away
+To live and die in LA
+
+If I let myself go
+And for where I just don't know
+I'd maybe hit some cold new river
+That led out to the sea
+An unknown sea
+I'd either swim or I'd drown
+Or just keep falling down and down
+I think its that, that makes me quiver
+Just to keep falling down
+Down, down, down
+
+I wonder why I live alone here
+I wonder why we spend these nights together
+Is this the way I'll live my life forever
+I wonder why in LA
+To live and die in LA
+
+In every word that you say
+I feel my freedom slip away
+I feel the bars come down around me
+And I can't get away
+I can't get away
+
+I wonder why I live alone here
+I wonder why we spend these nights together
+Is this the room I'll live my life forever
+I wonder why in LA
+To live and die in LA
+I wonder why we waste our lives here
+When we could run away to paradise
+But I am held in some invisible vice
+And I can't get away
+To live and die in LA
+
+I can't get away
+To live and die in LA
+I can't get away
+To live and die in LA
+I can't get away
+To live and die in LA
+I can't get away
+To live and die in LA
+
+
 

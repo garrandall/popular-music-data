@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mohair-sam-charlie-rich
+lyrics_url: https://www.azlyrics.com/lyrics/charlierich/mohairsam.html
 name: Mohair Sam
 rankings:
 - end_date: '1965-09-03'
@@ -51,4 +52,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
+
+Well - who is the hippie that's happenin' all over our town?
+Tearin' up chicks with the message that he lays down
+Who is the coolest guy, what is, what am?
+That's fast-talkin' - slow walkin' - good-lookin' Mohair Sam
+
+Chicks are makinreservations for his lovin' so fine (so fine)
+Screamin' and shoutin' he's got 'em all waitin' in line
+Who is the coolest guy, what is, what am?
+That's fast-talkin' - slow walkin' - good-lookin' Mohair Sam
+
+Who is the hippie that's happenin' all over our town?
+Tearin' up chicks with the message that he lays down
+Who is the coolest guy, what is, what am?
+That's fast-talkin' - slow walkin' - good-lookin' Mohair Sam
+
+
 

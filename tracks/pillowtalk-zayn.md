@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pillowtalk-zayn
+lyrics_url: https://www.azlyrics.com/lyrics/zaynmalik/pillowtalkremix.html
 name: Pillowtalk
 rankings:
 - end_date: '2016-02-26'
@@ -103,4 +104,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
 ---
+
+
+Yeah.
+Pop, pop, pop, pop
+Pop, pop, pop, pop
+Brrrr
+It's our paradise
+Yeah
+And it's our war zone
+
+
+Climb on board
+(Mula baby)
+We'll go slow and high tempo
+(Yeah)
+Light and dark
+Hold me hard and mellow
+
+
+I'm seeing the pain, seeing the pleasure
+Nobody but you, body but me
+Body but us, bodies together
+(He the one, she the two)
+I love to hold you close, tonight and always
+I love to wake up next to you
+
+
+So we'll piss off the neighbours
+(Tunechi baby)
+In the place that feels the tears
+The place to lose your fears
+Yeah, reckless behavior
+(She come to the zoo)
+A place that is so pure, so dirty and raw (yeah)
+In the bed all day, bed all day, bed all day
+Fucking and fighting on
+It's our paradise (Pop, pop, pop, pop, brrrr)
+And it's our war zone
+(Paradise and our war zone)
+It's our paradise and it's our war zone
+
+
+Pillow talk
+Fucking and fighting, fucking and fighting
+Yeah, fuck it
+If she love it, I like it, husband and wifey
+We do what we do
+We do how we do but we making it through
+And the bedroom a zoo
+We fuss for a few, then we fuck for a truce, yeah
+She's something to do when there's nothing to do
+We so ugly and cute, but the love is the proof
+Never chucking the deuce, never coming unloose, woo
+Put my tongue in her noose, out my thumb in her boose
+Make her jump through the roof, now she touching the moon
+And she love when we spoon, she gon cum and boo, hoo!
+When she cumming it's through
+
+
+So we'll piss off the neighbours
+(Aaaye aaye)
+In the place that feels the tears
+The place to lose your fears
+Yeah, (tuche) reckless behavior
+(Mula baby)
+A place that is so pure, so dirty and raw (woo)
+In the bed all day, bed all day, bed all day
+Fucking and fighting on (yeah)
+It's our paradise and it's our war zone
+(It's our paradise)
+It's our paradise (Pop, pop, pop, pop, pop, pop, pop, pop, brrrr)
+And it's our war zone
+
+
+If anybody knows that's just how the game goes
+In a few weeks she'll be somebody's yo
+I got too many seeds, they all gotta go
+No I didn't conceive but I got one goal
+And yes I felt the seed but I don't no more
+Now I'll fuck her ten times cause I don't get bored
+Standing in halls where the great men shine
+They were your dreams and the reason I mind
+You would have held me back and you wouldn't let me go
+You would have told me no, you would have told me yes
+Would have stayed the night, then we'd probably have sex
+And we know it ain't right but there's stuff that comes next
+(It's a paradise and our war zone
+It's a paradise and our war zone)
+
+
+So we'll piss off the neighbours
+In the place that feels the tears
+The place to lose your fears
+Yeah, reckless behavior (tunechi baby)
+A place that is so pure, so dirty and raw (yeah)
+In the bed all day, bed all day, bed all day
+Fucking and fighting on
+It's our paradise
+(Pop, pop, pop, pop)
+And it's our war zone
+(Paradise and our war zone)
+It's our paradise (yeah)
+(Pop, pop, pop, pop, brrrr)
+And it's our war zone
+
+
 

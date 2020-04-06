@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: judy-in-disguise--with-glasses--john-fred-and-the-playboys
+lyrics_url: https://www.azlyrics.com/lyrics/johnfredhisplayboyband/judyindisguisewithglasses.html
 name: Judy In Disguise (With Glasses)
 rankings:
 - end_date: '1967-12-01'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+
+Judy in disguise, well that's a-what you are
+A-lemonade pies, with a brand new car
+Cantaloupe eyes come to me tonight
+Your Judy in disguise, with glasses
+
+Keep a-wearing your bracelets, and your new rah-rah
+A-cross your heart, yeah, with your living bra
+A-chimney sweep sparrow with guys
+Your Judy in disguise, with glasses
+
+Come to me tonight
+Come to me tonight
+I've taken everything in sight
+Unzipper the strings of my kite
+
+Judy in disguise, hey that's what you are
+A-lemonade pies, hey got your brand new car
+Cantaloupe eyes come to me tonight
+Your Judy in disguise, with glasses
+
+Come to me tonight
+Come to me tonight
+I've taken everything in sight
+Unzipper the strings of my kite
+
+Judy in disguise, well what you aiming for
+A-circus of a-horrors, yeh yeh, well that's what you are
+You make me a life of ashes
+I guess I'll just take your glasses
+
+
 

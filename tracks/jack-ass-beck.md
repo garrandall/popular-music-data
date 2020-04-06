@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jack-ass-beck
+lyrics_url: https://www.azlyrics.com/lyrics/beck/jackass.html
 name: Jack-Ass
 rankings:
 - end_date: '1997-09-19'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-15'
 ---
+
+I been drifting along
+In the same stale shoes
+Loose ends tying a noose
+In the back of my mind
+If you thought that you were making your way
+To where the puzzles and pagans lay
+I'll put it together:
+It's a strange invitation
+When I wake up
+Someone will sweep up my lazy bones
+And we will rise in the cool of the evening
+I remember the way that you smiled
+When the gravity shackles were wild
+And something is vacant
+When I think it's all beginning
+
+I been drifting along
+In the same stale shoes
+Loose ends tying the noose
+In the back of my mind
+If you thought that you were making your way
+To where the puzzles and pagans lay
+I'll put it together:
+It's a strange invitation
+
+
 

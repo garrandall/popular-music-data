@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-last-waltz-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thelastwaltz.html
 name: The Last Waltz
 rankings:
 - end_date: '1967-09-29'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
 ---
+
+I wondered should I go or should I stay
+The band had only one more song to play
+And then I saw you out the corner of my eyes
+A little girl alone and so shy
+I had the last waltz with you
+Two lonely people together
+I fell in love with you
+The last waltz should last forever
+But the love we had was goin' strong
+Through the good and bad we'd get along
+And then the flame of love died in your eye
+My heart was broke in two when you said goodbye
+I had the last waltz with you
+Two lonely people together
+I fell in love with you
+The last waltz should last forever
+It's all over now 
+Nothing left to say
+Just my tears and the orchestra playing
+La la la la la la la la la la,
+La la la la la la la la la la. 
+I had the last waltz with you
+Two lonely people together
+I fell in love with you
+The last waltz should last forever
+La la la la la la la la la la
+
+
 

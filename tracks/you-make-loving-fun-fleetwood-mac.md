@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-loving-fun-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/youmakelovingfun.html
 name: You Make Loving Fun
 rankings:
 - end_date: '1977-10-21'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
 ---
+
+Sweet wonderful you,
+You make me happy with the things you do.
+Oh, can it be so?
+This feeling follows me wherever I go.
+
+I never did believe in miracles,
+But I've a feeling it's time to try.
+I never did believe in the ways of magic,
+But I'm beginning to wonder why.
+
+I never did believe in miracles,
+But I've a feeling it's time to try.
+I never did believe in the ways of magic,
+But I'm beginning to wonder why.
+
+Don't, don't break the spell.
+It would be different, and you know it will.
+You, you make loving fun,
+And I don't have to tell you, but you're the only one.
+
+You, you make loving fun.
+It's all I wanna do.
+You, you make loving fun.
+It's all I wanna do.
+
+You, you make loving fun.
+It's all I wanna do.
+You, you make loving fun.
+It's all I wanna do.
+
+
 

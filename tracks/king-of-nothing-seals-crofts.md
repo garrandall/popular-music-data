@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: king-of-nothing-seals-crofts
+lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/kingofnothing.html
 name: King Of Nothing
 rankings:
 - end_date: '1974-05-31'
@@ -32,4 +33,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
 ---
+
+When I was 17, I dreamed of being king. And having everything I wanted.
+But that was long ago and my dreams did not unfold, so I'm still the King of Nothing.
+When I was 17, I dreamed I gave a ring to a pretty queen and then I held her.
+But that was slumber's fault for I have no love at all. And I'm still the King of Nothing.
+
+If I could rule, I'd dance my cares away, find romance everyday.
+I wouldn't have to listen to this poor fool say,
+"I'm the King, I'm the King, I'm the King of Nothing."
+
+
 

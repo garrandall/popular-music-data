@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-sky-full-of-stars-coldplay
+lyrics_url: https://www.azlyrics.com/lyrics/maddijane/singaskyfullofstars.html
 name: A Sky Full Of Stars
 rankings:
 - end_date: '2014-05-23'
@@ -111,4 +112,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
 ---
+
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+
+It's late in the evening
+Glass on the side
+I've sat with you
+For most of the night
+Ignoring everybody here
+Wish that they would disappear
+So we could get down now
+
+Well I don't wanna know
+If you're getting ahead of the program
+I want you to be mine, baby
+Won't you pull me close
+And take a step into no-man's land
+
+Into a sky full of stars
+I wanna give you my heart
+Go on and tear me apart
+Well I don't care if you do
+As long as I'm with you
+
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+
+This love is a blaze
+I saw flames from the side of the stage
+And the fire brigade comes in a couple of days
+Let it go until our roads are changed
+Singing we found love at a local rave
+No, I don't really know what I'm supposed to say
+But I can figure it out and I can hope and pray
+Told him my name and said, "It's nice to meet ya"
+Babe, where you're from, I don't think I've seen ya
+I already know he's a keeper
+The smile's making me a believer
+From this one small act of kindness I'm in
+D-d-d-d-d-d-d-d-d-deep, yeah
+
+Cause in a sky full of stars
+You know you're lighter the more it gets dark
+Cause in a sky, cause in a sky full of stars
+I think I saw you, ohhhh you oh
+I think I see you
+I think I see you
+
+
 

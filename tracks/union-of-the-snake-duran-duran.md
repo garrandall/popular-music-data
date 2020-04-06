@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: union-of-the-snake-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/riverdalecast/unionofthesnake.html
 name: Union Of The Snake
 rankings:
 - end_date: '1983-11-11'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
 ---
+
+Nightshades on a warning
+Give me strength, give me a light
+Give me anything even sympathy
+There's a chance you could be right
+
+If I listen close I can hear them singers, oh
+Voices in your body coming through on the radio
+
+The union of the snake is on the climb
+Moving up it's gonna race it's gonna break
+Through the borderline
+
+The union of the snake is on the climb
+Moving up it's gonna race it's gonna break
+Through the borderline
+
+If I listen close I can hear them singers, oh
+Voices in your body coming through on the radio
+
+The union of the snake is on the climb
+Moving up it's gonna race it's gonna break
+Through the borderline
+
+The union of the snake is on the climb
+Moving up it's gonna race, it's gonna break
+Through the borderline
+
+The union of the snake is on the climb
+Moving up it's gonna race it's gonna break
+Through the borderline
+
+The union of the snake is on the climb
+Moving up it's gonna race, it's gonna break
+To the borderline
+
+
 

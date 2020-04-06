@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-be-the-one-karla-bonoff
+lyrics_url: https://www.azlyrics.com/lyrics/karlabonoff/pleasebetheone.html
 name: Please Be The One
 rankings:
 - end_date: '1982-10-01'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+
+You spend your days and nights alone
+You think it's easier that way
+But that cold feeling in your bones
+I said I could take away
+I said, please be the one
+Please be the one
+Please be the one
+
+Well, if your worlds a lonely place
+It's something you never show
+And love could stare you in the face
+And baby, you'd never know
+I said, please be the one
+Please be the one
+Please be the one
+
+All the years, they took their toll on you
+Your innocence has all disappeared
+Tell me why you had to learn your love was
+Something to fear
+
+Well, someday the tables here will turn
+And I won't want to play
+And for my sweet kiss you will yearn
+When it's too late to say
+Please be the one
+Please be the one
+
+
 

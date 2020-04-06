@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dangerous-woman-ariana-grande
+lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/dangerouswoman.html
 name: Dangerous Woman
 rankings:
 - end_date: '2016-04-08'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
 ---
+
+Oh, yeah
+
+Don't need permission
+Made my decision to test my limits
+'Cause it's my business, God as my witness
+Start what I finished
+Don't need no hold up
+Taking control of this kind of moment
+I'm locked and loaded
+Completely focused, my mind is open
+
+All that you got, skin to skin, oh my God
+Don't ya stop, boy
+
+Somethin' 'bout you makes me feel like a dangerous woman
+Somethin' 'bout, somethin' 'bout, somethin' 'bout you
+Makes me wanna do things that I shouldn't
+Somethin' 'bout, somethin' 'bout, somethin' 'bout
+
+Nothing to prove and
+I'm bulletproof and
+Know what I'm doing
+The way we're movin' like introducing
+Us to a new thing
+I wanna savor, save it for later
+The taste, the flavor, 'cause I'm a taker
+'Cause I'm a giver, it's only nature
+I live for danger
+
+All that you got, skin to skin, oh my God
+Don't ya stop, boy
+
+Somethin' 'bout you makes me feel like a dangerous woman
+Somethin' 'bout, somethin' 'bout, somethin' 'bout you
+Makes me wanna do things that I shouldn't
+Somethin' 'bout, somethin' 'bout, somethin' 'bout you
+
+All girls wanna be like that
+Bad girls underneath, like that
+You know how I'm feeling inside
+Somethin' 'bout, somethin' 'bout
+All girls wanna be like that
+Bad girls underneath, like that
+You know how I'm feeling inside
+Somethin' 'bout, somethin' 'bout
+
+Somethin' 'bout you makes me feel like a dangerous woman
+Somethin' 'bout, somethin' 'bout, somethin' 'bout you
+Makes me wanna do things that I shouldn't
+Somethin' 'bout, somethin' 'bout, somethin' 'bout you
+
+All girls wanna be like that
+Bad girls underneath like that
+You know how I'm feeling inside
+Somethin' 'bout, somethin' 'bout
+All girls wanna be like that
+Bad girls underneath like that
+You know how I'm feeling inside
+Somethin' 'bout, somethin' 'bout
+
+Yeah, there's somethin' 'bout you boy
+Yeah, there's somethin' 'bout you boy
+Yeah, there's somethin' 'bout you boy
+(somethin' 'bout, somethin' 'bout, somethin' 'bout you)
+Yeah, there's somethin' 'bout you boy
+Yeah, there's somethin' 'bout you boy
+Yeah, there's somethin' 'bout you boy
+(somethin' 'bout, somethin' 'bout, somethin' 'bout you)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-green-apples-o-c--smith
+lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/littlegreenapples.html
 name: Little Green Apples
 rankings:
 - end_date: '1968-08-23'
@@ -75,4 +76,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
 ---
+
+And if that's not lovin' me
+Then all I've got to say
+God didn't make little green apples
+And it don't rain in Indianapolis in the summertime
+And there's no such thing as Doctor Seuss
+Or Disneyland, and Mother Goose, no nursery rhyme
+
+God didn't make little green apples
+And it don't rain in Indianapolis in the summertime
+And when my self is feelin' low
+I think about her face aglow to ease my mind
+
+And if that ain't lovin' me
+Then all I've got to say
+God didn't make little green apples
+And it don't rain in Indianapolis in the summertime
+And there's no such thing as make-believe
+Puppy dogs, autumn leaves 'n' BB guns
+
+God didn't make little green apples
+And it don't snow in Minneapolis when the winter comes
+And when my self is feelin' low
+I think about her face aglow to ease my mind
+
+If that's not lovin' me
+Then all I've got to say
+God didn't make little green apples
+And it don't rain in Indianapolis in the summertime
+There's no such thing as Doctor Seuss
+Disneyland, or Mother Goose, thereâs no nursery rhyme
+
+God didn't make little green apples
+And it don't snow in Indianapolis when the winter comes
+And when my self is feelin' low
+I think about her face aglow to ease my mind
+
+If that's not lovin' me
+Then all I've got to say
+Thatâs really lovinâ me
+I mean thatâs love
+
+
 

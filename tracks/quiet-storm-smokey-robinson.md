@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: quiet-storm-smokey-robinson
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/quietstorm.html
 name: Quiet Storm
 rankings:
 - end_date: '1976-01-23'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
 ---
+
+Soft and warm a quiet storm
+Quiet as when flowers talk at break of dawn, break of dawn
+A power source of tender force generatin', radiatin'
+Turn me on, turn them on
+
+You short-circuit all my nerves
+Promising electric things
+You touch me and suddenly there's rainbow rings
+
+Quiet storm, blowin' through my life
+Oh, quiet storm, blowin' through my life
+Oh, blow baby
+
+Windy sigh, weaken my
+Butterfly caught up in a hurricane, hurricane
+Lucky me, I'm better free
+Suddenly I'm caught up in your somber rain
+
+Shower me with your sweet love
+I will bathe in every drop
+Through all the seasons let it pour and never stop
+
+Quiet storm, blowin' through my life, through my life
+You're just like a quiet storm, blowin' through my life
+
+Shower me with your sweet love
+I will bathe in every drop
+Through all the seasons let it pour and never stop
+
+Quiet storm, blowin' through my life, through my life
+You're just like a quiet storm, blowin' through my life
+Blow baby, blow baby
+
+
 

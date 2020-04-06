@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paranoid-black-sabbath
+lyrics_url: https://www.azlyrics.com/lyrics/blacksabbath/paranoid.html
 name: Paranoid
 rankings:
 - end_date: '1970-12-04'
@@ -39,4 +40,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
 ---
+
+Finished with my woman 'cause she couldn't help me with my mind
+people think I'm insane because I am frowning all the time
+All day long I think of things but nothing seems to satisfy
+Think I'll lose my mind if I don't find something to pacify
+
+Can you help me occupy my brain?
+Oh yeah
+
+I need someone to show me the things in life that I can't find
+I can't see the things that make true happiness, I must be blind
+
+Make a joke and I will sigh and you will laugh and I will cry
+Happiness I cannot feel and love to me is so unreal
+
+And so as you hear these words telling you now of my state
+I tell you to enjoy life I wish I could but it's too late
+
+
 

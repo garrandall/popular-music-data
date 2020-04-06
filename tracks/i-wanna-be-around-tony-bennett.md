@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-around-tony-bennett
+lyrics_url: https://www.azlyrics.com/lyrics/kristinchenoweth/iwannabearound.html
 name: I Wanna Be Around
 rankings:
 - end_date: '1963-01-18'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
 ---
+
+I wanna be around to pick up the pieces
+When somebody breaks your heart
+Some somebody twice as smart as I
+
+A somebody who will swear to be true
+Like you used to do with me
+Who'll leave you to learn
+That mis'ry loves company, wait and see
+
+I wanna be around to see how he does it
+When she breaks your heart to bits
+Let's see if the puzzle fits so fine
+
+That's when I'll discover that revenge is sweet
+As I sit there applaudin' from a front-row seat
+When somebody breaks your heart
+Like you broke mine
+
+A somebody who will swear to be true
+Like you used to do with me
+Who'll leave you to learn
+That mis'ry loves company, wait and see
+
+I wanna be around to see how he does it
+When she breaks your heart to bits
+Let's see if the puzzle fits so fine
+
+And that's when I'll discover that revenge is sweet
+As I sit there applaudin' from a front-row seat
+When somebody breaks your heart
+Like you broke mine
+When somebody breaks your heart
+Like you broke mine
+
+
 

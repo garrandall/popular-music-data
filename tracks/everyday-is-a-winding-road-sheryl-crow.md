@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everyday-is-a-winding-road-sheryl-crow
+lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/everydayisawindingroad.html
 name: Everyday Is A Winding Road
 rankings:
 - end_date: '1997-04-04'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
 ---
+
+I hitched a ride with a vending machine repair man
+He says he's been down this road more than twice
+He was high on intellectualism
+I've never been there but the brochure looks nice
+Jump in, let's go
+Lay back, enjoy the show
+Everybody gets high, everybody gets low,
+These are the days when anything goes
+
+
+Everyday is a winding road
+I get a little bit closer
+Everyday is a faded sign
+I get a little bit closer to feeling fine
+
+He's got a daughter he calls Easter
+She was born on a Tuesday night
+I'm just wondering why I feel so all alone
+Why I'm a stranger in my own life
+Jump in, let's go
+Lay back, enjoy the show
+Everybody gets high, everybody gets low
+These are the days when anything goes
+
+
+
+I've been swimming in a sea of anarchy
+I've been living on coffee and nicotine
+I've been wondering if all the things I've seen
+Were ever real, were ever really happening
+
+
+
+
 

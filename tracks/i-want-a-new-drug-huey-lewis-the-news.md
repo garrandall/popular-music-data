@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-want-a-new-drug-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/iwantanewdrug.html
 name: I Want A New Drug
 rankings:
 - end_date: '1984-01-20'
@@ -84,4 +85,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
 ---
+
+Yeah-eah! 
+
+I want a new drug
+One that won't make me sick 
+One that won't make me crash my car 
+Or make me feel three feet thick
+
+I want a new drug
+One that won't hurt my head 
+One that won't make my mouth too dry 
+Or make my eyes too red
+
+One that won't make me nervous 
+Wondering what to do 
+One that makes me feel like I feel when I'm with you 
+When I'm alone with you
+
+I want a new drug 
+One that won't spill 
+One that don't cost too much 
+Or come in a pill
+
+I want a new drug 
+One that won't go away 
+One that won't keep me up all night 
+One that won't make me sleep all day
+
+One that won't make me nervous 
+Wondering what to do 
+One that makes me feel like I feel when I'm with you 
+When I'm alone with you 
+I'm alone with you, baby
+
+I want a new drug 
+One that does what it should 
+One that won't make me feel too bad 
+One that won't make me feel too good
+
+I want a new drug 
+One with no doubt 
+One that won't make me talk too much 
+Or make my face break out
+
+One that won't make me nervous 
+Wondering what to do 
+One that makes me feel like I feel when I'm with you 
+When I'm alone with you
+I'm alone with you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-the-rain-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/willienelson/seasonsofmyheart.html
 name: After The Rain
 rankings:
 - end_date: '1990-11-09'
@@ -95,4 +96,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
 ---
+
+The seasons come, the seasons go 
+We get a little sunshine, rain and snow 
+Just the way that it was planned to be 
+But there's no seasons in my heart
+While you play the leading part 
+cause the flowers will bloom eternally. 
+
+Your leaving, will bring autumn sorrow 
+And my tears like withered leaves will fall 
+But spring, it could bring some glad tomorrow 
+And darlin' we could be happy after all. 
+
+As it all is in natures' plan
+No season gets the upper hand. Oh
+How I tried to keep this fact in mind 
+The trees are bare, the cold wind blows
+And by experience I know 
+That winter comes, but the spring is close behind. 
+
+Your leaving, will bring autumn sorrow 
+And my tears like withered leaves will fall 
+But spring, it could bring some glad tomorrow 
+And darlin' we could be happy.. after all...
+
+
 

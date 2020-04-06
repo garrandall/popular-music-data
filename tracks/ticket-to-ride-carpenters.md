@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ticket-to-ride-carpenters
+lyrics_url: https://www.azlyrics.com/lyrics/carpenters/tickettoride.html
 name: Ticket To Ride
 rankings:
 - end_date: '1970-02-20'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
 ---
+
+I think I'm gonna be sad
+I think it's today
+Yeh
+The boy that's driving me mad
+is going away.
+
+He's got a ticket to ride
+He's got a ticket to ride
+He's got a ticket to ride
+and he don't care.
+
+He said that living with me
+was bringing him down
+Yeh
+He would never be free
+when I was around.
+
+He's got a ticket to ride
+He's got a ticket to ride
+He's got a ticket to ride
+and he don't care.
+
+Don't know why he's riding so high
+He oughta do right
+
+He oughta do right by me
+Before he gets to saying goodbye
+He oughta do right
+He oughta do right by me
+
+I think I'm gonna be sad
+I think it's today
+Yeh
+The boy that's driving me mad
+is going away.
+
+He's got a ticket to ride
+He's got a ticket to ride
+He's got a ticket to ride
+and he don't care
+he don't care.
+
+
 

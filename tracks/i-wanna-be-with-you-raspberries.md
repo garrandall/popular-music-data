@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-with-you-raspberries
+lyrics_url: https://www.azlyrics.com/lyrics/raspberries/iwannabewithyou.html
 name: I Wanna Be With You
 rankings:
 - end_date: '1972-12-01'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
 ---
+
+If we were older
+We wouldn't have to be worried tonight
+
+Baby oh, I wanna be with you
+So bad, (yes, I wanna be with you)
+Oh, darlin' (oh, I wanna be with you)
+Oh yeah (yeah, I wanna be with you)
+Well tonight's (tonight) the night
+We always knew it would feel so right
+So come on baby, I just wanna be with you
+
+Someday's a long time
+And we've been waiting so long to be here
+
+Hold me tight
+Our love could live forever after tonight
+If you believe that what we're doing is right
+Close your eyes and be still
+
+
 

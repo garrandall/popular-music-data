@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-a-beautiful-thing-phil-vassar
+lyrics_url: https://www.azlyrics.com/lyrics/philvassar/loveisabeautifulthing.html
 name: Love Is A Beautiful Thing
 rankings:
 - end_date: '2008-03-14'
@@ -75,4 +76,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
 ---
+
+Look's like everybody's here
+Had to put some folding chairs in the vestibule
+Yeah, it's gettin' full
+Even old Aunt Ruby came
+Her first time on an airplane
+It's her sister's girl
+She wouldn't miss it for the world
+And all them kids jumpin' in the pew
+And Mr. Charlie in his lime-green suit is a handsome man
+Remarks widow Callahan
+Uncle Joe and Uncle Jake
+Haven't spoken since '98, just said "Hello."
+It's a good day to let it go
+
+So let the angels gather
+Let the music play
+Let the preacher get to preachin' all the do you takes
+Love is a beautiful thing
+Throw the rice in the air
+Let the church bells ring
+Tie the cans to the back of that limousine
+Love is a beautiful thing
+
+Daddy's waiting with the bride
+As she helps him with his tie she sees a tear
+He says "Man it's hot in here."
+He hugs his little girl and asks,
+"How did you grow up so fast, God, I wish
+Your momma could be here for this."
+And everybody stands and smiles
+As she comes walkin down the aisle in her momma's gown
+And daddy breaks on down
+Gran and gramps in the second row
+Stood right there 50 years ago
+And said their vows
+Yeah I guess that's working out
+
+So let the angels gather
+Let the music play
+Let the preacher get to preachin' all the do you takes
+Love is a beautiful thing
+Throw the rice in the air
+Let the church bells ring
+Tie the cans to the back of that limousine
+Love is a beautiful thing
+
+A little table full of gifts
+Catering is cover dish and the wedding band
+Well, that's on her hand
+Tommy's teasing Lorali
+He pushed her down
+He made her cry
+And neither one knows, the day will come
+
+When the angels gather
+And the music plays
+And the preacher get to preachin' all the do you takes
+Love is a beautiful thing
+Throw the rice in the air
+Let the church bells ring
+Tie the cans to the back of that limousine
+Love, two people in love is a beautiful thing
+
+
 

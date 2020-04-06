@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-ready-rare-earth
+lyrics_url: https://www.azlyrics.com/lyrics/rareearth/getready.html
 name: Get Ready
 rankings:
 - end_date: '1970-03-20'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
 ---
+
+Never met a girl could make me feel the way that you do
+Whenever I'm asked what makes my dreams real, I tell 'em you do
+Well, tweedlee dee, tweedlee dum, look out, baby, 'cause here I come
+
+I'm bringin' you a love that's true, get ready
+Start makin' love to you, get ready
+Oh, don't you know I'm coming
+On my way
+
+You wanna play hide and seek with love, let me remind ya
+Lovin' you're gonna miss and the time it takes to find ya
+Well, fe fi fo fo fum, look out, baby, now, here I come
+
+I'm bringin' you a love that's true, aw, get ready
+Start makin' love to you, get ready
+Don't you know I'm comin', on my way
+
+If all my friends shouldn't want me to, I think I'll understand
+Hope I get to you before they do, 'cause that's how I planned it
+Well, tweedlee dee, now, tweedlee dum, look out, baby, now, here I come
+
+I'm bringin' you a love that's true, get ready
+I'll start makin' love to you, get ready
+Don't you know I'm coming
+On my way
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-long-as-i-can-dream-expose
+lyrics_url: https://www.azlyrics.com/lyrics/expose/aslongasicandream.html
 name: As Long As I Can Dream
 rankings:
 - end_date: '1993-10-22'
@@ -63,4 +64,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
 ---
+
+When this world that I see
+Is too hard to take and too much for me
+And everything's in blue
+
+When the rain's pourin' down
+I can't find the sun
+Don't mean the sun can't found
+It always comes through
+
+There's not a soul that's lost
+That can't find its way
+There's not a night that's long
+That can't find the day
+
+As long as I can dream
+There's a better world
+Oh, there's a better world
+I see it shinin'
+
+And in my dreams I see
+There's a better world
+Oh, there's a better world
+As long as I can dream
+
+In my heart there's a place
+Where there's always hope
+And always a way
+To make it through the night
+
+And in my soul, I believe
+If I just have faith
+Then I will be free
+I'll be all right
+
+There's not a soul that's lost (not a soul)
+That can't find its way
+There's not a night that's long
+That can't find the day
+
+As long as I can dream
+There's a better world
+Oh, there's a better world
+I see it shinin'
+
+And in my dreams I see
+There's a better world
+Oh, there's a better world
+As long as I can dream
+
+Oh
+
+There's not a soul that's lost
+That can't find its way
+There's not a night that's long
+
+As long as I can dream
+(As long as I can dream)
+There's a better world
+I see it shinin' on me
+
+(In my dreams I see)
+In my dreams I see. yeah
+There's a better world
+As long as I can dream
+
+(There's a better world, there's a better world)
+I can see it
+(I can see it shinin')
+Yes, it's shinin' on me
+(In my dreams I see)
+In my dreams I see
+(There's a better world)
+Just as long as I can dream
+
+
 

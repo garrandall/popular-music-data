@@ -5,6 +5,7 @@ features:
 - Demi Lovato
 genres: []
 key: solo-clean-bandit-demi-lovato
+lyrics_url: https://www.azlyrics.com/lyrics/cleanbandit/solo.html
 name: Solo
 rankings:
 - end_date: '2018-07-13'
@@ -60,4 +61,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
 ---
+
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+Woop woop woop woop woop woop woop
+
+I never meant to leave you hurting
+I never meant to do the worst thing
+Not to you (it's solo, solo, everybody)
+'Cause every time I read your message
+I wish I wasn't one of your exes
+Now I'm the fool (it's solo, solo, everybody)
+
+Since you've been gone
+Been dancing on my own
+There's boys up in my zone
+But they can't turn me on
+'Cause baby you're the only one I'm coming for
+I can't take no more, no more, no more
+
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry but I like to party
+T-t-touch but I got nobody
+Here on my own
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry since the day we parted
+T-t-touch but I got nobody
+So I do it solo
+
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo
+
+Every single night I lose it
+I can't even hear the music without you (it solo, solo, everybody)
+Ah, yeah, yeah
+Try to stop myself from calling
+But I really wanna know if you're with someone new (it solo, solo, everybody)
+
+Since you've been gone
+I've been dancing on my own
+There's boys up in my zone
+But they can't turn me on
+'Cause baby you're the only one I'm coming for
+I can't take no more, no more, no more
+
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry but I like to party
+T-t-touch but I got nobody
+Here on my own
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry since the day we parted
+T-t-touch but I got nobody
+So I do it solo
+
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo
+
+Can't do it solo
+
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry but I like to party
+T-t-touch but I got nobody
+Here on my own (here on my own)
+I wanna f-woop woop woop but I'm broken hearted
+Cr-cr-cry since the day we parted
+T-t-touch but I got nobody
+So I do it solo
+
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo (it solo, solo, everybody)
+It's solo, solo, everybody
+It's solo, everybody
+It's solo, solo, everybody
+I do it solo
+
+So I do it solo
+
+
 

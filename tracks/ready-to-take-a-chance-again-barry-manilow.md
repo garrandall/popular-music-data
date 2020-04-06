@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-to-take-a-chance-again-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/readytotakeachanceagain.html
 name: Ready To Take A Chance Again
 rankings:
 - end_date: '1978-09-22'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+
+You remind me I live in a shell,
+Safe from the past,
+and doing' okay,
+but not very well.
+No jolts, no surprises,
+No crisis arises:
+My life goes along as it should,
+it's all very nice,
+but not very good.
+And I'm Ready To Take A Chance Again,
+Ready to put my love on the line with you.
+Been living with nothing to show for it;
+You get what you get when you go for it,
+And I'm Ready To Take Chance Again with you.
+When she left me in all my despair,
+I just held on,
+My hopes were all gone.
+Then I found you there.
+And I'm Ready To Take A Chance Again
+Ready To Take A Chance Again with you,
+With you.
+
+
 

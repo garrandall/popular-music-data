@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbeat-song-kelly-clarkson
+lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/heartbeatsong.html
 name: Heartbeat Song
 rankings:
 - end_date: '2015-02-06'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
 ---
+
+This is my heartbeat song and I'm gonna play it
+Been so long I forgot how to turn it up, up, up, up all night long
+Oh up, up all night long
+
+You, where the hell did you come from?
+You're a different, different kind of fun
+And I'm so used to feeling numb
+Now, I've got pins and needles on my tongue
+Anticipating what's to come
+Like a finger on a loaded gun
+
+I can feel it rising
+Temperature inside me
+Haven't felt it for a lifetime
+
+This is my heartbeat song and I'm gonna play it
+Been so long I forgot how to turn it up, up, up, up all night long
+Oh up, up all night long
+This is my heartbeat song and I'm gonna play it
+Turned it on
+But I know you can take it up, up, up, up all night long
+Oh up, up all night long (all night long)
+
+I, I wasn't even gonna go out
+But I never would have had a doubt
+If I'd have known where I'd be now
+
+Your hands on my hips
+And my kiss on your lips
+Oh, I could do this for a lifetime
+
+This is my heartbeat song and I'm gonna play it
+Been so long I forgot how to turn it up, up, up, up all night long
+Oh, up, up all night long
+This is my heartbeat song and I'm gonna play it
+Turned it on
+But I know you can take it up, up, up, up all night long
+Oh up, up all night long
+
+Until tonight I only dreamed about you
+I can't believe I ever breathed without you
+Baby, you make me feel alive and brand new
+Bring it one more time, one more time
+
+This is my heartbeat song and I'm gonna play it
+Been so long I forgot how to turn it up, up, up, up all night long
+Oh, up, up all night long
+This is my heartbeat song and I'm gonna play it
+Turned it on
+But I know you can take it up, up, up, up all night long
+Oh, up, up all night long
+
+This is my heartbeat song and I'm gonna play it
+Been so long I forgot how to turn it up, up, up, up all night long
+Oh, up, up all night long
+This is my heartbeat song and I'm gonna play it
+Turned it on
+But I know you can take it up, up, up, up all night long
+Oh, up, up all night long
+
+
 

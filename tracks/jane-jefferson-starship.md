@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jane-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/jane.html
 name: Jane
 rankings:
 - end_date: '1979-11-09'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
+
+Jane, you say it's all over for you and me, girl
+There's a time for love and a time for letting it be, baby 
+Jane you're playing a game called, hard to get by its real name 
+Making believe that you just don't feel the same
+Oh Jane
+That's a game on me
+
+Jane, you're playing a game you never can win, girl 
+You're staying away just so I'll ask you where you've been, baby 
+Like a cat and a mouse (cat and a mouse) 
+From door to door and house to house 
+Don't you pretend you don't know what I'm talking about 
+
+Were all those nights we spent together, hey hey
+Only because you didn't know better
+I gotta know
+Jane you're playing a game, you're playing a game, playing a game
+
+Oh Jane, you're playing a game of hide and go seek 
+Jane, you're playing for fun but I play for keeps, yes I do
+(Jane, Jane, Jane) That's a game on me baby 
+(Jane, Jane, Jane) So plain to see girl
+(Jane, Jane, Jane) Janey, Janey, Janey, Janey, Janey
+(Jane, Jane, Jane) Why you fooling with me, me, me oh
+(Jane, Jane, Jane) 
+(Jane, Jane, Jane) 
+(Jane, Jane, Jane)
+(Jane, Jane, Jane)
+
+
 

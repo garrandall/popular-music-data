@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-this-aaron-tippin
+lyrics_url: https://www.azlyrics.com/lyrics/aarontippin/withoutakiss.html
 name: Kiss This
 rankings:
 - end_date: '2000-09-01'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
 ---
+
+When I knew I was gonna get it I'd hide if I could
+'Cause when momma put on on ya she'd put it on ya good
+I'd squirm and scream and jump around and try to get away
+Oh but she'd just hold me tighter and this is what she'd say
+
+You ain't leavin' here without a kiss
+I know you think I'm silly, but that's just the way it is
+'Til we're together again I'll wear your love upon my lips
+Honey, you ain't leavin' here without a kiss
+
+Now brother's off to Camp Lejeune with the proud and the few
+Daddy shook his hand and said "Son, go do what you gotta do"
+Yeah he was big and bad and full of fight and almost 6 foot 4
+Oh but the one he wouldn't mess with was standing in the door
+And she said
+
+You ain't leavin' here without a kiss
+I know you think I'm silly, but that's just the way it is
+'Til we're together again I'll wear your love upon my lips
+Baby, you ain't leavin' here without a kiss
+
+Daddy took to cancer, nothin' left to do
+When he slipped into a coma, we knew his days were few
+But he was hangin' on and holdin' out, as stubborn as could be
+And we didn't know the reason why he wouldn't leave
+But when momma whispered in his ear, I knew the reason why
+There was only one thing left to do, and he opened up his eyes
+And he whispered
+
+I ain't leavin' here without a kiss
+I know I'll love you forever, and that's just the way it is
+'Til we're together again I'll wear your love upon my lips
+Baby, I ain't leavin' here without a kiss
+Honey, I ain't leavin' here without a kiss
+
+
 

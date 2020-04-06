@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-to-build-a-snowman--kristen-bell-agatha-lee-monn-katie-lopez
+lyrics_url: https://www.azlyrics.com/lyrics/kristenbell/doyouwanttobuildasnowman.html
 name: Do You Want To Build A Snowman?
 rankings:
 - end_date: '2014-01-17'
@@ -81,4 +82,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
 ---
+
+
+Elsa?
+
+Do you wanna build a snowman?
+Come on, let's go and play!
+I never see you anymore
+Come out the door
+It's like you've gone away
+
+We used to be best buddies
+And now we're not
+I wish you would tell me why!
+
+Do you wanna build a snowman?
+It doesn't have to be a snowman...
+
+ Go away, Anna.
+
+ Okay, bye...
+
+
+
+
+
+
+Do you wanna build a snowman?
+Or ride our bike around the halls?
+I think some company is overdue
+I've started talking to
+The pictures on the walls!
+
+(Hang in there, Joan.)
+
+It gets a little lonely
+All these empty rooms
+Just watching the hours tick by...
+(Tick-tock tick-tock tick-tock tick-tock)
+
+
+
+
+
+
+
+
+Elsa, please I know you're in there
+People are asking where you've been
+They say, "Have courage, " and I'm trying to
+I'm right out here for you
+Just let me in
+
+We only have each other
+It's just you and me
+What are we gonna do?
+
+Do you wanna build a snowman?
+
+
 

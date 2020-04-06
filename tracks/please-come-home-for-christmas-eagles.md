@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-come-home-for-christmas-eagles
+lyrics_url: https://www.azlyrics.com/lyrics/eagles/pleasecomehomeforchristmas.html
 name: Please Come Home For Christmas
 rankings:
 - end_date: '1978-12-15'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
 ---
+
+Bells will be ringing this sad sad news
+Oh what a Christmas to have the blues 
+My baby's gone I have no friends 
+To wish me greetings once again 
+
+Choirs will be singing "Silent Night" 
+Christmas carols by candlelight 
+Please come home for Christmas 
+Please come home for Christmas 
+
+If not for Christmas by New Years night 
+Friends and relations send salutations 
+Sure as the stars shine above 
+But this is Christmas yes Christmas my dear 
+
+The time of year to be with the ones you love 
+So won't you tell me you'll never more roam 
+Christmas and new Years will find you home 
+There'll be no more sorrow no grief and pain 
+
+And I'll be happy, happy once again 
+Oh there'll be no more sorrow, no grief and pain 
+And I'll be happy, Christmas once again
+
+
 

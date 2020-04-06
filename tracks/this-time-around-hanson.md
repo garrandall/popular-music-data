@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-around-hanson
+lyrics_url: https://www.azlyrics.com/lyrics/hanson/thistimearound.html
 name: This Time Around
 rankings:
 - end_date: '2000-04-28'
@@ -35,4 +36,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
 ---
+
+It's getting colder in this ditch where I lie 
+I'm feeling older and I'm wondering why 
+I heard they told her it was tell and live or die 
+I didn't know her but I know why she lied 
+I didn't know her but I know why she died 
+
+
+You can't say I didn't give it 
+I won't wait another minute 
+We're on our way this time around 
+You can't say I didn't give it 
+I won't wait another minute 
+We're on our way this time around 
+
+And we won't go down 
+
+I heard them say that dreams should stay in your head 
+Well I feel ashamed of the things that I've said 
+Put on these chains and you can live a free life 
+Well I'd rather bleed just to know why I die 
+
+
+
+And we won't go down 
+And we won't go down 
+And we won't go down 
+And we won't go down 
+All I know is that fear has got to go 
+This time around 
+
+I've started feeling like I don't want to fight 
+Give in to the given and put out the light 
+Cannons a blazing shower these moonlit skies 
+Then I remember and I know why he died 
+Do you know why I die 
+
+
+
+And we won't go down 
+And we won't go down 
+And we won't go down
+
+
 

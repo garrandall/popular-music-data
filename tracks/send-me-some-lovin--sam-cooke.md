@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-some-lovin--sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/samcooke/sendmesomelovin.html
 name: Send Me Some Lovin'
 rankings:
 - end_date: '1963-02-01'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
 ---
+
+Send me some lovin'
+Oh send it I pray
+How can I love you
+When you're far away?
+
+Send me your picture
+Send it my dear
+So I can hold it
+Pretend you are here
+
+Can you send me your kisses? 
+I still feel their touch
+I need you so badly
+I miss you so much
+
+My days are so lonely
+My nights are so blue
+I'm here and I'm lonely
+I'm waitin' for you
+
+
 

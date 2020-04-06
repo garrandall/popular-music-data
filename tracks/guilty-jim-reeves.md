@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guilty-jim-reeves
+lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/guilty.html
 name: Guilty
 rankings:
 - end_date: '1963-07-05'
@@ -15,4 +16,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
 ---
+
+I've been accused, convicted and condemned
+The trial's over, and now I face the end,
+Is this your way of telling me we're through
+When all I'm guilty of, is loving you.
+
+You were the judge, the jury all in one
+You found me guilty and now my term's begun.
+I must confess, I've never been untrue
+And all I'm guilty of, is loving you.
+
+Loving you, and now I'm losing you
+Losing you, for things I didn't do.
+
+Please let your heart, consider an appeal
+For now you know, exactly how I feel.
+Don't punish me for things I didn't do
+When all I'm guilty of, is loving you.
+
+Yes, all I'm guilty of, is loving you...
+
+
 

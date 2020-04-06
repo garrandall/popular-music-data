@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-martina-mcbride
+lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/ride.html
 name: Ride
 rankings:
 - end_date: '2009-03-20'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
 ---
+
+Yeah
+
+You wake up from your dreamin' and you don't want to face the day
+You can't find a reason to think your world will ever change
+You can hide beneath the covers
+Or you can run outside, head up high and carry on
+
+Life is a roller coaster ride
+Time turns the wheel and love collides
+Faith is believing you can close your eyes and touch the sky
+To shine while you have the chance to shine
+Laugh even when you want to cry
+Hold on tight to what you feel inside and ride
+
+It brings you up slowly then shoots you like a rocket towards the ground
+It twists you and it shakes you before it turns you upside down
+You can't see what's around the corner
+And you can't look back, so just live it up and feel the rush
+
+Life is a roller coaster ride
+Time turns the wheel and love collides
+Faith is believing you can close your eyes and touch the sky
+So shine while you have the chance to shine
+Laugh even when you want to cry
+Hold on tight to what you feel inside and ride
+
+Ride, ride, yeah
+
+Oh yeah, shine while you have the chance to shine
+Laugh even when you want to cry
+Hold on tight to what you feel inside and ride
+
+Ride, ride, yeah, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-is-a-4-letter-word-bad-english
+lyrics_url: https://www.azlyrics.com/lyrics/badenglish/heavenisa4letterword.html
 name: Heaven Is A 4 Letter Word
 rankings:
 - end_date: '1990-04-20'
@@ -43,4 +44,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
 ---
+
+There's a rumor here
+And it's going round
+Can you hear it on the street
+If you realize that the pleasure lies
+Between surrender and the heat
+
+Just take a walk
+on the wild side babe
+And I'll meet you halfway there
+And if you're talking about paradise
+There's no need to say a prayer
+Cause baby I'll take you there
+
+Hey girl
+Haven't you heard
+Heaven is a four letter word
+One touch is never enough
+You'll find out when you enter the world
+Heaven is a four letter word
+
+Lose your innocence
+For experience
+But you've got to take the chance
+Can you rock and roll
+Can you get down babe
+Cause it's tough for you to dance
+
+Don't need to ride in a limousine
+To feel like a millionaire
+And if you're talking 'bout fantasy
+It could happen anywhere
+Baby I'll take you there
+
+Hey girl
+Haven't you heard
+Heaven is a four letter word
+One touch is never enough
+You'll find out when you enter the world
+Heaven is a four letter word
+
+It's like love and kiss
+And it feels like this
+Baby don't wait too long
+It's just me and you
+We know what to do
+And it's a long way til dawn
+
+Yeah
+
+Hey girl
+Haven't you heard
+Heaven is a four letter word
+One touch is never enough
+You'll find out when you enter the world
+Heaven is a four letter word
+
+Hey girl
+Haven't you heard
+Heaven is a four letter word
+One touch is never enough
+You'll find out when you enter the world
+Heaven is a four letter word
+
+(Hey girl)
+Oh yeah
+(Heaven is a four letter word)
+It's a four letter word
+(One touch)
+Haven't you heard
+(Heaven is a four letter word)
+
+Hey
+Hey girl
+Haven't you heard
+Heaven is a four letter word
+
+
 

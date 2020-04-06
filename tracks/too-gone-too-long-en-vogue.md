@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-gone-too-long-en-vogue
+lyrics_url: https://www.azlyrics.com/lyrics/envogue/toogonetoolong.html
 name: Too Gone Too Long
 rankings:
 - end_date: '1997-10-17'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
 ---
+
+
+Did I hear you say that
+You want another chance
+You need another try
+You're ready to reclaim your prize
+So you want my love back
+Why'd you let it slip away
+Why'd you ever let me go
+You're change of heart has come too late
+Well the door is locked you can't get in
+The game has changed you've been
+
+
+Too gone, too long baby
+To ever get back again
+In my heart
+Too gone, too long baby
+You're too many tears too late
+To ever get back to get back
+In my arms
+Been gone too gone too long
+
+
+Didn't you hear me say that
+You'd be a fool to leave
+You'd regret the road you chose
+You'd come running right back to me
+You had such a good love sugar
+You never found in no one else
+But what I knew all the time
+You had to find out for yourself
+But now you'll never know
+That love again
+You're on your own
+
+
+
+
+
+Did you really think I'd take you back
+Let you back in my life
+Oh baby just like that
+Someone new is loving me
+Loving you is what used to be
+Baby you're too late to win my heart again
+
+
+
+
 

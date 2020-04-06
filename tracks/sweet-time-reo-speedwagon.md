@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-time-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/sweettime.html
 name: Sweet Time
 rankings:
 - end_date: '1982-09-03'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
 ---
+
+When I awaken, feelin' no pain
+Visibly shaken, waitin' to touch you again
+My temperature's risin, but I'm fallin' a bit behind
+And that ain't so surprising, were gonna take our own sweet time
+
+
+Baby we can take our own sweet time
+And spend it when we want to 'cus it's yours and mine
+Let our love come easy and we find
+We can make it and we'll take our own sweet time
+
+I know when I hold you, it's a feelin' I can't explain
+But I never told you, I couldn't take it again
+But now I'm ready, I am ready to make you mine
+So I'm holdin steady, and we're gonna take our own sweet time
+
+
+
+
 

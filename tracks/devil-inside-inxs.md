@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: devil-inside-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/londongrammar/devilinside.html
 name: Devil Inside
 rankings:
 - end_date: '1988-02-19'
@@ -75,4 +76,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
 ---
+
+Here comes the woman
+With the look in her eyes
+Raised on leather
+With flesh on her mind
+Words as weapons
+Sharper than knives
+Makes you wonder
+How the other half died
+The other half died
+
+The devil inside, the devil inside
+Every single one of us, the devil inside
+The devil inside, the devil inside
+Every single one of us, the devil inside
+
+Here come the man
+With the look in his eyes
+Fed on nothing
+But full of pride
+Look at them go
+Look at them kick
+Makes you wonder
+How the other half live
+The other half live
+How the other half, live
+
+The devil inside, the devil inside
+Every single one of us, the devil inside
+The devil inside, the devil inside
+Every single one of us, the devil inside
+
+The devil inside, the devil inside, and
+Every single one of us, the devil inside
+And, every single
+Every single one of, us
+The devil inside
+Devil inside
+The devil
+Devil inside
+
+
 

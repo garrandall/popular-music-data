@@ -5,6 +5,7 @@ features:
 - Claudette Ortiz
 genres: []
 key: two-wrongs-wyclef-jean-claudette-ortiz
+lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/twowrongs.html
 name: Two Wrongs
 rankings:
 - end_date: '2002-07-19'
@@ -88,4 +89,123 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-23'
 ---
+
+
+I'm just sitting here playing the guitar
+(City High. Claudette. Wyclef)
+
+
+Excuse me if you see me screaming
+Deep in my mind I'm only dreaming
+'Cause if I wake, girl, and you're not by my side
+I'd feel like half of me is no longer alive
+So, please, shorty, before you walk out that door, booby
+Would you listen to my song
+
+
+If only I give you one last chance
+With the devil you can no longer dance
+You got to be faithful, so we could be fruitful
+Build a family and follow God's destiny
+So just before I run to the block, papi
+I might listen to your song
+
+
+Ooh, before you walk out that door, listen
+
+
+They say two wrongs don't make it right
+(don't make it right)
+So if I'm wrong I ain't trying to fight
+I'm trying to have some dinner with some candlelight
+Lay up in the bed and make love all night
+
+
+So, papi, I won't leave, maybe I'll just stay
+But promise me that you'll do the same
+
+
+Girl I'ma love you like I never love
+(touch me like you never touch me)
+Yo if you give me the chance, girl
+(yeah baby)
+I'm gonna show you
+
+
+Now baby understand
+(I understand)
+That I forgive you
+And I ain't gonna forget
+That you brought me pain
+(baby, baby, baby, baby)
+
+
+But I have grown
+From a thug to a man
+Build my castle with bricks
+And no longer with sand
+Oh, girl
+
+
+And just before I run to the block, baby
+I might listen to your song
+
+
+Ooh, before you walk out that door, listen
+
+
+They say two wrongs don't make it right
+(don't make it right)
+So if I'm wrong I ain't trying to fight
+(I don't wanna fight)
+I'm trying to have some dinner with some candlelight
+Lay up in the bed and make love all night
+
+
+So, papi, I won't leave, maybe I'll just stay
+But promise me that you'll do the same
+
+
+Girl, I'mma love you like I never love
+(touch me like you never touch me)
+Yo if you give me the chance girl
+I'm gonna show you
+
+
+I'm so used to the pain that I
+Can't see the sunshine no more
+I'm so used to the pain that the
+The sickness feels like the cure
+
+
+Ay, but if only you gave me
+The keys to your soul
+And let me in
+I'm gonna love you
+Over (over) and over (over) again
+
+
+They say two wrongs don't make it right
+(don't make it right)
+So if I'm wrong I ain't trying to fight
+(I don't wanna fight)
+I'm trying to have some dinner with some candlelight
+Lay up in the bed and make love all night
+(make love to me)
+
+
+So, papi, I won't leave, maybe I'll just stay
+But promise me that you'll do the same
+
+
+Girl, I'ma love you like I never love
+(touch me like you never touch me)
+Yo if you give me the chance, girl
+I'm gonna show you
+
+(Show me, yeah)
+I ain't gon' stay around the block no more
+I'll come home early, girl, I promise
+
+
 

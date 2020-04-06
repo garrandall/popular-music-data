@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-want-to-do-sugarland
+lyrics_url: https://www.azlyrics.com/lyrics/sugarland/alliwanttodo.html
 name: All I Want To Do
 rankings:
 - end_date: '2008-07-11'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
 ---
+
+I don't want to get up, baby lets turn off the phone
+I don't want to go to work today or even put my make-up on
+I got better things to do on my to-do list anyway
+Hide under the covers and waste away the day
+
+
+Let's just lay here and be lazy, baby drive me crazy
+All I want to do.....
+All I want to do..... is love you
+
+I got my whole life to change the world and climb ladders
+Looking at you looking at me is the only thing that matters
+Come a little closer baby we can talk without words
+Hang a sign on the door, "Please do not disturb"
+
+
+
+Give me a kiss, from that Elvis lip
+You don't want to miss this
+
+All I want to do.....
+All I want to do..... is love you
+
+All I really want to do is
+All I really want to do is
+All I really want to do is love you and love you and love you
+
+Come a little closer baby we can talk without words
+Hang a sign on the door,
+"Please do not, please do not, please do not, please do not disturb"
+
+When I lay down in the evening
+All I really want to do is
+When I wake up when I wake up in the morning baby
+All I really want to do is
+
+Ooo......
+Ooo......
+
+
 

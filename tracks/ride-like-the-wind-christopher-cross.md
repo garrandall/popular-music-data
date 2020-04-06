@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-like-the-wind-christopher-cross
+lyrics_url: https://www.azlyrics.com/lyrics/jorn/ridelikethewind.html
 name: Ride Like The Wind
 rankings:
 - end_date: '1980-02-22'
@@ -91,4 +92,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
 ---
+
+Oh... yeah!
+
+It is the night
+My body's weak
+I'm on the run
+No time for sleep
+I've got to ride
+Ride like the wind
+To be free again
+
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+I was born the son of a lawless man
+Always spoke my mind with a gun in my hand
+Lived nine lives
+Gunned down ten
+Gonna ride like the wind, yeah
+
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+And I'll ride like the wind
+Ride like the wind
+
+Accused and tried and told to hang
+I was nowhere in sight when the church bells rang
+Never was the kind to do as I was told
+Gonna ride like the wind before I get old
+
+It is the night
+My body's weak
+I'm on the run
+No time for sleep
+I've got to ride
+Ride like the wind
+To be free again
+
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+And I've got a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+Oh, and I've got such a long way to go
+To make it to the border of Mexico
+And I'll ride, ride like the wind
+Ride... I'll ride like the wind, yeah
+To be free, free, free, oh...
+
+Ride like the wind
+
+
 

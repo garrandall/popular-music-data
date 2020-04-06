@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: desperate-man-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/desperateman.html
 name: Desperate Man
 rankings:
 - end_date: '2018-08-03'
@@ -67,4 +68,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
 ---
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+I've seen the Joshua Tree
+Got down on my knees
+Threw the Virgin Mother a prayer
+I've walked glass barefooted
+Strolled 'cross the devil's hot coal
+I've tried everything, I swear
+
+Oh but hey (hey), what can I say?
+I'm a desperate man
+I said hey (hey), what can I say?
+I'm just a desperate man
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+Fortuneteller told me
+"No more last chances
+You got no future at all"
+Oh but I ain't listenin'
+To black-hearted gypsy
+Then a crucifix to a bedroom wall
+
+But hey (hey), what can I say?
+I'm a desperate man
+I said hey (hey), what can I say?
+I'm just a desperate man
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+I'm a half-cock, full-tilt, scarred-hands-to-the-hilt, don't-push-me grown-ass man
+Yeah flashin' light, caution, careful where ya cross son, 'til she comes back again
+
+But now hey (hey), what can I say?
+I'm a desperate man
+Oh hey (hey), what can I say?
+I'm just a desperate man
+
+Oh hey (hey), I said hey (hey)
+Woah what can I say, I'm a desperate man
+Oh hey (hey), I said hey (hey)
+I'm just a desperate man
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+Grown-ass man
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+Boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo, boo boo boo
+Boo boo boo boo boo
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-of-mine-monica
+lyrics_url: https://www.azlyrics.com/lyrics/monica/angelofmine.html
 name: Angel Of Mine
 rankings:
 - end_date: '1998-12-11'
@@ -127,4 +128,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
 ---
+
+When I first saw you I already knew
+There was something inside of you
+Something I thought that I would never find
+Angel of mine
+
+I look at you, lookin' at me
+Now I know why they say the best things are free
+I'm gonna love you boy you are so fine
+Angel of Mine
+
+How you changed my world you'll never know
+I'm different now, you helped me grow
+You came into my life sent from above
+When I lost all hope you showed me love
+I'm checkin' for ya boy you're right on time
+Angel of Mine
+
+Nothing means more to me than what we share
+No one in this whole world can ever compare
+Last night the way you moved is still on my mind
+Angel of Mine
+
+What you mean to me you'll never know
+Deep inside I need to show
+You came into my life sent from above (Sent from above)
+When I lost all hope, you showed me love (Boy you showed me love)
+I'm checkin' for ya, boy you're right on time (Right on Time)
+Angel of Mine (Angel of mine)
+
+I never knew I could feel each moment
+As if it were new,
+Every breath that I take, the love that we make
+I only share it with you (you, you, you,you)
+When I first saw you I already knew
+There was something inside of you
+Something I thought that I would never find
+Angel of Mine
+
+You came into my life sent from above (Came into my life, yeah yeah yeah)
+When I lost all hope you showed me love (Boy You showed me love, uh huh)
+I'm checkin' for ya, boy you're right on time (But boy your right on time)
+Angel of Mine (Angel of mine, oh mine)
+
+How you changed my world you'll never know
+I'm different now, you helped me grow
+
+I look at you lookin' at me
+Now I know why they say the best things are free
+I'm checkin' for ya, boy you're right on time
+Angel of Mine
+
+
 

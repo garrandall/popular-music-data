@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suddenly-billy-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/billyocean/suddenly.html
 name: Suddenly
 rankings:
 - end_date: '1985-03-29'
@@ -95,4 +96,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
 ---
+
+I used to think that love was just a fairy tale
+
+Until that first hello
+Until that first smile.
+But if I had to do it all again I wouldn't change a thing
+'Cause this love is everlasting.
+
+Suddenly - life has new meaning to me.
+There's beauty up above and things we never take notice of
+
+You wake up and suddenly you're in love.
+
+Girl
+You're everything a man could want and more.
+One thousand words are not enough to say what I feel inside.
+Holding hands as we walk along the shore
+
+Never felt like this before
+Now you're all I'm living for.
+Suddenly - life has new meaning to me...
+
+Each day I pray this love affair would last forever.
+Suddenly - life has new meaning to me...
+There's beauty up above and things we never take notice of
+
+You wake up and suddenly you're in love.
+There's beauty up above and things we never take notice of
+
+You wake up and suddenly you're in love.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-and-only-man-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/oneandonlyman.html
 name: One And Only Man
 rankings:
 - end_date: '1990-11-09'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
 ---
+
+Every time I see you, girl, it makes me feel so sad
+Knowing you've been seeing some other guy that treats you bad
+Did you know I'm burning deep inside for you?
+Just give me the chance now and we can see it through
+If you'll be my woman, I'll be your one and only man
+
+Gonna take you with me far away from hearts of stone
+We'll live in the country and raise some children of our own
+I will be your lover, I will be your friend
+I'll give you my loving, on that you can depend
+If you'll be my woman, I'll be your one and only man
+
+And there'll be no more crying, I'll make your dreams come true
+You know I'll never turn my back on you
+
+Take you to the city, girl, we're gonna buy some clothes
+Dress you up so pretty and then we'll take in all the shows
+Find a place that's jumping, where the music's tight
+And we'll keep on dancing 'til the morning light
+
+If you'll be my woman, I'll be your one and only man, oh yeah
+If you'll be my woman, I'll be your man
+Know I'm gonna give you everything I can
+If you'll be my woman, I'll be your man,
+There'll be no more running, gonna make a stand
+
+
 

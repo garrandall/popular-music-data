@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-firefall
+lyrics_url: https://www.azlyrics.com/lyrics/firefall/always.html
 name: Always
 rankings:
 - end_date: '1983-01-21'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
 ---
+
+How've you been, say it's me again
+It's been a long long time
+There's so much to say, where do I begin?
+I'll sit down and sing you a line
+I'm hoping everything is fine
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+Time is seasoned with endless love
+Memories never fade
+All the distance makes it hard to live
+But I dream about us everyday
+Oh, and missing you, I've just got to say
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+I see your face in the night when I'm dreaming
+I touch your smile far away
+Girl without you my life is empty
+But I'm hanging on
+Sending all my love (sending all my love)
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+You've got me thinking of you, always
+Every day, every night
+And when I'm thinking of you, always
+I want you more than life
+
+You've got me thinking of you, always
+
+
 

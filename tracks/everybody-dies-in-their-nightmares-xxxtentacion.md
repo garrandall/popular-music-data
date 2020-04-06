@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-dies-in-their-nightmares-xxxtentacion
+lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/everybodydiesintheirnightmares.html
 name: Everybody Dies In Their Nightmares
 rankings:
 - end_date: '2017-09-22'
@@ -35,4 +36,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
 ---
+
+
+Don't go, don't go to sleep
+Don't go, stay up and don't go
+
+
+Tired of feelin' like I'm trapped in my damn mind
+Tired of feelin' like I'm wrapped in a damn lie
+Tired of feelin' like my life is a damn game
+Nigga really wanna die in the night time
+
+Only time I feel pain, when I'm feelin' love
+That's why it's tatted on my face that I'm damn numb
+Only time I'm in my mind, when I'm all alone
+That's why I'm never really alone in the night time
+Change hoes like clothes, I can't get attached
+'Cause these hoes fire starters like lit matches
+I've been feeling really lost, ducking all attachments
+I don't really go outside 'cause I hate traffic
+I don't wanna go outside, gettin' caught in traffic, traffic
+
+
+Don't go, don't go to sleep
+Don't go, stay up and don't go
+
+Tired of feelin' like I'm trapped in my damn mind
+Tired of feelin' like I'm wrapped in a damn lie
+Tired of feelin' like my life is a damn game
+Nigga really wanna die in the night time
+Tired of feelin' like I'm trapped in my damn mind
+Tired of feelin' like I'm wrapped in a damn lie
+Tired of feelin' like my life is a damn game
+Nigga really wanna die in the night time
+Tired of feelin' like I'm trapped in my damn mind
+Tired of feelin' like I'm wrapped in a damn lie
+Tired of feelin' like my life is a damn game
+Nigga really wanna die in the night time
+Nigga really wanna die in the night time
+Nigga really wanna die in the night time
+Nigga really wanna die in the night time, uh
+Nigga really wanna die in the night time, uh
+Nigga really wanna die in the night time
+
+
+Don't go to sleep
+Don't go, stay up and don't go
+Don't go to sleep
+Don't go, stay up and don't go
+Don't go, don't go to sleep
+Don't go, stay up and don't...
+
+
 

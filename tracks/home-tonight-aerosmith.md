@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: home-tonight-aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/hometonight.html
 name: Home Tonight
 rankings:
 - end_date: '1976-10-01'
@@ -23,4 +24,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
+
+Now it's time 
+To say good night to you 
+Now it's time 
+To bid you sweet adieu 
+
+And maybe, drink a cheers to yesterday 
+And maybe, you'll drink those tears away 
+
+So baby, don't let go 
+Hold on real tight 
+'Cause i'll be home tonight 
+Tonight 
+
+So baby, don't let go
+Hold on real tight
+'Cause i'll be home tonight
+Tonight
+Tonight
+
+
 

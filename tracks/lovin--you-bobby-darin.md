@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovin--you-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/sittinherelovinyou.html
 name: Lovin' You
 rankings:
 - end_date: '1967-01-20'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+
+If you are wonderin'
+What I'm gonna do
+While you are sleepin'
+Am I sleepin', too?
+Well I'm just sittin' here lovin' you
+Close my eyes and lovin' you
+I'm just sittin' back
+Sittin' here lovin' you
+
+I have been wonderin'
+Just what I would do
+If I weren't sleepin'
+Had I not found you
+I'd be outside findin' you
+Walkin' on the avenue findin' you
+But I'm just sittin' back
+Sittin' here lovin' you
+
+Now the reason that you never see me runnin' 'round
+Fingers on my forehead couldn't calm me down
+She can't even get me up, on my feet
+When I got to take care of some bus'ness on the street
+
+I have been walkin'
+All my streets alone
+I would keep walkin'
+To keep from goin' home
+I couldn't quite barely conceive of you
+Now I can't conceive of ever leavin' you
+'Cause I'm just sittin' back
+Sittin' here lovin' you
+
+I have been walkin'
+All my streets alone
+I could keep walkin'
+To keep from going home
+I couldn't quite barely conceive of you
+Now I can't conceive of ever leavin' you
+'Cause I'm just sittin' back
+Sittin' here lovin' you
+
+I'm just sittin' back
+Sittin' here lovin' you
+
+I'm just sittin' back
+Sittin' here lovin' you!
+
+
 

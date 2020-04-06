@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-circle-is-small--i-can-see-it-in-your-eyes--gordon-lightfoot
+lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/thecircleissmall.html
 name: The Circle Is Small (I Can See It In Your Eyes)
 rankings:
 - end_date: '1978-02-17'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
 ---
+
+It's alright for some, but not alright for me
+When the one that I'm lovin' slips around
+You think it's fine to do things I cannot see
+And you're doin' it to me
+Baby, can't you see that I know how it is
+
+I can see it in your eyes and feel it in the way you kiss my lips
+I can hear it in your voice whenever we are talking just like this
+I can see the way you look when his name is mentioned and I die
+I can watch the way you walk, the way you talk, the way you close your eyes
+
+It's alright for some, but not alright for me
+When the one that I'm lovin' slips around
+The city where we live may be quite large
+But the circle is small
+Why not tell us all, and then all of us will know
+
+I can see it in your eyes and feel it in the way you kiss my lips
+I can hear it in your voice whenever we are talking just like this
+I can see the way you look when his name is mentioned and I die
+I can watch the way you walk, the way you talk, the way you close your eyes
+
+It's alright to feel, but not alright to lie
+When you come back and you can't say where you've been
+You think it's fine to do things I cannot see
+And you're doin' them to me
+Baby, can't you see, that I know how it is
+
+I can see it in your eyes and feel it in the way you kiss my lips
+I can hear it in your voice whenever we are talking just like this
+I can see the way you look when his name is mentioned and I die
+I can watch the way you walk, the way you talk, the way you close your eyes
+
+It's alright for some, but not alright with me
+With me
+
+
 

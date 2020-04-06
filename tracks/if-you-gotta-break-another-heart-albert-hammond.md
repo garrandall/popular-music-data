@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-gotta-break-another-heart-albert-hammond
+lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/ifyougottabreakanotherheart.html
 name: If You Gotta Break Another Heart
 rankings:
 - end_date: '1973-03-09'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+
+If you gotta break another heart
+Then break it, come on and break it
+If you gotta take that kind of chance
+Then take it, go on and take it
+
+Anything I say or do will make no difference
+In the end you'll go ahead and do what you really wanna do
+
+If you gotta break another heart, then break it
+If you gotta take that kind of chance
+Then take it, you are free to take it
+But don't come runnin' back to me
+
+If you're gonna make another change
+Then make it, go on and make it
+If you're gonna do it, do it now
+Don't leave it 'cause I can't take it
+
+Everybody knows that you were born a drifter
+You were born a drifter, baby, you'll never, never settle down
+
+If you gotta break another heart, then break it
+If you gotta take that kind of chance
+Then take it, you are free to take it
+But don't come runnin' back to me
+
+If you gotta play another tune, then play it
+If you gotta say what's on your mind
+Then say it, go ahead and say it
+But don't come runnin' back to me
+
+Da-da-da... then break it
+Da-da-da... another chance
+Then take it, you are free to take it
+But don't come runnin' back to me
+
+If you gotta play another tune...
+
+
 

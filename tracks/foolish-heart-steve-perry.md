@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foolish-heart-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/steveperry/foolishheart.html
 name: Foolish Heart
 rankings:
 - end_date: '1984-11-30'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
 ---
+
+I need a love that grows
+I don't want it unless I know
+With each passing hour
+Someone somehow
+Will be there, ready to share
+
+I need a love that's strong
+I'm so tired of being alone
+But will my lonely heart play the part
+Of the fool again
+Before I begin
+
+Foolish heart, hear me calling
+Stop before you start falling
+Foolish heart, heed my warning
+You've been wrong before
+Don't be wrong any more
+
+I'm feeling that feeling again
+I'm playing a game I can't win
+Love's knocking on the door
+Of my heart once more
+Think I'll let her in
+Before I begin
+
+Foolish heart, hear me calling
+Stop before you start falling
+Foolish heart, heed my warning
+You've been wrong before
+Don't be wrong any more
+
+Foolish heart
+Foolish, foolish heart
+You've been wrong before
+
+Foolish heart, hear me calling
+Stop before you start falling
+Foolish heart, heed my warning
+You've been wrong before
+Don't be wrong any more
+
+Foolish heart
+Oh, foolish, foolish heart
+You've been wrong before
+Foolish, foolish heart
+
+
 

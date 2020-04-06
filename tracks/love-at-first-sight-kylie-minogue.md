@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-at-first-sight-kylie-minogue
+lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/loveatfirstsight.html
 name: Love At First Sight
 rankings:
 - end_date: '2002-07-05'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
 ---
+
+Thought that I was going crazy
+Just having one those days yeah
+Didn't know what to do
+Then there was you
+
+And everything went from wrong to right
+And the stars came out and filled up the sky
+The music you were playing really blew my mind
+It was love at first sight
+
+'cause baby when I heard you
+For the first time I knew
+We were meant to be as one
+
+Was tired of running out of luck
+Thinking 'bout giving up yeah
+Didn't know what to do
+Then there was you
+
+And everything went from wrong to right
+And the stars came out and filled up the sky
+The music you were playing really blew my mind
+It was love at first sight
+
+'cause baby when I heard you
+For the first time
+I knew we were meant to be as one
+
+And everything went from wrong to right 
+And the stars came out and filled up the sky
+The music you were playing really blew my mind
+It was love at first sight
+
+
 

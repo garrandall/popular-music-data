@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hopelessly-rick-astley
+lyrics_url: https://www.azlyrics.com/lyrics/rickastley/hopelessly.html
 name: Hopelessly
 rankings:
 - end_date: '1993-09-10'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
 ---
+
+I walk the wire every night
+I can't decide between wrong and right
+I've lost control over the things i do
+'Cause I'm hopelessly falling in love with you
+
+Now the one who never took a chance
+Becomes a victim of circumstance
+I've lost my way, now I'm so confused
+'Cause I'm hopelessly falling in love with you
+
+All my dreams are far behind me
+They don't matter anymore
+I don't care about the things I could lose
+'Cause I'm hopelessly falling in love with you
+
+Now the one who always played it safe
+Becomes another who's lost his way
+I can't believe it, though I know it's true
+'Cause I'm hopelessly falling in love with you
+
+And all my dreams begin to blind me
+And I was so confused
+And I don't care about the things I could lose
+'Cause I'm hopelessly falling in love with you
+
+I'm not gonna fight it, I'm gonna choose
+To hopelessly fall, oh yeah
+You know I'll hopelessly fall in love, with you.
+
+
 

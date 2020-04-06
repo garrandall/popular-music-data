@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-b-goode-peter-tosh
+lyrics_url: https://www.azlyrics.com/lyrics/petertosh/johnnybgoode.html
 name: Johnny B Goode
 rankings:
 - end_date: '1983-07-15'
@@ -23,4 +24,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
 ---
+
+Deep down in Jamaica, close to Mandeville
+Back up in the woods, on top of a hill
+There stood an old hut made of earth and wood
+Where lived a country boy named Johnny B. Goode
+
+He never learned to read and a-write so well
+But he could play his guitar like ringing a bell, yell
+
+Go, Johnny, Johnny B. Goode tonight
+Go, Johnny, Johnny B. Goode tonight
+
+He used to carry his guitar in a gunny sack
+Sitting in a tree in the railroad track
+Old engineer in the train sitting in the shade
+Strummin' with the rhythm that them drivers made
+
+People passing by would stop and say
+Oh my, oh my, what the boy can play
+
+Go, Johnny, Johnny B. Goode tonight
+Go, Johnny, Johnny B. Goode tonight
+
+Mama said: Son, you gotta be a man
+You gotta be the leader of a reggae band
+People coming in from miles around
+To hear you play until the sun goes down
+
+Boy, someday, your name will be in the lights
+Saying: Johnny B. Goode tonight
+
+Go, Johnny, Johnny B. Goode tonight
+Go, Johnny, Johnny B. Goode tonight
+
+
 

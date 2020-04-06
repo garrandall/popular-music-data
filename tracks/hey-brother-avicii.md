@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-brother-avicii
+lyrics_url: https://www.azlyrics.com/lyrics/avicii/brothersister.html
 name: Hey Brother
 rankings:
 - end_date: '2013-12-27'
@@ -99,4 +100,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
 ---
+
+Hey, brother, there's an endless road to re-discover
+Hey, sister, know the water's sweet but blood is thicker
+Oh, if the sky comes falling down for you
+There's nothing in this world I wouldn't do
+
+Hey, brother, do you still believe in one another?
+Hey, sister, do you still believe in love, I wonder?
+Oh, if the sky comes falling down for you
+There's nothing in this world I wouldn't do
+
+What if I'm far from home?
+Oh, brother, I will hear you call
+What if I lose it all?
+Oh, sister, I will help you out!
+Oh, if the sky comes falling down for you
+There's nothing in this world I wouldn't do
+
+Hey, brother, there's an endless road to re-discover
+Hey, sister, do you still believe in love, I wonder?
+Oh, if the sky comes falling down for you
+There's nothing in this world I wouldn't do
+
+What if I'm far from home?
+Oh, brother, I will hear you call
+What if I lose it all?
+Oh, sister, I will help you out!
+Oh, if the sky comes falling down for you
+There's nothing in this world I wouldn't do
+
+
 

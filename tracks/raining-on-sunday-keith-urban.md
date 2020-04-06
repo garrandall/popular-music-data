@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: raining-on-sunday-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/rainingonsunday.html
 name: Raining On Sunday
 rankings:
 - end_date: '2003-03-21'
@@ -83,4 +84,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
+
+It ticks just like a Timex
+It never lets up on you 
+Who said life was easy
+The job is never through
+It'll run us 'til we're ragged
+It'll harden our hearts
+And love could use a day of rest
+Before we both start falling apart
+
+Pray that it's raining on Sunday
+Stormin' like crazy
+We'll hide under the covers all afternoon
+Baby whatever comes Monday
+Can take care of itself
+'Cause we got better things that we could do
+When it's raining on Sunday
+
+Your love is like religion
+A cross in Mexico
+And your kiss is like the innocence 
+Of a prayer nailed to a door
+Oh surrender in much sweeter
+When we both let it go
+Let the water wash our bodies clean
+And love wash our souls
+
+Pray that it's raining on Sunday
+Stormin' like crazy
+We'll hide under the covers all afternoon
+Baby whatever comes Monday
+Can take care of itself
+'Cause we got better things that we could do
+When it's raining on Sunday
+
+Pray that it's raining on Sunday
+Stormin' like crazy
+We'll hide under the covers all afternoon
+Baby whatever comes Monday
+Can take care of itself
+'Cause we got better things that we could do
+When it's raining on Sunday
+When it's raining on Sunday
+When it's raining on Sunday
+Let it rain
+
+
 

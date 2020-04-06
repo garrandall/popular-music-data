@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-shoop-shoop-song--it-s-in-his-kiss--cher
+lyrics_url: https://www.azlyrics.com/lyrics/cher/theshoopshoopsongitsinhiskiss.html
 name: The Shoop Shoop Song (It's In His Kiss)
 rankings:
 - end_date: '1990-11-30'
@@ -71,4 +72,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
 ---
+
+Does he love me I want to know
+How can I tell if he loves me so
+Is it in his eyes?
+Oh no! You'll be deceived
+Is it in his sighs?
+Oh no! He'll make believe
+If you want to know if he loves you so
+It's in his kiss
+That's where it is
+
+Is it in his face?
+Oh no! That's just his charms
+In his warm embrace?
+Oh no! That's just his arms
+If you want to know if he loves you so
+It's in his kiss
+That's where it is
+It's in his kiss
+That's where it is
+
+Hug him and squeeze him tight
+Find out what you want to know
+If it's love, if it really is
+It's there in his kiss
+
+How about the way he acts
+Oh no! That's not the way
+And you're not list'nin' to all I say
+If you wanna know if he loves you so
+It's in his kiss
+That's where it is
+It's in his kiss
+That's where it is
+
+Hug him and squeeze him tight
+Find out what you want to know
+If it's love, if it really is
+It's there in his kiss
+
+How about the way he acts
+Oh no! That's not the way
+And you're not listnin' to all I say
+If you wanna know if he loves you so
+It's in his kiss
+That's where it is
+
+It's in his kiss
+That's where it is
+It's in his kiss
+That's where it is
+
+It's in his kiss
+That's where it is
+It's in his kiss
+That's where it is
+
+
 

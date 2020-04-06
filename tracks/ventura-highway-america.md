@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ventura-highway-america
+lyrics_url: https://www.azlyrics.com/lyrics/america/venturahighway.html
 name: Ventura Highway
 rankings:
 - end_date: '1972-10-27'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
 ---
+
+Chewing on a piece of grass
+Walking down the road
+Tell me, how long you gonna stay here, Joe?
+Some people say this town don't look good in snow
+You don't care, I know
+
+Ventura Highway in the sunshine
+Where the days are longer
+The nights are stronger than moonshine
+You're gonna go I know
+
+'Cause the free wind is blowin' through your hair
+And the days surround your daylight there
+Seasons crying no despair
+Alligator lizards in the air, in the air
+
+Did di di di dit ...
+
+Wishin' on a falling star
+Waitin' for the early train
+Sorry boy, but I've been hit by purple rain
+Aw, come on, Joe, you can always
+Change your name
+Thanks a lot, son, just the same
+
+Ventura Highway in the sunshine
+Where the days are longer
+The nights are stronger than moonshine
+You're gonna go I know
+
+'Cause the free wind is blowin' through your hair
+And the days surround your daylight there
+Seasons crying no despair
+Alligator lizards in the air, in the air
+
+Did di di di dit ...
+
+
 

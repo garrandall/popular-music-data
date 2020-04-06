@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: second-chance-shinedown
+lyrics_url: https://www.azlyrics.com/lyrics/shinedown/secondchance.html
 name: Second Chance
 rankings:
 - end_date: '2008-12-19'
@@ -171,4 +172,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-09-19'
 ---
+
+My eyes are open wide
+By the way
+I made it through the day
+I watched the world outside
+By the way
+I'm leaving out today
+
+I just saw Halley's comet
+She waved
+Said, "Why you always running in place?"
+Even the man in the moon disappeared
+Somewhere in the stratosphere
+
+Tell my mother
+Tell my father
+I've done the best I can
+To make them realize
+This is my life
+I hope they understand
+I'm not angry, I'm just saying
+Sometimes goodbye is a second chance
+
+Please don't cry one tear for me
+I'm not afraid
+Of what I have to say
+This is my one and only voice
+So listen close
+It's only for today
+
+I just saw Halley's comet
+She waved
+Said, "Why you always running in place?"
+Even the man in the moon disappeared
+Somewhere in the stratosphere
+
+Tell my mother
+Tell my father
+I've done the best I can
+To make them realize
+This is my life
+I hope they understand
+I'm not angry, I'm just saying
+Sometimes goodbye is a second chance
+
+Here's my chance
+This is my chance
+
+Tell my mother
+Tell my father
+I've done the best I can
+To make them realize
+This is my life
+I hope they understand
+I'm not angry, I'm just saying
+Sometimes goodbye is a second chance
+
+Sometimes goodbye is a second chance
+Sometimes goodbye is a second chance
+
+
 

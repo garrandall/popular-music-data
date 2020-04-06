@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: disease-matchbox-twenty
+lyrics_url: https://www.azlyrics.com/lyrics/matchbox20/disease.html
 name: Disease
 rankings:
 - end_date: '2002-10-25'
@@ -87,4 +88,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
+
+Feels like you made a mistake
+You made somebody's heart break
+But now I have to let you go
+I have to let you go
+
+You left a stain
+On every one of my good days
+But I am stronger than you know
+I have to let you go
+
+No one's ever turned you over
+No one's tried to ever let you down
+Beautiful girl, bless your heart
+
+I got a disease deep inside me
+Makes me feel uneasy, baby
+I can't live without you
+Tell me what am I supposed to do about it?
+Keep your distance from it
+Don't pay no attention to me
+I got a disease
+
+Feels like you're making a mess
+You're hell on wheels in a black dress
+You drove me to the fire
+And left me there to burn
+
+Every little thing you do is tragic
+All my life before was magic
+Beautiful girl, I can't breathe
+
+I got a disease deep inside me
+Makes me feel uneasy, baby
+I can't live without you
+Tell me what am I supposed to do about it?
+Keep your distance from it
+Don't pay no attention to me
+I got a disease
+
+And well I think that I'm sick
+But leave me be while my world is coming down on me
+You taste like honey, honey
+Tell me can I be your honey bee
+Be strong
+Keep telling myself that it won't take long
+'Til I'm free of my disease
+
+Yeah, well, free of my disease
+Free of my disease
+
+Yeah, well, I got a disease deep inside me
+Makes me feel uneasy, baby
+I can't live without you
+Tell me what am I supposed to do about it?
+Keep your distance from it
+Don't pay no attention to me
+I got a disease
+
+Yeah, well, I think that I'm sick
+But leave me be while my world is coming down on me
+You taste like honey, honey
+Tell me can I be your honey bee
+Be strong
+Keep telling myself that it won't take long
+'Til I'm free of my disease
+
+Yeah, free of my disease
+Set me free of my disease
+Oh, oh, yeah
+
+
 

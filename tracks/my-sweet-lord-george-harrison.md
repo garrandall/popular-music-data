@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-sweet-lord-george-harrison
+lyrics_url: https://www.azlyrics.com/lyrics/billypreston/mysweetlord.html
 name: My Sweet Lord
 rankings:
 - end_date: '1970-12-04'
@@ -67,4 +68,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
 ---
+
+My sweet Lord
+Hmm, my Lord
+Hmm, my Lord
+
+I really want to see you
+I really want to be with you
+I really want to see you, Lord
+But it won't take long, my Lord
+
+My sweet Lord
+Hmm, my Lord
+Hmm, my Lord
+
+I really want to know you
+I really want to go with you
+I really want to show you, Lord
+But it won't take long, my Lord
+
+My sweet Lord
+My sweet Lord
+My sweet Lord
+
+I really want to see you
+I really want to see you
+I really want to see you, Lord
+I really want to see you, Lord
+But it takes so long, my Lord
+
+My sweet Lord
+Hmm, my Lord
+My, my, Lord
+
+I really want to know you, Lord
+I really want to go with you
+I really want to show you, Lord
+That it won't take long, oh Lord
+
+(Hallelujah)
+Hmm Lord
+(Hallelujah)
+My sweet Lord
+(Hallelujah)
+My my Lord
+(Hallelujah)
+
+Hallelujah
+Hallelujah
+
+(Hallelujah)
+My sweet Lord
+(Hallelujah)
+My sweet Lord
+(Hallelujah)
+Oh, my sweet Lord
+(Hallelujah)
+My sweet Lord
+(Hallelujah)
+
+I really want to see you
+(Hallelujah)
+I really want to be with you
+(Hallelujah)
+I really want to see you, Lord
+(Ah)
+But it takes so long, oh Lord
+(Hallelujah)
+
+My sweet Lord
+(Hare Krishna)
+Oh, my sweet Lord
+(Hare Krishna)
+My sweet Lord
+(Hare Krishna)
+My sweet, sweet Lord
+(Hare Krishna)
+
+Oh, my my Lord
+(Hare Krishna)
+Oh, my Lord
+(Hare Krishna)
+My sweet Lord
+(Hare Krishna)
+Sweet, sweet Lord
+(Hare Krishna)
+
+
 

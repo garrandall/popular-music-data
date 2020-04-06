@@ -5,6 +5,7 @@ features:
 - Christina Aguilera
 genres: []
 key: moves-like-jagger-maroon-5-christina-aguilera
+lyrics_url: https://www.azlyrics.com/lyrics/maroon5/moveslikejagger.html
 name: Moves Like Jagger
 rankings:
 - end_date: '2011-07-15'
@@ -204,4 +205,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
 ---
+
+
+Oh...
+Oh!
+
+Just shoot for the stars
+If it feels right
+And aim for my heart
+If you feel like
+And take me away and make it OK
+I swear I'll behave
+
+You wanted control
+So we waited
+I put on a show
+Now I make it
+You say I'm a kid
+My ego is big
+I don't give a shit
+
+And it goes like this (Uh)
+
+Take me by the tongue
+And I'll know you
+Kiss me 'til you're drunk
+And I'll show you
+
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the moves like Jagger
+
+I don't need to try to control you
+Look into my eyes and I'll own you
+
+With them moves like Jagger
+I've got the moves like Jagger
+I've got the moves like Jagger
+
+Maybe it's hard
+When you feel like you're broken and scarred
+Nothing feels right
+But when you're with me
+I'll make you believe
+That I've got the key
+
+Oh
+So get in the car
+We can ride it
+Wherever you want
+Get inside it
+And you want to steer
+But I'm shifting gears
+I'll take it from here (Oh! Yeah yeah!)
+And it goes like this (Uh)
+
+Take me by the tongue
+And I'll know you (Uh)
+Kiss me 'til you're drunk
+And I'll show you
+
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the moves like Jagger
+
+I don't need to try to control you (Oh, yeah)
+Look into my eyes and I'll own you
+
+With them moves like Jagger
+I've got the moves like Jagger (Yeah yeah)
+I've got the moves like Jagger
+
+
+You wanna know how to make me smile
+Take control, own me just for the night
+And if I share my secret
+You're gonna have to keep it
+Nobody else can see this
+
+So watch and learn
+I won't show you twice
+Head to toe, oooh baby rub me right
+But if I share my secret
+You're gonna have to keep it
+Nobody else can see this (Ay! Ay! Ay! Aaay!)
+
+
+And it goes like this (Uh)
+
+Take me by the tongue
+And I'll know you (Take me by the tongue)
+Kiss me 'til you're drunk
+And I'll show you (Yeah yeah yeah!)
+
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the moves like Jagger
+(Oh, yeah)
+I don't need to try to control you
+Look into my eyes and I'll own you
+
+With them moves like Jagger
+I've got the moves like Jagger
+I've got the moves like Jagger
+
+
 

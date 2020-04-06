@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-wants-to-rule-the-world-tears-for-fears
+lyrics_url: https://www.azlyrics.com/lyrics/pattismith/everybodywantstoruletheworld.html
 name: Everybody Wants To Rule The World
 rankings:
 - end_date: '1985-03-22'
@@ -103,4 +104,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
 ---
+
+Welcome to your life
+There's no turning back
+Even while sleep
+We will find you
+Acting on your best behaviour
+Turn your back on mother nature
+Everybody wants to rule the world
+It's my own design
+It's my own remorse
+Help me to decide
+Help make the most
+Of freedom and of pleasure
+Nothing ever lasts forever
+Everybody wants to rule the world
+There's a room where the light won't find you
+Holding hands while the walls come tumbling down
+When they do I'll be right behind you
+So glad we've almost made it
+So sad they had fade it
+Everybody wants to rule the world
+I can't stand this indecision
+Married with a lack of vision
+Everybody wants to rule the world
+Say that you'll never never never need it
+One headline why believe it?
+Everybody wants to rule the world
+All for freedom and for pleasure
+Nothing ever lasts forever
+Everybody wants to rule the world
+
+
 

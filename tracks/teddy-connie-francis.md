@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teddy-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/teddy.html
 name: Teddy
 rankings:
 - end_date: '1960-03-06'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+
+There's a guy I want you to know
+He's the guy I love so
+He's my Teddy, oh Teddy
+I I love you so
+
+Oh I remember the day that we met
+I'd be so silly to ever forget
+Oh Teddy, Aw Teddy
+I I love him so
+
+He is so shy, it doesn't matter
+You're my guy can't you see
+
+That I want you, I need you
+I love you I do
+And you belong to me
+
+I'll always love you
+The rest of my life
+We could get married
+I'd be your wife
+Wo-o-o Teddy, aw Teddy
+I, I love you so
+
+I'll always love you
+The rest of my life
+We could get married
+I'd be your wife
+Wo-o-o Teddy, aw Teddy
+I, I love you so
+
+
 

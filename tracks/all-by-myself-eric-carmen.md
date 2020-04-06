@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-by-myself-eric-carmen
+lyrics_url: https://www.azlyrics.com/lyrics/priscillaahn/allbymyself.html
 name: All By Myself
 rankings:
 - end_date: '1975-12-26'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
 ---
+
+Livin' alone
+I think of all the friends I've known
+But when I dial the telephone
+Nobody's home
+Nobody's home
+
+All by myself
+Don't wanna be
+All by myself
+
+All by myself
+Don't wanna be
+All by myself
+
+Hard to be sure
+Sometimes I feel so insecure
+And loves so distant and obscure
+Remains the cure
+Remains
+
+All by myself
+Don't wanna be
+All by myself
+(Anymore)
+
+All by myself
+Don't wanna be
+All by myself
+(Anymore)
+
+All by myself
+Don't wanna be
+All by myself
+(Anymore)
+
+All by myself
+Don't wanna be
+All by myself
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-girls--song-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/thegirlssong.html
 name: The Girls' Song
 rankings:
 - end_date: '1970-04-10'
@@ -39,4 +40,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
 ---
+
+I'd like, to make, a long distance call
+To a number West L.A.
+I've been trying to reach it all day
+But no one answers
+
+Tell me why
+Was I so unkind
+I hope he's still on that line
+I'll make it up to him
+
+If he hasn't changed his number
+(If he hasn't changed his number)
+If he hasn't changed his mind
+
+I know, it's late
+But please let it ring
+Another time or two
+Or three
+
+He'd be hurt if he knew it was me
+And I was waiting for him
+
+Why was I so unkind
+I hope he's still on that line
+I'll make it up to him
+
+If he hasn't changed his number
+(If he hasn't changed his number)
+If he hasn't changed his mind
+
+Lonely person to lonely person
+
+Oh tell me why was I so unkind
+I hope he's still on that line
+I'll make it up to him
+
+If he hasn't changed his number
+(If he hasn't changed his number)
+If he hasn't changed his mind
+
+
 

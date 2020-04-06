@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-goonies--r--good-enough-cyndi-lauper
+lyrics_url: https://www.azlyrics.com/lyrics/newfoundglory/thegooniesrgoodenough.html
 name: The Goonies `R' Good Enough
 rankings:
 - end_date: '1985-05-24'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
 ---
+
+Here we are hanging onto strains of greens and blues
+Break the chain then we break down
+It's not real if you don't feel it
+Unspoken expectations, ideals you used to play with
+They've finally taken shape for us
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+Now you'll say you're starting to feel a push and pull
+Of what could be and never can
+You mirror me stumbling through this
+
+Old fashioned superstitions, I find too hard to break
+Oh, maybe you're out of place
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+Old fashioned superstitions, I find too hard to break
+Oh, maybe you're out of place
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+What's good enough for you is good enough for me
+It's good enough, it's good enough for me
+Oh, yeah, yeah, yeah, yeah
+
+
 

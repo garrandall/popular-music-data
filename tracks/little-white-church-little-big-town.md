@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-white-church-little-big-town
+lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/littlewhitechurch.html
 name: Little White Church
 rankings:
 - end_date: '2010-06-25'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
 ---
+
+You've been singing, that same old song
+Far too long, far too long
+Say you'll buy me a shiny ring
+But your words don't mean a thing
+No more calling me baby
+No more loving like crazy
+
+
+Til' you take me down (take me down)
+You better take me down (take me down)
+Take me down to the little white church
+Take me down (take me down)
+Take me down (take me down)
+Take me down to the little white church
+Take me down....
+
+You can't ride this gravy train
+Anymore, anyway
+There's a price for keeping me
+I might be cheap, but I ain't free
+No more calling me baby
+No more loving like crazy
+
+
+Come on!
+
+Charming devil, silver tongue
+Had your fun, now you're done
+Mama warned me 'bout your games
+She don't like you anyways
+
+No more calling me baby
+No more loving like crazy
+No more chicken and gravy
+I ain't gonna have your baby!
+
+
+
+Take me down to the little white church, take me down
+Take me down, take me down to the little white church
+Take me down, take me down, take me down, take me down to the little white church
+Take me down to the little white church, take me down to the little white church
+
+
 

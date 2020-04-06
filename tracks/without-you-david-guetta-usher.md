@@ -5,6 +5,7 @@ features:
 - Usher
 genres: []
 key: without-you-david-guetta-usher
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/withoutyou.html
 name: Without You
 rankings:
 - end_date: '2011-09-23'
@@ -128,4 +129,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
 ---
+
+I can't win, I can't reign
+I will never win this game
+Without you, without you
+I am lost, I am vain
+I will never be the same
+Without you, without you
+
+I won't run, I won't fly
+I will never make it by
+Without you, without you
+I can't rest, I can't fight
+All I need is you and I
+Without you, without you
+
+Oh oh oh!
+You! You! You!
+Without...
+You! You! You!
+Without... you
+
+I can't erase, so I'll take blame
+But I can't accept that we're estranged
+Without you, without you
+I can't quit now, this can't be right
+I can't take one more sleepless night
+Without you, without you
+
+I won't soar, I won't climb
+If you're not here, I'm paralyzed
+Without you, without you
+I can't look, I'm so blind
+I lost my heart, I lost my mind
+Without you, without you
+
+Oh oh oh!
+You! You! You!
+Without...
+You! You! You!
+Without... you
+
+I am lost, I am vain
+I will never be the same
+Without you, without you
+Without... you
+
+
 

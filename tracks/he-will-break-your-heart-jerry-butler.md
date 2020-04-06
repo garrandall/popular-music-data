@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-will-break-your-heart-jerry-butler
+lyrics_url: https://www.azlyrics.com/lyrics/walkerbrothers/hellbreakyourheart.html
 name: He Will Break Your Heart
 rankings:
 - end_date: '1960-11-06'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
 ---
+
+He don't love you
+Like I love you
+If he did he wouldn't
+Break your heart
+He don't love you
+Like I love you
+He's tryin' to tear us apart
+
+Fare thee well
+I know you're leavin'
+For the new love
+That you've found
+That handsome guy
+You've been datin'
+I've got a feelin'
+He's gonna put you down
+
+He don't love you
+Like I love you
+If he did he wouldn't
+Break your heart
+He don't love you
+Like I love you
+He's tryin' to tear us apart
+
+He uses all the great locations
+He says the things
+I wish I could say
+But he's had so many rehearsals, girl
+To him it's just another play
+
+And when the final act is over
+And you're left standin' all alone
+When he takes his bow
+And makes his exit
+Oh darling, then
+I'll be there to take you home
+
+He don't love you
+Like I love you
+If he did he wouldn't
+Break your heart
+He don't love you
+Like I love you
+He's tryin' to tear us apart
+
+He don't love you (and he never will)
+Like I love you
+If he did he wouldn't break your heart
+He don't love you
+Like I love you
+He's tryin' to tear us apart
+
+
 

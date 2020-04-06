@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: september-in-the-rain-dinah-washington
+lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/septemberintherain.html
 name: September In The Rain
 rankings:
 - end_date: '1961-10-22'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
 ---
+
+The leaves of brown
+Came tumblin' down, remember
+In September in the rain
+
+The sun went out
+Just like a dying ember
+That September in the rain
+
+To every word of love
+I heard you whisper
+The raindrops seemed to play
+A sweet refrain
+
+Though spring is here
+To me it's still September
+That September in the rain
+
+To every word of love
+I heard you whisper
+The raindrops seemed to play
+A sweet refrain
+
+Though spring is here
+To me it's still September
+That September in the rain
+That September in the rain
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-her-lonestar
+lyrics_url: https://www.azlyrics.com/lyrics/lonestar/tellher.html
 name: Tell Her
 rankings:
 - end_date: '2000-11-24'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
 ---
+
+So you say your love's about to end
+You say you can't take no more
+She's out the door
+And your looking for a friend
+
+Who am I to tell you why
+But I'm just curious, were you furious
+Or did you swallow your pride
+And look her in the eye and
+
+Tell her that you love her
+Tell her that you need her
+Tell her that you want her to stay
+Reassure her with a kiss
+She may never know unless you
+Show her what your feeling
+Tell her you're believing
+Even though it's hard to say
+'Cause she needs to know you're thinking of her
+So open up and tell her that you love her
+
+Brother I've been right where you are now
+And my heart was broke
+'Cause I never spoke
+Those healing words out loud
+
+But I've learned my lesson well
+And now every night
+Before I close my eyes
+I look at my woman and
+I ask myself did you
+
+Tell her that you love her
+Tell her that you need her
+Tell her that you want her to stay
+Reassure her with a kiss
+She may never know unless you
+Show her what your feeling
+Tell her you're believing
+Even though it's hard to say
+'Cause she needs to know you're thinking of her
+So open up and tell her that you love her
+
+Tell her that you love her
+
+Tell her that you love her
+Tell her that you need her
+Tell her that you want her to stay
+Reassure her with a kiss
+She may never know unless you
+Show her what your feeling
+Tell her you're believing
+Even though it's hard to say
+'Cause she needs to know you're thinking of her
+So open up and tell her that you love her
+Tell her that you love her
+
+
 

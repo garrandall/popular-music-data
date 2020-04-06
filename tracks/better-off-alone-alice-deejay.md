@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-off-alone-alice-deejay
+lyrics_url: https://www.azlyrics.com/lyrics/galantis/youalonepsychictypemashup.html
 name: Better Off Alone
 rankings:
 - end_date: '2000-04-14'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
 ---
+
+(I'll remember you)
+Do you think you're better off alone?
+(I'll remember you)
+Do you think you're better off alone?
+(I'll remember you)
+Do you think you're better off alone?
+(I'll remember you)
+Do you think you're better off alone?
+(I'll remember you)
+Do you think you're better off alone?
+Do you think you're better off alone?
+
+(I'll remember you
+I'll remember you
+I'll remember you, you)
+Do you think you're better off alone?
+(I'll remember you
+I'll remember you, you)
+
+Hey, what's your name?
+Hey, what's your name?
+'Cause I, I need to know
+(Need to know)
+'Cause I, I need to know
+
+I've been high and I've been low
+Far beyond and far below
+Never seen you before
+If I die before I wake
+Promise me you'll remember me tomorrow
+
+'Cause, 'cause, 'cause, 'cause...
+
+(I'll remember you
+I'll remember you
+I'll remember you, you)
+Do you think you're better off alone?
+(I'll remember you
+I'll remember you, you)
+
+
 

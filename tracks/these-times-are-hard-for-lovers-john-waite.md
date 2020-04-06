@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: these-times-are-hard-for-lovers-john-waite
+lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/thesetimesarehardforlovers.html
 name: These Times Are Hard For Lovers
 rankings:
 - end_date: '1987-06-26'
@@ -71,4 +72,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
 ---
+
+Babe I had a dream
+Woke up in a sweat
+Darkness all around me
+I was caught in its net
+Tried to reach for you
+But you weren't there
+It only was a dream
+But it put danger in the air 
+I can feel the nervous rhythm
+of your heart with mine
+Could we ever stay together
+Stand the test of time
+Baby make me a believer 
+Cause this world will lie
+(Oh these times are hard for lovers)
+It's getting harder for you and me
+It's hard on me and you 
+Baby we can make it 
+Cause our love will pull us through
+These times are hard for lovers
+It's down to me in you
+Nothing's gonna break us
+If we hang on to what's true
+These times are hard for lovers
+I believe in you
+These times are hard for lovers
+I believe in you 
+Everywhere you turn
+Trouble going on
+Living under pressure
+Loving under the gun
+It's hard enough to live
+Draw another breath
+Hang on to me baby
+Like it's life or death 
+I can feel the nervous rhythm of your heart with mine
+Could we ever stay together
+Stand the test of time
+Baby make me a believer 
+Cause this world will lie
+(Oh these times are hard for lovers)
+It's getting harder for you and me
+It's hard on me and you 
+Baby we can make it 
+Cause our love will pull us through
+These times are hard for lovers
+It's down to me in you
+Nothing's gonna break us
+If we hang on to what's true
+These times are hard for lovers
+I believe in you
+These times are hard for lovers
+I believe in you 
+Can you feel the nervous rhythm of your heart with mine
+Could we ever stay together
+Stand the test of time
+Baby make me a believer 
+Cause this world will lie
+We've got to go the distance
+Touch the sky 
+Baby we can make it 
+Cause our love will pull us through
+These times are hard for lovers
+It's down to me in you
+Nothing's gonna break us
+If we hang on to what's true
+These times are hard for lovers
+I believe in you
+(These times are hard for lovers whoa)
+Whoa
+(These times are hard for lovers oh yeah)
+(These times are hard for lovers whoa)
+Whoa
+(These times are hard for lovers oh yeah)
+I believe in you
+(These times are hard for lovers whoa)
+When I turn to you
+(These times are hard for lovers oh yeah)
+Yeah
+But I don't believe it
+(These times are hard for lovers whoa)
+Yeah
+(These times are hard for lovers oh yeah)
+Whoa
+(These times are hard for lovers whoa)
+Baby I believe in you
+(These times are hard for lovers oh yeah)
+Baby I believe in you
+(These times are hard for lovers whoa)
+Baby I believe in you
+(These times are hard for lovers oh yeah)
+
+
 

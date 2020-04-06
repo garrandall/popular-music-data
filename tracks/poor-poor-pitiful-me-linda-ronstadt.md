@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poor-poor-pitiful-me-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/poorpoorpitifulme.html
 name: Poor Poor Pitiful Me
 rankings:
 - end_date: '1978-02-03'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
 ---
+
+Well I lay my head on the railroad track
+Waiting on the Double E
+But the train don't run by here no more
+Poor poor pitiful me
+
+Poor poor pitiful me
+Poor poor pitiful me
+Oh these boys won't let me be
+Lord have mercy on me
+Woe woe is me
+
+Well I met a man out in Hollywood
+Now I ain't naming names
+Well he really worked me over good
+Just like Jesse James
+Yes he really worked me over good
+He was a credit to his gender
+Put me through some changes Lord
+Sort of like a Waring blender
+
+Poor poor pitiful me
+Poor poor pitiful me
+Oh these boys won't let me be
+Lord have mercy on me
+Woe woe is me
+
+Well I met a boy in the Vieux Carres
+Down in Yokohama
+He picked me up and he threw me down
+He said "Please don't hurt me Mama"
+
+Poor poor pitiful me
+Poor poor pitiful me
+Oh these boys won't let me be
+Lord have mercy on me
+Woe woe is me
+
+Poor poor poor me
+Poor poor pitiful me
+Poor poor poor me
+Poor poor pitiful me
+Poor poor poor me
+Poor poor pitiful me
+
+
 

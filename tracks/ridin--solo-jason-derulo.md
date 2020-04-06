@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ridin--solo-jason-derulo
+lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/ridinsolo.html
 name: Ridin' Solo
 rankings:
 - end_date: '2010-03-26'
@@ -119,4 +120,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
 ---
+
+I'm feeling like a star
+You can't stop my shine
+I'm loving cloud nine
+My head's in the sky
+
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+Yeah, I'm feeling good tonight
+Finally doing me and it feels so right
+Time to do the things I like
+Going to the club everything's alright
+
+No one to answer to
+No one that's gon' argue
+No
+And since I got the hold off me
+I'm living life now that I'm free
+
+Telling me get my shit together
+Now I got my shit together
+Now I made it through the weather
+Better days are gon' get better
+
+I'm so sorry that it didn't work out
+I'm moving on
+I'm so sorry but it's over now
+The pain is gone
+
+I'm putting on my shades to cover up my eyes
+I'm jumping in my ride, I'm heading out tonight
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+I'm feeling like a star, you can't stop my shine
+I'm loving cloud nine
+My head's in the sky
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+Now I'm feeling how I should
+Never knew single could feel this good
+Star player, misunderstood
+Back in the game, who knew I would
+
+So fly how I spread my wings
+Loving myself makes me wanna sing
+
+Telling me get my shit together
+Now I got my shit together
+Now I made it through the weather
+Better days are gon' get better
+
+I'm so sorry that it didn't work out
+I'm moving on
+I'm so sorry but it's over now
+The pain is gone
+
+I'm putting on my shades to cover up my eyes
+I'm jumping in my ride, I'm heading out tonight
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+I'm feeling like a star
+You can't stop my shine
+I'm loving cloud nine
+My head's in the sky
+
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+Riding solo, solo
+I'm riding solo
+Solo, solo
+Solo, solo
+
+It's like S O L O S O L O S O L O
+Living my life ain't got stress no more
+
+I'm putting on my shades to cover up my eyes
+I'm jumping in my ride, I'm heading out tonight
+
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+
+I'm feeling like a star
+You can't stop my shine
+I'm loving cloud nine
+My head's in the sky
+
+I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
+I'm riding solo, I'm riding solo, solo
+
+I'm riding solo, solo, I'm riding solo, solo
+
+
 

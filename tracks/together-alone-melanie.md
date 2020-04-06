@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-alone-melanie
+lyrics_url: https://www.azlyrics.com/lyrics/melanie/togetheralone.html
 name: Together Alone
 rankings:
 - end_date: '1972-10-27'
@@ -23,4 +24,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
 ---
+
+We'll grow old, we'll take care of each other
+I'll be your sister, your mother, your lover
+We'll be friends during changes of weather
+Let's be together on our own
+Let's be together alone
+
+We're believers, we've been hurt by believing
+Needing people, we know looking's not seeing
+I see needs that might be answered by forever
+Together on our own
+Let's be together alone
+
+We'll learn living, like the words of a good song
+We'll learn timing, balance and rhythm
+We'll make it music
+I don't want to sing it on my own
+Let's be together, let's be together alone
+
+Let's be together alone...
+
+We'll grow old, we'll take care of each other
+I'll be sister, mother and lover
+We'll be friends
+I'm tired of singing it alone
+Let's be together alone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-trick-pony-paul-simon
+lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/onetrickpony.html
 name: One-Trick Pony
 rankings:
 - end_date: '1980-10-31'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-03'
 ---
+
+He's a one trick pony
+One trick is all that horse can do
+he does one trick only
+It's the principal source of his revenue
+And when he steps into the spotlight
+You can feel the heat of his heart
+Come rising through
+
+See how he dances
+See how he loops from side to side
+See how he prances
+The way his hooves just seem to glide
+He's just a one trick pony (that's all he is)
+But he turns that trick with pride
+
+He makes it look so easy
+He looks so clean
+He moves like God's
+Immaculate machine
+He makes me think about
+All of these extra movements I make
+And all of this herky-jerky motion
+And the bag of tricks it takes
+To get me through my working day
+One-trick pony
+
+He's a one trick pony
+He either fails or he succeeds
+He gives his testimony
+Then he relaxes in the weeds
+He's got one trick to last a lifetime
+But that's all a pony needs
+(that's all he needs)
+He looks so easy
+He looks so clean
+He moves like God's
+Immaculate machine
+He makes me think about
+All of these extra movements I make
+And all of this herky-jerky motion
+And the bag of tricks it takes
+To get me through my working day
+
+One-trick pony, one trick pony
+One-trick pony, one trick pony
+One-trick pony (take me for a ride)
+One trick pony
+
+
 

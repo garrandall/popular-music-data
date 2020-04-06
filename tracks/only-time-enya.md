@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-time-enya
+lyrics_url: https://www.azlyrics.com/lyrics/enya/onlytime.html
 name: Only Time
 rankings:
 - end_date: '2001-07-20'
@@ -135,4 +136,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
 ---
+
+Who can say where the road goes?
+Where the day flows?
+Only time.
+And who can say if your love grows
+As your heart chose?
+Only time.
+
+Who can say why your heart sighs
+As your love flies?
+Only time.
+And who can say why your heart cries
+When your love lies?
+Only time.
+
+Who can say when the roads meet
+That love might be in your heart?
+And who can say when the day sleeps
+If the night keeps all your heart,
+Night keeps all your heart?
+
+Who can say if your love grows
+As your heart chose?
+Only time.
+And who can say where the road goes?
+Where the day flows?
+Only time.
+
+Who knows? Only time.
+Who knows? Only time.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-star-stevie-wonder
+lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/anotherstar.html
 name: Another Star
 rankings:
 - end_date: '1977-09-02'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
 ---
+
+La la la la la la lala la
+La la la la la la lala la
+
+La la la la la la lala la
+La la la la la la lala la
+
+For you
+There might be a brighter star
+But through my eyes the light of you is all I see
+
+For you
+There might be another song
+But all my heart can hear is your melody
+
+So long ago my heart without demanding
+Informed me that no other love could do
+But listen did I not though understanding
+Fell in love with one
+Who would break my heart in two
+
+For you
+Love might bring a toast of wine
+But with each sparkle know the best for you I pray
+
+For you
+Love might be for you to find
+But I will celebrate our love of yesterday
+
+So long ago my heart without demanding
+Informed me that no other love could do
+But listen did I not though understanding
+Fell in love with one
+Who would break my heart in two
+
+For you
+There might be another star
+But through my eyes the light of you is all I see
+
+For you
+There might be another song
+But in my heart your melody will stay with me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-days-goo-goo-dolls
+lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/betterdays.html
 name: Better Days
 rankings:
 - end_date: '2005-10-14'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
 ---
+
+And you ask me what I want this year
+And I try to make this kind and clear
+Just a chance that maybe we'll find better days
+Cause I don't need boxes wrapped in strings
+And designer love and empty things
+Just a chance that maybe we'll find better days
+
+So take these words
+And sing out loud
+Cause everyone is forgiven now
+Cause tonight's the night the world begins again
+
+I need someplace simple where we could live
+And something only you can give
+And thats faith and trust and peace while we're alive
+And the one poor child who saved this world
+And there's 10 million more who probably could
+If we all just stopped and said a prayer for them
+
+So take these words
+And sing out loud
+Cause everyone is forgiven now
+Cause tonight's the night the world begins again
+
+I wish everyone was loved tonight
+And somehow stop this endless fight
+Just a chance that maybe we'll find better days
+
+So take these words
+And sing out loud
+Cause everyone is forgiven now
+Cause tonight's the night the world begins again
+Cause tonight's the night the world begins again
+
+
 

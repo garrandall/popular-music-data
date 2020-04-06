@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-closer-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/getcloser.html
 name: Get Closer
 rankings:
 - end_date: '1982-10-08'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
 ---
+
+Want love? Get closer
+You want love? Get closer
+Hold her hand, be forward
+Come on, be a man, get closer
+
+Instead of worrying about those things you said
+Follow your heart and forget your head
+Maybe some things will jump out your mouth
+Make her notice that you're crazy about her
+
+Want love? Get closer
+You want love? Get closer
+
+You make a fuss when her eyes ain't on you
+Well give her something to look forward to
+Remember all those other girls who ran
+Away from something they didn't understand
+
+You want love? Get closer
+You want love? Get closer
+
+Why you worrying about those things you said
+Follow your heart and forget your head
+Oh, slide over on the seat
+She'll give you something that's oh so sweet
+
+
 

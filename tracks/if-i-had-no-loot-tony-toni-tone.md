@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-had-no-loot-tony-toni-tone
+lyrics_url: https://www.azlyrics.com/lyrics/tonytonitone/ifihadnoloot.html
 name: If I Had No Loot
 rankings:
 - end_date: '1993-06-18'
@@ -91,4 +92,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
 ---
+
+If the shoe fits
+I want you to wear it and wear it good
+
+Talking 'bout them times when I was by myself
+I would always be looking for somebody else
+But, as time went on, I had a talk with my mind
+Friends like you and you I gotta leave behind
+
+And so, you call me your friend
+But you only want my ends
+And I'll never see you if I had no loot (I'll never see them)
+I'm just glad I know the truth
+And I'm paying my own bills
+And I'll never ever depend on you
+
+Friends and enemies around me every day
+I can't believe half the things they say
+Taking me for granted giving no credit at all
+I'll just keep bouncing like a bouncing ball
+Everybody seems to disappear on me
+Can't trust no one as far, as I can see
+If I could be that fly that's on the wall
+Listening to my friends talk about it all
+
+You call me your friend
+But you only want my ends
+And I'll never see you if I had no loot (I'll never see them)
+I'm just glad I know the truth
+And I'm paying my own bills
+And I'll never ever depend on you
+Sons of Soul, y'all
+
+I don't mean to step on nobody's foot, but ah -
+
+When I need somebody there's nobody to call
+When they need me, my phone rings off the wall
+But these are my friends, and that's what they say
+Constantly taking from me every day
+You say...
+
+You call me your friend
+But you only want my ends
+And I'll never see you if I had no loot (I'll never see them)
+I'm just glad I know the truth
+And I'm paying my own bills
+And I'll never ever depend on you
+Sons of Soul, y'all
+
+You call me your friend
+But you only want my ends
+And I'll never see you if I had no loot (I'll never see them)
+I'm just glad I know the truth
+And I'm paying my own bills
+And I'll never ever depend on you
+
+
+
 

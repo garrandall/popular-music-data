@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funk---49-james-gang
+lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/funk49.html
 name: 'Funk # 49'
 rankings:
 - end_date: '1970-09-04'
@@ -47,4 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
 ---
+
+Sleep all day, out all night
+I know where you're goin'
+I don't think that's actin' right
+You don't think it's showin'
+
+J-J-Jumpin' up, fallin' down
+Don't misunderstand me
+You don't think that I know your plan
+What you tryna hand me?
+
+Out all night, sleep all day
+I know what you're doin'
+If you're gonna act that way
+Ain't there's trouble brewin'
+
+
 

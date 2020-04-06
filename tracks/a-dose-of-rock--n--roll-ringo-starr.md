@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-dose-of-rock--n--roll-ringo-starr
+lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/adoseofrocknroll.html
 name: A Dose Of Rock 'N' Roll
 rankings:
 - end_date: '1976-10-08'
@@ -43,4 +44,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+
+All right!
+
+You're feelin' down,
+You're feelin' blue.
+You do know that you care,
+But you don't know what to do.
+
+If your mama don't feel good,
+Or your daddy don't feel good,
+Take a dose of rock'n'roll
+And wash it down with cool, clear soul, aha.
+
+(shoo bop, shoo wow wow)
+
+You better get your ripple soles out, (shoo bop, shoo wow wow)
+Ease out all your mean controls. (shoo bop, shoo wow wow)
+Take a dose of rock'n'roll
+And wash it down with cool, clear soul, aha.
+
+Turn on your radio,
+Start dancin' to the moon.
+That old heart radio,
+It's gonna get you, (get you) get you, (get you) get you in the mood.
+
+You better get your ripple soles out, (shoo bop, shoo wow wow)
+Ease out all your mean controls. (shoo bop, shoo wow wow)
+Take a dose of rock'n'roll
+And wash it down with cool, clear soul, aha.
+
+(shoo bop, shoo wow wow)
+
+Turn on your radio,
+Start dancin' to the moon.
+That old heart radio,
+It's gonna get you, (get you) get you, (get you) get you in the mood.
+
+If your mama don't feel good, (shoo bop, shoo wow wow)
+Or your daddy don't feel so good, (shoo bop, shoo wow wow)
+Take a dose of rock'n'roll
+And wash it down with cool, clear soul, aha.
+
+Take a dose of rock'n'roll,
+Take a dose of rock'n'roll,
+Take a dose of rock'n'roll,
+Wash it down with cool, clear soul, aha.
+
+Hey, hey, baby, (dose of rock'n'roll)
+Why don't you take some rock'n'roll? (take some rock'n'roll)
+Just take some rock'n'roll, (take some rock'n'roll)
+Oh, oh, take some! (take some rock'n'roll)
+Oh, i'm gonna take it! (take some rock'n'roll)
+Take some rock'n'roll! (take some rock'n'roll)
+
+
 

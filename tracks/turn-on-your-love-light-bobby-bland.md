@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-on-your-love-light-bobby-bland
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/turnonyourlovelight.html
 name: Turn On Your Love Light
 rankings:
 - end_date: '1961-12-10'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
 ---
+
+Without a warning you broke my heart
+Takin' it, baby, tore it apart
+And you left me standin' in the dark
+Said your love for me was dyin'
+
+Come on, baby, baby, please 
+Come on, baby, 'cause I'm on my knees
+Turn on your lights let it shine on me
+Shine on your love light
+Let it shine on me 
+Let shine, let it shine, let it shine
+
+When I get lonely in the middle of the night
+And I need you, darlin', to make things all right
+
+So come on, baby, baby, please 
+And I'm beggin' you, baby, 'cause I'm on my knees
+Turn on your lights, let it shine on me
+Turn on your love light, let it shine on me
+Let it shine, let it shine, let it shine
+
+Without a warning, you broke my heart
+Takin' it, baby, tore it apart
+And you left me standin' in the dark
+Shine your love for me was dark
+
+Come on, baby, baby, please
+Come on, baby, 'cause I'm on my knees
+Turn on your lights let it shine on me 
+Shine on your love light
+Let it shine on me 
+Let shine, let it shine, let it shine
+
+
 

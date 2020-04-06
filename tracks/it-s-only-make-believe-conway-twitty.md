@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-only-make-believe-conway-twitty
+lyrics_url: https://www.azlyrics.com/lyrics/lorettalynn/itsonlymakebelieve.html
 name: It's Only Make Believe
 rankings:
 - end_date: '1958-09-21'
@@ -91,4 +92,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
 ---
+
+People see us everywhere
+They all think we really care
+But myself I can't deceive
+I know it's only make believe.
+
+My one and only prayer
+Is that some day you'll care
+My hopes my dreams come true
+My one and only you.
+
+No one will ever know
+How much I love you so
+My only prayer will be some day you'll care for me
+But it's only make believe.
+
+My hopes my dreams come true
+My life I give for you
+My heart or wedding ring
+My all my everything.
+
+My heart I can't control
+You lure my very soul
+My only prayer will be some day you'll care for me
+But it's only make believe.
+
+My one and only prayer
+Is that some day you'll care
+My hopes, my dreams come true
+My one and only you.
+
+No one will ever know
+How much I love you so
+My plans, my hopes, my schemes
+You are my every dream
+But it's only make believe...
+
+
 

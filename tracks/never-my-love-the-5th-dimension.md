@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-my-love-the-5th-dimension
+lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/itllneverbethesameagain.html
 name: Never My Love
 rankings:
 - end_date: '1971-09-24'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
 ---
+
+I promised to take her the the sun
+And I gave her the night
+And now that the dawn breaks at last she is vanished
+From sigh
+Here's now that I'm finally learned a few things that
+Could bring her the bright.
+
+No...
+It'll never be the same again
+Never be the same
+It'll never be the same again
+Never be the same
+It'll never be the same again
+O' right...
+
+I read her the points I loved when she spent that first
+Night
+And we disgusted everything from my friends to a "put
+Her so tight"
+And now that some time is gone by and I think I can
+R The hi
+No
+It'll never be the same again
+Never be the same
+It'll never be the same again
+Never be the same
+It'll never be the same again
+O' right
+
+How many mistakes can you make just getting by?
+And out can the worst worrying emptyer then they prayes
+I would try
+What is it they can take love and reduce it into a
+Sigh
+
+No
+It'll never be the same again
+Never be the same
+It'll never be the same again
+Never be the same
+It'll never be the same again
+O' right...
+
+No
+It'll never be the same again
+Never be the same
+It'll never be the same again
+Never be the same
+It'll never be the same again
+O' right
+
+
 

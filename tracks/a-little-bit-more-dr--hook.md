@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-more-dr--hook
+lyrics_url: https://www.azlyrics.com/lyrics/drhook/alittlebitmore.html
 name: A Little Bit More
 rankings:
 - end_date: '1976-06-25'
@@ -103,4 +104,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+
+When your body's had enough of me
+And I'm layin' flat out on the floor
+When you think I've loved you all I can
+I'm gonna love you a little bit more
+Come on over here and lay by my side
+I've got to be touchin' you
+Let me rub your tired shoulders
+The way I used to do
+Look into my eyes and give me that smile
+The one that always turns me on
+And let me take your hair down
+'Cause we're stayin' up to greet the sun
+And when your body's had enough of me
+And I'm layin' flat out on the floor
+When you think I've loved you all I can
+I'm gonna love you a little bit more
+Got to say a few things that have been on my mind
+And you know where my mind has been
+I guess I learned my lessons
+And now's the time to begin
+So if you're feelin alright and you're ready for me
+I know that I'm ready for you
+We better get it on now
+'Cause we got a whole life to live through
+And when your body's had enough of me
+And I'm layin' flat on the floor
+When you think I've loved you all I can
+I'm gonna love you a little bit more
+And when your body's had enough of me
+And I'm layin' flat out on the floor
+
+
 

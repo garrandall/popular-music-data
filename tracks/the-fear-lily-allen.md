@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-fear-lily-allen
+lyrics_url: https://www.azlyrics.com/lyrics/lilyallen/thefear.html
 name: The Fear
 rankings:
 - end_date: '2009-03-06'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
 ---
+
+I want to be rich and I want lots of money
+I don't care about clever I don't care about funny
+I want loads of clothes and fuckloads of diamonds
+I heard people die while they are trying to find them
+
+And I'll take my clothes off and it will be shameless
+'Cause everyone knows that's how you get famous.
+
+
+I'll look at the sun and I'll look in the mirror
+I'm on the right track, yeah I'm on to a winner.
+
+
+I don't know what's right and what's real anymore
+And I don't know how I'm meant to feel anymore
+And when do you think it will all become clear?
+'Cause I'm being taken over by the fear
+
+Life's about film stars and less about mothers
+It's all about fast cars and cussing each other
+But it doesn't matter cause I'm packing plastic
+And that's what makes my life so fucking fantastic
+
+And I am a weapon of massive consumption
+And it's not my fault it's how I'm programmed to function
+
+
+
+
+
+Forget about guns and forget ammunition
+'Cause I'm killing them all on my own little mission
+Now I'm not a saint but I'm not a sinner
+Now everything's cool as long as I'm getting thinner
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knockin--boots-luke-bryan
+lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/knockinboots.html
 name: Knockin' Boots
 rankings:
 - end_date: '2019-05-17'
@@ -95,4 +96,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
 ---
+
+This truck needs a half tank
+These wheels need a two lane
+This radio needs three songs to play
+To get me 'cross town to you
+
+That dress needs a slip-off
+That hair needs to come down
+Friday nights need to do
+What Friday nights need to do
+That's the truth
+
+Yeah birds need bees and ice needs whiskey
+Boys like me need girls like you to kiss me
+Fishin' in the dark needs nitty gritty
+Under that pale moon
+
+Sweet tea needs that sugar stirrin'
+Small town nights need both ends burnin'
+Shades need drawin', hearts need fallin'
+Boots need knockin', knockin' boots
+
+Knockin' boots, me and you, oh
+
+Long weeks need a weekend
+Cheap drinks need a slingin'
+That dance floor needs some me on you
+And you on me tonight
+
+Sing-alongs need to be sung
+Tip bells need to be rung
+Last calls need to call that cab
+And back seats need "I want you so bad"
+
+Yeah birds need bees and ice needs whiskey
+Boys like me need girls like you to kiss me
+Fishin' in the dark needs nitty gritty
+Under that pale moon
+
+Sweet tea needs that sugar stirrin'
+Small town nights need both ends burnin'
+Shades need drawin', hearts need fallin'
+Boots need knockin', knockin' boots
+
+Knockin boots, girl, me and you
+
+Doors need shuttin'
+Lights need cuttin'
+Lips need lockin'
+Boots need knockin'
+
+And birds need bees and ice needs whiskey
+Boys like me need girls like you to kiss me
+Fishin' in the dark needs nitty gritty
+Under that pale moon
+
+Sweet tea needs that sugar stirrin'
+Small town nights need both ends burnin'
+Shades need drawin', hearts need fallin'
+Boots need knockin', knockin' boots
+
+Knockin' boots, me and you
+Oh, knockin' boots
+
+
 

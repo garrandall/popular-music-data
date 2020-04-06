@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-to-your-heart-roxette
+lyrics_url: https://www.azlyrics.com/lyrics/roxette/listentoyourheart.html
 name: Listen To Your Heart
 rankings:
 - end_date: '1989-09-01'
@@ -95,4 +96,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
 ---
+
+I know there's something in the wake of your smile.
+I get a notion from the look in your eyes, yea.
+You've built a love but that love falls apart.
+Your little piece of heaven turns too dark.
+
+Listen to your heart
+When he's calling for you.
+Listen to your heart
+There's nothing else you can do.
+I don't know where you're going
+And I don't know why,
+But listen to your heart
+Before you tell him goodbye.
+
+Sometimes you wonder if this fight is worthwhile.
+The precious moments are all lost in the tide, yea.
+They're swept away and nothing is what it seems,
+The feeling of belonging to your dreams.
+
+Listen to your heart
+When he's calling for you.
+Listen to your heart
+There's nothing else you can do.
+I don't know where you're going
+And I don't know why,
+But listen to your heart
+Before you tell him goodbye.
+
+And there are voices
+That want to be heard.
+So much to mention
+But you can't find the words.
+The scent of magic,
+The beauty that's been
+When love was wilder than the wind.
+
+Listen to your heart
+Take a listen
+When he's calling for you
+Listen to your heart
+Take a listen
+There's nothing else you can do.
+I don't know where you're going
+And I don't know why,
+But listen to your heart
+Before
+
+Listen to your heart
+Take a listen
+When he's calling for you
+Listen to your heart
+Take a listen
+There's nothing else you can do.
+I don't know where you're going
+And I don't know why,
+But listen to your heart
+Before you tell him goodbye.
+
+Listen to your heart
+
+
+Take a listen to your heart
+Take a
+Take a listen to your heart
+
+
 

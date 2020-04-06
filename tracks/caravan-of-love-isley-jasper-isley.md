@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: caravan-of-love-isley-jasper-isley
+lyrics_url: https://www.azlyrics.com/lyrics/housemartins/caravanoflove.html
 name: Caravan Of Love
 rankings:
 - end_date: '1985-12-13'
@@ -65,4 +66,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
 ---
+
+Are you ready
+Are you ready
+Are you ready
+Are you ready
+Are you ready for the time of life
+It's time to stand up and fight
+So all right
+So all right
+Hand in hand we take a caravan to the marble land
+One by one we gonna stand up with pride
+One that can't be denied
+Stand up
+Stand up
+From the highest mountain of valley old
+We all shall together with heart of gold
+Now the children of the world can see
+This a better place for us to be
+The place is which we were born
+So neglected and torn apart
+
+Every woman every man
+Join the caravan of love
+(Stand up) stand up
+Stand up
+Every body takes a stand
+Join the caravan of love
+(Stand up) stand up
+Stand up
+
+I'm your brother
+I'm your brother don't you know
+She's my sister
+She's my sister don't you know
+
+We'll be living in the world of peace
+And the day when everyone is free
+Bring the young and the old
+Want you let chilled flow from your heart
+
+Every woman every man
+Join the caravan of love
+(Stand up) stand up
+Stand up
+Every body takes a stand
+Join the caravan of love
+(Stand up) stand up
+Stand up
+
+I'm your brother
+I'm your brother don't you know
+She's my sister
+She's my sister don't you know
+
+So are you ready (he's coming)
+Are you ready (he's coming)
+Are you ready (he's coming)
+Are you ready (he's coming on the caravan)
+You better get ready (go for it)
+You better get ready (go for it)
+You better get ready (go for it)
+You better get ready
+
+
 

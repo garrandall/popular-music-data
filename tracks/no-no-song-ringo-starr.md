@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-no-song-ringo-starr
+lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/nonosong.html
 name: No No Song
 rankings:
 - end_date: '1975-02-14'
@@ -63,4 +64,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
 ---
+
+Huh-huh! Huh-huh
+(Ah-ah-ah-ah-ah)
+(Aye-aye-aye-aye)
+
+A lady that i know just came from columbia,
+She smiled because i did not understand.
+Then she held out some marijuana, ha ha!
+She said it was the best in all the land.
+
+And i said,
+"no, no, no, no, i don't smoke it no more,
+I'm tired of waking up on the floor.
+No, thank you, please, it only makes me sneeze,
+And then it makes it hard to find the door."
+
+(ah-ah-aye-aye)
+
+A woman that i know just came from majorca, spain,
+She smiled because i did not understand. (parazzi! Parazzi!) (ole!)
+Then she held out a ten pound bag of cocaine,
+She said it was the finest in the land.
+
+And i said,
+"no, no, no, no, i don't sniff it no more,
+I'm tired of waking up on the floor.
+No, thank you, please, it only makes me sneeze,
+And then it makes it hard to find the door."
+
+(aye-aye-aye-aye)
+(aye-aye-aye-aye)
+(aye-aye-aye-aye)
+(aye-aye-aye)
+
+A man that i know just came from nashville, tennessee, oo, (oh no!)
+He smiled because i did not understand.
+Then he held out some moonshine whiskey, oh ho,
+He said it was the best in all the land. (and he wasn't joking!!!)
+
+And i said,
+"no, no, no, no, i don't drink it no more,
+I'm tired of waking up on the floor.
+No, thank you, please, it only makes me sneeze,
+And then it makes it hard to find the door."
+
+Well, i said,
+"no, no, no, no, i can't take it no more,
+I'm tired of waking up on the floor.
+No, thank you, please, it only makes me sneeze,
+And then it makes it hard to find the door."
+
+Hey yeh!
+
+"i'll just have another drink, barman, have you got a large brandy?"
+
+
 

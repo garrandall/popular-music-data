@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amazing-grace-judy-collins
+lyrics_url: https://www.azlyrics.com/lyrics/judycollins/amazinggrace.html
 name: Amazing Grace
 rankings:
 - end_date: '1970-12-18'
@@ -67,4 +68,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
 ---
+
+Amazing grace! How sweet the sound 
+That saved a wretch like me! 
+I once was lost, but now am found, 
+Was blind, but now can see. 
+
+'Twas grace that taught my heart to fear, 
+And grace my Fears relieved; 
+How precious did that grace appear 
+The hour I first believed! 
+
+Through many dangers, toils and snares,
+I have already come; 
+'Tis grace hath brought me safe thus far, 
+And grace will lead me home. 
+
+And when we've been there ten thousand years, 
+Bright shining as the sun, 
+We'll have no less days to sing God's praise 
+Than when we first begun.
+
+
 

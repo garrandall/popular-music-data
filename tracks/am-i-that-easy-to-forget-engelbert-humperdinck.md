@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: am-i-that-easy-to-forget-engelbert-humperdinck
+lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/amithateasytoforget.html
 name: Am I That Easy To Forget
 rankings:
 - end_date: '1967-12-22'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
 ---
+
+They say you've found somebody new,
+But that won't stop my loving you.
+I just can't let you walk away,
+Forget the love I had for you.
+
+Guess I could find somebody new,
+But I don't wan't no one but you.
+How can you leave without regret?
+Am I that easy to forget?
+
+Before you leave be sure you find
+You want his love much more than mine.
+'Cause I'll just say we've never met,
+If I'm that easy to forget.
+
+They say you've found somebody new,
+But that won't stop my loving you.
+How could you leave without regret?
+Am I that easy to forget?
+
+Guess I could find somebody new,
+But I don't wan't no one but you.
+How can you leave without regret?
+Am I that easy to forget?
+
+
 

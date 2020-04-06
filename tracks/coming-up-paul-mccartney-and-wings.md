@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: coming-up-paul-mccartney-and-wings
+lyrics_url: https://www.azlyrics.com/lyrics/brianjonestownmassacre/bringmetheheadofpaulmccartneyonheathermillswoodenpegdroppingbombsonthewhitehouse.html
 name: Coming Up
 rankings:
 - end_date: '1980-05-02'
@@ -91,4 +92,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+
+Oh man it's dropping out of heaven and it's bringing the word
+The wicked fucking sound that you never have heard
+I'll tell you all about it 'cause it's spoken to me
+It damn near took my life and kicked the shit out of me, you see?
+Now it walks with my soul and it lives with my mind
+And it's got a big gun and it's hunting mankind
+Shiny leather boots and a big set of wings
+Many fucking presents for the children it brings
+Flying through the heavens and it's made out of stars
+It's walking on fire to the place that you are, here it comes
+
+So grab your silver bullets and sharpen your stakes
+And lock your fucking doors for Jesus sakes
+Because it's reading your mind and it's ruined this land
+And it's speaking in German and things you don't understand
+While it's fucking your girlfriend and it's flying in space
+And it's putting you to shame as it spits in your face
+Then it flies back to Heaven and it sleeps with the stars
+And it's eating up planets and it's playing guitar
+In fact it's playing right now
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-now-winters-day-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/itsnowwintersday.html
 name: It's Now Winters Day
 rankings:
 - end_date: '1966-12-30'
@@ -51,4 +52,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+
+Everyone is warm inside, their houses in the snow
+The mercury is dropping down to minus ten below
+Outside it's chilling but inside it's thrilling
+With fireplaces burning and records that keep turning
+
+Gone is the green grass the trees have turned brown
+The sky has gone gray, it's now winter's day
+The parks they are empty, no squeaks from the swings
+No kids are at play, it's now winter's day
+
+And here we are snuggled warm in each others arms
+Listening to silent sound as the snow packs the ground
+Perfumed hair that I smell, essence that I like so well
+
+You are my winter, the days and the nights
+In our hideaway, its now winter's day
+Our love will grow stronger a minute has chilled
+Inside we will play, it's now winter's day
+
+And everyone is warm inside, their houses in the snow
+The mercury is dropping down to minus ten below
+Outside it's chilling but inside it's thrilling
+With fireplaces burning and records that keep turning
+
+
 

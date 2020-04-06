@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: enjoy-the-silence-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/nouseforaname/enjoythesilence.html
 name: Enjoy The Silence
 rankings:
 - end_date: '1990-04-20'
@@ -103,4 +104,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
 ---
+
+Words like violence 
+Break the silence 
+Come crashing in 
+Into my little world 
+Painful to me 
+Pierce right through me 
+Can't you understand 
+Oh my little girl 
+All I ever wanted 
+All I ever needed 
+Is here in my arms 
+Words are very unnecessary 
+They can only do harm 
+
+Vows are spoken 
+To be broken 
+Feelings are intense 
+Words are trivial 
+Pleasures remain 
+So does the pain 
+Words are meaningless 
+And forgettable 
+
+All I ever wanted 
+All I ever needed 
+Is here in my arms 
+Words are very unnecessary 
+They can only do harm 
+
+Enjoy the silence
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatcha-gonna-do--pablo-cruise
+lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/whatchagonnado.html
 name: Whatcha Gonna Do?
 rankings:
 - end_date: '1977-04-22'
@@ -111,4 +112,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
 ---
+
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+
+So you're having trouble
+With your romance
+Well, you better check it out
+Before it goes, yeah
+
+'Cause you might not be seeing
+Things just the way you should
+And you don't recognize
+What everybody knows
+
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+
+And all at once
+You're ready to hang it up
+'Cause things didn't turn out
+The way you planned, no
+
+And all your friends
+They calling you a fool
+'Cause you don't know
+A good thing when you've
+Got it in your hand
+
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+
+And all at once
+You're ready to hang it up
+'Cause things didn't turn out
+The way you planned, no
+
+And all your friends
+They calling you a fool
+'Cause you don't know
+A good thing when you've
+Got it in your hand
+
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+Whatcha gonna do
+When she says goodbye?
+Whatcha gonna do
+When she is gone?
+
+
 

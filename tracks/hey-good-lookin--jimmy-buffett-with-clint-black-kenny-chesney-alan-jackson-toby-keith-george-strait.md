@@ -8,6 +8,7 @@ artists:
 features: []
 genres: []
 key: hey-good-lookin--jimmy-buffett-with-clint-black-kenny-chesney-alan-jackson-toby-keith-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/heygoodlookin.html
 name: Hey Good Lookin'
 rankings:
 - end_date: '2004-06-25'
@@ -55,4 +56,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
 ---
+
+
+Hey, Hey, Good Lookin', whatcha got cookin'
+How's about cookin' something up with me
+
+
+Hey, sweet baby, don't you think maybe
+We could find us a brand new recipe.
+
+
+I got a hot rod Ford and a two dollar bill
+
+And I know a spot right over the hill
+There's soda pop and the dancin's free
+So if you wanna have fun come a- long with me.
+
+
+Say Hey, Good Lookin', whatcha got cookin'
+
+How's about cookin' somethin' up with me.
+
+
+Let's stir it up boys.
+
+
+I'm free and I'm ready
+maybe we can go steady
+
+How's about savin' all your time for me
+
+No more lookin',
+
+I know I've been tooken
+
+How's about keepin' steady company.
+
+
+I'm gonna throw my date book over the fence
+
+And find me one for five or ten cents.
+
+I'll keep it 'til it's covered with age
+
+'Cause I'm writin' your name down on ev'ry page.
+
+
+Hey, Hey, Good Lookin',
+
+Whatcha got cookin'
+
+How's about cookin' somethin' up with me.
+
+How's about cookin' somethin' up with me.
+
+How's about cookin' somethin' up with me.
+
+
 

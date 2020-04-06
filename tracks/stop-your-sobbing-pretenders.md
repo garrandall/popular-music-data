@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-your-sobbing-pretenders
+lyrics_url: https://www.azlyrics.com/lyrics/pretenders/stopyoursobbing.html
 name: Stop Your Sobbing
 rankings:
 - end_date: '1980-06-27'
@@ -27,4 +28,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
 ---
+
+It is time for you to stop all of your sobbing
+Yes it's time for you to stop all of your sobbing oh oh oh
+There's one thing you gotta do
+To make me still want you
+Gotta stop sobbing now
+Yeah yeah stop it stop it
+
+It is time for you to laugh instead of crying
+Yes it's time for you to laugh so keep on trying oh oh oh
+There's one thing you gotta do
+To make me still want you
+Gotta stop sobbing now
+Yeah yeah stop it stop it
+
+Each little tear that falls from your eyes
+Makes, makes me want
+To take you in my arms and tell you
+To stop all your sobbing
+
+There's one thing you gotta do
+To make me still want you
+And there's one thing you gotta know
+To make me want you so
+Gotta stop sobbing now
+Yeah yeah stop it stop it
+
+
 

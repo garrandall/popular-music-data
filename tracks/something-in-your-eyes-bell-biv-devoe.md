@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-in-your-eyes-bell-biv-devoe
+lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/somethinginyoureyes.html
 name: Something In Your Eyes
 rankings:
 - end_date: '1993-08-27'
@@ -83,4 +84,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
 ---
+
+You ask me why, I say why not
+Anything is possible, anything can be
+Therefore tonight I'll get you hot
+You'll feel a passion you never dreamed
+
+And I know you feel I'm overconfident
+What kind of man could I be
+It's clear to see it's like animal attraction
+When you add it up it's just a matter of factions, girl
+
+
+Something in your eyes told me
+That you were looking for a man you could adore
+Something in your eyes had given me a sign
+And I knew it was on, I knew it was on
+
+You think you're dry, I say you're wet
+I can make it possible, I can make it true
+And all night long I'll make you sweat
+Gonna do a feeling that's long past overdue
+
+And I know you think why so much confidence
+What kind of man must I be
+It's clear to see it's like adding and subtracting
+When you add it up it's just animal attraction
+
+
+
+So when I get inside and make you wet
+I'll lick you dry
+Creamate your body weak
+From all the body heat
+And like a lion you'll hear me roar
+And when I feed it to your body
+Make that body get weak some more
+I'll take you to the peak
+I'll make you wanna scream
+And like a lion you'll hear my body
+Roar and roar and roar and roar and roar
+
+
+
+Anything is possible and anything can be
+You can feel a passion you never dreamed of
+See it in your eyes
+You've given me a sign
+And I knew it was on, I knew it was on
+
+It was something in your eyes that took me to feel it
+Something in your eyes, and hey, I can see it
+Something in your eyes had given me a sign
+And I knew it was on, I knew it was on
+
+
+
+
 

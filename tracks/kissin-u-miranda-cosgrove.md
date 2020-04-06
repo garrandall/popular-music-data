@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kissin-u-miranda-cosgrove
+lyrics_url: https://www.azlyrics.com/lyrics/mirandacosgrove/kissinu.html
 name: Kissin U
 rankings:
 - end_date: '2010-04-30'
@@ -67,4 +68,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
 ---
+
+Sparks fly,
+It's like electricity
+I might die
+When I forget how to breathe
+You get closer
+And there's nowhere
+In this world I'd rather be
+
+Time stops like everything around me is frozen
+And nothing matters but these
+Few moments
+When you open
+My mind to things I've never seen
+
+'Cause when I'm kissing you my senses come alive
+Almost like the puzzle piece I've been trying to find
+Falls right into place,
+You're all that it takes
+My doubts fade away
+When I'm kissing you
+
+When I'm kissing you it all starts making sense
+And all the questions I've been asking in my head
+Like, "Are you the one? Should I really trust?"
+Crystal clear it becomes when I'm kissing you
+
+Past loves
+They never got very far
+Walls up
+Made sure I guarded my heart
+And now I promised
+I wouldn't do this
+'Til I knew it was right for me
+
+But no one, no guy that I've met before
+Could make me feel so right and secure
+And have you noticed
+I lose my focus,
+And the world around me disappears?
+
+'Cause when I'm kissing you my senses come alive
+Almost like the puzzle piece I've been trying to find
+Falls right into place,
+You're all that it takes
+My doubts fade away
+When I'm kissing you
+
+When I'm kissing you it all starts making sense
+And all the questions I've been asking in my head
+Like, "Are you the one? Should I really trust?"
+Crystal clear it becomes when I'm kissing you
+
+I've never felt nothing like this
+You're making me open up
+No point even trying to fight this
+It kinda feels like it's love
+
+'Cause when I'm kissing you my senses come alive
+Almost like the puzzle piece I've been trying to find
+Falls right into place,
+You're all that it takes
+My doubts fade away
+When I'm kissing you
+
+When I'm kissing you it all starts making sense
+And all the questions I've been asking in my head
+Like, "Are you the one? Should I really trust?"
+Crystal clear it becomes when I'm kissing you
+
+
 

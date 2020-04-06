@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad--xxxtentacion
+lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/sad.html
 name: Sad!
 rankings:
 - end_date: '2018-03-23'
@@ -159,4 +160,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
 ---
+
+Yeah
+
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah, I'm sad, I know, yeah
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah, I'm sad, I know, yeah
+
+I gave her everything
+She took my heart and left me lonely
+I think broken heart's contagious
+I won't fix, I'd rather weep
+I'm lost then I'm found
+But it's torture being in love
+I love when you're around
+But I fucking hate when you leave
+
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah
+I'm sad, I know, yeah
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah
+I'm sad, I know, yeah
+
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah
+I'm sad, I know, yeah
+Who am I? Someone that's afraid to let go, uh
+You decide if you're ever gonna let me know (yeah)
+Suicide if you ever try to let go, uh
+I'm sad, I know, yeah
+I'm sad, I know, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-much-heaven-bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/toomuchheaven.html
 name: Too Much Heaven
 rankings:
 - end_date: '1978-11-24'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
 ---
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as high as a mountain
+And harder to climb
+
+Oh you and me girl
+Got a lot of love in store
+And it flows through you
+And it flows through me
+And I love you so much more
+Than my life..
+
+I can see beyond forever
+Ev'rything we are will never die
+Loving's such a beautiful thing
+Oh you make my world.. a summer day
+Are you just a dream to fade away
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as high as a mountain
+And harder to climb
+
+You and me girl got a highway to the sky
+We can turn away from the night and day
+And the tears we had to cry
+You're my life..
+
+I can see a new tomorrow
+Ev'rything we are will never die
+Loving's such a beautiful thing
+When you are to me, the light above
+Made for all to see our precious love
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as high as a mountain
+And harder to climb
+
+Love is such a beautiful thing
+You make my world a summer day
+Are you just a dream to fade away
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as wide as a river and harder to cross
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as high as a mountain
+And harder to climb
+
+Nobody gets too much heaven no more
+It's much harder to come by
+I'm waiting in line
+Nobody gets too much love anymore
+It's as high as a mountain
+And harder to climb
+
+
 

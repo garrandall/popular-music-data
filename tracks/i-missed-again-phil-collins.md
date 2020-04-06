@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-missed-again-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/philcollins/imissedagain.html
 name: I Missed Again
 rankings:
 - end_date: '1981-03-27'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
 ---
+
+So you finally came right out and said it girl
+What took you so long
+It was in your eyes, that look's been there for too long
+I'm waiting in line
+Would you say if I was wasting my time
+
+Or did I miss again
+I think I missed again oh
+
+I think about it from time to time
+When I'm lonely and on my own
+
+I try to forget and yet, still rush to the telephone
+I'm waiting in line
+Would you say if I was wasting my time
+
+Or did I miss again
+I think I missed again oh
+Or did I miss again
+I think I missed again oh
+
+Well it feels like something you want so bad
+Then you think you've got it, but it's something you already had
+You can feel it all around you, but it's something you just can't touch
+And I feel it coming at me
+I can feel it coming at me
+
+Or did I miss again
+I think I missed again oh
+Or did I miss again
+I think I missed again
+
+I'm waiting in line, but would you say if I was wasting my time
+
+Or did I miss again...
+
+
 

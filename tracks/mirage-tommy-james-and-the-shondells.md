@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mirage-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/mirage.html
 name: Mirage
 rankings:
 - end_date: '1967-05-05'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
 ---
+
+I see you standing in the alleys and the hallways
+(Wait a second)
+You're gone now
+I run to touch you, but you vanish through the doorway
+And, oh, how
+Hard it is to live without you
+I love everything about you
+Now I know you're really gone
+But my imagination is so strong
+That I see you coming into view
+And your face is telling me that you
+Oh, yeah, oh, want to be by my side
+Oh, yeah, oh, now it's finally time
+(Wait a second)
+
+Mirage, that's all you are to me
+Mirage, something I only see
+
+So I keep walking through the alleys and the hallways
+Where are you?
+I keep remembering the kissing in the doorways
+The car, too
+How it all comes back to me
+The movies every Saturday
+The place we used to go to eat
+I want so much to have it like it used to be
+That I see you coming into view
+And your face is telling me that you
+Oh, yeah, oh, want to be by my side
+Oh, yeah, oh, now it's finally time
+(Here it comes again)
+
+Mirage, that's all you are to me
+Mirage, something I only see
+
+Just a mirage, that's all you are to me
+Just a mirage, something that I only see
+Just a mirage, that's all you are to me
+Just a mirage, something that I only see
+
+
 

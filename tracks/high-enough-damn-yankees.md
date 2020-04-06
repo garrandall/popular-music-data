@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-enough-damn-yankees
+lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/highenough.html
 name: High Enough
 rankings:
 - end_date: '1990-09-28'
@@ -123,4 +124,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
 ---
+
+I don't wanna hear about it anymore
+It's a shame I've got to live without you anymore
+There's a fire in my heart
+A pounding in my brain
+It's driving me crazy
+
+We don't need to talk about it anymore
+Yesterday's just a memory
+Can we close the door
+
+I just made one mistake
+I didn't know what to say
+When you called me baby
+
+Don't say goodnight
+Say you're gonna stay forever
+Oh, whoa, all the way
+
+Can you take me high enough
+To fly me over (fly me over) yesterday
+Can you take me high enough
+It's never over
+Yesterday's just a memory 
+(Yesterday's just a memory and)
+
+I don't want to live without you anymore
+Can't you see I'm in misery
+And you know for sure
+I would live and die for you
+And I'd know just what to do when you call me baby
+
+Don't say goodbye
+Say you're gonna stay forever
+Oh, whoa, all the way
+
+Can you take me high enough
+Can you fly me over (fly me over) yesterday
+Can you take me high enough
+It's never over
+Yesterday's just a memory
+
+I'm running
+I was running for the door
+The next thing I remember
+I was running back for more, yeah
+
+Don't say goodbye
+Say you're gonna stay forever
+Oh, whoa, all the way (all the way, all the way, yeah)
+
+Can you take me high enough
+Can you fly me over (fly me over) yesterday
+Can you take me high enough
+It's never over, whoa, whoa, whoa
+
+Can you take me high enough
+Won't you fly me over (won't you fly me over) yesterday
+Can you take me high enough
+It's never over, whoa, whoa, whoa
+
+
 

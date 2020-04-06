@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-arms-of-the-one-who-loves-you-xscape
+lyrics_url: https://www.azlyrics.com/lyrics/xscape/thearmsoftheonewholovesyou.html
 name: The Arms Of The One Who Loves You
 rankings:
 - end_date: '1998-05-08'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-12'
 ---
+
+
+I know you're going,
+I can't make you stay.
+I can only let you know I love you any way.
+And if the road you take leads to heartbreak,
+Somewhere down the line.
+If someone ever hurts you,
+Or treats your heart unkind...
+
+
+You just run to the arms of the one who loves you.
+You just run to these arms,
+And these two arms will keep you warm.
+When rain has found your heart,
+Never fear, I'm never far.
+You just run to the arms of the one who loves you.
+
+
+I want you happy,
+I want the best for you.
+And if you have to leave to find your dream,
+I hope that dream comes true.
+But if the world you find brings you hard times,
+If someone makes you cry,
+I'll be there to hold you,
+I'll be standing by.
+
+
+
+
+My love is strong enough, you know,
+Strong enough to let you go.
+But I'll always hold you,
+Inside my heart.
+And if you should ever change your mind,
+You can come back any time,
+And when you do...
+
+
+
+
 

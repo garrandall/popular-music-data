@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: getcha-back-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/getchaback.html
 name: Getcha Back
 rankings:
 - end_date: '1985-05-31'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
 ---
+
+Bow bow bow bow oop
+Ahh ooo oohh waaa oooo
+
+Bow bow bow bow oop
+Ahh ooo oohh waaa oooo
+
+The other night they were playing our song
+Hadn't heard it for oh so long
+Took me back darlin' to that time in my car
+When you cried all night cause we'd gone too far
+
+Can I ever getcha back
+Getcha back baby
+Gonna getcha back getcha back
+Getcha back getcha back baby
+Gonna getcha back getcha back
+Can I ever getcha back
+
+I'm getting tired laying around here at night
+Thinkin' 'bout some other guy holding you tight
+He may have money and a brand new car
+May even treat you like a movie star
+And no matter what he ever do for you
+He can never love you like I can do
+So if I leave her and you leave him
+
+Can we ever get it back again
+Getcha back getcha back baby
+Gonna getcha back getcha back
+Getcha back getcha back baby
+Gonna getcha back getcha back
+Can I ever getcha back
+
+Bow bow bow oop
+
+Bow bow bow oop
+
+(Getcha back) I'll leave her
+(Getcha back) and you leave him
+(Getcha back) can we baby
+(Getcha back) get it back again
+
+(Getcha back) I'll leave her
+(Getcha back) and you leave him
+(Getcha back) can we baby
+(Getcha back) get it back again
+
+(Getcha back) I'll leave her
+(Getcha back) and you leave him
+
+
 

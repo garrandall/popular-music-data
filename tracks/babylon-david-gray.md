@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: babylon-david-gray
+lyrics_url: https://www.azlyrics.com/lyrics/davidgray/babylon.html
 name: Babylon
 rankings:
 - end_date: '2000-12-08'
@@ -79,4 +80,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
 ---
+
+Friday night I'm going nowhere
+All the lights are changing green to red
+Turning over TV stations
+Situations running through my head
+
+Looking back through time
+You know it's clear that I've been blind
+I've been a fool
+To open up my heart to all that jealousy
+That bitterness, that ridicule
+
+Saturday I'm running wild
+And all the lights are changing red to green
+Moving through the crowds I'm pushing
+Chemicals are rushing in my bloodstream
+
+Only wish that you were here
+You know I'm seeing it so clear
+I've been afraid
+To show you how I really feel
+Admit to some of those bad mistakes I've made
+
+And if you want it
+Come and get it
+Crying out loud
+The love that I was
+Giving you was
+Never in doubt
+
+Let go of your heart
+Let go of your head
+And feel it now
+Let go of your heart
+Let go of your head
+And feel it now
+
+Babylon 
+
+Sunday all the lights in London shining
+Sky is fading red to blue
+Kicking through the autumn leaves
+And wondering where it is you might be going to
+
+Turning back for home
+You know I'm feeling so alone I can't believe
+Climbing on the stair
+I turn around to see you smiling there in front of me
+
+And if you want it
+Come and get it
+Crying out loud
+The love that I was
+Giving you was
+Never in doubt
+
+Let go of your heart
+Let go of your head
+And feel it now
+Let go of your heart
+Let go of your head
+And feel it now
+
+Let go of your heart
+Let go of your head
+And feel it now
+Let go of your heart
+Let go of your head
+And feel it now
+
+Babylon 
+
+
 

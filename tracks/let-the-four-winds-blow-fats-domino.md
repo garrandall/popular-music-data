@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-four-winds-blow-fats-domino
+lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/letthefourwindsblow.html
 name: Let The Four Winds Blow
 rankings:
 - end_date: '1961-07-30'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
 ---
+
+I like the way you walk
+I like the way you talk
+Let me hold yo' hand
+Try to understand
+
+I want a girl like you
+Tell my troubles to
+You won't be afraid
+You heard what I said
+
+Let the four wind blow
+Let 'em blow, let 'em blow
+From the east to the west
+I love you the best
+
+Let the four wind blow
+Let 'em blow, let 'em blow
+From the east to the west
+I love you the best
+
+I like the way you walk
+I like the way you talk
+Let me hold yo' hand
+Try to understand
+
+I want a girl like you
+Tell my troubles to
+Don't be afraid
+You heard what I said
+
+Let the four wind blow
+Let 'em blow, let 'em blow
+From the east to the west
+I love you the best
+
+Let the four wind blow
+Let 'em blow, let 'em blow
+From east to the west
+I love you the best
+
+
 

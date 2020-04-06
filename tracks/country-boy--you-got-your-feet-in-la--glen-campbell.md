@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: country-boy--you-got-your-feet-in-la--glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/countryboyyougotyourfeetinla.html
 name: Country Boy (You Got Your Feet In LA)
 rankings:
 - end_date: '1975-11-14'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
 ---
+
+Livin' in the city
+Ain't never been my idea of gettin' it on
+But the job demands that you make new plans
+Before your big chance is gone
+
+You get a house in the hills
+You're payin' everyone's bills
+And they tell you that you're gonna go far
+But in the back of my mind
+I hear it time after time
+"Is that who you really are"
+
+Country boy, you got your feet in LA
+But your mind's on Tennessee
+Lookin' back, I can remember the time
+When I sang my songs for free
+Country boy, you got your feet in LA
+Take a look at everything you own
+But now and then, my heart keeps goin' home
+
+Talkin' on the telephone
+Settin' up another day of people to meet
+You've gotta do what's right
+You've gotta spend the night
+Stayin' in touch with the street
+When you're surrounded by friends
+They say the fun never ends
+But I guess I'll never figure it out
+'Cause in the back of my mind
+I hear it time after time
+"Is this what it's all about"
+
+Country boy, you got your feet in LA
+But your mind's on Tennessee
+Lookin' back, I can remember the time
+When I sang my songs for free
+Country boy, you got your feet in LA
+Take a look at everything you own
+But now and then, my heart keeps goin' home 
+
+
 

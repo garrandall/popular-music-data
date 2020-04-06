@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-enough-time-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/notenoughtime.html
 name: Not Enough Time
 rankings:
 - end_date: '1992-08-28'
@@ -67,4 +68,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
 ---
+
+And I was lost for words
+In your arms
+Attempting to make sense
+Of my aching heart
+If I could just be
+Everything and everyone to you
+This life would just be so easy
+
+Not enough time for all
+That I want for you
+Not enough time for every kiss
+And every touch and all the nights
+I wanna be inside you
+
+We will make time stop
+For the two of us
+Make time stop
+And listen for our sighs
+
+Not enough time for all
+That I want for you
+Not enough time for every kiss
+And every touch and all the nights
+I wanna be inside you
+
+In our fight against the end
+Making love we are immortal
+We are the last two left on earth
+And I was lost for words
+In your arms
+Attempting to make sense of
+My aching heart
+If I could just be everything
+And everyone to you
+
+Not enough time for all
+That I want for you
+Not enough time for every kiss
+Not enough time for all my love
+Not enough time for every touch
+
+Not enough time for all
+That I want for you
+Not enough time for every kiss
+And every touch and all the nights
+I wanna be inside you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -keep-feeling--fascination-the-human-league
+lyrics_url: https://www.azlyrics.com/lyrics/humanleague/keepfeelingfascinationextended.html
 name: (Keep Feeling) Fascination
 rankings:
 - end_date: '1983-06-03'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
 ---
+
+If it seems a little time is needed
+Decisions to be made
+The good advice of friends unheeded
+The best of plans mislaid
+
+Just looking for a new direction
+In an old familiar way
+The forming of a new connection
+To study or to play
+
+And so the conversation turned
+Until the sun went down
+And many fantasies were learned
+On that day
+
+Keep feeling fascination
+Passion burning
+Love so strong
+Keep feeling fascination
+Looking, learning
+Moving on
+
+Well the truth may need some
+Re-arranging
+Stories to be told
+And plain to see the facts are changing
+No meaning left to hold
+
+And so the conversation turned
+Until the sun went down
+And many fantasies were learned
+On that day
+
+Keep feeling fascination
+Passion burning
+Love so strong
+Keep feeling fascination
+Looking, learning
+Moving on
+
+And so the conversation turned
+Until the sun went down
+And many fantasies were learned
+On that day
+
+Keep feeling fascination
+Passion burning
+Love so strong
+Keep feeling fascination
+Looking, learning
+Moving on
+
+Keep feeling fascination
+Passion burning
+Love so strong
+Keep feeling fascination
+Looking, learning
+Moving on
+
+Keep feeling fascination
+Passion burning
+Love so strong
+Keep feeling fascination
+Looking, learning
+Moving on
+
+
+
 

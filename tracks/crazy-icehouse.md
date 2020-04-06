@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-icehouse
+lyrics_url: https://www.azlyrics.com/lyrics/icehouse/crazy.html
 name: Crazy
 rankings:
 - end_date: '1987-10-23'
@@ -91,4 +92,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
 ---
+
+I've got a pocket full of holes.
+Head in the clouds, the king of fools.
+You've got a ribbon of rainbows,
+the sun in your eyes burning through.
+Could be I'm happy and sad,
+could be I'm losing my head over you.
+
+Well, you've gotta be crazy, baby to want a guy like me.
+Yeah, you've gotta be out of your mind - crazy.
+
+So if I'm dreaming don't wake me tonight.
+If this is all wrong, I don't want it right.
+'Cause you're the one sure thing 
+when I get lost in the game once again.
+Hey, I'm a lucky guy without a reason and I don't understand.
+
+Well, you've gotta be crazy, baby, 
+to want a guy like me (to want a guy like me). 
+Yeah, you've gotta be out of your mind - crazy (crazy crazy crazy).
+Well, there must be some kind of mistake to give your heart away. 
+Yeah, you've gotta be out of your mind crazy.
+
+Well, you've gotta be crazy, baby to want a guy like me.
+Yeah, you've gotta be out of your mind - crazy .
+Well, there must be some kind of mistake to fall in love with me.
+Well, you've gotta be out of your mind - crazy crazy
+Well, you've gotta be crazy, baby to want a guy like me. 
+Yeah, you've gotta be crazy, baby.....
+
+
 

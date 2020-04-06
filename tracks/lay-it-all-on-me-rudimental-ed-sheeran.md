@@ -5,6 +5,7 @@ features:
 - Ed Sheeran
 genres: []
 key: lay-it-all-on-me-rudimental-ed-sheeran
+lyrics_url: https://www.azlyrics.com/lyrics/rudimental/layitallonmerudimentalvipmix.html
 name: Lay It All On Me
 rankings:
 - end_date: '2015-10-23'
@@ -72,4 +73,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
 ---
+
+
+Look
+Okay, I got it
+When that weight's on you, I'm gon' spot it
+You need to talk, what's the topic?
+I've been around the block, I got mileage
+Yeah, I'll ride for you
+When it gets too deep, I'll die for you
+When your mama got diagnosed, I swear I almost cried for you
+I wish I could turn winter into July for you
+I'll July 4 it, and light up the sky
+I bright up the sky like the enterprise
+No need to emphasize that I'm all you need
+No need to hit your ex unless it's minimized
+To see the bigger picture
+If you're there, I'm goin' to get you
+If you're here, I'm goin' with you
+Honestly, see, I could go through anything
+As long as I just go there with you, straight up
+
+
+Let my love in, let my love in
+Lay your heart on me
+If you're hurting, if you're hurting
+Lay it all on me
+You can lay it all on me
+Lay it all on me
+Lay it all on me
+If you're hurting, if you're hurting
+Lay it all on me
+
+
+Wanna have it all, she don't wanna go to sleep all lonely
+Like a bear, she lay it all on me
+Lookin' at me like Benjamin Button
+Thought I told you, girl, that's the old me
+I'm a new me, now if you knew me
+And these girls so old like Coogi
+On a cracked iPhone in the Louis
+In the green room like she ain't no groupie
+Gotta treat her like Aretha
+R-E-S-P-E-C-T
+These niggas try, that's comedy
+Swear they should be on MAD TV
+And we just laughin' at 'em
+I'm so high, we in a canopy
+Of Cali trees by the beach, yeah
+Let my love in, lay your
+
+
+Let my love in, let my love in
+Lay your heart on me
+If you're hurting, if you're hurting
+Lay it all on me
+You can lay it all on me
+Lay it all on me
+Lay it all on me
+If you're hurting, if you're hurting
+Lay it all on me
+
+
+So if you're hurting babe
+Just let your heart be free
+You got a friend in me
+I'll be your shoulder at anytime you need
+Baby I believe
+So if you're hurting babe
+Just let you're heart be free
+You got a friend in me
+I'll be your shoulder at anytime you need
+Baby I believe
+You can lay it all on me
+
+
+Let my love in, let my love in
+Lay your heart on me
+If you're hurting, if you're hurting
+Lay it all on me (lay it all on me)
+Lay it all on me (lay it all on me)
+Lay it all on me
+If you're hurting, if you're hurting
+Lay it all on me (lay it all on me)
+Lay it all, lay it all
+Lay it all (lay it all on me)
+Lay it all, lay it all
+Lay it all on me
+Lay it all, lay it all on me
+Lay it all on me
+Lay it all, lay it all on me
+Lay it all on me
+
+
 

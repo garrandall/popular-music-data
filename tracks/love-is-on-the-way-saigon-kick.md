@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-on-the-way-saigon-kick
+lyrics_url: https://www.azlyrics.com/lyrics/saigonkick/loveisontheway.html
 name: Love Is On The Way
 rankings:
 - end_date: '1992-09-11'
@@ -95,4 +96,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
 ---
+
+Lonely sidewalks
+Silent night
+Bring the evenin'
+Deep inside
+Hold me darling
+Touch me now
+Let the feelings
+Free tonight
+
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight baby
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight
+
+Time of season
+Wipes the tears
+No rhyme or reason
+No more fears
+All the dreamin'
+Is far behind
+You are here now
+Everything's alright
+
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight baby
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight
+
+And in the morning
+I'll be gone away
+All the things are left behind
+If you need me
+I'll come night and day
+Let's stop the hands of time
+
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight baby
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight baby
+
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight baby
+Love is on the way
+I can see it in your eyes
+Let's give it one more try tonight
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-you-gonna-act-like-that-tyrese
+lyrics_url: https://www.azlyrics.com/lyrics/tyrese/howyougonnaactlikethat.html
 name: How You Gonna Act Like That
 rankings:
 - end_date: '2003-01-10'
@@ -107,4 +108,129 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
 ---
+
+It seems like just the other day that we hooked up.
+I was driving, you was walking, and I swooped you up.
+From that moment on I knew you were the one.
+I was single, you was lonely and we fell in love.
+
+We would sit and talk for hours about anything.
+"Baby, you hang up. No, you hang up. On three hang up."
+I bought your whip, I paid your rent, I gave you everything.
+Said you'd always be my baby then you bounced.
+
+How you gonna act?
+How you gonna up and leave me now?
+How you gonna act like that?
+How you gonna change it up?
+We just finished making up.
+How you gonna act like that?
+
+How you gonna act like we don't be making love?
+You know we be tearing it up,
+Breaking stuff, that ghetto love
+How you gonna trip and how could you forget?
+How you gonna act like that?
+
+Girl, I never thought that loving you would hurt.
+I did everything a good man would to make it work.
+Girl, you should have told me you had second thoughts.
+Like before I put the down on the house we bought.
+
+Now I'm thinking you and me was a mistake,
+But then it hits me and I'm missing all the love we made.
+Girl, I know that we've been going through some things,
+But the sun is somewhere shining even when it rains.
+
+I'll be the one you kick it to.
+I'll be the one that misses you.
+I'll be the one to ease your pain.
+I'll be the one you'll want to gain again.
+
+You'll be the one I can't forget.
+You'll be the one that's heaven-sent.
+You'll be the one I can't deny.
+You'll be the one that make me cry,
+Baby.
+
+How you gonna up and leave me now?
+Why you do?
+How you gonna act like that?
+Why you gotta act like that?
+How you gonna change it up?
+Whoa, ho, baby.
+We just finished making up.
+How you gonna act like that? 
+But I need you.
+
+How you gonna act like we don't be making love?
+Whoa, baby, baby.
+You know we be tearing it up,
+Breaking stuff, that ghetto love.
+How you gonna trip, and how could you forget?
+How you gonna act like that?
+
+You know I'm willing to do anything
+Just to keep you in my heart.
+Keep you in my heart.
+I messed around and gave up everything.
+I thought we'd never part.
+Yes, I did, baby.
+
+I was a player, and I made the choice to give my heart to you.
+And I gotta keep it that way, ooh, baby.
+
+How you gonna up and leave me now?
+Ooh, baby.
+How you gonna act like that?
+Why you gotta treat me this way?
+How you gonna change it up?
+Why you treat me wrong?
+We just finished making up.
+How you gonna act like that? 
+Can me somebody tell me why, why, why?
+
+How you gonna act like we don't be making love?
+You know we be tearing it up,
+Breaking stuff, that ghetto love.
+Oh, oh, baby.
+How you gonna trip? 
+All my friends became your friends.
+How can you forget?
+All my ends became your ends.
+How you gonna act like that?
+
+Keeping love ghetto (All I want is you)
+How you gonna act like that?
+Keeping love ghetto (All I need is you)
+How you gonna act like that?
+Keeping love ghetto (All I need is you)
+You know we be tearing it up,
+Breaking stuff, that ghetto love.
+Keeping love ghetto (All I need is you, all I need is you, babe.)
+How you gonna act like that?
+
+How you gonna up and leave me now?
+Oh, babe, how you gonna act like that?
+How you gonna act like that?
+Hey, hey.
+How you gonna change it up.
+We just finished making up.
+Why you acting so shady, oh, oh, baby?
+How you gonna act like that?
+
+How you gonna act like we don't be making love?
+Anything you want in me I got ya, hey.
+You know we be tearing it up,
+Breaking stuff, that ghetto love
+Why you acting so shady?
+How you gonna trip?
+Oh, oh, baby
+How can you forget?
+How you gonna act like that?
+
+How you gonna up and leave me now?
+How you gonna act like that?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: half-heaven---half-heartache-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/halfheavenhalfheartache.html
 name: Half Heaven - Half Heartache
 rankings:
 - end_date: '1962-12-21'
@@ -55,4 +56,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+
+My arms reach out for you I kiss you tenderly
+But when you touch my lips you're kissing him not me, why must it be
+Half heaven, half heartache, my lovin' you, darlin'
+Can't you forget that other love you knew, hmm
+
+Within your angel eyes a world of dreams are there
+Yet I'll keep wondering if they are mine to share, oh it's just not fair
+Half heaven, half heartache, my loving you, darlin'
+Oh let my love be strong enough to take away the heartache
+And make my life a heaven on earth with you-ou-oo-ou
+
+Half heaven, half heartache, my loving you, darlin'
+Oh let my love be strong enough to take away the heartache
+And make my life a heaven on earth with you-ou-oo-oo-ou
+
+
 

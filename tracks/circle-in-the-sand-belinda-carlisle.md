@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: circle-in-the-sand-belinda-carlisle
+lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/circleinthesand.html
 name: Circle In The Sand
 rankings:
 - end_date: '1988-04-22'
@@ -75,4 +76,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
 ---
+
+Sundown, all around
+Walking through the summer's end
+Waves crash baby, don't look back
+I won't walk away again
+
+Oh, Oh, Oh, baby, anywhere you go
+We are bound together
+I begin, baby, where you end
+Some things are forever
+
+Circle in the sand
+Round and round
+Never ending love is what we've found
+And you complete the heart of me
+Our love is all we need
+Circle in the sand
+Circle in the sand
+
+Cold wind, tide moves in
+Shivers in the salty air
+Day breaks, my heart aches
+I will wait for you right here
+
+Oh, Oh, Oh baby when you look for me
+Can you see forever?
+I begin baby, where you end
+We belong together
+
+Circle in the sand
+Round and round
+Rising of the moon as the sun goes down
+And you complete the heart of me
+Our love is all we need
+Circle in the sand
+Circle in the sand
+
+Baby can you hear me?
+Can you hear me calling?
+
+Whoa, Oh, Oh, baby, anywhere you go
+We are bound together
+And I begin, baby, where you end
+Some things are forever
+
+Circle in the sand
+Round and round
+Never ending love is what we've found
+And you complete the heart of me
+Our love is all we need
+Circle in the sand
+Circle in the sand
+Circle in the sand
+Circle in the sand
+
+
 

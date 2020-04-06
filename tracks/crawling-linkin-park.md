@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crawling-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/crawling.html
 name: Crawling
 rankings:
 - end_date: '2001-08-17'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
 ---
+
+
+Crawling in my skin
+These wounds they will not heal
+Fear is how I fall
+Confusing what is real
+
+There's something inside me that pulls beneath the surface
+Consuming confusing
+This lack of self-control I fear is never ending
+Controlling I can't seem
+
+
+To find myself again
+My walls are closing in
+(Without a sense of confidence and I'm convinced that there's just too much pressure to take)
+I've felt this way before
+So insecure
+
+
+Crawling in my skin
+These wounds they will not heal
+Fear is how I fall
+Confusing what is real
+
+Discomfort endlessly has pulled itself upon me
+Distracting reacting
+Against my will I stand beside my own reflection
+It's haunting how I can't seem
+
+
+To find myself again
+My walls are closing in
+(Without a sense of confidence and I'm convinced that there's just too much pressure to take)
+I've felt this way before
+So insecure
+
+Crawling in my skin
+These wounds they will not heal
+Fear is how I fall
+Confusing what is real
+
+Crawling in my skin
+These wounds they will not heal
+Fear is how I fall
+Confusing confusing what is real
+
+There's something inside me that pulls beneath the surface consuming
+Confusing what is real
+This lack of self-control I fear is never ending controlling
+Confusing what is real
+
+
 

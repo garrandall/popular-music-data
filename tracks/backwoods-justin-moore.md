@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: backwoods-justin-moore
+lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/backwoods.html
 name: Backwoods
 rankings:
 - end_date: '2010-03-19'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
 ---
+
+Rifle in a gun rack hanging in the back glass
+Buck knife on my belt, ain't no land for sale 'round here
+Red clay country mud, sippin' on a cold Bud
+Blue tick coon hound you know where I'm found out in the
+
+
+Backwoods down in the holler
+Out in the backwoods, workin' hard for a dollar in the
+Backwoods yeah we get it done right
+Work hard, play hard, hold my baby tight
+Lordy have mercy it's a real good life
+In the backwoods, yes sir
+
+Preacher's daughter couldn't get hotter
+Floating that river on an inner tube with her, splash
+35's and a lift kit how stuck can you get
+Ain't that just my luck where's the chain I'm stuck out in the
+
+
+Backwoods down in the holler
+Out in the backwoods workin' hard for a dollar in the
+Backwoods yeah we get it done right
+Work hard, play hard, hold my baby tight
+Lordy have mercy it's a real good life
+In the backwoods, son
+
+
+Out in the backwoods down in the holler
+Out in the backwoods workin' hard for a dollar in the
+Backwoods yeah we get it done right
+Work hard, play hard, hold my baby tight
+Lordy have mercy it's a real good life
+In the backwoods, down in the holler son
+Down in the backwoods
+
+
 

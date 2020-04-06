@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dude--looks-like-a-lady--aerosmith
+lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/dudelookslikealady.html
 name: Dude (Looks Like A Lady)
 rankings:
 - end_date: '1987-10-09'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
 ---
+
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+
+Cruise into a bar on the shore
+Her picture graced the grime on the door
+She a long lost love at first bite
+Baby maybe you're wrong but you know it's alright
+That's right
+
+That, that
+That, that
+
+Backstage we're havin' the time
+Of our lives until somebody say
+Forgive me if I seem out of line
+Then she whipped out her gun and tried to blow me away!
+
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+
+So, never judge a book by its cover
+Or who you're gonna love by your lover
+Sayin' love put me wise to her love in disguise
+She had the body of a Venus, Lord imagine my surprise.
+
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+
+So baby let me follow you down (let me take a peek dear)
+Baby let me follow you down (do me, do me, do me all night)
+Baby let me follow you down (turn the other cheek dear)
+Baby let me follow you down (do me, do me, do me, do me)
+
+Ooh, what a funky lady
+Ooh, she like it, like it, like it, like that.
+Ooh, he was a lady!
+
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+That, that dude looks like a lady
+
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+
+
 

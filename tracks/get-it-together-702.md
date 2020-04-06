@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-it-together-702
+lyrics_url: https://www.azlyrics.com/lyrics/702/getittogether.html
 name: Get It Together
 rankings:
 - end_date: '1997-02-21'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
 ---
+
+
+I don't really wanna stay,
+I don't really wanna go,
+But I really need to know,
+Can we get it together,
+Get it together.
+I don't really wanna go,
+I don't really wanna stay,
+But I really hope and pray,
+Can we get it together,
+Get it together.
+
+
+You don't know the pain that I feel,
+You've taken my love for granted,
+And you just wanna see it your way.
+It's about that time,
+I'm gonna tell ya what's on my mind.
+I'm fed up with you not being here with me,
+When you know love is all I need,
+I don't want to stay...
+
+
+
+
+I can't let go,
+'Cause being confused just takes control.
+I hope we can start brand new,
+'Cause I don't want to loose you.
+With the love we shared,
+Baby it's oh so rare,
+I'm willing to try and make you see,
+That all you need is here in me,
+I don't want to go...
+
+
+I don't wanna stay,
+I don't wanna go,
+But you gotta let me know,
+How you feel.
+
+
+
+
+
+See I'm so confused,
+I just don't know what to do,
+And I don't understand, no.
+You know I don't wanna stay,
+You know I don't wanna go,
+Baby, please listen to me.
+
+
+
+
 

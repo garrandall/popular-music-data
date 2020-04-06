@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chain-of-fools-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/giorgia/chainsoffools.html
 name: Chain Of Fools
 rankings:
 - end_date: '1967-12-15'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
 ---
+
+Chain, chain, chain, chain, chain, chain
+Chain, chain, chain, chain of fools
+Five long years I thought you were my man
+But I found out I'm just a link in your chain
+You got me where you want me
+I ain't nothing but your fool
+You treated me mean oh you treated me cruel
+Chain, chain, chain, chain of fools
+
+Every chain has got a weak link
+I might be weak child, but I'll give you strength
+You told me to leave you alone
+My father said come on home
+My doctor said take it easy
+Whole bunch of lovin' is much too strong
+I'm added to your chain, chain, chain
+Chain, chain, chain, chain
+Chain, chain of fools
+
+One of these mornings the chain is gonna break
+But up until then, yeah, I'm gonna take all I can take
+Chain, chain, chain, chain, chain, chain
+Chain, chain, chain, chain of fools
+
+
 

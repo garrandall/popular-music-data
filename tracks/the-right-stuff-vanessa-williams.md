@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-right-stuff-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/therightstuff.html
 name: The Right Stuff
 rankings:
 - end_date: '1988-07-29'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
 ---
+
+I was standing at 7:15 waiting for my baby's car
+Just then out stepped the driver of a limousine
+And asked if I was going far
+I said I've got my mind made up
+I don't wanna leave him baby cause it's clear to me
+That it's just to tough to find another lover like mine
+
+With the right stuff
+The right stuff baby
+I don't wanna miss out on the right stuff
+Ooh no with mr. right
+
+Just friday 'bout a week ago
+This fellow called me on the phone
+And said 'i live in paris, don't you want to go
+I know you must be all alone'
+
+Well, it'll take more than a fancy trip
+Or a chauffeured limousine
+Cause I ain't never seen no one
+
+Who could give me love like this
+The other fellows don't compare
+
+To the right stuff
+The right stuff baby
+I don't wanna miss out on the right stuff
+Ooh no with mr. right
+Sing
+
+He's the only to give me that lovin'
+Cause next to him there is no other one
+He's very sexy and oh so sweet
+And he knocks me off my feet
+Say it
+
+I need the right stuff
+I got to have the right stuff
+I don't wanna miss out on the right stuff
+
+
 

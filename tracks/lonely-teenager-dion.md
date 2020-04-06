@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-teenager-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/lonelyteenager.html
 name: Lonely Teenager
 rankings:
 - end_date: '1960-10-23'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+
+I wanna go home where I belong
+'Cause now I'm just a lonely teenager
+
+When I was sixteen, ran away all alone on a stray
+What can I do, what can I say
+I'm a lonely teenager
+
+Now I'm seventeen, still alone
+Wondering if I should go home
+Or maybe stay out of my own
+I'm a lonely teenager
+
+I'd love to go back home where I belong
+I know I'll be alright
+If I just stay out of sight
+
+I wanna go home where I belong
+'Cause now I'm just a lonely teenager
+
+I'd love to go back home where I belong
+I know I'll be alright
+If I stay out of sight
+
+I wanna go home where I belong
+'Cause now I'm just a lonely teenager, lonely teenager
+
+
 

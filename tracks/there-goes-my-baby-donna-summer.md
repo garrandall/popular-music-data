@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-my-baby-donna-summer
+lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/theregoesmybaby.html
 name: There Goes My Baby
 rankings:
 - end_date: '1984-08-17'
@@ -63,4 +64,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
 ---
+
+All alone I sit
+Looking out of the window
+And the rain just keeps coming on down
+
+Well, I cry to myself
+So many things that I have done wrong
+Now I'm watching you
+Walk out
+
+There goes my baby
+Moving on down the line
+Wonder where
+Wonder where
+Wonder where he is bound
+
+I broke his heart
+And I made him cry
+Now I'm alone
+So all alone
+What can I do
+What can I do
+
+What can I do
+Said I'll sing this sad, sad song
+
+Oh yeah, I broke his heart
+And I made him cry
+Now I'm alone
+So all alone
+What can I do
+What can I do
+
+Where is he going?
+How is he?
+What is he going through
+Where is he going?
+And what on earth could he be going through
+
+Oh, there goes my baby
+Moving on down the line
+Wonder where
+Wonder where
+Wonder where he is bound
+
+I broke his heart
+And I made him cry
+Now I'm alone
+So all alone
+What can I do
+What can I do
+
+Where is he going?
+How is he?
+What is he going through
+Where is he going?
+And what on earth could he be going through
+
+Oh, there goes my baby
+Moving on down the line, oh yeah baby
+Come on come
+
+I broke his heart
+And I made him cry
+Now I'm alone
+So all alone
+What can I do
+What can I do
+
+Sing this song forever
+Till we're back together
+Oh, oh, oh
+
+
 

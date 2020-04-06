@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-in-love-kenny-g
+lyrics_url: https://www.azlyrics.com/lyrics/kennyg/hereweare.html
 name: Forever In Love
 rankings:
 - end_date: '1992-12-25'
@@ -99,4 +100,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
 ---
+
+Thought Iâd never see your face
+âCause itâs been such a long time, babe
+Since we went a lot of separate ways
+I never forget that day
+Now youâre back to start anew
+It might be burning flames
+In our hearts for love thatâs true
+Made it last forever
+
+(Here we are in love again)
+Donât it feel, donât it feel, donât it feel real good?
+(Here we are in love again) Ohhh
+Here we are in love again, tell me, girl, where have you been?
+(Here we are in love again) Yeah
+You say true love is blind, but our love, girl, is gonna shine
+(Here we are in love again)
+You know I miss your kiss, I never had a love like this
+
+(Here we are in love again)
+Waiting so long for you, girl, here we are in love again
+(Here we are in love again)
+Put your arms around me every night, baby, baby, baby, baby
+(Here we are in love again)
+Canât you feel the fire burning, burning, burning desire?
+(Here we are in love again)
+We can make it, make it last forever
+
+(Here we are in love again)
+(Here we are in love again)
+
+(Here we are in love again)
+(Here we are in love again)
+(Here we are in love again)
+(Here we are in love again)
+Canât you feel the fire, burning, burning, burning desire?
+
+
 

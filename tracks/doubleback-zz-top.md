@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doubleback-zz-top
+lyrics_url: https://www.azlyrics.com/lyrics/zztop/doubleback.html
 name: Doubleback
 rankings:
 - end_date: '1990-05-25'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
 ---
+
+I got shot through a space not long ago,
+I thought I knew the place so well.
+It wasn't the same, now it goes to show,
+Sometime you never can tell.
+
+I'm lookin' high and low, don't know where to go,
+I got to double back, my friend.
+The only way to find, what I left behind
+I got to double back again, double back again.
+
+You know I'm movin on in this fine machine, 
+Rollin' on through the night.
+Seein' things like I've never seen
+And it's taking me outta sight.
+
+Lookin' high and low, don't know where to go,
+I got to double back, my friend.
+The only way to find, what I left behind
+I got to double back again, double back again.
+
+It's got me up and down,
+I been lost and found,
+Down in a deep dark hole.
+Looks like my luck has changed,
+I been rearranged
+And I'm coming out on a roll.
+
+Lookin' high and low, don't know where to go,
+I got to double back, my friend.
+The only way to find, what I left behind
+I got to double back again, double back again.
+
+
 

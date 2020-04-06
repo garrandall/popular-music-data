@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-on-your-mind--pure-energy--information-society
+lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/whatsonyourmindpureenergy.html
 name: What's On Your Mind (Pure Energy)
 rankings:
 - end_date: '1988-07-22'
@@ -107,4 +108,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
+
+It's worked so far, but we're not out yet
+
+I wanna know
+What you're thinking
+There are some things you can't hide
+I wanna know
+What you're feeling
+Tell me what's on your mind
+
+Pure energy
+Pure energy
+
+Here I am in silence
+Looking 'round without a clue
+I find myself alone again
+All alone with you
+
+I can see behind your eyes
+The things that I don't know
+If you hide away from me
+How can our love grow?
+
+I wanna know
+What you're thinking
+There are some things you can't hide
+I wanna know
+What you're feeling
+Tell me what's on your mind
+
+I know I could break you down
+But what good would it do?
+I could surely never know
+That what you say is true
+
+Here I am in silence
+It's a game I have to play
+You and I in silence
+With nothing else to say
+
+I wanna know
+What you're thinking
+There are some things you can't hide
+I wanna know
+What you're feeling
+Tell me what's on your mind
+
+Pure energy
+Pure energy
+
+Destruction
+Pure energy
+Destruction
+Pure energy
+Destruction
+Pure energy
+Destruction
+Pure energy
+
+I wanna know
+What you're thinking
+There are some things you can't hide
+I wanna know
+What you're feeling
+Tell me what's on your mind
+
+I wanna know
+What you're thinking
+There are some things you can't hide
+I wanna know
+What you're feeling
+Tell me what's on your mind
+
+
 

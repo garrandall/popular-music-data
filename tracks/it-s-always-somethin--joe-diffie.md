@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-always-somethin--joe-diffie
+lyrics_url: https://www.azlyrics.com/lyrics/joediffie/itsalwayssomethin.html
 name: It's Always Somethin'
 rankings:
 - end_date: '2000-08-18'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
 ---
+
+Downtown, stoplight, red car rolls by.
+What else can I do, but wonder if it's you.
+Scanning the stations, every song they're playin'
+is like a soundtrack, to the love we had.
+I should be over you by now, but every time I turn around...
+
+It's always somethin' every day remindin' me.
+Everywhere I go, there's a memory.
+Ready and awaitin' to catch me off guard,
+There's no way to prepare my heart.
+What I wouldn't give, what I wouldn't do.
+If only I could just stop missin' you.
+I'd let go of our love, like it was never nothing.
+But it's always something.
+
+Lunch time, a new place. 
+Waitress says her name. 
+Why does it have to be, Emily. 
+Corner store, stop in. 
+Someone ask, "How ya been?" 
+I say I wouldn't know. 
+I really gotta go. 
+Wish I could forget you, but I don't know how. 
+Cause every time I turn around...
+
+It's always somethin' every day remindin' me.
+Everywhere I go, there's a memory.
+Ready and awaitin' to catch me off guard,
+There's no way to prepare my heart.
+What I wouldn't give, what I wouldn't do.
+If only I could just stop missin' you.
+I'd let go of our love, like it was never nothing.
+But it's always something.
+
+
 

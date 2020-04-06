@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sandy-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/sandy.html
 name: Sandy
 rankings:
 - end_date: '1963-03-08'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
 ---
+
+Why must I love you so much?
+Sandy, I long for your touch
+
+A better luck the next time Sandy
+I gotta tell ya that we're through
+A find a guy who's always handy
+A listen girl I'm leavin' you
+
+I love a girl around the corner
+Just found out that she's no good
+I left her, didn't even want her
+But I'd crawl back if I could
+
+Why must I love you so much?
+Sandy, I long for your touch
+I never thought you'd put me down
+I can't believe that you're untrue
+And now the new is out around town
+Yeah, what eels can I do?
+
+Oh it's worth this pain
+I can't explain, oh, and all those tears
+I cry for you (wop, wop, wop...)
+A better luck the next time Sandy
+I've gotta tell you that we're through
+A find a guy who's always handy
+Listen girl I'm leavin' you
+
+Why must I love you so much?
+Sandy, I long for your touch
+I never thought you would put me down
+Can't believe that you're untrue
+And now the news is out around town
+Sandy babe what can I do?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-you-miss-me-sam-hunt
+lyrics_url: https://www.azlyrics.com/lyrics/alyssareid/makeyoumissme.html
 name: Make You Miss Me
 rankings:
 - end_date: '2016-06-24'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-10-22'
 ---
+
+You hear a new song, it's your favorite
+But pretty soon you'll be changing the station
+All your old shoes are looking brand new
+They wanna be worn but they never get the chance to
+Heavy into everything, ready for the next thing
+To catch your eye for a while than you're over it
+You change your mind on it
+Soon as the shine's gone
+Like you always do, but you don't know it yet
+
+Oh-whoa, oh-whoa
+I ain't gonna be that easy to leave
+Oh-whoa, oh-whoa
+Girl I'm gonna make you miss me
+Make you wish that you were sleeping in my shirt
+Lie about my jacket and tell everyone it's yours
+When your phone rings after midnight and you're thinking maybe it's me
+Gonna make you miss me
+
+You're cold and hot
+You burn out like a match
+Keep the slip knot and the strings you attach
+You think it's easy, but that's a lie
+The only reason that you're good at goodbye is
+Everyone you ever met, was too easy to forget
+Well, I ain't going out like that
+
+Oh-whoa, oh-whoa
+I ain't gonna be that easy to leave
+Oh-whoa, oh-whoa
+Girl I'm gonna make you miss me
+Make you wish that you were sleeping in my shirt
+Lie about my jacket and tell everyone it's yours
+When your phone rings after midnight and you're thinking maybe it's me
+Gonna make you miss me
+
+Oh-whoa, oh-whoa
+Oh-whoa
+
+
 

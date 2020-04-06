@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ah--leah--donnie-iris
+lyrics_url: https://www.azlyrics.com/lyrics/electricsix/ahleah.html
 name: Ah! Leah!
 rankings:
 - end_date: '1980-12-19'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
 ---
+
+Ah! Leah!
+
+Yeah, it's been a long, long time.
+Such a site, you're lookin' better than a body has a right to.
+Don't you know we're playin' with the fire?
+But we can stop this burnin' desire, Leah!
+
+Ah! Leah! Here we go again!
+Ah! Leah! Is it ever gonna end?
+Ah! Leah! Here we go again!
+Ah! Leah!
+
+I see your lips and I wonder who's been kissin' them.
+I never knew how badly I was missin' them.
+We both know we're never going to make it,
+But when we touch, we never have to fake it, Leah!
+
+Ah! Leah! Here we go again!
+Ah! Leah! Is it ever gonna end?
+Ah! Leah! Here we go again!
+Ah! Leah! We ain't learned our lesson yet!
+
+Baby, it's no good. We're just askin' for trouble.
+I can touch you, but I don't know how to love you.
+It ain't no use! We'er headed for disaster.
+Our minds said, "No!" But our hearts were talkin' faster, Leah!
+
+Ah! Leah! Here we go again!
+Ah! Leah! Here we go again!
+Ah! Leah! Leah, Leah, Leah!
+Ah! Leah! Here we go again!
+
+Ah! Leah, Leah, Leah!
+Ah! Leah! We're never, ever, ever gonna make it yeah!
+Ah! Leah!
+Ah! Leah! Here we go again!
+
+
 

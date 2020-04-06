@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: limelight-rush
+lyrics_url: https://www.azlyrics.com/lyrics/rush/limelight.html
 name: Limelight
 rankings:
 - end_date: '1981-03-20'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
 ---
+
+Living on a lighted stage
+Approaches the unreal
+For those who think and feel
+In touch with some reality
+Beyond the gilded cage
+
+Cast in this unlikely role
+Ill-equipped to act
+With insufficient tact
+One must put up barriers
+To keep oneself intact
+
+
+Living in the limelight
+The universal dream
+For those who wish to seem
+Those who wish to be
+Must put aside the alienation
+Get on with the fascination
+The real relation
+The underlying theme
+
+Living in a fish eye lens
+Caught in the camera eye
+I have no heart to lie
+I can't pretend a stranger
+Is a long-awaited friend
+
+All the world's indeed a stage
+And we are merely players
+Performers and portrayers
+Each another's audience
+Outside the gilded cage
+
+
+
+
 

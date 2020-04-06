@@ -5,6 +5,7 @@ features:
 - Babyface
 genres: []
 key: someone-to-love-jon-b--babyface
+lyrics_url: https://www.azlyrics.com/lyrics/jonb/someonetolove.html
 name: Someone To Love
 rankings:
 - end_date: '1995-05-05'
@@ -128,4 +129,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-18'
 ---
+
+Don't even like to think about it
+I don't know what I would do without it
+I only know I live and breathe for your love
+Baby you came to me in my time of need
+When i needed you, you're there for me
+Baby, the love from you is what got me through
+It's because of you I was able to
+Give my heart again, you give me
+
+
+Someone to love
+Someone to touch
+Someone to hold
+Someone to know
+Someone to love
+Someone to trust
+Someone to hold
+Oh someone to know
+
+I thought I'd never love again
+I thought my life was over and
+I didn't want to face nor even see another day
+Suddenly from no where, baby you appeared
+You dried my tears, you cared for me
+Baby your love for me, truly rescued me
+It's becuase of you, I was able to
+Fall in love again, you give me
+
+
+Someone to love
+Someone to touch
+Someone to hold
+Someone to know
+Someone to love
+Someone to trust
+Someone to hold
+Oh someone to know
+
+
+For so long in my life, I wouldn't let love inside
+But i swallowed my pride the day you arrived
+Now that you're by my side
+Everything is all right
+It's because of you, I was able to
+Give my heart again, you give me
+
+
+Someone to love
+Someone to touch
+Someone to hold
+Someone to know
+Someone to love
+Someone to trust
+Someone to hold
+Oh someone to know
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bailamos-enrique-iglesias
+lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/bailamos.html
 name: Bailamos
 rankings:
 - end_date: '1999-07-16'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
 ---
+
+Esta noche bailamos
+Te doy toda mi vida
+QuÃ©date conmigo
+
+Tonight we dance,
+I leave my life in your hands.
+We take the floor,
+Nothing is forbidden anymore.
+
+Don't let the world in outside.
+Don't let a moment go by.
+Nothing can stop us tonight!
+
+Bailamos!
+Let the rhythm take you over
+Bailamos!
+Te quiero amor mÃ­o
+Bailamos!
+Wanna live this night forever
+Bailamos!
+Te quiero amor mÃ­o
+Te quiero!
+
+Tonight I'm yours,
+We can make it happen I'm so sure.
+I won't let it go.
+There is something I think you should know.
+
+I won't be leaving your side,
+We're gonna dance through the night.
+I wanna reach for the stars!
+
+Bailamos!
+Let the rhythm take you over
+Bailamos!
+Te quiero amor mÃ­o
+Bailamos!
+Wanna live this night forever
+Bailamos!
+Te quiero amor mÃ­o
+Te quiero!
+
+Tonight we dance
+Like no tomorrow.
+If you will stay with me,
+Te quiero mi amor.
+
+QuÃ©date conmigo
+Esta noche bailamos
+
+Bailamos!
+Let the rhythm take you over
+Bailamos!
+Te quiero amor mÃ­o
+Bailamos!
+Wanna live this night forever
+Bailamos!
+Te quiero amor mÃ­o
+
+Bailamos!
+Â¡CÃ³mo te quiero!
+Let the rhythm take you over
+Â¡CÃ³mo te quiero!
+Bailamos!
+Â¡CÃ³mo te quiero!
+Te quiero amor mÃ­o
+Â¡CÃ³mo te quiero!
+Bailamos!
+Â¡CÃ³mo te quiero!
+Wanna live this night forever
+Â¡CÃ³mo te quiero!
+Bailamos!
+Â¡CÃ³mo te quiero!
+Te quiero amor mÃ­o
+Â¡CÃ³mo te quiero!
+
+
 

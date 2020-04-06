@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-it-s-the-last-thing-i-do-thelma-houston
+lyrics_url: https://www.azlyrics.com/lyrics/thelmahouston/ifitsthelastthingido.html
 name: If It's The Last Thing I Do
 rankings:
 - end_date: '1977-06-10'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
 ---
+
+If it's the last thing I do
+I'll make you mine
+But baby
+The first thing is you
+In my design
+
+Oh...
+And just like the stars guard the moon
+Way up above me
+Hey baby
+That's just how I'll guard our love
+So love me
+Come one, please love me
+
+Well...
+If it's the last thing I do
+I'm gonna take your hand
+And though I won't say one word
+I know you'll understand, yeah, yeah
+
+And I'll build a dream just for two
+And then I'll make it come true
+Baby, if it's the very, very last thing that I do
+I'm gonna get you, yeah, yeah
+
+Well, well, well, well, well
+I'll build a dream just for two
+And then I'll make sure it comes true
+Baby, if it's the very, very last thing that I might do
+While I'm down here on this Earth
+I'll 
+
+Baby, if I just had you, yeah
+I could be so happy
+And I know I could make you happy too
+So I'm gonna take your hand
+And baby, I'm sure you'll understand, yeah, yeah
+If it's the last thing I do
+I'm gonna get you
+I'm gonna make you mine...
+
+
 

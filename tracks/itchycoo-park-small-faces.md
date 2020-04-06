@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: itchycoo-park-small-faces
+lyrics_url: https://www.azlyrics.com/lyrics/quietriot/itchycoopark.html
 name: Itchycoo Park
 rankings:
 - end_date: '1967-11-17'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
 ---
+
+Over bridge of sighs
+To rest my eyes in shades of green
+Under dreamin' spires
+To Itchycoo Park, that's where I've been
+
+What did you do there?
+I got high
+What did you feel there?
+Well I cried
+But why the tears there?
+I'll tell you why
+It's all too beautiful
+It's all too beautiful
+It's all too beautiful
+It's all too beautiful
+
+I feel inclined to blow my mind
+Get hung up feed the ducks with a bun
+They all come out to groove about
+Be nice and have fun in the sun
+
+Tell you what I'll do (what will you do?)
+I'd like to go there now with you
+You can miss out school (won't that be cool)
+Why go to learn the words of fools?
+What will we do there?
+We'll get high
+What will we touch there?
+We'll touch the sky
+But why the tears then?
+I'll tell you why
+
+It's all too beautiful
+It's all too beautiful
+It's all too beautiful
+It's all too beautiful
+
+I feel inclined to blow my mind
+Get hung up feed the ducks with a bun
+They all come out to groove about
+Be nice and have fun in the sun
+
+It's all too beautiful
+It's all too beautiful
+It's all too beautiful
+Ha! It's all too beautiful
+
+
 

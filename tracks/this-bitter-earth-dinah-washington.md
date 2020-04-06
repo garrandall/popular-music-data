@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-bitter-earth-dinah-washington
+lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/thisbitterearth.html
 name: This Bitter Earth
 rankings:
 - end_date: '1960-06-26'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
 ---
+
+This bitter earth
+Well, what a fruit it bears
+What good is love
+Mmm, that no one shares
+
+And if my life is like the dust
+Ooh, that hides the glow of a rose
+What good am I
+Heaven only knows
+
+Lord, this bitter earth
+Yes, can be so cold
+Today you're young
+Too soon, you're old
+
+But while a voice within me cries
+I'm sure someone may answer my call
+And this bitter earth
+Ooh, may not, oh, be so bitter after all
+
+
 

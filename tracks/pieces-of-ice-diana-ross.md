@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pieces-of-ice-diana-ross
+lyrics_url: https://www.azlyrics.com/lyrics/dianaross/piecesofice.html
 name: Pieces Of Ice
 rankings:
 - end_date: '1983-07-01'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
 ---
+
+Walking blind across this silver room
+Looking through a smoke menagerie
+Looking at your face inside of me
+In the darkness you're Tunisia
+
+Nights are long entropic
+I can't seem to cope
+It's cold when I look in your eyes
+
+Pieces of ice
+Pieces of ice
+Pieces of ice
+Pieces of ice
+
+Where the zebra lightning strikes the room
+Foreign words are strutted through the gloom
+Women swooping down like birds of prey
+Never close but never far away
+
+Night are long entropic
+I can't seem to cope
+It's cold when I look in your eyes
+
+Pieces of ice
+Pieces of ice
+Pieces of ice
+Pieces of ice
+
+
 

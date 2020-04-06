@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-a-prayer-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/relentless/saveaprayer.html
 name: Save A Prayer
 rankings:
 - end_date: '1985-02-08'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
+
+You saw me standing by the wall corner of a main street
+And the lights are flashing on your window sill
+All alone ain't much fun so you're looking for the thrill
+And you know just what it takes and where to go
+
+Don't save a prayer for me now
+Save it 'til the morning after
+No don't say a prayer for me now
+Save it 'til the morning after
+
+Pretty looking road I try to hold the rising floods that fill my skin
+Don't ask me why I'll keep my promise melt the ice
+And you wanted to dance so I asked you to dance but fear is in your soul
+Some people call it a one night stand but we can call it paradise
+
+Don't say a prayer for me now
+Save it 'til the morning after
+No don't say a prayer for me now
+Save it 'til the morning after
+
+Save it 'til the morning after
+Save it 'til the morning after
+
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after
+
+
 

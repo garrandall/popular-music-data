@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-nu-flavor
+lyrics_url: https://www.azlyrics.com/lyrics/nuflavor/heaven.html
 name: Heaven
 rankings:
 - end_date: '1997-10-17'
@@ -103,4 +104,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
 ---
+
+First time I saw you girl,
+You turn me upside down
+I can't stop thinking bout you
+My head is spinning round
+I got to find away to get with you somehow
+Girl I'm so crazy for you
+You know I want you now
+And everyminute of every single day
+I'm dreaming of how it could be
+And everynight before I go to sleep
+I'm praying that soon you'll be here with me
+
+
+Heaven, heaven oh heaven can't you help
+
+Heaven oh heaven can't you help me
+I'm down on my knees please help me
+
+Cant fall alseep  tonight
+I don't know what to do
+I hold my pillow but I wanna be holding you
+And when close my eyes I always see your face
+I know my happiness is only kiss away
+And every hour here in the dark
+Every beat of my lonely heart
+Tells me that I need to be with you
+Heaven oh heaven what can I do
+
+
+Heaven, heaven oh heaven can't you help me
+I'm giving my love for eternity
+Heaven oh heaven can't you help me
+I'm down on my knees please help me
+
+
+
+Girl I'd give anything if you were here with me
+Give anything you want and anything you need
+I never thought that I could feel the way I do
+But now I wanna spend the rest of my life with you
+And every day that we are apart
+I'm shedding this love here in my heart
+And everynight before I go to sleep
+I'm praying that soon you'll be here with me
+
+
+Heaven, heaven oh heaven cant you help me
+I looked in her eyes now shes all I see
+Heaven oh heaven cant you help me
+I'm down on my knees please, heaven
+
+Heaven....
+
+
 

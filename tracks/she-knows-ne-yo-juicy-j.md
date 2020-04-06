@@ -5,6 +5,7 @@ features:
 - Juicy J
 genres: []
 key: she-knows-ne-yo-juicy-j
+lyrics_url: https://www.azlyrics.com/lyrics/neyo/sheknows.html
 name: She Knows
 rankings:
 - end_date: '2014-12-05'
@@ -88,4 +89,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
 ---
+
+
+Yeah, uh-huh
+Mmm, yeah
+(Ya)
+
+
+You know, from the moment she turn around, ay
+She know, how to back it up and drop it down {Ay}
+(Ya)
+She know, she what all the fellas looking at, mmmmmmmm
+Cause they know, soon as her song come on it's a wrap, yeah
+(Ya)
+
+
+Cause she loves the attention
+That she gets when she moves, yeah
+Showing out with her home girls
+Hypnotizing all the dudes, oh
+(Ya)
+
+
+She knows
+(She knows, she knows, she knows)
+She knows
+(She knows, she knows, she knows)
+She knows
+(She knows, she knows, she knows)
+I know, I know, she knows
+(She knows, she knows, she knows)
+And I know, I know, she knows
+
+Oohh, she knows
+(Ya)
+
+
+She bad, mixing ratchet with the classy, oh, yeah
+Oh. So bad, I just couldn't let her pass me, no
+Na na
+(Ya)
+I told her, "Shawty, you so right, but you so wrong"
+(So wrong, so wrong, so wrong)
+She said, "Daddy, I'll be back after this song"
+"Then you taking me home" {Yep}
+(Ya)
+
+
+Said I know she loves the attention
+That she gets when she moves
+Showing out with her home girls
+And she got me watching too girl
+(Ya)
+
+
+
+
+She know what she working with
+(She know, she know, she know)
+I see you, uh
+(Ya)
+You got my attention baby, gone do what you do
+Eviction notice, now you gone have to make a move
+All this ice in my rolly, no wonder I play it cool
+Ain't no 'I' in Team but
+I got my eyes on you, I watch it bounce
+When she walk, she lick her lips
+When she talk
+I throw her in that Bentley coupÃ© with the top off like Mardi Gras
+All that cake, come get you some filling
+Like a soap opera watch all my children
+Hit it so long that she might lose feeling
+With her legs in the air, she can walk on the ceiling
+
+
+
+
+
+
 

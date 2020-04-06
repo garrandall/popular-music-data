@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stayin--alive-bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/stayinalive.html
 name: Stayin' Alive
 rankings:
 - end_date: '1977-12-16'
@@ -115,4 +116,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+
+Well, you can tell by the way I use my walk,
+I'm a woman's man: no time to talk.
+Music loud and women warm,
+I've been kicked around since I was born.
+
+And now it's all right. It's OK.
+And you may look the other way.
+We can try to understand
+The New York Times' effect on man.
+
+Whether you're a brother
+Or whether you're a mother,
+You're stayin' alive, stayin' alive.
+Feel the city breakin'
+And everybody shakin',
+And we're stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive.
+
+Well, now, I get low and I get high,
+And if I can't get either, I really try.
+Got the wings of heaven on my shoes.
+I'm a dancin' man and I just can't lose.
+
+You know it's all right. It's OK.
+I'll live to see another day.
+We can try to understand
+The New York Times' effect on man.
+
+Whether you're a brother
+Or whether you're a mother,
+You're stayin' alive, stayin' alive.
+Feel the city breakin'
+And everybody shakin',
+And we're stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive.
+
+Life goin' nowhere. Somebody help me.
+Somebody help me, yeah.
+Life goin' nowhere. Somebody help me, yeah.
+Stayin' alive.
+
+Well, you can tell by the way I use my walk,
+I'm a woman's man: no time to talk.
+Music loud and women warm,
+I've been kicked around since I was born.
+
+And now it's all right. It's OK.
+And you may look the other way.
+We can try to understand
+The New York Times' effect on man.
+
+Whether you're a brother
+Or whether you're a mother,
+You're stayin' alive, stayin' alive.
+Feel the city breakin'
+And everybody shakin',
+And we're stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive, stayin' alive.
+Ah, ha, ha, ha, stayin' alive.
+
+Life goin' nowhere. Somebody help me.
+Somebody help me, yeah.
+Life goin' nowhere. Somebody help me, yeah.
+I'm stayin' alive.
+
+Life goin' nowhere. Somebody help me.
+Somebody help me, yeah.
+Life goin' nowhere. Somebody help me, yeah.
+I'm stayin' alive.
+
+Life goin' nowhere. Somebody help me.
+Somebody help me, yeah.
+Life goin' nowhere. Somebody help me, yeah.
+I'm stayin' alive.
+
+Life goin' nowhere. Somebody help me.
+Somebody help me, yeah.
+Life goin' nowhere. Somebody help me, yeah.
+I'm stayin' alive.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-birthday-sweet-sixteen-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/happybirthdaysweetsixteen.html
 name: Happy Birthday Sweet Sixteen
 rankings:
 - end_date: '1961-11-19'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
+
+Tra la-la-la-la la-la-la-la
+Happy birthday sweet sixteen
+Tra la-la-la-la la-la-la-la
+Happy birthday sweet sixteen
+
+Tonight's the night I've waited for
+Because you're not a baby anymore
+You've turned into the prettiest girl I've ever seen,
+Happy birthday sweet sixteen
+
+What happened to that funny face
+My little tomboy now wears satins and lace
+I can't believe my eyes you're just a teenage dream
+Happy birthday sweet sixteen
+
+When you were only six I was your big brother
+Then when a you were ten we didn't like each other
+When you were thirteen You was a funny valentine
+But since you've grown up Your future is sewn up
+From now on you're gonna be mine, so
+
+If I should smile with sweet surprise
+It's just that you've grown up before my very eyes
+You've turned into the prettiest girl I've ever seen
+Happy birthday sweet sixteen
+
+If I should smile with sweet surprise
+It's just that you've grown up before my very eyes
+You've turned into the prettiest girl I've ever seen
+Happy birthday sweet sixteen
+
+Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
+Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
+Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
+
+
+
 

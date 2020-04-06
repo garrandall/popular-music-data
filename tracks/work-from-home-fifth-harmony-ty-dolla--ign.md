@@ -5,6 +5,7 @@ features:
 - Ty Dolla $ign
 genres: []
 key: work-from-home-fifth-harmony-ty-dolla--ign
+lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/workfromhome.html
 name: Work From Home
 rankings:
 - end_date: '2016-03-25'
@@ -144,4 +145,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
 ---
+
+I ain't worried 'bout nothin'
+I ain't wearin' na nada
+I'm sittin' pretty, impatient, but I know you gotta
+Put in them hours, I'mma make it harder
+I'm sending pic after picture, I'mma get you fired
+
+I know you're always on that night shift
+But I can't stand these nights alone
+And I don't need no explanation
+'Cause baby, you're the boss at home
+
+You don't gotta go to work, work, work, work, work, work, work
+But you gotta put in work, work, work, work, work, work, work
+You don't gotta go to work, work, work, work, work, work, work
+Let my body do the work, work, work, work, work, work, work, work
+We can work from home, oh, oh, oh-oh
+We can work from home, oh, oh, oh-oh
+
+Let's put it into motion
+I'mma give you a promotion
+I'll make it feel like a vacay, turn the bed into an ocean
+We don't need nobody, I just need your body
+Nothin' but sheets in between us, ain't no getting off early
+
+I know you're always on the night shift
+But I can't stand these nights alone
+And I don't need no explanation
+'Cause baby, you're the boss at home
+
+You don't gotta go to work, work, work, work, work, work, work
+But you gotta put in work, work, work, work, work, work, work
+You don't gotta go to work, work, work, work, work, work, work
+Let my body do the work, work, work, work, work, work, work, work
+We can work from home, oh, oh, oh-oh
+We can work from home, oh, oh, oh-oh
+
+
+Girl, go to work for me
+Can you make it clap, no hands for me?
+Take it to the ground, pick it up for me
+Look back at it all on for me
+Put in work like my timesheet
+She ride it like a '63
+I'mma buy her no Celine
+Let her ride in a foreign with me
+Oh, she the bae, I'm her boo
+And she down to break the rules
+Ride or die, she gon' go
+I won't judge, she finesse
+I pipe her, she take that
+Putting overtime on your body
+
+You don't gotta go to work, work, work, work, work, work, work
+But you gotta put in work, work, work, work, work, work, work
+You don't gotta go to work, work, work, work, work, work, work
+Let my body do the work, work, work, work, work, work, work, work
+We can work from home, oh, oh, oh-oh
+We can work from home, oh, oh, oh-oh
+
+Yeah, we can work from home
+Yeah, we can work from home
+Yeah
+
+
 

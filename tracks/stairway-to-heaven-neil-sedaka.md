@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stairway-to-heaven-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/stairwaytoheaven.html
 name: Stairway To Heaven
 rankings:
 - end_date: '1960-04-03'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
 ---
+
+Climb up
+Way up high
+Climb up
+Way up high
+Climb up
+Way up high
+
+Well-a, well-a, well-a, heavenly angel
+I want you for my girl
+When I kissed your sweet, sweet lips
+I knew that you were out of this world
+
+I'll build a stairway to heaven
+I'll climb to the highest star
+I'll build a stairway to heaven
+Cause heaven is where you are
+
+Well-a, well-a, well-a, over the rainbow
+That's where I'm gonna climb
+Way up high where the bluebirds fly
+I'm gonna love you all of the time
+
+I'll build a stairway to heaven
+I'll climb to the highest star
+I'll build a stairway to heaven
+Cause heaven is where you are
+
+I'll build a stairway to heaven
+I'll climb to the highest star
+I'll build a stairway to heaven
+Cause heaven is where you are
+
+Well-a, well-a, well-a, I gotta be going
+Gonna leave the world behind
+Every day in a heavenly way
+You're gonna drive me outta my mind
+
+I'll build a stairway to heaven
+I'll climb to the highest star
+I'll build a stairway to heaven
+Cause heaven is where you are
+
+I'll build a stairway to heaven
+Cause heaven is where you are
+
+Climb up
+Way up high
+Climb up
+Way up high
+Climb up
+Way up high
+Climb up
+Way up high
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vibin--boyz-ii-men
+lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/vibin.html
 name: Vibin'
 rankings:
 - end_date: '1995-09-08'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
 ---
+
+
+Just take a minute and catch the vibe 
+Just take a minute and catch the vibe 
+Just take a minute and catch the vibe 
+Just take a minute and catch the vibe
+
+
+Coolin' in the studio you know how the story goes 
+Bobbin' our heads to the tune we're about to do 
+It's a laid back swing thang 
+The groove we feel is strong, 
+We need peace here to get it on 
+Having fun as we go, makin' sure the flavor shows 
+Cause we're feeling alright 
+Takin' our time to free our minds and have a ball, ya'll 
+Everything's fine it ain't nothing to it cause 
+We're gonna do it all, what are 
+
+
+We're just vibin' dancing the night away 
+Groovin', vibin', don't stop until the break of day 
+
+In the basement music just right 
+Nothing goin' down but the mellow sounds 
+Of Mr. DJ's turntable's goin' round 
+A mad sensation, a crew of women around sparks inspiration 
+To set something off the right way to hear the people say 
+That we're feelin' alright 
+Takin' our time to free our minds and have a ball ya'll 
+Everything's fine it ain't nothing to it 
+'Cause we're gonna do it all, don't you know that 
+
+We're just vibin' dancing the night away 
+Groovin', vibin', don't stop until the break of day
+
+
 

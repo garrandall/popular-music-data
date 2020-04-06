@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: watermelon-sugar-harry-styles
+lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/watermelonsugar.html
 name: Watermelon Sugar
 rankings:
 - end_date: '2019-12-06'
@@ -39,4 +40,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
 ---
+
+Tastes like strawberries on a summer evenin'
+And it sounds just like a song
+I want more berries and that summer feelin'
+It's so wonderful and warm
+
+Breathe me in, breathe me out
+I don't know if I could ever go without
+I'm just thinking out loud
+I don't know if I could ever go without
+
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar
+
+Strawberries on a summer evenin'
+Baby, you're the end of June
+I want your belly and that summer feelin'
+Getting washed away in you
+
+Breathe me in, breathe me out
+I don't know if I could ever go without
+
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+
+I just wanna taste it, I just wanna taste it
+Watermelon sugar high
+
+Tastes like strawberries on a summer evenin'
+And it sounds just like a song
+I want your belly and that summer feelin'
+I don't know if I could ever go without
+
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high (Sugar)
+Watermelon sugar high (Sugar)
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+Watermelon sugar high
+
+I just wanna taste it, I just wanna taste it (Woo)
+Watermelon sugar high
+I just wanna taste it, I just wanna taste it (Ooh)
+Watermelon sugar high
+Watermelon sugar
+
+
 

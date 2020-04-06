@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: nobody-but-you-blake-shelton-gwen-stefani
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/nobodybutyou.html
 name: Nobody But You
 rankings:
 - end_date: '2020-01-03'
@@ -44,4 +45,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+Don't have to leave this town to see the world
+'Cause there's something that I gotta do
+I don't wanna look back in thirty years and wonder who you're married to
+Wanna say it now, wanna make it clear
+For only you and God to hear
+When you love someone, they say you set 'em free
+But that ain't gonna work for me
+
+I don't wanna live without you
+I don't wanna even breathe
+I don't wanna dream about you
+Wanna wake up with you next to me
+
+I don't wanna go down any other road now
+I don't wanna love nobody but you
+Looking in your eyes now, if I had to die now
+I don't wanna love nobody but you
+You
+
+All the wasted days, all the wasted nights
+I blame it all on being young
+Got no regrets, 'cause they got me here
+But I don't wanna waste another one
+
+I been thinkin' about what I want in my life
+It begins and ends the same
+If I had to choose what I couldn't lose
+There'd only be one thing
+
+I don't wanna live without you
+I don't wanna even breathe
+I don't wanna dream about you
+Wanna wake up with you next to me
+
+I don't wanna go down any other road now
+I don't wanna love nobody but you
+Looking in your eyes now, if I had to die now
+I don't wanna love nobody but you
+
+You
+(I don't wanna love nobody but you) You
+
+I wanna say it now, wanna make it clear
+For only you and God to hear
+
+I don't wanna live without you (I don't wanna live)
+I don't wanna even breathe
+I don't wanna dream about you
+Wanna wake up with you next to me (Next to me)
+
+I don't wanna go down any other road now
+I don't wanna love nobody but you (I don't wanna love nobody)
+Lookin' in your eyes now, if I had to die now
+I don't wanna love nobody but you
+
+You
+(I don't wanna love nobody) You
+(I don't wanna love nobody but you)
+
+
 

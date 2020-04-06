@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-make-love-faith-hill-with-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/faithhill/letsmakelove.html
 name: Let's Make Love
 rankings:
 - end_date: '2000-08-18'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
 ---
+
+Baby I've been drifting away
+Dreaming all day
+Of holidng you
+Touching you
+The only thing I want to do
+Is be with you
+As close to you
+As I can be
+
+Let's make love
+All night long
+Until all our strength is gone
+Hold on tight
+Just let go
+I want to feel you in my soul
+Until the sun comes up
+Let's make love
+Oh, baby
+
+Do you know what you do to me
+Everything inside of me
+Is wanting you
+And needing you
+I'm so in love with you
+Look in my eyes
+Let's get lost tonight
+In each other
+
+Let's make love
+All night long
+Until all our strength is gone
+Hold on tight
+Just let go
+I want to feel you in my soul
+Until the sun comes up
+Let's make love
+
+Let's make love
+All night long
+Until all our strength is gone
+Hold on tight
+Just let go
+I want to feel you in my soul
+Until the sun comes up
+Oh, until the sun comes up
+Let's make love
+
+Oh baby, let's make love
+All night long
+All night long
+Let's make love
+
+
 

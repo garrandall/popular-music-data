@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-love-is-driving-me-crazy-sammy-hagar
+lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/yourloveisdrivingmecrazy.html
 name: Your Love Is Driving Me Crazy
 rankings:
 - end_date: '1982-12-17'
@@ -83,4 +84,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
 ---
+
+I don't mind
+When you act your age
+It suits me fine
+That you treat me like a child
+
+And I can't deny
+When I'm with you
+That you step outside
+Of all those fears locked up inside
+
+Your love is driving me crazy
+Your love just takes me away
+Your love is driving me crazy
+It takes me all the way
+
+What I like
+Is what you've got to offer
+Just my type
+Don't mind playing on the edge
+
+Your love is driving me crazy
+Your love just takes me away
+Your love is driving me crazy
+It takes me all the way, yeah
+
+Lead me to forbidden doors
+You know I'm yours
+Yeah, you got it, yeah, I want it
+Don't you know it baby?
+
+Right on time
+A tight fit right on the money
+So sublime
+Hot, sweet cherries on the vine
+
+Your love is driving me crazy
+Your love just takes me away
+Your love is driving me crazy
+It takes me all the way, yeah
+
+Your love is driving me crazy
+Your love just takes me away
+Your love is driving me crazy
+Your love just takes me away, oh yeah
+
+Your love, your love
+Your love just takes me away, oh yeah
+Your love
+
+
 

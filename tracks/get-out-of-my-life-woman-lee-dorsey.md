@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-out-of-my-life-woman-lee-dorsey
+lyrics_url: https://www.azlyrics.com/lyrics/freddieking/getoutofmylifewoman.html
 name: Get Out Of My Life Woman
 rankings:
 - end_date: '1966-01-07'
@@ -47,4 +48,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
 ---
+
+Get out of my life, woman, you don't love me no more
+Get out of my life, woman, you don't love me no more
+Get out of my life, you don't no love me no more
+
+Get out of my eyes, teardrops, I've got to see my way around
+Get out of my eyes, teardrops, I've got to see my way around
+Get out of my life, I've heartaches by the pound
+
+Get off my ladder, woman, I've got to climb up to the top
+Get off my ladder, woman, I've got to climb up to the top
+The reason why I'd want you to get off, ain't nothing gonna make me drop
+
+Get out of my life, woman, you don't love me no more
+Get out of my life, babe, you don't love me no more
+Get out of my life, you don't no love me no more
+
+
 

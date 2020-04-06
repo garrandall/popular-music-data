@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-make-you-close-your-eyes-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/iwannamakeyoucloseyoureyes.html
 name: I Wanna Make You Close Your Eyes
 rankings:
 - end_date: '2009-10-23'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
 ---
+
+Girl I've been waiting on this long hard day to get over
+So I can rest my head right here on your shoulder
+I just wanna lay here and feel you breathe
+Listen to the rhythm of your heartbeat
+And see where it leads
+
+We're wide awake but girl I wanna make you close your eyes
+And say my name like only you can say then hold me tight
+All I need is only you and me alone tonight
+I wanna make you close your eyes... oh yeah
+
+You can make me work for it girl if you want to
+Just leave a trail for me to follow you into the bedroom
+And if you need a little bit of help from me
+Babe there's not a button that I cant reach
+Lets see where it leads
+
+We're wide awake but girl I wanna make you close your eyes
+And say my name like only you can say then hold me tight
+All I need is only you and me alone tonight
+I wanna make you close your eyes
+
+I wanna take you somewhere... out there
+'Til the world fades out of sight
+
+We're wide awake but girl I wanna make you close your eyes
+And say my name like only you can say then hold me tight... just hold me tight
+All I need is only you and me alone tonight
+Yeah... I wanna make you close your eyes... oh
+
+I wanna make you close your eyes... oh
+Girl... I wanna make you close your eyes
+
+
 

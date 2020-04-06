@@ -5,6 +5,7 @@ features:
 - Brothers Osborne
 genres: []
 key: burning-man-dierks-bentley-brothers-osborne
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/burningman.html
 name: Burning Man
 rankings:
 - end_date: '2018-11-09'
@@ -76,4 +77,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
 ---
+
+Half your life you struggle
+Half your life you fly
+Half your life makin' trouble
+Half your life makin' it right
+One day I'm the exception
+Most days I'm just like most
+Some days I'm headed in the right direction
+And some days I ain't even close
+
+I'm a little bit steady but still little bit rollin' stone
+I'm a little bit heaven but still a little bit flesh and bone
+Little found, little don't know where I am
+I'm a little bit holy water but still a little bit burning man
+Burning man yeah
+
+I always loved the highway
+I just don't run it as fast
+I still go wherever the wind blows me
+But I always find my way back
+I still don't get it right sometimes
+I just don't get it as wrong
+I still go a little bit crazy sometimes
+Yeah, but now I don't stay near as long
+
+I'm a little bit steady but still little bit rollin' stone
+I'm a little bit heaven but still a little bit flesh and bone
+Little found, little don't know where I am
+I'm a little bit holy water but still a little bit burning man
+Burning man
+Still just a burn, burn, burning man
+Just a burning man, uh
+
+Maybe I'll go to the desert
+Find myself in the Joshua Trees
+If we pass in the night then just hand me a lighter
+Tell me you burned just like me
+
+I'm a little bit steady but still little bit rollin' stone
+I'm a little bit heaven but still a little bit flesh and bone
+Little found, little don't know where I am
+I'm a little bit holy water but still a little bit burning man
+Burning man
+Still just a burn, burn, burning man
+Just a burning man
+
+Burning man
+
+
 

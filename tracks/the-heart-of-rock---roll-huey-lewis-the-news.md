@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-heart-of-rock---roll-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/theheartofrockroll.html
 name: The Heart Of Rock & Roll
 rankings:
 - end_date: '1984-04-27'
@@ -88,4 +89,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
 ---
+
+New York, New York, is everything they say
+And no place that I'd rather be
+Where else can you do a half a million things
+All at a quarter to three
+
+When they play their music, ooh that modern music
+They like it with a lot of style
+But it's still that same old back beat rhythm
+That really really drives 'em wild
+
+They say the heart of rock and roll is still beating
+And from what I've seen I believe 'em
+Now the old boy may be barely breathing
+But the heart of rock and roll, heart of rock and roll is still beating
+
+LA, Hollywood, and the Sunset Strip
+Is something everyone should see
+Neon lights and the pretty pretty girls
+All dressed so scantily
+
+When they play their music, that hard rock music
+They like it with a lot of flash
+But it's still that same old back beat rhythm
+That really kicks 'em in the....
+
+They say the heart of rock and roll is still beating
+And from what I've seen I believe 'em
+Now the old boy may be barely breathing
+But the heart of rock and roll, heart of rock and roll is still beating
+
+DC, San Antone and the Liberty Town, Boston and Baton Rouge
+Tulsa, Austin, Oklahoma City, Seattle, San Francisco, too
+Everywhere there's music, real live music, bands with a million styles
+But It's still that some old rock and roll music
+that really really drives 'em wild
+
+They say the heart of rock and roll is still beating
+And from what I've seen I believe 'em
+Now the old boy may be barely breathing
+But the heart of rock and roll, heart of rock and roll is still beating 
+
+In Cleveland
+Detroit!!
+Huh, heart of rock and roll
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-words-frankie-j
+lyrics_url: https://www.azlyrics.com/lyrics/frankiej/morethanwords.html
 name: More Than Words
 rankings:
 - end_date: '2005-09-23'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
 ---
+
+
+Saying I love you
+Is not the words I want to hear from you
+Its not that I want you not to say
+But if you only knew
+How easy it would be to show me how you feel
+
+More than words
+Is all you have to do to make it real
+Then you wouldn't have to say
+that you love me, yeah
+Cause I'd already know.
+
+
+What would you do (what would you do)
+If my heart was torn in two?
+More than words to show you feel
+That your love for me is real
+What would you say
+If I took those words away
+Then you couldn't make things new
+Just by saying I Love You
+
+(just saying I love you, saying I love you)
+More than words
+(just saying I love you, saying I love you)
+
+
+Now that I've tried to (now that I've tried to)
+Talk to you and make you understand
+All you have to do is
+Close your eyes and just reach out your hand
+And touch me
+Hold me close don't ever let me go
+
+More than words
+Is all I ever needed you to show
+Then you wouldn't have to say
+That you love me, yeah
+Cause I'd already know
+
+(just saying I love you, saying I love you)
+More than words
+
+
+
 

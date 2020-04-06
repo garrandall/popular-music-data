@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tired-of-being-alone-al-green
+lyrics_url: https://www.azlyrics.com/lyrics/algreen/tiredofbeingalone.html
 name: Tired Of Being Alone
 rankings:
 - end_date: '1971-07-30'
@@ -83,4 +84,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
 ---
+
+I'm so tired of being alone
+I'm so tired of on-my-own
+Won't you help me girl
+Just as soon as you can?
+
+People say that I've found a way
+To make you say that you love me
+Hey baby, you didn't go for that
+It's a natural fact
+That I wanna come back
+Show me where it's at, baby
+
+I'm so tired of being alone
+I'm so tired of on-my-own
+Won't you help me girl
+Soon as you can
+
+I guess you know that I, uh, I love you so
+Even though you don't want me no more
+Hey hey hey hey, I'm cryin' tears
+All through the years
+I'll tell ya like it is
+Honey, love me if you will
+
+Yeah baby
+Tired of being alone here by myself, now
+I tell ya, I'm tired baby
+I'm tired of being all wrapped up late at night
+In my dreams, nobody but you, baby
+Sometime I wonder
+
+If you love me like you say you do
+You see baby, I-I-I been thinkin' about it, yeah
+I been, I been wantin' to get next to you baby
+Ya see, sometimes I hold my arms, I say mmmm hmmm hmmm
+Yeah baby
+Meeting you has proven to me
+To be my greatest dream, yeah
+
+Tired, baby
+Yeah, you don't know what I'm talkin' about
+Sometimes late at night I get to wonderin' about you baby
+Oh baby, baby
+I'm so tired of being alone
+I'm so tired of being alone
+I'm so tired of being alone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yes-sir-that-s-my-baby-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/yessirthatsmybaby.html
 name: Yes Sir That's My Baby
 rankings:
 - end_date: '1960-09-18'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+
+...that's my baby
+No sir, I don't mean maybe
+Yes sir, that's my baby now
+
+Yes, ma'm, we've decided
+No ma'm, we ain't gonna hide it
+Yes, ma'm, you're invited now
+
+By the way, by the way
+When we walk up to the preacher I'll say
+
+Yes sir, that's my baby
+No sir, I don't mean maybe
+Yes sir, that's my baby now
+
+By the way, by the way
+When we run into the preacher I'll say
+
+I'll say yes sir, that's my baby
+No sir, I don't mean maybe
+Yes sir, that's my baby now
+Mmm
+
+
 

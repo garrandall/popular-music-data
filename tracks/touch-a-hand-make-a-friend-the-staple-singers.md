@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-a-hand-make-a-friend-the-staple-singers
+lyrics_url: https://www.azlyrics.com/lyrics/oakridgeboys/touchahandmakeafriend.html
 name: Touch A Hand Make A Friend
 rankings:
 - end_date: '1974-03-01'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
 ---
+
+Can't you feel it in your bones?
+The change is coming on
+From every walk of life
+
+People seeing the light
+Can't you feel it in your heart, now?
+A new thing is taking shape
+Reach out and touch a hand
+Make a friend if you can
+
+Reach out and touch a hand
+Make a friend if you can
+Reach out and touch a hand
+Make a friend if you can
+
+I've read of how to my friends
+Any time come on in
+We can find a better way
+Why don't you join us today?
+Can't you feel it in your heart, now?
+A new thing is taking shape
+Reach out and touch a hand
+Make a friend if you can
+
+Reach out and touch a hand
+Make a friend if you can
+Reach out and touch a hand
+Make a friend if you can
+
+It can be effective in the attitude
+Of other people just like you
+Reach out and touch a hand
+Make a friend if you can
+Can't you feel it in your heart, now
+A new thing is taking shape
+Reach out and touch a hand
+Make a friend if you can
+
+Reach out and touch a hand
+Make a friend if you can
+Reach out and touch a hand
+Make a friend if you can
+
+
 

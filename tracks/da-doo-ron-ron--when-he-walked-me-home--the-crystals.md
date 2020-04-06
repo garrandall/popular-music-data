@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: da-doo-ron-ron--when-he-walked-me-home--the-crystals
+lyrics_url: https://www.azlyrics.com/lyrics/crystals/dadooronronwhenhewalkedmehome.html
 name: Da Doo Ron Ron (When He Walked Me Home)
 rankings:
 - end_date: '1963-05-03'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
 ---
+
+I met him on a Monday and my heart stood still
+Da doo ron ron ron, da doo ron ron
+Somebody told me that his name was Bill
+Da doo ron ron ron, da doo ron ron
+
+Yes, my heart stood still
+Yes, his name was Bill
+And when he walked me home
+Da doo ron ron ron, da doo ron ron
+
+I knew what he was doin' when he caught my eye
+Da doo ron ron ron, da doo ron ron
+He looked so quiet, but my oh my
+Da doo ron ron ron, da doo ron ron
+
+Yes, he caught my eye
+Yes, my oh my
+And when he walked me home
+Da doo ron ron ron, da doo ron ron
+
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+
+Picked me up at seven and he looked so fine
+Da doo ron ron ron, da doo ron ron
+Someday soon, I'm gonna make him mine
+Da doo ron ron ron, da doo ron ron
+
+Yes, he looked so fine
+Yes, I'll make him mine
+And when he walked me home
+Da doo ron ron ron, da doo ron ron
+
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-look-me-in-the-eyes-jonas-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/austinmahone/whenyoulookmeintheeyes.html
 name: When You Look Me In The Eyes
 rankings:
 - end_date: '2008-02-15'
@@ -75,4 +76,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
 ---
+
+If the heart is always searching,
+Can you ever find a home?
+I've been looking for that someone,
+I'll never make it on my own
+Dreams can't take the place of loving you,
+There's gotta be a million reasons why it's true.
+
+When you look me in the eyes,
+And tell me that you love me.
+Everything's alright,
+When you're right here by my side.
+When you look me in the eyes,
+I catch a glimpse of heaven.
+I find my paradise,
+When you look me in the eyes.
+
+How long will I be waiting
+To be with you again?
+Gonna tell you that I love you,
+In the best way that I can.
+I can't take a day without you here,
+You're the light that makes my darkness disappear.
+
+When you look me in the eyes,
+And tell me that you love me.
+Everything's alright,
+When you're right here by my side.
+When you look me in the eyes,
+I catch a glimpse of heaven.
+I find my paradise,
+When you look me in the eyes.
+
+More and more I start to realize,
+I can reach my tomorrow,
+I can hold my head up high,
+And it's all because you're by my side.
+
+When you look me in the eyes,
+And tell me that you love me.
+Everything's alright,
+When you're right here by my side.
+When I hold you in my arms,
+I know that it's forever.
+I just gotta let you know,
+I never wanna let you go.
+
+When you look me in the eyes.
+And tell me that you love me.
+Everything's alright,
+When you're right here by my side.
+When you look me in the eyes,
+I catch a glimpse of heaven.
+I find my paradise,
+When you look me in the eyes.
+
+
 

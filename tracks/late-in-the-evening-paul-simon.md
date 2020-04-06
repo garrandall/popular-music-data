@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: late-in-the-evening-paul-simon
+lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/lateintheevening.html
 name: Late In The Evening
 rankings:
 - end_date: '1980-08-15'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
 ---
+
+The first thing I remember
+I was lying In my bed
+I couldn't of been no more
+Than one or two
+I remember there's a radio
+Comin' from the room next door
+And my mother laughed
+The way some ladies do
+When it's late in the evening
+And the music s seeping through
+
+The next thing I remember
+I am walking down the street
+I'm feeling all right
+I'm with my boys
+I'm with my troops, yeah
+And down along the avenue
+Some guys were shootin pool
+And I heard the sound
+Of a cappella groups, yeah
+Singing late in the evening
+And all the girls out on the stoops, yeah
+
+Then I learned to play some lead guitar
+I was underage In this funky bar
+And I stepped outside to smoke
+myself a "J"
+And when I came back to the room
+Everybody just seemed to move
+And I turned my amp up loud and I began
+to play
+And it was late in the evening
+And I blew that room away
+The first thing I remember
+When you came into my life
+I said I'm gonna get that girl
+No matter what I do
+Well I guess I'd been in love before
+And once or twice I been on the floor
+But I never loved no one
+The way that I loved you
+And it was late in the evening
+And all the music seeping through
+
+
 

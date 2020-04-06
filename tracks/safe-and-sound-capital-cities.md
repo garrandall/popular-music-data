@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: safe-and-sound-capital-cities
+lyrics_url: https://www.azlyrics.com/lyrics/capitalcities/safeandsound.html
 name: Safe And Sound
 rankings:
 - end_date: '2013-05-24'
@@ -179,4 +180,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
 ---
+
+I could lift you up
+I could show you what you wanna see
+And take you where you wanna be
+
+You could be my luck
+Even if the sky is falling down
+I know that we'll be safe and sound
+
+We're safe and sound
+
+I could fill your cup
+You know my river won't evaporate
+This world we still appreciate
+
+You could be my luck
+Even in a hurricane of frowns
+I know that we'll be safe and sound
+
+Safe and sound
+We're safe and sound
+Safe and sound
+We're safe and sound
+Hold your ground
+We're safe and sound
+Safe and sound
+
+I could show you love
+In a tidal wave of mystery
+You'll still be standing next to me
+
+You could be my luck
+Even if we're six feet underground
+I know that we'll be safe and sound
+
+We're safe and sound
+
+Safe and sound
+Safe and sound
+Hold your ground
+Safe and sound
+
+I could lift you up
+I could show you what you wanna see
+And take you where you wanna be
+
+You could be my luck
+Even if the sky is falling down
+I know that we'll be safe and sound
+
+I could lift you up
+I could show you what you wanna see
+And take you where you wanna be
+
+You could be my luck
+Even if the sky is falling down
+I know that we'll be safe and sound
+
+We're safe and sound
+We're safe and sound
+We're safe and sound
+We're safe and sound
+
+Safe and sound
+We're safe and sound
+Safe and sound
+We're safe and sound
+Hold your ground
+We're safe and sound
+Safe and sound
+We're safe and sound
+
+
 

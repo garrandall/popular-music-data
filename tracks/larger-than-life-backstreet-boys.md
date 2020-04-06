@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: larger-than-life-backstreet-boys
+lyrics_url: https://www.azlyrics.com/lyrics/anthemlights/iwantitthatwayeverybodybackstreetsbackshapeofmyheartshowmethemeaningofbeinglonelylargerthanlife.html
 name: Larger Than Life
 rankings:
 - end_date: '1999-09-24'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
 ---
+
+Show me the meaning of being lonely
+You are my fire, the one desire
+Believe (is this the feeling I need to walk with)
+I want it that way
+Tell my why, ain't nothing but a heartache
+Tell my why, ain't nothing but a mistake
+Tell my why, tell my why I can't be there were you lay
+There's something missing in the shape of my heart
+Looking back to the things I've done
+I was trying to be someone
+I play my part, kept you in the dark
+And that makes you larger than life
+All you people can't you see, can't you see,
+How your love's affecting our reality,
+Every time were down, you can make it right
+And that makes you larger
+Everybody yeah
+Rock your body yeah
+Everybody, rock your body right
+Backstreets back alright
+Don't wanna hear you say
+Ain't nothing but a heartache
+Ain't nothing but a mistake (I wanna hear you say)
+I never wanna hear you say (hear you say)
+I want it that way
+Cause I want it that way
+
+
 

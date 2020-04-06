@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: room-at-the-top-adam-ant
+lyrics_url: https://www.azlyrics.com/lyrics/adamant/roomatthetop.html
 name: Room At The Top
 rankings:
 - end_date: '1990-03-16'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
 ---
+
+Once is never enough
+Never is never was
+Here and now is all that counts
+Here and now in large amounts
+Be beautiful but shut up
+The going can be real tough
+
+You can keep your fancy bars
+Clubby friends and fast cars
+And when the going gets hard
+You can eat your credit cards
+I really tried to fight it
+But what the hell I like it
+
+There is always room at the top
+Don't let them tell you there is not
+Made in England born and bred
+An eighteenth century brain
+In a twenty-first century head
+
+Room at the top - so eighteenth century
+Room at the top - so eighteenth century
+Room at the top
+There's always room
+
+If some of this fits you
+Or like the things that you might do
+It's the pleasure and the pain
+That makes us do it all again
+They say
+Be beautiful and shut up
+The going can be real tough
+
+
 

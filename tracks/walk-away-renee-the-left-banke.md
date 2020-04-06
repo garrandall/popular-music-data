@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-away-renee-the-left-banke
+lyrics_url: https://www.azlyrics.com/lyrics/fourtops/walkawayrenee.html
 name: Walk Away Renee
 rankings:
 - end_date: '1966-09-16'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
+
+And when I see the sign that points one way
+The lot we used to pass by every day
+
+Just walk away, RenÃ©e
+You won't see me follow you back home
+The empty sidewalks on my block are not the same
+You're not to blame
+
+From deep inside the tears
+I'm forced to cry
+From deep inside the pain
+That I chose to hide
+
+Just walk away, RenÃ©e
+You won't see me follow you back home
+Now as the rain burns down upon my weary eyes
+For me it cries
+
+Just walk away, RenÃ©e
+You won't see me follow you back home
+Now as the rain burns down upon my weary eyes
+For me it cries
+
+Your name and mine inside
+A heart on a wall
+Still finds a way to haunt me
+Though they're so small
+
+Just walk away, RenÃ©e
+You won't see me follow you back home
+The empty sidewalks on my block are not the same
+You're not to blame
+
+
 

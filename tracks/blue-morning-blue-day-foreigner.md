@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-morning-blue-day-foreigner
+lyrics_url: https://www.azlyrics.com/lyrics/foreigner/bluemorningblueday.html
 name: Blue Morning Blue Day
 rankings:
 - end_date: '1978-12-29'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
 ---
+
+Out in the street it's 6 am, another sleepless night
+Three cups of coffee, but I can't clear my head from what went down last night
+I know we both have our own little ways, but somehow we keep it together
+You hear me talk, but you don't hear what I say, I guess it don't even matter
+
+Blue morning, blue day, won't you see things my way?
+Blue morning, can't you see what your love has done to me?
+
+I've always listened to your point of view, my ways I've tried to mend
+And I've always been a patient man, but my patience has reached its end
+You tell me you're leaving, you tell me goodbye
+You say you might send a letter
+Well honey don't telephone, cause I won't be alone
+I need someone to make me feel better
+
+Blue morning, blue day, won't you see things my way?
+Blue morning, can't you see what your love has done to me?
+
+Blue morning, blue day, won't you see things my way?
+Blue morning, can't you see what your love has done to me?
+
+Blue morning, blue morning
+Blue morning, blue morning
+Blue morning, blue morning
+Blue, blue, blue day, yeah
+
+
 

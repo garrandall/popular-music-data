@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-tonight-paul-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/theworldtonight.html
 name: The World Tonight
 rankings:
 - end_date: '1997-05-30'
@@ -47,4 +48,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
 ---
+
+I saw you sitting at the center of a circle
+Everybody,
+Everybody wanted something from you
+I saw you sitting there
+
+I saw you swaying to the rhythm of the music
+Caught you playing
+Caught you praying to the voice inside you
+I saw you swaying there
+
+I don't care what you want to be
+I go back so far, I'm in front of me
+It doesn't matter what they say
+They're giving the game away
+
+I can see the world tonight
+Look into the future
+See it in a different light
+I can see the world tonight
+
+I heard you listening to a secret conversation
+You were crying
+You were trying not to let them hear you
+I heard you listening in
+
+Never mind what they want to do
+You got a right, to your point of view
+It doesn't matter what they say
+They're giving the game away
+
+I can see the world tonight
+Look into the future
+See it in a different light
+I can see the world tonight
+
+I saw you hiding from a flock of paparazzi
+You were hoping
+You were hoping that the ground would swallow you
+I saw you hiding there
+
+I don't care what you want to be
+I go back so far, I'm in front of me
+It doesn't matter what they say
+They're giving the game away
+
+I can see the world tonight
+Look into the future
+See it in a different light
+I can see the world tonight
+
+Look into the future
+
+I can see the world tonight
+
+See it in a different light
+I can see the world tonight
+I can see the world tonight
+
+
 

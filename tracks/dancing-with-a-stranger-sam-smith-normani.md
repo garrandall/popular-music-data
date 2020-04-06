@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: dancing-with-a-stranger-sam-smith-normani
+lyrics_url: https://www.azlyrics.com/lyrics/samtsui/dancingwithastranger.html
 name: Dancing With A Stranger
 rankings:
 - end_date: '2019-02-01'
@@ -188,4 +189,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
 ---
+
+Dancing, yeah...
+
+I don't wanna be alone tonight
+It's pretty clear that I'm not over you
+I'm still thinking 'bout the things you do (Things you do)
+So I don't want to be alone tonight, alone tonight, alone tonight
+Can you light the fire? (Light the fire...)
+I need somebody who can take control (Take control)
+I know exactly what I need to do (To do)
+'Cause I don't wanna be alone tonight, alone tonight, alone tonight
+
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing with a stranger
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing with a stranger
+Dancing with a stranger
+
+I wasn't even going out tonight (Out tonight)
+But, boy, I need to get you off of my mind (Off of my mind)
+I know exactly what I have to do
+I don't wanna be alone tonight, alone tonight, alone tonight
+
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing with a stranger
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing with a stranger
+Dancing with a stranger
+Dancing with a stranger
+Dancing, dancing, yeah
+Dancing, yeah
+
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing with a stranger
+Look what you made me do, I'm with somebody new
+Ooh, baby, baby, I'm dancing, yeah
+
+I'm dancing, I'm dancing (Dancing with a stranger)
+I'm dancing, I'm dancing with a stranger
+I'm dancing (Dancing with a stranger)
+I'm dancing, I'm dancing with a stranger
+
+
 

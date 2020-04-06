@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funk-boutique-the-cover-girls
+lyrics_url: https://www.azlyrics.com/lyrics/covergirls/funkboutique.html
 name: Funk Boutique
 rankings:
 - end_date: '1991-02-15'
@@ -51,4 +52,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
 ---
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Yeah, yeah
+Yeah, yeah
+
+Funky rhythm
+It's a funky rhythm
+Funky rhythm
+Funky rhythm
+
+Yeah, yeah
+
+Funky rhythm
+It's a funky rhythm
+Funky rhythm
+Funky rhythm
+
+Oh, oh, oh...
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Oh, oh, oh...
+
+Mister Funk
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Funk boutique
+F-f-f-funk boutique
+Yeah, yeah
+
+Yeah, yeah, ooh
+Yeah, ooh, funky, yeah
+Funky, funky
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Funky rhythm
+It's a funky rhythm
+
+Funk boutique
+F-f-f-funk boutique
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Funk boutique
+F-f-f-funk boutique
+
+Funk boutique
+F-f-f-funk boutique
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+Come on down
+To the funk boutique
+Try on a groove
+With a funky rhythm
+
+
 

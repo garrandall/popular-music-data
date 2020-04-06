@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: jungle-boogie-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/jungleboogie.html
 name: Jungle Boogie
 rankings:
 - end_date: '1973-12-14'
@@ -96,4 +97,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
 ---
+
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Aaaaaaah!
+
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+Jungle boogie
+
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+Get down - get down
+
+Uh, get it
+Feel the funk y'all
+Let it flow
+
+Get down with the Boogie
+I'm talkin' about the Jungle Boogie
+Get down
+Get down with the Boogie say
+Get down say
+Get down say
+'Till ya feel it
+
+Get down
+Get up ya'll
+With the get down
+
+
 

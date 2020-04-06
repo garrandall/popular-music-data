@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-yesterday-hilary-duff
+lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/soyesterday.html
 name: So Yesterday
 rankings:
 - end_date: '2003-08-22'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
 ---
+
+You can change your life - if you wanna
+You can change your clothes - if you wanna
+If you change your mind
+Well, that's the way it goes
+
+But I'm gonna keep your jeans
+And your old black hat - cause I wanna
+They look good on me
+You're never gonna get them back
+
+At least not today, not today, not today
+'cause
+
+
+If it's over, let it go and
+Come tomorrow it will seem
+So yesterday, so yesterday
+I'm just a bird that's already flown away
+
+Laugh it off let it go and
+When you wake up it will seem
+So yesterday, so yesterday
+Haven't you heard that I'm gonna be okay
+
+You can say you're bored - if you wanna
+You can act real tough - if you wanna
+You can say you're torn
+But I've heard enough
+
+Thank you... you made my mind up for me
+When you started to ignore me
+Do you see a single tear
+It isn't gonna happen here
+At least not today, not today, not today
+'cause
+
+
+
+If you're over me, I'm already over you
+If it's all been done, what is left to do
+How can you hang up if the line is dead
+If you wanna walk, I'm a step ahead
+If you're moving on, I'm already gone
+If the light is off then it isn't on
+At least not today, not today, not today
+'cause
+
+
+
+
 

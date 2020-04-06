@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scars-papa-roach
+lyrics_url: https://www.azlyrics.com/lyrics/paparoach/scars.html
 name: Scars
 rankings:
 - end_date: '2005-02-18'
@@ -159,4 +160,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
 ---
+
+I tear my heart open, I sew myself shut
+My weakness is that I care too much
+And my scars remind me that the past is real
+I tear my heart open just to feel
+
+Drunk and I'm feeling down
+And I just wanna be alone
+I'm pissed cause you came around
+Why don't you just go home
+Cause you channel all your pain
+And I can't help you fix yourself
+You're making me insane
+All I can say is
+
+I tear my heart open, I sew myself shut
+My weakness is that I care too much
+And our scars remind us that the past is real
+I tear my heart open just to feel
+
+I tried to help you once
+Against my own advice
+I saw you going down
+But you never realized
+That you're drowning in the water
+So I offered you my hand
+Compassion's in my nature
+Tonight is our last stand
+
+I tear my heart open, I sew myself shut
+My weakness is that I care too much
+And our scars remind us that the past is real
+I tear my heart open just to feel
+
+I'm drunk and I'm feeling down
+And I just wanna be alone
+You should've never come around
+Why don't you just go home?
+Cause you're drowning in the water
+And I tried to grab your hand
+And I left my heart open
+But you didn't understand
+But you didn't understand
+Go fix yourself
+
+I can't help you fix yourself
+But at least I can say I tried
+I'm sorry but I gotta move on with my own life
+I can't help you fix yourself
+But at least I can say I tried
+I'm sorry but I gotta move on with my own life
+
+I tear my heart open, I sew myself shut
+My weakness is that I care too much
+And our scars remind us that the past is real
+I tear my heart open just to feel
+
+I tear my heart open, I sew myself shut
+My weakness is that I care too much
+And our scars remind us that the past is real
+I tear my heart open just to feel
+
+
 

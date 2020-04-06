@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-missed-me-jim-reeves
+lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/imissedme.html
 name: I Missed Me
 rankings:
 - end_date: '1960-11-20'
@@ -31,4 +32,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+
+Last night was the worst night of my life no doubt
+'Cause while I stayed at home someone else took you out
+I cried 'cause I love you with all of my might
+And I missed me, how I missed me at your house last night.
+
+I missed holding hands walking out on your lawn
+I missed the sweet kiss that was mine for so long
+Were you happy with new arms 
+Wrapped around you so tight
+I missed me, how I missed me at your house last night.
+
+Did the neighbours say they noticed anything strange
+Like a different car parked in your drive for a change
+Did they watch as he kissed you beneath the porch light
+Did they miss me like I missed me at your house last night.
+
+I missed holding hands walking out on your lawn
+I missed the sweet kiss that was mine for so long
+Were you happy with new arms 
+Wrapped around you so tight
+I missed me, how I missed me at your house last night...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-gone-jimmy-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/staygone.html
 name: Stay Gone
 rankings:
 - end_date: '2003-05-02'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-06'
 ---
+
+I've found peace of mind, i'm feeling good again
+I'm on the other side, back among the living
+Ain't a cloud in the sky
+All my tears have been cried
+And i can finally say
+
+
+Baby baby stay
+Stay right where you are
+I like it this way
+It's good for my heart
+I haven't felt like this
+In God knows how long
+I know everything's gonna be okay
+If you just stay gone
+
+I still love you and i will forever
+We can't hide the truth
+We know each other better
+When we try to make it work
+We both end up hurt
+It ain't supposed to be that way
+
+
+Baby baby stay
+Stay right where you are
+I like it this way
+It's good for my heart
+I haven't felt like this
+In God knows how long
+I know everything's gonna be okay
+If you just stay gone
+
+When we try to make it work
+We both end up hurt
+Love ain't supposed to be that way
+
+
+So baby baby stay
+Stay right where you are
+I like it this way
+It's good for my heart
+I haven't felt like this
+In ooh in God knows how long
+I know everything's gonna be okay
+If you just stay gone
+
+I know everything's gonna be okay
+If you just stay gone
+
+
 

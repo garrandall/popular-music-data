@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-love-ways-mickey-gilley
+lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/trueloveways.html
 name: True Love Ways
 rankings:
 - end_date: '1980-08-22'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-27'
 ---
+
+Just you know why
+Why you and I
+Will by and by
+Know true love ways
+
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+Know true love ways
+
+Throughout the days
+Our true love ways
+Will bring us joy to share
+With those who really care
+
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+Know true love ways
+
+Throughout the days
+Our true love ways
+Will bring us joy to share
+With those who really care
+
+Sometimes we'll sigh
+Sometimes we'll cry
+And we'll know why
+Just you and I
+Know true love ways...
+
+
 

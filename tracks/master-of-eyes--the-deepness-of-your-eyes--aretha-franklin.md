@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: master-of-eyes--the-deepness-of-your-eyes--aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/masterofeyesthedeepnessofyoureyes.html
 name: Master Of Eyes (The Deepness Of Your Eyes)
 rankings:
 - end_date: '1973-02-16'
@@ -47,4 +48,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
 ---
+
+The look in your eyes, baby, just turns me on;
+So inviting to me... You know I feel that they're my home...
+
+(Darling, reach out just for me...)
+And darlin', I had to surrender all my sense of pride;
+Your touch from behind on the shoulder's so tender...
+(The deepness of your eyes...)
+
+I can't stop loving you, baby...
+(The deepness of your eyes...)
+I feel your loving all the time, oh! Oh, yeah...
+(The deepness of your eyes...)
+
+The wheel of fading fortune's standing,
+For a long, long, long day, yeah, yeah, hey...
+
+People say that the eyes tell stories, and they mirror the soul;
+Tell me, do we reflect the sameness of one, the unity to have and to hold?
+
+(Darling, reach out just for me...)
+I tend our love in quiet seclusion - only you can say 
+If this is love or just an illusion...
+(The deepness of your eyes...)
+
+I can't stop loving you, baby...
+(The deepness of your eyes...)
+I feel the loving all the time, hey...
+(The deepness of your eyes...)
+
+The wheel of fading fortune's standing
+For a long, long, windin' day, yeah...
+
+I can't stop lovin' you, baby... baby...
+(The deepness of your eyes...)
+I feel your lovin' all the time, hey!
+(The deepness of your eyes...)
+I can't stop lovin' you baby... oh, baby...
+(The deepness of your eyes...)
+Feel your lovin' all the time... la-la-la...
+(The deepness of your eyes...)
+I can't stop lovin' you baby... oh, baby!
+(The deepness of your eyes...)
+I feel the lovin' all the time... yes, I do...
+(The deepness of your eyes...)
+I can't stop lovin' you baby! Hey, hey!
+(The deepness of your eyes...)
+I feel your lovin' all...!
+(The deepness of your eyes...)
+I can't stop lovin'-ah... whoo, baby.... whoo, baby...
+(The deepness of your eyes...)
+Hee, hee, hee, hee, feel your lovin' all the time, baby..
+(The deepness of your eyes...)
+I can't stop lovin' you baby... lovin' you baby... lovin' you baby...
+(The deepness of your eyes...)
+Lovin' all...
+
+
 

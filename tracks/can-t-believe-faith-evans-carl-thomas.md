@@ -5,6 +5,7 @@ features:
 - Carl Thomas
 genres: []
 key: can-t-believe-faith-evans-carl-thomas
+lyrics_url: https://www.musixmatch.com/lyrics/Faith-Evans-feat-Carl-Thomas/Can-t-Believe
 name: Can't Believe
 rankings:
 - end_date: '2001-05-11'
@@ -88,4 +89,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
 ---
+I always dreamed that everything would be okay
+With me and you, I was wrong
+When I looked into your eyes I didn't see all the things
+I used to see, what's going on?
 
+You gave me reasons to believe
+That we were always meant to be
+But now I see you were wrong
+You can't keep running back to me
+With all those baby, baby pleases, no more, no more
+
+Never imagined you would be
+A faded picture I'm emotional
+It's so believing your deceiving
+It's official, I'm emotional
+
+I can't forget that night I saw you in the corner
+Wrapped up tight, you were warm, ooh
+Slow dancing on the floor while I was watching
+From the door so hurt, there you were
+
+You gave me reasons to believe
+That we were always meant to be
+But now I see you were wrong
+You can't keep running back to me
+With all those baby baby pleases no more, no more
+
+Never imagined you would be
+A faded picture, I'm emotional
+It's so believing your deceiving
+It's official, I'm emotional
+
+You had your chance
+But you threw it all away
+Thought you had my love always
+
+I don't understand
+How you think that we could stay
+In total unhappiness
+
+Never imagined you would be
+A faded picture I'm emotional
+It's so believing your deceiving
+It's official, I'm emotional
+
+Never imagined you would be
+A faded picture I'm emotional
+It's so believing your deceiving
+It's official, I'm emotional
+
+Never imagined you would be
+A faded picture I'm emotional
+It's so believing your deceiving
+It's official, I'm emotional

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: say-something-a-great-big-world-christina-aguilera
+lyrics_url: https://www.azlyrics.com/lyrics/greatbigworld/saysomething341962.html
 name: Say Something
 rankings:
 - end_date: '2013-11-29'
@@ -112,4 +113,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
 ---
+
+Say something, I'm giving up on you
+I'll be the one, if you want me to
+Anywhere I would have followed you
+Say something, I'm giving up on you
+
+And I am feeling so small
+It was over my head
+I know nothing at all
+
+And I will stumble and fall
+I'm still learning to love
+Just starting to crawl
+
+Say something, I'm giving up on you
+I'm sorry that I couldn't get to you
+Anywhere I would have followed you
+Say something, I'm giving up on you
+
+And I will swallow my pride
+You're the one that I love
+And I'm saying goodbye
+
+Say something, I'm giving up on you
+And I'm sorry that I couldn't get to you
+And anywhere I would have followed you (Oh-oh-oh-oh)
+Say something, I'm giving up on you
+
+Say something, I'm giving up on you
+Say something...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: delta-dawn-tanya-tucker
+lyrics_url: https://www.azlyrics.com/lyrics/statlerbrothers/deltadawn.html
 name: Delta Dawn
 rankings:
 - end_date: '1972-07-07'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
 ---
+
+What's that flower you have on Delta Dawn
+Delta Dawn what's that flower you have on could it be a faded rose of days gone by
+And did I hear you say he was meetin' you here today
+To take you to his mansion in the sky
+
+In her younger days they called her Delta Dawn
+Prettiest woman you ever laid your eyes on
+Then a man of low degree stood by her side promised her he'd take her for his bride
+Delta Dawn what's that flower...
+
+She's forty-one and her daddy still calls her baby
+All the folks around Brownsville say she's crazy
+'Cause she walks downtown with a suitcase in her hand
+Looking for a mysterious dark haired man
+Delta Dawn what's that flower...
+Delta Dawn what's that flower...
+Delta Dawn what's that flower...
+
+
 

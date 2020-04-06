@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mysterious-ways-u2
+lyrics_url: https://www.azlyrics.com/lyrics/u2band/mysteriousways.html
 name: Mysterious Ways
 rankings:
 - end_date: '1991-11-29'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
 ---
+
+Johnny take a walk with your sister the moon
+Let her pale light in to fill up your room
+You've been living underground
+Eating from a can
+You've been running away
+From what you don't understand...
+Love
+
+She's slippy
+You're sliding down
+She'll be there when you hit the ground
+
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+
+Johnny take a dive with your sister in the rain
+Let her talk about the things you can't explain
+To touch is to heal
+To hurt is to steal
+If you want to kiss the sky
+Better learn how to kneel
+
+(on your knees boy)
+
+She's the wave
+She turns the tide
+She sees the man inside the child
+
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+It's alright, it's alright, it's alright
+Lift my days, light up my nights
+
+One day you will look...back
+And you'll see...where
+You were held...how
+By this love...while
+You could stand...there
+You could move on this moment
+Follow this feeling
+
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+It's alright, it's alright, it's alright
+She moves in mysterious ways
+It's alright, it's alright, it's alright
+
+We move through miracle days
+Spirit moves in mysterious ways
+She moves with it
+She moves with it
+Lift my days, light up my nights
+
+
 

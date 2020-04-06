@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-down-day-the-cyrkle
+lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/turndownday.html
 name: Turn-Down Day
 rankings:
 - end_date: '1966-08-19'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+
+It's much too groovy a summer's day
+To waste runnin' 'round in the city
+But here on the sand I can dream away
+Or look at the girls if they're pretty
+
+It's a turn-down day
+Nothing on my mind
+It's a turn-down day
+And I dig it
+
+There's nothing easier I can do
+Than lying around doing nothing
+
+It's a turn-down day
+Just a turn-'round day
+It's a turn-down day
+And I dig it
+
+Soft summer breeze and the surf rolls in
+Through laughter of small children playing
+Someone's radio has the news tuned in
+But nobody cares what he's saying
+
+Don't you know, it's a turn-down day
+Nothing on my mind
+It's a turn-down day
+And I dig it
+
+Things that are waiting to mess my mind
+Will just have to wait 'til tomorrow
+
+It's a turn-down day
+Just a turn-'round day
+It's a turn-down day
+And I dig it
+
+It's a turn-down day
+Nothing on my mind
+It's a turn-down day
+Just a turn-'round day
+It's a turn-down day
+
+
 

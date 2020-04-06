@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shake-your-bon-bon-ricky-martin
+lyrics_url: https://www.azlyrics.com/lyrics/williamhung/shakeyourbonbon.html
 name: Shake Your Bon-Bon
 rankings:
 - end_date: '1999-11-26'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
 ---
+
+I'm a desperado
+Underneath your window
+I see your silhouette
+Are you my Juliet
+I feel a mad connection
+With your body
+Shake your bon-bon
+Shake your bon-bon
+Shake your bon-bon
+I wanna be your lover
+Your only latin lover
+We'll go around the world in a day
+Don't say no, no
+Shake it my way, oh
+Shake your bon-bon
+Shake your bon-bon
+Shake your bon-bon
+
+
+Hola Amiga, Hola Amiga
+You're my temple of desire
+WE'll go around the world in a day
+Don't say no, no
+Shake it my way, oh
+Shake your bon-bon
+Shake your bon-bon
+Shake your bon-bon
+
+You're a Mata Hari
+I wanna know your story
+In the Sahara sun
+I wanna be the one
+That's gonna come and take you,
+make you
+Shake your bon-bon
+Shake your bon-bon
+Shake your bon-bon
+Up in the Himalayas
+C'mon I wanna lay ya
+We'll go around the world in a day
+Don't say no, no
+Shake it my way, oh
+Shake your bon-bon
+Shake your bon-bon
+Shake your bon-bon
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-through-a-tear-neil-sedaka
+lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theworldthroughatear.html
 name: The World Through A Tear
 rankings:
 - end_date: '1965-09-03'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
 ---
+
+Grass is green
+Like I've never seen
+Sky above was never so blue
+Now here am I
+No one standing near
+It's a lonely world
+Such a lonely world
+
+The world through a tear
+From days gone by
+The world through a tear
+Too slow to dry
+The world through a tear
+The tear I cry
+
+Just last year
+We wandered here
+And dreamed a dream
+That never would die
+Now only me
+Hopin' she'll appear
+It's a lonely world
+Such a lonely world
+
+The world through a tear
+From days gone by
+The world through a tear
+Too slow to dry
+The world through a tear
+The tear I cry
+
+
 

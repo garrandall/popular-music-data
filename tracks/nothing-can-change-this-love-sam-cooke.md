@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-can-change-this-love-sam-cooke
+lyrics_url: https://www.azlyrics.com/lyrics/supremes/nothingcanchangethislove.html
 name: Nothing Can Change This Love
 rankings:
 - end_date: '1962-10-05'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
+
+If I go a million miles away
+I write a letter each and every day
+'Cause honey, nothin', 
+Nothin' can ever change this love 
+I have for you
+
+Ooh, make me weep, 
+You can make me cry
+See me comin'
+And you can pass me by
+I know that nothin', 
+nothin' can ever change this love 
+I have for you
+
+Oh, you're the apple of my eye
+You're cherrie pie
+Oh you're cake and ice cream
+You're sugar and spice
+And everything nice
+You're the boy of my, my, my dreams
+
+If you wanted to leave me
+And roam
+When you get back
+I'd just say
+Welcome home, 
+I know that nothin', 
+Nothin' can ever change the love 
+I have for you
+
+I know that nothin', 
+Nothin' can ever change the love 
+I have for you
+
+
 

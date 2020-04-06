@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boyfriend-big-time-rush
+lyrics_url: https://www.azlyrics.com/lyrics/bigtimerush/boyfriend.html
 name: Boyfriend
 rankings:
 - end_date: '2011-03-18'
@@ -51,4 +52,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
 ---
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boy...
+
+Have you ever had the feeling you're drawn to someone?
+And it isn't anything they could've said or done?
+And everyday I see you on your own
+And I can't believe that you're alone
+But I overheard your girls and this is what they said
+
+Looking for a
+Looking for a
+That you're looking for a boyfriend
+I see that
+Give me time, you know I'm gonna be that
+Don't be scared to come put your trust in me
+Can't you see all I really wanna be
+Is your boyfriend
+Can't fight that
+Let me down you know I'm coming right back
+I don't care at all what you've done before
+All I really want is to be your
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+
+Let me take a little moment to find the right words
+(To find the right words)
+So when I kick it to you it ain't something that you've heard
+(Something that you've heard)
+I don't know what kind of guy that you prefer
+But I know I gotta put myself for worse
+See I think you got the kind of love that you deserve
+And I heard that
+
+You're looking for a boyfriend
+I see that
+Give me time, you know I'm gonna be that
+Don't be scared to come put your trust in me
+Can't you see all I really wanna be
+Is your boyfriend
+Can't fight that
+Let me down you know I'm coming right back
+I don't care at all what you've done before
+All I really want is to be your
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+
+If you tell me where, I'm waiting here
+Everyday like slum-dog millionaire
+Bigger than the twilight love affair
+I'll be here girl I swear
+
+Looking for a
+Looking for a
+That you're looking for a boyfriend
+I see that
+Give me time, you know I'm gonna be that
+Don't be scared to come put your trust in me
+Can't you see all I really wanna be
+Is your boyfriend
+Can't fight that
+Let me down you know I'm coming right back
+I don't care at all what you've done before
+All I really want is to be your
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+(Your boyfriend)
+Your boy boy b-b-boy-b-b-boyfriend
+(Your boyfriend)
+Your boy boy b-b-boy-b-b-boyfriend
+(All I really want is to be your)
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+(All I really want is to be your)
+Your boy boy b-b-boy-b-b-boyfriend
+
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+Your boy boy b-b-boy-b-b-boyfriend
+
+All I really want is to be your...
+
+
 

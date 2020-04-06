@@ -5,6 +5,7 @@ features:
 - Justin Bieber
 genres: []
 key: let-me-love-you-dj-snake-justin-bieber
+lyrics_url: https://www.azlyrics.com/lyrics/cimorelli/coldwaterletmeloveyoumashup.html
 name: Let Me Love You
 rankings:
 - end_date: '2016-09-02'
@@ -140,4 +141,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
 ---
+
+
+Everybody gets lost sometimes, you know?
+That's how we learn and how we grow
+So take a deep breath and let it go
+You shouldn't be drowning on your own
+
+
+You go through the darkest of days
+Heavens a heartbreak away
+Never let you go, never let me down
+Oh, it's been a heck of a ride driving the edge of a knife
+Never let you go, never let me down
+
+
+I won't let go
+I'll be your lifeline tonight
+I won't let go
+I'll be your lifeline tonight
+
+
+I used to believe
+That we were burnin' on the edge of somethin' beautiful
+Somethin' beautiful
+Selling a dream
+Smoke and mirrors keep us waitin' on a miracle
+On a miracle
+
+
+And if you feel you're sinking, I will jump right over
+Into cold, cold water for you
+And although time may take us to different places
+I will still be patient with you
+And I hope you know, I won't let go
+
+
+Don't you give up, nah-nah-nah
+I won't give up, nah-nah-nah
+Let me love you
+Let me love you
+Don't you give up, nah-nah-nah
+I won't give up, nah-nah-nah
+Let me love you
+Let me love you
+
+
+So, come on, come on
+Save me from a rocking boat
+I just wanna stay afloat
+I'm all alone
+And I hope, I hope someoneâs gonna take me home
+Somewhere I can rest my soul
+I need to know, you won't let go
+
+
+Don't you give up, nah nah nah
+I won't give up, nah nah nah
+
+
+I'll be your lifeline tonight
+I won't let go, I'll be your lifeline tonight
+
+
+I won't let go
+
+
+So don't give up, nah nah nah
+
+
+I won't let go
+
+
+So don't you give up, nah nah nah
+
+
+I won't let go
+
+
 

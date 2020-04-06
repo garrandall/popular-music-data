@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: enchanted-the-platters
+lyrics_url: https://www.azlyrics.com/lyrics/platters/enchanted.html
 name: Enchanted
 rankings:
 - end_date: '1959-03-29'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
 ---
+
+Living is a dream when you make it seem enchanted
+Lovers take for granted all the world's aglow, they ought to know
+When you touch a star then you really are enchanted
+Find a seed and plant it, love will make it grow
+
+It's really grand when you stand hand in hand with your lover
+And thrill to the wonders of night
+And days, too, will amaze you and soon you'll discover
+Your dreams run to dreams in continuous flight
+
+Love is ecstasy, it's divine to be enchanted
+When your dreams are slanted through a lover's eyes
+
+It's really grand when you stand hand in hand with your lover
+And thrill to the wonders of night
+And days, too, will amaze you and soon you'll discover
+Your dreams run to dreams in continuous flight
+
+Love is ecstasy, it's divine to be enchanted
+When your dreams are slanted through a lover's eyes
+
+
 

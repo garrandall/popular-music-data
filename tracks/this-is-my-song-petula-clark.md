@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-my-song-petula-clark
+lyrics_url: https://www.azlyrics.com/lyrics/seekers/thisismysong.html
 name: This Is My Song
 rankings:
 - end_date: '1967-03-10'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
 ---
+
+Love, this is my song
+Here is a song, a serenade to you
+The world cannot be wrong
+If in this world there's you
+I care not what the world may say
+Without your love there is no day
+So love, this is my song
+Here is a song, a serenade to you
+
+Why is my heart so light
+Why are the stars so bright
+Why is the sky so blue
+Since the hour I met you
+
+Flowers are smiling bright
+Smiling for our delight
+Smiling eternally
+For the world, you and me
+
+A love when I sing in moonlight
+With you in my heart supreme
+To hear you say "I love you"
+That is my hope, my dream
+
+So love, this is my song
+Here is a song, a serenade to you
+The world cannot be wrong
+If in this world there's you
+I care not what the world may say
+Without your love there is no day
+So love, this is my song
+Here is a song, a serenade to you
+
+
 

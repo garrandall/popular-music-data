@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-of-life-dire-straits
+lyrics_url: https://www.azlyrics.com/lyrics/direstraits/walkoflife.html
 name: Walk Of Life
 rankings:
 - end_date: '1985-11-08'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
 ---
+
+Here comes Johnny singing oldies, goldies
+Be-Bop-A-Lula, Baby What I Say
+Here comes Johnny singing I Gotta Woman
+Down in the tunnels, trying to make it pay
+
+He got the action, he got the motion
+Yeah, the boy can play
+Dedication, devotion
+Turning all the night time into the day
+
+He do the song about the sweet lovin' woman
+He do the song about the knife
+He do the walk, he do the walk of life
+Yeah, he do the walk of life
+
+Here comes Johnny and he'll tell you the story
+Hand me down my walkin' shoes
+Here comes Johnny with the power and the glory
+Backbeat the talkin' blues
+
+He got the action, he got the motion
+Yeah, the boy can play
+Dedication, devotion
+Turning all the night time into the day
+
+He do the song about the sweet lovin' woman
+He do the song about the knife
+He do the walk, he do the walk of life
+Yeah, he do the walk of life
+
+Here comes Johnny singing oldies, goldies
+Be-Bop-A-Lula, Baby What I Say
+Here comes Johnny singing I Gotta Woman
+Down in the tunnels, trying to make it pay
+
+He got the action, he got the motion
+Yeah, the boy can play
+Dedication, devotion
+Turning all the night time into the day
+
+And after all the violence and double talk
+There's just a song in all the trouble and the strife
+You do the walk, yeah, you do the walk of life
+Mmm, you do the walk of life
+
+
 

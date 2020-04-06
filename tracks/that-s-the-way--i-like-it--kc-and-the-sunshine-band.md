@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-the-way--i-like-it--kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/deadoralive/thatsthewayilikeit.html
 name: That's The Way (I Like It)
 rankings:
 - end_date: '1975-10-31'
@@ -71,4 +72,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
 ---
+
+Oh, that's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+
+When you take me by the hand
+Tell me I'm your lovin' man
+When you give me all your love
+And do it, babe, the very best you can
+
+Oh, that's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+
+When I get to be in your arms
+When we're all, all alone
+When you whisper sweet in my ear
+When you turn, turn me on
+
+Oh, that's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+
+Babe
+Babe
+(That's the way, uh-huh)
+(That's the way, uh-huh)
+Babe
+Babe
+(That's the way, uh-huh)
+(That's the way, uh-huh)
+
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+
+Do do do do do do do do do
+Do do do do do do do do do
+Do do do do do do do do do
+Do do do do do do do do do
+
+Oh, that's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+That's the way, uh-huh, uh-huh
+I like it, uh-huh, uh-huh
+
+
 

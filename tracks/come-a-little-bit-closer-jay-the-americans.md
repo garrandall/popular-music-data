@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: come-a-little-bit-closer-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/comealittlebitcloser.html
 name: Come A Little Bit Closer
 rankings:
 - end_date: '1964-09-18'
@@ -68,4 +69,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
 ---
+
+In a little cafÃ© just the other side of the border
+She was just sitting there giving me looks that made my mouth water
+So I started walking her way
+She belonged to bad man JosÃ©
+And I knew, yes I knew I should leave
+When I heard her say
+
+Come a little bit closer, you're my kind of man
+So big and so strong
+Come a little bit closer, I'm all alone
+And the night is so long
+
+So we started to dance, in my arms she felt so inviting
+That I just couldn't resist just one little kiss so exciting
+Then I heard the guitar player say
+Vamoose, JosÃ©'s on his way
+And I knew, yes I knew I should run
+But then I heard her say
+
+Come a little bit closer, you're my kind of man
+So big and so strong
+Come a little bit closer, I'm all alone
+And the night is so long
+
+Then the music stopped, when I looked the cafÃ© was empty
+Then I heard JosÃ© say, "Man, you know you're in trouble plenty"
+So I dropped my drink from my hand
+And through the window I ran
+And as I rode away I could hear
+Her say to JosÃ©
+
+Come a little bit closer, you're my kind of man
+So big and so strong
+Come a little bit closer, I'm all alone
+And the night is so long
+
+
 

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-maria-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/mymaria757528.html
 name: My Maria
 rankings:
 - end_date: '1996-05-03'
@@ -56,4 +57,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
 ---
+
+My Maria don't you know I've come a long, long way
+Yeah, I been longin' to see her
+When she's around she takes my blues away
+
+Sweet Maria the sunlight surely hurts my eyes
+Oh, I'm a lonely dreamer on a highway in the skies
+My Maria, (Oh Maria I love you girl, oh my Maria)
+Maria, (Oh Maria I love you girl, Maria) I love you
+Yes I do now
+
+Oh, my Maria there were some blue and sorrow times
+Now just my thoughts about you bring back my piece of mind
+Gypsy lady, you're a miracle work for me
+You set my soul free like a ship sailing on the sea
+She is the sunlight when the skies are gray
+She treats me so right, lady, take me away
+
+My Maria (Oh Maria I love you girl, oh my Maria)
+Maria (Oh Maria I love you girl, Maria) I love you
+My Maria (My Maria)
+Maria (My Maria) I love you
+
+My Maria (Oh Maria I love you girl, oh my Maria)
+Maria (Oh Maria I love you girl, Maria) I love you
+My Maria (Oh Maria I love you girl, oh my Maria)
+Maria (Oh Maria I love you girl, Maria) I love you
+My Maria (Oh Maria I love you girl, oh my Maria)
+Maria (Oh Maria I love you girl, Maria) I love you
+Yes, I do now
+
+
 

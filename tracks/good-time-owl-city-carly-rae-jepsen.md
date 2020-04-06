@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: good-time-owl-city-carly-rae-jepsen
+lyrics_url: https://www.azlyrics.com/lyrics/carlyraejepsen/goodtime.html
 name: Good Time
 rankings:
 - end_date: '2012-07-20'
@@ -104,4 +105,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
 ---
+
+Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh
+It's always a good time
+
+Woke up on the right side of the bed
+What's up with this Prince song inside my head?
+Hands up if you're down to get down tonight
+'Cause it's always a good time
+
+Slept in all my clothes like I didn't care
+Hopped into a cab, take me anywhere
+I'm in if you're down to get down tonight
+'Cause it's always a good time
+
+Good morning and good night
+I'll wake up at twilight
+It's gonna be alright
+We don't even have to try
+It's always a good time
+
+Woah-oh-oh-oh Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+We don't even have to try, it's always a good time.
+
+Freaked out, dropped my phone in the pool again
+Checked out of my room, hit the ATM
+Let's hang out if you're down to get down tonight
+'Cause it's always a good time
+
+Good morning and good night
+I'll wake up at twilight
+It's gonna be alright
+We don't even have to try
+It's always a good time.
+
+Woah-oh-oh-oh Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+We don't even have to try, it's always a good time.
+
+Woah-oh-oh-oh Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+We don't even have to try, it's always a good time.
+
+Doesn't matter when
+It's always a good time then
+Doesn't matter where
+It's always a good time there
+
+Doesn't matter when,
+It's always a good time then
+
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+We don't even have to try, it's always a good time
+
+Woah-oh-oh-oh Woah-oh-oh-oh
+It's always a good time
+Woah-oh-oh-oh Woah-oh-oh-oh
+We don't even have to try, it's always a good time.
+
+
 

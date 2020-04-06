@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-down-your-street-the-bangles
+lyrics_url: https://www.azlyrics.com/lyrics/bangles/walkingdownyourstreet.html
 name: Walking Down Your Street
 rankings:
 - end_date: '1987-02-20'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
 ---
+
+Da da da da
+Ooh, I've had sleepless nights
+Toss and turn
+Wake up burning for you to inspire
+
+So I'm gonna walk right down your street
+With a love that I can't hide
+I've got one thing on my mind, yeah
+I'll even sacrifice my pride
+'Cause I want you
+
+Oh, oh, how I wish you would be mine
+My pulse is weak
+I'm blushing brighter than a valentine
+
+So I'm gonna walk right down your street
+With a love that I can't hide
+I've got one thing on my mind, yeah
+I'll even sacrifice my pride
+
+'Cause I can't stop the way I feel
+So I keep walking, ohh
+'Cause I want you
+
+Walking down, down your street
+I'm walking down your street
+Walking down your street
+Down your street, ohhh
+
+I can't stop the way I feel
+So I keep walking, ohh
+
+Walking down your street
+With a love that I can't hide
+I've got one thing on my mind, yeah
+I'll even sacrifice my pride
+
+Walking down your street
+With a love that I can't hide
+I've got one thing on my mind, yeah
+I'll even sacrifice my pride
+
+Walking down your street
+With a love that I can't hide
+I've got one thing on my mind, yeah
+I'll even sacrifice my pride
+
+
 

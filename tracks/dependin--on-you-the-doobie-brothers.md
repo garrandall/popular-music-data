@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dependin--on-you-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/dependinonyou.html
 name: Dependin' On You
 rankings:
 - end_date: '1979-08-17'
@@ -55,4 +56,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+
+When I was so low
+You were there to lift me up
+Well, there's one thing that I know for sure
+You're gonna win life's lovin' cup
+Darlin', you're always there at my rescue
+Dependin' on you
+Darlin', you're always there by my side
+You're always there by my side
+Darlin', you're always there at my rescue
+
+Dependin' on you
+
+And when I get too high
+You are there to cool me down
+So fine, someone to turn to
+Keepin' my feet on the ground
+
+Dependin' on you
+
+Darlin', you're always there at my rescue
+Dependin' on you
+Darlin', you're always there by my side
+You're always there by my side
+Darlin', you're always there at my rescue
+
+I just keep dependin' on you
+Someone to turn to
+Keepin' my feet on the ground
+So fine...
+
+Darlin', you're always there at my rescue
+Dependin' on you
+Darlin', you're always there by my side
+You're always there by my side...
+
+
 

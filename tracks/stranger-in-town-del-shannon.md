@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stranger-in-town-del-shannon
+lyrics_url: https://www.azlyrics.com/lyrics/delshannon/strangerintown.html
 name: Stranger In Town
 rankings:
 - end_date: '1965-03-05'
@@ -31,4 +32,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+
+Me and my baby been on the run
+So very long
+Her folks sent a man to get us
+They say we've done wrong
+
+So we run, yeah we run, yeah we run
+From the stranger in town
+
+Stranger in town, he's out to get me
+Stranger in town wants me and my baby
+
+He follows me to every town
+And if he gets me he'll bring me down
+
+So we run, yeah we run, yeah we run
+From the stranger in town
+
+I'm not afraid of what they'll do to me
+I'm just afraid they'll hurt my baby
+We don't care if we run forever
+Just as long as we're together
+
+Stranger in town, I think we've lost him
+Stranger in town, can't let him bring us in
+
+Another town, one more mile
+And we'll be free for a while
+
+And we'll run, yeah we'll run, yeah we'll run
+From the stranger in town
+
+Stranger in town, stranger in town
+Stranger in town, stranger in town
+
+
 

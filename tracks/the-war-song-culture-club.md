@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-war-song-culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/thewarsong.html
 name: The War Song
 rankings:
 - end_date: '1984-10-12'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
 ---
+
+War war is stupid
+and people are stupid
+And love means nothin
+in some strange quarters
+War war is stupid
+and people are stupid
+And I heard them banging
+on hearts and fingers
+People fill the world
+with narrow confidence
+Like a child at birth
+a man with no defence
+What's mine's my own
+I won't give it to you
+No matter what you say
+No matter what you do
+Now we're fighting
+in our hearts
+Fighting in the streets
+Won't somebody help me
+Man is far behind
+in the search for something new
+Like a Philistine
+we're burning witches too
+This world of fate
+must be designed for you
+It matters what you say
+it matters what you do
+Now we're fighting
+in our hearts
+Fighting in the streets
+Won't somebody help me
+After the bird has flown
+He walked ten thousand
+miles back home
+You can't do that to me, no
+you can't do that to me
+You can't do that to me, no, you can't do that to me
+
+
 

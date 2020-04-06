@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotional-carl-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/carlthomas/emotionalremix.html
 name: Emotional
 rankings:
 - end_date: '2000-12-01'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
 ---
+
+
+Uh, oh, oh yeah
+Oh, oh, oh, oh, oh yeah
+(Emotional)
+
+I always dreamed that everything would be okay
+With me and you, but I was wrong
+When I looked into your eyes
+I didn't see all the things I used to see
+What's going on?
+
+
+You gave me reason to believe that
+We were always meant to be
+But now I see, you were wrong
+You can't keep running back to me
+With all those "Baby, baby please"-s
+No more, no more
+
+
+Never imagined
+You would be a faded picture
+I'm emotional
+You saw me leaving
+No deceiving, it's official
+I'm emotional
+
+
+I can't forget that night I saw you in the corner
+Wrapped up tight, you were wrong ooh
+Slow dancing on the floor
+While I was watching from the door
+So hurt, there you were
+
+
+
+
+
+You had your chance
+But you through it all away
+Thought you had my love always
+Oh baby, I don't understand
+Why you think that we could stay in total unhappiness
+
+
+
+
 

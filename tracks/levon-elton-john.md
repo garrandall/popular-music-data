@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: levon-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/levon.html
 name: Levon
 rankings:
 - end_date: '1971-12-24'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
 ---
+
+Levon wears his war wound like a crown
+He calls his child Jesus
+'Cause he likes the name
+And he sends him to the finest school in town
+
+Levon, Levon likes his money
+He makes a lot they say
+Spend his days counting
+In a garage by the motorway
+
+He was born a pauper to a pawn on a Christmas day
+When the New York Times said God is dead 
+And the war's begun
+Alvin Tostig has a son today
+
+And he shall be Levon
+And he shall be a good man
+And he shall be Levon
+In tradition with the family plan
+And he shall be Levon
+And he shall be a good man
+He shall be Levon
+
+Levon sells cartoon balloons in town
+His family business thrives
+Jesus blows up balloons all day
+Sits on the porch swing watching them fly
+
+And Jesus, he wants to go to Venus
+Leaving Levon far behind
+Take a balloon and go sailing
+While Levon, Levon slowly dies
+
+
 

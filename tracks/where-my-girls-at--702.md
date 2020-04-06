@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-my-girls-at--702
+lyrics_url: https://www.azlyrics.com/lyrics/702/wheremygirlsat.html
 name: Where My Girls At?
 rankings:
 - end_date: '1999-05-07'
@@ -175,4 +176,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
 ---
+
+
+See, he's my property,
+And any girl that touches,
+I might just call your bluff,
+'Cuz I don't give a...
+Who are you to call my cell,
+Oh I'm gonna wish you well,
+'Cuz any girl that tried has failed,
+But...
+
+
+Where my girls at,
+From the front to back,
+Well is you feelin' that,
+Put one hand up,
+Can you repeat that,
+Tryin' to take my man,
+See I don't need that,
+So don't play yourself.
+Where my girls at,
+From the front to back,
+Well is you feelin' that,
+Put one hand up,
+Can you repeat that,
+Tryin' to take my man,
+See I don't need that,
+So don't play yourself.
+
+
+Hey hey hey hey,
+Don't you violate me,
+'Cuz I can make you hate me,
+If you decide to mess with mine.
+Chop you down to size,
+Make you realise,
+That you done messed up this time.
+
+
+
+
+You must learn the rules,
+Don't come close to,
+Anything that belongs to me.
+He is mine,
+My property,
+So you must leave.
+
+
+
+
 

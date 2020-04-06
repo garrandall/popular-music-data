@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: wake-up-little-susie-simon-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/wakeuplittlesusie.html
 name: Wake Up Little Susie
 rankings:
 - end_date: '1982-04-09'
@@ -52,4 +53,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
 ---
+
+Wake up little Susie, wake up, wake up little Susie, wake up
+We both fell sound asleep, wake up little Susie and weep
+The movie's over, it's four o'clock and we're in trouble deep
+
+
+Wake up little Susie, wake up little Susie
+Well, what're we gonna tell your mama, what're we gonna tell your papa
+What're gonna tell our friends when they say 'ooh la la'
+Wake up little Susie, wake up little Susie
+
+Well, I told your mama that you'd be in by ten
+Well, Susie baby, looks like we goofed again
+
+Wake up little Susie, wake up little Susie, we gotta go home
+
+Wake up little Susie, wake up, wake up little Susie, wake up
+The movie wasn't so hot, it didn't have much of a plot
+We fell asleep, our goose is cooked, our reputation is shot
+
+
+
+Wake up little Susie
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: by-the-time-i-get-to-phoenix-isaac-hayes
+lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/bythetimeigettophoenix.html
 name: By The Time I Get To Phoenix
 rankings:
 - end_date: '1969-09-05'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
 ---
+
+By the time I get to Phoenix she'll be rising
+She'll find the note I left hangin' on her door
+She'll laugh when she reads the part that says I'm leavin'
+'Cause I've left that girl so many times before
+
+By the time I make Albuquerque she'll be working
+She'll prob'ly stop at lunch and give me a call
+But she'll just hear that phone keep on ringin'
+Off the wall that's all
+
+By the time I make Oklahoma she'll be sleepin'
+She'll turn softly and call my name out loud
+And she'll cry just to think I'd really leave her
+Tho' time and time I try to tell her so
+She just didn't know I would really go
+
+
 

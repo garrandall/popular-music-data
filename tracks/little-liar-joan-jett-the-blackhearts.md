@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: little-liar-joan-jett-the-blackhearts
+lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/littleliar.html
 name: Little Liar
 rankings:
 - end_date: '1988-11-04'
@@ -88,4 +89,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
 ---
+
+I was taught to never tell a lie
+To look you in the eye and tell it like it is
+Always thought that you would be the same
+It's such a shame that's not the way it is
+
+I was fooled by your innocence
+And my love for you was so intense
+With our connection only physical
+If it got me through the night
+Well that's a lie
+
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you oh
+
+A simple question makes you look away
+Your hesitation gives it all away
+There's some protection in the way you move
+If there's sadness in my eyes
+It's coming from your lies
+
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+I believed in you
+
+You want to sleep with me but payback's tough
+Why don't you call me when you're all grown up
+If there's a change in you I'll know it's true
+Hey little liar I believed in you
+
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar I believed in you
+Hey little liar
+Hey little liar
+Hey little liar
+
+
 

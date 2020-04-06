@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-deeper-the-love-whitesnake
+lyrics_url: https://www.azlyrics.com/lyrics/whitesnake/thedeeperthelove.html
 name: The Deeper The Love
 rankings:
 - end_date: '1990-01-26'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+
+When I look back
+On everything I've done
+I know you must have cried
+A river of tears,
+But, you were there
+When I was feeling low
+To walk me through my darkest fears
+
+So when the sun goes down
+An' those nights grow colder,
+I will be there
+Looking over your shoulder
+
+An' the deeper the love
+The stronger the emotion,
+An' the stronger the love
+The deeper the devotion
+
+There were times
+I almost let you go
+When I thought I needed to break free,
+But you were there
+To whisper in my ear
+Why don't you share my dreams with me.
+
+So when the sun goes down
+An those nights are growing colder
+I will be there
+Looking over your shoulder.
+
+An' the deeper the love
+The stronger the emotion,
+An' the stronger the love
+The deeper the devotion
+
+I don't mind, what you're doing to me,
+I don't mind, 'cause you're all I can see
+I don't mind, baby, you mean the world to me
+
+When the sun goes down
+An' those nights are growing colder,
+I will be there
+Looking over your shoulder, baby, baby, baby.
+
+So When the sun goes down
+An' those nights are growing colder,
+I will be there
+Looking over your shoulder.
+
+'Cause the deeper the love
+The stronger the emotion,
+An' the stronger the love
+The deeper the devotion...
+
+I never gonna let you go,
+In my heart, I know.
+I love you, I love you.
+Oh baby, I really love you...
+
+
 

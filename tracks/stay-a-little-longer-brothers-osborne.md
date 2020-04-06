@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-a-little-longer-brothers-osborne
+lyrics_url: https://www.azlyrics.com/lyrics/brothersosborne/stayalittlelonger.html
 name: Stay A Little Longer
 rankings:
 - end_date: '2015-10-30'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
 ---
+
+Something like a strong wind is coming over me
+It's got a hold of me, yeah
+Thinking and doing things I shouldn't be
+I really shouldn't be
+
+Give it one more call
+It's one more "whatcha doin right now?"
+It's one more trip to my side of town and you walk right in
+One more here we go again
+
+One more drink leads to another
+You slide up close to me
+Tear the t-shirts off each other
+Your hands all over me
+I tell myself I'm not in love
+But one more time is not enough
+One last kiss and then you're a goner
+And I'm here wishing you could stay a little longer
+
+So calm and so cool, yeah I try to be
+Like it don't bother me
+The last time was the last time
+Until I'm all alone and I'm picking up the phone
+
+It's one more call
+It's one more "whatcha doin right now?"
+It's one more trip to my side of town and you walk right in
+It's one more here we go again
+
+One more drink leads to another
+You slide up close to me
+Tear the t-shirts off each other
+Your hands all over me
+I tell myself I'm not in love
+But one more time is not enough
+One last kiss and then you're a goner
+And I'm here wishing you could stay a little longer
+
+One more drink leads to another
+You slide up close to me
+Tear the t-shirts off each other
+Your hands all over me
+I tell myself I'm not in love
+But one more time is not enough
+One last kiss and then you're a goner
+And I'm here wishing you could stay a little longer
+
+Stay a little longer
+
+Wishing you could stay a little longer...
+
+
 

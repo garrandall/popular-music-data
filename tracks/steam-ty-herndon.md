@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steam-ty-herndon
+lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/steam.html
 name: Steam
 rankings:
 - end_date: '1999-10-22'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-01'
 ---
+
+Steam from a summer rain drop
+rising off the blacktop
+I wipe the sweat from my brow
+Steam from my radiator
+I'm late and getting later
+should be at your place by now
+Bank sign says a hundred and two
+but that ain't nothin' when I'm next to you
+
+There's fire in your fingertips 
+flames in your touch
+desire in your burnin' lips
+I can't get enough
+Today was a scorcher
+but I'll go you one better
+tonite when we get together
+we're going to make steam
+
+I dream of you there on my front steps
+sunnin in that short dress
+hotter than the the Texas heat
+Seems I'm never gonna get there
+traffic's going no where 
+but when I feel you next to me
+girl the things that you know to do
+just makes my heat index go through the roof
+
+There's fire in your fingertips 
+flames in your touch
+desire in your burnin' lips
+I can't get enough
+Today was a scorcher
+but I'll go you one better
+tonite when we get together
+we're going to make steam
+
+Girl the things that you know to do
+just make my heat index go through the roof
+
+
 

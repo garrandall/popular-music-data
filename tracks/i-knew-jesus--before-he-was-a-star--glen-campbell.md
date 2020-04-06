@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-knew-jesus--before-he-was-a-star--glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iknewjesusbeforehewasastar.html
 name: I Knew Jesus (Before He Was A Star)
 rankings:
 - end_date: '1973-03-23'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
 ---
+
+Well funny it seems as how everyone knows him now
+Suddenly they have found someone who's been around
+Back to the fold they come seeking his wisdom from a far
+I knew Jesus before he was a superstar
+Well you know I'm a believer in all that he's ever been
+Stories I've read of him things that were said of him
+Songs that they glorify I used to play on my guitar yes I did
+I knew Jesus before he was a superstar
+I've known his goodness and mercy for all my days
+I've seen his blessings around me in every way
+In times of trouble when I had no hope in view
+Who brought the sunlight the one light that I knew
+Oh yes I knew he was always there answering every prayer
+Fame will not change him much he won't be out of touch
+Great as he is today big people stay the way they are yes they do
+I knew Jesus before he was a superstar
+I've known his goodness...
+I knew Jesus before he was a superstar
+I knew Jesus before he was a superstar
+
+
 

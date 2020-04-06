@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rumor-lee-brice
+lyrics_url: https://www.azlyrics.com/lyrics/leebrice/rumor.html
 name: Rumor
 rankings:
 - end_date: '2019-03-29'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
 ---
+
+Girl you know I've known you forever
+How many nights have we hung out together
+Same little crowd, little bar, little town
+Round this old dance floor
+My boys are laughing and tap me on the shoulder
+Making a motion like "'Could y'all get any closer?"
+They wanna know what's up when I'm still holding ya
+Even when the song is over
+
+There's a rumor going round about me and you
+Stirring up our little town the last week or two
+So tell me why we even trying to deny this feeling
+I feel it, don't you feel it too?
+There's a rumor going round, and round, and round
+What you say we make it true?
+We make it true
+
+Well I can shut 'em down, tell them all they're crazy
+I can do whatever you want me to do, baby
+Or you could lay one on me right now
+We could really give them something to talk about
+
+There's a rumor going round about me and you
+Stirring up our little town the last week or two
+So tell me why we even trying to deny this feeling
+I feel it, don't you feel it too?
+There's a rumor going round, and round, and round
+What you say we make it true, baby?
+
+Oh be honest girl now
+Do you want to do this or not?
+Should we keep 'em talking, girl
+Or should we just make them stop?
+
+There's a rumor going round about me and you
+Stirring up our little town the last week or two
+Tell me why we even trying to deny this feeling
+I feel it, and you feel it too
+There's a rumor going round, and round, and round
+What you say we make it...
+Make it true?
+What you say we make it true? Yeah
+
+
 

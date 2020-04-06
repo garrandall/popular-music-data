@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: made-in-england-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/madeinengland.html
 name: Made In England
 rankings:
 - end_date: '1995-07-21'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
 ---
+
+I was made in England out of Cadillac muscle
+I had a quit-me father, had a love-me mother
+I had Little Richard and that black piano
+Oh that sweet Georgia Peach and the boy from Tupelo
+
+Oh, I was made in England
+Oh, I was made in England
+
+I was made in England out of Cadillac muscle
+Face down on a playground crying God send me a brother
+Not a bloody nose for Rock and Roll
+Give me that sweet Georgia Peach and the boy from Tupelo
+
+I was made in England like a blue Cortina
+But a Yankee summer had a way about her
+You had a scent for scandal, well here's my middle finger
+I had forty years of pain and nothing to cling to
+
+If you're made in England, you're built to last
+You can still say 'homo' and everybody laughs
+But the joke's on you, you never read the song
+They all think they know but they all got it wrong
+
+
 

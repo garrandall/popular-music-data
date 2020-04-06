@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful-everclear
+lyrics_url: https://www.azlyrics.com/lyrics/everclear/wonderful.html
 name: Wonderful
 rankings:
 - end_date: '2000-07-14'
@@ -91,4 +92,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
 ---
+
+"Hey, ain't life wonderful? Wonderful, wonderful, wonderful... Isn't it wonderful now?"
+
+I close my eyes when I get too sad
+I think thoughts that I know are bad
+Close my eyes and I count to ten
+Hope it's over when I open them
+
+I want the things that I had before
+Like a Star Wars poster on my bedroom door
+I wish I could count to ten
+Make everything be wonderful again
+
+Hope my mom and I hope my dad
+Will figure out why they get so mad
+Hear them scream, I hear them fight
+They say bad words that make me wanna cry
+
+Close my eyes when I go to bed
+And I dream of angels who make me smile
+I feel better when I hear them say
+Everything will be wonderful someday
+
+Promises mean everything when you're little
+And the world's so big
+I just don't understand how
+You can smile with all those tears in your eyes
+Tell me everything is wonderful now
+
+Please don't tell me everything is wonderful now
+
+I go to school and I run and play
+I tell the kids that it's all okay
+I laugh aloud so my friends won't know
+When the bell rings I just don't wanna go home
+
+Go to my room and I close my eyes
+I make believe that I have a new life
+I don't believe you when you say
+Everything will be wonderful someday
+
+Promises mean everything when you're little
+And the world is so big
+I just don't understand how
+You can smile with all those tears in your eyes
+When you tell me everything is wonderful now
+
+No
+No, I don't wanna hear you tell me everything is wonderful now
+No
+No, I don't wanna hear you tell me everything is wonderful now
+
+I don't wanna hear you say
+That I will understand someday
+No, no, no, no
+I don't wanna hear you say
+You both have grown in a different way
+No, no, no, no
+I don't wanna meet your friends
+And I don't wanna start over again
+I just want my life to be the same
+Just like it used to be
+Some days I hate everything
+I hate everything
+Everyone and everything
+Please don't tell me everything is wonderful now...
+
+I don't wanna hear you tell me everything is wonderful now
+
+
 

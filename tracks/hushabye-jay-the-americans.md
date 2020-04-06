@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hushabye-jay-the-americans
+lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/hushabye.html
 name: Hushabye
 rankings:
 - end_date: '1969-06-06'
@@ -36,4 +37,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
 ---
+
+Hush hush
+Hushabye
+Hushabye
+Hushabye
+Oh my darlin' don't you cry
+Guardian angels up above
+Take care of the one I love
+
+Hush hush
+Hushabye
+
+Hush hush
+Hushabye
+
+Lullaby and goodnight
+In your dreams I hold you tight
+Lullaby and goodnight
+Till the dawns early light
+
+Pillows lying on your bed
+Oh my darling rest your head
+Sandman will be coming soon
+Singing you a slumber tune
+Hush
+Hush
+Hushabye
+Hush
+Hush
+Hushabye
+
+
 

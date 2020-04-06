@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everytime-you-go-away-paul-young
+lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/everytimeyougoaway.html
 name: Everytime You Go Away
 rankings:
 - end_date: '1985-05-17'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+
+
+
+Baby, if we cant solve any problems
+Why do we lose so many tears? 
+Oh, so you go again
+When the leading man appears
+Always the same theme
+But cant you see weve got everything going on and on and on
+
+Everytime you go away
+You take a piece of me with you
+Everytime you go away
+You take a piece of me with you
+
+( Everytime You Go..)
+
+Go on and go free
+Maybe youre too close to me
+I can feel your body move
+But does it mean that much to me
+I cant go on singing the same theme
+Cant see we've got everything
+Baby, even though you know
+
+Everytime you go away
+You take a piece of me with you
+Everytime you go away 
+You take a piece of me with you
+Ohhhhhhh oooohhhh,
+Everytime you go away
+
+I cant go on singing the same theme
+Baby, can't you see eve got everything going on
+
+Everytime you go away
+You take a piece of me with you 
+Everytime you go away
+You take a piece of me with you
+Ohhh,
+Everytime you go away
+Yeah,
+You take a piece of me with you
+Oooooh,
+Everytime you go away
+Yeah,
+You take a piece of me with you
+Ohhhhhhh oooohhhh,
+
+( Everytime You Go..)
+Everytime You Go
+
+
 

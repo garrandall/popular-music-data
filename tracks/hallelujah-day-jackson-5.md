@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hallelujah-day-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/hallelujahday.html
 name: Hallelujah Day
 rankings:
 - end_date: '1973-03-23'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
 ---
+
+Hallelujah day
+Sing hallelujah
+Love is on its way
+It's coming to ya
+
+Children gather 'round now
+Clap your hands and sing
+That old sun is shining down
+Soon the bells are gonna ring
+Yes they will now
+Can't you see that ray of hope
+Somebody finally saw the light
+They're gonna send our brothers home
+It's gonna be alright, yeah
+
+Hallelujah day
+Sing hallelujah
+Love is on its way
+It's coming to ya
+Hallelujah day
+Sing hallelujah
+Love is on its way
+It's coming to ya
+
+People come together
+Let the good times roll
+We can make this last forever
+If you feel it in your soul
+Somebody found that key
+Somebody opened up the door
+Now there'll be dancing in the street
+This is the day we've been waiting for, yeah
+
+Hallelujah day
+Sing it, yeah
+Sing hallelujah
+Hallelujah day
+Sing hallelujah
+
+Oh yeah
+Everybody get together
+Put your hands like this
+And sing along with the Jackson Five, yeah
+Singing hallelujah
+Singing, singing, singing, yeah
+Hallelujah, yeah
+
+
+
+
 

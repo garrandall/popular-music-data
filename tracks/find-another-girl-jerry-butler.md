@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: find-another-girl-jerry-butler
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/hedontloveyou.html
 name: Find Another Girl
 rankings:
 - end_date: '1961-03-12'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
 ---
+
+He don't love you like I love you
+If he did, he wouldn't break your heart
+He don't love you like I love you
+He's trying to tear us apart
+
+Fare thee well, I know you're leaving
+(I know you're leaving)
+For the new love that you've found
+The handsome guy that you've been dating, whoa
+I got a feeling he's gonna put you down 'cause
+
+He don't love you like I love you
+If he did, he wouldn't break your heart
+He don't love you like I love you
+He's trying to tear us apart
+
+He uses all the great quotations
+Says the things I wish I could say
+Whoa, but he's had so many rehearsals, girl
+To him it's just another play, but wait
+
+When the final act is over
+And you're left standing all alone
+When he takes his bow and makes his exit
+Girl, I'll be there to take you home
+
+He don't love you (and he never will) like I love you
+If he did, he wouldn't break your heart
+Oh, he don't love you, girl, like I love you
+He's trying to tear us apart
+
+Whoa, he don't love you
+
+
 

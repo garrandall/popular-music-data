@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vienna-calling-falco
+lyrics_url: https://www.azlyrics.com/lyrics/falco/viennacalling.html
 name: Vienna Calling
 rankings:
 - end_date: '1986-05-02'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
 ---
+
+Hello, Vienna calling
+Hello, hello, Vienna calling...
+Talking about
+
+Stella sitzt in Rio - Stella liegt in Tokyo
+MÃ¤nner fragen sie nach Feuer, nach dem andern sowieso
+Sugar Chris dich sehr vermisst - dein Bein und dein Gesicht
+Du kannst auf mich verzichten-nur auf Luxus nicht
+Womit spielen klein MÃ¤dchen heute, hier und dort und da,
+Und in Tucson, Arizona, Toronto, Canada.
+
+Wien, nur Wien du kennst mich up, kennst mich down
+Du kennst mich.
+Nur Wien, nur Wien, du nur allein
+Wohin sind deine Frau'n.
+
+Ohoho, operator (so alone am I)
+Ohoho, operator (need you to) come tonight
+
+Hello, Vienna calling
+Hello, hello, Vienna calling...
+Vienna calling
+Two, one, zero - Der Alarm ist rot
+Wien in Not - Cha, Cha, Cha
+Vienna calling, Vienna calling
+
+Und plÃ¶tzlich heiÃt Maria Marilyn
+Und Eva heiÃt Yvonne
+Ein junger Bogart hÃ¤ngt dir an den Lippen, 
+Kleines, und sagt komm
+Die Lockenpracht wird komm abgemacht
+Die TÃ¤nzer sind gestoppt
+Es ist 4 Uhr 45, nun wird Position geprobt
+Womit spielen kleine MÃ¤dchen heute, hier und dort und da
+Ob in Tucson, Arizona; Toronto, Canada
+
+Wien, nur Wien du kennst mich up, kennst mich down
+Du kennst mich.
+Nur Wien, nur Wien, du nur allein
+Wohin sind deine Frau'n.
+
+Ohoho, operator (so alone am I)
+Ohoho, operator (need you to) come tonight
+
+Hello, Vienna calling
+Hello, hello, Vienna calling...
+Vienna calling
+Two, one, zero - Der Alarm ist rot
+Wien in Not - Cha, Cha, Cha
+Vienna calling, Vienna calling.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-love-and-tenderness-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/timeloveandtenderness.html
 name: Time Love And Tenderness
 rankings:
 - end_date: '1991-07-19'
@@ -79,4 +80,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
 ---
+
+So you say that you can't go on
+Love left you cryin'
+And you say all your hope is gone
+And what's the use in tryin'
+What you need is to have some faith
+Shake off those sad blues
+Get yourself a new view
+
+Oh, nothing is a sad as it seems, you know
+'Cause someday you'll laugh at the heartache
+Someday, you'll laugh at the pain
+Somehow you'll get through the heartache
+Somehow you can get through the rain
+
+
+When love puts you through the fire
+When love puts you through the test
+Nothing cures a broken heart
+Like time, love and tenderness
+When you think your world is over
+Baby just remember this
+Nothing heals a broken heart
+Like time, love and tenderness
+Time, love and tenderness
+
+I understand how you're feeling now
+And what you've been through
+But your world's gonna turn around
+So baby don't you be blue
+All it takes is a little time
+To make it better
+The hurt won't last forever
+
+Oh, all the tears are gonna dry you know
+'Cause someday you'll laugh at the heartache
+Someday you'll laugh at the pain
+You may be down on your luck
+But baby that old luck's gonna change
+
+
+
+Baby, oh baby you just need some
+You just need some
+Time, love and tenderness
+
+Time, love and tenderness
+The hurt ain't gonna last forever
+Time, love and tenderness
+Time, love and tenderness
+
+
+
+Baby, oh baby all you need
+All you need is time, love and tenderness
+
+
 

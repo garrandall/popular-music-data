@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rocket-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/rocket.html
 name: Rocket
 rankings:
 - end_date: '1989-03-10'
@@ -59,4 +60,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+
+Ah ah 
+Ooh ooh 
+Ah ah 
+Ooh ooh 
+White lights, strange city, mad music all around 
+Midnight street magic (ah) crazy people crazy sound 
+
+Ah ah 
+Ooh ooh 
+
+Jack Flash, rocket man, Sergeant Pepper and the band 
+Ziggy, Benny and the Jets, take a rocket 
+We just gotta fly 
+
+I can take you thru the center of the dark 
+We're gonna fly 
+On a collision course to crash into my heart 
+I will be your, I will be your, I'll be your 
+
+Rocket yeah satellite of love 
+Rocket yeah satellite of love 
+Rocket yeah satellite of love 
+Rocket baby! C'mon, I'll be your satellite of love 
+
+Ooh ooh 
+Ah ah 
+Ooh ooh 
+Ah ah 
+
+Spotlight magnetic razor rhythm laser love 
+Guitar, drums, load up, stun! 
+
+Ah ah 
+Ooh ooh 
+
+Jet Black, Johnny B ,Gene Jeanie, Killer Queen 
+Dizzy Lizzy Major Tom so c'mon 
+We just gotta fly 
+
+
+
+
+
+Rocket baby! C'mon, we're gonna fly 
+
+
+Oooh 
+Countdown commencing...fire one 
+Five, four, three, two, one, zero...we have liftoff 
+
+We just gotta fly 
+
+
+
+
+
+Rocket, baby, guitar, drums, light up 
+We're gonna fly, rocket yeah 
+Satellite of love, we're gonna fly 
+Rocket yeah, satellite of love 
+Rocket yeah!
+
+
 

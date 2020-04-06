@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reason-to-believe-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/reasontobelieve.html
 name: Reason To Believe
 rankings:
 - end_date: '1993-08-20'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
 ---
+
+If I listened long enough to you
+I'd find a way to believe that it's all true
+Knowing that you lied straight-faced while I cried
+Still I look to find a reason to believe
+
+Someone like you makes it hard to live without
+somebody else
+Someone like you makes it easy to give
+never think about myself
+
+If I gave you time to change my mind
+I'd find a way just to leave the past behind
+Knowing that you lied straight-faced while I cried
+Still I look to find a reason to believe
+
+If I listened long enough to you
+I'd find a way to believe that it's all true
+Knowing that you lied straight-faced while I cried
+Still I look to find a reason to believe
+
+Someone like you makes it hard to live without
+somebody else
+Someone like you makes it easy to give
+never think about myself
+
+
 

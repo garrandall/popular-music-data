@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 99-luftballons-nena
+lyrics_url: https://www.azlyrics.com/lyrics/nena/99luftballonsnewversion.html
 name: 99 Luftballons
 rankings:
 - end_date: '1983-12-16'
@@ -99,4 +100,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+
+Hast du etwas Zeit fÃ¼r mich
+Dann singe ich ein Lied fÃ¼r dich
+Von 99 Luftballons
+Auf ihrem Weg zum Horizont
+Denkst du vielleicht grad an mich
+Dann singe ich ein Lied fÃ¼r dich
+Von 99 Luftballons
+Und dass sowas von sowas kommt
+
+Yeah yeah... oh yeah...
+
+99 Luftballons
+Auf ihrem Weg zum Horizont
+Hielt man fÃ¼r UFOs aus dem All
+Darum schickte ein General
+'ne Fliegerstaffel hinterher
+Alarm zu geben, wenn's so wÃ¤r
+Dabei war'n dort am Horizont
+Nur 99 Luftballons
+
+Yeah yeah... oh yeah...
+
+99 Kriegsminister
+Streichholz und Benzinkanister
+Hielten sich fÃ¼r schlaue Leute
+Witterten schon fette Beute
+Riefen "Krieg!" und wollten Macht
+Mann, wer hÃ¤tte das gedacht
+Dass es einmal soweit kommt
+Wegen 99 Luftballons
+
+Yeah yeah... oh yeah...
+
+99 Jahre Krieg
+LieÃen keinen Platz fÃ¼r Sieger
+Kriegsminister gibt's nicht mehr
+Und auch keine DÃ¼senflieger
+Heute zieh ich meine Runden
+Ich seh die Welt in TrÃ¼mmern liegen
+Und ich hab 'nen Luftballon gefunden
+Denk an euch und lass ihn fliegen 
+
+Yeah yeah... oh yeah...
+
+Na nanananana...
+
+
 

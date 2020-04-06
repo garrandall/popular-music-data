@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-it-easy-on-me-little-river-band
+lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/takeiteasyonme.html
 name: Take It Easy On Me
 rankings:
 - end_date: '1981-12-11'
@@ -83,4 +84,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
 ---
+
+It used to be so easy to be your lover
+We wandered through the days like they had no end
+But now that you are gone I'm under cover
+I just can't think about you as a friend
+
+Take it easy on me
+It should be easy to see
+I'm getting lost in a crowd
+Hear me crying out loud
+Just want you to know
+I know that you have to go
+It's all up to you but whatever you do
+Take it easy on me
+
+So now I'll go the minstrel road without
+I know there will be times when I need you there
+And each night as I sing those songs about you
+I'll think back to the time when you used to care
+
+Take it easy on me
+It should be easy to see
+I'm getting lost in a crowd
+Hear me crying out loud
+Just want you to know
+I know that you have to go
+It's all up to you but whatever you do
+Take it easy on me
+
+Take it easy on me
+Oh baby don't leave me crying
+It should be easy to see
+I've needed you for so long
+Just one more chance with you
+One more chance with you, take a chance?
+Come on and take a chance
+
+Take it easy on me
+It should be easy to see
+I'm getting lost in a crowd
+Hear me crying out loud
+Just want you to know
+I know that you have to go
+It's all up to you but whatever you do
+Take it easy on me
+
+It's still up to you but whatever you do
+Take it easy on me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-am-i-supposed-to-live-without-you-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/howamisupposedtolivewithoutyou.html
 name: How Am I Supposed To Live Without You
 rankings:
 - end_date: '1983-07-08'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
 ---
+
+I could hardly believe it
+When I heard the news today
+I had to come and get it straight from you
+
+They said you were leaving
+Someone swept your heart away
+From the look upon your face I see its true
+
+Tell me all about it 
+Tell about the plans you're making
+Then tell me one thing more before I go
+
+Tell my how am I supposed to live without you
+Now that I've been loving you so long
+How am I supposed to live without you
+and how am I supposed to carry on
+When all that I've been living for is gone
+
+Didn't come here for crying
+didn't come here to break down
+It's just the dream of mine is coming to an end
+
+How can I blame you
+when I built my world around 
+the hope that one day we'd be so much more than friends
+
+I don't want to know the price I'm going to pay for dreaming
+I need you now
+it's more than I can take
+
+Tell my how am I supposed to live without you
+Now that I've been loving you so long
+How am I supposed to live without you
+and how am I supposed to carry on
+When all that I've been living for is gone
+
+I don't want to know the price I'm going to pay for dreaming
+Now that you're dream has come true
+
+Tell my how am I supposed to live without you
+Now that I've been loving you so long
+How am I supposed to live without you
+and how am I supposed to carry on
+When all that I've been living for is gone
+
+
 

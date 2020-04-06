@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-won-t-let-me-the-outsiders
+lyrics_url: https://www.azlyrics.com/lyrics/radicalsomething/cuttyspot.html
 name: Time Won't Let Me
 rankings:
 - end_date: '1966-02-25'
@@ -67,4 +68,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
+
+Don't speak a word of it if you never heard of it
+Don't speak a word of it if you never heard of it
+
+Yeah 
+Locals only, homies
+Couple bad chicks that hopefully wont tell nobody
+Pack as many as we can in the four door
+When I say, "Roll with me" better say "Totally"
+If I take you there 
+You better blend in cuz I only share 
+With a few best friends
+Who don't give a shit about a few dead ends
+
+Off the road we found a dope spot
+We got a place that no one knows
+Come and meet me past the boardwalk
+You can only go when the tide is low so let's roll
+
+And I can't believe that no one knows about this place
+Don't tell anyone it wouldn't be the same
+Don't let anybody know oh oh
+Gotta keep it down on the low oh oh
+Let's go down to the cutty, cutty
+Let's go down to the cutty spot
+
+And I can't believe that no one knows about this place
+Don't tell anyone it wouldn't be the same
+Don't let anybody know oh oh
+Gotta keep it down on the low oh oh
+Let's go down to the cutty, cutty
+Let's go down to the cutty spot
+
+Yo
+Hop the fence with confidence
+To our spot that tops like all the rest
+Show flesh we know cuz it lies beyond
+And we take our time, cuz it might be gone
+Day to day livin, sand stone crackin 
+Can't say we ain't livin with the boom box slappin 
+What happens? Outsiders bite me
+Cab or a nine speed
+Gettin there just ain't likely
+
+Off the road we found a dope spot
+We got a place that no one knows
+Come and meet me past the boardwalk
+You can only go when the tide is low so let's roll
+
+And I can't believe that no one knows about this place
+Don't tell anyone it wouldn't be the same
+Don't let anybody know oh oh
+Gotta keep it down on the low oh oh
+Let's go down to the cutty, cutty
+Let's go down to the cutty spot
+
+And I can't believe that no one knows about this place
+Don't tell anyone it wouldn't be the same
+Don't let anybody know oh oh
+Gotta keep it down on the low oh oh
+Let's go down to the cutty, cutty
+Let's go down to the cutty spot
+
+To the cutty spot
+Yeah, whoa
+Don't speak a word of it if you never heard of it
+Don't speak a word of it if you never heard of it
+Oh if you never heard of it
+Don't speak a word of it if you never heard of it
+Don't speak a word of it if you never heard of it
+Never heard of it
+Cutty spot
+
+
 

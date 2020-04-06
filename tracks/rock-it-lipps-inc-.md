@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: rock-it-lipps-inc-
+lyrics_url: https://www.azlyrics.com/lyrics/lippsinc/rockit.html
 name: Rock It
 rankings:
 - end_date: '1980-08-08'
@@ -36,4 +37,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+
+(Rock... rock, rock, rock it)
+
+Won't you rock with me, baby
+I wanna rock the night away
+We're gonna dance until the sun shines
+We're gonna dance until you say
+That you wanna take off, take off with me
+
+Oh, yeah, we're rocking
+Into space
+To another place
+
+
 

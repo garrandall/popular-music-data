@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: personally-karla-bonoff
+lyrics_url: https://www.azlyrics.com/lyrics/karlabonoff/personally.html
 name: Personally
 rankings:
 - end_date: '1982-05-07'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
 ---
+
+I've been writing letters everyday now
+Since you've been gone
+Talking to you on the telephone
+For what seems like a whole life long
+I've got something to give you
+That the mailman can't deliver
+I can't mail it in
+I can't phone it in
+I can't send it in
+Even by your closest kin
+
+I'm bringing it to you personally
+I'm bringing it to you personally
+
+There's nothing like the feeling I get
+Oh when you touching me baby
+There's nothing like the feeling you get
+When I'm there with you, oh love
+I've got something that the mailman can't deliver
+I can't mail it in
+I can't phone it in
+I can't send it in
+Even by your closest kin
+
+I'm bringing it to you personally
+I'm bringing it to you personally
+
+But I've got something to give you
+That the mailman can't deliver
+I can't mail it in
+I can't phone it in
+I can't send it in
+Even by your closest kin
+
+I'm bringing it to you personally
+I'm bringing it to you personally
+
+
 

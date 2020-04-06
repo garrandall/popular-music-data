@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forget-me-nots-patrice-rushen
+lyrics_url: https://www.azlyrics.com/lyrics/patricerushen/forgetmenots.html
 name: Forget Me Nots
 rankings:
 - end_date: '1982-05-07'
@@ -71,4 +72,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
 ---
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Those were the times we had
+Sharing a joy that we thought would last
+Memories of love and affection
+Never really was just like a dream
+Was it the simple things
+That made me so crazy about you
+Was it your charm or your passion
+It's not hard to believe
+I love you and I need you so I...
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Did we give up too soon
+Maybe we needed just a little room
+Wondering how it all happened
+Maybe we just need a little time
+Though we did end as friends
+Given the chance we could love again
+She'll always love you forever
+It's not hard to believe
+I want you and I need you so I...
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Sending you forget me nots
+To help me to remember
+Baby please forget me not
+I want you to remember
+
+Sending you forget me nots
+Baby please forgive me not
+
+Good times we had...
+They weren't so bad...
+What a life we shared...
+Pretty baby I still care...
+
+
 

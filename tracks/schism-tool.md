@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: schism-tool
+lyrics_url: https://www.azlyrics.com/lyrics/tool/schism.html
 name: Schism
 rankings:
 - end_date: '2001-06-29'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
 ---
+
+I know the pieces fit 'cause I watched them fall away
+Mildewed and smoldering. Fundamental differing
+Pure intention juxtaposed will set two lovers souls in motion
+Disintegrating as it goes testing our communication
+The light that fueled our fire then has burned a hole between us so
+We cannot seem to reach an end crippling our communication
+
+I know the pieces fit 'cause I watched them tumble down
+No fault, none to blame, it doesn't mean I don't desire to
+Point the finger, blame the other, watch the temple topple over
+To bring the pieces back together, rediscover communication
+
+The poetry that comes from the squaring off between
+And the circling is worth it
+Finding beauty in the dissonance
+
+There was a time that the pieces fit, but I watched them fall away
+Mildewed and smoldering, strangled by our coveting
+I've done the math enough to know the dangers of our second guessing
+Doomed to crumble unless we grow, and strengthen our communication
+
+(Cold, cold, cold)
+Cold silence
+Has a tendency
+To atrophy any
+Sense of compassion
+Between supposed lovers
+Between supposed lovers
+
+I know the pieces fit 
+
+
 

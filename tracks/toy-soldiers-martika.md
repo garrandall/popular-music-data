@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: toy-soldiers-martika
+lyrics_url: https://www.azlyrics.com/lyrics/martika/toysoldiers.html
 name: Toy Soldiers
 rankings:
 - end_date: '1989-05-26'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
 ---
+
+Step by step
+Heart to heart
+Left, right, left
+We all fall down
+Like toy soldiers
+
+It wasn't my intention to mislead you
+It never should have been this way
+What can I say?
+It's true, I did extend the invitation
+I never knew how long you'd stay
+
+When you hear temptation call
+It's your heart that takes, takes the fall
+(Won't you come out and play with me?)
+
+Step by step
+Heart to heart
+Left, right, left
+We all fall down
+Like toy soldiers
+
+Bit by bit
+Torn apart
+We never win
+But the battle wages on
+For toy soldiers
+
+It's getting hard to wake up in the morning
+My head is spinning constantly
+How can it be?
+How could I be so blind to this addiction?
+If I don't stop, the next one's gonna be me
+
+Only emptiness remains
+It replaces all, all the pain
+(Won't you come out and play with me?)
+
+Step by step
+Heart to heart
+Left, right, left
+We all fall down
+Like toy soldiers
+
+Bit by bit
+Torn apart
+We never win
+But the battle wages on
+For toy soldiers
+
+We never win
+
+Only emptiness remains
+It replaces all, all the pain
+(Won't you come out and play with me?)
+
+Step by step
+Heart to heart
+Left, right, left
+We all fall down
+Like toy soldiers
+
+Bit by bit
+Torn apart
+We never win
+But the battle wages on
+For toy soldiers
+
+Step by step
+Heart to heart
+Left, right, left
+We all fall down
+Like toy soldiers
+
+Bit by bit
+Torn apart
+We never win
+But the battle wages on
+For toy soldiers
+
+
 

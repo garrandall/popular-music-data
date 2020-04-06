@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loddy-lo-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/loddylo.html
 name: Loddy Lo
 rankings:
 - end_date: '1963-11-08'
@@ -59,4 +60,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
 ---
+
+La La La Lardy
+La La La Lardy
+I've got a girl that I love so
+Hey Lardy Lardy Lo
+Her name is Lardy Lardy Lo
+Hey Lardy Lardy Lo
+
+Sing it:
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+La La La Lardy
+La La La Lardy
+
+Don't know the word to any song
+Hey Lardy Lardy Lo
+But me and my Lardy get along
+Hey Lardy Lardy Lo
+
+Sing it now:
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+
+And with the moon above
+I should sing words of love
+But all I do is sing her name
+She gets the message just the same
+
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+Hey Lardy Lardy Lardy
+Hey girl I love you so
+
+All together:
+La La La Lardy
+La La La Lardy
+La La La Lardy
+Hey girl I love you so
+
+And when we take a walk
+We got no time for talk
+Cause fancy talk is for the birds
+A kiss is worth a thousand words
+
+Hey Lardy Lardy Lardy
+Hey Lardy Lardy Lo
+Hey Lardy Lardy Lardy
+Hey girl I love you so
+
+All together:
+La La La Lardy
+Oh yeah La La La Lardy
+
+
 

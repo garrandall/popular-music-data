@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shame-on-me-bobby-bare
+lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/shameonme.html
 name: Shame On Me
 rankings:
 - end_date: '1962-07-27'
@@ -55,4 +56,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+
+Shame on me for hurting you
+What can I say, what can I do?
+Last night I was blind but today I see
+I did you wrong, shame on me.
+
+You say you won't be seein' me again
+You say we're through
+I wouldn't want to see the sunrise tomorrow
+If I knew that to be true.
+
+I know that just sayin' sorry
+Doesn't sound out a lot
+But the girl you saw me with last night
+Means no more to me.
+
+Than the thousand stars
+To the great clouds that cover the night
+The more I look at her
+The more I realize how much I love you.
+
+Shame on me for hurting you
+What can I say, what can I do?
+Last night I was blind but today I see
+I did you wrong, shame on me.
+
+I'll admit I shouldn't have
+Given into love's wild temptation
+With someone I cared nothing for
+I was blind and I hurt you.
+
+Can you ever forgive the fool
+The fool who really loves you?
+Last night I was blind but today I see
+I did you wrong, shame on me...
+
+
 

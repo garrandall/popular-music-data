@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: voices-of-babylon-the-outfield
+lyrics_url: https://www.azlyrics.com/lyrics/outfield/voicesofbabylon.html
 name: Voices Of Babylon
 rankings:
 - end_date: '1989-03-31'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
 ---
+
+Hit the message I can hear you calling 
+No one's going anywhere tonight 
+We conceived a modern generation 
+It was free but now we pay the price 
+
+We're the victims of our own creation 
+Chasing rainbows that are painted black or white 
+Watch the struggle of our own temptation 
+Instincts barely keeping us alive 
+
+Back to the rhythm that we all came from 
+Voices of Babylon, streets of London 
+Back to the people that we know so well 
+A space in time removed too soon to tell 
+
+Just a product of imagination 
+Patiently we wait for our turn to come 
+A small collection of the population 
+By the time our number's up, we could be gone
+
+Back to the rhythm that we all came from 
+Voices of Babylon, streets of London 
+Back to the people that we know so well 
+A space in time removed too soon to tell
+
+Back to the rhythm that we all came from 
+Voices of Babylon streets of London town
+
+
 

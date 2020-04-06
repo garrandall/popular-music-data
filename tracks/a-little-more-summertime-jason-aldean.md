@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-more-summertime-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/alittlemoresummertime.html
 name: A Little More Summertime
 rankings:
 - end_date: '2016-08-12'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
 ---
+
+They're boarding up this water town
+Ain't nobody hanging 'round
+Another gray September day
+Was I crazy to think she'd stay
+
+If that sun would've just hung up in that sky just a little bit yeah just a little bit longer
+If those blue water waves could've stayed at her feet on the beach 'stead of going out with the tide
+If that wind was a friend it'd still be blowing in like a warm southern whisper on her
+She might have stayed forever and never ever left these arms if only I
+Had a little more summertime
+
+I brace myself against the cold
+Let her memory take hold
+Stirring that old fire up
+As if I don't miss her enough
+
+If that sun would've just hung up in that sky just a little bit yeah just a little bit longer
+If those blue water waves could've stayed at her feet on the beach 'stead of going out with the tide
+If that wind was a friend it'd still be blowing in like a warm southern whisper on her
+She might have stayed forever and never ever left these arms if only I
+Had a little more summertime
+
+Just a little more summertime
+
+If that sun would've just hung up in that sky just a little bit yeah just a little bit longer
+She might have stayed forever and never ever left these arms if only I
+Had a little more summertime
+
+
 

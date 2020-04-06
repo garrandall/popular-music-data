@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-the-distance-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/josephvincent/disneymedley4gothedistancecanyoufeelthelovetonightadreamisawishyourheartmakes.html
 name: Go The Distance
 rankings:
 - end_date: '1997-06-13'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-18'
 ---
+
+
+
+I have often dreamed of a far off place
+Where a hero's welcome would be waiting for me
+Where the crowds will cheer when they see my face
+Where a voice keeps saying, this is where I'm meant to be
+
+I will find my way, I can go the distance
+I'll be there someday if I can be strong
+I know every mile, will be worth my while
+I would go most anywhere to feel like I belong
+
+
+
+There's a calm surrender to the rush of day
+When the heat of a rolling wind can be turned away
+An enchanted moment, as it sees me through
+It's enough for this restless warrior just to be with you
+
+And can you feel the love tonight?
+How it's laid to rest
+It's enough to make kings and vagabonds
+Believe the very best
+
+
+
+A dream is a wish your heart makes
+When you're fast asleep
+In dreams you will lose your heartaches
+Whatever you wish for you keep
+
+Have faith in your dreams and someday
+Your rainbow will come shining through
+No matter how your heart is grieving
+If you keep on believing
+The dream that you wish will come true
+Will come true
+
+A dream is a wish your heart makes
+When you're fast asleep
+In dreams you will lose your heartache
+'Cause whatever you wish for you keep
+
+Have faith in your dreams and someday
+Your rainbow will come shining through
+No matter how your heart is grieving
+If you keep on believing
+Oh, the dream that you wish will come true
+Will come true
+Ohh
+
+
 

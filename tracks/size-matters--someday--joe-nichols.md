@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: size-matters--someday--joe-nichols
+lyrics_url: https://www.azlyrics.com/lyrics/joenichols/sizematterssomeday.html
 name: Size Matters (Someday)
 rankings:
 - end_date: '2006-04-21'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
 ---
+
+Someday she wants a big ol' house
+Sittin' on a big ol' hill
+And a mile long tree lined driveway
+For her big ol' Coupe deVille
+Yeah, someday she wants a big ol' bank account
+With too much to spend
+But right now all she wants is a man
+
+With a big ol' heart
+Who can love her like nobody can
+Big ol' kisses that go on and on
+And never end
+With a big ol' smile 
+He'll fill her world with laughter
+Size matters, size matters
+
+Someday she wants a big ol' ring
+With a big ol' rock that shines
+And a big ol' walk-in closet
+With shoes of every kind
+Yeah, someday she wants a big ol' boat
+She can lay around gettin' a tan
+But right now all she wants is a man
+
+With a big ol' heart
+Who can love her like nobody can
+Big ol' kisses that go on and on 
+And never end
+With a big ol' smile
+He'll fill her world with laughter
+Size matters, size matters
+
+With a big ol' heart
+Who can love her like nobody can
+Big ol' kisses that go on and on
+And never end
+With a big ol' smile
+He'll fill her world with laughter
+Size matters, size matters
+
+Size matters
+
+
 

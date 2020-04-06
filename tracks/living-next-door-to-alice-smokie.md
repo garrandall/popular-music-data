@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-next-door-to-alice-smokie
+lyrics_url: https://www.azlyrics.com/lyrics/smokie/livingnextdoortoalice.html
 name: Living Next Door To Alice
 rankings:
 - end_date: '1976-12-10'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
 ---
+
+Sally called when she got the word
+And she said: "I suppose you've heard
+About Alice"
+When I rushed to the window
+And I looked outside
+And I could hardly believe my eyes
+As a big limousine rolled up
+Into Alice's drive...
+
+Oh, I don't know why she's leaving
+Or where she's gonna go
+I guess she's got her reasons
+But I just don't want to know
+'Cos for twenty-four years
+I've been living next door to Alice
+Twenty-four years just waiting for a chance
+To tell her how I feel, and maybe get a second glance
+Now I've got to get used to not living next door to Alice...
+
+We grew up together
+Two kids in the park
+We carved our initials
+Deep in the bark
+Me and Alice
+Now she walks through the door
+With her head held high
+Just for a moment, I caught her eye
+As a big limousine pulled slowly
+Out of Alice's drive
+
+Oh, I don't know why she's leaving
+Or where she's gonna go
+I guess she's got her reasons
+But I just don't want to know
+'Cos for twenty-four years
+I've been living next door to Alice
+Twenty-four years just waiting for a chance
+To tell her how I feel, and maybe get a second glance
+Now I gotta get used to not living next door to Alice...
+
+And Sally called back and asked how I felt
+And she said: "I know how to help
+Get over Alice"
+She said: "Now Alice is gone
+But I'm still here
+You know I've been waiting
+For twenty-four years..."
+And a big limousine disappeared...
+
+I don't know why she's leaving
+Or where she's gonna go
+I guess she's got her reasons
+But I just don't want to know
+'Cos for twenty-four years
+I've been living next door to Alice
+Twenty-four years just waiting for a chance
+To tell her how I feel, and maybe get a second glance
+But I'll never get used to not living next door to Alice...
+
+No, I'll never get used to not living next door to Alice...
+
+
 

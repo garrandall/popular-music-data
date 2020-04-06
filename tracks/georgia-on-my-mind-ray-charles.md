@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: georgia-on-my-mind-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/georgiaonmymind.html
 name: Georgia On My Mind
 rankings:
 - end_date: '1960-10-02'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+
+Georgia, Georgia
+The whole day through (the whole day through)
+Just an old sweet song
+Keeps Georgia on my mind (Georgia on my mind)
+
+I said Georgia, Georgia
+A song of you (a song of you)
+Comes as sweet and clear
+As moonlight through the pines
+
+Other arms reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+The road leads back to you
+
+I said Georgia, oh Georgia
+No peace I find (peace I find)
+Just an old sweet song
+Keeps Georgia on my mind (Georgia on my mind)
+
+Other arms reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+The road leads back to you
+
+Woah, Georgia, Georgia
+No peace, no peace I find
+Just an old, sweet song
+Keeps Georgia on my mind (Georgia on my mind)
+
+I said just an old sweet song
+Keeps Georgia on my mind
+
+
 

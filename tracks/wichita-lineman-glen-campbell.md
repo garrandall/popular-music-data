@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wichita-lineman-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/jimmybarnes/wichitalineman.html
 name: Wichita Lineman
 rankings:
 - end_date: '1968-11-08'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
 ---
+
+I am a lineman for the county
+And I drive the main road
+Searchinâ in the sun for another overload
+I hear you singing in the wire
+I can hear you though the wire
+And the wichita lineman
+Is still on the line
+
+I know I need a small vacation
+But it donât look like a prey
+And if it snows that streach down south
+Wonât ever stand the strain
+And I need you more than want you
+And I want you for all time
+And the wichita lineman
+Is still on the line
+
+And I need you more than want you
+And I want you for all time
+And the wichita lineman
+Is still on the line
+
+Still on the line
+Heâs got that woman on his mind
+Still on the line
+
+
 

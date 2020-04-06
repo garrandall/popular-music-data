@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: intuition-jewel
+lyrics_url: https://www.azlyrics.com/lyrics/jewel/intuition.html
 name: Intuition
 rankings:
 - end_date: '2003-05-16'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
 ---
+
+I'm just a simple girl
+In a high tech digital world
+I really try to understand
+All the powers that rule this land
+They say Miss J's big butt is boss
+Kate Moss can't find a job
+In a world of post modern fad
+What was good now is bad
+
+It's not hard to understand
+Just follow this simple plan
+
+Follow your heart
+Your intuition
+It will lead you in the right direction
+Let go of your mind
+Your Intuition
+It's easy to find
+Just follow your heart baby
+
+You look at me 
+but you're not quite sure
+Am I it or could you get more?
+You learn cool from magazines
+You learn love from Charlie Sheen
+
+If you want me let me know
+I promise I won't say no
+
+
+
+You got something that you want me to sell
+Sell your sin. Just cash in.
+You got something that you want me to tell
+You'll love me. Wait and see.
+
+If you want me
+Don't play games
+I promise 
+it won't be in vain
+Uh-uh-uh
+
+
+
+
 

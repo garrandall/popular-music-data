@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: amie-pure-prairie-league
+lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/amie.html
 name: Amie
 rankings:
 - end_date: '1975-03-07'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
 ---
+
+I can see why you think you belong to me
+I never tried to make you think or let you see one thing for yourself
+But now you're off with someone else and I'm alone
+You see, I thought that I might keep you for my own
+
+Amie, what you wanna do?
+I think I could stay with you
+For a while, maybe longer if I do
+
+Don't you think the time is right for us to find
+All the things we thought weren't proper could be right in time?
+And can you see
+Which way we should turn, together or alone?
+I can never see what's right or what is wrong
+Yeah, you take too long to see
+
+Amie, what you wanna do?
+I think I could stay with you
+For a while, maybe longer if I do
+
+Well, now, Amie, what you wanna do?
+I think I could stay with you
+For a while, maybe longer if I do
+
+Now it's come to what you want, you've had your way
+And all the things you thought before just faded into gray
+And can you see
+That I don't know if it's you or if it's me?
+If it's one of us, I'm sure we both will see
+Won't you look at me and tell me
+
+Amie, what you wanna do?
+I think I could stay with you
+For a while, maybe longer if I, longer if I do, yeah, now
+
+Amie, what you wanna do?
+I think I could stay with you
+For a while, maybe longer if I do
+
+I keep falling in and out of love with you
+Falling in and out of love with you
+Don't know what I'm gonna do
+I keep falling in and out of love with you
+
+
 

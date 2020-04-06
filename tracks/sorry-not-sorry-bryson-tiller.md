@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sorry-not-sorry-bryson-tiller
+lyrics_url: https://www.azlyrics.com/lyrics/fabolous/sorrynotsorry.html
 name: Sorry Not Sorry
 rankings:
 - end_date: '2016-01-08'
@@ -67,4 +68,114 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
 ---
+
+
+I'm way too different to treat the same
+You still playing I already beat the game
+I'm not with the breakup the make up shit
+I'm on some wake up and cake up shit
+So no apologies just a pile of G's
+Make stacks for my niggas all my power G's
+Tryna to kick I don't like your soccer
+Curve a chick like a lipo doctor
+
+
+I used to think about how you would act
+When a nigga got money
+Now you done switched up on me
+Now you wanna say "what's up?" to me
+Okay so now you wanna make love to me
+
+Girl if you don't get the fuck from me
+I know you thought we had something special
+But you don't mean nothing to me
+Girl I'm sorry you not the one for me
+
+Just be honest, girl, what you want from me?
+This ain't nothing new, keep it so 100
+I can't let none of these niggas get one up on me
+I go by God-Tiller, you better run from me
+Give hope to my niggas, them niggas love money
+Adios to them bitches, can't get a hug from me
+I'm high on life, that's what it does for me
+My numbers going up, I feel a buzz coming (one up)
+
+Young nigga, young nigga
+Your friends bad too?
+Then tell 'em come with you
+And we like, bitches with they own shit
+We don't like gold diggers
+
+Girl if you don't get the fuck from me
+I know you thought we had something special
+But you don't mean nothing to me
+Girl I'm sorry you not the one for me
+
+This the shit I don't condone
+Cheating on your man but you can get it if you want it
+Looking for a bad bitch, I finally found a culprit
+Nigga taking shots, and I'm back check the postage, yeah
+Hatin' ass nigga, why won't you shut up?
+This the motherfuckin' 502 come up
+And every time I'm back in the city
+Every bitch with a hidden agenda run up (cause I'm on, nigga!)
+
+Young nigga, young nigga
+Your friends bad too?
+Then tell 'em come with you
+And we like, bitches with they own shit
+We don't like gold diggers
+
+Girl if you don't get the fuck from me
+I know you thought we had something special
+But you don't mean nothing to me
+Girl I'm sorry you not the one for me
+
+
+Look, you could've been and you would've been
+You get it now but you never understood it then
+News bulletin yup all our bullets tins
+I'mma pull a Benz up
+Pocket full of bands
+What's up with them get back texts
+Yes we wasn't working out time to get back flexing
+Same phone who's this ya I switched up on you
+What happened to old boy, oh he bitched up on you
+Now she want to ride stick, tryna witch up on you
+When I do want to cut I hit Rich up on you
+He came through with Tiller, I'm posted with killer
+Hit  like I'm with the young nigga young nigga
+And now it's T R A P S O U L, with the boy who rap soul
+ in the winter like Thanksgiving dinner
+Like it's Christmas spirit got a gift with lyrics
+You niggas stay far from me 'til your bitch get near it
+
+
+Young nigga, young nigga
+Your friends bad too?
+Then tell 'em come with you
+And we like, bitches with they own shit
+We don't like gold diggers
+
+Girl if you don't get the fuck from me
+I know you thought we had something special
+But you don't mean nothing to me
+Girl I'm sorry you not the one for me
+
+It get to a point that you know
+You get money it's like what is you doing it for
+So when you find somebody special it's like
+They become your motivation behind what you do
+You know what I'm saying (ya)
+You got a lady or you got kids (Of course)
+You know what ever you got
+That become your motivation (ya)
+You know what I'm saying
+(Motivation is key it makes it a whole lot easier
+Of course when you have somebody that is doing the same thing
+Or even just grinding just as hard it's really it's something it's)
+So what's your motivation
+(You)
+
+
 

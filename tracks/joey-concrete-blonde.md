@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: joey-concrete-blonde
+lyrics_url: https://www.azlyrics.com/lyrics/concreteblonde/joey.html
 name: Joey
 rankings:
 - end_date: '1990-08-24'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-05'
 ---
+
+Joey...
+Baby...
+Don't get crazy
+Detours, fences...
+I get defensive....
+
+I know you've heard it all before
+So I don't say it anymore
+I just stand by and let you
+Fight your secret war
+
+And though I used to wonder why
+I used to cry till I was dry
+Still sometimes I get a strange pain inside
+Oh Joey if you're hurting so am I
+
+Joey...
+Honey...
+I've got the money
+
+All is forgiven. Listen....listen...
+
+But if I seem to be confused
+I didn't mean to be with you.
+And when you said I scared you
+Well, I guess you scared me too
+But we got lucky once before
+And I don't want to close the door
+And if you're somewhere out there
+Passed out on the floor...
+
+Oh...
+Joey, I'm not angry anymore
+
+And if I seem to be confused
+I didn't mean to be with you.
+And when you said I scared you
+Well I guess you scared me too...
+
+But if it's love you're looking for
+Then I can give a little more
+And if you're somewhere drunk and
+Passed out on the floor...
+
+Oh...
+Joey, I'm not angry anymore
+Angry anymore, angry anymore
+
+
 

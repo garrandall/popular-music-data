@@ -6,6 +6,7 @@ features:
 genres: []
 key: the-madison-al-brown-s-tunetoppers-cookie-brown
 name: The Madison
+lyrics_url: https://www.lyricsfreak.com/a/al+browns+tunetoppers/the+madison_20783187.html
 rankings:
 - end_date: '1960-04-10'
   rank: 89
@@ -56,4 +57,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
 ---
+Hey, everybody
+Gather round
+It's Madison time
 
+Give me a big strong line
+And make it hook real fine
+We're gonna Madison now
+If you don't know how
+
+Listen to my call
+Put you on the ball
+Madison time
+
+Like, two up, two back
+Boss turn, Birdland twice
+Reverse that bird, step back over
+Rock it back into the Madison
+When I say hit it like a rug
+
+Let's, uh, hit it
+
+Two up, two back
+Boss turn, looking good
+Birdland twice, one more time
+Reverse that bird, step back over
+Rock it back into the Madison
+
+Oh, the line sure swings
+The cat's a Madison king
+The line is nice and strong
+Couldn't catch a single cat wrong
+
+If you take my call
+You'll be on the ball
+Madison time
+
+Like, two up, two back
+Into the M, erase it
+Gimme a I, Johnny
+Rock it back into the Madison
+When I say like a rug
+Hit that thing, hit it
+Two up, two back
+Into the M
+
+Swinging, son
+Erase that thing
+Gimme the I
+Rock it back to the Madison
+
+You hear the Madison groove
+Makes you really wanna move
+For kids from eight to eighty-three
+Just as easy as can be
+
+It's a relaxing dance
+Lets you really prance
+The Madison, the Madison
+The Madison
+
+The Madison, the Madison
+The Madison

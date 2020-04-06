@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: seven-bridges-road-eagles
+lyrics_url: https://www.azlyrics.com/lyrics/eagles/sevenbridgesroad.html
 name: Seven Bridges Road
 rankings:
 - end_date: '1980-12-26'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
 ---
+
+There are stars
+In the Southern sky
+Southward as you go
+There is moonlight
+And moss in the trees
+Down the Seven Bridges Road
+
+Now I have loved you like a baby
+Like some lonesome child
+And I have loved you in a tame way
+And I have loved you wild
+
+Sometimes there's a part of me
+Has to turn from here and go
+Running like a child from these warm stars
+Down the Seven Bridges Road
+
+There are stars in the Southern sky
+And if ever you decide
+You should go
+There is a taste of thyme sweetened honey
+Down the Seven Bridges Road
+
+
 

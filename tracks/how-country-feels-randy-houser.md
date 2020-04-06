@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-country-feels-randy-houser
+lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/howcountryfeels.html
 name: How Country Feels
 rankings:
 - end_date: '2012-10-26'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
 ---
+
+You were raised on an asphalt farm
+Ain't never heard a rooster crow
+Never walked barefoot by a river
+Felt the mud up between your toes
+
+You never rolled in the hay
+You never thrown it in four wheel
+Climb up on in here girl
+Let me show you how country feels
+
+Let your hair down, hair down
+Get you some of this laid on back
+Kick your shoes off, kick 'em off
+Get you some of this slow down fast
+I'll take you up and down these hollers and hills
+Let me show you how country feels
+
+You ever watched the sun go down
+From the bed of a pickup truck
+Ever been so into somebody
+You're still lying there when it comes back up
+
+Girl what do you say?
+Cut a path through that cornfield
+Park down by the water
+Let me show you how country feels
+
+Let your hair down, hair down
+Get you some of this laid on back
+Kick your shoes off, kick 'em off
+Get you some of this slow down fast
+I'll take you up and down these hollers and hills
+Let me show you how country feels
+
+Let your hair down
+Get you some of this laid on back
+Kick your shoes off (Kick your shoes off)
+
+Let your hair down, hair down
+Get you some of this laid on back
+Kick your shoes off, kick 'em off
+Get you some of this slow down fast
+I'll take you up and down these hollers and hills
+Let me show you how country feels
+Country feels
+
+
 

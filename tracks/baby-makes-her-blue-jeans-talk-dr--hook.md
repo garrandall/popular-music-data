@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-makes-her-blue-jeans-talk-dr--hook
+lyrics_url: https://www.azlyrics.com/lyrics/drhook/babymakesherbluejeanstalk.html
 name: Baby Makes Her Blue Jeans Talk
 rankings:
 - end_date: '1982-03-05'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
 ---
+
+Night falls on the city, baby feels the beat
+Slick and sexy angel of the street
+The queen of all the night birds watch her when she walks
+She don't say nothing but, baby makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+You know what she's thinking about and it turns you inside out
+She don't say nothing but, baby makes her blue jeans talk
+Night time in the city, magic in the air
+The action starts at midnight, she'll be there
+The queen of all the night birds, a player in the dark
+She don't say nothing but, baby makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+You know what she's thinking about and it turns you inside out
+She don't say nothing but, baby makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+Baby makes her blue jeans, yes she makes her blue jeans talk
+You know what she's thinking about and it turns you inside out
+She don't say nothing but, baby makes her blue jeans talk
+She don't say nothing but, baby makes her blue jeans talk
+She won't say nothing
+She don't say nothing
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-her-love-has-felt-the-need-eddie-kendricks
+lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/tellherlovehasfelttheneed.html
 name: Tell Her Love Has Felt The Need
 rankings:
 - end_date: '1974-08-16'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
 ---
+
+Aw, in the morning when she wakes
+Light of dawn come touch her face
+Sunshine keep her warm and safe
+Wind come blow her tears away
+
+Tell her love has felt the need to leave her
+Tell her love has felt the need to free her
+I could never be what she wants of me, yeah-eah
+
+Diamond rings and wedding plans
+Children laughing and holding hands
+She deserves that kind of man
+But my life is like a ship in sand, yeah
+
+Tell her love has felt the need to leave her
+Tell her love has felt the need to free her
+I could never be what she wants of me
+
+Love her, ooh-ooh-ooh
+I could never be what she wants of me
+Yeah, yeah-eah-eah
+I could never be what she wants of me
+
+Tell her love has felt the need to leave her
+Tell her love has felt the need to free her
+Huh-huh-huh
+(Won't you tell her)
+Huh-huh
+I could never be what she wants of me, yeah
+
+I could never be what she wants of me
+(Won't you tell her)
+Hey
+
+I'll just pass her by, I don't want to make her cry
+(Won't you tell her)
+Hey
+
+Hope she finds a happy home, I think it's best that I move on
+(Hey)
+Hey
+
+I could never be what she wants of me
+(Hey)
+Hey-ey
+
+
 

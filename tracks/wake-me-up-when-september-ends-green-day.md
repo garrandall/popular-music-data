@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wake-me-up-when-september-ends-green-day
+lyrics_url: https://www.azlyrics.com/lyrics/chrisnorman/wakemeupwhenseptemberends.html
 name: Wake Me Up When September Ends
 rankings:
 - end_date: '2005-08-12'
@@ -115,4 +116,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
+
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
+Like my father's come to pass
+Seven years has gone so fast
+Wake me up when September ends
+Here comes the rain again
+Falling from the stars
+Drenched in my pain again
+Becoming who we are
+As my memory rests
+But never forgets what I lost
+Wake me up when September ends
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
+Ring out the bells again
+Like we did when spring began
+Wake me up when September ends
+Here comes the rain again
+Falling from the stars
+Drenched in my pain again
+Becoming who we are
+As my memory rests
+But never forgets what I lost
+Wake me up when September ends
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
+Like my father's come to pass
+Twenty years has gone so fast
+Wake me up when September ends
+Wake me up when September ends
+Wake me up when September ends
+
+
 

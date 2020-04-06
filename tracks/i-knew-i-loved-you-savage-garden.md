@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-knew-i-loved-you-savage-garden
+lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/iknewilovedyou.html
 name: I Knew I Loved You
 rankings:
 - end_date: '1999-10-29'
@@ -139,4 +140,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
 ---
+
+Maybe it's intuition 
+But some things you just don't question
+Like in your eyes
+I see my future in an instant
+and there it goes
+I think I've found my best friend
+I know that it might sound more than
+a little crazy but I believe 
+
+ 
+
+I knew I loved you before I met you
+I think I dreamed you into life
+I knew I loved you before I met you
+I have been waiting all my life 
+
+There's just no rhyme or reason
+only this sense of completion
+and in your eyes
+I see the missing pieces
+I'm searching for
+I think I found my way home
+I know that it might sound more than
+a little crazy but I believe
+
+ 
+
+A thousand angels dance around you
+I am complete now that I found you 
+
+
+
+
 

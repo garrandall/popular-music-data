@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-sure-took-a-long-long-time-lobo
+lyrics_url: https://www.azlyrics.com/lyrics/lobo/itsuretookalonglongtime.html
 name: It Sure Took A Long Long Time
 rankings:
 - end_date: '1973-04-13'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
 ---
+
+I'm sure it might have grown old
+Like most young things usually do
+and dangling a line to try and find your mind
+For that I can't blame you.
+
+Now I'm not questioning your motives
+For all the silly things you've done
+Now you're coming round putting yourself down
+Telling me I always was the one
+
+It sure took a long time to miss me
+A long time for you to come around
+A long time to find what was wrong
+It sure took a long, long time.
+
+The magic that we had together
+Seems so much stronger than before
+What did I learn to make the love return
+O girl I've got to learn some more.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cuts-both-ways-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/cutsbothways.html
 name: Cuts Both Ways
 rankings:
 - end_date: '1990-07-06'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
 ---
+
+It cuts both ways
+Our love is like knife
+That cuts both ways
+It's driven deep into my heart each time
+That I realize
+How it cuts both ways
+Can't be together
+Cannot live apart
+We're heading straight into a broken heart
+But I can't stop
+
+'Cause I feel too much to let you go
+I'm hurting you and it's hard I know
+To stay and fight for what we've got
+Knowing it'll never be good enough
+'Cause you and I are dangerous
+We want too much and life ain't that way
+Don't ask for more
+Don't be a fool
+Haven't we already broken every rule
+
+It cuts both ways, we're in too deep for sorry alibis
+Can't have regrets or even question why
+We can't say goodbye
+Because it cuts both ways
+No more illusions of the love we make
+No sacrifice would ever be too great
+If you would just stay
+
+Cuts both ways
+Our love is like a knife that cuts both ways
+It's drivin' deep into my heart each time I see we livin' the lie
+And it cuts both ways
+It cuts both ways, mmm
+Cuts both ways
+Cuts both ways
+
+
 

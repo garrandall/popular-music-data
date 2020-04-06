@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: key-west-intermezzo--i-saw-you-first--john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/keywestintermezzoisawyoufirst.html
 name: Key West Intermezzo (I Saw You First)
 rankings:
 - end_date: '1996-09-06'
@@ -103,4 +104,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
 ---
+
+In a hand painted night, me and Gypsy Scotty are partners
+At the Hotel Flamingo, wearin black market shoes
+This loud Cuban band is crucifying John Lennon
+No one wants to be lonely, no one wants to sing the blues
+
+She's perched like a parrot on his tuxedo shoulder
+Christ, what's she doing with him she could be dancing with me
+She stirs the ice in her glass with her elegant finger
+I want to be what she's drinking, yeah I just want to be
+
+I saw you first
+I'm the first one tonight
+I saw you first
+Don't that give me the right
+To move around in your heart
+Everyone was lookin
+But I saw you first
+
+On a moon spattered road in her parrot rebozo
+Gypsy Scotty is driving his big long yellow car
+She flies like a bird over his shoulder
+She whispers in his ear, boy, you are my star
+
+But I saw you first
+I'm the first one tonight
+Yes I saw you first
+Don't that give me the right
+To move around in your heart
+Everyone was lookin.....
+
+In the bone colored dawn, me and Gypsy Scotty are singin'
+The radio is playin, she left her shoes out in the back
+He tells me a story about some girl he knows in Kentucky
+He just made that story up, there ain't no girl like that
+
+But I saw you first
+I'm the first one tonight
+Yes I saw you first
+Don't that give me the right
+To move around in your heart
+Everyone was lookin
+But I saw you first
+I saw you first
+
+
 

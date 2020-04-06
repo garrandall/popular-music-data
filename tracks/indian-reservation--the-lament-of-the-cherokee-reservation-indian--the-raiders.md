@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: indian-reservation--the-lament-of-the-cherokee-reservation-indian--the-raiders
+lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/indianreservationthelamentofthecherokeereservationindian.html
 name: Indian Reservation (The Lament Of The Cherokee Reservation Indian)
 rankings:
 - end_date: '1971-04-16'
@@ -95,4 +96,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+
+They took the whole Cherokee nation
+Put us on this reservation
+Took away our ways of life
+The tomahawk and the bow and knife
+
+Took away our native tongue
+And taught their English to our young
+And all the beads we made by hand
+Are nowadays made in Japan
+
+Cherokee people
+Cherokee tribe
+So proud to live
+So proud to die
+
+They took the whole Indian nation
+Locked us on this reservation
+Though I wear a shirt and tie
+I'm still part redman deep inside
+
+Cherokee people
+Cherokee tribe
+So proud to live
+So proud to die
+
+But maybe someday when we've learned
+Cherokee nation will return
+Will return, will return
+Will return, will return
+
+
 

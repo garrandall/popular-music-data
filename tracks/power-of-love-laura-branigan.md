@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: power-of-love-laura-branigan
+lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/poweroflove.html
 name: Power Of Love
 rankings:
 - end_date: '1987-10-30'
@@ -79,4 +80,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
 ---
+
+The whispers in the morning
+Of lovers sleeping tight
+Are rolling by like thunder now
+As I look in your eyes
+
+I hold on to your body
+And feel each move you make
+Your voice is warm and tender
+A love that I could not forsake
+
+
+'Cause I am your lady
+And you are my man
+Whenever you reach for me
+I'll do all that I can
+
+Even though there may be times
+It seems I'm far away
+Never wonder where I am
+'Cause I am always by your side
+
+
+
+
+We're heading for something
+Somewhere I've never been
+Sometimes I am frightened
+But I'm ready to learn
+Of the power of love
+
+The sound of your heart beating
+Made it clear
+Suddenly the feeling that I can't go on
+Is light years away
+
+
+
+
+
+
 

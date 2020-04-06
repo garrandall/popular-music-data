@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonesome-mary-chilliwack
+lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/lonesomemary.html
 name: Lonesome Mary
 rankings:
 - end_date: '1972-02-11'
@@ -19,4 +20,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
 ---
+
+I went down to see lonesome Mary
+She was sitting all alone
+She was crying for the contrariness
+That made a desert of her home
+
+She was weeping and a-wailing
+You know she does it every day
+I said Mary, Mary, Mary, Mary
+How can you live that way
+
+She said I don't know
+Must be in my soul
+I guess I must be the most contrary
+Hard to get along with
+Person in this world
+
+Ooh, Lonesome Mary
+Ooh, Lonesome Mary
+Yeah, yeah, yeah
+
+I went down to see lonesome Mary
+She was sitting all alone
+She was crying for the contrariness
+That made a desert of her home
+
+She was weeping and a-wailing
+You know she does it every day
+I said Mary, Mary, Mary, Mary
+How can you live that way
+
+She said I don't know
+Well, it must be in my soul
+I guess I must be the most contrary
+Hard to get along with
+Person in this world
+
+Ooh, Lonesome Mary
+Ooh, Lonesome Mary
+Yeah, yeah, yeah, oh, yeah
+
+
 

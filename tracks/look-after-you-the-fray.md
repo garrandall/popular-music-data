@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-after-you-the-fray
+lyrics_url: https://www.azlyrics.com/lyrics/louistomlinson/lookafteryou.html
 name: Look After You
 rankings:
 - end_date: '2007-03-23'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
 ---
+
+If I don't say this now I will surely break
+As I'm leaving the one I want to take
+I forget the urgency but hurry up and wait
+My heart has started to separate
+
+Oh, oh, oh...
+Be my baby
+Oh, oh, oh...
+Be my baby
+I'll look after you
+
+There now, steady love, so few come and don't go
+Will you, won't you be the one I'll always know?
+When I'm losing my control, the city spins around
+You're the only one who knows, you slow it down
+
+Oh, oh, oh...
+Be my baby
+Oh, oh, oh...
+Be my baby
+And I'll look after you
+And I'll look after you
+
+If ever there was a doubt
+My love she leans into me
+This most assuredly counts
+I said most assuredly
+
+And oh, oh, oh...
+Be my baby
+And I'll look after you
+After you
+Oh, oh, oh...
+Be my baby
+And I'll look after you
+
+It's always have and never hold
+You've begun to feel like home, yeah
+What's mine is yours to leave or take
+What's mine is yours to make your own
+
+Oh, oh, oh...
+Be my baby
+Oh, oh, oh...
+...
+
+
 

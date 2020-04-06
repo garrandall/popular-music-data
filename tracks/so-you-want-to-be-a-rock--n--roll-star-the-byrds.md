@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-you-want-to-be-a-rock--n--roll-star-the-byrds
+lyrics_url: https://www.azlyrics.com/lyrics/byrds/soyouwanttobearocknrollstar.html
 name: So You Want To Be A Rock 'N' Roll Star
 rankings:
 - end_date: '1967-02-03'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
+
+So you want to be a rock'n'roll star
+Then listen now to what I say
+Just get an electric guitar
+And take some time and learn how to play
+And when your hair's combed right and your pants fit tight
+It's gonna be all right
+
+Then it's time to go down town
+Where the agent men won't let you down
+Sell your soul to the company
+Who are waiting there to sell plastic ware
+And in a week or two if you make the charts
+The girls will tear you apart
+
+What you pay for your riches and fame
+Was it all a strange game
+You're a little insane
+The money that came and the public acclaim
+Don't forget what you are
+You're a rock'n'roll star
+
+Lalalalalalala
+
+
 

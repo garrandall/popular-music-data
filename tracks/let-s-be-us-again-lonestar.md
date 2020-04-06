@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-be-us-again-lonestar
+lyrics_url: https://www.azlyrics.com/lyrics/lonestar/letsbeusagain.html
 name: Let's Be Us Again
 rankings:
 - end_date: '2004-04-16'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
 ---
+
+Tell me what I have to do tonight
+Cause I'd do anything to make it right
+Let's be us again
+I'm sorry for the way I lost my head
+I dont why I said the things I said
+Lets be us again
+
+Here I stand with everything to lose
+All I know is I dont wanna ever see the end
+Baby please, I'm reachin out for you
+Won't you open up your heart and let me come back in
+Lets be us again
+Us again
+
+Look at me Im way past pride
+Isn't there some way that we can try
+To be us again
+Even if it takes a while
+I'll wait right here until I see that smile
+That says we're us again
+
+Here I stand with everything to lose
+All I know is I dont wanna ever see the end
+Baby please, I'm reachin out for you
+Won't you open up your heart and let me come back in
+Lets be us 
+Ohhh
+
+Baby baby, what would I do
+Can't imagine life without you
+
+Here I stand with everything to lose
+All I know is I dont wanna ever see the end
+Baby please I'm reachin out for you
+Won't you open up your heart and let me come back in
+Oh here I am I'm reachin out for you
+Won't you open up your heart and let me come back in
+Lets be us again
+Oh, lets be us again
+
+
 

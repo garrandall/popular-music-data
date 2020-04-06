@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bless-you-tony-orlando
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/blessyou.html
 name: Bless You
 rankings:
 - end_date: '1961-08-20'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+
+Every time I faced the world
+I just had to cry
+I stood alone with no love of my own
+But then you happened by
+
+Oh, darling, bless you
+Bless every breath that you take
+Yeah, bless every move that you make so perfectly
+And bless your little heart for loving me
+Oh, bless you, bless you, child
+
+'Til you smiled and took my hand
+I felt kinda small
+But you stood by me for the whole world to see
+And then I was ten feet tall
+
+Oh, darling, bless you
+Bless every breath that you take
+Mmm, bless every move that you make so perfectly
+And bless your little heart for loving me
+
+Oh, darling, bless you
+Bless every breath that you take
+Baby, bless every move that you make so perfectly
+And bless your little heart for loving me
+
+Baby, bless you
+Bless every breath that you take
+Yeah, bless every move that you make so perfectly
+And bless your little heart for loving me
+
+
 

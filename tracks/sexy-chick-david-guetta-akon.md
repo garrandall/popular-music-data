@@ -5,6 +5,7 @@ features:
 - Akon
 genres: []
 key: sexy-chick-david-guetta-akon
+lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/sexychick.html
 name: Sexy Chick
 rankings:
 - end_date: '2009-08-21'
@@ -168,4 +169,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
 ---
+
+Yes I can see her
+Cause every girl in here wanna be her
+Oh shes a diva
+I feel the same and I wanna meet her
+
+They say she low down
+Its just a rumor and I don't believe em
+They say she needs to slow down
+The baddest thing around town
+
+She's nothing like a girl you've ever seen before
+Nothing you can compare to your neighborhood girl
+I'm tryna find the words to describe this girl without being disrespectful
+The way that booty movin' I can't take no more
+Have to stop what I'm doin so I can pull her close
+I'm tryna find the words to describe this girl without being disrespectful
+
+Damn girl
+Damn you'se a sexy chick
+A sexy chick
+Damn you'se a sexy chick
+Damn girl
+
+Damn you'se a sexy chick
+
+A sexy chick
+Damn you'se a sexy chick
+Damn girl
+
+Yes I can see her
+Cause every girl in here wanna be her
+Oh shes a diva
+I feel the same and I wanna meet her
+
+They say she low down
+Its just a rumor and I don't believe em
+They say she needs to slow down
+The baddest thing around town
+
+She's nothing like a girl you've ever seen before
+Nothing you can compare to your neighborhood girl
+I'm tryna find the words to describe this girl without being disrespectful
+The way that booty movin' I can't take no more
+Have to stop what I'm doin so I can pull her close
+I'm tryna find the words to describe this girl without being disrespectful
+
+Damn girl
+Damn you'se a sexy chick
+A sexy chick
+Damn you'se a sexy chick
+Damn girl
+
+Damn you'se a sexy chick
+A sexy chick
+Damn you'se a sexy chick
+Damn girl
+
+Damn you'se a sexy chick
+A sexy chick
+Damn you'se a sexy chick
+
+Damn girl
+
+Damn you'se a sexy chick
+A sexy chick
+Damn you'se a sexy chick
+Damn you'se a sexy chick
+
+
 

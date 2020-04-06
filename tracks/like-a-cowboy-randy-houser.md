@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-a-cowboy-randy-houser
+lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/likeacowboy.html
 name: Like A Cowboy
 rankings:
 - end_date: '2014-12-26'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
 ---
+
+Every time I fall I get back up again
+Cinch my saddle up and find me another wind
+Let it take me where it wants to go
+Another one horse town, another damned old rodeo
+
+I know this life is crazy
+But I'll be home soon baby
+
+I'll ride in on a sunny day,
+Sing you a song, steal your heart away
+Like a cowboy
+Hang my hat like I'm here for a while
+Kick off my boots and drive you wild
+Like a cowboy
+Well baby you know I can't stay long
+You wake up, I'll be gone
+Until then I'll hold on
+Like a cowboy
+
+I keep your picture tucked inside my old hat
+It brings me luck, I need a bunch of that
+This midnight winding road runs through my blood
+I can't give it up, like I said I would
+
+I know it's hard on you
+But like I always do
+
+I'll ride in on a sunny day,
+Sing you a song, steal your heart away
+Like a cowboy
+Hang my hat like I'm here for a while
+Kick off my boots and drive you wild
+Like a cowboy
+Well baby you know I can't stay long
+You wake up, I'll be gone
+Until then I'll hold on
+Like a cowboy
+
+I'll ride in on a sunny day,
+Sing you a song, steal your heart away
+Like a cowboy
+Hang my hat like I'm here for a while
+Kick off my boots and drive you wild
+Like a cowboy
+Like a cowboy
+Like a cowboy
+Like a cowboy
+
+Every time I fall I get back up again
+Cinch my saddle up and find me another wind
+
+
 

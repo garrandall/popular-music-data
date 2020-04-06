@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mony-mony-billy-idol
+lyrics_url: https://www.azlyrics.com/lyrics/billyidol/monymony.html
 name: Mony Mony
 rankings:
 - end_date: '1987-09-11'
@@ -95,4 +96,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
 ---
+
+Here she comes now sayin' Mony Mony
+Shoot 'em down turn around come on Mony
+Hey she give me love and I feel all right now
+Come on you gotta toss and turn
+And feel all right, yeah I feel all right
+I said yeah, yeah, yeah, yeah, yeah
+
+'Cause you make me feel
+So good, so good, so good
+So fine, so fine
+It's all mine, well I feel all right
+I said yeah, yeah, yeah, yeah, yeah, yeah
+
+Well you could shake it Mony Mony
+Shot gun dead and I'll come on home yeah
+Don't stop cookin' 'cause I feel all right now
+Don't stop now come on Mony
+Come on yeah, I said yeah, yeah, yeah, yeah, yeah
+
+'Cause you make me feel
+So good, so good
+Well I feel all right
+You're so fine, you're so fine
+You're, and I feel all right
+I said yeah, yeah, yeah, yeah, yeah, yeah
+
+I love you Mony mo-mo-mony
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony sure I do
+I love you Mony mo-mo-mony
+Yeah, yeah, yeah, yeah, yeah, yeah
+
+Come on, come on
+Come on, come on
+Come on, come on
+Come on, come on
+Come on, come on
+Feel all right, I said yeah, yeah, yeah, 
+yeah, yeah, yeah
+
+Wake it, shake it Mony Mony
+Up, down, turn around, come on mony
+Hey she give me love and I feel all right now
+Don't stop now come on Mony
+Come on, I said yeah, yeah, yeah, 
+yeah, yeah
+
+'Cause you make me feel
+So good, so good, so good
+Feel all right, all right
+Well I feel all right
+I said yeah, yeah, yeah, yeah
+
+Ride your pony, ride your pony
+Ride your pony come on, come on
+Mony Mony
+Feel all right, I said yeah, yeah, yeah, yeah, yeah
+
+
 

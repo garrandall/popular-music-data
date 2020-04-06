@@ -5,6 +5,7 @@ features:
 - Ashley Monroe
 genres: []
 key: lonely-tonight-blake-shelton-ashley-monroe
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/lonelytonight.html
 name: Lonely Tonight
 rankings:
 - end_date: '2014-12-26'
@@ -76,4 +77,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
 ---
+
+I never thought you'd pick up the phone
+It's Friday night, you should be out on the town
+Didn't think you'd be
+Sitting at home all alone like me
+
+Nothing on TV, nothing to do
+Nothing to keep my mind off you and me
+And the way it was
+Are you thinking 'bout it now because...
+
+...I could be there in five?
+One more, one last time
+
+We don't have to be lonely tonight
+(I need you, want you, I'm right here)
+We don't have to be lonely tonight
+(I know we shouldn't, but I don't care)
+I don't wanna be right, I don't wanna be strong
+I just wanna hold you 'til the heartbreak's gone
+When the sun comes up, we can both move on
+But we don't have to be lonely tonight
+
+That taste, that touch, the fire I miss
+Those "kiss-me" eyes, your red wine lips on mine
+Like it used to be,
+Baby, I want you and you want me
+
+We don't have to be lonely tonight
+(Need you, want you, I'm right here)
+We don't have to be lonely tonight
+(I know we shouldn't, but I don't care)
+I don't wanna be right, I don't wanna be strong
+I just wanna hold you 'til the heartbreak's gone
+When the sun comes up, we can both move on
+But we don't have to be lonely tonight
+
+I can be there in five
+One more, one last time
+
+We don't have to be lonely tonight
+(Oh, I need you and I'm right here)
+We don't have to be lonely tonight... tonight... tonight
+Yeah... yeah
+
+
 

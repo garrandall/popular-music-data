@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-you-there-sean-kingston
+lyrics_url: https://www.azlyrics.com/lyrics/seankingston/takeyouthere.html
 name: Take You There
 rankings:
 - end_date: '2007-11-23'
@@ -107,4 +108,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
 ---
+
+YO!!!!
+WAT A GWAAN!!!
+HO!!!!
+SEAN KINGSTON!!!
+JR!
+
+
+We can go to the tropics
+Sip pina coladas
+Shorty I could take you there
+Or we can go to the slums
+Where killers get hung
+Shorty I could take you there
+You know I could take you (I could take you...)
+I could take you (I could take you...)
+Shorty I could take you there
+You know I could take you (I could take you...)
+I could take you (I could take you...)
+Shorty I could take you there
+
+Baby girl I know it's rough but come with me
+We can take a trip to the hood
+It's no problem girl it's my city
+I could take you there
+Little kid with guns only 15
+Roam in the streets up to no good
+When gun shots just watch us, run quickly
+I could show you where
+
+As long as you're with me
+Baby you'll be alright
+I'm known in the ghetto
+Girl just stay by my side
+Or we can leave the slums go to paradise
+Baby it's up to you,
+It's whatever you like
+
+
+
+Shorty come with me it's no worry
+I know the bad men them where they ah stay
+Police fly pursuit in a hurry
+This is no gun play
+Don't be scared in a deh West Indies
+It's Jamaica, that's where I'm from
+Might see something that you're not used to
+Welcome to the slums
+
+As long as you're with me
+Baby you'll be alright
+I'm known in the ghetto
+Girl just stay by my side
+Or we can leave the slums go to paradise
+Baby it's up to you,
+It's whatever you like
+
+
+
+Oh we (oh we)
+Can go (can go)
+To a place (to a place)
+I know you're gonna like (oh oh oh)
+The beach (the beach)
+The breeze (the breeze)
+West Indies, I call it paradise
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hysteria-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/defleppard/hysteria.html
 name: Hysteria
 rankings:
 - end_date: '1988-01-29'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
 ---
+
+Out of touch, out of reach yeah
+You could try to get closer to me
+I'm in luck, I'm in deep, yeah
+Hypnotized, I'm shakin' to my knees
+
+I gotta know tonight
+If you're alone tonight
+Can't stop this feeling
+Can't stop this fire
+
+Oh, I get hysterical, hysteria
+Oh can you feel it, do you believe it?
+It's such a magical mysteria
+When you get that feelin', better start believin'
+'Cos it's a miracle, oh say you will, ooh babe
+Hysteria when you're near
+Out of me, into you yeah
+You could hide it's just a one way street
+Oh, I believe I'm in you, yeah
+Open wide, that's right, dream me off my feet
+Oh, believe in me
+
+I gotta know tonight
+If you're alone tonight
+Can't stop this feeling
+Can't stop this fire
+
+
+
+
+
+Oh, I get hysterical, hysteria
+Oh can you feel it, do you believe it?
+It's such a magical mysteria
+When you get that feelin', better start believin'
+'Cos it's a miracle, oh say you will
+
+Ooh babe
+Hysteria when you're near
+Come on
+
+
+
+
+
+
+
+
 

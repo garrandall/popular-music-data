@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-the-way-god-planned-it-billy-preston
+lyrics_url: https://www.azlyrics.com/lyrics/billypreston/thatsthewaygodplanneditparts12.html
 name: That's The Way God Planned It
 rankings:
 - end_date: '1969-08-08'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
 ---
+
+Why can't we be humble
+Like the good Lord say?
+He promised to exalt us
+But love is the way
+
+How men be so greedy
+When there's so much left?
+All things are God-given
+And they all have been blessed
+
+That's the way God planned it
+That's the way God wants it to be
+That's the way God planned it
+That's the way God wants it to be
+
+Let not your heart be troubled
+Let mourning, sobbing cease
+Learn to help one another
+And live in perfect peace
+
+If we'd just be humble
+Like the good Lord say, yeah
+He promised to exalt us
+But love is the way
+
+That's the way God planned it
+That's the way God wants it to be
+You better believe me
+(That's the way God planned it)
+(That's the way God wants it to be)
+
+I hope you get this message
+Where you won't, others will
+You don't understand me
+But I'll love you still
+
+That's the way God planned it
+That's the way God wants it to be
+Yeah, yeah, yeah
+(That's the way God planned it)
+That's the way God wants it to be
+You better believe me
+
+That's the way God planned it
+That's the way God wants it to be
+That's the way God planned it
+That's the way God wants it to be
+That's the way God planned it
+That's the way God wants it to be
+
+
 

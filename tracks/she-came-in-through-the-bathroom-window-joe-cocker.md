@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-came-in-through-the-bathroom-window-joe-cocker
+lyrics_url: https://www.azlyrics.com/lyrics/joecocker/shecameinthroughthebathroomwindow.html
 name: She Came In Through The Bathroom Window
 rankings:
 - end_date: '1969-12-12'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+
+She came in through the bathroom window
+Protected by a silver spoon
+But now she sucks her thumb and wanders
+By the banks of her own lagoon
+
+Didn't anybody tell her?
+Didn't anybody see?
+Sunday's on the phone to Monday,
+Tuesday's on the phone to me
+
+She said she'd always been a dancer
+She worked at 15 clubs a day
+And though she thought I knew the answer
+Well I knew what I could not say.
+
+And so I quit the police department
+And got myself a steady job
+And though she tried her best to help me
+She could steal but she could not rob
+
+Didn't anybody tell her?
+Didn't anybody see?
+Sunday's on the phone to Monday,
+Tuesday's on the phone to me
+Oh yeah.
+
+
 

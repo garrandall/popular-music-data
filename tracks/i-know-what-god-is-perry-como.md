@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know-what-god-is-perry-como
+lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/ibelieveinmusic.html
 name: I Know What God Is
 rankings:
 - end_date: '1960-02-14'
@@ -15,4 +16,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
+
+I believe in music,  
+I believe in love, love, love! 
+I believe in music,  
+I believe in love! 
+
+Well I can just sit around makin' music all day long, 
+Long as I'm makin' music, I can't do nobody no wrong! 
+And who knows maybe someday I'll come up with a song, 
+That makes people want to stop their fussin' an' fightin' 
+Long enough to sing along! 
+
+I believe in music,  
+I believe in love... 
+I believe in music,  
+I believe in love! 
+
+Music is love, love is music, if you know what I mean, 
+People who believe in music are the happiest people I've ever seen! 
+So clap your hands an' stomp your feet, shake your tambourine, 
+(Lift your voices to the sky) God loves you when you sing! 
+
+I believe in music,  
+I believe in love... 
+
+I believe in music,  
+I believe in love! 
+
+Music is the universal language and love is the key, 
+To brotherhood an' peace an' understandin' to live in harmony! 
+So, take your brothers by the hand and sing along with me, 
+Find out what it really means to be young, rich an' free! 
+
+I believe in music,  
+I believe in love... 
+I believe in music,  
+I believe in love! 
+
+I believe in music,  
+I believe in love... 
+I believe in music,  
+I believe in love! 
+I believe in music,  
+I believe in love...
+
+
 

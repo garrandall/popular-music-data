@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: sunflower--spider-man--into-the-spider-verse--post-malone-swae-lee
+lyrics_url: https://www.azlyrics.com/lyrics/postmalone/sunflower.html
 name: 'Sunflower (Spider-Man: Into The Spider-Verse)'
 rankings:
 - end_date: '2018-11-09'
@@ -220,4 +221,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
+Ayy, ayy, ayy, ayy (ooh)
+Ooh, ooh, ooh, ohh (ooh)
+Ayy, ayy
+Ooh, ooh, ooh, ohh
 
+Needless to say, I keep in check
+She was a bad-bad, nevertheless (yeah)
+Callin' it quits now, baby, I'm a wreck (wreck)
+Crash at my place, baby, you're a wreck (wreck)
+
+Needless to say, I'm keepin' in check
+She was a bad-bad, nevertheless
+Callin' it quits now, baby, I'm a wreck
+Crash at my place, baby, you're a wreck
+
+Thinkin' in a bad way, losin' your grip
+Screamin' at my face, baby, don't trip
+Someone took a big L, don't know how that felt
+Lookin' at you sideways, party on tilt
+
+Ooh-ooh
+Some things you just can't refuse
+She wanna ride me like a cruise
+And I'm not tryna lose
+
+Then you're left in the dust
+Unless I stuck by ya
+You're a sunflower
+I think your love would be too much
+Or you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+You're the sunflower
+
+
+Every time I'm leavin' on you
+You don't make it easy, no, no
+Wish I could be there for you
+Give me a reason to go
+
+Every time I'm walkin' out
+I can hear you tellin' me to turn around
+Fightin' for my trust and you won't back down
+Even if we gotta risk it all right now, oh
+
+I know you're scared of the unknown (-known)
+You don't wanna be alone (alone)
+I know I always come and go (and go)
+But it's out of my control
+
+And you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+I think your love would be too much
+Or you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+You're the sunflower
+Yeah

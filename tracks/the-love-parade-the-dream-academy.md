@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-love-parade-the-dream-academy
+lyrics_url: https://www.azlyrics.com/lyrics/dreamacademy/theloveparade.html
 name: The Love Parade
 rankings:
 - end_date: '1986-04-25'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
 ---
+
+Look out of your window on any day
+From June to September the love parade's
+Out on the street where you live and you know
+It's just a matter of time before it takes over
+They've been married for so many years
+Now a young love serenade blows sweet nothing in her ear
+They're lonely together, when they're not apart
+It feels like she's holdin' on to someone else in the dark
+
+The love parade is on
+Even against all odds
+It'll go on forever
+The love parade
+The love parade
+Only matinee shows
+The love parade
+
+But if he could put himself into a different skin
+He'd be worryin' about what he'd let himself in for
+Hangin' in the air apparent
+A point of view almost transparent
+So you sold your soul for a pocket full of sweet talk
+Given up kisses at the end of a slow walk
+And when it's done you put your world back on
+'Cause she's otherwise engaged married to someone
+
+Oh the love parade goes on
+Even when you're gone
+It'll go on forever
+The love parade
+The love parade
+Only matinee shows
+The love parade
+
+Everybody knows
+The love parade
+Married to someone
+Married to someone oh
+Everybody knows
+Body everybody everybody every when
+
+This is dedicated to the one I love
+This is dedicated to the one I love
+This is dedicated to the one I love
+
+
+
 

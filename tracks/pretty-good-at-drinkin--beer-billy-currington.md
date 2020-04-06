@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-good-at-drinkin--beer-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/prettygoodatdrinkinbeer.html
 name: Pretty Good At Drinkin' Beer
 rankings:
 - end_date: '2010-06-25'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
 ---
+
+I wasn't born for diggin deep holes
+I'm not made for pavin long roads
+I aint cut out to climb high line poles
+But I'm pretty good at drinkin beer
+
+I'm not the type to work in a bank
+I'm no good at slappin on paint
+Don't have a knack for makin motors crank, no
+But I'm pretty good at drinkin beer
+
+So hand me one more
+That's what I'm here for
+I'm built for having a ball
+I love the nightlife
+I love my budlight
+I like 'em cold and tall
+
+I aint much for mowin thick grass
+I'm too slow for workin' too fast
+I don't do windows so honey don't ask
+But I'm pretty good at drinkin' beer
+
+A go getter maybe I'm not
+I'm not known for doin' a lot
+But I do my best work when the weather's hot
+I'm pretty good at drinkin' beer
+
+So hand me one more
+That's what I'm here for
+I'm built for having a ball
+I love the nightlife
+I love my budlight
+I like 'em cold and tall
+
+I wasn't born for diggin deep holes
+I'm not made for pavin long roads
+I aint cut out to climb high line poles
+But I'm pretty good at drinkin beer
+I'm pretty good at drinkin beer
+
+ So hand me one more boys...
+That's what I'm here for
+
+
 

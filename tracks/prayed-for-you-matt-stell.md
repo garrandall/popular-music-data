@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: prayed-for-you-matt-stell
+lyrics_url: https://www.azlyrics.com/lyrics/mattstell/prayedforyou.html
 name: Prayed For You
 rankings:
 - end_date: '2019-08-23'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
 ---
+
+I've never been one to ask for help
+If I need a mountain moved I move it myself
+I ain't the church pew regular, twice on Sunday
+Quote you the scripture kind
+I'm far from a preacher
+But I'm a believer
+
+'Cause every single day, before I knew your name
+I couldn't see your face, but I prayed for you
+Every heartbreak trail when all hope fell
+On the highway to hell, I prayed for you
+I kept my faith like that old King James
+Said I'm supposed to
+It's hard to imagine, bigger than I could fathom
+I didn't know you from Adam but I prayed for you
+
+For someone to love me like you do
+Graceful eyes to see me through
+A smile that steals me, a heart that heals me
+A touch that kills me too
+Baby your perfect, I guess the good Lord heard it
+
+'Cause every single day, before I knew your name
+I couldn't see your face, but I prayed for you
+Every heartbreak trail when all hope fell
+On the highway to hell, I prayed for you
+I kept my faith like that old King James
+Said I'm supposed to
+It's hard to imagine, bigger than I could fathom
+I didn't know you from Adam but I prayed for you
+
+Every single day, before I knew your name
+I couldn't see your face, but I prayed for you
+Every tail light fade in the goodbye rain
+Girl even today, I prayed for you
+I kept my faith like that old King James
+Said I'm supposed to
+It's hard to imagine, bigger than I could fathom
+I didn't know you from Adam but I prayed for you
+I prayed for you
+I prayed for you
+
+
 

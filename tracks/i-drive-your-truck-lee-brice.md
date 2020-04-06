@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-drive-your-truck-lee-brice
+lyrics_url: https://www.azlyrics.com/lyrics/leebrice/idriveyourtruck.html
 name: I Drive Your Truck
 rankings:
 - end_date: '2013-01-25'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
 ---
+
+Eighty-nine cents in the ash tray
+Half empty bottle of Gatorade rolling in the floorboard
+That dirty Braves cap on the dash
+
+Dog tags hangin' from the rear view
+Old Skoal can, and cowboy boots
+and a Go Army Shirt folded in the back
+
+This thing burns gas like crazy
+but that's alright
+People got their ways of coping
+Oh, and I've got mine
+
+I drive your truck
+I roll every window down
+And I burn up
+Every back road in this town
+I find a field, I tear it up
+'Til all the pain's a cloud of dust
+Yeah, sometimes I drive your truck
+
+I leave that radio playing
+That same ole country station where ya left it
+Yeah, man, I crank it up
+
+And you'd probably punch my arm right now
+If you saw this tear rollin' down on my face
+Hey, man, I'm tryna be tough
+
+And momma asked me this morning
+If I'd been by your grave
+But that flag and stone ain't where I feel you anyway
+
+I drive your truck
+I roll every window down
+And I burn up
+Every back road in this town
+I find a field, I tear it up
+'Til all the pain's a cloud of dust
+Yeah, sometimes I drive your truck
+
+I've cussed, I've prayed, I've said goodbye
+Shook my fist and asked God why
+These days when I'm missing you this much
+
+I drive your truck
+I roll every window down
+And I burn up
+Every back road in this town
+I find a field, I tear it up
+'Til all the pain's a cloud of dust
+Yeah, sometimes, brother, sometimes I drive your truck
+
+I drive your truck
+I hope you don't mind
+I hope you don't mind
+I drive your truck
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: skin-tight-ohio-players
+lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/skintight.html
 name: Skin Tight
 rankings:
 - end_date: '1974-09-13'
@@ -51,4 +52,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
 ---
+
+You are a bad bad Mrs.
+In them skin tight britches
+Runnin' folks in ditches
+Baby about to bust the stitches, yeah
+
+Skin tight (skin tight)
+Wow skin tight
+(Doo doo doo doo doo)
+Skin tight
+Hold tight!
+
+You are a real fine lady
+Though your walk's a little shady
+Step on the strip on time
+There's money you're bound to find, yeah
+
+Skin tight (skin tight)
+Skin tight, wow wow
+(Doo doo doo doo doo)
+Skin tight
+Ooh ooh
+Skin tight
+Doo doo doo doo doo
+Skin tight
+Ooh ooh
+Skin tight
+Doo doo doo doo doo
+Skin tight
+(Foxy foxy lady)
+Hold tight!
+
+Skin tight
+(Gone, gone, gone with your bad self)
+Skin tight
+(Walk that walk, talk that talk mama)
+
+Skin tight
+Doo doo doo doo doo
+(Hold me barely back girl)
+Doo doo doo doo doo 
+(Keep on steppin to me baby)
+
+Doo doo doo doo doo
+Hold tight
+(Get on down)
+
+Skin tight
+Skin tight
+Doo doo doo doo doo
+Skin tight
+Ooh ooh 
+
+Well well well well well
+Na na na na na na na na na 
+Hold tight 
+
+Skin tight
+Skin tight
+Doo doo doo doo doo
+Skin tight
+Ooh ooh 
+Na na na na na na na na na 
+
+Skin tight
+Skin tight
+Doo doo doo doo doo
+Skin tight
+Ooh ooh 
+
+Hold tight! (skin tight) 
+
+Skin tight
+Skin tight
+Doo doo doo doo doo
+Skin tight
+Ooh ooh 
+
+
 

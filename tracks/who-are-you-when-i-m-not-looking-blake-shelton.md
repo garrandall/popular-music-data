@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-are-you-when-i-m-not-looking-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/whoareyouwhenimnotlooking.html
 name: Who Are You When I'm Not Looking
 rankings:
 - end_date: '2010-11-26'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
 ---
+
+My oh my, you're so good-looking
+Hold yourself together like a pair of bookends
+But I've not tasted all your cooking
+Who are you when I'm not looking?
+
+Do you pour a little something on the rocks?
+Slide down the hallway in your socks?
+When you undress, do you leave a path?
+Then sink to your nose in a bubble bath?
+
+My oh my, you're so good-looking
+Hold yourself together like a pair of bookends
+But I've not tasted all your cooking
+Who are you when I'm not looking?
+
+I wanna know
+I wanna know
+I wanna know
+
+Do you break things when you get mad?
+Eat a box of chocolates 'cause you're feelin' bad?
+Do you paint your toes 'cause you bite your nails?
+Call up momma when all else fails?
+
+Who are you when I'm not around?
+When the door is locked and the shades are down?
+Do you listen to your music quietly?
+And when it feels just right, are you thinkin' of me?
+
+I wanna know
+I wanna know
+I wanna know
+
+My oh my, you're so good-looking
+But who are you when I'm not looking?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-to-hide-tommy-james
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjames/nothingtohide.html
 name: Nothing To Hide
 rankings:
 - end_date: '1971-12-03'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+
+Coming to carry, coming, sweet Mary.
+Lay down my body, my sins I will bare thee.
+Now I lay me down to sleep,
+Lord, I pray my soul to keep,
+When the bells a-ring out,
+I'm a gonna sing out.
+Mama, don't you, Mama, don't you,
+Mama, don't you weep no more.
+I know where I'm going.
+Got no hurry, no worry, nothing to hide.
+Now I lay me down to rest,
+When I know I've done my best,
+When my day is over,
+I'll be coming over.
+Mama, don't you, Mama, don't you,
+Mama, don't you weep no more.
+I know where I'm going.
+Got no hurry, no worry, nothing to hide.
+I've got nothing to hide, I'm satisfied,
+Gonna rest my soul on the other side.
+Coming to carry, coming, sweet Mary,
+Lay down my body, my sins I will bare thee.
+
+
+
 

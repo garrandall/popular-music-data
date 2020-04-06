@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-language-of-love-dan-fogelberg
+lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/thelanguageoflove.html
 name: The Language Of Love
 rankings:
 - end_date: '1984-02-10'
@@ -63,4 +64,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
 ---
+
+She says no
+When she means yes
+And what she wants
+You know that I can't guess
+When we want more
+You know we ask for less
+Such is the language of love
+
+I say leave
+When I mean stay
+But she don't see
+And so she moves away
+What we really want
+You know we rarely say
+Such is the language of love
+
+It's tooth for tooth
+And eye for eye
+We hide our hearts
+And then we won't say why
+It's truth for truth
+And lie for lie
+Such is the language of love
+
+One cries foul
+And will not speak
+The other claims a little victory
+And all the time
+You know we fail to see
+This is the language of love
+
+When a loves begins to wander
+No one ever knows
+But we feel it deep inside us
+Long before it shows
+Long before it shows
+
+We hem and haw
+We balk and bluff
+Our words don't ever 
+Seem to say enough
+But a simple smile
+A tender touch
+Speaks the true language of love
+
+When a loves begins to wander
+No one ever knows
+But we feel it deep inside us
+Long before it shows
+Long before it shows
+
+She says no
+When she means yes
+And what she wants
+You know that I can't guess
+When we want more
+You know we ask for less
+Such is the language of love
+Such is the language of love
+
+
 

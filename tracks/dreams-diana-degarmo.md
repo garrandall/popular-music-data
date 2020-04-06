@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreams-diana-degarmo
+lyrics_url: https://www.azlyrics.com/lyrics/dianadegarmo/dreams.html
 name: Dreams
 rankings:
 - end_date: '2004-07-23'
@@ -27,4 +28,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
 ---
+
+Dreams are just dreams
+When they're stuck inside your head
+And all it takes is a little help from you
+You know it's true
+That dreams are for real
+When you see what I see
+And you feel it too
+We took the longest road
+Just to make it harder
+Let's do it all again
+It only makes us stronger
+
+
+Dreams
+I guess we're just made of dream
+Nothin' else matters
+As long as we believe
+I'm lookin' at you
+And I see my life
+Passing before my eyes
+And when the journey's over
+And all my dreams come true
+I'll dream of you
+
+What do you see
+When you look inside your heart
+A little thought
+Can walk a thousand miles
+And change your life
+When dreams lead the way
+The impossible is suddenly in sight
+Every step you take
+Just brings it all together
+You gotta keep the faith
+When all seems lost forever
+
+
+
+You're the one
+That keeps my hope alive
+My vision clear
+I'll spend my life with you
+Conquer fear
+We'll make it through
+
+Nothin' else matters 
+As long as we believe
+I'm lookin' at you
+And I see my life
+Passing before my eyes
+And when the journey's over
+And all my dreams come true
+I'll dream of you
+I'll dream of you
+I'll dream of you
+
+
 

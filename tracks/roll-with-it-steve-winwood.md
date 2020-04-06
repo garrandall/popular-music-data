@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roll-with-it-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/rollwithit.html
 name: Roll With It
 rankings:
 - end_date: '1988-06-17'
@@ -79,4 +80,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
 ---
+
+When life is too much, roll with it, baby
+Don't stop and lose your touch, oh no, baby
+Hard times knocking on your door, I'll tell them you ain't there no more
+
+Get on through it, roll with it, baby
+Luck'll come and then slip away, you've gotta move, bring it back to stay
+
+You just roll with it, baby, come on and just roll with it, baby
+You and me, roll with it, baby, hang on and just roll with it, baby
+
+The way that you love is good as money
+I swear by stars above, sweet as honey
+People think you're down and out, you show them what it's all about
+You can make it, roll with it, baby
+When this world turns its back on you, hang in and do that sweet thing you do
+
+You just roll with it, baby, you just roll with it, baby
+Come on and just roll with it, baby, you and me, just roll with it, baby
+
+Now there'll be a day you'll get there, baby, you'll hear the music play, you'll dance, baby
+You'll leave bad times way behind, nothing but good times on your mind
+You can do it, roll with it, baby
+Then you'll see life will be so nice, it's just a step up to paradise
+You just roll with it, baby, you just roll with it, baby
+You and me, just roll with it, baby, Come on and just roll with it, baby
+
+
 

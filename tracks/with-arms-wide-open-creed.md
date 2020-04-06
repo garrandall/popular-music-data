@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-arms-wide-open-creed
+lyrics_url: https://www.azlyrics.com/lyrics/creed/witharmswideopen.html
 name: With Arms Wide Open
 rankings:
 - end_date: '2000-05-19'
@@ -195,4 +196,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
 ---
+
+Well I just heard the news today
+It seems my life is gonna change
+I close my eyes, begin to pray
+Then tears of joy stream down my face
+
+With arms wide open
+Under the sunlight
+Welcome to this place
+I'll show you everything
+With arms wide open
+With arms wide open
+
+Well I don't know if I'm ready
+To be the man I have to be
+I'll take a breath, I'll take her by my side
+We stand in awe, we've created life
+
+With arms wide open
+Under the sunlight
+Welcome to this place
+I'll show you everything
+With arms wide open
+Now everything has changed
+I'll show you love
+I'll show you everything
+
+With arms wide open
+With arms wide open
+I'll show you everything
+With arms wide open, wide open
+
+If I had just one wish
+Only one demand
+I hope he's not like me
+I hope he understands
+That he can take this life
+And hold it by the hand
+And he can greet the world
+With arms wide open
+
+With arms wide open
+Under the sunlight
+Welcome to this place
+I'll show you everything
+With arms wide open
+Now everything has changed
+I'll show you love
+I'll show you everything
+With arms wide open
+With arms wide open
+
+I'll show you everything
+With arms wide open, wide open
+
+
 

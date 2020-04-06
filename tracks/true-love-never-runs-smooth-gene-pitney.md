@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-love-never-runs-smooth-gene-pitney
+lyrics_url: https://www.azlyrics.com/lyrics/genepitney/trueloveneverrunssmooth.html
 name: True Love Never Runs Smooth
 rankings:
 - end_date: '1963-07-12'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
 ---
+
+Stand beside me all the while no matter what goes wrong
+Separately we're weak, together we'll be strong
+
+For true love never runs smooth,
+But I don't care, 'cause
+True love is worth all the pain,
+The heartaches and tears that we may share
+
+When the world outside my arms is pulling us apart
+Press your lips to mine and hold me with your heart
+
+For true love never runs smooth,
+That's what they say,
+But true love is worth all the pain,
+The heartaches and tears we have to face
+
+For true love never runs smooth,
+That's what they say, but
+True love is worth all the pain,
+The heartaches and tears we have to face
+
+
 

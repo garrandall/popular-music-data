@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cochise-audioslave
+lyrics_url: https://www.azlyrics.com/lyrics/audioslave/cochise.html
 name: Cochise
 rankings:
 - end_date: '2002-11-29'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
+
+Well, I've been watching, while you've been coughing.
+I've been drinking life, while you've been nauseous.
+And so I drink to health, while you kill yourself.
+And I've got just one thing that I can offer,
+
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me. Yeah.
+
+I'm not a martyr, I'm not a prophet,
+And I won't preach to you, but here's a caution;
+You better understand, that I won't hold your hand,
+But if it helps you mend, then I won't stop it.
+
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me. Yeah.
+
+Drown if you want, and I'll see you at the bottom,
+Where you'll crawl on my skin and put the blame on me, so you don't feel a thing.
+
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me.
+Go on and save yourself, and take it out on me. Yeah.
+
+
 

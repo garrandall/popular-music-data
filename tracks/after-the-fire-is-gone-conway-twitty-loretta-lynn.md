@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: after-the-fire-is-gone-conway-twitty-loretta-lynn
+lyrics_url: https://www.azlyrics.com/lyrics/darylesingletary/afterthefireisgone.html
 name: After The Fire Is Gone
 rankings:
 - end_date: '1971-03-05'
@@ -32,4 +33,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
 ---
+
+Love is where you find it
+When you find no love at home
+And there's nothing cold as ashes
+After the fire is gone
+
+The bottle is almost empty
+The clock just now struck ten
+Darling, I had to call you
+To our favorite place again
+
+We know it's wrong for us to meet
+But the fires gone out at home
+And there's nothing cold as ashes
+After the fire is gone
+
+Love is where you find it
+When you find no love at home
+And there's nothing cold as ashes
+After the fire is gone
+
+Your lips are warm and tender
+Your arms hold me just right
+Sweet words of love you remember
+That the one at home forgot
+
+Each time we say it's the last time
+Oh but we keep hanging on
+And there's nothing cold as ashes
+After the fire is gone
+
+Love is where you find it
+When you find no love at home
+And there's nothing cold as ashes
+After the fire is gone
+No there's nothing cold as ashes
+After the fire is gone
+
+
 

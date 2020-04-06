@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: golden-years-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/goldenyears.html
 name: Golden Years
 rankings:
 - end_date: '1975-12-19'
@@ -91,4 +92,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
 ---
+
+Golden years, gold, whop, whop, whop
+Golden years, gold, whop, whop, whop
+Golden years, gold, whop, whop, whop
+
+Don't let me hear you say life's
+Taking you nowhere
+Angel
+
+Come get up my baby
+Look at that sky, life's begun
+Nights are warm and the days are young
+Come get up my baby
+
+There's my baby lost that's all
+Once I'm begging
+You save her little soul
+Golden years, gold, whop, whop, whop
+Come get up my baby
+
+Last night they loved you
+Opening doors
+And pulling some strings, angel
+Come get up my baby
+In walked luck and you looked in time
+Never look back, walk tall
+Act fine
+Come get up my baby
+
+I'll stick with you baby for a thousand years
+Nothing's gonna touch you in these golden years, gold
+Golden years, gold whop whop whop
+Come get up my baby
+
+Some of these days, and it won't be long
+Gonna drive back down
+Where you once belonged
+In the back of a dream car
+Twenty foot long
+Don't cry my sweet
+Don't break my heart
+Doing all right
+But you gotta get smart
+Wish upon, wish upon, day upon day, I believe oh Lord
+I believe all the way
+Come get up my baby
+Run for the shadows, run for the shadows
+Run for the shadows in these golden years
+
+There's my baby lost that's all
+Once I'm begging
+You save her little soul
+Golden years, gold, whop, whop, whop
+Come get up my baby
+
+Don't let me hear you say life's
+Taking you nowhere
+Angel
+
+Come get up my baby
+Run for the shadows, run for the shadows
+Run for the shadows in these golden years
+
+I'll stick with you baby for a thousand years
+Nothing's gonna touch you in these golden years, gold
+Golden years, gold whop whop whop 
+
+
 

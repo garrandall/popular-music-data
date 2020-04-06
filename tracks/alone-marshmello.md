@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-marshmello
+lyrics_url: https://www.azlyrics.com/lyrics/marshmello/alone.html
 name: Alone
 rankings:
 - end_date: '2016-11-11'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
 ---
+
+I'm so alone
+Nothing feels like home
+I'm so alone
+Trying to find my way back home to you
+
+I'm so alone
+Nothing feels like home
+I'm so alone
+Trying to find my way back home to you
+
+I'm so alone
+Trying to find my way back home to you
+
+I'm so alone
+Nothing feels like home
+I'm so alone
+Trying to find my way back home to you
+
+I'm so alone
+Nothing feels like home
+I'm so alone
+Trying to find my way back home to you
+
+I'm so alone
+Trying to find my way back home to you
+
+
 

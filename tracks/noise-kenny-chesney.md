@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: noise-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/noise.html
 name: Noise
 rankings:
 - end_date: '2016-04-22'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
 ---
+
+Wrecking balls, downtown construction
+Bottles breaking, jukebox buzzing
+Cardboard sign says "The Lord is Coming"
+Tick, tick, tock
+Rumors turn the mills back home
+Parking lot kids with the speakers blown
+We didn't turn it on but we can't turn it off, off, off
+Sometimes I wonder how did we get here
+Seems like all we ever hear is noise
+
+Yeah we scream, yeah we shout 'til we don't have a voice
+In the streets, in the crowds, it ain't nothing but noise
+Drowning out all the dreams of this Tennessee boy
+Just tryin' to be heard in all this noise
+
+24 hour television, get so loud that no one listens
+Sex and money and politicians talk, talk, talk
+But there really ain't no conversation
+Ain't nothing left to the imagination
+Trapped in our phones and we can't make it stop, stop this noise
+
+Yeah we scream, yeah we shout 'til we don't have a voice
+In the streets, in the crowds, it ain't nothing but noise
+Drowning out all the dreams of this Tennessee boy
+Just tryin' to be heard in all this noise
+
+Every room, every house, every shade of noise
+All the floors, all the walls, they all shake with noise
+We can't sleep, we can't think, can't escape the noise
+We can't take the noise, so we just make noise
+
+Yeah we scream, yeah we shout 'til we don't have a voice
+In the streets, in the crowds, it ain't nothing but noise
+Drowning out all the dreams of this Tennessee boy
+Just tryin' to be heard in all this noise
+
+All this noise
+Can't take the noise
+Can't take the noise
+Can't stand the noise
+Can't take the noise
+
+
 

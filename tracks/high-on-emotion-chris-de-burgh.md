@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-on-emotion-chris-de-burgh
+lyrics_url: https://www.azlyrics.com/lyrics/chrisdeburgh/highonemotion.html
 name: High On Emotion
 rankings:
 - end_date: '1984-07-06'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
 ---
+
+Oh my heart is spinning like a wheel,
+Only she can see the way that I fell,
+Eyes are holding right across the room,
+High explosion coming out of the blue;
+
+Well here we go again,
+Living in a world that others cannot share,
+Yea here we go again,
+We are moving from a spark to a flame;
+
+I am high on emotion, high again,
+High on emotion, your love will find the way;
+
+Oh my heart is burning like a fire,
+Closer now and she is breathing desire,
+Take my hand and give it all your light,
+Take command I am your rhythm tonight;
+
+Well here we go again,
+Living in a world that others cannot share,
+Yea here we go again,
+We are moving from a spark to a flame;
+
+I am high on emotion, high again,
+High on emotion, your love will find the way;
+
+I am high on emotion, high again,
+High on emotion, your love will find the way;
+High on emotion, high again,
+High on emotion, your love will find the way.
+
+
 

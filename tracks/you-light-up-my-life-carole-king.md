@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-light-up-my-life-carole-king
+lyrics_url: https://www.azlyrics.com/lyrics/caroleking/youlightupmylife.html
 name: You Light Up My Life
 rankings:
 - end_date: '1973-07-20'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
 ---
+
+You light up my life like sunrise in the morning
+You make me believe anything is possible
+I didn't have a dream to my name
+Darkness was mine, it was such a shame
+But you came to light up my life
+You brought me faith and hope and love and light
+
+With your tender smile you brought me to the promise
+Of life outside a world of 9-to-5 and Sunday
+I didn't know how rich I could be
+Until you gave your love to me
+Don't you see, you light up my life
+You give me faith and hope and love and light
+
+You brought your sweet understanding
+Like sun rays in my hazy skies
+If you hadn't opened up my eyes
+Love would have passed me by, right on by
+
+I never knew how good I could feel
+Loving you's left me with nothing to conceal
+Yeah - you really light up my life
+You give me faith and hope and love and light
+
+
 

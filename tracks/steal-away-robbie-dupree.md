@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steal-away-robbie-dupree
+lyrics_url: https://www.azlyrics.com/lyrics/billycrawford/stealaway.html
 name: Steal Away
 rankings:
 - end_date: '1980-04-18'
@@ -99,4 +100,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+
+C'mon and hold me
+Just like you told me
+Then show me
+What I want to know
+
+Why don't we steal away
+Why don't we steal away
+Into the night
+I know it ain't right
+
+Tease me
+Why don't you please me
+Then show me
+What you came here for
+
+Why don't we steal away
+Why don't we steal away
+Into the night
+I know it ain't right
+
+Into the night, babe
+Baby tonight
+Make it tonight
+Ooh...
+
+I caught you glancing my way
+And I know what you're after
+
+Why... don't we steal away
+Why don't we steal away
+Why don't we steal away
+Why don't we steal away
+Into the night
+I know it ain't right
+Into the night
+I know it ain't right
+...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tryin--to-live-my-life-without-you-bob-seger
+lyrics_url: https://www.azlyrics.com/lyrics/bobseger/tryintolivemylifewithoutyou.html
 name: Tryin' To Live My Life Without You
 rankings:
 - end_date: '1981-09-18'
@@ -83,4 +84,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
 ---
+
+I used to smoke five packs of cigarettes a day
+It was the hardest thing to put them away
+I drank four or five bottles of wine
+I kept a glass in my hand all the time
+
+Breakin' those habits
+Was hard to do
+But nothin' compared to the changes
+That you put me through
+
+Tryin' to live my life without you babe
+It's the hardest thing I'll ever do
+Tryin' to forget the love we once shared
+It was the hardest burden I'll ever bear
+
+I had the worst reputation in town
+For chasing all the women around
+I thought changin' my way of living was hard to do
+But it's nothin' compared to the changes that you put me through
+
+I've done everything I tried to do
+But it's gonna take a miracle to get me over you
+
+Tryin' to live my life without you babe
+It's the hardest thing I'll ever do
+Tryin' to forget the love we once shared
+It's the hardest burden I'll ever bear
+
+
 

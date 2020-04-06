@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-rest-of-mine-trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/therestofmine.html
 name: The Rest Of Mine
 rankings:
 - end_date: '1997-10-24'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
 ---
+
+There's no guarantee that we'll see tomorrow
+Heaven only knows how long we have
+So there's no way I'll ever for one second let you wonder
+Just how long my love for you will last
+
+'Til my last breath, 'til I'm called on high
+'Til the angels come and I see the light
+To the very end, 'til I give in
+To the last beat of my heart
+No I can't swear that I'll be here for the rest of your life
+But I swear I'll love you for the rest of mine
+
+'Til my last breath, 'til I'm called on high
+'Til the angels come and I see the light
+To the very end, 'til I give in
+To the last beat of my heart
+No I can't swear that I'll be here for the rest of your life
+But I swear I'll love you for the rest of mine
+
+No I can't swear that I'll be here for the rest of your life
+But I swear I'll love you for the rest of mine
+
+
 

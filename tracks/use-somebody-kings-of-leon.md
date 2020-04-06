@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: use-somebody-kings-of-leon
+lyrics_url: https://www.azlyrics.com/lyrics/kingsofleon/usesomebody.html
 name: Use Somebody
 rankings:
 - end_date: '2008-10-17'
@@ -235,4 +236,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
 ---
+
+I've been roaming around
+Always looking down at all I see
+Painted faces, fill the places I can't reach
+
+You know that I could use somebody
+You know that I could use somebody
+
+Someone like you, and all you know, and how you speak
+Countless lovers under cover of the street
+
+You know that I could use somebody
+You know that I could use somebody
+Someone like you
+
+Off in the night, while you live it up, I'm off to sleep
+Waging wars to shape the poet and the beat
+I hope it's gonna make you notice
+I hope it's gonna make you notice
+
+Someone like me
+Someone like me
+Someone like me, somebody
+
+I'm ready now 
+
+Someone like you, somebody 
+
+I've been roaming around
+Always looking down at all I see
+
+
 

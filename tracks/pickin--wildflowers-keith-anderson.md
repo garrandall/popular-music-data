@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pickin--wildflowers-keith-anderson
+lyrics_url: https://www.azlyrics.com/lyrics/keithanderson/pickinwildflowers.html
 name: Pickin' Wildflowers
 rankings:
 - end_date: '2005-06-10'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
 ---
+
+Hey baby whatcha doin' this evening?
+Can you meet me down at the railroad tracks?
+I got Tom Petty playin' in my Silverado,
+And I iced down a six-pack.
+
+Hey Daisy don't you worry 'bout your mama,
+Like 007 we can keep it covert.
+Undercover on the ground by the water
+Gonna get a little peace... on earth.
+
+
+Baby whatcha say we go pickin' wildflowers?
+Got a spot way back in the woods. 
+Sneak away for a couple of hours,
+You and me baby, pickin' wildflowers.
+
+Hey baby, Mother Nature is waitin'
+And love's bloomin' like a cherry tree.
+Let's buzz around, maybe do some pollenating,
+Dive on in like honey bees.
+
+
+
+Take a trail ride if you know what I mean.
+Hey baby won't you come with me?
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-to-live-sammy-hagar
+lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/givetolive.html
 name: Give To Live
 rankings:
 - end_date: '1987-06-26'
@@ -75,4 +76,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
 ---
+
+Ooh, I can see that you've got fire in your eyes
+And pain inside your heart
+So many things have come and torn your world apart
+
+Oh baby, baby, baby
+Don't give up
+Don't give up
+Don't give up
+
+(If you want love) 
+If you want love, you've got to give a little 
+(If you want love)
+If you want faith, you just believe a little 
+(If you want love)
+If you want peace, turn your cheek a little
+
+Oh, you've got to give
+You've got to give
+You've got to give to live
+
+An empty hand reaching out for someone
+An empty heart takes so little to fill
+It's so much easier to push instead of pull
+
+Oh baby, baby, baby
+Don't give up
+Don't give up
+Don't give up
+
+(If you want love) 
+If you want love, you've got to give a little
+(If you want love)
+If you want faith, you just believe a little
+(If you want love)
+If you want peace, turn your cheek a little
+
+Oh, you've got to give 
+You've got to give 
+You've got to give to live
+
+Each man's a country in his own right
+Oh, everybody needs a friend
+One friend, one God, one country
+No man need defend, yeah
+
+I believe in fate and destination 
+But so much of that lies in our own hands
+If you know what you want, just go on out and get it
+
+Oh baby, baby
+Just don't give up, no, no
+Don't give up, yeah, yeah
+
+(If you want love)
+If you want love, you've got to give a little 
+(If you want love)
+If you want faith, you just believe a little 
+(If you want love) 
+If you want peace, turn your cheek a little
+
+Oh, if you want love, you've got to give 
+(If you want love) oh, give to live 
+(If you want love) you've got to give
+You've got to give, you've got to give to live
+(If you want love)
+
+(If you want love) oh, oh
+(If you want love) oh, oh
+(If you want love) oh, oh
+(If you want love) oh, oh
+
+
 

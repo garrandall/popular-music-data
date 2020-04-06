@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: constantly-immature
+lyrics_url: https://www.azlyrics.com/lyrics/immature/constantly.html
 name: Constantly
 rankings:
 - end_date: '1994-12-02'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
 ---
+
+
+Constantly
+Constantly
+Constantly
+I think about you all the time
+Constantly your on my mind
+
+
+At night I try
+To close my eyes
+But I, I cant get much sleep
+You're always on my mind
+You look so fine
+Often pretend
+That your my girl
+Or at least my friend
+
+
+If you could read my mind
+The only thing you'd find is you
+Girl don't you know
+I long to be with you
+Every single way of every single day
+I start drifting away
+And I think of you
+
+
+Constantly
+I've got you on my mind (Constantly babe)
+Constantly
+And not just all the time, i think about you
+Constantly
+If you only knew
+I'm crazy for you
+I think about you all the time
+Constantly your on my mind
+
+
+I practice my words
+And I build up the nerve
+But uh
+Words disappear whenever you are near
+I catch your eye
+Time after time
+Is love in the air
+Or is it all in my mind
+
+
+If you could read my mind
+The only thing you'd find is you
+Girl don't you know
+I long to be with you
+Every single way of every single day
+I start drifting away
+And I think of you
+
+
+Constantly
+Your always on my mind
+Constantly
+And not just all the time, I think about you
+Constantly
+Oh if you only knew
+I'm crazy for you
+I think about you all the time
+Constantly your on my mind
+
+I think about you baby
+
+Your always on my mind
+Constantly (OoOh Yeah Constantly Baby)
+Constantly (Whoa I think about you, I think about you)
+Constantly (When I wake up in the morning, When I go to bed at night..)
+Constantly (I think about you all the time, Constantly your on my mind)
+Constantly (yeah yeah yeah, constantly I want you baby, please come to me)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: climax-usher
+lyrics_url: https://www.azlyrics.com/lyrics/usher/climax.html
 name: Climax
 rankings:
 - end_date: '2012-03-16'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
 ---
+
+Going nowhere fast. Weâve reached the climax.
+Were together now weâre undone.
+Wonât commit so we choose to run away.
+Do we separate?
+Donât wanna give in so we both gave up.
+Canât take it back. Itâs too late.
+Weâve reached the climax, climax.
+
+I've fallen somehow, feet off the ground
+Love is the cloud that keeps raining down.
+Where are you now? When I need you around
+I'm on my knees but it seems we're
+
+Going nowhere fast. Weâve reached the climax.
+Were together now weâre undone.
+Wonât commit so we choose to run away.
+Do we separate?
+Donât wanna give in so we both gave up.
+Canât take it back. Itâs too late.
+Weâve reached the climax, climax.
+
+I gave my best, it wasn't enough
+You get upset, we argue too much
+We made a mess of what used to be love.
+So why do I care, I care at all, at all, at all, at all
+
+Going nowhere fast. Weâve reached the climax.
+Were together now weâre undone.
+Wonât commit so we choose to run away.
+Do we separate?
+Donât wanna give in so we both gave up.
+Canât take it back. Itâs too late.
+Weâve reached the climax, climax.
+
+You say itâs better if we love each other separately.
+I just need you one more time
+I canât get what we had off my mind,
+Where are you now? When I need you around
+I'm on my knees but it seems we're...
+
+Going nowhere fast. Weâve reached the climax.
+Were together now weâre undone.
+Wonât commit so we choose to run away.
+Do we separate?
+Donât wanna give in so we both gave up.
+Canât take it back. Itâs too late.
+Weâve reached the climax, climax.
+
+
 

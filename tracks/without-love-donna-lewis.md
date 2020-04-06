@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-love-donna-lewis
+lyrics_url: https://www.azlyrics.com/lyrics/donnalewis/withoutlove.html
 name: Without Love
 rankings:
 - end_date: '1996-12-20'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
+
+Think of me like I think about you 
+Give me a sign, show me you care 
+Am I so far away in your thoughts not there
+forget what you told me, it's what didn't get said 
+It's not much to ask, come down off your cloud 
+and with your feet on the ground say something out loud
+
+Without love, I mean nothing to you
+Without love, broken in two 
+Without love, give me some value, some worth
+Without love, no life left on Earth 
+
+Blame it on work, buy me some flowers
+Empty gestures wile away the hours 
+Promises, promises sealed with a kiss 
+Please acknowledge it's me that you miss 
+No message received, excuses believed, you hurt me so much
+I'll never recover, takes time to discover a love like no other 
+
+Without love, I mean nothing to you
+Without love, broken in two 
+Without love, give me some value, some worth
+Without love, no life left on Earth
+
+Without love, I mean nothing to you
+Without love
+Without love, I mean nothing to you
+Without love
+I mean nothing, I mean nothing, I mean nothing, nothing to you
+And I'm broken, and I'm broken, broken in two
+I mean nothing
+Yeah
+
+
 

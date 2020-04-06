@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-case-of-loving-you--doctor-doctor--robert-palmer
+lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/badcaseoflovingyoudoctordoctor.html
 name: Bad Case Of Loving You (Doctor Doctor)
 rankings:
 - end_date: '1979-07-27'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+
+A hot summer night fell like a net
+I've gotta find my baby yet
+I need you to soothe my head
+Turn my blue heart to red
+
+Doctor Doctor, gimme the news I got a
+Bad case of lovin' you
+No pill's gonna cure my ill I've got a
+Bad case of lovin' you
+
+A pretty face don't make no pretty heart
+I learned that buddy from the start
+You think I'm cute, a little bit shy
+Mama, I ain't that kind of guy
+
+Doctor Doctor, gimme the news I got a
+Bad case of lovin' you
+No pill's gonna cure my ill I got a
+Bad case of lovin' you
+
+I know you like it, you like it on top
+Tell me mama, are you gonna stop?
+
+You had me down twenty-one to zip
+Smile of Judas on your lip
+Shake my fist, knock on wood
+I've got it bad, and I got it good
+
+Doctor Doctor, gimme the news I've got a
+Bad case of lovin' you
+No pill's gonna cure my ill I got a
+Bad case of lovin' you
+
+
 

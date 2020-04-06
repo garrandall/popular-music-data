@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-woman-in-the-world-air-supply
+lyrics_url: https://www.azlyrics.com/lyrics/airsupply/everywomanintheworld.html
 name: Every Woman In The World
 rankings:
 - end_date: '1980-10-31'
@@ -95,4 +96,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
 ---
+
+Over night scenes, dinner and wine
+Saturday girls
+I was never in love, never had the time
+In my hustle and hurry world
+Laughing myself to sleep, waking up lonely
+I needed someone to hold me, oh
+
+It's such a crazy old town, it can drag you down
+Till you run out of dreams
+So you party all night to the music and lights
+But you don't know what happiness means
+I was dancin' in the dark with strangers
+No love around me, when suddenly you found me, oh
+
+
+Girl you're ev'ry woman in the world to me
+You're my fantasy, you're my reality
+Girl you're ev'ry woman in the world to me
+You're ev'rything I need
+You're ev'rything to me, oh girl
+
+Ev'rything good, ev'rything fine
+That's what you are
+So put your hand in mine and together
+We'll climb as high as the highest star
+I'm living a lifetime in ev'ry minute that we're together
+And I'm stayin' right here forever oh
+
+
+
+
 

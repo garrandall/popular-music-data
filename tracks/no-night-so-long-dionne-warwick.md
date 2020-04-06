@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-night-so-long-dionne-warwick
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/nonightsolong.html
 name: No Night So Long
 rankings:
 - end_date: '1980-08-01'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
 ---
+
+An old friend told me that you just ran out of chances
+One too many dances down the narrow street of time
+Remember how we faced the world like two tramps shining
+Please don't let that magic ever end
+Don't forget what we learned living on the wind
+
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+Call on me like you used to do
+I still can show you who you are
+
+That day the long and dusty road had us both crying
+We used up our last joke just to try and smile again
+And only now I find I know what we were learning
+Though it's dark and you have traveled far
+Every long night gives you one bright shining star
+
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+Call on me like you used to do
+I still can show you who you are
+
+Deep in the night you know that you'll find
+Deep in the night you know that you'll find the way
+
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+Call on me like you used to do
+I still can show you who you are
+
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+No night so long that you can't find the day
+No day so wrong that you can't find your way
+
+
 

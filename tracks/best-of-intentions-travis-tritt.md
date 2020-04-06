@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-of-intentions-travis-tritt
+lyrics_url: https://www.azlyrics.com/lyrics/travistritt/bestofintentions.html
 name: Best Of Intentions
 rankings:
 - end_date: '2000-08-25'
@@ -95,4 +96,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
 ---
+
+I had big plans for our future,
+Said I'd give you the whole world somehow
+I tried makin' good on that promise,
+Thought I'd be so much further by now
+Never could build you a castle,
+Even though you're the queen of my heart
+But I've had the best of intentions from the start
+
+Now some people think I'm a loser,
+Cause I seldom get things right
+But you make me feel like a winner,
+When you wrap me in your arms so tight
+Please tell me you will remember,
+No matter how much I do wrong
+That I had the best of intentions all along
+
+
+I'd gave you a ring, and I promised you things
+I always thought we'd do
+
+But my best-laid plans slipped right through my hands
+to show my love for you.
+And if you could read my heart,
+then you'd know without exception
+It was all with the best of_ intentions
+
+
+
+
+
+So here I am asking forgiveness,
+and praying that you'll understand
+Don't think I take you for granted,
+girl I know just how lucky I am
+Though you deserve so much better,
+you won't find devotion more true
+Cause I've had the best of intentions
+Girl I've had the best of intentions,
+Yes, I've had the best of intentions
+loving you
+
+
 

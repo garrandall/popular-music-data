@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-like-oxygen-sweet
+lyrics_url: https://www.azlyrics.com/lyrics/sweet/loveislikeoxygen.html
 name: Love Is Like Oxygen
 rankings:
 - end_date: '1978-02-24'
@@ -107,4 +108,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Time on my side
+I got it all
+I heard that pride
+Always comes before a fall
+There's a rumour goin' 'round the town
+That you don't want me around
+I can't shake off my city blues
+Everywhere I turn, I lose
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Time is no healer
+If you're not there
+Lonely fever
+Sad words in the air
+Some things are better left unsaid
+I'm gonna spend my days in bed
+I'll walk the streets at night
+To be hidden by the city lights, city lights
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Love is like oxygen
+You get too much, you get too high
+Not enough and you're gonna die
+Love gets you high
+
+Love is like oxygen...
+
+
 

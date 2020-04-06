@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-no-easy-way-james-ingram
+lyrics_url: https://www.azlyrics.com/lyrics/jamesingram/theresnoeasyway.html
 name: There's No Easy Way
 rankings:
 - end_date: '1984-04-13'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
 ---
+
+I held her close to me
+'Cause I know she breaks so easily
+And then I told her
+But I knew no matter how I tried to console her
+She'd just do the best she could
+But there are times the best in no damn good
+And no matter how you try to be kind
+There's always still a part of you you leave behind
+When it falls apart
+
+
+There's no easy way to break somebody's heart
+
+I lied and told her she'd be fine
+Though we both knew it was just a line
+I had to do it
+'Cause I'd a' said anything to help me get through it
+
+Then she reached out for my hand 
+And her simple touch was more than I could stand
+And I had to turn away
+'Cause I knew all the hurt 
+That she was feeling I was feeling too
+'Cause when it falls apart
+
+
+There's no easy way to break somebody's heart
+
+She could've gotten angry
+And made me feel like a guilty child
+But I realized that never was her style
+I wanted her to hurt me
+And not treat me like a friend
+I wanted her to say there'd be someday
+I'm come crawling on my knees to ask her back again
+But she acted like a lady 'til the end
+Oh, what a lady
+
+I thought that she'd break down
+But she smiled at me and never made a sound
+And I guess she understood in her way
+Cause her silence told me everything she could not say
+When it falls apart
+There's just no easy way
+
+
+There's just no easy way
+There's just no easy way to break somebody's heart.
+
+
 

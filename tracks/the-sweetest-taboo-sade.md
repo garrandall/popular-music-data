@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sweetest-taboo-sade
+lyrics_url: https://www.azlyrics.com/lyrics/sade/thesweetesttaboo.html
 name: The Sweetest Taboo
 rankings:
 - end_date: '1985-11-29'
@@ -95,4 +96,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
 ---
+
+If I tell you
+If I tell you now
+Will you keep on
+Will you keep on loving me
+If I tell you
+If I tell you how I feel
+Will you keep bringing out the best in me 
+You give me, you give me the sweetest taboo
+You give me, you're giving me the sweetest taboo
+Too good for me 
+
+There's a quiet storm
+And it never felt like this before
+There's a quiet storm
+That is you
+There's a quiet storm
+And it never felt this hot before
+Giving me something that's taboo
+(Sometimes I think you're just too good for me) 
+
+You give me the sweetest taboo
+That's why I'm in love with you
+You give me the sweetest taboo
+Sometimes I think you're just too good for me 
+
+I'd do anything for you, I'd stand out in the rain
+Anything you want me to do, don't let it slip away 
+
+There's a quiet storm
+And it never felt like this before
+There'a a quiet storm
+I think it's you
+There'a a quiet storm
+And I never felt this hot before
+Giving me something that's taboo 
+
+You give me the sweetest taboo
+That's why I'm in love with you
+You give me, you're giving me the sweetest taboo
+Too good for me 
+
+You've got the biggest heart
+Sometimes I think you're just too good for me
+Every day is Christmas, and every night is new years eve 
+
+Will you keep on loving me
+Will you keep on, will you keep on
+Bringing out the best in me
+
+
 

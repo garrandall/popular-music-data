@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-could-never-miss-you--more-than-i-do--lulu
+lyrics_url: https://www.azlyrics.com/lyrics/lulu/icouldnevermissyoumorethanido.html
 name: I Could Never Miss You (More Than I Do)
 rankings:
 - end_date: '1981-08-07'
@@ -79,4 +80,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
 ---
+
+Finders not keepers, and all that's left is just reminders,
+Love in pieces, the debris and the dust of memories,
+That linger so long, the heartaches that keep hanging on,
+Just wondering where it all went wrong and whether I can start anew,
+Oh but I could never miss you more than I do,
+
+Loving you like this oh I could never miss you more than I do,
+Loving you like this oh I could never miss you more than I do,
+
+Beggers can't be choosers, and I've had my share of backing nothing,
+But losers, but if I searched the whole world over, from pillar to post,
+Your the one that I need the most, if I combed this land from coast to
+Coast who would take the place of you,
+Cause I could never miss you more than I do.
+
+Loving you like this oh I could never miss you more than I do,
+Loving you like this oh I could never miss you more than I do,
+
+I couldn't love you any better, I couldn't love you any more, cause I
+Spend each and every second each and every hour hoping you'll be at my door.
+
+Loving you like this oh I could never miss you more than I do,
+Loving you like this oh I could never miss you more than I do,
+Loving you like this oh I could never miss you more than I do,
+Loving you like this oh I could never miss you more than I do.
+
+
 

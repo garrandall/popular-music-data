@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-sweet-lady-john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/mysweetlady.html
 name: My Sweet Lady
 rankings:
 - end_date: '1977-03-18'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
 ---
+
+Lady, are you crying, do the tears belong to me
+Did you think our time together was all gone
+Lady, you've been dreaming. I'm as close as I can be
+And I swear to you our time has just begun
+Close your eyes and rest your weary mind
+I promise I will stay right here beside you
+Today our lives were joined, became entwined
+I wish that you could know how much I love you
+
+Lady, are you happy, do you feel the way I do
+Are there meanings that you've never seen before
+Lady, my sweet lady, I just can't believe it's true
+And it's like I've never ever loved before
+Close your eyes and rest your weary mind
+I promise I will stay right here beside you
+Today our lives were joined, became entwined
+I wish that you could know how much I love you
+Lady, are you crying, do the tears belong to me
+Did you think our time together was all gone
+Lady, my sweet lady
+I'm as close as I can be
+And I swear to you our time has just begun
+
+
 

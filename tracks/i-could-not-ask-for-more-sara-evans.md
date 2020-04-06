@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-could-not-ask-for-more-sara-evans
+lyrics_url: https://www.azlyrics.com/lyrics/saraevans/icouldnotaskformore.html
 name: I Could Not Ask For More
 rankings:
 - end_date: '2001-04-27'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-01'
 ---
+
+Lying here with you
+Listening to the rain
+Smiling just to see the smile upon your face
+These are the moments I thank God that I'm alive
+These are the moments I'll remember all my life
+I've found all I've waited for
+And I could not ask for more
+
+Looking in your eyes
+Seeing all I need
+Everything you are is everything in me
+These are the moments
+I know heaven must exist
+These are the moments
+I know all I need is this
+I've found all I've waited for, yeah
+And I could not ask for more
+
+I could not ask for more than this time together
+I could not ask for more than this time with you
+And every prayer has been answered
+Every dream I've had's come true
+Yeah, right here in this moment
+Is right where I'm meant to be
+Here with you here with me
+Yeah
+
+These are the moments I thank God that I'm alive
+These are the moments I'll remember all my life
+I've found all I've waited for
+And I could not ask for more
+
+I could not ask for more than this time together
+I could not ask for more than this time with you
+And every prayer has been answered
+Every dream I've had's come true
+Yeah, right here in this moment
+Is right where I'm meant to be
+Oh, here with you here with me
+No, I could not ask for more
+Than this love you gave me
+Cause it's all I've waited for
+And I could not ask for more
+No, yeah
+No, I could not ask for more
+
+
 

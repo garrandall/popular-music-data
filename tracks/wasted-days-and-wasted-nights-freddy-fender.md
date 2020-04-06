@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wasted-days-and-wasted-nights-freddy-fender
+lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/wasteddaysandwastednights.html
 name: Wasted Days And Wasted Nights
 rankings:
 - end_date: '1975-06-27'
@@ -83,4 +84,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
 ---
+
+Wasted days and wasted nights,
+I have left for you behind
+for you don't belong to me,
+you belong to someone else.
+
+Why should I keep loving you,
+when I know that you're not true?
+And why should I call your name,
+when you're to blame
+for making me blue?
+
+
+Don't you remember the days
+that you went away and left me,
+I was so lonely,
+I prayed for only you, my love.
+
+Why should I keep loving you,
+when I know that you're not true?
+And why should I call your name,
+when you're to blame
+for making me blue?
+
+
+Don't you remember the days
+that you went away and left me,
+I was so lonely,
+I prayed for only you, my love.
+
+Why should I keep loving you,
+when I know that you're not true?
+And why should I call your name,
+when you're to blame
+for making me blue?
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-commodores
+lyrics_url: https://www.azlyrics.com/lyrics/commodores/still.html
 name: Still
 rankings:
 - end_date: '1979-10-05'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
+
+Lady, morning's just a moment away
+And I'm without you once again
+You laughed at me
+You said you never needed me
+I wonder if you need me now
+
+
+So many dreams that flew away
+So many words we didn't say
+Two people lost in a storm
+Where did we go?
+Where'd we go?
+
+We lost what we both had found
+You know we let each other down
+But then most of all
+I do love you
+Still!
+
+
+
+We played the games that people play
+We made our mistakes along the way
+Somehow I know deep in my heart
+You needed me
+'cause I needed you so desperatly!
+We were too blind to see
+But then most of all
+I do love you
+Still!
+
+
 

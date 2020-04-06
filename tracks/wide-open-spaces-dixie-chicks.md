@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wide-open-spaces-dixie-chicks
+lyrics_url: https://www.azlyrics.com/lyrics/soccermommy/wideopenspaces.html
 name: Wide Open Spaces
 rankings:
 - end_date: '1998-09-11'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
 ---
+
+Who doesn't know what I'm talking about
+Who's never left home, who's never struck out
+To find a dream and a life of their own
+A place in the clouds, a foundation of stone
+
+Many precede and many will follow
+A young girl's dreams no longer hollow
+It takes the shape of a place out west
+But what it holds for her, she hasn't yet guessed
+
+She needs
+Wide open spaces (spaces)
+Room to make her big mistakes
+She needs (new)
+New faces
+She knows the high stakes
+
+She traveled this road as a child
+Wide-eyed and grinning, she never tired
+But now she won't be coming back with the rest
+If these are life's lessons, she'll take this test
+
+She needs
+Wide open spaces (spaces)
+Room to make her big mistakes
+She needs (new)
+New faces
+She knows the high stakes
+She knows the high stakes
+
+Aahhh aahhh aahhh
+Aahhh aahhh aahhh
+
+As her folks drive away, her dad yells, "Check the oil"
+Mom stares out the window and says, "I'm leaving my girl"
+She said, "It didn't seem like that long ago"
+When she stood there
+And let her own folks know
+
+She needed
+Wide open spaces (spaces)
+Room to make her big mistakes
+She needs (new)
+New faces
+She knows the high stakes
+She knows the high stakes
+She knows the highest stakes
+
+(Wide open spaces)
+She knows the highest stakes
+She knows the highest stakes
+(Wide open spaces)
+
+
 

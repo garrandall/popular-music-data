@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bleeding-love-leona-lewis
+lyrics_url: https://www.azlyrics.com/lyrics/leonalewis/bleedinglove.html
 name: Bleeding Love
 rankings:
 - end_date: '2008-03-07'
@@ -163,4 +164,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
 ---
+
+Closed off from love
+I didn't need the pain
+Once or twice was enough
+And it was all in vain
+Time starts to pass
+Before you know it you're frozen
+
+But something happened
+For the very first time with you
+My heart melted to the ground
+Found something true
+And everyone's looking round
+Thinking I'm going crazy
+
+But I don't care what they say
+I'm in love with you
+They try to pull me away
+But they don't know the truth
+My heart's crippled by the vein
+That I keep on closing
+You cut me open and I
+
+Keep bleeding
+Keep, keep bleeding love
+I keep bleeding
+I keep, keep bleeding love
+Keep bleeding
+Keep, keep bleeding love
+You cut me open
+
+Trying hard not to hear
+But they talk so loud
+Their piercing sounds fill my ears
+Try to fill me with doubt
+Yet I know that their goal
+Is to keep me from falling
+
+But nothing's greater than the rush that comes with your embrace
+And in this world of loneliness
+I see your face
+Yet everyone around me
+Thinks that I'm going crazy, maybe, maybe
+
+But I don't care what they say
+I'm in love with you
+They try to pull me away
+But they don't know the truth
+My heart's crippled by the vein
+That I keep on closing
+You cut me open and I
+
+Keep bleeding
+Keep, keep bleeding love
+I keep bleeding
+I keep, keep bleeding love
+Keep bleeding
+Keep, keep bleeding love
+You cut me open
+
+And it's draining all of me
+Oh they find it hard to believe
+I'll be wearing these scars
+For everyone to see
+
+I don't care what they say
+I'm in love with you
+They try to pull me away
+But they don't know the truth
+My heart's crippled by the vein
+That I keep on closing
+You cut me open and I
+
+Keep bleeding
+Keep, keep bleeding love
+I keep bleeding
+I keep, keep bleeding love
+Keep bleeding
+Keep, keep bleeding love
+You cut me open and I
+
+Keep bleeding
+Keep, keep bleeding love
+I keep bleeding
+I keep, keep bleeding love
+Keep bleeding
+Keep, keep bleeding love
+You cut me open and I
+Keep bleeding
+Keep, keep bleeding love
+
+
 

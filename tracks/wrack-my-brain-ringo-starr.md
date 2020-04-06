@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrack-my-brain-ringo-starr
+lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/wrackmybrain.html
 name: Wrack My Brain
 rankings:
 - end_date: '1981-11-13'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
 ---
+
+Wrack my brain, wrack my brain,
+Till my head's filled with pain,
+Wrack my brain.
+
+All dried up, i'm all dried up,
+All i have's this empty cup,
+All dried up.
+
+What i have, you don't want,
+What you want, i can't give.
+I got out of touch with you and yours,
+The way that you live.
+
+I try to do my best for you,
+While the sky pours down the rain,
+Wrack my brain.
+
+With a will there's a way,
+But there's no way i can see,
+Coming up with something you'd enjoy
+As much as tv
+
+All the same, i play the game,
+Up and down old memory lane,
+Wrack my brain, (wrack my brain)
+Till my head is filled with pain,
+Wrack my brain, (wrack my brain)
+While i slowly go insane,
+Wrack my brain. (wrack my brain)
+
+
 

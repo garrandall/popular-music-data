@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-groove-line-heatwave
+lyrics_url: https://www.azlyrics.com/lyrics/heatwave/thegrooveline.html
 name: The Groove Line
 rankings:
 - end_date: '1978-05-12'
@@ -75,4 +76,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-26'
 ---
+
+Pack your grip
+Takin you on a trip
+Ain't no seats
+All we got's dancin' feet
+
+Leave your worries behind
+'Cause rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Get this train
+Know you'll be glad you came
+Hit the track
+Party hard there and back
+
+Leave your worries behind
+'Cause rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Check out the wheels a turnin'
+You know we won't stop
+We got this boiler burnin'
+We're keepin' it hot
+So grab your friends
+Get the train comin' through
+Climb on board
+Where you leave's up to you
+
+Leave your worries behind
+'Cause rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Leave your worries behind
+'Cause rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Check out the wheels a turnin'
+You know we won't stop
+We got this boiler burnin'
+We're keepin' it hot
+So grab your friends
+Get the train comin' through
+Climb on board
+Where you leave's up to you
+
+Leave your worries behind
+'Cause rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Rain, shine don't mind
+We're ridin' on the groove line tonight
+
+Rain, shine don't mind
+We're ridin' on the groove line tonight
+
+
 

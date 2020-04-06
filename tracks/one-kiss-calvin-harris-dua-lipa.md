@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: one-kiss-calvin-harris-dua-lipa
+lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/onekiss.html
 name: One Kiss
 rankings:
 - end_date: '2018-04-27'
@@ -92,4 +93,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+Let me take the night, I love real easy
+And I know that you'll still wanna see me
+On the Sunday morning, music real loud
+Let me love you while the moon is still out
+
+Something in you
+Lit up heaven in me
+The feeling won't let me sleep
+'Cause I'm lost in the way you move, the way you feel
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One
+One
+Darling
+One
+One
+Darling
+
+I just want to feel your skin on mine
+Feel your eyes do the exploring
+Passion in the message when you smile
+Take my time
+
+It's something in you
+Lit up heaven in me
+The feeling won't let me sleep
+'Cause I'm lost in the way you move, the way you feel
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One
+One
+Darling
+One
+One
+Darling
+
+See wonderland in your eyes
+Might need your company tonight
+
+Something in you
+Lit up heaven in me
+The feeling won't let me sleep
+'Cause I'm lost in the way you move, the way you feel
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One kiss is all it takes
+Fallin' in love with me
+Possibilities
+I look like all you need
+
+One
+One
+Darling
+One
+One
+Darling
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ocean-eyes-billie-eilish
+lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/oceaneyes.html
 name: Ocean Eyes
 rankings:
 - end_date: '2018-12-07'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
 ---
+
+I've been watching you for some time
+Can't stop staring at those ocean eyes
+Burning cities and napalm skies
+Fifteen flares inside those ocean eyes
+Your ocean eyes
+
+No fair
+You really know how to make me cry
+When you give me those ocean eyes
+I'm scared
+I've never fallen from quite this high
+Falling into your ocean eyes
+Those ocean eyes
+
+I've been walking through a world gone blind
+Can't stop thinking of your diamond mind
+Careful creature made friends with time
+He left her lonely with a diamond mind
+And those ocean eyes
+
+No fair
+You really know how to make me cry
+When you give me those ocean eyes
+I'm scared
+I've never fallen from quite this high
+Falling into your ocean eyes
+Those ocean eyes
+
+No fair
+You really know how to make me cry
+When you give me those ocean eyes
+I'm scared
+I've never fallen from quite this high
+Falling into your ocean eyes
+Those ocean eyes
+
+
 

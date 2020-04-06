@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: count-on-me-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/countonme.html
 name: Count On Me
 rankings:
 - end_date: '1978-03-17'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+
+Precious love, I'll give it to you
+Blue as the sky and deep
+In the eyes of a love so true
+
+Beautiful face, you make me feel
+Light on the stairs and lost
+In the air of a love so real
+
+You can count on me
+Count on my love
+Count on me
+Count on my love
+To see you through
+
+Emerald eyes and China perfume
+Caught on the wheel and lost
+In the feel of a love so soon
+
+Ruby lips, you make my song
+Into the night and saved by
+The light of a love so strong
+You can count on me
+
+Count on my love
+Count on me
+Count on my love
+To see you through
+
+Woo hoo hoo hoo
+You can count on me, girl
+(Count on me)
+You can count on my love
+(Count on my love)
+
+Precious love, I'll give it to you
+Blue as the sky and deep
+In the eyes of a love so true
+
+Beautiful face, you make me feel
+Light on the stairs and lost
+In the air of a love so real
+
+You can count on me
+Count on my love
+Count on me
+Count on my love
+
+
 

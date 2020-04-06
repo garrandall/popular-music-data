@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soldier-boy-the-shirelles
+lyrics_url: https://www.azlyrics.com/lyrics/shirelles/soldierboy.html
 name: Soldier Boy
 rankings:
 - end_date: '1962-03-30'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+
+Soldier boy
+Oh my little soldier boy
+I'll be true to you
+
+You were my first love
+And you'll be my last love
+I will never make you blue
+I'll be true to you
+
+In the whole world
+You can love but one girl
+Let me be the one girl
+For I'll be true to you
+
+Wherever you go
+My heart will follow
+I love you so
+I'll be true to you
+
+Take my love with you
+To any port or foreign shore
+Darling you must feel for sure
+And I'll be true to you
+
+Soldier boy
+Oh my little soldier boy
+I'll be true to you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurt-so-bad-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/hurtsobad.html
 name: Hurt So Bad
 rankings:
 - end_date: '1980-04-18'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
 ---
+
+I know you
+Don't know what I'm going through
+Standing here looking at you
+
+Well let me tell you that it hurts so bad
+It makes me feel so sad
+It makes me hurt so bad to see you again
+Like needles and pins
+People say "you've been making out okay
+He's in love don't stand in his way"
+
+Well, let me tell you that it hurts so bad
+It makes me feel so sad
+It's gonna hurt so bad if you walk away
+
+Why don't you stay and let me make it up to you
+I'll do anything you want me to
+You loved me before
+Please love me again
+I can't let you go back to her
+Please don't go
+Please don't go
+
+
+
+Please don't go
+Please don't gooooooooo
+Hurt so bad
+Come back it hurts so bad
+Don't make it hurt so bad
+I'm begging you please
+
+Oh-oh-oh-oh-oh, ooooooooh
+Oh-oh-oh, oh-oh-oh, oooooooh
+Come back it hurts so bad
+Come back it hurts so bad
+I'm begging you please
+Oh
+No
+Noooooo
+
+
 

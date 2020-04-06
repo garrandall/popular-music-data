@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: human-touch-rick-springfield
+lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/humantouch.html
 name: Human Touch
 rankings:
 - end_date: '1983-07-15'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
 ---
+
+Everybody's talking to computers,
+they're all dancing to a drum machine
+I know I'm living on the outside 
+Scared of getting caught between
+I'm so cool calculated alone in a modern world-uh huh
+
+But Sally has a hard time holding back
+The alley to her heart is a beaten track
+She's got the love monkey riding on her back
+
+You want love I got it, come on girl
+
+
+We all need the human touch
+We all need the human touch
+I need it the human touch
+We all need the human touch
+We all need it, and I need it too
+
+You know, I got my walls, Sally calls them prison cells
+Sometimes I need protection, I've got the chains
+I got the warning bells
+I sit so snug and isolated, alone in the modern world-uh huh
+
+But Sally has a hard time holding back
+The alley to her heat is a beaten track
+She's never out of love, yeah she's got the knack
+You've got love I want it, come on girl
+
+
+
+Human touch
+Human touch
+Human touch
+Human touch
+
+I'm so scared and isolated in the modern world
+
+We all need
+We all need the human touch
+We all need the human touch
+We all need the human touch
+I need it the human touch
+We all need the human touch
+I need it the human touch
+We all need it and I need it too
+
+Human touch
+Human touch
+Human touch
+Human touch
+Human touch
+
+
 

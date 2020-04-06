@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: abraham-martin-and-john-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/abrahammartinandjohn.html
 name: Abraham Martin And John
 rankings:
 - end_date: '1968-11-01'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
 ---
+
+Anybody here seen my old friend Abraham?
+Can you tell me where he's gone?
+He freed lotta people but it seems the good they die young
+You know I just looked around and he's gone
+
+Anybody here seen my old friend John?
+Can you tell me where he's gone?
+He freed lotta people but it seems the good they die young
+I just looked around and he's gone
+
+Anybody here seen my old friend Martin?
+Can you tell me where he's gone?
+He freed lotta people but it seems the good they die young
+I just looked around and he's gone
+
+Didn't you love the things that they stood for?
+Didn't they try to find some good for you and me?
+And we'll be free
+Some day soon, it's gonna be one day
+
+Anybody here seen my old friend Bobby?
+Can you tell me where he's gone?
+I thought I saw him walkin' up over the hill
+With Abraham, Martin, and John
+
+
 

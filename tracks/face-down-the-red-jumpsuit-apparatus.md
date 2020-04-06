@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: face-down-the-red-jumpsuit-apparatus
+lyrics_url: https://www.azlyrics.com/lyrics/redjumpsuitapparatus/theacousticsong.html
 name: Face Down
 rankings:
 - end_date: '2006-08-11'
@@ -179,4 +180,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
 ---
+
+When I see your smile
+Tears roll down my face I can't replace
+And now that I'm strong I have figured out
+How this world turns cold and it breaks through my soul
+And I know I'll find deep inside me I can be the one
+
+I will never let you fall
+I'll stand up for you forever
+I'll be there for you through it all
+Even if saving you sends me to heaven
+
+Seasons are changing
+And waves are crashing
+And stars are falling all for us
+Days grow longer and nights grow shorter
+I can show you I'll be the one
+
+I will never let you fall (let you fall)
+I'll stand up for you forever
+I'll be there for you through it all (through it all)
+Even if saving you sends me to heaven
+
+'Cause you're my, you're my, my, my true love, my whole heart
+Please don't throw that away
+'Cause I'm here for you
+Please don't walk away and
+Please tell me you'll stay, stay
+
+Use me as you will
+Pull my strings just for a thrill
+And I know I'll be okay
+Though my skies are turning gray
+
+I will never let you fall
+I'll stand up for you forever
+I'll be there for you through it all
+Even if saving you sends me to heaven
+
+I will never let you fall
+I'll stand up for you forever
+I'll be there for you through it all
+Even if saving you sends me to heaven
+
+
+
 

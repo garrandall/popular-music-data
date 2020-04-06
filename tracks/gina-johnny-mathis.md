@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gina-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/gina.html
 name: Gina
 rankings:
 - end_date: '1962-09-28'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
+
+Gina, Gina, I kissed you once and then
+I felt so wonderful, so very wonderful
+Let's do it over again
+Gina (Gina), Gina (Gina), I can't remember when
+I've ever felt a kiss that made me feel like this
+Let's do it over again
+Look at you, oh, look at you
+So warm, so sweet, so shy
+Look at me, oh, look at me
+I can't believe that I'm such a lucky guy
+To have Gina, Gina all for my very own
+It's much too wonderful, so very wonderful
+To know that Gina is mine alone
+Oh, look at you, oh, look at you
+So warm, so sweet, so shy
+Look at me, oh, look at me
+I can't believe that I'm such a lucky guy
+To have Gina (Gina), Gina (Gina) all for my very own
+It's much too wonderful, so very wonderful
+To know that Gina is mine (Gina is mine)
+Gina is mine alone
+
+
 

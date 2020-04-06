@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: defy-you-the-offspring
+lyrics_url: https://www.azlyrics.com/lyrics/offspring/defyyou.html
 name: Defy You
 rankings:
 - end_date: '2002-01-11'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
 ---
+
+You may push me around
+But you cannot win
+You may throw me down
+But I'll rise again
+The more you say
+The more I defy you
+So get out of my face 
+
+You cannot stop us
+You cannot bring us down
+Never give up
+We go on and on
+You'll never break us
+Never bring us down
+We are alive! 
+
+The wind blows
+I'll lean into the wind
+My anger grows
+I'll use it to win
+The more you say
+The more I defy you
+So get out of my way 
+
+All my will
+All my strength
+Rip it out
+Start again 
+
+Can you leave it all behind?
+Can you leave it all behind?
+Cause you can't go back
+You can't go back
+
+
 

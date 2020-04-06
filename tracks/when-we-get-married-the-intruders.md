@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-we-get-married-the-intruders
+lyrics_url: https://www.azlyrics.com/lyrics/intruders/whenwegetmarried.html
 name: When We Get Married
 rankings:
 - end_date: '1970-06-26'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
 ---
+
+Darlin', oh...
+
+When we get married
+We'll have a big celebration
+And send invitations
+To all our friends and relations
+
+We'll have a ball
+Dancin' and all
+When we get married
+
+When the bells ring
+And tell the world I'm taking your hands
+Folks from all over
+Will come to see the wedding we planned
+
+We'll have a ball
+Dancin' and all
+When we get married
+
+(We'll have a time)
+We'll have a time
+And darling
+We'll be, oh-so gay, hmmm
+(We'll have a ball)
+We'll have a ball
+(Dancing and all)
+And darling
+We'll be as one
+
+Just wait and see
+Our wedding day
+Is not very far
+Old folks will whisper
+And say how lovely
+We both are
+
+We'll have a ball
+Dancin' and all
+...When we get married
+
+
 

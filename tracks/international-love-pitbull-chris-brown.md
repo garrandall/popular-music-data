@@ -5,6 +5,7 @@ features:
 - Chris Brown
 genres: []
 key: international-love-pitbull-chris-brown
+lyrics_url: https://www.azlyrics.com/lyrics/pitbull/internationallove.html
 name: International Love
 rankings:
 - end_date: '2011-06-24'
@@ -112,4 +113,120 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
 ---
+
+
+Went from Mr. 305, Dade County, to Mr. Worldwide, all around the world
+ Ay ay, yeah ah!
+Now we're international, so international, international, so international
+
+You can't catch me, boy (can't catch me, boy)
+I'm overseas and about a hundred G's per show
+Don't test me, boy (don't test me, boy)
+'Cause I rap with the best for sure
+
+305 'til the death of me
+Cremate my body and let the ocean have what's left of me
+But for now forget about that
+Blow the whistle
+Baby, you're the referee, daleÌ
+
+
+You put it down like New York City
+I never sleep!
+Wild like Los Angeles (Chris Brown)
+My fantasy!
+Hotter than Miami
+I feel the heat!
+Oh, girl, it's international love (international)
+Oh, yeah, it's international love
+
+
+I don't play football but I've touched down everywhere
+Everywhere? Everywhere!
+I don't play baseball but I've hit a home run everywhere, everywhere
+
+I've been to countries and cities I can't pronounce
+And the places on the globe I didn't know existed
+In Romania she pulled me to the side and told me
+"Pit, you can have me and my sister."
+
+In Lebanon, yeah, the women are bomb
+And in Greeceâyou've guessed itâthe women are sweet
+Been all around the world but I ain't gon' lieâ
+There's nothing like Miami's heat
+
+
+You put it down like New York City
+I never sleep!
+Wild like Los Angeles (A-ha)
+My fantasy!
+Hotter than Miami
+I feel the heat!
+Oh, girl, it's international love (international, that'r right)
+Oh, yeah, it's international love
+
+
+Down in D.R. they're looking for visas
+I ain't talking credit cards if you know what I mean!
+En Cuba, la cosa esta dura!
+But the woman get down, if you know what I mean!
+
+In Colombia the women got everything done
+But they are some of the most beautiful women I've ever seen
+In Brazil they're freaky with big old boobs
+And their thongs, blue yellow and green!
+
+In L.A. tengo la Mexicana
+En New York tengo la boricua
+Besito para todas las mujeres en Venezuela, muah!
+Y en Miami tengo a cualquiera!
+
+
+You put it down like New York City
+I never sleep!
+Wild like Los Angeles
+My fantasy!
+Hotter than Miami
+I feel the heat!
+Oh (all around the world), it's international love (international)
+Oh, yeah, it's international love
+
+
+There's not a place that your love don't affect me, baby
+So don't ever change
+I'll cross the globe when I'm with you, baby
+Hey, whoa-oh
+
+
+Chris Brown, this is for the women worldwide
+Let's rap
+
+
+You put it down like New York City
+I never sleep!
+Wild like Los Angeles
+My fantasy!
+Hotter than Miami
+I feel the heat! (305)
+Oh, yeah, it's international love (international, that's right)
+Oh, yeah, it's international love
+
+
+You put it down like New York City
+I never sleep!
+Wild like Los Angeles
+My fantasy!
+Hotter than Miami
+I feel the heat! (305)
+Oh, yeah, it's international love (international)
+Oh, yeah, it's international love
+
+You are international, so international
+You're international, so international
+You are international, so international
+International love
+(So round about beautiful world)
+International love
+
+
 

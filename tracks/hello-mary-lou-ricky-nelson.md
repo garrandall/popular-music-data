@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-mary-lou-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/hellomarylou.html
 name: Hello Mary Lou
 rankings:
 - end_date: '1961-05-07'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+
+Hello Mary Lou, goodbye heart
+Sweet Mary Lou, I'm so in love with you
+I knew Mary Lou, we'd never part
+So hello Mary Lou, goodbye heart
+
+You passed me by one sunny day
+Flashed those big brown eyes my way
+And oo I wanted you forever more
+Now I'm not one that gets around
+Swear my feet stuck to the ground
+And though I never did meet you before
+
+I said, hello Mary Lou, goodbye heart
+Sweet Mary Lou, I'm so in love with you
+I knew Mary Lou, we'd never part
+So hello Mary Lou, goodbye heart
+
+I saw your lips I heard your voice
+Believe me I just had no choice
+Wild horses couldn't make me stay away
+I thought about a moonlit night
+My arms about good an' tight
+That's all I had to see for me to say
+
+Hey, hey, hello Mary Lou, goodbye heart
+Sweet Mary Lou, I'm so in love with you
+I knew Mary Lou, we'd never part
+So hello Mary Lou, goodbye heart
+So hello Mary Lou, goodbye heart
+Yes hello Mary Lou, goodbye heart
+
+
 

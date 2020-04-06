@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yours-russell-dickerson
+lyrics_url: https://www.azlyrics.com/lyrics/russelldickerson/yours.html
 name: Yours
 rankings:
 - end_date: '2017-11-10'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
 ---
+
+I was a boat stuck in a bottle
+That never got the chance to touch the sea
+Just forgot on the shelf
+No wind in the sails
+Going nowhere with no one but me
+I was one in a hundred billion
+A burned out star in a galaxy
+Just lost in the sky wondering why
+Everyone else shines out but me
+
+But...
+I came to life when I first kissed you
+The best me has his arms around you
+You make me better than I was before
+Thank God I'm yours
+
+I was a worn out set of shoes
+Wandering the city street
+Another face in the crowd
+Head looking down
+Lost in the sound of a lonely melody
+Empty pockets at a roulette
+Always landing on a lost bet
+Just live for the spin and hope for the win
+Go all in just to lose again
+
+But...
+I came to life when I first kissed you
+The best me has his arms around you
+You make me better than I was before
+Thank God I'm yours
+The worst me is just a long gone memory
+You put a new heartbeat inside of me
+You make me better than I was before
+Thank God I'm yours
+
+I was a boat stuck in a bottle
+That never got the chance to touch the sea
+
+I came to life when I first kissed you
+The best me has his arms around you
+You make me better than I was before
+Thank God I'm yours
+The worst me is just a long gone memory
+You put a new heartbeat inside of me
+You make me better than I was before
+Thank God I'm yours
+Thank God I'm yours
+Thank God I'm yours
+Thank God I'm yours
+
+
 

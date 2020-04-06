@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-here-on-my-own-irene-cara
+lyrics_url: https://www.azlyrics.com/lyrics/irenecara/outhereonmyown.html
 name: Out Here On My Own
 rankings:
 - end_date: '1980-08-22'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+
+Sometimes I wonder
+Where I've been
+Who I am, do I fit in?
+Make-believing is hard alone
+Out here, on my own
+
+We're always proving
+Who we are
+Always reaching
+For that rising star
+To guide me far
+And shine me home
+Out here on my own
+
+When I'm down and feeling blue
+I close my eyes so I can be with you
+Oh, baby, be strong for me
+Baby, belong to me
+Help me through
+Help me need you
+
+Until the morning sun appears
+Making light of all my fears
+I dry the tears I've never shown
+out here on my own
+
+But when I'm down and feeling blue
+I close my eyes so I can be with you
+Oh, baby, be strong for me
+Baby, belong to me
+Help me through
+Help me need you
+
+Sometimes I wonder
+Where I've been
+Who I am, do I fit in?
+I may not win
+But I can't be thrown
+Out here on my own
+Out here
+On my own
+
+
 

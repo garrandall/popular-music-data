@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: must-be-doin--somethin--right-billy-currington
+lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/mustbedoinsomethinright.html
 name: Must Be Doin' Somethin' Right
 rankings:
 - end_date: '2005-10-28'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
 ---
+
+A woman is mystery
+A man just can't understand
+Sometimes all it takes to please her
+Is the touch of your hand
+And other times you gotta take it slow
+And hold her all night long
+Heaven knows there's so many ways
+A man can go wrong
+
+
+Must be doin' something right
+I just heard you sigh
+You leaned into my kiss
+And closed those deep blue need you eyes
+Don't know what I did
+To earn a love like this, but baby, I
+Must be doin' something right
+
+Anywhere you wanna go 
+Baby, show me the way
+I'm open to suggestions
+Mmm, whatever you say
+Tonight's about giving you
+What you want, whatever it takes
+Girl, I hope I'm on the right road
+And judging by the smile on your face
+
+
+
+Ah, Baby
+Mmm...
+
+I don't know what I did
+To earn a love like this, but baby, I
+Must be doin' something right
+Must be doin' something right
+
+
 

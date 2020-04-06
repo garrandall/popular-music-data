@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-reply-at-all-genesis
+lyrics_url: https://www.azlyrics.com/lyrics/genesis/noreplyatall.html
 name: No Reply At All
 rankings:
 - end_date: '1981-10-02'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
 ---
+
+Talk to me, you never talk to me.
+Ooh, it seems that I can speak.
+But I can hear my voice shouting out.
+But there's no reply at all.
+
+Look at me, you never look at me,
+Ooh, I've been sitting, staring, seems so long.
+But you're looking through me
+Like I wasn't here at all.
+No reply, there's no reply at all.
+
+Dance with me, you never dance with me.
+Ooh, it seems that I can move,
+I'm close to you, close as I can get.
+
+Yet there's no reply at all,
+There's no reply at all.
+
+I get the feeling you're tryin' to tell me,
+Is there something that I should know?
+What excuse are you tryin' to sell me?
+Should I be reading stop or go, I don't know.
+
+Be with me, seems you're never here with me,
+Ooh, I've been trying to get over there.
+Ah, but it's out of my reach.
+And there's no reply at all.
+There's no reply at all.
+
+I get the feeling you're trying to tell me;
+Is there something that I should know?
+What excuse are you trying to sell me?
+Should I be reading stop or go, I don't know.
+
+Maybe deep down inside,
+I'm trying for no one else but me.
+Too stubborn to say, "The buck stops here.
+It's not the one you're looking for."
+But, maybe deep down inside,
+I'm lying to no one else but me.
+Oh but my back is up.
+I'm on my guard - with all the exits sealed.
+
+Listen to me, you never listen to me,
+Ooh, and it seems there's no way out,
+I've been trying, but we cannot connect,
+And there's no reply at all,
+There's no reply at all,
+There's no reply at all,
+No reply at all.
+
+Is anybody listening - oh oh,
+No reply at all...
+
+
 

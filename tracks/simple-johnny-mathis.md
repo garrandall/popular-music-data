@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: simple-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/simple.html
 name: Simple
 rankings:
 - end_date: '1984-06-29'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
 ---
+
+I know someone's done you wrong
+But girl you've cried too long
+It's time to live again
+I won't try to complicate your life
+I'm not that kind of guy
+But I think I ought to tell you
+Love is
+
+
+Simple
+Easy as 1 2 3
+That's how love should be
+All you gotta do is trust in me
+Cuz it's
+Simple
+Just like the birds and bees
+It's simple biology
+So don't you wanna fall in love with me?
+
+You've got to find
+A new place to begin
+It's time you let love in
+Girl, what are you waiting for?
+This time there'll be no sad good-byes
+No teardrops in your eyes
+Girl I'm gonna make it beautifies
+
+
+
+
 

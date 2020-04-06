@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: farewell-andromeda--welcome-to-my-morning--john-denver
+lyrics_url: https://www.azlyrics.com/lyrics/johndenver/farewellandromedawelcometomymorning.html
 name: Farewell Andromeda (Welcome To My Morning)
 rankings:
 - end_date: '1973-09-21'
@@ -27,4 +28,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
 ---
+
+Welcome to my morning, welcome to my day.
+Yes, I'm the one responsible, I made it just this way.
+To make myself some pictures, see what they might bring.
+I think I made it perfectly, I wouldn't change a thing.
+La la la, la la la la la. La la la, la la la la la.
+
+Welcome to my happiness, you know it makes me smile.
+And it pleases me to have you here for just a little while.
+While we open up the spaces and try to break some chains.
+And if the truth is told they will never come again.
+La la la, la la la la la. La la la, la la la la la.
+
+Welcome to my evening, the closing of the day,
+you know I could try a million times and never find a better way
+to tell you that I love you and all the songs I played
+are to thank you for allowing me in that lovely day you made.
+
+Welcome to my morning, welcome to my day.
+Yes, I'm the one responsible, I made it just this way.
+To make myself some pictures, see what they might bring.
+I think I made it perfectly, I wouldn't change a thing.
+La la la, la la la la la. La la la, la la la la la.
+La la la, la la la la la. La la la, la la la la la.
+
+
 

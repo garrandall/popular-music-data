@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-my-lady-freddie-jackson
+lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/youaremylady.html
 name: You Are My Lady
 rankings:
 - end_date: '1985-09-13'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
+
+There's something that I want to say
+But words sometimes get in the way
+I just want to show
+My feelings for you
+There's nothing that I'd rather do
+Than spend ev'ry moment with you
+I guess you should know
+I love you so
+
+You are my lady
+You're ev'rything I need and more
+You are my lady
+You're all I'm living for
+
+There's no way that I can resist
+Your precious kiss
+Girl, you've got me
+So hypnotized
+Just say that you'll stay with me
+'Cause our love was meant to be
+I promise to love you
+More each day
+
+You are my lady, my love
+You're ev'rything I need and more
+You are my lady
+You're all I'm living for
+
+You are my lady, my love
+You're ev'rything I need and more
+You are my lady
+You're all I'm living for
+
+I love your shine, shine, shine
+Let's make it last until the end of time
+
+You are my lady, my love
+You're ev'rything I need and more
+You are my lady
+You're all I'm living for
+...
+
+
 

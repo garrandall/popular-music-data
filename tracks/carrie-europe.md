@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: carrie-europe
+lyrics_url: https://www.azlyrics.com/lyrics/europe/carrie.html
 name: Carrie
 rankings:
 - end_date: '1987-08-07'
@@ -83,4 +84,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-12-05'
 ---
+
+When lights go down, I see no reason
+For you to cry. We've been through this before
+In every time, in every season,
+God knows I've tried
+So please don't ask for more.
+
+Can't you see it in my eyes
+This might be our last goodbye
+
+Carrie, Carrie, things they change my friend
+Carrie, Carrie, maybe we'll meet again,
+Somewhere again
+
+I read your mind, with no intentions
+Of being unkind, I wish I could explain
+It all takes time, whole lot of patience
+If it's a crime, how come I feel no pain.
+
+Can't you see it in my eyes
+This might be our last goodbye
+
+Carrie, Carrie, oh things they change my friend
+Carrie, Carrie, maybe we'll meet again
+
+Can't you see it in my eyes
+This might be our last goodbye
+
+Carrie, Carrie, oh things they change Carrie Carrie Carrie
+Carrie, Carrie, maybe we'll meet again
+Oh somewhere, again
+
+When lights go down
+
+
 

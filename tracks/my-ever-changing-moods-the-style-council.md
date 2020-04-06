@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-ever-changing-moods-the-style-council
+lyrics_url: https://www.azlyrics.com/lyrics/stylecouncil/myeverchangingmoods.html
 name: My Ever Changing Moods
 rankings:
 - end_date: '1984-04-13'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
 ---
+
+Daylight turns to moonlight - and I'm at my best
+Praising the way it all works - gazing upon the rest
+The cool before the warm
+The calm after the storm
+The cool before the warm
+The calm after the storm
+I wish to stay forever - letting this be my food
+But I'm caught up in a whirlwind and my ever changing moods
+Bitter turns to sugar - some call a passive tune
+But the day things turn sweet - for me won't be too soon
+The hush before the silence
+The winds after the blast
+The hush before the silence
+The winds after the blast
+I wish we'd move together - this time the bosses sued
+But we're caught up in the wilderness and an ever changing mood
+Teardrops turn to children - who've never had the time
+To commit the sins they pay for through - another's evil mind
+The love after the hate
+The love we leave too late
+The love after the hate
+The love we leave too late
+I wish we'd wake up one day - an' everyone feel moved
+But we're caught up in the dailies and an ever changing mood
+
+Evil turns to statues
+and masses form a line
+But I know which way I'd run to if the choice was mine
+The past is knowledge
+the present our mistake
+And the future we always leave too late
+I wish we'd come to our senses and see there is no truth
+In those who promote the confusion for this ever changing mood
+
+
 

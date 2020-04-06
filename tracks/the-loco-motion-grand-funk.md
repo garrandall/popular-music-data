@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-loco-motion-grand-funk
+lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/thelocomotion.html
 name: The Loco-Motion
 rankings:
 - end_date: '1974-03-15'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
 ---
+
+Everybody's doin' a brand new dance now
+(Come on baby, do the Loco-Motion)
+I know you'll get to like it if you give it a chance now
+(Come on baby, do the Loco-Motion)
+My little baby sister can do it with ease
+It's easier than learnin' your ABCs
+So, come on, come on, and do the Loco-Motion with me
+
+You've got to swing your hips now
+Come on
+Jump up
+Jump back
+Oh well, I think you've got the knack
+
+Woah, woah
+Now that you can do it, well let's make a chain now
+(Come on baby, do the Loco-Motion)
+A chuga-chuga motion like a railroad train, now
+(Come on baby, do the Loco-Motion)
+Do it nice and easy now, and don't lose control
+A little bit of rhythm and a lot of soul
+So, come on, come on, and do the Loco-Motion with me
+
+Woah, woah
+Move around the floor in a loco-motion
+(Come on baby, do the Loco-Motion)
+Do it holdin' hands if'n you get the notion
+(Come on baby, do the Loco-Motion)
+There's never been a dance that's so easy to do
+It even makes you happy when you're feelin' blue
+So, come on, come on, and do the Loco-Motion with me
+(Come on baby, do the Loco-Motion)
+So, come on, come on, and do the Loco-Motion with me
+(Come on baby, do the Loco-Motion)
+So, come on, come on, and do the Loco-Motion with me
+(Come on baby, do the Loco-Motion)
+(Come on baby, do the Loco-Motion)
+(Come on baby, do the Loco-Motion)
+(Come on baby, do the Loco-Motion)
+(Come on baby, do the Loco-Motion)
+
+
 

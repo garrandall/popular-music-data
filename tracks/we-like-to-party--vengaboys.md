@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-like-to-party--vengaboys
+lyrics_url: https://www.azlyrics.com/lyrics/vengaboys/weliketoparty.html
 name: We Like To Party!
 rankings:
 - end_date: '1999-02-19'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
 ---
+
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+We like to party
+
+I've got something to tell ya
+I've got news for you
+Gonna put some wheels in motion
+Get ready 'cause we're coming through
+Hey now, hey now, hear what I say now
+Happiness is just around the corner
+Hey now, hey now, hear what I say now
+We'll be there for you
+
+
+The Vengabus is coming
+And everybody's jumping
+New York to San Fransisco
+An intercity disco
+The wheels of steel are turning
+And traffic lights are burning
+So if you like to party
+Get on and move your body
+
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+
+Hey now, hey now, hear what I say now
+Happiness is just around the corner
+Hey now, hey now, hear what I say now
+We'll be there for you
+
+
+
+The Vengabus is coming
+And everybody's jumping
+New York to San Fransisco
+An intercity disco
+The wheels of steel are turning
+And traffic lights are burning
+So if you like to party
+Get on and move your body
+
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+We like to party
+We like, we like to party
+
+The Vengabus is coming, the Vengabus is coming
+The Vengabus is coming, the Vengabus is..
+
+
+
+The Vengabus is coming
+And everybody's jumping
+New York to San Fransisco
+An intercity disco
+The wheels of steel are turning
+And traffic lights are burning
+So if you like to party
+Get on and move your body
+The Vengabus is coming
+
+
 

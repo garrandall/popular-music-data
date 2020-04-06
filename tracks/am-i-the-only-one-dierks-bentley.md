@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: am-i-the-only-one-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/amitheonlyone.html
 name: Am I The Only One
 rankings:
 - end_date: '2011-05-27'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
 ---
+
+Well it was Friday in the p.m.
+And just like every weekend
+I was ready to throw down
+Yeah get a little tore up
+So I call my bros up to meet me out on the town
+Well wild man Willy said I like to really
+But Idol's on TV
+And Ray had a date
+With his wife and Nate quit drinking
+But he didn't tell me
+
+
+Am I the only one who wants to have fun tonight?
+Is there anybody out there who wants to have a cold beer
+Kick it to the morning light?
+If I have to raise hell all by myself
+I will but y'all, that ain't right
+It's time to get it on
+Am I the only one who wants to have fun tonight?
+
+Well I was flying solo down at Silverado's
+The joint looking like a morgue
+When this country cutie with a rock and roll booty
+Came strutting in through the door
+Yelled Who wants to dance and fired up the band with with a Franklin and a shot of Patron
+She looked right at me and said
+What's it gonna be
+Are you gonna let me to party alone?
+
+
+
+
+
+Come on come on
+Get your good time on
+Let's have a little fun tonight 
+
+Let's have a little fun tonight 
+
+
 

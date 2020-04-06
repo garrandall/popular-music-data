@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: star-on-a-tv-show-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/stylistics/staronatvshow.html
 name: Star On A TV Show
 rankings:
 - end_date: '1975-01-24'
@@ -35,4 +36,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
+
+You ought to be
+The star on a TV show
+Then all the world would know
+Why I love you so
+
+You ought to be
+A queen on a movie screen
+Starring in every scene
+Then they'd know what I mean
+
+If you were a car you would be a big Jaguar
+Racing along with the sun
+If you were a song then the country would sing along
+Baby, you'd be number one
+
+If were the news
+You'd be the latest
+What I'm trying to say is
+Baby, you're the greatest
+
+You ought to be
+The star on a TV show
+Then all the world would know
+Why I love you so
+
+You ought to be
+A queen on a movie screen
+Starring in every scene
+Then they'd know what I mean
+
+If you were a car you would be a big Jaguar
+Racing along with the sun
+If you were a song then the country would sing along
+Baby, you'd be number one
+
+If were the news
+You'd be the latest
+What I'm trying to say is
+Baby, you're the greatest
+
+You ought to be
+The star on a TV show
+Then all the world would know
+The magic of you
+
+And they would love you too
+But not half as much as I do
+No, not half as much as I do
+
+
 

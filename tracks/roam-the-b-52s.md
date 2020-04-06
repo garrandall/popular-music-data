@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roam-the-b-52s
+lyrics_url: https://www.azlyrics.com/lyrics/b52s/roam.html
 name: Roam
 rankings:
 - end_date: '1989-12-29'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
 ---
+
+I hear a wind
+Whistling air
+Whispering in my ear
+
+Boy mercury shooting through every degree
+Oh girl dancing down those dirty and dusty trails
+Take it hip to hip rocking through the wilderness
+Around the world the trip begins with a kiss
+
+Roam if you want to, roam around the world
+Roam if you want to, without wings without wheels
+Roam if you want to, roam around the world 
+Roam if you want to, without anything but the love we feel
+
+Skip the air-strip to the sunset 
+Yeah ride the arrow to the target
+Take it hip to hip rock it through the wilderness
+Around the world the trip begins with a kiss
+
+Roam if you want to, roam around the world
+Roam if you want to, without wings without wheels
+Roam if you want to, roam around the world 
+Roam if you want to, without anything but the love we feel
+
+Fly the great big sky see the great big sea
+Kick through continents bustin' boundaries
+Take it hip to hip rock it through the wilderness
+Around the world the trip begins with a kiss
+
+Roam if you want to, roam around the world
+Roam if you want to, without wings without wheels
+Roam if you want to, roam around the world 
+Roam if you want to, without anything but the love we feel
+
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+Take it hip to hip rock it through the wilderness
+
+
 

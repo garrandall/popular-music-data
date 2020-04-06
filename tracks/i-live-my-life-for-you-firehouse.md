@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-live-my-life-for-you-firehouse
+lyrics_url: https://www.azlyrics.com/lyrics/firehouse/ilivemylifeforyou.html
 name: I Live My Life For You
 rankings:
 - end_date: '1995-03-03'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
 ---
+
+You know you're everything to me and I could never see
+The two of us apart
+And you know I give myself to you and no matter what you do
+I promise you my heart
+
+I've built my world around you and I want you to know
+I need you like I've never needed anyone before
+
+
+I live my life for you
+I wanna be by your side in everything that you do
+And if there's only one thing you can believe is true
+I live my life for you
+
+I dedicate my life to you, you know that I would die for you
+But our love would last forever
+And I will always be with you and there is nothing we can't do
+As long as we're together
+
+I just can't live without you and I want you to know
+I need you like I've never needed anyone before
+
+
+
+I've built my world around you and I want you to know
+I need you like I've never needed anyone before
+
+
+
+I live my life for you
+
+I live my life for you
+
+
 

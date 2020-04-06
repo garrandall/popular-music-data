@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-me-shinedown
+lyrics_url: https://www.azlyrics.com/lyrics/shinedown/saveme.html
 name: Save Me
 rankings:
 - end_date: '2005-11-25'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
 ---
+
+I got a candle
+And I've got a spoon
+I live in a hallway with no doors
+And no rooms
+
+Under a windowsill
+They all were found
+A touch of concrete within the doorway
+Without a sound
+
+Someone save me if you will
+And take away all these pills
+And please just save me if you can
+From my blasphemy in my wasteland
+
+How did I get here
+And what went wrong
+Couldn't handle forgiveness
+Now I'm far beyond gone
+
+I can hardly remember
+The look of my own eyes
+How can I love this a life so dishonest
+It made me compromise
+
+Someone save me if you will
+And take away all these pills
+And please just save me if you can
+From my blasphemy in my wasteland
+
+Jump in the water
+Jump in with me
+Jump on the altar
+Lay down with me
+
+The hardest question to answer
+Is why
+Why
+
+Someone save me if you will
+And take away all these pills
+And please just save me if you can
+From my blasphemy in my wasteland
+
+Someone save me
+Someone save me
+Somebody save me
+Somebody save me
+Please don't erase me
+
+
 

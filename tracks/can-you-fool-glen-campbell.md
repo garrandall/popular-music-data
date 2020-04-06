@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-you-fool-glen-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/canyoufool.html
 name: Can You Fool
 rankings:
 - end_date: '1978-10-27'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+
+Well you can take all of the money that you made and put it in the jar
+Drag out a map that will show you, is Heaven very far?
+You take all of the medicine you need 'til ya find out who you are
+Maybe you can figure why that woman wanna be so cruel
+But ya, ya just can't forget her, can you fool?
+
+Well those winter nights and the city lights and the crying of the train
+Everyday is a shade of gray, every memory's a fade
+And then ya finally use the sense God gave ya to come out of the rain
+Still you can't figure why that man is got to be so cruel
+But ya just can't forget him, can you fool?
+
+Oh, love is long and love is hard
+Love brings lots of pain
+She was here, now she's gone
+Lord, bring her back again
+
+Well you can take all of the money that you made and put it in the jar
+Drag out a map that will show you, is Heaven very far?
+And you can take all of the medicine you need 'til ya find out who you are
+Still you can't figure why that man he got to be so cruel
+But ya just can't forget him, can you fool?
+No, you just can't forget her, can you fool?
+Aww, can you fool?
+
+
 

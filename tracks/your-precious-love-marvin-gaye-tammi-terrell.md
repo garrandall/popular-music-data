@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: your-precious-love-marvin-gaye-tammi-terrell
+lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/yourpreciouslove.html
 name: Your Precious Love
 rankings:
 - end_date: '1967-09-15'
@@ -60,4 +61,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
 ---
+
+
+Every day there's something new
+Honey, to keep me lovin' you
+And with every passin' minute
+Ah baby, so much joy wrapped up in it
+
+
+ Heaven must have sent you from above
+ Wo, heaven must have sent your precious love
+
+
+And I, I've got a song to sing
+Tellin' the world about the joy you bring
+And you gave me a reason for livin'
+And ooo, you taught me, you taught me the meaning of givin'
+
+
+
+ To find a love like ours is rare these days
+'Cause you've shown me happiness, yes, in so many ways
+ I look in the mirror, and I'm glad to see
+Laughter in the eyes where tears used to be
+
+ What you've given me I could never return
+'Cause there's so much, girl, I have yet to learn
+ And I wanna show, I wanna show my appreciation
+'Cause when I found you, I found a new inspiration
+
+
+
+
 

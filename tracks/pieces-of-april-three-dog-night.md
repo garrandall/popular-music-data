@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pieces-of-april-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/piecesofapril.html
 name: Pieces Of April
 rankings:
 - end_date: '1972-11-24'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
 ---
+
+April gave us springtime and the promise of the flowers
+And the feeling that we both shared and the love that we called ours
+We knew no time for sadness, that's a road we each had crossed
+We were living a time meant for us, and even when it would rain
+we would laugh it off.
+
+I've got pieces of April, I keep them in a memory bouquet
+I've got pieces of April, it's a morning in May
+
+We stood on the crest of summer, beneath an oak that blossomed green
+Feeling as I did in April, not really knowing what it means
+But it must be then that you stand beside me now to make me feel this way
+Just as I did in April, but it's a morning in May.
+
+I've got pieces of April, I keep them in a memory bouquet
+I've got pieces of April, but it's a morning in May
+
+I've got pieces of April, I keep them in a memory bouquet
+I've got pieces of April, but it's a morning in May
+
+
 

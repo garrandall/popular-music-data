@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: charlie-brown-the-coasters
+lyrics_url: https://www.azlyrics.com/lyrics/coasters/charliebrown.html
 name: Charlie Brown
 rankings:
 - end_date: '1959-02-08'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
+
+Fe-fe, fi-fi, fo-fo, fum
+I smell smoke in the auditorium
+
+Charlie Brown, Charlie Brown
+He's a clown, that Charlie Brown
+He's gonna get caught
+Just you wait and see
+(Why's everybody always pickin' on me)
+
+That's him on his knees
+I know that's him
+Yellin' 7 come 11
+Down in the boys' gym
+
+Charlie Brown, Charlie Brown
+He's a clown, that Charlie Brown
+He's gonna get caught
+Just you wait and see
+(Why's everybody always pickin' on me)
+
+Who's always writing on the wall
+Who's always goofing in the hall
+Who's always throwing spit balls
+Guess who (who, me) yeah, you
+
+Who walks in the classroom, cool and slow
+Who calls the English teacher, Daddy-O
+
+Charlie Brown, Charlie Brown
+He's a clown, that Charlie Brown
+He's gonna get caught
+Just you wait and see
+(Why's everybody always pickin' on me)
+
+Who walks in the classroom, cool and slow
+Who calls the English teacher, Daddy-O
+
+Charlie Brown, Charlie Brown
+He's a clown, that Charlie Brown
+He's gonna get caught
+Just you wait and see
+(Why's everybody always pickin' on me)
+
+
 

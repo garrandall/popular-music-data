@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: storybook-children--daybreak--bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/storybookchildren.html
 name: Storybook Children (Daybreak)
 rankings:
 - end_date: '1978-01-20'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
 ---
+
+Daybreak.
+How can I ever leave this place beside you?
+You were the only one I ever cried to.
+The night is through.
+
+Now it's heartache.
+I got to get home before he sees it's daybreak.
+Light from the sky is shining through the curtain lace.
+I never really meant to stay.
+
+And now it's daybreak.
+We were just sitting and talking.
+Oh, who would have thought we'd be spending the night
+dreading the light of daybreak?
+
+How can I leave this place beside you?
+How can I leave you, baby, leave you?
+I don't want to go.
+
+And now it's daybreak.
+We were like storybook children.
+Hey, but, like all good fairytales, this one must end.
+Here is the end. It's daybreak.
+
+How can I ever leave this place beside you?
+You were the only one I ever cried to.
+The night is through.
+
+Lord knows it's daybreak.
+And it feels like heartbreak.
+I don't want to leave you,
+I don't want to leave you, I need you!
+Looks like it's daybreak,
+but it feels like it's heartache.
+I don't want to leave you,
+don't make me leave you, I need you!
+Daybreak.
+Sunlight shining through the lace.
+I need you.
+Sun is smiling on your face.
+I need you.
+Don't make me leave you!
+Lord! . . .
+
+
 

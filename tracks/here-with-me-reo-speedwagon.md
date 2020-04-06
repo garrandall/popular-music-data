@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-with-me-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/herewithme.html
 name: Here With Me
 rankings:
 - end_date: '1988-07-01'
@@ -83,4 +84,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
+
+Maybe it's too late but this feelin is runnin through my soul
+I think I learned what love is but I'm afraid I let it go
+Maybe it's too late, maybe you've already changed your mind
+Turned lovin into leavin and I'm on the outside
+You can't take these words to bed with you and hold onto them at night
+They can't erase the emptiness and make everything alright
+But your laughter and your tenderness will never disappear
+No matter where you are tonight a part of you is here with me
+Here with me, I don't know where you are, all I know is I need you to be
+Here with me, I know it's not to late, to turn around and get it straight
+It's not fate to have you here with me
+I can hear your voice promising your love will never die
+I can feel your golden skin on mine beneath the desert sky
+So how can it be true, how can you just turn and let me go
+Let the story of your life with mine forever go untold
+I can't take these words to bed with me and hold onto them at night
+They can't erase the emptiness and make everything alright
+Cause your laughter and your tenderness will never disappear
+No matter where you are tonight a part of you is here with me
+Here with me, I don't know where you are, all I know is I need you to be
+Here with me, I know it's not too late, to turn around and get it straight
+It's not fate to have you here with me
+
+
+
+Here with me, I don't know where you are, all I know is I need you to be
+Here with me, I know it's not to late, to turn around and get it straight
+It's not fate to have you here with me
+
+
+
 

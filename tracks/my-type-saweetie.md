@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-type-saweetie
+lyrics_url: https://www.azlyrics.com/lyrics/saweetie/mytypelatinremix.html
 name: My Type
 rankings:
 - end_date: '2019-07-19'
@@ -87,4 +88,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
 ---
+
+
+Hennessy on my lips, take a lil' sip
+Privacy on the door, I'ma make the shit grip
+Icy
+
+Becky G (My type)
+Saweetie  (We got London on da track; my type)
+
+
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(Bad bitch, I'ma ride the dick all night)
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(That's my type, nigga, that's my type)
+
+
+New wrist, new whip, ride around dipped
+I can see why all these basic hoes pissed
+
+
+En la sangre llevo calentura que lo mata
+De ese cuerpecito no se aguanta
+Know your papi well because he's looking at my rom pom
+Becky got donk donk
+Si de las que se mueven yo soy la mama cabrona, wow
+Pero un huevo sin plata no me funciona
+If you want me to choose, well you better have blue
+This famous latina ain't fucking with you
+
+Hennessy on my lips, take a lil' sip
+Privacy on the door, I'ma make the shit grip
+
+
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(Bad bitch, I'ma ride the dick all night)
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(That's my type, that's my type)
+
+
+New wrist, new whip, ride around dipped
+I can see why all these basic hoes pissed
+
+Bust down wrist, not a bust down bitch (Ah)
+Said I want your man, no, the fuck, I don't sis (Uh, uh)
+If he a rich nigga, why he still hitting licks? (Licks)
+Niggas spending bread but he still can't hit
+Bitch, please, (Bitch), Lamborghini keys
+Pussy dripping ice, he get flown out to me
+Bitch please, I want a man with the Bs (Yeah)
+Pussy from the Bay, goin' dumb on the D
+
+Hennessy on my lips, take a lil' sip
+Privacy on the door, I'ma make the shit grip
+
+
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(Bad bitch, I'ma ride the dick all night)
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(That's my type, that's my type)
+
+
+New wrist, new whip, ride around dipped (Hey)
+I can see why all these basic hoes pissed (Yeah)
+
+
+Yeah, el nene tiene una bebÃ© que pussy cura
+Si le tira rosa, tu sabe que coge altura
+Ella es brasileÃ±a, la nana no se rasura
+Se la pongo en la boca, vitamina, agua pura
+I need a nigga that gon' put me on a big jet big dick
+When he put it on me got me big wet, bitch wet
+Bitch, you know I swallow you, he gotta put the ice on my neck
+Let it drip to my-
+Like
+
+
+Hennessy on my lips, take a lil' sip
+Privacy on the door, I'ma make the shit grip
+
+
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(Bad bitch, I'ma ride the dick all night)
+100 kilates, todo caro, that's my type
+(That's my type, nigga, that's my type)
+Bien grande, uh, that's my type
+(That's my type, that's my type)
+
+
+New wrist, new whip, ride around dipped
+I can see why all these basic hoes pissed
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-beautiful-day-chris-cagle
+lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/whatabeautifulday.html
 name: What A Beautiful Day
 rankings:
 - end_date: '2003-04-04'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
 ---
+
+Day one
+I stumbled through hello on 5th avenue
+Day two
+We grabbed a bite to eat and talked all afternoon
+Caught a movie on day 14
+And day 67 she said, "I love you" to me
+
+
+Oh what a feeling
+What a wonderful emotion
+Yeah what a life
+Counting my blessings and knowing
+Ooh we had our ups and downs all along the way
+She had a chance to leave but chose to stay
+What a beautiful day
+What a beautiful day
+
+Day 116
+I asked her what she was doing for the rest of my life
+Day 189
+Oh I almost lost that girl to my foolish pride
+She said, "I do" on day 482
+And gave me a son on day 761
+
+
+
+Day 18,253
+Well honey, that's fifty years
+Yeah, here's to you and me
+
+
+
+Day one
+I thank god I said hello on 5th avenue
+
+
 

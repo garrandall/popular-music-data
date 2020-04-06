@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: letters-from-home-john-michael-montgomery
+lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/lettersfromhome.html
 name: Letters From Home
 rankings:
 - end_date: '2004-03-26'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
 ---
+
+My dearest son, it's almost June
+I hope this letter catches up with you and finds you well
+It's been dry but they're callin' for rain
+And everything's the same ol' same in Johnsonville
+Your stubborn ol' daddy ain't said too much
+But I'm sure you know he sends his love
+And she goes on, in a letter from home
+
+
+I hold it up and show my buddies
+Like we ain't scared and our boots ain't muddy
+And they all laugh like there's something funny
+'bout the way I talk, when I say mama sends her best ya'll
+I fold it up and put it in my shirt
+Pick up my gun and get back to work
+And it keeps me drivin' on, waitin' on
+Letters from home
+
+My dearest love, it's almost dawn
+I've been lyin' here all night Long,
+Wonderin' where you might be
+I saw your mama and I showed her the ring
+Man on the television said
+Something so I couldn't sleep
+But I'll be alright, I'm just missin' you
+And this is me kissin' you
+X's and O's in a letter from home
+
+
+I hold it up and show my buddies
+Like we ain't scared and our boots ain't muddy
+And they all laugh 'cause she calls me honey
+But they take it hard, 'cause I don't read the good parts
+I fold it up and put it in my shirt
+Pick up my gun and get back to work
+And it keeps me drivin' on, waitin' on
+Letters from home
+
+Dear son, I know I ain't written
+And sittin' here tonight alone in the kitchen
+It occurs to me I might not have said it, so I'll say it now
+Son, you make me proud
+
+
+I hold it up and show my buddies
+Like we ain't scared and our boots ain't muddy
+But no one laughs ' cause there ain't nothin'
+Funny when a soldier cries, and I just wipe my eyes
+I fold it up and put in my shirt
+Pick up my gun and get back to work
+And it keeps me drivin' on, waitin' on,
+Letters from home
+
+
 

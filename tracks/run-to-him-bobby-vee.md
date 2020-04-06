@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-to-him-bobby-vee
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/runtohim.html
 name: Run To Him
 rankings:
 - end_date: '1961-11-19'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
 ---
+
+If you've found another guy who
+Satisfies you more than I do
+Run to him
+I'll step aside
+
+If you think his lips can kiss you
+Better than my lips can kiss you
+Run to him
+Forgive my pride
+
+If someone else's arms can hold you
+Better than my arms can hold you
+Go to him
+And show to him
+All your devotion
+
+If somebody else can make you
+Happier than I can make you
+Run to him
+My tears will dry
+
+If someone else's arms can hold you
+Better than my arms can hold you
+Go to him
+And show to him
+All your devotion
+
+If somebody else can make you
+Happier than I can make you
+Run to him
+My tears will dry
+
+If you feel you want to love me
+I'd be more than glad to love you
+Love you till your life is done
+But darling, if I'm not the one
+Then run to him
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boulevard-of-broken-dreams-green-day
+lyrics_url: https://www.azlyrics.com/lyrics/greenday/boulevardofbrokendreams.html
 name: Boulevard Of Broken Dreams
 rankings:
 - end_date: '2004-12-03'
@@ -151,4 +152,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
 ---
+
+I walk a lonely road
+The only one that I have ever known
+Don't know where it goes
+But it's home to me and I walk alone
+
+I walk this empty street
+On the Boulevard of Broken Dreams
+Where the city sleeps
+And I'm the only one and I walk alone
+
+I walk alone
+I walk alone
+I walk alone
+I walk a...
+
+My shadow's the only one that walks beside me
+My shallow heart's the only thing that's beating
+Sometimes I wish someone out there will find me
+'Til then I walk alone
+
+Ah-ah, ah-ah, ah-ah, aaah-ah
+Ah-ah, ah-ah, ah-ah
+
+I'm walking down the line
+That divides me somewhere in my mind
+On the border line
+Of the edge and where I walk alone
+
+Read between the lines
+Of what's fucked up and everything's alright
+Check my vital signs
+To know I'm still alive and I walk alone
+
+I walk alone
+I walk alone
+I walk alone
+I walk a...
+
+My shadow's the only one that walks beside me
+My shallow heart's the only thing that's beating
+Sometimes I wish someone out there will find me
+'Til then I walk alone
+
+Ah-ah, ah-ah, ah-ah, aaah-ah
+Ah-ah, ah-ah
+
+I walk alone
+I walk a...
+
+I walk this empty street
+On the Boulevard of Broken Dreams
+Where the city sleeps
+And I'm the only one and I walk a...
+
+My shadow's the only one that walks beside me
+My shallow heart's the only thing that's beating
+Sometimes I wish someone out there will find me
+'Til then I walk alone...
+
+
 

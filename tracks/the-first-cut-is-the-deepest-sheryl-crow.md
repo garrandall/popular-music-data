@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-first-cut-is-the-deepest-sheryl-crow
+lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/thefirstcutisthedeepest.html
 name: The First Cut Is The Deepest
 rankings:
 - end_date: '2003-10-31'
@@ -151,4 +152,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
 ---
+
+I would have given you all of my heart
+But there's someone who's torn it apart
+And he's taken just all that I had
+But if you want I'll try to love again
+
+Baby, I'll try to love again, but I know...
+
+The first cut is the deepest
+Baby I know
+The first cut is the deepest
+But when it comes to bein' lucky, he's cursed
+When it comes to lovin' me, he's worst...
+
+I still want you by my side
+Just to help me dry the tears that I've cried
+And I'm sure gonna give you a try
+If you want I'll try to love again, try
+
+Baby, I'll try to love again, but I know...
+
+The first cut is the deepest
+Baby I know
+The first cut is the deepest
+But when it comes to bein' lucky, he's cursed
+But when it comes to lovin' me, he's worst...
+
+I still want you by my side
+Just to help me dry the tears that I've cried
+But I'm sure gonna give you a try
+Cause if you want I'll try to love again
+(Try to love again, try to love again)
+
+Baby, I'll try to love again but I know
+
+The first cut is the deepest
+Baby I know
+The first cut is the deepest
+When it comes to bein' lucky, he's cursed
+When it comes to lovin' me, he's worst
+
+The first cut is the deepest
+Baby I know (baby I know)
+The first cut is the deepest
+Try to love again...
+
+
 

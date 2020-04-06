@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: china-grove-the-doobie-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/chinagrove.html
 name: China Grove
 rankings:
 - end_date: '1973-08-24'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
 ---
+
+When the sun comes up on a sleepy little town
+Down around San Antone
+And the folks are risin' for another day
+'Round about their homes
+The people of the town are strange
+And they're proud of where they came
+Well, you're talkin' 'bout China Grove
+Oh, China Grove
+
+Well, the preacher and the teacher
+Lord, they're a caution
+They are the talk of the town
+When the gossip gets to flyin'
+And they ain't lyin'
+When the sun goes fallin' down
+
+They say that the father's insane
+And dear Missus Perkin's a game
+We're talkin' 'bout the China Grove
+Oh, China Grove
+
+But every day there's a new thing comin'
+The ways of an oriental view
+The sheriff and his buddies
+With their samurai swords
+You can even hear the music at night
+
+And though it's a part of the Lone Star State
+People don't seem to care
+They just keep on lookin' to the East
+
+Talkin' 'bout the China Grove
+Oh, China Grove
+
+
 

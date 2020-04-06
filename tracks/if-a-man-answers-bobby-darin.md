@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-a-man-answers-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/ifamananswers.html
 name: If A Man Answers
 rankings:
 - end_date: '1962-10-05'
@@ -39,4 +40,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
 ---
+
+If a man answers your phone when I call
+Ooh... there's gonna be some screamin'
+And that ain't all
+'cause if I'm here callin' you
+Then who's the who I'm talkin' to?
+
+Why any fool could see
+That for sure it ain't me
+So, if a man answers your phone
+Then, honey we're through!
+
+Now... everything between us used to be fine
+Till I became a third party
+Where there ain't no party line
+Ya hear me talkin'...
+
+Gonna hang this phone up now and dial again
+Ooh... and there better be a soprano
+On the other end
+'cause if the voice is baritone
+When you told me you'd be home alone.
+
+Well... then I'm wastin' my time
+A-not to mention my dime
+So, if a man answers your phone
+Then, honey I'm gone!
+
+Now... everything between us used to be fine
+Till I became a third party
+Where there ain't no party line
+Ya hear me talkin'...
+
+Gonna hang this phone up now and dial again
+Ooooh... and there better be a soprano
+On the other end
+'cause if the voice is baritone
+When you told me you'd be home alone.
+
+Well... I'm wastin' my time
+Not to mention my dime
+So, if a man answers your phone
+Then, honey I'm gone!
+
+
 

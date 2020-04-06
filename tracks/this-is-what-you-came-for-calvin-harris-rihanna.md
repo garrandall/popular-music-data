@@ -5,6 +5,7 @@ features:
 - Rihanna
 genres: []
 key: this-is-what-you-came-for-calvin-harris-rihanna
+lyrics_url: https://www.azlyrics.com/lyrics/conormaynard/thisiswhatyoucamefor.html
 name: This Is What You Came For
 rankings:
 - end_date: '2016-05-27'
@@ -136,4 +137,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
 ---
+
+Baby, this is what you came for
+Lightning, strikes every time she moves
+And everybody's watching her
+But she's looking at you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, oh, oh
+
+Lightning, this is what you came for
+Lightning, strikes every time she moves
+And everybody's watching her
+But she's looking at you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, oh, oh
+You, oh oh, you, oh oh
+You, oh oh, you, oh oh
+You, oh oh, you, oh oh, oh
+
+We go fast with the game we play
+Who knows why it's gotta be this way
+We say nothing more than we need
+I say "let's go to my place when we leave"
+
+Baby, this is what you came for
+Lightning, strikes every time she moves
+And everybody's watching her
+
+Girl this what I got in mind
+Girl this what I came to do
+Have a couple good drinks
+With a couple good friends
+That's all that I wanna do
+But she never met a man like me (no)
+Told me that she only 19 (so)
+I'm a need to see some ID (go)
+Take her to my hotel suite (shh)
+She ain't a singer, make her hit a note
+Doe ray me fa so la ti to the do
+Start from the bed and then move to to the floor
+Only thing on is perfume and cologne
+I know you do when you say that you don't
+I know you will when you say that you won't
+Don't gotta say it I already know
+The things you don't say is what you you mean the most
+
+All my friends are wasted
+And I hate this club, man I drink too much
+Another Friday night I wasted
+My eyes are black and red
+I'm crawling back to you babe
+
+Can we, we keep, keep each other company
+Maybe we, can be, be each other's company
+Oh company
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-for-tonight-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/justfortonight.html
 name: Just For Tonight
 rankings:
 - end_date: '1992-05-29'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
 ---
+
+It's hard to realize we've said our last goodbyes
+Where could the dream have gone to
+Now I know there's no way that I can make you stay
+No matter how I want to
+
+We made some memories that my heart will always treasure
+Before you close the door let's make one more
+
+Baby, just for tonight let me give myself to you
+And all I ask is just for tonight love me like you used to do
+And I promise that I won't cry, I won't ask you why
+I won't even try to change your feelings
+If you just hold me tight, just once more, just for tonight
+
+I thought the love we found
+Was built on solid ground
+And it would just grow stronger yeah
+Crazy as it may seem
+I need to dream the dream
+For just, just a little longer
+So for the sake of all that magic we made together
+Open your heart to mine just one more time
+
+Baby, just for tonight let me give myself to you
+And all I ask is just for tonight love me like you used to do
+And I promise that I won't cry, I won't ask you why
+I won't even try to change your feelings
+If you just hold me tight, just once more, just for tonight baby, oh
+
+All I want is one more night, yeah
+So why don't you come to me let me dream?
+This night means everything to me
+All I ask is for tonight
+Baby just hold me tight. Yeah...
+Come to me, let me dream
+This night means everything to me
+
+
 

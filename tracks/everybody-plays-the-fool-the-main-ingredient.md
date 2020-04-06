@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-plays-the-fool-the-main-ingredient
+lyrics_url: https://www.azlyrics.com/lyrics/aaronneville/everybodyplaysthefool.html
 name: Everybody Plays The Fool
 rankings:
 - end_date: '1972-07-21'
@@ -79,4 +80,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
 ---
+
+Ok, so your heart is broken 
+You're sitting around mopin', cryin', cryin' 
+You say you even think about dying 
+Well, before you do anything rash, baby, dig this 
+
+Everybody plays the fool, sometime 
+There's no exception to the rule, listen baby 
+It may be factual, it may be cruel, I ain't lying 
+Everybody plays the fool 
+
+Fallin' in love is such an easy thing to do 
+But there's no guarantee that the one you love, is gonna love you 
+Oh, loving eyes they cannot see a certain person could never be 
+Love runs deeper than any ocean, it clouds your mind with emotion 
+
+Everybody plays the fool, sometime 
+There's no exception to the rule, listen baby 
+It may be factual, it may be cruel, I ain't lying 
+Everybody plays the fool 
+
+How can you help it, when the music starts to play 
+And your ability to reason, is swept away 
+Oh, heaven on earth is all you see, you're out of touch with reality 
+And now you cry, but when you do, next time around someone cries for you 
+
+Hey, everybody plays the fool, sometime 
+Use your heart just like a tool, listen baby 
+They never tell you so in school, I wanna say it again, 
+Everybody plays the fool 
+
+Everybody plays the fool, sometime 
+There's no exception to the rule, listen baby 
+It may be factual, it may be cruel, I ain't lying 
+Everybody plays the fool 
+
+Every plays the fool, sometime 
+There's no exception to the rule, listen baby 
+It may be factual, it may be cruel, I wanna say it again 
+Everybody plays the fool
+
+
 

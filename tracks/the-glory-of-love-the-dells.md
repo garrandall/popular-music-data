@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-glory-of-love-the-dells
+lyrics_url: https://www.azlyrics.com/lyrics/pretenders/holdacandletothis.html
 name: The Glory Of Love
 rankings:
 - end_date: '1971-02-12'
@@ -15,4 +16,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
 ---
+
+So much for banning the bomb
+The president's wife is carrying a hand gun
+If you want blood sports for fun now
+They call me 'the hunter' - better run now
+You hear a 'crack' in the distance baby
+Your phoney mating calls' resistance maybe
+Don't smile - we're gonna get you
+We'll have your rifle off you too
+Gimme a kiss
+And hold a candle to this!
+
+Foxy lady dressed to kill
+You say you won't but you will
+What's on your face and your breath mama?
+You wear your glory or death mama
+But liberation's on the way
+Every dog's gonna have it's day
+Pack up your rape racks and crush box out of hell
+Farmer in the dell
+Oh please i insist
+Hold a candle to this!
+
+Bring on the ecstasy!
+And the bliss
+Bring on my wedding day
+And everybody's birthday
+Blow up the abbatoir!
+Detonate!
+We're going home
+Where the buffalo roam!
+
+There's a new generation
+From osaka, siam and saigon
+The sailors mixed it on the shore
+They were making love and making war
+Well here's a present for the navy
+Same meat -different gravy
+Those chicks will find you - that's for sure
+1 - 2 - 3 - 4 - tell the people what she wore!
+(you're american miss)
+Hold a candle to this!
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool--1-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/foolno1.html
 name: 'Fool #1'
 rankings:
 - end_date: '1961-10-08'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
 ---
+
+Am I fool number one
+Or am I fool number two
+How many other girls
+Have been fooled by you?
+I suppose that the number
+Is far from being small
+And I'll bet that I'm the biggest fool of all
+
+If I had the chance
+I guess I'd do it all again
+I'd go down the same old road
+Even knowing at the end
+You'll leave me when your heart hears
+A new love call
+So I guess that I'm the biggest fool of all
+
+Am I fool number one
+Or am I fool number two
+How many other girls have been fooled by you?
+I suppose that the number, is far from being small
+And I'll bet that I'm the biggest fool of all
+And I'll bet that I'm the biggest fool of all
+
+
 

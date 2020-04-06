@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-sarah-mclachlan
+lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/angel.html
 name: Angel
 rankings:
 - end_date: '1998-12-11'
@@ -119,4 +120,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
 ---
+
+Spend all your time waiting
+for that second chance
+for a break that would make it okay
+there's always some reason
+to feel not good enough
+and it's hard at the end of the day
+I need some distraction
+oh beautiful release
+memories seep from my veins
+let me be empty
+and weightless and maybe
+I'll find some peace tonight
+
+in the arms of the angel
+fly away from here
+from this dark cold hotel room
+and the endlessness that you fear
+you are pulled from the wreckage
+of your silent reverie
+you're in the arms of the angel
+may you find some comfort here
+
+so tired of the straight line
+and everywhere you turn
+there's vultures and thieves at your back
+and the storm keeps on twisting
+you keep on building the lies
+that you make up for all that you lack
+it don't make no difference
+escaping one last time
+it's easier to believe in this sweet madness oh
+this glorious sadness that brings me to my knees
+
+in the arms of the angel
+fly away from here
+from this dark cold hotel room
+and the endlessness that you fear
+you are pulled from the wreckage
+of your silent reverie
+you're in the arms of the angel
+may you find some comfort here
+you're in the arms of the angel
+may you find some comfort here
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-but-for-the-grace-of-god-go-i-machine
+lyrics_url: https://www.azlyrics.com/lyrics/florencethemachine/imnotcallingyoualiar.html
 name: There But For The Grace Of God Go I
 rankings:
 - end_date: '1979-03-23'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+
+I'm not calling you a liar, just don't lie to me
+I'm not calling you a thief, just don't steal from me
+I'm not calling you a ghost, just stop haunting me
+And I love you so much, I'm gonna let you kill me
+
+There's a ghost in my lungs and it sighs in my sleep
+Wraps itself around my tongue as it softly speaks
+Then it walks, then it walks with my legs
+To fall, to fall, to fall at your feet
+
+There but for the grace of God go I
+And when you kiss me, I am happy enough to die
+
+I'm not calling you a liar, just don't lie to me
+And I love you so much, I'm gonna let you
+I'm not calling you a thief, just don't
+And I love you so much, I'm gonna let you
+I'm not calling you a ghost, just stop
+
+There's a ghost in my mouth and it talks in my sleep
+Wraps itself around my tongue as it softly speaks
+Then it walks, then it walks, then it walks with my legs
+To fall, to fall, to fall, to fall, to fall, to fall
+To fall, to fall, to fall, to fall
+To fall, to fall at your feet
+
+There but for the grace of God go I
+And when you kiss me, I am happy enough
+
+
 

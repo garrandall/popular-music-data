@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: groovy-kind-of-love-phil-collins
+lyrics_url: https://www.azlyrics.com/lyrics/philcollins/agroovykindoflove.html
 name: Groovy Kind Of Love
 rankings:
 - end_date: '1988-09-09'
@@ -107,4 +108,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
 ---
+
+When I'm feeling blue, all I have to do
+Is take a look at you, then I'm not so blue
+When you're close to me, I can feel your heart beat
+I can hear you breathing in my ear
+Wouldn't you agree, baby you and me got a groovy kind of love
+
+Anytime you want to you can turn me onto
+Anything you want to, anytime at all
+When I kiss your lips, ooh I start to shiver
+Can't control the quivering inside
+Wouldn't you agree, baby you and me got a groovy kind of love, oh
+
+When I'm feeling blue, all I have to do
+Is take a look at you, then I'm not so blue
+When I'm in your arms, nothing seems to matter
+My whole world could shatter, I don't care
+Wouldn't you agree, baby you and me got a groovy kind of love
+We got a groovy kind of love
+We got a groovy kind of love, oh
+We got a groovy kind of love
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: king-of-the-road-roger-miller
+lyrics_url: https://www.azlyrics.com/lyrics/proclaimers/kingoftheroad.html
 name: King Of The Road
 rankings:
 - end_date: '1965-02-05'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
 ---
+
+Trailer for sale or rent
+Rooms to let fifty cents.
+No phone, no pool, no pets,
+I ain't got no cigarettes.
+Ah but two hours of pushin' broom
+Buys an eight by twelve four-bit room.
+I'm a man of means, by no means king of the road.
+
+Third boxcar, midnight train,
+Destination Bangor, Maine.
+Old worn out suits and shoes,
+I don't pay no union dues.
+I smoke old stogies I have found,
+Short but not too big around.
+I'm a man of means, by no means king of the road.
+
+I know every engineer on every train,
+All of the children and all of their names
+And every handout in every town
+And every lock that ain't locked when no one's around
+I sing
+
+Trailer for sale or rent
+Rooms to let fifty cents.
+No phone, no pool, no pets,
+I ain't got no cigarettes.
+Ah but two hours of pushin' broom
+Buys an eight by twelve four-bit room.
+I'm a man of means, by no means king of the road.
+
+Trailer for sale or rent
+Rooms to let fifty cents.
+No phone, no pool, no pets,
+I ain't got no cigarettes.
+Ah but two hours of pushin' broom
+Buys an eight by twelve four-bit room.
+I'm a man of means, by no means king of the road
+
+
 

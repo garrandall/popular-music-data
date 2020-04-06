@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-feels-so-good-sonique
+lyrics_url: https://www.azlyrics.com/lyrics/sonique/itfeelssogood.html
 name: It Feels So Good
 rankings:
 - end_date: '2000-01-28'
@@ -103,4 +104,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
 ---
+
+You always make me smile
+When I'm feeling down
+You give me such a vibe
+It's totally bonafide
+
+It's not the way you walk
+And it ain't the way you talk
+It ain't the job you got
+That keeps me satisfied
+
+Your love, it feels so good
+And that's what takes me high
+Higher than I've been before
+Your love, it keeps me alive
+Thought I should let you know
+That your touch it means so much
+When I'm alone at night
+It's you I'm always thinking of
+
+Oh, oh, baby
+
+Oh, i want you to understand
+How I feel, deep inside
+Oh oh, you make me feel
+All I need to feel
+Yes, in my heart
+
+Your love, it feels so good
+And that's what takes me high
+Higher than I've been before
+Your love, it keeps me alive
+Thought I should let you know
+That your touch it means so much
+When I'm alone at night
+It's you I'm always thinking of
+
+
 

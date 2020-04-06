@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-she-wants-to-do-is-dance-don-henley
+lyrics_url: https://www.azlyrics.com/lyrics/donhenley/allshewantstodoisdance.html
 name: All She Wants to Do Is Dance
 rankings:
 - end_date: '1985-03-01'
@@ -83,4 +84,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
 ---
+
+They're pickin' up the prisoners and puttin' 'em in a pen
+And all she wants to do is dance, dance
+Rebels been rebels since I don't know when
+And all she wants to do is dance
+Molotov cocktail - the local drink
+And all she wants to do is dance, dance
+
+Mix em up right, in the kitchen sink
+And all she wants to do is dance....
+
+Crazy people walkin' round with blood in their eyes
+And all she wants to do is dance, dance
+Wild-eyed pistol wavers who ain't afraid to die
+And all she wants to do is
+All she wants to do is dance and make romance
+She can't feel the heat comin' off the street
+She wants to party
+She wants to get down
+All she wants to do is
+All she wants to do is dance
+
+Well, the government bugged the men's room in the local disco lounge
+And all she wants to do is dance, dance
+To keep the boys from sellin' all the weapons they could scrounge
+And all she wants to do is dance
+But that don't keep the boys from makin' a buck or two
+And all she wants to do is dance, dance
+They still can sell the army all the drugs that they can do
+And all she wants to do is
+All she wants to do is dance and make romance
+
+Well we barely made the airport for the last plane out
+As we taxied down the runway I could hear the people shout
+They said "Don't come back here Yankee"
+But if I ever do
+I'll bring more money
+'Cause all she wants to do is dance and make romance
+Never mind the heat comin' off the street
+She wants to party
+She wants to get down
+All she wants to do is
+All she wants to do is dance
+All she wants to do is dance and make romance
+All she wants to do is dance
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-where-the-happy-people-go-the-trammps
+lyrics_url: https://www.azlyrics.com/lyrics/trammps/thatswherethehappypeoplego.html
 name: That's Where The Happy People Go
 rankings:
 - end_date: '1976-04-16'
@@ -67,4 +68,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
 ---
+
+I used to spend most of my time
+Just being alone, yes, I did
+Nothing to do, no place to go
+Just stayed at home
+
+So I put my blues upon the shelf
+And I made up my mind
+To live a little myself
+So I went on down to a disco
+
+Disco, that's where
+The happy people go
+(Happy people go)
+And they're just dancing along
+To a perfect song at the disco
+
+Disco, that's where
+The happy people go
+And they're just dancing along
+To a perfect song at the disco
+
+Now listen, all my friends
+They wonder what's come over me
+They all say I'm not the
+Same old guy I used to be, yeah
+
+First of all, I got myself together
+I danced my blues away
+They're gone forever
+Then I ease on down to the disco
+
+Disco, that's where
+The happy people go
+(Happy people go)
+And they're just dancing along
+To a perfect song at the disco
+
+Clap your hands
+Just stomp your feet, alright
+Get on down, get on down
+Just get on down
+
+Sing the song, children
+Boogie, boogie, boogie
+Boogie, boogie
+Boogie, boogie
+Boogie, boogie
+Boogie, boogie
+Boogie, boogie
+
+Oh, yeah
+Keep on, keep on
+Keep on
+
+Disco, that's where
+The happy people go
+And they're just dancing along
+To a perfect song at the disco
+
+
 

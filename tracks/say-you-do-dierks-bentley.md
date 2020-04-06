@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-you-do-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/sayyoudo.html
 name: Say You Do
 rankings:
 - end_date: '2015-02-06'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
 ---
+
+Don't worry about the damage done
+Just let those words roll off your tongue
+Even if you're lyin'
+
+If you really don't mean it, I don't care
+If you need a little buzz to get you there
+Then baby I'm buyin'
+
+
+Well couldn't you
+Say you do
+Say you might
+For tonight
+Have a heart
+Bend the truth
+Even if you don't
+Couldn't you
+
+Mess me up
+Get in my head
+Steal my t-shirt
+Wreck my bed
+All night long
+Like you used to
+Even if you don't
+Couldn't you
+Say you do?
+
+Yeah baby, I'm begging you to lead me on
+Say it feels good to be back in my arms
+And then don't call me
+
+I don't mind a little smoke gettin' in my eyes
+Baby, take your hands, take your lies
+And lay 'em on me
+
+
+
+Well don't worry about the damage done,
+Just let those words roll of your tongue
+Even if you're lyin'
+
+
+
+Say you do
+Just say you do
+
+
 

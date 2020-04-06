@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: play-something-sweet--brickyard-blues--three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/playsomethingsweetbrickyardblues.html
 name: Play Something Sweet (Brickyard Blues)
 rankings:
 - end_date: '1974-10-04'
@@ -55,4 +56,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
 ---
+
+Well, I tried to run my game
+She said "Man, that's the same old thing I've heard before"
+And I'm too tired to go for your show (again and again)
+
+And she started to explain
+She said "Man, I ain't sayin' what you're playin' just can't make it
+But I just can't take it anymore"
+
+Play somethin' sweet, play somethin' mellow
+Play somethin' I can sink my teeth in like Jello
+Play something I can understand
+Play me some Brickyard Blues
+
+Play somethin' sweet and make it funky
+Just let me lay back and grin like a monkey
+Play something I can understand
+Play me some Brickyard Blues
+
+Well, I started to sweat
+She said "Don't get upset 'cause you just might break a string
+And that won't do a thing for your show
+
+So I said to myself
+I said "Self, do you see what is sailin' through my soul?"
+And I gotta have some more, don't ya know
+
+Play somethin' sweet, play somethin' mellow
+Play somethin' I can sink my teeth in like Jello
+Play something I can understand
+Play me some Brickyard Blues
+
+Play somethin' sweet and make it funky
+Just let me lay back and grin like a monkey
+Play something I can understand
+Play me some Brickyard Blues
+
+It's enough to make it light in the dark
+It's enough to make a bite just a bark
+It's enough to make a body move around
+It's enough to make a rabbit hug a dog
+Play somethin' sweet
+
+
+
+Well, I tried to run my game
+She said "Man, that's the same old thing I've heard before"
+And I'm too tired to go for your show (again and again)
+
+And she started to explain
+She said "Man, I ain't sayin' what you're playin' just can't make it
+But I just can't take it anymore"
+
+Play somethin' sweet, play somethin' mellow
+Play somethin' I can sink my teeth in like Jello
+Play something I can understand
+Play me some Brickyard Blues
+
+Play somethin' sweet and make it funky
+Just let me lay back and grin like a monkey
+Play something I can understand
+Play me some Brickyard Blues
+
+Play somethin' sweet, play somethin' mellow
+Play somethin' I can sink my teeth in like Jello
+Play something I can understand
+Play me some Brickyard Blues
+
+Play somethin' sweet and make it funky
+Just let me lay back and grin like a monkey
+Play something I can understand
+Play me some Brickyard Blues
+
+
 

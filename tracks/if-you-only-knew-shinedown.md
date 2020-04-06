@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-only-knew-shinedown
+lyrics_url: https://www.azlyrics.com/lyrics/shinedown/ifyouonlyknew.html
 name: If You Only Knew
 rankings:
 - end_date: '2009-11-20'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
 ---
+
+If you only knew
+I'm hanging by a thread
+The web I spin for you
+If you only knew
+I'd sacrifice my beating
+Heart before I'd lose you
+I still hold onto the letters
+You returned
+I swear I've lived and learned
+
+
+It's 4:03 and I can't sleep
+Without you next to me I
+Toss and turn like the sea
+If I drown tonight, bring me
+Back to life
+Breathe your breath in me
+The only thing that I still believe
+In is you, if you only knew
+
+If you only knew
+How many times I counted
+All the words that went wrong
+If you only knew
+How I refuse to let you go,
+Even when you're gone
+I don't regret any days I
+Spent, nights we shared,
+Or letters that I sent
+
+
+It's 4:03 and I can't sleep
+Without you next to me I
+Toss and turn like the sea
+If I drown tonight, bring me
+Back to life
+Breathe your breath in me
+The only thing that I still believe
+In is you, if you only knew
+If you only knew
+
+If you only knew
+I still hold onto the letters
+You returned
+You help me live and learn
+
+
+It's 4:03 and I can't sleep
+Without you next to me I
+Toss and turn like the sea
+If I drown tonight, bring me
+Back to life
+Breathe your breath in me
+The only thing that I still believe
+In is you, believe in is you
+I still believe in you
+Oh, if you only knew
+
+
 

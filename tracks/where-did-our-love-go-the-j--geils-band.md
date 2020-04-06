@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-did-our-love-go-the-j--geils-band
+lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/wheredidourlovego.html
 name: Where Did Our Love Go
 rankings:
 - end_date: '1976-04-23'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+
+Baby, baby, baby, don't leave me
+Oh, don't leave me all by myself, yeah
+
+I've got this yearning, burning, yearning feelin' inside me
+Ooh, deep inside me, oh, and it hurts so bad
+
+Ooh, baby, baby, where did our love go?
+You don't want me, want me no more, yeah
+
+You came into my heart with a burning love
+Kept on hurtin' me, oh, so bad
+
+Oh, baby, baby, where did our love go?
+You don't want me, want me no more, baby
+
+Baby, baby, where did our love go?
+You don't want me, want me no more
+
+Baby, baby, where did our love go?
+You don't want me, want me no more
+
+
 

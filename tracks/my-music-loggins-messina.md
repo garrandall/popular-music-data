@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-music-loggins-messina
+lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/mymusic.html
 name: My Music
 rankings:
 - end_date: '1973-11-09'
@@ -60,4 +61,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
 ---
+
+Do do do...
+
+Hey, little girl
+Won't you meet me
+At the schoolyard gate
+I got back stage passes
+To the biggest show in town
+So, honey, don't you make me late
+
+If we leave really early and we hurry
+We can get in with the band
+'Cause little Tim Smitty's
+Got his old man's van
+
+So let's get to getting
+While the getting is right
+And roll with the rhythm tonight
+
+God knows that I love my music
+Ain't no one gonna change my tune
+Don't you know that I love my music
+Ain't never gonna change my tune
+
+Hey, little girl, want to
+Dance with you all night long
+The music got me buzzing
+And I feel pretty loose
+I feel the rhythm and it's
+Comin' on strong, baby, baby
+
+Lay the rhythm on me, baby
+There's power in the sound
+With everybody jumping
+We can bring the house down
+
+So let's get to getting
+While the getting is right
+And roll with the rhythm tonight
+
+God knows that I love my music
+Ain't no one gonna change my tune
+Don't you know that I love my music
+Ain't never gonna change my tune
+
+God knows that I love my music
+Ain't no one gonna change my tune
+Don't you know that I love my music
+Ain't never gonna change my
+
+Do do do...
+
+Love my music
+Ain't no one gonna change my tune
+Don't you know that I love my music
+Ain't never gonna change my tune
+
+
 

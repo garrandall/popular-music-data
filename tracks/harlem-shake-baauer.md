@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harlem-shake-baauer
+lyrics_url: https://www.azlyrics.com/lyrics/baauer/harlemshake.html
 name: Harlem Shake
 rankings:
 - end_date: '2013-03-08'
@@ -87,4 +88,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
 ---
+
+Con los terroristas
+Ey Shake
+Ey Shake
+Ey, Ey, Ey, Ey
+Shake, Ta. Ta
+And do the Harlem Shake
+Ey Shake, Ey
+
+Shake, Shake
+Ey
+Shake, Shake, Shake
+Con los terroristas
+Ey, Con los terroristas
+Ey, Ey
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-gadda-da-vida-iron-butterfly
+lyrics_url: https://www.azlyrics.com/lyrics/blindguardian/inagaddadavida.html
 name: In-A-Gadda-Da-Vida
 rankings:
 - end_date: '1968-08-30'
@@ -75,4 +76,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
 ---
+
+In-A-Gadda-Da-Vida, honey,
+Don't you know that I love you?
+In-A-Gadda-Da-Vida, baby,
+Don't you know that I'll always be true?
+
+Oh, won't you come with me
+And take my hand?
+
+Oh, won't you come with me
+And walk this land?
+
+Please take my hand!
+
+
 

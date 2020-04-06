@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-love-with-a-girl-gavin-degraw
+lyrics_url: https://www.azlyrics.com/lyrics/gavindegraw/inlovewithagirl.html
 name: In Love With A Girl
 rankings:
 - end_date: '2008-03-07'
@@ -99,4 +100,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
 ---
+
+So many people gonna say that they want you,
+To try to get you thinking they really care,
+But there's nothing like the warmth of the one
+who has put in the time and you know is gonna be there,
+Back your border when she knows someone crossed it,
+Don't let nobody put you down, who your with
+Take the pain of protecting your name,
+from the crutch to the cane to the highwire
+
+
+I'm in love with a girl who knows me better,
+Fell for the woman just when I met her,
+Took my sweet time when I was bitter,
+Someone understands,
+And she knows how to treat a fella right,
+Give me that feeling every night,
+Wants to make love when I wanna fight,
+Now someone understand me,
+I'm in love with a girl (I'm in love with) 
+
+After many broken backdoors and windows,
+Through the valley of the love of the lost,
+Is a hole that is cut through the souls falling down
+from the thrones without any innuendos,
+But you drown in a piece for the moment,
+The moment was over in time,
+Then its gone the hit and run the guiltless one has a short life
+
+I'm in love with a girl who knows me better,
+Fell for the woman just when I met her,
+
+Took my sweet time when I was bitter,
+Someone understands,
+And she knows how to treat a fella right,
+Give me that feeling every night,
+Wants to make love when I wanna fight,
+Now someone understand me,
+I'm in love with a girl (I'm in love with) 
+
+Gonna tell you what you do to think you practice what you preach,
+Now I know there's nothing we can't reach,
+'cause the heart can't erase once it finds a place to be warm and welcome,
+To be held in shelter
+
+
+I'm in love with a girl who knows me better,
+Fell for the woman just when I met her
+Took my sweet time when I was bitter
+Someone understands,
+And she knows how to treat a fella right
+Give me that feeling every night
+Wants to make love when I wanna fight
+Now someone understands me
+I'm in love with a girl (I'm in love with) 
+Who knows me better
+Wants to make love when I wanna fight
+now someone understand me
+
+
 

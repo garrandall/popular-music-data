@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-for-a-love-the-j--geils-band
+lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/lookingforalove.html
 name: Looking For A Love
 rankings:
 - end_date: '1971-12-10'
@@ -47,4 +48,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
 ---
+
+Somebody help me
+Somebody help me now
+Somebody help me now
+
+Somebody help me
+Find my baby
+Somebody help me
+Find my baby right now
+
+I'm looking for a love
+I'm looking for a love
+I'm looking here and there
+I'm searching everywhere
+I'm looking for a love
+To call my own
+
+Gonna get up in the morning
+And rub my head
+I'm looking for a love
+To call my own
+
+Fix my breakfast
+And bring it to my bed
+I'm looking for a love
+To call my own
+
+Do my love
+Do it all the time
+I'm looking for a love
+To call my own
+
+With lots of love and kisses
+But people until then
+I'm looking for a love
+To call my own
+
+I'm looking for a love
+I'm looking for a love
+I'm looking here and there
+I'm searching everywhere
+I'm looking for a love
+To call my own
+
+Stay in my corner
+All the way, yeah
+I'm looking for a love
+To call my own
+
+Stick by me, baby
+No matter what they say
+I'm looking for a love
+To call my own
+
+I'll give my love
+To her all the time
+I'm looking for a love
+To call my own
+
+Loving, kissing
+People on the way
+I'm looking for a love
+To call my own
+
+I'm looking for a love
+I'm looking for a love
+I'm looking here and there
+I'm searching everywhere
+I'm looking for a love
+To call my own
+
+Somebody help me
+To find my baby
+I said I've got to find
+My baby right now
+
+I'm looking in the morning
+I'm looking at night
+Got to find my baby
+But she's nowhere in sight
+
+Somebody help me
+To find my baby
+I said I've got to find
+My baby right now
+
+I'm looking in the morning
+I'm looking at night
+Got to find my baby
+She's nowhere in sight
+
+I'm looking, I'm looking
+I'm looking, I'm looking...
+
+
 

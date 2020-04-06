@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-d-been-the-one-thirty-eight-special
+lyrics_url: https://www.azlyrics.com/lyrics/greatwhite/saturdaynightspecial.html
 name: If I'd Been The One
 rankings:
 - end_date: '1983-11-18'
@@ -71,4 +72,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
 ---
+
+two feet they come a creeping like a black cat do
+and two bodies are laying naked the creeper thinks he's got nothing to lose
+so he creeps into this house and unlocks the door
+and as a man's reaching for his trousers he shoots him full of thirty eight holes
+mister saturday night special got a barrel that's blue and cold
+it ain't no good for nothing but put a man six feet in a hole
+big jim's been drinking whiskey and playing poker on a losing night
+and pretty soon old jim starts a thinking somebody been cheating and lying
+so big jim commences to fighting i wouldn't tell you no lie
+and big jim done pulled his pistol he shot his friend right between the eyes
+mister saturday night special got a barrel that's blue and cold
+it ain't no good for nothing but put a man six feet in a hole
+mister saturday night special for twenty dollars you can buy yourself one too
+hand guns are made for killing they ain't no good for nothing else
+and if you like to drink your whiskey you might even shoot yourself
+so why don't we dump them people to the bottom of the sea
+before some old fool comes around here and want to shoot either you or me
+mister saturday night special got a barrel that's blue and cold
+it ain't no good for nothing but put a man six feet in a hole
+mister saturday night special i'd like to tell you what you can do with it too
+
+
 

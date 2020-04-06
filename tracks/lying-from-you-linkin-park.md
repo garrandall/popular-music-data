@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lying-from-you-linkin-park
+lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/lyingfromyou.html
 name: Lying From You
 rankings:
 - end_date: '2004-04-16'
@@ -79,4 +80,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
 ---
+
+
+When I pretend, everything is what I want it to be
+I look exactly like what you had always wanted to see
+When I pretend, I can forget about the criminal I am
+Stealing second after second just 'cause I know I can
+
+
+But I can't pretend this is the way it'll stay
+I'm just (trying to bend the truth)
+I can't pretend I'm who you want me to be
+So I'm (lying my way from you)
+
+No, no turning back now
+(I wanna be pushed aside, so, let me go)
+No, no turning back now
+(Let me take back my life)
+(I'd rather be all alone)
+No turning back now
+(Anywhere on my own)
+('Cause I can see)
+No, no turning back now
+(The very worst part of you is me)
+
+
+I remember what they taught to me
+Remember condescending talk of who I ought to be
+Remember listening to all of that and this again
+So I pretended up a person who was fittin' in
+
+
+And now you think this person really is me
+And I'm (trying to bend the truth)
+But the more I push the more I'm pulling away
+'Cause I'm (lying my way from you)
+
+No, no turning back now
+(I wanna be pushed aside, so, let me go)
+No, no turning back now
+(Let me take back my life)
+(I'd rather be all alone)
+No turning back now
+(Anywhere on my own)
+('Cause I can see)
+No, no turning back now
+(The very worst part of you)
+(The very worst part of you is me)
+
+
+This isn't what I wanted to be
+I never thought that what I said would have you running from me
+Like this
+
+
+(You)
+No turning back now
+(I wanna be pushed aside, so, let me go)
+No, no turning back now
+(Let me take back my life)
+(I'd rather be all alone)
+No turning back now
+(Anywhere on my own)
+('Cause I can see)
+No, no turning back now
+(The very worst part of you)
+(The very worst part of you is me)
+
+
 

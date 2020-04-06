@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-midnight-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/aftermidnight108859.html
 name: After Midnight
 rankings:
 - end_date: '1970-10-23'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
 ---
+
+After midnight, we're gonna let it all hang down.
+After midnight, we're gonna chug-a-lug and shout.
+We're gonna stimulate some action;
+We're gonna get some satisfaction.
+We're gonna find out what it is all about.
+After midnight, we're gonna let it all hang down.
+
+After midnight, we're gonna shake your tambourine.
+After midnight, it's all gonna be peaches and cream.
+We're gonna cause talk and suspicion;
+We're gonna give an exhibition.
+We're gonna find out what it is all about.
+After midnight, we're gonna let it all hang down.
+
+After midnight, we're gonna let it all hang down.
+
+
+
+After midnight, we're gonna let it all hang down.
+After midnight, we're gonna let it all hang down.
+After midnight, we're gonna let it all hang down.
+After midnight, we're gonna let it all hang down.
+
+
 

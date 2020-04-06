@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ring-my-bell-anita-ward
+lyrics_url: https://www.azlyrics.com/lyrics/anitaward/ringmybell.html
 name: Ring My Bell
 rankings:
 - end_date: '1979-05-18'
@@ -91,4 +92,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
 ---
+
+I'm glad you're home
+Now did you really miss me
+I guess you did by the look in your eyes
+(Look in your eyes, look in your eyes)
+Well lay back and relax while I put away the dishes (put away the dishes)
+Then you and me can rock-a-bye
+
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+
+The night is young and full of possibilities
+Well come on, and let yourself be free
+My love for you (love for you, love for you), so long I've been saving
+Tonight was made for me and you
+
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+
+You can ring my bell, you can ring my bell
+Ding dong, ding dong, ring it
+You can ring my bell, anytime, anyway
+Ring it, ring it ring it, owww
+
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+You can ring my be-e-ell, ring my bell
+
+
 

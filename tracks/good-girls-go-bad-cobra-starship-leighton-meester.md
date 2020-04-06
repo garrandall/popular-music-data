@@ -5,6 +5,7 @@ features:
 - Leighton Meester
 genres: []
 key: good-girls-go-bad-cobra-starship-leighton-meester
+lyrics_url: https://www.azlyrics.com/lyrics/cobrastarship/goodgirlsgobad.html
 name: Good Girls Go Bad
 rankings:
 - end_date: '2009-06-05'
@@ -108,4 +109,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
 ---
+
+I make them good girls go bad
+I make them good girls go
+Good girls go bad
+Good girls go bad
+
+I know your type
+Yeah daddy's lil' girl
+Just take a bite
+Let me shake up your world
+Cause just one night couldn't be so wrong
+I'm gonna make you lose control
+
+She was so shy
+'Til I drove her wild
+
+I make them good girls go bad
+I make them good girls go bad
+You were hanging in the corner
+With your five best friends
+You heard that I was trouble but you couldn't resist
+I make them good girls go bad
+I make them good girls go
+Good girls go bad
+Good girls go bad
+Good girls go
+
+I know your type
+Boy you're dangerous
+Yeah you're that guy
+I'd be stupid to trust
+But just one night couldn't be so wrong
+You make me want to lose control
+
+She was so shy
+'Til I drove her wild
+
+I make them good girls go bad
+I make them good girls go bad
+I was hanging in the corner
+With my five best friends
+I heard that you were trouble but I couldn't resist
+I make them good girls go bad
+I make them good girls go
+Good girls go bad
+Good girls go bad
+Good girls go bad
+
+Oh she got a way with them boys in the place
+Treat 'em like they don't stand a chance
+And he got a way with them girls in the back
+Actin' like they too hot to dance
+
+Yeah she got a way with them boys in the place
+Treat 'em like they don't stand a chance
+And he got a way with them girls in the back
+Actin' like they too hot to dance
+
+I make them good girls go bad
+I make them good girls go
+Them good girls go bad
+Good girls go bad
+
+I was hanging in the corner
+With my five best friends
+I heard that you were trouble but I couldn't resist
+I make them good girls go bad
+I make them good girls go bad
+I make them good girls go
+Good girls go bad
+Good girls go bad
+Good girls go
+
+
 

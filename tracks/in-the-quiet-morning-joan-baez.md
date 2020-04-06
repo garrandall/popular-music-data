@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-quiet-morning-joan-baez
+lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/inthequietmorning.html
 name: In The Quiet Morning
 rankings:
 - end_date: '1972-08-04'
@@ -39,4 +40,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
 ---
+
+In the quiet morning
+There was much despair
+And in the hours that followed
+No one could repair
+
+That poor girl
+Tossed by the tides of misfortune
+Barely here to tell her tale
+Rolled in on a sea of disaster
+Rolled out on a mainline rail
+
+She once walked right at my side
+I'm sure she walked by you
+Her striding steps could not deny
+Torment from a child who knew
+
+That in the quiet morning
+There would be despair
+And in the hours that followed
+No one could repair
+
+That poor girl
+She cried out her song so loud
+It was heard the whole world round
+A symphony of violence
+The great southwest unbound
+
+La La La La La La La
+La La La La La La La
+La La La La La La La La La
+La La La La
+La La La
+
+
 

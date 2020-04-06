@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-yours-tony-terry
+lyrics_url: https://www.azlyrics.com/lyrics/tonyterry/foreveryours.html
 name: Forever Yours
 rankings:
 - end_date: '1988-07-01'
@@ -27,4 +28,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
+
+Forever yours
+Forever mine, my sweet
+Forever you
+Forever me to keep
+Forever, and ever
+Forever mine, number one
+My number one
+Forever girl
+You share my world with me
+And with you
+There's nothing else I need
+Forever, and ever
+Forever mine
+Forever yours
+
+When I was just a lonely man
+In a lonely world
+Your love
+Stood the test of time
+Whenever I need you
+Girl, you came running
+To be my side
+
+Forever yours
+Forever mine, my sweet
+Forever you
+Forever me to keep
+Don't worry
+Don't worry babe
+This man's forever yours
+When I was just a lonely man
+In a lonely world
+Your love
+Stood the test of time
+Whenever I need you
+Girl, you came running
+To be by my side
+Forever yours
+Forever
+Forever mine
+Forever me to keep
+Don't you worry 'bout a thing
+Don't worry baby
+This man's forev... forever yours
+
+
 

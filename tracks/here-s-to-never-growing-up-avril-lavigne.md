@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-s-to-never-growing-up-avril-lavigne
+lyrics_url: https://www.azlyrics.com/lyrics/megannicole/herestonevergrowingup.html
 name: Here's To Never Growing Up
 rankings:
 - end_date: '2013-05-03'
@@ -67,4 +68,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
 ---
+
+Singing Radiohead at the top of our lungs,
+With the boombox blaring as we're falling in love,
+Gotta get up in the morning, but we're living right now,
+Singing, "Here's to never growing up."
+
+Call up all our friends.
+Go hard this weekend.
+Just for no reason,
+I don't think we'll ever change.
+
+Meet you at the spot,
+Half-past ten o'clock.
+We don't ever stop.
+And we're never gonna change.
+
+Say, won't you say forever?
+Stay, if you stay forever,
+Hey, we can stay forever young.
+
+Singing Radiohead at the top of our lungs,
+With the boombox blaring as we're falling in love,
+Gotta get up in the morning, but we're living right now,
+Singing "Here's to never growing up".
+
+We'll be running down the streets, yeah, never look back.
+I'm like, "Yeah, whatever. We're still living like that."
+When the sun's going down, we'll be raising our cups,
+Singing, "Here's to never growing up."
+
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+
+We live like rockstars.
+Dancing in your car.
+This is who we are.
+I don't think we'll ever change.
+
+They say, "Just grow up."
+But they don't know us.
+We only live once,
+And we're never gonna change.
+
+Say, won't you say forever?
+Stay, if you stay forever,
+Hey, we can stay forever young.
+
+Singing Radiohead at the top of our lungs,
+With the boombox blaring as we're falling in love,
+Gotta get up in the morning, but we're living right now,
+Singing "Here's to never growing up".
+
+We'll be running down the streets, yeah, never look back.
+I'm like, "Yeah, whatever. We're still living like that."
+When the sun's going down, we'll be raising our cups,
+Singing, "Here's to never growing up."
+
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+
+Say, won't you say forever?
+Stay, if you stay forever,
+Hey, we can stay forever young.
+
+Oh, singing Radiohead at the top of our lungs,
+With the boombox blaring as we're falling in love,
+Gotta get up in the morning, but we're living right now,
+Singing "Here's to never growing up".
+
+We'll be running down the streets, yeah, never look back.
+I'm like, "Yeah, whatever. We're still living like that."
+When the sun's going down, we'll be raising our cups,
+Singing, "Here's to never growing up."
+
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up.
+Oh, whoa-oh, oh, whoa-oh.
+Here's to never growing up!
+
+
 

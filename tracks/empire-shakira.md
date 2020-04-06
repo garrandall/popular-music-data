@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: empire-shakira
+lyrics_url: https://www.azlyrics.com/lyrics/shakira/empire.html
 name: Empire
 rankings:
 - end_date: '2014-04-18'
@@ -55,4 +56,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
 ---
+
+Take off all of your skin
+I'm brave when you are free
+Shake off all of your sins
+And give them to me
+Closer, let me back in
+I wanna be yours, wanna be your hero
+And my heart beats
+
+Like the empires of the world unite
+We are alive
+And the stars make love to the universe
+You're my wildfire every single night
+We are alive
+And the stars make love to the universe
+And you touch me
+And I'm like and I'm like and I'm like
+Ooh ooh
+And I'm like ooh ooh
+And I'm like ooh ooh
+And I'm like ooh
+
+I will follow you down wherever you go
+I am, baby, I'm bound to you and do you know?
+Closer, pull me in tight
+I wanna be yours, wanna be your hero
+And my heart beats
+
+Like the empires of the world unite
+We are alive
+And the stars make love to the universe
+You're my wildfire every single night
+We are alive
+And the stars make love to the universe
+And you touch me
+And I'm like and I'm like and I'm like
+Ooh ooh
+We are alive
+Ooh ooh
+And I'm like ooh ooh
+We are alive
+Ooh
+
+I'm just gonna raise my head
+Welcome to the final edge
+And I'm gonna fall
+(And the stars make love to the universe)
+I'm just gonna raise my head
+And hold you close
+
+Like the empires of the world unite
+We are alive
+And the stars make love to the universe
+You're my wildfire every single night
+We are alive
+And the stars make love to the universe
+And you touch me
+And I'm like and I'm like and I'm like
+Ooh ooh
+And I'm like ooh ooh
+And I'm like ooh ooh
+And I'm like ooh
+
+
 

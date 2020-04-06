@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: venus-the-shocking-blue
+lyrics_url: https://www.azlyrics.com/lyrics/shockingblue/venus.html
 name: Venus
 rankings:
 - end_date: '1969-12-19'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
 ---
+
+A goddess on a mountain top
+Was burning like a silver flame
+The summit of beauty and love
+And Venus was her name
+
+She's got it
+Yeah baby, she's got it
+Well, I'm your Venus
+I'm your fire
+At your desire
+Well, I'm your Venus
+I'm your fire
+At your desire
+
+Her weapons were her crystal eyes
+Making every man mad
+Black as the dark night she was
+Got what no one else had
+
+She's got it
+Yeah baby, she's got it
+Well, I'm your Venus
+I'm your fire
+At your desire
+Well, I'm your Venus
+I'm your fire
+At your desire
+
+She's got it
+Yeah baby, she's got it
+Well, I'm your Venus
+I'm your fire
+At your desire
+Well, I'm your Venus
+I'm your fire
+At your desire
+
+
 

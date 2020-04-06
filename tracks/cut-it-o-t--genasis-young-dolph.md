@@ -5,6 +5,7 @@ features:
 - Young Dolph
 genres: []
 key: cut-it-o-t--genasis-young-dolph
+lyrics_url: https://www.azlyrics.com/lyrics/otgenasis/cutit.html
 name: Cut It
 rankings:
 - end_date: '2016-03-18'
@@ -88,4 +89,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
 ---
+
+
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+
+
+Run up them bands on the regular
+Hittin' my plug on the celly, yeah
+Tell my ex bitch that I'm sorry
+I'm a skate off in the 'Rari
+Keep 36 by my side
+I'm a go bake me a pie
+Keep 45 on my side
+Fuck with my niggas, you die
+All of my niggas say blood
+All of my niggas say cuh
+OT, I found me a plug
+I got it straight out the mud
+Keep it a hundred, no budge
+I fell in love with the drugs
+Bustin' it down in the tub
+Pay me my money in dubs
+Water whippin', lookin' like I'm fishin'
+Baseball in kitchen, with my arm I'm pitchin'
+Rolie on, it's glistenin', now my doner kissin'
+Niggas steady trippin' so I'm steady grippin'
+Dirty money on me, got a scale up on me
+I don't fuck with phony, 'bout to sell a pony
+All these niggas on me, all these bitches on me
+Say my price is good, motherfucker, show me
+
+
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+
+
+Went and bought a 911 with my trap money
+A million up but still ain't never touch my rap money
+I'm out in LA fuckin' with that boy OT
+Flew to LA, got a plug on that OG
+You know I've been gettin' money if you know me
+When I first met my plug, I tote my pistol, hundred Gs
+I ain't comin' to get it unless you got a hundred piece
+I don't want it, fuck it, your price, you need to cut it
+Your ice, you need to tuck it, she fuck with me, she lucky
+A half a million, all 20s in that Gucci luggage
+Let's skip the small talk, it's time to talk numbers
+Young nigga playin' with commas, might go get a Lamb for the summer
+I've been outchea in these streets all my life hustlin'
+My nigga beefin' then I'm beefin', wrong or right I'm bustin'
+My traphouse, I love it
+Put some Forces on my old school and I had to cut it
+But should I put a roof in?
+
+
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+Cut it, cut it, cut it, cut it
+Cut it, cut it, cut it, cut it
+Them bricks is way too hot, you need to cut it
+Your price is way too high, you need to cut it
+
+
 

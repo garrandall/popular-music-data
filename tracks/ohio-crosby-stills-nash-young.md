@@ -7,6 +7,7 @@ artists:
 features: []
 genres: []
 key: ohio-crosby-stills-nash-young
+lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnashyoung/ohio.html
 name: Ohio
 rankings:
 - end_date: '1970-07-03'
@@ -46,4 +47,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
 ---
+
+Tin soldiers and Nixon coming
+We're finally on our own
+This summer I hear the drumming
+Four dead in Ohio
+
+Gotta get down to it
+Soldiers are cutting us down
+Should have been done long ago
+What if you knew her
+And found her dead on the ground
+How can you run when you know?
+
+Gotta get down to it
+Soldiers are cutting us down
+Should have been done long ago
+What if you knew her
+And found her dead on the ground
+How can you run when you know?
+
+Tin soldiers and Nixon coming
+We're finally on our own
+This summer I hear the drumming
+Four dead in Ohio
+
+
 

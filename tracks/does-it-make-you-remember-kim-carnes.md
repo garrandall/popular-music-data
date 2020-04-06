@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: does-it-make-you-remember-kim-carnes
+lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/doesitmakeyouremember.html
 name: Does It Make You Remember
 rankings:
 - end_date: '1982-11-12'
@@ -59,4 +60,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+
+I've heard talk goin' round about you
+They say you've taken up with somebody new
+And they say you're still crazy
+But I'm still crazy about you
+And you do remember
+
+The heart abused of the heart unused
+When it's all said and done
+I know what I'd chose
+So why did you run to her
+Is she just an excuse
+
+To help you remember
+Make you forget
+Does it just bring a tear to your eye
+With the pain and the pleasure
+Do you ever regret
+When you see how love passed you by
+Does it make you remember
+Does it make you remember
+
+I saw your car from my window last night
+You were drivin' real slow
+and I hid from your lights
+Was it bringing you back
+I was hopin' it might
+
+Make you remember
+Make you forget
+Does it just bring a tear to your eye
+With the pain and the pleasure
+Do you ever regret
+When you see how love passed you by
+
+I've heard talk goin' round about you
+They say you've taken up with somebody new
+And they say you're still crazy
+But I'm still crazy about you
+And you do remember
+
+Does it make you remember
+Make you forget
+Does it just bring a tear to your eye
+With the pain and the pleasure
+Do you ever regret
+When you see how love passed you by
+Does it make you remember
+Does it make you remember
+Someone is waiting
+Waiting for you
+Someone is waiting for you
+
+
 

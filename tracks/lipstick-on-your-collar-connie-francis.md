@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lipstick-on-your-collar-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/lipstickonyourcollar.html
 name: Lipstick On Your Collar
 rankings:
 - end_date: '1959-05-24'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
 ---
+
+(yeah, yeah, yeah, yeah, yeah, yeah)
+(yeah, yeah, yeah, yeah, yeah, yeah)
+
+When you left me all alone at the record hop
+Told me you were goin' out for a soda pop
+You were gone for quite a while, half an hour or more
+You came back and man oh man this is what I saw
+
+Lipstick on you collar, told a tale on you
+Lipstick on you collar, said you were untrue
+Bet your bottom dollar, you and I are through
+Cause, lipstick on you collar told a tale on you, yeah
+
+You said it belonged to me, made me stop and think
+Then I noticed yours was red, mine was baby pink
+Who walked in but Mary Jane, lipstick all a mess
+Were you smoochin' my best friend? Guess the answer's yes
+
+Lipstick on you collar, told a tale on you
+Lipstick on you collar, said you were untrue
+Bet your bottom dollar, you and I are through
+Cause, lipstick on you collar told a tale on you, boy 
+
+Told a tale on you, man
+Told a tale on you, yeah
+
+
 

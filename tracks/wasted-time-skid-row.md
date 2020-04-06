@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wasted-time-skid-row
+lyrics_url: https://www.azlyrics.com/lyrics/skidrow/wastedtime.html
 name: Wasted Time
 rankings:
 - end_date: '1992-01-10'
@@ -19,4 +20,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
 ---
+
+
+
+You and I together in our lives
+Sacred ties would never fray
+Then why can't I let myself tell lies
+And watch you die every day
+
+I think back to the times
+When dreams were what mattered
+Tough talking youth naivete
+
+You said you never let me down
+But the horse stampedes and rages
+In the name of desperation
+
+Is it all just wasted time
+Can you look at yourself
+When you think of what
+You left behind
+
+Is it all just wasted time
+Can you live with yourself
+When you think of what
+You left behind
+
+Paranoid delusions they haunt you
+Where's my friend I used to know
+He's all alone
+He's buried deep within a carcass
+Searching for a soul
+
+Can you feel me inside your heart
+As it's bleeding
+Why can't you believe you
+Can be loved
+
+I hear you scream in agony
+And the horse stampedes and rages
+In the name of desperation
+
+Is it all just wasted time
+Can you look at yourself
+When you think of what
+You left behind
+
+Is it all just wasted time
+Can you live with yourself
+When you think of what
+You left behind
+
+You said you never let me down
+But the horse stampedes and rages
+In the name of desperation
+
+Is it all just wasted time
+Can you look at yourself
+When you think of what
+You left behind
+
+Is it all just wasted time
+Can you live with yourself
+When you think of what
+You left behind
+
+The sun will rise again
+The earth will turn to sand
+Creation's colors seem to fade to grey
+And you'll see the sickly hands of time
+Will write your final rhyme
+And end a memory
+
+I never thought you'd let it get
+This far, boy
+
+
 

@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: sweet-thing-rufus-chaka-khan
+lyrics_url: https://www.azlyrics.com/lyrics/rufus/sweetthing.html
 name: Sweet Thing
 rankings:
 - end_date: '1976-01-09'
@@ -92,4 +93,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+
+I will love you anyway
+Even if you cannot stay
+I think you are the one for me
+Here is where you want to be
+
+I just want to satisfy ya
+You're not mine and I can't deny it
+Don't you hear me talkin', baby
+Love me now or I'll go crazy
+
+Whou, ohh, sweet thang
+Don't ya know you're my everything
+Whou ohh, sweet thang
+Don't ya know you're my everything
+Yeah baby
+
+I wish you were my lover
+But ya act so undercover
+Love ya child my whole life long
+Is be right or be wrong
+
+I'm only what ya make me, baby
+Don't walk away, don't be so shady
+Don't want your mind, don't want your money
+These words I say, they may sound funny but
+
+Whou, ohh, sweet thang
+Oh ya know you're my everything
+Whou ohh, sweet thang
+Boy ya know you're my everything
+Hey baby
+
+OOOOOOO
+
+You are my heat, you are my fire
+You make me weak with soft desire
+Love ya child my whole life long
+Is be right or be wrong
+
+I just want to satisfy ya
+'Cause you're not mine, I can't deny it
+Can't ya hear me talking, baby
+Love me now or I'll go crazy
+
+You're my heat, you are my fire
+You're not mine, I can't deny it
+Don't you hear me talkin', baby
+Love me now or I'll go crazy
+
+You're my heat, you are my fire
+You're not mine, I can't deny it
+Can't you hear me talkin', baby
+Love me now or I'll go crazy
+
+You're my heat, you are my fire
+You're not mine, I can't deny it
+Can't you hear me talkin', baby
+Love me now or I'll go crazy
+
+You're my heat, you are my fire
+You're not mine, I can't deny it
+Can't you hear me talkin', baby
+Love me now or I'll go crazy
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whenever-i-call-you--friend--kenny-loggins
+lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/whenevericallyoufriend.html
 name: Whenever I Call You "Friend"
 rankings:
 - end_date: '1978-08-04'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
 ---
+
+Whenever I call you "Friend"
+I begin to think I understand
+Anywhere we are
+You and I have always been
+Forever and ever
+I see myself within your eyes
+And that's all I need to show me why
+Everything I do
+Always takes me home to you
+Forever and ever
+Now I know my life has given me more than memories
+Day by day, we can see
+In every moment there's a reason to carry on
+
+Sweet love's showin' us a heavenly light
+Never seen such a beautiful sight
+See love glowing on us every night
+I know forever we'll be doing it
+Sweet love's showin' us a heavenly light
+I've never seen such a beautiful sight
+See love glowing on us every night
+I know forever we'll be doing it
+
+Whenever I call you "Friend"
+I believe I've come to understand
+Everywhere we are
+You and I were meant to be
+Forever and ever
+I think about the times to come
+Knowin' I will be the lucky one
+And ever our love will last
+I always want to call you "Friend"
+
+Sweet love's showin' us a heavenly light
+I've never seen such a beautiful sight
+See love glowing on us every night
+I know forever we'll be doing it
+
+
+
+And now I know my life
+Has given me more than memories, day by day
+We can see
+In every moment there's a reason to carry on
+
+Sweet love's showin' us a heavenly light
+Never seen such a beautiful sight
+See love glowing on us every night
+I know forever we'll be doing it, doing it
+Sweet love's showin' us a heavenly light
+I've never seen such a beautiful sight
+See love glowing on us every night
+I know forever we'll be doin' it, doin' it, doin' it
+Sweet love, sweet love
+You're the glowin' light in my life
+Source of pride in my life
+
+
 

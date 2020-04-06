@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tomorrow-never-comes-b-j--thomas
+lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/tomorrownevercomes.html
 name: Tomorrow Never Comes
 rankings:
 - end_date: '1966-09-16'
@@ -27,4 +28,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+
+Oh, you tell me that you love me
+Yes, you tell me that you care
+That tomorrow we'll be married
+But tomorrow is never there
+
+Many weeks now have I waited
+Many, many long nights have I cried
+Just to see that, that happy moment
+When I'll have you right by my side
+
+But tomorrow ain't never gonna come
+Oh no, no, tomorrow, ain't never ever gonna come
+Oh, you tell me you love me and you say that you want me
+But tomorrow never comes
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-hold-on-dierks-bentley
+lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/iholdon.html
 name: I Hold On
 rankings:
 - end_date: '2014-01-10'
@@ -83,4 +84,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
 ---
+
+It's just an old beat-up truck
+Some say that I should trade up
+Now that I got some jangle in my pocket
+
+But what they don't understand
+Is it's the miles that make a man
+I wouldn't trade that thing in for a rocket
+
+What they don't know's my dad and meâ
+We drove her out to Tennessee
+She's still here, now he's gone
+So I hold on
+
+It's just an old beat up box
+Its rusty strings across the top
+It probably don't look like much to you
+
+But these dents and scratches in the wood
+Yeah, that's what makes it sound so good
+To me it's better than brand new
+
+You see this here flat top guitar's
+Had my back in a million bars
+Singing every country song
+So I hold on
+
+To the things I believe in
+My faith, your love, our freedom
+To the things I can count on
+To keep me going strong
+Yeah, I hold on, I hold on
+
+Like the stripes to the flag
+Like a boy to his dad
+I can't change who I am, right or wrong
+So I hold on
+
+Baby, looking at you right now
+There ain't never been no doubt
+Without you I'd be nothing
+
+So if you ever worry about
+Me walking out
+Yeah, let me tell you something
+
+I hold on
+I hold on
+Can you hear me, baby?
+I hold on
+Yea
+I hold onâ¦
+
+To the things I believe in
+My faith, your love, our freedom
+To the things I can count on
+To keep me going strong
+
+To the things I believe in
+My faith, your love, our freedom
+To the things I can count on
+To keep me going strong
+Yeah, I hold onâ¦
+
+I hold onâ¦
+I hold on and on and on and on and on
+I hold on and on and on and on and on
+
+
 

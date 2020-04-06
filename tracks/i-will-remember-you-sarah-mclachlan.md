@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-remember-you-sarah-mclachlan
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/iwillrememberyou.html
 name: I Will Remember You
 rankings:
 - end_date: '1995-11-17'
@@ -167,4 +168,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-02'
 ---
+
+I will remember you 
+Will you remember me? 
+Don't let your life pass you by
+Weep not for the memories.
+
+I'm so tired
+I can't sleep
+Standing on the edge of something 
+Much to deep.
+
+It's funny how we feel so much 
+And cannot say a word 
+We're screaming inside 
+But we can't be heard
+
+I will remember you 
+Will you remember me? 
+Don't let your life pass you by
+Weep not for the memories.
+
+So afraid to love you
+More afraid to loose 
+Clinging to past
+That doesn't let me choose.
+
+Well, once there was a darkness
+A deep and endless night
+You gave me everything 
+You gave me light.
+
+I will remember you 
+Will you remember me? 
+Don't let your life pass you by
+Weep not for the memories.
+
+Remember all
+The good times that we had
+Let them slip away from us
+And things got bad.
+
+Clearly I first saw you
+Smiling in the sun
+I want to feel your warmth 
+I want to be the one.
+
+I will remember you 
+Will you remember me? 
+Don't let your life pass you by
+Weep not for the memories.
+
+I will remember you 
+Will you remember me? 
+Don't let your life pass you by
+Weep not for the memories.
+
+Weep not for the memories.
+
+The memories...
+
+
 

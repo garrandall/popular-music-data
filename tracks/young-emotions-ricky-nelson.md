@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-emotions-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/youngemotions.html
 name: Young Emotions
 rankings:
 - end_date: '1960-05-01'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
 ---
+
+Young emotions are mixed emotions
+For it's a world where love and confusion reign
+A world of hope and laughter and tears and pain
+At  times a gentle breeze in a hurricane
+A world full of doubt but love works it out
+
+Young emotions are strange emotions
+For though we're brave, sometimes we are so afraid
+But knowing there are memories to be made
+We'll face each new tomorrow, dear, undismayed
+For our love will keep us together
+And our love will help us to weather
+These young emotions
+
+For though we're brave, sometimes we are so afraid
+But knowing there are memories to be made
+We'll face each new tomorrow, dear, undismayed
+For our love will keep us together
+And our love will help us to weather
+These young emotions
+
+
 

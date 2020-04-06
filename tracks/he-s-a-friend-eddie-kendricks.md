@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-s-a-friend-eddie-kendricks
+lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/hesafriend.html
 name: He's A Friend
 rankings:
 - end_date: '1976-02-20'
@@ -55,4 +56,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
 ---
+
+He's a friend of mine
+He's a friend of mine
+
+There was a time, I didn't believe at all
+Then one day, I had to give him a call
+There I was lying flat on my back
+The doctor said, I had a heart attack
+I said a prayer, before I went to sleep
+Next day you'll know, I was back up on my feet
+
+Oh
+He's a friend of mine (He's a friend of mine)
+He's a friend of mine (I want everybody to know it)
+He's a friend of mine (Yeah, He is)
+He's a friend of mine (He is a friend of mine)
+
+I don't say much, but I speak to Him every day
+He's always there, to help me find my way
+I don't deny, our close association
+He helps me out, of any situation
+If you read the book, of Revelations
+You'll find that He's, your only salvation
+
+Oh
+He's a friend of mine (Yeah)
+He's a friend of mine (I want everybody to know)
+He's a friend of mine (He is a friend of mine)
+He's a friend of mine (Ooh, He is a friend of mine)
+
+I don't deny, our close association
+He helps me out, of any situation
+If you read the book, of Revelations
+You'll find that He's, your only salvation
+
+He's a friend of mine (He's a friend of mine)
+He's a friend of mine (I want everybody to know)
+He's a friend of mine (He is a friend of mine)
+He's a friend of mine (A friend)
+Log on to kill this message
+He's a friend of mine (Ooh)
+He's a friend of mine (Everybody's friend)
+He's a friend of mine (Everyday, in every way)
+He's a friend of mine (Every way, a friend of mine)
+He's a friend of mine (He is a friend of mine)
+
+He's in my heart
+He is
+He's in my mind
+All the time
+He's all I need
+
+He's a friend of mine (Don't you need a friend)
+He's a friend of mine
+He's a friend of mine (Don't you need a friend)
+
+He's a friend of mine (Don't you need a friend)
+He's a friend of mine
+He's a friend of mine (Don't you need a friend)
+
+
 

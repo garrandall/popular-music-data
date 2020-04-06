@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heavy-fallin--out-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/stylistics/heavyfallinout.html
 name: Heavy Fallin' Out
 rankings:
 - end_date: '1974-10-25'
@@ -51,4 +52,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
 ---
+
+Breakin' up can really break you down, my love
+Shake you up and turn your world around, my love
+Lots of things in life, it's true, you can do without
+But baby, baby, once you fall in love
+
+It's heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out, heavy fallin' out
+Once you fall in love, it's heavy fallin' out
+It's life's necessity, without it what's it all about?
+But baby, baby, once you fall in love
+
+It's heavy fallin' out
+Heavy fallin' out
+
+I can give up drinkin', that's okay, my love
+I can quit my smoking any day, my love
+Anything the devil sells I can dwell without
+But baby, baby, once you fall in love
+
+It's heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out, heavy fallin' out
+Once you fall in love, it's heavy fallin' out
+It's life's necessity, without it what's it all about
+But baby, baby, once you fall in love
+
+It's heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out
+(Fallin' out)
+Heavy fallin' out
+(Heavy)
+
+Heavy fallin' out
+(Heavy)
+Heavy fallin' out
+(Heavy)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+(Heavy, heavy, heavy)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+(Heavy)
+
+Heavy fallin' out
+(Heavy, heavy)
+Heavy fallin' out
+(Heavy)
+
+Heavy fallin' out
+(Heavy)
+Heavy fallin' out
+(Heavy, heavy)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+(Heavy)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+(Heavy, heavy, heavy)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out
+(Heavy, yeah)
+Heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out
+Heavy fallin' out
+
+Heavy fallin' out
+Heavy fallin' out
+(Heavy, heavy fallin' out)
+
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+Heavy fallin' out
+
+
 

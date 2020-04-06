@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breathe-michelle-branch
+lyrics_url: https://www.azlyrics.com/lyrics/michellebranch/breathe.html
 name: Breathe
 rankings:
 - end_date: '2003-11-14'
@@ -79,4 +80,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
 ---
+
+I've been driving for an hour
+Just talking to the rain
+You say I've been driving you crazy
+and its keeping you away
+So just give me one good reason
+Tell me why I should stay
+'Cause I dont wanna waste another moment
+in saying things we never meant to say
+
+And I Take it just a little bit
+I, hold my breath and count to ten
+I, I've been waiting for a chance to let you in
+
+If I just breathe
+Let it fill the space between
+I'll know everything is alright
+Breathe
+Every little piece of me
+You'll see
+Everything is alright
+If I just breathe
+
+Well it's all so overrated
+In not saying how you feel
+So you end up watching chances fade
+And wondering what's real
+
+And I Give you just a little time
+I, Wonder if you realize
+I've been waiting till I see it in your eyes
+
+If I just breathe
+Let it fill the space between
+I'll know everything is alright
+Breathe,
+Every little piece of me
+You'll see
+Everything is alright
+If I just breathe
+Breathe
+
+So I whisper in the dark,
+Hoping you hear me
+Do you hear me?
+
+If I just breathe
+Let it fill the space between  
+I'll know everything is alright
+Breathe,
+Every little piece of me
+You'll see
+Everything is alright
+Everything is alright if i just breathe... breathe
+
+I've been driving for an hour 
+Just talking to the rain
+
+
 

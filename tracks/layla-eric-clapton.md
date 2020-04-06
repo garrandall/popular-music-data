@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: layla-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/layla108863.html
 name: Layla
 rankings:
 - end_date: '1992-10-09'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
+
+What'll you do when you get lonely?
+And nobody's waiting by your side?
+You've been running and hiding much too long
+You know it's just your foolish pride
+
+Layla
+You've got me on my knees, Layla
+I'm begging, darling please, Layla
+Darling won't you ease my worried mind
+
+I tried to give you consolation
+When your old man had let you down
+Like a fool, I fell in love with you
+You've turned my whole world upside down
+
+Layla
+You've got me on my knees, Layla
+I'm begging, darling please, Layla
+Darling won't you ease my worried mind
+
+Let's make the best of the situation
+Before I finally go insane
+Please don't say, we'll never find a way
+And tell me all my love's in vain
+
+Layla
+You've got me on my knees, Layla
+I'm begging, darling please, Layla
+Darling won't you ease my worried mind
+
+Layla
+You've got me on my knees, Layla
+I'm begging, darling please, Layla
+Darling won't you ease my worried mind
+
+
+
+Layla
+You've got me on my knees, Layla
+I'm begging, darling please, Layla
+Darling won't you ease my worried mind
+
+
 

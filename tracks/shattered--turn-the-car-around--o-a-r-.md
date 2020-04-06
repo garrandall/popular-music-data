@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shattered--turn-the-car-around--o-a-r-
+lyrics_url: https://www.azlyrics.com/lyrics/oarofarevolution/shatteredturnthecararound.html
 name: Shattered (Turn The Car Around)
 rankings:
 - end_date: '2008-08-29'
@@ -103,4 +104,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
 ---
+
+In a way, I need a change 
+From this burnout scene 
+Another time, another town 
+Another everything 
+But it's always back to you 
+
+Stumble out, in the night 
+From the pouring rain 
+Made the block, sat and thought 
+There's more I need 
+It's always back to you 
+
+But I'm good without ya 
+Yeah, I'm good without you 
+Yeah, yeah, yeah 
+
+How many times can I break till I shatter? 
+Over the line can't define what I'm after 
+I always turn the car around 
+Give me a break let me make my own pattern 
+All that it takes is some time but I'm shattered 
+I always turn the car around 
+
+I had no idea that the night 
+Would take so damn long 
+Took it out, on the street 
+While the rain still falls 
+Push me back to you 
+
+But I'm good without ya 
+Yeah, I'm good without you 
+Yeah, yeah, yeah 
+
+How many times can I break till I shatter? 
+Over the line can't define what I'm after 
+I always turn the car around 
+Give me a break let me make my own pattern 
+All that it takes is some time but I'm shattered 
+I always turn the car around 
+
+Give it up, give it up, baby 
+Give it up, give it up, now 
+Now 
+
+How many times can I break till I shatter? 
+Over the line can't define what I'm after 
+I always turn the car around 
+All that I feel is the realness I'm faking 
+Taking my time but it's time that I'm wasting 
+Always turn the car around 
+
+How many times can I break till I shatter? 
+Over the line can't define what I'm after 
+I always turn the car around 
+
+Don't wanna turn that car around 
+I gotta turn this thing around
+
+
 

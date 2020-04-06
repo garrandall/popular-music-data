@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-belong-to-you-toni-braxton
+lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/ibelongtoyou.html
 name: I Belong To You
 rankings:
 - end_date: '1994-10-07'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
 ---
+
+I wouldn't change
+A single thing about you baby
+You shower my world with your love
+
+You got a way baby
+About cha baby
+That lets me know that
+There's no other man
+
+You take care of home
+I was lost until I found you
+Refuse to live without you
+As long as you are good to me
+
+I belong to you
+You belong to me
+I belong to you
+The love we share comes naturally
+
+I used to think
+I knew love before I met you
+You love my defenses down baby
+
+I let you in
+To my heart
+And you unlocked true
+love in me
+
+I belong to you
+You belong to me
+I belong to you
+The love we share comes naturally
+
+So hard to find true love baby
+Son't wanna live without you
+
+I know this love is forever
+Cause it shows in every little thing you do
+Always make a way to see love through
+
+I belong to you
+You belong to me
+I belong to you
+The love we share comes naturally
+
+
 

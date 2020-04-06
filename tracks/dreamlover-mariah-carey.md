@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamlover-mariah-carey
+lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/dreamlover.html
 name: Dreamlover
 rankings:
 - end_date: '1993-08-13'
@@ -123,4 +124,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
 ---
+
+I need a lover to give me
+The kind of love
+That will last always
+I need somebody uplifting
+To take me away
+
+I want a lover who knows me
+Who understands how I feel inside
+Someone to comfort and hold me
+Through the long lonely nights
+'Till the dawn
+Why don't you take me away
+
+
+Dreamlover come rescue me
+Take me up take me down
+Take me anywhere you want to baby now
+I need you so desperately
+Won't you please come around
+'Cause I wanna share forever with you baby
+
+I don't want another pretender
+To disillusion me one more time
+Whispering words of forever
+Playing with my mind
+
+I need someone to hold on to
+The kind of love that won't fly away
+I just want someone to belong to
+Everyday
+Of my life
+Always
+So come and take me away
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mercy-mercy-me--the-ecology--marvin-gaye
+lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/mercymercymetheecology.html
 name: Mercy Mercy Me (The Ecology)
 rankings:
 - end_date: '1971-07-09'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
 ---
+
+Woo ah, mercy mercy me
+Ah things ain't what they used to be, no no
+Where did all the blue skies go?
+Poison is the wind that blows from the north and south and east
+Woo mercy, mercy me, mercy father
+Ah things ain't what they used to be, no no
+Oil wasted on the ocean and upon our seas, fish full of mercury
+Ah oh mercy, mercy me
+Ah things ain't what they used to be, no no
+Radiation under ground and in the sky
+Animals and birds who live nearby are dying
+Oh mercy, mercy me
+Ah things ain't what they used to be
+What about this overcrowded land
+How much more abuse from man can she stand?
+Oh, na na...
+My sweet Lord... No
+My Lord... My sweet Lord
+
+
 

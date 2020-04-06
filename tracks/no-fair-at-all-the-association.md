@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-fair-at-all-the-association
+lyrics_url: https://www.azlyrics.com/lyrics/association/nofairatall.html
 name: No Fair At All
 rankings:
 - end_date: '1967-02-10'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+
+I've never seen this side of you before
+Till now
+I never knew that you could feel this way
+Till now
+
+After all the time we spent together
+Just doesn't seem fair
+At all
+No fair at all
+
+Never seen the moonlight through your hair
+Till now
+Never heard the sweet things you could say
+Till now
+
+After all the time we spent together
+Just doesn't seem fair
+At all
+No fair at all
+
+After all the time we spent together
+Just doesn't seem fair
+At all
+No fair at all
+
+No fair at all
+
+
 

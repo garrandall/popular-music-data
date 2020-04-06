@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-honey-lady-antebellum
+lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/americanhoney.html
 name: American Honey
 rankings:
 - end_date: '2010-01-15'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
 ---
+
+She grew up on the side of the road
+Where the church bells ring
+And strong love grows
+She grew up good
+She grew up slow
+Like American honey
+
+Steady as a preacher
+Free as a weed
+Couldn't wait to get going
+But wasn't quite ready to leave
+So innocent, pure and sweet
+American honey
+
+There's a wild, wild whisper
+Blowin' in the wind
+Callin' out my name
+Like a long lost friend
+Oh, I miss those days
+As the years go by
+Oh, nothin' sweeter than summertime
+And American honey
+
+Get caught in the race of this crazy life
+Tryin' to be everything
+Can make you lose your mind
+I just wanna go back in time
+To American honey
+
+There's a wild, wild whisper
+Blowin' in the wind
+Callin' out my name
+Like a long lost friend
+Oh, I miss those days
+As the years go by
+Oh, nothin' sweeter than summertime
+And American honey
+
+Gone for so long now
+I gotta get back to her somehow
+To American honey
+
+There's a wild wild whisper
+Blowin' in the wind
+Callin' out my name
+Like a long lost friend
+Oh, I miss those days
+As the years go by
+Nothin' sweeter than summertime
+And American honey
+And American honey
+
+Ooh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silver-threads-and-golden-needles-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/silverthreadsandgoldenneedles.html
 name: Silver Threads And Golden Needles
 rankings:
 - end_date: '1974-04-12'
@@ -35,4 +36,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
 ---
+
+I don't want your lonely mansion with a tear in every room
+All I want's the love you promised beneath the haloed moon
+But you think I should be happy with your money and your name
+And hide myself in sorrow while you play your cheating game
+
+Silver threads and golden needles cannot mend this heart of mine
+And I dare not drown my sorrows in the warm glow of your wine
+You can't buy my love with money cause I never was that kind
+Silver threads and golden needles cannot mend this heart of mine
+
+Silver threads and golden needles cannot mend this heart of mine
+And I dare not drown my sorrows in the warm glow of your wine
+You can't buy my love with money cause I never was that kind
+Silver threads and golden needles cannot mend this heart of mine
+
+Silver threads and golden needles cannot mend this heart of mine
+
+
 

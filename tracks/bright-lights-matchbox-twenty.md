@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bright-lights-matchbox-twenty
+lyrics_url: https://www.azlyrics.com/lyrics/matchbox20/brightlights.html
 name: Bright Lights
 rankings:
 - end_date: '2003-10-03'
@@ -91,4 +92,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
 ---
+
+She got out of town on the railway, New York bound
+Took all except my name
+Another alien on Broadway
+Well, some things in this world you just can't change
+Some things you can't see until it gets too late
+
+Baby, baby, baby when all your love is gone
+Who will save me from all I'm up against out in this world
+And maybe, maybe, maybe
+You'll find something that's enough to keep you
+But if the bright lights don't receive you
+You should turn yourself around and come on home
+
+I got a hole in me now
+I got a scar I can talk about
+She keeps a picture of me in her apartment in the city
+But some things in this world
+Man, they don't make sense
+Some things you don't need until they leave you
+They're the things that you miss, you say
+
+Baby, baby, baby when all your love is gone
+Who will save me from all I'm up against out in this world
+And maybe, maybe, maybe
+You'll find something that's enough to keep you
+But if the bright lights don't receive you
+You should turn yourself around and come on home
+
+Let that city take you in (come on home)
+Let that city spit you out (come on home)
+Let that city take you down, yeah
+For God sakes turn around
+
+Baby, baby, baby when all your love is gone
+Who will save me from all I'm up against out in this world
+Yeah well, maybe, maybe, maybe
+You'll find something that's enough to keep you
+But if the bright lights don't receive you
+Well, turn yourself around and come on home
+
+Yeah, come on home
+Baby, baby, baby, baby
+Come on home
+Yeah, come on home
+Yeah, come on home
+Yeah, come on home
+Baby, baby, baby, baby
+Come on home
+
+
 

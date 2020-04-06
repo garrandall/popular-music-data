@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: footloose-blake-shelton
+lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/footloose.html
 name: Footloose
 rankings:
 - end_date: '2011-12-02'
@@ -15,4 +16,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
 ---
+
+Ooooh-oh-oh
+Ooooh-oh-oh
+Yeah
+Ooooh-oh-oh
+Ooooo-oh-oh
+Ooooo-oh-oh
+
+I Been working so hard
+I'm punching my card
+Eight hours for what
+Oh, tell me what I got
+I get this feeling
+Times just holding me down
+I'll hit the ceiling
+Or else I'll tear up this town
+
+Tonight I gotta cut loose, footloose
+Kick off your Sunday shoes
+Please, Louise, pull me off of my knees
+Jack, get back, come on before we crack
+Lose your blues, everybody cut footloose
+
+You're playing so cool
+Obeying every rule
+Deep way down in your heart
+You're burning yearning for some
+Somebody to tell you
+That life ain't passing you by
+I'm trying to tell you
+It will if you don't even try
+You'll get by if you'd only
+
+Cut loose, footloose
+Kick off the Sunday shoes
+Oo-wee Marie, shake it, shake it for me
+Woah, Milo, come on, come on let's go
+Lose your blues, everybody cut footloose.
+
+Ooooh-oh-oh
+(Cut footloose)
+Ooooh-oh-oh
+(Cut footloose)
+Ooooh-oh-oh
+(Cut footloose)
+Oooooooooh
+
+We've got to turn you around
+And put your feet on the ground
+Now take a hold of your soul
+
+I'm turning it loose
+
+Footloose, kick off the Sunday shoes
+Please, Louise, pull me off of my knees
+Jack, get back, come on before we crack
+Lose your blues, everybody cut footloose
+(Footloose) footloose
+
+Kick off the Sunday shoes
+Please, Louise, pull me off of my knees
+Jack, get back, come on before we crack
+Lose your blues, everybody cut, everybody cut
+Everybody cut, everybody cut
+Everybody cut, everybody cut
+
+(Everybody) everybody cut footloose
+
+
 

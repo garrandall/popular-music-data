@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holiday-bee-gees
+lyrics_url: https://www.azlyrics.com/lyrics/beegees/holiday.html
 name: Holiday
 rankings:
 - end_date: '1967-10-06'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
 ---
+
+Ooh you're a holiday , such a holiday
+Ooh you're a holiday , such a holiday
+
+It's something I thinks worthwhile
+If the puppet makes you smile
+If not then you're throwing stones
+Throwing stones, throwing stones
+
+Ooh it's a funny game
+Don't believe that it's all the same
+Can't think what I've just said
+Put the soft pillow on my head
+
+Millions of eyes can see
+Yet why am I so blind
+When the someone else is me
+It's unkind, it's unkind
+
+de de de de de de de de de de de de de
+de de de de de de de de de de de de de
+
+Yet millions of eyes can see
+Yet why am I so blind
+When the someone else is me
+It's unkind, it's unkind
+
+Ooh you're a holiday , ev'ry day , such a holiday
+Now it's my turn to say , and I say you're a holiday
+It's something I thinks worthwhile
+If the puppet makes you smile
+If not then you're throwing stones
+Throwing stones , throwing stones
+
+de de de de de de de de de de de de de de
+
+
 

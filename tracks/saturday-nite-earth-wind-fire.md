@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: saturday-nite-earth-wind-fire
+lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/saturdaynite.html
 name: Saturday Nite
 rankings:
 - end_date: '1976-11-26'
@@ -69,4 +70,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
 ---
+
+It was Saturday nite,
+the moon was bright
+Shining down, it's harvest light
+Music all around to hear, set the stage
+And atmosphere-many dress to suit
+Their taste, participate in the ego race
+Tonite's the night, for you to be
+Biggest man in history
+
+Saturday nite's your curtain call
+You found your place after all
+I saw a face in the crowd
+Sayin' nothin', yet talking loud
+
+Life is just a day
+Living games we play
+London Bridge is fallin' down
+Do what Simon says
+Doing what you feel,
+Games can be unreal
+Humpty-Dumpty when you fall
+There be no one here to call
+Life is stil your mystery
+You see, you see, you see
+
+Many friends, who gather 'round
+In hope, to feel safe and sound
+We emphasize, to make it clear
+Our stumbling nations atmosphere
+While looking thru the looking glass
+Our vision show, a stormy past
+When you gonna wake, and see the sun-
+Stop wasting time and having fun
+
+Life is just a day
+Daily games we play
+London Bridge has fallen down
+You did what Simon said
+Doing what you feel
+Games are so unreal
+Humpty-Dumpty why'd you fall
+You see there's no one here to call
+Now we've solved this mystery
+You see, you see, you see
+
+
 

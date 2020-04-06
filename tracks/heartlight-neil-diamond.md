@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartlight-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/heartlight.html
 name: Heartlight
 rankings:
 - end_date: '1982-09-17'
@@ -83,4 +84,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
 ---
+
+Come back again
+I want you to stay next time
+'Cause sometimes the world ain't kind
+When people get lost like you and me
+
+I just made a friend
+A friend is someone you need
+But now that he had to go away
+I still feel the words that he might say
+
+Turn on your heartlight
+Let it shine wherever you go
+Let it make a happy glow
+For all the world to see
+Turn on your heartlight
+In the middle of a young boy's dream
+Don't wake me up too soon
+Gonna take a ride across the moon
+You and me
+
+He's lookin' for home
+'Cause everyone needs a place
+And home's the most excellent place of all
+And I'll be right here if you should call me
+
+Turn on your heartlight
+Let it shine wherever you go
+Let it make a happy glow
+For all the world to see
+Turn on your heartlight
+In the middle of a young boy's dream
+Don't wake me up too soon
+Gonna take a ride across the moon
+You and me
+
+And home's the most excellent place of all
+And I'll be right here if you should call me
+Turn on your heartlight
+Let it shine wherever you go
+Let it make a happy glow
+For all the world to see
+Turn on your heartlight
+In the middle of a young boy's dream
+Don't wake me up too soon
+Gonna take a ride across the moon
+You and me
+Turn on your heartlight now
+Turn on your heartlight now
+
+
 

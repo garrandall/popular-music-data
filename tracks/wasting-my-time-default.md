@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wasting-my-time-default
+lyrics_url: https://www.azlyrics.com/lyrics/default/wastingmytime.html
 name: Wasting My Time
 rankings:
 - end_date: '2002-01-11'
@@ -147,4 +148,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
 ---
+
+Well I don't want to see you waiting
+I've already gone too far away
+I still can't keep the day from ending
+No more messed up reasons for me to stay
+
+Well this is not for real
+Afraid to feel
+I just hit the floor
+Don't ask for more
+I'm wasting my time
+I'm wasting my time
+You can't stop the feeling
+And there's no reason
+Let's make the call
+And take it all again
+Woah again
+
+Months went by with us pretending
+When did our light turn from green to red
+I took a chance and left you standing
+Lost the will to do this once again
+
+Well this is not for real
+Afraid to feel
+I just hit the floor
+Don't ask for more
+I'm wasting my time
+I'm wasting my time
+You can't stop the feeling
+And there's no reason
+Let's make the call
+And take it all
+I'm wasting my time
+I'm wasting my time again
+Woah again
+
+See you waiting
+Lonesome, lonely
+See you waiting
+I see you waiting
+
+Well this is not for real
+Afraid to feel
+I just hit the floor
+Don't ask for more
+I'm wasting my time
+I'm wasting my time
+You can't stop the feeling
+And there's no reason
+Let's make the call
+And take it all
+I'm wasting my time
+I'm wasting...
+
+
 

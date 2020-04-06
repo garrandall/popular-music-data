@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: denise-randy-the-rainbows
+lyrics_url: https://www.azlyrics.com/lyrics/randytherainbows/denise.html
 name: Denise
 rankings:
 - end_date: '1963-06-21'
@@ -76,4 +77,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
 ---
+
+Ooh, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you
+
+Denise, Denise
+Oh, with your eyes so blue
+Denise, Denise
+I've got a crush on you
+Denise, Denise
+I'm so in love with you
+
+Oh, when we walk
+It seems like paradise
+Oh, when we talk
+It always feels so nice
+Denise, Denise
+I'm so in love with you
+
+You're my queen
+And I'm in heaven every time I look at you
+When you smile it's like a dream
+And I'm so lucky 'cause I found a girl like you
+
+Ooh, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you
+
+Denise, Denise
+Oh, won't you hold me tight?
+Denise, Denise
+Oh, can we kiss good night?
+Denise, Denise
+I'm so in love with you
+
+Ooh, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you, Denise, shooby doo
+I'm in love with you
+
+
 

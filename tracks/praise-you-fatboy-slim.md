@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: praise-you-fatboy-slim
+lyrics_url: https://www.azlyrics.com/lyrics/fatboyslim/praiseyou.html
 name: Praise You
 rankings:
 - end_date: '1999-03-19'
@@ -88,3 +89,34 @@ rankings:
   start_date: '1999-07-24'
 ---
 
+We've come a long long way together,
+Through the hard times and the good,
+I have to celebrate you baby,
+I have to praise you like I should
+
+We've come a long long way together,
+Through the hard times and the good,
+I have to celebrate you baby,
+I have to praise you like I should
+
+I have to praise you
+I have to praise you
+I have to praise you
+I have to praise you like I should
+
+I have to praise you
+I have to praise you
+I have to praise you
+I have to praise you
+
+We've come a long long way together,
+Through the hard times and the good,
+I have to celebrate you baby,
+I have to praise you like I shouldddddd
+
+I have to praise you
+I have to praise you
+I have to praise you
+I have to praise you
+I have to praise you like I should
+I have to praise you

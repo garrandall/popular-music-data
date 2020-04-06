@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -he-s-my--dreamboat-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/hesmydreamboat.html
 name: (He's My) Dreamboat
 rankings:
 - end_date: '1961-10-01'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
 ---
+
+He's my dreamboat, asleep in English class
+He's my dreamboat, mowin' his folk's grass
+He's my dreamboat with the dreamy, dreamy eyes
+
+He's my dreamboat, workin' on his car
+He's my dreamboat, strummin' his guitar
+He's my dreamboat with the dreamy, dreamy eyes
+
+Well now, I dream of dreamboat in everything I do
+And I know that darlin' dreamboat dreams of me too
+
+He's my dreamboat, coffee in a Dixie cup
+Darlin' dreamboat, that crazy, silly nut
+He's my dreamboat with the dreamy, dreamy eyes
+
+Yes, he's my dreamboat, coffee in a Dixie cup
+Whoa, darlin' dreamboat, that crazy, silly nut
+He's my dreamboat with the dreamy, dreamy eyes
+
+
 

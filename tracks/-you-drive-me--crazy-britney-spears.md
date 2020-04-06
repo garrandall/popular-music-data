@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-drive-me--crazy-britney-spears
+lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/youdrivemecrazy.html
 name: (You Drive Me) Crazy
 rankings:
 - end_date: '1999-09-24'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
 ---
+
+Baby, I'm so into you
+You got that somethin'. What can I do?
+Baby, you spin me around
+The earth is movin' but I can't feel the ground
+
+Every time you look at me
+My heart is jumpin', it's easy to see
+
+Lovin' you means so much more
+More than anything I ever felt before
+
+
+You drive me crazy
+I just can't sleep
+I'm so excited, I'm in too deep
+Oh... crazy,
+But it feels alright
+Baby, thinkin' of you keeps me up all night
+
+Tell me, you're so into me
+That I'm the only one you will see
+Tell me, I'm not in the blue,
+That I'm not wastin' my feelings on you
+
+Lovin' you means so much more.
+More than anything I ever felt before
+
+
+
+Crazy,
+I just can't sleep
+I'm so excited, I'm in too deep
+Crazy,
+But it feels alright
+Every day and every night
+
+You drive me crazy (you drive me crazy, baby)
+I'm so excited, I'm in too deep
+Oh... crazy,
+(you make me feel alright)
+Baby, thinkin' of you keeps me up all night
+
+You drive me crazy (you drive me crazy, baby)
+Oh... crazy (you make me feel alright)
+But it feels alright
+Baby, thinkin' of you keeps me up all night
+Baby, thinkin' of you keeps me up all night
+
+
 

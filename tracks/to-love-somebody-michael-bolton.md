@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-love-somebody-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/tolovesomebody.html
 name: To Love Somebody
 rankings:
 - end_date: '1992-10-23'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
 ---
+
+There's a light
+A certain kind of light
+That never shone on me
+I want my life to be
+Lived with you, lived with you
+There's a way
+Ev'rybody say
+To do each and every little thing
+But what does it bring
+If I ain't got you, ain't got
+
+
+You don't know what it's like
+Baby, you don't know what it's like
+To love somebody, to love somebody
+The way I love you
+
+In my mind
+I see your face again
+I know my frame of mind
+You ain't got to be so blind
+And I'm blind, so very blind
+I'm a man
+Can't you see what I am
+I live and breathe for you
+But what good does it do
+If I ain't got you, ain't got you
+
+
+
+Oh yeh
+You don't know what it's like
+Baby you don't know what it's like
+To love somebody, to love somebody
+To love somebody oh yeh
+
+To love somebody
+The way I love you
+You don't know, you don't know
+To love somebody, to love somebody
+You don't know, ooh
+To love somebody, to love somebody
+The way I love you
+
+
 

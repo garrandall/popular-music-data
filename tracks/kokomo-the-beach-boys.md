@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kokomo-the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/kokomo.html
 name: Kokomo
 rankings:
 - end_date: '1988-09-09'
@@ -119,4 +120,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
 ---
+
+Aruba, Jamaica, ooh I wanna take ya
+Bermuda, Bahama, come on pretty mama
+Key Largo, Montego,
+baby why don't we go,
+Jamaica
+
+Off the Florida Keys
+there's a place called Kokomo
+That's where you wanna go
+to get away from it all
+Bodies in the sand,
+tropical drink melting in your hand
+We'll be falling in love
+to the rhythm of a steel drum band
+Down in Kokomo
+
+
+Aruba, Jamaica, ooh I wanna take you to
+Bermuda, Bahama, come on pretty mama
+Key Largo Montego,
+baby why don't we go
+Ooh I wanna take you down to Kokomo,
+we'll get there fast
+and then we'll take it slow
+That's where we wanna go,
+way down in Kokomo.
+
+Martinique, that Monserrat mystique...
+
+We'll put out to sea
+and we'll perfect our chemistry
+By and by we'll defy
+a little bit of gravity
+Afternoon delight,
+cocktails and moonlit nights
+That dreamy look in your eye,
+give me a tropical contact high
+Way down in Kokomo
+
+
+
+Port au Prince, I wanna catch a glimpse...
+
+Everybody knows a little place like Kokomo
+Now if you wanna go to get away from it all
+Go down to Kokomo
+
+
+
+
 

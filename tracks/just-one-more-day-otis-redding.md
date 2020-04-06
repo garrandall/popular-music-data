@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-one-more-day-otis-redding
+lyrics_url: https://www.azlyrics.com/lyrics/otisredding/justonemoreday.html
 name: Just One More Day
 rankings:
 - end_date: '1965-12-10'
@@ -27,4 +28,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
 ---
+
+I've been missing you for so many days
+I keep wanting you, lord, in so many ways
+I cant get you off of my mind
+But true love is so hard to find
+
+I want yet another day
+Ooh, I need another day
+Darling, let me have another day
+And I can be anything that you want me to be, now
+
+The sweet things you used to do to me
+Sometimes you used to say them to me
+I can't forget those lovely days
+But this is the price I am about to pay
+
+Ooh, I want another day
+You can let me have just one more day
+Ooh, I need one more day, yeah
+And I will do anything that you want me to do
+
+I will do anything that you want me to do, now
+Say anything that you want me to say
+Buy you anything you want me to buy
+And I can cherish you till the day I die
+
+If you let me have another day
+Please let me have one more day
+Ooh, I want just one more day, lord
+And it can be anything that you want me to be
+
+Ooh no, ooh
+Just one more day now
+You can let me have just another day, now
+Please I want to stay and the day after and the day after
+And I want all the days
+And I want all the days
+And I want you here by my side
+And I don't want you do leave me
+And you can let me have one more day
+
+
 

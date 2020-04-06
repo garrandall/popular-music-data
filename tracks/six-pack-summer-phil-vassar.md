@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: six-pack-summer-phil-vassar
+lyrics_url: https://www.azlyrics.com/lyrics/philvassar/sixpacksummer.html
 name: Six-Pack Summer
 rankings:
 - end_date: '2001-08-17'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
 ---
+
+Winter sure was cold and miserable
+Cooped up, shut down, baby it was pitiful
+Anyhow, it's over now
+We owe to ourselves to have a little fun
+The pace car's pacin' now the green flag's wavin'
+
+Uh, oh another six-pack summer comin'
+Sing to me babe I'll be your dashboard drummer and
+Let's turn the radio up as loud it can go
+Got the ultra-ray wraparound sunglass vision
+Got the sails up iced down a cool ambition
+Just to relax and let the six-pack summer roll
+
+We've got the sun block, a blanket and the best of Jimmy Buffet
+T-bones for the grill, hey ain't it great to rough it
+The party's on from dawn to dawn
+24-7 'til they pull the plug
+No more waitin' come on and kiss me baby
+
+Uh, oh another six-pack summer comin'
+Sing to me babe I'll be your dashboard drummer and
+Let's turn the radio up as loud it can go
+Got the ultra-ray wraparound sunglass vision
+Got the sails up iced down a cool ambition
+Just to relax and let the six-pack summer roll
+
+Slow and steady, I'm so ready
+Uh, oh another six-pack summer
+
+
 

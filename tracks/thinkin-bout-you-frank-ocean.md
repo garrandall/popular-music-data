@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thinkin-bout-you-frank-ocean
+lyrics_url: https://www.azlyrics.com/lyrics/jamiecullum/thinkinboutyou.html
 name: Thinkin Bout You
 rankings:
 - end_date: '2012-08-03'
@@ -119,4 +120,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
 ---
+
+A tornado flew around my room before you came
+Excuse the mess it made, it usually doesn't rain
+In Southern California, much like Arizona
+My eyes don't shed tears, but, boy, they pour
+
+When I'm thinkin' 'bout you (ooh, no, no)
+I been thinkin' 'bout you (ooh, no, no, no)
+I been thinkin' 'bout you
+Do you think about me still?
+Do ya, do ya?
+
+Do you not think so far ahead?
+'Cause I've been thinkin' 'bout forever, oooh
+
+Do you not think so far ahead?
+'Cause I've been thinkin' 'bout forever, oooh
+
+No, I don't like you, I just thought you were cool
+Enough to kick it
+Got a beach house I could sell you in Idaho
+Since you think I don't love you, I just thought you were cute
+That's why I kissed you
+Got a fighter jet, I don't get to fly it, though
+
+I'm lyin' down thinkin' 'bout you (ooh, no, no)
+I've been thinkin' 'bout you (ooh, no, no, no)
+I've been thinkin' 'bout you
+Do you think about me still?
+Do ya, do ya?
+
+Do you not think so far ahead?
+'Cause I've been thinkin' 'bout forever, oooh
+
+Or do you not think so far ahead?
+'Cause I been thinkin' 'bout forever, oooh
+
+I remember, how could I forget?
+How you feel?
+You know you were my first time
+A new feel
+It won't ever get old, not in my soul
+Not in my spirit, keep it alive
+We'll go down this road
+'Til it turns from color to black and white
+
+Do you not think so far ahead?
+'Cause I've been thinkin' 'bout forever, oooh
+
+Do you not think so far ahead?
+'Cause I've been thinkin' 'bout forever, oooh
+
+
 

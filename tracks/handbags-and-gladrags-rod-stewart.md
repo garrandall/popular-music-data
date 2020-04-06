@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: handbags-and-gladrags-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/handbagsandgladrags.html
 name: Handbags And Gladrags
 rankings:
 - end_date: '1972-02-18'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
 ---
+
+Ever seen a blind man cross the road
+trying to make the other side
+Ever seen a young girl growing old
+trying to make herself a bride
+
+So what becomes of you my love
+When they have finally stripped you of
+The handbags and the gladrags
+That your Grandad had to sweat so you could buy
+Baby
+
+Once I was a young man
+and all I thought I had to do was smile
+You are still a young girl
+and you bought everything in style
+Listen
+But once you think you're in you're out
+'cause you don't mean a single thing without
+the handbags and the gladrags
+that your Grandad had to sweat so you could buy
+
+Sing a song of six-pence for your sake
+And take a bottle full of rye
+Four and twenty blackbirds in a cake
+And bake them all in a pie
+
+They told me you missed school today
+So what I suggest you just throw them all away
+the handbags and the gladrags
+that your poor old Granddad had to sweat to buy
+
+They told me you missed school today
+So I suggest you just throw them all away
+the handbags and the gladrags
+that your poor old Granddad had to sweat to buy ya
+
+
 

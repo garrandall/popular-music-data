@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-into-my-world-kylie-minogue
+lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/comeintomyworld.html
 name: Come Into My World
 rankings:
 - end_date: '2002-12-20'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
 ---
+
+Come, come, come into my world
+Won't you lift me up, up, high upon your love
+
+Take these arms that were made for lovin'
+And this heart that will beat for two
+Take these eyes that were meant for watching over you
+And I've been such a long time waiting
+For someone I can call my own
+I've been chasing the life I'm dreaming
+Now I'm home
+
+I need your love
+Like night needs morning
+
+Come, come, come into my world
+Won't you lift me up, up, high upon your love
+
+Na na na na
+
+Take these lips that were made for kissing
+And this heart that will see you through
+And these hands that were made to touch and
+feel you
+
+So free your love
+Hear me I'm calling
+
+Oh won't you
+Come, come, come into my world
+Won't you lift me up, up, high upon your love
+
+I need your love
+Like night needs morning
+
+Oh won't you
+Come, come, come into my world
+Won't you lift me up, up, high upon your love
+
+
 

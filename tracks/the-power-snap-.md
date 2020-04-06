@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-power-snap-
+lyrics_url: https://www.musixmatch.com/lyrics/Snap-14/The-Power
 name: The Power
 rankings:
 - end_date: '1990-05-18'
@@ -95,4 +96,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
 ---
+Amerikanskaja firma Tranceptor Technology
+Pristupila k proizvodstvu computrov 'Personalny Sputnik'.
 
+I've got the power
+
+Like the crack of the whip, I Snap attack
+Front to back, in this thing called rap
+Dig it like a cymbal, rhyme devil on the heavenly level
+Bang the bass, turn up the treble
+Radical mind, day and night all the time
+7:14, wise, divine
+Maniac brainiac, winnin' the game
+I'm the lyrical Jesse James
+
+It's getting', it's getting', it's gettin' kinda heavy
+It's getting', it's getting', it's gettin' kinda heavy
+It's getting', it's getting', it's gettin' kinda heavy
+
+I've got the power
+
+He's gonna break my heart
+He's gonna break my heart of hearts
+He's gonna break my heart
+He's gonna break my heart of hearts
+
+I've got the power
+
+He's gonna break my heart
+He's gonna break my heart of hearts
+He's gonna break my heart
+He's gonna break my heart of hearts
+
+I've got the power
+
+It's getting', it's getting', it's gettin' kinda hectic
+It's getting', it's getting', it's gettin' kinda hectic
+It's getting', it's getting', it's gettin' kinda hectic
+
+Quality I possess and say I'm fresh
+When my voice goes through the mesh
+Of the microphone, that I am holding
+Copy written lyrics, so they can't be stolen
+If they all Snap, don't need the police
+To try to save them, your voice will cease
+So peace, stay off my back
+Or I will attack and you don't want that
+
+I've got the power
+He's gonna break my heart
+He's gonna break my heart of hearts
+He's gonna break my heart
+He's gonna break my heart of hearts
+
+I've got the power
+
+I've got the power
+He's gonna break my heart
+He's gonna break my heart of hearts
+He's gonna break my heart
+He's gonna break my heart of hearts
+
+I've got the power
+
+Quality I possess, and say I'm fresh
+When my voice goes through the mesh
+Of the microphone, that I am holding
+Copy written lyrics, so they can't be stolen
+If they all Snap, don't need the police
+To try to save them, your voice don't see
+So peace, stay off my back
+Or I will attack and you don't want that
+
+I've got the power
+He's gonna break my heart
+He's gonna break my heart of hearts
+He's gonna break my heart
+He's gonna break my heart of hearts
+
+I've got the power
+I've got the power

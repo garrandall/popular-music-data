@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-love-stay-dan-fogelberg
+lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/makelovestay.html
 name: Make Love Stay
 rankings:
 - end_date: '1983-02-11'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
 ---
+
+Now that we love
+Now that the lonely nights are over
+How do we make love stay?
+Now that we know
+The fire can burn bright or merely smolder
+How do we keep it from dying away?
+
+Elusive as dreams
+Barely remembered in the morning
+Love like a phantom flies
+But held in the heart
+It pales like the empty smile adorning
+A statue with sightless eyes.
+
+Moments fleet, taste sweet within the rapture
+When precious flesh is greedily consumed
+But mystery's a thing not easily captured
+And once deceased not easily exhumed.
+
+Now that we love
+Now that the lonely nights are over
+How do we make love stay?
+
+Moments fleet, taste so sweet within the rapture
+When precious flesh is greedily consumed
+But mystery's a thing not easily captured
+And once deceased not easily exhumed.
+
+Now that we loved
+Look at the moonless night and tell me
+How do we make love stay?
+
+
 

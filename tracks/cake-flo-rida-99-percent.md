@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cake-flo-rida-99-percent
+lyrics_url: https://www.azlyrics.com/lyrics/florida/cake.html
 name: Cake
 rankings:
 - end_date: '2017-05-05'
@@ -32,4 +33,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
 ---
+
+
+You know when I come by, you know what it look like
+Everything lit, all the girls in free
+Anybody inside sipping on a good time
+You ain't gotta rest, they can put it on me
+
+When they wanna go off
+They know when my money show off
+I don't ever get it one way, yeah
+Spend it and I get it same day, but hey
+
+I didn't come here to party
+I didn't come here to stay
+I came to leave with somebody
+I only came for the cake
+I only came for the cake
+I only came for the cake
+
+
+You know what I came for, I'mma throw a bankroll
+You ain't gotta flex, got your mind on me
+Go until it's all gone, I don't gotta say no
+I can blow a check, tell me what it's gon' be
+
+When they wanna go off
+They know when my money show off
+I don't ever get it one way, yeah
+Spend it and I get it same day, but hey
+
+I didn't come here to party
+I didn't come here to stay
+I came to leave with somebody
+I only came for the cake
+I only came for the cake
+I only came for the cake
+
+Cake cake cake cake, cake cake cake cake
+Cake cake cake cake, cake cake cake cake
+Cake cake cake cake, cake cake cake cake
+Cake cake cake cake, cake cake cake cake
+I only came for the cake
+
+
+I didn't come here to party
+I didn't come here to stay
+I came to leave with somebody
+I only came for the cake
+I only came for the cake
+I only came for the cake
+
+
 

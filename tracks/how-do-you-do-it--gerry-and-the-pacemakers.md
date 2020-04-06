@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-you-do-it--gerry-and-the-pacemakers
+lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/howdoyoudoit.html
 name: How Do You Do It?
 rankings:
 - end_date: '1964-07-17'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
 ---
+
+How do you do what you do to me,
+I wish I knew,
+If I knew how you do it to me, I'd do it to you,
+How do you do what you do to me,
+I'm feelin' blue,
+Wish I knew how you do it to me but I haven't a clue
+
+You give me a feeling in my heart,
+Like an arrow passing through it,
+Spose that you think you're very smart,
+But won't you tell me how do you do it
+
+How do you do what you do to me,
+If I only knew,
+Then perhaps you'd fall for me like I fell for you
+
+You give me a feeling in my heart,
+Like an arrow passing through it,
+Spose that you think you're very smart,
+But won't you tell me how do you do it
+
+How do you do what you do to me,
+If I only knew,
+Then perhaps you'd fall for me like I fell for you,
+When I do it to you
+
+
 

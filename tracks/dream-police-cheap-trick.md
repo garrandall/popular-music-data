@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-police-cheap-trick
+lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/dreampolice.html
 name: Dream Police
 rankings:
 - end_date: '1979-10-12'
@@ -47,4 +48,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
+
+The dream police, they live inside of my head
+The dream police, they come to me in my bed
+The dream police, they're coming to arrest me, oh, no
+
+You know that talk is cheap
+And those rumors ain't nice
+And when I fall asleep 
+I don't think I'll survive the night, the night
+
+'Cause they're waiting for me
+They're looking for me
+Every single night 
+They're driving me insane
+Those men inside my brain
+
+The dream police, they live inside of my head (live inside of my head)
+The dream police, they come to me in my bed (come to me in my bed)
+The dream police, they're coming to arrest me, oh, no
+
+Well, I can't tell lies
+'Cause they're listening to me
+And when I fall asleep
+Bet they're spying on me tonight, tonight
+
+'Cause they're waiting for me
+They're looking for me
+Every single night 
+They're driving me insane
+Those men inside my brain
+
+I try to sleep, they're wide awake, they won't let me alone
+They don't get paid to take vacations or let me alone
+They spy on me, I try to hide, they won't let me alone
+They persecute me, they're the judge and jury all in one
+
+'Cause they're waiting for me
+They're looking for me
+Every single night 
+They're driving me insane
+Those men inside my brain
+
+The dream police, they live inside of my head (live inside of my head)
+The dream police, they come to me in my bed (come to me in my bed)
+The dream police, they're coming to arrest me
+The dream police (police, police)
+The dream police (police, police)
+The dream police (police, police)
+The dream police (police, police)
+The dream police (police, police)
+The dream police (police, police)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-song-311
+lyrics_url: https://www.azlyrics.com/lyrics/311/lovesong.html
 name: Love Song
 rankings:
 - end_date: '2004-05-07'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
 ---
+
+Whenever I'm alone with you
+You make me feel like I am home again
+Whenever I'm alone with you
+You make me feel like I am whole again
+
+Whenever I'm alone with you
+You make me feel like I am young again
+Whenever I'm alone with you
+You make me feel like I am fun again
+
+However far away, I will always love you
+However long I stay, I will always love you
+Whatever words I say, I will always love you
+I will always love you
+
+Whenever I'm alone with you
+You make me feel like I am free again
+Whenever I'm alone with you
+You make me feel like I am clean again
+
+However far away, I will always love you
+However long I stay, I will always love you
+Whatever words I say, I will always love you
+I will always love you
+
+
 

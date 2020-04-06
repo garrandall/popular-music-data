@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: husbands-and-wives-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/husbandsandwives.html
 name: Husbands And Wives
 rankings:
 - end_date: '1998-12-11'
@@ -44,4 +45,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
 ---
+
+Two broken hearts lonely looking houses
+Where nobody lives
+Two people each having so much pride inside
+Neither side forgives
+
+The angry words spoken in haste
+Such a waste of two lives
+It's my belief pride is the chief cause in the decline
+Of the number of husbands and wives
+
+A woman and a man
+A man and a woman
+Some can and some cant and some cant
+
+Two broken hearts lonely looking houses
+Where nobody lives
+Two people each having so much pride inside
+Neither side forgives
+
+The angry words spoken in haste
+Such a waste of two lives
+It's my belief pride is the chief cause in the decline
+Of the number of husbands and wives
+
+It's my belief pride is the chief cause in the decline
+Of the number of husbands and wives
+
+
 

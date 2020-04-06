@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: caribbean-festival-kool-the-gang
+lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/caribbeanfestival.html
 name: Caribbean Festival
 rankings:
 - end_date: '1975-11-14'
@@ -36,4 +37,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
 ---
+
+Jamaica
+Jamaica
+Jamaica
+Jamaica
+
+Trinidad
+
+Jamaica
+Jamaica
+Jamaica
+Jamaica
+Jamaica
+Jamaica
+Jamaica
+
+
 

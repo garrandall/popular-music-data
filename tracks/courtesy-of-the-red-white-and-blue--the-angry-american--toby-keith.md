@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: courtesy-of-the-red-white-and-blue--the-angry-american--toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/courtesyoftheredwhiteandbluetheangryamerican.html
 name: Courtesy Of The Red White And Blue (The Angry American)
 rankings:
 - end_date: '2002-06-14'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
 ---
+
+American Girls and American Guys
+We'll always stand up and salute
+We'll always recognize
+When we see Old Glory Flying
+There's a lot of men dead
+So we can sleep in peace at night
+When we lay down our head
+
+My daddy served in the army
+Where he lost his right eye
+But he flew a flag out in our yard
+'Til the day that he died
+He wanted my mother, my brother, my sister and me
+To grow up and live happy
+In the land of the free
+
+Now this nation that I love
+Has fallen under attack
+A mighty sucker punch came flyin' in
+From somewhere in the back
+Soon as we could see it clearly
+Through our big black eye
+Man, we lit up your world
+Like the 4th of July
+
+Hey, Uncle Sam
+Put your name at the top of his list
+And the Statue of Liberty
+Started shakin' her fist
+And the eagle will fly
+And there's gonna be hell
+When you hear Mother Freedom
+Start ringin' her bell
+And it'll feel like the whole wide world is raining down on you
+Oh, brought to you Courtesy of the Red White and Blue
+
+Oh, justice will be served
+And the battle will rage
+This big dog will fight
+When you rattle his cage
+And you'll be sorry that you messed with
+The U.S. of A
+'Cause we'll put a boot in your ass
+It's the American way
+
+Hey, Uncle Sam
+Put your name at the top of his list
+And the Statue of Liberty
+Started shakin' her fist
+And the eagle will fly
+And there's gonna be hell
+When you hear Mother Freedom
+Start ringin' her bell
+And it'll feel like the whole wide world is raining down on you
+Oh, brought to you Courtesy of the Red White and Blue
+Oh, oh, of the Red, White and Blue
+Oh, oh, of my Red, White and Blue
+
+
 

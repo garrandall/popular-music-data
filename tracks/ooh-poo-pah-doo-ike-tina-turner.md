@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ooh-poo-pah-doo-ike-tina-turner
+lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/oohpoopahdoo.html
 name: Ooh Poo Pah Doo
 rankings:
 - end_date: '1971-05-21'
@@ -36,4 +37,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+
+I wanna tell you bout ooh poo pah doo
+Baby, call me the most
+Ooh poo pah do, yeah
+Baby call me the most
+And I won't stop tryin'
+Till I create some disturbance in your mind
+
+Gonna ring a few bells in your ear
+Ring a few bells, yeah yeah yeah yeah yeah yeah yeah yeah
+Ring a few bells in your ear
+Ain't gon stop tryin'
+Till I create some disturbance in your mind
+
+Woah!
+
+Gonna make a few noises in your ear
+Make some strange noises
+Yeah yeah yeah yeah yeah yeah yeah yeah
+Make some strange noises in your ear
+And I ain't gon stop tryin'
+Till I create some disturbance in your mind
+Your mind, your mind
+Your mind
+
+Oh, make some disturbance in your mind...
+I ain't gon stop tryin'
+Until I create some disturbance in your mind
+Your mind, your mind...
+
+
 

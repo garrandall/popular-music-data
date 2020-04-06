@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: falling-down-lil-peep-xxxtentacion
+lyrics_url: https://www.azlyrics.com/lyrics/lilpeep/fallingdown.html
 name: Falling Down
 rankings:
 - end_date: '2018-10-05'
@@ -52,4 +53,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
 ---
+
+Come, let's watch the rain as it's falling down
+Now let's do that song for Peep
+Sunlight on your skin when I'm not around
+Shit don't feel the same when you're out of town
+So come, let's watch the rain as it's falling down, yeah
+
+Come, let's watch the rain as it's falling down
+Sunlight on your skin when I'm not around
+Shit don't feel the same when you're out of town
+Oh-oh-oh, oh-oh, oh-oh
+So come, let's watch the rain as it's falling down
+Oh-oh-oh, oh-oh, oh-oh
+
+Rain keeps falling, tears keep falling
+Rain keeps falling, tears keep falling
+Darling, your love is like walking a bed of nails
+And I just can't keep on fine
+
+Come, let's watch the rain as it's falling down
+Oh-oh-oh, oh-oh, oh-oh
+Sunlight on your skin when I'm not around, yeah
+Oh-oh-oh, oh-oh, oh-oh
+Shit don't feel the same when you're out of town
+Oh-oh-oh, oh-oh, oh-oh
+So come, let's watch the rain as it's falling down
+Oh-oh-oh, oh-oh, oh-oh
+
+His name will live, brother
+No, I gotâ, I feel hella shitty because it's like, yo
+Like, if I would have known he was so cool
+And it's like, yo, if I would have watched interviews sooner, bro, we were so alike
+It's unfortunate because it's like, yo, when people die, that's when we like 'em, you know?
+'Cause your remorse kinda makes you check 'em out
+
+Darling, your love is like walking a bed of nails
+And I just can't keep on fine
+
+Come, let's watch the rain as it's falling down
+Oh-oh-oh, oh-oh, oh-oh
+Sunlight on your skin when I'm not around, yeah
+Oh-oh-oh, oh-oh, oh-oh
+Shit don't feel the same when you're out of town
+Oh-oh-oh, oh-oh, oh-oh
+So come, let's watch the rain as it's falling down
+Oh-oh-oh, oh-oh, oh-oh
+
+
 

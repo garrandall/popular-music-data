@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mama-said-knock-you-out-ll-cool-j
+lyrics_url: https://www.azlyrics.com/lyrics/fivefingerdeathpunch/mamasaidknockyouout.html
 name: Mama Said Knock You Out
 rankings:
 - end_date: '1991-04-19'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-27'
 ---
+
+Don't call it a comeback
+I been here for years
+Rocking my peers
+Putting suckers in fear
+Making the tears rain down like a monsoon
+Listen to the bass go bomb
+Explosion, overpowering
+Over the competition, we're towering
+Record? Shock
+When I drop these lyrics that'll make you call them cops (what)
+Don't you dare stare,
+You better move (move)
+Don't ever compare us
+To the rest that are all get sliced and diced
+Competition paying our price
+
+
+I'm gonna knock you out
+Mama said knock you out
+
+
+Shadowboxing when I heard you on the radio
+I just don't know
+What made you forget that I was raw?
+But now I got a new toy
+I'm going insane, starting a hurricane releasing pain
+Letting you know you can't gain or maintain
+Unless you say my name
+Rippin', killin', diggin' and drillin' a hole
+Past your soul
+
+
+
+
+
+Mama said knock you out
+
+
+
 

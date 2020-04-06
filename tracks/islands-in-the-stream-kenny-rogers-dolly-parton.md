@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: islands-in-the-stream-kenny-rogers-dolly-parton
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/islandsinthestream.html
 name: Islands In The Stream
 rankings:
 - end_date: '1983-09-02'
@@ -108,4 +109,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
 ---
+
+Baby, when I met you
+There was peace unknown
+I set out to get you
+With a fine tooth comb
+I was soft inside
+There was something going on
+
+You do something to me
+That I can't explain
+Hold me closer and I feel no pain
+Every beat of my heart
+We got something going on
+Tender love is blind
+It requires a dedication
+All this love we feel
+Needs no conversation
+We can ride it together, ah-ha
+Making love with each other, ah-ha
+
+Islands in the stream
+That is what we are
+No one in between
+How can we be wrong
+Sail away with me
+To another world
+And we rely on each other, ah-ha
+From one lover to another, ah-ha
+
+I can't live without you
+If the love was gone
+Everything is nothing
+If you got no one
+And you did walk in the night
+Slowly losing sight of the real thing
+
+But that won't happen to us
+And we got no doubt
+Too deep in love and we got no way out
+And the message is clear
+This could be the year for the real thing
+
+No more will you cry
+Baby, I will hurt you never
+
+We start and end as one
+In love forever
+We can ride it together, ah-ha
+Making love with each other, ah-ha
+
+Islands in the stream
+That is what we are
+No one in between
+How can we be wrong
+Sail away with me
+To another world
+And we rely on each other, ah-ha
+From one lover to another, ah-ha
+
+Sail away
+
+
+
+Ooooh, come sail away with me
+
+Islands in the stream
+That is what we are
+No one in between
+How can we be wrong
+Sail away with me
+To another world
+And we rely on each other, ah-ha
+From one lover to another, ah-ha
+
+Islands in the stream
+That is what we are
+No one in between
+How can we be wrong
+Sail away with me
+To another world
+And we rely on each other, ah-ha
+From one lover to another, ah-ha
+
+
 

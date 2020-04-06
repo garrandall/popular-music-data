@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evergreen--love-theme-from--a-star-is-born---barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/evergreenlovethemefromastarisborn.html
 name: Evergreen (Love Theme From "A Star Is Born")
 rankings:
 - end_date: '1976-12-17'
@@ -107,4 +108,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
 ---
+
+Love soft as an easy chair
+Love fresh as the morning air
+One love that is shared by two
+I have found with you
+Like a rose under the April snow
+I was always certain love would grow
+Love ageless and evergreen
+Seldom seen by two
+You and I will
+make each night the first
+Everyday a beginning
+Spirits rise and their dance is unrehearsed
+They warm and excite us
+'Cause we have the brightest love
+Two lights that shine as one Morning glory and midnight sun
+Time... we've learned to sail above
+Time... won't change the meaning of one love
+Ageless and ever evergreen...
+
+
 

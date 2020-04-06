@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurricane-luke-combs
+lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/hurricane.html
 name: Hurricane
 rankings:
 - end_date: '2017-03-10'
@@ -95,4 +96,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
 ---
+
+Hadn't had a good time
+Since you know when
+Got talked into going out
+With hopes you were staying in
+
+I was feeling like myself for the first time
+In a long time
+'Til I bumped into some of your friends
+Over there talkin' to mine
+
+Then you rolled in
+With your hair in the wind
+Baby, without warning
+I was doing alright
+But just your sight
+Had my heart storming
+
+The moon went hiding
+Stars quit shining
+Rain was driving, thunder, lightning
+You wrecked my whole world when you came
+And hit me like a hurricane
+
+You hit me like a hurricane
+
+Knew it was gonna be a long night
+From the moment when
+We locked eyes
+Over whiskey on ice
+Started talking bout us again
+
+If I would've just laid my drink down
+And walked out
+I wouldn't be in my truck
+Driving us to your house
+
+But you rolled in
+With your hair in the wind
+Baby, without warning
+I was doing alright
+But just your sight
+Had my heart storming
+
+The moon went hiding
+Stars quit shining
+Rain was driving, thunder, lightning
+You wrecked my whole world when you came
+And hit me like a hurricane
+You hit me like a hurricane
+
+Category five
+With your smile
+Blew me away
+And, girl, it ain't but midnight
+You done killed the lights
+Bent my heart back to your bedside
+
+Then you rolled in
+With your hair in the wind
+Baby, without warning
+I was doing alright
+But just your sight
+Had my heart storming
+
+The moon went hiding
+Stars quit shining
+Rain was driving, thunder, lightning
+You wrecked my whole world when you came
+And hit me like a hurricane
+You hit me like a hurricane
+Hit me like a hurricane
+
+
 

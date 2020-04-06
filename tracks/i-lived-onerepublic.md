@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-lived-onerepublic
+lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/ilived.html
 name: I Lived
 rankings:
 - end_date: '2014-12-19'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
 ---
+
+Hope when you take that jump, you don't fear the fall
+Hope when the water rises, you built a wall
+Hope when the crowd screams out, it's screaming your name
+Hope if everybody runs, you choose to stay
+
+Hope that you fall in love, and it hurts so bad
+The only way you can know is give it all you have
+And I hope that you don't suffer but take the pain
+Hope when the moment comes, you'll say...
+
+I, I did it all
+I, I did it all
+I owned every second that this world could give
+I saw so many places, the things that I did
+With every broken bone, I swear I lived
+
+Hope that you spend your days, but they all add up
+And when that sun goes down, hope you raise your cup
+Oh, I wish that I could witness all your joy and all your pain
+But until my moment comes, I'll say...
+
+I, I did it all
+I, I did it all
+I owned every second that this world could give
+I saw so many places, the things that I did
+With every broken bone, I swear I lived
+
+Oh, whoa, oh, oh, oh, oh, oh, oh
+Oh, whoa, oh, oh, oh, oh, oh, oh
+Oh, whoa, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh
+
+With every broken bone, I swear I lived
+With every broken bone, I swear I...
+
+I, I did it all
+I, I did it all
+I owned every second that this world could give
+I saw so many places, the things that I did
+With every broken bone, I swear I lived
+
+Oh, whoa, oh, oh, oh, oh, oh, oh
+Oh, whoa, oh, oh, oh, oh, oh, oh
+I swear I lived
+Oh, whoa, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh
+
+
 

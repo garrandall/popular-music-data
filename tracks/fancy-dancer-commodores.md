@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fancy-dancer-commodores
+lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/fancydancer.html
 name: Fancy Dancer
 rankings:
 - end_date: '1977-01-14'
@@ -43,4 +44,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
 ---
+
+You're a fancy dancer, yeah (fancy dancer)
+You're a fancy dancer, well sing (fancy dancer) ow
+You're a fancy dancer, yeah (fancy dancer)
+You're a fancy dancer, well sing (fancy dancer) ow
+
+Visions of you, my love, dancin' in my head
+Girl, you know there's only one thing I can say, yeah
+
+You're a fancy dancer, yeah (fancy dancer)
+You're a fancy dancer, well sing (fancy dancer) ow
+You're a fancy dancer, yeah (fancy dancer)
+You're a fancy dancer, well sing
+
+
 

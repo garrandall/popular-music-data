@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-you-peter-frampton
+lyrics_url: https://www.azlyrics.com/lyrics/peterframpton/igotmyeyesonyou.html
 name: I'm In You
 rankings:
 - end_date: '1977-06-03'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
 ---
+
+Step this way, for a better day 
+it's quiet insane
+knowin' that i came 
+in from the cold, one track mind
+i cant leave behind i dont feel tierd 'cuz im really wild
+
+i'm keeping my eyes on you you,baby
+sticking to me,like glue
+i got my eyes on you, yeaa
+while you do what you have to do
+
+sudden moon can't you play my tune
+i walked right in to another room - they let me in 
+i belive i got you up my sleave - nothings wrong
+your're just another weave
+
+i'm keeping my eyes on you you,baby
+sticking to me,like glue
+'cuz i got my eyes on you, yeaa
+do what you have to do
+
+you must only understand the part of me you see 
+we can start again baby i can let you be
+don't want you leavin' before we have a chance
+i dont wannna set you free, yea yeaaa
+
+
+
+well i'll catch a plane
+or better take a train
+don't give up when ya brake the cup
+let you be above the sea witout a phone
+got to live i'm on my own
+
+keeping my eyes on you you,baby
+sticking to me,like glue yeaaa yeaa
+i got my eyes on you, baby
+while you do what you have to do
+
+
 

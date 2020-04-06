@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: same-ole-love--365-days-a-year--anita-baker
+lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/sameolelove.html
 name: Same Ole Love (365 Days A Year)
 rankings:
 - end_date: '1987-03-27'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
 ---
+
+Flashbacks of the times we've had
+Some made us laugh some made us sad
+We used to break up to make up
+All the fun that came from those love games
+Oh well, I think I need someone new
+Oh, it just won't do, because I think about you baby
+
+
+From beginning to end 365 days of the year
+I want your same ole' love
+All I want to do is keep on loving you
+I want your same ole' love
+
+There's a reason I feel this way
+All the things you do, well it might be the things that you say
+Your love never changes
+It's like a picture in a frame, and it remains the same
+
+Your undying love for me
+Oh it keeps me strong, keeps me holding on
+
+
+From beginning to end 365 days of the year
+I want your same ole' love, baby
+All I want to do is share my life with you
+I want your same ole' love
+
+Slowly, love me
+All is forsaken, I love the love we're making
+Cause it's truly lovely
+I'll never leave you, you'll know I need you baby
+
+
+From beginning to end 365 days of the year
+I want your same ole' love
+All I want to do is share my life with you
+I want your same ole' love
+
+
 

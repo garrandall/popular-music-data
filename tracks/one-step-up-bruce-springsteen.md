@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-step-up-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/onestepup.html
 name: One Step Up
 rankings:
 - end_date: '1988-03-04'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
 ---
+
+Woke up this morning my house was cold
+Checked out the furnace she wasn't burnin'
+Went out and hopped in my old Ford
+Hit the engine but she ain't turnin'
+We've given each other some hard lessons lately
+But we ain't learnin'
+We're the same sad story that's a fact
+One step up and two steps back
+
+Bird on a wire outside my motel room
+But he ain't singin'
+Girl in white outside a church in June
+But the church bells they ain't ringing
+I'm sittin' here in this bar tonight
+But all I'm thinkin' is
+I'm the same old story same old act
+One step up and two steps back
+
+It's the same thing night on night
+Who's wrong baby who's right
+Another fight and I slam the door on
+Another battle in our dirty little war
+When I look at myself I don't see
+The man I wanted to be
+Somewhere along the line I slipped off track
+I'm caught movin' one step up and two steps back
+
+There's a girl across the bar
+I get the message she's sendin'
+Mmm she ain't lookin' too married
+And me well honey I'm pretending
+Last night I dreamed I held you in my arms
+The music was never-ending
+We danced as the evening sky faded to black
+One step up and two steps back
+
+
 

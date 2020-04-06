@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shambala-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/threedognight/shambala.html
 name: Shambala
 rankings:
 - end_date: '1973-05-25'
@@ -71,4 +72,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
+
+Wash away my troubles, wash away my pain
+With the rain in Shambala
+Wash away my sorrow, wash away my shame
+With the rain in Shambala
+
+Ah, ooh, yeah
+Yeah, yeah, yeah, yeah, yeah
+Ah, ooh, yeah
+Yeah, yeah, yeah, yeah, yeah
+
+Everyone is helpful, everyone is kind
+On the road to Shambala
+Everyone is lucky, everyone is so kind
+On the road to Shambala
+
+Ah, ooh, yeah
+Yea, yeah, yea, yeah, yeah
+Ah, ooh, yeah
+Yeah, yeah, yeah yeah, yeah
+
+How does your light shine
+In the halls of Shambala
+How does your light shine
+In the halls of Shambala
+
+I can tell my sister by the flowers in her eyes
+On the road to Shambala
+I can tell my brother by the flowers in his eyes
+On the road to Shambala
+
+Ah, ooh, yeah
+Yeah, yeah, yeah, yeah
+Ah, ooh, yeah
+Yeah, yeah, yeah, yeah
+
+How does your light shine
+In the halls of Shambala
+How does your light shine
+In the halls of Shambala
+Tell me how does your light shine
+In the halls of Shambala
+(Tell me how) How does your light shine
+In the halls of Shambala
+
+Ah, ooh, yeah
+Yeah, yeah, yeah, yeah
+Ah, ooh, yeah
+On the road to Shambala
+
+Ah, ooh, yeah
+Shambala, la
+Ah, ooh, yeah
+On the road to Shambala
+
+
 

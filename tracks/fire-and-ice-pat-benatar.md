@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-and-ice-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/fireandice.html
 name: Fire And Ice
 rankings:
 - end_date: '1981-07-24'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
 ---
+
+You're givin' me the fever tonight
+I don't wanna give in, I'll be playin' with fire
+You forget, I've seen you work before
+Take 'em straight to the top, leave 'em cryin' for more
+I've seen you burn 'em before
+
+Fire and ice, you come on like a flame
+Then you turn cold shoulder
+Fire and ice, I wanna give you my love
+You'll just take a little piece of my heart
+Please tear it apart
+
+Movin' in for the kill tonight
+You got every advantage when they put out the lights
+It's not so pretty when it fades away
+'Cause it's just an illusion in this passion play
+I've seen you burn 'em before
+
+Fire and ice, you come on like a flame
+Then you turn cold shoulder
+Fire and ice, I wanna give you my love
+You'll just take a little piece of my heart
+
+So you think you got it all figured out
+You're an expert in the field without a doubt
+But I know your methods inside and out
+I won't be taken in by fire and ice
+
+Fire and ice, you come on like a flame
+Then you turn cold shoulder
+Fire and ice, I wanna give you my love
+You'll just take a little piece of my heart
+
+You come on like a flame
+Then you turn cold shoulder
+Fire and ice, you come on like a flame
+And you turn cold shoulder
+Fire and ice
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: between-you-and-me-dc-talk
+lyrics_url: https://www.azlyrics.com/lyrics/dctalk/betweenyouandme.html
 name: Between You And Me
 rankings:
 - end_date: '1996-11-22'
@@ -83,4 +84,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
+
+Sorrow is a lonely feeling
+Unsettled is a painful place
+I've lived with both
+For far too long now
+Since we've parted ways
+
+I've been wrestling
+With my conscience
+And I found myself to blame
+If there's to be any resolution
+I've got to peel my pride away
+
+Just between you and me
+I've got something to say
+Wanna get it straight
+Before the sun goes down
+
+Just between you and me
+Confession needs to be made
+Recompense is my way to freedom now
+
+Just between you and me
+I've got something to say
+
+If confession is the road to healing
+Forgiveness is the promised land, oh
+I'm reaching out in my conviction
+I'm longing to make amends, yeah
+
+So I'm sorry for
+The words I've spoken
+For I've betrayed a friend
+We've got a love
+That's worth preserving
+And a bond I will defend
+
+Just between you and me
+I've got something to say
+Wanna get it straight
+Before the sun goes down
+
+Just between you and me
+Confession needs to be made
+Recompense is my way to freedom
+
+Just between you and me
+I've got something to say
+
+In my pursuit of God
+I thirst for holiness
+As I approach the Son
+I must consider this
+
+Offenses unresolved
+Will keep me from the throne
+Before I go to Him
+My wrong must be atoned
+
+If there's to be any resolution
+I've got to peel this pride away
+Ooh, whoa, whoa, whoa
+
+Just between you and me
+I've got something to say
+Wanna get it straight
+Before the sun goes down
+
+Just between you and me
+Confession needs to be made
+Recompense is my way to freedom
+
+It's my way to freedom
+It's my way to freedom
+It's my way to freedom
+I've got something to say
+So let me say it today
+
+It's my way to freedom
+It's my way to freedom
+I've got something to say
+Confession needs to be made
+
+It's my way to freedom
+It's my way to freedom
+I've got something to say
+Confession needs to be made
+
+It's my way to freedom
+It's my way to freedom
+I've got something to say
+
+
 

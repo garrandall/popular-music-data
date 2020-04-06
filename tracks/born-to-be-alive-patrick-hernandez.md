@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-to-be-alive-patrick-hernandez
+lyrics_url: https://www.azlyrics.com/lyrics/patrickhernandez/borntobealive.html
 name: Born To Be Alive
 rankings:
 - end_date: '1979-06-29'
@@ -83,4 +84,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+
+We were born to be alive
+We were born to be alive
+
+Born, born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+People ask me why
+I never find a place to stop
+And settle down, down, down
+But I never wanted all those things
+People need to justify
+Their lives, lives, lives
+
+Yes we were born, born
+Born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+It's good to be alive
+To be alive
+To be alive
+It's good to be alive
+To be alive
+To be alive
+
+It's good to be alive
+
+Time was on my side
+When I was running down the street
+It was so fine, fine, fine
+A suitcase and an old guitar
+It's something I need to occupy
+A mind like mine
+
+Yes we were born, born
+Born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+Yes we were born, born
+Born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+Yes we were born, born
+Born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+Born
+Born to be alive
+(Born to be alive)
+Yes we were born
+Born
+Born
+(Born to be alive)
+
+Born
+Born to be alive
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-learn-alanis-morissette
+lyrics_url: https://www.azlyrics.com/lyrics/gleecast/youlearnyouvegotafriend.html
 name: You Learn
 rankings:
 - end_date: '1996-08-02'
@@ -127,4 +128,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
+
+Mmh
+I recommend getting your heart trampled on to anyone, yeah
+Mmh
+I recommend walking around naked in your living room, yeah
+Close your eyes and think of me
+And soon I will be there
+To brighten up even your darkest night
+Woah, yeah, yeah
+You live, you learn
+You love, you learn
+You cry, you learn
+You lose, you learn
+You just call out my name (Out my name)
+And you know wherever I am
+I'll come running
+You live, you learn (I'll come running)
+You love, you learn (To see you again)
+You cry, you learn
+You lose, you learn (Winter, spring, summer or fall)
+You bleed, you learn
+You scream, you learn (And I'll be there, yeah)
+All you have to do is call (You've got a friend)
+Ain't it good to know that you've got a friend
+When people can be so cold
+They'll hurt you, yes, and desert you
+And take your soul if you let them if you let them
+Oh, but don't you let them
+Woah, yeah, yeah (You just call out my name)
+You live, you learn
+You love, you learn
+You cry, you learn
+You lose, you learn
+You just call out my name (Just call, just call)
+And you know wherever I am (Wherever I am)
+I'll come runnin' (You live, you learn)
+To see you again (You love, you learn)
+You cry, you learn
+You lose, you learn
+(You bleed, you learn) (Winter, spring, summer or fall)
+You scream, you learn (All you have to do is call)
+(You just call out my name) You live, you learn
+You love, you learn
+You cry, you learn
+You lose, you learn
+(You just call out my name) You bleed, you learn
+You scream, you learn
+You grieve, you learn (You've got a friend)
+You choke, you learn
+You laugh, you learn (You've got a friend)
+You choose, you learn (Oh, yes I will) (You've got a friend)
+You learn (Kurt: Oh, yes I will)
+You've got a friend
+It's good to know (Ain't it good to know)
+You've got a friend (You've got a friend)
+It's good to know
+You've got a friend
+
+
 

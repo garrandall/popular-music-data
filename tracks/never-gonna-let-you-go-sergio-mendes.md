@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-gonna-let-you-go-sergio-mendes
+lyrics_url: https://www.azlyrics.com/lyrics/sergiomendes/nevergonnaletyougo.html
 name: Never Gonna Let You Go
 rankings:
 - end_date: '1983-04-22'
@@ -99,4 +100,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
 ---
+
+I was as wrong as I could be
+To let you get away from me
+I'll regret that move
+For as long as I'm livin'
+
+But now that I've come to see the light
+All I wanna do is make things right
+So just say the word
+And tell me that I'm forgiven
+
+You and me
+We're gonna be
+Better than we were before
+I loved you then but now I intend
+To open up and love you even more
+This time you can be sure
+
+I'm never gonna let you go
+I'm gonna hold you in my arms forever
+Gonna try and make up for all the times
+I hurt you so
+
+Gonna hold your body close to mine
+From this day on we're gonna be together
+Oh, I swear this time
+I'm never gonna let you go
+
+Looking back now
+It seems so clear
+I had it all when you were here
+Oh, you gave it all
+And I took it for granted
+
+But if there's some feeling left in you
+Some flicker of love
+That still shines through
+Let's talk it out
+Let's talk about second chances
+
+Wait and see
+It's gonna be
+Sweeter than it was before
+I gave some then but now I intend
+To dedicate myself to given more
+This time you can be sure
+
+I'm never gonna let you go
+I'm gonna hold you in my arms forever
+Gonna try and make up for all the times
+I hurt you so
+
+Gonna hold your body close to mine
+From this day on we're gonna be together
+Oh, I swear this time
+I'm never gonna let you go
+
+Oh
+So if you'll just say
+You want me too
+
+I'm never gonna let you go
+I'm gonna hold you in my arms forever
+Gonna try and make up for all the times
+I hurt you so
+
+Gonna hold your body close to mine
+From this day on we're gonna be together
+Oh, I swear this time
+I'm never gonna let you go
+
+I'm never gonna let you go
+I'm gonna hold you in my arms forever
+Gonna try and make up for all the times
+I hurt you so
+
+Gonna hold your body close to mine
+From this day on we're gonna be together
+Oh, I swear this time
+I'm never gonna let you go
+
+
 

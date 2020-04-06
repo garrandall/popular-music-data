@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-diary-of-jane-breaking-benjamin
+lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/thediaryofjane.html
 name: The Diary Of Jane
 rankings:
 - end_date: '2006-08-18'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
 ---
+
+If I had to
+I would put myself right beside you
+So let me ask
+Would you like that?
+Would you like that?
+
+And I don't mind
+If you say this love is the last time
+So now I'll ask
+Do you like that?
+Do you like that?
+
+No!
+
+Something's getting in the way.
+Something's just about to break.
+I will try to find my place in the diary of Jane.
+So tell me how it should be.
+
+Try to find out what makes you tick.
+As I lie down
+Sore and sick.
+Do you like that?
+Do you like that?
+
+There's a fine line between love and hate.
+And I don't mind.
+Just let me say that
+I like that
+I like that
+
+Something's getting in the way.
+Something's just about to break.
+I will try to find my place in the diary of Jane.
+As I burn another page,
+As I look the other way.
+I still try to find my place in the diary of Jane.
+So tell me how it should be.
+
+Desperate, I will crawl
+Waiting for so long
+No love, there is no love.
+Die for anyone
+What have I become?
+
+Something's getting in the way.
+Something's just about to break.
+I will try to find my place in the diary of Jane.
+As I burn another page,
+As I look the other way.
+I still try to find my place in the diary of Jane.
+
+
 

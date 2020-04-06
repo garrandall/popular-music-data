@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-sweet-it-is--to-be-loved-by-you--james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/howsweetitistobelovedbyyou.html
 name: How Sweet It Is (To Be Loved By You)
 rankings:
 - end_date: '1975-06-27'
@@ -67,4 +68,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
 ---
+
+How sweet it is to be loved by you. How sweet it is to be loved by you.
+
+I needed the shelter of someone's arms and there you were.
+I needed someone to understand my ups and downs and there you were.
+With sweet love and devotion, deeply touching my emotion,
+I want to stop and thank you baby. I want to stop and thank you baby.
+How sweet it is to be loved by you.  How sweet it is to be loved by you.
+
+I close my eyes at night wondering where would I be without you in my life.
+Everything I did was just a bore, everywhere I went it seems I'd been there before.
+But you brighten up for me all of my days with a love so sweet in so many ways,
+I want to stop and thank you baby, I just want to stop and thank you baby.
+How sweet it is to be loved by you, feels so fine. How sweet it is to be loved by you.
+
+You were better for me than I was for myself,
+for me, there's you and there ain't nobody else,
+I want to stop and thank you baby. I just want to stop and thank you baby, yes I do,
+how sweet it is to be loved by you. How sweet it is to be loved by you.
+Feels so fine, how sweet it is to be loved by you.
+Just like jelly baby, oh yeah, how sweet it is to be loved by you.
+Just like honey to the bee, babe, how sweet it is to be loved by you.
+
+
 

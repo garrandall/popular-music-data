@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-had-me-from-hello-kenny-chesney
+lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/youhadmefromhello.html
 name: You Had Me From Hello
 rankings:
 - end_date: '1999-07-16'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
 ---
+
+One word, that's all you said
+Something in your voice called me, turned my head
+Your smile, just captured me
+You were in my future as far as I could see
+And I don't know how it happens, but it happens still
+You asked me if I love you, if I always will
+
+Well you had me from hello
+I felt love start to grow
+The moment that I looked into your eyes you won me
+It was over from the start you completely stole my heart
+And now you won't let go
+I never even had a chance you know
+You had me from hello
+
+Inside I built a wall
+So high around my heart, I thought I'd never fall
+One touch, you brought it down
+The bricks of my defenses scattered on the ground
+And I swore to me I wasn't going to love again
+The last time was the last time I'd let someone in
+
+But you had me from hello
+I felt love start to grow
+The moment that I looked into your eyes you won me
+It was over from the start you completely stole my heart
+And now you won't let go
+I never even had a chance you know
+You had me from hello
+
+That's all you said
+Something in your voice calls me, turns my head
+You had me from hello
+You had me from hello
+Girl, I've loved you from hello
+
+
 

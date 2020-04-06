@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fake-it-seether
+lyrics_url: https://www.azlyrics.com/lyrics/seether/fakeit.html
 name: Fake It
 rankings:
 - end_date: '2007-10-19'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
 ---
+
+Who's to know if your soul will fade at all
+The one you sold to fool the world
+You lost your self-esteem along the way
+Yeah
+
+
+Good god you're coming up with reasons
+Good god you're dragging it out
+Good god it's the changing of the seasons
+I feel so raped
+So follow me down
+And just fake it if you're out of direction
+Fake it if you don't belong here
+Fake it if you feel like affection
+Woah you're such a fucking hypocrite
+
+And you should know that the lies won't hide your flaws
+No sense in hiding all of yours
+You gave up on your dreams along the way
+Yeah
+
+
+
+Whoah
+Whoah
+
+I can fake with the best of anyone
+I can fake with the best of em all
+I can fake with the best of anyone
+I can fake it all
+
+Who's to know if your soul will fade at all
+The one you sold to fool the world
+You lost your self-esteem along the way
+Yeah
+
+
+
+Fake it if you're out of direction
+Fake it if you don't belong here
+Fake it if you feel like infection
+Woah you're such a fucking hypocrite
+
+
 

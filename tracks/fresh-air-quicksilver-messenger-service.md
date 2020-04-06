@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fresh-air-quicksilver-messenger-service
+lyrics_url: https://www.azlyrics.com/lyrics/quicksilvermessengerservice/freshair.html
 name: Fresh Air
 rankings:
 - end_date: '1970-10-09'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+
+Oh, what you do to me
+Oh, what you do to me, little girl
+Oh, have another hit of sweet air
+Oh, have another hit
+
+I want to know where you going
+I want to know, sweet mama, where you gonna go?
+Oh, have another hit of fresh air
+Oh, have another hit
+
+Oh, baby what you gonna do?
+I what to know what you gonna do sweet thing?
+Oh, have another hit of sweet love in the morning
+Oh, have another hit
+
+I love you, yes I do
+I love you, god knows I do
+Oh, have another hit of sweet California sunshine
+Oh, have another hit
+
+Take me home, take me home
+Take me home, I wanna go home with you
+Oh, have another hit of fresh air
+Oh, have another hit
+
+
 

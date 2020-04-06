@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-ballad-of-jayne-l-a--guns
+lyrics_url: https://www.azlyrics.com/lyrics/laguns/theballadofjayne.html
 name: The Ballad Of Jayne
 rankings:
 - end_date: '1990-04-13'
@@ -95,4 +96,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
 ---
+
+She was always something special
+A diamond shining bright in the rain
+Everybody dreams of angels
+No one will ever know
+How much I loved you so
+
+Now it all seems funny
+Kinda like a dream
+Things ain't always what they seem
+What a shame
+What happened to Jayne
+
+You were always on my mind
+Childlike summer days in the sun
+Slowly wishes turn to sadness
+Time don't heal a broken gun
+I wish I'd never let you go
+Hear me now 'cause I want you to know
+
+That it all seems funny
+Kinda like a dream
+Things ain't always what they seem
+What a shame
+What happened to Jayne
+
+Now she's breakin' hearts in heaven
+Shining bright in the sky
+I still hear her voice in the wind
+I still think of you in the night, oh yeah
+Well, I guess she'll never know
+How much I need her so
+
+Now it all seems funny
+Kinda like a dream
+Things ain't always what they seem
+What a shame
+What a shame
+What happened to Jayne
+
+Now it all seems funny
+Kinda like a dream
+Things ain't always what they seem
+What a shame
+What happened to Jayne
+What happened to Jayne
+
+
 

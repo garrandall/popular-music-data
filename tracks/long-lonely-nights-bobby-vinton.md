@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: long-lonely-nights-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/longlonelynights.html
 name: Long Lonely Nights
 rankings:
 - end_date: '1965-03-12'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
+
+Long, long and lonely nights
+I cry my eyes out over you
+Wond'ring if I did right
+And why you left me with a broken heart
+
+Oh, long, long and lonely nights
+Oh, how I miss you, my dear
+Please, please, come back to me
+How I wish you were here
+
+As I go along my lonely way I visualize your face
+When I pass through (yeah!) my doorway
+What's left for me to face?
+
+Oh, long, long and lonely nights
+I guess you're never coming home
+Long, long and lonely nights
+Ever since you've been gone
+
+As I go along my lonely way I visualize your face
+When I pass through (yeah!) my doorway
+What's left for me to face?
+
+Oh, oh, oh, long, long and lonely nights
+I guess you're never coming home
+Long, long and lonely nights
+Ever since you've been gone
+
+Please, please, come back to me
+You've been gone too long
+
+
 

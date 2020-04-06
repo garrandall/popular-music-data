@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-you-like-that-canaan-smith
+lyrics_url: https://www.azlyrics.com/lyrics/canaansmith/loveyoulikethat.html
 name: Love You Like That
 rankings:
 - end_date: '2015-04-17'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
 ---
+
+Hey, girl, I'm just a small town run around
+I get my kicks out on the outskirts of town
+I could never do it like a pretty city boy
+I'm more a fishin' in the dark nitty gritty boy
+So lay back and let me paint you a picture
+The way I wanna kiss you is...
+
+
+Slow as the Mississippi
+Strong as a fifth of whiskey
+Steady as a Tom Petty track
+I wanna love, wanna love you like that
+Deeper than a sunset sky
+Sweeter than muscadine wine
+All night 'til the sun comes back
+I wanna love, wanna love, wanna love you like that
+
+When I'm with you I can see down the road, girl
+Not just the gravel when we're travelin' on, girl
+And I'm bettin' that it's gonna be a wild ride
+But I promise that I'm gonna be there by your side
+I think we got another memory in the makin'
+So, baby, let's take it, take it...
+
+
+
+I ain't gonna do it like a pretty city boy
+I'm a fishin' in the dark nitty gritty boy
+So let me love you...
+
+
+
+Baby, I wanna love, wanna love, wanna love you like that
+
+Yeah
+I could never do it like a pretty city boy
+I'm a fishin' in the dark nitty gritty boy
+
+
 

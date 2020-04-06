@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-things-never-change-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/somethingsneverchange.html
 name: Some Things Never Change
 rankings:
 - end_date: '2000-05-19'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
 ---
+
+After all this time I still miss you everyday
+The same world spins 'round
+I guess some things never change
+Sometimes I go out but it never feels the same
+I still look for you
+Baby some things never change
+
+When I said I'd love you for eternity
+I just never knew how true those words would be
+Just an old love song
+Just a mention of your name
+My heart breaks in two again
+I guess some things never change
+
+Maybe someday someone else will set me free
+Until then I'll live with your loves legacy
+And I'll keep holding on
+Hoping you'll come back someday
+You can rest assured
+Baby some things never change
+Girl I'm still in love with you
+I guess some things never change
+
+I still love you
+
+
 

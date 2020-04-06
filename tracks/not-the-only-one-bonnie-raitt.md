@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-the-only-one-bonnie-raitt
+lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/nottheonlyone.html
 name: Not The Only One
 rankings:
 - end_date: '1992-04-24'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
 ---
+
+
+I was in a daze, movin in the wrong direction
+Feelin that I'd always be the lonely one
+Then I saw your face, on the edge of my horizon
+Whisperin that I wasn't the only one
+The lonely one.
+
+One chance intervention, see what it can signify
+The slightest misapprehension, baby
+And we'd have passed each other by
+When I heard your sweet voice callin
+Saw your light come shinin throught
+I couldn't stop my heart from turning
+Churnin out my love for you, my love to you.
+
+
+
+True love or perfection
+It seems like it's overdue
+Then just when you least expect it
+It comes sneakin up on you
+When I thought that I was dreamin
+Felt your body close to mine
+Now love takes on a different meaning
+Together till the end of time.
+
+
+I was in a daze, movin in the wrong direction
+Feeling that I'd always be the lonely one
+When I saw your face through the web of my confusion
+Whisperin that I wasn't the only one
+The lonely one
+
+
 

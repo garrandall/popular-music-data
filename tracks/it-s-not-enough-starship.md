@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-not-enough-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/itsnotenough.html
 name: It's Not Enough
 rankings:
 - end_date: '1989-08-11'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
 ---
+
+If you want my love tell me 'bout tomorrow 
+Cause I can't wait one more day 
+Cold in the night waiting for a promise 
+So all alone I'm hanging on 
+
+Woman don't play this game 
+You'll never get my lovin this way 
+All this time you've been livin' for the moment 
+It works for some, but not for me no 
+
+It's not enough, to tell me you love me 
+It's not enough, to tell me that you care (Yeah) 
+It's not enough, to tell me you want me 
+Darlin' you know deep inside 
+If you want my love, then girl you must show me 
+(Not enough) Oh show me girl 
+
+We can make it last if we hold on till tomorrow 
+Or will we throw it away 
+Empty words you say you want to please me 
+But half a heart won't make it right 
+
+It's not enough to tell me you love me 
+It's not enough to tell me that you cried (Yeah) 
+It's not enough to tell me you're sorry 
+Darlin' you know deep inside 
+If you want my love, then girl you must show me 
+(Not enough) 
+
+Empty words you say you want to please me 
+But half a heart won't make it right no 
+
+It's not enough to tell me you love me 
+It's not enough to tell me that you care (Yeah) 
+It's not enough to tell me you want me 
+Darlin' you know 
+Not enough to tell me you need me 
+It's not enough to tell me that you cried (Yeah) 
+It's not enough to tell me you're sorry 
+Darlin' you know deep inside 
+It's just not enough (Not enough) 
+
+Oh, if you really wanna know girl (Not enough) 
+What it takes if you want my love...
+
+
 

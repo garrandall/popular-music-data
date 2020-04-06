@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: own-the-night-chaka-khan
+lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/ownthenight.html
 name: Own The Night
 rankings:
 - end_date: '1985-12-27'
@@ -43,4 +44,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
 ---
+
+Feeling the heat
+I can't keep
+The pressure off me
+Hear the man say
+Earn your pay
+Or I'll let you go today
+
+But that's not for me
+I was born to be alive
+Not livin' to survive
+Come closer to me, baby
+Make me believe it, I can
+
+Own the night
+Reach up and touch the light
+Own the night
+You make me come alive
+I own the night
+
+Here in the dark
+Turn it on
+Love me forever like this
+Baby don't stop
+Make it hot
+I want to taste your burn again
+
+Take me away
+To a place I've never known
+Livin' right down to the bone
+Closer to me baby
+Make me believe it, I can
+
+Own the night
+Reach up and touch the light
+(Love still shines)
+Own the night
+You make me come alive
+I own the night
+
+You make me feel
+I own the night
+
+Own the night
+Touch the light
+(Love still shines)
+Own the night
+
+
 

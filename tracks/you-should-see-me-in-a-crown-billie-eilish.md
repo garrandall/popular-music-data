@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-should-see-me-in-a-crown-billie-eilish
+lyrics_url: https://www.azlyrics.com/lyrics/besomorph/youshouldseemeinacrown.html
 name: You Should See Me In A Crown
 rankings:
 - end_date: '2018-08-10'
@@ -39,4 +40,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
 ---
+
+Bite my tongue, bide my time
+Wearing a warning sign
+Wait 'til the world is mine
+Visions I vandalize
+Cold in my kingdom size
+Fell for these ocean eyes
+
+You should see me in a crown
+I'm gonna run this nothing town
+Watch me make 'em bow
+One by one by one
+One by one by
+You should see me in a crown
+Your silence is my favorite sound
+Watch me make 'em bow
+One by one by one
+One by one by one
+
+Count my cards, watch them fall
+Blood on a marble wall
+I like the way they all scream
+Tell me which one is worse
+Living or dying first
+Sleeping inside a hearse (I don't dream)
+
+You say, "Come over, baby
+I think you're pretty"
+I'm okay, I'm not your baby
+If you think I'm pretty
+
+You should see me in a crown
+I'm gonna run this nothing town
+Watch me make 'em bow
+One by one by one
+One by one by
+You should see me in a crown
+Your silence is my favorite sound
+Watch me make 'em bow
+One by one by one
+One by one by one
+
+Crown
+I'm gonna run this nothing town
+Watch me make 'em bow
+One by one by one
+One by one by
+You should see me in a crown (You should see me, see me)
+Your silence is my favorite sound (You should see me, see me)
+Watch me make 'em bow
+One by one by one
+One by one by one
+
+
 

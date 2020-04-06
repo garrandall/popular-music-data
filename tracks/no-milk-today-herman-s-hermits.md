@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-milk-today-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/joshuajames/nomilktoday.html
 name: No Milk Today
 rankings:
 - end_date: '1967-02-24'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
 ---
+
+No milk today, my love has gone away
+The bottle stands forlorn, a symbol of the dawn
+No milk today, it seems a common sight
+But people passing by don't know the reason why
+
+How could they know just what this message means?
+The end of all my hopes, the end of all my dreams
+How could they know the palace there had been
+Behind the door where my love reigned as queen
+
+No milk today, it wasn't always so
+The company was gay, we'd turn night into day
+
+But all that's left is a place dark and lonely
+A terraced house in a mean street back of town
+Becomes a shrine when I think of you only
+Just two up two down
+
+No milk today, it wasn't always so
+The company was gay, we'd turn night into day
+As music played the faster did we dance
+We felt it both at once, the start of our romance
+
+How could they know just what this message means?
+The end of my hopes, the end of all my dreams
+How could they know a palace there had been
+Behind the door where my love reigned as queen
+
+No milk today, my love has gone away
+The bottle stands forlorn, a symbol of the dawn
+
+
 

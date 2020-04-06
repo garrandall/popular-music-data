@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cover-you-in-kisses-john-michael-montgomery
+lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/coveryouinkisses.html
 name: Cover You In Kisses
 rankings:
 - end_date: '1998-08-07'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
 ---
+
+You say it's cold back there in Denver
+A foot of new snow on the ground
+You're all bundled up in blankets
+I'd give anything to be there with you now
+
+I'd cover you in kisses
+Hold you in my arms
+That's all that I can think of
+Every minute we're apart
+Darlin' I've been livin'
+For the moment that we touch
+So I can cover you in kisses
+And wrap you in my love
+
+Baby keep that fire burnin'
+Pour a glass of that sweet wine
+Let your hair down on your shoulders
+And I'll be there just in time
+
+To cover you in kisses
+Hold you in my arms
+That's all that I can think of
+Every minute we're apart
+Darlin' I've been livin'
+For the moment that we touch
+So I can cover you in kisses
+And wrap you in my love
+
+Darlin' I've been livin'
+For the moment that we touch
+So I can cover you in kisses
+And wrap you in my love
+I wanna cover you in kisses
+And wrap you in my love
+
+
 

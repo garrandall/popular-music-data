@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: truly-truly-true-brenda-lee
+lyrics_url: https://www.azlyrics.com/lyrics/brendalee/trulytrulytrue.html
 name: Truly Truly True
 rankings:
 - end_date: '1965-04-09'
@@ -31,4 +32,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
 ---
+
+Truly truly, truly, true
+Do I love you, truly I do
+Do you love me, wish I knew
+Do you love me, truly true
+Truly, the question's been vogue
+From the start
+
+You have the answer
+Somewhere in your heart
+My true heaven, will come in view
+If you show me that you love me
+Truly, truly, true
+
+
 

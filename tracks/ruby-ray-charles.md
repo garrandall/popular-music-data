@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ruby-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/ruby.html
 name: Ruby
 rankings:
 - end_date: '1960-11-27'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+
+They say, Ruby you're like a dream
+Not always what you seem
+And though my heart may break when I awake
+Let it be so, I only know
+Ruby, it's you
+
+They say, Ruby you're like a song
+You just don't know right from wrong
+And in your eyes I see heartaches for me
+Right from the start, who stole my heart?
+Ruby, it's you
+
+I hear your voice and I must come to you (must come to you)
+I have no choice, so what else can I do? (what else can I do?)
+They say, Ruby you're like a flame
+Into my life you came
+And though I should beware, still I just don't care
+You thrill me so, I only know
+Ruby, it's you
+
+(I hear your voice and I must come to you)
+(I have no choice, what else can I do?-what can I do?)
+They say, Ruby you're like a flame
+Into my life you came
+And though I should beware, still I don't care
+You thrill me so, I only know
+Ruby, it's you
+
+
 

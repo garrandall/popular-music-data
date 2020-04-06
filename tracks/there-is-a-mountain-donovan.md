@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-is-a-mountain-donovan
+lyrics_url: https://www.azlyrics.com/lyrics/donovan/thereisamountain.html
 name: There Is A Mountain
 rankings:
 - end_date: '1967-08-18'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
 ---
+
+The lock upon my garden gate's a snail, that's what it is
+The lock upon my garden gate's a snail, that's what it is
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain, then there is no mountain, then there is
+
+The caterpillar sheds his skin to find a butterfly within
+Caterpillar sheds his skin to find a butterfly within
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain, then there is no mountain
+
+Oh Juanita, oh Juanita, oh Juanita, I call your name (Ah)
+Oh,
+The snow will be a blin-
+ding sight to see, as it lies on yonder hillside.
+
+The lock upon my garden gate's a snail, that's what it is
+The lock upon my garden gate's a snail, that's what it is
+Caterpillar sheds his skin to find a butterfly within
+Caterpillar sheds his skin to find a butterfly within
+
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain, then there is no mountain, then there is
+First there is a mountain
+
+
 

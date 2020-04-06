@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooh-ooh-song-pat-benatar
+lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/oohoohsong.html
 name: Ooh Ooh Song
 rankings:
 - end_date: '1985-01-25'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
+
+Just when we think we conquered it
+It seems we lose the fight again
+But there's just no stoppin' it
+It's like a bad dream that never ends
+It puts up walls between us
+That get harder and harder and harder
+And harder and harder to remove
+But we let it continue, like people in love always do
+Ooh, ooh
+Ooh, ooh
+Ooh, ooh
+
+Let's not pretend that we're unique
+'Cause everybody's tasted loves illusion
+We try to hide the fact that we
+Got lost between the chaos and confusion
+And the love we feel
+Is gettin' deeper and deeper and deeper
+And deeper, and deeper by the minute
+
+But we let it slip away
+'Cause we don't know a good thing while we're in it
+
+Ooh, ooh
+Ooh, ooh
+Ooh, ooh
+
+"Y el amor que sentimos es mas profundo" ("The love that we feel is deeper")
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/comeon.html
 name: Come On
 rankings:
 - end_date: '1964-01-24'
@@ -39,4 +40,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
+
+Come on, come on children now.
+Come on, sing to me
+Come on, come on children
+Let's shout until the break of day
+
+Come on, come on children now.
+Come on, sing to me
+Come on, come on children
+Let's sing and shout our blues away
+
+If you're broken hearted and you're burdened down with sorrow
+'Cause the world ain't treatin' you right
+Well, listen to me brother, if we sing to one another
+You'll go home feelin' better tonight
+
+Come on, come on children now.
+Come on, sing to me
+Come on, come on children
+Let's sing and shout our blues away
+
+If you're broken hearted and you're burdened down with sorrow
+'Cause the world ain't treatin' you right
+Well, listen to me brother, if we sing to one another
+You'll go home feelin' better tonight
+
+Come on, come on children now.
+Come on, sing to me
+Come on, come on children
+Let's sing and shout our blues away
+
+Come on, come on children now.
+Come on...
+
+
 

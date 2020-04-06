@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: un-break-my-heart-toni-braxton
+lyrics_url: https://www.azlyrics.com/lyrics/weezer/unbreakmyheart.html
 name: Un-Break My Heart
 rankings:
 - end_date: '1996-11-01'
@@ -175,4 +176,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
 ---
+
+Don't leave me in all this pain
+Don't leave me out in the rain
+Come back and bring back my smile
+Come and take these tears away
+I need your arms to hold me now
+The nights are so unkind
+Bring back those nights when I held you beside me
+
+Un-break my heart
+Say you'll love me again
+Undo this hurt you caused
+When you walked out the door
+And walked out of my life
+Un-cry these tears
+I cried so many nights
+Un-break my heart
+My heart
+
+Take back that sad word good-bye
+Bring back the joy to my life
+Don't leave me here with these tears
+Come and kiss this pain away
+I can't forget the day you left
+Time is so unkind
+And life is so cruel without you here beside me
+
+Don't leave me in all this pain
+Don't leave me out in the rain
+Bring back the nights when I held you beside me
+
+Un-break my heart
+Say you'll love me again
+Undo this hurt you caused
+When you walked out the door
+And walked out of my life
+Un-cry these tears
+I cried so many, many nights
+Un-break my, un-break my heart, oh baby
+Come back and say you love me
+Un-break my heart, sweet darlin'
+Without you I just can't go on
+
+Say that you love me, say that you love me...
+
+
 

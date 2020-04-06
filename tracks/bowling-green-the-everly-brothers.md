@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bowling-green-the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/bowlinggreen.html
 name: Bowling Green
 rankings:
 - end_date: '1967-06-02'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
 ---
+
+Way down in Bowling Green 
+Prettiest girls I've ever seen 
+A man in Kentucky 
+Sure is lucky 
+To love down in Bowling Green
+
+Bowling Green folks treat you kind 
+They let you think your own mind 
+A man in Kentucky 
+Sure is lucky 
+In Bowling Green you walk your own line
+
+Kentucky sunshine makes the heart unfold 
+It warms the body 
+And I know it touches the soul 
+Bluegrass is fine 
+Kentucky owns my mind
+
+The fields down in Bowling Green 
+Have the softest grass I've ever seen 
+A man in Kentucky 
+Sure is lucky 
+To lie down in Bowling Green
+
+Bowling Green girls treat you right 
+They wear dresses cut country tight 
+A man in Kentucky 
+Sure is lucky 
+If he's seen a Bowling Green night
+
+Kentucky sunshine makes the heart unfold 
+It warms the body 
+And I know it touches the soul 
+Bluegrass is fine 
+Kentucky owns my mind
+
+Bowling Green, Bowling Green 
+Bowling Green, Bowling Green
+
+Bowling Green, Bowling Green 
+Bowling Green, Bowling Green
+
+
 

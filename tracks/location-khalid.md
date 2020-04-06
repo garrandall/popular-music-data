@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: location-khalid
+lyrics_url: https://www.azlyrics.com/lyrics/khalid/location.html
 name: Location
 rankings:
 - end_date: '2017-02-03'
@@ -179,4 +180,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
 ---
+
+Send me your location
+Let's focus on communicating
+'Cause I just need the time and place to come through
+Place to come through
+
+Send me your location
+Let's ride the vibrations
+I don't need nothing else but you
+I don't need nothing else but you
+
+At times I wonder why I fool with you
+But this is new to me
+This is new to you
+Initially
+I didn't wanna fall for you
+Gather my attention it was all for you
+
+So, don't take advantage
+Don't leave my heart damaged
+To understand that things go a little bit better when you plan it
+
+So, won't you send me your location
+Let's focus on communicating
+'Cause I just need the time and place to come through
+
+Send me your location
+Let's ride the vibrations
+I don't need nothing else but you
+I don't need nothing else but you
+
+I don't wanna fall in love off of subtweets
+So, let's get personal
+I got a lot of cool spots that we can go
+Tell me what's the move and I got you
+
+I'm only acting like this 'cause I like you
+Just give me the vibe to slide then
+I might make you mine by the night and
+
+Send me your location
+Let's focus on communicating
+'Cause I just need the time and place to come through
+Place to come through
+
+Send me your location
+Let's ride the vibrations
+I don't need nothing else but you
+I don't need nothing else but you
+
+Ride, ride, ride
+Come and vibe with me tonight
+I don't need nothing else but you
+I don't need nothing else but you
+
+Ride, ride, ride
+Come and vibe with me tonight
+I don't need nothing else but you
+Nothing else but you
+
+I don't need nothing else but you
+
+
 

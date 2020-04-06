@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: short-people-randy-newman
+lyrics_url: https://www.azlyrics.com/lyrics/randynewman/shortpeople.html
 name: Short People
 rankings:
 - end_date: '1977-11-18'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
 ---
+
+Short People got no reason
+Short People got no reason
+Short People got no reason
+To live
+
+They got little hands
+Little eyes
+They walk around
+Tellin' great big lies
+They got little noses
+And tiny little teeth
+They wear platform shoes
+On their nasty little feet
+
+Well, I don't want no Short People
+Don't want no Short People
+Don't want no Short People
+'Round here
+
+Short People are just the same
+As you and I
+(A fool such as I)
+All men are brothers
+Until the day they die
+(It's a wonderful world)
+
+Short People got nobody
+Short People got nobody
+Short People got nobody
+To love
+
+They got little baby legs
+That stand so low
+You got to pick 'em up
+Just to say hello
+They got little cars
+That go beep, beep, beep
+They got little voices
+Goin' peep, peep, peep
+They got grubby little fingers
+And dirty little minds
+They're gonna get you every time
+
+Well, I don't want no Short People
+Don't want no Short People
+Don't want no Short People
+'Round here
+
+
 

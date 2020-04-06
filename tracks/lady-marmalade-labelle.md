@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-marmalade-labelle
+lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/ladymarmalade.html
 name: Lady Marmalade
 rankings:
 - end_date: '1975-01-10'
@@ -79,4 +80,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
+
+Hey Sister, Go Sister, Soul Sister, Go Sister
+Hey Sister, Go Sister, Soul Sister, Go Sister
+
+He met Marmalade down in old New Orleans
+Struttin' her stuff on the street
+She said 'Hello,
+Hey Joe, you wanna give it a go? Mmm, mmm
+
+Itchi Gitchi Ya Ya Da Da
+Itchi Gitchi Ya Ya here
+Mocha-choca-lata Ya Ya
+Creole Lady Marmalade
+
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+
+He sat in her boudoir while she freshened up
+The boy drank all her magnolia-wine
+On the black satin sheets where oh I swear he started to freak
+
+Itchi Gitchi Ya Ya Da Da
+Itchi Gitchi Ya Ya here
+Mocha-choca-lata Ya Ya
+Creole Lady Marmalade
+
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+
+Hey, hey, hey
+Touching her skin feelin' silky smooth
+The colour of cafe au lait
+Made the savage beast inside
+Roar until it cried, more, more, more
+
+Now he's back home doing 9 to 5
+Living his grey flannel life
+But when he turns off to sleep
+Old memories creep, more, more, more
+
+Itchi Gitchi Ya Ya Da Da
+Itchi Gitchi Ya Ya here
+Mocha-choca-lata Ya Ya
+Creole Lady Marmalade
+
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+Voulez-vous couchez avec moi ce soir?
+Creole Lady Marmalade
+
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+Voulez-vous coucher avec moi ce soir?
+Voulez-vous coucher avec moi?
+
+Itchi Gitchi Ya Ya Da Da
+Itchi Gitchi Ya Ya here
+Mocha-choca-lata Ya Ya
+Itchi Gitchi Ya Ya here
+
+
 

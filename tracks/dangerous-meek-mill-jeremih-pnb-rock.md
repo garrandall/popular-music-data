@@ -6,6 +6,7 @@ features:
 - PnB Rock
 genres: []
 key: dangerous-meek-mill-jeremih-pnb-rock
+lyrics_url: https://www.azlyrics.com/lyrics/meekmill/dangerous.html
 name: Dangerous
 rankings:
 - end_date: '2018-07-27'
@@ -89,4 +90,122 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
 ---
+
+
+Right Now Sound
+Hitmaka!
+
+
+You feel the vibe, it's contagious
+Look in yo eyes, shit is dangerous
+Grateful I had all the patience
+I know you going through some changes
+You taking pictures, know your angles
+Ooh, no we ain't perfect, but we damn close
+Ooh, you give me something I can't pay for
+
+
+No angel, but you got a halo
+When it's nights like this, I really wanna be right here
+I really wanna take you there
+When it's nights like this, I really wanna be right here
+I really wanna take you there
+
+
+It was nights like this, feeling right like this
+I never really spent no time like this, uh
+The second time at the crib knowing I might not hit
+You said, "What I look like?", like my bitch, yeah
+Looking in yo eyes, shit is dangerous
+That pussy wet, I call it angel dust
+I done put so many diamond chains on you, they get tangled up
+I never felt like this, this strange as fuck
+( That's what it's like loving you)
+Got yo ex nigga calling, but he can't do much
+'Cause you with the kid now
+Ella Mai, boo'd up
+And all you gotta do is call and watch that Wraith pull up
+Under the stars, since they throwing all the shade on us
+Facts
+
+
+You feel the vibe, it's contagious
+
+Look in yo eyes, shit is dangerous
+
+Grateful I had all the patience
+
+I know you going through some changes
+
+You taking pictures, know your angles
+
+Ooh, no we ain't perfect, but we damn close
+
+Ooh, you give me something I can't pay for
+
+That's what it's like loving you
+
+
+Uh, you feel the vibe
+Uh, I'm deep inside
+Yeah, you fucking me
+Ooh, I let you ride
+Yeah, at first you curved me
+I let you slide then
+Yo hips so curvy, you let me slide in
+Ooh, and it was over once I flipped you over
+Relation goal, when we come through just like BeyoncÃ©, Hova
+This that Hermes money, this ain't no Fashion Nova
+You said yo ex had you depressed and I'm just glad that's over
+'Cause now you rocking with a real one
+And when I'm in it, you be maxin' on a million
+And when I hit it back to back, you make me still cum
+I know them bitches hating on you, we gon' kill them
+That's facts
+
+
+You feel the vibe, it's contagious
+
+Look in yo eyes, shit is dangerous
+
+Grateful I had all the patience
+
+I know you going through some changes
+
+You taking pictures, know your angles
+
+Ooh, no we ain't perfect, but we damn close
+
+Ooh, you give me something I can't pay for
+
+That's what it's like loving you
+
+
+Ayy, you know you bad bad
+You know I laugh at these shawty's that try to text back
+You from the projects, but so exotic
+Just give me all of that pussy, so many options
+Girl, you got me calling, all these different numbers
+Why you being selfish? You know that I want you
+You be leaving work and you deserve a Birkin
+Girl, you so contagious, that ass is so dangerous
+
+
+You feel the vibe, it's contagious
+
+Look in yo eyes, shit is dangerous
+
+Grateful I had all the patience
+
+I know you going through some changes
+
+You taking pictures, know your angles
+
+Ooh, no we ain't perfect, but we damn close
+
+Ooh, you give me something I can't pay for
+
+That's what it's like loving you
+
+
 

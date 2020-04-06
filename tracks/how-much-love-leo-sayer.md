@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-much-love-leo-sayer
+lyrics_url: https://www.azlyrics.com/lyrics/leosayer/howmuchlove.html
 name: How Much Love
 rankings:
 - end_date: '1977-07-15'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
 ---
+
+How much love do you need
+Before you give your love to me
+How much time before it grows
+How much love I wanna know
+
+What can I do
+What can I say
+The last thing I want
+Is to drive you away
+How much love does it take
+How much love for heaven sake
+
+How much love, how much love
+Do I rush right in or do I hesitate
+How much love, how much love
+How much love
+
+Am I tryin' too hard
+Give me some kind of clue
+There must be a way to get through to you
+Should I come on strong or do I hesitate
+Do I rush right in or do I wait
+
+How much love, how much love
+Do I rush right in or do I hesitate
+How much love, how much love
+How much love
+
+I've got so much love
+Don't know where to begin
+I'm pleadin' with you babe
+You gotta let me in
+
+How much love, how much love
+How much love
+
+I've got so much love
+Don't know where to begin
+I'm pleadin' with you babe
+You gotta let me in
+
+How much love do you need
+Before you give your love to me
+Should I come on strong or do I hesitate
+Do I rush right in or should I wait
+How much love, how much love
+Do I rush right in or do I hesitate
+How much love, how much love
+How much love
+How much love
+How much love
+
+
 

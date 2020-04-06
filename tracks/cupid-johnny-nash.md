@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cupid-johnny-nash
+lyrics_url: https://www.azlyrics.com/lyrics/johnnynash/cupid.html
 name: Cupid
 rankings:
 - end_date: '1969-11-07'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
 ---
+
+Cupid draw back your bow
+And let your arrow flow
+Straight to my lover's heart for me
+No, nobody else but me hey hey hey
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now listen! I don't want to bother you but I'm in distress
+There's danger of me losing all of my happiness
+For I love a girl who doesn't know I exist
+Ah and this you can fix so...
+
+Cupid draw back your bow
+And let your arrow flow
+Straight to my lover's heart for me
+No, nobody else but me hey hey hey
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Now Cupid if your arrow makes her love strong for me
+I swear I'm gonna love her until eternity
+I know that tween the both of us her heart we can steal
+Cupid help me if you will so...
+
+Cupid draw back your bow
+And let your arrow flow
+Straight to my lover's heart for me
+No, nobody else but me hey hey hey
+Cupid please hear my cry
+And let your arrow fly
+Straight to my lover's heart for me
+
+Hey Cupid Cupid I'm calling
+Don't you hear me I'm calling you
+
+
 

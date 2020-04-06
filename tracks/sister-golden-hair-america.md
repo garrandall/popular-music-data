@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sister-golden-hair-america
+lyrics_url: https://www.azlyrics.com/lyrics/midtown/sistergoldenhair.html
 name: Sister Golden Hair
 rankings:
 - end_date: '1975-04-11'
@@ -71,4 +72,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
 ---
+
+Well I tried to make it Sunday, but I got so damn depressed
+That I set my sights on Monday and I got myself undressed
+I ain't ready for the altar but I do agree there's times
+When a woman sure can be a friend of mine
+
+Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise
+And I just can't live without you; can't you see it in my eyes?
+I been one poor correspondent, and I been too, too hard to find
+But it doesn't mean you ain't been on my mind
+
+Will you meet me in the middle, will you meet me in the air?
+Will you love me just a little, just enough to show you care?
+Well I tried to fake it, I don't mind sayin', I just can't make it
+
+Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise
+And I just can't live without you; can't you see it in my eyes?
+Now I been one poor correspondent, and I been too, too hard to find
+But it doesn't mean you ain't been on my mind
+
+Will you meet me in the middle, will you meet me in the air?
+Will you love me just a little, just enough to show you care?
+Well I tried to fake it, I don't mind sayin', I just can't make it
+
+
 

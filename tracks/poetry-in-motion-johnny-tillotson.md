@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poetry-in-motion-johnny-tillotson
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/poetryinmotion.html
 name: Poetry In Motion
 rankings:
 - end_date: '1960-10-16'
@@ -67,4 +68,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+
+When I see my baby
+What do I see
+Poetry
+Poetry in motion
+
+Poetry in motion, walking by my side, her lovely locomotion
+Keeps my eyes open wide
+Poetry in motion, see her gentle sway, a wave out on the ocean, could never move that way
+
+I love every movement, and there's nothing I would change
+She doesn't need improvement, she's much too nice to rearrange
+
+Poetry in motion, dancin' close to me, a power of the devotion, swaying gracefully
+Poetry in motion, see her gentle sway, a wave out on the
+Ocean, could never move that way
+
+I love every movement, and there's nothing I would change
+She doesn't need improvement, she's much too nice to be arranged
+Poetry in motion, dancin' close to me, a power of the devotion, swaying gracefully
+
+
 

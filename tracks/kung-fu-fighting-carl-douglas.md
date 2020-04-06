@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kung-fu-fighting-carl-douglas
+lyrics_url: https://www.azlyrics.com/lyrics/vamps/kungfufighting.html
 name: Kung Fu Fighting
 rankings:
 - end_date: '1974-10-18'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
 ---
+
+Everybody was kung fu fighting
+Our chi is what we're finding
+I know it's a little bit frightening
+Oh but it's so enlightening
+
+Before the battle of the fist
+Comes the battle of the mind
+When you don't know who you are
+Just look inside
+When we move into the flow
+We're always gonna win
+So feel the power that you know
+Make sure you let it in
+
+Everybody was kung fu fighting
+Our chi is what we're finding
+I know it's a little bit frightening
+Oh but it's so enlightening
+
+And we keep moving with the flow
+If you can walk it, you can roll
+Hunger for Justice
+Let's make it grow
+The more you try to take
+The less you really have
+When it comes to energy
+You've got to give it back
+
+Everybody was kung fu fighting
+Our chi is what we're finding
+I know it's a little bit frightening
+Oh but it's so enlightening
+
+Everybody was kung fu fighting
+Our chi is what we're finding
+I know it's a little bit frightening
+Oh but it's so enlightening
+
+
 

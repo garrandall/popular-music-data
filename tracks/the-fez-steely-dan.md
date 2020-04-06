@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-fez-steely-dan
+lyrics_url: https://www.azlyrics.com/lyrics/steelydan/thefez.html
 name: The Fez
 rankings:
 - end_date: '1976-10-01'
@@ -27,4 +28,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
 ---
+
+No I'm never gonna do it without the fez on
+Oh no
+No I'm never gonna do it without the fez on
+Oh no
+That's what I am
+Please understand
+I wanna be your holy man
+No I'm never gonna do it without the fez on
+Oh no
+Ain't never gonna do it without the fez on
+Oh no
+That's what I am
+Please understand
+I wanna be your holy man
+
+No I'm never gonna do it without the fez on
+Oh no
+Don't make me do it without the fez on
+Oh no
+That's what I am please understand
+
+
 

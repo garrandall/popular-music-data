@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leave-a-tender-moment-alone-billy-joel
+lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/leaveatendermomentalone.html
 name: Leave A Tender Moment Alone
 rankings:
 - end_date: '1984-07-13'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
 ---
+
+Even though I'm in love
+Sometimes I get so afraid
+I'll say something so wrong
+Just to have something to say
+
+I know the moment isn't right
+To tell the girl a comical line
+To keep the conversation light
+I guess I'm just frightened out of my mind
+But if that's how I feel
+Then it's the best feeling I've ever known
+It's undeniably real
+Leave a tender moment alone
+
+Yes I know I'm in love
+But just when I ought to relax
+I put my foot in my mouth
+Cause I'm just avoiding the facts
+
+If the girl gets too close
+If I need some room to escape
+When the moment arose
+I'd tell her it's all a mistake
+
+But that's not how I feel
+No that's not the woman I've known
+She's undeniably real
+So leave a tender moment alone
+
+But it's not only me
+Breaking down when the tension gets high
+Just when I'm in a serious mood
+She is suddenly quiet and shy
+
+Leave a tender moment alone
+Leave it alone
+
+I know the moment isn't right
+To hold my emotions inside
+To change the attitude tonight
+I've run out of places to hide
+And if that's how I feel
+Then it's the best feeling I've ever known
+It's undeniably real
+Leave a tender moment alone
+You got to leave a tender moment alone
+Leave a tender moment alone
+Leave it alone
+You got to leave a tender moment alone
+Leave a tender moment alone
+
+
 

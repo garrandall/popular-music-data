@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-you-out-loud-rascal-flatts
+lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/loveyououtloud.html
 name: Love You Out Loud
 rankings:
 - end_date: '2003-04-11'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
 ---
+
+I have always been a little shy 
+I've always been the quiet type till now 
+And I never let my feelings show 
+I never let anybody know 
+Just how much I was so deep in love 
+But now that you're in my arms 
+
+
+I'm gonna stand on a rooftop, climb up a mountaintop 
+Baby, scream and shout 
+I wanna sing it on the radio, show it on a video 
+Baby, leave no doubt 
+I want the whole world to know just what I'm all about 
+I love to love you out loud 
+
+You keep bringing out the free in me 
+What you do to my heart just makes me melt 
+And I don't think I can resist 
+But I've never been one to kiss and tell 
+A love this true can't be subdued 
+So I'm gonna let out a yell 
+
+
+
+
+Baby, I want the whole world to see 
+Just how good your love looks on me 
+
+
+
+Baby, I love to love you out loud 
+Yeah, I love to love you out loud
+
+
 

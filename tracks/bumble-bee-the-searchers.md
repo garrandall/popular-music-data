@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bumble-bee-the-searchers
+lyrics_url: https://www.azlyrics.com/lyrics/searchers/bumblebee.html
 name: Bumble Bee
 rankings:
 - end_date: '1965-03-26'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
 ---
+
+I'm gonna have to put you down
+You've been treatin' me like a clown
+You know you've hurt me once before
+You'll never hurt me anymore
+
+Shoo-wee, you hurt me like a bee
+A bumble bee, an evil bumble bee
+
+I gave you love as sweet as honey
+My life, my soul and all my money
+You didn't seem to realize
+You had a home in paradise
+
+Shoo-wee, you hurt me like a bee
+A bumble bee, an evil bumble bee
+
+Don't you know I cry
+Night after night
+Just one kiss before you go
+Don't ever come back no more
+
+Now baby there's no need of cryin'
+I'm sick and tired of all your lyin'
+You know you've hurt my heart again
+I'm sorry baby it's the end
+
+Shoo-wee, you hurt me like a bee
+A bumble bee, an evil bumble bee
+
+Don't you know I cry
+Night after night
+Just one kiss before you go
+Don't ever come back no more
+
+Now baby there's no need of cryin'
+I'm sick and tired of all your lyin'
+You know you've hurt my heart again
+I'm sorry baby it's the end
+
+Shoo-wee, you hurt me like a bee
+A bumble bee, an evil bumble bee
+
+
 

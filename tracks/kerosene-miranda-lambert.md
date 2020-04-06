@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kerosene-miranda-lambert
+lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/kerosene.html
 name: Kerosene
 rankings:
 - end_date: '2005-12-23'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
 ---
+
+I'm waitin' on the sun to set cause yesterday aint over yet
+I started smoking cigarettes there's nothing else to do I guess
+Dusty roads aint made for walking, spinning tires aint made for stoppin'
+I'm giving up on love cause love's given up on me
+
+I gave it everything I had and everything I got was bad
+Life aint hard but it's too long to live it like some country song
+Trade the truth in for a lie, cheating really aint a crime
+I'm giving up on love cause love's given up on me
+
+Forget your high society, I'm soakin' it in Kerosene
+Light 'em up and watch them burn, teach them what they need to learn HA!
+Dirty hands aint made for shakin', aint a rule that aint worth breakin'
+Well I'm giving up on love cause love's given up on me
+
+Now I don't hate the one who left
+You can't hate someone who's dead
+He's out there holding on to someone, I'm holding up my smoking gun
+I'll find somewhere to lay my blame the day she changes her last name
+Well I'm giving up on love cause love's given up on me
+Well I'm giving up on love HEY love's given up on me
+
+
 

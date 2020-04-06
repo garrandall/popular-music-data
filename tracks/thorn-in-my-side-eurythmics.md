@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thorn-in-my-side-eurythmics
+lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/thorninmyside.html
 name: Thorn In My Side
 rankings:
 - end_date: '1986-11-21'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
 ---
+
+You gave me such a bad time
+tried to hurt me, but now I know...
+
+Thorn in my side.
+You know that's all you ever were.
+A bundle of lies.
+You know that's all that it was worth...
+I should have known better
+But I trusted you at first.
+I should have known better
+But I got what I deserved...
+
+To run away from you
+Was all that I could do.
+To run away from you
+Was all that I could do.
+
+Thorn in my side.
+You know that's all you'll ever be.
+So don't think you know better
+'Cause that's what you mean to me...
+I was feeling complicated.
+I was feeling low.
+Now everytime I think of you
+I shiver to the bone...
+
+
+
+
 

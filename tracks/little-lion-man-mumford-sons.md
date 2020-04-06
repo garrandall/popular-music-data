@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: little-lion-man-mumford-sons
+lyrics_url: https://www.azlyrics.com/lyrics/tonightalive/littlelionman.html
 name: Little Lion Man
 rankings:
 - end_date: '2010-09-03'
@@ -96,4 +97,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
 ---
+
+Weep for yourself, my man
+You'll never be what is in your heart
+Weep Little Lion Man
+You're not as brave as you were at the start
+Rate yourself and rake yourself
+Take all the courage you have left
+Wasted on fixing all the problems
+That you made in your own head
+
+But it was not your fault but mine
+And it was your heart on the line
+I really fucked it up this time
+Didn't I, my dear?
+Didn't I, my...
+
+Tremble for yourself, my man
+You know that you have seen this all before
+Tremble Little Lion Man,
+You'll never settle any of your scores
+Your grace is wasted on your face
+Your boldness stands alone among the wreck
+Now learn from your mother or else spend your days
+Biting your own neck
+
+
+But it was not your fault but mine
+And it was your heart on the line
+I really fucked it up this time
+Didn't I, my dear?
+
+Didn't I, my dear?
+
+Ahhhhh......
+
+
+But it was not your fault but mine
+And it was your heart on the line
+I really fucked it up this time
+Didn't I, my dear?
+
+Didn't I, my dear?
+
+
 

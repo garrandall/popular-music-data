@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-mother-s-eyes-bette-midler
+lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/mymotherseyes.html
 name: My Mother's Eyes
 rankings:
 - end_date: '1980-11-28'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
+
+"I think I'll sing you a little ballad. 
+It's a new one. I just learnt it. 
+Oh, I hope you like it."
+
+Got my mother's eyes and my father's hair.
+Does anybody really care?
+It's gettin' cold out here.
+
+Well, I keep walkin' with my head held high,
+with my head to the sky,
+with my mother's eyes.
+
+And my mother's eyes are with me
+in the darkness that's been paid for.
+I'm just a nameless stranger, don't know why.
+
+Have I seen all that I could?
+Have I seen more than I should
+with my mother's eyes?
+
+Have I seen all that I could?
+Have I seen more than I should
+with my mother's eyes?
+
+And my mother's eyes are with me
+in the chilly winds of autumn.
+If I ain't here by winter, she'll know why.
+
+I've seen all that I dare.
+I've seen more than my share.
+Forgive me if I stare with my mother's eyes.
+
+
 

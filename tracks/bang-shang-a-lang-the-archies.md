@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-shang-a-lang-the-archies
+lyrics_url: https://www.azlyrics.com/lyrics/archies/bangshangalang.html
 name: Bang-Shang-A-Lang
 rankings:
 - end_date: '1968-10-04'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
 ---
+
+I recall just walking down the street
+Trying to escape the city heat
+I saw her from the corner of my eye, eye, eye
+Yes she looked so good I thought I'd die
+My heart went bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+My heart went bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+
+Something said I shouldn't waste no time
+If I'm ever gonna make her mine
+I walked right up and say how do you do, do, do
+She said I bet I do as good as you
+My heart went bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+My heart went bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+
+I remember when I held her tight
+Felt like holding dynamite now
+What's that ringing in my ear
+Tell me ain't those bells I hear
+Bang, bang, shang a lang
+Bang, bang, shang a lang
+Bang, bang, bang
+Shang a lang lang
+Bang, bang, bang
+Shang a lang, lang
+
+Now she's gonna spend her life with me
+Then we'll be as happy as can be
+Because I love her more than I can tell, tell, tell
+Sunday afternoon we'll hear the bells
+And they'll go bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+And they'll go bang shang a lang, bang shang a lang
+Bang shang a lang, bang, bang
+
+
 

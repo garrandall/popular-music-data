@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: you-got-the-love-rufus-chaka-khan
+lyrics_url: https://www.azlyrics.com/lyrics/janineandthemixtape/aintnobody.html
 name: You Got The Love
 rankings:
 - end_date: '1974-10-18'
@@ -72,4 +73,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
 ---
+
+Captured effortlessly
+That's the way it was
+Happened so naturally
+I did not know it was love
+The next thing I felt was you
+Holding me close
+What was I gonna do?
+I let myself go
+And now we're flyin' through the stars
+I hope this night will last forever
+
+I've been waitin' for you
+It's been so long
+I knew just what I would do
+When I heard your song
+Filled my heart with your kiss
+You gave me freedom
+You knew I could not resist
+I needed someone
+And now we're flyin' through the stars
+I hope this night lasts forever
+
+Ain't nobody
+Loves me better
+Makes me happy
+Makes me feel this way
+Ain't nobody
+Loves me better than you
+
+I wait for night time to come
+And bring you to me
+Can't believe I'm the one
+I was so lonely
+I feel like no one could feel
+I must be dreamin'
+I want this dream to be real
+I need this feelin'
+I make my wish upon a star
+And hope this night will last forever
+
+Ain't nobody
+Loves me better
+Makes me happy
+Makes me feel this way
+Ain't nobody
+Loves me better
+Makes me happy
+Makes me feel this way
+
+And first you put your arms around me
+Then you put your charms around me
+I can't resist this sweet surrender
+Oh, my nights are warm and tender
+We stare into each other's eyes
+And what we see is no surprise
+Got a feeling most would treasure
+And a love so deep we cannot measure
+
+Ain't nobody
+Loves me better
+Makes me happy
+Makes me feel this way
+Ain't nobody
+Loves me better
+Makes me happy
+Makes me feel this way
+...
+
+
 

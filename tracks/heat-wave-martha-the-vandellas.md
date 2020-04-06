@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: heat-wave-martha-the-vandellas
+lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/loveislikeaheatwave.html
 name: Heat Wave
 rankings:
 - end_date: '1963-08-09'
@@ -64,4 +65,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
 ---
+
+Whenever I'm with him
+Something inside
+Starts to burning
+And I'm filled with desire
+Could it be a devil in me
+Or is this the way love's supposed to be?
+
+It's like a heat wave
+Burning in my heart (It's like a heat wave)
+I can't keep from crying (It's like a heat wave)
+It's tearing me apart
+
+Whenever he calls my name
+Soft, low, sweet, and plain
+Right then, right there, I feel that burning flame
+Has high blood pressure got a hold on me
+Or is this the way love's supposed to be?
+
+It's like a heat wave
+Burning in my heart (It's like a heat wave)
+I can't keep from crying (It's like a heat wave)
+It's tearing me apart
+
+Ooh, heat wave
+Ooh, heat wave
+
+Sometimes I stare in space
+Tears all over my face
+I can't explain it, don't understand it
+I ain't never felt like this before
+Now that funny feeling has me amazed
+Don't know what to do, my head's in a haze
+
+It's like a heat wave
+Burning in my heart (It's like a heat wave)
+I can't keep from crying (It's like a heat wave)
+It's tearing me apart
+
+Yeah, yeah, yeah, yeah
+(But it's all right, girl)
+(Go ahead, girl)
+Yeah, yeah
+(Well, it's all right, girl)
+(Can't miss it, that's love, girl)
+I feel it burning
+(Don't pass up this chance)
+Right here in my heart
+(It sounds like a true romance)
+Don't you know it's like a heat wave?
+...
+
+
 

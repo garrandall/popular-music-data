@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ocean-avenue-yellowcard
+lyrics_url: https://www.azlyrics.com/lyrics/yellowcard/oceanavenue.html
 name: Ocean Avenue
 rankings:
 - end_date: '2004-05-21'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
 ---
+
+There's a place off Ocean Avenue
+Where I used to sit and talk with you
+We were both 16 and it felt so right
+Sleeping all day, staying up all night
+Staying up all night
+
+There's a place on the corner of Cherry Street 
+We would walk on the beach in our bare feet
+We were both 18 and it felt so right
+Sleeping all day, staying up all night
+Staying up all night
+
+If I could find you now things would get better
+We could leave this town and run forever
+Let your waves crash down on me and take me away
+
+There's a piece of you that's here with me
+It's everywhere I go, it's everything I see
+When I sleep, I dream and it gets me by
+I can make believe that you're here tonight
+That you're here tonight
+
+If I could find you now things would get better
+We could leave this town and run forever
+I know somewhere, somehow we'll be together
+Let your waves crash down on me and take me away
+
+I remember the look in your eyes
+When I told you that this was goodbye
+You were begging me not tonight
+Not here, not now
+We're looking up at the same night sky
+And keep pretending the sun will not rise 
+Be together for one more night
+Somewhere, somehow
+
+If I could find you now things would get better
+We could leave this town and run forever
+I know somewhere, somehow we'll be together
+Let your waves crash down on me and take me away
+
+
 

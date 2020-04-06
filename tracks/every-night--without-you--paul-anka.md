@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-night--without-you--paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/everynightwithoutyou.html
 name: Every Night (Without You)
 rankings:
 - end_date: '1962-08-31'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
 ---
+
+Every night I keep prayin' that you love me 
+Every night I keep prayin' that you do-oo 
+'cause I know that my life would be worthless 
+Without you, (without you) without you (without you), without you 
+
+Every night I keep prayin' that you want me 
+Every night I keep prayin' that you do-oo 
+'cause I know that my heart would be broken 
+Without you, (without you) without you (without you), without you 
+
+I couldn't bear to know you'd leave me 
+No-no-no-no, no-no-no-no-no 
+'cause I know that it would grieve me 
+If you ever go-oh-oh-oh-oh-oh-oh-oh-oh 
+
+Every night I keep prayin' that you love me 
+Every night it's the question that you don't or do 
+So my love, let me know you really love, yes, you love me 
+Or I'll be (or I'll be) eternally (eternally) without you 
+
+Oh-oh-oh 
+Oh-oh-oh 
+Without you 
+FADE
+
+
 

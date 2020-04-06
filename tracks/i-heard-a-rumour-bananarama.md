@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-heard-a-rumour-bananarama
+lyrics_url: https://www.azlyrics.com/lyrics/bananarama/iheardarumour.html
 name: I Heard A Rumour
 rankings:
 - end_date: '1987-07-24'
@@ -83,4 +84,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+
+Who needs friends who never show
+I'll tell you what you want to know
+I could have saved a broken heart
+If I'd found out long ago
+
+I'm just thinking about
+Those lonely nights
+(I'm just thinking about when I waited)
+When I waited for your call
+'Til I found out
+All my friends were right
+('Til I found out, ooh, ooh)
+I didn't know you at all
+
+I heard a rumour
+Ooh, ooh, I heard a rumour
+They say you got a broken heart
+I heard it,
+I heard a rumour
+Ooh, ooh, I heard a rumour
+Yes I did, boy ooh, ooh, ooh
+
+Now it seems they're telling me
+You've changed your wicked ways
+But should I give you a second chance
+Baby, I'm too afraid
+
+So you realise what hurt you made
+(So you realise the love)
+And the love you threw away
+How can I forgive or soon forget
+(How can I forgive, ooh, ooh)
+It's never gonna be the same
+
+I heard a rumour
+Ooh, ooh, I heard a rumour
+They say you got a broken heart
+I heard it,
+I heard a rumour
+Ooh, ooh, I heard a rumour
+Yes I did, boy ooh, ooh, ooh
+
+
 

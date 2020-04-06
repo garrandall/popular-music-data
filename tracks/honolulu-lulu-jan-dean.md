@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: honolulu-lulu-jan-dean
+lyrics_url: https://www.azlyrics.com/lyrics/jandean/honolulululu.html
 name: Honolulu Lulu
 rankings:
 - end_date: '1963-09-13'
@@ -48,4 +49,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
 ---
+
+Queen of the surfer girls
+
+She's got stars in her eyes and knots on her knees now
+Her crazy grass shift really sways in the breeze now
+Ridin' down a heavy, or lying in the sand
+She's the hippest surfer girl in the land
+
+And she's my Honolulu Lulu
+She's my Honolulu Lulu
+Queen of the surfer girls
+
+Well, she handles all the big ones every year in Makaha
+And all the surfers know her from Rincon to Baja
+When the beach is quiet and you know we're out of luck
+We pray for surf while making out in our truck
+
+And she's my Honolulu Lulu
+She's my Honolulu Lulu
+Queen of the surfer girls
+
+Just me and Honolulu Lulu
+Me and Honolulu Lulu
+Queen of the surfer girls
+
+Yeah, she's my Honolulu Lulu
+Yeah, my Honolulu Lulu
+Queen of the surfer girls
+
+I tell you once upon a time, you know she got a little bold
+When she tried to hook a spinner but her wax wouldn't hold
+Over the falls 'stead of hangin' ten
+But then she'd paddle out and try it again
+
+But she's my Honolulu Lulu
+She's my Honolulu Lulu
+Queen of the surfer girls
+
+
 

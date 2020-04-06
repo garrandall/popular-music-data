@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holdin--on-to-yesterday-ambrosia
+lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/holdinontoyesterday.html
 name: Holdin' On To Yesterday
 rankings:
 - end_date: '1975-06-20'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
 ---
+
+Well I keep holdin' on to yesterday
+I keep holdin' on enough to say 
+That I'm wrong
+
+I keep thinkin' that I'm lonely 
+But it's only missing you inside 
+Days that we were once together 
+Seems they'll never come alive
+
+So I keep holdin' on to yesterday 
+I keep holdin' on enough to say 
+That it's wrong
+
+Lord I don't know when I'll see you 
+I can't reach you anymore 
+If I'd only known I'd need you 
+Then I'd keep you like before
+
+I keep holdin' on to yesterday 
+I keep holdin' on enough to say 
+That I'm wrong, wrong, wrong 
+To keep holdin' on 
+My yesterdays have all gone by
+
+
 

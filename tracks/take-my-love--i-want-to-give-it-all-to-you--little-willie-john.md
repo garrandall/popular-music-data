@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-my-love--i-want-to-give-it-all-to-you--little-willie-john
+lyrics_url: https://www.azlyrics.com/lyrics/buddyguy/yougivemefever.html
 name: Take My Love (I Want To Give It All To You)
 rankings:
 - end_date: '1961-09-24'
@@ -11,4 +12,116 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
 ---
+
+Ohh, ohhh, ohhh 
+Listen to me
+Listen to me
+Listen to me
+Never know how much I love you woman
+Never know how much I care
+When you put your arms around me
+I get a feeling that is hard to bare
+
+You give me a fever
+Sure you give me a fever
+Fever 
+In the morning child
+Fever all through the night
+
+Bless my soul I love ya
+Take this little heart of mine
+When you get me woman
+Like you got me
+I just have to drink my wine
+
+You give me a fever
+Sure you give me a fever
+Fever 
+In the morning child
+Fever all through the night
+
+Sun lights up my daytime
+Moon lights up the night
+My eyes light up
+When you call my name
+'Cause I know you're gonna treat me right
+
+You give me a fever
+Sure you give me a fever
+Fever 
+In the morning child
+And fever all through the night
+
+Rock my soul I love my baby
+I want you to take my heart away
+When you got me
+Lord you got me
+I don't know how to take it that way
+
+He you give me a fever
+I know now yeah
+Fever 
+In the morning child
+And fever all through the night
+
+Sun lights up my daytime
+Moon lights up my night
+My eyes light up
+When you call my name
+'Cause I know you're gonna treat me right
+
+You give me fever woman
+Say you give me fever
+Fever 
+In the morning child
+And fever all through the night
+
+Bless my soul and I love ya
+Take this little heart of mine
+When you got me
+Lord you got me
+The fever hits my head back twice
+
+Say you give me a fever
+I know you give me so much fever
+Fever 
+In the morning child
+And fever all through the night
+
+Oh, feeling all right
+Feeling all right
+I'm feeling so good tonight
+Tell me baby you love me
+Hope you don't tell me no lie
+When you got me
+The way you got me
+And I just don't want to blow my mind
+
+You give me fever
+Say you give me fever
+Fever 
+In the morning child
+And fever all through the night
+
+I love you
+I love you so much now
+Love you
+Love you whole bottom of my soul
+
+Tell me that you love me
+Then I feel all right
+I don't know
+The way I feel 
+If you just don't treat me right
+
+Don't you give me fever
+I say you give me fever
+Fever 
+In the morning child
+And fever aaaaalll 
+Oh no, oh no, oh no,
+Nonononono
+Hey
+
+
 

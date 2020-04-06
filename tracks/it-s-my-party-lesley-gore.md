@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-my-party-lesley-gore
+lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/itsmyparty.html
 name: It's My Party
 rankings:
 - end_date: '1963-05-17'
@@ -59,4 +60,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+
+It's my party and I'll cry if I want to
+Cry if I want to
+Cry if I want to
+You would cry too, if it happened to you
+
+Nobody knows where my Johnny has gone
+But Judy left the same time
+Why was he holding her hand
+When he's supposed to be mine?
+
+It's my party and I'll cry if I want to
+Cry if I want to
+Cry if I want to
+You would cry too, if it happened to you
+
+Play all my records, keep dancing all night
+But leave me alone for awhile
+Till Johnny's dancing with me
+I've got no reason to smile
+
+It's my party and I'll cry if I want to
+Cry if I want to
+Cry if I want to
+You would cry too, if it happened to you
+
+Judy and Johnny just walked through the door
+Like a queen with her king
+Oh, what a birthday surprise
+Judy's wearing his ring
+
+It's my party and I'll cry if I want to
+Cry if I want to
+Cry if I want to
+You would cry too, if it happened to you
+
+Oh, it's my party and I'll cry if I want to
+Cry if I want to
+Cry if I want to
+You would cry too, if it happened to you
+
+Oh, it's my party and I'll cry if I want to
+
+
 

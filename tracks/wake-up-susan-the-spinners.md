@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wake-up-susan-the-spinners
+lyrics_url: https://www.azlyrics.com/lyrics/spinners/wakeupsusan.html
 name: Wake Up Susan
 rankings:
 - end_date: '1976-07-23'
@@ -27,4 +28,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
+
+Lazy Susan, lazy Susan
+
+I can't stand to wait a minute longer
+There must be some way to let you know
+
+My love is ready
+My heart is beating fast
+I'm growing weaker
+And I don't know how long I can last
+
+I can't stand to hear this early morning
+(Lazy Susan, lazy Susan)
+Tossing pebbles at your window pane
+(Lazy Susan, lazy Susan)
+
+I'm trying to wake you
+Cause I'm so all alone
+I've got to see you
+And I won't believe that you're not home
+
+Wake up, Susan
+Don't you know what you're missing?
+I'm right here
+Wake up, Susan
+Don't you know what you're missing?
+I'm right here
+I'm right here
+I'm right here
+
+I can't wait to put my arms around you, baby
+Only if it's for a little while
+(Lazy Susan, lazy Susan)
+
+My body's aching
+I want you oh so bad
+Why can't you hear me?
+If you'd just wake up I'd be so glad
+
+Wake up, Susan
+Don't you know what you're missing?
+I'm right here
+Wake up, Susan
+Don't you know what you're missing?
+I'm right here
+
+
 

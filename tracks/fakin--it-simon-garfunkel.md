@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: fakin--it-simon-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/fakinit.html
 name: Fakin' It
 rankings:
 - end_date: '1967-08-04'
@@ -40,4 +41,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+
+When she goes, she's gone
+If she stays, she stays here
+The girl does what she wants to do,
+She knows what she wants to do
+And I know I'm fakin' it,
+I'm not really makin' it.
+
+I'm such a doubious soul
+And a walk in the garden
+Wears me down.
+Tangled in the fallen vines,
+Pickin' up the punch lines,
+I've just been fakin' it,
+Not really makin' it.
+
+Is there any danger?
+No, no not really,
+Just lean on me.
+Takin' time to treat,
+Your friendly neighbours honestly.
+I've just been fakin' it,
+I'm not really makin' it,
+This feeling of fakin' it.
+I still haven't shaken it.
+
+Prior to this lifetime
+I surely was a tailor
+(Good morning, Mr. Leitch.
+Have you had a busy day?)
+I own the tailor's face and hands
+I am the tailor's face and hands and
+I know I'm fakin'n it
+I'm not really makin' it
+This feeling of fakin' it
+I still haven't shaken it.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-in-store-fleetwood-mac
+lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/loveinstore.html
 name: Love In Store
 rankings:
 - end_date: '1982-12-03'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
 ---
+
+All I know is the way that I feel
+Whenever you're around
+You've got a way of lifting me up
+Instead of bringing me down
+(Instead of bringing me down)
+
+I can't fight it anymore
+Since you've been around
+We've got love in store
+
+You're the only one I ever felt
+Could be special to me
+You look at me and I just melt
+I'm scared of feeling that way
+(Scared of feeling that way)
+
+I can't fight it anymore
+Since you've been around
+We've got love in store
+
+Never take your love away
+Beggin' you, baby
+Never take your love away
+Oh darlin'
+Never take your love away
+
+Never take your love away
+Beggin' you, baby
+Never take your love away
+Oh darlin'
+Never take your love away
+Beggin' you, baby
+Never take your love away
+
+
 

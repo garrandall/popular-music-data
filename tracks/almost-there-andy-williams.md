@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-there-andy-williams
+lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/almostthere.html
 name: Almost There
 rankings:
 - end_date: '1964-11-20'
@@ -27,4 +28,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
 ---
+
+Almost there, we're almost there
+How wonderful, wonderful our love will be
+For you, for me
+
+We're almost there where we will share
+A warm caress, tenderness, a dream come true
+For me, for you
+
+Love has waited such a long time
+Now we're a kiss apart
+Darling, this is the right time
+To let the kisses start
+
+For you're almost mine and soon we'll find
+Our paradise, paradise so rare
+Close your eyes for we're almost there
+
+You're almost mine and soon we'll find
+Our paradise, paradise so rare
+Close your eyes, close your eyes
+Close your eyes for we're almost there
+Almo-o-ost there
+A-a-almost there
+
+
 

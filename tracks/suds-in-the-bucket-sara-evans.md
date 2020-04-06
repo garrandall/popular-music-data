@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suds-in-the-bucket-sara-evans
+lyrics_url: https://www.azlyrics.com/lyrics/saraevans/sudsinthebucket.html
 name: Suds In The Bucket
 rankings:
 - end_date: '2004-08-13'
@@ -87,4 +88,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-18'
 ---
+
+She was in the backyard
+Say it was a little past nine
+When her prince pulled up
+A white pick-up truck
+
+Her folks should've seen it comin'
+It was only just a matter of time
+Plenty old enough
+And you can't stop love
+
+She stuck a note on the screen door
+"Sorry but I got to go"
+That was all she wrote
+Her mama's heart was broke
+That was all she wrote
+So the story goes
+
+Now her daddy's in the kitchen
+Starin' out the window
+Scratchin' and a rackin' his brains
+How could 18-years just up and walk away
+
+Our little pony-tailed girl
+Grown up to be a woman
+Now she's gone in the blink of an eye
+She left the suds in the bucket
+And the clothes hangin' out on the line
+
+Now don't you wonder
+What the preacher's gonna preach about Sunday morn
+Nothin' quite like this
+Has happened here before
+
+Well he must have been a looker
+Smooth talkin' son of a gun
+For such a grounded girl
+To just up and run
+Course you can't fence time
+And you can't stop love
+
+Now all the biddies in the beauty shop
+Gossip goin' non-stop
+Sippin' on pink lemonade
+How could 18-years just up and walk away
+
+Our little pony-tailed girl grown up to be a woman
+Now she's gone in the blink of an eye
+She left the suds in the bucket
+And the clothes hangin' out on the line
+
+She's got her pretty little bare feet hangin' out the window
+And they're headin' up to Vegas tonight
+How could 18-years just up and walk away
+
+Our little pony-tailed girl grown up to be a woman
+Now she's gone in the blink of an eye
+She left the suds in the bucket
+And the clothes hangin' out on the line
+
+She left the suds in the bucket
+And the clothes hangin' out on the line
+
+She was in the backyard
+Say it was a little past nine
+When her prince pulled up
+A white pick-up truck
+Plenty old enough,
+And you can't stop love,
+And no you can't fence time
+And you can't stop love.
+
+
 

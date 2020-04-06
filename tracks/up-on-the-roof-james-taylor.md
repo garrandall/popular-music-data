@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: up-on-the-roof-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/upontheroof145680.html
 name: Up On The Roof
 rankings:
 - end_date: '1979-06-08'
@@ -51,4 +52,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
 ---
+
+When this old world starts a getting me down,
+and people are just too much for me to face.
+I'll climb way up to the top of the stairs and all my cares just drift right into space.
+On the roof, it's peaceful as can be and there the world below don't bother me, no, no.
+
+So when I come home feeling tired and beat, I'll go up where the air is fresh and sweet.
+I'll get far away from the hustling crowd and all the rat-race noise down in the street.
+On the roof, that's the only place I know, look at the city, baby.
+Where you just have to wish to make it so, let's go up on the roof.
+
+And at night the stars, they put on a show for free.
+And, darling, you can share it all with me, that's what I said, keep on telling you
+That right smack dab in the middle of town , I found a paradise that's trouble-proof.
+And if this old world starts a getting you down, there's room enough for two
+up on the roof, up on the roof, up on the roof.
+Everything is all right, every thing is all right.
+You got the stars above and the city lights below, let's go up on the roof.
+
+
 

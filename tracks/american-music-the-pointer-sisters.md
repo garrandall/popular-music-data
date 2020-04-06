@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-music-the-pointer-sisters
+lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/americanmusic.html
 name: American Music
 rankings:
 - end_date: '1982-07-02'
@@ -63,4 +64,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
 ---
+
+Well, the rock still rolls
+The beat goes on after all of this time
+The faces change but the song's the same
+So roll over Mister Dylan for the next in line
+
+They want American music for drivin' with the radio
+She said, I know that I would be alright
+If I could just make somebody my baby tonight
+
+American music for dancin' with the stereo
+Oh do what you like feel what you feel
+The music is right
+Well, it almost feels real American
+
+From the purple peaks to the city streets
+People searching for the rock and roll scene
+The power of the pounding beat
+The magic in the dream
+
+They want American music for travelin' with the radio
+She said, I know that I would be alright
+If I could just make somebody my baby tonight
+
+American music for dancin' with the stereo
+Oh do what you like feel what you feel
+The music is right
+Well, it almost feels real American
+
+Just when you think that you've heard enough
+Well, somebody say turn it up
+Turn it up, turn it up
+
+
 

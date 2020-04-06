@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: only-wanna-be-with-you-hootie-the-blowfish
+lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/onlywannabewithyou.html
 name: Only Wanna Be With You
 rankings:
 - end_date: '1995-08-11'
@@ -136,4 +137,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
 ---
+
+You and me
+We come from different worlds
+You like to laugh at me
+When I look at other girls
+Sometimes you're crazy
+And you wonder why
+I'm such a baby
+'Cause the Dolphins make me cry
+
+Well, there's nothing I can do
+I've been looking for a girl like you
+
+You look at me, you got nothing left to say
+I'm gonna pout at you until I get my way
+I won't dance, you won't sing
+I just wanna love you, but you wanna wear my ring
+
+Well, there's nothing I can do
+I only wanna be with you
+You can call me your fool
+I only wanna be with you
+
+Put on a little Dylan
+Sitting on a fence
+I say, "That line is great."
+You ask me what it meant by
+"Said I shot a man named Gray
+Took his wife to Italy
+She inherited a million bucks
+And when she died it came to me
+I can't help it if I'm lucky"
+I only wanna be with you
+Ain't Bobby so cool?
+I only wanna be with you
+
+Yeah, I'm tangled up in blue
+I only wanna be with you
+You can call me your fool
+Only wanna be with you
+
+Sometimes I wonder if it will ever end
+You get so mad at me when I go out with my friends
+Sometimes you're crazy
+And you wonder why
+I'm such a baby, yeah
+The Dolphins make me cry
+
+Well, there's nothing I can do
+Only wanna be with you
+You can call me your fool
+I only wanna be with you
+
+Yeah, I'm tangled up in blue
+I only wanna be with you
+I only wanna be with you
+I only wanna be with you
+I only wanna be with you
+
+
 

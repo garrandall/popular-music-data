@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jingo-santana
+lyrics_url: https://www.azlyrics.com/lyrics/santana/jingo.html
 name: Jingo
 rankings:
 - end_date: '1969-10-31'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
 ---
+
+Jingo
+Jingo
+Jingo
+Jingo Ba
+Lo
+Ba, Ba, Lo
+Ba, Ba, Lo
+Ba, Ba, Lo
+Ba, Lo
+Ba, Ba, Lo
+Ba, Ba, Lo
+Ba, Ba, Lo
+Ba
+Jingo
+
+
 

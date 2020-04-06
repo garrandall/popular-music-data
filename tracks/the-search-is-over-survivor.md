@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-search-is-over-survivor
+lyrics_url: https://www.azlyrics.com/lyrics/survivor/thesearchisover.html
 name: The Search Is Over
 rankings:
 - end_date: '1985-04-26'
@@ -91,4 +92,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
 ---
+
+How can I convince you
+What you see is real
+Who am I to blame you
+For doubting what you feel
+
+I was always reachin'
+You were just a girl I knew
+I took for granted
+The friend I had in you
+
+I was living for a dream
+Loving for a moment
+Taking on the world
+That was just my style
+Now I look into your eyes
+I can see forever
+The search is over
+You were with me all the while
+
+Can we last forever
+Will we fall apart
+At times it's so confusing
+The questions of the heart
+
+You followed me through changes
+And patiently you'd wait
+'Till I came to my senses through
+Some miracle of fate
+
+I was living for a dream
+Loving for a moment
+Taking on the world
+That was just my style
+Now I look into your eyes
+I can see forever
+The search is over
+You were with me all the while
+
+Now the miles stretch out behind me
+Loves that I have lost
+Broken hearts lie, victims of the game
+Then good luck, it finally struck
+Like lighting from the blue
+Every highway's leading me back to you
+
+Now at last I hold you
+Now all is said and done
+The search has come full circle
+Our destinies are one
+
+So if you ever loved me
+Show me that you give a damn
+You'll know for certain
+The man I really am
+
+I was living for a dream
+Loving for a moment
+Taking on the world
+That was just my style
+Then I touched your hand
+I could hear you whisper
+The search is over
+Love was right before my eyes
+
+
 

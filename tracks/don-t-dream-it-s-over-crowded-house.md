@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-dream-it-s-over-crowded-house
+lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/dontdreamitsover.html
 name: Don't Dream It's Over
 rankings:
 - end_date: '1987-01-23'
@@ -103,4 +104,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
 ---
+
+There is freedom within, there is freedom without
+Try to catch the deluge in a paper cup
+Theres a battle ahead, many battles are lost
+But you'll never see the end of the road
+While you're travelling with me
+
+Hey now, hey now
+Don't dream its over
+Hey now, hey now
+When the world comes in
+They come, they come
+To build a wall between us
+We know they wont win
+
+Now I'm towing my car, theres a hole in the roof
+My possessions are causing me suspicion but theres no proof
+In the paper today tales of war and of waste
+But you turn right over to the t.v. page
+
+Hey now, hey now
+Don't dream its over
+Hey now, hey now
+When the world comes in
+They come, they come
+To build a wall between us
+We know they wont win
+
+Now I'm walking again to the beat of a drum
+And I'm counting the steps to the door of your heart
+Only shadows ahead barely clearing the roof
+Get to know the feeling of liberation and relief
+
+Hey now, hey now
+Don't dream its over
+Hey now, hey now
+When the world comes in
+They come, they come
+To build a wall between us
+Dont ever let them win
+
+
 

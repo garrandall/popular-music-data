@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-your-life-the-band-perry
+lyrics_url: https://www.azlyrics.com/lyrics/bandperry/allyourlife.html
 name: All Your Life
 rankings:
 - end_date: '2011-09-30'
@@ -99,4 +100,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
 ---
+
+Would you walk to the edge of the ocean
+Just to fill my jar with sand?
+Just in case I get the notion
+To let it run through my hand
+Let it run through my hand
+
+Well, I don't want the whole world
+The sun, the moon, and all their light
+I just want to be the only girl
+You love all your life
+You love all your life
+
+Would you catch a couple thousand fireflies
+Yeah, and put them in a lamp to light my world?
+All dressed up in a tux and bow tie
+Hand delivered to a lonely girl
+To a lonely lonely girl
+
+Well, I don't want the whole world
+The sun, the moon, and all their light
+I just want to be the only girl
+You love all your life
+You love all your life
+
+Lately I've been writing desperate love songs
+I mostly sing them to the wall.
+You could be the center piece of my obsession
+If you would notice me at all, yeah
+
+Well, I don't want the whole world, no
+The sun, the moon, and all their light
+I just want to be the only girl
+You love all your life
+You love all your life
+
+You love all your life
+Life
+Yeah
+
+
 

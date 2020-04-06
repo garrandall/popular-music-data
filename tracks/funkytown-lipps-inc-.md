@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: funkytown-lipps-inc-
+lyrics_url: https://www.azlyrics.com/lyrics/lippsinc/funkytown.html
 name: Funkytown
 rankings:
 - end_date: '1980-04-04'
@@ -100,4 +101,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+
+Gotta make a move to a town that's right for me
+Town to keep me movin', keep me groovin' with some energy
+
+Well, I talk about it, talk about it
+Talk about it, talk about it
+Talk about, talk about
+Talk about movin'
+
+Gotta move on
+Gotta move on
+Gotta move on
+
+A-won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+
+Gotta make a move to a town that's right for me
+Town to keep me movin', keep me groovin' with some energy
+
+Well, I talk about it, talk about it
+Talk about it, talk about it
+Talk about, talk about
+Talk about movin'
+
+Gotta move on
+Gotta move on
+Gotta move on
+
+A-won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+Won't you take me to Funkytown?
+
+Won't you take me down to Funkytown?
+Won't you take me down to Funkytown?
+Won't you take me down to Funkytown?
+Won't you take me down to Funkytown?
+
+(Won't you take me to) Funkytown?
+(Won't you take me to) Funkytown?
+(Won't you take me to) Funkytown?
+(Won't you take me to) Funkytown?
+
+Take me, won't you take me?
+Take me, won't you take me?
+Take me, won't you take me?
+Take me, won't you take me?
+
+I wanna go to Funkytown
+I wanna go to Funkytown
+I wanna go to Funkytown
+I wanna go to Funkytown
+
+
 

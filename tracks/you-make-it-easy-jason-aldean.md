@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-it-easy-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/youmakeiteasy.html
 name: You Make It Easy
 rankings:
 - end_date: '2018-02-16'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
 ---
+
+Like a rainy Sunday morning makes me want to stay in bed
+Twisted up all day long
+You're my inspiration, girl you take me places
+Put the words right into these songs
+
+Stealing kisses under cover, babe
+See forever when I see your face
+And I swear God made you for me
+
+You make it easy
+Lovin' up on you
+Make it easy
+With every little thing you do
+You're my sunshine in the darkest days
+My better half, my saving grace
+You make me who I wanna be
+You make it easy
+
+You took all my rough around the edges
+Never let it ruffle up your feathers, angel
+Yeah I'm down for life, you got me wrapped around your finger
+And I like it just in case you can't tell
+
+You make it easy
+Lovin' up on you
+Make it easy
+With every little thing you do
+You're my sunshine in the darkest days
+My better half, my saving grace
+You make me who I wanna be
+You make it easy
+
+Stealing kisses under cover, babe
+See forever when I see your face
+And I swear God made you for me
+
+You make it easy
+Lovin' up on you
+Make it easy
+With every little thing you do
+You're my sunshine in the darkest days
+My better half, my saving grace
+You make me who I wanna be
+You make it easy
+You make it easy
+
+
 

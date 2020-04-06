@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-away-the-chi-lites
+lyrics_url: https://www.azlyrics.com/lyrics/chilites/giveitaway.html
 name: Give It Away
 rankings:
 - end_date: '1969-03-07'
@@ -31,4 +32,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
 ---
+
+Ooh, hoo, give it away
+Ooh, hoo, give it away
+
+What's the sense in giving you love
+When you're gonna give it away
+Oh, yeah (give it away)
+
+And what's sense
+In giving you kisses
+When you're gonna give 'em away
+Oh, yeah (give it away)
+
+You say you have
+Nothing to live for
+Baby, baby, I'm here
+Knocking at your door
+
+(Give it away) it's all right
+(Give it away)
+You can do what you wanna
+
+(Give it away, it's all right)
+'Cause I know you're gonna
+(Give it away, give it away)
+
+What's the sense
+In having my love
+When I'm gonna give it to you
+(Give it away)
+
+Give it straight to you, baby
+(Give it away)
+And I don't mean maybe
+
+What's sense denying I love you
+When you're mad and
+I'm proud of you now
+(Give it away) oh, yeah
+(Give it away)
+
+Baby, love was made for two
+I know, I know, I know
+It's meant for me and you
+
+(Give it away) it's all right
+(Give it away)
+You can do what you wanna
+
+(Give it away, it's all right)
+'Cause I know you're gonna
+(Give it away, give it away)
+
+I love you
+No matter what you do
+Baby, baby, baby, baby
+
+Ah...
+It's all right
+It's all right
+
+Baby, love was made for two
+I know, I know, I know
+It's meant for me and you
+
+Oh, what's the sense in having my love
+When I'm gonna give it to you
+And what's sense in giving you kisses
+When it's you I'm gonna be missing
+
+And what's sense in giving you honey
+When you're taking away my money
+Oh, baby, baby, baby, baby, baby
+Oh, baby, yeah, yeah
+
+What's the sense in giving you love
+What's the sense in giving you money
+
+
 

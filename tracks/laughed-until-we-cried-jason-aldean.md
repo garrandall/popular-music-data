@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: laughed-until-we-cried-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/laugheduntilwecried.html
 name: Laughed Until We Cried
 rankings:
 - end_date: '2008-02-08'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
 ---
+
+Going through my closet the other day
+Found an old yearbook, flipped right to the page
+Of that senior trip down there on that Panama strip
+We all started yelling when we smelled the beach
+Just couldn't wait to try our fake ids
+We only had a few days, and a whole lot of memories to make
+Oh man we were livin, didn't waste one minute
+We talked and drank and danced and said goodbye
+We laughed until we cried
+
+This past year my family
+Was sittin cross-legged 'round the Christmas tree
+Listenin to granddad, we all knew it would probably be his last
+He was crackin jokes and we were takin turns 
+Tellin stories bout fishing or lessons learned
+Out on the porch with him we all felt like kids again
+
+Oh man we were livin, sittin' there reminiscin'
+Yeah, we sang and talked and traveled back in time
+We laughed until we cried
+
+It's like the best days under the sun
+Every emotion rolled into one
+A little of this, A little of that
+Kinda happy, Kinda sad
+
+Just the other night the baby was cryin
+So I got out of bed rocked her awhile and I held her tight
+And I told her it would be all right
+My mind went back to a few years ago
+We tried so long, we almost gave up hope
+And I remember you comin' in and tellin me the news
+Oh man we were livin, goin crazy in the kitchen
+We danced and screamed and held each other tight
+We laughed until we cried 
+(although, the cd cover says Oh man were livin I'll never forget it,
+We danced and kissed and thanked the Lord that night)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 19-you---me-dan---shay
+lyrics_url: https://www.azlyrics.com/lyrics/danshay/19youme.html
 name: 19 You + Me
 rankings:
 - end_date: '2014-01-24'
@@ -79,4 +80,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
 ---
+
+It was our first week
+At Myrtle Beach
+Where it all began
+
+It was 102Â°
+Nothin' to do
+Man it was hot
+So we jumped in
+
+We were summertime sippin', sippin'
+Sweet tea kissin' off of your lips
+T-shirt drippin', drippin' wet
+How could I forget?
+
+Watchin' that blonde hair swing
+To every song I'd sing
+You were California beautiful
+I was playin' everything but cool
+I can still hear that sound
+Of every wave crashin' down
+Like the tears we cried
+That day we had to leave
+It was everything we wanted it to be
+The summer of
+19 you and me
+
+We had our first dance in the sand
+It was one hell of a souvenir
+Tangled up, so in love
+So, let's just stay right here
+
+'Til the sun starts creepin', creepin' up
+Right then I knew
+Just what you were thinkin', thinkin' of
+When I looked at you
+
+Watchin' that blonde hair swing
+To every song I'd sing
+You were California beautiful
+I was playin' everything but cool
+I can still hear that sound
+Of every wave crashin' down
+Like the tears we cried
+That day we had to leave
+It was everything we wanted it to be
+The summer of
+19 you and me
+...you and me
+
+Watchin' that blonde hair swing
+To every song I'd sing
+You were California beautiful
+Beautiful, beautiful
+
+Watchin' that blonde hair swing
+To every song I'd sing
+You were California beautiful
+I was playin' everything but cool
+I can still hear that sound
+Of every wave crashin' down
+Like the tears we cried
+That day we had to leave
+It was everything we wanted it to be
+The summer of
+19 you and me
+
+First week
+Myrtle Beach
+Where it all began..
+
+
 

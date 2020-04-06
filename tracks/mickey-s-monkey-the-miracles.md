@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mickey-s-monkey-the-miracles
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/mickeysmonkey.html
 name: Mickey's Monkey
 rankings:
 - end_date: '1963-08-23'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
 ---
+
+Alright, is everybody ready
+Alright now, here we go
+A one, a two, a one, two, three, four
+
+Lum de Lum de lai (Lum de Lum de lai)
+Lum de Lum de lai (Lum de Lum de lai)
+
+This cat named mickey came from out of town
+He been spreading this new dance all around
+And in just a matter of a few days
+This dance became the new teenage craze
+
+The people see him dancing they begin to see
+See this cat do that monkey thing
+It's really something to see
+This cat named Mickey's doing that monkey
+
+C'mon let's do the Mickey's monkey, children
+Let's do the Mickey's monkey
+Let's do the Mickey's monkey, children
+Let's do the Mickey's monkey, children
+
+Lum de Lum de lai (Lum de Lum de lai)
+Lum de Lum de lai (Lum de Lum de lai)
+
+Lum de Lum de lai (Lum de Lum de lai)
+Lum de Lum de lai (Lum de Lum de lai)
+
+Monkey see, monkey do
+C'mon you can do the monkey too
+C'mon doing Mickey's monkey, children
+Doing Mickey's monkey, children
+
+Lum de Lum de lai (Lum de Lum de lai)
+Lum de Lum de lai (Lum de Lum de lai)
+
+Do the monkey (do the monkey)
+Mickey's monkey (Mickey's monkey)
+Do the monkey (do the monkey)
+Mickey's monkey (Mickey's monkey)
+Mickey's monkey (Mickey's monkey)
+One more time
+Lum de Lum de lai
+
+
 

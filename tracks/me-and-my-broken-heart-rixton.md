@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-and-my-broken-heart-rixton
+lyrics_url: https://www.azlyrics.com/lyrics/rixton/meandmybrokenheart.html
 name: Me And My Broken Heart
 rankings:
 - end_date: '2014-04-18'
@@ -87,4 +88,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
 ---
+
+All I need's a little love in my life
+All I need's a little love in the dark
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+I need a little loving tonight
+Hold me so I'm not falling apart
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+Shotgun,
+Aimed at my heart,
+You got one
+Tear me apart
+And then some
+How do we call this love (whoa, oh oh oh)
+
+I try
+To run away but your eyes
+Tell me to stay, oh why,
+Why do we call this love (whoa, oh oh oh)
+
+It seems like we've been losing control
+Somebody, tell me I'm not alone
+When I say
+
+All I need's a little love in my life
+All I need's a little love in the dark
+A little but I'm hoping it might kick-start
+Me and my broken heart
+I need a little loving tonight
+Hold me so I'm not falling apart
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+Maybe
+Some part of you just hates me
+You pick me up and play me
+How do we call this love? (whoa, oh oh oh)
+
+One time
+Tell me you need me tonight
+To make it easy, you lie
+And say it's all for love (whoa, oh oh oh)
+
+It seems like we've been losing control
+Somebody, tell me I'm not alone
+When I say
+
+All I need's a little love in my life
+All I need's a little love in the dark
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+I need a little loving tonight
+Hold me so I'm not falling apart
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+Whoa, oh, whoa, oh
+Me and my broken heart
+Whoa, oh, whoa, oh
+Me and my broken
+
+Yeah, yeah, yeah
+Me and my broken, broken heart
+Yeah, yeah, yeah
+How do we call this?
+
+It's just me
+It's just me
+It's just me
+Me and my broken heart
+
+All I need's a little love in my life
+All I need's a little love in the dark
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+I need a little loving tonight
+Hold me so I'm not falling apart
+A little but I'm hoping it might kick-start
+Me and my broken heart
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-tonight-pablo-cruise
+lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/iwantyoutonight.html
 name: I Want You Tonight
 rankings:
 - end_date: '1979-10-19'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
 ---
+
+Yesterday I swore
+I was gonna switch you
+But today I'm back for more, ooh
+I can't resist you
+Starvin' just to feed the feel
+But lust just to make a deal
+Will power disappears
+You become the music in my ears
+
+I want you tonight
+I feel like getting crazy
+Oh, I know it's not right
+But who is gonna save me?
+
+Now and then I stop
+And wonder what I'm doin'
+And sometimes when I talk
+I don't know who I'm foolin'
+As the demon livin' deep inside
+It's really me all right
+Temptations doin' it to me
+Got me in the mood I can't get free, no
+
+I want you tonight man I'm thinkin' maybe
+Oh, I know it ain't right but who is gonna save me?
+
+Is there no way of fighting this feeling inside
+Where ecstasy lives but sanity dies?
+We all need more of each other
+
+I want you tonight
+I feel like getting crazy, yeah
+Oh, I know it's not right
+But who is gonna save me? oh-ooh!
+I want you tonight man I'm thinkin' maybe
+Oh, I know it ain't right but who is gonna save me?
+
+Oh!
+I want you tonight
+I want you tonight
+I want you tonight
+I want you, I want you tonight
+
+I want you tonight
+I feel like gettin' crazy
+Oh-oh I know it's not right
+But who is gonna save me?
+I want you, I want you tonight
+Won'tcha baby, won'tcha baby
+
+
 

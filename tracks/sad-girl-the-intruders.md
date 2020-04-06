@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad-girl-the-intruders
+lyrics_url: https://www.azlyrics.com/lyrics/intruders/sadgirl.html
 name: Sad Girl
 rankings:
 - end_date: '1969-09-05'
@@ -43,4 +44,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+
+Sad girl, you look so sad
+Did he break your heart?
+Gee, that's too bad
+I guess now you see, oh
+How love could be
+
+Sad girl, forget that guy
+Come on, let's smile now
+Please won't you try?
+Get a hold of yourself
+Come on and find you someone else
+
+Open up your, open up your heart, girl
+Open up, we can make a brand new start
+Open up, please don't cry
+Just go out and find yourself another guy
+
+Sad girl
+Hold your head up high
+Things are gonna change, I know
+As time goes by
+
+Because that's the way it goes
+Everybody knows
+Somebody's somebody's fool
+(Sad girl)
+And you're no exception to the rule
+(Sad girl)
+
+Your day's gonna come, my love
+(Sad girl)
+All you gotta do is keep on smiling
+(Sad girl)
+
+
 

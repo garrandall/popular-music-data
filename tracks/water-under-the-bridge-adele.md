@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: water-under-the-bridge-adele
+lyrics_url: https://www.azlyrics.com/lyrics/adele/waterunderthebridge.html
 name: Water Under The Bridge
 rankings:
 - end_date: '2015-12-18'
@@ -95,4 +96,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
 ---
+
+If you're not the one for me
+Then how come I can bring you to your knees?
+If you're not the one for me
+Why do I hate the idea of being free?
+And if I'm not the one for you
+You've gotta stop holding me the way you do
+Oh, honey, if I'm not the one for you
+Why have we been through what we have been through?
+
+It's so cold out here in your wilderness
+I want you to be my keeper
+But not if you are so reckless
+
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+Say that our love ain't water under the bridge
+
+What are you waiting for?
+You never seem to make it through the door
+And who are you hiding from?
+It ain't no life to live like you're on the run
+Have I ever asked for much?
+The only thing that I want is your love
+
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+Say that our love ain't water under the bridge
+
+It's so cold out here in your wilderness
+I want you to be my keeper
+But not if you are so reckless
+
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+If you're gonna let me down, let me down gently
+Don't pretend that you don't want me
+Our love ain't water under the bridge
+
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say that our love ain't water under the bridge
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say it ain't so, say it ain't so
+Say that our love ain't water under the bridge
+Say that our love ain't water under the bridge
+
+
 

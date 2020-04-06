@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-partners-stephen-stills
+lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/changepartners.html
 name: Change Partners
 rankings:
 - end_date: '1971-06-18'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
 ---
+
+All of the ladies attending the ball
+Are requested to gaze in the faces
+Found on the dance cards
+
+Please then remember
+And don't get too close to one special one
+He will take your defenses and run
+
+So we change partners
+Time to change partners
+You must change partners
+Again
+
+This is how most of our ladies grew up
+At the country club dances
+They learned how to handle the boys
+
+Gently but firmly they learned to say no
+There were four more young men
+Who were waiting in the color and the noise
+
+So we change partners
+Time to change partners
+You must change partners
+Again
+
+All of the ladies attending the ball
+Are requested to gaze in the faces
+Found on the dance cards
+
+Please then remember and follow your list
+'Cause the dear things get hurt
+And the broken hearts make you feel hard
+
+So we change partners
+Time to change partners
+You must change partners
+Again
+
+
 

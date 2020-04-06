@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-melt-with-you-modern-english
+lyrics_url: https://www.azlyrics.com/lyrics/sugarcult/imeltwithyou.html
 name: I Melt With You
 rankings:
 - end_date: '1983-04-08'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
 ---
+
+Moving forward using all my breath
+Making love to you was never second best
+I saw the world thrashing all around your face
+Never really knowing it was always mesh and lace
+
+I'll stop the world and melt with you
+You've seen the difference and it's getting better all the time
+There's nothing you and I won't do
+I'll stop the world and melt with you
+
+(You should know better)
+Dream of better lives the kind which never hate
+Dropped in the state of imaginary grace
+(You should know better)
+I made a pilgrimage to save this human race
+Never comprehending a race that long gone by
+
+I'll stop the world and melt with you
+(I'll stop the world)
+You've seen the difference and it's getting better all the time
+There's nothing you and I won't do
+(Let's stop the world)
+I'll stop the world and melt with you
+
+The future's open wide
+
+(Let's stop the world)
+I'll stop the world and melt with you
+(I'll stop the world)
+I've seen some changes but it's getting better all the time
+There's nothing you and I won't do
+(Let's stop the world)
+I'll stop the world and melt with you
+
+The future's open wide
+
+I'll stop the world and melt with you
+(Let's stop the world)
+You've seen the difference and it's getting better all the time
+There's nothing you and I won't do
+(Let's stop the world)
+I'll stop the world and melt with you
+
+I'll stop the world
+I'll stop the world
+I'll stop the world
+I'll stop the world
+
+
 

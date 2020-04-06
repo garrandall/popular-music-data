@@ -5,6 +5,7 @@ features:
 - Bebe Rexha
 genres: []
 key: take-me-home-cash-cash-bebe-rexha
+lyrics_url: https://www.azlyrics.com/lyrics/cashcash/takemehome.html
 name: Take Me Home
 rankings:
 - end_date: '2014-02-07'
@@ -60,4 +61,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
 ---
+
+I'm falling to pieces
+But I need this
+Yeah, I need this
+You're my fault
+My weakness
+When did you turn so cold
+
+You cut me down to the bone
+Now you're dancing
+All over my soul
+I'm falling to pieces
+To pieces, to pieces
+
+But I still stay cause you're the only thing I know
+So won't you take, oh, won't you take me home
+Take me home, home, home
+Take me home, home, home
+Take me
+
+Take me
+Take me
+Take me
+Take me home (home, home, home)
+
+Round in circles
+Here we go
+With the highest highs
+And the lowest lows
+But no one shakes me like you do
+My best mistake was you
+You're my sweet affliction
+Cause you hurt me right
+But you do it nice
+Round in circles
+Here we go
+Oh Yeah
+
+But I still stay cause you're the only thing I know
+So won't you take, oh, won't you take me home
+Take me home, home, home
+Take me home, home, home
+Take me
+
+Take me
+Take me
+Take me
+Take me home, home, home
+Take me home, home, home
+Take me
+
+Take me, I still stay, oh, won't you take me home
+Take me home.
+
+
 

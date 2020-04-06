@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-ever-have-forever-in-mind-vince-gill
+lyrics_url: https://www.azlyrics.com/lyrics/vincegill/ifyoueverhaveforeverinmind.html
 name: If You Ever Have Forever In Mind
 rankings:
 - end_date: '1998-07-10'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
 ---
+
+You're climbing mountains, I'm on a hill
+You're always running I'm standing still
+You live for the moment, no future no past
+I may be a fool to love by the rules and want it to last
+
+
+If you ever have forever in mind
+I'll be here and easy to find
+If your heart isn't ready to lay down with mine
+If you ever have forever in mind
+
+The music has ended still you want to dance
+I know that feeling, I can't take that chance
+You live for the moment no future no past
+I may be a fool to love by the rules, I want it to last
+
+
+
+
 

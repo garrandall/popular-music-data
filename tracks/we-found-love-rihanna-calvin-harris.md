@@ -5,6 +5,7 @@ features:
 - Calvin Harris
 genres: []
 key: we-found-love-rihanna-calvin-harris
+lyrics_url: https://www.azlyrics.com/lyrics/rihanna/wefoundlove.html
 name: We Found Love
 rankings:
 - end_date: '2011-10-14'
@@ -172,4 +173,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
 ---
+
+Yellow diamonds in the light
+And we're standing side by side
+As your shadow crosses mine
+What it takes to come alive
+
+It's the way I'm feeling I just can't deny
+But I've gotta let it go
+
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+
+Shine a light through an open door
+Love and life I will divide
+Turn away 'cause I need you more
+Feel the heartbeat in my mind
+
+It's the way I'm feeling I just can't deny
+But I've gotta let it go
+
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+
+Yellow diamonds in the light
+And we're standing side by side
+As your shadow crosses mine (mine, mine, mine)
+
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+We found love in a hopeless place
+
+
 

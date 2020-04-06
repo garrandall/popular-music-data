@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-your-heart-triumph
+lyrics_url: https://www.azlyrics.com/lyrics/triumph/followyourheart.html
 name: Follow Your Heart
 rankings:
 - end_date: '1985-03-15'
@@ -15,4 +16,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
+
+People say
+Don't ever look behind
+Happiness is just a state of mind
+Rock and Roll lives and breathes in the hearts of the young
+So carry on
+You're runnin' on borrowed time
+Tryin' hard to survive
+Keep on runnin'
+Your time in comin'
+Keep your dreams alive
+
+
+Follow Your Heart (You got to Follow Your Heart)
+Living for the day, forget about tomorrow
+Follow Your Heart (You got to Follow Your Heart)
+Any other way can only lead to sorrow
+Don't wait any longer
+Follow Your Heart
+
+Plays for keeps
+And try to never lose
+Live it fast but live the life you choose
+Rock and Roll lives and breathes in the hearts of the young
+So let it ride
+Each time you roll the dice
+Luck will finally arrive
+Keep on runnin'
+Your time is comin'
+Keep your dreams alive
+
+
+
+Oh, listen to the rhythm
+Your heart won't lie
+Rock and Roll hearts
+Just never die, never die
+
+
+
+
 

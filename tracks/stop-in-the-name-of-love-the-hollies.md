@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-in-the-name-of-love-the-hollies
+lyrics_url: https://www.azlyrics.com/lyrics/hollies/stopinthenameoflove.html
 name: Stop In The Name Of Love
 rankings:
 - end_date: '1983-06-10'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
 ---
+
+Oh baby I'm aware
+Of where you go
+Each time you leave my door
+Watching you walking down the street
+Knowing there's another guy you meet
+This time before you run to him
+Leaving me alone again
+
+Think it over
+Haven't I been good to you babe
+Think it over
+
+
+Stop in the name of love
+Before you break my heart
+Stop in the name of love
+Before you tear it apart
+
+I'm trying hard
+Hard to be patient
+Wish you'd stop
+This infatuation
+But each time I think of you together
+I see myself losing you forever
+This time before you leave my heart
+And rush back into his arms
+
+
+
+Haven't I been sweet to you baby
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spirit-in-the-sky-norman-greenbaum
+lyrics_url: https://www.azlyrics.com/lyrics/stellarkart/spiritinthesky.html
 name: Spirit In The Sky
 rankings:
 - end_date: '1970-03-06'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
 ---
+
+When I die and 
+They lay me to rest
+Gonna go to the place
+That's the best
+When I lay me down to die
+Goin up to the spirit in the sky
+
+Goin up to the spirit in the sky
+That's where I'm gonna go 
+When I die
+When I die and they 
+Lay me to rest
+I'm gonna go to the place 
+That's the best
+
+Prepare yourself
+You know it's a must
+Gotta have a friend in Jesus
+So you know that
+When you die
+You're gonna go to
+The spirit in the sky
+
+Gonna go to the spirit in the sky
+That's where you're gonna go
+When you die
+When you die and
+They lay you to rest
+You're gonna go to
+The place that's the best
+
+Never been a sinner
+He never sinned
+I got a friend in Jesus
+So you know that
+When I die
+He's gonna set me up
+With the spirit in the sky 
+
+Set me up with 
+The spirit in the sky
+That's where I'm gonna
+Go when I die
+When I die and they 
+Lay me to rest
+I'm gonna go to the place 
+That's the best
+
+I'm gonna go to the place 
+That's the best
+I'm gonna go to the place 
+That's the best
+
+
 

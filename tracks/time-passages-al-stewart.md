@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-passages-al-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/alstewart/timepassages.html
 name: Time Passages
 rankings:
 - end_date: '1978-10-06'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
 ---
+
+It was late in December, the sky turned to snow
+All round the day was going down slow
+Night like a river beginning to flow
+I felt the beat of my mind go
+Drifting into time passages
+Years go falling in the fading light
+Time passages
+Buy me a ticket on the last train home tonight
+Well I'm not the kind to live in the past
+The years run too short and the days too fast
+The things you lean on are the things that don't last
+Well it's just now and then my line gets cast into these
+Time passages
+There's something back here that you left behind
+Oh time passages
+Buy me a ticket on the last train home tonight
+
+Hear the echoes and feel yourself starting to turn
+Don't know why you should feel
+That there's something to learn
+It's just a game that you play
+
+Well the picture is changing
+Now you're part of a crowd
+They're laughing at something
+And the music's loud
+A girl comes towards you
+You once used to know
+You reach out your hand
+But you're all alone, in those
+Time passages
+I know you're in there, you're just out of sight
+Time passages
+Buy me a ticket on the last train home tonight
+
+
 

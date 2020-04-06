@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yummy-justin-bieber
+lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/yummy.html
 name: Yummy
 rankings:
 - end_date: '2020-01-24'
@@ -47,4 +48,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe
+Any night, any day
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe
+In the morning or late
+Say the word, on my way
+
+Bonafide stallion
+Ain't in no stable, no, you stay on the run
+Ain't on the side, you're number one
+Yeah, every time I come around, you get it done
+
+Fifty-fifty, love the way you split it
+Hundred racks, help me spend it, babe
+Light a match, get litty, babe
+That jet set, watch the sunset kinda, yeah, yeah
+Rollin' eyes back in my head, make my toes curl, yeah, yeah
+
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe
+Any night, any day
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe
+In the morning or late
+Say the word, on my way
+
+Standing up, keep me on a rise
+Lost control of myself, I'm compromised
+You're incriminated, no disguise
+And you ain't never running low on supplies
+
+Fifty-fifty, love the way you split it
+Hundred racks, help me spend it, babe
+Light a match, get litty, babe
+That jet set, watch the sunset kinda, yeah, yeah
+Rollin' eyes back in my head, make my toes curl, yeah, yeah
+
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy (And you stay flexing on me)
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe (Yeah babe)
+Any night, any day
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe (Yeah babe)
+In the morning or late
+Say the word, on my way
+
+Hop in the Lambo', I'm on my way
+Drew House slippers on with a smile on my face
+I'm elated that you are my lady
+You got the yum, yum, yum, yum
+You got the yum, yum, yum, whoa
+Whoa-ooh
+
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+Yeah, you got that yummy, yum
+That yummy, yum
+That yummy, yummy
+
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe (Yeah babe)
+Any night, any day
+Say the word, on my way
+Yeah babe, yeah babe, yeah babe (Yeah babe)
+In the morning or late
+Say the word, on my way
+
+
 

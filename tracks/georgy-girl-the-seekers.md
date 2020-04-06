@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: georgy-girl-the-seekers
+lyrics_url: https://www.azlyrics.com/lyrics/seekers/georgygirl.html
 name: Georgy Girl
 rankings:
 - end_date: '1966-12-09'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+
+Hey there, Georgy girl
+Swingin' down the street so fancy-free
+Nobody you meet could ever see
+The loneliness there
+Inside you
+
+Hey there, Georgy girl
+Why do all the boys just pass you by?
+Could it be you just don't try
+Or is it the clothes you wear?
+
+You're always window-shopping
+But never stopping to buy
+So, shed those dowdy feathers and fly
+A little bit
+
+Hey there, Georgy girl
+There's another Georgy deep inside
+Bring out all the love you hide
+And, oh, what a change there'd be
+The world would see
+A new Georgy girl
+
+Hey there, Georgy girl
+Dreamin' of the someone you could be
+Life is a reality
+You can't always run away
+
+Don't be so scared of changing
+And rearranging yourself
+It's time for jumping down from the shelf
+A little bit
+
+Hey there, Georgy girl
+There's another Georgy deep inside
+Bring out all the love you hide
+And, oh, what a change there'd be
+The world would see
+A new Georgy girl
+
+(Hey there, Georgy girl)
+Wake up, Georgy girl
+(Hey there, Georgy girl)
+Come on, Georgy girl
+(Hey there, Georgy girl)
+Wake up, Georgy girl
+(Hey there, Georgy girl)
+Come on, Georgy girl
+
+
 

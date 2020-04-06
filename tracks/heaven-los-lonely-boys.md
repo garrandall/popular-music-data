@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-los-lonely-boys
+lyrics_url: https://www.azlyrics.com/lyrics/loslonelyboys/heaven.html
 name: Heaven
 rankings:
 - end_date: '2004-05-21'
@@ -127,4 +128,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
 ---
+
+Vamanos!
+
+Save me from this prison
+Lord, help me get away
+'Cause only you can save me now
+from this misery
+
+I've been lost in my own place
+and I'm getting' weary
+How far is heaven?
+And I know that I need to change
+my ways of livin'
+How far is heaven?
+Lord, can you tell me?
+
+I've been locked up way too long
+in this crazy world.
+How far is heaven?
+And I just keep on prayin', Lord
+And just keep on livin'.
+How far is heaven?
+
+Lord, can you tell me?
+How far is heaven?
+'Cause I just got to know how far, yeah?
+How far is heaven?
+Lord, can you tell me?
+
+
+TÃº que estÃ¡s en alto cielo,
+Ãchame tu bendiciÃ³n
+[English translation:
+[You, who are in high heaven,
+Send me down your blessing]
+
+'Cause I know there's a better place
+than this place I'm livin'.
+How far is heaven?
+And I just got to have some faith
+And just keep on giving.
+How far is heaven?
+Yeah, Lord, can you tell me?
+How far is heaven?
+'Cause I just gotta know how far, yeah?
+How far is heaven?
+Yeah, Lord, can you tell me?
+how far is heaven?
+'Cause I just gotta know how far?
+I just wanna know how far?
+
+
 

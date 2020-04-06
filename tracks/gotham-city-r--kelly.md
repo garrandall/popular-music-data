@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gotham-city-r--kelly
+lyrics_url: https://www.azlyrics.com/lyrics/rkelly/gothamcity.html
 name: Gotham City
 rankings:
 - end_date: '1997-07-25'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
 ---
+
+I'm looking over the skyline of the city
+How loud, quiet nights in the mist of crime
+How next door to happiness lives sorrow
+And signals of solution in the sky
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+We all need it, can't live without it
+Gotham City, oh, yeah
+
+How sleeping awake because of fear (ohh, yeah)
+How children are drowning in their tears
+How we need a place where we can go
+A land where everyone will have a hero (even me)
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+Cause we all need it, can't live without it
+Gotham City, oh, yeah
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+Cause we all need it, can't live without it
+Gotham City, oh, yeah
+
+Yet in the middle of stormy weather
+We won't stumble and we won't fall
+I know a place that offers shelter
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+We all need it, can't live without it
+Gotham City, oh, yeah
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+We all need it, can't live without it
+Gotham City, oh, yeah
+
+A city of justice, a city of love
+A city of peace, for everyone of us
+We all need it, can't live without it
+Gotham City, oh, yeah
+
+A Gotham City
+(Everybody needs Gotham City)
+Gotham City
+(Don't you want one, oh yeah)
+Come on, come on, Gotham City
+(Everybody needs Gotham City)
+A Gotham City
+(Don't you want one, oh yeah)
+
+
+A Gotham City
+A Gotham City
+A Gotham City
+
+
 

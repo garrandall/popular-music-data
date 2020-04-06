@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pour-some-sugar-on-me-def-leppard
+lyrics_url: https://www.azlyrics.com/lyrics/maine/poursomesugaronme.html
 name: Pour Some Sugar On Me
 rankings:
 - end_date: '1988-04-29'
@@ -103,4 +104,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
 ---
+
+Love is like a bomb, baby, c'mon get it on
+Livin' like a lover with a radar phone
+Lookin' like a tramp, like a video vamp
+Demolition woman, can I be your man?
+
+Razzle 'n' a dazzle 'n' a flash a little light
+Television lover, baby, go all night
+Sometime, anytime, sugar me sweet
+Little miss innocent sugar me, yeah
+
+Take a bottle, shake it up
+Break the bubble, break it up
+
+Pour some sugar on me
+Ooh, in the name of love
+Pour some sugar on me
+C'mon, fire me up
+Pour your sugar on me
+Oh, I can't get enough
+
+I'm hot, sticky sweet
+From my head to my feet, yeah
+
+Red light, yellow light, green-a-light go!
+Crazy little woman in a one man show
+Mirror queen, mannequin, rhythm of love
+Sweet dream, saccharine, loosen up
+
+You gotta squeeze a little, squeeze a little
+Tease a little more
+Easy operator come a knockin' on my door
+Sometime, anytime, sugar me sweet
+Little miss innocent sugar me, yeah, yeah
+Give a little more
+
+Take a bottle, shake it up
+Break the bubble, break it up
+
+Pour some sugar on me
+Ooh, in the name of love
+Pour some sugar on me
+C'mon fire me up
+Pour your sugar on me
+Oh, I can't get enough
+
+I'm hot, sticky sweet
+From my head to my feet yeah
+
+Take a bottle, shake it up
+Break the bubble, break it up
+
+(Pour, pour, pour, pour)
+
+Pour some sugar on me
+Ooh, in the name of love
+Pour some sugar on me
+C'mon fire me up
+Pour your sugar on me
+Oh, I can't get enough
+
+Pour some sugar on me
+Ooh, in the name of love
+Pour some sugar on me
+C'mon fire me up
+Pour your sugar on me
+Oh, I can't get enough
+
+Pour some sugar on me
+Ooh, in the name of love
+Pour some sugar on me
+
+
 

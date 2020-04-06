@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-n-cold-katy-perry
+lyrics_url: https://www.azlyrics.com/lyrics/empressof/hotncold.html
 name: Hot N Cold
 rankings:
 - end_date: '2008-07-11'
@@ -163,4 +164,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
 ---
+
+You change your mind
+Like a girl changes clothes
+Yeah, you, PMS
+Like a bitch
+I would know
+And you overthink
+Always speak
+Cryptically
+I should know
+That you're no good for me
+
+Because you're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+You're wrong when it's right
+It's black and it's white
+We fight, we break up
+We kiss, we make up
+(You) You don't really want to stay, no
+(You) But you don't really want to go-o
+You're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+
+We used to be
+Just like twins
+So in sync
+The same energy
+Now's a dead battery
+Used to laugh 'bout nothing
+Now you're plain boring
+I should know
+That you're not gonna change
+
+Because you're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+You're wrong when it's right
+It's black and it's white
+We fight, we break up
+We kiss, we make up
+(You) You don't really want to stay, no
+(You) But you don't really want to go-o
+You're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+
+Someone call the doctor
+Got a case of a love bitchpolar
+Stuck on a roller coaster
+Can't get off this ride
+
+You change your mind
+Like a girl changes clothes...
+
+Because you're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+You're wrong when it's right
+It's black and it's white
+We fight, we break up
+We kiss, we make up
+(You) You don't really want to stay, no
+(You) But you don't really want to go-o
+You're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+
+You're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down
+You're wrong when it's right
+It's black and it's white
+We fight, we break up
+We kiss, we make up
+(You) You don't really wanna stay, no
+(You) But you don't really want to go
+You're hot then you're cold
+You're yes then you're no
+You're in then you're out
+You're up then you're down, down
+
+
 

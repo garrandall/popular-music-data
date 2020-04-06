@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-limbo-some-more-chubby-checker
+lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/letslimbosomemore.html
 name: Let's Limbo Some More
 rankings:
 - end_date: '1963-02-22'
@@ -47,4 +48,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
 ---
+
+Let's Limbo some more
+Let's Limbo some more
+Let's hit the floor like we did before
+Let's Limbo some more
+
+Let's Limbo to the Limbo Rock
+Let's Limbo to the 
+You know the score
+Whatsya waitin' for
+Let's Limbo some more
+
+We started dancin' at half past nine
+Quarter to one we still look fine
+And we're still dancin' at half past two 
+Now whatsya wanna do
+
+Ha Limbo some more
+Let's Limbo some more
+Let's hit the floor like we did before
+Let's Limbo some more
+
+Limbo some more
+Let's Limbo some more
+You know the score
+Whats ya waitin' for
+Let's Limbo some more
+
+Let's Limbo like we did last month
+Let's Limbo like we did last year
+Well down and down and down we go
+Let's Limbo some more
+
+We started dancin' at half past nine
+Quarter to one we still look fine
+And we're still limbin' at half past two 
+Now whats ya wanna do
+
+Everybody gonna Limbo some more
+Let's Limbo some more
+Let's hit the floor like we did before
+Let's Limbo some more
+
+Limbo to the Limbo baby
+Limbo are drivin' me crazy
+No No Limbo like a slow slow Limbo
+With you with you with you...
+
+
 

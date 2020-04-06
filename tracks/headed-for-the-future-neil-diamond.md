@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: headed-for-the-future-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/headedforthefuture.html
 name: Headed For The Future
 rankings:
 - end_date: '1986-05-30'
@@ -47,4 +48,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
 ---
+
+Hey,
+We're headed for the future
+Give us some room
+We're gonna build a new world
+
+Say,
+We're headed for the future
+Give us some time
+We're gonna make it work right
+
+Yeah,
+We're gonna build a new dream
+We've got to make it stand tall
+It's got to last a long time
+
+Lean on me
+And I'm gonna lean on you
+We're headed for the future
+And the future's now
+Show you how
+
+Hey,
+We're headed for a new place
+A step at a time
+We're gonna take a long ride
+
+Time
+Don't wait around forever
+We've got to do it right now
+Let's do it all together
+
+Lean on me
+And I'm gonna lean on you
+We're headed for the future
+And the future's now
+Show you how
+
+Lean on me
+'Cause I'm gonna lean on you
+We're headed for the future
+
+Come on,
+Lean on me
+And I'm gonna lean on you
+We're headed for the future
+And the future's ours
+
+Come on, come on
+Come on, come on
+Come on, come on
+Yeah
+
+
 

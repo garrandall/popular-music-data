@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spirit-of-a-boy-wisdom-of-a-man-randy-travis
+lyrics_url: https://www.azlyrics.com/lyrics/randytravis/spiritofaboywisdomofaman.html
 name: Spirit Of A Boy Wisdom Of A Man
 rankings:
 - end_date: '1998-12-11'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
 ---
+
+He was 16, tender and tough.
+She was too, and he'd do anything to prove his love.
+With so much riding on the choice at hand,
+the spirit of a boy, or the wisdom of a man.
+Hearts caught fire and love ran wild.
+She cried the day she called to say she was having his child.
+With so much riding on the choice at hand,
+the spirit of a boy or the wisdom of a man.
+
+There's a constant contradiction, what feels good and what feels right.
+But, you live with decisions that you make in your life.
+And what steers your direction is hard to understand,
+the spirit of a boy, or the wisdom of a man
+
+Now he drives a diesel out of Dallas,
+hauling cars out to the coast.
+It ain't the dream that he remembered, just a few short years ago.
+But tonight at a truckstop, while drinking a cup,
+the waitress grins and winks at him,
+and says, "My shift's almost up."
+
+With so much riding on the choice at hand,
+the spirit of a boy, or the wisdom of a man.
+With so much riding on the choice at hand,
+the spirit of a boy, or the wisdom of a man.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-love-rule-lenny-kravitz
+lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/letloverule.html
 name: Let Love Rule
 rankings:
 - end_date: '1990-02-02'
@@ -23,4 +24,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
 ---
+
+Love is gentle as a rose 
+And love can conquer any war 
+It's time to take a stand 
+Brothers and sisters join hands 
+
+We got to let love rule 
+Let love rule 
+We got to let love rule 
+Let love rule 
+
+Love transcends all space and time 
+And love can make a little child smile 
+Oh can't you see 
+This won't go wrong 
+But we got to be strong 
+We can't do it alone 
+
+We got to let love rule 
+Let love rule 
+We got to let love rule 
+Let love rule 
+
+Let love rule 
+You got to got to got to 
+Let love rule 
+
+You got to got to got to, yeah 
+Let let let let love rule 
+Let love rule 
+
+Let love rule 
+You got to got to got to 
+Use to yeah 
+You got to yeah 
+Waouh 
+You got to 
+Got to got to got to yeah 
+Yeah yeah yeah yeah yeah yeah 
+Let love rule
+
+
 

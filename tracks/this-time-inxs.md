@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/thistime.html
 name: This Time
 rankings:
 - end_date: '1985-11-22'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
 ---
+
+I will believe you
+If you say it's true
+Girl you know I need you more than any
+Word spoken
+I've seen you before
+Turn and walk away
+You say you won't come back
+It's a game anyway
+
+We are hoping - yes we are praying
+This time will be the last time
+That we will fight like this
+
+We are always wanting
+Things we cannot find
+You know that we are always wasting
+Time
+
+You know I can forget
+We have fought before
+I've seen inside your heart
+And I know it's breaking
+
+
 

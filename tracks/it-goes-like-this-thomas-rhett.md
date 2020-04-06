@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-goes-like-this-thomas-rhett
+lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/itgoeslikethis.html
 name: It Goes Like This
 rankings:
 - end_date: '2013-07-05'
@@ -95,4 +96,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
 ---
+
+Hey girl, you make me wanna write a song,
+Sit you down, I'll sing it to you all night long,
+I've had a melody in my head
+Since she walked in here and knocked me dead.
+Yeah girl, you make me wanna write a song
+
+And it goes like ooh,
+What I wouldn't do
+To write my name on your heart,
+Get you wrapped in my arms
+Baby all around you.
+And it goes like hey,
+Girl I'm blown away,
+Yeah it starts with a smile and it ends with an all night long slow kiss,
+Yeah it goes like this.
+
+Hey girl, you make me wanna drive you home,
+Get you outta here and get you all alone.
+I don't know what it is about you, baby,
+But I'm all messed up and it might sound crazy,
+But you make me wanna write a song.
+
+And it goes like ooh,
+What I wouldn't do,
+To write my name on your heart,
+Get you wrapped in my arms
+Baby all around you.
+And it goes like hey,
+Girl I'm blown away,
+Yeah it starts with a smile and it ends with an all night long slow kiss,
+Yeah it goes like this.
+
+Lookin' at you, lookin' at me that way,
+Makes me wanna grab my old guitar and play
+
+Something like ooh,
+What I wouldn't do,
+To write my name on your heart,
+Get you wrapped in my arms
+Baby all around you.
+And it goes like hey,
+Girl I'm blown away,
+Yeah it starts with a smile and it ends with an all night long slow kiss,
+Yeah it goes like this
+
+And it goes like ooh,
+And it goes like hey,
+And it ends with a kiss,
+Yeah it goes like this.
+
+
 

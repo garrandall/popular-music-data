@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-a-hurtin--thing-lou-rawls
+lyrics_url: https://www.azlyrics.com/lyrics/lourawls/loveisahurtinthing.html
 name: Love Is A Hurtin' Thing
 rankings:
 - end_date: '1966-09-16'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
 ---
+
+For every little kiss there's a little teardrop
+For every single thrill there's another heartache
+The road is rough
+The going gets tough
+
+Love is a hurtin' thing
+Oh, love is a hurtin' thing
+
+When you're in my arms I'm a king on a throne
+But when we're apart I walk the streets alone
+One day happiness
+The next day, loneliness
+
+When love brings so much joy why must it bring such pain
+Guess it's a mystery that nobody can explain
+
+Maybe I'm a fool to keep on loving you
+'Cause there may come a time you'll break my heart in two
+But I want you so
+I want you though I know that
+
+Love is a hurtin' thing
+Oh, love is a hurtin' thing
+
+
 

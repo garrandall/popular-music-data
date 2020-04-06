@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-o-the-turtles
+lyrics_url: https://www.azlyrics.com/lyrics/turtles/ladyo.html
 name: Lady-O
 rankings:
 - end_date: '1969-12-12'
@@ -23,4 +24,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
 ---
+
+While you sit and seek
+A crescent moon is laying at your feet
+With hope that's made of sand
+You don't think you can
+But you have held it all in your hands
+
+I've been trying hard to keep
+From needing you but from the start
+My heart just rolled and flowed
+I've seen where it goes
+Still somehow my love for you grows, Lady-O
+
+So on my heels I'll grow wings
+Gonna ride silver strings
+But I'll see you in my holiest dreams, Lady-O
+
+So on my heels I'll grow wings
+Gonna ride silver strings
+But I'll see you in my holiest dreams, Lady-O
+
+I've been trying hard to keep
+From needing you but from the start
+My heart just rolled and flowed
+I've seen where it goes
+Still somehow my love for you grows, Lady-O
+
+
 

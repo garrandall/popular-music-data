@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-navy-village-people
+lyrics_url: https://www.azlyrics.com/lyrics/captainjack/inthenavy.html
 name: In The Navy
 rankings:
 - end_date: '1979-03-23'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
 ---
+
+In the navy
+(We want you)
+In the navy
+(We want you in the captain's crew)
+
+(In the navy)
+Yes you can sail the seven seas
+(In the navy)
+Yes you can put your mind at ease
+(In the navy)
+Come on people and make a stand
+(In the navy, in the navy)
+
+We want you, we want you
+We want you, in the captain's crew
+We want you, we want you
+We want you, in the captain's crew
+
+Where can you find plesure
+Search the world for treasure
+Learn science technology
+Where can you begin to make
+Your dreams all come true
+On the land or on the sea
+
+Where can learn to fly,
+Play in sports or skindive
+Study oceanography
+Sign up for the big band or sit in the grandstand
+When your team and others meet
+
+(In the navy)
+Yes you can sail the seven seas
+(In the navy)
+Yes you can put your mind at ease
+(In the navy)
+Come on now, people and make a stand
+(In the navy, in the navy)
+
+(In the navy)
+Come on, protect the motherland
+(In the navy)
+Come on and join and join your fellow man
+(In the navy)
+Come on, people and make a stand
+(In the navy, in the navy)
+
+
 

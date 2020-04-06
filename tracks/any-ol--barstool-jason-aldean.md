@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-ol--barstool-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/anyolbarstool.html
 name: Any Ol' Barstool
 rankings:
 - end_date: '2017-02-17'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
 ---
+
+I guess you heard I was pedal to the metal on a downhill slide
+Girl, you know those rumors get to flyin' in a town this size
+No, I didn't feel a thing when you threw that ring and slammed the door
+If you wanna know the truth you gotta go straight to the source
+
+Ask any ol' barstool in this town
+Ask my new found party crowd
+Sure I take more Jack in my coke now
+A little more high in my smoke now
+Sure I stay 'til they're all long gone
+And I take the long way home
+But I ain't sittin' 'round
+Tryin' to drown the thought of you
+Ask any ol' barstool
+
+I can finally stretch out in our king size bed if I make it that far
+But fillin' in all these blanks you left isn't all that hard
+No, I ain't wonderin' where you been or who you been with
+I guess you didn't hurt me half as bad as you think you did
+
+Ask any ol' barstool in this town
+Ask my new found party crowd
+Sure I take more Jack in my coke now
+A little more high in my smoke now
+Sure I stay 'til they're all long gone
+And I take the long way home
+But I ain't sittin' 'round
+Tryin' to drown the thought of you
+Ask any ol' barstool
+
+Yeah, you think I'm down and out, hidin' out, hell-bent crazy
+But that ain't me, baby
+
+Ask any ol' barstool in this town
+Ask my new found party crowd
+Sure I take more Jack in my coke now
+But I'm a long way from broke down
+Sure I stay 'til they're all long gone
+And I take the long way home
+But I ain't sittin' 'round
+Tryin' to drown the thought of you
+Ask any ol' barstool
+Ask any ol' barstool
+
+I guess you heard I was pedal to the metal on a downhill slide
+
+
 

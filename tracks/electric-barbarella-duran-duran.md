@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: electric-barbarella-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/electricbarbarella.html
 name: Electric Barbarella
 rankings:
 - end_date: '1997-10-17'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
+
+I knew when I first saw you on the showroom floor
+You were made for me
+I took you home and dressed you up in polyester
+Princess of my dreams
+Emotionless and cold as ice
+All of the things I like
+The way you look 
+The way you move
+The sound you're makin'
+In ultra-chrome, latex and steel
+
+I plug you in 
+Dim the lights
+Electric Barbarella
+Your perfect skin
+Plastic kiss
+Electric Barbarella
+Try to resist
+Then we touch
+Hallucinate and tranquilize
+
+(she's so fine)
+(she's all mine)
+
+Our private life is subject to investigation
+No time to waste
+People say they heard about our deviation
+But you never looked so good
+Wear the fake fur and fake pearls for me
+And put on your mystery
+The way I feel you know 
+I'll never keep you waiting
+In ultra-chrome, latex and steel
+
+I plug you in 
+Dim the lights
+Electric Barbarella
+Your perfect skin
+Plastic kiss
+Electric Barbarella
+Try to resist
+Then we touch
+Hallucinate and tranquilize
+
+Princess of my dreams
+Princess of my dreams
+Major domo plasticomo Barbarella
+(She's so fine)
+Pro-genetic you Electric Barbarella
+(She's all mine)
+My pretty pretty pretty pretty Barbarella
+
+
 

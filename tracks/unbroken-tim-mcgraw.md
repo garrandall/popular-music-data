@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unbroken-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/unbroken.html
 name: Unbroken
 rankings:
 - end_date: '2002-07-12'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
 ---
+
+How I ever lived and breathed before you loved me, I don't recall 
+If I walked around at all, it was in bits and pieces 
+Of a jagged heart 
+You kissed me and every piece went back in place, every pain got erased 
+You held me up to the light 
+
+No one ever left me out in the rain 
+Cold words still remain unspoken 
+And I never got lost, spent years in the dark 
+You're here, now my heart's unbroken 
+When I see your smile fill my soul again 
+I'm unbroken 
+
+If I doubted the power of love, baby now I understand 
+I thank God for every day I wake up to the soft touch 
+Of your magic hands 
+In this world sometimes the only thing that's real is the way you make me feel 
+Babe, the changes day and night 
+I swear it's life 
+
+No one ever left me out in the rain 
+Cold words still remain unspoken 
+And I never got lost, spent years in the dark 
+You're here, now my heart's unbroken 
+When I see your smile fill my soul again 
+I'm unbroken 
+
+I still see the night, I fell into your eyes 
+And when we made love it felt like the first time 
+
+No one ever left me out in the rain 
+Cold words still remain unspoken 
+And I never got lost, spent years in the dark 
+You're here, now my heart's unbroken 
+When I see your smile fill my soul again 
+I'm unbroken 
+
+When I see your smile fill my soul again 
+I'm unbroken 
+I'm unbroken, oh yeah 
+I'm unbroken 
+
+No one ever left me out in the rain 
+Cold words still remain unspoken 
+And I never got lost, spent years in the dark 
+You're here, now my heart's unbroken 
+When I see your smile fill my soul again 
+I'm unbroken
+
+
 

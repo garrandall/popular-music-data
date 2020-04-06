@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: until-i-find-you-again-richard-marx
+lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/untilifindyouagain.html
 name: Until I Find You Again
 rankings:
 - end_date: '1997-04-25'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
 ---
+
+Lately I've been trying
+To fill up my days since you're gone.
+The speed of love is blinding,
+And I didn't know how to hold on.
+My mind won't clear.
+I'm out of tears.
+My heart's got no room left inside.
+
+How many dreams will end?
+How long can I pretend?
+How many times will love pass me by,
+Until I find you again?
+
+Will the arms of hope surround me?
+Will time be a fairweather friend?
+Should I call out to angels,
+Or just drink myself sober again?
+I can't hide, it's true.
+I still burn for you.
+Your memory just won't let me go.
+
+How many dreams will end?
+How long can I pretend?
+How many times will love pass me by,
+Until I find you again?
+
+I'd hold you tighter,
+Closer than ever before.
+Yeah.
+No flame would burn brighter,
+If I could touch you once more,
+Hold you once more!
+
+
+
+How many dreams will end?
+How long can I pretend?
+How many times will love pass me by,
+Till I find you again?
+Till I find you again . . .
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-bayou-linda-ronstadt
+lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/bluebayou.html
 name: Blue Bayou
 rankings:
 - end_date: '1977-09-16'
@@ -99,4 +100,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
 ---
+
+I feel so bad I got a worried mind
+I'm so lonesome all the time
+Since I left my baby behind
+On Blue Bayou
+
+Saving nickles saving dimes
+Working til the sun don't shine
+Looking forward to happier times
+On Blue Bayou
+
+I'm going back someday
+Come what may
+To Blue Bayou
+Where the folks are fine
+And the world is mine
+On Blue Bayou
+Where those fishing boats
+With their sails afloat
+If I could only see
+That familiar sunrise
+Through sleepy eyes
+How happy I'd be
+
+Gonna see my baby again
+Gonna be with some of my friends
+Maybe I'll feel better again
+On Blue Bayou
+
+Saving nickles saving dimes
+Working til the sun don't shine
+Looking forward to happier times
+On Blue Bayou
+
+I'm going back someday
+Come what may
+To Blue Bayou
+Where the folks are fine
+And the world is mine
+On Blue Bayou
+Where those fishing boats
+With their sails afloat
+If I could only see
+That familiar sunrise
+Through sleepy eyes
+How happy I'd be
+
+Oh that boy of mine
+By my side
+The silver moon
+And the evening tide
+Oh some sweet day
+Gonna take away
+This hurting inside
+Well I'll never be blue
+My dreams come true
+On Blue Bayou
+
+
 

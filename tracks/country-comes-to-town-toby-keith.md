@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: country-comes-to-town-toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/countrycomestotown.html
 name: Country Comes To Town
 rankings:
 - end_date: '2000-08-11'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
 ---
+
+Well the weatherman said it might storm today
+I gotta hit the field
+Gotta bail some hay
+And I can't let it rain on my daddy's farm
+Til I get it all stacked up high in the barn
+
+And I'm gonna call my baby
+She's been waiting on me
+She lives down town on Sycamore Street
+And the wheels on the black top
+A startin' to whine
+As I pass that Oklahoma City limit sign
+
+I'm a hayseed
+And a plow boy
+I'm a farm kid
+And a cowboy
+I'm a roughneck
+My daddy was a roughneck too
+
+I run around with hillbilly girls
+The weekend sits on my hillbilly world
+You better be ready when the sun goes down
+That's when country comes to town
+
+Well her Daddy said child you better let him be
+Well I don't like him and he sire don't like me
+Momma just says ya'll have a little fun
+Ain't doin' nothing me and papa ain't done
+Open up the door to my pick-up truck
+And my baby jumps in and she fires it up
+And she gives me a kiss
+As I crawl in
+We've been waiting all week for a weekend
+
+I'm a hayseed
+And a plow boy
+I'm a farm kid
+And a cowboy
+I'm a roughneck
+My daddy was a roughneck too
+
+I run around with hillbilly girls
+The weekend sits on my hillbilly world
+You better be ready when the sun goes down
+That's when country comes to town
+
+Yeah it's true I run around with hillbilly girls
+The weekend sits on my hillbilly world
+You better be ready when the sun goes down
+Cause that's when country comes to town
+Here I come
+
+
 

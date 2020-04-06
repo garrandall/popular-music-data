@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-different-corner-george-michael
+lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/adifferentcorner.html
 name: A Different Corner
 rankings:
 - end_date: '1986-05-02'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
 ---
+
+I'd say love was a magical thing
+I'd say love would keep us from pain
+Had I been there?
+Had I been there?
+
+I would promise you all of my life
+But to lose you would cut like a knife
+So I don't dare
+No, I don't dare
+
+'Cause I've never come close
+In all of these years
+You are the only one to stop my tears
+And I'm so scared
+I'm so scared
+
+Take me back in time
+Maybe I can forget
+Turn a different corner
+And we never would have met
+Would you care?
+
+I don't understand it
+For you it's a breeze
+Little by little
+You've brought me to my knees
+
+Don't you care?
+
+No, I've never come close
+In all of these years
+You are the only one to stop my tears
+I'm so scared of this love
+
+And if all that there is
+Is this fear of being used
+I should go back to being lonely and confused
+If I could I would. I swear
+
+Whoa, I swear
+
+
 

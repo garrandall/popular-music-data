@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: different-worlds-maureen-mcgovern
+lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/differentworlds.html
 name: Different Worlds
 rankings:
 - end_date: '1979-07-13'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
 ---
+
+Let the time flow
+Let the love grow
+Let the rain shower
+Let the rose flower
+Love it seeks, love it finds
+Love it conquers, love it binds
+
+We come to each other from different worlds
+Drawn to each other by the love inside of us
+We give to each other our different worlds
+As long as we can do it
+Life is gonna breeze right through it
+
+We reach for each other from different worlds
+With love for each other that will stand the test of time
+We're up to the challenge of different worlds
+With this love inside us
+There is none that can divide us
+
+Love it seeks and love it finds
+(Love it seeks, love it finds)
+Love it conquers, love it binds
+Ah, ah
+
+Love it seeks, love it finds
+Love it conquers, love it binds
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-my-love-tonight-paul-anka
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/tonightmylovetonight.html
 name: Tonight My Love Tonight
 rankings:
 - end_date: '1961-03-19'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
 ---
+
+La-la-la-la-la-la 
+La-la-la-la-la-la 
+Let me hold you in my arms 
+Let me thrill to all your charms 
+Hold me, hold me, hold me tight 
+Tonight, tonight my love, tonight 
+Love me, love me, love me so 
+And never, never let me go 
+Hold me, hold me, hold me right 
+Tonight, tonight my love, tonight 
+Forever, I will love you forever 
+The mandolins are playin' 
+The moon above is sayin' 
+It's love, it's love, I know, I know it's love 
+Kiss me, kiss me, kiss me warm 
+Make me feel like I've been born 
+
+Hold me, hold me, hold me right 
+Tonight, tonight my love, tonight 
+Forever, I will love you forever, yes I will 
+The mandolins are playin' 
+The moon above is sayin' 
+It's love, it's love, I know, I know it's love 
+Kiss me, kiss me, kiss me warm 
+Make me feel like I've been born 
+Hold me, hold me, hold me right 
+Tonight, tonight my love, tonight 
+La-la-la-la-la-la 
+La-la-la-la-la-la 
+La-la-la-la-la-la 
+La-la-la-la-la-la.....
+
+
 

@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: lucky-man-emerson-lake-palmer
+lyrics_url: https://www.azlyrics.com/lyrics/emersonlakepalmer/luckyman.html
 name: Lucky Man
 rankings:
 - end_date: '1971-03-19'
@@ -85,4 +86,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+
+He had white horses
+And ladies by the score
+All dressed in satin
+And waiting by the door
+
+Ooooh, what a lucky man he was
+Ooooh, what a lucky man he was
+
+White lace and feathers
+They made up his bed
+A gold covered mattress
+On which he was led
+
+Ooooh, what a lucky man he was
+Ooooh, what a lucky man he was
+
+He went to fight wars
+For his country and his king
+Of his honor and his glory
+The people would sing
+
+Ooooh, what a lucky man he was
+Ooooh, what a lucky man he was
+
+A bullet had found him
+His blood ran as he cried
+No money could save him
+So he laid down and he died
+
+Ooooh, what a lucky man he was
+Ooooh, what a lucky man he was
+
+
 

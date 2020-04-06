@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-what-a-night-for-dancing-barry-white
+lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/ohwhatanightfordancing.html
 name: Oh What A Night For Dancing
 rankings:
 - end_date: '1978-05-05'
@@ -51,4 +52,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
 ---
+
+Oh we're going out tonight
+Finger popping you look out-a sight
+Won't be no stopping all the discotheques
+Better be ready we're gonna hit em hard
+Hard and heavy
+Party strong all night long
+Just you girl and me
+
+You're my million dollar baby
+My pretty sexy lady oh
+Oh what a night for dancing
+Oh what a night for romancing
+
+We're gonna laugh and dance half the night away
+We're gonna scream and shout while the music plays
+Then around about two, tell you what I'm gonna do
+Girl I'm gonna take you home and stick plenty love to you
+Let's get it on all night long, just you girl and me
+
+You're my million dollar baby
+My pretty sexy lady oh
+Oh what a night for dancing
+Oh what a night for romancing
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-your-daddy--toby-keith
+lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/whosyourdaddy.html
 name: Who's Your Daddy?
 rankings:
 - end_date: '2002-10-11'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
 ---
+
+Ooh, alright
+
+Yeah, here you come knockin' on my door, baby
+Tell me what you got on your mind
+I guess those college boys all went home for the summertime
+
+Yeah, you're lookin' right, lookin' good
+Lookin' like a woman should
+So why is it so hard to find
+A place to lay your pretty little head down once in a while
+
+You run on a little tough luck, baby
+Don't you sweat it
+Everything is waiting inside for you
+You know I got it
+Come and get it
+
+Who's your daddy, who's your baby?
+Who's your buddy, who's your friend?
+
+And who's the one guy that you come runnin' to
+When your love life starts tumblin'?
+I got the money if you got the honey
+Let's cut a deal, let's make a plan
+
+Who's your daddy, who's your baby?
+Who's your buddy, who's your man?
+
+You might've run on a little tough luck, baby, did you?
+Don't you sweat it
+Everything is waiting inside for you
+You know I got it
+So come and get it
+
+Who's your daddy, who's your baby?
+Who's your buddy, yeah, who's your friend?
+
+And who's the one guy that you come runnin' to
+When your love life starts tumblin'?
+I got the money, you got the honey
+Let's cut a deal, let's make a plan
+
+Who's your daddy, who's your baby?
+Who's your buddy, who's your man?
+
+Who's your daddy, who's your baby?
+Who's your buddy, who's your man?
+
+
 

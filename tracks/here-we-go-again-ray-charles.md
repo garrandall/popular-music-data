@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-we-go-again-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/herewegoagain.html
 name: Here We Go Again
 rankings:
 - end_date: '1967-05-26'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
 ---
+
+Here we go again
+She's back in town again
+I'll take her back again
+
+One more time
+
+Here we go again
+The phone will ring again
+I'll be her fool again
+
+One more time
+
+I've been there before
+And I'll try it again
+But any fool knows
+That there's no way to win
+Here we go again
+She'll break my heart again
+I'll play the part again
+
+One more time
+
+
 

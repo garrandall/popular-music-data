@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silhouettes-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/silhouettes.html
 name: Silhouettes
 rankings:
 - end_date: '1965-04-09'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+
+Took a walk and passed your house late last night
+All the shades were pulled and drawn way down tight
+From within, the dim light cast two silhouettes on the shade
+Oh, what a lovely couple they made
+
+Put his arms around your waist, held you tight
+Kisses I could almost taste in the night
+Wondered why I'm not the guy whose silhouette's on the shade
+I couldn't hide the tears in my eyes
+
+Ah-ah-ah-ah-ah-ah-ah
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah
+
+Lost control and rang your bell, I was sore
+Let me in or else I'll beat down your door
+When two strangers who have been two silhouettes on the shade
+Said to my shock you're on the wrong block
+
+Rushed down to your house with wings on my feet
+Loved you like I'd never loved your my sweet
+Vowed that you and I would be two silhouettes on the shade
+All of our days, two silhouettes on the shade
+
+Ah-ah-ah-ah-ah-ah-ah
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah
+
+
 

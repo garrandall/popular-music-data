@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: colors-of-the-wind-vanessa-williams
+lyrics_url: https://www.azlyrics.com/lyrics/conchitawurst/colorsofthewind.html
 name: Colors Of The Wind
 rankings:
 - end_date: '1995-06-30'
@@ -99,4 +100,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
 ---
+
+You think you own whatever land you land on
+The Earth is just a dead thing you can claim
+But I know every rock and tree and creature
+Has a life, has a spirit, has a name
+
+You think the only people who are people
+Are the people who look and think like you
+But if you walk the footsteps of a stranger
+You'll learn things you never knew, you never knew
+
+Have you ever heard the wolf cry to the blue corn moon
+Or asked the grinning bobcat why he grinned?
+Can you sing with all the voices of the mountains?
+Can you paint with all the colors of the wind?
+Can you paint with all the colors of the wind?
+
+Come run the hidden pine trails of the forest
+Come taste the sun sweet berries of the Earth
+Come roll in all the riches all around you
+And for once, never wonder what they're worth
+
+The rainstorm and the river are my brothers
+The heron and the otter are my friends
+And we are all connected to each other
+In a circle, in a hoop that never ends
+
+Have you ever heard the wolf cry to the blue corn moon
+Or let the eagle tell you where he's been?
+Can you sing with all the voices of the mountains?
+Can you paint with all the colors of the wind?
+Can you paint with all the colors of the wind?
+
+How high does the sycamore grow?
+If you cut it down, then you'll never know
+
+And you'll never hear the wolf cry to the blue corn moon
+For whether we are white or copper-skinned
+We need to sing with all the voices of the mountains
+We need to paint with all the colors of the wind
+
+You can own the Earth and still
+All you'll own is Earth until
+You can paint with all the colors of the wind
+
+
 

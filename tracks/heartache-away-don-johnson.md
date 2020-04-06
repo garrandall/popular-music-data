@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartache-away-don-johnson
+lyrics_url: https://www.azlyrics.com/lyrics/carolyndawnjohnson/idstillhaveyou.html
 name: Heartache Away
 rankings:
 - end_date: '1986-11-28'
@@ -51,4 +52,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+
+Didn't know til I was alone
+How much I'd miss your love
+When you were gone
+Waking up without you was all it took
+That's when I knew
+
+What I thought
+That I wanted
+Feels a lot
+Like a heartache don't it
+If I could go back
+Clean the slate
+Just like that
+Change my mind
+Hit rewind
+Make you love me
+Just one more time
+Everything I've done
+I'd undo
+And I'd still have you
+
+I'd still hold you in my arms at night
+Instead of laying alone wondering why
+It took you going away
+For me to know
+It was a big mistake
+
+What I thought
+That I wanted
+Feels a lot
+Like a heartache don't it
+If I could I'd go back
+Clean the slate
+Just like that
+Change my mind
+Hit rewind
+Make you love me
+Just one more time
+Everything I've done
+I'd undo
+And I'd still have you
+yeah yeah
+
+I just wanna love you one more time
+I just wanna love you
+I just wanna take back all I've done
+I just wanna undo
+I just wanna love you one more time
+I just wanna love you
+I just wanna take back all I've done
+I just wanna undo
+Yeah yeah
+
+What I thought
+That I wanted
+Feels a lot
+Like a heartache don't it
+If I could I'd go back
+Clean the slate
+Just like that
+Change my mind
+Hit rewind
+Make you love me
+Just one more time
+Everything I've done
+I'd undo
+And I'd still have you
+yeah yeah
+
+I'd still have you
+Ohhhh
+oh I'd still have you
+yeeaaaahhhh
+oh ho yeah
+oh ho yeah
+
+
 

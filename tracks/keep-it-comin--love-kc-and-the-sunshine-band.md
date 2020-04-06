@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-it-comin--love-kc-and-the-sunshine-band
+lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/keepitcominlove.html
 name: Keep It Comin' Love
 rankings:
 - end_date: '1977-08-05'
@@ -87,4 +88,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
 ---
+
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop it!
+Don't let your well run dry, don't stop it now.
+Don't give me no reasons why, don't stop it now!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop it!
+Don't build me up just to let me drop, don't stop it now!
+Don't turn me on just to turn me off, don't stop it now!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop it!
+Don't tell me there ain't no more, don't stop it now!
+Don't turn me down and just close your door, don't stop it now!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop!
+Keep it coming, love! Keep it coming, love!
+Don't stop it now, don't stop it, no, don't stop it now, don't stop it!
+
+
 

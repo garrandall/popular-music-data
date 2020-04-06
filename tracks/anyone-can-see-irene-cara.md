@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anyone-can-see-irene-cara
+lyrics_url: https://www.azlyrics.com/lyrics/irenecara/anyonecansee.html
 name: Anyone Can See
 rankings:
 - end_date: '1981-12-04'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
 ---
+
+If I could I'd try to know you
+And I would never let you go, oh no!
+But if I were to make you
+A bit of time it would take to say, Someday
+
+Anyone can see
+What you mean to me
+Anyone can tell I fell for you so easily
+
+On the night when you left me
+I cried wishing you would say you'd stay
+Maybe I don't have the strength to
+Tell you I need you so
+I guess you'll never know
+
+Anyone can see
+What you mean to me
+Anyone can tell (can tell)
+I fell for you so easily
+
+Anyone can see
+What you mean to me
+Anyone can tell (can tell)
+My love for you
+So easily
+So easy
+
+(Anyone, anyone, anyone
+Anyone can see)
+(Anyone, anyone, anyone
+Anyone can see)
+Anyone can see...
+Anyone can see...
+
+
 

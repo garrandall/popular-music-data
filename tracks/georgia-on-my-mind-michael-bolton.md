@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: georgia-on-my-mind-michael-bolton
+lyrics_url: https://www.musixmatch.com/lyrics/Michael-Bolton/Georgia-on-My-Mind
 name: Georgia On My Mind
 rankings:
 - end_date: '1990-08-31'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
 ---
+Georgia, Georgia, whole day through
+Just an old sweet song
+Keeps Georgia on my mind
 
+Talking 'bout Georgia
+I'm in Georgia, song of you
+Comes as sweet and clear as moonlight
+Through the pines
+
+Other arms they reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+The road leads back to you
+
+Georgia, sweet Georgia, no peace I find
+Just an old sweet song
+Keeps Georgia on my mind
+Georgia on my mind
+
+Other arms reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+Oh the road leads back
+It always leads back, leads back to you
+
+I'm in Georgia, Georgia, sweet Georgia
+No peace, no peace I find
+Just this old sweet song
+Keeps Georgia forever on my mind (Georgia on my mind)
+Just an old sweet, sweet, sweet song
+Keeps Georgia forever on my mind

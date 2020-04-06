@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-u-go-ashley-parker-angel
+lyrics_url: https://www.azlyrics.com/lyrics/ashleyparkerangel/letugo.html
 name: Let U Go
 rankings:
 - end_date: '2006-05-05'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
 ---
+
+Broken promises
+But you don't really mind
+It's not the first time
+And you know it, don't you know
+Tell me why it is you only smile inside
+But when you break me into nothing
+Don't you know
+
+It's not like I haven't tried
+Over and over again
+Stupid fights
+Wrong or right
+Goodbye...
+
+
+I Remember when you came with me that night
+We said forever, that you would never let me go
+But here I am again
+With nothing left inside
+No I don't wanna but I gotta let you go
+
+You're the one mistake
+I really didn't mind
+So beautiful, unmerciful
+It took me down
+Too little and too late
+So now I know your kind
+You fake it easy, just to please me
+Don't you know
+
+It's not like we haven't tried
+Over and over again
+Sleepless nights wrong or right
+Goodbye...
+
+
+(slows down)
+
+I gotta let u go...
+It's you...
+Theres nothing I can do
+
+I remember when you came with me that night
+You said forever 
+
+Here I am again
+With nothing left inside
+No I don't wanna but I gotta
+Let U Go
+
+
+
+
 

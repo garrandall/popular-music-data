@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ever-the-same-rob-thomas
+lyrics_url: https://www.azlyrics.com/lyrics/robthomas/everthesame.html
 name: Ever The Same
 rankings:
 - end_date: '2006-01-27'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
 ---
+
+We were drawn from the weeds
+We were brave like soldiers
+Falling down under the pale moonlight
+You were holding to me
+Like a someone broken
+And I couldn't tell you but I'm telling you now
+
+Just let me hold you while you're falling apart
+Just let me hold you and we'll both fall down
+
+Fall on me
+Tell me everything you want me to be
+Forever with you forever in me
+Ever the same
+
+We would stand in the wind
+We were free like water
+Flowing down
+Under the warmth of the sun
+Now it's cold and we're scared
+And we've both been shaken
+Hey, look at us
+Man, this doesn't need to be the end
+
+Just let me hold you while you're falling apart
+Just let me hold you and we'll both fall down
+
+Fall on me tell me everything you want me to be
+Forever with you
+Forever in me
+Ever the same
+Call on me
+I'll be there for you and you'll be there for me
+Forever it's you
+Forever in me
+Ever the same
+
+You may need me there
+To carry all your weight
+But you're no burden I assure
+You tide me over
+With a warmth I'll not forget
+But I can only give you love
+
+Fall on me tell me everything you want me to be
+Forever with you
+Forever in me
+Ever the same
+Call on me
+I'll be there for you and you'll be there for me
+Forever it's you
+Forever in me
+Ever the same
+
+Forever with you
+Forever in me
+Ever the same(Ever the same)
+
+
 

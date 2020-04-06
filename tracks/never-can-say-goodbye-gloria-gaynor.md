@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-can-say-goodbye-gloria-gaynor
+lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/nevercansaygoodbye.html
 name: Never Can Say Goodbye
 rankings:
 - end_date: '1974-11-08'
@@ -75,4 +76,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
 ---
+
+I never can say goodbye
+I never can say goodbye
+
+Even though the pain and heartache
+Seems to follow me wherever I go
+Though I try and try to hide my feelings
+They always seem to show
+Then you try to say you're leaving me
+And I always have to say no
+Tell me why is it so
+
+That I
+Never can say goodbye (say goodbye)
+No no no no, now
+Never can say goodbye (say goodbye)
+
+Every time I think I've had enough
+And start heading for the door
+There's a very strange vibration
+Piercing me right to the core
+It says, "turn around you fool
+You know you love him more and more"
+Tell me why is it so
+Don't want to let you go
+
+I never can say goodbye, boy
+Ooh baby, I never can say goodbye, no no no, no no no, ooh
+I never can say goodbye, boy
+Ooh baby, I never can say goodbye, no no no, no no no, ooh
+
+I never can say goodbye, oh no, now
+I never can say goodbye
+
+I keep thinking that our problems
+Soon are all gonna work out
+But there's that same unhappy feeling
+And that anguish and that doubt
+It's that same old dizzy hang-up
+I can't do with you or without
+Tell me why is it so
+Don't want to let you go
+
+I never can say goodbye, boy
+Ooh, I never can say goodbye, no no no, no no no, ooh
+I never can say goodbye, boy
+Ooh, I never can say goodbye, no no no, no no no, ooh yeah
+I never can say goodbye, boy
+Ooh, I never can say goodbye, no no no, no no no, ooh
+I never can say goodbye, boy, yeah, yeah, yeah
+I never can say goodbye, no no no, no no no, oh oh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: handy-man-james-taylor
+lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/handyman.html
 name: Handy Man
 rankings:
 - end_date: '1977-06-24'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
 ---
+
+Hey girls, gather round, listen to what I'm putting down
+Hey baby, I'm your handy man
+I'm not the kind to use a pencil or rule, I'm handy with love and I'm no fool
+I fix broken hearts, I know that I truly can
+
+If your broken heart should need repair, then I am the man to see
+I whisper sweet things, you tell all your friends, they'll come running to me
+
+Here is the main thing that I want to say, I'm busy 24 hours a day
+I fix broken hearts, I know that I truly can
+Comma, comma, comma, comma, com, com, yeah, yeah, yeah
+Comma, comma, comma, comma, com, com, oh they'll come running to me
+
+Here is the main thing I want to say, I'm busy 24 hours a day
+I fix broken hearts, baby
+I'm your handy man
+Comma, comma, comma, comma, com, com, yeah, yeah, yeah
+Comma, comma, comma, comma, com, com, yeah, yeah, yeah
+That's me
+Comma, comma, comma, comma, com, com
+I'm your handy man, yeah yeah, yeah
+That's me
+Comma, comma, comma, comma, com, com
+I'm your handy man, yeah yeah, yeah
+
+
 

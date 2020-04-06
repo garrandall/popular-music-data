@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-river-of-dreams-billy-joel
+lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/theriverofdreams.html
 name: The River Of Dreams
 rankings:
 - end_date: '1993-08-06'
@@ -115,4 +116,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
 ---
+
+In the middle of the night
+I go walking in my sleep
+From the mountains of faith
+To a river so deep
+I must be looking for something
+Something sacred I lost
+But the river is wide
+And it's too hard to cross
+
+And even though I know the river is wide
+I walk down every evening and I stand on the shore
+And try to cross to the opposite side
+So I can finally find out what I've been looking for
+
+In the middle of the night
+I go walking in my sleep
+Through the valley of fear
+To a river so deep
+And I've been searching for something
+Taken out of my soul
+Something I would never lose
+Something somebody stole
+
+I don't know why I go walking at night
+But now I'm tired and I don't want to walk anymore
+I hope it doesn't take the rest of my life
+Until I find what it is that I've been looking for
+
+In the middle of the night
+I go walking in my sleep
+Through the jungle of doubt
+To a river so deep
+I know I'm searching for something
+Something so undefined
+That it can only be seen
+By the eyes of the blind
+In the middle of the night
+
+I'm not sure about a life after this
+God knows I've never been a spiritual man
+Baptized by the fire, I wade into the river
+That runs to the promised land
+In the middle of the night
+I go walking in my sleep
+Through the desert of truth
+To the river so deep
+We all end in the ocean
+We all start in the streams
+We're all carried along
+By the river of dreams
+In the middle of the night
+
+
 

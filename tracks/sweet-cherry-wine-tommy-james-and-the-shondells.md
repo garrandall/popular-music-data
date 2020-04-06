@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-cherry-wine-tommy-james-and-the-shondells
+lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/sweetcherrywine.html
 name: Sweet Cherry Wine
 rankings:
 - end_date: '1969-03-28'
@@ -47,4 +48,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
+
+C'mon, everyone, we got to get together now
+Oh, yeah, love's the only thing that matters anyhow
+And the beauty of life
+Can only survive
+If we love one another
+
+Oh, yeah, yesterday my friends were marching out to war
+Oh, yeah, listen, now, we ain't a-marching anymore
+No, we ain't gonna fight
+Only God has the right
+To decide who's to live and die
+
+He gave us sweet cherry wine
+So very fine
+We'll drink it right down
+Pass it all around
+So stimulating, so intoxicating
+Sweet cherry wine
+(All day and night)
+And everybody's gonna feel so fine
+Drinking sweet cherry wine
+Yes, they will
+
+Watch the mountain turn to dust and blow away
+Oh, Lord, you know there's got to be a better way
+And the old masquerade
+Is a no soul parade
+Marchin' through the ruins of time
+
+To save us, he gave us
+Sweet cherry wine
+So very fine
+We'll drink it right down
+Pass it all around
+So stimulating, so intoxicating
+Sweet cherry wine
+Everybody's gonna feel so fine
+Drinking sweet cherry wine
+
+Oh, sweet cherry wine
+So very fine
+We'll drink it right down
+Pass it all around
+So stimulating, so intoxicating
+Sweet cherry wine
+C'mon, drink it with your brother
+Trust in one another
+Yeah, yeah
+We need each other
+Sweet cherry wine
+Drink it right down
+Pass it all around
+People, don't you know
+The cup is running over?
+Yeah, yeah, yeah
+Oh
+Oh
+Come on
+Come on
+Hey (Sweet)
+Ooh
+Ooh
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-maren-morris
+lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/girl.html
 name: GIRL
 rankings:
 - end_date: '2019-02-08'
@@ -91,4 +92,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
 ---
+
+Man, this shit's unflatterin', all up in my head again
+I don't feel myself right now, maybe I should just lay down
+If vanity's my vitamin, well, I don't feel the difference
+I don't like myself right now, gotta find a way out
+
+What you feel is natural
+But I don't wanna feel this anymore
+Pick yourself up off the kitchen floor
+What you waitin' for?
+
+Girl, won't you stop your cryin'?
+I know that you're tryin'
+Everything's gonna be okay
+Baby girl, don't you hang your head low
+Don't you lose your halo
+Everyone's gonna be okay
+Baby girl
+
+Draw your comparisons, tryin' to find who's lesser than
+I don't wanna wear your crown, there's enough to go around
+
+What you feel is natural (Natural)
+You don't gotta put up with this anymore (Anymore)
+Pick yourself up off the kitchen floor (Oh)
+Tell me what you waitin' for?
+
+Girl, won't you stop your cryin'?
+I know that you're tryin'
+Everything's gonna be okay
+Baby girl, don't you hang your head low
+Don't you lose your halo
+Everyone's gonna be okay
+Baby girl
+
+Girl, don't hang your head low
+Don't lose your halo, don't lose your halo
+Girl, don't hang your head low
+Don't lose your halo, oh
+
+Girl, don't you stop your cryin'
+I know that you're tryin'
+Everything's gonna be okay
+Baby girl, don't you hang your head low
+Don't you lose your halo
+Everyone's gonna be okay
+Baby girl, won't you stop your cryin'? (Won't you stop your crying?)
+I know that you're tryin'
+Everything's gonna be okay (Everything's gonna be okay)
+Baby girl, don't you hang your head low
+Don't you lose your halo
+Everyone's gonna be okay (Everyone's gonna be okay)
+Baby girl
+
+Everyone's gonna be okay, baby
+Mm...
+Hoo...
+
+
 

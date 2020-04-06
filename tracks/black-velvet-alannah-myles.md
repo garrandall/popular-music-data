@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-velvet-alannah-myles
+lyrics_url: https://www.azlyrics.com/lyrics/sandithom/blackvelvet.html
 name: Black Velvet
 rankings:
 - end_date: '1990-01-12'
@@ -103,4 +104,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
 ---
+
+Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancing with baby on her shoulder
+The sun is setting like molasses in the sky
+The boy could sing, knew how to move, everything
+Always wanting more, he'd give you longing for
+
+Black velvet and that little boy's smile
+Black velvet with that slow southern style
+A new religion that'll bring you to your knees
+Black velvet if you please
+
+Up in Memphis the music's like a heatwave
+White lightning, bound to drive you wild
+Mama's baby in the heart of every schoolgirl
+"Love me tender" leaves 'em crying in the aisle
+The way he moved, it was a sin, so sweet and true
+Always wanting more, he'd give you longing for
+
+Black velvet and that little boy's smile
+Black velvet with that slow southern style
+A new religion that'll bring you to your knees
+Black velvet if you please
+
+Every song, every word that he sang was so surely
+In a flash he was gone, it happened so soon
+What could you do?
+
+Black velvet and that little boy's smile
+Black velvet with that slow southern style
+A new religion that'll bring you to your knees
+Black velvet if you please
+
+Black velvet and that little boy's smile
+Black velvet with that slow southern style
+A new religion that'll bring you to your knees
+Black velvet if you please, yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bat-country-avenged-sevenfold
+lyrics_url: https://www.azlyrics.com/lyrics/betrayingthemartyrs/batcountry.html
 name: Bat Country
 rankings:
 - end_date: '2005-11-18'
@@ -67,4 +68,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
 ---
+
+He who makes a beast out of himself
+Gets rid of the pain of being a man
+
+Caught here in a fiery blaze, won't lose my will to stay
+I tried to drive all through the night
+The heat stroke ridden weather, the barren empty sights
+No oasis here to see
+The sand is singing deathless words to me
+
+Can't you help me? As I'm startin' to burn
+(All alone)
+Too many doses and I'm starting to get an attraction
+My confidence is leaving me on my own
+(All alone)
+No one can save me and you know I don't want the attention
+
+As I adjust to my new sights
+The rarely tired lights will take me to new heights
+My hand is on the trigger I'm ready to ignite
+Tomorrow might not make it but everything's all right
+
+Mental fiction follow me
+Show me what it's like to be set free
+
+Can't you help me? As I'm startin' to burn
+(All alone)
+Too many doses and I'm starting to get an attraction
+My confidence is leaving me on my own
+No one can save me and you know I don't want the attention
+
+I'm sorry you're not here
+I've been sane too long my vision's so unclear
+Now take a trip with me
+But don't be surprised when things aren't what they seem
+Caught here in a fiery blaze, won't lose my will to stay
+These eyes won't see the same, after I flip today
+Sometimes I don't know why we'd rather live than die
+We look up towards the sky for answers to our lives
+We may get some solutions but most just pass us by
+Don't want your absolution cause I can't make it right
+I'll make a beast out of myself
+Gets rid of all the pain of being a man
+
+Can't you help me? As I'm startin' to burn
+(All alone)
+Too many doses and I'm starting to get an attraction
+My confidence is leaving me on my own
+No one can save me and you know I don't want the attention
+
+So sorry you're not here
+I've been sane too long my vision's so unclear
+Now take a trip with me
+But don't be surprised when things aren't what they seem
+I've known it from the start
+All these good ideas will tear your brain apart
+Scared but you can follow me
+I'm too weird to live but much too rare to die
+
+
 

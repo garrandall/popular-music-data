@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-she-goes-sixpence-none-the-richer
+lyrics_url: https://www.azlyrics.com/lyrics/sixpencenonethericher/thereshegoes.html
 name: There She Goes
 rankings:
 - end_date: '1999-09-17'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
 ---
+
+There she goes
+There she goes again
+Racing through my brain
+And I just can't contain
+This feeling that remains
+
+There she goes
+There she goes again
+Pulsing through my veins
+And I just can't contain
+This feeling that remains
+
+There she goes
+There she goes again
+Racing through my brain
+And I just can't contain
+This feeling that remains
+
+There she goes
+There she goes again
+She calls my name,
+Pulls my train
+No one else could heal my pain
+And I just can't contain
+This feeling that remains
+
+There she goes
+There she goes again
+Chasing down my lane
+And I just can't contain
+This feeling that remains
+
+There she goes
+There she goes
+There she goes
+
+
 

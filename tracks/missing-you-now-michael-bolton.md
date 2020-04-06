@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: missing-you-now-michael-bolton
+lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/missingyounow.html
 name: Missing You Now
 rankings:
 - end_date: '1992-01-31'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
 ---
+
+I talk to you but its not the same as touchin' you
+And every time you whisper my name, I wanna run to you
+We'll be together, it won't be long, it won't be long
+But it feels like forever, and its hard to be strong
+
+
+Baby 'cause I'm missing you now
+And its drivin' me crazy
+How I'm needin' you baby
+I'm missing you now
+Can't wait till I'm alone with you
+To show you how I'm missing you now
+
+Wishin' you were here by my side is all that I can do
+Got my arms around my pillow at night, they should be
+holdin' you
+Thought I was stronger, how could I know, how could
+I know
+I can't take this much longer, its so hard on my soul
+
+
+
+Baby I just can't wait, till I see your face
+Chase away this loneliness inside
+When you're close to my heart, right here in my arms
+Then and only then, will I be satisfied
+I'm missing you now
+We'll be together, it won't be long, it won't be long
+But it feels like forever, and its hard to be strong
+
+
 

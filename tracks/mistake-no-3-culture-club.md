@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mistake-no-3-culture-club
+lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/mistakeno3.html
 name: Mistake No 3
 rankings:
 - end_date: '1984-12-21'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
 ---
+
+You can't bystand all the people
+Stand them on their own
+They will fall to pieces
+So we watch them grow
+Into strange and pretty faces
+I don't know
+Clutching to my lipstick traces
+Watch them go
+Make Mistake Number 3
+It's strange how much it changes
+How they want to know
+How cynical are people
+That's where children go
+Dragged into a conversation
+They can't hold
+It's so sad but it prepares them
+For the mould
+Make Mistake Number 3
+Why is my love like an ocean run dry?
+And why is my love
+such a struggle with life?
+You can't bystand all the people
+Stand them on their own
+They will fall to pieces
+So we watch them grow
+Make Mistake Number 3
+
+
 

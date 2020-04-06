@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-do-ya-think-about-that-montgomery-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/whatdoyathinkaboutthat.html
 name: What Do Ya Think About That
 rankings:
 - end_date: '2007-10-26'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
 ---
+
+I heard it through the grapevine
+My new neighbor don't like my big red barn
+A '47 Ford, bullet holes in the door
+Broke down motor in the front yard
+I got half a mind to paint a plywood sign
+And nail it up on a notty pine tree
+Saying I was here first
+This is my piece of dirt
+And your rambling don't rattle me
+
+Some people care about what other people think
+Worry about what they say
+Let a little gossip
+Coming from a loose lip ruin a perfect day
+Say, blah, blah, blah, just a jacking their jaws
+Got a letta roll off-a my back
+I don't give a dern what other people think
+What do ya think about that
+
+I wear what I want to, overalls work boots
+Crank my music up loud
+Like to sling a little mud in my four wheel drive
+Trek it all into town
+
+Shot a little eight ball down at the pool hall
+Drink a beer with my friends
+Now don't judge me and I won't judge you
+Cause we all get judged in the end
+
+Some people care about what other people think
+Worry about what they say
+Let a little gossip
+Coming from a loose lip ruin a perfect day
+Say, blah, blah, blah, just a jacking their jaws
+Got a letta roll offa my back
+I don't give a dern what other people think
+What do ya think about that
+
+Some people care about what other people think
+Worry about what they say
+Let a little gossip
+Coming from a loose lip ruin a perfect day
+Say, blah, blah, blah, just a jacking their jaws
+Got a letta roll offa my back
+I don't give a dern what other people think
+What do ya think about that
+
+Say, I don't give a damn what other people think
+What do ya think about that
+What do ya think about that
+
+
 

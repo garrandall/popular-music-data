@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lowdown-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/lowdown.html
 name: Lowdown
 rankings:
 - end_date: '1971-05-14'
@@ -39,4 +40,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+
+Oh my
+Life has passed me by
+The country I was brought up in
+Fell apart and died
+Oh no
+Love's no longer there
+Cold wind blew away the sun
+That used to warm the air
+Lowdown
+Ooo! Feelin' pretty bad
+Feelin' like I lost the best friend
+That I ever had
+Lowdown
+Ooo! Got to find a way
+Got to make the people see
+The way I feel today
+
+
 

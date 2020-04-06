@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peaceful-helen-reddy
+lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/peaceful.html
 name: Peaceful
 rankings:
 - end_date: '1973-02-09'
@@ -75,4 +76,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
 ---
+
+In the morning fun when no one will be drinking any more wine
+I'll wake the sun up by givin' him a fresh air full of the wind cup
+And I won't be found in the shadows hiding sorrow
+And I can wait for fate to bring around to me any part of my tomorrow, tomorrow
+
+'cause it's oh, so peaceful here
+There's no one bending over my shoulder
+Nobody breathing in my ear
+Oh, so peaceful here
+
+In the evening shadows are callin' me and the dew settles in my mind
+And I think of friends in the yesterday when my plans were giggled in rhyme
+I had a son while on the run and his love brought a tear to my eye
+And maybe some day he'll up and say "We had a pretty nice time", oh, oh, oh, my
+
+'cause it's oh, so peaceful here
+There's no one bending over my shoulder
+Nobody breathing in my ear
+Oh, so peaceful here
+
+
 

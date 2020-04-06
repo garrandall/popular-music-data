@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-gettin--started-jason-aldean
+lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/justgettinstarted.html
 name: Just Gettin' Started
 rankings:
 - end_date: '2014-10-24'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
 ---
+
+I knew the minute that I picked you up
+It was gonna be a wild ride
+You kissed me like you couldn't get enough
+Barely made it out of your drive
+Burn a little rubber at the red light
+Got a little warnin' from the blue lights
+It's only going on 9 o'clock but
+Feels more like midnight
+
+We ain't even turned up the radio
+Ain't been two miles down the road
+The way you look at me baby I don't know
+If we even gonna make it to the party
+Yeah we got a whole lotta moonlight left
+Already havin' the time of our lives
+And we just gettin' started tonight
+
+Girl you already got the window down
+And you got your seat laid back
+Ain't even make it halfway to town
+And you're already talkin' 'bout a six pack
+Already got your shoes off
+And you're talkin' 'bout slippin' off
+Nah we ain't even found your friends
+And you already wanna get lost
+
+We ain't even turned up the radio
+Ain't been two miles down the road
+The way you look at me baby I don't know
+If we even gonna make it to the party
+Yeah we got a whole lotta moonlight left
+Already havin' the time of our lives
+And we just gettin' started tonight
+
+Ain't had a drink and I'm tore up
+Ain't even had a taste of your love
+But girl the crazy thing is
+We just gettin' warmed up
+
+We ain't even turned up the radio
+Ain't been two miles down the road
+The way you look at me baby I don't know
+If we even gonna make it to the party
+Yeah we got a whole lotta moonlight left
+Already havin' the time of our lives
+And we just gettin' started tonight
+And we just gettin' started tonight
+
+
 

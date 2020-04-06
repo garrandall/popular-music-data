@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stuff-like-that-quincy-jones
+lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/stufflikethat1995version.html
 name: Stuff Like That
 rankings:
 - end_date: '1978-06-16'
@@ -71,4 +72,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
 ---
+
+I walked in the joint
+They were lined up back to back
+Anything you can name, but it ain't no shame
+Ain't no stuff like that
+
+Do it - do it
+Do it - do it
+
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+
+Before my eyes
+Was the promise of paradise
+Is she real, can she feel
+Is she a dream? If ya know what I mean
+'Cause she was built out of
+
+Stuff like that (do it - do it)
+Stuff like that (do it - do it)
+Stuff like that (do it - do it)
+Stuff like that (do it - do it)
+
+I knew I was captured
+By the rhythm of the magic flute
+Pulling and urging me
+To taste the forbidden fruit
+Though I felt naive
+I did not want to leave
+Fever was in the air
+All of a sudden, I didn't care
+No reason why, I just had to testify
+
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+
+Do it - do it (Stuff like that)
+Do it - do it (Stuff like that)
+Do it - do it (Stuff like that)
+Do it - do it (Stuff like that)
+
+I knew I was captured
+By the rhythm of the magic flute
+Pulling and urging me
+To taste the forbidden fruit
+Though I felt naive
+I did not want to leave
+Fever was in the air
+All of a sudden, I didn't care
+No reason why, I just had to testify
+
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+
+All of a sudden, I didn't care
+No reason why, I just had to testify
+
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+What makes you feel like doin' stuff like that?
+
+Do it - do it (Stuff like that)
+Do it - do it (Stuff like that)
+Do it - do it
+Do it - do it (Stuff like that)
+
+Stuff like that
+Stuff like that
+What makes you feel like doin' stuff like that?
+
+
 

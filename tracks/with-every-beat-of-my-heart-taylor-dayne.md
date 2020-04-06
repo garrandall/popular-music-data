@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-every-beat-of-my-heart-taylor-dayne
+lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/witheverybeatofmyheart.html
 name: With Every Beat Of My Heart
 rankings:
 - end_date: '1989-10-27'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
 ---
+
+I keep getting closer
+To the love I know
+I'm ready and willing
+Getting out of control
+You win and you lose some
+But if you stay in the game
+Before you know it
+You'll feel the fire
+But don't get burned by the flame
+You'll find the answer any day
+With every beat of my heart
+I keep getting closer to you
+With every beat of my heart now
+I know we're getting closer
+To love with every beat
+I just wanna know you
+More every day
+And now it won't be long
+Till I hear you say (say it, say it)
+Say that you do boy
+It's just a matter of time
+Before you know it
+You'll feel the fire
+And it's burning deep inside
+You'll find the answer
+In his eyes
+With every beat of my heart
+I keep getting closer to you
+With every beat of my heart now
+I know we're getting closer to love
+With every beat of my heart
+I feel you moving closer to me, oh
+With every beat of my heart
+Baby I know it's becoming reality
+With every beat
+
+
 

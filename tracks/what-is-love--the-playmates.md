@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-is-love--the-playmates
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/thedollhouseisempty.html
 name: What Is Love?
 rankings:
 - end_date: '1959-07-12'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
 ---
+
+Once you used to play a game called break a heart a day
+Little boys were only toys that you would toss away
+Now you want them back again, but they don't wanna play
+The doll house is empty
+
+All the soldiers marched away and they've deserted you
+Even all your puppets cut their strings and left you too
+You've run out of playthings and you don't know what to do
+The doll house is empty
+
+A boy is not a wind-up toy
+You play with once and then destroy
+Love's not something from a Five and Ten
+Boys and toys are not the same
+And you're the only one to blame
+
+If your playmates don't come back again
+Now you know the reason no one wants you anymore
+You are not the little girl that you were once before
+Childhood days are over and the writing's on the door
+The doll house is empty, now.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: east-west-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/eastwest.html
 name: East West
 rankings:
 - end_date: '1966-12-09'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+
+East, west, over the ocean
+Perpetual motion, traveling around
+No rest, singing and playing
+Night out and day in, doing the rounds
+What a great life it must seem
+(What a great life it must seem)
+
+Swell joints, everything classy
+Nothing that's passÃ©, only the best
+Lush girls ogling and eyeing
+Crying and sighing, this is success
+What a great life it must seem
+(What a great life it must seem)
+
+But when I hear young voices singing out
+The bells at home come ringing out
+When I think all alone
+When I think of my home
+
+Mom, dad, all 'round the fire
+In festive attire, keeping the day
+Aunts, kids, all the relations
+Congratulations, this is success
+What a great life it must seem
+(What a great life it must seem)
+
+But when I hear young voices singin' out
+The bells at home start ringing out
+When I feel all alone
+Then I long for my home
+
+
 

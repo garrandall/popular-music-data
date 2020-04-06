@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rainin--in-my-heart-slim-harpo
+lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/rainininmyheart.html
 name: Rainin' In My Heart
 rankings:
 - end_date: '1961-06-04'
@@ -39,4 +40,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
 ---
+
+Rainin' in my heart
+Since we've been apart
+I know I was wrong
+Baby, please come home
+
+You've got me cryin'
+'Bout to lose my mind
+Don't let me cry in vain
+Try my love just once again
+
+Honey, I need your love
+Darlin', and you know why
+If you'll only come back home
+There'll be no need for me to cry
+
+Rainin' in my heart
+Since we been apart
+I know I was wrong
+Baby please come back home
+
+
 

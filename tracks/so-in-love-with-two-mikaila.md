@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-in-love-with-two-mikaila
+lyrics_url: https://www.azlyrics.com/lyrics/mikaila/soinlovewithtwo.html
 name: So In Love With Two
 rankings:
 - end_date: '2000-12-01'
@@ -71,4 +72,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
 ---
+
+My number one: There could never be no one like you
+How come I feel this way about
+My number two: Never tried to tell me what to say or do
+I'm so in love with two
+I don't want to push it
+I don't want to fight
+But this feeling keeps me up all night
+
+If I only could decide
+But I can't make up my mind
+I'm breakin' all my rules because of you
+You can tell me it's not right
+And it tears me up inside
+But the problem is I'm so in love with two
+
+Hey, hey, hey
+I don't know what to do
+Hey, hey, hey
+I choose the both of you
+
+My number one: You give me everything I need
+But some things still are better with
+My number two: He's the one that really makes me feel so good
+I'm so in love with two
+I don't want to push it
+I don't want to fight
+But this feeling keeps me up all night
+
+If I only could decide
+But I can't make up my mind
+I'm breakin' all my rules because of you
+You can tell me it's not right
+And it tears me up inside
+But the problem is I'm so in love with two
+
+But the problem is I'm so in love with two
+
+Hey, hey, hey
+I don't know what to do
+Hey, hey, hey
+I choose the both of you
+
+Don't want to fight another night
+Just want to make it right
+C'mon
+Ooh, my number one, oh, my number two
+Somebody tell me what I'm supposed to do
+My number one, my number two
+Somebody tell me
+I'm so in love with two
+
+If I only could decide
+But I can't make up my mind
+I'm breakin' all my rules because of you
+You can tell me it's not right
+And it tears me up inside
+But the problem is I'm so in love with two
+
+If I only could decide
+But I can't make up my mind
+I'm breakin' all my rules because of you
+You can tell me it's not right
+And it tears me up inside
+But the problem is I'm so in love with two
+
+Hey, hey, hey
+I choose the both of you
+
+
 

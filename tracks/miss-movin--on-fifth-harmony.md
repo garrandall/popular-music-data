@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miss-movin--on-fifth-harmony
+lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/missmovinon.html
 name: Miss Movin' On
 rankings:
 - end_date: '2013-08-09'
@@ -51,4 +52,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
 ---
+
+
+I'm breakin' down
+Gonna start from scratch
+Shake it off like an etch-a-sketch
+My lips are saying goodbye
+My eyes are finally dry
+
+I'm not the way that I used to be
+I took the record off repeat
+It killed me but I survived
+And now I'm coming alive
+
+
+I'll never be that girl again
+No oh oh
+
+My innocence is wearin' thin
+But my heart is growing strong
+So call me, call me, call me
+
+
+Miss movin' on
+Oh oh oh
+
+Yeah.
+
+
+I broke the glass that surrounded me (surrounded me)
+I ain't the way you remember me (remember me)
+I was such a good girl
+So fragile but no more
+
+I jumped the fence to the other side (the other side)
+My whole world was electrified (electrified)
+Now I'm no longer afraid
+It's Independence Day (It's Independence Day)
+
+
+I'll never be that girl again
+No oh oh
+
+My innocence is wearin' thin
+But my heart is growing strong
+So call me, call me, call me
+
+Miss movin' on
+
+
+Everything is changing and I never wanna go back to the way it was (to the way it was)
+I'm finding who I am and who I am from here on out is gonna be enough (is gonna be enough)
+Is gonna be enough
+
+
+I'll never be that girl again
+No oh oh
+
+My innocence is wearin' thin
+But my heart is growing strong
+So call me, call me, call me
+Miss movin' on
+Oh oh oh
+Miss movin' on
+
+(On and on and on and on and on)
+
+
+Miss movin' on
+Oh oh oh
+
+Yeah, I'm movin' on
+
+
 

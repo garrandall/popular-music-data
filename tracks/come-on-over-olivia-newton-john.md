@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-over-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/comeonover.html
 name: Come On Over
 rankings:
 - end_date: '1976-03-19'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
 ---
+
+If my life gets like a jigsaw
+With the pieces out of place
+Come on over
+Put a smile back on my face
+And if all my bad days came at once
+You would know just what to do
+Come on over
+Baby, you would see me through
+
+And if you think I need you
+Come on over
+Bring your love around
+You can dry away my tears
+And if you think I need you
+Come on over
+Lay your body down
+You know I will be here
+So bring your love around
+
+When I cannot see in front of me
+And I know my darkest day
+Come on over
+You can take it all away
+
+And if you think I need you
+Come on over
+Bring your love around
+You can wipe away my tears
+And if you think I need you
+Come on over
+Lay your body down
+You know I will be here
+So bring your love around
+
+If you think
+If you think I need you
+Come on over
+
+
 

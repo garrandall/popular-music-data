@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: damn-i-wish-i-was-your-lover-sophie-b--hawkins
+lyrics_url: https://www.azlyrics.com/lyrics/halestorm/damniwishiwasyourlover.html
 name: Damn I Wish I Was Your Lover
 rankings:
 - end_date: '1992-04-24'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
 ---
+
+That old dog has chained you up all right
+Give you everything you need
+To live inside a twisted cage
+Sleep beside an empty rage
+Sleep beside in empty rage
+I had a dream I was your hero
+
+Damn I wish I was your lover
+I'd rock you till the daylight comes
+Make sure you are smiling and warm
+I am everything
+Tonight I'll be your mother
+I'll do such things to ease your pain
+Free your mind and you won't feel ashamed
+Open up gonna come inside
+Gonna fill you up
+Make you cry
+
+This bloke can't stand to see you black and blue
+I give you something sweet each time you
+Come inside my jungle book
+It's just too good
+Don't say you'll stay
+Cause then you go away
+
+Damn I wish I was your lover
+I'll rock you till the daylight comes
+Make sure you are smiling and warm
+I am everything
+Tonight I'll be your mother
+I'll do such things to ease your pain
+Free your mind and you won't feel ashamed
+Shucks
+For me there is no other
+You're the only shoe that fits
+I can't imagine I'll grow out of it
+Damn I wish I was your lover
+
+If I was your girl believe me
+I'd turn on the Rolling Stones
+We could groove along and feel much better
+Let me in
+I could do it forever and ever, ever n' ever
+Give me an hour to kiss you
+Walk through heaven's door I'm sure
+We don't need no doctor to feel much better
+Let me in
+Forever and ever and ever and ever
+
+I sat on the mountainside with peace of mind
+I lay by the ocean making love to her with visions clear
+Walked for days with no one near
+And I return as chained and bound to you
+
+Damn I wish I was your lover
+I'll rock you till the daylight comes
+Make sure you are smiling and warm
+I have everything
+Tonight I'll be your mother
+I'll do such things to ease your pain
+Free your mind and you won't feel ashamed
+Shucks for me there is no other
+You're the only shoe that fits
+I can't imagine I'll grow out of it
+Damn I wish I was your lover
+Open up gonna come inside
+Gonna fill you up
+Make you cry
+
+
 

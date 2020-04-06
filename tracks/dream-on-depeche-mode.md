@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-on-depeche-mode
+lyrics_url: https://www.azlyrics.com/lyrics/depechemode/dreamon.html
 name: Dream On
 rankings:
 - end_date: '2001-05-18'
@@ -47,4 +48,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
 ---
+
+As your bony fingers close around me
+Long and spindly
+Death becomes me
+Heaven can you see what I see
+
+Hey you pale and sickly child
+You're death and living reconciled
+Been walking home a crooked mile
+
+Paying debt to karma
+You party for a living
+What you take won't kill you
+But careful what you're giving
+
+There's no time for hesitating
+Pain is ready, pain is waiting
+Primed to do it's educating
+
+Unwanted, uninvited kin
+It creeps beneath your crawling skin
+It lives without it lives within you
+
+Feel the fever coming
+You're shaking and twitching
+You can scratch all over
+But that won't stop you itching
+
+Can you feel a little love
+Can you feel a little love
+
+Dream on dream on
+
+Blame it on your karmic curse
+Oh shame upon the universe
+It knows its lines
+It's well rehearsed
+
+It sucked you in, it dragged you down
+To where there is no hallowed ground
+Where holiness is never found
+
+Paying debt to karma
+You party for a living
+What you take won't kill you
+But careful what you're giving
+
+Can you feel a little love
+Can you feel a little love
+
+Dream on dream on
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: infatuation-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/infatuation.html
 name: Infatuation
 rankings:
 - end_date: '1984-06-01'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
 ---
+
+Early in the morning I can't sleep
+I can't work and I can't eat
+I've been drunk all day, can't concentrate
+Maybe I'm making a big mistake
+
+Caught me down like a killer shark
+It's like a railroad running right through my heart
+Jekyll and Hyde the way I behave
+Feel like I'm running on an empty gauge
+
+Oh no not again
+It hurts so good
+I don't understand
+Infatuation
+Infatuation
+Infatuation
+Infatuation
+
+Heart beats silly like a big bass drum
+Losing all equilibrium
+It's so hard in the middle of the week
+Maybe this woman's just all I need
+
+Oh no not again
+It hurts so good
+I don't understand
+Infatuation
+Infatuation
+Infatuation
+Infatuation
+'Fatuate me baby
+
+Spirits soar when I'm by her side
+She put a little love in this heart of mine
+Maybe I'm lucky, maybe I'm freed
+Maybe this woman's just all I need
+
+Oh no not again
+It hurts so good
+I don't understand
+Infatuation
+Infatuation
+Infatuation
+Infatuation
+Rev it up
+
+
 

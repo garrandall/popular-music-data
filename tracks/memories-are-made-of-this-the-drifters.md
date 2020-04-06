@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: memories-are-made-of-this-the-drifters
+lyrics_url: https://www.azlyrics.com/lyrics/drifters/memoriesaremadeofthis.html
 name: Memories Are Made Of This
 rankings:
 - end_date: '1966-03-25'
@@ -35,4 +36,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+
+Take one fresh and tender kiss
+(Sweet sweet, the memories you gave to me, yeah)
+Add one stolen night of bliss
+(How sweet, the memories you gave to me, oh)
+Oh, one girl, one boy, some grief, some joy
+Memories are made of this
+(Sweet sweet, the memories you gave to me)
+(How sweet, the memories you gave to me)
+
+Don't forget a small moonbeam
+(Sweet sweet, the memories you gave to me)
+Fold in lightly with a dream
+(How sweet, the memories you gave to me)
+Oh, your lips and mine, two sips of wine
+Memories are made of this
+(Sweet sweet, the memories you gave to me)
+(How sweet, the memories you gave to me)
+
+Then add the wedding bells
+One house where lovers dwell
+Three little kids for the flavor
+Stir carefully through the days
+See how the flavor stays
+These are the dreams you will savor
+(Sweet sweet, the memories you gave to me)
+
+With His blessings from above
+(Sweet sweet, the memories you gave to me, yeah)
+Serve it generously with love
+(How sweet, the memories you gave to me, oh)
+Hmm, one man, one wife, one love through life
+Memories are made of this
+(Sweet sweet, the memories you gave to me, yeah)
+
+Memories are made of this
+(How sweet, the memories you gave to me, oh)
+(Sweet sweet, the memories you gave to me, yeah)
+Oh, memories are made of this
+(How sweet, the memories you gave to me, oh)
+(Sweet sweet, the memories you gave to me, yeah)
+Memories are made of this
+(How sweet, the memories you gave to me, oh)
+
+
 

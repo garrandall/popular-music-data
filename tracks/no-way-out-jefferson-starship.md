@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-way-out-jefferson-starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/nowayout.html
 name: No Way Out
 rankings:
 - end_date: '1984-05-18'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
 ---
+
+No intentions 
+Whatsoever 
+I was gone for a night 
+Nothing's forever 
+The cruel daylight 
+Brought me back to my senses 
+(Back to my senses) 
+Got caught in here 
+Under false pretenses 
+
+No way out 
+None whatever 
+I made up the story 
+Thought it was clever 
+She didn't ask 
+And I got no reply 
+(Got no reply) 
+But later that night 
+I heard her cry 
+
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+
+No accusations 
+Whatsoever 
+But can she forget 
+Nothing's forever 
+Since yesterday 
+She's a little bit colder 
+(Little bit colder) 
+Won't happen again 
+What could I've told her 
+
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+Doesn't buy my story 
+
+How can she tell the truth from the lies 
+How does she know when to close her eyes 
+She doesn't want to lose me 
+So she only sees what she wants to see 
+
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+No way out 
+She doesn't buy my story 
+No way out 
+No way out 
+No way out
+
+
 

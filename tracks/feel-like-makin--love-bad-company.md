@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-like-makin--love-bad-company
+lyrics_url: https://www.azlyrics.com/lyrics/badcompany/feellikemakinlove.html
 name: Feel Like Makin' Love
 rankings:
 - end_date: '1975-07-11'
@@ -67,4 +68,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
 ---
+
+Baby, when I think about you, I think about love
+Darlin', don't live without you and your love
+If I had those golden dreams of my yesterdays
+I would wrap you in the Heaven 'til I'm dyin' on the way
+
+Feel like makin'
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love to you
+
+Baby, if I think about you, I think about love
+Darlin' if I live without you, I live without love
+And if I had the sun and moon, we will shine them
+I would give you both night and day of satisfyn'
+
+Feel like makin'
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love to you
+
+And if I had those golden dreams of my yesterdays
+I would wrap you in the Heaven 'til I'm dyin' on the way
+
+Feel like makin'
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love
+Feel like makin' love to you
+
+Well I feel like makin' love
+Well I feel like makin' love
+Well I feel like makin' love
+Feel like makin' love to you
+
+Well I feel like makin' love
+Well I feel like makin' love
+Well I feel like makin' love
+Feel like makin' love to you
+
+Well I feel like makin' love
+Well I feel like makin' love
+Well I feel like makin' love
+Feel like makin' love to you
+
+Well I feel like makin' love
+
+
 

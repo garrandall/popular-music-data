@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-happiness-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/myhappiness.html
 name: My Happiness
 rankings:
 - end_date: '1958-12-14'
@@ -79,4 +80,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
+
+Evening shadows make me blue
+When each weary day is through
+How I long to be with you, my happiness
+
+Every day I reminisce
+Dreaming of your tender kiss
+Always thinking how I miss my happiness
+
+A million years it seems
+Have gone by since we shared our dreams
+But I'll hold you again
+There'll be no blue memories then
+
+Whether skies are gray or blue
+Any place on earth will do
+Just as long as I'm with you, my happiness
+
+Whether skies are gray or blue
+Any place on earth will do
+Just as long as I'm with you, my happiness
+
+
 

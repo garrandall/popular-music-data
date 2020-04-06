@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: louisiana-man-bobbie-gentry
+lyrics_url: https://www.azlyrics.com/lyrics/mercuryrev/louisianaman.html
 name: Louisiana Man
 rankings:
 - end_date: '1968-04-26'
@@ -11,4 +12,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
 ---
+
+At first Mom and Poppa called the little girl, Lady
+They raised her on the banks of a river bed
+A house boat tied to a big tall tree
+A home for my poppa and my momma and me
+
+The clock strikes three Poppa jumps to his feet
+Already Moma's cookin' Poppa somethin' to eat
+At half past Poppa he's a ready to go
+He jumps in his pirogue headed down the bayou
+
+He's got fishin' line strung across the Louisiana River
+He's gotta catch a big fish for us to eat
+He's settin' his traps catchin' anything he can
+He's gotta make a livin', he's a Louisiana man
+He's gotta make a livin', he's a Louisiana man
+
+Muskrat hides hangin' by the dozen
+Even got a little bitty muskrat cousin
+Got 'em out dryin' in the hot hot sun
+Tomorrow Poppa's gone turn 'em into money
+
+They call Momma Rita and my Daddy Jack
+My little baby brother on the floor that's Mac
+Rhett and Lynn are the family twins
+Big brother Eddie's on the bayou fishin'
+
+On the river floats Poppa's great big boat
+That's how me and Poppa get in to town
+It takes every bit of a night and day
+To even reach a place where the people stay
+
+Oh I can hardly wait until tomorrow comes around
+That's the day my Poppa takes the furs to town
+Poppa done promised me that I could go
+He'd even let me see a cowboy show
+
+I saw the cowboys and injuns for the first time then
+I told my Poppa "gotta go again"
+But Poppa says "Hon we got lines to run
+We'll have to come again 'cause there's work to be done."
+
+He's got fishin' line strung across the Louisiana River
+He's gotta catch a big fish for us to eat
+He's settin' his traps catchin' anything he can
+He's gotta make a livin', he's a Louisiana man
+He's gotta make a livin', he's a Louisiana man
+
+
 

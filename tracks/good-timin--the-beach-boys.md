@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-timin--the-beach-boys
+lyrics_url: https://www.azlyrics.com/lyrics/beachboys/goodtimin.html
 name: Good Timin'
 rankings:
 - end_date: '1979-05-04'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
 ---
+
+Good good timin'
+Good good timin'
+Ahhhh Ahhhh
+You need good timin'
+Good good timin'
+
+All us people
+Now we're just livin'
+The world keeps turnin'
+And we're all learnin'
+
+About
+Good good timin'
+Good good timin'
+Ahhhh Ahhhh
+You need good timin'
+It takes good timin'
+You need good timin'
+Good good timin'
+
+We're all goin' places
+Sharin' each other
+A celebration
+Of being together
+
+I love
+Good good timin'
+Good good timin'
+Ahhhh Ahhhh
+You need good timin'
+It takes good timin'
+You need good timin'
+Yeah
+Good good timin'
+
+Dow dow
+Dow dow dow
+Dow dow
+Dow dow dow dow
+You need good timin'
+It takes good timin'
+You need good timin'
+Yeah
+Good good timin'
+
+
 

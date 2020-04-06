@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money-honey-bay-city-rollers
+lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/honeydontleavela.html
 name: Money Honey
 rankings:
 - end_date: '1976-02-13'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
 ---
+
+So I come to play the love in New York
+Where it was covered in snow, what a time to show
+Still said it was new to me
+And it was good to be there
+It was like a fantasy
+Though I was in it going to California
+The music business is in L.A.
+And the money is there, they say
+So I packed my bags again
+And we came into L.A.
+To see the warmer day than we had seen in New York
+Like I'd come to stay
+I met a friend of mine who took me on home
+And I heard her say, she said
+
+Honey, no, don't leave L.A. you're just a lonely driver
+Driving till the other end
+This lonely race that you're in
+She said now, honey, no no no don't leave L.A.
+You're just a lonely rider looking for something to ride
+Honey, don't leave L.A.
+
+After hitching a ride into Hollywood
+Just to see the famous scene I understood
+Spent the nights with the girl that I knew
+I knew that I was getting to know
+With all the things we knew
+So I got into her and she got into me
+Ooh we was living out of money, you know
+I got a feeling that came right through to me
+When that woman took me by the hand
+And she said
+
+Honey, don't leave L.A. you're just a lonely driver
+Driving till the other end
+This lonely race that you're in
+She said now, honey, no no no don't leave L.A.
+You're just a lonely rider looking for something to ride
+Honey, don't leave L.A.
+
+And she said Honey, no, don't leave L.A. you're just a lonely driver
+Driving till the other end
+This lonely race that you're in
+She said now, honey, no no no don't leave L.A.
+You're just a lonely rider looking for something to ride
+And I heard hear say Honey, don't you leave L.A.
+You're just a lonely rider looking for something to ride
+Honey, don't leave L.A.
+Honey, don't you ever leave L.A.
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: venus-bananarama
+lyrics_url: https://www.azlyrics.com/lyrics/bananarama/venus.html
 name: Venus
 rankings:
 - end_date: '1986-07-04'
@@ -83,4 +84,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
 ---
+
+Goddess on the mountain top
+Burning like a silver flame
+The summit of beauty and love
+And Venus was her name
+
+She's got it
+Yeah, baby, she's got it
+I'm your Venus, I'm your fire
+At your desire
+Well, I'm your Venus, I'm your fire
+At your desire
+
+Her weapons were her crystal eyes
+Making every man mad
+Black as the dark night she was
+Got what no one else had
+Wah!
+
+She's got it
+Yeah, baby, she's got it
+I'm your Venus, I'm your fire
+At your desire
+Well, I'm your Venus, I'm your fire
+At your desire
+
+Venus
+
+She's got it
+Yeah, baby, she's got it
+I'm your Venus, I'm your fire
+At your desire
+Well, I'm your Venus, I'm your fire
+At your desire
+
+Goddess on the mountain top
+Burning like a silver flame
+The summit of beauty and love
+And Venus was her name
+Wah!
+
+She's got it
+Yeah, baby, she's got it
+I'm your Venus, I'm your fire
+At your desire
+Well, I'm your Venus, I'm your fire
+At your desire
+
+Venus was her name
+
+Yeah baby she's got it
+Yeah baby she's got it
+Yeah baby she's got it
+Yeah baby she's got it
+
+
 

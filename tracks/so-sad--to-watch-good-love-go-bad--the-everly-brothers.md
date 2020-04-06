@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-sad--to-watch-good-love-go-bad--the-everly-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/sosadtowatchgoodlovegobad.html
 name: So Sad (To Watch Good Love Go Bad)
 rankings:
 - end_date: '1960-09-11'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
 ---
+
+We used to have good times together
+But now I feel them slip away
+It makes me cry to see love die
+So sad to watch good love go bad
+
+Remember how you used to feel dear?
+You said nothing could change your mind
+It breaks my heart to see us part
+So sad to watch good love go bad
+
+Is it any wonder
+That I feel so blue
+When I know for certain
+That I'm losing you
+
+Remember how you used to feel dear?
+You said nothing could change your mind
+It breaks my heart to see us part
+So sad to watch good love go bad
+So sad to watch good love go bad
+
+
 

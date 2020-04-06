@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: t-shirt-shontelle
+lyrics_url: https://www.azlyrics.com/lyrics/shontelle/tshirt.html
 name: T-Shirt
 rankings:
 - end_date: '2008-09-26'
@@ -75,4 +76,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
 ---
+
+Let me tell you no
+Ooh, baby
+
+Tryna decide, tryna decide
+If I really wanna go out tonight
+I never used to go out without you
+Not sure I remember how to
+
+Gonna be late, gonna be late
+But, all my girls gon' have to wait
+'Cause I don't know if I like my outfit
+I tried everything in my closet
+
+Nothing feels right when I'm not with you
+Sick of this dress and these Jimmy Choos
+Takin' them off 'cause I feel a fool
+Tryna dress up when I'm missing you
+
+I'mma step out of this lingerie
+Curl up in a ball with something Hanes
+In bed I lay
+
+With nothing but your T-shirt on
+With nothing but your T-shirt on
+
+Gotta be strong, gotta be strong
+But I'm really hurting now that you're gone
+I thought maybe I'd do some shopping
+That's right
+But I couldn't get past the door
+
+And now I don't know, now I don't know
+If I'm ever really gonna let you go
+And I couldn't even leave my apartment
+I'm stripped-down, torn-up about it
+
+Now nothing feels right when I'm not with you
+Sick of this dress and these Jimmy Choos
+Takin them off 'cause I feel a fool
+Tryna dress up when I'm missing' you
+
+I'mma step out of this lingerie
+Curl up in a ball with something Hanes
+In bed I lay
+
+With nothing but your T-shirt on
+I'm all by myself
+With nothing but your T-shirt on
+
+With nothing but your T-shirt on
+'Cause I missed you, 'cause I missed you
+With nothing but your T-shirt on
+Said I missed you, baby
+
+Tryna decide, tryna decide
+If I really wanna go out tonight
+I couldn't even leave my apartment
+I'm stripped-down, torn-up about it
+
+'Cause nothing feels right when I'm not with you
+Sick of this dress and these Jimmy Choos
+Taking them off 'cause I feel a fool
+Tryna dress up when I'm missing you
+
+I'mma step out of this lingerie
+Curl up in a ball with something Hanes
+In bed I lay
+
+Nothing feels right when I'm not with you
+Sick of this dress and these Jimmy Choos
+Taking them off 'cause I feel a fool
+Tryna dress up when I'm missing you
+'Cause I miss you
+
+I'mma step out of this lingerie
+Curl up in a ball with something Hanes
+I miss you if you do
+In bed I lay
+I'mma be in bed
+
+With nothing but your T-shirt on
+Said I got nothing but your T-shirt on
+'Cause I wanna be close to you
+With nothing but your T-shirt on
+I remember when you would like to see me
+With nothing but your T-shirt on
+
+Nothing but your T-shirt on
+Let me tell you no
+Nothing but your T-shirt on
+With nothing but your T-shirt on
+Nothing but your T-shirt on
+Nothing feels right
+With nothing but your T-shirt on
+
+
 

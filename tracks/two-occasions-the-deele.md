@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-occasions-the-deele
+lyrics_url: https://www.azlyrics.com/lyrics/junesdiary/twooccasions.html
 name: Two Occasions
 rankings:
 - end_date: '1988-03-04'
@@ -91,4 +92,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
 ---
+
+Oh baby
+A summer love is beautiful
+But it's not enough
+To satisfy emotions
+That are shared between us
+A winter love is cozy
+But I need so much more
+It intensifies my wants
+To have a love that endures
+
+Cause every time I close my eyes
+I think of you
+And no matter what the season is
+I still love you
+With all my heart
+I wanna be with you
+Wherever you are
+
+I only think of you on two occasions
+That's day and night
+I need your love
+I'd go for broke
+If I could be with you (yeah)
+Only you can make it right
+(Make it right, make it right baby)
+
+An autumn love is special
+At this time of the year
+But when the leaves are gone
+Does that love disappear
+I never underestimate the love of spring
+But I'm glad to say in my heart
+I know my love's lasting
+
+Cause every time I close my eyes
+I think of you
+No matter what the season is
+I still love you
+With all my heart
+And I wanna be with you
+Wherever you are
+
+I only think of you on two occasions (two occasions)
+That's day and night (day and night baby)
+I'd go for broke (I'd go for broke)
+If I could be with you (if I could be with you babe)
+Only you can make it right (only you can make it right)
+(Oh yeah yeah yeah yeah I only think of you)
+I only think of you on two occasions (7 days a week yeah)
+That's day and night (day and night)
+I'd go for broke if I could be with you
+Only you can make it right (make it right, make it right)
+
+Every time I close my eyes
+I think of you
+No matter what the season is
+I love you
+With all my heart
+I wanna be with you (I wanna be with you)
+Wherever (wherever)
+You are
+
+I only think of you on two occasions
+That's day and night (that's day and night)
+I need your love
+I'd go for broke
+If I could be with you
+Only you can make it right (I can make it right)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rise-above-this-seether
+lyrics_url: https://www.azlyrics.com/lyrics/seether/riseabovethis.html
 name: Rise Above This
 rankings:
 - end_date: '2008-05-09'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
 ---
+
+Take the light, and darken everything around me
+Call the clowns and listen closely, I'm lost without you
+
+Call your name every day when I feel so helpless
+I'm fallen down but I'll rise above this, rise above this
+
+Hate the mind, regrets are better left unspoken
+For all we know, this void will grow
+Everything's in vain, distressing you though it leaves me open
+Feels so right, but I'll end this all before it gets me
+
+Call your name every day, when I feel so helpless
+I've fallen down (fallen down), but I'll rise above this, rise above this
+Call your name everyday, when I seem so helpless
+I've fallen down (fallen down), and I'll rise above this, rise above this doubt
+
+I'll mend myself before it gets me
+(I'll mend myself before it gets me)
+I'll mend myself before it gets me
+(I'll mend myself before it gets me)
+
+Call your name every day, when I feel so helpless
+I've fallen down but I'll rise above this, rise above this
+Forty-eight ways to say that I'm feelin' helpless
+I've falling down, falling down, but I'll rise above this, rise above this, rise above this, rise above this doubt
+
+
 

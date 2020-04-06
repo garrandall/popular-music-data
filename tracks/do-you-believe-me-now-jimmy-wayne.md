@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-believe-me-now-jimmy-wayne
+lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/doyoubelievemenow.html
 name: Do You Believe Me Now
 rankings:
 - end_date: '2008-08-08'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
 ---
+
+Do you remember
+The day I turned to you and said I didn't like the way he was looking at you
+Yeah
+How he made you laugh
+You just couldn't get what I was saying
+It was my imagination
+
+
+So do you believe me now
+I guess I really wasn't that crazy
+And I knew what I was talking bout
+Every time the sun goes down
+He's the one that's holding you baby
+Yeah me I'm missin you way across town
+So do you believe me now
+I'm kicking myself
+For being the one foolish enough giving him the chance to step in my shoes
+Ohhh
+He was bidin his time
+When he saw our love was having a moment of weakness
+He was there between us
+
+
+So do you believe me now
+I guess I really wasn't that crazy
+And I knew what I was talking bout
+Every time the sun goes down
+He's the one that's holding you baby
+Yeah me I'm missin you way across town
+So do you believe me now
+Oh yeah I bet now you see the light
+Oh yeah what's the use in being right
+We're not the lonely one tonight
+
+
+So do you believe me now
+I guess I really wasn't that crazy
+And I knew what I was talking bout
+Every time the sun goes down
+He's the one that's holding you baby
+Yeah me I'm missin you way across town
+So do you believe me now
+Yeah
+So do you believe me now
+Yeah
+Every time the sun goes down
+He's the one that's holding you baby
+Yeah me I'm missin you way across town
+So do you believe me now
+
+
 

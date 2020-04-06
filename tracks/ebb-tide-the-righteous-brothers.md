@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ebb-tide-the-righteous-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/ebbtide.html
 name: Ebb Tide
 rankings:
 - end_date: '1965-12-10'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
 ---
+
+First the tide rushes in
+Plants a kiss on the shore
+Then rolls out to sea and the sea is very still once more
+So I rush to your side
+Like the oncoming tide with one burning thought
+Will your arms open wide?
+At last we're face to face
+And as we kiss through an embrace
+I can tell, I can feel
+You are love, you are real
+Really mine in the rain, in the dark, in the sun
+Like the tide at its ebb
+I'm at peace in the web of your arms
+Ebb tide
+
+
 

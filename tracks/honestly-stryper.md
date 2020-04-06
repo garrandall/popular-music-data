@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honestly-stryper
+lyrics_url: https://www.azlyrics.com/lyrics/stryper/honestly.html
 name: Honestly
 rankings:
 - end_date: '1987-11-13'
@@ -83,4 +84,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
 ---
+
+
+Honestly, I believe in you 
+Do you trust in me 
+Patiently, I will stand by you 
+I will stand beside you faithfully 
+
+
+And through the years 
+I will be a friend 
+For always and forever 
+
+
+Call on me and I'll be there for you 
+I'm a friend who always will be true 
+And I love you can't you see 
+That I can say I love you honestly 
+
+
+
+
+Call on me and I'll be there for you 
+I'm a friend who always will be true 
+And I love you can't you see 
+That I love you honestly 
+I will never betray your trust in me 
+And I love you can't you see 
+That I can say I love you honestly
+
+
 

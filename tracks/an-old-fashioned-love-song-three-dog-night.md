@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: an-old-fashioned-love-song-three-dog-night
+lyrics_url: https://www.azlyrics.com/lyrics/paulwilliams/anoldfashionedlovesong.html
 name: An Old Fashioned Love Song
 rankings:
 - end_date: '1971-11-19'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+
+Just an old fashioned love song playing on the radio
+And wrapped around the music is the sound of someone promising they'll never go
+You'll swear you've heard it before as it slowly rambles on and on
+No need in bringing 'em back 'cause they've never really gone
+
+Just an old fashioned love song
+Coming down in three part harmony
+Just an old fashioned love song
+One I'm sure they wrote for you and me
+
+To weave our dream upon and listen to each evening when the lights are low
+To underscore our love affair with tenderness and feelings that we've come to know
+You'll swear you've heard it before as it slowly rambles on and on
+No need in bringing 'em back 'cause they've never really gone
+
+Just an old fashioned love song
+Coming down in three part harmony
+Just an old fashioned love song
+One I'm sure they wrote for you and me
+
+
 

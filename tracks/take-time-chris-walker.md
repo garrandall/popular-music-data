@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-time-chris-walker
+lyrics_url: https://www.azlyrics.com/lyrics/chriswalker/taketime.html
 name: Take Time
 rankings:
 - end_date: '1992-03-20'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-07-11'
 ---
+
+Take time, show me, love me
+You know what I won't treat you good
+Take time, show me, love me
+
+You, the thought of you, brings happiness to me
+I can't deny it no more, you mean more than the world to me
+In every word that you say, in everything that you do
+I want you to know, my heart belongs to you and there's no
+
+No need to play along
+It's not like we don't know what's going on
+There's one thing that I want you to do for me and that is
+
+Take time, show me, how much you love me, oh
+Take time, show me, how much you love me
+
+You, what I see in you, you're so good to me
+I just can't fight it no more, telling me that you'll always be
+For every time you pass my way, something inside that makes me sing
+I want you to know, my heart belongs to you there's no
+
+No need to play along
+It's not like we don't know what's going on
+There's one thing that I want you to do for me
+
+Take time, show me, how much you love me
+I want to just take time, show me, how much you love me
+
+I'll take the time to show how much I care
+My dear, come here, don't blush, let me kiss you on your ear
+You've been so good from the start
+I think it's about time that I gave you my heart
+
+So here, take it, well baby please don't break it
+And I will do for you and anything for us to make it
+You know you are the one, the one I want to wait for
+In fact baby, here's the key to my front door
+
+Take time, show me, love me
+You got me singin'
+Take time, show me, love me
+
+You, for every time you pass my way
+Something inside that makes me sing
+I want you to know my heart belongs to you
+B-b-b, ooh
+
+Take time, show me, love me
+Show me that you need me, yeah yeah
+Take time, show me, love me
+I need you, I can't live without you
+
+Take time, show me, love me
+Just a little more time and show me, yeah
+Take time, show me, love me
+That you love me
+
+Take time, show me, love me
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-bamba-ritchie-valens
+lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/labamba.html
 name: La Bamba
 rankings:
 - end_date: '1959-01-04'
@@ -67,4 +68,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa(ra) mi pa(ra) ti
+
+Arriba y arriba
+Y arriba y arriba, por ti sere
+Por ti sere
+Por ti sere
+
+Yo no soy marinero
+Yo no soy marinero, soy capitan
+Soy capitan
+Soy capitan
+
+Ba-ba-bamba
+Ba-ba-bamba
+Ba-ba-bamba
+Ba
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa(ra) mi pa(ra) ti
+Arriba, arriba
+
+R-r-r-r-r, haha!
+
+Para bailar la bamba
+Para bailar la bamba
+Se necesita una poca de gracia
+Una poca de gracia pa(ra) mi pa(ra) ti
+
+Arriba y arriba
+Y arriba y arriba, por ti sere
+Por ti sere
+Por ti sere
+
+Ba-ba-bamba
+Ba-ba-bamba
+Ba-ba-bamba
+
+
 

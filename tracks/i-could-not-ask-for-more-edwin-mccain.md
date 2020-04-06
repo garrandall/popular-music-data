@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-could-not-ask-for-more-edwin-mccain
+lyrics_url: https://www.azlyrics.com/lyrics/edwinmccain/icouldnotaskformore.html
 name: I Could Not Ask For More
 rankings:
 - end_date: '1999-07-02'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-06'
 ---
+
+Lying here with you 
+Listening to the rain 
+Smiling just to see the smile upon your face 
+These are the moments I thank God that I'm alive 
+These are the moments I'll remember all my life 
+I found all I've waited for 
+And I could not ask for more 
+Looking in your eyes 
+Seeing all I need 
+Everything you are is everything to me 
+These are the moments 
+I know heaven must exist 
+These are the moments I know all I need is this 
+I have all I've waited for 
+And I could not ask for more 
+
+
+I could not ask for more than this time together 
+I could not ask for more than this time with you 
+Every prayer has been answered 
+Every dream I have's come true 
+And right here in this moment is right where I'm meant to be 
+Here with you here with me 
+
+These are the moments I thank God that I'm alive 
+These are the moments I'll remember all my life 
+I've got all I've waited for 
+And I could not ask for more 
+
+
+
+I could not ask for more than the love you give me
+'Coz it's all I've waited for 
+And I could not ask for more 
+I could not ask for more
+
+
 

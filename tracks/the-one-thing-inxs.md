@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-thing-inxs
+lyrics_url: https://www.azlyrics.com/lyrics/inxs/theonething.html
 name: The One Thing
 rankings:
 - end_date: '1983-04-01'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
 ---
+
+Well you know just what you do to me
+The way you move soft and slippery
+Cut the night just like a razor
+Rarely talk and that's the danger
+
+It's the one thing
+You are my thing
+
+You know your voice is a love song
+It's a cat call from the past
+There's no ice in your lover's walk
+You don't look twice cause you move so fast
+
+It's the one thing
+You are my thing
+
+You've got a dozen men behind you
+You've got dead flowers on the floor
+You're too pretty in the daylight
+It keeps them coming back for more
+
+It's the one thing
+You are my thing
+
+It's the one thing
+You are my thing
+
+It's the one thing
+You are my thing
+
+
 

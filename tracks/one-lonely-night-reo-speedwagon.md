@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-lonely-night-reo-speedwagon
+lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/onelonelynight.html
 name: One Lonely Night
 rankings:
 - end_date: '1985-04-05'
@@ -71,4 +72,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
 ---
+
+You and your baby had some words today
+Til not another word was left to say
+I see that grin boy
+Maybe you think you'll win boy
+Until the sun goes down and once again boy
+
+
+One lonely night
+One lonely night
+That's all it takes to completely break you
+
+They say it's darkest right before the dawn
+But oh those darkest hours can be so long
+You're feelin' strong boy
+Tellin' yourself she's wrong boy
+But how much longer can this night go on boy
+
+
+
+Ooh she's such a good find
+Have you gone and lost your mind
+You should know she's one of a kind
+
+
 

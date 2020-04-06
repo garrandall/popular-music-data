@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-and-on-gladys-knight-and-the-pips
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/neitheroneofuswantstobethefirsttosaygoodbye.html
 name: On And On
 rankings:
 - end_date: '1974-05-31'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
 ---
+
+It's sad to think we're not gonna be here
+And it's gotten to the point
+Where we just can't fake it
+For some ungodly reason
+We just won't let it be
+
+I guess neither one of us
+Neither one of us wants to be the first to say good-bye
+
+I keep wondering
+Wondering
+What I'm gonna do without you
+And I guess you must be wondering the same thing too
+So we go on
+Go on together
+Living a lie
+
+Everytime I find the nerve
+Everytime I find the nerve to say I'm leaving
+Memories
+Those old memories get in my way
+Lord knows it's only me
+Only know it's me
+That I'm missing you
+When it comes to saying good-bye
+That a simple word that I just cannot say
+There can be no way
+There can be no way
+This can have a happy ending
+No, no
+So we just go on
+Hurting and pretending
+Convincing ourselves to give it just one more try
+
+Neither one of us wants to be the first to say
+Neither one of us wants to be the first to say
+Farewell my love
+Goodbye
+
+
 

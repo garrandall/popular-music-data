@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-home-alabama-lynyrd-skynyrd
+lyrics_url: https://www.azlyrics.com/lyrics/lynyrdskynyrd/sweethomealabama.html
 name: Sweet Home Alabama
 rankings:
 - end_date: '1974-08-02'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
 ---
+
+Big wheels keep on turning
+Carry me home to see my kin
+Singing songs about the Southland
+I miss Alabamy once again
+And I think it's a sin, yes
+
+Well I heard mister Young sing about her
+Well, I heard ole Neil put her down
+Well, I hope Neil Young will remember
+A Southern man don't need him around anyhow
+
+Sweet home Alabama
+Where the skies are so blue
+Sweet Home Alabama
+Lord, I'm coming home to you
+
+In Birmingham they love the governor (boo, boo, boo)
+Now we all did what we could do
+Now Watergate does not bother me
+Does your conscience bother you?
+Tell the truth
+
+Sweet home Alabama
+Where the skies are so blue
+Sweet Home Alabama
+Lord, I'm coming home to you
+Here I come Alabama
+
+Now Muscle Shoals has got the Swampers
+And they've been known to pick a song or two
+Lord they get me off so much
+They pick me up when I'm feeling blue
+Now how about you?
+
+Sweet home Alabama
+Where the skies are so blue
+Sweet Home Alabama
+Lord, I'm coming home to you
+
+Sweet home Alabama
+Oh sweet home baby
+Where the skies are so blue
+And the guv'nor's true
+Sweet Home Alabama
+Lordy
+Lord, I'm coming home to you
+Yea, yea Montgomery's got the answer
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rivers-of-babylon-boney-m
+lyrics_url: https://www.azlyrics.com/lyrics/boneym/riversofbabylon.html
 name: Rivers Of Babylon
 rankings:
 - end_date: '1978-06-09'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
 ---
+
+By the rivers of Babylon, there we sat down
+Ye-eah we wept, when we remembered Zion
+
+By the rivers of Babylon, there we sat down
+Ye-eah we wept, when we remembered Zion
+
+When the wicked
+Carried us away in captivity
+Required from us a song
+Now how shall we sing the Lord's song in a strange land
+
+When the wicked
+Carried us away in captivity
+Requiring of us a song
+Now how shall we sing the Lord's song in a strange land
+
+Let the words of our mouth and the meditation of our heart
+Be acceptable in thy sight here tonight
+
+Let the words of our mouth and the meditation of our heart
+Be acceptable in thy sight here tonight
+
+By the rivers of Babylon, there we sat down
+Ye-eah we wept, when we remembered Zion
+
+By the rivers of Babylon, there we sat down
+Ye-eah we wept, when we remembered Zion
+
+By the rivers of Babylon (dark tears of Babylon)
+There we sat down (You got to sing a song)
+Ye-eah we wept, (Sing a song of love)
+When we remembered Zion. (Yeah yeah yeah yeah yeah)
+
+By the rivers of Babylon (Rough bits of Babylon)
+There we sat down (You hear the people cry)
+Ye-eah we wept, (They need their God)
+When we remembered Zion. (Ooh, have the power)
+
+
 

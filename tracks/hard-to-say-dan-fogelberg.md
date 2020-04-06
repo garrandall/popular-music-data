@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-to-say-dan-fogelberg
+lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/hardtosay.html
 name: Hard To Say
 rankings:
 - end_date: '1981-09-04'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-02'
 ---
+
+Lucky at love, well maybe so 
+There's still a lot of things you'll never know 
+Like why each time the sky begins to snow, you cry 
+
+You're faithful to her in your careless way
+And so you miss her when she's far away
+But every time you think you've got it straight, you fall
+
+You face the future with a weary past 
+Those dreams you banked upon are fading fast 
+You know you love her, but it may not last, you fear 
+
+It's never easy and it's never clear 
+Who's to navigate and who's to steer 
+And so you flounder, drifting ever near the rocks 
+
+It's hard to say where love went wrong 
+It's hard to say just when (it's so hard to say)
+It's hard to walk away from love 
+It may never come again 
+
+You do your best to keep your hand in play
+And try to keep those lonesome blues at bay 
+You think you're winning but it's hard to say, sometimes 
+
+It's hard to say where love went wrong 
+It's hard to say just when (it's so hard to say) 
+It's hard to walk away from love 
+It may never come again 
+
+Lucky at love, well maybe so 
+There's still a lot of things you'll never know 
+Like why each time the sky begins to snow, you cry
+Well, you cry
+Ooh, you still have to cry
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-motown-song-rod-stewart
+lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/themotownsong.html
 name: The Motown Song
 rankings:
 - end_date: '1991-07-12'
@@ -75,4 +76,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
 ---
+
+Bring over some of your old Motown records
+We'll put the speakers in the window and we'll go
+on the roof and listen to the Miracles
+echo to the alley down below
+
+Let's dance together just for the night
+Let's don't worry about the future or nothin' else
+'Cause just like the music's sayin' you gotta take chances
+Go ahead just do it and trust yourself
+
+There's a soul in the city
+watching over us tonight
+There's a soul in the city
+saying everything's gonna be all right
+
+So bring over some of your old Motown records
+We'll put the speakers in the window and we'll go
+on the roof and listen to the Miracles
+echo to the alley down below
+
+They wish us luck
+but they think we're just dreaming
+Let's prove them wrong baby
+'Cause you know what luck is
+luck is believing you're lucky
+that's all and showing just a little bit of faith
+
+There's a soul in the city
+watching over us I swear
+There's a soul in the city
+there's a whole world waiting out there
+
+Listen
+I got plans for us
+playing like a skip on a record
+through my head all night long
+But when we walk that darkened stairway
+and step out on the roof
+I know what we're feeling can't be wrong
+
+Bring over some of your old Motown records
+We'll put the speakers in the window and we'll go
+on the roof and listen to the Miracles
+echo to the alley down below
+
+Bring over some of your old Motown records
+We'll put the speakers in the window and we'll go
+on the roof and listen to the Miracles
+echo to the alley down below
+"Let the Temptations sing it one time"
+Bring over some of you old Motown records
+We'll put the speakers in the window and we'll go
+on the roof and listen to the Miracles
+echo to the alley down below
+
+
 

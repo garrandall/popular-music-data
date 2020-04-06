@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-like-we-re-dying-kris-allen
+lyrics_url: https://www.azlyrics.com/lyrics/krisallen/livelikeweredying.html
 name: Live Like We're Dying
 rankings:
 - end_date: '2009-10-23'
@@ -123,4 +124,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
 ---
+
+Sometimes we fall down, can't get back up
+We're hiding behind skin that's too tough
+How come we don't say "I love you" enough
+'Til it's too late, it's not too late
+
+Our hearts are hungry for a food that won't come
+And we could make a feast from these crumbs
+And we're all staring down the barrel of a gun
+So if your life flashed before you,
+What would you wish you would've done
+
+Yeah, we gotta start
+Looking at the hands of the time we've been given
+If this is all we got then we gotta start thinking
+If every second counts on a clock that's ticking
+Gotta live like we're dying
+
+We only got 86,400 seconds in a day to
+Turn it all around or to throw it all away
+We gotta tell them that we love them
+While we got the chance to say
+Gotta live like we're dying
+
+And if your plane fell out of the skies
+Who would you call with your last goodbye
+Should be so careful who we let fall out of our lives
+So when we long for absolution,
+There'll be no one on the line, yeah
+
+Yeah, we gotta start
+Looking at the hands of the time we've been given
+If this is all we got then we gotta start thinking
+If every second counts on a clock that's ticking
+Gotta live like we're dying
+
+We only got 86,400 seconds in a day to
+Turn it all around or to throw it all away
+We gotta tell them that we love them
+While we got the chance to say
+Gotta live like we're dying
+
+Like we're dying, oh, like we're dying.
+Like we're dying, oh, like we're dying.
+
+We only got 86,400 seconds in a day to
+Turn it all around or to throw it all away
+We gotta tell them that we love them
+While we got the chance to say
+Gotta live like we're dying
+
+You never know a good thing 'til it's gone
+You never see a crash 'til it's head on
+Why do we think we're right when we're dead wrong
+You never know a good thing 'til it's gone
+
+Yeah, we gotta start
+Looking at the hands of the time we've been given
+If this is all we got then we gotta start thinking
+If every second counts on a clock that's ticking
+Gotta live like we're dying
+
+We only got 86,400 seconds in a day to
+Turn it all around or to throw it all away
+We gotta tell them that we love them
+While we got the chance to say
+Gotta live like we're dying
+
+Like we're dying, oh, like we're dying.
+Like we're dying, oh, like we're dying.
+
+We only got 86,400 seconds in a day to
+Turn it all around or to throw it all away
+We gotta tell them that we love them
+While we got the chance to say
+Gotta live like we're dying.
+
+
 

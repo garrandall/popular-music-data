@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miss-independent-ne-yo
+lyrics_url: https://www.azlyrics.com/lyrics/neyo/missindependent.html
 name: Miss Independent
 rankings:
 - end_date: '2008-09-12'
@@ -119,4 +120,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
 ---
+
+Ooh there's something about
+Just something about the way she move
+And I can't figure it out
+There's something about her.
+
+Said ooh it's something about
+The kind of woman that want you but don't need you
+Hey I can't figure it out
+There's something about her
+
+'Cause she walk like a boss
+Talk like a boss
+Manicured nails to set the pedicure off
+She's fly effortlessly
+And she move like a boss
+Do what a boss do
+She got me thinking about getting involved
+That's the kind of girl I need
+
+She got her own thing
+That's why I love her
+Miss Independent
+Won't you come and spend a little time
+She got her own thing
+That's why I love her
+Miss Independent
+Ooh the way you shine
+Miss Independent
+
+Ooh there's something about
+The kind of woman that can do for herself
+I look at her and it makes me proud
+There's something about her
+
+Something oh so sexy about
+The kind of woman that don't even need my help
+She said she got it she got it no doubt,
+There's something about her
+
+'Cause she work like a boss
+Play like a boss
+Car and a crib she 'bout to pay 'em both off
+And the bills are paid on time
+She made for a boss
+Only a boss
+Anything less she telling them to get lost
+That's the girl that's on my mind
+
+She got her own thing
+That's why I love her
+Miss Independent
+Won't you come and spend a little time
+She got her own thing
+That's why I love her
+Miss Independent
+Ooh the way you shine
+Miss Independent
+
+Her favorite thing to say: "Don't worry. I got it."
+And everything she got best believe she bought it
+She gon' steal my heart ain't no doubt about it
+Girl, you're everything I need,
+Said you're everything I need
+
+She got her own thing
+That's why I love her
+Miss Independent
+Won't you come and spend a little time
+She got her own thing
+That's why I love her
+Miss Independent
+Ooh the way you shine
+Miss Independent
+
+Miss Independent
+That's why I love her
+
+
 

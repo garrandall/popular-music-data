@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-is-my-mind-the-vanilla-fudge
+lyrics_url: https://www.azlyrics.com/lyrics/vanillafudge/whereismymind.html
 name: Where Is My Mind
 rankings:
 - end_date: '1968-02-16'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
 ---
+
+Where is my mind
+
+Where is my mind
+A passing breeze, it looked at me as it would blow
+I felt a fire chilling in my mind below
+The spirits laughed as when I told a joke
+I felt the light shine on my face and I awoke
+
+Where is my mind?
+Where is my mind?
+
+When the birds would sing off key it was their sign
+That the water in the fountain turned to wine
+A burning bush, it spoke to me as it would glow
+And it personifies something that we all know
+
+Where is my mind?
+Where is my mind?
+
+Come on
+
+Oh, where is my mind?
+Where is my mind?
+...
+
+
 

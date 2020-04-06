@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: irresistible-you-bobby-darin
+lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/irresistibleyou.html
 name: Irresistible You
 rankings:
 - end_date: '1961-12-17'
@@ -59,4 +60,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+
+Irresistible you, my heart has gone to you
+And while I resist, I'll be irresistibly drawn to you
+I know from the first it was so
+I was caught in the undertow from the moment we kissed
+
+Irresistible you, you're in the heart of me
+And your magic eyes seem to magnetize every part of me
+I'm yours my heart and I insist, for we don't want to resist
+Irresistible you
+
+
 

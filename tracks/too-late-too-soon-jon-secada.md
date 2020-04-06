@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-late-too-soon-jon-secada
+lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/toolatetoosoon.html
 name: Too Late Too Soon
 rankings:
 - end_date: '1997-03-21'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
 ---
+
+Tender was the night
+Took an early flight
+Rushing' home tonight
+Something' wasn't right
+I can't believe my eyes
+I know I must be dreaming.
+
+
+Did I come home too late, too son
+You in his arms told me the truth
+Too late, too soon.
+
+I wish I would have known
+I wouldn't have left you all alone
+Temptation led you wrong
+Tell me how long has this been going on
+Cause I thought our love was strong
+I guess I must be dreaming.
+
+
+Did I come home too late, too son
+You in his arms told me the truth
+Too late, too soon.
+
+What was I supposed to do
+You had to see it for yourself
+Cause I thought our love was strong
+I guess I must be dreaming.
+
+
+
+
 

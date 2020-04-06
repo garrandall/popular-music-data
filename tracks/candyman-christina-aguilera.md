@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candyman-christina-aguilera
+lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/candyman.html
 name: Candyman
 rankings:
 - end_date: '2007-01-26'
@@ -75,4 +76,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
 ---
+
+Tarzan and Jane were swingin' on a vine
+Candyman, Candyman
+Sippin' from a bottle of vodka double wine
+Sweet sugar candy man 
+
+I met him out for dinner on a Friday night
+He really had me working up an appetite
+He had tattoos up and down his arm
+There's nothing more dangerous than a boy with charm
+He's a one stop shop, makes the panties drop
+He's a sweet-talkin', sugar coated candy man
+A sweet-talkin', sugar coated candyman
+
+Oh yeah..
+
+He took me to the Spider Club at Hollywood and Vine
+We drank champagne and we danced all night
+We shook the paparazzi for a big surprise
+the gossip tonight will be tomorrow's headline
+
+He's a one stop shop, makes my cherry pop
+He's a sweet-talkin', sugar coated candy man
+A sweet-talkin', sugar coated candyman
+
+Se bop bop
+Hey yeah
+...
+
+He's a one stop shop, makes my cherry pop
+He's a sweet-talkin', sugar coated candy man oh
+A sweet-talkin', sugar coated candyman
+
+Woo yeah
+
+Well by now I'm getting all bothered and hot
+When he kissed my mouth he really hit the spot
+He had lips like sugar cane
+Good things come to boys who wait
+
+Tarzan and Jane were swingin' on a vine
+Candy man, candy man
+Sipping from a bottle of vodka double wine
+Candy man, candy man
+
+Sweet sugar candy man 
+He's a one stop, gotcha hot, making all the panties drop
+Sweet sugar candy man 
+He's a one stop, got me hot, making my uh pop
+Sweet sugar candy man 
+He's a one stop, get it while it's hot, baby don't stop
+Sweet sugar 
+
+He got those lips like sugar cane
+Good things come for boys who wait
+
+He's a one stop shop with a real big uh
+He's a sweet-talkin', sugar coated candyman 
+
+Tarzan and Jane were swingin' on a vine 
+Sippin' from a bottle of vodka double wine 
+Jane lost her grip and a-down she fell 
+Squared herself away as she let out a yell 
+
+
 

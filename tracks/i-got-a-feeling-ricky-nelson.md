@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-a-feeling-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/igotafeeling.html
 name: I Got A Feeling
 rankings:
 - end_date: '1958-10-19'
@@ -75,4 +76,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
 ---
+
+Well I've got a feeling
+That I'm gonna get you
+Say I've got a little feeling
+That it won't be long
+'Til I hold you in my arms and, baby,
+that's where you belong
+Well I've got a feeling
+That you think about me
+Well I've got a little feeling
+and I hope it's true
+'Cause nobody else could want you so
+and love you like I do
+
+Well I got a feeling
+That our love was meant to be
+And there's a whole wild world of happiness
+Just waitin' for you and me
+So why don't you tell me
+That you love me only
+'Cause I got a feeling
+that you really do
+And I never had this feeling
+'Til I fell in love with you
+
+
 

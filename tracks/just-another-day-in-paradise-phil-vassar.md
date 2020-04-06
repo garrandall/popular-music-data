@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-another-day-in-paradise-phil-vassar
+lyrics_url: https://www.azlyrics.com/lyrics/philvassar/justanotherdayinparadise.html
 name: Just Another Day In Paradise
 rankings:
 - end_date: '2000-10-06'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
 ---
+
+The kids screaming, phone ringing
+Dog barking at the mailman bringing
+That stack of bills - overdue
+Good morning baby, how are you?
+Got a half hour, quick shower
+Take a drink of milk but the milk's gone sour
+My funny face makes you laugh
+Twist the top on and I put it back
+There goes the washing machine
+Baby, don't kick it.
+I promise I'll fix it
+Long about a million other things
+
+Well, it's ok. It's so nice
+It's just another day in paradise
+Well, there's no place that
+I'd rather be
+Well, it's two hearts
+And one dream
+I wouldn't trade it for anything
+And I ask the lord every night
+For just another day in paradise
+
+Friday, you're late
+Guess we'll never make our dinner date
+At the restaurant you start to cry
+Baby, we'll just improvise
+Well, plan B looks like
+Dominoes' pizza in the candle light
+Then we'll tippy toe to our room
+Make a little love that's overdue
+But somebody had a bad dream
+Mama and daddy
+Can meand my teddy
+Come in to sleep in between?
+
+Yeah it's ok. It's so nice.
+It's just another day in paradise.
+Well, there's no place that
+I'd rather be
+Well, it's two hearts
+And one dream
+I wouldn't trade it for anything
+And I ask the lord every night
+For just another day in paradise
+
+Well, it's ok. It's so nice.
+It's just another day in paradise.
+Well, there's no place that
+I'd rather be
+Two hearts
+And one dream
+I wouldn't trade it for anything
+And I ask the lord every night
+For just another day in paradise
+
+For just another day in paradise
+Well, it's the kids screaming. The phone ringing
+Just another day
+Well, it's Friday. You're late
+Oh yeah, it's just another day in paradise
+
+
 

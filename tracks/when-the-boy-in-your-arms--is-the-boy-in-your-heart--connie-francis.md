@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-boy-in-your-arms--is-the-boy-in-your-heart--connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/whentheboyinyourarmsistheboyinyourheart.html
 name: When The Boy In Your Arms (Is The Boy In Your Heart)
 rankings:
 - end_date: '1961-11-26'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
 ---
+
+When the boy in your arms
+Is the boy in your heart
+Then you've got everything
+
+When you're holding the dream
+You've been dreaming you'd hold
+You're as rich as a king
+
+So, hold him tight
+And never let him go
+Day and night
+Let him know you love him so
+
+With the love of your life
+Spend a life time of love
+Make him yours for ever more
+
+So, hold him tight
+And never let him go
+Day and night
+Let him know you love him so
+
+With the love of your life
+Spend a life time of love
+Make him yours for ever more
+
+Make him yours for ever more
+
+
 

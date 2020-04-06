@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-like-a-man-mary-jane-girls
+lyrics_url: https://www.azlyrics.com/lyrics/maryjanegirls/walklikeaman.html
 name: Walk Like A Man
 rankings:
 - end_date: '1986-07-18'
@@ -47,4 +48,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
+
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk like a man
+
+Oh, how she tried to cut you down to size
+By telling dirty lies to your friend
+But your own father said
+Give her up
+Don't bother
+The world isn't coming to an end
+
+You better walk like a man, talk like a man
+Walk like a man, my son
+No woman's worth
+Crawling on the earth
+So walk like a man, my son
+
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+
+Bye, baby
+I don't mean maybe
+Gonna get along somehow
+Soon you'll be crying
+On account of all your lying
+Forget
+Just look who's laughing now
+
+Why don't you walk like a man fast as he can
+Walk like a man from you
+He'll tell the world
+Forget about it, girl
+And walk like a man from you
+
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+
+Walk, walk, walk, walk
+Walk, walk, walk, walk
+Walk, walk
+
+Why don't you walk like a man fast as he can
+Walk like a man from you
+He'll tell the world
+Forget about it, girl
+And walk like a man from you
+
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Walk, walk, walk, walk
+
+Walk, walk, walk, walk
+
+
 

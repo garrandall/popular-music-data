@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-day-daniel-powter
+lyrics_url: https://www.azlyrics.com/lyrics/danielpowter/badday.html
 name: Bad Day
 rankings:
 - end_date: '2006-03-03'
@@ -135,4 +136,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
 ---
+
+Where is the moment we needed the most
+You kick up the leaves and the magic is lost
+They tell me your blue skies fade to grey
+They tell me your passion's gone away
+And I don't need no carryin' on
+
+You stand in the line just to hit a new low
+You're faking a smile with the coffee to go
+You tell me your life's been way off line
+You're falling to pieces every time
+And I don't need no carryin' on
+
+'Cause you had a bad day
+You're taking one down
+You sing a sad song just to turn it around
+You say you don't know
+You tell me don't lie
+You work at a smile and you go for a ride
+You had a bad day
+The camera don't lie
+You're coming back down and you really don't mind
+You had a bad day
+You had a bad day
+
+Well, you need a blue sky holiday
+The point is they laugh at what you say
+And I don't need no carryin' on
+
+You had a bad day
+You're taking one down
+You sing a sad song just to turn it around
+You say you don't know
+You tell me don't lie
+You work at a smile and you go for a ride
+You had a bad day
+The camera don't lie
+You're coming back down and you really don't mind
+You had a bad day
+
+(Oh, on a holiday)
+
+Sometimes the system goes on the blink
+And the whole thing turns out wrong
+You might not make it back and you know
+That you could be well, oh, that strong
+And I'm not wrong
+
+(Yeah, yeah, yeah, yeah)
+
+So where is the passion when you need it the most
+Oh, you and I
+You kick up the leaves and the magic is lost
+
+'Cause you had a bad day
+You're taking one down
+You sing a sad song just to turn it around
+You say you don't know
+You tell me don't lie
+You work at a smile and you go for a ride
+You had a bad day
+You've seen what you like
+And how does it feel for one more time
+You had a bad day
+You had a bad day
+
+Had a bad day
+Had a bad day
+Had a bad day
+
+
 

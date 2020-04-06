@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: el-condor-pasa--if-i-could--simon-garfunkel
+lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/elcondorpasaificould.html
 name: El Condor Pasa (If I Could)
 rankings:
 - end_date: '1970-09-18'
@@ -52,4 +53,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
 ---
+
+I'd rather be a sparrow than a snail
+Yes, I would
+If I could
+I surely would
+
+I'd rather be a hammer than a nail
+Yes, I would
+If I only could
+I surely would
+
+Away, I'd rather sail away
+Like a swan that's here and gone
+A man gets tied up to the ground
+He gives the world its saddest sound
+It's saddest sound
+
+I'd rather be a forest than a street
+Yes, I would
+If I could
+I surely would
+
+I'd rather feel the earth beneath my feet
+Yes, I would
+If I only could
+I surely would
+
+
 

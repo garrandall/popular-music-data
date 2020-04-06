@@ -5,6 +5,7 @@ features:
 - Mikky Ekko
 genres: []
 key: stay-rihanna-mikky-ekko
+lyrics_url: https://www.azlyrics.com/lyrics/rihanna/stay.html
 name: Stay
 rankings:
 - end_date: '2013-03-01'
@@ -136,4 +137,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
 ---
+
+
+All along it was a fever
+A cold-sweat hot-headed believer
+I threw my hands in the air, said, "Show me something"
+He said, "If you dare, come a little closer"
+
+Round and around and around and around we go
+Oh now, tell me now, tell me now, tell me now you know
+
+Not really sure how to feel about it
+Something in the way you move
+Makes me feel like I can't live without you
+It takes me all the way
+I want you to stay
+
+
+It's not much of a life you're living
+It's not just something you take, it's given
+
+Round and around and around and around we go
+Oh now, tell me now, tell me now, tell me now you know
+
+Not really sure how to feel about it
+Something in the way you move
+Makes me feel like I can't live without you
+Yeah, it takes me all the way
+I want you to stay
+
+
+Ooh, ooh, ooh, the reason I hold on
+Ooh, ooh, ooh, 'cause I need this hole gone
+Funny you're the broken one but I'm the only one who needed saving
+'Cause when you never see the light it's hard to know which one of us is caving
+
+
+Not really sure how to feel about it
+Something in the way you move
+
+
+Makes me feel like I can't live without you
+Yeah, it takes me all the way
+
+
+I want you to stay, stay
+I want you to stay, ooh
+
+
 

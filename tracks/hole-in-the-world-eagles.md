@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hole-in-the-world-eagles
+lyrics_url: https://www.azlyrics.com/lyrics/eagles/holeintheworld.html
 name: Hole In The World
 rankings:
 - end_date: '2003-08-08'
@@ -63,4 +64,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
 ---
+
+
+There's a hole in the world tonight.
+There's a Cloud of fear and sorrow.
+There's a hole in the world tonight.
+Don't let there be a hole in the world tomorrow.
+
+They say that anger is just love disappointed.
+They say that love is just a state of mind,
+But all this fighting over who will be anointed.
+Oh how can people be so blind
+
+
+There's a hole in the world tonight.
+There's a Cloud of fear and sorrow.
+There's a hole in the world tonight.
+Don't let there be a hole in the world tomorrow.
+
+Oh they tell me there's a place over yonder,
+Cool water running through the burning sand,
+Until we learn to love one another
+We will never reach the promise land.
+
+
+There's a hole in the world tonight.
+There's a Cloud of fear and sorrow.
+There's a hole in the world tonight.
+Don't let there be a hole in the world tomorrow.
+
+
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-my-love-open-the-door-pete-townshend
+lyrics_url: https://www.azlyrics.com/lyrics/greatbigsea/letmyloveopenthedoor.html
 name: Let My Love Open The Door
 rankings:
 - end_date: '1980-06-20'
@@ -83,4 +84,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
 ---
+
+When people keep repeating
+That you'll never fall in love
+When everybody keeps retreating
+Oh, but you can't seem to get enough
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+When everything feels all over
+When everybody seems unkind
+I'll give you a four-leaf clover
+Take all the worry right out of your mind
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+I have the only key to your heart
+I can stop you falling apart
+Try today and you'll find a way
+Come on, give me a chance to say
+"Let my love open the door,"
+That's all I'm living for
+Release yourself from misery
+There's only one thing that's gonna set you free
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+Tragedy embalms you
+Don't let it bring you down
+Luck can cure your problem
+You're so lucky I'm around
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+When people keep repeating
+That you'll never fall in love
+When everybody keeps retreating
+But you can't seem to get enough
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hippy-hippy-shake-the-georgia-satellites
+lyrics_url: https://www.azlyrics.com/lyrics/georgiasatellites/hippyhippyshake.html
 name: Hippy Hippy Shake
 rankings:
 - end_date: '1988-10-28'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
+
+For goodness sakes
+I got the hippy hippy shakes
+yeah I got the shakes  
+I got the hippy hippy shakes  
+I can't sit still 
+with the hippy hippy shakes
+yeah I get my fill now
+with the hippy hippy shake
+yeah it's in the bag
+the hippy hippy shake
+
+well I've been shakin' to the left
+shakin' to the right
+you do the hippy shake shake
+with all of your might
+oh baby yeah come on shake
+oh it's in the bag
+the hippy hippy shake
+
+well I've been shakin' to the left
+shakin' to the right
+you do the hippy shake shake
+with all of your might
+of baby yeah come on shake
+oh it's in the bag
+the hippy hippy shake
+the hippy hippy shake
+the hippy hippy shake
+
+
 

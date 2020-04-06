@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-want-to-dance-with-you-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/ijustwanttodancewithyou.html
 name: I Just Want To Dance With You
 rankings:
 - end_date: '1998-05-01'
@@ -83,4 +84,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
 ---
+
+I don't want to be the kind to hesitate,
+Be too shy, wait too late
+I don't care what they say other lovers do,
+I just want to dance with you.
+
+I gotta feeling that you have a heart like mine,
+So let it show, let it shine.
+If we have a chance to make one heart of two,
+I just want to dance with you.
+
+
+I want to dance with you, twirl you all around the floor
+That's what they intended dancin' for,
+I just want to dance with you.
+I want to dance with you, hold you in my arms once more,
+That's what they invented dancin' for,
+I just want to dance with you.
+
+I caught you lookin' at me when I looked at you,
+Yes I did, ain't that true?
+You won't get embarrassed by the things I do,
+I just want to dance with you.
+
+Oh the boys are playin' softly and the girls are too,
+So am I and so are you.
+If this was a movie, we'd be right on cue,
+I just want to dance with you.
+
+
+
+I just want to dance with you,
+I just want to dance with you,
+I just want to dance with you.
+
+
 

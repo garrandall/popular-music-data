@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cyanide-metallica
+lyrics_url: https://www.azlyrics.com/lyrics/metallica/cyanide.html
 name: Cyanide
 rankings:
 - end_date: '2008-09-26'
@@ -11,4 +12,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
 ---
+
+Sleep and dream of this
+Death angelâs kiss
+Brings final bliss
+Completely
+
+Empty they say
+Death, wonât you let me stay? 
+
+Empty they say
+Death, hear me call your name
+Call your name...
+
+...Suicide
+Iâve already died
+Youâre just the funeral 
+Iâve been waiting for
+
+...Cyanide
+Living dead inside
+Break this empty shell forevermore
+
+Wait, wait patiently
+Your death black wings
+Unfolding sleep
+Spreading oâer me
+
+Empty they say
+Death, wonât you let me stay? 
+
+Empty they say
+Death, hear me call your name
+Call your name...
+
+...Suicide
+Iâve already died
+Youâre just the funeral 
+Iâve been waiting for
+
+...Cyanide
+Living dead inside
+Break this empty shell forevermore
+
+Say, is that rain or are they tears?
+That has stained your concrete face for years
+The crying, weeping, shedding strife
+Year after year, life after life
+
+An air of freshly broken ground
+A concrete angel lit right down
+Upon the grave which swallows fast
+Itâs peace at last, oh peace at last!
+
+Empty they say
+Death, wonât you let me stay? 
+
+Empty they say
+Death, hear me call your name
+Call your name...
+
+...Suicide
+Iâve already died
+Youâre just the funeral 
+Iâve been waiting for
+
+...Cyanide
+Living dead inside
+Break this empty shell forevermore
+
+Forevermore
+Forevermore
+Itâs just the funeral 
+Iâve been waiting for
+
+
 

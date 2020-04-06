@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-what-a-big-surprise-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/petercetera/babywhatabigsurprise.html
 name: Baby What A Big Surprise
 rankings:
 - end_date: '1977-09-30'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
 ---
+
+Right before my very eyes
+I thought that you were only fakin' it
+And like before my heart was takin' it 
+
+Baby what a big surprise
+Right before my very eyes 
+
+Yesterday it seemed to me
+My life was nothing more than wasted time
+But here today you've softly changed my mind 
+
+Baby what a big surprise
+Right before my very eyes
+Baby what a big surprise 
+
+Just to be alone
+Was a little more than I could take
+Then you came to stay
+Hold me in the morning
+Love me in the afternoon
+Help me find my way 
+
+Baby what a big surprise
+Right before my very eyes
+Baby what a big surprise 
+
+Baby what a big surprise
+Right before my very eyes
+Baby what a big surprise
+
+
 

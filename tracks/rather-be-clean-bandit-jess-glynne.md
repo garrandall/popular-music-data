@@ -5,6 +5,7 @@ features:
 - Jess Glynne
 genres: []
 key: rather-be-clean-bandit-jess-glynne
+lyrics_url: https://www.azlyrics.com/lyrics/cleanbandit/ratherbe.html
 name: Rather Be
 rankings:
 - end_date: '2014-07-04'
@@ -132,4 +133,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
 ---
+
+Oh, Woah, Ooh, ooh
+
+We're a thousand miles from comfort, we have traveled land and sea
+But as long as you are with me, there's no place I'd rather be
+I would wait forever, exalted in the scene
+As long as I am with you, my heart continues to beat
+
+With every step we take, Kyoto to The Bay
+Strolling so casually
+We're different and the same, get you another name
+Switch up the batteries
+
+If you gave me a chance I would take it
+It's a shot in the dark but I'll make it
+Know with all of your heart, you can't shake me
+When I am with you, there's no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+
+We set out on a mission to find our inner peace
+Make it everlasting so nothing's incomplete
+It's easy being with you, sacred simplicity
+As long as we're together, there's no place I'd rather be
+
+With every step we take, Kyoto to The Bay
+Strolling so casually
+We're different and the same, get you another name
+Switch up the batteries
+
+If you gave me a chance I would take it
+It's a shot in the dark but I'll make it
+Know with all of your heart, you can't shake me
+When I am with you, there's no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+
+When I am with you, there's no place I'd rather be, yeah
+
+Beeeeeeeeee, hooooooo oh
+Be 
+Yeah-e-yeah-e-yeah-e-yeah-e-yeah, yeah, yeah
+
+If you gave me a chance I would take it
+It's a shot in the dark but I'll make it
+Know with all of your heart, you can't shake me
+When I am with you, there's no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+N-n-no, no, no, no place I'd rather be
+
+When I am with you, there's no place I'd rather be
+
+
 

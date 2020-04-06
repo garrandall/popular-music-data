@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-to-you-michelle-branch
+lyrics_url: https://www.azlyrics.com/lyrics/michellebranch/goodbyetoyou.html
 name: Goodbye To You
 rankings:
 - end_date: '2002-09-06'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-01-11'
 ---
+
+Of all the things I've believed in
+I just want to get it over with
+Tears form behind my eyes
+But I do not cry
+Counting the days that pass me by
+
+I've been searching deep down in my soul
+Words that I'm hearing are starting to get old
+It feels like I'm starting all over again
+The last three years were just pretend
+And I said,
+
+
+Goodbye to you
+Goodbye to everything I thought I knew
+You were the one I loved
+The one thing that I tried to hold on to
+The one thing that I tried to hold on to
+
+I still get lost in your eyes
+And it seems that I can't live a day without you
+Closing my eyes and you chase my thoughts away
+To a place where I am blinded by the light
+But it's not right
+
+
+
+And it hurts to want everything and nothing at the same time
+I want what's yours and I want what's mine
+I want you
+But I'm not giving in this time
+
+
+
+And when the stars fall
+I will lie awake
+You're my shooting star
+
+
 

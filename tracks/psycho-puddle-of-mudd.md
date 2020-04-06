@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: psycho-puddle-of-mudd
+lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/psycho.html
 name: Psycho
 rankings:
 - end_date: '2008-02-22'
@@ -75,4 +76,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
 ---
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+
+She lays down on the fresh lawn
+She can make everything magical
+But she tied one on big time
+And it makes me wanna rewind
+
+To back in the days when we were young
+When everything was like a loaded gun
+Ready to go off at any minute
+And you know we're gonna win again.
+Yeah. And you know we're gonna win again.
+Yeah. And you know we're gonna win again.
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+Maybe I'm the one
+Maybe I'm the one who is the paranoid Flake-oh
+
+She lays down on the sidewalk
+Never very analytical
+She is something simply beautiful
+Re-appear when you feel magical
+
+To back in the days when we were young
+When everything was like a loaded gun
+Ready to go off at any minute
+Yeah you know we're gonna win again
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+Maybe I'm the one
+Maybe I'm the one who is the paranoid Flake-oh
+
+You're the one, you're the one who is the schizophrenic psycho
+You're the one, you're the one who is the schizophrenic psycho
+You're the one, you're the one who is the schizophrenic psycho
+
+Back in the days when we were young
+When everything was like a loaded gun
+Ready to go off at any minute
+And you know we're gonna win again
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+Maybe I'm the one
+Maybe I'm the one who is the paranoid Flake-oh
+
+
+Maybe I'm the one
+Maybe I'm the one who is the schizophrenic psycho. Yeah.
+Maybe I'm the one
+Maybe I'm the one who is the paranoid Flake-oh
+
+You're the one, you're the one who is the schizophrenic psycho!
+You're the one, you're the one who is the schizophrenic psycho!
+
+You're the one, you're the one who is the schizophrenic psycho!
+
+
 

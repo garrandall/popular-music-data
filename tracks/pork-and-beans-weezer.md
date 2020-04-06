@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pork-and-beans-weezer
+lyrics_url: https://www.azlyrics.com/lyrics/weezer/porkandbeans.html
 name: Pork And Beans
 rankings:
 - end_date: '2008-05-16'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
 ---
+
+They say I need some Rogaine to put in my hair
+Work it out at the gym to fit my underwear
+Oakley makes the shades to transform a tool
+You'd hate for the kids to think that you've lost your cool
+
+I'm 'a do the things that I wanna do
+I ain't got a thing to prove to you
+I'll eat my candy with the pork and beans
+Excuse my manners if I make a scene
+I ain't gonna wear the clothes that you like
+I'm fine and dandy with the me inside
+One look in the mirror and I'm tickled pink
+I don't give a hoot about what you think
+
+Everyone likes to dance to a happy song
+With a catchy chorus and beat so they can sing along
+Timbaland knows the way to reach the top of the chart
+Maybe if I work with him I can perfect the art
+
+I'm 'a do the things that I wanna do
+I ain't got a thing to prove to you
+I'll eat my candy with the pork and beans
+Excuse my manners if I make a scene
+I ain't gonna wear the clothes that you like
+I'm fine and dandy with the me inside
+One look in the mirror and I'm tickled pink
+I don't give a hoot about what you think
+
+No, I don't care
+I don't care
+I don't care
+I don't care
+I don't care
+I don't care
+
+I'm 'a do the things that I wanna do
+I ain't got a thing to prove to you
+I'll eat my candy with the pork and beans
+Excuse my manners if I make a scene
+I ain't gonna wear the clothes that you like
+I'm fine and dandy with the me inside
+One look in the mirror and I'm tickled pink
+I don't give a hoot about what you think
+
+
 

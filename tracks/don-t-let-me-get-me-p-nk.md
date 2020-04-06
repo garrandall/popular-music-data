@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-let-me-get-me-p-nk
+lyrics_url: https://www.azlyrics.com/lyrics/pink/words.html
 name: Don't Let Me Get Me
 rankings:
 - end_date: '2002-03-15'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
 ---
+
+Take Y 
+Take the letter 
+Take it out on the alphabet 
+Dont ask me why 
+No more questions 
+Just accept it for the way it is 
+
+Words are just words 
+They get in my way 
+I can never say what I wanna say 
+Who will understand it anyway? 
+It's just a waste 
+
+Take M 
+Mmm mmm 
+It's so lovely, so delicious, it says it all 
+
+I don't like X 
+Ex-boyfriends, ex-girlfriends 
+Exactly what I don't need 
+Twisting my words so easily 
+
+Words are just words 
+They get in my way 
+See like right now, I wanna tell you that I love you 
+but I don't know how.. 
+
+Put the H with the A with the TE, 
+give it power, you could destroy me 
+Put the L, with the O with the VE, 
+Give that power and you don't have to say anything 
+
+Words are just words 
+They get in my way 
+Bla bla bla bla 
+Blaaaa 
+
+Words are just words 
+They get in my way 
+Words are just words 
+They get in my way 
+
+Take B, 
+and just let it be, B...
+
+
 

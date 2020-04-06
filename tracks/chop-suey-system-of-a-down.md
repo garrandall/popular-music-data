@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chop-suey-system-of-a-down
+lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/chopsuey.html
 name: Chop Suey
 rankings:
 - end_date: '2002-01-11'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
 ---
+
+We're rolling suicide
+
+Wake up (wake up)
+Grab a brush and put a little make-up
+Hide the scars to fade away the shake-up (hide the scars to fade away the...)
+Why'd you leave the keys upon the table?
+Here you go create another fable
+
+You wanted to
+Grab a brush and put a little makeup
+You wanted to
+Hide the scars to fade away the shake-up
+You wanted to
+Why'd you leave the keys upon the table?
+You wanted to
+
+I don't think you trust
+In my self-righteous suicide
+I cry when angels deserve to
+Die
+
+Wake up (wake up)
+Grab a brush and put a little make-up
+Hide the scars to fade away the shake-up (hide the scars to fade away the...)
+Why'd you leave the keys upon the table?
+Here you go create another fable
+
+You wanted to
+Grab a brush and put a little make-up
+You wanted to
+Hide the scars to fade away the shake-up
+You wanted to
+Why'd you leave the keys upon the table?
+You wanted to
+
+I don't think you trust
+In my self-righteous suicide
+I cry when angels deserve to die
+In my self-righteous suicide
+I cry when angels deserve to die
+
+Father, father, father, father
+Father, into your hands I commend my spirit
+Father, into your hands
+Why have you forsaken me?
+In your eyes forsaken me
+In your thoughts forsaken me
+In your heart forsaken me, oh
+
+Trust in my self-righteous suicide
+I cry when angels deserve to die
+In my self-righteous suicide
+I cry when angels deserve to die
+
+
 

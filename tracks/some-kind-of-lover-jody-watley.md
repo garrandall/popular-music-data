@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-kind-of-lover-jody-watley
+lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/somekindoflover.html
 name: Some Kind Of Lover
 rankings:
 - end_date: '1988-02-05'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
 ---
+
+I never knew what I was missing
+Love with no passion in the kissing
+I can't explain it, how you made me open up
+And you showed me things I never thought I'd do, ho
+I'd hate to think of ever losing you
+'Cause there is no one that makes me feel the way you do
+
+You're some kinda lover
+Turn me on, turn me out
+You're some kinda lover
+Make me feel, oh, so real
+
+Hold me and tell me that you love me, ho
+Only with you is where I wanna be
+We'll light a candle as a symbol of our love
+Then we'll move real close like in a perfect fantasy, oh
+I wish these moments could go on and on and on
+But before you leave I want you to know
+
+You're some kinda lover
+Turn me on, turn me out
+You're some kinda lover, yeah
+
+Make me feel, oh, so real
+
+Ah... ah... ah... ah... ah...
+Ho, whoa, whoa, whoa
+Ho
+Yeah
+
+You're some kinda lover
+Turn me on, turn me out
+You're some kinda lover, yeah
+Make me feel, oh, so real
+
+You're some kinda lover, yeah, yeah
+
+You're some kinda lover
+Turn me on, turn me out
+You're some kinda lover, yeah
+You make me feel, oh, so real
+
+You're some kinda lover, ho
+
+
 

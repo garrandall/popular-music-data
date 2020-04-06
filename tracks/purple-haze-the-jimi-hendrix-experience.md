@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: purple-haze-the-jimi-hendrix-experience
+lyrics_url: https://www.azlyrics.com/lyrics/yngwiemalmsteen/purplehaze.html
 name: Purple Haze
 rankings:
 - end_date: '1967-09-01'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
 ---
+
+Purple haze is in my brain,
+Lately nothing seems the same,
+Actin' funny but I don't know why
+'Scuse me while I kiss the sky.
+
+Purple haze is all around,
+Don't know if I am up or down.
+Am I happy or in misery?
+Whatever it is, that girl put a spell on me.
+
+Help me
+Help me
+Help me
+
+Purple haze is in my brain,
+Lately nothing seems the same,
+Actin' funny but I don't know why
+'Scuse me while I kiss the sky.
+
+
 

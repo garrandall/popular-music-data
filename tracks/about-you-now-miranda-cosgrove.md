@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: about-you-now-miranda-cosgrove
+lyrics_url: https://www.azlyrics.com/lyrics/mirandacosgrove/aboutyounow.html
 name: About You Now
 rankings:
 - end_date: '2009-01-16'
@@ -23,4 +24,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
 ---
+
+Maybe I'm wrong, you decide
+Should've been strong, yeah I lied
+Nobody gets me like...you
+
+Couldn't keep hold of you then
+How could I know what you meant?
+There was nothing to compare to
+
+There's a mountain between us
+But there's one thing I'm sure of
+That I know how I feel about you
+
+Can we bring yesterday back around?
+Cause I know how I feel about you now
+I was dumb, I was wrong, I let you down
+But I know how I feel about you now
+
+All that it takes, one more chance
+Don't let our last kiss be our last
+I'm out of my mind, just to show you
+
+I know everything changes
+I don't care where it takes us
+Cause I know how I feel about you
+
+Can we bring yesterday back around?
+Cause I know how I feel about you now
+I was dumb, I was wrong, I let you down
+But I know how I feel about you now
+
+Not a day, pass me by
+Not a day, pass me by
+When I don't think about you
+And there's no moving on
+Cause I know you're the one
+And I can't be without you
+
+Can we bring yesterday back around?
+Cause I know how I feel about you now
+I was dumb, I was wrong, I let you down
+But I know how I feel about you now
+
+Can we bring yesterday back around?
+Cause I know how I feel about you now
+I was dumb, I was wrong, I let you down
+But I know how I feel about you now
+
+But I know how I feel about you now
+Yeah I know how I feel about you now
+
+
 

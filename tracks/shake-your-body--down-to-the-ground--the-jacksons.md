@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shake-your-body--down-to-the-ground--the-jacksons
+lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/shakeyourbodydowntothegroundimmortalversion.html
 name: Shake Your Body (Down To The Ground)
 rankings:
 - end_date: '1979-02-23'
@@ -95,4 +96,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
 ---
+
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+
+I don't know what's gonna happen to you baby
+But I do know that I love ya
+You walk around this town with your head all up in the sky
+And I do know that I want ya
+
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+
+Ooh! Down, down, down, down, down
+
+You tease me with your loving to play hard to get
+'Cause you do know that I want ya
+I need to do you something to get closer to your soul
+And you do know that I want ya
+
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Shake it on down
+
+Dance
+Dance, shout
+Dance
+Dance, shout
+Dance
+Dance, shout
+Dance
+Dance, shout
+
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+Let's dance, let's shout (Shout)
+Shake your body down to the ground
+
+
 

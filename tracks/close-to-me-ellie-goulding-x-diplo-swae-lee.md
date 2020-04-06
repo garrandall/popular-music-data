@@ -5,6 +5,7 @@ features:
 - Swae Lee
 genres: []
 key: close-to-me-ellie-goulding-x-diplo-swae-lee
+lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/closetome.html
 name: Close To Me
 rankings:
 - end_date: '2018-12-07'
@@ -108,4 +109,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
 ---
+
+
+Even though we both know we're liars and we start each other's fires
+We just know that we'll be alright
+Even though we're kicked out the party 'cause we both hate everybody
+We're the ones they wanna be like
+
+So don't let me down
+Keep me in trouble
+Born to be wild
+Out in the jungle
+
+And I don't wanna be somebody without your body
+Close to me
+And if it wasn't you, I wouldn't want anybody
+Close to me
+'Cause I'm an animal, animal-al
+Like animal, like you
+And I don't wanna be somebody without your body
+Close to me
+
+
+You can never come too close for comfort
+I had to cut my bitch off, she bein' stubborn (Stubborn)
+I make it known I fuck with you, not undercover ('Cover)
+And when I jump in, I'm burnin' rubber (Yeah, skrrt)
+Iced out body, didn't go to college (Yeah, yeah)
+Price tag poppin', then you on the private (Then you on a)
+Don't say "Sorry," everyone's watchin' (Everyone)
+When you're where I am, everything's timeless (Yeah, yeah)
+
+
+And I don't wanna be somebody without your body
+Close to me
+And if it wasn't you, I wouldn't want anybody
+Close to me
+'Cause I'm an animal, animal-al
+Like animal, like you
+And I don't wanna be somebody without your body
+Close to me
+Close to me
+Close to me
+Yeah
+
+Animal, animal-al
+Like animal, like you
+
+And I don't wanna be somebody without your body
+Close to me
+And if it wasn't you, I wouldn't want anybody
+Close to me
+Because I'm an animal, animal-al
+Like animal, like you
+And I don't wanna be somebody without your body
+Close to me
+Close to me
+(To me)
+Close to me
+
+
 

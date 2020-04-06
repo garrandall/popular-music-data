@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tunnel-of-love-bruce-springsteen
+lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/tunneloflove.html
 name: Tunnel Of Love
 rankings:
 - end_date: '1987-12-11'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
 ---
+
+Fat man sitting on a little stool 
+Takes the money from my hand while his eyes take a walk all over you 
+Hands me the ticket smiles and whispers good luck 
+Cuddle up angel cuddle up my little dove 
+We'll ride down baby into this tunnel of love 
+
+I can feel the soft silk of your blouse 
+And them soft thrills in our little fun house 
+Then the lights go out and it's just the three of us 
+You me and all that stuff we're so scared of 
+Gotta ride down baby into this tunnel of love 
+
+There's a crazy mirror showing us both in 5-D 
+I'm laughing at you you're laughing at me 
+There's a room of shadows that gets so dark brother 
+It's easy for two people to lose each other in this tunnel of love 
+
+it ought to be easy ought to be simple enough 
+Man meets woman and they fall in love 
+But the house is haunted and the ride gets rough 
+And you've got to learn to live with what you can't rise above if you want to ride on down in through this tunnel of love
+
+
 

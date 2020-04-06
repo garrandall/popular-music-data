@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-tune-paul-simon
+lyrics_url: https://www.azlyrics.com/lyrics/shawncolvin/americantune.html
 name: American Tune
 rankings:
 - end_date: '1973-12-07'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
 ---
+
+Many is the time I've been mistaken
+And many times confused
+Yes and ever often felt forsaken
+And certainly misused
+But I'm all right, I'm all right
+Just weary to my bones
+Still, you don't expect to be bright and bon vivant
+So far away from home, so far away from home
+
+And I don't know a soul who's not been battered
+I don't have a friend who feels at ease
+I don't know a dream that's not been shattered
+or driven to its knees
+But it's all right, it's all right
+For we've lived so well so long
+Still, when I think of the road we're traveling on
+I wonder what gone wrong
+I can't help it, I wonder what's gone wrong
+
+And I dreamed I was dying
+And I dreamed that my soul rose unexpectedly
+And looking back down at me
+Smiled reassuringly
+And I dreamed I was flying
+And high up above my eyes could clearly see
+The Statue of Liberty
+Sailing away to sea
+And I dreamed I was dying
+
+We come on the ship they call the Mayflower
+We come on the ship that sailed the moon
+We come in the age's most uncertain hour
+and sing an American tune
+But it's all right, it's all right
+You can't be forever blessed
+And tomorrow's going to be another working day
+And I'm trying to get some rest
+That's all I'm trying to get some rest
+
+
 

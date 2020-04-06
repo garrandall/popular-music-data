@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: jacob-s-ladder-huey-lewis-the-news
+lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/jacobsladder.html
 name: Jacob's Ladder
 rankings:
 - end_date: '1987-01-23'
@@ -68,4 +69,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
 ---
+
+I met a fan dancer 
+Down in Southside Birmingham 
+She was running from a fat man 
+Selling salvation in his hand 
+
+Now he's trying to save me 
+When I'm doing all right
+The best that I can 
+
+Just another fallen angel 
+Trying to get through the night
+
+Step by step, one by one
+Higher and higher 
+Step by step, rung by rung
+Climbing Jacob's ladder
+
+Coming over the airwaves 
+The man says I'm overdue 
+Sing along, send some money 
+Join the chosen few, hey
+
+Mister, I'm not in a hurry 
+And I don't want to be like you 
+All I want from tomorrow 
+Is to get it better than today
+
+Step by step, one by one
+Higher and higher 
+Step by step, rung by rung
+Climbing Jacob's ladder
+
+All I want from tomorrow 
+Is to get it better than today
+
+Step by step, one by one
+Higher and higher 
+Step by step, rung by rung
+Climbing and climbing
+
+Step by step, one by one
+Step by step, rung by rung
+Step by step
+And step by step
+Step by step
+
+
 

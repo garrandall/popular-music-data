@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mighty-good-ricky-nelson
+lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/mightygood.html
 name: Mighty Good
 rankings:
 - end_date: '1959-12-06'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
+
+Now when I see you walking by with a wiggle walk
+You know you look mighty good oowee
+And baby you can talk the kind of talk
+That does funny things to me
+
+Now when you tell me that you love me so
+It thrills my heart uh honey don't ya know
+That when you're in my arms oohoo
+It feels mighty good to me
+
+Do I love to love you?
+Awww honey yes indeed
+Cuz anything that you're missing
+Believe me honey you don't need
+
+Well everytime I get to kiss your tender lips
+You know they taste mighty good oowee
+When you're in my arms my heart just flips
+Ooohoo what you're doin' to me
+
+Now the kind of love that you inspire
+Fills my heart with a warm desire
+And when you set my lips on fire
+It feels mighty good to me
+
+Do I love to love you?
+Awww honey yes indeed
+Cuz anything that you're missing
+Believe me honey you don't need
+
+Well everytime I get to kiss your tender lips
+You know they taste mighty good oowee
+When you're in my arms my heart just flips
+Ooohoo what you're doin' to me
+
+Now the kind of love that you inspire
+Fills my heart with a warm desire
+And when you set my lips on fire
+It feels mighty good to me
+Awww it feels mighty good to me
+You know it feels mighty good to me
+
+
 

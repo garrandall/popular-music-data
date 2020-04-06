@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blessed-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/blessed.html
 name: Blessed
 rankings:
 - end_date: '1995-11-10'
@@ -87,4 +88,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
 ---
+
+Hey you, you're a child in my head
+You haven't walked yet
+Your first words have yet to be said
+But I swear you'll be blessed
+
+I know you're still just a dream
+your eyes might be green
+Or the bluest that I've ever seen
+Anyway you'll be blessed
+
+And you, you'll be blessed
+You'll have the best
+I promise you that
+I'll pick a star from the sky
+Pull your name from a hat
+I promise you that, promise you that, promise you that
+You'll be blessed
+
+I need you before I'm too old
+To have and to hold
+To walk with you and watch you grow
+And know that you're blessed
+
+
 

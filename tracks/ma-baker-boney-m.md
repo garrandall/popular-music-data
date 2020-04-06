@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ma-baker-boney-m
+lyrics_url: https://www.azlyrics.com/lyrics/millivanilli/mabaker.html
 name: Ma Baker
 rankings:
 - end_date: '1977-09-02'
@@ -19,4 +20,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+
+Freeze, I'm Ma Baker
+Put your hands in the air
+And give me all your money
+This is the story of Ma Baker
+The meanest cat
+From old Chicago town
+
+She was the meanest cat
+In old Chicago town
+She was the meanest cat
+She really mowed them down
+She had no heart at all
+No no no, heart at all
+
+She was the meanest cat
+Oh she was really tough
+She left her husband flat
+He wasn't tough enough
+She took her boys along
+'Cause they were mean and strong
+
+Ma Ma Ma Ma, Ma Baker, she taught her four sons
+Ma Ma Ma Ma, Ma Baker, to handle their guns
+Ma Ma Ma Ma, Ma Baker, she never could cry
+Ma Ma Ma Ma, Ma Baker, but she knew how to die
+
+They left a trail of crime
+Across the U.S.A.
+And when one boy was killed
+She really made them pay
+She had no heart at all
+No no no, heart at all
+
+Ma Ma Ma Ma, Ma Baker, she taught her four sons
+Ma Ma Ma Ma, Ma Baker, to handle their guns
+Ma Ma Ma Ma, Ma Baker, she never could cry
+Ma Ma Ma Ma, Ma Baker, but she knew how to die
+
+And then a man she liked
+She thought she'd stay with him
+When he informed on them
+They did away with him
+She didn't care at all
+Just didn't care at all
+
+{Here is a special bulletin
+Ma Baker is the FBI's most wanted woman
+Her photo is hanging on every post office wall
+If you have any information about this woman
+Please contact the nearest police station}
+
+Don't anybody move
+The money or your lives
+
+One day they robbed a bank
+It was their last foray
+The cops appeared too soon
+They couldn't get away
+They all gonna loose their heads
+It made them mighty mad
+
+And so they shout it out
+Ma Baker and her sons
+They didn't want to hang
+They died with blazing guns
+And so the story ends
+Of one who left no friends
+
+Ma Ma Ma Ma, Ma Baker, she taught her four sons
+Ma Ma Ma Ma, Ma Baker, to handle their guns
+Ma Ma Ma Ma, Ma Baker, she never could cry
+Ma Ma Ma Ma, Ma Baker, but she knew how to die
+
+
 

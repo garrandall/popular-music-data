@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-ol--night-john-mellencamp
+lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/lonelyolnight.html
 name: Lonely Ol' Night
 rankings:
 - end_date: '1985-08-30'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-04'
 ---
+
+She calls me up and says baby it's a lonely ol' night
+I don't know I'm just so scared and lonely all at the same time
+Nobody told us it was gonna work out this way
+No, no, no, no, no
+I guess they knew we'd work it out in our own way
+
+
+It's a lonely ol' night
+Can I put my arms around you
+It's a lonely ol' night
+Custom made for two lonely people like me and you
+
+Radio playing softly some singer's sad sad song
+He's singing about standing in the shadows of love
+I guess he feels awfully alone
+She says I know exactly what he means
+Yeah, yeah, yeah, yeah, yeah
+And it's a sad, sad feeling when you're living on
+Those in-betweens
+But it's okay
+
+
+
+She calls me Baby She calls everybody Baby
+It's a lonely ol' night but ain't they all
+
+
+
+
 

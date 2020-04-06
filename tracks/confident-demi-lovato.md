@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: confident-demi-lovato
+lyrics_url: https://www.azlyrics.com/lyrics/demilovato/confident.html
 name: Confident
 rankings:
 - end_date: '2015-10-16'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
 ---
+
+Are you ready, ha?
+
+It's time for me to take it
+I'm a boss right now
+Not gonna fake it
+Not when you go down
+'Cause this is my game
+And you better come to play
+
+I used to hold my freak back
+Now I'm letting go
+I make my own choice
+ Yeah I run this show
+ Bitch, I run the show
+So leave the lights on
+No, you can't make me behave
+
+So you say I'm complicated
+That I must be outta my mind
+But you've had me underrated
+Rated, rated
+
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+
+It's time to get the chains out
+Is your tongue tied up?
+'Cause this is my round
+And I'm dangerous
+And you can get off
+But it's all about me tonight
+
+So you say I'm complicated
+That I must be outta my mind
+But you've had me underrated
+Rated, rated
+
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+
+So you say I'm complicated
+But you've had me underrated
+
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+What's wrong with being, what's wrong with being
+What's wrong with being confident?
+
+
 

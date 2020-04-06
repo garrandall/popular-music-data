@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-in-a-million-the-romantics
+lyrics_url: https://www.azlyrics.com/lyrics/romantics/oneinamillion.html
 name: One In A Million
 rankings:
 - end_date: '1984-03-02'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+
+Something about you 
+Makes me want to keep on loving you
+When I'm without you
+I feel I need you back in my heart
+
+I get a sensation
+I feel whenever I'm around you
+You're my inspiration 
+And I'm so glad I found you
+
+One in a million, baby you're the one
+One in a million, and you're second to none
+One in a million, a million to one
+You're one in a million
+
+When I first saw you 
+I had a feeling right from the start
+In love I was falling
+You seemed to do things to my heart
+
+Your love and affection
+Is all I need to keep me satisfied,
+You leave an impression 
+And baby I never want to leave you
+
+One in a million, baby you're the one
+One in a million, and you're second to none
+One in a million, a million to one
+You're one in a million
+
+Something about you 
+Makes me want to keep on loving you
+When I'm without you
+I feel I need you back in my heart
+
+I get a sensation
+I feel whenever I'm around you
+You're my inspiration 
+And I'm so glad I found you
+
+One in a million, baby you're the one
+One in a million, and you're second to none
+One in a million, a million to one
+You're one in a million
+
+You're one in a million
+One in a million and you're second to none
+One in a million, WOW! one in a million
+Baby you know you are one
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-next-thirty-years-tim-mcgraw
+lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/mynextthirtyyears.html
 name: My Next Thirty Years
 rankings:
 - end_date: '2000-10-27'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
 ---
+
+I think Iâll take a moment, celebrate my age
+The ending of an era and the turning of a page
+Now itâs time to focus in on where I go from here
+Lord have mercy on my next thirty years
+
+Hey my next thirty years Iâm gonna have some fun
+Try to forget about all the crazy things Iâve done
+Maybe now Iâve conquered all my adolescent fears
+And Iâll do it better in my next thirty years
+
+My next thirty years Iâm gonna settle all the scores
+Cry a little less, laugh a little more
+Find a world of happiness without the hate and fear
+Figure out just what Iâm doing here
+In my next thirty years
+
+Oh my next thirty years, Iâm gonna watch my weight
+Eat a few more salads and not stay up so late
+Drink a little lemonade and not so many beers
+Maybe Iâll remember my next thirty years
+
+My next thirty years will be the best years of my life
+Raise a little family and hang out with my wife
+Spend precious moments with the ones that I hold dear
+Make up for lost time here, in my next thirty years
+In my next thirty years
+
+
 

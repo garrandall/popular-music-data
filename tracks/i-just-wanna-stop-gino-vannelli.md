@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-wanna-stop-gino-vannelli
+lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/ijustwannastop.html
 name: I Just Wanna Stop
 rankings:
 - end_date: '1978-09-15'
@@ -91,4 +92,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
 ---
+
+For your love
+When I think about those nights in Montreal
+I get the sweetest thoughts of you and me
+Memories of love above the city lights
+Ooh, I tried so hard to take it
+But oh Lord my heart won't make it
+
+I just wanna stop
+And tell you what I feel about you babe
+I just wanna stop
+I never wanna live without you babe
+I just gotta stop
+For your love
+
+When I think about the way the world must turn
+I get the saddest thoughts for you and me
+Memories of life and times go on and on
+Ooh, I've tried hard to forget it
+But of Lord my mind won't let it
+
+I just wanna stop
+And tell you what I feel about you babe
+I just wanna stop
+The world ain't right without you babe
+I just wanna stop
+For your love
+
+Ooh, I've tried so hard to take it
+But oh Lord my heart won't make it
+
+I just wanna stop
+And tell you what I feel about you babe
+I just wanna stop
+The world ain't right without you babe
+I just wanna stop
+For your love
+
+
 

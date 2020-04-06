@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: china-girl-david-bowie
+lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/chinagirl.html
 name: China Girl
 rankings:
 - end_date: '1983-06-10'
@@ -79,4 +80,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
 ---
+
+Little China girl
+Little China girl
+
+I could escape this feeling with my China girl
+I feel a wreck without my little China girl
+I hear her heart beating loud as thunder
+Saw the stars crashing
+
+I'm a mess without my little China girl
+Wake up in the morning, where's my little China girl
+I hear her heart's beating loud as thunder
+I saw the stars crashing down
+
+I feel tragic like I'm Marlon Brando
+When I look at my China girl
+I could pretend nothing really meant too much
+When I look at my China girl
+
+I stumble into town
+Just like a sacred cow
+Visions of swastikas in my head
+Plans for everyone
+It's in the white of my eyes
+
+My little China girl
+You shouldn't mess with me
+I'll ruin everything you are
+You know it
+I'll give you television
+I'll give you eyes of blue
+I'll give you a man who wants to rule the world
+
+And when I get excited
+My little China girl says,
+"Oh baby just you shut your mouth."
+She says, "Sh."
+She says, "Sh."
+She says
+She says
+
+And when I get excited
+My little China girl says,
+"Oh baby just you shut your mouth."
+
+And when I get excited
+My little China girl says,
+"Oh baby just you shut your mouth."
+
+She says, "Sh."
+She says
+
+Little China girl
+Little China girl
+Little China girl
+Little China girl
+Little China girl
+
+
 

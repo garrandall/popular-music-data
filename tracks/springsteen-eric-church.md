@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: springsteen-eric-church
+lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/springsteen.html
 name: Springsteen
 rankings:
 - end_date: '2012-03-23'
@@ -95,4 +96,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
 ---
+
+To this day when I hear that song,
+I see you standing there on that lawn
+Discount shades, store-bought tan,
+Flip-flops and cut-off jeans
+
+Somewhere between that setting sun,
+"I'm On Fire" and "Born To Run"
+You looked at me and I was done,
+And we, we're just getting started
+
+I was singing to you, you were singing to me
+I was so alive, never been more free
+Fired up my daddy's lighter and we sang oh
+
+Stayed there 'til they forced us out
+And took the long way to your house
+I can still hear the sound
+Of you saying, "Don't go."
+
+When I think about you
+I think about 17
+I think about my old Jeep
+I think about the stars in the sky
+Funny how a melody sounds like a memory
+Like a soundtrack to a July Saturday night
+Springsteen
+
+I bumped into you by happenstance
+You probably wouldn't even know who I am
+But if I whispered your name,
+I bet there'd still be a spark
+
+Back when I was gasoline
+And this old tattoo had brand new ink
+And we didn't care what your mom would think
+'Bout your name on my arm
+
+Baby is it spring or is it summer
+The guitar sound or the beat of that drummer
+You hear sometimes late at night on your radio
+
+Even though you're a million miles away
+When you hear Born In The USA
+You relive those glory days so long ago
+
+When you think about me
+Do you think about 17
+Do you think about my old Jeep
+Think about the stars in the sky
+Funny how a melody sounds like a memory
+Like a soundtrack to a July Saturday night
+Springsteen, Springsteen
+
+Funny how a melody sounds like a memory
+Like a soundtrack to a July Saturday night
+Springsteen, Springsteen, oh, Springsteen
+
+
 

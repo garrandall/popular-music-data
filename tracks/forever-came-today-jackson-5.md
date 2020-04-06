@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-came-today-jackson-5
+lyrics_url: https://www.azlyrics.com/lyrics/jackson5/forevercametoday.html
 name: Forever Came Today
 rankings:
 - end_date: '1975-07-11'
@@ -43,4 +44,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
+
+
+(Ever, forever, ever, and ever, and ever)
+(Ever, forever, ever, and ever, and ever)
+
+There you are
+Standing there reaching out for me
+Something warm in your eyes
+Touched my heart
+And all the love I never knew
+I found in you
+
+Suddenly
+My world, my life was standing still
+And you touched my hand
+I knew that we had laid a plan
+For everlasting love
+I'm forever dreaming of
+
+
+At last, at last
+My forever came today
+When you walked into my life
+Made my lonely life a paradise
+It came today
+Forever came today
+
+Ooh, look in my eyes and see how much I want ya
+Feel my touch
+You know how much I need ya
+I may be young, but I'm old enough to know
+Look at me
+I will never let it go
+Let this moment thrill me a lifetime
+Make it last, make it last
+Make it last forever
+
+
+
+Darling
+Ooh, my darling make me yours
+As I touch your face
+Tell me love has led me (led me)
+To this place
+And your warm embrace
+
+Thanks to you
+Thanks to you my search has ended
+And I want the world to see
+How gently love has shined on me (shined on me)
+With everlasting love (everlasting love)
+That I been forever dreaming of
+
+
+
+Ooh, you give me love by the hour
+Ooh, you're my precious little flower
+Girl you give me so much sweetness
+Ooh, you give my life completeness
+Make it last for more than just a day
+Make it last for more than just an hour
+Make it last forever
+
+
 

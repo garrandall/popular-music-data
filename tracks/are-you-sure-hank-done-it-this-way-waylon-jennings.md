@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-sure-hank-done-it-this-way-waylon-jennings
+lyrics_url: https://www.azlyrics.com/lyrics/mavericks/areyousurehankdoneitthisway.html
 name: Are You Sure Hank Done It This Way
 rankings:
 - end_date: '1975-09-26'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
 ---
+
+Lord, it's the same old tune, fiddle and guitar
+Where do we take it from here?
+Rhinestone suits and new shiny cars
+It's been the same way for years
+We need a change
+
+Somebody told me, when I came to Nashville
+Son, you finally got it made
+Old Hank made it here, and we're all sure that you will
+But I don't think Hank done it this way
+I don't think Hank done it this way
+
+Ten years on the road, makin' one night stands
+Speedin' my young life away
+Tell me one more time just so's I'll understand
+Are your sure Hank done it this way?
+Did ol' Hank really do it this way?
+
+Lord, I've seen the world, with a five piece band
+Looking at the back side of me
+Singing my songs, and one of his now and then
+But I don't think Hank done 'em this way
+I don't think Hank done 'em this way
+I don't think Hank done 'em this way
+...
+
+
 

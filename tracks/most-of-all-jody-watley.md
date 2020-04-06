@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: most-of-all-jody-watley
+lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/mostofall.html
 name: Most Of All
 rankings:
 - end_date: '1988-05-06'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
 ---
+
+You made a promise
+That you'd never desert me
+So where are you now
+You built me up
+Then you left me standing all alone
+Lost in the crowd
+
+My friends all say to forget you
+I should but why do I hurt so
+
+No one wins when the love is lost
+You turned your back on me
+When I needed you most of all
+No one wins when love takes a fall
+How could you let me down
+I needed you most of all
+
+Maybe I should learn to live life without you
+Find someone new
+But something happens deep inside when our eyes meet
+I know you feel it too
+
+Don't try and say you're happy without me
+Don't say you don't miss my love, boy
+
+No one wins when the love is lost
+You turned your back on me
+When I needed you most of all
+No one wins when love takes a fall
+How could you let me down
+I needed you most of all
+
+Maybe we can find a way
+To bring back all the yesterdays
+Maybe we can find the path
+It's not too late to save the love
+Save the love we had
+
+Most of all
+
+No one wins when the love is lost
+You turned your back on me
+When I needed you most of all
+No one wins when love takes a fall
+How could you let me down
+I needed you most of all
+
+
 

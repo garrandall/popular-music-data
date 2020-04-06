@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartache-tonight-eagles
+lyrics_url: https://www.azlyrics.com/lyrics/eagles/heartachetonight.html
 name: Heartache Tonight
 rankings:
 - end_date: '1979-10-12'
@@ -67,4 +68,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+
+Somebody's gonna hurt someone 
+before the night is through 
+Somebody's gonna come undone. 
+There's nothin' we can do. 
+Everybody wants to touch somebody 
+if it takes all night. 
+Everybody wants to take a little chance, 
+Make it come out right. 
+
+There's gonna be a heartache tonight, 
+a heartache tonight, I know. 
+There's gonna be a heartache tonight, I know. 
+Lord, I know. 
+
+Some people like to stay out late 
+Some folks can't hold out that long 
+But nobody wants to go home now. 
+there's too much goin' on. 
+
+This night is gonna last forever. 
+Last all, last all summer long. 
+Some time before the sun comes up 
+The radio is gonna play that song. 
+There's gonna be a heartache tonight, 
+A heartache tonight, I know. 
+There's gonna be a heartache tonight, 
+A heartache tonight, I know. 
+Lord I know. 
+
+There's gonna be a heartache tonight, 
+the moon's shinin' bright 
+so turn out the light, and we'll get it right. 
+There's gonna be a heartache tonight, a 
+heartache tonight I know. 
+Heartache baby, 
+
+Somebody's gonna hurt someone, (somebody) 
+Before the night is through 
+Somebody's gonna come undone, 
+There's nothin' we can do 
+(Everybody) Everybody wants to touch somebody 
+if it takes all night 
+Everybody wants to take a little chance 
+To make it come out right 
+
+There's gonna be a heartache tonight 
+A heartache tonight, I know 
+There's gonna be a heartache tonight, 
+A heartache tonight ,I know 
+Let's go. 
+We can beat around the bushes; 
+we can get down to the bone 
+We can leave it in the parkin' lot, 
+but either way, there's gonna be a 
+heartache tonight, a heartache tonight I know. 
+There'll be a heartache tonight 
+a heartache tonight I know.
+
+
 

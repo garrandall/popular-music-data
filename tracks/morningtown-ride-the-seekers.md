@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morningtown-ride-the-seekers
+lyrics_url: https://www.azlyrics.com/lyrics/seekers/morningtownride.html
 name: Morningtown Ride
 rankings:
 - end_date: '1967-02-24'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
 ---
+
+Train whistle blowing makes a sleepy noise
+Underneath their blankets go all the girls and boys
+
+Rocking rolling riding out along the bay
+All bound for Morningtown many miles away
+
+Driver at the engine fireman rings the bell
+Sand man swings the lantern to show that all is well
+
+Rocking rolling riding out along the bay
+All bound for Morningtown many miles away
+
+Maybe it is raining where our train will ride;
+All the little travellers are warm and snug inside
+
+Rocking rolling riding out along the bay
+All bound for Morningtown many miles away
+
+Somewhere there is sunshine somewhere there is day
+
+Somewhere there is Morningtown many miles away
+
+Rocking rolling riding out along the bay
+All bound for Morningtown many miles away
+All bound for Morningtown many miles away
+
+
 

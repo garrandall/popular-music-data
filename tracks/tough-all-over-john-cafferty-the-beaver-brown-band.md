@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tough-all-over-john-cafferty-the-beaver-brown-band
+lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/toughallover.html
 name: Tough All Over
 rankings:
 - end_date: '1985-05-17'
@@ -68,4 +69,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
 ---
+
+Well, she's waiting for the bus
+Down on the boulevard
+Pretty little working girl
+She ain't got no fancy clothes
+Don't drive no fancy car
+She's the waitress
+At the bar and grill
+
+She's on her own now
+He left and went away
+He really broke her heart
+It just worked out that way
+
+
+Well, all over and all over
+Things are tough all over
+Well, all over and all over
+Things, things are tough all over
+
+Well, he's drinking at the bar
+Down by the old boat yard
+He sits and he talks to strangers
+The factory laid him off
+And life's been getting hard
+It's enough to make a good man bad
+
+He's got that look in his eye
+There's just no words to say
+It's tough to swallow your pride
+Each and every day
+
+
+
+Heres one for the broken hearted
+It's tough just to get things started
+All over again, all over again
+
+He's got that look in his eye
+There's just no words to say
+It's tough to swallow your pride
+Each and every day
+
+
+
+Things are tough all over
+Things are tough all over
+Things are tough all over
+Things are tough all over...
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daydream-believer-the-monkees
+lyrics_url: https://www.azlyrics.com/lyrics/fourtops/daydreambeliever.html
 name: Daydream Believer
 rankings:
 - end_date: '1967-11-24'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+
+Oh, I could hide 'neath the wings of the bluebird as she sings
+The six o'clock alarm would never ring
+But six rings and I rise, wipe the sleep out of my eyes
+My shavin' razor's cold, and it stings
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+You once thought of me, as a white knight on his steed
+Now you know how happy, I can be
+Oh and our good time starts and end, without dollar one to spend
+But how much baby do we really need
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a, daydream believer
+And a, homecoming queen
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-the-pillow-you-dream-on-dean-martin
+lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/sendmethepillowyoudreamon.html
 name: Send Me The Pillow You Dream On
 rankings:
 - end_date: '1965-02-26'
@@ -43,4 +44,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
+
+(So darling I can dream on it too)
+Send me the pillow that you dream on
+Don't you know that I still care for you
+Send me the pillow that you dream on
+So darling I can dream on it too
+
+Each night while I'm sleeping oh so lonely
+I'll share your loving dreams that once were true
+Send me the pillow that you dream on
+So darling I can dream on it too
+
+(I've waited so long for you to write me)
+But just a memory's all that's left of me
+So send me the pillow that you dream on
+So darling I can dream on it too
+So darling I can dream on it too
+
+
 

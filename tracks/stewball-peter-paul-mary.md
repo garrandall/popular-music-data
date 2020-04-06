@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: stewball-peter-paul-mary
+lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/stewball.html
 name: Stewball
 rankings:
 - end_date: '1963-12-06'
@@ -37,4 +38,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+
+Oh Stewball was a racehorse, and I wish he were mine.
+He never drank water, he always drank wine. 
+
+His bridle was silver, his mane it was gold.
+And the worth of his saddle has never been told. 
+
+Oh the fairgrounds were crowded, and Stewball was there
+But the betting was heavy on the bay and the mare. 
+
+And a-way up yonder, ahead of them all,
+Came a-prancin' and a-dancin' my noble Stewball. 
+
+I bet on the grey mare, I bet on the bay
+If I'd have bet on ol' Stewball, I'd be a free man today. 
+
+Oh the hoot owl, she hollers, and the turtle dove moans.
+I'm a poor boy in trouble, I'm a long way from home. 
+
+Oh Stewball was a racehorse, and I wish he were mine.
+He never drank water,he always drank wine.
+
+
 

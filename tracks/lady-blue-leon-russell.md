@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-blue-leon-russell
+lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/ladyblue.html
 name: Lady Blue
 rankings:
 - end_date: '1975-08-08'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
 ---
+
+Well, you're showing me different sign,
+Even after the flame is dyin',
+You'll get used to me baby,
+You just wait and see oh lady,
+'Cause I've been in love before,
+And I love you a whole lot more.
+If you want it to be real good to ya,
+When I'm layin' here making love to ya,
+Listen real close to me lady,
+I want to get it straight right now baby,
+'Cause I'm lovin' more and more and more
+Lady Blue.
+
+Sand baby, blue lady sing me your love song,
+I just want you to know, that I'm lovin' you
+More and more and more.
+
+So if you want it to be real good to ya,
+When I'm layin' here makin' love to ya,
+A listen real close to me baby,
+You just wait and see lady,
+I've got a lotta love to give ya,
+I've got a whole life to spend if you'll
+Just let me sing a sweet love song
+Lady Blue, oh sing a love song
+Lady Blue.
+
+
 

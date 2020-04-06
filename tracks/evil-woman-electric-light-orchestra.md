@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evil-woman-electric-light-orchestra
+lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/evilwoman.html
 name: Evil Woman
 rankings:
 - end_date: '1975-11-21'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
 ---
+
+You made a fool of me, but them broken dreams have got to end
+
+Hey woman, you got the blues, cos' you ain't got no one else to use
+There's an open road that leads nowhere
+So just make some miles between here and there
+There's a hole in my head where the rain comes in
+You took my body and played to win
+Ha Ha woman it's a crying shame
+But you ain't got nobody else to blame
+
+
+E-evil Woman, E-evil Woman, E-evil Woman, Evil Woman
+
+Rolled in from another town
+Hit some gold too hot to settle down
+But a fool and his money soon go separate ways
+And you found a fool lyin' in a daze
+Ha Ha woman what you gonna do
+You destroyed all the virtues that the Lord gave you
+It's so good that you're feeling pain
+But you better get your face on board the very next train
+
+
+
+Evil woman how you done me wrong
+But now you're tryin' to wail a different song
+Ha Ha funny how you broke me up
+You made the wine now you drink the cup
+I came runnin' every time you cried
+Thought I saw love smilin' in your eyes
+Ha Ha very nice to know, that you ain't got no place left to go
+
+
+
+
 

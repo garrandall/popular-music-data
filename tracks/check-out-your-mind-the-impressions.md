@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: check-out-your-mind-the-impressions
+lyrics_url: https://www.azlyrics.com/lyrics/impressions/checkoutyourmind.html
 name: Check Out Your Mind
 rankings:
 - end_date: '1970-05-22'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
 ---
+
+Here's something that you never had
+Slid in on an oily rag
+The price is right up on the tag
+I'll put in a brand new bag
+
+This thing will let you be yourself
+And won't offend nobody else
+Nothing like you ever saw
+And it's not against the law
+
+Why don't you check out your mind
+Been with you all the time
+Why don't you check out your mind
+Been with you all the time
+
+People thinking they've been took
+Just finding out they overlooked
+They never found the missing link
+Forgot they had a mind to think
+
+Why don't you check out your mind
+Been with you all the time
+Why don't you check out your mind
+Been with you all the time
+
+Check out your mind
+Check out your mind
+Check out your mind
+
+Trust in me and I in you
+No matter what you see me do
+I'm doing me for all I'm worth
+None do me better on this earth
+
+Why don't you check out your mind
+Been with you all the time
+Why don't you check out your mind
+Been with you all the time
+
+Why don't you check out your mind
+Been with you all the time
+Why don't you check out your mind
+Been with you all the time
+
+Check out your mind
+Check out your mind
+Check out your mind
+...
+
+
 

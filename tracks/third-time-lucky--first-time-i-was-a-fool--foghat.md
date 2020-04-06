@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: third-time-lucky--first-time-i-was-a-fool--foghat
+lyrics_url: https://www.azlyrics.com/lyrics/foghat/thirdtimeluckyfirsttimeiwasafool.html
 name: Third Time Lucky (First Time I Was A Fool)
 rankings:
 - end_date: '1979-11-23'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-23'
 ---
+
+It's all behind me
+There's good luck up ahead
+Can't break what's left of my heart
+Once bitten twice shy
+I hate to see it all fall apart
+First love I had I was seventeen and I was younger
+Love to us was some kind of game
+And all my letters said I would never forget her
+Now I can't recall her name
+The first time I was a fool
+never knew that love could be so cruel
+It happened again
+Third time lucky
+Oh Yeah
+I was in love one time
+I thought it was the real thing
+But I kept the feelings to myself
+Afraid to show them
+Expecting her to know
+It's the reason she found someone else
+It's all behind me
+There's good luck up ahead
+Can't break what's left of my heart
+Once bitten twice shy
+I hate to see it all fall apart
+The first time I was a fool
+never knew that love could be so cruel
+It happened again
+Third time lucky
+Oh Yeah
+The first time I was a fool
+never knew that love could be so cruel
+It happened again
+Third time lucky
+Oh Yeah
+The first time I was a fool
+never knew that love could be so cruel
+It happened again
+Third time lucky
+Oh Yeah
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superstar-taylor-swift
+lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/superstar.html
 name: Superstar
 rankings:
 - end_date: '2009-11-20'
@@ -11,4 +12,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
 ---
+
+This is wrong but I can't help but feel like
+There ain't nothing more right babe
+Misty morning comes again and I can't
+Help but wish I could see your face
+And I knew from the first note played
+I'd be breaking all my rules to see you
+You smile that beautiful smile and
+All the girls in the front row scream your name
+
+So dim that spotlight, tell me things like
+I can't take my eyes off of you
+I'm no one special, just another
+Wide eyed girl who's desperately in love with you
+Give me a photograph to hang on my wall, superstar
+
+Morning loneliness, comes around when I'm not
+Dreaming about you
+When my world wakes up today
+You'll be in another town
+And I knew when I saw your face, I'd be
+Counting down the ways to see you
+You smile that beautiful smile and
+All the girls in the front row scream your name
+
+So dim that spotlight, tell me things like
+I can't take my eyes off of you
+I'm no one special, just another
+Wide eyed girl who's desperately in love with you
+Give me a photograph to hang on my wall, superstar
+
+You played in bars, you play guitar
+I'm invisible and everyone knows who you are
+And you'll never see, you sing me to sleep
+Every night from the radio
+
+So dim that spotlight, tell me things like
+I can't take my eyes off of you
+I'm no one special, just another
+Wide eyed girl who's desperately in love with you
+Give me a photograph to hang on my wall, superstar
+Sweet, sweet superstar, superstar
+
+
 

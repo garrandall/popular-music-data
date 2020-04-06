@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dangerous-roxette
+lyrics_url: https://www.azlyrics.com/lyrics/roxette/dangerous.html
 name: Dangerous
 rankings:
 - end_date: '1989-12-22'
@@ -91,4 +92,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
 ---
+
+You pack your bag.
+You take control.
+You're moving into my heart
+and into my soul.
+Get out of my way!
+Get out of my sight!
+I won't be walking on thin
+ice to get through the night.
+
+Hey, where's your work?
+What's your game?
+I know your business
+but I don't know your name...
+Hold on tight,
+you know she's a little bit dangerous.
+She's got what it takes to make ends meet
+the eyes of a lover that hit like heat.
+You know she's a little bit dangerous.
+
+You turn around,
+so hot and dry.
+You're hiding under a halo,
+your mouth is alive.
+Get out of my way!
+Get out of my sight!
+I'm not attracted to go-go deeper tonight.
+
+Hey, what's your word?
+What's your game?
+I know your business
+but I don't know your name...
+Hold on tight...
+
+
 

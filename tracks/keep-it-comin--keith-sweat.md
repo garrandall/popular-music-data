@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-it-comin--keith-sweat
+lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/keepitcomin.html
 name: Keep It Comin'
 rankings:
 - end_date: '1991-12-06'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
 ---
+
+Kick it one time!!!
+
+
+Keep it comin', girl I want you to
+Turn me on with all the kissing and hugging
+Do me baby, drive me crazy
+I can never get enough of your lovin'
+
+Feels so good when I'm with you
+You know I gotta have your love
+Every day and every night
+You're the one I'm thinking of
+(You've got all I love)
+Everything that I like, oh yes you do
+(Let's make love tonight)
+All you gotta do is bring your body right here, babe
+
+
+
+Ooh ooh baby
+
+Kissing you is such a thrill
+Take you for a natural high
+Can't explain the way it feels
+When it goes up deep inside
+(Let me hold you tight)
+Hold you tight
+And have your body all night long, girl
+(Give me all you got)
+Give me all you got, babe
+Don't you ever smile, babe
+
+
+
+
+Let your hair down, come lay next to me
+Feel my body, give me the love that I need
+
+All you do is let your pretty hair down girl
+Baby, you're right next to me
+
+
+
+
 

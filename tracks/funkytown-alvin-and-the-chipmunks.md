@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funkytown-alvin-and-the-chipmunks
+lyrics_url: https://www.azlyrics.com/lyrics/alvinandthechipmunks/funkytown.html
 name: Funkytown
 rankings:
 - end_date: '2008-01-18'
@@ -15,4 +16,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
 ---
+
+
+Gotta make a move to a town that's right for me,
+Town to get me movin'
+Keep me groovin' with some energy
+
+
+Well, I talk about it,
+Talk about it
+Talk about it
+Talk about it
+
+Talk about, 
+Talk about,
+Talk about moving,
+
+Gotta move on
+Gotta move on
+Gotta move on
+
+
+oh, oh, yeah
+
+Won't you take me to,
+Funkytown? 
+
+
+Gotta make a move to a town that's right for me,
+Town to get me movin'
+Keep me groovin' with some energy.
+
+
+Well, I talk about it,
+Talk about it
+Talk about it
+Talk about it
+
+Talk about, Talk about,
+Talk about moving,
+
+Gotta move on
+Gotta move on
+Gotta move on
+
+
+oh, oh, yeah
+
+Won't you take me to,
+Funkytown
+
+Come on everybody,
+shake it up and down,
+lets get up, party on,
+in the Funkytown,
+put your hands up high,
+now take it down low,
+come on party people it's time to go!
+
+
+oh, oh, yeah
+
+Won't you take me to,
+Funkytown? 
+
+
 

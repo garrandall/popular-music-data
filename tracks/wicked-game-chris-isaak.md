@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wicked-game-chris-isaak
+lyrics_url: https://www.azlyrics.com/lyrics/chrisisaak/wickedgame.html
 name: Wicked Game
 rankings:
 - end_date: '1990-12-07'
@@ -103,4 +104,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
 ---
+
+The world was on fire and no one could save me but you
+It's strange what desire will make foolish people do
+I never dreamed that I'd meet somebody like you
+And I never dreamed that I'd lose somebody like you
+
+No, I don't want to fall in love (this girl is only gonna break your heart)
+No, I don't want to fall in love (this girl is only gonna break your heart)
+With you, with you (this girl is only gonna break your heart)
+
+What a wicked game to play to make me feel this way
+What a wicked thing to do, to let me dream of you
+What a wicked thing to say, you never felt this way
+What a wicked thing to do, to make me dream of you
+
+And I don't wanna fall in love (this girl is only gonna break your heart)
+No, I don't wanna fall in love (this girl is only gonna break your heart)
+With you
+
+The world was on fire and no one could save me but you
+It's strange what desire will make foolish people do
+I never dreamed that I'd love somebody like you
+And I never dreamed that I'd lose somebody like you
+
+No, I don't wanna fall in love (this girl is only gonna break your heart)
+No, I don't wanna fall in love (this girl is only gonna break your heart)
+With you (this girl is only gonna break your heart)
+With you (this girl is only gonna break your heart)
+No, I... (this girl is only gonna break your heart)
+(This girl is only gonna break your heart)
+
+Nobody loves no one
+
+
 

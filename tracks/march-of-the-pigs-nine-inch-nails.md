@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: march-of-the-pigs-nine-inch-nails
+lyrics_url: https://www.azlyrics.com/lyrics/madinalake/marchofthepigs.html
 name: March Of The Pigs
 rankings:
 - end_date: '1994-03-18'
@@ -19,4 +20,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
 ---
+
+Step right up, march push
+Crawl right up on your knees
+Please, greed feed (no time to hesitate)
+I want a little bit I want a piece of it I think he's losing it
+I want to watch it come down
+Don't like the look of it don't like the taste of it don't like the
+Smell of it
+I want to watch it come down
+
+All the pigs are all lined up
+I give you all that you want
+Take the skin and peel it back
+Now doesn't that make you feel better?
+
+Shove it up inside surprise! lies
+Stains like the blood on your teeth
+Bite, chew, suck away the tender parts
+I want to break it up i want to smash it up i want to f**k it up
+I want to watch it come down
+Maybe afraid of it let's discredit it let's pick away at it
+I want to watch it come down
+
+All the pigs are all lined up
+I give you all that you want
+Take the skin and peel it back
+Now doesn't that make you feel better?
+The pigs have won tonight
+Now they can all sleep soundly
+And everything is all right
+
+
 

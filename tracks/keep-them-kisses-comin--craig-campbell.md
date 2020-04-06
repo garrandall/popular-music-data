@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-them-kisses-comin--craig-campbell
+lyrics_url: https://www.azlyrics.com/lyrics/craigcampbell/keepthemkissescomin.html
 name: Keep Them Kisses Comin'
 rankings:
 - end_date: '2014-05-23'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
 ---
+
+You got your hair down
+You got that look in your eye
+That says come here and get me boy
+Lay me down and love me just right, yeah
+Ainât goin no where
+I got a bottle of wine
+I got nothinâ but time on my hands
+And Iâm gonna be your man tonight, ah yes I am
+
+ 
+I canât imagine doinâ nothin but what Iâm doin
+Just layinâ round tangled up with you
+We got our buzz on sippinâ on a little something
+I need your lovinâ
+Just keep them kisses cominâ
+
+Itâs been a long week
+Iâve been missinâ me some you
+All I wanna do is get your lips on mine 
+Girl if you only knew, hey
+
+ 
+I canât imagine doinâ nothin but what Iâm doin
+Just layinâ round tangled up with you
+We got our buzz on sippinâ on a little something
+I need your lovinâ
+Just keep them kisses cominâ
+Yeah keep âem cominâ all night
+
+Donât stop killinâ me baby
+Donât stop drivinâ me crazy
+I swear thereâs honey on your lips
+Baby give me one more long slow kiss
+
+ 
+I canât imagine doinâ nothin but what Iâm doin
+Just layinâ round tangled up with you
+We got our buzz on sippinâ on a little something
+I need your lovinâ
+Just keep them kisses cominâ
+Oh keep âem cominâ all night, hey
+
+
 

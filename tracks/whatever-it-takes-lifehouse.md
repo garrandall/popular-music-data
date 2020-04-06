@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatever-it-takes-lifehouse
+lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/whateverittakes.html
 name: Whatever It Takes
 rankings:
 - end_date: '2008-02-08'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
 ---
+
+A strangled smile fell from your face
+It kills me that I hurt you this way
+The worst part is that I didn't even know
+Now there's a million reasons for you to go
+But if you can find a reason to stay
+
+I'll do whatever it takes
+To turn this around
+I know what's at stake
+I know that I've let you down
+And if you give me a chance
+Believe that I can change
+I'll keep us together whatever it takes
+
+She said "If we're gonna make this work
+You gotta let me inside even though it hurts
+Don't hide the broken parts that I need to see"
+She said "Like it or not it's the way it's gotta be
+You gotta love yourself if you can ever love me"
+
+I'll do whatever it takes
+To turn this around
+I know what's at stake
+I know that I've let you down
+And if you give me a chance
+And give me a break
+I'll keep us together, I know you deserve much better
+
+But remember the time I told you the way that I felt
+That I'd be lost without you and never find myself
+Let's hold onto each other above everything else
+Start over, start over
+
+I'll do whatever it takes
+To turn this around
+I know what's at stake
+I know I've let you down
+And if you give me a chance
+and believe that I can change
+I'll keep us together whatever it takes
+
+
 

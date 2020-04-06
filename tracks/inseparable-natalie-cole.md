@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: inseparable-natalie-cole
+lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/inseparable.html
 name: Inseparable
 rankings:
 - end_date: '1975-12-19'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
+
+Inseparable
+That's how we'll always be
+Inseparable
+Just you and me
+It's so wonderful
+To know you'll always be around me
+
+Incredible
+What you are to me
+Incredible
+You bring out the woman in me
+With your style of love
+Inseparable
+Yes we are
+
+We're like a flower to a tree
+Like words to a melody of love
+There's no way we could break up
+No words that could make us blow our thing
+We are just~
+
+Inseparable
+That's how it is
+Inseparable
+For the rest of our years
+It's so wonderful
+To know you'll always be around
+
+
 

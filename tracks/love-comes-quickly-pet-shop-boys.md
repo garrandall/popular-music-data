@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-comes-quickly-pet-shop-boys
+lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/lovecomesquickly.html
 name: Love Comes Quickly
 rankings:
 - end_date: '1986-09-05'
@@ -39,4 +40,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
 ---
+
+Sooner or later, this happens to everyone
+To everyone
+
+You can live your life lonely
+Heavy as stone
+Live your life learning 
+And working alone
+Say this is all you want
+But I don't believe that it's true
+'Cause when you least expect it
+Waiting round the corner for you
+
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+
+You can live a life of luxury
+If that's what you want
+Taste forbidden pleasures
+Whatever you want
+
+You can fly away to the end of the world
+But where does it get you to?
+'Cause just when you least expect it
+Just what you least expect
+
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+
+I know it sounds ridiculous, but speaking from experience
+It may seem romantic, and that's no defense
+Love will always get to you
+
+Sooner or later, sooner or later, this happens to everyone
+To everyone
+
+You can fly away to the end of the world
+But where does it get you?
+
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+(Oooh)
+
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+Love comes quickly, whatever you do
+You can't stop falling (Ooh ooh)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-out-my-name-the-weeknd
+lyrics_url: https://www.azlyrics.com/lyrics/ruel/calloutmyname.html
 name: Call Out My Name
 rankings:
 - end_date: '2018-04-20'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
 ---
+
+We found each other
+I helped you out of a broken place
+You gave me comfort
+But falling for you was my mistake
+
+I put you on top, I put you on top
+I claimed you so proud and openly
+And when times were rough, when times were rough
+I made sure I held you close to me
+
+So call out my name (call out my name)
+Call out my name when I kiss you so gently
+I want you to stay (want you to stay)
+I want you to stay even though you don't want me
+Girl, why can't you wait? (why can't you wait, baby?)
+Girl, why can't you wait 'til I fall out of love?
+Won't you call out my name? (call out my name)
+Girl, call out my name, and I'll be on my way and
+I'll be on myâ
+
+I said I didn't feel nothing, baby, but I lied
+I almost cut a piece of myself for your life
+Guess I was just another pit stop
+'Til you made up your mind
+You just wasted my time
+
+You were on top, I put you on top
+I claimed you so proud and openly, babe
+And when times were rough, when times were rough
+I made sure I held you close to me
+
+So call out my name (call out my name, baby)
+So call out my name when I kiss you so gently (ohh)
+I want you to stay (I want you to stay)
+I want you to stay even though you don't want me
+Girl, why can't you wait? (girl, why can't you wait 'til I?)
+Girl, why can't you wait 'til I fall out of loving?
+Babe, call out my name (say call out my name, baby)
+Just call out my name and I'll be on my way
+Girl, I'll be on myâ
+
+On my way, all the way
+On my way, all the way, ooh
+On my way, on my way, on my way
+On my way, on my way, on my way
+(On my)
+
+
 

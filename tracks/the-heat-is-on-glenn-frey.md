@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-heat-is-on-glenn-frey
+lyrics_url: https://www.azlyrics.com/lyrics/gloriagaynor/theheatison.html
 name: The Heat Is On
 rankings:
 - end_date: '1984-12-14'
@@ -103,4 +104,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
 ---
+
+The heat is on, on the street
+Inside your head, on every beat
+And the beat's so loud, deep inside
+The pressure's high, just to stay alive
+'Cause the heat is on
+
+Oh woo oh ho, oh woo oh ho
+Caught up in the action I've been looking out for you
+Oh woo oh ho, oh woo oh ho
+Tell me can you feel it? Tell me can you feel it?
+Tell me can you feel it?
+
+The heat is on, the heat is on
+The heat is on, it's on the street
+The heat is on
+
+Oh woo oh ho, oh woo oh ho
+Caught up in the action I've been looking out for you
+Oh woo oh ho, oh woo oh ho
+Tell me can you feel it? Tell me can you feel it?
+Tell me can you feel it?
+
+The heat is on, the heat is on
+The heat is on, it's on the street
+The heat is on
+
+The shadows are on the darker side
+Behind those doors, it's a wilder ride
+You can make a break, you can win or lose
+That's a chance you take when the heat's on you
+When the heat is on
+
+Oh woo oh ho, oh woo oh ho
+Caught up in the action I've been looking out for you
+Oh woo oh ho, oh woo oh ho
+Tell me can you feel it? Tell me can you feel it?
+Tell me can you feel it?
+
+The heat is on, the heat is on
+The heat is on, it's on the street
+The heat is on, the heat is on
+The heat is on, it's on the street
+The heat is on, the heat is on
+
+
 

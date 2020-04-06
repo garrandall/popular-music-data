@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: among-my-souvenirs-connie-francis
+lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/amongmysouvenirs.html
 name: Among My Souvenirs
 rankings:
 - end_date: '1959-11-29'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
 ---
+
+There's nothing left for me
+Of days that used to be
+They're just a memory
+Among my souvenirs
+
+Some letters sad and blue
+A photograph or two
+I see a rose from you
+Among my souvenirs
+
+A few more tokens rest
+Within my treasure chest
+And, though they do their best
+To give me consolation
+
+I count them all apart
+And, as the teardrops start
+I find a broken heart
+Among my souvenirs
+
+I count them all apart
+And, as the teardrops start
+I find a broken heart
+Among my souvenirs
+
+
 

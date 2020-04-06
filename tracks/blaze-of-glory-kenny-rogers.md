@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blaze-of-glory-kenny-rogers
+lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/blazeofglory.html
 name: Blaze Of Glory
 rankings:
 - end_date: '1981-11-27'
@@ -43,4 +44,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
 ---
+
+Let's go out in a blaze of glory
+All good things must end
+Like two heroes in a story
+Let's go out like we came in
+In a blaze of glory
+
+Here we are broken hearted
+We thought our love would never end
+We fell hard when we got started
+We're fallin' out like we fell in
+
+Let's go out in a blaze of glory
+All good things must end
+Like two heroes in a story
+Let's go out like we came in
+In a blaze of glory
+
+Let's don't lie and hurt each other
+That would be our worst mistake
+Once again let's act like lovers
+One more time for old time's sake
+
+Let's go out in a blaze of glory
+All good things must end
+Like two heroes in a story
+Let's go out like we came in
+In a blaze of glory
+
+Let's go out in a blaze of glory
+All good things must end
+Like two heroes in a story
+Let's go out like we came in
+In a blaze of glory
+
+
 

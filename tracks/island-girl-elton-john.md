@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: island-girl-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/islandgirl.html
 name: Island Girl
 rankings:
 - end_date: '1975-10-17'
@@ -67,4 +68,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
 ---
+
+I see your teeth flash, Jamaican honey so sweet
+Down where Lexington cross 47th Street
+She's a big girl, she's standing six foot three
+Turning tricks for the dudes in the big city
+
+Island girl
+What you wanting with the white man's world
+Island girl
+Black boy want you in his island world
+He want to take you from the racket boss
+He want to save you but the cause is lost
+Island girl, island girl, island girl
+Tell me what you wanting with the white man's world
+
+She's black as coal but she burn like a fire
+And she wrap herself around you like a well worn tire
+You feel her nail scratch your back just like a rake
+He one more gone, he one more John who make the mistake
+
+
 

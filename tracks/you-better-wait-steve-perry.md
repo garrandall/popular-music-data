@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-wait-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/steveperry/youbetterwait.html
 name: You Better Wait
 rankings:
 - end_date: '1994-07-22'
@@ -71,4 +72,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-29'
 ---
+
+She was only a child
+Someone to hold on
+Only a child
+Someone to believe in
+Only a child
+Someone to love
+
+She was 17
+Beauty queen
+I met her in a magazine
+Heart of fire
+Love's desire
+Reachin' out higher, higher
+
+Run away
+One more day
+A broken-hearted child at play
+I pray for you, baby blue
+In the name of love I reach for you
+In the darkness comes the evil of the night
+Think about it
+
+You better wait
+Stop yourself before you fall
+You better wait
+Stop before you lose it all
+Somewhere there's love
+Oh, somewhere, some way
+
+Precious girl
+Little pearl
+Temptation is lonely world
+Eyes deceive
+They believe
+In everything they wanna see, yeah
+And the neon lights reflect your life
+Only you know where you hide, baby
+
+You better wait
+Stop yourself before you fall
+You better wait
+Stop before you lose it all
+'Cause somewhere there's love
+
+You better wait
+Stop yourself before you start
+You better wait
+Don't look back
+Don't lose heart
+
+Don't look
+Don't look
+Don't look back, babe
+
+Don't
+Don't look
+Don't look
+Don't look back, baby
+
+
 

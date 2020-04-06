@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovers-who-wander-dion
+lyrics_url: https://www.azlyrics.com/lyrics/dionband/loverswhowander.html
 name: Lovers Who Wander
 rankings:
 - end_date: '1962-04-27'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
 ---
+
+When she kissed me I was born and she said goodbye
+And I knew right away I was born to cry
+Now I'm happy and the joke's on her
+'Cause I found that place for lover's who wander
+
+She took my love, said she's not comin' back
+So my world and my sky was all turnin' black
+Now I see the light, I'm wise to her
+'Cause I found that place for lovers who wander
+
+A walkin' around thinkin' about her
+Never thought I could live without her
+She broke my heart, I really showed it
+Look at me now, you'd never know it
+
+Now my story can be told with a smiling face
+I'm the luckiest guy in the human race
+My dreams have gone for her
+'Cause I found that place for lover's who wander
+
+Wo wo wo yeah, she took my love you see
+Yeah, she doesn't bother me
+Yeah I found that place to be
+Yeah, oh
+
+Yeah walkin' around thinkin' about her
+I never thought I could live without her
+She broke my heart, I really showed it
+Look at me now, you'd never know it
+
+Now my story can be told with a smiling face
+I'm the luckiest guy in the human race
+All my lovin' dreams have gone for her
+'Cause I found that place for lover's who wander
+
+Dum dum did it, dum dum did it...
+
+
 

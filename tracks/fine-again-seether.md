@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fine-again-seether
+lyrics_url: https://www.azlyrics.com/lyrics/seether/fineagain.html
 name: Fine Again
 rankings:
 - end_date: '2003-01-03'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
 ---
+
+It seems like every dayâs the same
+and Iâm left to discover on my own
+It seems like everything is gray
+and thereâs no color to behold
+They say itâs over and Iâm fine again, yeah
+Try to stay sober feels like Iâm dying here
+
+And I am aware now of how
+everythingâs gonna be fine one day
+Too late, Iâm in hell I am prepared now,
+seems everyoneâs gonna be fine
+One day too late, just as well
+
+I feel the dream in me expire
+and thereâs no one left to blame it on
+I hear you label me a liar
+âcause I canât seem to get this through
+You say itâs over, I can sigh again, yeah
+Why try to stay sober when Iâm dying here
+
+And I am aware now of how
+everythingâs gonna be fine one day
+Too late, Iâm in hell
+I am prepared now,
+seems everyoneâs gonna be fine
+One day too late; just as well
+
+And Iâm not scared now.
+I must assure you,
+youâre never gonna get away
+And Iâm not scared now.
+And Iâm not scared now. Noâ¦
+
+I am aware now of how
+everythingâs gonna be fine one day
+Too late, Iâm in hell
+I am prepared now
+seems everyoneâs gonna be fine
+One day too late, just as well
+I am prepared now,
+seems everythingâs gonna be fine for me
+For me; for myself.
+For me, for me, for myself
+For me, for me, for myself
+
+I am prepared now for myself
+I am prepared now and I am fine... again
+
+
 

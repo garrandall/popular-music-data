@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-love-of-a-boy-timi-yuro
+lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/theloveofaboy.html
 name: The Love Of A Boy
 rankings:
 - end_date: '1962-12-07'
@@ -39,4 +40,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
 ---
+
+The love of a boy
+Can change a girl
+Into a woman
+
+(Woman, a woman)
+
+I know that it's true
+My love for you
+Made me a woman
+
+One time I was only a girl
+Young and afraid
+You came to me
+And you gave me love
+What a difference you made
+
+The love of a boy
+Can change a girl
+Into a woman
+
+(Woman, a woman)
+
+With just one caress
+Your tenderness
+Made me a woman
+Made me a woman
+
+You are faithful and true
+Love burning deep in my heart
+Is onl . . . 
+And it's only for you
+My true love
+
+Woah, oh oh, oh oh
+Woah, oh oh, oh oh . . .
+
+
 

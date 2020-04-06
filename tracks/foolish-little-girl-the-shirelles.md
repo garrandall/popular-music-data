@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foolish-little-girl-the-shirelles
+lyrics_url: https://www.azlyrics.com/lyrics/shirelles/foolishlittlegirl.html
 name: Foolish Little Girl
 rankings:
 - end_date: '1963-03-29'
@@ -63,4 +64,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
+
+"You broke his heart and made him cry and he's been blue since then"
+"Now he's found somebody new and you want him back again"
+
+Foolish little girl,fickle little girl
+You didn't want him when he wanted you
+He's found another love,it's her he's dreaming of
+And there's not a single thing that you can do
+
+"But I love him"
+"No you don't it's just your pride that's hurt"
+"I still love him"
+(If you got him back again,you'd go right out and do him dirt)
+
+Foolish little girl,fickle little girl
+You didn't want him when he wanted you
+He's found another love, it's her he's dreaming of
+And there's not a single thing that you can do
+
+"But I love him"
+"It's too late to have a change of heart"
+"I still love him"
+(Tomorrow is his wedding day and you'll keep quiet if you're smart!)
+
+Foolish little girl, fickle little girl
+You didn't want him when he wanted you
+He's found another love, it's her he's dreaming of
+And there's not a single thing that you can do
+
+"Forget him cause he don't belong to you"
+"It's too late he's found somebody new"
+"There's not a single thing that you can do"
+
+
 

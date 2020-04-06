@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: past-present-and-future-the-shangri-las
+lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/pastpresentandfuture.html
 name: Past Present And Future
 rankings:
 - end_date: '1966-07-01'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
 ---
+
+The past, past, well now let me tell you about the past
+The past is filled with silent joys and broken toys
+Laughing girls and teasing boys
+Was I ever in love? I called it love - I mean, it felt like love
+There were moments when, well, there were moments when
+
+Present, go out with you? Why not
+Do I like to dance? Of course
+Take a walk along the beach tonight? I'd love to
+But don't try to touch me, don't try to touch me
+'Cause that will never happen again
+Shall we dance
+
+The future, tomorrow? well tomorrows a long way off
+Maybe someday I'll have somebody's hand
+Maybe somewhere someone will understand
+You know I used to sing - a tisket a tasket a green and yellow basket
+I'm all packed up and I'm on my way and I'm gonna fall in love
+But at the moment it doesn't look good
+At the moment it will never happen again
+
+I don't think it will ever happen again
+
+
 

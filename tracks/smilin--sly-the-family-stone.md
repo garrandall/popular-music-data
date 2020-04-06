@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: smilin--sly-the-family-stone
+lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/youcaughtmesmilin.html
 name: Smilin'
 rankings:
 - end_date: '1972-04-28'
@@ -36,4 +37,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
 ---
+
+You caught me smilin' again.
+You caught me smilin' again.
+Hangin' loose
+'Cause you ain't used to seeing me turnin' on.
+
+You caught me smilin' again.
+You caught me smilin' again.
+I'll be gone
+And it won't take you long to climb a tree about me.
+
+You caught me smilin' again.
+You caught me smilin' again.
+
+I'll be around to carry on!
+
+Hey, you caught me smilin' again.
+You caught me smilin' again.
+In my pain I'll be sane to take your hand.
+
+
 

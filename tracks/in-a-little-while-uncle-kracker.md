@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-little-while-uncle-kracker
+lyrics_url: https://www.azlyrics.com/lyrics/unclekracker/inalittlewhile.html
 name: In A Little While
 rankings:
 - end_date: '2002-11-08'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
 ---
+
+Here's to the good life or so they say
+All those parties and games that all those people play
+They tell me this is the place to be
+All these beautiful people and nothin' to see
+
+Sometimes I feel like something is gone here
+Something is wrong here, I don't belong here
+Sometimes I feel like a stranger in town 
+And I've lost what I found, it'll all turn around
+
+
+
+In a little while I'll be thinkin' about you
+In a little while I'll still be here without you
+You never gave me a reason to doubt you
+In a little while I'll be thinkin' about you baby...I'll be thinkin' about you baby
+
+On the other side of a coin
+There's a face there's a memory somewhere that I can't erase
+And there's a place that I find someday
+But sometimes I feel like it's slippin' away
+
+Sometimes I feel like something is gone here
+Something is wrong here, I don't belong here
+Sometimes I feel like a stranger in town 
+And I've lost what I found, it'll all turn around
+
+
+
+Some things are lost some left behind
+Some things are better left for someone else to find
+Maybe in time I can finally see
+I just wonder, wonder if you think about me
+
+Sometimes I feel like something is gone here
+Something is wrong here, I don't belong here
+Sometimes I feel like a stranger in town 
+And I've lost what I found, it'll all turn around
+
+
+
+
 

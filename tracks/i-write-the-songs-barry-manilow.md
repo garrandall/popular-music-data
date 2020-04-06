@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-write-the-songs-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/iwritethesongs.html
 name: I Write The Songs
 rankings:
 - end_date: '1975-11-21'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
 ---
+
+I've been alive forever
+And I wrote the very first song
+I put the words and melodies together
+I am music and I write the songs
+
+
+I write the songs that make the whole world sing
+I write the songs of love and special things
+I write the songs that make the young girls cry
+I write the songs, I write the songs
+
+My home lies deep within you
+And I've got my own place in your soul
+Now when I look out through your eyes
+I am young again even though I'm very old
+
+
+
+My music makes you dance and gives you spirit to take a chance
+And I wrote some rock 'n' roll so you can move
+Music fills your heart and that's a real fine way to start
+It's from me, it's for you, it's from you, it's for me
+It's a worldwide symphony
+
+
+
+Yeah! I write the songs that make the whole world scream!
+I write the songs of love and special things
+I write the songs that make the young girls cry
+I write the songs, I write the songs
+
+I am music (music) and I write the songs
+Yeah
+
+
 

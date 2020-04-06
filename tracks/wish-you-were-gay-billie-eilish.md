@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wish-you-were-gay-billie-eilish
+lyrics_url: https://www.azlyrics.com/lyrics/chloemoriondo/wishyouweregay.html
 name: Wish You Were Gay
 rankings:
 - end_date: '2019-03-22'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
 ---
+
+"Baby, I don't feel so good," six words you never understood
+"I'll never let you go," five words you'll never say (Aww)
+I laugh along like nothing's wrong, four days has never felt so long
+If three's a crowd and two was us, one slipped away
+
+I just wanna make you feel okay
+But all you do is look the other way
+I can't tell you how much I wish I didn't wanna stay
+I just kinda wish you were gay
+
+Is there a reason we're not through?
+Is there a twelve step just for you?
+Our conversation's all in blue
+Eleven "heys" (Hey, hey, hey, hey)
+Ten fingers tearin' out my hair
+Nine times you never made it there
+I ate alone at seven, you were six minutes away
+(Yay)
+
+How am I supposed to make you feel okay
+When all you do is walk the other way?
+I can't tell you how much I wish I didn't wanna stay
+I just kinda wish you were gay
+
+To spare my pride
+To give your lack of interest an explanation
+Just say I'm not your type
+Don't say that I'm not your preferred sexual orientation
+I'm so selfish
+But you make me feel helpless, yeah
+I can't stand another day
+Stand another day
+
+I just wanna make you feel okay
+But all you do is look the other way
+I can't tell you how much I wish I didn't wanna stay
+I just kinda wish you were gay
+I just kinda wish you were gay
+I just kinda wish you were gay
+
+
 

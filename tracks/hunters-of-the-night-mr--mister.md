@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hunters-of-the-night-mr--mister
+lyrics_url: https://www.azlyrics.com/lyrics/mrmister/huntersofthenight.html
 name: Hunters Of The Night
 rankings:
 - end_date: '1984-03-23'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
 ---
+
+He's a lean and hungry hunter, on the street tonight the fire's bright
+She's in his sights
+She's a lonely little dancer, out to find a daring new romance
+The girl takes a chance
+
+
+They're hunters of the night, find their love where they might
+We're all hunters of the night
+
+Yeah
+
+She can see her lonely stranger, standing in the cold street corner light
+There in the night
+She can feel his arms surround her, wanting this embrace to never end
+Still once again
+
+
+
+Ohhh-ohhh, we're all hunters of the night
+
+
+
+See the lean and hungry hunter, standing in the cold street corner light
+There in the night
+She can feel his arms surround her, wanting this embrace to never end
+Still once again
+
+
+
+We are hunters, we all hunt the night, findin' love wherever they might
+We're all hunters, we're hunters of the night
+Ohhh-ohhh, we're all hunters of the night
+Ohhh-ohhh, we're all hunters of the night
+Ohhh, we hunt the night, we hunt the night, we hunt the night... 
+
+
 

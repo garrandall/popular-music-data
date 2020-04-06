@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-as-ice-foreigner
+lyrics_url: https://www.azlyrics.com/lyrics/foreigner/coldasice.html
 name: Cold As Ice
 rankings:
 - end_date: '1977-07-29'
@@ -91,4 +92,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
 ---
+
+You're as cold as ice
+You're willing to sacrifice our love
+You never take advice
+Someday you'll pay the price, I know
+
+I've seen it before
+It happens all the time
+You're closing the door
+You leave the world behind
+
+You're digging for gold
+Yet throwing away
+A fortune in feelings
+But someday you'll pay
+
+You're as cold as ice
+You're willing to sacrifice our love
+You want Paradise
+But someday you'll pay the price
+I know
+
+I've seen it before
+It happens all the time
+You're closing the door
+You leave the world behind
+You're digging for gold
+Yet throwing away
+A fortune in feelings
+But someday you'll pay
+
+Cold as ice, you know that you are
+Cold, (cold) as, (as) ice,
+As cold as ice to me
+(Cold, cold cold) (as, as, as) (ice)
+
+(Ooh, ooh, ooh, cold as, cold as ice)
+(You're as cold as icccce)
+You're as cold as ice
+(Cold as icccce),
+Cold as ice I know
+(You're as cold as icccce)
+You're as cold as ice
+(Cold as iccce)
+Cold as ice I know
+(You're as cold as icccce)
+Oh yes I know
+(Cold as icccce)
+(You're as cold as icccce)
+You're as cold as ice
+(Cold as icccce)
+Cold as ice I know
+(You're as cold as icccce)
+Oh, yes I know
+(Cold as icccce)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: counting-stars-onerepublic
+lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/countingstars.html
 name: Counting Stars
 rankings:
 - end_date: '2013-07-12'
@@ -279,4 +280,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
 ---
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll be counting stars
+Yeah, we'll be counting stars
+
+I see this life like a swinging vine
+Swing my heart across the line
+In my face is flashing signs
+Seek it out and ye shall find
+
+Old but I'm not that old
+Young but I'm not that bold
+And I don't think the world is sold
+On just doing what we're told
+
+I feel something so right by doing the wrong thing
+And I feel something so wrong by doing the right thing
+
+I couldn't lie, couldn't lie, couldn't lie
+Every thing that kills me makes me feel alive
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll be counting stars
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll beâwe'll be counting stars
+
+I feel the love
+And I feel it burn
+Down this river every turn
+Hope is our four-letter word
+Make that money, watch it burn
+
+Old but I'm not that old
+Young but I'm not that bold
+And I don't think the world is sold
+On just doing what we're told
+
+And I feel something so wrong by doing the right thing
+I couldn't lie, couldn't lie, couldn't lie
+Every thing that drowns me makes me wanna fly
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll be counting stars
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll beâwe'll be counting stars
+
+Oh, take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+
+Every thing that kills me makes me feel alive
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll be counting stars
+
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But, baby, I've been, I've been praying hard
+Said no more counting dollars
+We'll beâwe'll be counting stars
+
+Take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+Take that money watch it burn
+Sink in the river the lessons I've learned
+
+
 

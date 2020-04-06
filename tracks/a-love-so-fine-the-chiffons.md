@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-love-so-fine-the-chiffons
+lyrics_url: https://www.azlyrics.com/lyrics/chiffons/alovesofine.html
 name: A Love So Fine
 rankings:
 - end_date: '1963-09-13'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
 ---
+
+Oh yes, he's the darling, and I'm so glad that he'll be mine
+Yesterday he said he wants me to share a love so fine
+(A love so fine)
+
+When he smiled for me only and his kisses are so divine
+From now on I won't be lonely, 'cause we're sharing
+A love so fine (a love so fine)
+
+All the girls are jealous of him
+That's not really hard to see
+They would never try to love him
+His love belongs to me
+
+Our love will last forever, and forever's a long, long time
+And I know no one will ever, ever break up
+A love so fine, (a love so fine)
+
+Oh yeah (a love so fine)
+Yeah, yeah (a love so fine)
+Oh yeah (a love so fine)
+
+
 

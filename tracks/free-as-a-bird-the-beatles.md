@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: free-as-a-bird-the-beatles
+lyrics_url: https://www.azlyrics.com/lyrics/beatles/freeasabird.html
 name: Free As A Bird
 rankings:
 - end_date: '1996-01-05'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
 ---
+
+Free as a bird
+It's the next best thing to be
+Free as a bird
+
+Home, home and dry
+Like a homing bird I'll fly
+As a bird on wings
+
+Whatever happened to
+The life that we once knew?
+Can we really live without each other?
+
+Where did we lose the touch
+That seemed to mean so much?
+It always made me feel so...
+
+Free as a bird
+Like the next best thing to be
+Free as a bird
+
+Home, home and dry
+Like a homing bird I'll fly
+As a bird on wings
+
+Whatever happened to
+The life that we once knew?
+Always made me feel so free
+
+Ah...
+Ah...
+Ah...
+
+Free as a bird
+It's the next best thing to be
+Free as a bird
+Free as a bird
+Free as a bird
+Oooooo
+
+Free...
+
+
+
+
 

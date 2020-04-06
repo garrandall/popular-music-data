@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: write-this-down-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/seckondchaynce/writethisdown.html
 name: Write This Down
 rankings:
 - end_date: '1999-04-30'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
 ---
+
+I never saw the end in sight - fools are kind of blind
+Thought everything was going alright, but I was running out of time
+Cuz you had one foot out the door, I swear I didn't see
+But if you're really going away, then darling, here's a final word from me
+
+I love you, and I don't want to lose you
+Baby girl, I refuse to let you go away
+So Darling
+
+Write this down, take a little note, to remind you in case you didn't know
+Tell yourself I love you and I don't want you to go, write this down
+Baby, write this down, read it every day, keep it close by, don't you let it fade away
+So you remember what I forgot to say, write this down
+
+I'll sign it at the bottom of the page, I'll swear under oath
+Cause every single word is true, and I think you need to know
+So use it as a bookmark, stick it on your 'frigerator door
+Hang it in a picture frame up above the mantel, where you'll see it for sure
+
+(Sure, girl)
+
+I love you, and I don't want to lose you
+Baby girl, I refuse to let you go away
+So Darling
+
+Write this down, take a little note, to remind you in case you didn't know
+Tell yourself I love you and I don't want you to go, write this down
+Baby, write this down, read it every day, keep it close by, don't you let it fade away
+So you remember what I forgot to say, write this down
+
+Girl, you're the one I sang my love songs to
+The ones that say I'm sad and blue
+And I am, when I think of you
+And that's about all I do
+
+(Girl do you hear me, I hope that you)
+
+Write this down, take a little note, to remind you in case you didn't know
+Tell yourself I love you and I don't want you to go, write this down
+Baby, write this down, read it every day, keep it close by, don't you let it fade away
+So you remember what I forgot to say, write this down
+
+
 

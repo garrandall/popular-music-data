@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rescue-me-melissa-manchester
+lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/rescueme.html
 name: Rescue Me
 rankings:
 - end_date: '1976-08-13'
@@ -19,4 +20,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
 ---
+
+Rescue me
+Protect me in your arms
+Rescue me
+I want your tender charm
+'Cause I'm lonely
+And I'm blue
+I need you
+And your love too
+Come on and rescue me
+
+Come on, baby, and rescue me
+Come on, baby, and rescue me
+'Cause I need you by my side
+Can't you see that I'm lonely
+
+Rescue me
+Come on and take my heart
+Take your love and conquer every part
+'Cause I'm lonely
+And I'm blue
+I need you
+And your love too
+Come on and rescue me
+
+Come on, baby, and rescue me
+Come on, baby, and rescue me
+'Cause I need you by my side
+Can't you see that I'm lonely
+
+Rescue me
+Protect me in your arms
+Rescue me
+I want your tender charm
+'Cause I'm lonely
+And I'm blue
+I need you
+And your love too
+Come on and rescue me
+
+(Come on baby)
+Take me baby (take me baby)
+Hold me baby (hold me baby)
+Love me baby (love me baby)
+Can't you see I need you baby
+Can't you see that I'm lonely
+
+Rescue me
+Come on and take my hand
+C'mon, baby and be my man
+'Cause I love you
+'Cause I want you
+Can't you see that I'm lonely
+
+Take me baby (take me baby)
+Love me baby (love me baby)
+Need me baby (need me baby)
+Can't you see that I'm lonely
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bed-jacquees
+lyrics_url: https://www.azlyrics.com/lyrics/jacquees/inmybed.html
 name: BED
 rankings:
 - end_date: '2017-09-01'
@@ -59,4 +60,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
 ---
+
+I got this feeling and I just can't turn it loose
+That somebody's been getting next to you
+I don't wanna walk around knowing I was your fool
+Cause being the man that I am
+I just can't lose my cool
+My friends keep telling me about the things thats going on
+But deep in my heart baby I hope that they wrong
+Yes I hope that they wrong but I know it babe
+
+Somebody's sleeping in my bed, baby
+Somebody's taking my place
+Somebody's sleeping in my bed, baby
+And you know just what I need, oh
+
+
 

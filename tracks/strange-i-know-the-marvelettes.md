@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-i-know-the-marvelettes
+lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/strangeiknow.html
 name: Strange I Know
 rankings:
 - end_date: '1962-12-07'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+
+It's strange, I know, but that's the way it goes
+Leaving you this way, I'm sorry to say
+That my love has faded, faded away
+It happened while you were gone
+You stayed away too long
+You didn't write or even call
+I thought you didn't care at all
+I was sad as I could be
+The same boy who's fella to me
+But oh how I tried to resist him, oh how I tried to resist him
+But my heart told me to keep him, my heart told me to keep him
+
+It's strange, I know, but that's the way it goes
+Leaving you this way, I'm sorry to say
+When you get home, I'll be gone
+Asked my papa for your letter that I put aside
+When you finish the letter, I'll be Eddie's bride
+
+It's strange, I know, but that's the way it goes
+Leaving you this way, but that's the way it goes
+It's strange, I know
+But that's they way, that's they way, that's the way, that's the way it goes
+
+Oh it's strange I know
+
+
 

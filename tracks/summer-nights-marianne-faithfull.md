@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-nights-marianne-faithfull
+lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/summernights.html
 name: Summer Nights
 rankings:
 - end_date: '1965-08-20'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
 ---
+
+Winter's almost gone
+Oh how I've waited so long
+For summer nights
+When there's magic in the air
+And I don't have a care
+All that matters to me
+Is that you are here
+On summer nights
+
+There's a little cafÃ©
+Where we can hear music play
+They keep the lights turned down low
+It's a place where lovers go
+There you'll hold me tight and say
+Our love will always be this way
+On summer nights
+
+At the end of the day
+We can go down to the bay
+And together hand in hand
+We will walk along the sand
+On summer nights
+
+In our little cafÃ©
+We'll dance the night away
+And we know our love will be
+Always true eternally
+
+And when the moon begins to shine
+I can see that you are mine
+On summer nights
+
+On summer nights
+On summer nights
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: did-you-ever-have-to-make-up-your-mind--the-lovin--spoonful
+lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/didyoueverhavetomakeupyourmind.html
 name: Did You Ever Have To Make Up Your Mind?
 rankings:
 - end_date: '1966-05-13'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
 ---
+
+Did you ever have to make up your mind?
+Pick up on one and leave the other one behind
+It's not often easy, and not often kind
+Did you ever have to make up your mind?
+
+Did you ever have to finally decide?
+Say yes to one and let the other one ride
+There's so many changes, and tears you must hide
+Did you ever have to finally decide?
+
+Sometimes there's one with deep blue eyes, cute as a bunny
+With hair down to here, and plenty of money
+And just when you think she's that one in the world
+Your heart gets stolen by some mousy little girl
+And then you know you better make up your mind
+Pick up on one and leave the other one behind
+It's not often easy, and not often kind
+Did you ever have to make up your mind?
+
+Sometimes you really dig a girl the moment you kiss her
+And then you get distracted by her older sister
+When in walks her father and takes you in line
+And says "Better go home, son, and make up your mind"
+Then you bet you'd better finally decide!
+And say yes to one and let the other one ride
+There's so many changes, and tears you must hide
+Did you ever have to finally decide?
+
+
 

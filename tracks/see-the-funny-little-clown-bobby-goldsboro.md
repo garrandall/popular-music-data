@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: see-the-funny-little-clown-bobby-goldsboro
+lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/seethefunnylittleclown.html
 name: See The Funny Little Clown
 rankings:
 - end_date: '1964-01-17'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
 ---
+
+See the funny little clown
+See him laughing as you walk by
+Everybody thinks he's happy
+'Cause you never see a tear in his eye
+
+No one knows he's crying
+No one knows he's dying on the inside
+'Cause he's laughing on the outside, mm
+No one knows, no one knows
+
+See the funny little clown
+He's hiding behind a smile
+They all think he's laughing
+But I know he's really crying all the while
+
+How his heart is aching
+How his heart is breaking on the inside
+But he keeps laughing on the outside, mm
+No one knows, no one knows
+
+This funny little clown
+You never used to see him around
+Without his girl beside him
+To love and guide him
+
+Until one day his girl just walked away
+And to this very day he says
+"He never loved her anyway"
+Mm, and no one knows except for me
+Because you see I'm that funny little clown
+
+
 

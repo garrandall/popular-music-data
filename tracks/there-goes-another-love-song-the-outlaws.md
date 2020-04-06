@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-another-love-song-the-outlaws
+lyrics_url: https://www.azlyrics.com/lyrics/outlaws/theregoesanotherlovesong.html
 name: There Goes Another Love Song
 rankings:
 - end_date: '1975-09-12'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
 ---
+
+Sometimes I feel like I'm getting kinda low
+Thoughts that I'm thinkin' are the reason
+So I try to remember without talkin' to myself
+Things that I said or maybe things that I felt about you
+
+Sittin' in a corner of a crowded bar room
+People all around me and I still feel alone
+Just when I know I'm gonna break down and cry
+Someone played a tune that dried the tear from my eye
+
+There goes another love song
+Someone singin' about me again
+There goes another love song
+Now I need more than a friend
+
+Lonesome and lonely, far from my home
+Tryin' to get back to where I know I belong
+Wishin' and hopin' I was already there
+I just heard a voice whispered in my ear, singin'
+
+There goes another love song
+Someone singin' about me again
+There goes another love song
+Now I need more than a friend
+
+There goes another love song
+Someone singin' about me again
+There goes another love song
+Now I need it more than a friend
+
+There goes another love song
+Someone singin' about me again
+There goes another love song
+Now I need more than a friend
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-only-way-out-cliff-richard
+lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/theonlywayout.html
 name: The Only Way Out
 rankings:
 - end_date: '1982-10-15'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
 ---
+
+Came a time in my life
+I had to be free
+From all the lies
+That used to be me
+And the only way out is the only way in
+And it's you
+
+I've been waisting my time
+But not anymore
+I've been through the maze
+And it lead to your door
+And the only way out is the only way in
+And it's you
+I spent a lot of time at the crossroads
+Getting that lonely feeling inside
+Suddenly you stopped the rain
+And you changed the view
+Now every where's leading to you
+
+Let's get this thing going
+Let's move it along
+Let me do all the things
+I've been missing so long
+'cos the only way out is the only way in 
+And it's you
+
+I spent a lot of time at the crossroads
+Getting that lonely feeling inside
+Suddenly you made the rescue
+You Pulled me through
+Now let me do something for you
+Let's get this thing going
+Let's move it along
+Let's do all the things
+I've been missing so long
+And the only way out is the only way in
+And it's you
+
+Yeah the only way out is the only way in
+And it's you
+
+
 

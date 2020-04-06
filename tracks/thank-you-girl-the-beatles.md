@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-girl-the-beatles
+lyrics_url: https://www.azlyrics.com/lyrics/smithereens/thankyougirl.html
 name: Thank You Girl
 rankings:
 - end_date: '1964-04-10'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
+
+Oh, oh, you've been good to me, you made me glad when I was blue
+And eternally I'll always be In love with you
+And all I gotta do is thank you girl, thank you girl
+
+I could tell the world a thing or two about our love
+I know little girl only a fool would doubt our love
+And all I gotta do is thank you girl, thank you girl
+
+Thank you girl for loving me the way that you do, way that you do
+That's the kind of love that is too good to be true
+And all I gotta do is thank you girl, thank you girl
+
+Oh, oh, you've been good to me, you made me glad when I was blue
+And eternally I'll always be in love with you
+And all I gotta do is thank you girl, thank you girl
+
+
 

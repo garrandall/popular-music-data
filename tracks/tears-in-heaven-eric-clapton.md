@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tears-in-heaven-eric-clapton
+lyrics_url: https://www.azlyrics.com/lyrics/paulanka/tearsinheaven.html
 name: Tears In Heaven
 rankings:
 - end_date: '1992-02-14'
@@ -111,4 +112,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
 ---
+
+Would you know my name
+If I saw you in heaven?
+Would it be the same
+If I saw you in heaven?
+
+I must be strong
+And carry on,
+'Cause I know I don't belong
+Here in heaven.
+
+Would you hold my hand
+If I saw you in heaven?
+Would you help me stand
+If I saw you in heaven?
+
+I'll find my way
+Through night and day,
+'Cause I know I just can't stay
+Here in heaven.
+
+Time can bring you down,
+Time can bend your knees.
+Time can break your heart,
+Have you begging please, begging please.
+
+Beyond the door,
+There's peace I'm sure,
+And I know there'll be no more
+Tears in heaven.
+
+Would you know my name
+If I saw you in heaven?
+Would it be the same
+If I saw you in heaven?
+
+I must be strong
+And carry on,
+'Cause I know I don't belong
+Here in heaven.
+
+
 

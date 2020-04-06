@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: starships-nicki-minaj
+lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/starships.html
 name: Starships
 rankings:
 - end_date: '2012-03-09'
@@ -131,4 +132,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
 ---
+
+RedOne
+
+Let's go to the beach, each
+Let's go get a wave
+They say, what they gonna say?
+Have a drink, clink, found the Bud Light
+Bad bitches like me, is hard to come by
+The PatrÃ³n, own, let's go get it on
+The zone, own, yes I'm in the zone
+Is it two, three, leave a good tip
+I'ma blow all my money and don't give two shits
+
+I'm on the floor, floor
+I love to dance
+So give me more, more
+'Til I can't stand
+Get on the floor, floor
+Like it's your last chance
+If you want more, more
+Then here I am
+
+Starships were meant to fly
+Hands up and touch the sky
+Can't stop 'cause we're so high
+Let's do this one more time
+(Oh oh, oh oh)
+
+Starships were meant to fly
+Hands up and touch the sky
+Let's do this one last time
+Can't stop
+
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+
+Jump in my hooptie hooptie hoop
+I own that
+And I ain't paying my rent this month
+I owe that
+But fuck who you want, and fuck who you like
+That's our life, there's no end in sight
+Twinkle, twinkle little star
+
+Now everybody let me hear you say ray ray ray
+Now spend all your money cause today's pay day
+And if you're a G, you a G, G, G
+My name is Onika, you can call me Nicki
+
+Get on the floor, floor
+Like it's your last chance
+If you want more, more
+Then here I am
+
+Starships were meant to fly
+Hands up and touch the sky
+Can't stop 'cause we're so high
+Let's do this one more time
+(Oh oh, oh oh)
+
+Starships were meant to fly
+Hands up and touch the sky
+Let's do this one last time
+Can't stop
+
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+
+Starships were meant to fly
+Hands up and touch the sky
+Can't stop 'cause we're so high
+Let's do this one more time
+(Oh oh, oh oh)
+
+Starships were meant to fly
+Hands up and touch the sky
+Let's do this one last time
+Can't stop
+
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+(We're higher than a motherfucker)
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tequila-makes-her-clothes-fall-off-joe-nichols
+lyrics_url: https://www.azlyrics.com/lyrics/joenichols/tequilamakesherclothesfalloff.html
 name: Tequila Makes Her Clothes Fall Off
 rankings:
 - end_date: '2005-10-21'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
 ---
+
+She said, "I'm going out with my girlfriends
+For margaritas at the Holiday Inn"
+Oh have mercy my only thought
+Was tequila makes her clothes fall off
+
+I told her put an extra layer on
+I know what happens when she drinks Patron
+Her closet's missing half the things she bought
+Yeah, tequila makes her clothes fall off
+
+She'll start by kicking out of her shoes
+Lose an earring in her drink
+Leave her jacket in the bathroom stall
+Drop a contact down the sink
+
+Them panty hose ain't gonna last too long
+If the DJ puts Bon Jovi on
+She might come home in a table cloth
+Yeah, tequila makes her clothes fall off
+
+She can handle any champagne brunch
+A bridal shower with Bacardi punch
+Jello shooters full of Smirnoff
+But tequila makes her clothes fall off
+
+She'll start by kicking out of her shoes
+Lose an earring in her drink
+Leave her jacket in the bathroom stall
+Drop a contact down the sink
+
+She don't mean nothing, she's just havin' fun
+Tomorrow she'll say, "Oh what have I done?"
+Her friends will joke about the stuff she lost
+Yeah, tequila makes her clothes fall off
+Oh tequila makes her clothes fall off
+Oh tequila makes her clothes fall off
+
+
 

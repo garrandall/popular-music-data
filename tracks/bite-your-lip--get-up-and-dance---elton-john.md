@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bite-your-lip--get-up-and-dance---elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/biteyourlipgetupanddance.html
 name: Bite Your Lip (Get up and dance!)
 rankings:
 - end_date: '1977-02-18'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
 ---
+
+She slid down to the city limits
+Monkey time in fifteen minutes
+Bite your lip, get up, get up and dance
+Don't let me down
+Please stick around
+Bite your lip, get up, get up and dance
+
+Strobe light on the funky feet
+Soul children in the disco heat
+Top dog, top cat
+Move that muscle and shake that fat
+Bite your lip, get up, get up and dance
+
+Chicago, L.A.
+Every place, every way
+Bite your lip, get up, get up and dance
+
+Strobe light on the funky feet
+The soul children in the disco heat
+Top dog, top cat
+Move that muscle and shake that fat
+Bite your lip, get up, get up and dance
+
+Illinois, Santa Fe
+Do what I say
+Bite your lip, get up, get up and dance
+
+Bite your lip, get up, get up and dance
+Bite your lip, get up, get up and dance
+Bite your lip, get up, get up and dance
+
+
 

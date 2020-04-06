@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: headstrong-trapt
+lyrics_url: https://www.azlyrics.com/lyrics/trapt/headstrong.html
 name: Headstrong
 rankings:
 - end_date: '2003-04-11'
@@ -179,4 +180,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
 ---
+
+Circling your, circling your, circling your head
+Contemplating everything you ever said
+Now I see the truth, I got doubt
+A different motive in your eyes and now I'm out
+See you later
+I see your fantasy, you want to make it a reality paved in gold
+See inside, inside of our heads (yeah)
+Well now that's over
+I see your motives inside, decisions to hide
+
+
+(Fuck!)
+Back off I'll take you on
+Headstrong to take on anyone
+I know that you are wrong
+Headstrong we're headstrong
+Back off I'll take you on
+Headstrong to take on anyone
+I know that you are wrong and this is not where you belong
+I can't give everything away
+I won't give everything away
+
+
+Conclusions manifest, your first impressions got to be your very best
+I see you're full of shit, and that's alright
+That's how you play, I guess you'll get through every night
+Well now that's over
+I see your fantasy, you want to make it a reality paved in gold
+See inside, inside of our heads (yeah)
+Well now that's over
+I see your motives inside, decisions to hide
+
+
+
+
+I know, I know all about 
+I know, I know all about your motives inside, and your decision to hide
+
+
+
+
 

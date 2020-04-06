@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saving-all-my-love-for-you-whitney-houston
+lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/savingallmyloveforyou.html
 name: Saving All My Love For You
 rankings:
 - end_date: '1985-08-23'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+
+A few stolen moments is all that we share 
+You've got your family, and they need you there 
+Though I've tried to resist, being last on your list 
+But no other man's gonna do
+So I'm saving all my love for you
+
+It's not very easy living all alone 
+My friends try and tell me find a man of my own 
+But each time I try I just break down and cry 
+'Cause I'd rather be home feeling blue 
+So I'm saving all my love for you 
+
+You used to tell me we'd run away together 
+Love gives you the right to be free 
+You said, "Be patient, just wait a little longer."
+But that's just an old fantasy 
+
+I've got to get ready
+Just a few minutes more 
+Gonna get that old feeling
+When you walk through that door 
+
+'Cause tonight is the night for a feeling alright 
+We'll be making love the whole night through 
+So I'm saving all my love 
+Yes, I'm saving all my love 
+Yes, I'm saving all my love for you 
+
+No other woman is gonna love you more 
+'Cause tonight is the night that I'm feeling alright
+We'll be making love the whole night through 
+So I'm saving all my love 
+Yeah, I'm saving all my loving
+Yes, I'm saving all my love for you 
+For you, for you
+
+
 

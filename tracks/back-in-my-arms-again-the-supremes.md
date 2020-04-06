@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-in-my-arms-again-the-supremes
+lyrics_url: https://www.azlyrics.com/lyrics/supremes/backinmyarmsagain.html
 name: Back In My Arms Again
 rankings:
 - end_date: '1965-05-07'
@@ -51,4 +52,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
 ---
+
+All day long I hear my telephone ring
+Friends calling giving their advice
+From the boy I love I should break away
+'Cause heartaches he'll bring one day
+
+I lost him once through friends' advice
+But it's not gonna happen twice
+'Cause all advice ever gotten me
+Was many long and sleepless nights
+
+Ooh!
+But now he's back in my arms again
+Right by my side
+I got him back in my arms again
+So satisfied
+
+It's easy for friends to say let him go
+But I'm the one who needs him so
+It's his love that makes me strong
+Without him I can't go on
+
+This time I'll live my life at ease
+Being happy lovin' whom I please
+And each time we make romance
+I'll be thankful for a second chance
+
+Ooh!
+'Cause he's back in my arms again
+Right by my side
+I got him back in my arms again
+So satisfied
+Ooh!
+
+How can Mary tell me what to do
+When she lost her love so true?
+And Flo, she don't know
+'Cause the boy she loves is a Romeo
+
+I listened once to my friends' advice
+But it's not gonna happen twice
+'Cause all advice ever gotten me
+Was many long and sleepless nights
+
+Ooh!
+I got him back in my arms again
+Right by my side
+I got him back in my arms again
+So satisfied
+
+Ooh!
+I'm satisfied, yeah
+So satisfied
+I'm satisfied
+I'm satisfied
+
+
 

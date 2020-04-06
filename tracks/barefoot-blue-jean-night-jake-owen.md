@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barefoot-blue-jean-night-jake-owen
+lyrics_url: https://www.azlyrics.com/lyrics/ericpaslay/barefootbluejeannight.html
 name: Barefoot Blue Jean Night
 rankings:
 - end_date: '2011-05-06'
@@ -103,4 +104,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
 ---
+
+A full moon shining bright
+Edge of the water we were feelin' alright
+Back down a country road
+The girls are always hot and the beer is ice cold
+
+Cadillac horns on the hood
+My buddy Jay had his dad hook him up good
+Girls smiled when we rolled by
+They'd hop in the back and we'd cruise to the river side
+
+Woah oh, never gonna grow up
+Woah oh, never gonna slow down
+Woah oh, we were shining like lighters in the dark in the middle of a rock show
+Woah oh, we were doing it right
+Woah oh, we were comin' to life
+Woah oh, caught up in a southern summer barefoot blue jean night
+
+Blue eyes and auburn hair
+Sittin' looking pretty by the fire in a lawn chair
+New to town and new to me
+Her ruby red lips were sippin' on a sweet tea
+Shot me a look like a shootin' star
+So I grabbed a beer and my old guitar
+Then we sat around 'til the break of dawn
+Howlin' and singin' our favorite songs
+
+Woah oh, never gonna grow up
+Woah oh, never gonna slow down
+Woah oh, we were shining like lighters in the dark in the middle of a rock show
+Woah oh, we were doing it right
+Woah oh, we were comin' to life
+Woah oh, caught up in a southern summer barefoot blue jean night
+
+Woah oh, never gonna grow up
+Woah oh, never gonna slow down
+Woah oh, we were shining like lighters in the dark in the middle of a rock show
+Woah oh, we were doing it right
+Woah oh, we were comin' to life
+Woah oh, caught up in a southern summer barefoot blue jean night
+
+Barefoot blue jean night
+Barefoot blue jean night
+Barefoot blue jean night
+
+Woah oh
+Barefoot blue jean night
+Woah oh
+Barefoot blue jean night
+Woah oh
+Barefoot blue jean night
+That's right
+Barefoot blue jean night
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-not-over---til-it-s-over--starship
+lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/itsnotovertilitsover.html
 name: It's Not Over ('til It's Over)
 rankings:
 - end_date: '1987-07-03'
@@ -71,4 +72,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
 ---
+
+Listen
+We don't call the shots here
+We don't make the rules
+We take what we get
+Get what we can
+
+That's learning the hard way
+Here on the streets
+You can't build a dream
+Without a plan
+
+(Passion speaks)
+Let them hear you speak
+(Play for keeps)
+They play to win
+We play for keeps
+
+It's not over 'til it's over
+It's not over 'til we get it right
+
+The odds are against us
+They say we don't stand a chance
+Well, there's no givin' up
+No givin' in
+
+When push comes to shove
+You got to fight
+For what you love
+You do what you must
+Do what you can
+
+(Passion speaks)
+Let them hear you speak
+(Play for keeps)
+They play to win
+We play for keeps
+
+It's not over 'til it's over
+(It's not over)
+It's not over 'til we get it right
+
+It's not over 'til it's over
+(Don't go givin' in)
+It's not over 'til we get it right
+Get it
+
+The odds are against us
+To know we still stand a chance
+There's no givin' up
+No givin' in
+
+It's not over
+It's not over 'til it's over
+It's not over 'til we get it right
+
+It's not over 'til it's over
+It's not over 'til we get it right
+
+
 

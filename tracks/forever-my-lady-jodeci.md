@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-my-lady-jodeci
+lyrics_url: https://www.azlyrics.com/lyrics/jodeci/forevermylady.html
 name: Forever My Lady
 rankings:
 - end_date: '1991-11-01'
@@ -87,4 +88,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
 ---
+
+Forever, forever, forever
+So you're having my baby
+And it means so much to me
+There's nothing more precious
+Than to raise a family
+If there's any doubt in your mind
+You can count on me
+I'll never let you down
+Lady believe in me
+
+
+
+You and i
+Will never fall apart
+You and i
+We knew right from the start, baby, baby
+The day
+We fell so far in love
+Now our baby is born, healthy and strong
+Now our dreams are reality
+
+
+
+Forever my lady
+It's like a dream
+I'm holding you close
+You're keeping me warm
+If this is ecstacy
+Forever my lady
+I say just what i mean
+Forever and ever
+I pray is what i see
+
+Can you picture my lady
+This empty scene
+There's no me or no you
+What will we do
+An awful sight to me
+If i ever lose you
+Tell me where would i go
+Life would have no meaning
+And i pray that you will always stay with me
+
+You and i
+Would never fall apart, baby
+You and i
+Said we knew right from the start
+The day
+We fell so far in love
+Now our baby is born
+Healthy and strong
+Now our dreams are reality
+
+Forever my lady
+It's like a dream
+I'm holding you close
+You're keeping me warm
+If this is ecstacy
+Forever my lady
+I say just what i mean
+Forever and ever
+I pray is what i see
+
+Lady, you and i
+Will never fall apart,no no
+You and i
+I say we made it
+And i say we made it from the start
+The day
+We fell so far in love
+Now our baby is born
+So healthy and strong
+Now my dreams are reality
+Yeahhhhhh
+Forever my lady
+Ah yeah, baby
+Forever my lady
+Woo oooh
+Said i pray every night, baby
+Forever my lady
+And every day of the week
+
+
+
+
 

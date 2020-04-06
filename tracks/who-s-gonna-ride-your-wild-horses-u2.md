@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-gonna-ride-your-wild-horses-u2
+lyrics_url: https://www.azlyrics.com/lyrics/drewholcombtheneighbors/whosgonnarideyourwildhorses.html
 name: Who's Gonna Ride Your Wild Horses
 rankings:
 - end_date: '1992-11-13'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
 ---
+
+You're dangerous
+cause you're honest
+You're dangerous
+You don't know what you want
+Well you left my heart
+Empty as a vacant lot
+For any spirit to haunt
+
+You're an accident
+Waiting to happen
+You're a piece of glass
+Left there on the beach
+Well you tell me things
+I know you're not supposed to
+Then you leave me
+Just out of reach
+
+Who's gonna ride your wild horses
+Who's gonna drown in your blue sea
+Who's gonna ride your wild horses
+Who's gonna fall at the foot of thee
+
+Well you stole it
+Cause I needed the cash
+And you killed it
+Cause I wanted revenge
+Well you lied to me
+Cause I asked you to
+Baby, can we still be friends
+
+Who's gonna ride your wild horses
+Who's gonna drown in your blue sea
+Who's gonna ride your wild horses
+Who's gonna fall at the foot of thee
+
+Who's gonna ride your wild horses
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gotta-tell-you-samantha-mumba
+lyrics_url: https://www.azlyrics.com/lyrics/samanthamumba/gottatellyou.html
 name: Gotta Tell You
 rankings:
 - end_date: '2000-09-15'
@@ -95,4 +96,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
 ---
+
+Yeah, yeah, yeah, yeah, yeah
+
+Your love for me came as a waterfall
+Flowin' inside me like never before
+Your love for me, somethin' I didn't see
+But baby, I know better now
+
+When you walk in the room that very night
+A special feelin' just burst inside
+It was only you, nobody else
+But baby, I know better now
+
+Don't wanna love you if you don't love me
+Don't wanna need you when you won't need me too
+Don't wanna tell you this now, but it wouldn't be
+right
+If I didn't tell you this tonight
+
+Yeah, yeah, yeah, yeah, yeah
+
+And now you're back inside my house again
+I'm tryin' deeper to explain
+'Cause baby, I wanna get it on
+And baby, you're the one for me
+
+But now that I have got you all alone
+After all this talkin' on the phone
+I should be strong, there's nothing wrong
+I'll tell you this is where you belong, where you
+belong
+
+Don't wanna love you if you don't love me
+Don't wanna need you when you won't need me too
+Don't wanna tell you this now, but it wouldn't be
+right
+If I didn't tell you this tonight
+
+Don't wanna love you if you don't love me
+Don't wanna need you when you won't need me too
+Don't wanna tell you this now, but it wouldn't be
+right
+If I didn't tell you this tonight
+
+It was just something in your eyes
+That made me realize
+But now I hear voices deep inside
+Tellin' me, tellin' me
+
+Don't wanna love you if you don't love me
+Don't wanna need you when you won't need me too
+Don't wanna tell you this now, but it wouldn't be
+right
+If I didn't tell you this tonight
+
+Don't wanna love you if you don't love me
+Don't wanna need you when you won't need me too
+Don't wanna tell you this now, but it wouldn't be
+right
+If I didn't tell you this tonight
+
+
 

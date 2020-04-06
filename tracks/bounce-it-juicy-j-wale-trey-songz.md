@@ -6,6 +6,7 @@ features:
 - Trey Songz
 genres: []
 key: bounce-it-juicy-j-wale-trey-songz
+lyrics_url: https://www.azlyrics.com/lyrics/juicyj/bounceit.html
 name: Bounce It
 rankings:
 - end_date: '2013-09-20'
@@ -85,4 +86,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
 ---
+
+
+Yeah... yeah, we gon' stay trippy for life, mane
+Yeah... I'm 'bout to take yo' girl (bounce it)
+Check it...
+
+
+Bounce it (bounce it), bounce it (bounce it)
+Iâm about to throw a couple thousand (bounce it)
+Bounce it (bounce it), bounce it (bounce it)
+Iâm about to throw a couple thousand
+(Ones, fives, tens, twenties)
+(Work your way up to them big face hundreds - just bounce it)
+Bounce it (bounce it), bounce it (bounce it)
+Iâm about to throw a couple thousand
+
+
+Yessir...
+I love the way she slow dance, she make me throw more bands
+Grabbin' ass with both hands, she in love with the dope man
+She wanna be my main chick, I was thinking different (different)
+Clap that ass, light our blunt, baby, letâs get ig'nant (ig'nant)
+Sheâs strips with the Gs, breaks cash like Li, she got double Ds, and ainât shit free
+Came with my goons but Iâm leaving with a diva with an ass like Serena and a face like Aaliyah
+Redbone in some red bottoms, she ainât finished college, she a head doctor
+Bouncing ass while Iâm getting high as propellers on a helicopter
+Letâs do it again, me, you and your friend
+We donât even need a room, give me head up in my Benz
+Where my double cup, time to pour it up
+Got a bitch so bad you canât afford to fuck
+Bounce it
+
+
+
+
+Wale though, le'go...
+Hands is on her you know what, âcause bandz a make her you know what
+And I can make a girl break fast, my pants be on that too much lust
+And Iâm âbout whatever baby, take a photo, Iâm looking good
+And these breezies are so beneath you, understand youâre misunderstood
+Premium leather goods, we pay whatever for it
+All of these pussy niggas, only under influenced
+Throw a block up then I back out, like that, roll a pack out, took a light hit, might nap
+Got a thick bitch with a trip stick Iâma smack, and a bucket but we nothing but pack
+Bald-headed scallywag, real niggas salute me
+Catch me at that Memphis game, seats saved by Rudy
+Or Marc Gasol, or Selby do, thatâs plenty dough
+Thatâs Juicy J, Folarin, got it then get me those
+Ralph!
+
+
+
+
+Turn up...
+Juicy be trippy and paid up like Diddy, toss up that cash and she show me her kitty
+Got some white girl and a white girl, doin' a tiny line off of her titty
+Ainât tryna fuck, I just found a replacement, feelin' so global, I think I need agent
+Ratchet on deck and they know Iâm gonâ stunt, Iâm tryna get head while smoking a blunt
+Take her to my hotel, beat the pussy up, I donât know her name, but I wanna fuck
+Along came Molly, then came Doobie, then codeine in a styrofoam cup
+See me in the club, bands pop, they poppin', do it real good, might take you shoppin'
+All these racks canât fit in my pocket, keep that stack, hundred K in the stocking
+Then itâs back to my room, she come out her dress
+Slob on my knob, think you know the rest
+I donât buy these broads Nike, but I keep these girls in check
+Working for that money, bitch, you gonâ have to break a sweat
+Bounce it
+
+
+
+
+...Iâm about to throw a couple thousand
+...Iâm about to throw a couple thousand
+
+
 

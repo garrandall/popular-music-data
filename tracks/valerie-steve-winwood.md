@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: valerie-steve-winwood
+lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/valerie.html
 name: Valerie
 rankings:
 - end_date: '1982-11-19'
@@ -103,4 +104,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
 ---
+
+So wild, standing there, with her hands in her hair
+I can't help remember just where she touched me
+There's still no face here in her place
+So cool, she was like jazz on a summer's day
+Music, high and sweet, then she just blew away
+Now she can't be that warm with the wind in her arms
+
+Valerie, call on me-call on me, Valerie
+Come and see me-I'm the same boy I used to be
+
+Love songs fill the night, but they don't tell it all
+Not how lovers cry out just like they're dying
+Her cries hang there in time somewhere
+Someday, some good wind may blow her back to me
+Some night I may hear her like she used to be
+No it can't be that warm with the wind in her arms
+
+So cool, she was like jazz on a summer's day
+Music, high and sweet, then she just blew away
+Don't tell me you're warm with the wind in your arms
+
+
 

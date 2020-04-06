@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-kinda-gone-chris-cagle
+lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/whatkindagone.html
 name: What Kinda Gone
 rankings:
 - end_date: '2008-02-08'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
 ---
+
+I heard the door slam 
+And I couldn't tell 
+Was it just the wind 
+Or was she mad again 
+Ah hell she's gettin' in her car
+I hallard baby is there somethin' wrong
+Thought I heard her say something
+Sounded like I'm gone
+But these days gone can mean so many things
+
+Well there's gone for good and there's good and gone
+Then there's gone with the long before it
+I wish she'd been just a little more clear
+Theres gone for the day and gone for the night
+Gone for the rest of your dog-gone life
+Is it whiskey night or just a couple of beers
+I mean what kinda gone are we talkin' 'bout here
+
+Well its gettin' dark out she ain't back yet
+Ain't called home
+Turned off the phone
+Ah man this mighta not be good
+Would have stopped her when she went to leave 
+But I didn't 'cause I didn't really think what I'm thinkin' now
+Still not sure what gone is all about
+
+Cause there's gone for good 
+And there's good and gone
+And theres gone with the long before it
+I wish she'd been just a little more clear
+Well there's gone for the day and gone for the night
+And gone for the rest of your dog-gone life
+Is it whiskey night or just a couple of beers
+I mean what kinda gone are we talkin' 'bout here
+
+Is it the kinda gone she's at her moms' coolin' down she'll come around
+Or the kind that says you had your chance she ain't comin' back
+
+Well there's gone for good 
+And there's good and gone
+And theres gone with the long before it
+I wish she'd been just a little more clear
+Well there's gone for the day and gone for the night
+And gone for the rest of your dog-gone life
+Is it whiskey night or just a couple of beers
+I mean what kinda gone are we talkin' 'bout what kinda gone are we talkin' 'bout
+What kinda gone are we talkin' 'bout here
+What kinda gone
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silent-night-bing-crosby
+lyrics_url: https://www.azlyrics.com/lyrics/bingcrosby/silentnight.html
 name: Silent Night
 rankings:
 - end_date: '1960-12-25'
@@ -15,4 +16,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
 ---
+
+Silent night! holy night. 
+All is calm. All is bright. 
+Round yon virgin, mother and child. 
+Holy infant so tender and mild. 
+Sleep in heavenly peace. 
+Sleep in heavenly peace. 
+
+Silent night! holy night. 
+All is calm. All is bright. 
+Round yon virgin, mother and child. 
+Holy infant so tender and mild. 
+Sleep in heavenly peace. 
+Sleep in heavenly peace.
+
+
 

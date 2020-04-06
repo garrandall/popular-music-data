@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 100-years-nancy-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/100years.html
 name: 100 Years
 rankings:
 - end_date: '1968-03-29'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
 ---
+
+I'm not gonna say everything is OK 
+Cause OK is not the way that I feel. 
+I'm not gonna be any fool's Christmas tree 
+Let 'em hang gifts on me that aren't real 
+
+I'm not gonna take second best 
+I've got no use for the rest. 
+World you better hear what I say 
+Cause for me true love could be 
+100 years away. 
+
+I'm not givin' in to a smile or a grin 
+On a face -huh- I might never see again. 
+I'm not gonna fly in some big phony sky 
+On a ride that I know just can't win. 
+
+And I'm not gonna take second best 
+No I've got no use for the rest. 
+So world you better hear what I say 
+Cause for me true love could be 
+100 years away. 
+
+And if it is, I'll wait
+
+
 

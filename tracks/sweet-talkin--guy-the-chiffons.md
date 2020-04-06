@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-talkin--guy-the-chiffons
+lyrics_url: https://www.azlyrics.com/lyrics/chiffons/sweettalkinguy.html
 name: Sweet Talkin' Guy
 rankings:
 - end_date: '1966-05-13'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
 ---
+
+Sweet talkin' guy
+Talkin' sweet kinda lies
+Don't you believe in him
+If you do
+He'll make you cry
+He'll send you flowers
+And paint the town with another girl
+He's a sweet talkin'
+But he's my kinda guy
+
+Sweeter than sugar
+Kisses like wine
+Oh, he's so fine
+Don't let him under your skin
+'Cause you'll never win
+No, you never win
+Don't give him love today
+Tomorrow he's on his way
+He's a sweet talkin' guy
+But he's my kinda guy
+
+Why do I love him like I do
+
+He's a sweet talkin' guy
+Stay away from him
+Don't believe him he's lying
+No no no, you'll never win
+You'll just end up crying
+Don't give him love today
+Tomorrow he's on his way
+He's a sweet talkin' guy
+Stay away from him
+No no no, you'll never win
+
+
 

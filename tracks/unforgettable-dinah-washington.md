@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unforgettable-dinah-washington
+lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/unforgettable.html
 name: Unforgettable
 rankings:
 - end_date: '1959-10-11'
@@ -59,4 +60,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
 ---
+
+Unforgettable
+That's what you are
+Unforgettable
+Tho' near or far
+Like a song of love that clings to me
+How the thought of you does things to me
+Never before has someone been more
+Unforgettable in every way
+And forever more, that's how you'll stay
+That's why darling it's incredible 
+That someone so unforgettable
+Thinks that I am unforgettable too
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: open-my-heart-yolanda-adams
+lyrics_url: https://www.azlyrics.com/lyrics/yolandaadams/openmyheart.html
 name: Open My Heart
 rankings:
 - end_date: '2000-09-01'
@@ -87,4 +88,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
 ---
+
+Mmmmmm, ohhhhh, talk to me
+Ohhh, ohhh, ohhh, talk to me
+
+
+Alone in a room
+It's just me and you
+I feel so lost
+'Cause I don't know what to do
+Now what if I choose the wrong thing to do
+I'm so afraid, afraid of disappointing you
+
+
+So I need to talk to you
+And ask you for your guidance
+Especially today
+When my mind is so cloudy
+Guide me until I'm sure
+I open up my heart (ooo yes)
+
+
+My hopes and dreams
+Are fading fast
+I'm all burned out
+And I don't think my strength's gonna last
+So I'm crying out
+Crying out to you
+Lord, I know that you're the only one
+Who is able to pull me through
+
+
+So I know I need to talk to you
+And ask you for your guidance
+Especially today
+When my world seems so cloudy, Lord
+Guide me until I'm sure
+I open up my heart (oh yeah, yes I do)
+
+
+So show me how
+To do things your way
+Don't let me make the same mistakes
+Over and over again
+Your will be done
+And I'll be the one
+To make sure that it's carried out
+And in me, I don't want any doubt
+That's why...
+
+
+I wanna talk to you (yes I do)
+And ask you for your guidance
+Especially today
+When my world seems just a little bit cloudy
+Lord, you, you can guide me through
+That's why I open up
+I open up my heart, my heart, my heart, my heart
+
+Oh, all I need to do is just hear a single word from you
+
+I open up
+I open up
+Open up my heart
+
+Just one word could make a difference in what I do, Lord
+Guide me until I'm sure
+I open
+I open
+I open
+I open my heart
+
+You just say one word, one word, one word, one word, one word
+I open up
+I open up
+Open up my heart to you, to you
+You're the lover of my soul
+The captain of my sea
+I need a word from you
+That's why I open up my heart
+
+
 

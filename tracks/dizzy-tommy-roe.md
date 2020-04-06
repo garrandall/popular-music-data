@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dizzy-tommy-roe
+lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/dizzy.html
 name: Dizzy
 rankings:
 - end_date: '1969-02-07'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
+
+Dizzy
+I'm so dizzy my head is spinning
+Like a whirlpool, it never ends
+And it's you, girl, making it spin
+You're making me dizzy
+
+First time that I saw you, girl
+I knew that I just had to make you mine
+But it's so hard to talk to you
+With fellas hanging 'round you all the time
+
+I want you for my sweet pet
+But you keep playing hard to get
+I'm going around in circles all the time
+
+Dizzy
+I'm so dizzy my head is spinning
+Like a whirlpool, it never ends
+And it's you, girl, making it spin
+You're making me dizzy
+
+I finally got to talk to you
+And I told you just exactly how I felt
+Then I held you close to me
+And kissed you and my heart began to melt
+
+Girl, you've got control on me
+'Cause I'm so dizzy I can't see
+I need to call a doctor for some help
+
+Dizzy
+I'm so dizzy my head is spinning
+Like a whirlpool, it never ends
+And it's you, girl, making it spin
+You're making me dizzy, my head is spinning
+Like a whirlpool it never ends
+And it's you girl making it spin
+
+You're making me dizzy
+You're making me dizzy
+I'm so dizzy
+You're making me dizzy
+
+
 

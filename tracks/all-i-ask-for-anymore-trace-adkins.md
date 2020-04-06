@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-ask-for-anymore-trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/alliaskforanymore.html
 name: All I Ask For Anymore
 rankings:
 - end_date: '2009-12-18'
@@ -15,4 +16,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
 ---
+
+It was a home run when the game was tied 
+A pick up truck when I could drive 
+One pink line when katie said I'm late 
+It was a passing grade, a pretty girl 
+All the money in the world 
+What mattered then kept changing every day 
+
+But when I bow my head tonight 
+There'll be no me myself and I 
+Just watch my wife and kids please lord 
+That's all I ask for any more 
+
+Now a days it's crazy how 
+A passing storm, a siren sound 
+Can make me drop it all and pick up the phone 
+To hear her say that all's okay is all I need to know these days 
+Can't wait to see their faces when I get home 
+
+And when I bow my head tonight 
+There'll be no me myself and I 
+Just watch my wife and kids please lord 
+That's all I ask for any more 
+
+Let 'em outlive me by a hundred years 
+Let their laughter dry up all their tears 
+Let 'em love and be loved back like I have been 
+
+When I bow my head tonight 
+There'll be no me myself and I 
+Just watch my wife and kids please lord 
+That's all I ask for any more 
+
+That's all that matters anymore
+
+
 

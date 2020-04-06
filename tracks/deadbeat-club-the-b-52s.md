@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deadbeat-club-the-b-52s
+lyrics_url: https://www.azlyrics.com/lyrics/b52s/deadbeatclub.html
 name: Deadbeat Club
 rankings:
 - end_date: '1990-04-27'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
 ---
+
+"Huh, get a job!"
+"What for?"
+"I'm trying to think..."
+
+I was good, I could talk
+A mile a minute,
+On this caffeine buzz I was on
+We were really hummin'
+We would talk every day for hours
+We belong to the deadbeat club
+
+Anyway we can,
+We're gonna find something
+We'll dance in the garden
+In torn sheets in the rain
+
+We're the deadbeat club
+We're the deadbeat club
+
+Going down to Allen's for
+A twenty-five cent beer
+And the jukebox playing real loud,
+"96 Tears"
+We're wild girls walkin' down the street
+Wild girls and boys going out for a big time
+
+Let's go crash that party down
+In Normaltown tonight
+Then we'll go skinny-dippin'
+In the moonlight
+We're wild girls walkin' down the street
+Wild girls and boys going out for a big time
+
+Anyway we can
+We're gonna find something
+We'll dance in the garden
+In torn sheets in the rain
+
+We're the deadbeat club
+We're the deadbeat club
+
+Oh no! Here they come
+The members of the deadbeat club
+
+
 

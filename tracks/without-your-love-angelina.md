@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-your-love-angelina
+lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/angelina.html
 name: Without Your Love
 rankings:
 - end_date: '1997-02-21'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-24'
 ---
+
+Angelina, why are you lying there
+And not playing with your blond curling hair
+I hear no music, I see no light,
+I even see no light in your eyes, your eyes open wide
+Staring at me, strange as never before
+Is this what you meant, when I shut the door
+Oh my God why did you do this to me
+I'm back my love, I couldn't be free
+
+Angelina, it's me my love
+Finally found out I can't live without your love
+
+Angelina, and your name echoes in the air
+Then silence will be long, everything's so rare
+As if the world exists no more
+My world has been destroyed when I shut the door
+And when you're lying there, oh Angelina
+I kiss your lips and I caress your hair
+Oh my God why did you do this to me
+I'm back my love, I couldn't be free
+
+
 

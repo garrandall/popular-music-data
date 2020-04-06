@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waiting-for-superman-daughtry
+lyrics_url: https://www.azlyrics.com/lyrics/daughtry/waitingforsuperman.html
 name: Waiting For Superman
 rankings:
 - end_date: '2013-10-11'
@@ -75,4 +76,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
 ---
+
+Sheâs watching the taxi driver, he pulls away
+Sheâs been locked up inside her apartment a hundred days
+
+She says, âYeah, heâs still coming, just a little bit late.
+He got stuck at the laundromat washing his cape.â
+Sheâs just watching the clouds roll by and they spell her name
+Like Lois Lane
+And she smiles, oh the way she smiles
+
+Sheâs talking to angels,
+Counting the stars
+Making a wish on a passing car
+Sheâs dancing with strangers,
+Falling apart
+Waiting for Superman to pick her up
+In his arms, yeah, in his arms, yeah
+Waiting for Superman
+
+Sheâs out on the corner trying to catch a glimpse
+Nothingâs making sense
+Sheâs been chasing an answer, a sign lost in the abyss,
+This Metropolis
+
+She says, "Yeah, heâs still coming, just a little bit late.
+He got stuck at the Five and Dime saving the day.â
+She says, "If life was a movie, then it wouldnât end like this,
+Left without a kiss."
+Still, she smiles, oh, the way she smiles, yeah
+
+Sheâs talking to angels,
+Counting the stars
+Making a wish on a passing car
+Sheâs dancing with strangers,
+Sheâs falling apart
+Waiting for Superman to pick her up
+In his arms, yeah, in his arms, yeah
+Sheâs waiting for Superman...
+
+...to lift her up and take her anywhere
+Show her love and flying through the air
+Save her now before itâs too late tonight
+Oh, at the speed of light
+And she smiles
+
+Sheâs talking to angels,
+Counting the stars
+Making a wish on a passing car
+Sheâs dancing with strangers,
+Sheâs falling apart
+Waiting for Superman to pick her up
+In his arms, yeah, in his arms, yeah
+Sheâs waiting for Superman...
+
+...to lift her up and take her anywhere
+Show her love, oh, and flying through the air
+Save her now before itâs too late tonight
+Sheâs waiting for Superman
+
+
 

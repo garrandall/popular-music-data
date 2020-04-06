@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-cheating-heart-ray-charles
+lyrics_url: https://www.azlyrics.com/lyrics/raycharles/yourcheatingheart.html
 name: Your Cheating Heart
 rankings:
 - end_date: '1962-11-23'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
 ---
+
+Your cheatin' heart will make you weep
+You'll cry and cry and try to sleep
+But sleep won't come the whole night through
+Your cheatin' heart will tell on you
+When tears come down like fallin' rain
+
+You'll toss around and call my name
+You're gonna walk that floor the way I do
+Your cheatin' heart will tell on you
+Your cheatin' heart will pine some day,
+
+And crave the love,you threw away.
+The time will come when you'll be blue,
+Your cheatin' heart will tell on you.
+When tears come down like fallin' rain
+
+You'll toss around and call my name
+You're gonna walk that floor the way I do
+Your cheatin' heart will tell on you
+Your cheatin' heart will tell on you
+
+
 

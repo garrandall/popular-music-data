@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: twist-of-fate-olivia-newton-john
+lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/twistoffate.html
 name: Twist Of Fate
 rankings:
 - end_date: '1983-11-11'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
 ---
+
+Do we deserve a second chance?
+How did we fall into this circumstance?
+We weren't so straight and narrow
+This is much more than we deserve
+
+A higher voice has called the tune
+Two hearts that lost the beat will now resume
+The gift of life extension
+By divine intervention
+
+It's gotta be a strange twist of fate
+Telling me that Heaven can wait
+Telling me to get it right this time
+Life doesn't mean a thing
+Without the love you bring
+Love is what we've found
+The second time around
+
+Don't understand what's going on
+Woke up this morning, all the hurt was gone
+This is a new beginning
+I'm back in the land of the living
+
+It's gotta be a strange twist of fate
+Telling me that Heaven can wait
+Telling me to get it right this time
+Life doesn't mean a thing
+Without the love you bring
+Love is what we've found
+The second time around
+
+
 

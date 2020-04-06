@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: conviction-of-the-heart-kenny-loggins
+lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/convictionoftheheart.html
 name: Conviction Of The Heart
 rankings:
 - end_date: '1991-11-01'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
 ---
+
+Where are the dreams that we once had?
+This is the time to bring them back.
+What were the promises caught on the tips of our tongues?
+Do we forget or forgive?
+There's a whole other life waiting to be lived when...
+One day we're brave enough
+To talk with Conviction of the Heart.
+And down your streets I've walked alone,
+As if my feet were not my own
+Such is the path I chose, doors I have opened and closed
+I'm tired of living this life,
+Fooling myself, believing we're right, when...
+I've never given love
+With any Conviction of the Heart
+One with the earth, with the sky
+One with everything in life
+I believe we'll survive
+If we only try...
+How long must we wait to change
+This world bound in chains that we live in
+To know what it is to forgive,
+And be forgiven?
+It's been too many years of taking now.
+Isn't it time to stop somehow?
+Air that's too angry to breathe, water our children can't drink
+You've heard it hundreds of times
+You say your aware, believe, and you care, but...
+Do you care enough
+To talk with Conviction of the Heart?
+
+
 

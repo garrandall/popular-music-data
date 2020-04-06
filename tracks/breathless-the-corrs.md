@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breathless-the-corrs
+lyrics_url: https://www.azlyrics.com/lyrics/corrs/breathless.html
 name: Breathless
 rankings:
 - end_date: '2001-02-02'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
 ---
+
+Go on go on
+Leave me breathless
+Come on 
+
+Hey... yeah...
+
+The daylight's fading slowly
+The time with you is standing still
+I'm waiting for you only
+The slightest touch and I feel weak
+I cannot lie, from you I cannot hide
+And I'm losing the will to try
+Can't hide it (can't hide it), can't fight it (can't fight it)
+
+So go on, go on, come on, leave me breathless
+Tempt me, tease me, until I can't deny
+This loving feeling (loving feeling)
+Make me long for your kiss
+Go on (go on), go on (go on)
+Yeah...
+Come on
+Yeah...
+
+And if there's no tomorrow
+And all we have is here and now
+I'm happy just to have you
+You're all the love I need somehow
+It's like a dream
+Although I'm not asleep
+And I never want to wake up
+Don't lose it (don't lose it), don't leave it (don't leave it)
+
+So go on, go on, come on, leave me breathless
+Tempt me, tease me, until I can't deny
+This loving feeling (loving feeling)
+Make me long for your kiss
+Go on (go on), go on (go on)
+Yeah...
+Come on 
+
+ Yeah-ie, yeah, yeah-ie, yeah...
+
+And I can't lie
+From you I cannot hide
+And I've lost my will to try
+Can't hide it (can't hide it), can't fight it, (can't fight it)
+
+So go on, (go on) go on, (go on), come on, leave me breathless
+Tempt me, tease me, until I can't deny
+This loving feeling (loving feeling) Make me long for your kiss
+
+Go on, (go on) go on, (go on) come on, leave... me breathless
+Go on, (go on) go on, (go on) come on, leave... me breathless
+Go on, (go on) go on, (go on) come on, leave... me breathless
+Go on... go on!
+
+
 

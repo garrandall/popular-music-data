@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sign-ace-of-base
+lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/thesign.html
 name: The Sign
 rankings:
 - end_date: '1994-01-07'
@@ -171,4 +172,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
 ---
+
+I, I got a new life
+You would hardly recognize me
+I'm so glad
+How could a person like me care for you?
+Why, why do I bother
+When you're not the one for me
+Is enough enough?
+
+I saw the sign
+And it opened up my eyes
+I saw the sign
+Life is demanding without understanding
+
+I saw the sign
+And it opened up my eyes
+I saw the sign
+No one's gonna drag you up to get into the light where you belong
+But where do you belong
+
+Under the pale moon
+For so many years I've wondered who you are
+How could a person like you bring me joy?
+Under the pale moon
+Where I see a lot of stars
+Is enough enough?
+
+I saw the sign
+And it opened up my eyes
+I saw the sign
+Life is demanding without understanding
+
+I saw the sign
+And it opened up my eyes
+I saw the sign
+No one's gonna drag you up to get into the light where you belong
+But where do you belong
+
+I saw the sign
+And it opened up my mind
+And I am happy now living without you
+I've left you
+
+I saw the sign
+And it opened up my eyes
+I saw the sign
+No one's gonna drag you up to get into the light where you belong
+
+I saw the sign
+I saw the sign
+I saw the sign
+I saw the sign
+I saw the sign
+I saw the sign
+I saw the sign
+I saw the sign
+And it opened up my eyes
+I saw the sign
+
+
 

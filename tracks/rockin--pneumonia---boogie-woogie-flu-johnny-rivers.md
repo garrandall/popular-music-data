@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--pneumonia---boogie-woogie-flu-johnny-rivers
+lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/rockinpneumoniaboogiewoogieflu.html
 name: Rockin' Pneumonia - Boogie Woogie Flu
 rankings:
 - end_date: '1972-10-13'
@@ -83,4 +84,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+
+I wanna jump, but I'm afraid I'll fall 
+I wanna holler, but the joint's too small 
+Young man rhythm's got a hold of me, too 
+I got the rockin' pneumonia and the boogie woogie flu 
+
+Want some lovin' babe and that ain't all
+I wanna kiss her, but she's way too tall 
+Young man rhythm's got a hold of me, too 
+I got the rockin' pneumonia and the boogie woogie flu 
+
+Wanna squeeze her, but I'm way too low 
+I would be runnin' but my feets too slow 
+Young man rhythm's got a hold of me, too 
+I got the rockin' pneumonia and the boogie woogie flu 
+
+I wanna squeeze her, but I'm way too low 
+I would be runnin' but my feets too slow 
+Young man rhythm got a hold of me, too 
+I got the rockin' pneumonia and the boogie woogie flu 
+
+Baby comin', now, I'm hurryin' home 
+I know she's leavin', 'cause I'm takin' too long 
+Young man rhythm's got a hold of me, too 
+I got the rockin' pneumonia and the boogie woogie flu
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caribbean-blue-enya
+lyrics_url: https://www.azlyrics.com/lyrics/enya/caribbeanblue.html
 name: Caribbean Blue
 rankings:
 - end_date: '1992-03-06'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
 ---
+
+Eurus
+Afer Ventus
+
+So the world goes round and round
+With all you ever knew
+They say the sky high above
+Is Caribbean blue...
+
+If every man says all he can
+If every man is true
+Do I believe the sky above
+Is Caribbean blue...
+
+... Boreas...
+... Zephyrus...
+
+If all they told was turned to gold
+If all you dreamed was new
+Imagine the sky high above
+In Caribbean blue...
+
+... Eurus...
+Afer Ventus...
+... Boreas
+Zephyrus...
+... Africus...
+
+
 

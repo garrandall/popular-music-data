@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: valleri-the-monkees
+lyrics_url: https://www.azlyrics.com/lyrics/monkees/valleri.html
 name: Valleri
 rankings:
 - end_date: '1968-03-15'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
+
+Valleri. I love my Valleri.
+
+There's a girl I know who makes me feel so good.
+And I wouldn't live without her, even if I could.
+They call her Valleri.
+I love my Valleri.
+
+
+
+She's the same little girl who used to hang around my door.
+But she sure looks different than the way she looked before.
+I call her Valleri.
+I love my Valleri.
+
+
+
+Valleri. I love my Valleri.
+I love my Valleri.
+I need ya, Valleri.
+
+
 

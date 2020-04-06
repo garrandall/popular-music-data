@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-baby-dave-matthews-band
+lyrics_url: https://www.azlyrics.com/lyrics/davematthewsband/standupforit.html
 name: American Baby
 rankings:
 - end_date: '2005-05-20'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
 ---
+
+
+
+Boys... Get up y'all!
+Stand Up!
+
+I woke up to the angels
+Singing in my head
+You look so good naked next to me
+(There's) an angel in my bed
+
+Stand Up!
+
+I feel like a drug is cookin' in my veins
+Still I'm so out of my mind
+I'll shoot you up again
+Stand Up! etc...
+
+
+Water save my soul
+
+Stand Up! ...
+
+Smell like smoke and fire it's burning in us all.
+You dropped me in the water
+Lift me up save my soul
+
+Stand Up!
+
+American Baby Intro
+She said
+A hundred times
+She said
+A thousand times
+Everything...
+
+
 

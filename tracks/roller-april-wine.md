@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roller-april-wine
+lyrics_url: https://www.azlyrics.com/lyrics/aprilwine/roller.html
 name: Roller
 rankings:
 - end_date: '1979-03-09'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
+
+Alright
+
+Gonna catch a flight to Nevada
+Leave her friends at home in L.A.
+Seven come eleven or blackjack
+Gamblin' in night and day, yeah
+
+'Cause she's a roller, now, a high roller baby
+Mmm, she's a roller, yeah, a high roller baby
+Alright, woo!
+
+She likes to play for double or nothin'
+She's tellin' all the boys she's hot
+And everybody knows she's ready
+To give it everything that she got
+
+Ooh, she's a roller, now, a high roller baby, my my
+Ooh, she's a roller, yeah, a high roller baby
+Look out, ooh!
+
+Bye-bye, bye-bye, bye-bye, bye-bye
+Bye-bye, bye-bye, bye-bye
+
+People try to tell her she's crazy
+She doesn't hear a word they say
+Tellin' all the boys to get ready
+'Cause she's givin' it all away
+
+Ooh, she's a roller, yeah (Roller), a high roller baby, yeah
+She's a roller, yeah (Roller), a high roller baby, she is
+
+She's a roller (Roller), a high roller baby, yeah
+She's a roller (Roller), a high roller baby, ooh
+
+Bye-bye (Bye-bye, bye-bye, bye-bye)
+Bye-bye (Bye-bye, bye-bye, bye-bye)
+Bye-bye (Bye-bye, bye-bye, bye-bye)
+Bye-bye (Bye-bye, bye-bye)
+Bye bye bye bye bye bye bye
+Bye bye bye bye bye bye bye
+Bye bye bye bye bye bye bye
+Ow!
+
+
 

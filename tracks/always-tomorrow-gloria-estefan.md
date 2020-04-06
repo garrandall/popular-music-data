@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-tomorrow-gloria-estefan
+lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/alwaystomorrow.html
 name: Always Tomorrow
 rankings:
 - end_date: '1992-11-06'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
 ---
+
+I've been alone inside myself, far too long
+Never really wanted it that way, but I let it happen
+If I could do it all again, my life would be infinitely better than before
+I wouldn't waste a moment
+Make time for laughing with my friends
+Make love, make music, make amends
+Try to make a difference, try to love, try to understand
+Instead of just giving up, I'd use the power at my command
+
+
+That's why there's always tomorrow, to start over again
+Things will never stay the same, the only one sure thing is change.
+That's why there's always tomorrow
+
+I guess it took a little time, for me to see
+The reason I was born into this world,
+And what I'd have to go through
+For I've finally realized, that I could beinfinitely better than before, definitely stronger
+I'll face whatever comes my way, savor each moment of the day,
+Love as many people as I can along the way
+Help someone who's given up, if it's just to raise my eyes and pray
+
+
+
+Before your last setting sun
+And everything your heart has longed for 
+Has yet to be (one)
+Yes there's always tomorrow though people come and they go
+But if you've brought some love to their lives
+Then you've got something to show
+
+
 

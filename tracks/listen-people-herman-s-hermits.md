@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-people-herman-s-hermits
+lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/listenpeople.html
 name: Listen People
 rankings:
 - end_date: '1966-02-25'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
 ---
+
+Listen people to what I say
+I say everybody's got to have their day
+
+And don't you know that
+Everybody's got to love somebody sometime
+Everybody's got to win a heart
+Everybody's got to love somebody sometime
+When you do, I hope you never part
+
+I once found love, found love just like you
+But then he came, he might come to you
+
+And don't you know that
+Everybody's got to lose somebody sometime
+But everybody can part
+Everybody's got to lose somebody sometime
+So take care that you don't lose your heart
+
+Take my advice and you'll always find
+You'll be happy all of the time
+Take my advice and you will see
+You'll be happy as you can be
+
+Listen people to what I say
+I say everybody's got to have their day
+
+And don't you know that
+Everybody's got to love somebody sometime
+Everybody's got to win a heart
+Everybody's got to love somebody sometime
+When you do, I hope you never part
+You never part
+Listen people
+Listen people
+
+
 

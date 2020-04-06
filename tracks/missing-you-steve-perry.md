@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: missing-you-steve-perry
+lyrics_url: https://www.azlyrics.com/lyrics/steveperry/missingyou.html
 name: Missing You
 rankings:
 - end_date: '1994-12-09'
@@ -31,4 +32,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
 ---
+
+Whoa, I'm missing you
+The hurt on your heart
+Through your eyes it shows
+The past can't relive
+What we both know
+
+Still I remember
+Things I never meant
+Memories surround me
+Won't let me forget
+
+I was so wrong
+The secret's not worth keeping
+I had no faith
+That you would still believe
+
+No, now
+My heart's in your keeping
+Here I am
+Missing you
+(Missing you)
+
+Fear in the dark
+Stares from my wall
+Your eyes in your picture
+Won't let me go
+If I could remember
+How you felt the pain
+The king of pretenders
+Alone in shame
+
+I was so wrong
+The secret's not worth keeping
+I had no faith
+That you would still believe
+
+No, now
+My heart's in your keeping
+Here, I am
+Oh here I am
+(Missing you)
+Missing you
+
+Oh, I'm missing you
+You were there
+Now I'm here
+You gave much more than I did
+I gave what I had to give
+If I could, you know I would
+I'd make it up to you
+Instead I'm missin' you
+
+In the place you used to be
+You were lying next to me
+Oh, I'm missing you
+Whoa, I'm missing you
+
+
 

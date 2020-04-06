@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothin--to-hide-poco
+lyrics_url: https://www.azlyrics.com/lyrics/poco/nothintohide.html
 name: Nothin' To Hide
 rankings:
 - end_date: '1989-12-08'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
 ---
+
+Cryin' doesn't ease the pain
+When the fire is gone, when the weak break the strong
+There's no danger, when a heart is cold
+But if I stay alone, mine will soon turn to stone
+
+I know - girl you're not the only one
+Who's looking for someone to hold
+
+
+The look in your eyes ain't the same anymore
+Something has changed deep inside
+We both know it's right, what are we waiting for
+There's no holding back,
+'cause with you I've got nothin' to hide
+
+Sleepin' on a bed of lies
+I've been lonely too long,
+Now the hurt is all gone
+You were waiting for me to come around
+How could I be so blind, not to see in your mind
+
+And your heart - you've always been the only one
+Believin' in me all along
+
+Girl 
+
+
+
+Girl 
+
+
+
+
 

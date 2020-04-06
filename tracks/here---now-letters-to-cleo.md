@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here---now-letters-to-cleo
+lyrics_url: https://www.azlyrics.com/lyrics/letterstocleo/boy.html
 name: Here & Now
 rankings:
 - end_date: '1995-03-31'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
 ---
+
+You boy ain't nothing but trouble
+The kind I ain't seen in awhile
+And I gotta get me out of here
+
+Don't go and ask crazy any questions
+Like I maybe don't know what I'm doin'
+And I gotta get me out of here
+
+The farthest thought and I simply thought things were right from now on here
+Just got here and I'm leavin'
+Smile and think of it but don't leave 'em dead or mix me up in it
+'Cause I'm gone and you can't make me stay
+
+It would appear I've been here lots and lots of times before
+So please don't laugh
+And I wait out in the hallway
+Now diggin' back it's a big mistake
+And one I've made before
+And I would like to be out
+Out in the hallway
+
+You boy ain't nothing but trouble
+The kind I ain't seen in awhile
+And I gotta get me out of here
+
+Get me out of
+Get me out of
+Get me out of
+Get me out of
+Get me out of
+Get me out of
+Get me out of here
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: comin--in-and-out-of-your-life-barbra-streisand
+lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/comininandoutofyourlife.html
 name: Comin' In And Out Of Your Life
 rankings:
 - end_date: '1981-11-20'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
 ---
+
+I still can remember
+The last time I cried
+I was holding you and loving  you
+Knowing it would end
+I never felt so good
+Yet felt so bad
+You're the one I love
+And what makes it sad
+Is you don't belong to me
+And I can remember
+The last time I lied
+I was holding you and telling you
+We could still be friends
+Tried to1et you go
+But I can't, you  know
+And even though I'm not with you
+I need you so
+But you don't belong to me
+Comin' in and out of your life
+Isn't easy,
+When there's so many nights
+I can't hold you and I've told you
+These feelings are so hard to find
+Comin' in and out of your life
+Will never free me
+'Cause I don't need to touch you
+To feel you, it's so real with you
+I just can't get you out of my mind
+But I can remember the last time we tried
+Each needing more than we could give
+And knowing all the time
+A stronger love
+Just can't be found
+Even though at times this crazy world               Ãº
+Is turning  up-side-down
+You'll always belong to me
+(Comin' in and out of your life)
+Isn't easy,
+When there's so many nights
+I can't hold you and I've told you
+These feelings are so hard to find
+Comin' in and out of your life
+Will never free me
+I don't need to touch you
+To feel you, it's so real with you
+I can't get you out of my mind
+But I can remember...
+
+
 

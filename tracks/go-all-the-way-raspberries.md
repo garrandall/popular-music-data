@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-all-the-way-raspberries
+lyrics_url: https://www.azlyrics.com/lyrics/matthewsweet/goalltheway.html
 name: Go All The Way
 rankings:
 - end_date: '1972-07-07'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
 ---
+
+I never knew how complete love could be
+Till she kissed me and said, baby
+
+Please, go all the way
+It feels so right
+Being with you here, tonight
+Please, go all the way
+Just hold me close
+Don't ever let me go
+
+I couldn't say what I wanted to say
+Till she whispered I love you, so
+
+Please, go all the way
+It feels so right
+Being with you here, tonight
+Please, go all the way
+Just hold me close
+Don't ever let me go
+
+Before her alone, I was cruel and mean
+There was a hole in the place where my heart should have been
+
+But now I'm changed, and I feel so strange
+I come alive when she says all those things to me
+
+And she says (come on)
+Come on (come on)
+(Come on)
+Come on (come on)
+I need you (come on)
+I love you (come on)
+I need you (come on)
+(Come on)
+
+Please, go all the way
+It feels so right
+Being with you here, tonight
+Please, go all the way
+Just hold me close
+Don't ever let me go
+
+
 

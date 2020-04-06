@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jennifer-eccles-the-hollies
+lyrics_url: https://www.azlyrics.com/lyrics/hollies/jennifereccles.html
 name: Jennifer Eccles
 rankings:
 - end_date: '1968-03-22'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
 ---
+
+White chalk, written on red brick
+Our love, told in a heart
+It's there, drawn in the playground
+Love, kiss, hate or adore
+
+I love Jennifer Eccles
+I know that she loves me
+I love Jennifer Eccles
+I know that she loves me
+
+I used to carry her satchels
+She used to walk by my side
+But when we got to her doorstep
+Her dad wouldn't let me inside
+
+One Monday morning,
+Found out I'd made the grade
+Started me thinking,
+Had she done the same?
+
+One Monday morning,
+Found out I'd made the grade
+Started me thinking,
+Had she done the same?
+
+I hope Jennifer Eccles
+Is going to follow me there
+Our love is bound to continue
+Love, kiss, hate or adore
+
+Singin'
+I love Jennifer Eccles
+I know that she loves me
+I love Jennifer Eccles
+I know that she loves me
+
+
 

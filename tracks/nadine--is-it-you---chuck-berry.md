@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nadine--is-it-you---chuck-berry
+lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/nadineisityou.html
 name: Nadine (Is It You?)
 rankings:
 - end_date: '1964-03-13'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
 ---
+
+As I got on a city bus and found a vacant seat
+I thought I saw my future bride walkin? up the street
+I shouted to the driver "hey conductor, you must slow down
+I think I see her please let me off this bus"
+
+Nadine, honey is that you?
+Oh, Nadine. Honey, is that you?
+Seems like every time I see you darling you got something else to do
+
+I saw her from the corner when she turned and doubled back
+And started walkin toward a coffee colored Cadillac
+I was pushin through the crowd to get to where she's at
+And I was campaign shouting like a southern diplomat
+
+Nadine, honey is that you?
+Nadine. Honey, where are you?
+Seems like every time I catch up with you, you're up to
+Something new
+
+Downtown searching for her, looking all around
+Saw her getting in a yellow cab heading up town
+I caught a loaded taxi, paid up everybody's tab
+With a twenty-dollar bill, told him "catch that yellow cab"
+
+Nadine, honey is that you?
+Oh, Nadine. Honey, is that you?
+Seems like every time I catch up with you, you're up to
+Something new
+
+She moves around like a wayward summer breeze
+Go, driver, go, go, catch her pretty please
+Moving through the traffic like a mounted cavalier
+Leaning out the taxi window trying to make her hear
+
+Nadine, honey is that you?
+Oh, Nadine. Honey, is that you?
+Seems like every time I catch up with you, you're up to
+Something new
+
+
 

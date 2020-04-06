@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-will-my-mary-say-johnny-mathis
+lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/whatwillmymarysay.html
 name: What Will My Mary Say
 rankings:
 - end_date: '1963-02-01'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
 ---
+
+I must be going (Don't go)
+My heart is showing (Don't go)
+I better hurry away
+If I don't leave I'll be sorry
+What will my Mary say?
+
+Your lips are thrilling
+My arms are willing
+I know that I shouldn't stay
+If I don't leave I'll be sorry
+What will my Mary say?
+
+What would I do if she should need me
+And find me kissing you?
+She's always trusted me completely
+Her poor heart would break in two
+
+I must be going (Don't go)
+My heart is showing (Don't go)
+I better hurry away
+If I don't leave I'll be sorry
+What will my Mary say?
+
+If I don't leave I'll be sorry
+What will my Mary say?
+
+(Don't go)
+(Don't go)
+
+
 

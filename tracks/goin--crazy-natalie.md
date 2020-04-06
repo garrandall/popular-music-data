@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goin--crazy-natalie
+lyrics_url: https://www.azlyrics.com/lyrics/natalie/mefaltastugoincrazyspanishversion.html
 name: Goin' Crazy
 rankings:
 - end_date: '2005-02-18'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
 ---
+
+
+Desde el primero dia que te fuistÃ© me faltÃ³ tu amor.
+Fue un gran golpe en mi corazÃ³n
+Fue un gran dolor.
+ArrÃ©pentida por dejartÃ© y tengo que admitir,Me faltas tu
+
+
+Baby ahora si me puedes dar otra oportunidad sacrificarÃ©,
+Todo por mi parte
+Porque se que un dia te falle,
+PrometerÃ©, darte toda mi atencion,
+Porque se lo que es vivir sentir
+Estar sin ti ya no aguanto este dolor 
+
+
+Te extraÃ±o y quiÃ©ro decirte que me faltas tu
+Nunca pense que  encontraria alguien como tu
+Fue el destino que te puso mi camino amor
+Por ti llorare un rio
+Y te regalo mi corazon
+
+
+EscuchamÃ©, tu me vuelves loca, 
+Y necesito ser solamente tuya,
+EscuchamÃ©, y no me dudes baby,
+Entiendeme y quiere me, 
+Pero quiero a ti baby
+
+
+Se que todo es todo para ti
+Que quizas lo que te dije
+No te entendi.
+Pero yo te  tengo que admitir 
+Que mi ?? me haces muy feliz.
+No mas dimÃ© que me quiÃ©re, y que me ama, que me entiendÃ©, y me extraÃ±as, y soy tu baby
+Yo aqui estarÃ© para ti
+Cuando siempre quieres de mi.
+Te quiÃ©ro, y me faltas tu,
+Loca por tu amor, Te amo.
+Si no estas aqui,
+Que voy a hacer sin ti
+Quedate por favor
+Eres tu que no debes 
+Que sin ti es dificil
+Y me pierdo, me faltas tu
+
+
+
+
+
+Ooooh ooooh oooooh oooh ooooh ooooh ooooh ooooh oooh
+
+
 

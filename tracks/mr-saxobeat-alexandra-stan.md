@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-saxobeat-alexandra-stan
+lyrics_url: https://www.azlyrics.com/lyrics/alexandrastan/mrsaxobeat.html
 name: Mr Saxobeat
 rankings:
 - end_date: '2011-08-05'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
 ---
+
+You make me dance, bring me up, bring me down, play it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak, Mr. Saxobeat
+You make me dance, bring me up, bring me down, play it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak, Mr. Saxobeat
+
+Oh oh oh girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+
+Mr. Saxobeat, Mr. Saxobeat
+
+Hey sexy boy, set me free, don't be so shy, play with me
+My dirty boy, can't you see, that you belong next to me
+Hey sexy boy, set me free, don't be so shy, play with me
+My dirty boy, can't you see, you are the one I need
+
+You make me dance, bring me up, bring me down, play it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak
+
+Oh oh oh girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+
+You make me dance, bring me up, bring me down, play it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak
+You make me dance, bring me up, bring me down, Mr. Saxobeat
+You make me dance, bring me up, bring me down, Mr. Saxobeat
+
+
 

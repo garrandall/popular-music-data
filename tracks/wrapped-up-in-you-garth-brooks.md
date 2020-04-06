@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrapped-up-in-you-garth-brooks
+lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/wrappedupinyou.html
 name: Wrapped Up In You
 rankings:
 - end_date: '2001-11-02'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
 ---
+
+How do I love you. well let me see
+I love you like a lyric love a melody
+Baby, completely wrapped up in you
+How do I need you, well can't you tell
+I need you like a penny needs a wishing well
+Baby, completely wrapped up in you
+
+
+Every now and then when the world
+That we're living in is crazy
+You gladly hold me and carry me through
+No one in the world has ever done
+What you do for me and I'd be
+Sad and lonely if there were no you
+
+How do I love you, well count the ways
+There ain't a number high enough to end this phrase
+Baby, completely wrapped up in you
+
+
+
+How do I love you, well, don't you know
+I love you about as deep as any love can grow
+Baby, completely wrapped up in you
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looks-like-we-made-it-barry-manilow
+lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/lookslikewemadeit.html
 name: Looks Like We Made It
 rankings:
 - end_date: '1977-05-13'
@@ -83,4 +84,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+
+There you are
+Looking just the same as you did last time I touched you
+And here I am
+Close to getting tangled up inside the thought of you
+Do you love him
+As much as I love her
+And will that love be strong
+When old feelings start to stir
+
+Looks like we made it
+Left each other on the way
+To another love
+Looks like we made it
+Or I thought so till today
+Until you were there, everywhere
+And all I could taste was love the way we made it
+
+Loves so strange
+Playing hide and seek with hearts and always hurting
+And we're the fools
+Standing close enough to touch those burning memories
+And if I hold you
+For the sake of all those times
+Love made us lose our minds
+Could I ever let you go
+
+Oh no we made it
+Left each other on the way
+To another love
+Looks like we made it
+Or I thought so till today
+Until you were there, everywhere
+And all I could taste was love the way we made it
+Oh we made it
+
+Looks like we made it
+Left each other on the way
+To another love
+Looks like we made it
+Or I thought so till today
+Until you were there, everywhere
+And all I could taste is love the way we made it
+Looks like we made it
+Whoa babe we made it
+
+
 

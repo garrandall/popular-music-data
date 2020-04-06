@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-melody-of-love-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/mymelodyoflove.html
 name: My Melody Of Love
 rankings:
 - end_date: '1974-09-27'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
 ---
+
+I'm lookin for a place to go so I can be all alone
+From thoughts and memories
+So that when the music plays I don't go back to the days
+When love was you and me
+
+Oh, oh...
+Moja droga, ja ciÄ kocham
+Means that I love you so
+Moja droga, ja ciÄ kocham
+More than you'll ever know
+Kocham ciebie calym serce
+Love you with all my heart
+Return to me, and always be
+My melody of love
+
+Wish I had a place to hide all my sorrow, all my pride
+I just can't get along
+'cause the love once so fine keeps on hurtin all the time
+where did I go wrong?
+
+Oh, oh...
+Moja droga, ja ciÄ kocham
+Means that I love you so
+Moja droga, ja ciÄ kocham
+More than you'll ever know
+Kocham ciebie calym serce
+Love you with all my heart
+Return to me, and always be
+My melody of love
+
+Oh, oh,
+My melody of love
+My melody of love
+My melody of love
+
+
 

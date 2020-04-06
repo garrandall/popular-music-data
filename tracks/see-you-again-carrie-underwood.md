@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: see-you-again-carrie-underwood
+lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/seeyouagain.html
 name: See You Again
 rankings:
 - end_date: '2013-05-24'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
 ---
+
+Said goodbye, turned around
+And you were gone, gone, gone
+Faded into the setting sun
+Slipped away
+
+But I won't cry
+'Cause I know I'll never be lonely
+For you are the stars to me
+You are the light I follow
+
+I will see you again
+This is not where it ends
+I will carry you with me
+'Til I see you again
+
+I can hear those echoes in the wind at night
+Calling me back in time
+Back to you
+
+In a place far away
+Where the water meets the sky
+The thought of it makes me smile
+You are my tomorrow
+
+I will see you again
+This is not where it ends
+I will carry you with me
+'Til I see you again
+
+Sometimes I feel my heart is breaking
+But I stay strong
+And I hold on
+'Cause I know
+
+I will see you again
+This is not where it ends
+I will carry you with me
+
+I will see you again
+This is not where it ends
+I will carry you with me
+'Til I see you again
+
+'Til I see you again
+'Til I see you again
+'Til I see you again
+
+Said goodbye turned around
+And you were gone, gone, gone
+
+
 

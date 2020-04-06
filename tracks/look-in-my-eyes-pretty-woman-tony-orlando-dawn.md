@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: look-in-my-eyes-pretty-woman-tony-orlando-dawn
+lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/lookinmyeyesprettywoman.html
 name: Look In My Eyes Pretty Woman
 rankings:
 - end_date: '1974-12-27'
@@ -56,4 +57,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
 ---
+
+Time is on my side
+Though the world keeps gettin' colder
+'Cause I've got you girl to ease my troubled mind
+Ooh ooh
+
+I'm a different man
+When your head is on my shoulder
+I can find the answers in me
+That I never thought I'd find
+
+'Cause when you look in my eyes pretty woman
+The world is a peaceful place
+All I can see when there's you and just me
+Is love upon your face
+
+Stand by me baby
+And we'll find a way
+Before our day is done
+Look in my eyes pretty woman
+And we'll overcome
+
+Love, my guiding star,
+You're my faith, my hope, my power
+When I just can't find a reason to believe
+Ooh Ooh
+
+Touch my hand with love
+And you light my darkest hour
+I can feel the warmth returning
+And the pain about to leave
+
+'Cause when you look in my eyes pretty woman
+The world is a peaceful place
+All I can see when there's you and just me
+Is love upon your face
+
+'Cause when you look in my eyes pretty woman
+The world is a peaceful place
+All I can see when there's you and just me
+Is love upon your face
+
+
 

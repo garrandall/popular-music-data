@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swingtown-the-steve-miller-band
+lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/swingtown.html
 name: Swingtown
 rankings:
 - end_date: '1977-10-21'
@@ -67,4 +68,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
 ---
+
+Ooo oooohhhh
+Ooo oooohhhh
+Come on and dance, come on and dance
+Let's make some romance
+You know the night is fallin'
+And the music's callin'
+And we've got to get down to Swingtown
+
+We've been workin' so hard
+We've been workin' so hard
+Come on baby
+Come on baby let's dance
+Come on, come on, come on
+Come on, come on, come on
+Come on, come on, come on
+
+Ooo oooohhhh
+Ooo oooohhhh
+Come on and dance, come on and dance
+We may not get another chance
+You know the night is fallin'
+And the music's callin'
+And we've got to get down to Swingtown
+
+
 

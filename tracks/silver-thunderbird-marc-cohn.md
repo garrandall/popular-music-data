@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silver-thunderbird-marc-cohn
+lyrics_url: https://www.azlyrics.com/lyrics/marccohn/silverthunderbird.html
 name: Silver Thunderbird
 rankings:
 - end_date: '1991-08-16'
@@ -39,4 +40,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
 ---
+
+Watched it coming up Winslow
+Down South Park Boulevard
+Yeah it was looking good from tail to hood
+Great big fins and painted steel
+Man it looked just like the bat mobile
+With my old man behind the wheel
+Well you could hardly even see him in all of that chrome
+The man with the plan and the pocket comb
+But every night it carried him home
+And I could hear him saying
+
+Don't you give me no Buick
+Son, you must take my word
+If there's a God in heaven
+He's got a Silver Thunderbird
+You can keep your Eldorados
+And the foreign car's absurd
+Me, I wanna go down
+In a Silver Thunderbird
+
+He got up every morning
+While I was still asleep
+And I remember the sound of him shuffling around
+Right before the crack of dawn
+Is when I heard him turn the motor on
+But when I got up they were gone
+Down the road in the rain and snow
+The man and his machine would go
+Oh, the secrets that old car would know
+Sometimes I hear him sayin'
+
+Don't you give me no Buick
+Son, you must take my word
+If there's a God in heaven
+He's got a Silver Thunderbird
+You can keep your Eldorados
+And the foreign car's absurd
+Me, I wanna go down
+In a Silver Thunderbird
+
+Ohhh...
+
+
+Down the road in the rain and snow
+The man and his machine would go
+Oh, the secrets that old car would know
+I still hear him sayin'
+
+Don't you give me no Buick
+Son, you must take my word
+If there's a God up in heaven
+He's got a Silver Thunderbird
+You can keep your Eldorados
+And the foreign car's absurd
+Me, I wanna go down
+In a Silver Thunderbird
+
+Me, I wanna go down
+In a Silver Thunderbird
+
+Ohhh...
+
+Hi ho silver...
+
+
 

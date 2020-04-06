@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-where-you-want-me-jesse-mccartney
+lyrics_url: https://www.azlyrics.com/lyrics/jessemccartney/rightwhereyouwantme.html
 name: Right Where You Want Me
 rankings:
 - end_date: '2006-09-29'
@@ -43,4 +44,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
 ---
+
+Girl,
+There's something 'bout me that you ought to know.
+I've never felt the need to lose control.
+Always held on back and played it slow.
+But not this time.
+Baby, don't be gentle,
+I can handle anything.
+
+Baby,
+Take me on a journey.
+I've been thinking lately,
+I could use a little time alone with you.
+Crazy,
+Let's do something, maybe.
+Please don't take your time,
+You got me,
+Right where you want me.
+
+Girl,
+I'm gonna let you have your way with me.
+But when you move like that,
+Its hard to breathe.
+I never thought that it could be like this,
+But I was wrong.
+Baby, don't be gentle,
+I can handle anything.
+
+Baby,
+Take me on a journey.
+I've been thinking lately,
+I could use a little time alone with you.
+Crazy,
+Let's do something, maybe.
+Please don't take your time,
+You got me,
+Right where you want me.
+
+Can't explain it,
+How you swept me off my feet, unexpectedly.
+In slow motion,
+My imagination's running, trying to keep my body still,
+I can hardly stand the thrill.
+
+Baby, don't be gentle,
+I can handle anything.
+
+Baby,
+Take me on a journey.
+I've been thinking lately,
+I could use a little time alone with you.
+Crazy,
+Let's do something, maybe.
+Please don't take your time,
+You got me,
+Right where you want me.
+
+
 

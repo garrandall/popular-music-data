@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daniel-elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/daniel.html
 name: Daniel
 rankings:
 - end_date: '1973-04-13'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
 ---
+
+Daniel is travelling tonight on a plane
+I can see the red tail lights heading for Spain
+Oh and I can see Daniel waving goodbye
+God it looks like Daniel, must be the clouds in my eyes
+
+They say Spain is pretty though I've never been
+Well Daniel says it's the best place that he's ever seen
+Oh and he should know, he's been there enough
+Lord I miss Daniel, oh I miss him so much
+
+Daniel my brother you are older than me
+Do you still feel the pain of the scars that won't heal
+Your eyes have died but you see more than I
+Daniel you're a star in the face of the sky
+
+Daniel is travelling tonight on a plane
+I can see the red tail lights heading for Spain
+Oh and I can see Daniel waving goodbye
+God it looks like Daniel, must be the clouds in my eyes
+Oh God it looks like Daniel, must be the clouds in my eyes
+
+
 

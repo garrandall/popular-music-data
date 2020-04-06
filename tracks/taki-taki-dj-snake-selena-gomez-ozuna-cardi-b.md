@@ -7,6 +7,7 @@ features:
 - Cardi B
 genres: []
 key: taki-taki-dj-snake-selena-gomez-ozuna-cardi-b
+lyrics_url: https://www.azlyrics.com/lyrics/djsnake/takitaki.html
 name: Taki Taki
 rankings:
 - end_date: '2018-10-19'
@@ -114,4 +115,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
 ---
+
+
+Wo-oh, oh-oh
+
+Bailame como si fuera la Ãºltima vez
+Y ensÃ©Ã±ame ese pasito que no sÃ©
+Un besito bien suavecito bebÃ©
+Taki taki
+Taki taki, rumba
+Wo-oh, oh-oh
+Hi Music Hi Flows (Snake, ha, ha)
+Bailame como si fuera la Ãºltima vez
+Y ensÃ©Ã±ame ese pasito que no sÃ©
+Un besito bien suavecito bebÃ©
+Taki taki
+Taki taki
+
+Taki, taki
+Quiere un besito o un Ã±aqui
+Booty explota como saki saki
+Prende los motores Kawasaki
+Que la disco estÃ¡ llena
+Y llegaron los Anunnakis
+No le bajes
+El booty sobresale de tu traje
+No trajo pantisito pa' que el nene no trabaje
+Es que yo me sÃ© lo que ella cree que ella se sabe
+Cuenta que no quiere pero me tiene espionaje, eh-eh
+El booty sobresale de tu traje
+No trajo pantisito pa' que el nene no trabaje
+Es que yo me sÃ© lo que ella cree que ella se sabe
+Cuenta que no quiere pero me tiene espionaje, eh-eh
+
+Bailame como si fuera la Ãºltima vez
+Y ensÃ©Ã±ame ese pasito que no sÃ©
+Un besito bien suavecito bebÃ©
+Taki taki
+Taki taki, rumba
+Wo-oh, oh-oh
+Hi Music Hi Flows
+
+
+Bardi (Bardi)
+He said he wants to touch it, and tease it, and squeeze it
+Well my piggy bank is hungry, my nigga, you need to feed it
+If the text ain't freaky, I don't wanna read it
+And just to let you know, this punani is undefeated
+Aye
+He said he really wanna see me more
+I said we should have a date, where? At the Lamborghini store
+"I'm kinda scary, hard to read, I'm like a Ouija board"
+"But I'm a boss bitch, who you gonna leave me for?"
+You hoes got no class, you bitches is broke still
+I be talking cash, shit, while I'm popping my gold grill (uh)
+I'm a whole rich bitch, and I work like I'm broke still (Cardi)
+But the love be so fake, but the hate be so real (uh)
+El booty sobresale de mi traje
+No traje pantisito pa' que el nene no trabaje
+Es que yo me sÃ© lo que tu crees que tu no sabe
+Dice que no quiere pero se quiere comer el equipaje
+
+
+Bailame como si fuera la Ãºltima vez
+Y ensÃ©Ã±ame ese pasito que no sÃ©
+Un besito bien suavecito bebÃ©
+Taki taki
+Taki taki, rumba
+Wo-oh, oh-oh
+
+
+DJ Snake
+Careful when you come through my way
+My body-ody know how to play
+Work it, keep it tight every day
+And I, I, I know you need a taste
+When I ooh, you're fallin' in love
+Give a little ooh-ooh, get it well done
+Dancing on my ooh, make your girl wanna run
+We keep moving 'til the sun come up
+Porque I am the party, yo soy fiesta
+Blow out your candles, have a siesta
+They can try pero no one can stop me
+What my taki taki wants, ya my taki taki gets, uh
+
+
+Bailame como si fuera la Ãºltima vez
+Y ensÃ©Ã±ame ese pasito que no sÃ©
+Un besito bien suavecito bebÃ©
+Taki taki
+Taki taki, rumba
+Wo-oh, oh-oh
+Hi Music Hi Flows
+Taki taki
+Taki taki
+
+
 

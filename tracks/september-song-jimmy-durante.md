@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: september-song-jimmy-durante
+lyrics_url: https://www.azlyrics.com/lyrics/jimmydurante/septembersong.html
 name: September Song
 rankings:
 - end_date: '1963-09-13'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
+
+When I was a young man, caught in the girls
+I played me a waiting game
+If a maid refused me with tossin curls
+I let the old earth take a couple of whirls
+While I apply her with tears in lieu of pearls
+And as time came around, she came my way
+And as time came around, she came
+
+Oh it's a long, long while, from May to December
+But the days grow short, when you reach September
+When the autum weather, turns the leaves to flame
+One hasn't got time, for the waiting game
+
+Oh, the days, dwindle down, to a precious few
+September. November
+And these few precious days, I'll spend with you
+These precious days, I'll spend with you
+
+Oh, the days dwindle down, to a precious few
+September. November
+And these few precious days, I'll spend with you
+These precious days, I'll spend with you
+
+
 

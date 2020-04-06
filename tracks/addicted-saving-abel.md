@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: addicted-saving-abel
+lyrics_url: https://www.azlyrics.com/lyrics/savingabel/addicted.html
 name: Addicted
 rankings:
 - end_date: '2008-07-04'
@@ -143,4 +144,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
 ---
+
+I'm so addicted to
+All the things you do
+When you're going down on me
+In between the sheets
+All the sound you make
+With every breath you take
+It's unlike anything
+When you're loving me
+
+Oh girl lets take it slow
+So as for you well you know where to go
+I want to take my love and hate you 'til the end
+
+It's not like you to turn away
+From all the bullshit I can't take
+It's not like me to walk away
+
+I'm so addicted to all the things
+You do when you're going down on me
+In between the sheets
+All the sound you make
+With every breath you take
+It's unlike anything
+When you're loving me
+
+Yeah
+
+I know when it's getting rough
+All the times we spend
+When we try to make
+This love something better than
+Just making love again
+
+It's not like you to turn away
+All the bullshit I can't take
+Just when I think I can walk away,
+
+I'm so addicted to all the things
+You do when you're going down on me
+In between the sheets
+All the sound you make
+With every breath you take
+It's unlike anything
+
+I'm so addicted to the things you do
+When you're going down on me
+All the sound you make with every breath you take
+It's unlike anything when you're loving me
+Yeah
+When you're loving me
+
+How can I make it through
+All the things you do
+There's just got to be more to you and me
+
+I'm so addicted to all the things you do
+When you're going down on me
+In between the sheets
+All the sound you make with every breath you take
+It's unlike anything
+It's unlike anything
+
+I'm so addicted to
+All the things you do
+When you're going down on me
+
+All the sound you make with every breath
+You take it's unlike anything
+I'm so addicted to you
+Addicted to you
+
+
 

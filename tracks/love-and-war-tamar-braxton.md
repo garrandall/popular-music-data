@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-and-war-tamar-braxton
+lyrics_url: https://www.azlyrics.com/lyrics/tamarbraxton/loveandwar.html
 name: Love And War
 rankings:
 - end_date: '2012-12-28'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
 ---
+
+Somebody said every day was gon' be sunny skies,
+Only Marvin Gaye and lingerie, I guess somebody lied
+We started discussin' it to fightin' then "Don't touch me, please"
+Then it's "Let's stop the madness, just come lay with me"
+And truth be told I'm wavin' my flag before it goes bad
+
+'Cause we made it this far for better or worse
+I wanna feel it even if it hurts
+If I gotta cry
+To get to the other side,
+Let's go 'cause we're gon' survive
+
+We stay on the front lines
+Yeah but we're still here after the bomb drops
+We go so hard we lose control
+The fire starts then we explode
+When the smoke clears we dry our tears
+Only at love and war
+
+Sometimes you're my general,
+You quarterback all these plays
+Sometimes you're my enemy
+And I'm throwin' grenades
+
+We'll just be chillin' and laughin',
+I'm layin' on your chest
+Don't know what happened
+'Cause things just went left
+
+But here we go back down that road
+That's just the way that it goes
+
+'Cause we made it this far on for better or worse
+I wanna feel it even if it hurts
+If I gotta cry
+To get to the other side,
+As long as you're there I'll survive
+
+We stay on the front lines
+Yeah but we're still here after the bomb drops
+We go so hard we lose control
+The fire starts then we explode
+When the smoke clears we dry our tears
+Only at love and war
+
+As long as we make up after every fight when it's over
+You know I'm comin' home
+Right there where I belong
+I'm takin' off this armor
+
+And we stay on the front lines
+Yeah but we're still here after the bomb drops
+We go so hard we lose control
+The fire starts then we explode baby
+When the smoke clears we dry our tears
+Only at love and war
+Only at love and war
+Only at love and war
+
+
 

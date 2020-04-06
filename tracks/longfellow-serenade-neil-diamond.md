@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: longfellow-serenade-neil-diamond
+lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/longfellowserenade.html
 name: Longfellow Serenade
 rankings:
 - end_date: '1974-10-11'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
 ---
+
+Longfellow Serenade
+Such were the plans I'd made
+For she was a lady
+And I was a dreamer
+With only words to trade
+
+You know that I was born
+For a night like this
+Warmed by a stolen kiss
+For I was lonely
+And she was lonely
+
+Ride, come on baby, ride
+Let me make your dreams come true
+I'll sing my song
+Let me sing my song
+Let me make it warm for you
+
+I'll weave his web of rhyme
+Upon the summer night
+We'll leave this worldly time
+On his winged flight
+Then come, and as we lay
+Beside this sleepy glade
+There I will sing to you
+My Longfellow serenade
+
+Longfellow serenade
+Such were the plans I made
+But she was a lady
+As deep as the river
+And through the night we stayed
+And in my way I loved her as none before
+Loved her with words and more
+For she was lonely and I was lonely
+
+Ride, come on baby, ride
+Let me make your dreams come true
+I'll sing my song
+Let me sing my song
+Let me make it warm for you
+
+I'll weave his web of rhyme
+Upon the summer night
+We'll leave this worldly time
+On his winged flight
+Then come, and as we lay
+Beside this sleepy glade
+There I will sing to you
+My Longfellow serenade
+
+Weave your web of rhyme
+Upon the summer night
+We'll leave this worldly time
+On your winged flight
+
+
 

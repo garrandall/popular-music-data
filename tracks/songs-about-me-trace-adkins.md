@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: songs-about-me-trace-adkins
+lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/songsaboutme.html
 name: Songs About Me
 rankings:
 - end_date: '2005-04-01'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
 ---
+
+I met a guy on the red eye
+He spotted my guitar 
+And said what do you do?
+I said, I sing for a living,
+Country music mixed with 
+A little rock and a little blues
+He said I'm sorry 
+But I've never been crazy 
+'bout that twang and trains and hillbilly thing
+What ever made you want to sing stuff like that?
+I just looked at him and laughed and said
+
+Cause it's songs about me
+And who I am
+Songs about loving and living 
+And good hearted women and family and God
+Yeah they're all just 
+Songs about me
+Songs about me
+
+So I offered him tickets
+I said you'll see what I mean 
+If you show up tonight
+He said I doubt you'll change my opinion
+I'll be kind of busy, but hey man, I'll try
+
+Then later on when we finished our songs
+About scars and cars and broken hearts
+I saw him, he was standing there 
+Right next to the stage 
+And he shouted
+Man you were right 
+It was like you sang those
+
+Songs about me
+And who I am
+Songs about loving and living 
+And good hearted women and family and God
+Yeah they're all just 
+Songs about me
+Songs about me
+
+So I'll just keep on singing
+'til I hear the whole world singing those 
+
+Songs about me
+And who I am
+Songs about loving and living 
+And good hearted women and family and God
+Yeah they're all just 
+Songs about me
+Songs about me
+
+
 

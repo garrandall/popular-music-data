@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: meet-virginia-train
+lyrics_url: https://www.azlyrics.com/lyrics/train/meetvirginia.html
 name: Meet Virginia
 rankings:
 - end_date: '1999-10-15'
@@ -115,4 +116,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
 ---
+
+She doesn't own a dress
+Her hair is always a mess
+If you catch her stealin' she won't confess
+She's beautiful
+
+Smokes a pack a day
+You wait, that's me, but anyway
+She doesn't care a thing about that hey
+She thinks I'm beautiful
+
+Meet Virginia
+
+She never compromises
+Loves babies and surprises
+Wears high heels when she exercises
+Ain't it beautiful
+
+Meet Virginia
+
+Well she wants to be the queen
+Then she thinks about her scene
+Pulls her hair back as she screams
+"I don't really wanna be the queen."
+
+Her daddy wrestles alligators
+Mama works on carburetors
+Her brother is a fine mediator
+For the president
+
+And here she is again on the phone
+Just like me hates to be alone
+We just like to sit at home
+And rip on the president
+
+Meet Virginia
+
+Well she wants to live her life
+Then she thinks about her life
+Pulls her hair back as she screams
+"I don't really wanna live this life."
+
+She only drinks coffee at midnight
+When the moment is not right
+Her timing is quite unusual
+
+You see her confidence is tragic
+But her intuition magic
+And the shape of her body unusual
+
+Meet Virginia
+I can't wait to
+Meet Virginia
+
+Well she wants to be the queen
+And she thinks about her scene
+Well she wants to live her life
+Then she thinks about her life
+Pulls her hair back as she screams,
+"I don't really wanna be the queen."
+
+I don't really wanna be the queen
+I don't really wanna be the queen
+I don't really wanna live this
+
+
 

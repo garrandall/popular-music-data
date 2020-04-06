@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-on-a-swing-gerry-and-the-pacemakers
+lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/girlonaswing.html
 name: Girl On A Swing
 rankings:
 - end_date: '1966-09-16'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
 ---
+
+I stand out of sight
+And watch as the light from the sun
+Shines through her hair
+
+From yonder she came
+I don't know her name
+Still I love that girl on a swing
+
+Girl on a swing, swing high
+Girl on a swing, swing low
+Take all the hate from the world that we're in
+Girl on a swing, swing high
+Girl on a swing, swing low
+And you can cast all your troubles to the wind
+
+She comes with the light
+Then goes with the night
+My heart just yearns
+But then comes the dawn
+And she returns
+
+Girl on a swing, swing high
+Girl on a swing, swing low
+Take all the hate from the world that we're in
+Girl on a swing, swing high
+Girl on a swing, swing low
+And you can cast all your troubles to the wind
+
+
 

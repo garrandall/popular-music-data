@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-times-edie-brickell
+lyrics_url: https://www.azlyrics.com/lyrics/ediebrickellnewbohemians/beensogood.html
 name: Good Times
 rankings:
 - end_date: '1994-08-26'
@@ -39,4 +40,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
 ---
+
+Baby
+You've been so good to me
+And I love you
+You set my soul at ease
+
+Time had raised hurricanes
+Ruinin' them pleasant dreams
+You're the one who would come
+Over and rescue me
+
+You're beautiful
+You've been so good to me
+I need you
+My mind needs to be free
+
+Shake the wild, take the mile
+Down with your tenderness
+I'll be love, lifted up
+I never felt like this
+
+You lift me higher
+You lift me higher
+You lift me higher
+Yeah, yeah
+
+Sweetie
+You've been so good to me
+I want you
+I want you to believe
+
+Wear your hope like a coat
+Don't let your heart go cold
+Don't forget, you're the best man
+That I've never known
+
+You lift me higher
+You lift me higher
+Oh, you lift me higher
+Yeah, yeah
+
+Alright
+You've been so good to me
+
+You lift me higher
+And you get me higher
+And you lift me higher
+Oh, my baby, higher
+Yeah, yeah
+
+
 

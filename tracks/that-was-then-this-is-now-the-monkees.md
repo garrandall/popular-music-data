@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-was-then-this-is-now-the-monkees
+lyrics_url: https://www.azlyrics.com/lyrics/monkees/thatwasthenthisisnow.html
 name: That Was Then This Is Now
 rankings:
 - end_date: '1986-07-11'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-04'
 ---
+
+You always say you like my style.
+You say I'm tough and kind of wild.
+Am I too much for you to tame?
+I swear this time it's not a game.
+
+I've known a lot of girls.
+No, this I won't deny.
+I'll give our love,
+I'll give it more than a try.
+
+That was then, (that was then) this is now.
+Let me prove my love girl, I'll make you proud.
+I never made (never made) this kind of vow.
+That was then, this is now
+
+I've led a thousand lives it seems.
+There's been a lot of broken dreams.
+My mind has just swept love aside.
+But you broke me down and put me wise.
+
+I've doubted all compassion,
+But you showed me the door.
+I can't doubt it,
+I don't doubt it no more.
+
+That was then, (that was then) this is now.
+Let me prove my love girl, I'll make you proud.
+I never made (never made) this kind of vow.
+But that was then and this is now.
+
+I've known a lot of girls.
+No, this I won't deny.
+I'll give our love,
+I'll give it more than a try.
+
+That was then, (that was then) this is now.
+Let me prove my love girl, I'll make you proud.
+I never made (never made) this kind of vow.
+That was then, this is now.
+
+That was then, this is now.
+That was then, this is now.
+
+
 

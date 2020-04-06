@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: que-hiciste-jennifer-lopez
+lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/quhiciste.html
 name: Que Hiciste
 rankings:
 - end_date: '2007-05-04'
@@ -11,4 +12,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
 ---
+
+Ayer los dos soÃ±Ã¡bamos con un mundo perfecto
+Ayer a nuestros labios les sobraban las palabras
+PorquÃ© en los ojos nos espiÃ¡bamos el alma
+Y la verdad no vacilaba en tÃº mirada
+
+Ayer nos prometimos conquistar Ã©l mundo entero
+Ayer tÃº me juraste quÃ© Ã©ste amor serÃ­a eterno
+PorquÃ© una vez equivocarse es suficiente
+Para aprender lo quÃ© es amar sinceramente
+
+Â¿QuÃ© hiciste? Hoy destruiste con tÃº orgullo la esperanza
+Hoy empaÃ±aste con tÃº furia mÃ­ mirada
+Borraste toda nuestra historia con tÃº rabia
+Y confundiste tanto amor quÃ© te entregaba
+CÃ³mo permiso para asÃ­ romperme Ã©l alma
+
+Â¿QuÃ© hiciste? Nos obligaste a destruir las madrugadas
+Y nuestras noches las borraron tus palabras
+Mis ilusiones acabaron con tus farsas
+Se te olvidÃ³ quÃ© era el amor lo quÃ© importaba
+Y con tus manos derrumbaste nuestra casa
+
+MaÃ±ana quÃ© amanezca un dÃ­a nuevo en mÃ­ universo
+MaÃ±ana no verÃ© tÃº nombre escrito entre mis versos
+No escucharÃ© palabras de arrepentimiento
+IgnorarÃ© sin pena tÃº remordimiento
+
+MaÃ±ana olvidarÃ© quÃ© ayer yo fui tÃº fiel amante
+MaÃ±ana ni siquiera habrÃ¡ razones para odiarte
+Yo borrarÃ© todos tus sueÃ±os de mis sueÃ±os
+QuÃ© Ã©l viento arrastre para siempre tus recuerdos
+
+Â¿QuÃ© hiciste? Hoy destruiste con tÃº orgullo la esperanza
+Hoy empaÃ±aste con tÃº furia mÃ­ mirada
+Borraste toda nuestra historia con tÃº rabia
+Y confundiste tanto amor quÃ© te entregaba
+CÃ³mo permiso para asÃ­ romperme Ã©l alma
+
+Â¿QuÃ© hiciste? Nos obligaste a destruir las madrugadas
+Y nuestras noches las borraron tus palabras
+Mis ilusiones acabaron con tus farsas
+SÃ© te olvidÃ³ quÃ© era Ã©l amor lo quÃ© importaba
+Y con tus manos derrumbaste nuestra casa
+
+Y confundiste tanto amor quÃ© te entregaba
+CÃ³mo permiso para asÃ­ romperme Ã©l alma
+
+Â¿QuÃ© hiciste? Nos obligaste a destruir las madrugadas
+Y nuestras noches las borraron tus palabras
+Mis ilusiones acabaron con tus farsas
+SÃ© te olvidÃ³ quÃ© era Ã©l amor lo quÃ© importaba
+Y con tus manos derrumbaste nuestra casa
+
+
 

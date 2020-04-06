@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-your-baby-george-mccrae
+lyrics_url: https://www.azlyrics.com/lyrics/georgemccrae/rockyourbaby.html
 name: Rock Your Baby
 rankings:
 - end_date: '1974-06-07'
@@ -75,4 +76,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
+
+Sexy woman
+
+Woman, take me in your arms
+Rock your baby
+Woman, take me in your arms
+Rock your baby
+
+There's nothin' to it
+Just say you wanna do it
+Open up your heart
+And let the lovin' start
+
+Woman, take me in your arms
+Rock your baby
+Woman, take me in your arms
+Rock your baby
+
+Yeah, hold me tight
+With all your might
+Now let your lovin' flow
+Real sweet and slow
+
+Woman, take me in your arms
+Rock your baby
+Woman, take me in your arms
+Rock your baby
+
+C'mon...
+
+Aaaaaaah woman, take me in your arms
+Rock your baby
+Oo, oo, oo
+Woman, take me in your arms
+Rock your baby
+
+Ah-aah, yeah
+Take me in your arms and rock me
+Ah-aah, yeah
+Take me in your arms and rock me
+Ah-aaaah
+
+
 

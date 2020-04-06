@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: devil-woman-cliff-richard
+lyrics_url: https://www.azlyrics.com/lyrics/cradleoffilth/devilwoman.html
 name: Devil Woman
 rankings:
 - end_date: '1976-07-09'
@@ -95,4 +96,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+
+I've had nothing but bad luck
+Since the day I saw that cat at my door
+So I came into you sweet lady
+Answering your mystical call
+
+Crystal ball on the table
+Showing the future, the past
+Same cat with them evil eyes
+And I knew it was a spell she cast
+
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you from behind
+
+Give me the ring on your finger
+And let me see the lines on your hand
+I can see me a tall dark stranger
+Giving you what you hadn't planned
+
+I drank the potion she offered me
+I found myself on the floor
+Then I looked in those big green eyes
+And I wondered what I came there for
+
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you from behind, hind
+(Stay away, you cunt)
+
+If you're out on a moonlit night
+Be careful of them neighbourhood strays
+Of a lady with long black hair
+Trying to win you with Nymphetamine ways
+
+Crystal ball on the table
+Showing the future, the past
+Same cat with them evil eyes
+You'd better get out of there fast
+
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+She's just a devil woman
+With evil on her mind
+Beware the devil woman
+She's gonna get you
+
+
 

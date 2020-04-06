@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-prisoner-howard-jones
+lyrics_url: https://www.azlyrics.com/lyrics/howardjones/theprisoner.html
 name: The Prisoner
 rankings:
 - end_date: '1989-07-07'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
 ---
+
+You have watched me, safe in your anonymity
+I have dreamed you, held in your security
+Some people believe a photograph traps your mortal soul
+Your eyes were the camera and you've take hold
+And you captured me
+I need you to take control
+I am a prisoner of no confidence
+You've entered me now make me whole
+
+Every place I go I feel your lenses trained on me
+This distant concentration takes away my energy
+Your image burns it's negative
+Behind my waking eyes
+Then the night comes and you stalk your prize
+And you captured me
+I need you to take control
+I am a prisoner of no confidence
+You've entered me now make me whole
+
+Some people believe a photograph traps your mortal soul
+Your eyes were the camera and you've taken hold
+And you captured me
+I need you to take control
+I am a prisoner of no confidence
+You've entered me now make me whole
+
+
 

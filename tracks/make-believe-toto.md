@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-believe-toto
+lyrics_url: https://www.azlyrics.com/lyrics/toto/makebelieve.html
 name: Make Believe
 rankings:
 - end_date: '1982-08-13'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
 ---
+
+
+Why don't we make believe we're in love again
+Who says the crimson moon doesn't shine
+Where do people go when they're looking for that one of a kind
+
+Why don't we make believe that we're sorry
+Why must we hold it all inside
+Where do lovers go when they're running and there's no place to hide
+
+Always remember - the day we met in the pouring rain
+You were content and - we went our seperate ways
+No matter which way thw wind blows now, I'll hang on to it anyhow
+Don't ever say it could never be the same
+
+
+
+Always with me - holding hans on a summer day
+You were content and - you took it all away
+I didn't come here to change your mind, 
+Lead you on and waste your time
+All alone in the evening, getting day
+
+Why don't we make believe
+
+
+
+
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: livin--in-the-life-the-isley-brothers
+lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/livininthelife.html
 name: Livin' In The Life
 rankings:
 - end_date: '1977-07-01'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
 ---
+
+Somebody said, I was living in the life
+Somebody told me, I was living in the life
+Think that you might know, you find that you're really wrong
+My pictures come and go but my living has got to go on
+
+And if you think it's easy it's only 'cause
+You ain't me and I ain't you
+Check out the difference between the two
+
+Somebody said, it was easy in my life
+Somebody told me, I had made it in my life
+Try to understand my determination win
+You can't only stand on the outside looking in
+
+And if you think it's easy it's only 'cause
+You ain't me and I ain't you
+Check out the difference between the two
+
+Somebody said, I was living in the life
+Somebody told me, I was living in the life
+Try to understand my determination win
+You can't only stand on the outside looking in
+
+You ain't me and I ain't you
+That's the horrible difference between the two
+
+
 

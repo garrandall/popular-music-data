@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: imaginary-lover-atlanta-rhythm-section
+lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/imaginarylover.html
 name: Imaginary Lover
 rankings:
 - end_date: '1978-03-10'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
 ---
+
+Imaginary lovers never turn you down
+When all the others turn you away, they're around
+It's my private pleasure, midnight fantasy
+Someone to share my wildest dreams with me
+Imaginary lover, you're mine anytime
+Imaginary lovers, oh yeah
+
+When ordinary lovers don't feel what you feel
+And real life situations lose their thrill
+Imagination's unreal
+Imaginary lover, imaginary lover
+You're mine anytime
+
+Imaginary lovers never disagree
+They always care
+They're always there when
+You need satisfaction guaranteed
+Imaginary lover, imaginary lover
+You're mine all the time
+My imaginary lover
+You're mine anytime
+
+
 

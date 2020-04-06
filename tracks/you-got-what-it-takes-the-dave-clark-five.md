@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-what-it-takes-the-dave-clark-five
+lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/yougotwhatittakes.html
 name: You Got What It Takes
 rankings:
 - end_date: '1967-04-07'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+
+Ow! You don't drive a big fast car, no
+You don't look a-like a movie star
+And on your money we won't get far
+But baby, you got what it takes, Oh! to satisfy
+You got what it takes to set my soul on fire
+But oh, oh, whoa-oh, whoa-oh whoa-oh-oh yeah
+You got what it takes for me
+
+Ow! You don't live in a beautiful place
+And you don't dress in the best of taste
+Oh! Nature didn't give you such a beautiful face
+But baby, you got what it takes, Oh! to satisfy
+You got what it takes to set my soul on fire
+But oh, oh, whoa-oh, whoa-oh whoa-oh-oh yeah
+You got what it takes for me
+
+Now when you're near me, ooo-wee
+My head goes around and around
+And when you kiss me, a-little girl
+My love comes tumblin' down, you send me
+
+You don't live in a beautiful place
+Oh, you don't dress in the best of taste
+And nature didn't give you such a beautiful face
+But baby, you got what it takes, Oh! to satisfy
+You got what it takes to set my soul on fire
+But oh, oh, whoa-oh, whoa-oh whoa-oh-oh yeah
+You got what it takes for me
+
+Now when you're near me, mmm-mmm
+My head goes around and around and around and around
+And when you kiss me, a-little girl
+My love comes tumblin' down, you send me
+
+You don't live in a beautiful place, no
+You don't dress in the best of taste
+And nature didn't give you such a beautiful face
+But baby, you got what it takes
+Yeah, yeah, yeah
+Yeah, you got what it takes
+Baby, I'm tellin' you
+You got what it takes
+
+Hey! hey! hey!
+
+
 

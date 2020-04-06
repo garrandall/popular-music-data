@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holiday-madonna
+lyrics_url: https://www.azlyrics.com/lyrics/madonna/holiday.html
 name: Holiday
 rankings:
 - end_date: '1983-11-04'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
 ---
+
+Holiday Celebrate
+Holiday Celebrate
+
+
+
+If we took a holiday
+Took some time to celebrate
+Just one day out of life
+It would be, it would be so nice
+
+Everybody spread the word
+We're gonna have a celebration
+All across the world
+In every nation
+It's time for the good times
+Forget about the bad times, oh yeah
+One day to come together
+To release the pressure
+We need a holiday
+
+
+
+You can turn this world around
+And bring back all of those happy days
+Put your troubles down
+It's time to celebrate
+Let love shine
+And we will find
+A way to come together
+And make things better
+We need a holiday
+
+
+
+Holiday Celebrate
+Holiday Celebrate
+
+
+
+Holiday Celebrate
+Holiday Celebrate
+
+Holiday, Celebration
+Come together in every nation
+
+
 

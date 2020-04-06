@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: welcome-to-my-nightmare-alice-cooper
+lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/welcometomynightmare.html
 name: Welcome To My Nightmare
 rankings:
 - end_date: '1975-10-31'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
+
+Welcome to my nightmare, I think you're gonna like it, I think you're gonna feel you belong.
+A nocturnal vacation, unnecessary sedation, you want to feel at home 'cause you belong.
+Welcome to my nightmare whoa, ho, ho, ho...
+
+Welcome to my breakdown.
+I hope I didn't scare you.
+That's just the way we are when we come down.
+We sweat and laugh and scream here.
+'Cause life is just a dream here.
+You know inside you feel right at home, here.
+Yeah, Welcome to my nightmare yeah, hey, hey, hey...
+
+Welcome to my nightmare!
+I think you're gonna like it!
+I think you're gonna feel you belong!
+We sweat and laugh and scream here!
+'Cause life is just a dream here!
+You know inside you feel right at home, here!
+
+Welcome to my nightmare hoo, hoo, woo, hoo...
+Welcome to my breakdown...
+
+Yeah!
+
+
 

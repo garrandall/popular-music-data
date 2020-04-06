@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: only-in-america-brooks-dunn
+lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/onlyinamerica.html
 name: Only In America
 rankings:
 - end_date: '2001-07-27'
@@ -88,4 +89,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
 ---
+
+Sun coming up over New York City
+School bus driver in a traffic jam
+Starin' at the faces in her rearview mirror
+Looking at the promise of the Promised Land
+One kid dreams of fame and fortune
+One kid helps pay the rent
+One could end up going to prison
+One just might be president
+
+Only in America
+Dreaming in red, white and blue
+Only in America
+Where we dream as big as we want to
+We all get a chance
+Everybody gets to dance
+Only in America
+
+Sun going down on an La. freeway
+Newlyweds in the back of a limousine
+A welder's son and a banker's daughter
+All they want is everything
+She came out here to be an actress
+He was the singer in a band
+They just might go back to Oklahoma
+And talk about the stars they could have been
+
+
+
+Only in America
+Where we dream in red, white and blue
+Only in America
+Where we dream as big as we want to
+We all get a chance
+Everybody gets to dance
+Only in America
+
+Yeah only in America
+Where we dream in red, white and blue
+Yeah we dream as big as we want to
+
+
 

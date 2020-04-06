@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-far-martina-mcbride
+lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/howfar.html
 name: How Far
 rankings:
 - end_date: '2004-07-16'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
 ---
+
+There's a boat, I could sail away
+There's the sky, I could catch a plane
+There's a train, there's the tracks
+I could leave and I could choose to not come back
+Oh never come back
+
+There you are, giving up the fight
+Here I am begging you to try
+Talk to me, let me in
+But you just put your wall back up again
+Oh when's it gonna end
+
+
+How far do I have to go to make you understand
+I wanna make this work so much it hurts, but I just can't
+Keep on giving, go on living with the way things are
+So I'm gonna walk away
+And it's up to you to say how far
+
+There's a chance I could change my mind
+But I won't, not till you decide
+What you want, what you need
+Do you even care if I stay or leave
+Oh, what's it gonna be
+
+
+
+Out of this chair, or just across the room
+Halfway down the block or halfway to the moon
+
+How far do I have to go to make you understand
+I wanna make this work so much it hurts, but I just can't
+Keep on giving, go on living with the way things are
+So I'm gonna walk away
+And it's up to you to say
+YeahI'm gonna walk away
+And it's up to you to say how far
+
+
 

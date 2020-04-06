@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-look-good-in-my-shirt-keith-urban
+lyrics_url: https://www.azlyrics.com/lyrics/keithurban/youlookgoodinmyshirt.html
 name: You Look Good In My Shirt
 rankings:
 - end_date: '2008-07-11'
@@ -75,4 +76,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
 ---
+
+When you walked up behind me and covered my eyes 
+And whispered in my ear, guess who
+I rattled off names like I really didn't know
+But all along I knew it was you
+
+And, the longer we talked, the more we laughed
+And wondered why we didn't last 
+It had been a long time, but later last night
+Baby, we caught up real fast
+
+And maybe it's a little too early
+To know if this is gonna work
+All I know is you're sure looking
+Good in my shirt
+That's right
+You look good in my shirt
+
+Well now I'm not saying that we solved overnight
+Every way that we went wrong
+Oh, but what I'm seeing I'd sure love seeing
+Every morning from now on
+
+And maybe it's a little too early
+To know if this is gonna work
+All I know is you're sure looking
+Good in my shirt
+
+C'mon now
+Aww that's right
+Oh you look so fine
+
+And maybe it's a little too early
+To know if this is gonna work
+All I know is you're sure looking
+Good in my shirt 
+
+And maybe it's a little too early
+To know if this is gonna work
+All I know is you're sure looking
+Good in my shirt
+You look good in my shirt
+You look good in my shirt
+
+
 

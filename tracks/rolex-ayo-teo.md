@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: rolex-ayo-teo
+lyrics_url: https://www.azlyrics.com/lyrics/ayoteo/rolexsteveaokiremix.html
 name: Rolex
 rankings:
 - end_date: '2017-03-10'
@@ -108,4 +109,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
 ---
+
+
+Rollie, Rollie, Rollie
+Steve Aoki
+
+I just want a Rollie, Rollie, Rollie with a dab of ranch
+I already got some designer to hold up my pants
+I just want some ice on my wrist so I look better when I dance
+Have you lookin' at it, put you in a trance
+I just want a Rollie, Rollie, Rollie with a dab of ranch
+I already got some designer to hold up my pants
+I just want some ice on my wrist so I look better when I dance
+Have you lookin' at it, put you in a trance
+Yeah, yeah, yeah
+All I ever wanted was a Rollie, Rollie
+All I ever wanted was a Rollie, Rollie
+Cooler than a snowman with the ice all on me
+All I ever wanted was a Rollie, Rollie...
+All I ever wanted was a Rollie, Rollie
+
+
+I just want a Rollie, Rollie, Rollie with a dab of ranch
+I already got some designer to hold up my pants
+I just want some ice on my wrist so I look better when I dance
+Have you lookin' at it, put you in a trance
+Yeah, yeah, yeah
+All I ever wanted was a Rollie, Rollie
+All I ever wanted was a Rollie, Rollie
+Cooler than a snowman with the ice all on me
+Now your chick all on me, now your chick all on me
+
+
+Blue face Rollie, red face Rollie, ayy
+Purple face Rollie like some Teletubbies, ayy
+Baby diamonds wet, shinin' like some guppies, woah
+Your man's hatin', probably 'cause his girl love me, ayy
+I pull up to the mall and I'm flexin' on your hoe
+Jahleele in the cut, and he got them buffies, ayy (got them buffies)
+Whiteskins got me goin' crazy, crazy, ayy
+Your girl love me 'cause she prolly want my baby, ayy (woo)
+
+
+I just want a Rollie, Rollie, Rollie with a dab of ranch
+I already got some designer to hold up my pants
+I just want some ice on my wrist so I look better when I dance
+Have you lookin' at it, put you in a trance
+Yeah, yeah, yeah
+All I ever wanted was a Rollie, Rollie
+All I ever wanted was a Rollie, Rollie
+Cooler than a snowman with the ice all on me
+All I ever wanted was a Rollie, Rollie...
+All I ever wanted was a Rollie, Rollie
+
+
+All I ever wanted was a Rollie, Rollie
+All I ever wanted was a Rollie, Rollie
+Cooler than a snowman with the ice all on me
+Now your chick all on me, now your chick all on me (she on me)
+
+
 

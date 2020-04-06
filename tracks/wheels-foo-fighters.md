@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wheels-foo-fighters
+lyrics_url: https://www.azlyrics.com/lyrics/foofighters/wheels.html
 name: Wheels
 rankings:
 - end_date: '2009-10-23'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
 ---
+
+I know what you're thinkin'
+We were goin' down
+I can feel the sinkin'
+But then I came around
+
+And everyone I've loved before
+Flashed before my eyes
+And nothin' mattered anymore
+I looked into the sky
+
+Well I wanted something better man
+I wished for something new
+And I wanted something beautiful
+And wish for something true
+Been lookin' for a reason man
+Something to lose
+
+When the wheels come down (When the wheels come down)
+When the wheels touch ground (When the wheels touch ground)
+And you feel like it's all over
+There's another round for you
+When the wheels come down (When the wheels come down)
+
+Know your head is spinnin'
+Broken hearts will mend
+This is our beginning
+Comin to an end
+
+Well, you wanted something better man
+You wished for something new
+Well, you wanted something beautiful
+Wished for something true
+Been lookin for a reason man
+Something to lose
+
+When the wheels come down (When the wheels come down)
+When the wheels touch ground (When the wheels touch ground)
+And you feel like it's all over
+There's another round for you
+When the wheels come down (When the wheels come down)
+
+When the wheels come down (When the wheels come down)
+When the wheels touch ground (When the wheels touch ground)
+And you feel like it's all over
+There's another round for you
+When the wheels come down (When the wheels come down)
+
+When the wheels come down (When the wheels come down)
+When the wheels touch ground (When the wheels touch ground)
+And you feel like it's all over
+There's another round for you
+When the wheels come down (When the wheels come down)
+
+
 

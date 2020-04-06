@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad-songs--say-so-much--elton-john
+lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/sadsongssaysomuch.html
 name: Sad Songs (say So Much)
 rankings:
 - end_date: '1984-06-15'
@@ -83,4 +84,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
 ---
+
+Guess there are times when we all need to share a little pain
+And ironing out the rough spots
+Is the hardest part when memories remain
+And it's times like these when we all need to hear the radio
+`Cause from the lips of some old singer
+We can share the troubles we already know
+
+Turn them on, turn them on
+Turn on those sad songs
+When all hope is gone
+Why don't you tune in and turn them on
+
+They reach into your room
+Just feel their gentle touch
+When all hope is gone
+Sad songs say so much
+
+If someone else is suffering enough to write it down
+When every single word makes sense
+Then it's easier to have those songs around
+The kick inside is in the line that finally gets to you
+and it feels so good to hurt so bad
+And suffer just enough to sing the blues
+
+Sad songs, they say
+Sad songs, they say
+Sad songs, they say
+Sad songs, they say so much
+
+
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-me-feel-brand-new-the-stylistics
+lyrics_url: https://www.azlyrics.com/lyrics/innercircle/youmakemefeelbrandnew.html
 name: You Make Me Feel Brand New
 rankings:
 - end_date: '1974-03-29'
@@ -107,4 +108,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
 ---
+
+My love,
+I'll never find the words my love, to tell you how I feel my love.
+Mere words, could not explain.
+
+Precious love,
+You held my life within your hands, created everything I am,
+Taught me how to live again.
+
+Only you,
+Came when I needed a friend, believed in me through thick and thin,
+This song is for you, filled with gratitude and love
+
+God bless you, you make me feel brand new,
+For God bless me with you, you make me feel brand new,
+I sing this song 'cause you, make me feel brand new.
+
+My love,
+When ever I was insecure, you built me up and made me sure,
+You gave, my pride, back to me.
+
+Precious friend,
+With you I'll always have a friend, your someone who I can depend,
+To walk a path that sometimes bends.
+
+Without you,
+Life has no meaning or rhyme, like notes to a song out of time,
+How can I repay, you'll find heaven, faith and me
+
+God bless you, you make me feel brand new,
+For God bless me with you, you make me feel brand new
+
+
 

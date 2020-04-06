@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swept-away-diana-ross
+lyrics_url: https://www.azlyrics.com/lyrics/dianaross/sweptaway.html
 name: Swept Away
 rankings:
 - end_date: '1984-09-07'
@@ -63,4 +64,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
 ---
+
+I was lying there
+Lying on the beach
+I dreamed you were there
+Feel the heat
+The sun and the waves
+When you touch my hand
+We were on a desert island
+And I had a dream
+I was swept away
+
+You and I are on an island
+Where I thought the storm would never end
+I saw your light on the horizon
+And I knew that I was blown away again
+
+No it doesn't matter
+Yeah, it doesn't matter
+'Cause nothing lasts forever
+'Cause nothing last forever
+
+No it doesn't matter
+No it doesn't matter
+'Cause nothing lasts forever
+Nothing last forever
+
+I was swept away
+I was swept away
+I was swept away with you
+I was swept away
+I was swept away
+I was swept away with you
+
+The rise and fall is endless
+The risk you run of being lost in blue
+You caught my drift while I was restless
+Where the current flows
+I'm gonna flow away with you
+
+No it doesn't matter
+Yeah, it doesn't matter
+'Cause nothing last forever
+Nothing last forever
+
+No it doesn't matter
+No it doesn't matter
+'Cause nothing last forever
+Nothing last forever
+
+I was swept away
+I was swept away
+I was swept away with you
+I was swept away
+I was swept away
+I was swept away with you
+
+For a day
+Or maybe for a lifetime
+Break away
+Is he throwing me a lifeline
+If I say
+That this will be the last time
+Swept away
+Will it end with you?
+
+I was swept away
+Swept away
+Swept away
+
+No it won't, no it won't
+No it doesn't matter
+Nothing last forever
+
+
 

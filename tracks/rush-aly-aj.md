@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: rush-aly-aj
+lyrics_url: https://www.azlyrics.com/lyrics/alyaj/rush.html
 name: Rush
 rankings:
 - end_date: '2006-03-10'
@@ -52,4 +53,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
 ---
+
+Into your head, into your mind
+out of your soul, race through your veins
+You can't escape, you can't escape.
+
+Into your life, into your dreams,
+Out of the dark, sunlight again.
+You can't explain, you can't explain.
+
+Can You feel it, can you feel it,
+Rushin' through your hair,
+Rushin' through your head,
+Can you feel it, can you feel it,
+
+Don't let nobody tell you, your life is over,
+Be every color that you are,
+Into the rush now,
+You don't have to know how,
+Know it all before you try.
+
+Pulling you in, spinning you 'round,
+Lifting your feet right off the ground,
+You can't believe it's happening now.
+
+Can You feel it, can you feel it,
+Rushin' through your hair,
+Rushin' through your head,
+Can you feel it, can you feel it,
+
+Don't let nobody tell you, your life is over,
+Be every color that you are,
+Into the rush now,
+You don't have to know how,
+Know it all before you try.
+
+It takes you to another place,
+imagine everything you can.
+All the colors start to blend,
+Your system overloads again.
+
+Can You feel it?
+
+Don't let nobody tell you, your life is over,
+Be every color that you are,
+Into the rush now,
+You don't have to know how,
+Know it all before you try.
+
+Don't let nobody tell you,
+Yeah, yeah, yeah, yeah
+Don't let nobody tell you,
+Yeah, yeah, yeah, yeah
+
+Don't let nobody tell you, your life is over,
+Be every color that you are,
+Into the rush now,
+You don't have to know how,
+Know it all before you try
+
+Yeah, yeah, yeah, yeah
+Yeah, yeah, yeah, yeah
+
+
 

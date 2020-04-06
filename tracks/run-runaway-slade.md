@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-runaway-slade
+lyrics_url: https://www.azlyrics.com/lyrics/slade/runrunaway.html
 name: Run Runaway
 rankings:
 - end_date: '1984-04-13'
@@ -75,4 +76,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
+
+Hold on! 
+I like black and white
+(Dreaming of black and white) 
+You like black and white 
+Run run away 
+
+See chameleon 
+(Lying there in the sun) 
+All things to everyone 
+Run run away 
+
+If you're in the swing 
+(Money ain't everything) 
+If you're in the swing 
+Run run away 
+
+See chameleon 
+(Lying there in the sun) 
+All things to everyone 
+Run run away 
+
+If you gotta crush 
+(Don't beat about the bush) 
+When I gotta crush 
+Run run away 
+
+See chameleon 
+(Lying there in the sun) 
+All things to everyone 
+Run run away 
+
+Oh now can't you wait
+(Love don't come on a plate) 
+Oh now can't you wait 
+Run run away 
+
+See the chameleon 
+Lying there in the sun 
+All things to everyone 
+Run run away 
+
+Run run away 
+Run run away 
+Run run away
+
+
 

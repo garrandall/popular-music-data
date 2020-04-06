@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sealed-with-a-kiss-bobby-vinton
+lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/sealedwithakiss.html
 name: Sealed With A Kiss
 rankings:
 - end_date: '1972-06-16'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
 ---
+
+Though we've got to say
+Goodbye for the summer
+Baby, I promise you this
+I'll send you all my love
+Every day in a letter
+Sealed with a kiss
+
+Yes, it's gonna be a
+Cold, lonely summer
+But I'll fill the emptiness
+I'll send you all my dreams
+Every day in a letter
+Sealed with a kiss
+
+I'll see you in the sunlight
+I'll hear your voice everywhere
+I'll run to tenderly hold you
+But baby, you won't be there
+
+I don't wanna say
+Goodbye for the summer
+Knowing the love we'll miss
+So, let us make a pledge
+To meet in September
+And seal it with a kiss
+
+Yes, it's gonna be a
+Cold, lonely summer
+But I'll fill the emptiness
+I'll send you all my love
+Every day in a letter
+Sealed with a kiss
+Sealed with a kiss
+Sealed with a kiss
+Sealed with a kiss 
+
+
 

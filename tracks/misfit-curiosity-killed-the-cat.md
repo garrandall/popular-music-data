@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: misfit-curiosity-killed-the-cat
+lyrics_url: https://www.azlyrics.com/lyrics/curiositykilledthecat/misfit.html
 name: Misfit
 rankings:
 - end_date: '1987-08-07'
@@ -59,4 +60,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
 ---
+
+Sensitive child
+Keep running wild
+In a confined space
+But you're not to blame
+'Cause you're not the same
+Get on the case
+
+Crazy sheep, you are the odd one out
+Crazy sheep, let them know what you're all about
+
+Misfit
+Freak that's on the street
+Well I can see the sorrow in your eyes
+How long? How low? How high can you go? 
+There'll be a bind for every kind
+You'll see
+
+Sensitive child
+Your threat is so mild
+It worries me
+Build yourself some protection
+To avoid the injection
+Then you can be happy
+
+Crazy sheep you are the odd on out
+Crazy sheep let them know what you're all about
+
+Misfit
+Freak that's on the street
+Now I can see the sorrow in your eyes
+How long? How low? How high can you go? 
+There'll be a bind for every kind
+You'll see
+
+Set your mode to emotion
+Your secret potion
+Designed to satisfy your soul
+And underneath
+Your broken dreams
+You need to satisfy your soul
+
+Misfit
+Freak that's on the street
+Now I can see the sorrow in your eyes
+How long? How low? How high can you go? 
+There'll be a bind for every kind
+You'll see
+
+Too fat, too thin, you lose or you win
+This may come as some surprise
+Too tall, too short, too loose or too taut
+There'll be a bind for every kind
+
+Misfit
+Freak that's on the street
+Now I can see the sorrow in your eyes
+How long? How low? How high can you go? 
+
+Too fat, too thin, you lose or you win
+This may come as some surprise
+Too tall, too short, too loose or too taut
+There'll be a bind for every kind...
+
+
 

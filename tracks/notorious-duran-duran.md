@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: notorious-duran-duran
+lyrics_url: https://www.azlyrics.com/lyrics/duranduran/notorious.html
 name: Notorious
 rankings:
 - end_date: '1986-11-07'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
 ---
+
+No-no-Notorious. Notorious. Ah. No-no-Notorious.
+
+I can't read about it.
+Burns the skin from your eyes.
+I'll do fine without it.
+Here's one you don't compromise.
+Lies come hard in disguise.
+They need to fight it out.
+Not wild about it.
+Lay your seedy judgements.
+Who says they're part of our lives?
+
+
+You own the money ;
+You control the witness.
+I'll leave you lonely.
+Don't monkey with my business.
+You pay the prophets to justify your reasons.
+I heard your promise,but I don't believe it.
+
+That's why I've done it again. No-no-Notorious.
+
+Girls will keep the secrets (uh)
+So long as boys make a noise.
+Fools run rings to break up.
+Something they'll never destroy.
+Grand Notorious slam (bam).
+And who really gives a damn for a flaky bandit?
+Don't ask me to bleed about it;
+I need this blood to survive.
+
+
+
+That's why I've done it again. No-no-Notorious.
+
+
+
+
+
+That's why I've done it again. No. No.
+That's why I've done it again. No-no-Notorious.
+That's why I've done it again. No-no-Notorious.
+No-no-Notorious. Yeah.
+That's why I've done it again. No-no-Notorious.
+No-no-Notorious. Yeah.
+That's why I've done it again. No-no-Notorious.
+No-no-Notorious.
+
+
 

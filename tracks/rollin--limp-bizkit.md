@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rollin--limp-bizkit
+lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/rollinairraidvehicle.html
 name: Rollin'
 rankings:
 - end_date: '2000-11-17'
@@ -75,4 +76,132 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
 ---
+
+Alright partner
+Keep on rollin' baby
+You know what time it is
+
+Throw your hands up
+Throw your hands up
+Throw your hands up
+Ladies and gentlemen
+Throw your hands up
+Throw your hands up
+
+Chocolate starfish
+Keep on rollin' baby
+
+Move in now move out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+Breathe in now breathe out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+
+Keep rollin' rollin' rollin' rollin' (what)
+Keep rollin' rollin' rollin' rollin' (come on)
+Keep rollin' rollin' rollin' rollin' (yeah)
+Keep rollin' rollin' rollin' rollin'
+
+Now I know y'all be loving this shit right here
+L.I.M.P Bizkit is right here
+People in the house put them hands in the air
+Cause if you don't care
+Then we don't care
+1 2 3 times two to the six
+Jonesin' for your fix
+Of that Limp Bizkit mix
+So where the fuck you at punk
+Shut the fuck up
+And back the fuck up
+While we fuck this track up
+
+Throw your hands up
+
+Now move in now move out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+Breathe in now breathe out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+
+Keep rollin' rollin' rollin' rollin' (what)
+Keep rollin' rollin' rollin' rollin' (come on)
+Keep rollin' rollin' rollin' rollin' (yeah)
+Keep rollin' rollin' rollin' rollin'
+
+You wanna mess with Limp Bizkit (yeah)
+You can't mess with Limp Bizkit (why)
+Because we get it on (when?)
+Every day and every night (oh)
+And this platinum thing right here (uh huh)
+Yo we're doin' it all the time (what)
+So you better get some better beats
+And a some better rhymes (dough)
+
+We got the gang set
+So don't complain yet
+Twenty four seven never beggin' for a rain check
+Old-school soldiers blastin' out the hot shit
+That rock shit
+Puttin' bounce in the mosh pit
+
+Throw your hands up
+
+Now move in now move out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+Breathe in now breathe out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+
+Keep rollin' rollin' rollin' rollin' (come on)
+Keep rollin' rollin' rollin' rollin' (what)
+Keep rollin' rollin' rollin' rollin' (yeah)
+Keep rollin' rollin' rollin' rollin'
+
+Hey ladies hey fellas
+And the people that don't give a fuck
+All the lovers all the haters
+And all the people that call themselves players
+Hot mamas pimp daddies
+And the people rollin' up in caddies
+Hey rockers hip-hoppers
+And everybody all around the world
+
+Now move in now move out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+Breathe in now breathe out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+
+Keep rollin' rollin' rollin' rollin' (yeah)
+Keep rollin' rollin' rollin' rollin' (what)
+Keep rollin' rollin' rollin' rollin' (come on)
+Keep rollin' rollin' rollin' rollin'
+
+Now move in now move out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+Breathe in now breathe out
+Hands up now hands down
+Back up back up
+Tell me what ya gonna do now
+
+Keep rollin' rollin' rollin' rollin' (what)
+Keep rollin' rollin' rollin' rollin' (come on)
+Keep rollin' rollin' rollin' rollin' (yeah)
+Keep rollin' rollin' rollin' rolling
+
+
 

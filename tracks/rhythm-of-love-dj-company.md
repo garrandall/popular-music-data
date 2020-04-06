@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhythm-of-love-dj-company
+lyrics_url: https://www.musixmatch.com/lyrics/DJ-Company/Rhythm-of-Love
 name: Rhythm Of Love
 rankings:
 - end_date: '1997-06-20'
@@ -83,4 +84,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
 ---
+CHORUS:
+And if you feel the need
+To make love to me in the night
+And if you wanna make love till you see the morning light
+It's the rhythm of my love- oh yeah
+The rhythm of love
+It's the rhythm of my love- oh yeah
+The rhythm of love
 
+(I've got the rhythm...)
+
+There is so much we can do
+For the love of me and you
+And I will do anything
+Yes anything for you
+Hey- I know what you want
+I know what you need
+And I will do anything
+To get your love
+Come close to me- oh baby...
+
+CHORUS...
+
+(The rhythm.)
+(Yeah yeah yeah yeah.)
+
+
+
+
+I close my eyes and I think of you
+Imaging things we're about to do
+And I will go anywhere
+Yes anywqhere with you
+Hey- I know what you want
+I know what you need
+And I will do anything
+To get your love
+(Get your love...)
+Come close to me- oh baby...
+
+CHORUS...
+
+[Entered by Mike: FX: Morrey

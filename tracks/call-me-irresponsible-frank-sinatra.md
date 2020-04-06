@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-me-irresponsible-frank-sinatra
+lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/callmeirresponsible.html
 name: Call Me Irresponsible
 rankings:
 - end_date: '1963-04-12'
@@ -39,4 +40,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
 ---
+
+Call me irresponsible - call me unreliable, throw in undependable too
+Do my foolish alibis bore you, well I'm not too clever - I just adore you
+Call me unpredictable - tell me I'm impractical, rainbows I'm inclined to pursue
+Call me irresponsible - yes I'm unreliable,
+But it's undeniably true - I'm irresponsibly mad for you
+
+
 

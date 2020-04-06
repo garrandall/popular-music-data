@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-light-david-nail
+lyrics_url: https://www.azlyrics.com/lyrics/davidnail/redlight.html
 name: Red Light
 rankings:
 - end_date: '2009-10-16'
@@ -71,4 +72,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
 ---
+
+So this is how it ends
+This is where it all goes down
+This is what "I don't love you" feels like
+
+It ain't the middle of the night
+And it ain't even raining outside
+It ain't exactly what I had in mind
+For goodbye
+
+At a red light in the sunshine
+On a Sunday
+Nothin' to say
+Don't even try
+
+Some are comin' home
+Some are leavin' town
+While my world's crashin' down
+On a Sunday
+In the sunshine
+At a red light
+
+I thought she was gonna say
+Somethin' about that couple kissin'
+Crossin' the street
+Or somethin' about this beautiful day
+
+But she just looked me in the eye
+Said it's over
+Didn't try to lie
+Or pick a fight
+I might have seen it comin' thata way
+
+But at a red light in the sunshine
+On a Sunday
+Nothin' to say
+Don't even try
+
+Some are comin' home
+Some are leavin' town
+While my world's crashin' down
+On a Sunday
+In the sunshine
+At a red light
+
+There's a momma calmin' down a little baby
+In the backseat in front of me
+There's an old man dressed in his Sunday best
+Just waitin' on green
+But I can't see, gettin' past
+
+This red light
+In the sunshine
+On a Sunday
+Nothin' to say
+Don't even try
+
+Some are comin' home
+Some are leavin' town
+While my world's crashin' down
+On a Sunday in the sunshine
+(at a red light)
+
+At a red light in the sunshine
+On a Sunday
+Nothin' to say
+Don't even try
+
+Some are comin' home
+Some are leavin' town
+While my world's crashin' down
+On a Sunday
+In the sunshine
+At a red light 
+
+
 
