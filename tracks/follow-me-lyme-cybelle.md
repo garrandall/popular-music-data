@@ -1,7 +1,6 @@
 ---
 artists:
-- Lyme
-- Cybelle
+- Lyme and Cybelle
 features: []
 genres: []
 key: follow-me-lyme-cybelle

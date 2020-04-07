@@ -1,7 +1,6 @@
 ---
 artists:
-- Tyler
-- The Creator
+- Tyler, The Creator
 features: []
 genres: []
 key: what-s-good-tyler-the-creator

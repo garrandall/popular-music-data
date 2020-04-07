@@ -1,7 +1,6 @@
 ---
 artists:
-- Tyler
-- The Creator
+- Tyler, The Creator
 features: []
 genres: []
 key: puppet-tyler-the-creator
@@ -13,7 +12,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
-
 Ayo, I wanna talk
 I wanna call you and talk, I wanna walk to your front door and knock
 After I stop my vehicle, drive to your city 'cause we live an hour apart
@@ -55,6 +53,3 @@ Breathe on a song
 Breathe on a song
 
 (But at some point you come to your senses)
-
-
-

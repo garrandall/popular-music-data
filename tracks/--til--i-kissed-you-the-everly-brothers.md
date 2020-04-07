@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: --til--i-kissed-you-the-everly-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/illbidemytime.html
+lyrics_url: https://genius.com/The-everly-brothers-til-i-kissed-you-lyrics
 name: ('til) I Kissed You
 rankings:
 - end_date: '1959-08-23'
@@ -72,27 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
 ---
+Never felt like this until I kissed ya
+How did I exist until I kissed ya
+Never had you on my mind
+Now you're there all the time
+Never knew what I missed 'til I kissed ya
+Uh-huh I kissed ya, oh yeah
+Things have really changed since I kissed ya, uh-huh
+My life's not the same now that I kissed ya, oh yeah
 
-If you're gonna love me and love me true
-I promise you dear I'll do the same for you
-But if you're gonna take my poor heart
-When it is yours and tear it apart
-I've planned in my mind what then I will do
-I'll bide my time 'til I'm even with you
+Mmm, you got a way about ya
+Now I can't live without ya
+Never knew what I missed 'til I kissed ya
+Uh-huh, I kissed ya, oh yeah
 
-If you ever kiss me 'cause your love is real
-I'm sure I can equal anything you feel
-But if you ever kiss me and you sigh a sweet sigh
-And then I find out that it's a lie
-I've planned in my mind what then I will do
-I'll bide my time 'til I'm even with you
+You don't realize what you do to me
+And I didn't realize what a kiss could be
 
-If to me you whisper words âI love youâ
-I know I'm brave enough say âI love you tooâ
-But if I find out that all this time
-You were playing games you weren't really truly mine
-I've planned in my mind what then I will do
-I'll bide my time 'til I'm even with you
+Mmm, you got a way about ya
+Now I can't live without ya
+Never knew what I missed 'til I kissed ya
+Uh-huh, I kissed ya, oh yeah
 
+You don't realize what you do to me
+And I didn't realize what a kiss could be
 
+Mmm, you got a way about ya
+Now I can't live without ya
+Never knew what I missed 'til I kissed ya
+Uh-huh, I kissed ya, oh yeah
 
+I kissed ya, uh-huh
+I kissed ya, oh yeah
+I kissed ya...

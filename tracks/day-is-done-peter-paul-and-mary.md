@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: day-is-done-peter-paul-mary
+key: day-is-done-peter-paul-and-mary
 name: Day Is Done
 rankings:
 - end_date: '1969-05-02'

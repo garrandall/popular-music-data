@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: too-much-of-nothing-peter-paul-mary
+key: too-much-of-nothing-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/toomuchofnothing.html
 name: Too Much Of Nothing
 rankings:
@@ -42,15 +40,15 @@ rankings:
 Too much of nothin' can make a man feel ill at ease
 One man's temper might rise, while the other man's temper might freeze.
 In the days of long confessions, we can not mock a soul
-When there's too much of nothin', no one has control. 
+When there's too much of nothin', no one has control.
 
 Say hello to Valerie, say hello to Marion,
-Send them all my salary, on the waters of oblivion. 
+Send them all my salary, on the waters of oblivion.
 
 Too much of nothin' can make a man abuse a king
 He can walk the streets and boast like most but he don't know a thing.
 It's all been done before, it's all been written in the book.
-But when it's too much of nothin', nobody should look. 
+But when it's too much of nothin', nobody should look.
 
 Say hello to Valerie, say hello to Marion,
 Send them all my salary, on the waters of oblivion.
@@ -58,7 +56,7 @@ Send them all my salary, on the waters of oblivion.
 Too much of nothin' can turn a man into a liar
 It can cause some man to sleep on nails, another man to eat fire.
 Everybody's doin' somethin', I heard it in a dream
-But when it's too much of nothin', it just makes a fella mean. 
+But when it's too much of nothin', it just makes a fella mean.
 
 Say hello to Valerie, say hello to Marion,
 Send them all my salary, on the waters of oblivion.

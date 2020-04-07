@@ -2,9 +2,10 @@
 artists:
 - Beyonce
 features:
-- Nicki Minaj Or Chimamanda Ngozi Adichie
+- Nicki Minaj
+- Chimamanda Ngozi Adichie
 genres: []
-key: '---flawless-beyonce-nicki-minaj-or-chimamanda-ngozi-adichie'
+key: '---flawless-beyonce-nicki-minaj-chimamanda-ngozi-adichie'
 name: '***Flawless'
 rankings:
 - end_date: '2014-09-19'

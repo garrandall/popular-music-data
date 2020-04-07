@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: the-other-side-of-this-life-peter-paul-mary
+key: the-other-side-of-this-life-peter-paul-and-mary
 lyrics_url: https://www.musixmatch.com/lyrics/Peter-Paul-and-Mary-3/The-Other-Side-Of-This-Life
 name: The Other Side Of This Life
 rankings:

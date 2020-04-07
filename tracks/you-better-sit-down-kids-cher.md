@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-sit-down-kids-cher
-lyrics_url: https://www.azlyrics.com/lyrics/garypucketttheuniongap/youbettersitdownkids.html
+lyrics_url: https://www.azlyrics.com/lyrics/cher/youbettersitdownkids.html
 name: You Better Sit Down Kids
 rankings:
 - end_date: '1967-11-03'
@@ -60,68 +60,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
 ---
-
-You better sit down, kids
-I'm telling you why, kids
+Better sit down kids
+I'll tell you why, kids
 You might not understand, kids
-Just give it a try, kids
-
+But give it a try, kids
 Now how should I put this
 I've got something to say
 You mother is staying
 But I'm going away
-
 No, we're not mad, kids
-And it's hard to say why
-Your mother and I, kids
+It's hard to say why
+Your mother and I
 Don't see eye to eye
 
 Say your prayers before you go to bed
 Make sure you get yourself to school on time
 I know you'll do the things your mother asks
-She's gonna need you more to stay in line
+She's gonna need you most to stay in line
 Keep in mind your mother's gonna need
 Your help a whole lot more than she ever did before
-No more fighting over little things because
+No more fights over little things because
 I won't be here to stop them anymore
 
-I know you don't want this
-Neither do we
+I know you don't want this, neither do we
 But sometimes things happen
 That we can't foresee
-
 Now try to be calm, kids
 And don't look so sad
-Just 'cause I am leaving
+Just cause I am leaving
 I'll still be your dad
-
 Just remember I love you
 And though I'm not here
 Just call if you need me
-I'll always be near
+And I'll always be near
 
-Say your prayers before you go to bed
-Make sure you get yourself to school on time
-I know you'll do the things your mother asks
-She's gonna need you more to stay in line
-Keep in mind your mother's gonna need
-Your help a whole lot more than she ever did before
-No more fighting over little things cause
-I won't be here to stop them anymore
+Better sit down kids
+I'll tell you why, kids
+You might not understand, kids
+But give it a try, kids
+Now how should I put this
+I've got something to say
+You mother is staying
+But I'm going away
+No, we're not mad, kids
+It's hard to say why
+Your mother and I
+Don't see eye to eye
 
 Well, I have to go now
 So kiss me goodbye
 My eyes are just red, kids
 I'm too big to cry
-
-You better sit down, kids
-I'm telling you why
-You might not understand, kids
-But give it a try
-
-You better sit down, kids
-I'm telling you why
-You might not understand
-
-
-

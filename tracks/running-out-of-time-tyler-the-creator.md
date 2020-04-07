@@ -1,7 +1,6 @@
 ---
 artists:
-- Tyler
-- The Creator
+- Tyler, The Creator
 features: []
 genres: []
 key: running-out-of-time-tyler-the-creator
@@ -12,4 +11,3 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
-

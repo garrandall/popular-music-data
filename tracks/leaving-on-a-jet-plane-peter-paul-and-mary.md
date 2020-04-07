@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: leaving-on-a-jet-plane-peter-paul-mary
+key: leaving-on-a-jet-plane-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/leavingonajetplane.html
 name: Leaving On A Jet Plane
 rankings:

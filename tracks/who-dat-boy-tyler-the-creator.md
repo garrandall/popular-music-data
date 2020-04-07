@@ -1,7 +1,6 @@
 ---
 artists:
-- Tyler
-- The Creator
+- Tyler, The Creator
 features: []
 genres: []
 key: who-dat-boy-tyler-the-creator
@@ -13,8 +12,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
 ---
-
-
 Yo, who dat boy? Who him is?
 Him that nig-ga, I swear
 Stand up guy, him don't need no chair
@@ -35,7 +32,6 @@ Won't stop 'til the cops surround him
 One nigga jiggy and the other awesome
 With his fuckin' face blown off, that's how they found him
 It's Young T
-
 
 Who dat boy? Who him is?
 Who dat boy? Who him is?
@@ -65,7 +61,6 @@ Senior citizen, don't forget my pass
 Been that nigga and you knew that there
 Make the dick disappear, how she do that there?
 
-
 Who dat boy? Who him is?
 Who dat boy? Who him is?
 Nigga, who dat boy? Who him is?
@@ -75,7 +70,6 @@ Why you niggas feel like that?
 Mad 'cause a nigga's neck chill like that
 Mad 'cause a nigga push wheel like that?
 Why you puttin' bad vibes in the air?
-
 
 Fuck the rap, I'm tryna own a planet
 From my other fuckin' business ventures
@@ -97,6 +91,3 @@ Get out of my way, way
 Boy that's McLaren, that's 0 to 60 in 2 point nueve, I'm gone
 
 Fuck
-
-
-

@@ -3,8 +3,7 @@ artists:
 - Game
 features:
 - Lil Wayne
-- Tyler
-- The Creator
+- Tyler, The Creator
 genres: []
 key: martians-vs-goblins-game-lil-wayne-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/game/martiansvsgoblins.html
@@ -15,13 +14,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
 ---
-
-1500
-
-
 Mars
 Bitch I'm a motherfucking' Martian
-
 
 Blood gang kill 'em all, Odd Future Wolf Gang
 Kidnap a vampire and drain all his fuckin' veins
@@ -39,13 +33,11 @@ My power's limitless like Blanka on Sega Genesis
 Superhero, mad that Marvel overlooked me
 'Cause Spiderman and Hulk straight pussy!
 
-
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Bitch I'm a motherfucking Martian (It's a goddamn goblin)
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Motherfucking Martian (to a goddamn goblin)
 We are not the same, I am a Martian
-
 
 A year ago, I was poor, somewhat
 Now my future's brighter than Christopher's new haircut
@@ -64,13 +56,11 @@ Bag full of drag and a Nicki Minaj mixtape
 Dragging all you fags to the back of the log cabin
 Fall back like Lebron's hairline against the Mavericks, he lost
 
-
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Bitch I'm a motherfucking Martian (It's a goddamn goblin)
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Motherfucking Martian (to a goddamn goblin)
 We are not the same, I am a Martian
-
 
 Chuck, fuck with me
 I do 'cause little Tunechi always bless me (achoo)
@@ -92,12 +82,8 @@ Now I'm the Doggfather, walking with a Shih Tzu
 Mad that DC comics overlooked me
 'Cause Captain America's straight pussy
 
-
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Bitch I'm a motherfucking Martian (It's a goddamn goblin)
 Bitch I'm a motherfucking Martian (I'm a goddamn goblin)
 Motherfucking Martian (to a goddamn goblin)
 We are not the same, I am a Martian
-
-
-

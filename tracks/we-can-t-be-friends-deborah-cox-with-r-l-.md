@@ -1,9 +1,10 @@
 ---
 artists:
-- Deborah Cox With R.L.
-features: []
+- Deborah Cox
+features:
+- R.L.
 genres: []
-key: we-can-t-be-friends-deborah-cox-with-r-l-
+key: we-can-t-be-friends-deborah-cox-r-l-
 lyrics_url: https://www.azlyrics.com/lyrics/next/wecantbefriends.html
 name: We Can't Be Friends
 rankings:
@@ -88,44 +89,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
 ---
-
-
 To just act like we never were
 To come around and not show hurt
 How dare we greet by shaking hands
-Just months ago, I was your man, was your man
+Just months ago I was your man
 
-Verbally we'd agreed it was over
-And we were through
+Verbally we agreed
+It was over and we were through
 I'm trying to compose myself
-But I just can't get over you, girl
+But I just can't get over you girl
 
 We can't be friends
-(Yeah, no oh)
 We can't be friends
-(Deborah, you know I can't go on being just your friend, yeah)
 We can't be friends
-Cuz I'm still in love with you
+'Cause I'm still in love with you
 
-
-I went by mother's, saw your car there
-To her you're still family
-And it don't seem fair
+I went by Mother's, saw your car there
+To her you're still family, and it don't seem fair
 For everyone to just go on
 And I've tried and I can't do it
-Cuz I'm still torn
-
-I tried to think of you as just another love
-In my past that didn't last
-But it's not that simple, baby
-
-We can't be friends
-(oh no, no, no, no)
-We can't be friends
-(If we, if we can't be lovers)
-We can't be friends
-Cuz I'm still in love with you
-
+'Cause I'm still torn
+I've tried to think of you
+As just another love in my past
+That didn't last
+But it's not that simple baby
 
 You may see me staring
 Or catch me in a daze
@@ -133,28 +120,6 @@ May see me hang my head
 When you come my way
 Don't get too close to me
 And expect me to behave
-
- I might just steal a kiss
- If you come near my face
+I might just steal a kiss
+If you come near my face
 What I'm trying to say
-
-Repeat 1 while:
- We can't be friends
- Can you look me in the eyes 
-and honestly say you dont love me?
- Said do you know
- R.L. I know
- I'll never ever find another love like you, oh no
- I love you too much baby
- I love you too much, oh
- We can't be friends, I'm still in love
- with you
- With you
- I am
- Still in love
- Still in love
- You didn't have to leave
- With you
-
-
-

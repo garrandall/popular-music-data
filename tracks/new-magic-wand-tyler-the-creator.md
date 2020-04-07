@@ -1,7 +1,6 @@
 ---
 artists:
-- Tyler
-- The Creator
+- Tyler, The Creator
 features: []
 genres: []
 key: new-magic-wand-tyler-the-creator
@@ -13,7 +12,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
-
 (Sometimes you gotta close a door to open a window)
 
 I saw a photo, you looked joyous
@@ -67,6 +65,3 @@ Four on the floor, pack up your bags, we hit the store
 Grab our supplies, no need for masks, bust through the door
 Get the job done like retirement, I admit you look concerned
 New magic wand
-
-
-
