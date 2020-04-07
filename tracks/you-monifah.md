@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-monifah
-lyrics_url: https://www.azlyrics.com/lyrics/faithevans/lovinmethemefromrbdivas.html
 name: You
 rankings:
 - end_date: '1996-05-17'
@@ -84,44 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
 ---
-
-
- It's been a long time... Yeah, since I looked in a mirror... and liked what I see
-
- It was a hard climb... Yeah, things are much clearer... in my reality and how people see me, yeah
-
- Always feeling ashamed, (Hey), because of what I was told... Now I'm taking the ugly, and made it beautiful, yeah
-
-
-I found me a place, where I ain't doin' nothin', but lovin' myself, and everything about me, yeah...
-Said I found me a place, and it don't even matter, what nobody else thinks, 'cause I'm lovin' me, (yeah)
-
-
- It's been a long time... since I sang on a song... They said my voice was right, but my curves were all wrong
-
- It's such a hard time... when the media chooses... who wins or who loses, but I gotta fix what your illusions
-
- Oh, no, no longer feelin' the pain... I'm more than good enough... Gave my power away... But now I back and stronger
-
-
-I found me a place, where I ain't doin' nothin', but lovin' myself, and everything about me, yeah...
-I found me a place, and it don't even matter, what nobody else thinks, 'cause I'm lovin' me, (yeah)
-
- If I'm not a size 2, it don't fit you, it's okay, 
- I refuse to be dismissed because my skin is darker than yours, 
- all that power when say "You're pretty in the face", if only I could lose some weight, 
- anything you can do, I can do better, 
- made up my mind, won't stop never...
-
-
-I found me a place, where I ain't doin' nothin', but lovin' myself, and everything about me, yeah...
-I found me a place, and it don't even matter, what nobody else thinks, 'cause I'm lovin' me, (yeah)
-
-
-Let me see you put your hands in the air if you love yourself 
-
-'Cause I'm lovin' me 
- Me!
-
-
 

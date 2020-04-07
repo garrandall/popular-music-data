@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stay-awhile-the-bells
-lyrics_url: https://www.azlyrics.com/lyrics/ryanstar/stayawhile.html
 name: Stay Awhile
 rankings:
 - end_date: '1971-03-12'
@@ -64,56 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
-
-Clocks marching at the double time
-Every dollar has become a dime
-Hearts breaking at the speed of sound
-Falling down, all around
-
-Bombs lighting up the eastern sky
-The backroom deals and the bottom lines
-The Earth's shaking, but we don't know why
-A million fires, oceans rise
-
-I leave it all when I feel you near
-What I'm saying is I need you here
-Even though love never seems to last
-If you think weâve got a chance
-
-
-Stay awhile
-Oh you got to stay awhile
-These days are wild
-So baby, won't you stay awhile
-
-Drop the needle on the belle brigade
-We slow dance till the moonlight fades
-Tell me now that you'll never leave
-Always stay, here with me
-
-Keep me safe from the circus show
-The bullshit and the blowing smoke
-The knife hidden under every sleeve
-Stab your back, watch you bleed
-
-Theyâre gonna tell you what you wanna hear
-Like: I can make you a star next year
-Well, if New York city's lights are so bright
-How come so many people cry tonight
-
-
-
-Let your hair fall around your face
-I would kill just to keep you safe
-Put your body next to mine
-Just let go, and close your eyes
-
-I shiver when I feel your skin
-Like a sinner who's been forgiven
-Go on, baby, shine your light
-Cause no one's gonna find us here tonight
-
-
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: eternal-flame-the-bangles
-lyrics_url: https://www.azlyrics.com/lyrics/mymp/eternalflame.html
 name: Eternal Flame
 rankings:
 - end_date: '1989-02-10'
@@ -84,49 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
-
-Close your eyes
-Give me your hand, darlin'
-Do you feel my heart beating
-Do you understand
-Do you feel the same
-Am I only dreaming
-Is this burning an eternal flame
-
-I believe it's meant to be, darlin'
-I watch you when you are sleeping
-You belong to me
-Do you feel the same
-Am I only dreaming
-Or is this burning an eternal flame
-
-Say my name
-Sun shines through the rain
-A whole life so lonely
-Now come and ease the pain
-I don't want to lose this feeling, ohhh..
-
-
-
-Say my name
-Sun shines through the rain
-A whole life so lonely
-Now come and ease the pain
-I don't want to lose this feeling, ohhh..
-
-Close your eyes
-Give me your hand, darlin'
-Do you feel my heart beating
-Do you understand
-Do you feel the same
-Am I only dreaming
-Or is this burning an eternal flame
-
-Give me your hand, darlin'
-Do you feel my heart beating
-Do you understand
-Am I only dreaming
-Or is this burning an eternal flame
-
-
 

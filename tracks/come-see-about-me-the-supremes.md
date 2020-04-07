@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: come-see-about-me-the-supremes
-lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/comeseeaboutme.html
 name: Come See About Me
 rankings:
 - end_date: '1964-11-20'
@@ -64,44 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
-
-I have been crying cause I'm lonely (for you)
-Smiles have all turned to tears
-But tears won't wash away the fears
-That you're never ever gonna return
-To ease the fire that within me burns
-
-It keeps me crying baby for you
-I keep on sighing, baby for you
-I won't you hurry
-Come on boy, see about me (come see about me)
-See about you baby (come see about me)
-
-I've given up my friends just for you
-My friends are gone and you have too
-No peace shall I find until you come back boy
-And be mine, no matter what you do or say
-I'm gonna love you anyway
-
-It keep on crying baby for you
-I keep on sighing, baby for you
-So won't you hurry?
-Come on boy, see about me (come see about me)
-See about you baby (come see about me)
-
-Sometime's I'm up, sometime's I'm down
-My life's so uncertain with you not around
-From my arms you maybe out of reach
-But my heart says you're here to keep
-
-It keeps me crying baby for you
-I keep on crying baby for you
-So won't you hurry
-Come on boy, see about me (come see about me)
-See about you baby (come see about me)
-see about me (come see about me)
-See about you baby (come see about me)
-Hurry, hurry baby
-
-
 

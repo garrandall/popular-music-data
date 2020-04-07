@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walking-away-craig-david
-lyrics_url: https://www.azlyrics.com/lyrics/bosshoss/walkingaway.html
 name: Walking Away
 rankings:
 - end_date: '2002-05-31'
@@ -88,89 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
 ---
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find the better day
-I'm walking away
-
-Sometimes
-Some people get me wrong
-When it's something
-I've said or done
-
-Sometimes
-You feel
-There is no fun
-That's why you turn and run
-
-But now, truly realize
-They don't wanna compromise
-Well I saw them with my own eyes
-Spreading those lies, yeah
-
-Well, I don't wanna live a lie
-Too many sleepless nights
-Not mentioning the fights
-I'm sorry to say lady
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find the better day
-I'm walking away
-
-Well, I'm so tired, baby
-Of things you say, you're driving me away, yeah
-Whispers in the powder room, girl
-Don't listen to the games they play
-
-I thought you'd realize that I'm
-Not like them other guys
-I saw them with my own eyes
-You shoulda be more wise, girl
-
-Well, I don't wanna live a lie
-Too many sleepless nights
-Not mentioning the fights
-I'm sorry to say, lady
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-From the troubles in my life
-I'm walking away
-To find a better day
-
-I'm walking away
-I'm walking away
-I'm walking away
-To find a better day
-I'm walking away
-
-
 

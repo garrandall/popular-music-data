@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: close-my-eyes-forever-lita-ford-ozzy-osbourne
-lyrics_url: https://www.azlyrics.com/lyrics/device/closemyeyesforever.html
 name: Close My Eyes Forever
 rankings:
 - end_date: '1989-03-10'
@@ -109,55 +108,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
 ---
-
-Baby
-I get so scared inside, and I don't really understand
-Is it love that's on my mind, or is it fantasy?
-
-Heaven
-Is in the palm of my hand, and it's waiting here for you
-What am I supposed to do with a childhood tragedy?
-
-If I close my eyes forever
-Will it all remain unchanged?
-If I close my eyes forever
-Will it all remain the same?
-
-Sometimes
-It's hard to hold on
-So hard to hold on to my dreams
-It isn't always what it seems
-When you're face to face with me
-
-You're like a dagger
-And stick me in the heart
-And taste the blood from my blade
-And when we sleep, would you shelter me
-In your warm and darkened grave?
-
-If I close my eyes forever
-Will it all remain unchanged?
-If I close my eyes forever
-Will it all remain the same?
-
-Will you ever take me?
-No, I just can't take the pain
-But would you ever trust me?
-No, I'll never feel the same, Oh
-
-I know I've been so hard on you
-I know I've told you lies
-If I could have just one more wish
-I'd wipe the cobwebs from my eyes
-
-If I close my eyes forever
-Will it all remain unchanged?
-If I close my eyes forever
-Will it all remain the same?
-
-Close your eyes
-Close your eyes
-Close your eyes for me
-
-
 

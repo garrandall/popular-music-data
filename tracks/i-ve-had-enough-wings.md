@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-ve-had-enough-wings
-lyrics_url: https://www.azlyrics.com/lyrics/americanheadcharge/aviolentreaction.html
 name: I've Had Enough
 rankings:
 - end_date: '1978-06-23'
@@ -52,40 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-26'
 ---
-
-lead me around
-nurse my broken wing
-with all the promises
-you can never honor
-I just dont care enough
-to react to vain attempts
-sent only to perpetuate
-one's selfish little world
-you wont see what ive become
-youll wait and watch and still
-youre only let down
-a violent reaction
-struggling only to keep myself alive
-now here I stand
-for nothing no one at all
-I lead you down
-begging to touch you in the cold
-you give me a reason
-I will not be the one
-through all the nonsense
-there is a constant
-you wont see what ive become
-youll wait and watch and still
-youre only let down
-cause this feeling
-has dawned the face of you
-a violent reaction
-struggling only to keep myself alive
-you wont see what ive become
-cause this feeling
-has dawned the face of you
-a violent reaction
-struggling only to keep myself alive
-
-
 

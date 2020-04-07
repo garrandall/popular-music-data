@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: scars-to-your-beautiful-alessia-cara
-lyrics_url: https://www.azlyrics.com/lyrics/iamking/scarstoyourbeautiful.html
 name: Scars To Your Beautiful
 rankings:
 - end_date: '2016-09-23'
@@ -180,62 +179,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
 ---
-
-She just wants to be beautiful
-She goes unnoticed, she knows no limits
-She craves attention, she praises an image
-She prays to be sculpted by the sculptor
-No she don't see the light that's shining
-Deeper than the eyes can find it
-Maybe we have made her blind
-So she tries to cover up her pain
-And cut her woes away
-Cause covergirls don't cry
-After their face is made
-No
-
-There's a hope that's waiting for you in the dark
-You should know you're beautiful just the way you are
-You don't have to change a thing, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-
-You don't have to change a thing, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-
-She has dreams to be an envy, so she's starving
-You know, covergirls eat nothing
-She says "beauty is pain and there's beauty in everything"
-"What's a little bit of hunger?"
-"I can go a little while longer," she fades away
-She don't see her perfect, she don't understand she's worth it
-Or that beauty goes deeper than the surface, whoa oh, whoa oh oh
-So to all the girls that's hurting, let me be your mirror
-Help you see a little bit clearer the light that shines within
-
-There's a hope that's waiting for you in the dark
-You should know you're beautiful just the way you are
-You don't have to change a thing, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-
-You don't have to change a thing, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-
-No better you than the you that you are
-No better you than the you that you are
-No better life than the life we're living
-No better life than the life we're living
-No better time for your shine, you're a star
-No better time for your shine, you're a star
-Oh, you're beautiful, oh, you're beautiful
-Oh, you're beautiful, oh, you're beautiful
-
-There's a hope that's waiting for us in the dark
-We should know we're beautiful just the way we are
-And you don't have to change, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-We're beautiful
-You don't have to change a thing, the world could change its heart
-No scars to your beautiful, we're stars and we're beautiful
-
-
 

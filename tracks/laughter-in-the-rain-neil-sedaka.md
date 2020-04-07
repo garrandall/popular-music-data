@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: laughter-in-the-rain-neil-sedaka
-lyrics_url: https://www.azlyrics.com/lyrics/weathergirls/laughterintherain.html
 name: Laughter In The Rain
 rankings:
 - end_date: '1974-10-25'
@@ -88,40 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
-
-Strolling along country roads with my baby
-It starts to rain, it begins to pour
-Without an umbrella we're soaked to the skin
-I feel a shiver run up my spine
-I feel the warmth of his hand in mine
-
-Ooh, I hear laughter in the rain,
-Walking hand in hand with the one I love
-Ooh, how I love the rainy days and the happy way I feel inside
-
-After a while we run under a tree
-I turn to him and he kisses me
-There with the beat of the rain on the leaves
-Softly he breathes and I close my eyes
-Sharing our love under stormy skies
-
-Ooh, I hear laughter in the rain
-Walking hand in hand with the one I love
-Ooh, how I love the rainy days and the happy way I feel inside
-
-(Drip drop, my heart goes flip flop)
-Ooh yeah...
-(Drip drop, you know it can't stop)
-
-We're sharing our love under stormy skies
-
-Ooh, I hear laughter in the rain
-I'm walking hand in hand with the one I love
-Ooh, how I love the rainy days and the happy way I feel inside
-
-Ooh, I hear laughter in the rain
-I'm walking hand in hand with the one I love
-Ooh, how I love the rainy days and the happy way I feel inside
-
-
 

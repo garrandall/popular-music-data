@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-can-see-clearly-now-johnny-nash
-lyrics_url: https://www.azlyrics.com/lyrics/jimmycliff/icanseeclearlynow.html
 name: I Can See Clearly Now
 rankings:
 - end_date: '1972-09-15'
@@ -88,36 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
-
-I can see clearly now the rain is gone
-I can see all obstacles in my way
-Gone are the dark clouds that had me blind
-It's gonna be a bright (bright)
-Bright (bright) sunshiny day
-It's gonna be a bright (bright)
-Bright (bright) sunshiny day
-
-Oh, yes I can make it now the pain is gone
-All of the bad feelings have disappeared
-Here is that rainbow I've been praying for
-It's gonna be a bright (bright)
-Bright (bright) sunshiny day
-
-(Ooh...) Look all around, there's nothing but blue skies
-Look straight ahead, there's nothing but blue skies
-
-I can see clearly now the rain is gone
-I can see all obstacles in my way
-Here is that rainbow I've been praying for
-It's gonna be a bright (bright)
-Bright (bright) sunshiny day
-It's gonna be a bright (bright)
-Bright (bright) sunshiny day
-It's going to be a bright (bright)
-Bright (bright) sunshiny day
-Yeah, hey, it's gonna be a bright (bright) bright (bright)
-Sunshiny day
-...
-
-
 

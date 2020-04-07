@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: pretty-paper-roy-orbison
-lyrics_url: https://www.azlyrics.com/lyrics/emmyrossum/prettypaper.html
 name: Pretty Paper
 rankings:
 - end_date: '1963-12-20'
@@ -36,35 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
 ---
-
-(Oh, pretty paper, pretty ribbons of blue)
-
-Pretty paper, pretty ribbons of blue
-Wrap your presents to your darling from you
-Pretty pencils to write I love you
-Pretty paper, pretty ribbons of blue
-
-Crowded street, busy feet, hustle by him
-Downtown shoppers, Christmas is nigh
-There he sits all alone on the sidewalk
-Hoping that you won't pass him by
-
-Should you stop? Better not, much too busy
-You're in a hurry, my how time does fly
-In the distance the ringing of laughter
-And in the midst of the laughter he cries
-
-Pretty paper, pretty ribbons of blue
-Wrap your presents to your darling from you
-Pretty pencils to write I love you
-Pretty paper, pretty ribbons of blue
-
-Pretty paper, pretty ribbons of blue
-Wrap your presents to your darling from you
-Pretty pencils to write I love you
-Pretty paper, pretty ribbons of blue
-
-Pretty paper, pretty ribbons of blue
-
-
 

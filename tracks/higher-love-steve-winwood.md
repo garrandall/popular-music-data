@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: higher-love-steve-winwood
-lyrics_url: https://www.azlyrics.com/lyrics/kygo/higherlove.html
 name: Higher Love
 rankings:
 - end_date: '1986-06-20'
@@ -96,75 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
 ---
-
-(Bring me higher love)
-(Bring me higher love)
-
-Think about it
-There must be a higher love
-Down in the heart
-Or hidden in the stars above
-Without it
-Life is a wasted time
-Look inside your heart
-And I'll look inside mine
-
-Things look so bad everywhere
-In this whole world, what is fair
-We walk the line and try to see
-Falling behind in what could be, oh, oh
-
-Bring me a higher love
-Bring me a higher love, oh
-Bring me a higher love
-Where's that higher love I keep thinking of
-
-Bring me higher love, love
-Bring me higher love, oh
-Bring me higher love, love
-Bring me a higher love
-
-Bring me higher love, love
-Bring me higher love, oh
-Bring me higher love, love
-Bring me a higher love
-
-Worlds are turning
-And we're just hanging on
-Facing our fear
-And standing out there alone
-A yearning, yeah
-And it's real to me
-There must be someone
-Who's feeling for me
-
-Things look so bad everywhere
-In this whole world, what is fair
-We walk the line and try to see
-Falling behind in what could be, oh, ooh
-
-Bring me a higher love (Oh, my love)
-Bring me a higher love, oh
-Bring me a higher love (My love)
-Where's that higher love I keep thinking of
-
-Bring me higher love, love
-Bring me higher love, oh
-Bring me higher love, love
-Bring me a higher love
-
-(Bring me a higher love) Oh, bring me love
-(Bring me a higher love, oh) We need a higher love
-(Bring me a higher love) Bring me, bring me, yeah
-(Higher love) A higher love, I keep, I'm thinking of
-
-(Bring me a higher love) Bring me higher love, love
-(Bring me a higher love) Bring me higher love, oh
-(Bring me a higher love) Bring me higher love, love
-(Higher love) A higher love, I keep thinking of
-
-Bring me a higher love
-Bring me a higher love, oh
-
-
 

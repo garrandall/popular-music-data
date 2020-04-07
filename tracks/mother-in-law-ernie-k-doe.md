@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mother-in-law-ernie-k-doe
-lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/motherinlaw.html
 name: Mother-In-Law
 rankings:
 - end_date: '1961-04-02'
@@ -64,25 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
 ---
-
-The worst person I know Mother-In-Law Mother-In-Law
-She worries me so Mother-In-Law Mother-In-Law
-If she leaves us alone we would have a happy home
-Sent from down below Mother-In-Law Mother-In-Law
-Mother-In-Law Mother-In-Law
-
-I come home with my pay Mother-In-Law Mother-In-Law
-She AX me what I MADE Mother-In-Law Mother-In-Law
-She thinks her advice is a contribution but
-if she will leave that will be the solution
-and don't come back no more Mother-In-Law Mother-In-Law
-Mother-In-Law Mother-In-Law
-
-SATAN (Sin) should be her name Mother-In-Law Mother-In-Law
-To me there about the same Mother-In-Law Mother-In-Law
-Every time I open my mouth She steps in and tries to put me out
-How could she stoop so low Mother-In-Law Mother-In-Law
-Mother-In-Law Mother-In-Law
-
-
 

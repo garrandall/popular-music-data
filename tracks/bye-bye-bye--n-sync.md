@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: bye-bye-bye--n-sync
-lyrics_url: https://www.azlyrics.com/lyrics/furtherseemsforever/byebyebye.html
 name: Bye Bye Bye
 rankings:
 - end_date: '2000-02-04'
@@ -100,91 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
 ---
-
-Bye, Bye, Bye
-Bye, Bye, Bye
-Bye, Bye, Bye
-
-I'm doin this tonight
-You're probably gonna start a fight
-I know this can't be right
-Hey baby, come on
-I loved you endlessly
-When you weren't there for me
-So now it's time to leave and make it alone
-I know that I can't take no more 
-It ain't no lie
-I wanna see you out that door
-Baby, bye, bye, bye
-
-Don't wanna be a fool for you
-Just another player in your game for two
-You may hate me but it ain't no lie
-Baby, bye, bye, bye
-
-Don't really wanna make it tough
-I just wanna tell you that I had enough
-It might sound crazy
-But it ain't no lie
-Baby, bye, bye, bye
-
-Just hit me with the truth
-Now girl you're more than welcome to
-So give me one good reason
-Baby come on
-I live for you and me
-And now I really come to see
-That life would be much better once you're gone
-
-I know that I can't take no more
-It ain't no lie
-I wanna see you out that door
-Baby, bye, bye, bye
-
-Don't wanna be a fool for you
-Just another player in your game for two
-You may hate me but it ain't no lie
-Baby, bye, bye, bye
-
-Don't really wanna make it tough,
-I just wanna tell you that I had enough
-It might sound crazy
-But it ain't no lie
-Baby, bye, bye, bye
-
-I'm giving up I know for sure
-I don't wanna be the reason 
-For your love no more
-Bye, Bye
-
-I'm checkin out
-I'm signin off
-Don't wanna be the loser 
-And I've had enough
-
-I don't wanna be your fool
-In this game for two
-So I'm leavin' you behind
-Bye, bye, bye...
-
-I don't wanna make it tough
-Make it tough
-But I had enough
-And it ain't no lie 
-Bye, bye, baby
-Bye, Bye
-Don't wanna be a fool for you
-Just another player in your game for two 
-I don't wanna be your fool
-But it ain't no lie
-Baby, bye, bye, bye...
-
-Don't really wanna make it tough 
-I just wanna tell you that I had enough
-Might sound crazy
-But it ain't no lie
-
-Bye, bye, bye
-
-
 

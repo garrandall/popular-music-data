@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: we-r-who-we-r-ke-ha
-lyrics_url: https://www.azlyrics.com/lyrics/chunknocaptainchunk/werwhower.html
 name: We R Who We R
 rankings:
 - end_date: '2010-11-19'
@@ -88,78 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
 ---
-
-Hot and dangerous,
-If youâre one of us, then roll with us.
-âCause we make the hipsters fall in love.
-And weâve got hot-pants on and up.
-And yes of course we does,
-Weâre running this town just like a club,
-And no, you donât wanna mess with us,
-Got Jesus on my necklace.
-
-Iâve got that glitter on my eyes,
-Stockings ripped all up the side,
-Looking sick and sexy-fied,
-So letâs go-o-o
-
-Tonight weâre going hard-hard-hard-hard-hard-hard,
-Just like the world is ours-ours-ours-ours-ours-ours,
-Weâre tearinâ it apart-part-part-part-part-part-part,
-You know weâre superstars,
-We R who we R!
-
-Weâre dancing like weâre dumb-dumb-dumb-dumb-dumb-dumb,
-Our bodies going numb-numb-numb-numb-numb-numb,
-Weâll be forever young-young-young-young,
-You know weâre superstars,
-We R who we R!
-
-DJ turn it up,
-Itâs about damn time to live it up,
-Iâm so sick of being so serious,
-Itâs making my brain delirious!
-
-Iâm just talkinâ truth,
-Iâm telling you âbout the shits we do,
-Weâre sellinâ our clothes, sleepinâ in cars,
-Dressinâ it down, hittinâ on dudes (HARD!)
-
-Iâve got that glitter on my eyes,
-Stockings ripped all up the side,
-Looking sick and sexy-fied,
-So letâs go-o-o (Letâs go!)
-
-Tonight weâre going hard-hard-hard-hard-hard-hard,
-Just like the world is ours-ours-ours-ours-ours-ours,
-Weâre tearinâ it apart-part-part-part-part-part-part,
-You know weâre superstars,
-We R who we R!
-
-Tonight weâre going hard-hard-hard-hard,
-Just like the world is ours-ours-ours-ours-ours,
-Weâre tearinâ it apart,
-You know weâre superstars,
-We R who we R!
-
-DJ turn it up,
-And turn it up
-And turn it up
-And turn it up
-
-OW!
-
-Tonight weâre going hard-hard-hard-hard-hard-hard,
-Just like the world is ours-ours-ours-ours-ours-ours,
-Weâre tearinâ it apart-part-part-part-part-part-part,
-You know weâre superstars,
-We R who we R!
-
-Tonight weâre going hard-hard-hard-hard,
-Just like the world is ours-ours-ours-ours-ours,
-Weâre tearinâ it apart,
-You know weâre superstars,
-We R who we R!
-
-
 

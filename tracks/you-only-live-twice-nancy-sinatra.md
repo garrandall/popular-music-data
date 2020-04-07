@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-only-live-twice-nancy-sinatra
-lyrics_url: https://www.azlyrics.com/lyrics/softcell/youonlylivetwice.html
 name: You Only Live Twice
 rankings:
 - end_date: '1967-06-30'
@@ -44,47 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
 ---
-
-You only live twice
-Or so it seems
-One life for yourself
-And one for your dreams
-
-You drift through the years
-And life seems tame
-'til one dream appears
-And love is its name
-
-And love is a stranger
-Who'll beckon you on
-Don't think of the danger
-Or the stranger is gone
-
-This dream is for you
-So pay the price
-Make one dream come true 
-Make one dream come true
-You only live twice 
-You only live twice
-You only live twice
-You only live twice
-
-This dream is for you
-So pay the price
-Make one dream come true
-You only
-Make one dream come true
-You only live twice 
-You only live twice
-Make one dream come true 
-Make one dream come true
-You only live twice 
-You only live twice
-You only live twice
-You only live twice
-This dream is for you 
-This dream is for you
-You only live twice
-
-
 

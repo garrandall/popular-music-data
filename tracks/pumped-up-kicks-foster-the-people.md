@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: pumped-up-kicks-foster-the-people
-lyrics_url: https://www.azlyrics.com/lyrics/yonas/pumpedupkicksremix.html
 name: Pumped Up Kicks
 rankings:
 - end_date: '2011-05-20'
@@ -168,58 +167,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
 ---
-
-
-All the other kids with the pumped up kicks
-You better, better run, outrun my gun
-All the other kids with the pumped up kicks
-You better run, better run, faster than my bullet
-
-
-All the other kids with the pumped up kicks
-Best to run fast when I pump up this
-Musical Glock and the shots go firing
-No lyin', man I run this shit
-Life's a movie man I run my script
-Similar to hustlers that be runnin' their strips
-I shouldn't say similar 'cause similar is equal
-I ain't similar to niggas they ain't nothin' like this
-I found a bottle with a note in there
-It said "the worlds broken go repair it"
-But it seems that no one cares
-So I threw the bottle in the ocean, yea
-I never chose my gift
-My gift chose me, I don't owe y'all shit
-Just God and a gun and a loaded up clip
-And voice full of soul and it goes like this
-
-
-All the other kids with the pumped up kicks
-You better, better run, outrun my gun
-All the other kids with the pumped up kicks
-You better run, better run, faster than my bullet
-
-Lights... Cameras
-Life is just so scandalous
-But still I paint with honesty
-That's why they love what's on my canvas
-I'm like Pete... Sampras
-My service is so enchanting
-I took a song by Foster The People and fostered it into Yonas' anthem
-Nigga I'm a beast... Panther
-And I don't know no answers
-Thought I lost my soul, 15 years ago when lost my father to cancer
-But I'm here... shit
-And I refuse to quit
-Just God and a gun and a loaded up clip
-And voice full of soul and it goes like this
-
-
-All the other kids with the pumped up kicks
-You better, better run, outrun my gun
-All the other kids with the pumped up kicks
-You better run, better run, faster than my bullet
-
-
-
 

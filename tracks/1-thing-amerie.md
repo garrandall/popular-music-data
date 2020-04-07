@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: 1-thing-amerie
-lyrics_url: https://www.azlyrics.com/lyrics/anebrun/1thing.html
 name: 1 Thing
 rankings:
 - end_date: '2005-02-18'
@@ -88,48 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
 ---
-
-Oh, been trying to let it go
-Trying to keep my eyes closed
-Trying to keep it just like before
-The times we never even thought to speak
-Don't wanna tell you what it is
-Oh wee it felt so serious
-Got me thinking just too much
-I wanna set it off, but
-
-It's this 1 thing that's got me trippin
-Its this 1 thing that's got me trippin?
-This 1 thing my soul may be feeling
-It's this 1 thing you did oh oh
-It's this 1 thing that caught me slippin
-It's this 1 thing I want to admit it
-This 1 thing and I was so with it
-It's this 1 thing you did oh oh
-Oh oh
-
-We don't know each other well
-So why I keep pickin' up my cell?
-Memories just keep ringing bells
-Oh oh, Oh oh, Oh
-Hear voices I don't want to understand
-My car keys are jingling in my hand
-My high heels are clicking towards your door
-Oh oh, oh oh, oh
-
-It's this 1 thing that's got me trippin
-It's this 1 thing that's got me trippin, you did
-This 1 thing my soul may be feeling
-It's this 1 thing you did oh oh
-It's this 1 thing that's caught me slippin
-It's this 1 thing I want to admit it
-This 1 thing and I was so with it
-It's this 1 thing you did oh oh
-
-Maybe I just can't believe it
-It's this one thing you did oh oh
-I can't deny, tired of trying
-Open the door...
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: what-in-the-world-s-come-over-you-jack-scott
-lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/whatintheworldscomeoveryou.html
 name: What In The World's Come Over You
 rankings:
 - end_date: '1960-01-17'
@@ -72,30 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
-
-What in the world's come over you?
-Seems we never get along
-Ev'ry night I reminisce dreaming of your tender kisses
-What in the world's come over you?
-
-Could you ever change your mind?
-If you do, I'll still be here, dear, waiting, longing for you
-All my life I've loved you so
-Never dreamed I'd miss you so
-Now, alone in my room each night
-My heart, it cries "It's just not right"
-What in the world's come over you?
-
-Could you ever change your mind?
-If you do, I'll still be here, dear, waiting, longing for you
-All my life I've loved you so
-Never dreamed I'd miss you so
-Now, alone in my room each night
-My heart, it cries "It's just not right"
-What in the world's come over you?
-
-You're still my angel from above
-Guess you'll always be my one and only only real love
-
-
 

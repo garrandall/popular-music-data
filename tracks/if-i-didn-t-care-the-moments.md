@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-care-the-moments
-lyrics_url: https://www.azlyrics.com/lyrics/ashleesimpson/beautifullybroken.html
 name: If I Didn't Care
 rankings:
 - end_date: '1970-08-28'
@@ -40,35 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
 ---
-
-It seems like yesterday that my world fell from the sky
-It seems like yesterday I didnt know how hard I could cry
-It feels like tomorrow I may not get by
-But I will try
-I will try wipe the tears from my eyes
-
-
-I'm beautifully broken and I don't mind if you know it
-I'm beautifully broken and I don't care if I show it
-
-Every day is a new day I'm reminded of my past
-Everytime theres another storm I know that it wont last
-Every moment I'm filled with hope
-cause i get another chance
-But I will try I will try
-Got nothing left to hide
-
-
-
-Without the highs and the lows
-Where will we go?
-Where will we go?
-
-
-
-I am beautifully broken, I am beautifully broken
-I am beautifully broken and I don't care if I show it
-
-
-
 

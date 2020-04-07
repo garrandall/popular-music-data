@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: in-my-little-corner-of-the-world-anita-bryant
-lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/inmylittlecorneroftheworld.html
 name: In My Little Corner Of The World
 rankings:
 - end_date: '1960-07-17'
@@ -64,33 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
 ---
-
-Come along with me
-To my little corner of the world
-And dream a little dream
-In my little corner of the world
-Tonight my love
-We'll share a sweet embrace
-We'll soon forget
-There's any other place
-
-And if you care to stay
-In my little corner of the world
-Then we can hide away
-In my little corner of the world
-I always knew
-I'd find someone like you
-So welcome to
-My little corner of the world
-
-And if you care to stay
-In my little corner of the world
-Then we can hide away
-In my little corner of the world
-I always knew
-I'd find someone like you
-So welcome to
-My little corner of the world
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sentimental-kenny-g
-lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/rockinaroundthechristmastree.html
 name: Sentimental
 rankings:
 - end_date: '1993-12-17'
@@ -48,24 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
 ---
-
-Rocking around the Christmas tree
-At the Christmas party hop
-Mistletoe hung where you can see
-Every couple tries to stop
-Rocking around the Christmas tree,
-Let the Christmas spirit ring
-Later we'll have some pumpkin pie
-And we'll do some caroling.
-
-You will get a sentimental
-Feeling when you hear
-Voices singing let's be jolly,
-Deck the halls with boughs of holly
-Rocking around the Christmas tree,
-Have a happy holiday
-Everyone dancing merrily
-In the new old-fashioned way.
-
-
 

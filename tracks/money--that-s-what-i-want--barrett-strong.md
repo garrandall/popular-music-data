@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: money--that-s-what-i-want--barrett-strong
-lyrics_url: https://www.azlyrics.com/lyrics/beatles/moneythatswhatiwant.html
 name: Money (That's what I want)
 rankings:
 - end_date: '1960-02-07'
@@ -76,44 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
 ---
-
-The best things in life are free
-But you can keep 'em for the birds and bees
-
-Now give me money (that's what I want)
-That's what I want (that's what I want)
-That's what I want (that's what I want) yeah
-That's what I want
-
-Your loving give me a thrill,
-But your loving don't pay my bills
-
-Now give me money (that's what I want)
-That's what I want (that's what I want)
-That's what I want (that's what I want) yeah
-That's what I want
-
-Money don't get everything it's true
-What it don't get I can't use
-
-Now give me money (that's what I want)
-That's what I want (that's what I want)
-That's what I want (that's what I want) yeah
-That's what I want
-
-Well, now give me money (that's what I want)
-Whole lot of money (that's what I want)
-Whoah yeah, I wanna be free (that's what I want)
-Oh, money (that's what I want)
-That's what I want, yeah (that's what I want)
-That's what I want
-
-Well, now give me money (that's what I want)
-Whole lot of money (that's what I want, whoo)
-Whoah, yeah, you know I need money (that's what I want)
-Now give me money (that's what I want, whoo)
-That's what I want, yeah (that's what I want)
-That's what I want
-
-
 

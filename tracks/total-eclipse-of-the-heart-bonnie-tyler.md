@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: total-eclipse-of-the-heart-bonnie-tyler
-lyrics_url: https://www.azlyrics.com/lyrics/sleepingatlast/totaleclipseoftheheart.html
 name: Total Eclipse Of The Heart
 rankings:
 - end_date: '1983-07-22'
@@ -124,63 +123,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
-
-Turnaround, every now and then I get a little bit lonely and you're never coming round
-Turnaround, every now and then I get a little bit tired of listening to the sound of my tears
-Turnaround, every now and then I get a little bit nervous
-That the best of all the years have gone by
-Turnaround, every now and then I get a little bit terrified
-And then I see the look in your eyes
-Turnaround bright eyes, every now and then I fall apart
-Turnaround bright eyes, every now and then I fall apart
-
-And I need you now tonight
-And I need you more than ever
-And if you only hold me tight
-We'll be holding on forever
-And we'll only be making it right
-'Cause we'll never be wrong together
-We can take it to the end of the line
-Your love is like a shadow on me all of the time
-I don't know what to do and I'm always in the dark
-We're living in a powder keg and giving off sparks
-I really need you tonight
-Forever's gonna start tonight
-Forever's gonna start tonight
-
-Once upon a time I was falling in love
-But now I'm only falling apart
-There's nothing I can do
-A total eclipse of the heart
-Once upon a time there was light in my life
-But now there's only love in the dark
-Nothing I can say
-A total eclipse of the heart
-
-Turnaround bright eyes, every now and then I fall apart
-Turnaround bright eyes, every now and then I fall apart
-
-And I need you now tonight
-And I need you more than ever
-And if you'll only hold me tight
-We'll be holding on forever
-And we'll only be making it right
-'Cause we'll never be wrong together
-We can take it to the end of the line
-Your love is like a shadow on me all of the time
-I don't know what to do and I'm always in the dark
-We're living in a powder keg and giving off sparks
-I really need you tonight
-Forever's gonna start tonight
-Forever's gonna start tonight
-Forever's gonna start tonight
-Forever's gonna start tonight
-
-Once upon a time I was falling in love
-But now I'm only falling apart
-Nothing I can do
-A total eclipse of the heart
-A total eclipse of the heart
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: jar-of-hearts-christina-perri
-lyrics_url: https://www.azlyrics.com/lyrics/dashberlin/jarofhearts.html
 name: Jar Of Hearts
 rankings:
 - end_date: '2010-07-23'
@@ -132,43 +131,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
 ---
-
-And who do you think you are?
-Running 'round leaving scars
-Collecting your jar of hearts
-And tearing love apart
-You're gonna catch a cold
-From the ice inside your soul
-Don't come back for me
-Who do you think you are?
-
-And who do you think you are?
-Running 'round leaving scars
-Collecting your jar of hearts
-And tearing love apart
-You're gonna catch a cold
-From the ice inside your soul
-Don't come back for me
-Who do you think you are?
-
-I hear you're asking all around
-If I am anywhere to be found
-But I have grown too strong
-To ever fall back in your arms
-I've learned to live, half alive
-And now you want me one more time
-
-And who do you think you are?
-Running 'round leaving scars
-Collecting your jar of hearts
-And tearing love apart
-You're gonna catch a cold
-From the ice inside your soul
-Don't come back for me
-Who do you think you are?
-
-Who do you think you are?
-Who do you think you are?
-
-
 

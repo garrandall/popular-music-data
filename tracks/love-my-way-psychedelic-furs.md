@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-my-way-psychedelic-furs
-lyrics_url: https://www.azlyrics.com/lyrics/greglaswell/lovemyway.html
 name: Love My Way
 rankings:
 - end_date: '1983-03-11'
@@ -48,43 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
-
-There's an army on the dance floor
-Fashion with a gun, my love
-In a room without a door
-A kiss is not enough in
-
-Love my way, it's a new road
-I follow where my mind goes
-
-They put us on a railroad
-And dearly make us pay
-For laughing in their faces
-And making it our way
-There's emptiness behind their eyes
-Dust in all their hearts
-They just want to steal us all and tear us all apart, but
-
-Love my way, it's a new road
-I follow where my mind goes
-Love my way, it's a new road
-I follow where my mind goes
-
-Swallow all your tears, my love
-And put on your new face
-You can never win or lose
-If you don't run the race
-If you don't run the race
-
-Love my way, it's a new road
-I follow where my mind goes
-Love my way, it's a new road
-I follow where my mind goes
-(Ah, ah, ah, ah, ah)
-Love my way, it's a new road (Ah, ah)
-I follow where my mind goes (Ah, ah)
-Love my way, it's a new road (Ah, ah)
-I follow where my mind goes (Ah)
-
-
 

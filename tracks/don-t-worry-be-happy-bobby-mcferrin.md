@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: don-t-worry-be-happy-bobby-mcferrin
-lyrics_url: https://www.azlyrics.com/lyrics/filipek/fantasmagorie.html
 name: Don't Worry Be Happy
 rankings:
 - end_date: '1988-08-05'
@@ -112,88 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
-
-Ja myÅlaÅem nie raz, Å¼e wpadnÄ w eutymie
-Å»e piszÄ tak dobre linie, Å¼e w koÅcu to minie
-Å»e jak wykorzystam metonimie, nas to nie zabije
-A jedynie popÅyniemy w fenyloetyloaminÄ
-BÃ³g mi Åwiadkiem, Å¼e nawet prawo Ohma
-Nie zÅamie mego oporu, jestem jak Koran
-I nawet jak ktoÅ bawi siÄ moim ÅwiatÅem jak Rembrandt
-CiÄgle powtarzam sobie jak mantrÄ "nie przegram"
-Kiedy mÃ³wisz do mnie sÅoÅce czuje siÄ jak Jakub Kawalec
-Jestem chÅopakiem na chwilÄ, a nie na staÅe
-Nie patrz mi siÄ w oczy jak nie lubisz synestezji
-Wszystko leÅ¼y bo na przeszkodzie jest mnÃ³stwo kwestii
-A ja to nie BÃ³stwo wierz mi, Fidiasz mnie nie rzeÅºbiÅ
-PrzeszedÅem mnÃ³stwo przecznic, a kurwa tam teÅ¼ nic
-Nie ÅpiewaÅo mi Filip "dont worry be happy" jak Bobby McFerrin
-A sumienie traktuje mnie jak catering
-
-WiÄc patrz, nie jestem teÅ¼ do koÅca taki
-Jaki byÅem przedstawiony w tych plotkach o mnie
-Rap, rap, rap robiÄ podobno Åwietnie
-A reszta to pierdolone fantasmagorie
-WiÄc patrz, nie jestem teÅ¼ do koÅca taki
-Jaki byÅem przedstawiony w tych plotkach o mnie
-Rap, rap, rap robiÄ podobno Åwietnie
-A reszta to pierdolone fantasmagorie
-
-Od amorfi do rozdwojenia jaÅºni
-Od bycia mizoginem do przekraczania wyobraÅºni
-Å»e jestem Jamesem Deanem i zaraz dam ci powÃ³d
-Å»e za smak mych ust bÄdziesz buntowniczkÄ bez powodu
-A Priori akceptujÄ co tam ode mnie wymagasz
-I tak nie bÄdziemy dÅuÅ¼ej niÅ¼ chwilÄ, kurwa no bÅagam
-Jestem dorosÅy, wiÄc jak mi wmÃ³wisz
-Å»e sÄ jakieÅ powody ku temu bym wyszedÅ na ludzi?
-LeciaÅem na wiÄcej frontÃ³w niÅ¼ Luftwaffe
-Nie jaraj siÄ mnÄ, jaraj siÄ moim rapem
-Nie jaraj siÄ mnÄ, jaraj siÄ moim rapem
-I chcÄ za talent cash, chcÄ kurwa zapÅatÄ
-Ambitendencja, chcÄ opryskaÄ kartkÄ krwiÄ
-Ambisentencja, bo rÄka mnie boli wciÄÅ¼
-Jestem happy or sad, bÄdÄ dopÃ³ty nie umrÄ
-I chciaÅem powiedzieÄ coÅ "Zanim PÃ³jdÄ"
-
-WiÄc patrz, nie jestem teÅ¼ do koÅca taki
-Jaki byÅem przedstawiony w tych plotkach o mnie
-Rap, rap, rap robiÄ podobno Åwietnie
-A reszta to pierdolone fantasmagorie
-WiÄc patrz, nie jestem teÅ¼ do koÅca taki
-Jaki byÅem przedstawiony w tych plotkach o mnie
-Rap, rap, rap robiÄ podobno Åwietnie
-A reszta to pierdolone fantasmagorie
-
-Umiem dotknÄÄ do Å¼ywego jak mesmerysta
-WyrzucajÄc z siebie pociski jak balista
-Ty znasz mnie bo freestyle, ty znasz mnie bo cisnÄ
-Ale ile razy juÅ¼ chciaÅem rzuciÄ to w pizdÄ
-Wszystko co waÅ¼ne istnieje w wymiarze temporalnym tak?
-Ta wiedza o Å¼yciu wciÄÅ¼ psuje mi smak
-Mam 8 emocji emocji jak Plutchik, najlepiej
-WprowadziÅbym je w Å¼ycie, ale kaÅ¼da krzyczy "no matter"
-SÅysze z twych ust sÅowa o ktÃ³rych kiedyÅ baÅbym siÄ marzyÄ
-Lecz nie potrafiÄ juÅ¼ ruszyÄ mi homeostazy
-To apoptoza, bo juÅ¼ nie mam twojej komÃ³rki
-I nie pytaj siÄ czy chcÄ nowy numer, tylko siÄ wkurwisz
-Imponderabilie, sÄ tylko sÅowem
-A sprawiÅy, Å¼e mam w sercu pole firnowe
-Nie mam spadochronu jak Mela Koteluk przecieÅ¼
-A zamiast porozmawiaÄ wolaÅbym CiÄ przelecieÄ
-Taka transgresja, wszystko po mnie spÅywa
-Umiem mÃ³wiÄ o uczuciach, ale tylko w porywach
-Bo na dziÅ dzieÅ, mam przerwÄ wiÄkszÄ niÅ¼ Tomasz Karolak
-Lecz MogÄ Wszystko coÅ jak w traku SokoÅa
-
-Wiem jak byÅo, wiem jak jest, nie znasz mnie
-GdybyÅ przeÅ¼yÅ tyle ile ja teÅ¼ miaÅbyÅ insomniÄ
-Rap, rap, rap od zawsze robiÄ Åwietnie
-Reszta to pierdolone fantasmagorie
-Wiem jak byÅo, wiem jak jest, nie znasz mnie
-GdybyÅ przeÅ¼yÅ tyle ile ja teÅ¼ miaÅbyÅ insomniÄ
-Rap, rap, rap od zawsze robiÄ Åwietnie
-Reszta to pierdolone fantasmagorie
-
-
 

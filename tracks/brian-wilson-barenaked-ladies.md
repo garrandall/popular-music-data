@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: brian-wilson-barenaked-ladies
-lyrics_url: https://www.azlyrics.com/lyrics/brianwilson/brianwilson.html
 name: Brian Wilson
 rankings:
 - end_date: '1997-11-28'
@@ -88,79 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
 ---
-
-Drove downtown in the rain, 
-Nine-thirty on a Tuesday night, 
-Just to check out the late night,
-Record shop.
-
-Call it impulsive,
-Call it compulsive, 
-Call it insane.
-But when I'm surrounded I just can't, stop.
-
-It's a matter of instincts,
-A matter of conditioning, 
-A matter of fact.
-You can call me Pavlov's dog.
-
-Ring a bell and I salivate, 
-How'd you like that?
-Dr. Landy tell me, 
-I'm not just a pedagogue.
-
-'Cuz right now I'm
-
-
-Lyin in bed, 
-Just like Brian Wilson did,
-Well I am, 
-Lying in bed,
-Just like Brian Wilson did.
-
-So I'm lying here,
-Just staring at the ceiling tiles,
-And I'm thinking about,
-Oh, what to think about.
-
-Just listening and relistening,
-To Smiley Smile.
-And wondering if this is some kind of creative drought
-Because I'm
-
-
-
-And if you want to find me,
-I'll be out in the sandbox,
-Wondering where the hell all the
-Love has gone,
-Playing my guitar and
-Building castles in the sun and
-Singing "Fun, Fun, Fun"
-
-
-
-I had a dream
-That I was three hundred pounds
-And though I was very heavy
-I floated 'til I couldn't see the ground
-I floated 'til I couldn't see the ground
-Somebody help me,
-I couldn't see the ground
-Somebody help me because I'm
-
-
-
-Drove downtown in the rain
-Nine-thirty on a Tuesday night,
-Just to check out the late-night
-Record shop.
-Call it impulsive
-You can call it compulsive,
-You can call it insane;
-But when I'm surrounded
-I just can't
-Stop.
-
-
 

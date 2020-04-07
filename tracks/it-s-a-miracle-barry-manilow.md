@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-a-miracle-barry-manilow
-lyrics_url: https://www.azlyrics.com/lyrics/williamhung/itsamiracle.html
 name: It's A Miracle
 rankings:
 - end_date: '1975-03-07'
@@ -60,65 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
 ---
-
-You wouldn't believe where Iâve been
-The city and towns I been in
-From Boston to Denver
-And every town in between
-
-The people they all look the same
-Only the names have been changed
-But now that I'm home again
-I'll tell you what I believe
-
-Itâs a miracle
-A true blue spectacle
-A miracle come true
-We're together, baby, I was goin' crazy
-Till the miracle
-Came through
-Now you're here, and my arms are around you
-And baby, there'll be
-Dancin' in the streets
-For the miracle
-A true blue spectacle
-The miracle is you
-
-I never knew you look so good
-I never knew anyone could
-I must have been crazy
-To ever had gone away
-
-I almost for got what it's like
-Holdin' you near me at night
-But now that Iâm home again
-You know that Iâm home to stay
-
-'Cause itâs a miracle
-A true blue spectacle
-A miracle come true
-We're together baby, I was goin' crazy
-Till the miracle came through
-Now you're here and Iâm feelin' so good
-And baby there'll be
-Dancin' in the streets
-For the miracle
-A true blue spectacle
-The miracle is you
-
-Now you're here and my arms are around you
-And baby there'll be dancing in the street
-There's going to be dancing in the street
-Dancing in the street
-
-Dancin', dancin', dancin', dancin'
-Dancin' in the street
-Dancin', dancin', dancin' in the street
-For the miracle
-A true blue spectacle
-The miracle is you
-Hey the miracle is you
-The miracle is you
-
-
 

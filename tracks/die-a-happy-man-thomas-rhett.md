@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: die-a-happy-man-thomas-rhett
-lyrics_url: https://www.azlyrics.com/lyrics/upchurch/dieahappyman.html
 name: Die A Happy Man
 rankings:
 - end_date: '2015-10-16'
@@ -128,47 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
 ---
-
-Baby last night was hands down
-One of the best nights that I've had, no doubt
-Between the bottle of wine and the look in your eyes and the Marvin Gaye
-Then we danced in the dark under September stars in the pourin' rain
-
-And I know that I can't ever tell you enough
-That all I need in this life is your crazy love
-
-If I never get to see the Northern lights
-Or if I never get to see the Eiffel Tower at night
-Oh if all I got is your hand in my hand
-Baby I could die a happy man
-A happy man baby hm
-
-And baby that red dress brings me to my knees
-Oh but that black dress baby makes it hard to breathe
-Youâre a saint, youâre a goddess, the cutest, the hottest, a masterpiece
-It's too good to be true, nothing better than you in my wildest dreams
-
-And I know that I can't ever tell you enough
-That all I need in this life is your crazy love
-
-If I never get to see the Northern lights
-Or if I never get to see the Eiffel Tower at night
-Oh if all I got is your hand in my hand
-Baby I could die a happy man, oh yes I could
-
-I don't need no vacation, no fancy destination
-Baby you're my great escape
-We could stay at home, listening to the radio
-Or dance around the fireplace
-
-Oh if I never get to build my mansion in Georgia
-Or drive a sports car up the coast of California
-Oh if all I got is your hand in my hand
-Baby I could die a happy man
-
-Oh darling I could die a happy man
-I could die I could die a happy man
-A happy man baby
-
-
 

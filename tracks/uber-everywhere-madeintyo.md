@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: uber-everywhere-madeintyo
-lyrics_url: https://www.azlyrics.com/lyrics/travisscott/ubereverywhereremix.html
 name: Uber Everywhere
 rankings:
 - end_date: '2016-04-22'
@@ -88,58 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
 ---
-
-
-You think I should do this and drop this shit like tomorrow?
-Yea, yea, yeaaa, yee, alright!
-Alright!
-
-
-Okay, it's late yeah
-Uber to your crib I can not wait yeah, It's lit!
-I've been moving at a race, Straight up!
-Tell me what we going through is a phase
-
-
-Shit I can't escape
-All this shit I can't evade
-Niggas wanna hate, yea they do that by the day, Yeah, yeah!
-On these skates, I've been moving state to state
-Fuck that lobster and that steak
-I got mo shit on my plate
-Rolling in my Uber, that's just how I use my time
-Blowing on that Backwood, that's just how I use my mind
-Looking out the window, hoping it all would be fine
-Pay no mind, they don't pay no mind, yeah yeah yeah
-Magic City they shaking that ass, yeah yeah yeah
-Diamonds of Atlanta they be bad, yeah yeah yeah
-When we hit V Live I got that bag, Straight up!
-Pick your DJ and we got that bitch on smash, yeah yeah yeah
-Play that shit that make em dance
-After call me when you done counting them bands, yeah yeah yeah, Yeah!
-
-
-Please don't let it get late, Yeah, yeah!
-I'm a Uber to your crib I can not wait, It's lit!
-I've been moving at my pace
-Tell me what we going through is just a phase, yeah yeah yeah, Straight up!
-
-
-North side cooling shawty yea that is where I stay
-Heard you was a lame boy get up out my face
-And my ex keep calling swear that she be in the way
-And I need a thick red bone shawty where I lay
-Bad bih in LA tell me that she'll make the trip
-Shawty bad as hell yea with them Kylie Jenner lips
-Uber every fucking-where pre rolls in my VIP
-Canada jawn yeah I think that bitch from the 6
-
-
-Shawty wanna kiss me but I know she sucking dick
-Shawty wanna kiss me but I know she sucking dick
-Look Uber everywhere pre rolls in the VIP
-Yea Uber everywhere pre rolls in my VIP
-Aye skrr! skrr!
-
-
 

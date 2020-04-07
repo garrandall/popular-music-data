@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: forget-him-bobby-rydell
-lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/forgethim.html
 name: Forget Him
 rankings:
 - end_date: '1963-11-15'
@@ -72,26 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
 ---
-
-Forget him if he doesn't love you, forget him if he doesn't care...
-Don't let him tell you that he wants you
-'Cause he can't give you love which isn't there
-Little girl, he's never dreaming of you
-He'll break your heart, ya wait and see
-So don't you cry now, just tell him goodbye now
-Forget him and please come home to me
-
-(Forget him if he doesn't love you, forget him if he doesn't care)
-
-Don't let him tell ya that he wants you
-'Cause he can't give you love which isn't there
-Oh little girl, he's never dreaming of you
-He'll break your heart, ya wait and see...
-So don't you cry now, just tell him goodbye now
-Forget him and please come home to me
-
-No don't you cry now better tell him goodbye now
-Forget him and please come home to me...
-
-
 

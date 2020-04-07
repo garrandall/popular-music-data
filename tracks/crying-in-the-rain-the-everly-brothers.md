@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: crying-in-the-rain-the-everly-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/danzig/cryingintherain.html
 name: Crying In The Rain
 rankings:
 - end_date: '1962-01-19'
@@ -60,47 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
 ---
-
-I'll never let you see
-The way my broken heart is hurtin' me
-I've got my pride and I know how to hide
-All my sorrow and pain
-I'll do my crying in the rain
-
-If I wait for cloudy skies
-You won't know the rain from the tears in my eyes
-You'll never know that I still love you so
-Though the heartache remain
-I'll do my crying in the rain
-
-Rain drops fallin' from heaven
-Could never wash away my misery
-But since we're not together
-I pray for stormy weather
-To hide these tears I hope you'll never see
-
-Some day when my cryin' stops
-I'm gonna wear a smile and walk in the sun
-I may be a fool but till then darling you'll
-Never see me complain
-I'll do my cryin' in the rain
-
-I'll do my cryin' in the rain
-I'll do my cryin' in the rain
-
-Rain drops fallin' from heaven
-Could never wash away my misery
-But since we're not together
-I pray for stormy weather
-To hide these tears I hope you'll never see
-
-Some day when my cryin' stops
-I'm gonna wear a smile and walk in the sun
-I may be a fool but till then darling you'll
-Never see me complain
-I'll do my crying in the rain
-I'll do my crying in the rain
-I'll do my crying in the rain
-
-
 

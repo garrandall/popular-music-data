@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-can-dream-about-you-dan-hartman
-lyrics_url: https://www.azlyrics.com/lyrics/halloates/icandreamaboutyou.html
 name: I Can Dream About You
 rankings:
 - end_date: '1984-05-11'
@@ -108,39 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
 ---
-
-No more trying
-To hold someone close to my life
-It's time for finding
-Some way to get through my sleepless nights
-
-I can dream about you
-If I can't ho Id you tonight I can dream about you
-Maybe that will make it all right
-All right
-
-Moving sidewalks
-Uneven under my feet
-My true feelings
-Down deep below
-'Cause the streets see me lonely for you
-Just for you
-
-I can dream about you
-In my dreams we're still happy
-And you're still part of me
-I can dream about you
-And when you're in my mind's eye
-You're a sweet memory, memory
-
-Baby, I'm dreaming
-(I can dream about you)
-Dreaming, oh
-I can dream about you
-Oh, maybe that will make it all right
-All right, all right
-
-I can dream about you
-
-
 

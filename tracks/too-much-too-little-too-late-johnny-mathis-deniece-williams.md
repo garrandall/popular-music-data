@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: too-much-too-little-too-late-johnny-mathis-deniece-williams
-lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/toomuchtoolittletoolate.html
 name: Too Much Too Little Too Late
 rankings:
 - end_date: '1978-04-07'
@@ -80,60 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
 ---
-
-
-Yes, it's over, call it a day
-Sorry that it had to end this way
-No reason to pretend
-We knew it had to end some day, this way
-
-
-Guess it's over, the kids are gone
-What's the use of tryin' to hang on
-Somewhere we lost the key
-So little left for you and me and it's clear to see
-
-
-Too much, too little, too late to lie again with you
-Too much, too little, too late to try again with you
-We're in the middle of ending something that we knew
-
- It's over
-
- Oh, it was over
-
-
-Too much, too little, too late to ever try again
-Too much, too little, too late, let's end it being friends
-Too much, too little, too late, we knew it had to end
-
- Ah, it's over
-
- It's over
-
-
-Guess it's over, the chips are down (whoa)
-Nearly all our bridges tumbled down
-
-
-Whatever chance we try, let's face it why deny
-It's over (It's over)
-It's over
-
-
-Too much, too little, too late to ever try again
-Too much, too little, too late, let's end it being friends
-Too much, too little, too late, we knew it had to end
-
- And it's over
-
- And it's over
-
- And it's over
-
-
-Too much, too little, too late to ever try again
-Too much, too little, too late, let's end it being friends
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: she-drives-me-crazy-fine-young-cannibals
-lyrics_url: https://www.azlyrics.com/lyrics/tomjones/shedrivesmecrazy.html
 name: She Drives Me Crazy
 rankings:
 - end_date: '1989-02-03'
@@ -100,54 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
 ---
-
-I can't help the way I feel
-Things you do don't seem so real
-Tell me what you got in mind
-'Cause we're runnin' out of time
-Won't you ever set me free
-This waitin' 'round is killin' me
-
-She drives me crazy
-Like no one else
-She drives me crazy
-And I can't help myself
-
-I can't get any rest
-People say I'm obsessed
-Everything you say is lies
-But to me there's no surprise
-What I have, I knew was true
-Things go wrong, they always do
-
-She drives me crazy
-Like no one else
-She drives me crazy
-And I can't help myself, no
-
-She drives me crazy
-Like no one else
-
-I won't make it on my own
-No one likes to be alone
-
-She drives me crazy
-Like no one else
-She drives me crazy
-And I can't help myself
-I can't help myself
-
-She drives me crazy
-Drives me crazy
-Like no one else
-You know she drives me crazy
-And I can't help myself
-Oh myself
-
-She drives me crazy, oh yes
-Like no one else, no one else
-She drives me crazy
-And I can't help myself
-
-
 

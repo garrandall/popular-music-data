@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-believe-in-music-gallery
-lyrics_url: https://www.azlyrics.com/lyrics/greekfire/underthestarsdeusexmachina.html
 name: I Believe In Music
 rankings:
 - end_date: '1972-08-18'
@@ -72,54 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
-
-The timing is set
-As the lead takes her hand
-The makeup is wet
-As the gallery stands
-The air is alive
-And the city awaits
-The air is alive
-And the city awaits
-Oh, under the stars
-The canvas has dropped
-At the back of the stage
-The music is soft
-As crescendos await
-The air is alive
-And the city is waiting
-The air is alive
-And the city is waiting
-Oh, under the stars
-The world is a show
-Yes, it's always the same
-The ending we know
-But that's not why we came
-The air is alive
-And the city is waiting
-The moment's arrived
-And the angels are shaking
-Oh, under the stars
-With every name
-There is nothing new under the sun
-No, it's always the same
-Yes, this world will go on
-It's always competing
-Yes, the show will go on
-It's always repeating
-Oh, the characters play
-And the hero will sing our song
-As machines raise the gap
-The show goes on
-And the people are waiting
-The moment's arrived
-The angels are shaking
-Oh, under the stars
-I believe in love that will live through the age
-I believe that the world is a stage
-I believe in a love that will live through the age
-I believe that the world is a stage
-Oh!
-
-
 

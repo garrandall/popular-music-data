@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: break-my-stride-matthew-wilder
-lyrics_url: https://www.azlyrics.com/lyrics/laguns/breakmystride.html
 name: Break My Stride
 rankings:
 - end_date: '1983-09-23'
@@ -124,41 +123,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
-
-Last night I had the strangest dream
-I sailed away to China, in a little rowboat to find ya
-And you said you had to get your laundry clean
-Didn't want no one to hold you, what does that mean? And you said...
-
-
-Ain't nothing gonna break my stride
-Nobody gonna slow me down, oh no
-I got to keep on moving
-Ain't nothing gonna break my stride
-I'm running in a one touch ground, oh no
-I got to keep on moving
-
-You're on the road and now you pray you'll last
-The road behind was rocky
-But now you're feeling cocky
-You look at me and you see your past
-Is that the reason why you're running so fast? And she said...
-
-
-
-Never let another girl like you whip me over
-Never let another girl like you drag me under
-If I meet another girl like you I will tell her
-Never want another girl like you have to say - oh!
-
-Ain't nothing gonna break my stride
-Nobody gonna slow me down, oh no
-I got to keep on moving
-Ain't nothing gonna break my stride
-I'm running in a one touch ground, oh no
-I got to keep on moving
-
-
-
-
 

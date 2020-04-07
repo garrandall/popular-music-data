@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: long-cool-woman--in-a-black-dress--the-hollies
-lyrics_url: https://www.azlyrics.com/lyrics/ronniedunn/longcoolwomaninablackdress.html
 name: Long Cool Woman (In A Black Dress)
 rankings:
 - end_date: '1972-06-30'
@@ -68,50 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
 ---
-
-Saturday night I was down town
-Working for the F.B.I.
-Sitting in a nest of bad men
-Whiskey bottles piling high
-Boot legging boozer on the west side
-Full of people who are doing wrong
-Just about to call up the D.A. man
-When I heard this woman singing a song
-
-A pair of forty fives made me open my eyes
-My temperature started to rise
-
-She was a long cool woman in a black dress
-Just a five nine beautiful tall
-With just one look I was a bad mess
-Cause that long cool woman had it all
-
-I saw her heading to the table
-Well, a tall walking big black cat
-When Charlie said "I hope that you're able, boy"
-I'm telling you she knows where it's at
-Well, suddenly we heard a siren
-And everybody started to run
-A jumping out of doors and tables
-Well, I heard somebody shooting a gun
-
-The D.A. was pumping my left hand
-And she was holding my right
-I told her don't get scared
-Cause you're gonna be spared
-I gotta be forgiven
-If I want to spend my living with
-
-A long cool woman in a black dress
-Just a five nine beautiful tall
-With just one look I was a bad mess
-'Cause that long cool woman had it all
-Had it all
-Had it all
-Had it all
-
-Had it all
-Had it all
-
-
 

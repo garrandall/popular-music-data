@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: candle-in-the-wind-elton-john
-lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/candleinthewind2018version.html
 name: Candle In The Wind
 rankings:
 - end_date: '1987-11-13'
@@ -92,62 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
 ---
-
-Goodbye Norma Jeane
-Though I never knew you at all
-You had the grace to hold yourself
-While those around you crawled
-They crawled out of the woodwork
-And they whispered into your brain
-They set you on the treadmill
-And they made you change your name
-
-And it seems to me you lived your life
-Like a candle in the wind
-Never knowing who to cling to
-When the rain set in
-And I would've liked to have known you
-But I was just a kid
-Your candle burned out long before
-Your legend ever did
-
-Loneliness was tough
-The toughest role you ever played
-Hollywood created a superstar
-And pain was the price you paid
-Even when you died
-Oh the press still hounded you
-All the papers had to say
-Was that Marilyn was found in the nude
-
-And it seems to me you lived your life
-Like a candle in the wind
-Never knowing who to cling to
-When the rain set in
-And I would've liked to have known you
-But I was just a kid
-Your candle burned out long before
-Your legend ever did
-
-Goodbye Norma Jeane
-Though I never knew you at all
-You had the grace to hold yourself
-While those around you crawled
-Goodbye Norma Jeane
-From the young man in the 22nd row
-Who sees you as something more than sexual
-More than just our Marilyn Monroe
-
-And it seems to me you lived your life
-Like a candle in the wind
-Never knowing who to cling to
-When the rain set in
-And I would've liked to have known you
-But I was just a kid
-Your candle burned out long before
-Your legend ever did
-Your candle burned out long before
-Your legend ever did
-
-
 

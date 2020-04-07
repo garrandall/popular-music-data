@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: there-goes-my-baby-the-drifters
-lyrics_url: https://www.azlyrics.com/lyrics/joecocker/theregoesmybaby.html
 name: There Goes My Baby
 rankings:
 - end_date: '1959-06-07'
@@ -84,47 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
 ---
-
-There goes my baby
-Moving on down the line
-Wondering where, wondering where
-He is bound
-
-I broke his heart
-And made him cry
-Now I'm alone, so all alone
-What can I do, what can I do
-
-Just wanna know
-Does he love me
-Does he really love me
-Or is he just playing
-Me for a fool
-
-I wonder why he left me
-Why did he leave me so all alone
-So all alone
-
-I was gonna tell him that I loved him
-And that I need him
-Beside my side
-To be my guide
-
-I wanna know
-Where is my baby
-I want my baby
-I need my baby
-
-I was gonna tell him that I loved him
-And that I need him
-
-Beside my side
-To be my guide
-
-I wanna know where is my
-Where is my baby
-I need my baby
-I need my baby
-
-
 

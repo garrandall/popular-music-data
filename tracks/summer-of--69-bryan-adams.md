@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: summer-of--69-bryan-adams
-lyrics_url: https://www.azlyrics.com/lyrics/altiyanchilds/summerof69.html
 name: Summer Of '69
 rankings:
 - end_date: '1985-07-05'
@@ -76,52 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
 ---
-
-I got my first real six-string
-Bought it at the five-and-dime
-Played it till my fingers bled
-It was summer of '69
-Me and some guys from school
-We had a band and we tried real hard
-But Jimmy quit and Joey got married
-I should've known we'd never get far
-
-Oh, when I look back now
-That summer seemed to last forever
-And if I had the choice
-Yeah, I'd always wanna be there
-Those were the best days of my life
-
-Ain't no use in complainin'
-When you got a job to do
-Spent my evenings at the drive-in
-And that's when I met you, yeah
-Standin' on your mama's porch
-You told me that you'd wait forever
-Oh, and when you held my hand
-I knew that it was now or never
-Those were the best days of my life
-
-Oh yeah
-Back in summer of '69
-
-Man, we were killin' time
-We were young and restless
-We needed to unwind
-I guess nothin' can last forever
-Forever, yeah
-
-Standin' on your mama's porch
-You told me that it'd last forever
-Oh, the way you held my hand
-I knew that it was now or never
-Those were the best days of my life
-Yeah, yeah, yeah
-Back in the summer of '69
-'69
-(Back in the summer of '69)
-('69)
-It was the summer of '69
-
-
 

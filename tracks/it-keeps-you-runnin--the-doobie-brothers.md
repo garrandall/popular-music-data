@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-keeps-you-runnin--the-doobie-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/itkeepsyourunnin.html
 name: It Keeps You Runnin'
 rankings:
 - end_date: '1976-11-19'
@@ -64,34 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
 ---
-
-Where you gonna go
-Where are you gonna hide?
-You go on leaving out your heart
-And all it's saying deep inside
-
-I can feel your love heart beat
-You got me all wrong
-You don't have to worry
-You just been lonely too long
-I know what it means to hide your heart
-From long ago -
-
-
-It keeps you runnin'
-It keeps you runnin'...
-
-I know how you feel
-You know I been there
-But what you've been keeping to yourself
-Well you know it just ain't fair
-
-Are you gonna worry
-For the rest of your life
-Why are you in such a hurry
-To be lonely one more night?
-I know what it means to hide your heart
-From a long time ago -
-
-
 

@@ -5,7 +5,6 @@ features:
 - Nicki Minaj
 genres: []
 key: side-to-side-ariana-grande-nicki-minaj
-lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/sidetoside.html
 name: Side To Side
 rankings:
 - end_date: '2016-09-23'
@@ -121,52 +120,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
 ---
-
-I've been there all night,
-I've been there all day,
-And I, got me walkin' side to side
-
-I'm talkin' to ya
-See you standing over there with your body
-Feeling like I wanna rock with your body
-And we don't gotta think 'bout nothin'
-
-I'm comin' at ya
-'Cause I know you got a bad reputation
-Doesn't matter, 'cause you give me temptation
-And we don't gotta think about nothin'
-
-These friends keep talkin' way too much
-Say I should give you up
-Can't hear them, no, 'cause I...
-
-I've been there all night
-I've been there all day
-And I, got you walkin' side to side
-I've been there all night
-I've been there all day
-And I, got you walkin' side to side
-
-Been tryna hide it
-Baby, what's it gonna hurt if they don't know?
-Makin' everybody think that we solo
-Just as long as you know you got me
-
-And girl I got ya
-'Cause tonight I'm making deals with the devil
-And I know it's gonna get me in trouble
-Just as long as you know you got me
-
-These friends keep talkin' way too much
-Say I should give you up
-Can't hear them, no, 'cause I...
-
-I shot the Sheriff,
-But I did not shoot the Deputy.
-
-I've been here all night,
-I've been here all day,
-And I, got you walkin' side to side...
-
-
 

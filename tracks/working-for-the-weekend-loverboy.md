@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: working-for-the-weekend-loverboy
-lyrics_url: https://www.azlyrics.com/lyrics/straightnochaser/workingfortheweekend.html
 name: Working For The Weekend
 rankings:
 - end_date: '1981-11-20'
@@ -88,48 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
-
-Everyone's watching to see what you will do
-Everyone's looking at you, oh
-Everyone's wondering, will you come out tonight?
-Everyone's trying to get it right, get it right
-
-Everybody's working for the weekend
-Everybody wants a new romance
-Everybody's going off the deep end
-Everybody needs a second chance, oh
-
-You want a piece of my heart?
-You better start from the start
-You want to be in the show?
-C'mon baby, let's go
-(Oh, oh, oh)
-
-(Monday, Tuesday, Wednesday, Thursday)
-Everyone's looking to see if it was you
-Everyone wants you to come through
-(When will it be Friday
-I can't wait for Friday but it's only...)
-(Monday, Tuesday, Wednesday, Thursday)
-Everyone's hoping it'll all work out
-Everyone's waiting to hold you out
-(Holding up to Friday
-Oh thank God it's Friday, I am 'bout to be)
-
-Everybody's working for the weekend
-Everybody wants a little romance, hey yeah
-Everybody's going off the deep end
-Everybody needs a second chance, oh
-
-You want a piece of my heart?
-You better start from the start
-You want to be in the show?
-C'mon baby, let's go
-(Oh, oh, oh)
-
-You want a piece of my heart?
-You better start from the start
-You want to be in the show?
-
-
 

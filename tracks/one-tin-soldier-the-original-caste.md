@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: one-tin-soldier-the-original-caste
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/onetinsoldier.html
 name: One Tin Soldier
 rankings:
 - end_date: '1969-11-21'
@@ -76,51 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
 ---
-
-Listen children to a story
-That was written long ago
-Bout a kingdom on a mountain
-And the valley folk below
-On the mountain was a treasure
-Buried deep beneath the stone
-And the valley people swore
-They'd have it for their very own
-
-So go ahead and hate your neighbour
-Go ahead and cheat a friend
-Do it in the name of heaven
-You can justify it in the end
-There won't be any trumpets blowing
-Come the judgment day
-But on the bloody morning after
-One tin soldier rides away
-
-So the people from the valley
-Sent a message up the hill
-Asking for the buried treasure
-Tons of gold for which they'd kill
-Came an answer from the kingdom
-"With our brothers we will share
-All the secrets of the mountain
-All the riches buried there"
-
-Now the valley cried with anger
-"Mount your horses, draw your swords"
-And they killed the mountain people
-So they won their just rewards
-Now they stood beside the treasure
-On the mountain, dark and red
-Turned the stone and looked beneath it
-"Peace on earth" was all it said
-
-So go ahead and hate your neighbour
-Go ahead and cheat a friend
-Do it in the name of heaven
-You can justify it in the end
-There won't be any trumpets blowing
-Come the judgment day
-But on the bloody morning after
-One tin soldier rides away
-
-
 

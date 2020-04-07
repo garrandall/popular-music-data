@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: we-re-an-american-band-grand-funk
-lyrics_url: https://www.azlyrics.com/lyrics/poison/wereanamericanband.html
 name: We're An American Band
 rankings:
 - end_date: '1973-08-03'
@@ -76,57 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
 ---
-
-Like this...
-
-On the road for forty days,
-Last night in little rock put me in a haze.
-Sweet, sweet connie -- doin her act,
-She stole the whole show and thats a natural fact.
-Up all night with freddy king,
-I got to tell you pokers his thing.
-A-booze n ladies treat me right,
-As long as we can make it to the show tonight.
-
-Were an american band.
-Were an american band.
-Were coming to your town, well help you party it down.
-Were an american band.
-
-Four young chaquitas in omaha,
-Was waitin for the band to return from the show.
-Feelin good, feelin right, its saturday night,
-The hotel detective -- he was out-a-sight.
-Now, these fine ladies, they had a plan,
-They was out to hang with me and the band.
-They said, come on, dudes, lets get it on,
-And Poison tore that hotel down.
-
-Were an american band.
-Were an american band.
-Were coming to your town, well help you party it down.
-Were an american band.
-
-Were an american band.
-Were an american band.
-Were coming to your town, well help you party it down.
-Were an american band.
-
-Come on C.C. play that thing.
-
-Were an american band.
-Were an american band.
-Were coming to your town, were gonna party down.
-Were an american band.
-
-Were an american band.
-Were an american band.
-Were coming to your town, were gonna party down.
-Were an american band.
-
-Were an american band, ooo-ooo.
-Were an american band, ooo-ooo.
-Were an american band, ooo-ooo.
-
-
 

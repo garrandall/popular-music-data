@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: who-am-i-petula-clark
-lyrics_url: https://www.azlyrics.com/lyrics/shirleybassey/whoami.html
 name: Who Am I
 rankings:
 - end_date: '1966-10-28'
@@ -36,46 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
-
-The buildings reach up to the sky
-The traffic thunders on the busy street
-The pavement slips beneath my feet
-I walk alone and wonder
-Who am I?
-
-I close my eyes and I can fly
-And I escape from all this worldly strife
-Restricted by routine of life
-But still I can't discover
-Who am I
-
-I long to wake up in the morning
-And find everything has changed
-And all the people that I meet donât wear a frown
-But every day is just the same
-I'm chasing rainbows in the rain
-All the dreams that I believe in let me down
-
-Maybe I'm reaching far too high
-For I have something else entirely free
-The love of someone close to me
-Unfettered by the world that hurries by
-Um, to question such good fortune
-Who am I?
-
-I long to wake up in the morning
-And find everything has changed
-And all the people that I meet donât wear a frown
-But every day is just the same
-I'm chasing rainbows in the rain
-All the dreams that I believe in let me down
-
-Maybe I'm reaching far too high
-For I have something else entirely free
-The love of someone close to me
-Unfettered by the world that hurries by
-To question such good fortune
-Who am I?
-
-
 

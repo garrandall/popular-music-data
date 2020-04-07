@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: x-nicky-jam-x-j-balvin
-lyrics_url: https://www.azlyrics.com/lyrics/nickyjam/x.html
 name: X
 rankings:
 - end_date: '2018-03-23'
@@ -92,68 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-04'
 ---
-
-
-Aquel dÃ­a te vi y tu energÃ­a sentÃ­
-Desde eso no te quiero lejos de mÃ­ (-ejos de mÃ­)
-SÃ© que no sabes de mÃ­ (de mÃ­)
-Y no te puedo mentir
-Lo que dicen en la calle sobre mÃ­ (sobre mÃ­)
-
-Y no te voy a negar
-Estamos claro', hey ya (hey ya, hey ya)
-
-No te lo voy a negar (jaja, no te lo puedo negar)
-Estamos claro', hey ya (jaja, que estamos claro', que estamos claro')
-
-SÃ³lo dÃ©ja que yo te agarre, baby
-Besos en el cuello pa' calmar la sed
-Mi mano en tu cadera pa' empezar como e'
-No le vamo' a bajar mÃ¡s nunca mamÃ¡ (no)
-Ba-ba-ba-ba-baila
-Plakata, plakata
-Como ella lo mueve, sin para', sin para'
-Las ganas de comerte ahora son mÃ¡s fuerte'
-Quiero tenerte
-
-Y no te voy a negar (vente pa' 'cÃ¡)
-
-Estamos claros, hey ya
-No te lo voy a negar
-Estamos claros, hey ya
-
-Lo que he visto de ti mami no me es normal (normal)
-Pero no te preocupes que soy anormal (normal)
-SÃ© que a tus amigas no les debo gustar, eh
-Pero, hey, cuÃ©ntale, parte por parte
-Como tenemos sexo y te quito el estrÃ©s
-Dale otra vez
-
-Y no te voy a negar (voy a negar, voy a negar)
-Estamos claros, hey ya (hey ya, hey ya)
-No te lo voy a negar (a negar, negar)
-Estamos claros, hey ya (hey ya, hey ya)
-
-Â¡No!
-Ba-ba-ba-ba-baila
-Plakata, plakata
-Como ella lo mueve, sin para', sin para'
-
-Las ganas de comerte ahora son mÃ¡s fuerte'
-Quiero tenerte
-
-Y no te voy a negar (ah, ah)
-
-
-N.I.C.K (plakata, plakata)
-J Balvin, men (como ella lo mueve, sin para', sin para')
-Nicky-Nicky-Nicky Jam (jajaja)
-La Industria Inc
-J Balvin
-No voy a hablar mucho
-Deja que el beat siga r-r-r-rompiendo
-Â¡Yeah! (yeah)
-Â¡Wuh! (wuh, wuh)
-
-
 

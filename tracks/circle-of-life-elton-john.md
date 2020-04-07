@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: circle-of-life-elton-john
-lyrics_url: https://www.azlyrics.com/lyrics/williamhung/circleoflife.html
 name: Circle Of Life
 rankings:
 - end_date: '1994-09-02'
@@ -88,34 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
 ---
-
-From the day we arrive on the planet
-And blinking, step into the sun
-There's more to be seen than can ever be seen
-More to do than can ever be done
-
-Some say eat or be eaten
-Some say live and let live
-But all are agreed as they join the stampede
-You should never take more than you give
-
-In the circle of life
-It's the wheel of fortune
-It's the leap of faith
-It's the band of hope
-Till we find our place
-On the path unwinding
-In the circle, the circle of life
-
-Some of us fall by the wayside
-And some of us soar to the stars
-And some of us sail through our troubles
-And some have to live with the scars
-
-There's far too much to take in here
-More to find than can ever be found
-But the sun rolling high through the sapphire sky
-Keeps great and small on the endless round
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: locked-out-of-heaven-bruno-mars
-lyrics_url: https://www.azlyrics.com/lyrics/megannicole/lockedoutofheavenmashup.html
 name: Locked Out Of Heaven
 rankings:
 - end_date: '2012-10-26'
@@ -152,86 +151,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
 ---
-
-I never had much faith in love or miracles
-I never wanna put my heart on the line
-Ooooh but swimming in your water is something spiritual
-And Iâm born again every time you spend the night
-
-Which way is right, which way is wrong
-How do I say that I need to move on?
-And it show-ow-ow-ows
-Yeah yeah yeah yeah
-
-You make feel like
-I am just too close to love you
-Iâve been locked out of heaven
-There's nothing I can really say
-Yeah yeah
-
-You make feel like
-I can't lie no more, I can't hide no more
-Got to be true to myself
-I am just too close to love you
-You make feel like
-Iâve been locked out of heaven
-So I'll be on my way
-
-You bring me to my knees
-You make me testify
-You can make a sinner change his ways
-You said "open up your gates cause I can't wait to see the light
-And right there is where I wanna stay"
-
-Which way is right, which way is wrong
-How do I say that I need to move on?
-And it show-ow-ow-ows
-Yeah yeah yeah yeah
-
-You make feel like
-I am just too close to love you
-Iâve been locked out of heaven
-There's nothing I can really say
-Yeah yeah
-
-You make feel like
-I can't lie no more, I can't hide no more
-Got to be true to myself
-I am just too close to love you
-You make feel like
-Iâve been locked out of heaven
-So I'll be on my way
-
-All I need is a beauty and a beat
-(I feel a heartbeat)
-To make my life complete
-Yeah
-
-I knew you were trouble when you walked in
-(All I need is a beauty and a beat)
-So shame on me now
-(To make my life complete)
-Flew me to places I'd never been
-Yeah
-
-You make feel like
-I am just too close to love you
-Iâve been locked out of heaven
-There's nothing I can really say
-Yeah yeah
-
-You make feel like
-I can't lie no more, I can't hide no more
-Got to be true to myself
-I am just too close to love you
-You make feel like
-Iâve been locked out of heaven
-So I'll be on my way
-
-Oooh all I need is a beauty and a beat
-Trouble, trouble
-I am just too close to love you
-So I'll be on my way
-
-
 

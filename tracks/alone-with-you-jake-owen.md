@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: alone-with-you-jake-owen
-lyrics_url: https://www.azlyrics.com/lyrics/buckowens/iwontgohuntinwithyoujake.html
 name: Alone With You
 rankings:
 - end_date: '2011-12-30'
@@ -88,50 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
 ---
-
-It's springtime in the mountains and I'm full of mountain dew
-I can't even read my catalog the way I used to do
-I'm a sittin' in that little shed just right back off the house
-Here comes ol' Jake with all the hounds but he's gonna hear me shout.
-
-Oh, I won't go huntin' with you Jake but I'll go chasin' wimmin'
-So put them hounds back in the pen and quit that silly grinnin'
-Moon is bright and I'm half tight my life's just beginnin'
-I won't go huntin' with you jake but I'll go chasin' wimmin'.
-
-Let's go down to the meetin' house and wait till they start home
-Them gals that live on Possum Creek will always leave alone
-We'll run 'em down the corn row them sassy little misses
-We'll scare them pretty gals to death we'll stop and blow 'em kisses.
-
-Oh, I won't go huntin' with you Jake but I'll go chasin' wimmin'
-So put them hounds back in the pen and quit that silly grinnin'
-Moon is bright and I'm half tight my life's just beginnin'
-I won't go huntin' with you jake but I'll go chasin' wimmin'.
-
-
-
-Now wash your face and comb your hair it's darn near time to start
-But let me tell you fore you go there's no one that's got my heart
-Don't chase the one with the yellow hair that wears the dress of green
-Well, that sweet thing belongs to me I know she's past sixteen.
-
-Oh, I won't go huntin' with you Jake but I'll go chasin' wimmin'
-So put them hounds back in the pen and quit that silly grinnin'
-Moon is bright and I'm half tight my life's just beginnin'
-I won't go huntin' with you jake but I'll go chasin' wimmin'.
-
-Now I was headed for the general store when a silly thing I seen
-They make 'em in the city it's called a magazine
-I turned to page 32 and look at what I found
-Them gals wear clothes that we ain't seen beneath them gigham gowns.
-
-Oh, I won't go huntin' with you Jake but I'll go chasin' wimmin'
-So put them hounds back in the pen and quit that silly grinnin'
-Moon is bright and I'm half tight my life's just beginnin'
-I won't go huntin' with you jake but I'll go chasin' wimmin'.
-
-I won't go huntin' with you jake but I'll go chasin' wimmin'...
-
-
 

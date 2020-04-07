@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: body-like-a-back-road-sam-hunt
-lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/bodylikeabackroad.html
 name: Body Like A Back Road
 rankings:
 - end_date: '2017-02-24'
@@ -172,21 +171,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
 ---
-
-Got a girl from the south side, got braids in her hair
-First time I seen her walk by, man I 'bout fell off my chair
-Had to get her number, it took me like six weeks
-Now me and her go way back like Cadillac seats
-
-Body like a back road, drivin' with my eyes closed
-I know every curve like the back of my hand
-Doin' fifteen in a thirty, I ain't in no hurry
-I'ma take it slow just as fast as I can
-
-Body like a back road, drivin' with my eyes closed
-I know every curve like the back of my hand
-Doin' fifteen in a thirty, I ain't in no hurry
-I'ma take it slow just as fast as I can
-
-
 

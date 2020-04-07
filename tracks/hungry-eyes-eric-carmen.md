@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hungry-eyes-eric-carmen
-lyrics_url: https://www.azlyrics.com/lyrics/newfoundglory/hungryeyes.html
 name: Hungry Eyes
 rankings:
 - end_date: '1987-11-13'
@@ -108,48 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
-
-I've been meaning to tell you
-I've got this feelin' that won't subside
-I look at you and I fantasize
-You're mine tonight
-Now I've got you in my sights
-
-With these hungry eyes
-One look at you and I can't disguise
-I've got hungry eyes
-I feel the magic between you and I
-
-I wanna hold you so hear me out
-I wanna show you what love's all about
-Darlin' tonight
-Now I've got you in my sights
-
-With these hungry eyes
-One look at you and I can't disguise
-I've got hungry eyes
-I feel the magic between you and I
-I've got hungry eyes
-Now I've got you in my sights
-With those hungry eyes
-Now did I take you by surprise
-
-I need you to see
-This love was meant to be
-
-I've got hungry eyes
-One look at you and I can't disguise
-I've got hungry eyes
-I feel the magic between you and I
-I've got hungry eyes
-Now I've got you in my sights
-With those hungry eyes
-Now did I take you by surprise
-With my hungry eyes
-I need...
-Hungry eyes
-Now I've got you in my sights
-With my hungry eyes
-
-
 

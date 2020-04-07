@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: we-belong-pat-benatar
-lyrics_url: https://www.azlyrics.com/lyrics/lenka/webelong.html
 name: We Belong
 rankings:
 - end_date: '1984-11-02'
@@ -88,55 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
 ---
-
-Many times, I've tried to tell you
-Many times, I've cried alone
-Always I'm surprised how well you
-Cut my feelin's to the bone
-Don't wanna leave you really
-I've invested too much time
-To give you up that easy
-To the doubts that complicate your mind
-
-We belong to the light, we belong to the thunder
-We belong to the sound of the words, we've both fallen under
-Whatever we deny or embrace, for worse or for better
-We belong, we belong, we belong together
-
-Maybe it's a sign of weakness
-When I don't know what to say
-Maybe I just wouldn't know
-What to do with my strength anyway
-Have we become a habit?
-Do we distort the facts?
-Now, there's no looking forward
-Now, there's no turning back
-When you say
-
-We belong to the light, we belong to the thunder
-We belong to the sound of the words, we've both fallen under
-Whatever we deny or embrace, for worse or for better
-We belong, we belong, we belong together
-
-Close your eyes and try to sleep now
-Close your eyes and try to dream
-Clear your mind and do your best to
-Try and wash the palette clean
-We can't begin to know it
-How much we really care
-I hear your voice inside me
-I see your face everywhere, still you say
-
-We belong to the light, we belong to the thunder
-We belong to the sound of the words, we've both fallen under
-Whatever we deny or embrace, for worse or for better
-We belong, we belong, we belong together
-(We belong) We belong to the light, we belong to the thunder
-(We belong) We belong to the sound of the words, we've both fallen under
-(We belong) Whatever we deny or embrace, for worse or for better
-We belong, we belong, we belong together
-We belong, we belong, we belong together
-We belong, we belong, we belong together
-
-
 

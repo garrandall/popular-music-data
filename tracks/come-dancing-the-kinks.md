@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: come-dancing-the-kinks
-lyrics_url: https://www.azlyrics.com/lyrics/matchbox20/comedancing.html
 name: Come Dancing
 rankings:
 - end_date: '1983-05-13'
@@ -76,59 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
 ---
-
-They put a parking lot on a piece of land
-When the supermarket used to stand.
-Before that they put up a bowling alley
-On the site that used to be the local palais.
-Thatâs where the big bands used to come and play.
-My sister went there on a Saturday.
-
-Come dancing,
-All her boyfriends used to come and call.
-Why not come dancing, itâs only natural?
-
-Another Saturday, another date.
-She would be ready but sheâs always make him wait.
-In the hallway, in anticipation,
-He didnât know the night would end up in frustration.
-Heâd end up blowing all his wages for the week
-All for a cuddle and a peck on the cheek.
-
-Come dancing,
-Thatâs how they did it when I was just a kid,
-And when they said come dancing,
-My sister always did.
-
-My sister should have come in at midnight,
-And my mum would always sit up and wait.
-It always ended up in a big row
-When my sister used to get home late.
-
-Out of my window I can see them in the moonlight,
-Two silhouettes saying goodnight by the garden gate.
-
-The day they knocked down the palais
-My sister stood and cried.
-The day they knocked down the palais
-Part of my childhood died, just died.
-
-Now Iâm grown up and playing in a band,
-And thereâs a car park where the palais used to stand.
-My sisterâs married and she lives on an estate.
-Her daughters go out, now itâs her turn to wait.
-She knows they get away with things she never could,
-But if I asked her I wonder if she would,
-
-Come dancing,
-Come on sister, have yourself a ball.
-Donât be afraid to come dancing,
-Itâs only natural.
-
-Come dancing,
-Just like the palais on a Saturday.
-And all her friends will come dancing
-Where the big bands used to play.
-
-
 

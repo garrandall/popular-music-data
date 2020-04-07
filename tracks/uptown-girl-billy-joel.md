@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: uptown-girl-billy-joel
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/uptowngirl.html
 name: Uptown Girl
 rankings:
 - end_date: '1983-09-30'
@@ -96,62 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
 ---
-
-Uptown girl
-She's been living in her uptown world
-I bet she never had a back street guy
-I bet her mama never told her why
-
-I'm gonna try for an uptown girl
-She's been living in her white bread world
-As long as anyone with hot blood can
-And now she's looking for a downtown man
-That's what I am
-
-And when she knows what
-She wants from her time
-And when she wakes up
-And makes up her mind
-
-She'll see I'm not so tough
-Just because
-I'm in love with an uptown girl
-You know I've seen her in her uptown world
-She's getting tired of her high class toys
-And all her presents from her uptown boys
-She's got a choice
-
-Uptown girl
-You know I can't afford to buy her pearls
-But maybe someday when my ship comes in
-She'll understand what kind of guy I've been
-And then I'll win
-
-And when she's walking
-She's looking so fine
-And when she wakes up
-She makes up her mind
-
-She'll say I'm not so tough
-Just because
-I'm in love
-With and uptown girl
-She's been living in her white bread world
-As long as anyone with hot blood can
-And now she's looking for a downtown man
-That's what I am
-
-Uptown girl
-My uptown girl
-You know I'm in love
-With an uptown girl
-My uptown girl
-You know I'm in love
-With an uptown girl
-My uptown girl
-Yeah, yeah
-Uptown girl
-My uptown girl
-
-
 

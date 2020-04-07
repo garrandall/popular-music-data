@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-not-unusual-tom-jones
-lyrics_url: https://www.azlyrics.com/lyrics/impressions/itsnotunusual.html
 name: It's Not Unusual
 rankings:
 - end_date: '1965-04-16'
@@ -56,35 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
-
-It's not unusual to be in love with anyone
-It's not unusual to have fun with anyone
-But when I see you hanging about with anyone
-It's not unusual to see me cry, I wanna die
-
-It's not unusual to go out at any time
-But when I see you out and about it's such a crime
-If you should ever want to be loved by anyone
-It's not unusual
-
-It happens everyday
-No matter what you say
-You'll find it happens all the time
-Love will never do, what you want it to
-Why can't this crazy love be mine, all mine
-
-Not unusual
-Not unusual
-
-It's not unusual to be mad with anyone
-It's not unusual to be sad with anyone
-But if I ever find that you've changed at any time
-It's not unusual to find that I'm in love with you
-
-It's not unusual (it's not unusual)
-It's not unusual (it's not unusual)
-It's not unusual (it's not unusual)
-It's not unusual (it's not unusual)
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: yo-no-se-pajama-party
-lyrics_url: https://www.azlyrics.com/lyrics/honeysingh/abcd.html
 name: Yo No Se
 rankings:
 - end_date: '1989-05-26'
@@ -48,89 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
 ---
-
-Yo Yo Honey Singh!
-
-Raat ko hoga hungama
-Jab chamkega chanda mama
-Suit boot ko goli maaro
-Pehan ke aa jaao pajama 
-
-Yaaron ki yaari
-Taazi karaari
-Uspe hai mauqa
-Phir kaahe ki duniyadari
-
-Music lagaaye
-Mehfil jamaaye
-Duniya ki aisi ki taisi
-No zimmedaari
-Woh o o...
-Kya chhora... o o
-Kya chhori... o o
-Say everybody..
-Say woh o...
-Hai hum bhi.. o o
-Ho tum bhi.. o o
-Toh chaalu ho pajama party
-
-A for Aao re aao
-B for Bhaao na khaao
-C se Chilla ke gaao
-D se Daaru peete jaao 
-
-O o...
-
-Thode sayaane zyada deewane
-Teacher ke lecture ko dirty picture bana de
-Jitne bigaadu utne jugaadu
-College ke campus ko rocking disco bana de
-Woh o...
-Kasam se.. o o
-hai humse.. o o
-Duniya saari say woh o...
-Hai hum bhi.. o o
-Ho tum bhi.. o o
-Toh chaalu ho pajama party
-
-A for Aao re aao
-B for Bhaao na khaao
-C se Chilla ke gaao
-D se Daaru peete jaao 
-
-Raat ko hoga hungama
-Jab chamkega chanda mama
-Suit boot ko goli maro
-Pehan ke aa jaao pajama
-
-Pajama loose loose
-Butter chicken and some booze
-Kudiyon ka laga hai buffet
-Chaahe jo kar lo choose
-
-Ek ya do
-Do ya teen
-Kis kis ko main karu choose
-Yahaan sab hi hai haseen haseen
-
-Ye kudiyaan mujhse
-Kya kya karwayengi
-Mera astrologer bhi hai kehta
-Tujhko ladkiyan marwayengi
-
-Woh o o...
-Kya chhora... o o
-Kya chhori... o o
-Say everybody..
-Say woh o...
-Hai hum bhi.. o o
-Ho tum bhi.. o o
-Toh chaalu ho pajama party
-
-A for Aao re aao
-B for Bhaao na khaao
-C se Chilla ke gaao
-D se Daaru peete jaao 
-
-
 

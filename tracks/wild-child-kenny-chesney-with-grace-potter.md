@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wild-child-kenny-chesney-with-grace-potter
-lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/wildchild.html
 name: Wild Child
 rankings:
 - end_date: '2015-04-03'
@@ -68,45 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
 ---
-
-Looks like royal in a thrift store dress
-Keeps my heart and her hair a mess
-She goes where the wind suggests she goes, who knows
-Got a spirit that can't be tamed
-She's a calico pony on an open plain
-I know I'll never be the same no more, for sure
-
-She's a wild child
-Got a rebel soul with a whole lot of gypsy wild style
-She can't be tied down but for a while
-I'll be falling free and so alive
-Might break my heart but God she drives me wild child
-
-You've never heard of her favorite band unless you
-Been to Bonnaroo or Burning Man
-She's Penny Lane in a Chevy van, she loves to love
-
-She loves me wild child
-Got a rebel soul with a whole lot of gypsy wild style
-She can't be tied down but for a while
-I'll be falling free and so alive
-Might break my heart but God she drives me wild child
-
-She'll be here until she runs
-Some just have to chase the sun
-
-She's a wild child
-Got a rebel soul with a whole lot of gypsy wild style
-She can't be tied down but for a while
-I'll be falling free and so alive
-Might break my heart but God she drives me wild child
-
-A kaleidoscope of colors in her mind child
-A touch of crazy hides behind her wild smile
-So simple yet experimental
-Innocent but still a little wild child
-
-Wild child
-
-
 

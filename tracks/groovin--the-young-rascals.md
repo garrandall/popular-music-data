@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: groovin--the-young-rascals
-lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/groovin.html
 name: Groovin'
 rankings:
 - end_date: '1967-04-28'
@@ -60,31 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
 ---
-
-Groovin' on a Sunday afternoon
-Really couldn't get away too soon
-I can't imagine anything that's better
-The world is ours whenever we're together
-There ain't a place I'd like to be instead of
-
-Groovin' down a crowded avenue
-Doing anything we like to do
-There's always lots of things that we can see
-You can be anyone we like to be
-All those happy people we could meet
-Just groovin' on a Sunday afternoon
-Really couldn't get away too soon
-
-Groovin' baby
-
-We'll keep on spending sunny days this way
-We're gonna talk and laugh our time away
-I feel it coming closer day by day
-Life would be ecstasy, you and me endlessly
-
-Groovin', groovin', groovin' on a Sunday afternoon
-Really couldn't get away too soon
-Groovin'
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-m-not-lisa-jessi-colter
-lyrics_url: https://www.azlyrics.com/lyrics/deanacarter/imnotlisa.html
 name: I'm Not Lisa
 rankings:
 - end_date: '1975-04-11'
@@ -76,29 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
 ---
-
-I'm not Lisa, my name is Julie
-Lisa left you years ago
-My eyes are not blue but mine won't leave you
-'Til the sunlight has touched your face
-
-She was your morning light
-Her smile told of no night
-Your love for her grew
-With each rising sun
-
-And then one winter day
-His hand led hers away
-
-She left you here drowning
-In your tears here
-Where you've stayed for years
-Crying Lisa, Lisa
-
-I'm not Lisa, my name is Julie
-Lisa left you years ago
-My eyes are not blue but mine won't leave you
-'Til the sunlight shines through your face
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: 18-and-life-skid-row
-lyrics_url: https://www.azlyrics.com/lyrics/askingalexandria/18andlife.html
 name: 18 And Life
 rankings:
 - end_date: '1989-07-14'
@@ -88,41 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
 ---
-
-Ricky was a young boy, he had a heart of stone
-Lived 9 to 5 and he worked his fingers to the bone
-Just barely get out of school, came from the edge of town
-Fought like a switchblade so no one could take him down, oh no
-
-He had no money, oh, no good at home
-He walked the streets as soldier and he fought the world alone
-
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go
-
-Tequila in his heartbeat, his veins burned gasoline
-He kept his motor running, but it never kept him clean
-They say he loved adventure, "Ricky's the wild one"
-He married trouble and had a courtship with a gun
-
-Bang bang, shoot 'em up, the party never ends
-You can't think of dying when the bottle's your best friend
-And now it's
-
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go, ye-yeah
-
-"Accidents will happen", they all heard Ricky say
-He fired his six-shot to the wind, that child blew a child away
-
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go
-18 and life, you got it, 18 and life, you know
-Your crime is time and it's 18 and life to go
-
-
 

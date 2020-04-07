@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: gentle-on-my-mind-glen-campbell
-lyrics_url: https://www.azlyrics.com/lyrics/alisonkrauss/gentleonmymind.html
 name: Gentle On My Mind
 rankings:
 - end_date: '1967-07-14'
@@ -72,57 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
-
-It's knowing that your door is always open
-And your path is free to walk
-That makes me tend to leave my sleeping bag
-Rolled up and stashed behind your couch
-
-And it's knowing I'm not shackled
-By forgotten words and bonds
-And the ink stains that are dried up on some line
-
-That keeps you in the backroads
-By the rivers of my memory
-And keeps you ever gentle on my mind
-
-It's not clinging to the rocks and ivy
-Planted on their columns now that bind me
-Or something that somebody said
-Because they thought we fit, together walking
-
-It's just knowing that the world
-Will not be cursing or forgiving
-When I walk along some railroad track and find
-
-That you're moving on the backroads
-By the rivers of my memory
-And for hours you're just gentle on my mind
-
-Though the wheat fields and the clothes lines
-And the junkyards and the highways come between us
-And some other woman's crying to her mother
-'Cause she turned and you were gone
-
-I still might run in silence
-Tears of joy might stain my face
-And the summer sun might burn me 'til I'm blind
-
-But not to where I cannot see
-You walking on the backroads
-By the rivers flowing gentle on my mind
-
-You dip your cup of soup, back from a gurgling
-Crackling caldron, in some train yard
-Your beard a roughening coal pile
-And a dirty hat pulled low across your face
-
-Through cupped hands 'round the tin can
-I pretend to hold you to my breast and find
-
-That you're waiting from the backroads
-By the rivers of my memories
-Ever smiling, ever gentle on my mind
-
-
 

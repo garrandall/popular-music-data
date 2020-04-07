@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: caught-up-in-the-rapture-anita-baker
-lyrics_url: https://www.azlyrics.com/lyrics/natalieprass/caughtupintherapture.html
 name: Caught Up In The Rapture
 rankings:
 - end_date: '1986-12-05'
@@ -80,47 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
 ---
-
-When we met, I always knew
-I would feed the magic for you
-On my mind constantly
-In my arms is where you should be
-
-I love you here by me, baby
-You let my love fly free
-I want you in my life for all time
-
-Caught up in the rapture of love
-Nothing else can compare
-When I feel the magic of you
-
-We stand side by side
-Till the storms of life pass us by
-Light my life
-Warm my heart
-Say tonight will be just the start
-
-I love you here by me, baby
-You let my love fly free
-I want you in my life for all time
-
-Caught up in the rapture of love
-Nothing else can compare
-When I feel the magic of you
-The feeling's always new
-Caught up in the rapture of you
-
-I love you here by me, baby
-You let my love fly free
-I want you in my life for all time
-
-Caught up in the rapture of love
-Nothing else can compare
-When I feel the magic of you
-The feeling's always new
-Caught up in the rapture of you
-Caught up in the rapture of love
-Caught up in the rapture of love
-
-
 

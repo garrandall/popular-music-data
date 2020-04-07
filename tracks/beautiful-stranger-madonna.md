@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: beautiful-stranger-madonna
-lyrics_url: https://www.azlyrics.com/lyrics/dmas/beautifulstranger.html
 name: Beautiful Stranger
 rankings:
 - end_date: '1999-06-18'
@@ -84,52 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
 ---
-
-Haven't we met?
-Some love of beautiful stranger
-You could be good for me
-I've got the taste for danger
-
-If I'm smart then I'll run away
-But I'm not so I guess I'll stay
-Heaven forbid
-I'll take my chance on a beautiful stranger
-
-I looked into your eyes
-And my world came tumbling down
-You're the devil in disguise
-That's why I'm singing this song
-
-To know you
-Is to love you
-You're everywhere I go
-And everybody knows
-
-To love you
-Is to be part of you
-I paid for you with tears
-And swallowed all my pride
-
-Beautiful stranger
-Beautiful stranger
-
-If I'm smart then I'll run away
-But I'm not so I guess I'll stay
-Heaven forbid
-I'll take my chance on a beautiful stranger
-
-To know you
-Is to love you
-You're everywhere I go
-And everybody knows
-
-To love you
-Is to be part of you
-I paid for you with tears
-And swallowed all my pride
-
-Beautiful stranger
-Beautiful stranger
-
-
 

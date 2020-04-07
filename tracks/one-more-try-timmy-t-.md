@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: one-more-try-timmy-t-
-lyrics_url: https://www.azlyrics.com/lyrics/damianmarley/onemorecupofcoffee.html
 name: One More Try
 rankings:
 - end_date: '1990-12-28'
@@ -108,65 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
 ---
-
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-
-I brought the money like your lawyer said to do
-Ain't nothing funny, babe, I am still in love with you
-Said, I am leaving you tomorrow, I'll cause you no more sorrow
-One cup of coffee then I'll go
-
-Lord, I say Susie, Susie, Susie, mind you lose me
-Know me, love you bad yet you want to abuse me
-Try to treat you right but this affair confuse me
-Girl, don't complain 'cause a you come fi choose me
-
-Me say Susie do, mind you loose me
-Though me love you bad and you want to abuse me
-Try treat you right but this a pure confuse me
-Gal, no complain 'cause a you come fi loose me
-
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-
-Said I brought the money, honey, like your lawyer said to do
-Ain't nothing funny, babe, I am still in love with you
-Leaving you tomorrow 'cause you no more sorrow
-One cup of coffee then I'll go
-
-Lord, run up and down, run up and down
-Sight the little gal and she a run up and down
-Run up and down, run up and down
-Sight the little gal and she a run up and down
-
-Though my teeth is my teeth and my gum is my gum
-Timmy Tim Tim or my Tummy Tum Tum
-Bitter to the belly what is sweet to the tongue
-Sight the little gal and she a run up and down
-
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-One cup of coffee then I'll go
-
-Said I brought the money like your lawyer said to do
-Ain't nothing funny, babe, I am still in love with you
-I'm leaving you tomorrow, you cause me no more sorrow
-One cup of coffee then I'll go
-
-That was Raggamuffin this is now Jr. Gong
-Telling every woman fi hang on 'pon them man
-And I say love him, love him, give him something strong
-And give him loving better mek him galang
-
-Love him, love him to the last furlong
-Can't do him dat, him tek a next woman
-I say love him, love him give him something strong
-
-
 

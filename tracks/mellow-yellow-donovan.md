@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mellow-yellow-donovan
-lyrics_url: https://www.azlyrics.com/lyrics/abrahammateo/mellowyellow.html
 name: Mellow Yellow
 rankings:
 - end_date: '1966-11-18'
@@ -56,50 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
 ---
-
-I'm just mad about saffron
-A-saffron's mad about me
-I'm just mad about saffron
-And she's just mad about me
-
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow
-
-I'm just mad about fourteen
-Fourteen's mad about me
-I'm just mad about fourteen
-And she's just mad about me
-
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow
-
-Born high forever to fly
-A wind velocity nil
-Born high forever to fly
-If you want, your cup I will fill
-
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow (Quite rightly)
-They call me mellow yellow
-
-They call me mellow yellow
-
-Electrical banana
-Is gonna be a sudden craze
-Electrical banana
-Is bound to be the very next phase
-
-They call it mellow yellow
-They call me mellow yellow
-They call me mellow yellow
-
-They call me mellow yellow
-They call me mellow yellow
-They call me mellow yellow
-They call me mellow yellow
-They call me mellow yellow
-
-
 

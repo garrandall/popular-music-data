@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: out-of-the-woods-taylor-swift
-lyrics_url: https://www.azlyrics.com/lyrics/anthemlights/outofthewoods.html
 name: Out Of The Woods
 rankings:
 - end_date: '2014-11-07'
@@ -48,57 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
 ---
-
-
-Are we out of the woods yet?
-Are we out of the woods yet?
-Are we out of the woods yet?
-Are we out of the woods?
-Are we in the clear yet?
-Are we in the clear yet?
-Are we in the clear yet?
-In the clear yet?
-Good
-
-Looking at it now
-It all seems so simple
-We were lying on your couch
-I remember
-You took a Polaroid of us
-Then discovered
-The rest of the world was black and white
-But we were in screaming color
-And I remember thinkingâ¦
-
-
-
-Looking at it now
-Last December (last December)
-We were built to fall apart
-Then fall back together
-Your necklace hanging from my neck
-The night we couldn't quite forget
-When we decided (we decided)
-To move the furniture so we could dance,
-Baby, like we stood a chance
-Two paper airplanes flying, flying, flying
-And I remember thinkin'
-
-
-
-Remember when you hit the brakes too soon?
-Twenty stitches in the hospital room
-When you started cryin', baby, I did, too
-But when the sun came up, I was lookin' at you
-Remember when we couldn't take the heat
-I walked out and said, "I'm settin' you free,"
-But the monsters turned out to be just trees
-And when the sun came up, you were lookin' at me
-You were lookin' at me
-You were lookin' at me
-I remember
-
-
-
-
 

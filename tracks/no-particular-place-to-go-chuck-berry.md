@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: no-particular-place-to-go-chuck-berry
-lyrics_url: https://www.azlyrics.com/lyrics/toydolls/noparticularplacetogo.html
 name: No Particular Place To Go
 rankings:
 - end_date: '1964-05-29'
@@ -52,35 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
 ---
-
-Ridin' along in my automobile
-My baby beside me at the wheel
-I stole a kiss at the turn of a mile
-My curiosity runnin' wild
-Crusin' n' playin' the radio-o-o
-With no particular place to go
-
-Ridin' along in a Mini Metro
-She said to me she loves me so, loves me so, loves me so
-She smiled at me and looked so sweet
-I thought I was in for a treat, in for a treat, in for a treat
-My happy face began to glow-ow-ow
-With no particular, no particular, no particular place to go
-
-
-There's no particular place to go, there's no particular place to go
-There's no particular, no particular, no particular place to go
-To go there's no particular place to go, there's no particular place
-Particular place, particular place, particular ticular place
-
-Temperature's risin' really quick, really quick, really quick
-Then she says she gets car sick, car sick oh no!
-She said her love for me was true, truly true, truly true
-She jumped in the back and began to spew,
-Ridin' along and feeling low-ow-ow-ow-ow-ow-ow
-With no particular place to go
-
-
-
-
 

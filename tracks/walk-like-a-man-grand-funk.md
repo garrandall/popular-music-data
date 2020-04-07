@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walk-like-a-man-grand-funk
-lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/walklikeaman.html
 name: Walk Like A Man
 rankings:
 - end_date: '1973-11-30'
@@ -56,28 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
 ---
-
-
-Walk like a man, and talk like a man.
-Walk like a man, hey baby, you can call me your man.
-
-A little girl asked me what am I gonna' do,
-When I get old and blue and worn clear through?
-And I say by that time I ought to be in my prime,
-I'm gonna' strut like a cock until I'm ninety-nine.
-
-I'm gonna'...
-
-
-
-Sometimes I feel it's gettin' late.
-In life -- all that settlin' down can wait,
-'Till my routine days all seem the same.
-Right now, I've got to get on out, I've got to make my day.
-
-I'm gonna' ...
-
-
-
-
 

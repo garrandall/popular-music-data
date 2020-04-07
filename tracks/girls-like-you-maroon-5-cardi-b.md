@@ -5,7 +5,6 @@ features:
 - Cardi B
 genres: []
 key: girls-like-you-maroon-5-cardi-b
-lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/girlslikeyouonekissforeveryoungmashup.html
 name: Girls Like You
 rankings:
 - end_date: '2018-06-15'
@@ -217,59 +216,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
-
-Spent 24 hours, I need more hours with you
-You spent the weekend getting even, ooh
-We spent the late nights making things right between us
-
-But now it's all good, babe
-Roll that backward, babe
-And play me close
-
-'Cause girls like you run 'round with guys like me
-Till sundown when I come through
-I need a girl like you, yeah yeah
-Girls like you love fun, and yeah, me too
-What I want when I come through
-I need a girl like you
-Yeah yeah yeah
-Yeah yeah yeah, yeah yeah yeah
-I need a girl like you
-Yeah yeah, yeah
-Yeah yeah yeah, yeah yeah yeah
-A girl like you
-
-'Cause something in you lit up heaven in me
-That feeling won't let me sleep
-'Cause I'm lost in the way you move, the way you feel
-
-One kiss is all it takes
-Fallin' in love with me
-Possibilities
-I look like all you need
-One kiss is all it takes
-Fallin' in love with me
-Possibilities
-I look like all you need
-
-Girls like you run 'round with guys like me
-Till sundown when I come through
-I need a girl like you, yeah yeah
-Girls like you love fun, and yeah, me too
-Oh, when I come through
-I need a girl like you, yeah yeah
-
-Forever young, I want to be forever young
-Do you really want to live forever, forever, forever
-Forever young, I want to be forever young, yeah
-Do you really want to live forever, forever, forever
-
-Yeah, yeah, yeah
-I look like all you need
-Yeah, yeah, yeah
-Yeah, yeah, yeah
-I need a girl like you
-Yeah, yeah, yeah
-
-
 

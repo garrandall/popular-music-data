@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: one-moment-in-time-whitney-houston
-lyrics_url: https://www.azlyrics.com/lyrics/darrenespanto/onemomentintime.html
 name: One Moment In Time
 rankings:
 - end_date: '1988-09-16'
@@ -76,51 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
-
-Each day I live
-I want to be a day to give the best of me
-I'm only one, but not alone
-My finest day is yet unknown
-I broke my heart for every gain
-To taste the sweet, I face the pain
-I rise and fall, yet through it all this much remains
-
-I want one moment in time
-When I'm more than I thought I could be
-When all of my dreams are a heart beat away
-And the answers are all up to me
-Give me one moment in time
-When I'm racing with destiny
-and in that one moment of time
-I will feel, I will feel eternity
-
-I've lived to be the very best
-I want it all, no time for less
-I've laid the plans
-Now lay the chance here in my hands
-
-Give me one moment in time
-When I'm more than I thought I could be
-When all of my dreams are a heart beat away
-And the answers are all up to me
-Give me one moment in time
-When I'm racing with destiny
-and in that one moment of time
-I will feel, I will feel eternity
-
-You're a winner for a lifetime
-If you seize that one moment in time
-Make it shine
-
-Give me one moment in time
-When I'm more than I thought I could be
-When all of my dreams are a heart beat away
-And the answers are all up to me
-Give me one moment in time
-When I'm racing with destiny
-and in that one moment of time
-I will be, I will be, I will be free
-I will be, I will be free
-
-
 

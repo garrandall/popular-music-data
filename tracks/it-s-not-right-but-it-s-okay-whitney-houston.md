@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-not-right-but-it-s-okay-whitney-houston
-lyrics_url: https://www.azlyrics.com/lyrics/chvrches/itsnotrightbutitsokay.html
 name: It's Not Right But It's Okay
 rankings:
 - end_date: '1999-05-14'
@@ -88,59 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
 ---
-
-Friday night
-You and your boys went out to eat
-Then they hung out
-But you came home around three
-Now if six of ya'll went out
-Then four of you were really cheap
-'cause only two of you had dinner
-I found your credit card receipt
-
-It's not right, but it's okay
-I'm gonna make it anyway
-Pack your bags up and leave
-Don't you dare come running back to me
-
-It's not right, but it's okay
-I'm gonna make it anyway
-Close the door behind you, leave your keys
-I'd rather be alone than unhappy
-
-I'm packing bags so you can leave town for a week, yes I am
-The phone rings then you look at me
-Why'd you turn and look at me?
-You said it was one of your friends
-Down on 54th street
-So why did 213 show up on your caller ID?
-
-I've been through all this before
-Don't think about it, don't think about it
-Get gone, get gone
-Things are gonna change, baby
-You don't stand a chance, boy
-You don't stand a chance
-Don't you turn around
-There's no more tears left here for you to see
-
-Was it really worth you going out like that?
-See, I'm moving on
-And I refuse to turn back
-See, all of this time
-I thought I had somebody down for with me
-It turns out
-You were making a fool of me
-
-It's not right, but it's okay
-I'm gonna make it anyway
-Pack your bags up and leave
-Don't you dare come running back to me
-
-It's not right, but it's okay
-I'm gonna make it anyway
-Close the door behind you, leave your keys
-I'd rather be alone than unhappy
-
-
 

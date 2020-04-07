@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wanted-dead-or-alive-bon-jovi
-lyrics_url: https://www.azlyrics.com/lyrics/codysimpson/wanteddeadoralive.html
 name: Wanted Dead Or Alive
 rankings:
 - end_date: '1987-04-17'
@@ -76,45 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
 ---
-
-It's all the same, only the names will change
-Everyday it seems we're wasting away
-Another place where the faces are so cold
-I'd drive all night just to get back home
-
-I'm a cowboy, on a steel horse I ride
-I'm wanted dead or alive
-Wanted dead or alive
-
-Sometimes I sleep, sometimes it's not for days
-And people I meet always go their separate ways
-Sometimes you tell the day by the bottle that you drink
-And times when you're all alone all you do is think
-
-And I'm a cowboy, on a steel horse I ride
-I'm wanted (wanted) dead or alive
-Wanted (wanted) dead or alive
-
-Oh and I ride!
-
-I'm a cowboy, on a steel horse I ride
-I'm wanted (wanted) dead or alive
-
-And I walk these streets, a loaded six string on my back
-I play for keeps, 'cause I might not make it back
-I been everywhere, still I'm standing tall
-I've seen a million faces and I've rocked them all
-
-'Cause I'm a cowboy, on a steel horse I ride
-I'm wanted (wanted) dead or alive
-'Cause I'm a cowboy, I got the night on my side
-I'm wanted (wanted) dead or alive
-And I ride, dead or alive
-I still drive, dead or alive
-Dead or alive
-Dead or alive
-Dead or alive
-Dead or alive
-
-
 

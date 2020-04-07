@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: catch-my-breath-kelly-clarkson
-lyrics_url: https://www.azlyrics.com/lyrics/alexgoot/catchmybreath.html
 name: Catch My Breath
 rankings:
 - end_date: '2012-11-09'
@@ -104,64 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
 ---
-
-I don't wanna be left behind
-Distance was a friend of mine
-Catching breath in a web of lies
-I've spent most of my life
-Riding waves, playing acrobat
-Shadowboxing the other half
-Learning how to react
-I've spent most of my time
-
-Catching my breath, letting it go,
-Turning my cheek for the sake of the show
-Now that you know, this is my life,
-And I won't be told what's supposed to be right
-
-Catch my breath, no one can hold me back,
-I ain't got time for that
-Catch my breath, won't let them get me down,
-It's all so simple now
-
-Addicted to the love I found
-Heavy heart, now a weightless cloud
-Making time for the ones that count
-I'll spend the rest of my time
-Laughing hard with the windows down
-Leaving footprints all over town
-Keeping faith, karma comes around
-And I'll spend the rest of my life
-
-Catching my breath, letting it go,
-Turning my cheek for the sake of the show
-Now that you know, this is my life,
-I won't be told what's supposed to be right
-
-Catch my breath, no one can hold me back,
-I ain't got time for that
-Catch my breath, won't let them get me down,
-It's all so simple now
-
-Catching my breath, letting it go,
-Turning my cheek for the sake of the show
-Now that you know, this is my life,
-I won't be told what's supposed to be right
-
-Catching my breath, letting it go,
-Turning my cheek for the sake of the show
-Now that you know, this is my life,
-And I won't be told what's supposed to be right
-
-Catch my breath, no one can hold me back,
-I ain't got time for that
-Catch my breath, won't let them get me down,
-It's all so simple now
-
-Catch my breath, no one can hold me back,
-I ain't got time for that
-Catch my breath, won't let them get me down,
-It's all so simple now
-
-
 

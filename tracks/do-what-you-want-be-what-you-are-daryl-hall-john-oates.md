@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: do-what-you-want-be-what-you-are-daryl-hall-john-oates
-lyrics_url: https://www.azlyrics.com/lyrics/reginevelasquez/kissonmylist.html
 name: Do What You Want Be What You Are
 rankings:
 - end_date: '1976-11-05'
@@ -68,33 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
 ---
-
-My friends wonder why I call you all of the time
-What can I say
-I don't feel the need to give such secrets away
-You think maybe I need help, no, I know that i'm right
-I'm just better off not listening to friends' advice
-
-When they insist on knowing my bliss
-I tell them this
-When they want to know what the reason is
-I only smile when I lie, then I tell them why
-
-(because your kiss) your kiss is on my list
-(because your kiss) your kiss is on my list
-Because your kiss is on my list of the best things in life
-(because your kiss) your kiss is on my list
-(because your kiss) your kiss I can't resist
-
-I go crazy wondering what there is to really see
-Did the night just take up your time, 'cause it means more to me
-Sometimes I forget what i'm doing, I don't forget what i want
-Regret what I've done, regret you? I couldn't go on
-And if you insist on knowing my bliss
-
-I'll tell you this
-If you want to know what the reason is
-I'll only smile when I lie, then I'll tell you this
-
-
 

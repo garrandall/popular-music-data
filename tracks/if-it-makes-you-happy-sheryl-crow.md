@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-it-makes-you-happy-sheryl-crow
-lyrics_url: https://www.azlyrics.com/lyrics/screamingfemales/ifitmakesyouhappy.html
 name: If It Makes You Happy
 rankings:
 - end_date: '1996-09-27'
@@ -116,56 +115,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
-
-I've been long, a long way from here
-Put on a poncho, played for mosquitoes
-And drank 'til I was thirsty again
-We went searching through thrift store jungles
-Found Geronimo's rifle, Marilyn's shampoo
-And Benny Goodman's corset and pen
-
-Well, O.K. I made this up
-I promised you I'd never give up
-
-If it makes you happy
-It can't be that bad
-If it makes you happy
-Then why the hell are you so sad
-
-I've been down, real low down
-You listen to Coltrane, derail your own train
-Well who hasn't been there before?
-I come round, around the hard way
-Bring you comics in bed, scrape the mold off the bread
-And serve you french toast again
-
-Well, O.K. I still get stoned
-I'm not the kind of girl you'd take home
-
-If it makes you happy
-It can't be that bad
-If it makes you happy
-Then why the hell are you so sad
-If it makes you happy
-It can't be that bad
-If it makes you happy
-Then why the hell are you so sad
-
-I've been long, a long way from here
-Put on a poncho, played for mosquitoes
-And drank 'til I was thirsty again
-
-Well, O.K. we get along
-So what if right now everything's wrong?
-
-If it makes you happy
-It can't be that bad
-If it makes you happy
-Then why the hell are you so sad
-If it makes you happy
-It can't be that bad
-If it makes you happy
-Then why the hell are you so sad
-
-
 

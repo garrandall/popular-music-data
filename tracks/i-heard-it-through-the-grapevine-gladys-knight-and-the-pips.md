@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-heard-it-through-the-grapevine-gladys-knight-and-the-pips
-lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/ihearditthroughthegrapevine.html
 name: I Heard It Through The Grapevine
 rankings:
 - end_date: '1967-10-27'
@@ -76,64 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
-
-Mmm-mmm-mmm-mmm
-Yeah, yeah
-Yeah, yeah, yeah
-
-I bet you're wond'rin' how I knew
-About your plans to make me blue
-With some other guy you knew before
-Between the two of us guys you know I love you more
-It took me by surprise I must say
-When I found out yesterday
-Dontcha know that I
-
-Heard it through the grapevine
-Not much longer would you be mine
-Oh I heard it through the grapevine
-Oh I'm just about to lose my mind
-Honey, honey yeah
-(Heard it through the grapevine)
-(Not much longer would you be my baby, ooh, ooh, ooh)
-
-I know a man ain't supposed to cry
-But these tears I can't hold inside
-Losin' you would end my life you see
-'cause you mean that much to me
-You could have told me yourself
-That you love someone else
-Instead I
-
-Heard it through the grapevine
-Not much longer would you be mine
-Oh I heard it through the grapevine
-And I'm just about to lose my mind
-Honey, honey yeah
-(Heard it through the grapevine)
-(Not much longer would you be my baby, ooh, ooh, ooh, ooh, ooh)
-
-People say believe half of what you see
-Son, and none of what you hear
-But I can't help bein' confused
-If it's true please tell me dear
-Do you plan to let me go
-For the other guy you loved before?
-Dontcha know I
-
-Heard it through the grapevine
-Not much longer would you be mine
-Baby I heard it through the grapevine
-Ooh I'm just about to lose my mind
-Honey, honey yeah
-(Heard it through the grapevine)
-(Not much longer would you be my baby, yeah, yeah, yeah, yeah)
-
-Honey, honey, I know
-That you're lettin' me go
-Said I heard it through the grapevine
-
-Heard it through the grapevine
-
-
 

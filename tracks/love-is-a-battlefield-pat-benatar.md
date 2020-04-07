@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-is-a-battlefield-pat-benatar
-lyrics_url: https://www.azlyrics.com/lyrics/chrisnorman/loveisabattlefield.html
 name: Love Is A Battlefield
 rankings:
 - end_date: '1983-09-30'
@@ -96,56 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
 ---
-
-We are young
-Heartache to heartache we stand
-No promises, no demands
-Love is a battlefield
-We are strong, no on can tell us we're wrong
-Searchin' our hearts for so long
-Both of us knowing
-Love is a battlefield
-
-You're beggin' me to go, you're makin' me stay
-Why do you hurt me so bad
-It would help me to know
-Do I stand in your way, or am I the best thing you've had
-Believe me, believe me, I can't tell you why
-But I'm trapped by your love and I'm chained to your side
-
-We are young
-Heartache to heartache we stand
-No promises, no demands
-Love is a battlefield
-We are strong, no once can tell us we're wrong
-Searchin' our hearts for so long
-Both of us knowing
-Love is a battlefield
-
-We're losing control
-Will you turn me away or touch me deep inside
-And before this gets old, will it still feel the same
-There's no way this will die
-But if we get much closer, I could lose control
-And if your heart surrenders, you'll need me to hold
-
-We are young
-Heartache to heartache we stand
-No promises, no demands
-Love is a battlefield
-We are strong, no one can tell us we're wrong
-Searchin' our hearts for so long
-Both of us knowing
-Love is a battlefield
-
-We are young
-Heartache to heartache we stand
-No promises, no demands
-Love is a battlefield
-We are strong, no one can tell us we're wrong
-Searchin' our hearts for so long
-Both of us knowing
-Love is a battlefield
-
-
 

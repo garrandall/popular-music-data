@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dancing-on-the-ceiling-lionel-richie
-lyrics_url: https://www.azlyrics.com/lyrics/overtones/dancingontheceiling.html
 name: Dancing On The Ceiling
 rankings:
 - end_date: '1986-07-25'
@@ -76,39 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
 ---
-
-Oh, what a feeling when we're dancing on the ceiling
-
-What is happening here
-Something going on that's not quite clear
-Somebody turn on the light
-We're gonna have a party, it's starting tonight
-
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-
-The room is hot and that's good
-Some of my friends came by from the neighborhood
-The people starting to climb the walls
-Oh, it looks like everybody is having a ball
-
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-
-Everybody starts to lose control when the music is right
-If you see somebody hanging around, don't get uptight
-The only thing we wanna do tonight
-Is go round and round and turn upside down
-Come on!
-
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling
-
-
 

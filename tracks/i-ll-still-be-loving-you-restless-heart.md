@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-ll-still-be-loving-you-restless-heart
-lyrics_url: https://www.azlyrics.com/lyrics/james/withdrawn.html
 name: I'll Still Be Loving You
 rankings:
 - end_date: '1987-04-17'
@@ -80,42 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
 ---
-
-Withdrawn, muscles all tense
-Nothing flows for the self-obsessed
-Feel all washed up
-
-Restless, can't sit still
-A mental state, or a physical ill
-Toxic, bones all cracked
-Step on a bus, get a panic attack
-
-Of that you took me so high
-Now getting out of bed is enough to make me cry
-Saps all my energy
-That's how it used to be
-You came just in time
-
-Feel all washed up
-Need a wash up
-Need a wash
-
-Restless, muscles all ache
-So tense, watch me shiver as you shake
-Not a dance but a scream by the body at the stake
-Pierces my heart, something's gonna break
-
-Amazed when you cannot deny
-Going out of bed is enough to make you cry
-That's how it used to be before you came by
-
-Screwed up at school
-Hate bad food
-Too many t.v. views live in you (my friend)
-
-Feel all washed up (need a wash)
-Much to take, I'm overcome
-So wash me up with a loving song
-
-
 

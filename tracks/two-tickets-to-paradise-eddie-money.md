@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: two-tickets-to-paradise-eddie-money
-lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/twoticketstoparadise.html
 name: Two Tickets To Paradise
 rankings:
 - end_date: '1978-06-30'
@@ -64,38 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
 ---
-
-Got a surprise especially for you,
-Something that both of us have always wanted to do
-We've waited so long, waited so long
-We've waited so long, waited so long
-
-I'm gonna take you on a trip so far from here
-I've got two tickets in my pocket now, so let's disappear
-We've waited so long, waited so long
-We've waited so long, waited so long
-
-I've got two tickets to paradise
-Won't you pack your bags, we'll leave tonight
-I've got two tickets to paradise
-I've got two tickets to paradise
-
-Oh oh oh oh
-Oh oh oh oh
-
-I'm gonna take you on a trip so far from here
-'Cause I've got two tickets in my pocket now, let's disappear
-We've waited so long, waited so long
-We've waited so long, waited so long
-
-I've got two tickets to paradise
-Won't you pack your bags, we'll leave tonight
-I've got two tickets to paradise
-Won't you pack your bags, we'll leave tonight
-I've got two tickets to paradise
-Won't you pack your bags, we'll leave tonight
-I've got two tickets to paradise
-I've got two tickets to paradise
-
-
 

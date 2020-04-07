@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-i-die-young-the-band-perry
-lyrics_url: https://www.azlyrics.com/lyrics/nightcore/ifidieyoung.html
 name: If I Die Young
 rankings:
 - end_date: '2010-07-30'
@@ -220,58 +219,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
 ---
-
-If I die young, bury me in satin
-Lay me down on a bed of roses
-Sink me in a river at dawn
-Send me away with the words of a love song
-
-Lord make me a rainbow, I'll shine down on my mother
-She'll know I'm safe with you when she stands under my colors, oh,
-And life ain't always what you think it ought to be, no
-Ain't even grey, but she buries her baby
-
-The sharp knife of a short life
-I've had just enough time
-
-If I die young, bury me in satin
-Lay me down on a bed of roses
-Sink me in the river at dawn
-Send me away with the words of a love song
-
-The sharp knife of a short life
-I've had just enough time
-
-And I'll be wearing white, when I come into your kingdom
-I'm as green as the ring on my little cold finger,
-I've never known the lovin' of a woman
-But it sure felt nice whens she was holdin' my hand,
-There's a girl here in town, says she'll love me forever,
-Who would have thought forever could be severed by...
-
-The sharp knife of a short life, well
-I've had just enough time
-
-A penny for my thoughts, oh, no, I'll sell 'em for a dollar
-They're worth so much more after I'm a goner
-And maybe then you'll hear the words I been singin'
-Funny when you're dead how people start listenin'
-
-If I die young, bury me in satin
-Lay me down on a bed of roses
-Sink me in the river at dawn
-Send me away with the words of a love song
-
-If I die young, bury me in satin
-Lay me down on a bed of roses
-Sink me in the river at dawn
-Send me away with the words of a love song
-
-The sharp knife of a short life, well
-I've had just enough time
-
-If I die young, bury me in satin
-Lay me down...
-
-
 

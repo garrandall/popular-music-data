@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: blue-bayou-roy-orbison
-lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/bluebayou.html
 name: Blue Bayou
 rankings:
 - end_date: '1963-09-20'
@@ -48,34 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
 ---
-
-I feel so bad, I got a worried mind
-I'm so lonesome all the time
-Since I left my baby behind on Blue Bayou
-Saving nickels, saving dimes
-Working till the sun don't shine
-Looking forward to happier times on Blue Bayou
-
-I'm going back someday come what may to Blue Bayou
-Where you sleep all day and the catfish play on Blue Bayou
-All those fishing boats with their sails afloat if I could only see
-That familiar sunrise through sleepy eyes how happy I'd be
-
-Gonna see my baby again
-And to be with some of my friends
-Maybe I'd be happier then on Blue Bayou
-Saving nickels, saving dimes
-Working till the sun don't shine
-Looking forward to happier times on Blue Bayou
-
-I'm going back someday gonna stay on Blue Bayou
-Where the folks are fine, and the world is mine
-On Blue Bayou
-And that girl of mine by my side
-The silver moon and the evening tide
-Some sweet day gonna take away this hurting inside
-
-I'll never be blue my dreams come true on Blue Bayou
-
-
 

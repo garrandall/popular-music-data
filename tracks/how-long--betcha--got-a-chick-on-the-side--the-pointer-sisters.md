@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: how-long--betcha--got-a-chick-on-the-side--the-pointer-sisters
-lyrics_url: https://www.azlyrics.com/lyrics/queenlatifah/howlongbetchagotachickontheside.html
 name: How Long (Betcha' Got A Chick On The Side)
 rankings:
 - end_date: '1975-07-25'
@@ -68,47 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
 ---
-
-Betcha got a chick on the side, sure you got a chick
-I know you got a chick on the side
-I know you got a chick on the side
-I know you got a chick on the side
-I know you got a chick on the side
-
-I know you want us both and I know the reason why.
-I can give you so much lovin,
-But presents, she can buy you.
-Last night you're in my arms,
-Tonight I'm all alone
-
-
-How long will this game go on? How long?
-Oh, oh how long?
-
-Betcha got a chick on the side, sure you got a chick.
-I know you got a chick on the side.
-
-And its plain, plain enough to see that
-You're not the man for me.
-I cant keep playin games that keep my heart in pain.
-I want to turn and walk away but its harder to do
-Than it is to say.
-
-
-
-It might hurt me for awhile but of one thing I am sure.
-I'll get over you, yes I'll find someone new.
-Each time I open up my heart,
-It seems to just get torn apart.
-
-
-I saw you, don't you try to hide.
-Don't hide it from me, no, no. no.
-
-
-You thought you would hide it, hide it,
-Hide it from me.
-
-
-
 

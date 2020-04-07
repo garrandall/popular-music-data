@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: never-gonna-let-you-go-faith-evans
-lyrics_url: https://www.azlyrics.com/lyrics/sarahgeronimo/nevergonnaletyougo.html
 name: Never Gonna Let You Go
 rankings:
 - end_date: '1999-07-16'
@@ -88,58 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
 ---
-
-If I had one wish boy
-I'd wish you next to me
-And it could be in summer fall or spring boy
-'cause you make my heart sing
-I wanna give my heart my soul my love to you
-Oh baby oh baby
-'cause every day I'm not with you
-I'm missing you like crazy
-I need for you to...
-
-I need for you to love me hold me touch me
-Down deep in my soul never let it go
-At the love we share no one compares to you
-I'll never let you go 'cause I really love you so
-Oh I...
-I'll never let you go oh no...
-
-If you must know the truth boy
-I'm nothing without you
-Its funny how I know
-What people mean boy
-And it's too good to be true
-Because you bring me joy good love
-Good times such happiness
-Oh baby oh baby
-And every day I thank the lord for you
-I feel so blessed
-I need for you to...
-
-I need for you to love me hold me touch me
-Down deep in my soul never let it go
-Of the love we share no one compares to you
-I'll never let you go 'cause I really love you so
-Oh I...
-I'll never let you go oh no...
-
-If you only knew
-What you really do
-Ain't never had no one that does it quite like you
-You could spend half a lifetime
-Trying to find one like you
-That's why I am so glad I found you
-I wish a upon a star it came true
-Darling I just need for you to...
-
-I need for you to love me hold me touch me
-Down deep in my soul never let it go
-Of the love we share no one compares to you
-I'll never let you go 'cause I really love you so
-Oh I...
-I'll never let you go oh no..
-
-
 

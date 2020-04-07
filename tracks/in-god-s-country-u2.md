@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: in-god-s-country-u2
-lyrics_url: https://www.azlyrics.com/lyrics/academic/ingodscountry.html
 name: In God's Country
 rankings:
 - end_date: '1987-12-11'
@@ -56,30 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
 ---
-
-Desert sky, dream beneath the desert sky
-The rivers run but soon run dry
-We need new dreams tonight
-Desert rose, dreamed I saw a desert rose
-Dress torn in ribbons and bows
-Like a siren she calls (to me)
-
-Sleep comes like a drug in God's country
-Sad eyes, crooked crosses, in God's country
-
-Set me alight, we'll punch a hole right through the night
-Every day the dreamers die to see what's on the other side
-She is liberty, and she comes to rescue me
-Hope, faith, her vanity
-The greatest gift is gold
-
-Sleep comes like a drug in God's country
-Sad eyes, crooked crosses, in God's country
-
-Naked flame, she stands with a naked flame
-I stand with the sons of Cain
-Burned by the fire of love
-Burned by the fire of love
-
-
 

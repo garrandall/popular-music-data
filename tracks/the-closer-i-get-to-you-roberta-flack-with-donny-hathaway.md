@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-closer-i-get-to-you-roberta-flack-with-donny-hathaway
-lyrics_url: https://www.azlyrics.com/lyrics/mymp/thecloserigettoyou.html
 name: The Closer I Get To You
 rankings:
 - end_date: '1978-02-24'
@@ -88,36 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
 ---
-
-The closer I get to you
-The more you'll make me see
-By giving me all you got
-Your love has captured me
-Over and over again
-I try to tell myself that
-We could never be more than friends
-And all the while inside
-I knew it was real
-The way you make me feel
-Lying here in you arms
-Time just seems to fly
-Needing you more and more
-Lets give love a try
-Sweeter than sweeter love grows
-And heavens there for those
-Who fool the tricks of time
-With hearts of love define
-True love
-In a special way
-The closer I get to you
-The more you make me see
-By giving me all Ive got
-Your love has captured me
-Over and over again I try to tell myself
-that we could never be more than friends
-And all the while inside
-I knew it was real
-The way you make me feel
-
-
 

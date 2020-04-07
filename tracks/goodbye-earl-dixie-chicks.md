@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: goodbye-earl-dixie-chicks
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/goodbyeearl.html
 name: Goodbye Earl
 rankings:
 - end_date: '2000-03-24'
@@ -68,67 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
 ---
-
-Mary Anne and Wanda were the best of friends
-All through their high school days
-Both members of the 4H club
-Both active in the FFA
-After graduation Mary Anne went out looking
-For a bright new world
-Wanda looked all around this town
-And all she found was Earl
-
-Well it wasn't two weeks
-After she got married that
-Wanda started getting abused
-She put on dark glasses and long sleeved blouses
-And make-up to cover a bruise
-Well she finally got the nerve to file for divorce
-She let the law take it from there
-But Earl walked right through that restraining order
-And put her in intensive care
-
-Right away Mary Anne flew in from Atlanta
-On a red eye midnight flight
-She held Wanda's hand as they
-Worked out a plan
-And it didn't take long to decide
-
-That Earl had to die
-Goodbye Earl
-You're feeling weak
-Why don't you lay down
-And sleep Earl?
-
-The cops came to bring Earl in
-They searched the house
-High and low
-Then they tipped their hats
-And said "Thank you ladies
-If you hear from him let us know"
-
-Well, the weeks went by and
-Spring turned to summer
-Summer faded into fall
-And it turns out he was a missing person
-Who nobody missed at all
-
-So the girls bought some land
-And a roadside stand
-Out on highway 109
-They sell Tennessee ham
-And strawberry jam
-And they don't
-Lose any sleep at night
-
-Cause Earl had to die
-Goodbye Earl
-We need a break
-Let's go out to the lake, Earl
-We'll pack a lunch
-And stuff you in the trunk, Earl
-Well is that all right
-Good, let's go for a ride, Earl
-
-
 

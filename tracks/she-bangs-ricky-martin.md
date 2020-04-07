@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: she-bangs-ricky-martin
-lyrics_url: https://www.azlyrics.com/lyrics/williamhung/shebangs.html
 name: She Bangs
 rankings:
 - end_date: '2000-10-13'
@@ -80,76 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
 ---
-
-Talk to me, tell me your name
-You blow me off like it's all the same
-You lit a fuse, and now I'm ticking away
-Like a bomb... yeah baby
-
-Talk to me, tell me your sign
-You're switchin' sides like a Gemini
-You're playing games
-And now you're hittin' my heart
-Like a drum... yeah baby
-
-Well if Lady Luck
-Gets on my side
-We're gonna rock this town alive
-I'll let her rough me up
-'Til she knocks me out
-'Cause she walks like she talks
-And she talks like she walks
-
-
-She bangs, she bangs
-Oh baby when she moves, she moves
-I go crazy 'cause she
-Looks like a flower
-But she stings like a bee
-Like every girl in history
-
-She bangs, she bangs
-I'm wasted by the way she moves
-No one ever looked so fine
-She reminds me
-That a woman's got one thing on her mind
-
-Talk to me, tell me the news
-You'll wear me out like a pair of shoes
-We'll dance all night until the band goes home
-Then you're gone... yeah baby
-
-Well, if it looks like love
-Should be a crime
-They better lock me up for life
-I'll do the time
-With a smile on my face
-Thinkin' of her in her
-Leather and lace
-
-
-She bangs, she bangs
-Oh baby when she moves, she moves
-I go crazy 'cause she
-Looks like a flower
-But she stings like a bee
-Like every girl in history
-
-Man, if Lady Luck
-Gets on my side
-We're gonna rock this town alive
-I'll let her rough me up
-'Till she knocks me out
-'Cause she walks like she talks
-And she talks like she walks
-
-
-She bangs, she bangs
-Oh baby when she moves, she moves
-I go crazy 'cause she
-Looks like a flower
-But she stings like a bee
-Like every girl in history
-
-
 

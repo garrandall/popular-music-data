@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: only-happy-when-it-rains-garbage
-lyrics_url: https://www.azlyrics.com/lyrics/newyearsday/onlyhappywhenitrains.html
 name: Only Happy When It Rains
 rankings:
 - end_date: '1996-03-15'
@@ -88,80 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
 ---
-
-
-I'm only happy when it rains
-I'm only happy when it's complicated
-And though I know you can't appreciate it
-I'm only happy when it rains
-You know I love it when the news is bad
-And why it feels so good to feel so sad
-I'm only happy when it rains
-
-Pour your misery down
-Pour your misery down on me
-Pour your misery down
-Pour your misery down on me
-
-I'm only happy when it rains
-I feel good when things are going wrong
-I only listen to the sad, sad songs
-I'm only happy when it rains
-
-
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-(Pour your misery)
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-(Pour your misery)
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-(Pour your misery)
-Pour your misery down
-
-
-You can keep me company
-As long as you don't care
-I'm only happy when it rains, happy when it rains
-When it rains, only happy when it rains
-
-
-Pour your misery down
-Pour your misery down on me
-Pour your misery down
-Pour your misery down
-
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-(Pour your misery)
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-(Pour your misery)
-Pour your misery down
-(Pour your misery)
-Pour your misery down on me
-
-
-I'm only happy when it rains
-You wanna hear about my new obsession?
-I'm riding high upon a deep depression
-I'm only happy when it rains
-
-
-Pour some misery down on me
-(I'm only happy when it rains)
-Pour some misery down on me
-(I'm only happy when it rains)
-Pour some misery down on me
-(I'm only happy when it rains)
-Pour some misery down on me
-(I'm only happy when it rains)
-
-
 

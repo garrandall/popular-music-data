@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: empty-pages-traffic
-lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/emptypages.html
 name: Empty Pages
 rankings:
 - end_date: '1970-09-11'
@@ -40,30 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
 ---
-
-Found someone who can comfort me but there are always exceptions
-And she's good at appearing sane but I just want you to know.
-
-She's the one makes me feel so good when everything is against me
-Picks me up when I'm feeling down, so I've got something to show.
-
-Staring at empty pages, scented by the same old flowers
-Staring at empty pages, flowing along in the ages.
-
-Often lost and forgotten, the vagueness and the mud
-I've been thinking I'm working too hard but I've got something to show.
-
-Staring at empty pages, scented by the same old flowers
-Staring at empty pages, flowing along in the ages.
-
-Staring at empty pages, scented by the same old flowers
-Staring at empty pages, flowing along in the ages.
-
-Often lost and forgotten, the vagueness and the mud
-I've been thinking I'm working too hard but I've got something to show.
-
-You know, found someone who can comfort me but there are always exceptions
-And she's good at appearing sane but I just want you to know.
-
-
 

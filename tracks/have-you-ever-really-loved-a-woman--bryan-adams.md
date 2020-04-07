@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: have-you-ever-really-loved-a-woman--bryan-adams
-lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/haveyoueverreallylovedawoman.html
 name: Have You Ever Really Loved A Woman?
 rankings:
 - end_date: '1995-04-21'
@@ -104,51 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
 ---
-
-To really love a woman, understand her -
-you gotta know her deep inside
-Hear every thought, see every dream
-And give her wings when she wants to fly
-Then when you find yourself lying helpless in her arms
-You know you really love a woman
-When you love a woman,
-Tell her that she's really wanted
-When you love a woman, tell her that she's the one
-'Cause she needs somebody to tell her
-That it's gonna last forever
-So tell me have you ever really
-Really really ever loved a woman?
-To really love a woman
-Let her hold you,
-'Til you know how she needs to be touched
-You've gotta breathe her, really taste her
-'Til you can feel her in your blood
-And when you see your unborn children in her eyes
-You know you really love a woman
-When you love a woman,
-Tell her that she's really wanted
-When you love a woman, tell her that she's the one
-She needs somebody to tell her
-That you'll always be together
-So tell me have you ever really,
-Really really ever loved a woman?
-You got to give her some faith, hold her tight
-A little tenderness, gotta treat her right
-She will be there for you, takin' good care of you
-You really gotta love your woman...
-Then when you find yourself lyin' helpless in her arms
-You know you really love a woman
-When you love a woman, tell her
-That she's really wanted
-When you love a woman tell her that she's the one
-She needs somebody to tell her
-That it's gonna last forever
-So tell me have you ever really,
-Really really ever loved a woman?
-Just tell me have you ever really,
-Really, really, ever loved a woman?
-Just tell me have you ever really,
-Really, really, ever loved a woman?
-
-
 

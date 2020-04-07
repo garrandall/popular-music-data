@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: come-prima-tony-dallara
-lyrics_url: https://www.azlyrics.com/lyrics/mina/comeprima.html
 name: Come Prima
 rankings:
 - end_date: '1958-12-14'
@@ -36,26 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
 ---
-
-Come prima, piÃ¹ di prima t'amerÃ²
-Per la vita, la mia vita ti darÃ²
-Sembra un sogno rivederti, accarezzarti
-Le tue mani fra le mani stringere ancor'
-
-I-Il mio mondo, tutto il mondo sei per me
-A nessuna voglio bene come a te
-Ogni giorno, ogni istante dolcemente ti dirÃ²
-Come prima, piÃ¹ di prima t'amerÃ²
-
-Come prima, piÃ¹ di prima t'amerÃ²
-Per la vita, la mia vita ti darÃ²
-Sembra un sogno rivederti, accarezzarti
-Le tue mani fra le mani stringere ancor'
-
-I-Il mio mondo, tutto il mondo sei per me
-A nessuna voglio bene come a te
-Ogni giorno, ogni istante dolcemente ti dirÃ²
-Come prima, piÃ¹ di prima t'amerÃ²
-
-
 

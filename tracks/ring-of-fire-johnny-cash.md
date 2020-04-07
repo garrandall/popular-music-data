@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: ring-of-fire-johnny-cash
-lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/ringoffire.html
 name: Ring Of Fire
 rankings:
 - end_date: '1963-06-07'
@@ -60,41 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-24'
 ---
-
-Love is a burning thing
-And it makes a fiery ring
-Bound by wild desire
-I fell into a ring of fire
-
-I fell into a burning ring of fire
-I went down, down, down and the flames went higher
-And it burns, burns, burns, the ring of fire
-The ring of fire
-
-I fell into a burning ring of fire
-I went down, down, down and the flames went higher
-And it burns, burns, burns, the ring of fire
-The ring of fire
-
-The taste of love is sweet
-When hearts like ours meet
-I fell for you like a child
-Oh, but the fire went wild
-
-I fell into a burning ring of fire
-I went down, down, down and the flames went higher
-And it burns, burns, burns, the ring of fire
-The ring of fire
-
-I fell into a burning ring of fire
-I went down, down, down and the flames went higher
-And it burns, burns, burns, the ring of fire
-The ring of fire
-
-And it burns, burns, burns, the ring of fire
-The ring of fire
-The ring of fire
-The ring of fire
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: in-the-rain-the-dramatics
-lyrics_url: https://www.azlyrics.com/lyrics/missingpersons/intherain.html
 name: In The Rain
 rankings:
 - end_date: '1972-03-03'
@@ -60,40 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
 ---
-
-I wanna go outside, in the rain
-It may sound crazy, but I
-I wanna go outside, in the rain
-'Cause I, I, I think I'm gonna cry
-And I, I don't want you to see me cry
-
-I wanna go outside, I wanna go outside, in the rain
-It may sound crazy, but I
-I wanna go outside, in the rain
-
-Once the rain starts falling on my face
-You won't see a single a single trace
-Of the tears I think I'm crying
-Because of you I'm crying
-Don't want you to see me cry
-Let me go, let me go, let me go
-
-Once the sun comes out
-And the rain has gone away
-I know I'm gonna see
-A better day
-Right now I think I'm crying
-Because of you I'm crying
-Don't want you to see me cry
-Let me go, let me go, let me go
-
-I wanna go outside, in the rain
-It may sound crazy, but I
-I wanna go outside, in the rain
-
-In the rain
-It may sound crazy, it may sound crazy, but I
-I wanna go outside
-
-
 

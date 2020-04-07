@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: good-times-inxs-jimmy-barnes
-lyrics_url: https://www.azlyrics.com/lyrics/jimmybarnes/goodtimes.html
 name: Good Times
 rankings:
 - end_date: '1987-06-26'
@@ -61,51 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
 ---
-
-Everybody shake
-Everybody move
-Everybody shake
-
-Mary Mary you're on my mind
-Folks are gone and the place will be mine
-Mary Mary wanna be with you
-And this is what I'm gonna do
-I'm gonna put a call to you
-'Cos I feel good tonight
-And everything's gonna be right right right
-
-I'm gonna have a good time tonight
-Rock and roll music gonna play all night
-Come on baby it won't take long
-Only take a minute just to sing my song
-
-Boney Maroney's gonna be with Jim
-I said long tall Sally gonna be with Slim
-Short fat Fanny's gonna be there too
-And this is what I'm gonna do
-I've got to put a call to you
-'Cos I feel good tonight
-And everything's gonna be right right right
-
-I'm gonna have a good time tonight
-Rock and roll music gonna
-Play all night
-Come on baby it won't take long
-Only take a minute just to sing my song
-
-Boney Maroney's gonna be with Jim
-I said long tall Sally gonna be with Slim
-Short fat Fanny's gonna be there too
-And this is what I'm gonna do
-I've got to put a call to you
-'Cos I feel good tonight
-And everything's gonna be right right right
-
-I'm gonna have a good time tonight
-Rock and roll music gonna
-Play all night
-Come on baby it won't take long
-Only take a minute just to sing my song
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: life-s-been-good-joe-walsh
-lyrics_url: https://www.azlyrics.com/lyrics/eagles/lifesbeengood.html
 name: Life's Been Good
 rankings:
 - end_date: '1978-06-16'
@@ -68,61 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
 ---
-
-I have a mansion
-Forget the price
-Ain't never been there
-They tell me it's nice
-
-I live in hotels
-Tear out the walls
-I have accountants
-Pay for it all
-
-They say I'm crazy but I have a good time
-I'm just looking for clues at the scene of the crime
-Life's been good to me so far
-
-My Maserati
-Does one eighty-five
-I lost my license
-Now I don't drive
-
-I have a limo
-Ride in the trunk
-I lock the doors
-In case I get drunk
-
-I make hit records
-My fans they can't wait
-They write Tim letters
-Tell Glenn Don's great
-
-So I got me an office
-Gold records on the wall
-Just leave a message
-Maybe I'll call
-
-Lucky I'm sane after all I've been through
-(Everybody says) I'm cool (He's cool)
-I can't complain but sometimes I still do
-Life's been good to me so far
-
-I go to parties
-Sometimes until four
-It's hard to leave
-When you can't find some more
-
-It's tough to handle
-This fortune and fame
-Everybody's so different
-We're all insane
-
-They say I'm lazy but it takes all my time
-(Everybody says) Oh yeah (Oh yeah)
-I keep on going guess I'll never know why
-Life's been good to me so far
-Yeah, yeah, yeah
-
-
 

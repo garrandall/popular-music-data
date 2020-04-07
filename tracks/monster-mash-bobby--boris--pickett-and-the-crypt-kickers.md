@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: monster-mash-bobby--boris--pickett-and-the-crypt-kickers
-lyrics_url: https://www.azlyrics.com/lyrics/bobbypickett/monstermash.html
 name: Monster Mash
 rankings:
 - end_date: '1962-09-14'
@@ -156,66 +155,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
 ---
-
-I was working in the lab, late one night
-When my eyes beheld an eerie sight
-For my monster from his slab, began to rise
-And suddenly to my surprise
-
-He did the mash, he did the monster mash
-The monster mash, it was a graveyard smash
-He did the mash, it caught on in a flash
-He did the mash, he did the monster mash
-
-From my laboratory in the castle east
-To the master bedroom where the vampires feast
-The ghouls all came from their humble abodes
-To get a jolt from my electrodes
-
-They did the mash, they did the monster mash
-The monster mash, it was a graveyard smash
-They did the mash, it caught on in a flash
-They did the mash, they did the monster mash
-
-The zombies were having fun
-The party had just begun
-The guests included Wolfman
-Dracula, and his son
-
-The scene was rockin', all were digging the sounds
-Igor on chains, backed by his baying hounds
-The coffin-bangers were about to arrive
-With their vocal group, 'The Crypt-Kicker Five'
-
-They played the mash, they played the monster mash
-The monster mash, it was a graveyard smash
-They played the mash, it caught on in a flash
-They played the mash, they played the monster mash
-
-Out from his coffin, Drac's voice did ring
-Seems he was troubled by just one thing
-Opened the lid and shook his fist and said
-"Whatever happened to my Transylvania Twist?"
-
-It's now the mash, it's now the monster mash
-The monster mash, and it's a graveyard smash
-It's now the mash, it caught on in a flash
-It's now the mash, it's now the monster mash
-
-Now everything's cool, Drac's a part of the band
-And my Monster Mash is the hit of the land
-For you, the living, this mash was meant too
-When you get to my door, tell them Boris sent you
-
-Then you can mash, then you can monster mash
-The monster mash, and do my graveyard smash
-Then you can mash, you will catch on in a flash
-Then you can mash, then you can monster mash
-
-Wah-ooh, argh, monster mash, wah-ooh
-Easy, Igor, you impetuous young boy
-Argh, mash good, mm, argh
-Monster mash, wah-ooh, monster mash, wah-ooh
-
-
 

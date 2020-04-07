@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: sleep-walk-santo-johnny
-lyrics_url: https://www.azlyrics.com/lyrics/reneeolstead/sleepwalk.html
 name: Sleep Walk
 rankings:
 - end_date: '1959-08-02'
@@ -81,23 +80,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
-
-Sleepwalk, instead of dreaming I sleepwalk,
-Cause I lost you and now what am I to do,
-Can't believe that we're through
-
-Sleep talk, cause I miss you I sleep talk,
-While the memories of you wither like a soul,
-Darling I was so low
-
-The night fills me only blame, I see your face,
-Tears through my brain,
-I know I miss you so, I still love you,
-Drives me insane
-
-Sleepwalk, every night I just sleepwalk,
-Please come back and when you walk inside the door
-I will sleepwalk no more.
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: modern-love-david-bowie
-lyrics_url: https://www.azlyrics.com/lyrics/biffyclyro/modernlove.html
 name: Modern Love
 rankings:
 - end_date: '1983-09-23'
@@ -60,60 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
 ---
-
-I know when to go out
-And when to stay in
-Get things done
-
-I catch a paper boy
-But things don't really change
-I'm standing in the wind
-But never wave bye-bye
-
-But I try
-I try
-
-Modern love walks beside
-Modern love walks on by
-Modern love gets me to the church on time
-
-Church on time terrifies
-Church on time makes me party
-Church on time puts my trust in
-(God and man)
-(God and man)
-
-It's not really work, it's just the power to charm
-Still standing in the wind
-But never wave bye-bye
-
-But I try
-I try
-
-Modern love walks beside
-Modern love walks on by
-Modern love gets me to the church on time
-
-Church on time terrifies
-Church on time makes me party
-Church on time puts my trust in God and man
-
-God and man no confessions
-God and man no religion
-God and man don't believe in modern love
-
-Modern love walks beside
-Modern love walks on by
-Modern love gets me to the church on time
-
-Modern love
-Modern love
-Modern love
-Modern love
-Modern love
-Modern love
-Modern love
-Modern love
-
-
 

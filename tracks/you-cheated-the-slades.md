@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-cheated-the-slades
-lyrics_url: https://www.azlyrics.com/lyrics/slade/howcanitbe.html
 name: You Cheated
 rankings:
 - end_date: '1958-08-10'
@@ -56,32 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
-
-How can a woman eat up a man? - How can it be? How can it be? 
-How can a lady cheat, well she can? - How can it be? How can it be? 
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be 
-
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be 
-How can a loser change to a winner? - How can it be? How can it be? 
-How can a daydream change to a has-been? - 
-How can it be? How can it be? 
-
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be 
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be 
-
-How can a tear drop dry up into laughter? - 
-How can it be? How can it be? 
-How can a lover, a lover turn it on the other?- 
-How can it be? How can it be? 
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be 
-
-Well you know why and baby I could sit and cry and sigh 
-And we know the reason why, how it can be . . . . aaaaaaahhhhhhhhh
-
-
 

@@ -6,7 +6,6 @@ artists:
 features: []
 genres: []
 key: your-love-marilyn-mccoo-billy-davis-jr-
-lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/ohhowhappy.html
 name: Your Love
 rankings:
 - end_date: '1977-03-25'
@@ -54,72 +53,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
 ---
-
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-
-I have kissed your lips
-A thousand times
-And more times than I can count
-I have called you mine
-You have stood by me
-In my darkest hours
-
-Sing
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-
-In our years together
-We've stormy weathers
-But our love has been so strong
-For some how we carry on
-
-Sing
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-Ooh, ooh
-
-You brought joy
-To my empty life, yeah
-And all that was wrong
-You made it right
-Our love
-My love
-Our love
-My love
-Our love
-Yeah, yeah, yeah, yeah
-
-Oh how happy
-You have made me
-Oh how happy
-You have made me
-
-Oh how happy
-(Oh how happy)
-Oh how happy
-(Oh how happy)
-Oh how happy, ooh you
-You have made me
-(You have made me)
-You have made me
-(You have made me)
-You have made me
-(Yeah you have made me happy)
-You have made me
-(Oh how happy)
-You have made me
-(Yeah you have made me happy)
-
-
 

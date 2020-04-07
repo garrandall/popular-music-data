@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: please-stay-the-drifters
-lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/pleasestay.html
 name: Please Stay
 rankings:
 - end_date: '1961-06-11'
@@ -56,42 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
 ---
-
-Don't go (please stay)
-Don't go (please stay)
-
-If I got on my knees and I pleaded with you
-Not to go but to stay in my arms
-Would you walk out the door like you did once before?
-Or would this time be different, would you stay?
-
-Don't go (please stay)
-Don't go
-
-If I called out your name like a prayer in the night
-Would you leave me alone with my tears?
-Knowing i-i, I love you so-o, would you still turn and go?
-Or would this time be different in some way?
-
-Don't go (please stay)
-(Please stay)
-
-You took me away from the rest of the world
-When you taught me to love you like this
-Now I hang by a thread in the canyon of doom
-But I still can be saved... by your kiss
-
-If I got on my knees and I pleaded with you
-Not to go but to stay in my arms
-Would you walk out the door like you did once before?
-Or would this time be different, would you stay?
-
-(Don't go)
-(Please stay)
-(Don't go)
-(Please stay)
-(Don't go)
-(Please sta-ay-ay-ay-ay...)
-
-
 

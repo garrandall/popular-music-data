@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: california-dreamin--the-mamas-the-papas
-lyrics_url: https://www.azlyrics.com/lyrics/sia/californiadreamin.html
 name: California Dreamin'
 rankings:
 - end_date: '1966-01-14'
@@ -77,29 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
-
-All the leaves are brown and the sky is gray
-I've been for a walk on a winter's day
-I'd be safe and warm if I was in L.A
-California dreamin' on such a winter's day
-
-
-I stopped into a church I passed along the way
-Well I got down on my knees and I pretended to pray
-You know the preacher likes the cold, he knows I'm gonna stay
-California dreamin' on such a winter's day
-
-I'd be safe and warm
-I'd be safe and warm
-I'd be safe and warm
-I'd be safe and warm
-
-All the leaves are brown and the sky is gray
-I've been for a walk on a winter's day
-If I didn't go, I could leave today
-California dreamin' on such a winter's day
-Oh such a winter's day
-On such a winter's day
-
-
 

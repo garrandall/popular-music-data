@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-lies-breathe
-lyrics_url: https://www.azlyrics.com/lyrics/heidimontag/trashme.html
 name: Don't Tell Me Lies
 rankings:
 - end_date: '1989-01-20'
@@ -72,72 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
 ---
-
-Woo-hoo
-Woo-hoo
-
-Trust is such a tricky little thing
-True colors always show
-You think just cuz ya see me on the Internet
-But baby you dont know
-
-You wanna see me
-Cry
-
-Love me! Love me!
-When Im up you love me
-Trash me! Trash me!
-When Im down you trash me
-Leave me! Leave me! (ooooo)
-Save all the drama for some other mama cuz Im just a baby, I really dont wanna
-Trash you
-
-My list of what I need to be chill 
-It dont include your name
-Step inside my mind and have a look around
-Youre not in the frame
-
-You waste my breathe 
-Why?
-
-Love me! Love me!
-When Im up you love me
-Trash me! Trash me!
-When Im down you trash me
-Leave me! Leave me! (ooooo)
-Save all the drama for some other mama cuz Im just a baby, I really dont wanna
-Trash you (trash you)
-
-People telling lies, can you hear the sound?
-Clicking day and night, try to turn it down
-Popping out at me- getting louder now
-(up up up up)
-Like a pendulum swinging on and on
-Playing in my head, like a hooky song
-Will it ever end, am I right or wrong?
-(stop stop stop stop)
-
-Love me! Love me!
-When Im up you love me
-Trash me! Trash me!
-When Im down you trash me
-Leave me! Leave me! (ooooo)
-Save all the drama for some other mama cuz Im just a baby, I really dont wanna
-Trash you
-Love me! Love me!
-When Im up you love me
-Trash me! Trash me!
-When Im down you trash me
-Leave me! Leave me! (ooooo)
-Save all the drama for some other mama cuz Im just a baby, I really dont wanna
-Trash you 
-
-Trash you
-Trash you (ohhh trash me)
-Trash you
-Trash you
-Save all the drama for some other mama cuz Im just a baby, I really dont wanna
-Trash you
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: johnny-b-hooters
-lyrics_url: https://www.azlyrics.com/lyrics/equilibrium/johnnyb.html
 name: Johnny B
 rankings:
 - end_date: '1987-07-24'
@@ -52,37 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
 ---
-
-It's a sleepless night, She's callin' your name
-It's a lonely ride, I know how you want her
-Again and Again, you're chasin' a dream yeah
-But Johnny my friend, she's not what she seems
-
-Johnny B, how much there is to see
-Just open your eyes and listen to me
-Straight ahead, a green light turns to red
-Oh why can't you see, oh Johnny B
-
-And when you drive her home, is she sittin' real close
-Does she make you weak, well that's the way that she wants you
-You're strung out again, she's taken you over
-You've been here before, why can't you let go
-
-Johnny B, how much there is to see
-Just open your eyes and listen to me
-Straight ahead, a green light turns to red
-Oh why can't you see, oh Johnny B
-
-And when she calls your name, my sweet Johnny B
-You can drive all night and you know she'll be waiting
-To love you again, her kiss is her poison
-Forever inside you, wherever you go
-
-Johnny B, how much there is to see
-Just open your eyes and listen to me
-Straight ahead, a green light turns to red
-Oh why can't you see, oh Johnny B
-Oh why can't you see
-
-
 

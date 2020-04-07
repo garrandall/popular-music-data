@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-me-out-franz-ferdinand
-lyrics_url: https://www.azlyrics.com/lyrics/scissorsisters/takemeout.html
 name: Take Me Out
 rankings:
 - end_date: '2004-07-09'
@@ -84,58 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
 ---
-
-So if you're lonely
-You know I'm here waiting for you
-I'm just a crosshair
-I'm just a shot away from you
-And if you leave here
-You leave me broken, shattered I lie
-I'm just a crosshair
-I'm just a shot then we can die
-
-I know I wont be leaving here with you
-
-(I say) I say don't you know
-(You say) You say you don't you know
-I say, I say take me out
-
-I stay, you don't show
-Don't move, time is low
-I say, I say take me out
-
-(I say) I say don't you know
-(You say) You say you don't go
-I say, I say take me out
-
-If I move this could die
-If eyes move this could die
-I want you, I want you to take me out
-
-I know I wont be leaving here
-I know I wont be leaving here
-I know I wont be leaving here
-I know I wont be leaving here
-With you
-
-(I say) I say don't you know
-(You say) You say you don't know
-I say, I say take me out
-
-If I wait this could die
-If I wane this could die
-I want you, I want you to take me out
-
-If I move this could die
-If eyes move this could die
-Come on you, come on you
-Take me out
-
-I know I wont be leaving here
-I know I wont be leaving here
-I know I wont be leaving here
-I know I wont be leaving here
-With you
-
-
 

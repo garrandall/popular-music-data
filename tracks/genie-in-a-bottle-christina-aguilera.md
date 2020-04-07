@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: genie-in-a-bottle-christina-aguilera
-lyrics_url: https://www.azlyrics.com/lyrics/dovecameron/genieinabottle.html
 name: Genie In A Bottle
 rankings:
 - end_date: '1999-07-09'
@@ -108,87 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
 ---
-
-I feel like I've been locked in tight
-For a century of lonely nights
-Waiting for someone to release me
-
-You're thinking you're in
-Blowing kisses my way
-But that don't mean
-I'm gonna hear what you say
-Baby, baby
-
-My mind is saying, "Let's go"
-But my heart is saying, "No"
-
-If you wanna be with me
-Baby, there's a price to pay
-I'm a genie in a bottle
-You gotta ask me the right way
-If you wanna be with me
-I can make your wish come true
-You gotta make a big impression
-I've gotta like what you do
-
-I'm a genie in a bottle, baby
-Gotta catch me the right way, honey
-I'm a genie in a bottle, baby
-Come, come, come on and let me out
-
-The music's fading and the light's down low
-Just one more dance and then we're good to go
-Waiting for someone who gets me
-
-Mind is racing at the speed of light
-Let's go and have a little fun tonight
-Baby, baby
-
-My mind is saying, "Let's go"
-But my heart is saying, "No"
-
-If you wanna be with me
-Baby, there's a price to pay
-I'm a genie in a bottle
-You gotta ask me the right way
-If you wanna be with me
-I can make your wish come true
-Just come and set me free, baby
-And I'll be with you
-
-I'm a genie in a bottle, baby
-Gotta catch me the right way, honey
-I'm a genie in a bottle, baby
-Come, come, come on and let me out
-
-I'm a genie in a bottle, baby
-Gotta catch me the right way, honey
-I'm a genie in a bottle, baby
-Come, come, come on and let me out
-
-My mind is saying, "Let's go"
-But my heart is saying, "No"
-
-If you wanna be with me
-Baby, there's a price to pay
-I'm a genie in a bottle
-You gotta ask me the right way
-If you wanna be with me
-I can make your wish come true
-Just come and set me free, baby
-And I'll be with you
-
-I'm a genie in a bottle, baby
-Gotta catch me the right way, honey
-I'm a genie in a bottle, baby
-Come, come, come on and let me out
-
-I'm a genie in a bottle, baby
-Gotta catch me the right way, honey
-I'm a genie in a bottle, baby
-Come, come, come on and let me out
-
-I'm a genie in a bottle, baby
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-me-home-country-roads-john-denver
-lyrics_url: https://www.azlyrics.com/lyrics/homefree/takemehomecountryroads.html
 name: Take Me Home Country Roads
 rankings:
 - end_date: '1971-04-16'
@@ -100,50 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
 ---
-
-Almost heaven, West Virginia
-Blue Ridge Mountains, Shenandoah River
-Life is old there, older than the trees
-Younger than the mountains, blowing like a breeze
-
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mamma
-Take me home, country roads
-
-All my memories gather round her
-Miner's lady, stranger to blue water
-Dark and dusty, painted on the sky
-Misty taste of moonshine, teardrop in my eye
-
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mamma
-Take me home, country roads
-
-I hear her voice in the morning hour, she calls me
-The radio reminds me of my home far away
-Driving down the road I get a feeling
-That I should have been home yesterday, yesterday
-
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mamma
-Take me home, country roads
-
-Country roads, yeah
-My country roads
-Take me home
-And I feel like I should have been home yesterday
-Take me home, country roads
-I've been away too long
-
-Take me home, country roads
-Take me home yeah
-Take me home, country roads
-Take me home, oh mountain mamma
-Take me home, country roads
-Take me home, country roads
-
-
 

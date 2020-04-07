@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-want-you-to-be-my-boy-the-exciters
-lyrics_url: https://www.azlyrics.com/lyrics/blackstar/bboyswillbboys.html
 name: I Want You To Be My Boy
 rankings:
 - end_date: '1965-01-22'
@@ -12,83 +11,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
 ---
-
-
-Yo yo, yo, whassup, yo yo
-Yo yo, we gonna, we gonna slow it down
-so we can speed it up y'all
-Right now I want everybody come to the front
-That's right, move forward
-I want all the poppers and the breakers, to form this circle
-I want all the poppers and the breakers
-The writers and the exciters, to get in this circle
-and make it real live yo
-Cause I'm seein too many stars up in here tonight yo
-I'm seein the Rock Steady Crew
-I'm seein Ken Swift, I'm seein Mr. Wiggles
-I'm seein Modesho, I'm seein Crazy Legs
-Man I'm seein the Zulu Nation up in here
-I'm seein the Rawkus family, Shabaam Shadeeq, Company Flow
-Menelik, I'm seein G-ology, Shawn J. Period
-Man this the Black Star movement
-Mos Def, Talib Kweli we gon' keep it live
-for the b boys and b girls universally
-Rock Steady Japan, Rock Steady Europe
-Rock Steady New York, yo we just gonna keep it live
-all over the world -- get live
-
-
-Party people, in the place to be
-My name is Talib Kweli
-Yo, I got my man on the side of me
-Mos Def-initely, and we, are
-
- Black Star
- G Young
- Hi-Tek
- Native Tongue
- Shawn J.
- Eighty-eight
- Ninety-eight
-we bout to motivate, come on y'all
-
-
-
-Here's a little story that must be told
-About two young brothers who was put on hold
-They tried to stop the goal
-We on a spiritual plane
-Tried to kill the pride
-And destroy the name
-We just two bad brothers
-Who will never quit
-I'm Mos Def
-Kweli (WE THE ULTIMATE)
-Make sure that you tell
-Everybody you know
-To get on line
-Take a ride
-To the Black Star show!
-Black Star
-Shinin
-Shinin, we in the house
-Shinin
-Shinin, we in the house y'all
-Black Star
-Shinin
-Shinin, we in the house
-Shinin
-Shinin, we in the house y'all
-Black Star
-Shinin
-Shinin, we in the house
-Shinin
-Shinin, we in the house y'all
-Black Star
-Shinin
-Shinin, we in the house
-Shinin
-Shinin, we in the house y'all
-
-
 

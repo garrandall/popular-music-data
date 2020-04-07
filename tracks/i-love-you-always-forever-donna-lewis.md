@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-love-you-always-forever-donna-lewis
-lyrics_url: https://www.azlyrics.com/lyrics/bettywho/iloveyoualwaysforever.html
 name: I Love You Always Forever
 rankings:
 - end_date: '1996-06-28'
@@ -172,69 +171,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
 ---
-
-Feels like I'm standing in a timeless dream
-Of light mist, of pale amber rose
-Feels like I'm lost in a deep cloud of heavenly scent
-Touching, discovering you
-
-Those days of warm rains come rushing back to me
-Miles of windless summer night air
-Secret moments shut in the heat of the afternoon
-Out of the stillness, soft spoken words
-
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-
-You've got the most unbelievable blue eyes I've ever seen
-You've got me almost wilting away
-As we lay there, under a blue sky with pure white stars
-It's all the sweetness, magical time
-
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-
-Say you'll l-love me forever
-Never stop, never whatever
-Near and far and always
-And everywhere and every
-Say you'll l-love me forever
-Never stop, never whatever
-Near and far and always
-And everywhere and every
-Say you'll l-love me forever
-Never stop, never whatever
-Near and far and always
-And everywhere and every
-Say you'll l-love me forever
-Never stop, never whatever
-Near and far and always
-And everywhere and everything
-
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-I love you always, forever
-Near and far, closer together
-Everywhere I will be with you
-Every sin, I will do for you
-
-
 

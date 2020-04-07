@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hey-there-lonely-girl-eddie-holman
-lyrics_url: https://www.azlyrics.com/lyrics/stacylattisaw/heytherelonelyboy.html
 name: Hey There Lonely Girl
 rankings:
 - end_date: '1970-01-02'
@@ -64,35 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
-
-Hey, there lonely boy, lonely boy
-Let me make your broken heart like new
-Hey, there lonely boy, lonely boy
-Don't you know this lonely girl loves you
-
-Ever since she broke your heart, you seem so lost
-Each time you pass my way
-Oh, how I long to take your hand and say "Don't cry
-I'll kiss your tears away"
-
-Hey, there lonely boy, lonely boy
-Let me make your broken heart like new
-Hey, there lonely boy, lonely boy
-Don't you know this lonely girl loves you
-
-You think that only her two lips can kiss your lips
-And make your heart stand still
-But once you're in my eyes you'll see
-No one can kiss your lips the way I will, the way I will
-
-And hey, there lonely boy, lonely boy
-Let me make your broken heart like new
-Hey, there lonely boy, my only boy
-Don't you know this lonely girl loves you
-
-Hey, there lonely boy, my only boy
-Don't you know this lonely girl loves you
-(Lonely boy loves you)
-
-
 

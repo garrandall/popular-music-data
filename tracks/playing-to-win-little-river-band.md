@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: playing-to-win-little-river-band
-lyrics_url: https://www.azlyrics.com/lyrics/johnfarnham/playingtowin.html
 name: Playing To Win
 rankings:
 - end_date: '1985-02-01'
@@ -40,59 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
-
-If you want me, come and get me,
-You don't have a chance if you don't move now.
-I'm not waiting, Any longer,
-Know that I'm playing to win this time.
-
-When you make your move,
-I won't hesitate.
-If you take too long, 
-You can be too late.
-This time I'm playing to win.
-
-If you want me, come and see me,
-Don't wait around for another chance.
-Make your mind up, make your play,
-You should be playing to win this time.
-
-When you make your move,
-I won't hesitate.
-You can take too long, 
-You can be too late.
-This time I'm playing to win.
-
-All those wasted years,
-Didn't know, I was only a motion away.
-I got what I wanted for me, 
-I didn't see it was not going to be there.
-I was a fool.
-
-This time I'm playing to win.
-
-If you want me, come and get me,
-You don't have a chance if you don't move now.
-I'm not waiting, Any longer,
-Know that I'm playing to win this time.
-
-When you make your move,
-I won't hesitate.
-If you take too long, 
-You can be too late.
-This time I'm playing to win.
-
-When you make your move,
-I won't hesitate.
-If you take too long, 
-You can be too late.
-This time I'm playing to win.
-
-This time I'm playing to win 
-(You know that I've made up my mind)
-This time I'm playing to win 
-(wohoaaahhhh)
-This time I'm playing to win.
-
-
 

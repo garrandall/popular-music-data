@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rock-on-david-essex
-lyrics_url: https://www.azlyrics.com/lyrics/defleppard/rockon.html
 name: Rock On
 rankings:
 - end_date: '1973-11-16'
@@ -108,52 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
 ---
-
-Hey kid, rock and roll
-Rock on, ooh, my soul
-Hey kid, boogey too, did ya
-
-Hey shout, summertime blues
-Jump up and down in my blue suede shoes
-Hey kid, rock and roll, rock on
-
-And where do we go from here
-Which is the way that's clear
-
-Still looking for that blue jean, baby queen
-Prettiest girl I ever seen
-See her shake on the movie screen, Jimmy Dean
-(James Dean)
-
-And where do we go from here
-Which is the way that's clear
-
-Still looking for that blue jean, baby queen
-Prettiest girl I ever seen
-See her shake on the movie screen, Jimmy Dean
-Jimmy Dean
-Rock on
-Rock on
-Rock on
-
-Hey, hey
-Rock and roll
-Rock on
-
-Rock on
-Hey, hey
-Rock and roll
-Rock on
-
-Rock on
-Hey, hey
-Rock and roll
-Rock on
-
-Rock on
-Hey, hey
-Rock and roll
-Rock on...
-
-
 

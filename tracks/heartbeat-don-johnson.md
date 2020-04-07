@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: heartbeat-don-johnson
-lyrics_url: https://www.azlyrics.com/lyrics/alexzjohnson/heartbeatbeatinyouup.html
 name: Heartbeat
 rankings:
 - end_date: '1986-08-29'
@@ -68,52 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
 ---
-
-Breathing, beating, the only sound
-You're falling, an earthquake shakes the ground
-And just as you're stepping, you're slipping away
-You're hiding inside of the pain
-The particles shifting along with the stars
-You don't even know where you are, are
-
-It's just your heartbeat, heartbeat - Fucking around
-It's just your fucked up heartbeat - Bringing you down
-Now you're banged up, lovestruck - Covered in blood
-It's just your heartbeat, heartbeat, beat, beat - Beatin' you up
-
-You're red, we'll see how far you can get
-Need an exit out
-We all thought you had it so deep in the game
-Inside you were wasting away
-Everything's shattered and covered in glass
-This heartache is kicking your ass
-
-It's just your heartbeat, heartbeat - Fucking around
-It's just your fucked up heartbeat - Bringing you down
-Now you're banged up, lovestruck - Covered in blood
-It's just your heartbeat, heartbeat, beat, beat - Beatin' you up
-
-Heartbeat, heartbeat
-Heartbeat, beatin' you up
-Heartbeat, heartbeat
-Heartbeat, beatin' you up
-
-Breathing, beating, the only sound
-You're falling, an earthquake shakes the ground
-
-It's just your heartbeat, heartbeat - Fucking around
-It's just your fucked up heartbeat - Bringing you down
-Now you're banged up, lovestruck - Covered in blood
-It's just your heartbeat, heartbeat, beat, beat - Beatin' you up
-
-It's just your heartbeat, heartbeat
-Fucking around (it's fucking around)
-It's just your fucked up heartbeat
-Bringing you down (it's bringing you down)
-Now you're banged up, lovestruck
-Covered in blood (covered in blood)
-It's just your heartbeat, heartbeat
-Beat, beat, beatin' you up (it's beatin' you up)
-
-
 

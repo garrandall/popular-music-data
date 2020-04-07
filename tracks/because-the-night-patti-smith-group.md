@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: because-the-night-patti-smith-group
-lyrics_url: https://www.azlyrics.com/lyrics/cascada/becausethenight.html
 name: Because The Night
 rankings:
 - end_date: '1978-04-14'
@@ -80,48 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
-
-Take me now, baby, here as I am
-Hold me close, try and understand
-Desire is hunger is the fire I breathe
-Love is a banquet on which we feed
-
-Come on now, try and understand
-The way I feel when I'm in your hands
-Take my hand, come under cover
-They can't hurt you now, can't hurt you now
-Can't hurt you now
-
-Because the night belongs to lovers
-Because the night belongs to lust
-Because the night belongs to lovers
-Because the night belongs to us
-
-Because the night belongs to lovers
-Because the night belongs to lust
-Because the night belongs to lovers
-Because the night belongs to us
-
-Have I a doubt, baby when I'm alone
-Love is a ring at telephone
-Love is an angel, disguised as lust
-Here in our bed 'til the morning comes
-
-Come on now, try and understand
-The way I feel, under your command
-Take my hand as the sun descends
-They can't touch you now, can't touch you now
-Can't touch you now
-
-Because the night belongs to lovers
-Because the night belongs to lust
-Because the night belongs to lovers
-Because the night belongs to us
-
-Because the night belongs to lovers
-Because the night belongs to lust
-Because the night belongs to lovers
-Because the night belongs to us
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: vivir-mi-vida-marc-anthony
-lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/vivirmivida.html
 name: Vivir Mi Vida
 rankings:
 - end_date: '2013-08-16'
@@ -28,53 +27,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
 ---
-
-A veces llega la lluvia
-Para limpiar las heridas
-A veces sÃ³lo una gota
-Puede vencer la sequÃ­a
-
-Y para quÃ© llorar, Â¿pa' quÃ©?
-Si duele una pena, se olvida
-Y para quÃ© sufrir, Â¿pa' quÃ©?
-Si asÃ­ es la vida, hay que vivirla
-
-Voy a reÃ­r, voy a bailar
-Vivir mi vida, la, la, la, la
-Voy a reÃ­r, voy a gozar
-Vivir mi vida, la, la, la, la
-
-Voy a vivir el momento
-Para entender el destino
-Voy a escuchar en silencio
-Para encontrar el camino
-
-Y para quÃ© llorar, Â¿pa' quÃ©?
-Si duele una pena, se olvida
-Y para quÃ© sufrir, Â¿pa' quÃ©?
-Si duele una pena, se olvida
-
-Voy a reÃ­r, voy a bailar
-Vivir mi vida, la, la, la, la
-Voy a reÃ­r, voy a gozar
-Vivir mi vida, la, la, la, la
-
-Voy a reÃ­r, voy a bailar
-Â¿Pa' quÃ© llorar? Â¿Pa' quÃ© sufrir?
-Empieza a soÃ±ar, a reÃ­r
-Voy a reÃ­r, voy a bailar
-Siente y baila y goza
-Que la vida es una sola
-Voy a reÃ­r, voy a bailar
-Vive, sigue, siempre pa'lante
-No mires p'atrÃ¡s
-
-Voy a reÃ­r, voy a gozar
-Vivir mi vida, la, la, la, la
-Voy a reÃ­r
-Vivir mi vida, la, la, la, la
-Voy a gozar
-La, la, la, la
-
-
 

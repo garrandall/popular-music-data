@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stay-awake-ronnie-laws
-lyrics_url: https://www.azlyrics.com/lyrics/kyla/stayawake.html
 name: Stay Awake
 rankings:
 - end_date: '1981-09-18'
@@ -44,37 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-07'
 ---
-
-Another day, another place
-Another night and you're not here
-Once again far from home
-All alone to play my song
-I know in just a little while
-I'll be right there to see your face
-But until I can
-
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-
-In a special way I need your touch
-To fill the warmth that comforts me
-And you know it's true
-All and all I'd rather spend this time with you
-But until I can
-
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-(I stay awake and I want you, baby)
-I stay awake and I want you by my side
-...
-
-
 

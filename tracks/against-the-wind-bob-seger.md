@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: against-the-wind-bob-seger
-lyrics_url: https://www.azlyrics.com/lyrics/ronniedunn/againstthewind.html
 name: Against The Wind
 rankings:
 - end_date: '1980-05-09'
@@ -76,67 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
 ---
-
-It seems like yesterday
-But it was long ago
-Janey was lovely she was the queen of my nights
-There in the darkness with the radio playing low
-And the secrets that we shared
-The mountains that we moved
-Caught like a wildfire out of control
-'Til there was nothing left to burn and nothing left to prove
-
-And I remember what she said to me
-How she swore that it never would end
-I remember how she held me oh so tight
-Wish I didn't know now what I didn't know then
-
-Against the wind
-We were runnin' against the wind
-We were young and strong, and runnin'
-Against the wind
-
-The years rolled slowly past
-And I found myself alone
-Surrounded by strangers I thought were my friends
-I found myself further and further from my home
-And I guess I lost my way
-There were oh so many roads
-I was living to run and running to live
-Never worried about paying or even how much I owed
-
-Moving eight miles a minute for months at a time
-Breaking all of the rules that would bend
-I began to find myself searching
-Searching for shelter again and again
-
-Against the wind
-A little something against the wind
-I found myself seeking shelter
-Against the wind
-
-Well those drifter's days are past me now
-I've got so much more to think about
-Deadlines and commitments
-What to leave in, what to leave out
-
-Against the wind
-I'm still runnin' against the wind
-Well I'm older now but still runnin'
-Against the wind
-Yeah I'm older now and still runnin'
-Against the wind
-Against the wind
-Against the wind
-Against the wind
-
-Let the cowboys ride
-
-Against the wind
-Against the wind
-Still runnin' against the wind
-Against the wind
-...
-
-
 

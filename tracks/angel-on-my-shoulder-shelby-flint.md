@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: angel-on-my-shoulder-shelby-flint
-lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/angelonmyshoulder.html
 name: Angel On My Shoulder
 rankings:
 - end_date: '1961-01-01'
@@ -56,41 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
 ---
-
-Got an angel on my shoulder
-Got a penny in my pocket
-And I found a four-leaf clover
-And I put it in my locket
-
-Wished on all the stars above me
-And I caught the nearest rainbow
-Gonna find someone to love me
-Gonna find someone to love
-
-Well, I tossed a lot of nickels in a wishing well
-And saved the fortunes that the fortune cookies tell
-I got a lucky penny and a mustard seed
-But a warm and tender love is all I need
-
-And I want a love that lingers
-And is stronger through and through
-So, I'm gonna cross my fingers
-That I'll find the boy to love me true
-And I'm gonna love him too
-
-Well, I tossed a lot of nickels in a wishing well
-And saved the fortunes that the fortune cookies tell
-I got a lucky penny and a mustard seed
-But a warm and tender love is all I need
-
-And I want a love that lingers
-And is stronger through and through
-So, I'm gonna cross my fingers
-That I'll find the boy to love me true
-And I'm gonna love him too
-
-And I'm gonna love him too
-And I'm gonna love him too
-
-
 

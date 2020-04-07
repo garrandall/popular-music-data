@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-boys-are-back-in-town-thin-lizzy
-lyrics_url: https://www.azlyrics.com/lyrics/straightnochaser/theboysarebackintown.html
 name: The Boys Are Back In Town
 rankings:
 - end_date: '1976-05-21'
@@ -76,58 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
 ---
-
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-
-Guess who just got back today?
-Them wild-eyed boys that had been away
-Haven't changed, haven't much to say
-But man, I still think them cats are crazy
-They were asking if you were around
-How you was, where you could be found
-I told them you were living downtown
-Driving all the old men crazy
-
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-
-You spread the word around
-Guess who's back in town
-You spread the word now
-'Cause Straight No Chaser's back in town
-
-Friday night they'll be dressed to kill
-Down at Dino's bar and grill
-The drink will flow and blood will spill
-And f the boys want to fight, you'd better let them
-
-That jukebox in the corner blasting out my favorite song
-The nights are getting warmer, it won't be long
-It won't be long till summer comes
-Now that the boys are here again
-
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-The boys are back in town
-
-The boys are back in town, yeah
-The boys are back in town, yeah
-The boys are back in town
-
-
 

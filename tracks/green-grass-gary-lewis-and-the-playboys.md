@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: green-grass-gary-lewis-and-the-playboys
-lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/greengrass.html
 name: Green Grass
 rankings:
 - end_date: '1966-05-20'
@@ -40,26 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
 ---
-
-Green grass 'round my window, young leaves that the wind blows
-Yes it's springtime, golden sunshine
-And we're glad my little love and I now that summer time is nigh
-
-Carefree kissin' couples dream away all there troubles
-'Cause it's springtime, golden sunshine
-While the bluebirds sing their magic song, we will love the summer long
-
-All the winter we've been waitin', girl and I anticipating
-What we're gonna do, with summer overdue
-Now it's here we're all together, so the weather man had better
-Do his best to make a show and bring the sunshine out to grow the
-
-Green grass 'round my window, young leaves that the wind blows
-Yes it's springtime, golden sunshine
-While the bluebirds sing their magic song
-We will love the summer long
-We will love the summer long
-We will love the summer long
-
-
 

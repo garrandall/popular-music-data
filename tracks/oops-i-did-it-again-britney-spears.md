@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: oops-i-did-it-again-britney-spears
-lyrics_url: https://www.azlyrics.com/lyrics/whymona/oopsididitagain.html
 name: Oops!I Did It Again
 rankings:
 - end_date: '2000-04-28'
@@ -88,55 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
 ---
-
-(Not that innocent)
-
-I think I did it again
-I made you believe we're more than just friends
-Oh, baby
-It might seem like a crush
-But it doesn't mean that I'm serious
-
-'Cause to lose all my senses
-That is just so typically me
-Oh, baby, baby
-
-Oops!... I did it again
-I played with your heart
-Got lost in the game
-Oh...
-Oops!... You think I'm in love
-That I'm sent from above
-I'm not that innocent...
-
-You see my problem is this
-I'm dreaming away
-Wishing that heroes, they truly exist
-I cry watching the days
-Can't you see I'm a fool in so many ways
-
-But to lose all my senses
-That is just so typically me
-Oh, baby, baby
-
-Oops!... I did it again
-I played with your heart
-Got lost in the game
-Oh...
-Oops!... You think I'm in love
-That I'm sent from above
-I'm not that innocent...
-
-Oops!... I did it again to your heart
-Got lost in this game, oh, baby
-Oops!... You think that I'm sent from above
-I'm not that innocent
-Oops!... I did it again to your heart
-Got lost in this game, oh, baby
-Oops!... You think that I'm sent from above
-I'm not that innocent...
-
-Oops!... I did it again
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: my-sharona-the-knack
-lyrics_url: https://www.azlyrics.com/lyrics/gleecast/mysharona.html
 name: My Sharona
 rankings:
 - end_date: '1979-06-29'
@@ -112,66 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
 ---
-
-
-My Sharona
-My Sharona
-
-
-Ooh, my little pretty one, pretty one
-When you gonna give me some (time, Sharona?)
-Ooh, you make my motor run, my motor run
-Gun it coming off of the (line Sharona)
-
-
-Never gonna stop, give it up, such a dirty mind
-Always get it up for the touch of the younger kind
-
-My, my, my, ay, ay, woah!
-M-m-m-my Sharona
-
-
-My Sharona
-
-
-Come a little closer, huh, ah, will ya, huh
-(Close enough to look in my eyes, Sharona)
-Keeping it a mystery gets to me
-(Running down the length of my thighs, Sharona)
-
-
-Never gonna stop, give it up, such a dirty mind
-Always get it up for the touch of the younger kind
-
-My, my, my, ay, ay, woah!
-M-m-m-my Sharona
-M-m-m-my Sharona
-
-
-Na, na, na, na, na-na
-My Sharona
-
-
-When you gonna get to me, get to me
-It is just a matter of (time Sharona)
-Is it d-d-destiny, d-destiny?
-Or is it just a game in my (mind, Sharona?)
-
-
-Never gonna stop, give it up, such a dirty mind
-Always get it up for the touch of the younger kind
-
-My, my, my, ay, ay, woah!
-M-m-m-m-m-m-m-my, my, my, ay, ay, woah!
-M-m-m-my Sharona ( Sharona)
-M-m-m-my Sharona ( Sharona)
-M-m-m-my Sharona ( Sharona)
-M-m-m-my Sharona
-
-Oooaah, my Sharona
-Oooaah, my Sharona
-Oooaah, my Sharona
-Woah!!
-
-
 

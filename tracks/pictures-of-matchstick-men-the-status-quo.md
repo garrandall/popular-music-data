@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: pictures-of-matchstick-men-the-status-quo
-lyrics_url: https://www.azlyrics.com/lyrics/divinecomedy/picturesofmatchstickmen.html
 name: Pictures Of Matchstick Men
 rankings:
 - end_date: '1968-05-24'
@@ -76,35 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
 ---
-
-When I look up to the sky
-I see your eyes a funny kind of yellow
-I rush home to bed I soak my head
-I see your face underneath my pillow
-I wake next morning, tired, still yawning
-See your face come peeping through my window
-
-Pictures of matchstick men and you
-Pictures of matchstick men and you
-All I ever see is them and you
-
-Windows echo your reflection
-When I look in their direction now
-When will this haunting stop?
-Your face it just won't leave me alone
-
-Pictures of matchstick men and you
-Mirages of matchstick men and you
-All I ever see is them and you
-
-You in the sky, you with this guy
-You make men cry, you lie
-You in the sky, you with this guy
-You make men cry, you lie
-
-Pictures of matchstick men and
-Pictures of matchstick men and you
-Pictures of matchstick men...
-
-
 

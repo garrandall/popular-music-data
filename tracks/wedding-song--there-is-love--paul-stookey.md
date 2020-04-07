@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wedding-song--there-is-love--paul-stookey
-lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/weddingsongthereislove.html
 name: Wedding Song (There Is Love)
 rankings:
 - end_date: '1971-08-06'
@@ -64,30 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
-
-He is now to be among you at the calling of your hearts
-Rest assured this troubadour is acting on his part
-The union of your spirits here has caused him to remain
-For whenever two or more of you are gathered in his name
-There is love, there is love
-
-Well, a man shall leave his mother, and a woman leave her home
-They shall travel on to where the two shall be as one
-As it was in the beginning and is now until the end
-A woman draws her life from man and gives it back again
-And there's love, there is love
-
-And then what's to be the reason for becoming man and wife
-Is it love that brings you here or love that gives you life
-For if loving is the answer then who's the giving for
-Do you believe in something that you've never seen before
-Oh, there's love, there is love
-
-And then what's to be the reason for becoming man and wife
-Is it love that brings you here or love that gives you life
-For if loving is the answer then who's the giving for
-Do you believe in something that you've never seen before
-Oh, there's love, there is love
-
-
 

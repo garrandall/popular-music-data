@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: satisfaction-guaranteed--or-take-your-love-back--harold-melvin-and-the-blue-notes
-lyrics_url: https://www.azlyrics.com/lyrics/haroldmelvinthebluenotes/satisfactionguaranteedortakeyourloveback.html
 name: Satisfaction Guaranteed (Or Take Your Love Back)
 rankings:
 - end_date: '1974-04-12'
@@ -48,53 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
-
-(Satisfaction guaranteed or take your love back)
-(Satisfaction guaranteed or take your love back)
-
-Oh, I'll give you something good, yes I will
-Give you something good, yeah
-Yeah yeah yeah
-
-You don't have to believe me when I tell you
-That my love is so good
-And I know you're not bein' treated
-Like I know you should
-
-No, I don't wanna sound like I'm conceited
-I'm the one you always needed
-I tell ya what, I'll make you bet
-I'll give you lovin' you will never forget, no
-
-(Satisfaction guaranteed or take your love back)
-I'll take it back, no no!
-(Satisfaction guaranteed or take your love back)
-I'll give ya somethin' good
-Yes I will, give you somethin' good, yeah yeah
-
-Put your arms around, ah baby please
-Sit back and just relax and leave the rest to me
-You ain't gonna to be nervous, no no
-I'm gonna give you the best of service
-I tell ya what, I'll make you bet
-I'll give you love you will never forget, no
-
-(Satisfaction guaranteed or take your love back)
-I'm gonna give you love right now
-(Satisfaction guaranteed or take your love back)
-Satisfaction guaranteed!
-(Satisfaction guaranteed or take your love back)
-
-You ain't got no reason to be nervous
-I'm gonna give you the best of service
-I tell ya what, I'll make you bet
-I'll give you love you will never forget, no
-
-(Satisfaction guaranteed or take your love back)
-I'm gonna guarantee my love right now, right now
-(Satisfaction guaranteed or take your love back)
-(Satisfaction guaranteed or take your love back)
-...
-
-
 

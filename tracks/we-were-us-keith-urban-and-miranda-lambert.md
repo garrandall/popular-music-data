@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: we-were-us-keith-urban-and-miranda-lambert
-lyrics_url: https://www.azlyrics.com/lyrics/keithurban/wewereus.html
 name: We Were Us
 rankings:
 - end_date: '2013-10-04'
@@ -88,45 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-02-08'
 ---
-
-Rearview crosses
-Railroad ties
-Oh, Hail Marys
-Friday nights
-Heartbeat baby
-Low-beam lights
-God, I miss when you were mine
-
-
-Back when that song was a song
-I could sing along without thinkin bout you every time it came on
-Every beat, every line, every word, every time
-When a road was a road
-I could roll on through without wishin that empty seat was you
-Money was gas, dreams were dust
-Love was fast and we were us
-
-Shotgun sunset
-A cool mint kiss
-Backseat promise
-Breaking it
-Floorboard feeling
-County lines
-God, I miss when you were mine
-
-
-
-In a sleepy town, just jumping in
-Far too young to know that summers end
-We were us, we can't go back
-It's what it is, but God I miss
-
-
-
-Every beat, every line, every word, every single time
-I just close my eyes and you're ridin shotgun
-You and me, baby, on the run
-I can feel your heartbeat, baby
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hurdy-gurdy-man-donovan
-lyrics_url: https://www.azlyrics.com/lyrics/buttholesurfers/thehurdygurdyman.html
 name: Hurdy Gurdy Man
 rankings:
 - end_date: '1968-06-28'
@@ -56,34 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
 ---
-
-Thrown like a star in my vast sleep
-I open my eyes to take a peep
-To find that I was by the sea
-Gazing with tranquillity.
-'Twas then when the Hurdy Gurdy Man
-Came singing songs of love,
-Then when the Hurdy Gurdy Man
-Came singing songs of love.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Histories of ages past
-Unenlightened shadows cast
-Down through all eternity
-The crying of humanity.
-'Tis then when the Hurdy Gurdy Man
-Comes singing songs of love,
-Then when the Hurdy Gurdy Man
-Comes singing songs of love.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, hurdy gurdy, hurdy gurdy.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang.
-Here comes the roly poly man and he's singing songs of love,
-Roly poly, roly poly, roly poly, poly he sang.
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang,
-Hurdy gurdy, hurdy gurdy, hurdy gurdy, gurdy he sang
-
-
 

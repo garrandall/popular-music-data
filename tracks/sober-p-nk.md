@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sober-p-nk
-lyrics_url: https://www.azlyrics.com/lyrics/pink/sober.html
 name: Sober
 rankings:
 - end_date: '2008-12-19'
@@ -108,68 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
 ---
-
-I don't wanna be the girl who laughs the loudest
-Or the girl who never wants to be alone
-I don't wanna be that call at 4 o'clock in the morning
-'Cause I'm the only one you know in the world that won't be home
-
-Ah the sun is blinding
-I stayed up again
-Oh, I am finding
-That's not the way I want my story to end
-
-I'm safe up high
-Nothing can touch me
-But why do I feel this party's over?
-No pain inside
-You're my protection
-But how do I feel this good sober?
-
-I don't wanna be the girl who has to fill the silence
-The quiet scares me 'cause it screams the truth
-Please don't tell me that we had that conversation (I know we hadn't)
-I won't remember, save your breath, 'cause what's the use?
-
-Ah, the night is calling?
-And it whispers to me softly come and play
-Ah, I am falling
-And if I let myself go I'm the only one to blame
-
-I'm safe up high
-Nothing can touch me
-But why do I feel this party's over?
-No pain inside
-You're like perfection
-How do I feel this good sober?
-
-Coming down, coming down, coming down
-Spinning 'round, spinning 'round, spinning 'round
-I'm looking for myself sober
-
-Coming down, coming down, coming down
-Spinning 'round, spinning 'round, spinning 'round
-Looking for myself sober
-
-When it's good, then it's good, it's so good 'til it goes bad
-'Til you try to find the you that you once had
-I have heard myself cry, never again
-Broken down in agony just tryna find a friend
-
-I'm safe up high
-Nothing can touch me
-But why do I feel this party's over?
-No pain inside
-You're like perfection
-How do I feel this good sober?
-
-I'm safe up high
-Nothing can touch me
-But why do I feel this party's over?
-No pain inside
-You're like perfection
-How do I feel this good sober?
-How do I feel this good sober?
-
-
 

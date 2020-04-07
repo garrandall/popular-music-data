@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: jimmy-mack-martha-the-vandellas
-lyrics_url: https://www.azlyrics.com/lyrics/philcollins/jimmymack.html
 name: Jimmy Mack
 rankings:
 - end_date: '1967-03-03'
@@ -65,36 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
 ---
-
-Jimmy, Jimmy, oh Jimmy Mack, when are you coming back?
-Jimmy, Jimmy, oh Jimmy Mack, when are you coming back?
-My arms are missing you, my lips feel the same way too
-I tried so hard to be true, like I promised I'd do
-But this boy keeps coming around, he's trying to wear my resistance down
-
-
-Hey Jimmy, Jimmy, oh Jimmy Mack, when are you coming back
-Jimmy, Jimmy, oh Jimmy Mack, when are you coming back
-He calls me on the phone, about three times a day
-Now my heart's just listening to what he has to say
-But this loneliness that I have within keeps reaching out to be his friend
-
-
-
-Need your loving, need your loving
-
-
-
-I wanna say, I'm not getting any stronger, I can't hold out very much longer
-Trying hard to be true, but Jimmy, he talks just as sweet as you
-
-
-
-Need your loving, need your loving
-Need your loving, need your loving...
-(Jimmy, Jimmy, oh Jimmy Mack, when are you coming back)
-
-
-
-
 

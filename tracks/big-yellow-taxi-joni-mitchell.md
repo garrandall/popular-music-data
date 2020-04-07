@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: big-yellow-taxi-joni-mitchell
-lyrics_url: https://www.azlyrics.com/lyrics/nena/bigyellowtaxi.html
 name: Big Yellow Taxi
 rankings:
 - end_date: '1970-07-31'
@@ -72,48 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
-
-Big yellow taxi
-They paved paradise
-And put up a parking lot
-Witch a pink hotel, a boutique
-And a swinging hot spot
-Don't it always seem to go
-That you don't know what you've got
-Till it's gone
-They paved paradise
-And put up a parking lot
-
-They took all the trees
-And put them in a tree museum
-And they charged the people
-A dollar and a half just to see 'em
-Don't it always seem to go
-That you don't know what you've got
-Till it's gone
-The paved paradise
-And put up a parking lot
-
-Hey farmer farmer
-Put away that D.D.T. now
-Give me spots on my apples
-But leave me the birds and the bees
-Please!
-Don't it always seem to go
-That you don't know what you've got
-Till it's gone
-They paved paradise
-And put up a parking lot
-
-Late last night
-I heard the screen door slam
-And a big yellow taxi
-Took away my old man
-Don't it always seem to go
-That you don't know what you've got
-Till it's gone
-They paved paradise
-And put up a parking lot
-
-
 

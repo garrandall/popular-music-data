@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: until-you-come-back-to-me--that-s-what-i-m-gonna-do--aretha-franklin
-lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/untilyoucomebacktomethatswhatimgonnado.html
 name: Until You Come Back To Me (That's What I'm Gonna Do)
 rankings:
 - end_date: '1973-11-30'
@@ -92,44 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
-
-Though you don't call anymore 
-I sit and wait in vain 
-I guess I'll rap on your door 
-Tap on your window pane 
-I want to tell you baby 
-The changes I've been going through 
-Missing you, listen you 
-
-'till you come back to me 
-That's what I'm gonna do 
-
-Why did you have to decide 
-You had to set me free 
-I'm gonna swallow my pride 
-I'm gonna beg you to (please baby please) see me 
-I'm gonna walk by myself 
-Just to prove that my love is true 
-Oh, for you baby 
-
-'till you come back to me
-That's what I'm gonna do 
-
-Living for you my dear 
-Is like living in a world of constant fear 
-In my plea, I've got to make you see 
-That our love is dying 
-
-Although your phone you ignore 
-Somehow I must explain 
-I'm gonna rap on your door 
-Tap on your window pane 
-I'm gonna camp on your step 
-Until I get through to you 
-I've got to change your view baby 
-
-'till you come back to me 
-That's what I'm gonna do
-
-
 

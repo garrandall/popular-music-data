@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-mule-the-james-boys
-lyrics_url: https://www.azlyrics.com/lyrics/tomwaits/getbehindthemule.html
 name: The Mule
 rankings:
 - end_date: '1968-09-06'
@@ -24,79 +23,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
-
-Molly be damned smote Jimmy the Harp
-With a horrid little pistol and a lariat
-She's goin to the bottom
-And she's goin down the drain
-Said she wasn't big enough to carry it
-
-She got to get behind the Mule
-In the morning and plow
-She got to get behind the Mule
-In the morning and plow
-She got to get behind the Mule
-In the morning and plow
-She got to get behind the Mule
-In the morning and plow
-
-Choppity chop goes the axe in the woods
-You gotta meet me by the fall down tree
-Shovel of dirt upon a coffin lid
-And I know they'll come lookin for me boys
-And I know they'll come a-lookin for me
-
-Got to get behind the Mule
-In the morning and plow
-Got to get behind the Mule
-In the morning and plow
-Got to get behind the Mule
-In the morning and plow
-Got to get behind the Mule
-In the morning and plow
-
-Big Jack Earl was 8'1
-He stood in the road and he cried
-He couldn't make her love him
-Couldn't make her stay
-But tell the good Lord that he tried
-
-
-
-Dusty trail from Atchison to Placerville
-On the wreck of the Weaverville stage
-Beaula fired on Beatty for a lemonade
-I was stirring my brandy with a nail boys
-Stirring my brandy with a nail
-
-
-
-Well the rampaging sons of the widow James
-Jack the cutter and the pock marked kid
-Had to stand naked at the bottom
-Of the cross
-And tell the good lord what they did
-Tell the good lord what they did
-
-
-
-Punctuated birds on the power line
-In a Studebaker with the Birdie Joe Joaks
-I'm diggin all the way to China
-With a silver spoon
-While the hangman fumbles with the noose, boys
-The hangman fumbles with the noose
-
-
-
-Pin your ear to the wisdom post
-Pin your eye to the line
-Never let the weeds get higher
-Than the garden
-Always keep a sapphire in your mind
-Always keep a diamond in your mind
-
-
-
-
 

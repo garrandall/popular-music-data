@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sign-of-the-times-harry-styles
-lyrics_url: https://www.azlyrics.com/lyrics/flybymidnight/signofthetimes.html
 name: Sign Of The Times
 rankings:
 - end_date: '2017-05-05'
@@ -60,66 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
 ---
-
-Just stop your crying
-It's a sign of the times
-Welcome to the final show
-Hope you're wearing your best clothes
-
-You can't bribe the door
-On your way to the sky
-So you look pretty good down here
-But you ain't really good, no
-
-We never learn
-We've been here before
-Why are we always stuck here running from
-The bullets, oh, the bullets
-
-We never learn
-We've been here before
-Why are we always stuck here running from
-The bullets, oh, the bullets
-
-Just stop crying
-It's a sign of the times
-We gotta get away from here
-We gotta get away from here
-
-Just stop your crying
-It'll be alright
-They told me that the end is near
-We gotta get away from here
-
-Just stop your crying
-Have the time of your life
-Breaking through the atmosphere
-And things are pretty good from here
-
-Remember
-Everything will be alright
-We can meet again somewhere
-Somewhere far away from here
-
-We never learn
-We've been here before
-Why are we always stuck here running from
-The bullets, the bullets
-
-We never learn
-We've been here before
-Why are we always stuck here running from
-The bullets, the bullets
-
-Just stop your crying
-It's a sign of the times
-We gotta get away from here (from here)
-We gotta get away from here
-
-Just stop your crying
-It'll be alright
-They told me that the end is near
-We gotta get away from here
-
-
 

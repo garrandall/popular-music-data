@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: my-heart-s-symphony-gary-lewis-and-the-playboys
-lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/myheartsasymphony.html
 name: My Heart's Symphony
 rankings:
 - end_date: '1966-08-05'
@@ -36,36 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
 ---
-
-When you told me that you loved me
-And I thought I could tell that you did
-My heart told me all was well
-
-From the deepest part of me
-There came a melody
-Complete with harmony
-As my heart played for me
-A symphony
-
-I remember all the times
-You told me that you were mine
-And I remember what it did to me
-
-From the deepest part of me
-There came a melody
-Complete with harmony
-As my heart played for me
-A symphony
-
-But when I found your goodbye note
-When I read the things you wrote
-When I knew that you had gone from me
-
-From the deepest part of me
-Came tons of tragedy
-No trace of harmony
-No symphony
-For there was no heart left in me
-
-
 

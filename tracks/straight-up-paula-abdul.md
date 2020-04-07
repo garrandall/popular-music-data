@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: straight-up-paula-abdul
-lyrics_url: https://www.azlyrics.com/lyrics/halifax/straightup.html
 name: Straight Up
 rankings:
 - end_date: '1988-12-09'
@@ -108,81 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
 ---
-
-Lost in a dream
-Don't know which way to go
-And If you're all that you seem
-Then baby I'm moving way too slow
-
-'Cause I've been a fool before
-Wouldn't like to get my love caught
-In the slammin' door
-How about some information - please
-
-Straight up now tell me
-Do you really wanna love me forever oh oh oh
-Or am I caught in a hit and run
-Straight up now tell me
-Is it gonna be you and me together oh oh oh
-Or are we just having fun
-
-Time's standing still
-I'm waitin' for some small clue
-And I, I keep getting chills
-When I think your love
-When I think your love is true
-
-'Cause I've been a fool before
-Wouldn't like to get my love caught
-In the slammin' door
-How about some information - please
-
-Straight up now tell me
-Do you really wanna love me forever oh oh oh
-Or am I caught in a hit and run
-Straight up now tell me
-Is it gonna be you and me together oh oh oh
-Or are you just having fun
-
-You are so hard to read
-You play hide and seek
-With your true intentions
-And if you're just playing games
-Then I'll have to say
-
-Do do you love me
-Do do you love me
-Do do you love me
-Do do you love me
-Do do you love me
-Do do you love me
-
-'Cause I've been a fool before
-Wouldn't like to get my love caught
-In the slammin' door
-Are you more than hot for me
-Or am I a page in your history book
-I don't mean to make demands
-But the word and the deed go hand in hand
-How about some information - please
-
-Straight up now tell me
-Straight up now tell me
-Straight up now tell me
-Straight up now tell me
-Straight up now tell me
-Straight up now tell me
-
-Straight up now tell me
-Do you really wanna love me forever
-Or am I caught in a hit and run
-Straight up now tell me
-Do you really wanna love me forever oh oh oh
-Or am I caught in a hit and run
-
-Straight up now tell me
-Is it gonna be you and me together oh oh oh
-Or are we just having fun
-
-
 

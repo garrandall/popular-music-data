@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hot-stuff-donna-summer
-lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/hotstuff.html
 name: Hot Stuff
 rankings:
 - end_date: '1979-04-27'
@@ -92,47 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
 ---
-
-Sittin' here eatin' my heart out waitin'
-Waitin' for some lover to call
-Dialed about a thousand numbers lately
-Almost rang the phone off the wall
-
-Lookin' for some hot stuff baby this evenin'
-I need some hot stuff baby tonight
-I want some hot stuff baby this evenin'
-Gotta have some hot stuff
-Gotta have some lovin' tonight
-Hot stuff
-I want hot stuff
-I want some
-
-Lookin' for a lover who needs another
-Don't want another night on my own
-Wanna share my love with a warm blooded lover
-Wanna bring a wild man back home
-
-Gotta have some hot lovin' baby this evenin'
-I need some hot stuff baby tonight
-I want some hot stuff baby this evenin'
-Got to have some lovin'
-Got to have your lovin' tonight
-Hot stuff
-I need hot stuff
-Hot love
-Lookin' for hot love
-
-Lookin' for hot hot hot stuff...
-
-How's about some hot stuff baby this evenin'
-I need some hot stuff baby tonight
-I want some hot stuff baby this evenin'
-Lookin' for some hot stuff baby tonight
-Lookin' for some hot love baby this evenin'
-I need some hot stuff baby tonight
-I want some hot stuff baby this evenin'
-Got to have some lovin'
-Got to have your lovin' tonight
-
-
 

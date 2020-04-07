@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: little-town-flirt-del-shannon
-lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/littletownflirt.html
 name: Little Town Flirt
 rankings:
 - end_date: '1962-12-28'
@@ -64,63 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
 ---
-
-Here she comes
-(Here she comes)
-That little town flirt
-(Here she comes)
-You're falling for her
-And you're gonna get hurt
-
-Yeah, I know it so hard to resist
-The temptation of the tender red lips
-
-But you can get hurt, hurt, hurt, hurt
-Yeah, you can get hurt, hurt, hurt, hurt, hurt
-Foolin' around with that little town flirt
-
-Here she comes
-(Here she comes)
-Through that look in her eyes
-(Here she comes)
-She plays around
-With every guy that goes by
-
-Yeah, I know she's gonna treat you wrong
-So your heart just get better be strong
-
-'Cause you can get hurt, hurt, hurt, hurt
-Yeah, you can get hurt, hurt, hurt, hurt, hurt
-Foolin' around with that little town flirt
-
-I know how you feel, you think her love is real
-You think this time she'll be sincere
-But you think you got a paper heart
-When she starts to tear it apart
-That's when she'll let you go
-
-There she come
-(Here she comes)
-Just look at that style
-(Here she comes)
-She's lookin' at you
-Giving you that smile
-
-Yeah, I know she's gonna treat you wrong
-So your heart just get better be strong
-
-'Cause you can get hurt, hurt, hurt, hurt
-Yeah, you can get hurt, hurt, hurt, hurt, hurt
-Foolin' around with that little town flirt
-
-(Here she comes)
-You better, better hide now, boy
-(Here she comes)
-You better...
-(Here she comes)
-You better runaway now, boy
-(Here she comes)
-You better...
-
-
 

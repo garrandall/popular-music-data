@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nights-in-white-satin-the-moody-blues
-lyrics_url: https://www.azlyrics.com/lyrics/tinaarena/nightsinwhitesatin.html
 name: Nights In White Satin
 rankings:
 - end_date: '1972-08-11'
@@ -80,87 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
 ---
-
-Nights in white satin
-Never reaching the end
-Letters I've written
-Never meaning to send
-Beauty
-I'd always missed
-With these eyes before
-Just what the truth is
-I can't say anymore
-
-'Cos I love you
-Yes I love you
-Oh how I love you
-
-Gazing at people
-Some hand in hand
-Just what I'm going
-Through they
-Can't understand
-Some try to tell me
-Thoughts
-They cannot defend
-Just what you
-Want to be
-You will be
-In the end
-
-And I love you
-Yes I love you
-Oh how I love you
-Oh how I love you
-
-Nights in white satin
-Never reaching the end
-Letters I've written
-Never meaning to send
-Beauty
-I've always missed
-With these eyes before
-Just what the truth is
-I can't say anymore
-
-'Cos I love you
-Yes I love you
-Oh how I love you
-Oh how I love you
-'Cos I love you
-Yes I love you
-Oh how I love you
-Oh how I love you
-
-Breath deep
-The gathering gloom
-Watch lights fade
-From every room
-Bedsitter people
-Look back and lament
-Another day's useless
-Energy spent
-
-Impassioned lovers
-Wrestle as one
-Lonely man
-Cries for love
-And has none
-New mother picks up
-And suckles her son
-Senior citizens
-Wish they were young
-
-Cold hearted orb
-That rules the night
-Removes the colours
-From our sight
-Red is gray and
-Yellow white
-But we decide
-Which is right
-And which
-Is an illusion
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: young-and-in-love-chris-crosby
-lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/illbehomeforchristmas.html
 name: Young And In Love
 rankings:
 - end_date: '1964-02-21'
@@ -36,27 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
-
-I'm dreamin' tonight of a place I love
-Even more than I usually do
-And although I know it's a long road back
-I promise you
-
-I'll be home for Christmas
-You can count on me
-Please have snow and mistletoe
-And presents under the tree
-
-Christmas Eve will find me
-Where the love light gleams
-I'll be home for Christmas
-If only in my dreams
-
-Christmas Eve will find me
-Where the love light gleams
-I'll be home for Christmas
-If only in my dreams
-If only in my dreams
-
-
 

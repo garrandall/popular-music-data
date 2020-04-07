@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: so-emotional-whitney-houston
-lyrics_url: https://www.azlyrics.com/lyrics/jonmclaughlin/soemotional.html
 name: So Emotional
 rankings:
 - end_date: '1987-11-06'
@@ -84,42 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
 ---
-
-I've been hearing your heartbeat inside of me
-I keep your photograph beside my bed
-In a world of fantasies
-Can't get you out of my head
-
-I've been waiting for the phone to ring all night
-Why you wanna make me feel so good
-I got a love of my own
-Shouldn't get so hung up on you
-
-I remember the way we touched
-I wish I didn't like it so much
-
-I get so emotional baby
-Every time I think of you
-I get so emotional baby
-Ain't it shocking what love can do
-
-I gotta watch you walk in the room baby
-I gotta watch you walk out
-I like the animal way you move
-And when you talk I just watch your mouth
-
-Oh I remember the way that we touched
-I wish I didn't like it so much
-
-I get so emotional baby
-Every time I think of you
-I get so emotional
-Ain't it shocking what love can do
-
-Oh I get so emotional baby
-Every time I think of you
-I get so emotional
-Ain't it shocking what love can do
-
-
 

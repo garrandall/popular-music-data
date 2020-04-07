@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: party-all-the-time-eddie-murphy
-lyrics_url: https://www.azlyrics.com/lyrics/childrenofbodom/partyallthetime.html
 name: Party All The Time
 rankings:
 - end_date: '1985-10-11'
@@ -96,48 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
-
-Girl
-I can't understand it why you want to hurt me
-After all the things I've done for you.
-I buy you champagne and roses and diamonds on your finger -
-Diamonds on your finger -
-Still you hang out all night
-what am I to do?
-
-My girl wants to party all the time
-
-Party all the time
-party all the time.
-My girl wants to party all the time
-party all the time.
-
-She parties all the time - party all the time
-She likes to party all the time - party all the time
-party all the time - she likes to party all the time
-party all the time.
-
-Girl
-
-I've seen you in clubs just hanging out and dancing.
-You give your number to every man you see.
-You never come home at night because you're out romancing.
-I wish you bring some of your love home to me.
-
-But my girl wants to party all the time
-My girl wants to party all the time
-
-Party
-party
-party she likes to party all the time.
-She likes to party all the time -
-She lets her hair down
-she lets her body down:
-She lets her body
-she lets her body down.
-Party all the time - do you wanna get any party
-yeah.
-Party all the time - party all the time.
-
-
 

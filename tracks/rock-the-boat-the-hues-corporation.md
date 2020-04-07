@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rock-the-boat-the-hues-corporation
-lyrics_url: https://www.azlyrics.com/lyrics/innercircle/rocktheboat.html
 name: Rock The Boat
 rankings:
 - end_date: '1974-05-31'
@@ -80,42 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
-
-So I'd like to know where you got the notion?
-So I'd like to know where you got the notion?
-Rock the boat, rock the boat
-Rock the boat, rock the boat
-
-Ever since our voyage of love began
-Your touch has thrilled me like the rush of the wind
-And your arms have get me safe from the rolling sea
-There's always been a quiet place to harbor you and me
-
-Your love is like a ship on the ocean
-We've been sailing with a cargo filled with love and devotion
-
-So I'd like to know where you got the notion?
-So I'd like to know where you got the notion?
-Rock the boat, rock the boat
-Rock the boat, rock the boat
-
-Up till now we sailed through every storm
-And I've always had your tender lips to keep me warm
-Don't let this trip you have flow away from me
-Don't let me drift away, my dear, when love can set me free
-
-Your love is like a ship on the ocean
-We've been sailing with a cargo filled with love and devotion
-
-So I'd like to know where you got the notion?
-So I'd like to know where you got the notion?
-Rock the boat, rock the boat
-Rock the boat, rock the boat
-
-Rock the boat, rock the boat
-Rock the boat, rock the boat
-Rock the boat, rock the boat
-Rock the boat
-
-
 

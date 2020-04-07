@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: woman-peter-and-gordon
-lyrics_url: https://www.azlyrics.com/lyrics/petergordon/leavemywomanalone.html
 name: Woman
 rankings:
 - end_date: '1966-02-18'
@@ -56,37 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
-
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-You just leave my woman alone
-
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-You just leave my woman alone
-
-I know you got the money
-And you've got a brand new fifty-seven too
-But if I ever see my little girl in your car
-I'm gonna do some work on you
-
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-You just leave my woman alone
-
-I know you are a playboy
-And you've got women all over town
-But if I ever see you sweet-talk my little girl
-I'm gonna lay your body down
-
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-If you don't want, you don't have to get into trouble
-You just leave my woman alone
-You just leave my woman alone
-
-
 

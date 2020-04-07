@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: beautiful-liar-beyonce-shakira
-lyrics_url: https://www.azlyrics.com/lyrics/shakira/beautifulliar.html
 name: Beautiful Liar
 rankings:
 - end_date: '2007-04-06'
@@ -81,71 +80,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
-
-Ay, Ay, Ay
-Nobody likes being played
-Beyonce, Beyonce
-Shakira, Shakira (hey)
-
- He said I'm worth it, his one desire
- I know things about 'em that you wouldn't wanna read about
- He kissed me, his one and only, (yes) beautiful Liar
- Tell me how you tolerate the things that you just found out about
-
- You never know
- Why are we the ones who suffer
- I have to let go
- He won't be the one to cry
-
- (Ay) Let's not kill the karma
-(Ay) Let's not start a fight
-(Ay) It's not worth the drama
-For a beautiful liar
- Can't we laugh about it (Ha Ha Ha)
-(Oh) It's not worth our time
-(Oh) We can live without 'em
-Just a beautiful liar
-
- I trusted him, but when I followed you, I saw you together
- I didn't know about you then 'till I saw you with him again
- I walked in on your love scene, slow dancing
- You stole everything, how can you say I did you wrong
-
- You never know
- When the pain and heartbreak's over
- I have to let go
- The innocence is gone
-
- (Ay) Let's not kill the karma
-(Ay) Let's not start a fight
-(Ay) It's not worth the drama
-For a beautiful liar
- Can't we laugh about it (Ha Ha Ha)
-(Oh) It's not worth our time
-(Oh) We can live without 'em
-Just a beautiful liar
-
- Tell me how to forgive you
-When it's me who's ashamed
- And I wish could free you
-Of the hurt and the pain
-(Both) But the answer is simple
-He's the one to blame
-
-Beyonce Beyonce
-Shakira Shakira
-Beyonce Beyonce
-Shakira Shakira
-(Hey)
-
- (Ay) Let's not kill the karma
-(Ay) Let's not start a fight
-(Ay) It's not worth the drama
-For a beautiful liar
- Can't we laugh about it (Ha Ha Ha)
-(Oh) It's not worth our time
-(Oh) We can live without 'em
-Just a beautiful liar
-
-
 

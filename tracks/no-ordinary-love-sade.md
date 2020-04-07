@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: no-ordinary-love-sade
-lyrics_url: https://www.azlyrics.com/lyrics/civilwars/noordinarylove.html
 name: No Ordinary Love
 rankings:
 - end_date: '1992-11-13'
@@ -116,33 +115,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
 ---
-
-I gave you all the love I got,
-Gave you more than I could give
-Gave you love,
-I gave you all that I had inside
-And you took my love, took my love
-
-Keep crying (Keep crying), keep trying for you.
-I Keep trying (I keep trying), I keep crying for you
-This is no ordinary love, no ordinary love
-This is no ordinary love, no ordinary love
-
-Oh when you came around you brightened,
-You brightened every day
-With your sweet smile,
-Oh didn't I tell you, all I got to give baby?
-
-I keep crying, I keep trying
-Oh I keep trying, keep trying for you
-This is no ordinary love, no ordinary love oh oh
-This is no ordinary love, no ordinary love oh oh oh
-This is no ordinary love, no ordinary love oh oh oh oh
-This is no ordinary love, no ordinary love, oh oh oh oh oh oh
-
-I gave you all the love I got,
-I gave you more than I can give,
-Gave you love
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: close-the-door-teddy-pendergrass
-lyrics_url: https://www.azlyrics.com/lyrics/rubenstuddard/closethedoor.html
 name: Close The Door
 rankings:
 - end_date: '1978-07-14'
@@ -60,47 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
 ---
-
-Close the door
-Let me give you what you've been waiting for
-Baby, I got so much love to give
-And I wanna give it all to you
-
-Close the door
-No need to worry no more
-Let's bring this day to a pleasant end
-Girl, it's me and you now
-
-I've waited all day long
-Just to hold you in my arms, girl
-And it's exactly like I thought it would be
-Me loving you and you loving me
-
-Close the door
-Let me rub your back where you say it's sore
-Come on get closer and closer, so close to me
-Girl, let's get lost in each other, come here baby
-
-I've waited all day long
-Just to hold you in my arms
-And it's exactly like I thought it would be
-Me loving you and you loving me
-
-Close the door baby
-And let me know you're mine
-Plenty good lovin' all through the night
-And then again and then again till the morning light
-Come here, woman
-
-Come here baby, let me blow your mind
-Let me do what I want to you
-Girl, let me do what I want to you
-Nothin' makes me love to you baby
-You baby, oh baby, so good, baby
-So good, baby, so good, so good, so good, baby
-
-You'll do it to me, I'll do it to you
-Come here baby, lay your head next to mine
-
-
 

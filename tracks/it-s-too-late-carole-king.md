@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-too-late-carole-king
-lyrics_url: https://www.azlyrics.com/lyrics/jamesmorrison/itstoolate.html
 name: It's Too Late
 rankings:
 - end_date: '1971-05-14'
@@ -76,39 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
 ---
-
-I stayed in bed all mornin' just to pass the time 
-There's somethin' wrong here, there can be no denyin' 
-One of us is changin', or maybe we just stopped tryin'. 
-
-And it's too late baby, now it's too late 
-Though we really did try to make it 
-Something inside has died and I can't hide 
-And I just can't fake it, oh no no no no. 
-
-It used to be so easy livin' here with you 
-You were light and breezy and I knew just what to do 
-Now you look so unhappy and I feel like a fool. 
-And it's too late baby, now it's too late 
-Though we really did try to make it 
-Something inside has died and I can't hide 
-And I just can't fake it, oh no no. 
-
-Do do do do do do do do do do. 
-
-There'll be good times again for me and you 
-But we just can't stay together, don't'cha feel it too? 
-Still I'm glad for what we had, and how I once loved you. 
-
-But it's too late baby, now it's too late 
-Though we really did try to make it 
-Something inside has died and I can't hide 
-And I just can't fake it 
-Oh, no no no no no. 
-
-It's too late, baby 
-It's too late, now darlin' 
-It's too late
-
-
 

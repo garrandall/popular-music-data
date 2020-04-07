@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: purple-rain-prince-and-the-revolution
-lyrics_url: https://www.azlyrics.com/lyrics/prince/god.html
 name: Purple Rain
 rankings:
 - end_date: '1984-10-12'
@@ -80,45 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
 ---
-
-Ooh, aah-ooh
-Brr, aah, ooh-ooh
-Hoo, hoo, hoo, hoo
-Hoo!
-Eeeeeee!
-Oh
-
-In the beginning, there was God
-He made the earth, and the heavens
-He gave us light to rule the day
-And another light to rule the night
-
-The Lord, thy God
-Made, He made the seas
-He made the fruit upon the trees
-When He saw, when He saw that it was good
-
-He made a man, (made a man)
-Only He could, only He could
-God made you
-God made me too
-He made us all
-Made us all equally
-
-Now you say
-God made you
-God made me
-He made us all equally
-
-Aah!
-Aah!
-Yeah!-yeah!-yeah!
-
-Wake up children
-Dance the Dance Electric
-There isn't much time
-Who screamed?
-Was it you?
-
-
 

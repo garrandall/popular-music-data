@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-fall-apart-post-malone
-lyrics_url: https://www.azlyrics.com/lyrics/fletcher/ifallapart.html
 name: I Fall Apart
 rankings:
 - end_date: '2017-10-20'
@@ -128,67 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
 ---
-
-Ooh, I fall apart
-Ooh, I fall apart
-
-She told me that I'm not enough (Yeah)
-And she left me with a broken heart (Yeah)
-She fooled me twice and it's all my fault (Yeah)
-She cut too deep, now she left me scarred (Yeah)
-Now there's so many thoughts goin' through my brain
-And now I'm takin' these shots like it's Novocaine
-
-Ooh, I fall apart
-Down to my core
-Ooh, I fall apart
-Down to my core
-Ooh, I didn't know it before
-Surprised when you caught me off guard
-All this damn jewelry I bought
-You was my shorty, I thought
-
-I never caught a feelin' this hard
-Harder than the liquor I pour
-Tell me you don't want me no more
-But I can't let go
-Everybody told me so, everybody told me so
-I'm feelin' like I sold my soul
-Feelin' like I sold my soul
-
-You said it, no, you said it
-No, you said it, we'd be together, oh
-
-Ooh, I fall apart
-Down to my core
-Ooh, I fall apart
-Down to my core
-Ooh, I didn't know it before
-Surprised when you caught me off guard
-All this damn jewelry I bought
-You was my shorty, I thought
-
-Ice keep pourin' and the drink keep flowin'
-Try to brush it off, but it keep on goin'
-Covered in scars and I can't help showin'
-Whippin' in the foreign and the tears keep rollin'
-Ice keep pourin' and the drink keep flowin'
-I try to brush it off, but it keep on goin'
-I'm covered in scars and I can't help showin'
-
-Ooh, I fall apart
-Down to my core
-Ooh, I fall apart
-Down to my core
-Ooh, I didn't know it before
-Surprised when you caught me off guard
-All this damn jewelry I bought
-You was my shorty, I thought
-
-Ooh, I fall apart
-I fall apart
-I'm falling apart
-I fall apart
-
-
 

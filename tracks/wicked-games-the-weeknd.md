@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wicked-games-the-weeknd
-lyrics_url: https://www.azlyrics.com/lyrics/dillon6545/wickedgames.html
 name: Wicked Games
 rankings:
 - end_date: '2012-11-23'
@@ -88,62 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
 ---
-
-I left my girl back home
-I don't love her no more
-And she'll never fucking know that
-These fucking eyes that I'm staring at
-Let me see that ass
-Look at all this cash
-And I emptied out my cards too
-Now I'm fucking leaning on that
-
-Bring your love, baby, your love
-Bring the drugs, baby, the drugs
-And I'll bring the shame
-Bring the cups, baby, the cups
-Bring your body, pretty baby, bring your body
-And I'll bring the pain
-
-I'll bring the pain
-The pain
-I'll bring the pain
-I'll bring the pain
-And I'll bring, and I'll bring the pain
-
-Let me see you dance
-I love to watch you dance
-Take you down another level
-Get you dancing with the Devil
-Take a, take a shot of this
-But I'm warning you
-I'm on that shit that you can't smell, baby
-So, put down your perfume
-
-Bring your love, baby, your love
-Bring the drugs, baby, the drugs
-I got my heart right here
-I got my scars right here
-
-Bring the cups, baby, the cups
-Bring your body, pretty baby, bring your body
-
-Listen, ma, I'll give you all I got
-Get me off of this
-I need confidence in myself
-
-Listen, ma, I'll give you all of me
-Give me all of it
-I need all of it to myself
-
-So tell me you love me
-So tell me you love me
-So tell me you love me
-So tell me you love me
-So tell me you love me
-So tell me you love me
-So tell me you love me
-So tell me you love me
-
-
 

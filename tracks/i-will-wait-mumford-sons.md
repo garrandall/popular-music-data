@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: i-will-wait-mumford-sons
-lyrics_url: https://www.azlyrics.com/lyrics/taylorhenderson/iwillwait.html
 name: I Will Wait
 rankings:
 - end_date: '2012-08-31'
@@ -165,55 +164,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
 ---
-
-Well, I came home
-Like a stone
-And I fell heavy into your arms
-These days of dust
-Which we've known
-Will blow away with this new sun
-
-But I'll kneel down,
-Wait for now
-And I'll kneel down,
-Know my ground
-
-And I will wait, I will wait for you
-And I will wait, I will wait for you
-
-So break my step
-And relent
-Well, you forgave and I won't forget
-Know what we've seen
-And him with less
-Now in some way shake the excess
-
-'Cause I will wait, I will wait for you
-And I will wait, I will wait for you
-And I will wait, I will wait for you
-And I will wait, I will wait for you
-
-Now I'll be bold
-As well as strong
-And use my head alongside my heart
-So tame my flesh
-And fix my eyes
-A tethered mind freed from the lies
-
-And I'll kneel down,
-Wait for now
-I'll kneel down,
-Know my ground
-
-Raise my hands
-Paint my spirit gold
-And bow my head
-Keep my heart slow
-
-'Cause I will wait, I will wait for you
-And I will wait, I will wait for you
-And I will wait, I will wait for you
-And I will wait, I will wait for you
-
-
 

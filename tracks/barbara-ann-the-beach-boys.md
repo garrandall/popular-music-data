@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: barbara-ann-the-beach-boys
-lyrics_url: https://www.azlyrics.com/lyrics/blindguardian/barbaraann.html
 name: Barbara Ann
 rankings:
 - end_date: '1966-01-07'
@@ -52,67 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
 ---
-
-A Bar bar bar bar Barbar Ann
-Bar bar bar bar Barbar Ann
-(Bar bar bar bar Barbar Ann)
-Oh Barbara Ann take my hand
-(Bar bar bar bar Barbar Ann)
-Barbara Ann
-(Bar bar bar bar Barbar Ann)
-You got me rockin' and a rollin'
-Rockin' and a reelin' Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Went to a dance looking for romance
-Saw Barbara Ann so I thought I'd take a chance
-Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Oh Barbara Ann take my hand
-(Bar bar bar bar Barbar Ann)
-Barbara Ann
-(Bar bar bar bar Barbar Ann)
-You got me rockin' and a rollin'
-Rockin' and a reelin' Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Say Bar bar bar bar Barbar Ann
-Bar bar bar bar Barbar Ann
-Oh Barbara Ann take my hand
-(Bar bar bar bar Barbar Ann)
-Barbara Ann
-(Bar bar bar bar Barbar Ann)
-You got me rockin' and a rollin'
-Rockin' and a reelin' Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Tried Betty Sue
-Tried Betty Sue
-Tried Betty Sue but I knew she wouldn't do
-
-Bar bar bar bar Barbar Ann
-Oh Barbara Ann take my hand
-(Bar bar bar bar Barbar Ann)
-Barbara Ann
-(Bar bar bar bar Barbar Ann)
-You got me rockin' and a rollin'
-Rockin' and a reelin' Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Bar bar bar bar Barbar Ann
-Bar bar bar bar Barbar Ann
-Bar bar bar bar Barbar Ann
-Oh Barbara Ann take my hand
-(Bar bar bar bar Barbar Ann)
-Barbara Ann
-(Bar bar bar bar Barbar Ann)
-You got me rockin' and a rollin'
-Rockin' and a reelin' Barbara Ann
-Bar bar bar bar Barbar Ann
-
-Barbar Ann
-Barbar Ann
-
-
 

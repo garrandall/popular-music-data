@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: 9-to-5-dolly-parton
-lyrics_url: https://www.azlyrics.com/lyrics/isakdanielson/9to5.html
 name: 9 To 5
 rankings:
 - end_date: '1980-12-05'
@@ -112,40 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
-
-Tumble out of bed and stumble to the kitchen
-Pour myself a cup of ambition
-And yawn and stretch and try to come to life
-
-Jump in the shower and the blood starts pumping
-Out on the streets, the traffic starts jumping
-For folks like me on the job from 9 to 5
-
-Working 9 to 5, what a way to make a living
-Barely getting by, it's all taking and no giving
-They just use your mind, and they never give you credit
-It's enough to drive you crazy if you let it
-
-They let you dream, just a watch them shatter
-You're just a step on the boss man's ladder
-But you got dreams he'll never take away
-
-In the same boat with a lot of your friends
-Waiting to the day your ship'll come in
-And the tide's gonna turn
-And it's all gonna roll you away
-
-Working 9 to 5, what a way to make a living
-Barely getting by, it's all taking and no giving
-They just use your mind, and they never give you credit
-It's enough to drive you crazy if you let it
-
-For service and devotion
-You would think that I, would deserve a fat promotion
-Want to move ahead, but the boss won't seem to let me
-I swear sometimes that man is
-
-Tumble out of bed and stumble to the kitchen
-
-
 

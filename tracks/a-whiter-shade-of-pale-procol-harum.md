@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: a-whiter-shade-of-pale-procol-harum
-lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/awhitershadeofpale.html
 name: A Whiter Shade Of Pale
 rankings:
 - end_date: '1967-06-30'
@@ -56,41 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
 ---
-
-We skipped the light fandango
-Turned cartwheels 'cross the floor
-I was feeling kinda seasick
-The crowd called out for more
-The room was humming harder
-As the ceiling flew away
-So we called out for another drink
-The waiter brought a tray
-
-And so it was baby
-As the miller told his tale
-How her face at first just ghostly
-Turned a whiter shade of pale
-
-He said, there is no reason
-And the truth is plain to see
-And I wandered through my playing cards
-Would not let her be
-One of sixteen vestal virgins
-Leaving for the coast
-And although my eyes were wide open, girl
-They just might as well be closed
-
-And so it was baby
-As the miller told his tale
-That her face at first just ghostly
-Turned a whiter shade of pale
-
-And so it was baby
-As the miller told his tale
-That her face at first just ghostly
-Turned a whiter shade of pale
-
-We skipped the light fandango
-
-
 

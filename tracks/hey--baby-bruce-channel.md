@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hey--baby-bruce-channel
-lyrics_url: https://www.azlyrics.com/lyrics/annemurray/heybaby.html
 name: Hey! Baby
 rankings:
 - end_date: '1962-02-02'
@@ -68,34 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
-
-Hey, hey hey baby!
-I want to know if you'll be my girl
-Hey, hey hey baby!
-I want to know if you'll be my girl
-When I saw you walking down the street
-I said that's a kind of girl I'd like to meet
-She's so pretty, Lord she's fine
-I'm gonna make her mine, all mine
-
-Hey, hey hey baby!
-I want to know if you'll be my girl
-When you turned and walked away
-Thats when I want to say
-C'mon baby, give me a whirl
-I want to know if you'll be my girl
-
-Hey, hey hey baby!
-I want to know if you'll be my girl
-When you turned and walked away
-Thats when I want to say
-C'mon baby, give me a whirl
-I want to know if you'll be my girl
-
-Hey, hey hey baby!
-I want to know if you'll be my girl
-Hey, hey hey hey hey, baby
-C'mon, baby now
-
-
 

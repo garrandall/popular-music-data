@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: heart-full-of-soul-the-yardbirds
-lyrics_url: https://www.azlyrics.com/lyrics/ufo/heartfullofsoul.html
 name: Heart Full Of Soul
 rankings:
 - end_date: '1965-08-06'
@@ -56,40 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
 ---
-
-Sick at heart and lonely
-Deep in dark despair
-Thinking one thought only
-Where is she tell me where
-And if she says to you
-She don't love me
-Just give her my message
-Tell her of my plea
-
-And I know if she had me back again
-Well I would never make her sad
-I've gotta heart full of soul
-
-She's been gone such a long time
-Longer than I can bear
-But if she says she wants me
-Tell her that I'll be there
-And if she says to you
-She don't love me
-Just give her my message
-Tell her of my plea
-
-And I know if she had me back again
-Well I would never make her sad
-I've gotta heart full of soul
-
-And I know if she had me back again
-Well I would never make her sad
-I've gotta heart full of soul
-
-And I know if she had me back again
-Well I would never make her sad
-I've gotta heart full of soul
-
-
 

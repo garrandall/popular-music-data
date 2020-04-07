@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: 25-or-6-to-4-chicago
-lyrics_url: https://www.azlyrics.com/lyrics/localh/25or6to4.html
 name: 25 Or 6 To 4
 rankings:
 - end_date: '1970-07-31'
@@ -88,28 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
-
-Waiting for the break of day
-Searching for something to say
-Flashing lights across the sky
-Giving up, I close my eyes
-
-Sitting cross-legged on the floor
-25 or 6 to 4
-
-Feeling like I ought to sleep
-Spinning room is sinking deep
-Flashing lights across the sky
-Giving up, I close my eyes
-I close my eyes
-
-Should I try to do some more
-25 or 6 to 4
-
-Sitting cross-legged on the floor
-25 or 6 to 4
-Should I try to do some more
-25 or 6 to 4
-
-
 

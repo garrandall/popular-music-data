@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-boy-in-the-bubble-paul-simon
-lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/theboyinthebubble.html
 name: The Boy In The Bubble
 rankings:
 - end_date: '1987-03-13'
@@ -24,63 +23,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
 ---
-
-It was a slow day
-And the sun was beating 
-On the soldiers by the side of the road
-There was a bright light 
-A shattering of shop windows
-The bomb in the baby carriage
-Was wired to the radio, and
-
-These are the days of miracle and wonder
-This is the long-distance call 
-The way the camera follows us in slow-mo
-The way we look to us all
-The way we look to a distant constellation 
-That's dying in a corner of the sky
-These are the days of miracle and wonder 
-And don't cry, baby, don't cry, don't cry
-
-It was a dry wind
-And it swept across the desert
-And it curled into the circle of birth
-And the dead sand 
-Falling on the children 
-The mothers and the fathers
-And the automatic earth
-
-These are the days of miracle and wonder
-This is the long-distance call 
-The way the camera follows us in slow-mo
-The way we look to us all, oh, yeah
-The way we look to a distant constellation 
-That's dying in a corner of the sky
-These are the days of miracle and wonder 
-And don't cry, baby, don't cry, don't cry
-
-It's a turn-around jump shot
-It's everybody jump start 
-It's every generation throws a hero up the pop charts
-Medicine is magical and magical is art
-Think of the boy in the bubble 
-And the baby with the baboon heart
-
-And I believe
-These are days of lasers in the jungle
-Lasers in the jungle somewhere
-Staccato signals of constant information
-A loose affiliation of millionaires
-And billionaires, and, baby
-
-These are the days of miracle and wonder
-This is the long-distance call 
-The way the camera follows us in slow-mo
-The way we look to us all, oh, yeah
-The way we look to a distant constellation 
-That's dying in a corner of the sky
-These are the days of miracle and wonder 
-And don't cry, baby, don't cry, don't cry, don't cry
-
-
 

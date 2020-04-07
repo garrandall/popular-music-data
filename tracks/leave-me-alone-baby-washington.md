@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: leave-me-alone-baby-washington
-lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/wisewomanblues.html
 name: Leave Me Alone
 rankings:
 - end_date: '1963-07-26'
@@ -48,35 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
 ---
-
-Now let me tell you, baby, 
-Yes, let me tell you, baby, 
-Don't forget, pretty daddy
-That this world is full of old men
-
-I'm not going to be your servant
-I told you time and time again
-No, I'm not going to be your servant
-I told you time and time again
-
-Try to find yourself another woman
-'Cause I've got myself another man
-
-So leave me alone, baby
-You're not going to worry my mind
-Yes, leave me alone, baby
-You're not going to worry my mind
-
-Before I keep you, papa
-I'll take any kind of man I can find
-
-You had me once, daddy
-You could have kept me all to yourself
-Yes, you had me once, daddy
-You could have kept me all to yourself
-
-But now I'm sorry, baby
-I belong to somebody else
-
-
 

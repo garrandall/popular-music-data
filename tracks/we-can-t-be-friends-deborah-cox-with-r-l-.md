@@ -4,8 +4,7 @@ artists:
 features:
 - R.L.
 genres: []
-key: we-can-t-be-friends-deborah-cox-r-l-
-lyrics_url: https://www.azlyrics.com/lyrics/next/wecantbefriends.html
+key: we-can-t-be-friends-deborah-cox-with-r-l-
 name: We Can't Be Friends
 rankings:
 - end_date: '1999-09-17'
@@ -89,37 +88,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
 ---
-To just act like we never were
-To come around and not show hurt
-How dare we greet by shaking hands
-Just months ago I was your man
 
-Verbally we agreed
-It was over and we were through
-I'm trying to compose myself
-But I just can't get over you girl
-
-We can't be friends
-We can't be friends
-We can't be friends
-'Cause I'm still in love with you
-
-I went by Mother's, saw your car there
-To her you're still family, and it don't seem fair
-For everyone to just go on
-And I've tried and I can't do it
-'Cause I'm still torn
-I've tried to think of you
-As just another love in my past
-That didn't last
-But it's not that simple baby
-
-You may see me staring
-Or catch me in a daze
-May see me hang my head
-When you come my way
-Don't get too close to me
-And expect me to behave
-I might just steal a kiss
-If you come near my face
-What I'm trying to say

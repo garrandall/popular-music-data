@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-street-martha-the-vandellas
-lyrics_url: https://www.azlyrics.com/lyrics/struts/dancinginthestreet.html
 name: Dancing In The Street
 rankings:
 - end_date: '1964-08-28'
@@ -65,59 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
 ---
-
-Calling out around the world
-Are you ready for a brand new beat
-Summer's here and the time is right
-For dancing in the street
-
-They're dancing in Chicago (dancing in the street)
-Down in New Orleans (dancing in the street)
-In New York City (dancing in the street)
-
-All we need is music, sweet music (sweet, sweet music)
-There'll be music everywhere
-There'll be swinging, swaying, and records playing
-Dancing in the street
-
-Oh, it doesn't matter what you wear
-Just as long as you are there
-So come on, every guy, grab a girl
-Everywhere around the world
-
-They'll be dancing
-Dancing in the street
-
-It's an invitation across the nation
-A chance for folks to meet
-There'll be laughing, singing, and music swinging
-Dancing in the street
-
-Philadelphia, P-A (dancing in the street)
-Baltimore and D.C. now (dancing in the street)
-Can't forget the Motor City (dancing in the street)
-
-All we need is music, sweet music
-There'll be music everywhere
-There'll be swinging, swaying, and records playing
-Dancing in the street
-
-Oh, it doesn't matter what you wear
-Just as long as you are there
-So come on, every guy, grab a girl
-Everywhere around the world
-
-They're dancing
-Dancing in the street
-
-Dancing (dancing in the street)
-Dancing in the street (dancing in the street)
-Way down in L.A. (dancing in the street)
-Every day, they're dancing in the street (dancing in the street)
-San Francisco way (dancing in the street)
-They do it everyday now (dancing in the street)
-Across the ocean blue, me an' you (dancing in the street)
-Dancin' in the street (dancing in the street)
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: summer-vacation-the-party
-lyrics_url: https://www.azlyrics.com/lyrics/christycarlsonromano/dreamvacation.html
 name: Summer Vacation
 rankings:
 - end_date: '1990-07-27'
@@ -64,52 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
 ---
-
-Iâm cutting school today
-Iâm gonna get away 
-Iâm leaving now to precise
-Donât that sound nice
-In a place warm and breezy
-A little piece of paradise 
-
-Dream Vacation
-Its summer time and were having fun
-Dream Vacation
-Its party time for everyone
-
-Living hour outside
-Splashing  in the oceans tide
-Or just relaxing in the sun
-And now were gonna spend
-Sometime with our new friend
-Who  knows just might be the one
-
-Dream Vacation
-Its summer time and were having fun
-Dream Vacation
-Its party time for everyone
-
-Walking on the beach at night
-Holding hands it feels right
-Looking for a shooting star 
-Break up that guitar
-
-(I wanna dream vacation)
-
-Dream Vacation
-Its summer time and were having fun
-Dream Vacation
-Its Party time for everyone
-
-Dream Vacation
-Its summer time and were having fun
-Dream Vacation
-Its party time for everyone
-
-Dream Vacation
-Summer time and its just begun
-Dream Vacation
-Summer time and were having fun
-
-
 

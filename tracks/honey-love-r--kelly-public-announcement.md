@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: honey-love-r--kelly-public-announcement
-lyrics_url: https://www.azlyrics.com/lyrics/publicannouncement/slowdance.html
 name: Honey Love
 rankings:
 - end_date: '1992-05-29'
@@ -85,55 +84,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
 ---
-
-How come we don't slow dance no more 
-How come we don't hold each other real close 
-Stick together close like hand and glove 
-The way we used to off honey love 
-
-Hold 'em up, what the deal, bring it back 
-Days of grind, holdin girls, bendin back 
-Ghetto style of romance, keep it hot 
-In the basement of your best friend spot 
-Everybody from the hood, ain't no game 
-Freakin out in the sweat, ain't no shame 
-In you know what I feel, what I speak 
-It went down at the end every week 
-Let's bring it back 
-
-
-How come we don't slow dance no more 
-How come we don't hold each other real close 
-Stick together close like hand and glove 
-The way we used to off honey love 
-
-The basement parties used to be so tight 
-Bumpin, grindin, freakin with you all night 
-Off up in the corner shorty got me gone 
-Pressed all up against me shorty got me swoll 
-
-Listen up as I begin to break it down 
-Yyou so call playas at the party jumpin round 
-Rap music was kept on the low 
-Cause anybody that got lucky 
-Got it dancing slow 
-I'm not sayin that what you do ain't cool 
-You do it so much you forgot about the old school 
-Ghetto lights and one turntable was the move 
-And the only thing we came there to do and that's to slow dance 
-
-
-
-H-Town had everybody knockin boots 
-R Kelly, PA honey lovin you 
-Freak me baby, lights out like Silk used to do 
-Do me baby in the corner just me and you 
-Isley Brothers put us in the bed between the sheets 
-For some sexual healin, for some sexual healin 
-Keith Sweat talking bout how deep your loving go 
-Luther Vandross put us in the mood for some... ooh yeah 
-
-
-
-
 

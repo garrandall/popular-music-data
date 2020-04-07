@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-these-chains-from-my-heart-ray-charles
-lyrics_url: https://www.azlyrics.com/lyrics/madeleinepeyroux/takethesechainsfrommyheart.html
 name: Take These Chains From My Heart
 rankings:
 - end_date: '1963-04-19'
@@ -52,24 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
-
-Take these chains from my heart and set me free
-You've grown cold and no longer care for me
-All my faith in you is gone but the heartaches linger on
-Take these chains from my heart and set me free
-
-Take these tears from my eyes and let me see
-Just a spark of the love that used to be
-If you found somebody new, let me find a new love too
-Take these chains from my heart and set me free
-
-
-
-Give my heart just a word of sympathy
-Be as fair to my heart as you can be
-And if you no longer care for the love that's beating there
-Take these chains from my heart and set me free
-Take these chains from my heart and set me free
-
-
 

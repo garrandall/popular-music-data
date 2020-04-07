@@ -5,7 +5,6 @@ features:
 - The Weeknd
 genres: []
 key: might-not-belly-the-weeknd
-lyrics_url: https://www.azlyrics.com/lyrics/weeknd/mightnot.html
 name: Might Not
 rankings:
 - end_date: '2016-03-18'
@@ -77,59 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
 ---
-
-Everybody 'round me sayin' I should relax 'cause
-I've been goin' hard 'til my eyes roll back but
-All I want to do is forget about my past and
-Smoke a little weed, really nothin' too drastic
-Any time you see me in a picture and I'm smilin'
-Probably 'cause I'm faded or I'm chillin' with the fans and
-Not really the type to let a nigga talk back but
-I'mma let it slide 'cause my nigga's too violent
-Shoutout to the ones who spend money like a habit
-Even if they had a million dollars, they'd be trappin'
-Got a couple girls shootin' movies on the mattress
-Then I hit the booth, make the motherfuckin' soundtrack
-Then I play it back on the eighty-inch plasma
-Then I get 'em faded off that super fantastic
-Roll that grandmaster, smell it through the plastic
-Nobody can handle me, I'm gone when the shit's too strong
-
-
-The night's too long
-I took too much and I've gone too far
-And I might not make it
-I might not make it
-This time I might not make it
-I might not make it
-I might not make it
-This time I might not make it
-I might not make it
-I might not make it
-This time I might not make it
-I might not
-
-
-Bitches know, told a ho, "It's different strokes for different folks."
-Came up out the north, we was playin' with a different snow
-Took my niggas from the four-oh-one to pacific coast
-We no longer put no fish scale on the fishin' boat
-Listen, ho, I know all you bitches want is liquor, smoke
-Liquor, smoke
-I know all you bitches want is dick and dough 
-Dick and dough
-Told her, "You don't gotta make it difficult."
-Baby, sit, calm, we don't need another episode
-Hippy bitches sendin' me titty pictures
-She told me no religion was the new religion
-She said she don't believe in God but her shoes Christian
-I heard she servin' everybody like the soup kitchen
-Gettin' hoes higher, gettin' hoes higher
-She got work in the mornin', I'm gettin' hoes fired
-Why the fuck you call it purp when you mix it pink?
-You know I fuckin' mix the drinks when the shit's too strong
-
-
-
-
 

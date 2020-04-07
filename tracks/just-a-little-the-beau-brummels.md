@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: just-a-little-the-beau-brummels
-lyrics_url: https://www.azlyrics.com/lyrics/rascals/justalittle.html
 name: Just A Little
 rankings:
 - end_date: '1965-04-23'
@@ -56,33 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
 ---
-
-I can't stay, yes I know
-You know I hate to go
-But goodbye, love was sweet
-Our worlds can never meet
-
-So I'll cry just a little 'cause I love you so
-And I'll die just a little 'cause I have to go
-Away
-
-Can't you see how I feel
-When I say love's unreal
-But goodbye, it's been sweet
-Even though incomplete
-
-So I'll cry just a little 'cause I love you so
-And I'll die just a little 'cause I have to go
-Away
-
-Every night I still hear
-All your sighs very clear
-Now love's gone, gone away
-As I once heard you say
-
-Now I've cried just a little 'cause I loved you so
-And I've died just a little 'cause I had to go
-Away
-
-
 

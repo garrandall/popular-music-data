@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: in-the-name-of-love-martin-garrix-bebe-rexha
-lyrics_url: https://www.azlyrics.com/lyrics/leroysanchez/inthenameoflove.html
 name: In The Name Of Love
 rankings:
 - end_date: '2016-09-09'
@@ -101,52 +100,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
 ---
-
-If I told you this was only gonna hurt
-If I warned you that the fire's gonna burn
-Would you walk in? Would you let me do it first?
-Do it all in the name of love
-Would you let me lead you even when you're blind?
-In the darkness, in the middle of the night
-In the silence, when there's no one by your side
-Would you call in the name of love?
-
-In the name of love, name of love
-In the name of love, name of love
-
-In the name of
-Love, love
-In the name of
-Love, love
-
-If I told you we could bathe in all the lights
-Would you rise up, come and meet me in the sky?
-Would you trust me when you're jumping from the heights?
-Would you fall in the name of love?
-When there's madness, when there's poison in your head
-When the sadness leaves you broken in your bed
-I will hold you in the depths of your despair
-And it's all in the name of love
-
-In the name of love, name of love
-In the name of love, name of love
-
-In the name of
-Love, love
-Love, love
-
-I wanna testify
-Scream in the holy light
-You bring me back to life
-And it's all in the name of love
-
-In the name of love, love
-In the name of love, love
-
-In the name of
-Love, love
-In the name of
-Love, love
-
-
 
