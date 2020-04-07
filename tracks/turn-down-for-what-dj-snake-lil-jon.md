@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: turn-down-for-what-dj-snake-lil-jon
-lyrics_url: https://www.azlyrics.com/lyrics/wakaflockaflame/turndownforwhatremix.html
 name: Turn Down For What
 rankings:
 - end_date: '2014-01-17'
@@ -157,45 +156,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
 ---
-
-
-(Turn down for what?)
-Im the turn up god
-(Turn down for what?)
-We the turn up squad
-(Turn down for what?)
-Turn up! Turn up! Turn up!
-
-
-(Turn down for what?)
-Im the turn up god
-(Turn down for what?)
-
-
-(Turn down for what?)
-All you mad girls down to fuck
-I got your Angie wet, thats holy water
-You can't outdrink Flocka, you dont know me, Pablo
-Im a round switch laner, you a one way hater
-And my shorty thick like a Sunday paper
-A fool for the young thugs and they all smiling
-Kush got me pulling like ice cream and soda
-Throwing money, call the club a ballroom
-Come on, dude, make this motherfucker a monsoon
-Never went to college but I party on campus
-Hit me on stage while Im setting full of antlers
-Bitches in the presidential join the campaign
-Ain't nothing turning down
-
-
-
-
-(Turn down for what?)
-Im the turn up god
-(Turn down for what?)
-We the turn up squad
-(Turn down for what?)
-(Turn down for what?)
-
-
 

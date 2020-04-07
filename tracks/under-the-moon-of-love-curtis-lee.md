@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: under-the-moon-of-love-curtis-lee
-lyrics_url: https://www.azlyrics.com/lyrics/showaddywaddy/underthemoonoflove.html
 name: Under The Moon Of Love
 rankings:
 - end_date: '1961-10-22'
@@ -36,45 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
-
-Let's go for a little walk
-Under the moon of love
-Let's sit down and talk
-Under the moon of love
-I wanna tell ya
-That I love ya
-And I want you to be my girl
-Little darling let's walk
-Let's talk
-Under the moon of love
-
-You look so lovely
-Under the moon of love
-Your eyes shine so brightly
-Under the moon of love
-I wanna go all the time
-You'll be my love tonight
-Little darling let's walk
-Let's talk
-Under the moon of love
-
-I wanna talk sweet talk
-Whisper things in your ear
-I wanna tell ya the things
-I know you've been waiting to hear
-Come on little darling take my hand
-
-Let's go for a little walk
-Under the moon of love
-Let's sit down and talk
-Under the moon of love
-I wanna tell ya
-That I love ya
-And I want you to be my girl
-Little darling let's walk
-Let's talk
-Under the moon of love
-...
-
-
 

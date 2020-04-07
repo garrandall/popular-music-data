@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: would-i-lie-to-you--charles-eddie
-lyrics_url: https://www.azlyrics.com/lyrics/johngibbons/wouldilietoyou.html
 name: Would I Lie To You?
 rankings:
 - end_date: '1992-08-28'
@@ -113,58 +112,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
-
-No, no, no, baby (Oh, yeah)
-Look into my eyes, would I lie to you, baby?
-Would I lie to you, baby?
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Oh, yeah)
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Oh, yeah)
-
-Look into my eyes, would I lie to you, baby?
-Would I lie to you, baby?
-Look into my eyes, would I lie to you?
-Would I lie to you? (Oh, yeah)
-
-No, no, no, baby
-La la la la la la, would I lie to you?
-
-I'm telling you, baby, you will never find another girl
-In this heart of mine (Oh-oh)
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Oh, yeah)
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Oh, yeah)
-
-Would I lie to you?
-
-Look into my eyes, would I lie to you, baby?
-Would I lie to you?
-Look into my eyes, would I lie to you?
-Would I lie to you? (Oh, yeah)
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Come on)
-
-Look into my eyes, can't you see they're open wide?
-Would I lie to you, baby, would I lie to you? (Oh, yeah)
-Don't you know it's true, girl, there's no one else but you?
-Would I lie to you, baby, yeah? (Oh, yeah)
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: times-like-these-foo-fighters
-lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/timeslikethese.html
 name: Times Like These
 rankings:
 - end_date: '2003-03-14'
@@ -88,45 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
-
-I, I'm a one way motorway
-I'm a road that drives away
-Then follows you back home
-I, I'm a street light shining
-I'm a wild light blinding bright
-Burning off alone
-
-(Uh huh huh)
-
-It's times like these you learn to live again
-It's times like these you give and give again
-It's times like these you learn to love again
-It's times like these time and time again
-
-I, I'm a new day rising
-I'm a brand new sky
-To hang the stars upon tonight
-I, I'm a little divided
-Do I stay or run away
-And leave it all behind?
-
-(Uh huh huh)
-
-It's times like these you learn to live again
-It's times like these you give and give again
-It's times like these you learn to love again
-It's times like these time and time again
-
-(Oh )
-
-(Uh huh huh)
-
-It's times like these you learn to live again
-It's times like these you give and give again
-It's times like these you learn to love again
-It's times like these time and time again
-It's times like these time and time again
-It's times like these time and time again
-
-
 

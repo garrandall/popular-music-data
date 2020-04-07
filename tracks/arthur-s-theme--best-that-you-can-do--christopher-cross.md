@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: arthur-s-theme--best-that-you-can-do--christopher-cross
-lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/arthursthemethebestthatyoucando.html
 name: Arthur's Theme (Best That You Can Do)
 rankings:
 - end_date: '1981-08-21'
@@ -104,58 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
 ---
-
-Once in your life you will find her
-Someone who turns your heart around
-And next thing you know
-You're closing down the town
-Wake up and it's still with you
-Even though you left her way across town
-Wonderin' to yourself
-Hey, what have I found
-
-When you get caught
-Between the moon and New York City
-I know it's crazy
-But it's true
-If you get caught
-Between the moon and New York City
-The best that you can do
-The best that you can do
-Is fall in love
-
-Arthur, he does as he pleases
-All of his life his master's toys
-And deep in his heart he's just
-He's just a boy
-Living his life one day at a time
-He's showing himself a pretty good time
-He's laughing about the way
-They want him to be
-
-When you get caught
-Between the moon and New York City
-I know it's crazy
-But it's true
-If you get caught
-Between the moon and New York City
-The best that you can do
-(The best that you can do)
-The best that you can do
-Is fall in love
-
-
-
-When you get caught
-Between the moon and New York City
-I know it's crazy
-But it's true
-If you get caught
-Between the moon and New York City
-The best that you can do
-(The best that you can do)
-The best that you can do
-Is fall in love...
-
-
 

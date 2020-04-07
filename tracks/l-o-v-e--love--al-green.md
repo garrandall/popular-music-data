@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: l-o-v-e--love--al-green
-lyrics_url: https://www.azlyrics.com/lyrics/paulyoung/lovelove.html
 name: L-O-V-E (Love)
 rankings:
 - end_date: '1975-03-07'
@@ -56,54 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
 ---
-
-Baby, I started to write this song about you
-Then I decided
-That I would write it all about love
-And it appeared to me, that you wasn't happy
-And that's for sure
-Positively, that's what the world is made of
-So give me more of that love
-
-Love is a walk down main street
-Love is an apple that is so sweet
-Love is something that can't be beat now
-L-O-V-E is strange to me
-
-I can't explain this feeling
-Can't you see salvation is dreaming
-It's all in the heavens, can't you see
-You can always depend on me
-To give you love
-
-Love is a flower in my soul now
-Love's a feeling and a story that can't be told
-Can't you feel it burning more and more
-Stop and look at the big wheel roar
-
-I can't explain this feeling
-Can't you see salvation is dreaming
-I would give my life for the glory
-Just to be able to tell this story 'bout love
-
-I didn't mean to make you mad
-Sweet story, I thought I had
-Maybe time will bring us together
-And, and I could be such a happy fella
-About love,
-
-Love is something that is so divine
-Love's a feeling that's a friend of mine, yeah
-Can't be measured by no sign I said
-In your heart and even in your mind
-
-Love is a walk down main street
-Love is an apple that is so sweet
-Love is something that can't be beat, no
-L-O-V-E is strange to me
-Ooh, oooh, oh no, it's a story that just can't be beat, oh no,
-Oh, feel it burning now,
-Stop and look at the big wheel roar.
-
-
 

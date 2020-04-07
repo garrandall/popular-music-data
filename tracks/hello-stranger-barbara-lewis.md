@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hello-stranger-barbara-lewis
-lyrics_url: https://www.azlyrics.com/lyrics/queenlatifah/hellostranger.html
 name: Hello Stranger
 rankings:
 - end_date: '1963-05-10'
@@ -64,25 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
-
-(Shoo-bop, shoo-bop, my baby) 
-(Shoo-bop, shoo-bop) 
-
-Hello, stranger 
-(ooh) It seems so good to see you back again 
-How long has it been? 
-
-(ooh, seems like a mighty long time) 
-(shoo-bop, shoo-bop, my baby, ooh) 
-It seems like a mighty long time 
-
-Oh-uh-oh, I my, my, my, m 
-I'm so glad 
-You stopped by to say "hello" to me 
-Remember that's the way it used to be 
-Ooh, it seems like a mighty long time 
-(shoo-bop, shoo-bop, my baby, ooh) 
-It seems like a mighty long time
-
-
 

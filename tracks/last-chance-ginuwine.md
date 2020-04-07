@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: last-chance-ginuwine
-lyrics_url: https://www.azlyrics.com/lyrics/dondria/lastchance.html
 name: Last Chance
 rankings:
 - end_date: '2009-06-26'
@@ -72,77 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
 ---
-
-Ohh yeahh.
-Ohh yeahh (Dondria)
-Oohh yeahhh
-Oohh yeahhh (Dondria)
-Ohh yeahh
-Ohh yeahh (Dondria)
-
-Phatfffat's how I'm known
-If this is your song
-Wait till hear what I did with my verse come on'
-
-
-
-It's amazing baby
-How we let it go
-On and on for this long
-You blamin me I'm blamin you
-I can't say your right but I sure ain't wrong
-Girl lately I, I been thinkin
-And my thoughts are tellin me I'm trippin
-Used to say I didn't care
-Found your bags packed upstairse
-With all that talkin tough
-I'm bouta loose you
-
-If this is my last chance to love you
-I'm gunna play it like a grown man ought to
-If I only got one shot to win you
-Then call me jordan 4th quarter in 92, yeah
-I'm gunna do it
-No matter what your girlfriends say
-I'm gunna do it
-Believe me baby talkin bout that kinda change
-I'm gunna do it
-From a boy to a man like barack and his plan
-If this is my last chance
-
-
-Boy I don't know why we keep it goin on
-Fallin off, love is lost
-You playin me
-But I'm not a fool
-We fuss we fight
-Baby you broke the rules
-I thought I was trippin
-I thought I was slippin
-But the signs are showin me
-That you were never willing
-To love
-I gave you chance after chance
-And you straight took advantage of me
-Can't you see that I'm done.
-Already gave you your last chance
-To win me
-But you took it for granteed now your loosin me
-I'll give you one shot to show me
-That your ready to settle down and marry me
-Butt you can't do it.
-You got to many girls callin your phone
-Not gunnna do it
-I've tried it but id rather be alone
-I can't do it
-You won't hurt me again baby this is the end
-I can't do it
-Already gave you your last chance yeahh
-
-Phatfffat's how I'm known
-If this is your song
-Wait till ya hear what I did with my verse come on
-
-
-
 

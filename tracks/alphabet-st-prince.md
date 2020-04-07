@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: alphabet-st-prince
-lyrics_url: https://www.azlyrics.com/lyrics/sufjanstevens/alphabetst.html
 name: Alphabet St
 rankings:
 - end_date: '1988-05-06'
@@ -60,27 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
-
-I'm going down to Alphabet street
-I'm gonna crown the first girl that I meet
-I'm gonna talk so sexy
-She'll want me from my head to my feet
-(Yeah, she will)
-
-I'm gonna drive my daddy's Thunderbird
-A white rad ride, '66 ('67) so glam it's absurd
-I'm gonna put her in the back seat
-And drive her to Tennessee
-
-Excuse me, baby
-I don't mean to be rude
-I guess tonight I'm just not, just not in the mood
-So if you don't mind, I would like to watch, can I?
-
-I'm going down, down, down if that's the only way
-To make this cruel, cruel world hear what we've got to say
-Put the right letters together and make a better day
-Baby it's the only way
-
-
 

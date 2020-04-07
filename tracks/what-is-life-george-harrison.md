@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: what-is-life-george-harrison
-lyrics_url: https://www.azlyrics.com/lyrics/shawnmullins/whatislife.html
 name: What Is Life
 rankings:
 - end_date: '1971-03-05'
@@ -44,36 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
 ---
-
-What I feel, I can't say
-But my love is there for you any time of day
-But if it's not love that you need
-Then I'll try my best to make everything succeed
-
-Tell me, what is my life without your love
-Tell me, who am I without you by my side
-
-What I know, I can do
-If I give my love now to everyone like you
-But if it's not love that you need
-Then I'll try my best to make everything succeed
-
-Tell me, what is my life without your love
-Tell me, who am I without you by my side
-Tell me, what is my life without your love
-Tell me, who am I without you by my side
-
-What I feel, I can't say
-But my love is there for you any time of day
-But if it's not love that you need
-Then I'll try my best to make everything succeed
-
-Tell me, what is my life without your love
-Tell me, who am I without you, by my side
-Oh tell me, what is my life without your love
-Tell me, who am I without you, by my side
-What is my life without your love
-Tell me, who am I without you, by my side
-
-
 

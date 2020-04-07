@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wings-of-a-dove-ferlin-husky
-lyrics_url: https://www.azlyrics.com/lyrics/nancigriffith/wingsofadove.html
 name: Wings Of A Dove
 rankings:
 - end_date: '1960-12-04'
@@ -80,48 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
-
-On the wings of a snow white dove
-He sends His pure sweet love
-A sign from above (a sign from above)
-On the wings of a dove
-
-When trouble surrounds us, when evil comes
-The body grows weak, the spirit grows numb
-When these things beset us, God doesn't forget us
-He sends down His love (sends down his love)
-On the wings of a dove
-
-On the wings of a snow white dove
-He sends His pure sweet love
-A sign from above (a sign from above)
-On the wings of a dove
-
-When Noah had drifted on the flood many days
-He searched for land in various ways
-Troubles, he had some, but was not forgotten
-God sent down His love (sent down his love)
-On the wings of a dove
-
-On the wings of a snow white dove
-He sends His pure sweet love
-A sign from above (a sign from above)
-On the wings of a dove
-
-When Jesus went down to the water that day
-He was baptized in the usual way
-And when it was done, God blessed His Son
-He sent down His love on the wings of a dove
-
-On the wings of a snow white dove
-He sends His pure sweet love
-A sign from above (a sign from above)
-On the wings of a dove
-
-On the wings of a snow white dove
-He sends His pure sweet love
-A sign from above (a sign from above)
-On the wings of a dove
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sweet-little-rock-and-roller-chuck-berry
-lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/sweetlittlerockandroller.html
 name: Sweet Little Rock And Roller
 rankings:
 - end_date: '1958-11-16'
@@ -44,34 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
-
-Now ten years old and as sweet as she can be
-All dressed up like a downtown Christmas tree
-Dancin' an' hummin' a rock 'n' roll melody
-
-She's the daughter of a well respected man
-Who taught her how to jerk and understand
-Since she became a rock 'n' roll music fan
-
-Sweet little rock 'n' roller, sweet little rock 'n' roller
-Her daddy doesn't have to scold her, her... can't hardly hold her
-And can't she never gets any older, sweet little rock 'n' roller
-
-Should-a seen her eyes when the band began to play
-And the famous singer bowed away
-The stars were gone, she screamed and yelled for rain
-
-Ten thousand eyes were watchin' them leave the floor
-Five thousand tongues were screamin': 'More and more!'
-And 'bout fifteen hundred waitin' outside the door
-
-Sweet little rock 'n' roller, sweet little rock 'n' roller
-Her daddy doesn't have to scold her, her... can't hardly hold her
-And can't she never gets any older, sweet little rock 'n' roller
-
-Sweet little rock 'n' roller, sweet little rock 'n' roller
-Sweet little rock 'n' roller, sweet little rock 'n' roller
-Sweet little rock 'n' roller
-
-
 

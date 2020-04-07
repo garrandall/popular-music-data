@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: stronger--what-doesn-t-kill-you--kelly-clarkson
-lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/strongerwhatdoesntkillyou.html
+lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/whatdoesntkillyoustronger.html
 name: Stronger (What Doesn't Kill You)
 rankings:
 - end_date: '2011-11-18'
@@ -156,10 +156,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
 ---
-
 You know the bed feels warmer
 Sleeping here alone
-You know I dream in color
+You know I dream in colour
 And do the things I want
 
 You think you got the best of me
@@ -167,7 +166,7 @@ Think you've had the last laugh
 Bet you think that everything good is gone
 Think you left me broken down
 Think that I'd come running back
-Baby you don't know me, cause you're dead wrong
+Baby, you don't know me, 'cause you're dead wrong
 
 What doesn't kill you makes you stronger
 Stand a little taller
@@ -183,11 +182,11 @@ Stand a little taller
 Doesn't mean I'm lonely when I'm alone
 
 You heard that I was starting over with someone new
-They told you I was moving on, over you
+They told you I was moving on over you
 
 You didn't think that I'd come back
 I'd come back swinging
-You try to break me, but you see
+You tried to break me, but you see
 
 What doesn't kill you makes you stronger
 Stand a little taller
@@ -215,6 +214,11 @@ What doesn't kill you makes a fighter
 Footsteps even lighter
 Doesn't mean I'm over cause you're gone
 
+What doesn't kill you makes you stronger, stronger
+Just me, myself and I
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
 
 What doesn't kill you makes you stronger, stronger
 Just me, myself and I
@@ -223,6 +227,3 @@ Stand a little taller
 Doesn't mean I'm lonely when I'm alone
 
 (When I'm alone)
-
-
-

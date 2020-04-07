@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: la---la---means-i-love-you-the-delfonics
-lyrics_url: https://www.azlyrics.com/lyrics/jackson5/lalameansiloveyou.html
 name: La - La - Means I Love You
 rankings:
 - end_date: '1968-02-09'
@@ -68,46 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
-
-Many guys have come to you
-With a line that wasn't true
-And you passed them by
-Are you in the center ring
-And their lines don't mean a thing
-Why don't you let me try
-No, I don't wear a diamond ring
-I don't even know a song to sing
-
-All I know is la-la la-la la-la la-la la means I love you
-Oh, baby, please, now
-La-la la-la la-la la-la la means I love you
-
-If I ever saw a girl
-That I needed in this world
-You are the one for me
-Let me hold you in my arms
-Girl, and thrill you with my charms
-I'm sure you will see
-The things I am sayin' are true
-And the way I explain them to you
-Listen to me
-
-La-la la-la la-la la-la la means I love you
-Oh, baby please now
-La-la la-la la-la la-la la means I love you
-Oh, yeah, yeah
-
-The things I am sayin' are true
-And the way I explain them to you
-Yes, to you
-Listen to me
-La-la la-la la-la la-la la means I love you
-
-Oh, you got to understand now
-La-la la-la la-la la-la la means I love you
-Oh, come on and take my hand now
-La-la la-la la-la la-la la means I love you
-Come on, and be my only one now
-
-
 

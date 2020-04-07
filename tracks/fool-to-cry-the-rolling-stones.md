@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: fool-to-cry-the-rolling-stones
-lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/fooltocry.html
 name: Fool To Cry
 rankings:
 - end_date: '1976-04-30'
@@ -44,49 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
 ---
-
-Well, when I come home, baby
-And I've been working all night long
-I put my daughter on my knee
-And she says, mummy, what's wrong?
-
-She whispers in my ear so sweetly
-And you know what she says?
-She says
-
-Mummy, you're a fool to cry
-You're a fool to cry
-And it makes me wonder why
-Baby, I'm wondering why, why
-
-You know I got a baby
-He lives in the poor part of town
-I go and see him sometimes
-And we make love so fine
-
-And I put my head on his shoulder
-And he says, tell me all your troubles
-And I'll tell you mine
-
-Daddy, I'm a fool to cry
-I'm a fool to cry
-And it makes me wonder
-
-Daddy, I'm a fool to cry
-I'm a fool to cry
-And it makes me wonder
-
-I'm a fool, baby
-I'm such a fool, baby
-
-
-Baby, I'm a fool to cry
-I'm a fool to cry
-It makes me wonder why
-
-Such a fool, baby
-I'm a fool, baby
-Such a fool, baby
-
-
 

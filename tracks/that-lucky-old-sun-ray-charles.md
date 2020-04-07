@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: that-lucky-old-sun-ray-charles
-lyrics_url: https://www.azlyrics.com/lyrics/alligatoah/thatluckyoldsun.html
 name: That Lucky Old Sun
 rankings:
 - end_date: '1963-12-13'
@@ -44,27 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
-
-Up in the mornin'
-Out on the job
-Work like the devil for my pay
-While that lucky old sun got nothin' to do
-But roll around heaven all day
-
-Fuss with my woman, toil for my kids
-Sweat till I'm wrinkled and gray
-While that lucky old sun got nothin' to do
-But roll around heaven all day
-
-Good Lord above, can't you hear me crying, tears all in my eyes
-Send down that cloud with your silver lining, lift me to Paradise
-Oh, show me that river, take me across
-Wash all my troubles away
-Like that lucky old sun, give me nothing to do
-But roll around heaven all day
-
-Like that lucky old sun, give me nothing to do
-But roll around heaven all day
-
-
 

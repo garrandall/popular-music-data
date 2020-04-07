@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: somethin-else-eddie-cochran
-lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/somethinelse.html
 name: Somethin Else
 rankings:
 - end_date: '1959-09-06'
@@ -44,36 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
 ---
-
-Look left, here she comes
-
-Here comes that girl again
-Wanted to date her since I don't know when
-But she don't notice me when I pass
-She goes with other guys way outta my class
-That can't stop me from thinkin' to myself
-Boy that girl's fine lookin' man
-She's somethin' else
-
-Looky there, across the street
-
-There's a car named just for me
-To own that car would be a luxury
-But right now I can't afford the gas
-A brand new convertible is outta my class
-That can't stop me from thinkin' to myself
-Boy that car's fine lookin' man
-It's somethin' else
-
-Lookout, wait and see
-
-Work hard and savin' dough
-I'll get the girl that I've been wantin' so
-I'll get that car, we go ridin' around
-We look real cute with the white top down
-Keep right on a dreamin', thinkin' to myself
-When it all comes true man
-That's somethin' else
-
-
 

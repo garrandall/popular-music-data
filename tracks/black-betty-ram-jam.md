@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: black-betty-ram-jam
-lyrics_url: https://www.azlyrics.com/lyrics/soil/blackbetty.html
 name: Black Betty
 rankings:
 - end_date: '1977-06-17'
@@ -76,38 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
 ---
-
-Whoa, black Betty (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-Black Betty had a child (bam-ba-lam)
-The damn thing gone wild (bam-ba-lam)
-She said, "I'm worryin' outta mind" (bam-ba-lam)
-"The damn thing gone blind" (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-
-Yeah, yeah, yeah
-Yeah, yeah
-
-Oh, black Betty (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-She really gets me high (bam-ba-lam)
-You know that's no lie (bam-ba-lam)
-She's so rock steady (bam-ba-lam)
-And she's always ready (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-
-Whoa, black Betty (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-She's from Birmingham (bam-ba-lam)
-Way down in Alabam' (bam-ba-lam)
-Well, she's shakin' that thing (bam-ba-lam)
-Boy, she makes me sing (bam-ba-lam)
-Whoa, black Betty (bam-ba-lam)
-Whoa, black Betty
-
-Bam-ba-lam
-
-
 

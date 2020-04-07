@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: never-be-the-same-camila-cabello
-lyrics_url: https://www.azlyrics.com/lyrics/cimorelli/neverbethesame.html
 name: Never Be The Same
 rankings:
 - end_date: '2018-01-02'
@@ -156,72 +155,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
-
-Something must've gone wrong in my brain
-Got your chemicals all in my veins
-Feeling all the highs, feeling all the pain
-
-Flashing through the night in my memory
-I'm out of control, burning like a flame
-You're like a tidal wave crashing over me
-
-Just like kerosene, you lit me up, set me free
-Suddenly, I'm a fiend and you're all I need
-All I need, you're all I need
-
-It's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never be the same
-It's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never ever, ever be the same
-I'll never be the same
-I'll never be the same
-I'll never be the same
-
-Met you downtown in the winter snow
-Now I got your love, can't let it go
-You said, "stop playing it safe, girl, I wanna see you lose control"
-
-Just like kerosene, you lit me up, set me free
-Suddenly, I'm a fiend and you're all I need
-All I need, you're all I need
-
-It's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never be the same
-It's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never ever, ever be the same
-I'll never be the same
-I'll never be the same
-I'll never be the same
-
-You're in my blood, you're in my veins, you're in my head
-Baby look what you've done, never forget your name
-Promise I meant it when I said
-
-It's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never be the same
-I'm saying it's you, babe
-And I'm a sucker for the way that you move, babe
-And I could try to run, but it would be useless
-You're to blame
-Just one look at you, I knew I'll never be the same
-I'll never be the same
-I'll never be the same
-I'll never be the same
-
-
 

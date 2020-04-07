@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: friday-on-my-mind-the-easybeats
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/fridayonmymind.html
 name: Friday On My Mind
 rankings:
 - end_date: '1967-03-24'
@@ -64,53 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
 ---
-
-Monday morning feels so bad
-Everybody seems to nag me
-Coming Tuesday I'll feel better
-Even my old man looks good
-Wednesday just won't go
-Thursday goes too slow
-I have Friday on my mind
-
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-She looks fine tonight
-She is out of sight to me
-
-I'll spend my bread
-I'll lose my head
-I've got to get tonight
-Monday, I have Friday on my mind
-
-Do the five day grind once more
-No one, nothing else that bugs me
-More than working for the rich man
-Hey, I'll change that scene one day
-
-Today I might be mad
-Tomorrow I'll be glad
-'Cause I'll have Friday on my mind
-
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-She looks fine tonight
-She is out of sight to me
-
-I'll spend my bread
-I'll lose my head
-I've got to get tonight
-Monday, I have Friday on my mind
-
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-Gonna have fun in the city
-I'll be with my girl, she's so pretty
-Gonna have fun in the city
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walk-right-back-the-everly-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/bobbiegentry/walkrightback.html
 name: Walk Right Back
 rankings:
 - end_date: '1961-02-12'
@@ -60,30 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
 ---
-
-I want you to tell me why you walked out on me
-I'm so lonesome every day
-I want you to know that since you walked out on me
-Nothing seems to be the same old way
-
-Oh, think about the love that burns within my heart for you
-The good times that we had before you went away
-Walk right back to me this minute
-Bring your love to me, don't send it
-I'm so lonesome every day
-
-I want you to tell me why you walked out on me
-I'm so lonesome every day
-I want you to know that since you walked out on me
-Nothing seems to be the same old way
-
-Oh, think about the love that burns within my heart for you
-The good times that we had before you went away
-Walk right back to me this minute
-Bring your love to me, don't send it
-I'm so lonesome every day
-
-La la la...
-
-
 

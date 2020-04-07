@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-me-again-john-newman
-lyrics_url: https://www.azlyrics.com/lyrics/r5/lovemeagain.html
 name: Love Me Again
 rankings:
 - end_date: '2013-12-13'
@@ -80,74 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
 ---
-
-Know I've done wrong
-Left your heart torn
-Is that what devils do?
-Took you so long
-Where only fools go
-I shook the angel in you
-
-Now I'm rising from the ground
-Rising up to you
-Filled with all the strength I found
-There's nothing I can't do
-
-I need to know now, know now
-Can you love me again?
-I need to know now, know now
-Can you love me again?
-I need to know now, know now
-Can you love me again?
-I need to know now, know now
-Can't you love me again?
-
-Love me again
-
-It's unforgivable
-I stole and burnt your soul
-Is that what demons do?
-They rule the worst of me
-Destroy everything
-They bring down angels like you
-
-Now I'm rising from the ground
-Rising up to you
-Filled with all the strength I found
-There's nothing I can't do
-
-Alright!
-
-I need to know now, know now
-Can you love me again?
-I need to know now, know now
-Can you love me again?
-
-Love me again
-Oh, love me again
-You love me again
-
-Whoa
-Told you once again
-Do this again
-Do this again, oh, Lord
-Told you once again
-Do this again
-Do this again, oh, Lord
-
-I need to know now, know now
-Can youâcan you love me again?
-
-I need to know now, know now
-Can you love me again?
-I need to know now, know now
-Can youâcan you love me again?
-
-Love me again
-
-Oh, can you love me again?
-
-Whoa! You love me again
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wolverton-mountain-claude-king
-lyrics_url: https://www.azlyrics.com/lyrics/hankwilliamsjr/wolvertonmountain.html
 name: Wolverton Mountain
 rankings:
 - end_date: '1962-06-01'
@@ -72,42 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
-
-Now they say don't go on Wolverton Mountain 
-If you're looking for a wife
-Cause Clifton Clovers has got a pretty young daughter
-And he's mighty handy with a gun and a knife
-
-Her tender lips are sweeter than honey 
-And Wolverton Mountain protects her there
-The bears and the birds tell Clifton Clovers 
-If a stranger should wander there
-
-All of my dreams are on Wolverton Mountain 
-I want his daughter for my wife
-I'll take my chances and I'll climb his mountain
-Though Clifton Clovers he may take my life
-
-Her tender lips are sweeter than honey 
-And Wolverton Mountain protects her there
-The bears and the birds tell Clifton Clovers 
-If a stranger should wander there
-
-I'm goin' up on Wolverton Mountain 
-'Cause it's too lonesome down here below
-It's just ain't right to hide his daughter 
-From the one that loves her so
-
-Her tender lips are sweeter than honey 
-And Wolverton Mountain protects her there
-The bears and the birds tell Clifton Clovers 
-If a stranger should wander there
-
-I don't care about Clifton Clovers 
-I'm gonna climb up on that mountain
-I wanna just the one I love 
-I don't care about Clifton Clovers
-I'm gonna climb up on that mountain
-
-
 

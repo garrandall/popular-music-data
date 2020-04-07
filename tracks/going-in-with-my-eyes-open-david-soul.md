@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: going-in-with-my-eyes-open-david-soul
-lyrics_url: https://www.azlyrics.com/lyrics/craigdavid/liveinthemoment.html
 name: Going In With My Eyes Open
 rankings:
 - end_date: '1977-05-13'
@@ -36,75 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
 ---
-
-
-Hey girl, it's so nice to meet ya
-Don't wanna come across eager
-But real talk, I'm feeling your features
-Your body shaked out my bass-line and speaker
-Uh, and girl, I could see ya down
-But never to let that defeat ya
-Cause when you're down with me
-Forget all of your troubles
-
-And let's live in the moment
-When one door closes, another one opens
-So let's live in the moment
-No point holding onto what's broken
-So let's live in the moment
-When one door closes, another one opens
-Stop tryna control it and start living in the moment
-
-All the time you been wasting
-Day in the waste, man
-I think it's time you replace them
-With a young brother that will you amazing
-Let me upgrade your day, we're all basic
-Don't carry the weight of all the problems we had yesterday
-And let me come and put a smile on that face
-Forget all your troubles
-
-And let's live in the moment
-When one door closes, another one opens
-So let's live in the moment
-No point holding onto what's broken
-So let's live in the moment
-When one door closes, another one opens
-Stop tryna control it and start living in the moment
-
-
-Yeah, gotta getcha, gotta getcha, uh-huh
-Music play me be my baby, uh-huh
-Got the eye on London Eye
-I grab your thigh and tell you bring it back one time and uh-huh
-Stroke it once, you'll get up on it 'cause I know it's fine
-And you know I hang on ledges and that bottle heavy
-I'm addicted to you, need you like a Lamborghini
-I'm addicted to the body, looking what the starlit
-I need you like the devil need soul
-And there it goes, in the Uber, you should let me control
-And put your mind to the side and put your heart in the booth
-Tell you're tired and I promise I ain't losing the fort
-Any woman, any woman, know you're good daddy
-Yeah, we shooting till them heaters both daddy
-All I really want is money, more from the truth
-And I never lie when I'm to the fire then I boo
-
-
-And let's live in the moment
-When one door closes, another one opens
-So let's live in the moment
-No point holding onto what's broken
-So let's live in the moment
-When one door closes, another one opens
-Stop tryna control it and start living in the moment
-And let's live in the moment
-When one door closes, another one opens
-So let's live in the moment
-No point holding onto what's broken
-So let's like in the moment
-When one door closes, another one opens
-Stop tryna control it and start living in the moment
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: float-on-modest-mouse
-lyrics_url: https://www.azlyrics.com/lyrics/imaginaryfuture/floaton.html
 name: Float On
 rankings:
 - end_date: '2004-06-04'
@@ -88,33 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
 ---
-
-I backed my car into a cop car the other day
-Well, he just drove off, sometimes life's okay
-I ran my mouth off a bit too much, oh, what did I say?
-Well, you just laughed it off, it was all okay
-
-And we'll all float on, okay
-And we'll all float on, okay
-And we'll all float on, okay
-And we'll all float on anyway
-
-A fake Jamaican took every last dime with that scam
-It was worth it just to learn some sleight of hand
-Bad news comes, don't you worry even when it lands
-Good news will work its way to all them plans
-We both got fired on exactly the same day
-Well, we'll float on, good news is on the way
-
-And we'll all float on, okay
-And we'll all float on, okay
-And we'll all float on, okay
-And we'll all float on, alright
-
-Already, we'll all float on, alright
-Already, we'll all float on, alright
-Don't worry, even if things end up a bit too heavy
-We'll all float on, alright
-
-
 

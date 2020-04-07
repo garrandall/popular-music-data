@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-night-the-lights-went-out-in-georgia-vicki-lawrence
-lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/nightthelightswentoutingeorgia.html
 name: The Night The Lights Went Out In Georgia
 rankings:
 - end_date: '1973-02-16'
@@ -88,43 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
 ---
-
-On his way his way home from Candletop
-Been two weeks gone and he thought he'd stop
-At Webb's and have him a drink fore he went home to her
-Andy Wolo said hello he said hi what's a doin' Wo
-Says sit down I got some bad news that's gonna hurt
-Said I'm your best friend and you know that's right
-But your young bride ain't home tonight
-Since you been gone she's been seein' that Amos boy Seth
-He got mad and he saw red and Andy said boy don't you lose your head
-Cause to tell you the truth I've been with her myself
-That's the night that the lights went out in Georgia
-That's the night that they hung an innocent man
-Don't you trust your soul to no backwoods southern lawyer
-Cause the judge and the town's got bloodstains on his hands
-
-Well, Andy got scared and left the bar walkin' on home 'cause he didn't live far
-See Andy didn't have many friends and had just lost him one
-My brother thought his wife must've left town
-So he went home and finally found the only thing papa had left up was a gun
-Then he went off to Andy's house slippin' through the backwoods quiet as a mouse
-Came upon some tracks too small for Andy to make
-He looked through the screen at the backporch door
-And he saw Andy lyin' on the floor in a puddle of blood and he started to shake
-But Georgia patrol was makin' their rounds and he fired a shot just to flag 'em down
-And a big bellied sheriff grabbed his gun and said why'd you do it
-The judge said guilty in a make believe trial
-Slapped the sheriff on the back with a smile
-Said supper's waitin' at home and I gotta get to it
-That's the night that the lights went out in Georgia...
-
-Well, they hung my brother before I could say the tracks he saw while on his way
-To Andy's house out back that night were mine
-His cheatin' wife had never left town that's one body that'll never be found
-See little sister don't miss when she gets her gun
-Oh, that's the night that the lights went out in Georgia...
-Oh, that's the night that the lights went out in Georgia...
-
-
 

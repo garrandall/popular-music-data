@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: brown-eyed-girl-van-morrison
-lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/browneyedgirl.html
 name: Brown Eyed Girl
 rankings:
 - end_date: '1967-07-21'
@@ -72,44 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
 ---
-
-Hey where did we go, days when the rains came
-Down in a hollow playin' a new game
-Laughin' and a runnin', skippin' and a jumpin'
-In the misty morning fog our hearts a thumpin' and you
-My brown eyed girl
-You're my brown eyed girl
-
-Now whatever happened today is so slow
-Goin' down the old mine with a transistor radio
-Standin' in the sunlight laughin'
-Hidin' behind a rainbow's wall
-Slippin' and slidin' all along the waterfall with you
-My brown eyed girl
-You're my brown eyed girl
-
-Do you remember when we used to sing
-Sha la la la la la la la la la la te da
-Sha la la la la la la la la la la te da, la te da
-
-So hard to find my way now that I'm out on my own
-I saw you just the other day, my how you have grown
-Cast that memory back there, Lord
-Sometimes I'm overcome thinking about
-Making Love in the green grass behind the stadium with you
-My brown eyed girl
-You're my brown eyed girl
-
-Do you remember when
-Do you remember when
-Do you remember when we used to sing
-
-Sha la la la la la la la la la la te da
-Sha la la la la la la la la la la te da, la te da
-
-You're my brown eyed girl (I know)
-You're my brown eyed girl
-You're my brown eyed girl
-
-
 

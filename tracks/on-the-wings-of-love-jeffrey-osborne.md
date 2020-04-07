@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: on-the-wings-of-love-jeffrey-osborne
-lyrics_url: https://www.azlyrics.com/lyrics/reginevelasquez/onthewingsoflove.html
 name: On The Wings Of Love
 rankings:
 - end_date: '1982-10-01'
@@ -80,65 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
-
-Just smile for me and let the day begin
-You are the sunshine that lights my heart within
-I'm sure that you're an angel in disguise
-Come take my hand and together we will ride
-
-On the wings of love
-Up and above the clouds
-The only way to fly is on the wings of love
-
-On the wings of love
-Only the two of us
-Together flying high
-Flying high upon the wings of love
-
-You look at me and I begin to melt
-Just like the snow when a ray of sun is felt
-I'm crazy 'bout you baby. Can't you see?
-It felt delighted if you would come with me
-
-On the wings of love
-Up and above the clouds
-The only way to fly is on the wings of love
-
-On the wings of love
-Only the two of us
-Together flying high
-Flying high upon the wings of love
-
-Yes, you belong to me
-And I'm yours exclusively
-Right now we live and breathe each other
-
-Inseparable it seems
-We're flowing like a stream
-Running free, travelling on the wings of love
-
-(Together flying high)
-(The wings of love)
-
-On the wings of love
-Up and above the clouds
-The only way to fly is on the wings of love
-
-On the wings of love
-Only the two of us
-Together flying high
-Together flying high
-
-On the wings of love
-Up and above the clouds
-The only way to fly is on the wings of love
-
-On the wings of love
-Only the two of us
-Together flying high
-
-Flying high upon the wings of love
-Of love
-
-
 

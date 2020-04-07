@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: what-s-easy-for-two-is-so-hard-for-one-mary-wells
-lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/whatseasyfortwoissohardforone.html
 name: What's Easy For Two Is So Hard For One
 rankings:
 - end_date: '1963-10-25'
@@ -76,41 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
 ---
-
-Well well well well
-Let's get together and go for a walk in the park
-And while we're walking we can steal a little kiss in the dark
-I wanna walk with you (I wanna walk with you)
-I wanna talk with you (I wanna talk with you)
-But it's up you to say "Come on baby"
-If you don't hurry up I'll go crazy
-'Cause a walk in the park all alone is just no fun
-
-What two can easily do, what two can easily do
-Is so hard to be done by one
-
-I'm sure that you know that I love you with all of my heart
-But a love that's true really takes two to start
-I wanna do my share (I wanna do my share)
-To show you that I care (to show you that I care)
-'Cause a one-sided love will never do
-You gotta show me that you love me too
-'Cause falling in love all alone is just no fun
-
-One can build a love affair slowly
-Two can build a love affair fast
-One can make a love get started
-Two can make it last
-
-So come on and take me by the hand
-Lead me up to the preacher man
-Together we can do all the things that should be done
-
-What two can easily do, what two can easily do
-Is so hard to be done by one
-
-What two can easily do, what two can easily do
-Is so hard to be done by one
-
-
 

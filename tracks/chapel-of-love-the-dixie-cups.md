@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: chapel-of-love-the-dixie-cups
-lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/chapeloflove.html
 name: Chapel Of Love
 rankings:
 - end_date: '1964-05-08'
@@ -60,44 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
 ---
-
-Goin' to the chapel
-And we're gonna get married
-Goin' to the chapel
-And we're gonna get married
-Gee, I really love you
-And we're gonna get married
-Goin' to the chapel of love
-
-Spring is here, the sky is blue, whoa
-Birds all sing as if they knew
-Today's the day we'll say "I do"
-And we'll never be lonely anymore
-
-Because we're goin' to the chapel
-And we're gonna get married
-Goin' to the chapel
-And we're gonna get married
-Gee, I really love you
-And we're gonna get married
-Goin' to the chapel of love
-
-Bells will ring, the sun will shine, whoa
-I'll be his and he'll be mine
-We'll love until the end of time
-And we'll never be lonely anymore
-
-Because we're goin' to the chapel
-And we're gonna get married
-Goin' to the chapel
-And we're gonna get married
-Gee, I really love you
-And we're gonna get married
-Goin' to the chapel of love
-
-Yeah, yeah, yeah, yeah
-Goin' to the chapel of love
-Yeah, yeah, yeah, yeah
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: part-of-me-katy-perry
-lyrics_url: https://www.azlyrics.com/lyrics/megannicole/partofme.html
 name: Part Of Me
 rankings:
 - end_date: '2012-03-09'
@@ -96,54 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-28'
 ---
-
-Days like this I want to drive away.
-Pack my bags and watch you shout offence.
-Cus you chewed me up and spit me out, like I was poison in your mouth.
-You took my light, you drink me down, but that was then and this is now.
-Now look at me.
-
-This is the part of me that youâre never gonna ever take away from me, no 
-This is the part of me that youâre never gonna ever take away from me, no
-These sticks and stones fill your body and boots,
-But youâre not gonna break my soul.
-This is the part of me that youâre never gonna ever take away from me, no.
-
-I just wanna throw my phone away.
-Find out who is really there for me.
-Cus you ripped me off, your love was cheap,
-Itâs always tearing at the seams,
-I fell deep and you let me drown,
-Baby, that was then and this is now.
-Now look at me.
-
-This is the part of me that youâre never gonna ever take away from me, no 
-This is the part of me that youâre never gonna ever take away from me, no
-These sticks and stones fill your body and boots,
-But youâre not gonna break my soul.
-This is the part of me that youâre never gonna ever take away from me, no.
-
-And look at me, Iâm sparkling.
-A firework, a dancing flame.
-You wonât ever put me out again.
-Iâm going ohohoh.
-You canât keep them down from me.
-Iâve never liked them anyway.
-In fact you canât put out the flame
-Yeah, yeah.
-Except for me.
-
-
-This is the part of me that youâre never gonna ever take away from me, no 
-This is the part of me that youâre never gonna ever take away from me, no
-These sticks and stones fill your body and boots,
-But youâre not gonna break my soul.
-This is the part of me that youâre never gonna ever take away from me, no. 
-This is the part of me that youâre never gonna ever take away from me, no
-This is the part of me that youâre never gonna ever take away from me, no
-These sticks and stones fill your body and boots,
-But youâre not gonna break my soul.
-This is the part of me that youâre never gonna ever take away from me, no.
-
-
 

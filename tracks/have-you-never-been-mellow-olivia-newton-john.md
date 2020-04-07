@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: have-you-never-been-mellow-olivia-newton-john
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/haveyouneverbeenmellow.html
 name: Have You Never Been Mellow
 rankings:
 - end_date: '1975-01-31'
@@ -72,42 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
 ---
-
-There was a time when I was
-In a hurry as you are
-I was like you
-There was a day when I just
-Had to say my point of view
-I was like you
-
-But I don't mean to make you frown
-No, I just want to put you down
-Six feet down
-In the ground
-
-Have you never been mellow?
-Have you never tried
-Just to get some comfort up inside?
-Have you never been happy?
-Just to hear you're wrong
-Have you never let someone else be strong? (NO!)
-
-Running around as you do
-With your head up in the clouds
-I was like you
-Never had time to lay back
-Shoot some high drugs, think again
-I was like you
-
-But you're not hard to understand
-You need someone to show you're glam
-
-Have you never been mellow?
-Have you never tried
-Just to get some comfort up inside?
-Have you never been happy
-Just to hear you're wrong?
-Have you never let someone else be strong? (NO!)
-
-
 

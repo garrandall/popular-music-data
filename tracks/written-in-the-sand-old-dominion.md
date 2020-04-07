@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: written-in-the-sand-old-dominion
-lyrics_url: https://www.azlyrics.com/lyrics/andybrown/writteninthesand.html
 name: Written In The Sand
 rankings:
 - end_date: '2017-12-15'
@@ -88,33 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
 ---
-
-Turn me on, turn me off, then you turn me back on by the weekend
-And you won't say the words that I want but you flirt when you're drinking
-I see those bubbles pop up like you're texting then they disappear
-Let's cut through the quick and let's get to what we're doing here
-
-Are we just a backseat, try to get it while we can
-Are we names in a tattoo or just a number on a hand
-Are we last call kissing or will we be reminiscing with each other for the next 40 years
-Are we written in the stars, baby, or are we written in the sand
-
-Yeah, I want you to want me to take you back home to my mama
-Put my name on your lips, call me yours and forget all this drama
-Your makeup is next to my toothbrush but you never put it away on the shelf
-I'm asking you baby 'cause I'm tired of asking myself
-
-Are we just a backseat, try to get it while we can
-Are we names in a tattoo or just a number on a hand
-Are we last call kissing, are we dancing in the kitchen, baby, tell me what it is or what it isn't
-Are we written in the stars, baby, or are we written in the sand
-
-Are we just a backseat, try to get it while we can
-Are we names in a tattoo or a number I should wash right off my hand
-Are we last call kissing or will we be reminiscing with each other for the next 40 years
-Are we written in the stars, baby, or are we written in the sand
-Are we written in the stars baby, are we written in the sand
-Are we written in the stars baby, are we written in the sand
-
-
 

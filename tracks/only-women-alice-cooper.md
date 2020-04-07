@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: only-women-alice-cooper
-lyrics_url: https://www.azlyrics.com/lyrics/tinaarena/onlywomenbleed.html
 name: Only Women
 rankings:
 - end_date: '1975-04-11'
@@ -72,74 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
 ---
-
-Man's got his woman
-To take his seed
-He's got the power
-Oh
-She's got the need
-She spends her life
-Through pleasing up
-her man
-She feeds him dinner
-Or anything she can
-
-She cries alone
-At night too often
-He smokes and drinks
-And don't come home
-At all
-
-Only women bleed
-Only women bleed
-Only women bleed
-
-Man makes
-Your hair gray
-He's your life's
-Mistake
-All you're
-Really lookin'
-For is an even break
-He lies right at you
-You know
-You hate this game
-He slaps you
-Once in a while
-And you live
-And love in pain
-
-She cries alone
-At night too often
-He smokes and drinks
-And don't come home
-At all
-
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-
-Black eyes
-All of the time
-Don't spend a dime
-Clean up this grime
-And you there down
-On your knees
-Begging me
-Please come
-Watch me bleed
-
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-Only women bleed
-
-
 

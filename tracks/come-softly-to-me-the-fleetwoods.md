@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: come-softly-to-me-the-fleetwoods
-lyrics_url: https://www.azlyrics.com/lyrics/melanie/comesoftlytome.html
 name: Come Softly To Me
 rankings:
 - end_date: '1959-03-15'
@@ -72,25 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
-
-I want, want you to know
-I love, I love you so
-Please hold, hold me so tight
-All through, all through the night
-
-I've waited, waited so long
-For kisses and your love
-Please come, come to me
-From up above
-
-Come softly darling, come to me stay
-I love you always, always, always
-
-Speak softly darling, hear what I say
-You're my obsession, forever and a day
-
-Speak softly darling, hear what I say
-You're my obsession, forever and a day
-
-
 

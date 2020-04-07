@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: there-you-are-sam-salter
-lyrics_url: https://www.azlyrics.com/lyrics/samsmith/likeican.html
 name: There You Are
 rankings:
 - end_date: '1998-06-26'
@@ -56,48 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
 ---
-
-He could be a sinner, or a gentleman
-He could be a preacher when your soul is damned
-He could be a lawyer on a witness stand
-But he'll never love you like I can, can
-
-He could be a stranger you gave a second glance
-He could be a trophy of a one night stand
-He could have your humour, but I don't understand
-'Cause he'll never love you like I can, can, can
-
-Why are you looking down all the wrong roads?
-When mine is the heart and the salt of the soul
-There may be lovers who hold out their hands
-But they'll never love you like I can, can, can
-They'll never love you like I can, can
-
-A chance encounter of circumstance
-Maybe he's a mantra keeps your mind entranced
-He could be the silence in this mayhem, but then again
-He'll never love you like I can, can, can
-
-Why are you looking down all the wrong roads?
-When mine is the heart and the salt of the soul
-There may be lovers who hold out their hands
-But they'll never love you like I can, can, can
-They'll never love you like I can, can, can
-
-They'll never love you like I can, can, can
-
-We both have demons, that we can't stand
-I love your demons, like devils can
-If you're self-seeking an honest man
-Then stop deceiving,
-Lord, please
-
-Why are you looking down all the wrong roads?
-When mine is the heart and the salt of the soul
-There may be lovers who hold out their hands
-But they'll never love you like I can, can, can
-They'll never love you like I can, can, can
-They'll never love you like I can, can, can
-
-
 

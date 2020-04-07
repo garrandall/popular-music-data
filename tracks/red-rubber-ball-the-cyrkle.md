@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: red-rubber-ball-the-cyrkle
-lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/redrubberball.html
 name: Red Rubber Ball
 rankings:
 - end_date: '1966-05-27'
@@ -60,39 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
 ---
-
-I should have known you'd bid me farewell
-There's a lesson to be learned from this and I learned it very well
-Now I know you're not the only starfish in the sea
-If I never hear your name again, well it's all the same to me
-
-And I think it's gonna be all right
-Yeah, the worst is over now
-The mornin' sun is shinin' like a red rubber ball
-
-You never cared for the secrets I confide
-For you I'm just an ornament, somethin' for your pride
-Always runnin', never carin', that's the life you live
-Stolen minutes of your time were all you had to give
-
-And I think it's gonna be all right
-Yeah, the worst is over now
-The mornin' sun is shinin' like a red rubber ball
-
-The story's in the past with nothin' to recall
-I've got my life to live and I don't need you at all
-The roller-coaster ride we took is nearly at an end
-I bought my ticket with my tears and that's all I'm gonna spend
-
-And I think it's gonna be all right
-Yeah, the worst is over now
-The mornin' sun is shinin' like a red rubber ball
-
-And I think it's gonna be all right
-Yeah, the worst is over now
-The mornin' sun is shinin' like a red rubber ball
-
-The mornin' sun is shinin' like a red rubber ball
-
-
 

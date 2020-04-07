@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: too-close-alex-clare
-lyrics_url: https://www.azlyrics.com/lyrics/madilynbailey/tooclose.html
 name: Too Close
 rankings:
 - end_date: '2012-04-13'
@@ -184,46 +183,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
 ---
-
-You know I'm not one to break promises,
-I don't want to hurt you but I need to breathe.
-At the end of it all, you're still my best friend,
-But there's something inside that I need to release.
-Which way is right, which way is wrong,
-How do I say that I need to move on?
-You know we're heading separate ways.
-
-And it feels like I am just too close to love you,
-There's nothing I can really say.
-I can't lie no more, I can't hide no more,
-Got to be true to myself.
-And it feels like I am just too close to love you,
-So I'll be on my way.
-
-You've given me more than I can return,
-Yet there's oh so much that you deserve.
-There's nothing to say, nothing to do.
-I've got nothing to give,
-I must live without you.
-You know we're heading separate ways.
-
-And it feels like I am just too close to love you,
-There's nothing I can really say.
-I can't lie no more, I can't hide no more,
-Got to be true to myself.
-And it feels like I am just too close to love you,
-So I'll be on my way.
-
-Ooh ha I'll be on my way. ha oh yea
-
-Oh it feels like I am just too close to love you,
-There's nothing that I can really say.
-I can't lie no more, I can't hide no more,
-Got to be true to myself.
-And it feels like I am just too close to love you,
-So I'll be on my way.
-
-Ooh I'll be on my way.
-
-
 

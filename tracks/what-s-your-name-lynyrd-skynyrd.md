@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: what-s-your-name-lynyrd-skynyrd
-lyrics_url: https://www.azlyrics.com/lyrics/theoryofadeadman/whatsyourname.html
 name: What's Your Name
 rankings:
 - end_date: '1977-12-09'
@@ -80,55 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-01'
 ---
-
-Well, its 8 o'clock in Boise, Idaho 
-I'll find my limo driver 
-Mister, take us to the show 
-I done made some plans for later on tonight 
-I'll find a little queen 
-And I know I can treat her right
-
-What's your name, little girl? 
-What's your name? 
-Shootin' you straight, little girl? 
-Won't you do the same?
-
-Back at the hotel 
-Lord we got such a mess 
-It seems that one of the crew 
-Had a go with one of the guests, oh yes 
-Well, the police said we can't drink in the bar 
-What a shame 
-Won't you come upstairs girl 
-And have a drink of champagne
-
-What's your name, little girl? 
-What's your name? 
-Shootin' you straight, little girl? 
-For there ain't no shame
-
-What's your name, little girl? 
-What's your name? 
-Shootin' you straight, little girl? 
-Won't you do the same?
-
-9 o'clock the next day 
-And I'm ready to go 
-I got six hundred miles to ride 
-To do one more show, oh no 
-Can I get you a taxi home 
-It sure was grand 
-When I come back here next year 
-I wanna see you again
-
-What was your name, little girl? 
-What's your name? 
-Shootin' you straight, little girl? 
-Well there ain't no shame 
-What's your name, little girl? 
-What's your name? 
-Shootin' you straight, little girl? 
-Won't you do the same?
-
-
 

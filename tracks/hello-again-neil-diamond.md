@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hello-again-neil-diamond
-lyrics_url: https://www.azlyrics.com/lyrics/reginevelasquez/helloagain.html
 name: Hello Again
 rankings:
 - end_date: '1981-02-06'
@@ -72,40 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
 ---
-
-Hello again hello
-Just called to say hello
-I couldn't sleep at all tonight
-And I know it's late
-But I couldn't wait
-Hello my friend hello
-Just called to let you know
-I think about you every night
-While I'm here alone
-And you're there at home
-Hello
-
-Maybe it's been crazy
-And maybe I'm to blame
-But I put my heart above my head.
-We've been through it all
-And loved me just the same
-When you're not there
-I just need to hear
-Hello my friend hello
-It's good to need you so
-It's good to love you
-Like I do
-And to feel this way
-When I hear you say
-Hello
-
-Hello my friend hello
-Just called to let you know
-I think about you every night
-And I know it's late
-But I couldn't wait
-Hello...
-
-
 

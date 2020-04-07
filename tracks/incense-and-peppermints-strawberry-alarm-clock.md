@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: incense-and-peppermints-strawberry-alarm-clock
-lyrics_url: https://www.azlyrics.com/lyrics/missingpersons/incenseandpeppermints.html
 name: Incense And Peppermints
 rankings:
 - end_date: '1967-10-06'
@@ -72,49 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
 ---
-
-Good sense, innocence, cripplin' mankind
-Dead kings, many things I can't define
-Occasions, persuasions clutter your mind
-Incense and peppermints clutter your mind
-
-Who cares what games we choose?
-Little to win but nothin' to lose
-
-Incense and peppermints clutter your mind
-Incense and peppermints clutter your mind
-Look at yourself, look at yourself
-
-Who cares what games we choose?
-Little to win but nothin' to lose
-
-Incense and peppermints clutter your mind
-Incense and peppermints clutter your mind
-Look at yourself, look at yourself
-
-Ba, ba, ba, ba, ba, ba, ba, bah
-Ba, ba, ba, ba, ba, ba, ba, bah
-
-Beatniks and politics, nothing is new
-A yardstick for lunatics, one point of view
-Incense and peppermints clutter your mind
-Incense and peppermints clutter your mind
-
-Who cares what games we choose?
-Little to win but nothin' to lose
-
-Incense and peppermints clutter your mind
-Incense and peppermints clutter your mind
-Look at yourself, look at yourself
-
-Who cares what games we choose?
-Little to win but nothin' to lose
-
-Incense and peppermints clutter your mind
-Incense and peppermints
-Incense and peppermints
-Incense and peppermints
-Incense and peppermints
-
-
 

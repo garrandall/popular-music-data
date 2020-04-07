@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: helen-wheels-paul-mccartney-and-wings
-lyrics_url: https://www.azlyrics.com/lyrics/defleppard/helenwheels.html
 name: Helen Wheels
 rankings:
 - end_date: '1973-11-30'
@@ -60,45 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
-
-Said farewell to my last hotel, it never was much kind of abode
-Glasgow town never brought me down when I was heading out on the road
-Carlisle city never looked so pretty, and the Kendal freeway is fast
-Slow down driver, wanna stay alive, I wanna make this journey last
-
-Helen (Helen)
-Hell on wheels
-Ain't nobody else gonna know the way she feels
-Helen (Helen)
-Hell on wheels
-And they're never gonna take her away
-
-M6 south down Liverpool, where they play the west coast sound
-Sailor Sam, he came from Birmingham, but he never will be found
-Doin' fine when a london sign, greets me like a long lost friend
-Mister motor won't you check her out, she's gotta take me back again
-
-Helen (Helen)
-Hell on wheels
-Ain't nobody else gonna know the way she feels
-Helen (Helen)
-Hell on wheels
-And they're never gonna take her away
-
-Got no time for a rum and lime, I wanna get my right foot down
-Shake some dust off of this old bus, I gotta get her out of town
-Spend the day upon the motorway, where the carburetors blast
-Slow down driver, wanna stay alive, I wanna make this journey last
-
-Helen (Helen)
-Hell on wheels
-Ain't nobody else gonna know the way she feels
-Helen (Helen)
-Hell on wheels
-And they're never gonna take her away
-
-Say bye-bye!
-Bye-bye!
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: roll-to-me-del-amitri
-lyrics_url: https://www.azlyrics.com/lyrics/fouryearstrong/rolltome.html
 name: Roll To Me
 rankings:
 - end_date: '1995-07-14'
@@ -152,30 +151,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
 ---
-
-Look around your world pretty baby
-Is it everything you hoped it'd be
-The wrong guy, the wrong situation
-The right time to roll to me
-
-Look into your heart pretty baby,
-Is it aching with some nameless need.
-Is there something wrong and you cant put your finger on it
-Right then, roll to me
-
-And I don't think I have ever seen a soul so in despair
-So if you want to talk the night through
-Guess who will be there?
-
-So don't try to deny it pretty baby,
-You've been down so long you can hardly see
-When the engines stalled and it wont stop raining
-Its the right time to roll to me
-
-Look around your world pretty baby
-Is it everything you hoped it'd be
-The wrong guy, the wrong situation
-The right time to roll to me
-
-
 

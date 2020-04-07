@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-boys-of-summer-don-henley
-lyrics_url: https://www.azlyrics.com/lyrics/kttunstall/theboysofsummer.html
 name: The Boys Of Summer
 rankings:
 - end_date: '1984-11-16'
@@ -96,56 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-06'
 ---
-
-Nobody on the road
-Nobody on the beach
-I feel it in the air
-The summer's out of reach
-Empty lake, empty street
-The sun goes down alone
-I drive by your house
-I know you're not home
-
-I can see you
-Your brown skin shining in the sun
-You got your hair combed back and your sunglasses on, baby
-I can tell you my love for you will still be strong
-After the boys of summer have gone
-
-I never will forget those nights
-I wonder if it was a dream
-Remember how I made you crazy?
-Remember how you made me scream?
-And, no, I don't understand what happened to our love
-But babe I'm gonna get you back
-Gonna show you what I'm made of
-
-I can see you
-Your brown skin shining in the sun
-I see you walking real slow and smiling at everyone
-I can tell you my love for you will still be strong
-After the boys of summer have gone
-
-Out on the road today
-I saw a "dead-end" sticker on a Cadillac
-And a little voice inside my head said
-"Don't look back, you can never look back."
-I thought I knew what love was
-What do I know?
-Those days are gone forever
-I should just let them go but...
-
-I can see you 
-Your brown skin shining in the sun
-You got the top pulled down and the radio on, baby
-I can tell you my love for you will still be strong
-After the boys of summer have gone
-
-I can see you
-Your brown skin shining in the sun
-You got your hair slicked back and those Waferers on, baby
-I can tell you my love for you will still be strong
-After the boys of summer have gone
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hit-me-with-your-best-shot-pat-benatar
-lyrics_url: https://www.azlyrics.com/lyrics/wheatus/hitmewithyourbestshot.html
 name: Hit Me With Your Best Shot
 rankings:
 - end_date: '1980-10-10'
@@ -104,42 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
 ---
-
-You're a real tough cookie with a long history
-Of breaking little hearts like the one in me
-That's okay, let's see how you do it
-Put up your dukes, let's get down to it
-
-Hit me with your best shot
-Why don't you hit me with your best shot
-Hit me with your best shot
-Fire away
-
-You come on with the come on
-You don't fight fair
-That's okay, see if I care
-Knock me down, it's all in vain
-I get right back up on my feet again
-
-Hit me with your best shot
-Why don't you hit me with your best shot
-Hit me with your best shot
-Fire away
-
-You're a real tough cookie with a long history
-Of breaking little hearts like the one in me
-Before I put another notch in my lipstick case
-You better make sure you put me in my place
-
-Hit me with your best shot, c'mon
-Hit me with your best shot
-Hit me with your best shot
-Fire away
-
-Hit me with your best shot
-Why don't you hit me with your best shot
-Hit me with your best shot
-Fire Away
-
-
 

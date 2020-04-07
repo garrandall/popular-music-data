@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-moonlight-king-harvest
-lyrics_url: https://www.azlyrics.com/lyrics/toploader/dancinginthemoonlight.html
 name: Dancing In The Moonlight
 rankings:
 - end_date: '1972-11-03'
@@ -96,43 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
 ---
-
-We get it almost every night
-When that moon is big and bright
-It's a supernatural delight
-Everybody's dancing in the moonlight
-
-Everybody here is out of sight
-They don't bark and they don't bite
-They keep things loose they keep it tight
-Everybody's dancing in the moonlight
-
-Dancing in the moonlight
-Everybody's feeling warm and bright
-It's such a fine and natural sight
-Everybody's dancing in the moonlight
-
-We like our fun and we never fight
-You can't dance and stay uptight
-It's a supernatural delight
-Everybody was dancing in the moonlight
-
-Dancing in the moonlight
-Everybody's feeling warm and bright
-It's such a fine and natural sight
-Everybody's dancing in the moonlight
-
-We get in almost every night
-And when that moon is big and bright
-It's a supernatural delight
-Everybody's dancing in the moonlight
-
-Dancing in the moonlight
-Everybody's feeling warm and bright
-It's such a fine and natural sight
-Everybody's dancing in the moonlight
-
-
-
-
 

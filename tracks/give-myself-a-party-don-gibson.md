@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: give-myself-a-party-don-gibson
-lyrics_url: https://www.azlyrics.com/lyrics/royorbison/givemyselfaparty.html
 name: Give Myself A Party
 rankings:
 - end_date: '1958-10-05'
@@ -48,42 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
-
-I've got alot of memories, 
-To last me the rest of my life 
-So if you don't want to love me, 
-Well baby that'll be alright 
-I'm gonna take all the lovin' 
-That I had for you 
-Gonna take all the loneliness 
-And sit right down with the blues. 
-
-I'm gonna give myself a party 
-Serve old memories 
-I'll give myself a party 
-Think of how it used to be 
-Remember all the happiness 
-That we once knew 
-I'll give myself a party 
-Just me and the blues. 
-
-A few of your love letters 
-A photograph or two 
-The gift you gave me on my birthday 
-With words of I love you 
-There's lots of things to think about 
-When you're happy being blue 
-I'm gonna take all the heartache 
-And sit right down with the blues. 
-
-I'm gonna give myself a party 
-Serve old memories 
-I'll give myself a party 
-Think of how it used to be 
-Remember all the happiness 
-That we once knew 
-I'll give myself a party 
-Just me and the blues.
-
-
 

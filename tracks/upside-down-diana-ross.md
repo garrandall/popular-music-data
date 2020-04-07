@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: upside-down-diana-ross
-lyrics_url: https://www.azlyrics.com/lyrics/samanthajade/upsidedown.html
 name: Upside Down
 rankings:
 - end_date: '1980-07-18'
@@ -124,65 +123,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
 ---
-
-I said upside down you're turning me
-You're giving love instinctively
-Around and round you're turning me
-
-Upside down
-Boy, you turn me
-Inside out
-And round and round
-Upside down
-Boy, you turn me
-Inside out
-And round and round
-
-Instinctively you give to me
-The love that I need
-I cherish the moments with you
-Respectfully I see to thee
-I'm aware that you're cheating
-But no one makes me feel like you do
-
-Upside down
-Boy, you turn me
-Inside out
-And round and round
-Upside down (upside down)
-Boy, you turn me (boy, you turn me)
-Inside out
-And round and round
-
-I know you got charm and appeal
-You always play the field
-I'm crazy to think you are all mine
-As long as the sun continues to shine
-There's a place in my heart for you
-That's the bottom line
-
-Upside down
-Boy, you turn me
-Inside out
-And round and round
-Upside down (upside down)
-Boy, you turn me (boy, you turn me)
-Inside out
-And round and round
-Upside down
-Boy, you turn me
-Inside out
-And round and round
-Upside down (upside down)
-Boy, you turn me (boy, you turn me)
-Inside out
-And round and round
-
-I said upside down you're turning me
-You're giving love instinctively
-Round and round you're turning me
-You're giving love
-...
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: teenage-dream-katy-perry
-lyrics_url: https://www.azlyrics.com/lyrics/boyceavenue/teenagedream.html
 name: Teenage Dream
 rankings:
 - end_date: '2010-08-13'
@@ -140,69 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
 ---
-
-I think you're pretty without any makeup on
-I think you're funny when you tell the punchline wrong
-I knew you got me when you let your walls come down, down
-
-Before you met me I was alright
-But things were kinda heavy, you brought me to life
-Now every February you'll be my valentine
-
-Let's just talk all through the night
-There's no need to rush
-We can dance until we die
-You and I will be young forever
-
-You make me feel like I'm living a teenage dream
-The way you turn me on
-I can't sleep, let's run away and don't ever look back
-Don't ever look back
-
-My heart stops when you look at me
-Just one touch now baby I believe this is real
-So take a chance and don't ever look back,
-Don't ever look back
-
-When you're around me life's like a movie scene
-I wasn't happy until you became my queen
-I finally found you, my missing puzzle piece
-I'm complete
-
-Let's just talk all through the night
-There's no need to rush
-We can dance until we die
-You and I will be young forever
-
-You make me feel like I'm living a teenage dream
-The way you turn me on
-I can't sleep, let's run away and don't ever look back
-Don't ever look back
-
-My heart stops when you look at me
-Just one touch now baby I believe this is real
-So take a chance and don't ever look back,
-Don't ever...
-
-I will get your heart racing if that's what you need
-In this teenage dream tonight
-Let you rest your head on me if that's what you need
-In this teenage dream tonight
-
-You make me feel like I'm living a teenage dream
-The way you turn me on
-I can't sleep, let's run away and don't ever look back
-Don't ever look back
-
-My heart stops when you look at me
-Just one touch now baby I believe this is real
-So take a chance and don't ever look back,
-Don't ever...
-
-I will get your heart racing if that's what you need
-In this teenage dream tonight
-Let you rest your head on me if that's what you need
-In this teenage dream tonight
-
-
 

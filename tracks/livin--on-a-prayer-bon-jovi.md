@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: livin--on-a-prayer-bon-jovi
-lyrics_url: https://www.azlyrics.com/lyrics/alvinandthechipmunks/livinonaprayer.html
 name: Livin' On A Prayer
 rankings:
 - end_date: '1986-12-19'
@@ -96,59 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
 ---
-
-Tommy used to work on the docks
-Unions been on strike
-He's down on his luck... it's tough, so tough
-Gina works the diner all day
-Workin' for her man, she brings home her pay
-For love, oh for love
-
-She says we've gotta hold on to what we've got
-It doesn't make a difference if we make it or not
-We've got each other, and that's a lot
-For love, we'll give it a shot
-
-Whooah, we're halfway there
-Oh livin on a prayer
-Take my hand, and we'll make it I swear
-Oh livin on a prayer
-
-Tommy's got his six string in hock
-Now he's holding in what he used
-To make it talk, so tough, it's tough
-Gina dreams of running away
-When she cries in the night
-Tommy whispers, baby it's okay, someday
-For now
-
-We've gotta hold on to what we've got
-It doesn't make a difference if we make it or not
-We've got each other, and that's a lot
-For love, we'll give it a shot
-
-Whooah, we're halfway there
-Oh livin on a prayer
-Take my hand, and we'll make it I swear
-Oh livin on a prayer
-
-Kick it Simon!
-
-
-
-We've got to hold on ready or not
-You live for the fight when it's all that you've got
-Whooah, we're halfway there
-Oh Livin on a prayer
-Take my hand, and we'll make it I swear
-Oh Livin on a prayer
-Livin on a prayer!
-Livin on a prayer!
-Livin on a prayer!
-
-Thank you!
-
-Good night!
-
-
 

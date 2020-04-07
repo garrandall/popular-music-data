@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walking-in-memphis-marc-cohn
-lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/walkinginmemphis.html
 name: Walking In Memphis
 rankings:
 - end_date: '1991-04-05'
@@ -100,71 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
 ---
-
-Put on my blue suede shoes
-And I boarded the plane
-Touched down in the land of the Delta Blues
-In the middle of the pouring rain
-W.C. Handy
-Won't you look down over me
-Yeah, I got a first class ticket
-But I'm as blue as a boy can be
-
-I'm walking in Memphis
-Walking with my feet, ten feet off of Beale
-Walking in Memphis
-Do I really feel the way I feel
-
-Saw the ghost of Elvis
-On Union Avenue
-Followed him up to the gates of Graceland
-Then I watched him walk right through
-Now security they did not see him
-They just hovered 'round his tomb
-But there's a pretty little thing, waiting for the king
-Down in the Jungle Room
-
-Walking in Memphis
-Walking with my feet, ten feet off of Beale
-Walking in Memphis
-Do I really feel the way I feel
-
-They've got catfish on the table
-They've got gospel in the air
-And Reverend Green, be glad to see you
-When you haven't got a prayer
-Boy, you got a prayer in Memphis
-
-Now Muriel, plays piano
-Every Friday at the Hollywood
-And they brought me down to see her
-And they asked me if I would
-To do a little number
-So I sang with all my might
-She said, 'Boy are you a Christian child?"
-And I said, "Ma'am, I am tonight'
-
-Walking in Memphis
-(Walking in Memphis)
-Walking with my feet, ten feet off of Beale
-Walking in Memphis
-(Walking in Memphis)
-But do I really feel the way I feel
-Walking in Memphis
-(Walking in Memphis)
-Walking with my feet, ten feet off of Beale
-Walking in Memphis
-(Walking in Memphis)
-But do I really feel the way I feel
-
-Put on my blue suede shoes
-And I boarded the plane
-Touched down in the land of the Delta Blues
-In the middle of the pouring rain
-Touched down in the land of the Delta Blues
-In the middle of the pouring rain
-In the middle of the pouring rain
-In the middle of the pouring rain
-
-
 

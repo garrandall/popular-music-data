@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sunshine-coko
-lyrics_url: https://www.azlyrics.com/lyrics/swv/cominghome.html
 name: Sunshine
 rankings:
 - end_date: '1999-07-30'
@@ -56,51 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
 ---
-
-Don't be afraid, baby
-Don't be afraid, baby
-
-Baby ooooooooooooooo, Yeahhhhhhh
-
-
-Love is just like a storm
-No sunshine at all
-To guide you my way
-Oh, boy, you know that I care for you
-Don't be afraid, my love is here to stay
-Oh, yeah. You don't have to be scared of me
-
-
-I'm coming home to you
-Don't be afraid, baby
-
-
-I have to go away now
-I'll always be here with you
-Oh, you're a special boy, here in my heart
-Our love is strong, and I won't keep you waiting for love
-
-
-I'm coming home to you
-Don't be afraid, baby
-
-
-Come here, boy.
-How many times do I have to tell you, I'm never gonna leave
-I'll always be back
-Home is where my heart belongs
-Because home is where you are
-Your love is so good to me, words can't express
-
-
-I can't wait, gonna make love to you. Oh, yeah!
-All night, all night long
-All night, all night long
-All night, all night long
-
-
-I'm coming home to you
-Don't be afraid, baby
-
-
 

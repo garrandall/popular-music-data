@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: shower-the-people-james-taylor
-lyrics_url: https://www.azlyrics.com/lyrics/babyface/showerthepeople.html
 name: Shower The People
 rankings:
 - end_date: '1976-07-09'
@@ -72,51 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
-
-You can play the game and you can act out the part
-Though you know it wasn't written for you
-But tell me, how can you stand there with your broken heart
-Ashamed of playing the fool
-One thing can lead to another; it doesn't take any sacrifice
-Oh, father and mother, and sister and brother
-if it feels nice, don't think twice (yes)
-
-Shower the people you love with love
-Show them the way that you feel
-Things are gonna be just fine if you only will (do as i say, yeah)
-Shower the people you love with love
-Show them the way that you feel
-Things are gonna be much better if you only will
-
-You can run but you cannot hide
-This is widely known
-And what you plan to do with your foolish pride
-When you're all by yourself alone
-Once you tell somebody the way that you feel
-You can feel it beginning to ease
-I think it's true what they say about the squeaky wheel
-Always getting the grease.
-
-Better to shower the people you love with love
-(Yes and) show them the way that you feel
-(I know) Things are gonna be just fine if you only will
-(what i'd like to do to you)
-Shower the people you love with love
-Show them the way you feel
-Things are gonna be much better if you only will
-
-Shower the people you love with love
-Show them the way that you feel
-
-They say in every life
-They say the rain must fall
-Just like the pouring rain
-Make it rain
-Make it rain
-Love, love, love is sunshine oh
-Make it rain
-Love, love, love is sunshine yeah
-Everybody, everybody, everybody, everybody
-
-
 

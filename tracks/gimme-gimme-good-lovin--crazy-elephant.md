@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: gimme-gimme-good-lovin--crazy-elephant
-lyrics_url: https://www.azlyrics.com/lyrics/helix/gimmegimmegoodlovin.html
 name: Gimme Gimme Good Lovin'
 rankings:
 - end_date: '1969-03-07'
@@ -60,51 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
-
-Play it boy!
-
-From Atlanta, Georgia
-To the Great Lake waters
-To Californ-i-a
-Gonna spend my time
-Walkin' night and day
-So
-
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night
-Every night
-
-To the girls in New York
-To the girls in Frisco
-To the girls in Capsicam
-Gotta understand
-Honey I'm your man
-So
-
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night (Yeah!)
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night
-
-Gimme gimme gimme good lovin'
-Gimme gimme gimme good lovin'
-Gimme gimme gimme good lovin'
-Gimme gimme gimme good lovin'
-Gimme gimme good lovin' every night
-
-C'mon honey
-
-Gimme gimme good lovin' every night (Yeah!)
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night
-
-C'mon now honey!
-
-Gimme gimme good lovin' every night (Every night)
-Gimme gimme good lovin' every night (Yeah!)
-Gimme gimme good lovin' every night
-Gimme gimme good lovin' every night
-
-
 

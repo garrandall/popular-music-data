@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: be-my-lover-la-bouche
-lyrics_url: https://www.azlyrics.com/lyrics/samfeldt/bemylover.html
 name: Be My Lover
 rankings:
 - end_date: '1995-11-17'
@@ -160,57 +159,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
 ---
-
-Be my, be, be my lover
-La da da dee da da da da
-Be my, be, be my lover
-La da da dee da da da da
-
-Is this real love or just a waste of time?
-I need an explanation
-Back and forth, make up your mind
-Tired of hesitation
-
-Looking back at all the time we spent together
-You oughta know by now if you wanna be my lover
-Wanna be my lover, be, be my lover
-Wanna be my lover, be, be my lover
-
-Be my lover, wanna be my lover
-La da da dee da da da da
-Be my lover, wanna be my lover
-La da da dee da da da da
-Do you wanna be my lover?
-Do you wanna be my lover?
-
-Oh, baby, you caught me by surprise
-I thought we had somethin' special
-Up and down, make up your mind
-Are we on different levels?
-
-Looking back at all the time we spent together
-You oughta know by now if you wanna be my lover
-Wanna be my lover, be, be my lover
-Wanna be my lover, be, be my lover
-
-Be my lover, wanna be my lover
-La da da dee da da da da
-Be my lover, wanna be my lover
-La da da dee da da da da
-Do you wanna be my lover?
-Do you wanna be my lover?
-Do you wanna be my lover?
-Be my lover, wanna be my lover
-La da da dee da da da da
-Do you wanna be my lover?
-Be my lover, wanna be my lover
-La da da dee da da da da
-
-Be my lover, wanna be my lover
-La da da dee da da da da
-You oughta know by now if you wanna be my lover
-Be my lover, wanna be my lover
-La da da dee da da da da
-
-
 

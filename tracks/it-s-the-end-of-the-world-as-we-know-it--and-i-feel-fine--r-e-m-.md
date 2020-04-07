@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-the-end-of-the-world-as-we-know-it--and-i-feel-fine--r-e-m-
-lyrics_url: https://www.azlyrics.com/lyrics/nightgame/itstheendoftheworldasweknowitandifeelfine.html
 name: It's The End Of The World As We Know It (And I Feel Fine)
 rankings:
 - end_date: '1988-02-05'
@@ -44,75 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
 ---
-
-That's great, it starts with an earthquake
-Birds and snakes and aeroplanes
-And Lenny Bruce is not afraid
-Okay, eye of a hurricane, listen to yourself churn
-World serves its own needs, don't misserve your own needs
-Speed it up a notch, speed, grunt, no, strength
-The ladder starts to clatter with fear of height, down, height
-Wire in a fire, represent the seven games
-And a government for hire and a combat site
-Left of west and coming in a hurry
-With the Furies breathing down your neck
-And team by team, reporters baffled, trumped, tethered, cropped
-Look at that low plane, fine, then
-Uh oh, overflow, population, common group
-But it'll do, save yourself, serve yourself
-World serves its own needs, listen to your heart bleed
-Tell me with the Rapture and the reverent in the right, right
-You vitriolic, patriotic, slam fight, bright light
-Feeling pretty psyched
-
-It's the end of the world as we know it
-It's the end of the world as we know it
-It's the end of the world as we know it
-And I feel fine
-
-Okay, six o'clock, TV hour, don't get caught in a foreign tower
-Slash and burn, return, listen to yourself churn
-Lock him in uniform, book burning, blood letting
-Every motive escalate, automotive incinerate
-Light a candle, light a votive, step down, step down
-Watch your heel crush, crush, uh-oh
-This means no fear, cavalier renegade and steering clear
-A tournament, a tournament, a tournament of lies
-Offer me solutions, offer me alternatives, and I decline
-
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-And I feel fine
-
-The other night I dreamt of knives, continental drift divide
-Mountains sit in a line, Leonard Bernstein
-Leonid Brezhnev, Lenny Bruce and Lester Bangs
-Birthday party, cheesecake, jelly bean, boom!
-You symbiotic, patriotic, slam but neck
-Right? Right!
-
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-And I feel fine
-
-It's the end of the world as we know it
-It's the end of the world as we know it
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-It's the end of the world as we know it
-(It's time I had some time alone)
-And I feel fine
-And I feel
-
-
 

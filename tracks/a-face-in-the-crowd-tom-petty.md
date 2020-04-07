@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: a-face-in-the-crowd-tom-petty
-lyrics_url: https://www.azlyrics.com/lyrics/painsofbeingpureatheart/faceinthecrowd.html
 name: A Face In The Crowd
 rankings:
 - end_date: '1990-03-09'
@@ -40,34 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
-
-Before all of this ever went down
-In another place, another town
-
-You were just a face in the crowd
-You were just a face in the crowd
-Out in the street, walking around
-A face in the crowd
-
-Out of a dream, out of the sky (Out of the sky)
-Into my heart, into my life (Into my life)
-
-And you were just a face in the crowd
-You were just a face in the crowd
-Out in the street, walking around
-A face in the crowd
-
-Out of a dream, out of the sky
-Into my heart, into my life
-
-You were just a face in the crowd
-And you were just a face in the crowd
-Out in the street, walking around
-Out in the street, walking around
-A face in the crowd
-
-A face in the crowd
-A face in the crowd
-
-
 

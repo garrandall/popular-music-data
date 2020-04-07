@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-ought-to-be-with-me-al-green
-lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/yououghttobewithme.html
 name: You Ought To Be With Me
 rankings:
 - end_date: '1972-10-27'
@@ -68,47 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
 ---
-
-Sit right down and talk to me
-About how you want to be
-You ought to be with me
-Yeah, you ought to be with me
-
-Thinking about what people do
-Talking about how I love you
-Thinking there's nothing to what they say
-You're ought to be with me anyway
-
-They don't want to see us do
-All of the things we want to
-You ought to be with me
-Yeah, you ought to be with me
-
-You don't have to waste my time
-If you want to be a friend of mine
-You can leave me now and walk away
-And turn your back for another day
-
-Ought to be the kind of girl
-That can brighten this old world
-And it's hard to see why you and me
-Can't be together happily
-
-I'm trying to realize
-You being with some other guy
-I don't know the reason why
-You oughta be with me until I die
-
-Sit right down and talk to me
-About how you want to be
-You ought to be with me
-Yeah, you ought to be with me
-
-Thinking about what people do
-Talking about how I love you
-Thinking there's nothing to what they say
-You're ought to be with me anyway
-...
-
-
 

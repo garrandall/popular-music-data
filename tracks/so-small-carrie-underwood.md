@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: so-small-carrie-underwood
-lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/sosmall.html
 name: So Small
 rankings:
 - end_date: '2007-09-07'
@@ -88,47 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
 ---
-
-What you got if you ain't got love
-The kind that you just want to give away
-Go ahead and open up
-Go ahead and let the light shine through
-I know it's hard on a rainy day
-You wanna shut the world out and just be left alone
-But don't run out on your faith
-
-'Cause sometimes that mountain you've been climbing
-Is just a grain of sand
-And what you've been out there searching for forever
-Is in your hands, is in your hands
-And when you figure out love is all that matters after all
-It sure makes everything else
-Seem so small
-
-It's so easy to get lost inside
-A problem that seems so big at the time
-It's like a river that's so wide it swallows you whole
-While you're sitting around worrying about what you can't change
-And worrying about all the wrong things
-Time's flying by, moving so fast
-You better make it count 'cause you can't get it back
-
-Sometimes that mountain you've been climbing
-Is just a grain of sand
-And what you've been out there searching for forever
-Is in your hands
-Oh, and when you figure out love is all that matters after all
-It sure makes everything else
-Seem so small...
-
-Sometimes that mountain you've been climbing
-Is just a grain of sand
-And what you've been out there searching for forever
-Is in your hands
-Oh, and then you figure out love is all that matters after all
-It sure makes everything else
-Oh, it sure makes everything else
-Seem so small
-
-
 

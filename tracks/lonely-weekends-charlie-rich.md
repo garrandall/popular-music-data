@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: lonely-weekends-charlie-rich
-lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/lonelyweekends.html
 name: Lonely Weekends
 rankings:
 - end_date: '1960-03-20'
@@ -92,34 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
-
-Well I make it alright
-From Monday morning 'til Friday night
-Oh oh oh those lonely weekends
-
-Since you left me
-I'm as lonely as I can be
-Oh oh oh those lonely weekends
-
-Said you'd be
-Good to me
-Said our love would never die
-Said you'd be good to me
-But baby you didn't even try
-
-I make it alright
-From Monday morning 'til Friday night
-But oh oh oh those lonely weekends
-
-Said you'd be
-Good to me
-Said our love would never die
-Said you'd be good to me
-But baby you didn't even try
-
-I make it alright
-From Monday morning 'til Friday night
-But oh those lonely weekends yeah
-
-
 

@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: puff--the-magic-dragon--peter-paul-mary
+key: puff--the-magic-dragon--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/puffthemagicdragon.html
 name: Puff (The Magic Dragon)
 rankings:

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-need-you-tim-mcgraw-with-faith-hill
-lyrics_url: https://www.azlyrics.com/lyrics/faithhill/justtohearyousaythatyouloveme.html
 name: I Need You
 rankings:
 - end_date: '2007-06-08'
@@ -72,65 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
 ---
-
-If I could win your heart
-If you'd let me in your heart
-I'd be so happy, baby
-Just for these arms to be
-Holding you close to me
-There's nothing in this world I won't try
-No limit to what I'd do to make you mine, 'cause
-
-I'd climb right up to the sky
-I'd take down the stars
-Just to be in your arms, baby
-I'd go and capture the moon
-That's what I would do
-Just to hear you say that you love me
-Just to hear you say that you love me
-
-If I could taste your kiss
-There'd be no sweeter gift
-Heaven could offer baby
-Oh, baby
-I want to be the one
-I want to be the one
-Living to give you love
-I'd walk across this world just to be
-Close to you 'cause I want you close to me, yeah
-
-I'd climb right up to the sky
-I'd take down the stars
-Just to be in your arms, baby
-I'd go and capture the moon
-That's what I would do
-Just to hear you say that you love me
-Just to hear you say that you love me
-
-For the rest of your life
-For the rest of your life
-Love me for the rest of all time
-Oh baby, baby
-Just say the word
-And I'll give you my world
-There's nothing I won't do
-Baby, just to be with you
-
-I'd climb right up to the sky
-I'd take down the stars
-Just to be in your arms, baby
-I'd go and capture the moon
-That's what I would do
-Just to hear you say that you love me
-Just to hear you say that you love me
-Just to hear you say that you love me, baby
-Just to hear you say that you love me
-Oh, I need to hear you say that you love me, baby
-Just to hear you say that you love me
-Just say you love me
-Just say you need me
-
-Just to hear you say that you love me
-
-
 

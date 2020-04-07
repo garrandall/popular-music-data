@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: slow-motion-trey-songz
-lyrics_url: https://www.azlyrics.com/lyrics/kianalede/slowmotion.html
 name: Slow Motion
 rankings:
 - end_date: '2015-02-13'
@@ -112,44 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
 ---
-
-I know I got all dressed up for the club
-Waiting on you come pick me up
-Baby, ooh, when I saw ya walking out the door
-Ooh, yeah I just knew ya needed something more
-Now whip it straight back to the crib, ay
-Finna give you something that you won't forget, no
-Baby, ooh, I just wanna get you out them clothes
-Don't you wanna see me dance in
-
-Slow motion
-We can take, we can take, we can take our time, baby
-In slow motion
-We can take, we can take, we can take our time, stay here
-In slow motion
-
-So I'ma let my hair down and take a sip
-Gon' put this joint between your lips
-So, baby, ooh, why don't you make yourself comfortable?
-Ooh, while I go and put this tongue on you
-I tell you I'm ready, can you speed it up for me just for a second
-Just for a second, then can you slow it back down and keep it steady
-Ooh baby, now that you are out them clothes
-Ooh, you just wanna see me dance in
-
-Slow motion
-We can take, we can take, we can take our time, baby
-In slow motion
-We can take, we can take, we can take our time, stay here
-In slow motion
-
-Oh darling, I just wanna get you out them clothes
-Watch me dance in
-
-Slow motion
-We can take, we can take, we can take our time, baby
-In slow motion
-We can take, we can take, we can take our time, stay here
-
-
 

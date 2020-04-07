@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-a-heartache-bonnie-tyler
-lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/itsaheartache.html
 name: It's A Heartache
 rankings:
 - end_date: '1978-03-31'
@@ -92,55 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
 ---
-
-It's a heartache
-Nothing but a heartache
-Hits you when it's too late
-Hits you when you're down
-
-It's a fool's game
-Nothing but a fools game
-Standing in the cold rain
-Feeling like a clown
-
-It's a heartache
-Nothing but a heartache
-Love him till your arms break
-Then he lets you down
-
-It ain't right with love to share
-When you find he doesn't care for you
-It ain't wise to need someone
-As much as I depended on you
-
-It's a heartache
-Nothing but a heartache
-Hits you when it's too late
-Hits you when you're down
-
-It's a fool's game
-Nothing but a fools game
-Standing in the cold rain
-Feeling like a clown
-
-It ain't right with love to share
-When you find he doesn't care for you
-It ain't wise to need someone
-As much as I depended on you
-
-Oh, it's a heartache
-Nothing but a heartache
-Love him till your arms break
-Then he lets you down
-
-It's a fools game
-Standing in the cold rain
-Feeling like a clown
-It's a heartache
-Love him till your arms break
-Then he lets you down
-It's a fools game
-Standing in the cold rain...
-
-
 

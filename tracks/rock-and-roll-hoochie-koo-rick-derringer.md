@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rock-and-roll-hoochie-koo-rick-derringer
-lyrics_url: https://www.azlyrics.com/lyrics/johnnywinter/rocknrollhootchiekoo.html
 name: Rock And Roll Hoochie Koo
 rankings:
 - end_date: '1974-01-25'
@@ -64,41 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
 ---
-
-I couldn't stop moving when it first took hold
-It was a warm spring night in the ol' town hall
-There was a group called The Jokers, they were layin' it down
-Don'tcha know I'm never gonna lose that funky sound
-
-Rock and roll, Hoochie Koo
-Lawdy mama light my fuse
-Rock and roll, Hoochie Koo
-Truck on out and spread the news
-
-The skeeters start buzzing 'bout this time o' year
-I'm goin' round back, she said she'd meet me there
-We were rollin' in the grass that grows behind the barn
-When my ears started ringin' like a fire alarm
-
-Rock and roll, Hoochie Koo
-Lawdy mama light my fuse
-
-Rock and roll, Hoochie Koo
-Truck on out and spread the news
-
-Hope ya'll know what I'm talkin' about
-The way they wiggle that thing, it really knocks me out
-I'm gettin' high all the time, hope ya'll are too
-Well come-on a little closer, gonna do it to you
-
-Rock and roll, Hoochie Koo
-Lawdy mama light my fuse
-Rock and roll, Hoochie Koo
-Truck on out and spread the news
-
-That I'm tired of payin' dues
-Done said goodbye to all my blues
-Lawdy mama light my fuse
-
-
 

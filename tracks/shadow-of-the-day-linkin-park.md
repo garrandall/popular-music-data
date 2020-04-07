@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: shadow-of-the-day-linkin-park
-lyrics_url: https://www.azlyrics.com/lyrics/echos/shadowoftheday.html
 name: Shadow Of The Day
 rankings:
 - end_date: '2007-11-30'
@@ -96,42 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
 ---
-
-I close both locks below the window
-I close both blinds and turn away
-Sometimes solutions aren't so simple
-Sometimes goodbye's the only way
-
-And the sun will set for you
-The sun will set for you
-And the shadow of the day
-Will embrace the world in grey
-And the sun will set for you
-
-In cards and flowers on your window
-Your friends all plead for you to stay
-Sometimes beginnings aren't so simple
-Sometimes goodbye's the only way
-
-And the sun will set for you
-The sun will set for you
-And the shadow of the day
-Will embrace the world in grey
-And the sun will set for you
-
-Oh-oh-oh
-Oh-oh-oh
-Oh-oh-oh
-
-And the sun will set for you
-The sun will set for you
-And the shadow of the day
-Will embrace the world in grey
-And the sun will set for you
-
-And the shadow of the day
-Will embrace the world in grey
-And the sun will set for you
-
-
 

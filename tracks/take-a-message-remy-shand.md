@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-a-message-remy-shand
-lyrics_url: https://www.azlyrics.com/lyrics/cunninlynguists/hourglass.html
 name: Take A Message
 rankings:
 - end_date: '2002-05-03'
@@ -32,74 +31,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
 ---
-
-
-I don't have you
-And like true friends
-And say, "I'm sorry you're blue"
-I don't have you
-And like true friends
-They still come around
-
-
-I'm waiting for growth to show up if I hope to manifest
-3 A.M.? I'm awaiting awake to hear me rest
-Fate to send caress and a face that I can feel
-With weight from heavy breasts
-An embrace that helps me chill
-Grace that human males can't feel
-Unless he builds with a female until time stands still
-When we take off our shells and chill
-All before fingers learn bodies like we got blindman skill
-She speaks no evil but says whatever
-After Shaking up bed-feathers still prays together
-On a parlay flip, permanent private party trip
-The next Ruby and Ossie Davis, I'm talking great shit
-Up walking late, lit. 4: 25, high
-Her mighty fine thighs silhoutted by sky-rise
-Place the know how, behind mine eyes
-To take something unfortunate
-And show them they're a fortune in my life
-Look KY side, lend me a hand, send me a plan
-A Remy Shand message of love, tell Cupid we fam'
-And to clock something that'll learn who I am
-As I learn with, chillin out, watching our hourglass sands
-
-
-I don't have you
-And like true friends
-And say, "I'm sorry you're blue"
-I don't have you
-And like true friends
-They still come around
-
-
-Spent Pubescent years, blessed with peers I could trust
-Spinning records to a game of checkers after dusk
-Laughter rushes out of mouth, clutchin my stomach, abs burning
-From fast learning, not cash earning
-Cause we wasn't really on 'at yet, just yes' y'alling
-At this point, our lil' brainchild was hardly crawling
-But had fallen enough times to keep a nigga's head strong
-Fucked with enough spiders to charm a mama leglong
-We's dead wrong, many days and nights
-Trying strange thangs
-From jane to cane and variants of the same change
-Get trapped, you off map, no Peter Pan scenes
-Where everythings tight and lily whiter than Klan dreams
-Tryna get something ripe, a nice woman queen
-Stay strong and fight life, like Sudan kings
-Pray to make cents for giving
-And make sense out of living
-Lord give me patience to gain wisdom, please
-
-
-I don't have you
-And like true friends
-And say, "I'm sorry you're blue"
-I don't have you
-And like true friends
-They still come around
-
-
 

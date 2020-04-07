@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rush-rush-paula-abdul
-lyrics_url: https://www.azlyrics.com/lyrics/mymp/rushrush.html
 name: Rush Rush
 rankings:
 - end_date: '1991-05-17'
@@ -84,82 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
 ---
-
-You're the whisper of
-A summer breeze
-You're the kiss that
-Puts my soul at ease
-What I'm saying is I'm
-In to you
-Here's my story, and
-The story goes
-
-You give love, you get
-Love and more than
-Heaven knows
-You're gonna see
-I'm gonna run and try
-I'm gonna take this love
-Right to ya
-All my heart, all the joy
-Oh baby, baby please
-
-
-Rush, rush
-Hurry, hurry lover, come to me
-Rush, rush
-I wanna see ya
-Get free with me
-Rush, rush
-I can feel
-You all through me
-Rush, rush
-Ooh what you do to me
-
-And all I want from you
-Is what you are
-And even if you're
-Right next to me
-You're still too far
-Away if I'm not inside
-Your arms
-I get dramatic baby, yes I know
-But I need you, I want you
-Ooh man, I love you so
-
-Ooh, ooh
-
-You're gonna see
-I'm gonna run, I'm gonna try
-I'm gonna take this
-Love right to ya
-All my heart, all the joy
-Ooh baby, baby please
-
-
-
-When you kiss me
-Up and down
-Turn my senses all around
-Oh baby, oh baby
-
-I don't know
-Just how or why
-But no one else
-Has touched me
-So deep, so deep,
-So deep inside
-
-You're gonna see
-I'm gonna run
-I'm gonna try
-I'm gonna take this
-Love right to ya
-
-All my heart, all the joy
-Oh baby, baby please
-
-
-
-
 

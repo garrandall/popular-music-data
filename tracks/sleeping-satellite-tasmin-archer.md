@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sleeping-satellite-tasmin-archer
-lyrics_url: https://www.azlyrics.com/lyrics/kimwilde/sleepingsatellite.html
 name: Sleeping Satellite
 rankings:
 - end_date: '1993-04-23'
@@ -68,38 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
 ---
-
-I blame you for the moonlit sky and the dream that died with the eagles' flight
-I blame you for the moonlit nights when I wonder why are the seas still dry?
-don't blame this sleeping satellite
-
-Did we fly to the moon too soon
-did we squander the chance in the rush of the race
-the reason we chase is lost in romance
-and still we try to justify the waste for a taste of man's greatest adventure
-
-I blame you for the moonlit sky and the dream that died with the eagles' flight
-blame you for the moonlit nights when I wonder why are the seas still dry?
-don't blame this sleeping satellite
-
-have we lost what it takes to advance?
-have we peaked too soon?
-if the world is so green then why does it scream under a blue moon
-
-we wonder why
-If the earth's sacrificed for the price of it's greatest treasure
-
-I blame you for the moonlit sky and the dream that died with the eagles' flight
-don't blame this sleeping satellite
-don't blame this sleeping satellite
-
-and when we shoot for the stars what a giant step have we got
-what it takes to carry the weight of this concept
-or pass it by like a shot in the dark miss the mark with a sense of adventure
-
-I blame you for the moonlit sky and the dream that died with the eagles' flight
-blame you for the moonlit nights when I wonder why are the seas still dry?
-don't blame this sleeping satellite
-
-
 

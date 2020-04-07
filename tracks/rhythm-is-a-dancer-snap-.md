@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rhythm-is-a-dancer-snap-
-lyrics_url: https://www.azlyrics.com/lyrics/italobrothers/welcometothedancefloor.html
 name: Rhythm Is A Dancer
 rankings:
 - end_date: '1992-08-21'
@@ -164,41 +163,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
 ---
-
-Welcome to the dance floor
-Show me that you want more
-Let the music take you there
-We bring these freaky noises
-Show the world the voices
-Live the moment here right now
-
-Ohoh, can you feel it?
-Ohoh, something's in the air
-Ohoh, can you feel it?
-Live, live the moment right now
-
-Something's in the air
-
-Lady, maybe, this party's out of control
-Lady, maybe, this is how we flow
-Out of control
-
-Welcome to the dance floor
-Show me that you want more
-Let the music take you there
-We bring these freaky noises
-Show the world the voices
-Live the moment here right
-
-Ohoh, can you feel it?
-Ohoh, something's in the air
-Ohoh, can you feel it?
-Live, live the moment right now
-
-Welcome, welcome to the dance floor
-Welcome, welcome to the dance floor
-Welcome, welcome to the dance floor
-Welcome, welcome to - drop the beat
-
-
 

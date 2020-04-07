@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: heart-of-gold-neil-young
-lyrics_url: https://www.azlyrics.com/lyrics/dianakrall/heartofgold.html
 name: Heart Of Gold
 rankings:
 - end_date: '1972-02-11'
@@ -64,29 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
 ---
-
-I want to live
-I want to give
-I've been a miner for a heart of gold
-It's these expressions I never give
-That keep me searching for a heart of gold
-And I'm getting old
-That keeps me searching for a heart of gold
-And I'm getting old
-
-I've been to Hollywood
-I've been to Redwood
-I crossed the ocean for a heart of gold
-I've been in my mind it's such a fine line
-That keeps me searching for a heart of gold
-And I'm getting old
-That keeps me searching for a heart of gold
-And I'm getting old
-
-That keeps me searching for a heart of gold
-That keep me searching and I'm gold and old
-Keep me searching for a heart of gold
-I've been a miner for a heart of gold
-
-
 

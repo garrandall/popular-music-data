@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: treat-you-better-shawn-mendes
-lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/treatyoubetter.html
 name: Treat You Better
 rankings:
 - end_date: '2016-07-01'
@@ -164,56 +163,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
 ---
-
-
-I know I can treat you better than he can
-And any girl like you deserves a gentleman
-
-Tell me why are we wasting time on all your wasted crime
-When you should be with me instead
-
-But I can treat you better
-
-
-I won't lie to you
-I know he's just not right for you
-And you can tell me if I'm off
-But I see it on your face when you say that he's the one that you want
-And your spending all your time in this wrong situation and anytime you want it to stop
-
-I know I can treat you better than he can
-And any girl like you deserves a gentleman
-Tell me why are we wasting time on all your wasted crime
-When you should be with me instead
-I know I can treat you better
-Better than he can
-Oh better than he can
-
-
-Alright let's do this
-I'll stop time for you
-The second you say you want me to
-And I just wanna give you the lovin that your missin
-Baby just to wake up to you
-We'll be everything I need
-And this could be so different
-Tell me what you wanna do
-
-
-Yeah I know I can treat you better than he can
-And any girl like you deserves a gentleman
-Tell me why are we wasting time on all your wasted crime
-When you should be with me instead
-Yeah I know I can treat you better
-Hey eyey
-
-
-Tell me why are wasting time on all your wasted crime
-When you should be with me instead
-I know I can treat you better
-
-
-Better than he can
-
-
 

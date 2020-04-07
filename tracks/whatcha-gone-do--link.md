@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: whatcha-gone-do--link
-lyrics_url: https://www.azlyrics.com/lyrics/payola/illfindanotherwhocandoitright.html
 name: Whatcha Gone Do?
 rankings:
 - end_date: '1998-06-12'
@@ -84,67 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-10'
 ---
-
-Left, right, in the middle of the night
-We stay out late till we can't see straight
-One, two, looking out for you
-We'll be rocking up and down when the floor begins to shake
-
-You, me, I need some company
-Ask another girl if she'd like to take a chance
-Yes, no, maybe she won't go
-Do you wanna dance this dance with me?
-
-Don't take that record it's lost its groove
-Takes more than that to make me move
-If you won't dance with me tonight
-I'll find another who can,
-I'll find another who can,
-I'll find another who can do it right.
-
-Hot, cold, I'll never grow old
-I've got fun on the brain
-I've got life in my veins
-Stop, go, what do you wanna know
-I'm high as a kite I'm gonna dance all night
-
-Up, down, I think I'm gonna drown
-I've found the missing link when I've had a bit to drink
-Quiet, loud, moving through the crowd
-Do you wanna dance this dance with me?
-
-Don't play record it's lost its groove
-Takes more than that to make me move
-If you won't dance with me tonight
-I'll find another who can,
-I'll find another who can,
-I'll find another who can do it right
-
-Don't play that record it's lost its groove
-Takes more than that to make me move
-If you won't dance with me tonight
-I'll find another who can,
-I'll find another who can,
-I'll find another who can do it right
-
-Hey, you, whatcha gonna do
-You've got me down on my bended knees
-You, me, I need some company
-So do you wanna dance this dance with me?
-
-Don't play that record it's lost its groove
-Takes more than that to make me move
-If you won't dance with me tonight
-I'll find another who can,
-I'll find another who can,
-I'll find another who can do it right
-
-Don't play that record it's lost its groove
-Takes more than that to make me move
-If you won't dance with me tonight
-I'll find another who can,
-I'll find another who can,
-I'll find another who can do it right
-
-
 

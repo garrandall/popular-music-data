@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: lookin--for-love-johnny-lee
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/lookinforlove.html
 name: Lookin' For Love
 rankings:
 - end_date: '1980-07-18'
@@ -92,32 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
 ---
-
-I spent a lifetime lookin' for you
-Single's bars and good time lovers were never true
-Playing a fools game, hopin' to win
-And tellin' those sweet lies and losin' again
-
-Lookin' for love in all the wrong places
-Lookin' for love in too many faces
-Searchin' her eyes, lookin' for traces
-Of what I'm dreamin' of
-Hopin' to find a friend and a lover
-I'll bless the day I discover,
-Another heart lookin' for love
-
-I was alone then, no love in site
-I did everything I could to get me through the night
-Don't know where it started or where it might end
-I'd turn to a stranger just like a friend
-
-Lookin' for love in all the wrong places
-Lookin' for love in too many faces
-Searchin' her eyes, lookin' for traces
-Of what I'm dreamin' of
-Hopin' to find a friend and a lover
-I'll bless the day I discover,
-Another heart lookin' for love
-
-
 

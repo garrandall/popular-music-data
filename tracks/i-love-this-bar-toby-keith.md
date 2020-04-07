@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-love-this-bar-toby-keith
-lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/ilovethisbar.html
 name: I Love This Bar
 rankings:
 - end_date: '2003-09-12'
@@ -88,69 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
 ---
-
-Well, we got winners
-We got losers
-Chain smokers and boozers
-And we got high-techs
-We got bikers
-And plenty of thirsty hitchhikers
-
-And the girls next door dress up like movie stars
-Hmm, hmm, hmm
-I love this bar
-
-We got divorcees
-And a big ol' bouncer man
-We got dancing girls
-We got a damn good band
-We got waitresses
-Yeah, we got bar flies
-We got a dumb ass
-We got a wise guy
-
-And if we get too drunk you can sleep out in your car
-Uh huh, huh
-I sure love this bar
-
-I love my bar
-My kind of place
-Where just walking through that front door
-It puts a big smile on my face
-
-No cover charge
-Come as you are
-Uh huh, huh
-Whoo, I love this bar
-
-I like my truck (I like my truck)
-I like my old lady (I like your girlfriend)
-I like to take her out to dinner
-Take in a movie now and then
-
-But I love my bar
-It's my kind of place
-We just strolling around the dance floor
-Keeps a big smile on my face
-
-It ain't too far
-So come as you are
-Uh huh, huh
-I sure love this bar
-
-'Cause we got  heads
-We got  heads
-We got a bunch of juicers and potheads
-And we got 
-Now we got Tahoe
-Come on baby, the whole world's gonna 
-
-And we all know just exactly who we are, don't we now
-Uh huh, huh
-I love this bar, well
-Uh huh, huh
-I love this bar, whoo yes I do
-Yeah man, uh
-
-
 

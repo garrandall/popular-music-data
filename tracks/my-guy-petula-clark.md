@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: my-guy-petula-clark
-lyrics_url: https://www.azlyrics.com/lyrics/garypucketttheuniongap/kissmegoodbye.html
 name: My Guy
 rankings:
 - end_date: '1972-06-16'
@@ -60,61 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
 ---
-
-We choose it
-Win or lose it
-Love is never quite the same
-I love you
-Now, I've lost you
-Don't feel bad
-You're not to late
-
-So kiss me goodbye
-And I'll try not to cry
-All the tears in the world
-Won't change your mind
-
-There's someone new
-And he's waiting for you
-Soon your heart will be leaving me behind
-
-Linger awhile
-And I'll go with the smile
-Like a friend
-Who just happened to call
-
-For the last time
-Pretend you are mine
-My darling
-Kiss me goodbye
-
-I know now
-I must go now
-Though my heart wants me to stay
-That guy is your tomorrow
-I belong to yesterday
-
-So kiss me goodbye
-And I'll try not to cry
-All the tears in the world
-Won't change your mind
-
-There's someone new
-And he's waiting for you
-Soon your heart will be leaving me behind
-
-Linger awhile
-And I'll go with the smile
-Like a friend
-Who just happened to call
-
-For the last time
-Pretend you are mine
-My darling
-Kiss me goodbye
-
-My darling
-Kiss me goodbye
-
-
 

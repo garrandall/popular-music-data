@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: if-i-had-a-hammer--the-hammer-song--peter-paul-mary
+key: if-i-had-a-hammer--the-hammer-song--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/ifihadahammer.html
 name: If I Had A Hammer (The Hammer Song)
 rankings:

@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: i-want-to-take-you-higher-sly-the-family-stone
-lyrics_url: https://www.azlyrics.com/lyrics/tesla/iwanttotakeyouhigher.html
 name: I Want To Take You Higher
 rankings:
 - end_date: '1969-05-30'
@@ -73,57 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
 ---
-
-Feeling's gettin' stronger
-Music's gettin' longer too
-Music is flashin' me
-I want to, I want to, I want to take you higher
-I want to take you higher
-Baby, baby, baby light my fire
-I wanna take you higher
-
-Boom laka-laka-laka, boom laka-laka-laka boom
-
-Feeling's nitty-gritty
-Sound is in the city too
-Music's still flashin' me
-Don't ya, don't ya, don't don't don't ya want to get higher
-Baby baby baby light my fire
-I wanna take you higher
-
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-
-Higher
-Higher
-Higher
-
-Feeling that should make you move
-Sounds that should help you groove
-Music still flashin' me
-Take your places
-I want to take you higher
-I want to take you higher
-Baby baby baby light my fire
-I wanna take you higher
-
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-
-Higher
-Higher
-Higher
-
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-Boom laka-laka-laka, boom laka-laka-laka
-
-Higher
-Higher
-Higher
-...
-
-
 

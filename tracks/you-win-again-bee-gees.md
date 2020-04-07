@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-win-again-bee-gees
-lyrics_url: https://www.azlyrics.com/lyrics/cblock/youwinagain.html
 name: You Win Again
 rankings:
 - end_date: '1987-09-25'
@@ -32,58 +31,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
 ---
-
-
-There's so fight, you can't fight this battle of love with me, you win again 
-so little time we do nothing but compete 
-There's no life on earth no other could see me through, you win again 
-some never try but if anybody can we can 
-
-C-Block in the house for the Bee Gees 
-
-
-Yeah, we representin with this Bee Gee's thang, 
-CBK is what I'm screaming that's the click I claim 
-I keeps my head up game tight errect be my spine 
-I manage to stay real because my heart controls my mind 
-plus my God given gift is interwined with my soul 
-I set it down with my brain n left if ferment like pruno 
-now you know I like to shake the spot like that 
-comin' thru, stayin true because we hop like that 
-
-
-A true dat I'm wit dat and thats a fact CBK on dis track 
-and you know we comin' phat 
-If you didn't know now you know Goldie flow 
-peep the style for a while so you can feel the ruck us 
-Red Dogg, Misty with me you know you can't stop us 
-blowin leaves of da trees with the keys from the Bee Gee's 
-Toneway's got our back so we don't have a need 
-so check the flow and feel the breeze 
-
-
-
-
-I'm holding everything down blessed by the man 
-tryin to maintain sight n keep the upper hand in this dirty game 
-whwre nothing ever seem to change, bustas acting kinda shady 
-like they minds rearrenged 
-tell me what's the quickest way you could loose your fame 
-turn your back and walk away from the click you claim 
-and as the clock continues to turn you let the bridges burn 
-you wasn't worthy of the love that we CBK earned 
-
-
-Jealousy and envy it is the public enemy 
-I try to always love becuz it's in me 
-a lot of MC's produce key's of negetivity 
-but I'm stay real so you can feel my positivity 
-love their neighbour show respect till the end 
-everyone you meet you can't truss the like they can 
-look to the hills from whence cometh' all 
-live, pray and prosper or fall 
-
-
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hands-to-myself-selena-gomez
-lyrics_url: https://www.azlyrics.com/lyrics/troyesivan/handstomyselfsorrymedley.html
 name: Hands To Myself
 rankings:
 - end_date: '2016-01-01'
@@ -88,51 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
 ---
-
-Can't keep my hands to myself
-No matter how hard I'm trying to
-I want you all to myself
-You're metaphorical gin and juice
-So come on, give me a taste
-Of what it's like to be next to you
-Won't let one drop go to waste
-You're metaphorical gin and juice
-
-Cause all of the downs and the uppers
-Keep making love to each other
-And I'm trying, Iâm trying, I'm trying, Iâm trying
-All of the downs and the uppers
-Keep making love to each other
-And I'm trying, Iâm trying, I'm trying, Iâm trying
-
-Is it too late now to say sorry 
-Cause Iâm missing more than just your body. Hey!
-Is it too late now to say sorry 
-Yeah I know, I know, that I let you down 
-Is it too late to say I'm sorry now 
-
-Sorry, yeah!
-So sorry
-
-My doctor say you're no good
-But people say what they wanna say
-And you should know if I could
-I'd breathe you in every single day
-
-Is it too late now to say sorry 
-Cause Iâm missing more than just your body. Hey!
-Is it too late now to say sorry 
-Yeah I know, I know, that I let you down 
-Is it too late to say I'm sorry now 
-
-Sorry, yeah!
-So sorry
-I'm sorry
-
-Yeah I know, I know, that I let you down 
-Is it too late to say I'm sorry now
-
-Can't keep my hands to myself
-
-
 

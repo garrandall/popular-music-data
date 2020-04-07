@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rescue-me-fontella-bass
-lyrics_url: https://www.azlyrics.com/lyrics/cher/rescueme.html
 name: Rescue Me
 rankings:
 - end_date: '1965-10-08'
@@ -60,44 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
 ---
-
-Rescue me, take me in your arms 
-Rescue me. I want your tender charms 
-'Cause I'm lonely and I'm blue 
-I need you and your love too 
-Come on and rescue me 
-
-Come on baby, and rescue me 
-Come on baby, and rescue me 
-'Cause I need you by my side 
-Can't you see that I'm lonely 
-
-Rescue me, come on and take my heart 
-Take your love and conquer every part 
-'Cause I'm lonely and I'm blue 
-I need you and your love too 
-Come on and rescue me 
-
-Come on baby, and rescue me 
-Come on baby, and rescue me 
-'Cause I need you by my side 
-Can't you see that I'm lonely 
-
-Come on baby, take me baby 
-Hold me baby, love me baby 
-Can't you see that I need you baby 
-Can't you see that I'm lonely 
-Rescues me 
-Come on and take my hand 
-
-Come on baby and be my man 
-'Cause I love you 
-'Cause I want you 
-Can't you see that I'm lonely 
-Take me baby 
-Love me baby 
-Need me baby 
-Can't you see that I'm lonely
-
-
 

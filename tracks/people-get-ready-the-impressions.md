@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: people-get-ready-the-impressions
-lyrics_url: https://www.azlyrics.com/lyrics/vanillafudge/peoplegetready.html
 name: People Get Ready
 rankings:
 - end_date: '1965-02-19'
@@ -40,37 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
-
-People get ready
-People get ready
-
-People get ready
-There's a train a-coming
-Picking up passengers
-From coast to coast
-All you need is faith
-To hear diesels humming
-You don't need no baggage
-You just get on board
-
-People get ready
-For the train to Jordan
-Picking up passengers
-From coast to coast
-All you need is faith
-To hear diesels humming
-You don't need no ticket
-You just thank the Lord
-
-Now there ain't no room
-For the hopeless sinner
-They got to hard on mankind
-Just to save his own
-Have pity on those
-Whose chances are thinner
-There's room for all
-Among the Kingdom's Throne
-...
-
-
 

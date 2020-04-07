@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: whip-it-devo
-lyrics_url: https://www.azlyrics.com/lyrics/gleecast/whipit.html
 name: Whip It
 rankings:
 - end_date: '1980-09-05'
@@ -108,81 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
-
-
-Crack that whip
-Give the past a slip
-Step on a crack
-Break your momma's back
-
-When a problem comes along
-You must whip it
-Before the cream sets out too long
-You must whip it ( You must whip it)
-When something's goin' wrong
-You must whip it ( You must whip it)
-
-
-Now whip it
-Into shape
-Shape it up
-Get straight
-Go forward
-Move ahead
-Try to detect it
-It's not too late
-To whip it
-Whip it good
-
-
-When a good time turns around
-(You must whip it) ( You must whip it)
-You will never live it down
-(Unless you whip it) ( You must whip it)
-No one gets away
-(Until they whip it) ( You must whip it)
-
-
-I say whip it
-Whip it good
-I say whip it
-Whip it good
-
-Crack that whip ( Whip)
-Give the past a slip ( Slip)
-Step on a crack ( Crack)
-Break your momma's back ( Back)
-
-When a problem comes along
-You must whip it ( You must whip it)
-Before the cream sets out too long
-You must whip it ( You must whip it)
-When something's goin' wrong
-You must whip it ( You must whip it)
-
-Now whip it
-Into shape
-Shape it up
-Get straight
-Go forward
-Move ahead
-Try to detect it
-It's not too late
-To whip it
-Into shape
-Shape it up
-Get straight
-Go forward
-Move ahead
-Try to detect it
-It's not too late
-To whip it
-Well, whip it good
-
-I say whip it
-Whip it good
-I say whip it
-Whip it good
-
-
 

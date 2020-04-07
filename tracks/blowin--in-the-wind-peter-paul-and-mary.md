@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: blowin--in-the-wind-peter-paul-mary
+key: blowin--in-the-wind-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/blowininthewind.html
 name: Blowin' In The Wind
 rankings:
@@ -101,6 +99,3 @@ That too many people have died?
 The answer, my friend, is blowin' in the wind
 The answer is blowin' in the wind.
 The answer is blowin' in the wind.
-
-
-

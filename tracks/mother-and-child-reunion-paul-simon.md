@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mother-and-child-reunion-paul-simon
-lyrics_url: https://www.azlyrics.com/lyrics/mefirstandthegimmegimmes/motherandchildreunion.html
 name: Mother And Child Reunion
 rankings:
 - end_date: '1972-02-11'
@@ -60,49 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
 ---
-
-No I would not give you false hope
-On this strange and mournful day
-But the mother and child reunion
-Is only a motion away, oh, oh, little darling of mine.
-I can't for the life of me
-Remember a sadder day
-I know they say let it be
-It just don't work out that way
-And the course of a lifetime runs
-Over and over again
-
-But I would not give you false hope
-On this strange and mournful day
-But the mother and child reunion
-Is only a motion away, oh, oh, little darling of mine.
-
-I just cant believe it's so,
-Though it seems strange to say
-I never been laid so low
-Such a mysterious way
-And the course of a lifetime runs
-Over and over again
-
-But I would not give you false hope (no)
-On this strange and mournful day
-But the mother and child reunion
-Is only a motion away
-
-But the mother and child reunion
-Is only a motion away
-But the mother and child reunion
-Is only a moment away, yeah
-
-But the mother and child reunion
-Is only a motion away
-But the mother and child reunion
-Is only a moment away
-
-Only a moment away
-
-Yeah
-Oh yeah
-
-
 

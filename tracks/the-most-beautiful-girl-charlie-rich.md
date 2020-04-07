@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-most-beautiful-girl-charlie-rich
-lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/themostbeautifulgirl.html
 name: The Most Beautiful Girl
 rankings:
 - end_date: '1973-10-05'
@@ -96,35 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
-
-Hey, did you happen to see the most beautiful girl in the world?
-And if you did, was she cryin', cryin'?
-Hey, if you happen to see the most beautiful girl, walk out on me
-Tell her, "I'm sorry"
-Tell her, "I need my baby"
-Oh, won't you tell her that I love her?
-
-I woke up this morning and realized what I had done
-I stood alone in the cold gray dawn
-I knew I'd lost my morning sun
-I lost my head and I said some things
-Now come the heartaches that the morning brings
-I know I'm wrong and I couldn't see
-I let my world slip away from me
-
-Hey, did you happen to see the most beautiful girl in the world?
-And if you did, was she cryin', cryin'?
-Hey, if you happen to see the most beautiful girl, walk out on me
-Tell her, "I'm sorry"
-Tell her, "I need my baby"
-Oh, won't you tell her that I love her?
-
-Did you happen to see the most beautiful girl, walk out on me
-Tell her, "I'm sorry"
-Tell her, "I need my baby"
-Oh, won't you tell her that I love her?
-
-Did you happen to see the most beautiful girl, walk out on me?
-
-
 

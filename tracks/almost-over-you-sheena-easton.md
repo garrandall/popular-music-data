@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: almost-over-you-sheena-easton
-lyrics_url: https://www.azlyrics.com/lyrics/aizaseguerra/almostoveryou.html
 name: Almost Over You
 rankings:
 - end_date: '1983-12-16'
@@ -88,41 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
 ---
-
-I saw an old friend of ours today
-She asked about you, I didn't quite know what to say
-Heard you've been making the rounds 'round here
-While I've been trying to make tears disappear
-
-Now I'm almost over you
-I've almost shook these blues
-So when you come back around
-After painting the town
-You'll see I'm almost over you
-
-You're such a sly one with your cold, cold heart
-Maybe leaving came easy, but it tore me apart
-Time heals all wounds, they say, and I should know
-'Cause it seems like forever, but I'm letting you go
-
-Now I'm almost over you
-I've almost shook these blues
-So when you come back around
-After painting the town
-You'll see I'm almost over you
-
-I can forgive you and soon I'll forget all my shattered dreams
-Although you left me with nothing to show, full of misery
-
-Now I'm almost over you
-I've almost shook these blues
-So when you come back around
-After painting the town
-You'll see I'm almost over you
-
-When you come back around
-After painting the town
-You'll see I'm almost over you
-
-
 

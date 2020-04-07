@@ -5,7 +5,6 @@ features:
 - Nicki Minaj
 genres: []
 key: lil-freak-usher-nicki-minaj
-lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/lilfreak.html
 name: Lil Freak
 rankings:
 - end_date: '2010-03-26'
@@ -73,20 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
 ---
-
-Excuse me little mama but you can say I'm on duty
-I'm looking for a cutie
-A real big ole ghetto booty
-I really like your kitty kat and if you let me touch her
-I'll know your not a bluffer, I'll take you to go see Usher
-I keep a couple hoes like Santa I keep a Vixen
-Got that Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen
-I'm hotter than a hundred degrees (wooh)
-Alotta bread, (wooh) no sesame seeds
-If I'm in yo city I'm signing them tig old bitties
-I'm plotting on how I can take Cassie away from Diddy
-The girls wanna minaj, yeah they wetter than the rainin
-Usher buzz me in, everybody loves raymond
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: ride-captain-ride-blues-image
-lyrics_url: https://www.azlyrics.com/lyrics/bloodsweattears/ridecaptainride.html
 name: Ride Captain Ride
 rankings:
 - end_date: '1970-05-15'
@@ -68,36 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
 ---
-
-Seventy-three men sailed up from the San Francisco Bay,
-Rolled off of their ship and here's what they had to say.
-"We're calling everyone to ride along to another shore,
-Where we can laugh our lives away and be free once more."
-
-Ride, captain ride on your mystery ship,
-Be amazed at the friends you've got there on your trip.
-Ride, captain ride on your mystery ship,
-Be aware of the things others just might have missed
-
-No one heard them calling, no one came at all,
-'Cause they were too busy watching those old raindrops fall.
-As a storm was blowing out on the peaceful sea,
-Seventy-three men were sailing off into history.
-
-Ride, captain ride on your mystery ship,
-Be amazed at the friends you've got there on your trip.
-Ride captain ride on your mystery ship,
-Be aware of the world others just might have missed
-
-Ride, captain ride on your mystery ship,
-Be amazed at the friends you've got there on your trip.
-Ride captain ride on your mystery ship,
-Be aware of the world othersjust might have missed
-
-Ride, captain ride on your mystery ship,
-Be amazed at the friends you have here on your trip.
-Ride, captain ride on your mystery ship,
-Be aware of a world others just might have missed.
-
-
 

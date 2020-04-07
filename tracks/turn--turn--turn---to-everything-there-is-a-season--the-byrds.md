@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: turn--turn--turn---to-everything-there-is-a-season--the-byrds
-lyrics_url: https://www.azlyrics.com/lyrics/anthemlights/turnturnturn.html
 name: Turn! Turn! Turn! (To Everything There Is A Season)
 rankings:
 - end_date: '1965-10-29'
@@ -64,40 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
-
-To everything - turn, turn, turn
-There is a season - turn, turn, turn
-And a time to every purpose under heaven
-
-To everything - turn, turn, turn
-There is a season - turn, turn, turn
-And a time to every purpose under heaven
-
-A time to be born, a time to die
-A time to plant, a time to reap
-A time to kill, a time to heal
-A time to laugh, a time to weep
-
-To everything - turn, turn, turn
-There is a season - turn, turn, turn
-And a time to every purpose under heaven
-
-A time of love, a time of hate
-A time of war, a time of peace
-A time you may embrace
-A time to refrain from embracing
-
-To everything - turn, turn, turn
-There is a season - turn, turn, turn
-And a time to every purpose under heaven
-
-A time to gain, a time to lose
-A time to rend, a time to sew
-A time for love, a time for hate
-A time for peace, I swear it's not too late
-
-To everything - turn, turn, turn
-There is a season - turn, turn, turn
-
-
 

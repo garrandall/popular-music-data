@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hand-to-hold-on-to-john-cougar
-lyrics_url: https://www.azlyrics.com/lyrics/johnanderson/lettheguitardothetalkin.html
 name: Hand To Hold On To
 rankings:
 - end_date: '1982-11-12'
@@ -80,58 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
 ---
-
-I was in a band, we were scheduled to appear
-At a little roadhouse called the Get Down Here
-A cinder block building with a hand-painted sign
-Hunkered down straddling the county lines
-
-When the crowd rolled in, they were a motley mix
-There were truckers, bikers, drifters and locals from the sticks
-Each one meaner than a cougar in a cage
-And the biggest one swaggered right up to the stage
-
-He said, "We've heard everybody from David Allen Coe
-To Chuck Berry singing "Go, Johnny go go"
-Got an autographed picture of Elvis on the shelf
-So tell me, boy, what you got to say for yourself?
-
-I let the guitar do the talkin'
-And the whole place started rockin'
-My fingertips weren't stoppin'
-And that big old dude started boppin'
-No need to fuss, stop the squalkin'
-Just let the guitar do the talkin'
-
-She was over in a corner with a cheshire smile
-Best lookin' thing seventeen miles
-Sittin' there makin' my cold beer sweat
-I figure my chances were a long shot bet
-
-Because a woman like that's heard every line
-And I never have been the silver-tongue kind
-But I knew I had me one good chance
-Of gettin' that girl to dance, so I cranked up my amp
-
-And let the guitar do the talkin'
-And the whole place started rockin'
-My fingertips weren't stoppin'
-And that pretty little thing started boppin'
-No need to fuss and stop your squalkin'
-And let the guitar do the talkin'
-
-And in a world of too many words
-Sometimes your point is hard to get heard
-But I think I figured out a little way of getting mine through
-I just strap it on, tune it up, stick it in the hole
-Power on, count it off, hold it up, a hard solo
-
-Let the guitar do the talkin'
-And the whole place started rockin'
-My fingertips weren't stoppin'
-And everybody started boppin'
-No need to fuss, stop squalkin'
-Just let your guitar do the talkin'
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: young-and-beautiful-lana-del-rey
-lyrics_url: https://www.azlyrics.com/lyrics/madilynbailey/youngandbeautiful.html
 name: Young And Beautiful
 rankings:
 - end_date: '2013-05-17'
@@ -92,58 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
 ---
-
-I've seen the world
-Done it all
-Had my cake now
-Diamonds, brilliant
-In Bel Air now
-Hot summer nights, mid July
-When you and I were forever wild
-The crazy days, city lights
-The way you'd play with me like a child
-
-Will you still love me
-When I'm no longer young and beautiful?
-Will you still love me
-When I got nothing but my aching soul?
-I know you will, I know you will
-I know that you will
-Will you still love me when I'm no longer beautiful?
-
-I've seen the world, lit it up
-As my stage now
-Channeling angels in the new age now
-Hot summer days, rock 'n' roll
-The way you play for me at your show
-And all the ways I got to know
-Your pretty face and electric soul
-
-Will you still love me
-When I'm no longer young and beautiful?
-Will you still love me
-When I got nothing but my aching soul?
-I know you will, I know you will
-I know that you will
-Will you still love me when I'm no longer beautiful?
-
-Dear lord, when I get to heaven
-Please let me bring my man
-When he comes tell me that you'll let him in
-Father tell me if you can
-Oh that grace, oh that body
-Oh that face makes me wanna party
-He's my sun, he makes me shine like diamonds
-
-Will you still love me
-When I'm no longer young and beautiful?
-Will you still love me
-When I got nothing but my aching soul?
-I know you will, I know you will
-I know that you will
-Will you still love me when I'm no longer beautiful?
-Will you still love me when I'm no longer beautiful?
-Will you still love me when I'm no longer beautiful?
-
-
 

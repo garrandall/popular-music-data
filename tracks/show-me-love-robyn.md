@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: show-me-love-robyn
-lyrics_url: https://www.azlyrics.com/lyrics/goldford/showmelove.html
 name: Show Me Love
 rankings:
 - end_date: '1997-11-21'
@@ -104,48 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
 ---
-
-Always been told that I've got too much pride
-Too independent to have you by my side
-Then my heart said, all of you will see
-Just won't live for someone until she lives for me
-Never thought I would find love so sweet
-Never thought I would meet someone like you
-Well now I've found you and I tell you no lie
-This love I've got for you
-Could take me 'round the world
-
-Now show me love, show me life
-Baby show me what it's all about
-You're the one that I ever needed
-Show me love and what it's all about, alright, yeah
-
-Don't waste this love I wanna give to you
-Tell me what you got, show me what you can do
-Show me love, show me everything
-You've got potential
-So baby let me in
-
-And show me love, show me life
-Baby show me what it's all about
-You're the one that I ever needed
-Show me love and what it's all about, alright
-
-I'll love you
-I'll miss you
-I'll make sure
-Everything will be alright
-I'll give you my heart if you just give me love
-Every day and every night
-Show me love
-Show me life
-Baby show me what it's all about
-You're the one that I ever needed
-Show me love and what it's all about
-
-Cause you're the one that I ever needed
-Show me love and what it's all about, alright
-Alright
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rock-me-amadeus-falco
-lyrics_url: https://www.azlyrics.com/lyrics/edguy/rockmeamadeus.html
 name: Rock Me Amadeus
 rankings:
 - end_date: '1986-02-14'
@@ -76,61 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
 ---
-
-Er war ein Punker und er lebte in der groÃen Stadt
-Es war Wien, war Vienna wo er alles tat
-Er hatte Schulden denn er trank doch ihn liebten alle Frauen
-Und jede rief: come on and rock me Amadeus
-
-Er war Superstar, er war populÃ¤r
-Er war so exaltiert, because er hatte Flair
-Er war ein Virtuose war ein Rockidol
-Und alles rief: come on and rock me Amadeus
-
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Come on and rock me Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-
-Es war um 1780 und es war in Wien
-No plastic money anymore die Banken gegen ihn
-Woher die Schulden kamen war wohl jedermann bekannt
-Er war ein Mann der Frauen Frauen liebten seinen Punk
-
-Er war Superstar, er war populÃ¤r
-Er war so exaltiert, because er hatte Flair
-Er war ein Virtuose war ein Rockidol
-Und alles rief: come on and rock me Amadeus
-
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Come and rock me Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Come and rock me Amadeus
-
-Come and rock me Amadeus
-
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Come and rock me Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, Amadeus
-Amadeus Amadeus, oh oh oh Amadeus
-Oh oh oh Amadeus
-
-
 

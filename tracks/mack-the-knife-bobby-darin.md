@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mack-the-knife-bobby-darin
-lyrics_url: https://www.azlyrics.com/lyrics/marklanegan/macktheknife.html
 name: Mack The Knife
 rankings:
 - end_date: '1959-08-30'
@@ -112,31 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
-
-Oh the shark yeah, pretty teeth dear
-And he shows them pearly white
-Just a jack knife has MacHeath, dear
-And he keeps it out of sight
-
-When that shark bites with his teeth, dear
-Scarlet billows start to spread
-Fancy gloves though wears MacHeath, dear
-So there's not a trace of red
-
-On the sidewalk, Sunday morning
-Lies a body once alive
-Someone's sneaking around the corner
-Is that someone Mack the knife?
-
-Some are children of the darkness
-Some are children of the sun
-You can see the sons of daylight
-Sons of dark are seen by none
-
-And the shark has pretty teeth dear
-And he shows them pearly white
-Just a jack knife has MacHeath, dear
-And he keeps it out of sight
-
-
 

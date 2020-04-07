@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: eight-days-a-week-the-beatles
-lyrics_url: https://www.azlyrics.com/lyrics/billypreston/eightdaysaweek.html
 name: Eight Days A Week
 rankings:
 - end_date: '1965-02-26'
@@ -48,59 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
 ---
-
-Oh, I need your love, babe
-Guess you know it's true
-Hope you need my love, babe
-Just like I need you
-
-Hold me, love me
-Hold me, love me
-I ain't got nothin' but love, babe
-Eight days a week
-
-Love you every day, girl
-Always on my mind
-One thing I can say, girl
-Love you all the time
-
-Hold me, love me
-Hold me, love me
-I ain't got nothin' but love, girl
-Eight days a week
-
-Eight days a week
-I love you
-Eight days a week
-Is not enough to show I care
-
-Ooh, I need your love, babe
-Yes, you know it's true
-Hope you need my love, babe
-Just like I need you
-
-Oh, hold me, love me
-Hold me, love me
-I ain't got nothin' but love, babe
-Eight days a week
-
-Eight days a week
-I love you
-Eight days a week
-Is not enough to show I care
-
-Love you every day, girl
-Always on my mind
-One thing I can say, girl
-Love you all the time
-
-Hold me, love me
-Hold me, love me
-I ain't got nothin' but love, babe
-Eight days a week
-
-Eight days a week
-Eight days a week
-
-
 

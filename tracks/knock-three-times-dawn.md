@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: knock-three-times-dawn
-lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/knockthreetimes.html
 name: Knock Three Times
 rankings:
 - end_date: '1970-11-27'
@@ -80,57 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
 ---
-
-Hey boy, what ya doin' down there?
-Dancin' alone every night while I live right above you
-I can hear your music playin'
-I can see your body swayin'
-One floor below me
-You don't even know me
-I love you
-
-Oh, my darlin'
-Knock three times
-On the ceiling if you want me
-Twice on the pipes
-If the answer is no
-Oh, my sweetness
-Means you'll meet me in the hallway
-Twice on the pipes
-Means you ain't gonna show
-
-If you look out your window tonight
-Pulling the string with the note
-That's attached to my heart
-Read how many times I saw you
-How in my silence I adored you
-Only in my dreams did that wall
-Between us come apart
-
-Oh, my darlin'
-Knock three times
-On the ceiling if you want me
-Twice on the pipes
-If the answer is no
-Oh, my sweetness
-Means you'll meet me in the hallway
-Twice on the pipes
-Means you ain't gonna show
-
-I can hear the music playin'
-I can see your body swayin'
-One floor below me
-You don't even know me
-
-Oh, my darlin'
-Knock three times
-On the ceiling if you want me
-Twice on the pipes
-If the answer is no (I love you, I love you)
-Oh, my sweetness
-Means you'll meet me in the hallway
-Twice on the pipes
-Means you ain't gonna show
-
-
 

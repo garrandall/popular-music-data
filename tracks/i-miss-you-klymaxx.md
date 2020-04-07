@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-miss-you-klymaxx
-lyrics_url: https://www.azlyrics.com/lyrics/kyla/imissyou.html
 name: I Miss You
 rankings:
 - end_date: '1985-09-20'
@@ -124,56 +123,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
 ---
-
-Thought I heard your voice yesterday
-Then I turned around to say that I loved to, then I realized
-And it was just my mind playing tricks on me
-It seems colder lately at night
-And I try to sleep with the lights on
-Everytime the phone rings
-I pray to God it's you
-And I just can't believe
-That we're through
-
-I miss you
-There's no other way to say it
-And I, I can't deny it
-I miss you
-It's so easy to see
-I miss you and me
-
-Is it done and over this time?
-Can we really change our minds?
-But it's our first love
-All the feelings that we used to share
-I refuse to believe that you don't care
-
-I miss you
-There's no other way to say it
-And I, I can't deny it
-I miss you (I miss you)
-It's so easy to see
-
-I've got to gather my senses together
-I've been through worse kinds of weather
-If it's over now be strong
-I can't believe that you're gone
-I've got to carry on
-
-I miss you (I miss you)
-It's driving me crazy
-I don't wanna live without you
-I miss you (I miss you)
-It's so easy to see
-I miss you and
-I miss you (I miss you)
-There's no other way to say it
-(And I) and I can't deny it
-I miss you (boy, I miss you)
-It's so easy to see
-I miss you and me
-
-(I can't believe you're gone)
-
-
 

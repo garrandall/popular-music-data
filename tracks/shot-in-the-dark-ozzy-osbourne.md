@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: shot-in-the-dark-ozzy-osbourne
-lyrics_url: https://www.azlyrics.com/lyrics/powerwolf/shotinthedark.html
 name: Shot in the Dark
 rankings:
 - end_date: '1986-03-28'
@@ -44,56 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
 ---
-
-Out on the streets I'm stalking the night
-I can hear my heavy breathing
-Paid for the kill, but it doesn't seem right
-Something there I can't believe in
-Voices are calling from inside my head
-I can hear them, I can hear them
-Vanishing memories of things that were said
-They can't try to hurt me now
-
-But a shot in the dark
-One step away from you
-Shot in the dark
-Always creeping up on you
-All right
-
-Taught by the powers that preach over me
-I can hear their empty reasons
-I wouldn't listen, I learned how to fight
-I opened up my mind to treason
-But just like the wounded, and when it's too late
-They remember, they surrender
-Never a care for the people who hate
-Underestimate me now
-
-But a shot in the dark
-One step away from you
-Shot in the dark
-Not a thing that you can do
-A shot in the dark
-Always creeping up on you
-All right
-
-But just like the wounded, and when it's too late
-They remember, they surrender
-Never a care for the people who hate
-Underestimate me now
-
-But a shot in the dark
-One step away from you
-Shot in the dark
-Not a thing that you can do
-A shot in the dark
-Always creeping up on you
-All right
-
-Just a shot in the dark
-Just a shot in the dark
-Just a shot in the dark
-Just a shot in the dark
-
-
 

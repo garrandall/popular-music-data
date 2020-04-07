@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: put-a-little-love-in-your-heart-jackie-deshannon
-lyrics_url: https://www.azlyrics.com/lyrics/algreen/putalittleloveinyourheart.html
 name: Put A Little Love In Your Heart
 rankings:
 - end_date: '1969-07-04'
@@ -64,45 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
 ---
-
-Think of your fellow man
-Lend him a helping hand
-Put a little love in your heart
-
-You see it's getting late
-Oh please don't hesitate
-Put a little love in your heart
-And the world will be a better place
-And the world will be a better place
-For you and me
-You just wait and see
-
-Another day goes by
-And still the children cry
-Put a little love in you heart
-If you want the world to know
-We won't let hatred grow
-Put a little love in your heart
-
-And the world will be a better place
-And the world will be a better place
-For you and me
-You just wait and see
-Wait and see
-
-Take a good look around
-And if you're lookin' down
-Put a little love in your heart
-I hope when you decide
-Kindness will be your guide
-Put a little love in your heart
-And the world will be a better place
-And the world will be a better place
-For you and me
-You just wait and see
-Put a little love in your heart
-Put a little love in your
-Love in your heart
-
-
 

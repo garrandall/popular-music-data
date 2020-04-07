@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-power-of-love-jennifer-rush
-lyrics_url: https://www.azlyrics.com/lyrics/sambailey/thepoweroflove.html
 name: The Power Of Love
 rankings:
 - end_date: '1986-02-14'
@@ -60,55 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
 ---
-
-The whispers in the morning
-Of lovers sleeping tight
-Are rolling by like thunder now
-As I look in your eyes
-I hold on to your body
-And feel each move you make
-Your voice is warm and tender
-A love that I could not forsake
-
-'Cause I am your lady
-And you are my man
-Whenever you reach for me
-I'll do all that I can
-
-Even though there may be times
-It seems I'm far away
-Never wonder where I am
-'Cause I am always by your side
-
-'Cause I am your lady
-And you are my man
-Whenever you reach for me
-I'll do all that I can
-
-We're heading for something
-Somewhere I've never been
-Sometimes I am frightened
-But I'm ready to learn
-'Bout the power of love
-
-The sound of your heart beating
-Made it clear suddenly
-The feeling that I can't go on
-Is light years away
-
-'Cause I am your lady
-And you are my man
-Whenever you reach for me
-I'm gonna do all that I can
-
-We're heading for something
-Somewhere I've never been
-Sometimes I am frightened
-But I'm ready to learn
-'Bout the power of love
-
-Ooh The power of love
-The power of love
-
-
 

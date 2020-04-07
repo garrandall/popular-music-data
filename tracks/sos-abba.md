@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sos-abba
-lyrics_url: https://www.azlyrics.com/lyrics/chrisdeburgh/sos.html
 name: SOS
 rankings:
 - end_date: '1975-08-15'
@@ -76,47 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
 ---
-
-Where are those happy days, they seem so hard to find
-I tried to reach for you, but you have closed your mind
-Whatever happened to our love
-I wish I understood
-It used to be so nice, it used to be so good
-
-So when you're near me, darling can't you hear me
-SOS
-The love you gave me, nothing else can save me
-SOS
-When you're gone
-How can I even try to go on
-When you're gone
-Though I try, how can I carry on?
-
-You seem so far away, though you are standing near
-You made me feel alive, but something died I fear
-I really tried to make it out
-I wish I understood
-What happened to our love, it used to be so good
-
-So when you're near me, darling can't you hear me
-SOS
-The love you gave me, nothing else can save me
-SOS
-When you're gone
-How can I even try to go on?
-When you're gone
-Though I try, how can I carry on?
-
-So when you're near me, darling can't you hear me
-SOS
-And the love you gave me, nothing else can save me
-SOS
-When you're gone
-How can I even try to go on?
-When you're gone
-Though I try, how can I carry on?
-
-Where are those happy days, they seem so hard to findâ¦
-
-
 

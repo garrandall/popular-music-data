@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mountain-of-love-harold-dorman
-lyrics_url: https://www.azlyrics.com/lyrics/shakinstevens/mountainoflove.html
 name: Mountain Of Love
 rankings:
 - end_date: '1960-03-06'
@@ -84,47 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
 ---
-
-Standin' on a mountain lookin' down on a city
-The way I feel is a doggone pity
-Teardrops fallin' down the mountain side
-Many times I've been here, many times I've cried
-We used to be so happy when we were above
-High on a mountain of love
-
-Night after night I'm a-standin' here alone
-Weepin' my heart out 'til the cold grey dawn
-Hopin' that you're lonely and you'll come here too me
-Hopin' just by chance that I'll get a glimpse of you
-Trying hard to find you somewhere here above
-High on a mountain of love
-
-Mountain of love, mountain of love
-You should be ashamed
-Used to be a mountain of love
-But you just changed your name
-
-Way down below there's a half a million people
-Somewhere there's a church with a great tall steeple
-Inside the church, there's an altar filled with flowers
-Wedding bells are ringin' and they should've been ours
-That's why I'm so lonely, here up above
-High on a mountain of love
-
-Mountain of love, mountain of love
-You should be ashamed
-You used to be a mountain of love
-But you just changed your name
-
-Way down below there's a half a million people
-Somewhere there's a church with a greet tall steeple
-Inside the church, there's an altar filled with flowers
-Wedding bells are ringin' and they should've been ours
-That's why I'm so lonely, here up above
-High on a mountain of love
-High on a mountain of love
-High on a mountain of love
-On a mountain of love
-
-
 

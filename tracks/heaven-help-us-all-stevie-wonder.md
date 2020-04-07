@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: heaven-help-us-all-stevie-wonder
-lyrics_url: https://www.azlyrics.com/lyrics/bandofheathens/heavenhelpusall.html
 name: Heaven Help Us All
 rankings:
 - end_date: '1970-10-23'
@@ -52,43 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
 ---
-
-Heaven help the child who never had a home
-Heaven help the girl who walks the streets alone
-Heaven help the roses if the bombs begin to fall
-Heaven help us all
-
-Heaven help the black man if he struggles one more day
-Heaven help the white man if he turns his back away
-Heaven help the man who kicks the man who has to crawl
-Heaven help us all
-
-Heaven help us all
-Heaven help us all
-Heaven help us all, hear our call when we fall
-
-Heaven help the boy who won't reach 21
-Heaven help the man who gave that child a gun
-Heaven help the people with their backs against the wall
-Heaven help us all
-
-Heaven help us all
-Heaven help us all
-Heaven help us all, hear our call when we fall
-Oh, heaven help us all
-
-(Hear our call)
-
-Now I lay me down before I go to sleep
-In a troubled world I pray the lord to keep
-Keep hatred from the mighty and the mighty from the small
-Heaven help us all
-
-Heaven help us all
-Heaven help us all
-Heaven help us all, hear our call, hear our call when we fall
-Yeah, heaven help us all
-...
-
-
 

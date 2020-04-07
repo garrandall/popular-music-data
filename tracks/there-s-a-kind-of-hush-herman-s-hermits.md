@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: there-s-a-kind-of-hush-herman-s-hermits
-lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/theresakindofhushallovertheworld.html
 name: There's A Kind Of Hush
 rankings:
 - end_date: '1967-02-17'
@@ -56,39 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
 ---
-
-There's a kind of hush all over the world tonight
-All over the world you can hear the sounds of lovers in love
-You know what I mean
-Just the two of us and nobody else in sight
-There's nobody else and I'm feeling good just holding you tight
-
-So listen very carefully
-Closer now and you will see what I mean
-It isn't a dream
-The only sound that you will hear
-Is when I whisper in your ear
-I love you forever and ever
-
-There's a kind of hush all over the world tonight
-All over the world you can hear the sounds of lovers in love
-La-la-la-la-la-la-la
-La-la-la-la-la-la-la-la
-La-la-la-la-la la-la-la-la-la
-La-la-la-la-la
-
-So listen very carefully
-Closer now and you will see what I mean
-It isn't a dream
-The only sound that you will hear
-Is when I whisper in your ear
-I love you forever and ever
-
-There's a kind of hush all over the world tonight
-All over the world people just like us are fallin' in love
-Yeah, they're fallin' in love
-Hush, they're fallin' in love
-Hush
-
-
 

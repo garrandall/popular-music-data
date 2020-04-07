@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: anyone-who-had-a-heart-dionne-warwick
-lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/anyonewhohadaheart.html
 name: Anyone Who Had A Heart
 rankings:
 - end_date: '1963-12-13'
@@ -64,51 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
-
-Anyone who ever loved
-Could look at me
-And know that I love you
-Anyone who ever dreamed
-Could look at me
-And know I dream of you
-
-Knowing I love you so
-Anyone who had a heart 
-Would take me in his arms and love me, too
-You couldn't really have a heart
-And hurt me like you hurt me
-And be so untrue
-What am I to do?
-
-Every time you go away
-I always say
-"This time it's goodbye, dear"
-Loving you the way I do
-I take you back
-Without you I'd die, dear
-
-Knowing I love you so
-Anyone who had a heart 
-Would take me in his arms and love me, too
-You couldn't really have a heart
-And hurt me like you hurt me
-And be so untrue
-What am I to do?
-
-Knowing I love you so
-Anyone who had a heart 
-Would take me in his arms and love me, too
-You couldn't really have a heart
-And hurt me like you hurt me
-And be so untrue
-Anyone who had a heart would love me, too
-Anyone who had a heart 
-Would surely take me in his arms and always love me
-Why won't you, yeah
-Anyone who had a heart would love me, too, yeah
-Anyone who had a heart 
-Would surely take me in his arms and always love me
-Why won't you, yeah
-
-
 

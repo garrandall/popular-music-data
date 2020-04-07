@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: once-in-awhile-the-chimes
-lyrics_url: https://www.azlyrics.com/lyrics/floggingmolly/thekilburnhighroad.html
 name: Once In Awhile
 rankings:
 - end_date: '1960-11-06'
@@ -80,53 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
-
-Many's the day I took for granted 
-Breathing the air that sinlenced some 
-As the North Wind blew 
-With its head of thunder 
-Beating its breast with a war drenched song 
-Bathe awhile, awash in slumber 
-Cry what's left to sleep 
-Where you dream of the love you left forever 
-But pity no more nor grieve 
-
-For we're the kings of it all 
-For the day we were born 
-Now we're the kings of the Kilburn High 
-Sure we'll always take a drop and we'll never leave a sup 
-Your empty glass is but a tear filled eye 
-We were the kings of the Kilburn High 
-
-Listen to the sound of dead men dying 
-March as they flee but exiled bound 
-Their ship once sailed no longer anchors 
-For gone is the green 
-And their hallowed gound 
-
-Toast to tears of times past glories 
-This ageless clock chime stalls 
-Where to kiss the lips of that love forgotten 
-To fly where no others have soared 
-
-For we're the kings of it all 
-For the day we were born 
-Now we're the kings of the Kilburn High 
-Sure we'll always take a drop and we'll never leave a sup 
-Your empty glass is but a tear filled eye 
-We were the kings of the Kilburn High 
-
-Toast to tears of times past glories 
-This ageless clock chime stalls 
-Where to kiss the lips of that love forgotten 
-To fly where no others have soared 
-
-For we're the kings of it all 
-For the day we were born 
-Now we're the kings of the Kilburn High 
-Sure we'll always take a drop and we'll never leave a sup 
-Your empty glass is but a tear filled eye 
-We were the kings of the Kilburn High
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: girls-just-want-to-have-fun-cyndi-lauper
-lyrics_url: https://www.azlyrics.com/lyrics/maine/girlsjustwanttohavefun.html
 name: Girls Just Want To Have Fun
 rankings:
 - end_date: '1983-12-23'
@@ -108,65 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
 ---
-
-Hey!
-
-I come home in the morning light,
-My mother says "When you gonna live your life right?".
-Oh, mother dear, we're not the fortunate ones.
-No, mother dear, we're not the fortunate ones.
-
-And girls they want to have fun.
-Oh, girls just want to have fun.
-Oh, girls they want to have fun.
-Oh, girls just want to have..
-
-That's all they really want,
-That's all they really want,
-That's all they really want,
-
-That's all they really want,
-That's all they really want,
-That's all they really want.
-
-That's all they really want.
-
-The phone rings in the middle of the night,
-Mha, my father yells "what you gonna do with your life?"
-Oh, daddy dear, you know you're still number one.
-Oh, daddy dear, you know you're still number one.
-
-But girls they want to have fun (girls just want to have fun),
-Oh, girls just want to have fun (girls just want to have fun),
-Oh, girls just want to have fun (girls just want to have fun)
-Oh, girls just want to have,
-
-That's all they really want, 
-That's all they really want,
-That's all they really want,
-
-That's all they really want,
-That's all they really want, yeah,
-That's all they really want.
-
-And girls just want to have fun,
-Oh girls just want to have fun,
-Oh girls just want to have fun,
-Oh girls just want to have..
-
-That's all they really want,
-That's all they really want,
-That's all they really want,
-
-That's all they really want,
-That's all they really want,
-That's all they really want.
-
-Some boys take a beautiful girl
-And hide her away from the rest of the world.
-I want to be the one to walk in the sun
-When the working day is done.
-When the working day is done.
-
-
 

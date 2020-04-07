@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: joy-to-the-world-three-dog-night
-lyrics_url: https://www.azlyrics.com/lyrics/fruitbats/singingjoytotheworld.html
 name: Joy To The World
 rankings:
 - end_date: '1971-03-19'
@@ -76,33 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
 ---
-
-He got lonely every time the cantina lights came up on the Indian Casino Queen
-'Cause he'd loved her from the time she'd been the waitress at the Mexican place where he'd left his keys
-
-She'd been there smiling at the lost and found
-Then he took her to see Three Dog Night
-They were playing at the fairgrounds
-Holding hands singing "Joy to the World"
-
-She was way too young but he did not care
-He was all right with cashing in a few fine moments before his broken heart kicked in
-
-He died a little bit each time the night came in
-And the stars fell over Michigan
-'Cause held loved her at the bar when he saw her dancing to
-"I Could Never Take the Place of your Man"
-
-Then he'd come over to his usual spot
-Soon they were making out at 3AM in the empty parking lot
-They lay together under the burnt out stars
-
-She never loved him back
-I wasn't even close
-But he was fine to just pretend
-That it was never gonna end
-And it was worth it just to know
-A little warmth before the snow
-
-
 

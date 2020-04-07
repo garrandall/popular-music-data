@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-a-letter-maria-r-b--greaves
-lyrics_url: https://www.azlyrics.com/lyrics/sammykershaw/takealettermaria.html
 name: Take A Letter Maria
 rankings:
 - end_date: '1969-10-24'
@@ -68,40 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
 ---
-
-Last night as I got home about a half past ten
-There was the woman I thought I knew
-In the arms of another man
-I kept my cool, I ain't no fool
-Let me tell you what happened then
-I packed some clothes and I walked out
-And I ain't going back again
-
-So take a letter Maria, address it to my wife
-Say I won't be coming home, gonna start a new life
-Take a letter Maria, address it to my wife
-Send a copy to my lawyer, gotta start a new life
-
-You've been many things but most of all a good secretary to me
-And it's times like this I feel you've always been close to me
-Was I wrong to work nights to try to build a good life
-All work and no play has just cost me a wife
-
-So take a letter Maria, address it to my wife
-Say I won't be coming home, gonna start a new life
-Take a letter Maria, address it to my wife
-Send a copy to my lawyer, gotta start a new life
-
-When a man loves a woman it's hard to understand
-That she would find more pleasure in the arms of another man
-I never really noticed how sweet you are to me
-It just so happens I'm free tonight
-Would you like to have dinner with me?
-
-So take a letter Maria, address it to my wife
-Say I won't be coming home, gonna start a new life
-Take a letter Maria, address it to my wife
-Send a copy to my lawyer, gotta start a new life
-
-
 

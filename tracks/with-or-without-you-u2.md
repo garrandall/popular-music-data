@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: with-or-without-you-u2
-lyrics_url: https://www.azlyrics.com/lyrics/amylee/withorwithoutyou.html
 name: With or Without You
 rankings:
 - end_date: '1987-03-27'
@@ -80,51 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
 ---
-
-See the stone set in your eyes
-See the thorn twist in your side
-I wait for you
-
-Sleight of hand and twist of fate
-On a bed of nails she makes me wait
-And I wait for you
-
-And I can't live
-With or without you
-With or without you
-With or without you
-
-Through the storm we reach the shore
-Give it all but I want more
-And I'm waiting for you
-
-With or without you
-With or without you
-I can't live
-Oh, with or without you
-With or without you
-
-And you give yourself away
-And you give yourself away
-And you give
-And you give
-And you give yourself away
-
-My hands are tied
-My body bruised
-I've got nothing to win and
-Nothing left to lose
-
-And you give yourself away
-And you give yourself away
-And you give
-And you give
-And you give
-
-I can't live
-With or without you
-With or without you
-Oh, with or without you
-
-
 

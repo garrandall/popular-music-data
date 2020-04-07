@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sex-on-fire-kings-of-leon
-lyrics_url: https://www.azlyrics.com/lyrics/altiyanchilds/sexonfire.html
 name: Sex On Fire
 rankings:
 - end_date: '2008-11-14'
@@ -88,50 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
 ---
-
-Lay where you're laying
-Don't make a sound
-I know they're watching
-They're watchin'
-All the commotion
-The kiddie like play
-Has people talkin'
-Talkin'
-
-You
-Your sex is on fire
-
-The dark of the alley
-The breakin' of day
-The head while I'm drivin'
-I'm drivin'
-Soft lips are open
-Knuckles are pale
-It feels like you're dyin'
-You're dyin'
-
-You
-Your sex is on fire
-Consumed
-With what's to transpire
-
-Hot as a fever
-Rattlin' bones
-I could just taste it
-Taste it
-If it's not forever
-If it's just tonight
-We still had the greatest time of my life
-
-You
-Your sex is on fire
-You
-Your sex is on fire
-
-You
-Your sex is on fire
-Consumed
-With what's to transpire
-
-
 

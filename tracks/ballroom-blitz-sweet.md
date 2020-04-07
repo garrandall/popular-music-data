@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: ballroom-blitz-sweet
-lyrics_url: https://www.azlyrics.com/lyrics/damned/ballroomblitz.html
 name: Ballroom Blitz
 rankings:
 - end_date: '1975-06-20'
@@ -108,58 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
-
-It's been getting so hard living with the things you do to me
-My dreams are getting so strange I'd like to tell you everything I see
-I see a man at the back as a matter of fact his eyes are as red as the sun
-And a girl in the corner let no one ignore her 'cause she thinks she's the passionate one
-
-It was like lightning
-Everybody was frightening
-And the music was soothing
-And they all started grooving
-Yeah, yeah, yeah, yeah, yeah
-
-And the man at the back said: "Everyone attack" and it turned into a ballroom blitz
-And the girl in the corner said: "Boy I wanna warn you" and it turned into a ballroom blitz
-Ballroom blitz
-Ballroom blitz
-Ballroom blitz
-Ballroom blitz
-
-It's been getting so strange living with the things you do to me
-I softly call you over when you appear there's nothing left of you
-I see a man at the back as a matter of fact as he raises his hands to the sky
-And the girl in the corner is everyone's moaner she could kill you with a wink of her eye
-
-Oh yeah, it was electric
-So frightfully hectic
-And the band started leaping
-'Cause they all stopped breathing
-Yeah, yeah, yeah, yeah, yeah
-
-And the man at the back said: "Everyone attack" and it turned into a ballroom blitz
-And the girl in the corner said: "Boy I wanna warn you" and it turned into a ballroom blitz
-Ballroom blitz
-Ballroom blitz
-Ballroom blitz
-
-Oh yeah, it was like lightning
-Everybody was frightening
-And the band started leaping
-'Cause they all stopped breathing
-Yeah, yeah, yeah, yeah, yeah
-
-And the man at the back said: "Everyone attack" and it turned into a ballroom blitz
-And the girl in the corner said: "Boy I wanna warn you" and it turned into a ballroom blitz
-Ballroom blitz
-Ballroom blitz
-Ballroom blitz
-Ballroom blitz
-
-It's, it's a ballroom blitz
-It's, it's a ballroom blitz
-It's, it's a ballroom blitz
-
-
 

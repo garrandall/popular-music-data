@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: nutbush-city-limits-ike-tina-turner
-lyrics_url: https://www.azlyrics.com/lyrics/sambrown/nutbushcitylimits.html
 name: Nutbush City Limits
 rankings:
 - end_date: '1973-09-14'
@@ -69,41 +68,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
-
-Church-house gin-house 
-School-house out-house 
-On highway number nineteen 
-The people keep the city clean 
-
-They call it Nutbush 
-Oh Nutbush 
-Call it Nutbush City limits 
-
-Twenty-five was the speed limit 
-A motorcycle not allowed in it 
-You go to school on fridays 
-To go to church on sundays 
-
-They call it Nutbush 
-Oh Nutbush 
-Call it Nutbush City limits 
-
-You're gonna feel on weekdays 
-And have a picnic on labour day 
-You go to town on saturdays 
-But go to church every sunday 
-
-They call it Nutbush 
-Oh Nutbush 
-Call it Nutbush City limits 
-
-There's no whiskey for sale 
-You get caught no bail 
-Soft port and molasses 
-Is all you get in jail 
-
-They call it Nutbush 
-Oh Nutbush yeah Nutbush City limits
-
-
 

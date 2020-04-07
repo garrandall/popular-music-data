@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: everytime-we-touch-cascada
-lyrics_url: https://www.azlyrics.com/lyrics/alexgoot/everytimewetouch.html
 name: Everytime We Touch
 rankings:
 - end_date: '2005-12-23'
@@ -132,41 +131,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
 ---
-
-I still hear your voice when you sleep next to me
-I still feel your touch in my dreams
-Forgive me my weakness but I don't know why
-without you it's hard to survive
-
-'cause everytime we touch I get this feeling
-and everytime we kiss I swear I could fly
-Can't you feel my heart beat fast I want this to last
-Need you by my side
-
-'cause everytime we touch I feel the static
-and everytime we kiss I reach for the sky
-Can't you hear my heart beat so I can't let you go
-Want you in my life
-
-Your arms are my castle your heart is my sky
-they wipe away tears that I cry
-The good and the bad times we've been through them all
-You make me rise when I fall
-
-'cause everytime we touch I get this feeling
-and everytime we kiss I swear I could fly
-Can't you feel my heart beat fast I want this to last
-Need you by my side
-
-'cause everytime we touch I feel the static
-and everytime we kiss I reach for the sky
-Can't you feel my heart beat so I can't let you go
-Want you in my life
-
-'cause everytime we touch I get this feeling
-and everytime we kiss I swear I could fly
-Can't you feel my heart beat fast I want this to last
-Need you by my side
-
-
 

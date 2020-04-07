@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-won-t-forget-you-poison
-lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/whattheflamesfeellike.html
 name: I Won't Forget You
 rankings:
 - end_date: '1987-09-11'
@@ -92,41 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
-
-Some take to drinkin'
-Some take to usin'
-Dont't matter what poison they choose
-Some hit rock bottom, lose every dollar
-Some get thier hearts broke in two
-It's a long way down
-And a hard road back
-
-
-When you've been through hell
-Played with fire
-Watched the devil dance 
-You thank the Lord for each morning
-For one more second chance
-You might outrun your demons
-You might get on with your life
-But you never forget what the flames feel like
-
-I know temtation is out their waiting
-To lure me back into her arms 
-But I wont surender 'cause I remember
-How her kisses branded my heart
-So I walk away 'cause the fire still burns
-
-
-
-If you follow the straight and narrow
-I know it might be hard to relate
-But if you've been their like I've been their
-Your carefull with each step you take 
-It's a long way down 
-And a hard road back 
-
-
-
-
 

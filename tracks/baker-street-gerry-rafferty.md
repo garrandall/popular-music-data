@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: baker-street-gerry-rafferty
-lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/bakerstreet.html
 name: Baker Street
 rankings:
 - end_date: '1978-04-28'
@@ -88,42 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
 ---
-
-Winding your way down on Baker Street
-Light in your head, and dead on your feet
-Well another crazy day
-You drink the night away
-And forget about everything
-This city desert makes you feel so cold,
-Its got so many people but its got no soul
-And it's taken you so long to find out you were wrong
-When you thought it held everything
-
-You used to think that it was so easy
-You used to say that it was so easy
-But you're tryin', you're tryin' now
-Another year and then you'd be happy
-Just one more year and then you'd be happy
-But you're cryin', you're cryin' now
-
-Way down the street there's a light in his place
-He opens the door
-He's got that look on his face
-And he asks you where you've been
-You tell him who you've seen
-And you talk about anything
-He's got this dream about buyin' some land
-He's gonna give up the booze and the one night stands
-And then he'll settle down
-It's a quiet little town
-And forget about everything
-But you know he'll always keep movin'
-You know he's never gonna stop movin'
-'Cause he's rollin'
-He's the rolling stone
-And when you wake up it's a new mornin'
-The sun is shining it's a new mornin'
-And you're going, you're going home
-
-
 

@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: how-deep-is-your-love-calvin-harris-disciples
-lyrics_url: https://www.azlyrics.com/lyrics/jones/howdeepisyourlove.html
 name: How Deep Is Your Love
 rankings:
 - end_date: '2015-08-14'
@@ -89,59 +88,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
 ---
-
-I want you to breathe me
-Let me be your air
-Let me roam your body freely
-No inhibition, no fear
-Open up my eyes and
-Tell me who I am
-Let me in on all your secrets
-No inhibition, no sin
-
-How deep is your love?
-Like the ocean?
-What devotion are you?
-How deep is your love?
-Like nirvana?
-Hit me harder
-Again
-How deep is your love?
-How deep is your love?
-How deep is your love?
-How deep is your love?
-
-What if you could breathe me?
-I could be your air
-I would own your body freely
-No inhibition, no fear
-Open up my mind, and
-Tell me who I am
-There will be no secrets
-No inhibition, no sin
-
-How deep is your love?
-Like the ocean?
-What devotion are you?
-How deep is your love?
-Like nirvana?
-Hit me harder
-Again
-
-How deep is your love?
-How deep is your love?
-How deep is your love?
-How deep is your love?
-
-I want you to breathe me, let me be your air
-I want you to breathe me, let me be your air
-I want you to breathe me, let me be your air
-I want you to breathe me
-
-I want you to breathe me, let me be your air
-I want you to breathe me, let me be your air
-I want you to breathe me, let me be your air
-I want you to breathe me
-
-
 

@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: settle-down--goin--down-that-highway--peter-paul-mary
+key: settle-down--goin--down-that-highway--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/settledowngoindownthathighway.html
 name: Settle Down (Goin' Down That Highway)
 rankings:
@@ -36,36 +34,36 @@ rankings:
 ---
 
 I'm goin' down that highway, goin' to another town.
-Baby when I find what I'm looking for, well then maybe I'll settle down. 
+Baby when I find what I'm looking for, well then maybe I'll settle down.
 
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
 Why don't you help me brother, I'm a stranger in your town
-Why don't you help me sister, and then maybe I'll settle down. 
+Why don't you help me sister, and then maybe I'll settle down.
 
 I worked my way from Boston to that San Francisco Bay
-Baby what I was looking for, I couldn't find along the way. 
+Baby what I was looking for, I couldn't find along the way.
 
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
 Why don't you help me brother, I'm a stranger in your town
-Why don't you help me sister, and then maybe I'll settle down. 
+Why don't you help me sister, and then maybe I'll settle down.
 
 Never been contented no matter where I roam
-It ain't no fun to see a settin' sun when you're far away from home. 
+It ain't no fun to see a settin' sun when you're far away from home.
 
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
 Why don't you help me brother, I'm a stranger in your town
-Why don't you help me sister, and then maybe I'll settle down. 
+Why don't you help me sister, and then maybe I'll settle down.
 
 I've worked in the mills of Pittsburgh, in the hills of Tennessee,
-Baby all I want is to find a job that will set my mind at ease. 
+Baby all I want is to find a job that will set my mind at ease.
 
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
 Why don't you help me brother, I'm a stranger in your town
-Why don't you help me sister, and then maybe I'll settle down. 
+Why don't you help me sister, and then maybe I'll settle down.
 
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.

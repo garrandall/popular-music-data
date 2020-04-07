@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: lonely-teardrops-jackie-wilson
-lyrics_url: https://www.azlyrics.com/lyrics/michaelmcdonald/lonelyteardrops.html
 name: Lonely Teardrops
 rankings:
 - end_date: '1958-11-30'
@@ -92,55 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
-
-My heart is crying, crying
-Lonely teardrops
-My pillow's never dry of
-Lonely teardrops
-Come home, come home
-Just say you will, say you will
-Say you will
-Bring it 'round now, baby
-
-My heart is crying, crying
-Lonely teardrops
-My pillow never dry
-Lonely teardrops
-Come home, come home
-Just say you will, say you will
-Say you will
-Bring it 'round now, baby
-
-Just give me a second chance for our romance
-Come on and tell me that someday you'll return
-'Cause every day that youâre gone away
-You know my heart does nothing but burn, crying
-
-Lonely teardrops
-My pillow never dries
-Lonely teardrops
-Come home, come home
-Just say you will, say you will
-Say you will
-Bring it 'round now, baby
-
-Just give me a second chance for our romance
-Come on and tell me that someday you'll return
-'Cause every day that youâre gone away
-My heart does nothing but burn, crying
-
-Lonely teardrops
-My pillow never dries
-Lonely teardrops
-Come home, come home
-Just say you will, say you will
-Say you will
-Bring it 'round now, baby
-
-Say you will, say you will
-Bring it 'round now, baby
-Say you will, baby
-Say you will, baby
-
-
 

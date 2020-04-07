@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: raindrops-keep-fallin--on-my-head-b-j--thomas
-lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/raindropskeepfallinonmyhead.html
 name: Raindrops Keep Fallin' On My Head
 rankings:
 - end_date: '1969-11-07'
@@ -96,70 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
-
-Raindrops keep fallin' on my head
-I'm just like a man whose feet are too big for his bed
-Nothin' seems to fit
-(Too big, seems to fit)
-Those raindrops keep fallin' on my head, they keep fallin'
-
-So I did me some talkin' with the sun
-And I said I didn't seem to like the way he got things done
-Sleeping on the job
-(Sleeping, sleeping)
-Oh, those raindrops keep fallin' on my head, they keep fallin'
-
-But there's one thing I know
-The blues they send to greet me won't defeat me
-(Defeat me)
-And it won't be long for happiness steps up to greet me
-
-Won't be long
-Won't be long
-Won't be long, yeah
-
-'Cause raindrops keep fallin' on my head
-But that doesn't mean my eyes will soon be turning red
-Crying's not for me
-Oh but I'm never gonna stop the rain by complaining
-
-Because I'm free
-(Free, free, free)
-Oh-oh
-(Free, free, free)
-Oh-oh, I'm free
-(Free, free, free)
-Nothing's worrying me
-
-(Raindrops keep fallin' on my head, they keep fallin')
-
-Raindrops keep fallin' on my head, they keep fallin'
-But there's one thing I know
-The blues they send to greet me won't defeat me
-(Defeat me)
-And it won't be long for happiness steps up to greet me
-
-(Won't be long)
-(Won't be long)
-(Won't be long)
-
-Raindrops keep fallin' on my head
-But that doesn't mean my eyes will soon be turning red
-Crying's not for me
-But I'm never gonna stop the rain by complaining
-
-Because I'm free
-(Raindrops keep fallin', keep fallin', keep fallin')
-Nothing's worrying me
-(Raindrops keep fallin', keep fallin', keep fallin')
-Oh-oh
-(Raindrops keep fallin', keep fallin', keep fallin')
-Nothing's worrying me
-(Raindrops keep fallin', keep fallin', keep fallin')
-Oh-oh, I'm free
-(Raindrops keep fallin', keep fallin', keep fallin')
-Nothing's worrying me
-(Raindrops keep fallin', keep fallin', keep fallin')...
-
-
 

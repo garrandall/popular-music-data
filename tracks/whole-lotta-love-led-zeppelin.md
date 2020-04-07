@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: whole-lotta-love-led-zeppelin
-lyrics_url: https://www.azlyrics.com/lyrics/krokus/wholelottalove.html
 name: Whole Lotta Love
 rankings:
 - end_date: '1969-11-28'
@@ -68,70 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
 ---
-
-You need cooling
-Baby I'm not fooling
-I'm gonna send ya
-Back to schooling
-
-Way, way down inside
-A-honey you need it
-I'm gonna give you my love
-I'm gonna give you my love
-
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-
-You've been learning
-Baby I've been yearning
-All them good times baby, baby
-I've been year-yearning
-
-Way, way down inside
-A-honey you need-ah
-I'm gonna give you my love, ah
-I'm gonna give you my love
-
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-
-You've been cooling
-And baby I've been drooling
-All the good times, baby, baby
-I've been misusing, yeah
-
-Way, way down inside
-I'm gonna give it to you
-I'm gonna give you every inch of my love
-I'm gonna give you my love
-
-Hey!
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-Want to whole lotta love
-
-Way down inside
-Woman, you need
-Love!
-
-My, my, my, my
-My, my, my, my
-Lord
-Shake for me girl
-I wanna be your backdoor man
-Hey, oh, hey, oh...
-
-Cool, my, my baby
-Keep it cooling baby...
-
-Want to whole lotta love...
-
-I want to whole lotta rosie
-
-
 

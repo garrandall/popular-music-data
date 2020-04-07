@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-things-we-do-for-love-10cc
-lyrics_url: https://www.azlyrics.com/lyrics/victoriajustice/thethingswedoforlove.html
 name: The Things We Do For Love
 rankings:
 - end_date: '1977-01-14'
@@ -84,51 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
-
-Too many broken hearts have fallen in the river
-Too many lonely souls have drifted out to sea,
-You lay your bets and then you pay the price
-That The things we do for love, the things we do for love.
-
-Communication is the problem to the answer
-Youve got her number and your hand is on the phone
-The weathers turned, and all the lines are down
-The things we do for love, the things we do for love.
-
-Like walking in the rain and the snow
-When there's nowhere to go
-And you're feelin like a part of you is dying
-And you're looking for the answer in her eyes.
-You think you're gonna break up
-Then she says she wants to make up.
-
-Ooh you made me love you (you made me love you)
-Ooh you've got a way (you've got a way)
-Ooh you had me crawling up the wall. oooooo
-ahhhhhhh
-
-
-
-The things we do for love, the things we do for love.
-
-Like walking in the rain and the snow
-When there's nowhere to go
-And you're feelin like a part of you is dying
-And you're looking for the answer in her eyes.
-You think youre gonna break up
-Then she says she wants to make up.
-
-Ooh you made me love you (you made me love you)
-Ooh you've got a way (you've got a way)
-Ooh you had me crawling up the wall. 0Ooooo
-
-A compromise would surely help the situation
-Agree to disagree but disagree to part
-When after all its just a compromise of
-The things we do for love, the things we do for love
-The things we do for love, the things we do for love
-The things we do for love, the things we do for love
-The things we do for love, the things we do for love
-
-
 

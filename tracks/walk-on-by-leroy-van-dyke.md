@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walk-on-by-leroy-van-dyke
-lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/walkonby.html
 name: Walk On By
 rankings:
 - end_date: '1961-11-05'
@@ -72,34 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
-
-If I see you tomorrow
-On some street in town
-Pardon me if I don't say' hello'
-I belong to another and it wouldn't look so good
-To know someone I'm not supposed to know
-
-Just walk on by
-Wait on the corner
-I love you but we're strangers when we meet
-Just walk on by
-Wait on the corner
-I love you but we're strangers when we meet
-
-In dimly little corner
-In a place outside of town
-Tonight we'll try to say goodbye again
-But I know it's not over
-I'll call tomorrow night
-I can't let you go, so why pretend
-
-Just walk on by
-Wait on the corner
-I love you but we're strangers when we meet
-Just walk on by
-Wait on the corner
-I love you but we're strangers when we meet
-I love you but we're strangers when we meet
-
-
 

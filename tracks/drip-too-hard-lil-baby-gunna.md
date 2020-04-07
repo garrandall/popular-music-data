@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: drip-too-hard-lil-baby-gunna
-lyrics_url: https://www.azlyrics.com/lyrics/alexaiono/thankunextdriptoohardsunflowermashup.html
 name: Drip Too Hard
 rankings:
 - end_date: '2018-10-05'
@@ -149,72 +148,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
 ---
-
-Thought I'd end up withâ
-But it wasn't a matchâ
-Wrote some songs aboutâ
-Now I listen and laugh
-Then almost got married
-And for her I'm so grateful
-Wish I could say, "Thank you" to Malcolm
-'Cause he was an angel
-
-One taught me love
-One taught me patience
-One taught me pain
-Now, I'm so amazing
-I've loved and I've lost
-But that's not what I see
-Look what I've got
-Look what you taught me
-And for that, I say
-
-Thank you, next
-Thank you, next
-Thank you, next
-I'm so, I'm so grateful for my ex
-Thank you, next
-Thank you, next
-Thank you, next
-I'm so, I'm so grateful for myâ
-
-Drip too hard, don't stand too close
-You gon' mess around and drown off this wave
-Doin' all these shows, I've been on the road
-I don't care where I go, long as I get paid
-Bad little vibe, she been on my mind
-Soon as I get back, she get slayed
-Do this all the time, this ain't no surprise
-Every other night, another movie gettin' made
-
-Next
-Thank you, next
-Thank you, next
-I'm so, I'm so grateful for my ex
-Thank you, next
-Thank you, next
-Thank you, next
-I'm so, I'm so grateful
-
-Needless to say, I keep her in check
-She was all bad-bad, nevertheless
-Callin' it quits now, baby, I'm a wreck
-Crash at my place, baby, you're a wreck
-Needless to say, I'm keeping her in check
-She was all bad-bad, nevertheless
-Callin' it quits now, baby, I'm a wreck
-Crash at my place, baby, you're a wreck, oh yeah
-
-Then you're left in the dust, unless I stuck by ya
-You're the sunflower, I think your love would be too much
-Or you'll be left in the dust, unless I stuck by ya
-You're the sunflower, you're the sunflower
-Ooh, you're the sunflower
-
-I'm so, I'm so grateful for my ex
-Thank you, next
-Thank you, next
-Every other night, another movie gettin' made
-
-
 

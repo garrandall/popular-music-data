@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: yellow-river-christie
-lyrics_url: https://www.azlyrics.com/lyrics/middleoftheroad/yellowriver.html
 name: Yellow River
 rankings:
 - end_date: '1970-07-24'
@@ -100,51 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
-
-So long, boy you can take my place
-Got my papers, I've got my pay
-So pack my bags and I'll be on my way
-To Yellow River
-
-Put my gun down, the war is won
-Fill my glass, now the time has come
-I'm going back to the place that I love
-At Yellow River
-
-Yellow River, Yellow River
-Is in my mind and in my eyes
-Yellow River, Yellow River
-Is in my blood, it's the place I love
-
-Got no time for explanations, got no time to lose
-Tomorrow night you'll find me
-Sleeping underneath the moon
-At Yellow River
-
-Cannon fire lingers in my mind
-I'm so glad that I'm still alive
-And I've been gone for such a long time
-At Yellow River
-
-I remember the nights were cool
-I still can see the water pool
-And I remember the girl that I knew
-At Yellow River
-
-Yellow River, Yellow River
-Is in my mind and in my eyes
-Yellow River, Yellow River
-Is in my blood, it's the place I love
-
-Got no time for explanations, got no time to lose
-Tomorrow night you'll find me
-Sleeping underneath the moon
-At Yellow River
-
-Yellow River, Yellow River
-Is in my mind and in my eyes
-Yellow River, Yellow River
-Is in my blood, it's the place I love
-
-
 

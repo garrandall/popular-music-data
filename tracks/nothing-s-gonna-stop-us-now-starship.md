@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nothing-s-gonna-stop-us-now-starship
-lyrics_url: https://www.azlyrics.com/lyrics/mymp/nothingsgonnastopusnow.html
 name: Nothing's Gonna Stop Us Now
 rankings:
 - end_date: '1987-02-06'
@@ -96,71 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
 ---
-
-Looking in your eyes, I see a paradise
-This world that I found is too good to be true
-Standing here beside you
-Want so much to give you this love in my heart
-That I'm feeling for you
-
-Let them say we're crazy
-Don't care about that
-Put your hand in my hand, baby, don't ever look back
-Let the world around us just fall apart
-Baby, we can make it if we're heart to heart
-
-And we can build this dream together
-Standing strong forever
-Nothing's gonna stop us now
-And if this world runs out of lovers
-We'll still have each other
-Nothing's gonna stop us
-Nothing's gonna stop us now ooh ohh
-
-I'm so glad I found you
-I'm not gonna lose you
-Whatever it takes, I will stay here with you
-Take it to the good times
-See it through the bad times
-Whatever it takes is what I'm gonna do
-
-Let them say we're crazy
-What do they know?
-Put your arms around me, baby, don't ever let go
-Let the world around us just fall apart
-
-Baby, we can make it if we're heart to heart
-
-And we can build this dream together
-Standing strong forever
-Nothing's gonna stop us now
-And if this world runs out of lovers
-We'll still have each other
-Nothing's gonna stop us, nothing's gonna stop us
-
-Ooh, all that I need is you
-All that I ever need
-And all that I want to do
-Is hold you forever, forever and ever
-
-And we can build this dream together
-Standing strong forever
-Nothing's gonna stop us now
-And if this world runs out of lovers
-We'll still have each other
-Nothing's gonna stop us, nothing's gonna stop us
-Woh oh oh oh oh
-Nothing's gonna stop us
-Nothing's gonna stop us... now
-Hey baby
-
-And we can build this dream together
-Standing strong forever
-Nothing's gonna stop us now
-And if this world runs out of lovers
-We'll still have each other
-Nothings gonna stop us
-Nothings gonna stop us now
-
-
 

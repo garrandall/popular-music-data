@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: rhythm-of-the-rain-the-cascades
-lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/rhythmoftherain.html
 name: Rhythm Of The Rain
 rankings:
 - end_date: '1963-01-18'
@@ -72,48 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
 ---
-
-Listen to the rhythm of the falling rain
-Telling me just what a fool I've been
-I wish that it would go and let me cry in vain
-And let me be alone again
-
-The only girl I ever loved has gone away
-Looking for a brand new start
-But little does she know that when she left that day
-Along with her he took my heart
-
-Rain please tell me now does that seem fair
-For her to steal my heart away when she don't care
-I can't love another when my heart's somewhere far away
-
-Listen to the rhythm of the falling rain
-Telling me just what a fool I've been
-I wish that it would go and let me cry in vain
-And let me be alone again
-
-The only girl I ever loved has gone away
-Looking for a brand new start
-Little does she know that when she left that day
-Along with her she took my heart
-
-Rain won't you tell her that I love her so
-Please ask the sun to set her heart a glow
-And rain in her heart and let the love we know start to grow
-
-Listen to the rhythm of the falling rain
-Telling me just what a fool I've been
-Ah I wish that it would go and let me cry in vain
-And let me be alone again
-
-Rain please tell me now does that seem fair
-For her to steal my heart away when he don't care
-I can't love another when my heart's somewhere far away
-
-Oh listen to the falling rain
-Oh rhythm of the falling rain
-Oh listen to the falling rain
-Oh rhythm of the falling rain
-
-
 

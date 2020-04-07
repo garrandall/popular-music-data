@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: misunderstanding-genesis
-lyrics_url: https://www.azlyrics.com/lyrics/ninjasexparty/misunderstanding.html
 name: Misunderstanding
 rankings:
 - end_date: '1980-05-30'
@@ -80,40 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
 ---
-
-1, 2, 3, 4
-
-There must be some misunderstanding
-There must be some kind of mistake
-I waited in the rain for hours
-And you were late
-
-Now it's not like me to say the right thing
-But you could've called to let me know
-I checked your number twice, don't understand it
-So I went home
-
-Well I'd been waiting for this weekend
-I thought that maybe we could see a show
-Never dreamed I'd have this feeling
-Oh but seeing you is believing
-That's why I don't know why
-You didn't show up that night
-
-There must be some misunderstanding
-There must be some kind of mistake
-I was waiting in the rain for hours
-And you were late
-
-Since then I've been running around trying to find you
-I went to the places that we always go
-I rang your house but got no answer
-Jumped in my car, I went round there
-Still don't believe it
-He was just leaving
-
-There must be some misunderstanding
-There must be some kind of mistake...
-
-
 

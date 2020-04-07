@@ -7,7 +7,6 @@ artists:
 features: []
 genres: []
 key: the-best-man-i-can-be-ginuwine-r-l--tyrese-case
-lyrics_url: https://www.azlyrics.com/lyrics/tyrese/thebestmanicanbe.html
 name: The Best Man I Can Be
 rankings:
 - end_date: '2000-01-14'
@@ -59,89 +58,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
 ---
-
-
-Yeah this is for my brothers in the hood
-And the high risers, on the mansions with the maids
-We gotta come together, come on y'all
-Case, Ginuwine, Tyrese, and me R.L.
-Help me sing it fellas, yeah
-
-
-I'm sitting here alone
-Trying to face another day
-Gotta stay strong, hmm
-To endure this pain
-
-
-I'm dealing with right now
-It flipped my whole life upside down
-I don't want your help
-I don't need your sympathy, no
-
-
-What can a brother do for me?
-(See he can you help you up when you are down)
-What can a brother do for me?
-(He can be your eyes when you can't see)
-What can a brother do for me?
-(He can help me be the best man I can be)
-(Oh I can be, I can be, oh I can be, I can be)
-He can help me be the best man I can be
-(Oh yeah, yeah, yeah)
-
-
-(Be the best man)
-I made a big mistake
-And I'm feeling so ashamed
-And I don't want to lose my friendship over it
-I've gotta keep the faith, yes I do
-
-
-Cause I'm still your boy, I've got your back
-That'll never, never, never, never gonna change
-So I can just cite the truth
-And keep smiling in your face
-
-
-What can a brother do for me?
-(He can you help you up when you are down)
-What can a brother do for me?
-(He can be your eyes when you can't see)
-What can a brother do for me?
-(He can help me be the best man I can be)
-
-
-I keep struggling but I'm trying my best
-I got some issues with my own confidence
-Lord help me to forgive and forget
-Can you please help me to be a better man?
-
-
-For the rest of the darkest nights
-Shines the brightest sun
-I ain't the man I used to be
-I'm better than before
-
-
-What can a brother do for me?
-(He can you help you up when you are down)
-What can a brother do for me?
-He can help me be the best man I can be
-(I can be, I can be, I can be, I can be)
-He can help me be the best man I can be
-(I can be, whoa I can be, oh I can be, oh I can be)
-Help me be the best man I can
-
-
-Cause he's my brother, brother, brother, brother
-You can count on me, sing it
-Case, Tyrese and G, you are my brother, brother, brother
-
-
-R.L oh my brother
-All across the world, my brothers yeah
-I love you
-
-
 

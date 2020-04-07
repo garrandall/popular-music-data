@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: california-sun-the-rivieras
-lyrics_url: https://www.azlyrics.com/lyrics/gyllenetider/tylosun.html
 name: California Sun
 rankings:
 - end_date: '1964-01-31'
@@ -48,40 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
-
-Jag sticker ifrÃ¥n stan och drar vÃ¤sterut
-Vid dan Ã© kort men natten aldrig ta slut
-
-Ohohohohoh och de gÃ¥r, och jag gÃ¥r
-Och de ler, och jag ler
-Och de dansar, och jag dansar
-Och de tar, och de ger
-Flyter upp pÃ¥ land, ner i TylÃ¶Sun
-
-HÃ¤r Ã© vinden varm och vÃ¥gorna slÃ¥r
-Man ser bara flickor var man Ã¤n stÃ¥r
-
-Ohohohohoh och de gÃ¥r, och jag gÃ¥r
-Och de ler, och jag ler
-Och de dansar, och jag dansar
-Och de tar, och de ger
-Flyter upp pÃ¥ land, ner i TylÃ¶Sun
-
-Ta av din jacka och gamla jeans
-FÃ¶r vÃ¤stkustens tjejer Ã© det bÃ¤sta som finns
-
-Ohohohohoh och de gÃ¥r, och jag gÃ¥r
-Och de ler, och jag ler
-Och de dansar, och jag dansar
-Och de tar, och de ger
-Vi gÃ¥r hand i hand, ner i TylÃ¶Sun
-
-Ohohohohoh och de gÃ¥r (och de gÃ¥r), och jag gÃ¥r (och jag gÃ¥r)
-Och de ler (och de ler), och jag ler (och jag ler)
-Och de Ã¤lskar (och de Ã¤lskar), och jag Ã¤lskar (och jag Ã¤lskar)
-Och de tar (och de tar), och de ger (och de ger)
-Flyter upp pÃ¥ land, ner i TylÃ¶Sun
-Vi gÃ¥r hand i hand, ner i TylÃ¶Sun
-
-
 

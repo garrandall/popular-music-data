@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: god-is-a-woman-ariana-grande
-lyrics_url: https://www.azlyrics.com/lyrics/madilynbailey/godisawoman.html
 name: God Is A Woman
 rankings:
 - end_date: '2018-08-03'
@@ -96,72 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
 ---
-
-You, you love it how I move you
-You love it how I touch you, my one
-When all is said and done
-You'll believe god is a woman
-
-I don't wanna waste no time, yeah
-You ain't got a one-track mind, yeah
-Have it any way you like, yeah
-And I can tell that you know I know how I want it
-Ain't nobody else can relate
-Boy, I like that you ain't afraid
-Baby, lay me down and let's pray
-I'm tellin' you the way I like it, how I want it
-
-(Yeah) And I can be all the things you told me not to be
-(Yeah) When you try to come for me, I keep on flourishing
-(Yeah) And he see the universe when I'm in company
-It's all in me
-
-You, you love it how I move you
-You love it how I touch you, my one
-When all is said and done
-You'll believe god is a woman
-And I, I feel it after midnight
-A feelin' that you can't fight, my one
-It lingers when we're done
-You'll believe god is a woman
-
-I tell you all the things you should know
-So baby, take my hands, save your soul
-We can make it last, take it slow
-And I can tell that you know I know how I want it
-You're different from the rest
-And boy, if you confess, you might get blessed
-See if you deserve what comes next
-I'm tellin' you the way I like it, how I want it
-
-(Yeah) And I can be all the things you told me not to be
-(Yeah) When you try to come for me, I keep on flourishing
-(Yeah) And he see the universe when I'm in company
-It's all in me
-
-You, you love it how I move you
-You love it how I touch you, my one
-When all is said and done
-You'll believe god is a woman
-And I, I feel it after midnight
-A feelin' that you can't fight, my one
-It lingers when we're done
-You'll believe god is a woman
-
-God
-God is a woman
-You'll believe god
-God
-God is a woman
-You'll believe god
-God is a woman
-You'll believe god
-You'll believe god
-God is a woman
-You'll believe god
-You'll believe god
-It lingers when we're done
-You'll believe god is a woman
-
-
 

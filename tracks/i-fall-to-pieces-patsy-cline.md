@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-fall-to-pieces-patsy-cline
-lyrics_url: https://www.azlyrics.com/lyrics/willienelson/ifalltopieces.html
 name: I Fall To Pieces
 rankings:
 - end_date: '1961-05-28'
@@ -88,32 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
 ---
-
-I fall to pieces
-Each time I see you again
-I fall to pieces
-How can I be just your friend
-
-You want me to act
-Like we've never kissed
-You want me to forget
-Pretend we've never met
-And I try and I try
-But I haven't yet
-You walk by and I fall to pieces
-
-
-
-I fall to pieces
-Each time someone speaks your name
-I fall to pieces
-Time only acts to the play
-
-You tell me to find someone else to love
-Someone who loves me too
-The way you used to do
-But each time I go out with someone new
-You walk by and I fall to pieces
-
-
 

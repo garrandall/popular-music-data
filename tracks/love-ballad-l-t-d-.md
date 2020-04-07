@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-ballad-l-t-d-
-lyrics_url: https://www.azlyrics.com/lyrics/calexico/balladofcablehogue.html
 name: Love Ballad
 rankings:
 - end_date: '1976-10-08'
@@ -80,36 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
-
-I live out yonder where the snakes and scorpions run 
-Got myself a little goldmine to bank on 
-But one day my heart sank when I saw madame in town 
-I knew her love would be the death of mine 
-
-L'amour passait, l'amour obsolÃ¨te 
-Pourquoi perdre sa vie Ã  chercher l'or d'un coeur? 
-Je ne me noierai pas dans ce dÃ©sert mystique 
-Je ferme mes comptes et je repars 
-Love is passÃ© and love is obsolete 
-Some spend their whole lives searching for a heart of gold 
-I'm tired of treading water in this desert mystique 
-I'm cashing in my chips before I ride 
-
-Do me a favor while I'm hanging here 
-Take this gold and go and hide 
-(don't twist too hard darlin' on your hangin' rope) 
-Don't worry I'll be free in no time 
-
-She promised me she would be there when I'd return 
-She didn't say she'd have a whole army there as well 
-She whispered, "j'taime baby"; as she fired that gun at me 
-(it's getting late and I'm running out of time) 
-I should've stayed way out yonder 
-Better off with the scorpions and snakes 
-Every act which has no heart will be found out in the end 
-Guess I'm a little late this time 
-Cause her love would be the death of mine 
-Mine, all mine.
-
-
 

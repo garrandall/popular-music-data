@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: walking-the-dog-rufus-thomas
-lyrics_url: https://www.azlyrics.com/lyrics/troggs/walkingthedog.html
 name: Walking The Dog
 rankings:
 - end_date: '1963-10-11'
@@ -64,37 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
 ---
-
-My baby's back, dressed in black
-Silver buttons all down her back
-High hose, tippy toes	
-She broke the needle, now she can sew
-
-Walking the dog, just a-walking the dog, yeah
-Well, if you don't know how to do it, I'll show you how to walk the dog, come on
-
-Mary, Mary, 
-How does your garden grow?
-Pussy cat, little bells and cockle shells
-Pretty maids all in a row
-
-Walking the dog, just a-walking the dog, yeah
-Well, if you don't know how to do it, I'll show you how to walk the dog, come on
-
-Yeah, walkin', just just just a-walkin'
-Yeah, walkin', just just just a-walkin'
-Well, if you don't know how to do it, I'll show you how to walk the dog, come on
-
-Mary, Mary, 
-How does your garden grow?
-Pussy cat, little bell and cockle shells
-Pretty maids all in a row
-
-Walking the dog, just a-walking the dog, yeah
-Well, if you don't know how to do it, I'll show you how to walk the dog, come on
-
-Walking, walking, walking, ju-ju-ju-ju-just a-walking
-Well, if you don't know how to do it, I'll show you how to walk the dog
-
-
 

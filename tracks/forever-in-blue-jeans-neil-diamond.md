@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: forever-in-blue-jeans-neil-diamond
-lyrics_url: https://www.azlyrics.com/lyrics/davidhasselhoff/foreverinbluejeans.html
 name: Forever In Blue Jeans
 rankings:
 - end_date: '1979-02-02'
@@ -52,52 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
 ---
-
-Money talks
-But it don't sing and dance and it don't walk
-Long as I can have you here with me
-I'd much rather be
-Forever in blue jeans
-
-Honey's sweet
-But it ain't nothin' next to baby's treat
-And if you pardon me I'd like to say
-We'll do ok
-Forever In Blue Jeans
-
-Maybe tonight
-Maybe tonight, by the fire all alone you and I
-Nothing around but the sound of my heart and your sighs
-
-Money talks
-But it don't sing and dance and it don't walk
-Long as I can have you here with me
-I'd much rather be
-Forever in blue jeans
-
-Honey's sweet
-But it ain't nothin' next to baby's treat
-And if you pardon me I'd like to say
-We'll do ok
-Forever In Blue Jeans
-
-Maybe tonight
-Maybe tonight, you and I all alone by the fire
-Nothing around but the sound of my heart and your sighs
-
-Money talks
-But it don't sing and dance and it don't walk
-Long as I can have you here with me
-I'd much rather be
-Forever in blue jeans
-
-And if you pardon me I'd like to say
-We'll do ok
-Forever In Blue Jeans
-
-Long as I can have you here with me
-I'd much rather be
-Forever in blue jeans...
-
-
 

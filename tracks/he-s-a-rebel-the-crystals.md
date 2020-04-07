@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: he-s-a-rebel-the-crystals
-lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/hesarebel.html
 name: He's A Rebel
 rankings:
 - end_date: '1962-09-14'
@@ -80,56 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
 ---
-
-See the way he walks down the street
-Watch the way he shuffles his feet
-My, he holds his head up high
-When he goes walking by
-He's my guy
-
-When he holds my hand, I'm so proud
-'Cause he's not just one of the crowd
-Why is he always the one
-To try the things they've never done?
-Just because of that they say
-
-He's a rebel and he'll never, never be any good
-He's a rebel 'cause he never ever does what he should
-Just because he doesn't do what everybody else does
-That's no reason why I can't give him all my love
-
-He's always good to me
-Always treats me tenderly
-'Cause he's not a rebel, no, no, no
-He's not a rebel, no, no, no to me
-
-If they don't like him that way
-They won't like me, I'm sure, today
-And I'll be standin' right by his side
-When they say
-
-He's a rebel and he'll never, never be any good
-He's a rebel 'cause he never ever does what he should
-Just because he doesn't do what everybody else does
-That's no reason why we can't share a love
-
-He's always good to me
-Good to him, I try to be
-'Cause he's not a rebel, no, no, no
-He's not a rebel, no, no, no to me
-Oh, he's not a rebel, no, no, no
-
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-He's not a rebel, no, no, no
-
-
 

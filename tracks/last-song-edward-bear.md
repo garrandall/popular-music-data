@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: last-song-edward-bear
-lyrics_url: https://www.azlyrics.com/lyrics/kathleenedwards/aliciaross.html
 name: Last Song
 rankings:
 - end_date: '1972-12-22'
@@ -80,42 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
 ---
-
-I am a girl with a forgettable face
-No matter my colour, no matter my name
-At work there is a boy and he treats me well
-My old friends from high school,
-I see them around
-August is here I can't believe how fast
-Soon there will be winter and snow on the ground
-Maybe by then I could get my own place
-Closer to the city if that's ok
-
-But Mamma, can you hear me?
-As I dragged on my day's last cigarette
-He pulled me so hard off my
-Very own back door steps
-And he laid me in his garden
-All the years i've watched him tend
-And then he took me, Mamma
-So I could never tell you about it
-
-Inside of this moment there are
-Things I wish I could know
-Like my ring size, your ring size,
-And the hour I was born
-My dad's middle name, your favourite song
-Was your darkest day as dark as this one?
-
-Mamma, can you hear me?
-As I dragged on my day's last cigarette
-He pulled me so hard off my
-Very own back door steps
-And he laid me in his garden
-All the years i've watched him tend
-He took me, Mamma
-So I could never tell you about it
-Now I'm a girl who's face they'll never forget
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: king-of-wishful-thinking-go-west
-lyrics_url: https://www.azlyrics.com/lyrics/newfoundglory/thekingofwishfulthinking.html
 name: King Of Wishful Thinking
 rankings:
 - end_date: '1990-05-25'
@@ -104,55 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
 ---
-
-I don't need to fall at your feet
-Just cause you cut me to the bone
-And I won't miss the way that you kiss me
-We were never carved in stone
-
-And If I don't listen to the talk of the town
-Then maybe I can fool myself
-I'll get over you I know I will
-I'll pretend my ships not sinking
-And I'll tell myself I'm over you
-Because I am the king of wishful thinking
-Because I am the king of wishful thinking
-
-I refuse to give into my blues
-That's not how its gonna be
-And I deny the tears in my eyes
-I don't wanna let you see, no
-
-That you had made a hole in my heart
-And now I've got to fool myself
-I'll get over you I know I will
-I'll pretend my ships not sinking
-And I'll tell myself I'm over you
-
-Because I am the king of wishful thinking
-I'll get over you I know I will
-I'll pretend my ships not sinking
-And I'll tell myself I'm over you
-Because I'm the king of wishful thinking
-
-If I don't listen to the talk of the town
-Then maybe I can fool myself
-I'll get over you I know I will
-I'll pretend my ships not sinking
-And I'll tell myself I'm over you
-Because I'm the king of wishful thinking
-I am the king of wishful thinking
-I'll get over you I know I will
-You made a hole in my heart
-But I won't shed a tear for you
-I'll be the king of wishful thinking
-(I'll be the king of wishful)
-
-I'll get over you I know I will
-I'll pretend my hearts still beating
-Cause I've got no more tears for you
-I am the king of wishful thinking
-(king of wishful thinking) no
-
-
 

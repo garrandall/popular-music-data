@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sharp-dressed-man-zz-top
-lyrics_url: https://www.azlyrics.com/lyrics/mollyhatchet/sharpdressedman.html
 name: Sharp Dressed Man
 rankings:
 - end_date: '1983-07-29'
@@ -44,27 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
 ---
-
-Clean shirt, new shoes
-And I don't know where I am goin' to
-Silk suit, black tie
-I don't need a reason why
-They come runnin' just as fast as they can
-'Cause every girl crazy 'bout a sharp dressed man
-
-Gold watch, diamond ring
-I ain't missin' not a single thing
-Cufflinks, stick pin
-When I step out I'm gonna do you in
-They come runnin' just as fast as they can
-'Cause every girl crazy 'bout a sharp dressed man
-
-Top coat, top hat
-Well, I don't worry 'cause my wallet's fat
-Black shades, white gloves
-Lookin' sharp and lookin' for love
-They come runnin' just as fast as they can
-'Cause every girl crazy 'bout a sharp dressed man
-
-
 

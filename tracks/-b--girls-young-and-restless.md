@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: -b--girls-young-and-restless
-lyrics_url: https://www.azlyrics.com/lyrics/bob/intheair.html
+lyrics_url: https://genius.com/Young-and-restless-b-girls-lyrics
 name: '"B" Girls'
 rankings:
 - end_date: '1990-05-11'
@@ -68,96 +68,119 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
 ---
+Hey, Slim. Come here, check this out
+Uh-uh, wait. Let me tell you something
+If you ain't got a Bronco, a BMW, a band or big bank
+Aw, I knew it. I knew it. I KNEW IT
+Another B girl
+Yo I think it's about time
+We gonna tell Slim about ourselves
+Believe that
 
+Now let's bring up the subject
+[?] Which we brought to mind
+Let's discuss the "B" girls
+Cause they're one-of-a-kind
 
-(Woo, Yeah, All Right, All right)
+Now you can [?]
+Wherever you go
+Put 'em in your black Benz
+Or your blue Bronco
 
+Everything is chill
+With the A C pushin'
+In your automobile
+You call yourself a lady?
+"B" girl is your name
+And if you don't know what "B" means
+Let us explain
 
-I'mma make you hit the dance floor with this one
-Don't got a man but you better get one
-Girl, pick it up and make it go low
-Put it on him good, gotta make him wine fo' it
-Hands in the air if you're getting to the money
-Middle of the party and I'm bizzin' like honey
-Dude at the bar so smooth like butter
-Ass like woah, yeah, word to your mother
+"B" stands for:
+Broncos, Benz, BMW, bass, bangles and a pair of bars
+When you see us pulling up down the Ave
+You'll act like we are stars
 
+We're not tryin' to make a joke
+We're just tryin' to make it known
+That people of the world that we call "B" girls
+Like bars on a Cadillac Brougham.
 
-With a song like this, don't it make you wanna dance?
-Get out your seat and grab a hand, don't be afraid to take a chance
-When it feel like this, don't it put you in the mood?
-Right foot, left foot, just feel the groove
-Put your hands in the air, get in the mood
+Now that ain't it, and I believe
+That we had to rehearse
+Another rhyme on the line
+For the second verse:
+About a girl in the city
+Her name is Judy
+Had breasts like Dolly
+With a big old booty
 
+Well she was [?]
+And everything was in place
+She was my girl for two years
+And [?] doctor [?]
 
-In the air (move yo body, move yo body)
-In the air (move yo body, move yo body)
-In the air (move yo body)
-(Till you're grabbin' on the clouds)
-In the air
-In the air (hands up, hands up)
-In the air (hands up, hands up)
-Till you're grabbin' on the clouds
-In the air
+When I took her to [?]
+She was frontin' 'bout my Nova
+And she wanted a Benz
 
+She said "We need a Benz"
+And all of a sudden, I paused -
+Who did Judy think I was?
+Santa Claus?
+You call yourself Judy
+"B" girl is your name
+And if you don't know what "B" means
+Let us explain:
 
-Aye, cameras pop, look at who just throw the show
-Got they' hands up in the air, wave my chad 
-Rappers lookin' like my sons, got more kids than Shawty Lo
-If they want a grind game, I do more than tie the scope
-I've been smokin' so long, I bring swishas by the boat
-Your bitch choosin' so hard, eenie meenie miney moe
-Would've thought I was in court, the way she noticed me
-Money grown, guess that's why I bought the older me
-High for so long, I don't recognize the sober me
-Pourin' out weed, my definition of poetry
-No Genre the label, recognized globally, ha
-You're only poppin' if it's locally
-My hittas tussed up the night
-With the snub, in case you get it fucked up tonight
-But I can't lie, man, I love this life
-I hold my team down, but we goin' up tonight, the label
+Now I was pushin' on my rims
+With no context [?]
+It wasn't BMW
+It was BMX
+When I seen a young thing
+Comin' down the Ave
+And I knew from the moment
+She's the girl I'd have
+So I slammed on the brake
+And I asked her name
+She said, "My name is Janet
+But my friends call me Jane."
 
+I said, "Well Jane, I'm Prince
+Can we be friends?"
+She said
+"Yes, if you could change a BMX to a Benz!"
+You call yourself Jane
+"B" girl is your name
+And if you don't know what "B" means
+Let us explain:
 
+Now me and [?] was at the beach
+With a couple of friends --
+I parked my Nova by a Bronco
+And a baby blue Benz
+And pass [?] bottles [?]
+So I said, [?]
+Already drunk from an overdose
+Of malt liquor beer
 
+She turned around
+And had a nice figure
+She said, "Can't you see me walkin' my nigga?"
 
-In the air (put yo hands in the air)
-In the air (put yo hands in the air)
-In the air
-Till you're grabbin' on the clouds
-In the air (put yo hands in the air)
-In the air (put yo hands in the air)
-In the air
-Till you're grabbin' on the clouds
-In the air
+"Hey, so? He's a punk!"
 
+She said, "I know he's a punk though
+But you in a Nova
+And he's in a Bronco!"
 
-All the sexy ladies in the house tonight
-All try to get it right tonight
-Hands in the air all night tonight
-Damn, I'm lookin' out of sight tonight, I'm alright tonight
-By the boss with the squad, we flexin'
-Two steppin', we reppin', VIP section
-Young and restless, swag on fleek, givin' lessons
-Class in session
+She came in my face, she kept yakkety-yakkin'
+That's when I popped the trunk, I put the clip in the MAC-10
 
-And I'm the professor, so are there any questions?
-She said come and get this work, I gave her extra credit
-Only the best get accepted, therefore they extra jealous
-Used to sneak on campus, battling freshmen
-Summa cum laude, dorm room shawty
-Hit a cheerleader with a porn move shawty
-And I don't know what loser sound like
-But I know what good music sound like when it sound like this, bitch
+I'm tired of you "B" girls
+Yeah, that's your name!
 
+And if you don't know what 'B' means
+Let us explain:
 
-
-
-
-(Ok, well)
-Till you grabbin on the clouds in the air
-Well, till you grabbin' on the clouds in the air
-Y'all gon' turn the lights on and be naked
-
-
-
+Bars on a Cadillac Brougham
+Cadillac Brougham

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nothing-from-nothing-billy-preston
-lyrics_url: https://www.azlyrics.com/lyrics/brendalee/nothingfromnothing.html
 name: Nothing From Nothing
 rankings:
 - end_date: '1974-07-19'
@@ -80,47 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
 ---
-
-Nothing from nothing leaves nothing,
-Ya gotta have something
-If ya wanna be with me
-
-Nothing from nothing leaves nothing,
-And ya gotta have something
-If ya wanna be with me
-Yeah!
-
-I'm not trying to be your hero,
-Cause that's ego,
-Its too high for me
-I'm not trying to be your highness,
-Cause that's a minus
-And that's too low to see
-Whoa!
-
-Nothing from nothing leaves nothing,
-And I ain't stuffing believe you me
-Don't you remember I told you
-That I'm a soldier in the war on poverty
-Yeah!
-
-I said nothing from nothing leaves nothing
-And I want something
-If ya wanna be with me
-Let me tell ya that,
-
-Nothing from nothing leaves nothing.
-And this girls gotta have something
-If ya wanna be with me
-Yeah!
-
-Nothing from nothing leaves nothing,
-And honey I ain't stuffing believe you me
-Yeah!
-
-Nothing from nothing leaves ya nothing
-And ya gotta have something
-If ya wanna be with me.
-
-
 

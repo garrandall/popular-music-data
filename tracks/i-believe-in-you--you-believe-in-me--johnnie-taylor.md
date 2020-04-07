@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-believe-in-you--you-believe-in-me--johnnie-taylor
-lyrics_url: https://www.azlyrics.com/lyrics/paulyoung/ibelieveinyouyoubelieveinme.html
 name: I Believe In You (You Believe In Me)
 rankings:
 - end_date: '1973-06-29'
@@ -72,46 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
 ---
-
-One thing I can say about the people of the world today
-They see you with a good thing
-They want to take it away
-
-I believe in you, you believe in me too
-
-Even your best friend will come around 
-Making sly remarks
-Trying to put you down
-
-I believe in you, you believe in me too
-
-People talking, trying to pull us apart
-Sticking pins and needles in both of our hearts
-I love you no matter
-Don't care about the stormy weather
-
-I believe in you, you believe in me too
-
-I heard your mother say
-Loving me didn't make no sense
-But when she put me down
-You stood up in my defense
-
-I believe in you, you believe in me too
-
-We had our hard times
-And almost didn't make it
-We always worked it
-Never tried to fake it
-
-That's why I believe in you, you believe in me too
-
-When I look around and I see other people in so much trouble
-All of them comes down truth trust
-Cause what we gotta do
-Gotta believe in each other baby...
-
-I believe in you, you believe in me too...
-
-
 

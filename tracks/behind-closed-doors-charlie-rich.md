@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: behind-closed-doors-charlie-rich
-lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/behindcloseddoors.html
 name: Behind Closed Doors
 rankings:
 - end_date: '1973-05-04'
@@ -84,37 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
-
-My baby makes me proud
-Lord don't she make me proud
-She never makes a scene 
-By hangin' all over me in a crowd.
-
-'Cause people like to talk
-Lord don't they love to talk
-But when they turn out the lights
-I know she'll be leavin' with me.
-
-'Cause when we get behind closed doors
-And she lets her hair hang down 
-And she makes me glad that I'm a man
-Oh, no one knows what goes on behind closed doors.
-
-My baby makes me smile
-Lord, don't she make me smile
-She's never far away
-Or too tired to say I want you.
-
-She's always a lady 
-Just like a lady should be
-But when they turn out the lights
-She's still a baby to me.
-
-'Cause when we get behind closed doors
-And she lets her hair hang down 
-And she makes me glad that I'm a man
-Oh, no one knows what goes on behind closed doors
-Behind closed doors...
-
-
 

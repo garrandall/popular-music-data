@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: three-times-a-lady-commodores
-lyrics_url: https://www.azlyrics.com/lyrics/a1/threetimesalady.html
 name: Three Times A Lady
 rankings:
 - end_date: '1978-06-23'
@@ -88,25 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
-
-Thanks for the times that you've given me
-The memories are all in my mind.
-And now that we've come to the end of our rainbow
-There's something I must say out loud
-
-Your once, twice, three times a lady
-And I love you...
-Yes your once, twice, three times a lady
-And I love you... I love you...
-
-When we are together the moments I cherish
-With every beat of my heart
-To touch you, to hold you
-To feel you, to need you
-There's nothing to keep us apart
-
-Your once, twice, three times a lady
-And I love you... I love you
-
-
 

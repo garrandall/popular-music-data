@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dance-with-my-father-luther-vandross
-lyrics_url: https://www.azlyrics.com/lyrics/joemcelderry/dancewithmyfather.html
 name: Dance With My Father
 rankings:
 - end_date: '2003-07-04'
@@ -88,50 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-08'
 ---
-
-Back when I was a child
-Before life removed all the innocence
-My father would lift me high
-And dance with my mother and me and then
-
-Spin me around till I fell asleep
-Then up the stairs he would carry me
-And I knew for sure
-I was loved
-
-If I could get another chance
-Another walk, another dance with him
-Iâd play a song that would never, ever end
-How Iâd love, love, love to dance with my father again
-
-Ooh, ooh
-
-When I and my mother would disagree
-To get my way I would run from her to him
-Heâd make me laugh just to comfort me, yeah, yeah
-Then finally make me do just what my mama said
-
-Later that night when I was asleep
-He left a dollar under my sheet
-Never dreamed that he
-Would be gone from me
-
-If I could steal one final glance
-One final step, one final dance with him
-Iâd play a song that would never, ever end
-âCause Iâd love, love, love to dance with my father again
-
-Sometimes Iâd listen outside her door
-And Iâd hear her, mama cryinâ for him
-I pray for her even more than me
-I pray for her even more than me
-
-I know Iâm prayinâ for much too much
-But could You send back the only man she loved
-I know You donât do it usually
-But Lord, sheâs dyinâ to dance with my father again
-Every night I fall asleep
-And this is all I ever dream
-
-
 

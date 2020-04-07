@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: drift-away-dobie-gray
-lyrics_url: https://www.azlyrics.com/lyrics/smokie/driftaway.html
 name: Drift Away
 rankings:
 - end_date: '1973-03-02'
@@ -92,52 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
 ---
-
-Day after day I'm more confused
-Yet I look for the light through the pouring rain
-You know that's a game that I hate to lose
-And I'm feelin' the strain
-Ain't it a shame
-
-Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-
-Beginning to think that I'm wastin' time
-I don't understand the things I do
-The world outside looks so unkind
-And I'm countin' on you
-To carry me through
-
-Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-Yeah, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-
-And when my mind is free
-You know a melody can move me
-And when I'm feelin' blue
-The guitar's comin' through to soothe me
-
-Thanks for the joy that you've given me
-I want you to know I believe in your song
-And rhythm and rhyme and harmony
-You've helped me along
-Makin' me strong
-
-Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-Give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-
-Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-Hey, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away
-
-Na na na, won't you, won't you take me
-Oh, take me
-
-
 

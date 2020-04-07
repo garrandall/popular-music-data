@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: finally-cece-peniston
-lyrics_url: https://www.azlyrics.com/lyrics/nerinapallot/finally.html
 name: Finally
 rankings:
 - end_date: '1991-10-04'
@@ -140,60 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
 ---
-
-Meeting Mr. Right
-The man of my dreams
-The one who shows me true love
-Or at least it seems
-
-With brown cocoa skin
-And curly black hair
-It's just the way he looks at me
-That gentle loving stare
-
-Finally you've come along
-The way I feel about you
-It just can't be wrong
-If you only knew
-The way I feel about you
-I just can't describe it
-
-Finally it's happened to me
-Right in front of my face
-My feelings can't describe it
-Finally it has happened to me
-Right in front of my face
-And I just cannot hide it, no
-Can't hide it
-
-It seems so many times
-You seemed to be the one
-But all you ever wanted
-Was to have a little fun
-But now you've come along
-And brightened up my world
-It's the way I feel it
-I'm that special kind of girl
-
-Finally you've come along
-The way I feel about you
-Just can't be wrong
-If you only knew
-The way I feel about you
-I just can't describe it, no no
-
-Finally it has happened to me
-Right in front of my face
-My feelings can't describe it
-Finally it has happened to me
-Right in front of my face
-And I just cannot hide it
-Finally it has happened to me
-Right in front of my face
-My feelings can't describe it
-Finally it has happened to me
-Right in front of my face
-And I just cannot hide it
-
-
 

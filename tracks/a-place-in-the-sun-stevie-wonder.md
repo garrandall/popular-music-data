@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: a-place-in-the-sun-stevie-wonder
-lyrics_url: https://www.azlyrics.com/lyrics/fourtops/aplaceinthesun.html
 name: A Place In The Sun
 rankings:
 - end_date: '1966-11-18'
@@ -52,47 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
-
-Like a long lonely stream
-I keep runnin' towards a dream
-Movin' on, movin' on
-Like a branch on a tree
-I keep reachin' to be free
-Movin' on, movin' on
-
-'Cause there's a place in the sun
-Where there's hope for ev'ryone
-Where my poor restless heart's gotta run
-There's a place in the sun
-And before my life is done
-Gotta find me a place in the sun
-
-Like an old dusty road
-I get weary from the load
-Movin' on, movin' on
-Like this tired troubled earth
-I've been rollin' since my birth
-Movin' on, movin' on
-
-There's a place in the sun
-Where there's hope for ev'ryone
-Where my poor restless heart's gotta run
-There's a place in the sun
-And before my life is done
-Gotta find me a place in the sun
-
-You know when times are bad
-And you're feeling sad
-I want you to always remember
-
-Yes, there's a place in the sun
-(Place in the sun, place in the sun)
-Where there's hope for ev'ryone
-(Hope for ev'ryone, hope for ev'ryone)
-Where my poor restless heart's gotta run
-(Poor restless heart, poor restless heart, run)
-I know, there's a place in the sun
-(Place in the sun, place in the sun)
-
-
 

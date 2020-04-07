@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nite-and-day-al-b--sure-
-lyrics_url: https://www.azlyrics.com/lyrics/jadakiss/howifeel.html
 name: Nite And Day
 rankings:
 - end_date: '1988-04-15'
@@ -92,75 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
-
-
-
-
-Uh, ayyyy!
-Duane DaRock good lookin out baby
-Ayyy, feel so beautiful
-This is the appreciation - I love you
-AH HAHH!
-{"I'm gonna tell how I feel about, you"} uh-huh
-{"How I feel about you!"} Yeah
-{"How I feel about you!"} Uhh, yeah
-
-
-You had a dream that the feds got him
-Woke up went and bought every pair of the red bottoms
-Yup! Your new beamer is black
-You ain't on Madison, you at Neiman's and Saks
-At the gym or the salon, food shoppin wit'cha mom
-Over one of your girlfriend's house, sippin wine
-Why risk it, when you could come home to a Don?
-Leave Potsie alone and come home to the Fonz
-Gold medal feel so much better than a bronze
-You don't have to say nothin, I feel your response
-You can get the ring and the house too
-Cause that's how I feel about you - hey!
-
-
-{"I'm gonna tell how I feel about, you"}
-{"How I feel about you! How I feel about you! Yeahhh"}
-{"I'm gonna tell how I feel about, you"} uh-huh
-{"How I feel about you!"} Yeah
-{"How I feel about you!"} HA HAH! Uhh, yo
-
-
-Slacks with the heels (mm)
-Air Max, nice pair of sweats and a ponytail just give me the chills
-Yeah - we got our own special handshake
-Muah! And she know how I like my pancakes
-Off white, three piece with the tan snakes
-80 large make her ring finger stand straight (ha ha)
-Now I can have a good time with her (yeah)
-Chill with me in the spot I used to grind with her
-Uhh, that's on everything I kill for her
-Say what'chu want, that's just how I feel for her - hey!
-
-
-{"I'm gonna tell how I feel about, you"}
-{"How I feel about you! How I feel about you! Yeahhh"}
-{"I'm gonna tell how I feel about, you"} uh-huh
-{"How I feel about you!"} Yeah
-{"How I feel about you!"} Uhh, yeah, yo
-
-
-I gotta play it cool (cool)
-Mosaic tiles at the bottom of the pool (mm)
-I got 'em cause of you
-Washing set, you up under the dryer
-Winter time cuddled up under the fire (woo!)
-Still there after all that I put her through (yeah)
-Don't smoke but sometimes she take a pull or two
-Heh, I don't know how I would feel without her
-Nah, I just know how I feel about her - hey!
-
-
-{"I'm gonna tell how I feel about, you"}
-{"How I feel about you! How I feel about you! Yeahhh"}
-{"I'm gonna tell how I feel about, you"}
-{"How I feel about you! How I feel about you!"}
-
-
 

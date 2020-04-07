@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: blue-moon-the-marcels
-lyrics_url: https://www.azlyrics.com/lyrics/marcell/bluemoon.html
 name: Blue Moon
 rankings:
 - end_date: '1961-03-12'
@@ -64,48 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
 ---
-
-Blue moon
-You saw me standing alone
-Without a dream in my heart
-Without a love of my own
-
-Oh, blue moon
-You knew just why I were there for
-You heard me saying a prayer for
-Someone I really could care for
-
-And then there suddenly appeared before me
-The only one my arms will hold
-I heard somebody whisper, "please adore me"
-And when I looked to the moon, it turned to gold
-
-Blue moon
-Now I'm no longer alone
-Without a dream in my heart
-Without a love of my own
-
-Blue moon
-You saw me standing alone
-Without a dream in my heart
-Without a love of my own
-
-Oh-oh, blue moon
-You knew just why I were there for
-You heard me saying a prayer for
-Someone I really could care for
-
-And then there suddenly appeared before me
-The only one my arms will hold
-I heard somebody whisper, "please adore me"
-And when I looked to the moon, it turned to gold
-
-Blue moon
-Now I'm no longer alone
-Without a dream in my heart
-Without a love of my own
-Without a dream in my heart
-Without a love of my own
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: let-it-ride-bachman-turner-overdrive
-lyrics_url: https://www.azlyrics.com/lyrics/kobraandthelotus/letitride.html
 name: Let It Ride
 rankings:
 - end_date: '1974-03-01'
@@ -68,59 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
 ---
-
-Goodbye, I lied
-Don't cry, would you let it ride
-Goodbye, I lied
-Don't cry, would you let it ride
-
-You can't see the mornin', but I can see the light
-(Try, try, try to let it ride)
-While you've been out runnin', I've been waitin' half the night
-(Try, try, try to let it ride)
-
-And would you cry if I told you that I lied
-And would you say goodbye or would you let it ride
-And would you cry if I told you that I lied
-And would you say goodbye or would you let it ride
-
-Seems my life is not complete, I've never see you smile
-(Try, try, try to let it ride)
-Baby, you want the forgivin' kind and that's just not my style
-(Try, try, try to let it ride)
-
-And would you cry if I told you that I lied
-And would you say goodbye or would you let it ride
-And would you cry if I told you that I lied
-And would you say goodbye or would you let it ride
-
-I've been doin' things worthwhile, you've been bookin' time
-(Try, try, try to let it ride)
-
-And would you cry if I told you that I lied
-And would you say goodbye, would you let it ride
-And would you cry if I told you that I lied
-And would you say goodbye, would you let it ride
-
-Would you let it ride
-Would you let it ride
-Would you let it ride (yeah, yeah)
-Would you let it ride
-
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-Try, try, try to let it ride
-
-Would you let it ride
-Would you let it ride
-Would you let it ride
-Would you let it ride
-
-
 

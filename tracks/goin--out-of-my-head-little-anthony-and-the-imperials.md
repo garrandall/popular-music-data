@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: goin--out-of-my-head-little-anthony-and-the-imperials
-lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/goingoutofmyhead.html
 name: Goin' Out Of My Head
 rankings:
 - end_date: '1964-11-13'
@@ -64,74 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
-
-Over you, over you
-I want you to want me
-I need you so badly
-I can't think of anything but you
-
-And I think I'm goin' out of my head
-'Cause I can't explain the tears that I shed
-Over you, over you
-I see you each morning
-But you just walk past me
-You don't even know that I exist
-
-Goin' out of my head over you
-Out of my head over you
-Out of my head, day and night
-Night and day and night, wrong or right
-
-I must think of a way into your heart
-There's no reason why my being shy should keep us apart
-And I think I'm goin' out of my head
-Yes, I think I'm goin' out of my head
-
-Goin' out of my head over you
-Out of my head over you
-Out of my head, day and night
-Night and day and night
-Wrong or right
-Night and day and oh
-
-Out of my head over you
-Night and day and night
-Wrong or right
-Goin' out of my head, hey baby
-Out of my head, goin' out of my head
-Yeah yeah yeah, ooh ooh, baby
-Over you, out of my head
-
-Well, I, I think, I think, I think
-I'm goin' out of my head
-Well, I, I think, I think, I think
-I'm goin' out of my head
-Well, I, I think, I think, I think
-I'm goin' out of my head
-Well, I, I think, I think, I think
-I'm goin' out of my head
-Well, I, I think, I think, I think
-I'm goin' out of my head
-Well, I, I think, I think, I think
-I'm goin' out of my head
-
-Out of my head
-Out of my head
-
-I see you each morning
-You just walk past me
-You don't even know that I exist
-
-Goin' out of my head over you
-Out of my head over you
-Out of my head
-Day and night
-Night and day and night
-Wrong or right
-Goin' out of my head
-Goin' out of my head
-Day and night
-Goin' out of my head, ooh baby
-
-
 

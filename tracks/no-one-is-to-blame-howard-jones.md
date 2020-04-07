@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: no-one-is-to-blame-howard-jones
-lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/nooneistoblame.html
 name: No One Is To Blame
 rankings:
 - end_date: '1986-04-18'
@@ -100,34 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
-
-You can look at the menu but you just can't eat
-You can feel the cushions but you can't have a seat
-You can dip your foot in the pool but you can't have a swim
-You can feel the punishment but you can't commit the sin
-And you want her and she wants you
-We want everyone
-And you want her and she wants you
-No one, no one, no one ever is to blame
-You can build a mansion but you just can't live in it
-You're the fastest runner but you're not allowed to win
-Some break the rules
-And live to count the cost
-The insecurity is the thing that won't get lost
-And you want her and she wants you
-We want everyone
-And you want her and she wants you
-No one, no one, no one ever is to blame
-You can see the summit but you can't reach it
-It's the last piece of the puzzle but you just can't make it fit
-Doctor says you're cured but you still feel the pain
-Aspirations in the clouds but your hopes go down the drain
-And you want her and she wants you
-We want everyone
-And you want her and she wants you
-No one, no one, no one ever is to blame
-No one ever is to blame
-No one ever is to blame
-
-
 

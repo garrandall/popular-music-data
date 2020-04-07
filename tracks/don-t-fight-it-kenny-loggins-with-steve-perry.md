@@ -1,9 +1,10 @@
 ---
 artists:
-- Kenny Loggins with Steve Perry
+- Kenny Loggins
+- Steve Perry
 features: []
 genres: []
-key: don-t-fight-it-kenny-loggins-with-steve-perry
+key: don-t-fight-it-kenny-loggins-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/dontfightit.html
 name: Don't Fight It
 rankings:

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-k-w-s-
-lyrics_url: https://www.azlyrics.com/lyrics/rl/know.html
 name: Please Don't Go
 rankings:
 - end_date: '1992-06-26'
@@ -112,59 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
 ---
-
-
-Hey, I know we havent spoken much I just um, wanted to tell you that I wanted to see you and Im sorry that it didnt work out things just aint the same you know, well, let me explain
-
-
-We used to talk alot
-Now we hadley even speak
-Harldey even kiss
-Havent made love in weeks
-My heart is getting weak
-Girl it hurts me deep
-Im thinkin should I stay
-Or maybe should I leave
-
-
-Youve been wondering how I feel
-You dont know
-Been wondering why im here
-I dont know
-Is this what we both feared
-We dont know
-Is the end to this near?
-Our hearts say no
-
-
-It used to be so right
-We used to be a team
-Talk long everynight
-We used to share our dreams
-I miss those little things
-Its been so long it seems
-But I know I shouldnt leave
-Cause only you got what I need
-
-
-
-
-
-I've packed up all my things girl and I really need to go now
-
-Baby no I'll go crazy
-
-I love you but I can't live like this can't take it no more now
-
-Please listen to me
-
-You've been actin' different always trippen it's out of control now
-
-We're havin' a baby
-
-Oh my god I'm sorry girl come and take my hand now I understand
-
-
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: put-your-head-on-my-shoulder-paul-anka
-lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/putyourheadonmyshoulder.html
 name: Put Your Head On My Shoulder
 rankings:
 - end_date: '1959-09-06'
@@ -80,41 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
 ---
-
-Put your head on my shoulder
-Hold me in your arms, baby
-Squeeze me, oh, so tight
-Show me that you love me too
-
-Put your lips close to mine, dear
-Won't you kiss me once, baby?
-Just a kiss good night, maybe
-You and I will fall in love
-
-People say that love's a game
-A game you just can't win
-If there's a way
-I'll find it someday
-And then, this fool will rush in
-
-Put your head on my shoulder
-Whisper in my ear, baby
-Words I wanna hear
-Tell me, tell me that you love me too
-
-People say that love's a game
-A game you just can't win
-If there's a way
-I'll find it someday
-And then, this fool will rush in
-
-Put your head on my shoulder
-Whisper in my ear, baby
-Words I wanna hear
-Oh, tell me, tell me that you love me too
-
-Put your head on my shoulder
-Tell me that you love me too
-
-
 

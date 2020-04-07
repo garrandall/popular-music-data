@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: how-to-save-a-life-the-fray
-lyrics_url: https://www.azlyrics.com/lyrics/nilu/howtosavealife.html
 name: How To Save A Life
 rankings:
 - end_date: '2006-04-21'
@@ -240,67 +239,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
 ---
-
-Step one, you say, "We need to talk"
-He walks, you say, "Sit down. It's just a talk"
-He smiles politely back at you
-You stare politely right on through
-
-Some sort of window to your right
-As he goes left and you stay right
-Between the lines of fear and blame
-You begin to wonder why you came
-
-Where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-
-Let him know that you know best
-'Cause after all you do know best
-Try to slip past his defense
-Without granting innocence
-Lay down a list of what is wrong
-The things you've told him all along
-Pray to God, he hears you
-And I pray to God, he hears you
-
-And where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-
-As he begins to raise his voice
-You lower yours and grant him one last choice
-Drive until you lose the road
-Or break with the ones you've followed
-He will do one of two things
-He will admit to everything
-Or he'll say he's just not the same
-And you'll begin to wonder why you came
-
-Where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-
-Where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-How to save a life
-How to save a life
-
-Where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-Where did I go wrong? I lost a friend
-Somewhere along in the bitterness
-And I would have stayed up with you all night
-Had I known how to save a life
-How to save a life
-How to save a life
-
-
 

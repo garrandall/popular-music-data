@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dreamer-livin--joy
-lyrics_url: https://www.azlyrics.com/lyrics/restlessheart/tililovedyou.html
 name: Dreamer
 rankings:
 - end_date: '1995-02-03'
@@ -84,34 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
 ---
-
-Til I loved you
-I didn't know the meaning of the word.
-I was only takin'
-Giving nothing in return
-My life was an empty page
-Less than an even trade
-
-Til I loved you
-My heart was an island unto itself
-I thought I needed no one
-Til I looked into your eyes
-I knew it all right then
-I saw what a fool I'd been
-
-Til I loved you (til I loved you)
-I didn't know what I was missin'
-Til I loved you
-Taught me that dreamers don't need wings to fly
-
-Til I loved you
-I had never tasted tears of joy
-When I take you in my arms
-There's no doubt in my mind
-This is where I belong
-The loneliness is gone
-I was livin' my life all wrong
-Til I loved you
-
-
 

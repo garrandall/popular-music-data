@@ -6,7 +6,6 @@ features:
 - Mary Lambert
 genres: []
 key: same-love-macklemore-ryan-lewis-mary-lambert
-lyrics_url: https://www.azlyrics.com/lyrics/gleecast/samelove.html
 name: Same Love
 rankings:
 - end_date: '2013-02-22'
@@ -130,75 +129,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
 ---
-
-
-When I was in the third grade I thought that I was gay
-Cause I could draw, my uncle was, and I kept my room straight
-I told my mom, tears rushing down my face
-She's like "Will you've loved girls since before pre-k, trippin'"
-Yeah, I guess she had a point, didn't she?
-Bunch of stereotypes all in my head
-I remember doing the math like "Yeah, I'm good at little league"
-A preconceived idea of what it all meant
-For those that liked the same sex (Ooh)
-Had the characteristics
-The right wing conservatives think it's a decision
-And you can be cured with some treatment and religion
-Man-made rewiring of a predisposition
-Playing God, (Yeah yeah) aw nah here we go
-America the brave still fears what we don't know (Ooh)
-And "God loves all his children" is somehow forgotten
-But we paraphrase a book written (Ooh) thirty-five-hundred years ago
-I don't know
-
-
-And I can't change
-Even if I tried
-Even if I wanted to
-
-And I can't change
-Even if I tried
-Even if I wanted to
-
-My love, my love, my love
-She keeps me warm
-She keeps me warm
-She keeps me warm
-She keeps me warm
-
-
-If I was gay, I would think hip-hop hates me (Hoo)
-Have you read the YouTube comments lately? (Hoo)
-"Man, that's gay" gets dropped on the daily
-We become so numb to what we're saying (Oh oh)
-A culture founded from oppression
-Yet we don't have acceptance for 'em
-Call each other faggots behind the keys of a message board (Hoo)
-A word rooted in hate, yet our genre still ignores it
-Gay is synonymous with the lesser (Ooh)
-It's the same hate that's caused wars from religion
-Gender to skin color, the complexion of your pigment (Yeah)
-The same fight that led people to walk outs and sit ins
-It's human rights for everybody, there is no difference!
-
-
-And I can't change
-Even if I tried
-Even if I wanted to
-Hey
-My love, my love, my love
-
-She keeps me warm (Love is patient)
-She keeps me warm (Love is kind)
-She keeps me warm (Love is patient)
-She keeps me warm (Love is kind)
-She keeps me warm (Love is patient)
-Not crying on Sundays (Love is kind)
-Love is patient (Love is patient)
-Oh (Love is patient)
-
-
-Love is kind
-
-
 

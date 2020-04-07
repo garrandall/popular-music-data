@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-are-the-sunshine-of-my-life-stevie-wonder
-lyrics_url: https://www.azlyrics.com/lyrics/jackwhite/youarethesunshineofmylife.html
 name: You Are The Sunshine Of My Life
 rankings:
 - end_date: '1973-03-23'
@@ -76,31 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
 ---
-
-You are the sunshine of my life
-That's why I'll always be around
-You are the apple of my eye
-Forever you'll stay in my heart
-
-I feel like this is the beginning
-Though I've loved you for a million years
-And if I thought our love was ending
-I'd find myself drowning in my own tears
-
-You are the sunshine of my life
-That's why I'll always be around
-You are the apple of my eye
-Forever you'll stay in my heart
-
-You must have known that I was lonely
-Because you came to my rescue
-And I know that this must be heaven
-How could so much love be inside of you?
-
-You are the sunshine of my life
-That's why I'll always be around
-You are the apple of my eye
-Forever you'll stay in my heart
-
-
 

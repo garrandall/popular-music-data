@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: forever-the-little-dippers
-lyrics_url: https://www.azlyrics.com/lyrics/hum/littledipper.html
 name: Forever
 rankings:
 - end_date: '1960-01-31'
@@ -64,26 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
-
-If we both stand with absent eyes
-and think about the oceans, watch 'em dry
-We can see far to the other side
-It's you and I forever, we don't have to hide
-
-If we ignore the signals that Mission Control will send
-It's one big ship ride anyway, this hell will never end
-And gaze out on what they left of the stars
-All we see now we can take as ours
-
-You've two have got just moments left to give
-Come back now and we will let you live
-Stay inside our blue protective eye
-We won't let them take you, we won't let you die
-
-My baby spins propellants, the system's set to blow
-She's at the Milky Way now, exploding into sound
-And she's constructed flashpoints to cover up the sun
-While I sleep under glass I know that she will wake me when she's done
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: handle-with-care-traveling-wilburys
-lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/handlewithcare.html
 name: Handle With Care
 rankings:
 - end_date: '1988-11-04'
@@ -64,50 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
 ---
-
-I've been beat up and I've been battered 'round
-I've been sent up and I've been shot down
-You're the best thing I've ever found
-Handle me with care
-
-Reputations changeable
-Situations tolerable
-Baby, you're adorable
-Handle me with care
-
-I'm so tired of being lonely
-I still have some love to give
-Won't you show me that you really care?
-
-Everybody got somebody to lean on
-Put your body next to mine and dream on
-
-I've been fobbed off and I've been fooled
-And I've been robbed and ridiculed
-In daycare centers and in night schools
-Handle me with care
-
-I've been stuck in airports and terrorized
-Sent to meetings and hypnotized
-Overexposed, commercialized
-Handle me with care
-
-I'm so tired of being lonely
-I still have some love to give
-Won't you show me that you really care?
-
-Everybody got somebody to lean on
-Put your body next to mine and dream on
-
-I've been uptight and I made a mess
-But I'll clean it up myself, I guess
-Oh, the sweet smell of success
-Handle me with care
-
-I've been beat up and I've been battered 'round
-I've been sent up and I've been shot down
-But you're the best thing I've ever found
-Handle me with care
-
-
 

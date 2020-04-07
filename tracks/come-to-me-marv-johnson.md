@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: come-to-me-marv-johnson
-lyrics_url: https://www.azlyrics.com/lyrics/marywells/cometome.html
 name: Come To Me
 rankings:
 - end_date: '1959-03-22'
@@ -68,35 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
-
-Come on now, come-a come-a come-a
-Come on now, come-a come-a come-a
-
-Come to me, I love you only
-Come to me, I'm so lonely
-Come to me, I love you only, baby
-Well, you said you'll be comin' whenever I need you
-And you can bet I'm gonna please you
-So come runnin', 'cause now I need you baby
-Hey hey, you know I miss you baby
-
-Well, come when the lights are burnin' low
-I wanna hear you knock on my door
-Tell me baby that you love me so
-Love me, love me, love me 'til you care no more
-Come to me, oh I miss you
-Come to me, I wanna kiss you
-Come to me, oh I miss you baby
-Hey hey, you know I miss you baby
-
-Oh, come when the lights are burnin' low
-I wanna hear you knock on my door
-Tell me baby that you love me so
-Love me, love me, love me 'til you care no more
-Come to me, oh I miss you
-Come to me, I wanna kiss you
-Come to me, oh I miss you baby
-Hey hey, you know I miss you baby
-
-
 

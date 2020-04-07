@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: early-morning-rain-peter-paul-mary
+key: early-morning-rain-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/earlyinthemorning.html
 name: Early Morning Rain
 rankings:

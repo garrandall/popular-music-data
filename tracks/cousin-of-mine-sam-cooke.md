@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: cousin-of-mine-sam-cooke
-lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/goodbyunclebuzz.html
 name: Cousin Of Mine
 rankings:
 - end_date: '1964-10-02'
@@ -56,48 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
-
-I was just fifteen, at my cousins - we were playing
-When we found Uncle Buzz dead in the basement
-Dad shut the door and no one said that word - that word
-We found a note that he wrote on the mantle
-And I felt like shit 'cause I wanted his piano
-But I got his records and his arch-top Kay guitar
-
-Goodbye Uncle Buzz I know I should've cried
-But I couldn't just because
-Goodbye Uncle Buzz everything's covered
-But nothing's what is was
-Nothing's what it was - nothing's what it was
-
-The paper said he died from hypertension
-And the word, 'suicide' - was never mentioned
-Mom said it was his heart
-I guess it was in a way - in a way
-I played his records on our Sears turntable
-Heard Billie Holiday, Sam Cooke, and Mavis Staples
-And I tried his old guitar
-But it wasn't what the Beatles played anyway
-
-Goodbye Uncle Buzz I know I should've cried
-But I couldn't just because
-Goodbye Uncle Buzz everything's covered
-But nothing's what is was
-Nothing's what it was - nothing's what it was
-
-It was ten years later met my cousins at the station
-But nobody said a word about the basement
-Though everybody there had a drop of Uncle Buzz in our blood
-And now and then I find I think about my uncle
-And our mothers and our fathers and our secrets in the basement
-And the children in the dark, the children in the dark
-The children in the dark, the children in the dark
-
-Goodbye Uncle Buzz I know I should've cried
-But I couldn't just because
-Goodbye Uncle Buzz everything's covered
-But nothing's what is was
-Nothing's what it was - nothing's what it was
-
-
 

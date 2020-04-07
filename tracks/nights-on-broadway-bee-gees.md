@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nights-on-broadway-bee-gees
-lyrics_url: https://www.azlyrics.com/lyrics/ninjasexparty/nightsonbroadway.html
 name: Nights On Broadway
 rankings:
 - end_date: '1975-10-10'
@@ -72,69 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
 ---
-
-Here we are
-In a room full of strangers
-Standing in the dark
-Where your eyes couldn't see me
-
-Well, I had to follow you
-Though you did not want me to
-But that won't stop my loving you
-I can't stay away
-
-Blamin' it all on the nights on Broadway
-Singin' them love songs
-Singin' them "straight to the heart" songs
-Blamin' it all on the nights on Broadway
-Singin' them sweet sounds
-To that crazy, crazy town
-
-Now in my place
-There are so many others
-Standin' in the line
-How long will they stand between us
-
-Well, I had to follow you
-Though you did not want me to
-But that won't stop my loving you
-I can't stay away
-
-Blamin' it all (blamin' it all)
-On the nights on Broadway (blame it on the nights on Broadway)
-Singin' them love songs
-Singin' them "straight to the heart" songs
-Blamin' it all (I'm blamin' it all)
-On the nights on Broadway (blame it on the nights on Broadway)
-Singin' them sweet sounds
-To that crazy, crazy town (oh those nights)
-
-I will wait
-Even if it takes forever
-I will wait
-Even if it takes a lifetime
-Somehow I feel inside
-You never-ever left my side
-Make it like it was before
-Even if it takes a lifetime, takes a lifetime, ooh
-
-Blamin' it all (I'm blamin' it all)
-On the nights on Broadway (blame it on the nights on Broadway)
-Singin' them love songs (yeah, yeah)
-Singin' them "straight to the heart" songs
-Blamin' it all (I'm blamin' it all)
-On the nights on Broadway (blame it on the nights on Broadway)
-Singin' them sweet sounds (oh yeah yeah)
-To that crazy, crazy town (yeah)
-
-Blamin' it all (I'm blamin' it all)
-On the nights on Broadway (blame it on the nights on Broadway)
-Singin' them love songs (yeah, yeah)
-Singin' them "straight to the heart" songs
-Blamin' it all (I'm blamin' it all)
-On the nights on Broadway
-Singin' them sweet sounds
-To that crazy, crazy town
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: clean-up-woman-betty-wright
-lyrics_url: https://www.azlyrics.com/lyrics/leelajames/cleanupwoman.html
 name: Clean Up Woman
 rankings:
 - end_date: '1971-12-03'
@@ -64,72 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
 ---
-
-Yeah, well alright
-Oh, oh, oh yeah
-Sisters better you'll sing your best
-And we goin' take it back a little bit
-
-The clean up woman is a woman who
-Gets all the love we girls leave behind
-The reason I know so much about her
-Is because she picked up a man of mine
-
-Chumpin' Slick was my ruin, I found out all I was doin'
-Was makin' it easy, girl, for the clean up woman
-To get my man's love, oh, yeah
-Yeah, I made it easy for the clean up woman
-To get my baby's love, uh huh
-
-I took this man and I put him on the shelf
-And like a fool I thought I had him all to myself
-When he needed love, I was out havin' fun
-And you know what he did?
-He was not the guy, he was somebody else
-
-Chumpin' Slick was my ruin, I found out all I was doin'
-Was makin' it easy, yeah, for the clean up woman
-To get my man's love, oh yeah
-Yeah, I made it easy for the clean up woman
-To get my baby's love, oh yeah
-
-The clean up woman will wipe his blues away
-(Wipe his blues away)
-She'll give him plenty lovin' 24 hours a day
-The clean up woman will sweep him off his feet
-(Sweep him off his feet)
-And she's the one that'll take him in when you dump him on the street
-
-So take a tip, you better get hip
-To the clean up woman 'cause she's tough
-You know you better clean up
-
-Oh, clean up, yeah, just clean it up
-Yeah, I just clean it up, I just clean it up
-Talk about clean it up
-Oh, I'll talk it sweet with my broom
-I found out, oh, 
-
-Makin' it easy, yeah, for the clean up woman
-To get my man's love, oh yeah
-Yeah, I made it easy for the clean up woman
-To get my baby's love, oh yeah
-Yeah, I made it easy for the clean up woman
-To get my man's love, oh
-Yeah, I made it easy for the clean up woman
-
-Just clean it up, just clean it up
-Talk about clean it up, yeah
-Clean it up, talk about
-I'm not talkin' about clean it up
-I'm just talkin' about clean it up
-I'm not talkin' about clean it up
-Not talkin' about clean it up
-
-I'm not talkin' about clean it up
-Not talkin' about clean it up
-I'm not talkin' about clean it up
-I'm not talkin' about clean it up
-
-
 

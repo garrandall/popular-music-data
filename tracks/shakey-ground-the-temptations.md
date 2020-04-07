@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: shakey-ground-the-temptations
-lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/shakeyground.html
 name: Shakey Ground
 rankings:
 - end_date: '1975-03-28'
@@ -64,63 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
-
-Uuummmm.... uummm...
-
-Lady luck and a four leaf clover
-Won't ease this hurt I feel all over
-My life was one special occasion
-'Til you leave in depth the situation
-
-Yeah...
-Standing on shakey ground
-Ever since you put me down
-Standing on shakey ground
-Ever since you put me down
-
-My car got repossessed this morning
-Harder times I haven't seen in years
-Lord better throw me a life preserver
-'Cause I'm about to drown in my own tears
-
-Ooohh...
-Standing on shakey ground
-Yeah... ever since you put me down
-And I'm standing on shakey ground
-Ever since you put me down
-
-Standing on shakey ground
-Huh... ever since you put me down
-I'm standing on shakey ground... yeah
-Ever since you put me down
-Standing on shakey ground
-Ever since you put me down
-
-Yeah... yeah... yeah... yeah...
-Standing on shakey ground
-Ever since you put me down
-Shake... shake... shake... shake...
-Standing on shakey ground... yeah
-Ever since you put me down
-Yeah... yeah... yeah... yeah...
-Standing on shakey ground
-Ever since you put me down
-Shake... shake... shake... shake... shake...
-Standing on shakey ground
-Ever since you put me down
-Yeah... yeah... yeah... yeah...
-Standing on shakey ground... yeah
-Ever since you put me down
-Shake... shake... shake... shake...
-Standing on shakey ground
-Yeah... yea... yeeeaaa...
-
-Yeeaah...
-Standin'... standin'... standin'... standin'... standin'...
-On shakey ground
-Standin' on shakey ground
-Everything jump up 'n down
-Wow
-
-
 

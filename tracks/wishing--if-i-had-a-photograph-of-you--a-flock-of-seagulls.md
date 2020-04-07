@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wishing--if-i-had-a-photograph-of-you--a-flock-of-seagulls
-lyrics_url: https://www.azlyrics.com/lyrics/flockofseagulls/wishingifihadaphotographofyou.html
 name: Wishing (If I Had A Photograph Of You)
 rankings:
 - end_date: '1983-05-20'
@@ -64,39 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
 ---
-
-It's not the way you look
-It's not the way that you smile
-Although there's something to them
-It's not the way you have your hair
-It's not that certain style
-It could be that perfume
-
-If I had a photograph of you
-Or something to remind me
-I wouldn't spend my life just wishing
-
-It's not the make-up
-And it's not the way that you dance
-It's not the evening sky
-It's more the way your eyes
-Are laughing as they glance
-Across the great divide
-
-If I had a photograph of you
-Or something to remind me
-I wouldn't spend my life just wishing
-
-It's not the things you say
-It's not the things you do
-But it must be something more
-And if I feel this way for so long
-Tell me is it all for nothing
-You'll still walk out the door
-
-If I had a photograph of you
-Or something to remind me
-I wouldn't spend my life just wishing
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: silver-lady-david-soul
-lyrics_url: https://www.azlyrics.com/lyrics/annacalvi/ladygrinningsoul.html
 name: Silver Lady
 rankings:
 - end_date: '1977-09-16'
@@ -56,33 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
 ---
-
-She'll come, she'll go
-She'll lay belief on you
-Skin sweet with musky oil
-The lady from another grinning soul
-
-Cologne she'll wear. Silver and Americard
-She'll drive a beetle car
-And beat you down at cool Canasta
-
-And when the clothes are strewn
-Don't be afraid of the room
-Touch the fullness of her breast
-Feel the love of her caress
-She will be your living end
-
-She'll come, she'll go
-She'll lay belief on you
-But she won't stake her life on you
-How can life become
-Her point of view
-
-And when the clothes are strewn
-Don't be afraid of the room
-Touch the fullness of her breast
-Feel the love of her caress
-She will be your living end
-
-
 

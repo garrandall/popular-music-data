@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-wanna-dance-with-somebody--who-loves-me--whitney-houston
-lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/iwannadancewithsomebodywholovesme.html
 name: I Wanna Dance With Somebody (Who Loves Me)
 rankings:
 - end_date: '1987-05-22'
@@ -88,77 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
 ---
-
-Clocks strikes upon the hour
-And the sun begins to fade
-Still enough time to figure out
-How to chase my blues away
-I've done alright up 'til now
-It's the light of day that shows me how
-And when the night falls
-My loneliness calls
-
-Oh! I wanna dance with somebody
-I want to feel the heat with somebody
-Yeah! I wanna dance with somebody
-With somebody who loves me
-Oh! I wanna dance with somebody
-I want to feel the heat with somebody
-Yeah! I wanna dance with somebody
-With somebody who loves me, yeah
-
-I've been in love and lost my senses
-Spinning through the town
-Sooner or later the fever ends
-And I wind up feeling down
-I need a one who'll take a chance
-On a love that burns hot enough to last
-So when the night falls
-My lonely heart calls
-
-Oh! I wanna dance with somebody
-I want to feel the heat with somebody
-Yeah! I wanna dance with somebody
-With somebody who loves me
-Oh! I wanna dance with somebody
-I want to feel the heat...
-Yeah! I wanna dance with somebody
-With somebody who loves me
-
-Somebody, somebody
-Somebody who loves me
-Somebody who, somebody who
-To hold me in her arms
-I need a one who'll take a chance
-On a love that burns hot enough to last
-So when the night falls
-My loneliness calls
-
-Oh! I wanna dance with somebody
-I want to feel the heat with somebody
-Yeah! I wanna dance with somebody
-With somebody who loves me
-Oh! I wanna dance with somebody
-I want to feel the heat...
-Yeah! I wanna dance with somebody
-With somebody who loves me
-
-Don't you wanna dance
-Dance! With me baby
-Don't you wanna dance
-Dance! With me now
-Don't you wanna dance
-Dance! With me baby
-With somebody who loves me
-Don't you wanna dance, say you wanna dance
-Don't you wanna dance
-Dance!
-Don't you wanna dance, say you wanna dance
-Don't you wanna dance
-Dance!
-Don't you wanna dance
-Dance!
-With somebody who loves me
-
-
 

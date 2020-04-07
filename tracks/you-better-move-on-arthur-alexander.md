@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-better-move-on-arthur-alexander
-lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/youbettermoveon.html
 name: You Better Move On
 rankings:
 - end_date: '1962-03-02'
@@ -56,33 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
 ---
-
-You ask me to give up the hand of the girl I love
-You tell me I'm not the man she's worthy of
-But who are you to tell her who to love?
-That's up to her, yes, and the Lord above
-You better move on
-
-Well I know you can buy her fancy clothes and diamond rings
-But I believe she's happy with me without those things
-Still you beg me to set her free
-But my friend, that will never be
-You better move on
-
-Now I don't blame you for loving her
-But can't you understand, man, she's my girl
-And I'm never never ever gonna let her go
-'Cause I, yeah, I love her so
-
-I think you better go now, I'm getting mighty mad
-You ask me to give up the only love I've ever had
-Maybe I would, oh, but I love her so
-I'm never gonna let her go
-
-You better move on (you better move on)
-You better move on (you better move on)
-You better move on (you better move on)
-Yeah, you better move on (you better move on)
-
-
 

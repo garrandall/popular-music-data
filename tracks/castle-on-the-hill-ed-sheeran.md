@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: castle-on-the-hill-ed-sheeran
-lyrics_url: https://www.azlyrics.com/lyrics/elilieb/castleonthehill.html
 name: Castle On The Hill
 rankings:
 - end_date: '2017-02-03'
@@ -140,64 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
 ---
-
-When I was six years old I broke my leg
-I was running from my brother and his friends
-And tasted the sweet perfume of the mountain grass as I rolled down
-
-I was younger then
-Take me back to when
-
-I found my heart and broke it here
-Made friends and lost them through the years
-And I've not seen the roaring fields in so long
-I know I've grown
-But I can't wait to go home
-
-I'm on my way
-Driving at 90 down those country lanes
-Singing to "Tiny Dancer"
-And I miss the way
-You make me feel
-And it's real
-And we watched the sunset over the castle on the hill
-
-Fifteen years old and smoking handrolled cigarettes
-Running from the law through the backfields and getting drunk with my friends
-Had my first kiss on a Friday night
-I don't reckon I did it right
-
-I was younger then
-Take me back to when
-
-We found weekend jobs, when we got paid
-We'd buy cheap spirits and drink them straight
-Me and my friends have not thrown up in so long
-Oh, how we've grown
-But I can't wait to go home
-
-I'm on my way
-Driving at 90 down those country lanes
-Singing to "Tiny Dancer"
-And I miss the way
-You make me feel
-And it's real
-And we watched the sunset over the castle on the hill
-Over the castle on the hill
-Oh, oh
-Over the castle on the hill
-
-I'm on my way
-Driving at 90 down those country lanes
-Singing to "Tiny Dancer"
-And I miss the way
-You make me feel
-And it's real
-And we watched the sunset over the castle on the hill
-Oh, oh
-Over the castle on the hill
-Oh, oh
-Over the castle on the hill
-
-
 

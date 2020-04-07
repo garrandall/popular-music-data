@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-wings-maxwell
-lyrics_url: https://www.azlyrics.com/lyrics/temptations/prettywings.html
+lyrics_url: https://www.azlyrics.com/lyrics/maxwell/prettywings.html
 name: Pretty Wings
 rankings:
 - end_date: '2009-05-22'

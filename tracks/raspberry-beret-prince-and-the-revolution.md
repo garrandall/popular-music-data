@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: raspberry-beret-prince-and-the-revolution
-lyrics_url: https://www.azlyrics.com/lyrics/prince/shesalwaysinmyhair.html
 name: Raspberry Beret
 rankings:
 - end_date: '1985-05-24'
@@ -80,54 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
 ---
-
-Whenever I feel like givin' up
-Whenever my sunshine turns to rain
-Whenever my hopes and dreams
-Are aimed in the wrong direction
-She's always there
-Tellin' me how much she cares
-She's always in my hair
-
-She's always in my hair
-My hair
-
-Whenever I feel like not too great at all
-Whenever I'm all alone
-And even if I hit the wrong notes
-She's always in my boat
-She's always there
-Tellin' me how much she cares
-She's always in my hair
-
-She's always in my hair
-My hair
-
-Maybe I'll marry her (Maybe I'll marry her)
-Maybe I won't (Maybe I won't)
-Maybe I will not (Maybe I will not)
-Lemme tell ya (Even if I was a gigolo)
-If I was a gigolo all my life (All my life)
-She'd still be there (She'd still be there)
-Tellin' me just how much she really cares (She cares)
-She's always in my hair
-
-She's always in my hair
-My hair
-
-Listen
-Whenever I feel like givin' up
-Whenever my sunshine turns to rain
-Whenever my hopes and dreams
-Are aimed in the wrong direction
-She's always there
-Tellin' me just how much she cares (Tellin' me how much she cares)
-Tellin' me... she's always in my hair (Always in my hair)
-
-She's always in my hair
-My hair
-
-She's always in my hair
-
-
 

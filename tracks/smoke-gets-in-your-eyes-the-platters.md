@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: smoke-gets-in-your-eyes-the-platters
-lyrics_url: https://www.azlyrics.com/lyrics/adrianocelentano/fumonegliocchismokegetsinyoureyes.html
 name: Smoke Gets In Your Eyes
 rankings:
 - end_date: '1958-11-23'
@@ -84,30 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
 ---
-
-No, io non piango, sai
-Ã soltanto che...
-Fumi e il fumo va
-Dentro gli occhi miei
-Fino in fondo al cuore
-
-No, io non piango, sai
-Anche se io so...
-Che mi lascerai
-Come hai detto tu
-E non tornerai
-
-Io vivrÃ² la vita senza te
-Ma come io non lo so
-Io vivrÃ², ma solamente per
-Dimenticare te
-
-No, io non piango, sai
-Ã soltanto che...
-Tutto il fumo va
-Dentro gli occhi miei
-Fino in fondo al cuor
-Fino in fondo al cuor
-
-
 

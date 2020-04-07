@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: day-after-day-badfinger
-lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/dayafterday.html
 name: Day After Day
 rankings:
 - end_date: '1971-12-10'
@@ -64,28 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
-
-I remember finding out about you
-Every day, my mind is all around you
-Looking out from my lonely room, day after day
-Bring it home, baby, make it soon
-I give my love to you
-
-I remember holding you while you sleep
-Every day, I feel the tears that you weep
-Looking out of my lonely gloom, day after day
-Bring it home, baby, make it soon
-I give my love to you
-
-Looking out of my lonely room, day after day
-Bring it home, baby, make it soon
-I give my love to you
-
-I remember finding out about you
-Every day, my mind is all around you
-Looking out of my lonely gloom, day after day
-Bring it home, baby, make it soon
-I give my love to you.
-
-
 

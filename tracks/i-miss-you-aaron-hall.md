@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-miss-you-aaron-hall
-lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/pissaaron.html
 name: I Miss You
 rankings:
 - end_date: '1994-05-20'
@@ -100,60 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
 ---
-
-If it's stupid enough, it's cool
-A1-a2-a3
-
-We figure, my daddy and me
-Things are still the same, it seems
-As when he lived it in his teens
-As a kid in school
-
-Aaron was a junior, the class of '32
-His momma called him angel
-But everybody knew he was the
-King king, the gross out king
-
-They called him Piss Aaron
-They always caught him pissin' in the hall
-Piss Aaron, he never would refuse
-When nature called
-
-Dumb Larry from Homeroom 9
-Kept his locker full of weeds
-Just to satisfy his smoking needs
-And his love of fire
-
-Went to a game and lit
-A stink bomb in the bleachers
-The coach, the cheerleader and the
-The chem teacher, and the dean
-The dean, duh, dean dean was after
-
-Dumb Larry, they always caught him
-Smokin' in the john
-Dumb Larry, you never would have
-Missed him when he's gone
-
-Chuck Biscuits, conservative-jive
-The biggest pig in all the school
-He would sit and smack his lips and drool
-As he eyed your lunch
-I left a bag in his desk one night
-
-A raw egg sandwich and
-When Hungry took a bite
-He had to up chuck
-Uh up up-chuck, a-pukin'
-
-Chuck Biscuits, they always
-Caught him eatin' in the class
-
-Dumb Larry, they always caught him
-Smokin' in the john
-
-Piss Aaron, they always
-Caught him pissin' in the hall
-
-
 

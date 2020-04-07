@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wild-thing-the-troggs
-lyrics_url: https://www.azlyrics.com/lyrics/krokus/wildthing.html
 name: Wild Thing
 rankings:
 - end_date: '1966-07-01'
@@ -52,34 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
-
-Wild thing, you make my heart sing
-You make everything, wild thing
-
-Wild thing, I think I love you
-I wanna know for sure
-Come on, hold me tight
-I want you
-
-Wild thing, you make my heart sing
-You make everything groovy, wild thing
-
-Wild thing, I think you move me
-I wanna know for sure
-Come on, come on, hold me tight
-You move me
-
-Wild thing, you make my heart sing
-You make everything, wild thing
-
-Wild thing, I think you move me
-I wanna know for sure
-Come on, you know what I mean
-I want you
-
-Wild thing, you make my heart sing
-You make everything, wild thing
-...
-
-
 

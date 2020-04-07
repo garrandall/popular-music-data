@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: when-you-believe-whitney-houston-mariah-carey
-lyrics_url: https://www.azlyrics.com/lyrics/davidarchuleta/whenyoubelieve.html
 name: When You Believe
 rankings:
 - end_date: '1998-12-11'
@@ -77,67 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
 ---
-
-Many nights we prayed
-With no proof anyone could hear
-In our hearts a hope for a song
-We barely understood
-
-Now we are not afraid
-Although we know there's much to fear
-We were moving mountains
-Long before we knew we could, whoa
-
-There can be miracles
-When you believe
-Though hope is frail
-Its hard to kill
-
-Who knows what miracles
-You can achieve
-When you believe somehow you will
-You will when you believe
-
-In this time of fear
-When prayer so often proves in vain
-Hope seems like the summer bird
-Too swiftly flown away
-
-Yet now I'm standing here
-My hearts so full, I can't explain
-Seeking faith and speakin' words
-I never thought I'd say
-
-There can be miracles
-When you believe 
-Though hope is frail
-Its hard to kill 
-
-Who knows what miracles
-You can achieve 
-When you believe somehow you will
-You will when you believe
-
-They don't always happen when you ask
-And its easy to give in to your fears
-But when you're blinded by your pain
-Can't see the way, get through the rain
-A small but still, resilient voice
-Says hope is very near
-
-There can be miracles
-When you believe
-Though hope is frail
-Its hard to kill
-
-Who knows what miracles
-You can achieve
-When you believe somehow, somehow, somehow...
-You know, you know, you know...
-You will when you believe
-You will when you believe
-When just believe
-You will when you believe
-
-
 

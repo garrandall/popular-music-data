@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: ballin--mustard-roddy-ricch
-lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/elysesskit.html
 name: Ballin'
 rankings:
 - end_date: '2019-08-09'
@@ -145,13 +144,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
-
-'Lysie, did I listen to that song "Ballin'" in your car, by, uh
-I guess it's DJ Mustard and Roddy Ricch?
-'Cause if I did I can not get that damn song out my head
-And every time it comes on the radio
-Iâ Iâ I start boppin' my head
-You get on my nerves makin' me listen to this inappropriate music
-
-
 

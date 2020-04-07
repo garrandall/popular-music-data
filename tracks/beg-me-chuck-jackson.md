@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: beg-me-chuck-jackson
-lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/anydaynow.html
 name: Beg Me
 rankings:
 - end_date: '1964-05-29'
@@ -48,40 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
 ---
-
-Any day now I will hear you say
-Goodbye my love
-You'll be on your way
-Then my wild beautiful bird
-You will have flown
-Any day now I'll be all alone
-
-Any day now, when your restless eyes
-Meet someone new
-To my sad surprise
-Then the blue shadow will fall all over town
-Any day now
-Love will let me down
-
-I know I shouldn't want to keep you
-If you don't want to stay, yeah
-Until you've gone forever
-I'll be holding on for dear life
-Holding you this way
-Begging you to stay
-
-Any day now
-When the clock strikes go
-You'll call it off
-Then my tears will flow
-Then the blue shadow will fall all over town
-Any day now
-Love will let me down
-
-Oh, any day now
-Oh, any day now
-Don't fly away my beautiful bird
-Don't fly away my beautiful bird
-
-
 

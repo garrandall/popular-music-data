@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: why-me-kris-kristofferson
-lyrics_url: https://www.azlyrics.com/lyrics/willienelson/whyme855250.html
 name: Why Me
 rankings:
 - end_date: '1973-04-13'
@@ -160,28 +159,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
 ---
-
-Why me Lord? What have I ever done
-To deserve even one of the pleasures I've known?
-Tell me Lord, what did I ever do that was worth loving You
-For the kindness You've shown?
-Oh, Lord, help me Jesus, I've wasted it
-So help me Jesus, I know what I am
-Oh, now that I know that I needed You so
-Help me Jesus, my soul's in Your hands
-Try me Lord, if You think there's a way
-I can try to repay all I've taken from You
-Maybe Lord I can show someone else
-What I go through myself on my way back to You
-Oh, Lord, help me Jesus, I've wasted it
-So help me Jesus, I know what I am
-Oh, now that I know that I needed You so
-Help me Jesus, my soul's in Your hands
-Lord, help me Jesus I've wasted it
-So help me Jesus, I know what I am
-Oh, now that I know that I needed You so
-Help me Jesus, my soul's in Your hands
-Jesus, my soul's in Your hand
-
-
 

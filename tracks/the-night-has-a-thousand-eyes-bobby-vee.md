@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-night-has-a-thousand-eyes-bobby-vee
-lyrics_url: https://www.azlyrics.com/lyrics/garylewistheplayboys/thenighthasathousandeyes.html
 name: The Night Has A Thousand Eyes
 rankings:
 - end_date: '1962-12-14'
@@ -64,41 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
 ---
-
-They say that you're a runaround lover
-Though you say it isn't so
-But if you put me down for another
-I'll know, believe me, I'll know
-
-('Cause the night has a thousand eyes)
-(And a thousand eyes can't help but see)
-If you are true to me (Ah-ah-ah)
-So remember when you tell those little white lies
-That the night has a thousand eyes
-
-You say that you're at home when you phone me
-And how much you really care
-Though you keep tellin' me that you're lonely
-I'll know if someone is there
-('Cause the night has a thousand eyes)
-(And a thousand eyes can't help but see)
-If you are true to me (Ah)
-So remember when you tell those little white lies
-That the night has a thousand eyes
-
-One of these days you're gonna be sorry
-'Cause your game I'm gonna play
-And you'll find out without really tryin'
-Each time that my kisses stray
-
-('Cause the night has a thousand eyes)
-(And a thousand eyes will see me too)
-And no matter what I do
-(I could never disguise all my little white lies)
-'Cause the night has a thousand eyes
-
-(So remember when you tell those little white lies)
-That the night has a thousand eyes
-
-
 

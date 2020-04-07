@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: suspicious-minds-elvis-presley
-lyrics_url: https://www.azlyrics.com/lyrics/dwightyoakam/suspiciousminds.html
 name: Suspicious Minds
 rankings:
 - end_date: '1969-09-19'
@@ -68,57 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
 ---
-
-We're caught in a trap
-I can't walk out
-Because I love you too much, Baby
-Why can't you see
-What you're doing to me
-When you don't believe a word I'm saying?
-
-We can't go on together
-With suspicious minds
-And we can't build our dreams
-On suspicious minds
-
-So, if an old friend I know
-Drops by to say hello
-Would I still see suspicion in your eyes?
-Here we go again
-Asking where I've been
-Can't you see these tears are real
-I'm crying
-
-We can't go on together
-With suspicious minds
-And we can't build our dreams
-On suspicious minds...
-
-Oh, let our love survive
-I'll dry the tears from your eyes
-Let's don't let a good thing die
-Honey, you know
-I've never lied to you
-No-o, Never lied to you
-
-We're caught in a trap
-I can't walk out
-Because I love you too much, Baby
-Why can't you see
-What you're doing to me
-When you don't believe a word I'm saying?
-
-We're caught in a trap
-I can't walk out
-Because I love you too much, Baby
-
-We're caught in a trap
-I can't walk out
-Because I love you too much, Baby
-
-We're caught in a trap
-I can't walk out
-Because I love you too much, Baby...
-
-
 

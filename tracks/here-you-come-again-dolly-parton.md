@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: here-you-come-again-dolly-parton
-lyrics_url: https://www.azlyrics.com/lyrics/charlottedaywilson/hereyoucomeagain.html
 name: Here You Come Again
 rankings:
 - end_date: '1977-10-21'
@@ -84,41 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
 ---
-
-Here you come again
-Just when I've begun to get myself together
-You waltz right in the door
-Just like you've done before
-And wrap my heart 'round your little finger
-
-Here you come again
-Just when I'm about to make it work without you
-You look into my eyes
-And lie those pretty lies
-And pretty soon I'm wonderin' how I came to doubt you
-
-All you got to do is smile that smile
-And there go all my defenses
-Just leave it up to you and in a little while
-You're messin' up my mind and fillin' up my senses
-
-Here you come again
-Lookin' better than a body has a right to
-And shakin' me up so that all I really know
-Is here you come again
-And here I go
-
-All you got to do is smile that smile
-And there go all my defenses
-Just leave it up to you and in a little while
-You're messin' up my mind and fillin' up my senses
-
-Here you come again
-Lookin' better than a body has a right to
-And shakin' me up so
-That all I really know
-Is here you come again
-And here I go
-
-
 

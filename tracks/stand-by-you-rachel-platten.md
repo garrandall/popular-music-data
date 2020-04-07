@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stand-by-you-rachel-platten
-lyrics_url: https://www.azlyrics.com/lyrics/alexgoot/standbyyou.html
 name: Stand By You
 rankings:
 - end_date: '2015-12-04'
@@ -88,44 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
 ---
-
-Hands, put your empty hands in mine
-And scars, show me all the scars you hide
-And hey, if your wings are broken
-Please take mine so yours can open, too
-'Cause I'm gonna stand by you
-
-Oh, tears make kaleidoscopes in your eyes
-And hurt, I know you're hurting, but so am I
-And, love, if your wings are broken
-Borrow mine 'til yours can open, too
-'Cause I'm gonna stand by you
-
-Even if we're breaking down, we can find a way to break through
-Even if we can't find heaven, I'll walk through Hell with you
-Love, you're not alone, 'cause I'm gonna stand by you
-Even if we can't find heaven, I'm gonna stand by you
-Even if we can't find heaven, I'll walk through Hell with you
-Love, you're not alone, 'cause I'm gonna stand by you
-
-Yeah, you're all I never knew I needed
-And the heart sometimes it's unclear why it's beating
-And, love, if your wings are broken
-We can brave through those emotions, too
-'Cause I'm gonna stand by you
-
-Oh, truth, I guess truth is what you believe in
-And faith, I think faith is having a reason
-And I know now, love, if your wings are broken
-Borrow mine 'til yours can open, too
-'Cause I'm gonna stand by you
-
-Even if we're breaking down, we can find a way to break through
-Even if we can't find heaven, I'll walk through Hell with you
-Love, you're not alone, 'cause I'm gonna stand by you
-Even if we can't find heaven, I'm gonna stand by you
-Even if we can't find heaven, I'll walk through Hell with you
-Love, you're not alone, 'cause I'm gonna stand by you
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: house-of-fire-alice-cooper
-lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/houseoffire.html
 name: House Of Fire
 rankings:
 - end_date: '1990-01-26'
@@ -44,58 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
 ---
-
-House of fire
-House of fire, baby
-
-Let's build a house of fire, baby
-Not one of wood or stone
-Walk through my door of desire, baby
-Come on lets make it our home
-Don't need no window to watch you, baby
-Don't need no roof overhead
-I don't need no key to unlock you, baby
-I'll use my lovin' instead
-
-I won't tire
-Take me higher
-Building a house of fire, baby
-Building it with our love
-We are building a house of fire
-every time we touch
-House of fire
-House of fire
-
-We don't need to pay rent now, baby
-No landlord to throw us out
-I want to play in your garden, baby
-When you want it give me a shout
-
-I won't tire
-Take me higher
-Building a house of fire, baby
-Building it with our love
-We are building a house of fire
-every time we touch
-We are building this house together, baby
-Standing on solid ground
-We are building a house of fire
-that you can't tear down
-Brick by brick the flames get higher
-Build it strong with our desire
-
-Building a house of fire, baby
-Building it with our love
-We are building a house of fire
-every time we touch
-We are building this house together, baby
-Standing on solid ground
-We are building a house of fire
-that you can't tear down
-Building a house of fire, baby
-Building it with our love
-We are building a house of fire
-every time we touch
-
-
 

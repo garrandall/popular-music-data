@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: i-dig-rock-and-roll-music-peter-paul-mary
+key: i-dig-rock-and-roll-music-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/idigrockandrollmusic.html
 name: I Dig Rock And Roll Music
 rankings:

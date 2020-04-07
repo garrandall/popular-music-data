@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nick-of-time-bonnie-raitt
-lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/nickoftime.html
 name: Nick Of Time
 rankings:
 - end_date: '1990-05-25'
@@ -20,63 +19,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
 ---
-
-A friend of mine, she cries at night
-And she calls me on the phone
-Sees babies everywhere she goes
-And she wants one of her own
-
-She's waited long enough she says
-And still he can't decide
-Pretty soon she'll have to choose
-And it tears her up inside
-
-She is scared
-Scared to run out of time
-
-I see my folks are getting on
-And I watch their bodies change
-I know they see the same in me
-And it makes us both feel strange
-
-No matter how you tell yourself
-It's what we all go through
-Those lines are pretty hard to take
-When they're staring back at you
-
-Oh Oh Oh, scared you'll run out of time
-
-When did the choices get so hard
-With so much more at stake
-Life gets mighty precious
-When there's less of it to wa-a-a-aste
-
-Mmm-m-m-m-m-m
-
-Mmmmmmm, scared you'll run out of time
-
-Just when I thought I'd had enough
-And all my tears were shed
-No promise left unbroken
-There were no painful words unsaid
-
-Yo-o-o-u came along and showed me
-I could leave it all behind
-You opened up my heart again
-And then much to my surprise
-
-I found love, baby, love in the nick of time
-(Love in the nick of time)
-I found love baby, love in the nick of time
-(Love in the nick of time)
-
-I found love, baby
-(Love in the nick of time)
-Love in the nick of time
-
-I found love, baby
-(Love in the nick of time)
-Love in the nick of time
-
-
 

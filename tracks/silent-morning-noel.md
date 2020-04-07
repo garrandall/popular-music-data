@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: silent-morning-noel
-lyrics_url: https://www.azlyrics.com/lyrics/sarahbrightman/ibelieveinfatherchristmas.html
 name: Silent Morning
 rankings:
 - end_date: '1987-08-28'
@@ -96,33 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
 ---
-
-They said there'll be snow at Christmas 
-They said there'll be peace on Earth 
-But instead it just kept on raining 
-A veil of tears for the virgin birth 
-I remember one Christmas morning 
-A winter's light and a distant choir 
-And the peal of a bell and that Christmas tree smell 
-And eyes full of tinsel and fire 
-
-They sold me a dream of Christmas 
-They sold me a Silent Night 
-And they told me a fairy story 
-'Till I believed in the Israelite 
-And I believed in Father Christmas 
-And I looked to the sky with excited eyes 
-'Till I woke with a yawn in the first light of dawn 
-And I saw him and through his disguise 
-
-I wish you a hopeful Christmas 
-I wish you a brave New Year 
-All anguish pain and sadness 
-Leave your heart and let your road be clear 
-They said there'll be snow at Christmas 
-They said there'll be peace on Earth 
-Hallelujah Noel, be it Heaven or Hell 
-The Christmas you get you deserve
-
-
 

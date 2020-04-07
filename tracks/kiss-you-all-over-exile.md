@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: kiss-you-all-over-exile
-lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/kissyouallover.html
 name: Kiss You All Over
 rankings:
 - end_date: '1978-07-14'
@@ -100,77 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
 ---
-
-When I get home, babe
-Gonna light your fire
-All day I've been thinkin' about you,
-Babe, you're my one desire
-Gonna wrap my arms around you
-Hold you close to me
-Oh, babe I wanna taste your lips
-I wanna be your fantasy, yeah
-
-I don't what I'd do without you, babe
-Don't know where I'd be
-You're not just another lover
-No, you're everything to me
-And every time I'm with you, baby
-I can't believe it's true
-When you're layin' in my arms
-And you do the things you do
-
-You can see it in my eyes
-I can feel it in your touch
-You don't have to say a thing
-Just let me show how much
-I love you, need you, oh babe
-
-I wanna kiss you all over
-And over again
-I wanna kiss you all over
-Till the night closes in
-Till the night closes in
-
-No one else can ever make me
-Feel the way you do
-Oh, so keep on loving me baby
-And I'll keep loving you
-Well it's easy to see
-When something's right or something's wrong
-So stay with me baby and hold me all night long
-
-Show me, show me everything you do
-'Cause baby no one does it quite like you
-I love you, need you, oh babe
-
-I wanna kiss you all over
-And over again
-I wanna kiss you all over
-Till the night closes in
-Till the night closes in
-
-Stay with me, lay with me
-Holding me, loving me, baby
-Here with me, near with me
-Feeling you close to me, baby
-
-Show me, show me everything you do
-'Cause baby no one does it quite like you
-Love you, need you, oh yea
-
-I wanna kiss you all over
-And over again
-I wanna kiss you all over
-Till the night closes in
-Till the night closes in
-
-Till the night closes in
-Wanna kiss you all over
-Till the night closes in
-Till the night closes in
-
-When I get home, baby
-Gonna light your fire
-
-
 

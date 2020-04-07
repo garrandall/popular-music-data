@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: when-something-is-wrong-with-my-baby-sam-dave
-lyrics_url: https://www.azlyrics.com/lyrics/davemason/whensomethingiswrongwithmybaby.html
 name: When Something Is Wrong With My Baby
 rankings:
 - end_date: '1967-03-03'
@@ -41,37 +40,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
 ---
-
-When something is wrong with my baby
-Something is wrong with me
-And if I know he is worried
-Then I would feel that same misery
-
-We've been through, oh yeah
-So much together
-We stand as one
-And that's what makes it better
-
-When something is wrong with my baby, oh yeah
-Something is wrong with me
-
-Just what, oh yeah, he means to me now
-Oh you just wouldn't understand
-And the people say he's no good
-But oh, I am his woman
-And I know he's my man
-
-And if he's got a problem
-Ooh, Lord I know, I got to help him solve it
-
-When something is wrong with my baby
-Something is wrong with me
-Ho, say it again
-When something is wrong with my baby
-Something is wrong with me
-Hey
-When something is wrong with my baby
-Something is wrong with me
-
-
 

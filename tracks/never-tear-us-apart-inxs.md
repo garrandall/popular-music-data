@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: never-tear-us-apart-inxs
-lyrics_url: https://www.azlyrics.com/lyrics/tomjones/nevertearusapart.html
 name: Never Tear Us Apart
 rankings:
 - end_date: '1988-08-19'
@@ -100,62 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
-
-
-Don't ask me 
-What you know is true 
-I don't have to tell you 
-I love your precious heart 
-
-
-I 
-I was standing 
-You were there 
-Two worlds collided 
-
-
-And they could never tear us apart 
-
-
-We could live 
-For a thousand years
-But if I hurt you 
-I'd make wine from your tears 
-
-
-I told you 
-Mm, that we could fly 
-Because we all have wings 
-But some of us don't know why 
-
-
-I 
-I was standing
-
-
-You were there 
-Two worlds collided
-
-
-And they could never, ever tear us apart
-
-I (Don't ask me)
-I was standing (You know it's true)
-You were there (Worlds collided)
-Two worlds collided (Come shining through)
-And they could never tear us apart
-
-You don't ask me (You were standing)
-You know it's true (Mm, I was standing)
-Two worlds collided (Two worlds collided)
-Were shining through
-And they could never tear us apart
-
-I (Don't ask me)
-I was standing (You know it's true)
-You were there (Worlds collided)
-Two worlds collided (Come shining through)
-And they could never tear us apart
-
-
 

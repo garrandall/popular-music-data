@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: see-you-again-miley-cyrus
-lyrics_url: https://www.azlyrics.com/lyrics/breathecarolina/seeyouagain.html
 name: See You Again
 rankings:
 - end_date: '2007-12-28'
@@ -116,48 +115,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
 ---
-
-I've got my sights set on you and I'm ready to aim
-I've got a heart that will never be tamed
-I knew you were something special when you spoke my name
-Now I can't wait to see you again
-I've got a way of knowing when something is right
-I feel like I must have known you in another life
-'Cause I felt this deep connection
-When you looked in my eyes Now I can't wait to see you again
-
-The last time I freaked out I just kept looking down
-I st-st-stuttered when you asked me what I'm thinking about
-Felt like I couldn't breath You asked what's wrong with me
-You know my friends say "You're just being crazy"
-The next time we hang out I will redeem myself
-My heart can't rest 'till then
-Whoah, Whoah I, I can't wait to see you again
-
-I got this crazy feeling deep inside
-When you called and asked to see me tomorrow night
-I'm not a mind reader but I'm reading the signs
-That you can't wait to see me again
-
-I've got my sight set on you
-And I'm ready to aim
-I'm ready, I'm ready
-I'm ready, I'm ready
-I'm ready, I'm ready
-I'm ready, I'm ready
-
-The last time I freaked out
-I just kept looking down
-I st-st-stuttered when
-You asked me what I'm thinking 'bout
-Felt like I couldn't breathe
-You asked what's wrong with me
-When all my friends said
-"You're just being crazy"
-The next time we hang out
-I will redeem myself
-My heart, it can't rest till then
-Whoa, whoa, I, and I can't wait to see you again
-
-
 

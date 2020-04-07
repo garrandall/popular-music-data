@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: new-york-minute-don-henley
-lyrics_url: https://www.azlyrics.com/lyrics/jorn/newyorkminute.html
 name: New York Minute
 rankings:
 - end_date: '1990-11-16'
@@ -72,91 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
 ---
-
-Harry got up
-Dressed all in black
-Went down to the station
-And he never came back
-They found his clothing
-Scattered somewhere down the track
-And he won't be down on Wall Street
-In the morning
-
-He had a home
-The love of a girl
-But men get lost sometimes
-As years unfold
-One day he crossed some line
-And he was too much in this world
-But I guess it doesn't matter anymore
-
-In a New York minute
-Everything can change
-In a New York minute
-Things can get pretty strange
-In a New York minute
-Everything can change
-In a New York minute
-
-Lying here in the darkness
-I hear the sirens wail
-Somebody going to emergency
-Somebody's going to jail
-If you find somebody to love in this world
-You better hand on tooth and nail
-The wolf is always at the door
-
-In a New York minute
-Everything can change
-In a New York minute
-Things can get a little strange
-In a New York minute
-Everything can change
-In a New York minute
-
-And in these days
-When darkness falls early
-And people rush home
-To the ones they love
-You better take a fool's advice
-And take care of your own
-One day they're here
-Next day they're gone
-
-I pulled my coat around my shoulders
-And took a walk down through the park
-The leaves were falling around me
-The groaning city in the gathering dark
-On some solitary rock
-A desperate lover left his mark
-"Baby, I've changed. Please come back."
-
-What the head makes cloudy
-The heart makes very clear
-And though the days were so much brighter
-In the time when she was here
-I know there's somebody somewhere
-Can make these dark clouds disappear
-But until that day, I have to believe
-I believe
-
-In a New York minute
-Everything can change
-In a New York minute
-You can get out of the rain
-In a New York minute
-Everything can change
-In a New York minute
-
-In a New York minute
-Everything can change
-In a New York minute
-You can get out of the rain
-In a New York minute
-Everything can change
-In a New York minute
-New York minute
-...
-
-
 

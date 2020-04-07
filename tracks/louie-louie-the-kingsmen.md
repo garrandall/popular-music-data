@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: louie-louie-the-kingsmen
-lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/louielouie.html
 name: Louie Louie
 rankings:
 - end_date: '1963-11-15'
@@ -80,54 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
-
-Louie, Louie whoa baby 
-Say we gotta go 
-Yeah, yeah, yeah, yeah, yeah, yeah
-Louie, Louie, oh baby 
-Say we gotta go 
-
-Fine little boy he waits for me 
-He gets his fill, oh constantly 
-Seen him playin' round 'bout an hour ago 
-He's never without I'm waitin' at home 
-
-Louie, Louie, whoa baby 
-Say we gotta go 
-Yeah, yeah, yeah, yeah, yeah, yeah 
-Louie, Louie, oh baby 
-Say we gotta go 
-
-Every night at ten I see him again 
-I think of him oh constantly 
-Goin' anywhere and he takes me there 
-Goin' down the road right in his ear 
-
-Louie, Louie, oh baby 
-Say we gotta go 
-Yeah, yeah, yeah, yeah, yeah, yeah
-Say Louie, Louie, oh baby 
-Say we gotta go 
-
-All right!
-
-Meet my maker, I know my part 
-It won't be long, please touch my heart 
-Take him in my arms again 
-Dug her eyes, they never leave you again 
-
-Say, Louie, Louie, whoa baby 
-Say we gotta go 
-Yeah, yea, yea, yea, yea, yea 
-Louie, Louie, oh baby 
-Say we gotta go 
-
-Say we gotta go now 
-Yeah, yea, yea, yea, yea, yea
-We gotta go now
-
-Louie, Louie, oh baby
-We gotta go now
-
-
 

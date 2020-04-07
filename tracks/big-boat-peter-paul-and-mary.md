@@ -1,11 +1,9 @@
 ---
 artists:
-- Peter
-- Paul
-- Mary
+- Peter, Paul, and Mary
 features: []
 genres: []
-key: big-boat-peter-paul-mary
+key: big-boat-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/bigboat.html
 name: Big Boat
 rankings:
@@ -22,44 +20,44 @@ rankings:
 I went up the levee to pack some sacks
 And I thought I'd bring me some money back.
 Big boat up the river and she can't come down.
-My woman on the levee wearing a frown. 
+My woman on the levee wearing a frown.
 
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
-Big boat up the river and she can't come down 
+Big boat up the river and she can't come down
 
 Somebody tell that woman
 Somebody tell that woman
 Somebody tell that woman
-There's a big boat up the river and she can't come down 
+There's a big boat up the river and she can't come down
 
 Big boat up the river and she can't come down
 Big boat up the river blowing loud and fast
 If she don't get to deep water she'll never land
 And my woman on the levee shaking her hand,
-She thinks she's gonna quit me for another man 
+She thinks she's gonna quit me for another man
 
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
-Big boat up the river and she can't come down 
+Big boat up the river and she can't come down
 
 Somebody tell that woman
 Somebody tell that woman
 Somebody tell that woman
-There's a big boat up the river and she can't come down 
+There's a big boat up the river and she can't come down
 
 Big boat up the river and she can't come down
 Big boat up the river blowing loud and fast
 And my woman on the levee feeling mighty sad
 She thinks I got the money that I once had had
-But when I get her home it's gonna be too bad. 
+But when I get her home it's gonna be too bad.
 
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
 Big boat up the river and she can't come down
-Big boat up the river and she can't come down 
+Big boat up the river and she can't come down
 
 Somebody tell that woman
 Somebody tell that woman

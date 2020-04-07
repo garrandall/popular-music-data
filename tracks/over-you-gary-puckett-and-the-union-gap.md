@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: over-you-gary-puckett-and-the-union-gap
-lyrics_url: https://www.azlyrics.com/lyrics/garypucketttheuniongap/overyou.html
 name: Over You
 rankings:
 - end_date: '1968-09-27'
@@ -52,32 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
 ---
-
-Why am I losing sleep over you?
-Reliving precious moments we knew
-
-So many days have gone by
-Still I'm so lonely and I guess there's just no getting over you
-And there's nothing I can do
-But spend all of my time out of my mind
-Over you
-
-Within the prison walls of my mind
-There's still apart of you left behind
-And though it hurts I'll get by
-Without your loving yet I guess this just no getting over you
-And there's nothing I can do
-But spend all of my time out of my mind
-Over you
-
-And I guess there's just no getting over you
-And there's nothing I can do
-But spend all of my time out of my mind
-Over you
-
-And I guess there's just no getting over you
-And there's nothing I can do
-But spend all of my time out of my mind
-
-
 

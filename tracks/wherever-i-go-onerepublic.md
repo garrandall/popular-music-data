@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wherever-i-go-onerepublic
-lyrics_url: https://www.azlyrics.com/lyrics/flybymidnight/whereverigo.html
 name: Wherever I Go
 rankings:
 - end_date: '2016-06-10'
@@ -56,41 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
 ---
-
-I know I could lie but I'm telling the truth
-Wherever I go there's a shadow of you
-I know I could try looking for something new
-But wherever I go, I'll be looking for you
-
-Some people lie but they're looking for magic
-Others are quietly going insane
-I feel alive when I'm close to the madness
-No easy love could ever make me feel the same
-
-I know I could lie, but I won't lie to you
-Wherever I go, you're the ghost in the room
-I don't even try looking for something new
-Cause wherever I go, I'll be looking for you
-
-Some people try but they can't find the magic
-Others get down on their knees and they pray
-I come alive when I'm close to the madness
-No easy love could ever make me feel the same
-Make me feel the same, same, same...
-
-I know I could lie to you
-Wherever I go is you
-I know I could try something new
-But wherever I go is you
-
-I know I could lie but I'm telling the truth
-Wherever I go there's a shadow of you
-I know I could try looking for something new
-But wherever I go, I'll be looking for you
-
-Some people pray to their God for some magic
-Cause no easy love could ever make them feel the same
-No easy love could ever make me feel the same
-
-
 

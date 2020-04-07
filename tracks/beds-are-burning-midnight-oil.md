@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: beds-are-burning-midnight-oil
-lyrics_url: https://www.azlyrics.com/lyrics/amandapalmer/bedsareburning.html
 name: Beds Are Burning
 rankings:
 - end_date: '1988-04-08'
@@ -96,91 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
-
-Out where the river broke
-The blood-wood and the desert oak
-Holden wrecks and boiling diesels
-Steam in forty-five degrees
-
-The time has come
-To say fair's fair
-To pay the rent
-To pay our share
-
-The time has come
-A fact's a fact
-It belongs to them
-Let's give it back
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-The time has come
-To say fair's fair
-To pay the rent
-Now to pay our share
-
-Four wheels scare the cockatoos
-From Kintore East to Yuendemu
-The western desert lives and breathes
-In forty-five degrees
-
-The time has come
-To say fair's fair
-To pay the rent
-To pay our share
-
-The time has come
-A fact's a fact
-It belongs to them
-Let's give it back
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-The time has come
-To say fair's fair
-To pay the rent
-Now to pay our share
-
-The time has come
-A fact's a fact
-It belongs to them
-We gonna give it back
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-How can we dance
-When our earth is turning
-How do we sleep
-While our beds are burning
-
-
 

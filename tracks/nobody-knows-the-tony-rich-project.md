@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nobody-knows-the-tony-rich-project
-lyrics_url: https://www.azlyrics.com/lyrics/tonyrich/nobodyknows.html
 name: Nobody Knows
 rankings:
 - end_date: '1995-12-22'
@@ -196,65 +195,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
 ---
-
-
-Wish I told her how I feel,
-Maybe she'd be here right now
-But instead...
-
-
-I pretend that I'm glad you went away
-These four walls closing more every day
-And I'm dying inside
-And nobody knows it but me
-Like a clown I put on a show
-The pain is real even if nobody knows
-And I'm crying inside
-And nobody knows it but me
-
-Why didn't I say the things I needed to say
-How could I let my angel get away
-Now my world is just a-tumblin' down
-I can say it so clearly but you're nowhere around
-
-The nights are so lonely the days are so sad and
-I just keep thinking about the love that we had
-And I'm missing you
-And nobody knows it but me
-
-I carry smile when I'm broken in two
-And I'm nobody without someone like you
-I'm trembling inside
-And nobody knows it but me (yeah)
-
-Lie awake, it's a quarter past three
-I'm screaming at night if I thought you'd hear me
-Yeah, my heart is calling you
-And nobody knows it but me (well, well)
-
-How blue can I get?
-You could ask my heart
-But like a jigsaw puzzle it's been torn all apart
-Billion words couldn't say just how I feel
-A million years from now you know I'll be loving you still
-
-The nights are so lonely the days are so sad and
-I just keep thinking about the love that we had
-And I'm missing you
-And nobody knows it but me
-
-Oooo oohhhhh yeah
-
-Tomorrow morning, I'm a hit a dusty road
-Gonna find you, where ever, ever you might go
-And I'm gonna load my heart and hope you come back to me
-
-(Say whent the nights are lonely)
-
-The nights are so lonely the days are so sad and
-I just keep thinking about the love that we had
-And I'm missing you
-And nobody knows it but me
-
-
 

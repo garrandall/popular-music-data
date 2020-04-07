@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: say-say-say-paul-mccartney-and-michael-jackson
-lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/saysaysay.html
 name: Say Say Say
 rankings:
 - end_date: '1983-10-21'
@@ -96,47 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
 ---
-
-Say, say, say what you want
-But don't play games with my affection
-Take, take, take what you need
-But don't leave me with no direction
-
-All alone, I sit home by the phone
-Waiting for you, baby
-Through the years
-How can you stand to hear
-My pleading for you dear?
-You know I'm crying ooh ooh ooh ooh
-
-Go, go, go where you want
-But don't leave me here forever
-You, you, you stay away
-So long girl, I see you never
-
-What can I do
-Girl to get through to you?
-Cause I love you, baby
-Standing here, baptisted in all my tears
-Baby through the years
-You know I'm crying ooh ooh ooh ooh
-
-You never ever worry
-And you never shed a tear
-You saying that my love ain't real
-Just look at my face
-These tears ain't drying
-
-You, you, you can never say
-That I'm not the one who really loves you
-I pray, pray, pray every day
-That you'll see things, girl like I do
-
-What can I do girl, to get through to you?
-Cause I love you baby
-Standing here baptised in all my tears
-Baby through the years
-You know I'm crying, ooh ooh ooh ooh ooh
-
-
 

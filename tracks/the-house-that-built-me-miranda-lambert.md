@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-house-that-built-me-miranda-lambert
-lyrics_url: https://www.azlyrics.com/lyrics/boyceavenue/thehousethatbuiltme.html
 name: The House That Built Me
 rankings:
 - end_date: '2010-04-16'
@@ -88,49 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
 ---
-
-I know they say "You can't go home again"
-I just had to come back one last time
-Ma'am, I know you don't know me from Adam
-But these hand prints on the front steps are mine
-
-Up those stairs, in that little back bedroom
-Is where I did my homework and I learned to play guitar
-And I bet you didn't know under that live oak
-My favorite dog is buried in the yard
-
-I thought if I could touch this place or feel it
-This brokenness inside me might start healing
-Out here it's like I'm someone else
-I thought that maybe I could find myself
-If I could just come in I swear I'll leave
-Won't take nothing but a memory
-From the house that built me
-
-Mama cut out pictures of houses for years
-From 'Better Homes and Garden' magazine
-Plans were drawn and concrete poured
-Nail by nail and board by board
-Daddy gave life to Mama's dream
-
-I thought if I could touch this place or feel it
-This brokenness inside me might start healing
-Out here it's like I'm someone else
-I thought that maybe I could find myself
-If I could just come in I swear I'll leave
-Won't take nothing but a memory
-From the house that built me
-
-You leave home, you move on and you do the best you can
-I got lost in this whole world and forgot who I am
-
-I thought if I could touch this place or feel it
-This brokenness inside me might start healing
-Out here it's like I'm someone else
-I thought that maybe I could find myself
-If I could just come in I swear I'll leave
-Won't take nothing but a memory
-From the house that built me
-
-
 

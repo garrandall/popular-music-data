@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-we-make-it-through-december-merle-haggard
-lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/ifwemakeitthroughdecember.html
 name: If We Make It Through December
 rankings:
 - end_date: '1973-11-30'
@@ -52,39 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
 ---
-
-If we make it through December
-Everything's gonna be all right, I know
-It's the coldest time of winter
-And I shiver when I see the falling snow
-If we make it through December
-Got plans to be in a warmer town
-Come summer time
-Maybe even California
-If we make it through December
-We'll be fine
-
-Got laid off down at the factory
-And their timing's not the greatest
-In the world
-Heaven knows I've been working hard
-Wanted Christmas to be right
-For daddy's girl
-I don't mean to hate December
-It's meant to be this happy time of year
-And my little girl don't understand
-Why daddy can't afford no Christmas here
-
-If we make it through December
-Everything's gonna be all right, I know
-It's the coldest time of winter
-And I shiver when I see the falling snow
-If we make it through December
-Got plans to be in a warmer town
-Come summer time
-Maybe even California
-If we make it through December
-We'll be fine...
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: get-outta-my-dreams-get-into-my-car-billy-ocean
-lyrics_url: https://www.azlyrics.com/lyrics/fenixtx/getouttamydreamsgetintomycar.html
 name: Get Outta My Dreams Get Into My Car
 rankings:
 - end_date: '1988-02-19'
@@ -88,88 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
 ---
-
-Hey, you, get into my car
-Who me?
-Yes you, get into my car
-
-Who's that lady
-Coming down the road
-Who's that lady
-Who's that woman
-Walking through my door
-What's the score
-I'll be the sun
-Shining on you
-Hey Cinderella
-Step in your shoe
-I'll be your non-stop lover
-Get it while you can
-Your non-stop miracle
-I'm your man
-
-Get outta my dreams
-Get into my car
-Get outta my dreams
-Get in the back seat baby
-Get into my car
-Beep beep, yeah
-Get outta my mind
-Get into my life
-Oooooooooh
-Oh I said hey (Hey) you (You)
-Get into my car
-
-Lady driver
-Let me take your wheel
-Smooth operator
-Touch my bumper
-Baby, let's make a deal
-Make it real
-Like a road runner
-Coming after you
-Just like a hero
-Outta the blue
-I'll be your non-stop lover
-Get it while you can
-Your non-stop miracle
-I'm your man
-
-Get outta my dreams
-Get into my car
-Get outta my dreams
-Get in the back seat baby
-Get into my car
-Beep beep, yeah
-Get outta my mind
-Get into my life
-Oooooooooh
-Oh I said hey (Hey) you (You)
-Get into my car
-
-I'll be the sun
-Shining on you
-Hey Cinderella
-Step in your shoe
-I'll be your non-stop lover
-Get it while you can
-Your non-stop miracle
-I'm your man
-
-Get outta my...
-Get outta my dreams
-Get into my car
-Get outta my dreams
-Get in the back seat baby
-Get into my car
-Beep beep, yeah
-Get outta my mind
-Get into my life
-Oooooooooh
-Oh I said hey (Hey) you (You)
-Get into my, hey (Hey) you (You)
-Get into my, hey (Hey) you (You)
-Get into my car
-
-
 

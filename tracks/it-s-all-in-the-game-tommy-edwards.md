@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-all-in-the-game-tommy-edwards
-lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/itsallinthegame.html
 name: It's All In The Game
 rankings:
 - end_date: '1958-08-24'
@@ -96,22 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
 ---
-
-Many a tear has to fall
-But its all in the game
-All in the wonderful game
-That we know as love
-You have words with him
-And your futures looking dim
-But these things your heart can rise above
-Once in a while he wont call
-But its all in the game
-Soon hell be there at your side
-With a sweet bouquet
-And hell kiss your lips
-And caress your waiting fingertips
-And your heart will fly away
-
-
-
 

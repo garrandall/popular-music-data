@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: take-me-back-little-anthony-and-the-imperials
-lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/tearsonmypillow.html
 name: Take Me Back
 rankings:
 - end_date: '1965-07-02'
@@ -52,38 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
 ---
-
-You don't remember me
-But I remember you
-Twas' not so long ago
-You broke my heart in two
-
-Tears on my pillow
-Pain in my heart
-Caused by you...
-
-If we could start a new
-I wouldn't hesitate
-I'd gladly take you back
-And tempt the hand of fate
-
-Tears on my pillow
-Pain in my heart
-Caused by you...
-
-Love is not a gadget
-Love is not a toy
-When you find the one you love
-She'll fill your heart with joy
-
-If we could start a new
-I wouldn't hesitate
-I'd gladly take you back
-And tempt the hand of fate
-
-Tears on my pillow
-Pain in my heart
-Caused by you...
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: breaking-up-is-hard-to-do-neil-sedaka
-lyrics_url: https://www.azlyrics.com/lyrics/fourseasons/breakingupishardtodo.html
 name: Breaking Up Is Hard To Do
 rankings:
 - end_date: '1962-07-06'
@@ -120,46 +119,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
 ---
-
-Do do do
-Down dooby doo down down, comma comma
-Down dooby doo down down, comma comma
-Down dooby doo down down
-Breaking up is hard to do
-
-Don't take your love away from me
-Don't you leave my heart in misery
-If you go then I'll be blue
-'Cause breaking up is hard to do
-
-Remember when you held me tight
-And you kissed me all through the night
-Think of all that we've been through
-And breaking up is hard to do
-
-They say that breaking up is hard to do
-Now I know, I know that it's true
-Don't say that this is the end
-Instead of breaking up I wish that we were making up again
-
-I beg of you don't say goodbye
-Can't we give our love another try?
-Come on baby, let's start anew
-'Cause breaking up is hard to do
-
-(They say that breaking up is hard to do)
-Now I know I know that it's true
-(Don't say that this is the end)
-Instead of breaking up I wish that we were making up again
-
-I beg of you don't say goodbye
-Can't we give our love another try?
-Come on baby, let's start anew
-Since breaking up is hard to do
-
-Down dooby doo down down, comma comma
-Down dooby doo down down, comma comma
-Down dooby doo down down
-
-
 

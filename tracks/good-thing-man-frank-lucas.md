@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: good-thing-man-frank-lucas
-lyrics_url: https://www.azlyrics.com/lyrics/methodman/imdopenigga.html
 name: Good Thing Man
 rankings:
 - end_date: '1977-07-01'
@@ -20,85 +19,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
 ---
-
-
-Straight up, nigga
-Brick City on fire, nigga
-We on fire, nigga
-(Beast shit) yeah
-(Oh yeah, my mic sound real nice, check it)
-(Yeah, uh, ok) yessir
-Hot off the press, yo, yo
-
-
-Check out the, main attraction, black man in action
-The orangutan that remain a captain
-You need a boost, I'm the right thing to tap in
-Cuz hip hop is lame, the whole game is lacking
-I make my commission off, weed and shows
-Chicks wanna spread rumors like Club New Vogue
-But I pimp it like my ruff-ruff-ruff-ruff, we don't love them hoes
-Each flow that I'm spitting sound mall nutrition
-But it's phat when the clip in, boy, I mean business
-We got beef for the teeth, with soy bean niggas
-Redman & Method Man, stay in the lab
-America meet the new Tango & Cash
-Hip hop is in trouble, I stay on the pad
-Rappers wanna feature me, I'm like give me a math
-I'm like "nah", I'mma keep it funky, nigga
-Talk 20, cuz for money, I"m a junkie nigga
-
-
-I'm dope, nigga (yeah, that's what the say)
-(Frank Lucas with the pen, get at me, ok?)
-I'm dope, nigga, dirty needle stuck in the arm
-Hustle til the package is gone, never tuck in my charm, cuz I'm
-I'm dope, nigga (now I'm out to my dope)
-(Nino Brown takeover, that's how I roll)
-Now let me smoke witcha, hard when the kid on the job
-Keep a step ahead of the law, push the peddle and floor
-
-
-I got that small change, my nigga, quarters, nickels & dimes
-I might cop a little shine, favorite pistol, a nine
-I can't deal with fickle minds cuz I'm too official with mine
-Put your nose in my notebook and go and sniff you a line
-I'm dope, nigga, I'm heroin in it's prime
-While the game is on it's decline, bitches on my define
-I fine rhyme and easy, but I ain't easy to find
-Number one on my to do list, please believe me, it's crime
-Ain't with the tom foolery, Meth, if you don't know that
-I'mma bet on what to do with me, yet, go 'head and Google me
-Your boy flow fluently, yes, still got that Wu in me
-Screw it, let me do it to death, minus the eulogy
-Ah-hah, I'm ahead of the game, ahead of these lames
-I'm a head case, the head nurse is getting better with brain
-Let me network, the rest of you niggas stay in your lane
-Know your network, now back to the script, like I was saying
-
-
-
-
-The hip hop Yogi Berra, New York, let's get together
-It took a '90's boy, to flow in your era
-Niggas never saw me when I write, and signed in a letter
-I was born the son of Helen Keller
-My skin is Old Yeller, but a bitch dig a fella
-She like the way car wheels flip the propellers
-I 'stay fly' like Three 6, someone tell her
-Doc & Meth tough like Run-DMC leather
-
-
-I'm the 'king of rock', dimes, grams and ki's
-Cuz the world don't give a fuck if I got a fam to feed
-This a heroin dream, smash up a fiend
-You can see this pack in my jeans, put you back on your lean
-Yeah, back for a fit, back on my shit
-Got my ex from back in the days, even back on my dick
-This is crack shit, ya'll do it big, I super size
-Coke Classic, my nose in the 'cane, like Super Fly, cuz I'm
-
-
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: -there-s--always-something-there-to-remind-me-lou-johnson
-lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/theresalwayssomethingtheretoremindme.html
 name: (There's) Always Something There To Remind Me
 rankings:
 - end_date: '1964-08-28'
@@ -36,54 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
-
-I walk along those city streets 
-You used to walk along with me
-And every step I take recalls 
-How much in love we used to be
-
-How can I forget you
-When there is always something there to remind me? 
-Always something there to remind me
-I was born to love you
-And I will never be free
-You'll always be a part of me
-Whoa-ooo-ohhh-oh
-
-If you should find you miss 
-The sweet and tender love 
-We used to share
-Just go back to the places 
-Where we used to go
-And I'll be there
-
-How can I forget you
-When there is always something there to remind me? 
-Always something there to remind me
-I was born to love you
-And I will never be free
-You'll always be a part of me
-Whoa-ooo-ohhh-oh
-Whoa-oh-ooo-ohhh
-
-If you should find you miss 
-The sweet and tender love 
-We used to share
-Just come back to the places 
-Where we used to go
-And I'll be there
-
-How can I forget you
-When there is always something there to remind me? 
-Always something there to remind me
-I was born to love you
-And I will never be free
-When there is
-When there is
-When, there, is
-Always something there to remind me
-Always something there to remind me
-Always something there to remind me
-
-
 

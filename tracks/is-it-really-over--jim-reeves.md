@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: is-it-really-over--jim-reeves
-lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/isitreallyover.html
 name: Is It Really Over?
 rankings:
 - end_date: '1965-08-20'
@@ -32,28 +31,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
 ---
-
-Is it really over
-Is this the end of the line
-Don't tell me I'm losing
-The love that was mine
-
-If you're really leaving
-Take some part of me
-So I'll always remember
-How sweet love used to be
-
-I wonder who's stepping into my shoes
-Who can he be
-I can tell by your eyes our love has died
-And it's over for me
-
-I wonder who's stepping into my shoes
-Who can he be
-I can tell by your eyes our love has died
-And it's over for me
-
-Really over for me...
-
-
 
