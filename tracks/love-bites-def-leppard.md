@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-bites-def-leppard
-lyrics_url: https://www.azlyrics.com/lyrics/defleppard/littlebitoflove.html
 name: Love Bites
 rankings:
 - end_date: '1988-08-19'
@@ -100,63 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
-
-I believe
-If you give
-A little bit of love
-To those you live with
-A little bit of love
-Oh oh oh
-Has gotta come your way.
-
-Well in my mind
-It's easy
-To lose sight of the truth
-But in my heart
-I can't deny
-My feeling inside
-
-'Cos I believe
-If you give
-A little bit of love
-To those you live with
-A little bit of love
-Oh oh oh
-Has gotta come your way.
-
-Man in the sky
-You say you are flying
-To lose sight of the world
-You wanna stay high
-Then don't deny
-Your feeling inside
-
-'Cos I believe
-If you give
-A little bit of love
-To those you live with
-A little bit of love
-Oh oh oh
-Has gotta come your way.
-
-Yeahh!
-Whooo!
-
-I believe
-If you give
-A little bit of love
-To those you live with
-A little bit of love
-Oh!
-Has gotta come your way.
-
-I believe
-If you give
-A little bit of love
-To those you live with
-A little bit of love
-Whooooo
-Has gotta come your way
-
-
 

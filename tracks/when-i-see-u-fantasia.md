@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: when-i-see-u-fantasia
-lyrics_url: https://www.azlyrics.com/lyrics/fantasiabarrino/wheniseeuremix.html
 name: When I See U
 rankings:
 - end_date: '2007-04-27'
@@ -100,85 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
 ---
-
-
-Everybody like he's no item
-Please don't like him
-He don't wife 'em
-He one nights 'em
-And I value my friends to hang 'cause I don't wanna fight 'em
-But I'm really feelin' that this one is the right one
-You always on my mind when the night comes
-So I leave a key under the door mat just in case you might come
-Staring at my window
-Picture on my wall
-Phone on my pillow so I hear it if you call
-If you saw how I be when I see you
-Baby I even be blushing when I leave you
-Its something bout my body being next to you
-So sexy boy
-You sexy boy
-You make me shy
-And I get nervous
-If you know it I think you staring at my eyes on purpose
-So I'm wishing on a sign hoping for it to come true
-I wonder if you know or do you have a clue
-
-
-I put your picture on my mirror,
-Start to blush when somebody say's your name
-In my Stomach theres a pain
-See you walk in my direction I go the other way
-I start to stutter when I Speak
-Try to stand but my knees go weak
-What happening to me in the dark can you tell me what it means
-I lay my head on my pillow
-Staring out the window
-Wish on a star for a sign
-Its the Reason why
-Your always on my mind
-When you come around I'm shy
-When I see you, when I see you
-Never no when you might walk by
-So I gotta be right on time
-When I see you when I see you
-I scribble X and O's in my notebook
-Checking how my hair and nails look
-I feel myself in the zone
-I get nervous when you call
-So I say I'm not home
-I see your face when I here my Favorite song
-Should I Send an email at home
-Your the number 1 topic on the phone,
-I wonder if you know or do you have a clue
-I lay my head on my pillow
-You got me staring out the window
-Wish on a star for a sign
-Whats the reason why Yeah...
-
-
-Something now is taking over me and I don't know how
-But I gotta be on time when ever you come around
-Ask me when I'm coming
-I'm coming right now
-I think about you whenever I go to Mr. Charles
-Got a pen n a napkin
-Writing our names down
-Our first name
-With your last name
-I know we not married but I'm practicing
-I'm not going to run
-I'm having fun
-Doing whatever your ready tell me
-I'mma have your son
-With you in my presents
-I'mma different individual
-Things drastically change
-And you are my visual
-See I'm prepared
-Or I'm so scared, nothing compares to how much I care
-So I'm wishing on a sign and hoping it comes true
-I wonder if you know or do you have a clue
-
-
 

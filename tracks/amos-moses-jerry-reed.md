@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: amos-moses-jerry-reed
-lyrics_url: https://www.azlyrics.com/lyrics/jerryreed/amosmoses.html
 name: Amos Moses
 rankings:
 - end_date: '1970-11-06'
@@ -104,37 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
 ---
-
-Yeah here comes Amos
-Now Amos Moses was a Cajun he lived by himself in the swamp
-He hunted alligators for a livin' heâd just knock 'em in the head with a stump
-The Louisiana law's gonna get ya Amos
-It ain't legal huntin' alligators down in the swamp boy
-Now everybody blames his old man for makin' him mean as a snake
-When Amos Moses was a boy his daddy would use him for alligator bait
-Tie a rope around his waist and throw him in the swamp ha ha ha
-Alligator bait in the Louisiana bayou
-About forty five minutes southeast of Thibodaux Louisiana
-Lived a man called Doc Millsap and his pretty wife Hannah
-Well they raised up a son that could eat up his weight in groc'ries
-Named him after the man of the cloth called him Amos Moses
-Yeah ha ha
-
-Now all the folks around south Louisiana said Amos was a hell of a man
-He could trap the biggest the meanest alligator and just use one hand
-That's all he got left cause the alligator bit him ha ha ha
-Left arm gone clean up to the elbow
-Well the sheriff got wind that Amos was in the swamp trappin' alligator skins
-So he snuck in the swamp gonna get the boy but he never come out again
-Well I wonder where the Louisiana sheriff went to
-Well you can sure get lost in the Louisiana bayou
-About forty five minutes southeast of Thibodaux Louisiana
-Lived a cat called Doc Millsap and his pretty wife Hannah
-Well they raised up a son that could eat up his weight in groc'ries
-Named him after a man of the cloth called him Amos Moses
-Sit down on 'em Amos make it count son
-About forty five minutes southeast of Thibodaux Louisiana
-Lived a cat called Doc Millsap and his pretty wife Hannah
-
-
 

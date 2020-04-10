@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dontchange-musiq
-lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/dontchange.html
 name: dontchange
 rankings:
 - end_date: '2002-09-13'
@@ -112,59 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
-
-
-Lately you've been questioning 
-If I still see you the same way 
-Cause through these trying years
-We gonna both physically change 
-
-Now don't you know you you'll always be
-The most beautiful woman I know 
-So let me reassure you darlin that
-My feelings are truly unconditional 
-
-
-See I'll love you when your hair turns gray, girl
-I'll still want you if you gain a little weight, yeah
-The way I feel for you will always be the same 
-Just as long as your love don't change, No
-
-I was meant for you and you were meant for me, yeah
-And I'll make sure that I'll be everything you need, yeah
-Girl the way we are is how its gonna be 
-Just as long as your love don't change
-
-
-Cause I'm not impressed, more or less 
-By them girls in the T.V and magazines
-Cause honestly I believe that your beauty 
-Is way more than skin deep
-Cause everything about you makes me feel 
-I have the greatest gift in the world
-And even when you get on my last nerve 
-I couldn't see myself being with another girl
-
-
-
-
-So don't waste your time worryin bout
-Small things that ain't relevant to me
-Cause to my understanding your all I want and need
-See what I'm tryin to say is I'm here to stay 
-And as long as your love doesnât change, then 
-
-Baby darling I swear that I,
-I swear I ain't going nowhere no. 
-
-
-
-Youâre my baby, yeah
-Don't you change baby, no 
-Baby you gotta understand that I love you baby, yeah
-Donât you know, you gotta know
-Youâve got to know
-Yeah, yeah
-
-
 

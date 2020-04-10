@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: promise-me-love-andy-williams
-lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/inthearmsoflove.html
 name: Promise Me Love
 rankings:
 - end_date: '1958-09-07'
@@ -56,24 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
-
-If I could hold you in the arms of love tonight
-I'd never let you go
-As the hours go by I'd show you why we've waited for this
-As two lovers whisper low
-
-If I could feel that magic kiss your lips invite
-Imagine the joys I'd know
-The day has died away, let's find a hideaway
-And share the promise of a new tomorrow
-In the arms of love tonight
-
-The day has died away, let's find a hideaway
-And share the promise of a new tomorrow
-In the arms of love tonight
-
-Hmm, hmm, hmm, hmm
-Hmm, hmm, hmm, hmm
-
-
 

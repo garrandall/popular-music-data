@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: banjo-rascal-flatts
-lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/banjo.html
 name: Banjo
 rankings:
 - end_date: '2012-03-09'
@@ -76,77 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
 ---
-
-When I lose my smile
-When my thoughts get jumbled
-When the air and BS get too thick
-Canât take a breath without getting sick
-Iâve had enough with this concrete jungle
-I drop my truck in drive
-I pick up my baby
-She jumps in with a kiss and a hey
-We exit off that old highway
-Sometimes you gotta go beyond the pavement
-
-
-You gotta go deep
-Way on back
-Cross a few creeks
-And a couple little shacks
-You gotta get lost
-Way on out
-Crickets and frogs
-Yeah youâre gettinâ close now
-And you kick it into four wheel drive when you run out of road
-And you go, and you go and you go-go-go
-âTil you hear a banjo
-
-It ainât on no map
-And Iâm glad it isnât
-Leave the phone and the GPS,
-Those satellites ainât found it yet,
-Got our own little piece of heaven hidden
-
-
-Yeah, you gotta go deep
-Way on back
-Cross a few creeks
-And a couple little shacks
-You gotta get lost
-Way on out
-Crickets and frogs
-Yeah youâre gettinâ close now
-And you kick it into four wheel drive when you run out of road
-And you go, and you go and you go-go-go
-âTil you hear a banjo
-
-You gotta go deep
-Way on back
-Cross a few creeks
-And a couple little shacks
-You gotta get lost
-Way on out
-Crickets and frogs
-Yeah youâre gettinâ close now
-And you kick it into four wheel drive when you run out of road
-And you go, and you go and you go and you go and you go
-
-Oooh hoo
-
-âTil you hear that banjo
-Kick it
-
-You gotta go deep
-Way on back
-Oh oh oh
-Cross a few creeks
-And a couple little shacks
-Oh oh oh
-Four wheel drive when you run out of road
-Oh oh oh
-And you go and you go, and you go
-âTil you hear that, âtil you hear that
-âTil you hear that banjo
-
-
 

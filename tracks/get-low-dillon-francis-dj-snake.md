@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: get-low-dillon-francis-dj-snake
-lyrics_url: https://www.azlyrics.com/lyrics/dillonfrancis/getlowremix.html
 name: Get Low
 rankings:
 - end_date: '2015-04-24'
@@ -45,44 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
 ---
-
-Blow
-Blow
-Blow
-Blow
-
-Hello ladies
-How are we?
-Hello ladies
-How are we?
-Don't throw shade
-Throw parties
-Don't throw fists
-Throw parties
-I'm gonna lean a little closer
-Just so you're hearing every word that I say
-It might take a little longer
-For you to catch the new wave
-
-If you've got love for Dillon Francis, DJ Snake and Rae Srem
-B, you gotta bust it open, let me see if it's real
-When that whistle blow, I wanna see that ass touch the ceiling
-You gotta do all of that shit that you would do with your friends
-You gotta do all of that shit that you would do in the mirror
-Go ahead and turn up with your bitches, let em know that you're here
-Get low, get low, get low, get low
-Get, get, get, get (get low when the whistle blow)
-
-(Get, get, get low when the whistle blow)
-
-You should come and get it while it's still hot
-You should come and get it while it's still hot
-You should come and get it while it's still hot
-You should come and get it while it's still hot
-You should come and get it
-You should come and get it
-You should come and get it, get it, get it
-You should come and get it (get low when the whistle blow)
-
-
 

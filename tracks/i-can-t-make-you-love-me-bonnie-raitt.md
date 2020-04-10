@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-can-t-make-you-love-me-bonnie-raitt
-lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/iwillnotbedenied.html
 name: I Can't Make You Love Me
 rankings:
 - end_date: '1991-11-29'
@@ -88,71 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
 ---
-
-A true love story
-Is hard to find
-Can't get no rest
-Got no peace of mind
-You say you gave
-Your heart to me
-You put me down
-You set me free
-You said you're deadly
-Everybody said you was deadly
-I guess you know he is because
-Deadly
-Comes in every shape and size
-Deadly
-Always takes you by surprise
-There you was
-The only one
-Coming on me and ruining my fun
-Leave me setting
-At home all alone
-Waitin on your call by the telephone
-You said you're deadly
-Everybody said you was deadly
-Guess you know you always was deadly
-Comes in every shape and size
-Deadly
-Finally made me realize
-That I tried and tried
-But you just cant get enough
-So you lied and lied and lied
-I will not be denied
-I'm gonna plant a seed
-I will not be denied
-Of the man and the love I need
-
-Said you're deadly
-Everybody said you was deadly
-Guess you know you are because
-Deadly
-Comes in every shape and size
-Deadly
-Always takes you by surprise
-Its a sad situation
-When yes it's true
-I can say it baby
-I'm through with you
-Its over now
-And in the past
-Gonna find me a man
-With a love that'll last
-You know he's deadly
-Everybody said you was deadly
-Guess you know you always been
-Deadly
-Comes in every shape and size
-Deadly
-Finally made me realize
-That I tried and tried
-But you just couldnt get enough
-And so you
-Lied and lied and lied
-And I will not be denied
-I will not be denied
-I will not be denied
-
-
 

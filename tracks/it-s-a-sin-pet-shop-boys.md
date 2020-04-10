@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-s-a-sin-pet-shop-boys
-lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/werethepetshopboys.html
 name: It's A Sin
 rankings:
 - end_date: '1987-09-11'
@@ -84,58 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
 ---
-
-Suburbia's a slipstream
-To a memory
-Of a time when you were
-Close to me
-I pretend
-I'm there again
-I close my eyes and see you
-Better than before
-Then I feel you touch me
-And it's 1984
-I know what you will say
-Before you start
-In my heart
-
-We're the Pet Shop Boys
-We're the Pet Shop Boys
-
-Every thought's a fashion
-Or a crime
-And every boy is just
-A waste of time
-But I pretend
-It was different then
-Maybe it's a habit
-Maybe it's a sin
-But I find out
-When I try it on
-It crawls beneath my skin
-Once it gets inside me
-It won't go
-Now I know
-
-We're the Pet Shop Boys
-We're the Pet Shop Boys
-
-Rent
-Shopping
-Being boring
-It's alright
-It's a sin
-I'm not scared
-In denial
-I want a dog
-I want a lover
-Can you forgive her?
-Do I have to?
-What have I? What have I?
-What have I done to deserve this?
-
-We're the Pet Shop Boys
-We're the Pet Shop Boys
-
-
 

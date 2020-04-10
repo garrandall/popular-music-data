@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: p2-lil-uzi-vert
-lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/p2.html
 name: P2
 rankings:
 - end_date: '2020-03-27'
@@ -12,82 +11,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
-
-Ooh, I'm startin' over
-Stackin' in it, with the top, now are you alright?
-I'm quite alright, damn, my money's right
-Yeah, ayy, yeah, it's quite alright
-I wake up in the morning, then I'm gettin' back to it (Back to it)
-Yeah, yeah, I'm gettin' back to it
-You ain't show me no love, so I turned my back to you, yeah, yeah
-I can't give no racks to you (8â¦)
-
-I don't really care 'cause I'm done
-On the real, our love is not fun
-There's no emotion on my face 'cause I'm numb
-You see me everywhere you look, no, you can't hide or run (Yeah, Lil Uzi, yeah)
-Woah, everything I said
-Messin' with your head, messin' with your head
-I said, everything I said, messin' with your head
-Messin' with your head, woah, messin' with your head, woah
-
-I been textin' her all night (Night), she know I was doin' wrong (Yeah)
-She left me right on read now, I'm walkin' with my head down (I love you)
-I gotta keep my head high
-I got a whole 'nother check, not talkin' verified (Okay)
-Rest in peace my dead guys
-I am no hater, yeah, we in the same whip
-The only difference is that you do not own it (Skrrt, skrrt)
-I can just tell by the way that you drivin' it
-I pull up in that car just like it's stolen
-Yeah, came a long way, came from the hallway
-I can't stop, keep goin'
-Yes, my life just feel like one long day, I just live in the moment
-Woah, uh, comin' out just when the sun down
-My boys, they roofless like coupes and they really run down
-I got paper cuts from money, dollar bills covered in bustdowns
-Countin' with my thumb now, money make me numb now
-
-I don't really care 'cause I'm done
-On the real, our love is not fun (Yeah)
-There's no emotion on my face 'cause I'm numb
-You see me everywhere you look, no, you can't hide or run (Run)
-Yeah, everything I said
-Messin' with your head, messin' with your head
-I said, everything I said messin' with your head
-Messin' with your head, woah, messin' with your head, woah
-
-I just got richer overseas, yeah
-Lookin' at my watch and it's a Richard and it's green, yeah
-I'm still smokin' on that good, know I'm blowin' out that steam, yeah
-You wouldn't even believe the numbers stuffed up in my jeans, yeah
-Tell that girl to back-back, gotta stack racks (Ayy)
-No, I can't go out sad, can't go out bad, yeah
-I told that girl I'm not no duck, this ain't Aflac, yeah
-I don't wanna get older, I'm still livin' in my last year
-I hope my life just keep goin', don't worry 'bout that
-Just tighten up and keep flowin', cowabunga
-She gon' ride me like wakeboard (Yeah)
-I'm lickin' on her body until she don't make noise, yeah (Noise)
-
-I don't really care 'cause I'm done
-On the real (Real), our love is not fun
-There's no emotion on my face 'cause I'm numb
-You see me everywhere you look, no, you can't hide or run
-Yeah, yeah, everything I said
-Messin' with your head, messin' with your head
-I said, everything I said, messin' with your head
-Messin' with your head, woah, messin' with your head, woah
-
-Woah, I said, messin' with your head, woah
-Messin' with your head
-Yeah
-Thank you
-No, really, thank you
-You're far too kind
-You, and you, and you, experience of a lifetime
-I see all it (Yeah)
-Yeah, I really appreciate you
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-me-tender-percy-sledge
-lyrics_url: https://www.azlyrics.com/lyrics/percysledge/youreallaroundme.html
 name: Love Me Tender
 rankings:
 - end_date: '1967-06-23'
@@ -32,28 +31,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
-
-You're all around me, your sweet love surrounds me
-And your gentle voice still lingers on and on and on
-You're everywhere, your tender love and care
-Still remain on everything you touched
-
-Hear you're gone, but your goodness still stays on
-And I thank you for these precious memories
-For without them it ain't worth living
-And I think about the love you've given
-And it's almost as if you were here
-Right here in my room
-
-Oh, you're all around me
-And can't nothing ever, ever bring me down
-'Coz you're all around me, all around me
-All around me
-
-Whoa, you're all around me, girl
-Your tender love is all around me, yeah
-Your pretty smile is all, all around me, yeah
-Your tender love is all around me, oh
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: foreign-trey-songz
-lyrics_url: https://www.azlyrics.com/lyrics/treysongz/foreignremix.html
 name: Foreign
 rankings:
 - end_date: '2014-07-25'
@@ -48,68 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
 ---
-
-Les filles aux quatre coins du monde, profitez du son, Ã§a va Ãªtre un Ã©tÃ© chaud
-Justin Bieber
-This is the re-mix
-JB
-
-
-Letâs get going, are you foreign or complaining only moaning
-Dominican, Puerto Rican, yeah, you know they do it for me
-See me in a Ferrari in my mind that thing is fun
-If it had some wings, we'd be flying, we'd be soaring
-Ah-ah-ah, When I'm in it I'll be thinking I don't want this thing to stop
-No-o-o, But I'm thinking that you're winning if you make it to the top
-Fly, That probably means you make me feel some type of way
-Shoutout Miami for having so many foreign babes
-
-
-She only been here for two weeks
-(Came with the girls) Came with the girls and they tryna leave with me
-(She workinâ hard) She workin' hard like she tryna get a visa
-(The way she twerk it) The way she twerk it I just might pull out my Visa
-
-
-After we leave girl, you know where you going
-Straight to the 'tel, you ain't leaving 'till the morning
-Same old thing, yeah you know that shit's boring (that shit's boring)
-American you know I had to cop that foreign (cop that foreign)
-American you know I had to cop that foreign
-(She got on a bad bikini, when we in the Lamborghini)
-American you know I had to cop that foreign
-(She from another country, but I brought her to the city with me)
-I know it's never boring
-American you know I had to cop that foreign
-Uh huh
-
-
-Just got back from Africa, I swear I saw about 50 thousand queens
-(This is the remix) Touched down in Paris, had her waiting, had her waiting for me
-Like Ou la la la, oh oui oui, câest la vie
-Off up on the islands, screams turn to silence
-Fuck, drink, sleep
-Hit it seven days âcause you know your man's weak
-Make that body talk, know to make that thing speak, such a freak
-
-
-
-
-
-
-And she be like "Ay que rico" when I'm going real deep though
-You can give me all of them besos, just stay low, do what I say so
-Fuck me now, oh damn, shawty go H.A.M, do with no hands
-Got me so high, Holland, Amsterdam, Iceland , China, Tokyo, Japan
-
-
-Donât understand what she speaks, but I break her body down, sheesh
-Just like the beat, ay JB whatâs the word out on the street?
-No matter who sheâs with, if she get a remix...
-
-
-
-
-
-
 

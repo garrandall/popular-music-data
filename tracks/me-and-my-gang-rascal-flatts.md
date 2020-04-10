@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: me-and-my-gang-rascal-flatts
-lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/meandmygang.html
 name: Me And My Gang
 rankings:
 - end_date: '2006-06-02'
@@ -72,51 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
 ---
-
-Way on down to southern Alabama
-With the guitars jamminâ
-Thatâs where weâre headed
-Straight up to Butte, Montana
-Singinâ âLord, I Was Born a Ramblinâ Manâ
-California to Oregon, even New York City
-Got one or two hillbillies
-Ready to hit the road
-
-
-Itâs a brothers and a sisters kind of thang
-Raise up your hands if you all wanna hang
-With me and my gang
-We live to ride, we ride to live
-Me and my gang, jump on that train
-Grab hold of them reigns
-Weâre gonna rock this thang, cock this thang
-
-Me and my gang, yeah â me and my gang
-
-We got hippies, gypsies, freaks and geeks
-High class women in Daisy Duke denim
-Bangin on gongs and singing our songs
-Dude named Elrock jamminâ on an iPod
-Beer and bonfires
-Wide open throttle
-Coors in a bottle
-Itâs all for one and one for all, yaâll
-
-
-Me and my gang, yeah â Woo!
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-Na, Na, Na, Na, Na, Na
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-
-
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-Na, Na, Na, Na, Na, Na, Na, Na, Na, Na, Na
-
-Yeah â With me and my gang
-Jump on that train â whoa!
-Grab hold of them reigns, baby!
-
-
 

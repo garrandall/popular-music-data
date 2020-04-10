@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-i-ever-fall-in-love-shai
-lyrics_url: https://www.azlyrics.com/lyrics/shai/ifieverfallinloveremix.html
 name: If I Ever Fall In Love
 rankings:
 - end_date: '1992-10-23'
@@ -116,66 +115,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
-
-
-Shai... coming right back at ya baby
-Part 2
-Remix... Ooooooh
-If I ever fall in love again
-The next time the lady will be
-Just like you
-
-
-The very first time
-That I saw your brown eyes
-Your lips said "hello" and I said "hi"
-I knew right then you were the one
-But I was caught up
-In physical attraction
-But to my satisfaction
-Baby you were more than just a friend
-
-
-And if I ever fall in love again
-I will be sure that the lady is
-A friend
-And if I ever fall
-In love so true
-I will be sure that
-The lady's just like you... ohhh
-
-
-Yea, Baby yea,
-My, my, my, my, my, my
-I swear the next time she'll be my friend
-
-
-If I say that I can be your one and only
-Promise that you never leave me lonely
-I just wanna be the one you need (oh baby)
-I just wanna be the one to serve you
-Sometimes I feel as if I don't deserve you
-I'll cherish every moment that we share
-
-
-
-
-Hey baby I made a Promise
-The next time I fell in love,
-That my love would also be my friend
-Somebody who would be there
-Thru the thick and thin (Oooooh)
-To love me, to hold me
-Comfort me, somebody who could be
-There all thru the night
-Somebody just like you
-
-
-My Friend...
-Very next time she will be my friend
-Someone who I can believe in...
-
-
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-need-to-know-tom-petty-and-the-heartbreakers
-lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/dontdomelikethat.html
 name: I Need To Know
 rankings:
 - end_date: '1978-06-23'
@@ -48,72 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
-
-I was talking with a friend of mine, said a woman had hurt his pride
-Told him that she loved him so and turned around and let him go
-Then he said, "You better watch your step
-Or you're gonna get hurt yourself
-Someone's gonna tell you lies, cut you down to size"
-
-Don't do me like that
-Don't do me like that
-What if I love you baby?
-Don't do me like that
-
-Don't do me like that
-Don't do me like that
-Someday I might need you, baby
-Don't do me like that
-
-Listen honey, can you see? Baby, it would bury me
-If you were in the public eye givin' someone else a try
-And you know you better watch your step
-Or you're gonna get hurt yourself
-Someone's gonna tell you lies, cut you down to size
-
-Don't do me like that
-Don't do me like that
-What if I love you baby?
-Don't, don't, don't, don't
-
-Don't do me like that
-Don't do me like that
-What if I need you baby?
-Don't do me like that
-
-'Cause somewhere deep down inside
-Someone is saying, "Love doesn't last that long"
-I've had this feelin' inside night and day in
-And baby I can't take it no more
-
-Listen honey, can you see? Baby, it would bury me
-If you were in the public eye givin' someone else a try
-And you know you better watch your step
-Or you're gonna get hurt yourself
-Someone's gonna tell you lies, cut you down to size
-
-Don't do me like that
-Don't do me like that
-What if I love you baby?
-Don't, don't, don't, don't
-
-Don't do me like that
-Don't do me like that
-I just might need you honey
-Don't do me like that
-
-Wait!
-Don't do me like that
-Don't do me like that
-Baby, baby, baby,
-Don't, don't, don't
-
-No!
-Don't do me like that
-Don't do me like that
-Baby, baby, baby...
-
-Oh, oh, oh
-
-
 

@@ -6,7 +6,6 @@ features:
 - Ke$ha
 genres: []
 key: till-the-world-ends-britney-spears-nicki-minaj-ke-ha
-lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/tilltheworldendsremix.html
 name: Till The World Ends
 rankings:
 - end_date: '2011-03-25'
@@ -106,80 +105,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
 ---
-
-
-Till The World Ends (Remix)
-
-
-Chimpanzees is hatin', but I take it all in stride
-Put her in a jungle with bananas on the side
-Told you they'd revive your career but somebody lied
-I ain't talking poultry when I say this chicken's fried
-
-Anyway, Britney
-Why they so jealous that you teamed up with me?
-Tell 'em they my son. Yup, gyal 'em a mi pickney
-Anyway, brembedell
-What's that? I don't know. Femme Fatale
-
-Sniff, sniff, cries
-I done slayed your whole entire fucking life
-You got some Epsom Salt
-I done balled all day you ain't touched the court
-
-What? What you tired? You need a break?
-You was hot when? Ricki Lake!
-
-
-I notice that you got it
-You notice that I want it
-You know that I can take it
-To the next level, baby
-If you want this good shit
-This is the remix
-Baby, let me blow your mind tonight
-
-
-It's Britney bitch. I'm Nicki Minaj, and that's Kesha!
-
-
-I can't take itâtake itâtake no more
-Never felt likeâfelt like this before
-Come on get meâget me on the floor
-DJ, what youâwhat you waitin' for?
-
-
-Watch me move when I loseâwhen I lose it hard
-Get you off with the touch dancing in the dark
-
-You notice what I'm wearin'
-I'm noticin' you're starin'
-You know that I can take it
-To the next level, baby
-Hotter than the A-list
-Next one on my hit list
-Baby, let me blow your mind tonight!
-
-
-I can't take itâtake itâtake no more
-Never felt likeâfelt like this before
-Come on get meâget me on the floor
-DJ, what youâwhat you waitin' for?
-
-See the sunlight
-We ain't stoppin'
-Keep on dancing 'til the world ends
-If you feel it, let it happen
-Keep on dancing 'til the world ends
-
-Keep on dancing 'til the world ends
-Keep on dancing 'til the world ends
-
-See the sunlight
-We ain't stoppin'
-Keep on dancing 'til the world ends
-If you feel it, let it happen
-Keep on dancing 'til the world ends
-
-
 

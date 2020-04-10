@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: away-from-me-puddle-of-mudd
-lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/awayfromme.html
 name: Away From Me
 rankings:
 - end_date: '2003-11-28'
@@ -72,74 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
 ---
-
-Yea Lies
-
-Look at me now 
-Just sittin here by myself
-And I think you found someone else
-Now I'm gonna have to find 
-A way to put the bottle down
-And  why canât you see
-That Iâm drowning in a pool of misery
-
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid
-That youâre lost in somebody
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid 
-That youâre lost
-
-So here I am 
-I don't wanna be by myself
-And I think youâre fucking someone else
-now im gonna have to find a way
-To take the knife out of my back
-And how could you leave me
-Stranded in a closet full of bones
-
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid
-That youâre lost in somebody
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid 
-That youâre lost
-
-Maybe you could let me stay
-Maybe just for one more day
-You could help me stay the same
-Maybe things wonât ever change
-Maybe we could taste the rain
-You could push me out the way
-
-Now I sit here by myself
-Think about somebody else
-How could you let them take you away from me
-Thereâs somebody else
-Thereâs somebody else!
-
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid
-That youâre lost in somebody
-Iâm always afraid
-That youâre gone
-Away from me
-Iâm always afraid 
-That youâre...
-
-Iâm always afraid 
-
-Away From Me
-
-
 

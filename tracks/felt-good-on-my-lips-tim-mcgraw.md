@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: felt-good-on-my-lips-tim-mcgraw
-lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/feltgoodonmylips.html
 name: Felt Good On My Lips
 rankings:
 - end_date: '2010-11-26'
@@ -88,53 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
 ---
-
-Said her name was a hand me down name
-From the side of a family that long ago came
-Over here on a boat from somewhere in Spain
-Sounded to me just a little bit strange, I guess.
-But I have to admit, it felt good on my lips.
-
-She tipped the DJ to play her favorite song
-A Spanish little number that was a rockin' on strong
-She grabbed me by the sleeve and said, "Let's go and get it on"
-By the second chorus I was singing right along with it
-I donât know what it meant but it felt good on my lips.
-
-Oh oh oh I.. I wanna go crazy
-You can go crazy too
-Oh oh oh I.. I wanna go crazy
-I wanna go crazy with you
-
-Everybody sayin' whoa how sweet it is
-Whoa yeah it felt good on my lips
-
-She ordered us a drink
-It was a purple kind of pink
-She said itâs got a shot of a little bit of everything
-Mellow yellow umbrella for a fella like me
-It was just a bit mellow for me to be seen with
-But I took a sip
-Yeah it felt good on my lips
-
-Oh oh oh I.. I wanna go crazy
-You can go crazy too
-Oh oh oh I.. I wanna go crazy
-I wanna go crazy with you
-
-Everybody sayinâ whoa how sweet it is
-Whoa yeah it felt good on my lips
-
-When the lights came on and they hollered last call
-I was busy getting lost in her cherry lip gloss
-In a little corner booth, eye to eye no talk
-She leaned in close and gave me one long and wet goodnight goodbye kiss
-And It felt good on my lips
-
-Whoa how sweet it is
-Whoa yeah it felt good on my lips
-Whoa how sweet it is
-Whoa yeah it felt good on my lips
-
-
 

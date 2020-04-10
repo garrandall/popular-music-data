@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: irresistible-jessica-simpson
-lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/irresistiblesosodefremix.html
 name: Irresistible
 rankings:
 - end_date: '2001-05-25'
@@ -88,91 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
 ---
-
-
-Uh-huh, ha, ha
-Sing for me
-
-
-You know
-I don't know what it is
-(It's the remix)
-But everything about you is so irresistible
-
-
-Fa' sure (So So Def)
-It's the 2k top dawg
-Don't nobody want it
-I got 10K on it, I'm the hottest thing out
-If you look at me, you're lookin' at a kid with a plan
-If you don't understand homie, check soundscan
-So So Def to grain
-You know our motto
-In the street throwin' paper like we just won the lotto
-Guest on the beat, like dubs hit on the six
-Irresistible to all chicks
-Listen to the remix
-
-
-Don't you try to tell me that he's not my type
-To hide what I feel inside
-When he makes me weak with desire
-I know that I'm supposed to make him wait
-Let him think I like the chase
-But I can't stop fanning the fire
-I know I'm meant to say no
-(Uh, uh, handclap, oh)
-
-
-But he's irresistible
-Up close and personal
-Now inescapable
-I can hardly breathe
-More than just physical
-Deeper than spiritual
-His ways are powerful
-Irresistible to me
-
-Oh I can hardly breathe, yeah
-Don't you think I'm trying to tell my heart what's right
-That I should really say goodnight
-But I just can't stop myself
-Maybe I'll tell him that I feel the same
-That I don't want to play no game
-Cause when I feel his arms hooked around me
-I know I'm meant to say no (I'm meant to say no)
-(Clap your hands)
-
-
-But he's irresistible
-Up close and personal
-Now inescapable
-I can hardly breathe
-More than just physical
-Deeper than spiritual
-His ways are powerful
-Irresistible to me
-
-Can't you see
-Whenever he's close to me
-I really find it hard to breathe
-He's so irresistible
-Think you know
-Deeper than spiritual
-His ways are powerful
-He's so irresistable
-(You're so irresistable)
-{Like that, oh}
-
-
-But he's irresistible
-Up close and personal
-Now inescapable
-I can hardly breathe
-More than just physical
-Deeper than spiritual
-His ways are powerful
-Irresistible to me
-
-
 

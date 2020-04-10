@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: faith-george-michael
-lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/faith.html
 name: Faith
 rankings:
 - end_date: '1987-10-30'
@@ -92,64 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-01-14'
 ---
-
-Well I guess it would be nice
-If I could touch your body
-I know not everybody
-Has got a body like you
-
-But I've got to think twice
-Before I give my heart away
-And I know all the games you play
-Because I play them too
-
-Oh but I
-Need some time off from that emotion
-Time to pick my heart up off the floor
-Oh when that love comes down
-Without devotion
-Well it takes a strong man baby
-But I'm showing you the door
-
-âCause I gotta have faith
-I gotta have faith
-âCause I gotta have faith, faith
-âCause I gotta have faith, faith, faith
-
-Baby,
-I know you're asking me to stay
-Say please, please, please don't go away
-You say I'm giving you the blues
-Maybe
-You mean every word you say
-Can't help but think of yesterday
-And another who tied me down to loverboy rules
-
-Before this river
-Becomes an ocean
-Before you throw my heart back on the floor
-Oh oh baby I reconsider
-My foolish notion
-Well I need someone to hold me
-But I'll wait for something more
-
-Yes I've gotta have faithâ¦
-Mmm, I gotta have faith
-âCause I gotta have faith, faith, faith
-I gotta have faith-a-faith-a-faith
-
-Before this river
-Becomes an ocean
-Before you throw my heart back on the floor
-Oh oh baby I reconsider
-My foolish notion
-Well I need someone to hold me
-But I'll wait for something more
-
-Cause I gotta have faith
-Mmm I gotta have faith
-Because I got to have faith-a-faith-a-faith
-I gotta have faith-a-faith-a-faith
-
-
 

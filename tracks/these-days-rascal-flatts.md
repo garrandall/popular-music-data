@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: these-days-rascal-flatts
-lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/thesedays.html
 name: These Days
 rankings:
 - end_date: '2002-10-11'
@@ -88,70 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
 ---
-
-Hey baby, is that you
-Wow, your hair got so long
-Yeah, yeah I love it, I really do
-âNorma Jeanâ, ain't that the song we'd sing
-In the car driving downtown
-Top down, making the rounds
-Checking out the bands on Doheny Avenue
-
-Yeah, life throws you curves
-But you learned to swerve
-Me, I swung and I missed
-And the next thing you know, I'm reminiscing
-Dreaming old dreams
-Wishing old wishes
-Like you would be back again
-
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-I head off to my job, guess not much has changed
-Punch the clock, head for home, check the phone just in case
-Go to bed, dream of you
-That's what I'm doing these days
-Yeah, that's what I'm doing
-
-Someone told me after college
-You ran off to Vegas
-You married a rodeo cowboy
-Wow, that ain't the girl I knew
-Me, I've been a few places
-Mostly here and there once or twice
-Still sorting out life but I'm doing alright
-Yeah, it's good to see you too
-
-Well hey girl you're late
-And those planes, they don't wait
-But if you ever come back around
-This sleepy old town
-Promise me you'll stop in
-To see an old friend
-And until then
-
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-I head off to my job, guess not much has changed
-Punch the clock, head for home, check the phone just in case
-Go to bed, dream of you
-That's what I'm doing these days...
-
-These days...
-
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-I head off to my job, guess not much has changed
-Punch the clock, head for home, check the phone just in case
-Go to bed, dream of you
-That's what I'm doing these...
-
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-I wake up in teardrops that fall down like rain
-I put on that old song we danced to and then
-
-
 

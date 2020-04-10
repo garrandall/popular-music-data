@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-light-in-flight-stevie-wonder
-lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/lovelightinflight.html
 name: Love Light In Flight
 rankings:
 - end_date: '1984-12-07'
@@ -72,63 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
-
-Make me feel like paradise
-Give me what I'm missing
-Send me to the highest heights
-Take me up and away
-
-I've tasted love so many times
-With something always missing
-But I know that you got the kind
-To take me up and away
-
-I know that our journey
-Will be filled with passion, love and pleasure
-Touching down where only
-Satisfactionâs guaranteed
-We won't let our feelings
-Auto pilot perfect navigation
-Sending us to love bliss
-Like no one ever knew could be
-
-Make me feel like paradise
-Fill me with your kisses
-Make the moment feel just right
-Take me up and away
-
-'Cause I have waited all my life / Flying high
-For the one worth giving / Love sky high
-And I don't have to think twice / Flying high
-Let's go up and away
-
-
-Love light in flight
-Fuel injection passion
-
-
- - Flying high, love sky high
-
-We need just to feel it
-To know that our loving has the power
-Showing that these feelings
-Emanate from you and me
-With love high aviation
-We will fly forever and one hour
-Giving us the always
-To live out all our fantasies
-
-Make me feel like paradise
-Give me what I'm missing
-Send me to the highest heights
-Take me up and away
-
-I've tasted love so many times / Flying high
-With something always missing / Love sky high
-But I know that you got the kind / Flying high
-To take me up and away
-
-
-
-
 

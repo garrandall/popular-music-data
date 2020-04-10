@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: troubadour-george-strait
-lyrics_url: https://www.azlyrics.com/lyrics/meghanpatrick/georgestrait.html
 name: Troubadour
 rankings:
 - end_date: '2008-08-01'
@@ -68,42 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
 ---
-
-I want a guy who's willing to drive
-To Amarillo by morning to see the sunrise
-In my eyes
-The kind of man that gets carried away
-By the look, by the smile he puts on my face
-Every day
-
-If you want to be the one I give my heart to
-Ask yourself, what would George Strait do?
-
-Then sing to me, like an old troubadour
-Hold on like we're dancing, on the Texas Saunders floor
-And never leave me wondering if your love is true
-Boy ask yourself, what would George Strait do?
-
-I know a cowboy's got to roam
-Just carry my love with you baby when you go
-'Til you come back home
-'Cause you know from time to time
-I'm the kind of girl who's got to go and got to fly
-But I leave you with a smile
-
-Give me love without end, I'll give it back to you
-If you ask yourself, what would George Strait do?
-
-Sing to me, like an old troubadour
-Hold on like we're dancing, on the Texas Saunders floor
-And never leave me wondering if your love is true
-Boy ask yourself, what would George Strait do?
-
-Yeah sing to me, like an old troubadour
-Hold on like we're dancing, on the Texas Saunders floor
-And never leave me wondering if your love is true
-Boy ask yourself, what would George Strait do?
-Boy ask yourself, what would George Strait do?
-
-
 

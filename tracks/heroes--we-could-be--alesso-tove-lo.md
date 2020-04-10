@@ -5,7 +5,6 @@ features:
 - Tove Lo
 genres: []
 key: heroes--we-could-be--alesso-tove-lo
-lyrics_url: https://www.azlyrics.com/lyrics/alesso/heroeswecouldbe.html
 name: Heroes (We Could Be)
 rankings:
 - end_date: '2014-10-24'
@@ -89,54 +88,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
 ---
-
-We could hide away in daylight
-We go undercover, wait out the sun
-Got a secret side in plain sight
-Where the streets are empty, thatâs where we run
-
-Everyday people do everyday things but I
-Can't be one of them
-I know you hear me now, we are a different kind
-We can do anything
-
-We could be heroes
-We could be heroes, me and you
-We could be heroes
-We could be heroes, me and you
-We could be
-
-Anybodyâs got the power
-They don't see it cause they don't understand
-Spin around and round for hours
-You and me, we got the world in our hands
-
-Everyday people do everyday things but I
-Can't be one of them
-I know you hear me now, we are a different kind
-We can do anything
-
-We could be heroes
-We could be heroes, me and you
-We could be heroes
-We could be heroes, me and you
-We could be
-
-We could be heroes
-We could be heroes
-Me and you...
-We could be
-
-All we're looking for is love and a little light
-Love and a little light
-(We could be)
-All we're looking for is love and a little light
-Love and a little light
-
-We could be heroes
-We could be heroes
-Me and you...
-We could be
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: this-ain-t-a-love-song-bon-jovi
-lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/complicated.html
 name: This Ain't A Love Song
 rankings:
 - end_date: '1995-06-16'
@@ -88,47 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
 ---
-
-Take a look around, this is what I see
-Is there anybody else that feels like me?
-You sweat, you sweat
-You bleed, you bleed
-What you get aint what you see
-Up is down and black is white to me
-
-
-I'm complicated
-I get frustrated
-Right or wrong, love or hate it
-I'm complicated
-Can't sudate it
-I heard that song, but i won't play it
-It's alright
-It's okay
-You wouldn't want me any other way
-Momma, keep on praying, cause I aint changing
-I'm complicated
-
-Complicated, Yeah
-
-I'm smart enough to know what I don't know
-I'm fool enough to stay when I should go
-You work, you work
-You cry, you cry
-You watch your whole life pass you by
-Sometimes you gotta close your eyes to see
-
-
-
-Is there anybody out there
-Just like everybody out there
-Just want somebody out there just like me
-
-
-
-Is there anybody out there
-Just like everybody out there
-Just want somebody out there just like me 
-
-
 

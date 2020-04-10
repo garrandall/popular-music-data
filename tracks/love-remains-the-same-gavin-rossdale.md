@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-remains-the-same-gavin-rossdale
-lyrics_url: https://www.azlyrics.com/lyrics/gavinrossdale/loveremainsthesame.html
 name: Love Remains The Same
 rankings:
 - end_date: '2008-06-27'
@@ -132,72 +131,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
 ---
-
-A thousand times Iâve seen you standing
-Gravity like a lunar landing
-Make me want to run till I find you
-I shut the world away from here
-Drift to you, youâre all I hear
-Everything we know fades to black
-
-Half the time the world is ending
-Truth is I am done pretending
-
-I never thought that I had anymore to give
-Pushing me so far
-Here I am without you
-Drink to all that we have lost
-Mistakes we have made
-Everything will change
-But love remains the same
-
-Find the place where we escape
-Take you with me for a space
-The city buzz, sounds just like a fridge
-I walk the streets through seven bars
-I had to find just where you are
-The faces seems to blur, theyâre all the same
-
-Half the time the world is ending
-Truth is I am done pretending
-
-I never thought that I had anymore to give
-Pushing me so far
-Here I am without you
-Drink to all that we have lost
-Mistakes we have made
-Everything will change
-But love remains the same
-
-So much more to say
-So much to be done
-Donât you trick me out
-We shall overcome
-So all have stayed in place
-We should have had the sun
-Could have been inside
-Instead weâre over here
-
-Half the time the world is ending
-Truth is I am done pretending
-Too much time, too long defending
-You and I are done pretending
-
-I never thought that I had anymore to give
-Pushing me so far
-Here I am without you
-Drink to all that we have lost
-Mistakes we have made
-Everything will change
-Everything will change
-
-I, oh I, I 
-wish this could last forever
-I, oh I, I
-As if we could last forever
-
-Love remains the same
-Love remains the same
-
-
 

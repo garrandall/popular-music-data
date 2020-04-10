@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stitches-shawn-mendes
-lyrics_url: https://www.azlyrics.com/lyrics/roadtrip/evolutionofshawnmendes.html
 name: Stitches
 rankings:
 - end_date: '2015-06-19'
@@ -216,78 +215,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
 ---
-
-But I gave her my time for two or three nights
-Then I put it on pause
-
-Because you know I'm all about that bass, 'bout that bass, no treble, I'm all 'bout that
-
-What would I do without your smart mouth?
-Drawing me in
-
-You're all that matters to me, oh...
-
-I've been shaking, I've been shaking, yeah...
-
-And I won't be who you ask me to be
-
-We don't have to be ordinary
-Make your best mistakes
-'Cause we don't have the time to be sorry
-So baby be the life of the party
-
-Something big I feel it happening
-Out of my control
-Pushing and pulling and it's grabbing me
-Feel it in my bones like
-Whoa oh oh oh oh...
-Something big I feel it happening
-
-Take a piece of my heart
-And make it all your own
-So when we are apart
-You'll never be alone
-You'll never be alone
-
-Oh oh oh...
-
-Turns out that no one can replace me
-I'm permanent, you can't erase me
-I'll have you remember me
-One more kiss is all it takes
-I'll leave you with the memory and the aftertaste
-
-You watch me bleed until I can't breathe
-I'm shaking
-Falling onto my knees
-And now that I'm without your kisses
-I'll be needing stitches
-
-I know I can treat you better
-Than he can
-Any girl like you deserves a gentleman
-
-So please have mercy, mercy on my heart
-Please have mercy, mercy on my heart
-
-Oh, I've been shaking
-I love it when you go crazy
-You take all my inhibitions
-Baby, there's nothing holding me back
-You take me places that tear up my reputation
-Manipulate my decisions
-Baby, there's nothing holding me back
-
-It isn't in my blood
-It isn't in my blood
-It isn't in my blood
-
-Do you got plans tonight?
-I'm a couple hundred miles from Japan, and I
-I was thinking I could fly to your hotel tonight
-'Cause I-I-I can't get you off my mind
-Can't get you off my mind
-'Cause I can't seem to get you off my mind
-
-
 

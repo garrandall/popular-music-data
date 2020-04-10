@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: welcome-to-heartlight-kenny-loggins
-lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/heartlight.html
 name: Welcome To Heartlight
 rankings:
 - end_date: '1983-03-18'
@@ -64,65 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
-
-I like the love
-And I like the peaceful
-I wish everyone I know could
-Stand in the heartlight
-
-I hold the hand
-I walk with the teacher
-We welcome in the mornin'
-Singing together
-
-Can you feel the love that's in my heart
-Can you see the flame we got to start
-Burnin' like a beacon in the night
-O welcome to heartlight
-
-
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh welcome to heartlight
-
-I'm like the rain
-'Cause I like your thunder
-I know we've learned to live together
-Here in the heartlight
-
-Stand in the dark
-Oh, oh and I'll light a candle
-And then we'll dance it in the moonlight
-Until the sunrise
-
-Can you feel the love that's in my heart
-Can't you see the flame we've got to start
-Burnin' like a beacon in the night
-O welcome to heartlight
-
-
-
-Can you feel the love that's in my heart
-Can't you see the flame we've got to start
-Burnin' like a beacon in the night
-O welcome to heartlight
-
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh welcome to heartlight
-
-
 

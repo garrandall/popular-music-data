@@ -5,7 +5,6 @@ features:
 - Neon Trees
 genres: []
 key: lessons-in-love-kaskade-neon-trees
-lyrics_url: https://www.azlyrics.com/lyrics/kaskade/lessonsinlove.html
 name: Lessons In Love
 rankings:
 - end_date: '2011-11-18'
@@ -13,66 +12,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-12'
 ---
-
-When you walk my way
-I feel a rush come over me
-A sharp panic panic
-Itâs the things you say
-That makes a rush come over me
-It happens all the time
-
-I never was too good at following rules
-Na na
-Iâm better just pretending I was a fool
-
-All day, all night
-I got the lights in my eyes
-And Iâm falling for you
-Keep cool, stay tough
-But thatâs never enough
-And these are the lessons in love
-
-All day, all night
-I got the lights in my eyes
-And Iâm falling for you
-Keep cool, stay young
-Iâm just having my fun
-With the lessons in love
-
-If I walk away
-I feel a push inside of me
-That wonât let me leave
-But what could I say
-For you to feel whatâs inside of me
-This happens all the time
-
-I never was too good at following rules
-Na na
-Iâm better just pretending I was the fool
-Hear me out...
-
-All day, all night
-I got the lights in my eyes
-And Iâm falling for you
-Keep cool, stay tough
-But thatâs never enough
-And these are the lessons in love
-
-All day, all night
-I got the lights in my eyes
-And Iâm falling for you
-Keep cool, stay young
-Iâm just having my fun
-With the lessons in love
-
-All day, all night
-I got the lights in my eyes
-All day, all night
-I got the lights in my eyes
-All day, all night
-I got the lights in my eyes
-All day, all night
-I got the lights in my eyes
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: home-and-dry-gerry-rafferty
-lyrics_url: https://www.azlyrics.com/lyrics/gerryrafferty/homeanddry.html
 name: Home And Dry
 rankings:
 - end_date: '1978-12-08'
@@ -60,49 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
 ---
-
-This silver bird takes me âcross the sky
-Just one more hour and I'll be home and dry
-âCross the ocean, way above the clouds I come stealin'.
-
-Feelin' tired, but I feel good
-Cause I did everything I said I would
-I think of you, and I know how you'll be feelin'.
-
-I gotta see you, I gotta be with you
-We'll make it better now in every way
-It's gotta be you, it's gotta be you
-Yes from now on I'll tell you everyday.
-
-Way up here above this timeless sea
-I realize just what it is you mean to me
-You give me somethin' when I thought that everything we had was dyin'.
-
-I need a reason just to make me carry on
-Well I know better now, I know where I belong
-I can't imagine how I ever let myself just give up tryin'.
-
-I gotta see you, I gotta be with you
-We'll make it better now in every way
-It's gotta be you, it's gotta be you
-Yes from now on I'll tell you everyday.
-
-Oooooh, yes home and dry.
-
-Ain't nothin' up here gonna slow me down
-You know I never ever take the long way âround
-I think of you, cause I know how you'll be feelin'.
-
-This silver bird takes me âcross the sky
-Just one more hour and I'll be home and dry
-âCross the ocean, way above the clouds I come stealin'.
-
-I gotta see you, I gotta be with you
-We'll make it better now in every way
-It's gotta be you, it's gotta be you
-Yes from now on I'll tell you everyday.
-
-Oooooh, yes home and dry.
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: lay-away-the-isley-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/letslaytogether.html
 name: Lay-Away
 rankings:
 - end_date: '1972-04-07'
@@ -44,37 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
 ---
-
-La da da da da da da da da da... hey yeh... oh
-Your body's warm, but you're still unsure
-I'll have you know that I have the perfect cure... yeah
-Step in my room and I'll take your fears away
-Put your trust in me and all that I say
-Tell me can we lay - ay eee
-
-Let's lay together
-Ooh hoo baby
-Let's lay together
-Tell me can we lay - eee
-Let's lay together
-Lay ay ay ay... yeah oh baby
-Let's lay together
-Ooh... oh hoo oh hoo
-
-Heaven's to blame for this love affair
-Feels good to know love will always be there... baby
-You took my heart and made such a sexual burning flame
-Let's love tonight, straight into the day
-Can we lay
-
-Let's lay together
-Ooh hoo baby
-Let's lay together
-Tell me can we lay - eee
-Let's lay together
-Lay ay ay ay... yeah oh baby
-Let's lay together
-Ooh... oh hoo oh hoo
-
-
 

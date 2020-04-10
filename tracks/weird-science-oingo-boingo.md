@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: weird-science-oingo-boingo
-lyrics_url: https://www.azlyrics.com/lyrics/oingoboingo/weirdscience.html
 name: Weird Science
 rankings:
 - end_date: '1985-09-06'
@@ -56,64 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
-
-From my heart and from my hand,
-Why don't people understand
-My intentions?
-
-(Weird science)
-Plastic tubes and pots and pans
-Bits and pieces and
-Magic from the hand
-We're making
-
-(Weird science)
-Things I've never seen before
-Behind bolted doors
-Talent and imagination 
-
-(Weird science)
-Not what teacher said to do
-Makin' dreams come true
-Living tissue; warm flesh
-
-(Weird science)
-Plastic tubes and pots and pans
-Bits and pieces
-Bits and pieces
-
-(Bits of) 
-My creation, is it real?
-It's my creationâI do not know
-No hesitationâno heart of gold
-Just flesh and bloodâI do not know
-
-From my heart and from my hand,
-Why don't people understand
-My intentions, ooh, weird
-Weird science!
-
-(Weird science)
-Magic and technology 
-Voodoo dolls and chants
-Electricity
-We're makin' 
-
-(Weird science)
-Fantasy and microchips
-Shooting from the hip
-Something different
-We're makin'
-
-(Weird science)
-Pictures from a magazine
-Diagrams and charts
-Mending broken hearts (and makin')
-
-(Weird science)
-Something like a recipe
-Bits and pieces
-Bits and pieces
-
-
 

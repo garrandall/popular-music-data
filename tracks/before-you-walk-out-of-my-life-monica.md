@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: before-you-walk-out-of-my-life-monica
-lyrics_url: https://www.azlyrics.com/lyrics/monica/beforeyouwalkoutmylife.html
 name: Before You Walk Out Of My Life
 rankings:
 - end_date: '1995-10-27'
@@ -120,46 +119,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
 ---
-
-Oh oh oh, oh yeah yes, oh oh oh, my, my
-
-Here we are face to face
-With the memories that can't be erased
-Although we need each other
-Things that changed, it's not the same
-
-Sometimes it makes me wonder
-Where would I be, if you hadn't discovered
-Which I did, inside of me
-I know there was something, that we could compare
-
-Oh, well, I
-
-
-Never meant to cause you no pain
-I just wanna go back to being the same
-Well I, only wanna make things right
-Before you walk out of my life
-
-Remembering the good times
-From a portrait hung on high
-It's filled with so much color
-And the laughter we left behind
-I made the choice and you couldn't decide
-I made the choice, I was wrong you were right
-Deep down inside, I apologize
-
-
-
-Though I made plans with you
-To always have time for you
-(Before you walk out of my life)
-I guess it's true, cannot live without you
-Don't ever go away, ooh oh yeah
-
-
-
-Before you walk out of my life
-
-
 

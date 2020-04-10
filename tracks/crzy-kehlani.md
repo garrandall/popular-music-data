@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: crzy-kehlani
-lyrics_url: https://www.azlyrics.com/lyrics/kehlani/crzyremix.html
 name: CRZY
 rankings:
 - end_date: '2016-10-21'
@@ -28,61 +27,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
 ---
-
-
-Crazy
-I go, I go, I go
-
-Everything I do, I do it with a passion
-If I gotta be a bitch, I'm a be a bad one
-I'm AI with the designs, du-ragging
-Bounce back game good, why we talkin' practice?
-Yeah, yeah, yeah
-Pull up score when I want to
-Best thing next to Heaven
-They be tryna count me out though
-I'm just countin', countin' blessins
-A real woman 'bout her paper
-Niggas don't know where I came from
-Why I really really came up
-You never could say I'm back in
-All this shit I've been through and it made me more of an assassin
-I kill 'em, I kill 'em, I kill 'em with compassion
-And baby if they askin'
-
-Tell 'em, tell 'em, tell 'em, tell 'em
-I go, I go, I go, I go, crazy, crazy
-I go, I go, I go, I go crazy, crazy
-Live for the challenge, only make me stronger
-One more reason to turn up on 'em
-I go, I go, I go, I go crazy, crazy
-
-
-Do you think I'm crazy?
-I spent over 80 on a watch and a bracelet
-I'm like an alien, fuck a Mercedes
-I came in a spaceship, don't call me crazy
-I was stuck in a basement with a pen and a paper
-Lost the erasor, I made a mistake and I told you I hate ya
-Everything I do, I do it cause I never had shit
-A couple niggas tried to screw me over, had to learn how to use a ratchet
-A couple bitches had me fucked up, had to learn how to be a savage
-Had to learn not to fuck with her just because she was the baddest
-These streets don't love no one, don't get caught up in traffic
-I just wanna smoke one so can you roll up and pass it
-I love Louis fabric, I just bought a jacket
-20 something hundred more than your casket
-I kill 'em with swagness, my bitch is the baddest
-
-
-I go, I go, I go, I go, crazy, crazy
-I go, I go, I go, I go crazy, crazy
-Live for the challenge, only make me stronger
-One more reason to turn up on 'em
-I go, I go, I go, I go crazy, crazy
-
-I go, I go, I go, I go, crazy, crazy
-I go, I go, I go, I go, crazy, crazy
-
-
 

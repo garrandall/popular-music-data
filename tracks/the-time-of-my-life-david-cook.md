@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-time-of-my-life-david-cook
-lyrics_url: https://www.azlyrics.com/lyrics/davidcook/thetimeofmylife.html
 name: The Time Of My Life
 rankings:
 - end_date: '2008-06-13'
@@ -88,70 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
 ---
-
-Iâve been waiting for my dreams 
-To turn into something 
-I could believe in 
-And looking for that 
-Magic rainbow 
-On the horizon 
-I couldnât see it 
-Until I let go 
-Gave into love and watched all the bitterness burn 
-Now Iâm coming alive 
-Body and soul 
-And feelinâ my world start to turn 
-
-And Iâll taste every moment 
-And live it out loud 
-I know this is the time, 
-This is the time 
-To be more than a name 
-Or a face in the crowd 
-I know this is the time 
-This is the time of my life 
-Time of my life 
-
-Holding onto things that vanished 
-Into the air 
-Left me in pieces 
-But now Iâm rising from the ashes 
-Finding my wings 
-And all that I needed 
-Was there all along 
-Within my reach 
-As close as the beat of my heart 
-
-So Iâll taste every moment 
-And live it out loud 
-I know this is the time, 
-This is the time to be 
-More than a name 
-Or a face in the crowd 
-I know this is the time 
-This is the time of my life 
-Time of my life 
-
-And Iâm out on the edge of forever 
-Ready to run 
-Iâm keeping my feet on the ground 
-My arms open wide 
-My face to the sun 
-
-Iâll taste every moment 
-And live it out loud 
-I know this is the time, 
-This is the time to be 
-More than a name 
-Or a face in the crowd 
-I know this is the time 
-This is the time of my life 
-Time of my life 
-More than a name 
-Or a face in the crowd 
-This is the time 
-This is the time of my life. 
-This is the time of my life.
-
-
 

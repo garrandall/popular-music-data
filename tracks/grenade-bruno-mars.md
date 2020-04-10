@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: grenade-bruno-mars
-lyrics_url: https://www.azlyrics.com/lyrics/victoriajustice/brunomarsmedley.html
 name: Grenade
 rankings:
 - end_date: '2010-10-22'
@@ -152,49 +151,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
 ---
-
-Her eyes, her eyes make the stars look like they're not shining
-Her hair, her hair falls perfectly without her trying
-She's so beautiful and I tell her everyday
-I think I wanna marry you
-
-His lips, his lips, I could kiss them all day if he'd let me
-His laugh, his laugh, he hates but I think it's so sexy
-He's so beautiful and I tell him everyday
-I think I wanna marry you
-
-Beautiful girls all over the world
-I could be chasing but my time would be wasted
-They got nothing on you baby
-Nothing on you baby
-
-I'd catch a grenade for ya (this one's for you and me)
-Throw my hand on a blade for ya (living out our dreams)
-I'd jump in front of a train for ya (lift my arms out wide) 
-You know I'd do anything for ya (I open my eyes)
-I would go through all this pain
-Take a bullet straight through my brain
-If you walk away, everyday it'll rain, rain, rain
-
-Today I swear I'm not doing anything (I wanna be a billionaire)
-I just wanna lay in my bed (so freaking bad)
-Don't feel like picking up my phone
-So leave a message at the tone
-Cause today I swear I'm not doing anything
-
-So what we go out, so what we don't sleep
-We're just having fun, we don't care who sees
-So what we go out, that's how it's supposed to be
-Living young and wild and free
-
-When I see your face
-There's not a thing that I would change
-Cause you're amazing just the way you are
-(I think I wanna marry you) When you smile
-The whole world stops and stares for a while
-Cause you're amazing just the way you are
-I think I wanna marry you
-Cause you're amazing just the way you are
-
-
 

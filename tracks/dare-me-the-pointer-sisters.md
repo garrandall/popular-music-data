@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dare-me-the-pointer-sisters
-lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/hessoshy.html
 name: Dare Me
 rankings:
 - end_date: '1985-07-19'
@@ -80,46 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
 ---
-
-When I first saw him standing there
-I longed to speak but did not dare
-Something inside whispered to me
-You'd better move in carefully
-
-And then he smiled and turned away
-That told me all he could not say
-That's when I knew he wanted me too
-But I had to do some breaking through
-
-He's so shy, he's so shy
-That sweet little boy who caught my eye
-He's so shy, he's so shy
-And he's much too good to let get by, oh yes he is
-
-Now holding him gently through the night
-Nothing has ever felt so right
-And I'm so glad I took the time
-That I had to take to make him mine
-
-He can still do things to my heart
-Just like he did right from the start
-Each time I see that quality
-That never stops attracting me
-
-He's so shy, he's so shy
-That sweet little boy who caught my eye
-He's so shy, he's so shy
-That I'll love him 'till the day I die
-
-He's so shy, he's so shy
-That sweet little boy who caught my eye
-I said, he's so shy, he's so shy
-That I'll love him 'till the day I die, oh yeah
-
-And he's so shy
-He's so shy
-He's so shy
-He's so shy
-
-
 

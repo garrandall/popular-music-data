@@ -8,7 +8,6 @@ features:
 - Madsonik
 genres: []
 key: shell-shocked-juicy-j-wiz-khalifa-ty-dolla--ign-kill-the-noise-madsonik
-lyrics_url: https://www.azlyrics.com/lyrics/juicyj/shellshocked.html
 name: Shell Shocked
 rankings:
 - end_date: '2014-09-05'
@@ -24,69 +23,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
 ---
-
-
-Knock, knock, you about to get shell shocked
-Knock, knock, you about to get shell shocked
-Knock, knock, you about to get shell shocked
-Knock, knock, you about to get shell shocked
-
-
-Thatâs my fam, Iâll hold âem down forever
-Us against the world, we can battle whoever
-Together ainât no way we gon' fail
-You know I got your back, just like a turtle shell
-Nobody do it better, all my brothers tryna get some cheddar
-We all want our cut like the Shredder
-Me and my bros come together for the dough
-Bought the orange Lamborghini, call it Michelangelo
-With the nun-chucks doors and I'm pullin' up slow
-When we fall up in the party, they know anything goes
-Check my Rolex, it say I'm the man of the hour
-All this green in my pockets, you can call it turtle power
-
-
-(All for one when we fight together)
-Knock, knock, you about to get shell shocked
-(All for one when we ride together)
-Knock, knock, you about to get shell shocked
-(All for one when we fight together)
-Knock, knock, you about to get shell shocked
-(This family can bear any weather)
-Knock, knock, you about to get shell shocked
-
-
-Ain't nothing that could come in between me and my brothers
-We all around if it's going down
-It's just us, all for one, yeah you hear 'em right
-Our business done, we disappear into the night
-Came up together, so we all down for the fight
-Ain't nothing wrong with that
-Family, ain't nothing strong as that
-And I'll be posted up where the strong is at
-Brothers by my side, city on my back, real heroes
-That's what the people want
-They ain't born, gotta create 'em
-Sayin' we gone as soon as we save 'em
-That's part of the plan, by my side I'mma keep my brothers
-Live or die man we need each other
-
-
-
-
-Four hitters, four winners
-Tryna tell 'em you don't wanna go to war with us
-We be them, we be them, young riders
-Raised in the gutter, really started from the bottom
-hey, we all we ever had, we all we ever needed and we undefeated
-We be goin' hard, and make it look easy
-Give me the whole pie, real cheesy
-I told your girl no, but you might not believe me
-She took a picture for me, told her smile for me
-Pass her off I'm a real team player
-Bandanna on my face like a gangster
-
-
-
-
 

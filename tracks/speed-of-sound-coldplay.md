@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: speed-of-sound-coldplay
-lyrics_url: https://www.azlyrics.com/lyrics/coldplay/speedofsound.html
 name: Speed Of Sound
 rankings:
 - end_date: '2005-05-13'
@@ -88,64 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
 ---
-
-How long before I get in,
-Before it starts, before I begin?
-How long before you decide,
-But before I know what it feels like?
-
-Where to? Where do I go?
-If you never try, then you'll never know.
-How long do I have to climb,
-Up on the side of this mountain of mine?
-
-Look up, I look up at night.
-Planets are moving at the speed of light.
-Climb up, up in the trees.
-Every chance that you get is a chance you seize.
-
-How long am I gonna stand
-With my head stuck under the sand?
-I'll start before I can stop,
-But before I see things the right way up.
-
-All that noise and all that sound.
-All those places I got found.
-And birds go flying at the speed of sound
-To show you how it all began.
-Birds came flying from the underground.
-If you could see it then you'd understand.
-
-Ideas that you'll never find,
-All the inventors could never design.
-The buildings that you put up.
-Japan and China all lit up.
-
-The sign that I couldn't read
-Or a light that I couldn't see.
-Some things you have to believe,
-But others are puzzles, puzzling me.
-
-All that noise and all that sound.
-All those places I got found.
-And birds go flying at the speed of sound
-To show you how it all began.
-
-Birds came flying from the underground.
-If you could see it then you'd understand.
-Ah, when you see it then you'll understand.
-
-All those signsâ
-I knew what they meant.
-Some things you can invent.
-Some get made, and some get sent.
-Ooh.
-
-And birds go flying at the speed of sound
-To show you how it all began.
-Birds came flying from the underground.
-If you could see it then you'd understand.
-Ah, when you see it then you'll understand.
-
-
 

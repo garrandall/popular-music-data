@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: out-of-my-heart--into-your-head--bbmak
-lyrics_url: https://www.azlyrics.com/lyrics/bbmak/outofmyheartintoyourhead.html
 name: Out Of My Heart (Into Your Head)
 rankings:
 - end_date: '2002-08-23'
@@ -40,59 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
 ---
-
-I feel fine 
-Now the rain has gone and the sun has come to shine 
-Nothing can get me down today 
-Head over heels 
-Got my mind made up as Iâm driving through the fields 
-Nothing can get me down again 
-
-Catch me if you can 
-Iâve gotta make a getaway 
-
-As the sun goes down, wakinâ up my dreams 
-And in my mind youâre with me once again 
-Out of my heart, into your head 
-And inside my heart thereâs a place for you 
-And in my mind Iâm with you once again 
-Out of my heart, into your head 
-
-Chasing the sun 
-Tryinâ to get away 
-From the rain thatâs gonna come 
-Hope I make it all the way 
-
-Iâm lost in a crowd 
-Tryinâ to find my way 
-But the rain keeps fallinâ down 
-Doesnât matter anyway 
-
-Catch me if you can
-Iâve gotta make a getaway 
-
-As the sun goes down, wakinâ up my dreams 
-And in my mind youâre with me once again 
-Out of my heart, into your head 
-And inside my heart thereâs a place for you 
-And in my mind Iâm with you once again 
-Out of my heart, into your head 
-
-Take a look at the sky
-Feel the sunshine 
-In your heart 
-In your head 
-In your own time
-
-As the sun goes down, wakinâ up my dreams 
-And in my mind youâre with me once again 
-Out of my heart, into your head 
-And inside my heart thereâs a place for you 
-And in my mind Iâm with you once again 
-Out of my heart, into your head 
-
-Out of my heart, into your head 
-Out of my heart, into your head
-
-
 

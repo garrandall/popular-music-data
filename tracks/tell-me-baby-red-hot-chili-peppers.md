@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: tell-me-baby-red-hot-chili-peppers
-lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/babyappeal.html
 name: Tell Me Baby
 rankings:
 - end_date: '2006-09-08'
@@ -84,73 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
 ---
-
-On the city streets, I got the tunes in my pocket
-I'll play the Chili Pepper so the public can rock
-Excuse me mister, won't you hear my thought?
-I play in a band, yeah, we're called the Red Hots
-While I'm away, boy, I'm afraid not
-I've got no time to flick and talk
-But this baby rocked out on the spot
-She was a shakin' and a kickin' and that did a bit of tot
-Her pop said no, but I just couldn't stop
-The killer had a case of tod the rock
-
-But here's a funky fact that I know is real,
-The Red Hots have baby appeal
-They dig a funky speil, they'll make some speil
-I say the Peppers have baby appeal
-The funk mobile is the one we wheel
-I'm overjoyed, we have baby appeal
-We serve those tots in the funk mobile
-I'm overjoyed, we have baby appeal
-
-We stop the fire, we quench the heat
-We groove the buttocks walking out in the street
-'cos that's when in the store when who do we meet?
-On a hop skip jump up a baby beat
-She was a shakin' and a kickin' those itty bitty feet
-The next thing you know was she got out of her bleat
-Five thousand babies walkin' out in the street
-Well, that's a serious sight for me and golly gee wizz!
-I just can't tell ya how much we did
-
-Rockin' right out for those itty bitty girls, right out
-
-But here's a funky fact that I know is real,
-The Red Hots have baby appeal
-They dig a funky speil, they'll make some speil
-I say the Peppers have baby appeal
-The funk mobile is the one we wheel
-I'm overjoyed, we have baby appeal
-We serve those tots in the funk mobile
-I'm overjoyed, we have baby appeal, so get down!
-
-Got the tunes in my pocket...
-Baby appeal...
-Rock out!...
-Play the chili, play the chili, play the chili...
-Yes, we're called the Red...Hots...
-
-On the city streets, I got the tunes in my pocket
-I'll play the Chili Pepper so the public can rock
-Excuse me mister, won't you hear my thought?
-I play in a band, yeah, we're called the Red Hots
-While I'm away, boy, I'm afraid not
-I've got no time to flick and talk
-But this baby rocked out on the spot
-She was a shakin' and a kickin' and that did a bit of tot
-Her pop said no, but I just couldn't stop
-The killer had a case of tod the rock
-
-But here's a funky fact that I know is real,
-The Red Hots have baby appeal
-They dig a funky speil, they'll make some speil
-I say the Peppers have baby appeal
-The funk mobile is the one we wheel
-I'm overjoyed, we have baby appeal
-We serve those tots in the funk mobile
-I'm overjoyed, we have baby appeal
-
-
 

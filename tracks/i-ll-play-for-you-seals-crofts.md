@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: i-ll-play-for-you-seals-crofts
-lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/notbefound.html
 name: I'll Play For You
 rankings:
 - end_date: '1975-04-11'
@@ -69,25 +68,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
 ---
-
-You talk of love in endless riddles, the truth is bent to fit your teeth.
-Your ears hear only necessary words and thoughts that make you breathe.
-From out of the depths of want you wander, searching for familiar sound.
-Of some unsuspecting sorrow, on his way to not be found.
-
-Like a ravel gone unnoticed, 'til the cloth begins to tear.
-One small grain of salt in water, at first is not so hard to bear.
-
-Out of an hour or day you're born to play your harp and wear your gown.
-Hiding, waiting, for the right one on his way to not be found. Not be found.
-Should our paths cross each other I'll keep my eyes fixed on the ground.
-I'll keep right on walking past you, rather than to not be found. Not be found, not be found.
-
-To fill one's pipe with dreams of amber, to taste the smoke is ecstasy.
-But the one who claims the clouds won't let you know serenity.
-Lips that part with sweetened danger, moist with ill and evil sound.
-Await their chance to take the stranger to the land of not be found.
-Not be found, not be found.
-
-
 

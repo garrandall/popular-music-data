@@ -1,8 +1,6 @@
 ---
 artists:
-- Crosby
-- Stills
-- Nash
+- Crosby, Stills & Nash
 features: []
 genres: []
 key: marrakesh-express-crosby-stills-nash

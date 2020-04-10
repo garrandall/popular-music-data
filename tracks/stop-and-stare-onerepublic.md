@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stop-and-stare-onerepublic
-lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/stopstare.html
 name: Stop And Stare
 rankings:
 - end_date: '2008-01-04'
@@ -132,52 +131,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
 ---
-
-This town is colder now, I think it's sick of us
-It's time to make our move, I'm shaking off the rust
-I've got my heart set on anywhere but here
-I'm staring down myself, counting up the years
-
-Steady hands, just take the wheel...
-And every glance is killing me
-Time to make one last appeal
-For the life I lead
-
-Stop and stare
-I think I'm moving but I go nowhere
-Yeah, I know that everyone gets scared
-But I've become what I can't be, oh
-Stop and stare
-You start to wonder why you're here not there
-And you'd give anything to get what's fair
-But fair ain't what you really need
-Oh, can you see what I see?
-
-They're trying to come back, all my senses push
-Untie the weight bags, I never thought I could...
-
-Steady feet, don't fail me now
-I'mma run 'til you can't walk
-Something pulls my focus out
-And I'm standing down...
-
-Stop and stare
-I think I'm moving but I go nowhere
-Yeah, I know that everyone gets scared
-But I've become what I can't be, oh
-Stop and stare
-You start to wonder why you're here not there
-And you'd give anything to get what's fair
-But fair ain't what you really need
-Oh, you don't need
-
-What you need, what you need...
-
-Stop and stare
-I think I'm moving but I go nowhere
-Yeah, I know that everyone gets scared
-But I've become what I can't be
-Oh, do you see what I see?
-
-
 

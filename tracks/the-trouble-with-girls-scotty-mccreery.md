@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-trouble-with-girls-scotty-mccreery
-lyrics_url: https://www.azlyrics.com/lyrics/scottymccreery/thetroublewithgirls.html
 name: The Trouble With Girls
 rankings:
 - end_date: '2011-09-30'
@@ -80,51 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
 ---
-
-The trouble with girls is theyâre a mystery
-Something about âem puzzles me
-Spent my whole life trying to figure out
-Just what them girls are all about
-The trouble with girls is they're so dang pretty
-Everything about âem does something to me
-But I guess thatâs the way itâs supposed to be
-
-They smile, that smile
-They bat those eyes
-They steal you with "hello"
-They kill you with "goodbye"
-They hook you with one touch and you canât break free
-Yeah, the trouble with girls is nobody loves trouble as much as me
-
-Theyâre sugar and spice and angel wings
-And hell on wheels and tight blue jeans
-A summer night, down by the lake
-An old memory that you canât shake
-Theyâre hard to find, yet thereâs so many of âem
-The way that you hate, that you already love âem
-But I guess thatâs the way itâs supposed to be
-
-They smile, that smile
-They bat those eyes
-They steal you with "hello"
-They kill you with "goodbye"
-They hook you with one touch and you canât break free
-Yeah, the trouble with girls is nobody loves trouble as much as me
-
-The way they hold you out on the dance floor
-The way they ride in the middle of your truck
-The way they give you a kiss at the front door
-Leave you wishing you could have gone up
-And just as you walk away
-You hear that sweet voice sayâ¦
-Stay
-
-They smile, that smile
-They bat those eyes
-They steal you with "hello"
-They kill you with "goodbye"
-Theyâre the perfect drug and I canât break free
-Yeah, the trouble with girls is nobody loves trouble as much as me
-
-
 

@@ -5,7 +5,6 @@ features:
 - Camila Cabello
 genres: []
 key: beautiful-bazzi-camila-cabello
-lyrics_url: https://www.azlyrics.com/lyrics/bazzi/beautifulremix.html
 name: Beautiful
 rankings:
 - end_date: '2018-08-24'
@@ -117,64 +116,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
 ---
-
-
-Hey
-Beautiful, beautiful, beautiful, beautiful angel
-Love your imperfections, every angle
-Tomorrow comes and goes before you know
-So I just had to let you know
-
-The way that Gucci look on you, amazing
-But nothing can compare to when you're naked
-Now a Backwood and some Henny got you faded
-Saying you're the one for me, I need to face it
-
-Started when we were younger
-Swear to God that I loved her
-Sorry that your mom found out
-Guess that we just really had the thunder
-Ain't nobody else that I'd be under
-Beautiful, beautiful life right now
-Beautiful, beautiful night right now
-No, no, no
-
-Hey
-Beautiful, beautiful, beautiful, beautiful angel
-Love your imperfections, every angle
-Tomorrow comes and goes before you know
-So I just had to let you know
-
-
-Oh my god
-Where did the time go?
-I wished the hours would go slow
-How is it 6 AM?
-Your touch is heaven-sent
-Beautiful, beautiful sight right now
-Beautiful, beautiful life right now
-Got the angel saying ooh-ah right now like ooh-ah
-And this is why we've got to touch (ah)
-Sometimes words are not enough (no)
-Painted in your golden kiss
-Honey dripping from your lips
-I thank God and my lucky stars
-Darling, don't you know what you are?
-Yeah, baby, you are
-
-
-Hey (hey, baby)
-Beautiful, beautiful, beautiful, beautiful angel (ooh)
-Love your imperfections every angle (baby, baby)
-Tomorrow comes and goes before you know (yeah, baby)
-So I just had to let you know
-
-The way that Gucci look on you amazing (yeah, yeah)
-But nothing can compare to when you're naked (oh)
-Tomorrow comes and goes before you know (yeah)
-So I just had to let you know (oh-whoa yeah)
-I just had to let you know
-Swear to God you're beautiful (yeah)
-
-
 

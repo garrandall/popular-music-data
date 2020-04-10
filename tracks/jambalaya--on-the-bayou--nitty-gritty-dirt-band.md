@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: jambalaya--on-the-bayou--nitty-gritty-dirt-band
-lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/jambalayaonthebayou.html
 name: Jambalaya (On The Bayou)
 rankings:
 - end_date: '1972-04-07'
@@ -20,21 +19,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
 ---
-
-Goodbye Joe, me gotta go down the Bayou
-Me gotta go, pool the pirogue down the Bayou
-My Yvonne, sweetest one, me oh my oh
-Son of a gun, we gonna have big fun on the Bayou.
-
-Thibodaux, Fontaineaux, the place is buzzin'
-The kinfolk come to see Yvonne by the dozen
-Well, and-a dress in style, go hog wild an' be gay-o
-Son of a gun, we gonna have big fun on the Bayou.
-
-Jambalaya, crawfish pie, an' a fil'e gumbo
-'Cause tonight Iâm gonna see my ma cher amio
-Well, a pick guitar, fill fruit jar an' be gay-o
-Son of a gun, we gonna have a big fun on the Bayou.
-
-
 

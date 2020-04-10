@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: long-hot-summer-keith-urban
-lyrics_url: https://www.azlyrics.com/lyrics/keithurban/longhotsummer.html
 name: Long Hot Summer
 rankings:
 - end_date: '2011-08-05'
@@ -80,49 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
 ---
-
-I canât sleep
-Ainât no sleep aâcoming
-Iâm just lying here thinking âbout you
-Iâm in deep
-Falling deep into the picture in my mind of everything weâre gonna do
-
-Over at the lake and down by the river
-You can feel it start to rise
-Wanna jump in my car, go wherever you are 
-âCause I need you by my side
-
-Itâs gonna be a long, hot summer, we should be together
-With your feet up on the dashboard now
-Singing along with the radio, itâs such a beautiful sound
-And when you say my name in the middle of the day, I swear I see the stars come out
-When you hold my hand in the back of my mind, just waiting on the sun to go down, the sun to go down
-
-I wanna see your brown skin shimmer in the sun for the first time
-I try to be the one who knows just what to do to you to get me that smile
-One chance of meeting, you were walking by me on the street and I said hi
-And that was the beginning of my heart spinninâ like these wheels in my head tonight
-
-Itâs gonna be a long, hot summer, we should be together
-With your feet up on the dashboard now
-Singing along with the radio, itâs such a beautiful sound
-And when you say my name in the middle of the day, I swear I see the stars come out
-When you hold my hand in the back of my mind, just waiting on the sun to go down, the sun to go down
-
-The only place that I wanna be is where you are
-âCause anymore than a heartbeat away is just too far
-
-Itâs gonna be a long, hot summer, we should be together
-All I really want is more than this moment right now
-And when you say my name in the middle of the day, I swear I see the stars come out
-And when you hold my hand and I look into your eyes
-I swear it looks like youâre waiting for the sun to go down, the sun to go down
-
-I swear itâs like youâre waiting for the sun to go down
-Waiting on the sun to go down
-Hey, yeah
-Oh, Iâm loving thinking âbout you
-I cant sleep, Iâm just lying here thinkinâ âbout you
-
-
 

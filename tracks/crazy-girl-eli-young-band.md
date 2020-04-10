@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: crazy-girl-eli-young-band
-lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/iminlove.html
 name: Crazy Girl
 rankings:
 - end_date: '2011-04-01'
@@ -152,48 +151,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
 ---
-
-I'm in love as in I'm crazy 
-Yeah baby shake me through and through.... 
-I'm in love as in I'm fallin' 
-Hear Heaven callin' me and you.... 
-
-Girl you don't know what you did to me 
-No one could ever tie me down I like being free 
-But all that's changed......... 
-Babe you had me going from the start 
-You opened up my eyes, my mind, and heart..... 
-
-Cause.... 
-I'm in love as in I'm crazy 
-Yeah baby shake me through and through...... 
-I'm in Love as in I'm fallin' 
-Hear Heaven callin' me and you...... 
-
-I've never felt the way that I do right now 
-You completely changed me baby and I don't know how 
-But I like it...... 
-Girl you're running circles round my head 
-If you were to walk away surely I'd be dead....... 
-
-Cause....... 
-I'm in love as in I'm crazy 
-Yeah baby shake me through and through.... 
-I'm in love as in I'm fallin' 
-Hear Heaven callin' me and you.... 
-
-You got me goin' up I'm goin' down 
-People talk all over town 
-To my knees and hit the ground 
-I was lost but now I'm found yeah...... 
-
-I'm in love as in I'm crazy 
-Yeah baby shake me through and through.... 
-I'm in love as in I'm fallin' 
-Hear Heaven callin' me and you.... 
-
-I'm in love...... 
-I'm in love......
-
-
 

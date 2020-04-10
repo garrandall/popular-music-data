@@ -5,7 +5,6 @@ features:
 - Ludacris
 genres: []
 key: break-your-heart-taio-cruz-ludacris
-lyrics_url: https://www.azlyrics.com/lyrics/taiocruz/breakyourheartremix.html
 name: Break Your Heart
 rankings:
 - end_date: '2010-03-19'
@@ -125,55 +124,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
 ---
-
- LUDA!
-Now I may not be the worst or the best but you gotta respect my honesty.
-And I may break your heart, but I don't really think there's anybody's as bomb as me
-So you can take this chance, in the end everybody's gonna be wondering how ya deal
-You might say this is Ludacris, but Taio Cruz tell em' how ya feel!
-
-Now listen to me baby
-Before I love and leave you
-They call me heart breaker
-I don't wanna deceive you
-
-If you fall for me
-I'm not easy to please
-I might tear you apart
-Told you from the start, baby from the start.
-
-I'm only gonna break break ya break break ya heart. 
-
-There's no point trying to hide it
-No point trying to evade it
-I know I got a problem
-Problem with misbehaving.
-
-If you fall for me
-I'm not easy to please
-I might tear you apart
-Told you from the start, baby from the start.
-
-I'm only gonna break break ya break break ya heart. 
-
-
-(That's all I'm gonna do woman)
-Listen, now I'm only gonna break your heart
-And shatter and spatter it all into little itty bitty pieces
-Whether or not you get it all together
-Then its finders keepers and losers weepers
-See I'm not trying lead you on, no I'mï»¿ only trying keep it real
-You might say this is Ludacris, but Taio Cruz tell her how you feel!
-
-
-And I know karma's gonna get me back for being so cold
-Like a big bad wolf I'm born to be bad and bad to the bone
-If you fall for me I'm only gonna tear you apart
-Told ya from the start.
-
-I'm only gonna break break ya break break ya heart. 
-
-Woah woah woah 
-
-
 

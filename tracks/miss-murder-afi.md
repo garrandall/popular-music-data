@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: miss-murder-afi
-lyrics_url: https://www.azlyrics.com/lyrics/afi/missmurder.html
 name: Miss Murder
 rankings:
 - end_date: '2006-05-19'
@@ -88,62 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
 ---
-
-Hey, Miss Murder, can Iâ
-Hey, Miss Murder, can I
-Make beauty stay if I take my life?
-
-Whoa-oh-oh
-
-With just a look they shook
-And heavens bowed before him.
-Simply a look can break your heart.
-The stars that pierce the sky;
-He left them all behind.
-Weâre left to wonder why
-He left us all behind.
-
-Hey, Miss Murder, can Iâ
-Hey, Miss Murder, can I
-Make beauty stay if I take my life?
-
-Whoa-oh-oh
-oh
-
-Dreams of his crash wonât pass
-Oh, how they all adored him
-Beauty will last when spiraled down.
-
-The stars that mystify
-He left them all behind.
-And how his children cried
-He left us all behind.
-
-Hey, Miss Murder, can Iâ
-Hey, Miss Murder, can I
-Make beauty stay if I take my life?
-
-Whoa-oh-oh
-
-What's the hook, the twist within this verbose mystery?
-I would gladly bet my life upon it.
-That the ghost you love, your ray of light will fizzle out without hope.
-We're the empty set just floating through, wrapped in skin
-Ever searching for what we were promised.
-Reaching for that golden ring we'd never let go,
-Who would ever let us put our filthy hands upon it?
-
-Hey, Miss Murder, can Iâ
-Hey, Miss Murder, can I
-Make beauty stay if I take my life?
-
-Whoa-oh-oh
-
-Hey, Miss Murder, can Iâ
-Hey, Miss Murder, can I
-Make beauty stay if I take my life?
-
-Whoa-oh-oh
-
-
 

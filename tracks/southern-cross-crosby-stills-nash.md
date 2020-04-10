@@ -1,12 +1,9 @@
 ---
 artists:
-- Crosby
-- Stills
-- Nash
+- Crosby, Stills & Nash
 features: []
 genres: []
 key: southern-cross-crosby-stills-nash
-lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnashyoung/southernman.html
 name: Southern Cross
 rankings:
 - end_date: '1982-09-24'
@@ -78,47 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
-
-Southern man
-Better keep your head
-Don't forget
-What your good book said
-Southern change
-Gonna come at last
-Now your crosses
-Are burning fast
-Southern man
-
-I saw cotton
-And I saw black
-Tall white mansions
-And little shacks.
-Southern man
-When will you
-Pay them back?
-I heard screamin'
-And bullwhips cracking
-How long? How long?
-
-Southern man
-Better keep your head
-Don't forget
-What your good book said
-Southern change
-Gonna come at last
-Now your crosses
-Are burning fast
-Southern man
-
-Lily Belle,
-Your hair is golden brown
-I've seen your black man
-Comin' round
-Swear by God
-I'm gonna cut him down!
-I heard screamin'
-And bullwhips cracking
-How long? How long?
-
-
 

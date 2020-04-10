@@ -5,7 +5,6 @@ features:
 - Nicki Minaj
 genres: []
 key: dance--a----big-sean-nicki-minaj
-lyrics_url: https://www.azlyrics.com/lyrics/bigsean/dancearemix.html
 name: Dance (A$$)
 rankings:
 - end_date: '2011-10-28'
@@ -105,79 +104,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
 ---
-
-
-Ass ass ass ass ass ass ass
-Ass ass ass ass ass ass ass
-Ass ass ass ass ass ass ass
-Stop... now make that motherfucker hammer time like
-
-Go stupid, Go stupid, Go stupid
-
-
-Wobble-dy wobble-dy wa wobble wobble
-I'm st-stacking my paper my wallet look like a bible
-I got girlies half naked that shit look like the grotto
-How your waist anorexic and then your ass is colossal
-Like whoo
-Drop that ass make it boomerang
-Take my belt off bitch I'm Pootie Tang
-Tippy tow tippy tay you gonna get a tip today
-Fuck that you gonna get some dick today
-I walk in with my crew and I'm breaking they necks
-I'm looking all good I'm making her wet
-They pay me respect they pay me in checks
-And if she look good she pay me in sex
-Do it!
-Bounce that ass (ass), it's the roundest (roundest)
-You the best (best), you deserve a crown bitch
-Right on that,
-
-
-Ass ass ass ass ass
-Ass ass ass ass ass
-Ass ass ass ass ass
-Stop... now make that motherfucker hammer time like...
-
-Go stupid, go stupid, go stupid
-
-
-Wobbledy wobble, wo-wo-wobble, wobbin'
-Ass so fat, all these bitches' pussies is throbbin'
-Bad bitches, I'm your leader, phantom by the meter
-Somebody point me to the best ass-eater
-Tell 'em "Pussy clean!" I tell 'em "Pussy squeaky!"
-Niggas give me brain 'cause all of them niggas geeky
-If he got a mandingo, then I buy him a dashiki
-And bust this pussy open in the islands of Waikikiiiiii...
-Kiss my ass and my anus, 'cause it's finally famous
-And it's finally so, yeah, it's finally so!
-I don't know, man, guess them ass shots wore off!
-Bitches ain't poppin', Google my ass
-Only time you on the net is when you Google my ass
-Ya fuckin' little whores, fu-fuckin' up my decors
-Couldn't get Michael Kors if you was fuckin' Michael Kors
-B-B-Big Sean, b-boy, how big is you?
-Gimme all yo' money and gimme all yo' residuals
-Then slap it on my ass, ass, ass...
-
-
-
-
-Woah, white girls, black girls, tall girls, fat girls
-Shake that ass shake that ass, shake that ass
-Shake that ass, shake that Ass, shake that ass
-Go, go
-
-Short girls, small girls, skinny girls, all girls
-Shake that ass shake that ass, shake that ass
-Shake that ass, shake that Ass, shake that ass
-
-And I want all of that,
-
-
-
-Go stupid!
-
-
 

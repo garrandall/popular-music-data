@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: young-hearts-run-free-candi-staton
-lyrics_url: https://www.azlyrics.com/lyrics/candistaton/youngheartsrunfree.html
 name: Young Hearts Run Free
 rankings:
 - end_date: '1976-06-04'
@@ -72,65 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
-
-What's the sense in sharing this one and only life
-Ending up just another lost and lonely wife
-You'll count up the years, and they will be filled with tears
-
-Love only breaks up to start over again
-You'll get the baby, but you won't have your man
-While he's busy loving every woman that he can, uh-huh
-
-Say I'm gonna leave a hundred times a day
-It's easier said than done when you just can't break away
-(When you just can't break away)
-
-Oh, young hearts run free
-They'll never be hung up, hung up like my man and me
-My man and me
-
-Ooh, young hearts, to yourself be true
-Don't be no fool when love really don't love you
-Don't love you
-
-It's high time now, just one crack at life
-Who wants to live it in trouble and strife
-My mind must be free to learn all I can about me, mm
-
-I'm gonna love me for the rest of my days
-Encourage the babies every time they say
-âSelf-preservation is what's really going on todayâ
-
-I say I'm gonna turn loose a thousand times a day
-But how can I turn loose when I just can't break away
-(When I just can't break away)
-
-Oh, young hearts just run free
-They'll never be hung up, hung up like my man and me
-You and me
-
-Ooh, young hearts, to yourself be true
-Don't be no fool when love really don't love you
-Don't love you
-
-Oh, young hearts run free
-They'll never be hung up, hung up like my man and me
-My man and me
-
-Oh, oh, oh, oh, oh, young hearts, to yourself be true
-Don't be no fool when love really don't love you
-It don't love you
-
-Ooh, young hearts run free
-They'll never be hung up, hung up like my man and me
-My man and me
-
-Oh, young hearts, to yourself be true
-Don't be no fool when love really don't love you
-Don't love you
-
-Ooh, young hearts run free
-They'll never be hung up, hung up like my man and me
-
-
 

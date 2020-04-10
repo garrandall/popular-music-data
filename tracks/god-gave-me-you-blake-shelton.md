@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: god-gave-me-you-blake-shelton
-lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/godgavemeyou.html
 name: God Gave Me You
 rankings:
 - end_date: '2011-08-05'
@@ -108,57 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
 ---
-
-I've been a walking heartache
-I've made a mess of me
-The person that I've been lately
-Ain't who I wanna be
-
-But you stay here right beside me
-And watch as the storm blows through
-And I need you
-
-'Cause God gave me you for the ups and downs
-God gave me you for the days of doubt
-And for when I think I lost my way
-There are no words here left to say,
-It's true
-God gave me you
-Gave me you
-
-There's more here than what we're seeing
-A divine conspiracy
-That youâan angel lovelyâ
-Could somehow fall for me
-
-You'll always be love's great martyr
-And I'll be the flattered fool
-And I need you
-
-God gave me you for the ups and downs
-God gave me you for the days of doubt
-And for when I think I lost my way
-There are no words here left to say,
-It's true
-God gave me you
-
-On my own I'm only
-Half of what I could be
-I can't do without you
-We are stitched together
-And what love has tethered
-I pray we never undo
-
-'Cause God gave me you for the ups and downs
-God gave me you for the days of doubt
-
-God gave me you for the ups and downs
-God gave me you for the days of doubt
-And for when I think I lost my way
-There are no words here left to say,
-It's true
-God gave me you, gave me you
-He gave me you
-
-
 

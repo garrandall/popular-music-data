@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: party-like-a-rockstar-shop-boyz
-lyrics_url: https://www.azlyrics.com/lyrics/shopboyz/partylikearockstarremix.html
+lyrics_url: https://genius.com/Shop-boyz-party-like-a-rockstar-lyrics
 name: Party Like A Rockstar
 rankings:
 - end_date: '2007-05-11'
@@ -96,142 +96,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
 ---
+Y-y-yeaaaaaaah!
+Y-y-yeaaaaaaah!
+Y-y-yeaaaaaaah!
+Y-y-yeaaaaaaah!
+(T-t-t-totally duuuude!)
 
-Yeah..Remix Baby 
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
 
-T-T-T-Totally Dude 
+I'm on a money makin mission but I party like a rock star
+Flyin' down 20 lookin' good in my hot car
+You know dem hoes be at my show, grabbin where my chain go
+I'm tryna grab and hold my pants but these hoes won't let my thang go
+I DO like I DO, cause you know da hoes be tryin dat
+Ho don't you know I fuck wit fine dimes that look like Pamela
+They fine and they hot brah, when I'm in the spot, brah... (yeah..)
+I PARTY LIKE A ROCKSTAAAAAR!!
 
-Ay This The Remix And I'm The Prefix 
-You Know 
-This Rock And Roll Street Shit
-Hand Me The Mic 
-She Got The Bass 
-Meaning Got The Guitar 
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
 
-Now I Got Mo Dough 
-I Ain't Heard No Mo 
-With All The Loop We Get 
-We Can Pull A No Show 
-Got Diamond Wallet Chain Diamond Watch Neck And Ring 
-I Need A Monument... With Diamonds In My Name 
+IIIII... (IIII...) - party like a rock star
+Do it wit the black, and the white, like a cop car
+(Yeaaaaaaah!) WHOOP, WHOOP! Me and my band, man
+On the yacht wit Marilyn Manson, gettin a tan maaaan!
+(Cool!) You know me, wit a skull belt and wallet chain
+Shop Boyz, rock stars, yeah we bout to change the game
+(Change the game? Uh ohhhhhhhhhhh!)
+They know that I'm a star (I'm a star)
+I make it rain from the center of my gui-tar
 
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-T-T-T-Totally Dude 
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
 
- 
-We Are Not The Same 
-I Am A Martian 
-It's Young Weezy F Baby No Abortion 
-I Have Forcens
-I Don't Have To Force Em 
-They Just Do What I Say Jack 
-Like Wheel Of Fortune 
-I'm Heartless And Iced Out, See...
-I Got An Icebox Where My Heart Use To Be 
-Young Money Baby You Know Who We Are 
-And I Can Play With That Pussy Like I Play That Guitar 
+As soon as I came out the womb, my momma knew a star was born
+Now I'm on the golf course, trippin wit the Osbournes
+I seen the show wit Travis Barker, rock star mentality
+I'm jumpin in the crowd just to see if they would carry me
+Bitches wanna marry me, they see me they just might panic
+My ice make em go down quick, like the Titanic!
+Yeah, I'm wit Da Shop Boyz, you know what we do
+I'm surfin screamin "Cowabonga, TOTALLY DUUUDE!!"
 
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-
- 
-I Am A Shop Boy 
-Something Like A Rockstar 
-I Make Em Party Hard 
-Now They Using Guitars 
-The Bass Rock Drum 
-Make The Crowd Act A Fool 
-I Got That Gansta, Hood Stars, Pop Stars, Screamin: 
-Totally Dude 
-
-Make Clubs Rock Rock 
-They Know That I Rock 
-I Ride In Fast Cars 
-And Plus My Chick's Hot
-Diamonds In My Store 
-They Know That I'm The Hardest 
-Black Shades Around My Face Lookin Rockstarish 
-
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-T-T-T-Totally Dude 
-
- 
-Who Started This 
-Ya Boy Jim Jones On That Rockstar Shit (Say What) 
-And Who Caused This 
-300 Grand For That Drop Top Bitch (Ballin) 
-A Young Tommy Lee (Who's That) 
-Big House On Cani Vee's 
-Get Two Broads...a Dime A Piece 
-Them White Girls Sniffin All On They Knees 
-
-Do It Like Ozzy 
-Blue Mazzi 
-On Patrine Like I Was On Kamikazes (Go Crazy) 
-Keep A Whip And A Biscuit 
-Rockstar Eatin Kizzle And Biscuit (And What) 
-Keep The Red Swear 
-New Pair Of Kicks 
-So You Can Walk This Way Like Aero Smith 
-And You Can Run Dmc In A Flair Clips, Say:
-
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-T-T-T-Totally Dude 
-
-
-Yeah We The Shop Boys 
-Nobody Coulda Did It Betta 
-We On Fire 
-The Black Red Hot Chili Peppers 
-My Rock Swag 
-You Can Tell It's Me From A Distance 
-Keep A Chick With A Mohawk 
-They're Way Thicker Than Delicious 
-
-She Stay Air Hardy
-When I Speak She Don't Talk 
-It Ain't The Braids That Got The A Rockin Mohawks (Come On) 
-Chamillinaire, Wayne Jim Yeah We Rock Hard 
-This Is The Remix So Party Like A Rockstar 
-
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-T-T-T-Totally Dude 
-
-
-First They Rockin And Then They Lean 
-So We Plottin To Get My Beam 
-But You Know That Metal Rockin Always Pocketed In My Jeans 
-Heavy Metal 
-Jewelry Yellow 
-I'm Obscene 
-Plus I'm Ghetto 
-Have Ya Queen In Stilettos 
-Pulling Strings Like Japetto 
-
-All-All-All I Know Is Fetty 
-Tell Me What You Mean 
-Gone Be The Grinch Shrek (Yes) 
-All I Like Is Green 
-I Am Bruce Bling Steen 
-Step In The Club Then I Grab Her 
-If I Want Her I Can Have Her 
-Mick Jagger With My Swagga 
-
-Rockin Roll Hall Of Fame 
-Need Another Couple Names 
-Shop Boys Lil Wayne And Chamillitary Man (Yeah) 
-Come Do The Show If I Get The Call 
-Tear Of The Club Just To Piss Ya Off 
-Get On The Bus And Go Hit The Mall 
-Ang Buy An Earring The Size Of A Crystal Ball 
-
-Party Like A Rock 
-Party Like A Rockstar...remix Baby 
-T-T-T-Totally Dude 
-
-
-
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
+(T-t-t-totally duuuude!)
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rock - party like a rock star
+Party like a rockstar (T-t-t-totally duuuude!)

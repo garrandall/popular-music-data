@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: jealous-heart-connie-francis
-lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/ohpleasemakehimjealous.html
 name: Jealous Heart
 rankings:
 - end_date: '1965-12-03'
@@ -40,19 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
 ---
-
-I'm dancing with Johnny, but looking at Jim,
-And praying, "Oh please make him jealous!".
-my arms around Johnny, my heart's around Jim,
-But nothing I do seems to matter to him!
-
-Now Jimmy is dancing with Molly McGee,
-And golly, it's me who's so jealous!
-And I'm so ashamed of the tear in my eye,
-As Jim dances carelessly by.
-
-And I'm so ashamed of the tear in my eye,
-As Jim dances carelessly by.
-
-
 

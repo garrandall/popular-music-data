@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: it-ain-t-enough-corey-hart
-lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/lovehurts.html
 name: It Ain't Enough
 rankings:
 - end_date: '1984-10-05'
@@ -84,31 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
-
-Love hurts,  Love scars,  Love wounds and harms
-Any heart not tough or strong enough
-To take a lot of pain, take a lot of pain
-Love is like a cloud, holds a lot of rain
-Love hurts,  Uhh-Uh   Love hurts
-
-I'm young,  I know,  But even so
-I know a thing or two - I learned from you
-I really learned a lot, really taught me a lot
-Love is like a flame  It burns you when it's hot
-Love hurts, Uhh-uh Love hurts
-
-Some fools speak of happiness, blissfulness, togetherness
-Some fools fool themselves, I guess
-They aint foolin' me
-I know it isn't true I know it isn't true
-Love is like a flame, makes your heart so blue
-Love hurts, Uhh-Uh Love hurts
-Ooo-oo Love hurts
-
-I really learned a lot, really learned a lot
-Love is like a flame  It burns you when it's hot
-Love hurts, Uhh-Uh Love hurts
-Uhh-Uh, Love hurts Uhh-Uh
-
-
 

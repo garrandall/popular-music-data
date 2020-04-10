@@ -1,9 +1,6 @@
 ---
 artists:
-- Crosby
-- Stills
-- Nash
-- Young
+- Crosby, Stills, Nash & Young
 features: []
 genres: []
 key: woodstock-crosby-stills-nash-young

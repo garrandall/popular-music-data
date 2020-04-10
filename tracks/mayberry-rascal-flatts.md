@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mayberry-rascal-flatts
-lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/mayberry.html
 name: Mayberry
 rankings:
 - end_date: '2004-02-27'
@@ -88,46 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
 ---
-
-Sometimes it feels like this world is spinning faster
-Than it did in the old days
-So naturally, we have more natural disasters
-From the strain of a fast pace
-Sunday was a day of rest
-Now, itâs one more day for progress
-And we canât slow down âcause more is best
-Itâs all an endless process
-
-
-(Well) I miss Mayberry
-Sitting on the porch drinking ice-cold cherry Coke
-Where everything is black and white
-Picking on a six string
-Where people pass by and you call them by their first name
-Watching the clouds roll by
-Bye, bye
-
-Sometimes I can hear this old earth shouting
-Through the trees as the wind blows
-Thatâs when I climb up here on this mountain
-To look through Godâs window
-Now I canât fly
-But I got two feet that get me high up here
-Above the noise and city streets
-My worries disappear
-
-
-
-
-Sometimes I dream Iâm driving down an old dirt road
-Not even listed on a map
-I pass a dad and son carrying a fishing pole
-But I always wake up every time I try to turn back
-
-
-
-Bye, bye
-I miss Mayberry, I miss Mayberry
-
-
 

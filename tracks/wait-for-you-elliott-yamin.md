@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: wait-for-you-elliott-yamin
-lyrics_url: https://www.azlyrics.com/lyrics/elliottyamin/waitforyou.html
 name: Wait For You
 rankings:
 - end_date: '2007-04-13'
@@ -128,84 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
 ---
-
-I never felt nothing in the world like this before.
-Now, I'm missing you and I'm wishing you would come back through my door.
-Why did you have to go?
-You could have let me know.
-So, now I'm all alone.
-
-Girl, you could have stayed but you wouldn't give me a chance.
-With you not around, it's a little bit more than I can stand.
-And all my tearsâthey
-Keep running down my face.
-Why did you turn away?
-
-So, why does your pride
-Make you run and hide?
-Are you that afraid of me?
-But I know it's a lie
-What you keep inside.
-This is not how you want it to be.
-
-So, baby, I will wait for you
-'Cause I don't know what else I can do.
-Don't tell me I ran out of time.
-If it takes the rest of my life,
-Baby, I will wait for you.
-If you think I'm fine it just ain't true.
-I really need you in my life.
-No matter what I have to do, I'll wait for you.
-
-Been a long time since you called me.
-(How could you forget about me?)
-You gotta be feeling crazy (crazy).
-How can you walk away?
-Everything stays the same (the same).
-I just can't do it, baby.
-
-What will it take to make you come back?
-Girl, I told you what it is and it just ain't like that.
-No.
-Why can't you look at me?
-You're still in love with me.
-Don't leave me crying.
-
-Baby, why can't we just, just start over again?
-Get it back to the way it was?
-If you give me a chance I can love you right,
-But you're telling me it won't be enough.
-
-So, baby, I will wait for you
-'Cause I don't know what else I can do.
-Don't tell me I ran out of time.
-If it takes the rest of my life,
-Baby, I will wait for you.
-If you think I'm fine it just ain't true.
-I really need you in my life.
-No matter what I have to do, I'll wait for you.
-
-So, why does your pride
-Make you run and hide?
-Are you that afraid of me?
-But I know it's a lie
-What you're keeping inside.
-That is not how you want it to be.
-
-Baby, I will wait for you.
-Baby, I will wait for you,
-If it's the last thing I do.
-
-Baby, I will wait for you
-'Cause I don't know what else I can do.
-Don't tell me I ran out of time.
-If it takes the rest of my life,
-Baby, I will wait for you.
-If you think I'm fine, it just ain't true.
-I really need you in my life.
-No matter what I have to do, I'll wait for you.
-
-I'll be waiting.
-
-
 

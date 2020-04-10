@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: no-type-rae-sremmurd
-lyrics_url: https://www.azlyrics.com/lyrics/stefflondon/notyperaesremmurdremix.html
 name: No Type
 rankings:
 - end_date: '2014-10-17'
@@ -112,69 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
 ---
-
-I ain't got a type
-Bad boyz, is the only boys that I like
-Need em in my life
-Attitude boss, like adidas they don't stress
-I ain't fucking with no guy
-Sexy Dons is the only Donners that I like
-I'm just living life
-Smoking till I fly, yea we do this every night
-
-I like my boys bad, bad, bad, bad, bad, bad
-I like my boys bad, if I chat shit he get mad
-Never no push over, never ever will he back
-There for anybody who never had his back
-Monoply, got the whole world on smash
-Ain't topping me, scrapping skys
-Yeah that's what I like, just trapping every night
-Its just do or die, homocide
-I told him, money ain't the only thing that's on my mind
-Ride or die
-My words don't lie, badboy I'm a hit like a good jean
-Nigga come quick like a a track team
-Belling me down like a crack fiend
-Told me that them other bitches irritate him like fluorine
-This mami... quantro...
-
-I ain't got a type
-Bad boyz, is the only boys that I like
-Need em in my life
-Attitude boss like a adidas they don't stress
-I ain't fucking with no guy
-Sexy Dons is the only Donners that I like
-I'm just living life
-Smoking till I fly, yea we do this every night
-
-TT's wiv B.Ds on one
-Big breasts but no sex, I'm a nun
-That means f.u.c.k.s.I.d.o.n.t ever give none
-B.I.G but I ain't pun
-Got money like bees they all come
-Now they wanna be with the d
-But back in the day, they never want to put me on
-See fuck with them like x-rays
-They be going back n forth like the nay-nay
-But its cool, cause mumma never raised no fool
-Times up and I'm ending the play date
-D.o - n.I.s.h, we know that I don't play
-I say the right scene
- on your tongue like colgate
-
-I ain't got a type
-Bad boyz, is the only boys that I like
-Need em in my life
-Attitude boss like a adidas they don't stress
-I ain't fucking with no guy
-Sexy Dons is the only Donners that I like
-I'm just living life
-Smoking till I fly, yea we do this every night
-
-Yea we do this every night, do this every night
-Smoking till I fly, yea we do this every night
-I get higher than the guys, yea we do this every night
-Paint the city red yeah we do this every night
-
-
 

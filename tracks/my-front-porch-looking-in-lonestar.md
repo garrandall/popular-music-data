@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: my-front-porch-looking-in-lonestar
-lyrics_url: https://www.azlyrics.com/lyrics/lonestar/myfrontporchlookinin.html
 name: My Front Porch Looking In
 rankings:
 - end_date: '2003-04-25'
@@ -96,55 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
 ---
-
-Ooh yea woo, yeah, oh yea
-
-The only ground I ever owned was sticking to my shoes
-Now I look at my front porch at this panoramic view
-I could sit and watch the fields fill up with rays of golden sun
-Or watch the moon lay on the fences like that's where it was hung
-
-My blessings are in front of me it's not about the land
-I'll never beat the view from my front porch looking in
-
-
-There's a carrot top who can barely walk
-With a sippy cup of milk
-A little blue-eyed blonde
-With shoes on wrong
-'Cause she likes to dress herself
-And the most beautiful girl
-Holding both of them
-Yeah, the view I love the most is my front porch looking in
-
-Yeah, yeah
-
-I've travelled here and everywhere
-Following my job
-I've seen the paintings from the air
-Brushed by the hand of god
-The mountains and the canyons reach from sea to shining sea
-But I can't wait to get back home to the one he made for me
-
-'Cause anywhere I'll ever go and everywhere I've been
-Nothin' takes my breath away like my front porch looking in
-
-
-
-I see what beautiful is about
-When I'm looking in
-Not when I'm looking out
-
-
-
-There's a carrot top that can barely walk
-(from my front porch looking in)
-A little blue-eyed blonde
-With shoes on wrong
-(from my front porch looking in)
-And the most beautiful girl
-Holding both of them
-Ooh, yeah
-
-
 

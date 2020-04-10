@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: reelin--and-rockin--the-dave-clark-five
-lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/havingawildweekend.html
 name: Reelin' And Rockin'
 rankings:
 - end_date: '1965-04-23'
@@ -44,40 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
-
-Saturday night, everybody havin' fun
-You don't know it but I'm havin' me some
-You left me at home, thought I would die
-Down and lonely, thought I would cry
-
-Oh, we're havin' a wild weekend
-We're havin' a wild weekend
-Reelin' and a-rockin'
-Rockin' and a-rollin'
-
-I met me a girl, she thought I was fine
-Oh-oh, chick come with me we'll have a good time
-She got all dressed up when I took her out
-Well she's not that cute but she treats me right
-
-Oh, we're havin' a wild weekend
-We're havin' a wild weekend
-Reelin' and a-rockin'
-Rockin' and a-rollin'
-
-Reelin' and a-rockin'
-Rockin' and a-rollin', wooo!
-Reelin' and a-rockin'
-Rockin' and a-rollin', rockin' and rollin'
-Reelin' and a-rockin'
-Rockin' and a-rollin', ohh!
-
-Reelin' and a-rockin'
-Rockin' and a-rollin', wooo!
-Reelin' and a-rockin'
-Rockin' and a-rollin'
-I said, reelin' and a-rockin'
-Rockin' and a-rollin'
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: tuff-enuff-the-fabulous-thunderbirds
-lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/shestuff.html
 name: Tuff Enuff
 rankings:
 - end_date: '1986-04-25'
@@ -84,38 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
 ---
-
-You oughta see my baby when she walk down the street
-Upsettin' everybody she meet
-She's twenty-three in the waist, thirty-eight in the hips
-She got long black wavy hair and ruby-red lips
-
-Oh she's tuff
-Ooh, she's tuff
-My baby's tuff, she ruff and tuff
-And that's tuff enuff
-
-She walk past a clock, the clock won't tell time
-She walk through the college, professor lose his mind
-
-'Cause she's tuff
-Ooh, she's tuff
-My baby's tuff, she ruff and tuff
-And that's tuff enuff
-
-The president said to my baby, come here, sweetheart
-You can stop a world war even before it start
-We know the enemy won't pull the trigger
-When they walk out on the front line and they see your fine figure
-
-Cause you tuff
-Ooh, she's tuff
-My baby's tuff, she ruff and tuff
-And that's tuff enuff
-
-And that's tuff enuff
-And that's tuff enuff
-And that's tuff enuff
-
-
 

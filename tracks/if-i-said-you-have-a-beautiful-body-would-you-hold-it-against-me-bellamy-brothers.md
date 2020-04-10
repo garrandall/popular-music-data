@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-i-said-you-have-a-beautiful-body-would-you-hold-it-against-me-bellamy-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/bellamybrothers/ifisaidyouhadabeautifulbodywouldyouholditagainstme.html
 name: If I Said You Have A Beautiful Body Would You Hold It Against Me
 rankings:
 - end_date: '1979-06-01'
@@ -52,52 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
-
-If I said you have a beautiful body 
-Would you hold it against me 
-If I swore you were an angel, 
-Would you treat me like the devil tonight 
-If I were dying of thirst 
-Would your flowing love come quench me 
-If I said you have a beautiful body 
-Would you hold it against me 
-
-Now we could talk all night about the weather 
-Could tell you 'bout my friends out on the coast 
-I could ask alot of crazy questions 
-Or ask you what I really want to know 
-
-If I said you have a beautiful body 
-Would you hold it against me 
-If I swore you were an angel, 
-Would you treat me like the devil tonight 
-If I were dying of thirst 
-Would your flowing love come quench me 
-If I said you have a beautiful body 
-Would you hold it against me 
-
-Now rain can fall so soft against the window 
-The sun can shine so bright up in the sky 
-But daddy always told me, "Don't make small talk" 
-He said, "Come on out and say what's on your mind" 
-
-If I said you have a beautiful body 
-Would you hold it against me 
-If I swore you were an angel, 
-Would you treat me like the devil tonight 
-If I were dying of thirst 
-Would your flowing love come quench me 
-If I said you had a beautiful body 
-Would you hold it against me 
-
-If I said you have a beautiful body 
-Would you hold it against me 
-If I swore you were an angel, 
-Would you treat me like the devil tonight 
-If I were dying of thirst 
-Would your flowing love come quench me 
-If I said you have a beautiful body 
-Would you hold it against me
-
-
 

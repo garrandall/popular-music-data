@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: don-t-say-jon-b
-lyrics_url: https://www.azlyrics.com/lyrics/jonb/coolrelax.html
 name: Don't Say
 rankings:
 - end_date: '1997-09-05'
@@ -68,51 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
-
-I was just coasting away
-And wasn't even thinkin of anybody no
-You took my mind sexy no doubt
-Envisionung turning u out
-And then we caught eyes ain't no stoppin now
-Burn some candlelight incence
-Taste of berry wine
-Just me and you and all i wanna do
-Is get with you
-One night it could be so real
-If you give me a chance baby
-I want to show you romance baby
-
-
-If you feel me
-Cool relax let your mind lay back
-Lace your mind like a love affair
-Cool relax let your mind lay back
-Let me know how you're felling girl
-
-Now you don't know what to say
-You see that I seem
-to be staring at your body
-Oh yeah, and just before
-you could speak out
-I put one finger over your mouth
-I dont mean to be jock'n
-But baby can I see you tonight
-Until the break of day
-We can't leave until you say
-It's just me and you
-All I want to do is get with you
-One night it could be so real
-If you just give me a chance baby
-I wanna show u romance lady
-
-
-If you feel me
-Cool relax let your mind lay back
-Lace your mind like a love affair
-Cool relax let your mind lay back
-Let me know how you're felling girl
-
-
-
-
 

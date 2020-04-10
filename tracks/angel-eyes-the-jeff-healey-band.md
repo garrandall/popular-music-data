@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: angel-eyes-the-jeff-healey-band
-lyrics_url: https://www.azlyrics.com/lyrics/jeffhealeyband/heartofanangel.html
 name: Angel Eyes
 rankings:
 - end_date: '1989-06-23'
@@ -96,51 +95,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
 ---
-
-No problem believing,
-In what she can't understand or seeing
-What she can't hold in her hand
-
-Faith is her religion
-You can see it in her eyes
-When all the saints and the sinners,
-Stop to wave bye-bye
-
-And the holy rollers,
-Come down from the sky
-
-She's got the heart of an angel,
-But she cries like a little girl
-She's got the heart of an angel
-Well don't she cry, don't she cry, cry, cry
-
-The sign said "Confession,
-And redemption while you can"
-She sought her salvation,
-In the hands of a preacher man
-
-He just took the money,
-Her innocence and pride
-And left her on the doorstep,
-With her heart cut open wide
-
-The grand illusion,
-Just pushed her aside
-
-She needs some healing,
-She can't understand
-That salvation,
-Is right in the palm of her hand
-Hush, sweet baby,
-Your soul's in the sky
-
-Heart of an angel,
-Sent to the heaven
-Where all is forgiven,
-She's got the heart of an angel
-The world needs some healing,
-For all to be forgiven
-She's got the heart of an angel
-
-
 

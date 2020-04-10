@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sweet-memories-andy-williams
-lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/sweetmorning.html
 name: Sweet Memories
 rankings:
 - end_date: '1968-06-14'
@@ -32,28 +31,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
 ---
-
-My world is like a river, as dark as it is deep
-Night after night the past slips in and gathers all my sleep
-My days are just an endless stream of emptiness to me
-Filled only by the fleeting moments of her memory
-
-Sweet memories
-Sweet memories
-Mmm
-
-She slipped into the silence of my dreams again last night
-Wandering from room to room, she's turning on each light
-Her laughter spills like water from the river to the sea
-And I'm swept away from sadness, clinging to her memory
-
-Sweet memories
-Sweet memories
-Mmm
-
-Sweet memories
-Sweet memories
-Mmm
-
-
 

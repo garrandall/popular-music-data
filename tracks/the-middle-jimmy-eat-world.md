@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-middle-jimmy-eat-world
-lyrics_url: https://www.azlyrics.com/lyrics/jimmyeatworld/praisechorus.html
 name: The Middle
 rankings:
 - end_date: '2002-03-22'
@@ -140,41 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
-
-Are you gonna live your life wonderin' standing in the back lookin' around?
-Are you gonna waste your time thinkin' how you've grown up or how you missed out?
-Things are never gonna be the way you want.
-Where's it gonna get you acting serious?
-Things are never gonna be quite what you want.
-Or even at 25, you gotta start sometime.
-I'm on my feet, I'm on the floor, I'm good to go.
-Now all I need is just to hear a song I know.
-I wanna always feel like part of this was mine.
-I wanna fall in love tonight.
-Are you gonna live your life standing in the back looking around?
-Are you gonna waste your time?
-Gotta make a move or you'll miss out.
-Someone's gonna ask you what it's all about.
-Stick around nostalgia won't let you down.
-Someone's gonna ask you what it's all about.
-Whatcha gonna have to say for yourself?
-I'm on my feet, I'm on the floor, I'm good to go.
-Now all I need is just to hear a song I know.
-I wanna always feel like part of this was mine.
-I wanna fall in love tonight.
-Crimson and clover, over and over.
-Crimson and clover, over and over.
-Our house in the middle of the street, why did we ever meet?
-Started my rock 'n roll fantasy.
-Don't don't, don't let's start, why did we ever part?
-Kick start my rock 'n rollen heart.
-I'm on my feet, I'm on the floor, I'm good to go.
-So come on Davey, sing me somethin' that I know.
-I wanna always feel like part of this was mine.
-I wanna fall in love tonight.
-Here tonight.
-I wanna always feel like part of this was mine
-I wanna fall in love tonight.
-
-
 

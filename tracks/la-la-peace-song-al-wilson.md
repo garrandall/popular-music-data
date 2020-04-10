@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: la-la-peace-song-al-wilson
-lyrics_url: https://www.azlyrics.com/lyrics/alwilson/lalapeacesong.html
 name: La La Peace Song
 rankings:
 - end_date: '1974-10-11'
@@ -48,88 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
 ---
-
-Mmm hmm, la la, oh, yeah
-
-What's that sound, so profound
-Over heads of children, Lord
-As they pass
-
-Sounds like thunder
-But thereâs no rain
-This kind of thunder blows down
-Doors and walls and things
-
-Ah, somebody's crying
-For those dying
-But no one knows
-How long it's gonna last
-
-Steel birds falling to the ground
-Not knowing whatâs below
-When the end comes, tell me now
-Where we gonna go
-
-Oh, people, that's my
-La la la la peace song
-La la la la, tell me
-Why can't we get along
-
-Oh, people, that's my
-La la la la peace song
-La la la la, tell me
-Why can't we get along
-
-Oh, I'll tell you why
-It's not safe to fly
-You might get hijacked
-To an unknown land
-
-Desperate people seeking refuge
-From corruption, oh
-By means of subterfuge
-
-Oh, sabotage, men at large
-Innocent people suffering
-By another's hand
-
-Racial injustice dividing men
-Allowing their hate to grow
-Tell me, whenâs it gonna end
-
-Whoa, oh, people, thatâs my
-La la la la la la la peace song
-La la la la, tell me
-Why can't we get along
-
-Oh, people, thatâs my
-La la la la la la la peace song
-La la la la, tell me
-Why can't we get along
-Oh, sing it with me now
-
-Oh, hear me, that's my
-La la la la la peace song
-La la la la, tell me
-Why can't we get along
-
-Oh, hear that sound, so profound
-Itâs the voice of people
-Lord, hear them pray
-
-Feel the strength of their words
-Lead us not to temptation
-Lest we go astray
-
-Oh, people, that's my
-La la la la peace song
-La la la la, tell me
-Why can't we get along
-
-Oh, that's my
-La la la la la peace song
-La la la la, tell me
-Why can't we get along
-
-
 

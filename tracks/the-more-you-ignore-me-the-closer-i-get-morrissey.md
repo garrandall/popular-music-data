@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-more-you-ignore-me-the-closer-i-get-morrissey
-lyrics_url: https://www.azlyrics.com/lyrics/morrissey/themoreyouignoremethecloseryouget.html
 name: The More You Ignore Me The Closer I Get
 rankings:
 - end_date: '1994-03-25'
@@ -68,41 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
 ---
-
-The more you ignore me
-the closer I get
-you're wasting your time
-the more you ignore me
-the closer I get
-you're wasting your time
-I will be
-in the bar
-with my head
-on the bar
-I am now
-a central part
-of your mind's landscape
-whether you care
-or do not
-yeah, I've made up your mind
-the more you ignore me
-the closer I get
-you're wasting your time
-the more you ignore me
-the closer I get
-you're wasting your time
-Beware!
-I bear more grudges
-than lonely high court judges
-when you sleep
-I will creep
-into your thoughts 
-like a bad debt
-that you can't pay
-take the easy way
-and give in
-yeah, and let me in
-IT'S WAR
-
-
 

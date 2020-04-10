@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: chains-nick-jonas
-lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/chainsremix.html
 name: Chains
 rankings:
 - end_date: '2015-02-20'
@@ -88,54 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
 ---
-
-
-With her wine-stained lips, yeah sheâs nothing but trouble
-Cold to the touch but sheâs warm as a devil
-I gave her my heart but she wanted my soul
-She tasted her break and I canât get more
-
-
-You got me in chains, you got me in chains for your love
-But, I wouldnât change, no I wouldnât change this love
-You got me chains, you got me in chains for your love
-But, I wouldnât change, no I wouldnât change this love
-
-
-Tryna break the chains but the chains only break me
-(Hey-ey-ey-ey, hey-ey-ey-ey, hey-ey-ey-ey, hey-ey-ey-ey)
-Tryna break the chains but the chains only break me
-
-
-I am no criminal, just a simple individual
-I want it all, need it now, no subliminal
-It is not that difficult, here's a visual
-Chains and whips, make em strip, I am in control
-You play the submissive role, then maybe we switch the role
-
-
-I'll be your slave, you can have me anyway that you want
-You got me insane, you got me insane for your love
-And I wouldn't change, no I wouldn't change this love
-Got me chains, you got me in chains for your love
-But, I wouldn't change, no I wouldn't change this love
-
-
-Tryna break the chains but the chains only break me
-(Hey-ey-ey-ey, hey-ey-ey-ey, hey-ey-ey-ey, hey-ey-ey-ey)
-Tryna break the chains but the chains only break me
-
-Baby tell me why, why you do, do me wrong
-Baby tell me why, why you do, do me wrong
-Gave you my heart but you took my soul
-
-
-You got me in chains, you got me in chains for your love
-But, I wouldnât change, no I wouldnât change this love
-You got me chains, you got me in chains for your love
-But, I wouldnât change, no I wouldnât change this love
-
-Tryna break the chains but the chains only break me
-
-
 

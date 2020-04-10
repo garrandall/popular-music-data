@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: mirrors-justin-timberlake
-lyrics_url: https://www.azlyrics.com/lyrics/pentatonix/hitmedleypharrellwilliamsmileycyruscoldplayjustintimberlakemore.html
 name: Mirrors
 rankings:
 - end_date: '2013-03-08'
@@ -176,69 +175,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
 ---
-
-Who you are, where you're from
-What you do
-As long as you love me 
-Here we go!
-
-I got a feelin'
-That tonight's gonna be a good night
-That tonight's gonna be a good night
-That tonight's gonna be a good, good night
-I know that we'll have a ball
-If we get down and go out and just lose it all
-I feel stressed out and I wanna let it go
-Let's go way out spaced out and losing all control
-
-I used to rule the world
-Seas would rise when I gave the word
-But in the morning I sleep alone
-Sweep the streets I used to own
-I hear Jerusalem bells are ringing
-Roman Cavalry choirs are singing
-Be my mirror, my sword, my shield
-My missionaries in a foreign field
-For some reason I can't explain
-I know Saint Peter won't call my name
-Never an honest word
-But that was when I ruled the world
-
-(Oh...hey)
-It might seem crazy what I'm 'bout to say
-Sunshine she's here you can take a break
-Hot air balloon that we can go to space
-With the air like I don't care baby by the way
-(Because I'm happy)
-Clap along if you feel like a room without a roof
-(Because I'm happy)
-Clap along if you feel like happiness is the you
-(Because I'm happy)
-Clap along if you know what happiness is to you (Happy)
-Clap along if you feel like that's what you wanna do
-
-We clawed, we chained
-Our hearts in vain
-We jumped, never asking why
-We kissed, I fell under your spell
-In love no one could deny
-Don't you ever say
-"I just walked away, I will always want you"
-I came in like a wrecking ball
-I never hit so hard in love
-All I wanted was to break your walls
-All you ever did was, wre-e-eck me
-Yeah you, you wre-e-eck
-
-I don't wanna lose you now
-I'm lookin' right at the other half of me
-The vacancy that sat in my heart
-Is a space that now you hold
-Show me how to fight for now
-And I'll tell you, baby, it was easy
-Comin' back here to you once I figured it out
-You were right here all along
-It's like you're my mirror
-
-
 

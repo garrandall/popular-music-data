@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: can-t-stop-after-7
-lyrics_url: https://www.azlyrics.com/lyrics/after7/hesaidshesaid.html
 name: Can't Stop
 rankings:
 - end_date: '1990-08-03'
@@ -108,46 +107,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
 ---
-
-Aw Randy Ran what's up. 
-We talkin' bout girlies
-
-If you think your wrong, then you know your right
-Gettin' into my business, just ain't satisfied
-Better stop dippin' girl
-It don't become of you
-You got too much time on your hand oh baby
-
-If your lovin' me
-Keep on lovin' me
-Don't let this silly girl distract you from me
-All she wants is
-To get you away from me, don't fall into that trap
-
-He said, she said, we said, we don't need it
-He said, she said, we said we don't need it. 
-
-I know you want me
-But you cant have me
-My love is tied up with my girl right now
-You told her you saw me
-Just the other day, kickin' it with the invisible woman
-
-How could you try such a silly willy game
-The two of us we're not havin' it no way
-My sweet heart is my only lover
-Don't play me like a sho nuff fool nooooo
-
-(Aw kevon here they come talkin' that mess)
-(Wait a minute, can I say somethin',
-The girlie ain't got no business in my business)
-(That's right)
-
-He said, she said, we said, we don't need it
-He said, she said, we said we don't need it.
-
-He said, she said, we said, we don't need it
-He said, she said, we said we don't need it.
-
-
 

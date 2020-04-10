@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: family-affair-mary-j--blige
-lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/familyaffairremix.html
 name: Family Affair
 rankings:
 - end_date: '2001-08-03'
@@ -172,71 +171,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
 ---
-
-
-Yeah, uh, what, uh, yeah, uh
-hey yo you can hit the dance floor now, you ain't gotta wait
-we can take this outside, you ain't gotta hate
-this here is a family affair, the family is here
-everybody put your hands in the air
-we don't need no haten or rachen
-somebody better calm duke down cause the eight'll lace him
-while your waitin get it perculatin
-love to smoke previlly purple hazen
-sharp as a buck fifty
-doing my dance, and honey mad cause she can't keep up with me
-but still banging em, sogging em, still robbing em
-and the whole world knows Kiss is a problem
-but I ain't come to fight, I came to have fun tonight
-and hit more then one tonight
-get crunk from begenning to end
-Mary J and Jada, Y, O, we did it again, ugh
-
-
-come on everybody get on up
-cause you know we gots to get it crunk
-Mary J is in the spot tonight
-and I'm gonna make you feel alright
-come on baby just party with me
-let loose and set your body free
-leave your situations at the door
-so when you step inside jump on the floor
-
-
-
-
-gonna gonna be about a matter of time
-before you get loose and start to lose your mind
-cop you a drink, go ahead and rock your ice
-cause were celebratin no more drama in our life
-get the track pumpin, everybody is jumpin
-go ahead twist your back and get your body bumpin
-I thought I told you to leave your situations at the door
-so grab somebody and get your ass on the dance floor
-
-
-
-
-Yall can't deny it, uh, yeah, this is cracklatin
-Yeah it's Mary and the kid
-bouncing in the six four until we crack the things
-after a few shots I'm faded
-family affair, yall don't where the spot is located if your not related
-and they got to hate it
-ha switch from a ring to chapar to a rolex
-I watch them grin it
-this year there is no more drama 
-mainly because now my saving account show more commas
-usally it's mello rappers
-in the club pulling models and pulling bottles out them yellow wrappers
-staying (?) to those hammers
-and be standing on the couch like my moms ain't teach me no manners
-ma we can leave the club and hit the beach in Guyana
-don't come back to our features is tanner
-and thiers acscents on each of our grammers
-your with the young F-A-B-O-L-O-U-S family
-
-
-
-
 

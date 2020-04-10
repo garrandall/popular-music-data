@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: love-me-yvonne-elliman
-lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/bestofmylove.html
 name: Love Me
 rankings:
 - end_date: '1976-10-08'
@@ -84,59 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
 ---
-
-Every night, I'm lyin' in bed
-Holdin' you close in my dreams
-Thinkin' about all the things that we said
-Comin' apart at the seams
-
-We try to talk it over
-But the words come out too rough
-I know you were tryin'
-To give me the best of your love
-
-Beautiful faces and loud empty places
-Look at the way that we live
-Wastin' our time, on cheap talk and wine
-Left us so little to give
-
-That same old crowd was like a cold dark cloud
-That we could never rise above, no
-But here in my heart
-I give you the best of my love
-
-Oh, sweet darlin'
-You get the best of my love
-Oh, sweet darlin'
-You get the best of my love
-
-I'm goin' back in time
-And it's a sweet dream
-It was a quiet night
-And I would be all right
-If I could go on sleepin'
-
-But every mornin', I wake up and worry
-What's gonna happen today
-You see it your way and I see it mine
-But we both see it slippin' away
-
-You know we always had each other baby
-I guess it wasn't enough, no, no
-But here in my heart
-I give you the best of my love
-
-Oh, sweet darlin'
-You get the best of my love
-Oh, sweet darlin'
-You get the best, the best of my love
-
-Oh, sweet darlin'
-You get the best of my love, best of my love
-Oh, sweet darlin'
-You get the best of my love
-You get the best of my love
-Oh oh, sweet darlin'
-
-
 
