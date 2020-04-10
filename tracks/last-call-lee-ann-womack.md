@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: last-call-lee-ann-womack
-lyrics_url: https://www.azlyrics.com/lyrics/leeannwomack/whytheycallitfalling.html
 name: Last Call
 rankings:
 - end_date: '2009-02-06'
@@ -44,57 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
 ---
-
-It's like jumpin
-It's like leapin
-It's like walkin on the ceilin
-It's like floatin
-It's like flyin through the air
-It's like soarin                         
-It's like glidin                         
-It's a rocket ship you're ridin
-It's a feelin that can take you anywhere
-
-So why they call it fallin
-Why they call it fallin                                                   
-Why they call it fallin                         
-I don't know
-
-There was passion
-There was laughter
-The first mornin after                         
-I just couldn't get my feet to touch the ground
-Every time we were together                         
-We talked about forever                         
-I was certain it was Heaven we had found                         
-
-So why they call it fallin
-Why they call it fallin                                                   
-Why they call it fallin                         
-I don't know
-
-But you can't live your life                         
-Walkin in the clouds                         
-Sooner or later                         
-You have to come down                         
-
-It's like a knife
-Through the heart                         
-When it all comes apart                         
-It's like someone takes a pin to your balloon
-It's a hole                         
-It's a cave                         
-It's kinda like a grave                         
-When he tells you that he's found somebody new                         
-
-So why they call it fallin
-Why they call it fallin                                                   
-Why they call it fallin                         
-Now I know
-
-Ooh, why they call it fallin
-Why they call it fallin                        
-Now I know
-
-
 

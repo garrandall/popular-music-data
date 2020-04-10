@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nobody-to-blame-chris-stapleton
-lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/nobodytoblame.html
 name: Nobody To Blame
 rankings:
 - end_date: '2016-01-29'
@@ -68,41 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
 ---
-
-She took down the photograph
-Of our wedding day
-Ripped it down the middle
-And threw my half away
-And I got nobody to blame but me
-I got nobody to blame but me
-She broke all my fishing rods
-Put my guns in hock
-Threw my clothes out in the yard
-And changed out all the locks
-And I got nobody to blame but me
-I got nobody to blame but me
-
-
-I know right where I went wrong
-I know just what got her gone
-Turned my life into this country song
-And I got nobody to blame but me
-I got nobody to blame but me
-
-She fired up my old hot rod
-Ran it in the pond
-Put sugar in my John Deere
-I canât even mow my lawn
-And I got nobody to blame but me
-I got nobody to blame but me
-She built her a bonfire
-With my old six string
-Took all my good whiskey
-And poured it down the drain
-And I got nobody to blame but me
-I got nobody to blame but me
-
-
-
-
 

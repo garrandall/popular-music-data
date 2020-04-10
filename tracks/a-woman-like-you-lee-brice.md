@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: a-woman-like-you-lee-brice
-lyrics_url: https://www.azlyrics.com/lyrics/leebrice/womanlikeyou.html
 name: A Woman Like You
 rankings:
 - end_date: '2012-01-06'
@@ -88,59 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
 ---
-
-Last night, outta the blue
-Driftinâ off to the evening news
-She said, "Honey, what would you do
-If youâd have never met me"
-I just laughed, said "I donât know,
-But I could take a couple guesses though"
-And then tried to dig real deep,
-Said, "Darling honestly...
-
-Iâd do a lot more offshore fishinâ
-Iâd probably eat more drive-thru chicken
-Take a few strokes off my golf game
-If Iâd have never known your name
-Iâd still be driving that old green âNova
-I probably never would have heard of yoga
-I'd be a better football fan
-But if I was a single man
-Alone and out there on the loose
-Well Iâd be looking for a woman like you."
-
-I could tell that got her attention
-So I said, "Oh yeah, I forgot to mention,
-I wouldnât trade a single day
-For 100 years the other way."
-She just smiled and rolled her eyes,
-Cause sheâs heard all of my lines
-I said, "Câmon on girl, seriously
-If I hadnât been so lucky, Iâd be..
-
-Shootinâ pool in my bachelor pad
-Playing bass in my cover band
-Restocking up cold Bud Light
-For poker every Tuesday night, yeah
-Iâd have a dirt bike in the shed
-And not one throw pillow on the bed
-Iâd keep my cash in a coffee can
-But if I was a single man
-Alone and out there on the loose
-Well Iâd be looking for a woman like you."
-
-She knows what a mess Iâd be if I didnât have her here
-But to be sure, I whispered in her ear
-"You know I get sick deep-sea fishinâ
-And you make the best fried chicken
-I got a hopeless golf game
-I love the sound of your name
-I might miss that old green âNova
-But I love watchinâ you do yoga
-Iâd take a gold band on my hand
-Over being a single man
-Cause honestly I donât know what Iâd do
-If Iâd never met a woman like you."
-
-
 

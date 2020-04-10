@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: long-time-gone-dixie-chicks
-lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/longtimegone.html
 name: Long Time Gone
 rankings:
 - end_date: '2002-06-28'
@@ -88,75 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
 ---
-
-Daddy sits on aâ front porch swinging
-Looking out on a vacant field
-Used to be filled with burley t'bacca
-Now he knows it never will
-My Brothers found work in Indiana
-M' Sisters a nurse at the old folks home
-Mama still cooking too much for supper
-And me Iâve been a long time gone
-
-
-Been a long time gone
-No, I ain't hoed a row since I don't know when
-Long time gone
-And it ain't coming back again
-
-Deliah plays that ol' church pian'a
-Sitting out on her daddyâs farm
-She always thought that we'd be together
-Lord I never meant to do her harm
-Said she could hear me singin' in the choir
-Me, I heard another song
-I caught wind and hit the road runnin'
-And Lord, I've been a long time gone
-
-
-Been a long time gone
-Lord, I ain't had a prayer since I don't know when
-Long time gone
-And it ain't comin' back again
-
-
-
-
-Now me, I went to Nashville,
-Tryin' to beat the big deal
-Playin' down on Broadway
-Gettin' there the hard way
-Living from a tip jar
-Sleeping in my car
-Hocking my guitar
-Yeah Iâm gonna be a star
-
-Now, me and Deliah singing every Sunday
-Watching the children and the garden grow
-We listen to the radio to hear what's cookinâ
-But the music ain't got no soul
-Now they sound tired but they don't sound Haggard
-They've got money but they don't have Cash
-They got Junior but they don't have Hank 
-I think, I think, I think
-
-The rest is a long time gone
-No, I ain't hit the roof since I donât know when
-Long time gone
-And it ain't coming back
-I said a long time gone
-No, I ain't honked the horn since I donât know when
-Long time gone
-And it ain't coming back again
-
-I said a long time, long time, long time gone
-Well itâs been a long time
-
-Long time, long time, long time gone
-Oh, it's been a long time gone
-
-Long time, long time, long time gone
-Yeah yeah
-
-
 

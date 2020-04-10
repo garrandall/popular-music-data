@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dani-california-red-hot-chili-peppers
-lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/danicalifornia.html
 name: Dani California
 rankings:
 - end_date: '2006-04-28'
@@ -112,80 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
 ---
-
-Getting born in the state of Mississippi
-Papa was a copper
-And Mama was a hippie
-
-In Alabama she would swing a hammer
-Price you gotta pay when you break the panorama
-
-She never knew that there was
-Anything more than poor
-
-What in the world does your
-Company take me for
-
-Black bandana sweet Louisiana
-Robbin' on a bank in the state of Indiana
-
-Sheâs a runner, rebel and a stunner
-On her merry way sayinâ
-Baby what you gonna
-
-Looking down the barrel of a
-Hot metal 45
-Just another way to survive
-
-California rest in peace
-Simultaneous release
-California show your teeth
-Sheâs my priestess; I'm your priest
-
-Sheâs a lover baby and a fighter
-Shoulda seen it cominâ when
-It got a little brighter
-
-With a name like Dani California
-The day was gonna come
-When I was gonna mourn ya
-
-A little loaded she was
-Stealinâ another breath
-I love my baby to death
-
-California rest in peace
-Simultaneous release
-California show your teeth
-Sheâs my priestess; I'm your priest
-
-Who knew the other side of you
-Who knew what others died to prove
-Too true to say goodbye to you
-Too true to say say say
-
-Push the fader, gifted animator
-One for the now and eleven for the later
-
-Never made it up to Minnesota
-North Dakota man was a gunnin'
-For the quota
-
-Down in the Badlands
-She was savinâ the best for last
-
-It only hurts when I laugh
-Gone too fast
-
-California rest in peace
-Simultaneous release
-California show your teeth
-Sheâs my priestess; I'm your priest
-
-California rest in peace
-Simultaneous release
-California show your teeth
-Sheâs my priestess; I'm your priest
-
-
 

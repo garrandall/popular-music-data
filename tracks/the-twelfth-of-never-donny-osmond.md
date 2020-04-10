@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-twelfth-of-never-donny-osmond
-lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/twelfthofnever.html
 name: The Twelfth Of Never
 rankings:
 - end_date: '1973-03-09'
@@ -60,21 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
 ---
-
-You ask me how much I need you, must I explain?
-I need you, oh my darling, like roses need rain
-You ask how long I'll love you, I'll tell you true
-Until the Twelfth of Never, I'll still be loving you
-
-Hold me close, never let me go
-Hold me close, melt my heart like April snow
-
-I'll love you 'til the bluebells forget to bloom
-I'll love you 'til the clover has lost its perfume
-I'll love you 'til the poets run out of rhyme
-Until the Twelfth of Never and that's a long, long time
-
-Until the Twelfth of Never and that's a long, long time
-
-
 

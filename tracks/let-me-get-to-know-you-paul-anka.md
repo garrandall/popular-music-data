@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: let-me-get-to-know-you-paul-anka
-lyrics_url: https://www.azlyrics.com/lyrics/paulanka/idontliketosleepalone.html
 name: Let Me Get To Know You
 rankings:
 - end_date: '1974-01-11'
@@ -40,35 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
-
-I don't like to sleep alone
-Stay with me, don't go
-Talk with me for just a while
-So much of you to get to know
-Reaching out touching you
-Leaving all the worries far behind
-Loving you the way I do
-My mouth on yours and yours on mine
-Marry me, let me live with you
-Nothing's wrong and love is right
-
-Like a man said in his song
-"Help me make it through the night"
-Loneliness can get you down
-When you get to thinkin' no one cares
-Lean on me
-(And I'll lean on you)
-Together we will see it through
-
-No, I don't like to sleep alone
-It's sad to think some folks do
-No, I don't like to sleep alone
-No one does
-Do you
-
-(I don't like to sleep alone)
-No one does
-Do you
-
-
 

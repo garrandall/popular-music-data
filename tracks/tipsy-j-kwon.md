@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: tipsy-j-kwon
-lyrics_url: https://www.azlyrics.com/lyrics/jkwon/tipsymurphyleeandchingyremix.html
 name: Tipsy
 rankings:
 - end_date: '2004-01-23'
@@ -128,80 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
 ---
-
-
-Ay yo Track Boys
-This possibly be the biggest remix ever
-Lets go!
-
-
-A here comes the B to the C to the D
-No cat out the Lou gangsta as me
-Ya'll hit two, I'm jus goin' for three
-Bottle full of Cris, but I still rock a T
-And ya'll gotta love the fact that I'm from the streets
-Drink so much that it fucked up my T
-People wasn't drunk, so why they wanna be
-Cuz you get eleven thousand spins in a week
-Here comes the C to the B to the A
-Never fall off like B2K
-Wanna get tipsy, you one drink away
-Why would I buy when it's better when you pay
-Track Boys from the Lou, Jermaine from the A
-But they got the boy gettin Tipsy with Sway
-Then she said she had somethin to say "One hit wonder"
-Bitch I'm here to stay!
-
-
-Now everybody everybody everybody everybody 
-Everybody in the club gettin tipsy
-Now everybody everybody everybody everybody 
-Everybody in the club gettin tipsy
-
-
-I pulled up to the club already filthy
-She say she don't get fucked
-She innocent til proven guilty
-Walkin VIP, cats screamin GIB
-Skull cap with a bib? on the back DTP
-This girl staring so I put a spell on her like a gypsy
-We bought up the bar with hundreds
-Some drunk not tipsy
-Don't trip cuz the whole St. Louis is riding with me
-Cats start hating, tell them people come get me
-Yeah!
-Here comes the king of the Midwest
-C H to the I to the N to the G Y
-My homies in the back puffin on some ooo wee
-I know the owner so I snuck in the ooo zee
-Plus if I blow somebody they gon' try to sue me
-If rappin was a film I'm starrin in this movie
-The Git It Boys hurr, they gon get some boozee?
-Lets take it from the club to the ja-cuzzi
-
-
-
-
-(Ay yo) 1 I am the dude that the people call Murph
-Check my resume you can see I put in work
-Two (two) women that I add to my phone
-Three roll ? smoke one when I get home
-Four real dirty you and I ??
-Those the people I thank, for my damn record sales
-Five new broads and one ain't broke
-White Porsche truck wood grain like coke
-Now everybody in the club lookin spiffy
-Mamma got on a dress, boots from the sixties
-Oh girl, Shantay tipsy
-Kim, Kesha, and Pam all leavin with me
-Jackers wanna get me, its not that sipmply
-Seventeen fillin up, but you can make it empty
-Now which one of ya'll niggas wanna tempt me (now which one of ya'll niggas wanna tempt me)
-
-
-
-Everybody in the club gettin tipsy
-
-
-
 

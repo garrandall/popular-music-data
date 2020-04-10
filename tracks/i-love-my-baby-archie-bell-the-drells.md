@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: i-love-my-baby-archie-bell-the-drells
-lyrics_url: https://www.azlyrics.com/lyrics/archiebellthedrells/dancingtoyourmusic.html
 name: I Love My Baby
 rankings:
 - end_date: '1969-04-04'
@@ -21,57 +20,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
 ---
-
-(Dancing to your music)
-I remember when I was
-The captain in command
-But now I'm dancing
-To your music, baby
-(Dancing to your music)
-Cause you got the upper hand
-
-Never had the nerve before
-To get up on the floor
-I'm spinning round and round
-Really getting down
-Got me screaming for more
-
-You tell me, dance, man
-Get on down
-Clap your hands, man
-I listen to the sound
-The band is putting down
-
-Dancing to your music
-Anything you tell me, girl
-You know that I'll do it
-
-I'll stand on my head for you
-If you want me to
-I'll cut you a rug
-Cause I'm so in love
-So in love with you
-
-Dancing, do your thing
-Clap your hands, man
-I'm dancing to the sound
-The band is putting down
-
-I'm dancing to your music
-Anything you tell me, girl
-You know that I'll do it
-
-I'll break down on my knees
-Girl, you really got me on my toes
-I'm scared you'll put me outdoors
-
-I'm dancing to your music
-Anything you tell me, girl
-You know that I'll do it
-
-I'm dancing to your music
-Anything you tell me, girl
-You know that I'll do it
-
-
 

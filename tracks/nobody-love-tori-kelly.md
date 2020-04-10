@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: nobody-love-tori-kelly
-lyrics_url: https://www.azlyrics.com/lyrics/torikelly/nobodylove.html
 name: Nobody Love
 rankings:
 - end_date: '2015-03-20'
@@ -52,54 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
 ---
-
-(Why, why)
-
-Everybodyâs looking for that something
-No one ever wants to pay the price
-Everybody's scared of going nowhere
-But we ainât going anywhere tonight
-
-I should be more cynical and tell myself itâs not okay
-(To feel this good when Iâm with you)
-I try my best to fight it, say I hate you but I always stay
-Woah, woah, woah cause
-
- 
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-
-Everybodyâs talking âbout the next thing
-Feel like what they got ainât good enough
-But all I wanna do is release the tension
-Bring the conversation back to us
-
-I should be more cynical and tell myself itâs not okay
-(To feel this good when Iâm with you)
-I try my best to fight it, say I hate you but I always stay
-Woah, woah, woah cause
-
- 
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-
-Can we stop all the yelling baby hear me out
-I want you here and now
-I try my best to fight it, say I hate you but I always stay
-Hey, hey, heyâ¦
-Yeah, alright, everybodyâs looking for that new thing
-Oh oh oh, oh oh oh
-Ainât nobody, nobody, nobody love
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-Ainât nobody love, ainât nobody love like you do
-Ainât nobody love, ainât nobody love like you-oo-oo-oo do
-
-
 

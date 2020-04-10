@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: baby-talk-alisha
-lyrics_url: https://www.azlyrics.com/lyrics/alishasattic/littleshotgun.html
 name: Baby Talk
 rankings:
 - end_date: '1985-12-27'
@@ -76,65 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
 ---
-
-The mirror's cracking, baby 
-For seven years I've told you 
-What's your sexonica is 
-The demon in your pocket, yeah 
-And quickly like a rush 
-You get the stress 
-And it's all crazy more or less 
-And something's triggering 
-And it's a little wonder 
-You still look pretty 
-But underneath it's a rage 
-Everybody says slow down 
-You gotta level out 
-You won't blow away the pain 
-
-The fire is hot now, baby 
-(fire is hot now, baby) 
-And hot can burn you 
-You are keeping words inside 
-And you have got to learn to exhale 
-And every time we talk it's like 
-Your ego manifests, but then 
-I guess something's triggering 
-
-And it's a little wonder 
-You still look pretty 
-But underneath it's a rage 
-Everybody says slow down 
-You gotta level out 
-You won't blow away the pain 
-
-It's a little wonder 
-You still look pretty 
-But underneath it's a rage (rage) 
-Everybody says slow down 
-You gotta level out 
-You won't blow away the pain 
-
-(la la la la la..) 
-Something's triggering.. 
-
-And it's a little wonder 
-You still look pretty 
-But underneath it's a rage 
-Everybody says slow down (slow down) 
-You gotta level out (level out) 
-You won't blow away the pain 
-
-The fire is hot now 
-And hot can burn you 
-You are keeping words inside 
-And you have got to learn to exhale 
-(la la la la la..) 
-And every time we talk it's like 
-Your ego manifests, but then 
-I guess something's triggering 
-(what's your sexonica?) 
-Yeah
-
-
 

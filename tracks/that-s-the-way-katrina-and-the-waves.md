@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: that-s-the-way-katrina-and-the-waves
-lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/tohaveandtohold.html
 name: That's The Way
 rankings:
 - end_date: '1989-07-28'
@@ -56,57 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
 ---
-
-Darlin' I'm telling you
-One thing I believe is true
-Is that I'm always gonna love you
-And everything you say and do
-Oh, darlin' I'm telling you
-One thing I believe is true
-That until the end of never
-Gonna be in love forever
-
-To have and to hold
-By your side I will never grow old
-To have and to hold
-By your side I will never grow old
-
-Darlin' I've gotta say
-If you can love me my way
-I'll always treat you tender
-And with such sweet surrender
-Darlin' believe me
-If ever thought you'd leave me
-I'd cry so many teardrops
-I'll cry and cry and never stop
-
-To have and to hold
-By your side I will never grow old
-To have and to hold
-By your side I will never grow old
-
-Oh, darlin' to have and to hold
-I'm gonna love you, heart and soul
-With a love that will never grow cold
-Forever and ever and ever to have and to hold
-
-Darlin' I'm telling you
-One thing I believe is true
-Is that I'm always gonna love you
-In everything you say and do
-
-To have and to hold
-Mmm...
-By your side
-By your side
-Ooh...
-
-To have and to hold
-By your side I will never grow old
-To have and to hold
-By your side I will never grow old
-To have and to hold
-To have and To have and to hold
-
-
 

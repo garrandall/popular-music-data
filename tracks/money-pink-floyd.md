@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: money-pink-floyd
-lyrics_url: https://www.azlyrics.com/lyrics/ryanbeatty/pinkfloyd.html
 name: Money
 rankings:
 - end_date: '1973-05-25'
@@ -68,47 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
 ---
-
-Making the money to get by
-Smoking the Pink Floyd every night
-And I'm feeling sad 'cause everyday
-I pay the price
-Taking a walk to shake it off
-I'm trying to believe in what I want
-I don't what else I can say
-I'm made this way
-
-They say there's nothing to lose
-But I lose it everyday
-They say there's nothing to lose
-But I lose it everyday
-
-I'll find a place, I'll find a place
-Somewhere special
-I'll find a place, I'll find a place
-Somewhere special
-
-Mom and dad moved away from home
-To Santa Clarita years ago
-Just so that I could catch my dream
-(I owe everything)
-Honestly I could really cry
-I hope that I looked back on their life
-And see that I tried, I tried, I tried
-(I tried, I tried, I tried)
-
-They say there's nothing to lose
-But I lose it everyday
-They say there's nothing to lose
-But I lose it everyday
-
-I'll find a place, I'll find a place
-Somewhere special
-I'll find a place, I'll find a place
-Somewhere special, special
-I'll find a place somewhere special
-I'll find a place, I'll find a place
-Somewhere special
-
-
 

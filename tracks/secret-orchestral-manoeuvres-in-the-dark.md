@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: secret-orchestral-manoeuvres-in-the-dark
-lyrics_url: https://www.azlyrics.com/lyrics/orchestralmanoeuvresinthedark/theavenue.html
 name: Secret
 rankings:
 - end_date: '1985-12-20'
@@ -60,21 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
 ---
-
-We're strolling down the avenue
-Our fathers have before
-To the left is just a vacant smile
-To the right, the open door
-
-I've never loved for more than this
-It never was my style
-Again, we lied for gratitude
-Again, it's not worth while
-
-So arm and arm we carry on
-Though heaven's not a mile
-The secret is to fantasize
-The secret is to smile
-
-
 

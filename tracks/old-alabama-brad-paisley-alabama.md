@@ -5,7 +5,6 @@ features:
 - Alabama
 genres: []
 key: old-alabama-brad-paisley-alabama
-lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/oldalabama.html
 name: Old Alabama
 rankings:
 - end_date: '2011-04-29'
@@ -89,43 +88,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
 ---
-
-Sheâd rather wear a pair of cut-off jeans than a fancy evening dress, 
-And with her windows rolled down and her hair all blown around, sheâs a hot southern mess... 
-Sheâll take a beer over white wine and a campfire over candle light, 
-And when it comes to love, oh her idea of a romantic night... 
-
-Is listeninâ to old Alabama, drivin' through Tennessee... 
-A little Dixieland Delight at the Right Time of the Night, 
-And she canât keep her hands off of me-ee-eee! 
-
-And now weâre rollinâ down an old back road, 
-I got the steering wheel in one hand... 
-Weâll find a hideaway where she and I can play, 
-In Mother Natureâs band... 
-
-Now weâre listeninâ to old Alabama, parked somewhere in Tennessee... 
-A little Dixieland Delight and It Feels So Right, 
-And Itâs Love In The First Degree-ee-eee! 
-
-Forget about Sinatra or Coltrane, or some olâ Righteous Brothers song, 
-And Barry White ainât gonna work tonight, if you really wanna turn her on; 
-Play some back home come on music that comes from the heart, 
-Play something with lots of feeling, âcause thatâs where music has to startâ¦ 
-
-Now weâre listenin' to Old Alabama, and weâre drivin' through Tennessee, 
-A little Dixieland Delight and It Feels So Right and its Love in the First Degree... 
-
-Yeahâ you know weâre listenin' to Old Alabama (old Alabama) drivin' through Tennessee (Tennessee) 
-A little Why Lady Why at The Right Time of The Night 
-Oh and she canât keep her hands off of me-ee-eee 
-
-Oh, play me some old Alabama, 
-Oh, play me some old Alabama... 
-Wonât you play me some old Alabama, 
-Play me some old Alabama... 
-Wonât you pla-ee-ay-ay 
-yeee-haw!!!
-
-
 

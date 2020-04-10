@@ -5,7 +5,6 @@ features:
 - Billy Ray Cyrus
 genres: []
 key: old-town-road-lil-nas-x-billy-ray-cyrus
-lyrics_url: https://www.azlyrics.com/lyrics/lilnasx/oldtownroaddiploremix.html
 name: Old Town Road
 rankings:
 - end_date: '2019-03-22'
@@ -189,65 +188,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
 ---
-
-
-Oh, oh-oh
-Oh
-
-Yeah, I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-(Kio, Kio)
-
-
-I got the horses in the back
-Horse tack is attached
-Hat is matte black
-Got the boots that's black to match
-Ridin' on a horse, ha
-You can whip your Porsche
-I been in the valley
-You ain't been up off that porch, now
-
-Can't nobody tell me nothin'
-You can't tell me nothin'
-Can't nobody tell me nothin'
-You can't tell me nothin'
-
-Can't nobody tell me nothin'
-You can't tell me nothin'
-Can't nobody tell me nothin'
-You can't tell me nothin'
-
-
-Hat down, cross town, livin' like a rockstar
-Spent a lot of money on my brand new guitar
-Baby's got a habit: diamond rings and Fendi sports bras
-Ridin' down Rodeo in my Maserati sports car
-Got no stress, I've been through all that
-I'm like a Marlboro Man so I kick on back
-Wish I could roll on back to that old town road
-I wanna ride 'til I can't no more
-
-
-Yeah, I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-
-Yeah, I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more
-
-
 

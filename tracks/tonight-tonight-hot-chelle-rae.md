@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: tonight-tonight-hot-chelle-rae
-lyrics_url: https://www.azlyrics.com/lyrics/hotchellerae/higherallineedtonight.html
 name: Tonight Tonight
 rankings:
 - end_date: '2011-05-06'
@@ -128,82 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
 ---
-
-It feels like a dream
-The way you're looking at me
-Letting your eyes do the talking
-
-There's no need for words
-You wear my Van Halen shirt
-Dancing like nobody's watching
-
-You pull me close 
-And now I know
-This is where I wanna stay
-
-Yeah, frozen in time
-Your lips on mine
-I feel like we could float away
-
-Take me higher and higher till I can't breathe
-I don't need air when you're kissing me
-You make my world feel like paradise
-And you're all I need tonight
-
-Take me higher and higher, we're off the ground
-There's no turning back and we can't slow down
-We're falling in love at the speed of light
-And you're all I need tonight
-
-I brush the hair from your face
-My other hand on your waist
-Just like a scene from a movie
-
-Clothes start hitting the floor
-Before we get through the door
-I'm finally right where I should be
-
-You pull me close 
-And now I know
-This is where I wanna stay
-
-Yeah, frozen in time
-Your lips on mine
-I feel like we could float away
-
-Take me higher and higher till I can't breathe
-I don't need air when you're kissing me
-You make my world feel like paradise
-And you're all I need tonight
-
-Take me higher and higher, we're off the ground
-There's no turning back and we can't slow down
-We're falling in love at the speed of light
-And you're all I need tonight
-
-Yeah, yeah, yeah, yeah
-You're all I need tonight
-Baby, yeah, yeah, yeah, yeah
-You're all I need tonight
-
-Tonight, tonight
-Tonight, tonight
-
-Take me higher and higher till I can't breathe
-I don't need air when you're kissing me
-You make my world feel like paradise
-And you're all I need tonight
-
-Take me higher and higher, we're off the ground
-There's no turning back and we can't slow down
-We're falling in love at the speed of light
-And you're all I need tonight
-
-Yeah, yeah, yeah, yeah
-You're all I need tonight
-Baby, yeah, yeah, yeah, yeah
-You're all I need tonight
-Yeah, You're all I need tonight
-
-
 

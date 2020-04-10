@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: cry-cassadee-pope
-lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/iguesswerecool.html
 name: Cry
 rankings:
 - end_date: '2013-01-11'
@@ -12,56 +11,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
 ---
-
-There's something about how you look at me
-I can tell that you're for real
-My heartbeat pounds and my head spins round
-Is this how forever feels?
-
-Gonna take a chance, gonna take your hand
-Gonna let the real me show
-Baby just sit back and try not to laugh
-There's a few things you should know
-
-I'm gonna get jealous
-I can get moody when my hair's a mess
-And I cry over nothing, oh oh, oh oh
-I'm gonna ask all about your ex
-Gonna be late 'cause I can't choose which dress
-These are things I must confess, oh oh, oh oh
-And if you're okay with that then I'm okay with you
-And if you'll always have my back I guess we're cool
-
-If I've learned one thing you should never bring
-Any secrets into love
-'Cause the things you hide they build up inside
-And I don't want that for us
-I'm a little scared 'cause I wanna share
-The best of me with you
-But along with that comes a few red flags
-You should know what you're getting into
-
-I'm gonna get jealous
-I can get moody when my hair's a mess
-And I cry over nothing, oh oh, oh oh
-I'm gonna ask all about your ex
-Gonna be late 'cause I can't choose which dress
-These are things I must confess, oh oh, oh oh
-And if you're okay with that then I'm okay with you
-And if you'll always have my back I guess we're cool
-
-Yeah yeah, put my heart out on the table
-Yeah yeah, and you didn't run away
-Yeah yeah, love me if you're able
-
-Even though I get jealous
-I can get moody when my hair's a mess
-And I cry over nothing, oh oh, oh oh
-I'm gonna ask all about your ex
-Gonna be late 'cause I can't choose which dress
-These are things I must confess, oh oh, oh oh
-And if you're okay with that then I'm okay with you
-Glad I got this off my chest, so are we cool?
-
-
 

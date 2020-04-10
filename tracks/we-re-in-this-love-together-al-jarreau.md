@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: we-re-in-this-love-together-al-jarreau
-lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/letmeloveyou.html
 name: We're In This Love Together
 rankings:
 - end_date: '1981-08-07'
@@ -104,64 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
-
-Must have been that something you told me
-Whispered just the other day
-Said that you'd be leaving tomorrow
-But there's got to be some other way
-To bring you closer
-Can we look closer
-Would you stay with me
-
-
-Let me hold you
-I can hold you longer
-Let me feel you
-'Til my heart is stronger
-Let me love you
-I can love you tenderly
-
-I just can't believe that it's over
-You looked at me and said goodbye
-But deep inside my heart keeps on dreamin' baby
-Cause there's still that look of love in your eye
-When we were lovers
-So close to each other
-When our love was free
-
-
-Let me hold you
-I can hold you longer
-Let me feel you
-'Til my heart is stronger
-Let me love you
-Yes, I can love you tenderly
-So tenderly
-Let me love you, tenderly
-
-
-Love is patient
-Love is a gift
-Don't you know
-All this time
-I have been searchin
-For a love land
-Where we can live, together
-
-Live forever
-Live together
-Live forever
-Would you stay with me
-
-
-Let me hold you
-I can hold you longer
-Let me feel you
-'Til my heart is stronger
-Let me love you
-I can love you tenderly
-
-
-
-
 

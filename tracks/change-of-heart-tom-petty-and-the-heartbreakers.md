@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: change-of-heart-tom-petty-and-the-heartbreakers
-lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/listentoherheart.html
 name: Change Of Heart
 rankings:
 - end_date: '1983-03-04'
@@ -52,30 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
-
-You think you're gonna take her away
-With your money and your cocaine
-Keep thinkin' that her mind is gonna change
-But I know everything is okay
-
-
-She's gonna listen to her heart
-It's gonna tell her what to do
-Well, she might need a lot of lovin'
-But she don't need you
-
-You want me to think that I'm being used
-You want her to think it's over
-Can't you see it don't matter what you do
-Buddy you don't even know her
-
-
-
-And you just can't creep up behind her
-And you can't understand that she's my girl
-She's my girl
-
-
-
-
 

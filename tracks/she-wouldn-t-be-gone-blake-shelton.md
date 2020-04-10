@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: she-wouldn-t-be-gone-blake-shelton
-lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/homesweethome.html
 name: She Wouldn't Be Gone
 rankings:
 - end_date: '2008-11-14'
@@ -88,62 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
 ---
-
-I look out across corn rows from a dirt road 
-Babys kicked back in the front seat 
-Got her bare fit hanging out the window 
-
-We take a trip down memory lane 
-Dirt on the truck, no chance of rain 
-My third generation farming friends all pray that its on the way 
-And if it dont show up, we'll be alright 
-Because folks round here wouldnt take a million 
-For a different life 
-
-Home sweet home 
-I thank my lucky stars at night 
-I was raised down here and raised up right 
-And my pride, you've got that right 
-Home sweet home 
-Where a little bit goes long way 
-And we shut her down on sundays 
-I wont ever get too far away 
-From Home sweet home 
-
-Pull down to the cane bridge 
-Park in the ditch 
-Folks and poles are lined up 
-A little kid holds a stringer up 
-Got a mess of fish 
-I drive away with a smile on my face 
-Knowing that this place is blessed 
-By God's amazing grace 
-
-Home sweet home 
-I thank my lucky stars at night 
-I was raised down here and raised up right 
-And my pride, you've got that right 
-Home sweet home 
-Where a little bit goes long way 
-And we shut her down on sundays 
-I wont ever get too far away 
-From Home sweet home 
-
-Know matter i go 
-Or where the road might leave 
-This little speck on the map, will always be 
-
-Home sweet home 
-I thank my lucky stars at night 
-I was raised down here and raised up right 
-And my pride, you've got that right 
-Home sweet home 
-Where a little bit goes long way 
-And we shut her down on sundays 
-I wont ever get too far away 
-From Home sweet home... 
-
-Yeah, I'm coming home.
-
-
 

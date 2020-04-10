@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: fastest-girl-in-town-miranda-lambert
-lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/fastestgirlintown.html
 name: Fastest Girl In Town
 rankings:
 - end_date: '2012-08-17'
@@ -84,55 +83,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
 ---
-
-Youâve got the bullets
-Iâve got the gun.
-Iâve got a hankering for getting into something
-
-I hit the bottle, you hit the gas,
-I heard your 65 can really haul some ass.
-
-Iâm feeling frisky, you're feeling good
-I guess the whiskey is doing what it should
-I got the cigarettes
-Youâve got a lighter
-And when the sun goes down weâll start a little fire
-
-Ainât no use in trying to slow me down
-âCause youâre running with the fastest girl in town
-
-Ainât you baby?
-I like âem crazy.
-
-My reputation follows me around
-Just makes me want to give them more to talk about
-Letâs go to town for a little while
-Iâll be wearing nothing but a tattoo and a smile
-
-Ainât no use in trying to slow me down
-âCause youâre running with the fastest girl in town
-
-Ainât you baby?
-Youâre kinda crazy.
-
-Come on!
-
-I see the blue lights, we better run.
-Throw out the bottle and Iâll hide the gun
-If he pulls us over Iâll turn on the charm
-Youâll be in the slammer and Iâll be on his arm.
-
-Ainât no use in trying to slow me down
-âCause youâre running with the fastest girl in town
-
-Ainât you baby?
-Well I told you I was crazy.
-No I ainât no bodyâs baby. 
-Hey!
-
-Heâs got the bullets 
-Heâs got a gun
-I got the hankering for getting into something.
-
-
 

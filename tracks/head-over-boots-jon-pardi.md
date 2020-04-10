@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: head-over-boots-jon-pardi
-lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/headoverboots.html
 name: Head Over Boots
 rankings:
 - end_date: '2016-03-25'
@@ -104,50 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
 ---
-
-I wanna sweep you off your feet tonight
-I wanna love you and hold you tight
-Spin you around on some old dance floor
-Act like we never met before for fun, âcause
-
-Youâre the one I want, youâre the one I need
-Baby, if I was a king, ah, you would be my queen
-Youâre the rock in my roll
-Youâre good for my soul, itâs true
-Iâm head over boots for you
-
-The way you sparkle like a diamond ring
-Maybe one day we can make it a thing
-Test time and grow old together
-Rock in our chairs and talk about the weather, yeah
-
-So, bring it on in for that angel kiss
-Put that feel good on my lips, âcause
-
-Youâre the one I want, youâre the one I need
-Baby, if I was a king, ah, you would be my queen
-Youâre the rock in my roll
-Youâre good for my soul, itâs true
-Iâm head over boots for you
-
-Yeah, Iâm here to pick you up
-And I hope I donât let you down, no, âcause
-
-Youâre the one I want, youâre the one I need
-Baby, if I was a king, ah, you would be my queen
-Youâre the rock in my roll
-Youâre good for my soul, itâs true
-Iâm head over boots for you
-
-Youâre the one I want, youâre the one I need
-Baby, if I was a king, ah, you would be my queen
-Youâre the rock in my roll
-Youâre good for my soul, itâs true
-Iâm head over boots for you
-
-I wanna sweep you off your feet tonight
-I wanna love you and hold you tight
-Spin you around on some old dance floor
-
-
 

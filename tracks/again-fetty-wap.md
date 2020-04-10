@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: again-fetty-wap
-lyrics_url: https://www.azlyrics.com/lyrics/fettywap/again.html
 name: Again
 rankings:
 - end_date: '2015-09-04'
@@ -112,69 +111,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
 ---
-
-
-I want you to be mine again baby
-I know my lifestyle is driving you crazy
-I cannot see myself without you
-We call them fans though, girl you know how we do
-I go out of my way to please you
-I go out of my way to see you
-And I want you to be mine again baby
-I know my lifestyle is driving you crazy
-But, I cannot see myself without you
-We call them fans though, girl you know how we do
-I go out of my way to please you
-I go out of the way to see you
-I ainât playing no games, I need you
-
-Baby, can you understand Iâm a young nigga living
-Coming from the trap, all a nigga know is get it
-I ainât chasing no pussy, girl Iâm talking âbout the digits
-Big bank rolls in my pockets, all fifties
-Turned a little check, then, I showed you I could triple it
-Baby, itâs Zoovier, only want you
-I donât give a fuck who cares, tats on my face
-She donât give a fuck who stares, looking too good
-Get you fucked on sight
-Iâm tryna finish this who I started with
-Iâm tryna spend it all who I got it with
-She my trap queen, let her hit the bando
-We be counting up, watch how far them bands go
-Hop out my beamer, she jump out the Lambo
-Roll them bands up, smooth how the wind go
-Dumping wood guts allout the window
-Married to the money, I ainât never let go
-Baby, itâs Zoowap from the bando
-Dumping wood guts allout the window
-Married to the money, I ainât never let go
-Baby, itâs ZooWap from the fucking bando
-
-
-
-I hope you know I need you, ay, yeaaah baby
-I get up on my knees too, ay, yeaaah baby
-Do anything to please you, ay, yeaaah baby
-Top down when we breeze through, ay, yeaaah baby
-Know they call me Zoovier
-We living like a movie
-And all the bands down to going up, girl, you know we ran through it
-I need you baby, I ainât afraid admit it
-Girl, I need you baby, girl tell me if you with it
-Yeaah baby, all the bands Iâma spend it
-Big ZooWap to the finish
-When I come through, they screaming out
-Zoovier, baby scream it loud
-
-
-
-And I want you to be mine again baby
-I know my lifestyle is driving you crazy
-But, I cannot see myself without you
-We call them fans though, girl you know how we do
-I go out of my way to please you
-I go out of the way to see you
-I ainât playing no games, I need you
-
-
 

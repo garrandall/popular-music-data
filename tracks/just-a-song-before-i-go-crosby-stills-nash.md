@@ -1,8 +1,6 @@
 ---
 artists:
-- Crosby
-- Stills
-- Nash
+- Crosby, Stills & Nash
 features: []
 genres: []
 key: just-a-song-before-i-go-crosby-stills-nash

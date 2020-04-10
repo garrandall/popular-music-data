@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: do-you-believe-in-us-jon-secada
-lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/alwayssomething.html
 name: Do You Believe In Us
 rankings:
 - end_date: '1992-10-02'
@@ -128,50 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
-
-You say we're falling out of love
-You say we're running out of things to say
-Don't you think we've had enough
-Letting useless words get in the way
-Can't you see what's going on
-We're bringing problems where
-They don't belong.
-
-There's no way to work it out
-When there's always something
-We can turn this love around but
-There's always something.
-
-Stop and think and realize
-We got something here that's really good
-And maybe all we gotta do
-Is believe in us the way we should
-Without questions, without doubts
-Live and learn babe that's what love's about.
-
-There's no way to work it out when
-There's always something
-We can turn this love around but
-There's always something
-Starting here and starting 
-
-Now we can work together
-But we haven't got a prayer when
-There's  always something.
-
-Always agonizing, never compromising
-Always finding something wrong
-Stop and think and look around you
-Since the day I found you
-There's been something wrong.
-
-There's no way to work it out when
-There's always something
-We can turn this love around but
-Starting here and starting
-Now we can work together
-But we haven't got a prayer when
-There's always something.
-
-
 

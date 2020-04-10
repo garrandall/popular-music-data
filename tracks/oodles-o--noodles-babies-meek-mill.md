@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: oodles-o--noodles-babies-meek-mill
-lyrics_url: https://www.azlyrics.com/lyrics/meekmill/oodlesonoodlesbabies.html
 name: Oodles O' Noodles Babies
 rankings:
 - end_date: '2018-12-21'
@@ -12,78 +11,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
 ---
-
-This shit right here for my Oodles o' Noodles babies
-His maâ smoked the crack while she was pregnant so he can't even help that he crazy
-He goin' to jail, itâs inevitable, for real
-
-I ain't had nobody to give me no hope
-I hope my momma ain't doin' no coke
-I used to wish that my daddy was livin'
-I had a dream that I see him a ghost
-I used to act up when I went to school
-Thought it was cool, but I really was hurt
-Wanted my family to come to my games
-My mama couldn't make it 'cause she was at work
-Lived with my grandma, she took me to church
-Really no I ain't wanna go
-Remember I kissed my aunt in the casket
-And her forehead was cold
-I was like 4 years old
-We couldnât afford no clothes
-It was hand me down
-Who would think a nigga get a Grammy now?
-Got a black judge tryna tear me down
-All this jail time probably wear me down
-Turn the lights off in the bathroom
-Screaming, "Bloody, Bloody, Bloody Mary" now
-Havinâ nightmares about Candyman
-With the tool on me like a handyman
-Killed my lil' cousin, Iâm like, "Damn it, man"
-Had to see the footage on a camera, man
-On the pavement, with his brains out
-With the white sheet, he was laid out
-Wanna ask 'Ye, "Is this a choice?"
-It was like this when I came out
-What the fuck is you really complaining 'bout?
-I know niggas that's never gonâ make it out
-This that shit you won't see in the media
-Poor get poorer and the rich gettin' greedier
-Lot of daddies goin' back and forth out of jail
-Lot of sons growin' up and repeating them
-This the belly of the beast, you won't make it out
-Man, this shit was designed just to eat us up
-And my momma told, "Nigga, keep it up
-You gon' end up in prison, just sweepin' up"
-Remember, nobody never believed in us
-When they see us now, they can't believe it's us, no
-
-I think it's funny how
-We used to go to school, play SEGA's
-And then, next thing you know, you runnin' 'round with Glock .40s
-We ain't never believed in the police, they was shootin' us
-
-Yeah, they called it the projects, they put us in projects
-What they gon' do with us? Can't call the cops yet
-You might just get popped at
-'Cause they the ones shootin' us
-I'm on my mom's steps, it's like a bomb threat
-The violence pursuing us, I ain't meet God yet
-'Cause I'm on the block where
-It's just me and Lucifer, look what they do to us
-They know we in poverty
-When I went to court, the judge said, "Meek, you a menace to society"
-Huh, you said, you would give me a chance, your honor, why would you lie to me?
-16 more years of probation, you know you gon' get more time on me, huh
-Whole hood goin' crazy, babies havin' babies
-She was fourteen, actin' like she eighteen
-Got pregnant by a nigga that was locked up in them cages
-And the story goes on, if you make it, you amazing (Word up)
-
-See, I got homie that's a billionaire
-And I be tryin' to explain to him like
-If your mom ain't on crack or if she got a job and she doing eight hours a day
-And your daddy in the graveyard or in the jail cell, who the fuck gon' babysit?
-
-
 

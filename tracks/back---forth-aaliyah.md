@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: back---forth-aaliyah
-lyrics_url: https://www.azlyrics.com/lyrics/aaliyah/backforthmrleerkellysremix.html
 name: Back & Forth
 rankings:
 - end_date: '1994-05-06'
@@ -104,77 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
 ---
-
-Let me see you go back
-Let me see you come forth
-Let me see you go back
-Let me see you come forth, yeah
-
-It's Friday and I'm ready to sing
-Pick up my girls and hit the party scene
-Tonight, oh, it's alright, umm
-So get up and let this funky mellow groove
-Get you in the mood 'cause you know it's alright
-
-So Mr. DJ keep the music grooving
-Keep on moving
-Don't stop moving, don't stop moving
-Let me see you, let me see you go
-
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-See you go back and forth
-
-Now's the time for you to make your move
-To the dance floor, so throw your hands in the air
-And wave them around like you just don't care
-Ya oh, it's the L I Y A H livin' up the stage
-I got jazz personality, cheap mentality, breach to Soul Train
-
-So Mr.DJ keep the music groovin'
-Keep on moving, don't stop moving
-Now let me see you go back and forth
-Back and forth
-
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-And let me see you go
-
-Hey, here's the formality, get upon the floor, you see
-Show your personality, be who you wanna be, tell me
-See, can you feel the groove moving around you?
-Hey, I wanna get this party move all night
-
-So Mr.DJ keep the music groovin'
-Keep on moving
-Don't stop moving, don't stop moving
-Now let me see you go back and forth
-Back and forth
-
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-Back, back, forth and forth
-Let me see you
-
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-Ho, there's a party goin' on
-...
-
-
 

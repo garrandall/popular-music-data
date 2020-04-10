@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: return-of-the-mack-mark-morrison
-lyrics_url: https://www.azlyrics.com/lyrics/markmorrison/returnofthemackdabeatminerzremix.html
 name: Return Of The Mack
 rankings:
 - end_date: '1997-03-07'
@@ -168,67 +167,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
 ---
-
-Oh, come on, oh yeah
-
-
-Well I tried to tell ya so (yes, I did)
-But I guess ya didn't know, as I said the story go
-Baby, now I got the flow
-Cause I know it from the start, baby when you broke my heart
-That I had to come again, and show you that I'd win
-You lied to me, all those times I saide I loved you
-You lied to me, yes I tried, yes I tried
-You lied to me, even though you knew I'd die for you
-You lied to me, yes I cried, yes I cried
-
-
-Return of the mack (there it is)
-Return of the mack (come on)
-Return of the mack (Oh my God)
-You know that I'll be back (here I am)
-Return of the mack (once again)
-Return of the mack (how bout the world)
-Return of the mack (watch my flow)
-You know that I'll be back (her I go)
-
-
-So i'm back up in the game (hustlin' so)
-Runnin' things to keep my swing (all night long)
-Lettin' all the people know, that I'm back to run the show
-Cause what you did you know is wrong, all the nasty things you done (oh oh oh)
-So baby listen carfully, while I sing my complex song
-You lied to me, cause she said she'd never turn on me
-You lied to me, but you did, but you did
-You lied to me, all this pain you said I'd never feel
-You lied to me, but I do, but I do do do
-
-
-
-
-Yo, I know this chick named Monique
-She lives right across the street, she's a freak, eyein' me like the sheek
-(So hit that) Inbetween her sheets, the skins was cheap
-Like a tray bag of weed, or a T-shirt right up off the street
-
-She took a bite now they call her Applebum
-Never lay in the dumb, sodimize her for the funds
-Lifestyle sudductive, low budget high class
-Is all for a nut kid, she's the eve of destruction (ya lied to me)
-
-Tried to paly me like I'm nothin'
-This rap stuntin', cock them legs, ready to spread
-Then you ask cause you a chickenhead
-
-Now for your main concern, this love trial has been ajurned
-Mark Morrison and Shadez, round mack and return
-So burn baby burn
-
-
-Ya lied to me 
-But I do, but I do do do
-
-
-
-
 

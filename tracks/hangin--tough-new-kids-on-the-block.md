@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hangin--tough-new-kids-on-the-block
-lyrics_url: https://www.azlyrics.com/lyrics/newkidsontheblock/boysinthebandboybandanthem.html
 name: Hangin' Tough
 rankings:
 - end_date: '1989-07-21'
@@ -76,86 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
 ---
-
-You can hear them going crazy
-In stadiums in every nation
-A never-ending celebration baby
-That's how we show our dedication
-The boys in the band
-The boys in the band
-We do it for the fans
-The boys in the band
-
-Where the ladies, let the crowd in
-'Cause it's about to get loud in here
-And we're only getting started baby
-Everybody wanna party
-With the boys in the band
-The boys in the band
-We do it for the fans
-The boys in the band
-
-And if it isn't love
-Then why these new editions keep on showin' up
-And why do boys from Boston keep on hangin' tough
-Went from boys to men but we ain't ever growin' up
-Can't get enough
-
-You can hear them going crazy
-In stadiums in every nation
-A never-ending celebration baby
-That's how we show our dedication
-The boys in the band
-The boys in the band
-We do it for the fans
-The boys in the band
-
-We like the boys
-The boys in the band
-The boys in the band
-The boys in the band
-We like the boys
-The boys in the band
-The boys in the band
-The boys in the band
-
-Before we go Boyz II Men to the end of (the road)
-Let's go back to the beginnin', pay respect, New Edition
-Then came BBD, BSB, B2K, 1D
-98 Degrees, "Come and Talk to Me", Jodeci
-From B-Brown to Beantown to H-Town to O-Town
-Came the sound Berry Gordy found all the way back in Motown
-Ah, had to catch my breath
-Peace, LFO, Menudo, JLS, BTS
-Westlife, Jackson 5, NSYNC, Take That
-I want you
-
-And if it is enough
-Then why does every generation have another one
-And why do all directions only lead to one
-Before you know there'll be even more to come
-You can't get enough, whoa
-
-You can hear them going crazy
-In stadiums in every nation
-A never-ending celebration baby
-That's how we show our dedication
-The boys in the band
-All around the world
-The boys in the band
-All across the land
-Let me hear you say
-The boys in the band
-We wanna be with the boys in the band
-
-We like the boys
-The boys in the band
-The boys in the band
-The boys in the band
-We like the boys
-The boys in the band
-The boys in the band
-The boys in the band
-
-
 

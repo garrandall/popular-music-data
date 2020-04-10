@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: daylight-and-darkness-smokey-robinson
-lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/daylightdarkness.html
 name: Daylight And Darkness
 rankings:
 - end_date: '1978-06-16'
@@ -40,33 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
 ---
-
-Midnight sun, shining through my darkest night
-Noonday shadow, blocking out my morning light
-You don't even know what I'm talking about
-It's what you do when you're just being you
-How can you be daylight and darkness at the same time, oh, baby
-How can you be daylight and darkness at the same time
-
-Flaming candle, hey, burning me with sweet desire
-Icy cold, hard to handle, back and forth from ice to fire
-You don't even know what you're putting me through
-With all these bittersweet things that you do
-How can you be daylight and darkness, at the same time, oh...
-How can you be daylight and darkness at the same time
-
-Oh, baby, oh, baby
-
-You don't even know what I'm talking about
-It's just your way, baby, that's what you say
-How can you be daylight and darkness at the same time
-How can, how can you be daylight and darkness at the same time
-
-Ah, daylight, daylight, daylight, daylight
-Ooh... darkness, darkness, darkness
-How can you be daylight and darkness at the same time
-Same time, same time, my baby
-Baby, at the same time
-
-
 

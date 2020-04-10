@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: if-you-leave-orchestral-manoeuvres-in-the-dark
-lyrics_url: https://www.azlyrics.com/lyrics/orchestralmanoeuvresinthedark/gravityneverfailed.html
 name: If You Leave
 rankings:
 - end_date: '1986-03-14'
@@ -88,26 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
-
-Everything seems to be, as it is meant to be
-All of us in the ground, as reason just fades away
-I'll never be wrong again, I'll never be rich or poor
-Couldn't we talk again, well couldn't we just pretend
-
-The shadows on the wall are nearly half way there
-Tomorrows seldom just another day
-You say if you leave me all alone
-I wouldn't find words to say
-
-Reality strikes again, teaches all we know
-Science is never wrong, well gravity never failed
-America seems to care, well somebody has to know
-Couldn't we talk again, well couldn't we just pretend
-
-The shadows on the wall are nearly half way there
-Tomorrows seldom just another day
-You say if you leave me all alone
-I wouldn't find words to say
-
-
 

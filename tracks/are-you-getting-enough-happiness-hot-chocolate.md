@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: are-you-getting-enough-happiness-hot-chocolate
-lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/areyougettingenough.html
 name: Are You Getting Enough Happiness
 rankings:
 - end_date: '1982-12-24'
@@ -36,60 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
-
-Every time I go to the movies
-
-All I see is happy love on the silver screen.
-Everywhere I go I see men and women lovin'
-
-Kissin' and a-huggin'
-Enjoyin' life.
-Oh
-What's the matter with me
-
-Am I lonely
-
-Is there anybody out there who feels the same?
-
-Every time I turn on my T.V.
-
-I see somebody lovin' somebody.
-Are you getting enough happiness?
-Are you getting enough of what makes you happy?
-Are you getting enough happiness?
-Are you getting enough of what makes you happy?
-
-Every time I open a book
-
-Or read a magazine
-
-There's happy love everywhere I look.
-Every page I turn I can read between the lines
-
-That the boys gonna get it
-Get it tonight.
-Oh
-What's the matter with me
-
-Am I the only one
-
-Oh
-Is there somebody out there who feels the same?
-
-Every time I turn on my radio
-
-I hear a love song playing on every show.
-Are you getting enough happiness?...
-
-I need excitement in my life.
-I need happiness
-Happiness every night.
-I need someone to call upon when the need is strong
-
-For lovin'
-For lovin'.
-
-Are you getting enough happiness?...
-
-
 

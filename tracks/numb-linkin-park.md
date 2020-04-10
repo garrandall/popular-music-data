@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: numb-linkin-park
-lyrics_url: https://www.azlyrics.com/lyrics/peterhollens/tributetolinkinpark.html
 name: Numb
 rankings:
 - end_date: '2003-11-14'
@@ -140,66 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
 ---
-
-In this farewell, there's no blood
-There's no alibi
-Cause I've drawn regret from the truth of a thousand lies
-So let mercy come
-Wash away
-What I've done
-I face myself
-To cross out what I've become
-Erase myself
-And let go of what I've done
-
-I close both locks below the window
-I close both blinds and turn away
-(Turn away)
-(Nobody can save me)
-Sometimes solutions aren't so simple
-Sometimes goodbye's the only way
-
-And the sun, (sun)
-Will set for you
-The sun will set for you
-And the shadow of the day
-Will embrace the world in gray
-Then the sun will set for you
-
-I'm tired of being what you want me to be
-Feeling so faithless, lost under the surface
-Don't know what you're expecting in me
-Put under the pressure of walking in your shoes
-(I'm caught up in the undertow)
-Every step that I take is another mistake to you
-(I'm caught up in the undertow)
-And every second I waste is more than I can take
-(I'm caught up in the undertow)
-
-I've become so numb
-I can't feel you there
-Become so tired
-So much more aware
-I'm becoming this
-All I want to do
-Is be more like me
-And be less like you
-
-I've put my trust in you
-Pushed as far as I can go
-For all this
-There's only one thing you should know
-I've put my trust in you
-Pushed as far as I can go
-For all this
-There's only one thing you should know
-I've tried so hard and got so far
-But in the end it doesn't even matter
-I had to fall to lose it all
-But in the end it doesn't even matter
-
-Who cares if one more light goes out?
-Well I do
-
-
 

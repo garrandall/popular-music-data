@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-wild-boys-duran-duran
-lyrics_url: https://www.azlyrics.com/lyrics/duranduran/wildboys.html
 name: The Wild Boys
 rankings:
 - end_date: '1984-11-09'
@@ -80,42 +79,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
 ---
-
-The wild boys are calling 
-On their way back from the fire
-In august moon's surrender to 
-A dust cloud on the rise
-Wild boys fallen far from glory
-Reckless and so hungered 
-On the razors edge you trail
-Because there's murder by the roadside 
-In a sore afraid new world
-
-They tried to break us, 
-Looks like they'll try again
-
-Wild boys never lose it
-Wild boys never chose this way
-Wild boys never close your eyes
-Wild boys always shine
-
-You got sirens for a welcome 
-There's bloodstain for your pain
-And your telephone been ringing while 
-You're dancing in the rain
-Wild boys wonder where is glory
-Where is all you angels 
-Now the figureheads have fell
-And lovers war with arrows over 
-Secrets they could tell
-
-They tried to tame you 
-Looks like they'll try again
-
-Wild boys never lose it
-Wild boys never chose this way
-Wild boys never close your eyes
-Wild boys always shine
-
-
 

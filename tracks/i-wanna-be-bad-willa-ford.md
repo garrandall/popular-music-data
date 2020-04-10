@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-bad-willa-ford
-lyrics_url: https://www.azlyrics.com/lyrics/willaford/iwannabebadremix.html
 name: I Wanna Be Bad
 rankings:
 - end_date: '2001-06-15'
@@ -88,58 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
 ---
-
-Oh.. I, I.. I
-
-
-I wanna be bad witchu baby
-I, I.. I, I
-I wanna be bad witchu baby
-
-
-Do you, understand what I need, need from you
-Just let me the girl to show you, you
-everything that she can be
-Is everything that I can be (I wanna be)
-My turn, lemme letchu know that I, I can
-promise that I won't do that
-So boy, say the time and place
-cause you make me wanna mis-behave
-
-
-I wanna be bad (bad), make that look so good 
-I've got things on my mind, I never thought I would
-I, I wanna be bad (bad), make that feel so good
-I'm losin all my cool, I'm about to break the rules
-I, I wanna be bad
-
-
-
-
-Whassup?  Tell me what to do
-How to be, teach me, all your rules from A to Z
-but I, don't want your other girl to see
-that you mess around wit me (ooh)
-
-I should-a thought
-Tell ya what I got is whatcha want
-Tell, tell me, do I, I turn ya on?
-I don't want no one judgin me
-
-
-
-
-
-Willa, Willa, Willa, whatchu want?  Whatchu want?
-Willa, Willa, Willa, whatchu want? (can I get it from you?)
-Is it Em the "Criminal" wit the "Stan" look, uhh
-You need a "Real Shady" to (please stand up)
-Or is it me, the criminal wit the V
-The never pretend to be, nothin other than a (bad boy)
-If you say you want me, tell me how you gon' be
-(hey Royce) Yo (I wanna be bad) c'mon
-
-
-
-
 

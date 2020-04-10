@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: time-for-livin--sly-the-family-stone
-lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/singasimplesong.html
 name: Time For Livin'
 rankings:
 - end_date: '1974-07-12'
@@ -57,35 +56,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
-
- Sing a simple song 
-
- I'm talkin' talkin' talkin' talkin' talkin' in my sleep 
- I'm walkin' walkin' walkin' walkin' walkin' in the street 
- Time is passin' I grow older Things are happening fast 
-All I have to hold onto is a simple song at last
-Let me hear you say
-
-
- Sing a simple song
-Try a little do re me fa so la ti do
-
- Yeah, yeah, yeah, etc. 
- I'm livin' livin' livin' life with all its ups and downs 
- I'm givin' givin' givin' love and smilin' at the frowns
-
- You're in trouble when you find it's hard for you to smile 
-A simple song might make it better for a little while 
-Let me hear you say 
-
-
- I'm talkin' talkin' talkin' talkin' 
- I'm walkin' walkin' walkin' walkin 
- I'm livin' livin' livin' love 
- I'm livin' lovin' know about lovin'
-
- Everybody sing together 
-
-
-
 

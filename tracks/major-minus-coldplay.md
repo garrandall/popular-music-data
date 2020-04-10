@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: major-minus-coldplay
-lyrics_url: https://www.azlyrics.com/lyrics/coldplay/majorminus.html
 name: Major Minus
 rankings:
 - end_date: '2011-07-22'
@@ -12,62 +11,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
 ---
-
-They got one eye watching you
-One on what you do
-So be careful who it is you're talking to
-
-They got one eye watching you
-One on what you do
-So be careful what it is you're tryin' to do
-
-And be careful when you're walking into view
-Just be careful when you're walking into view
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one on you
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one onâ¦
-
-They got one eye watching you
-One on what you do
-So be careful 'cause nothing they say is true
-
-D-d-don't believe a word
-It's just us against the world
-And we just gotta turn up to be heard
-
-Hear the crocodiles ticking 'round the world
-Hear those crocodiles ticking, they go ticking 'round the world
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one on you
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one
-
-You could hear them climbing the stairs
-I got my right side fighting
-While my left hides under the chairs
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one on you
-
-Ooh-ooh-oooh
-Ooh-ooh-oooh-oooh
-
-Got one eye on the road and one on you
-
-
 

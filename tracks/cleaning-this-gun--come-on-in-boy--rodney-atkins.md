@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: cleaning-this-gun--come-on-in-boy--rodney-atkins
-lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/cleaningthisguncomeoninboy.html
 name: Cleaning This Gun (Come On In Boy)
 rankings:
 - end_date: '2007-12-14'
@@ -88,77 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
 ---
-
-The Declaration Of Independence
-Think I can tell you that first sentence
-But then I'm lost
-
-I can't begin to count the theories
-I've had pounded in my head that I forgot
-
-I don't remember all that Spanish
-Or the Gettysburg address
-But there is one speech from high school
-I'll never forget
-
-"Come on in, boy, sit on down
-And tell me 'bout yourself.
-So you like my daughter, do you now?
-Yeah, we think she's something else.
-She's her daddy's girl, her mama's world.
-She deserves respect,
-That's what she'll get.
-Ain't it, son?
-Now y'all run along and have some fun.
-
-I'll see you when you get back.
-Bet I'll be up all night
-Still cleaning this gun."
-
-Well, now that I'm a father,
-I'm scared to death one day my daughter
-Is gonna find
-That teenage boy I used to be,
-Who seems to have just one thing on his mind.
-
-She's growing up so fast. It won't be long
-Before I'll have to put the fear of God
-Into some kid at the door.
-
-"Yeah, come on in, boy, sit on down
-And tell me 'bout yourself.
-So, you like my daughter, do you now?
-Yeah, we think she's something else.
-
-She's her daddy's girl, her mama's world.
-She deserves respect,
-That's what she'll get,
-Now, ain't it, son?
-Now y'all go out and have some fun
-
-I'll see you when you get back.
-Probably be up all night
-Still cleaning this gun."
-
-Now it's all for show. Ain't nobody gonna get hurt.
-It's just a daddy thing, andâhey, believe me, manâit works.
-
-"Yeah, come on in, boy, sit on down
-And tell me 'bout yourself.
-So, you like my daughter, do you now?
-Yeah, we think she's something else.
-
-She's her daddy's girl, her mama's world.
-She deserves respect.
-That's what she'll get,
-Ain't it, son?
-Y'all run along and have a little fun.
-
-I'll see you when you get back.
-Probably be up all night
-Still cleaning this gun."
-
-Eh, son, now ya'll buckle up and have her back by tenâawâlet's say about nine-thirty. Drive safe.
-
-
 

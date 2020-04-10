@@ -13,9 +13,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
 ---
-
-
-
 I let it rain, I clear it out
 I let it rain, I clear it out
 I let it rain, I clear it out
@@ -83,9 +80,9 @@ Latino americana soy de aquiii
 Carita de santa pero freakyyy
 
 Yeah
-QuÃ© me va decir (huh)
+Qué me va decir (huh)
 Si ya to' lo vi (huh)
-Donde yo nacÃ­
+Donde yo nací
 No pensaban que una mujer iba a sobresalir
 
 What you gonna do what you gonna do
@@ -152,8 +149,6 @@ Let's get it
 Let's get it
 Let's get it
 
-
-
 I let it rain, I clear it out
 I let it rain, I clear it out
 I let it rain, I clear it out
@@ -168,23 +163,23 @@ Chicken Noodle Soup
 Chicken Noodle Soup
 Wit a soda on the side
 
-From ê´ì£¼, í ê±°ìê¸°ì Gang
-ê¸ë¨ ì¶©ì¥ Street, ê±°ê¸´ ë´ í ë 
-ë´ë° ìë¨, Bounce with ma Team
-ì¶¤ì ë»ê°, ìì»¤íë¦­, ë§¤ì¼
-ì­ ëì ë°¤ìì°ë©° ì±ì¥í Case
-ë´ í¤ë ì¶¤ì¼ë¡ ë§¤ê²¨ I'm Ok
-í° ë¹ì  ê·¸ë ¤ê°ë Plan
-ê¿ì ëì´ê°ë ì 
-ë¦¬ë¬ ì§ë¥´ë°ë ì¤í
+From 광주, 한 거시기의 Gang
+금남 충장 Street, 거긴 내 할렘
+뉴런 입단, Bounce with ma Team
+춤에 뻑가, 워커홀릭, 매일
+십 대에 밤새우며 성장한 Case
+내 키는 춤으로 매겨 I'm Ok
+큰 비전 그려가는 Plan
+꿈을 끌어가는 애
+리듬 지르밟는 스텝
 
 Popping, Rocking, Hopping, Tutting, Dougie, Flexing
 Swaggin'
-ìì§ ë§¤ì¼ ê°ì´ íìë°ì íì§
-ë  ìí ì¼
-ë ëë¥¼ ì±ì° í´ ë¹ê·¼ì í¸ë¡í¼ì
-ì¸ìì ë°°í í´ ì¶¤ì ëì Cash
-Hope on the street ì´ì   ëë§ì ê¸¸
+아직 매일 같이 한시바삐 하지
+날 위한 일
+늘 나를 채찍 해 당근은 트로피에
+인생에 배팅 해 춤은 나의 Cash
+Hope on the street 이젠 나만의 길
 With Becky G on the side
 Every day I lit
 
@@ -289,6 +284,3 @@ Let's get it
 Let's get it
 Let's get it
 Let's get it
-
-
-

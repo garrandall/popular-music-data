@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: the-way-it-is-bruce-hornsby-the-range
-lyrics_url: https://www.azlyrics.com/lyrics/brucehornsby/prairiedogtown.html
 name: The Way It Is
 rankings:
 - end_date: '1986-09-26'
@@ -97,66 +96,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
 ---
-
-Poppinâ² up, poppinâ² down
-Burrowing, making their funny little sounds
-Guarding the ground and rooting all around
-Watch your dry bones in the prairie dog town
-
-Teddy Roosevelt said come quick
-Thereâ²s a phenomenon and Iâ²m in the thick of it
-Riding around the badlands range
-They came upon those creatures so strange
-Theyâ²re so small they couldnâ²t hurt you
-Just like they said about Napoleon too
-Oh so cute theyâ²re sneaking around
-Hiding the crimes â²round the Prairie Dog Town
-They lay in wait â²neath the Dakota moon
-For the chance to make you their next victim soon
-
-Poppinâ² up, poppinâ² down
-Burrowing, making their funny little sounds
-Guarding the ground and rooting all around
-Watch your dry bones in the prairie dog town
-
-Went to a party at the Prairie Dog Town
-Hills and holes and manicured grounds
-Gaiety and chattering was in the air
-While grinning teeth waited to bite you there
-Small of mind better watch your back
-Need rapid-moving eyes just to keep track
-Behind the Bush he makes the gut strings wail
-You canâ²t judge a dog by the wag of its tail
-
-Poppinâ² up, poppinâ² down
-Burrowing, making their funny little sounds
-Guarding the ground and rooting all around
-Watch your dry bones in the prairie dog town
-
-Donâ²t put your trust in a prairie dog
-Theyâ²ll rob you back and steal your drawers
-Stay in your car behind the glass
-Or you might get some big sharp teeth in that ass
-
-Disregard the great ethical truths
-Itâ²s the collective life of the herd for you
-Closed society, no open door policy
-Collectivist secretive ideology
-Utilitarian
-Sublimation of individual identities
-Suppression of dissidents
-Communal living country club victory
-For him and her and she and he
-
-Poppinâ² up, poppinâ² down
-Burrowing, making their funny little sounds
-Guarding the ground and rooting all around
-Watch your dry bones in the prairie dog town
-
-The rose grows sick from the dark love of the worm
-That finds its way to her crimson bed
-And twists and turns
-And burrows and burns
-
-
 

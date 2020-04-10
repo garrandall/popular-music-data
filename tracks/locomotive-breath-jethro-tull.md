@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: locomotive-breath-jethro-tull
-lyrics_url: https://www.azlyrics.com/lyrics/jethrotull/locomotivebreath.html
 name: Locomotive Breath
 rankings:
 - end_date: '1976-02-20'
@@ -40,46 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
-
-In the shuffling madness
-Of the locomotive breath
-Runs the all-time loser
-Headlong to his death
-
-Oh, he feels the piston scraping
-Steam breaking on his brow
-Old Charlie stole the handle
-And the trainâit won't stop going
-No way to slow down
-
-He sees his children jump off
-At the stations one by one
-His woman and his best friend
-In bed and having fun
-
-Oh, he's crawling down the corridor
-On his hands and knees
-Old Charlie stole the handle and
-The trainâit won't stop going
-No way to slow down
-
-He hears the silence howling
-Catches angels as they fall
-And the all-time winner
-Has got him by the balls
-
-Oh, he picks up Gideon's Bible
-Open at page one
-I thank God he stole the handle and
-The trainâit won't stop going
-No way to slow down
-
-No way to slow down
-No way to slow down
-No way to slow down
-No way to slow down
-No way to slow down
-No way to slow down
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: heaven-knows-the-grass-roots
-lyrics_url: https://www.azlyrics.com/lyrics/grassroots/thesinsofthefamilyfallonthedaughter.html
 name: Heaven Knows
 rankings:
 - end_date: '1969-11-14'
@@ -48,44 +47,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
 ---
-
-She had a bad childhood when she was very young
-So don't judge her too badly
-She had a schizophrenic mother who worked in the gutter
-Would have sold herself to the devil gladly
-
-What a sad environment, a bug-ridden tenement
-And when they couldn't pay the rent because her father was out getting liquor
-The stone's been cast in blood thicker than water
-
-And the sins of a family fall on the daughter
-And the sins of a family fall on the daughter
-
-At the age of 16 she had been around
-More than any girl of 30
-And the high I.Q.'s who condemned her knew
-She was a product of poor heredity, yeah
-
-It's a fictitious fact when you fall on your back
-You can backtrack failure with inspection
-Without exception
-
-And the sins of a family fall on the daughter
-And the sins of a family fall on the daughter
-
-Oh, the devil is open to all of us
-Heaven selects just a precious few
-And it takes some inside pull to get
-Gabriel to make an angel out of you
-
-One can't live a lie and expect to die
-And with your soul in paradise
-You know you gotta pay the price like you oughta!
-Blood's thicker than water
-
-And the sins of a family fall on the daughter
-And the sins of a family fall on the daughter
-Yeah!... and the sins of a family fall on the daughter
-
-
 

@@ -79,24 +79,19 @@ Yeah... Yeah
 
 (OH!! REMIX!!!)
 
-
-
 Now baby girl there ain't nothing more than I can say
 You know by now I want it more than anything
 If I walk away and just let you leave
 You'll be stuck in my head like a melody
-
 
 I know you want it (yeah)
 I'm hesitating (why)
 You must be crazy
 I got a man, you got a lady
 
-
 I know we here together
 So this must be something special
 You could be anywhere you wanted
-
 
 But you decided to be here with me
 No coincidence
@@ -105,7 +100,6 @@ Don't be shy
 Don't let your boy get in
 So you can tell of all your friends
 You was on the remix like...
-
 
 In this club
 In this club
@@ -125,7 +119,6 @@ They can keep watching
 Baby I don't give up
 In this Club
 
-
 Baby you know I'd be down
 But we can't have all these people starin' standin' around
 This right here is only for your eyes to see
@@ -143,7 +136,6 @@ And I don't won't security rollin' up on us (I got you)
 I'm not hesitating I just don't wanna rush
 You could be anywhere you wanted
 
-
 But you decided to be here with me
 No coincidence
 It was meant to be
@@ -151,7 +143,6 @@ Promise if I mess around
 I let you get in
 You gonna tell of all your friends
 You was on this remix like...
-
 
 In this club
 In this club
@@ -170,7 +161,6 @@ In this club
 They can keep watching
 Baby I don't give up
 In this Club
-
 
 Shawty wanna thug
 It started with a hug
@@ -193,33 +183,26 @@ And now were making love in this club
 And were not gonna stop
 Just because the people in the club are watchin' us
 Cause we don't give a damn what they say
-This is the remix baby
-
-
 
 Come a little closer
 Let daddy put it on ya
 Need you to know
 What happens here stays here
 
-
 Well I'm ready and willing
 Mama's got to go
 Gotcha standing that attention
 Keep it on the low
-
 
 Ain't nobody watchin
 Don't worry they can't see us
 I know I got you hot
 Now let me in
 
-
 You in the club or the car
 Where ever you are
 Run and tell the DJ
 Run it back on replay
-
 
 In this club
 In this club
@@ -233,7 +216,6 @@ In this Club
 Now run and tell you're friends
 You gotta hear this remix like....
 
-
 King and queen.. you all know
 Yeah man
 
@@ -242,6 +224,3 @@ What would music be without 'Sounds'
 If we make love in this club, in this club, in this club
 
 Nobody will know, baby.......
-
-
-

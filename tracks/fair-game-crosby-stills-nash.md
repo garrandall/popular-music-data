@@ -1,8 +1,6 @@
 ---
 artists:
-- Crosby
-- Stills
-- Nash
+- Crosby, Stills & Nash
 features: []
 genres: []
 key: fair-game-crosby-stills-nash

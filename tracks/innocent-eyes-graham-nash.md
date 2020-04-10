@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: innocent-eyes-graham-nash
-lyrics_url: https://www.azlyrics.com/lyrics/grahamnash/innocenteyes.html
 name: Innocent Eyes
 rankings:
 - end_date: '1986-05-02'
@@ -36,35 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
 ---
-
-With your innocent eyes
-Youâve been telling me lies
-Youâve been making a fool of me
-If itâs all a disguise
-Iâve been living a fantasy
-Youâre lying with your innocent eyes
-This situation I can do without
-So donât trouble yourself to call, I just found you out
-While your lying eyes are saying
-You wanted only me
-Your heart is with another
-And youâre saying what you think Iâll believe
-
-With your innocent eyes
-Youâve been telling me lies
-Youâve been making a fool of me
-If itâs all a disguise
-Iâve been living a fantasy
-Youâre lying with your innocent eyes
-How did I ever believe you
-It was no surprise
-Ah, just one look and I fell
-For your innocent eyes
-Youâre lying with your innocent eyes
-Youâve telling me lies
-Youâve been making a fool of me
-You
-You
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: black-horse---the-cherry-tree-kt-tunstall
-lyrics_url: https://www.azlyrics.com/lyrics/kttunstall/blackhorsethecherrytree.html
 name: Black Horse & The Cherry Tree
 rankings:
 - end_date: '2006-03-31'
@@ -128,50 +127,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
 ---
-
-Two, three, four.
-
-Well my heart knows me better than I know myself
-So I'm gonna let it do all the talking.
-I came across a place in the middle of nowhere
-With a big black horse and a cherry tree.
-
-I felt a little fear upon my back.
-He said, "Don't look back, just keep on walking."
-When the big black horse said, "Look this way,"
-Said, "Hey, lady, will you marry me?"
-
-But I said, "No, no, no, no-no-no."
-I said, "No, no, you're not the one for me.
-No, no, no, no-no-no."
-I said, "No, no, you're not the one for me."
-
-And my heart hit a problem in the early hours.
-So, I stopped it dead for a beat or two.
-But I cut some cord, and I shouldn't have done it,
-And it won't forgive me after all these years.
-
-So, I sent it to a place in the middle of nowhere
-With a big black horse and a cherry tree.
-Now it won't come back 'cause it'sâohâso happy,
-And now I've got a hole for the world to see.
-
-And it said no, no, no, no-no-no."
-Said, "No, no, you're not the one for me.
-No, no, no, no-no-no-no."
-Said, "No, no, you're not the one for me."
-
-Not the one for me.
-
-Said, "No, no, no, no, no, no, no, no.
-You're not the one for me.
-No, no, no, no, no, no, no, no.
-You're not the one for me."
-
-Big black horse and a cherry tree.
-I can't quite get there 'cause my heart's forsaken me.
-Big black horse and a cherry tree.
-I can't quite get there 'cause my heart's forsaken me.
-
-
 

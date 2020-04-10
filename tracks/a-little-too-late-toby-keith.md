@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: a-little-too-late-toby-keith
-lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/alittletoolate.html
 name: A Little Too Late
 rankings:
 - end_date: '2006-06-09'
@@ -68,60 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
 ---
-
-
-Itâs a little too late
-Iâm a little too gone, 
-A little too tired of this hanginâ on
-So Iâm letting go while Iâm still strong enough to
-Itâs got a little too sad
-Iâm a little too blue
-Itâs a little too bad
-You were too good to be true
-Iâm big time over you baby
-Itâs a little too late
-
-No I donât want to want to talk about what we can do about us anymore
-Only time you and me wastinâ is the time it takes to walk right out that door
-Yeah talk about water under the bridge,
-You should know by now girl thatâs all this is
-
-
-Itâs a little too late,
-Iâm a little too gone, 
-A little too tired of just hanginâ on
-Iâm letting go while Iâm still strong enough to
-Itâs got a little too sad,
-Iâm a little too blue
-Itâs a little too bad
-You were too good to be true
-Iâm big time over you baby
-Itâs a little too late
-
-There was a time,
-this heart of mine,
-would take you back every time
-donât you know
-Itâs been two packs of cigaretts
-a sleepless night
-a nervous wreck, a day ago.
-Now you ainât got no business coming around
-Iâm closing up shop
-Shuttinâ us down
-
-
-Itâs a little too late,
-Iâm a little too gone, 
-A little too tired of just hanginâ on
-Iâm letting go while Iâm still strong enough to
-Itâs got a little too sad,
-Iâm a little too blue
-Itâs a little too bad
-You were too good to be true
-Iâm big time over you baby
-Itâs a little too late
-Iâm big time over you baby,
-Itâs a little too late
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: with-you-tony-terry
-lyrics_url: https://www.azlyrics.com/lyrics/tonyterry/withyou.html
 name: With You
 rankings:
 - end_date: '1991-07-05'
@@ -100,72 +99,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
 ---
-
-Yeah, just like that
-Ah-ha-ha-ha
-(Ooh, ooh, ooh)
-Ooh...hoo...hoo...
-
-(Ooh, ooh, ooh)
-Yeah, yeah
-
-When Iâm with you, I hear a sound
-That makes me laugh and smile and sing to you
-When Iâm with you, I feel so free
-I love that love is going to take control of me
-
-When Iâm with you
-Itâs for real (Itâs for real)
-What I feel (What I feel)
-When Iâm with you (You), uh-huh
-
-When Iâm with you, I wonder why
-People do stop and stare and smile at us
-When Iâm with you, the sun shines my way
-Baby, our love reflects its rays of light on everyone in the world
-
-When Iâm with you
-Itâs for real (Itâs for real)
-What I feel (What I feel)
-When Iâm with you (You), Hey, hey, hey
-
-Uh-huh (Special touch, a warm embrace)
-A sweet and tender, your smile, whoa
-Body warm my heart, so pure
-Chills when I look, look in your eyes
-
-I wonder why
-People (Do stop) and stare (And stare and smile at us) and smile at us
-When Iâm with you, the sun shines my way
-Baby, our love reflects its rays of light on everyone in the world
-
-When Iâm with you
-Itâs for real (Itâs for real)
-
-What I feel (What I feel)
-When Iâm with you (You), you, hey, hey, hey
-
-Oh, girl
-I love you, baby
-Ye-ye-ye-yes, I do
-Ye-ye-ye-yes, I do
-Iâd give the world to you, baby
-Oh...whoa...oh, yeah
-
-When Iâm with you, whoa...baby
-Itâs for real (Itâs for real)
-What I feel (What I feel)
-When Iâm with you (You), yeah, yeah, eah, hey
-
-Everything, everythingâs alright
-When Iâm with you
-Itâs for real (Itâs for real, what I feel)
-What I feel (Youâre heavy on my mind)
-Itâs okay (Itâs okay, gonna pray)
-Every day (Every day)
-Itâs so nice (So nice), so right now (So right)
-When Iâm with you (You), nobody but you
-Honey, I love you, yeah, ooh
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: say-it-voices-of-theory
-lyrics_url: https://www.azlyrics.com/lyrics/voicesoftheory/whereveryougo.html
 name: Say It
 rankings:
 - end_date: '1998-04-10'
@@ -132,61 +131,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
 ---
-
-Since you left me
-My life ain't been the same
-I'm useless without your love
-I'm calling, crying out your name
-But when I look around
-Your love is nowhere to be found
-Please come back to me
-Baby, you know you're my everything
-Who will love me and who will care
-Who will be there when I need someone for me
-Who will be there to dry my eyes
-When I fall down on my knees
-Will I hear you say
-
-
-Wherever you go
-Whatever you do
-You know I'm waiting
-You know I'll never leave
-Whatever it takes
-Whatever's at stake
-Just know I love you
-And know I'll be right here
-
-And no matter what it takes
-I'll be waiting here for you always
-
-Goodbye is such a hard thing to say
-When you're all I know
-When you're my everything
-And who will stay and care for me
-When you're gone, I'll be all alone
-Who will care and comfort
-And fulfill my needs
-I've got to know, baby
-
-Who will love me and who will care
-Who will be there when I need someone for me
-Who will be there to dry my eyes
-When I fall down on my knees
-Will I hear you say
-
-
-
-All my life I've waited for someone like you
-So please don't say it's over
-Don't tell me
-This just can't be true
-Please don't leave me
-Don't walk away
-You know your love is something I can't do without
-So whatever it takes
-Or how much my heart aches
-You know I'll always be around
-
-
 

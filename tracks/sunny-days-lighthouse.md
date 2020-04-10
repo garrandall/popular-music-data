@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: sunny-days-lighthouse
-lyrics_url: https://www.azlyrics.com/lyrics/fabianmazur/lighthouse.html
 name: Sunny Days
 rankings:
 - end_date: '1972-10-13'
@@ -56,50 +55,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
 ---
-
-I left you deep in the water
-I left your heart out to drown
-You call to me
-I trim the ways so helplessly
-I felt so cold in the morning
-Days turn to months into years
-Now I can see, it wasn't so easy, baby
-
-Sunny skies, but yeah my mind is dark
-Rolling through the waves of what we were
-I know we are drifting far away from shore
-But know that I will be here evermore
-
-In lighthouses
-Searching for you out there
-Wondering if you care
-Lighthouses
-Hoping to call you home
-But here I am standing alone, yeah
-
-Our memories hold me under
-They take the breath out my lungs
-And call me out
-I was the one who let you down
-Why did I feel hesitation?
-Why was I scared of the storm?
-Look at me now
-I'm praying to see the clouds
-
-Sunny skies, but yeah my mind is dark
-Rolling through the waves of what we were
-I know we are drifting far away from shore
-But know that I will be here evermore
-
-In lighthouses
-Searching for you out there
-Wondering if you care
-Lighthouses
-Hoping to call you home
-But here I am standing alone, yeah
-
-And to thought that you could see when I'm lost, yeah I lost me
-And to thought that you could see when I'm lost, yeah I lost me
-
-
 

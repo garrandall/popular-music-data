@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: smoke-a-little-smoke-eric-church
-lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/smokealittlesmoke.html
 name: Smoke A Little Smoke
 rankings:
 - end_date: '2010-10-08'
@@ -88,50 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
 ---
-
-Turn the quiet up, turn the noise down
-Let this ol' world just spin around
-I wanna feel it swing, wanna feel it sway
-And put some feel good in my soul
-Drink a little drink, smoke a little smoke
-
-Want a little more right, and a little less left
-Little more right now, a little less what's next
-Act like tomorrow's ten years away
-And just kick back and let the feelin' flow
-Drink a little drink, smoke a little smoke
-
-I set my sails for a new direction
-But the wind got in my way
-I changed my course
-But my definition of change
-Just ain't the same
-
-I'm gonna sit right here
-Stay away from there
-I'm gonna make pretend
-I just don't care
-And I could get up
-Go get her back
-Or maybe I'll just let her go
-Drink a little drink, smoke a little smoke
-
-Drink a little drink, smoke a little smoke
-
-Kick back, gives the blues a spin
-Break out the wine, forget again
-Dig down deep, find my stash
-Light it up, take me back
-
-Kick back, gives the blues a spin
-Break out the wine, forget again
-Dig down deep, find my stash
-Light it up, memory crash
-
-Oh no, I donât know
-Baby, it might take, all night
-Then Iâll maybe break out that old rock and roll
-Drink a little drink, smoke a little smoke
-
-
 

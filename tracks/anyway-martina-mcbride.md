@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: anyway-martina-mcbride
-lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/anyway.html
 name: Anyway
 rankings:
 - end_date: '2007-02-23'
@@ -72,41 +71,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
 ---
-
-You can spend your whole life buildin'
-Somethin' from nothin'
-One storm can come and blow it all away
-Build it anyway
-
-You can chase a dream
-That seems so out of reach
-And you know it might not ever come your way
-Dream it anyway
-
-
-God is great, but sometimes life ain't good
-When I pray it doesn't always turn out like I think it should
-But I do it anyway
-I do it anyway
-
-This world's gone crazy and it's hard to believe
-That tomorrow will be better than today
-Believe it anyway
-You can love someone with all your heart
-For all the right reasons
-And in a moment they can choose to walk away
-love 'em anyway
-
-
-
-You can pour your soul out singing
-A song you believe in
-That tomorrow theyâll forget you ever sang
-Sing it anyway
-Yeah, sing it anyway
-I sing, I dream, I love
-Anyway
-yeah
-
-
 

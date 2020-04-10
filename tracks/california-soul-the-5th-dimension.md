@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: california-soul-the-5th-dimension
-lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/californiamyway.html
 name: California Soul
 rankings:
 - end_date: '1968-12-27'
@@ -44,52 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
 ---
-
-Doo doo doo doo doo doo doo doo doo
-Doo doo doo doo doo doo doo doo doo
-Doo doo doo doo doo doo doo doo doo
-Doo doo doo doo doo doo doo doo doo
-
-California my way, any day, ooh
-Gonna hit the highway right away, ooh (Right away, ooh)
-
-I've got my bags packed and I'm well on my way
-I should be there in the run of the day
-
-Yes, I do, I really, really wanna go there
-'Cause they say until you've been there
-You haven't been nowhere
-
-California my way, any day, ooh
-Gonna hit the highway right away, ooh (Right away, ooh)
-
-California sun, look out, 'cause here I come
-'Cause my soul is restless and my heart can stand some fun
-
-Yes, I do, I really, really wanna go there
-'Cause they say until you've been there
-You haven't been nowhere
-
-California, California, ooh
-California, here I come
-(Doo doo doo doo doo doo doo doo doo)
-(Doo doo doo doo doo doo doo doo doo)
-
-California my way, any day, ooh
-Gonna hit the highway right away, ooh (Right away, ooh)
-
-California my way
-(Doo doo doo doo doo doo doo doo doo)
-(Doo doo doo doo doo doo doo doo doo)
-California my way
-(Doo doo doo doo doo doo doo doo doo)
-(Doo doo doo doo doo doo doo doo doo)
-
-We gotta go, we gotta go (We gotta go)
-We gotta go, we gotta go (We gotta go)
-We gotta go, we gotta go (We gotta go)
-We gotta go, we gotta go (We gotta go)
-We gotta go, we gotta go (We gotta go)
-
-
 

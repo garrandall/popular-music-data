@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: closed-on-sunday-kanye-west
-lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/sunday.html
 name: Closed On Sunday
 rankings:
 - end_date: '2019-11-15'
@@ -16,34 +15,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
 ---
-
-Closed on Sunday, you're my Chick-fil-A
-Closed on Sunday, you my Chick-fil-A
-Hold the selfies, put the 'Gram away
-Get your family, y'all hold hands and pray
-When you got daughters, always keep 'em safe
-Watch out for vipers, don't let them indoctrinate
-Closed on Sunday, you my Chick-fil-A
-You're my number one, with the lemonade
-Raise our sons, train them in the faith
-Through temptations, make sure they're wide awake
-Follow Jesus, listen and obey
-No more livin' for the culture, we nobody's slave
-
-Stand up for my home
-Even if I take this walk alone
-I bow down to the King upon the throne
-My life is His, I'm no longer my own
-I pray to God that He'll strengthen my hand
-They will think twice steppin' onto my land
-I draw the line, it's written in the sand
-Try me and you will see that I ain't playin'
-Now, back up off my family, move your hands
-I got my weapons in the spirit's land
-I, Jezebel don't even stand a chance
-Jezebel don't even stand a chance
-
-Chick-fil-A...
-
-
 

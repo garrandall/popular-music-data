@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: i-like-the-way-tommy-james-and-the-shondells
-lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/imtaken.html
 name: I Like The Way
 rankings:
 - end_date: '1967-07-07'
@@ -36,29 +35,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
-
-Hey, be comin' on so nice to me
-And let you think it ain't so hard to see.
-You're not actin' like you know you should
-And that's no good. No.
-
-You know you shouldn't look at me that way.
-'Cause when you do, you know I wanna stay.
-You make me wish my heart was made of wood
-And that's no good.
-I'm taken and you'd just be fakin' your heart out.
-I'm taken and you'd be mistaken to start out.
-'Cause I'm not out for love.
-
-I've got somebody who's so good to me.
-But if I didn't, I'd be glad to be
-The one to live you like nobody could. I could.
-But I'm taken and you'd just be fakin' your heart out.
-I'm taken and you'd be mistaken to start out.
-'Cause I'm not out for love. No.
-
-I'm taken and you'd just be fakin' your heart out.
-I'm taken and you'd be mistaken to start out.
-
-
 

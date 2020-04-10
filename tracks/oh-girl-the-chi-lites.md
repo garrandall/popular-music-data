@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: oh-girl-the-chi-lites
-lyrics_url: https://www.azlyrics.com/lyrics/chilites/homelygirl.html
 name: Oh Girl
 rankings:
 - end_date: '1972-04-14'
@@ -68,46 +67,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
 ---
-
-It must have broke your poor little heart
-When the boys used to say
-You looked better in the dark
-Ooh but now they'd give all they learnt in school
-To be somewhere in the dark with you
-(Oh yes they would)
-
-You know the teacher would ask the questions
-And you, would always raise your hand
-Ooh but somehow you never got your turn
-And my eyes would fill with water, inside I'd burn
-(Oh yes I did)
-
-Homely girl, she was so lonely
-You're a beautiful woman oh yes lonely girl
-Homely girl you used to be lonely
-You're a beautiful woman oh yeah
-
-There was a boy who used to sit beside you
-Who'd like to hold that place his whole life through
-Ooh you were beautiful to me
-You had a heart no one could ever see, oh yes you did
-
-I was the only one who offered
-To carry your books
-Took all the stares and laughter
-With the dirty looks
-But I saw then what they see now
-They all want to ask you for a date
-They don't know how, they don't know how
-
-Homely girl, she was so lonely
-You're a beautiful woman oh yes lonely girl
-Homely girl you used to be lonely
-You're a beautiful woman oh yeah
-
-Ooh first they want a chance to hold you
-Then they want a chance to try to control you
-Oh no, don't you know I got to say it
-
-
 

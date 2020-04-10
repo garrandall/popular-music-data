@@ -5,7 +5,6 @@ features:
 - Sleepy Brown
 genres: []
 key: the-way-you-move-outkast-sleepy-brown
-lyrics_url: https://www.azlyrics.com/lyrics/outkast/thewayyoumove.html
 name: The Way You Move
 rankings:
 - end_date: '2003-10-03'
@@ -165,80 +164,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
 ---
-
-Boom, Boom, Boom.
-Heh, Heh.
-
-
-Ready for action, nip it in the bud
-We never relaxinâ, OutKast is everlastinâ
-Not clashinâ, not at all but see my nigga went to do a little acting.
-Now thatâs for anyone askinâ give me one pass emâ
-Drip drip drop there goes an ear-gasm
-Now you cumin out the side of your face
-We're tapping right into your memory banks (Thanks!)
-So click it or ticket lets see your seat belt fastened
-Trunk rattlinâ like two midgets in the back seat wrestlin
-Speakerboxx vibrate the tag, make it sound like aluminum cans in a bag
-But I know yaâll wanted that 808 can you feel that B-A-S-S, bass
-But I know yaâll wanted that 808 can you feel that B-A-S-S, bass
-
-
-I like the waaaay you move
-I like the waaaay you move (Whoo-o-o!)
-I love the waaaay you move
-I love the way, I love the way.
-
-I love the waaaay you move
-I love the waaaay you move (Whoo-o-o!)
-I love the waaaay you move
-I love the way, I love the way.
-
-
-Then the whole room fell silent (Shhhhh!)
-The girls all pause with glee, turning left turning right, are they looking at me?
-But I was looking at them, there, there on the dance floor
-Now they got me in the middle feeling like a man whore
-Specially the big girl, big girls need love too no discrimination here, squirrel
-So keep your hands off my cheeks, and let me study how you ride the beat 
-You big freak!
-Skinny, slim women got the camel toe within them 
-You can hump them, lift them, bend them, give them something to remember
-Yell out timber when you fall through the chop shop.
-Take a deep a breath and exhale your ex male friend, boyfriend was boring as hell
-Now let me listen to the stories you tell and we can make moves like a person in jail.
-On the low, hoe
-
-
-
-
-Heeeey baby, girl donât you stop
-Come on baby dance all around me 
-You so fine (you so fine) you so fine
-You drive me outta my mind (my mind, outta my mind!) Oooh baby!
-If I could I would, just be with yoooou baaaaby
-Ooooooh Cause you like me and excite me and you know you got me baby!
-Oooooo!
-
-I like the waaay you move (I like the way you move)
-I like the waaay you move (Ooo you so sexy baaby!) (Whoo-o-o!)
-I love the waaay you move 
-I love the way, I love the way (Whoo-o-o!)
-
-I love the waaay you move (I love the way you move)
-I love the waaay you move (Ooo you so sexy baaby!) (Whoo-o-o)
-I love the waaay you move 
-I love the way, I love the way.
-
-I like the waaay you move
-I like the waaay you move (Whoo-o-o!)
-I love the waaay you move
-I love the way, I love the way.
-
-I love the waaay you move
-I love the waaay you move (Whoo-o-o!)
-I love the waaay you move
-I love the way, I love the way
-
-
 

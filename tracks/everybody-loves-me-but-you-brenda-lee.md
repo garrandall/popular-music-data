@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: everybody-loves-me-but-you-brenda-lee
-lyrics_url: https://www.azlyrics.com/lyrics/brendalee/cantbuymelove.html
 name: Everybody Loves Me But You
 rankings:
 - end_date: '1962-04-20'
@@ -52,42 +51,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
-
-Can't buy me love, love
-Can't buy me love, love
-I'll buy you a diamond ring my friend
-If it makes you feel alright
-I'll get you anything my friend
-If it makes feel alright
-Cause I don't care too much for money
-Money can't buy me love
-If you say you love me too
-I may not have a lot to give
-But what I got I'll give to you
-Cause I don't care too much for money
-Money can't buy me love
-Can't buy me love everybody tells me so
-Can't buy me love no, no, no, no
-
-Say you don't need no diamond ring
-And I'll be satisfied
-Tell me that you want the kind of things
-That money just can't buy
-I don't care too much for money
-Cause money can't buy me love whayooooo
-
-Can't buy me love everybody tells me so
-Can't buy me love no, no, no, no
-
-Say you don't need no diamond ring
-And I'll be satisfied
-Tell me that you want the kind of things
-That money just can't buy
-I don't care too much for money
-Cause money can't buy me love whayooooo
-
-Can't buy me love, love
-Can't buy me love
-
-
 

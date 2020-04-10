@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: she-s-everything-brad-paisley
-lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/limes.html
 name: She's Everything
 rankings:
 - end_date: '2006-10-27'
@@ -88,49 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-03'
 ---
-
-Ain't gotta have everything in your life
-Going exactly right to party
-Maybe the opposite, things are a mess
-And that's the best time to burn it down
-You look around here and you see all these people
-You think their lives are perfect, huh, hardly
-Now I don't have all the answers but I'll tell you
-The one thing I've found
-
-
-You take it all with a grain of salt
-And realize sometimes it ain't your fault
-You got something you don't want to remember
-That's when you need to just throw it in a blender
-And have a good time
-Now add tequila
-When life gives you limes
-You make margaritas
-
-Now I don't know if you're the type
-That sees the glass that's half full or half empty
-But I've got an idea how 'bout I never let you get that low
-Whatever is done is done, the night is young
-Let's have some fun, are you with me
-And try to forget the sh*t that hit the fan
-The only way that I know
-
-You take it all with a grain of salt
-And realize sometimes it ain't your fault
-You got something you don't want to remember
-That's when you need to just throw it in a blender
-And have a good time
-Now add tequila
-When life gives you limes
-You make margaritas
-
-Have a good time
-Now add tequila
-You're gonna be
-You're gonna be just fine
-When life gives you limes
-You make margaritas
-
-
 

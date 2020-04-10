@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: hickory-dick-and-doc-bobby-vee
-lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/hickorydickdoc.html
 name: Hickory Dick And Doc
 rankings:
 - end_date: '1964-06-05'
@@ -40,55 +39,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
 ---
-
-Number one
-(Number one)
-Was just a small town hick
-
-Number two
-(Number two)
-Was my best friend named Dick
-
-Number three
-(Number three)
-She called him Doc, that's me
-
-Hickory, Dick and Doc she called us
-We chased her around the clock
-Night and day, Hickory, Dick and Doc
-Thought she loved us until we heard her say
-
-They're just like three blind mice
-Three blind mice, see how they run after me
-Hickory, Dick and Doc around the clock
-See how they run after me
-
-Number one
-(Number one)
-Well, I never cared much for him
-
-Number two
-(Number two)
-Well, he's no longer my best friend
-
-Number three
-(Number three)
-I've gotta keep her love from them
-
-Hickory, Dick and Doc she called us
-We chased her around the clock
-Night and day, Hickory, Dick and Doc
-Thought she loved us until we heard her say
-
-They're just like three blind mice
-Three blind mice, see how they run after me
-Hickory, Dick and Doc around the clock
-See how they run after me
-
-Three blind mice, three blind mice
-See how they run, see how they run
-Three blind mice
-Three blind mice
-
-
 

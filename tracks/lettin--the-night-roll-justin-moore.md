@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: lettin--the-night-roll-justin-moore
-lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/lettinthenightroll.html
 name: Lettin' The Night Roll
 rankings:
 - end_date: '2014-03-14'
@@ -88,49 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
 ---
-
-That water towerâs got the sun going down behind it
-If thereâs a good time in this town girl weâre gonna find it 
-You looked so damn good climbing up in my Chevy
-Tried to play it cool but I knew already
-By the way you looked in the dashboard lights
-It was gonna be one of those nights
-
-Got the Kenwoods banging that rock nâ roll
-Whisper to me baby where you wanna go
-I can ride you âround town or drive you down some olâ back road 
-I love the way you lean that seat back, steal my ball cap
-Pull it down over your blue eyes
-Watchinâ your hair fly out the window 
-Just lettinâ the night roll
-And I canât wait to see where it goes
-
-We can run the reds down Main Street dodging the blue lights 
-Or disappear off into the corn out past the county line
-Baby keep on keep on swaying to the backbeat
-Long as youâre right here right here beside me
-You make the call baby I donât care 
-We can take this anywhere
-
-Got the Kenwoods banging that rock nâ roll
-Whisper to me baby where you wanna go
-I can ride you âround town or drive you down some olâ back road 
-I love the way you lean that seat back, steal my ball cap
-Pull it down over your blue eyes
-Watchinâ your hair fly out the window 
-Just lettinâ the night roll
-And I canât wait to see where it goes
-
-Got the Kenwoods banging that rock nâ roll
-Whisper to me baby where you wanna go
-I can ride you âround town or drive you down some olâ back road 
-I love the way you lean that seat back, steal my ball cap
-Pull it down over your blue eyes
-Watchinâ your hair fly out the window 
-Just lettinâ the night roll
-And I canât wait to see where it goes
-I canât wait to see where it goes, oh yeah 
-Just lettinâ the night roll
-
-
 

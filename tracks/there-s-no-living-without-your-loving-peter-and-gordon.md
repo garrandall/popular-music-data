@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-no-living-without-your-loving-peter-and-gordon
+lyrics_url: https://genius.com/Peter-and-gordon-theres-no-living-without-your-loving-lyrics
 name: There's No Living Without Your Loving
 rankings:
 - end_date: '1966-05-13'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
 ---
+If I can't love you
+'Til the day I die
+Then baby, oh baby
+What good am I?
 
+If I can't reach up
+And know that you'll be there
+Then this whole world
+Ain't spinnin' anywhere
+
+'Cause there's no livin' without your lovin'
+Without the magic of your tender touch
+There's no livin' without your lovin'
+Baby, I love you too much
+
+And I wouldn't want
+To live my life through
+Knowin' in my heart
+I never will have you
+
+If I can't hold you
+And kiss you anymore
+Then what on earth
+Am I livin' for?
+
+'Cause there's no livin' without your lovin'
+Without the magic of your tender touch
+There's no livin' without your lovin'
+Baby, I love you too much
+
+If I can't hold you
+And kiss you anymore
+Then what on earth
+Am I livin' for?
+
+'Cause there's no livin' without your lovin'
+Without the magic of your tender touch
+There's no livin' without your lovin'
+Baby, I love you too much
+
+There's no livin' without your lovin'
+Without the magic of your tender touch
+There's no livin' without your lovin'
+Baby, I love you too much

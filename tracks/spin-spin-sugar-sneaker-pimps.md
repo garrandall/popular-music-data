@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: spin-spin-sugar-sneaker-pimps
-lyrics_url: https://www.azlyrics.com/lyrics/sneakerpimps/spinspinsugarmobyremix.html
 name: Spin Spin Sugar
 rankings:
 - end_date: '1997-10-17'
@@ -60,41 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
 ---
-
-See through me
-See through me
-Spin spin sugar
-
-I'm everyone - I feel used,
-I'm everyone - I need you,
-I want perfection - I'm real need,
-I've seen attention - See through me,
-
-Call on me - Spin spin sugar
-Crawl on me - Spin spin sugar
-Stinks on me - Spin spin sugar
-Twists for me - Spin spin sugar
-
-I'm everyone - Hang your label on me,
-I'm everyone - Paint it black and white and easy,
-I'm everyone - Sticks in me,
-I'm everyone - Sticks with me,
-I've seen attention - See through me,
-I want perfection - I'm real need,
-
-Call on me - Spin spin sugar
-Crawl on me - Spin spin sugar
-Stinks on me - Spin spin sugar
-Twists for me - Spin spin sugar
-
-Call on me - Spin spin sugar
-Crawl on me - Spin spin sugar
-Stinks on me - Spin spin sugar
-Twists for me - Spin spin sugar
-
-(Spin spin sugar)
-
-I love spin sugar it's been around
-
-
 

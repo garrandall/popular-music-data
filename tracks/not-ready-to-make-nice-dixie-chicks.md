@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: not-ready-to-make-nice-dixie-chicks
-lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/notreadytomakenice.html
 name: Not Ready To Make Nice
 rankings:
 - end_date: '2006-05-12'
@@ -104,65 +103,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
 ---
-
-Forgive, sounds good
-Forget, Iâm not sure I could
-They say time heals everything
-But Iâm still waiting
-
-Iâm through with doubt
-Thereâs nothing left for me to figure out
-Iâve paid a price
-And Iâll keep paying
-
-Iâm not ready to make nice
-Iâm not ready to back down
-Iâm still mad as hell and
-I donât have time to go round and round and round
-Itâs too late to make it right
-I probably wouldnât if I could
-âCause Iâm mad as hell
-Canât bring myself to do what it is you think I should
-
-I know you said
-Canât you just get over it
-It turned my whole world around
-And I kind of like it
-
-I made my bed and I sleep like a baby
-With no regrets and I donât mind sayinâ
-Itâs a sad sad story when a mother will teach her
-Daughter that she ought to hate a perfect stranger
-And how in the world can the words that I said
-Send somebody so over the edge
-That theyâd write me a letter
-Sayinâ that I better shut up and sing
-Or my life will be over
-
-Iâm not ready to make nice
-Iâm not ready to back down
-Iâm still mad as hell and
-I donât have time to go round and round and round
-Itâs too late to make it right
-I probably wouldnât if I could
-âCause Iâm mad as hell
-Canât bring myself to do what it is you think I should
-
-Iâm not ready to make nice
-Iâm not ready to back down
-Iâm still mad as hell and
-I donât have time to go round and round and round
-Itâs too late to make it right
-I probably wouldnât if I could
-âCause Iâm mad as hell
-Canât bring myself to do what it is you think I should
-
-What it is you think I should
-
-Forgive, sounds good
-Forget, Iâm not sure I could
-They say time heals everything
-But Iâm still waiting
-
-
 

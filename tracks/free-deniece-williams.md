@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: free-deniece-williams
-lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/free.html
 name: Free
 rankings:
 - end_date: '1976-12-17'
@@ -88,53 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
 ---
-
-Whispering in his ear
-My magic potion for love
-Telling him Iâm sincere
-And that thereâs nothinâ too good for us
-
-And I just got to be me, be me
-
-Whispering in his ear
-My magic potion for love
-Telling him Iâm sincere
-And that thereâs nothinâ too good for us
-
-But I want to be free, free, free
-And I just got to be me, yeah, be me
-
-Teasing hands, all his might
-Give our nights such mystery
-Happiness all the time
-Oh, and how that man pleases me
-
-But I want to be free, free, free
-And I just got to be me, yeah, be me
-
-Ba, de, ah, ba, ba, ba, ba, ba, ba, ba
-(I just got to be me, be me)
-Ba, de, ah, ba, ba, ba, ba, ba, ba, ba
-
-Feeling you close to me
-Makes all my senses smile
-Letâs not waste ecstasy
-âCause Iâll only be here for awhile
-
-Iâve got to be free, free, free, oh
-And I just got to be me, yeah, yeah, be me, oh
-Be free, free, now baby
-
-(I just got to be me) And I just wanna (Be) I just wanna (Me) be me
-Free
-Free
-
-(I just got to be me) And I just wanna be me (Be me) be me
-Whoa, ohoh, free
-(I just got to be me, be me)
-Me, yeah, yeah
-
-(I just got to be me, be me)
-
-
 

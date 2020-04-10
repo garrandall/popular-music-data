@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: summertime-sadness-lana-del-rey-cedric-gervais
-lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/summertimesadnesscedricgervaisremix.html
 name: Summertime Sadness
 rankings:
 - end_date: '2013-08-02'
@@ -101,67 +100,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
 ---
-
-I got my red dress on tonight
-Dancing in the dark in the pale moonlight
-Done my hair up real big beauty queen style
-High heels off, I'm feeling alive
-
-Oh, my God, I feel it in the air
-Telephone wires above are sizzling like a snare
-Honey, I'm on fire, I feel it everywhere
-Nothing scares me anymore
-
-Kiss me hard before you go
-Summertime sadness
-I just wanted you to know
-That, baby, you're the best
-
-I've got that summertime, summertime sadness
-S-s-summertime, summertime sadness
-Got that summertime, summertime sadness
-Oh, oh, oh
-
-I've got that summertime
-I've got that summertime
-I've got that summertime
-I've got that summertime, summertime sadness
-
-I've got that summertime
-I've got that summertime
-I've got that summertime, summertime sadness
-
-I'm feelin' electric tonight
-Cruising down the coast goin' 'bout 99
-Got my bad baby by my heavenly side
-I know if I go, I'll die happy tonight
-
-Oh, my God, I feel it in the air
-Telephone wires above are sizzling like a snare
-Honey, I'm on fire, I feel it everywhere
-Nothing scares me anymore
-
-Kiss me hard before you go
-Summertime sadness
-I just wanted you to know
-That, baby, you're the best
-
-I've got that summertime, summertime sadness
-S-s-summertime, summertime sadness
-Got that summertime, summertime sadness
-Oh, oh, oh
-
-I've got that summertime
-I've got that summertime, summertime sadness
-S-s-summertime, summertime sadness
-Got that summertime, summertime sadness
-Oh, oh, oh
-
-Got that summertime
-I've got that summertime, summertime sadness
-S-s-summertime, summertime sadness
-Got that summertime, summertime sadness
-Oh, oh, oh
-
-
 

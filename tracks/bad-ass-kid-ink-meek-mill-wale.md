@@ -6,7 +6,6 @@ features:
 - Wale
 genres: []
 key: bad-ass-kid-ink-meek-mill-wale
-lyrics_url: https://www.azlyrics.com/lyrics/kidink/badassremix.html
 name: Bad Ass
 rankings:
 - end_date: '2013-02-15'
@@ -14,81 +13,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
 ---
-
-
-I'm feeling like a man of the hour, tear down the house (remix)
-Throwin' this money like it's no running out
-Okay, but I wanna know, can you get any higher? (let's go)
-And drop it down the pole like it's a fire
-Now let me see just what you're doing with your bad ass
-I can't help but watch you move it with your bad ass
-Let me see just what you're doing with your bad ass (yeah)
-I can't help but watch you move it with your bad ass (egh)
-
-
-I'm feeling like the man of the hour, but give me a minute
-I'll be the man of the year, before the season is finished
-Iâm on a hunt for that ass, sazerac pool in your stomach
-I hope you know how to swim before I drown you in money
-Now girl I ain't even counting, never been into math
-You got me going so broke I think that I need a cash
-Just throw it all in the air and in yo face like a mask
-I got a couple freaky things I dont know if I could ask you
-Now come over here and show me that you bad
-Straight out detention, no pretending, I can see in yo calves
-You got the strength to hold it up and donât you ever collapse
-So high I think Iâm about to relapse
-
-
-
-
-I'm the man of the hour
-Money and power
-And the humble ain't feed me so I got that Geechi shit out me
-And the city is ours
-Where the killers devour
-Where the niggas lift Smith ands and the victims lift a few flowers
-Okay what I see dog you and me not cool
-Bet they be loud when I leave out room
-Knowing how you move how you got good shoes
-When the heat on niggas be like pyoom
-Young nigga with some old riches
-And the coldest women I be with weave on Necole Bitchie's
-The broad let me I sweat it out like P90 get me doe
-And I'm sure she's got them cakes but I'm trying to see that throat
-35-o-o my coat
-We high choking on that dope
-Turn around girl let a nigga know
-Double M Young Olu ghost
-
-
-
-
-I'm feelin' like the man of the hour, host of the evening
-These niggas is haters they know that we eatin'
-I got a bitch she Jamaican, fuck her slow when we speackin'
-I get your chick and I take her, talkin' Cabo for the weekend
-I'm just a young nigga outchea ballin'
-All these bad bitches callin'
-Rollie all flooded to New Orleans
-And a big Rolls Royces, can't park it
-Got gold rims on my Ash Martin
-And I'm rollin' up in that foreign
-I said all my bitches half foreign
-You could run tell that ask Martin, hold up
-I flex hard on Instagram, post your bitch goin insta-ham
-Pyrex pot that's insta-grams
-Drop that work that's insta-bands
-And I'm sittin' man, on a couple mill
-Swear my life's so fuckin' real
-Back to the wall like fuck the world
-A nigga say fuck me, I'mma fuck his girl like woah
-
-
-Now let me see just what you're doing with your bad ass
-I can't help but watch you move it with your bad ass
-Let me see just what you're doing with your bad ass
-I can't help but watch you move it with your bad ass
-
-
 

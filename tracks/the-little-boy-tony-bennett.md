@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: the-little-boy-tony-bennett
-lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/natureboy.html
 name: The Little Boy
 rankings:
 - end_date: '1963-12-27'
@@ -44,32 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
 ---
-
-There was a boy
-A very strange enchanted boy
-They say he wandered very far, very far
-
-Over land and sea
-A little shy and sad of eye
-But very wise was he
-
-And then one day
-A magic day he passed my way
-And while we spoke of many things
-Fools and kings
-This he said to me
-
-The greatest thing you'll ever learn
-Is just to love and be loved in return
-
-And then one day
-A magic day he passed my way
-And while we spoke of many things
-Fools and kings
-This he said to me
-
-The greatest thing you'll ever learn
-Is just to love and be loved in return
-
-
 

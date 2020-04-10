@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: ready-set-roll-chase-rice
-lyrics_url: https://www.azlyrics.com/lyrics/chaserice/readysetroll.html
 name: Ready Set Roll
 rankings:
 - end_date: '2013-11-01'
@@ -92,65 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
 ---
-
-Ready
-Set
-Let's roll
-Let's roll
-
-Damn pretty girl you went done it again
-You've gone and turned your sexy all the way up to 10
-I've never seen a side ride seat looking so hot
-Baby, you rock, hit the spot like a fireball shot
-You've got me all high, head spinning around and around
-I'm down if you're down to burn down this town
-
-
-Ready set let's roll,
-Ready set let's ride
-Get your little fine ass on the step
-Shimmy up inside,
-Just slide girl by my side girl
-Yeah, we can run this town
-I can rock your world
-We can roll 'em down fog 'em up
-Cruise around get stuck pedal to the metal
-'Till the sun comes up
-I made a deal with the man on the moon
-He's gonna put in some overtime, we've got all night
-Ready set let's roll
-Ready set let's ride
-Ready set let's roll
-
-Where the good years and good times meet
-Girl we can rev it up right 'til we overheat
-Just forget about the time, get your lips on mine
-Gotta kiss you, get to know your smile
-On your mark, get set
-
-
-
-Ready set let's ride
-
-You got my heart bum bumping
-When I'm pulling up into your drive
-Let's hit it ninety to nothin',
-A couple kids running into the night
-
-
-
-Ready set let's ride
-Get your little fine ass on the step
-Shimmy up on inside
-
-Yeah we can run this town
-You know I'll rock your world
-C'mon
-Let's roll
-Let's ride
-Let's run this town tonight
-
-Readyâ¦ Setâ¦ Let's rollâ¦
-
-
 

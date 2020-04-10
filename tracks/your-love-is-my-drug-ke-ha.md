@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: your-love-is-my-drug-ke-ha
-lyrics_url: https://www.azlyrics.com/lyrics/keha/yourloveismydrug.html
 name: Your Love Is My Drug
 rankings:
 - end_date: '2010-01-29'
@@ -120,75 +119,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
 ---
-
-Maybe I need some rehab
-Or maybe just need some sleep
-I got a sick obsession
-I'm seeing it in my dreams
-I'm looking down every alley
-I'm making those desperate calls
-I'm staying up all night hoping hitting my head against the wall
-
-What you got, boy, is hard to find
-I think about it all the time
-I'm all strung out, my heart is fried
-I just can't get you off my mind!
-
-Because your love, your love, your love is my drug
-Your love, your love, your love
-(I said)
-Your love, your love, your love is my drug
-Your love, your love, your love
-
-Won't listen to any advice
-Momma's telling me I should think twice
-But left to my own devices,
-I'm addicted â it's a crisis
-My friends think I've gone crazy
-My judgment's gettin' kinda hazy
-My sleaze is gonna be affected
-If I keep it up like a love sick crack head
-
-What you got, boy, is hard to find
-I think about it all the time
-I'm all strung out, my heart is fried
-I just can't get you off my mind!
-
-Because your love, your love, your love is my drug
-Your love, your love, your love
-(I said)
-Your love, your love, your love is my drug
-Your love, your love, your love
-
-I don't care what people say
-The rush is worth the price I pay
-I get so high when you're with me
-But crash and crave you when you leave
-
-Hey, so I got a question
-Do you wanna have a slumber party in my basement?
-Do I make your heart beat like an 808 drum
-Is my love your drug?
-Your drug?
-Huh, your drug?
-Huh, your drug?
-Is my love your drug?
-
-Because your love, your love, your love is my drug
-Your love, your love, your love
-(I said)
-Your love, your love, your love is my drug
-Your love, your love, your love
-
-Because your love, your love, your love is my drug
-Your love, your love, your love
-(I said)
-Your love, your love, your love is my drug
-Your love, your love, your love
-
-Hey, hey, so
-Your love, your love, your love, your love is my drug
-I like your beard
-
-
 

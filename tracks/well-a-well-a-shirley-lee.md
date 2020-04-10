@@ -5,7 +5,6 @@ artists:
 features: []
 genres: []
 key: well-a-well-a-shirley-lee
-lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/shirleylee.html
 name: Well-A Well-A
 rankings:
 - end_date: '1961-08-13'
@@ -33,28 +32,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
 ---
-
-Well, I got a gal her name is Shirley Lee
-Yeah, I got a little woman her name is Shirley Lee
-Well, Shirley Lee, you're the one for me
-Well, Shirley Lee, you know Shirley Lee, yeah Shirley Lee
-Well Shirley Lee, yeah Shirley Lee you're the one for me
-
-Yeah!
-
-Well, come to me baby, come to me baby now
-Yeah, come to me baby, come to me baby now
-Well, come to me baby, I'll love you somehow
-Well, Shirley Lee, you know Shirley Lee, yeah Shirley Lee
-Well Shirley Lee, yeah Shirley Lee you're the one for me
-
-Yeah!
-
-Well, I got a gal her name is Shirley Lee
-Yeah, I got a little woman her name is Shirley Lee
-Well, Shirley Lee, you're the one for me
-Well, Shirley Lee, you know Shirley Lee, yeah Shirley Lee
-Ooh, Shirley Lee, yeah Shirley Lee you're the one for me
-
-
 

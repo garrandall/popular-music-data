@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: knocked-out-paula-abdul
-lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/knockedout.html
 name: Knocked Out
 rankings:
 - end_date: '1988-06-24'
@@ -60,77 +59,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
 ---
-
-I was in love the moment that I saw you
-I followed you through the crowd
-And I almost lost you
-
-I was dying to tell you but scared of your reaction
-But I can't hold back
-Because I'm rushed with thing called "passion"
-
-You've got me knocked out
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-Baby, there's no doubt
-You swept me off of my feet
-
-I walked your way hoping that maybe you noticed
-(â Hi.)
-(â Hello there.)
-I don't wanna move so fast
-I don't wanna blow it
-
-Never did I think love could be so amazing
-But the things that you're making me do
-It's driving me crazy
-
-You've got me knocked out
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-Baby, there's no doubt
-You swept me off of my feet
-
-You've got me knocked out
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-Baby, there's no doubt
-You swept me off of my feet
-
-I want us to be closer, boy
-I wanna be startin' something with you, baby
-My heart is steady knocking,
-Boy, you've got my body rockin',
-Caught blow-by-blow,
-Love T.K.O.
-
-You've got me knocked out
-(I'm not down.)
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-(I'm not down.)
-Baby, there's no doubt
-You swept me off of my feet
-
-You've got me knocked out
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-Baby, there's no doubt
-You swept me off of my feet
-
-You've got me knocked out
-(I'm not down.)
-Turn me inside out
-It's you that makes my heart beat
-You've got me knocked out
-(I'm not down.)
-Baby, there's no doubt
-You swept me off of my feet
-
-
 

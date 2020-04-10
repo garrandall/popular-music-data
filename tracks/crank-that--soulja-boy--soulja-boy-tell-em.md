@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: crank-that--soulja-boy--soulja-boy-tell-em
-lyrics_url: https://www.azlyrics.com/lyrics/souljaboy/souljaboytellem.html
 name: Crank That (Soulja Boy)
 rankings:
 - end_date: '2007-08-03'
@@ -136,71 +135,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
 ---
-
-Souljaboytellem' 
-
-Wake up out my sleep its time to start another day
-Souljaboy how many albums did u go and sell today?
-
-Boytellem'
-
-S. beezy the truth is what im tellin'
-Got this clown dissin' me, but where is his album sellin?
-
-Boytellem'
-
-Im doin' interviews adressin' all these critics tryna under rate me sayin' I aint got no lyrics
-
-Boytellem'
-
-3x platinum yea I broke the record if you cant respect that tell me what is you respectin'
-
-Dudes rockin' yums fades cuz souljaboytellem'
-Blowin' off they myspace page cuz souljaboytellem
-Got em' yellin out the A 
-(cuz souljaboytellem') 
-
-Reppin' S.O.D.money gang cuz souljaboytellem'
-The superman what they crank cuz souljaboytellem'
-They got they names on they shades
-(cuz souljaboytellem') 
-
-Boytellem'
-
-Boy I spit harder I spit fire
-We tell them old washed up rappers to retire
-
-Boytellem'
-
-Tryna copy my technique on your album
-Its time to crank it up lets turn up the volume
-The rap game dont get me started
-My lyrics get recycled but yo lyrics just garbage
-
-Boytellem'
-
-For you to get a hit you need a feature
-I'm solo every track still comin' out yo speakers
-
-Dudes rockin' yums fades cuz souljaboytellem'
-Blowin off they myspace page cuz souljaboytellem'
-Got em yellin' out the A
-(cuz souljaboytellem') 
-
-Reppin' S.O.D. money gang cuz souljaboytellem'
-The superman what they crank cuz souljaboytellem'
-They got they name on they shades cuz 
-(cuz souljaboytellem') 
-
-Dudes rockin' yums fades cuz souljaboytellem'
-Blowin off they myspace page cuz souljaboytellem'
-Got em yellin' out the A
-(cuz souljaboytellem') 
-
-Reppin' S.O.D. money gang cuz souljaboytellem'
-The superman what they crank cuz souljaboytellem'
-They got they name on they shades cuz 
-(cuz souljaboytellem') 
-
-
 

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: gold-kiiara
-lyrics_url: https://www.azlyrics.com/lyrics/kiiara/goldremix.html
 name: Gold
 rankings:
 - end_date: '2016-06-17'
@@ -116,90 +115,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
 ---
-
-
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-
-Gold up in my, gold up in my teeth
-(Gold up, gold up in my teeth)
-Don't care what you say to me, I'm a bite your feelings out (Gold up in my teeth)
-I missed you in the basement
-(Gold up in my teeth)
-But your brother was a good substitute for you
-
-And if you love me, love me, but you never let me go
-When the roof was on fire, you never let me know
-Say you're sorry, honey, but you never really show
-And I could leave the party without ever letting you know
-Without ever letting you know
-
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Without ever letting you know
-
-
-Zillion dollar smile
-Smellin' kinda loud, eyes are like Chinatown
-I'm a muddy cup savage, moneybag at it
-Such a pill popper, did you know they had daddies?
-Caught up in my bag, she caught up in my karats
-We could make love like rabbits, hold up
-All white gold mouth, dog, roof, roof
-On fire, watch the whole house fall, hold up
-Tunechi on the remix, me and Kiiara, she lit
-That "Caught up in my teeth" shit, that Tunechi and Kii Kii shit
-If yellow was gold we'd follow the yellow brick road
-I'm lettin' 'em go without ever lettin' you know
-
-
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Without ever letting you know
-
-Gold up in my, gold up in my teeth
-(Gold up, gold up in my teeth)
-Taste like money when I speak
-(Gold up, gold up in my teeth)
-And I missed you in the basement
-(Yeah, gold up in my teeth)
-Bodies on the pavement (Oh)
-
-And if you love me, love me, but you never let me go
-When the roof was on fire, you never let me know
-Say you're sorry honey, but you never really show
-And I could leave the party without ever letting you know
-Without ever letting you know
-
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Roof was on, let me, love me
-Without ever letting you know
-Roof was on, let me, love me-on-ly s-you know
-Without ever letting you know
-
-
 

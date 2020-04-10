@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: stoned-love-the-supremes
-lyrics_url: https://www.azlyrics.com/lyrics/supremes/illturntostone.html
 name: Stoned Love
 rankings:
 - end_date: '1970-11-13'
@@ -64,86 +63,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
 ---
-
-Take your love from me
-I'll turn to stone
-Turn to stone
-
-If your love I couldn't call my own
-I'll turn to stone
-Turn to stone
-
-I need your love in every way
-It's your love I cling to
-When things slip away
-Take your love away
-I'll be lost and alone
-No reason for living
-All purpose would be gone
-
-Without you there
-For my eyes to behold
-My life would be empty
-My heart would grow old
-
-If you take your love from me
-I'll turn to stone
-Turn to stone
-
-If your love I couldn't call my own
-I'll turn to stone
-Turn to stone
-
-When I think of love
-I think of me and you
-When I think of happiness
-I think of us too
-
-You're my yesterdays
-And all my tomorrows
-You're the air I breathe
-Everything I need
-
-If from my life
-You were ever gone
-I'd fall to pieces
-You I depend on
-
-If you take your love from me
-I'll turn to stone
-Turn to stone
-
-If your love I couldn't call my own
-I'll turn to stone
-Turn to stone
-
-Picture me without you
-You see someone searching
-A figure of sadness
-Who's heart won't stop hurting
-
-Sorrow would be written
-On my face
-By the pen of loneliness
-Time couldn't erase
-I'd be like a statue in a park
-Cold and alone
-A girl with no heart
-
-If you take your love from me
-I'll turn to stone
-Turn to stone
-
-If your love I couldn't call my own
-I'll turn to stone
-Turn to stone
-
-Turn to stone
-Turn to stone
-Just turn to stone, turn to stone
-If your love I couldn't call my own
-I'll turn to stone
-Turn to stone
-
-
 

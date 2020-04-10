@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: black-water-the-doobie-brothers
-lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/downinthetrack.html
 name: Black Water
 rankings:
 - end_date: '1974-12-27'
@@ -76,49 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
 ---
-
-I been workin' the whole day long
-On these railroad ties singin' a sad, sad song
-Down the track is a bad way to live
-The boss man's whip is all he's got to give
-And late at night in the twilight of the South
-They put you in a cell and let the bulldogs out
-The old cat down the way
-Well he's singin' out the blues
-'Cause he's got no one back home
-Oh, somebody sighed
-Next day comes they send you back out on the track
-All that sweat be drippin' down off your back
-Everybody's singin' a workin' man's song
-Hopin' they don't have to feel the whip on their bone
-The water boy slowly works his way around
-A bucket full of swamp water weighin' him down
-Old Squezer Walker just fell out on the ground
-And they're draggin' his body away
-Oh, my, my, my
-
-Well, there's talk around camp
-That there's gonna be a fight
-Old Razor Face and Willie Black
-The meanest dudes in sight
-One's got a razor and the other's got a knife
-But only one's gonna walk out alive
-
-Oh, baby, mama, get me out of here
-Can't stand no more
-This place is gonna be the death of me
-Believe to my soul that I gotta be free
-There's only one way that it's every gonna be
-That's when the angels come and take me away
-Well, now
-
-Oh, baby, mama, get me out of here
-Can't stand no more
-This place is gonna be the death of me
-Believe to my soul that I gotta be free
-There's only one way that it's every gonna be
-That's when the angels come and take me away
-Well, now
-
-
 

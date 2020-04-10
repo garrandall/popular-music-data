@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: together-tierra
-lyrics_url: https://www.azlyrics.com/lyrics/panteonrococo/pechotierra.html
 name: Together
 rankings:
 - end_date: '1980-11-14'
@@ -92,62 +91,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
 ---
-
-We must be together and the force will come back
-And the power of the latin people won't let you fall
-Now hear us and and watch us
-The angry resistence 18 comino up ya!
-Every time that you kill a man
-Many people the world knows that you are an animal now you know that the game is over
-Is time that you leave eighty years of power
-
-Pecho tierra. Pecho tierra,
-Crei que era una guerra
-Pecho tierra. Pecho tierra,
-Crei que era una guerra
-Pecho tierra. Pecho tierra,
-A caray crei que era una guerra
-Zapata te abre
-Zapata
-Sandino te mete
-Sandino
-
-Antes todo era aqui indiferencia y racismo
-Y vinieron a llamar al no divisionismo,
-Ahora luchamos juntos o cada quien por su lado
-El chiste es no dejar que nos quiten lo que hemos ganado.
-Luchando por la tierra, luchando por el agua,
-Luchando desde aqui y hasta nicaragua
-Los latinos unidos ya no nos dejaremos,
-Que chinguen a su madre los estados unidos
-
-Ahora hermano latinoamericano
-Ha llegado el momento de liberar tu cuerpo.
-De apatia y de la pereza para
-Salir del hoyo siempre con destreza.
-Hoy es el dia de levantar tu patria,
-No vayas a dejar que te aplasten por ser indio.
-Que chingue a su madre el racismo
-Que chingue a su madre el tio sam,
-Que chingue a su madre el neoliberalismo.
-Pecho tierra andamos si no luchamos
-Nos moriremos y si, nos olvidaremos,
-Pasaran 100 aÃ±os, pasaran 200 y siempre asi,
-Pecho tierra seguiremos.
-
-Y aunque otros digan que esta en paz el presidente
-Â¿Entonces quiÃ©n manda matar a nuestra gente?
-Aquella gente que siente y que ama
-Aquella que por tierra su sangre derrama
-Y hoy aqui te presenta las noticias
-Que no hay muertos, que todo sigue en calma
-Oye mi bratha no te dejes asustar
-Que no te engaÃ±en pues seguimos...
-Pecho tierra.
-Yeeh! Pecho tierra andamos y si no luchamos
-Nos moriremos y si, nos olvidaremos.
-Pasaran 100 aÃ±os, pasaran 200
-Y siempre asi. Pecho tierra seguiremos.
-
-
 

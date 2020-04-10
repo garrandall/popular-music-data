@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: you-won-t-see-me-anne-murray
-lyrics_url: https://www.azlyrics.com/lyrics/annemurray/whatwouldittake.html
 name: You Won't See Me
 rankings:
 - end_date: '1974-04-26'
@@ -88,57 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
 ---
-
-Well, if words wont do it
-And words are just a waste of time
-We could get right to it
-If I could only read your mind
-
-You're just a mystery to me
-Deeper than the deep blue sea
-There must be something that could melt your heart
-Baby, tell me just where to start
-
-What would it take to get you closer
-What would it take just to stir your soul
-What can I do to make you love me
-Just the thought of you keeps me lying away
-Tell me what would it take
-
-If the night don't move it
-Then you've never seen the stars come out
-If the touch don't soothe him
-Then maybe you've just never been touched
-
-But I wanna be the one to change your mind
-I think about it all the time
-Still waters they run deep
-I wanna wake you from your deepest sleep
-
-What would it take to get you closer
-What would it take just to stir your soul
-What can I do to make you love me
-Just the thought of you keeps me lying away
-Tell me what would it take
-
-You're just a mystery to me
-Deeper than the deep blue sea
-There must be something that will melt your heart
-Baby, tell me just where to start
-
-What would it take to get you closer
-What would it take just to stir your soul
-What can I do to make you love me
-What would it take just to stir your soul
-What can I do to make you love me
-Just the thought of you keeps me lying away
-Tell me what would it take
-
-Hey, tell me what would it take
-Tell me what would it take, tell me, tell me
-Tell me what would it take
-Yeah, tell me what would it take, tell me, tell me, oh yeah
-Tell me what would it take, tell me what would it take
-
-
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-me-lyme-cybelle
+lyrics_url: https://genius.com/Lyme-and-cybelle-follow-me-lyrics
 name: Follow Me
 rankings:
 - end_date: '1966-03-25'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+Stars are hidden 'neath
+My lids, I just can't keep on going
+Now you're mine
 
+Skies are falling, you
+Are calling me and I will
+Follow behind you
+
+Tell me where we're going to
+
+See the rain is softly falling
+On my window pane
+Don't know where
+But I don't care
+I will follow him
+Until the stars grow dim
+Until the wind has blown away
+Hey you, tell me where we're going to
+
+Follow me, follow me, follow me
+
+My head is goin' 'round
+My empty wrists are pounding
+I don't know what to do
+But I will follow you
+
+Wind is cryin', trees
+Are sighin', birds are flyin'
+Higher now you're mine
+Now the night is still
+Wander where you will, and I
+Will find you, tell me
+Where we're going to
+
+See the rain is softly falling
+On my window pane
+Don't know where
+But I don't care
+I will follow him

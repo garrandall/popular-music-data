@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: dust-eli-young-band
-lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/dust.html
 name: Dust
 rankings:
 - end_date: '2014-08-01'
@@ -44,52 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
 ---
-
-She's sick of this town, she's sick of that boy
-Yeah she's sick of dreams that never take flight
-There's gotta be more than the same old story
-So she's gonna turn the page tonight
-And turn the radio up (turn the radio up)
-Roll the windows down
-She got a full tank of gas (she got a full tank of gas)
-Ain't no stopping her now
-
-She's got the pedal to the floor in a hand-me-down Ford,
-Yeah, the only thing that's left to do
-Is catch a couple green lights and those baby blue eyes
-Are leaving nothing in that rearview
-But dust, nothing but dust
-
-She's fighting back tears, she's fighting back years
-Of the only life she's ever known
-There's a future that's bright in the dead of this night,
-And all she's gotta do is go
-And turn the radio up (turn the radio up)
-Roll the windows down
-She got an open road (she got an open road)
-Ain't no stopping her now
-
-She's got the pedal to the floor in a hand-me-down Ford,
-Yeah, the only thing that's left to do
-Is catch a couple green lights and those baby blue eyes
-Are leaving nothing in that rearview
-But dust, nothing but dust
-(Oh-oh-oh, oh-oh-oh)
-
-She got the radio up,
-She got the windows down,
-No she won't look back
-Ain't no stopping her,
-Ain't no stopping her nowâ¦
-
-She's got the pedal to the floor in a hand-me-down Ford,
-Yeah, the only thing that's left to do
-Is catch a couple green lights and those baby blue eyes
-Are leaving nothing in that rearview
-But dust, nothing but dust
-Dust, nothing but dust
-(Oh-oh-oh, oh-oh-oh)
-(Oh-oh-oh, oh-oh-oh)
-
-
 

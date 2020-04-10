@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: change-lisa-stansfield
-lyrics_url: https://www.azlyrics.com/lyrics/lisastansfield/changefrankieknucklesremix.html
 name: Change
 rankings:
 - end_date: '1991-11-08'
@@ -88,46 +87,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
 ---
-
-If I could change the way I live my life today
-I wouldn't change a single thing
-'Cause if I change my world into another place
-I wouldn't see your smiling face
-I'll always be there and I'll always care
-Honey don't you worry, there's nothing to worry for
-'Cause if I didn't love you, I wouldn't be here now
-And if I didn't want you, I would have turned around by now
-You've got to believe me babe, believe that I love you so
-'Cause if I didn't love you, I would have turned around
-And if I didn't want you, then I would want you out
-This love, this love has filled me up
-Oh my love I'll never give you up
-'Cause I'll always want your love
-If I could change the way I live my life today
-I wouldn't change a single thing
-'Cause if I change my world into another place
-I wouldn't see your smiling face
-Believing is the answer, the answer to all your fears
-When I first said I loved you, I want in for the kill
-Now when I say I love you, I mean I always will
-This love, this love has filled me up
-Ooh my love I'll never give you up
-'Cause I'll always want your love
-If I could change the way I live my life today
-I wouldn't change a single thing
-This love, this love has filled me up
-My love I'll never give you up
-'Cause I'll always want your love
-If I could change the way I live my life today
-I wouldn't change a single thing
-'Cause if I change my world into another place
-I wouldn't see your smiling face
-If I could change the way I live my life today
-I wouldn't change a single thing
-'Cause if I change my world into another place
-I wouldn't see your smiling face
-You, only you can do my love
-My sweet my very very
-
-
 

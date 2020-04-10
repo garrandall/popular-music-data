@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: until-it-s-time-for-you-to-go-elvis-presley
-lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/itwontbelong.html
 name: Until It's Time For You To Go
 rankings:
 - end_date: '1972-02-04'
@@ -44,37 +43,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
 ---
-
-The shooting stars are coming out of your eyes
-They point the way, the way to paradise
-I got a funny feeling, I can't be wrong
-It won't be long until the sparks will fly
-It won't be long
-
-I hear a buzz, buzz around in my brain
-But what it does, is bound to drive me insane
-At a time like this I must be strong
-It won't be long till the sky falls down
-It won't be long
-
-Love has taught me plenty, I'm still learning more
-Anything worth having is worth the waiting for
-Here I go, I'm on a one way trip
-Look out below because I'm about to flip
-I tell you when these lips get to that kiss
-
-It won't be long until we're out of this world
-It won't be long
-
-Love has taught me plenty, I'm still learning more
-Anything worth having is worth the waiting for
-Here I go, I'm on a one way trip
-Look out below because I'm about to flip
-I tell you when these lips get to that kiss
-It won't be long, it won't be long until we're out of this world
-It won't be long
-It won't be long, it won't be long until we're out of this world
-It won't be long
-
-
 

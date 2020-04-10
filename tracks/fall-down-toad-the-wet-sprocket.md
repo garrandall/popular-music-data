@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: fall-down-toad-the-wet-sprocket
-lyrics_url: https://www.azlyrics.com/lyrics/toadthewetsprocket/throwitallaway.html
 name: Fall Down
 rankings:
 - end_date: '1994-06-10'
@@ -76,37 +75,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
 ---
-
-Take your cautionary tales
-And take your incremental gain
-And all the sycophantic games
-And throw 'em all away
-Burn your tv in your yard
-And gather 'round it with your friends
-And warm your hands upon the fire
-And start again
-Take the story you've been sold
-The lies that justify the pain
-The guilt that weighs upon your soul
-And throw 'em all away
-Tear up the calendar you bought
-And throw the pieces to the sky
-Confetti falling down like rain
-Like a parade to usher in your life
-Take the dreams that should've died
-The ones that kept you lying awake
-When you should've been all right
-And throw 'em all away
-With the time i waste on the life i never had
-I could've turned myself into a better man
-There is nothing you can buy
-And there is nothing you can save
-To fill the hole inside your heart
-So throw it all away
-Help me to empty this house
-The wool i've gathered all these days
-And thought i couldn't do without
-And throw it all away
-
-
 
