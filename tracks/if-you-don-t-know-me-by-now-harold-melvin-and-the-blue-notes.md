@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-don-t-know-me-by-now-harold-melvin-and-the-blue-notes
+lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-if-you-dont-know-me-by-now-lyrics
 name: If You Don't Know Me By Now
 rankings:
 - end_date: '1972-10-06'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+If you don't know me by now
+You will never, never, never know me
 
+
+All the things that we've been through
+You should understand me
+Like I understand you
+Now baby, I know the difference
+Between right and wrong
+I ain't gonna do nothin'
+To upset our happy home
+Oh, don't get so excited
+When I come home a little late at night
+Cause we only act like children
+When we argue fuss and fight
+
+
+(If you don't know me by now)
+If you don't know me by now
+(You will never, never, never know me)
+You will never, never, never know me
+(If you don't know me by now)
+If you don't know me, baby
+(You will never, never, never know me)
+No you won't
+
+
+We've all got our own funny moods
+I've got mine, woman you've got yours too
+Just trust in me, like I trust in you
+As long as we've been together
+That should be so easy to do
+Just get yourself together
+Or we might as well say goodbye
+What good is a love affair
+When we can't see eye to eye
+
+
+(If you don't know me by now)
+If you don't, if you don't know me, baby
+(You will never, never, never know me)
+(If you don't know me by now)
+If you don't know me by now
+(You will never, never, never know me)
+No you won't
+(If you don't know me by now)
+(You will never, never, never know me)
+(If you don't know me by now)
+(You will never, never, never know me)

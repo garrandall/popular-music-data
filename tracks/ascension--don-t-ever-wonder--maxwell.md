@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ascension--don-t-ever-wonder--maxwell
+lyrics_url: https://genius.com/Maxwell-ascension-dont-ever-wonder-lyrics
 name: Ascension (Don't Ever Wonder)
 rankings:
 - end_date: '1996-08-23'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
 ---
+It happened the moment, when you were revealed
+Cause you were a dream that you should not have been
+A fantasy real
+You gave me this beating baby
+This rhythm inside
+And you made me feel good and feel nice and feel loved
+Give me paradise
 
+
+So shouldn't I realize
+You're the highest of the high
+If you don't know, then I'll say it
+So don't ever wonder (don't ever wonder)
+So shouldn't I realize (shouldn't I realize)
+You're the highest of the high
+If you don't know, then I'll say it
+So don't ever wonder
+
+
+So tell me how long
+How long it's gonna take until you speak, babe
+Cause I can't live my life
+Without you here by my side
+You gave me the feelin', feelin' in my life
+
+
+So shouldn't I realize
+You're the highest of the high
+If you don't know, then I'll say it
+So don't ever wonder wonder (don't ever wonder wonder)
+Shouldn't I realize shouldn't I realize
+You're the highest of the high
+You're the highest of the high
+If you don't know, then I'll say it
+So don't ever wonder wonder
+So don't ever wonder wonder
+Shouldn't I realize
+You're the highest of the high
+If you don't know, then I'll say it
+So don't ever wonder wonder (don't ever don't ever wonder)
+(don't ever wonder)
+(don't ever wonder)
+(don't ever wonder)
+Never wished that
+(don't ever wonder)
+(without you, don't ever wonder)
+(don't ever wonder)
+(can't you see don't ever wonder)
+(can't you see don't ever wonder)

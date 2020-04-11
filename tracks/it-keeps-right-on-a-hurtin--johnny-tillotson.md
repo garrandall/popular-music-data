@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-keeps-right-on-a-hurtin--johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-it-keeps-right-on-a-hurtin-lyrics
 name: It Keeps Right On A-Hurtin'
 rankings:
 - end_date: '1962-05-18'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
 ---
+I cry myself to sleep each night
+Wishing I could hold you tight
+Life seems so empty since you went away
+The pillow where you lay your head
+Now holds my lonely tears instead
+And it keeps right on a-hurtin'
+Since you're gone
 
+It keeps right on a-hurtin every minute of the day
+Every hour you're away I feel so lonely
+And I can't help it, I don't think I can go on
+And it keeps right on a-hurtin' since you're gone
+
+They say a man should never cry
+But when I see you passing by
+My heart breaks down and cries a million tears
+You broke my heart and set me free
+But you forgot your memory
+And keeps right on a-hurtin' since your gone
+
+It keeps right on a-hurtin every minute of the day
+Every hour you're away I feel so lonely
+And I can't help it, I don't think I can go on
+And it keeps right on a-hurtin' since you're gone

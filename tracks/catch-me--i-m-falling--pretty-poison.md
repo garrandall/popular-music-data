@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-me--i-m-falling--pretty-poison
+lyrics_url: https://genius.com/Pretty-poison-catch-me-im-falling-lyrics
 name: Catch Me (I'm Falling)
 rankings:
 - end_date: '1987-10-02'
@@ -99,4 +100,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
 ---
+Are you ready, boy?
+Here I come
+Catch me
+I'm falling
 
+
+You came into my life
+The look in your eyes took me by surprise
+It's you and nobody else
+Your love has made me so blind
+I can't see
+
+I am descending
+From heaven above
+So catch me
+I'm falling, baby
+Hold onto my love
+
+
+Catch me
+I'm falling
+Catch me now
+I'm falling
+
+Catch me
+I'm falling
+Catch me now
+I'm falling
+Falling in love
+
+
+Two hearts beating in time
+The rhythm as one
+I am yours
+You are mine
+
+For you
+I surrender myself
+Each night
+Every day
+Always feeling this way
+
+Falling in motion
+As though I had wings
+Your sweet love and devotion
+Baby, it's magic
+A magical thing
+
+
+
+
+Ooooh, baby
+What can I do?
+I'm falling for you

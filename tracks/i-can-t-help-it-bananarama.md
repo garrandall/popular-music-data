@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-help-it-bananarama
+lyrics_url: https://www.musixmatch.com/lyrics/Bananarama/I-Can-t-Help-It
 name: I Can't Help It
 rankings:
 - end_date: '1987-11-27'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
 ---
+Sugar's sweet but your kisses can't be beat
+Whatever you got, it's good enough for me
+Boys say (they say) I'm good enough to eat (manger)
+Whatever you want you got 'cos you knock me off my feet
 
+I'm hungry for your sweet love
+I need you here tonight
+I'm crazy, I'm burning up
+Woh-woh
+
+I can't help it
+I'm captivated by your honey
+I can't help it
+I'm captivated by your honey
+
+You've tasted honey, you've had the rest
+Well here I am, come on and try the best
+No chance (No chance) won't let you get away (No way)
+Whatever you need from me gonna let you get your way
+
+I'm waiting, can't get enough
+So move your body close
+I need you, I won't give up
+Whoa
+
+I can't help it
+I'm captivated by your honey
+I can't help it
+I'm captivated by your honey
+
+Move your body close tonight
+Move your body close tonight
+Move your body close tonight
+Move your body close tonight
+
+I'm hungry for your sweet love
+I need you here tonight
+I'm crazy I'm burning up
+Woh-woh
+
+I can't help it
+I can't help it
+
+I can't help it
+I'm captivated by your honey
+I can't help it
+I'm captivated by your honey

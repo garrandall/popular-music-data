@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deja-vu-dionne-warwick
+lyrics_url: https://www.musixmatch.com/lyrics/Dionne-Warwick/Deja-Vu
 name: Deja Vu
 rankings:
 - end_date: '1979-11-16'
@@ -83,4 +84,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
 ---
+This is insane
+All you did was say hello
+Speak my name
+Feeling your love
+Like a love I used to know
+Long ago
+How can it be?
+We're a different space in time
+Come to me
+Feel like I'm home
+In a place I used to know
+Long ago
+Deja Vu
+Could you be the dream that I once knew?
+Is it you?
+Deja Vu
+Could you be the dream that might come true?
+Shining through
+I keep remembering me
+I keep remembering you
+Deja Vu
 
+This is devine
+I been waiting all my life
+Filling time
+Looking for you
+That's worth more than you could know
+Long ago
+Come to me now
+We don't have to dream of love
+We know how
+Somewhere before
+It's as if I loved you so
+So long ago
+Deja Vu
+Could you be the dream that I once knew?
+Is it you?
+Deja Vu
+Could you be the dream that might come true?
+Shining through
+I keep remembering me
+I keep remembering you
+Deja Vu
+Deja Vu
+Deja Vu
+Deja Vu
+Deja Vu
+Could you be the dream that I once knew?
+Is it you?
+Deja Vu
+Could you be the dream that might come true?
+Shining through
+I keep remembering me
+I keep remembering you
+Deja Vu
+Deja Vu
+Could you be the dream that I once knew?
+Is it you?
+Deja Vu
+Could you be the dream that might come true?
+Shining through

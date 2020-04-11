@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-know-if-it-s-right-evelyn--champagne--king
+lyrics_url: https://genius.com/Evelyn-champagne-king-i-dont-know-if-its-right-lyrics
 name: I Don't Know If It's Right
 rankings:
 - end_date: '1979-01-12'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
+I don't know if it's right
+To let you make love to me tonight
+I don't know if I should
+Give my love to you when I know you're no good
 
+I've got to make sure it's alright
+If I should let you love me tonight
+Before I let you kiss me I got to get the situation in hand
+'Cause I don't want you just to be another man, whoa, whoa, whoa
+
+I don't know if it's right
+To let you make love to me tonight
+I don't know if I should
+Give my love to you when I know you're no good
+
+People tell me that you really know the right things to say
+Especially when you're tryin' to get your way
+Gotta be careful, gotta be smart, gotta watch out for my heart
+I don't want it to be broken right from the start, oh, oh, oh, oh
+
+I don't know if it's right
+To let you make love to me tonight
+I don't know if I should
+Give my love to you when I know you're no good
+
+Oh, baby
+Yeah...hey...hey...
+Oh, oh, oh, oh
+
+I don't know if it's right
+To let you make love to me tonight
+I don't know if I should
+Give my love to you when I know you're no good
+
+I don't know if I should
+Give it to you when I know you're no good
+If it's right
+I just don't know, no, hey..hey...

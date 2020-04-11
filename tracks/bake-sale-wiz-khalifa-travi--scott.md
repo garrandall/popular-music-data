@@ -2,7 +2,7 @@
 artists:
 - Wiz Khalifa
 features:
-- Travi$ Scott
+- Travis Scott
 genres: []
 key: bake-sale-wiz-khalifa-travi--scott
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/bakesale.html

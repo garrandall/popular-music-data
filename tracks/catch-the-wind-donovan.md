@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-the-wind-donovan
+lyrics_url: https://genius.com/Donovan-catch-the-wind-lyrics
 name: Catch The Wind
 rankings:
 - end_date: '1965-05-21'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
 ---
+In the chilly hours and minutes of uncertainty
+I want to be in the warm heart of your loving mind
+To feel you all around me
+And to take your hand along the sand
+Ah, but I may as well try and catch the wind
 
+When sundown pales the sky
+I want to hide a while behind your smile
+And everywhere I'd look, your eyes I'd find
+For me to love you now, would be the sweetest thing
+T'would make me sing
+Ah, but I may as well try and catch the wind
+
+When rain has hung the leaves with tears
+I want you near, to kill my fears
+To help me to leave all my blues behind
+Standing in your heart is where I want to be
+And I long to be
+Ah, but I may as well try and catch the wind
+
+Ah, but I may as well try and catch the wind

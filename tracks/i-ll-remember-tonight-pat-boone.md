@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-remember-tonight-pat-boone
+lyrics_url: https://genius.com/Pat-boone-ill-remember-tonight-lyrics
 name: I'll Remember Tonight
 rankings:
 - end_date: '1958-11-02'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
+I'll remember tonight
+That lovely melody we danced to
+The sweet confusion when we met
+We never spoke a word
+And yet we knew
 
+I'll remember your smile
+The way it warmed me in the moonlight
+The way my heart began to melt
+The strange effection that i felt for you
+
+To think that only a moment ago
+We were no more than strangers
+And now my heart tells me that we are strangers no more
+
+So what ever be false
+Our little world of joys and sorrows
+I'll remember tonight
+For a thousand and one tomorrows
+
+To think that only a moment ago
+We were no more than strangers
+And now my heart tells me that we are strangers no more
+
+So what ever be false
+Our little world of joys and sorrows
+I'll remember tonight
+For a thousand and one tomorrows

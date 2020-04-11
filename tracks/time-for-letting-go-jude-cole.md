@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-for-letting-go-jude-cole
+lyrics_url: https://genius.com/Jude-cole-time-for-letting-go-lyrics
 name: Time For Letting Go
 rankings:
 - end_date: '1990-08-10'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
 ---
+Ive been holding back words
+And waiting for time
+Theres a lesson here somewhere
+I know its mine
+And though ill remember the promise we made
+Promises dont justify feeling this way, any more
 
+Its time for letting go
+We can't hide what we both know
+But ooooh , ooooh the hurt grows
+Everytime i think its over
+
+Youve been keepin all your secrets inside
+I know the truth now baby, you dont have to hide
+But my mind wanders , to the very first day
+What a shame things had to turn out this way
+
+Its time for letting go
+We can't hide what we both know
+But ooooh , oooh
+The hurt grows , everytime i think its over
+
+No words, could bring back your affection
+And no lies, could keep me holdin on
+Holdin on and holdin on
+
+Now i know that its
+Time for letting go
+We can't hide what we both know
+But oooh , oooh the hurt grows
+Everytime i think its over
+Its time to realize
+That were both just living lies
+And way down deep inside
+The time is telling me its time for letting go
+
+Let it go
+I keep tellin myself over and over
+Let it go .....................
+But my loves still strong
+But i just can't keep holding on
+And holdin on and holdin on

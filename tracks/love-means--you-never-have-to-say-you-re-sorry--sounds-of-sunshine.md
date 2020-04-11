@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-means--you-never-have-to-say-you-re-sorry--sounds-of-sunshine
+lyrics_url: https://www.musixmatch.com/lyrics/Sounds-Of-Sunshine/Love-Means-You-Never-Have-to-Say-You-re-Sorry
 name: Love Means (You Never Have To Say You're Sorry)
 rankings:
 - end_date: '1971-06-04'
@@ -55,4 +56,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
 ---
+Love means you never have to say you're sorry
+Love means without a word you understand
+Hold me and let the pressures disappear
+Kiss me I only need to know you're here
 
+Love means you never have to say you're sorry
+Touch me the love I felt is everywhere
+I know I'll never be alone again
+Love means we'll never really say goodbye
+
+Love means you never have to say you're sorry
+Touch me the love I felt is everywhere
+I know I'll never be alone again
+Love means we'll never really say goodbye

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: robbin--the-cradle-tony-bellus
+lyrics_url: https://www.musixmatch.com/lyrics/Tony-Bellus/Robbin-the-Cradle
 name: Robbin' The Cradle
 rankings:
 - end_date: '1959-05-03'
@@ -111,4 +112,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
 ---
+A broken heart is why
+I sing this song to you
+So you and all the
+World would know
+Why I have let you go
 
+(CHORUS)
+They say I'm robbing
+The cradle, little darling
+Because I've fallen
+In love with you
+They say I'm robbing
+The cradle, little darling
+Is it strange for
+True love to be so young
+
+Well, everybody says
+That you've got blue eyes
+But your eyes are
+Really brown like mine
+
+Well, everybody says
+That you're unhappy
+But, with me, you
+Really look so fine
+
+(CHORUS)
+
+Well, they all say
+That I'm outta line
+Cause I want to make you mine
+
+But what very few people know
+That we planned
+Everything just so
+
+(CHORUS)
+
+Is it strange for
+True love to be so young

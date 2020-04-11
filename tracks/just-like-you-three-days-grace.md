@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-like-you-three-days-grace
+lyrics_url: https://genius.com/Three-days-grace-just-like-you-lyrics
 name: Just Like You
 rankings:
 - end_date: '2004-08-06'
@@ -87,4 +88,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-11'
 ---
+I could be mean
+I could be angry
+You know I could be just like you
 
+
+I could be fake
+I could be stupid
+You know I could be just like you
+
+
+You thought you were standing beside me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+I could be cold
+I could be ruthless
+You know I could be just like you
+
+I could be weak
+I could be senseless
+You know I could be just like you
+
+
+You thought you were standing beside me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+On my own, because I can't take living with you
+I'm alone, so I won't turn out like you
+Want me to
+
+
+You thought you were standing beside me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+You thought you were there to guide me
+You were only in my way
+You're wrong if you think that I'll be just like you
+
+
+I could be mean
+I could be angry
+You know I could be just like you

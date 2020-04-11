@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-gary-allan
+lyrics_url: https://genius.com/Gary-allan-the-one-lyrics
 name: The One
 rankings:
 - end_date: '2002-05-24'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-09-28'
 ---
+No rush though I need your touch
+I won't rush your heart
+Until you feel on solid ground
+Until your strength is found, girl
 
+
+I'll fill those canyons in your soul
+Like a river lead you home
+And I'll walk a step behind
+In the shadows so you shine
+Just ask it will be done
+And I will prove my love
+Until you're sure that I'm the one
+
+
+Somebody else was here before
+He treated you unkind
+And broken wings need time to heal
+Before a heart can fly, girl
+
+
+I'll fill those canyons in your soul
+Like a river lead you home
+And I'll walk a step behind
+In the shadows so you shine
+Just ask it will be done
+And I will prove my love
+Until you're sure that I'm the one
+
+
+Trust in me and you'll find a heart so true
+All I want to do is give the best of me to you
+And stand beside you
+Just ask it will be done
+And I will prove my love
+Until you're sure that I'm "the one"
+
+
+I'll fill those canyons in your soul
+Like a river lead you home
+And I'll walk a step behind
+In the shadows so you shine
+Just ask it will be done
+And I will prove my love
+Until you're sure that I'm the one

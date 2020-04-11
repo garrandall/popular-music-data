@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mother-and-child-reunion-paul-simon
+lyrics_url: https://genius.com/Paul-simon-mother-and-child-reunion-lyrics
 name: Mother And Child Reunion
 rankings:
 - end_date: '1972-02-11'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
 ---
+No, I would not give you false hope
+On this strange and mournful day
+But the mother and child reunion
+Is only a motion away
 
+
+Oh, little darling of mine
+I can't for the life of me
+Remember a sadder day
+I know they say let it be
+But it just don't work out that way
+And the course of a lifetime runs
+Over and over again
+
+
+No, I would not give you false hope
+On this strange and mournful day
+But the mother and child reunion
+Is only a motion away
+
+
+Oh, little darling of mine
+I just can't believe it's so
+Though it seems strange to say
+I never been laid so low
+In such a mysterious way
+And the course of a lifetime runs
+Over and over again
+
+
+But I would not give you false hope (No)
+On this strange and mournful day
+When the mother and child reunion
+Is only a motion away
+
+
+Oh, the mother and child reunion is only a motion away
+Oh, the mother and child reunion is only a moment away (Oh)
+Oh, the mother and child reunion is only a motion away
+Oh, the mother and child reunion is only a moment away (Oh)
+Oh, the mother and child reunion, oh, is only a motion away
+Oh, the mother and child reunion is only a moment away, way, way, way

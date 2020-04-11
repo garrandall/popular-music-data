@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-s-express-s-express
+lyrics_url: https://genius.com/Sexpress-theme-from-sexpress-lyrics
 name: Theme From S-Express
 rankings:
 - end_date: '1988-06-24'
@@ -31,4 +32,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
+Enjoy this trip (x2)
+And it is a trip
 
+S'Express (x3)
+
+Countdown is progressing
+Uno dos
+Uno dos tres quatro
+
+I got the hots for you
+Boop
+REPEAT
+
+I got the hots for you
+Boop boop b-boop bep b-bep ah ah
+I got the hots for you
+Boop boop b-bep boop boop b-bep bep
+I got the hots for you
+Boop boop b-boop bep b-bep ah ah
+I got the hots for you
+Boop boop b-bep boop boop b-bep bep
+
+S'Express (x4)
+
+Come on and listen to me baby now (x4)
+
+Come on and listen to me baby now (x3)
+Ooh ooh ooh
+
+I got the hots for you
+Boop
+REPEAT
+
+I got the hots for you
+Boop boop b-boop bep b-bep ah ah
+I got the hots for you
+Boop boop b-bep boop boop b-bep bep
+I got the hots for you
+Boop boop b-boop bep b-bep ah ah
+I got the hots for you
+Boop boop b-bep boop boop b-bep bep
+
+Oh that's bad
+No that's good
+
+Enjoy this trip
+And it is a trip
+REPEAT
+
+Drop that ghetto blaster
+
+Come on and listen to me baby now (x8)
+
+S'Express (x7)
+
+Aah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-shoes-keep-walking-back-to-you-guy-mitchell
+lyrics_url: https://www.musixmatch.com/lyrics/Guy-Mitchell/My-Shoes-Keep-Walking-Back-to-You
 name: My Shoes Keep Walking Back To You
 rankings:
 - end_date: '1960-07-17'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+My Shoes Keep Walking Back To You
+Guy Mitchell
+Written by Lee Ross and James Robert Wills
 
+Peaked at # 45 in 1957
+Also charted that year by Ray Price at # 63 on the Pop Chart (but a #1 on the Country Chart)
+
+Oh, my arms keep reachin' for you
+My eyes keep searchin' for you
+My lips keep callin' for you
+And my shoes keep walkin' back to you
+
+Now, I may say that I don't care
+Hold my head up in the air
+Even tell my friends I'm glad that you don't call
+Ah, but when the day is through
+My heartaches start anew
+And that's when I miss you most of all
+
+And my arms keep reachin' for you
+My eyes keep searchin' for you
+My lips keep callin' for you
+And my shoes keep walkin' back to you
+(And my shoes keep walkin' back to you)
+
+Well, no matter how much I pretend
+I wish I had you back again
+'Cause nothin' else means half as much as you
+My world just seemed to die
+The day you said good bye
+And I can't forget no matter what I do
+
+And my arms keep reachin' for you
+My eyes keep searchin' for you
+My lips keep callin' for you
+And my shoes keep walkin' back to you
+And my shoes keep walkin' back to you

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: on-the-shelf-donny-marie-osmond
+lyrics_url: https://www.musixmatch.com/lyrics/Donny-Marie-Osmond/On-the-Shelf
 name: On The Shelf
 rankings:
 - end_date: '1978-10-13'
@@ -48,4 +49,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
 ---
+You took my love and you threw it away
+Gave you my heart and you took it that day
+Took took took took it away
+Took took took took it away
+And I want it back
 
+Went for a drive just the other day
+I left my heart and you towed it away
+T t t towed it away
+T t t towed it away
+And I want it back
+
+I'm like a dog without a bone
+I'm like a house that's not a home
+I'm like a watch that nobody wants to wind
+
+I'm like a lock without a key
+Nobody wants to lean on me
+I'm so lonely, lonely without you
+Back on the shelf am I, baby
+Back on the shelf am I
+
+Went to a party cause you said you would go
+I sat around but you didn't show
+No no no, you didn't show
+No no no, you didn't show, no, no
+No, no
+
+I ring your house, I don't get no reply
+Well I don't know, I think you're telling me lies
+T t t telling me lies
+T t t telling me lies oh oh
+
+I'm like a dog without a bone
+I'm like a house that's not a home
+I'm like a watch that nobody wants to wind
+
+I'm like a lock without a key
+Nobody wants to lean on me
+I'm so lonely, lonely without you
+Back on the shelf am I, baby
+Back on the shelf am I, baby
+Back on the shelf am I, baby
+Back on the shelf am I, baby
+Back on the shelf

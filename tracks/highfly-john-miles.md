@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: highfly-john-miles
+lyrics_url: https://genius.com/John-miles-highfly-lyrics
 name: Highfly
 rankings:
 - end_date: '1976-02-20'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
 ---
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine
+Whatcha gonna do now there's no wine?
 
+
+For many years
+You played the joker and you always won
+You wasted time
+Always fooling 'round and having fun
+Your luck ran out
+Just like the sunshine when the day is done
+Your dream subsided
+When you decided that your chance had gone
+Your chance to be someone
+
+
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine
+Whatcha gonna do now there's no wine?
+
+
+You never tried
+You just accepted things and didn't care
+And now it's over
+You look around you but there's no one there
+It's too late now
+Face the truth and don't you try to run
+You're feeling sorry
+And you've realised your chance has gone
+Your chance to be someone
+
+
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine
+Whatcha gonna do now there's no wine?
+
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine
+Whatcha gonna do now there's no wine?
+
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine
+Whatcha gonna do now there's no wine?
+
+Highfly, touch the sky
+Whatcha gonna do now the well's dry?
+Good time, feeling fine...

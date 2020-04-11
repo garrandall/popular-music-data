@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: juanita-banana-the-peels
+lyrics_url: https://www.musixmatch.com/lyrics/The-Peels/Juanita-Banana
 name: Juanita Banana
 rankings:
 - end_date: '1966-03-18'
@@ -31,4 +32,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
 ---
+In a little quiet town
+Just south of the Mexican border
+There lived a lovely Juanita
+A banana grower's daughter
+She longed to sing at the opera
+But her father laughed and made fun
+Still Juanita would sing each day in the fields
+As soon as her work was done
 
+Juanita Banana
+Juanita Banana
+Juanita Banana
+Juanita Banana
+
+Juanita moved to the city
+In seach of fortune & fame
+It didn't take more than a couple of songs
+She had won the world's acclaim
+Her father back home was astounded
+His Juanita Banana a star?
+He burned down his trees
+He moved to the city
+And he bought himself a guitar

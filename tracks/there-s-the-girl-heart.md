@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-the-girl-heart
+lyrics_url: https://genius.com/Heart-theres-the-girl-lyrics
 name: There's The Girl
 rankings:
 - end_date: '1987-11-13'
@@ -83,4 +84,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
 ---
+You're a polished diamond
+Now you're feeling kinda rough
+Yes I know how long you've been searching
+For the perfect touch
+You better hear what I say
+I can tell your eyes are just about to give you away
 
+Cause there's the girl that you were after
+Feel your heart beating faster now
+There's the girl you were after
+Can you say that you don't want her anymore
+(oh oh oh waoh waoh oh oh oh)
+
+Just take my word now
+Cause you know it's true
+She ain't good enough
+For the likes of you
+You better hear what I say
+I can tell your eyes are just about
+To give you away
+
+Cause there's the girl that you were after
+Feel your heart beating faster now
+There's the girl that you were after
+And all the time you can't get past her
+There's the girl that you were after
+Broken glass, complete disaster
+There's the girl that you were after
+Can you say that you don't want her anymore
+(waoh waoh oh oh oh woah woah oh oh oh waoh waoh oh oh oh)
+
+I believed you once
+When you explained
+That it wasn't so tough
+To forget her name
+
+Cause there's the girl that you were after
+Feel your heart beating faster now
+There's the girl that you were after
+And all the time you can't get past her
+There's the girl that you were after
+Broken glass, complete disaster
+There's the girl that you were after
+Can you say that you don't want her anymore
+(waoh waoh oh oh oh woah woah oh oh oh waoh waoh oh oh oh)
+
+There's the girl
+There's the girl......
+
+You don't wanna
+You don't wanna
+You don't wanna
+You don't wanna
+
+There's the girl
+There's the girl......

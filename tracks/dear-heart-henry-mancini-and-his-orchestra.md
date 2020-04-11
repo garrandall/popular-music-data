@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: dear-heart-henry-mancini-and-his-orchestra

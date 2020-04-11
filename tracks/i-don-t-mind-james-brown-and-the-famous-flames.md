@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-mind-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-i-dont-mind-lyrics
 name: I Don't Mind
 rankings:
 - end_date: '1961-05-21'
@@ -39,4 +40,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
 ---
+I don't mind...your love
+I don't mind the one you're thinking of
+But I know, I know...you gonna miss me
+I don't mind...your love so soft
+I don't mind, it can't go cold
+But I know, I know...you're gonna miss me
 
+Somewhere down the line...mmm...
+
+I don't mind, this is all of my song
+I don't mind, goodbye, so long
+But I know, I know...you're gonna miss me
+
+Goodbye, so long, no no no, I don't mind
+Goodbye, so long...

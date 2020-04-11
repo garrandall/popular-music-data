@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me--i-ll-be-around--shades
+lyrics_url: https://genius.com/Shades-tell-me-lyrics
 name: Tell Me (I'll Be Around)
 rankings:
 - end_date: '1996-08-09'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
 ---
+Yeah, come on, Motown
+Girls, help me sing it
 
+1 -Tell me your name
+('cause I wanna know)
+What car do you drive
+(And tell me where can we go)
+How much money do you make
+(How can I be down)
+As long as you have
+(I'll be around)
+Tell me your name
+('cause I wanna know)
+What car do you drive
+(And tell me where can we go)
+How much money do you make
+(How can I be down)
+As long as you have
+(I'll be around)
+
+Most guys they come a dime a dozen
+And they always try to get wit me
+Don't think that I'm an opportunist
+I fall in love but just not for free
+So baby tell me
+
+Repeat 1
+
+Most guys they think that I'm a user
+They think I take and then I never give
+It's time for girls to make a statement
+I'm going for mine
+This lady's got to live
+Oooooh, tell me
+
+Repeat 1
+
+If you want me
+Then I must see
+You'll give me
+Any and everything that I need baby
+I'll fall in love
+If love is meant
+'cause ain't nothin going on but the real
+So tell me
+
+Repeat until fade

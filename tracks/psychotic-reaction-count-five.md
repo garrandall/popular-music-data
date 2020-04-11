@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: psychotic-reaction-count-five
+lyrics_url: https://genius.com/Count-five-psychotic-reaction-lyrics
 name: Psychotic Reaction
 rankings:
 - end_date: '1966-09-16'
@@ -55,4 +56,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
 ---
+I feel depressed, I feel so bad
+'Cause you're the best girl that I've ever had
+I can't get your love, I can't get a fraction
+Oh little girls, psychotic reaction
+And it feels like this
 
+
+I feel so lonely night and day
+I can't get your love, I must stay away
+Well I need you, girl, by my side
+Oh little girl, would you like to take a ride now?
+I can't get your love, I can't get satisfaction
+Oh little girl, psychotic reaction

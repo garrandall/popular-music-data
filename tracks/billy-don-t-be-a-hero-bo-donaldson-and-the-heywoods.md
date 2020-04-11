@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: billy-don-t-be-a-hero-bo-donaldson-and-the-heywoods
+lyrics_url: https://genius.com/Bo-donaldson-and-the-heywoods-billy-dont-be-a-hero-lyrics
 name: Billy Don't Be A Hero
 rankings:
 - end_date: '1974-04-26'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
 ---
+The marching band came down along Main Street
+The soldier blues fell in behind
+I looked across and there I saw Billy
+Waiting to go and join the line
 
+And with her head upon his shoulder
+His young and lovely fiancee
+From where I stood I saw she was crying
+And through her tears I heard her say
+
+
+Billy, don't be a hero
+Don't be a fool with your life
+Billy, don't be a hero
+Come back and make me your wife
+
+And as he started to go
+She said, "Billy, keep your head low."
+Billy, don't be hero
+Come back to me
+
+
+The soldier blues were trapped on a hillside
+The battle raging all around
+The sergeant cried, "We've got to hang on, boys!
+We've got to hold this piece of ground."
+
+I need a volunteer to ride up
+And bring us back some extra men."
+And Billy's hand was up in a moment
+Forgetting all the words she said
+
+
+
+
+I heard his fiancee got a letter
+That told how Billy died that day
+The letter said that he was a hero
+She should be proud
+He died that way
+I heard she threw the letter away

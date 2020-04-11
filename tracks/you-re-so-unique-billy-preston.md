@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-so-unique-billy-preston
+lyrics_url: https://genius.com/Billy-preston-youre-so-unique-lyrics
 name: You're So Unique
 rankings:
 - end_date: '1974-01-11'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
+Never had the pleasure of loving you
+Nothing, girl, can measure what I would do
+You're everything that I desire
+All of the good thoughts I have, babe, you inspire
 
+All because you're so unique, baby
+I can't help but love you, girl
+None can compete, girl, with you
+You, you're mine, baby, girl, girl, girl
+
+You're so delicious to a taste
+Girl, let me hold you tightly around your waist
+ you listen to what I say
+I'm gonna love you, girl, girl, in a special way
+
+All because you're so unique, baby
+I can't help but love you, girl, no
+None can compete, girl, with you
+You, you're mine, baby
+
+You're so unique, babe
+I can't help but love you, girl
+None can compete, girl, with you
+You, you're mine

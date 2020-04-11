@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-change-inxs
+lyrics_url: https://genius.com/Inxs-dont-change-lyrics
 name: Don't Change
 rankings:
 - end_date: '1983-07-22'
@@ -23,4 +24,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
 ---
+I'm standing here on the ground
+The sky above won't fall down
+See no evil in all directions
+Resolution of happiness
+Things have been dark
+For too long
 
+Don't change for you
+Don't change a thing for me
+Don't change for you
+Don't change a thing for me
+
+I found a love I had lost
+It was gone for too long
+Hear no evil in all directions
+Execution of bitterness
+Message received loud and clear
+
+Don't change for you
+Don't change a thing for me
+Don't change for you
+Don't change a thing for me
+
+I'm standing here on the ground
+The sky above won't fall down
+See no evil in all directions
+Resolution of happiness
+Things have been dark for too long
+
+Don't change for you
+Don't change a thing for me
+Don't change for you
+Don't change a thing for me
+Don't change for you
+Don't change a thing for me
+Don't change
+Don't change

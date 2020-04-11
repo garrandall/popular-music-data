@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: close-together-jimmy-reed
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Reed/Close-Together
 name: Close Together
 rankings:
 - end_date: '1961-02-05'
@@ -23,4 +24,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
 ---
+We gotta stay close together
+We gotta stay close together
+If we don't somebody could
+Get ahead of us
 
+You know that this old world
+Is full of toil and sin
+One little person just can't win
+Take it to the? side by side
+To try to keep each other
+From being taken for a ride
+
+We gotta stay close, close together
+We gotta stay close, close together
+If we don't somebody could
+Get ahead of us
+
+We gotta stay close together
+We gotta stay close together
+We gotta stay close together
+We gotta stay close together
+If we don't somebody
+Could get ahead of us

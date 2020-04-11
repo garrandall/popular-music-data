@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-seen-love-like-that-mr--big
+lyrics_url: https://genius.com/Mr-big-aint-seen-love-like-that-lyrics
 name: Ain't Seen Love Like That
 rankings:
 - end_date: '1994-03-04'
@@ -31,4 +32,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
 ---
+I've been miles from nowhere crossed and doubled back
+Time is a healer and i've done my time
+'Cause i ain't seen love like that
 
+I've seen the light of freedom 'til they fade to black
+So many faces but no one compares
+No i ain't seen love like that
+
+And I've got
+People tellin' me to let her go
+Don't let it turn you around
+Tomorrow's comin' and you'll never know
+The one that you lost may be found
+
+I believe in justice
+I wonder where she's at
+It feels like a lifetime and it just ain't fair
+No i ain't seen love like that
+
+And I've got
+People tellin' me to let her go
+That girl is bringing you down
+Tomorrow's comin' and you'll never know
+The love that you lost may be found
+
+Whooh
+
+You know there's
+People tellin' me to let her go
+Don't let it turn you around
+Tomorrow's comin' and you'll never know
+The love that you lost may be found
+
+I've been miles from nowhere
+Crossed and doubled back
+Time is a healer And I've done my time
+No, I ain't seen love like that
+No, I ain't seen love like that
+So many faces, (ain't seen love like that)
+No one compares
+I ain't seen love like that (ain't seen love like that)
+Ain't seen love (ain't seen love like that)
+No I ain't

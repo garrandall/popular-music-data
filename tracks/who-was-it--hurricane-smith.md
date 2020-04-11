@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-was-it--hurricane-smith
+lyrics_url: https://www.musixmatch.com/lyrics/Hurricane-Smith/Who-Was-It
 name: Who Was It?
 rankings:
 - end_date: '1973-03-23'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
 ---
+Who was it that caught falling
+And put you back on your feet
 
+And who was it that tripped anyway
+In order that the two of us would meet
+It was me and I tell you why
+Oh I did because of my pure unabashed devotion to loving you
+Do de do do de dodo
+Do de do do de dodo
+Who was it that tried to kiss you
+Despite a very definite no
+And who was it that managed to succeed
+In getting it with your fists down below
+It was me and I tell you why oh I did it
+Because of my pure unabashed devotion to loving you
+You and me both look the feel same we even look alike and like it's
+Blooming shame that because we do
+People think where you know what I mean
+
+Who was it that came to see you when there was no one ells insight
+And who was it that stayed over an
+Hour and not as I expected over night
+
+It was me and I tell you why oh I did it
+Because of my pure unabashed devotion to loving you
+It was me and I tell you why oh I did it because of
+My pure unabashed devotion to loving pure unabashed
+To loving you you you you you you

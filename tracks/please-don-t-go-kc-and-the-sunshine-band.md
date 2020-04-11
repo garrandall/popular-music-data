@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-kc-and-the-sunshine-band
+lyrics_url: https://genius.com/Kc-and-the-sunshine-band-please-dont-go-lyrics
 name: Please Don't Go
 rankings:
 - end_date: '1979-08-31'
@@ -111,4 +112,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
 ---
+I love you
+Yeah
 
+Babe, I love you so
+I want you to know
+That I'm gonna miss your love
+The minute you walk out that door
+
+So please don't go
+Don't go
+Don't go away
+Please don't go
+Don't go
+I'm begging you to stay
+
+If you leave, at least in my lifetime
+I've had one dream come true
+I was blessed to be loved
+By someone as wonderful as you
+
+So please don't go
+Don't go
+Don't go away
+Please don't go
+Don't go
+I'm begging you to stay
+Hey, hey, hey
+
+Yeah
+
+Babe, I love you so
+I, I want you to know
+That I'm gonna miss your love
+The minute you walk out that door
+
+So please don't go
+Don't go
+Don't go away
+Hey, hey, hey
+
+I need your love
+I'm down on my knees
+Beggin' please, please, please
+Don't go
+Don't you hear me, baby?
+Don't leave me now
+Oh, no, no, no, no
+Please don't go
+I want you to know
+That I, I, I love you so
+
+Please don't leave me, baby
+Please don't go

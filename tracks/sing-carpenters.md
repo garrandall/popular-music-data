@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sing-carpenters
+lyrics_url: https://genius.com/Carpenters-sing-lyrics
 name: Sing
 rankings:
 - end_date: '1973-03-02'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
 ---
+Sing, sing a song
+Sing out loud, sing out strong
+Sing of good things not bad
+Sing of happy not sad
 
+Sing, sing a song
+Make it simple to last your whole life long
+Don't worry that it's not good enough
+For anyone else to hear
+Just sing, sing a song
+
+Sing, sing a song
+Let the world sing along
+Sing of love there could be
+Sing for you and for me
+
+Sing, sing a song
+Make it simple to last your whole life long
+Don't worry that it's not good enough
+For anyone else to hear
+Just sing, sing a song
+Just sing, sing a song
+Just sing, sing a song

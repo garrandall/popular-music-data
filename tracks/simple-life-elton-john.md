@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: simple-life-elton-john
+lyrics_url: https://genius.com/Elton-john-simple-life-lyrics
 name: Simple Life
 rankings:
 - end_date: '1993-03-05'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
 ---
+There's a breakdown on the runway
+And the timeless flights are gone
+I'm a year ahead of myself these days
+And I'm locomotive strong
+My city spread like cannon fire
+In a yellow nervous state
+I can't cut the ties that bind me
+To horoscopes and fate
 
+
+And I won't break and I won't bend
+But someday soon we'll sail away
+To innocence and the bitter end
+And I won't break and I won't bend
+And with the last breath we ever take
+We're going to get back to the simple life again
+
+
+When we break out of this blindfold
+I'm gonna take you from this place
+Until we're free from this ball and chain
+I'm still hard behind the eight
+My city beats like hammered steel
+On a shallow cruel rock
+If we could walk proud after midnight
+We'd never have to stop
+
+
+And I won't break and I won't bend
+But someday soon we'll sail away
+To innocence and the bitter end
+And I won't break and I won't bend
+And with the last breath we ever take
+We're going to get back to the simple life again

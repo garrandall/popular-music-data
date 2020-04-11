@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-long-and-winding-road-the-beatles
+lyrics_url: https://genius.com/The-beatles-the-long-and-winding-road-lyrics
 name: The Long And Winding Road
 rankings:
 - end_date: '1970-05-29'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
 ---
+The long and winding road that leads to your door
+Will never disappear, I've seen that road before
+It always leads me here
+Lead me to your door
 
+
+The wild and windy night that the rain washed away
+Has left a pool of tears, crying for the day
+Why leave me standing here?
+Let me know the way
+
+
+Many times I've been alone, and many times I've cried
+Anyway, you'll never know the many ways I've tried
+
+
+And still they lead me back to the long and winding road
+You left me standing here a long, long time ago
+Don't leave me waiting here
+Lead me to your door
+
+
+
+
+But still they lead me back to the long and winding road
+You left me standing here a long, long time ago
+Don't keep me waiting here (Don't keep me waiting)
+Lead me to your door
+
+
+Yeah, yeah, yeah, yeah

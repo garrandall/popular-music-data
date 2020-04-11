@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-my-blessing-lou-rawls
+lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/You-re-My-Blessing
 name: You're My Blessing
 rankings:
 - end_date: '1980-05-02'
@@ -19,4 +20,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
 ---
+My, my my my my my my
+Aren't you overdue for a compliment?
+And can I say that You're heaven sent?
+These are the words I heard in my head
+But I've never said
+You defy description
+And I've seen a vision of you
+In a vision of my dreams
 
+I wanna say it loud and clear
+Loud and clear
+
+I feel like I just woke up
+And now the fog is gone
+You're all I see
+And there isn't a place in my soul except for you and me
+We are coupled, kindred and free
+We are coupled, kindred and free
+
+I wanna say it loud and clear
+Loud and clear
+You're my blessing
+You're my blessing
+You're my blessing
+You're my blessing
+
+Would you blush if I stated the obvious?
+With regards to your perfection,
+They broke the mold,
+I told them to
+These are the words I heard in my head,
+But I've never said
+You defy description,
+And I've seen a vision of you in a vision of my dreams
+
+I wanna say it loud and clear,
+Loud and clear
+You're my blessing

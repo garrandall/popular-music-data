@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-bang-the-joe-cuba-sextet
+lyrics_url: https://www.musixmatch.com/lyrics/Joe-Cuba-Sextet/Bang-Bang
 name: Bang Bang
 rankings:
 - end_date: '1966-10-28'
@@ -39,4 +40,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
 ---
+Beep Beep... Ahh
+Bang Bang
+Cornbread, hog maws and chitlins. cornbread.
 
+Beep Beep... Ahh
+Bang Bang
+Beep Beep... Ahh
+Bang Bang
+
+Beep Beep... Ahh
+Bang Bang
+Cornbread, hog maws and chitlins. cornbread.
+
+Beep Beep... Ah
+Bang Bang
+Beep Beep... Ahh
+Bang Bang

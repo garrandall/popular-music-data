@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-in-my-eyes-the-chantels
+lyrics_url: https://genius.com/The-chantels-look-in-my-eyes-lyrics
 name: Look In My Eyes
 rankings:
 - end_date: '1961-09-03'
@@ -55,4 +56,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
 ---
+Look in my eyes,and tell me you love me
+Tell me you love me, or darling I'll be gone
+(Gone, gone, gone, gone)
 
+Look in my eyes,and tell me that you're the
+One for me, and that our love will always be
+Or darling I'll be gone (gone, gone, gone, gone, gone)
+
+You said it that time
+So glad you're all mine
+What's it to be? Do you wanna be?
+And let me know,a little more time
+Have that love to be ,or darling set me free
+
+Look in my eyes,and tell me you love me
+Tell me you love me or darling all be gone
+(Gone, gone, gone, gone)
+
+Do-oooo di,di,di,di,di
+Do-oooo di,di,di,di,di

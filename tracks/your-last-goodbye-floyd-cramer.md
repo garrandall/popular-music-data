@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-last-goodbye-floyd-cramer
+lyrics_url: https://genius.com/Floyd-cramer-your-last-goodbye-lyrics
 name: Your Last Goodbye
 rankings:
 - end_date: '1961-10-01'
@@ -35,4 +36,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-dancin--don-t-turn-me-on-addrisi-brothers
+lyrics_url: https://genius.com/Addrisi-brothers-slow-dancin-dont-turn-me-on-lyrics
 name: Slow Dancin' Don't Turn Me On
 rankings:
 - end_date: '1977-04-15'
@@ -67,4 +68,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
 ---
+Slow dancing, it don't turn me on
+I know that chicks like to boogie to the beat in the song
+Cause if the beat's slow the ladies won't dance
+And if they won't dance I don't stand a chance
+Somebody please tell the record man
+To play a disco song so the ladies will dance
+Slow dancin oh how shy they can get
+Chicks don't like dancin too close to
+Some new dude they just met
+Cause when yuou dance slow there's nothin to say
+And if he comes on strong she can't get away
+Somebody play some rock and roll
+So I can shake and bake some sweet woman's soul
+I'm lady lookin but I can't get cooking
+With slow dancin, dancin
 
+Slow dancin, it don't turn me on
+I know that chicks like to boogie to the beat in the song
+They like to drink slow and dance real fast
+There wear their jeans so tight and wiggle their class
+But when they dance slow I just can't tell
+If all the moving parts are put together so well
+Somebody please tell the record man
+To play a disco song
+So the ladies will dance
+
+(Repeat chorus)

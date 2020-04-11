@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: world-of-fantasy-the-five-stairsteps
+lyrics_url: https://genius.com/Five-stairsteps-world-of-fantasy-lyrics
 name: World Of Fantasy
 rankings:
 - end_date: '1966-08-12'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+Doo doo doo doo doo
+It's a world of fantasy
 
+
+It's a world where I'm never alone
+It's a world of sheer make-believe
+Where all young lovers have gone
+To set their hearts
+
+
+Doo doo doo doo doo
+It's a world of fantasy
+
+
+I go there whenever I feel the need
+To make life have a new face
+No-one intrudes upon my privacy
+To me it's the most wonderful place
+
+
+Doo doo doo doo doo
+It's a world of fantasy
+
+
+Here is where no problems lie
+And lovers we all become
+We live with love and never cry
+'Cause in love the sum is one plus one
+
+So come on love and follow me
+To my world (To my world of fantasy)
+Come my love (To my world of fantasy)
+Come to my world of fantasy, mm mm yeah (To my world of fantasy)
+Eee-ee

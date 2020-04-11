@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-to-me-betty-harris
+lyrics_url: https://www.musixmatch.com/lyrics/Betty-Harris/Cry-to-Me
 name: Cry To Me
 rankings:
 - end_date: '1963-09-27'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
+When your babe leaves you all alone
+And nobody calls you on the phone
 
+Don't you feel like crying
+Don't you feel like crying
+Like crying, like crying
+Come on, baby, cry to me
+
+When you're all alone
+In your lonely room
+Whoa, when there's nothing
+But the smell of her perfume
+
+Don't you feel like crying
+Don't you feel like crying
+Like crying, like crying
+Come on, babe, cry to me
+
+Nothing can be so low
+Than a glass of wine alone
+Loneliness (loneliness)
+Loneliness (loneliness)
+It's a waste of time
+
+Whoa, no, you don't ever
+I said you don't ever
+I know you don't ever
+Have to walk alone
+Can't you see
+
+Aw, come on, baby
+Come on baby, come on
+Come on, come on, walk with me
+
+When you're waiting
+For a voice to come
+Late, late, late in the night
+But there is no one
+
+Don't you feel like crying
+Don't you feel like crying
+Like crying, like crying
+
+Come on, babe, come on
+Come on, cry to me

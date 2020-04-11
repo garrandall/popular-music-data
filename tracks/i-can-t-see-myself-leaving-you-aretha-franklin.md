@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-see-myself-leaving-you-aretha-franklin
+lyrics_url: https://genius.com/Aretha-franklin-i-cant-see-myself-leaving-you-lyrics
 name: I Can't See Myself Leaving You
 rankings:
 - end_date: '1969-04-25'
@@ -39,4 +40,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
 ---
+You've been running around
+This I know, yeah
+I ought to pack my things
+And let you go
+But baby
 
+
+I don't know what to do
+I can't see myself
+Going away to stay
+Whoa, no, I can't see myself leaving you
+
+
+You've been running around
+With every girl in town
+Yes, you have
+If I just had the power
+I'd put you right down
+Whoa, oh, my love
+
+
+I don't know what to do
+Cause I can't see myself
+Going away to stay
+Oh no, I can't see myself leaving you, no
+
+
+True love is so hard to find
+Tell me, tell me that I've got mine
+If I go searching for another
+I'd just be wasting my time, yeah, hey
+
+
+I say we're through
+Because I love you
+Yes, I do
+If I leave you, baby
+What would I do?
+Whoa, oh, oh, my love
+
+
+I wouldn't know what to do
+'Cause I can't see myself leaving you
+Whoa, oh, oh, oh
+I can't see myself leaving you, no
+I can't see myself leaving you
+
+
+Whoa, no
+I can't see myself leaving you, no
+I can't see myself (I can't see myself)
+Leaving you (I can't see myself)
+Oh no (I can't see myself)
+I can't see myself (I can't see myself)
+Oh no (I can't see myself)

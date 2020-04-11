@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-a-penny-pat-boone
+lyrics_url: https://genius.com/Pat-boone-for-a-penny-lyrics
 name: For A Penny
 rankings:
 - end_date: '1959-03-29'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-01'
 ---
+Darling, darling, darling
+If you should say we're through
+I would sell my heart for a penny
+'Cause it's worthless to me without you
 
+Oh, oh, oh
+With these arms I hold you
+That's all I use them for
+I would sell these arms for a penny
+If they couldn't hold you any more
+
+In other words, I seem to have nothing at all
+Unless I have you by my side
+Without you my whole world would crumble and fall
+But with you I'm so satisfied
+
+Oh, oh darling, darling, darling
+I swear by up above
+For a penny, for a penny, for a penny
+I'd give all that I own for your love
+
+I'd give all that I own for your love

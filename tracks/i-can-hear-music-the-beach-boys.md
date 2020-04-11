@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-hear-music-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-i-can-hear-music-lyrics
 name: I Can Hear Music
 rankings:
 - end_date: '1969-03-14'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
+Ahhhhhh oooooo
 
+
+This is the way
+I always dreamed it would be
+The way that it is, oh oh
+When you are holding me
+I never had a love of my own
+Maybe that's why when we're all alone
+
+
+I can hear music
+I can hear music
+The sound of the city baby seems to disappear
+I can hear music
+Sweet sweet music
+Whenever you touch me baby
+Whenever you're near
+
+
+Loving you
+It keeps me satisfied
+And I can't explain, oh no
+The way I'm feeling inside
+You look at me we kiss and then
+I close my eyes and here it comes again
+
+
+
+
+I hear the music all the time, yeah
+I hear the music, hold me tight now baby
+I hear the music all the time
+I hear the music
+I hear the music (baby)
+
+Ahhhhh

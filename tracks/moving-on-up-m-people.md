@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moving-on-up-m-people
+lyrics_url: https://genius.com/M-people-moving-on-up-lyrics
 name: Moving On Up
 rankings:
 - end_date: '1994-05-13'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
 ---
+You've done me wrong
+Your time is up
+You took a sip (just a sip)
+From the devil's cup
+You broke my heart
+There's no way back
+Move right outta here baby
+Go on pack your bags
 
+Just who do you think you are
+Stop acting like some kinda star
+Just who do you think you are
+Take it like a man baby if that's what you are
+
+Cause I'm moving on up
+You're moving on out
+Moving on up
+Nothing can stop me
+I'm moving on up
+You're moving on out
+Time to break free
+Nothing can stop me
+
+They brag a man has walked in space
+But you can't evenfind my place
+Mm there ain't nothing (not a thing)
+You can do
+Cause I've had enough of me baby
+Being part of you
+
+Just who do you think you are
+This time you've gone too far
+Just who do you think you are
+Take it like a man baby if that's what you are
+
+Cause I'm moving on up
+You're moving on out
+Moving on up
+Nothing can stop me
+I'm moving on up
+You're moving on out
+Time to break free
+Nothing can stop me
+(moving on up,moving on up,moving on up)
+(moving on up, moving on up,moving on up)
+(moving on up, moving on up,moving on up)
+(moving on up, moving on up,moving on up)
+Moving on up
+You're moving on out
+Moving on up
+Nothing can stop me
+I'm moving on up
+You're moving on out
+Time to break free
+Nothing can stop me
+(moving)
+(moving)
+(moving)
+Nothing can stop me
+(moving)
+(moving)
+Time to break free
+Nothing can stop me

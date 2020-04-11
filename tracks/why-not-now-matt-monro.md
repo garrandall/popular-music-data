@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-not-now-matt-monro
+lyrics_url: https://genius.com/Matt-monro-why-not-now-lyrics
 name: Why Not Now
 rankings:
 - end_date: '1961-10-22'
@@ -19,4 +20,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+Please love me tonight
+For it's clear, very clear
+The moment is right
+So why not now?
 
+I thrill at your touch
+You're so near, very near
+I need you so much
+So why not now?
+
+Your warm fingertips
+Touching my hand
+I long for your lips
+To understand
+
+And whisper "Love me tonight"
+Midnight's near, very near
+Tomorrow can wait
+So why not now?
+
+Love will never wait
+And maybe tomorrow's too late
+Say it tenderly
+
+And whisper "Love me tonight"
+Midnight's near, very near
+Tomorrow can wait
+So why not now?
+
+Tomorrow can wait
+So why not now?

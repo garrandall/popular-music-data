@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-without-you-manfred-mann-s-earth-band
+lyrics_url: https://genius.com/Manfred-manns-earth-band-living-without-you-lyrics
 name: Living Without You
 rankings:
 - end_date: '1972-03-03'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
+The milk truck hauls the sun up
+The paper hits the door
+The subway shakes my floor
+And I think about you
+Time to face the dawning grey
+Of another lonely day
+It's so hard living without you
 
+So hard, so hard
+It's so hard living without you
+So hard, so hard
+It's so hard living without you
+
+Everyone's got something
+They're all tryin' to get some more
+They've got something to get up for
+Well, I ain't about to
+Nothing's gonna happen
+Nothing's gonna change
+It's so hard living without you
+
+It's so hard, so hard
+It's so hard living without you
+So hard, so hard
+It's so hard living without you
+So hard, so hard
+It's so hard living without you
+
+So hard
+(Yeah, so hard)
+Living without you
+So hard
+Living without you
+(repeat and fade)

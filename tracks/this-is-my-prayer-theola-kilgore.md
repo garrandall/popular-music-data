@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-my-prayer-theola-kilgore
+lyrics_url: https://www.musixmatch.com/lyrics/Theola-Kilgore/This-Is-My-Prayer
 name: This Is My Prayer
 rankings:
 - end_date: '1963-08-16'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
 ---
+This is my prayer for love
+This is my prayer for love, oh lord
+Let me fill his life
+Full of sunshine and gladness
+Never let me bring him
+One moment of sadness
 
+This is my prayer, oh lord, oh lord
+When trouble comes
+Never let him doubt me
+Let him feel my love
+Around and about him
+
+For this is my prayer, oh lord, oh lord
+Yeah, my prayer, oh lord, oh lord
+
+And when I'm old and gray
+These are the words I'd like to hear him say
+Yes I would, yes I would
+
+Oh oh, darling my life has been completed
+You are the only one
+That I have ever needed
+Oh this is my prayer
+My prayer, this is my prayer
+Yeah, this is my prayer
+Oh lord, this is my prayer
+Make him need me, make him want me
+Be my lovin' man, oh lord

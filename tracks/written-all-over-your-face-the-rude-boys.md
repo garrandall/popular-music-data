@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: written-all-over-your-face-the-rude-boys
+lyrics_url: https://genius.com/Rude-boys-written-all-over-your-face-lyrics
 name: Written All Over Your Face
 rankings:
 - end_date: '1991-03-15'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
 ---
+It's written all over your face
+You don't have to say a word
+Just smile, a smile, a smile, a smile for me
+Is better than any word I ever heard
 
+
+I know that I'm a very lucky guy
+To have someone like you
+I never met a girl in my life like you before
+You make all my dreams come true
+I love the way you carry you 
+You have a lot of class and good taste
+And you don't have to say how much you care for me
+Because it's written all over your face
+Don't you know
+
+
+
+
+You dont have to say how much you love me, girl
+Because you show me every day
+You kiss me, you miss me, you hold me very tight
+You love me in every way
+I love the way you carry you
+You got a lotta class and good taste
+And you dont have to say how much you care for me
+Because it's written all over, written all over your, your, your face, baby
+
+
+
+
+Going to the bridge
+It's written on your face
+That you really care
+It's written on your face
+That you really care

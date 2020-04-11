@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-frame-trapt
+lyrics_url: https://genius.com/Trapt-still-frame-lyrics
 name: Still Frame
 rankings:
 - end_date: '2003-11-21'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
 ---
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out of here
+Believe me, I'm just as lost as you
+Believe me, I'm just as lost as you
 
+And every time I think I've finally made it
+I learn I'm farther away than I have ever been before
+I see the clock and its ticking away
+And the hourglass empty
+What the fuck do I have to say?
+
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out of here
+Believe me, I'm just as lost as you
+Believe me, I'm just as lost as you
+
+Keep it inside, the image portrayed
+As if I couldn't stand losing, as if I couldn't be saved, no way
+A small confession, I think I'm starting to lose it
+I think I'm drifting away from the people I really need
+A small reflection on when we were younger
+We had it all figured out, ‘cause we had everything covered
+Now we're older, it's getting harder to see
+What this future will hold for us?
+What the fuck are we going to be?
+
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it  out of here
+Believe me, I'm just as lost as you
+Believe me, I'm just as lost as you
+
+Lost, lost, lost, lost, lost, lost, lost, lost
+I'm just as lost as you
+What am I going to do?
+
+I'm afraid I'm falling farther away
+I'm falling farther away
+I'm falling farther from where I wanna be
+I'm afraid I'm falling farther away
+I'm falling farther away
+I'm falling farther away
+
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out
+Please help me ‘cause I'm breaking down
+This picture's frozen, and I can't get it out of here
+Believe me, I'm just as lost as you
+Believe me, I'm just as lost as you
+Now I'm breaking it down
+I'm just as lost as you
+Now I'm breaking it down

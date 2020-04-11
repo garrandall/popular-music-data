@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-can-take-care-of-myself-billy-the-beaters
+lyrics_url: https://genius.com/Billy-and-the-beaters-i-can-take-care-of-myself-lyrics
 name: I Can Take Care Of Myself
 rankings:
 - end_date: '1981-05-01'
@@ -52,4 +53,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
 ---
+Your wardrobe's purchased at the latest boutique
+Your place is furnished like the President's suite
+Your freezer's filled up with the finest of meat
+Somehow you manage on a hundred a week
+They say you like to feel white gold on your neck
+They say when you make love you like to direct
+And that new sports car you proceeded to wreck
+They say I ought to ask who picked up the check
+I can take care of myself
+My friends all say I ought to think twice
+I can take care of myself
+I don't need nobody's advice
+You're so nice
+Attempts to charm you met with little success
+I never met someone so hard to impress
+Until one day by chance you saw my address
+The next day you had on your lowest cut dress
 
+(Repeat Chorus)
+They could be correct in their judgment of you
+Maybe you'll take me and make me a fool
+But I'm a big boy and I know what to do
+It might be worth it to wake up next to you
+
+(Repeat Chorus)
+I can take care of myself
+I don't need nobody's advice
+Oh I can take care of myself
+I don't need nobody's advice
+Yeah I can take care of myself
+I don't need nobody's advice

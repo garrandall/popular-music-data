@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-love-me-forever-cathy-jean-and-the-roommates
+lyrics_url: https://genius.com/Cathy-jean-and-the-roommates-please-love-me-forever-lyrics
 name: Please Love Me Forever
 rankings:
 - end_date: '1961-03-05'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
 ---
+(Please love me)
+(Please!)
+(Please love me)
+(Please!)
 
+Please love me forever
+Don't forget me ever
+Just listen to my plea
+Please don't stop loving me
+
+You're in my dreams nightly
+Don't take my love lightly
+Begging on bended knee
+Please don't stop loving me
+
+Oh, when I lay me down to sleep
+I pray the Lord your love I'll keep
+If I should die before I wake
+I'll come back for you, that's no mistake
+
+Oh, I'll love you forever
+Can't forget you ever
+Our love was meant to be
+Please don't stop loving me
+
+I'll love you forever
+Can't forget you ever
+Our love was meant to be
+Please don't stop loving me

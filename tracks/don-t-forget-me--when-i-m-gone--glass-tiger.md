@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-forget-me--when-i-m-gone--glass-tiger
+lyrics_url: https://genius.com/Glass-tiger-dont-forget-me-when-im-gone-lyrics
 name: Don't Forget Me (When I'm Gone)
 rankings:
 - end_date: '1986-07-18'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
 ---
+You take my breath away
+Love thinks it's here to stay
+There's still so much for me to do
+And I can't stop loving you
+Oh, can this be true
 
+If you could see what I have seen
+Broken hearts and broken dreams
+Then I wake up and you're not there
+Pain finds me everywhere
+Oh, but you don't care
+
+Don't forget me when I'm gone
+My heart would break
+I have loved you for so long
+It's all I can take
+
+You, you take my breath away
+Love thinks it's here to stay
+Still so much for me to do
+And I can't stop loving you
+Oh, can this be true
+
+Don't forget me when I'm gone
+My heart would break
+I have loved you for so long
+It's all I can take
+
+Then I wake up and you're not there
+Pain finds me everywhere
+Oh, but you don't care
+
+Don't forget me when I'm gone
+For heaven's sake
+I have loved you for so long
+Is loving wrong
+So don't forget me when I'm gone
+My heart would break
+I have loved you for so long
+Is loving wrong

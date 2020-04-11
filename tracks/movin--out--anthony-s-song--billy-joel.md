@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: movin--out--anthony-s-song--billy-joel
+lyrics_url: https://genius.com/Billy-joel-movin-out-anthonys-song-lyrics
 name: Movin' Out (Anthony's Song)
 rankings:
 - end_date: '1978-03-24'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
 ---
+Anthony works in the grocery store
+Savin' his pennies for someday
+Mama Leone left a note on the door
+She said "Sonny, move out to the country"
+Workin' too hard can give you a heart attack-ack-ack-ack-ack-ack
+You oughta know by now (you oughta know by now)
+Who needs a house out in Hackensack
+Is that all you get for your money
 
+
+And it seems such a waste of time
+If that's what it's all about
+Mama, if that's movin' up then I'm movin' out
+I'm movin' out
+
+
+Sergeant O'Leary is walkin' the beat
+At night he becomes a bartender
+He works at Mr. Cacciatore's down on Sullivan Street
+Across from the medical center
+Yeah, and he's tradin' in his Chevy for a Cadillac-ac-ac-ac-ac-ac
+You oughta know by now (you oughta know by now)
+And if he can't drive with a broken back
+At least he can polish the fenders
+
+
+And it seems such a waste of time
+If that's what it's all about
+Mama, if that's movin' up then I'm movin' out
+I'm movin' out
+
+
+You should never argue with a crazy mind
+You oughta know by now (you oughta know by now)
+You can pay Uncle Sam with the overtime
+Is that all you get for your money
+
+
+And if that's what you have in mind
+Yeah, if that's what you're all about
+Good luck movin' up, cause I'm movin' out
+I'm movin' out

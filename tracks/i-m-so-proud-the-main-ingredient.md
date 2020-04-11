@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-proud-the-main-ingredient
+lyrics_url: https://genius.com/The-main-ingredient-im-so-proud-lyrics
 name: I'm So Proud
 rankings:
 - end_date: '1970-12-18'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
-
+You're prettier than all the world
+And I'm so proud (I'm so proud)
+I'm so proud of you
+'Cause you're only one fellow's girl
+And I'm so proud (I'm so proud)
+I'm so proud of you
+I'm so proud of being loved by you
+And it would hurt, hurt to know
+If you ever were untrue
+Sweeter than the taste of a cherry so sweet
+Yes baby, I'm so proud (I'm so proud)
+I'm so proud of you
+Compliments to you from all the people we meet
+Yes baby, I'm so proud (I'm so proud)
+I'm so proud of you
+I'm so proud of being loved by you
+And it would hurt, hurt to know
+If you ever were untrue
+Sweeter than the taste of a cherry so sweet
+Yes baby, I'm so proud (I'm so proud)
+I'm so proud of you
+I'm so proud of being loved by you
+I'm so proud, proud of you, honey
+I'm so proud, proud of you, baby
+I'm so proud....

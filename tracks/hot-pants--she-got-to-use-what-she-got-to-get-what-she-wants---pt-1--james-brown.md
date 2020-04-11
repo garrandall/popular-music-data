@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-pants--she-got-to-use-what-she-got-to-get-what-she-wants---pt-1--james-brown
+lyrics_url: https://genius.com/James-brown-hot-pants-lyrics
 name: Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt 1)
 rankings:
 - end_date: '1971-07-09'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
 ---
-
+One-two one-two-three uh!
+Hot pants- hey hot pants uh! Smoking
+Hot pants- smoking that-hot pants
+That's where its at a-that's where its at
+Take your fine self home
+It looks much better than time
+My fever keeps growing
+Girl you're blowing my mind
+Thinking of loosing that funky feeling don't uh!
+Cause you got to use just what you got
+To get just what you want-a
+Hey hu!
+Hot pants! Hey! Hot pants smoking!
+Hot pants make ya sure of yourself -good lord
+You walk like you got the only loving left hey
+So brother- if you're thinking of loosing that feeling
+Then don't- ha
+Cause a woman got to use what she got
+To get just what she wants hey!
+Hey hotpants
+A-look a-hot pants won't make ya dance
+But as slick as you are-ah! You make the pants
+Uh! Hey brother- do ya like it?
+The girl over there with the funky pants on ha!
+She can ah! Do the chicken all night long
+The girl over there with the hot pants on uh!
+She can do the funky broadway all night long
+The girl over there with the hot pants on
+Filthy macnasty all night long
+Get down hu! The one over there
+With the mini dress ha!
+I ain't got time- i still dig that mess
+Get down! But i like the hot pants
+Hey! I like a hot pants
+Ooooh! Bring it home!
+One more! Hit me! Aaay!
+Bring it home! Bring it home!
+Oh uh! Bring it on home
+Bring it on home

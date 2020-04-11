@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-don-t-have-you-don-mclean
+lyrics_url: https://genius.com/Don-mclean-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
 rankings:
 - end_date: '1981-04-17'
@@ -63,4 +64,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
 ---
+I don't have plans and schemes, and I don't have hopes and dreams
+I don't have anything since I don't have you
+I don't have fond desires; I don't have happy hours
+I don't have anything since I don't have you
 
+I don't have happiness, and I guess I never will again
+When you walked out on me in came old misery
+And he's been here since then
+
+Now I don't have love to share, and I don't have one who cares
+I don't have anything since I don't have ...
+You, you, you, you, you

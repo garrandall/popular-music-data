@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fallen-angel-webb-pierce
+lyrics_url: https://genius.com/Webb-pierce-fallen-angel-lyrics
 name: Fallen Angel
 rankings:
 - end_date: '1960-11-27'
@@ -11,4 +12,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
 ---
-
+She's just a fallen angel and I'm the fool who made her fall
+Last night I saw an angel the one I once called mine
+The hand that wore my wedding band held a glass of wine
+I took her love for granted I wronged her night and day
+I drove my angel from me and now she's gone astray
+She's just a fallen angel but I don't blame her for it all
+She's just a fallen angel and I'm the fool who made her fall
+( steel )
+So many times she told me she couldn't take me much more
+So many times I laughed at her and walked right out the door
+I wasn't worthy of her and now my angel's gone
+The devil took her from me and claimed her for his own
+She's just a fallen angel...

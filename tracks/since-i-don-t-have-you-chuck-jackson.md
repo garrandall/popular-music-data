@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-don-t-have-you-chuck-jackson
+lyrics_url: https://genius.com/Chuck-jackson-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
 rankings:
 - end_date: '1964-11-20'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
 ---
+I don't have plans and schemes
+And I don't have hopes and dreams
+I don't have anything
+Since I don't have you
 
+And I don't have heart's desires
+And I don't have happy hours
+I don't have anything
+(Anything, anything)
+Darling, since I don't have you
+
+I don't have happiness
+And I guess I never will again
+When you walked out on me
+In walked old misery and it's been here since then
+
+I don't have love to share
+I don't have one who cares
+I don't have anything
+(Anything, anything)
+Baby, since I don't have you
+
+And I don't have heart's desires
+And I don't have happy hours

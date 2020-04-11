@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-it-against-me-britney-spears
+lyrics_url: https://genius.com/Britney-spears-hold-it-against-me-lyrics
 name: Hold It Against Me
 rankings:
 - end_date: '2011-02-04'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
 ---
+Hey, over there
+Please forgive me if I’m coming on too strong
+Hate to stare, but you’re winning
+And they’re playing my favorite song
+So come here, a little closer
+Wanna whisper in your ear
+Make it clear, a little question
+Wanna know just how you feel
 
+
+If I said my heart was beating loud
+If we could escape the crowd somehow
+If I said I want your body now, would you hold it against me?
+'Cause you feel like paradise, and I need a vacation tonight
+So, if I said I want your body now, would you hold it against me?
+
+
+Hey, you might think that I’m crazy
+But you know I’m just your type
+I might be a little hazy
+But you just cannot deny
+There’s a spark in-between us
+When we’re dancing on the floor
+I want more, wanna see it
+So, I’m asking you tonight
+
+
+If I said my heart was beating loud
+If we could escape the crowd somehow
+If I said I want your body now, would you hold it against me?
+'Cause you feel like paradise, and I need a vacation tonight
+So, if I said I want your body now, would you hold it against me?
+
+
+If I said I want your body, would you hold it against me?
+
+
+Give me something good
+Don’t wanna wait, I want it now
+Drop it, like a hood
+And show me how you work it out
+Alright
+
+
+If I said my heart was beating loud
+If I said I want your body now, would you hold it against me?
+
+
+If I said my heart was beating loud
+If we could escape the crowd somehow
+If I said I want your body now, would you hold it against me?
+'Cause you feel like paradise, and I need a vacation tonight
+So, if I said I want your body now, would you hold it against me?

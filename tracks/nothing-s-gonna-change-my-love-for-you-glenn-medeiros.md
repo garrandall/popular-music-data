@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-s-gonna-change-my-love-for-you-glenn-medeiros
+lyrics_url: https://genius.com/Glenn-medeiros-nothings-gonna-change-my-love-for-you-lyrics
 name: Nothing's Gonna Change My Love For You
 rankings:
 - end_date: '1987-02-20'
@@ -107,4 +108,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
 ---
+If I had to live my life
+Without you near me
+The days would all be empty
+The nights would seem so long
 
+With you I see forever oh so clearly
+I might have been in love before
+But it never felt this strong
+
+Our dreams are young and we both know
+They'll take us where we want to go
+Hold me now
+Touch me now
+I don't want to live without you
+
+
+Nothing's gonna change my love for you
+You ought to know by now how much I love you
+One thing you can be sure of
+I'll never ask for more than your love
+
+Nothing's gonna change my love for you
+You ought to know by now how much I love you
+The world may change my whole life through
+But nothing's gonna change my love for you
+
+If the road ahead is not so easy
+Our love will lead the way for us
+Like a guiding star
+
+I'll be there for you
+If you should need me
+You don't have to change a thing
+I love you just the way you are
+
+So come with me and share the view
+I'll help you see forever too
+Hold me now, touch me now
+I don't want to live without you
+
+Nothing's gonna change my love for you
+You ought to know by now how much I love you
+One thing you can be sure of
+I'll never ask for more than your love

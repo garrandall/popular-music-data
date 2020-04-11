@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-your-angel-stacy-lattisaw
+lyrics_url: https://genius.com/Stacy-lattisaw-let-me-be-your-angel-lyrics
 name: Let Me Be Your Angel
 rankings:
 - end_date: '1980-08-15'
@@ -103,4 +104,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+Look at me
+I have fallen so in love with you
+Please don't leave
 
+Stay around
+Let me tell you all
+The things I feel
+Won't you please
+
+Let me be your angel
+Let me be the one for you
+Let me be your angel
+Let me be the one you believe in
+
+You might think
+I am much too young
+To understand
+Don't be fooled
+
+Like a child
+I look into your eyes
+And hope someday
+I'll make you mine
+
+Let me be your angel
+Let me be the one for you
+Let me be your angel
+Let me be the one you believe in
+
+Let me be your angel
+Let me be the one for you
+Let me be your angel
+Let me be the one you believe in

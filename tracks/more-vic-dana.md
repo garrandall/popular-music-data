@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-vic-dana
+lyrics_url: https://genius.com/Vic-dana-more-lyrics
 name: More
 rankings:
 - end_date: '1963-08-16'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
 ---
+More than the greatest love the world has known
+This is the love I give to you alone
+More than the simple words I try to say--
+I only live to love you more each day
+More than you'll ever know
+My arms long to hold you so
+My life will be in your keeping
+Waking, sleeping, laughing, weeping...
+Longer than always is a long, long time
+But far beyond forever, you'll be mine
+I know I've never lived before
+And my heart is very sure
+No one else could love you more
 
+Longer than always is a long, long time
+But far beyond forever, you'll be mine
+I know I've never lived before
+And my heart is very sure
+No one else could love you more

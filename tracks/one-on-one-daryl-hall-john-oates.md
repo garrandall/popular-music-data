@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: one-on-one-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/oneonone.html
 name: One On One
 rankings:
 - end_date: '1983-02-04'
@@ -79,4 +80,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
 ---
+I'm tired of playing on the team
+Ooooh, it seems I don't get time out anymore
+What a change if we set the pace face to face
+No one even trying to score
+And oh, oh, I can feel the magic of your touch
+Umm-humm, And when you move in close
+A little bit means so much
+And ooh yeah, you've got to understand, baby
+Time out is what I'm here for
 
+Whoooa, one on one
+I wanna play that game tonight
+One on one I know
+I wanna play that one on one
+I wanna play that game tonight
+One on one so slow
+Ooooooh-oh
+
+Oooooh, you can't tell me you don't miss me girl
+I think I might know you too well, whooooa
+I (wonder what) you'd say if you knew
+That I was coming tonight
+(Want to)
+I want you can't you tell
+
+Ooooh, whoooa, one on one
+I wanna play that game tonight
+One on one I know
+I wanna play that one on one
+I wanna play that game tonight
+One on one so slow
+Ooooooh-oh
+That's all you need to know now
+
+
+
+'Cause if it's really right
+There's nothing else
+One on one
+I wanna play that game tonight
+Ooooh-oh mmmmmmm
+One on one
+I wanna play that game tonight
+(One on one)
+Ooooooh-oh
+One on one
+I wanna play that game tonight
+(One on one I wanna play that game tonight)
+Ooooooh-oh
+One on one I wanna play that game
+(One) on one (on one) on one, girl
+(On one) ooooooh, there's nothing else
+(On one) but you and me (on one)
+I want no one else (on one)
+I don't want no one else (on one)
+Oh, baby, I'm tired of playing (on one)
+I'm tired of playing (on one)
+I don't want to play those games no more...

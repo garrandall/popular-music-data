@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-monkey-freddy-cannon
+lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/Everybody-Monkey
 name: Everybody Monkey
 rankings:
 - end_date: '1963-08-09'
@@ -35,4 +36,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
 ---
+Monkey, monkey, monkey
+Monkey, monkey, monkey
+Monkey, monkey
 
+Monkey, monkey, monkey
+Monkey, monkey, monkey
+Monkey, monkey
+
+I can do the monkey
+You can do the monkey
+Everybody monkey, yeah
+
+There's a dance going round
+That's setting this town
+(Monkey, monkey, monkey)
+Well, it feels real good
+Let me teach it to you
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+All my friends do it
+At the record hop
+When you do the monkey
+You don't know when to stop
+(Monkey, monkey, monkey)
+
+I can do the monkey
+You can do the monkey
+Everybody monkey, yeah
+Come on, take a lesson now
+
+(Monkey, monkey, monkey)
+Bend your back now
+(Monkey, monkey, monkey
+Monkey, monkey)
+Oh, spread your knees now
+
+(Monkey, monkey, monkey)
+Jump around now
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+Act just like a monkey
+You're looking like a monkey
+Everybody monkey, yeah
+
+Well, I went to the seashore
+And what did I see
+(Monkey, monkey, monkey)
+A big boss monkey
+Lying right on the beach
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+Now everybody looked like
+They were having a ball
+Get in the stance
+When you hear that call
+(Monkey, monkey, monkey)
+
+You can do the monkey
+Swing just like a monkey
+Everybody monkey, yeah
+
+Come on, take a lesson now
+(Hey, monkey, monkey)
+Bend your back now
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+Spread your knees now
+(Monkey, monkey, monkey)
+Jump around
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+Act just like a monkey
+You're looking like a monkey
+Everybody monkey, yeah
+
+One more time
+
+(Monkey, monkey, monkey)
+(Monkey, monkey, monkey
+Monkey, monkey)
+Oh, spread your knees now
+(Monkey, monkey, monkey)
+Jump around now
+(Monkey, monkey, monkey
+Monkey, monkey)
+
+Act just like a monkey
+You're looking like a monkey
+Everybody monkey, yeah

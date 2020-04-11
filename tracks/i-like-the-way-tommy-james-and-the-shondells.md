@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-the-way-tommy-james-and-the-shondells
+lyrics_url: https://genius.com/Tommy-james-and-the-shondells-i-like-the-way-lyrics
 name: I Like The Way
 rankings:
 - end_date: '1967-07-07'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+I like the way, you call my name
+It sounds so nice
+I could never explain
+I like the way, you hold my hand
+It lets me know that you understand
 
+
+I like the way, you wanna kiss me
+And I like the way, you always miss me
+I like the way (I like the way)
+
+
+I like the way, you come around
+To cheer me up, whenever I'm down
+I like the way, you make me feel
+The love we have, is so very real
+
+
+I like the way, you wanna kiss me
+And I like the way, you always miss me
+I like the way (I like the way)
+
+
+I like the way, we kiss goodnight
+It feels so good when you're holding me tight
+
+
+I like the way, you wanna kiss me
+And I like the way, you always miss me
+I like the way (I like the way)
+I like the way
+Oh, I like the way
+I like the way
+Oh, I like the way
+(fade)

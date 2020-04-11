@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whispers-corina
+lyrics_url: https://genius.com/Corina-whispers-lyrics
 name: Whispers
 rankings:
 - end_date: '1991-10-04'
@@ -87,4 +88,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
 ---
+There was a love
+Once upon a time
+A fairy tale
+Her heart was blind, blind, oh
+He lived for her
+So happily ever after
+I turn the page
+The story fades as I call your name
+(It makes me so)
 
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go
+Baby, this can't be you
+
+Hello, my love
+What's going on, on, uh?
+Tell me, baby
+Aren't you gonna prove them wrong, wrong, uh?
+I hear your name
+It's not the same, boy, they're saying things
+Is this a game?
+Am I insane?
+No, this can't be real
+(It makes me so)
+
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go
+Baby, this can't be you
+
+I swear I can hear it in us
+You know, come, baby please
+I've taken so long to, to know you
+You just tell me
+And I believed you
+Because I loved you
+And true love is so hard to find
+You look so beautiful in my eyes
+I love you so much, I love you, darling
+
+I trusted you
+You gotta let me know
+
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go
+
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go
+
+(I'll never know, I'll never know)
+(Never my love, my love, oh baby)
+Baby, this can't be you
+(I'll never know, I'll never know)
+(Never my love, my love, oh yeah, baby)
+Baby, this can't be you
+
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go
+
+I hear whispers at night
+That you're seeing somebody new
+I can't believe it's true
+Baby, this can't be you
+But if there's someone else
+Baby, then let me know
+I never thought I'd
+Ever have to let you go

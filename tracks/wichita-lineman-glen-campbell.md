@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wichita-lineman-glen-campbell
+lyrics_url: https://genius.com/Glen-campbell-wichita-lineman-lyrics
 name: Wichita Lineman
 rankings:
 - end_date: '1968-11-08'
@@ -67,4 +68,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
 ---
+I am a lineman for the county
+And I drive the main road
+Searchin' in the sun for another overload
 
+
+I hear you singing in the wire
+I can hear you through the whine
+And the Wichita lineman
+Is still on the line
+
+
+
+
+I know I need a small vacation
+But it don't look like rain
+And if it snows that stretch down south
+Won't ever stand the strain
+
+
+And I need you more than want you
+And I want you for all time
+And the Wichita lineman
+Is still on the line
+
+
+
+
+And I need you more than want you
+And I want you for all time
+And the Wichita lineman
+Is still on the line

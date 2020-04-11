@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smiling-faces-sometimes-the-undisputed-truth
+lyrics_url: https://genius.com/The-undisputed-truth-smiling-faces-sometimes-lyrics
 name: Smiling Faces Sometimes
 rankings:
 - end_date: '1971-07-02'
@@ -79,4 +80,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
 ---
+Smiling faces sometimes
+Pretend to be your friend
+Smiling faces show no traces
+Of the evil that lurks within
 
+
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+
+The truth is in the eyes
+Cause the eyes don't lie, amen
+Remember a smile is just
+A frown turned upside down
+My friend let me tell you
+
+
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+
+Beware, beware of the handshake
+That hides the snake
+I'm telling you beware
+Beware of the pat on the back
+It just might hold you back
+Jealousy (jealousy)
+Misery (misery)
+Envy
+I tell you, you can't see behind
+
+
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof
+
+
+Your enemy won't do you no harm
+'Cause you'll know where he's coming from
+Don't let the handshake and the smile fool ya
+Take my advice I'm only try' to school ya
+
+
+Smiling faces, smiling faces sometimes
+They don't tell the truth
+Smiling faces, smiling faces
+Tell lies and I got proof

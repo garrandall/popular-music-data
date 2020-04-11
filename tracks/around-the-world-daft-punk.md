@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: around-the-world-daft-punk
+lyrics_url: https://genius.com/Daft-punk-around-the-world-lyrics
 name: Around The World
 rankings:
 - end_date: '1997-09-05'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-10'
 ---
-
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world
+Around the world, around the world

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-belong-to-you--every-time-i-see-your-face--rome
+lyrics_url: https://genius.com/Rome-r-b-i-belong-to-you-every-time-i-see-your-face-lyrics
 name: I Belong To You (Every Time I See Your Face)
 rankings:
 - end_date: '1997-03-21'
@@ -111,4 +112,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
 ---
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy
 
+
+Say my lady
+Tell me what's wrong with your boyfriend
+Ah come on
+He holds the key to your heart
+But he don't love you baby, baby like I do
+Only wanna be with you
+Girl you are the love of my life, babe
+And I'd give it to you baby
+You belong to me and only me
+
+
+I belong to you (I belong)
+I'd give all my love to you
+
+
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy
+
+
+Say my lady
+You are so fine
+I wake up in the mornin' to see a smile on your face, baby
+You are the queen of my heart, baby
+I belong to you and you belong to me, yeah
+Girl you are the love of my life, baby
+All those cloudy days
+They fade away when you come my way, baby
+
+
+I belong to you (I belong)
+I'd give all my love to you
+(I belong, I belong, I belong to you, baby
+Oh, oh oh oh, oh)
+
+
+Every time I see your face
+It makes me want to sing (I belong)
+And every time I think about your love
+It drives me crazy (I belong, I belong, baby)
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy (Higher, babe
+Wanna get higher with your love
+'Cause I belong)
+
+
+I belong to you (Ooh)
+I'd give all my love to you
+
+
+Every time I see your face
+It makes me want to sing
+And every time I think about your love
+It drives me crazy

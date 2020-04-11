@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cross-the-river-america
+lyrics_url: https://genius.com/America-dont-cross-the-river-lyrics
 name: Don't Cross The River
 rankings:
 - end_date: '1973-02-02'
@@ -39,4 +40,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
 ---
+There's a little girl out lyin'
+On her own
+She's got a broken heart
+She's not the kind to take you
+Down for long
+She knows and plays it smart
 
+
+And if she's comin'
+She's shown no more
+She's heard no whistle blowin'
+From the door
+She feels like leavin'
+And she don't know why
+Without no bridges she's trapped
+So I sigh
+
+
+Don't cross the river
+If you can't swim the tide
+Don't try denyin' livin'
+On the other side
+
+
+All your life
+You were on your own
+
+
+If you want you can ride my train
+And soon forget the reason that you're leaving
+Lose yourself and then sometime
+Maybe even save yourself some grievin'
+
+
+Don't cross the river
+If you can't swim the tide
+Don't try denyin' livin'
+On the other side
+
+
+Don't cross the river
+If you can't swim the tide
+Don't try denyin' livin'
+On the other side
+
+
+Don't cross the river
+If you can't swim the tide
+Don't cross the river
+If you can't swim the tide
+Don't cross the river
+If you can't swim the tide

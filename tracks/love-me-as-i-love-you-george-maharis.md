@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-as-i-love-you-george-maharis
+lyrics_url: https://www.musixmatch.com/lyrics/George-Maharis/Love-Me-as-I-Love-You
 name: Love Me As I Love You
 rankings:
 - end_date: '1962-08-10'
@@ -31,4 +32,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
+(Love me, love me, ah ah ah, ah)
+(Love me, love me, ah ah ah, ah)
 
+Love me so tender
+In sweet surrender
+Love me as I love you
+With all that's enduring
+And reassuring
+Love me as I love you
+
+'Til there's no sunlight
+Yours I will be
+You'll be the one light
+That's shining for me
+
+I love you dearly
+Love you sincerely
+Love me as I love you
+With tender emotion
+Faith and devotion
+Let's keep our love so new
+
+Now and for always
+Darling, in all way
+Now and my whole life through
+Place no one above me
+Live just to love me
+Love me as I love you
+
+Love me as I love you
+
+(Love me, love me, ah ah ah, I love you)

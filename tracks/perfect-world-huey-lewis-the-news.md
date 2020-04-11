@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: perfect-world-huey-lewis-the-news

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-and-get-your-love-real-mccoy
+lyrics_url: https://genius.com/Real-mccoy-come-and-get-your-love-lyrics
 name: Come And Get Your Love
 rankings:
 - end_date: '1995-06-16'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
 ---
+Come and get your love
+Come and get your love
+Come and get your love, now
+Come and get your love
+Come and get your love
+Come and get your love
+Yeah (yeah) what's the matter with your hair?
+Oh, yeah, yeah, (yeah) what's the matter with your mind
+And your sign and a, oh, yeah
 
+Mmm, how I gonna get it, baby, gonna get my lovin'?
+Talk to me, tell me how I gonna get it
+I'm ready for you, baby, ready for your lovin'
+Don't make me wait 'cause I really need to get it
+Yeah, (yeah) whip it baby
+'Cause you're fine and your mine
+And you look so divine
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+Oh, yeah
+Come and get your love
+Yeah, (yeah) what's the matter with ya?
+Feel right, don't you feel right , baby?
+Yeah, (yeah) whoa, get it from the main vine, alright
+
+Mmm, how I gonna get it, baby, gonna get my lovin'?
+Talk to me, tell me how I gonna get it
+I'm ready for you, baby, ready for your lovin'
+Don't make me wait 'cause I really need to get it
+Yeah, (yeah) it's your business
+If you want some, take some, get it together, baby
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+Oh, yeah
+Come and get your love
+
+Come and get your love
+Come and get your love
+Come and get your love, now
+Come and get your love
+Come and get your love
+Come and get your love, now
+Mmm, what'cha waitin' for 'cause I'm ready for your lovin'
+Come and take it
+Come and get it if you want it
+What's the matter?
+What's the problem?
+Get together and we're easy gonna solve it
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+Whoa, yeah
+Come and get your love
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+Whoa, yeah
+Come and get your love
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+Whoa, yeah
+Come and get your love

@@ -1,6 +1,7 @@
 ---
 artists:
-- Duane Eddy And The Rebels
+- Duane Eddy
+- The Rebels
 features: []
 genres: []
 key: forty-miles-of-bad-road-duane-eddy-and-the-rebels

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-love-ways-peter-and-gordon
+lyrics_url: https://genius.com/Peter-and-gordon-true-love-ways-lyrics
 name: True Love Ways
 rankings:
 - end_date: '1965-04-23'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+Just you know why
+Why you and I
+Will by and by
+Know true love ways
 
+Sometimes we'll sigh
+Sometimes we'll cry
+And you'll know why
+Just you and I
+Know true love ways
+
+Throughout the day
+Our true love ways
+Will bring us joy to share
+With those who really care
+
+Sometimes we'll sigh
+Sometimes we'll cry
+And you'll know why
+Just you and I
+Know true love ways
+
+Throughout the day
+Our true love ways
+Will bring us joy to share
+With those who really care
+
+Sometimes we'll sigh
+Sometimes we'll cry
+And you'll know why
+Just you and I
+Know true love ways

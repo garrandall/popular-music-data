@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-guy-the-raindrops
+lyrics_url: https://www.musixmatch.com/lyrics/The-Raindrops/What-a-Guy
 name: What A Guy
 rankings:
 - end_date: '1963-05-03'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
 ---
+I see him everyday
+He pass my way
+What can I do?
+Oh oh what a guy oh oh what a guy
+What a guy he's sweet and gentle
+What a guy he's sentimental
+What a guy
 
+Oh oh here he comes again
+His smile is?
+Should I smile too
+Oh oh what a guy oh oh what a guy
+What a guy his hair is wavy
+What a guy he drives me crazy
+What a guy
+I want to tell him (that I love him)
+Yeah that I really really I love him oh yeah
+Tell him that I really care
+Give him all my love to share
+Want him so much I could die.
+Yeah, yeah, yeah what a guy
+Oh oh what a guy
+What a guy he's sweet and gentle
+What a guy he's sentimental
+What a guy

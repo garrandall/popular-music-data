@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: canned-ham-norman-greenbaum
+lyrics_url: https://genius.com/Norman-greenbaum-canned-ham-lyrics
 name: Canned Ham
 rankings:
 - end_date: '1970-06-19'
@@ -31,4 +32,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
 ---
+When you gonna buy me a canned ham
+I've been waiting so long
+When you gonna buy it
+When you gonna satisfy me
 
+When you gonna buy me a canned ham
+I've been waiting so long
+When you gonna buy it
+When you gonna satisfy me
+
+I like a canned ham baby (baby)
+Canned ham that's for me
+When I think about it
+Sends me into ecstasy
+
+Put it in a skillet
+Fry it nice and brown
+Put it in my pocket
+Gonna carry it around and around and around and around
+
+When you gonna buy me a canned ham
+I've been waiting so long
+When you gonna buy it
+When you gonna satisfy me
+
+When you gonna buy me a canned ham
+I've been waiting so long
+When you gonna buy it
+When you gonna satisfy me
+
+I like a canned ham baby (baby)
+Canned ham that's for me
+When I think about it
+Sends me into ecstasy
+
+Put it in a skillet
+Fry it nice and brown
+Put it in my pocket
+Gonna carry it around and around and around and around
+
+Been waiting, I've been waiting so long
+
+When you gonna buy me that canned ham Greenbaum?
+Someday

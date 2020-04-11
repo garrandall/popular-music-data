@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-love-you-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-we-love-you-lyrics
 name: We Love You
 rankings:
 - end_date: '1967-09-22'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
 ---
+We don't care if you only love "we"
+We don't care if you only love "we"
+We love you. We love you, and we hope
+That you will love "we" too
+We love "they". We love "they", and
+We want you to love "they" too
+Ah
 
+We don't care if you hound "we" and
+Love is all around "we"
+Love can't get our minds off
+We love you, we love you
+
+You will never win "we"
+Your uniforms don't fit "we"
+We forget the place we're in
+Cause we love you
+We love you. Of course, we do
+
+I love you. I love you
+And I hope that you won't prove wrong
+Too
+We love you. We do. We love you. We
+Do. Ah...

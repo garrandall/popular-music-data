@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful--wonderful--the-tymes
+lyrics_url: https://genius.com/The-tymes-wonderful-wonderful-lyrics
 name: Wonderful! Wonderful!
 rankings:
 - end_date: '1963-08-23'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
+Sometimes we walk hand in hand by the sea
+And we breathe in the cool salty air
+You turn to me with a kiss in your eyes
+And my heart feels a thrill beyond compare
+Then your lips cling to mine
+It's wonderful, wonderful
+Oh, so wonderful, my love
 
+Sometimes we stand on the top of a hill
+And we gaze at the earth and the sky
+I turn to you and you melt in my arms
+There we are, darling, only you and I
+What a moment to share
+It's wonderful, wonderful
+Oh, so wonderful, my love
+
+The world is full of wond'rous things it's true
+But they wouldn't have much meaning without you
+
+Some quiet ev'ning I sit by your side
+And we're lost in a world of our own
+I feel the glow of your unspoken love
+I'm aware of the treasure that I own
+And I say to myself
+"It's wonderful, wonderful"
+"Oh, so wonderful, my love"
+
+And I say to myself
+"It's wonderful, wonderful"
+"Oh, so wonderful, my love"

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny-maxine-brown
+lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/Funny
 name: Funny
 rankings:
 - end_date: '1961-04-02'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
 ---
+Funny, but when I pass your door
+I don't hurt like before
+Really, I think I'm over you
 
+It's funny, but when I
+Hear them speak your name
+This little heart no
+No, no, no, no longer pains
+Like it did the day
+You said we were through
+
+I loved you, oh, so long
+I wondered what went wrong
+You shattered my dreams
+Yes, you hurt my pride
+
+My love you threw away
+All I could do was pray
+But, darling, you
+You didn't care how I cried
+
+Funny, but when I
+Meet you on the street
+My little heart no
+No, no, no, no
+Longer skips a beat
+Like it did the day
+You said we were through
+
+It's funny, I think
+I've gotten over you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-talk-about-you-ray-charles
+lyrics_url: https://genius.com/Ray-charles-i-want-to-talk-about-you-lyrics
 name: I Want To Talk About You
 rankings:
 - end_date: '1967-03-24'
@@ -11,4 +12,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+Don't tell me
+About a night in June
+Or a shady lane
+Beneath the velvet moon
 
+Don't tell me
+Cause I wanna talk about you
+
+Don't mention that waterfall
+Or that grassy spot
+Where crickets softly call
+
+Please don't tell me
+Cause, baby
+I wanna talk about you
+
+The moon and the stars
+The objects on Mars
+Are things that
+We've talked of before
+
+But your love for me
+Was the question
+And your answer
+Threw back Heaven's door
+
+So tell me
+Your love will be sincere
+Then, my darling
+You need never fear
+
+Cause I love you
+And I wanna talk about you
+About you
+
+So don't tell me
+Because I wanna talk about you

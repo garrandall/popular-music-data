@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-really-got-a-hold-on-me-eddie-money
+lyrics_url: https://genius.com/Eddie-money-youve-really-got-a-hold-on-me-lyrics
 name: You've Really Got A Hold On Me
 rankings:
 - end_date: '1978-12-01'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
 ---
+I don't like you
+But I love you
+See that I'm always
+Thinking of you
+Oh, oh, oh
+You treat me badly
+I love you madly
+You've really got a hold on me
+You've really got a hold on me, baby
 
+I don't want you
+But I need you
+Don't want to kiss you
+But I need you
+Oh, oh, oh
+You do me wring now
+My love is strong now
+You've really got a hold on me
+You've really got a hold on me, baby
+
+I love you and all I want you to do
+Is just hold me, hold me, hold me, hold me
+
+I want to leave you
+Don't want to stay here
+Don't want to spend
+Another day here
+Oh, oh, oh, I want to split now
+I just can quit now
+You've really got a hold on me
+You've really got a hold on me, baby
+
+I love you and all I want you to do
+Is just hold me, hold me, hold me, hold me
+
+You've really got a hold on me
+You've really got a hold on me

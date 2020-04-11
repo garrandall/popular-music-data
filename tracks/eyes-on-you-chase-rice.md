@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eyes-on-you-chase-rice
+lyrics_url: https://genius.com/Chase-rice-eyes-on-you-lyrics
 name: Eyes On You
 rankings:
 - end_date: '2019-03-08'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
 ---
+We've been to both Carolinas
+Seen a big Montana sky
+Driven up and down a coast a few times
+London, Paris, paradise
+But ain't got much memory of the scenes
+Come to think, I miss them all
+And damn, babe, it's all your fault
 
+
+No matter where we go
+No matter what we do
+If you're there, girl, I've got my eyes on you
+Don't matter where we've been
+No, there ain't no better view
+Than you in my arms with my eyes on you
+With my eyes on you (With my eyes on you, with my)
+With my eyes on you (With my eyes on you, with my)
+
+
+Speaking of the coast, remember Pfeiffer beach?
+You and me, that sunset, cliffs by the sea
+And the night rolled in
+And you still talk about that moon that I can't recall
+But God, I saw all I needed to
+Might as well have stayed in the room
+
+
+No matter where we go
+No matter what we do
+If you're there, girl, I've got my eyes on you
+Don't matter where we've been
+No, there ain't no better view
+Than you in my arms with my eyes on you
+With my eyes on you, yeah (With my eyes on you, with my)
+Yeah, with my eyes on you (With my eyes on you, with my)
+
+
+Don't you remember Times Square?
+And people counting down everywhere
+2000-whatever, no, I didn't care
+'Cause baby you were there
+And once again, couldn't help but stare
+
+
+No matter where we go
+No matter what we do
+If you're there, girl, I've got my eyes on you
+Don't matter where we've been
+No, there ain't no better view
+Than you in my arms with my eyes on you
+Halfway around the world
+Or the local corner booth
+Yeah, you guessed it, girl
+You know I got my eyes on you
+We could be on any street
+Any party, any room
+I'll be there all night with my eyes on you
+
+
+Don't matter where we've been
+No, there ain't no better view
+Than you in my arms with my eyes on you

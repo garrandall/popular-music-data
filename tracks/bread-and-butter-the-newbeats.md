@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bread-and-butter-the-newbeats
+lyrics_url: https://genius.com/The-newbeats-bread-and-butter-lyrics
 name: Bread And Butter
 rankings:
 - end_date: '1964-08-21'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
+I like bread and butter
+I like toast and jam
+That's what my baby feeds me
+I'm her loving man
 
+He likes bread and butter
+He likes toast and jam
+That's what his baby feeds him
+He's her loving man
+
+She don't cook mashed potatoes
+She don't cook T-bone steaks
+Don't feed me peanut butter
+She knows that I can't take
+
+He likes bread and butter
+He likes toast and jam
+That's what his baby feeds him
+He's her loving man
+
+Got home early one morning
+Much to my surprise
+She was eating chicken and dumplings
+With some other guy
+
+No more bread and butter
+No more toast and jam
+I found my baby eating
+With some other man

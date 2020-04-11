@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-when-color-me-badd
+lyrics_url: https://genius.com/Color-me-badd-remember-when-lyrics
 name: Remember When
 rankings:
 - end_date: '1998-07-31'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
 ---
+Nothing could be harder to believe
+When you told me that you needed to be free, free
+I'm only gettin' by on memories
+Hopin' maybe time will help you see, see
 
+*Chorus*
+Remember when
+I could see forever in your eyes (Forever)
+Remember when
+Together we could leave the world behind (Oh)
+Ooh, I've got nothin' to lose, nothin' to hide
+Can't live without you, I'm dyin' inside
+Can't we get it back again
+Remember when
+
+I'm searchin' for the one abandoned dream (I need to reclaim)
+Heaven's in the love I cannot reach
+(Can't reach) can't reach (Can't reach)
+You know I'm longin' for the magic of your touch
+And I thank God, I'm never givin' up the chance to trust you'll come
+Back to me
+
+*Chorus*
+Remember when
+I could see forever in your eyes (Forever)
+Remember when
+Together we could leave the world behind (Oh)
+Ooh, I've got nothin' to lose, nothin' to hide
+Can't live without you, I'm dyin' inside
+Can't we get it back again
+Remember when, yeah
+
+I know I'll be holdin' on to thoughts of yesterday
+I keep holdin' on to the times we shared, baby
+You know I'll never let you go, let you go
+
+I could see forever (Hey) in your eyes
+(I could see forever)
+Remember when
+Together we could leave the world behind
+(Leave the world, leave the world behind)
+
+I've got nothin' to lose, nothin' to hide
+Can't live without you, I'm dyin' inside
+Can't we get it back again
+Remember when

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: slow-dance--hey-mr-dj--r--kelly-public-announcement
+lyrics_url: https://genius.com/R-kelly-and-public-announcement-slow-dance-hey-mr-dj-lyrics
 name: Slow Dance (Hey Mr DJ)
 rankings:
 - end_date: '1992-08-28'
@@ -84,4 +85,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
 ---
+Slow dance, slow
+Slow dance, slow dance
+Slow, slow
 
+
+Hey, Mr. DJ
+Why don’t you slow this party down
+The ladies in here are fly
+And there’s one who’s caught my eye
+
+
+I wanna pull her close to me
+And whisper sweet things in her ear, oh, yeah
+'Cause tonight I’m full of fire, baby
+And you’re the only one my heart desires
+
+
+You’re the only one I wanna slow dance with
+(Girl, you’re the only one, hey Mr. DJ, why don’t you slow this party down)
+You’re the only one I wanna slow dance with
+(Ooh, let the record spin, now baby, take my hand, oh)
+
+
+Let the music play
+'Cause I wanna get it on
+Put your arms around me, baby
+And let’s start a slow grind, grind
+
+
+I’m gonna rock and roll and rock it all night long, baby, baby
+What you’re giving me is a feeling so strong, so strong
+Feel my nature rise, girl
+I’m gonna make you feel good tonight, you’re the only one
+
+
+You’re the only one I wanna slow dance with
+(I wanna slow dance with you, baby, DJ, let the record spin around real nice and slow, yeah)
+You’re the only one I wanna slow dance with
+(Baby, let’s slow dance, right now, all you gotta do is take my hand and let me, woo)
+
+
+Let me lead you to the middle of the floor, oh baby
+I’ll put my arms around you and I won’t let go
+Slow, oh, oh
+
+
+You’re the only one I wanna slow dance with
+(With you and only you, hey girl, come and take my hand)
+You’re the only one I wanna slow dance with
+(Run and tell the DJ to put a nickel on the needle so the record won’t budge)
+
+
+See, it’s one o’clock in the morning
+And the party’s just beginnin’, yeah
+And I wanna slow dance with you, baby, before the night is through
+See, I’ve been watchin’ you
+And I know you’ve been watching me, too

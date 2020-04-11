@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rocking-goose-johnny-and-the-hurricanes
+lyrics_url: https://genius.com/Johnny-and-the-hurricanes-rocking-goose-lyrics
 name: Rocking Goose
 rankings:
 - end_date: '1960-09-11'
@@ -31,4 +32,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
 ---
-
+♫ Instrumental ♫

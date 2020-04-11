@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: release-me-angelina
+lyrics_url: https://genius.com/Angelina-release-me-lyrics
 name: Release Me
 rankings:
 - end_date: '1996-03-29'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
 ---
+I feel your touch
+I can hear you voice
+Can't you release me?
+Your love has got a hold on me
+You came into my life
+I thought you were the one for me
+Can't fight this feeling anymore
 
+
+Release me
+You got a hold on me
+Can you release me?
+You got a hold on me
+
+
+Now I'm looking back
+Realizing it could never be
+But somehow you still got a hold on me
+How could this be?
+I'm fantasizing constantly
+The way you touched me
+The way you kissed me
+The way you moved me
+
+
+Release me
+You got a hold on me
+Can you release me?
+You got a hold on me
+
+
+
+
+Aqui estoy
+Para decirte que por favor
+Dejame en paz, no quiero amor
+Sueltame
+Siempre pienso en ti, como es
+Que mis recuerdos siempre son de ti
+Del amor que te di
+
+
+Release me
+You got a hold on me
+Can you release me?
+You got a hold on me
+
+Release me
+You got a hold on me
+Can you release me?
+You got a hold on me

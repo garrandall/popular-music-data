@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-always-forever-donna-lewis
+lyrics_url: https://genius.com/Donna-lewis-i-love-you-always-forever-lyrics
 name: I Love You Always Forever
 rankings:
 - end_date: '1996-06-28'
@@ -171,4 +172,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
 ---
+Feels like I'm standing in a timeless dream
+Of light mists with pale amber rose
+Feels like I'm lost in a deep cloud of heavenly scent
+Touching, discovering you
 
+
+Those days of warm rains come rushing back to me
+Miles of windless summer night air (summer night air)
+Secret moments shared in the heat of the afternoon
+Out of the stillness, soft spoken words
+Say, say it again
+
+
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you (say, say it again)
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you
+
+
+You've got the most unbelievable blue eyes I've ever seen
+You've got me almost melting away
+As we lay there under a blue sky with pure white stars
+Exotic sweetness, a magical time
+Say, say it again
+
+
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you (Say, say it again)
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you
+
+
+Say you'll love, love me forever
+Never stop, never whatever
+Near and far and always and everywhere and every-
+Say you'll love, love me forever
+Never stop, never whatever
+Near and far and always and everywhere and every-
+Say you'll love, love me forever
+Never stop, never whatever
+Near and far and always and everywhere and every-
+Say you'll love, love me forever
+Never stop, never whatever
+Near and far and always and everywhere and everything
+
+
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you
+Everything I will do for you
+I love you always forever
+Near and far, close and together
+Everywhere I will be with you

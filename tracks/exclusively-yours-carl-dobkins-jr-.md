@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: exclusively-yours-carl-dobkins-jr-
+lyrics_url: https://www.musixmatch.com/lyrics/Carl-Dobkins-Jr-2/Exclusively-Yours-1
 name: Exclusively Yours
 rankings:
 - end_date: '1960-05-22'
@@ -40,4 +41,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
 ---
+No more playing the field for me
+Since I met you, my heart's not free
+I just wanna be exclusively yours
 
+Once you kissed me, I found out
+There's no other I care about
+I just wanna be exclusively yours
+
+I'll take you to the dance
+I'll take you to the show
+I'll take you every single place
+You ever wanna go
+
+I don't care where it is
+I don't care what we do
+As long as I can just
+Be there with you
+
+If it's my love you're longing for
+You can have it forever more
+I just wanna be exclusively yours
+
+I'll take you to the dance
+I'll take you to the show
+I'll take you every single place
+You ever wanna go
+
+I don't care where it is
+I don't care what we do
+As long as I can just
+Be there with you
+
+If it's my love you're longing for
+You can have it forever more
+I just wanna be exclusively yours
+
+I just wanna be exclusively yours

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mrs-bluebird-eternity-s-children
+lyrics_url: https://genius.com/Eternitys-children-mrs-bluebird-lyrics
 name: Mrs Bluebird
 rankings:
 - end_date: '1968-07-19'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+Mrs. Bluebird, on my shoulder
+How's  your life since you've gotten older?
+How's  Mr. Bluebird? Is he well?
+Keepin' warm through the cold spell
 
+
+
+
+Mr. Bluebird, I have told her
+That  you owe 
+You've  had Julys oh so well
+
+
+
+
+
+
+
+
+
+Mrs. Bluebird, on my shoulder
+How's  your life since you've gotten older?
+How's Mr. Bluebird? Is he well?
+Keepin' warm through the cold spell

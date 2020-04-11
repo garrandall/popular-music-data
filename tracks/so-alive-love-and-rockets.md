@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-alive-love-and-rockets
+lyrics_url: https://genius.com/Love-and-rockets-so-alive-lyrics
 name: So Alive
 rankings:
 - end_date: '1989-05-26'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
 ---
+I don't know what color your eyes are, baby
+But your hair is long and brown
+Your legs are strong, and you're so, so long
+And you don't come from this town
 
+My head is full of magic, baby
+And I can't share this with you
+Feel I'm on a cross again, lately
+But there's nothing to do with you
+
+I'm alive, so alive
+I'm alive, so alive
+
+Your strut makes me crazy
+Makes me see you more clearly
+Oh, baby, now I can see you
+Wish I could stop
+Switch off the clock
+Make it all happen for you
+
+I'm alive, so alive
+I'm alive, so alive
+
+I don't know what color your eyes are, baby
+But your hair is long and brown
+Your legs are strong, and you're so, so long
+And you don't come from this town
+
+My head is full of magic, baby
+And I can't share this with you
+I feel I'm on top again, baby
+That's got everything to do with you
+
+I'm alive, so alive
+I'm alive, so alive

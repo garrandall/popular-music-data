@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-you-ve-been-gone-clyde-mcphatter
+lyrics_url: https://genius.com/Clyde-mcphatter-since-youve-been-gone-lyrics
 name: Since You've Been Gone
 rankings:
 - end_date: '1959-06-21'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
 ---
+Early in the mornin, before the crack on dawn
+I'm sitting here thinking, oh why was I born?
+I'm so broken hearted, I just can't go on
+Since you've been gone (since you've been gone)
+Since you've been gone (since you've been gone)
 
+Now I was so happy, with you by my side
+You told me you loved me, but a honey you lied
+You left me here crying, how can I go on?
+Since you've been gone (since you've been gone)
+Since you've been gone (since you've been gone)
+
+The night seems like a million years
+Waitin' till the break of day appears
+All night long weeping like a willow
+Tossing and turning on my tear-stained pillow
+Guess I'm gonna drown in my own tears
+I'm gonnna go walking by the railroad track
+I'm just gonna let the ChooChoo, cross over my back
+Life ain't worth living, can't go on
+Since you've been gone (since you've been gone)
+Since you've been gone (since you've been gone)
+
+All night long weeping like a willow
+Tossing and turning on my tear-stained pillow
+Guess I'm gonna drown in my own tears
+I'm gonna go walking by the railroad track
+Gonna let the, Choo, Choo, Choo, run over my back
+Life ain't worth living, how can I go on?
+Since you've been gone (since you've been gone)
+Since you've been go-one (since you've been gone)
+Since you've been gone (since you've been gone)
+Since you've been gone (since you've been gone)
+(SINCE YOUVE BEEN GONE)

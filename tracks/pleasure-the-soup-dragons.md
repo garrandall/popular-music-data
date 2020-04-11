@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pleasure-the-soup-dragons
+lyrics_url: https://genius.com/The-soup-dragons-pleasure-lyrics
 name: Pleasure
 rankings:
 - end_date: '1992-12-18'
@@ -39,4 +40,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
 ---
-
+Take it to the limit
+Live it to the full
+Everybody's got to get some
+Everybody wants you
+So keep on driving higher
+And never slow down
+A silver sensation
+That sends you around
+Everybody needs somebody else
+Everybody wants somebody else
+'Cause we all need to get
+A little bit of some pleasure

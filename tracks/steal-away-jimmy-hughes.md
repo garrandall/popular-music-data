@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steal-away-jimmy-hughes
+lyrics_url: https://genius.com/Jimmy-hughes-steal-away-lyrics
 name: Steal Away
 rankings:
 - end_date: '1964-06-26'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+I've got to see you, somehow
+Not tomorrow, right now
+I know it's late, whoa I can't wait
+So come on and steal away
+Please, steal away
 
+Now, don't start thinking, tryin' to make up your mind
+Your folks are sleeping, let's not waste any time
+I know it's late, whoa I can't wait
+So come on and steal away
+Please, steal away
+
+I know it's wrong asking this of you
+There's no other way I can be with you
+If only your folks would approve
+Seeing like this we wouldn't have to do
+No, no
+
+I won't tell anybody else
+I'll keep it to myself
+I know it's late, whoa I can't wait
+So come on and steal away
+Please, steal away
+
+'Cause I need you, yes I do
+Oh, by my side
+Yes. Oh, honey I need you
+I need you, I need you to be my guide

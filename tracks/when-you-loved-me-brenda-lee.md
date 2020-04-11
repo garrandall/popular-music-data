@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-loved-me-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-when-you-loved-me-lyrics
 name: When You Loved Me
 rankings:
 - end_date: '1964-08-14'
@@ -35,4 +36,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
 ---
-
+When you loved me
+You took the stars
+Down from the skies
+Then you put them
+In my eyes, when you loved me
+When you loved me
+I knew I never can explain
+Darling I heard
+The angels sing, when you loved me
+But now all the stars
+Are back in the skies
+I sent you away
+And I made the angels cry
+When you loved me
+I was a fool too blind to see
+You made the world
+Turn just for me
+When you loved me, when you loved me

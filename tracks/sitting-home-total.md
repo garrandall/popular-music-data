@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sitting-home-total
+lyrics_url: https://genius.com/Total-sitting-home-lyrics
 name: Sitting Home
 rankings:
 - end_date: '1999-04-16'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
 ---
+Sittin home waitin for you
+'Cause staring at these walls is all I do
+I try my best to be good to you
+But your never around when Im in the mood
 
+
+Im gettin tired being tired your ways
+You haven't come home or even call me today
+You dont know the pain when Im being alone
+Im callin out your name when your not even home
+
+
+Cause I need you with me babe
+Can't see you leaving me babe
+Cause I dont know no other road I would go
+And I hope your feelings change come bring your lovin back to me
+So I can give you what you need and much more
+Oh, until then...
+
+
+
+
+All my friends think that I am a fool
+And since you have been gone Ive been thinkin so too
+Just tell me what is it and what you feel I do wrong
+We should stay together cause our love is so strong
+
+
+
+
+By myself all day long
+These feeling that I feel for you feel so strong
+By myself all day long
+These feeling that I feel for you since you been gone
+
+Chorus

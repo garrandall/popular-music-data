@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-hold-back--your-loving--kano
+lyrics_url: https://genius.com/Kano-ii-cant-hold-back-your-loving-lyrics
 name: Can't Hold Back (Your Loving)
 rankings:
 - end_date: '1982-01-01'
@@ -27,4 +28,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
 ---
+Come to me she calls me ( i really need your lovin’)
+Come to me I need you (right now)
+Come to me oh baby ( i wanna feel your lovin’)
+Come to me I want you ( right now)
 
+She’s got what it takes / she can pin you to the floor
+She knows just what she’ll do to you
+She’s dynamite dynamite
+
+You can’t hold back don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(you know you can’t resist her)
+
+You can’t hold back don’t fall for her she’s coming
+You just can’t hold back your lovin’
+( that girl is out to get ya)
+(break)
+
+Come to me she calls me (i really need your lovin’)
+Come to me I need you (right now)
+Come to me oh baby (i wanna feel your lovin’)
+Come to me I want you (right now)
+
+She’s got what it takes she can pin you to the floor
+She knows just what she will do to you
+She’s dynamite, dynamite
+
+You can’t hold back, don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(you know you can’t resist her)
+
+You can’t hold back, don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(that girl is gonna get ya)
+(break)
+
+Come to me she calls me (i really need your lovin’)
+Come to me I need you (right now)
+Come to me oh baby (i wanna be your lovin’)
+Come to me I want you ( right now)
+
+You can’t hold back, don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(you know you can’t resist her)
+
+You can’t hold back don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(that girl is out to get ya)
+(break)
+
+Come to me she calls me (i really need your lovin’)
+Come to me I need you (right now)
+Come to me oh baby (i wanna feel your lovin’)
+Come to me I want you (right now)
+
+She’s got what it takes she can pin you to the floor
+She knows just what she will do to you
+She’s dynamite, dynamite
+
+You can’t hold back don’t fall for her she’s coming
+You just can’t hold back your lovin’)
+(you know you can’t resist her)
+You can’t hold back, don’t fall for her she’s coming
+You just can’t hold back your lovin’
+(that girl is out to get ya)
+(break)
+
+Come to me she calls me (verse)
+
+She’s got what it takes (bridge)
+
+You can’t hold back don’t fall for her she’s coming
+(break)
+
+Come to me oh baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: igy--what-a-beautiful-world--donald-fagen
+lyrics_url: https://genius.com/Donald-fagen-igy-lyrics
 name: Igy (what A Beautiful World)
 rankings:
 - end_date: '1982-10-15'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+Standing tough under stars and stripes
+We can tell
+This dream's in sight
+You've got to admit it
+At this point in time that it's clear
+The future looks bright
+On that train all graphite and glitter
+Undersea by rail
+Ninety minutes from New York to Paris
+Well by seventy-six we'll be A-OK
 
+What a beautiful world this will be
+What a glorious time to be free
+
+Get your ticket to that wheel in space
+While there's time
+The fix is in
+You'll be a witness to that game of chance in the sky
+You know we've got to win
+Here at home we'll play in the city
+Powered by the sun
+Perfect weather for a streamlined world
+There'll be spandex jackets one for everyone
+
+What a beautiful world this will be
+What a glorious time to be free
+
+On that train all graphite and glitter
+Undersea by rail
+Ninety minutes from new york to paris
+(more leisure for artists everywhere)
+A just machine to make big decisions
+Programmed by fellows with compassion and vision
+We'll be clean when their work is done
+We'll be eternally free yes and eternally young
+
+What a beautiful world this will be
+What a glorious time to be free

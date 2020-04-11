@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: how-does-it-feel-to-be-back-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/howdoesitfeeltobeback.html
 name: How Does It Feel To Be Back
 rankings:
 - end_date: '1980-07-25'
@@ -59,4 +60,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
 ---
+Please return, come back, I've been saving your place
+Too much time has elapsed-unreality-memory erases
+The rules and the rights and the wrongs don't apply
+Far apart - So together is destiny weeded to fate
+I write the script, you direct my dreams
+We're along on the beach for the passionate scene
+And it's a drag to wake up with you ... saying to me
+How does it feel to be back in my arms again
 
+I'm bored and alone and it's weakening me
+One night out and I'm looking for trouble and finding it's easy
+You know we all make mistakes and we all need the touch of a hand
+In the right kind of place, in a time of need
+I could pick up the phone, but the talk ain't cheap
+I pick up on the thoughts that you're sending to me
+And i wait for the day I hear you saying to me
+How does it feel to be back in my arms again

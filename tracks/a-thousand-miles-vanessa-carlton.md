@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-thousand-miles-vanessa-carlton
+lyrics_url: https://genius.com/Vanessa-carlton-a-thousand-miles-lyrics
 name: A Thousand Miles
 rankings:
 - end_date: '2002-03-08'
@@ -171,4 +172,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
 ---
+Makin' my way downtown
+Walkin' fast, faces pass
+And I'm homebound
+Starin' blankly ahead
+Just makin' my way
+Makin' a way through the crowd
 
+
+And I need you
+And I miss you
+And now I wonder
+
+
+If I could fall into the sky
+Do you think time would pass me by?
+'Cause you know I'd walk a thousand miles
+If I could just see you
+Tonight
+
+
+It's always times like these when I think of you
+And I wonder if you ever think of me
+'Cause everything's so wrong, and I don't belong
+Livin' in your precious memory
+
+
+'Cause I'll need you
+And I'll miss you
+And now I wonder
+
+
+If I could fall into the sky
+Do you think time would pass me by?
+Oh, 'cause you know I'd walk a thousand miles
+If I could just see you
+Tonight
+
+
+I, I don't wanna let you know
+I, I drown in your memory
+I, I don't wanna let this go
+I, I don't
+
+
+Makin' my way downtown
+Walkin' fast, faces pass
+And I'm homebound
+Starin' blankly ahead
+Just makin' my way
+Makin' a way through the crowd
+
+
+And I still need you
+I still miss you
+And now I wonder
+
+
+If I could fall into the sky
+Do you think time would pass us by?
+'Cause you know I'd walk a thousand miles
+If I could just see you
+If I could fall into the sky
+Do you think time would pass me by?
+'Cause you know I'd walk a thousand miles
+If I could just see you
+If I could just hold you
+Tonight

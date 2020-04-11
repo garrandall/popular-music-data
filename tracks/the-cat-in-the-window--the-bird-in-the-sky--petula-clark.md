@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-cat-in-the-window--the-bird-in-the-sky--petula-clark
+lyrics_url: https://www.musixmatch.com/lyrics/Petula-Clark/The-Cat-in-the-Window-The-Bird-in-the-Sky
 name: The Cat In The Window (The Bird In The Sky)
 rankings:
 - end_date: '1967-09-08'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
 ---
+CAT IN THE WINDOW
+Petula Clark
 
+Fly away, fly away
+There's a cat in the window
+And he's watching all the birds go passing by
+He'd love to fly out the window
+Go where the wind goes
+And so would I
+Like that cat in the window
+Who keeps wishing for some wings to take a ride
+I'd love to glide to a rainbow
+Off where the clouds go dancing by
+And if I could fly
+You wouldn't find me hangin' around
+Watching the birds go by
+
+Yes the cat in the window
+Has a tear in his eye
+I should leave today, fly away
+Why should I stay like the cat in the window
+Who keeps watching the birds
+Go by from the window
+If I could fly though
+You won't find me
+Don't even try to

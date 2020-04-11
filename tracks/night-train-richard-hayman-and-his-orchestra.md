@@ -1,6 +1,6 @@
 ---
 artists:
-- Richard Hayman And His Orchestra
+- Richard Hayman
 features: []
 genres: []
 key: night-train-richard-hayman-and-his-orchestra

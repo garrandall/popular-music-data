@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-soul-johnny-nash
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Nash/You-Got-Soul
 name: You Got Soul
 rankings:
 - end_date: '1968-12-20'
@@ -35,4 +36,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
 ---
+(You got soul)
+(You got soul)
+(You got soul)
 
+Hey, I can tell by the way you walk
+You got soul, soul
+I can tell by the way you talk
+You got soul, soul
+You somethin' deep inside
+Nothin' in the world can hide
+
+Yeah, you got soul
+(You got soul)
+Baby baby baby, you got soul
+(You got soul)
+
+Oh yeah
+I can tell by the way you move
+You got soul, yeah
+Oh I can tell by the way you groove
+You got soul
+
+You got somethin' good as gold
+Somethin' that'll never grow old
+Yeah, you got soul
+(You got soul)
+Yeah, you got soul
+(You got soul)
+
+Ohhh, soul is hard to find
+So why don't you come on now
+And let it shine
+Just let yourself be free
+So the whole wide world can see
+(Soul, soul, soul)
+
+Yeah, I can tell by the way you dance
+You got soul
+I can tell by the way you romance
+You got soul
+You somethin' deep inside
+Nothin' in the world can hide
+
+Yeah, you got soul
+(You got soul)
+Yeah, you got soul
+(You got soul)
+Ohhh ohh, you got soul
+(You got soul)
+Yeah yeah, I can tell by the way you walk
+(You got soul)
+Can tell by the way you talk
+(You got soul)
+Tell by the way you move
+(You got soul)

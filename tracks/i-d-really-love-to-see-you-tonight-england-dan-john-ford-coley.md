@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-d-really-love-to-see-you-tonight-england-dan-john-ford-coley
+lyrics_url: https://genius.com/England-dan-and-john-ford-coley-id-really-love-to-see-you-tonight-lyrics
 name: I'd Really Love To See You Tonight
 rankings:
 - end_date: '1976-06-18'
@@ -104,4 +105,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
 ---
+Hello, yeah, it's been a while
+Not much, how about you?
+I'm not sure why I called
+I guess I really just wanted to talk to you
 
+
+And I was thinking maybe later on
+We could get together for a while
+It's been such a long time
+And I really do miss your smile
+
+
+I'm not talking about moving in
+And I don't want to change your life
+But there's a warm wind blowin' the stars around
+And I'd really love to see you tonight
+
+
+We could go walking through a windy park
+Or take a drive along the beach
+Or stay at home and watch TV
+You see, it really doesn't matter much to me
+
+
+I'm not talking about moving in
+And I don't want to change your life
+But there's a warm wind blowin' the stars around
+And I'd really love to see you tonight
+
+
+I won't ask for promises
+So you don't have to lie
+We've both played that game before:
+Say I love you then say goodbye
+
+
+I'm not talking about moving in
+And I don't want to change your life
+But there's a warm wind blowin' the stars around
+And I'd really love to see you tonight
+
+
+I'm not talking about moving in
+And I don't want to change your life
+But there's a warm wind blowin' the stars around
+And I'd really love to see you tonight
+
+
+I'm not talking about moving in
+And I don't want to change your life
+But there's a warm wind blowin' the stars around

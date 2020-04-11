@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-off-of-my-cloud-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-get-off-of-my-cloud-lyrics
 name: Get Off Of My Cloud
 rankings:
 - end_date: '1965-10-15'
@@ -55,4 +56,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
 ---
+I live on an apartment
+On the ninety-ninth floor of my block
+And I sit at home looking out the window
+Imagining the world has stopped
+Then in flies a guy
+Who's all dressed up just like the Union Jack
+And says, I've won five pounds
+If I have his kind of detergent pack
 
+
+I said, "Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Don't hang around cause two's a crowd
+On my cloud baby"
+
+
+The telephone is ringing
+I say, "Hi, it's me, who is it there on the line?"
+A voice says, "Hi, hello, how are you?"
+Well, I guess I'm doing fine
+It's three a.m., there's too much noise
+Don't you people ever want to go to bed
+Because you feel so good
+Do you have to drive me out of my head
+
+
+I said, "Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Don't hang around cause two's a crowd
+On my cloud baby"
+
+
+I was sick and tired, fed up with this
+And decided to take a drive downtown
+It was so very quiet and peaceful
+There was nobody, not a soul around
+I laid myself out
+I was so tired and I started to dream
+In the morning the parking tickets were just like a flag
+Stuck on my windscreen
+
+
+I said, "Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Don't hang around cause two's a crowd
+On my cloud baby"
+
+
+Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Hey, you, get off of my cloud
+Don't hang around, baby two's a crowd
+On my cloud

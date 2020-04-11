@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: midnight-cowboy-ferrante-teicher
+lyrics_url: https://www.musixmatch.com/lyrics/Ferrante-feat-Teicher/Midnight-Cowboy
 name: Midnight Cowboy
 rankings:
 - end_date: '1969-11-07'
@@ -68,4 +69,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
 ---
-
+Instrumental

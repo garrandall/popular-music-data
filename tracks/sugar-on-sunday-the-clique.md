@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-on-sunday-the-clique
+lyrics_url: https://genius.com/The-clique-sugar-on-sunday-lyrics
 name: Sugar On Sunday
 rankings:
 - end_date: '1969-09-05'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
+Oh the night
+Is slipping away
+Femme jolie, femme jolie*
+And there's still so much left to say
+Femme jolie, femme jolie
+Oh we haven't got time
+'Cause I'll be gone in the sunshine
+Oh my love
+You've been good to me
+Femme jolie, femme jolie
+I could love you so easily
+Femme jolie, femme jolie
+Oh what can I do now?
+Since I left you now
+I've only
+Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on Sunday
+I'm leavin' on Monday
+I need to know
+Tonight
 
+And the night is never to wait
+Femme jolie, femme jolie
+Love me now before it's too late
+Femme jolie, femme jolie
+Oh we haven't got time
+I'll be gone in the sunshine
+I've only
+Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on Sunday
+I'm leavin' on Monday
+I need to know
+Oh, Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on Sunday
+I'm leavin' on Monday
+Only got one day to love me, yeah
+Sugar on...

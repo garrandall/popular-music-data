@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: evil-ways-carlos-santana-buddy-miles
+lyrics_url: https://genius.com/Carlos-santana-and-buddy-miles-evil-ways-lyrics
 name: Evil Ways
 rankings:
 - end_date: '1972-09-15'
@@ -28,4 +29,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
 ---
+You've got to change your evil ways, baby
+Before I stop lovin' you
+You've got to change, baby
+And every word that I say is true
+You've got me runnin' and hidin'
+All over town
+You've got me sneakin' and a peepin'
+And runnin' you down
+This can't go on
+Lord knows you've got to change
+Baby, baby
 
+When I come home, baby
+My house is dark and my thoughts are cold
+You hang around, baby
+With Jean and Joan and a who knows who
+I'm getting tired of waiting and fooling around
+I'll find somebody that won't
+Make me feel like a clown
+This can't go on
+Lord knows you've got to change
+
+When I come home, baby
+My house is dark and my thoughts are cold
+You hang around, baby
+With Jean and Joan and a who knows who
+I'm getting tired of waiting and fooling around
+I'll find somebody that won't
+Make me feel like a clown
+This can't go on
+
+Yeah, yeah, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-loves-somebody-dean-martin
+lyrics_url: https://genius.com/Dean-martin-everybody-loves-somebody-lyrics
 name: Everybody Loves Somebody
 rankings:
 - end_date: '1964-07-03'
@@ -67,4 +68,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
+Everybody loves somebody sometime
+Everybody falls in love somehow
+Something in your kiss just told me
+My sometime is now
 
+Everybody finds somebody someplace
+Theres no tellin' where love may appear
+Something in my heart keeps sayin'
+My someplace is here
+
+If I had it in my power
+I'd arrange for every girl to have your charm
+Then every minute every hour
+Every boy would find what I found in your arms
+
+Everybody loves somebody sometime
+And although my dream was overdue
+Your love made it well worth waiting
+For someone like you
+
+(If I had it in my power)
+I'd arrange for every girl to have your charm
+(Then every minute every hour)
+Every boy would find what I found in your arms
+
+Everybody loves somebody sometime
+And although my dream was overdue
+Your love made it well worth waiting
+For someone like you
+(Everybody loves somebody sometime)

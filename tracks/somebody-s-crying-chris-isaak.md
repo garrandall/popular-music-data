@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-crying-chris-isaak
+lyrics_url: https://genius.com/Chris-isaak-somebodys-crying-lyrics
 name: Somebody's Crying
 rankings:
 - end_date: '1995-06-16'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
 ---
+I know somebody and they cry for you
+They lie awake at night and dream of you
+I bet you never even know they do, but
+Somebody's crying
 
+I know somebody and they called your name
+A million times and still you never came
+They go on loving you just the same
+I know that somebody's trying
+
+So please return the love you took from me
+Or please let me know if it can't be me
+I know when somebody's lying
+I know when somebody's lying
+
+I know that somebody's lying
+I know that somebody's lying
+
+Give me a sign and let me know if we're through
+If you don't love me like I love you
+But if you cry at night the way I do
+I'll know that somebody's lying
+
+So please return the love you took from me
+Or please let me know if it can't be me
+I know when somebody's lying
+I know when somebody's lying

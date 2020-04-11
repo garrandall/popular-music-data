@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-lucky-tom-petty-and-the-heartbreakers
+lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/yougotlucky.html
 name: You Got Lucky
 rankings:
 - end_date: '1982-11-19'
@@ -79,4 +80,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
 ---
+You better watch what you say
+You better watch what you do to me
+Don't get carried away
+Girl, if you can do better than me, go
+Yeah go, but remember
 
+Good love is hard to find
+Good love is hard to find
+You got lucky babe
+You got lucky babe
+When I found you
+
+You put a hand on my cheek
+And then you turn your eyes away
+If you don't feel complete
+If I don't take you all of the way, then go
+Yeah go, but remember
+
+Good love is hard to find
+Good love is hard to find
+You got lucky babe
+You got lucky babe
+When I found you
+
+Yeah go, just go, but remember
+
+Good love is hard to find
+Good love is hard to find
+You got lucky babe
+You got lucky babe
+I found you

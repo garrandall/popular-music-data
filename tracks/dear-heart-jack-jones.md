@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dear-heart-jack-jones
+lyrics_url: https://genius.com/Jack-jones-dear-heart-lyrics
 name: Dear Heart
 rankings:
 - end_date: '1964-12-04'
@@ -51,4 +52,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
+Dear heart wish you were here to warm this night
+My dear heart, seems like a year since you've been out of my sight
+A single room, a table for one
+It's a lonesome town all right
+But soon I'll kiss you hello at our front door
+And dear heart I want you to know
+I'll leave your arms never more
 
+(A single room, a table for one)
+It's a lonesome town all right
+But soon I'll kiss you hello at our front door
+And dear heart I want you to know
+I'll leave your arms never more

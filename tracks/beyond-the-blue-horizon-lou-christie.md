@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beyond-the-blue-horizon-lou-christie
+lyrics_url: https://genius.com/Lou-christie-beyond-the-blue-horizon-lyrics
 name: Beyond The Blue Horizon
 rankings:
 - end_date: '1974-02-22'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
 ---
+Beyond the blue horizon
+Waits a beautiful day
+Goodbye to things that bore me
+Joy is waiting for me
 
+I see a new horizon
+My life has only begun
+Beyond the blue da-dum, dee-dum
+
+Beyond the blue horizon
+Waits a beautiful day
+Goodbye to things that bore me
+Joy is waiting for me
+
+I see a new horizon
+My life has only begun
+Beyond the blue horizon
+Lies a rising sun
+
+Beyond the blue horizon
+Waits the beautiful day
+Goodbye to things that bore me
+Joy is waiting for me
+
+I see a new horizon
+My life has only begun
+Beyond the blue horizon
+Lies a rising sun
+
+Beyond the blue horizon
+Lies a rising sun
+
+Beyond the blue horizon
+Waits a beautiful day
+Da-da, bum, da, bum
+Joy is waiting for me
+
+I see a new horizon

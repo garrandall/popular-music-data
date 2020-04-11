@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-get-married-jagged-edge
+lyrics_url: https://genius.com/Jagged-edge-lets-get-married-lyrics
 name: Let's Get Married
 rankings:
 - end_date: '2000-05-12'
@@ -103,4 +104,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
 ---
+See, first of all
+I know these so-called players wouldn't tell you this
+But I'ma be real and say what's on my heart
+Let's take this chance and make this love feel relevant
+Didn't you know I loved you from the start, yeah
+When you think about, all the years we put in this relationship
+Who knew we'd make it this far?
+Then I think about, where would I be if we were to just fall apart
+And I can't stand the thought of losing you
 
+
+Meet me at the altar in your white dress
+We ain't getting no younger, we might as well do it
+Been feeling you all the while, girl, I must confess
+Girl let's just get married I just want to get married
+Meet me at the altar in your white dress
+We ain't getting no younger (so) we might as well do it
+Been feeling you all the while girl and I must confess
+Let's get married
+
+
+Said I done it all, but frankly girl I'm tired of this emptiness
+I wanna come home to you and only you
+'Cause making love to just anyone ain't happenin'
+I just gotta be with you
+Do you think about, us finishing something we started so long ago
+I wanna give you my all
+Do you think about, maybe us having some babies?
+Come on, won't you be my lady
+Forever, girl
+
+
+I'm ready to, commit to you
+And I just can't wait for that night
+'Cause I need you here with me
+And let's start a family
+
+
+Meet me at the altar in your white dress
+We ain't getting no younger, we might as well do it
+Been feeling you all the while, girl, I must confess
+Girl let's just get married I just want to get married
+Meet me at the altar in your white dress
+We ain't getting no younger  we might as well do it
+Been feeling you all the while girl and I must confess
+Let's get married
+Meet me at the altar in your white dress
+We ain't getting no younger, we might as well do it
+Been feeling you all the while, girl, I must confess
+Girl let's just get married I just want to get married
+Meet me at the altar in your white dress
+We ain't getting no younger  we might as well do it
+Been feeling you all the while girl and I must confess
+Let's get married
+Meet me at the altar in your white dress
+We ain't getting no younger, we might as well do it
+Been feeling you all the while, girl, I must confess
+Girl let's just get married I just want to get married
+Meet me at the altar in your white dress
+We ain't getting no younger  we might as well do it
+Been feeling you all the while girl and I must confess
+Let's get married

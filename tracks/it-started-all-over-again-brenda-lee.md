@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-started-all-over-again-brenda-lee
+lyrics_url: https://www.musixmatch.com/lyrics/Brenda-Lee/It-Started-All-Over-Again
 name: It Started All Over Again
 rankings:
 - end_date: '1962-07-06'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
 ---
+It started all over again
+The moment I looked in your eyes
+It started all over again
+The thrill we can never disguise
 
+The day that we parted, so broken hearted
+Will never return again
+Dreams I've delayed, promises made
+Are starting anew, just for you
+
+It started all over again
+The moment I held you so tight
+It started all over again
+When we kissed away the night - till dawn's early light
+
+Now were together, sweethearts forever
+We'll build our romance anew
+It started all over again
+The moment I looked at you

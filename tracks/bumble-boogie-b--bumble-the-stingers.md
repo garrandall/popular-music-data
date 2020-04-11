@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: bumble-boogie-b--bumble-the-stingers
+lyrics_url: https://genius.com/B-bumble-and-the-stingers-bumble-boogie-lyrics
 name: Bumble Boogie
 rankings:
 - end_date: '1961-04-02'
@@ -48,4 +49,5 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
 ---
-
+#21 Mar '61 Hot 100
+♫  ♫

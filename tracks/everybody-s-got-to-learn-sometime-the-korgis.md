@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-s-got-to-learn-sometime-the-korgis
+lyrics_url: https://genius.com/The-korgis-everybodys-got-to-learn-sometime-lyrics
 name: Everybody's Got To Learn Sometime
 rankings:
 - end_date: '1980-10-17'
@@ -83,4 +84,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
 ---
+Change your heart
+Look around you
+Change your heart
+It will astound you
 
+I need your loving like the sunshine
+And everybody's got to learn sometime
+Everybody's got to learn sometime
+Everybody's got to learn sometime
+
+Everyday so confused inside
+Everyday you know we live such lives
+I feel so helpless
+When will we see the light
+
+Everybody's got to learn sometime
+Everybody's got to learn sometime
+Everybody's got to learn sometime
+
+Cos everybody's got to learn sometime
+Everybody's got to learn sometime
+Everybody's got to learn sometime

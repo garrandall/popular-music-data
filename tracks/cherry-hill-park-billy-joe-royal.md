@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cherry-hill-park-billy-joe-royal
+lyrics_url: https://genius.com/Billy-joe-royal-cherry-hill-park-lyrics
 name: Cherry Hill Park
 rankings:
 - end_date: '1969-10-10'
@@ -67,4 +68,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
 ---
+Mary Hill used to hang out in Cherry Hill Park
+The game she played lasted all day to way after dark
+Now all the girls they criticized her
+But all the guys just idolized her
+'cause Mary Hill was such a thrill after dark
+In Cherry Hill Park
 
+Mary Hill loved to ride on the merry-go-round
+All the guys got eager eyes watchin' Mary go 'round
+Now in the daytime Mary Hill was a teaser
+Come the night she was such a pleaser
+Mary Hill was such a thrill after dark
+In Cherry Hill Park
+
+Oh, Mary Hill sure was fun down at Cherry Hill Park
+Playin' games with everyone 'till way after dark
+In Cherry Hill Park, in Cherry Hill Park
+
+And then one day, Mary Hill, she married away
+A man with money said "Come on honey" and she said "Ok"
+She went away to play a one man game
+And since that day it ain't been the same
+'cause Mary Hill was such a thrill after dark
+In Cherry Hill Park
+
+Oh, Mary Hill sure was fun down at Cherry Hill Park
+Playin' games with everyone 'till way after dark
+In Cherry Hill Park, in Cherry Hill Park
+In Cherry Hill Park, in Cherry Hill Park
+In Cherry Hill Park, in Cherry Hill Park

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: warmed-over-kisses--left-over-love--brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-warmed-over-kisses-left-over-love-lyrics
 name: Warmed Over Kisses (Left Over Love)
 rankings:
 - end_date: '1962-09-28'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
 ---
+I see I've gotta be headin' for pain
+I see a broken heart wearin' my name
+You're handin' me, sure as stars up above
+Warmed over kisses, left over love
 
+You've got another love you're runnin' to
+You've been a-cheatin' in some rendezvous
+You're handin' me, sure as stars up above
+Warmed over kisses, left over love
+
+You say that I'm the only one
+Oh how I wanted to be
+But when I kiss your pretty lips
+You got nothin' left for me
+
+You've gotta wanna be breakin' my heart
+I know we've gotta be driftin' apart
+You're handin' me, sure as stars up above
+Warmed over kisses, left over love
+
+You're handin' me, sure as stars up above
+Warmed over kisses, ooo, left over love

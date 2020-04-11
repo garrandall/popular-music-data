@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 99-1-carol-lynn-townes
+lyrics_url: https://genius.com/Carol-lynn-townes-99-1-2-lyrics
 name: 99 1
 rankings:
 - end_date: '1984-07-13'
@@ -43,4 +44,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
 ---
+Minus just a bit
+Our love will never fit
+You said, too bad
+Our love won't reach it's peak
+If there is the slightest break
+You took the best that I had
 
+Ninety-nine and a half won't do
+Gotta have all of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough
+
+No, babe
+
+Without one half percent
+Our love is incomplete
+That's how I knew
+The last drop of your love
+Should belong to only me
+But your eyes is for real
+
+Ninety-nine and a half won't do
+Gotta have all of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough
+
+Ninety-nine and a half won't do
+Gotta have all of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough
+
+Won't do, do, do....
+
+Ninety-nine and a half won't do
+Gotta have all of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough
+
+Ninety-nine and a half won't do
+(Gotta be me and you)
+All of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough
+
+Ninety-nine and a half won't do
+All of your love
+Ninety-nine and a half won't do
+A part of you just ain't enough

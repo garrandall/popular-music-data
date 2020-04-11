@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chantilly-lace-big-bopper
+lyrics_url: https://genius.com/The-big-bopper-chantilly-lace-lyrics
 name: Chantilly Lace
 rankings:
 - end_date: '1958-08-10'
@@ -107,4 +108,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
 ---
+Hello, baby
+Yeah, this is the Big Bopper speakin'
+Ha ha ha ha ha, oh you sweet thing
+Do I what?
+Will I what?
+Oh baby, you know what I like
 
+Chantilly lace and a pretty face
+And a pony tail a-hangin' down
+That wiggle in the walk
+And giggle in the talk
+Makes the world go 'round
+There ain't nothin' in the world
+Like a big-eyed girl
+That makes me act so funny
+Make me spend my money
+Make me feel real loose, like a long necked goose
+Like a girl, oh baby, that's what I like
+
+What's that baby?
+But...but...but...
+Oh honey
+But?
+Oh baby, you know what I like
+
+Chantilly lace and a pretty face
+And a pony tail a-hangin' down
+That wiggle in the walk
+And giggle in the talk
+Makes the world go 'round, round, round
+There ain't nothin' in the world
+Like a big-eyed girl
+That makes me act so funny
+Make me spend my money
+Make me feel real loose, like a long necked goose
+Like a girl, oh baby, that's what I like
+
+What's that, honey?
+Pick you up at eight, and don't be late?
+But, baby, I ain't got no money, honey
+Ha ha ha ha
+Oh, all right, honey, you know what I like
+
+Chantilly lace and a pretty face
+And a pony tail a-hangin' down
+That wiggle in the walk
+And giggle in the talk
+Makes the world go 'round
+There ain't nothin' in the world
+Like a big-eyed girl
+That makes me act so funny
+Make me spend my money
+Make me feel real loose, like a long necked goose
+Like a girl, oh baby, that's what I like

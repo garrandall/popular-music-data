@@ -6,6 +6,7 @@ features:
 - Ray Dalton
 genres: []
 key: can-t-hold-us-macklemore-ryan-lewis-ray-dalton
+lyrics_url: https://genius.com/Cant-hold-us-cant-hold-us-tribute-to-macklemore-ryan-lewis-and-ray-dalton-instrumental-version-lyrics
 name: Can't Hold Us
 rankings:
 - end_date: '2013-02-22'
@@ -165,4 +166,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
 ---
-
+Instrumental

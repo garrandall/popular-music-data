@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hands-to-heaven-breathe
+lyrics_url: https://genius.com/Breathe-uk-hands-to-heaven-lyrics
 name: Hands To Heaven
 rankings:
 - end_date: '1988-04-22'
@@ -123,4 +124,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
+As I watch you move
+Across the moon-lit room
+There's so much tenderness in your loving
 
+Tomorrow, I must leave
+The dawn knows no reprieve
+God give me strength when I am leaving
+
+
+So raise your hands to heaven
+And pray
+That we'll be back together someday
+
+
+Tonight
+I need your sweet caress
+Hold me in the darkness
+Tonight
+You calm my restlessness
+You relieve my sadness
+
+
+As we move to embrace
+Tears run down your face
+I whisper words of love so softly
+
+I can't believe this pain
+It's driving me insane
+Without your touch
+Life will be lonely
+
+
+
+
+
+
+Morning has come
+Another day
+I must pack my bags
+And say goodbye
+Goodbye

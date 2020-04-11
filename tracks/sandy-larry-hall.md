@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sandy-larry-hall
+lyrics_url: https://genius.com/Larry-hall-sandy-lyrics
 name: Sandy
 rankings:
 - end_date: '1959-11-29'
@@ -67,4 +68,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
 ---
+Sandy, Sandy
+Took every sweet thing, like sugar and spice
+Ice cream and candy, everything nice
+They put it together, they gave it a name
+Sandy, Sandy, I'm a fool for Sandy
 
+Her eyes are like heaven, her lips are divine
+Young love is tender, gentle and kind
+And everywhere I go, there you will find
+Sandy, Sandy, I'm a fool for Sandy
+
+Took every sweet thing, like sugar and spice
+Ice cream and candy, everything nice
+They put it together, they gave it a name
+Oh, Sandy, Sandy, I'm a fool for Sandy
+
+Sandy
+Sandy
+Sandy
+...

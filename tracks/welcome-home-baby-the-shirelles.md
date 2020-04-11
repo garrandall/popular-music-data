@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: welcome-home-baby-the-shirelles
+lyrics_url: https://genius.com/The-shirelles-welcome-home-baby-lyrics
 name: Welcome Home Baby
 rankings:
 - end_date: '1962-06-29'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
 ---
+There is no place like home
+There is no place like home
 
+Do you remember
+You left this morning at nine
+With everything fine
+Welcome home, baby
+(Oh oh oh)
+It's been a long, long time
+(Long, long time)
+
+Do you remember
+(Oh oh oh)
+That little stain on your lips
+Where honey drips
+Welcome home, baby
+(Oh oh oh)
+It's been a long, long time
+(Long, long time)
+
+(Well)
+Well
+(Well)
+Well, at ten o'clock I was lonely and blue
+At twelve o'clock I thought of nothing but you
+From two o'clock till a quarter of four
+I waited patiently to hear your footsteps at the door
+
+Do you remember
+(Oh oh oh)
+That little stain on your lips
+Where honey drips
+Welcome home, baby
+(Oh oh oh)
+It's been a long, long time
+
+Welcome home, baby
+(Oh oh oh, oh oh oh)
+It's been a long, long time
+Welcome home

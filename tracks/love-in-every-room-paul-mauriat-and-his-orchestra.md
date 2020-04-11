@@ -1,6 +1,6 @@
 ---
 artists:
-- Paul Mauriat And His Orchestra
+- Paul Mauriat
 features: []
 genres: []
 key: love-in-every-room-paul-mauriat-and-his-orchestra

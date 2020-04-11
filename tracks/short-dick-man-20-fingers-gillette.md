@@ -5,6 +5,7 @@ features:
 - Gillette
 genres: []
 key: short-dick-man-20-fingers-gillette
+lyrics_url: https://genius.com/20-fingers-short-dick-man-lyrics
 name: Short Dick Man
 rankings:
 - end_date: '1994-09-16'
@@ -128,4 +129,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
 ---
+Ah, ah
+Ah, ah
+Ah, ah, ah, ah
+Ah, ah
+Ah, ah
+Ah, ah, a, ah
 
+
+Don't want no short dick man
+Don't want no short dick man
+Don't want no short dick man
+Don't want no short dick man
+Don't, don't, don't, don't, don't, don't
+Don't, don't, don't, don't
+Don't want, don't want, don't want, don't want
+Don't want no short dick man
+Don't want no short dick man
+
+
+Eeny weeny, teeny weeny
+Shriveled little short dick man
+Don't want, don't want, don't want
+Don't want, don't want, don't want
+Don't want, don't want, don't want
+Don't want, don't want, don't want
+Don't want, don't want, don't want
+
+
+What in the world is that fucking thing?
+Do you need some tweezers to put that little thing away?
+That has got to be the smallest dick
+I have ever seen in my whole life
+Get the fuck outta here
+
+
+Eeny weeny, teeny weeny
+Shriveled little short dick man
+Don't want, don't want
+Don't want, don't want
+Don't want
+Don't want
+Don't want
+Don't want
+Don't want
+
+
+Uh! Uh! Uh!
+Uh! Uh! Uh!
+Uh! Uh! Uh! Uh! Uh! Uh!
+Uh! Uh! Uh!
+
+
+Isn't that cute - an extra belly button!
+You need to put your pants back on, honey
+
+
+Don't, don't, don't, don't, don't, don't
+Don't, don't, don't, don't
+Don't want, don't want
+Don't want, don't want
+Don't want no short dick man
+Don't want no short dick man
+
+Eeny wee (x15)
+
+Eeny weeny, teeny weeny
+Shriveled little short dick man
+
+Pobre, pobrecito
+Que diablo eso
+Pobre, pobreci, pobre procito
+Que, que, que, que, que diablo eso
+
+Don't (x36)

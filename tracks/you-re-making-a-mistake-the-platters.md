@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-making-a-mistake-the-platters
+lyrics_url: https://genius.com/The-platters-youre-making-a-mistake-lyrics
 name: You're Making A Mistake
 rankings:
 - end_date: '1958-08-10'
@@ -19,4 +20,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
+You're making a mistake
+So a-help me
+So a-help me, I do love you
+You're making a mistake
+So a-help me
+Oh believe me, I've never been untrue
 
+Even though they've made you cry
+Darling you're making a mistake
+So a-help me
+Help me prove that they told a lie

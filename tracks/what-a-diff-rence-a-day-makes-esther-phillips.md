@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-diff-rence-a-day-makes-esther-phillips
+lyrics_url: https://www.musixmatch.com/lyrics/Esther-Phillips/What-A-Diff-rence-A-Day-Makes
 name: What A Diff'rence A Day Makes
 rankings:
 - end_date: '1975-08-22'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
-
+What a difference a day made
+Twenty-four little hours
+Brought the sun and the flowers
+Where there used to be rain
+My yesterday was blue, dear
+Today I'm part of you, dear
+My lonely nights are through, dear
+(Since you said you were mine)
+What a diff'rence a day makes
+There's a rainbow before me
+Skies above can't be stormy
+Since that moment of bliss, that thrilling kiss
+(It's heaven when you find romance on your menu)
+What a diff'rence a day made
+And the difference is you
+(What a diff'rence a day makes)
+(There's a rainbow before me)
+(Skies above can't be stormy)
+Since that moment of bliss, that thrilling kiss
+(It's heaven when you find romance on your menu)
+What a diff'rence a day made
+And the difference is you

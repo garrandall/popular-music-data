@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-thing-that-ever-happened-to-me-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-best-thing-that-ever-happened-to-me-lyrics
 name: Best Thing That Ever Happened To Me
 rankings:
 - end_date: '1974-02-22'
@@ -75,4 +76,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
+I've had my share of life's ups and downs
+But fate's been kind, the downs have been few
+I guess you could say that I've been lucky
+Well, I guess you could say that it's all because of you
 
+If anyone should ever write my life story
+For whatever reason there might be
+Ooo, you'll be there between each line of pain and glory
+'Cause you're the best thing that ever happened to me
+Ah, you're the best thing that ever happened to me
+
+Oh, there have been times when times were hard
+But always somehow I made it, I made it through
+'Cause for every moment that I've spent hurting
+There was a moment that I spent, ah, just loving you
+
+If anyone should ever write my life story
+For whatever reason there might be
+Oh, you'll be there between each line of pain and glory
+'Cause you're the best thing that ever happened to me
+Oh, you're the best thing that ever happened to me
+I know, you're the best thing, oh, that ever happened to me

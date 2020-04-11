@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: devoted-to-you-carly-simon-james-taylor
+lyrics_url: https://genius.com/Carly-simon-devoted-to-you-lyrics
 name: Devoted To You
 rankings:
 - end_date: '1978-08-25'
@@ -44,4 +45,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
 ---
+Darlin' you can count on me
+Till the sun dries up the sea
+Until then I'll always be
+Devoted to you
 
+I'll be yours till endless time
+I'll adore your charms sublime
+Guess by now you know that I'm
+Devoted to you
+
+I'll never hurt you
+I'll never lie
+I'll never be untru
+
+I'll never give you reason to cry
+I'd be unhappy if you were blue
+
+Through the years our love will grow
+Like a river it will flow
+It can't die because I'm so
+Devoted to you
+
+I'll never give you reason to cry
+I'd be unhappy if you were blue
+
+Throught the years our love will grow
+Like a river it will flow
+It can't die because I'm so
+Devoted to you
+
+Devoted to you

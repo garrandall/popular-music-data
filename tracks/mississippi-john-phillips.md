@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mississippi-john-phillips
+lyrics_url: https://genius.com/John-phillips-mississippi-lyrics
 name: Mississippi
 rankings:
 - end_date: '1970-05-22'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
 ---
+Hit it, Hal
 
+Early in the mornin', she hitched a ride down to Louisville
+Holdin' onto a hundred dollar bill
+Dressed herself like a Cajun Queen in New Orleans, baby
+Yeah, she looked good, like a lady
+
+Do it to me, James
+
+And the Mississippi River runs like molasses in the summertime
+And me, you know, I don't hardly mind
+
+Sippin' on a beer in Bourbon Street and I'm sittin' easy
+Don't get me wrong, it takes a lot to please me
+
+Have a seat and take a load off your feet and she said, yes
+So I said, I like your dress
+Swamps all around make ya feel kinda funny, don't they, honey?
+She crossed her legs and looked at me funny
+
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+
+Joseph
+
+Early in the mornin', she hitched a ride down to Louisville
+Holdin' onto a hundred dollar bill
+Dressed herself like a Cajun Queen in New Orleans, baby
+Yeah, she looked good, like a lady
+
+And the Mississippi River, it runs like molasses in the summertime
+And me, you know, I don't hardly mind
+
+Sippin' on a beer in Bourbon Street and I'm sittin' easy
+Don't get me wrong, it takes a lot to please me
+
+Everybody sing
+
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+
+Have a seat and take a load off your feet and she said, yes
+So I said, I like your dress
+Swamps all around make ya feel kinda funny, don't they, honey?
+She crossed her legs and looked at me funny
+
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?
+Down on the bayou, why, you never know just what you're doin'?

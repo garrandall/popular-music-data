@@ -5,6 +5,7 @@ features:
 - Sean Paul
 genres: []
 key: breathe-blu-cantrell-sean-paul
+lyrics_url: https://genius.com/Blu-cantrell-breathe-instrumental-lyrics
 name: Breathe
 rankings:
 - end_date: '2003-03-07'
@@ -88,4 +89,113 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
 ---
+So what's that supposed to be about baby?
+Ya'll free up your mind and stop acting crazy
+Reminisce about all the good times daily
+Why you try pull that got me acting crazy
 
+What's that supposed to be about baby?
+Ya'll free up your mind and stop acting crazy
+Sean paul u'll give your the good loving daily
+Now you try and pull that got me acting shady
+
+
+
+You say you love, say you love me
+But you’re never there for me, yeah, mmm...hmm...
+You’ll be crying, slowly dying
+When I decide to leave, oh, oh
+
+All we do is make up
+Then break up
+Why don’t we wake up
+And see
+
+When love hurts
+It won’t work
+Maybe we need some time alone
+We need to let it breathe
+
+Breathe
+Breathe
+Breathe
+
+
+
+So what's that supposed to be about baby?
+Ya'll free up your mind and stop acting crazy
+Reminisce about all the good times daily
+Why you try pull that got me acting crazy
+
+
+
+You’re only lonely when your homie
+Ain’t got a ride or no loot, yeah, uh-huh
+Then comes the drama
+Some other girl is claiming she’s going out with you
+
+Hmm...hmm...
+
+All we do is make up
+Then break up
+Why don’t we wake up
+And see
+
+When love hurts
+It won’t work
+Maybe we need some time alone
+We need to let it breathe
+
+Breathe
+Breathe
+Breathe
+Breathe (Uh...huh...)
+Breathe
+
+
+
+So what's that supposed to be about baby?
+Ya'll free up your mind and stop actin crazy
+Shady shady shady shady
+
+Not again
+My girl for the fourth time
+Let me make it very clear to you
+Your very dear to me
+And honor of me
+Share to you
+Me not unfair to you
+Who would u want
+For real you make me know and
+I will be there for you
+But me know i'm not a fear to you
+Stand up like a man and not be there cuz i care for you
+Long time telling you
+No other girl can compare to you
+Woman if you leave me now
+I'm gonna share a lot of tears for you
+Say you want to breathe
+I'm still not i'm exhaling
+Say you want to leave cuz this relationship failing
+Ain't nobody say that it would be smooth sailing
+Girl i wanna know why your bailing
+
+So what's that supposed to be about baby?
+Ya'll free up your mind and stop acting crazy
+Reminisce about all the good times daily
+Why you try pull that got me acting shady shady baby baby
+
+
+
+Maybe we need some time alone
+So we can just breathe
+Let it breathe
+Breathe
+Breathe
+Let it breathe
+Breathe
+Breathe
+Breathe
+Breathe
+Yeah yeah yeah yeah let it breathe yeah
+Oh oh time to breathe ya'll...

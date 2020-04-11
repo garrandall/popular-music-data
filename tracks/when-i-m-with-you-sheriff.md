@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-m-with-you-sheriff
+lyrics_url: https://genius.com/Sheriff-when-im-with-you-lyrics
 name: When I'm With You
 rankings:
 - end_date: '1983-05-20'
@@ -119,4 +120,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
 ---
+I never needed love
+Like I need you
+And I never lived for nobody
+But I live for you
 
+Oooh, babe
+Lost in love is what
+I feel when I'm with you
+
+Maybe it's the way you touch me
+With the warmth of a sun
+Maybe it's the way you smile
+I come all undone
+
+Oooh, babe
+Lost in love is what
+I feel when I'm with you
+
+Baby, ooh, I get chills
+When I'm with you, oh
+Oh, baby, my world stands still
+When I'm with you
+When I'm with you
+
+I never cared for nobody
+Like I care for you
+And I never wanted
+To share the things I want to share with you
+
+Oooh, babe
+Lost in love is what
+I feel when I'm with you
+
+Baby, ooh
+I get chills
+When I'm with you, oh...
+Oh, baby, my world stands still
+When I'm with you
+When I'm with you
+
+Whoa, oh, oh.....
+
+Baby, ooh
+I get chills
+When I'm with you, oh...
+Oh, baby, my world stands still
+When I'm with you
+When I'm with you
+When I'm with you

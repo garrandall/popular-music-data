@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-a-bad-mama-jama--she-s-built-she-s-stacked--carl-carlton
+lyrics_url: https://genius.com/Carl-carlton-shes-a-bad-mama-jama-shes-built-shes-stacked-lyrics
 name: She's A Bad Mama Jama (She's Built She's Stacked)
 rankings:
 - end_date: '1981-08-28'
@@ -91,4 +92,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+She's a bad mama jama
+Just as fine as she can be
+She's a bad mama jama
+Just as fine as she can be
 
+
+Her body measurements are perfect in every dimension
+She's got a figure
+That's sure enough paying attention
+She's poetry in motion
+A beautiful sight to see
+I get so excited viewing her anatomy
+
+
+She's built, oh, she's stacked
+Got all the curves that men like
+She's built, oh, she's stacked
+Got all the curves that men like
+
+
+She's a bad mama jama
+Just as fine as she can be
+She's a bad mama jama
+Just as fine as she can be
+
+
+Looks like she's poured into the gold
+She's bad
+The essence of beauty
+Ooh, such lovely hair
+She's foxy, classy
+Oh, sexy, sassy
+She's heavenly
+A treat for the eye to see
+
+
+She's built, oh, she's stacked
+Got all the curves that men like
+She's built, oh, she's stacked
+Got all the curves that men like
+
+
+She's a bad mama jama
+Just as fine as she can be
+She's a bad mama jama
+Just as fine as she can be
+
+
+Whoo, whoo!
+La la la la
+La la la la la la
+La la
+Whoo, whoo!
+La la la la
+La la la la la la
+La la
+Whoo, whoo!
+
+
+
+She's built, she's stacked
+Got all the curves that men like
+
+
+Her body measurements are perfect in every dimension
+She's got a figure
+That's sure enough paying attention
+She's poetry in motion
+A beautiful sight to see
+I get so excited viewing her anatomy
+
+
+She's built, oh, she's stacked
+Got all the curves that men like
+She's built, oh, she's stacked
+Got all the curves that men like
+
+
+She's a bad mama jama
+Just as fine as she can be
+She's a bad mama jama
+Just as fine as she can be

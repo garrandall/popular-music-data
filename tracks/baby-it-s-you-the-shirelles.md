@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-it-s-you-the-shirelles
+lyrics_url: https://genius.com/The-shirelles-baby-its-you-lyrics
 name: Baby It's You
 rankings:
 - end_date: '1961-12-24'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
+Sha la la la la la la la
+Sha la la la la la la la
+Sha la la la la la la la
+Sha la la la la
 
+
+It's not the way you smile that touched my heart (Sha la la la la)
+It's not the way you kiss that tears me apart
+
+
+Woh oh oh, many, many, many nights go by
+I sit alone at home and I cry over you
+What can I do?
+I can't help myself
+'Cause baby, it's you (Sha la la la la la la)
+Baby, it's you (Sha la la la la la)
+(Sha la la la la)
+
+
+You should hear what they say about you, "cheat," "cheat."
+They say, they say you never never never  been true (Cheat cheat)
+
+
+Uh oh
+It doesn't matter what they say
+I know I'm gonna love you any old way
+What can I do, when it's true
+I don't want nobody, nobody
+'Cause baby, it's you (Sha la la la la la la)
+Baby, it's you (Sha la la la la la la)
+
+
+
+
+Woh oh oh, many, many, many nights go by
+I sit alone at home and I cry over you
+What can I do?
+I can't help myself
+'Cause baby, it's you (Sha la la la la la)
+Baby, it's you (Sha la la la la la la)
+
+
+Don't leave me alone (Sha la la la la la)
+Come on home (Sha la la la la la)
+Baby, it's you (Sha la la la la la)

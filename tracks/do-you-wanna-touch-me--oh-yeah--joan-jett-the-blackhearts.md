@@ -1,7 +1,6 @@
 ---
 artists:
-- Joan Jett
-- the Blackhearts
+- Joan Jett & the Blackhearts
 features: []
 genres: []
 key: do-you-wanna-touch-me--oh-yeah--joan-jett-the-blackhearts

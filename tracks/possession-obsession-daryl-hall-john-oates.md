@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: possession-obsession-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/possessionobsession.html
 name: Possession Obsession
 rankings:
 - end_date: '1985-06-07'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
 ---
+You know there's something you need
+Right here and now
+To fill the space inside of yourself
+Oh, with money, love or power
 
+When you want to have
+The number one, first-run anyone
+You're crazy 'til you own them
+
+You ought to know
+Better than that, girl
+The more that you buy
+The less you get back
+
+You could say
+It's a case of
+Possession obsession
+Just a taste of
+Possession obsession
+Brings of a case of possession
+I hear you say gimme gimme
+Now gimme gimme gimme
+Gimme gimme gimme gimme
+
+The compulsion to count
+The percentage of time
+Spent between two lovers
+Can turn an hour into a crime
+Oh, all the good times suffer
+
+Though you know it's only jealousy
+But you can't help but be
+Haunted by your passion
+
+Now, don't you know
+It's a matter of fact
+The more that you take
+The less you give back
+
+I can say
+It's a case of
+Possession obsession
+Just a taste of
+Possession obsession
+Brings of a case of possession
+I hear you say gimme gimme
+Now gimme gimme gimme
+Gimme gimme possession
+
+Ooh, gimme gimme gimme
+Gimme gimme gimme
+
+Ooh, it's a case of
+Possession obsession
+Just a taste of
+Possession obsession
+Brings of a case of possession
+I hear you say possession
+
+Now, don't you know
+It's a matter of fact
+The more that you take
+(Gimme some)
+The less you give back

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-city-marshall-hain
+lyrics_url: https://genius.com/Marshall-hain-dancing-in-the-city-lyrics
 name: Dancing In The City
 rankings:
 - end_date: '1978-12-15'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
 ---
+If you're a stranger here
+And you need some action
+We have a remedy
+That could really catch on
 
+Pleased to see another face
+At light-up time
+If you're feeling dull and run-down
+We can really make you shine
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight
+
+Can you feel the darkness call
+Let the street have their way
+They'll carry you on 'til morning
+And steal your soul away
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight
+
+Dancin' in the city
+Alleys that we run through
+Now we've just begun to
+Have fun tonight

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know-perry-como
+lyrics_url: https://genius.com/Perry-como-i-know-lyrics
 name: I Know
 rankings:
 - end_date: '1959-06-14'
@@ -43,4 +44,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
 ---
+( I Know, I know, oh yes, I know! )
 
+I know what it means
+To be lost in the dark!
+I know what it means
+To be tossed by the storm!
+
+I have walked alone
+With a heart of stone
+And despair too heavy for tears
+But you caught my heart
+And you taught my heart
+To forget it's doubts and fear!
+
+And now that I know
+The joy of your love
+My head is high, I can face the sky
+And know that heaven is here below
+I know . . 
+
+For you I could die
+For you I will live
+I know!
+
+( I Know, I know, I know! )

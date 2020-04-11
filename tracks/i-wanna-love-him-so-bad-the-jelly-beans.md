@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-love-him-so-bad-the-jelly-beans
+lyrics_url: https://genius.com/The-jelly-beans-i-wanna-love-him-so-bad-lyrics
 name: I Wanna Love Him So Bad
 rankings:
 - end_date: '1964-06-26'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+Down down down down be doo be doo
+Down down down down be doo be doo
 
+He lives in my neighborhood
+When he walks by, he looks so good
+Want to get to know him (oh yeah)
+Wish that I could show him (I care)
+
+
+I want to love him so bad
+You know it's drivin' me mad
+'Cause when I look in his eyes
+I can see it, paradise
+So I can't help it
+I want to love him so bad (love him so bad)
+
+I know his name, his name is Jim
+I can't be blamed for lovin' him
+I could make him happy (oh yeah)
+If he'd only let me (oh yeah)
+
+
+I could make him happy (oh yeah)
+If he'd only let me (oh yeah)
+
+
+
+Down down down down be doo be doo

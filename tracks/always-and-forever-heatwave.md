@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-and-forever-heatwave
+lyrics_url: https://genius.com/Heatwave-always-and-forever-lyrics
 name: Always And Forever
 rankings:
 - end_date: '1978-01-13'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
 ---
+Always and forever, each moment with you
+Is just like a dream to me that somehow came true
+And I know tomorrow will still be the same
+'Cause we've got a life of love that won't ever change and
 
+Everyday, love me your own special way
+Melt all my heart away with a smile
+Take time to tell me, you really care
+And we'll share tomorrow, together
+I'll always love you forever, forever
+
+There'll always be sunshine when I look at you
+It's something I can't explain just the things that you do
+And if you get lonely, phone me and take
+A second to give to me that magic you make and
+
+Everyday, love me your own special way
+Melt all my heart away with a smile
+Take time to tell me, you really care
+And we'll share tomorrow, together
+I'll always love you ever, ever
+
+Always forever love you
+Always forever love you
+Always forever love you
+Always forever love you
+
+Always forever love you
+I said forever, ever love you
+Love you forever, ever
+Always forever love you, you
+Forever

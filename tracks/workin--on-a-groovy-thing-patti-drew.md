@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: workin--on-a-groovy-thing-patti-drew
+lyrics_url: https://genius.com/Patti-drew-workin-on-a-groovy-thing-lyrics
 name: Workin' On A Groovy Thing
 rankings:
 - end_date: '1968-08-09'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
 ---
+When I saw you, I knew
+That I was gonna love you
+And every day I thought
+Of how I'm gonna love you
 
+Now you're here next to me
+And ecstasy is a reality
+I feel good when you are near
+I'm so alive cause you are near
+
+
+Working on a groovy thing, baby
+Working on a groovy thing
+Working on a groovy thing, baby
+Let's not rush it
+I wanna take it slow, yeah
+
+Before I met you
+I knew my lips were only wasted
+Cause you have got the
+Sweetest lips I've ever tasted
+
+Music moves us along
+Your arms around me
+So snug and warm
+Happiness is in my soul
+I'm about to lose all control
+
+
+Now you're here next to me
+And ecstasy is a reality
+I feel good when you are near
+I'm so alive cause you are near
+
+
+(Said that I'm)
+Working on a groovy thing, baby
+(Yes, I am now)
+Working on a groovy, groovy
+Groovy thing

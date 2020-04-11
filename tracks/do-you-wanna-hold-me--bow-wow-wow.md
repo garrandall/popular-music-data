@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-wanna-hold-me--bow-wow-wow
+lyrics_url: https://genius.com/Bow-wow-wow-do-you-wanna-hold-me-lyrics
 name: Do You Wanna Hold Me?
 rankings:
 - end_date: '1983-04-29'
@@ -23,4 +24,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
 ---
+Children, I wanna warn ya (Whoa-oh-oh)
+'Cause I've been to California (Whoa-oh-oh)
+Where Mickey Mouse is such a demon (Whoa-oh-oh)
+Where Mickey Mouse is as big as a house (Whoa-oh-oh)
 
+Ba da ba ba da da (Whoa-oh-oh)
+Ba da ba ba da da
+
+Life is wasted on illusion (Whoa-oh-oh)
+Tom and Jerry's no solution (Whoa-oh-oh)
+Evil games for cartoon demons (Whoa-oh-oh)
+Pinocchio's a real boy, look around!
+
+Ba da ba ba da da (Whoa-oh-oh)
+Ba da ba ba da da
+
+And I cry all night
+Do you wanna hold me, hold me tight?
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+
+Children, you got to hear me (Whoa-oh-oh)
+You just got to understand me (Whoa-oh-oh)
+Love and death ain't no physical thing (Whoa-oh-oh)
+'Cause Mickey Mouse, he don't wanna know! (Whoa-oh-oh)
+
+Ba da ba ba da da (Whoa-oh-oh)
+Ba da ba ba da da
+
+And I cry all night
+Do you wanna hold me, hold me tight?
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+Do you wanna?
+
+And I cry all night
+Do you wanna hold me, hold me tight?
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+
+And I cry all night
+There ain't no more confusion in the night
+There's someone there to tell me what is right
+Do you wanna hold me, hold me tight?
+
+And I cry all night
+There's only one solution to this life
+There's someone there to tell me what it's like
+Do you wanna hold me? Oh yeah
+
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+
+Do you wanna hold me? Oh yeah
+Do you wanna hold me, hold me there?
+Do you wanna hold me? Oh yeah
+Do you wanna hold me?

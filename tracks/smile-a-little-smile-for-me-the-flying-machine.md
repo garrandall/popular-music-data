@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smile-a-little-smile-for-me-the-flying-machine
+lyrics_url: https://genius.com/The-flying-machine-smile-a-little-smile-for-me-lyrics
 name: Smile A Little Smile For Me
 rankings:
 - end_date: '1969-10-10'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
 ---
+You really should accept
+This time he's gone for good
+He'll never come back now
+Even though he said he would
+So darling dry your eyes
+So many other guys
+Would give the world I'm sure
+To wear the shoes he wore
 
+Oh, c'mon
+Smile a little smile for me, Rosemarie
+Where's the use in cryin'?
+In a little while you'll see, Rosemarie
+You must keep on tryin'
+
+I know that he hurt you bad
+I know darling don't be sad and
+Smile a little smile for me, Rosemarie, Rosemarie
+
+I guess you're lonely now
+Love's comin' to an end
+But darling only now
+Are you free to start again
+Lift up your pretty chin
+Don't let those tears begin
+You're a big girl now
+And you'll pull through somehow
+
+Oh, c'mon
+Smile a little smile for me, Rosemarie
+Where's the use in cryin'?
+In a little while you'll see, Rosemarie
+You must keep on tryin'
+
+I know that he hurt you bad
+I know darling don't be sad and
+Smile a little smile for me, Rosemarie, Rosemarie
+
+Bah bah bah bah bah bah
+Bah bah bah
+Bah bah
+Bah bah bah bah
+
+Smile a little smile for me, Rosemarie, Rosemarie

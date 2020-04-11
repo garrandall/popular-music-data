@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-should-ve-told-me-kelly-price
+lyrics_url: https://genius.com/Kelly-price-you-shouldve-told-me-lyrics
 name: You Should've Told Me
 rankings:
 - end_date: '2000-09-29'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
 ---
+I wouldn't call in the midnight hour
+I wouldn't tuck you in and turn the nightlight out
+You would walk through the door and I wouldn't say hi
+I would walk out the door and wouldn't say bye-bye
+It's funny that I never thought about it that way
+I never knew the things that I did not say
+But you were lonely and you were hungry
+And I was living in my own world
+Thinking I'm a perfect lady
 
+
+You should've told me
+I wasn't small enough
+You should've told me
+I didn't call enough
+But you led me on
+And kept me going
+And we never should've wasted this time
+You should've told me
+I wasn't wild enough
+You should've told me
+I didn't smile enough
+What you had in my mind
+Made me lose my mind
+And we never should've wasted this time
+
+
+I wasn't there to help you take your clothes off
+When it was time for work didn't see you off
+When your tense didn't give a massage
+I never told you I think you're hot
+It's funny I never thought about it that way
+Never knew the things I did not say
+But you were lonely and you were hungry
+And I was living in my own world
+Thinking I'm a perfect lady
+
+
+You should've told me
+I wasn't small enough
+You should've told me
+I didn't call enough
+But you led me on
+And kept me going
+And we never should've wasted this time
+You should've told me
+I wasn't wild enough
+You should've told me
+I didn't smile enough
+What you had in my mind
+Made me lose my mind
+And we never should've wasted this time
+
+
+When you thought you had to lie
+Why didn't you come and tell me why?
+Didn't you see those tears I cried?
+Oh why?
+
+
+You should've told me
+I wasn't small enough
+You should've told me
+I didn't call enough
+But you led me on
+And kept me going
+And we never should've wasted this time
+You should've told me
+I wasn't wild enough
+You should've told me
+I didn't smile enough
+What you had in my mind
+Made me lose my mind
+And we never should've wasted this time
+(repeat until song ends)

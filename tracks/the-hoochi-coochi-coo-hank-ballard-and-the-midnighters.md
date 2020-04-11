@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-hoochi-coochi-coo-hank-ballard-and-the-midnighters
+lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-hoochi-coochi-coo-lyrics
 name: The Hoochi Coochi Coo
 rankings:
 - end_date: '1960-12-11'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
 ---
-
+Hey, mama, you better talk to Sue
+She's doing the hoochi coochi coo
+They're swirling in the kitchen
+I know she'll get a licking
+For doing the hoochi coochi coo
+Hey, mama, you better come real quick
+Tell papa to bring a hickory stick
+She's shaking like she's breaking
+And I know she'll soon be aching
+From doing the hoochi coochi coo
+She's spinning like a top
+Shimmying with that steady rock
+Dipping up and down
+Then she go, round
+Round and round
+Hey, mama, what you you gonna do
+Hey, mama, just look at little Sue
+They're swishing in the kitchen
+I know she'll get a licking
+For doing the hoochi coochi coo
+Spinning like a top
+Shimmying with that steady rock
+Dipping up and down
+Then she go, round
+Round and round
+Hey, mama, what you you gonna do
+Hey, mama, look at little Sue
+They're swishing in the kitchen
+I know she'll get a licking
+For doing the hoochi coochi coo

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-rebound-floyd-cramer
+lyrics_url: https://genius.com/Floyd-cramer-on-the-rebound-lyrics
 name: On The Rebound
 rankings:
 - end_date: '1961-03-12'
@@ -59,4 +60,5 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
 ---
-
+♫  ♫
+1961; US #3; UK #1

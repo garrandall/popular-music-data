@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-were-a-carpenter-bobby-darin
+lyrics_url: https://genius.com/Bobby-darin-if-i-were-a-carpenter-lyrics
 name: If I Were A Carpenter
 rankings:
 - end_date: '1966-09-30'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
+If I were a carpenter
+And you were a lady
+Would you marry me anyway?
+Would you have my baby?
 
+If a tinker were my trade
+Would you still find me
+Carrin' the pots I made
+Followin' behind me
+
+Save my love through loneliness
+Save my love for sorrow
+I'm given you my onliness
+Come give your tomorrow
+
+If I worked my hands in wood
+Would you still love me?
+Answer me babe, "Yes I would
+I'll put you above me."
+
+If I were a miller
+At a mill wheel grinding
+Would you miss your color box
+And your soft shoe shining?
+
+If I were a carpenter
+And you were a lady
+Would you marry me anyway?
+Would you have my baby?
+Would you marry anyway?
+Would you have my baby?

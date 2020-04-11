@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-plus-one-haircut-one-hundred
+lyrics_url: https://www.musixmatch.com/lyrics/Haircut-One-Hundred/Love-Plus-One
 name: Love Plus One
 rankings:
 - end_date: '1982-05-21'
@@ -75,4 +76,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
 ---
+I, I went off to the right
+Without saying goodbye, goodbye
+Where does it go from here?
+Is it down to the lake I fear?
+Ay, ah, ah, ah, ah, ah
+Ay, ah, ah, ah, ah, ah
 
+Then I call
+Ring, ring, ring, ring
+(Ring, ring, ring, ring)
+La, la, love plus one
+Ring, ring, ring, ring
+(Ring, ring, ring, ring)
+
+When I call love, give love some soul
+If I may be quite so bold
+Where does it go from here?
+Is it down to the lake I fear?
+Ay, ah, ah, ah, ah, ah
+Ay, ah, ah, ah, ah, ah
+
+Then I call
+Ring, ring, ring, ring
+(Ring, ring, ring, ring)
+La la love plus one
+Ring, ring, ring, ring
+(Ring, ring, ring, ring)
+
+When I call love
+Love plus one
+
+
+La, la, love plus one
+Ring, ring, ring, ring
+(And I, and I, and I, and I)
+La, la, love plus one
+Ring, ring, ring, ring
+(And I, and I, and I, and I)
+
+When I call love
+Love, love
+Love plus one, love plus one
+Love plus one, love plus one

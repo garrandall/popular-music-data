@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-you-see-that-she-s-mine-the-dave-clark-five
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dave-Clark-Five/Can-t-You-See-That-She-s-Mine
 name: Can't You See That She's Mine
 rankings:
 - end_date: '1964-06-19'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
 ---
+Whoa, can't you see that she's mine?
+We've been together for a long, long time
+And yet they try so very hard
+To pull us apart
+But we don't care what they say
+We're gonna keep our lovin' this way
+But if they break us up
+You know it'll only break my heart
 
+And don't you know I love her so?
+And I'll never, never let her go
+No matter what the people may say
+Or try to do
+'Cause can't you see that she's mine
+We've been together for a long, long time
+And it'll stay that way
+Because I know she'll love me too
+
+People talk and try to break us up
+When they know they don't understand
+But I don't care what the people may say
+I'm gonna keep on holdin' her hand
+
+Can't you see that she's mine?
+We've been together for a long, long time
+And yet they try so very hard
+To pull us apart
+But we don't care what they say
+We're gonna keep our lovin' this way
+But if they break us up
+You know it'll only break my heart
+
+Don't you know I love her so?
+And I'll never, never let her go
+No matter what the people may say
+Or try to do
+'Cause can't you see that she's mine
+We've been together for a long, long time
+And it'll stay that way
+Because I know she'll love me too
+And it'll stay that way
+Because I know she'll love me too

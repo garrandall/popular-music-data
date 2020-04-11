@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-mahogany--do-you-know-where-you-re-going-to--diana-ross
+lyrics_url: https://genius.com/Diana-ross-do-you-know-where-youre-going-to-theme-from-mahogany-lyrics
 name: Theme From Mahogany (Do You Know Where You're Going To)
 rankings:
 - end_date: '1975-11-07'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
 ---
+Do you know where you're going to?
+Do you like the things that life is showing you?
+Where are you going to?
+Do you know?
+Do you get what you're hoping for?
+When you look behind you, there's no open doors
+What are you hoping for?
+Do you know?
 
+
+Once we were standing still in time
+Chasing the fantasies that filled our minds
+You knew I loved you, but my spirit was free
+Laughing at the questions that you once asked of me
+
+
+Do you know where you're going to?
+Do you like the things that life is showing you?
+Where are you going to?
+Do you know?
+
+
+Now, looking back at all we've passed
+We let so many dreams just slip through our hands
+Why must we wait so long before we see
+How sad the answers to those questions can be?
+
+
+Do you know where you're going to?
+Do you like the things that life is showing you?
+Where are you going to?
+Do you know?
+Do you get what you're hoping for?
+When you look behind you, there's no open doors
+What are you hoping for?
+Do you know?

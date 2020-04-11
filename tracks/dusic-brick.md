@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dusic-brick
+lyrics_url: https://genius.com/Brick-dusic-lyrics
 name: Dusic
 rankings:
 - end_date: '1977-09-09'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
-
+Dusic, dusic
+Just a funky thing to let you
+Groove to the music, yeah
+A funky, funky thing
+We know that you and you can use it
+If you want to stretch out
+Come find out what it's all about
+Just get on down, get on down
+To the funky dance music
+Say yeah, dusic
+Say yeah, dusic
+Say yeah
+Dusic, say yeah
+Dusic, say yeah
+It's funky, funky
+Funky, funky, funky
+It's funky, funky
+Funky, funky, funky
+It's funky, funky
+Funky, funky, funky
+Just a funky thing to let you
+Groove to the music, yeah
+A funky, funky thing
+We know that you and you can use it
+Well, you know you're back
+At the dance, you can do it, dusic
+If you feel all right, outta sight
+Super cool, then dusic
+If you can't sit down, move around
+You can use it, dusic
+So get on down, get on down
+Get on down, get on down, dusic
+Get on down, get on down
+Move around, make a sound, dusic
+Get on down, get on down
+Get on down, get on down, dusic
+Get on down, get on down
+Move around, make a sound, dusic
+Yeah

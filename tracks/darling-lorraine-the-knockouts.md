@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: darling-lorraine-the-knockouts
+lyrics_url: https://www.musixmatch.com/lyrics/The-Knockouts/Darling-Lorraine
 name: Darling Lorraine
 rankings:
 - end_date: '1960-01-03'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
+You are an angel, angel divine
+You're sent from heaven
+You're really mine
+Oh darling, oh darling
+Oh my darling Lorraine
 
+Oh when you kiss me
+I was meant to be
+You're sent from heaven
+My destiny
+Oh darling, oh darling
+Oh my darling Lorraine
+
+Please never leave me
+Please never go
+I love you darling
+I'd miss you so
+
+You're my inspiration
+My dreams come true
+If you ever leave me darling Lorraine
+Oh what will I do
+
+You are an angel, angel divine
+You're sent from heaven
+You're really mine
+Oh darling, oh darling
+Oh my darling Lorraine

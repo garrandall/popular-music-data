@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-school-usa-tommy-facenda
+lyrics_url: https://genius.com/Tommy-facenda-high-school-usa-lyrics
 name: High School USA
 rankings:
 - end_date: '1959-10-25'
@@ -59,4 +60,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
 ---
+High school U.S.A
+High school U.S.A
+High school U.S.A
+High school U.S.A
 
+High school U.S.A., come Friday noon
+Bout a half past three
+(High school U.S.A.)
+I drop my books and my misery (high school U.S.A.)
+
+Stroll up and down
+Through the soda shop
+(High school U.S.A.)
+Drop a coin in the old jukebox (high school U.S.A.)
+
+Well, now looking all around
+What did I see every school kid
+There could ever be
+They come from Pittsburgh
+
+Chicago and Boston too
+New Orleans, San Diego
+And old St. Lou
+Cleveland, Portland, and L. A
+
+Fort Worth, Charlotte
+And Frisco Bay
+Detroit, Newark and Memphis too
+Well, they wanna do the high school bop with you
+
+Well, come Saturday morning
+They were still going strong
+(High school U.S.A.)
+They've been rocking and
+
+A-rolling all night long
+(High school U.S.A.)
+No time to study on their ABC's
+(High school U.S.A.)
+
+Mmm they're getting their lessons
+On the birds and the bees
+(High school U.S.A.)
+Yeah all across the floor
+
+They're doing the hop
+Everybody's doing that
+High school bop
+They come from Dallas
+
+Cincinatti and good old Philly
+Houston, Raleigh, and Kansas City
+Miami, Baltimore and Washington
+Norfolk, Atlanta and Charleston
+
+Birmingham, Jacksonville
+Tulsa too
+Well, they wanna do the
+High school bop with you
+
+There was St. Paul
+Nashville and San Antone
+New York, Hartford, and Oklahome
+Camden, Durham, Indianapolis, Buffalo, Tampa, Minneapolis
+
+New Orleans
+Columbus, Seattle too
+They all wanna do the
+High school bop with you
+
+Mmm
+Look out!
+(High school U.S.A.)
+(High school U.S.A.)

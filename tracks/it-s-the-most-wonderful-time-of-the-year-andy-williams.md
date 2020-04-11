@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-the-most-wonderful-time-of-the-year-andy-williams
+lyrics_url: https://genius.com/Andy-williams-its-the-most-wonderful-time-of-the-year-lyrics
 name: It's The Most Wonderful Time Of The Year
 rankings:
 - end_date: '2017-01-13'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+It's the most wonderful time of the year
+With the kids jingle belling
+And everyone telling you "be of good cheer"
+It's the most wonderful time of the year
 
+
+It's the hap-happiest season of all
+With those holiday greetings
+And gay happy meetings when friends come to call
+It's the hap-happiest season of all
+
+
+There'll be parties for hosting
+Marshmallows for toasting
+And caroling out in the snow
+There'll be scary ghost stories
+And tales of the glories
+Of Christmases long, long ago
+
+
+It's the most wonderful time of the year
+There'll be much mistletoeing
+And hearts will be glowing when loved ones are near
+It's the most wonderful time of the year
+
+
+There'll be parties for hosting
+Marshmallows for toasting
+And caroling out in the snow
+There'll be scary ghost stories
+And tales of the glories
+Of Christmases long, long ago
+
+
+It's the most wonderful time of the year
+There'll be much mistletoeing
+And hearts will be glowing when loved ones are near
+It's the most wonderful time
+It's the most wonderful time
+It's the most wonderful time
+It's the most wonderful time of the year

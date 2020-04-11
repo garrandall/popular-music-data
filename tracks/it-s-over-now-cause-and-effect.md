@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-over-now-cause-and-effect
+lyrics_url: https://genius.com/Cause-and-effect-its-over-now-lyrics
 name: It's Over Now
 rankings:
 - end_date: '1994-07-01'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-03'
 ---
+I guess it's over now
+I think we've seen the end
+When our common dream
+Faltered in the between
+Though I've tried so hard to make it real
+It doesn't matter now
+I guess it never did
 
+(chorus)
+And it's alright alright alright with me
+And it's alright if that's how you want it to be
+
+I've learned through weakness
+And through the web of your lies
+That everyday i live
+Another piece of me dies
+And in the black and white
+I found a need to move on
+To find a road of gold
+A throne to live upon
+
+And it's alright alright alright with me
+And it's alright if that's how you want it to be
+
+If there's a reason for the pain
+Then let me know
+If I'm the reason for your pain
+Then let me go
+
+And it's alright alright alright with me
+And it's alright if that's how you want it to be

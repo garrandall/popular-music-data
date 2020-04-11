@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-only-wanna-be-with-you-samantha-fox
+lyrics_url: https://genius.com/Samantha-fox-i-only-wanna-be-with-you-lyrics
 name: I Only Wanna Be With You
 rankings:
 - end_date: '1989-03-24'
@@ -59,4 +60,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
+I don't know what it is
+That makes me love you so
+I only know
+I never want to let you go
 
+
+Cause you started something
+Can`t you see?
+That ever since we've met
+You`ve had a hold on me
+It happens to be true
+I only wanna be with you
+
+
+It doesn't matter
+Where you go or what you do
+I`d love to spend each moment
+Of the day with you
+
+Look what has happened
+Just one kiss
+I never knew that
+I could be in love like this
+It`s crazy
+But it`s true
+I only wanna be with you
+
+You stopped
+Yu smiled at me
+And asked if I`d care to dance
+I fell into your open arms
+I didn`t stand a chance
+
+Now listen, honey
+I just wanna be
+Beside you everywhere
+As long as we`re together
+Honey, I don`t care
+
+
+
+
+You stopped
+You smiled at me
+And asked if I`d care to dance
+I fell into your open arms
+I didn`t stand a chance
+
+Now listen, honey
+I just wanna be
+Beside you everywhere
+As long as we`re together
+Honey, I don`t care
+
+
+
+No matter what you do
+I only, I only
+I only wanna be with you

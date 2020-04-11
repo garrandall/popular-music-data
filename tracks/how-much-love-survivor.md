@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-much-love-survivor
+lyrics_url: https://genius.com/Survivor-how-much-love-lyrics
 name: How Much Love
 rankings:
 - end_date: '1987-02-27'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
 ---
+How can I tell you
+To put it all in words
+There is so much left to say
+But the meaning slips away
+How can I show you
+To see it through my eyes
+Don't deny that part of you
+That's been dying for it too
 
+(chorus)
+--How do I know if I give you too much
+Will I scare you away
+How do I know when to leave you alone
+When to beg you to stay
+--I wanna know
+Just how much love does it take
+--to get to you
+I stand here ready to break
+--Tell me, tell me
+--How much love does it take
+
+Moment to moment
+I don't know where it stands
+Will I end up like the rest
+Well it's anybody' guess
+Can I persuade you
+So softly in a touch
+If it's all a waste of time
+Well I'm only wasting mine
+
+(chorus)
+How do I know when to leave you alone
+When to beg you to stay
+--I wanna know
+
+Just how much love does it take
+To get to you
+I stand here ready to break
+Tell me, tell me
+Just how much love does it take
+It's up to you
+I stand here ready to break
+Tell me, tell me
+Oh tell me, tell me
+How much love does it take

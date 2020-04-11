@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-wanna-dance--the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-do-you-wanna-dance-lyrics
 name: Do You Wanna Dance?
 rankings:
 - end_date: '1965-03-05'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
+Do you wanna dance and hold my hand?
+Tell me, baby, I'm your lover man
+Oh baby, do you wanna dance?
 
+
+Do you wanna dance under the moonlight
+Hold me, baby, all through the night
+Oh baby, do you wanna dance?
+Do you, do you, do you, do you wanna dance
+Do you, do you, do you, do you wanna dance
+Do you, do you, do you, do you wanna dance?
+
+
+Do you wanna dance under the moonlight
+Kiss me, baby, all through the night
+Oh baby, do you wanna dance?
+
+
+Do you want to dance under the moonlight
+Squeeze me, squeeze me all through the night
+Oh baby, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+
+
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+
+
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?
+Do you, do you, do you, do you wanna dance?

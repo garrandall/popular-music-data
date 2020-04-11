@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-girl-new-kids-on-the-block
+lyrics_url: https://genius.com/New-kids-on-the-block-please-dont-go-girl-lyrics
 name: Please Don't Go Girl
 rankings:
 - end_date: '1988-07-01'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
+We’ve been together for a long time, baby
+Do you have to leave?
+(Please don’t go, girl)
+I just can’t live without you
+(Please) So listen to me (don’t go, girl)
+Don’t go girl
 
+
+Please, don’t go, girl
+It would ruin my whole world
+Tell me you’ll stay
+Never ever go away
+
+
+I love you (I love you)
+I guess I always will
+Girl, you’re my best friend
+Girl, you’re my love within
+I just want you to know that I will always love you
+Ooh, baby, ooh
+Tell me you’ll stay
+Never ever go away
+
+
+I need you (I need you)
+I guess I always will
+Girl, you’re my best friend
+Girl, you’re my love within
+I just want you to know that I will always love you
+Ooh, baby
+(Please don’t go, girl)
+I’m gonna always love you, girl
+
+
+I’m gonna love you, girl
+Until the end of time
+Tell me girl (Tell me, girl)
+You’re gonna always be mine
+
+
+Please don’t go, girl
+You would ruin my whole world
+Tell me you’ll stay
+Never, ever go away
+
+
+I love you (I love you)
+I guess I always will
+Girl, you’re my best friend
+Girl, you’re my love within
+I just want you to know that I will always love you
+Ooh, baby (Please don’t go, girl)
+Please don’t go, girl (Please don’t go, girl)
+Please don’t go, girl (Please don’t go, baby)
+Please don’t go, girl (Please don’t go, girl)
+Please don’t go, girl (Please don’t go, darlin’)
+Please don’t go, girl (Please don’t go, baby, no, no)
+Please don’t go, girl (Please don’t go, girl)

@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: can-t-hide-love-earth-wind-fire
+lyrics_url: https://genius.com/Earth-wind-and-fire-cant-hide-love-lyrics
 name: Can't Hide Love
 rankings:
 - end_date: '1976-04-02'
@@ -45,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+You want my love and you can't deny
+You know it's true, but you try to hide, yeah
+You turn down love like it's really bad, ow
+You can't give what you never had, yeah
+Well, bless your soul, you can fool a few, ha ha
+I know the truth now so do you, how how
 
+You can't hide, I betcha, hoo
+Betcha (Betcha)
+Can't hide love, can't hide love
+Well I betcha (girl, I betcha)
+I can't hide, yeah (feel inside)
+
+You can't pretend there's nothing there
+Girl, I look in your eyes, I see you care
+So why not stop trying to run and hide
+You won't find out, if you never try
+
+(You want my love, I betcha)
+Ooooo, yeah, whoa, oh, whoa
+(Hoo, betcha)
+
+You want my love
+Well, I betcha (girl, I betcha)
+Whoa, oh, whoa, I've a feeling inside
+(Feel inside)
+
+Love has found the time for kissing, yeah
+Can you find the time to listen
+Life's found the time to want you, yeah
+Can you find the time for blissing, yeah, how, how

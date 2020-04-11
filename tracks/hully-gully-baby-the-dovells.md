@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hully-gully-baby-the-dovells
+lyrics_url: https://genius.com/The-dovells-hully-gully-baby-lyrics
 name: Hully Gully Baby
 rankings:
 - end_date: '1962-08-17'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
 ---
-
+The Dovells
+Miscellaneous
+Hully Gully Baby
+HULLY GULLY BABY
+The Dovells
+I went down to Miami
+I met a girl named Sammy
+The moon was bright
+The time was right
+I said, a hey girl, I love you
+What ja wanna do
+An' she said a hully gully, baby
+Hully gully baby
+All I wanna do with you
+Is a hully gully baby
+We said goodbye to Mammy
+Hit ev'ry joint in Miami
+We danced all night
+Till dawn's early light
+I said, a hey girl, I love you
+What ja wanna do
+An' she said a hully gully baby

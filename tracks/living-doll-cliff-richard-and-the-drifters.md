@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-doll-cliff-richard-and-the-drifters
+lyrics_url: https://genius.com/Cliff-richard-and-the-drifters-living-doll-lyrics
 name: Living Doll
 rankings:
 - end_date: '1959-10-04'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
+Got myself a cryin', talkin'
+Sleepin', walkin', livin' doll
+Gotta do my best to please her
+Just 'cos she's a livin' doll
 
+Got a rovin' eye
+And that is why, she satisfies my soul
+Got the one and only, walkin', talkin', livin' doll
+
+Take a look at her hair, it's real
+And if you don't believe what I say, just feel
+I'm gonna lock her up in a trunk
+So, no big hunk can steal her away from me
+
+Got myself a cryin', talkin'
+Sleepin', walkin', livin' doll
+Gotta do my best to please her
+Just 'cos she's a livin' doll
+
+Got a rovin' eye
+And that is why she satisfies my soul
+Got the one and only, walkin', talkin', livin' doll
+
+Take a look at her hair, it's real
+And if you don't believe what I say, just feel
+I'm gonna lock her up in a trunk
+So no big hunk can steal her away from me
+
+Got myself a cryin', talkin'
+Sleepin', walkin', livin' doll
+Gotta do my best to please her
+Just 'cos she's a livin' doll
+
+Got a rovin' eye
+And that is why, she satisfies my soul
+Got the one and only, walkin', talkin', livin' doll

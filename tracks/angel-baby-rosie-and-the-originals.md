@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-baby-rosie-and-the-originals
+lyrics_url: https://genius.com/Rosie-and-the-originals-angel-baby-lyrics
 name: Angel Baby
 rankings:
 - end_date: '1960-12-18'
@@ -59,4 +60,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
 ---
+It's just like heaven
+Being here with you
+You're like an Angel
+Too good to be true
 
+But after all
+I love you, I do
+Angel Baby
+My Angel Baby
+
+When you are near me
+My heart skips a beat
+I can hardly stand on
+My own two feet
+
+Because I love you
+I love you, I do
+Angel Baby
+My Angel baby
+
+Whoo who, I love you
+Whoo, I do
+No one could love you
+Like, I do
+
+Wooo Whooo whoo whoo whoo
+Woo Whooo Whoo
+
+Please never leave me
+Blue and alone
+If you ever go
+I'm sure you'll come back home
+
+Because I love you
+I love you, I do
+Angel baby
+My Angel baby
+
+It's just like heaven
+Being with you, dear
+I could never stay
+Away without you near
+
+Because I love you
+I love you, I do
+Angel Baby
+My Angel baby
+
+Wooohoo I love you
+Whooohoo I do
+No one could love you
+Like I do
+
+Woooo whooo whooo
+Woooooo whoo whoo

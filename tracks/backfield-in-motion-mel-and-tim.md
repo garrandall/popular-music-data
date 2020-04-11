@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: backfield-in-motion-mel-and-tim
+lyrics_url: https://genius.com/Mel-and-tim-backfield-in-motion-lyrics
 name: Backfield In Motion
 rankings:
 - end_date: '1969-10-24'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
 ---
+Backfield in motion, yeah
+I'm gonna have to penalize you
+Backfield in motion, baby
+You know that's against the rules
+Offsides and holdin', yeah
+You ought a be ashamed of yourself baby
+Offsides and holdin' yeah
+Holdin' on to some one else
+You know you're cheatin' baby
+Fakin' the bout
+You know you're balking, baby
+(oh yeah) strike three you're out
 
+And I caught you with
+Backfield in motion, yeah
+I'm gonna have to penalize you
+Backfield in motion, baby
+You know that's against the rules
+
+First down you start cheatin' on me
+Second down, I was too blind to see
+Third down, you know I love you so
+Fourth down, baby I got to let you go
+'Cause I caught you with your
+Backfield in motion, yeah
+I'm gonna have to penalize you
+Backfield in motion, baby
+You know that's against the rules
+Now you will see, ah yeah, just how I felt
+You beat me to the punch honey
+But you hit me below the belt
+
+And I caught you with your
+Backfield in motion, yeah
+I'm gonna have to penalize you
+Backfield in motion, baby
+You know that's against the rules
+Backfield in motion, backfield in motion...
+Backfield in motion, backfield in motion...
+
+FADE

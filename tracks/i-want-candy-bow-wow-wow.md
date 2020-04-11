@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-candy-bow-wow-wow
+lyrics_url: https://genius.com/Bow-wow-wow-i-want-candy-lyrics
 name: I Want Candy
 rankings:
 - end_date: '1982-06-04'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+I know a guy who's tough but sweet
+He's so fine, he can't be beat
+He's got everything that I desire
+Sets the summer sun on fire
 
+I want candy
+I want candy
+
+Go to see him when the sun goes down
+Ain't no finer boy in town
+You're my guy, you're what the doctor ordered
+So sweet, you make my mouth water
+
+I want candy
+I want candy
+Yeah!
+
+Candy on the beach, there's nothing better
+But I like candy when it's wrapped in a sweater
+Some day soon I'll make you mine
+Then I'll have candy all the time
+
+I want candy
+I want candy
+
+I want candy
+I want candy
+
+Hey! Hey! Hey! Hey! Hey!

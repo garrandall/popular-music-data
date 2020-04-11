@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-i-won-t-be-there-adam-wade
+lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/Tonight-I-Won-t-Be-There
 name: Tonight I Won't Be There
 rankings:
 - end_date: '1961-09-24'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+Don't look for me to be waiting
+At the booth we always shared
+Don't look for me to walk in the door
+Tonight, I won't be there
 
+You can dance and flirt all you want to
+You can smile at guys who stare
+You've teased my heart
+Just once too often
+Tonight, I won't be there
+
+I'm tired of playing fool to you
+The way you make me do
+And I'm convinced there's just no sense
+In wasting time on you
+
+It's too late to say that you're sorry
+You can cry but I don't care
+Your tears can fall
+On some other shoulder
+Tonight, I won't be there
+
+Your tears can fall
+On some other shoulder
+Tonight, I won't be there

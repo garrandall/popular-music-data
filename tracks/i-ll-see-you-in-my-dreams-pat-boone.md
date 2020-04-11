@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-see-you-in-my-dreams-pat-boone
+lyrics_url: https://genius.com/Pat-boone-ill-see-you-in-my-dreams-lyrics
 name: I'll See You In My Dreams
 rankings:
 - end_date: '1962-02-02'
@@ -43,4 +44,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
+I'll se you in my dreams
+And I'll hold you in my dreams
 
+Someone took you right out of my arms
+Still I feel the thrill of your charms
+Lips that once were mine
+Tender eyes that shine
+They will light my way tonight
+I'll se you in my dreams
+
+Oh, someone took you right out of my arms
+Still I feel the thrill of your charms
+Lips that once were mine
+Tender eyes that shine
+They will light my way tonight
+I'll se you in my dreams

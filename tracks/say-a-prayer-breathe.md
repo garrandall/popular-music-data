@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-a-prayer-breathe
+lyrics_url: https://www.musixmatch.com/lyrics/Breathe/Say-a-Prayer
 name: Say A Prayer
 rankings:
 - end_date: '1990-08-31'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
 ---
+Whoa, whoa, whoa, whoa
 
+Sweet sugar
+Pumping through my veins
+Every nerve is on a wire
+Sweet sugar
+You say it's just a game
+Soon to be your one desire
+
+When the devil holds your hand
+Then you know he's
+In command of temptation
+Like the beauty of a rose
+Or a summer that will go
+Where's salvation
+
+Say a little prayer
+Say a little prayer for me
+Say a little prayer
+Say a little prayer for me
+
+Sweet sugar
+Your world just tumbles down
+How you hunger for illusion
+Sweet sugar will
+Take more than you own
+All you have is your confusion
+
+You'll be standing in the rain
+You'll be crying out in shame
+For mercy, yeah
+
+So you turn to every man
+Say you need a helping hand
+Don't desert me, no, no
+
+Say a little prayer
+Say a little prayer for me
+Say a little prayer
+Say a little prayer for me
+
+Say a little prayer
+Say a little prayer for me
+
+I don't know what
+I've done with my life
+I don't want to think
+Of all this wasted time
+
+I was in search of paradise
+Yet this seems a
+Heavy price to pay, yeah
+
+Say a little prayer
+Say a little prayer for me
+(Won't you say a prayer)
+Say a little prayer
+Say a little prayer for me
+(No, no)

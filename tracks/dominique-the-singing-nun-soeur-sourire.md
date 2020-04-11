@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dominique-the-singing-nun-soeur-sourire
+lyrics_url: https://www.musixmatch.com/lyrics/The-Singing-Nun-Soeur-Sourire/Dominique
 name: Dominique
 rankings:
 - end_date: '1963-11-15'
@@ -59,4 +60,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
+Dominic
 
+Dominic, Nic, Nic
+Nic, goes along very simply
+Travelling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+In the age when John Lackland
+Was the king of England,
+Our father, Dominix
+Fought the Albigensians.
+
+Dominic, Nic, Nic
+Goes along very simply
+Travelling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+One day a heretic
+Led him through the brambles,
+But our father, Dominic
+By his own joy, converted him.
+
+Dominic, Nic, Nic
+Goes along very simply
+Travelling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+Without a camel or a coach,
+He travelled Europe on foot,
+Scandinavia and Provence,
+In saintly poverty.
+
+Dominic, Nic, Nic
+Goes along very simply
+Traveling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+He enflamed with ardor
+Boys and girls of every school,
+And by sowing the Word
+He founded the Brother Preachers.
+
+Dominic, Nic, Nic
+Goes along very simply
+Traveling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+In the home of Dominic and his brothers,
+Bread started becoming scarce,
+And two angels presented themselves,
+Bearing two great golden loaves.
+
+Dominic, Nic, Nic
+Goes along very simply
+Traveling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+Dominic saw in a dream
+The preachers of the whole world
+Under the mantle of the Virgin
+In great number assembled.
+
+Dominic, Nic, Nic
+Goes along very simply
+Travelling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.
+
+Dominic, my good Father,
+Keep us simple and happy
+By announcing to our brothers
+The Way and the Truth.
+
+Dominic, Nic, Nic
+Goes along very simply
+Travelling in poverty and singing.
+On every road, in every place,
+He just talks about the Lord,
+He just talks about the Lord.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lies-emf
+lyrics_url: https://genius.com/Emf-lies-lyrics
 name: Lies
 rankings:
 - end_date: '1991-10-04'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
 ---
+You said too much
+And what you said it was a lie
+You said too much
+And what you said it was a crime
+I've bled too much
+With every lie you keep on telling
+I've bled too much
+This time, each time
 
+
+The harder we fall, the closer we are
+I don't feel blue, when I'm with you
+You said too much
+And what you said, it was a lie
+Lie
+And what you said, it was a lie
+
+
+Each time we fall
+You say too much
+This time, each time
+
+This time I don't feel so blue
+When I'm with you
+
+
+I've got a gun, got hollow point bullets
+Do it
+That's the way destiny works
+You don't always question it
+Right now, do it now

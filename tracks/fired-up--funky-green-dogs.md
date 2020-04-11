@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fired-up--funky-green-dogs
+lyrics_url: https://genius.com/Funky-green-dogs-fired-up-lyrics
 name: Fired Up!
 rankings:
 - end_date: '1997-02-14'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
 ---
+You got me fired up, fired up
+You got me so
+You got me fired up, fired up
+You got me so
+You got me fired up, fired up
+You got me so
 
+When i see you, make me lose all control
+Like a fire burning deep in my soul, yeah
+And when i feel you it feels like i'm in heaven
+It goes on forever like a dime on a roll
+And when i hear you calling it's like heaven
+I'll wait here forever till i'm out of the cold, yeah
+And when i hear you calling i'm in heaven
+We'll be there together, no i won't be alone
+
+You got me fired up, fired up
+You got me so
+You got me fired up, fired up
+You got me so
+You got me fired up, fired up
+You got me so
+You got me fired up, fired

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: star-baby-the-guess-who
+lyrics_url: https://genius.com/The-guess-who-star-baby-lyrics
 name: Star Baby
 rankings:
 - end_date: '1974-02-22'
@@ -83,4 +84,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
 ---
+Well I never been much for admitting things
+That's why it's all so hard to say
+That I'm head over heels in love with your kind of insanity
+And if it please Your Highness on a sunny day sometime
+Can I take your picture in the park with silk and satin on?
 
+
+Star Baby, flashy little shiny little two-timin' mama
+Star Baby, shiny little flashy little lovin' machine
+
+
+I never been much good at keepin' a secret
+Now it's easy for me to say
+That I'm head over heels shook up
+About the way that you fool with me
+And if it please Your Highness on a sunny day sometime
+Can you take me ridin' babe, I'll tell you what I'm thinkin' 'bout you
+
+
+
+
+Well I saw you last night on a Hollywood show
+And now it's easy for me to say
+That I'm head over heels shook up
+About the way that you sang to me
+And if it please Your Highness on a sunny day sometime
+Can you take me drivin' baby, kissin' in your Cadillac

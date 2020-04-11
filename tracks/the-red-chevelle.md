@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-red-chevelle
+lyrics_url: https://genius.com/Chevelle-the-red-lyrics
 name: The Red
 rankings:
 - end_date: '2002-12-06'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
 ---
+They say 'Freak'
+When you're singled out
+The red
+Well, it filters through
 
+
+So lay down, the threat is real
+When his sight goes red again
+
+
+Seeing red again
+Seeing red again
+
+
+This change
+He won't contain
+Slip away
+To clear your mind
+
+
+When asked
+Who made it show
+The truth
+He gives in to most
+
+
+So lay down, the threat is real
+When his sight goes red again
+
+
+
+
+So lay down, the threat is real
+When his sight goes red again
+
+[Bridge 2)
+Seeing red again, seeing red again
+Seeing red again, seeing red again
+Seeing red again, seeing red again
+Seeing red again, seeing red!
+
+
+They say 'Freak'
+When you're singled out
+The red
+It filters through

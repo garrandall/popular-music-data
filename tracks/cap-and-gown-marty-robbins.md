@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cap-and-gown-marty-robbins
+lyrics_url: https://www.musixmatch.com/lyrics/Marty-Robbins/Cap-and-Gown
 name: Cap And Gown
 rankings:
 - end_date: '1959-06-21'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
 ---
+Cap and gown...
+You'll be so pretty in your cap and gown.
+But I'd imagine it's a wedding gown,
+On our graduation day.
 
+On your head,
+You're gonna wear a graduation ring.
+But I'd imagine it's a wedding ring,
+On our graduation day.
+
+When they sing,
+The alma mater,
+I will sing along,
+But a voice deep down inside me,
+Will sing the wedding song.
+
+I love you,
+And if my graduation wish comes true,
+What I imagine you'd imagine too,
+On our graduation day.
+
+When they sing,
+The alma mater,
+I will sing along,
+But a voice deep down inside me,
+Will sing the wedding song.
+
+I love you,
+And if my graduation wish comes true,
+What I imagine you'd imagine too,
+On our graduation day.

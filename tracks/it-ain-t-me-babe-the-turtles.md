@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-ain-t-me-babe-the-turtles
+lyrics_url: https://genius.com/The-turtles-it-aint-me-babe-lyrics
 name: It Ain't Me Babe
 rankings:
 - end_date: '1965-08-13'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
 ---
+Go away from my window
+Leave at your own chosen speed
+I'm not the one you want, babe
+I'm not the one you need
 
+You say you're lookin' for someone
+Who's never weak but always strong
+To protect you and defend you
+Whether you are right or wrong
+Someone to open each and every door
+
+But it ain't me, babe
+A-no, no, no it ain't me, babe
+Well it ain't me you're lookin' for, babe
+
+Go lightly from the ledge, babe
+Go lightly on the ground
+I'm not the one you want, babe
+I'll only lead you down
+
+You say you're lookin' for someone
+Who'll promise never to part
+Someone to close his eyes to you
+Someone to close his heart
+Someone who will die for you and more
+
+But it ain't me, babe
+A-no, no, no it ain't me, babe
+Well it ain't me you're lookin' for, babe
+No it ain't me you're lookin' for, babe
+
+I said a-no, no, no, it ain't me, babe
+I said a-no, no, no, it ain't me, babe
+I said a-no, no, no, it ain't me, babe
+I said a-no, no, no, it ain't me, babe
+I said a-no, no, no, it ain't me, babe

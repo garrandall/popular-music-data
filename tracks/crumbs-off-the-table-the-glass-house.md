@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crumbs-off-the-table-the-glass-house
+lyrics_url: https://genius.com/Glass-house-crumbs-off-the-table-lyrics
 name: Crumbs Off The Table
 rankings:
 - end_date: '1969-10-24'
@@ -43,4 +44,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
 ---
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
 
+I seen you 'round
+For a long long time
+I really 'membered you
+When you drink my wine
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+I seen you walkin'
+Down in Chinatown
+I called you but you
+Could not look around
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+I bring my money
+To the welfare line
+I see you standing
+In it every time
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+The color of your skin
+Don't matter to me
+As long as we can
+Live in harmony
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+I'd kinda like
+To be the President
+So I can show you
+How your money's spent
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+Sometimes, I don't
+Speak too bright
+But yet I know
+What I'm talking about
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+I know you're working
+For the CIA
+They wouldn't have you
+In the Mafia
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?
+
+Why can't we be friends?
+Why can't we be friends?
+Why can't we be friends?

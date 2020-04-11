@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-it-a-sad-thing-r--dean-taylor
+lyrics_url: https://genius.com/R-dean-taylor-aint-it-a-sad-thing-lyrics
 name: Ain't It A Sad Thing
 rankings:
 - end_date: '1971-02-19'
@@ -27,4 +28,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
 ---
+Big brown tin can
+Lying in the black sand
+We used to lie there and watch the day
+Now the leaves have all turned to grey
 
+Down by the river where the river don't flow
+We can't go there no more
+Down by the river where the river don't flow
+The birds don't sing, ain't it a sad thing
+
+Little child upon my knee
+Holds a picture of a tree
+Tears in his eyes say where'd they all go
+The tears in mine say I really don't know
+
+Down by the river where the river don't flow
+We can't go there no more
+Down by the river where the river don't flow
+The birds don't sing, ain't it a sad thing
+
+Listen to the wind blowing over the land
+Listen to the reasons that you don't understand
+Reach out and take my hand and we'll run, run, run, run
+
+(Whistling)
+
+Down by the river where the river don't flow
+We can't go there no more
+Down by the river where the river don't flow
+The birds don't sing, ain't it a sad thing
+
+Cities eating up the land
+Progress eating up the planet
+The writing's in the slime on the sewer wall
+You better look see or we're all gonna fall
+
+Down by the river where the river don't flow
+We can't go there no more
+Down by the river where the river don't flow
+The birds don't sing, ain't it a sad thing
+
+(Whistle to fade)

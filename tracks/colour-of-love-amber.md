@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: colour-of-love-amber
+lyrics_url: https://genius.com/Amber-colour-of-love-lyrics
 name: Colour Of Love
 rankings:
 - end_date: '1997-01-24'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
+Whoa, Whoa
+Whoa, Whoa
 
+Chorus:
+Show me the color of love
+Some how it seems like a sign from above
+Get closer
+Love is all we need
+The color of love
+
+I have been watching you all night
+And I know you can feel it too
+I'm trembling inside
+I Love You
+Whoa, Whoa
+Back in time we met
+Those days we had I will never forget
+Whoa, Whoa
+I can't do without you
+A love so true
+Whoa, Whoa
+
+Chorus
+
+To know that love you've given me
+I'll be there if you feel the same
+Your the one I see
+Theres no shame
+Whoa, Whoa
+Back in time we met
+Those days we had I will never forget
+Whoa, Whoa
+I can't do without you
+A love so true
+Whoa, Whoa
+
+Chorus
+
+Whoa, Whoa
+Back in time we met
+Those days we had I will never forget
+Whoa, Whoa
+I can't do without you
+A love so true
+Whoa, Whoa
+
+Chorus

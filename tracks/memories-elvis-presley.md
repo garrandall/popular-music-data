@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: memories-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-memories-lyrics
 name: Memories
 rankings:
 - end_date: '1969-03-28'
@@ -35,4 +36,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+Memories, pressed between the pages of my mind
+Memories, sweetened through the ages just like wine
 
+
+Quiet thoughts come floating down
+And settle softly to the ground
+Like golden autumn leaves around my feet
+I touched them and they burst apart with sweet memories
+Sweet memories
+
+
+Of holding hands and red bouquets
+And twilights trimmed in purple haze
+And laughing eyes and simple ways
+And quiet nights and gentle days, with you
+
+
+Memories, pressed between the pages of my mind
+Memories, sweetened through the ages just like wine
+Memories, memories
+
+
+Of holding hands and red bouquets
+And twilight trimmed in purple haze
+And laughing eyes and simple ways
+And quiet nights and gentle days, with you
+
+
+Memories, pressed between the pages of my mind
+Memories, sweetened through the ages just like wine
+Memories, memories, sweet memories
+Memories

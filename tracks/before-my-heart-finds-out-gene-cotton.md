@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: before-my-heart-finds-out-gene-cotton
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-Cotton/Before-My-Heart-Finds-Out
 name: Before My Heart Finds Out
 rankings:
 - end_date: '1978-02-10'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
+Well, you woke me from a dream about you
+Just to say that you were leaving
+I'm sleepy but I thought that you said
+Our love that will last forever is endin'
+Well before you walk out of my life
+Would you be especially quiet
+And don't you let my heart know that you're leavin'
+Don't you say another word about it darlin'
+Don't you let my heart hear your footsteps walkin' out
+The door of my hopes and dreams
+And don't you let my heart know that you're leavin'
+Don't you say another word about it darlin'
+Leave me now before my heart finds out
 
+Well, I see you writing something down
+And leavin' it on the dresser
+And the tears in your eyes look a lot like mine
+But I guess it's all for the better
+Well before we say our last goodbye
+Baby won't you hold me just one more time
+And don't you let my heart know that you're leavin'
+Don't you say another word about it darlin'
+Don't you let my heart hear your footsteps walkin' out
+The door of my hopes and dreams
+And don't you let my heart know that you're leavin'
+Don't you say another word about it darlin'
+Leave me now before my heart finds out
+Leave me now before my heart finds out

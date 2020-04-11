@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-heartache-goodbye-love-little-peggy-march
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Peggy-March/Hello-Heartache-Goodbye-Love
 name: Hello Heartache Goodbye Love
 rankings:
 - end_date: '1963-09-13'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
 ---
+Hello heartache
+Goodbye love
+Goodbye love
+Goodbye love
 
+Love him
+How much do I love him?
+So much
+He will never know
+New love
+He has found a new love
+I know I must let him go
+There they go is their happiness
+Here I go in my loneliness
+
+Hello heartache
+Goodbye love
+Goodbye love
+Goodbye love
+
+Love him
+Will she really love him?
+Deeply
+Half as much as I
+Always
+Will she love him all ways
+I will till the day I die.

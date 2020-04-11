@@ -1,6 +1,6 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: everything-your-heart-desires-daryl-hall-john-oates

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-you-the-jets
+lyrics_url: https://genius.com/The-jets-group-i-do-you-lyrics
 name: I Do You
 rankings:
 - end_date: '1987-10-23'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+No one ever told me
+A heart could ache as bad as mine
+Boy, gotta tell ya
+I thought that it would take my time
 
+I thank you for the care
+Now I know you're there for me
+I tell you what I've found
+Now you've come around for me
+
+
+Hey, if anybody loves you
+Ooh, baby
+I do you
+
+If anybody loves you
+Ooh, baby
+I do you
+
+
+I may be sentimental
+To fall for you again this way
+But maybe you know better and
+This time you're gonna stay
+
+I thank you for the care
+Now I know you're there for me, yeah
+I tell you what I've found
+Now you've come around for me
+
+
+
+
+My heart
+Take my heart from nothing
+Turn it into something
+You know I love you
+
+Yeah, yeah
+Yeah, yeah, yeah
+Ah, yeah, yeah
+Yeah
+
+I thank you for the care
+Now I know you're there for me
+I tell you what I've found
+Now you've come around for me
+
+
+
+Hey
+Anybody loves you
+Anybody loves you
+Ooh, baby

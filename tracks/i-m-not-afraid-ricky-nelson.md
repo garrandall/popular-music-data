@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-not-afraid-ricky-nelson
+lyrics_url: https://genius.com/Ricky-nelson-im-not-afraid-lyrics
 name: I'm Not Afraid
 rankings:
 - end_date: '1960-09-11'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
 ---
+Love, they say, is serious
+It's not a child's game
+It can make or break your heart
+But darling, all the same
 
+I'm not afraid
+No I'm not afraid
+
+People tell me I'm too young
+But I disagree
+Love can come to anyone
+And love has come to me
+I'm not afraid
+
+I'm not afraid as long as I know
+That you'll always be with me
+And as each tender kiss gets bold enough
+Somehow I feel I'm old enough
+
+Darling if you really care
+And I'm sure you do
+Take my hand and hold me tight
+And make my dreams come true
+
+I'm not afraid
+No I'm not afraid
+No I'm not afraid

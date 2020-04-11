@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-will-be-loved-maroon-5
+lyrics_url: https://genius.com/Maroon-5-she-will-be-loved-lyrics
 name: She Will Be Loved
 rankings:
 - end_date: '2004-07-30'
@@ -171,4 +172,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
 ---
+Beauty queen of only eighteen
+She had some trouble with herself
+He was always there to help her
+She always belonged to someone else
+I drove for miles and miles
+And wound up at your door
+I've had you so many times
+But somehow, I want more
 
+
+I don't mind spending every day
+Out on your corner in the pouring rain
+Look for the girl with the broken smile
+Ask her if she wants to stay a while
+And she will be loved
+And she will be loved
+
+
+Tap on my window, knock on my door
+I want to make you feel beautiful
+I know I tend to get so insecure
+Doesn't matter anymore
+It's not always rainbows and butterflies
+It's compromise that moves us along, yeah
+My heart is full and my door's always open
+You come any time you want, yeah
+
+
+I don't mind spending every day
+Out on your corner in the pouring rain
+Look for the girl with the broken smile
+Ask her if she wants to stay a while
+And she will be loved
+And she will be loved
+And she will be loved
+And she will be loved
+
+
+I know where you hide
+Alone in your car
+Know all of the things that make you who you are
+I know that goodbye means nothing at all
+Comes back and makes me catch her every time she falls, yeah
+Tap on my window, knock on my door
+I want to make you feel beautiful
+
+
+I don't mind spending every day
+Out on your corner in the pouring rain, oh
+Look for the girl with the broken smile
+Ask her if she wants to stay a while
+And she will be loved
+And she will be loved
+And she will be loved
+And she will be loved
+
+
+I don't mind spending every day
+Out on your corner in the pouring rain
+Please don't try so hard to say goodbye

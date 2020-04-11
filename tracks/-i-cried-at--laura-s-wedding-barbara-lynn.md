@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-cried-at--laura-s-wedding-barbara-lynn
+lyrics_url: https://www.musixmatch.com/lyrics/Barbara-Lynn/Laura-s-Wedding
 name: (I Cried at) Laura's Wedding
 rankings:
 - end_date: '1963-08-16'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
 ---
+I cried at Laura's wedding
+I cried but I don't know why
+I should have been happy
+'Cause Laura was happy
+But I felt so bad
+I wanted to die
 
+I cried at Laura's wedding
+My tears were flowing like wine
+It should have been me there
+Instead of she there
+The boy she had married
+Should have been mine
+
+Laura came to me
+And quietly embraced me
+She made sure that I'd catch
+The bride's bouquet
+
+I wondered how she had
+The nerve to even face me
+After taking
+After taking him away
+
+I cried at Laura's wedding
+I cried but I don't know why
+I cried when he kissed her
+My younger sister
+But then weddings
+Always makes me cry

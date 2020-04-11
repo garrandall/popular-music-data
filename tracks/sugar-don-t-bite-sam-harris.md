@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-don-t-bite-sam-harris
+lyrics_url: https://genius.com/Sam-harris-80s-sugar-dont-bite-lyrics
 name: Sugar Don't Bite
 rankings:
 - end_date: '1984-09-21'
@@ -63,4 +64,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+The floors are all made out of wood
+The price is sure worth the admission
+Dreams of the drifters die hard, y'all
+Bodies dance through the dark to submission
 
+Fast feet and Saturday night
+Leave you nowhere to stand
+But nobody here is leaving
+
+Sugar don't bite
+Just take me home with you
+All through the night
+I bet you taste sweeter
+
+Sugar don't bite
+I just want to please you
+Don't make me beg
+Don't make me tease you, no
+
+Sugar don't bite
+You know I'm a bleeder
+Don't make this boy
+Commit a misdemeanor, no
+
+Sugar don't bite
+Just sprinkle it on me
+Do what you can
+Do what you can to me
+
+The beat is agroan and you are
+Pounded into my intentions
+The heat of the dance it hits hard, y'all
+In a trance
+We got no inhibitions
+
+Fast feet and Saturday night
+Leave you nowhere to stand, no
+But nobody here is leaving
+
+Sugar don't bite
+Just take me home with you
+All through the night
+I bet you taste sweeter
+
+Sugar don't bite
+I just want to please you
+Don't make me beg
+Don't make me tease you, no
+
+Sugar don't bite
+You know I'm a bleeder
+Don't make this boy
+Commit a misdemeanor, no
+
+Sugar don't bite
+Just sprinkle it on me
+Do what you can
+Do what you can to me

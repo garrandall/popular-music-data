@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-connect-stacey-q
+lyrics_url: https://genius.com/Stacey-q-we-connect-lyrics
 name: We Connect
 rankings:
 - end_date: '1986-12-19'
@@ -83,4 +84,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
 ---
+We connect
+When we're together it's so perfect
+Boy, you shock me with your wide hot love
+I start to overload, I explode when we connect
 
+
+It's no exaggeration, not imagination
+You're the finest boy around
+Playing with temptation, overnight sensation
+With a boy from the wrong side of town
+
+
+Give me your love and affection
+Dance with me tonight
+Give me all of your attention
+Dancing in love's light
+
+
+We connect
+When we're together it's so perfect
+Boy, you shock me with your wide hot love
+I start to overload, I explode when we connect

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-on-by-dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-walk-on-by-lyrics
 name: Walk On By
 rankings:
 - end_date: '1964-05-01'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
 ---
+If you see me walkin' down the street
+And I start to cry each time we meet
+Walk on by, walk on by
 
+Make believe that you don't see the tears
+Just let me grieve in private cause each time I see you
+I break down and cry
+
+Walk on by, don't stop
+Walk on by, don't stop
+Walk on by
+
+I just can't get over losin' you
+And so if I seem, broken and blue
+Walk on by, walk on by
+
+Foolish pride, that's all that I have left
+So let me hide the tears and the sadness you gave me
+When you said goodbye
+
+Walk on by, don't stop
+Walk on by, don't stop
+Walk on by, don't stop
+Walk on...
+
+Walk on by
+Walk on by
+
+Foolish pride, that's all that I have left
+So let me hide the tears and the sadness you gave me
+When you said goodbye
+
+Walk on by, don't stop
+Walk on by, don't stop
+Now you really gotta go, so walk on by
+
+Baby, leave, you'll never see the tears I cry
+
+Now you really gotta go, so walk on by walk on by
+
+Baby, leave, you'll never see the tears I cry
+
+(Fade)

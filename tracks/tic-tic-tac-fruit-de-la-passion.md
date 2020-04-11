@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tic-tic-tac-fruit-de-la-passion
+lyrics_url: https://www.musixmatch.com/lyrics/Fruit-de-la-Passion/Tic-Tic-Tac
 name: Tic Tic Tac
 rankings:
 - end_date: '1998-02-13'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-28'
 ---
+I hear the birds
+When they're singing
+I hear the sirens
+When they're ringing
+But I can't take my mind off of you
 
+A thousand words, pouring out
+The distance of over there
+Is moving on and out
+You said it'd be alright
+
+How 'bout these notions
+Hmm, they're deep as ocean
+Calling out my name
+Screaming out in vain
+Singing hallelujah
+
+Tell your mother, she don't understand
+Tell your mother, she's not listening
+Why don't you tear my heart
+The chain is made of string
+I roll the dice
+You seal the deal
+That don't matter
+Cause pain will heal
+I will follow you
+Into the dark
+
+How 'bout these notions
+Hmm, they're deep as ocean
+Calling out my name
+Screaming out in vain
+Singing hallelujah
+
+These notions
+Hmm, they're deep as ocean
+Calling out my name
+Screaming out in vain
+Singing hallelujah
+
+Singing hallelujah to you
+Calling out my name
+I'm in the deep end, ocean
+Calling out my name
+Singing hallelujah to you

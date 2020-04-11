@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-is-to-blame-howard-jones
+lyrics_url: https://genius.com/Howard-jones-no-one-is-to-blame-lyrics
 name: No One Is To Blame
 rankings:
 - end_date: '1986-04-18'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
+You can look at the menu
+But you just can't eat
+You can feel the cushions
+But you can't have a seat
 
+You can dip your foot in the pool
+But you can't have a swim
+You can feel the punishment
+But you can't commit the sin
+
+And you want her and she wants you
+We want everyone
+And you want her, and she wants you
+No one, no one, no one ever is to blame
+
+You can build a mansion
+But you just can't live in
+You're the fastest runner
+But you're not allowed to win
+
+Some break the rules
+And let you count the cost
+The insecurity is the thing that won't get lost
+
+And you want her and she wants you
+We want everyone
+And you want her, and she wants you
+No one, no one, no one ever is to blame
+
+You can see the summit
+But you can't reach it
+It's the last piece of the puzzle
+But you just can't make it fit
+
+Doctor says you're cured
+But you still feel the pain
+Aspirations in the clouds
+But your hopes go down the drain
+
+And you want her and she wants you
+We want everyone
+And you want her, and she wants you
+No one, no one, no one ever is to blame
+No one ever is to blame
+No one ever is to blame

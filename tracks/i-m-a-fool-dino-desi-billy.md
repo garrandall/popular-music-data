@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-fool-dino-desi-billy
+lyrics_url: https://genius.com/Dino-desi-and-billy-im-a-fool-lyrics
 name: I'm A Fool
 rankings:
 - end_date: '1965-07-02'
@@ -57,4 +58,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
 ---
+You know where I can be found
+Don't you know I'll be waiting
+By the telephone, girl
 
+While you're out
+Running around, yeah
+I'm sitting home all alone
+
+I'm a fool, just a silly fool
+To be in love with you
+
+You can't be kind to me, girl
+You always treat me bad, girl
+But I can't let you go, I know
+It would only make me sad
+
+I'm a fool, just a silly fool
+To be in love with you
+
+You treat me just like dirt
+You have all the fun
+I stay at home and hurt
+
+Baby, I wish I knew, yeah
+Just how to get you
+Off my mind, girl
+
+To put you down and
+Say we're through, yeah
+I think about you all the time
+
+I'm a fool, just a silly fool
+To be in love with you
+
+Baby, I wish I knew, yeah
+Just how to get you
+Off my mind, girl
+
+To put you down and
+Say we're through, yeah
+I think about you all the time
+
+I'm a fool, just a silly fool
+To be in love with you
+
+I'm a fool, I'm a fool
+I'm a fool, I'm a fool

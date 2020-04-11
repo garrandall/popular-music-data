@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-my-life-the-animals
+lyrics_url: https://genius.com/The-animals-its-my-life-lyrics
 name: It's My Life
 rankings:
 - end_date: '1965-11-12'
@@ -55,4 +56,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
+It's a hard world to get a break in
+All the good things have been taken
+But girl there are ways
+To make certain things pay
+Though I'm dressed in these rags
+I'll wear sable
+Someday
 
+Hear what I say
+I'm gonna ride the serpent
+No more time spent
+Sweatin' rent
+Hear my command
+I'm breakin' loose
+It ain't no use
+Holdin' me down
+Stick around
+
+
+But baby, baby
+Remember, remember
+It's my life and I'll do what I want
+It's my mind and I'll think what I want
+Show me I'm wrong, hurt me sometime
+But, some day, I'll treat you real fine
+
+
+There'll be women and their fortunes
+Who just want to mother orphans
+Are you gonna cry
+When I'm squeezing them dry?
+Taking all I can get
+No regrets
+
+
+When I
+Openly lie (ha)
+And live on their money
+Believe me honey
+That money
+Can you believe?
+I ain't no Saint
+No complaints
+So girl throw out
+Any doubt
+
+
+And baby, baby
+Remember, remember
+It's my life and I'll do what I want
+It's my mind and I'll think what I want
+Show me I'm wrong, hurt me sometime
+But some day, I'll treat you real fine
+
+
+(It's my life and I'll do what I want)
+Don't push me
+(It's my mind and I'll think what I want)
+It's my life
+(It's my life and I'll do what I want)
+And I can do what I want
+(It's my mind and I'll think what I want)
+You can't tell me
+(It's my life and I'll do what I want)
+I'm gonna do what I want
+(It's my mind and I'll think what I want)

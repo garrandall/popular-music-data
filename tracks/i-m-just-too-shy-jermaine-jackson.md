@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-just-too-shy-jermaine-jackson
+lyrics_url: https://genius.com/Jermaine-jackson-im-just-too-shy-lyrics
 name: I'm Just Too Shy
 rankings:
 - end_date: '1981-11-06'
@@ -39,4 +40,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
 ---
+It never fails when I'm with you
+I just freeze up inside
+And you're waiting there with your arms open wide
+My bashful feelin' just won't let me hide
 
+You look as if you're surprised at me
+I know its not the way it's supposed to be
+
+But didn't you know by now
+Girl, I'm just too shy
+Did you know by now
+Girl, I'm just too shy
+
+I love to hold your hand
+Tell you you're mine
+But I just can't seem to make that move or to say those words
+Somethin' inside me just holds me back
+
+I want to save so much fun with you
+I'm lost for words, I just can't begin
+
+Baby, didn't you know it
+Girl, I just don't show it
+But I'm just too shy
+Did you know by now
+Girl, I'm just too shy
+
+Maybe time will bring a change in me
+Loving is you is not as easy as I thought it would be
+Ooh
+
+You look as if you're surprised at me
+
+Didn't you should know by now
+Girl, I'm just too shy
+But did you know by now
+Girl, I'm just too shy
+
+Girl, I want to hug you
+Girl, I want to love you
+But I'm just too shy
+Even wanna kiss you
+Tell you I do miss you
+But I'm just too shy
+
+Ooh, ooh
+Girl, I'm just too shy
+But did you know by now
+Girl, I'm just too shy
+
+Did you know by now
+Girl, I'm just too shy
+Did you know by now
+Girl, I'm just too shy

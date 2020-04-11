@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -til-the-angels
+lyrics_url: https://genius.com/The-angels-aus-til-lyrics
 name: '''Til'
 rankings:
 - end_date: '1961-10-22'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
 ---
+Till the moon deserts the sky
+Till the all the seas run dry
+Till then I'll worship you
 
+Till the tropic sun turns cold
+Till this young world grows old
+My darling, I'll adore you
+
+You are my reason to live
+All I own I would give
+Just to have you adore me, oh, oh, oh
+
+Till the rivers flow upstream
+Till lovers cease to dream
+Till then I'm yours, be mine
+
+You are my reason to live
+All I own I would give
+Just to have you adore me
+
+Till the rivers flow upstream
+Till lovers cease to dream
+Till then I'm yours, be mine

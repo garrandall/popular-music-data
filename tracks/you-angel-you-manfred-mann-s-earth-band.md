@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-angel-you-manfred-mann-s-earth-band
+lyrics_url: https://www.musixmatch.com/lyrics/Manfred-Mann-s-Earth-Band/You-Angel-You
 name: You Angel You
 rankings:
 - end_date: '1979-06-22'
@@ -35,4 +36,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
 ---
+You angel you
+You got me under your wing
+And the way you walk and the way you talk
+Feel I could almost sing
 
+You angel you
+You're as fine as anything's fine
+Though I just walk and I watch you talk
+Your memory's on my mind
+
+Even though I can't sleep at night for trying
+Well, I never did feel this way before
+I never did get up and walk the floor
+If this is love then give me more
+And more, and more, and more, and more
+
+You angel you
+You're as fine as fine can be
+And the way you walk and the way you talk
+Is the way it ought to be
+You angel you
+
+Well, I never did feel this way before
+I never did get up and walk the floor
+If this is love then give me more
+And more, and more, and more, and more
+
+You angel you
+You got me under your wing
+And the way you walk and the way you talk
+Feel I could almost sing
+
+You angel you
+You're as fine as anything's fine
+Though I just walk and I watch you talk
+Your memory's on my mind
+
+Even though I can't sleep at night for trying
+Well, I never did feel this way before
+I never did get up and walk the floor
+If this is love then give me more and more

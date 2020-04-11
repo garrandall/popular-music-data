@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sos-jonas-brothers
+lyrics_url: https://genius.com/Jonas-brothers-sos-lyrics
 name: SOS
 rankings:
 - end_date: '2007-08-31'
@@ -91,4 +92,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
 ---
+Told you I made dinner plans
+For you and me and no one else
+That don't include your crazy friends
+Well, I'm done (I'm done)
+With awkward situations, empty conversations
 
+
+Ooh, this is an S.O.S
+Don't wanna second guess
+This is the bottom line, it's true
+I gave my all for you
+Now my heart's in two
+And I can't find the other half
+It's like I'm walking on broken glass
+Better believe I bled
+It's a call I'll never get
+
+
+So, this is where the story ends
+A conversation on I.M
+Well, I'm done (I'm done)
+With texting sorry for the miscommunication
+
+
+Ooh, this is an S.O.S
+Don't wanna second guess
+This is the bottom line, it's true
+I gave my all for you
+Now my heart's in two
+And I can't find the other half
+It's like I'm walking on broken glass
+Better believe I bled
+It's a call I'll never get
+
+
+Next time I see you
+I'm giving you a high five
+'Cause hugs are overrated, just FYI
+
+
+Ooh, this is an S.O.S
+Don't wanna second guess
+This is the bottom line, it's true
+I gave my all for you
+Now my heart's in two, yeah
+
+
+Ooh, this is an S.O.S
+Don't wanna second guess
+This is the bottom line, it's true
+I gave my all for you
+Now my heart's in two
+And I can't find the other half
+It's like I'm walking on broken glass
+Better believe I bled
+It's a call I'll never get
+
+
+Call I'll never get
+Call I'll never get

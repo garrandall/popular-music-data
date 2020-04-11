@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-does-that-leave-love-george-lamond
+lyrics_url: https://genius.com/George-lamond-where-does-that-leave-love-lyrics
 name: Where Does That Leave Love
 rankings:
 - end_date: '1992-08-14'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
 ---
+Magic fills the air whenever you are near
+I can finally see the mystery of love in your eyes
+Its got me hypnotized
+It made me believe our love was meant to be
+Now some things have changed
+You're mentioning his name
+But I don't want to hear
+That you've let someone new into heart
+It's tearing me apart
+But darling I've just got to know
 
+Chorus:
+Where does that leave love
+Where does that leave us
+What about the promises and dreams that mean so much
+Where does that leave me
+Living without you
+How can I go on when you are telling me we're through
+Darling if its true
+Where does that leave us
+Where does that leave love
+
+Holding back the tears
+Holding back the fears
+That you would really go
+And leave me here to live all alone
+No meaning in my life
+Now all that is left is a dream that's half alive
+I still need you so
+I just can't let you go
+Can't you find in me
+What you have found in somebody new
+After all that we've been through
+If I am about to lose you
+
+Chorus
+Where does that leave you
+You always said that you'd be here
+How could you leave me now
+We got so much more we can share
+
+Chorus

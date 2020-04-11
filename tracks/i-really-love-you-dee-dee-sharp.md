@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-really-love-you-dee-dee-sharp
+lyrics_url: https://genius.com/Dee-dee-sharp-i-really-love-you-lyrics
 name: I Really Love You
 rankings:
 - end_date: '1965-11-12'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
 ---
+(I really love you)
+(Baby baby yes i do)
+(I really love you)
+(Baby baby yes i do)
 
+I can't get used to
+Not having you to
+Take me out on a late
+Sugar, sugar, would ya would ya
+Tell me where I made my mistake
+Because
+
+(I really love you)
+Yes I do
+
+(Baby baby yes i do)
+
+Ain´t no use denying
+I'm doin a lot of crying
+Over you
+Sweetie, sweetie, tell me tell me
+Where did i go wrong
+Because...
+
+(I really love you)
+Yes I do
+
+(Baby baby yes i do)
+(I really love you)
+
+Baby baby
+Oh yes I do
+
+(Baby baby yes i do)
+
+I really miss you
+Since you been gone
+We had a love
+Oh so strong
+Why won't you come on back?
+Why won't you come on back?
+Come on back?
+Where you belong
+Because...

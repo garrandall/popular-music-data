@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-other-love-connie-francis
+lyrics_url: https://genius.com/Connie-francis-your-other-love-lyrics
 name: Your Other Love
 rankings:
 - end_date: '1963-10-25'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
+Your other love
+Says she will be
+Yours faithfully
+But she'll deceive you
+She'll leave you
+And break your hea-art
 
+I offer you
+Love that is true
+Darling, you'll find
+This love of mine
+Is deeper and stronger than your other love
+
+She wants to play
+Just for today
+I will be yours
+Forever more
+I'll love you so much more than your other love
+
+Your other love
+Your other love
+Your other love
+
+Fade
+Your other love

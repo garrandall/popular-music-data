@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-red-rented-rowboat-joe-dowell
+lyrics_url: https://genius.com/Joe-dowell-little-red-rented-rowboat-lyrics
 name: Little Red Rented Rowboat
 rankings:
 - end_date: '1962-06-29'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
 ---
+Little red rented rowboat little red rented rowboat
+Not much better than no boat
+But at least it will go when I row row row at least it will go when I row
 
+I saw two pretty girls sunbathing on a pier
+They wore jeans way down to here
+I waved, they waved, they said they'd like a ride
+So I helped them climb inside to share my
+
+
+(Row row row row row)
+Along came a sailboat big enough for two
+The skipper saw the girls I knew what he would do
+He waved, and they waved, then he helped them inside
+Just one girl to ride there in my
+
+
+(Row row row row row)
+Hot-rod motorboat roared up behind
+The girl took a look and I could read her mind
+She waved, and he waved, he helped her climb inside
+Leaving me with wounded pride
+(Row row row row row)
+One hour later I saw them again
+Motorboat out of gas, sailboat out of wind
+The girls waved, and I waved, and then I passed them by
+With my nose held way up high me and my
+
+
+
+Row, row, row your boat

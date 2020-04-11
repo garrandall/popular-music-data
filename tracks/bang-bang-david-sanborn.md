@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-bang-david-sanborn
+lyrics_url: https://genius.com/David-sanborn-bang-bang-lyrics
 name: Bang Bang
 rankings:
 - end_date: '1992-09-04'
@@ -51,4 +52,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-persuaded-david-houston
+lyrics_url: https://genius.com/David-houston-almost-persuaded-lyrics
 name: Almost Persuaded
 rankings:
 - end_date: '1966-07-22'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+Last night all alone in a barroom
+Met a girl with a drink in her hand
+She had ruby red lips, coal black hair
+And eyes that would tempt any man
 
+Then she came and sat down at my table
+And as she placed her soft hands in mine
+I found myself wanting to kiss her
+For temptation was flowing like wine
+
+And I was almost persuaded
+To strip myself of my pride
+Almost persuaded
+To push my conscience aside
+
+Then we danced and she whispered, "I need you"
+"Take me away from here and be my man"
+Then I've looked into her eyes and I saw it
+The reflection of my wedding band
+
+And I was almost persuaded
+To let strange lips lead me on
+Almost persuaded
+But your sweet love made me stop and go home

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: someone-who-cares-kenny-rogers-the-first-edition
+lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers-feat-The-First-Edition-3/Someone-Who-Cares-From-Fools-Soundtrack
 name: Someone Who Cares
 rankings:
 - end_date: '1971-04-02'
@@ -36,4 +37,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
 ---
-
+Someone who cares
+Someone who dares to love you
+Someone who thinks enough of you
+To always be willing to share
+Someone who gives
+Someone who lives inside you
+Someone who'll be strong beside you
+Through all the days that you live
+I've made up my mind that you're gonna love me
+I've made in my heart a soft place for you
+Come lie with me Anais
+Sleep or the morning's here
+Someone who dreams
+Of being in your mind tomorrow
+Sharing your joys and your sorrow
+Helping you see what it means
+To be loved

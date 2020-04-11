@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-you-dorothy-moore
+lyrics_url: https://genius.com/Dorothy-moore-i-believe-you-lyrics
 name: I Believe You
 rankings:
 - end_date: '1977-08-12'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+I believe you
 
+I believe you when you say that you will reach into the sky
+And steal a star so you can put it on my finger
+I believe you
+Oo woo baby, I believe you
+
+I believe you when you tell me every
+Time that we make love will be
+The first time we've made love
+And every act of love will please you
+Oo woo baby, I believe
+
+Blind faith makes me follow you
+I'd live in a cave if you wanted to
+Just ask me and I'll marry you
+You don't have to sell me
+Cause you overwhelm me
+I've made up my mind
+For a life time
+
+I believe you when you say
+You'll fill my body with your soul
+And love will grow into a brown-eyed
+Little girl who looks like we do
+Oo woo baby, I believe you
+
+I believe you when you say
+You'll fill my body with your soul
+And love will grow into a brown-eyed
+Little girl who looks like we do
+Oo woo baby, I believe you
+
+I believe you when you swear your love
+Will keep on growin' strong
+And that forever isn't long enough to
+Love me like you need to
+Oo woo baby, I believe you
+Oo woo baby, I believe you
+Oo woo honey, I love you

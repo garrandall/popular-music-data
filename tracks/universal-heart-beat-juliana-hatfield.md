@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: universal-heart-beat-juliana-hatfield
+lyrics_url: https://www.musixmatch.com/lyrics/Juliana-Hatfield/Universal-Heart-Beat
 name: Universal Heart-Beat
 rankings:
 - end_date: '1995-04-28'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
 ---
+Beauty can be sad; you're proof of that
+When the damage is done, you're damaged goods
+That's not to say it's not okay
+I wouldn't have it any other way
 
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+
+Sweet, sweet pain comes with the sun
+Lie down and soak it up, burn off layers of insulators
+Exposed nose to the cold, I'm bleeding pretty colors
+Yeah, all over myself
+
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+
+Black wave comes to take me away
+I ride it almost to the grave
+Landing on a crowded shore, high-fiving
+What a trip; I'm better for it
+I feel a live sensation
+
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works
+A heart, a heart that hurts, is a heart, a heart that works

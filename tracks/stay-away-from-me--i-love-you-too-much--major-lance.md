@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-away-from-me--i-love-you-too-much--major-lance
+lyrics_url: https://genius.com/Major-lance-stay-away-from-me-i-love-you-too-much-lyrics
 name: Stay Away From Me (I Love You Too Much)
 rankings:
 - end_date: '1970-08-28'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
 ---
-
+Stay away from me
+I love you too much
+Stay away from me
+I love you too much
+You seem to get in my bones
+Until I can't control myself
+I find that all my
+Systems are gone
+When you do it to me
+I'd leave if I could
+But you're loving too good
+So stay away from me
+I love you too much
+Stay away from me
+I love you too much
+What's the use in crying
+Whatever you sell
+You know, I'm buying
+You're sure keeping
+A thing on me
+That makes me
+Love you so tenderly
+Such a heavy blow
+Until I can't get up and go
+So stay away from me
+I love you too much
+Stay away from me
+I love you too much
+Stay away

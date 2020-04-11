@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-alive-gary-wright
+lyrics_url: https://genius.com/Gary-wright-love-is-alive-lyrics
 name: Love Is Alive
 rankings:
 - end_date: '1976-04-23'
@@ -115,4 +116,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
+Well, I think it's time to get ready
+To realize just what I have found
+I have lived only half of what I am
+It's all clear to me now
 
+My heart is on fire
+My soul's like a wheel that's turnin'
+My love is alive
+My love is alive, yeah, girl, yeah
+
+There's something inside that's making me crazy
+I'll try to keep it together
+'Cause what I say may not happen the same way
+Now could be forever
+
+My heart is on fire
+My soul's like a wheel that's turnin'
+My love is alive
+My love is alive, yeah, girl, yeah
+
+My love is alive
+Woo hoo, my love is alive
+
+There's a mirror moving inside my mind
+Reflecting the love that you shine on me
+Hold on now to that feeling
+Let it flow, let it grow, yeah, yeah
+
+My heart is on fire
+My soul's like a wheel that's turnin'
+My love is alive
+My love is alive, yeah, girl, yeah
+
+My love is alive
+Woo hoo, my love is alive
+Woo hoo, my love is alive
+My love is alive
+Woo hoo, my love is alive
+Woo hoo, my love is alive
+Woo hoo, my love is alive
+Woo hoo

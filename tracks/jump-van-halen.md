@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump-van-halen
+lyrics_url: https://genius.com/Van-halen-jump-lyrics
 name: Jump
 rankings:
 - end_date: '1984-01-20'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
 ---
+I get up, and nothing gets me down
+You got it tough, I've seen the toughest around
+And I know, baby, just how you feel
+You've got to roll with the punches to get to what's real
 
+
+Oh can't you see me standing here?
+I've got my back against the record machine
+I ain't the worst that you've seen
+Oh can't you see what I mean?
+
+
+Might as well jump (Jump!)
+Might as well jump
+Go ahead, jump (Jump!)
+Go ahead, jump
+
+
+Hey you! Who said that?
+Baby, how you been?
+You say you don't know
+You won't know until we begin
+
+
+Well can't you see me standing here?
+I've got my back against the record machine
+I ain't the worst that you've seen
+Oh can't you see what I mean?
+
+
+Might as well jump (Jump!)
+Go ahead, jump
+Might as well jump (Jump!)
+Go ahead, Jump!
+Jump!
+
+
+
+
+
+
+Might as well jump (Jump!)
+Go ahead, jump
+Get it and jump (Jump!)
+Go ahead, jump
+
+
+Jump!
+Jump!
+Jump!
+Jump!

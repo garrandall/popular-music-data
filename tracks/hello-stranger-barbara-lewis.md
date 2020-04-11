@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-stranger-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-hello-stranger-lyrics
 name: Hello Stranger
 rankings:
 - end_date: '1963-05-10'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop)
+Hello stranger
+(Ooh) It seems so good to see you back again
+How long has it been?
+(Ooh it seems like a mighty long time)
+(Shoo-Bop Shoo-Bop, my baby)
+(Ooh) It seems like a mighty long time
 
+Ohh, I'm I'm I'm I'm I'm so glad
+(Ooh) You stopped by to say hello to me
+Remember that's the way it used to be
+Ooh, it seems like a mighty long time
+Shoo-Bop Shoo-Bop, my baby
+Ooh, it seems like a mighty long time
+
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) Ohh..
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) Ahh yes I'm so glad
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) You're here again
+(Shoo-Bop Shoo-Bop, my baby)
+
+Ohh, If you're not gonna stay
+(Ooh) Please don't tease me
+Like you did before
+Because I still love you so
+(Ooh) Although
+It seems like a mightly long time
+(Shoo-Bop Shoo-Bop, my baby)
+(ooh) It seems like a mighty long time
+
+(Shoo-Bop Shoo-Bop, my baby) Ohh
+(Shoo-Bop Shoo-Bop, my baby) Ohh my my my my
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) I'm so happy
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) That you're here at last
+(Shoo-Bop Shoo-Bop, my baby)
+(Shoo-Bop Shoo-Bop, my baby) Ohh...

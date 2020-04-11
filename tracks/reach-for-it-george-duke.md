@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reach-for-it-george-duke
+lyrics_url: https://genius.com/George-duke-reach-for-it-lyrics
 name: Reach For It
 rankings:
 - end_date: '1978-01-13'
@@ -31,4 +32,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
 ---
+Dance
+Dance
+Dance
 
+Dance
+Dance
+Dance
+
+Dance
+Dance
+Dance
+...

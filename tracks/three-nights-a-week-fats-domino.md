@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: three-nights-a-week-fats-domino
+lyrics_url: https://genius.com/Fats-domino-three-nights-a-week-lyrics
 name: Three Nights A Week
 rankings:
 - end_date: '1960-09-11'
@@ -51,4 +52,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
 ---
+Three nights a week, your'e gone
+Three nights a week, that's too long
+You know you're doin me wrong
+Baby won't you please stay home
 
+I call you on the phone
+Pretendin you were home
+Although I knew you were gone
+Baby won't you please stay home
+
+When you're gone I'm such a lonely man
+When you're gone, my heart doesn't beat the same
+
+Three nights a week, you're gone
+Three nights a week, that's too long
+Three nights a week, I'm alone
+Baby won't you please stay home

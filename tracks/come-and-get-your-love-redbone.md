@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-and-get-your-love-redbone
+lyrics_url: https://genius.com/Redbone-come-and-get-your-love-lyrics
 name: Come And Get Your Love
 rankings:
 - end_date: '1974-01-18'
@@ -99,4 +100,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+Hail (Hail), what's the matter with your head, yeah
+Hail (Hail), what's the matter with your mind
+And your sign an-a, oh-oh-oh
+Hail (Hail), nothin' the matter with your head
+Baby find it, come on and find it
+Hail, with it, baby, 'cause you're fine
+And you're mine, and you look so divine
 
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+
+
+Hail (Hail), what's the matter with you feel right
+Don't you feel right, baby
+Hail, oh yeah, get it from the main vine, all right
+I said-a find it, find it, go on and love it if you like it, yeah
+Hail (Hail), it's your business if you want some, take some
+Get it together, baby
+
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+
+
+Come and get your love, come and get your love
+Come and get your love, now
+Come and get your love, come and get your love
+Come and get your love, now
+Come and get your love, come and get your love
+Come and get your love, now
+Come and get your love, come and get your love
+Come and get your love, now
+
+
+Come and get your love
+Come and get your love
+Come and get your love
+Come and get your love
+
+
+Hail (Hail), what's the matter with you feel right
+Don't you feel right, baby
+Hail, oh yeah, get it from the main vine, all right
+
+
+La, la, la, la, la, la, la, la, la, la
+Come and get your love
+La, la, la, la, la, la, la, la, la, woohoo
+Come and get your love
+La, la, la, la, la, la, la, la, la, la
+Come and get your love
+La, na, na, na, na, na, da, boom
+Come and get your love
+La, da boom, boom, boom, ta, daba, boom, boom
+Come and get your love
+La, la, la, la, la, la

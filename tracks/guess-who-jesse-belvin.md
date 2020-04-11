@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guess-who-jesse-belvin
+lyrics_url: https://genius.com/Jesse-belvin-guess-who-lyrics
 name: Guess Who
 rankings:
 - end_date: '1959-04-05'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+Someone really loves you
+Guess who, guess who
+Someone really cares
+Guess who (guess who)
 
+Open your heart
+Surely then you'll see
+That someone who cares is me
+
+Someone weeps eternally (guess who)
+Someone who wants your love
+Desperately (guess who)
+
+Open your heart
+Surely then you'll see
+That someone who cares is me
+
+(Someone really loves you) guess who
+(Someone really cares)
+Guess, guess who
+
+Open up your heart
+Surely then you'll see
+That someone who cares is me

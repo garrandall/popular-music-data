@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unchained-melody-heart
+lyrics_url: https://genius.com/Heart-unchained-melody-lyrics
 name: Unchained Melody
 rankings:
 - end_date: '1981-04-03'
@@ -19,4 +20,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
 ---
-
+Oh, my love, my darling
+I've hungered for your touch
+Alone, lonely time
+And time goes by so slowly
+And time can do so much
+Are you still mine
+I need your love
+I need your love
+God, speed your love to me
+Lonely rivers flow to the sea to the sea
+To the open arms of the sea
+Lonely river sigh, wait for me, wait for me
+I'll be coming home
+Wait for me
+Oh, my love, my darling
+I've hungered, hungered for your touch
+Oh, my, lonely time
+And time goes by so slowly and time can do so much
+Are you still mine, I need your love I need your
+Love, God speed your love to me

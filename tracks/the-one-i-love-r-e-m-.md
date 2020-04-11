@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-i-love-r-e-m-
+lyrics_url: https://genius.com/Rem-the-one-i-love-lyrics
 name: The One I Love
 rankings:
 - end_date: '1987-09-25'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
 ---
+This one goes out to the one I love
+This one goes out to the one I've left behind
+A simple prop to occupy my time
+This one goes out to the one I love
 
+
+Fire!
+Fire!
+
+
+This one goes out to the one I love
+This one goes out to the one I've left behind
+A simple prop to occupy my time
+This one goes out to the one I love (Love)
+
+
+Fire! (She's comin' down on her own, now)
+Fire! (She's comin' down on her own)
+
+
+
+
+This one goes out to the one I love (Love)
+This one goes out to the one I've left behind
+Another prop has occupied my time
+This one goes out to the one I love (Love)
+
+
+Fire! (She's comin' down on her own, now)
+Fire! (She's comin' down on her own)
+Fire! (She's comin' down on her own, now)
+Fire! (She's comin' down on her own)

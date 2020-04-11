@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-you-lila-mccann
+lyrics_url: https://genius.com/Lila-mccann-with-you-lyrics
 name: With You
 rankings:
 - end_date: '1999-04-09'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
 ---
+Last night I couldn't sleep
+I found it hard to even breathe
+Oh, I'm in trouble deep
+With you
+Today I stayed in bed
+Can't shake these voices in my head
+I've fallen off the edge
+With you
+Well all my friends say that I'm way out of touch
+If I'm not crazy then baby
+This must be love
 
+I would go anywhere
+Do anything
+No, I don't care
+Long as I know
+I'll always go
+With you
+
+Now it's all making sense
+Forever's in the present tense
+I know it all begins
+With you
+And so this story goes
+I am yours to have and hold
+And I can't wait to grow old
+With you
+Well all my friends say that I'm way out of touch
+If I'm not crazy then baby
+I'm crazy in love
+
+I would go anywhere
+Do anything
+No, I don't care
+Long as I know
+I'll always go
+With you
+
+Well all my friends say that I'm way out of touch
+If I'm not crazy then baby
+This could be love
+
+I would go anywhere
+Oh...I would go anywhere
+Do anything
+No, I don't care
+Long as I know
+I'll always go
+With you

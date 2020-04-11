@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-didn-t-take-long-spider
+lyrics_url: https://genius.com/Spider-it-didnt-take-long-lyrics
 name: It Didn't Take Long
 rankings:
 - end_date: '1981-06-05'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
 ---
+Said you'd always be my friend
+Never let me down again
+Well you did 'cause baby it's over
+I'm not about to play your game
+I don't want you to feel the pain, the way I did
+But that doesn't matter
 
+'Cause it didn't take long, for it all to happen
+And it didn't take long, for our love to change
+'Cause it didn't take long, for it all to happen
+And it didn't take long, for our love to break
+
+About a hundred times we try
+So go and cry a little more
+Save your tears
+For some other lover
+Try and lay your guilt on me
+I wish you'd finally try and see
+You were the one
+Who killed all our chances
+
+'Cause it didn't take long, for it all to happen
+And it didn't take long, for our love to change
+'Cause it didn't take long, for it all to happen
+And it didn't take long, for our love to break
+
+'Cause it didn't take long, for it all to happen
+And it didn't take long, for our love to change
+You know it didn't take long, for it all to happen
+And it didn't take long, for our love to break

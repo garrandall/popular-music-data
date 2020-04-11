@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-don-t-tell-me-to-montgomery-gentry
+lyrics_url: https://www.musixmatch.com/lyrics/Montgomery-Gentry/She-Don-t-Tell-Me-To
 name: She Don't Tell Me To
 rankings:
 - end_date: '2006-01-06'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-29'
 ---
+Every now and then on my way home
+I stop at a spot where the wild flowers grow
+And I pick a few, 'cause she don't tell me to
 
+I go out with my boys all right
+Most of the time I call it a night
+Before they do, 'cause she don't tell me to
+
+Sunday mornin', I'm in church and my butt and my back
+And my necktie hurts but I'm in the pew, she don't tell me to
+
+Any other woman I know would have tried
+To control me and it would be over
+Blame it on my goin', my own way attitude
+
+All of that stubbornness melts away
+When I wake with her head on my shoulder
+An' I know I've got to love her until my life is through
+'Cause she don't tell me to
+
+I got demons and I've got pride
+But when I'm wrong, I apologize
+Like she's mine to lose, 'cause she don't tell me to
+
+Well, I got dreams in this heart of mine
+But nothin' that I wouldn't lay aside
+If she asked me to, 'cause she don't tell me to
+
+And she don't even know that she keeps me lookin' for
+The next right thing to do, 'cause she don't tell me to, yeah, yeah
+
+Any other woman I know would have tried
+To control me and it would be over
+Blame it on my goin', my own way attitude
+
+All of that stubbornness melts away
+When I wake with her head on my shoulder
+An' I know I've got to love her until my life is through
+What else can I do, what else can I do, oh, I love her
+'Cause she don't tell me to, she don't tell me to
+
+Every now and then, on my home
+I stop at a spot where the wild flowers grow
+And I pick a few, yes, I do

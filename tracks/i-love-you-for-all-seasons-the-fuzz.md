@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-for-all-seasons-the-fuzz
+lyrics_url: https://genius.com/The-fuzz-band-i-love-you-for-all-seasons-lyrics
 name: I Love You For All Seasons
 rankings:
 - end_date: '1971-01-29'
@@ -87,4 +88,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
-
+I love you for so many reasons
+Which means I love you for all seasons
+First of all, I love you with the freshness of a spring day
+Then I love you with hot passions like the summer sun
+When june's here to stay
+I don't know how to explain my love's seasonal change
+It seems never the same - all I know is
+I love you for so many reasons
+Which means I love you for all seasons
+I love you with the gentleness of a falling leaf on an autumn day
+But most of all, I love you with the briskness of a winter
+When the snows come out to stay
+I don't know how to explain my love's seasonal change
+It seems never the same - all I know is
+I love you for so many reasons
+Which means i love you for all seasons
+(autumn, summer, winter, springtime)
+I love you for so many reasons
+Which means i love you for all seasons
+(repeat to fade)

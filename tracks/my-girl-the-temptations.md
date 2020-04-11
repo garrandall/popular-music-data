@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-girl-the-temptations
+lyrics_url: https://genius.com/The-temptations-my-girl-lyrics
 name: My Girl
 rankings:
 - end_date: '1965-01-22'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
 ---
+I've got sunshine on a cloudy day
+When it's cold outside, I've got the month of May
+I guess you'd say
+What can make me feel this way?
 
+
+My girl, my girl, my girl
+Talkin' 'bout my girl, my girl
+
+
+I've got so much honey, the bees envy me
+I've got a sweeter song than the birds in the trees
+Well, I guess you'd say
+What can make me feel this way?
+
+
+My girl, my girl, my girl
+Talkin' 'bout my girl, my girl
+
+
+Ooh, ooh
+Hey, hey, hey
+Ooh, ooh
+Hey, hey, hey
+Ooh, ooh, yeah
+
+
+I don't need no money, fortune, or fame
+I've got all the riches, baby, one man can claim
+Well, I guess you'd say
+What can make me feel this way?
+
+
+My girl, my girl, my girl
+Talkin' 'bout my girl, my girl
+(Talkin' 'bout my girl)
+
+
+I've got sunshine on a cloudy day (Woah, woah)
+With my girl
+I've even got the month of May
+With my girl
+Talkin' 'bout my girl

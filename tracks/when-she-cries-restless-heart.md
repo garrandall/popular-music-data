@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-she-cries-restless-heart
+lyrics_url: https://genius.com/Restless-heart-when-she-cries-lyrics
 name: When She Cries
 rankings:
 - end_date: '1992-11-20'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
 ---
+The road I have traveled on
+Is paved with good intentions
+It's littered with broken dreams
+That never quite came true
 
+When all of my hopes were dying
+Her love kept me trying
+She does her best to hide
+The pain that she's been through
+
+(CHORUS)
+When she cries at night
+And she doesn't think that I can hear her
+She tries to hide
+All the fears she feels inside
+So I pray this time
+I can be the man that she deserves
+'Cause I die a little each time
+When she cries
+
+She's always been there for me
+Whenever I've fallen
+When nobody else believes
+She'll be there by my side
+
+I don't know how she takes it
+Just once I'd like to make it
+Then there'll be tears of joy
+That fill her loving eyes
+
+(CHORUS)
+So I pray this time
+I can be the man that she deserves
+'Cause I die a little each time
+When she cries

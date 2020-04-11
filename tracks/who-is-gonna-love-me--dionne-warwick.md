@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-is-gonna-love-me--dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-who-is-gonna-love-me-lyrics
 name: Who Is Gonna Love Me?
 rankings:
 - end_date: '1968-08-30'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
+Who is gonna love me? Not you
+You will be gone
+And here I'll stay, all alone and
+I'll just waste away
+Wondering who is gonna hold me
+And keep me warm when I'm cold
+Who will I wake up for
+Through all those lonely years?
+No one to wake up for but
+Sleep won't come to end these tears
 
+And who is gonna kiss me if you
+Walk out the door?
+There'll be no one new: not for me
+'Cause my whole life, is you
+Darling, if you don’t wanna love me
+There's just no use hanging on
+For without your love
+Everything is wrong
+
+Oh, but sleep won't come to end these tears
+And who is gonna kiss me if you
+Walk out the door?
+There'll be no one new, not for me 'cause
+My whole life is you
+Darling, if you don't wanna love me
+There's just no use in hangin' on
+For without your love
+Everything is wrong
+For me

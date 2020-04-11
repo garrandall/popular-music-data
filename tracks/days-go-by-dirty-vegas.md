@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: days-go-by-dirty-vegas
+lyrics_url: https://genius.com/Dirty-vegas-days-go-by-lyrics
 name: Days Go By
 rankings:
 - end_date: '2002-05-17'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
 ---
+You
+You
+You are still a whisper on my lips
+A feeling at my fingertips
+That's pulling at my skin
+You leave me when I'm at my worst
+A feeling as if I've been cursed
+Bitter cold within
 
+
+Days go by and still I think of you
+Days when I couldn't live my life without you
+Days go by and still I think of you
+Days when I couldn't live my life without you
+Without you
+Without you
+
+
+You are still a whisper on my lips
+A feeling at my fingertips
+That's pulling at my skin
+You leave me when I'm at my worst
+A feeling as if I've been cursed
+Bitter cold within
+
+
+Days go by and still I think of you
+Days when I couldn't live my life without you
+Without you
+Without you
+
+
+Days go by and still I think of you
+Days when I couldn't live my life without you
+Days go by and still I think of you
+Days when I couldn't live my life without you
+Without you
+Without you
+Without you
+Without you
+Without you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spanish-eyes-al-martino
+lyrics_url: https://genius.com/Al-martino-spanish-eyes-lyrics
 name: Spanish Eyes
 rankings:
 - end_date: '1965-12-10'
@@ -55,4 +56,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
 ---
+Blue Spanish eyes
+Teardrops are falling from your Spanish eyes
+Please, please don't cry
+This is just adios and not goodbye
+Soon I'll return
+Bringing you all the love your heart can hold
+Please say "sí, sí"
+Say you and your Spanish eyes will wait for me
 
+Blue Spanish eyes
+Prettiest eyes in all of Mexico
+True Spanish eyes
+Please smile for me once more before I go
+Soon I'll return
+Bringing you all the love your heart can hold
+Please say "sí, sí"
+Say you and your Spanish eyes will wait for me

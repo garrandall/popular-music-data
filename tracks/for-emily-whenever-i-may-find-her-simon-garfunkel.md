@@ -1,10 +1,10 @@
 ---
 artists:
-- Simon
-- Garfunkel
+- Simon & Garfunkel
 features: []
 genres: []
 key: for-emily-whenever-i-may-find-her-simon-garfunkel
+lyrics_url: https://genius.com/Simon-and-garfunkel-for-emily-whenever-i-may-find-her-lyrics
 name: For Emily Whenever I May Find Her
 rankings:
 - end_date: '1972-09-08'
@@ -36,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
 ---
+What a dream I had
+Pressed in organdy
+Clothed in crinoline
+Of smoky burgundy
+Softer than the rain
 
+
+I wandered empty streets
+Down past the shop displays
+I heard cathedral bells
+Tripping down the alleyways
+As I walked on
+
+
+And when you ran to me
+Your cheeks flushed with the night
+We walked on frosted fields
+Of juniper and lamplight
+I held your hand
+
+
+And when I awoke
+And felt you warm and near
+I kissed your honey hair
+With my grateful tears
+Oh, I love you, girl
+Oh, I love you

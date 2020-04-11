@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-away-little-girl-steve-lawrence
+lyrics_url: https://genius.com/Steve-lawrence-go-away-little-girl-lyrics
 name: Go Away Little Girl
 rankings:
 - end_date: '1962-11-16'
@@ -75,4 +76,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+Go away, little girl, go away, little girl
+I'm not supposed to be alone with you
+I know that your lips are sweet
+But our lips must never meet
+I belong to someone else and I must be true
 
+Oh, go away, little girl, go away, little girl
+It's hurtin' me more each minute that you delay
+When you are near me like this
+You're much too hard to resist
+So, go away, little girl, before I beg you to stay
+
+ go away
+ please don't stay
+ it'll never work out
+
+When you are near me like this
+You're much too hard to resist
+So, go away, little girl
+Call it a day, little girl
+
+Oh, please, go away, little girl
+Before I beg you to stay
+Go away

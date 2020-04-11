@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-theme-from--the-godfather--carlo-savina
+lyrics_url: https://www.musixmatch.com/lyrics/Nino-Rota-feat-Carlo-Savina/Love-Theme-from-the-Godfather-2
 name: Love Theme From "The Godfather"
 rankings:
 - end_date: '1972-04-28'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-boy-jim-reeves
+lyrics_url: https://www.musixmatch.com/lyrics/Jim-Reeves/Blue-Boy
 name: Blue Boy
 rankings:
 - end_date: '1958-08-10'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
+Written by: Boudleaux Bryant
 
+Blue boy, that's what they call me
+'Cause I'm so lonely, since I lost you,
+Blue boy, I'm known as blue boy
+You've found a new boy, and now we're through.
+
+Chorus:
+I had a twinkle in my eye
+When our sweet love was new,
+Now all I do is moan and cry
+And hunger after you.
+
+Blue Boy, I'll be a blue boy
+Until you need me, as I need you.
+
+Chorus:
+(I had a twinkle in my eye)
+(When our sweet love was new,)
+Now all I do is moan and cry
+And hunger after you.
+
+Blue Boy, I'll be a blue boy
+Until you need me, as I need you.
+(Blue boy)
+As I need you.
+(Blue boy)...

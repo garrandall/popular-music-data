@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-the-boy-jana-kramer
+lyrics_url: https://genius.com/Jana-kramer-i-got-the-boy-lyrics
 name: I Got The Boy
 rankings:
 - end_date: '2015-11-06'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
 ---
+I saw your picture in a paper
+Honeymoon in Jamaica, she's a lucky girl
+You look so grown up in your black tux, from a ballcap in a pick up Seems like another world
+You and me and our big dreams, falling in love
+We were two kids in the backseat, all fearless and young
 
+
+I got the first kiss and she'll get the last
+She's got the future, I got the past
+I got the class ring, she got the diamond and wedding band
+I got the boy, and she got the man
+
+
+Yeah there's an old you that I knew
+Fake IDs to get into those spring break bars
+Backwoods on a four wheel, hanging on tight
+I can still feel my racing heart
+And now you're cleaned up with a hair cut, nice tie and shoes
+If things were different and I had a choice, which would I choose?
+
+
+I got the first kiss and she'll get the last
+She's got the future, I got the past
+I got the class ring, she got the diamond and wedding band
+I got the boy, and she got the man
+
+I got the first kiss and she’ll get the last
+We each got something, the other will never have
+I got the long hair, hot head
+She got the cool and steady hand
+I got the boy and she got the man
+I got the boy and she got the man

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-tom-t--hall
+lyrics_url: https://genius.com/Tom-t-hall-i-love-lyrics
 name: I Love
 rankings:
 - end_date: '1973-12-14'
@@ -71,4 +72,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
 ---
+I love little baby ducks, old pick-up trucks
+Slow movin' trains and rain
+I love little country streams, sleep without dreams
+Sunday school in May and hay
 
+
+And I love you too
+
+
+I love leaves in the wind, pictures of my friends
+Birds of the world and squirrels
+I love coffee in a cup, little fuzzy pups
+Bourbon in a glass and grass
+
+
+
+
+I love honest open smiles, kisses from a child
+Tomatoes on the vine and onions
+I love winners when they cry, losers when they try
+Music when it's good and life

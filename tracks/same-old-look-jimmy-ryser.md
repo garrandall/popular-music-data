@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: same-old-look-jimmy-ryser
+lyrics_url: https://genius.com/Jimmy-ryser-same-old-look-lyrics
 name: Same Old Look
 rankings:
 - end_date: '1990-07-20'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
 ---
-
+The years in our lives go by
+Looking back, I still wonder how you are
+Will you still remember me
+Are you the same, have you changed
+Since we`ve been apart
+I miss the way that you used to look at me
+A child-like look in your eyes
+It is too much to ask to
+Think of me sometime
+Have you still got that same old look in your eyes
+Not everybody changes
+There`s something that the years cannot disguise
+Have you still got that same old look in your eyes
+Not everybody changes
+I close my eyes and I see
+Through the miles to lose time
+A search through my distant past
+The face holds a shadow of a child
+That used to be a best friend of mine
+Have you still got that same old look in your eyes
+Not everybody changes
+There`s something that the years cannot disguise
+Have you still got that same old look in your eyes
+Not everybody changes
+What became of simple dreams we shared
+We grew past the love that showed we cared
+We found life in reflections of the last days of a child
+Have you still got that same old look in your eyes
+Not everybody changes
+There`s something that the years cannot disguise
+Have you still got that same old look in your eyes
+Not everybody changes
+Have you still got that same old look in your eyes
+Not everybody changes
+There`s something that the years cannot disguise
+Have you still got that same old look in your eyes
+Not everybody changes

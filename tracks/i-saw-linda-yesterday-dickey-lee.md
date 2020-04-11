@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-saw-linda-yesterday-dickey-lee
+lyrics_url: https://genius.com/Dickey-lee-i-saw-linda-yesterday-lyrics
 name: I Saw Linda Yesterday
 rankings:
 - end_date: '1962-12-14'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
 ---
+(Hey, hey, hey, hey-ay, hey, hey, hey, hey-ay)
+Nights didn't seem so long no more
+Ain't one man like it was before --
+Just when I thought I was really okay
+I saw Linda yesterday
 
+My heart went up, down
+Like a merry-go-round and 'round
+Like a forest fire, Down, down
+Oh, oh, oh, oh, oh, oh, oh, oh...
+
+Looked like I'd found peace of mind
+Looked like I was gonna make it this time --
+Just when I thought I was really okay
+I saw Linda yesterday
+
+Oh, she smiled that same old smile
+My heart was runnin?wild --
+My love for her is reelin'Sit around and watch me cry --
+People ask what's wrong, I say
+"I saw Linda yesterday."
+
+My heart went up, down
+Like a merry-go-round and 'round
+Like a forest fire, Down, down
+Oh, oh, oh, dum-didly, dum-didly, dum-dum-dum...
+
+Hey, hey, dum de dodie-dodie
+Hip, hip, dum de dodie-dodie
+Hip, hip, dum de dodie-dodie-do
+Dum-diddly, dum-diddly, dum-dum...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-a-matter-baby--is-it-hurting-you--timi-yuro
+lyrics_url: https://genius.com/Timi-yuro-whats-a-matter-baby-lyrics
 name: What's A Matter Baby (Is It Hurting You)
 rankings:
 - end_date: '1962-07-20'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
 ---
-
+I know the reason you've been crying
+Oh yes I heard she won't be needing you
+How does it feel being the one left behind
+What's a matter baby is it hurting you
+I know you found out she's been cheating
+And I heard she even told you she was untrue
+How does it feel being on the outside looking in
+What's a matter baby is it hurting you
+Remember
+Remember when I needed you so bad
+Remember
+Remember what you had to say
+You told me to find another shoulder to cry on
+Then you laughed
+You laughed and you walked away
+I know that you've been asking about me (ha-ha)
+And I'm sorry but I've got somebody new
+Now my hurting is just about over
+But baby it's just starting for you!

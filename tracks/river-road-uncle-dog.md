@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: river-road-uncle-dog
+lyrics_url: https://genius.com/Uncle-dog-river-road-lyrics
 name: River Road
 rankings:
 - end_date: '1973-03-09'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
 ---
+What's the use in a pocket full of miracles
+You gotta find them on rainy day
+I believe in the power of the universe
+Like a river gonna take you today
 
+Come down, come down, come down
+Come down the river with me
+Come on down to the river road
+It gonna take you away
+It gonna ease your load
+The river road, baby
+You're my river road baby, for free
+
+Back to back, it's only just beginning
+Lord it feels so good
+Gonna take ya today
+
+He got his lady and she's sitting on a bull frog
+Watching all the fishes just swimmin' away
+
+Come down, come down, come down
+Come down the river with me
+Come on down to the river road
+It gonna take you away
+It gonna ease your load
+The river road, baby
+You're my river road baby, for free
+
+Back to back, it's only just beginning
+Lord it feels so good
+Gonna take ya today
+
+He got his lady and she's sitting on a bull frog
+Watching all the fishes just swimmin' away
+
+Come down, come down, come down
+Come down the river with me
+Come on down to the river road
+It gonna take you away
+It gonna ease your load
+The river road, baby
+You're my river road baby, for free
+
+River road
+River road
+River road
+River road

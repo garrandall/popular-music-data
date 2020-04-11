@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-one-and-only-love-jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-your-one-and-only-love-lyrics
 name: Your One And Only Love
 rankings:
 - end_date: '1961-03-19'
@@ -31,4 +32,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
-
+Your one and only love
+That's all I want to be
+Your one and only love
+Through all eternity
+All that I'm dreaming of
+Is to be yours alone
+Your one and only love
+The one you call your own
+To love you always
+Always and always
+Gladly I vow
+To love you madly
+To need you badly
+Just as I need you now
+Your one and only love
+Someday someone will be
+So won't you take my love
+And fall in love with me
+Your one and only love
+Someday someone will be
+So darling take my love
+And fall in love with me

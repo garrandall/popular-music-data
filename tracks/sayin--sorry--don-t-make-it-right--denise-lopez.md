@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sayin--sorry--don-t-make-it-right--denise-lopez
+lyrics_url: https://genius.com/Denise-lopez-sayin-sorry-dont-make-it-right-lyrics
 name: Sayin' Sorry (Don't Make It Right)
 rankings:
 - end_date: '1988-06-17'
@@ -75,4 +76,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
 ---
+You say that everything will work itself out
+But let me tell you now
+What you don't know about
+It's easy to turn your back on our problems
+But can't you see
+That it's no way to solve them
 
+You can run away from me
+But you'll never get away from you
+You can run away from me
+But you'll never get away from you
+
+Sayin' sorry don't make it right every time you hurt me
+Sayin' sorry don't make it right
+When we don't meet eye to eye every time it hurts me
+Sayin' sorry don't make it right, no no
+
+I know that mistakes are so hard to deal with
+But when you reject me
+I always feel it
+And when you choose to ignore
+What you don't understand
+You will find often time how things get out of hand
+
+You can run away from me
+But you'll never get away from you
+You can run away from me
+But you'll never, never get away
+
+Sayin' sorry don't make it right every time
+You hurt me
+Sayin' sorry don't make it right
+When we don't meet eye to eye every time
+It hurts me
+Sayin' sorry don't make it right
+No, no
+
+Every time that you break my heart
+You come back to me
+And try to make a new start
+But this hurt only gives me doubt
+And it seems you don't wanna work things out
+
+Ay, ay, ay, ay
+Uh, uh
+Oooh, ooh
+
+Take your sorry
+Uh
+Out the door
+I don't wanna hear that
+Uh
+Uh-huh
+Anymore
+
+Take your sorry
+And baby, this is the plan
+You can take that sorry, baby
+And stick it
+Oooh
+
+Sayin' sorry don't
+Sayin' sorry don't make it right
+When we don't meet eye to eye every time
+It hurts me
+Sayin' sorry don't make it right
+
+Sayin' sorry don't make it right
+Sayin' sorry
+Ohhh
+
+When we don't meet eye to eye every time
+It hurts me
+Sayin' sorry don't make it right
+It won't make things right
+Won't make things right
+
+When we don't meet eye to eye
+Every time it hurts me
+Sayin' sorry don't make it right
+I don't wanna hear you say
+I don't wanna hear you say you're sorry
+For what you did to me
+
+Ooh, baby
+Baby, get
+Baby, get
+Baby, get hold of this
+I can take only just so much
+And I have taken what I intend to take

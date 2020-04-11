@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-as-you-are-nirvana
+lyrics_url: https://genius.com/Nirvana-come-as-you-are-lyrics
 name: Come As You Are
 rankings:
 - end_date: '1992-03-27'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
 ---
+Come as you are, as you were
+As I want you to be
+As a friend, as a friend
+As an old enemy
+Take your time, hurry up
+Choice is yours, don't be late
+Take a rest as a friend
+As an old memoria
 
+
+Memoria
+Memoria
+Memoria
+
+
+Come doused in mud, soaked in bleach
+As I want you to be
+As a trend, as a friend
+As an old memoria
+
+
+Memoria
+Memoria
+Memoria
+
+
+And I swear that I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+
+
+
+
+Memoria
+Memoria
+Memoria (No, I don't have a gun)
+
+
+And I swear that I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+No, I don't have a gun
+
+
+Memoria
+Memoria

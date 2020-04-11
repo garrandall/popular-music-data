@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-re-on-our-way-chris-hodge
+lyrics_url: https://genius.com/Chris-hodge-were-on-our-way-lyrics
 name: We're On Our Way
 rankings:
 - end_date: '1972-06-09'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
 ---
+Saucers are a-flyin'
+Flyin' in the sky
+The saucers are a-flyin'
+Flyin', oh, so high
 
+My woman's a sexy lady
+She makes love like a dream
+Burnin' like a fire, boy
+Ever for eternity
+
+We're on our way
+We're on our way
+We're on our way, we're on our way
+We're on our way
+
+Where she rides on ask a movie
+A sparkle in the night
+She shines in the sky like a blood of high
+I mean, baby, it's a out of sight
+
+Hurricanes, thunder
+A spaceship's on the run
+We're gonna bring the truth to planet earth
+We're gonna move it on and on
+
+We're on our way
+We're on our way
+We're on our way, we're on our way
+We're on our way
+
+Ahaha...

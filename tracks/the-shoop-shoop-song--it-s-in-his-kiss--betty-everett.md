@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-shoop-shoop-song--it-s-in-his-kiss--betty-everett
+lyrics_url: https://genius.com/Betty-everett-the-shoop-shoop-song-its-in-his-kiss-lyrics
 name: The Shoop Shoop Song (It's In His Kiss)
 rankings:
 - end_date: '1964-03-06'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
 ---
-
+Does he love me? I wanna know
+How can I tell if he loves me so?
+(Is it in his eyes?)
+Oh no, you'll be deceived
+(Is it in his eyes?)
+Oh no, he'll make believe
+If you wanna know if he loves you so
+It's in his kiss
+(That's where it is, oh yeah)
+(Or is it in his face?)
+Oh no, it's just his charm
+(In his one embrace)
+Oh no, that's just his arm
+If you wanna know if he loves you so
+It's in his kiss
+(That's where it is)
+Oh oh, it's in his kiss
+(That's where it is)
+Oh oh oh, kiss him and squeeze him tight
+And find out what you wanna know
+If it's love, if it really is
+It's there in his kiss
+(How 'bout the way he acts)
+Oh no, that's not the way
+And you're not listenin' to all I say
+If you wanna know if he loves you so
+It's in his kiss
+(That's where it is)
+Oh yeah, it's in his kiss
+(That's where it is)
+Whoa oh oh, kiss him and squeeze him tight
+And find out what you wanna know
+If it's love, if it really is
+It's there in his kiss
+(How 'bout the way he acts)
+Oh no, that's not the way
+And you're not listenin' to all I say
+If you wanna know if he loves you so
+It's in his kiss
+(That's where it is)
+Oh yeah, it's in his kiss
+(That's where it is)
+Oh oh, it's in his kiss
+(That's where it is)

@@ -1,6 +1,6 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: moon-over-naples-bert-kaempfert-and-his-orchestra

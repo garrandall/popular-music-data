@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sea-of-heartbreak-don-gibson
+lyrics_url: https://genius.com/Don-gibson-sea-of-heartbreak-lyrics
 name: Sea Of Heartbreak
 rankings:
 - end_date: '1961-06-25'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
 ---
+The lights in the harbor
+Don't shine for me
+I'm like a lost ship
+Adrift on the sea
 
+Yeah, the sea of heartbreak
+Lost love and loneliness
+Memories of your caress so divine
+How I wish you were mine
+
+Again my dear
+I'm on this sea of tears
+Sea of heartbreak
+
+Oh, how did I lose you
+Oh, where did I fail
+Why did you leave me
+Always to sail
+
+Yeah, the sea of heartbreak
+Lost love and loneliness
+Memories of your caress so divine
+How I wish you were mine
+
+Again my dear
+I'm on this sea of tears
+Sea of heartbreak
+
+Oh, what I'd give just to sail back to shore
+Back to your arms once more
+
+Oh, come to my rescue
+Come here to me
+Take me and keep me
+Away from the sea
+
+Yeah, the sea of heartbreak
+Lost love and loneliness
+Memories of your caress so divine
+How I wish you were mine
+
+Again my dear
+I'm on this sea of tears
+Sea of heartbreak
+
+(Sea of heartbreak)
+Yeah, sea of heartbreak
+(Sea of heartbreak)
+Heartbreak

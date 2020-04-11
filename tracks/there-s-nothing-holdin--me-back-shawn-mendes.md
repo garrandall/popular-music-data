@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-nothing-holdin--me-back-shawn-mendes
+lyrics_url: https://genius.com/Shawn-mendes-theres-nothing-holdin-me-back-lyrics
 name: There's Nothing Holdin' Me Back
 rankings:
 - end_date: '2017-05-19'
@@ -143,4 +144,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
 ---
+I wanna follow where she goes
+I think about her and she knows it
+I wanna let her take control
+'Cause everytime that she gets close, yeah
 
+
+She pulls me in enough to keep me guessing (Mmmm)
+And maybe I should stop and start confessing, confessing, yeah
+
+
+Oh, I've been shaking
+I love it when you go crazy
+You take all my inhibitions
+Baby, there's nothing holdin' me back
+You take me places that tear up my reputation
+Manipulate my decisions
+Baby, there's nothing holdin' me back
+There's nothing holdin' me back
+There's nothing holdin' me back
+
+
+She says that she's never afraid
+Just picture everybody naked
+She really doesn't like to wait
+Not really into hesitation
+
+
+Pulls me in enough to keep me guessing
+And maybe I should stop and start confessing, confessing, yeah
+
+
+Oh, I've been shaking
+I love it when you go crazy
+You take all my inhibitions
+Baby, there's nothing holdin' me back
+You take me places that tear up my reputation
+Manipulate my decisions
+Baby, there's nothing holdin' me back
+There's nothing holdin' me back
+
+
+'Cause if we lost our minds and we took it way too far
+I know we'd be alright, I know we would be alright
+If you were by my side and we stumbled in the dark
+I know we'd be alright, I know we would be alright
+'Cause if we lost our minds and we took it way too far
+I know we'd be alright, I know we would be alright
+If you were by my side and we stumbled in the dark
+I know we'd be alright, we would be alright
+
+
+Oh, I've been shaking
+I love it when you go crazy
+You take all my inhibitions
+Baby, there's nothing holdin' me back
+You take me places that tear up my reputation
+Manipulate my decisions
+Baby, there's nothing holdin' me back (Oh whoa)
+There's nothing holdin' me back
+I feel so free when you're with me, baby
+Baby, there's nothing holdin' me back

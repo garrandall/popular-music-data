@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-really-don-t-want-to-know-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-i-really-dont-want-to-know-lyrics
 name: I Really Don't Want To Know
 rankings:
 - end_date: '1966-09-09'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
 ---
+(I really don't want to know)
 
+How many arms have held you
+And hated to let you go
+How many, how many, I wonder
+But I really don't want to know
+
+How many lips have kissed you
+And set your soul aglow
+How many, how many, I wonder
+But I really don't want to know
+
+So always make me wonder
+And always make me guess
+And even if I ask you
+Darling, don't confess
+
+Just let it remain your secret
+But, darling, I love you so
+How many, oh, how many, I wonder
+But I really don't want to know

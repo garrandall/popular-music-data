@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-you-please-crawl-out-your-window--bob-dylan
+lyrics_url: https://genius.com/Bob-dylan-can-you-please-crawl-out-your-window-lyrics
 name: Can You Please Crawl Out Your Window?
 rankings:
 - end_date: '1966-01-07'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+He sits in your room, his tomb, with a fist full of tacks
+Preoccupied with his vengeance
+Cursing the dead that can’t answer him back
+I’m sure that he has no intentions
+Of looking your way, unless it’s to say
+That he needs you to test his inventions
 
+
+Can you please crawl out your window?
+Use your arms and legs it won’t ruin you
+How can you say he will haunt you?
+You can go back to him any time you want to
+
+
+He looks so truthful, is this how he feels
+Trying to peel the moon and expose it
+With his businesslike anger and his bloodhounds that kneel
+If he needs a third eye he just grows it
+He just needs you to talk or to hand him his chalk
+Or pick it up after he throws it
+
+
+
+
+Why does he look so righteous while your face is so changed
+Are you frightened of the box you keep him in
+While his genocide fools and his friends rearrange
+Their religion of the little tin women
+That backs up their views but your face is so bruised
+Come on out the dark is beginning

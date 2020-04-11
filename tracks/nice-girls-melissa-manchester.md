@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nice-girls-melissa-manchester
+lyrics_url: https://www.musixmatch.com/lyrics/Melissa-Manchester/Nice-Girls
 name: Nice Girls
 rankings:
 - end_date: '1983-02-11'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
 ---
+I can see you staring at me
+I've been watching you
+Maybe act a little bit too shy
+You'll have to make the first move
+Don't be afraid of comin' on too strong
+I'm in a lovin' mood
+I've been waiting for you all night long
+Don't you know what to do?
 
+Nice Girls
+Think a lot about it
+Nice Girls
+They do it too
+Nice Girls
+Never talk about it
+But Nice Girls need it too
+
+I don't want a bad reputation
+I'm not that kind
+But maybe in the right situation
+You could change my mind
+Cause the more I look into your eyes
+The less control I have
+You bring out a side of me
+I never knew I had
+
+(Repeat Chorus)
+
+My friends warn me
+Not to fall for a boy like you
+But how am I gonna find out
+Unless I do

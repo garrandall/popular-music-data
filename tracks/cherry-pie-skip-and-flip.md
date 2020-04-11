@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cherry-pie-skip-and-flip
+lyrics_url: https://genius.com/Skip-and-flip-cherry-pie-lyrics
 name: Cherry Pie
 rankings:
 - end_date: '1960-04-10'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
 ---
+Nah, nah, nah
+Nah, nah, nah, whoa-oh, whoa-oh
+Nah, nah, nah
+Nah, nah, nah, whoa-oh, whoa-oh
 
+Cherry, nah-nah-nah cherry pie nah-nah-nah-nah-nah
+Cherry, nah-nah-nah cherry pie nah-nah-nah-nah-nah
+Cherry, nah-nah-nah cherry pie , whoa so good
+Nah, nah
+Nah, nah, nah, whoa-oh, whoa-oh
+
+Sugar, nah-nah-nah sugar plum nah-nah-nah-nah-nah
+Sugar, nah-nah-nah sugar plum nah-nah-nah-nah-nah
+Sugar, nah-nah-nah sugar plum, sweet as they come
+Nah, nah, nah, nah, nah, nah
+(Da, da, da, da, da)
+
+Like Little Jack Horner sat, sat, sat in the corner
+Eating his cherry, cherry pie
+I didn't put in a thumb
+I didn't pull out a plum
+I guess I'm not as great as he, whoa-oh, whoa-oh
+
+Give me nah-nah-nah give me some nah-nah-nah-nah-nah
+Give me nah-nah-nah give me some nah-nah-nah-nah-nah
+Give me nah-nah-nah give me some cherry, cherry pie
+Nah, nah
+Nah, nah, nah, whoa-oh, whoa-oh
+Nah, nah, nah
+Nah, nah, nah cherry pie
+Nah, nah, nah
+Nah, nah, nah cherry pie
+
+Fade
+Nah, nah, nah
+Nah, nah, nah cherry pie

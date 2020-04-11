@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jumpin--jack-flash-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-jumpin-jack-flash-lyrics
 name: Jumpin' Jack Flash
 rankings:
 - end_date: '1968-06-14'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+One two!
 
+
+I was born in a crossfire hurricane
+And I howled at the morning drivin' rain
+
+
+But it's all right now, in fact, it's a gas
+But it's all right, I'm Jumpin' Jack Flash
+It's a gas, gas, gas
+
+
+I was raised by a toothless, bearded hag
+I was schooled with a strap right across my back
+
+
+But it's all right now, in fact, it's a gas
+But it's all right, I'm Jumpin' Jack Flash
+It's a gas, gas, gas
+
+
+I was drowned, I was washed up and left for dead
+I fell down to my feet and I saw they bled
+Yeah, yeah
+I frowned at the crumbs of a crust of bread
+Yeah, yeah, yeah
+I was crowned with a spike right thru my head
+My, my, yeah
+
+
+But it's all right now, in fact, it's a gas
+But it's all right, I'm Jumpin' Jack Flash
+It's a gas, gas, gas
+
+
+Jumpin' Jack Flash, its a gas
+Jumpin' Jack Flash, its a gas
+Jumpin' Jack Flash, its a gas
+Jumpin' Jack Flash, its a gas

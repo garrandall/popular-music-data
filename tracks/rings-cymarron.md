@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rings-cymarron
+lyrics_url: https://www.musixmatch.com/lyrics/Cymarron/Rings
 name: Rings
 rankings:
 - end_date: '1971-06-18'
@@ -55,4 +56,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
 ---
-
+Ring, ring, telephone rings
+Somebody said, "baby won't you do it?"
+I been wondering where you been
+Now and then, i think about you and me
+No use? in' 'bout things we can't recall
+It don't matter now at allllll,
+Just come on home: baby we'll laugh and sing
+We'll make love, we'll let the telephone ring
+'Ring, ring, doorbell ring'
+Baby come on in, got james taylor on the stereo
+I'm glad you've come around, i've been feelin' down
+Just talkin' to tony and mario
+You know they make good conversation,
+Still it ain't no consolation
+Cause i got love, baby i'll give you some
+And if somebody comes, we'll let the doorbell ring
+Said 'ring, ring, golden ring
+Around the sun, around your pretty finger'
+'Ring, ring, voices ring
+With a happy tune, anybody can be a singer'
+The sun come up across the city
+I swear you never looked so doggone pretty
+Hand in hand,
+We'll stand upon the sand
+With the preacher man
+Let the wedding bells ring
+Oh-ohhh, hand in hand
+We'll stand upon the sand
+With the preacher man
+Let the wedding bells ring...

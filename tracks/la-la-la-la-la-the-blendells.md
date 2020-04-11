@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-la-la-la-la-the-blendells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Blendells/La-La-La-La-La
 name: La La La La La
 rankings:
 - end_date: '1964-09-18'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
+La la la la la, la la la la la
+La la la la la la, la la la la la
+I said la la la, just one more time
 
+Come and get your soul
+Get it ready to go
+I said get your girl now
+Get her ready to go
+I said la la la, just one more time
+
+Clap your hands
+I said clap your hands
+Oh, you better
+I said clap your hands
+I said la la la, just one more time
+
+La la la la la, la la la la la
+La la la la la la, la la la la la
+I said la la la, just one more time
+
+La la la la la, la la la la la
+La la la la la la, la la la la la
+I said la la la, just one more time
+
+La la la la la, la la la la la
+I said clap your hands now
+La la la la la, I said la la la,
+Just one more time

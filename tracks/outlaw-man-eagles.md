@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: outlaw-man-eagles
+lyrics_url: https://genius.com/Eagles-outlaw-man-lyrics
 name: Outlaw Man
 rankings:
 - end_date: '1973-09-21'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
 ---
+I am an Outlaw, I was born an Outlaw's son
+The highway is my legacy
+On the highway I will run
+In one hand I've a Bible
+In the other I've got a gun
+Well, don' you know me, I'm the man who won
 
+
+Woman don't try to love me
+Don't try to understand
+A life upon the road
+Is the life of an outlaw man
+
+
+First left my woman, it was down in Santa Fe
+Headed for Oklahoma, I was riding night and day
+All of my friends are strangers
+They quickly come and go
+And all my love's in danger
+Because I steal hearts and souls
+
+
+Woman, don't try to love me
+Don't try to understand
+A life upon the road
+Is the life of an outlaw man
+
+
+Some men call me Abel
+Some men call me Cain
+Some men call me Sinner, Lord
+Some men call me Saint
+Some say there's a Jesus
+Some men say there ain't
+When you got no life to lose
+Then there's nothing left to gain
+
+
+Outlaw man
+Outlaw man

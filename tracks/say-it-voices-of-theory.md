@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-it-voices-of-theory
+lyrics_url: https://genius.com/Voices-of-theory-say-it-lyrics
 name: Say It
 rankings:
 - end_date: '1998-04-10'
@@ -131,4 +132,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
 ---
+Am I giving enough
+Is it all it should be
+When the water gets rough
+Will you still swim with me?
+So afraid to come close
+I know that it may be too soon
+It may be too much
+For you to consume
 
+
+And I want to know if I can live inside your world
+And I want to know if I can give it to you girl
+
+
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on
+
+
+I give you all that you need
+There's no better place you could be
+And I know that in time
+You will believe me
+So please hold out your hand
+And let's exchange these golden bands
+Cause I want you in my life
+I want you to be my wife
+
+
+And I want to know if I can live inside your world
+And I want to know if I can give it to you girl
+
+
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on
+
+
+My girl, is so special
+I want to give it all to you
+Loving you on and on
+My girl, is so special
+I want to give it all to you
+Loving you on and on
+
+
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on
+You know that I want to say it
+You know that I need to say it
+You know that I'd love to say it
+My love just goes on and on and on

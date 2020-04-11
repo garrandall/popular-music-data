@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-wit-cha-bobby-brown
+lyrics_url: https://genius.com/Bobby-brown-rock-witcha-lyrics
 name: Rock Wit'cha
 rankings:
 - end_date: '1989-09-01'
@@ -91,4 +92,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
 ---
+Now that you are here with me
+Baby, let's do it right
+Lady, you know just what I need
+I want to hold you, oh, so tight
 
+Baby, just touch me anywhere
+Cutie, you turn me on, ooh, baby
+I'd like to run my fingers through your hair
+So come on and stay with me all night
+
+I wanna rock wit'cha, baby
+All night long
+I wanna roll wit'cha, lady
+Feelings so strong
+I wanna rock wit'cha, baby
+All night long
+Rock and roll and roll and rock
+Makin' sweet love, don't you ever stop
+
+No, sweet baby
+No
+
+I want a little music now
+Let's hear some Marvin Gaye, ooh
+Ooh, let me rub your shoulders down
+Let's dance the night away
+
+Feel your heart beating next to mine
+Baby, I'll make you feel nice
+I think I can tell what's on your mind
+I know I can make it right
+
+I wanna rock wit'cha, baby
+Girl, all night long
+I wanna roll wit'cha, lady
+The feeling's so strong, hey, girl
+I wanna rock wit'cha, baby
+All night long
+Rock and roll and roll and rock
+Makin' sweet love, don't you ever stop
+
+I wanna rock wit'cha, baby
+All night long
+I wanna roll wit'cha, lady
+The feeling's so strong
+I wanna rock wit'cha, baby
+All night long
+Rock and roll and roll and rock
+Makin' sweet love and don't ever stop
+
+Oh...baby
+
+I wanna rock wit'cha, baby
+Ooh...girl, all night long
+I wanna roll wit'cha, lady
+Feeling's so, feeling's so strong, hey, girl
+I wanna rock wit'cha, baby
+All night long
+Rock and roll and roll and rock
+Makin' sweet love and don't ever stop
+
+I wanna rock wit'cha, baby
+All night long, I wanna give it to you, girl
+I wanna roll wit'cha, lady
+Oh, the feeling's so, feeling's so strong, baby
+I wanna rock wit'cha, baby
+All night long
+Rock and roll and roll and rock

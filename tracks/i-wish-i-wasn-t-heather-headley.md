@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-i-wasn-t-heather-headley
+lyrics_url: https://www.musixmatch.com/lyrics/Heather-Headley/I-Wish-I-Wasn-t
 name: I Wish I Wasn't
 rankings:
 - end_date: '2003-05-09'
@@ -87,4 +88,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
 ---
+I'm home alone again
+And you're out, hanging with your friends
+So you say, somehow I know it's not quite that way
+It's getting pretty late
+And you haven't checked on me all day
+When I called, you didn't answer
+Now I'm feeling like you're ignoring me
+I wish, that you were home
+Holding me tight in your arms
+I wish, I could go back
+To the day before we met
+And skip my regret
 
+I wish I wasn't in love with you
+So you couldn't hurt me
+It just ain't fair the way you treat me
+No you don't deserve me
+Wasted my time thinking bout you and you ain't never gone change
+I wish I wasn't in love with you so I wouldn't feel this way
+
+When you touch me my heart melts
+And everything you did wrong I forget
+So you play me and take advantage
+Of the love that I feel for you
+Why you wanna hurt me so bad
+I believed in you that's why I'm so mad
+Now I'm drowning in disappointment
+And it's hard for me to even look at you
+I wish, that you were home
+Holding me tight in your arms (Oooh baby)
+I wish, I could go back
+To the day before we met
+And skip my regret
+
+I wish I wasn't in love with you
+So you couldn't hurt me
+It just ain't fair the way you treat me
+No you don't deserve me
+Wasted my time thinking bout you and you ain't never gone change
+I wish I wasn't in love with you so I wouldn't feel this way
+
+Said you care about me
+But from what I see
+I ain't feeling all that
+So I disagree
+Gave you all my love
+And understanding
+
+Yet you treated me like your enemy
+So leave me alone
+Don't want nothin' from you
+Just go back where you came from
+This house is no longer your home
+You're not welcome no, no, no more
+
+I wish I wasn't in love with you
+So you couldn't hurt me
+It just ain't fair the way you treat me
+No you don't deserve me
+Wasted my time thinking bout you and you ain't never gone change
+
+I wish I wasn't in love with you so I wouldn't feel this way
+I wish I wasn't in love with you
+So you couldn't hurt me
+It just ain't fair the way you treat me
+No you don't deserve me
+Wasted my time thinking bout you and you ain't never gone change
+I wish I wasn't in love with you so I wouldn't feel this way
+
+Hear you knockin' at the door again
+I'm wonderin' should I let you in
+I open up the door and see
+The flowers for me
+So beautiful in your hand
+Please stop begging me to take you back
+I've always been a sucker for romance
+And before you know it I concede
+You're all over me
+Oh no here I go again
+I wish I wasn't in love with you
+So you couldn't hurt me

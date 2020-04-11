@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-outta-my-dreams-get-into-my-car-billy-ocean
+lyrics_url: https://genius.com/Billy-ocean-get-outta-my-dreams-get-into-my-car-lyrics
 name: Get Outta My Dreams Get Into My Car
 rankings:
 - end_date: '1988-02-19'
@@ -87,4 +88,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
 ---
+Hey you, get in to my car! Who me?
+Yes you, get in to my car
+Woooooooooh. Wah! Hey
 
+
+Who's that lady coming down the road
+Who's that lady
+Who's that woman walking through my door
+What's the score
+I'll be the sun shining on you
+Hey Cinderella step in your shoe
+I'll be your non-stop lover
+Get it while you can
+Your non-stop miracle, I'm your man
+
+
+Get outta my dreams
+Get in to my car
+Get outta my dreams
+(Get in to the back seat baby)
+Get in to my car
+(Beep Beep, yeah)
+Get outta my mind
+Get in to my life
+(Ooooooh)
+Oh I said hey (Hey) you (You)
+Get in to my car
+Oh baby
+
+
+Lady driver let me take your wheel
+Smooth operator
+Touch my bumper (Bumper)
+Hey, let's make a deal, make it real
+Like a road runner
+Coming after you
+Just like a hero outta the blue
+I'll be your non-stop lover
+Get it while you can
+Your non-stop miracle
+I'm your man
+
+Get outta my dreams
+Get in to my car
+Get outta my dreams
+(Get in to the back seat baby)
+Get in to my car
+(Beep Beep, yeah)
+Get outta my mind
+Get in to my life
+(Ooooooh)
+Oh I said hey (Hey) you (You)
+Get in to my car
+
+Oh baby, lets go
+
+I said open the door
+(Get in the back)
+Tread on the floor
+(Get on the track)
+
+Yeah (Yeah) yeah (Yeah)
+Yeah (Yeah) yeah (Yeah)
+
+Let's go
+
+Oooh, wooow, yeah
+
+I'll be the sun shining on you
+Hey Cinderella step in your shoe
+I'll be your non-stop lover
+Get it while you can
+Your non-stop miracle
+I'm your man
+
+Get outta my get outta my
+Woooooooooh
+Get outta my dreams
+Get in to my car
+Get outta my dreams
+(Get in to the back seat baby)
+Get in to my car
+(Beep Beep, yeah)
+Get outta my mind
+Get in to my life
+(Ooooooh)
+
+Oh I said hey (Hey) you (You)
+Get in to my hey (Hey) you (You)
+Get in to my hey (Hey) you (You)
+Get in to my car
+
+Hey you
+(Get in the back seat)
+I need you to get in the back seat
+I want you in my baby
+I want you in my baby
+Get in the back seat, back seat...
+I'll do the driving
+I'll take the wheel..
+(Back seat, back seat...)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-only-woman--you---i--ambrosia
+lyrics_url: https://genius.com/Ambrosia-youre-the-only-woman-lyrics
 name: You're The Only Woman (You & I)
 rankings:
 - end_date: '1980-07-18'
@@ -79,4 +80,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
 ---
+Oh baby
+Say, now, you
+You talk about The things I do
+But baby, I yeah
+I'll try 'n' explain the reasons why
 
+
+'Cause I've been thinkin' 'bout the things
+That we said late last night
+When every word I said
+Just didn't come out right
+And you were so afraid
+That I'd found someone new
+But darlin', well, there's no need
+For what we're goin' through
+
+
+Because you and I've been in love too long
+To worry 'bout tomorrow
+Here's a place where we both belong
+I know you're the only woman that I'm dreamin' of
+You're the only woman that I really love
+
+
+Baby see, what a foolish heart has done for me
+Darlin' why yeah, would you break my heart and make me cry?
+Well now, you can't go back and change the way things are
+And all this foolish talk won't take us very far
+And so I hope you're list'nin' 'cause I'm tellin' you
+About the, the way I feel and what I'm goin' through
+
+
+Because you and I've been in love too long
+To worry 'bout tomorrow
+Here's a place where we both belong
+I know you're the only woman that I'm dreamin' of
+You're the only woman that I really love
+I said you're the only woman that i really love
+You're the only woman that i really love
+
+
+Oh Don't speak, Ssssh …
+
+
+When the pain of love surrounds you
+And the world may be unkind
+I'll put my lovin' arms around you
+Take you far from this place and time
+
+
+Because you and i been in love too long
+To worry 'bout tomorrow
+Here's a place where we both belong
+I know you're the only woman I’ve been dreamin' of
+Baby, you're the only woman that I really love
+You're the only woman
+I know you're the only woman
+Well now you're the only woman

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-thing-u-do-christopher-williams
+lyrics_url: https://genius.com/Christopher-williams-every-little-thing-u-do-lyrics
 name: Every Little Thing U Do
 rankings:
 - end_date: '1993-04-30'
@@ -55,4 +56,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
 ---
+Everything u do just turns me on
 
+Every little thing u do
+It turns me on, oh yeah
+And every little thing you say
+It makes me wanna stay another day, another day
+
+Sexy thing, tell me do
+You want to go with me tonight
+'Cause in my mind, I see romantic places
+Candlelight, champagne on ice
+
+It's the way you move me
+It's the way you groove me
+It's the way you do me
+That keeps me coming home
+
+It's the way you move me
+It's the way you groove me
+It's the way you do me
+That keeps me coming home
+
+Every little thing u do
+It turns me on, oh yeah
+And every little thing you say
+It makes me wanna stay another day, another day
+
+Sugar, it's on my mind
+And everyday my heart beats for you
+You're my angel, sometimes in disguise
+And that's what really does me wise
+
+It's the way you move me
+It's the way you groove me
+It's the way you do me
+That keeps me coming home
+
+It's the way you move me
+It's the way you groove me
+It's the way you do me
+That keeps me coming home
+
+Every little thing u do
+It turns me on, oh yeah
+And every little thing you say
+It makes me wanna stay another day, another day
+
+Every little thing u do
+It turns me on, oh, yeah
+And every little thing you say
+It makes me wanna stay another day, another day
+
+Every little thing u do
+It turns me on, oh, yeah
+And every little thing you say
+It makes me wanna stay another day, another day
+
+Every little thing u do
+It turns me on, oh, yeah
+And every little thing you say

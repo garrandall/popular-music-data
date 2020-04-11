@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: through-the-storm-aretha-franklin-elton-john
+lyrics_url: https://genius.com/Aretha-franklin-and-elton-john-through-the-storm-lyrics
 name: Through The Storm
 rankings:
 - end_date: '1989-04-21'
@@ -52,4 +53,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
 ---
-
+In this world it's hard
+You know
+Lovers come and lovers go
+People never seem to hold on to what they've got
+Some
+They never stay together
+You and I will be no better
+We can make it last forever
+We can keep this love alive
+Through the storm
+Through the tears
+You and I
+I know we can survive
+To the day
+Through the night
+If we try we can keep it alive
+We can keep it alive
+I know sometimes it's been so tough
+We've been so close to giving up
+But our love's so strong and we keep holding on
+Yeah
+To what we got
+It's easier to walk away
+It takes a lot of love to stay
+We've got all the love it takes
+We know there's a brighter day
+Through the storm
+Through the tears
+You and I
+I know we can survive
+To the day
+Through the night
+If we try we can keep it alive
+We can keep it alive
+We just gotta be strong
+We just gotta be strong
+We just gotta be strong together
+We just gotta hold on
+We just gotta hold on
+We just gotta hold on and go through the storm
+Through the storm
+Through the tears
+You and I
+I know we can survive
+To the day
+Through the night
+If we try we can keep it alive
+We can keep it alive
+Through the storm
+Through the tears
+You and I
+I know we can survive
+To the day
+Through the night
+If we try we can keep it alive
+We can keep it alive

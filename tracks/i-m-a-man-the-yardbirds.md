@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-man-the-yardbirds
+lyrics_url: https://genius.com/The-yardbirds-im-a-man-lyrics
 name: I'm A Man
 rankings:
 - end_date: '1965-11-05'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
 ---
+Now when I was a little boy
+At the age of five
+I had somethin' in my pocket
+Keep a lot of folks alive
+Now I'm a man
+Made twenty-one
+And you got to know baby
+We can have a lot of fun
 
+
+I'm a man
+I spell M A N, man
+A full grown man, lover man
+Alright, take it easy now
+I hear you, I hear you
+
+
+All you pretty women stand in line
+I can make love to you baby
+In an hour's time
+Ain't that amazing?
+I spell M A N, man
+I'm a man, I'm a man
+Full grown man, ain't that a man?
+I'm a rollin' stone
+Goin' back down to Mississippi to
+Bring back the second cousin
+Little John, the conqueroo
+
+
+I'm a man
+I spell M A N, man
+A full grown lover man
+I'm a rollin' stone
+
+
+The line I shoot will never miss
+The way I make love to 'em
+They can't resist
+
+
+Man
+I spell M A N, man
+I'm a man
+I'm a full grown man, yeah
+
+
+A man
+I'm a natural born lover man
+You don't talk about
+A man

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: real-love-slaughter
+lyrics_url: https://genius.com/Slaughter-real-love-lyrics
 name: Real Love
 rankings:
 - end_date: '1992-08-28'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
 ---
-
+I lie awake in the morning light
+No one to hold
+Another sleepless night
+'Cause it's over now that you've left me
+Oh so lonely
+Oh, I hear it calling
+Oh, I hear it calling
+Real love won't somebody show me
+Real love isn't anyone true anymore
+Real love won't somebody show me
+Real love where are you
+All through my lifei've been feelin' down
+Searchin' to find
+I'm lost and not found
+There's gotta be someone
+Someone who understands me
+Oh, I hear it calling
+Oh, I hear it calling
+Real love won't somebody show me
+Real love isn't anyone true anymore
+Real love won't somebody show me
+Real love where are you
+Oh, I hear it calling
+Oh, can't you hear it calling
+Real love won't somebody show me
+Real love isn't anyone true anymore
+Real love won't somebody show me
+Real love where are you

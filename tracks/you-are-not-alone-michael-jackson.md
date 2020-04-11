@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-not-alone-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-you-are-not-alone-lyrics
 name: You Are Not Alone
 rankings:
 - end_date: '1995-09-08'
@@ -87,4 +88,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-13'
 ---
+Another day has gone
+I'm still all alone
+How could this be
+You're not here with me
+You never said goodbye
+Someone tell me why
+Did you have to go
+And leave my world so cold
 
+
+Every day I sit and ask myself
+How did love slip away
+Something whispers in my ear and says
+
+
+That you are not alone
+I am here with you
+Though you're far away
+I am here to stay
+But you are not alone
+I am here with you
+Though we're far apart
+You're always in my heart
+But you are not alone
+
+'Lone, 'lone
+Why, 'lone
+
+
+Just the other night
+I thought I heard you cry
+Asking me to come
+And hold you in my arms
+I can hear your prayers
+Your burdens I will bear
+But first I need your hand
+Then forever can begin
+
+
+Every day I sit and ask myself
+How did love slip away
+Something whispers in my ear and says
+
+
+That you are not alone
+I am here with you
+Though you're far away
+I am here to stay
+But you are not alone
+I am here with you
+Though we're far apart
+You're always in my heart
+But you are not alone
+
+'Lone, 'lone
+Why, 'lone
+
+
+Whisper three words and I'll come running
+And girl you know that I'll be there
+I'll be there
+
+
+That you are not alone
+I am here with you
+Though you're far away
+I am here to stay
+But you are not alone
+I am here with you
+Though we're far apart
+You're always in my heart
+But you are not alone
+
+'Lone, 'lone
+Why, 'lone
+
+
+For you are not alone
+Not alone oh
+You are not alone
+You are not alone
+Say it again
+You are not alone
+You are not alone
+Not alone, Not alone
+If you just reach out for me girl
+In the morning, in the evening
+Not alone, not alone
+You and me not alone
+Oh together together
+Not not being alone
+Not not being alone

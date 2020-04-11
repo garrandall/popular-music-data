@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: baby-don-t-you-weep-garnet-mimms-the-enchanters
+lyrics_url: https://www.musixmatch.com/lyrics/Garnet-Mimms-feat-The-Enchanters/Baby-Don-t-You-Weep
 name: Baby Don't You Weep
 rankings:
 - end_date: '1963-11-22'
@@ -44,4 +45,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+Baby, don't you weep
+I said, baby, don't you weep
+Baby, don't you weep
 
+Said I'm not fooling this time
+(Baby, don't you weep)
+I'm not going to hurt you no more
+(No more) no more (no more)
+
+I said never (never)
+I said never (never)
+Never, never, never, never
+
+Baby (don't you weep)
+Come and get the
+Love I offer you
+(Baby, don't you weep)
+I'll do anything you
+Want me to
+(Baby, don't you weep)
+
+Not going to hurt you no more
+(No more) no more (no more)
+
+I said never (never)
+I said never (never)
+Never, never, never, never
+Baby (don't you weep)
+
+How many times
+I've wanted to tell you
+Exactly the way I feel
+But I put you through
+Some heartaches, baby
+When I need you
+Your love is real
+
+And these tears
+Falling from your eyes
+Are the last you'll
+Ever have to wipe away
+So don't be afraid
+To love me, darling
+Cause I'm really here to stay
+Believe me
+
+Come on (yeah) come on
+(Yeah) come on (yeah)
+Come on (yeah) come on
+
+Baby (don't you weep)
+Come and get the
+Love I offer you
+(Baby, don't you weep)
+I'll do anything you
+Want me to
+(Baby, don't you weep)
+
+I'm not going to
+Hurt you no more
+(No more) no more (no more)
+I said never (nor)
+I said never (no)
+Never, never, never, never
+Baby (don't you weep)
+
+Baby (don't you weep)
+I don't want you to
+Cry no more, darling
+(Baby, don't you weep)...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-mine-kanye-west
+lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West/All-Mine
 name: All Mine
 rankings:
 - end_date: '2018-06-22'
@@ -43,4 +44,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
 ---
+Yeah, you supermodel thick
+Damn, that ass bustin' out the bottom
+I'ma lose my mind in it
+Crazy, that medulla oblongata
+Get to rubbin' on my lamp
+Get the genie out the bottle
 
+Fuck it up, fuck it up
+Pussy good, go and back it up
+Pipe her up, I'ma pipe her up
+Make her mine, I done fell in love
+Juicy thing, make that pussy say
+One more time, baby, do it big
+Make it cry, come boohoo this shit
+
+Yeah, you supermodel thick
+Damn, that ass bustin' out the bottom
+I'ma lose my mind in it
+Crazy, that medulla oblongata
+Get to rubbin' on my lamp
+Get the genie out the bottle
+
+If I pull up with a Kerry Washington
+That's gon' be an enormous scandal
+I could have Naomi Campbell
+And still might want me a Stormy Daniels
+Sometimes, you gotta back to boss up
+I call that taking Corey Gambles
+Find yourself up in the food court
+You might have to enjoy your sample
+
+All these thots on Christian Mingle
+Almost what got Tristan single
+If you don't ball like him or Kobe
+Guarantee that bitch gonna leave you
+Ayy, time is extremely valuable
+And I prefer to waste it
+On girls that's basic
+That's just some Ye shit
+Right now let's do what we want
+Let's have a threesome with you and the blunt
+I love your titties
+'Cause they prove I can focus on two things at once
+
+Yeah, you supermodel thick
+Damn, that ass bustin' out the bottom
+I'ma lose my mind in it
+Crazy that medulla oblongata
+Get to rubbin' on my lamp
+Get the genie out the bottle
+Get the genie out the bottle
+
+Let me hit it raw like fuck the outcome
+Ayy, none of us would be here without cum
+Ayy, if it ain't all about the income
+Ayy, let me see you go ahead and spend some
+Ayy, if you drivin' 'round in some Dri-Fit
+Ayy, I'ma think that you the type to dry snitch
+Hm, mhm, If I see you pull up with the three stripes
+Ayy, ayy, I'ma fuck around and make you my bitch
+
+Yeah, you supermodel thick
+Damn, that ass bustin' out the bottom
+I'ma lose my mind in it
+Crazy that medulla oblongata
+Get to rubbin' on my lamp
+Get the genie out the bottle
+Get the genie out the bottle

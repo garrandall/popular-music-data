@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-lynn-anderson
+lyrics_url: https://genius.com/Lynn-anderson-cry-lyrics
 name: Cry
 rankings:
 - end_date: '1972-02-04'
@@ -27,4 +28,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
 ---
-
+If your sweetheart sends a letter of goodbye it's no secret you feel better if you cry
+When waking from a bad dream don't you sometimes think it's real
+But it's only false emotions that you feel
+If your heartaches seem to hang around too long
+And your blues keep getting bluer with each song
+Remember sunshine can be found behind the cloudy sky
+So let your head down and go on and cry
+If your heartaches seem to...
+Oh let your head down and go on and cry

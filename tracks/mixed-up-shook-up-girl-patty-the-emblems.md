@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: mixed-up-shook-up-girl-patty-the-emblems
+lyrics_url: https://genius.com/Patty-and-the-emblems-mixed-up-shook-up-girl-lyrics
 name: Mixed-Up Shook-Up Girl
 rankings:
 - end_date: '1964-06-26'
@@ -52,4 +53,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+She's a mixed-up, shook-up girl
+Yes, she is
+She's a mixed-up, shook-up girl
+Yes, she is
 
+
+Am I crying because I'm happy
+Or am I crying because I'm blue without you?
+My heart has blown away
+Now you've gone and gone away
+I'm a mixed-up, shook-up girl over you
+Am I crying because you left me
+Or am I crying because I don't know what to do?
+One day you said you'd never part
+Am I sad, or am I glad?
+I'm a mixed-up, shook-up girl over you
+
+
+One day you said you'd never part
+Am I sad, or am I glad?
+I'm a mixed-up, shook-up girl over you
+Oh yeah, I'm a mixed-up, shook-up girl over you
+Yeah, I'm a mixed-up, shook-up girl over you

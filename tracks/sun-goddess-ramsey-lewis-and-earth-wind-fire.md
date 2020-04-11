@@ -1,11 +1,11 @@
 ---
 artists:
-- Ramsey Lewis And Earth
-- Wind
-- Fire
-features: []
+- Ramsey Lewis
+features:
+- Earth, Wind & Fire
 genres: []
 key: sun-goddess-ramsey-lewis-and-earth-wind-fire
+lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-feat-Ramsey-Lewis/Sun-Goddess
 name: Sun Goddess
 rankings:
 - end_date: '1975-03-28'
@@ -37,4 +37,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
-
+Way ooh
+Way ooh
+Bop bop way ooh
+Way ohh
+Bop de op bop bop bop bop way ooh
+Bop nop way ooh
+Way ooh!
+Way ooh
+Bop de ooop bop bop bop bop
+Way ooh
+Way bop bop way ooh
+Way ooh
+Way ooh bop bop way ooh
+Way ooh way ooh,
+Bop way ooh way ooh
+Bop de oop bop bop bop bop way ooh

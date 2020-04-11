@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-find-another-you-the-seekers
+lyrics_url: https://genius.com/The-seekers-ill-never-find-another-you-lyrics
 name: I'll Never Find Another You
 rankings:
 - end_date: '1965-04-02'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+There's a new world somewhere
+They call the promised land,
+And I'll be there someday
+If you will hold my hand
+I'll still need you there beside me
+No matter what I do
+For I know I'll never find another you
 
+There is always someone
+For each of us, they say
+And you'll be my someone
+Forever and a day
+I could search the whole world over
+Until my life is through
+But I know I'll never find another you
+
+It's a long, long journey
+So stay by my side
+When I walk through the storm
+You'll be my guide
+Be my guide
+
+If they gave me a fortune
+My pleasure would be small.
+I could lose it all tomorrow
+And never mind at all
+But if I should lose your love, dear
+I don't know what I'd do
+For I know I'll never find another you
+
+But if I should lose your love, dear
+I don't know what I'd do
+For I know I'll never find another you
+
+Another you
+Another you

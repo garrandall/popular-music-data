@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-ride-ride-brenda-lee
+lyrics_url: https://www.musixmatch.com/lyrics/Brenda-Lee/Ride-Ride-Ride
 name: Ride Ride Ride
 rankings:
 - end_date: '1967-01-20'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
 ---
+Ride, ride, ride)
+(Ride, ride, ride)
 
+
+If you don't want me, baby
+If you're not satisfied
+If you don't care
+Get on your horse
+And ride, ride, ride
+
+Since you got on your high horse
+Those fancy friends you've found
+You have a hard time seeing me
+You're always looking down
+
+
+
+You talk about me, honey
+You try to tear me down
+But while you're throwing dirt on me
+You're slowly losing ground
+
+
+
+I had your second fiddle
+Returned to you today
+'Cause, baby, that's one instrument
+I've never learned to play
+
+
+
+Ride, ride, ride
+Ride, ride, ride
+Ride, ride, ride...

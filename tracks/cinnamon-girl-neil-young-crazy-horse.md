@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cinnamon-girl-neil-young-crazy-horse
+lyrics_url: https://genius.com/Neil-young-and-crazy-horse-cinnamon-girl-lyrics
 name: Cinnamon Girl
 rankings:
 - end_date: '1970-06-26'
@@ -44,4 +45,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
 ---
+I wanna live with a cinnamon girl
+I could be happy the rest of my life
+With a cinnamon girl
 
+A dreamer of pictures, I run in the night
+You see us together, chasing the moonlight
+My cinnamon girl
+
+Ten silver saxes, a bass with a bow
+The drummer relaxes and waits between shows
+For his cinnamon girl
+
+A dreamer of pictures, I run in the night
+You see us together, chasing the moonlight
+My cinnamon girl
+
+Pa sent me money now
+I'm going to make it somehow
+I need another chance
+You see your baby loves to dance
+Yeah, yeah, yeah

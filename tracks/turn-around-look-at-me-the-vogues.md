@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-around-look-at-me-the-vogues
+lyrics_url: https://www.musixmatch.com/lyrics/The-Vogues/Turn-Around-Look-at-Me
 name: Turn Around Look At Me
 rankings:
 - end_date: '1968-06-21'
@@ -67,4 +68,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
-
+There is someone walking behind you,
+Turn around, look at me
+There is someone watching your footsteps,
+Turn around, look at me
+There is someone who really needs you
+Here is my heart in my hand
+Turn around (turn around), look at me (look at me)
+Undertstand, understand
+That there's someone
+Who'll stand beside you
+Turn around, look at me
+And there's someone
+To love and guide you
+Turn around, look at me
+O I've waited, but I'll wait forever
+For you to come to me
+Look at someone (Look at someone)
+Who really loves you (yea loves you)
+Turn around, look at me
+Turn around, look at me

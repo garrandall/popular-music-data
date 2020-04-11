@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-be-with-you-dee-dee-warwick
+lyrics_url: https://www.musixmatch.com/lyrics/Dee-Dee-Warwick/I-Want-to-Be-With-You
 name: I Want To Be With You
 rankings:
 - end_date: '1966-09-02'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
 ---
+I wanna be with you
+I wanna be with you
+Every night, wrong or right
+I've got to be with you
 
+I wanna be your girl
+Your one and only girl
+You turn my grey skies to blue
+Oh yes, you do
+I wanna be with you
+
+(I wanna be with you)
+I wanna be with you
+(I wanna be with you)
+I wanna hold your hand and understand
+Baby, baby, every night
+Let it be wrong or right
+I've got, I've got to
+I wanna be with you
+
+(I wanna be with you)
+Baby, baby, baby, baby, baby
+Let me be with you
+(I wanna be with you)
+Let me hold your hand, let me understand
+I wanna be with you
+Whether I'm wrong or right
+(I wanna be with you)
+I wanna be with you, baby
+(I wanna be with you)
+
+(Fadeout)

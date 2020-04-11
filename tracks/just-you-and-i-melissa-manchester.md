@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-you-and-i-melissa-manchester
+lyrics_url: https://genius.com/Melissa-manchester-just-you-and-i-lyrics
 name: Just You And I
 rankings:
 - end_date: '1976-02-13'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
-
+JUST YOU AND I Melissa Manchester When your heroes go up in a puff, And there's not enough to hang on to And the ones you would count on to call They all fall down all around you Then you've got to believe there's more It is the reason we're put here for It's just you and I We can look to each other to see us through When the legends' over - and we have just begun Just you and I When a miracle's long overdue And there's no one who's gonna come to guide you So you keep looking up to the sky - wondering why The clouds won't hide you At the times when you're most afraid That is the reason why dreams are made When the legend's over - and we have just begun It's just you and I We can look to each other to see us through Just you and I From: "Jorge Luis Contreras"

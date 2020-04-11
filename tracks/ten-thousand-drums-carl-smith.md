@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ten-thousand-drums-carl-smith
+lyrics_url: https://genius.com/Carl-smith-ten-thousand-drums-lyrics
 name: Ten Thousand Drums
 rankings:
 - end_date: '1959-07-12'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
 ---
+Waiting, waiting, for the Red Coats to come
+But all I hear in my frozen ears is ten thousand drums
+Ten thousand drums
 
+
+Johnny, Johnny, don't be afraid
+We can whip those Red Coats setting in the shade
+Setting in the shade
+
+
+We've got the best of all the rest in General Washington
+And when we meet those Red Coats, watch them Red Coats run
+Throwing down their drums
+Throwing down their drums
+
+
+Listen, listen, Johnny better get your gun
+'Cause there ain't wooden soldiers behind ten thousand drums
+Behind ten thousand drums
+
+
+Running, running, Johnny watch them run
+We finally whip those Red Coats, finally stop those drums
+We stopped ten thousand drums
+
+
+We're the best of all the rest us Yankee son-of-a-guns
+We can tell our mammy's how we made them run
+Throwing down their drums
+Throwing down their drums
+We're the best of all the rest us Yankee son-of-a-guns
+We can tell our mammy's how we made them run
+Throwing down their drums
+Throwing down their drums
+Ten thousand drums

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cross-fire--the-orlons
+lyrics_url: https://genius.com/The-orlons-crossfire-lyrics
 name: Cross Fire!
 rankings:
 - end_date: '1963-10-04'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
 ---
+Cross fire cross fire cross fire
+Me and my baby we were doing fine
 
+When he started dancing he was mine oh mine
+Started doing the cross fire cross fire cross fire
+And I know it was a big old time
+When they started doing that crazy dance
+Well that was the ruin of our big romance
+Started doing the cross fire cross fire cross fire
+And I never never had a chance
+Everybody was cross fire
+Cross fire cross fire nothing to it
+
+Keep your eyes on your guy
+And kiss your baby goodbye
+I look for my baby but he ain't in view
+I'm looking like crazy what could I do
+They're doing the cross fire cross fire cross fire
+And I found it when the dance was through
+Cross fire cross fire get down to it
+Cross fire
+
+Keep your eyes on your guy
+And kiss your baby goodbye
+They're doing the monkey and the pony too
+They do something crazy like the hippies do
+They're doing the cross fire cross fire cross fire
+Caught in the middle of the cross fire
+Yeah everybody's doing cross fire

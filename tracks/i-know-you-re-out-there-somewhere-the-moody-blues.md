@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know-you-re-out-there-somewhere-the-moody-blues
+lyrics_url: https://genius.com/The-moody-blues-i-know-youre-out-there-somewhere-lyrics
 name: I Know You're Out There Somewhere
 rankings:
 - end_date: '1988-06-10'
@@ -71,4 +72,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
 ---
+I know you're out there somewhere
+Somewhere, somewhere
+I know I'll find you somehow
+And somehow I'll return again to you
 
+The mist is lifting slowly
+I can see the way ahead
+And I've left behind the empty streets
+That once inspired my life
+And the strength of the emotion
+Is like thunder in the air
+'Cause the promise that we made each other
+Haunts me to the end
+
+I know you're out there somewhere
+Somewhere, somewhere
+I know you're out there somewhere
+Somewhere you can hear my voice
+I know I'll find you somehow
+Somehow, somehow
+I know I'll find you somehow
+And somehow I'll return again to you
+
+The secret of your beauty
+And the mystery of your soul
+I've been searching for in everyone I meet
+And the times I've been mistaken
+It's impossible to say
+And the grass is growing
+Underneath our feet
+
+I know you're out there somewhere
+Somewhere, somewhere
+I know you're out there somewhere
+Somewhere you can hear my voice
+I know I'll find you somehow
+Somehow, somehow
+I know I'll find you somehow
+And somehow I'll return again to you
+
+You see, I know you're out there somewhere
+Oh yes, I know you're out there somewhere
+
+You see, I know I'll find you somehow
+Oh yes, I know I'll find you somehow
+
+The words that I remember
+From my childhood still are true
+That there's none so blind
+As those who will not see
+And to those who lack the courage
+And say it's dangerous to try
+Well they just don't know
+That love eternal will not be denied
+
+I know you're out there somewhere
+Somewhere, somewhere
+I know you're out there somewhere
+Somewhere you can hear my voice
+I know I'll find you somehow
+Somehow, somehow
+I know I'll find you somehow
+And somehow I'll return again to you
+
+Yes I know it's going to happen
+(I know it's going to happen)
+I can feel you getting near
+(I feel you getting near)
+And soon we'll be returning
+To the fountain of our youth
+And if you wake up wondering
+(If you wake up wondering)
+In the darkness I'll be there
+(You know I'll be there)
+My arms will close around you
+And protect you with the truth
+
+I know you're out there somewhere
+Somewhere, somewhere
+I know you're out there somewhere
+Somewhere you can hear my voice
+I know I'll find you somehow
+Somehow, somehow
+I know I'll find you somehow
+And somehow I'll return again to you

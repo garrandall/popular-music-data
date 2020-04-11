@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: what-kind-of-fool-do-you-think-i-am-bill-deal-the-rhondels
+lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/What-Kind-of-Fool-Do-You-Think-I-Am
 name: What Kind Of Fool Do You Think I Am
 rankings:
 - end_date: '1969-08-22'
@@ -44,4 +45,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
 ---
+What kind of fool do you think I am
+You think you're gonna go on seeing him
+Darling, after we made all our plans
+You said I'd be your number one man
 
+What kind of fool (what kind of fool)
+(Do you think I am)
+Do you think I am now (think I am)
+
+What kind of fool did you think I'd be
+You said you really, really, really loved me
+You run around all over town
+You build me up and then you let me down
+
+What kind of fool (what kind of fool)
+(Do you think I am)
+Do you think I am now (think I am)
+
+I won't be your second choice
+I've got to be your number one
+Or I ain't gonna love you at all
+
+What kind of fool did you think I'd be
+You said you really, really, really loved me
+You run around all over town
+You build me up and then you let me down
+
+What kind of fool (what kind of fool)
+(Do you think I am)
+Do you think I am now (think I am)
+
+What kind of fool
+(What kind of fool do you think I am)
+Do you think I am now
+(What kind of fool do you think I am)
+
+What kind of fool
+(What kind of fool do you think I am)
+Do you think I am now
+(What kind of fool do you think I am)
+
+What do you think I am
+(What kind of fool do you think I am)
+What do you think I am now
+(What kind of fool do you think I am)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-pretty-baby-brook-benton
+lyrics_url: https://genius.com/Brook-benton-thank-you-pretty-baby-lyrics
 name: Thank You Pretty Baby
 rankings:
 - end_date: '1959-07-19'
@@ -63,4 +64,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
 ---
+I want to thank you, pretty baby, for givin' your love to me
+I want to thank you, pretty baby, for givin' your love to me
+My heart was locked up till you came and set it free
 
+I'm gonna love you, pretty baby, love you till the end of time
+And I-I-I-I-I'm gonna love you, pretty baby, love you till the end of time
+I wanna thank your folks for making you so divine
+
+Thank you for your loving ways
+Mmm-ooh-ooh-ooh-ooh thank you 'cause you've been so kind
+I'm gonna take my time and just thank you, honey
+Because you're mine, all mine, all mine
+
+I'm gonna kiss you in the morning and kiss you in the evening, too
+And I-I-I-I-I'm gonna kiss you in the morning, kiss you in the evening, too
+I'm gonna spend my life loving no one but you
+I'm gonna spend my life loving no one but you

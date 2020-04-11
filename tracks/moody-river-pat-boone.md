@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moody-river-pat-boone
+lyrics_url: https://genius.com/Pat-boone-moody-river-lyrics
 name: Moody River
 rankings:
 - end_date: '1961-05-07'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+(Moody river, wooh)
+(Moody river, wooh)
 
+Moody river more deadly
+Than the vainest knife
+Moody river your muddy water
+Took my baby's life
+
+Last Saturday evening
+Came to the old oak tree
+It stands beside the river
+Where you were to meet me
+
+On the ground your glove I found
+With a note addressed to me
+It read, "Dear love, I've done you wrong
+Now I must set you free
+
+No longer can I live
+With this hurt and this sin
+I just couldn't tell you
+That guy was just a friend."
+
+Moody river more deadly
+Than the vainest knife
+Moody river your muddy water
+Took my baby's life
+
+I looked into the muddy waters
+And what could I see?
+I saw a lonely, lonely face just
+Lookin' back at me
+
+Tears in his eyes
+And a prayer on his lips
+And the glove of his lost love
+At his finger tips
+
+Moody river more deadly
+Than the vainest knife
+Moody river your muddy water
+Took my baby's life

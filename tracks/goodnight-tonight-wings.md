@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodnight-tonight-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-goodnight-tonight-lyrics
 name: Goodnight Tonight
 rankings:
 - end_date: '1979-04-06'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
 ---
+Ooh
+Ooh
+Ooh, oooh
 
+
+Don't get too tired for love
+Don't let it end
+Don't say goodnight to love
+It may never be the same again
+
+
+Don't say it, don't say it
+Say anything, don't say goodnight tonight
+Don't say it, don't say it
+Say anything, don't say goodnight tonight
+Don't say it, don't say it
+You could say anything, but don't say goodnight tonight
+Don't say it, don't say it
+Say anything, don't say goodnight tonight
+Don't say it, don't say it
+Say anything, but don't say goodnight tonight
+
+
+Don't get too tired for love
+Don't let it end
+Don't say goodnight to love
+(Don't say it, don't say it, don't say it
+Don't say goodnight tonight)
+It's a feeling that may never end
+(Don't say it, don't say it, don't say it
+Don't say goodnight tonight)
+
+
+Don't say it, don't say it
+Say anything, don't say goodnight tonight
+Don't say it, don't say it
+Say anything, don't say goodnight tonight
+Don't say it, don't say it
+You could say anything, but don't say goodnight tonight
+Don't say it, don't say it
+Don't say it
+Don't say goodnight tonight

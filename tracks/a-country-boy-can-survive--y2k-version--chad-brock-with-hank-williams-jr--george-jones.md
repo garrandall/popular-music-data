@@ -1,8 +1,9 @@
 ---
 artists:
-- Chad Brock With Hank Williams Jr.
+- Chad Brock
 - George Jones
-features: []
+features:
+- Hank Williams Jr.
 genres: []
 key: a-country-boy-can-survive--y2k-version--chad-brock-with-hank-williams-jr--george-jones
 name: A Country Boy Can Survive (Y2K Version)

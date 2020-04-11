@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drowning-in-the-sea-of-love-joe-simon
+lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Drowning-in-the-Sea-of-Love
 name: Drowning In The Sea Of Love
 rankings:
 - end_date: '1971-12-03'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
 ---
+I've been down one time
+And I've been down two times
+But right now I'm drowning
+Drowning in a sea of love
 
+I've been out here for so very long
+I've lost all of my direction
+Baby when you came my way
+I thought I had found my protection
+But a strong wind came into my life
+It surely took me by surprise
+I can't seem to control these tears
+That are falling from my eyes
+
+I've been down one time
+And I've been down two times
+But right now I'm drowning
+Drowning in a sea of love
+
+Baby I depended on you
+For our love navigation
+Now you've gone and deserted me
+Can't you see that I'm in desperation
+I'm in the middle of a bad love storm
+Oh yeah I wasn't ready for
+And I look around and all I see
+Is water coming over me
+
+I've been down one time
+I've been down two times
+But right now I'm drowning
+Drowning in a sea of love
+
+I've been out here for so very long
+I lost all of my direction
+Baby when you came my way
+I thought I had found my protection
+But a strong wind came into my life
+It surely took me by surprise
+And I can't seem to control these tears
+That are falling from my eyes
+
+I've been down one time
+And I've been down two times
+But right now I'm drowning
+Drowning in a sea of love
+Drowning in a sea of love

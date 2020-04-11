@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: winner-takes-it-all-sammy-hagar
+lyrics_url: https://www.musixmatch.com/lyrics/Sammy-Hagar/Winner-Takes-It-All
 name: Winner Takes It All
 rankings:
 - end_date: '1987-02-20'
@@ -63,4 +64,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
 ---
+I watch with open eyes
+Till it's time
+To take it all the way, hey
 
+Everyday
+The game is ours to play
+Oh, tell me why
+There are no alibis
+
+'Cause winner takes it all
+Loser takes a fall
+Fight to the beginning of the end
+
+Winner takes it all
+Till he breaks the fall
+In time he'll make it over the top
+Hey
+
+Hey
+You listen when I say
+There's a dream
+Oh, that's comin' true today, yeah
+
+Never turn away
+When the challenge is alive
+The choice is yours to make
+In every chance you take
+
+'Cause the winner takes it all
+Loser takes a fall
+Fight till the beginning of the end
+
+Winner takes it all
+Till he breaks the fall
+In time he'll make it over the top
+
+First the mind
+Then the soul
+And when the heart
+Gets pumped up for the goal
+
+There's no defeat
+You'd sooner die
+It's man to man
+As we stand eye to eye
+
+Oh, winner takes it all
+Loser takes a fall
+Fight till the beginning of the end
+
+Winner takes it all
+Till he breaks the fall
+In time he'll make it over the top
+
+Winner takes it all
+Loser takes a fall
+Fight till the beginning of the end
+
+Winner takes it all
+Till he breaks the fall
+In time he'll make it over the top
+
+Winner takes it all
+Loser takes a fall
+Fight till the beginning of the end

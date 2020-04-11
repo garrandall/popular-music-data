@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancin--crown-heights-affair
+lyrics_url: https://www.musixmatch.com/lyrics/Crown-Heights-Affair/Dancin
 name: Dancin'
 rankings:
 - end_date: '1977-02-25'
@@ -59,4 +60,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
+Dancing to the rhythm
+Of the funky sound
+That's going round town
 
+Everybody say
+Di di di di... dance
+
+We got the rhythm
+And it's time to get down
+
+Everybody say
+Di di di di... dance
+
+Dance to the rhythm
+Of the funky sound
+That's going round town
+
+Everybody say
+Di di di di... dance
+
+We got the rhythm
+And it's time to get down
+
+Everybody say
+Di di di di... dance
+
+Di di di di... dance, dance
+Di di di di... dancing
+Di di di di... dance, dance
+
+Dancing to the rhythm
+Of the funky sound
+That's going round town
+
+Everybody say
+Di di di di... dance
+
+We got the rhythm
+And it's time to get down
+
+Everybody say
+Di di di di... dance
+
+Dancing to the rhythm
+Of the funky sound
+That's going round town
+
+Everybody say
+Di di di di... dance
+
+We got the rhythm
+And it's time to get down
+
+Everybody say
+Di di di di... dance
+
+Di di di di... dance, dance
+Di di di di... dance, dance

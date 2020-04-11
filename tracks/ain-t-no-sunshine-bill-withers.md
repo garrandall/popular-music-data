@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-no-sunshine-bill-withers
+lyrics_url: https://genius.com/Bill-withers-aint-no-sunshine-lyrics
 name: Ain't No Sunshine
 rankings:
 - end_date: '1971-07-23'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+Ain't no sunshine when she's gone
+It's not warm when she's away
+Ain't no sunshine when she's gone
+And she's always gone too long anytime she goes away
 
+
+Wonder this time where she's gone
+Wonder if she's gone to stay
+Ain't no sunshine when she's gone
+And this house just ain't no home anytime she goes away
+
+
+And I know, I know, I know, I know
+I know, I know, I know, I know
+I know, I know, I know, I know
+I know, I know, I know, I know
+I know, I know, I know, I know
+I know, I know, I know, I know
+I know, I know
+Hey, I ought to leave the young thing alone
+But ain't no sunshine when she's gone
+
+
+Ain't no sunshine when she's gone
+Only darkness every day
+Ain't no sunshine when she's gone
+And this house just ain't no home anytime she goes away
+
+
+Anytime she goes away
+Anytime she goes away
+Anytime she goes away

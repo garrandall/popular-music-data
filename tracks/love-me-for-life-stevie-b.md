@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-for-life-stevie-b
+lyrics_url: https://genius.com/Stevie-b-love-me-for-life-lyrics
 name: Love Me For Life
 rankings:
 - end_date: '1990-02-09'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
 ---
+Ooh...
+La de la de la
+La de la de la
+Ooh... Ooh...
 
+Talkin' to you on the phone
+I like the way you talk to me
+And that little girly voice
+I've gotten to know you
+And you might be sublime
+I've always wanted a girl like you
+Darling, that's no lie
+
+Love me for life
+Oh, I wish that you'd be mine
+And only mine
+It feels so right
+And won't you tell me right now
+Will you be my girl
+
+Ooh...
+La de la de la
+La de la de la
+Whoa, whoa...
+
+These last few days have been
+Beautiful and bright
+I want you to be part of my life
+It work out fine
+Never imagined
+That you would feel for me
+'Cause I thought that I was the only one
+Who fell this way
+
+Love me for life
+Oh, I wish that you'd be mine
+And only mine
+It feels so right
+And won't you tell me right now
+Will you be my girl
+
+Tell me who's gonna my day seem brighter
+If you're gone, if you're gone
+
+Love me for life
+Oh, I wish that you'll be my lady, my lady
+I love you, girl
+It feels so right
+And won't you tell me right now
+Will you be my girl

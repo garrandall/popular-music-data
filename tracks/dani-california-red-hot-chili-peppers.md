@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dani-california-red-hot-chili-peppers
+lyrics_url: https://genius.com/Red-hot-chili-peppers-dani-california-lyrics
 name: Dani California
 rankings:
 - end_date: '2006-04-28'
@@ -111,4 +112,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
 ---
+Gettin' born in the state of Mississippi
+Poppa was a copper and her momma was a hippie
+In Alabama, she would swing a hammer
+Price you gotta pay when you break the panorama
+She never knew that there was anything more than poor
+What in the world, what does your company take me for?
+Black bandana, sweet Louisiana
+Robbin' on a bank in the state of Indiana
+She's a runner, rebel and a stunner
+On her merry way sayin', "Baby, what you gonna—?"
+Lookin' down the barrel of a hot metal .45
+Just another way to survive
 
+
+California, rest in peace
+Simultaneous release
+California, show your teeth
+She's my priestess, I'm your priest, yeah, yeah
+
+
+She's a lover, baby and a fighter
+Shoulda seen her comin' when it got a little brighter
+With a name like Dani California
+Day was gonna come when I was gonna mourn ya
+A little loaded she was stealin' another breath
+I love my baby to death
+
+
+California, rest in peace
+Simultaneous release
+California, show your teeth
+She's my priestess, I'm your priest, yeah, yeah
+
+
+Who knew the other side of you?
+Who knew what others died to prove?
+Too true to say goodbye to you
+Too true to say, say, say
+
+
+Push the fader, gifted animator
+One for the now and eleven for the later
+Never made it up to Minnesota
+North Dakota man was a gunnin' for the quota
+Down in the Badlands she was savin' the best for last
+It only hurts when I laugh
+Gone too fast
+
+
+California, rest in peace
+Simultaneous release
+California, show your teeth
+She's my priestess, I'm your priest, yeah, yeah
+California, rest in peace (Do svidaniya)
+Simultaneous release (California)
+California, show your teeth (Do svidaniya)
+She's my priestess, I'm your priest, yeah, yeah

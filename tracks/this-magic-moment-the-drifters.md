@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-magic-moment-the-drifters
+lyrics_url: https://genius.com/The-drifters-this-magic-moment-lyrics
 name: This Magic Moment
 rankings:
 - end_date: '1960-02-28'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
 ---
+This magic moment
+So different and so new
+Was like any other
+Until I kissed you
+And then it happened
+It took me by surprise
+I knew that you felt it too
+By the look in your eyes
 
+
+Sweeter than wine
+Softer than the summer night
+Everything I want I have
+Whenever I hold you tight
+
+
+This magic moment
+While your lips are close to mine
+Will last forever
+Forever til the end of time
+
+
+Oh
+Oh
+Mm
+
+
+Sweeter than wine
+Softer than the summer night
+Everything I want I have
+Whenever I hold you tight
+
+
+This magic moment
+While your lips are close to mine
+Will last forever
+Forever til the end of time
+
+
+Oh
+Magic moment
+Magic moment
+Magic moment

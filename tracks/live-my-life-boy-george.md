@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-my-life-boy-george
+lyrics_url: https://genius.com/Boy-george-live-my-life-lyrics
 name: Live My Life
 rankings:
 - end_date: '1988-01-01'
@@ -55,4 +56,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
 ---
+I tell you baby, this is no way to live
+Make sacrifies, 'til there's nothing to give
+Everyone says there's rules to obey
+I can't follow when things never change
 
+Holding my chequebook, got a leak in the pipe
+Food on the table, but the landlord's knocked twice
+I want more than the shirt on my back
+I've worked too hard just to repeat the past
+
+Satisfaction can be hard to find
+I go crazy keeping it all inside
+
+Ain't nobody's business
+How I live my life
+I learnt my lesson
+Whether it's wrong or right
+Ain't nobody baby
+Gonna tell me how
+I should live my life
+Do live my way now
+
+The?roof is leaking, stack of pillows on my bed
+No way to wake up, all the dreams in my head
+Phone don't ring, got no man on the line
+Things could be better but I still feel fine
+
+Who can say what tomorrow will bring
+You give nothing, expecting everything
+
+Ain't nobody's business
+How I live my life
+I learnt my lesson
+Whether it's wrong or right
+Ain't nobody baby
+Gonna tell me how
+I should live my life
+Do live my way now
+
+Satisfaction can be hard to find
+I go crazy keeping it all inside
+
+Ain't nobody's business
+How I live my life
+I learnt my lesson
+Whether it's wrong or right
+Ain't nobody baby
+Gonna tell me how
+I should live my life
+Do live my way now

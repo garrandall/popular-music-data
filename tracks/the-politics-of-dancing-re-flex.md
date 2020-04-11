@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-politics-of-dancing-re-flex
+lyrics_url: https://genius.com/Re-flex-the-politics-of-dancing-lyrics
 name: The Politics Of Dancing
 rankings:
 - end_date: '1983-12-02'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
 ---
+We got the message
+I heard it on the airwaves
+The politicians
+Are now DJs
+The broadcast was spreading
+Station to station
+Like an infection
+Across the nation
+Though you know you can't stop it
+When they start to play
+You're gonna get out the way
 
+The politics of dancing
+The politics of, ooh, feeling good
+The politics of moving, aha
+If this message's understood
+
+The politics of dancing
+The politics of, ooh, feeling good
+The politics of moving, aha
+If this message's understood
+
+We're under pressure
+Yes we're counting on you
+Like what you say
+Is what you do
+It's in the papers
+It's on your tv news
+Oh, the application
+Is just a point of view
+Well you know you can't stop it
+When they start to play
+You're gonna get out the way
+
+The politics of dancing
+The politics of, ooh, feeling good
+The politics of moving, aha
+If this message's understood
+
+Yeah
+
+The politics of dancing
+The politics of, ooh, feeling good
+The politics of moving, aha
+If this message's understood
+
+The politics of dancing
+The politics of, ooh, feeling good
+The politics of moving, aha
+If this message's understood

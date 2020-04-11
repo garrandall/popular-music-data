@@ -157,7 +157,6 @@ Trust me, I can take you there
 Trust me, I can take you there
 Trust me, I, trust me, I, trust me, I
 
-
 Hold on, take a minute, love
 'Cause I ain't trying to mess your image up
 Like we mess around in triple cuffs
@@ -177,7 +176,6 @@ Just met a bad miss without the ass shots (Whoo!)
 You look good, girl, you know you did good, don't you?
 You look good, girl, bet it feel good, don't it?
 
-
 I just wanna look good for you, good for you, uh-huh
 Baby let me be good to you, good to you, uh-huh
 Let me show you how proud I am to be yours
@@ -186,6 +184,3 @@ And still look good for you, good for you, uh-huh, uh-huh, ah...
 Uh-huh, uh-huh...
 
 Trust me, I, trust me, I, trust me, I
-
-
-

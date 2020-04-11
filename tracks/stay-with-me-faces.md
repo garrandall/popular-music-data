@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-with-me-faces
+lyrics_url: https://genius.com/Faces-stay-with-me-lyrics
 name: Stay With Me
 rankings:
 - end_date: '1972-01-07'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
+Woo!
+Get it
 
+
+In the mornin' don't say you love me
+'Cause I'll only kick you out of the door
+I know your name is Rita 'cause your perfume's smelling sweeter
+Since when I saw you down on the floor, guitar
+
+
+You won't need too much pursuadin'
+I don't mean to sound degradin'
+But with a face like that
+You got nothin' to laugh about
+Red lips, hair and fingernails
+I hear you're a mean old Jezebel
+Let's go upstairs
+And read my tarot cards, come on
+
+
+Stay with me, stay with me
+For tonight you'd better stay with me, oh yeah
+Stay with me, stay with me
+For tonight you'd better stay with me
+
+
+So, in the mornin', please don't say you love me
+'Cause you know I'll only kick you out the door
+Yeah, I'll pay your cab fare home, you can even use my best cologne
+Just don't be here in the mornin' when I wake up, come on, honey
+
+
+Stay with me, stay with me
+'Cause tonight you're gonna stay with me
+Sit down, get up, get out
+Stay with me, stay with me
+'Cause tonight you're gonna stay with me
+Hey, what's your name again?
+
+
+Get out

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let--em-in-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-let-em-in-lyrics
 name: Let 'em In
 rankings:
 - end_date: '1976-07-09'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
+Someone knockin' at the door
+Somebody ringin' the bell
+Someone's knockin' at the door
+Somebody's ringin' the bell
+Do me a favor
+Open the door, and let 'em in, ooh yeah
 
+
+Someone's knockin' at the door
+Somebody ringin' the bell
+Someone's knockin' at the door
+Somebody's ringin' the bell
+Do me a favor
+Open the door, let 'em in, yeah, let 'em in
+
+
+Sister Suzy, brother John
+Martin Luther, Phil and Don
+Brother Michael, Auntie Gin
+Open the door, let 'em in, oh yeah
+
+
+Sister Suzy, brother John
+Martin Luther, Phil and Don
+Uncle Ernie, Auntie Gin
+Open the door, let 'em in, oh yeah
+
+
+Someone knockin' at the door
+Somebody ringin' the bell
+Someone's knockin' at the door
+Somebody ringin' the bell
+Do me a favor
+Open the door, and let 'em in
+Ooh yeah, yeah, let 'em in now
+
+
+Sister Suzy, brother John
+Martin Luther, Phil and Don, ooh
+Uncle Ernie, Uncle Ian
+Open the door, let 'em in, oh yeah, yeah
+
+
+Someone's knockin' at the door
+Somebody ringin' the bell
+Someone knockin' at the door
+Somebody ringin' the bell
+Do me a favor
+Open the door, and let 'em in
+Yeah, yeah, yeah, yeah, yeah

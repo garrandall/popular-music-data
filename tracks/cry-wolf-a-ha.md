@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-wolf-a-ha
+lyrics_url: https://genius.com/A-ha-cry-wolf-lyrics
 name: Cry Wolf
 rankings:
 - end_date: '1987-01-30'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
 ---
+"Night I left the city
+I dreamt of a wolf..."
 
+He came from where the winds are cold
+And truth is seen through keyholes
+...strange longings never sleep
+Now he's come where no hearts beat
+
+Cry wolf
+Time to worry
+Cry wolf
+Time to worry now
+
+You can start, but you cannot stop
+You give in, but you can't give up
+You can tell all your desperate jokes
+To a world that puts your
+Love on hold
+
+Cry wolf
+Time to worry
+Cry wolf
+Time to worry now
+
+...the sunken-in eyes
+And the pain in his cries
+A shape in the dark...
+
+Cry wolf
+Time to worry
+Cry wolf
+Time to worry now

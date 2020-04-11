@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: inside-the-fire-disturbed
+lyrics_url: https://genius.com/Disturbed-inside-the-fire-lyrics
 name: Inside The Fire
 rankings:
 - end_date: '2008-04-18'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
 ---
+Devon won't go to heaven
+She's just another lost soul about to be mine again
+Leave her, we will receive her
+It is beyond your control will you ever meet again
+Devon, one of eleven
+Who had been rendered unwhole as a little child
+She was taken and then forsaken
+You will remember it all, let it fill your mind again
 
+
+Devon lies beyond this portal
+Take the word of one immortal
+
+
+Give your soul to me for eternity
+Release your life to begin another time with her
+End your grief with me, there's another way
+Release your life, take your place inside the fire with her
+
+
+Sever, now and forever
+You're just another lost soul about to be mine again
+See her, you'll never free her
+You must surrender it all if you'd like to meet again
+Fire for your desire
+As she begins to turn cold for the final time
+You will shiver, 'til you deliver
+You will remember it all, let it fill your mind again
+
+
+Devon lies beyond this portal
+Take the word of one immortal
+
+
+Give your soul to me for eternity
+Release your life to begin another time with her
+End your grief with me, there's another way
+Release your life, take your place inside the fire with her
+
+
+Take me away, yeah
+
+
+Give your soul to me for eternity
+Release your life to begin another time with her
+End your grief with me, there's another way
+Release your life, take your place inside the fire with her
+
+
+Devon, one of eleven
+Who had been rendered unwhole as a little child
+She was taken and then forsaken
+You will remember it all, let it fill your mind again man

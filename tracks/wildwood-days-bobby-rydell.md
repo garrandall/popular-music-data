@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wildwood-days-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-wildwood-days-lyrics
 name: Wildwood Days
 rankings:
 - end_date: '1963-05-17'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
 ---
+Spring'll soon be gone (Wildwood days)
+Summer's comin' on (Wildwood days)
+And I'm-a dreamin' of (Wildwood days)
+Lotsa summer love (bup-a-dup-a-dup-a-up)
+And all I think about (Wildwood days)
+After school is out (Wildwood days)
+Headin' down the shore (Wildwood days)
+To have a ball once more
 
+Whoa whoa whoa whoa those Wildwood days
+Wild, wild Wildwood days
+Oh baby, every day's a holiday and every night is a Saturday night
+Oh those Wildwood days, wild, wild Wildwood days
+And then those party lights wild, wild Wildwood nights
+
+Say baby you'll be mine (Wildwood days)
+'cause it's kissin' time (Wildwood days)
+Gonna twist again (Wildwood days)
+Like remember when(dom-a-dom-a-dom-a-dom)
+Sleepin 'on the beach (Wildwood days)
+Seven days a week (Wildwood days)
+Rockin' every night (Wildwood days)
+'Till the early bright
+
+Whoa whoa whoa whoa those Wildwood days
+Wild, wild Wildwood days
+My baby, every day's a holiday and every night is a Saturday night
+Oh those Wildwood days, wild, wild Wildwood days
+And then those party lights wild, wild Wildwood nights
+
+Whoa whoa whoa whoa those Wildwood days
+Wild, wild Wildwood days
+Oh baby, every day's a holiday and every night is a Saturday night
+Oh those Wildwood days, wild, wild Wildwood days
+And then those party nights

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-of-my-love-bobby-caldwell
+lyrics_url: https://genius.com/Bobby-caldwell-all-of-my-love-lyrics
 name: All Of My Love
 rankings:
 - end_date: '1982-09-17'
@@ -31,4 +32,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-16'
 ---
+Fall in love
+Why can't you fall in love
+You need someone to love
+Someone who really cares
 
+And when you're feeling down
+And when you're feeling low
+You can reach out for me
+You've got somewhere to go
+
+All of my love
+Baby you've got it
+All of my love
+You can't do without it
+Just say the word
+Darling I will be there
+
+I saw you toss a coin
+Into the good luck pond
+Maybe somehow I knew
+You needed someone
+
+So when you're feeling down
+And when you're feeling low
+You can reach out for me
+You've got somewhere to go
+
+All of my love
+Baby you've got it
+All of my love
+You can't do without it
+Just say the word
+Darling I will be there

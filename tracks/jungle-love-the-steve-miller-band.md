@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jungle-love-the-steve-miller-band
+lyrics_url: https://genius.com/Steve-miller-band-jungle-love-lyrics
 name: Jungle Love
 rankings:
 - end_date: '1977-08-12'
@@ -63,4 +64,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
 ---
+I met you on somebody's island
+You thought you had known me before
+I brought you a crate of papaya
+They waited all night by your door
+You probably wouldn't remember
+I probably couldn't forget
+Jungle love in the surf in the pouring rain
+Everything's better when wet
 
+
+Jungle love, it's driving me mad
+It's making me crazy
+Jungle love, it's driving me mad
+It's making me crazy
+
+
+But lately, you live in the jungle
+I never see you alone
+But we need some definite answers
+So I thought I would write you a poem
+The question to everyone's answer
+Is usually asked from within
+But the patterns of the rain
+And the truth they contain
+Have written my life on your skin
+
+
+Jungle love, it's driving me mad
+It's making me crazy, crazy
+Jungle love, it's driving me mad
+It's making me crazy
+
+
+You treat me like I was your ocean
+You swim in my blood when it's warm
+My cycles of circular motion
+Protect you and keep you from harm
+You live in a world of illusion
+Where everything's peaches and cream
+We all face a scarlet conclusion
+But we spend our time in a dream
+
+
+Jungle love, it's driving me mad
+It's making me crazy, crazy
+Jungle love, it's driving me mad
+It's making me crazy, crazy
+
+
+Jungle love, it's driving me mad
+It's making me crazy, crazy
+Jungle love, it's driving me mad
+It's making me crazy

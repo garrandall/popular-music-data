@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-fall-apart-post-malone
+lyrics_url: https://genius.com/Post-malone-i-fall-apart-lyrics
 name: I Fall Apart
 rankings:
 - end_date: '2017-10-20'
@@ -127,4 +128,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
 ---
+Ooh, I fall apart
+Ooh, yeah, mmm, yeah
 
+
+She told me that I'm not enough (Yeah)
+And she left me with a broken heart (Yeah)
+She fooled me twice and it's all my fault (Yeah)
+She cut too deep, now she left me scarred (Yeah)
+Now there's so many thoughts goin' through my brain (Yeah)
+And now I'm takin' these shots like it's Novocaine, yeah
+
+
+Ooh, I fall apart
+Down to my core
+Ooh, I fall apart
+Down to my core
+Ooh, didn't know it before
+Surprised when you caught me off guard
+All this damn jewelry I bought
+You was my shorty, I thought
+
+
+Never caught a feelin' this hard
+Harder than the liquor I pour
+Tell me you don't want me no more
+But I can't let go, everybody told me so
+Feelin' like I sold my soul
+Devil in the form of a whore
+Devil in the form of a whore
+You said it, no, you said it
+No, you said that shit, we'd be together, oh
+
+
+Ooh, I fall apart
+Down to my core
+Ooh, I fall apart
+Down to my core
+Ooh, didn't know it before
+Surprised when you caught me off guard
+All this damn jewelry I bought
+You was my shorty, I thought
+
+
+Ice keep pourin' and the drink keep flowin'
+Try to brush it off, but it keep on goin'
+Covered in scars and I can't help showin'
+Whippin' in the foreign and the tears keep rollin'
+Ice keep droppin' and the drink keep flowin'
+Try to brush it off, but it keep on goin'
+All these scars, can't help from showin'
+Whippin' in the foreign and the tears keep blowin', yeah
+
+
+Ooh, I fall apart
+Down to my core
+Ooh, I fall apart
+Down to my core
+Ooh, didn't know it before
+Surprised when you caught me off guard
+All this damn jewelry I bought
+You was my shorty, I thought

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-or-let-me-be-lonely-the-friends-of-distinction
+lyrics_url: https://genius.com/The-friends-of-distinction-love-or-let-me-be-lonely-lyrics
 name: Love Or Let Me Be Lonely
 rankings:
 - end_date: '1970-03-13'
@@ -59,4 +60,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
 ---
-
+Love me let me be lonely
+Part time love I can find any day
+So don't defy mother nature's way please
+Make it mine, a love for to stay
+I can live without love
+If I wanted to in this lonely room
+But I don't want to so I leave it up to you
+To wash away my gloom
+Oh, oh, oh
+Do doo, do doo, do doo, do doo
+You will or either you won't now
+It's up to you I've had my say
+So truly love do love me completely
+Hey come on, come on come my way
+REPEAT CHORUS

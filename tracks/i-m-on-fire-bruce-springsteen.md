@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-on-fire-bruce-springsteen
+lyrics_url: https://genius.com/Bruce-springsteen-im-on-fire-lyrics
 name: I'm On Fire
 rankings:
 - end_date: '1985-02-22'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
 ---
+Hey, little girl, is your daddy home?
+Did he go away and leave you all alone?
+I got a bad desire
 
+
+Oh, oh, oh
+I'm on fire
+
+
+Tell me now, baby, is he good to you?
+And can he do to you the things that I do?
+Oh no, I can take you higher
+
+
+Oh, oh, oh
+I'm on fire
+
+
+Sometimes it's like someone took a knife, baby, edgy and dull
+And cut a six-inch valley through the middle of my skull
+At night, I wake up with the sheets soakin' wet
+And a freight train runnin' through the middle of my head
+Only you can cool my desire
+
+
+Oh, oh, oh
+I'm on fire
+Oh, oh, oh
+I'm on fire
+Oh, oh, oh
+I'm on fire
+
+
+Ooh-ooh, ooh
+Ooh-ooh, ooh-ooh
+Ooh-ooh-ooh, ooh-ooh
+Ooh, ooh, ooh, ooh-ooh
+Ooh-ooh-ooh, ooh-ooh

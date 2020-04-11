@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-bring-me-all-your-heartaches-lou-rawls
+lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/You-Can-Bring-Me-All-Your-Heartaches
 name: You Can Bring Me All Your Heartaches
 rankings:
 - end_date: '1966-12-02'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
 ---
+When the world becomes too much for you
+When the road ahead is hard to see
+When you feel you don't know what to do
+Baby, you can turn to me
 
+I say now
+You can bring me all your heartaches
+Cry on my shoulder any day
+You can bring me all your heartaches
+I'll kiss your worries away
+Yeah, yeah, yeah
+I'll kiss your worries away
+
+When it seems the day will never end
+When things are wrong as they can be
+When you wonder if you've got a friend
+Baby, just remember me
+
+I say now
+You can bring me all your heartaches
+Cry on my shoulder any day
+You can bring me all your heartaches
+I'll kiss your worries away
+I'll kiss your worries away
+I'm gonna kiss your worries away
+
+I will prove to you how much I care
+You'll never, never have to stand alone
+In your hour of need you'll find me there
+You can my arms your home
+
+You can bring me all your heartaches
+You can bring me every one of your heartaches
+You can bring me all your heartaches

@@ -1,6 +1,6 @@
 ---
 artists:
-- Mitch Miller and his Orchestra and Chorus
+- Mitch Miller
 features: []
 genres: []
 key: bluebell-mitch-miller-and-his-orchestra-and-chorus

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: buzz-buzz-a-diddle-it-freddy-cannon
+lyrics_url: https://genius.com/Freddy-cannon-buzz-buzz-a-diddle-it-lyrics
 name: Buzz Buzz A-Diddle-It
 rankings:
 - end_date: '1961-05-07'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
 ---
+Well, I was rollin' down the highway
+See my baby, Ruth
+Car broke down, tire blew out
+Found a telephone booth
 
+I tried to call my honey
+What was the sound I had to hear
+(Buzz buzz a-diddle-it) in my ear?
+(Buzz buzz a-diddle-it)
+It's some endless yakkin' hound dog
+Hawkin' and sweet talkin' to my dear
+(Buzz buzz a-diddle-it)
+(Buzz buzz a-diddle-it)
+
+Central seven
+Who's on that line?
+Break through to my baby
+Three-o-ninety-nine
+
+Oh, S.O.S., sweet mama
+Switch me to Heaven, get me through
+(Buzz buzz a-diddle-it)
+(Buzz buzz a-diddle-it)
+Telephone operator
+Our lovin' future hangs on you
+(Buzz buzz a-diddle-it)
+(Buzz buzz a-diddle-it) Hang on
+
+Central seven
+Who's on that line?
+Break through to my baby
+Three-o-ninety-nine
+
+Oh, S.O.S., sweet mama
+Switch me to Heaven, get me through
+(Buzz buzz a-diddle-it)
+(Buzz buzz a-diddle-it)
+Telephone operator
+My lovin' future hangs on you
+(Buzz buzz a-diddle-it)
+(Buzz buzz a-diddle-it)
+
+Come on, honey (Buzz buzz a-diddle-it)
+Get my baby (Buzz buzz a-diddle-it)
+Come on, sugar (Buzz buzz a-diddle-it)
+Get me honey (Buzz buzz a-diddle-it)
+Talk to me, baby (Buzz buzz a-diddle-it)
+Come on, honey (Buzz buzz a-diddle-it)
+Get my baby

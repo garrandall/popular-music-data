@@ -1,10 +1,10 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: heart-and-soul-huey-lewis-the-news
+lyrics_url: https://genius.com/Huey-lewis-and-the-news-heart-and-soul-lyrics
 name: Heart And Soul
 rankings:
 - end_date: '1983-09-16'
@@ -92,4 +92,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
+Two o'clock this morning (morning)
+If she should come a-calling (calling)
+I couldn't dream of turning her away
 
+And if it got hot and hectic (hectic)
+I know she'd be electric (electric)
+I'd let her take her chances with me
+You see, she gets what she wants
+
+Cause she's heart and soul
+She's hot and cold
+She's got it all, hot loving every night
+Woah
+Woaaah
+
+Well, can't you see her standing there (standing there)
+See how she looks, see how she cares (how she cares)
+I let her steal the night away from me
+
+Nine o'clock this morning (this morning)
+She left without a warning (warning)
+I let her take advantage of me
+You see, she got what she wanted
+
+Cause she's heart and soul
+She's hot and cold
+She's got it all, hot loving every night
+Woah
+Woaaah
+
+(Heart and soul)
+Yeah she's heart and soul
+She's hot and cold
+She's got it all
+She's heart and soul
+
+She's got loving every night
+Woah
+Woaaah
+She's got it all
+She's heart and soul
+
+She's heart and soul
+She's heart and soul
+She's heart and soul
+She's heart and soul
+She's heart and soul

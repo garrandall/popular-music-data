@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-all-up-stacy-earl
+lyrics_url: https://genius.com/Stacy-earl-love-me-all-up-lyrics
 name: Love Me All Up
 rankings:
 - end_date: '1991-11-22'
@@ -83,4 +84,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-21'
 ---
+I know you can control it, babe
+I know you can control it, babe
+I know you can control it, baby
 
+Ooh, yeah
+
+Sweet, sweet temptation
+For my soul sensation
+I just got to have you all to myself
+Give it up
+A fact's a fact
+Too late now for turning back
+Every calculation comes up with you
+
+I gotta feel the fire, baby
+I guess I'll never learn
+
+I need you to get closer
+And love me all up
+I ain't through
+So get back here
+And love me all up
+
+I'm wild for you, baby
+(I'm wild for you)
+You got me going crazy
+I need something different
+A new kind of thrill
+
+Reflections of your heart and soul
+(Reflections, heart and soul)
+In my kiss
+I'll make you whole
+
+Oh, oh, oh, oh, oh, oh
+(Oh, oh, oh, oh, oh, oh)
+I'll satisfy you
+
+I got a one track mind, baby
+And you just crossed my line
+
+I need you to get closer
+And love me all up
+I ain't through
+So get back here
+And love me all up
+
+I need you to get closer
+And love me all up
+I ain't through
+So get back here
+And love me all up
+
+You're the stars in the night
+You're the dream I can touch
+Baby, don't be afraid
+You can love me tonight
+
+I need you to get closer
+And love me all up
+I ain't through
+So get back here
+And love me all up
+
+I need you to get closer
+And love me all up
+I ain't through
+So get back here
+And love me all up
+
+I know you can control it, babe
+I know you can control it, babe
+I know you can control it, baby
+
+I know you can control it, babe
+I know you can control it, babe
+I know you can control it, baby

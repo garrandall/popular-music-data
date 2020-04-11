@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-valley-road-bruce-hornsby-the-range
+lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-the-valley-road-lyrics
 name: The Valley Road
 rankings:
 - end_date: '1988-05-06'
@@ -72,4 +73,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
 ---
+Sometimes I lead, sometimes I follow
+This time I'll go where she wants me to go
+She said maybe today, maybe tomorrow
+Deep in the woods down the low valley road
 
+While no one was lookin' on the old plantation
+He took her all the way down the long valley road
+They sent her away not too much later
+And left him walking down the old valley road
+Walk on
+Walk on, walk on alone
+Walk on, walk on
+Walk on alone, alone
+
+Out in the hall, they were talking in a whisper
+Everybody noticed she was gone awhile
+Somebody said she's gone to her sister's
+Everybody knew what they were talking about
+
+Whoa, while no one was lookin' on the old plantation
+He showed her what they do down the long valley road
+She came back around like nothing really happened
+And left him standing on the old valley road
+Walk on
+Walk on, walk on alone
+Walk on, walk on
+Walk on, walk on, on the valley road
+
+Standing like a stone on the old plantation
+The rich old man would have never let him in
+Good enough to hire, not good enough to marry
+When it all happens, nobody wins
+Walk on
+Walk on, walk on alone
+Walk on, walk on
+Walk on, walk on alone, alone

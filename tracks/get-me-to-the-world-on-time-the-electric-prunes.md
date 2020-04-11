@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-me-to-the-world-on-time-the-electric-prunes
+lyrics_url: https://genius.com/The-electric-prunes-get-me-to-the-world-on-time-lyrics
 name: Get Me To The World On Time
 rankings:
 - end_date: '1967-04-07'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
 ---
+Here I go (higher, higher)
+Here I go (higher, higher)
+Here I go, go, go, go, go
 
+You gotta get me to the world on time
+You gotta get me to the world on time
+The minute you walk in the room I break into a sweat
+My hands begin to shake so bad I can't light my cigarrette
+Then you start walkin' towards me and my cool comes all undone
+If I could get my feet to move I'd turn around and run
+My pulse is beatin' faster And I'm headin' for disaster
+Here I go (higher, higher)
+Here I go (higher, higher)
+Here I go
+Get me to the world on time
+You gotta get me to the world on time
+
+One kiss from you and my whole body starts to actin' strange
+You shake up all my senses, yeah, you tie me up in chains
+This chemical reaction isn't easy to define
+You drive me to distraction, you disturb my peace of mind
+You got me spinning like a top now
+And I don't know how to stop now
+Is this what love's all about
+Lately I feel so without
+Wild sensations
+Sweet frustrations
+You get me goin' and theres no slowin' me down
+Here I go Whoa here I go, go Whoa, Here I go, go, go-o-o-o-o-o-o-o-o-o

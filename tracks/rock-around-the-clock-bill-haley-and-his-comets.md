@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-around-the-clock-bill-haley-and-his-comets
+lyrics_url: https://genius.com/Bill-haley-and-his-comets-rock-around-the-clock-lyrics
 name: Rock Around The Clock
 rankings:
 - end_date: '1974-03-22'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+One, Two, Three O'clock, Four O'clock rock
+Five, Six, Seven O'clock, Eight O'clock rock
+Nine, Ten, Eleven O'clock, Twelve O'clock rock
+We're gonna rock around the clock tonight
 
+
+Put your glad rags on and join me hon'
+We'll have some fun when the clock strikes one
+
+
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'till broad daylight
+We're gonna rock, gonna rock around the clock tonight
+
+
+When the clock strikes two, three and four
+If the band slows down we'll yell for more
+
+
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'till broad daylight
+We're gonna rock, gonna rock around the clock tonight
+
+
+When the chimes ring five, six and seven
+We'll be right in seventh heaven
+
+
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'till broad daylight
+We're gonna rock, gonna rock around the clock tonight
+
+
+When it's eight, nine, ten, eleven too
+I'll be goin' strong and so will you
+
+
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'till broad daylight
+We're gonna rock, gonna rock around the clock tonight
+
+
+When the clock strikes twelve we'll cool off then
+Start rockin' around the clock again
+
+
+We're gonna rock around the clock tonight
+We're gonna rock, rock, rock, 'till broad daylight
+We're gonna rock, gonna rock around the clock tonight

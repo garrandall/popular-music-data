@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-easy-way-out-robert-tepper
+lyrics_url: https://genius.com/Robert-tepper-no-easy-way-out-lyrics
 name: No Easy Way Out
 rankings:
 - end_date: '1986-01-31'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
 ---
+We're not indestructible
+Baby better get that straight
+I think it's unbelievable
+How you give into the hands of fate
+Some things are worth fighting for
+Some feelings never die
+I'm not asking for another chance
+I just wanna know why
 
+
+There's no easy way out
+There's no shortcut home
+There's no easy way out
+Giving in can't be wrong
+
+
+I don't wanna pacify you
+I don't wanna drag you down
+But I'm feeling like a prisoner
+Like a stranger in a no-name town
+I see all the angry faces
+Afraid that could be you and me
+Talking about what might have been
+Thinking about what it used to be
+
+
+There's no easy way out
+There's no shortcut home
+There's no easy way out
+Giving in can't be wrong
+
+
+Baby, baby, we can shed this skin
+We can know how we feel inside
+Instead of going down an endless road
+Not knowing if we're dead or alive
+Some things are worth fighting for
+Some feelings never die
+I'm not asking for another chance
+I just wanna know why
+
+
+There's no easy way out
+There's no shortcut home
+There's no easy way out
+Giving in, giving in can't be wrong, no
+There's no easy way out (There's no easy way out)
+There's no shortcut home (There's no shortcut home)
+There's no easy way out, there's no easy no easy no easy way out
+There's no easy way out (There's no easy way out)
+There's no shortcut home (There's no shortcut home)
+There's no easy way out, there's no easy no easy no easy way out
+There's no easy way out
+There's no shortcut home
+There's no easy way out

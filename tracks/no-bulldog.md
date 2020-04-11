@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-bulldog
+lyrics_url: https://www.musixmatch.com/lyrics/Bulldog-2/No-me-importa
 name: 'No'
 rankings:
 - end_date: '1972-10-20'
@@ -67,4 +68,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
-
+Estoy bien,
+Estoy mal,
+Ni siquiera sé quien soy
+Y tampoco adonde voy,
+Y realmente no me importa, no me importa
+Porque no me importa
+No me interesa,
+Nunca me intereso,
+Ni me va a interesar
+Y realmente no me importa, no me importa.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-had-you-adam-lambert
+lyrics_url: https://www.musixmatch.com/lyrics/Adam-Lambert/If-I-Had-You
 name: If I Had You
 rankings:
 - end_date: '2010-07-16'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
 ---
+So I got my boots on, got the right 'mount of leather
+And I'm doing me up with a black color liner
+And I'm workin' my strut but I know it don't matter
+All we need in this world is some love
 
+There's a thin line 'tween the dark side
+And the light side, baby, tonight
+It's a struggle, gotta rumble tryin' to find it
+
+But if I had you
+That would be the only thing I'd ever need
+Yeah, if I had you
+Then money, fame and fortune never could compete
+
+If I had you
+Life would be a party it'd be ecstasy
+Yeah, if I had you
+Y-y-y-y-you, y-y-y-y-y-you
+Y-y-y-y-you
+If I had you
+
+From New York to LA getting high rock 'n' rollin
+Get a room trash it up 'til it's ten in the morning
+Girls, in stripper heels, boys, rollin' in Maseratis
+What they need in this world is some love
+
+There's a thin line 'tween a wild time
+And a flat line, baby, tonight
+It's a struggle gotta rumble tryin' to find it
+
+But if I had you
+That would be the only thing I'd ever need
+Yeah, if I had you
+Then money, fame and fortune never could compete
+
+If I had you
+Life would be a party it'd be ecstasy
+Yeah, if I had you
+Y-y-y-y-you, y-y-y-y-y-you (You)
+Y-y-y-y-you
+If I had
+
+The flashing of the lights
+It might feel so good
+But I've got you stuck on my mind, yeah
+The flashing on the stage
+It might get me high
+But it don't mean a thing tonight
+
+That would be the only thing I'd ever need
+Yeah, if I had you
+The money, fame and fortune never could compete
+
+If I had you
+Life would be a party it'd be ecstasy
+Yeah, if I had you
+You, y-y-y-y-you, y-y-y-y-y-you
+You, y-y-y-y-you
+
+If I had you
+That would be the only thing I ever need
+Yeah, if I had you
+Then money, fame and fortune never could compete
+(Never could compete with you)
+
+If I had you
+Life would be a party it'd be ecstasy (Be ecstasy with you)
+Yeah, if I had you
+You, y-y-y-y-you, y-y-y-y-y-you
+You, y-y-y-y-you
+If I had you

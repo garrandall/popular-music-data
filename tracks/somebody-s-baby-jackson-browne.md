@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-baby-jackson-browne
+lyrics_url: https://genius.com/Jackson-browne-somebodys-baby-lyrics
 name: Somebody's Baby
 rankings:
 - end_date: '1982-08-06'
@@ -83,4 +84,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
 ---
+Well, just look at that girl
+With the lights comin' up in her eyes
+She's got to be somebody's baby
+She must be somebody's baby
 
+All the guys on the corner stand back
+And let her walk on by
+She's got to be somebody's baby
+She must be somebody's baby
+She's got to be somebody's baby
+She's so fine
+
+She's probably somebody's only light
+Gonna shine tonight
+Yeah, she's probably somebody's baby, all right
+
+I heard her talkin' with her friend
+When she thought nobody else was around
+She said she's got to be somebody's baby
+She must be somebody's baby
+
+‘Cause when the cars and the signs and the streetlights
+Light up the town
+She's got to be somebody's baby
+She must be somebody's baby
+She's got to be somebody's baby
+She's so
+
+She's gonna be somebody's only light
+Gonna shine tonight
+Yeah, she's gonna be somebody's baby tonight
+
+I try to shut my eyes
+But I can't get her outta my sight
+I know I'm gonna know her
+But I gotta get over my fright
+Well, I'm just gonna walk up to her
+I'm gonna talk to her tonight
+
+Ah
+
+Yeah, she's gonna be somebody's only light
+Gonna shine tonight
+Yeah, she's gonna be somebody's baby tonight
+
+She's gonna be somebody's only light
+Gonna shine tonight
+Yeah, she's gonna be somebody's baby tonight
+
+Gonna shine tonight, make her mine tonight
+Gonna shine tonight, make her mine tonight
+Gonna shine tonight, make her mine tonight
+Ah
+Gonna shine tonight, make her mine tonight
+Gonna shine tonight, make her mine tonight
+Gonna shine tonight, make her mine tonight

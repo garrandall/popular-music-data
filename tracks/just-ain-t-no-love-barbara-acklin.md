@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-ain-t-no-love-barbara-acklin
+lyrics_url: https://genius.com/Barbara-acklin-just-aint-no-love-lyrics
 name: Just Ain't No Love
 rankings:
 - end_date: '1968-11-22'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
+Now I know why the sky is blue
+It sees the sin and heartbreak in you
+It sees everything that you don't see, yeah
+Do you wonder why you're in misery
+If the sky don't have eyes tell me why does it cry
 
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+In this world at all, aw, no
+
+So much hurting and taking alike
+Oh, paradise what could it be like?
+All my love is like a grain of sand
+But like mountains if they were in every man
+There are tears in my eyes, I hurt so deep inside
+
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+In this world at all, aw, no
+
+There are tears in my eyes, I hurt so deep inside
+
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+In this world at all, aw, no
+
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+Just ain't love, yeah
+(I don't know why, ain't no love)
+In this world at all, aw, no

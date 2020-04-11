@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-kind-of-fool--do-you-think-i-am--the-tams
+lyrics_url: https://genius.com/The-tams-what-kind-of-fool-do-you-think-i-am-lyrics
 name: What Kind Of Fool (Do You Think I Am)
 rankings:
 - end_date: '1963-12-20'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
 ---
+What kind of fool, what kind of fool
+What kind of fool do you think I am?
+You think I can 
+After we had made our plans
+Said I'd be your number one man
 
+What kind of fool do you think I am
+Do you think I am, do you think I am?
+What kind of fool do you think I'd be?
+You said you really, really loved me
+
+Darling, you run around all over town
+You build me up then you let me down
+What kind of fool do you think I am
+What do you think I am?
+
+I ain't gonna be your second choice
+I've got to be your number one
+Or I ain't gonna love you at all
+
+Darling, you run around all over town
+You build me up then you let me down
+What kind of fool do you think I am
+Do you think I am, baby?
+
+Darling, you can't think that
+Darling, I'm no fool
+What kind of fool?

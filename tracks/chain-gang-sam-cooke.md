@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chain-gang-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-chain-gang-lyrics
 name: Chain Gang
 rankings:
 - end_date: '1960-08-21'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
 ---
+Hoh ah, hoh, I hear something saying
+Hoh ah, hoh ah
+Hoh ah, hoh ah
 
+
+Well don't you know
+That's the sound of the men
+Working on the chain, gang
+That's the sound of the men
+Working on the chain, gang
+
+
+All day long they're saying, hoh ah
+Hoh ah, hoh ah, hoh ah
+
+
+Well don't you know
+That's the sound of the men
+Working on the chain, gang
+That's the sound of the men
+Working on the chain, gang
+
+
+All day long they work so hard till the sun is going down
+Working on the highways and byways and wearing, wearing a frown
+You hear they moaning their lives away
+Then you hear somebody say;
+
+
+Well don't you know
+That's the sound of the men
+Working on the chain, gang
+That's the sound of the men
+Working on the chain, gang
+
+
+Can't you hear them singing, mmm hoh ah
+I'm going home one of these days
+I'm going home, see my woman
+Whom I love so dear
+But meanwhile, I gotta work right here
+
+
+Well don't you know
+That's the sound of the men
+Working on the chain, gang
+That's the sound of the men
+Working on the chain, gang
+
+
+All day long they're singing, mm hoh ah
+My, my, my, my, my, my, my, my work is so hard
+Give me water, I'm thirsty, my, my work is so hard
+Woah oh
+My, my, my, my, my, my, my, my work is so hard

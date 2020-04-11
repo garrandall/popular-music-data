@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-was-your-man-bruno-mars
+lyrics_url: https://genius.com/Bruno-mars-when-i-was-your-man-lyrics
 name: When I Was Your Man
 rankings:
 - end_date: '2012-12-28'
@@ -147,4 +148,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
 ---
+Same bed but it feels just a little bit bigger now
+Our song on the radio but it don't sound the same
+When our friends talk about you, all it does is just tear me down
+'Cause my heart breaks a little when I hear your name
 
+
+It all just sounds like oooooh ooh
+Mmm, too young, too dumb to realize
+
+
+That I should have bought you flowers
+And held your hand
+Should have gave you all my hours
+When I had the chance
+Take you to every party
+'Cause all you wanted to do was dance
+Now my baby's dancing
+But she's dancing with another man
+
+
+My pride, my ego, my needs, and my selfish ways
+Caused a good, strong woman like you to walk out my life
+Now I'll never, never get to clean up the mess I made (oh)
+And it haunts me every time I close my eyes
+
+
+It all just sounds like oooooh ooh
+Mmm, too young, too dumb to realize
+
+
+That I should have bought you flowers
+And held your hand
+Should have gave you all my hours
+When I had the chance
+Take you to every party
+'Cause all you wanted to do was dance
+Now my baby's dancing
+But she's dancing with another man
+
+
+Although it hurts
+I'll be the first to say that I was wrong
+Oh, I know I'm probably much too late
+To try and apologize for my mistakes
+But I just want you to know
+
+
+I hope he buys you flowers
+I hope he holds your hand
+Give you all his hours
+When he has the chance
+Take you to every party
+'Cause I remember how much you loved to dance
+Do all the things I should have done
+When I was your man
+
+
+Do all the things I should have done
+When I was your man

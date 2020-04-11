@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jam-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-jam-lyrics
 name: Jam
 rankings:
 - end_date: '1992-07-17'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
 ---
+Nation to nation, all the world must come together
+Face the problems that we see then maybe somehow we can work it out
+I asked my neighbor for a favor, she said later
+What has come of all the people, have we lost love of what it's about?
+I have to find my peace cause no one seems to let me be
+False prophets cry of doom, what are the possibilities?
+I told my brother there'll be problems, times and tears for fears
+But we must live each day like it's the last
+Go with it, go with it
 
+
+Jam
+It ain’t too much stuff
+It ain’t too much
+It ain’t too much for me to
+Jam
+It ain’t too much stuff
+It ain’t, don't you
+It ain’t too much for me to
+Jam
+
+
+The world keeps changing, rearranging minds and thoughts
+Predictions fly of doom, the baby boom has come of age, we'll work it out
+I told my brothers don't you ask me for no favors
+I'm conditioned by the system, don't you talk to me, don't scream and shout
+She pray to God, to Buddha, then she sings a Talmud song
+Confusions contradict the self, do we know right from wrong?
+I just want you to recognize me in the temple
+You can't hurt me, I've found peace within myself
+Go with it, go with it
+
+
+Jam
+It ain’t too much stuff
+It ain’t too much
+It ain’t too much for me to
+Jam
+It ain’t too much stuff
+It ain’t, don't you
+It ain’t too much for me to
+Jam
+
+
+Jam, jam, here comes the man
+Hot damn, the big boy stands with an upper hand
+Makin' funky tracks with my man Michael Jackson
+Smooth criminal, that's the man cause Mike's so relaxed
+Mingle, mingle, jingle in the jungle
+Bum rushed the door, 3 and 4's in a bundle
+Execute the plan, first I cooled it like a fan
+Got with Janet, then with Guy, now with Michael
+Cause it aren’t too hard to
+
+
+Jam
+It ain’t too much stuff
+It ain’t too much
+It ain’t too much for me to
+Jam
+It ain’t too much stuff
+It ain’t, don't you
+It ain’t too much for me to
+Jam

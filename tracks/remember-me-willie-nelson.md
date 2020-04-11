@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-me-willie-nelson
+lyrics_url: https://genius.com/Willie-nelson-remember-me-lyrics
 name: Remember Me
 rankings:
 - end_date: '1976-01-16'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
 ---
+You told me once you were mine, alone, forever
+An' I was yours till the end of eternity
+But all those vows are broken now an' I will never
+Be the same except in memory
 
+Remember me when the candle lights are gleamin'
+Remember me at the close of a long, long day
+An' it would be so sweet when all alone, I'm dreamin'
+Just to know you still remember me
+
+A brighter face may take my place when we're apart, dear:
+Another love, with a heart more bold and free
+But in the end, fair weather friends may break your heart, dear
+An' if they do, sweetheart, remember me
+
+Remember me when the candle lights are gleamin'
+Remember me at the close of a long, long day
+An' it would be so sweet when all alone, I'm dreamin'
+Just to know you still remember me
+
+Just to know you still remember me

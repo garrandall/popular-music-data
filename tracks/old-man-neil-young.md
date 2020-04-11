@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: old-man-neil-young
+lyrics_url: https://genius.com/Neil-young-old-man-lyrics
 name: Old Man
 rankings:
 - end_date: '1972-05-05'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
 ---
+Old man, look at my life
+I'm a lot like you were
+Old man, look at my life
+I'm a lot like you were
 
+
+Old man, look at my life
+Twenty-four, and there's so much more
+Live alone in a paradise
+That makes me think of two
+Love lost, such a cost
+Give me things that don't get lost
+Like a coin that won't get tossed
+Rolling home to you
+
+
+Old man, take a look at my life
+I'm a lot like you
+I need someone to love me
+The whole day through
+Ah, one look in my eyes
+And you can tell that's true
+
+
+Lullabies, look in your eyes
+Run around the same old town
+Doesn't mean that much to me
+To mean that much to you
+I've been first and last
+Look at how the time goes past
+But I'm all alone at last
+Rolling home to you
+
+
+Old man, take a look at my life
+I'm a lot like you
+I need someone to love me
+The whole day through
+Ah, one look in my eyes
+And you can tell that's true
+
+
+Old man, look at my life
+I'm a lot like you were
+Old man, look at my life
+I'm a lot like you were

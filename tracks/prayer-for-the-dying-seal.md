@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: prayer-for-the-dying-seal
+lyrics_url: https://genius.com/Seal-prayer-for-the-dying-lyrics
 name: Prayer For The Dying
 rankings:
 - end_date: '1994-06-17'
@@ -87,4 +88,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
 ---
+Fearless people
+Careless needle
+Harsh words spoken
+And lives are broken
+Forceful aging
+Help me, I'm fading
+Heaven's waiting
+It's time to move on
 
+
+Crossing that bridge
+With lessons I've learned
+Playing with fire
+And not getting burned
+I may not know what you're going through
+But time is the space between me and you
+Life carries on
+It goes on
+
+
+Just say, "Die," and that would be pessimistic
+In your mind, we can walk across water
+Please don't cry, it's just a prayer for the dying
+I just don't know what's got into me
+
+
+Crossing that bridge
+With lessons I've learned
+Playing with fire
+And not getting burned
+I may not know what you're going through
+But time is the space between me and you
+Life carries on
+It goes on
+
+
+There is a light through that window
+Hold on say yes, while people say no
+Life carries on
+It goes on
+
+
+Crossing that bridge
+With lessons I've learned
+Playing with fire
+And not getting burned
+I may not know what you're going through
+But time is the space between me and you
+Life carries on
+It goes on
+
+
+There is a light through that window
+Hold on say yes, while people say no
+Life carries on
+It goes on
+It goes on
+Goes, goes
+Life carries on
+
+
+When nothing else matters
+When nothing else matters
+I just don't know what's got into me
+It's just a prayer for the dying
+For the dying

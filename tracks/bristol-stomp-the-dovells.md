@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bristol-stomp-the-dovells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Bristol-Stomp-2
 name: Bristol Stomp
 rankings:
 - end_date: '1961-09-17'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
 ---
-
+The kids in Bristol are sharp as a pistol
+When they do the Bristol Stomp
+Really somethin when they join in jumpin
+When they do the Bristol Stomp
+Whoa, whoa they start spinnin every Friday night
+They dance the greatest and they do it right
+Well, it's the latest it's the greatest sight to see
+The kids in Bristol are sharp as a pistol
+(Whoa, oh, oh)
+When they do the Bristol Stomp
+(Whoa, oh, oh)
+Really somethin when they join in jumpin
+(Ah-ah-ah, whoa)
+When they do the Bristol Stomp
+Whoa, whoa it started in Bristol at a dee jay hop
+They hollered and whistled never wanted to stop
+We pony and twisted and we rocked with Daddy G
+The kids in Bristol are sharp as a pistol
+When they do the Bristol Stomp
+(Whoa, oh, oh)
+Really somethin when they join in jumpin
+(Ah-ah-ah)
+When they do the Bristol Stomp
+(Duh-duh-doo)
+It's got that groovy beat
+That makes you stomp your feet
+Come along and try
+Gonna feel fine
+And once you dance with me
+You'll fall in love you see
+The Bristol Stomp will make you mine
+All mine
+The stars are spinnin every Friday night
+They dance the greatest if they do it right
+But it's the latest it's the greatest sight to see
+The kids in Bristol are sharp as a pistol
+When they do the Bristol Stomp
+(Whoa, oh, oh)
+Really somethin when they join in jumpin
+When they do the Bristol Stomp
+It started in Bristol at a dee jay hop
+They hollered and whistled
+Never wanted to stop
+We pony and twisted
+And we rocked with Daddy G
+The kids in Bristol are sharp as a pistol
+When they do the Bristol Stomp
+(Whoa)
+Really somethin when they join in jumpin
+(Ah-ah-ah)
+When they do the Bristol Stomp
+Feel so fine
+Oh, got to say, please, mine
+I'm talkin (when they do the Bristol Stomp)
+Mine baby (kids in Bristol...)

@@ -1,9 +1,10 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: come-into-my-heart-lloyd-price-and-his-orchestra
+lyrics_url: https://genius.com/Lloyd-price-come-into-my-heart-lyrics
 name: Come Into My Heart
 rankings:
 - end_date: '1959-11-01'
@@ -63,4 +64,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
-
+I've never heard a name, as quite as sweet as yours
+I never saw eyes, as quite as bright as yours
+I've never found love that can't grow old
+And that is why, and that is why, I love you
+So come on
+You better come on step right on to my heart
+You better come oooonn, to my heart
+E'en a heart, as good and pure as yours
+I've never seen a smile as true and bright as yours
+I've never found love that can't grow old
+And that is why, that is why, I love you
+So come on
+You better come oooon to my heart
+Just sitting here thinking with a you on my mind
+Don't go no where I'm worried all the time
+Come on
+You better come on come on into my heart
+You better come ooonne into my heart!

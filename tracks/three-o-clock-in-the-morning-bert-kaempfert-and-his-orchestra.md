@@ -1,6 +1,6 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: three-o-clock-in-the-morning-bert-kaempfert-and-his-orchestra

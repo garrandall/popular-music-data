@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foreplay-raab
+lyrics_url: https://www.musixmatch.com/lyrics/Raab/Foreplay
 name: Foreplay
 rankings:
 - end_date: '1993-10-22'
@@ -51,4 +52,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
 ---
-
+Girl take my hand it will lead to romance Please don't you worry girl I will please you
+I won't tease you because I'll do anything for you
+Come on baby why want you play with me Come inside open wide please baby
+There is something that I want to do to you uh huh
+Here's the honey & some whip cream come on baby let me do my thing
+Foreplay
+Just come along & play with me for a day if the love is good you know it should be you & me
+I see your lovely body laying there don't move

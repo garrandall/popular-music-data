@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-got-a-way-billy-joel
+lyrics_url: https://genius.com/Billy-joel-shes-got-a-way-lyrics
 name: She's Got A Way
 rankings:
 - end_date: '1981-11-27'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-20'
 ---
+She's got a way about her
+I don't know what it is
+But I know that I can't live without her
+She's got a way of pleasing
+I don't know what it is
+But there doesn't have to be a reason anyway
 
+
+She's got a smile that heals me
+I don't know why it is
+But I have to laugh when she reveals me
+And she's got a way of talking
+I don't know why it is
+But it lifts me up when we are walking anywhere
+
+
+She comes to me when I'm feelin' down
+Inspires me without a sound
+She touches me and I get turned around
+
+
+She's got a way of showing
+How I make her feel
+And I find the strength to keep on going
+And she's got a light around her
+And everywhere she goes
+A million dreams of love surround her everywhere
+
+
+She comes to me when I'm feelin' down
+Inspires me without a sound
+She touches me and I get turned around
+Oh woo oh oh
+
+
+She's got a smile that heals me
+I don't know why it is
+But I have to laugh when she reveals me
+
+
+She's got a way about her
+I don't know what it is
+But I know that I can't live without her anyway

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flyin--prism
+lyrics_url: https://genius.com/Prism-flyin-lyrics
 name: Flyin'
 rankings:
 - end_date: '1978-07-28'
@@ -39,4 +40,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
 ---
+You're on the inside
+I'm on the outside
+Baby, there's no right side to this game
 
+You had me floatin'
+How could I be knowin'
+That our love was only a one act play
+
+Flyin'
+You should be flyin' home
+Flyin'
+Now you'll be flyin'home
+
+Now that you're leavin'
+I just can't believe it
+I should have seen it a long time ago
+
+The time I was losing
+Love can be so confusing
+Now I'll put you back on that morning plane
+
+Flyin'
+Now you're flyin' home
+Flyin'
+You'll be flyin' home
+
+Get on your way...
+Get on your way up to the sky
+A brand new day...
+It's a brand new day and I'm flyin'!
+
+Flyin'
+You'll be flyin' home
+Flyin'
+It's time you're flyin' home
+Flyin'
+You'll be flyin' home
+Flyin'
+I'll see you flyin' home
+
+Flyin' home...
+
+(Repeat and fade)

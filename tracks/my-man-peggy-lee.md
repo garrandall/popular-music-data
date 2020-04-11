@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-man-peggy-lee
+lyrics_url: https://genius.com/Peggy-lee-my-man-1995-remaster-lyrics
 name: My Man
 rankings:
 - end_date: '1959-01-25'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+It cost me a lot
+But there's one thing that I've got
+It's my man
 
+Cold and wet
+Tired, you bet
+But All that I'll soon forget
+With my man
+
+He's not much for looks
+And no hero out of books
+He's my man
+
+Two or three girls
+Has he
+That he likes as well as me
+But I love him
+
+I don't know why I should
+He isn't good
+He isn't good
+He beats me, too
+What can I do?
+
+Oh, my man, I love him so
+He'll never know
+All my life is just a spare
+But I don't care
+When he takes me in his arms
+The world is bright
+All right
+
+What's the difference if I say
+I'll go away
+When I know I'll come back
+On my knees someday
+
+For whatever my man is
+I'm am his forever...
+And ever...
+Evermore...

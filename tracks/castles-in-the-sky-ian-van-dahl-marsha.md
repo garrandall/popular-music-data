@@ -5,6 +5,7 @@ features:
 - Marsha
 genres: []
 key: castles-in-the-sky-ian-van-dahl-marsha
+lyrics_url: https://genius.com/Ian-van-dahl-castles-in-the-sky-feat-marsha-lyrics
 name: Castles In The Sky
 rankings:
 - end_date: '2001-08-10'
@@ -48,4 +49,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-24'
 ---
+Do you ever question your life?
+Do you ever wonder why?
+Do you ever see in your dreams...
+All the castles in the sky?
 
+Oh tell me why...
+Do we build castles in the sky?
+Oh tell me why...
+Are the castles way up high
+Please tell me why...
+Do we build castles in the sky?
+Oh tell me why...
+Are the castles way up high
+
+Do you ever question your life?
+Do you ever wonder why?
+Do you ever see in your dreams...
+All the castles in the sky?
+
+Oh tell me why...
+Do we build castles in the sky?
+Oh tell me why...
+Are the castles way up high
+Please tell me why...
+Do we build castles in the sky?
+Oh tell me why...
+Are the castles way up high

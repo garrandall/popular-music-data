@@ -89,7 +89,4 @@ I'm gettin' tired of waitin' and foolin' around
 I'll find somebody who won't make me feel like a clown
 This can't go on
 
-Yeah ... Yeah ... Yeah ...
-
-
-
+Yeah... Yeah... Yeah...

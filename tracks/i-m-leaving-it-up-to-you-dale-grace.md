@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-m-leaving-it-up-to-you-dale-grace
+lyrics_url: https://genius.com/Dale-and-grace-im-leaving-it-up-to-you-lyrics
 name: I'm Leaving It Up To You
 rankings:
 - end_date: '1963-10-11'
@@ -68,4 +69,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+I'm leavin' it all up to you oh oh
+You decide what you're gonna do
+Now do you want my love?
+Or are we through?
 
+That's why I'm leaving it up to you oh oh
+You decide what you're gonna do
+Now do you want my love?
+Or are we through?
+
+My heart in my hand
+I, I don't understand
+Baby, what, what have I done wrong?
+I worship, I worship the ground that you walk on
+That's why I'm leavin' it up to you oh oh
+You decide what you're gonna do
+Now do you want my love?
+Or are we through?

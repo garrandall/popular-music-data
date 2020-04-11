@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: missunderstanding-al-b--sure-
+lyrics_url: https://genius.com/Al-b-sure-missunderstanding-lyrics
 name: Missunderstanding
 rankings:
 - end_date: '1990-10-19'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
 ---
-
+Yo, you Eddie check this out here
+Why is it every time I see your face
+It's only when I got gas in my Chevy?
+There's something strange about that
+What's up? It's just a
+Missunderstanding I'm not so demanding
+Never will you play with my heart
+Missunderstanding I don't know
+What you're planning never will you tear me apart
+I know I must be dreaming all these brand new friends
+And I've never seen such clever ways to make amends
+You never know who's scheming is she out for self?
+Nowadays you've got to be protected and it's not for health
+Don't you know she drives me crazy, does she like my walk
+Or maybe all she knows is that money talks money, money, money
+It's a shame the way it is I really like her smile
+I'd like to get to know her 'cause she drives me wild
+Can you tell me why hey, you need diamonds, you need pearls
+And I gotta buy 'em, oh I've got to buy 'em
+Don't you know, don't you know to be my lady, to by my lady
+Drive my Mercedes drive my Mercedes start giving me that lovin' hey
+Missunderstanding I'm not so demanding
+Never will you play with my heart
+Missunderstanding I don't know
+What you're planning never will you tear me apart
+Can't you read between the lines? I never go for self
+Should I try to sleep the lady and misuse my wealth?
+I don't know the times have changed I can't sell out
+I grew up doing right and I won't throw it out
+Can you tell me why hey, you need diamonds, you need pearls
+And I gotta buy 'em, oh I've got to buy 'em
+Don't you know, don't you know to be my lady, to by my lady
+Drive my Mercedes drive my Mercedes start giving me that lovin' hey
+Missunderstanding I'm not so demanding
+Never will you play with my heart
+Missunderstanding I don't know
+What you're planning never will you tear me apart
+Yo Eddie F, are you in here? Yeah, ha, ha, ha, yeah
+I thought so sounding swell you know what I'm saying? Yeah
+You know what time it is now right? Nevelle get funky
+Missunderstanding, missunderstanding
+Missunderstanding, that's all it is
+Missunderstanding I'm not so demanding
+Never will you play with my heart
+Missunderstanding I don't know
+What you're planning never will you tear me apart

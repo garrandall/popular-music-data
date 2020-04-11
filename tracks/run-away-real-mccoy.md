@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-away-real-mccoy
+lyrics_url: https://genius.com/Real-mccoy-run-away-lyrics
 name: Run Away
 rankings:
 - end_date: '1995-03-17'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
 ---
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
 
+Money, sex in full control, a generation without soul
+Perfect people in a perfect world
+Behind closed doors all in control
+Life, in a world of luxury
+Cold cash money mentality
+You gotta keep the faith, you gotta keep the faith
+You'd better keep the faith and run away
+
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+It's time to break free, oh oh oh oh, run away, oh oh oh oh
+You better break free, oh oh oh oh, run away, oh oh oh oh
+
+Money, sex in full control, look, big brother is watching you
+Unlock your brain and save your soul
+No more limits, no more curfew
+Life in the perfect system
+Take a stand and fight for freedom
+Keep the faith, you gotta keep the faith
+You'd better keep the faith and run away
+
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+Run away, run away, run away and save your life
+Run away, run away, run away if you want to survive
+It's time to break free, oh oh oh oh, run away, oh oh oh oh
+You better break free, oh oh oh oh, run away, oh oh oh oh
+
+Keep the faith, you gotta keep the faith
+You'd better keep the faith and run away
+Keep the faith, you gotta keep the faith
+You'd better keep the faith and run away

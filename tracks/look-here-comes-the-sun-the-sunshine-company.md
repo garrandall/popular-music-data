@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-here-comes-the-sun-the-sunshine-company
+lyrics_url: https://genius.com/The-sunshine-company-look-here-comes-the-sun-lyrics
 name: Look Here Comes The Sun
 rankings:
 - end_date: '1968-02-16'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+Turn to the east
+Watch for the dawn
+The night we loved in
+Is now nearly gone
 
+Look, here comes the sun
+Look, here comes the sun
+So I'll kiss you
+We'll count to ten, and then
+It'll be time to join the world again
+
+Turn to the sky
+Rest your head on the sand
+The sun reaches high
+And I reach for your hand
+
+Look, here comes the sun
+Look, here comes the sun
+I wish we could stay, another day
+Yes I say, it'll be time to wish the world away
+
+The night we left was such a short time ago
+But it's no good to pretend
+Sun is here and says it's time we must go
+I wish it would never end
+Oh no, let it never end
+
+Look, here comes the sun
+Look, here comes the sun
+So I'll kiss you
+We'll count to ten, and then
+It'll be time to join the world again
+
+Look, here comes the sun
+Look, here comes the sun
+Look, here comes the sun

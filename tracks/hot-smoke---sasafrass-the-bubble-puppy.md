@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-smoke---sasafrass-the-bubble-puppy
+lyrics_url: https://www.musixmatch.com/lyrics/Cox-Prince-The-Bubble-Puppy/Hot-Smoke-and-Sasafrass-Stereo
 name: Hot Smoke & Sasafrass
 rankings:
 - end_date: '1969-02-21'
@@ -55,4 +56,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+In the mist of sassafras
+Many things will come to pass
+And the smoke shall rise again
+To the place above where it began
 
+Time will bring the fire and flame
+As surely as it brought the rain
+But in the gardens of the moon
+Time is held within the silver spoon
+
+If you're happy where you are
+Then you need not look too far
+If you've found your place at last
+Then you need not use the looking glass

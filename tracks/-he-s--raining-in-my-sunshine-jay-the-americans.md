@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -he-s--raining-in-my-sunshine-jay-the-americans
+lyrics_url: https://genius.com/Jay-and-the-americans-hes-raining-in-my-sunshine-lyrics
 name: (He's) Raining In My Sunshine
 rankings:
 - end_date: '1966-12-02'
@@ -24,4 +25,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+See the raindrops falling, hear them fall so loud
+Once I stood in sunlight; now darkness is my shroud
+Rain never ever seemed to bother me
+Trouble never came my way
+The light of her love always followed me
+Till her new love turned my world to gray
 
+CHORUS:
+Now he's raining in my sunshine, clouding up my sky
+Yes he's raining in my sunshine, come between her and I
+All at once he's taken everything that's mine
+Now he stands beside her, he walks in my sunshine
+Why did he have to go and steal my love?
+Why did he take her away?
+She was the only thing I had in life
+She was my sunny day
+
+(chorus)
+(instrumental)
+
+(repeat last 2 lines of verse 2, then chorus)

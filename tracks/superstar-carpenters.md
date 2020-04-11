@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superstar-carpenters
+lyrics_url: https://genius.com/Carpenters-superstar-lyrics
 name: Superstar
 rankings:
 - end_date: '1971-09-10'
@@ -91,4 +92,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+Long ago and oh so far away
+I fell in love with you
+Before the second show
+Your guitar, it sounds so sweet and clear
+But you're not really here
+It's just the radio
 
+
+Don't you remember you told me you loved me baby
+You said you'd be coming back this way again baby
+Baby, baby, baby, baby, oh, baby
+I love you, I really do
+
+
+Loneliness is a such a sad affair
+And I can hardly wait to be with you again
+What to say to make you come again
+Come back to me again
+And play your sad guitar
+
+
+Don't you remember you told me you loved me baby
+You said you'd be coming back this way again baby
+Baby, baby, baby, baby, oh, baby
+I love you, I really do
+
+Don't you remember you told me you loved me baby
+You said you'd be coming back this way again baby
+Baby, baby, baby, baby, oh, baby
+I love you, I really do

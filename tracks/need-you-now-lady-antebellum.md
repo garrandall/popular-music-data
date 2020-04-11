@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: need-you-now-lady-antebellum
+lyrics_url: https://genius.com/Lady-antebellum-need-you-now-lyrics
 name: Need You Now
 rankings:
 - end_date: '2009-09-04'
@@ -247,4 +248,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
 ---
+"Hey, sorry I missed your call, just leave a message after the beep"
+"Hey, yeah, it's me, just been thinking about everything that night
+I don't know, I just miss you so much
+Can you call me back?"
 
+
+Picture perfect memories
+Scattered all around the floor
+Reachin' for the phone 'cause I can't fight it anymore
+
+
+And I wonder if I ever cross your mind
+For me, it happens all the time
+
+
+It's a quarter after one, I'm all alone and I need you now
+Said I wouldn't call, but I've lost all control and I need you now
+And I don't know how I can do without
+I just need you now
+
+
+Another shot of whiskey
+Can't stop lookin' at the door
+Wishing you'd come sweeping in the way you did before
+
+
+And I wonder if I ever cross your mind
+For me, it happens all the time
+
+
+It's a quarter after one, I'm a little drunk and I need you now
+Said I wouldn't call, but I've lost all control and I need you now
+And I don't know how I can do without
+I just need you now
+Whoa, oh
+
+
+I guess I'd rather hurt than feel nothin' at all
+
+
+It's a quarter after one, I'm all alone and I need you now
+And I said I wouldn't call, but I'm a little drunk and I need you now
+And I don't know how I can do without
+I just need you now
+
+
+I just need you now
+Oh baby, I need you now

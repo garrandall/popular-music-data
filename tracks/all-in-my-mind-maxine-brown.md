@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-in-my-mind-maxine-brown
+lyrics_url: https://genius.com/Maxine-brown-all-in-my-mind-lyrics
 name: All In My Mind
 rankings:
 - end_date: '1961-01-08'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
+I think that you don't care
+And its more than I can bare
+I don't know baby
+Maybe its all in my mind, all in my mind
 
+I know that I've been true
+But honey sweetie baby what about you?
+I don't know baby
+Maybe its all in my mind
+
+We've been going steady so long
+I'd never dream you would ever do me wrong
+I knew I was yours and I thought you were mine
+And that every little thing was so fine
+
+Whoa darling Id hate to see
+Someone else with you other than me
+I don't know baby
+Maybe its all in my mind
+All in mind
+Oh, hum, hum
+Oh yes, its all in my mind
+
+I don't mean to think so mean and evil baby
+Please tell me, tell me
+It's all in my mind

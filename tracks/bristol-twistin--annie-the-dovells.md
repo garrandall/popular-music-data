@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bristol-twistin--annie-the-dovells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Bristol-Twistin-Annie
 name: Bristol Twistin' Annie
 rankings:
 - end_date: '1962-05-25'
@@ -51,4 +52,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
 ---
+Bristol twisting Annie
+Lay your twisting down
+Bristol twisting Annie
+Lay your twisting down
 
+She's got a shape like
+Ow, Rin Tin Tin
+And a face like
+My Uncle Ben
+
+When it comes to the
+Twist or doing the bop
+Everybody calls her
+The queen of the hop
+
+Bristol twisting Annie
+Lay your twisting down
+Bristol twisting Annie
+Lay your twisting down
+
+She's got hips
+Like big bad John
+Legs like short sad Sam
+
+When she starts doing the twist
+My knees start knocking
+And the whole joint's rocking
+
+The kids all come from
+Oh, yeah, miles around
+Just to see what
+She's putting down
+
+When she's twisting
+Everybody digs
+The guys and gals
+All flip their lids
+
+Bristol twisting Annie
+Lay your twisting down
+Bristol twisting Annie
+Lay your twisting down
+
+Bristol twisting Annie
+Lay your twisting down
+
+She's got hips
+Like big bad John
+Yeah, yeah, yeah
+Legs like short sad Sam
+
+When she starts doing the twist
+My knees start knocking
+And the whole joint's rocking
+
+The kids all come
+From miles around
+Oh, just to see
+What she's putting down
+
+When she's twisting
+Everybody digs
+The guys and gals
+All flip their lids
+
+Bristol twisting Annie
+Lay your twisting down
+One more time
+Bristol twisting Annie
+Lay your twisting down
+
+Over again
+Bristol twisting Annie
+Lay your twisting down...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: may-the-bird-of-paradise-fly-up-your-nose--little--jimmy-dickens
+lyrics_url: https://genius.com/Little-jimmy-dickens-may-the-bird-of-paradise-fly-up-your-nose-lyrics
 name: May The Bird Of Paradise Fly Up Your Nose
 rankings:
 - end_date: '1965-10-22'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
 ---
+One fine day as I was a-walkin' down the street
+Spied a beggar man with rags upon his feet
+Took a penny from my pocket
+In his tin cup I did drop it
+I heard him say as I made my retreat
 
+"May the bird of paradise fly up your nose"
+"May an elephant caress you with his toes"
+"May your wife be plagued with runners in her hose"
+"May the bird of paradise fly up your nose"
+
+The laundry man is really on his toes
+Found a hundred-dollar bill among my clothes
+When he called me I came a-runnin'
+Gave him back his dime for phonin'
+I heard him sayin' as I turned to go
+
+"May the bird of paradise fly up your nose"
+"May an elephant caress you with his toes"
+"May your wife be plagued with runners in her hose"
+"May the bird of paradise fly up your nose"
+
+I was way behind one day to catch the train
+Taxi driver said "We'll make it just the same"
+The speed cop made it with us
+And as he wrote out the ticket
+I stood by politely a-waitin' for my change
+
+"May the bird of paradise fly up your nose"
+"May an elephant caress you with his toes"
+"May your wife be plagued with runners in her hose"
+"May the bird of paradise fly up your nose"
+
+"May the bird of paradise fly up your nose"
+"May an elephant caress you with his toes"
+"May your wife be plagued with runners in her hose"
+"May the bird of paradise fly up your nose"

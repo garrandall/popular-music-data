@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sentimental-kenny-g
+lyrics_url: https://genius.com/Kenny-g-sentimental-lyrics
 name: Sentimental
 rankings:
 - end_date: '1993-12-17'
@@ -47,4 +48,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
 ---
-
+Instrumental

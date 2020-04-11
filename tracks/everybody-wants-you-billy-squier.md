@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-wants-you-billy-squier
+lyrics_url: https://genius.com/Billy-squier-everybody-wants-you-lyrics
 name: Everybody Wants You
 rankings:
 - end_date: '1982-10-08'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
+You see 'em coming at you every night
+Strung on pretension, they fall for you at first sight
+You know their business, you think it's a bore
+They make you restless, it's nothing you ain't seen before
 
+Get around town, spend your time on the run
+You never let down, say you do it for fun
+Never miss a play, though you make quite a few
+You give it all away, everybody wants you
+Yeah
+
+You crave attention, you can never say no
+Throw your affections any way the wind blows
+You always make it, you're on top of the scene
+You sell the copy like the cover of a magazine, ooh
+
+Putting on the eyes till there's nobody else
+You never realize what you do to yourself
+The things that they see make the daily reviews
+You never get free, everybody wants you
+
+Everybody knows you
+Everybody snows you
+Everybody leads you, needs you, bleeds you
+
+Nights of confusion and impossible dreams
+Days at the mirror, patching up around the seams
+You got your glory, you paid for it all
+You take your pension in loneliness and alcohol
+
+Say goodbye to conventional ways
+You can't escape the hours, you lose track of the days
+The more you understand, seems the more like you do
+You never get away, everybody wants you, ooh
+
+Everybody wants you
+Everybody wants you

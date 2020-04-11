@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-little-trustmaker-the-tymes
+lyrics_url: https://genius.com/The-tymes-you-little-trustmaker-lyrics
 name: You Little Trustmaker
 rankings:
 - end_date: '1974-08-23'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
 ---
+You little trustmaker, you're no heart-breaker, yes sir
+You little trustmaker, you're no heart-breaker
+You little trustmaker
 
+You, you give me love, and all of the things that I will want forever
+Yes you sweep away pain, giving me joy I know will last forever
+
+You little trustmaker, you're no heart-breaker 
+Yes sir
+You little trustmaker, you're no heart-breaker
+You little trustmaker
+
+Girl remember, you're my life, dream, my world
+You're all I want forever
+And lovin, warm and tender, I am glad, for all that I can count on
+
+You little trustmaker, you're no heart-breaker, yes sir
+You little trustmaker yes sir, you're no heart-breaker
+You little trustmaker
+
+Yes sir, yes sir
+You little trustmaker, you're no heart-breaker, yes sir, yes sir
+You little trustmaker, you're no heart-breaker, yes sir, yes sir
+You little trustmaker, you're no heart-breaker, yes sir, yes sir

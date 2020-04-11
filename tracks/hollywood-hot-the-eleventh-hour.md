@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hollywood-hot-the-eleventh-hour
+lyrics_url: https://genius.com/The-eleventh-hour-hollywood-hot-lyrics
 name: Hollywood Hot
 rankings:
 - end_date: '1975-09-05'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
 ---
+(CHORUS)
+Hollywood hot, Hollywood hot
+And they like it a lot
+Foxy fever got you hot to trot
+Glam and glitter get you hot
 
+Action, Hollywood and Vine
+Making out anytime
+Pick up, pick up chicken
+Get your boat of chicken
+
+What you want (twenty bucks)
+Wanna go (sure enough)
+So tough, sweet stuff (uh huh)
+Said love
+
+(CHORUS)
+
+For sale, what you wanna love
+Would be, would be starlet
+Making out in car lots
+Get it on, gimme green
+What you like (your scene)
+You buy, you get, let's swing
+
+(CHORUS)
+
+Big shot cruising in a Jag
+Chasing in drag
+
+Bail bond, buy bails
+Call Mr. Pickle of Beverly Hills
+Red light, stop sign
+Ain't nobody gonna pay your fine
+
+(CHORUS)
+
+Hollywood hot, Hollywood hot
+Hollywood hot, Hollywood hot
+Hollywood hot, Hollywood hot...
+
+(CHORUS)
+
+Hot, Hollywood. hot, Hollywood
+Hot, Hollywood. hot, Hollywood
+
+(CHORUS) 3X

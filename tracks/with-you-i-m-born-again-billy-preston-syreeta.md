@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: with-you-i-m-born-again-billy-preston-syreeta
+lyrics_url: https://genius.com/Billy-preston-with-you-im-born-again-lyrics
 name: With You I'm Born Again
 rankings:
 - end_date: '1979-12-14'
@@ -124,4 +125,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
 ---
+Come bring me your softness
+Comfort me through all this madness
+Woman, don't you know? With you I'm born again
 
+
+Come give me your sweetness
+Now there's you, there is no weakness
+Lying safe within your arms, I'm born again
+
+
+I was half, not whole
+In step with none
+Reaching through this world
+In need of one
+
+
+Come show me your kindness
+In your arms I know I'll find this
+Woman, don't you know? With you I'm born again
+Lying safe with you I'm born again
+
+
+Come bring me your softness
+Comfort me through all this madness
+Woman, don't you know? With you I'm born again
+
+
+Come give me your sweetness
+Now there's you, there is no weakness
+Now there's you, there is no weakness
+Lying safe within your arms, I'm born again
+Woman, don't you know? With you I'm born again
+
+
+I was half, not whole
+In step with none
+Reaching through this world
+In need of one
+
+
+Come show me your kindness
+In your arms I know I'll find this
+Woman, don't you know? With you I'm born again
+Lying safe with you I'm born again

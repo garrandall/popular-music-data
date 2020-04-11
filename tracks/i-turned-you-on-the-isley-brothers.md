@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-turned-you-on-the-isley-brothers
+lyrics_url: https://genius.com/The-isley-brothers-i-turned-you-on-lyrics
 name: I Turned You On
 rankings:
 - end_date: '1969-06-06'
@@ -47,4 +48,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
 ---
+Hold it, baby, I turned you on
+Now I can't turn you off
+I turned you on
+Now I can't turn you off
 
+What a good, good feeling
+A great sensation
+You and me, baby
+A good combination
+
+Sock it to me
+Sock it to me
+Sock it to me
+Sock it to me
+
+Baby, I started it
+But I can't stop it
+I admit that I started it, baby
+Girl but I can't stop it
+
+What a good, good feeling
+A great sensation
+You and me, baby
+A good combination
+
+Sock it to me
+Sock it to me
+Sock it to me
+Sock it to me
+Get it, George
+
+Sock it to me
+Sock it to me
+Sock it to me
+Sock it to me
+
+I turned you on
+Sock it to me
+Sock it to me
+Sock it to me
+
+I turned you on
+But I can't turn you off
+Baby, I said, I turned you on
+But I can't turn you off
+
+Come on, girl, light my fire
+Set me a little bit higher
+Round and round and up and down we go
+Where we gonna stop, baby, nobody knows
+
+Sock it to me
+Whip it to me
+Give it to me
+Sock it to me
+
+Sock it to me
+Sock it to me
+Sock it to me
+Sock it to me

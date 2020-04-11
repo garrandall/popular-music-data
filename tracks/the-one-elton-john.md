@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-elton-john
+lyrics_url: https://genius.com/Elton-john-the-one-lyrics
 name: The One
 rankings:
 - end_date: '1992-07-03'
@@ -95,4 +96,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
 ---
+I saw you dancin' out the ocean
+Runnin' fast along the sand
+A spirit born of earth and water
+Fire flyin' from your hands
+In the instant that you love someone
+In the second that the hammer hits
+Reality runs up your spine
+And the pieces finally fit
 
+
+And all I ever needed was the one
+Like freedom fields, where wild horses run
+When stars collide like you and I
+No shadows block the sun
+You're all I've ever needed
+Baby, you're the one
+
+
+There are caravans we follow
+Drunken nights in dark hotels
+When chances breathe between the silence
+Where sex and love no longer gel, oh
+For each man, in his time, is Cain
+Until he walks along the beach
+And sees his future in the water
+A long, lost heart within his reach
+
+
+And all I ever needed was the one
+Like freedom fields, where wild horses run
+When stars collide like you and I
+No shadows block the sun
+You're all I've ever needed
+Ooh, baby, you're the one
+
+
+And all I ever needed was the one
+Like freedom fields, where wild horses run
+When stars collide like you and I
+No shadows block the sun
+Oh, you're all I ever needed
+Ooh, baby, you're the one
+
+
+All I ever needed was the one
+Like freedom fields, where wild horses run
+When stars collide like you and I
+No shadows block the sun
+Oh, you're all I ever needed
+Ooh, baby, you're the one

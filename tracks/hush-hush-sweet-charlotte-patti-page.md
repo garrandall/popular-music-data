@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hush-hush-sweet-charlotte-patti-page
+lyrics_url: https://genius.com/Patti-page-hush-hush-sweet-charlotte-lyrics
 name: Hush Hush Sweet Charlotte
 rankings:
 - end_date: '1965-04-30'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
 ---
+Hush hush, sweet Charlotte
+Charlotte, don't you cry
+Hush hush, sweet Charlotte
+He'll love you till he dies
 
+Oh, hold him darling
+Please hold him tight
+And brush the tear from your eye
+You weep because you had a dream last night
+You dreamed that he said goodbye
+
+He held two roses within his hand
+Two roses he gave to you
+The red rose tells you of his passion
+The white rose his love so true
+
+Hush hush, sweet Charlotte
+Charlotte, don't you cry
+Hush hush, sweet Charlotte
+He'll love you till he dies
+
+And every night after he shall die
+Yes every night when he's gone
+The wind will sing to you this lullaby
+Sweet Charlotte was loved by John
+
+Hush hush, sweet Charlotte
+Charlotte, don't you cry
+Hush hush, sweet Charlotte
+He'll love you till he dies

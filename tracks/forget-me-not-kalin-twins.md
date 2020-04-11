@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forget-me-not-kalin-twins
+lyrics_url: https://genius.com/Kalin-twins-forget-me-not-lyrics
 name: Forget Me Not
 rankings:
 - end_date: '1958-10-05'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
+Forget me not
+Kalin Twins
 
+Forget the fellows that you knew before
+You ain't a gonna see them anymore
+Forget the trip that you were gonna take
+Forget it all, but for goodness sake
+Forget me not
+Forget me not
+You're all I got
+Forget me not
+
+Forget the dating ev'ry Friday night
+I ain't a gonna let you out of sight
+I'm going out and buy a wedding ring
+So you can start forgetting ev'ry thing
+Forget me not
+Forget me not
+You're all I got
+Forget me not
+
+Forget the fellows at the candy store
+Cause you ain't a gonna see them anymore
+Forget the talking on the telephone
+Tell your ma to tell them you're not home
+Forget me not
+Forget me not
+You're all I got
+Forget me not
+
+Forget the way you roll them big blue eyes
+At all those big and handsome foot-ball guys
+Forget the meeting all the gang at three
+From now on you're walking home with me
+Forget me not
+Forget me not
+You're all I got
+Forget me not

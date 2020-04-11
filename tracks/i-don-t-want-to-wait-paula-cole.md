@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-wait-paula-cole
+lyrics_url: https://genius.com/Paula-cole-i-dont-want-to-wait-lyrics
 name: I Don't Want To Wait
 rankings:
 - end_date: '1997-11-07'
@@ -231,4 +232,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-21'
 ---
+So open up your morning light
+And say a little prayer for I
+You know that if we are to stay alive
+Then see the peace in every eye
 
+
+Doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doo doooo
+
+
+She had two babies, one was six months, one was three
+In the war of '44
+Every telephone ring, every heartbeat stinging
+When she thought it was God calling her
+Oh, would her son grow to know his father?
+
+
+I don't want to wait for our lives to be over
+I want to know right now what will it be
+I don't want to wait for our lives to be over
+Will it be yes or will it be sorry
+
+
+Doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doo doooo
+
+
+He showed up all wet on the rainy front step
+Wearing shrapnel in his skin
+And the war he saw lives inside him still
+It's so hard to be gentle and warm
+The years pass by and now he has granddaughters
+
+
+I don't want to wait for our lives to be over
+I want to know right now what will it be
+I don't want to wait for our lives to be over
+Will it be yes or will it be
+
+
+Ohhh, so look at me from across the room
+You're wearing your anguish again
+Believe me I know the feeling
+It sucks you into the jaws of anger
+Ohhh, so breathe a little more deeply
+All we have is this very moment
+And I don't want to do what his father
+And his father, and his father did
+I want to be here now
+
+
+So open up your morning light
+And say a little prayer for I
+You know that if we are to stay alive
+Then see the peace in every eye
+
+
+I don't want to wait for our lives to be over
+I want to know right now what will it be
+I don't want to wait for our lives to be over
+Will it be yes or will it be
+I don't want to wait for our lives to be over
+I want to know right now what will it be
+I don't want to wait for our lives to be over
+Will it be yes or will it be sorry
+
+
+Doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doooo
+Doo doo doo doo doooo
+
+
+So open up your morning light
+And say a little prayer for I
+You know that if we are to stay alive
+Then see the love in every eye

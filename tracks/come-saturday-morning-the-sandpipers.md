@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-saturday-morning-the-sandpipers
+lyrics_url: https://genius.com/The-sandpipers-come-saturday-morning-lyrics
 name: Come Saturday Morning
 rankings:
 - end_date: '1969-12-26'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
 ---
+Come Saturday morning
+I'm goin' away with my friend
+We'll Saturday-spend
+'Til the end of the day
 
+Just I and my friend
+We'll travel for miles
+In our Saturday smiles
+And then we'll move on
+But we will remember
+Long after Saturday's gone
+
+Come Saturday morning
+Come Saturday morning
+
+Come Saturday morning
+I'm goin' away with my friend
+We'll Saturday-laugh
+More than half of the day
+
+Just I and my friend
+Dressed up in our rings
+And our Saturday things
+And then we'll move on
+But we will remember
+Long after Saturday's gone
+
+Come Saturday morning
+Come Saturday morning
+
+Come Saturday morning
+
+Just I and my friend
+We'll travel for miles
+In our Saturday smiles
+And then we'll move on
+But we will remember
+Long after Saturday's gone
+
+Come Saturday morning
+Come Saturday morning
+Come Saturday morning
+Come Saturday morning

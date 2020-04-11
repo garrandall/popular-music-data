@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooked-on-classics-royal-philharmonic-orchestra
+lyrics_url: https://genius.com/Royal-philharmonic-orchestra-hooked-on-classics-parts-1-and-2-lyrics
 name: Hooked On Classics
 rankings:
 - end_date: '1981-11-06'
@@ -87,4 +88,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
 ---
-
+Instrumental

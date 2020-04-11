@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-still-be-loving-you-restless-heart
+lyrics_url: https://genius.com/Restless-heart-ill-still-be-loving-you-lyrics
 name: I'll Still Be Loving You
 rankings:
 - end_date: '1987-04-17'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
 ---
+Changin' my life with your love
+Has been so easy for you
+And I'm amazed every day
+And I'll need you
 
+'Till all the mountains are valleys
+And every ocean is dry, my love
+
+I'll be yours
+Until the sun doesn't shine
+'Till time stands still
+Until the winds don't blow
+
+When today is just a memory to me
+I know I'll still be loving
+I'll still be loving you
+I'll still be loving you
+
+Never before did I know
+How loving someone could be
+Now I can see, you and me
+For a lifetime
+
+Until the last moon is rising
+You'll see the love in my eyes, my love
+
+I'll be yours
+Until the sun doesn't shine
+'Till time stands still
+Until the winds don't blow
+
+When today is just a memory to me
+I know I'll still be loving
+I'll still be loving you
+
+I'll be yours
+Until the sun doesn't shine
+'Till time stands still
+Until the winds don't blow
+
+When today is just a memory to me
+I know I'll still be loving
+I'll still be loving you
+
+I'll still be loving you
+I'll still be loving
+I'll still be loving you
+I'll still be loving
+I'll still be loving you
+I'll still be loving
+I'll still be loving you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-your-love-roger-daltrey
+lyrics_url: https://genius.com/Roger-daltrey-without-your-love-lyrics
 name: Without Your Love
 rankings:
 - end_date: '1980-09-19'
@@ -83,4 +84,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+You can show me the way
+Give me a sunny day
+But what does it mean
+Without your love
 
+And if I could travel far
+If I could touch the stars
+Where would I be
+Without your love
+
+Whenever I get to feeling
+Down and out
+I think about what you said
+And then I'd give out
+
+And if I could fly away
+If I could sail today
+Where would I go
+Without your love
+
+You can show me the way
+And give me a sunny day
+But what does it mean
+Without your love
+
+And if I could travel far
+If I could touch the stars
+Where would I be
+Without your love
+
+And if I ever wonder away
+Too far
+You'd come looking for me with
+Open arms
+
+I could forget my home
+Be like a rolling stone
+But who would I be
+Without your love
+
+And what does it mean
+Without your love
+Where would I be?

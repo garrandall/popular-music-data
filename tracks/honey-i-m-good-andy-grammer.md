@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honey-i-m-good-andy-grammer
+lyrics_url: https://genius.com/Andy-grammer-honey-im-good-lyrics
 name: Honey I'm Good
 rankings:
 - end_date: '2015-03-06'
@@ -131,4 +132,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
 ---
+Nah, nah, honey, I'm good
+I could have another but I probably should not
+I got somebody at home, home, home, home
 
+
+It's been a long night here and a long night there
+And these long, long legs are damn near everywhere
+Hold up now
+You look good, I will not lie
+But if you ask where I'm staying tonight, I gotta be like
+
+
+Oh baby, nah baby
+You got me all wrong, baby
+My baby's already got all of my love
+So nah, nah, honey, I'm good
+I could have another but I probably should not
+I got somebody at home and if I stay I might not leave alone
+Nah, honey, I'm good
+I could have another but I probably should not
+I gotta bid you adieu, to another I will stay true
+I will stay true, I will stay true
+
+
+Now, better men than me have failed
+Drinking from that unholy grail
+Now check it out
+I got her and she got me and you got that ass
+But I kindly gotta be like
+
+
+Oh baby, nah baby
+You got me all wrong, baby
+My baby's already got all of my love
+So nah, nah, honey, I'm good
+I could have another but I probably should not
+I got somebody at home and if I stay I might not leave alone
+Nah, honey, I'm good
+I could have another but I probably should not
+I gotta bid you adieu, to another I will stay true
+I will stay true, I will stay true
+
+
+Oh, I'm sure you, sure you will make somebody's night
+But oh, I assure you, assure you it sure as hell's not mine
+
+
+Oh no, honey, I'm good
+I could have another but I probably should not
+I got somebody at home and if I stay I might not leave alone
+Nah, honey, I'm good
+I could have another but I probably should not
+I gotta bid you adieu, to another I will stay true
+Nah, nah, honey, I'm good
+I could have another but I probably should not
+I got somebody at home and if I stay I might not leave alone
+Nah, honey, I'm good
+I could have another but I probably should not
+I gotta bid you adieu, to another I will stay true
+I will stay true, I will stay true, I will stay true

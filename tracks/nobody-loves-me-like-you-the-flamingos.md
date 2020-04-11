@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-loves-me-like-you-the-flamingos
+lyrics_url: https://www.musixmatch.com/lyrics/The-Flamingos/Nobody-Loves-Me-Like-You-Do
 name: Nobody Loves Me Like You
 rankings:
 - end_date: '1960-04-24'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
 ---
-
+Oh my darling I just love you so;
+There's one thing that I want you to know
+And that's no one can hold me like you
+No one can kiss me like you
+No one loves me like you do
+Every thing that I say I do;
+I do and say it baby just for you
+Because no one can hold me like you
+No one can kiss me like you
+No one loves me like you do Whenever I'm with you I feel so divine
+There's one thing that you can do for me
+And that's tell me that your mine;
+Mine all mine Every thing that I say and do;
+I do and say it baby just for you
+Because no one can hold me like you
+No one can kiss me like you
+No one love's me like you do

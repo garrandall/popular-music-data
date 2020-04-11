@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-thing-fine-young-cannibals
+lyrics_url: https://genius.com/Fine-young-cannibals-good-thing-lyrics
 name: Good Thing
 rankings:
 - end_date: '1989-05-12'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
 ---
+The one good thing in my life
+Has gone away, I don't know why
+She's gone away, I don't know where
+Somewhere I cannot follow her
 
+The one good thing didn't stay too long
+My back was turned and she was gone
+
+
+Good thing
+Where have you gone?
+My good thing
+You've been gone too long
+
+
+People say I should forget
+There's plenty more, don't get upset
+People say she's doing fine
+Mutual friends I see sometime
+
+That's not what I want to hear
+I want to hear she wants me near
+
+
+Good thing
+Where have you gone?
+My good thing
+You've been gone too long
+
+Good thing
+
+
+
+
+Then one day, she came back
+I was so happy that I didn't ask
+Morning came into my room
+Caught me dreaming like a fool
+
+
+Good thing, my good thing
+My good thing, where have you gone
+My good thing, my good thing
+Where have you gone
+It's been so long
+
+Good God, girl
+Good God, girl
+Good God, girl
+Good God

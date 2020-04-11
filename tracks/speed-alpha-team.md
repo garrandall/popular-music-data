@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: speed-alpha-team
+lyrics_url: https://www.musixmatch.com/lyrics/Alpha-Team/Speed
 name: Speed
 rankings:
 - end_date: '1993-02-05'
@@ -39,4 +40,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
 ---
+Here he comes
+Here comes Speed Racer
+Here he comes
+Here comes Speed Racer
 
+He's a demon on wheels
+
+Go, go, Speed, go
+Go, go, go, Speed, go
+Go, go, go, Speed
+Go, go, go, Speed
+
+Go, go, Speed, go
+Go, go, go, Speed, go
+Go, go, go, Speed
+Go, go, go, Speed
+
+Go, Speed, go
+
+Somewhere deep in the
+Hills of old bonnie Scotland
+
+It was exactly one year ago
+That Speed Racer and
+His Mach Five defeated us
+We swore that someday
+We would get our revenge
+That time is almost at hand
+
+To win, we'll stop at nothing
+Let's break that speed record
+Let's break that speed record
+Oh, Speed
+Let's break that speed record
+Let's break that speed record
+Look out
+
+L-L-L-Let's break that speed record
+L-L-L-Let's break that speed record
+
+Look out
+Oh, Speed, are you alright
+
+Uh huh, uh, ah, uh, ah...
+
+Oh, Trixie
+Oh, Speed, stop
+
+Uh huh, uh, ah, uh, ah...
+
+Oh, Speed
+Here he comes
+Here comes Speed Racer
+
+Uh huh, uh, ah, uh, ah...
+
+Trixie, oh, Speed
+Trxie, Speed...
+You were wonderful
+
+Here he comes
+Here comes Speed Racer
+He's a demon on wheels
+
+Go, Speed Racer
+Go, Speed Racer
+Go, Speed Racer, go

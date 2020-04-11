@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls--school-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-girls-school-lyrics
 name: Girls' School
 rankings:
 - end_date: '1977-11-25'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
 ---
+Three cheers for the girls
+Hip, hip! (Hoorah)
+Hip, hip! (Hoorah)
+Hip, hip!
 
+
+Sleepy head, kid sister
+Lying on the floor
+18 years and younger, boy
+Well, she knows what she's waiting for
+
+Yuki's a cool school mistress
+She's an Oriental princess
+She shows films in the classroom, boy
+They put the paper on the windows
+
+
+Ah, what can the sisters do?
+Ah, girls' school
+
+
+Head nurse is Sister Scala
+Now she's a Spanish doll
+She runs a full body out call massage parlour
+From the teacher's hail
+
+
+Ah, what can the sisters do?
+Ah, girls' school
+
+
+Well now, Roxanne's the woman trainer
+She puts the kids to bed (bed)
+She gives them pills in a paper cup
+And she knocks them on the head
+
+
+Ah, what can the sisters do?
+Ah, girls' school
+Ah, what can the sisters do?
+Ah, girls' school
+
+
+She shows films in the classroom, boy
+The put the paper on the windows
+Ah, what can the sisters do?
+Ah, girls' school

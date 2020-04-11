@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-know-why-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-i-dont-know-why-lyrics
 name: I Don't Know Why
 rankings:
 - end_date: '1975-06-20'
@@ -31,4 +32,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
 ---
+I don't know why I love you, babe
+I don't know why I love you
+I don't know why I love you, baby
+But I love you darling, yes I do
 
+
+You always treat me like a fool
+You kick me when I'm down, that's you're rule
+I don't know why I love you, baby
+But I love you
+
+
+When are you going to stop your cheating ways
+With another guy you laugh in my face
+Just how long must I be in this, disgraced
+Because I love you, baby
+
+
+I don't know, I don't know why, babe
+I don't know, I don't know why, baby
+I don't know why I love you, baby
+But I love you
+
+
+
+
+I don't know, I don't know why, babe
+I don't know, I don't know why, baby
+I don't know why I love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-spin-me-round--like-a-record--dead-or-alive
+lyrics_url: https://genius.com/Dead-or-alive-you-spin-me-round-vicious-mix-lyrics
 name: You Spin Me Round (Like A Record)
 rankings:
 - end_date: '1985-06-07'
@@ -79,4 +80,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+If I, I get to know your name
+Well, if I could trace your private number, baby
 
+All I know is that to me
+You look like you're lots of fun
+Open up your lovin' arms
+I want some, want some
+
+I set my sights on you
+(And no one else will do)
+And I, I've got to have my way now, baby
+
+All I know is that to me
+You look like you're havin' fun
+Open up your lovin' arms
+Watch out, here I come
+
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+
+I, I got to be your friend now, baby
+And I would like to move in just a little bit closer
+
+All I know is that to me
+You look like you're lots of fun
+Open up your lovin' arms
+Watch out, here I come
+
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+
+I want your love
+I want your love
+
+All I know is that to me
+You look like you're lots of fun
+Open up your lovin' arms
+Watch out, here I come
+
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+
+I want your love
+I want your love
+
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round
+You spin me right 'round, baby
+Right 'round like a record, baby
+Right 'round, 'round, 'round

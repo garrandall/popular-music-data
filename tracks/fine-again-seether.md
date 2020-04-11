@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fine-again-seether
+lyrics_url: https://genius.com/Seether-fine-again-lyrics
 name: Fine Again
 rankings:
 - end_date: '2003-01-03'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
 ---
+It seems like every day's the same
+And I'm left to discover on my own
+It seems like everything is gray
+And there's no color to behold
 
+
+They say it's over and I'm fine again, yeah
+Try to stay sober, feels like I'm dying here
+
+
+And I am aware now of how everything's gonna be fine
+One day, too late, I'm in Hell
+I am prepared now, seems everyone's gonna be fine
+One day, too late, just as well
+
+
+I feel the dream in me expire
+And there's no one left to blame it on
+I hear you label me a liar
+'Cause I can't seem to get this through
+
+
+You say it's over, I can sigh again, yeah
+Why try to stay sober when I'm dying here?
+
+
+And I am aware now of how everything's gonna be fine
+One day, too late, I'm in Hell
+I am prepared now, seems everyone's gonna be fine
+One day, too late, just as well
+
+
+And I'm not scared now
+I must assure you, you're never gonna get away
+And I'm not scared now
+And I'm not scared now, no
+
+
+And I am aware now of how everything's gonna be fine
+One day, too late, I'm in Hell
+I am prepared now, seems everyone's gonna be fine
+One day, too late, just as well
+
+
+I am prepared now, seems everything's gonna be fine
+For me, for me, for myself
+For me, for me, for myself
+For me, for me, for myself
+I am prepared now, for myself
+I am prepared now
+And I am fine again

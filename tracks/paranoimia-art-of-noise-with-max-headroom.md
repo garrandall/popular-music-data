@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paranoimia-art-of-noise-with-max-headroom
+lyrics_url: https://www.musixmatch.com/lyrics/The-Art-of-Noise-with-Max-Headroom/Paranoimia
 name: Paranoimia
 rankings:
 - end_date: '1986-08-22'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
 ---
+Lyrics to Paranoimia
+Relax
+You're quite safe here
 
+Am I dreaming, no
+Where am I, in bed
+Well, what am I doing
+Oh, t-t-t-t-talking to myself
+
+Look, I must have
+A star on my door
+Or better still
+A door-a doo-a door
+Ah, swing doors up
+O-o-o-okay doors, swing
+
+Paranoimia
+Swing
+Paranoimia
+Swing
+
+Now I know I'm dreaming
+Dreaming, dreaming
+Dreaming, dreaming, dreaming
+Hmmm, how do I get to sleeep
+I know, I'll count
+Those bars on the window
+One, two, three, sleep
+
+Paranoimia, paranoimia
+
+Paranoimia, paranoimia...
+
+How do I get
+How do I get to sleep
+Please let me sleep
+Po-po-poetry, that'll work
+
+Come sweet slumber
+Enshroud me in thy purple cloak
+Hmmm, doesn't even rhyme
+
+Is that my teas made
+Paranoimia paranoi
+
+I cant stand tea
+Tea, tea, tea, tea...
+
+Paranoimia, paranoimia...
+
+Ahhh, Happy Harry's High Club
+How do I, how am I
+Gonna get to sleep
+
+Trust me, trust me...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-re-in-love-with-a-beautiful-woman-dr--hook
+lyrics_url: https://www.musixmatch.com/lyrics/Dr-Hook/When-You-re-In-Love-With-A-Beautiful-Woman
 name: When You're In Love With A Beautiful Woman
 rankings:
 - end_date: '1979-04-20'
@@ -107,4 +108,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
 ---
+When you're in love with a beautiful woman, it's hard
+When you're in love with a beautiful woman, you know it's hard
+Everybody wants her, everybody loves her
+Everybody wants to take your baby home
+When you're in love with a beautiful woman, you watch your friends
 
+When you're in love with a beautiful woman, it never ends
+You know that it's crazy, you wanna trust her
+Then somebody hangs up when you answer the phone
+When you're in love with a beautiful woman, you go it alone
+Maybe it's just an ego problem
+Problem is that I've been fooled before
+
+By fair-weather friends and faint hearted lovers
+And every time it happens it just convinces me more
+When you're in love with a beautiful woman, you watch her eyes
+When you're in love with a beautiful woman, you look for lies
+
+Everybody tempts her, everybody tells her
+She's the most beautiful woman they know
+When you're in love with a beautiful woman, you go it alone
+When you're in love with a beautiful woman, you watch your friends
+When you're in love with a beautiful woman, it never ends
+When you're in love with a beautiful woman, you watch her eyes

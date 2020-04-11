@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-ur-freak-on-missy--misdemeanor--elliott
+lyrics_url: https://www.musixmatch.com/lyrics/Missy-Misdemeanor-Elliott-2/Get-Ur-Freak-On-Edit
 name: Get Ur Freak On
 rankings:
 - end_date: '2001-03-30'
@@ -107,4 +108,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
 ---
-
+Hit me, hit me
+Gimme some new shit
+Gimme some new shit
+Gimme some new shit
+Gimme some new shit
+Missy be puttin it down
+Im the hottest round
+Ill told yall mutha (skurt)
+Yall can stop me now
+Listen to me now
+Im lastin twenty rounds
+And if you want me (nigga)
+Then come and get me now (bounce)
+Is you with me now (bounce)
+The biggie biggie bounce (bounce)
+I kno you dig the way i sw.sw... switched ma style
+(Holla) People sing around
+Now people gather round
+Now people jump around
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcha Getcha Getcha Getcha Getcha freak on
+(Who's that bitch?)
+People you know
+Me and Timbaland been hot since twenty years ago
+What da dilly yo
+Now what da drilly yo
+If you wanna battle me then (nigga) lemme know
+(Holla) Got the feeling son
+Lemme throw you some
+People here I come
+Now sweat me when im done
+We got the radio slike we got a gun
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcha Getcha Getcha Getcha Getcha freak on
+Quiet!!!
+Shh, hush yo mouth
+Silence when I, spit it out
+In yo face
+Open yo mouth, Give you a taste
+(Holla) Aint no stoppin me
+Copywritten so, dont copy me
+Yall do it, sloppily
+And yall cant come, close to me (yes)
+I know you feel me now (yes)
+I know you hear me loud (yes)
+I scream it loud and proud (yes)
+Missy gon blow it down (yes)
+People gon play me now (yes)
+In and outa town (yes)
+Cuz im the best around (yes)
+With the crazy style (go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcho freak on.(go)
+Getcha Getcha Getcha Getcha Getcha freak on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderland-by-night-anita-bryant
+lyrics_url: https://genius.com/Anita-bryant-wonderland-by-night-lyrics
 name: Wonderland By Night
 rankings:
 - end_date: '1960-12-11'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
 ---
+Stars hung suspended
+Above a floating yellow moon
+Two hearts were blended
+While angels sang a lover's tune
 
+And so we kissed
+Not knowing if our hearts could pay the price
+But heaven welcomed us to paradise
+Blessing our love
+
+Then came the sunrise
+Fading the moon
+And stars from sight
+Recalling always
+Our wonderland by night
+
+The world became a picture
+Framed by a jeweled sky
+The night that love decided
+To unite you and I
+
+And when our lips completed
+That first kiss we kissed
+We knew that this would
+That both our lives had missed
+
+Then with the dawning
+As we beheld that thrilling sight
+Without a warning
+Our wonderland by night

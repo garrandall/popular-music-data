@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-lucky-old-sun-ray-charles
+lyrics_url: https://genius.com/Ray-charles-that-lucky-old-sun-lyrics
 name: That Lucky Old Sun
 rankings:
 - end_date: '1963-12-13'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
+Up in the morning, out on the job
+And I work like the devil for my pay
 
+
+I know that a lucky old sun has nothing to do
+But roll around heaven all day
+
+
+I fuss with my woman and I toil with my kids
+I sweat till I'm wrinkled and gray
+
+
+
+
+Dear Lord above, don't you see I'm pining
+I got tears all in my eyes
+Why don't You send down that cloud
+With a silver lining, lift me up to paradise
+(Lift me up to paradise)
+
+
+Show me that river, why don't You take me across
+And wash all my troubles away

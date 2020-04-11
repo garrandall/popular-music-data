@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-says-john-mayer
+lyrics_url: https://genius.com/John-mayer-who-says-lyrics
 name: Who Says
 rankings:
 - end_date: '2009-11-06'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
 ---
+Who says I can’t get stoned?
+Turn off the lights and the telephone
+Me, in my house alone
+Who says I can’t get stoned?
 
+Who says I can’t be free?
+From all of the things that I used to be
+Re-write my history
+Who says I can’t be free?
+
+
+It’s been a long night in New York City
+It’s been a long night in Baton Rouge
+I don’t remember you looking any better
+But then again, I don’t remember you
+
+
+Who says I can’t get stoned?
+Call up a girl that I used to know
+Fake love for an hour or so
+Who says I can’t get stoned?
+
+Who says I can’t take time?
+Meet all the girls on the county line
+Wait on fate to send a sign
+Who says I can’t take time?
+
+
+It’s been a long night in New York City
+It’s been a long night in Austin too
+I don’t remember you looking any better
+But then again, I don’t remember you
+
+
+
+Who says I can’t get stoned?
+Plan a trip to Japan alone
+Doesn’t matter if I even go
+Who says I can’t get stoned?
+
+
+It’s been a long night in New York City
+It’s been a long time since 22
+I don’t remember you looking any better
+But then again I don’t remember, don't remember you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-saving-my-love-skeeter-davis
+lyrics_url: https://genius.com/Skeeter-davis-im-saving-my-love-lyrics
 name: I'm Saving My Love
 rankings:
 - end_date: '1963-05-17'
@@ -35,4 +36,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
+I'm saving my love for someone who loves me
+For someone who loves me the way I loved you
+I'm saving my lips for someone to kiss me
+For someone to kiss me the way I kissed you
 
+Time after time I've waited for your caress
+Time after time I've waited in loneliness
+I'm saving my dreams for someone to dream of
+For someone to dream of like I dreamed of you
+
+Time after time I've waited for your caress
+Time after time I've waited in loneliness
+I'm saving my love for someone who loves me
+For someone who loves me the way I loved you...

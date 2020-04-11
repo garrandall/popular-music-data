@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-run-run-jo-jo-gunne
+lyrics_url: https://genius.com/Jo-jo-gunne-run-run-run-lyrics
 name: Run Run Run
 rankings:
 - end_date: '1972-03-24'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
 ---
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
 
+You better ride home babe
+He was born outside of the law
+Run...run...
+
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
+
+Oh, load up your momma
+We're right on out to the line
+Run...run...
+
+Run...run...
+
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
+Ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+Run, run, run
+
+Aw, welcome to the party
+We're all just papers in the wind
+Run...run...

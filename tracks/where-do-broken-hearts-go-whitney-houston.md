@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-do-broken-hearts-go-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-where-do-broken-hearts-go-lyrics
 name: Where Do Broken Hearts Go
 rankings:
 - end_date: '1988-03-04'
@@ -79,4 +80,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
 ---
+I know it's been some time
+But there's something on my mind
+You see
+I haven't been the same
+Since that cold November day
+We said we needed space
+But all we found was an empty place
+And the only thing
+I learned
+Is that I need you desperately
 
+
+So here I am
+And can you please tell me
+
+
+Where do broken hearts go?
+Can they find their way home
+Back to the open arms
+Of a love that's waiting there?
+And if somebody loves you
+Won't they always love you?
+I look in your eyes
+And I know that you still care, for me
+Ooh baby
+
+
+I've been around enough to know
+That dreams don't turn to gold
+And that there is no easy way
+No, you just can't run away
+And what we have is so much more
+Than we ever had before
+And no matter how I try
+You're always on my mind
+
+
+So here I am
+And can you please tell me
+
+
+Where do broken hearts go?
+Can they find their way home
+Back to the open arms
+Of a love that's waiting there?
+And if somebody loves you
+Won't they always love you?
+I look in your eyes
+And I know that you still care, for me
+
+
+And now that I am here with you
+I'll never let you go
+I look into your eyes
+And now I know, now I know
+
+
+Where do broken hearts go?
+Can they find their way home
+Back to the open arms
+Of a love that's waiting there?
+And if somebody loves you
+Won't they always love you?
+I look in your eyes
+And I know that you still care, for me

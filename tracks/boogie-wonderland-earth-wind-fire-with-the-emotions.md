@@ -1,11 +1,11 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire with The Emotions
-features: []
+- Earth, Wind & Fire
+features:
+- The Emotions
 genres: []
 key: boogie-wonderland-earth-wind-fire-with-the-emotions
+lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-with-the-The-Emotions/Boogie-Wonderland
 name: Boogie Wonderland
 rankings:
 - end_date: '1979-05-18'
@@ -73,4 +73,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
 ---
+Dance, Boogie Wonderland, hey, hey
+Dance, Boogie Wonderland
 
+Midnight creeps so slowly into hearts of men
+Who need more than they get
+Daylight deals a bad hand to a woman
+Who has laid too many bets
+
+The mirror stares you in the face and says
+"Baby, uh, uh, it don't work"
+You say your prayers though you don't care
+You dance and shake the hurt
+
+Dance, Boogie Wonderland, hey, hey
+Dance, Boogie Wonderland
+
+Sound fly through the night
+I chase my vinyl dreams to Boogie Wonderland
+I find romance when I start to dance in Boogie Wonderland
+I find romance when I start to dance in Boogie Wonderland
+
+All the love in the world can't be gone
+All the need to be loved can't be wrong
+All the records are playing and my heart keeps saying
+"Boogie Wonderland, Wonderland"
+
+Dance, Boogie Wonderland, hey, hey
+Dance, Boogie Wonderland, hey, hey
+
+I find romance when I start to dance in Boogie Wonderland
+I find romance when I start to dance in Boogie Wonderland
+Dance, dance, dance, dance
+Dance, dance, dance, dance
+
+Wonderland, Wonderland
+
+All the love in the world can't be gone
+All the need to be loved can't be wrong
+All the records are playing and my heart keeps saying
+Boogie Wonderland, Wonderland
+
+Dance, Boogie Wonderland, hey, hey
+Dance, Boogie Wonderland, hey, hey
+
+I find romance when I start to dance in Boogie Wonderland
+I find romance when I start to dance in Boogie Wonderland
+Dance, dance, dance, dance
+Dance, dance, dance, dance

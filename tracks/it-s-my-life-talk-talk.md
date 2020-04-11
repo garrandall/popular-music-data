@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-my-life-talk-talk
+lyrics_url: https://genius.com/Talk-talk-its-my-life-lyrics
 name: It's My Life
 rankings:
 - end_date: '1984-03-30'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
 ---
+Funny how I find myself in love with you
+If I could buy my reasoning I'd pay to lose
+One half won't do
 
+
+I've asked myself, how much do you
+Commit yourself
+It's my life, don't you forget
+It's my life, it never ends (It never ends)
+
+
+Funny how I blind myself, I never knew
+If I was sometimes played upon, afraid to lose
+
+
+I'd tell myself, what good you do
+Convince myself
+It's my life, don't you forget
+It's my life, it never ends (It never ends)
+
+
+
+
+I've asked myself, how much do you
+Commit yourself?
+It's my life, don't you forget
+Caught in the crowd, it never ends
+It's my life, don't you forget
+Caught in the crowd, it never ends
+It's my life, don't you forget
+Caught in the crowd, it never ends

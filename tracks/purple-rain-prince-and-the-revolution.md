@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: purple-rain-prince-and-the-revolution
+lyrics_url: https://www.musixmatch.com/lyrics/Prince-and-The-Revolution-2/Purple-Rain
 name: Purple Rain
 rankings:
 - end_date: '1984-10-12'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
 ---
+I never meant to cause you any sorrow
+I never meant to cause you any pain
+I only wanted one time to see you laughing
+I only want to see you laughing in the purple rain
 
+Purple rain Purple rain
+Purple rain Purple rain
+Purple rain Purple rain
+
+I only want to see you bathing in the purple rain
+
+I never wanted to be your weekend lover
+I only wanted to be some kind of friend
+Baby I could never steal you from another
+It's such a shame our friendship had to end
+
+Purple rain Purple rain
+Purple rain Purple rain
+Purple rain Purple rain
+
+I only want to see you underneath the purple rain
+
+Honey I know, I know, I know times are changing
+It's time we all reach out for something new
+That means you too
+You say you want a leader
+But you can't seem to make up your mind
+I think you better close it
+And let me guide you to the purple rain
+
+Purple rain Purple rain
+Purple rain Purple rain
+
+If you know what I'm singing about up here
+C'mon raise your hand
+
+Purple rain Purple rain
+
+I only want to see you, only want to see you
+In the purple rain

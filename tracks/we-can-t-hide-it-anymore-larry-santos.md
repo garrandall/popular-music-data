@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-can-t-hide-it-anymore-larry-santos
+lyrics_url: https://genius.com/Larry-santos-we-cant-hide-it-anymore-lyrics
 name: We Can't Hide It Anymore
 rankings:
 - end_date: '1976-02-20'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
 ---
+Yesterday when he came here
+Willie's eyes swept the floor
+And he looked so brought down
+And he asked if I'd seen you around
+I said no and I showed him to the door
+But he knows the score, he knows it
 
+Chorus:
+And we can't hide it anymore
+We can't hide it anymore
+We can't hide
+We can't hide it anymore
+We can't hide, no, no, no, no, no
+
+And in the morning you're beside me
+And we smile as lovers do
+But his whole world is breaking up
+And all your time I'm taking up
+And I've been spending every night with you
+And he knows it too, he knows it
+
+Repeat Chorus
+
+Last night you called me on the telephone
+Said you felt like you were being torn apart
+I know it's not easy, babe
+But we knew that from the start
+Now we're in love and it's bound to break his heart
+Bound to break his heart
+
+So what do we tell him
+What do we say
+Now you're the one he loves and trusts
+And you've turned his dreams right into dust
+Like the wind we've blown them all away
+And he knows today, he knows it
+
+Repeat Chorus and fade

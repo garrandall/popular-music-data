@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreaming-blondie
+lyrics_url: https://genius.com/Blondie-dreaming-lyrics
 name: Dreaming
 rankings:
 - end_date: '1979-10-05'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-29'
 ---
+When I met you in the restaurant
+You could tell I was no debutante
+You asked me what's my pleasure
+A movie or a measure?
+I'll have a cup of tea and tell you of my
 
+
+Dreaming, dreaming is free
+Dreaming, dreaming is free
+
+
+I don't want to live on charity
+Pleasure's real or is it fantasy?
+Reel to reel is living rarity
+People stop and stare at me
+We just walk on by - we just keep on dreaming
+
+
+Feet feet, walking a two mile
+Meet meet, meet me at the turnstile
+I never met him, I'll never forget him
+Dream, dream, even for a little while
+Dream, dream, filling up an idle hour
+Fade away, radiate
+
+
+I sit by and watch the river flow
+I sit by and watch the traffic go
+Imagine something of your very own
+Something you can have and hold
+I'd build a road in gold just to have some
+
+
+Dreaming, dreaming is free
+Dreaming, dreaming is free
+Dreaming, dreaming is free
+Dreaming, dreaming is free

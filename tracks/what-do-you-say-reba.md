@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-do-you-say-reba
+lyrics_url: https://genius.com/Reba-mcentire-what-do-you-say-lyrics
 name: What Do You Say
 rankings:
 - end_date: '1999-11-05'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
 ---
+Stuck at a red light outside an adult bookstore
+His son said, "Daddy, what are all those X's for?"
+As the light turned green he changed the subject fast
+Started talking about football as they drove right past
 
+
+So what do you say in a moment like this
+When you can't find the words to tell it like it is
+Just bite your tongue and let your heart lead the way
+Let's get out of here
+Oh, what do you say?
+
+
+Seventeen years old
+She was out with her friends
+They started drinking at some party
+Until she was three sheets to the wind
+Her momma always told her she could call no matter what
+She was crying on the front steps
+When her mom showed up
+
+
+
+
+Sometimes you got to listen to the silence
+And give yourself a little time to think
+Her every breath is weaker than the last
+And lately when she sleeps she talks about the past
+Her husband knows she's tired of holding on
+She looks at him and says, "I want to go home!"
+
+
+
+
+Just close your eyes and let your heart lead the way
+Oh, what do you say?
+Oh, what do you say?

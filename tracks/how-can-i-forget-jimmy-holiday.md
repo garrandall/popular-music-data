@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-i-forget-jimmy-holiday
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Holiday/How-Can-I-Forget
 name: How Can I Forget
 rankings:
 - end_date: '1963-03-22'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
 ---
+I want to know know know
+(How can I forget)
+I got to know know know
+(How can I forget)
+How can I forget?
 
+When I was lonely
+She'd shake away the blues
+When I was down and out
+She even bought me shoes
+
+So tell me tell me tell me
+(How can I forget)
+How how how?
+(How can I forget)
+How can I forget?
+(Forget her)
+
+Yesterday she left me
+For somebody new
+My friends all say, "Forget her
+Go out and do the same thing too"
+
+How?
+When her kiss
+My lips
+And my cheek
+Fingertips
+Since she been gone
+I can't sleep at night
+And since she been gone
+Can't see the light
+
+Oh tell me tell me tell me
+(How can I forget)
+How? how? how?
+(How can I forget)
+How can I forget?
+(How can I forget)
+
+Oh! oh! how!
+(How can I forget)
+How can I forget?
+(How can I forget)
+How can I forget?
+(How can I forget)
+
+Oh! oh oh!
+
+How?
+(How can I forget)

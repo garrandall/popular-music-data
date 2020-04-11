@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-home-should-have-one-patti-austin
+lyrics_url: https://www.musixmatch.com/lyrics/Patti-Austin/Every-Home-Should-Have-One
 name: Every Home Should Have One
 rankings:
 - end_date: '1981-12-18'
@@ -67,4 +68,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
 ---
+You're a young man, a sweet guy
+Handsome, kinda shy
+You got a nice car, a steady job
+Money, you got plenty of
 
+What can I give a man with everything
+Just one thing you need
+
+(CHORUS)
+You need one loving woman
+Every home should have one
+Two hearts filled with passion
+Make your house a happy home
+You'll never be alone
+When you've got one loving woman
+Every home should have one
+
+I'm a woman longing
+For loving, belonging
+Got ideas, plenty of them
+I can help you with your problems
+
+Don't you know that I'm
+Gonna give to you my everything
+Everything you need
+
+(CHORUS)
+
+Don't you know that I'm
+Gonna give to you my everything
+Everything you need
+Everything you need
+
+You need one loving woman
+Every home should have one
+Two hearts filled with passion
+Make your house a happy home
+You'll never be alone
+
+When you've got one loving woman
+Every home should have one
+Two hearts filled with passion
+Make your house a happy home
+Oh, you'll never be alone
+
+When you've got one loving woman
+Every home should have one
+Two hearts filled with passion
+Make your house a happy home
+You'll never be alone

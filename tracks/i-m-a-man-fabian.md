@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-man-fabian
+lyrics_url: https://genius.com/Fabian-im-a-man-lyrics
 name: I'm A Man
 rankings:
 - end_date: '1959-01-18'
@@ -47,4 +48,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
 ---
-
+Now when I was a little boy
+At the age of five
+I had somethin' in my pocket
+Keep a lot o' folks alive
+Now I'm a man, Made twenty-one
+You know, baby
+We can have a lot o' fun
+I'm a man
+I spell M. A. N. man
+Ah, ah, ah, ah
+All you pretty women
+Stand in line
+I can make love to you, baby
+In an hour's time
+I'm a man
+Spelled M. A. N. Man

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-need-to-calm-down-taylor-swift
+lyrics_url: https://genius.com/Taylor-swift-you-need-to-calm-down-lyrics
 name: You Need To Calm Down
 rankings:
 - end_date: '2019-07-05'
@@ -91,4 +92,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
 ---
+You are somebody that I don't know
+But you're takin' shots at me like it's Patrón
+And I'm just like, damn, it's 7 AM
+Say it in the street, that's a knock-out
+But you say it in a Tweet, that's a cop-out
+And I'm just like, "Hey, are you okay?"
 
+
+And I ain't tryna mess with your self-expression
+But I've learned a lesson that stressin' and obsessin' 'bout somebody else is no fun
+And snakes and stones never broke my bones
+
+
+So oh-oh, oh-oh, oh-oh, oh-oh, oh-oh
+You need to calm down, you're being too loud
+And I'm just like oh-oh, oh-oh, oh-oh, oh-oh, oh-oh (Oh)
+You need to just stop, like can you just not step on my gown?
+You need to calm down
+
+
+You are somebody that we don't know
+But you're comin' at my friends like a missile
+Why are you mad when you could be GLAAD? (You could be GLAAD)
+Sunshine on the street at the parade
+But you would rather be in the dark ages
+Makin' that sign must've taken all night
+
+
+You just need to take several seats and then try to restore the peace
+And control your urges to scream about all the people you hate
+'Cause shade never made anybody less gay
+
+
+So oh-oh, oh-oh, oh-oh, oh-oh, oh-oh
+You need to calm down, you're being too loud
+And I'm just like oh-oh, oh-oh, oh-oh, oh-oh, oh-oh (Oh)
+You need to just stop, like can you just not step on his gown?
+You need to calm down
+
+
+And we see you over there on the internet
+Comparing all the girls who are killing it
+But we figured you out
+We all know now we all got crowns
+You need to calm down
+
+
+Oh-oh, oh-oh, oh-oh, oh-oh, oh-oh
+You need to calm down (You need to calm down)
+You're being too loud (You're being too loud)
+And I'm just like oh-oh, oh-oh, oh-oh, oh-oh, oh-oh (Oh)
+You need to just stop (Can you stop?)
+Like can you just not step on our gowns?
+You need to calm down

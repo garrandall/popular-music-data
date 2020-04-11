@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shooting-star-dollar
+lyrics_url: https://genius.com/Dollar-usa-shooting-star-lyrics
 name: Shooting Star
 rankings:
 - end_date: '1979-12-28'
@@ -31,4 +32,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
 ---
+Tonight of nights you should be far away
+A million miles from where you are
+You'll hear the rhythm as it sounds across the sky
+Above your heads a shooting star
 
+And they'll be dancing in the moonlight
+Dancing in the strange light
+Voices from the bright lights
+I wonder who they are
+Don't worry 'cause it's only a shooting star
+
+They move in closer with their gleaming eyes
+Arrested chariots of fire
+Don't make a move for they begin to speak
+I do believe they wear a smile
+
+And they'll be dancing in the moonlight
+Dancing in the strange light
+Voices far and friendly
+They know just who you are
+Don't worry 'cause it's only a shooting star
+
+In the moonlight

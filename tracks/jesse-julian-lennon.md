@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jesse-julian-lennon
+lyrics_url: https://genius.com/Julian-lennon-jesse-lyrics
 name: Jesse
 rankings:
 - end_date: '1985-08-09'
@@ -31,4 +32,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
 ---
+Jesse's in a new low rider outside Frank's Drive-in
+He's there with Juanita and the gang, but nodding out again
+Jesse you're a fool to yourself
+'Cause you won't stop
+You can't take it with you
+Jesse you're losing yourself
 
+
+Ooh don't be a fool again
+There may not be a next time
+Ooh, don't be a fool again, Jesse
+
+
+Jesse, there's a whole world out there
+That you can't ignore
+But nickel bags and chrome-lined cars
+Is that all that you want
+Jesse, you can't get their respect if you don't stop
+You don't even want to
+Jesse, you're losing yourself

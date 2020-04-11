@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roll-on-the-new-colony-six
+lyrics_url: https://www.musixmatch.com/lyrics/The-New-Colony-Six/Roll-On
 name: Roll On
 rankings:
 - end_date: '1971-08-27'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
 ---
-
+Roll on roll on
+We got so much going on
+Summer means that we can walk through flowers
+Or we can lay in the sun for hours
+Nothing never really brings me down love
+As long as you are here with me
+I can't help myself
+Roll on little girl
+Roll ons in my mind in my heart and I find
+The time we can stop
+And let it all take hold
+And let it, let it grow
+Roll on roll on
+We got so much going on
+Roll on roll on
+We got so much going on
+Love to watch you walk at night through white sands
+Love the touch of your hand in my hand
+Nothing ever really brings me down love
+As long as you are here with me
+I can't help myself
+Roll on little girl
+Roll ons in my mind in my heart and I find
+The time we can stop
+And let it all take hold
+And let it, let it grow
+Roll on roll on
+We got so much going on
+On your face, when I brought you that coffee
+The warmth of your smile makes me love you more, yeah
+Roll on roll on
+We got so much going on

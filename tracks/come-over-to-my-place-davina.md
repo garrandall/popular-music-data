@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-over-to-my-place-davina
+lyrics_url: https://www.musixmatch.com/lyrics/Davina/Come-Over-to-My-Place
 name: Come Over To My Place
 rankings:
 - end_date: '1998-04-24'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
 ---
+Heyyyy... hu hu. hou... hou...
+Baby...
+I would like to know you better ...hu
+Come on...
+Tell me when can we get together... ho
+To be all alone... hoooo
 
+Refrain: Come over to my place
+Relax and chill
+Do what you feel (do what you feel baby)
+Come over to my place
+Have no fear
+What you want is right here
+
+Huhhh yeah yeahhhh
+The mood is set for us tonight,
+Feels so right
+Baby, your every wish is my command
+Huuu My love is ready so come on, ohhh yeah
+
+Refrain X 2
+
+Right here, right here
+I'm waiting hmm
+For you humm
+Baby hmm
+Sweet babe
+Waiting
+Come on
+Lover ooooh ooohhh
+
+Refrain x 2

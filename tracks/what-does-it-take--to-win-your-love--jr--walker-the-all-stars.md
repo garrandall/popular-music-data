@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: what-does-it-take--to-win-your-love--jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-what-does-it-take-to-win-your-love-lyrics
 name: What Does It Take (To Win Your Love)
 rankings:
 - end_date: '1969-05-23'
@@ -72,4 +73,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
 ---
+What does it take
+(What does it take)
+To win your love for me?
+(To win your love for me)
+How can I make
+(How can I make)
+This dream come true for me?
+(Had a dream for you)
+Whoa, I just got to know
+(Have to know)
+Ooo, baby 'cause I love you so
 
+
+'Gonna blow for you'
+
+
+
+
+I tried, I tried, I tried, I tried
+In every way I could
+(Anyway I could)
+To make you see how much I love you
+(See how much I love you)
+Woo!
+I thought you understood
+(Thought you understood)
+So, you gotta make me see
+(Make me see)
+What does it take
+To win your love for me?
+
+
+'Gonna blow, again for you'

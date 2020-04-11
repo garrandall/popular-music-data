@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ebb-tide-lenny-welch
+lyrics_url: https://www.musixmatch.com/lyrics/Lenny-Welch/Ebb-Tide
 name: Ebb Tide
 rankings:
 - end_date: '1964-03-27'
@@ -43,4 +44,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
+First the tide rushes in, plants a kiss on the shore
+Then rolls out to sea and the sea is very still once more
+So I rush to your side like the oncoming tide
+With one burning thought, will your arms open wide?
+At last face to face, and as we kiss through an embrace
+I can tell, I can feel you are love, you are real
+Really mine in the rain, in the dark, in the sun
+Like the tide at its ebb I'm at peace in the web of your arms
 
+First the tide rushes in, plants a kiss on the shore
+Then rolls out to sea and the sea is very still once more
+So I rush to your side like the oncoming tide
+With one burning thought, will your arms open wide?
+At last face to face, and as we kiss through an embrace
+I can tell, I can feel you are love, you are real
+Really mine in the rain, in the dark, in the sun
+Like the tide at its ebb I'm at peace in the web of your arms

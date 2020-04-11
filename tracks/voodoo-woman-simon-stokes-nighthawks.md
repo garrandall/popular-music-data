@@ -1,6 +1,6 @@
 ---
 artists:
-- Simon Stokes/Nighthawks
+- Simon Stokes & The Nighthawks
 features: []
 genres: []
 key: voodoo-woman-simon-stokes-nighthawks

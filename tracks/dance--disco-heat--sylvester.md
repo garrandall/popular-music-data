@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance--disco-heat--sylvester
+lyrics_url: https://genius.com/Sylvester-staline-disco-vietnam-born-to-dance-lyrics
 name: Dance (Disco Heat)
 rankings:
 - end_date: '1978-08-25'
@@ -79,4 +80,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
 ---
-
+Sir, Yes sir
+Vietcongs are funky
+Communism is the groove
+Asiatic whores at war
+Ready to do the dance
+From Saigon to Hue, gotta bounce
+Disco Vietnam, born to dance

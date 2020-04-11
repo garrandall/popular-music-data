@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: did-you-boogie--with-your-baby--flash-cadillac-and-the-continental-kids
+lyrics_url: https://genius.com/Flash-cadillac-and-the-continental-kids-did-you-boogie-lyrics
 name: Did You Boogie (With Your Baby)
 rankings:
 - end_date: '1976-09-03'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+(Wolfman)
+Ahhh, do you remember the first time you started to date
+And the places you had to go just to be alone with your number one?
+Well, I hope this song brings back a whole lot of beautiful memories
+For you
 
+(Flash)
+Did you boogie with your baby in the back row of the movie show
+And did you boogie there cause you had nowhere else that you could go
+And when the lights went way down low
+Did you forget about the picture show
+Yes, did you boogie with your baby in the back row of the movie show
+
+Hey, little girl was it so long ago
+We'd take a walk just to be alone
+And hey little girl if it should rain or snow
+Remember where we would go
+
+Did you boogie with your baby in the back row of the movie show
+And did you boogie there cause you had nowhere else that you could go
+And when the lights went way down low
+Did you forget about the picture show
+Yes, did you boogie with your baby in the back row of the movie show
+
+(Wolfman)
+Sometimes I get to thinkin' there's not enough love and
+Romance left in our lives today. And that's why I'd like to
+Reminisce and to relive that first feeling of love and do it all over
+Again
+
+(Flash)
+Hey little girl why not come over here
+And set beside me and make believe
+And say, little girl, why not stay over here
+We'll have a party for two
+
+Did you boogie with your baby in the back row of the movie show
+And did you boogie there cause you had nowhere else that you could go
+And when the lights went way down low
+Did you forget about the picture show
+Yes, did you boogie with your baby in the back row of the movie show

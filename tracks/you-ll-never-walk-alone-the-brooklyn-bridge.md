@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ll-never-walk-alone-the-brooklyn-bridge
+lyrics_url: https://www.musixmatch.com/lyrics/The-Brooklyn-Bridge/You-ll-Never-Walk-Alone
 name: You'll Never Walk Alone
 rankings:
 - end_date: '1969-10-10'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
+When you walk through a storm
+Hold your head up high
+And don't be afraid
+Of the dark
 
+At the end of a storm
+Is a golden sky
+And the sweet silver
+Song of a lark
+
+Walk on through the wind
+Walk on through the rain
+Though your dreams be
+Tossed and blown
+
+Walk on, walk on
+With hope in your heart
+And you'll never walk alone
+You'll never, ever walk alone
+
+Walk on, walk on
+With hope in your heart
+And you'll never walk alone
+You'll never, ever walk alone

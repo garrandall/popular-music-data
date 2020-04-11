@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nathan-jones-the-supremes
+lyrics_url: https://genius.com/The-supremes-nathan-jones-lyrics
 name: Nathan Jones
 rankings:
 - end_date: '1971-05-14'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
 ---
+You packed your bags, as I recall
+And you walked slowly down the hall
+You said you had to get away to ease your mind
+And all you needed was a just little of time
 
+
+Oh, winter's passed, spring and fall
+You never wrote me, you never called
+(Yeah) Nathan Jones, you've been gone too long
+Gone too long (Gone too long)
+
+
+If a woman could die of tears
+Nathan Jones, I wouldn't be here
+The key that you're holding won't fit my door
+And there's no room in my heart for you no more
+
+
+'Cause winter's passed, spring and fall
+You never wrote me, you never called
+(Oh-oh) Nathan Jones, you've been gone too long
+Gone too long
+
+
+Do-do-do
+
+Nathan Jones
+Nathan Jones
+Mm-hmm
+Nathan Jones, oh
+
+
+Winter's passed, spring and fall
+You never wrote me, you never called
+(Oh-oh) Nathan Jones, you've been gone too long
+Mm-mm-mm, Gone too long (Gone too long)
+Nathan Jones, you've been gone too long (Gone too long)
+You've been gone too long (Gone too long)
+Hey, Nathan Jones, you've been gone too long (Gone too long)
+Hey, you know, you've been gone (Gone too long)
+Nathan Jones, you've been gonne too long (Gone too long)

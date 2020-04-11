@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -just-like--romeo---juliet-the-reflections
+lyrics_url: https://www.musixmatch.com/lyrics/The-Reflections/Just-Like-Romeo-Juliet
 name: (Just Like) Romeo & Juliet
 rankings:
 - end_date: '1964-04-17'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+(Ooh, ooh, oop)
 
+Findin' a job tomorrow mornin'
+Got a little somethin' I wanna do
+Gonna buy somethin' I could ride in
+(Gonna buy)
+
+A-take my girl datin' at the drive-in
+(Take my girl)
+Our love's gonna be written down in history
+A-just like Romeo and Juliet
+
+I'm gonna buy her pretty presents
+Just like the ones in a catalog
+Gonna show how much I love
+(Gonna show)
+
+Let her know one way or the other
+(Let her know)
+Our love's gonna be written down in history
+A-just like Romeo and Juliet
+
+(Ooh, ooh, oop)
+(Doo, doot, doot, doot)
+(Doot, doot, doot, doo-doop)

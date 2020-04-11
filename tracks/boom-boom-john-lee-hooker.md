@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boom-boom-john-lee-hooker
+lyrics_url: https://genius.com/John-lee-hooker-boom-boom-lyrics
 name: Boom Boom
 rankings:
 - end_date: '1962-06-01'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
 ---
+Boom, boom, boom, boom
+I'm gonna shoot you right down
+Right off your feet
+Take you home with me
+Put you in my house
+Boom, boom, boom, boom
+Mmmm hmmm
+Mm hm hm hm
 
+
+I love to see you walk
+Up and down the floor
+When you talking to me
+That baby talk
+I like it like that
+You talk like that
+You knock me dead
+Right off my feet
+A haw haw haw haw
+Whoa!
+
+
+
+
+Once you walk that walk
+And talk that talk
+And whisper in my ear
+Tell me that you love me
+I love that talk
+That baby talk
+You knock me dead
+Right off my feet
+A haw haw haw haw
+Yeah, yeah!

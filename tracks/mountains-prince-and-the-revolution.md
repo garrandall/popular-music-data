@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mountains-prince-and-the-revolution
+lyrics_url: https://genius.com/Prince-and-the-revolution-mountains-lyrics
 name: Mountains
 rankings:
 - end_date: '1986-05-30'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
 ---
+Once upon a time in a land called Fantasy
+17 mountains stood so high
+The sea surrounded them and together they would be
+The only thing that ever made you cry
+You said the devil told you that another mountain would appear
+Every time somebody broke your heart
+He said the sea would one day overflow with all your tears
+And love will always leave you lonely
 
+
+But I say it's only mountains and the sea
+Love will conquer if you just believe (oh yeah)
+It's only mountains and the sea
+There's nothing greater, you and me
+
+
+Once upon a time in a haystack of despair
+Happiness sometimes hard to find (yeah)
+Africa divided, hijack in the air
+It's enough to make you want to lose your mind
+
+
+But I say it's only mountains and the sea
+Love will conquer if you just believe (oh yeah)
+It's only mountains and the sea
+There's nothing greater, you and me
+But I say it's only mountains and the sea
+Love will conquer if you just believe (oh yeah)
+It's only mountains and the sea
+There's nothing greater, you and me
+
+
+
+Mountains

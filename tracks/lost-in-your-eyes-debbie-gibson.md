@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lost-in-your-eyes-debbie-gibson
+lyrics_url: https://genius.com/Debbie-gibson-lost-in-your-eyes-lyrics
 name: Lost In Your Eyes
 rankings:
 - end_date: '1989-01-27'
@@ -83,4 +84,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+I get lost in your eyes
+And I feel my spirits rise
+And soar like the wind
+Is it love that I am in?
 
+I get weak in a glance
+Isn't this what's called romance?
+And now I know
+'Cause when I'm lost
+I can let go
+
+
+I don't mind not knowing
+What I'm heading for
+You can take me to the skies
+It's like being lost in heaven
+When I'm lost in your eyes
+
+
+I just fell
+Don't know why
+Something's there we can't deny
+And when I first knew
+Was when I first looked at you
+
+And if I can't find my way
+If salvation is worlds away
+Oh, I'll be found
+When I am lost in your eyes
+
+
+I don't mind not knowing
+What I'm heading for
+You can take me to the skies
+It's like being lost in heaven
+When I'm lost in your eyes
+
+I don't mind not knowing
+What I'm heading for
+You can take me to the skies
+Oh it's like being lost in heaven
+When I'm lost in your eyes
+
+I get weak in a glance
+Isn't this what's called romance?
+Oh, I'll be found
+When I am lost in your eyes

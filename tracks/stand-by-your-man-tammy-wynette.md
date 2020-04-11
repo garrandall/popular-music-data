@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-by-your-man-tammy-wynette
+lyrics_url: https://genius.com/Tammy-wynette-stand-by-your-man-lyrics
 name: Stand By Your Man
 rankings:
 - end_date: '1968-11-15'
@@ -71,4 +72,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
 ---
+Sometimes it's hard to be a woman
+Giving all your love to just one man
+You'll have bad times
+And he'll have good times
+Doin' things that you don't understand
+But if you love him
+You'll forgive him
+Even though he's hard to understand
+And if you love him
+Oh, be proud of him
+'Cause after all, he's just a man
 
+Stand by your man
+Give him two arms to cling to
+And something warm to come to
+When nights are cold and lonely
+
+Stand by your man
+And show the world you love him
+Keep giving all the love you can
+Stand by your man
+
+Stand by your man
+And show the world you love him
+Keep giving all the love you can
+Stand by your man

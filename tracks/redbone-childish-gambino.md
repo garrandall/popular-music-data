@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: redbone-childish-gambino
+lyrics_url: https://genius.com/Childish-gambino-redbone-lyrics
 name: Redbone
 rankings:
 - end_date: '2016-12-16'
@@ -183,4 +184,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
 ---
+Daylight
+I wake up feeling like you won't play right
+I used to know, but now that shit don't feel right
+It made me put away my pride
+So long
+You made a nigga wait for some, so long
+You make it hard for boy like that to go on
+I'm wishing I could make this mine, oh
 
+
+If you want it, yeah
+You can have it, oh, oh, oh
+If you need it, ooh
+We can make it, oh
+If you want it
+You can have it
+
+
+But stay woke
+Niggas creepin'
+They gon' find you
+Gon' catch you sleepin' (Ooh)
+Now stay woke
+Niggas creepin'
+Now don't you close your eyes
+
+
+Too late
+You wanna make it right, but now it's too late
+My peanut butter chocolate cake with Kool-Aid
+I'm trying not to waste my time
+
+
+If you want it, oh
+You can have it, you can have it
+If you need it
+You better believe in something
+We can make it
+If you want it
+You can have it, ah!
+
+
+But stay woke (Stay woke!)
+Niggas creepin' (They be creepin')
+They gon' find you (They gon' find you)
+Gon' catch you sleepin' (Gon' catch you sleepin', put your hands up now, baby)
+Ooh, now stay woke
+Niggas creepin'
+Now, don't you close your eyes
+But stay woke, ooh
+Niggas creepin' (They gon' find you!)
+They gon' find you
+Gon' catch you sleepin', ooh
+Now stay woke
+Niggas creepin'
+Now, don't you close your eyes
+
+
+How'd it get so scandalous?
+How'd it get so scandalous?
+(Oh, oh, baby you, how'd it get...)
+How'd it get so scandalous?
+How'd it get so scandalous?
+But stay woke
+But stay woke

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-to-lose-ray-charles
+lyrics_url: https://genius.com/Ray-charles-born-to-lose-lyrics
 name: Born To Lose
 rankings:
 - end_date: '1962-05-18'
@@ -43,4 +44,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
 ---
+Born to lose, I've lived my life in vain
+Every dream has only brought me pain
+All my life I've always been so blue
+Born to lose and now I'm losing you
 
+
+Born to lose, it seems so hard to bear
+When I wake and find that you're not there
+You've grown tired and now you say, we're through
+Born to lose and now I'm losing you
+
+
+
+
+Born to lose and
+Now I'm losing you

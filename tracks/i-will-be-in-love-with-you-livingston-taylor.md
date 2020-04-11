@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-be-in-love-with-you-livingston-taylor
+lyrics_url: https://genius.com/Livingston-taylor-i-will-be-in-love-with-you-lyrics
 name: I Will Be In Love With You
 rankings:
 - end_date: '1978-10-27'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+I don't know what words to say
+But when I see you I know they'll come
+They'll be words that finally say
+How much I've needed someone
+Just one look and then
+I'll hear those sweet words pour on in
+I will be in love with you
+I'll be in love with you
 
+I don't know how lonesome I have been
+I live that way day to day
+But I long to ask myself
+How did I ever live that way?
+Just one smile from you
+A million others will not do
+I will be in love with you
+I'll be in love with you
+
+I don't know how to be soft
+I've become hard just to survive
+But I long to become gentle
+Gentleness brings love alive
+Take these two strong hands
+Soften them darling understand
+I will be in love with you
+I'll be in love with you
+
+I will be in love with you
+I'll be in love with you

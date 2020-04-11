@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-in-my-corner-the-dells
+lyrics_url: https://genius.com/The-dells-stay-in-my-corner-lyrics
 name: Stay In My Corner
 rankings:
 - end_date: '1968-07-05'
@@ -59,4 +60,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
+If you stay, stay darling
+(Stay in my corner)
+You make me so proud, stay darling
+Please, stay
+(Stay in my corner)
 
+To the world I'd cry my love
+How I love you
+Honey, I love you, I really love you
+(Stay, stay, stay, stay)
+Please, please, please stay darling
+(Stay in my corner)
+
+And I will never, never let you down
+Just say you'll stay
+(Stay in my corner)
+Cause I'll need you always around
+To tell me you love me
+Honey, you love me, so darling stay
+(Stay, stay, stay)
+
+There'll be times when I may fail
+I'll need your love to comfort me
+Bitter days may prevail but just a kiss from you
+Will make them sweet, stay
+(Stay, stay, stay)
+But just a kiss from you
+Will make them sweet
+
+Honey, I love you
+(Stay)
+I love you
+(Stay)
+I love you
+(Stay in my corner)
+I love you
+
+I love you
+(Stay)
+I love you
+(Stay)
+I love you
+(Stay in my corner)
+
+Don’t you know baby
+(Stay)
+I love you
+(Stay)
+I love you
+(Stay in my corner)
+…

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: natural-one-folk-implosion
+lyrics_url: https://genius.com/Folk-implosion-natural-one-lyrics
 name: Natural One
 rankings:
 - end_date: '1995-12-15'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
 ---
+I'm the one natural one, make it easy
+We can take it inside
+Where I can love how I like if I want it
+Whatever keeps me high
+Yeah, we can take it
+Good and loose on an endless spree
+Good because we made it
+And when momma's not around
+There's no telling what we'll do when we're free
 
+I'm the one natural one, make it easy
+We can take it inside
+I can have it cause I act like I love it
+It's a matter of pride
+
+Yeah, we can take it
+Good excuse for an endless spree
+Good because we made it
+Your world is falling down, you may as well crash with me
+
+When I'm numb natural one
+It's the one natural one
+(there's no telling what we'll do when we're free)
+When I'm numb natural one
+(there's no telling what we'll do when we're free)
+It's the one natural one
+(you may as well crash with me)
+When I'm numb natural one
+(there's no telling what we'll do when we're free)
+It's the one natural one
+(there's no telling what we'll do when we're free)
+When I'm numb natural one
+(there's no telling what we'll do when we're free)
+It's the one natural one
+(that you may as well crash with me)

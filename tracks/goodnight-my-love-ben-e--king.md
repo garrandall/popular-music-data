@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodnight-my-love-ben-e--king
+lyrics_url: https://genius.com/Ben-e-king-goodnight-my-love-lyrics
 name: Goodnight My Love
 rankings:
 - end_date: '1966-01-14'
@@ -19,4 +20,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
+Goodnight, my love
+Pleasant dreams
+And sleep tight, my love
+May tomorrow be sunny and bright
+And bring you closer to me
 
+Before you go
+There's just one thing
+I'd like to know
+Is your love still warm for me
+Or has it grown cold
+
+If you should awake
+In the still of night
+Please have no fear
+
+For I'll be there
+Oh, you know I care
+Please give your love to me, dear
+
+Goodnight, my love
+Pleasant dreams and sleep tight
+My love (sleep tight)
+May tomorrow be sunny and bright
+And bring you closer to me
+
+Close your eyes, my love
+(Goodnight)
+Sleep and dream of me
+My love, my love, my love
+
+My love, oh, my love
+(Goodnight)

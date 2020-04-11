@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-remind-me-mary-j--blige
+lyrics_url: https://www.musixmatch.com/lyrics/Mary-J-Blige/You-Remind-Me
 name: You Remind Me
 rankings:
 - end_date: '1992-06-26'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
 ---
+Oooh you remind me, yeah
+You remind me of such sweet memories
 
+I saw you before baby
+It's a dejavu honey
+Don't you know that you remind me
+
+I saw you before baby
+It's a dejavu honey
+Don't you know that you remind me
+
+You, you remind me of a love that I once knew
+Is it a dream or is it dejavu
+I just had to let you know so I had to sing it
+'Cause for you boy I don't know
+
+The way you walk and the way you talk and
+The way you move and you remind me, yes you do
+Of the way you dress and the way you dance and
+You realy like to move it. You remind me
+
+You remind me
+(I saw you before baby, It's a dejavu honey)
+(Don't you know that you remind me)
+You remind me
+(I saw you before baby, It's a dejavu honey)
+(Don't you know that you remind me)
+
+You, you remind me of a memory
+And this is something you should know
+Sweet baby darling c'mon just stop playing with my mind
+'Cause for you boy I don't know
+
+(The way)
+The way you walk and
+(The way)
+The way you talk and
+(The way)
+You realy like to move it
+(The way)
+The way you dress and
+(The way)
+The way you dance and
+(The way)
+You realy like to groove it
+You remind me, you remind me
+
+(I saw you before baby, It's a dejavu honey)
+You remind me
+(Don't you know that you remind me) You Remind me, yes you do
+(I saw you before baby, It's a dejavu honey)
+(Don't you know that you remind me)
+
+And the way you walk and
+The way tou talk and
+The way you move it
+You remind me, yes you do
+The way you dress and
+The way you dance and
+You realy like to groove it
+You remind me, you remind me
+
+(I saw you before baby, It's a dejavu honey)
+(Don't you know that you remind me)
+(I saw you before baby, It's a dejavu honey)
+(Don't you know that you remind me)
+
+I saw you, I saw you before baby
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slick-willie-hutch
+lyrics_url: https://genius.com/Willie-hutch-slick-lyrics
 name: Slick
 rankings:
 - end_date: '1973-08-17'
@@ -31,4 +32,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
 ---
+Dooooooooooo, do do do loo do
+(Do do do loo do)
+Dooo dooo doo do do
 
+Slick's got no regrets, got no sorrows
+He don't get you today, he's gonna get you tomorrow
+Talking bout Slick (Slick)
+Yeah, yeah, (Yeah, Yeah)
+Aw yeah, (Aw yeah)
+Walking fast, talking trash, trying to beat you out your cash
+Who is he? They call him Slick (Slick)
+Hustlin and  and a knocking strong
+Trying to find somebody to run a game on
+Ohhh they call him Slick (Slick)
+Now Slick ain't got no regrets, Slick ain't got no sorrows
+If he don't get you today, he'll get you tomorrow
+And ooooohhhh, they call him Slick,(Slick)
+He's full of tricks (tricks)
+Be your friend oohhh you bet ya (Hey baby, what's happening)
+And all the children
+How much Slick gone get from you?
+(Hey baby you been holding something, I know you got it)
+Yeah yeah
+Aw yeah
+Do do do do
+(do do do do)
+Do do do do do do
+(Do do do do do do)
+Do do do do
+(do do do do)
+Aw yeah, (Aw yeah)
+Doooooooooooooo, do do do do doo
+Doooooooooooooo, do do do do doo
+Ohhhhhh
+Slick ain't never got no dough (Damn sure busted man)
+All he wanna do is go get smoke or try to cop some blow
+Oh no no no
+Ohhh slick
+Dooo dooo doo dooo
+(Dooo dooo doo dooo)
+Dooo dooo doo dooo doo
+(Dooo dooo doo doo doo)
+Do do do dooo
+(Do do do dooo)
+Do da loo do
+(do da loo do)
+Aw now Slick ain't got no regrets
+Slick ain't got no sorrows
+If he don't get you today, he'll get you tomorrow
+(Talking bout Slick)
+Slick ain't got no feelings
+Ain't never got no cash
+The kind that only hangs around as long as your money lasts
+He's your friend, oh you bet
+How much more are you gonna let old Slick get?
+Nooo nooo
+Beware of Slick (beware of Slick)
+He'll put you in a trick (He'll put you in a trick)
+Dooo dooo doo dooo
+(Dooo dooo doo dooo)
+Dooo dooo doo dooo doo
+(Dooo dooo doo doo doo)
+Ha
+Doo doo doo doo
+(Doo doo doo doo)
+Doo doo doo
+(doo doo doo)
+Yeah yeah (yeah, yeah)
+Aw yeah (aw yeah)
+Yeah yeah (yeah, yeah)
+Aw yeah, (aw yeah)
+Do do do
+(Do do do)

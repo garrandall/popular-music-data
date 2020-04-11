@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-the-things-she-said-t-a-t-u-
+lyrics_url: https://genius.com/Tatu-all-the-things-she-said-lyrics
 name: All The Things She Said
 rankings:
 - end_date: '2003-01-10'
@@ -87,4 +88,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
 ---
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+Runnin' through my head
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+All the things she said
+This is not enough (Enough, enough, enough)
 
+
+I'm in serious shit, I feel totally lost
+If I'm asking for help, it's only because
+Being with you has opened my eyes
+Could I ever believe such a perfect surprise?
+I keep asking myself, wondering how
+I keep closing my eyes, but I can't block you out
+Wanna fly to a place where it's just you and me
+Nobody else, so we can be free (Nobody else, so we can be free)
+
+
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+Runnin' through my head
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+All the things she said
+This is not enough (Я сошла с ума, -ма)
+This is not enough
+
+
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+
+
+And I'm all mixed up, feeling cornered and rushed
+They say it's my fault, but I want her so much
+Wanna fly her away where the sun and rain
+Come in over my face, wash away all the shame
+When they stop and stare, don't worry me
+'Cause I'm feeling for her what she's feeling for me
+I can try to pretend, I can try to forget
+But it's driving me mad, going out of my head
+
+
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+Runnin' through my head
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+All the things she said
+This is not enough (Я сошла с ума, -ма)
+This is not enough
+
+
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+Things she said
+All the things she said
+All the things she said
+
+
+Mother lookin' at me
+Tell me, "What do you see?"
+Yes, I've lost my mind
+Daddy lookin' at me
+Will I ever be free?
+Have I crossed the line?
+
+
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+Runnin' through my head
+All the things she said, all the things she said
+Runnin' through my head, runnin' through my head
+All the things she said
+This is not enough (Я сошла с ума, -ма)
+This is not enough
+
+
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said
+All the things she said

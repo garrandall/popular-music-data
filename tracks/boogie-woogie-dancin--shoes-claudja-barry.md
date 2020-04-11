@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-woogie-dancin--shoes-claudja-barry
+lyrics_url: https://genius.com/Claudja-barry-boogie-woogie-dancin-shoes-lyrics
 name: Boogie Woogie Dancin' Shoes
 rankings:
 - end_date: '1979-04-20'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
 ---
-
+I've been working all week saving my emotions
+For Saturday night when I use my potion
+To put on a face, pretty clothes
+I'm dressed to kill
+It's the one night a week I feel free to obey my will
+A magic spell that will tie and tango
+Magic shoes and a diamond spangle
+I will hypnotize your mind by the way that I move
+When you see a thousand stars dance around my shoes
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+Saturday night is my night of power
+When the music's playing, comes my magic hour
+It's a close encounter with a force that's controlling my feet
+It's a once in a lifetime feeling that returns every week
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+(Boogie oogie boogie woogie dancing shoes)
+(Keep me dancing all night)
+(Boogie oogie boogie woogie dancing shoes)
+(Make me queen for a night)
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night
+Boogie oogie boogie woogie dancing shoes
+Keep me dancing all night
+Boogie oogie boogie woogie dancing shoes
+Make me queen for a night

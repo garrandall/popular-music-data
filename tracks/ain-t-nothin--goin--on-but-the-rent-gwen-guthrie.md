@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-nothin--goin--on-but-the-rent-gwen-guthrie
+lyrics_url: https://genius.com/Gwen-guthrie-aint-nothin-goin-on-but-the-rent-lyrics
 name: Ain't Nothin' Goin' On But The Rent
 rankings:
 - end_date: '1986-08-08'
@@ -59,4 +60,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
+Bill collector's at my door
+What can you do for me? Hey!
+No romance without finance
+No romance without finance
 
+
+Boy, nothin' in life is free
+That's why I'm askin' you what can you do for me
+I've got responsibilities
+So I'm lookin' for a man whose got money in his hands
+
+
+Cause nothin' from nothin' leaves nothin'
+You got to have somethin' if you wanna be with me
+Oh, life is too serious, love's too mysterious
+A fly girl like me needs security
+
+
+Cause ain't nothin' goin' on but the rent
+You got to have a J-O-B if you wanna be with me
+Ain't nothin' goin' on but the rent
+You got to have a J-O-B if you wanna be with me
+
+
+No romance without finance
+I said no romance without finance
+
+
+Boy, your silky ways are sweet
+But you're only wastin' time if your pockets are empty
+I've got lots of love to give
+But I will have to avoid you if you're unemployed
+
+
+Cause nothin' from nothin' leaves nothin'
+You got to have somethin' if you wanna be with me
+Oh, life is too serious, love's too mysterious
+A fly girl like me needs security
+
+
+Cause ain't nothin' goin' on but the rent
+You got to have a J-O-B if you wanna be with me
+Ain't nothin' goin' on but the rent
+You got to have a J-O-B if you wanna be with me
+
+
+No romance without finance
+I said no romance without finance
+No romance without finance
+I said no romance without finance
+
+
+Oh, you look good to me
+Your silky words are sweet
+But your pockets sure look empty
+
+Ain't nothing goin' on but the rent

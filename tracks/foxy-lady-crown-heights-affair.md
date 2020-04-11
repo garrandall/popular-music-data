@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foxy-lady-crown-heights-affair
+lyrics_url: https://www.musixmatch.com/lyrics/Crown-Heights-Affair/Foxy-Lady
 name: Foxy Lady
 rankings:
 - end_date: '1976-05-28'
@@ -55,4 +56,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
 ---
+Mmm, foxy
+Ooh, you're foxy, foxy lady
 
+You're foxy, ooh
+You're foxy, ooh
+You're foxy, ooh
+You're foxy, foxy lady
+
+You're foxy, ooh
+You're foxy, ooh
+
+Do it, do it, da da, do it
+Do it, do it, da da
+Sexy lady, foxy lady
+
+Do it, do it, da da, do it
+Do it, do it, get down
+Sexy lady, foxy lady
+
+Do it, do it, da da, do it
+Do it, do it, da da
+Sexy lady, foxy lady
+
+Do it, do it, da da, do it
+Do it, do it, get down
+Sexy lady, foxy lady
+
+You're foxy, ooh
+You're foxy, ooh
+You're foxy, ooh...

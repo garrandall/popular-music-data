@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-ever-nelson
+lyrics_url: https://genius.com/Nelson-more-than-ever-lyrics
 name: More Than Ever
 rankings:
 - end_date: '1991-03-15'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
 ---
+Do I
+Do I love you baby
+YeahYeahYeahYeah
+More than ever
+I remember all I wanted in a lover
+Was just a pretty face but all I found were hearts of stone
+Spent a lifetime
+On the road to nowhere till I found my way back home
+You gave me shelter from the cold and the rain - whoa and
+Now I know pleasure where there used to be pain
 
+Chorus:
+Do I
+Do I love you baby
+YeahYeahYeahYeah
+More than ever
+Do I do I need you baby
+YeahYeahYeahYeah
+More than ever
+You saved me with warmth and understanding
+You're everything that I could ever want
+And after so long we're standing here together
+And forever we'll live on
+In time most other loves just wither and fade, I tell ya
+Ours just gets stronger each and every day
+Do I
+Do I love you baby
+YeahYeahYeahYeah
+More than ever
+Do I do I need you baby
+YeahYeahYeahYeah
+More than ever
+Hey-come over here for a second...
+I got something I wanna say...
+Even though I may not think to tell you every day...
+Ooh - I'm so happy you're still mine!
+Oh, you came along with a love so sweet, took me by surprise
+Knocked me off my feet
+You still send shivers up and down my spine
+Oh I gotta be the luckiest man alive
+Repeat Chorus

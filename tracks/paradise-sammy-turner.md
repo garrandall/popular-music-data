@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paradise-sammy-turner
+lyrics_url: https://genius.com/Sammy-turner-paradise-lyrics
 name: Paradise
 rankings:
 - end_date: '1960-02-21'
@@ -51,4 +52,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+And when she holds my hand
+And then I understand
+Her eyes afire with one desire
+Then a heavenly kiss, could I resist?
 
+And then she dims the light
+And then she... Uh, uh, uh, oh yeah
+Her eyes afire with one desire
+She takes me to paradise
+
+Her eyes afire
+With one desire
+She takes me
+To paradise

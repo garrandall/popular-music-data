@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: san-antonio-rose-floyd-cramer
+lyrics_url: https://genius.com/Floyd-cramer-san-antonio-rose-lyrics
 name: San Antonio Rose
 rankings:
 - end_date: '1961-06-11'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
 ---
+Deep within my heart lies a melody
+A song of old San Antone
+Where in dreams I live with a memory
+Beneath the stars, all alone
 
+Well it was there I found, beside the Alamo
+Enchantments strange as the blue up above
+For that moonlit pass, that only he would know
+Still hears my broken song of love
+
+Moon in all your splendor, known only to my heart
+Call back my rose, rose of San Antone
+Lips so sweet and tender, like petals falling apart
+Speak once again of my love, my own
+Broken song, empty words I know
+Still live in my heart all alone
+
+For that moonlit pass by the Alamo
+And rose, my rose of San Antone
+Broken song, empty words I know
+Still live in my heart all alone
+
+For that moonlit pass by the Alamo
+And rose, my rose of San Antone
+And rose, my rose of San Antone
+And rose, my rose of San Antone

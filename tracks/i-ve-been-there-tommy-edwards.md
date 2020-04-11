@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-there-tommy-edwards
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/I-ve-Been-There
 name: I've Been There
 rankings:
 - end_date: '1959-08-16'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
 ---
+Don't tell about her arms
+I've been there
+I know all about her charms
+I've been there
 
+I know all too well
+That velvet touch of hers
+And the way she purrs
+And the way she'll say
+Okay, I'd love to
+
+Don't tell me about her kiss
+I've kissed her
+And I'm not ashamed to say
+I've missed her
+
+And if she changes her mind
+And comes back to me
+I know how it will be
+Just wonderful for
+I've been there, you see
+
+And if she changes her mind
+And comes back to me
+I know how it will be
+Just wonderful for
+I've been there, you see

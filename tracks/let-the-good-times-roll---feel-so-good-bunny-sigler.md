@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-good-times-roll---feel-so-good-bunny-sigler
+lyrics_url: https://genius.com/Bunny-sigler-let-the-good-times-roll-feel-so-good-lyrics
 name: Let The Good Times Roll & Feel So Good
 rankings:
 - end_date: '1967-06-30'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
-
+Come on baby let the good times roll
+Come on baby let me thrill your soul
+Come on baby let the good times roll
+Roll all night long
+Come on baby yeah, this is it
+This is something I just can't miss
+Come on baby let the good times roll
+Roll all night long
+Feel so good, sugar
+When you're home
+Come on baby rock me all night long honey
+Yeah, yeah, yeah, yeah, yeah
+Feel so good, now that you're home
+Come let me hg ya
+Come let me kiss ya
+Come let me see what I've been missin
+Feel so good now that you're home
+Feel so fine to know that I'm on your mind
+Oh what a feeling to know
+You're beginning to feel so good
+Please don't stop now
+Oh so glad now that I've come back home
+Feel so good when you're home
+Come on baby rock me all night long, honey
+Yeah, yeah, yeah, yeah, yeah
+Come on baby let the good times roll
+Come on baby let me thrill your soul, honey
+Come on baby let the good times roll
+Roll all night long

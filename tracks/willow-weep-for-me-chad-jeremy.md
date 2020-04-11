@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: willow-weep-for-me-chad-jeremy
+lyrics_url: https://genius.com/Chad-and-jeremy-willow-weep-for-me-lyrics
 name: Willow Weep For Me
 rankings:
 - end_date: '1964-11-20'
@@ -60,4 +61,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
+Willow weep for me
+Willow weep for me
+Bend your branches green
+Along the stream that runs to sea
 
+Listen to my plea
+Listen willow and weep for me
+
+Gone my lover's dream
+Lovely summer's dream
+Gone and left me here
+To weep my tears into the stream
+
+Sad as I can be
+Hear me willow and weep for me
+
+Whisper to the wind
+And say that love has sinned
+Leave my heart a-breaking
+And making a moan
+Murmur to the night
+To hide the starry light
+So none will find me sighing
+And crying all alone
+
+Weepin' willow tree
+Weep in sympathy
+Bend your branches down
+Along the ground and cover me
+
+When the shadows fall
+Bend oh willow and weep for me

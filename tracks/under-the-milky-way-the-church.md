@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: under-the-milky-way-the-church
+lyrics_url: https://genius.com/The-church-under-the-milky-way-lyrics
 name: Under The Milky Way
 rankings:
 - end_date: '1988-04-15'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
 ---
+Sometimes, when this place gets kind of empty
+Sound of their breath fades with the light
+I think about the loveless fascination
+Under the Milky Way tonight
+Lower the curtain down on Memphis
+Lower the curtain down, alright
+I got no time for private consultation
+Under the Milky Way tonight
 
+
+Wish I knew what you were looking for
+Might have known what you would find
+
+
+And it's something quite peculiar
+Something shimmering and white
+It leads you here, despite your destination
+Under the Milky Way tonight
+
+
+Wish I knew what you were looking for
+Might have known what you would find
+Wish I knew what you were looking for
+Might have known what you would find
+
+
+And it's something quite peculiar
+Something shimmering and white
+Leads you here, despite your destination
+Under the Milky Way tonight
+
+
+Wish I knew what you were looking for
+Might have known what you would find
+Wish I knew what you were looking for
+Might have known what you would find
+
+
+Under the Milky Way tonight
+Under the Milky Way tonight
+Under the Milky Way tonight

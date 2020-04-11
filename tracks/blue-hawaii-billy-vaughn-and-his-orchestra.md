@@ -1,9 +1,10 @@
 ---
 artists:
-- Billy Vaughn And His Orchestra
+- Billy Vaughn
 features: []
 genres: []
 key: blue-hawaii-billy-vaughn-and-his-orchestra
+lyrics_url: https://genius.com/Billy-vaughn-blue-hawaii-lyrics
 name: Blue Hawaii
 rankings:
 - end_date: '1959-01-04'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+Night and you and Blue Hawaii
+The night is heavenly and you are heaven to me
+Lovely you and Blue Hawaii
+Night and you and Blue Hawaii
+The night is heavenly and you are heaven to me
+Lovely you and Blue Hawaii
+With all this loveliness there should be love
 
+Come with me while the moon is on the sea
+The night is young and so are we, so are we
+Dreams come true in Blue Hawaii
+And mine could all come true this magic night of nights with you
+
+Come with me while the moon is on the sea (the moon is on the sea)
+The night is young and so are we (so are we)
+Dreams come true in Blue Hawaii
+And mine could all come true this magic night of nights with you

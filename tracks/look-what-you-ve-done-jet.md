@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-what-you-ve-done-jet
+lyrics_url: https://genius.com/Jet-band-look-what-youve-done-lyrics
 name: Look What You've Done
 rankings:
 - end_date: '2005-02-04'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
 ---
+Take my photo off the wall
+If it just won’t sing for you
+‘Cause all that’s left has gone away
+And there’s nothing there for you to prove
 
+
+Oh, look what you’ve done
+You’ve made a fool of everyone
+Oh well, it seems likes such fun
+Until you lose what you had won
+
+
+Give me back my point of view
+‘Cause I just can’t think for you
+I can hardly hear you say
+What should I do, well you choose
+
+
+Oh, look what you’ve done
+You’ve made a fool of everyone
+Oh well, it seems likes such fun
+Until you lose what you had won
+
+
+Oh, look what you’ve done
+You’ve made a fool of everyone
+A fool of everyone
+A fool of everyone
+
+
+Take my photo off the wall
+If it just won’t sing for you
+‘Cause all that’s left has gone away
+And there’s nothing there for you to do
+
+
+Oh, look what you’ve done
+You’ve made a fool of everyone
+Oh well, it seems likes such fun
+Until you lose what you had won
+
+
+Oh, look what you’ve done
+You’ve made a fool of everyone
+A fool of everyone
+A fool of everyone

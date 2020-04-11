@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-need-no-doctor-humble-pie
+lyrics_url: https://genius.com/Humble-pie-i-dont-need-no-doctor-live-lyrics
 name: I Don't Need No Doctor
 rankings:
 - end_date: '1971-10-01'
@@ -39,4 +40,102 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
 ---
+I don't need no doctor 'cause I know what's ailing me
+I don't need no doctor 'cause I know what's ailing me
 
+
+Yes I do, all I need is my baby
+You don't know I'm in misery
+
+
+I don't need no doctor
+I don't need no doctor
+
+
+I don't need no doctor
+My prescription tells me that
+
+
+I don't need no doctor
+I don't need no doctor
+
+
+I don't need no doctor
+My prescription tell me that
+
+
+I don't need no doctor
+I don't need no doctor
+
+
+All I need is my baby
+Get back home, care for all my needs
+
+
+I don't need no doctor
+I don't need no doctor
+
+
+Well, the doctor said I need rest
+He put me on the critical list
+Keeping me safe from harm
+All I need is her sweet charm
+
+He gave me a medicated lotion
+That wouldn't do, ooh yeah
+My emotion, oh yeah
+
+
+I don't need no doctor
+I don't need no doctor
+I don't need no doctor
+
+Come on, hey
+How do you feel?
+
+
+Yeah, yeah
+I don't need (No doctor)
+I don't need (No doctor)
+Yeah yeah yeah (No doctor)
+Yeah yeah yeah (No doctor)
+
+
+I don't need no doctor, yeah yeah
+I don't need no doctor, yeah yeah
+I don't need no doctor
+
+
+I don't need no doctor
+I don't need no doctor
+I don't need no doctor
+
+
+I don't need no doctor
+I don't need no doctor
+I don't need no doctor
+
+
+Had a good time
+Had a good time
+Had a good time
+Had a good time
+Had a good time
+Had a good time, yeah yeah
+I sure feel good
+I sure feel good
+I don't need no doctor
+
+
+I don't need no doctor
+I don't need no doctor
+(I don't need no doctor)
+
+I don't need it
+I don't, I don't need it
+
+
+I don't need no doctor
+I don't need no doctor
+I don't need no doctor
+I don't need

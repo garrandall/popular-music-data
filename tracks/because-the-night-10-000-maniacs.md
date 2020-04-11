@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: because-the-night-10-000-maniacs
+lyrics_url: https://genius.com/10000-maniacs-because-the-night-lyrics
 name: Because The Night
 rankings:
 - end_date: '1993-11-12'
@@ -123,4 +124,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
 ---
+Take me now, baby, here as I am
+Hold me close, and try and understand
+Desire is hunger is the fire I breathe
+Love is a banquet on which we feed
 
+
+Come on now, try and understand
+The way I feel under your command
+Take my hand, as the sun descends
+They can't hurt you now
+Can't hurt you now
+Can't hurt you now
+
+
+Because the night belongs to lovers
+Because the night belongs to us
+Because the night belongs to lovers
+Because the night belongs to us
+
+
+Have I doubt, baby, when I'm alone
+Love is a ring, a telephone
+Love is an angel disguised as lust
+Here in our bed 'til the morning comes
+
+
+Come on now, try and understand
+The way I feel under your command
+Take my hand, as the sun descends
+They can't hurt you now
+Can't hurt you now
+Can't hurt you now
+
+
+Because the night belongs to lovers
+Because the night belongs to us
+Because the night belongs to lovers
+Because the night belongs to us
+
+
+With love we sleep, with doubt the vicious cycle turns, and burns
+Without you oh I cannot live, forgive the yearning Burning
+I believe it's time, too real to feel
+So take me now, take me now, take me now
+
+
+Because the night belongs to lovers
+Because the night belongs to us
+Because the night belongs to lovers
+And everybody says that it belongs to us

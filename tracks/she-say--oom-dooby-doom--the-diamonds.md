@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-say--oom-dooby-doom--the-diamonds
+lyrics_url: https://genius.com/The-diamonds-she-say-oom-dooby-doom-lyrics
 name: She Say (Oom Dooby Doom)
 rankings:
 - end_date: '1959-02-01'
@@ -63,4 +64,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom
 
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom
+
+Boom, boom, boom
+She say rock and I rock
+She say roll and I roll
+She say stroll and I stroll
+Well, I keep doin' what she wants
+She's the captain of my soul
+
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom
+
+Boom, boom, boom
+She say hip and I hip
+She say hop and I hop
+She say pop and I pop
+Well, I keep doin' what she wants
+'Cause she's my only pop
+
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom
+
+Boom, boom, boom
+She say move and I move
+She say groove and I groove
+She say bowl and I bowl
+Well, I keep doin' what she wants
+'Cause I'm having such a ball
+
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom
+
+She say
+A oom dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, dooby doom, dooby doom
+Dooby, dooby doom, doom, doom

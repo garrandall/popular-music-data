@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-in-music-gallery
+lyrics_url: https://genius.com/Gallery-i-believe-in-music-lyrics
 name: I Believe In Music
 rankings:
 - end_date: '1972-08-18'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
+I could just sit around
+Making music all day long
+As long as I'm makin' my music
+Ain't gonna do nobody no harm
+And who knows maybe
+I'll come up with a song
+And make people wanna stop
+All their fussin' and fightin'
+Long enough to sing along
 
+I, I believe in music
+Whoa, oh I, I believe in love
+I, I believe in music
+Whoa, I, I believe in love
+
+Music is love and love is music
+If you know what I mean
+People who believe in music
+Are the happiest people I've ever seen
+
+So clap your hands and stomp your feet
+And shake your tambourine
+Lift your voices to the sky
+Tell me what you see, hey
+
+I, I believe in music
+Whoa, oh I, I believe in love
+I, I believe in music
+Whoa, I, I believe in love
+
+Music is the universal language
+And love is the key
+To peace, hope and understandin'
+And livin' in harmony
+
+So grab your brother by the hand
+And sing along with me
+And lift your voices to the sky
+Tell me what you see
+
+I, I believe in music
+Whoa, oh I, I believe in love
+I, I believe in music
+Whoa, I, I believe in love

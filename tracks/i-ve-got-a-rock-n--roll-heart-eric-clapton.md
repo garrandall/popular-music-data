@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-a-rock-n--roll-heart-eric-clapton
+lyrics_url: https://genius.com/Eric-clapton-ive-got-a-rock-n-roll-heart-lyrics
 name: I've Got A Rock N' Roll Heart
 rankings:
 - end_date: '1983-02-04'
@@ -71,4 +72,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
 ---
+I've got a feeling we could be serious, girl
+Right at this moment, I could promise you the world
+Before we go crazy, before we explode
+There's something about me, baby, you got to know
+You got to know
 
+
+I get off on '57 Chevys
+I get off on screaming guitar
+Like the way it hits me every time it hits me
+I've got a rock and roll, I've got a rock and roll heart
+
+
+Feels like we're falling into the arms of the night
+So if you're not ready, don't be holding me so tight
+I guess there's nothing left for me to explain
+Here's what you're getting and I don't want to change
+I don't want to change
+
+
+
+
+I don't need to glitter, no Hollywood
+All you got to do is lay it down and you lay it down good

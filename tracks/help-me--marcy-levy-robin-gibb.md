@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: help-me--marcy-levy-robin-gibb
+lyrics_url: https://genius.com/Robin-gibb-and-marcy-levy-help-me-lyrics
 name: Help Me!
 rankings:
 - end_date: '1980-11-14'
@@ -48,4 +49,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-10'
 ---
+All I need is your precious love
+Leaving me waiting ain't good enough
+A thousand nights pass me by
+Needing you near me, keep me alive
 
+
+How long (how long) can I go on (must I go on)
+Please tell me now, 'cause I don't know how
+
+
+Help me! (hoo hoo)
+I'm a lonely girl in an empty world outside
+Won't somebody keep me satisfi-i-ied?
+We're two of a kind
+Baby, baby, baby, don't leave me behind
+Love don't last forever, it's only a dream
+Keeping the fire burning, if you know what I mea-ea-ean
+It's easy to see
+Baby, baby, baby, don't tell me
+
+
+How did I believe in you
+Being a part of things that you do
+You keep on saying we don't belong
+Love is for losers, my love is wrong
+
+
+How long (how long) can I go on (must I go on)
+Please tell me now, 'cause I don't know how
+
+
+Help me! (yeah heahh)
+I'm a lonely girl in an empty world outside
+Won't somebody keep me satisfi-i-ied?
+We're two of a kind
+Baby, baby, baby, don't leave me behind
+Love don't last forever, it's only a dream
+Keeping the fire burning, if you know what I mea-ea-ean
+It's easy to see
+Baby, baby, baby, don't tell me goodbyyyyyyyyyyyyyye
+Whoa hoa
+Whoaaaaaaa ayyyyy yeahhhhhh yeahhhhhhh
+
+
+Yeah heahhhh huh
+Help me!
+I'm a lonely girl in an empty world outside
+Won't somebody keep me satisfi-i-ied?
+We're two of a kind
+Baby, baby, baby, don't leave me behind
+Love don't last forever, it's only a dream
+Keeping the fire burning, if you know what I mea-ea-ean
+It's easy to see
+Baby, baby
+Baby
+
+
+Help me!
+Ohhh hoaaaa
+I'm a lonely girl in an empty world outside
+Won't somebody keep me satisfi-i-ied?

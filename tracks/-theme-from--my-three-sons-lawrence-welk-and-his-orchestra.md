@@ -1,6 +1,6 @@
 ---
 artists:
-- Lawrence Welk And His Orchestra
+- Lawrence Welk
 features: []
 genres: []
 key: -theme-from--my-three-sons-lawrence-welk-and-his-orchestra

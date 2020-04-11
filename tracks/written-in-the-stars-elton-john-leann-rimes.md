@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: written-in-the-stars-elton-john-leann-rimes
+lyrics_url: https://genius.com/Elton-john-and-leann-rimes-written-in-the-stars-lyrics
 name: Written In The Stars
 rankings:
 - end_date: '1999-03-19'
@@ -48,4 +49,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
 ---
-
+I am here to tell you we can never meet again
+Simple really - isnt it
+A word or two and then
+A lifetime of not knowing where or how or why or when
+You think of me or speak of me
+Or wonder what befell
+The someone you once loved so long ago so well
+Never wonder what I feel as living shuffles by
+You dont have to ask me
+And I do not reply
+Every moment in my life from now until I die
+I will think or dream of you and fail to understand
+How the perfect love can be confounded out of hand
+Is it written in the stars
+Are we paying for some crime
+Is that all that we are good for
+Just a stretch of mortal time
+Is this Gods experiment
+In which we have no say
+In which we live in paradise
+But only for the day
+Nothing can be altered oh theres nothing to decide
+No escape, no change of heart, nor any place to hide
+You are all Ill ever want
+But this I am denied
+Sometimes in my darkest thoughts
+I wish I never learned
+What it is to be n love
+And have that love returned
+Is it written in the stars
+Are we paying for some crime
+Is that all that we are good for
+Just a stretch of mortal time
+Is this Gods experiment
+In which we have no say
+In which we live in paradise
+But only for the day

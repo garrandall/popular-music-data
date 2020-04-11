@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stronger-britney-spears
+lyrics_url: https://www.musixmatch.com/lyrics/Britney-Spears/Stronger
 name: Stronger
 rankings:
 - end_date: '2000-12-08'
@@ -67,4 +68,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
 ---
+Ooh hey, yeah
 
+Hush, just stop
+There's nothing you can do or say, baby
+I've had enough
+I'm not your property as from today, baby
+You might think that I won't make it on my own
+
+But now I'm stronger than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+I, I'm stronger
+
+Than I ever thought that I could be, baby
+I used to go with the flow
+Didn't really care about me
+You might think that I can't take it, but you're wrong
+
+'Cause now I'm stronger than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+I, I'm stronger
+
+Come on, now
+Oh, yeah
+
+Here I go, on my own
+I don't need nobody, better off alone
+Here I go, on my own now
+I don't need nobody, not anybody
+Here I go, here I go (here I go, here I go, here I go)
+Alright
+(Here I go, here I go, here I go, here I go)
+
+Stronger than yesterday
+It's nothing but my way
+My loneliness ain't killing me no more
+I, I'm stronger
+Now I'm stronger than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+Now I'm stronger than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more (no more)
+I, I'm stronger

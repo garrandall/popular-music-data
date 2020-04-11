@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goin--out-of-my-head-little-anthony-and-the-imperials
+lyrics_url: https://genius.com/Little-anthony-and-the-imperials-goin-out-of-my-head-lyrics
 name: Goin' Out Of My Head
 rankings:
 - end_date: '1964-11-13'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
+Well, I think I'm going out of my head
+Yes, I think I'm going out of my head
+Over you
+Over you
+I want you to want me, I need you so badly
+I can't think of anything but you
 
+And I think I'm going out of my head
+Yes, I think I'm going out of my head
+Over you
+Over you
+
+I see you each morning
+But you just walk past me
+You don't even know that I exist
+
+Goin' out of my head over you
+Out of my head over you
+Out of my head day and night
+Night and day and night
+Wrong or right
+
+I must think of a way
+Into your heart
+There's no reason why
+My being shy
+Should keep us apart
+And I think I'm going out of my head
+Yes, I think I'm going out of my head
+
+Goin' out of my head over you
+Out of my head over you
+Out of my head day and night
+Night and day and night
+Wrong or right
+Night and day and night
+Wrong or right
+Day or night
+Everyday, every, every day

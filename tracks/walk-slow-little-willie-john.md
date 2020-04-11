@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-slow-little-willie-john
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/Walk-Slow
 name: Walk Slow
 rankings:
 - end_date: '1960-12-04'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+Walk slow, don't run
+Our love is slow but
+We're having so much fun
+So walk slow, don't run
+Away from love
 
+So walk slow, don't run
+Every earthly power
+Has ways of having fun
+So when the race is won
+Walk slow
+
+And don't forget to remember
+To take my love wherever you go
+We need each other
+And I'll always love you so
+Oh, oh, oh, oh
+
+Walk slow, don't run
+Our love is so slow
+But we're having fun
+Walk slow, don't run
+Away from love
+
+Oh, walk slow
+Don't run away from love

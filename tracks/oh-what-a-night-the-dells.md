@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-what-a-night-the-dells
+lyrics_url: https://genius.com/The-dells-oh-what-a-night-lyrics
 name: Oh What A Night
 rankings:
 - end_date: '1969-08-22'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+Oh what a night, to love you, dear
+Oh what a night, to hold you near
+Oh what a night, to squeeze you, dear
+That's why I love you so!
 
+Oh what a night, to love you, dear
+Oh what a night, to walk you, dear
+Oh what a night, to kiss you, dear
+That's why I love you so!
+
+I won't forget all those things
+You have told to me
+The craze in my heart
+Won't let me forget your love
+
+Oh what a night, to love you, dear
+Oh what a night, to hold you near
+Oh what a night, to squeeze you, dear
+That's why I love you so!
+
+Oh what a night, to love you, dear
+Oh what a night, to want you, dear
+Oh what a night, to kiss you, dear
+That's why I love you so!

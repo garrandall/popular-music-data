@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-roses-for-a-blue-lady-wayne-newton
+lyrics_url: https://genius.com/Wayne-newton-red-roses-for-a-blue-lady-lyrics
 name: Red Roses For A Blue Lady
 rankings:
 - end_date: '1965-03-05'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
 ---
+I Want Some
+Red roses for a blue lady
+Mister florist take my order please
+We had a silly quarrel the other day
+Hope these pretty flowers chase her blues away
+Wrap up some red roses for a blue lady
+Send them to the sweetest gal in town
+And if they do the trick
+I'll hurry back to pick
+Your best white orchid for her wedding gown
 
+I Want Some
+Red roses for a blue lady
+Mister florist take my order please
+We Had a silly quarrel the other day
+Hope these pretty flowers chase her blues away
+Wrap up some red roses for a blue lady
+Send them to the sweetest gal in town
+And if they do the trick
+I'll hurry back to pick
+Your best white orchid for her wedding gown

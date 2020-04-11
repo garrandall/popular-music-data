@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-r-e-m-
+lyrics_url: https://genius.com/Rem-stand-lyrics
 name: Stand
 rankings:
 - end_date: '1989-01-27'
@@ -83,4 +84,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+Stand in the place where you live
+Now face north
+Think about direction
+Wonder why you haven't before
+Now stand in the place where you were
+Now face west
+Think about the place where you live
+Wonder why you haven't before
 
+
+If you are confused, check with the sun
+Carry a compass to help you along
+Your feet are going to be on the ground
+Your head is there to move you around
+
+
+Stand in the place where you live
+Now face north
+Think about direction
+Wonder why you haven't before
+Now stand in the place where you were
+Now face west
+Think about the place where you live
+Wonder why you haven't before
+
+
+Your feet are going to be on the ground
+Your head is there to move you around
+If wishes were trees, the trees would be falling
+Listen to reason, the season is calling
+
+
+Stand in the place where you live
+Now face north
+Think about direction
+Wonder why you haven't before
+Now stand in the place where you were
+Now face west
+Think about the place where you live
+Wonder why you haven't before
+
+
+If wishes were trees, the trees would be falling
+Listen to reason, reason is calling
+Your feet are going to be on the ground
+Your head is there to move you around
+
+
+So stand (Stand!)
+Now face north
+Think about direction
+Wonder why you haven't before
+Now stand (Stand!)
+Now face west
+Think about the place where you live
+Wonder why you haven't
+
+
+Stand in the place where you live
+Now face north
+Think about direction
+Wonder why you haven't before
+Now stand in the place where you were
+Now face west
+Think about the place where you live
+Wonder why you haven't before
+
+
+Stand in the place where you are
+Now face north
+Stand in the place where you are
+Now face west
+Your feet are going to be on the ground
+(Stand in the place where you are)
+Your head is there to move you around, so stand

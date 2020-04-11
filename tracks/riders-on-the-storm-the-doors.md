@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: riders-on-the-storm-the-doors
+lyrics_url: https://genius.com/The-doors-riders-on-the-storm-lyrics
 name: Riders On The Storm
 rankings:
 - end_date: '1971-07-09'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
 ---
+Riders on the storm
+Riders on the storm
+Into this house we're born
+Into this world we're thrown
+Like a dog without a bone, an actor out on loan
+Riders on the storm
 
+
+There's a killer on the road
+His brain is squirmin' like a toad
+Take a long holiday
+Let your children play
+If you give this man a ride, sweet family will die
+Killer on the road
+
+
+Girl you gotta love your man
+Girl you gotta love your man
+Take him by the hand
+Make him understand
+The world on you depends, our life will never end
+Gotta love your man
+
+
+Riders on the storm
+Riders on the storm
+Into this house we're born
+Into this world we're thrown
+Like a dog without a bone, an actor out on loan
+Riders on the storm
+
+
+Riders on the storm
+Riders on the storm
+Riders on the storm
+Riders on the storm

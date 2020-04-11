@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: willie-and-the-hand-jive-the-johnny-otis-show
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Otis-Show/Willie-And-The-Hand-Jive
 name: Willie And The Hand Jive
 rankings:
 - end_date: '1958-08-10'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-06'
 ---
+I know a cat named Way Out Willie
+He's got a cool little chick named Rockin' Millie
+He can walk and stroll and Susie Q
+And do that crazy hand jive too
 
+Papa told Willie, "you'll ruin my home
+You and that hand jive have got to go"
+Willie said, "Papa, don't put me down
+They're doin' the hand jive all over town"
+
+Hand jive, hand jive, hand jive
+Doin' that crazy hand jive
+
+Mama, Mama look at Uncle Joe
+He's doin' that hand jive with sister Flo
+Grandma gave baby sister a dime
+Said, "do that hand jive one more time"
+
+Doctor and the lawyer and Indian chief
+Now they all dig that crazy beat
+Way Out Willie gave 'em all a treat
+When he did that hand jive with his feet
+
+Hand jive, hand jive, hand jive
+Doin' that crazy hand jive
+
+Willie and Millie got married last fall
+They had a little Willie Junior and that ain't all
+Well, the baby got famous and it's plain to see
+Doin' that hand jive on TV
+
+Hand jive, hand jive, hand jive
+Doin' that crazy hand jive

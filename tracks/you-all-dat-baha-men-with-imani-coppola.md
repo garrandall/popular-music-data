@@ -1,7 +1,8 @@
 ---
 artists:
-- Baha Men With Imani Coppola
-features: []
+- Baha Men
+features:
+- Imani Coppola
 genres: []
 key: you-all-dat-baha-men-with-imani-coppola
 name: You All Dat

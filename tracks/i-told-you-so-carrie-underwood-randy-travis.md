@@ -5,6 +5,7 @@ features:
 - Randy Travis
 genres: []
 key: i-told-you-so-carrie-underwood-randy-travis
+lyrics_url: https://genius.com/Carrie-underwood-i-told-you-so-duet-version-lyrics
 name: I Told You So
 rankings:
 - end_date: '2009-03-06'
@@ -80,4 +81,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
 ---
+Suppose I called you up tonight and told you that I love you
+And suppose I said I wanna come back home
+And suppose I cried and said I think I've finally learned my lesson
+And I'm tired of spendin' all my time alone
 
+
+If I told you that I realized you're all I ever wanted
+And it's killin' me to be so far away
+Would you tell me that you love me too? And would we cry together
+Or would you simply laugh at me and say
+
+
+I told you so, oh, I told you so
+I told you some day you'd come crawlin' back and askin' me to take you in
+I told you so, but you had to go
+And now I've found somebody new and you will never break my heart in two again
+
+
+If I got down on my knees and told you I was yours forever
+Would you get down on yours too and take my hand?
+Would we get that old time feelin'? Would we laugh and talk for hours?
+The way we did when our love first began
+
+
+Would you tell me that you've missed me too and that you've been so lonely?
+And you've waited for the day that I returned
+And we'd live and love forever, and that I'm your one and only
+Or would you say the tables finally turned?
+
+
+Would you say I told you so? Oh, I told you so
+I told you some day you'd come crawlin' back and askin' me to take you in
+I told you so, but you had to go
+Now I found somebody new and you will never break my heart in two again
+
+
+Now I found somebody new (Now I found somebody new) and you will never break my heart in two again

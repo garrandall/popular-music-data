@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-by-the-river-buddy-miles
+lyrics_url: https://genius.com/Buddy-miles-down-by-the-river-lyrics
 name: Down By The River
 rankings:
 - end_date: '1970-07-24'
@@ -35,4 +36,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
 ---
+Ooh, ooh...
 
+Be on my side
+I'll be your side, baby
+There is no reason
+For you to hide
+
+It's so hard for me
+Staying here all alone
+When you could be
+Taking me for a ride
+
+Ooh, sha la la, the weather
+She could drag me over the rainbow
+And send me away
+
+Down by the river
+I shot my baby
+
+You take my hand
+I'll take your hand, babe
+Together, we'll get away
+
+This much sadness
+Is too much sorrow
+It's impossible for me to stay
+Yeah, yeah
+
+Ooh, sha la la, the weather
+She could drag me over the rainbow
+And send me away
+
+Down by the river
+I shot my baby
+
+Down by the river
+Be on my side
+I'll be on your side, baby
+There is no reason to hide
+
+It's so hard for me
+To stand here all alone
+When you could be
+Taking me for a ride
+
+Ooh, sha la la, the weather
+She could drag me over the rainbow
+And send me away
+
+Down by the river
+I shot my baby
+Down by the river
+I shot my baby
+Down by the river
+I shot my baby

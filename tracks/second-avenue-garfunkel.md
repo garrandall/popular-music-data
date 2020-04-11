@@ -1,6 +1,6 @@
 ---
 artists:
-- Garfunkel
+- Art Garfunkel
 features: []
 genres: []
 key: second-avenue-garfunkel

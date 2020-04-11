@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-in-the-air-thunderclap-newman
+lyrics_url: https://genius.com/Thunderclap-newman-something-in-the-air-lyrics
 name: Something In The Air
 rankings:
 - end_date: '1969-09-12'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
+Call out the instigators
+Because there's something in the air
+We've got to get together sooner or later
+Because the revolution's here
+And you know it's right
+And you know that it's right
+We have got to get it together
+We have got to get it together now
 
+
+Lock up the streets and houses
+Because there's something in the air
+We've got to get together sooner or later
+Because the revolution's here,
+And you know it's right
+And you know that it's right
+We have got to get it together
+We have got to get it together now
+
+
+Hand out the holy spirits
+We got to remake all our life
+Hand out the arms and ammo
+We're going to blast our way through here
+We've got to get together sooner or later
+Because the moment will arrive, and you know its right
+Because the revolution's here, and you know it's right
+And you know that it's right
+We have got to get it together
+We have got to get it together now
+Get it together
+Feeling something in the air
+Don't you feel it together
+Sooner or later
+Can't you feel it coming
+Sooner or later

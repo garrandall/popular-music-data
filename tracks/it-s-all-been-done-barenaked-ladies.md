@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-been-done-barenaked-ladies
+lyrics_url: https://genius.com/Barenaked-ladies-its-all-been-done-lyrics
 name: It's All Been Done
 rankings:
 - end_date: '1999-01-01'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
 ---
+I met you before the fall of Rome
+And I begged you to let me take you home
+You were wrong, I was right
+You said goodbye, I said goodnight
 
+
+It's all been done
+It's all been done
+It's all been done before
+
+
+I knew you before the west was won
+And I heard you say the past
+Was much more fun
+You go your way, I go mine
+But I'll see you next time
+
+
+
+
+And if I put my fingers here, and if I say
+"I love you, dear"
+And if I play the same three chords
+Will you just yawn and say
+'Ah, I hate it.'
+
+
+
+
+Alone and bored on a thirtieth-century night
+Will I see you on The Price Is Right?
+Will I cry? Will I smile?
+As you run down the aisle?

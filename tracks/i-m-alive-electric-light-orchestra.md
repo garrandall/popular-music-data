@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-alive-electric-light-orchestra
+lyrics_url: https://genius.com/Electric-light-orchestra-im-alive-lyrics
 name: I'm Alive
 rankings:
 - end_date: '1980-05-30'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+I'm alive!
+And the world shines for me today
+I'm alive!
+Suddenly I am here today
+Seems like forever, and a day
+Thought I could never feel this way
+Is this really me?
+I'm alive, I'm alive
 
+
+I'm alive!
+And the dawn breaks across the sky
+I'm alive!
+And the sun rises up so high
+Lost in another world, far away
+Never another word till today
+But what can I say?
+I'm alive, I'm alive, I'm alive
+
+Suddenly came the dawn from the night
+Suddenly I was born into light
+How can it be real?
+I'm alive, I'm alive, I'm alive
+
+
+I'm alive!
+And the world shines for me today
+I'm alive!
+Suddenly I am here today
+Seems like forever and a day
+Thought I could never feel this way
+Is this really me?
+I'm alive, I'm alive, I'm alive!
+
+I'm alive, I'm alive, I'm alive, I'm alive!

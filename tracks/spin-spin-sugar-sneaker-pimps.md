@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spin-spin-sugar-sneaker-pimps
+lyrics_url: https://genius.com/Sneaker-pimps-spin-spin-sugar-lyrics
 name: Spin Spin Sugar
 rankings:
 - end_date: '1997-10-17'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
 ---
+I'm everyone, I feel used
+I'm everyone, I need you
+I'm everyone, hang your label on me
+I'm everyone, paint it black and white and easy
 
+I want perfection, I'm real need
+I've seen attention see through me
+I'm everyone, sticks in me
+I'm everyone, sticks with me
+
+
+Call on me
+Spin spin sugar
+Crawl on me
+Spin spin sugar
+Stinks on me
+Spin spin sugar
+Twists for me
+Spin spin sugar
+
+
+I've seen attention, see through me
+I want perfection, I'm real need
+I'm everyone, sticks in me
+I'm everyone, sticks with me
+
+
+Call on me
+Spin spin sugar
+Crawl on me
+Spin spin sugar
+Stinks on me
+Spin spin sugar
+Twists for me
+Spin spin sugar

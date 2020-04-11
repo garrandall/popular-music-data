@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-in-the-usa--a-salute-to-60-s-rock--john-mellencamp
+lyrics_url: https://genius.com/John-mellencamp-rock-in-the-usa-a-salute-to-60s-rock-lyrics
 name: ROCK In The USA (A Salute to 60's Rock)
 rankings:
 - end_date: '1986-02-07'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
 ---
+They come from the cities and they come from the smaller towns
+Beat up cars with guitars and drummers going crack, boom, bam
 
+
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A., yeah, yeah
+Rocking in the U.S.A
+
+
+Well, they said goodbye to their families, said goodbye to their friends
+With pipe dreams in their heads and very little money in their hands
+Some are black and some are white
+They ain't too proud to sleep on your floor tonight
+With the blind faith of Jesus, you know that they just might
+Rocking in the U.S.A
+Hey
+
+
+Voices from nowhere and voices from the larger town
+Filled our head full of dreams and turned our world upside down
+And there was Frankie Lymon, Bobby Fuller, Mitch Ryder
+(They were rocking)
+Jackie Wilson, Shangri-las, Young Rascals
+(They were rocking)
+Spotlight on Martha Reeves, let's don't forget James Brown
+
+
+Rocking in the U.S.A
+Hey
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A
+R.O.C.K. in the U.S.A

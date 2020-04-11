@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: popcorn-hot-butter
+lyrics_url: https://www.musixmatch.com/lyrics/Hot-Butter/Popcorn
 name: Popcorn
 rankings:
 - end_date: '1972-07-14'
@@ -79,4 +80,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
 ---
-
+Instrumental

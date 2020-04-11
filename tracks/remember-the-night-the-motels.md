@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-the-night-the-motels
+lyrics_url: https://www.azlyrics.com/lyrics/motels/rememberthenights.html
 name: Remember The Night
 rankings:
 - end_date: '1983-12-09'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
 ---
+Fragrance of that long lost evening
+Tender moves that keep repeating
+Soft night's melody that I can't forget
+Younger boy and helpless girl
+Passion of the other world
+Strange old place from a 
+Nursery rhyme that I can't forget
+I can't go back, but I can't stay 
+Help me
+Remember the nights with you 
 
+Street corner stands in shade
+Lanterns swing in the heat of day
+Old lady sings the song that I can't forget
+Little girl that asked you who
+Collects the flowers they give to you
+Her eyes, her dress, the sky 
+
+The blue that you can't forget
+I can't go back, but I can't stay 
+Help me
+Remember the nights with you
+
+
+Long ago and far away 
+Memory like a dream 
+I stay in the other place
+The other time that I can't forget
+I can't go back, but I can't stay 
+Help me
+Remember the nights
+Remember the nights
+Remember the nights with you

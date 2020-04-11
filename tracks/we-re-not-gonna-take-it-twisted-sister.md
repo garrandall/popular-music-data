@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-re-not-gonna-take-it-twisted-sister
+lyrics_url: https://genius.com/Twisted-sister-were-not-gonna-take-it-lyrics
 name: We're Not Gonna Take It
 rankings:
 - end_date: '1984-08-03'
@@ -67,4 +68,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
 ---
+Oh, we're not gonna take it
+No, we ain't gonna take it
+Oh, we're not gonna take it, anymore
 
+We've got the right to choose and
+There ain't no way we'll lose it
+This is our life, this is our song
+We'll fight the powers that be just
+Don't pick our destiny, 'cause
+You don't know us, you don't belong
+
+Oh, we're not gonna take it
+No, we ain't gonna take it
+Oh, we're not gonna take it anymore
+
+Oh, you're so condescending
+Your gall is never ending
+We don't want anything, not a thing from you
+Your life is trite and jaded
+Boring and confiscated
+If that's your best, your best won't do
+
+Woah
+Woah
+We're right! (Yeah!)
+We're free! (Yeah!)
+We'll fight! (Yeah!)
+You'll see! (Yeah!)
+
+Oh, we're not gonna take it
+No, we ain't gonna take it
+Oh, we're not gonna take it anymore
+
+Oh, we're not gonna take it
+No, we ain't gonna take it
+Oh, we're not gonna take it anymore
+No way!
+
+Woah
+Woah
+We're right! (Yeah!)
+We're free! (Yeah!)
+We'll fight! (Yeah!)
+You'll see! (Yeah!)
+
+We're not gonna take it
+No, we ain't gonna take it
+We're not gonna take it anymore
+
+We're not gonna take it, no!
+No, we ain't gonna take it
+We're not gonna take it anymore
+
+(Just you try and make us!)
+Oh, we're not gonna take it (Come on!)
+No, we ain't gonna take it (You're all worthless and weak!)
+We're not gonna take it anymore (Now drop and give me twenty!)
+Oh, we're not gonna take it (A pledge pin?!)
+No, we ain't gonna take it (On your uniform!)
+We're not gonna take it anymore

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-it-s-tonight-jude-cole
+lyrics_url: https://genius.com/Jude-cole-baby-its-tonight-lyrics
 name: Baby It's Tonight
 rankings:
 - end_date: '1990-04-20'
@@ -79,4 +80,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
 ---
+(Won't you) pick up the phone, 'cause I know that you're home
+Too many words have not been said for us to be living alone
+Now all of the fighting, and all of the tears
+They don't matter now
 
+(Pre chorus)
+Another night falls, dark and lonely
+You're the only one that I can turn to
+
+(Chorus)
+If I ever needed your arms to hold me
+Baby, it's tonight
+If I ever needed your eyes to heal me
+Baby it's tonight
+
+(So) come hold me close, and show me that you still care
+Let's take it to where it all began and start again from there
+'Cause there's no way out, as far as I can tell
+
+(Pr chorus)
+I'm walking in a world of strangers
+You're the only one that really knows me
+
+(Chorus) x2
+
+(Bridge)
+Won't you please, please pick up the phone
+Ooh...
+Don't leave me to face this world all alone
+(It?) takes some time
+
+(Chorus) repeat to fade

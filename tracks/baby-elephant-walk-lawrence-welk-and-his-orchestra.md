@@ -1,6 +1,6 @@
 ---
 artists:
-- Lawrence Welk And His Orchestra
+- Lawrence Welk
 features: []
 genres: []
 key: baby-elephant-walk-lawrence-welk-and-his-orchestra

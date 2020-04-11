@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gotta-travel-on-timi-yuro
+lyrics_url: https://www.musixmatch.com/lyrics/Timi-Yuro/Gotta-Travel-On
 name: Gotta Travel On
 rankings:
 - end_date: '1963-10-18'
@@ -35,4 +36,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
 ---
+I've laid around and played around
+This old town too long
+Summer's almost gone
+Yes, winter's coming on
+I've laid around and played around
+This old town too long
+And I feel like
+I've gotta travel on
 
+Papa writes to Johnny
+But Johnny can't come home
+Johnny can't come home
+No, Johnny can't come home
+
+Papa writes to Johnny
+But Johnny can't come home
+Cause he's been on
+The chain gang too long
+
+High sheriff and police
+Riding after me
+Riding after me
+Yes, coming after me
+
+High sheriff and police
+Riding after me
+And I feel like
+I've gotta travel on
+
+
+
+Wanna see my honey
+Wanna see her bad
+Wanna see her bad
+Oh, wanna see her bad
+
+Wanna see my honey
+Wanna see her bad
+She's the best girl
+This poor boy ever had

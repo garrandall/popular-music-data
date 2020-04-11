@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-my-life-no-doubt
+lyrics_url: https://genius.com/No-doubt-its-my-life-lyrics
 name: It's My Life
 rankings:
 - end_date: '2003-11-07'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
 ---
+It's funny how I find myself
+In love with you
+If I could buy my reasoning
+I'd pay to lose
+One half won't do
 
+
+I've asked myself
+How much do you
+Commit yourself?
+
+
+It's my life
+Don't you forget
+It's my life
+It never ends (it never ends)
+
+
+Funny how I blind myself
+I never knew
+If I was sometimes played upon
+Afraid to lose
+
+
+Oh, I'd tell myself
+What good do you do
+Convince myself
+
+
+It's my life
+Don't you forget
+It's my life
+It never ends (it never ends)
+
+
+
+
+And I've asked myself
+How much do you
+Commit yourself?
+
+
+Oh, it's my life
+Don't you forget
+Caught in the crowd
+It never ends (it never ends)
+
+
+Oh, it's my life
+Don't you forget
+Caught in the crowd
+It never ends (it never ends)
+
+
+Oh, it's my life (oh it's my life)
+Don't you forget (don't you forget)
+Caught in the crowd (caught in the crowd)
+It never ends (it never ends)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-you-need-inxs
+lyrics_url: https://genius.com/Inxs-what-you-need-lyrics
 name: What You Need
 rankings:
 - end_date: '1986-01-24'
@@ -87,4 +88,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
 ---
+Hey, here is the story
+Forget about the trouble in life
+Don't you know, it's not easy
+When you gotta walk upon that line
 
+
+That's why - You need
+That's why - This is what you need
+I'll give you what you need
+
+
+Don't you get sad and lonely
+You need a change from
+What you do all day
+Ain't no sense in all your crying
+Just pick it up and throw it into shape
+
+
+
+
+Hey you, won't you listen
+This is not the end of it all
+Don't you see there is a rhythm
+I'll take you where you
+Really need to be

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: motorcycle-mama-sailcat
+lyrics_url: https://genius.com/Sailcat-motorcycle-mama-lyrics
 name: Motorcycle Mama
 rankings:
 - end_date: '1972-06-16'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
 ---
+Tell your daddy and your mama too
+You got something better to do
+Than stick around the house the rest of your life
+You're eighteen you can do what you like
 
+You'll be the queen of my highway, my motorcycle mama
+And we'll see the world from my Harley
+
+We'll get matching jackets and helmets too
+We'll get respect from the towns we ride through
+We'll sleep at the roadside in the soft green grass
+And if the squares walk by, we'll let them pass
+
+You'll be the queen of my highway, my motorcycle mama
+And we'll see the world from my Harley
+
+And maybe in a year or two
+We'll have a little one, she'll look just like you
+We'll add on a sidecar
+Electric guitar
+And we'll be a trio
+The baby makes three, oh
+
+Tell your daddy and your mama too
+You got something better to do
+Than stick around the house the rest of your life
+You're eighteen you can be my wife
+
+You'll be the queen of my highway, my motorcycle mama
+And we'll see the world from my Harley
+And we'll see the world from my Harley
+And we'll see the world from my Harley, if the chain don't break

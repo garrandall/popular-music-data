@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shot-for-me-drake
+lyrics_url: https://genius.com/Drake-shot-for-me-lyrics
 name: Shot For Me
 rankings:
 - end_date: '2011-12-09'
@@ -11,4 +12,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
 ---
+I can see it in your eyes, you're angry
+Regret got shit on what you're feelin' now
+Mad cause he ain't like me
+Oh you mad cause nobody ever did it like me
+All the care I would take
+All the love that we made
+Now you're trying to find somebody to replace what I gave to you
+It's a shame you didn't keep it
+Alisha, Catya, I know that you gon' hear this
+I'm the man, yeah I said it
+Bitch, I'm the man, don't you forget it
+The way you walk, that's me
+The way you talk, that's me
+The way you've got your hair up, did you forget that's me?
+And the voice in your speaker right now that's me
+That's me, and the voice in your ear
+That's me, can't you see
+That I made it? Yeah, I made it
+First I made you who you are and then I made it
+And you're wasted with your latest
+Yeah, I'm the reason why you always getting faded
 
+
+Take a shot for me
+Take a shot for me
+Take a shot for me
+A shot for me
+A shot for me
+
+
+Ok, look, I'm honest. Girl, I can't lie, I miss you
+You and the music were the only things that I'd commit to
+I never cheated, for the record, back when I was with you
+But you believed in everything but me, girl, I don't get you
+She says "I know you changed
+I never see you cause you're always busy doing things"
+I really wish she had a different way of viewing things
+I think the city that we're from just kinda ruined things
+It's such a small place: not much to do but talk and listen
+The men are jealous and the women all in competition
+And all your friends telling you stories that you often misinterpret
+And taint all the images of your "Mr. Perfect"
+I could tell that you been crying all night, drinking all summer
+Prayin' for your happiness, hope that you recover
+This is one I know you hated when you heard it
+And it's worse because you know that I deserve it
+
+
+Take a shot for me
+Take a shot for me
+Take a shot for me
+A shot for me
+A shot for me
+
+
+May your neighbors respect you
+Trouble neglect you
+Angels protect you
+And heaven accept you

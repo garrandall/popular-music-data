@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-the-one-five-star
+lyrics_url: https://genius.com/Five-star-let-me-be-the-one-lyrics
 name: Let Me Be The One
 rankings:
 - end_date: '1986-02-14'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
 ---
+Let me be the one
+You give your love to
 
+I hear your records on the radio
+See you talking on the late, late show
+Every girl wants to be your friend
+
+Don't you know you're always on my mind
+Oh, how I've missed you since you've hit the big time
+Oh, I'm hurting
+I just can't pretend
+
+We used to be together
+Making dreams, making plans
+But you left that world behind
+Now I'm asking you
+Don't you
+
+Let me be the one (Let me be)
+You give your love to
+(The one you need, baby, baby)
+Let me be the one (let me be)
+You give your love to
+(The one that turns your lovin' on)
+
+We used to be together
+Making dreams, making plans
+But you left that world behind
+Now I'm asking you
+Don't you
+
+Let me be the one (let me be)
+You give your love to
+(the one you need, baby, baby)
+Let me be the one (let me be)
+You give your love to
+(I go running to you)
+
+Let me be the one
+You give your love to
+(There's nothing I wouldn't do)
+Let me be the one
+You give your love to (Baby)

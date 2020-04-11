@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-with-me-orleans
+lyrics_url: https://genius.com/Orleans-dance-with-me-lyrics
 name: Dance With Me
 rankings:
 - end_date: '1975-07-25'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
 ---
+Dance with me
+I want to be your partner
+Can't you see the music is just starting
+Night is calling and I am falling
+Dance with me
 
+
+Fantasy could never be so giving
+I feel free I hope that you are willing
+Pick the beat up and kick your feet up
+Dance with me
+
+
+Let it lift you off the ground
+Starry eyes and love is all around us
+I can take you where you want to go
+Oh oh
+
+
+Dance with me
+I want to be your partner
+Can't you see the music is just starting
+Night is calling and I am falling
+Dance with me
+
+
+
+Let it lift you off the ground
+Starry eyes and love is all around us
+I can take you where you want to go
+Oh oh
+
+
+Dance with me
+I want to be your partner
+Can't you see the music is just starting
+Night is calling and I am falling
+Dance with me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-can-t-love-you-michael-stanley-band
+lyrics_url: https://genius.com/Michael-stanley-band-he-cant-love-you-lyrics
 name: He Can't Love You
 rankings:
 - end_date: '1980-11-28'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
 ---
+Everyday, I feel love growin'
+What ya say, about it showin'
+And who's this guy
+Sayin' that he knows how to
+Mystify
+You know, they just come and go
+Honey
+He wants to hold you
+Don't you let him try
+He says he needs you
+But you better pass him by, 'cause
 
+He can't love you like I love you
+Just let me prove it to you
+He can't love you like I love you
+So good at using you but
+He can't love you like I love you
+Come on, let the provin' begin
+Oh, let me in, baby...
+
+Anyway, that you want to
+Anytime, that I can show you
+Listen to me
+And you won't be regrettin'
+And the
+Time we spend, well you won't be
+Forgetting, baby
+'Cause when I hold you
+I'm gonna show you why
+It's like I told you
+I'm no ordinary guy, and...
+
+He wants to hold you
+Don't you let him try
+He says he needs you
+But you better pass him by, 'cause
+
+He can't love you like I love you
+Just let me prove it to you
+He can't love you like I love you
+So good at using you but
+He can't love you like I love you
+Come on, let the provin' begin
+Oh, let me in, baby...

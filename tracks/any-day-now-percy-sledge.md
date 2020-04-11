@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-day-now-percy-sledge
+lyrics_url: https://www.musixmatch.com/lyrics/Percy-Sledge/Any-Day-Now
 name: Any Day Now
 rankings:
 - end_date: '1969-04-18'
@@ -23,4 +24,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+I will hear you say
+Goodbye, my love
+And you'll be on your way
 
+Then my wild beautiful bird
+You will have flown, oh
+I'll be all alone
+Whoa, oh, oh, oh
+
+When your restless eyes
+Meet someone new
+Oh, to my sad surprise
+
+Then the blue shadows
+Will fall all over town, oh
+Love will let me down
+Whoa, oh, oh, oh
+
+Oh, my wild beautiful bird
+You will have flown, oh
+I'll be all alone
+
+I know I shouldn't want to keep you
+If you don't want to stay
+Until you go forever
+
+I'll be holding on
+For dear life
+Holding you this way
+Begging you to stay
+
+When the clock strikes go
+You'll call it off
+And then my tears will flow
+
+Then the blue shadows
+Will fall all over town, oh
+Love will let me down
+'Cause you won't be around
+
+Don't fly away
+My beautiful bird
+Don't, don't fly away

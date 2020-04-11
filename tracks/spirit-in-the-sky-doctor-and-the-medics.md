@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spirit-in-the-sky-doctor-and-the-medics
+lyrics_url: https://genius.com/Doctor-and-the-medics-spirit-in-the-sky-lyrics
 name: Spirit In The Sky
 rankings:
 - end_date: '1986-08-08'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
 ---
+When I die and they lay me to rest
+Gonna go to the place that's best
+When they lay me down to die
+Goin' on up to the Spirit in the sky
 
+Goin' on up to the Spirit in the sky
+That's where I'm gonna go when I die
+When I die and they lay me to rest
+I'm gonna go to the place that's the best
+
+Prepare yourself, you know it a must
+Gotta have a friend named Jesus
+So you know that when you die
+It's gonna recommend you to the Spirit in the sky
+
+Goin' on up to the Spirit in the sky
+That's where you're gonna go when you die
+When I die and they lay me to rest
+I'm gonna go to the place that's the best
+
+Never been a sinner, I've never sinned
+I've got a friend named Jesus
+So you know that when I die
+It's gonna set me up with the Spirit in the sky
+
+Goin' on up to the Spirit in the sky
+That's where you're gonna go when you die
+When I die and they lay me to rest
+I'm gonna go to the place that's the best
+
+Goin' on up to the Spirit in the sky
+That's where you're gonna go when you die
+When I die and they lay me to rest
+I'm gonna go to the place that's the best
+Gonna go to the place that's the best
+Gonna go to the place that's the best
+Gonna go to the place that's the best
+Gonna go to the place that's the best

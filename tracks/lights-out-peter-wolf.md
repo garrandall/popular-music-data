@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lights-out-peter-wolf
+lyrics_url: https://genius.com/Peter-wolf-lights-out-lyrics
 name: Lights Out
 rankings:
 - end_date: '1984-07-20'
@@ -63,4 +64,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
 ---
+Lights out, aha
+Blast, blast, blast
+Lights out, aha
+Blast, blast, blast
+Lights out
 
+Dancing in the dark
+To the radio of love
+Dancing in the dark
+To the radio of love
+
+I know that it's wrong
+To be dancing with no lights on
+And I know that it's wrong
+To be holding you for so long
+
+And for the of the night
+I'll be holding you tight
+So tight
+
+Dancing in the dark
+To the radio of love
+Lights out, aha
+Dancing in the dark
+To the radio of love
+Lights out, aha
+
+Oh, what can I do
+All I need is to dance with you
+And turn the lights down some more
+We're the only ones left on the floor
+
+Let the music play
+I want to hold you this way
+Girl, stay
+
+Dancing in the dark
+To the radio of love
+Lights out, aha
+Dancing in the dark
+To the radio of love
+Lights out, aha
+
+Sha-la-la-la-la-la-la
+Oh, holding you, girl
+Sha-la-la-la-la-la-la
+Oh, baby please
+
+Lights out, aha
+Blast, blast, blast
+Lights out, aha
+Blast, blast, blast
+Lights out
+
+Dancing in the dark
+To the radio of love
+Lights out, aha
+Dancing in the dark
+To the radio of love
+Lights out, aha
+
+Dance, dance, dance
+Radio of love
+Oooh, girl, in the dark
+Shine on, love
+Oooh, girl, in the dark
+Oooooh, aah baby
+Oooh, girl, in the dark

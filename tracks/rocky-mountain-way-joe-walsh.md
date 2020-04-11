@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rocky-mountain-way-joe-walsh
+lyrics_url: https://genius.com/Joe-walsh-rocky-mountain-way-lyrics
 name: Rocky Mountain Way
 rankings:
 - end_date: '1973-08-17'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
 ---
+Spent the last year
+Rocky mountain way
+Couldn't get much higher
+Out to pasture
+I think it's safe to say
+Time to open fire
 
+And we don't need the ladies
+Crying because the story's sad, oh yeah
+Because the rocky mountain way
+Is better than the way we had
+
+Yeah yeah yeah yeah yeah
+Rocky mountain way, ooooh
+
+Well he's telling us this
+He's telling us that
+Changing it everyday
+Say's it doesn't matter
+Bases are loaded and Casey's at bat
+Playing it play by play
+It's time to change the batter
+
+And we don't need the ladies
+Crying because the story's sad, oh yeah
+Because the rocky mountain way
+Is better than the way we had
+
+Yeah yeah yeah yeah yeah
+Rocky mountain way, ooooh
+
+And we don't need the ladies
+Crying because the story's sad, oh yeah
+Because the rocky mountain way
+Is better than the way we had
+
+It's better than the way we had
+So much better
+So much better
+It's so much better
+It's so much better
+
+Yeah yeah yeah yeah yeah
+Rocky mountain way, ooooh

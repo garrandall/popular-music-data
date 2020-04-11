@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-into-something-good-herman-s-hermits
+lyrics_url: https://genius.com/Hermans-hermits-im-into-something-good-lyrics
 name: I'm Into Something Good
 rankings:
 - end_date: '1964-10-23'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
 ---
+Woke up this morning feelin' fine
+There's something special on my mind
+Last night I met a new girl in the neighborhood, whoa yeah
+Something tells me I'm into something good
+(Something tells me I'm into something)
 
+She's the kind of girl who's not too shy
+And I can tell I'm her kind of guy
+She danced close to me like I hoped she would
+(She danced with me like I hoped she would)
+Something tells me I'm into something good
+(Something tells me I'm into something)
+
+We only danced for a minute or two
+But then she stuck close to me the whole night through
+Can I be fallin' in love?
+(She's everything I've been dreamin' of)
+She's everything I've been dreamin' of
+
+I walked her home and she held my hand
+I knew it couldn't be just a one-night stand
+So I asked to see her next week and she told me I could
+(I asked to see her and she told me I could)
+Something tells me I'm into something good
+(Something tells me I'm into something)
+(Something tells me I'm into something, ahhh)
+
+I walked her home and she held my hand
+I knew it couldn't be just a one-night stand
+So I asked to see her next week and she told me I could
+(I asked to see her and she told me I could)
+Something tells me I'm into something good
+(Something tells me I'm into something)
+Something tells me I'm into something good
+(Something tells me I'm into something)
+To something good, oh yeah, something good
+(Something tells me I'm into something)
+To something good, something good, something good

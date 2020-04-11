@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-whip-dazz-band
+lyrics_url: https://genius.com/Dazz-band-let-it-whip-lyrics
 name: Let It Whip
 rankings:
 - end_date: '1982-04-30'
@@ -99,4 +100,141 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
 ---
+Wanna see you with it
+Sho' could treat you right
+Give me just a minute
+Of your time tonight
+We both are here to have good fun
+So let it whip
+We'll get to groovin'
+Love your body language
+Baby, let me know
+You've got me sort of anxious
+We both are here to have good fun
+So let it whip
 
+
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo
+
+
+Now that you can see
+How you groove with me
+What else can I do
+To get closer to you
+We both are here to have good fun
+So let it whip
+We have the natural feeling
+Obviously revealing
+Let me be your paper man
+I'd love to be your joker man
+We both are here to have good fun
+So let it whip
+
+
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo
+
+
+(There's no time to lose)
+There is no time to lose
+(You're the one I choose)
+(You're so right)
+You're the one I choose
+I only wanna be with you
+You're the one for me
+Can't you see that I
+(I won't waste your time)
+I won't waste your time
+(I sense something divine in you)
+Something divine in you
+(Yes I do)
+Oooh-hoo
+
+
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo
+
+
+(There's no time to lose)
+There is no time to lose
+(You're the one I choose)
+(You're so right)
+You're the one I choose
+I only wanna be with you
+You're the one for me
+Can't you see that I
+(I won't waste your time)
+I won't waste your time
+(I sense something divine in you)
+Something divine in you
+(Yes I do)
+Oooh-hoo
+
+
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo
+So let it whip
+(Let's whip it, baby)
+Child
+(Let's whip it right)
+Get a grip
+(Let's whip it baby)
+(Work it all night)
+Well, what's your trip?
+(No no)
+Child
+C'mon let it whip
+Oww-hoo

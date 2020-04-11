@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: werewolves-of-london-warren-zevon
+lyrics_url: https://genius.com/Warren-zevon-werewolves-of-london-lyrics
 name: Werewolves Of London
 rankings:
 - end_date: '1978-03-31'
@@ -55,4 +56,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+I saw a werewolf with a Chinese menu in his hand
+Walking through the streets of Soho in the rain
+He was looking for the place called Lee Ho Fook's
+Gonna get a big dish of beef chow mein
 
+
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+
+
+If you hear him howling around your kitchen door
+You better not let him in
+Little old lady got mutilated late last night
+Werewolves of London again
+
+
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+
+
+
+
+He's the hairy-handed gent who ran amuck in Kent
+Lately he's been overheard in Mayfair
+You better stay away from him
+He'll rip your lungs out, Jim
+I'd like to meet his tailor
+
+
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+Aa-hooo! Werewolves of London!
+Aa-hooo!
+
+
+Well, I saw Lon Chaney walking with the Queen
+Doing the Werewolves of London
+I saw Lon Chaney, Jr. walking with the Queen
+Doing the Werewolves of London
+I saw a werewolf drinking a pina colada at Trader Vic's
+And his hair was perfect!
+
+
+Aa-hooo!
+Werewolves of London!
+Aa-hooo!
+Werewolves of London!

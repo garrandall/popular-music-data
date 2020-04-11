@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-way-love-the-drifters
+lyrics_url: https://genius.com/The-drifters-one-way-love-lyrics
 name: One Way Love
 rankings:
 - end_date: '1964-05-08'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
 ---
+Go and find the kind of girl
+Who thinks you're the
+Only guy in the world
 
+No more half hearted kisses
+That's bad enough
+Whoa, oh, no more teardrops
+
+No more (one way love)
+No, no more (one way love)
+
+Don't look for someone
+Who likes to love fast
+You know that kind of love
+Will never last
+
+If she's fast and furious
+Aww, that can be tough
+But oh, if she's kinda serious
+
+You'll never have a (one way love)
+Oh, you'll never have a (one way love)
+Well, there are girls
+Who like to cheat and flirt
+Those kind of girls are worst of all
+How they lie, whoa, how they hurt
+And you (soon will fall)
+She's gonna (make you fall)
+
+Take it from me
+I know what I say
+I'll find me a girl
+Who don't like to play
+
+Aww, that game of heartbreak
+That's mighty rough
+Whoa, oh, no more
+Fancy painted up women
+
+No more (one way love)
+Oh, no more, no more (one way love)
+I don't want a (one way love)
+Plain old fashioned (one way love)

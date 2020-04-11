@@ -1,6 +1,7 @@
 ---
 artists:
-- Doug Franklin With The Bluenotes
+- Doug Franklin
+- The Bluenotes
 features: []
 genres: []
 key: my-lucky-love-doug-franklin-with-the-bluenotes

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-the-groove-cartouche
+lyrics_url: https://genius.com/Cartouche-feel-the-groove-lyrics
 name: Feel The Groove
 rankings:
 - end_date: '1991-04-19'
@@ -47,4 +48,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
 ---
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
 
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Drop that ghetto blaster
+
+To the Bat Cave, let's go
+
+My head is numb, without thought it was
+My heart is numb but you thought it did
+When I look in the mirror, it just takes place
+'Cause when I see, I see your face
+
+Now you don't know what's going on
+'Cause you just think that I've been wrong
+But I tell you, babe, what's going on
+It is your feeling that's too strong
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+House music all night long
+House music all night long
+House music all night long
+Drop that ghetto blaster
+
+House music all night long
+House music all night long
+House music all night long
+To the Bat Cave, let's go
+
+We knew this love was just a game
+I thought you felt, you felt the same
+And now it's time for you to say
+That I must go my own way
+
+Now here I am, all alone
+Waiting for you by the phone
+'Cause I can't live without you no more
+I only love you and that's for sure
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Drop that ghetto blaster
+To the Batmobile, let's go
+
+My head is numb, without thought it was
+My heart is numb but you thought it did
+When I look in the mirror, it just takes place
+'Cause when I see, I see your face
+
+Now you don't know what's going on
+'Cause you just think that I've been wrong
+But I tell you, babe, what's going on
+It is your feeling that's too strong
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Think I better let you know
+That it's time for you to go
+'Cause you're gonna break my heart
+
+Think I better let you know
+That it's time...

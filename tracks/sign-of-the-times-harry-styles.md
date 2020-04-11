@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sign-of-the-times-harry-styles
+lyrics_url: https://genius.com/Harry-styles-sign-of-the-times-lyrics
 name: Sign Of The Times
 rankings:
 - end_date: '2017-05-05'
@@ -59,4 +60,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
 ---
+Just stop your crying, it's a sign of the times
+Welcome to the final show
+Hope you're wearing your best clothes
+You can't bribe the door on your way to the sky
+You look pretty good down here
+But you ain't really good
 
+
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+
+
+Just stop your crying, it's a sign of the times
+We gotta get away from here
+We gotta get away from here
+Just stop your crying, it'll be alright
+They told me that the end is near
+We gotta get away from here
+
+
+Just stop your crying, have the time of your life
+Breaking through the atmosphere
+And things are pretty good from here
+Remember everything will be alright
+We can meet again somewhere
+Somewhere far away from here
+
+
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+
+
+Just stop your crying, it's a sign of the times
+We gotta get away from here
+We gotta get away from here
+Stop your crying, baby, it'll be alright
+They told me that the end is near
+We gotta get away from here
+
+
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+We never learn, we been here before
+Why are we always stuck and running from
+The bullets? The bullets?
+
+
+We don't talk enough, we should open up
+Before it's all too much
+Will we ever learn? We've been here before
+It's just what we know
+
+
+Stop your crying, baby, it's a sign of the times
+We gotta get away, we got to get away
+We got to get away, we got to get away
+We got to get away
+We got to, we got to, away
+We got to, we got to, away
+We got to, we got to, away

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-know-her-like-i-do-brantley-gilbert
+lyrics_url: https://genius.com/Brantley-gilbert-you-dont-know-her-like-i-do-lyrics
 name: You Don't Know Her Like I Do
 rankings:
 - end_date: '2011-10-07'
@@ -103,4 +104,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
 ---
+Hey old friend, thanks for callin'
+It's good to know somebody cares
+Yeah she's gone, but I don't feel like talkin'
+To hear somebody say it stops hurting
+Or to hear somebody say she ain't worth it
 
+
+'Cause you don't know her like I do
+You'll never understand
+You don't know we've been through
+That girl's my best friend
+And there's no way you're gonna help me
+She's the only one who can
+No, you don't know how much I've got to lose
+You don't know her like I do
+
+
+I can't forget, I'm drowning in these memories
+It fills my soul with all the little things
+And I can't cope, it's like a death inside the family
+It's like she stole my way to breathe
+So don't try to tell me I'll stop hurting
+Don't try to tell me she ain't worth it
+
+
+'Cause you don't know her like I do
+You'll never understand
+You don't know we've been through
+That girl's my best friend
+And there's no way you're gonna help me
+She's the only one who can
+No, you don't know how much I've got to lose
+You don't know her like I do
+
+'Cause you don't know her like I do
+You'll never understand
+You don't know we've been through
+That girl's my best friend
+And there's no way you're gonna help me
+She's the only one who can
+No, you don't know how much I've got to lose
+You don't know her like I do
+
+
+Not like I do
+Never understand
+That girl's my best friend
+That girl's my best friend
+That girl's my best friend

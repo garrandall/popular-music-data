@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peter-piper-frank-mills
+lyrics_url: https://genius.com/Frank-mills-peter-piper-lyrics
 name: Peter Piper
 rankings:
 - end_date: '1979-11-09'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-29'
 ---
-
+Instrumental

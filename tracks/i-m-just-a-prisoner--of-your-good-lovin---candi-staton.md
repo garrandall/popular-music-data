@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-just-a-prisoner--of-your-good-lovin---candi-staton
+lyrics_url: https://genius.com/Candi-staton-im-just-a-prisoner-lyrics
 name: I'm Just A Prisoner (Of Your Good Lovin')
 rankings:
 - end_date: '1970-01-09'
@@ -39,4 +40,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+I'd rather be lonely
+Than to lose you
+I'd rather be blue
+Than to be all alone
 
+'Cause if you leave me
+My heart would grieve me
+And my poor heart, no, no
+Just couldn't stand the pain
+
+Though your love
+Has got me in captivity, yeah
+Yet if you should leave me
+I know I would die
+
+Yeah, in other words
+In other words
+Listen, I just couldn't take it, baby
+I couldn't stand
+For you to say goodbye
+
+Now, I'm just a prisoner
+For your good loving
+I'm just a slave
+Bound and chained
+
+No, no, I don't wanna ever be free
+So please don't ever leave me
+For my poor heart
+Just couldn't stand the pain
+
+Though your love
+Oh, yeah, got me in captivity
+Yet if you should leave me
+I know I would die
+
+Yeah, yeah, yeah, yeah
+In other words, in other words
+I just couldn't take it, baby
+I couldn't stand, ho
+To say goodbye
+Yeah, yeah, yeah, yeah
+
+I'm just a prisoner, oh
+For your good loving, yes, I am
+Listen, I'm just a slave
+Bound and chained
+
+No, no, no, no
+I don't ever wanna be free
+Oh, no, so don't ever leave me
+For my poor heart
+Just couldn't stand the pain
+
+Yeah, yeah, yeah, yeah, yeah
+I'm just a prisoner
+Just a prisoner
+
+I done tried
+I done tried and
+I can't live without him
+I can't live without him
+I can't live without him

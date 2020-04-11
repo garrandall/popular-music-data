@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everyone-s-gone-to-the-moon-jonathan-king
+lyrics_url: https://genius.com/Jonathan-king-everyones-gone-to-the-moon-lyrics
 name: Everyone's Gone To The Moon
 rankings:
 - end_date: '1965-10-01'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
 ---
+Streets full of people
+All alone
+Roads full of houses
+Never home
+Church full of singing
+Out of tune
+Everyone's gone to the moon
 
+Eyes full of sorrow
+Never wet
+Hands full of money
+All in debt
+Sun coming out in
+The middle of June
+Everyone's gone to the moon
+
+Long time ago
+Life has begun
+Everyone went to the sun
+
+Cars full of motors
+Painted green
+Mouths full of chocolate
+Covered cream
+Arms that can only
+Lift a spoon
+Everyone's gone to the moon
+
+Everyone's gone to the moon
+Everyone's gone to the moon

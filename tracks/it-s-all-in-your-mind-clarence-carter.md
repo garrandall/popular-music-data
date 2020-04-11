@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-in-your-mind-clarence-carter
+lyrics_url: https://genius.com/Clarence-carter-its-all-in-your-mind-lyrics
 name: It's All In Your Mind
 rankings:
 - end_date: '1970-11-13'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
 ---
+There's A Kind Of Hush All Over The World Tonight
+All over the world You can hear the sounds of lovers in love
+You know what I mean
+Just the two of us and nobody else in sight
+There's nobody else and I'm feeling good just holding you tight
 
+So listen very carefully
+Closer now and you will see what I mean
+It isn't a dream
+The only sound that you will hear is
+When I whisper in you ear, I love you, forever and ever
+There's A Kind Of Hush All Over The World Tonight
+All over the world You can hear the sounds of lovers in love
+
+There's A Kind Of Hush All Over The World Tonight
+All over the world You can hear the sounds of lovers in love
+You know what I mean
+Just the two of us and nobody else in sight
+There's nobody else and I'm feeling good just holding you tight
+
+So listen very carefully
+Closer now and you will see what I mean
+It isn't a dream
+The only sound that you will hear is
+When I whisper in you ear, I love you, forever and ever
+There's A Kind Of Hush All Over The World Tonight
+All over the world You can hear the sounds of lovers in love

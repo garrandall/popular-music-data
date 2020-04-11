@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-forever-lisette-melendez
+lyrics_url: https://genius.com/Lisette-melendez-together-forever-lyrics
 name: Together Forever
 rankings:
 - end_date: '1991-02-08'
@@ -83,4 +84,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
 ---
+It's been so long since
+We've been friends in need
+And how the love we share in our hearts
+To try to keep us apart
 
+It took sometime to build this Trust in me
+But now you're all I have too inside
+You want the best of my love
+
+
+To keep away from the thoughts that we share
+Is to feel the pain that
+I feel when you're there
+
+See what you want to see
+But please have (some) faith in me
+
+
+Together forever yours
+Together forever mine
+Facing what we feel inside
+Ready to stand the test of time
+
+
+I've seen us come together in my dreams
+And felt the kiss that
+Makes me love you
+Enough to see us through
+
+It took sometime to feel
+The way I feel
+That's why I know I'm here forever
+And you will always be there
+
+
+To keep away from the thoughts
+That we share
+Is to feel the pain that I feel
+When you're there
+
+See what you want to see
+But please have (some) faith in me
+
+
+
+
+(Come on)
+Together
+(I can't wait)
+Forever
+(Come on)
+Together
+(Yeah yeah)
+
+Forever
+(Come on)
+Together
+(I can't wait)
+Forever
+(Come on)
+Together
+(Yeah yeah)
+Forever
+
+(Come on)
+Together
+(I can't wait)
+Forever
+(Come on)
+Together
+(Yeah yeah)
+
+Forever
+(Come on)
+Together
+(I can't wait for love)

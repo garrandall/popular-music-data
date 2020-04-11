@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-woman-jade
+lyrics_url: https://genius.com/Jade-one-woman-lyrics
 name: One Woman
 rankings:
 - end_date: '1993-06-11'
@@ -87,4 +88,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
 ---
+Shoo doo doo wop! 4x
 
+
+You never have to worry about my love
+As long as you're taking care of business
+With my heart
+See, I'm a kind of girl
+To dedicate my world
+And you gotta give me all you got
+I need it all, baby
+Every drop
+
+
+You got to show me
+And mean the words you say
+It's not a game for me, baby
+It's just not that way
+
+
+I'm only one woman, baby
+Treat me like a lady
+You gotta take the time to show me
+That I'm your one and only
+I'm only one woman, baby
+And I need a one woman man
+
+Shoo doo doo wop! 7x
+
+
+You never have to wonder if I care
+If you're sharing the way
+I feel for love you know I'm real
+
+I'm the kind of girl
+To dedicate my world
+But you gotta give me all you got
+I need it all, baby
+Every drop
+
+You got to show me
+And mean the words you say
+It's not a game for me, baby
+It's just not that way
+
+You got to show me
+And mean the words you say
+It's not a game for me, baby
+It's just not that way
+
+I'm only one woman, baby
+Treat me like a lady
+You gotta take the time to show me
+That I'm your one and only
+I'm only one woman, baby
+And I need a one woman man
+
+I'm only one woman, baby
+Treat me like a lady
+You gotta take the time to show me
+That I'm your one and only
+I'm only one woman, baby
+And I need a one woman man
+
+I'm only one woman, baby
+Treat me like a lady
+You gotta take the time to show me
+That I'm your one and only
+I'm only one woman, baby
+And I need a one woman man
+
+I'm only one woman, baby
+Treat me like a lady
+You gotta take the time to show me
+That I'm your one and only
+I'm only one woman, baby
+And I need a one woman man

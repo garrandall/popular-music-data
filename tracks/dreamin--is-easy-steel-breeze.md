@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamin--is-easy-steel-breeze
+lyrics_url: https://genius.com/Steel-breeze-dreamin-is-easy-lyrics
 name: Dreamin' Is Easy
 rankings:
 - end_date: '1983-01-21'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
 ---
+You can call me at midnight
+Cause I'll be waiting at home
+And I'm impatient to answer
 
+Got my hand on the phone
+But it just doesnt ring
+There's never any answer at all
+
+
+Dreamin' is easy
+But no one likes to dream alone
+Dreamin' is easy
+But no one likes to dream
+No one likes to dream alone
+
+
+I don't know how to reach you
+If I could just break this spell
+Do you think you could love me?
+
+There's only one other way to tell
+Every time I call
+There's never any answer at all
+
+
+
+
+When will you realize
+I just won't go away
+Not unless you say it from your heart
+
+When will you realize
+It could happen any day
+Could it be like that from the start

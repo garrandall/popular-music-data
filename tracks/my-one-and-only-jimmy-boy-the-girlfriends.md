@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-one-and-only-jimmy-boy-the-girlfriends
+lyrics_url: https://genius.com/The-girlfriends-2-my-one-and-only-jimmy-boy-lyrics
 name: My One And Only Jimmy Boy
 rankings:
 - end_date: '1964-01-03'
@@ -35,4 +36,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
 ---
+Here he comes
+The boy I'll always love
+He's the one
+That I've been dreaming of
+He's my pride
+He's my joy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy
 
+Other girls
+Watch us walking by
+Bet they wish
+Jimmy was their guy
+He's my pride
+He's my joy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy
+
+It seems my love for him gets stronger each day
+And I keep waiting for the time when I will hear him say:
+"Do you know
+I want to marry you?
+'Cause inside
+I know our love is true"
+
+He's my pride
+He's my joy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy
+
+
+
+He's my pride
+He's my joy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy
+He's my one and only Jimmy boy (Jimmy boy, Jimmy boy)
+He's my one and only Jimmy boy...

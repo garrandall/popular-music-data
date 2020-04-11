@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goin--out-of-my-head-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-goin-out-of-my-head-cant-take-my-eyes-off-you-lyrics
 name: Goin' Out Of My Head
 rankings:
 - end_date: '1967-12-15'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
 ---
+Well, I think I'm goin' out of my head
+Yes, I think I'm goin' out of my head
+Over you
+Over you
 
+I want you to want me
+I need you so badly I can't think of anything but you--
+
+You're just too good to be true
+Can't take my eyes off of you
+You'd be like heaven to touch
+I wanna hold you so much
+At long last, love has arrived
+And I thank God I'm alive
+You're just too good to be true
+Can't take my eyes off of you
+
+Goin' out of my head over you
+Out of my head over you
+Out of my head
+Day and night, night and day and night, wrong or right
+
+I love you, baby, and if it's quite alright, I need you baby
+To warm the lonely night
+I love you, baby
+Trust in me when I say
+Oh! Pretty baby, don't bring me down, I pray
+Oh, pretty baby, now that I've found you, stay
+And let me love you, baby, let me love you...
+
+I want you to want me
+I need you so badly, I can't think of anything but you
+Goin' out of my head over you (Can't take my eyes off of you)
+Out of my head (You're just to good to be true)
+Out of my head, day and night, night and day and night, wrong or right
+Night and day and night, wrong or right
+Night and day and night
+And I think I'm goin' out of my... head

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-do-the-beatles
+lyrics_url: https://genius.com/The-beatles-love-me-do-lyrics
 name: Love Me Do
 rankings:
 - end_date: '1964-04-17'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
+Love, love me do
+You know I love you
+I'll always be true
+So please, love me do
+Whoa, love me do
 
+
+Love, love me do
+You know I love you
+I'll always be true
+So please, love me do
+Whoa, love me do
+
+
+Someone to love
+Somebody new
+Someone to love
+Someone like you
+
+
+Love, love me do
+You know I love you
+I'll always be true
+So please, love me do
+Whoa, love me do
+
+
+
+
+Love, love me do
+You know I love you
+I'll always be true
+So please, love me do
+Whoa, love me do
+Yeah, love me do
+
+
+Whoa, oh, love me do
+Yeah, love me do
+Why don't you love me do

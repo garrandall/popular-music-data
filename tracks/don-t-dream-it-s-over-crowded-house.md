@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-dream-it-s-over-crowded-house
+lyrics_url: https://genius.com/Crowded-house-dont-dream-its-over-lyrics
 name: Don't Dream It's Over
 rankings:
 - end_date: '1987-01-23'
@@ -103,4 +104,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
 ---
+There is freedom within, there is freedom without
+Try to catch a deluge in a paper cup
+There's a battle ahead, many battles are lost
+But you'll never see the end of the road while you're traveling with me
 
+
+Hey now, hey now, don't dream it's over
+Hey now, hey now, when the world comes in
+They come, they come to build a wall between us
+We know they won't win
+
+
+Now I'm towing my car, there's a hole in the roof
+My possessions are causing me suspicion but there's no proof
+In the paper today, tales of war and of waste
+But you turn right over to the TV page
+
+
+Hey now, hey now, don't dream it's over
+Hey now, hey now, when the world comes in
+They come, they come to build a wall between us
+We know they won't win
+
+
+
+
+Now I'm walking again to the beat of a drum
+And I'm counting the steps to the door of your heart
+Only shadows ahead, barely clearing the roof
+Get to know the feeling of liberation and release
+
+
+Hey now, hey now, don't dream it's over
+Hey now, hey now, when the world comes in
+They come, they come to build a wall between us
+You know they won't win
+
+
+Don't let them win
+Hey now, hey now
+Hey now, hey now
+Hey now, hey now
+Don't let them win
+They come, they come
+Don't let them win
+Hey now, hey now (yeah)
+Hey now, hey now

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kansas-city-star-roger-miller
+lyrics_url: https://genius.com/Roger-miller-kansas-city-star-lyrics
 name: Kansas City Star
 rankings:
 - end_date: '1965-09-17'
@@ -35,4 +36,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
 ---
+Got a letter just this morning
+It was postmarked Omaha
+It was typed and neatly written
+Offering me this better job
+Better job with higher wages
+Expenses paid and a car
+But I'm on TV here locally
+I can't quit, I'm a star
 
+I come on the TV
+Grinnin', wearing pistols and a hat
+It's a kiddie show and I'm a hero
+Of the younger set
+I'm the number one attraction
+In every supermarket parking lot
+I'm the king of Kansas City
+No thanks Omaha, thanks a lot
+
+Kansas City Star
+That's what I are
+Yoodledy you aught to see my car
+I drive a big old Cadillac with white wheels
+I got rhinestones on my spokes
+I've got credit down at the grocery store
+And my barber tells me jokes
+I'm the number one attraction
+In every supermarket parking lot
+I'm the king of Kansas City
+No thanks Omaha, thanks a lot
+
+Da da da da de da
+Baa ba de baa ba ba bu
+Baa ba bee
+Baa Ba buu buu diddly
+Ba da da da da da
+
+Kansas City Star
+That's what I are
+Yoodledy you aught to see my car
+I drive a big old Cadillac with wired wheels
+I got rhinestones on my spokes
+I've got credit down at my grocery store
+And my barber tells me jokes
+
+I'm the number one attraction
+In every supermarket parking lot
+I'm the king of Kansas City
+No thanks Omaha, thanks a lot
+
+Stay tuned we're going to have a Popeye cartoon in a minute

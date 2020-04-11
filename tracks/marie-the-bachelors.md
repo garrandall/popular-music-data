@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: marie-the-bachelors
+lyrics_url: https://genius.com/The-bachelors-marie-lyrics
 name: Marie
 rankings:
 - end_date: '1965-06-18'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
 ---
+(Irving Berlin)
 
+Marie, Marie, Marie
+
+Marie, the dawn is breaking
+Marie, (ooh, Marie) you'll soon be waking
+To find you heart is aching
+And tears (and tears) will fall (will fall) as you recall
+The moon in all its splendor
+A kiss (ooh, a kiss) so very tender
+The words, "Will you surrender
+To me, (Marie), Marie, (Marie-ee)?"
+
+Marie, you'll soon be waking
+To find you heart is aching
+And tears (and tears) will fall (will fall) as you recall
+The moon in all its splendor
+A kiss (ooh, a kiss) so very tender
+The words, "Will you surrender
+To me, (Marie), Marie, (Marie) Marie (Marie-ee-ee)?"

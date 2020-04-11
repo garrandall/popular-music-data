@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-potion-number-nine-the-searchers
+lyrics_url: https://genius.com/The-searchers-love-potion-number-nine-lyrics
 name: Love Potion Number Nine
 rankings:
 - end_date: '1964-12-04'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
 ---
-
+I took my troubles down to Madame Ruth
+You know that gypsy with the gold-capped tooth
+She's got a pad down on Thirty-Fourth and Vine
+Sellin' little bottles of Love Potion Number Nine
+I told her that I was a flop with chicks
+I'd been this way since 1956
+She looked at my palm and she made a magic sign
+She said, "What you need is Love Potion Number Nine"
+She bent down and turned around and gave me a wink
+She said, "I'm gonna make it up right here in the sink"
+It smelled like turpentine, it looked like India ink
+I held my nose, I closed my eyes, I took a drink
+I didn't know if it was day or night
+I started kissin' everything in sight
+But when I kissed a cop down on Thirty-Fourth and Vine
+He broke my little bottle of Love Potion Number Nine
+I held my nose, I closed my eyes, I took a drink
+I didn't know if it was day or night
+I started kissin' everything in sight
+But when I kissed a cop down on Thirty-Fourth and Vine
+He broke my little bottle of Love Potion Number Nine
+Love Potion Number Nine, Love Potion Number Nine
+Love Potion Number Nine

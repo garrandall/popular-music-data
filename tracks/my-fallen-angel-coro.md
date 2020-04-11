@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-fallen-angel-coro
+lyrics_url: https://genius.com/Coro-my-fallen-angel-lyrics
 name: My Fallen Angel
 rankings:
 - end_date: '1991-07-19'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
 ---
+Rising high
+In the morning and the night
+Feeling low
+Never knowing where you'll fall
 
+Hypnotized
+Nothing can make you feel this way
+No way out
+'Cause now you're trapped and can't go back
+
+Why couldn't you come to me
+Knowing I'll be there for you
+Is love so strong, why can't you turn around
+And look for me my baby
+I love you
+
+Don't do the things you do
+My fallen angel
+My heartbreak love
+Make your body turn away
+So give it up baby
+
+So look at yourself now
+Can't speak true words
+Only deception looks your way
+Deception looks your way
+
+And so you're alone now
+Turned away from friends
+Look in the mirror and can't you see
+So now can't you see my baby
+
+Don't do the things you do
+My fallen angel
+My heartbreak love
+Make your body turn away
+So give it up baby
+(So give it up baby)
+(So give it up baby)
+
+Why couldn't you come to me
+Knowing I'll be there for you
+Is love so strong, why can't you turn around
+And look for me my baby
+I love you
+
+Don't do the things you do
+My fallen angel
+My heartbreak love
+Make your body turn away
+So give it up baby
+
+Don't do the things you do
+My fallen angel
+My heartbreak love
+Make your body turn away
+So give it up baby

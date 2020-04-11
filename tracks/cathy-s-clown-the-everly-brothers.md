@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cathy-s-clown-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-cathys-clown-lyrics
 name: Cathy's Clown
 rankings:
 - end_date: '1960-04-24'
@@ -75,4 +76,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
 ---
+Don't want your love any more
+Don't want your kisses, that's for sure
+I die each time I hear this sound
+Here he comes, that's Cathy's clown
 
+I've got to stand tall, you know a man can't crawl
+For when he knows you're telling lies
+And he hears them passing by
+He's not a man at all
+
+
+
+When you see me shed a tear
+And you know that it's sincere
+Don't you think it's kind of sad, that you're treating me so bad?
+Or don't you even care?
+
+
+Don't want your love any more
+Don't want your kisses , that's for sure
+I die each time I hear this sound
+Here he comes, that's Cathy's clown
+That's Cathy's clown, that's Cathy's clown

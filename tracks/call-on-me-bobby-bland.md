@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-on-me-bobby-bland
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Bland-2/Call-On-Me
 name: Call On Me
 rankings:
 - end_date: '1963-01-11'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
 ---
+Love and affection, a heart so true
+A-yours for the asking
+I've got it alright a-here for you
 
+You needn't be lonely, you shouldn't be blue
+I'll design a life of love for you
+And here's all you've got to do
+
+When you need a good loving
+When you need a good kissing
+When you need a good hugging
+Yeah, yeah, yeah, yeah
+Won't you call on me?
+
+You can't live alone dear
+Your whole life through
+Everybody needs a future
+And I can see my future in you
+
+When you need a good loving
+When you need a good kissing
+When you need a good hugging
+Yeah, yeah, yeah, yeah
+Won't you call on me?
+
+You can't live alone dear
+Your whole life through
+Everybody has a future
+And I can see my future in you
+
+When you need a good loving
+When you need a good kissing
+When you need a good loving, yeah, yeah
+Won't you call on me?
+Won't you call on me?

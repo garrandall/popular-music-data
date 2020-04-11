@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-her-she-s-lovely-el-chicano
+lyrics_url: https://genius.com/El-chicano-tell-her-shes-lovely-lyrics
 name: Tell Her She's Lovely
 rankings:
 - end_date: '1973-11-23'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
+Da da da da....
+Tell her
+Tell her she's lovely
+Tell her
+She knows how to suffer
 
+People wanna figure that
+They're the only ones
+Who really are alone
+
+People wanna figure that
+They're the only ones
+Who really are alone
+
+People are so beautiful in love
+People are so wonderful to love
+
+(CHORUS)
+People wanna think that
+They're the only ones who
+Really are alone, ooh
+Thinking a little bit over
+Trying to know one another
+Waiting a little bit longer
+Thinking a little bit over, yeah
+
+Tell her
+Love is a song
+Sing out, sing out
+All night long
+
+(CHORUS)
+Tell her
+Tell her she's lovely
+Tell her
+Tell her she's lovely
+
+Tell her
+Tell her she's lovely
+Tell her
+Tell her she's lovely
+
+Tell her
+Tell her she's lovely....

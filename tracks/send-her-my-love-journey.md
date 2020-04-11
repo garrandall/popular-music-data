@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-her-my-love-journey
+lyrics_url: https://genius.com/Journey-send-her-my-love-lyrics
 name: Send Her My Love
 rankings:
 - end_date: '1983-09-30'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
 ---
+It's been so long
+Since I've seen her face
+You say she's doing fine
+I still recall
+A sad cafe
+How it hurt so bad to see her cry
+I didn't want to say good-bye
 
+
+Send her my love, memories remain
+Send her my love, roses never fade
+Send her my love
+
+
+The same hotel, the same old room
+I'm on the road again
+She needed so much more
+Than I could give
+We knew our love could not pretend
+Broken hearts can always mend
+
+
+
+
+Calling out her name I'm dreaming
+Reflections of a face I'm seeing
+It's her voice
+That keeps on haunting me

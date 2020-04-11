@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: life-ain-t-easy-cleopatra
+lyrics_url: https://genius.com/Cleopatra-life-aint-easy-lyrics
 name: Life Ain't Easy
 rankings:
 - end_date: '1998-11-06'
@@ -27,4 +28,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+(Life ain't easy
+Gonna change
+Don't just listen
+Think about it, life ain't easy)
 
+When I see those people sitting hungry in the street
+I put myself in their shoes, finding safer places to sleep
+People just walk past them when they know there's something wrong
+When all I want to know is why this whole thing's going on because
+
+(Life ain't easy) And how we are is (Gonna change)
+And make this world a better place (Don't just listen)
+Oooh, you gotta take it in
+Think about it and then we can begin (Life ain't easy)
+
+Life don't fast forever and forever isn't long
+So take a chance in life at the moment you can hear this song
+No use just thinking about what tomorrow brings
+You've got to lift your head up high and do the right thing because
+
+(Life ain't easy) And how we are is (Gonna change)
+And make this world a better place (Don't just listen)
+Oooh, you gotta take it in
+Think about it and then we can begin (Life ain't easy)
+
+(Life ain't easy) Ooohooohooohooo
+No, no, no (It ain't easy
+It ain't easy)
+
+What I'm telling you is (Life ain't easy)
+(Gonna change)
+(Don't just listen)
+(Think about it, life ain't easy) I'm saying
+
+(Life ain't easy) Oooh, life ain't easy (Gonna change)
+Ooohooo, ooohooo, darling (Don't just listen)
+You gotta take it, take it
+Think about it) and then we can begin (Life ain't easy)
+
+(Life, it ain't easy) It ain't easy
+(Oh, life just ain't easy) No, life ain't easy
+(Life just ain't easy) Take it in, ohoho
+(Oh, life just ain't easy)
+
+(Life)

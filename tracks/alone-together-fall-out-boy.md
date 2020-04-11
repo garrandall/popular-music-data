@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-together-fall-out-boy
+lyrics_url: https://genius.com/Fall-out-boy-alone-together-lyrics
 name: Alone Together
 rankings:
 - end_date: '2013-12-20'
@@ -39,4 +40,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
 ---
+I don't know where you're going
+But do you got room for one more troubled soul?
+I don't know where I'm going
+But I don't think I'm coming home
+And I said, "I'll check in tomorrow if I don't wake up dead"
+This is the road to ruin and we're starting at the end
 
+
+Say, yeah, (yeah!) let's be alone together (yeah!)
+We could stay young forever (yeah!)
+Scream it from the top of your lungs (yeah!)
+Say, yeah, (yeah!) let's be alone together (yeah!)
+We can stay young forever (yeah!)
+We'll stay young, young, young, young, young
+Uh, uh, uh, uh-oh, uh, uh, uh, uh-oh
+Uh, uh, uh, uh-oh, uh, uh, uh, uh-oh
+
+
+Cut me off, I lost my track, it's not my fault, I'm a maniac
+It's not funny anymore, no it's not
+My heart is like a stallion, they love it more when it's broken
+Do you wanna feel beautiful, do you wanna, yeah
+
+
+I'm outside the door, invite me in
+So we can go back and play pretend
+I'm on deck, I'm up next
+Tonight I'm high as a private jet, cause
+
+
+I don't know where you're going
+But do you got room for one more troubled soul?
+I don't know where I'm going
+But I don't think I'm coming home
+And I said, "I'll check in tomorrow if I don't wake up dead"
+This is the road to ruin and we're starting at the end
+
+
+Say, yeah, (yeah!) let's be alone together (yeah!)
+We could stay young forever (yeah!)
+Scream it from the top of your lungs (yeah!)
+Say, yeah, (yeah!) let's be alone together (yeah!)
+We can stay young forever (yeah!)
+We'll stay young, young, young, young, young
+Uh, uh, uh, uh-oh, uh, uh, uh, uh-oh
+Uh, uh, uh, uh-oh, uh, uh, uh, uh-oh
+
+
+My heart is like a stallion, they love it more when it's broken
+Do you wanna feel beautiful, do you wanna, yeah
+
+
+I'm outside the door, invite me in
+So we can go back and play pretend
+I'm on deck, I'm up next
+Tonight I'm high as a private jet, yeah
+
+
+(Yeah!) Let's be alone together (yeah!)
+We could stay young forever (yeah!)
+Scream it from the top of your lungs
+Say, yeah, (yeah!) let's be alone together (yeah)
+We could stay young forever (yeah!)
+We'll stay young-yo-yo-young, I-I-
+
+
+I don't know where you're going
+But do you got room for one more troubled soul?
+I don't know where I'm going
+But I don't think I'm coming home
+And I said, "I'll check in tomorrow if I don't wake up dead"
+This is the road to ruin and we're starting at the end

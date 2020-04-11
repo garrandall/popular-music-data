@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-s-the-same--ain-t-nothing-changed--billy-swan
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Swan/Everything-s-the-Same-Ain-t-Nothing-Changed
 name: Everything's The Same (Ain't Nothing Changed)
 rankings:
 - end_date: '1975-11-07'
@@ -27,4 +28,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
+You went away and left me
+'Cause you thought
+You could hurt me
+But I got news for you
 
+I'm still strong
+And you are wrong
+To think you'd leave
+And I'd turn blue
+
+Everything's the same
+There ain't nothing changed
+The sun still shines
+And the rain still rains
+
+And I'm still me and
+You're still you, too, you see
+Everything's the same
+There ain't nothing changed
+
+Since you've been gone
+I still do what I do
+No, I haven't changed
+My habits a bit
+
+I still eat, I still sleep
+I still go to work
+And when my workday's done, I git
+
+Everything's the same
+(Everything's the same)
+There ain't nothing changed
+(Ain't nothing changed)
+The sun still shines
+(The sun still shines)
+And the rain still rains
+
+And I'm still me and
+You're still you, too, you see
+Everything's the same
+Honey, nothing's changed
+
+Everything's the same
+(Everything's the same)
+There ain't nothing changed
+(Ain't nothing changed)
+The sun still shines
+(The sun still shines)
+And the rain still rains

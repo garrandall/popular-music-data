@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-are-what-we-are-the-other-ones
+lyrics_url: https://www.musixmatch.com/lyrics/The-Other-Ones/We-Are-What-We-Are
 name: We Are What We Are
 rankings:
 - end_date: '1987-04-24'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
 ---
+The sun came pouring upon my face
+I heard the silence of empty space
+Took my passion, my dream of life
+Left me, oh, too weak to fight
+Please don't say it
+I won't take it anymore
+Why should I run and hide?
+We, we are what we are
+Oh, we're just like anybody else
+Oh, we are what we are
+Oh, we only want to be ourselves
+Look above me, look all around
+Imagination is what I've found
+I never asked you to go away
+Didn't want to, oh, cause you pain
+Please don't say it
+I won't take it anymore
+Why should I run and hide?
+We, we are what we are
+Oh, we're just like anybody else
+Oh, we are what we are
+Oh, we only want to be ourselves
+Ourselves, ourselves
 
+We, we are what we are
+Oh, we're just like anybody else
+Oh, we, we are what we are
+Oh, we only want to be ourselves
+We are what we are (we're just like anybody else)
+Oh, we're just like anybody else (we are what we are)
+Oh, we are what we are
+Oh, we only want to be ourselves
+Oh, we, we are what we are
+Oh, we're just like anybody else
+Oh, we, we are what we are
+Oh, we only want to be ourselves
+Oh, we are what we are (we're just like anybody else)
+Oh, we're just like anybody else (we are what we are)
+Oh, we, we are what we are
+Oh, we only want to be ourselves

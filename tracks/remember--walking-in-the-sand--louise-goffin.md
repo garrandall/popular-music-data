@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember--walking-in-the-sand--louise-goffin
+lyrics_url: https://genius.com/Louise-goffin-i-cant-remember-why-lyrics
 name: Remember (Walking In The Sand)
 rankings:
 - end_date: '1979-08-24'
@@ -43,4 +44,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+I saw you in the supermarket, looking like a worker department
+Everyone had told me you were dead
+Radiating happiness while I spilled chocolate on my dress
+Then I turned to pretty shade of red
 
+On the trail of who I was
+You fit me like a pair of gloves
+Years went by, what was it that was said
+
+I can't remember why
+Do you remember why?
+I can't remember why
+I was ever mad at you?
+
+I'm feeling like an idiot, 'cause I forget what you went and did
+I'm certain it was some kinda mistake
+I was young and broke your heart, I was needy
+Was it smart for me to break it up and run way
+
+Is this a well learned lesson
+Doesn't makes me a better person than I was
+Even if to have you, it's too late
+
+I can't remember why
+Do you remember why?
+I can't remember why
+I was ever mad at you?
+
+Post traumatic suicide
+We kill the love we keep inside
+Now I know I should have had more faith
+
+I can't remember why
+Do you remember why?
+I can't remember why
+I was ever mad at you?
+
+I can't remember why
+I can't remember why
+
+I can't remember why
+I can't remember why
+I can't remember why
+I can't remember

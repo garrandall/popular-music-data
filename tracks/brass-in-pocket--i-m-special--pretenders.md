@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brass-in-pocket--i-m-special--pretenders
+lyrics_url: https://genius.com/Pretenders-brass-in-pocket-lyrics
 name: Brass In Pocket (I'm Special)
 rankings:
 - end_date: '1980-02-22'
@@ -95,4 +96,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
 ---
+Got brass in pocket
+Got bottle I'm gonna use it
+Intention I feel inventive
+Gonna make you, make you, make you notice
 
+Got motion restrained emotion
+Been driving Detroit leaning
+No reason just seems so pleasing
+Gonna make you, make you, make you notice
+
+Gonna use my arms
+Gonna use my legs
+Gonna use my style
+Gonna use my sidestep
+Gonna use my fingers
+Gonna use my, my, my imagination
+
+Cause I gonna make you see
+There's nobody else here
+No one like me
+I'm special, so special
+I gotta have some of your attention give it to me
+
+Got rhythm I can't miss a beat
+Got new skank it's so reet
+Got something I'm winking at you
+Gonna make you, make you, make you notice
+
+Gonna use my arms
+Gonna use my legs
+Gonna use my style
+Gonna use my sidestep
+Gonna use my fingers
+Gonna use my, my, my imagination
+
+Cause I gonna make you see
+There's nobody else here
+No one like me
+I'm special, so special
+I gotta have some of your attention
+Give it to me
+Cause I gonna make you see
+There's nobody else here
+No one like me
+I'm special, so special
+I gotta have some of your attention
+
+Give it to me
+
+And when you walk
+
+{Outro}

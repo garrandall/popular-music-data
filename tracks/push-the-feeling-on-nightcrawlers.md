@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: push-the-feeling-on-nightcrawlers
+lyrics_url: https://genius.com/Nightcrawlers-push-the-feeling-on-1992-lyrics
 name: Push The Feeling On
 rankings:
 - end_date: '1993-10-08'
@@ -67,4 +68,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-08'
 ---
+Push the feeling
+Push the feeling
 
+There will come a time
+When the love of a man is first in line
+Soon the tide will turn
+And this world will be a place to learn
+But it's up to you
+To push through
+Don't you wanna help me now?
+
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Ooo-ooo-on
+
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on
+
+Those who suffer pain
+Will begin to live their lives again
+Those who cried in vain
+They will never have to hide in shame
+But it's up to you
+To pull us through
+Don't you wanna help me now?
+
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Ooo-ooo-on
+
+Push it, let's push it
+Gotta keep moving on
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on
+
+Push the feeling
+Ooooh
+Ya gotta push through
+Don't you wanna help me now?
+
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Oh, push the feeling on
+Push the feeling
+Ooo-ooo-on
+
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on
+
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on
+
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on
+
+Push it, let's push it
+Push the feeling on
+Push it, let's push it
+Gotta keep moving on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wigwam-bob-dylan
+lyrics_url: https://genius.com/Bob-dylan-wigwam-lyrics
 name: Wigwam
 rankings:
 - end_date: '1970-07-31'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
 ---
-
+Da da dah da da
+Dada da-da dah de dum
+Da da-da dah da
+La da dah dede
+La dah dah dada dah
+Lah dada dah da-da dah
+Dah da dada dum dah
+La dah dah da-da dah dee
+Dah da daladah duh duh duh
+La dah dah da-da daaaaah
+Dah da dah uh uhhhhnn
+Da da dah da duhh
+/ Duh duh duh duun, da-da dah dah, da-da dah dahun da
+Du duh duh uh
+Dun dada dadada da
+Duh duh deeee de de dede da
+Nah nah a nah nah naaaah. /
+La dah dede
+La dah dah da-da dee
+La dah dee
+Dun dun dun nee nah ha duh dee
+Dun nah na naha dee
+Da dada dah da da da dah
+La dah dah dada dah dee
+Du duh duh doo dee dede dee dede

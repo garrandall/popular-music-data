@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: today-s-the-day-america
+lyrics_url: https://genius.com/America-todays-the-day-lyrics
 name: Today's The Day
 rankings:
 - end_date: '1976-05-21'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
 ---
+Hold me close
+You turn nighttime into day
+And you're the most
+Brightest star that lights my way
 
+So come home to me now
+'Cause it won't matter anyhow
+I've got this feeling that today's the day
+I've got this feeling today's the day
+
+Turn me out
+Turn me out on this fine day
+'Cause all about
+All the people like to play
+
+So come home to me now
+'Cause it won't matter anyhow
+I've got this feeling that today's the day
+I've got this feeling today's the day
+I've got this feeling that today's the day
+I've got this feeling today's the day
+
+Oo, oo ...
+
+Hold me close
+You turn nighttime into day
+And you're the most
+Brightest star that lights my way
+
+So come home to me now
+'Cause it won't matter anyhow
+I've got this feeling that today's the day
+I've got this feeling today's the day
+I've got this feeling that today's the day
+I've got this feeling today's the day
+I've got this feeling today's the day
+I've got this feeling today's the day ...

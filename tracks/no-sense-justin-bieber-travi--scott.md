@@ -2,7 +2,7 @@
 artists:
 - Justin Bieber
 features:
-- Travi$ Scott
+- Travis Scott
 genres: []
 key: no-sense-justin-bieber-travi--scott
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/nosense.html

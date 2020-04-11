@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-time-engelbert-humperdinck
+lyrics_url: https://genius.com/Engelbert-humperdinck-in-time-lyrics
 name: In Time
 rankings:
 - end_date: '1972-08-11'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
 ---
+I was a fool
+And like a fool, I cannot hide my sorrow
+I was a fool
+I thought that you would share all my tomorrows
+Though I was wrong
+Believing you'd belong to me forever
+Now that you’re gone
+I hope I learn to live again in time
 
+In time, I may forget your smile
+And in a while, I may forget I love you
+In time, I may forget my tears
+And through the years, I may forget I need you
+In time, maybe there'll be a new love to love me
+I can't go on belonging to the past
+But I pray that one day in time
+You’ll come back and be mine
+I love you
+I need you
+In time, maybe there'll be a new love to love me
+I can't go on belonging to the past
+But I pray that one day in time
+You'll come back and be mine
+In time, maybe there'll be a new love to love me
+I can't go on belonging to the past
+But I pray that one day in time
+You'll come back and be mine

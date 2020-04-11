@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-insane-lindsey-buckingham
+lyrics_url: https://genius.com/Lindsey-buckingham-go-insane-lyrics
 name: Go Insane
 rankings:
 - end_date: '1984-08-03'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
 ---
+Two kinds of people in this world
+Winners, losers
+I lost my power in this world
+'Cause I did not use it
 
+So I go insane
+Like I always do
+And I call your name
+She's a lot like you
+
+Two kinds of trouble in this world
+Living, dying
+I lost my power in this world
+And the rumors are flying
+
+So I go insane
+Like I always do
+And I call your name
+She's a lot like you

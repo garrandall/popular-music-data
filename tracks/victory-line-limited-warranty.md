@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: victory-line-limited-warranty
+lyrics_url: https://genius.com/Limited-warranty-victory-line-lyrics
 name: Victory Line
 rankings:
 - end_date: '1986-07-04'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
 ---
+Soldiers, drop your toys
+Whatever be the sign
+Stand in line to face each other
+On a field that's bleached
+A lion's heart eases
+For every acre you recover
 
+And we can survive it all
+With the promise that is given
+Wait for me
+‘Cause I’ll be coming home for you
+Stand, fall or die (this time)
+Wait for me
+‘Cause I’ll be coming home for you
+All is fine behind the victory line
+
+A distant drummer beats
+He’s called upon to guard his nation
+Flowers on the streets
+Are wilting in the heat
+Memories of our civil nature
+
+And did we forget it all
+Silent echos of the free
+Wait for me
+‘Cause I’ll be coming home for you
+Stand, fall or die (this time)
+Wait for me
+‘Cause I’ll be coming home for you
+All is fine behind the victory line
+
+And did we forget it all
+Silent echoes of the free
+Wait for me
+‘Cause I’ll be coming home for you
+Stand, fall or die (this time)
+Wait for me
+‘Cause I’ll be coming home for you
+All is fine behind the victory
+Wait for me
+All is fine behind the victory line

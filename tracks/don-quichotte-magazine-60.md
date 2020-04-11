@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-quichotte-magazine-60
+lyrics_url: https://genius.com/Magazine-60-don-quichotte-lyrics
 name: Don Quichotte
 rankings:
 - end_date: '1986-05-16'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
+No, no no no no no, Señor!
 
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Baila, borriquito
+Baila, borriquito oh oh
+Baila, borriquito
+Baila, borriquito oh oh
+
+Si?
+Hello, can I speak to mister Don Quichotte, please?
+No señor, Don Quixote y Sancho Panza no estan aqui!
+
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+
+No, no no no no no no, no no, Señor!
+
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Baila, borriquito
+Baila, borriquito oh oh
+Baila, borriquito
+Baila, borriquito oh oh
+
+What's going on? You've got a hole in your brain
+I feel crazy!
+No señor, Don Quixote y Sancho Panza no estan aqui!
+
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+Don Quixote y Sancho Panza
+Hoy también siguen luchando
+
+Baila, borriquito
+Baila, borriquito oh oh
+Baila, borriquito
+Baila, borriquito oh oh

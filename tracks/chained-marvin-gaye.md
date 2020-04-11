@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chained-marvin-gaye
+lyrics_url: https://genius.com/Marvin-gaye-chained-lyrics
 name: Chained
 rankings:
 - end_date: '1968-09-20'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
 ---
+Seems just yesterday you were in my arms
+And in a special way you touched my heart with all your charms
+And now you're gone
+Oh and I find myself, honey, I'm all alone
+And there's no love left to take
+Don't know where I fell, for you I've always cared
+I did all I know
+To win your love and make it so
 
+
+You'd always stay but you turned away
+Honey, what could I say?
+How could you, how could you
+How could you do me this way?
+
+
+Because I'm chained to your love and affection
+Because I'm chained; oh your love's my only direction
+Oh oh oh oh ah ah ah
+
+
+I've got to make it right, somehow it's always wrong
+Somewhere down the line
+The love I've lost I've got to find, yeah
+But it won't be long
+I'm going to make it right, baby
+And carry you tenderly back home
+
+
+Because I'm chained to your love and affection
+Because I'm chained; every time I hear your name I tremble
+I tremble, oh you know, oh you know
+
+
+Oh baby, oh baby
+Well, now I admit that I
+Haven't been the perfect guy
+For a girl as sweet as you
+But my heart and soul cries, How do you?
+Oh, that's all I need
+Oh, going to make it right, baby
+If you just stay, stay with me
+Because I'm chained
+Oh I'm chained to your love and affection
+Yes I'm chained

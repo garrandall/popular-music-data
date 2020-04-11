@@ -45,7 +45,7 @@ Now here's the host, from the coast. Sounds like a frog doin' the monologue. It'
 
 "Yeah, baby, it's the Sheepdog, Sheepdog, Sheepdog ...crazy, too cool, out of sight, right on, and far out! Yeah, join my rock here for the next greatest hour in town here on the Moonlight Special. Yeah, dig it, what a show we got for you tonight folks. And here to get things rollin' is the fabulous Mildred Queen and the Dipsticks, yeah..."
 
-"I love you {love you}; yes I do {yes I do}, really do {really do}; and I just wanted to take the time to show how much you really mean to me {and I just wanted to take the time to show how much you really mean to me}; and I promise to love and be yours forever if you'll only stay with me {and I promise to love and be yours forever if you'll only stay with me}; wait a minute {wait a minute}; how come you sayin' everything that I say? {how come you sayin' everything that I say?}; now cut that out! {now cut that out!}; stop that! {stop that!}; now I know why they call you guys the dips {now I know why they call you guys the dips}; you're dippy {you're dippy}; aaaahhhh {aaaahhhhh}"
+"I love you ; yes I do , really do ; and I just wanted to take the time to show how much you really mean to me ; and I promise to love and be yours forever if you'll only stay with me ; wait a minute ; how come you sayin' everything that I say? ; now cut that out! ; stop that! ; now I know why they call you guys the dips ; you're dippy ; aaaahhhh "
 
 "How about that all you hippie, dudes, and chickies out there! Mildred Queen and the Dips here on the Moonlight Special!"
 
@@ -63,7 +63,7 @@ The Moonlight Special for you and me.
 "Unbelievable! Watch out, folks, he's gonna play with his teeth now! Watch out! Hippie! Yeah! The man's a gem! Yeah..."
 
 It's The Moonlight Special comin' on TV.
-"That was Jerry Joe Henly Jimmy, baby, the king of the rock 'n' roll piano and that about takes up all of our time. That wraps it up for this week guys and gals but the ol' Sheepdog will be back next week one more time for a little more of that Moonlight Special. Until then, just remember 
+"That was Jerry Joe Henly Jimmy, baby, the king of the rock 'n' roll piano and that about takes up all of our time. That wraps it up for this week guys and gals but the ol' Sheepdog will be back next week one more time for a little more of that Moonlight Special. Until then, just remember
 
 
 

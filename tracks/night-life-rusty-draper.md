@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: night-life-rusty-draper
+lyrics_url: https://www.musixmatch.com/lyrics/Rusty-Draper/Night-Life
 name: Night Life
 rankings:
 - end_date: '1963-10-04'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
 ---
+When the evening sun goes down
+You will find me hanging round
+Whoa, the night life ain't no good life
+But it's my life
 
+Many people just like me
+Dreaming of old used to be
+Whoa, the night life ain't no good life
+Oh, but it's my life
+
+Well, listen to the blues
+That they're playing
+Yeah, listen to what
+The blues are saying
+
+Life is just a another scene
+From this old world of broken dreams
+The night life ain't no good life
+But it's my life
+
+Whoa, the night life ain't no good life
+Yeah, but it's my life

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-let-you-go-steelheart
+lyrics_url: https://genius.com/Steelheart-ill-never-let-you-go-lyrics
 name: I'll Never Let You Go
 rankings:
 - end_date: '1991-03-22'
@@ -115,4 +116,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
 ---
+Angel eyes, you have angel eyes, such a smile that lights up my life
+You're a dream come true, now I'm holding you
+And I'll never, never let you go, I will never let you go!
 
+First time I laid my eyes upon you, all my dreams were answered
+First time I kissed your tender lips, my love to you I surrendered
+
+I'll never let you go, you're always on my mind
+You're the only one for me, you're all I need
+And I'll never, never let you go
+
+Angel eyes, my heart relies on the love you give to me
+You never let me down, you're always by my side
+And I'll never, never let you go, I will never let you go!
+
+When my heart starts to crumble and the tears start to fall
+You hold me close with tender lovin', and give me strength to carry on
+
+I'll never let you go, you're always on my mind
+You're the only one for me, you're all I need
+And I'll never, never let you go
+
+I'll never let you go, you're always on my mind
+You're the only one for me, you're all I need
+And I'll never, never let you go
+
+And I'll never, never let you go

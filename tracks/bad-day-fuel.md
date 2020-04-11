@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-day-fuel
+lyrics_url: https://genius.com/Fuel-bad-day-lyrics
 name: Bad Day
 rankings:
 - end_date: '2001-08-03'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
 ---
+Had a bad day again
+She said I would not understand
+She left a note and it said - "I'm sorry I had a bad day again"
+She spilled her coffee, broke her shoelace
+Smeared the lipstick on her face
+Slammed the door and said - "I'm sorry I had a bad day again"
 
+
+And she swears there's nothing wrong
+I hear her playing that same old song
+She puts me off and puts me on
+And had a bad day again
+
+
+She said I would not understand
+Left a note and it said - "I'm sorry I had a bad day again"
+Nahahah
+
+
+And she swears there's nothing wrong
+I hear her playing that same old song
+She puts me off and puts me on
+Oh and had a bad day again
+
+
+She said I would not understand
+She left a note and it said -"I'm sorry I had a bad day again"
+She left a note and it said, - "I'm sorry I had a bad day"

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: deep-purple-donny-marie-osmond
+lyrics_url: https://genius.com/Donny-and-marie-osmond-deep-purple-lyrics
 name: Deep Purple
 rankings:
 - end_date: '1975-12-19'
@@ -100,4 +101,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
 ---
-
+When the deep purple falls
+Over sleepy garden walls
+And the stars begin to twinkle in the sky
+In the mist of a memory you wander back to me
+Breathing my name with a sigh
+In the still of the night once again I hold you tight
+Though you're gone
+Your love lives on when moonlight beams
+And as long as my heart will beat
+Sweet lovers we'll always meet
+Here in my deep purple dreams
+ by Marie:
+*When the deep purple falls
+Over sleepy garden walls
+And the stars begin to twinkle in the sky
+In the mist of a memory you wander back to me
+Breathing my name with a sigh*
+In the still of the night once again I hold you tight
+Though you're gone
+Your love lives on when moonlight beams
+And as long as my heart will beat
+Sweet lovers we'll always meet
+Here in my deep purple dreams
+And as long as my heart will beat
+Sweet lovers we'll always meet
+Here in my deep purple dreams
+Here in my deep purple dreams
+Here in my deep purple dreams

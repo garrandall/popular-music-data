@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caught-a-lite-sneeze-tori-amos
+lyrics_url: https://genius.com/Tori-amos-caught-a-lite-sneeze-lyrics
 name: Caught A Lite Sneeze
 rankings:
 - end_date: '1996-01-26'
@@ -59,4 +60,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-13'
 ---
+Caught a lite sneeze, caught a light breeze
+Caught a lightweight lightning seed
+Boys on my left side, boys on my right side
+Boys in the middle and you're not here
 
+
+I need a big loan
+From the girl zone
+
+
+Building (Inanna)
+Tumbling down (Inanna)
+Didn't know our love was so small (Inanna)
+Couldn't stand it all (Inanna)
+Mr. St. John just bring your son
+
+
+The spire is hot
+And my cells can't feed
+And you've still got that Belle
+Dragging your foots, yes
+I'm hiding it well
+Sister Ernestine
+But I still got that Belle
+Dragging my foots, yes
+
+
+Building (Inanna)
+Tumbling down (Inanna)
+Didn't know our love was so small (Inanna)
+Couldn't stand it all (Bring your son)
+Mr. St. John just bring your son
+
+
+Right on time
+You get closer and closer
+Called my name
+There's no way in
+Use that fame
+Rent your wife and kids today
+Yeah, maybe she will
+I said maybe she will
+
+
+Caught a lite sneeze, dreamed a little dream
+Made my own pretty hate machine
+Boys on my left side, boys on my right side
+Boys in the middle and you're not here
+Boys in their dresses and you're not here
+
+
+I need a big loan
+From the girl zone
+I need a big loan
+From the girl zone
+
+
+Building (Inanna)
+Tumbling down (Inanna)
+Didn't know our love was so small (Inanna)
+Couldn't stand it all (Bring your son)
+Mr. St. John just bring your son

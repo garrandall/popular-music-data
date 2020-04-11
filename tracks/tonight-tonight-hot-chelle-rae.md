@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-tonight-hot-chelle-rae
+lyrics_url: https://genius.com/Hot-chelle-rae-tonight-tonight-lyrics
 name: Tonight Tonight
 rankings:
 - end_date: '2011-05-06'
@@ -127,4 +128,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
 ---
+It's been a really, really messed up week
+Seven days of torture, seven days of bitter
+And my girlfriend went and cheated on me
+She's a California dime, but it's time for me to quit her
 
+
+La, la, la, whatever
+La, la, la, it doesn't matter
+La, la, la, oh, well
+La, la, la
+
+
+We're going at it tonight, tonight
+There's a party on the rooftop top of the world
+Tonight, tonight, and we're dancing on the edge of the Hollywood sign
+I don't know if I'll make it, but watch how good I'll fake it
+It's alright, alright, tonight, tonight
+
+
+Woke up with a strange tattoo
+Not sure how I got it
+Not a dollar in my pocket
+And it kinda looks just like you
+Mixed with Zach Galifianakis, huh
+
+
+La, la, la, whatever
+La, la, la, it doesn't matter
+La, la, la, oh, well
+La, la, la
+
+
+We're going at it tonight, tonight
+There's a party on the rooftop top of the world
+Tonight, tonight, and we're dancing on the edge of the Hollywood sign
+I don't know if I'll make it, but watch how good I'll fake it
+It's alright, alright, tonight, tonight
+
+
+You got me singing like, whoa
+C'mon! Oh, it doesn't matter, whoa
+Everybody now, oh!
+
+
+Just don't stop, let's keep the beat pumpin'
+Keep the beat up, let's drop the beat down
+It's my party, dance if I want to
+We can get crazy, let it all out!
+Just don't stop, let's keep the beat pumpin'
+Keep the beat up, let's drop the beat down
+It's my party, dance if I want to
+We can get crazy, let it all out!
+
+
+It's you and me, and we're runnin' this town
+And it's me and you, and we're shakin' the ground
+And ain't nobody going to tell us to go
+'Cause this is our show!
+
+Everybody! Whoa! C'mon!
+Oh, all you animals!
+Whoa! Let me hear you now
+Oh!
+
+
+Tonight, tonight
+There's a party on the rooftop-top of the world
+Tonight, tonight, and we're dancing on the edge of the Hollywood sign!
+I don't know if I'll make it, but watch how good I'll fake it
+It's alright, alright, tonight, tonight
+It's alright, alright, tonight, tonight
+Yeah, It's alright, alright, tonight, tonight
+
+
+Just singing like whoa, c'mon
+Oh, all you party people
+Whoa, all you singletons
+Oh, even the white kids!
+
+
+Just don't stop, let's keep the beat pumpin'
+Keep the beat up, let's drop the beat down
+It's my party, dance if I want to
+We can get crazy, let it all out!
+Just don't stop, let's keep the beat pumpin'
+Keep the beat up, let's drop the beat down
+It's my party, dance if I want to
+We can get crazy, let it all out!
+It's...

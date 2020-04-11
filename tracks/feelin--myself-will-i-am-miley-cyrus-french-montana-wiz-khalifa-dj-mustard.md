@@ -8,6 +8,7 @@ features:
 - DJ Mustard
 genres: []
 key: feelin--myself-will-i-am-miley-cyrus-french-montana-wiz-khalifa-dj-mustard
+lyrics_url: https://www.musixmatch.com/lyrics/will-i-am-feat-Miley-Cyrus-Wiz-Khalifa-French-Montana-DJ-Mustard/Feelin-Myself-explicit
 name: Feelin' Myself
 rankings:
 - end_date: '2014-05-02'
@@ -19,4 +20,137 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
 ---
+I be everywhere, everybody know me
+Super, super fresh, what a dope styling
+Hunny on my wrist, couple karats on my neck
+Givenchy, keep the chickens in check
+All these car keys drive them chickens to my crib
+Jewel heel, got somebody slipping in my bed
+She give me IQ, that mean she get a head
+I just give the beats, I don't give a bread
 
+'Cause we be in the club
+Bottles on deck
+And God dammit, God dammit
+I'm feeling myself
+'Cause I'm a get it all
+And I'm a throw it up
+Like God dammit, God dammit
+I'm feeling myself
+
+Look up in the mirror
+The mirror look at me
+The mirror be like baby you the shit
+God dammit you the shit
+You the shit, you the shit
+God dammit you the shit
+God dammit you the shit
+You the shit, you the shit
+
+I be everywhere, everybody know me
+Catch me in the club hundred bottles on me
+I get busy like a one line
+In the drop getting head baby never mind
+We gettin' money why you playing with it
+Pool in the crib you could land a water plane in it
+Slick Rick looking at the mirror
+Big Daddy Kane bitch like Shakira
+1.5 custom made car
+Me and will table looking like the bar
+I love bad bitches that's my fuckin' problem
+And I don't give a fuck that's my fuckin' problem
+
+And I don't give a fuck that's my whole M.O.
+I rock the whole globe with no problemo
+Been rocking coats since my first demo
+And now I'm banging hoes in the continental
+And I done seen me slidin' out my dope ride
+I open up the doors, suicide
+I came from the bottom, the sewer side
+I made it to the top cause I do it fly
+Feelin' fuckin' lucky like the fuckin' Irish
+I see the whole game from my third Iris
+I tour the whole world like a dirty pirate
+To give the whole club some Miley Cyrus
+
+Now everybody trippin' like they poppin' molly
+Up in the club, is where you find me
+I do it real big never do it tiny
+If you about that bullshit please don't remind me
+I step in this motherfucker just to make it work
+I get on the floor just to make that booty twerk
+Shake, shake that shit like a, like an expert
+Shake, shake that shit like a, like an expert
+
+I'll be everywhere, everybody know me
+Super, super fresh, what a dope styling
+Hunny on my wrist, couple karats on my neck
+Givenchy, keep the chickens in check
+All these car keys drive them chickens to my crib
+Jewel heel, got somebody slipping in my bed
+She give me IQ, that mean she get a head
+I just give the beats, I don't give a bread
+
+'Cause we be in the club
+Bottles on deck
+And God dammit, God dammit
+I'm feeling myself
+'Cause I'm a get it all
+And I'm a throw it up
+Like God dammit, God dammit
+I'm feeling myself
+
+Look up in the mirror
+And the mirror look at me
+The mirror be like baby you the shit
+God dammit you the shit
+You the shit, you the shit
+God dammit you the shit
+God dammit you the shit
+You the shit, you the shit
+
+Doobie in my hand, Rollie on my wrist
+Got a bottle of that thousand dollar champagne in my fist
+Women in your dreams sleep in my bed
+So I don't need your brains I need my ass kissed
+But all my homies like give me some head
+Smoke joints till our eyes turn Indian red
+Take shots till our chests burn
+We got papers, bottles, mollies, all this let's get it started
+The bigger the bill, the bigger you ball
+The bigger the watch, the bigger the car, the bigger the star
+The bigger the chain, the farther you go, you already know
+The bigger the bank that's more hoes, nigga
+And I done spent a quarter milli on clothes
+Coppin' them oldschools and puttin' foreigns on the road
+Real talk and if my fuel get low
+I roll up another joint, take a shot and reload, pow
+
+I'll be everywhere, everybody know me
+Super, super fresh, what a dope styling
+Hunny on my wrist, couple karats on my neck
+Givenchy, keep the chickens in check
+All these car keys drive them chickens to my crib
+Jewel heel, got somebody slipping in my bed
+She give me IQ, that mean she get a head
+I just give the beats, I don't give a bread
+
+'Cause we be in the club
+Bottles on deck
+And God dammit, God dammit
+I'm feeling myself
+'Cause I'm a get it all
+And I'm a throw it up
+Like God dammit, God dammit
+I'm feeling myself
+
+Look up in the mirror
+And the mirror look at me
+The mirror be like baby you the shit
+God dammit you the shit
+You the shit, you the shit
+God dammit you the shit
+God dammit you the shit
+You the shit, you the shit
+
+Yes sir

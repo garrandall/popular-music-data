@@ -5,6 +5,7 @@ features:
 - Jabba
 genres: []
 key: move-ya-body-nina-sky-jabba
+lyrics_url: https://genius.com/Nina-sky-move-ya-body-feat-jabba-lyrics
 name: Move Ya Body
 rankings:
 - end_date: '2004-05-07'
@@ -112,4 +113,116 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-23'
 ---
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
 
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+All up in the club looking fly
+Made your first approach
+And caught his eye
+Slowly move your way towards the dance floor
+Grab her hand
+And she whispered
+Hold my hip
+Got in the groove
+Stand behind me
+Let me grind with you
+If I lick my lips
+I'm prob'ly feeling you
+Imma make you go ooh
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Whoo (you feelin' it now)
+Take it slow
+Turn me on
+Club gets warmer
+Body moves closer
+One with the rhythm
+Don't stop moving
+You're making me
+HOT
+From head to toe
+I feel your flow
+Vibe gets stronger
+Party seems longer
+Makes me really want'cha
+Don't stop moving
+You're making me
+HOT
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Can you feel the beat?
+Can you
+Can you feel the beat?
+Can you feel the beat?
+Can you
+Can you feel the beat?
+
+Can you feel the beat within my heart?
+Can't you see my love shine through the dark?
+
+Can you feel the beat?
+
+Can you feel the beat within my heart?
+Can't you see my love shine through the dark?
+Can't you see that you must be a part
+Of that beat in my heart?
+
+
+Slow wind, slow wind, slow wind, slow wind
+Fast wind, fast wind, fast wind, fast wind
+Move your body, move your body, move your body, move your body
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go
+
+Oh, move your body girl
+Makes the fellas go
+The way you ride it girl
+Makes the fellas go

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-want-it-niteflyte
+lyrics_url: https://genius.com/Niteflyte-if-you-want-it-lyrics
 name: If You Want It
 rankings:
 - end_date: '1979-09-21'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
-
+If you want it you can get it
+With your love
+If you want it you can get it
+With your love
+I had a feeling that I met you
+Some place before
+I had a feeling that I wanted you
+Deep inside my soul
+When I saw your face just smiling back at me
+I knew no other could ever take your place
+If I want you to be part of my life
+I gotta this way starting today
+If you want it (Oh, if you want it, baby) you can get it
+With your love (Say wit' your love, yeah)
+If you want it  you can get it
+With your love
+No matter how much time it takes you
+To feel my love
+I got a feeling that you'll want me too
+Beside your soul, whoa... Oh... Ho... Whoa... Oh... Ho...
+When you feel this way, if you think it's just a game
+Don't be affected by the things that people say
+Just try to believe the magic of fate
+We gotta this way starting today
+If you want it you can get it (Say just believe)
+With your love (In the magic of fate)
+If you want it (Anything that you want, baby) you can get it
+With your love (Oh, with your love, with your love, with your love)
+If you want it (If you want it you can have it) you can get it (You can get it)
+With your love (Oh... Whoa... Ho... Ho... Ho...)
+If you want it (Just take your time, baby) you can get it
+With your love (With your love I say hey, hey)
+If you want it  you can get it (Oh)
+With your love (With your love)  (Say with your love)
+If you want it (Oh, whoa) you can get it
+With your love
+If you want it you can get it

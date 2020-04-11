@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-of-my-life-brian-mcknight
+lyrics_url: https://genius.com/Brian-mcknight-love-of-my-life-lyrics
 name: Love Of My Life
 rankings:
 - end_date: '2001-09-21'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
 ---
+First,first time I look into your eyes
+I saw heaven-oh-heaven in your eyes
+Everything I did before you
+Wasn't worth my time
+It should've been you
+You all the time
+I do anything and everything
+To please you
+You know how much I need you
+You're always always on my mind
 
+
+You're more than wonderful
+More than amazing
+The irreplaceable love of my life
+You're so incredible
+Here in these arms of mine
+The irreplaceable love of my life
+
+Always seem like a reality
+Forever don't seem so far away
+All I want to do
+All I want to feel
+All I want be is close to you (close to you)
+Everyday is my lucky day
+All I want to do is love you
+I place no one above you
+I tell you why
+
+
+You're more than wonderful
+More than amazing
+The irreplaceable love, love of my life
+You're so incredible
+Here in these arms of mine
+The irreplaceable love of my life
+
+Baby you know
+You know you're my one and only
+All I want to do is be together
+Shawty you know I'll never leave you lonely
+In your eyes, In your eyes I see forever
+
+Ohhhhhhhhhhhhhhh Ohhhhhhhhhh oh oh
+Ohhhhhhhh Ohhhhhhhhhhhhhh oh oh
+
+
+You're more than wonderful
+More than amazing
+The irreplaceable love of my life
+You're so incredible
+Here in these arms tonight
+The irreplaceable love of my life

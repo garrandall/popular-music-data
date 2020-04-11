@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-like-a-baby-the-box-tops
+lyrics_url: https://genius.com/The-box-tops-cry-like-a-baby-lyrics
 name: Cry Like A Baby
 rankings:
 - end_date: '1968-03-08'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
 ---
+When I think about the good love you gave me
+I cry like a baby
+Living without you is driving me crazy
+I cry like a baby
+Well, I know now that you're not a play thing
+Not a toy, or a puppet on a string
 
+As I look back on a love so sweet now
+I cry like a baby
+Every road is a lonely street
+I cry like a baby
+I know now that you're not a play thing
+Not a toy, or a puppet on a string
+
+Today we passed on a street
+And you just walked on by
+My heart just fell to my feet
+And once again I began to cry
+
+When I think about the good love you gave me
+I cry like a baby
+Living without you is driving me crazy
+I cry like a baby
+
+I know now that you're not a play thing
+I cry like a baby
+As I look back on a love so sweet now
+I cry like a baby
+Every road is a lonely street
+I cry like a baby
+My heart just fell to my feet, you know
+I cried like a baby
+You left the water running now
+I cried like a baby

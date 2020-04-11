@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-luv-joe
+lyrics_url: https://genius.com/Joe-im-in-luv-lyrics
 name: I'm In Luv
 rankings:
 - end_date: '1993-09-03'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
 ---
+I'm in luv
+Round and round I go
+Out of control, I'm in luv
+I'm in luv
+Round and round I go
+Out of control, I'm in luv
 
+Now from the very start
+You knew you had my heart
+It was plain to see
+Ooo, good god almighty
+The way you work that body
+It was something to remember
+And I dance all in this
+
+Imagine you and me
+A gentle summer breeze
+What a lovely affair
+Champagne and candlelights
+Romance and moonlights
+Girl, I'm no beginner so I hope you're no pretender
+
+I can't deny
+Girl, you turn me on
+Make me lose my self-control
+When you hold me close
+I'm in luv
+Crazy love
+Girl, I must admit it
+I am so addicted to your love
+
+What I like
+Girl, you've got it
+What I need
+You give it to me
+What I want
+Is your sweet loving, baby

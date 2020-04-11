@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-together-the-nylons
+lyrics_url: https://genius.com/The-nylons-happy-together-lyrics
 name: Happy Together
 rankings:
 - end_date: '1987-09-04'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
 ---
+Imagine me and you, I do
+I think about you day and night, it's only right
+To think about the girl you love and hold her tight
+So happy together
 
+If I should call you up, invest a dime
+And you'd say you belong to me, I'd lose my mind
+Imagine how the world could be so very fine
+So happy together
+
+I can't see me lovin' nobody but you
+For all my life
+When you're with me, baby the skies will be blue
+For all my life
+
+Me and you, and you and me
+No matter how they toss the dice, it had to be
+The only one for me is you, and you for me
+So happy together
+
+I can't see me lovin' nobody but you
+For all my life
+When you're with me, baby the skies will be blue
+For all my life
+
+Me and you, and you and me
+No matter how they toss the dice, it had to be
+The only one for me is you, and you for me
+So happy together
+
+Me and you, and you and me
+No matter how they toss the dice, it had to be
+The only one for me is you, and you for me
+So happy together

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sex-and-candy-marcy-playground
+lyrics_url: https://genius.com/Marcy-playground-sex-and-candy-lyrics
 name: Sex And Candy
 rankings:
 - end_date: '1998-04-17'
@@ -119,4 +120,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
 ---
+Hanging around, downtown by myself
+And I had so much time to sit and think about myself
+And then there she was, like double cherry pie
+Yeah, there she was, like disco super-fly
 
+
+I smell sex and candy here, mmm
+Who's that lounging in my chair? Mmm
+Who's that casting devious stares in my direction?
+Momma this surely is a dream, yeah
+Yeah, momma this surely is a dream, dig it
+
+
+Hanging around, downtown by myself
+And I've had too much caffeine, and I was thinking about myself
+And then there she was, in platform double suede
+Yeah, there she was, like disco lemonade
+
+
+I smell sex and candy here, mmhmmm
+Who's that lounging in my chair? Mmhmmm
+Who's that casting devious stares in my direction?
+Momma this surely is a dream, yeah
+Yeah, momma this surely is a dream, dig it
+Yeah, momma this surely is a dream, yeah
+
+
+I smell sex and candy here, mmhmmm
+Who's that lounging in my chair? Mmhmmm
+Who's that casting devious stares in my direction?
+Momma this surely is a dream, dig it
+Yeah, momma this surely is a dream, mmhmmm
+Yeah, momma this surely is a dream, yeah
+Yeah, momma this must be my dream

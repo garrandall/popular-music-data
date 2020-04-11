@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: needed-me-rihanna
+lyrics_url: https://genius.com/Rihanna-needed-me-lyrics
 name: Needed Me
 rankings:
 - end_date: '2016-02-26'
@@ -187,4 +188,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
 ---
+Mustard on the beat, ho!
 
+
+I was good on my own, that's the way it was
+That's the way it was
+You was good on the low for a faded fuck
+On some faded love
+Shit, what the fuck you complaining for?
+Feeling jaded, huh?
+Used to trip off that shit I was kickin' to you
+Had some fun on the run though I'll give it to you
+
+
+But baby, don't get it twisted
+You was just another nigga on the hit list
+Tryna fix your inner issues with a bad bitch
+Didn't they tell you that I was a savage?
+Fuck ya white horse and ya carriage
+Bet you never could imagine
+Never told you you could have it
+
+
+You needed me
+Ooh, you needed me
+To feel a little more, and give a little less
+Know you hate to confess
+But baby ooh, you needed me
+
+
+You been rollin' around, shit I'm rollin' up
+Light and roll it up
+Break it down, like a pound, shit was never us
+Shit was never us
+That's the real, on the real, are you serious?
+How you feel, how you feel?
+Used to trip off that shit I was kickin' to ya
+Had some fun on the run though, I'll give it to ya
+
+
+But baby, don't get it twisted
+You was just another nigga on the hit list
+Tryna fix your inner issues with a bad bitch
+Didn't they tell you that I was a savage?
+Fuck ya white horse and ya carriage
+Bet you never could imagine
+Never told you you could have it
+
+
+You needed me
+Ooh, you needed me
+To feel a little more, and give a little less
+Know you hate to confess
+But baby ooh, you needed me

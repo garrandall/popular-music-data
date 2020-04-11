@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-ain-t-a-scene-it-s-an-arms-race-fall-out-boy
+lyrics_url: https://genius.com/Fall-out-boy-this-aint-a-scene-its-an-arms-race-lyrics
 name: This Ain't A Scene It's An Arms Race
 rankings:
 - end_date: '2007-02-09'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
 ---
+I am an arms dealer fitting you with
+Weapons in the form of words
+And don't really care which side wins
+Long as the room keeps singing, that's just the business I'm in
 
+
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race
+I'm not a shoulder to cry on, but I digress
+
+
+I'm a leading man and the lies I weave are
+Oh, so intricate, oh, so intricate
+I'm a leading man and the lines I weave are
+Oh, so intricate, oh, so intricate
+
+
+I wrote the gospel on giving up
+(You're looking pretty sinking)
+But the real bombshells have already sunk
+(Prima donnas of the gutter)
+At night, we're painting your trash gold while you sleep
+Crashing not like hips or cars, no, more like p-p-p-parties
+
+
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race
+Bandwagon's full, please catch another
+
+
+I'm a leading man and the lies I weave are
+Oh, so intricate, oh, so intricate
+I'm a leading man and the lines I weave are
+Oh, so intricate, oh, so intricate
+
+
+Oh, oh, oh, oh, woo!
+
+
+
+
+All the boys who
+The dancefloor didn't love
+And all the girls whose lips couldn't move fast enough
+Sing until your lungs give out
+
+
+This ain't a scene, it's a goddamn arms race
+This ain't a scene, it's a goddamn arms race (Now you)
+This ain't a scene, it's a goddamn arms race (Wear out the groove)
+This ain't a scene, it's a goddamn arms race (Sing out loud)
+This ain't a scene, it's a goddamn arms race (Oh, oh)
+This ain't a scene, it's a goddamn arms race
+
+
+I'm a leading man and the lies I weave are
+Oh, so intricate, oh, so intricate
+I'm a leading man and the lines I weave are
+Oh, so intricate, oh, so intricate

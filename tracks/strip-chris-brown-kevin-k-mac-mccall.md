@@ -5,6 +5,7 @@ features:
 - Kevin K-MAC McCall
 genres: []
 key: strip-chris-brown-kevin-k-mac-mccall
+lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Kevin-K-MAC-McCall/Strip
 name: Strip
 rankings:
 - end_date: '2011-12-16'
@@ -88,4 +89,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
 ---
+Take it off, I wanna love ya
+And everybody wanna touch ya
+You're moving right, wanna see whats up under
+Then back it up, beep beep, like a trucker
+Nice thighs, nice waist, and you know I cant forget about your face
+But don't none of that matter, I'm about to make your pocket fatter
 
+Girl I just wanna see you strip right now, cause its late babe
+Girl I just wanna see you strip, girl take your time with it
+Girl I just wanna see you strip, God damn you sexy, Goddamn you sexy, God damn you sexy
+Girl I just wanna see you
+
+Got my shades on, with my Jays on, in the club with a pocket full of ones
+This girl booty outta control
+Then she go up and down the pole
+Which one Ima take home, get my freak on
+If you aint freakin, we aint speakin
+You think I'm playing (No, I'm Not)
+Let me see you back it up and drop
+Yeah, I wanna see your legs in the air
+Baby don't worry about your hair, all those tracks
+I don't give a damn about that
+In the club, they're playing my song
+Turn it up, play it all night long
+If you think you can and you know you can
+Ima give you all this money, money, money
+
+Girl I just wanna see you strip right now, cause its late babe
+Girl I just wanna see you strip, girl take your time with it
+Girl I just wanna see you strip, Goddamn you sexy, Goddamn you sexy, Goddamn you sexy
+Girl I just wanna see you
+
+Pants, shirt, you can take it off
+Panties, bra, you can take it off
+Red bottom heels, you can take em, wait wait, leave em on cause I like my women tall
+You got it hot mama, you're hotter than sauna
+I wanna peel them clothes off your body like a banana
+The only reason why I dress you in that designer, is to get you out that Dolce and Gabbana
+I throw this money up, she watch it all fall
+Toot that thang up, ...
+Anything you want baby, you can have it all
+Starting with my last name, now they call you Mrs. McCall
+
+Girl I just wanna see you strip right now, cause its late babe
+Girl I just wanna see you strip, girl take your time with it
+Girl I just wanna see you strip, Goddamn you sexy, Goddamn you sexy, Goddamn you sexy
+Girl I just wanna see you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mama-connie-francis
+lyrics_url: https://genius.com/Connie-francis-mama-lyrics
 name: Mama
 rankings:
 - end_date: '1960-02-28'
@@ -59,4 +60,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+When the evening shadows fall
+And the lovely day is through
+Then with longing I recall
+The years I spent with you
 
+Mama, I miss the days
+When you were near to guide me
+Mama, those happy days
+When you were here beside me
+
+Safe in the glow of your love
+Sent from the heavens above
+Nothing can ever replace
+The warmth of your tender embrace
+
+Oh, Mama, until the day
+That we're together once more
+I'll live in these memories
+Until the day that we're together once more

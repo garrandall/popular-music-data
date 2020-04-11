@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-the-years-go-by-mashmakhan
+lyrics_url: https://genius.com/Mashmakhan-as-the-years-go-by-lyrics
 name: As The Years Go By
 rankings:
 - end_date: '1970-08-28'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
+A child asks his mother, do you love me
+And it really means, will you protect me
+His mother answers him, I love you
+And it really means, you've been a good boy
 
+And as the years go by
+True love will never die
+
+At seventeen a girl says, do you love me
+And it really means, will you respect me
+The teenage boy answers, I love you
+But it really means, can I make love to you
+
+And as the years go by
+True love will never die
+
+I will love you forever
+I will love you forever
+
+At sixty-five his wife says, do you love me
+And it means, I'd like to hear it again
+Her husband says to her, I love you
+But it really means, I love you till the end
+
+And as the years go by
+True love will never die
+
+Now you're asking me if I love you
+And it really means will I marry you
+And I answer, yes I love you
+But it really means that I won't be untrue
+
+And as the years go by
+True love will never die
+
+I will love you forever
+I will love you forever

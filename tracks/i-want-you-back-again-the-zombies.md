@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-back-again-the-zombies
+lyrics_url: https://genius.com/The-zombies-i-want-you-back-again-lyrics
 name: I Want You Back Again
 rankings:
 - end_date: '1965-07-02'
@@ -19,4 +20,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
 ---
+Somebody help me
+I’ve got to eat
+Somebody help me
+To stand on my feet
 
+I want you back again
+Oh, oh, oh
+I want you back again
+
+Since you have left me
+I’m all alone
+I need your help, I
+Can’t stand on my own
+
+I want you back again
+Oh, oh, oh
+I want you back again
+
+Since you have left me
+I’m all alone
+I need your help, I
+Can’t stand on my own
+
+I want you back again
+Oh, oh, oh
+I want you back again
+
+I want you back again
+Oh, oh, oh
+I want you back again

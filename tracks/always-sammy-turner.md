@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-sammy-turner
+lyrics_url: https://genius.com/Sammy-turner-always-lyrics
 name: Always
 rankings:
 - end_date: '1959-11-08'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
 ---
+Always
+Sammy Turner
+(Irving Berlin)
 
+Ill be loving you always
+With a love as true oh always
+When the things you plan need a helping care
+I will understand always oh always
+
+Days may not be fair always
+Thats when Ill be there always
+Not for just an hour
+No, not for just a day
+Not for just a year but always
+Oh always
+Always
+Always
+
+Not for just an hour
+No, not for just a day
+Not for just a year but always
+Ooooh yeah
+Oh always
+Fade:
+Ooooh yeah
+Oh always

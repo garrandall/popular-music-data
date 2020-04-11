@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-can-t-help-believing-b-j--thomas
+lyrics_url: https://genius.com/Bj-thomas-i-just-cant-help-believing-lyrics
 name: I Just Can't Help Believing
 rankings:
 - end_date: '1970-06-26'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
 ---
+I just can't help believing
+When she smiles up soft and gentle
+With a trace of misty morning
+And a promise of tomorrow in her eyes...
 
+And I just can't help believing
+When she's lying close beside me
+And my heart beats with the rhythm of her sigh...
+
+This time the girl is gonna stay
+This time the girl is gonna stay...
+For more than just a day
+
+I just can't help believing
+When she slips her hand in my hand
+And it feels so small and helpless
+That my fingers fold around it like a glove...
+
+And I just can't help believing
+When she's whispering her magic
+And her tears are shining honey sweet with love...
+
+This time the girl is gonna stay (This time the girl is gonna stay)
+This time the girl is gonna stay...
+For more than just a day
+
+For more than just a day...
+(I just can't help believing...)

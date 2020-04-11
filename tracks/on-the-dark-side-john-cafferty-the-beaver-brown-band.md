@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: on-the-dark-side-john-cafferty-the-beaver-brown-band
+lyrics_url: https://genius.com/John-cafferty-and-the-beaver-brown-band-on-the-dark-side-lyrics
 name: On The Dark Side
 rankings:
 - end_date: '1983-10-14'
@@ -116,4 +117,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+The dark side's callin' now
+Nothin' is real
+She'll never know just how I feel
+From out of the shadows
+She walks like a dream
+Makes me feel crazy
+Makes me feel so mean
 
+
+Ain't nothin' gonna save you
+From a love that's blind
+You slip to the dark side
+Across that line
+
+
+On the dark side, oh yeah
+On the dark side, oh yeah
+
+
+
+
+
+
+
+
+
+
+
+ (x2)

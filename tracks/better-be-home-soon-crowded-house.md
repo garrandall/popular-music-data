@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-be-home-soon-crowded-house
+lyrics_url: https://genius.com/Crowded-house-better-be-home-soon-lyrics
 name: Better Be Home Soon
 rankings:
 - end_date: '1988-07-15'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
 ---
+Somewhere deep inside
+Something's got a hold on you
+And it's pushing me aside
+See it stretch on forever
 
+And I know I'm right
+For the first time in my life
+That's why I tell you
+You'd better be home soon
+
+Stripping back the coats
+Of lies and deceiption
+Back to nothingness
+Like a week in the desert
+
+And I know I'm right
+For the first time in my life
+That's why I tell you
+You'd better be home soon
+
+So don't say no, don't say nothing's wrong
+Cos when you get back home maybe I'll be gone
+
+When the nights go down
+When you've had your fill
+When there's nothing left
+
+It would cause me pain
+If we were to end it
+But I could start again
+You can depend on it
+
+I know I'm right
+For the first time in my life
+That's why I tell you
+You'd better be home soon
+That's why I tell you
+You'd better be home soon

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-mother-for-my-children-the-whispers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Whispers-4/A-Mother-for-My-Children-1
 name: A Mother For My Children
 rankings:
 - end_date: '1974-02-15'
@@ -23,4 +24,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
 ---
-
+I can't stand to live alone
+With two children and a home
+When mother's day comes along
+They ask me where their mama's gone
+Left me here scrubbin' floors
+Never washed two dishes before
+How can i tell two little boys
+Your mama ain't comin' home no more
+I've gotta find a mother for my children
+Don't need no sister, don't need no brother
+I've gotta find a mother for my children
+We couldn't see eye to eye
+Packed your bags, said goodbye
+Didn't care if we loved or died
+The kids they always ask me why
+Left us on a rainy day
+Begged her but she would not stay
+Said she had to go away
+Gotta find someone to take her place
+I've gotta find a mother for my children
+I don't need no sister, don't need no brother
+I've gotta find a mother for my children
+I've gotta find a mother for my children
+I've gotta find a mother for my children
+I don't need no sister, don't need no brother
+I've gotta find, yeah, yeah, yeah, mother for my children
+I got to and i got to, i got to find a mother for my children
+Find a, gotta find a, gotta find a mother for my children
+I don't need no brother
+Gotta find a mother for my children
+Find a, gotta find a, gotta find a mother for my children, yeah
+Find a, gotta find a, gotta find a mother for my children

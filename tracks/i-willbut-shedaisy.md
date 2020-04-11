@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-willbut-shedaisy
+lyrics_url: https://genius.com/Shedaisy-i-will-but-lyrics
 name: I WillBut
 rankings:
 - end_date: '2000-07-21'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
 ---
+I won't be ignored
+I won't be bored
+Hey!
 
+I won't be your dirty secret
+I won't be your cure-all pill
+And I won't run to fetch the water
+Just to tumble down the hill
+
+I won't be your Friday paycheck
+I won't be the prize you flaunt
+And I won't be your Martha Stewart, baby
+Or your all night restaurant
+
+But I will, I will, I will be your everything
+If you make me feel like a woman should
+I will, I will, I will be the whole shebang
+You know I will...but
+
+I won't be your crutch to lean on
+I won't wear stiletto heels
+I won't walk a mile in your shoes
+Just so I know how it feels
+
+I won't be your obligation
+I won't be your Barbie doll
+I won't be the portrait of perfection
+To adorn your wall
+
+But I will, I will, I will be your everything
+If you make me feel like a woman should
+I will, I will, I will be the whole shebang
+You know I will...but
+
+Bridge:
+Hey - you know I will
+All right
+
+I won't be your lifetime girlfriend
+I won't be just one of the guys
+I won't be your mama's favorite
+I refuse to be the last in line
+
+But I will, I will, I will be your everything
+If you make me feel like a woman should
+I will, I will, I will be the whole shebang
+You know I will...but
+
+Yeah, I will, I will, I wll be your everything
+I will, I will be the whole shebang
+I will, I will be your everything
+I will, I will, I will, I will- yeah
+
+You know I will
+You know, you know I will
+You know I will
+You know, you know I will - yeah

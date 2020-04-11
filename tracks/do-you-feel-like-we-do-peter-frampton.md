@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-feel-like-we-do-peter-frampton
+lyrics_url: https://genius.com/Peter-frampton-do-you-feel-like-we-do-lyrics
 name: Do You Feel Like We Do
 rankings:
 - end_date: '1976-09-24'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
 ---
+Woke up this morning with a wine glass in my hand
+Whose wine, what wine, where the hell did I dine?
+Must have been a dream. I don't believe where I've been
+Come on - let's do it again
 
+Do you, you feel like I do?
+Do you, you feel like I do?
+
+My friend got busted just the other day
+They said don't walk, don't walk, don't walk away
+He drove into a taxi. Bent the boot, hit the back
+Had to play some music otherwise he'd crack
+
+Do you, you feel like I do?
+Do you, you feel like I do?
+
+Do you, you feel like I do?
+Do you, you feel like I do?
+
+Champagne for breakfast and a sherman in my hand
+White top, White tails, never fails
+Must have been a dream. I don't believe where I've been
+Come on - let's do it again
+
+Do you, you feel like I do?
+Do you, you feel like I do?

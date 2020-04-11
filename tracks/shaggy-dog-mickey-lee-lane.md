@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shaggy-dog-mickey-lee-lane
+lyrics_url: https://www.musixmatch.com/lyrics/Mickey-Lee-Lane/Shaggy-Dog
 name: Shaggy Dog
 rankings:
 - end_date: '1964-10-16'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
 ---
+Do the bird, pretty bird 'cause the bird is the word,
+Do the dog, dirty dog like a daddy frog,
+Do the shake, milk shake like a hairy ape,
+I said ya ya yaga yaga boom chick a ga ga
+Come on come on come on pretty baby
+Come on come on shake it like crazy
+Come on come on come on pretty baby yeah
+Come on come on come on pretty baby
+Come on come on shake it like crazy
+Come on come on come on pretty baby yeah
+Do the bop, sugar flop til you blow your top
+Now you stomp, flip flop and you shake your mop
+Like the frog and the log and the shaggy dog
+I said a ya ya yaga yaga boom chick a ga ga
 
+Come on come on come on pretty baby
+Come on come on shake it like crazy
+Come on come on come on pretty baby yeah
+Come on come on come on pretty baby,
+Come on come on shake it like crazy,
+Come on come on come on pretty baby yeah.

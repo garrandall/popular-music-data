@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-you-the-replacements
+lyrics_url: https://genius.com/The-replacements-ill-be-you-lyrics
 name: I'll Be You
 rankings:
 - end_date: '1989-04-14'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
 ---
+If it's a temporary lull
+Why'm I bored right outta my skull?
+Man I'm dressin' sharp and feelin' dull
 
+Lonely, I guess that's where I'm from
+If I was from Canada
+Then I'd best be called lonesome
+
+And if it's just a game
+Then I'll break down just in case
+Hurry up, we're runnin' in our last race
+
+Well, I laughed half the way to Tokyo
+I dreamt I was Surfer Joe
+And what that means, I don't know
+
+A dream too tired to come true
+Left a rebel without a clue
+And I'm searching for somethin' to do
+
+And if it's just a game
+Then we'll hold hands just the same
+So what, we're bleeding but we ain't cut
+
+And I could purge my soul perhaps
+For the imminent collapse
+Oh yeah, I'll tell you what we could do
+You be me for a while
+I'll be you, oh yeah
+
+A dream too tired to come true
+Left a rebel without a clue
+Won't you tell me what I should do?
+
+And if it's just a lull
+Why'm I bored right outta my skull?
+Oh yeah, keep me from feeling so dull
+
+And if it's just a game
+Then we'll break down just in case
+Then again, I'll tell you what we could do
+You be me for a while
+You be me for a while
+And I'll be you, hey

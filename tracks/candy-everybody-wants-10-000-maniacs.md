@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candy-everybody-wants-10-000-maniacs
+lyrics_url: https://genius.com/10000-maniacs-candy-everybody-wants-lyrics
 name: Candy Everybody Wants
 rankings:
 - end_date: '1993-03-12'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
 ---
+Hey, hey, give 'em what they want
 
+
+If lust and hate is the candy
+If blood and love tastes so sweet
+Then we give 'em what they want
+
+
+Hey, hey, give 'em what they want
+
+
+So their eyes are growing hazy
+'Cause they wanna turn it on
+So their minds are soft and lazy
+Well
+
+
+Hey, hey, give 'em what they want
+
+
+If lust and hate is the candy
+If blood and love tastes so sweet
+Then we give 'em what they want
+
+
+So their eyes are growing hazy
+'Cause they wanna turn it on
+So their minds are soft and lazy
+Well
+Who do you want to blame?
+
+
+Hey, hey, give 'em what they want
+
+
+If lust and hate is the candy
+If blood and love tastes so sweet
+Then we give 'em what they want
+
+
+So their eyes are growing hazy
+'Cause they wanna turn it on
+So their minds are soft and lazy
+Well
+Who do you want to blame?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someone-you-loved-lewis-capaldi
+lyrics_url: https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
 name: Someone You Loved
 rankings:
 - end_date: '2019-05-31'
@@ -183,4 +184,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+I'm going under, and this time, I fear there's no one to save me
+This all or nothing really got a way of driving me crazy
+I need somebody to heal, somebody to know
+Somebody to have, somebody to hold
+It's easy to say, but it's never the same
+I guess I kinda liked the way you numbed all the pain
 
+
+Now, the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and then you pulled the rug
+I was getting kinda used to being someone you loved
+
+
+I'm going under, and this time, I fear there's no one to turn to
+This all or nothing way of loving got me sleeping without you
+Now, I need somebody to know, somebody to heal
+Somebody to have, just to know how it feels
+It's easy to say, but it's never the same
+I guess I kinda like the way you help me escape
+
+
+Now, the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and then you pulled the rug
+I was getting kinda used to being someone you loved
+
+
+And I tend to close my eyes when it hurts sometimes
+I fall into your arms
+I'll be safe in your sound till I come back around
+
+
+For now, the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and then you pulled the rug
+I was getting kinda used to being someone you loved
+But now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down and then you pulled the rug
+I was getting kinda used to being someone you loved
+I let my guard down and then you pulled the rug
+I was getting kinda used to being someone you loved

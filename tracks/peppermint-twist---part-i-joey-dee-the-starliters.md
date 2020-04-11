@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: peppermint-twist---part-i-joey-dee-the-starliters
+lyrics_url: https://genius.com/Joey-dee-and-the-starliters-peppermint-twist-part-i-lyrics
 name: Peppermint Twist - Part I
 rankings:
 - end_date: '1961-11-26'
@@ -80,4 +81,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
+Got a new dance and it goes like this:
+(Hupp di da pep-pep-pep-pep-pep)
+The Name of this dance is the Peppermint Twist:
+(Hupp di da pep-pep-pep-pep-pep)
+You'll like it like this
+The Peppermint Twist
+(Hupp di da pep-pep-pep-pep-pep)
 
+'Round and 'round
+Up and down
+
+'Round and 'round
+Up and down
+It's 'round and 'round and up and down
+
+One two three kick! One two tree jump!
+
+All the girls yeah we go the twist
+(Hey Pepe
+The Peppermint Twist)
+Do the plane the same it's the Peppermint Twist
+(Hey Pepe
+The Peppermint Twist)
+You will what
+What is the Peppermint Twist
+(Hey Pepe
+The Peppermint Twist)
+
+'Round and 'round
+Up and down
+
+It's goes 'round and 'round
+And up and down
+One two tree good one ha ha ha ha
+One two tree good one ha ha ha ha
+One two tree good one ha ha ha ha
+One two tree good one ha ha ha ha
+You wanna love than do this the Peppermint Twist

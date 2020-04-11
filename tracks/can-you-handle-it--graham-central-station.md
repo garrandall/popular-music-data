@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-you-handle-it--graham-central-station
+lyrics_url: https://genius.com/Graham-central-station-can-you-handle-it-lyrics
 name: Can You Handle It?
 rankings:
 - end_date: '1974-05-10'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
 ---
+You made a fool out of me girl
+But that made me the man
+I was trying to be girl
+You done me wrong, yes you did now
+But you only made me strong
+Yes you did girl, tell me now
 
+Can you handle it?
+See what you did to me
+Can you handle it?
+Can you handle it?
+You made it what it is
+Can you handle it?
+
+Yes, you made a fool out of me girl
+To the things I was blind you made me see girl
+My heart feels no pain
+If there's anyone to blame
+It's you, it's you, it's you girl
+Tell me now
+
+Can you handle it?
+See what you did to me
+Can you handle it?
+Can you handle it?
+You made it what it is
+Can you handle it?
+Now can you handle it?
+See what you did?
+Can you handle it?
+
+See what you did?
+Can you handle it?
+See what you did?
+Can you handle it?
+See what you did?
+
+You made a fool out of me girl
+But that made me the man
+I was trying to be girl
+My heart feels no pain
+If there's anyone to blame
+It's you, it's you, it's you girl
+
+Now can you handle it?
+Can you handle it?
+Now can you handle it?
+Can you handle it?

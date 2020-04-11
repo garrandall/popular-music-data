@@ -1,6 +1,6 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: lady-luck-lloyd-price-and-his-orchestra

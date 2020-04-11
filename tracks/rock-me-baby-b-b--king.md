@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-me-baby-b-b--king
+lyrics_url: https://genius.com/Bb-king-rock-me-baby-lyrics
 name: Rock Me Baby
 rankings:
 - end_date: '1964-05-15'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+Rock me baby, rock me all night long
+Rock me baby, honey, rock me all night long
+I want you to rock me baby
+Like my back ain't got no bones
 
+Roll me baby, like you roll a wagon wheel
+I want you to roll me baby, like you roll a wagon wheel
+Want you to roll me baby
+You don't know how it makes me feel
+
+Rock me baby, honey, rock me slow
+Yeah, rock me pretty baby, baby rock me slow
+Want you to rock me baby
+Till I want no more

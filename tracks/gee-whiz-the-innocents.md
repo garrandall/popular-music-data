@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gee-whiz-the-innocents
+lyrics_url: https://www.musixmatch.com/lyrics/The-Innocents/Gee-Whiz
 name: Gee Whiz
 rankings:
 - end_date: '1960-11-27'
@@ -51,4 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
-
+Gee whiz
+I can't believe that you love me
+I can't believe that an angel like you
+Could fall in love with me
+So tenderly
+Gee whiz
+Why do I thrill when you kiss me?
+My heart stands still
+When you're holding my hand
+The feeling is oh so grand
+Oh so grand
+How can you talk to an angel?
+What words would you say?
+How can you talk to an angel up above?
+Or should I be modest or brave?
+Gee whiz
+Love comes but once in a life-time
+Now that it's here
+Tell me what shall I do?
+I'm so in love with you
+Gee whiz
+Gee whiz
+What shall I do?
+Gee whiz
+Gee whiz

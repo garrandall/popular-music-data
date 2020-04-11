@@ -1,6 +1,6 @@
 ---
 artists:
-- Mitch Miller and his "Sing Along With Mitch" Chorus
+- Mitch Miller
 features: []
 genres: []
 key: the-children-s-marching-song--nick-nack-paddy-whack--mitch-miller-and-his--sing-along-with-mitch--chorus

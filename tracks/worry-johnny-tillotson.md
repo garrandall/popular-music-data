@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: worry-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-worry-lyrics
 name: Worry
 rankings:
 - end_date: '1964-07-24'
@@ -47,4 +48,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
 ---
+Worry the nights away worry all through the day
+I worry what's come over you
+Worry somehow you've changed worry you seem so strange
+I worry what am I gonna do
 
+Your lips keep saying that you care
+But your heart just isn't there
+And your eyes reveal the lies your lips have told
+No use pretending nothing's wrong
+Guess I've known it all along
+I'm slowly losing you and all that I can do
+
+Is worry the nights away worry all through the day
+I worry I'm so in love with you
+(That's why I worry) I'm so in love with you

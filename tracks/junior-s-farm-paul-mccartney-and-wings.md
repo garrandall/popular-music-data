@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: junior-s-farm-paul-mccartney-and-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-juniors-farm-lyrics
 name: Junior's Farm
 rankings:
 - end_date: '1974-11-15'
@@ -75,4 +76,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
+You should have seen me with the poker man
+I had a honey and I bet a grand
+Just in the nick of time, I looked at his hand
+I was talking to an Eskimo
+Said he was hoping for a fall of snow
+When up popped a sea lion ready to go
 
+
+Let's go, let's go, let's go, let's go
+Down to Junior's Farm where I want to lay low
+Low life, high life, oh, let's go
+Take me down to Junior's Farm
+Take me down!
+
+
+At the Houses of Parliament
+Everybody's talking about the President
+We all chip in for a bag of cement
+Ollie Hardy should have had more sense
+He bought a gee-gee and he jumped the fence
+All for the sake for a couple of pence
+
+
+Let's go, let's go, let's go, let's go
+Down to Junior's Farm where I want to lay low
+Low life, high life, oh, let's go
+Take me down to Junior's Farm
+
+Let's go, let's go
+Down to Junior's Farm where I want to lay low
+Low life, high life, oh, let's go
+Take me down to Junior's Farm
+Everybody tag along
+
+Ha!  Huh, ha!
+
+
+I took my bag to the grocer's store
+The price is higher than the time before
+Old man asked why is it more
+I said you should have seen me with the poker man
+I had a honey and I bet a grand
+Just in the nick of time, I looked at his hand
+
+
+Let's go, let's go, let's go, let's go
+Down to Junior's Farm where I want to lay low
+(Down to Junior's Farm.)
+Low life, high life, oh, let's go
+Take me down to Junior's Farm.  (Down to Junior's Farm.)
+Let's go, let's go
+Down to Junior's Farm where I want to lay low
+(Down to Junior's Farm.)
+Low life, high life, oh, let's go
+Take me down to Junior's Farm.  (Down to Junior's Farm.)
+Everybody tag along.  (Everybody tag along.)
+Take me down to Junior's Farm right now
+Ow!
+
+Ah, ah, ah, ah, ah, ah, ah
+Take me back
+Take me back
+I wanna go back
+Yeah, yeah, yeah, eh
+
+(Gasping)

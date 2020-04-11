@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lie-to-me-brook-benton
+lyrics_url: https://genius.com/Brook-benton-lie-to-me-lyrics
 name: Lie To Me
 rankings:
 - end_date: '1962-08-31'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
 ---
+I know I'm losing you, I feel it all the time
+And I know if I lose you, then I'll lose my mind
+So lie to me, lie to me, make me believe everything you say
+Just, lie, lie, lie, lie, I'd rather have it that way
 
+Nobody told me you were cheating
+Aw it's just a feeling I had
+So if I'm right, you got to lie to me
+Then I won't feel so bad
+
+Because the truth would only hurt me
+And that price is too big to pay
+So lie to me, lie to me, I'd rather have it that way
+
+Now you may think I'm foolish for saying what I said
+But the truth could mean I'd lose you
+So tell me a little lie instead
+
+Tell me that you love me and I'll believe every word you say
+Even if you lie, lie, lie, lie, I'd rather have it that way

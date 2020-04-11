@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-me-fleetwood-mac
+lyrics_url: https://genius.com/Fleetwood-mac-hold-me-lyrics
 name: Hold Me
 rankings:
 - end_date: '1982-06-25'
@@ -75,4 +76,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
 ---
+Can you understand me
+Baby, don't you hand me a line
+Although it doesn't matter
+You and me got plenty of time
+There's nobody in the future
+So baby let me hand you, my love
+There's no step for you to dance to
+So slip your hand inside of my glove
 
+
+Hold me, hold me, hold me
+Hold me, hold me, hold me
+
+
+I don't want no damage
+But how'm I going to manage with you
+You hold the percentage
+But I'm the fool payin' the dues
+I'm just around the corner
+If you got a minute to spare
+I'll be waitin' for you
+If you ever want to be there
+
+
+Hold me, hold me, hold me
+Hold me, hold me, hold me

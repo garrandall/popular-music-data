@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: julia-ramsey-lewis
+lyrics_url: https://www.musixmatch.com/lyrics/Ramsey-Lewis/Julia
 name: Julia
 rankings:
 - end_date: '1969-10-03'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Half of what I say is meaningless
+But I say it just to reach you, Julia.
 
+Julia, Julia, ocean child, calls me
+So I sing a song of love, Julia
+Julia, seashell eyes, windy smile, calls me
+So I sing a song of love, Julia.
+
+Her hair of floating sky is shimmering, glimmering
+In the sun
+
+Julia, Julia, morning moon, touch me
+So I sing a song of love, Julia.
+
+When I cannot sing my heart
+I can only speak my mind, Julia.
+
+Julia, sleeping sand, silent cloud, touch me
+So I sing a song of love, Julia.
+
+Hum hum hum hum, calls me
+So I sing a song of love, Julia, Julia, Julia.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-i-ve-done-linkin-park
+lyrics_url: https://genius.com/Linkin-park-what-ive-done-lyrics
 name: What I've Done
 rankings:
 - end_date: '2007-04-27'
@@ -99,4 +100,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
 ---
+In this farewell
+There's no blood, there's no alibi
+'Cause I've drawn regret
+From the truth of a thousand lies
+So let mercy come and wash away
 
+
+What I've done
+I'll face myself
+To cross out what I've become
+Erase myself
+And let go of what I've done
+
+
+Put to rest what you thought of me
+While I clean this slate
+With the hands of uncertainty
+So let mercy come and wash away
+
+
+What I've done
+I'll face myself
+To cross out what I've become
+Erase myself
+And let go of what I've done
+
+
+For what I've done
+I start again
+And whatever pain may come
+Today this ends
+I'm forgiving what I've done
+
+
+What I've done
+I'll face myself
+To cross out what I've become
+Erase myself
+And let go of what I've done
+
+
+(Na-na na na)
+(Na-na na na)
+(Na-na na na)
+What I've done
+(Na-na na na)
+(Na-na na na)
+(Na-na na na)
+Forgiving what I've done
+(Na-na na na)
+(Na-na na na)
+(Na-na na na)
+(Na-na na na)

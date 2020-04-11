@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-same-love-that-made-me-laugh-bill-withers
+lyrics_url: https://genius.com/Bill-withers-the-same-love-that-made-me-laugh-lyrics
 name: The Same Love That Made Me Laugh
 rankings:
 - end_date: '1974-04-19'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
 ---
+Your love is like a a chunk of gold
+Hard to gain, and hard to hold
+Like a rose that's soft to touch
+Love has gone, and it hurts so much
 
+
+Well and why…
+Must the same love that made me laugh
+Make me cry?
+
+
+Well now, you think of love as sitting on a mountain
+Think of it as being a great big rock
+Won't you think before you started to roll it down
+Because once you start it, you can't make it stop
+
+
+I've given all I have to give
+And if you don't want me
+I don't want to live
+
+
+Well and Why…
+Must the same love that made me laugh
+Why you wanna make me cry?
+
+
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me lay in my pillow
+And just cryin' like a weeping willow
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me mess u my pillow?
+I'm just cryin' like a weeping willow
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?
+Why you wanna make me cry?

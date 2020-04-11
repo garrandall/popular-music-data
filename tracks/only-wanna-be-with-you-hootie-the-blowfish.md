@@ -1,7 +1,6 @@
 ---
 artists:
-- Hootie
-- The Blowfish
+- Hootie and The Blowfish
 features: []
 genres: []
 key: only-wanna-be-with-you-hootie-the-blowfish

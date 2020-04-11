@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-together-al-martino
+lyrics_url: https://genius.com/Al-martino-always-together-lyrics
 name: Always Together
 rankings:
 - end_date: '1964-08-21'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
+Always together, until forever
+Leaving the dreams that we share
+True hearts together, until forever
+Showing the world that we care
 
+You won't be lonely
+I'll love you only
+I'll live my life just for you
+
+Always together, until forever
+Our love will always be true
+
+True hearts together, until forever
+Showing the world that we care
+
+You won't be lonely
+I'll love you only
+I'll live my life just for you
+
+Always together, until forever
+Our love will always be true

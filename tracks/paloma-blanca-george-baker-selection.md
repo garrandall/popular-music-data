@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paloma-blanca-george-baker-selection
+lyrics_url: https://genius.com/George-baker-selection-paloma-blanca-lyrics
 name: Paloma Blanca
 rankings:
 - end_date: '1975-12-05'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
 ---
+When the sun shines on the mountains
+And the night is on the run
+It's a new day
+It's a new way
+And I fly up to the sun
 
+I can feel the morning sunlight
+I can smell the newborn hay
+I can hear God's voices calling
+From my golden skylight way
+
+Una paloma blanca
+I'm just a bird in the sky
+Una paloma blanca
+Over the mountains I fly
+No one can take my freedom away
+
+Once I had my share of losing
+Once they locked me on a chain
+Yes, they tried to break my power
+Oh, I still can feel the pain
+
+Una paloma blanca
+I'm just a bird in the sky
+Una paloma blanca
+Over the mountains I fly
+No one can take my freedom away
+
+Yes, no one can take my freedom away
+
+When the sun shines on the mountains
+And the night is on the run
+It's a new day, it's a new way
+And I fly up to the sun
+
+Una paloma blanca
+I'm just a bird in the sky
+Una paloma blanca
+Over the mountains I fly
+No one can take my freedom away

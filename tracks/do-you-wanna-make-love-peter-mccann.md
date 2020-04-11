@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-wanna-make-love-peter-mccann
+lyrics_url: https://genius.com/Peter-mccann-do-you-wanna-make-love-lyrics
 name: Do You Wanna Make Love
 rankings:
 - end_date: '1977-04-29'
@@ -95,4 +96,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
 ---
+Sometimes the love rhymes that fill that afternoon
+Lose all their meaning with the rising moon
+Hold me and tell me that the words you say are true
+Answer the question I must ask of you .....
 
+Do you wanna make love
+Or do you just want to fool around?
+I guarantee it will bring you down
+If you try and fool yourself
+Do you wanna make love
+Or do you just want to fool around?
+You can take it seriously
+Or take it somewhere else
+
+Take all the freedom that a lover will allow
+If you feel the feeling that I'm feeling now
+Where love goes, a fool knows that the hurt can go as deep
+Don't make a promise that you cannot keep
+
+Do you wanna make love
+Or do you just want to fool around?
+I guarantee it will bring you down
+If you try and fool yourself
+Do you wanna make love
+Or do you just want to fool around?
+You can take it seriously
+Or take it somewhere else
+
+If you wanna get close to me
+You could do it so easily
+Is it love that I see when I look in your eyes
+Or just another empty lie?
+
+Do you wanna make love
+Or do you just want to fool around?
+I guarantee it will bring you down
+If you try and fool yourself
+Well, do you wanna make love
+Or do you just want to fool around?
+You can take it seriously
+Or take it somewhere else

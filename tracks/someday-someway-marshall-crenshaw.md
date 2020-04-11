@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someday-someway-marshall-crenshaw
+lyrics_url: https://genius.com/Marshall-crenshaw-someday-someway-lyrics
 name: Someday Someway
 rankings:
 - end_date: '1982-07-16'
@@ -51,4 +52,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
 ---
+I can't stand to see you sad
+I can't bear to hear you cry
+If you can't tell me what you need
+All I can do is wonder why
 
+
+Someday, someway aww
+Someday, someway, yeah now
+Someday, someway
+Maybe I'll understand you
+
+
+After all you've done for me
+All I really want to do
+Is take the love you brought my way
+And give it all right back to you
+
+
+Someday, someway awww
+Someday, someway yeah yeah
+Someday, someway
+Maybe you'll understand me
+
+
+You've taken everything from me
+I've taken everything from you
+I'll love you for my whole life through
+
+
+Now after all you've done for me
+All I really want to do
+Is take the love you brought my way
+And give it all right back to you
+
+
+Someday, someway aww
+Someday, someway, yeah now
+Someday, someway
+Maybe you'll understand me
+
+
+You've taken everything from me
+I've taken everything from you
+I'll love you for my whole life through
+
+
+I can't stand to see you sad
+I can't bear to hear you cry
+If you can't tell me what you need
+All I can do is wonder why
+
+
+Someday, someway aww
+Someday, someway, yeah yeah
+Someday, someway
+Maybe I'll understand you
+
+
+Someday, someway aww
+Someday, someway, yeah yeah
+Someday, someway
+Maybe you'll understand me
+
+
+Someday, someway oh!
+Someday, someway, now now
+Someday, someway
+Maybe I'll understand you
+
+
+Someday, someway whoa whoa
+Someday, someway, yeah yeah

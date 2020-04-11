@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-close-our-eyes-go-west
+lyrics_url: https://genius.com/Go-west-we-close-our-eyes-lyrics
 name: We Close Our Eyes
 rankings:
 - end_date: '1985-03-01'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
 ---
+Inside everyone hides one desire
+Outside no one would know
+Danger close to edge of the knife
+Safer not to let go
+And while we miss chances
+You can almost hear time slipping away
 
+We close our eyes, we never lose a game
+Imagination never lets us take the blame
+We close our eyes to see the final frame
+We close our eyes to time slipping away
+
+No show, Wednesday girl waits with the wine
+She knows just what to say
+While no one listens
+You can almost hear time slipping away
+
+We close our eyes, we never lose a game
+Imagination never lets us take the blame
+We close our eyes to see the final frame
+We close our eyes and
+
+We can talk to strangers
+We are burning with the spark
+And we can walk on water
+We are tigers in the dark
+We are burning
+
+We close our eyes
+
+Heroes never give into the night
+He knows how far he can run
+And as he surrenders
+You can almost hear time slipping away
+
+We close our eyes, we never lose a game
+Imagination never lets us take the blame
+We close our eyes to see the final frame
+We close our eyes
+
+We close our eyes, we never lose a game
+Imagination never lets us take the blame
+We close our eyes to see the final frame
+We close our eyes
+
+We close our eyes, we walk on water
+Lets us take the blame
+We are burning
+Talk to strangers

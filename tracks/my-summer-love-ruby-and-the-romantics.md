@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-summer-love-ruby-and-the-romantics
+lyrics_url: https://genius.com/Ruby-and-the-romantics-my-summer-love-lyrics
 name: My Summer Love
 rankings:
 - end_date: '1963-05-24'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
+You're the one I've been waiting for
+Take me down to the sandy shore
+Summer love would be good for me
+If you would be my summer love
 
+It's the start of my happiness
+And the end of my loneliness
+Summer love could be paradise
+Or twice as nice, my summer love
+
+The tides roll by and waves of love
+Will sweep into your heart
+If that's the way it's meant to be
+We'll never, never part
+
+By the time that the leaves turn brown
+Other loves may come tumbling down
+Ours will last through eternity
+If you will be my summer love

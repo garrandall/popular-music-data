@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: how-deep-is-your-love-calvin-harris-disciples
+lyrics_url: https://genius.com/Calvin-harris-how-deep-is-your-love-lyrics
 name: How Deep Is Your Love
 rankings:
 - end_date: '2015-08-14'
@@ -88,4 +89,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
 ---
+I want you to breathe me
+Let me be your air
+Let me roam your body freely
+No inhibition, no fear
 
+
+How deep is your love?
+Is it like the ocean?
+What devotion are you?
+How deep is your love?
+Is it like nirvana?
+Hit me harder again
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+(How deep is your love?)
+How deep is your love?
+How deep is your love?
+Is it like the ocean?
+Pull me closer again
+How deep is your love?
+How deep is your love?
+
+
+Open up my eyes and
+Tell me who I am
+Let me in on all your secrets
+No inhibition, no sin
+
+
+How deep is your love?
+Is it like the ocean?
+What devotion are you?
+How deep is your love?
+Is it like nirvana?
+Hit me harder again
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+(How deep is your love?)
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+How deep is your love?
+Is it like the ocean?
+Pull me closer again
+How deep is your love?
+How deep is your love?
+How deep is your love?
+
+
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+(How deep is your love?)
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+(How deep is your love?)
+So tell me, how deep is your love? Can it go deeper?
+(Pull me closer, again)
+So tell me, how deep is your love?
+(How deep is your love?
+How deep is your love?
+How deep is your love?)
+
+
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?
+(How deep is your love?)
+So tell me, how deep is your love? Can it go deeper?
+So tell me, how deep is your love? Can it go deep?

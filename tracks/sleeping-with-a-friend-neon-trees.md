@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sleeping-with-a-friend-neon-trees
+lyrics_url: https://genius.com/Neon-trees-sleeping-with-a-friend-lyrics
 name: Sleeping With A Friend
 rankings:
 - end_date: '2014-03-21'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
 ---
+All my friends, they’re different people
+Anxious like the ocean in a storm
+When we go out, yeah, we’re electric
+Coursing through our bodies ’til we’re one
 
+And why mess up a good thing, baby?
+It’s a risk to even fall in love
+So, when you give that look to me
+I better look back carefully
+‘Cause this is trouble, yeah this is trouble
+
+
+I said ooh, ooh
+You got me in the mood, mood
+I’m scared, but if my heart’s gonna break
+Before the night will end
+I said, ooh, ooh we’re in danger
+Sleeping with a friend, sleeping with a friend
+Sleeping with a friend
+
+
+All my friends, stay up past midnight
+Looking for the thing to fill the void
+I don’t go out much like I used to
+Something ’bout the strangers and the noise
+
+And why leave when I got you, baby?
+It’s a risk but babe, I need the thrill
+I never said you’d be easy
+But if it was all up to me
+I’d be no trouble, hey, we’re in trouble
+
+
+I said ooh, ooh
+You got me in the mood, mood
+I’m scared, but if my heart’s gonna break
+Before the night will end
+I said, ooh, ooh we’re in danger
+Sleeping with a friend
+Ooh, ooh we’re in danger
+Sleeping with a friend
+
+All my friends
+All my friends
+All my friends
+All my friends
+All my friends
+All my friends
+All my friends
+All my friends
+
+
+We are both young, hot-blooded people
+We don’t wanna die alone
+Two become one, it could be lethal
+Sleeping with a friend

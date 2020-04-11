@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-never-said-goodbye-engelbert-humperdinck
+lyrics_url: https://genius.com/Engelbert-humperdinck-i-never-said-goodbye-lyrics
 name: I Never Said Goodbye
 rankings:
 - end_date: '1973-01-05'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+She cried and walked away just yesterday
+And like a fool, I let her go
+We had a silly fight the night before
+I never said "I love you so"
+I wept all day and then I got the call
+"Would you please come to see your wife"
+"Something has happened and it's very grave"
+"We cannot save the lady's life"
 
+No, I never said goodbye and I never really told her
+Just how much she meant to me
+No, I never said goodbye, now it's too late
+And she's just a memory
+How can I go on
+Now that girl is gone
+I will know, until I die
+I never said goodbye
+
+Her perfume lingers all around me now
+A pair of shoes lie on the floor
+The bed unmade, where just last night, she laid
+I cannot say I closed the door
+A shopping list of things she'll never buy
+An apron lyin' on the chair
+Is that her laugh I hear out in the hall
+I turn and call, but she's not there
+
+No, I never said goodbye
+And I never really told her just how much she meant to me
+No, I never said goodbye
+Now it's too late and she's just a memory
+How can I go on
+Now that girl is gone
+I will know, until I die
+I never said goodbye

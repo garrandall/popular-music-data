@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-guess-that-s-why-they-call-it-the-blues-elton-john
+lyrics_url: https://genius.com/Elton-john-i-guess-thats-why-they-call-it-the-blues-lyrics
 name: I Guess That's Why They Call It The Blues
 rankings:
 - end_date: '1983-11-04'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+Don't wish it away
+Don't look at it like it's forever
+Between you and me, I could honestly say
+That things can only get better
 
+
+And while I'm away
+Dust out the demons inside
+And it won't be long before you and me run
+To the place in our hearts where we hide
+
+
+And I guess that's why they call it the blues
+Time on my hands could be time spent with you
+Laughin' like children, livin' like lovers
+Rollin' like thunder under the covers
+And I guess that's why they call it the blues
+
+
+Just stare into space
+Picture my face in your hands
+Live for each second without hesitation
+And never forget I'm your man
+
+
+Wait on me, girl
+Cry in the night if it helps
+But more than ever, I simply love you
+More than I love life itself
+
+
+And I guess that's why they call it the blues
+Time on my hands could be time spent with you
+Laughin' like children, livin' like lovers
+Rollin' like thunder under the covers
+And I guess that's why they call it the blues
+
+
+
+
+Wait on me, girl
+Cry in the night if it helps
+But more than ever, I simply love you
+More than I love life itself
+
+
+And I guess that's why they call it the blues
+Time on my hands could be time spent with you
+Laughin' like children, livin' like lovers
+Rollin' like thunder under the covers
+And I guess that's why they call it the blues
+
+
+(Laughing like children, living like lovers)
+And I guess that's why they call it the blues
+(Laughing like children, living like lovers)
+And I guess that's why they call it the blues
+And I guess that's why they call it the blues

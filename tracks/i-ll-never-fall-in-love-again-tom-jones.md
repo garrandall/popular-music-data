@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-fall-in-love-again-tom-jones
+lyrics_url: https://genius.com/Tom-jones-ill-never-fall-in-love-again-annotated
 name: I'll Never Fall In Love Again
 rankings:
 - end_date: '1967-09-15'
@@ -99,4 +100,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
-
+I've been in love so many times
+Thought I knew the score
+But now you've treated me so wrong
+I can't take anymore
+And it looks like
+I'm never gonna fall in love again
+Fall in love, I'm never gonna fall in love
+I mean it
+Fall in love again
+All those things I heard about you
+I thought they were only lies
+But when I caught you in his arms
+I just broke down and cried
+And it looks like
+I'm never gonna fall in love again
+Fall in love, no, I'm never gonna fall in love
+I mean it, I mean it
+Fall in love again
+I gave my heart so easily
+I cast aside my pride
+But when you fell for someone else, baby
+I broke up all inside
+And it looks like
+I'm never gonna fall in love again
+That's why I'm a-singin' it
+Fall in love, no, I'm never gonna fall in love
+Please don't make me
+Fall in love again

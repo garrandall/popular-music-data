@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-love-for-you-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-my-love-for-you-lyrics
 name: My Love For You
 rankings:
 - end_date: '1960-09-04'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
 ---
+My love for you
+Is deep and endless as the sea
+Strong and mighty as a tree
+My love for you
 
+My eager heart
+Keeps beating just for you alone
+Since the moment
+It has known
+My love for you
+
+There'll be no other lips
+No other arms
+No other love for me
+Feeling as I do
+How could there be?
+
+And so
+It will be
+Far beyond eternity
+Ever faithful, ever true
+My love for you
+
+So, it will be
+Far beyond eternity
+Ever faithful, ever true
+My love for you
+
+My love
+For you!

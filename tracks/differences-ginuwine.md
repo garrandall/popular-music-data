@@ -187,13 +187,13 @@ Glad you came into my life (So glad you came in)
 You blind me with your love (Blind me, baby), with you
 I have no sight
 
-{God has blessed me} God has blessed me, baby
+ God has blessed me, baby
 Girl, He was good to me when He sent you
-{I'm so happy, baby}
+
 I'm so happy, I'm so happy, baby, oh, yes, baby
-{Share my world} Come and share my world, baby,
+ Come and share my world, baby,
 oh...whoa...yeah. yeah
-{I'm so in love} I'm so in love
+ I'm so in love
 I'm addicted to your love, baby, yeah...
 
 My whole life has changed (Oh, yes, I am)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-an-open-door-the-fuzz
+lyrics_url: https://www.musixmatch.com/lyrics/The-Fuzz-2/Like-an-Open-Door
 name: Like An Open Door
 rankings:
 - end_date: '1971-08-06'
@@ -19,4 +20,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
 ---
-
+Ooh, hoo, hoo

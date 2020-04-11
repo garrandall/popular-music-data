@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: into-the-night-benny-mardones
+lyrics_url: https://genius.com/Benny-mardones-into-the-night-lyrics
 name: Into The Night
 rankings:
 - end_date: '1980-06-20'
@@ -155,4 +156,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
 ---
+She's just sixteen years old
+Leave her alone, they say
+Separated by fools
+Who don't know what love is yet
+But I want you to know
 
+
+If I could fly, I'd pick you up
+I'd take you into the night
+And show you a love
+Like you've never seen, ever seen
+
+
+It's like having a dream
+Where nobody has a heart
+It's like having it all
+And watching it fall apart
+And I would wait till the end of time for you
+And do it again, it's true
+I can't measure my love
+There's nothing to compare it to
+But I want you to know
+
+
+If I could fly, I'd pick you up
+I'd take you into the night
+And show you a love
+Oh, if I could fly, I'd pick you up
+I'd take you into the night
+And show you a love
+Like you've never seen, ever seen
+Yeah, ooh
+
+
+If I could fly, I'd pick you up
+I'd take you into the night
+And show you a love
+Oh, if I could fly, I'd pick you up
+And take you into the night
+
+
+(Into the night, fly) if I could fly
+I'd pick you up
+Oh into the night
+I'd pick you up

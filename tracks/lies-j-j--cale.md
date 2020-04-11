@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lies-j-j--cale
+lyrics_url: https://genius.com/Jj-cale-lies-lyrics
 name: Lies
 rankings:
 - end_date: '1972-11-10'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
 ---
+You told me this, you told me that
+You try to tell me, tell me where it's at
+You said you loved me, I can see through that
+Lies, lies, lies
 
+You left me hangin', hangin' from a limb
+You said you loved me, then you left with him
+Lord, you did it to me, I see it in your eyes
+Lies, lies, lies
+
+Tell me baby, why you take my time
+You get a thrill off playing with my mind
+Lord, you did it to me, I see it in your eyes
+Lies, lies, lies

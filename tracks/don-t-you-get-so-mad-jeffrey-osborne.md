@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-get-so-mad-jeffrey-osborne
+lyrics_url: https://genius.com/Jeffrey-osborne-dont-you-get-so-mad-lyrics
 name: Don't You Get So Mad
 rankings:
 - end_date: '1983-07-22'
@@ -63,4 +64,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
 ---
+We were having such a good time, baby
+Oh, yes, we were
+Then you went and spoiled the whole thing, baby
+In front of everyone
 
+You're telling me I was wrong
+And that all night long
+I was staring at someone else
+Well, even if you were right
+There's no need to fight
+There's no need to get upset
+
+
+Don't you get so mad about it
+(Do you have to get so mad)
+Don't you get so mad about it
+(About it, about it)
+Don't you get so mad about it
+(Ooh, ooh, ooh)
+Don't you get so mad about it, hey
+(Mad about it)
+
+
+You should learn to control your feelings
+Respectably
+‘Cause arguing in public is embarrassing
+
+It's always the same thing, baby
+Accusing me out of jealousy
+I never will understand
+Why you make so much out such a little thing
+
+
+
+
+It's all so crazy now
+Somehow it's got to change
+Take a look at yourself
+Carrying on this way
+
+I know you care about
+The love we're building here
+So why get all upset
+It's just not worth it
+Listen to me, my dear
+
+
+
+(Do you have to get so mad)
+Don't you get so mad, baby
+(About it, about it)
+Whoa, whoa, ho, baby
+(Ooh, ooh, ooh)
+Don't you get so mad about it
+(Mad about it)
+Whoa, ho, oh…
+
+(Do you have to get so mad)
+Don't get so mad now, baby
+(About it, about it)
+Ho, don't you get so mad about it, babe
+Don't you get so mad
+(Ooh, ooh, ooh)
+Don't you get so mad about it, babe, no
+(Mad about it)
+Woo, ooh, ho
+
+(Do you have to get so mad)
+Don't get so mad about it
+(About it, about it)
+There's no need to get upset
+(Ooh, ooh, ooh)
+Darling, please don't forget the love we had
+(Mad about it)
+Oh…

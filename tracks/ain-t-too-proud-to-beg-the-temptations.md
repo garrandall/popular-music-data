@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-too-proud-to-beg-the-temptations
+lyrics_url: https://genius.com/The-temptations-aint-too-proud-to-beg-lyrics
 name: Ain't Too Proud To Beg
 rankings:
 - end_date: '1966-06-03'
@@ -59,4 +60,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
 ---
+I know you wanna leave me
+But I refuse to let you go
+If I have to beg and plead for your sympathy
+I don't mind 'cause you mean that much to me
 
+
+Ain't too proud to beg, sweet darlin'
+Please don't leave me girl, don't you go
+Ain't to proud to plead, baby, baby
+Please don't leave me, girl, don't you go
+
+
+Now I heard a cryin' man is half a man
+With no sense of pride
+But if I have to cry to keep you, I don't mind weepin'
+If it'll keep you by my side
+
+
+Ain't too proud to beg, sweet darlin'
+Please don't leave me, girl, don't you go
+Ain't to proud to plead, baby, baby
+Please don't leave me, girl, don't you go
+
+
+If I have to sleep on your doorstep all night and day
+Just to keep you from walkin' away
+Let your friends laugh, even this I can stand
+'Cause I want to keep you any way I can
+
+
+Ain't too proud to beg, sweet darlin'
+Please don't leave me, girl, don't you go
+Ain't to proud to plead, baby, baby
+Please don't leave me, girl, don't you go
+
+
+Now I've got a love so deep in the pit of my heart
+And each day it grows more and more
+I'm not ashamed to come and plead to you, baby
+If pleadin' keeps you from walkin' out of that door
+
+
+Ain't too proud to beg, sweet darlin'
+Please don't leave (don't leave) me, girl, don't you go
+Ain't to proud to plead, baby, baby
+Please don't leave me, girl, don't you go
+
+
+Baby, baby, baby, (ooh, sweet darlin')
+Oh, no
+Don't leave me girl, no, no
+If crying keeps you near
+I don't mind crying
+Don't leave me girl, oh, no
+Oh, baby
+Don't leave me girl, no
+Don't ever leave me

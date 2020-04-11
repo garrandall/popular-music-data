@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-tender-percy-sledge
+lyrics_url: https://genius.com/Percy-sledge-love-me-tender-lyrics
 name: Love Me Tender
 rankings:
 - end_date: '1967-06-23'
@@ -31,4 +32,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
-
+I found a woman
+I felt a true love
+She was everything
+I'd ever been dreaming of
+But she was bad, I didn't know it
+Her pretty smile never did show it
+All I knew is what I could see
+And I knew I wanted her for me
+Took her home to mama
+Mama, wanna see my future bride
+Well she looked at us both
+Then she called me to her side
+She said

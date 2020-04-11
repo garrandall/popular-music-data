@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-to-live-the-love-b-b--king
+lyrics_url: https://genius.com/Bb-king-i-like-to-live-the-love-annotated
 name: I Like To Live The Love
 rankings:
 - end_date: '1973-12-14'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
 ---
+My song is a serious matter
+It reflects what I feel
+If I say I love you, I mean it
+'Cause in my song every line is for real
 
+Every man or woman
+Enjoys going home to a peaceful situation
+To give love and receive love
+Without any complications
+
+Whether my tune is short or long
+Whether my lyrics are weak or strong
+
+
+I like to live the love that I sing about
+In my song
+I like to live the love that I sing about
+In my song
+
+Music is love and my love is music
+In perfect harmony
+So when I sing, I have sung all about
+The love of you and me
+
+I never got angry with my guitar
+'Cause when I strike a chord it gives me what I wanna hear
+So I'm finding out that
+We are quite like my song together, my dear
+
+Outside answers should always be forbidden
+Problems should be solved and never hidden
+
+I like to live the love that I sing about
+In my song
+I like to live the love that I sing about
+In my song
+
+I like to live the love that I sing about
+In my song
+I like to live the love that I sing about
+In my song
+
+I like to live the love that I sing about
+In my song

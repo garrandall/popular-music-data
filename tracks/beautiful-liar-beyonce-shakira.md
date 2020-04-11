@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: beautiful-liar-beyonce-shakira
+lyrics_url: https://genius.com/Beyonce-beautiful-liar-freemasons-mix-lyrics
 name: Beautiful Liar
 rankings:
 - end_date: '2007-04-06'
@@ -80,4 +81,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
+Hey
+Hey
+Hey
+Hey
 
+
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+
+
+He said I'm worth it, his one desire
+He kissed me, his one and only, (yes) beautiful liar
+
+
+You never know
+Why are we the ones who suffer?
+I have to let go
+He won't be the one to cry
+
+
+(Ay) Let's not kill the karma
+(Ay) Let's not start a fight
+(Ay) It's not worth the drama
+For a beautiful liar
+Can't we laugh about it? (Ha Ha Ha)
+(Oh) It's not worth our time
+(Oh) We can live without them
+Just a beautiful liar
+(Ay) Let's not kill the karma
+(Ay) Let's not start a fight
+(Ay) It's not worth the drama
+For a beautiful liar
+Can't we laugh about it? (Ha Ha Ha)
+(Oh) It's not worth our time
+(Oh) We can live without them
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+
+
+I trusted him, but when I followed you, I saw you together
+I walked in on your love scene, slow dancing
+
+
+We'll never know
+When the pain and heartbreak's over
+I have to let go
+The innocence is gone
+
+
+(Ay) Let's not kill the karma
+(Ay) Let's not start a fight
+(Ay) It's not worth the drama
+For a beautiful liar
+Can't we laugh about it?
+(Oh) It's not worth our time
+(Oh) We can live without them
+Just a beautiful liar
+(Ay) Let's not kill the karma
+(Ay) Let's not start a fight
+(Ay) It's not worth the drama
+For a beautiful liar
+Can't we laugh about it?
+(Oh) It's not worth our time
+(Oh) We can live without them
+Just a beautiful liar
+
+
+Beyoncé, Beyoncé
+Beyoncé, Beyoncé
+Shakira, Shakira
+Just a beautiful liar
+Beyoncé, Beyoncé
+Beyoncé, Beyoncé
+Shakira, Shakira
+Just a beautiful liar
+
+
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar
+Just a beautiful liar

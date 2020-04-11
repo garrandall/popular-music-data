@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-can-stop-me-gene-chandler
+lyrics_url: https://genius.com/Gene-chandler-nothing-can-stop-me-lyrics
 name: Nothing Can Stop Me
 rankings:
 - end_date: '1965-04-23'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
 ---
+Nothing can stop me
+So bad, do I feel inside
+Get my hat, I'm checkin' out
+'Cause you and your friends really hurt my pride
+So unexspected you shot me down
+With all the fella's standing around yeah
+'Please don't go', that's what they'll be saying
+'Please don't go', But I'm not playing
+'Cause nothing can stop me
 
+(Yeah yeah yeah)
+(Yeah yeah yeah yeah yeah)
+
+Nothing can stop me
+Though you and I where pretty close
+I'm calling it quits girl
+'Cause it was you I really dug the most
+You made me feel like I was two feet tall
+While all the others laughed and squalled yeah
+'Please don't go', that's what they'll be saying
+'Please don't go', But I'm not playing
+'Cause nothing can stop me
+
+Don't mind me havin' the blues
+You made me loose my cool
+Fella's honestly
+You treat me so cold and you're so mean
+
+Nothing can stop me
+So bad, do I feel inside
+Get my hat, I'm checkin' out
+'Cause you and your friends really hurt my pride
+So unexspected you shot me down
+With all the fella's standing around yeah
+'Please don't go', that's what they'll be saying
+'Please don't go', But I'm not playing
+'Cause nothing can stop me
+
+(Yeah yeah yeah)
+(Yeah yeah yeah yeah yeah)
+(Yeah yeah)
+(yeah yeah)

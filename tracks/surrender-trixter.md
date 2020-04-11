@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surrender-trixter
+lyrics_url: https://genius.com/Trixter-surrender-lyrics
 name: Surrender
 rankings:
 - end_date: '1991-06-14'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
 ---
+Words of silence echo through this lonely room
+Just a photograph and dreams that won't come true
+I'll never know why I left you standin' in the rain
+Cryin' tears of emptyness it's drivin' me insane
 
+All I wanted was to love you
+Never wanted to see you cry
+All I need is just to hold you
+I just can't say - Goodbye
+
+Sometimes we raise our guns of pain but I'll be your defender
+Cause if love means war, baby I surrender
+
+You use words as weapons I use love as a shield
+So tell me why are we on this battlefield
+In a blaze of glory can we rise above these flames
+In a world of anger there's got to be a way
+
+Sometimes we raise our guns of pain but I'll be your defender
+Cause if love means war, baby I surrender
+We're just soldiers from the heart and I ain't no pretender
+So lay down your arms and baby let's surrender
+
+And thought my aim is true
+I sometimes miss the mark
+Ooh, in matters of the heart
+But I'd give my life tonight
+To hold you in my arms
+
+In a blaze of glory can we rise above these flames
+In a world of anger there's got to be a way
+
+I just wanna hold you (surrender)
+I just wanna love you (surrender)
+I never meant to make you cry
+
+Sometimes we raise our guns of pain but I'll be your defender
+Cause if love means war, baby I surrender
+We're just soldiers of from the heart and I ain't no pretender
+So lay down you arms and baby let's surrender

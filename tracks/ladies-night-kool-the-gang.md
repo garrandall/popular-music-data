@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ladies-night-kool-the-gang
+lyrics_url: https://genius.com/Kool-and-the-gang-ladies-night-lyrics
 name: Ladies Night
 rankings:
 - end_date: '1979-10-12'
@@ -104,4 +105,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
 ---
+Mmm, oh yeah, oh what a night
 
+
+Oh yes, it's ladies' night
+And the feeling's right
+Oh yes, it's ladies' night
+Oh what a night (Oh what a night)
+Oh yes, it's ladies' night
+And the feeling's right
+Oh yes, it's ladies' night
+Oh what a night
+
+
+Girls, y'all got the one (What?)
+A night that's special everywhere
+From New York, to Hollywood
+It's ladies' night, and girl the feeling's good
+
+
+
+
+Romantic lady, single baby
+Uhmm, sophisticated mama
+Come here you disco lady
+Yeah, stay with me tonight
+
+
+If you hear any noise
+It ain't the boys
+It's ladies' night
+
+Gonna step out ladies night
+Steppin' out ladies night
+Gonna step out ladies night
+Steppin' out ladies night
+
+
+
+
+On disco lights your name will be seen
+You can fulfill all your dreams
+Party here, party there, everywhere
+This is your night, baby
+You've got to be there, well
+
+
+This is your night
+Tonight, everything is gonna be alright
+
+
+Come on let's all celebrate

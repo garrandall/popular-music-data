@@ -1,6 +1,6 @@
 ---
 artists:
-- Teri DeSario With K.C.
+- Teri DeSario
 features: []
 genres: []
 key: yes-i-m-ready-teri-desario-with-k-c-

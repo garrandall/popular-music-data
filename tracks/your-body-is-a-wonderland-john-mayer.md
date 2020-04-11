@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-body-is-a-wonderland-john-mayer
+lyrics_url: https://genius.com/John-mayer-your-body-is-a-wonderland-lyrics
 name: Your Body Is A Wonderland
 rankings:
 - end_date: '2002-11-08'
@@ -123,4 +124,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
 ---
+We got the afternoon
+You got this room for two
+One thing I've left to do
+Discover me, discovering you
+One mile to every inch of
+Your skin like porcelain
+One pair of candy lips and
+Your bubblegum tongue
 
+
+And if you want love we'll make it
+Swim in a deep sea of blankets
+I take all your big plans and break 'em
+This is bound to be a while
+
+
+Your body is a wonderland
+Your body is a wonder, I'll use my hands
+Your body is a wonderland
+
+
+Something 'bout the way
+Your hair falls in your face
+I love the shape you take when
+Crawling towards the pillowcase
+You tell me where to go
+And though I might leave to find it
+I'll never let your head hit the bed
+Without my hand behind it
+
+
+You want love, we'll make it
+Swim in a deep sea of blankets
+I take all your big plans and break 'em
+This is bound to be a while
+
+
+Your body is a wonderland
+Your body is a wonder, I'll use my hands
+Your body is a wonderland
+(I'll never speak again, again
+I'll use my hands)
+
+
+Damn, baby
+You frustrate me
+I know you're mine all mine, all mine
+But you look so good it hurts sometimes
+
+
+Your body is a wonderland (I'll never speak again, again)
+Your body is a wonder, I'll use my hands
+Your body is a wonderland (I'll never speak again, again)
+Your body is a wonderland (I'll use my hands)

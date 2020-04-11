@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-takes-the-place-of-you-toussaint-mccall
+lyrics_url: https://genius.com/Toussaint-mccall-nothing-takes-the-place-of-you-lyrics
 name: Nothing Takes The Place Of You
 rankings:
 - end_date: '1967-03-31'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+I move your picture
+From my wall
+And I replace them
+Both large and small
+And each new day
+Finds me so blue
+Nothing
+Takes the place of you
+I read your letters
+One by one
+And I still love you
+When it's all said and done
+And oh, my darling
+I am so blue
+Because nothing
+Oh, nothing
+Takes the place of you
 
+I
+
+I write this letter
+It's raining on my
+Windowpane
+
+I
+
+I feel the need of you
+Because without you
+Nothing seems the same
+And so I'll wait
+Until you're home
+Again I'll love you
+But I am all alone
+And oh my darling
+I'm so blue
+Because nothing
+Oh, but nothing
+Takes the place of you

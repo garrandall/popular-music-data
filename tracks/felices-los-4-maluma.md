@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: felices-los-4-maluma
-lyrics_url: https://www.azlyrics.com/lyrics/maluma/feliceslos4salsaversion.html
+lyrics_url: https://genius.com/Maluma-felices-los-4-lyrics
 name: Felices Los 4
 rankings:
 - end_date: '2017-06-09'
@@ -88,3 +88,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
 ---
+Maluma baby
+
+
+Apenas sale el sol y tú te vas corriendo
+Sé que pensarás que esto me está doliendo
+Yo no estoy pensando en lo que estás haciendo
+Si somos ajenos y así nos queremos (mm-mm-mm)
+
+
+Si conmigo te quedas, o con otro tú te vas
+No me importa un carajo porque sé que volverás
+Si conmigo te quedas, o con otro tú te vas
+No me importa un carajo porque sé que volverás
+
+
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Te agrandamo' el cuarto
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Yo te acepto el trato
+
+
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato (alright-alright, baby)
+
+
+Y lo hacemo' otro rato
+Lo nuestro no depende de un pacto
+Disfruta y sólo siente el impacto
+El boom boom que te quema, ese cuerpo de sirena
+Tranquila que no creo en contratos (y tú menos...)
+
+
+Y siempre que se va, regresa a mí, y felices los 4
+No importa el qué dirán, nos gusta así
+(Te agrandamos el cuarto, baby)
+Y siempre que se va, regresa a mí, y felices los 4
+No importa el qué dirán, somos tal para cual
+
+
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Te agrandamos el cuarto
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Yo te acepto el trato
+
+
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+
+
+Si conmigo te quedas, o con otro tú te vas
+No me importa un carajo porque sé que volverás
+Si conmigo te quedas, o con otro tú te vas (a-as)
+No me importa un carajo porque sé que volverás
+
+
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Te agrandamo' el cuarto
+Y si con otro pasas el rato
+Vamo' a ser feliz, vamo' a ser feliz, felices los 4
+Yo te acepto el trato
+
+
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+Y lo hacemo' otro rato
+
+
+(Y siempre que se va, regresa a mí)
+Maluma baby
+(No importa el qué dirán, nos gusta así)
+Kevin ADG, Chan El Genio, RudeBoyz
+(Y siempre que se va, regresa a mí)
+El código secreto, baby
+(No importa el que dirán (Ily Wonder)
+Somos tal para cual)
+Así lo quiso el destino mami
+Muah

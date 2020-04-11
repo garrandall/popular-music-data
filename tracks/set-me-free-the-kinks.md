@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: set-me-free-the-kinks
+lyrics_url: https://genius.com/The-kinks-set-me-free-lyrics
 name: Set Me Free
 rankings:
 - end_date: '1965-06-18'
@@ -39,4 +40,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+Set me free, little girl
+All you gotta do is set me free, little girl
+You know you can do it if you try
+All you gotta do is set me free, free
+Free
 
+Set me free, little girl
+All you gotta do is set me free, little girl
+You know you can do it if you try
+All you gotta do is set me free, free
+Free, free
+
+I don't want no one
+If I can't have you to myself
+I don't need nobody else
+So if I can't have you to myself
+
+Set me free
+Set me free
+
+Oh set me free, little girl
+All you gotta do is set me free, little girl
+You know you can do it if you try
+All you gotta do is set me free, free
+Free, free
+
+I don't want no one
+If I can't have you to myself
+I don't need nobody else
+So if I can't have you to myself
+
+Set me free
+Set me free
+
+Oh set me free, little girl
+All you gotta do is set me free, little girl
+You know you can do it if you try
+All you gotta do is set me free, free
+Free
+
+Set me free
+Oh, set me free

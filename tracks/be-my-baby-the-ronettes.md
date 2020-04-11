@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-my-baby-the-ronettes
+lyrics_url: https://genius.com/The-ronettes-be-my-baby-lyrics
 name: Be My Baby
 rankings:
 - end_date: '1963-09-06'
@@ -59,4 +60,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
 ---
+The night we met I knew I needed you so
+And if I had the chance I'd never let you go
+So won't you say you love me
+I'll make you so proud of me
+We'll make 'em turn their heads every place we go
 
+
+So won't you, please
+(Be my, be my baby)
+Be my little baby
+(My one and only baby)
+Say you'll be my darlin'
+(Be my, be my baby)
+Be my baby now
+Wha-oh-oh-oh
+
+
+I'll make you happy, baby, just wait and see
+For every kiss you give me, I'll give you three
+Oh, since the day I saw you
+I have been waiting for you
+You know I will adore you 'til eternity
+
+
+So won't you, please
+(Be my, be my baby)
+Be my little baby
+(My one and only baby)
+Say you'll be my darlin'
+(Be my, be my baby)
+Be my baby now
+Wha-oh-oh-oh
+
+
+So c'mon and be
+(Be my, be my baby)
+Be my little baby
+(My one and only baby)
+Say you'll be my darlin'
+(Be my, be my baby)
+Be my baby now
+Wha-oh-oh-oh
+
+
+(Be my, be my baby)
+Be my little baby
+(My one and only baby)
+Oh-oh-oooooh
+(Be my, be my baby)
+Ooooooooooh
+Wha-oh-oh-oh-oh
+
+(Be my, be my baby)
+Oh-oh-oooooh
+(My one and only baby)
+Ooooooooooh
+(Be my, be my baby)
+Be my baby now
+Wha-oh-oh-oh

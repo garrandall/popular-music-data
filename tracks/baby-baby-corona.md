@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-baby-corona
+lyrics_url: https://genius.com/Corona-band-baby-baby-lyrics
 name: Baby Baby
 rankings:
 - end_date: '1995-05-19'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
 ---
+Baby baby, baby baby, baby baby, baby baby, baby baby
 
+I wanna roll inside your soul
+To know the things that you need and feel
+Everytime that you're by my side
+I can't get serious, because you got me
+
+Cold chill down on my spine
+No no more tears, show me a smile
+Cold chill down on my spine
+No no more tears, show me a smile
+
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+
+Deep inside I know you need it
+Just let it out and get it on, you gotta feel it
+Every time that you're by my side
+Just think it over, I'll make you glad
+
+Cold chill down on my spine
+No no more tears, show me a smile
+Cold chill down on my spine
+No no more tears, show me a smile
+
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+
+Baby baby
+Baby baby
+Baby baby baby baby baby
+
+Cold chill down on my spine
+No no more tears, show me a smile
+Cold chill down on my spine
+No no more tears, show me a smile
+
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+Baby baby, why can't we just stay together, yeh yeh yeh
+
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Baby baby
+Why can't we just stay together, yeh yeh yeh

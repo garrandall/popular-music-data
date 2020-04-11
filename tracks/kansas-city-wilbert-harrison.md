@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kansas-city-wilbert-harrison
+lyrics_url: https://genius.com/Wilbert-harrison-kansas-city-lyrics
 name: Kansas City
 rankings:
 - end_date: '1959-04-19'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
 ---
+I'm going to Kansas City
+Kansas City here I come
+I'm going to Kansas City
+Kansas City here I come
+They got some crazy little women there
+And I'm gonna get me one
 
+I'll be standing on the corner
+On the corner of Twelfth Street and Vine
+I'm gonna be standing on the corner
+On the corner of Twelfth Street and Vine
+With my Kansas City baby
+And a bottle of Kansas City wine
+
+Well I might take a train
+I might take a plane
+But if I have to walk
+I'm gonna get there just the same
+I'm going to Kansas City
+Kansas City here I come
+They got some crazy little women there
+And I'm gonna get me one
+
+I'm gonna pack my clothes
+Leave at the break of dawn
+I'm gonna pack my clothes
+Everybody will be sleeping
+Nobody will know where I've gone
+Cause if I stay in town
+I know I'm gonna die
+Gotta find a friendly city
+And that's the reason why
+I'm going to Kansas City
+Kansas City here I come
+They got some crazy little women there
+And I'm gonna get me one

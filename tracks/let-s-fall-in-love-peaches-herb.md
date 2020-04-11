@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-s-fall-in-love-peaches-herb
+lyrics_url: https://genius.com/Peaches-and-herb-lets-fall-in-love-lyrics
 name: Let's Fall In Love
 rankings:
 - end_date: '1967-01-06'
@@ -56,4 +57,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
 ---
+Let's fall in love
 
+Why shouldn't we fall in love
+
+Our hearts are made of it
+
+Let's take a chance
+
+Why be afraid of it
+
+Let's close our eyes
+
+And make our own paradise
+
+Little we know of it
+
+Still we can try
+
+To make a go of it
+
+We might have been
+
+Meant for each other
+
+To be or not to be
+
+Let our hearts discover
+
+Let's fall in love
+
+Why shouldn't we fall in love
+
+Now is the time for it
+
+While we are young
+
+Let's fall in love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-get-married-lloyd-price
+lyrics_url: https://genius.com/Lloyd-price-im-gonna-get-married-lyrics
 name: I'm Gonna Get Married
 rankings:
 - end_date: '1959-08-16'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
 ---
+(Johnny, Johnny, Johnny)
+(Johnny, you're too young)
+But I'm gonna get married
+(You're so young)
+My name she'll carry
+(You're too young Johnny, you're so smart)
+But not smart enough to hide an aching heart
 
+How come my heart deserts me
+Burning full of love and desire
+How come every time she kiss me
+It sets my soul on fire
+
+How come every time she leave me
+It seems like I've lost a part
+I may be too young to marry
+But not to hide an aching heart
+
+(Johnny, you're too young)
+But I'm gonna get married
+(You're so young)
+My name she'll carry
+(You're too young Johnny, you're so smart)
+But not smart enough to hide an aching heart
+
+How come every time she kiss me
+It thrills me from head to toe
+How come every time I see her
+It lifts me right off the floor
+
+How come every time I'm with her
+She whispers so soft and low
+It makes me want to jump and holler
+And bump my head into a door
+
+(Johnny, you're too young)
+But I'm gonna get married
+(You're so young)
+My name she'll carry
+(You're too young, and Johnny, you're so smart)
+But not smart enough to hide an aching heart
+
+(Too young)
+I'm gonna get married
+(You're so young)
+My name she'll carry
+(You're too young)
+But I'm gonna get married
+(You're so young)
+My name she'll carry
+(You're too young)

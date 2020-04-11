@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: start-the-commotion-the-wiseguys
+lyrics_url: https://genius.com/Wise-guys-start-the-commotion-lyrics
 name: Start The Commotion
 rankings:
 - end_date: '2001-08-10'
@@ -55,4 +56,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
 ---
+Fire it up baby, get up, get up
+Get up, get up, get up, get up
+Get up, get up, get up, get up
 
+Get up, get up, get up, get up
+Get up, get up, get up, get up
+If you're curious and you got the notion
+Let's do it, just start the commotion
+
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, get up, get up
+
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Let's do it, just start the commotion
+
+Hey
+
+Ba, ba, ba, ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba
+
+Let's do it, just start the commotion
+
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, get up, get up
+
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Let's do it, just start the commotion
+
+Ba, ba, ba, ba, ba, ba, ba, ba, ba
+(Hey)
+Ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba
+Ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba, ba
+
+Get up, get up, get up, get up
+Get up, get up, get up, get up
+Fire it up baby
+
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, put your body in motion
+Get up, get up, get up, get up
+
+Get up, get up, put your
+Get up, get up, put your
+Get up, get up, put your
+Get up, get up, put your
+
+Get up, get up, get up, get up, get up
+Get up, get up, get up, get up, get up
+Hey
+
+Start the commotion, start the commotion
+Start the commotion, start the commotion
+Start the commotion, start the commotion
+
+Start the commotion, start the commotion
+Start the commotion, start the commotion
+Start the commotion, start the commotion
+
+Start the commotion, start the commotion
+Start the commotion, fire it up baby
+
+Start the commotion, start the commotion, hey
+Start the commotion, start the commotion, hey
+Start the commotion, start the commotion, hey
+Start the commotion, start the commotion
+Groovy, hey

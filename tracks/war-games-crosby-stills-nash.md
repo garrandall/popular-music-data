@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: war-games-crosby-stills-nash
+lyrics_url: https://www.musixmatch.com/lyrics/Crosby-Stills-Nash/War-Games
 name: War Games
 rankings:
 - end_date: '1983-07-01'
@@ -43,4 +44,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
 ---
+Can you stop your instincts?
+Can you man your thought control, sir?
+Can you give the last command
+Or lie to a good soldier?
 
+I'm a doubter, I'm a fool
+I am but a man
+Cast me out or let me be
+All that I am
+
+I am not so sure what you want me for
+Either your machine is a fool or me
+
+Now there is no time to wait
+No time to think it over
+Take the path, believe the math
+You'll tell me when it's over
+
+I'm a fighter, I've a question
+Won't you answer me?
+I have earned the right to know
+And tell you what I see
+
+I am not so sure what you want me for
+Either your machine is a fool or me

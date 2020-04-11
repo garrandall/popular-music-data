@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: unconditional-clay-davidson
+lyrics_url: https://genius.com/Clay-davidson-unconditional-lyrics
 name: Unconditional
 rankings:
 - end_date: '2000-03-31'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
 ---
+Daddy waited up
+In the kitchen by himself
+I came stumbling in that night
+With liquor on my breath
+He said son I know u live here
+But this is still my home
+Its my way or the highway
+So I said alright Im gone
 
+Pre chorus:
+And before i slammed that door
+I said i hate u
+He just shook his head
+And said ok
+
+Chorus:
+But u can't stop my love for u
+Itll be here thats a given
+As long as i am livin on this earth
+One thing is true
+U can turn away, forget me
+Curse my name
+But love will never let u go
+Son my love is unconditional
+
+Life is like a circle
+Slowly turning on itself
+But girl it took losing you
+To finally know how bad it felt
+We stood in this bedroom
+A year ago today
+Hangin onto pride and anger
+As we threw our love away
+
+Pre Chorus:
+And before u slammed that door
+U said i hate u
+But tonightif u could only hear me say
+
+Chorus:
+U can't stop my love for u
+Itll be here thats a given
+As long as i am livin on this earth
+One thing is true
+U can turn away, forget me
+Curse my name but love won't let me let u go
+Girl always know
+My love is unconditional
+
+Tag:
+
+U could turn away forget me
+Curse my name
+But you can't even let me go
+Girl but you need to know
+My love, is unconditional

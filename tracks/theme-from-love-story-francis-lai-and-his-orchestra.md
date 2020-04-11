@@ -1,9 +1,10 @@
 ---
 artists:
-- Francis Lai And His Orchestra
+- Francis Lai
 features: []
 genres: []
 key: theme-from-love-story-francis-lai-and-his-orchestra
+lyrics_url: https://genius.com/Francis-lai-theme-from-love-story-lyrics
 name: Theme From Love Story
 rankings:
 - end_date: '1971-02-05'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
 ---
-
+Instrumental

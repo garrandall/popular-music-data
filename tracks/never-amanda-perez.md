@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-amanda-perez
+lyrics_url: https://genius.com/Amanda-perez-never-lyrics
 name: Never
 rankings:
 - end_date: '2002-02-22'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
 ---
+(yea, OoOo OoOo OoOo)
 
+You walked into my life, when I was down and out
+Took away my pain and gave me your smile
+And at the time, still lovin someone else
+Not knowin'why kus they were the reason why i felt the way i felt
+And then one day I realized
+That you were the one for me
+I was sooo blind, but baby now I see
+
+Chorus:
+And I'll never let you go, no, no, no
+I love you so
+And I'll get on both my knees and I'll beg you please
+Would you spend the rest of your life with me?
+Cause I'll never play
+Wanna let you go
+No, I'll never play
+No, no, no ,no, no, no, no
+
+I wish that I could turn back the hands of time
+Cause if I would've knew your love was like this
+Back then I would've made you mine, oh yeah
+If I had to die a thousand times a day
+I would do it for you, just to take
+The pain that I have given you away
+Cause I love you and I never want to let you go
+
+Chorus
+
+Bridge:
+I'm sorry (oh yes i am)
+I'm sorry (I'm so sorry baby)
+
+Chorus 2x
+
+Oooooooooooo Ooooooooooo

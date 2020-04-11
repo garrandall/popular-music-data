@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-edwin-mccain
+lyrics_url: https://genius.com/Edwin-mccain-ill-be-lyrics
 name: I'll Be
 rankings:
 - end_date: '1998-10-02'
@@ -103,4 +104,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
 ---
+The strands in your eyes that color them wonderful
+Stop me and steal my breath
+And emeralds from mountains that thrust towards the sky
+Never revealing their depth
 
+
+And tell me that we belong together
+Dress it up with the trappings of love
+I'll be captivated, I'll hang from your lips
+Instead of the gallows of heartache that hang from above
+
+
+I'll be your cryin' shoulder
+I'll be love's suicide
+And I'll be better when I'm older
+I'll be the greatest fan of your life
+
+
+And rain falls angry on the tin roof
+As we lie awake in my bed
+And you're my survival, you're my living proof
+My love is alive and not dead
+
+
+And tell me that we belong together
+Dress it up with the trappings of love
+I'll be captivated, I'll hang from your lips
+Instead of the gallows of heartache that hang from above
+
+
+And I'll be your cryin' shoulder
+I'll be love's suicide
+I'll be better when I'm older
+I'll be the greatest fan of your life
+
+
+And I've dropped out, I've burned up, I've fought my way back from the dead
+I Tuned in, I turned on, remembered the thing that you said
+
+
+And I'll be your cryin' shoulder
+I'll be love's suicide
+And I'll be better when I'm older
+I'll be the greatest fan of your life
+And I'll be your cryin' shoulder
+I'll be love's suicide
+And I'll be better when I'm older
+I'll be the greatest fan of your life
+
+
+The greatest fan of your life

@@ -6,6 +6,7 @@ features:
 - Mark Lindsay
 genres: []
 key: good-thing-paul-revere-the-raiders-mark-lindsay
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Good-Thing
 name: Good Thing
 rankings:
 - end_date: '1966-12-09'
@@ -57,4 +58,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+Seems this world has got you down
+You're feelin' bad vibrations 'round
+Well, open your eyes, girl, look at me
+I'm gonna show you how it ought to be
 
+We're gonna have a good thing
+Such a good thing, baby
+And when your world don't seem just right
+And life's gettin' you uptight
+You can change that wrong to right
+'Cause I was there myself last night
+
+Girl, I really had a good thing
+Such a good thing, baby
+I, I, I won't have no one now
+No one around to bring you down
+Well it's a groovy world, girl
+Let me bring you to a good, good, good, good thing girl
+
+Gotta hear me, you can't please them all, should you try
+They don't care if you live or die
+'Cause they're losers, what a shame
+I'm gonna show you to a brand new game
+Girl, we're gonna have a good thing
+Such a good thing, baby
+
+I won't tell you no, no, no, no lies
+When I threw you realise
+For the first time it seems so right
+I'm gonna stay right here tonight
+
+We're gonna have a good thing
+Such a good thing, baby
+I know 'bout it
+No one around to bring you down
+
+Well, a groovy world, girl
+Let me bring you to a good, good, good, good thing
+Such a good thing, girl
+
+Good thing, baby
+Good thing, baby
+Good thing, baby
+Good thing, baby
+
+Good thing, baby
+Good thing, baby
+Good thing, baby
+Good thing, baby
+
+Good thing, baby
+Good thing, baby
+Good thing, baby

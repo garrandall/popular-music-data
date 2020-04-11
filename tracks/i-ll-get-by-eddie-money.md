@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-get-by-eddie-money
+lyrics_url: https://genius.com/Eddie-money-ill-get-by-lyrics
 name: I'll Get By
 rankings:
 - end_date: '1991-12-27'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
 ---
+Give me one last look
+As you walk away
+I, I don't know what to say
+I start callin' out your name
+But I just can't find the words
+I know will change your mind
+I've tried a thousand times
+But I just can't make it right
 
+Someday I pray there will come a day
+When I can open up my heart and love again
+Until then I'll get by
+Somehow I'll get by
+I know I'll get by
+
+I take a look around
+I see this lonely room
+I used to share with you
+Now I want to paint it blue
+'Cause everywhere I turn
+There's something else I find
+The notes you left behind
+Were you tryin' to be kind?
+
+Tell you somethin' baby, there will come a day
+When I can open up my heart and love again
+Till then I'll pretend; I'll play the fool
+Someday I'll find another someone just like you
+Till then I'll get by
+Somehow I'll get by
+I know I'll get by
+
+My heart don't own me
+Can't think about it any more
+Love's just a memory
+Surrounded by these lonely walls
+
+Lately I've been thinkin'
+I should move away
+No reason left to stay
+This house is haunted anyway
+
+I'll tell you something baby, there will come a day
+When I can open up my heart and love again
+Until then I'll get by
+Somehow I'll get by
+I know I'll get by

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chains-nick-jonas
+lyrics_url: https://genius.com/Nick-jonas-chains-lyrics
 name: Chains
 rankings:
 - end_date: '2015-02-20'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
 ---
+With her wine-stained lips, yeah, she’s nothing but trouble
+Cold to the touch, but she’s warm as a devil
+I gave her my heart but she wanted my soul
+She takes 'til I break and I can’t get more
 
+
+You got me in chains
+You got me in chains for your love
+But, I wouldn’t change
+No, I wouldn’t change this love
+You got me in chains
+You got me in chains for your love
+But, I wouldn’t change
+No, I wouldn’t change this love
+Trynna break the chains, but the chains only break me
+Trynna break the chains, but the chains only break me
+
+
+Alone in the night ‘til she knocks on my door, oh no
+Wasted again, but I can’t say no, whoa
+
+
+Baby, tell me why, why you do, do me wrong?
+Baby, tell me why, why you do, do me wrong?
+Gave you my heart, but you took my soul
+
+
+You got me in chains (Oh baby)
+You got me in chains for your love
+But, I wouldn’t change (I wouldn’t change)
+No, I wouldn’t change this love
+You got me chains
+You got me in chains for your love
+But, I wouldn’t change (I wouldn’t change)
+No, I wouldn’t change this love
+Trynna break the chains, but the chains only break me
+Trynna break the chains, but the chains only break me
+
+
+Baby, tell me why, why you do, do me wrong?
+Baby, tell me why, why you do, do me wrong?
+Gave you my heart, but you took my soul
+
+
+You got me in chains
+You got me in chains for your love
+I wouldn’t change
+No, I wouldn’t change this love
+You got me chains (Oh baby)
+You got me in chains for your love
+But, I wouldn’t change
+I wouldn’t change this love
+Trynna break the chains, but the chains only break me

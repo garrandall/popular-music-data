@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-on-my-own-calum-scott
+lyrics_url: https://genius.com/Calum-scott-dancing-on-my-own-lyrics
 name: Dancing On My Own
 rankings:
 - end_date: '2017-02-17'
@@ -15,4 +16,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
 ---
+Somebody said you got a new friend
+But does she love you better than I can?
+And there's a big black sky over my town
+I know where you're at, I bet she's around
+And yeah I know it's stupid, but I just gotta see it for myself
 
+
+I'm in the corner, watching you kiss her, oh oh oh
+And I'm right over here, why can't you see me? Oh oh oh
+And I'm giving it my all
+But I'm not the guy you're taking home, oooh
+I keep dancing on my own
+
+
+I just wanna dance all night
+And I’m all messed up, I’m so out of line, yeah
+Stilettos and broken bottles
+I’m spinning around in circles
+
+
+And I'm in the corner, watching you kiss her, oh oh oh
+And I'm right over here, why can't you see me? Oh oh oh
+And I'm giving it my all
+But I'm not the guy you're taking home, ooh
+I keep dancing on my own
+And oh, nah
+
+
+So far away, but still so near
+The lights come on, the music dies
+But you don't see me standing here
+I just came to say goodbye
+
+
+I'm in the corner, watching you kiss her, ohh
+And I'm giving it my all
+But I'm not the guy you're taking home, oooh
+I keep dancing on my own
+And oh, nah
+Said I'm in the corner, watching you kiss her, oh​ no
+And I'm right over here, why can't you see me? Oh no
+And I'm giving it my all
+But I'm not the guy you're taking home, ooh
+And I keep dancing on my own
+
+
+So far away, but still so near
+The lights come on, the music dies
+But you don't see me standing here

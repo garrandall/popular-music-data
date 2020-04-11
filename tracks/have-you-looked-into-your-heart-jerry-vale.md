@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-you-looked-into-your-heart-jerry-vale
+lyrics_url: https://genius.com/Jerry-vale-have-you-looked-into-your-heart-lyrics
 name: Have You Looked Into Your Heart
 rankings:
 - end_date: '1964-12-25'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
 ---
+Have you looked into your heart?
+Did you find a memory or two?
+Even though the flame has died
+Maybe there's a spark inside
+Have you looked into your heart?
 
+Have you searched through all your dreams?
+Did you ever find a trace of me?
+Even though you say we're through
+That I'm not the one for you
+Have you looked into your heart?
+
+When the evening shadows
+Fall upon my window pane
+I find I'm crying over and over
+And over and over again
+
+Ever since we've been apart
+All I do is pray for your return
+Take a look and you will see
+Maybe there's a place for me
+Have you looked into your heart?
+
+Ever since we've been apart
+All I do is pray for your return
+Take a look and you will see
+Maybe there's a place for me
+Have you looked into your heart?

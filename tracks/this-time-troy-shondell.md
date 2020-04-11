@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-troy-shondell
+lyrics_url: https://genius.com/Troy-shondell-this-time-lyrics
 name: This Time
 rankings:
 - end_date: '1961-09-24'
@@ -59,4 +60,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
 ---
-
+This time we're really breaking up
+This time we said way too much
+This times for all time
+How about this time
+This time there'll be no goodnite kiss
+This time is forever
+This time I find that I'm
+Really losing you
+My heart is broken now
+It really doesn't matter anyhow
+Now that you're going away
+I only live from day to day
+This time there'll be no good nite kiss
+This time is forever
+This time I find that I'm
+Really losing you

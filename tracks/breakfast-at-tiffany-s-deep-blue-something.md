@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakfast-at-tiffany-s-deep-blue-something
+lyrics_url: https://genius.com/Deep-blue-something-breakfast-at-tiffanys-lyrics
 name: Breakfast At Tiffany's
 rankings:
 - end_date: '1995-08-25'
@@ -151,4 +152,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
 ---
+You say that we've got nothing in common
+No common ground to start from
+And we're falling apart
+You'll say the world has come between us
+Our lives have come between us
+But I know you just don't care
 
+
+And I said "What about Breakfast at Tiffany's?"
+She said, "I think I remember that film
+And as I recall, I think we both kinda liked it."
+And I said "Well, that's one thing we've got."
+
+
+I see you - the only one who knew me
+And now your eyes see through me
+I guess I was wrong
+So what now? It's plain to see we're over
+And I hate when things are over -
+When so much is left undone
+
+
+And I said "What about Breakfast at Tiffany's?"
+She said, "I think I remember that film
+And as I recall, I think we both kinda liked it."
+And I said "Well, that's one thing we've got."
+
+
+You say that we've got nothing in common
+No common ground to start from
+And we're falling apart
+You'll say the world has come between us
+Our lives have come between us
+Still I know you just don't care
+
+
+And I said "What about Breakfast at Tiffany's?"
+She said, "I think I remember that film
+And as I recall, I think we both kinda liked it."
+And I said "Well, that's one thing we've got."
+And I said "What about Breakfast at Tiffany's?"
+She said, "I think I remember that film
+And as I recall, I think we both kinda liked it."
+And I said "Well, that's one thing we've got."
+And I said "What about Breakfast at Tiffany's?"
+She said, "I think I remember that film
+And as I recall, I think we both kinda liked it."
+And I said "Well, that's one thing we've got."

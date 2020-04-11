@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-jingo-hayley-mills
+lyrics_url: https://genius.com/Hayley-mills-johnny-jingo-lyrics
 name: Johnny Jingo
 rankings:
 - end_date: '1962-03-23'
@@ -51,4 +52,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
 ---
+I never loved any boy like I loved Johnny Jingo
+I never kissed any boy like I kissed Johnny Jingo
+Im through with Billy, Willy, Ricky, Dickey, Eddie, Freddie
+Got me a brand new steady
+Ooh what he does what he does to my heart when he holds me
+Ooh how I love when he whispers in my ear
+This is love, the feeling is zingo, zingo
+I never loved any boy like I loved Johnny Jingo
 
+Ooh what he does what he does to my heart when he holds me
+Ooh how I love when he whispers in my ear
+This is love, the feeling is zingo, zingo
+I never loved any boy like I loved Johnny Jingo
+Yeah! I never loved any boy like I loved Johnny Jingo
+I said Jingo

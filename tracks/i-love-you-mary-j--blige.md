@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-mary-j--blige
+lyrics_url: https://genius.com/Mary-j-blige-i-love-you-lyrics
 name: I Love You
 rankings:
 - end_date: '1995-06-23'
@@ -83,4 +84,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
 ---
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
 
+
+When I found out that you were leaving me
+I couldn't sleep thinking about
+All the things that we've been through
+Now all I want to do is tell you
+That I miss you so much
+You know I really really miss you
+
+
+To those pretty memories
+I know you can hear me now
+For the record: I love you, I love you (Pretty memories)
+To those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+
+
+Now that I'm on my own
+I know that in time, I'll find somebody new
+(Who'll treat me better than you)
+So now that I'm all alone without you
+But I still love you (Love you)
+You know I'll never live without you
+
+
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+(All those pretty memories) All those pretty memories
+I know you can hear me now
+For the record I love you (Pretty memories)
+
+
+I wish you'd change your ways soon enough
+So we can be together
+You just don't understand good love
+But now all we have is memories
+
+
+All those pretty memories
+I know you can hear me now (Of the way we used to be)
+For the record: I love you, I love you
+(All those pretty memories) All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+
+
+I miss you, I miss you
+Oh, I miss you
+
+
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you
+All those pretty memories
+I know you can hear me now
+For the record: I love you, I love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-know-why-linda-scott
+lyrics_url: https://genius.com/Linda-scott-i-dont-know-why-lyrics
 name: I Don't Know Why
 rankings:
 - end_date: '1961-11-05'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
 ---
+I don't know why
+I love you like I do
 
+I don't know why
+I just do
+
+I don't know why
+You thrill me like you do
+
+I don't know why
+You just do
+
+You never seem to want my romancing
+The only time you hold me is when we're dancing
+
+I don't know why
+I love you like I do
+
+I don't know why
+I just do
+
+La da da da...
+
+You never seem to want my romancing
+The only time you hold me is when we're dancing
+
+I don't know why
+I love you like I do
+
+I don't know why
+I just do
+
+I don't know why
+I just do

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moonlight-and-roses--bring-mem-ries-of-you--vic-dana
+lyrics_url: https://genius.com/Vic-dana-moonlight-and-roses-bring-memries-of-you-lyrics
 name: Moonlight And Roses (Bring Mem'ries Of You)
 rankings:
 - end_date: '1965-08-13'
@@ -43,4 +44,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
 ---
+Moonlight and roses
+Bring wonderful memories of you
+My heart reposes
+In beautiful thoughts so true
 
+June light discloses
+Love's golden dream sparkling anew
+Moonlight and roses
+Bring memories of you
+
+June light discloses
+Love's golden dream sparkling anew
+Moonlight and roses
+Bring memories of you
+
+Moonlight and roses
+Bring memories of you

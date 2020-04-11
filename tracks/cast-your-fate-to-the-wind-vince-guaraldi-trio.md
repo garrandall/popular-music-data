@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cast-your-fate-to-the-wind-vince-guaraldi-trio
+lyrics_url: https://genius.com/Vince-guaraldi-trio-cast-your-fate-to-the-wind-lyrics
 name: Cast Your Fate To The Wind
 rankings:
 - end_date: '1962-12-14'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
 ---
+A month of nights, a year of days
+Octobers drifting into Mays;
+I set my sail as the tide comes in
+And I just cast my fate to the wind
 
+I shift my course along the breeze;
+Won't sail upwind on memories
+The empty sky is my best friend
+And I just cast my fate to the wind
+
+(Bridge:)
+Time has such a way of changing
+A man throughout the years;
+And now I'm rearranging my life through all my tears
+Alone, alone
+
+There never was, there couldn't be
+A place in time for men like me
+Who'd drink the dark and laugh the day
+And let their wildest dreams blow away
+
+(Repeat Bridge)
+So now I'm old, I'm wise and smart;
+I'm just a man with half a heart
+I wonder how it might have been
+Had I not cast my fate to the wind

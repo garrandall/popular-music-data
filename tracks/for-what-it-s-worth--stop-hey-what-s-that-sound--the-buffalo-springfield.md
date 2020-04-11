@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-what-it-s-worth--stop-hey-what-s-that-sound--the-buffalo-springfield
+lyrics_url: https://genius.com/Buffalo-springfield-for-what-its-worth-lyrics
 name: For What It's Worth (Stop Hey What's That Sound)
 rankings:
 - end_date: '1967-02-03'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
 ---
+There's something happening here
+But what it is ain't exactly clear
+There's a man with a gun over there
+A telling me, I got to beware
 
+
+I think it's time we stop(stop)
+Children, what's that sound?(what’s that sound?)
+Everybody look what's going down(Everybody look what’s going down)
+
+
+There's battle lines being drawn
+And nobody's right, if everybody's wrong
+Young people speaking their minds
+Are gettin’ so much resistance from behind(from behind)
+
+
+It's time we stop(stop)
+Hey, what's that sound?(what’s that sound?)
+Everybody look what's going down(Everybody look what’s going down)
+
+
+What a field day for the heat(Ooo-ooo-ooo)
+A thousand people in the street (Ooo-ooo-ooo)
+Singing songs and a carryin’ signs (Ooo-ooo-ooo)
+Mostly say, "hooray for our side" (Ooo-ooo-ooo)
+
+
+It's time we stopped(stopped)
+Hey, what's that sound?(what’s that sound?)
+Everybody look what's going down(Everybody look what’s going down)
+
+
+Paranoia strikes deep(paranoia strikes deep)
+Into your life it will creep(into your life it will creep)
+It starts when you're always afraid(it starts when you’re always afraid)
+Step out of line, the man come and take you away(step out of line, the man come and take you away)
+
+
+We better stop(stop)
+Hey, what's that sound?(what’s that sound?)
+Everybody look what's going(Everybody look what’s going down)
+
+
+We better stop(stop)
+Hey, what's that sound?(what’s that sound?)
+Everybody look what's going(Everybody look what’s going down)
+
+
+We better stop(stop)
+Now, what's that sound?(what’s that sound?)
+Everybody look what's going(everybody look what’s going)
+
+
+We better stop(stop)
+Children, what's that sound?(what’s that sound?)
+Everybody look what's going down.... (everybody look...

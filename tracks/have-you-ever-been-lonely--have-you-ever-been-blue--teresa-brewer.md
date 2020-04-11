@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-you-ever-been-lonely--have-you-ever-been-blue--teresa-brewer
+lyrics_url: https://genius.com/Teresa-brewer-have-you-ever-been-lonely-have-you-ever-been-blue-lyrics
 name: Have You Ever Been Lonely (Have You Ever Been Blue)
 rankings:
 - end_date: '1960-12-04'
@@ -27,4 +28,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
 ---
+Have you ever been lonely
+Have you ever been blue
+Have you ever loved someone
+Just as I love you
 
+Can't you see I'm sorry
+For each mistake I've made
+Can't you see I've changed, dear
+Can't you see I've paid
+
+Be a little forgiving
+Take me back to your heart
+How can I go on living
+Now that we're apart
+
+If you knew what
+I've been through
+You would know why I ask you
+Have you ever been lonely
+Have you ever been blue
+
+Be a little forgiving
+Take me back to your heart
+How can I go on living
+Now that we're apart
+
+If you knew what
+I've been through
+You would know why I ask you
+Have you ever been lonely
+Have you ever been blue
+
+So lonely and blue

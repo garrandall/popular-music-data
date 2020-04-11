@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-the-boys-home-freda-payne
+lyrics_url: https://genius.com/Freda-payne-bring-the-boys-home-lyrics
 name: Bring The Boys Home
 rankings:
 - end_date: '1971-06-11'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
 ---
+Fathers are pleading, lovers are all alone
+Mothers are prayin', send our sons back home (tell 'em 'bout it)
+You marched them away, yes you did now, on ships and planes
+To a senseless war facing death in vain
 
+
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+(Why don't you) Turn the ships around
+(Everybody oughta) Lay your weapons down
+
+
+Can't you see 'em marchin' 'cross the sky?
+All the soldiers that have died
+Tryin' to get home
+Can't you see them tryin' to get home?
+Tryin' to get home
+They're tryin' to get home
+Cease all fire (tell 'em 'bout it) on the battlefield
+Enough men have already been wounded and killed
+
+
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+(Why don't you) Turn the ships around
+(Everybody oughta) Lay your weapons down
+(Mothers, fathers, and lovers, can't you see them?)
+
+
+Tryin' to get home
+Can't you see them tryin' to get home
+(Have mercy)
+Tryin' to get home
+Tryin' to get home
+
+
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+Bring the boys home (bring 'em back alive)
+
+
+What they doin' over there now (bring 'em back alive)
+When we need 'em over here now? (bring 'em back alive)
+What they doin' over there now (bring 'em back alive)
+When we need 'em over here now? (bring 'em back alive)
+Bring 'em all, bring 'em all home (bring 'em back alive)
+Bring 'em all, bring 'em home now (bring 'em back alive)
+(fade out)

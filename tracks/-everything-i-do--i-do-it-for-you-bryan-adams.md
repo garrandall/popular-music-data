@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -everything-i-do--i-do-it-for-you-bryan-adams
+lyrics_url: https://genius.com/Bryan-adams-everything-i-do-i-do-it-for-you-lyrics
 name: (Everything I Do) I Do It For You
 rankings:
 - end_date: '1991-07-05'
@@ -95,4 +96,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
 ---
+Look into my eyes - you will see
+What you mean to me
+Search your heart, search your soul
+And when you find me there, you'll search no more
 
+
+Don't tell me it's not worth tryin' for
+You can't tell me it's not worth dyin' for
+You know it's true
+Everything I do - I do it for you
+
+
+Look into your heart - you will find
+There's nothin' there to hide
+Take me as I am, take my life
+I would give it all, I would sacrifice
+
+
+Don't tell me it's not worth fightin' for
+I can't help it, there's nothin' I want more
+You know it's true
+Everything I do - I do it for you
+
+
+There's no love like your love
+And no other could give more love
+There's nowhere unless you're there
+All the time, all the way, yeah
+
+
+Look into your heart, babe
+Yeah
+Oh Yeah
+
+
+Oh, you can't tell me it's not worth tryin' for
+I can't help it there's nothin' I want more
+Yeah, I would fight for you
+I'd lie for you
+Walk the wire for you
+Yeah, I'd die for you
+
+
+You know it's true
+Everything I do
+Oh, I do it for you
+
+Everything I do, darling
+And we'll see it through
+We will see it through
+Oh yeah
+Yeah!
+
+Search your heart, search your soul
+You can't tell me it ain't worth dying for
+Oh yeah
+
+I'll be there, yeah, oh
+I'll walk the wire for you, yeah
+I will die for you
+
+Oh yeah
+All the time
+I'm going all the way, all they way, yeah
+
+Take me by the hand
+Ow!

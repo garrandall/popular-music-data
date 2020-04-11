@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beatnik-fly-johnny-and-the-hurricanes
+lyrics_url: https://genius.com/Johnny-and-the-hurricanes-beatnik-fly-lyrics
 name: Beatnik Fly
 rankings:
 - end_date: '1960-02-21'
@@ -59,4 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
-
+Pd... ®1960; Us Ht#25 ...Pd
+Pd...  ...Pd
+...Pd...

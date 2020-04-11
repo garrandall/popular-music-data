@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-oogie-oogie-a-taste-of-honey
+lyrics_url: https://genius.com/A-taste-of-honey-boogie-oogie-oogie-lyrics
 name: Boogie Oogie Oogie
 rankings:
 - end_date: '1978-06-30'
@@ -99,4 +100,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
 ---
+If you're thinkin' you're too cool to boogie
+Boy oh boy, have I got news for you
+Everybody here tonight must boogie
+Let me tell ya, you are no exception to the rule
 
+Get on up on the floor
+'Cause we're gonna boogie oogie oogie
+Till you just can't boogie no more (no more boogie)
+Boogie no more
+You can't boogie no more (no more boogie)
+Boogie no more, listen to the music
+
+There's no time to waste, let's get this show on the road
+Listen to the music and let your body flow
+The sooner we begin, the longer we've got to groove
+Listen to the music and let your body move
+
+Now get on up on the floor
+'Cause we're gonna boogie oogie oogie
+Till you just can't boogie no more (no more boogie)
+Boogie no more
+You can't boogie no more (no more boogie)
+Boogie no more, listen to my bass here
+
+Get down, boogie oogie oogie
+Get down, boogie oogie oogie
+Get down, boogie oogie oogie
+Get down
+
+Boogie!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: until-you-come-back-to-me--that-s-what-i-m-gonna-do--aretha-franklin
+lyrics_url: https://genius.com/Aretha-franklin-until-you-come-back-to-me-thats-what-im-gonna-do-lyrics
 name: Until You Come Back To Me (That's What I'm Gonna Do)
 rankings:
 - end_date: '1973-11-30'
@@ -91,4 +92,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
+Though you don’t call anymore
+I sit and wait in vain
+I guess I'll rap on your door (your door)
+Tap on your window pane (tap on your window pane)
+I want to tell you, baby
+Changes I’ve been going through
+Missing you, listen you
 
+
+'Til you come back to me that’s what I’m gonna do
+
+
+Why did you have to decide
+You had to set me free?
+I’m going to swallow my pride (my pride)
+I’m going to beg you to please, baby please see me (baby won't you see me?)
+I’m going to walk by myself
+Just to prove that my love is true
+All for you baby
+
+
+'Til you come back to me that’s what I’m gonna do
+
+
+Living for you, my dear
+Is like living in a world of constant fear
+Hear my plea (hear my plea)
+I’ve got to make you see (make you see)
+That our love is dying (our love is dying)
+
+
+Although your phone you ignore
+Somehow I must, somehow I must, how I must explain
+I’m going to rap on your door (your door)
+Tap on your window pane (tap on your window pane)
+I’m going to camp by your steps
+Until I get through to you (uuuh)
+I’ve got to change your view, baby
+
+
+'Til you come back to me that’s what I’m gonna do
+'Til you come back to me that’s what I’m gonna do
+'Til you come back to me that’s what I’m gonna do
+
+
+I’m going to rap on your door (tap on)
+Tap on your window pane (tap on)
+Open out baby, I’m gonna rap on your door (tap on)
+Tap on your, tap on your (tap on)
+Tap on your , tap on your window pane (tap on your window pane)
+I’m going to rap on your door (tap on)
+Tap on your window pane (tap on)
+Open out baby

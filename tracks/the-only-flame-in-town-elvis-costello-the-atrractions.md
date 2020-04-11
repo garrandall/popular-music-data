@@ -1,10 +1,11 @@
 ---
 artists:
 - Elvis Costello
-- The Atrractions
-features: []
+features:
+- The Attractions
 genres: []
 key: the-only-flame-in-town-elvis-costello-the-atrractions
+lyrics_url: https://genius.com/Elvis-costello-the-only-flame-in-town-lyrics
 name: The Only Flame In Town
 rankings:
 - end_date: '1984-08-03'
@@ -44,4 +45,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
 ---
+I know a girl got my mind in a mess
+I never heard her say goodnight and God bless
+She's not the only flame in town
+And when we're alone we never quarrel
+I'm miles away now here's the moral
+She's not the only flame in town
 
+
+She's not the only flame in town
+She's got to stop thinking that I'm
+Carrying this torch around
+
+
+He struck a match and it lit up her face
+We should have struck a match girl
+To burn down the whole place
+Now you're not the only flame in town
+But you blew hot and cold
+Turned my heart to a cinder
+And with each passing day
+You'd be less tender and more tinder
+Now you're not the only flame in town
+
+
+
+
+Thought I saw your face in the fire
+But it's so hard to remember
+Even an inferno can cool down to an ember
+Now you're not the only flame
+You're not the only flame
+You're not the only flame in town

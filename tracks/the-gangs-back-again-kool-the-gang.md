@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-gangs-back-again-kool-the-gang
+lyrics_url: https://genius.com/Kool-and-the-gang-the-gangs-back-again-annotated
 name: The Gangs Back Again
 rankings:
 - end_date: '1970-01-02'

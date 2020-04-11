@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: michael-trini-lopez
+lyrics_url: https://genius.com/Trini-lopez-michael-lyrics
 name: Michael
 rankings:
 - end_date: '1964-08-28'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
 ---
+Michael, row the boat ashore
+Hallelujah
+(x 2)
 
+Sister, help to trim the sails
+Hallelujah
+(x 2)
+
+River Jordan's chilly and cold
+Hallelujah
+
+Chills the body, but warms the soul
+
+River is deep, and river is wide
+Hallelujah
+
+Milk and honey on the other side
+Hallelujah

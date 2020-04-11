@@ -1,9 +1,10 @@
 ---
 artists:
-- Perez Prado And His Orchestra
+- Perez Prado
 features: []
 genres: []
 key: patricia-perez-prado-and-his-orchestra
+lyrics_url: https://genius.com/Perez-prado-patricia-lyrics
 name: Patricia
 rankings:
 - end_date: '1958-08-10'
@@ -63,4 +64,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
+Kiss her and your lips will always want Patricia
+Stroll her, see Patricia move with all her charms
+Mambo, Cha-cha, or Meringue it's Patricia
+Heaven, that's where you'll be when she's in you're arms
 
+??? in Japan they brag about the Geisha
+Who cares, long Uncle Sam has got Patricia
+Eyes that have a starry sort of gleam for you
+She is like a million dollar dream come true
+Everybody wishes they'd could steal her heart away, I guess
+There's so many trying but she never, never will say yes
+Eyes that have a starry sort of gleam for you
+She is like a million dollar dream come true
+Kiss her and your lips will always want Patricia
+Stroll her, see Patricia move with all her charms
+??? in Japan they brag about the Geisha
+Who cares, long Uncle Sam has got Patricia

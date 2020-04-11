@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-love-poco
+lyrics_url: https://genius.com/Poco-crazy-love-lyrics
 name: Crazy Love
 rankings:
 - end_date: '1979-01-26'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
+Tonight I'm gonna break away
+Just you wait and see
+I'll never be imprisoned by
+A faded memory
 
+
+Just when I think I'm over her
+This broken heart will mend
+I hear her name and I have to cry
+The tears come down again
+
+
+It happens all the time
+This crazy love of mine
+Wraps around my heart
+Refusin' to unwind
+Ooh-hoo, crazy love
+Ah ha
+
+
+Count the stars in a summer sky
+That fall without a sound
+And then pretend that you can't hear
+These teardrops comin' down
+
+
+It happens all the time
+This crazy love of mine
+Wraps around my heart
+Refusin' to unwind
+Ooh-hoo, crazy love
+Ah ha
+
+
+Tonight I'm gonna break away
+Just you wait and see
+I'll never be imprisoned by
+A faded memory
+
+
+It happens all the time
+This crazy love of mine
+Wraps around my heart
+Refusin' to unwind
+Ooh-hoo, crazy love
+Ah ha
+
+
+Tonight I'm gonna break away...

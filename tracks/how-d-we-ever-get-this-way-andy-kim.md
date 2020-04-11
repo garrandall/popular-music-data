@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-d-we-ever-get-this-way-andy-kim
+lyrics_url: https://genius.com/Andy-kim-howd-we-ever-get-this-way-lyrics
 name: How'd We Ever Get This Way
 rankings:
 - end_date: '1968-05-10'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
 ---
-
+Look at you baby look at me
+So in love we used to be
+But now it's just a memory
+Baby, how'd we ever get this way
+Tell me baby, how'd we ever get this way
+Well I recall when things were fine
+And every day the sun would shine
+When I was yours and you were mine
+Baby, how'd we ever get this way
+Tell me baby, how'd we ever get this way
+Remember how it used to was
+Before the rovin' eye of love
+Why does it do the way it does
+Baby, how'd we ever get this way
+Tell me baby, how'd we ever get this way
+Time and time and time again
+I wonder why it all began
+Tell me how's it gonna end
+Baby, how'd we ever get this way
+Ba-la, la, la, la, la, la
+Ba-la, la, la, la, la, la
+Ba-la, la, la, la, la, la
+Baby, how'd we ever get
+Baby, how'd we ever get
+Baby, how'd we ever get this way
+Ba-la, la, la, la, la, la
+Ba-la, la, la, la, la, la
+Ba-la, la, la, la, la, la

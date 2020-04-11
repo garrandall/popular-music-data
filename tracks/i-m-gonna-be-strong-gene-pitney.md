@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-be-strong-gene-pitney
+lyrics_url: https://genius.com/Franz-nicolay-im-gonna-be-strong-gene-pitney-cover-lyrics
 name: I'm Gonna Be Strong
 rankings:
 - end_date: '1964-10-30'
@@ -55,4 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
 ---
+I can see you're slipping away from me
+And you're so afraid I'll plead with you to stay
+But I'm gonna be strong and let you go your way
 
+Our love is gone there's no sense in holding on
+Cos your pity now would be to much to bear
+So I'm gonna be strong and pretend I don't care
+I'm gonna be strong and stand as tall as I am
+Yes I'm gonna be strong and let you run along
+And take it like a man
+
+When you say it's the end I'll just hand you a line
+I'll smile and say don't you worry I'm fine
+And you'll never know
+Darling after you kiss me goodbye
+How I'll break down and cry

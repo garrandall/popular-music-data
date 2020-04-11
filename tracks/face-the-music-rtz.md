@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: face-the-music-rtz
+lyrics_url: https://www.musixmatch.com/lyrics/RTZ/Face-the-Music
 name: Face The Music
 rankings:
 - end_date: '1991-08-23'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+I can't blame you
+Nobody wants to be the fool
+Face the music
+It's all there in front of you
+You can get it if you really try
+You can get it if you don't ask why
 
+Look at you
+The life you've gotten used to
+You don't care about
+The things you're into
+You can get it
+'Cause it's everywhere
+Temptation hides
+Behind every stare
+And when you get it
+It makes you feel good
+You don't regret it
+But maybe you should
+
+Just face the music
+Or turn away
+Just face the music
+You can run or stay
+
+First you'll admit it
+Then you take it back
+You're looking good
+'Cause that's your act
+Look at you
+Your life's getting hollow
+Time to choose
+The path you're gonna follow
+
+And when you get it
+It makes you feel good
+You don't regret it
+But maybe you should
+
+Just face the music
+Or turn away
+Just face the music
+You can run or stay
+
+Face the music
+Or turn away
+Just face the music
+You can run or stay
+
+I can't blame you
+Nobody wants to be the fool
+Face the music
+It's all there in front of you
+
+And when you get it
+It makes you feel good
+You don't regret it
+But maybe you should
+
+Just face the music
+Or turn away
+Just face the music
+You can run or stay
+
+Whoa-oa, face the music
+Or turn away
+Just face the music
+You can run or stay
+
+(Face the music)
+You can run or stay

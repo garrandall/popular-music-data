@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-the-tymes
+lyrics_url: https://genius.com/The-tymes-people-lyrics
 name: People
 rankings:
 - end_date: '1968-11-22'
@@ -39,4 +40,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
 ---
+Everybody's got to have somebody
+Everybody's got to have someone
 
+People, people who need people
+Are the luckiest people in the world
+
+Children, needing other children
+And then letting a grown-up pride
+Hide all the need inside
+Acting more like children than children
+
+Everybody's got to have somebody
+Everybody's got to love someone
+
+Lovers are very special people
+They're the luckiest people in the world
+If one person, one very special person
+
+With that feeling deep in your soul
+Says you were half
+When now you're whole
+
+No more hunger and thirst
+But first be a person
+Who needs people
+
+People who need people, yeah
+Are the luckiest, luckiest
+People in the world
+
+Everybody's got to have somebody
+Everybody's got to love somebody
+
+People got to have somebody
+People got to have somebody
+They're the luckiest people
+In the world
+
+With that feeling deep in your soul
+Says you were half
+When now you're whole
+
+No more hunger and thirst
+But first be a person
+Who needs people
+
+People who need people, yeah
+Are the luckiest, luckiest
+People in the world
+
+Everybody's got to have somebody
+I need me somebody
+Got to have somebody
+I need me somebody
+Got to have somebody
+Oh, I need me somebody, yeah

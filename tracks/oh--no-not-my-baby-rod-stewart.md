@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh--no-not-my-baby-rod-stewart
+lyrics_url: https://genius.com/Rod-stewart-oh-no-not-my-baby-lyrics
 name: Oh! No Not My Baby
 rankings:
 - end_date: '1973-10-19'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
 ---
+When my friends told me you had someone new
+I didn't believe a single word was true
+I told them all I had faith in you
+I kept a-right on sayin'
 
+Oh, no, not my baby
+Oh no, not my sweet baby
+You're not like all those other girls
+Who play with the men's hearts like they were toys
+
+My mama told me, son when rumors spread
+That there is truth somewhere
+And you should use your head
+But sure didn't listen to what she said
+Don't you know I kept a-right on sayin'
+
+Oh, no, not my baby
+Oh no, not my sweet baby
+
+You're not like all those other girls
+Who lead you on and tell you lies
+No, no, my baby
+
+Tell me, baby
+I don't believe what they say, no
+
+Oh, no, not my baby
+Oh no, not my sweet baby
+Oh, no, not my baby
+Oh no, not my sweet baby
+Not my baby, not my baby
+Not my baby, not my baby
+Not my baby, not my baby
+Not my sweet sweet baby
+Not my baby, not my baby
+Not my baby, not my baby
+Not my baby, not my baby
+No way, not my baby
+Not my baby, not my baby
+Not my sweet sweet baby
+Oh, no, not my baby
+Oh no, not my sweet baby
+Oh, no, not my baby
+Oh no, not my sweet baby
+Oh, no, not my baby
+Oh no, not my sweet baby
+Oh, no, not my baby
+Oh no, not my sweet baby

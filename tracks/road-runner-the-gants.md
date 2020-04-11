@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: road-runner-the-gants
+lyrics_url: https://www.musixmatch.com/lyrics/The-Gants/Road-Runner
 name: Road Runner
 rankings:
 - end_date: '1965-10-01'
@@ -55,4 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
 ---
+(Beep beep schrooooam!)
 
+I'm a road runner, baby, can't catch up with me
+I'm a road runner, baby, (woo) you can't catch up with me, girl
+I'm gonna turn your face, baby (beep beep schrooooam!)
+
+I'm a road runner, baby, can't catch up with me
+I'm a road runner, baby, (woo) I'll leave you behind, girl
+I'm gonna turn your face, baby (beep beep schrooooam!)
+
+(Instrumental)
+(Beep beep schrooooam!)
+
+I'm a road runner, baby; I'm a road runner, baby
+I'm a road runner, baby; I'm a road runner, baby
+I'm gonna turn your face, baby (beep beep schrooooam!)

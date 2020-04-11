@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-you-phyllis-nelson
+lyrics_url: https://genius.com/Phyllis-nelson-i-like-you-lyrics
 name: I Like You
 rankings:
 - end_date: '1986-02-14'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
 ---
+Hey you
+Over there
+Everybody
+Everywhere
+To feel good, yeah
+Say I like you
 
+From the first time
+Feel it
+Say I like you
+Just holler when you mean it
+Say I like you yeah
+
+I like you
+I like you
+I like you
+I like you
+Yes, I do
+
+I like you...
+Yes, I do
+Yes, I do
+
+Ooh
+The wine a taking of rhythm
+In this divine friendship we share
+Like the wine mellow so sweet
+
+Let us mesmerize each other
+And joy will keep
+And later on when you need someone
+Don't you hesitate to call me on the phone
+
+I like you
+Yes, I like you
+I do
+
+I like to say I care for you
+I love you
+And if I had my way
+I'd say every day
+Yes, I would
+
+Well I just got to know if you know
+What I feel for you is real
+And when you feel what I feel for you is real
+All you got to do is let me know so
+Just say so
+
+I like you
+I like you

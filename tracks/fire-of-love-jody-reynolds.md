@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fire-of-love-jody-reynolds
+lyrics_url: https://www.musixmatch.com/lyrics/Jody-Reynolds/Fire-of-Love
 name: Fire Of Love
 rankings:
 - end_date: '1958-08-24'
@@ -27,4 +28,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
 ---
+The fire of love
+Is burning deep
+The fire of love
+Won't let me sleep
+Oh my love
+Hear this my plea
+Because of you
+It's burning me
 
+The sun beats down
+With it's fiery glow
+Knows I won't see
+My love no more
+I'm sorry for
+The things I've done
+Forgive me dear
+My only one
+
+My baby's back
+Once more she's mine
+To have and hold
+'Til end of time
+The moon shines down
+From up above
+It's light to cool
+The fire of love
+
+The fire of love
+The fire of love
+The fire of love

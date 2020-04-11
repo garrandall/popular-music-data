@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-know-me-lenny-welch
+lyrics_url: https://www.musixmatch.com/lyrics/Lenny-Welch/You-Don-t-Know-Me
 name: You Don't Know Me
 rankings:
 - end_date: '1960-03-06'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
 ---
+You give your hand to me
+And then you say hello
+And I can hardly speak
+My heart is beating so
 
+And anyone could tell
+You think you know me well
+But you don't know me
+
+No, no, no
+You don't know the one
+Who dreams of you at night
+And longs to kiss your lips
+And longs to hold you tight
+
+To you, I'm just a friend
+That's all I've ever been
+But you don't know me
+
+For I never knew
+The art of making love
+Though my heart ached
+With love for you
+
+Afraid and shy
+I let my chance go by
+The chance you might
+Have loved me too
+
+You give your hand to me
+And then you say goodbye
+I watch you walk away
+Beside the lucky guy
+
+To never, never, never know
+The one who loves you so
+No, you don't know me
+
+You give your hand to me
+And then you say goodbye
+I watch you walk away
+Beside the lucky guy
+
+To never, never, never know
+The one who loves you so
+No, you don't know me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-message-remy-shand
+lyrics_url: https://genius.com/Remy-shand-take-a-message-lyrics
 name: Take A Message
 rankings:
 - end_date: '2002-05-03'
@@ -31,4 +32,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
 ---
+How did she fall in love
+Tired and shaken up?
+Could it be hangin' around's enough?
+No one was foolin' when they told about the sense and sensibility
+In movin' on
 
+
+All that I see is that we're livin' life
+Did you fail when you found that you paid the price?
+Hope it wasn't lost in an honest truth
+So the past doesn't break all that we've been through
+Every little thing that you did was right
+But who knows what you did on the day you cried endlessly
+Oh, you cried endlessly
+
+
+Take a message for my love (take a message) (8x)
+
+What could I say to you (oh)
+When makin' the waves was left unconscious
+I didn't mean to tell you why, oh, why
+But you harboured all defenses
+And you're makin' it hard to bring that hope back
+For you and I
+
+
+All that I see is that we're livin' life
+Did you fail when you found that you paid the price
+Hope it wasn't lost in an honest truth
+So the past doesn't break all that we've been through
+Every little thing that you did was right
+But who knows what you did on the day you cried endlessly
+Oh, you cried endlessly
+
+
+Take a message for my love (take a message) (8x)
+
+
+
+
+All that I see is that we're livin' life
+Did you fall when you found that you paid the price
+Hope it wasn't lost in an honest truth
+So the past doesn't break all that we've been through
+Every little thing that you did was right
+But who knows what you did on the day you cried endlessly
+Oh, you cried endlessly
+
+
+Take a message for my love (take a message) (8x)

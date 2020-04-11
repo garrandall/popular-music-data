@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-man-enough-four-tops
+lyrics_url: https://genius.com/The-four-tops-are-you-man-enough-lyrics
 name: Are You Man Enough
 rankings:
 - end_date: '1973-06-29'
@@ -59,4 +60,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
 ---
+That's not a street that you can walk
+You gotta watch just who you're talking to
+They're out to getcha!
+Can't turn your back on a smiling face
+Next thing you know, there ain't no trace, of you
+And this I betcha, some people lose and some folks win
+It's a matter of what they do
 
+
+Are you man enough, big and bad enough?
+Are you gonna let 'em shoot you down?
+When the evil flies and your brother cries
+Are you gonna be around?
+Someone needs a friend, just around the bend
+Don't you think you should be there?
+Are you man enough when the going's rough?
+Is it in your heart to care?
+
+
+There's no pretending it goes away
+With every step that you take, you pay your dues
+And I ain't lying!
+You got to struggle to see the light
+'Cause someone's looking to steal your right to choose
+And they don't stop trying!
+It's like a jungle outside the door and it's keeping you so confused
+
+
+Are you man enough, big and bad enough?
+Are you gonna let 'em shoot you down?
+When the evil flies and your brother cries
+Are you gonna be around?
+
+
+Gotta keep your eye on the passers-by, better watch your step
+'Cause you never know where the knife will go
+And they ain't missed yet
+The strong survive, they stay alive, they always cool
+But that they never teach you in school
+
+
+Are you man enough, big and bad enough?
+Are you gonna let 'em shoot you down?
+When the evil flies, and your brother cries
+Are you gonna be around?
+Someone needs a friend, just around the bend
+Don't you think you should be there?
+Are you man enough when the going gets rough?
+Is it in your heart to care?
+Are you man enough, big and bad enough?
+(Are you big and bad enough?)
+Are you gonna let 'em shoot ya down?

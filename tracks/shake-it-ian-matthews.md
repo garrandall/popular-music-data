@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shake-it-ian-matthews
+lyrics_url: https://www.musixmatch.com/lyrics/Ian-Matthews/Shake-It
 name: Shake It
 rankings:
 - end_date: '1978-11-24'
@@ -83,4 +84,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
 ---
+Here she comes ridin'
+Rollin' it down the line
+Slipin' and slidin'
+Takin' her sweet old time
 
+And laughin' all the way to the parking lot
+Knowin' in the back of her mind
+She's gonna show the boy what she's really got
+And stop him in the nick of time
+
+Shake it baby, shake it all you can tonight
+Go on and, and break 'em baby
+Break 'em all you can tonight
+'Cause it won't last forever
+But do it for worse or for better
+And give the boy somethin' to dream on later
+
+Here she comes slidin'
+
+Shakin' it down the hall
+She's got a picture in her locker
+An autographed basketball
+
+She's got a purse that was made in Mexico (Mexico)
+A mind that was made for love
+She's got a new way of dancin' slow
+She knows what you're thinkin' of
+
+It won't last forever
+But do it for worse or for better
+And give the boy somethin' to dream on later, and
+
+(Repeat and fade)

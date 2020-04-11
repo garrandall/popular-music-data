@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-never-been-this-far-before-conway-twitty
+lyrics_url: https://www.musixmatch.com/lyrics/Conway-Twitty/You-ve-Never-Been-This-Far-Before
 name: You've Never Been This Far Before
 rankings:
 - end_date: '1973-08-17'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
 ---
+I can almost hear the stillness
+As it yields to the sound of your heart beating
+And I can almost hear the echo
+Of the thoughts that I know you must be thinking
+And I can feel your body tremble
+As you wonder what this moment holds in store
+And as I put my arms around you
+I can tell you've never been this far before
 
+I don't know what I'm saying
+As my trembling fingers touch forbidden places
+I only know that I have waited
+For so long for the chance that we are taking
+I don't know and I don't care
+What made you tell him you don't love him anymore
+And as I taste your tender kisses
+
+I can tell you've never been this far before
+
+And as I take the love you're giving
+I can feel the tension building in your mind
+And you're wondering if tomorrow
+I'll still love you like I'm loving you tonight
+You have no way of knowing
+But tonight will only make me love you more
+And I hope that you'll believe me
+'Cause I know you've never been this far before

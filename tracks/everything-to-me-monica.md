@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-to-me-monica
+lyrics_url: https://genius.com/Monica-everything-to-me-lyrics
 name: Everything To Me
 rankings:
 - end_date: '2010-03-05'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
 ---
+:
+Boy if you ever left my
+My side
+It'd be like taking the sun from
+The sky
+I'd probably die without
+You in
+My life
+Cause I need you to
+Shine, shine
+Your light
+Oooohhhhhhh
 
+:
+You're everything to me, heey
+The air that I breathe, oohhh
+A sign so I'll see, oh Lord
+You're everything to me
+
+:
+I can't repay you for all that you've done
+Always come first and second to none
+The love that you give me is equal to ten
+My peace, my joy
+You are my
+My strength, ooohhhh
+
+You're everything to me, whoa
+The air that I breathe, ooooohhh
+A sign so I'll see, ohhh that
+You're everything to me
+
+:
+(Boy I never thought) Never thought I'd feel a love like this
+Better than our first date
+Sweeter than our first kiss (and you)
+Ain't no other person for me
+You're my best friend
+My lover
+(Baby you're) My everything
+
+You're everything to me, whoa
+The air that I breathe, ooooohhh
+My sight, so I see, oh
+You're everything to me
+
+I need you, I need you, I need you...

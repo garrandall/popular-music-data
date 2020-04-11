@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-girl-the-beatles
+lyrics_url: https://genius.com/The-beatles-thank-you-girl-lyrics
 name: Thank You Girl
 rankings:
 - end_date: '1964-04-10'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
+Oh, oh, you've been good to me
+You made me glad
+When I was blue
+And eternally I'll always be
+In love with you
+And all I gotta do
+Is thank you girl, thank you girl
 
+
+I could tell the world
+A thing or two about our love
+I know little girl
+Only a fool would doubt our love
+And all I gotta do
+Is thank you girl, thank you girl
+
+
+Thank you girl for loving me
+The way that you do (Way that you do)
+That's the kind of love
+That is too good to be true
+And all I gotta do
+Is thank you girl, thank you girl
+
+
+Oh, oh, you've been good to me
+You made me glad
+When I was blue
+And eternally I'll always be
+In love with you
+And all I gotta do
+Is thank you girl, thank you girl
+
+
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh

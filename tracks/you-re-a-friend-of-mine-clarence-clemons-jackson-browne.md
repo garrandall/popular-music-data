@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-re-a-friend-of-mine-clarence-clemons-jackson-browne
+lyrics_url: https://genius.com/Clarence-clemons-and-jackson-browne-youre-a-friend-of-mine-lyrics
 name: You're A Friend Of Mine
 rankings:
 - end_date: '1985-11-01'
@@ -84,4 +85,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
-
+Striking out? Well, count me in
+I'm gonna stand right by your side through thick or thin
+Ain't no doubt, gonna win
+A walk through hell ain't bad compared to where we've been
+Oh, you can depend on me
+Over and over, over and over, know that I intend to be
+The one who, who always makes you laugh until you cry
+And you can call on me until the day you die
+Years may come and go
+Here's one thing I know
+All my life
+You're a friend of mine
+That argument, I can't forget
+We fought so hard I don't think I've recovered yet
+The girls we knew, who thought you were cool
+I never introduced my favorite ones to you
+Oh, you can depend on me
+Over and over, over and over, know that I intend to be
+The one who who always makes you laugh until you cry
+And you can call on me until the day you die
+Years may come and go
+Here's one thing I know
+All my life
+You're a friend of mine
+Oh, you can depend on me
+Over and over, over and over, know that I intend to be
+The one who who always makes you laugh until you cry
+And you can call on me until the day you die
+Years may come and go
+Here's one thing I know
+All my life
+You're a friend of mine
+Oh, you can depend on me
+I'll be fine
+'Cause you're a friend of mine
+Yeah, I'll be fine
+'Cause you're a friend of mine

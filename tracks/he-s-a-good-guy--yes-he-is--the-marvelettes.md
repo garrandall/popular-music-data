@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-s-a-good-guy--yes-he-is--the-marvelettes
+lyrics_url: https://genius.com/The-marvelettes-hes-a-good-guy-yes-he-is-lyrics
 name: He's A Good Guy (Yes He Is)
 rankings:
 - end_date: '1964-02-28'
@@ -35,4 +36,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
 ---
+He's a good guy, yes he is
+Just as sweet as he can be
+And I don't care what the people say
+I'm gonna love him, come what may
+Oh oh oh, he's a good guy, yes he is
 
+
+Some girls say he's so bad, but I can't agree
+'Cause if he makes them sad, he's still sweet to me
+I never saw a guy who was sweeter than my guy
+Never a saw a guy who was sweeter than he
+
+
+He's a good guy, yes he is
+Just as sweet as he can be
+And I don't care what the people say
+I'm gonna love him, come what may
+Oh oh oh, he's a good guy, yes he is
+
+
+My folks think he's lazy, but they just don't know him
+He works like he's crazy and one day he'll show them
+I never saw a guy as ambitious as my guy
+Never saw a guy as ambitious as he
+
+
+He's a good guy, yes he is
+Just as sweet as he can be
+And I don't care what the people say
+I'm gonna love him, come what may
+Oh oh oh, he's a good guy, yes he is
+
+
+My friends tell me "Quit him, " but I pay them no mind
+I'll always be with him and he'll treat me so kind
+I never saw a guy who's as grateful as my guy
+Never saw a guy who's as grateful as he
+
+
+He's a good guy, yes he is
+Just as sweet as he can be
+And I don't care what the people say
+I'm gonna love him, come what may
+Oh oh oh, he's a good guy, yes he is
+He's a good guy, yes he is
+Just as sweet as he can be

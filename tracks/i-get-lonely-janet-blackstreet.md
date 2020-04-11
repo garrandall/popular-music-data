@@ -5,6 +5,7 @@ features:
 - BLACKstreet
 genres: []
 key: i-get-lonely-janet-blackstreet
+lyrics_url: https://genius.com/Janet-jackson-i-get-lonely-tnt-remix-lyrics
 name: I Get Lonely
 rankings:
 - end_date: '1998-05-29'
@@ -88,4 +89,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
 ---
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
 
+
+Sittin here with my tears
+All alone with my fears
+I'm wonderin if I have to do
+Withoutcha
+But there's no reason why
+I feel asleep late last night
+Cryin like a newborn child
+Holdin myself close
+Pretendin my arms are yours
+I want no one but you
+
+
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+
+
+I still remember to the day
+In fact is was a third Monday
+You came along to be the one for me
+And now I'm alone
+I'm sittin here by the phone
+Call and say that you're okay
+So that I'll have the chance
+To beg you to stay
+I want no one but you
+
+
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+
+
+Gonna break it down
+Break it down, break it down
+Gotta break it down
+Break it down, break it down
+Whoa
+You know
+That I know
+That I get so lonely thinking of you
+Oh-hooh
+Noowhoahooo...
+
+
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you
+I get so lonely
+Can't let just anybody hold me
+You are the one that lives in me, my dear
+Want no one but you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-sweet-lady-cliff-deyoung
+lyrics_url: https://www.musixmatch.com/lyrics/Cliff-DeYoung/My-Sweet-Lady
 name: My Sweet Lady
 rankings:
 - end_date: '1974-01-11'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
+Lady, are you crying
+Do the tears belong to me
+Do you think our time together
+Is all gone
 
+Lady, you've been dreaming
+I'm as close as I can be
+And I swear to you
+Our time has just begun
+
+Close your eyes
+And rest your weary mind
+I promise I'll stay
+Right here beside you
+
+Today our lives were joined
+Became entwined
+And I wish that you could
+Know how much I love you
+
+Oh, oh, my lady, are you crying
+Do the tears belong to me
+Did you think our time together
+Is all gone
+
+Lady, my sweet lady
+I'm as close as I can be
+And I swear to you
+Our time has just begun

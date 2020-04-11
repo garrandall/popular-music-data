@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-alright-classic-example
+lyrics_url: https://genius.com/Classic-example-its-alright-lyrics
 name: It's Alright
 rankings:
 - end_date: '1992-11-20'
@@ -63,4 +64,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
+It's a new beginning
+Let's start again together
+You and I
+For the time has passed
+My love for you will never, ever die
 
+It's been so hard
+To tell you how I feel
+But I want you to know
+That my love's for real
+
+And it's alright (alright)
+(It's gonna be alright, alright)
+(Alright, it's gonna be alright)
+(Alright)
+
+But it's been so hard
+And I promise
+We can make a brand new start, baby
+Now the time has changed
+My love for you will remain the same
+
+It's been so hard
+To tell you how I feel
+But I want you to know
+That my love's for real
+
+And it's alright (alright)
+(It's gonna be alright, alright)
+(Alright, it's gonna be alright)
+(Alright) yeah, yeah
+
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright
+Alright
+
+Won't you sing it, TJ?
+
+It's been so hard
+To tell you how I feel
+But I want you to know
+That my love's for real, baby
+
+Alright (alright)
+(It's gonna be alright, alright)
+(Alright, it's gonna be alright)
+(Alright)
+
+Alright
+It's alright tonight
+It's alright, ohh
+Alright, alright
+
+Take me to the church
+
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright
+Alright
+It's gonna be alright

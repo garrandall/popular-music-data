@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-happened-paul-anka
+lyrics_url: https://genius.com/Paul-anka-something-happened-lyrics
 name: Something Happened
 rankings:
 - end_date: '1960-06-05'
@@ -43,4 +44,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
 ---
+Something happened
+To this heart of mine
+When I saw you standing
+In the sun
 
+Something happened
+And I can't define
+How I knew you
+Were the one
+
+The world stood still
+While my head
+Went spinning round
+I always will
+Thank the Lord
+For what I found
+
+Something happened
+And my prayers were heard
+Now I'm walking in
+The sun with you
+
+Something happened
+And without a word
+I was sure you
+Loved me too
+
+The world stood still
+While my head
+Went spinning round
+I always will
+Thank the Lord
+For what I found
+
+Something happened
+And my prayers were heard
+Now I'm walking in
+The sun with you
+
+Something happened
+And without a word
+I was sure you
+Loved me too
+
+I was sure you
+Loved me too
+I was sure you
+Loved me too

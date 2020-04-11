@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-but-me-the-human-beinz
+lyrics_url: https://genius.com/Human-beinz-nobody-but-me-lyrics
 name: Nobody But Me
 rankings:
 - end_date: '1967-12-15'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
 ---
+No-no, no, no-no, no-no-no-no
+No, no-no, no, no, no-no, no-no, no-no
+No-no-no-no, no-no, no, no-no, no
+Nobody can do the (Shing-a-ling)
+Like I do
+Nobody can do the (Skate)
+Like I do
+Nobody can do (Boogaloo)
+Like I do
+Nobody can do (Philly)
+Like I do
 
+
+Well, don't you know I go to skate, I do
+Ain't nobody doin' it but me (Nobody but me)
+When I go to Philly, I do
+Ain't nobody doin' it but me, babe (Nobody but me)
+Well, let me tell you nobody
+But nobody but me
+Let me tell you, tell you, nobody (Nobody), nobody (Nobody)
+Nobody (Nobody), nobody (Nobody)
+Nobody (Nobody), nobody (Nobody)
+Nobody (Nobody), nobody (Nobody)
+
+
+No-no, no, no-no, no-no-no-no
+No, no-no, no, no, no-no, no-no, no-no
+No-no-no-no, no-no, no, no-no, no
+Nobody can do the (Shing-a-ling)
+Like I do
+Nobody can do the (Skate)
+Like I do
+Nobody can do (Boogaloo)
+Like I do
+Nobody can do (Philly)
+Like I do
+Oh, yeah
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-girl--has-turned-into-a-woman--mary-macgregor
+lyrics_url: https://genius.com/Mary-macgregor-this-girl-has-turned-into-a-woman-lyrics
 name: This Girl (Has Turned Into A Woman)
 rankings:
 - end_date: '1977-04-29'
@@ -39,4 +40,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
 ---
+Wake up
+The morning's over
+The bed is soft and warm
+Where we lay
 
+I've dreamed the whole night through
+Of how I'd say to you
+All the things
+My heart wants to say
+
+Last night
+You heard me crying
+'Cause I had never loved a man
+Before
+
+And I guess the tears were falling
+'Cause the little girl was lost
+But now love
+I'm not crying any more
+
+This girl has turned into a woman
+And I've dreamed of this moment
+All my life
+
+This girl has turned into a woman
+And I thank you
+For your tenderness
+Last night
+
+I've never a man
+Lying on my pillow
+I've never seen your body
+Without clothes
+
+I can't believe
+These feelings I've discovered
+Though I'm sure it's just
+What every lover knows
+
+Now I'm offering to you
+I make a promise
+And? Was gone tomorrow
+Don't pretend
+
+But right now I'm in love
+And that's all I'm thinking of
+And I hope this feeling
+Never ever ends
+
+This girl has turned into a woman
+And I've dreamed of this moment
+All my life
+This girl has turned into a woman
+And I thank you
+For your tenderness last night
+
+And I want to love you
+Once again
+Tonight

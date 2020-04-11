@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-thing-i-do-soul-for-real
+lyrics_url: https://genius.com/Soul-for-real-every-little-thing-i-do-lyrics
 name: Every Little Thing I Do
 rankings:
 - end_date: '1995-05-12'
@@ -111,4 +112,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
 ---
+You are on my mind
+You are on my mind
+You are on my mind
+You are on my mind
 
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+
+Can't you see what you do to me
+I think about you all the time
+My mind is hazy and I'm mixed up feeling crazy over you
+Let's not waste any time
+
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+
+Round and round I go
+Where I'll stop only you know
+I guess it's all in my mind
+Take your time, think it over
+Let me know what you wanna do
+Baby it's all good
+
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+Every little thing I do, you're on my mind
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+I can't get over you, I think about you all the time
+
+
+The way I feel lately, it's driving me crazy
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey
+Every little thing I do, you're on my mind
+You're on my mind, hey

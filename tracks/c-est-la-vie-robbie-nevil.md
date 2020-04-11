@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: c-est-la-vie-robbie-nevil
+lyrics_url: https://genius.com/Robbie-nevil-cest-la-vie-lyrics
 name: C'est La Vie
 rankings:
 - end_date: '1986-10-17'
@@ -99,4 +100,135 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
 ---
+Got a job
+That's O.K
+But they've got me
+Working night and day
 
+Punching in
+Punching out
+Is this really what life's all about?
+
+
+What'cha gonna do?
+What'cha gonna feel?
+I don't know
+
+What'cha gonna feel?
+What'cha gonna do?
+Ooh
+Won't someone tell me
+
+What'cha wanna say?
+What'cha wanna do?
+There's only one thing left to say
+What'cha wanna say?
+What'cha wanna say?
+Ooh
+
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+
+
+Baby's gone
+All alone
+Are you sad
+Because you're on your own?
+
+Get that girl
+Party down
+There's so many good ones still around
+
+
+What'cha gonna do?
+What'cha gonna feel?
+I don't know
+
+What'cha gonna feel?
+What'cha gonna do?
+Ooh
+Won't someone tell me
+
+What'cha wanna say?
+What'cha wanna do?
+There's only one thing left to say
+What'cha wanna say?
+What'cha wanna say?
+Ooh
+
+
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+
+
+
+Hey J.J
+What you been doing?
+You say your car broke down
+The thing just isn't moving
+
+J.J.J
+Don't you know?
+When you're down
+There's just one way to go
+Now sing it
+
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)
+Oh, yeah
+
+C'est la vie
+C'est la vie
+That's just the way it goes
+(That's life)

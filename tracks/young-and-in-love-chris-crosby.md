@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-and-in-love-chris-crosby
+lyrics_url: https://www.musixmatch.com/lyrics/Chris-Crosby/Young-and-in-Love
 name: Young And In Love
 rankings:
 - end_date: '1964-02-21'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
+I can tell by their talk
+Like they don't understand
+Why we kiss as we talk
+And you cling to my hand
 
+Can it be they forgot
+That these things mean a lot
+We're young, young and in love
+(Young and in love)
+
+Now they just don't believe
+That our feeling is deep
+They say we shouldn't rush
+If it's love, it will keep
+
+But the thrill is so great
+Why should we have to wait
+We're young, young and in love
+(Young and in love)
+
+Oh, they whisper that
+We're at a dangerous age
+Too reckless, too wild
+And too fast
+
+Oh, but I bet that they
+Went through a similar stage
+And did the same things
+In the past
+
+So, my darling, although
+We are still in our teens
+Oh, we know, yes, we know
+What true love really means
+
+Don't let time slip away
+Make the most of today
+We're young, young and in love
+(Young and in love)
+
+Oh, we're young and in love
+Young and in love
+(Young and in love)
+
+Oh, we're young and in love
+Young and in love
+(Young and in love)

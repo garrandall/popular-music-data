@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gold-on-the-ceiling-the-black-keys
+lyrics_url: https://genius.com/The-black-keys-gold-on-the-ceiling-lyrics
 name: Gold On The Ceiling
 rankings:
 - end_date: '2012-06-29'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-25'
 ---
+Down in the waves
+She screams again
+Roar at the door
+My mind can't take much more
 
+
+I could never drown in
+
+
+They wanna get my
+They wanna get my gold on the ceiling
+I ain't blind, just a matter of time
+Before you steal it
+It's all right, ain't no guarding my high
+
+
+Clouds covered love's
+Barb-wired snare
+Strung up, strung out
+I just can’t go without
+
+
+I could never drown in
+
+
+They wanna get my
+They wanna get my gold on the ceiling
+I ain't blind, just a matter of time
+Before you steal it
+It's all right, ain't no guarding my high
+They wanna get my
+They wanna get my
+Gold on the ceiling
+I ain't blind, just a matter of time
+Before you steal it
+It's all right, ain't no guarding my high

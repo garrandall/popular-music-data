@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: disco-nights--rock-freak--g-q-
+lyrics_url: https://genius.com/Gq-disco-group-disco-nights-rock-freak-lyrics
 name: Disco Nights (Rock-Freak)
 rankings:
 - end_date: '1979-03-23'
@@ -79,4 +80,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
 ---
+Let the spirit flow all through your body
+Just lend us an ear
+Involve yourself
+You're free to follow
+And we'll take you there
 
+
+You said you want to reach the sky
+So get up
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+
+
+Just say you will
+Just do what you feel
+I'm for real
+
+
+The music`s full of joy and laughter
+And it's such a thrill
+To free your mind from all the pressure
+Head on up the hill
+
+
+You said you want to reach the sky
+So get up
+The feeling's right
+And the music's tight
+On the disco nights
+
+
+Rock freak
+Rock freak
+Rock freak
+Rock freak
+
+
+Don't say you will
+Just do what you feel
+I'm for real
+
+
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+The feeling's right
+And the music's tight
+On the disco nights
+
+
+Just dancing with my baby one time
+Feels good all over
+It's good, the feeling's good
+About me and-me and baby
+Disco

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: exodus-ferrante-teicher
+lyrics_url: https://genius.com/Ferrante-and-teicher-exodus-lyrics
 name: Exodus
 rankings:
 - end_date: '1960-11-20'
@@ -92,4 +93,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
 ---
-
+This land is mine, God gave this land to me
+This brave and ancient land to me
+And when the morning sun reveals her hills and plain
+Then I see a land where children can run free
+So take my hand and walk this land with me
+And walk this lovely land with me
+Though I am just a man, when you are by my side
+With the help of God, I know I can be strong
+Though I am just a man, when you are by my side
+With the help of God, I know I can be strong
+To make this land our home
+If I must fight, I'll fight to make this land our own
+Until I die, this land is mine

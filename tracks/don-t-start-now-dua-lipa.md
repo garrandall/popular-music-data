@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-start-now-dua-lipa
+lyrics_url: https://genius.com/Dua-lipa-dont-start-now-lyrics
 name: Don't Start Now
 rankings:
 - end_date: '2019-11-22'
@@ -83,4 +84,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+If you don't wanna see me
 
+
+Did a full 180, crazy
+Thinking 'bout the way I was
+Did the heartbreak change me? Maybe
+But look at where I ended up
+I'm all good already
+So moved on, it's scary
+I'm not where you left me at all, so
+
+
+If you don't wanna see me dancing with somebody
+If you wanna believe that anything could stop me
+
+
+Don't show up, don't come out
+Don't start caring about me now
+Walk away, you know how
+Don't start caring about me now
+
+
+Aren't you the guy who tried to
+Hurt me with the word "goodbye"?
+Though it took some time to survive you
+I'm better on the other side
+I'm all good already
+So moved on, it's scary
+I'm not where you left me at all, so
+
+
+If you don't wanna see me dancing with somebody
+If you wanna believe that anything could stop me
+(Don't, don't, don't)
+
+
+Don't show up, don't come out
+Don't start caring about me now
+Walk away, you know how
+Don't start caring about me now ('Bout me now, 'bout me)
+
+
+Up, up
+Don't come out, out, out
+Don't show up, up, up
+Don't start now (Oh)
+Up, up
+Don't come out, out
+I'm not where you left me at all, so
+
+
+If you don't wanna see me dancing with somebody
+If you wanna believe that anything could stop me
+
+
+Don't show up (Don't show up), don't come out (Don't come out)
+Don't start caring about me now ('Bout me now)
+Walk away (Walk away), you know how (You know how)
+Don't start caring about me now (So)
+
+
+Up, up
+Don't come out, out, out
+Don't show up, up, up
+Walk away, walk away (So)
+Up, up
+Don't come out, out, out
+Don't show up, up, up
+Walk away, walk away, oh

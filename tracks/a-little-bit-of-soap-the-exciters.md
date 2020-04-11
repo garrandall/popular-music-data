@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-of-soap-the-exciters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Exciters/A-Little-Bit-of-Soap
 name: A Little Bit Of Soap
 rankings:
 - end_date: '1966-02-04'
@@ -31,4 +32,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
 ---
+A little bit of soap
+Will washed away her lipstick on your face
+A little bit of soap
+Will never ever ever ever erase
+The pain in my heart
+And i and i know thru the lonely years
+A little bit of soap
+Will nevet washed away my tears
 
+A little bit of soap
+Will washed away her powder on your cheek
+A little bit of soap
+Will never neverever ever begin
+To take away the hurt that i feel
+And i know through the lonely years
+A little bit of soap
+Will never washed away my tears

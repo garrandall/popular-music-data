@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: separate-lives-phil-collins-and-marilyn-martin
+lyrics_url: https://www.musixmatch.com/lyrics/Phil-Collins-and-Marilyn-Martin/Separate-Lives-2
 name: Separate Lives
 rankings:
 - end_date: '1985-10-11'
@@ -91,4 +92,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
 ---
-
+You called me from the room in your hotel
+All full of romance for someone that you've met
+And telling me how sorry you were leaving so soon
+And that you miss me sometimes
+When you're alone in your room
+Do I feel lonely too?
+You have no right to ask me how I feel
+You have no right to speak to me so kind

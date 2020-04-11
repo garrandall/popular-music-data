@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-together-again-roberta-flack-with-donny-hathaway
+lyrics_url: https://www.musixmatch.com/lyrics/Roberta-Flack-with-Donny-Hathaway/Back-Together-Again
 name: Back Together Again
 rankings:
 - end_date: '1980-05-23'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
 ---
+Seems we've weathered
+Hard times we've been through
+In silence I've waited
+I missed you, missed you too
 
+'Cause you, you and I, I, I back together again
+Got the world in a spin
+You, you and I, I, I back together again
+Got the world in a spin
+
+It's all come together
+Problems we defeated
+And I'm here out in hand
+You take all that I got and you need it, baby
+
+'Cause you, you and I, I, I back together again
+Got the world in a spin
+You, you and I, I, I back together again
+Got the world in a spin
+
+Love will last forever, forever
+We can make it real, got to be real
+Say you'll leave me never, leave me never
+We can truly feel what you feel
+I feel like you back together, yeah, yeah, yeah
+
+Younger and wiser
+Time has shown the way
+We've come full circle
+To stay, yeah
+
+'Cause you, you and I, I, I back together again
+Got the world in a spin
+You, you and I, I, I back together again
+Got the world in a spin
+
+Truth is the light
+It's the joy that we both share
+Make love day and night
+So easy to do when you care
+
+Love will last forever, forever
+We can make it real, got to be real
+Say you'll leave me never, leave me never
+We can truly feel what you feel
+I feel like you back together
+
+Ooh back together again
+Ooh back together again
+Ooh back together again

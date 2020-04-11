@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-the-world-needs-now-is-love-tom-clay
+lyrics_url: https://genius.com/Tom-clay-what-the-world-needs-now-is-love-lyrics
 name: What The World Needs Now Is Love
 rankings:
 - end_date: '1971-07-16'
@@ -43,4 +44,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+Man: What is segration?
+Kid: I don't know what segration is
+Man: What is bigotry?
+Kid: I don't know what bigotry is
+Man: What does hatred mean?
+Kid: I don't know what that is
+Man: What is prejudice?
+Kid: Mmm, I think that is when someone is sick
 
+
+Anybody here seen my old friend John
+Can you tell me where he's gone
+
+
+Anybody here seen my old friend Martin
+Can you tell me where he's gone
+He freed lotta people
+But it seems the good they die young
+
+
+Anybody here seen my old friend Bobby
+Can you tell me where he's gone
+
+
+What the world needs now
+Is love sweet love
+No not for some
+But for everyone
+
+Man: What is segration?
+Kid: I don't know what segration is
+Man: What is bigotry?
+Kid: I don't know what bigotry is
+Man: What does hatred mean?
+Kid: I don't know what that is
+Man: What is prejudice?
+Kid: Mmm, I think that is when someone is sick

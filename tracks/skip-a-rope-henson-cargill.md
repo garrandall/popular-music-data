@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: skip-a-rope-henson-cargill
+lyrics_url: https://genius.com/Henson-cargill-skip-a-rope-lyrics
 name: Skip A Rope
 rankings:
 - end_date: '1967-12-29'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+Skip a rope, skip a rope
+Oh, listen to the children while they play
+Now ain't it kind of funny what the children say?
+Skip a rope
 
+Daddy hates mommy, mommy hates dad
+Last night you should'a heard the fight they had
+It gave little sister another bad dream
+She woke us all up with a terrible scream
+
+Skip a rope, skip a rope
+Oh, listen to the children while they play
+Now ain't it kind of funny what the children say?
+Skip a rope
+
+Cheat on your taxes, don't be a fool
+Now what was that they said about a golden rule?
+Never mind the rule, just play to win
+And hate your neighbor for the shade of his skin
+
+Skip a rope, skip a rope
+Oh, listen to the children while they play
+Now ain't it kind of funny what the children say?
+Skip a rope
+
+Stab 'em in the back that's the name of the game
+And mommy, and daddy, are who's to blame
+
+Skip a rope, skip a rope
+Just listen to your children while they play
+It's really, not, very funny, what the children say
+Skip a rope
+Skip a rope
+Skip a rope
+Skip a rope

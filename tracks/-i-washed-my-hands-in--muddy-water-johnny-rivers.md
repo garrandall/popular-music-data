@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-washed-my-hands-in--muddy-water-johnny-rivers
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Rivers/I-Washed-My-Hands-in-Muddy-Water
 name: (I Washed My Hands In) Muddy Water
 rankings:
 - end_date: '1966-06-17'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
 ---
+I was home in Macon, Georgia
+They kept my Daddy in the Macon jail
+He said, Son, if you keep your hands clean, uh huh
+You wont hear those bloodhounds on your trail
 
+I fell in with bad companions
+I robbed a man up in Tennessee
+And I got caught way up in Nashville, uh huh now
+And they locked me up and threw away the key
+
+CHORUS
+I washed my hands in muddy water
+I washed my hands, but they didn't come clean
+I tried to do like my daddy told me, now
+I must have washed my hands in a muddy stream
+
+I asked the jailer, said Whens my time up?
+He said Son, you know we wont forget
+And if you try and just keep your hands clean, uh huh
+Why we may just make a good man of you yet
+
+But I didn't wait to get my time in
+I broke down, broke out the Nashville jail
+I just crossed Atlanta, Georgia, oh now
+And I can hear those bloodhounds on my trail
+
+I washed my hands in muddy water
+I washed my hands, but they didn't come clean
+I tried to do like my daddy told me, now
+I must have washed my hands in a muddy stream

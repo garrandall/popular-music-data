@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-dolly--louis-armstrong-and-the-all-stars
+lyrics_url: https://www.musixmatch.com/lyrics/Louis-Armstrong-and-the-All-Stars/Hello-Dolly
 name: Hello Dolly!
 rankings:
 - end_date: '1964-02-21'
@@ -95,4 +96,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
-
+Hello, Dolly
+This is Louis, Dolly
+It's so nice to have you back where you belong
+You're lookin' swell, Dolly
+I can tell, Dolly
+You're still glowin'
+You're still crowin'
+You're still goin' strong
+I feel the room swayin'
+While the band's playin'
+One of our old favourite songs from way back when
+So take her wrap, fellas
+Find her an empty lap, fellas
+Dolly'll never go away again
+I feel the room swayin'
+From the band's playin'
+One of our old favourite songs from way back when
+So golly gee, fellas
+Have a little faith in me, fellas
+Dolly'll never go away
+Fellas, she'll never go away
+Dolly ain't goin' away again

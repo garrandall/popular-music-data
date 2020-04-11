@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: straighten-up-your-heart-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-straighten-up-your-heart-lyrics
 name: Straighten Up Your Heart
 rankings:
 - end_date: '1963-08-23'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
 ---
+Your cheating heart was playing from the start
+& our love's becoming the talk of the town
+I can't live up to misery & pain
+That I'm about to face, my tears would fall like rain
+'Cause I have been too lonely
+One day soon, let me go
+It's gonna hurt, it's gonna hurt me so inside
+So if you don't wanna, don't want to see my cry
+Please don't ever ever say goodbye
+Just straighten up your heart
+& we can start anew
+& if you do this for me
+I'll know your lovin' is true
 
+(instrumental)
+
+So straighten up your heart
+& we can start anew
+& if you do this for me
+I'll know your lovin' is true
+Baby I'll know your love is true
+Darlin', I'll know your love is true, so true
+...&fade

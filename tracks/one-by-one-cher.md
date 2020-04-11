@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-by-one-cher
+lyrics_url: https://genius.com/Cher-one-by-one-lyrics
 name: One By One
 rankings:
 - end_date: '1996-06-21'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
 ---
+When you pray with every breath
+You know that is free as the love you have
+Where does it end?
+It's too much for me to take
+There's no peace
+You close your eyes
+I'm all out of truth, I'm out of alibis
+Where does it end?
+It's too much for me to take
 
+
+We're gonna love one another 'til morning comes
+Seek the sweet salvation for what we've done
+Give up resisting one by one, one by one
+He gives a new kind of meaning to what I am
+I know that I could never love any other man
+One of these days he'll understand, understand
+
+
+And his face, his heaven scent
+He makes me believe there must be something else
+Where does it end?
+It's too much for me to take
+I can feel the need in you
+There isn't a thing I won't let you do
+Where does it end?
+It's too much for me to take
+
+
+We're gonna love one another 'til morning comes
+Seek the sweet salvation for what we've done
+Give up resisting one by one, one by one
+He gives a new kind of meaning to what I am
+I know that I could never love any other man
+One of these days he'll understand, understand
+Understand
+
+
+
+
+We're gonna love one another 'til morning comes
+Seek the sweet salvation for what we've done
+Give up resisting one by one, one by one
+He gives a new kind of meaning to what I am
+I know that I could never love any other man
+One of these days he'll understand, understand
+We're gonna love one another 'til morning comes
+Seek the sweet salvation for what we've done
+Give up resisting one by one, one by one
+We're gonna love one another
+We're gonna love one another
+Give up resisting one by one, one by one

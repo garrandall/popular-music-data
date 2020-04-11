@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: worth-it-yk-osiris
+lyrics_url: https://genius.com/Yk-osiris-worth-it-lyrics
 name: Worth It
 rankings:
 - end_date: '2019-03-08'
@@ -107,4 +108,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
 ---
+I would give you the world, nah, nah, nah
+(Yo Kiwi, thank you bro)
+You just gotta be worth it, yeah, yeah, yeah, yeah
 
+
+I would give you the world, baby girl
+You just gotta be worth it (Oh, oh, oh)
+You don't gotta be perfect (Mm, mm, mm)
+You just gotta be worth it, yeah, yeah, yeah, yeah
+I would give you the world, baby girl
+You just gotta be worth it, yeah, yeah
+But you don't gotta be perfect (Oh, oh, oh)
+You just gotta be worth it, yeah, yeah, yeah, nah, nah
+
+
+Everybody doubted me, but girl, you stuck around
+And you told me, "If I hold you you gon' hold me down"
+You don't gotta be perfect, you just gotta be worth it
+Buyin' this and that, baby girl, you don't ever have to work again
+Time is precious, baby girl, let's not let it go by
+I just really wanna know, do you love me? Don't lie
+I know you felt alone, huh, 'cause I been on the road, huh
+But I been doin' shows, I swear I ain't doin' you wrong
+Ridin' 'round through the city, yeah
+Girl, you know you comin' with me, yeah
+I been a hundred out of fifty, girl
+Ain't nobody messin' with me, yeah
+I don't really think they understand
+Baby girl, I know you understand
+I'm just tryna go feed my fam, hey-ey-ey, nah
+
+
+I would give you the world, baby girl
+You just gotta be worth it (Oh, oh, oh)
+You don't gotta be perfect (Mmh, mmh, mmh)
+You just gotta be worth it, yeah, yeah, yeah, yeah
+I would give you the world, baby girl
+You just gotta be worth it, yeah, yeah
+But you don't gotta be perfect (Oh, oh, oh)
+You just gotta be worth it, yeah, yeah, yeah, nah, nah
+
+
+Oh-woah, woah, nah, nah, nah
+Nah, nah, nah
+
+
+I would give you the world, baby girl
+You just gotta be worth it (Oh, oh, oh)
+You don't gotta be perfect (Mmh, mmh, mmh)
+You just gotta be worth it, yeah, yeah, yeah, yeah
+I would give you the world, baby girl
+You just gotta be worth it, yeah yeah
+But you don't gotta be perfect (Oh, oh, oh)
+You just gotta be worth it, yeah, yeah, yeah, nah, nah

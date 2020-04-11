@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-you-paul-carrack
+lyrics_url: https://genius.com/Paul-carrack-i-need-you-lyrics
 name: I Need You
 rankings:
 - end_date: '1982-09-10'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
 ---
+Don't need a roller or a limousine
+I don't need my picture in a magazine
+I don't need approval from a chosen few
+Tell you what I do need, I need you
 
+Don't need no fixtures or feelings of home
+I'm so unfurnished, I'm on my own
+I don't need reminding, when the rent is due
+Tell you what I do need, I need you
+
+I need you like a fly needs a plane
+I need you like a ball needs a game
+I need you like a pool needs a cue
+I need you, need you, need you, I need you
+
+I don't need no covered kisses for company
+I don't want no washed up dishes, soft soapin' me
+I don't need no Cinderella in high heeled shoes
+I tell you what I do need, I need you
+(I need you)
+
+Oh, I need you like a fly needs a plane
+I need you like a ball needs a game
+I need you like a shot needs to shoot
+I need you, need you, need you, I need you
+
+I need you, need you, need you
+(I need you)
+Said, I want you
+(I need you)
+I need you, need you, need you
+(I need you)
+
+But I want, I want you
+(I need you)
+Yes, I need
+(I need you)
+
+I need you, need you, need you
+(I need you)
+I want you, want you, want you
+(I need you)

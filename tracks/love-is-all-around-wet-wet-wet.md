@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-all-around-wet-wet-wet
+lyrics_url: https://genius.com/Wet-wet-wet-love-is-all-around-lyrics
 name: Love Is All Around
 rankings:
 - end_date: '1994-07-15'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
 ---
+I feel it in my fingers
+I feel it in my toes
+Love is all around me
+And so the feeling grows
 
+It's written on the wind
+It's everywhere I go
+So if you really love me
+Come on and let it show
+
+You know I love you, I always will
+My mind's made up by the
+Way that I feel
+There's no beginning
+There'll be no end
+'cause on my love you can depend
+
+I see your face before me
+As I lay on my bed
+I kinda get to thinking
+Of all the things you said, oh yes I did
+You gave your promise to me and I
+Gave mine to you
+I need someone beside me
+In everything I do
+
+You know I love you, I always will
+My mind's made up by the
+Way that I feel
+There's no beginning
+There'll be no end
+'cause on my love you can depend
+
+Got to keep it moving
+
+Oh It's written in the wind
+Oh everywhere I go, yeah, oh well
+So if you really love me, love me, love me
+Come on and let it show
+Come on and let it show
+Come on and let it
+Come on and let it (come and let it show, baby)
+Come on, come on, come on let it show baby
+Come on and let it show
+Come on and let it show, baby
+Come on and let it show

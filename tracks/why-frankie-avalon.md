@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-why-lyrics
 name: Why
 rankings:
 - end_date: '1959-11-29'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
+I'll never let you go
+Why? Because I love you
+I'll always love you so
+Why? Because you lome me
 
+No broken hearts for us
+'Cause we love each other
+And with our faith and trust
+There could be no other
+
+Why? 'Cause I love you
+Why? 'Cause you love me
+
+I think you're awfully sweet
+Why? Because I love you
+You say I'm your special treat
+Why? Because you love me
+
+We found the perfect love
+Yes, a love that's yours and mine
+I love you
+And you love me all the time
+
+(I'll never let you go
+Why? Because I love you)
+Yes I love you
+(I'll always love you so
+Why? Because you lome me)
+Yes you love me
+
+We found the perfect love
+Yes, a love that's yours and mine
+I love you and you love me
+I love you and you love me
+We'll love each other dear forever

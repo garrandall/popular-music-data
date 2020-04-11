@@ -1,6 +1,6 @@
 ---
 artists:
-- David Rose and His Orchestra
+- David Rose
 features: []
 genres: []
 key: the-stripper-david-rose-and-his-orchestra

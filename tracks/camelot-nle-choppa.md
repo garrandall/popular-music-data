@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: camelot-nle-choppa
+lyrics_url: https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot-1
 name: Camelot
 rankings:
 - end_date: '2019-10-04'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
 ---
+Yeah
+FreshDuzit
+Yeah
+Huh, huh, huh
 
+I ain't gon' say too much when a nigga speakin' on that hot shit
+Fuck the police, 'cause them bitches ain't gon' stop shit
+Oppositions mad, if they play they gettin' popped quick
+Flyest nigga in the game, yeah, I'm a cockpit
+Posted on Camelot, wit' a hunnid some' shots
+I be swimmin' wit' the sharks, lil nigga you a lobster
+Bullets hit a nigga up, like he eatin' on some pasta
+And shoutout to Kingston, I keep me some Rastas
+
+My niggas trappin' out the bando, shoutout to the Migos
+If a nigga knock wrong, shoot him through the peephole
+The trap always open, bitch we ain't never closed
+We movin' them packs and we movin' them kilos
+
+Step one, Step two, do my dance in this bitch
+Got a hunnid some' drums like a band in this bitch
+Mine she keep on bitchin', all that naggin' and shit
+Hoe shut the fuck up and jus' gag on this dick
+
+I'm a side nigga, and I love when she swallow
+If a nigga say something, hit him wit' a hollow
+That glizzy, knock ya meat out ya taco
+Flexin' on ya bitch, they call me Johnny Bravo
+
+School of hard knocks, let me take you to class
+My bitch is real skinny but she got a lot of ass
+I love counting money, I get a lot of cash
+If you try to take it from me, his toe gon' have a tag
+
+I ain't gon' say too much when a nigga speakin' on that hot shit
+Fuck the police, 'cause them bitches ain't gon' stop shit
+Oppositions mad, if they play they gettin' popped quick
+Flyest nigga in the game, yeah, I'm a cockpit
+
+Posted on Camelot, wit' a hunnid some' shots
+I be swimmin' wit' the sharks, lil nigga you a lobster
+Bullets hit a nigga up, like he eatin' on some pasta
+And shoutout to Kingston, I keep me some Rastas
+
+All up in the party, you know we keep them carbons
+Bring a nigga chills like I work at Baskin-Robbins
+I love Batman, but a young nigga robbin'
+Firework show, 'cause my niggas get to sparklin'
+
+I'm a hot head, I'll crash any second
+He speakin' on who? Send his bitch ass to heaven
+Extended clips, when we tote them Mac-11's
+My niggas they be crippin', they be screamin' out them 7's
+
+Why you investigating me? 'Cause I don't know a thang
+And I'ma always keep a solid 'cause I'll never sang
+You know I'm Shotta Fam, I always rep the gang
+He kept on dissin' so a nigga had to snatch his brain
+
+Had to snatch his brain (had to snatch that nigga brain)
+I had to snatch his brain (had to snatch that nigga brain)
+I had to make it rain (make that motha fucka rain)
+R. Kelly let that fuckin' choppa sing, yeah (make it sing)

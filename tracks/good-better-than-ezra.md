@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-better-than-ezra
+lyrics_url: https://genius.com/Better-than-ezra-good-lyrics
 name: Good
 rankings:
 - end_date: '1995-07-07'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
 ---
+Looking around the house
+Hidden behind the window and the door
+Searching for signs of life
+But there's nobody home
 
+Well, maybe I'm just too sure
+Or maybe I'm just too frightened by the sound of it
+Pieces of note fall down, but the letter said
+
+
+Aha, it was good
+Living with you, aha, it was good
+Ah-ah-ah-ah-aha it was good
+Living with you, aha, it was good
+Ah-ah-ah, good good good
+
+Sitting around the house
+Watching the sun trace the shadow on the floor
+Searching for signs of life
+But there's nobody home
+Well, maybe I'll call or I'll write you a letter
+Now maybe we'll see on the fourth of July
+But I'm not too sure, and I'm not too proud
+Well I'm not sure, and I'm not too proud to say
+
+
+
+Yeah, you were so good
+Yeah, you were so good
+Yeah, that's right

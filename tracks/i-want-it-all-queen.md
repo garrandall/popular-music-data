@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-it-all-queen
+lyrics_url: https://genius.com/Queen-i-want-it-all-lyrics
 name: I Want It All
 rankings:
 - end_date: '1989-05-19'
@@ -47,4 +48,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
 ---
+I want it all (Hey, yeah), I want it all
+I want it all, and I want it now
 
+
+Adventure seeker on an empty street
+Just an alley creeper light on his feet
+A young fighter screaming with no time for doubt
+With the pain and anger, can't see a way out
+
+
+"It ain't much I'm asking," I heard him say
+"Got to find me a future, move out of my way"
+
+
+I want it all, I want it all
+I want it all, and I want it now
+I want it all, I want it all
+I want it all, and I want it now
+
+
+Listen, all you people, come gather 'round
+I gotta get me a game plan, gotta shake you to the ground
+Just give me what I know is mine
+People, do you hear me? Just give me the sign
+
+
+It ain't much I'm asking, if you want the truth
+Here's to the future for the dreams of youth
+
+
+I want it all, I want it all (Give it all, I want it all)
+I want it all, and I want it now (Hey)
+I want it all, I want it all (Yes, I want it all, hey)
+I want it all, and I want it now
+
+
+I'm a man with a one-track mind
+So much to do in one lifetime (People, do you hear me?)
+Not a man for compromise
+And 'wheres' and 'whys' and living lies
+So I'm living it all (Yes, I'm living it all)
+And I'm giving it all (And I'm giving it all, ooh, yeah)
+(Yeah, yeah, yeah)
+
+
+
+
+It ain't much I'm asking, if you want the truth
+Here's to the future, hear the cry of youth
+(Hear the cry, hear the cry of youth)
+
+
+I want it all, I want it all
+I want it all, and I want it now
+I want it all, I want it all (Hey, yeah, yeah)
+I want it all, and I want it now (Ooh, ooh)
+I want it now
+
+
+I want it, I want it!
+Oooh, huh!

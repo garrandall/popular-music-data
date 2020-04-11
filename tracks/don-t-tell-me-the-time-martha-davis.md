@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-the-time-martha-davis
+lyrics_url: https://genius.com/Martha-davis-dont-tell-me-the-time-lyrics
 name: Don't Tell Me The Time
 rankings:
 - end_date: '1987-11-27'
@@ -39,4 +40,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
 ---
-
+Uneasy eyes rest on a clock
+A nervous hand reveals a watch
+A sudden glance, a painful smile
+And minutes slip away
+Unsettled heart would skip a beat
+A tired heart can find no peace
+A lonely sound, the clock ticks on
+And hours slip away
+Don't tell me the time
+I don't want to know
+Don't tell me the time
+You spend with her
+Can't hurt me, it does
+Don't tell me the time
+'Cause time can be cruel
+Every moment that I'm away from you
+Where did you go? Don't want to know
+Why are you here is never clear?
+Make love just once, you're gone again
+And I'm alone with time
+Don't tell me the time
+I don't want to know
+Don't tell me the time
+You spend with her
+Can't hurt me, it does
+Don't tell me the time
+'Cause time can be cruel
+And I still can't believe how long
+The night keeps me waiting here for you
+Prisoner of time, no dream comes true
+Waiting and watching, lost in forever without you
+Don't tell me the time
+I don't want to know
+Don't tell me the time
+You spend with her
+Can't hurt me, it does
+Don't tell me the time
+'Cause time can be cruel
+Every moment that I'm away from you

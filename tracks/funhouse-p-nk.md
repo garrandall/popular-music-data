@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funhouse-p-nk
+lyrics_url: https://genius.com/P-nk-funhouse-lyrics
 name: Funhouse
 rankings:
 - end_date: '2009-10-16'
@@ -59,4 +60,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
 ---
+I dance around this empty house
+Tear us down, throw you out
+Screaming down the halls
+Spinnin' all around and now we fall
 
+
+Pictures framing up the past
+You're taunting smirk behind the glass
+This museum full of ash
+Once a tickle, now a rash
+
+
+This used to be our funhouse
+But now it's full of evil clowns
+It's time to start the countdown
+I'm gonna burn it down, down, down
+I'm gonna burn it down
+9, 8, 7, 6, 5, 4, 3, 2, 1, fun!
+
+
+Echoes knockin' on locked doors
+All the laughter from before
+I'd rather live out on the street
+Than in this haunted memory
+
+
+I've called the movers
+Called the maids
+We'll try to exorcise this place
+Drag my mattress to the yard
+Crumble, tumble, house of cards
+
+
+This used to be our funhouse
+But now it's full of evil clowns
+It's time to start the countdown
+I'm gonna burn it down, down, down
+This used to be our funhouse
+But now it's full of evil clowns
+It's time to start the countdown
+I'm gonna burn it down, down, down
+I'm gonna burn it down
+9, 8, 7, 6, 5, 4, 3, 2, 1, fun!
+
+
+Oh
+I'm crawling through the doggy door
+My key don't fit my lock no more
+I'll change the drapes
+I'll break the plates
+I'll find a new place
+Burn this fucker down
+
+
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+Do, do, do, do, da, da, da, da
+Do-do-do-do, do-do, do (9, 8, 7, 6, 5, 4, 3, 2, 1)
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+
+
+This used to be our funhouse
+But now it's full of evil clowns
+It's time to start the countdown
+I'm gonna burn it down, down, down
+This used to be our funhouse
+But now it's full of evil clowns
+It's time to start the countdown
+I'm gonna burn it down, down, down
+I'm gonna burn it down

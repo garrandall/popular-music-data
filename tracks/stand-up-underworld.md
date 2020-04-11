@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-up-underworld
+lyrics_url: https://genius.com/Underworld-stand-up-lyrics
 name: Stand Up
 rankings:
 - end_date: '1989-09-01'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
 ---
-
+What d'you see when you look at me?
+You got somethin' you need to say
+Your eyes are cryin' but your voice is still
+Well don't wait for charity to pay your bill, now now
+Stand up, the door is open wide
+Stand up, it's time to turn your tide
+Just once tell me what you keep behind those eyes
+We all plead intentions but the devil's intentions aren't good, ya know
+Everybody has got their cross
+But you wear yours right across your face
+You're damning me with your sainted eyes
+Suffering our compromise, now now
+Stand up, the door is open wide
+Stand up, it's time to turn your tide
+Just once tell me what you keep behind those eyes
+We all plead intentions but the devil's intentions aren't good
+Stand up, the door is open wide
+Stand up, it's time to turn your tide
+Just once tell me what you keep behind those eyes
+We all plead intentions but the devil's intentions aren't good, ya know
+Stand up, the door is open wide
+Stand up, it's time to turn your tide
+Just once tell me what you keep behind those eyes
+We all plead intentions but the devil's intentions aren't good
+...

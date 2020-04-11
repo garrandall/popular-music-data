@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-new-kids-on-the-block
+lyrics_url: https://genius.com/New-kids-on-the-block-tonight-lyrics
 name: Tonight
 rankings:
 - end_date: '1990-08-10'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
 ---
+Remember when we said, “Girl, please don’t go”
+And how I’d be loving you, forever?
+Taught you ‘bout hangin’ tough
+As long as you’ve got the right stuff
+Didn’t we, girl? Ooh ooh
+Didn’t we, girl? Aah, aah
 
+
+Well, I guess it’s a brand new day after all
+Every time we hear the curtain call
+See the girls with the curls in their hair
+The buttons and the pins and the loud fanfares
+
+
+Tonight, tonight
+
+
+Remember when we traveled 'round the world
+We met a lot of people and girls
+Fan mail from everywhere
+Showed us how you care
+Didn’t it, girls? Ooh, ooh
+Didn’t it, girls? Aah, aah
+
+
+Well, I guess it’s a brand new day after all
+Every time we hear the curtain call
+See the girls with the curls in their hair
+The buttons and the pins and the loud fanfares
+
+
+Tonight, tonight
+Tonight, tonight
+
+
+La, la, la, la, la, la tonight
+La, la, la, la, la, la tonight
+
+
+Tonight, tonight
+Tonight, tonight
+Tonight, tonight
+Tonight, tonight
+
+
+La, la, la, la, la, la tonight
+La, la, la, la, la, la tonight
+La, la, la, la, la, la tonight
+La, la, la, la, la, la tonight

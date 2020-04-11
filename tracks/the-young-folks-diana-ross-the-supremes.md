@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-young-folks-diana-ross-the-supremes
+lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-feat-The-Supremes-24/The-Young-Folks
 name: The Young Folks
 rankings:
 - end_date: '1969-08-08'
@@ -28,4 +29,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
 ---
+(H. Gordy/A. Story)
 
+Here they come
+Looking so alive
+They're here for business
+But it's all none of your jive
+
+Brighter tomorrows are in their eyes
+You'd better make way for the young folks
+Oh, yeah yeah yeah yeah
+
+They say yes and you say no
+They ask you why and you close the door
+My old friend I thought you knew by now
+You can't do that to the young folks
+Oh, no no no no
+
+You might not like it but I've got to tell you
+Gotta tell you
+You'd better make way for the young folks
+Oh, yeah yeah yeah yeah
+
+They're marching with signs
+They're standing in lines (yeah)
+Protesting your right to turn out the light
+In their lives
+
+Here's the deal
+Accept it if you will
+They're coming on strong
+It's their time to live
+My old friend I thought you knew by now
+You gotta make way for the young folks
+Oh, yeah yeah yeah yeah
+
+You may not like it but I've got to tell you
+Gotta tell you
+Woh
+
+You'd better make way
+You gotta make way
+You'd better make way
+For the young folks
+(Oh yeah)
+
+You may not like it but I've got to tell you
+Gotta tell you
+Woh
+
+You'd better make way
+You gotta make way
+You'd better make way
+For the young's folks
+
+(Oh, oh yeah)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-in-my-sleep-roger-daltrey
+lyrics_url: https://genius.com/Roger-daltrey-walking-in-my-sleep-lyrics
 name: Walking In My Sleep
 rankings:
 - end_date: '1984-02-24'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
 ---
+Lookin' 'round at all the faces
+I can see they're all the same
+Drifting shadows on the sidewalk
+Slowly walking in the rain
 
+The moon shines down, she sees, she knows
+And I follow, through rain and sun
+
+But you see I'm walking in my sleep
+(can't you see I'm walking in my sleep?)
+And I don't know how I got here
+(and I don't know, no)
+And when I try to keep the beat
+You see I'm walking in my sleep
+
+Didn't know that I was dreaming
+Sunny days come out of midnight
+In the darkness of the evening
+Running softly from the light
+
+The moon shines down, she sees, she knows
+The star, the end, the tide, the flow
+The night, so black, it looks so real
+Am I awake, or am I dreaming still?
+
+But you see I'm walking in my sleep
+(can't you see I'm walking in my sleep?)
+And I don't know how I got here
+(and I don't know, no)
+And when I try to keep the beat
+You see I'm walking in my sleep
+
+And through this nightmare, the dream unfolds
+I'm by a window, the night so cold
+My mind, my body, my room, this heat
+A drain is pouring into the street
+
+But you see I'm walking in my sleep
+(can't you see I'm walking in my sleep?)
+And I don't know how I got here
+(and I don't know, no)
+And when I try to keep the beat
+You see I'm walking in my sleep...

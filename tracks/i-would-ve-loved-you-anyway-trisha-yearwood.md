@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-would-ve-loved-you-anyway-trisha-yearwood
+lyrics_url: https://genius.com/Trisha-yearwood-i-wouldve-loved-you-anyway-lyrics
 name: I Would've Loved You Anyway
 rankings:
 - end_date: '2001-08-10'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
 ---
+If I'd a-known the way that this would end
+If I'd a-read the last page first
+If I'd a-had the strength to walk away
+If I'd a-known how this would hurt
 
+I would've loved you anyway
+I'd do it all the same
+Not a second I would change
+Not a touch that I would trade
+Had I known my heart would break
+I'd a-loved you anyway
+
+It's bittersweet to look back now
+At mem'ries withered on the vine
+But just to hold you close to me
+For a moment in time
+
+I would've loved you anyway
+I'd do it all the same
+Not a second I would change
+Not a touch that I would trade
+Had I known my heart would break
+I'd a-loved you anyway
+
+And even if I'd seen it coming
+You'd still've seen me running
+Straight into your arms
+
+I would've loved you anyway
+I'd do it all the same
+Not a second I would change
+Not a touch that I would trade
+Had I known my heart would break
+I would've loved you anyway
+
+I would've loved you anyway

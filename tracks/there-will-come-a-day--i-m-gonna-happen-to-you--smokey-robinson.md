@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-will-come-a-day--i-m-gonna-happen-to-you--smokey-robinson
+lyrics_url: https://genius.com/Smokey-robinson-there-will-come-a-day-im-gonna-happen-to-you-lyrics
 name: There Will Come A Day (I'm Gonna Happen To You)
 rankings:
 - end_date: '1977-02-25'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
 ---
+You may dismiss me as unimportant
+A guy who's only in the corner of your eye
+Right now I know I'm just a?
+I'm just an easy friend on whom you can depend
 
+But darling, there will come a day
+Oh, when you look at me, my baby, another way
+While you're relaxing, I'm gonna happen to you
+Oh
+
+Oh baby, oh baby
+Ew oh oh baby
+Yeah
+
+I only see you in little glimpses
+We work together in a world of?
+I'm only dreamin' of champagne kisses
+You pass right by me, honey
+
+But girl, there will come a day, baby
+When you look at me, my baby, another way
+While you're relaxing, I'm gonna happen to you
+You, you
+
+There will come a great big day, yeah
+When you look at me, my baby, another way
+There will come day, baby
+Look at me, look at me
+
+There will come a time, baby
+When I'll be yours, you'll be mine, baby
+
+There will come

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-d-die-without-you-p-m--dawn
+lyrics_url: https://genius.com/Pm-dawn-id-die-without-you-lyrics
 name: I'd Die Without You
 rankings:
 - end_date: '1992-09-18'
@@ -119,4 +120,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
 ---
+Is it my turn, to wish you were lying here?
+I tend to dream you when I'm not sleeping
+Is it my turn to fictionalize my world?
+Or even imagine your emotions, tell myself anything, yeah
 
+Is it my turn, to hold you by your hands?
+Tell you I love you and you not hear me
+Is it my turn to totally understand?
+To watch you walk out of my life and not do a damn thing
+
+
+If I have to give away the feeling that I feel, yeah
+If I have to sacrifice oh, whatever babe, whatever baby
+If I have to take apart all that I am
+Is there anything that I would not do
+Since I'd die without you
+
+Yeah baby, since I'd die without you
+Since I'd die without you
+
+
+Oh, I apologize for all the things I've done
+But now, I'm underwater and I'm drowning
+Is it my turn to be the one to cry?
+Isn't it amazing how some things completely turn around?
+
+So take every little piece of my heart
+Yeah, take every little piece of my soul
+Yeah, take every little bit of piece of my mind
+Cause if you're gone, inside, I'd die without you
+
+
+If I have to give away the feeling that I feel, yeah
+If I have to sacrifice oh, whatever babe, whatever baby
+If I have to take apart all that I am
+Is there anything that I would not do
+Since I'd die without you
+
+
+Since I'd die without you

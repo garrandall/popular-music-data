@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-get-over-you--getting-over-me--expose
+lyrics_url: https://genius.com/Expose-ill-never-get-over-you-getting-over-me-lyrics
 name: I'll Never Get Over You (Getting Over Me)
 rankings:
 - end_date: '1993-04-02'
@@ -123,4 +124,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
 ---
+I hear you're taking the town again
+Having a good time
+With all your good time friends
+I don't think that you think of me
+You're on your own now
+And I'm alone and free
+I know that I should get on with my life
+But a life lived without you could never be right
 
+As long as the stars shine down from the heavens
+Long as the rivers run to the sea
+I'll never get over you gettin' over me
+
+I try to smile so the hurt won't show
+Tell everybody
+That I was glad to see you go
+But the tears just won't go away (won't go away)
+Lonliness found me
+Looks like it's here to stay
+I know that I ought to find someone new
+But all I find is myself always thinkin' of you
+
+As long as the stars shine down from the heavens
+Long as the rivers run to the sea
+I'll never get over you gettin' over me
+
+Oh... No matter what I do
+Each night's a lifetime to live through
+I can't go on like this. (I need your touch)
+You're the only one I ever loved... oh
+
+And as long as the stars shine down from the heavens
+Long as the rivers run to the sea
+I'll never get over you gettin' over me
+I'll never get over you gettin over
+Never get over you... gettin over
+I'll never get over you gettin' over me

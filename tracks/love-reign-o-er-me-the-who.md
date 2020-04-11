@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-reign-o-er-me-the-who
+lyrics_url: https://genius.com/The-who-love-reign-oer-me-lyrics
 name: Love Reign O'er Me
 rankings:
 - end_date: '1973-12-07'
@@ -27,4 +28,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
+Only love can make it rain
+The way the beach is kissed by the sea
+Only love can make it rain
+Like the sweat of lovers laying in the fields
 
+
+Love reign o'er me
+Rain o'er me
+Love reign o'er me
+Rain o'er me
+Rain o'er me
+
+
+Only love can bring the rain
+That makes you yearn to the sky
+Only love can bring the rain
+That falls like tears from on high
+
+
+Love reign o'er me
+Rain o'er me
+Love reign o'er me
+Rain o'er me
+Rain o'er me
+
+
+On the dry and dusty road
+The nights we spend apart alone
+I need to get back home to cool cool rain
+I can't sleep and I lay and I think
+The night is hot and black as ink
+Oh God, I need a drink of cool cool rain
+
+
+
+
+Love reign o'er me
+Rain o'er me, o'er me, o'er me!
+Love reign o'er me
+Rain o'er me
+Rain o'er me
+
+
+Love!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-usher
+lyrics_url: https://genius.com/Usher-more-lyrics
 name: More
 rankings:
 - end_date: '2010-04-09'
@@ -95,4 +96,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
 ---
+Watch me as I dance under the spotlight
+Listen to the people screaming out more, more
+'Cause I create the feeling that keep them coming back
+Yeah, I create the feeling that keep them coming back
+So captivating when I get it on the floor
 
+
+Know y'all been patiently waiting, I know you need me, I can feel it
+I'm a beast, I'm an animal, I'm that monster in the mirror
+The headliner, finisher, I'm the closer, winner
+Best when under pressure with seconds left, I show up
+
+
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+
+
+Get up both your hands, I'm in the zone, s'aite
+Put em in the air, if you more, and more
+'Cause I can't wait to feel it
+I go hard, can't stop
+But if I stop, just know that I'ma bring it back
+Never quitting, don't believe in that
+
+
+Know y'all been patiently waiting, I know you need me, I can feel it
+I'm a beast, I'm an animal, I'm that monster in the mirror
+The headliner, finisher, I'm the closer, winner
+Best when under pressure with seconds left, I show up
+
+
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+
+
+Oh, oh
+Oh, gonna push it to the limit, give it more
+Oh, oh
+Oh, gonna push it to the limit, give it more
+
+
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+If you really want more, scream it out louder
+If you on the floor, bring out the fire
+And light it up, take it up higher
+Gonna push it to the limit, give it more
+
+
+Oh, oh
+Oh, gonna push it to the limit, give it more

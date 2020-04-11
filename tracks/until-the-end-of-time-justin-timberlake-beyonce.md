@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: until-the-end-of-time-justin-timberlake-beyonce
+lyrics_url: https://genius.com/Justin-timberlake-until-the-end-of-time-beyonce-remix-lyrics
 name: Until The End Of Time
 rankings:
 - end_date: '2007-07-20'
@@ -108,4 +109,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
 ---
+I woke up this morning
+And heard the TV saying something
+About disaster in the world and
+It made me wonder where I'm going
+There's so much darkness in the world
+But I see beauty left in you, girl
+And what you give me let me know that I'll be alright
 
+
+'Cause if your love was all I had, in this life
+Well, that would be enough until the end of time
+So rest your weary heart and relax your mind
+'Cause I'm gonna love you, girl, until the end of time
+
+
+You got me singing (ohh oh oh oh oh oh whoa yeah)
+Ohh oh oh oh oh oh whoa yeah
+Everybody sing (ohh oh oh oh oh oh whoa yeah)
+Everybody singing (ohh oh oh oh oh oh whoa yeah)
+
+
+Now if you ever wondering
+About the way I'm feeling
+Well, baby boy, there ain't no question
+Just to be around you is a blessing
+Sick and tired of trying to save the world
+I just wanna spend my time being your girl
+And what you give me lets me know that we'll be alright
+
+
+'Cause if your love was all I had (all I had)
+In this life (oh oh oh oh oh)
+That will be enough (enough) until the end of time
+(Until the end of time)
+Rest your weary heart (ooooh) and relax your mind (OOOOOOOOH)
+'Cause I'm gonna love you, boy (love you, boy)
+Until the end of time
+
+
+Boy you got me singing (ohh oh oh oh oh oh whoa yeah)
+You got me singing (Ohh oh oh oh oh oh whoa yeah)
+Everybody singing (ohh oh oh oh oh oh whoa yeah)
+Everybody singing (Ohh oh oh oh oh oh whoa yeah yeah yeah)
+
+
+This one's for the lovers
+If you're out there let me hear you say
+Yeah, yeah, yeah (yeah, yeah, yeah)
+This one's for the lovers
+If you're out there let me hear you say
+Yeah, yeah (yeah, yeah)
+This one's for the lovers
+If you're out there let me hear you say
+Yeah, yeah, yeah, yeah (yeah, yeah, yeah, yeah)
+This one's for the lovers
+If you're out there let me hear you say
+Yeah, yeah (yeah, yeah)
+Break it down one time
+
+
+Ohh oh oh oh oh oh whoa yeah
+Ohh oh oh oh
+Ohh oh oh oh oh oh oh
+Break it down one more time, Justin
+Ohh oh oh oh oh oh oh yeah (Oh)
+Ohh oh oh oh oh oh oh
+
+
+'Cause if your love was all I had, in this life
+That would be enough until the end of time

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-on-my-mind-we-five
+lyrics_url: https://genius.com/We-five-you-were-on-my-mind-lyrics
 name: You Were On My Mind
 rankings:
 - end_date: '1965-07-30'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
 ---
+When I woke up this morning
+You were on my mind
+And you were on my mind
+I got troubles, whoa, oh
+I got worries, whoa, oh
+I got wounds to bind
 
+So I went to the corner
+Just to ease my pain
+Said to, just to ease my pain
+I got troubles, whoa, oh
+I got worries, whoa, oh
+I came home again
+
+But I woke up this morning
+You were on my mind
+And you were on my mind
+Yeah, I got troubles, whoa, oh
+I got worries, whoa, oh
+I got wounds to bind
+
+Hey, I got a feeling
+Down in my shoes
+Said a-way down in my shoes
+Hey, I got to ramble, whoa, oh
+I got to move on, whoa, oh
+I got to walk away my blues
+
+But I woke up this morning
+You were on my mind
+And you were on my mind
+Hey, I got troubles, whoa, oh
+I got worries, whoa, oh
+I got wounds to bind

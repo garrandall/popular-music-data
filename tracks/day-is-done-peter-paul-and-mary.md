@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-is-done-peter-paul-and-mary
+lyrics_url: https://genius.com/Peter-paul-and-mary-day-is-done-lyrics
 name: Day Is Done
 rankings:
 - end_date: '1969-05-02'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
 ---
+Tell me why you're crying, my son
+I know you're frightened, like everyone
+Is it the thunder in the distance you fear?
+Will it help if I stay very near?
+I am here
 
+Refrain:
+And if you take my hand my son
+All will be well when the day is done
+And if you take my hand my son
+All will be well when the day is done
+Day is done, Day is done
+Day is done, Day is done
+
+Do you ask why I'm sighing, my son?
+You shall inherit what mankind has done
+In a world filled with sorrow and woe
+If you ask me why this is so, I really don't know
+
+(Refrain)
+
+Tell me why you're smiling my son
+Is there a secret you can tell everyone?
+Do you know more than men that are wise?
+Can you see what we all must disguise
+Through your loving eyes?
+
+(Refrain)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: medicine-man--part-i--buchanan-brothers
+lyrics_url: https://genius.com/Buchanan-brothers-medicine-man-pt-1-lyrics
 name: Medicine Man (Part I)
 rankings:
 - end_date: '1969-05-09'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
 ---
+Come close
+The changes are drastic
+You've been trippin' the light fantastic
+Your soul's in a shakedown
+Baby, you're headed for a breakdown
+I've got the potion, perpetual motion
 
+I've got the potion, perpetual motion
+Put your faith in me, don't you know
+I'm the man, understand
+I'm the only one who can
+I'm the bad, make you glad, medicine man
+Got the cure, it's for sure
+I'm the one you're lookin for
+I'm the bad, make you glad, medicine man
+
+Come close, come close, come close, come close
+I'm loaded for action
+I guarantee you satisfaction
+My baby needs huggin
+My baby needs some super lovin
+I've got the potion, perpetual motion
+I've got the potion, perpetual motion
+Right here in my hand
+
+(repeat chorus)
+Hold on, hold on, hold on, hold on
+Hold tight now, don't let go
+Hold on, hold on, hold on, hold on
+Hold tight now, don't let go
+I've got the potion, perpetual motion
+I've got the potion, perpetual motion
+I've got the potion, perpetual motion
+Put your faith in me, yeah
+
+(repeat chorus)

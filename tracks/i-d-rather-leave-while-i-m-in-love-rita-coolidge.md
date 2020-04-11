@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-d-rather-leave-while-i-m-in-love-rita-coolidge
+lyrics_url: https://genius.com/Rita-coolidge-id-rather-leave-while-im-in-love-lyrics
 name: I'd Rather Leave While I'm In Love
 rankings:
 - end_date: '1979-11-23'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
 ---
-
+I'd rather leave while I'm in love
+While I still believe the meaning of the word
+I'll keep my dreams and just pretend
+That you and I are never gonna end
+Too many times I've seen
+The rose die on the vine
+Somebody's heart gets broken
+Usually it's mine
+I don't want to take the chance
+Of being hurt again
+And you and I can't say good-bye
+So if you wake and find me gone
+Oh baby carry you see I need my
+Fantasy I still believe it's best
+To leave while I'm in love
+Too many times I've seen
+The rose die on the vine
+Somebody's heart gets broken usually
+It's mine I don't want to take
+The chance of being hurt again
+And you and I can't say good-bye
+So if you wake and find me gone
+Oh baby carry on you see I need my
+Fantasy I still believe it's best to
+Leave while I'm in love I still believe
+It's best to leave while I'm in love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: painted-ladies-ian-thomas
+lyrics_url: https://genius.com/Ian-thomas-ca-painted-ladies-lyrics
 name: Painted Ladies
 rankings:
 - end_date: '1973-11-02'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
 ---
+I remember setting out just to see what I could see
+Streetcars rolling by and airplanes flying high they all meant nothing to me
+No one ever looked my way or knew that I was there
+I kept walking and the rain kept raining
+Until all the streets were bare
 
+Oo feeling fine mama
+Painted ladies and a bottle of wine mama
+Oo Feeling good mama
+They took my money like I knew they would
+La la la la la la la
+La la la la la
+La la la la la la la
+La la la la la
+
+City lights were shining on me through my window pane
+I kept thinking bout the day when Id be home again
+Rocking chairs and summer fairs and swimming in the sea
+I kept drinking, sinking till there was nothing left of me
+
+Oo feeling fine mama
+Painted ladies and a bottle of wine mama
+Oo Feeling good mama
+They took my money like I knew they would
+La la la la la la la
+La la la la la
+La la la la la la la
+La la la la la

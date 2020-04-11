@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-s-alright-the-newbeats
+lyrics_url: https://genius.com/The-newbeats-everythings-alright-lyrics
 name: Everything's Alright
 rankings:
 - end_date: '1964-10-30'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
 ---
+There's a bunch of guys in town
+Whose been buggin' you and hangin' around
+And calling you on the phone and talkin' real smart
+Ev'ry brand new him that calls is one of them
+They're trying to mess us up and make us part
 
+They're gangin' up on my baby, comin' on strong
+Tryin' to turn you against me and take you home
+But baby, don't listen, baby
+Everything's alright
+
+Ain't gettin' you, baby, without a fight
+Oh baby, hold me tight
+Everything's alright
+
+This bunch of alley cats oughta be chasin' rats
+Instead of a little mouse's ear like you
+But they're out doing their best, tryin' their best
+To mess up a love that's honest and true
+
+They're gangin' up on my baby, comin' on strong
+Tryin' to turn you against me and take you home
+But baby, don't listen, baby
+Everything's alright
+
+Ain't gettin' you, baby, without a fight
+Oh baby, hold me tight
+Everything's alright, everything's alright

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-m-gone-3-doors-down
+lyrics_url: https://genius.com/3-doors-down-when-im-gone-lyrics
 name: When I'm Gone
 rankings:
 - end_date: '2002-11-29'
@@ -187,4 +188,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
 ---
+There's another world inside of me that you may never see
+There's secrets in this life that I can't hide
+But somewhere in this darkness
+There's a light that I can't find
+Well maybe it's too far away, yeah
+Or maybe I'm just blind
+Or maybe I'm just blind
 
+
+So hold me when I'm here
+Right me when I'm wrong
+Hold me when I'm scared
+And love me when I'm gone
+Everything I am and everything in me
+Wants to be the one you wanted me to be
+I'd never let you down
+Even if I could
+I'd give up everything
+If only for your good
+So hold me when I'm here
+Right me when I'm wrong
+You can hold me when I'm scared
+You won't always be there
+So love me when I'm gone
+Love me when I'm gone
+
+
+When your education x-ray
+Cannot see under my skin
+I won't tell you a damn thing
+That I could not tell my friends
+Roaming through this darkness
+I'm alive, but I'm alone
+And part of me is fighting this
+But part of me is gone
+
+
+So hold me when I'm here
+Right me when I'm wrong
+Hold me when I'm scared
+And love me when I'm gone
+Everything I am and everything in me
+Wants to be the one you wanted me to be
+I'd never let you down
+Even if I could
+I'd give up everything
+If only for your good
+So hold me when I'm here
+Right me when I'm wrong
+You can hold me when I'm scared
+You won't always be there
+So love me when I'm gone
+Love me when I'm gone
+
+
+Or maybe I'm just blind
+
+
+So hold me when I'm here
+Right me when I'm wrong
+Hold me when I'm scared
+And love me when I'm gone
+Everything I am and everything in me
+Wants to be the one you wanted me to be
+I'd never let you down
+Even if I could
+I'd give up everything
+If only for your good
+So hold me when I'm here
+Right me when I'm wrong
+You can hold me when I'm scared
+You won't always be there
+So love me when I'm gone
+Love me when I'm gone
+Love me when I'm gone
+
+
+Love me when I'm gone
+When I'm gone
+When I'm gone
+When I'm gone

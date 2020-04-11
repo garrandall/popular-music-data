@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-do-you-love-the-sapphires
+lyrics_url: https://genius.com/The-sapphires-who-do-you-love-lyrics
 name: Who Do You Love
 rankings:
 - end_date: '1964-01-17'
@@ -55,4 +56,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
+Who do you love?
+I wanna know, I wanna know
+Who do you love?
+I wanna know, I wanna know
 
+Where did you go
+When you kissed me good-night
+You didn't walk home
+The same way you did last-night
+
+Where did you go?
+I wanna know, I wanna know
+Where did you go?
+I wanna know, I wanna know
+
+You were dancing with me
+But I saw you flirting with her
+Were all the pretty words you whispered to me
+Meant for her, meant for her?
+
+So tell me
+Who do you love?
+I wanna know, I wanna know
+Who do you love?
+I wanna know, I wanna know
+
+Mama said, you were bad
+Mama said, you were bad
+Mama said, you were bad
+Mama said, you were bad
+
+And I should leave you alone
+You had a playboy's reputation
+With all the girls you know
+So I got to know
+
+Just where I belong?
+Am I just another girl?
+Are you leading me on?
+Leading me on
+
+So tell me
+Who do you love?
+I wanna know, I wanna know
+Who do you love?
+I wanna know I wanna know
+
+Who do you love?
+I wanna know, I wanna know
+Who do you love?
+I wanna know I wanna know
+
+Who do you love?
+I wanna know, I wanna know
+Who do you love?
+I wanna know I wanna know
+...

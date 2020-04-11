@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: am-i-losing-you-jim-reeves
+lyrics_url: https://genius.com/Jim-reeves-am-i-losing-you-lyrics
 name: Am I Losing You
 rankings:
 - end_date: '1960-10-30'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+Am I losing you?
+Are my fears coming true?
+How I wish I knew
+Am I losing you?
+Is your love really true?
+Is there somebody new?
+Tell me what to do
+Am I losing you?
 
+
+Am I too blind to see (too blind to see)
+What's been happening to me? (Happening to me)
+Every road has a bend (Road has a bend)
+Will I be sweetheart or friend? (Sweetheart or friend)
+
+
+Will the sweet things you do
+Be for somebody new?
+Tell me what to do
+Am I losing you?
+
+
+Am I too blind to see (too blind to see)
+What's been happening to me? (Happening to me)
+Every road has a bend (Road has a bend)
+Will I be sweetheart or friend? (Sweetheart or friend)
+
+
+Will the sweet things you do
+Be for somebody new?
+Tell me what to do
+Am I losing you?

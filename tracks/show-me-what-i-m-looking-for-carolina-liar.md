@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: show-me-what-i-m-looking-for-carolina-liar
+lyrics_url: https://genius.com/Carolina-liar-show-me-what-im-looking-for-lyrics
 name: Show Me What I'm Looking For
 rankings:
 - end_date: '2009-02-27'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
 ---
+Wait, I'm wrong
+Should have done better than this
+Please, I'll be strong
+I'm finding it hard to resist
+So show me what I'm looking for
 
+
+Save me, I'm lost
+Oh, Lord, I've been waiting for you
+I'll pay any cost
+Save me from being confused
+Show me what I'm looking for
+Show me what I'm looking for, oh, Lord
+
+
+Don't let go
+I've wanted this far too long
+Mistakes become regrets
+I've learned to love abuse
+Please show me what I'm looking for
+
+
+Save me, I'm lost
+Oh, Lord, I've been waiting for you
+I'll pay any cost
+Save me from being confused
+Show me what I'm looking for
+Show me what I'm looking for, oh, lord
+
+
+Show me what I'm looking for
+Show me what I'm looking for
+Show me what I'm looking for
+
+
+Save me, I'm lost
+Oh, Lord, I've been waiting for you
+I'll pay any cost
+Just save me from being confused
+Wait, I'm wrong
+I can't do better than this
+I'll pay any cost
+Save me from being confused
+Show me what I'm looking for
+Show me what I'm looking for
+Show me what I'm looking for
+Show me what I'm looking for, oh, Lord

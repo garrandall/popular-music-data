@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-have-to-say-i-love-you-in-a-song-jim-croce
+lyrics_url: https://genius.com/Jim-croce-ill-have-to-say-i-love-you-in-a-song-lyrics
 name: I'll Have To Say I Love You In A Song
 rankings:
 - end_date: '1974-03-08'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
 ---
+Well, I know it's kind of late
+I hope I didn't wake you
+But what I got to say can't wait
+I know you'd understand
+Every time I tried to tell you
+The words just came out wrong
+So I'll have to say I love you in a song
 
+Yeah, I know it's kind of strange
+But every time I'm near you
+I just run out of things to say
+I know you'd understand
+Every time I tried to tell you
+The words just came out wrong
+So I'll have to say I love you in a song
+
+Every time the time was right
+All the words just came out wrong
+So I'll have to say I love you in a song
+
+Yeah, I know it's kind of late
+I hope I didn't wake you
+But there's something that I just got to say
+I know you'd understand
+Every time I tried to tell you
+The words just came out wrong
+So I"ll have to say I love you in a song

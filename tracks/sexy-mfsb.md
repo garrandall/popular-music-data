@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sexy-mfsb
+lyrics_url: https://genius.com/Mfsb-sexy-lyrics
 name: Sexy
 rankings:
 - end_date: '1975-06-27'
@@ -35,4 +36,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
 ---
-
+(instrumental)

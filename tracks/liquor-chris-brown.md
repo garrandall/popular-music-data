@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: liquor-chris-brown
+lyrics_url: https://genius.com/Chris-brown-liquor-lyrics
 name: Liquor
 rankings:
 - end_date: '2015-09-18'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
 ---
+There's something in this liquor, the air is getting thicker
+I can't help but to stare at you, oh yeah, girl what did you do to me?
+What did you slip up in my cup, girl? Cause I want you, oh yeah
+I had a little bit too much girl, so come over here
 
+
+There's something in this liquor, oh yeah
+The air is getting thicker
+All I want is you-ou-ou-ou
+All I want is you-ou-ou-ou
+
+
+There's something in this liquor girl, I'm looking at your figure woah
+I just want to see you strip right now, baby let me help you work it out, oh
+Girl you look so good, I just wanna get right to it, oh
+I could beat it up like-like a real nigga should, baby when we do it, woah
+
+
+There's something in this liquor, oh yeah
+The air is getting thicker
+All I want is you-ou-ou-ou
+All I want is you-ou-ou-ou
+
+
+All I wanna do is drink and fuck, drink, drink and fuck
+All I wanna do is drink and fuck, and fuck, and fuck
+All I want is you-ou-ou-ou, drink and fuck, drink, drink and fuck
+Drink and fuck, and fuck, and fuck
+
+
+There's something in this liquor, there's something in this liquor girl
+The air is getting thicker, the air is getting thicker
+I can't help but stare at you, oh, yeah, girl what did you do? (Why?)
+What did you slip up in my cup girl? Cause I want some
+I had a little bit too much girl, so come over here, woah
+
+
+All I wanna do is drink and fuck, drink, drink and fuck
+Drink and fuck, and fuck, and fuck
+Drink and fuck, drink, drink and fuck
+Drink and fuck, and fuck, and fuck
+
+
+All I wanna do is drink and, drink, drink and
+Drink and, and, and
+Drink and, drink, drink and
+Drink and, and, and

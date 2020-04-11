@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-it-s-gonna-rain-will-to-power
+lyrics_url: https://genius.com/Will-to-power-say-its-gonna-rain-lyrics
 name: Say It's Gonna Rain
 rankings:
 - end_date: '1988-06-24'
@@ -63,4 +64,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
 ---
+You say it's gonna rain
+And no one's gonna go out tonight
+You say it's gonna rain
+That's why I'm hopin' you hold me tight
 
+If I only live my life for you
+There's only one thing I'd like to do
+So I'm hoping you give me this chance
+So tonight let us start our romance
+
+You say it's gonna rain
+And no one's gonna go out tonight
+You know it's gonna rain
+That's why I'm hopin' you hold me tight
+
+If you only have eyes just for me
+Close them tight and I'm sure you will see
+That nothing can stand in our way
+It can happen to us any day
+
+You say it's gonna rain
+And no one's gonna go out tonight
+I know it's gonna rain
+That's why I'm hopin' you hold me tight
+
+If I only have one wish come true
+I will spend my whole lifetime with you
+In the dark of the night I can see
+That this storm is about to be free
+
+You say it's gonna rain
+And no one's gonna go out tonight
+You know it's gonna rain
+That's why I'm hoping you hold me tight
+
+You say it's gonna rain
+And no one's gonna go out tonight
+(Rain down on me, rain down on me)
+Let your love rain down on me
+Rain rain rain rain rain rain rain rain rain rain
+Gonna rain gonna rain
+Rain rain rain rain rain rain rain rain rain rain
+Gonna rain gonna rain
+
+Rain rain rain rain rain rain rain rain rain
+Gonna rain gonna rain
+Rain rain rain rain rain rain rain rain rain
+Gonna rain gonna rain
+
+Rain, it's gonna rain, rain
+Gonna rain gonna rain
+Rain, it's gonna rain, rain
+Gonna rain gonna rain
+
+You say it's gonna rain
+And no one's gonna go out tonight
+You say it's gonna rain
+That's why I'm hopin' you hold me tight

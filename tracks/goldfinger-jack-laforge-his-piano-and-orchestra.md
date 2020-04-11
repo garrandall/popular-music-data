@@ -1,6 +1,6 @@
 ---
 artists:
-- Jack Laforge His Piano and Orchestra
+- Jack Laforge
 features: []
 genres: []
 key: goldfinger-jack-laforge-his-piano-and-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-loving-freddie-hart
+lyrics_url: https://genius.com/Freddie-hart-easy-loving-lyrics
 name: Easy Loving
 rankings:
 - end_date: '1971-08-27'
@@ -75,4 +76,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
 ---
+Easy lovin', so sexy lookin'
+I know from the feelin' that it comes from the heart
+Easy lovin', every day's thanksgivin'
+To count all my blessings, I wouldn't know where to start
 
+Every time I look you over
+So real to life it seems
+For upon your pretty shoulders
+There's a pair of angel wings
+
+Easy lovin', seein's believin'
+Life with you's like livin' in a beautiful dream
+
+Every time I look you over
+So real to life it seems
+For upon your pretty shoulders
+There's a pair of angel wings
+
+Easy lovin', seein's believin'
+Life with you's like livin' in a beautiful dream

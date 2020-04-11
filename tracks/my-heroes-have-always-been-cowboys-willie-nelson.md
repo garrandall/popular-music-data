@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heroes-have-always-been-cowboys-willie-nelson
+lyrics_url: https://genius.com/Willie-nelson-my-heroes-have-always-been-cowboys-lyrics
 name: My Heroes Have Always Been Cowboys
 rankings:
 - end_date: '1980-02-15'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
 ---
+I grew up a-dreamin' of bein' a cowboy
+And lovin' the cowboy ways
+Pursuin' the life of my high-ridin' heroes
+I burned up my childhood days
+I learned of all the rules of the modern-day drifter
+Don't you hold on to nothin' too long
+Just take what you need from the ladies, then leave them
+With the words of a sad country song
+My heroes have always been cowboys
+And they still are, it seems
+Sadly in search of, but one step in back of
+Themselves and their slow-movin' dreams
 
+Cowboys are special with their own brand of misery
+From being alone too long
+You could die from the cold in the arms of a nightmare
+Knowin' well that your best days are gone
+Pickin' up hookers instead of my pen
+I let the words of my years fade away
+Old worn-out saddles, and old worn-out memories
+With no one and no place to stay
+
+My heroes have always been cowboys
+And they still are, it seems
+Sadly in search of, but one step in back of
+Themselves and their slow-movin' dreams
+
+Sadly in search of, but one step in back of
+Themselves and their slow-movin' dreams

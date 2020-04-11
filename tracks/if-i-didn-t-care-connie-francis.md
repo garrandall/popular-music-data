@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-care-connie-francis
+lyrics_url: https://genius.com/Connie-francis-if-i-didnt-care-lyrics
 name: If I Didn't Care
 rankings:
 - end_date: '1959-03-08'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
+Written by: Jack Lawrence
+#22 Mar '59 Hot 100
 
+If I didn't care
+More than words can say
+If I didn't care
+Would I feel this way?
+If this isn't love
+Well then maybe I'm wrong
+But why do I lie awake all night
+And dream all day long
+
+If I didn't care
+Would it be the same
+Would my every pray begin and end
+With just you name
+And would i be sure that this is love
+Beyond compare
+Darlin would it be true
+If I didn't care for you
+
+If I didn't care
+Would it be the same
+Would my every pray begin and end
+With just you name
+And would i be sure that this is love
+Beyond compare
+Darlin would it be true
+If I didn't care for you...Pd
+...Pd...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-walk-away-jade
+lyrics_url: https://genius.com/Jade-dont-walk-away-lyrics
 name: Don't Walk Away
 rankings:
 - end_date: '1992-12-25'
@@ -147,4 +148,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
 ---
+"Hi! We're not in right now
+But if you leave your name and number
+We'll get back to you, to you, to you" (laughing)
 
+
+I got all this love, waiting just for you
+I just gotta know, that your love is true
+Can't keep running boy, in and out my life
+Wanna be your girl, not cause the mood is right
+
+
+If I let you come inside, tomorrow will you hide
+Will you be there for me, when I need someone to hold me
+Baby, don't misunderstand, I do want you for my man
+I just need a little time, before I invest my love
+
+
+Don't walk away boy, (ooh don't walk away)
+My love won't hurt you (no no)
+Don't walk away boy
+I'll be right there for you
+
+
+You say all the things, that I like to hear
+You push all my buttons baby
+Love to have you close to me
+Wanna feel your love, wanna be for sure
+That it's me you need baby, each and every night
+
+
+
+Baby, don't misunderstand
+I want you for my man
+I need a little time
+Before I give you my love
+
+Don't walk away boy
+I'll be right there for you
+
+
+
+Don't walk away
+
+This is what it sounds like
+When we're making love
+Don't walk away boy
+Don't walk away boy
+I'll be right there for you
+
+(Till fade)

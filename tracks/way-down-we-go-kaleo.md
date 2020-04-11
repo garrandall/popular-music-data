@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: way-down-we-go-kaleo
+lyrics_url: https://genius.com/Kaleo-way-down-we-go-lyrics
 name: Way Down We Go
 rankings:
 - end_date: '2017-01-20'
@@ -39,4 +40,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
 ---
+Oh, father, tell me, do we get what we deserve?
+Oh, we get what we deserve
 
+
+And way down we go-o-o-o-o
+Way down we go-o-o-o-o
+Say way down we go
+Way down we go
+
+
+Oh, you let your feet run wild
+Time has come as we all oh, go down
+Yeah, but for the fall, my
+Do you dare to look him right in the eyes?
+
+
+Oh, 'cause they will run you down, down 'til the dark
+Yes, and they will run you down, down 'til you fall
+And they will run you down, down 'til you go
+Yeah, 'til you can't crawl no more
+
+
+And way down we go-o-o-o-o
+Oh way down we go
+Say way down we go
+'Cause they will run you down, down 'til you fall
+Way down we go, ooh
+Oh, 'cause they will run you down, down 'til you fall
+Oh, way down we go
+
+
+
+
+Uhh uhh uhh uhh uhh uhh uhh
+Uhh uhh uhh uhh uhh uhh uhh
+Uhh uhh uhh uhh uhh uhh uhh
+Uh uhhhh uh
+Uhh uhh uhh uhh uhh uhh uhh
+Uhh uhh uhh uhh uhh uhh uhh
+Uhh uhh uhh uhh uhh uhh uhh
+Uh uhhhh
+Oh bab-bab-yeah
+Wow baby-a-aha
+Baby, ooh
+Way down we go
+Yeah
+
+
+And way down we go-o-o-o-o
+Way down we go
+Say way down we go, ooh
+Way down we go

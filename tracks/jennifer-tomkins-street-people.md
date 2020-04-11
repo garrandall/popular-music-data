@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jennifer-tomkins-street-people
+lyrics_url: https://www.musixmatch.com/lyrics/Street-People/Jennifer-Tomkins
 name: Jennifer Tomkins
 rankings:
 - end_date: '1970-01-09'
@@ -67,4 +68,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
 ---
+Jennifer Tomkins was born on a Sunday
+Her daddy got drunk and left home on a Monday
+Her mother she died young, when Jenny was seven
+And Jennifer Tomkins went to work at eleven
 
+Oh, I swear, just ain't fair
+Trouble, trouble everywhere
+Oh Lord, come on down
+Got to spread some love around
+
+I swear, just ain't fair
+Trouble, trouble everywhere
+Oh Lord, come on down
+Got to spread some love around
+
+Jenny, she grew up to be quite a lady
+And then she met Tony, whose background was shady
+She gave him her love, but just like her mother
+He left her one day and ran off with another
+
+Oh, I swear, just ain't fair
+Trouble, trouble everywhere
+Oh Lord, come on down
+Got to spread some love around
+
+Oh Lord, come on down
+Got to spread some love around
+Look, look, everywhere
+Ain't no one that seems to care
+
+I swear, just ain't fair
+Trouble, trouble everywhere
+Oh Lord, come on down
+Got to spread some love around
+
+Oh Lord, come on down
+Ain't no love that can be found
+I swear, just ain't fair
+Trouble, trouble everywhere
+
+Oh Lord, come on down
+Ain't no love that can be found
+I swear, just ain't fair
+Trouble, trouble everywhere
+
+Oh Lord, come on down
+Ain't no love that can be found
+I swear, just ain't fair
+Trouble, trouble everywhere

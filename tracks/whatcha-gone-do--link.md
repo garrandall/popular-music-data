@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whatcha-gone-do--link
+lyrics_url: https://www.musixmatch.com/lyrics/Link/Whatcha-Gone-Do
 name: Whatcha Gone Do?
 rankings:
 - end_date: '1998-06-12'
@@ -83,4 +84,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-10'
 ---
+What you gon do huh
+Tell me what you gon, what you gon do wha, wha-wha
+What you gon do
+Tell me what you gon, what you gon do, do
+What you gon do, wha
+Tell me what you gon, what you gon do, wha, wha-wha
+What you gon do
+Tell me what you gon, what you gon do, do
+Girl Ive been wondering about me and you yeah
+I got a secret place I wanna invite you to aye
+Baby cant you see Im so into you yeah
+Its time to chill and groove so what you gon do, what you gon do
 
+How would you like it if I hit you wit a 69
+Would you like me on top
+Can I hit the hot spot
+Can I run up in the middle wha-wha
+How would you like it if I hit you wit a 69
+Can I hit it from the back
+Do you like it like that
+Do you like it real fast real slow, what what
+Now you know just what I wanna do
+So tell me baby, would that be cool
+Youre my fantasy, girl Im feelin you yeah
+Its time to chill and groove so what you gon do, what you gon do
+
+Wont you come around my way
+And Ill show you all the games that we can play
+Its your move
+And theres nothing more to say
+(Its time to choose)
+So choose girl
+So what you gonna do ooh?
+Yo what you gonna do huh
+Tell me what you gon, what you gon do, wha, wha-wha
+What you gon do
+Tell me what you gon, what you gon do, do
+How would you like it if I hit you wit a 69
+(9, 9, 9, 9, 9, 9, 9,)
+Would you like me on top
+Can I hit the hot spot
+Can I run up in the middle wha wha (wha-wha wha-wha)
+How would you like it if I hit you wit a 69 (do you like it baby)
+Can I hit it from the back
+Do you like it like that
+Do you like it real fast real slow wha-wha
+Lemme hear you say:
+Na na-na na-na
+La na na na na na
+Oh-oh oh oh
+Na la-la la na na
+Na na na na na na
+Oh-oh oh oh
+How would you like it if I hit you wit a 69
+Would you like me on top
+Can I hit the hot spot
+Can I run up in the middle what-what what-what unh unh
+How would you like it if I hit you wit a 69
+Can I hit it from the back
+Do you like it like that
+Do you like it real fast real slow wha-what
+
+Tell me what you gon do

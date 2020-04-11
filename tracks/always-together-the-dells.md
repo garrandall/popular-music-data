@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-together-the-dells
+lyrics_url: https://genius.com/The-dells-always-together-lyrics
 name: Always Together
 rankings:
 - end_date: '1968-10-18'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
 ---
+(Just you, just me, always together)
 
+
+I have made up my mind years ago
+When I first gazed upon you, I'd never let you go
+And it's amazing baby (How we loved each other so)
+
+
+And we'll always be (Always be)
+Always together
+
+
+We'll have our problems
+But we'll face them with pride
+Our love, our love is protection
+And we don't have to hide
+And a thousand nights I'll kiss away (The happy tears you'll cry)
+
+
+And we'll always be (always be)
+Always together
+Just you, just me
+Always (Together), always (Together), always (Together)
+Always (Together), always (Together)
+
+
+When the years have turned your hair to silver
+And the days of our youth
+Have left us so very far behind
+Golden, golden memories
+Will keep in our minds
+
+
+And we'll always be (Always be)
+Always together
+Just you, just me
+Always (Together), always (Together), always (Together)
+Always (Together), always (Together), always now (Together)
+
+
+Always

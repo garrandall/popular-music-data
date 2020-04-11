@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-little-one-dorsey-burnette
+lyrics_url: https://www.musixmatch.com/lyrics/Dorsey-Burnette/Hey-Little-One
 name: Hey Little One
 rankings:
 - end_date: '1960-06-12'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+Hey, little one
+So far from home
+And all alone
 
+Hey, little one
+I'm just like you
+I'm lonely too
+
+The road of life is
+A long, long road
+When you walk alone
+
+Then I found you
+And I found a love
+A love I've never known
+A love I've never known
+
+Hey, little one
+Don't go away
+Tell me you'll stay
+Tell me you'll stay
+Tell me you'll stay

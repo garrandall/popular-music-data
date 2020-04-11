@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-the-world-needs-now-is-love-jackie-deshannon
+lyrics_url: https://genius.com/Jackie-deshannon-what-the-world-needs-now-is-love-lyrics
 name: What The World Needs Now Is Love
 rankings:
 - end_date: '1965-05-28'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
 ---
+What the world needs now is love, sweet love
+It's the only thing that there's just too little of
+What the world needs now is love, sweet love
+No, not just for some but for everyone
 
+Lord, we don't need another mountain
+There are mountains and hillsides enough to climb
+There are oceans and rivers enough to cross
+Enough to last 'til the end of time
+
+What the world needs now is love, sweet love
+It's the only thing that there's just too little of
+What the world needs now is love, sweet love
+No, not just for some but for everyone
+
+Lord, we don't need another meadow
+There are cornfields and wheat fields enough to grow
+There are sunbeams and moonbeams enough to shine
+Oh listen, Lord, if You want to know
+
+What the world needs now is love, sweet love
+It's the only thing that there's just too little of
+What the world needs now is love, sweet love
+No, not just for some, oh, but just for every, every, everyone
+
+(What the world needs now) Whoa, whoa (is love) is love (sweet love)
+(What the world needs now) Oh, oh (is love) is love (sweet love)
+(What the world needs now) Oh, oh (is love) is love (sweet love)

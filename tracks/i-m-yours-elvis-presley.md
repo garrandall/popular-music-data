@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-yours-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-im-yours-lyrics
 name: I'm Yours
 rankings:
 - end_date: '1965-09-03'
@@ -51,4 +52,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
+My love I offer you now
+My heart and all it can give
+For just as long as I live I'm yours
+No arms but yours dear will do
+My lips will always be true
+My eyes can only see you, I'm yours
 
+
+And as the years roll along
+Your joy and tears I'll gladly share
+And when things go wrong dear
+Just hold out your hand and I'll be there
+With every beat of my heart
+With every breath that I take
+Now and forever, sweetheart, I'm yours

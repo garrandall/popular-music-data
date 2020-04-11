@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waiting-on-a-friend-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-waiting-on-a-friend-lyrics
 name: Waiting On A Friend
 rankings:
 - end_date: '1981-12-11'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
 ---
+{Intro}
 
+
+Watching girls go passing by
+It ain't the latest thing
+I'm just standing in a doorway
+I'm just trying to make some sense'
+Out of these girls that passing by
+The tales they tell of men
+I'm not waiting on a lady
+I'm just waiting on a friend
+
+
+A smile relieves a heart that grieves
+Remember what I said
+I'm not waiting on a lady
+I'm just waiting on a friend
+Just waiting on a friend
+I'm just waiting on a friend
+I'm just waiting on a friend
+
+{Bridge}
+
+
+Don't need a whore, I don't need no booze
+Don't need a virgin priest
+But I need someone I can cry to
+I need someone to protect
+Making love and breaking hearts
+It is a game for youth
+But I'm not waiting on my lady
+I'm just waiting on a friend
+
+
+I'm just waiting on a friend
+I'm just waiting on a friend
+I'm just waiting on a friend
+I'm just waiting on a friend
+Just waiting on a friend
+Waiting on a friend
+Waiting on a friend

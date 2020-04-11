@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-just-a-singer--in-a-rock-and-roll-band--the-moody-blues
+lyrics_url: https://genius.com/The-moody-blues-im-just-a-singer-lyrics
 name: I'm Just A Singer (In A Rock And Roll Band)
 rankings:
 - end_date: '1973-02-09'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+I'm just a-wandering on the face of this earth
+Meeting so many people who are trying to be free
+And while I'm traveling, I hear so many words
+Language barriers broken, now we've found the key
 
+And if you want the wind of change to blow about you
+And you're the only other person to know, don't tell me
+I'm just a singer in a rock and roll band
+
+A thousand pictures can be drawn from one word
+Only who is the artist, we got to agree
+A thousand miles can lead so many ways
+Just to know who is driving, what a help it would be
+
+So if you want this world of yours to turn about you
+And you can see exactly what to do, please tell me
+I'm just a singer in a rock and roll band
+
+How can we understand
+Riots by the people, for the people
+Who are only destroying themselves?
+And when you see a frightened person
+Who is frightened by the people
+Who are scorching this earth (Scorching this earth)
+Scorching this earth (Scorching this earth)
+
+I'm just a-wandering on the face of this earth
+Meeting so many people who are trying to be free
+And while I'm traveling, I hear so many words
+Language barriers broken, now we've found the key
+
+And if you want the wind of change to blow about you
+And you're the only other person to know, don't tell me
+I'm just a singer in a rock and roll band
+
+I'm just a singer in a rock and roll band
+
+How can we understand
+Riots by the people, for the people
+Who are only destroying themselves?
+And when you see a frightened person
+Who is frightened by the people
+Who are scorching this earth (Scorching this earth)
+Scorching this earth (Scorching this earth)
+
+Music is the traveler, crossing our world
+Meeting so many people, bridging the seas
+
+I'm just a singer in a rock and roll band
+I'm just a singer in a rock and roll band
+
+Music is the traveler, crossing our world
+Meeting so many people, bridging the seas
+
+I'm just a singer in a rock and roll band
+We're just the singers in a rock and roll band

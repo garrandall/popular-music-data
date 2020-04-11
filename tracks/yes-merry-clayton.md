@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yes-merry-clayton
+lyrics_url: https://genius.com/Merry-clayton-yes-lyrics
 name: 'Yes'
 rankings:
 - end_date: '1988-03-11'
@@ -51,4 +52,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
 ---
+Drivin around
+I just can't hear a sound
+'Cept my own wheels turnin
+Wastin a day
+I'm just runnin away
+From a heart that's burnin
+But I can't run forever
 
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight
+I can just imagine
+Huggin and teasin and
+Lovin and squeezin all night
+
+I've made up my mind
+He's gonna be mine
+I'm so glad I waited
+Why did I try
+To figure out why
+Everything can't be anticipated
+I can't wait to tell him
+
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight
+I can just imagine
+Huggin and teasin and
+Lovin and squeezin all night
+Yes
+
+Yes
+Heavin' and lovin' and squeezin' all night
+Yes
+I can just imagine
+Huggin' and teasin' and
+Lovin' and squeezin' all night
+
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight
+Yes
+We're gonna fall in love
+And it feels so right
+Yes
+We're gonna make love
+It's gonna be tonight

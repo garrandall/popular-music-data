@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-is-beautiful-ray-stevens
+lyrics_url: https://genius.com/Ray-stevens-everything-is-beautiful-lyrics
 name: Everything Is Beautiful
 rankings:
 - end_date: '1970-04-10'
@@ -67,4 +68,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
 ---
+Jesus loves the little children
+All the little children of the world
+Red and yellow, black and white
+They are precious in his sight
+Jesus loves the little children of the world
 
+Everything is beautiful
+In its' own way
+Like a starry summer night
+Or a snow covered winter's day
+
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find a way
+
+
+There is none so blind
+That is he who will not see
+We must not close our minds
+We must let our thought be free
+For every hour that passes by
+
+You know the world
+Gets a little bit older
+It's time to realize
+That beauty lies
+In the eyes of the beholder
+
+
+Everything is beautiful
+In its' own way
+Like a starry summer nights
+Or a snow covered winter's day
+Ah, sing it, children
+
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find a way
+
+
+We shouldn't care
+About the length of his hair
+Or the color of his skin
+Don't worry about what shows from without
+But the love that lives within
+We're gonna get it all together now
+
+Everything gonna work out fine
+Just take a little time
+To look on the good side my friend
+And straighten it out in your mind
+
+
+Everything is beautiful
+In its' own way
+Like a starry summer nights
+Or a snow covered winter's day
+Ah, sing it, children
+
+Everybody's beautiful
+In their own way
+Under God's heaven
+The world's gonna find a way
+
+One more time
+Everything is beautiful
+In its' own way
+Like a starry summer nights

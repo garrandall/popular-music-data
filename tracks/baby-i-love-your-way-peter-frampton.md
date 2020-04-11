@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-love-your-way-peter-frampton
+lyrics_url: https://genius.com/Peter-frampton-baby-i-love-your-way-lyrics
 name: Baby I Love Your Way
 rankings:
 - end_date: '1976-07-03'
@@ -71,4 +72,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
 ---
+Shadows grow so long before my eyes
+And they're moving across the page
+Suddenly, the day turns into night
+Far away from the city
 
+
+Don't hesitate
+'Cause your love won't wait
+
+
+Ooh, baby, I love your way
+Wanna tell you I love your way
+Wanna be with you night and day
+
+
+Moon appears to shine and light the sky
+With the help of some fireflies
+I wonder how they have the power to shine, shine, shine
+I can see them under the pine
+
+
+But don't hesitate
+'Cause your love won't wait, yeah
+
+
+Ooh, baby, I love your way
+Wanna tell you I love your way
+Wanna be with you night and day
+
+
+Well, don't, don't hesitate
+'Cause your love won't wait
+
+
+I can see the sunset in your eyes
+Brown and gray, blue besides
+Clouds are stalking islands in the sun
+I wish I could buy one
+Out of season
+
+
+But don't hesitate
+'Cause your love won't wait, oh
+
+
+Ooh, baby, I love your way
+Wanna tell you I love your way
+Wanna be with you night and day
+Ooh, baby, I love your way

@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: out-of-touch-daryl-hall-john-oates
+lyrics_url: https://www.musixmatch.com/lyrics/Skywalker/Out-of-Touch-Hall-Oates-Cover
 name: Out Of Touch
 rankings:
 - end_date: '1984-10-05'
@@ -99,4 +100,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
 ---
+Shake it up is all that we know
+Using the bodies up as we go
+I'm waking up to fantasy
+The shades all around
+Aren't the colors we used to see
+Broken ice still melts in the sun
+And times that are broken
+Can often be one again
+We're soul alone
+And soul really matters to me
 
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+Oh, oh-oh, oh
+Oh, oh-oh, oh
+
+Reaching out for something to hold
+Looking for a love
+Where the climate is cold
+Manic moves and drowsy dreams
+Or living in the middle
+Between the two extremes
+Smoking guns hot to the touch
+Would cool down
+If we didn't use them so much
+We're soul alone
+And soul really matters to me
+
+Too much
+
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+
+Oh, oh-oh, oh
+Oh, oh-oh, oh
+
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around.
+
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around
+You're out of touch
+I'm out of time (time)
+But I'm out of my head
+When you're not around.

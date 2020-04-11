@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tea-for-two-nino-tempo-april-stevens
+lyrics_url: https://www.musixmatch.com/lyrics/Nino-Tempo-feat-April-Stevens/Tea-for-Two
 name: Tea For Two
 rankings:
 - end_date: '1964-05-08'
@@ -28,4 +29,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
 ---
+Picture you upon my knee
+Tea for two and two for tea
+Me for you and you for me alone
 
+Nobody near us to see us or hear us
+No friends or relations
+On weekend vacations
+We won't have it known, dear
+That we own a telephone, dear
+
+Day will break and you'll awake
+Start to bake a sugar cake
+For me to take for
+All the world to see
+
+We will raise a family
+A boy for you, a girl for me
+Can't you see how happy we would be
+
+We will raise a family
+A boy for you, a girl for me
+Can't you see how happy we would be

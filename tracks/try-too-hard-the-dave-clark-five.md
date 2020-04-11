@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-too-hard-the-dave-clark-five
+lyrics_url: https://genius.com/The-dave-clark-five-try-too-hard-lyrics
 name: Try Too Hard
 rankings:
 - end_date: '1966-04-08'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
-
+Tell me, do you want my love
+Tell me what you're thinking of
+I've been waiting round so long
+You don't try too hard
+You don't try too hard
+I hope you're not trying to make a fool of me
+Cause if you are I know there's going to be
+Some tears falling, and they won't be mine
+You don't try too hard
+You don't try too hard
+Some people may want many loves, my friend
+But we both know what happens to them in the end
+So please listen to these words of mine
+And let me know that I'm not wasting my time
+I'm sure that we could get on very fine
+You don't try too hard
+You don't try too hard
+You don't try too hard
+You don't try too hard
+You don't try too hard
+You don't try too hard

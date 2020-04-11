@@ -1,9 +1,10 @@
 ---
 artists:
-- Billy Vaughn And His Orchestra
+- Billy Vaughn
 features: []
 genres: []
 key: a-swingin--safari-billy-vaughn-and-his-orchestra
+lyrics_url: https://genius.com/Billy-vaughn-a-swingin-safari-lyrics
 name: A Swingin' Safari
 rankings:
 - end_date: '1962-07-27'
@@ -55,4 +56,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
-
+INSTRUMENTAL

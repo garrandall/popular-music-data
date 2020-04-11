@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-i-wish-lyrics
 name: I Wish
 rankings:
 - end_date: '1976-12-10'
@@ -75,4 +76,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
 ---
+Looking back on when I
+Was a little nappy headed boy
+Then my only worry
+Was for Christmas what would be my toy
+Even though we sometimes
+Would not get a thing
+We were happy with the
+Joy the day would bring
+Sneaking out the back door
+To hang out with those hoodlum friends of mine, ooh
+Greeted at the back door
+With, "Boy, thought I told you not to go outside"
+Trying your best to bring the water to your eyes
+Thinking it might stop her from whooping your behind
 
+
+I wish those days could come back once more
+Why did those days ever have to go?
+I wish those days could come back once more
+Why did those days ever have to go?
+'Cause I love them so
+
+
+Brother says he's telling
+About you playing doctor with that girl
+Just don't tell and I'll give you
+Anything you want in this whole wide world
+Mama gives you money for Sunday school
+You trade yours for candy after church is through
+Smoking cigarettes and writing something nasty on the wall
+(You nasty boy)
+Teacher sends you to the principal's office down the hall
+You grow up and learn that kind of thing isn't right
+But while you were doing it, it sure felt outta sight
+
+
+I wish those days could come back once more
+Why did those days ever have to go?
+I wish those days could come back once more
+Why did those days ever have to go?

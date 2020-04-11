@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-now-or-never-john-schneider
+lyrics_url: https://genius.com/John-schneider-its-now-or-never-lyrics
 name: It's Now Or Never
 rankings:
 - end_date: '1981-06-05'
@@ -83,4 +84,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
 ---
-
+Its now or never; Come hold me tight
+Kiss me, my darlin; be mine tonight
+Tomorrow will be too late
+Its now or never; My love won't wait
+When I first saw you with your smile so tender
+My heart was captured; My soul surrendered
+I've spent a life time waiting for the right time
+Now that you're near the time is here at last
+It's now or never; Come hold me tight
+Kiss me, my darlin; be mine tonight
+Tomorrow will be too late
+It's now or never; My love won't wait
+Just like a willow we could cry an ocean
+If we lost true love and sweet devotion
+Your lips excite me; Let your arms invite me
+For who knows when we'll meet again this way
+It's now or never; Come hold me tight
+Kiss me, my darling; be mine tonight
+Tomorrow will be too late
+It's now or never; My love won't wait

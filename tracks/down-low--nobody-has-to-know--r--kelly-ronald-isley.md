@@ -5,6 +5,7 @@ features:
 - Ronald Isley
 genres: []
 key: down-low--nobody-has-to-know--r--kelly-ronald-isley
+lyrics_url: https://genius.com/R-kelly-down-low-nobody-has-to-know-lyrics
 name: Down Low (Nobody Has To Know)
 rankings:
 - end_date: '1996-03-08'
@@ -88,4 +89,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
 ---
+Listen, girl, you want me but he needs you
+Yet you're telling me that everything is cool
+Trying to convince me, baby, to do as you say
+Just go along and see things your way
 
+
+And keep it on the down low
+Nobody has to know
+We can keep it on the down low
+Nobody has to know
+
+
+Secret lovers is what you wanna be
+While making love to him, girl, you're silently calling on me
+What is a man to do in a situation like this?
+I feel there is something that I, I don't wanna miss
+
+
+And keep it on the down low
+Nobody has to know
+We can keep it on the down low
+Nobody has to know
+
+
+Beautiful you are but you're his by far
+Coming by my way driving his fancy car
+Making plans to be in my life forever
+Tell me, tell me that we'll always be together
+
+
+And keep it on the down low
+Nobody has to know
+We can keep it on the down low
+Nobody has to know
+
+
+Listen, babe, I won't whisper a word
+How could you go, so low, so low
+Nobody, nobody, nobody
+Keep it on the down low

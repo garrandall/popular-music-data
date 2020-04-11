@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-after-day-badfinger
+lyrics_url: https://genius.com/Badfinger-day-after-day-lyrics
 name: Day After Day
 rankings:
 - end_date: '1971-12-10'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
+I remember findin' out about you
+Every day, my mind is all around you
 
+
+Lookin' out from my lonely room, day after day
+Bring it home, baby, make it soon
+I give my love to you
+
+
+I remember holdin' you while you sleep
+Every day I feel the tears that you weep
+
+
+Lookin' out of my lonely gloom, day after day
+Bring it home, baby, make it soon
+I give my love to you
+
+
+
+
+Lookin' out of my lonely room, day after day
+Bring it home, baby, make it soon
+I give my love to you
+
+
+I remember findin' out about you
+Every day my mind is all around you
+
+
+Lookin' out of my lonely gloom, day after day
+Bring it home, baby, make it soon
+I give my love to you

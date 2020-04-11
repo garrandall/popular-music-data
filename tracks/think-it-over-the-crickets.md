@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-it-over-the-crickets
+lyrics_url: https://genius.com/The-crickets-think-it-over-lyrics
 name: Think It Over
 rankings:
 - end_date: '1958-08-10'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
-
+Think it over, what you've just said
+Think it over in your pretty little head
+Are you sure think I'm not the one
+Is your love real or only fun?
+Think it over
+Yes, think it over
+A lonely heart grows cold and old
+Think it over and let me know
+Think it over, but don't be slow
+Just remember all birds and bees
+Go by two thro' life's mysteries
+Think it over
+Yes, think it over
+A lonely heart grows cold and old
+Think it over, an think of me
+Think it over and you will see
+Happy days when you and I
+Think as one and kiss the blues goodbye
+Think it over
+Yes, think it over
+A lonely heart grows cold and old
+Think it over, over and over
+Think it over, over and over

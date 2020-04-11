@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: wake-up--next-to-you--graham-parker-the-shot
+lyrics_url: https://genius.com/Graham-parker-and-the-shot-wake-up-next-to-you-lyrics
 name: Wake Up (Next To You)
 rankings:
 - end_date: '1985-05-10'
@@ -56,4 +57,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
 ---
+I can't have no objection to the world outside
+I don't have no complaints against life's one way ride
+I know I'm sleeping with an angel and this devil's in luck
 
+Oooooooh wake up, wake up, wake up, wake up
+
+I've been dreamin for too long
+I guess something's always wrong unless I
+Wake up, next to you, I wanna
+Wake up, next to you you
+Oooh ooh ooh ooh ooh ooh ooh oooh
+
+Oooh ooh, ooh ooh, ooh ooh, ooh ooh, yeah
+
+The Summer's left a spell on us, magic and gold
+The tarmac's cracked and shimmering, up on the road
+I know I'm walking with an angel down a hot avenue
+Wake up, wake up, wake up, wake up
+I've been dreamin for too long
+I guess something's always wrong unless I
+
+Wake up, next to you, I'm gonna wake up
+Wake up, next to you ooooooo (Sax solo)
+
+(Spoken)
+You know what I'm gonna do, I'm gonna pick up the telephone
+Right now and I'm gonna call information and I'm gonna say to 'em
+"Where is she right now? Cause I want you and I need you"
+And I wanna hear her say: "Hey baby, Wake up!"
+
+Wake up, next to you, I'm gonna wake up
+Wake up, next to you you
+Oooh ooh ooh ooh ooh ooh ooh oooh
+Oooh ooh, ooh ooh, ooh ooh, ooh ooh, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-see-about-me-the-supremes
+lyrics_url: https://genius.com/The-supremes-come-see-about-me-lyrics
 name: Come See About Me
 rankings:
 - end_date: '1964-11-20'
@@ -63,4 +64,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
+I've been crying (Ooh, ooh)
+'Cause I'm lonely (For you)
+Smiles have all turned (To tears)
+But tears won't wash away the fears
 
+
+That you're never ever gonna return
+To ease the fire that within me burns
+
+
+It keeps me crying baby for you
+Keeps me sighin' baby for you
+So won't you hurry
+Come on boy, see about me
+(Come see about me)
+See about you baby
+(Come see about me)
+
+
+I've given up my friends just for you
+My friends are gone and you have too
+No peace shall I find
+Until you come back and be mine
+
+
+No matter what you do or say
+I'm gonna love you anyway
+
+
+Keep on crying baby for you
+I'm gonna keep sighin' baby for you
+So come on hurry
+Come on and see about me
+(Come see about me)
+See about you baby
+(Come see about me)
+
+
+Sometime's up (ooh, ooh)
+Sometime's down (ooh, ooh)
+My life's so uncertain (ooh, ooh)
+With you not around (ooh, ooh)
+
+
+From my arms you maybe out of reach
+But my heart says you're here to keep
+
+
+Keeps me crying baby for you
+Keep on, keep on crying baby for you
+So won't you hurry
+Come on boy, see about me
+(Come see about me)
+See about you baby
+(Come see about me)
+
+
+You know I'm so lonely
+(Come see about me)
+I love you only
+(Come see about me)
+See about your baby
+(Come see about me)
+Hurry, hurry
+(Come see about me)

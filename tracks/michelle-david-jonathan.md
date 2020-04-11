@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: michelle-david-jonathan
+lyrics_url: https://genius.com/David-and-jonathan-michelle-lyrics
 name: Michelle
 rankings:
 - end_date: '1966-01-14'
@@ -44,4 +45,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
 ---
+Michelle
+The Beatles
 
+Michelle, ma belle
+These are words that go together well
+My Michelle
+
+Michelle, ma belle
+Sont des mots qui vont tr's bien ensemble
+Tr's bien ensemble
+
+I love you, I love you, I love you
+That's all I want to say
+Until I find a way
+I will say the only words I know that
+You'll understand
+
+Michelle, ma belle
+Sont des mots qui vont tr's bien ensemble
+Tr's bien ensemble
+
+I need you, I need you, I need you
+I need to make you see
+Oh, what you mean to me
+Until I do I'm hoping you will
+Know what I mean
+
+I love you
+
+I want you, I want you, I want you
+I think you know by now
+I'll get to you somehow
+Until I do I'm telling you so
+You'll understand
+
+Michelle, ma belle
+Sont des mots qui vont tr's bien ensemble
+Tr's bien ensemble
+
+I will say the only words I know that
+You'll understand, my Michelle

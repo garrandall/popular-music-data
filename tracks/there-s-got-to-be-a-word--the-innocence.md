@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-got-to-be-a-word--the-innocence
+lyrics_url: https://www.musixmatch.com/lyrics/The-Innocence/There-s-Got-to-Be-a-Word
 name: There's Got To Be A Word!
 rankings:
 - end_date: '1966-12-09'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+There's got to be a word that means more than love
+But I can't seem to find it
+There's got to be a word that says more than love
+Cause now I'm stuck behind it
 
+If Mr. Webster gave it more thought
+I'm sure that he would have had for this feeling I have
+Another word beyond the meaning of love
+
+There's got to be a word that means more than love
+But I just can't convey it
+There's got to be a word that says more than love
+I'll talk until I say it
+
+In each book that I take from the shelf
+The deeper the plot, the closer it gets
+To just the word love and nothing beyond
+
+I think our words are due for a change
+So what say we start
+Let us rearrange that from which we never can part
+
+To the one and only word that means more than love
+And well all feel much better
+Crazy tho it seems I feel more than love
+So far beyond each letter
+
+I've been this way since heaven knows when
+And if I had it there to do over again
+I'd spare myself the misery of words

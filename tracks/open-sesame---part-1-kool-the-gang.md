@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: open-sesame---part-1-kool-the-gang
+lyrics_url: https://www.musixmatch.com/lyrics/Kool-feat-The-Gang/Open-Sesame-Part-1
 name: Open Sesame - Part 1
 rankings:
 - end_date: '1976-11-12'
@@ -60,4 +61,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
-
+Aah aah aah aah aah aah aah aah aah aah aah aah aah!
+Aah aah aah aah aah aah aah aah aah aah aah aah aah aah aah!
+Get down with the geenieee
+Get down with the genieee
+Get down with the genieee
+Get down with the geeenieee
+Get doooown with the geeenieee
+Everybody get down Huu!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-loved-and-i-lost-the-impressions
+lyrics_url: https://genius.com/The-impressions-i-loved-and-i-lost-lyrics
 name: I Loved And I Lost
 rankings:
 - end_date: '1968-07-26'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
 ---
+What do you know about it?
+Who had told you so?
+It makes no difference
+The whole world can know
 
+
+I loved and I lost
+It happens to the best
+So I loved and I lost
+And I might as well confess
+
+
+She was so beautiful
+Like flowers full bloom in May
+Her kiss was like the rolling wind
+It left me speechless with nothing to say, no no
+
+
+I loved and I lost
+The fire would not ignite
+So I loved and I lost
+And I wish her back with all my might
+'Cause she was so very good to me
+
+
+
+
+I loved and I lost, baby
+It happens to the best
+So I loved and I lost
+And I might as well confess
+
+
+I loved and I lost, mhm
+I loved and I lost, ooh
+I loved and I lost
+I loved and I lost

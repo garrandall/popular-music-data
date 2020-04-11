@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-a-child-s-heart-michael-jackson
+lyrics_url: https://www.musixmatch.com/lyrics/Michael-Jackson/With-a-Child-s-Heart
 name: With A Child's Heart
 rankings:
 - end_date: '1973-05-11'
@@ -35,4 +36,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
 ---
+With a child's heart
+Go face the worries of the day
+With a child's heart
+Turn each problem into play
+No need to worry no need to fear
+Just being alive makes it all so very clear
 
+With a child's heart
+Nothing can ever get you down
+With a child's heart
+You've got no reason to frown
+Love is as welcome
+As a sunny sunny day
+No grown-up thoughts
+To lead our hearts astray
+
+Take life easy, so easy nice and easy
+Like a child so gay and so carefree
+The whole world smiles with you
+As you go your merry way
+Oh with a child's heart
+Nothing's gonna get me down

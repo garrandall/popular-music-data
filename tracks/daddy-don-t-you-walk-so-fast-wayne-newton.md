@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-don-t-you-walk-so-fast-wayne-newton
+lyrics_url: https://genius.com/Wayne-newton-daddy-dont-you-walk-so-fast-lyrics
 name: Daddy Don't You Walk So Fast
 rankings:
 - end_date: '1972-04-28'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
 ---
+The love between the two of us was dying
+And it got so bad I knew I had to leave
+But halfway down that highway when I turned around I saw
+My little daughter running after me
+Crying
 
+Daddy, don't you walk so fast
+Daddy, don't you walk so fast
+Daddy, slow down some 'cause you're makin' me run
+Daddy, don't you walk so fast
+
+Now, it broke my heart to tell my little daughter
+That her daddy had to run to catch a train
+She had no way of knowin' I was leavin' home for good
+I turned around and there she was again
+As she said to me
+
+Daddy, don't you walk so fast
+My daughter cried, daddy, don't you walk so fast
+Daddy, slow down some 'cause you're makin' me run
+Daddy, don't you walk so fast
+
+If only for the sake of my sweet daughter
+I just had to turn back home right there and then
+And try to start a new life with the mother of my child
+I couldn't bear to hear those words again
+She cried and said
+
+Daddy, don't you walk so fast
+My daughter cried, daddy, don't you walk so fast
+Daddy, slow down some 'cause you're makin' me run
+Oh, daddy, don't you walk so fast
+
+(Daddy, don't you walk so fast)
+My daughter cried (Daddy, don't you walk so fast)
+Daddy, slow down some 'cause you're makin' me run

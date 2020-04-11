@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whirly-girl-oxo
+lyrics_url: https://genius.com/Oxo-whirly-girl-lyrics
 name: Whirly Girl
 rankings:
 - end_date: '1983-02-25'
@@ -63,4 +64,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
 ---
+Let me tell you 'bout the girl I know
+She's been to Paris, France
+And she can really dance
+Like a spinning top
+She's got no stop
+She picks you up and then
+She lets you drop
+Listen
+Ooh
 
+Let me tell you 'bout the girl I know
+'Cause she's really hip
+And she can go, go, go
+Like a straight shooter she's got hers down
+Won't hesitate to put you on the ground
+She's been with The Rolling Stones
+On their tours
+And in their homes
+Won't tell you where she's bound
+'Cause she ain't lost and don't want to be found
+But
+
+Ooh, maybe tonight
+Yeah, she'll find the time
+To give me her phone
+So I can call her at home
+But she's so whirly
+
+Whirly, whirly, whirly, whirly girl (yeah yeah)
+Whirly girl (yeah yeah) whirly girl
+Whirly, whirly, whirly, whirly girl
+Whirly girl, whirly girl
+
+Let me tell you 'bout the girl I know
+She's been to Paris, France
+And she can really dance
+Like a spin top
+She's got no stop
+She picks you up and then
+She lets you drop
+This girl just combs her hair
+And takes her tea
+With millionaires
+She's sitting in the latest styles
+With open legs
+And mysterious smiles
+
+Ooh, maybe tonight
+Yeah, she'll find the time
+To give me her phone
+So I can call her at home
+Hey
+Ooh-ooh
+
+Whirly, whirly, whirly, whirly girl
+Whirly girl, whirly girl
+Whirly, whirly, whirly, whirly girl
+Whirly girl, whirly girl
+Whirly, whirly, whirly, whirly girl
+Ooo, whirly, whirly
+Ooo, whirly, whirly
+Whirly, whirly, whirly, whirly girl
+Whirly girl
+Watch her go, go, go
+Watch her go, go, go, oh
+Watch her go, go, go
+Watch her go, go, go, oh
+Watch her go, go, go, oh

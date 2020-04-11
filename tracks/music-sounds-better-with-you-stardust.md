@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: music-sounds-better-with-you-stardust
+lyrics_url: https://genius.com/Stardust-music-sounds-better-with-you-lyrics
 name: Music Sounds Better With You
 rankings:
 - end_date: '1998-10-16'
@@ -39,4 +40,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
-
+Ooh, baby
+I feel right, the music sounds better with you
+Love might bring us back together
+I feel so good
+I feel right, the music sounds better with you
+Love might bring us back together

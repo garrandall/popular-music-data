@@ -1,7 +1,6 @@
 ---
 artists:
 - Reg Owen
-- His Orchestra
 features: []
 genres: []
 key: manhattan-spiritual-reg-owen-his-orchestra

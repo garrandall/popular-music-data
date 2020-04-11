@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you--forget-about-me--simple-minds
+lyrics_url: https://genius.com/Simple-minds-dont-you-forget-about-me-lyrics
 name: Don't You (Forget About Me)
 rankings:
 - end_date: '1985-03-01'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
 ---
+Hey, hey, hey, hey
+Ooh...
 
+
+Won't you come see about me?
+I'll be alone, dancing you know it baby
+Tell me your troubles and doubts
+Given everything inside and out and
+Love's strange so real in the dark
+Think of the tender things that we were working on
+Slow chains may pull us apart
+When our life gets into your heart, baby
+
+
+Don't you forget about me
+Don't, don't, don't, don't
+Don't you forget about me
+
+
+Will you stand above me?
+Look my way, never love me
+Rain keeps falling, rain keeps falling
+Down, down, down
+Will you recognize me?
+Call my name or walk on by
+Rain keeps falling, rain keeps falling
+Down, down, down, down
+Hey, hey, hey, hey
+Ohhhh.....
+
+
+Don't you try to pretend
+It's my feeling we'll win in the end
+I won't harm you or touch your defenses
+Vanity, insecurity
+Don't you forget about me
+I'll be alone, dancing you know it baby
+Going to take you apart
+I'll put us back together at heart, baby
+
+
+Don't you forget about me
+Don't, don't, don't, don't
+Don't you forget about me
+
+
+As you walk on by
+Will you call my name?
+As you walk on by
+Will you call my name?
+When you walk away
+Or will you walk away?
+Will you walk on by?
+Come on, call my name
+Will you call my name?
+
+
+I say
+La la la...
+When you walk on by
+La la la...

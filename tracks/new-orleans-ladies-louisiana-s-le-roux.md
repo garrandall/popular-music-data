@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-orleans-ladies-louisiana-s-le-roux
+lyrics_url: https://genius.com/Louisianas-leroux-new-orleans-ladies-lyrics
 name: New Orleans Ladies
 rankings:
 - end_date: '1978-06-30'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
 ---
+New Orleans Ladies
+A sassy style that will drive you crazy
+And they hold you like the light
+Hugs the wick when this candle's burning
+Them Creole babies
+Thin and brown and downright lazy
+And they roll just like the river
+A little wave will last forever
 
+Chorus
+
+All the way
+From Bourbon Street to Esplanade
+They sashay by...
+They sashay by...
+
+New Orleans Ladies
+A flair for life, love and laugher
+And they hold you like the night
+Holds a chill when this cold wind's blowing
+Them Creole babies
+They strut and sway from dusk till dawning
+And they roll like the river
+A little wave will last forever
+
+Chorus
+
+All the way
+From Bourbon Street to Esplanade
+They sashay by...
+They sashay by...

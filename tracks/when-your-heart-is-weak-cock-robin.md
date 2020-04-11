@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-your-heart-is-weak-cock-robin
+lyrics_url: https://genius.com/Cock-robin-when-your-heart-is-weak-lyrics
 name: When Your Heart Is Weak
 rankings:
 - end_date: '1985-06-21'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+What's the matter with the way we look?
+Surely it's not the end
+I only meant to make my motions clear
+You worry too much if it's understood
+Should we be seen as friends?
+Seems like a real good beginning right here
 
+'Cause when your heart is weak
+I'm gonna pick the lock on it
+My fingertips won't fail me
+No matter what you do
+The love you cannot see yet
+Is about to witness a dawning
+And you can twist and turn
+But you won't get loose
+
+Better forget getting rid of me
+I don't see how you can
+You put me off and I will hunt you
+Down...again
+I'm mighty patient when I have to be
+You have given me that
+Still I look forward to the day you let me in
+'Cause when your heart is weak
+I'm gonna pick the lock on it
+My fingertips won't fail me
+No matter what you do
+The love you cannot see yet
+Is about to witness a dawning
+And you can twist and turn
+But you won't get loose
+I'm gonna prove myself worthy
+No more just hanging on
+Without a prayer of a chance
+I'm gonna come without warning
+When your defenses are down and you're in
+A desperate need
+Oh, I bet you you then, you'll welcome me...
+Your ol' companion
+Your ol' companion
+Remember baby
+'Cause when your heart is weak
+I'm gonna pick the the lock on it
+And you can twist and turn
+But you won't get, you won't get
+No you won't get loose
+Oh no

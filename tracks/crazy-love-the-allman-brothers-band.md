@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-love-the-allman-brothers-band
+lyrics_url: https://genius.com/The-allman-brothers-band-crazy-love-lyrics
 name: Crazy Love
 rankings:
 - end_date: '1979-03-30'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+Somewhere down on a back street
+Way down deep in the back seat
+Where I first learned how to moan your name
 
+I remember the night I met ya
+Ooh sweet mama, I just can't forget ya
+Can't stop thinkin' 'bout your crazy love
+
+Crazy love
+Crazy love
+I love you mama
+But you're too bad to change
+
+Crazy love
+Crazy love
+I love you mama
+Uh, uh
+
+I'm laid up here lookin' at my shoes
+Stuck here with these hotel blues
+I wish you'd only just call me on the phone
+
+Ain't no doubt and I don't mean maybe
+Whoo! I just can't forget about you baby
+Can't stop thinkin' 'bout your crazy love
+
+Crazy love
+Crazy love
+I love you mama
+But you're too bad to change

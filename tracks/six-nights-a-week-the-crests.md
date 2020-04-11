@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: six-nights-a-week-the-crests
+lyrics_url: https://genius.com/The-crests-six-nights-a-week-lyrics
 name: Six Nights A Week
 rankings:
 - end_date: '1959-03-29'
@@ -59,4 +60,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
 ---
+Well six nights a week I long for you
+And then on Saturday night
+I hold you in my arms again
+I love you so but I'm a fool it seems
 
+For six nights a week I see you only in my dreams
+I want to hold you every night
+But you won't give me a chance
+I have to wait to hold you tight
+
+Until the next Saturday night
+So why must we spend six nights a week apart
+When night after night I'd love to hold you to my heart

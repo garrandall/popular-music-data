@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-care-fall-out-boy
+lyrics_url: https://genius.com/Fall-out-boy-i-dont-care-lyrics
 name: I Don't Care
 rankings:
 - end_date: '2008-10-03'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
 ---
+Oh, oh, say my name, and his in the same breath
+I dare you to say they taste the same
+Let the leaves fall off in the summer
+And let December glow in flames
+Erase myself and let go
+Start it over again in Mexico
+These friends, they don't love you
+They just love the hotel suites, now
 
+
+I don't care what you think
+As long as it's about me
+The best of us can find happiness in misery
+I said-a I (I) don't (don't) care what you think
+As long as it's about me
+The best of us can find happiness in misery
+
+
+Oh, oh, oh, take a chance, let your body get a tolerance
+I'm not a chance, but a heat wave in your pants
+Pull a breath like another cigarette
+Pawn shop heart trading up, said no
+I'm the oracle in my chest
+Let the guitar scream like a fascist
+Sweat it out, shut your mouth, free love on the streets, but
+In the alley it ain't that cheap now
+
+
+I don't care what you think
+As long as it's about me
+The best of us can find happiness in misery
+I said-a I (I) don't (don't) care what you think
+As long as it's about me
+The best of us can find happiness in misery
+
+
+Oh, oh, mmm, said-a, I don't care just a-what you think
+As long as it's about me, you said-a
+I don't care just a-what you think
+As long as it's about me, I said-a
+I don't care (I don't care)
+You said I don't care (I don't care)
+Said I (I) don't (don't) care (care), oh
+I (I) don't (don't) care (no, I don't), oh
+I don't care (I don't care)
+I said-a, I don't care
+
+
+I don't care what you think
+As long as it's about me
+The best of us can find happiness in misery
+I said-a I (I) don't (don't) care what you think
+As long as it's about me
+The best of us can find happiness in misery

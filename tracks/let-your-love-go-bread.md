@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-your-love-go-bread
+lyrics_url: https://genius.com/Bread-let-your-love-go-lyrics
 name: Let Your Love Go
 rankings:
 - end_date: '1971-01-08'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
+There's a reason
+For the life that you live
+And there's pleasing that
+I know you can give
 
+And I been craving
+The love you been saving
+So, baby
+Won't you give it to me?
+
+
+You're telling me no, no, no
+You don't want to let your love go
+I'm telling you yes, yes, yes
+You really oughta be getting some happiness
+
+
+I made a motion
+And it's out on the floor
+And it's a notion that I'd love to explore
+
+Cause I been tasting
+The love you been wasting
+So, baby
+Won't you give it to me?
+
+
+You're telling me no, no, no
+You don't want to let your love go
+I'm telling you yes, yes, yes
+You really oughta be getting some happiness
+
+
+You're a lady
+And I'm here in the palm of your hand
+Such a lady
+How much more do you think I can stand?
+
+
+You're telling me no, no, no
+You don't want to let your love go
+I'm telling you yes, yes, yes
+You really oughta be getting some happiness
+
+You're telling me no, no, no
+You don't want to let your love go
+I'm telling you yes, yes, yes
+You really oughta be getting some happiness

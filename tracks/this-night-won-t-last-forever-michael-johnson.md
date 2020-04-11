@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-night-won-t-last-forever-michael-johnson
+lyrics_url: https://genius.com/Michael-johnson-this-night-wont-last-forever-lyrics
 name: This Night Won't Last Forever
 rankings:
 - end_date: '1979-08-10'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+Everybody likes a celebration
+Happy music and conversation
+But I'd be lyin' if I said, I didn't have the blues
+In the corner there's a couple dancin'
+From the kitchen I can hear her laughin'
+Oh, I wish, I was celebratin' too
 
+I know this night won't last forever
+I know the sun's gonna shine sometime
+I need some hope for a bright tomorrow
+To show this heart is gonna mend just fine
+
+So pardon me for my disposition
+Wish, I didn't have to sit and listen
+She's playin' the same old songs on the stereo
+She's been lyin' since the day I met her
+I'd be better off to just forget her
+Oh, I would rather be lonesome or go
+
+I know this night won't last forever
+I know the sun's gonna shine sometime
+I need some hope for a bright tomorrow
+To show this heart is gonna mend just fine
+
+Such a ridiculous situation
+Pretending there's nothing wrong
+She's comin' on with the invitation
+I wonder, who is takin' her home
+
+I know this night won't last forever
+I know the sun's gonna shine sometime
+I need some hope for a bright tomorrow
+To show this heart is gonna mend just fine
+
+I know this night won't last forever
+I know the sun's gonna shine sometime
+I need some hope for a bright tomorrow
+To show this heart is gonna mend just fine
+
+I know this night won't last forever
+I know the sun's gonna shine sometime
+I need some hope for a bright tomorrow
+To show this heart is gonna mend just fine

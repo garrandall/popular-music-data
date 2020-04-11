@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anotherloverholenyohead-prince-and-the-revolution
+lyrics_url: https://genius.com/Prince-and-the-revolution-anotherloverholenyohead-lyrics
 name: Anotherloverholenyohead
 rankings:
 - end_date: '1986-07-25'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
 ---
+I gave my love, I gave my life, I gave my body and mind
+We were inseparable
+I guess I gave you all of my time
+And now you plead insanity and you don't even know the score
+Why can't you learn to play the game?
+Baby, don't you know that you need me more? (More, more, more)
 
+
+You need another lover like you need a hole in your head (baby, baby)
+You know there ain't no other
+That can do the duty in your bed, yeah
+
+
+We were brothers and sisters
+United all for love
+Now all of the sudden (all of the sudden)
+You try to fight it (try to fight it)
+You say you've had enough (say you've had enough)
+Even though we had big fun (even though we had big fun)
+You want another someone (You want another someone)
+Your happily ever after be (Sure as there's a sun)
+Sure as there's a sun, (I'm going to be the one)
+I'm going to be the one and if (you don't understand)
+You don't understand face to face (face to face)
+Baby I'll tell you down on my knee, yeah
+
+
+You need another lover like you need a hole in your head (baby, baby)
+You know there ain't no other
+That can do the duty in your bed, yeah
+You need another lover like you need a hole in your head (baby, baby)
+You know there ain't no other
+That can do the duty in your bed, yeah
+You need another lover like you need a hole in your head (baby, baby)
+You know there ain't no other
+That can do the duty in your bed, yeah
+
+
+There's going to be a riot, if you don't clap your hands
+If you don't make that funky stand, everybody
+You know there ain't no other

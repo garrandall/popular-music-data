@@ -6,6 +6,7 @@ features:
 - Chaka Khan
 genres: []
 key: i-ll-be-good-to-you-quincy-jones-ray-charles-chaka-khan
+lyrics_url: https://genius.com/Quincy-jones-ill-be-good-to-you-lyrics
 name: I'll Be Good To You
 rankings:
 - end_date: '1989-11-24'
@@ -73,4 +74,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
 ---
+Want to know, baby
+Just how you feel, girl
+Said I wanna know
+If what you feel is real, girl
+Cause there's a reason
+For the things that I say, what I talk about
+But oh, I want to love you girl
+In a special way, come here woman
+We've been together
+For so very long
+I'd hate to break up
+Break up my happy home
 
+
+(The way we stand and the way we lie)
+The way we lie
+(The way we love and the way we cry)
+Girl, we cry
+(Of all these things, there comes a time)
+There's a time
+(Makes me feel that it's worth a try)
+Makes me feel, it's worth a try
+(I'll be good to you)
+
+
+Good to you, good to you, good to you
+I'll be good to you, I'll be good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, I'll be good to you
+
+
+Girl you said, we've been together
+So very long, very long
+I would hate to break up
+Break up my happy home
+Let me take off your shoes
+Take a stand, now
+And let me know how
+Ooh always baby, and all your know-how
+
+
+(The way we stand and the way we lie)
+The way we lie
+(The way we love and the way we cry)
+The way we cry
+(Of all these things, there lies a time)
+(Makes me feel that it's worth a try)
+
+
+
+
+Girl, I'll be good to you, babe
+Y'know I'll be good to you, take you shopping
+You know what I mean baby? Anything you want
+I'll be good to you
+I'll give it up, with my credit cards
+Like Visa, Master Charge, American Express
+Turn my pants upside down
+Any day of the week
+
+
+Oh, you, you, you
+Come here, give me love
+Talk to me

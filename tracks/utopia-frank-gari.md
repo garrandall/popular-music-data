@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: utopia-frank-gari
+lyrics_url: https://www.musixmatch.com/lyrics/Frank-Gari/Utopia
 name: Utopia
 rankings:
 - end_date: '1960-12-25'
@@ -63,4 +64,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
-
+Ah-a-a-ah Utopia
+Ah-a-a-ah Utopia Never thought there really was Utopia
+The land where every dream you dream comes true
+But last night when we shared a kiss
+I'm very sure of this
+That magic land came in view And I saw golden skies
+And birds of paradise
+What a fool I'd be to let you go'Specially when I know that Everybody searches for Utopia
+But still it's found by just a lucky few
+Darling oh how I hope and pray
+We'll stay in love this way
+Cause I found Utopia when I found you And I saw golden skies
+And birds of paradise
+What a fool I'd be to let you go'Specially when I know that Everybody searches for Utopia
+But still it's found by just a lucky few
+Darling oh how I hope and pray
+We'll stay in love this way
+Cause I found Utopia when I found you

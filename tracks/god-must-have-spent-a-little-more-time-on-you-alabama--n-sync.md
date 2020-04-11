@@ -5,6 +5,7 @@ features:
 - '''N Sync'
 genres: []
 key: god-must-have-spent-a-little-more-time-on-you-alabama--n-sync
+lyrics_url: https://www.musixmatch.com/lyrics/Alabama-feat-N-Sync/God-Must-Have-Spent-a-Little-More-Time-On-You
 name: God Must Have Spent A Little More Time On You
 rankings:
 - end_date: '1999-06-04'
@@ -88,4 +89,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
 ---
+Can this be true? Tell me can this be real?
+How can I put into words what I feel?
+My life was complete, I thought I was whole
+Why do I feel like I'm losing control?
 
+I never thought that love could feel like this
+Then you changed my world with just one kiss
+And how can it be, that been right here with me
+There's an Angel, it's a miracle
+
+Your love is like a river peaceful and deep
+Your soul is like a secret, that I never could keep
+When I look into your eyes I know that it's true
+God must of spent a little more time on you
+
+A little more time
+I'm sure He did
+And yes He did that
+
+In all of creation, all things great and small
+You are the one that surpasses them all
+More precious than any diamond or pearl
+They broke the mold when you came in this world
+
+And I'm trying hard to figure out, just how I ever did without
+Oh the warmth of your smile, the heart of a child
+It's deep inside, and leaves me purified
+
+Your love is like a river peaceful and deep
+Your soul is like a secret that I never could keep
+When I look into your eyes I'll know that it's true
+God must of spent a little more time on you
+
+A little more time on you
+Yes He did so
+Yes He did
+
+I never thought that love could feel like this
+Then you change my world with just one kiss
+And how can it be that right here with me
+There's an Angel, is just a miracle
+
+Your love is like a river peaceful and deep
+Your soul is like a secret, that I never could keep
+When I look into your eyes I know that it's true
+God must of spent a little more time on you
+God must have spent a little more time on you, on you
+A little more time on you, you

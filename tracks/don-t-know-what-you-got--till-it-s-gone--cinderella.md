@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-know-what-you-got--till-it-s-gone--cinderella
+lyrics_url: https://genius.com/Cinderella-dont-know-what-you-got-lyrics
 name: Don't Know What You Got (Till It's Gone)
 rankings:
 - end_date: '1988-09-09'
@@ -95,4 +96,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
 ---
+I canâ??t tell ya baby what went wrong
+I canâ??t make you feel what you felt so long ago
+Iâ??ll let it show
+I canâ??t give you back whatâ??s been hurt
+Heartaches come and go and all thatâ??s left are the words
+I canâ??t let go
+If we take some time to think it over baby
+Take some time, let me know
+If you really want to go
 
+Donâ??t know what you got till itâ??s gone
+Donâ??t know what it is I did so wrong
+Now I know what I got
+Itâ??s just this song
+And it ainâ??t easy to get back
+Takes so long
+
+I canâ??t feel the things that cause you pain
+I canâ??t clear my heart of your love it falls like rain
+Ainâ??t the same
+I hear you calling far away
+Tearing through my soul I just canâ??t take another day
+Whoâ??s to blame
+If we take some time to think it over baby
+Take some time let me know
+If you really want to go
+
+Donâ??t know what you got 'till itâ??s gone
+Donâ??t know what it is I did so wrong
+Now I know what I got
+Itâ??s just this song
+And it ainâ??t easy to get back
+Takes so long
+
+Do you want to see me begginâ?? baby
+Canâ??t you give me just one more day
+Canâ??t you see my heartâ??s been dragginâ?? lately
+Iâ??ve been lookinâ?? for the words to say
+
+Donâ??t know what you got 'till itâ??s gone
+Donâ??t know what it is I did so wrong
+Now I know what I got
+Itâ??s just this song
+And it ainâ??t easy to get back
+Takes so long
+
+Donâ??t know what you got 'till itâ??s gone no
+Donâ??t know what it is I did so wrong
+Now I know what I got
+Itâ??s just this song
+And it ainâ??t easy to get back
+Takes so long

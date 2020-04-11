@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-neverending-story-limahl
+lyrics_url: https://genius.com/Limahl-the-neverending-story-lyrics
 name: The NeverEnding Story
 rankings:
 - end_date: '1985-03-29'
@@ -83,4 +84,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
 ---
+Turn around
+Look at what you see
+In her face
+The mirror of your dreams
 
+
+Make believe I'm everywhere
+I'm hidden in the lines
+Written on the pages
+Is the answer to a neverending story
+
+Ah
+
+
+
+Reach the stars
+Fly a fantasy
+Dream a dream
+And what you see will be
+
+
+Rhymes that keep their secrets
+Will unfold behind the clouds
+And there upon a rainbow
+Is the answer to a neverending story
+
+
+Ah
+
+
+Story
+
+
+Ah
+
+
+
+Show no fear
+For she may fade away
+In your hand
+The birth of a new day
+
+
+Rhymes that keep their secrets
+Will unfold behind the clouds
+And there upon a rainbow
+Is the answer to a neverending story
+
+Ah
+
+
+
+Neverending story
+
+
+Ah
+
+
+Neverending story
+
+
+Ah
+
+
+Neverending story
+
+
+Ah

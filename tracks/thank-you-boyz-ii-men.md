@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-boyz-ii-men
+lyrics_url: https://genius.com/Boyz-ii-men-thank-you-lyrics
 name: Thank You
 rankings:
 - end_date: '1995-03-03'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
 ---
+I was young (BOP)
+And didn't have no where to run
+I needed to wake up and see (and see)
+What's in front of me (na-na-na)
+There has to be a better way
+Sing it again a better way
+To show I'm grateful (hum)
+So I thought up this song
+To show my appreciation for lovin' me so long
+You don't know much you mean to me
 
+
+'Cause even though when times got rough
+You never turned away
+You were right there
+And I thank you (thank you)
+When I felt I had enough
+You never turned away
+You were right there
+And I thank you (thank you)
+
+
+All through my life
+I knew that you'd be my world
+Knowing everywhere I go
+Things you taught me they would show
+So many times and changes
+You've seen me through
+I sho nuff couldn't have survived without you, you
+And so I thought up this song
+To show my appreciation for lovin' me so long
+You don't know how much you mean to me, oh
+
+
+'Cause even though when times got rough
+You never turned away
+You were right there
+And I thank you (thank you)
+When I felt I had enough
+You never turned away
+You were right there
+And I thank you (thank you)
+'Cause even though when times got rough
+You never turned away
+You were right there
+And I thank you (thank you)
+When I felt I had enough
+You never turned away
+You were right there
+And I thank you (thank you)
+
+
+
+
+'Cause even though when times got rough
+You never turned away
+You were right there
+And I thank you (thank you)
+When I felt I had enough
+You never turned away
+You were right there
+And I thank you (thank you)

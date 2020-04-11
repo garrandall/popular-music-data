@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ginger-bread-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-ginger-bread-lyrics
 name: Ginger Bread
 rankings:
 - end_date: '1958-08-10'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
 ---
+You're full of sugar you're full of spice
+You're kinda naughty but you're naughty and nice say-
 
+
+Ginger bread ginger bread ginger bread ginger bread
+Ginger bread ginger bread ginger bread ginger bread
+You're full of sugar you're full of spice
+You're kinda naughty but you're naughty and nice
+
+My heart beats crazy every time I'm with you
+But you're momma says you're much too young to date
+We meet at the corner and we share a kiss or two
+How long does your momma think we'll wait wait wait
+
+
+My heart beats crazy every time I'm with you
+But you're momma says you're much too young to date
+We meet at the corner and we share a kiss or two
+How long does your momma think we'll wait wait wait

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-information-society
+lyrics_url: https://genius.com/Information-society-think-lyrics
 name: Think
 rankings:
 - end_date: '1990-10-12'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-19'
 ---
+Imagine if I said I sometimes need you
+I need you to this day
+Imagine if I said I sometimes hear you call my name
+Imagine if I said I still could love you
+Imagine what you’d say
+Imagine if I said I sometimes still can see your face
 
+Think about all the things we shared
+Think about all the times we cared
+When all of your hopes have come and gone
+Think about me and I’ll be there
+
+There’s something in the air that feels like winter
+The kind we used to know
+Yesterday can seem like such a long, long time ago
+Who could ever count the miles between us?
+But now I know it’s true
+Imagine if I said that all my dreams are dreams of you
+
+Think about all the things we shared
+Think about all the times we cared
+When all of your dreams have come and gone
+Think about me and I’ll be there
+Think about images we’ve drawn
+Think about all those empty songs
+Whenever you’re sure that I won’t dare
+Think about me and I’ll be gone
+
+It took me a long, long time to learn
+That love is a thing you have to earn
+I finally realized it’s true
+I just can’t make it without you
+
+Think about all the things we shared
+Think about all the times we cared
+When all of your dreams have come and gone
+Think about me and I’ll be there
+Think about images we’ve drawn
+Think about all those empty songs
+Whenever you’re sure that I won’t dare
+Think about me and I’ll be gone

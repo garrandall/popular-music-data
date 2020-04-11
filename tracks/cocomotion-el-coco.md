@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cocomotion-el-coco
+lyrics_url: https://www.musixmatch.com/lyrics/El-Coco/Cocomotion
 name: Cocomotion
 rankings:
 - end_date: '1977-12-02'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
 ---
+Come on, let's do
+The Cocomotion
+Baby, let's do
+The Cocomotion
 
+Come on, let's do
+The Cocomotion
+Baby, let's do
+The Cocomotion
+
+Make romance when you dance
+Cocomotion
+Make romance when you dance
+Cocomotion
+
+Do it
+Do it...
+
+Do it, do it good
+Dance the Cocomotion
+Do it, do it good
+Dance the Cocomotion
+
+Do it, do it good
+Dance the Cocomotion
+Do it, do it good
+Dance the Cocomotion
+
+Come on, let's do
+The Cocomotion
+Baby, let's do
+The Cocomotion
+
+Come on, let's do
+The Cocomotion
+Baby, let's do
+The Cocomotion
+
+Make romance when you dance
+Cocomotion
+Make romance when you dance
+Cocomotion

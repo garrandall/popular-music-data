@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-love-is-new-arthur-prysock
+lyrics_url: https://www.musixmatch.com/lyrics/Arthur-Prysock/When-Love-Is-New
 name: When Love Is New
 rankings:
 - end_date: '1976-12-31'
@@ -43,4 +44,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+When love is new, love is new
+(When love is new, love is new)
 
+When love is new
+
+Every day is a new sensation
+
+When love is new
+
+You thrill with infatuation
+
+Oh, ho, ho
+When love is born
+It's so warm, so soft
+And, oh, so tender
+Everybody's willing to surrender
+
+When love is new (When love is new, love is new)
+When love is new (When love is new, love is new)
+
+Don't let our love grow cold
+'Cause funny things happen
+When that love gets cold
+So let's me and you make a pact
+A promise to each other
+
+For as long as we live
+Long as we love, let's always
+Always keep our love brand new
+'Cause love is so wonderful
+
+When love is new (When love is new, love is new)
+I said when love is new (When love is new, love is new)
+
+Whoa, ho, ho, oh
+When love is born
+(When love is born)
+It's so warm, so soft
+And, oh, so tender
+Everybody's willing to surrender
+
+When love is new (When love is new, love is new)
+When love is new (When love is new, love is new)
+It's so wonderful
+
+When love is new (When love is new, love is new)
+Al we need is each other
+(When love is new, love is new) To keep our love brand new
+
+It's so warm, soft
+Sweet and so tender
+
+(When love is new, love is new) It's so soft, so sweet
+(When love is new, love is new) And, oh, so tender
+
+(When love is new, love is new)
+It's so good to you, baby
+(When love is new, love is new)
+It makes you feel brand new
+
+(When love is new, love is new)

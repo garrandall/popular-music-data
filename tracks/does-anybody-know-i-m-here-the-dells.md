@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: does-anybody-know-i-m-here-the-dells
+lyrics_url: https://genius.com/The-dells-does-anybody-know-im-here-single-version-lyrics
 name: Does Anybody Know I'm Here
 rankings:
 - end_date: '1969-01-03'
@@ -43,4 +44,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
 ---
+Alone and far away from home
+A boy stands in a foreign land
 
+Lonely is he and in the dark
+He wipes away a tear
+As he thinks to himself
+Does anybody know I'm here
+
+He's got a girl
+Far on a distant shore
+And he wonders
+If she loves him anymore
+
+Cold, so cold is the wind
+And in the dark
+He wipes away a tear
+As he thinks to himself
+Does anybody know I'm here
+
+And then a voice says
+Don't worry bout it, baby
+I'll be right here
+Don't worry bout it, baby
+I'll be right here
+
+(But he keeps on saying, baby)
+Don't worry bout it baby
+(Don't let me lose your love)
+I'll be right here (oh, oh, baby)
+
+Don't worry bout it, baby
+(Don't let me lose your loving)
+I'll be right here
+
+Cold, oh, so cold is the wind
+And in the dark
+He wipes away a tear
+Oh, as he thinks to himself
+Does anybody know I'm here
+
+(But he keeps on saying, baby)
+Don't worry bout it baby
+(Don't let me lose your love)
+I'll be right here (oh, oh, baby)
+
+Don't worry bout it, baby
+(Don't let me lose your loving)
+I'll be right here

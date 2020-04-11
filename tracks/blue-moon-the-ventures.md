@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-moon-the-ventures
+lyrics_url: https://genius.com/The-ventures-blue-moon-lyrics
 name: Blue Moon
 rankings:
 - end_date: '1961-10-29'
@@ -31,4 +32,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
+Blue moon, you saw me standing alone
+Without a dream in my heart, without a love of my own
+Blue moon, you knew just what I was there for
+You heard me saying a prayer for someone I really could care for
 
+And suddenly there appeared before me
+The only one my arms could ever hold
+I heard someone whisper, "Please, adore me"
+And when I looked my moon had turned to gold
+
+Blue moon, now I'm no longer alone
+Without a dream in my heart, without a love of my own
+Without a love of my own

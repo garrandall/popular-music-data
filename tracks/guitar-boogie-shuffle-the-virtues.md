@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guitar-boogie-shuffle-the-virtues
+lyrics_url: https://genius.com/The-virtues-guitar-boogie-shuffle-lyrics
 name: Guitar Boogie Shuffle
 rankings:
 - end_date: '1959-03-15'
@@ -71,4 +72,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
-
+Don't change yourself to suit everybody else
+Don't change yourself to suit everybody else
+You lay staring at your ceiling through all of the night
+And out to haunt you come the ghosts of your life
+You bury your head in a bone colored cradle
+But do you sleep with a smile upon your face?
+They say into every life a little rain must fall
+But your dream cloud has burst
+And dripped all over your face
+A sick body forms a sick mind
+But you're duty bound to do what's right
+Is that the oasis of light in the darkness of your life?
+You can't admit, but you can't deny
+A small heart, a spiteful mind
+Are you good or bad you ask yourself
+And do the things you do hurt the ones who care the most for you
+Are you good or bad you ask yourself
+And do the things you do hurt the ones who care the most for you
+Don't change yourself to suit everybody else
+Don't change yourself to suit everybody else...

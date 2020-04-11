@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -remember-me--i-m-the-one-who-loves-you-dean-martin
+lyrics_url: https://genius.com/Dean-martin-remember-me-im-the-one-who-loves-you-lyrics
 name: (Remember Me) I'm The One Who Loves You
 rankings:
 - end_date: '1965-05-28'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
 ---
+When you're all alone and blue
+No one to tell your troubles to
+Remember me, I'm the one who loves you
 
+When this world has turned you down
+And not a true friend can be found
+Remember me, I'm the one who loves you
+
+And through all kinds of weather
+You'll find I'll never change
+Through the sunshine and the shadows
+I'll always be the same
+
+Oh, we're together, right or wrong
+Where you go, I'll tag along
+Remember me, I'm the one who loves you
+
+And through all kinds of weather
+You'll find I'll never change
+Through the sunshine and the shadows
+I'll always be the same, remember me
+
+We're together, right or wrong
+Where you go, I'll tag along
+Remember me, I'm the one who loves you
+Remember me, I'm the one who loves you
+Remember me, I'm the one

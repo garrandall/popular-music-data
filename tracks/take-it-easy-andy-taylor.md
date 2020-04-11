@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-it-easy-andy-taylor
+lyrics_url: https://genius.com/Andy-taylor-take-it-easy-lyrics
 name: Take It Easy
 rankings:
 - end_date: '1986-06-06'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
 ---
+People say I'm crazy, just a fool
+But I'm the pigeon and baby, you're the stool
 
+I always dug the color your hair
+I always loved the clothes you wear
+I can't say that you turn me on
+But why'd I stay all night long
+
+Take it easy - on yourself
+Take it easy - there ain't no one else
+Don't give me reasons
+And I won't ask for nothin'
+
+Rich girls, they run after me
+They break my heart, you know I fall in love so easily
+
+I always dug the color your hair
+I always loved the clothes you wear
+I can't say that you turn me on
+But why'd I stay all night long
+
+Take it easy - on yourself
+Take it easy - there ain't no one else
+Don't give me reasons
+And I won't ask for nothin'
+
+Take it easy - on yourself
+Take it easy - there ain't no one else
+Don't give me reasons
+And I won't ask for nothin'
+Yeah!
+
+Take it easy - on yourself
+Take it easy - there ain't no one else
+Don't give me reasons
+And I won't ask for nothin'

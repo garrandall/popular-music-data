@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-coming-home-tom-jones
+lyrics_url: https://genius.com/Tom-jones-im-coming-home-lyrics
 name: I'm Coming Home
 rankings:
 - end_date: '1968-01-05'
@@ -27,4 +28,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
 ---
+I'm coming home to your loving heart
+Till the one that I was
+True way and broke apart
 
+I want you I need you
+A chance is on I'm asking now
+I must get back to you so now
+So I am coming home to you
+'cause I am nothing without you
+May be you found somebody new
+'cause I'm still coming home to you
+
+Please let me stay and forget your pride
+Now my world is falling round
+I got know when behind
+
+I want you I need you
+I know with true I made you cry
+Then like a fool I say goodbye
+Now I am coming home to you
+Yes I am nothing without you
+May be you found somebody new
+But I'm still coming home to you

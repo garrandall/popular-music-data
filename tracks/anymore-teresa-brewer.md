@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anymore-teresa-brewer
+lyrics_url: https://genius.com/Teresa-brewer-anymore-lyrics
 name: Anymore
 rankings:
 - end_date: '1960-08-14'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
 ---
+{And I don't believe you love me anymore} (anymore)
 
+Lately you've been acting strange to me
+Somehow it's not the way it used to be
+You're doing things you never dared to do before
+
+{And I don't believe you love me anymore} (anymore)
+
+I've felt your love grow colder day by day
+When I try to hold you close you turn away
+There must be someone else you're running for
+
+{And I don't believe you love me anymore} (anymore)
+
+{And I don't believe you love me anymore} (anymore)
+
+I've felt your love grow colder day by day
+When I try to hold you close you turn away
+There must be someone else you're running for
+
+{And I don't believe you love me anymore} (anymore)
+{I don't believe you love me anymore}

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-boss-diana-ross
+lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/No-One-Gets-the-Prize-The-Boss
 name: The Boss
 rankings:
 - end_date: '1979-07-20'
@@ -71,4 +72,114 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+No one, no one gets the prize
 
+No one, no one
+No one gets the prize
+
+We were best of friends
+It all began
+He came in to town and changed the plan
+I knew she felt, the same as me
+Which one of us would it be
+
+Just in fun, fight begun
+Before long a web of hate was spun
+She pretended same as me
+Oh, but friends again we'd never be
+
+No one, no one gets the prize
+She told him lies, and I told him lies
+No one, no one gets the prize
+
+She schemed and dreamed and told him dirt
+That I was wrong for him
+I told him all the boys she'd hurt and I would number them
+He was the ray of light that made our hearts live
+But either one of us knew really how to give
+So we scandalized and criticized
+And then we learned how to despise
+
+No one, no one gets the prize
+She told him lies and I lied, I lied yeah
+No one, no one gets the prize
+No, no, no
+
+Yeah, yeah
+Back off
+
+Fancy me
+Thought I had my degree
+In life and how love
+Ought to be a run
+
+I had a one step plan to prove it
+Guide in my pocket for fools
+Folly and fun
+Love had to show me one thing
+
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sure
+So sure
+But love taught me
+Who was who was who was the boss
+
+I'd defy
+Anyone who claimed that I
+Didn't control whatever moved in my soul
+I could tempt
+Touch delight
+Just because you fell for me
+Why should I feel uptight
+Love had to show me one thing:
+
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sure
+So sure (I was so sure)
+But love taught me
+Who was who was who was the boss
+(Taught me who was who was the boss)
+
+Love taught me
+Taught me
+Taught me
+Taught me
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sue
+But love taught me
+Who was who was who was the boss
+
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sue
+But love taught me
+
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sue
+But love taught me
+Who was who was who was the boss
+
+I was so right
+So right
+Thought I could turn emotion
+On and off
+I was so sue
+But love taught me
+Who was who was who was the boss
+
+But love taught me
+Who was who was who was the boss

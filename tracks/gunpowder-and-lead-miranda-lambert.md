@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gunpowder-and-lead-miranda-lambert
+lyrics_url: https://genius.com/Miranda-lambert-gunpowder-and-lead-lyrics
 name: Gunpowder And Lead
 rankings:
 - end_date: '2008-05-23'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
 ---
+County road 233, under my feet
+Nothing on this white rock but little ol’ me
+I've got two miles 'till he makes bail
+And if I'm right, we're headed straight for hell
 
+
+I'm going home, gonna load my shotgun
+Wait by the door and light a cigarette
+If he wants a fight, well, now he's got one
+And he ain't seen me crazy yet
+He slapped my face and he shook me like a rag doll
+Don't that sound like a real man?
+I'm gonna show him what little girls are made of
+Gunpowder and lead
+
+
+Well, it's half past ten, another six-pack in
+And I can feel the rumble like a cold black wind
+He pulls in the drive, the gravel flies
+He don't know what's waitin' here this time
+
+
+Hey, I'm going home, gonna load my shotgun
+Wait by the door and light a cigarette
+If he wants a fight, well, now he's got one
+And he ain't seen me crazy yet
+He slapped my face and he shook me like a rag doll
+Don't that sound like a real man?
+I'm gonna show him what little girls are made of
+Gunpowder and lead
+
+
+His fist is big, but my gun's bigger
+He'll find out when I pull the trigger
+
+
+I'm going home, gonna load my shotgun
+Wait by the door and light a cigarette
+If he wants a fight, well, now he's got one
+And he ain't seen me crazy yet
+He slapped my face and he shook me like a rag doll
+Don't that sound like a real man?
+I'm gonna show him what little girls are made of
+Gunpowder and, gunpowder and lead
+Gunpowder and lead, yeah, yeah, hey

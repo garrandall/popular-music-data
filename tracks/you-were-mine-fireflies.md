@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-mine-fireflies
+lyrics_url: https://genius.com/Fire-flies-you-were-mine-lyrics
 name: You Were Mine
 rankings:
 - end_date: '1959-09-13'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
+You were mine at the time and the feeling was sublime
+You were mine
+(You were mine)
+You were mine
+(You were mine)
 
+You were really, really mine
+And I know that our love was a love of true love
+
+Like a bird on the wing when he knows it's early spring
+You were mine
+(You were mine)
+You were mine
+(You were mine)
+
+You were really, really mine
+And I know that our love was a love of true love
+
+But now, since you're gone, I'm so sad and alone
+Remembering the love that we had for our own
+
+Now I'll go on my way thinking of that lovely day
+You were mine
+(You were mine)
+You were mine
+(You were mine)
+
+You were really, really mine
+And I know that our love was a love of true love
+
+Now I'll go on my way thinking of that lovely day
+You were mine
+(You were mine)
+You were mine
+(You were mine)
+
+You were really, really mine
+And I know
+(And I know)
+That our love
+(That our love)
+Was a love of true love
+
+And I know
+(And I know)
+That our love
+(That our love)
+Was a love of true love
+
+And I know
+(And I know)
+That our

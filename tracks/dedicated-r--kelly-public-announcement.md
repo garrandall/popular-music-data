@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: dedicated-r--kelly-public-announcement
+lyrics_url: https://genius.com/R-kelly-and-public-announcement-dedicated-lyrics
 name: Dedicated
 rankings:
 - end_date: '1993-03-05'
@@ -88,4 +89,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
 ---
+This is dedicated to my favorite girl
 
+
+You have given me the best of you
+And you have made my dreams come true, yeah
+And after all the things that you have done
+Girl, it makes me say that you are more than a woman
+So I'm...
+
+
+Dedicating this one to my favorite girl (she's the only one)
+She's the only woman in the whole wide world (in the whole wide world)
+Dedicating this one to my favorite girl (oh, my)
+She's the only woman in the world for me
+
+
+Never thought that love could be so kind
+'Til you came and brought me peace of mind
+I'll treasure every moment spent with you
+‘Cause no one does the things for me you do
+So I'm...
+
+
+Dedicating this one to my favorite girl (she's the only one)
+She's the only woman in the whole wide world (in the whole wide world)
+Dedicating this one to my favorite girl (oh, my)
+She's the only woman in the world, world, woo
+
+
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+So I'm...
+
+
+Dedicating this one to my favorite girl (my favorite girl)
+She's the only woman in the whole wide world (in the whole wide world)
+Dedicating this one to my favorite girl (she's my favorite girl)
+The only one in the world, oh...
+Dedicating this one to my favorite girl (I'm dedicating this one to my favorite girl, yeah)
+She's the only woman (she's the only woman) in the whole wide world (in the whole wide world for me)
+Dedicating this one (I'm dedicating this one) to my favorite girl (to my favorite girl, yeah)
+(She's the only one, she's the only one for me)
+Dedicating this one to my favorite girl (she's the only one)
+She's the only woman in the whole wide world...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-the-fire-roger-daltrey
+lyrics_url: https://genius.com/Roger-daltrey-after-the-fire-lyrics
 name: After The Fire
 rankings:
 - end_date: '1985-09-20'
@@ -59,4 +60,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
 ---
+After the fire, the fire still burns
+The heart grows older
+But never, ever learns
+The memories smolder
+And the soul always yearns
+After the fire, the fire still burns
 
+I heard a voice asking
+What happens after the fire
+And then the sound of a
+Breaking window and
+The scream of a tire
+
+And then the sound of a distant gun
+And the cry of a hungry child
+The night is hot but nothing's
+Gonna stop this gang going wild
+
+After the fire, the fire still burns
+The heart grows older
+But never, ever learns
+The memories smolder
+But the soul always yearns
+After the fire, the fire still burns
+
+I saw Matt Dillon in black and white
+There ain't no color in memories
+He rode his brother's Harley across the TV
+While I was laughing at Dom DeLuise
+Now I'm cycling all my video tapes
+I'm crying and I'm joking
+I've gotta stop drinking
+I've gotta stop thinking
+I've gotta stop smoking
+
+After the fire, the fire still burns
+The heart grows older
+But never, ever learns
+The memories smolder
+And the soul always yearns
+After the fire, the fire still burns
+
+Raging through the pain
+Blackening the promises
+The tears and the rain
+The fire still burn
+'Til the wind begins to turn
+And it all begins again
+
+After the fire, the fire still burns
+The heart grows older
+But never, ever learns
+The memories smolder
+And the soul always yearns
+After the fire, the fire still burns
+The fire still burns
+
+After the fire, the fire still burns
+The heart grows older
+But never, ever learns
+The memories smolder
+And the soul always yearns
+After the fire, the fire still burns
+
+After the fire, the fire still burns
+After the fire, the fire still burns

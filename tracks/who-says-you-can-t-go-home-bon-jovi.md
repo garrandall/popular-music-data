@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-says-you-can-t-go-home-bon-jovi
+lyrics_url: https://www.musixmatch.com/lyrics/Bon-Jovi/Who-Says-You-Can-t-Go-Home
 name: Who Says You Can't Go Home
 rankings:
 - end_date: '2006-02-03'
@@ -111,4 +112,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
 ---
+I spent 20 years trying to get out of this place
+I was looking for something I couldn't replace
+I was running away from the only thing I've ever known
 
+Like a blind dog without a bone
+I was a gypsy lost in the twilight zone
+
+I hijacked a rainbow and crashed into a pot of gold
+
+I been there, done that and I ain't looking back on the seeds I've sown
+Saving dimes, spending too much time on the telephone
+
+Who says you can't go home
+Who says you can't go home
+
+There's only one place they call me one of their own
+Just a hometown boy, born a rolling stone, who says you can't go home
+Who says you can't go back, been all around the world and as a matter of fact
+There's only one place left I want to go, who says you can't go home
+It's alright, it's alright, it's alright, it's alright, its alright
+I went as far as I could, I tried to find a new face
+There isn't one of these lines that I would erase
+I lived a million miles of memories on that road
+With every step I take I know that I'm not alone
+You take the home from the boy, but not the boy from his home
+These are my streets, the only life I've ever known
+Who says you can't go home
+I been there, done thatand I ain't looking that
+It's been a long long road
+Feels like I never left, that's how the story goes
+It doesn't matter where you are, it doesn't matter where you go
+If it's a million miles aways or just a mile up the road
+Take it in, take it with you when you go
+Who says you can't go home
+It's alright, it's alright, it's alright, it's alright, its alright
+Who says you can't go home
+It's alright, it's alright, it's alright, it's alright, its alright
+Who says you can't go home

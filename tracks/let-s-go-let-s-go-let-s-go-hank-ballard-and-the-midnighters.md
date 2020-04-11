@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-go-let-s-go-let-s-go-hank-ballard-and-the-midnighters
+lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-lets-go-lets-go-lets-go-lyrics
 name: Let's Go Let's Go Let's Go
 rankings:
 - end_date: '1960-09-25'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+Let's Go, Let's Go, Let's Go 2: 24 Trk 12
+(Hank Ballard)
+Hank Ballard And The Midnighters
+Sonny Wood, Henry Booth
+Charles Sutton & Alonzo Tucker
+Pop Chart #6 Year: Sept. 19, 1960
+King Federal Records single 5400
+Album: Hank Ballard & The Midnighters 1953 -1962
 
+(guitar)
+
+There's a thrill upon the hill
+Let's go, let's a-go, let's go
+There's a thrill upon the hill
+Let's go, let's a-go, let's go
+
+There's a house honey, way across town
+People coming from miles around
+Put on your pretty red dress
+Let's go see about this mess
+That's it, baby let's git
+And go way far upon the hill
+
+We're gonna have a whole lotta fun
+We gonna greet the risin' sun
+All night long we gonna ball
+Until we hear yo mama call
+That's it, baby let's git
+And go way far upon the hill
+
+There's a thrill upon the hill
+Let's go, let's a-go, let's go
+There's a thrill upon the hill
+Let's go, let's a-go, let's go
+
+Let's go!
+
+(sax & instrumental)
+
+Eee-yeah!
+Everybody's gonna be there
+My friends and yours from everywhere
+Oh, what a time it's gonna be!
+Come on baby, let's go see
+That's it, baby let's git
+And go way far upon the hill
+
+There's a thrill upon the hill
+Let's go, let's a-go, let's go
+
+There's a thrill upon the hill
+A-let's go, let's a-go, let's go
+
+Fades-
+
+~

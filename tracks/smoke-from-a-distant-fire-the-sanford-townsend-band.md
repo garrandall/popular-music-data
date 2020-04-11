@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smoke-from-a-distant-fire-the-sanford-townsend-band
+lyrics_url: https://genius.com/Sanford-townsend-band-smoke-from-a-distant-fire-lyrics
 name: Smoke From A Distant Fire
 rankings:
 - end_date: '1977-06-24'
@@ -79,4 +80,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
 ---
+You left me here on your way to paradise
+And you pulled the rug right out from under my life
+I know where you goin' to, I knew when you came home last night
+'Cause your eyes had a mist from the smoke of a distant fire
 
+Lord, I was stunned, shoulda seen it come a long time ago
+When I realized, the reality gave me a roll
+If things are the same, then explain why your kiss is so cold
+And that mist in your eyes feels like rain on the fire in my soul
+
+This lyin' and cryin' is upsettin' and gettin' nowhere
+It don't stack up, so slack up, then pack up, I just don't care
+Don't let the screen door hit you on your way out
+Don't you drown when your dreamboat runs onto the ground
+
+I'd just like to know, do you love him or just makin' time
+By filling his glass with your fast-flowing bittersweet lime
+You'll face the aftertaste when you come home late some night
+With your eyes all a-mist from the smoke of a distant fire
+
+Girl, your eyes have a mist from the smoke of a distant fire
+(Girl, your eyes have a mist from the smoke of a distant fire)
+Girl, your eyes have a mist from the smoke of a distant fire
+(Girl, your eyes have a mist from the smoke of a distant fire)
+Girl, your eyes have a mist from the smoke of a distant fire
+(Mist in your eyes from a distant fire)
+Girl, your eyes have a mist from the smoke of a dis
+A distant fire

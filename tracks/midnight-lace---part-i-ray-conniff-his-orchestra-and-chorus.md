@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Conniff His Orchestra And Chorus
+- Ray Conniff
 features: []
 genres: []
 key: midnight-lace---part-i-ray-conniff-his-orchestra-and-chorus

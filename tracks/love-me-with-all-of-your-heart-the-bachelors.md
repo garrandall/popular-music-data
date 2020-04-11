@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-with-all-of-your-heart-the-bachelors
+lyrics_url: https://www.musixmatch.com/lyrics/The-Bachelors/Love-Me-With-All-of-Your-Heart
 name: Love Me With All Of Your Heart
 rankings:
 - end_date: '1966-04-22'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
+Love me with all your heart
+That's all I want, love
+Love me with all your heart
+Or not at all
 
+Just promise me this
+That you'll give me
+All your kisses every winter
+Every summer, every fall
+
+When we are far apart
+Or when you're near me
+Love me with all your heart
+As I love you
+
+Don't give me your love
+For a moment or an hour
+Love me always as you
+Loved me from the start
+With every beat of your heart
+
+When we are far apart
+Or when you're near me
+Love me with all your heart
+As I love you
+
+Don't give me your love
+For a moment or an hour
+Love me always as you
+Loved me from the start
+With every beat of your heart
+
+With every beat of your heart
+Of your heart

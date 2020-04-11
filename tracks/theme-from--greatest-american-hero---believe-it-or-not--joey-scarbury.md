@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from--greatest-american-hero---believe-it-or-not--joey-scarbury
+lyrics_url: https://www.musixmatch.com/lyrics/Joey-Scarbury/Theme-from-Greatest-American-Hero%E2%80%9D-Believe-It-or-Not
 name: Theme From "Greatest American Hero" (Believe It or Not)
 rankings:
 - end_date: '1981-05-15'
@@ -111,4 +112,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
 ---
+Look at what's happened to me
+I can't believe it myself.
+Suddenly I'm up on top of the world
+Should have been somebody else.
 
+Believe it or not, I'm walking on air.
+I never thought I could feel so free.
+Flying away on a wing and a prayer
+Who could it be?
+Believe it or not, it's just me.
+
+Looks like the light of a new day
+Hit me from out of the blue.
+Breaking me out of the spell I was in
+Making all of my wishes come true.
+
+Believe it or not, I'm walking on air.
+I never thought I could feel so free.
+Flying away on a wing and a prayer
+Who could it be?
+Believe it or not, it's just me.
+
+This is too good to be true,
+Look at me
+Falling for you.
+Believe it or not,
+Believe it or not,
+Believe it or not,
+Believe it or not.
+Believe it or not,
+I'm walkin' on air,
+I never thought I could feel so free;
+Flyin' away on a wing and a pray'r,
+Who could it be?
+Believe it or not, it's just me.
+Believe it or not,
+I'm walkin' on air,
+I never thought I could feel so free;
+Flyin' away on a wing and a pray'r,
+Who could it be?
+Believe it or not, it's just me.

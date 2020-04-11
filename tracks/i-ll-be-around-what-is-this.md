@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-around-what-is-this
+lyrics_url: https://www.musixmatch.com/lyrics/What-Is-This-2/I-ll-Be-Around
 name: I'll Be Around
 rankings:
 - end_date: '1985-08-23'
@@ -31,4 +32,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
 ---
+This is our fork in the road
+Love's last episode
+There's nowhere to go, oh no
+You made your choice
+Now it's up to me
+To bow out gracefully
+Though you hold the key, but baby
 
+Whenever you call me, I'll be there
+Whenever you want me, I'll be there
+Whenever you need me, I'll be there
+I'll be around
+
+I knew just what to say
+Now I found out today
+That all the words had slipped away, but I know
+There's always a chance
+A tiny spark will remain
+And sparks turn into flames
+And love can burn once again, but I know you know
+
+Whenever you call me, I'll be there
+Whenever you want me, I'll be there
+Whenever you need me, I'll be there
+I'll be around
+
+Whenever you call me, I'll be there
+This is our fork in the road
+Love's last episode
+There's nowhere to go, oh no
+You made your choice
+Now it's up to me
+To bow out gracefully
+Though you hold the key, but baby
+
+Whenever you call me, I'll be there
+Whenever you want me, I'll be there
+Whenever you need me, I'll be there
+I'll be around
+Whenever you call me, I'll be there
+Whenever you call me, I'll be there
+Whenever you want me, I'll be there
+Whenever you need me, I'll be there
+I'll be around
+Whenever you call me, I'll be there

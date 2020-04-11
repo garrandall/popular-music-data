@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-it-s-over-sugar-ray
+lyrics_url: https://genius.com/Sugar-ray-when-its-over-lyrics
 name: When It's Over
 rankings:
 - end_date: '2001-06-08'
@@ -95,4 +96,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-27'
 ---
+When it's over
+That's the time I fall in love again
+And when it's over
+That's the time you're in my heart again
 
+
+And when you go, go, go, go
+I know, it never ends, never ends
+
+
+All the things that I used to say
+All the words that got in the way
+All the things that I used to know
+Have gone out the window
+All the things that she used to bring
+All the songs that she used to sing
+All the favorite TV shows
+Have gone out the window
+
+
+I'm missing you
+I never knew how much you loved me
+I'm missing you
+I never knew how much you meant to me
+I need you
+
+
+And when you go, go, go, go
+I know, it never ends, never ends
+
+
+All the things that I used to say
+All the words that got in the way
+All the things that I used to know
+Have gone out the window
+All the things that she used to bring
+All the songs that she used to sing
+All the favorite TV shows
+Have gone out the window
+
+
+I'm wishing you
+You never said you were pretending
+I'm wishing you
+You'd feel the same and just come back to me
+I need you
+
+
+And when you go, go, go, go
+I know, it never ends, never ends
+
+
+When it's over
+Can I still come over?
+(And when you go)
+And when it's over
+Is it really over?
+
+
+When it's over
+That's the time I fall in love again
+
+
+All the things that I used to say
+All the words that got in the way
+All the things that I used to know
+Have gone out the window
+All the things that she used to bring
+All the songs that she used to sing
+All the favorite TV shows
+Have gone out the window
+
+All the things that I used to say
+All the words that got in the way
+All the things that I used to know
+Have gone out the window
+All the things that she used to bring
+All the songs that she used to sing
+All the favorite TV shows
+Have gone out the window
+
+All the things that I used to say
+All the words that got in the way
+All the things that I used to know
+Have gone out the window
+All the things that she used to bring
+All the songs that she used to sing
+All the favorite TV shows
+Have gone out the window

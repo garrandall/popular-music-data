@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-all-the-way-raspberries
+lyrics_url: https://genius.com/Raspberries-go-all-the-way-lyrics
 name: Go All The Way
 rankings:
 - end_date: '1972-07-07'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
 ---
+Mama yeah! Woo!
+Mama!
+Ma-ma-ma-ma, yeah!
 
+
+I never knew, never knew how complete love could be
+Till she kissed me and said:
+
+
+"Baby, please, go all the way
+It feels so right being with you, here, tonight
+Please, go all the way
+Just hold 'me close don't ever let me go"
+
+
+I couldn't say what I wanted to say
+Till she whispered:
+"I love you so"
+
+
+"Please, go all the way
+It feels so right being with you, here, tonight
+Please go all the way
+Just hold me close, don't ever let me go"
+
+
+Before her love I was cruel and mean
+I had a hole in the place where my heart should have been
+But now I've changed and it feels so strange
+I come alive when she does all those things to me
+And she says:
+"Come on, come on, come on
+I need you, I love you, I need you"
+
+
+"Baby, please, go all the way
+It feels so right being with you, here, tonight
+Please, go all the way
+Just hold me close don't ever let me go"
+
+
+Oh no
+Uuuh, uuh, uuhh
+Oh no
+No, no, no, nah, nah
+Go all the way, baby
+Woo-hoo-ooo!

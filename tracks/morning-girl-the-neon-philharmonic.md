@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-girl-the-neon-philharmonic
+lyrics_url: https://genius.com/The-neon-philharmonic-morning-girl-lyrics
 name: Morning Girl
 rankings:
 - end_date: '1969-04-11'
@@ -55,4 +56,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+Mornin' girl, how'd ya sleep last night?
+You're sev'ral ages older now
+Your eyes have started showin' how
+The little girl's growin' now
 
+Mornin' girl, was that you last night?
+Crying on the radio
+Beggin' for a way to go
+To go back where love wasn't jumbled so
+
+Oh, no, things are different now than they were before
+You know love is more than kisses
+A whole lot more
+
+Mornin' girl, put your dreams away
+And read your box of Cheerios
+And powder-puff that pretty nose
+And go out and find your man where the wild wind blows
+Mornin' girl

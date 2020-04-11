@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-my-world-helen-reddy
+lyrics_url: https://genius.com/Helen-reddy-youre-my-world-lyrics
 name: You're My World
 rankings:
 - end_date: '1977-05-06'
@@ -95,4 +96,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
 ---
+You're my world, you're every breath I take
+You're my world, you're every move I make
+Other eyes see the stars up in the skies
+But for me they shine within your eyes
+As the trees reach for the sun above
+So my arms reach out to you for love
+With your hand resting in mine
+I feel a power so divine
 
+You're my world you are my night and day
+You're my world you're every prayer I pray
+If our love ceases to be
+That is the end of my world for me
+
+With your hand resting in mine
+I feel a power so divine
+
+You're my world you are my night and day
+You're my world you're every prayer I pray
+If our love ceases to be
+That is the end of my world
+End of my world
+End of my world for me

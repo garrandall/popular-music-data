@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-any-way-you-wanna-people-s-choice
+lyrics_url: https://genius.com/Peoples-choice-do-it-any-way-you-wanna-lyrics
 name: Do It Any Way You Wanna
 rankings:
 - end_date: '1975-08-29'
@@ -71,4 +72,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
 ---
-
+Do it any way you wanna do it
+Do it any way you wanna
+(Repeat until fade)

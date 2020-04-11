@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fake-love-drake
+lyrics_url: https://www.musixmatch.com/lyrics/Drake/Fake-Love
 name: Fake Love
 rankings:
 - end_date: '2016-11-18'
@@ -107,4 +108,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
 ---
+Yeah, yeah
 
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+
+Somethin' ain't right when we talkin'
+Somethin' ain't right when we talkin'
+Look like you hidin' your problems
+Really you never was all in
+No you can't son me, you won't never get to run me
+Just when shit look out of reach, I reach back like one, three
+Like one, three, yeah
+
+That's when they smile in my face
+Whole time they wanna take my place
+Whole time they wanna take my place
+Whole time they wanna take my place
+Yeah, I know they wanna take my place
+I can tell that love is fake
+I don't trust a word you say
+How you wanna clique up after your mistakes?
+Look you in the face and it's just not the same
+
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+
+Yeah, straight up to my face, tryna play it safe
+Vibe switch like night and day, I can see it like right away
+I came up, you changed up, I caught that whole play
+Since then, things never been the same
+
+That's when they smile in my face
+Whole time they wanna take my place
+Whole time they wanna take my place
+Whole time they wanna take my place
+Yeah, I know they wanna take my place
+I can tell that love is fake
+(I can tell that love is fake)
+I don't trust a word you say
+(I don't trust a word...)
+How you wanna clique up after your mistakes?
+(That's just what I heard)
+Look you in the face and it's just not the same
+
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face
+Straight up to my face
+
+Skrrt

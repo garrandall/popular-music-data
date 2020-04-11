@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-what-you-do-jermaine-jackson
+lyrics_url: https://genius.com/Jermaine-jackson-do-what-you-do-lyrics
 name: Do What You Do
 rankings:
 - end_date: '1984-11-02'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
 ---
+I don't mind
 
+Why don't you do what you do
+When you did what you did to me?
+Love was so good that it filled up all my needs
+
+I was crazy for you
+You were crazy for me
+How could something so right go so wrong
+My love, sweet love
+
+Why don't you say what you say
+When you say what you said anymore?
+Your eyes couldn't lie
+So long goodbye, close the door
+
+I was crazy for you
+You were crazy for me
+How could something so right go so wrong
+My love, sweet love
+
+Tell me something I didn't do
+Why did someone else have to pull you through?
+Did they steal you away like a thief in the night?
+Love like this must take flight
+
+Why don't they play what they played
+On the nights you danced with me?
+Remember the one we made love to endlessly
+
+I was crazy for you
+You were crazy for me
+And how could something so right go so wrong
+My love, sweet love
+
+Why don't you do what you do
+When you did what you did to me?
+Do what you do when you did what you did to me
+Do what you do when you did what you did to me
+Do what you do when you did what you did to me

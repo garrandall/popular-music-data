@@ -1,7 +1,8 @@
 ---
 artists:
-- Paul Simon with The Dixie Hummingbirds
-features: []
+- Paul Simon
+features:
+- The Dixie Hummingbirds
 genres: []
 key: loves-me-like-a-rock-paul-simon-with-the-dixie-hummingbirds
 name: Loves Me Like A Rock

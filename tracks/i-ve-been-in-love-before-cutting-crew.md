@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-in-love-before-cutting-crew
+lyrics_url: https://genius.com/Cutting-crew-ive-been-in-love-before-lyrics
 name: I've Been In Love Before
 rankings:
 - end_date: '1987-09-11'
@@ -91,4 +92,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+Oooh, oo oooh, cha
+Catch my breath, close my eyes
+Don't believe a word
+Things she said, overheard
+Something wrong inside
+Hits you in a minute, oooh
+Then you know you're in it, aah
 
+I've been in love before
+I've been in love before
+The hardest part is when you're in it
+I've been in love before
+I've been in love before
+
+Just one touch, just one look
+A dangerous dance
+One small word can make me feel
+Like running away
+You can't say you're in it, no, until you reach the limit
+
+I've been in love before
+I've been in love before
+The hardest part is when you're in it
+I've been in love before
+I've been in love before
+
+I've been in love before
+I've been in love before
+The hardest part is when you're in it
+I've been in love before
+I've been in love before
+
+I've been in love
+The hardest part is when you're in it
+I've been in love
+I've been in love before

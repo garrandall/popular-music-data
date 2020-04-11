@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-no-time-to-lose-carla-thomas
+lyrics_url: https://genius.com/Carla-thomas-ive-got-no-time-to-lose-lyrics
 name: I've Got No Time To Lose
 rankings:
 - end_date: '1964-08-07'
@@ -43,4 +44,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
+No time to lose (No time to lose)
 
+Love ain't got no time to lose
+I've got to find a man (Ah!)
+Make his mother friend (Ah!)
+I ain't got to try to see (Ah!)
+If you're come back to me
+
+I've got no time, woah, no time, no time to lose (No time to lose)
+I was a fool (I was a fool)
+Oh, I was such a poor fool
+
+Why I've been living here? (Ah!)
+Living here (Ah!)
+I've to find a guy (Ah!)
+And apologize
+
+I've got no time, woah, no time, no time to lose
+No time to lose (No time to lose, no time to lose)
+
+I will cry
+When you told me
+Is there a woman?
+You're gonna miss me when I'm gone
+
+Darling, my darling
+Darling, my darling ( found me...)
+
+Woah, somebody, please tell to my darling
+Have got you slept in my bed? (Ah!)
+ (Ah!)
+And if it  me (Ah!)
+That you're slept on me
+
+I've got no time, woah, no time, no time to lose
+No time to lose (I've got no time to lose)
+No time to lose (Woah, no time)
+No time to lose (I've got no time to lose)
+No time to lose (Woah, no time)
+No time to lose (I've got no time to lose)
+No time to lose (Woah, oh no...)

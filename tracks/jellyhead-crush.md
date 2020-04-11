@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jellyhead-crush
+lyrics_url: https://genius.com/Crush-uk-jellyhead-lyrics
 name: Jellyhead
 rankings:
 - end_date: '1996-08-23'
@@ -91,4 +92,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-04'
 ---
+So what if your jeans are torn
+They've been torn since Bros were cool
+I wanted you for a little while
+You got it wrong by a million miles
+Big deal, what a thrill, what a let down
+Kissing in your car
+When I should have been out
+I want the Prodigy really loud
+I want it all right now
 
+(Chorus:)
+Over and over I feel it
+Boyfriend you're alone
+You must be out of your mind
+Jellyhead, you've really blown it
+Over and over I feel it
+Boyfriend you're alone
+You must be out of your mind
+Jellyhead, you've really blown it
+
+In the slow lane
+Never change the way that I feel
+Go home, never know, never be real
+'Cause not one thing you said was true
+I'm gonna find somebody new
+Make up, break up, always the same
+Get out, what about you and me say
+I've been hanging around you too long
+When summer comes I'm gone
+
+(Chorus)
+I wanna be flying in the clear sky
+I wanna be diving in the blue
+I gotta be out in the evening
+Jellyhead, without you
+Without you
+
+(Chorus) (2x)

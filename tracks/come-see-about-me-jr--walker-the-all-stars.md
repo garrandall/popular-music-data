@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: come-see-about-me-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-come-see-about-me-lyrics
 name: Come See About Me
 rankings:
 - end_date: '1967-12-01'
@@ -52,4 +53,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
 ---
+I've been crying for you
+'Cause I'm lonely, so blue
+Smiles have all turned to tears
+But tears won't wash away my fears
+That you're never ever gonna return (Hey, hey, hey, hey)
+To ease the fire that within me burns (Hey, hey, hey, hey)
 
+
+Keeps me crying baby for you (Crying, crying, crying)
+Keeps me sighin' baby for you (Sighing, sighing, sighing)
+So why don't you hurry?
+Come on girl, see about me (Come see, see about you, yeah)
+See about you yeah, that's me (Come see, see about you now)
+
+
+(Come see, see about you yeah)
+(Come see, see about you yeah)
+
+
+I've given up my friends just for you
+My friends have gone and you too
+No more peace shall I find
+Until you come back and be mine
+No matter what you do or say (Hey, hey, hey, hey)
+I'm gonna love you anyway (Hey, hey, hey, hey)
+
+
+Keep on crying baby for you (Crying, crying, crying)
+I'm gonna keep on sighin' baby for you (Sighing, sighing, sighing)
+So come on, hurry
+Hey girl, and see about me (Come see, see about you, yeah)
+See about you girl, that's me
+
+
+(Just cryin' for you)
+(Just sighin' for you)
+(Just cryin' for you)
+(Just sighin' for you)

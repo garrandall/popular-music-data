@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-my-swag-on-soulja-boy-tell-em
+lyrics_url: https://www.musixmatch.com/lyrics/Soulja-Boy-Tell-Em/Turn-My-Swag-On
 name: Turn My Swag On
 rankings:
 - end_date: '2009-03-27'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
 ---
+Soulja Boy Tellem!
+Hopped up off tha bed,
+Turn ma swag on,
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ohh)
 
+Soulja Boy Tellem!
+Hopped up off tha bed,
+Turn ma swag on,
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ohh)
+
+Turn ma swag on,
+It's ma turn now turn it up
+Yeeeeea, yeeeea
+I put my team on, and ma theme song
+Now it's time to turn it up
+Yeeeeea, yeeeea
+
+I got a question why they hattin on me
+I got a question why they hattin on me
+I ain't did nuthin to em,
+But count this money
+And put my team on, now my
+Whole clic stunnin
+Boy wassup, yeeeea
+Boy wassup, yeeeea
+
+When I was 9 years old, I
+Put it in ma head
+That ima die for this gold
+(Soulja Boy tellem)
+Boy wassup, yeeeea
+Hopped up off tha bed
+Turn ma swag on
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ooh)
+
+Hopped up off tha bed
+Turn ma swag on
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ooh)
+
+I'm back again,
+I know a lot of yall thought I
+Wasn't coming back...
+Yeeeeea, yeeeea
+I had to prove them wrong,
+Got back in the studio and
+Came up with another hit
+Yeeeeea, yeeeea
+I told the world my story, the
+World where I'm from
+Souljaboy X L dot com, boy wassup
+Yeeeeea, yeeeea
+
+Now everytime you see me spit
+Every time you hear me rhyme
+Everytime you see me in
+Your state of town
+Say wassup
+Yeeeeea, yeeeea
+
+Hopped up off tha bed
+Turn ma swag on
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ooh)
+
+Hopped up off tha bed
+Turn ma swag on
+Took a look in tha mirror said wassup
+Yeeeeea I'm gettin money (ooh)

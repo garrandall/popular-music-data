@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-again-the-cars
+lyrics_url: https://genius.com/The-cars-hello-again-lyrics
 name: Hello Again
 rankings:
 - end_date: '1984-11-02'
@@ -67,4 +68,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
+Hello, hello again
+Hello, hello again
 
+
+You might have forgot
+The journey ends
+You tied your knots
+You made your friends
+You left the scene
+Without a trace
+One hand on the ground
+One hand in space
+
+
+Oh, you passed on mercy
+You tried the rest
+You gave your body
+You gave the best
+Staring at the green door
+Living in the sky
+You don't want to know it
+You just want to fly
+
+
+Hello (hello), hello again
+Hello (hello), hello again
+(Hello)
+
+
+I know (I know you're a dreamer)
+Who's under the gun
+I know (I know you're a dreamer)
+Who's only just begun
+
+
+Hello, hello again
+(I say) Hello, hello again
+
+
+Oh, and when there's nothing
+Nothing left to lose
+You leave it all
+To fade to blue
+
+
+(You want to feel) electric
+(You want to feel) loose
+(You want to be) eclectic
+You want to call a truce
+(Look) at the profile
+Staring at the flame
+(Waiting) for the sunshine
+Standing in the rain
+
+
+Hello, hello again
+(I said hello) Hello, hello again. (Hello again)
+(I said hello) Hello (hello), hello again
+Hello (uh oh), hello again
+
+
+Hello, hello
+Hello, hello

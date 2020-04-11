@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tracy-the-cuff-links
+lyrics_url: https://genius.com/The-cuff-links-tracy-lyrics
 name: Tracy
 rankings:
 - end_date: '1969-09-19'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
 ---
+Ba ba, ba ba ba ba
+Ba ba ba ba
+Ba ba ba ba, ba ba ba
 
+Tracy, when I'm with you
+Something you do
+Bounces me off the ceiling
+
+Tracy, day after day
+When you're this way
+I get a lovin' feeling
+
+Come with me
+Don't say no (please don't say no)
+Hold me close (and hold me close)
+Tracy never let go
+
+Tracy, your gonna be (Tracy, I love you so)
+Happy with me
+I'll build a world around you
+
+Filled with love everywhere (Tracy, oh please don't go)
+And when you're there
+You'll be so glad I found you
+
+Come with me
+Don't say no (please don't say no)
+Hold me close (and hold me close)
+Tracy, never, never, ever let me go
+
+Ba ba, ba ba ba ba
+Ba ba ba ba
+Ba ba ba ba, ba ba ba
+
+Ba ba, ba ba ba ba
+Ba ba ba ba
+Ba ba ba ba, ba ba ba
+
+Come with me
+Don't say no (please don't say no)
+Hold me close
+Tracy, never, never, ever let me go
+
+Tracy, never let me go
+Tracy, never let me go
+Tracy, never let me go

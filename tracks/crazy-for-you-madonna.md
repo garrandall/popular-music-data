@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-for-you-madonna
+lyrics_url: https://genius.com/Madonna-crazy-for-you-lyrics
 name: Crazy For You
 rankings:
 - end_date: '1985-03-08'
@@ -91,4 +92,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
 ---
+Swaying room as the music starts
+Strangers making the most of the dark
+Two by two their bodies become one
 
+
+I see you through the smokey air
+Can't you feel the weight of my stare
+You're so close but still a world away
+What I'm dying to say, is that
+
+
+I'm crazy for you
+Touch me once and you'll know it's true
+I never wanted anyone like this
+It's all brand new
+You'll feel it in my kiss
+I'm crazy for you, crazy for you
+
+
+Trying hard to control my heart
+I walk over to where you are
+Eye to eye we need no words at all
+
+
+Slowly now we begin to move
+Every breath I'm deeper into you
+Soon we two are standing still in time
+If you read my mind, you'll see
+
+
+I'm crazy for you
+Touch me once and you'll know it's true
+I never wanted anyone like this
+It's all brand new
+You'll feel it in my kiss
+You'll feel it in my kiss
+Because I'm crazy for you
+Touch me once and you'll know it's true
+I never wanted anyone like this
+It's all brand new
+You'll feel it in my kiss
+I'm crazy for you
+Crazy for you
+Crazy for you
+
+
+It's all brand new, I'm crazy for you
+And you know it's true
+I'm crazy, crazy for you
+It's all brand new, I'm crazy for you
+And you know it's true
+Yeah, I'm crazy for you
+Crazy for you, baby
+I'm crazy for you
+Crazy for you, baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-leave-me-tonight-i-ll-cry-jerry-wallace
+lyrics_url: https://genius.com/Jerry-wallace-if-you-leave-me-tonight-ill-cry-lyrics
 name: If You Leave Me Tonight I'll Cry
 rankings:
 - end_date: '1972-08-25'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
 ---
+(If you leave, take my heart, take my heart)
+If you leave me tonight I will cry
+Though you say we will soon meet again
+For the hours I've spent here with you
+Are like words from a poet's pen
 
+
+Words like love, and truth, and goodness
+Words like Until death us do part
+I will never love another
+Take my heart, take my heart, take my heart
+(Take my heart)
+
+Yes, the hours I've spent here with you
+Are like words from a poet's pen
+
+
+Take my heart, take my heart, take my heart
+(Take my heart)

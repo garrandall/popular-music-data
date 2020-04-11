@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-three-bells-the-browns
+lyrics_url: https://genius.com/The-browns-the-three-bells-les-trois-cloches-lyrics
 name: The Three Bells
 rankings:
 - end_date: '1959-08-02'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
 ---
+There's a village, hidden deep in the valley
+Among the pine trees, half forlorn
+And there, on a sunny morning
+Little Jimmy Brown was born
 
+All the chapel bells were ringing
+In the little valley town
+And the song that they were singing
+Was for baby Jimmy Brown
+
+Then the little congregation
+Prayed for guidance from above
+"Lead us not into temptation
+Bless this hour of meditation
+Guide him with eternal love."
+
+There's a village, hidden deep in the valley
+Beneath the mountains high above
+And there, twenty years thereafter
+Jimmy was to meet his love
+
+All the chapel bells were ringing
+'Twas a great day in his life
+Cause the song that they were singing
+Was for Jimmy and his wife
+
+Then the little congregation
+Prayed for guidance from above
+"Lead us not into temptation
+Bless, O Lord, this celebration
+May their lives be filled with love."
+
+From the village, hidden deep in the valley
+One rainy morning dark and gray
+A soul winged its way to Heaven
+Jimmy Brown had passed away
+
+Just one lonely bell was ringing
+In the little valley town
+'Twas farewell that it was singing
+To our dear old Jimmy Brown
+
+And the little congregation
+Prayed for guidance from above
+"Lead us not into temptation
+May his soul find the salvation
+Of thy great eternal love."

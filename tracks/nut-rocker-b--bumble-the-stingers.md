@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: nut-rocker-b--bumble-the-stingers
+lyrics_url: https://genius.com/B-bumble-and-the-stingers-nut-rocker-lyrics
 name: Nut Rocker
 rankings:
 - end_date: '1962-03-09'
@@ -52,4 +53,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
 ---
-
+My Name is Tim and im going Home
+My Name is Tim and im going Home
+My Name is Tim and im going Home
+My Name is Tim and im going Home
+My Name is Tim and im going Home
+My Name is Tim and im going
+Homme
+My name is Tim and get getting drunk
+My name is Tim and get getting drunk
+My name is Tim and get getting drunk
+My name is Tim and get getting drunk
+My name is Tim and get getting drunk
+My name is Tim and I'm
+Drunk

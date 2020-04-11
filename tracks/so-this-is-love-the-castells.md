@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-this-is-love-the-castells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Castells/So-This-Is-Love
 name: So This Is Love
 rankings:
 - end_date: '1962-04-20'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
 ---
+So this is love... real love
+And it's like Paradise.oh yes
+Really a paradise...
+For you and for me...
 
+So this is love.real love.
+And it's so wonderful. oh yes.
+Even more wonderful.
+Than I thought it could be...
+
+Not long ago I didn't know.
+What this thing called love was about.
+Now that you're here, now that you're near.
+Each beat of my heart cries out, so...
+
+This is love... real love
+And it's so heavenly... oh yes.
+It's very plain to see
+We're really in love.
+
+MUSICAL INTERLUDE
+
+Oh yes, so this is love...
+Oh yes, so this is love...

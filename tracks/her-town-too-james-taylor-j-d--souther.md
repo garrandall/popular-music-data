@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: her-town-too-james-taylor-j-d--souther
+lyrics_url: https://www.musixmatch.com/lyrics/James-Taylor-J-D-Souther/Her-Town-Too
 name: Her Town Too
 rankings:
 - end_date: '1981-03-20'
@@ -64,4 +65,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
 ---
+She's been afraid to go out
+She's afraid of the knock on her door
+There's always a shade of a doubt
+She can never be sure
+Who comes to call
+Maybe the friend of a friend of a friend
+Anyone at all
+Anything but nothing again
+It used to be her town
+It used to be her towntoo
+It used to be her town
+It used to be her towntoo
+Seems like even her old girlfriends
+Might be talking her down
+She's got her name on the grapevine
+Running up and down
+The telephone line
+Talking 'bout
+Someone saidsomeone said
+Something 'boutsomething else
+Someone might have said about her
+She always figured that they were her friends
+But maybe they can live without her
+It used to be her town
+It used to be her towntoo
 
+It used to be her town
+It used to be her towntoo
+Wellpeople got used to seeing them both together
+But now he's gone and life goes on
+Nothing lasts foreveroh no
+She gets the house and the garden
+He gets the boys in the band
+Some of them his friends
+Some of them her friends
+Some of them understand
+Lord knows that this is just a small town city
+Yesand everyone can see you fall
+It's got nothing to do with pity
+I just wanted to give you a call
+It used to be your town
+It used to be my towntoo
+You never know 'till it all falls down
+Somebody loves you
+Somebody loves you
+Darlingsomebody still loves you
+I can still remember
+When it used to be her towntoo
+It used to be your town
+It used to be my towntoo

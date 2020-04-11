@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-started-a-joke-bee-gees
+lyrics_url: https://genius.com/Bee-gees-i-started-a-joke-lyrics
 name: I Started A Joke
 rankings:
 - end_date: '1968-12-27'
@@ -51,4 +52,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
 ---
+I started a joke, which started the whole world crying
+But I didn't see that the joke was on me, oh no
+I started to cry, which started the whole world laughing
+Oh, if I'd only seen that the joke was on me
 
+I looked at the skies, running my hands over my eyes
+And I fell out of bed, hurting my head from things that I'd said
+'Til I finally died, which started the whole world living
+Oh, if I'd only seen that the joke was on me
+
+I looked at the skies, running my hands over my eyes
+And I fell out of bed, hurting my head from things that I'd said
+'Til I finally died, which started the whole world living
+Oh, if I'd only seen, oh yeah, that the joke was on me
+Oh no, that the joke was on me, oh

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-funky-judge-bull-the-matadors
+lyrics_url: https://www.musixmatch.com/lyrics/Bull-and-the-Matadors/The-Funky-Judge
 name: The Funky Judge
 rankings:
 - end_date: '1968-08-30'
@@ -64,4 +65,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
 ---
+I didn't do it
+I didn't do it, officer
+I didn't do it, his honor
+I didn't do it
 
+Judge, you sure is funky
+Judge, you sure is funky
+Judge, you sure is funky
+Judge, you sure is funky
+
+Now, listen
+I didn't do it, your honor
+I didn't do it, judge
+
+Judge, you sure is funky
+(Got to be funky)
+Judge, you sure is funky
+
+Judge, judge, judge
+Judge, judge, oww
+
+Judge, you sure is funky
+(Got to be a funky judge)
+Judge, you sure is funky
+Judge, you sure is funky
+Judge, you sure is funky
+
+Now, listen
+I didn't do it, your honor
+What she told you was a lie
+I call on my mother, woo
+She'll give you a alibi
+
+I didn't do it, your honor
+She told you a lie
+And now you're gonna
+Send me away and
+I wanna know why
+
+Judge, you sure is funky
+(Got to be a funky judge)
+Judge, you sure is funky
+(Good God almighty)
+Judge, you sure is funky
+Judge, you sure is funky
+
+Now listen
+I didn't do it, your honor
+I didn't do it, judge
+
+Judge, you sure is funky
+(Got to be a funky judge)
+Judge, you sure is funky
+
+Judge, judge, judge
+Judge, judge, oww
+Judge
+
+(Where you from, boy)
+I'm from Alabama, your honor
+(Seventeen years) what
+I didn't do it

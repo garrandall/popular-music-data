@@ -5,6 +5,7 @@ features:
 - Patty Smyth
 genres: []
 key: beat-of-a-heart-scandal-patty-smyth
+lyrics_url: https://www.musixmatch.com/lyrics/Scandal/Beat-of-a-Heart
 name: Beat Of A Heart
 rankings:
 - end_date: '1985-02-01'
@@ -64,4 +65,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
 ---
+The heat of the sun
+Was a little too much today
+Love on the wing
+Flew so high it just melted away
 
+So sweet on the run
+So little time to make you see
+What can't be undone
+Was maybe never meant to be
+
+But sometimes a fool
+Gets lucky and wins
+Sometimes the innocent pay
+For an old man's sin
+
+But when the amber light of daylight's gone
+All I want to feel
+Is the beat of a heart
+
+The streets that night
+Had a little too much to say
+And the look in your eyes
+It was a little too far away
+
+But sometimes a fool
+Gets lucky and wins
+Sometimes the innocent pay
+For an old man's sin
+Sometimes a fool
+Gets lucky and wins
+Sometimes the innocent pay
+For an old man's sin
+
+But when the amber light of daylight's gone
+All I want to feel
+Is the beat of a heart
+Just a little life tickin' away
+The beat of a heart
+You come and take me far away
+
+Sometimes a fool
+Gets lucky and wins
+Sometimes the innocent pay
+For an old man's sin
+
+But when the tears are dark
+And we stand as one
+All I want to feel
+And when the amber light of daylight's gone
+All I want to hear
+
+The beat of a heart
+The beat of a heart
+You come and take me far away

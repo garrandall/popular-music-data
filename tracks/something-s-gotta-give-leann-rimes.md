@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-s-gotta-give-leann-rimes
+lyrics_url: https://www.musixmatch.com/lyrics/LeAnn-Rimes/Something-s-Gotta-Give
 name: Something's Gotta Give
 rankings:
 - end_date: '2006-03-31'
@@ -79,4 +80,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
 ---
+Jenny got a job, a cat named Jake
+31 candles on her birthday cake
+Next year
 
+Thought by now she'd have a man
+Two car seats and a minivan
+But it still ain't here (hey)
+
+Alright
+
+She been lookin' for Mr. Right so long
+But all she found is Mr. Wrong
+And that's the pits
+
+She's drawn a line that she won't cross
+And her and time are facing off
+She says something's gotta give
+
+Somethin' gotta give me butterflies
+Somethin' gotta make me feel alive
+Somethin' gotta give me dreams at night
+Somethin' gotta make me feel alright
+I don't know where it is
+Yeah, but something's gotta give
+
+Somethin' gotta give
+
+Friday night she had a date
+Cell-phone junky, half hour late
+Hey that's the biz, baby
+
+She's riding out this twists of fate
+She's had all that she can take
+She says something's gotta give
+
+Somethin' gotta give me butterflies
+Somethin' gotta make me feel alive
+Yeah somethin' gotta give me dreams at night
+Somethin' gotta make me feel alright
+I don't know where it is
+Yeah but something's gotta give...
+
+I swear, there's got to be a meant-to-be for me out there
+Somewhere, someday
+I'm gonna find someone, somehow, someway
+
+Jenny's got a job, a cat named Jake
+31 candles on her birthday cake
+Next year
+
+Oh, she thought by now she'd have a man
+With two car seats and a minivan
+She says something's got,
+Something's got, somthing's got
+
+Somethin' gotta give me butterflies
+Somethin' gotta make me feel alive
+Somethin' gotta give me dreams at night
+Somethin' gotta make me feel alright
+I don't know where it is
+Yeah but something's gotta
+I don't know where it is
+Yeah but something's gotta
+I don't know where it is
+Yeah but something's gotta give
+
+Something's gotta give

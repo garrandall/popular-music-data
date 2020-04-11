@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-of-soap-the-jarmels
+lyrics_url: https://genius.com/The-jarmels-a-little-bit-of-soap-lyrics
 name: A Little Bit Of Soap
 rankings:
 - end_date: '1961-08-06'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+A little bit of soap
+Will wash away your lipstick on my face
+But a little bit of soap will never
+Never never ever erase
+The pain in my heart
+And my eyes
+As I go through the lonely hills
+A little bit of soap will never wash away my tears
 
+Mmm, a little bit of soap
+Will wash away your powder from my chin
+But a little bit of soap will never
+Never never ever begin
+To take away the hurt
+That I feel
+As I go through the lonely hills
+A little bit of soap will never wash away my tears
+
+Mmm, have you heard a love begins to die
+Isn't one to cry, night and day
+But like a bird, you left your robin's nest
+And like all the rest, you flew away
+
+Mmm, a little bit of soap
+Will take away your perfume eventually
+But a little bit of soap will never
+Wash away the memory
+Of your name
+In the night
+That I call through the lonely hills
+A little bit of soap will never wash away my tears
+
+I'll never lose the memory of your name
+In the night
+That I call through the lonely hills
+A little bit of soap will never wash away my tears
+Mmm, a little bit of soap will never wash away my tears
+Mmm, it's gonna never never never wash away my tears

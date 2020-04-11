@@ -5,6 +5,7 @@ features:
 - Angela Winbush
 genres: []
 key: floatin--on-your-love-the-isley-brothers-angela-winbush
+lyrics_url: https://genius.com/The-isley-brothers-floatin-on-your-love-lyrics
 name: Floatin' On Your Love
 rankings:
 - end_date: '1996-10-04'
@@ -80,4 +81,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
 ---
+Do you wanna float on? Yeah
+Do you wanna float on? Yeah
 
+
+Float on, float on, float on your love
+Float on, float on, float on your love
+
+
+I call my baby's name
+She gives me everything
+She takes me higher and higher
+She plays with my desire
+She knows my pleasures zone
+And works it all night long
+Her love is slow and slick
+Told me don't come too quick
+
+
+Every day I pray our love
+Floats on and on and on
+Hear me calling out to you, girl
+It's all that I can do, girl
+
+
+Float on, float on, float on, float on
+(Floatin' on your lovin') Float on your love
+Float on, float on
+(Floatin' on your lovin', girl) Float on your love
+
+
+I know what's on his mind
+He wants it all the time
+He's always at my door
+Keeps asking me for more
+Says he can't get enough
+Sometimes he likes it rough
+You know I'm gonna treat him right
+Gonna do it day and night
+
+
+Every day I pray our love
+Floats on and on and on
+Hear me calling out to you, boy
+That's all that I can do, boy
+
+
+Float on, float on, float on, float on
+(Floatin' on your lovin') Float on your love
+Float on, float on
+(Floatin' on your love, baby) Float on your love
+Float on, float on
+(Floatin' on your lovin') Float on your love
+(Floatin' on your love) Float on, float on
+(Floatin' on your lovin') Float on your love
+
+
+Do you wanna float on? Yeah
+Do you wanna float on? Yeah
+
+
+Float on, float on, float on your love
+(Oh yeah, baby, float on)
+Float on, float on
+(Floatin' on your love) float on your love
+(Oh, float on) Float on, float on
+(On your love, girl) Float on your love
+(I'm floatin' on, and on) Float on, float on
+(On your love) Float on your love

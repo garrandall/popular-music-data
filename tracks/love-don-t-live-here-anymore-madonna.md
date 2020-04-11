@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-don-t-live-here-anymore-madonna
+lyrics_url: https://genius.com/Madonna-love-dont-live-here-anymore-lyrics
 name: Love Don't Live Here Anymore
 rankings:
 - end_date: '1996-04-26'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
 ---
+You abandoned me
+Love don't live here anymore
+Just a vacancy
+Love don't live here anymore
 
+
+When you lived inside of me
+There was nothing I could conceive
+That you wouldn't do for me
+Troubles seemed so far away
+You changed that right away, baby
+
+
+You abandoned me
+Love don't live here anymore
+Just a vacancy
+Love don't live here anymore
+
+
+Love don't live here anymore
+Just emptiness and memories
+Of what we had before you went away
+Found another place to stay, another home
+
+
+You abandoned me
+Love don't live here anymore
+Just a vacancy
+Love don't live here anymore
+
+
+In the windmills of my eyes
+Everyone can see the loneliness inside me
+Why'd ya have to go away?
+Don't you know I miss you so and need your love?
+
+
+You abandoned me
+Love don't live here anymore
+Just a vacancy
+Love don't live here anymore

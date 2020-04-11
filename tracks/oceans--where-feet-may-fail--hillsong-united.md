@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oceans--where-feet-may-fail--hillsong-united
+lyrics_url: https://genius.com/Hillsong-united-oceans-where-feet-may-fail-lyrics
 name: Oceans (Where Feet May Fail)
 rankings:
 - end_date: '2014-02-07'
@@ -59,4 +60,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
 ---
+You call me out upon the waters
+The great unknown, where feet may fail
+And there I find You in the mystery
+In oceans deep, my faith will stand
 
+
+And I will call upon Your name
+And keep my eyes above the waves
+When oceans rise, my soul will rest in Your embrace
+For I am Yours and You are mine
+
+
+Your grace abounds in deepest waters
+Your sovereign hand will be my guide
+Where feet may fail and fear surrounds me
+You've never failed and You won't start now
+
+
+So I will call upon Your name
+And keep my eyes above the waves
+When oceans rise, my soul will rest in Your embrace
+For I am Yours and You are mine
+
+
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+Take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+Take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+Take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+And take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+Take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Spirit lead me where my trust is without borders
+Let me walk upon the waters wherever You would call me
+And take me deeper than my feet could ever wander
+And my faith will be made stronger in the presence of my Saviour
+Yeah-yeah-yeah-yeah
+Oh, Jesus, You're my God!
+
+
+I will call upon Your name
+Keep my eyes above the waves
+My soul will rest in Your embrace
+I am Yours and You are mine

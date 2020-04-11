@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: man-on-the-moon-r-e-m-
+lyrics_url: https://genius.com/Rem-man-on-the-moon-lyrics
 name: Man On The Moon
 rankings:
 - end_date: '1993-02-12'
@@ -67,4 +68,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-15'
 ---
+Mott the Hoople and the Game of Life
+Yeah, yeah, yeah, yeah
+Andy Kaufman in the wrestling match
+Yeah, yeah, yeah, yeah
+Monopoly, Twenty-one, Checkers, and Chess
+Yeah, yeah, yeah, yeah
+Mister Fred Blassie in a breakfast mess
+Yeah, yeah, yeah, yeah
+Let's play Twister, let's play Risk
+Yeah, yeah, yeah, yeah
+See you in heaven if you make the list
+Yeah, yeah, yeah, yeah
 
+
+Now, Andy, did you hear about this one?
+Tell me, are you locked in the punch?
+Andy, are you goofing on Elvis? Hey, baby
+Are we losing touch?
+
+
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool
+
+
+Moses went walking with the staff of wood
+Yeah, yeah, yeah, yeah
+Newton got beaned by the apple good
+Yeah, yeah, yeah, yeah
+Egypt was troubled by the horrible asp
+Yeah, yeah, yeah, yeah
+Mister Charles Darwin had the gall to ask
+Yeah, yeah, yeah, yeah
+
+
+Now, Andy, did you hear about this one?
+Tell me, are you locked in the punch?
+Hey, Andy, are you goofing on Elvis? Hey, baby
+Are you having fun?
+
+
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool
+
+
+Here's a little agit for the never-believer
+Yeah, yeah, yeah, yeah
+Here's a little ghost for the offering
+Yeah, yeah, yeah, yeah
+Here's a truck stop instead of Saint Peter's
+Yeah, yeah, yeah, yeah
+Mister Andy Kaufman's gone wrestling (wrestling bears)
+Yeah, yeah, yeah, yeah
+
+
+Now, Andy, did you hear about this one?
+Tell me, are you locked in the punch?
+Hey, Andy, are you goofing on Elvis? Hey, baby
+Are we losing touch?
+
+
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool
+
+
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool
+If you believed they put a man on the moon
+Man on the moon
+If you believed there's nothing up his sleeve
+Then nothing is cool

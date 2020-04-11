@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-song-the-cure
+lyrics_url: https://genius.com/The-cure-lovesong-lyrics
 name: Love Song
 rankings:
 - end_date: '1989-08-18'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
 ---
+Whenever I'm alone with you
+You make me feel like I am home again
+Whenever I'm alone with you
+You make me feel like I am whole again
 
+
+Whenever I'm alone with you
+You make me feel like I am young again
+Whenever I'm alone with you
+You make me feel like I am fun again
+
+
+However far away
+I will always love you
+However long I stay
+I will always love you
+Whatever words I say
+I will always love you
+I will always love you
+
+Fly me to the moon
+
+
+Whenever I'm alone with you
+You make me feel like I am free again
+Whenever I'm alone with you
+You make me feel like I am clean again
+
+
+However far away
+I will always love you
+However long I stay
+I will always love you
+Whatever words I say
+I will always love you
+I will always love you

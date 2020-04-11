@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: charity-ball-fanny
+lyrics_url: https://genius.com/Fanny-charity-ball-lyrics
 name: Charity Ball
 rankings:
 - end_date: '1971-09-24'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
 ---
+Dance, ooh, stand, ooh
+Move to charity ball
+Dance, ooh, stand, ooh
+Move to charity ball
 
+Get the musicians ready
+Get them good and hot
+Good and hot, woo
+Stand and deliver
+Give em everything you've got
+You got my number
+
+Charity ball
+Ooh, stand, ooh
+Move to Charity Ball
+Dance, ooh, stand, ooh
+Move to charity ball
+
+Come on and grab a partner
+We're gonna roll
+Till the break of dawn
+And I need you
+I need you
+I need you
+Charity Ball
+
+I'm ready (I wanna be there)
+Yes, I'm ready (I wanna be there)
+I'm ready (I wanna be there)
+Charity ball
+
+I wanna be there
+I wanna be there
+I wanna be there

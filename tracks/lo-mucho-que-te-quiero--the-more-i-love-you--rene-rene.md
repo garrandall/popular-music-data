@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lo-mucho-que-te-quiero--the-more-i-love-you--rene-rene
+lyrics_url: https://genius.com/Rene-rene-lo-mucho-que-te-quiero-lyrics
 name: Lo Mucho Que Te Quiero (The More I Love You)
 rankings:
 - end_date: '1968-11-29'
@@ -56,4 +57,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
 ---
+Quisiera que supieres vida mia
+Lo mucho que to quiero y que te adoro
+Tu vivas en mi pensamiento y ahora me
+Arrepiento si yo te hice llorar
 
+Yo nunca te hablo a ti con la mentira
+Yo siempre to hablo a ti con la verdad
+Quisiera que olvides el pasado
+Que vuelvas a mi lado
+Que tengas compasión
+
+Believe me when I say how much I love you
+Believe me when I say how much I care
+Forgive me, give me peace of mind
+All I need is time to prove my love for you
+
+Quisiera que supieres vida mia
+Lo mucho que to quiero y que te adoro
+Tu vivas en mi pensamiento y ahora me
+Arrepiento si yo te hice llorar
+
+Believe me when I say how much I love you
+Believe me when I say how much I care
+Forgive me, give me peace of mind
+All I need is time to prove my love for you

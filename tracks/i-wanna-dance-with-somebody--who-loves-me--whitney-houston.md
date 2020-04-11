@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-dance-with-somebody--who-loves-me--whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-i-wanna-dance-with-somebody-who-loves-me-lyrics
 name: I Wanna Dance With Somebody (Who Loves Me)
 rankings:
 - end_date: '1987-05-22'
@@ -87,4 +88,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
 ---
+Huh
+Yeah
+Woo!
+Hey yeah
+Huh
+Ooh yeah
+Uh-huh
+Yeah
+I want to dance
 
+
+Clock strikes upon the hour
+And the sun begins to fade
+Still enough time to figure out
+How to chase my blues away
+I've done alright up 'til now
+It's the light of day that shows me how
+And when the night falls
+Loneliness calls
+
+
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
+
+
+I've been in love and lost my senses
+Spinning through the town
+Sooner or later, the fever ends
+And I wind up feeling down
+I need a man who'll take a chance
+On a love that burns hot enough to last
+So when the night falls
+My lonely heart calls
+
+
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
+Oh! I wanna dance with somebody
+I wanna feel the heat
+Yeah! I wanna dance with somebody
+With somebody who loves me
+
+
+Somebody who, somebody who
+Somebody who loves me
+Yeah
+Somebody who, somebody who
+To hold me in his arms, oh
+I need a man who'll take a chance
+On a love that burns hot enough to last
+So when the night falls
+My lonely heart calls
+
+
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
+
+
+Ooh, ooh
+Ooh (Dance)
+Come on, baby
+Ha ha ha ha (Dance)
+Woo!
+Yeah (Dance)
+Now get with this
+Whoa-oh-oh-oh oh-oh-oh (Dance)
+Don't-cha wanna dance? (Dance)
+With me, baby
+Don't-cha wanna dance? (Dance)
+With me, boy
+Hey don't-cha wanna dance? (Dance)
+With me, baby
+With somebody who loves me
+Don't-cha wanna dance, say you wanna dance
+Don't-cha wanna dance? (Dance)
+Don't-cha wanna dance, say you wanna dance
+Don't-cha wanna dance? (Dance)
+Don't-cha wanna dance, say you wanna dance, uh-huh (Dance)
+With somebody who loves me
+Ooh, ooh (Dance)
+Ooh, ooh (Dance)
+Ooh, ooh (Dance)
+Hey, baby
+Don't-cha wanna love, don't-cha wanna love me?

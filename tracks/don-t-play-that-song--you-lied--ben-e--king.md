@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-play-that-song--you-lied--ben-e--king
+lyrics_url: https://genius.com/Ben-e-king-dont-play-that-song-you-lied-lyrics
 name: Don't Play That Song (You Lied)
 rankings:
 - end_date: '1962-04-27'
@@ -55,4 +56,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
 ---
+Don't play it no more
+Don't play it no more
+Don't play it no more
+No, no, no, no, no, no, no
 
+Don't play that song for me
+It brings back memories
+Of days that I once knew
+The days I spent with you
+
+Oh no, don't let it play
+It fills my heart with pain
+Please stop it right away
+I remember just-a what it said
+
+It said (Darling, I love you)
+You know that you lied
+(Darling, I love you)
+You know that you lied
+(Darling, I love you)
+You know that you lied(whoa), you lied(whoa)
+You
+
+
+
+I remember on our first date
+You kissed me and you walked away
+You were only seventeen
+I never thought you'd act so mean
+
+You said (Darling, I love you)
+But, baby, you lied
+(Darling, I love you)
+Yes, baby, you lied
+(Darling, I love you)
+Mmm, you know you lied (whoa), oh
+(Whoa, whoa, whoa, whoa)
+
+(Darling, I love you)
+You know that you lied, darlin'
+(Darling, I love you)
+You know that you lied
+(Darling, I love you)
+You know that you lied (whoa), you lied (whoa)
+You
+
+Go on and hurt me, baby
+Do what you will But baby you told me you loved me
+You told me you cared
+You said, "I'll go with you darling almost anywhere
+But darling, you know that you lied, lied, lied, lied, lied

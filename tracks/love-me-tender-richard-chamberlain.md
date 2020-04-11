@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-tender-richard-chamberlain
+lyrics_url: https://www.musixmatch.com/lyrics/Richard-Chamberlain/Love-Me-Tender
 name: Love Me Tender
 rankings:
 - end_date: '1962-10-12'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+Love me tender,
+Love me sweet,
+Never let me go.
+You have made my life complete,
+And I love you so.
 
+Love me tender,
+Love me true,
+All my dreams fulfilled.
+For my darlin' I love you,
+And I always will.
+
+Love me tender,
+Love me long,
+Take me to your heart.
+For it's there that I belong,
+And we'll never part.
+
+Love me tender,
+Love me dear,
+Tell me you are mine.
+I'll be yours through all the years,
+Till the end of time.
+
+(When at last my dreams come true
+Darling this I know
+Happiness will follow you
+Everywhere you go).

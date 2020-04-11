@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: jackson-nancy-sinatra-lee-hazlewood
+lyrics_url: https://genius.com/Nancy-sinatra-and-lee-hazlewood-jackson-lyrics
 name: Jackson
 rankings:
 - end_date: '1967-06-30'
@@ -44,4 +45,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
 ---
+We got married in a fever
+Hotter than a pepper sprout
+We been talkin' 'bout Jackson
+Ever since the fire went out
+I'm goin' to Jackson
+I'm gonna mess around (yeah?)
+Yeah, I'm goin' to Jackson
+Look out Jackson town
 
+Well, go on down to Jackson
+Go ahead and wreck your health (hmm)
+Go play your hand, you big-talkin' man
+Make a big fool of yourself
+Yeah, yeah, go to Jackson
+But go comb that hair
+I'm gonna snowball Jackson
+Go ahead and see if I care
+
+When I breeze into that city
+The people gonna stoop and bow (ha ha)
+All them women gonna make me teach 'em
+What they don't know how
+I'm goin' to Jackson
+Ya turn-a loose-a my coat
+'cause I'm goin' to Jackson
+Goodbye, that's all she wrote
+
+They'll laugh at you in Jackson (I doubt it)
+And I'll be dancin' on a pony keg
+They'll lead you 'round that town
+Like a scalded hound
+With your tail tucked between your legs
+Yeah, yeah, yeah, go to Jackson
+You big-talkin' man
+And I'll be waitin' there in Jackson
+Behind my Japan fan
+
+We got married in a fever
+Hotter than a pepper sprout
+We been talkin' 'bout Jackson
+Ever since the fire went ou-ou-out
+Go to Jackson and that's a natural fact
+We're goin' to Jackson
+Ain't never comin' back
+
+We got married in a fever
+Hotter than a pepper sprout
+
+We been talkin' 'bout Jackson

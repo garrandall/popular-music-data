@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-onion-song-marvin-gaye-tammi-terrell
+lyrics_url: https://www.musixmatch.com/lyrics/Marvin-Gaye/The-Onion-Song
 name: The Onion Song
 rankings:
 - end_date: '1970-04-24'
@@ -36,4 +37,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
 ---
-
+The world is just a great big onion
+And pain and fear are the spices that make you cry
+Oh, and the only way to get rid of this great big onion
+Is to plant love seeds until it dies, uh huh
+Hey world! We got a great big job to do
+Yeah, we need you

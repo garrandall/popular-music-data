@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: michael-the-highwaymen
+lyrics_url: https://genius.com/The-highwaymen-folk-michael-lyrics
 name: Michael
 rankings:
 - end_date: '1961-07-16'
@@ -75,4 +76,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+(Michael, row the boat ashore, hallelujah)
+(Michael, row the boat ashore, hallelujah)
 
+Sister, help to trim the sails (Hallelujah)
+Sister, help to trim the sails (Hallelujah)
+
+(Michael, row the boat ashore, hallelujah)
+(Michael, row the boat ashore, hallelujah)
+
+The River Jordan is chilly and cold (Hallelujah)
+Chills the body but not the soul (Hallelujah)
+
+(Michael, row the boat ashore, hallelujah)
+(Michael, row the boat ashore, hallelujah)
+
+River is deep and the river is wide (Hallelujah)
+Milk and honey on the other side (Hallelujah)
+
+(Michael, row the boat ashore, hallelujah)
+(Michael, row the boat ashore, hallelujah)

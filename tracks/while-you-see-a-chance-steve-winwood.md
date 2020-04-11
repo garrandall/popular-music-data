@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: while-you-see-a-chance-steve-winwood
+lyrics_url: https://genius.com/Steve-winwood-while-you-see-a-chance-lyrics
 name: While You See A Chance
 rankings:
 - end_date: '1981-02-13'
@@ -79,4 +80,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
 ---
+Stand up in a clear blue morning
+Until you see what can be
+Alone in a cold day dawning
+Are you still free? Can you be?
 
+When some cold tomorrow finds you
+When some sad old dream reminds you
+How the endless road unwinds you
+
+While you see a chance take it
+Find romance fake it
+Because its all on you
+
+Dont you know by now
+No one gives you anything?
+And dont you wonder how you keep on moving?
+One more day your way, oh your way
+
+When theres no one left to leave you
+Even you dont quite believe you
+Thats when nothing can deceive you
+
+While you see a chance take it
+Find romance fake it
+Because its all on you
+
+Stand up in a clear blue morning
+Until you see what can be
+Alone in a cold day dawning
+Are you still free? Can you be?
+
+And that old gray wind is blowing
+And theres nothing left worth knowing
+And its time you should be going
+
+While you see a chance take it
+Find romance fake it
+Because its all on you
+
+While you see a chance take it
+Find romance
+While you see a chance take it
+Find romance
+
+While you see a chance take it
+Find romance
+While you see a chance take it
+Find romance
+
+While you see a chance take it
+Find romance
+While you see a chance take it
+Find romance

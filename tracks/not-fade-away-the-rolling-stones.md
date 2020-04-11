@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-fade-away-the-rolling-stones
+lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/notfadeaway.html
 name: Not Fade Away
 rankings:
 - end_date: '1964-05-08'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
 ---
-
+I wanna tell you how it's gonna be
+You're gonna give your love to me
+I'm gonna love you night and day
+Love is love and not fade away
+And my love is bigger than a Cadillac
+I'll try to show it if you drive me back
+Your love for me has got to be real
+Before you'd have noticed how I feel
+Love real not fade away
+Well love real not fade away
+Yeah
+I wanna tell you how it's gonna be
+You're gonna give your love to me
+Love that lasts more than one day
+Well love is love and not fade away
+Well love is love and not fade away
+Well love is love and not fade away
+Well love is love and not fade away
+Not fade away
+Not fade away

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad-eyes-brooklyn-dreams
+lyrics_url: https://genius.com/Brooklyn-dreams-sad-eyes-lyrics
 name: Sad Eyes
 rankings:
 - end_date: '1977-11-18'
@@ -27,4 +28,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
 ---
+When I first saw you
+You were sunshine
+You were a smile
+That made rainbows
 
+Sad eyes, let me take you home
+Come with me
+You'll never have to roam
+My house would be your home
+
+You're a real fine lady
+I know you know it too
+You wanna be with me
+And I wanna be with you
+
+So why don't we get together
+'Cause who's fooling who
+You ain't fooling me
+And I ain't fooling you
+
+Give me a chance
+And I'll show you, baby
+One little chance
+Just to hold you
+
+Sad eyes, let me take you home
+Come with me
+You'll never have to roam
+My house would be your home
+
+We'll have a good time, lady
+Just you wait and see
+I'm gonna fall for you
+I hope you're gonna fall for me
+
+And after a night together
+I know you will agree
+I know you will stay
+For eternity
+
+Yeah, you were sunshine
+You were a smile
+That made rainbows
+
+Sad eyes, let me take you home
+Come with me
+You'll never have to roam
+My house would be your home
+
+(My house would be your home)
+You'd never have to roam
+(You'd never have to roam)
+Yeah, yeah
+
+Give me a chance
+And I'll show you
+One little chance
+Just to hold you
+
+Sad eyes, let me take you home
+Come with me
+(Come with me)
+You'll never have to roam
+Sad eyes, sad eyes, we're going home
+
+You were a smile
+That made rainbows
+When I first saw you
+Right then I knew
+
+Sad eyes, oh, sad eyes
+Sad eyes, take you home
+Sad eyes, let me take you home
+Sad eyes, you'll never have to roam
+Sad eyes

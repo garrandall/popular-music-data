@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-latin-lupe-lu-the-kingsmen
+lyrics_url: https://genius.com/The-kingsmen-little-latin-lupe-lu-lyrics
 name: Little Latin Lupe Lu
 rankings:
 - end_date: '1964-07-17'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+Talkin' bout my baby
+Ahhh, Little Latin Lupe Lu
+She's a high flyin' baby
+Ain't no dance she could'nt do
+She's my groovy little baby
+Whoa Little Latin Lupe Lu
 
+Ah if you wanna do the duck
+Lupe Lu can put it down
+And the wah wah watusi
+She's the best for miles around
+She's my pretty little baby
+Whoa Little Latin Lupe Lu
+
+Bama bama Lupe Lu
+Oh shake shake it Lupe
+Watusi pretty baby
+Come on do what you do
+She's my pretty little baby
+Whoa Little Latin Lupe Lu
+
+Well if you wanna do the twist
+Lupe Lu can put it down
+And the wah wahtusi
+She's the best for miles around
+She's my groovy little baby
+Woah Little Latin Lupe Lu

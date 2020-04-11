@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-blue-al-martino
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Love-Is-Blue-L-amour-est-Bleu
 name: Love Is Blue
 rankings:
 - end_date: '1968-02-16'
@@ -35,4 +36,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
 ---
+Blue, blue
+My world is blue
+Blue is my world
+Now I'm without you
 
+Gray, gray my
+Life is gray
+Cold is my heart
+Since you went away
+
+Red, red
+My eyes are red
+Crying for you
+Alone in my bed
+
+Green, green
+My jealous heart
+I doubted you
+And now we're apart
+
+When we met
+How the bright sun shone
+Then love died
+Now the rainbow is gone
+
+Black, black
+The nights I've known
+Longing for you
+So lost and alone
+
+Gone, gone
+The love we knew
+Blue is my world
+Now I'm without you
+
+When we met
+How the bright sun shone
+Then love died
+Now the rainbow is gone
+
+Black, black
+The nights I've known
+Longing for you
+So lost and alone
+
+Blue, blue
+My world is blue
+Blue is my world
+Now I'm without you

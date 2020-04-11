@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-get-angry-joanie-sommers
+lyrics_url: https://genius.com/Joanie-sommers-johnny-get-angry-lyrics
 name: Johnny Get Angry
 rankings:
 - end_date: '1962-06-01'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-25'
 ---
+Johnny I said we were through
+Just to see what you would do
+You stood there, and hung your head
+Made me wish that I were dead
 
+Oh, Johnny get angry
+Johnny get mad
+Give me the biggest lecture that I ever had
+I want a brave man, I want a cave man
+Johnny show me that you care, really care for me
+
+Every time you dance with me
+You let Freddy cut in constantly
+When he does, you never speak
+Must you always be so meek?
+
+Oh Johnny get angry, Johnny get mad
+Give me the biggest lecture that I ever had
+I want a brave man, I want a cave man
+Johnny show me that you care, really care for me
+
+Every girl wants someone who
+She can always look up to
+You know I love you, ofcourse
+Let me know that youre the boss
+
+Oh Johnny get angry, Johnny get mad
+Give me the biggest lecture that I ever had
+I want a brave man, I want a cave man
+Johnny show me that you care, really care for me
+
+Johnny, care for me
+Johnny Johnny Johnny Johnny...

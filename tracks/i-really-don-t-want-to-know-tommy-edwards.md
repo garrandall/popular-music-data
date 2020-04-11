@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-really-don-t-want-to-know-tommy-edwards
+lyrics_url: https://genius.com/Tommy-edwards-i-really-dont-want-to-know-lyrics
 name: I Really Don't Want To Know
 rankings:
 - end_date: '1960-05-29'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+I really don't want to know
+Les Paul & Mary Ford/Tommy Edward
 
+How many arms have held you
+And hated to let you go
+How many, how many, I wonder
+But I really don't want to know
+
+How many lips have kissed you
+And set your soul aglow
+How many, how many, I wonder
+But I really don't want to know
+
+So always make me wonder
+Always make me guess
+And even if I ask you
+Darlin don't confess
+Just let it remain your secret
+But darlin I love you so
+No Wonder, no wonder I wonder
+Though I really don't want to know

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-the-way-you-love-marv-johnson
+lyrics_url: https://genius.com/Marv-johnson-i-love-the-way-you-love-lyrics
 name: I Love The Way You Love
 rankings:
 - end_date: '1960-03-13'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+The sweet things you do to me like holding my hand
+When I'm low you let me know you always understand
 
+And, I know (I love) the way you love
+You make me feel so fine
+I love the way you love
+Because I know you're mine, all mine
+
+I'll never do you wrong, I'll never make-a you cry-why-why
+If you stop loving me I know that I'll just die
+
+Because I love (I love the way you love)
+Yay, it makes me feel (it makes me feel) so fine
+And I love (I love) the way you love
+Because I know you're mine, all mine
+
+Folks tell me now and then "Find somebody new"
+I don't care what the people may say, I'm stickin' right here with you
+
+Because I love (I love the way you love)
+Yay, yay, I know (it makes me feel so fine)
+And I love (I love) the way you love
+Because I know you're mine, all mine
+
+(I love the way you love)
+(It makes me feel so fine)
+(I love the way you love)
+(Because I know you're mine, all mine)
+
+Folks tell me now and then "Find somebody new"
+I don't care what the people may say, I'm stickin' right here with you
+
+Because I love (I love the way you love)
+Yay, it makes me feel ( it makes me feel) so fine
+And I love (I love) the way you love
+Because I know you're mine, all mine
+
+One more time!
+
+I love (I love the way you love)
+The way you hold me, baby
+(It makes me feel so fine)
+Yay, a-yay, a-yay
+I love (I love) the way you love

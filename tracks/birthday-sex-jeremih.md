@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: birthday-sex-jeremih
+lyrics_url: https://www.musixmatch.com/lyrics/Jeremih/Birthday-Sex
 name: Birthday Sex
 rankings:
 - end_date: '2009-05-01'
@@ -87,4 +88,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
 ---
+It's yo birthday, so I know you want to ride out
+Even if we only go to my house
+Sip mo-weezy as we sit upon my couch
+Feels good, but I know you want to cry out
 
+You say want passion, I think you found it
+Get ready for action, don't be astounded
+We switching positions, you feel surrounded
+
+Tell me where you want your gift, girl
+
+Girl you know I-I-I, girl you know I-I-I
+I been feenin
+Wake up in the late night
+Been dreaming bout your loving, girl
+Girl you know I-I-I, girl you know I-I-I
+Don't need candles and cake
+Just need your body to make your
+
+Birthday sex
+Birthday sex
+(It's the best day of the year girl)
+
+Birthday sex
+Birthday sex
+See you sexy and them jeans got me on tent
+One, two, three
+
+Ding, I got you pinned
+Don't tap out, fight until the end
+Ring that bell, and we gonna start over again
+We grinding with passion, 'cause it's your birthday
+Been at it for hours, I know you thirsty
+You kiss me so sweetly, taste just like Hershey's
+
+Just tell me how you want you gift, girl
+Girl you know I-I-I, girl you know I-I-I
+
+I been feenin
+Wake up in the late night
+Been dreaming bout your loving, girl
+Girl you know I-I-I, girl you know I-I-I
+Don't need candles and cake
+Just need your body to make your
+Birthday sex
+Birthday sex
+
+(It's the best day of the year girl)
+
+Birthday sex
+Birthday sex
+First, I'm gonna take a dive into the water
+Deep until I know I pleased that body
+Or girl without a broom I might just sweep you off your feet
+And make you wanna tell somebody how I do
+Or maybe we can float on top my water bed
+You close your eyes as I im-prov between your legs
+We work our way from kitchen stoves and tables
+Girl, you know I'm only able to please
+
+Say you wanted flowers on the bed
+But you got me and hours on the bed
+Girl you know I-I-I, girl you know I-I-I
+I been feeling
+Wake up in the late night
+Been dreaming bout your loving, girl
+Girl you know I-I-I, girl you know I-I-I
+Don't need candles and cake
+Just need your body to make your
+Birthday sex
+Birthday sex
+(It's the best day of the year girl)
+Birthday sex
+Birthday sex

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: duchess-of-earl-pearlettes
+lyrics_url: https://genius.com/Pearlettes-duchess-of-earl-lyrics
 name: Duchess Of Earl
 rankings:
 - end_date: '1962-03-16'
@@ -15,4 +16,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
 ---
+Oh yes I've lots in this world
+I've got the Duke, the Duke of Earl
+And I I am his girl and no one can hurt you
 
+I I'm going to let him love me oh oh
+No one can hurt me now
+Cause I'm the Duchess of Earl
+Yeah yeah yeah
+
+And I know when he holds me
+He's going to love oh yes
+I reign over his Dukedom
+And the paradise we will share
+
+I I'm going to let him love me oh oh
+No one can hurt me now
+Cause I'm the Duchess of earl
+Yeah yeah yeah
+
+Duchess of Earl
+I, I
+Yes I, I'm going to let him love me oh oh
+No one can hurt me now
+Cause I'm the Duchess of Earl
+Yeah yeah yeah

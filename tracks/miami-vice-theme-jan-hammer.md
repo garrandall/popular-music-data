@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: miami-vice-theme-jan-hammer
+lyrics_url: https://genius.com/Jan-hammer-the-original-miami-vice-theme-instrumental-lyrics
 name: Miami Vice Theme
 rankings:
 - end_date: '1985-09-13'
@@ -95,4 +96,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
 ---
-
+Instrumental

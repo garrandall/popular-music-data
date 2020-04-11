@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-i-know-collective-soul
+lyrics_url: https://genius.com/Collective-soul-the-world-i-know-lyrics
 name: The World I Know
 rankings:
 - end_date: '1995-11-24'
@@ -143,4 +144,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
 ---
+Has our conscious shown?
+Has the sweet breeze blown?
+Has all kindness gone?
+Hope still lingers on
+I drink myself of new found pity
+Sitting alone in New York City
+And I don't know why
 
+
+Are we listening?
+Hymns of offering
+Have we eyes to see?
+Love is gathering
+All the words that I've been reading
+Have now started the act of bleeding
+Into one
+Into one
+
+
+So I walk up on high
+And I step to the edge
+To see my world below
+And I laugh at myself
+While the tears roll down
+Cause it's the world I know
+It's the world I know
+
+
+I drink myself of newfound pity
+Sitting alone in New York City
+And I don't know why, don't know why
+
+
+So I walk up on high
+And I step to the edge
+To see my world below
+And I laugh at myself
+While the tears roll down
+'Cause it's the world I know
+Oh it's the world I know
+So I walk up on high
+And I step to the edge
+To see my world below
+And I laugh at myself
+While the tears roll down
+'Cause it's the world I know
+Oh it's the world I know

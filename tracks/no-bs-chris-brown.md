@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-bs-chris-brown
+lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Kevin-McCall/No-BS
 name: No BS
 rankings:
 - end_date: '2010-12-31'
@@ -79,4 +80,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
 ---
+3 in the morning
+You know I'm horny
+So why don't you come over my place
+Put a smile on my face
+Leaving the club
+Shawty hurry up
+So we can this party started
+Take off your clothes, now
+You already know what time it is
+Reach up in the dresser where the condoms is
+Baby, when I get it, I'll never let it go
+Gonna take it slow
 
+We ain't gon stop 'til 9 AM
+If you can't take it all, baby say when
+Make you come over and over again
+And I'ma leave it in
+
+When we do it, all night
+We can do it, all night
+Girl I'ma give it to you, all night
+So fly girl
+
+Don't you be on that bullshit, all night
+Don't you be on that bullshit, all night
+Don't you be on that bullshit, all night
+So fly girl
+
+Now there is one of two things that can happen at this time of the hour
+So baby after we get out of the shower
+You can race me to the bed
+Turn off all the lights and light some candles instead
+Woah, yeah
+I can hear your body calling, baby
+Ohh, yeah
+We gon' get freaky
+You know, darling
+You know what time it is, get it in
+I'ma do it all
+
+We ain't gon' stop 'til 9 AM
+If you can't take it all, baby say when
+Make you come over and over again
+And Imma leave it in
+
+When we do it, all night
+We can do it, all night
+Girl I'ma give it to you, all night
+So fly girl
+
+Don't you be on that BS, all night
+Don't you be on that BS, all night
+Don't you be on that BS, all night
+So fly girl
+
+We can do it all, all night girl
+We can do it all, all night girl
+We can do it all, all night girl
+We can do it all, all night baby, all night yeah
+
+All night
+We can do it, all night
+Girl I'ma give it to you, all night
+So fly girl
+
+Don't you be on that BS, all night
+Don't you be on that BS, all night
+Don't you be on that BS, all night
+So fly girl
+Don't you be on that BS, yeah, yeah
+Don't you be on that BS, yeah, yeah
+Don't you be on that BS, yeah, yeah
+Hey, hey
+When you leavin' the club, I just want u to come over girl
+Oooh na na naaa, naaaohhh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-remember-madonna
+lyrics_url: https://genius.com/Madonna-ill-remember-lyrics
 name: I'll Remember
 rankings:
 - end_date: '1994-04-08'
@@ -111,4 +112,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
 ---
+Mmmm, mmmm
 
+
+Say good-bye
+To not knowing when
+The truth in my whole life began
+Say good-bye
+To not knowing how to cry
+You taught me that
+
+
+And I'll remember
+The strength that you gave me
+Now that I'm standing on my own
+I'll remember
+The way that you saved me
+I'll remember
+
+
+Inside
+I was a child
+That could not mend a broken wing
+Outside
+I looked for a way
+To teach my heart to sing
+
+
+And I'll remember
+The love that you gave me
+Now that I'm standing on my own
+I'll remember
+The way that you changed me
+I'll remember
+
+
+I learned
+To let go of the illusion that we can possess
+I learned
+To let go
+I travel in stillness
+
+
+And I'll remember happiness
+I'll remember (I'll remember)
+Mmmmm... (I'll remember)
+Mmmmm...
+
+
+And I'll remember
+The love that you gave me
+Now that I'm standing on my own
+I'll remember
+The way that you changed me
+I'll remember
+
+
+No, I've never been afraid to cry
+Now I finally have a reason why
+I'll remember (I'll remember)
+No, I've never been afraid to cry
+Now I finally have a reason why
+I'll remember (I'll remember)
+No, ​I've never been afraid to cry
+Now I finally have a reason why
+I'll remember (I'll remember)

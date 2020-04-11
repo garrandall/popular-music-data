@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-won-t-be-lonely-long-clay-walker
+lyrics_url: https://genius.com/Clay-walker-she-wont-be-lonely-long-lyrics
 name: She Won't Be Lonely Long
 rankings:
 - end_date: '2010-04-23'
@@ -79,4 +80,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
 ---
+Something 'bout the way she’s wearing her dress a little tighter
+Something 'bout the way she’s starin', she’s lookin' to start a fire
+Something 'bout the way she’s dancin' and drinkin' chill Patron
+If she’s lonely now she won’t be lonely long
 
+
+Heaven help the fool who did her wrong
+It’s too late, too bad, she’s too far gone
+He should’ve thought of that before he left her all alone
+If she’s lonely now, she won’t be lonely long
+
+Something 'bout the way she’s blushin' you can tell she isn’t sure
+Let you know she’s up to something she’s never done before
+Tonight she wants to hold a stranger but not the one at home
+If she’s lonely now she won’t be lonely long
+
+
+Heaven help the fool who did her wrong
+It’s too late, too bad, she’s too far gone
+He should’ve thought of that before he left her all alone
+If she’s lonely now, she won’t be lonely long
+
+If I had a woman like that
+Man I’d let her know
+I’d hold her tight
+I’d hold her close
+Do anything, do everything to let her know
+She’d never ever be alone
+
+
+Heaven help the fool who did her wrong
+It’s too late, too bad, she’s too far gone
+He should’ve thought of that before he left her all alone
+If she’s lonely now, Lord if she’s lonely now
+If she’s lonely now, she won’t be lonely long

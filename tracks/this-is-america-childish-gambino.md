@@ -76,7 +76,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
 ---
-
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, go, go away
 Yeah, yeah, yeah, yeah, yeah
@@ -191,6 +190,3 @@ You just a big dawg, yeah
 I kenneled him in the backyard
 No probably ain't life to a dog
 For a big dog
-
-
-

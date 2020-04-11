@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: california-sun-the-rivieras
+lyrics_url: https://genius.com/The-rivieras-california-sun-lyrics
 name: California Sun
 rankings:
 - end_date: '1964-01-31'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
+Well, I'm goin' out west where I belong
+Where the days are short and the nights are long
+Where they walk and I'll walk
+They twist and I'll twist
+They shimmy and I'll shimmy
+They fly and I'll fly
+Well, they're out there a-havin' fun
+In that warm California sun
 
+Well, I'm goin' out west out on the coast
+Where the California girls are really the most
+Where they walk and I'll walk
+They twist and I'll twist
+They shimmy and I'll shimmy
+They fly and I'll fly
+Well, they're out there a-havin' fun
+In that warm California sun
+
+Well, the girls are frisky in old 'Frisco
+A pretty little chick wherever you go
+And they'll walk and I'll walk
+They'll twist and I'll twist
+They'll shimmy and I'll shimmy
+They'll fly and I'll fly
+Well, they're out there a-havin' fun
+In that warm California sun
+Yeah, they're out there a-havin' fun
+In that warm California sun

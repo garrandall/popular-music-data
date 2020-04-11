@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-see-you-again-peter-and-gordon
+lyrics_url: https://genius.com/Peter-and-gordon-i-dont-want-to-see-you-again-lyrics
 name: I Don't Want To See You Again
 rankings:
 - end_date: '1964-10-09'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
+I don't wanna see you again
 
+I hear that love is planned
+How can I understand
+When someone says to me
+"I don't wanna see you again"?
+
+Why do I cry at night?
+Something wrong could be right
+I hear you say to me
+"I don't wanna see you again"
+
+As you turned your back on me
+You hid the light of day
+I didn't have to play
+At bein' broken hearted
+
+I know that later on
+After love's been and gone
+I'll still hear someone say
+"I don't wanna see you again"
+
+As you turned your back on me
+You hid the light of day
+I didn't have to play
+At bein' broken hearted
+
+I hear that love is planned
+How can I understand
+When someone says to me
+"I don't wanna see you again"?
+
+I don't wanna see you again
+I don't wanna see you again

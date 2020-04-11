@@ -5,6 +5,7 @@ features:
 - Susan Jacks
 genres: []
 key: which-way-you-goin--billy--the-poppy-family-susan-jacks
+lyrics_url: https://www.musixmatch.com/lyrics/The-Poppy-Family-feat-Terry-Jacks-Susan-Jacks/Which-Way-You-Goin-Billy
 name: Which Way You Goin' Billy?
 rankings:
 - end_date: '1970-04-03'
@@ -76,4 +77,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
 ---
+Which way you goin', Billy?
+Can I go too?
+Which way you goin', Billy?
+Can I go with you?
 
+I really love you, Billy
+And all this time
+I thought you loved me, Billy
+And you were mine
+
+I'm gonna miss you, Billy
+And though I'm trying
+I'm hurtin' so bad, Billy
+I can't help cryin'
+
+You are my whole babe
+My heart and my soul babe
+I'd have nothing to show babe
+If you should go away
+
+You are my whole babe
+My heart and my soul babe
+I'd have nothing to show babe
+If you should go
+
+Which way you goin', Billy?
+Or need I ask?
+'Cause you don't want me, Billy
+You're free at last
+
+I won't forget you, Billy
+For all my life
+I'll always love you, Billy
+I'll stay your wife
+
+You are my whole babe
+My heart and my soul babe
+I'd have nothing to show babe
+If you should go away
+
+You are my whole babe
+My heart and my soul babe
+I'd have nothing to show babe
+If you should go
+
+You are my whole babe
+My heart and my soul babe
+I'd have nothing to show babe
+If you should go away

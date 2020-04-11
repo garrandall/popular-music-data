@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-me--til-the-mornin--comes-paul-anka
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka/HOLD-ME-TIL-THE-MORNIN-COMES
 name: Hold Me 'til The Mornin' Comes
 rankings:
 - end_date: '1983-06-24'
@@ -71,4 +72,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
 ---
+Two broken hearts
+Neither one knows what to say
+Both falling from love
+But not quite all the way
+Look at us now
+Reachin' back for yesterday
+Wanting to know
+If the other wants to stay
+After all
+I'm the one who said we're through
+Now I can't live without you, anymore
+Out there lost
+Is a dream that can come true
+Is it worth the reachin' for?
+Don't you need me anymore?
 
+Darlin'
+Hold me till the mornin' comes
+Until I see you smile
+Take all the sadness from your eyes
+Hold me till the mornin' sun
+Let me stay we've just begun
+Ooh... Stay with you
+
+Where shall we start?
+A tender word that we can share
+And if we believe
+In time we will get there
+Look at us now
+Wanting more than words can say
+Both falling in love
+But this time all the way
+Out there lost
+Are the words "I still love you"
+Are they worth the reachin' for?
+Do you love me anymore?
+
+Darlin'
+Hold me till the mornin' comes
+Until I see you smile
+Take all the sadness from your eyes (no more)
+Hold me till the mornin' sun
+Let me stay, we've just begun
+I want to stay with you
+
+Hold me till the mornin' comes
+Until I see you smile
+Take all the sadness from your eyes (no more, no)
+Hold me till the mornin' sun
+Let me stay, we've just begun
+I want to stay with you
+
+Would you love me in the mornin'? (would you love me?)
+Will you still be there in the mornin'? (would you love me?)
+Or would you leave without a warnin'?
+Say you love me too (say you stay)
+
+Would you love me in the mornin'? (would you love me?)
+Will you still be there in the mornin'? (would you love me?)
+Or would you leave without a warnin'? (don't go away)
+Say you love me too

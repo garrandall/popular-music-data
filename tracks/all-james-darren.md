@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-james-darren
+lyrics_url: https://genius.com/James-darren-all-lyrics
 name: All
 rankings:
 - end_date: '1967-01-20'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+All the words I can recall
+Could never capture all
+The loveliness of you
 
+All the phrases I might sigh
+Could never tell you why
+I want so much to hold you and enfold you
+
+All your love bring to me
+Come to me, darling, cling to me
+
+And I promise you that
+
+All my life I'll give my all
+No task will be too small
+And nothing be above me if you love me
+
+All your love, bring to me
+Come to me, darling, cling to me
+
+And I promise you that
+
+All my life I'll give my all
+No task will be too small
+And nothing be above me
+If you love me
+I will give my all

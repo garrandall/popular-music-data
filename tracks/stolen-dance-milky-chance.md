@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stolen-dance-milky-chance
+lyrics_url: https://genius.com/Milky-chance-stolen-dance-lyrics
 name: Stolen Dance
 rankings:
 - end_date: '2014-08-15'
@@ -107,4 +108,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
 ---
+I want you by my side
+So that I never feel alone again
+They’ve always been so kind
+But now they’ve brought you away from me
+I hope they didn't get your mind
+Your heart is too strong anyway
+We need to fetch back the time
+They have stolen from us
 
+
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+Shouldn't talk about it
+
+
+Coldest winter for me
+No sun is shining anymore
+The only thing I feel is pain
+Caused by absence of you
+Suspense controlled in my mind
+I cannot find the way outta here
+I want you by my side
+So that I never feel alone again
+
+
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+Shouldn't talk about it
+
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+And I want you
+We can bring it on the floor
+You’ve never danced like this before
+We don’t talk about it
+Dancing on, do the boogie all night long
+You're stoned in paradise
+Shouldn’t talk about it
+Shouldn't talk about it

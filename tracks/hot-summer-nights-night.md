@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-summer-nights-night
+lyrics_url: https://genius.com/Night-hot-summer-nights-lyrics
 name: Hot Summer Nights
 rankings:
 - end_date: '1979-06-29'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
 ---
+There was a time not too far gone
+When I was changed by just a song
+On the radio and in my car
+The pounding of an electric guitar
 
+Then the time came to make our stand
+We started up a four-piece band
+And the heat felt like spotlights
+In the heart of a hot summer night
+
+Ooh hot summer nights
+Ooh hot summer nights
+
+Return with me to when times were best
+We were friends that could pass any test
+Shared our hopes, our dreams, our goals
+And the fundamental rolls
+
+As we sang in the dark rooms
+Happy just to play our tunes
+It felt good when we got it right
+It felt good on a hot summer night
+
+Ooh hot summer nights
+Ooh hot summer nights
+
+So it lives and it always will
+The songs we sung are in us still
+Ringing out with all of their might
+In the heat of a hot summer night
+
+Ooh hot summer nights
+Ooh hot summer nights

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crimson-and-clover-sf-spanish-fly
+lyrics_url: https://www.musixmatch.com/lyrics/SF-Spanish-Fly/Crimson-and-Clover
 name: Crimson And Clover
 rankings:
 - end_date: '1995-06-16'
@@ -31,4 +32,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-15'
 ---
+Ah, now I don't hardly know her
+But I think I could love her
+Crimson and clover
 
+Ah when she comes walking over
+Now I've been waitin' to show her
+Crimson and clover over and over
+
+Yeah, my, my such a sweet thing
+I wanna do everything
+What a beautiful feeling
+Crimson and clover over and over
+
+Crimson and clover over and over
+Crimson and clover over and over
+Crimson and clover over and over
+Crimson and clover over and over

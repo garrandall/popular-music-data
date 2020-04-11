@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sacred-the-castells
+lyrics_url: https://genius.com/The-castells-sacred-lyrics
 name: Sacred
 rankings:
 - end_date: '1961-06-04'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
 ---
+Sacred (whoa oh whoa)
+Our love is sacred (whoa oh whoa)
+Church bells were ringing
+On the Sunday we met (ah ah ah ah)
 
+(Heaven)
+(Heaven was smiling)
+(Angels were singing)
+(On the Sunday we met)
+
+But our love is like a flame in the night
+And like a flame, dear, it burns itself of sight
+
+(And I'm still searching)
+(I'll find you some day)
+(And you'll be looking)
+(Like the Sunday we met)
+
+And I'm still searching (whoa oh whoa)
+I'll find you some day (whoa oh whoa)
+Sun will be shining (whoa oh whoa)
+And I'll give you my ring (whoa oh whoa)
+And you'll be looking
+Like the Sunday we met
+(Like the Sunday we met)

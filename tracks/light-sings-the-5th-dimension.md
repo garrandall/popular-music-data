@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: light-sings-the-5th-dimension
+lyrics_url: https://genius.com/The-5th-dimension-light-sings-lyrics
 name: Light Sings
 rankings:
 - end_date: '1971-05-28'
@@ -39,4 +40,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
 ---
+The sun comes up
+The moon goes down
+A new day's on it's way
 
+The stars in the sky
+Are waving goodbye
+And morning's here
+Bringing in the day
+
+Then the kids start to shout
+Mother and Father, get up
+And here's the sun
+
+Light sings
+All over the world
+Light sings
+All over the world
+
+Light sings
+All over the world
+Light sings
+All over the world
+Light sings
+
+The night is gone
+The light has come
+A new day has begun
+
+The weather is clear
+And people are here
+And morning's here
+Calling everyone
+
+Then the kids start to shout
+Brothers and sisters, come out
+Into the sun
+
+Light sings
+All over the world
+Light sings
+All over the world
+
+(Let me tell you that)
+Light sings (yes, it do now)
+All over the world
+(Oh, yeah) light sings
+All over the world
+
+(Would you believe that)
+Light sings (yeah)
+(I know) light sings
+(Come on)
+
+Light sings
+All over the world
+(Brothers and sisters)
+Light sings (come on now)
+All over the world
+
+(It's a new day)
+Light sings
+All over the world
+(Let me tell you that)
+Light sings (yes, it do now)
+All over the world
+
+(Here's the sun)
+Light sings
+(Yeah, come on and say it)
+Light sings (come on)
+
+Light sings
+All over the world
+(Mothers and fathers)
+Light sings
+All over the world
+
+(Come on, come on)
+Light sings
+All over the world
+(Come on, all over the world)
+Light sings (oh, yeah)
+All over the world

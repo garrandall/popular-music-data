@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-gotta--fight-for-your-right--to-party---beastie-boys
+lyrics_url: https://genius.com/Beastie-boys-fight-for-your-right-lyrics
 name: (You Gotta) Fight For Your Right (To Party!)
 rankings:
 - end_date: '1986-12-26'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
 ---
+Kick it!
 
+
+You wake up late for school, man, you don't wanna go
+You ask your mom "Please?", but she still says "No!"
+You missed two classes and no homework
+But your teacher preaches class like you're some kind of jerk
+
+
+You gotta fight for your right to party
+
+
+Your pop caught you smoking, and he said: "No way!"
+That hypocrite smokes two packs a day
+Man, living at home is such a drag
+Now your mom threw away your best porno mag (Busted!)
+
+
+You gotta fight for your right to party
+You gotta fight
+
+
+
+
+Don't step out of this house if that's the clothes you're gonna wear
+I'll kick you out of my home if you don't cut that hair
+Your mom busted in and said, “What's that noise?"
+Aw, Mom, you're just jealous it's the Beastie Boys
+
+
+You gotta fight for your right to party
+You gotta fight for your right to party
+
+
+Parrrrrrty
+Parrrrrrty
+Yeah!

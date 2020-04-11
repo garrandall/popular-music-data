@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-lucky-henry-mancini
+lyrics_url: https://genius.com/Henry-mancini-mr-lucky-lyrics
 name: Mr Lucky
 rankings:
 - end_date: '1960-04-10'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
 ---
+They call us lucky
+You and I
+Lucky girl
+Lucky guy
+When you take my hand
+Or touch my cheek
+I know I’m on a
+Lifetime lucky streak
+A lucky rainbow
+Lights the sky
+When we kiss
+When we sigh
 
+
+He: They say I’m lucky
+She: They say you’re lucky
+Mister lucky guy
+Mister lucky guy
+And you’re the reason why
+But darling, so am I
+
+
+They call us lucky
+You and I
+Lucky girl
+Lucky guy
+When you take my hand
+Or touch my cheek
+I know I’m on a
+Lifetime lucky streak
+A lucky rainbow
+Lights the sky
+When we kiss
+When we sigh
+
+
+He: They say I’m lucky
+She: They say you’re lucky
+Mister lucky guy
+Mister lucky guy
+And you’re the reason why
+But darling, so am I

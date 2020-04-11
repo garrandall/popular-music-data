@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-little-rhythm-ali-thomson
+lyrics_url: https://www.musixmatch.com/lyrics/Ali-Thomson/Take-a-Little-Rhythm
 name: Take A Little Rhythm
 rankings:
 - end_date: '1980-06-20'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
+Ooh
 
+
+Take a little rhythm
+Take a little of that
+Sweet, sweet music
+You got to take a little rhythm
+And put it in your heart
+
+If your tidy life
+Seems uncertain
+And you don't know
+Which way to go
+
+Ooh, your dream is over
+Confusion starts to show
+Just sit back and
+Let the music flow
+
+
+
+Seems like madness
+Is everywhere
+Only noise and mayhem
+Fill the air
+
+Ooh, your body's hurting
+And your mind is slow
+Just sit back
+And let the music flow
+
+
+
+Ooh, yeah
+Ooh, yeah
+
+Take it, take it
+Take it and put it
+In your heart

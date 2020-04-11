@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-girl-i-ll-never-know--angels-never-fly-this-low--frankie-valli
+lyrics_url: https://genius.com/Frankie-valli-the-girl-ill-never-know-angels-never-fly-this-low-lyrics
 name: The Girl I'll Never Know (Angels Never Fly This Low)
 rankings:
 - end_date: '1969-06-20'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
 ---
+I hear the sound of music
+Your favorite kind of music
+And that reminds me dear, of you
 
+I see the summer roses
+Your favorite shade of roses
+And that reminds me too of you dear
+
+If I could hear no music
+If there could be no roses
+No summer nights to make me dream as I do
+I'd still would not forget you
+One thing would still be true
+My heart reminds me
+I love you
+
+If I could hear no music
+If there could be no roses
+No summer nights to make me dream as I do
+I'd still would not forget you
+One thing would still be true
+My heart reminds me
+I love you

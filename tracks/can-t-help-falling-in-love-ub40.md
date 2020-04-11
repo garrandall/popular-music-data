@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-help-falling-in-love-ub40
+lyrics_url: https://www.musixmatch.com/lyrics/UB40/I-Can-t-Help-Falling-in-Love
 name: Can't Help Falling In Love
 rankings:
 - end_date: '1993-05-21'
@@ -123,4 +124,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-27'
 ---
+Wise men say
+Only fools rush in
+But I can't help falling in love with you
 
+Wise men say
+Only fools rush in
+But I can't help falling in love with you
+
+Shall I stay?
+Would it be a sin?
+
+For I can't help falling in love with you
+As a river flows
+Surely to the sea
+Darling so it goes
+Some things are meant to be
+Take my hand
+Take my whole life too
+
+For I can't help falling in love with you
+As a river flows
+Surely to the sea
+Darling so it goes
+Some things are meant to be
+
+Take my hand
+Take my whole life too
+For I can't help falling in love with you
+For I can't help falling in love with you
+For I can't help falling in love with you
+For I can't help falling in love with you

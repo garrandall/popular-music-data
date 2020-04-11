@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-on-me-chicago
+lyrics_url: https://genius.com/Chicago-call-on-me-lyrics
 name: Call On Me
 rankings:
 - end_date: '1974-06-28'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
 ---
+The feeling was clear
+Clear as a blue sky on a Sunday day
+Everything was you
+Because no one made me feel
+The way I felt with you
+Call on me because
 
+
+I love you
+You know I do
+You love me too
+
+
+Then came a change
+When I said I would soon be leaving you
+Nothing else to do
+Please remember I never lose the thought of you
+Call on me because
+
+
+
+
+You've got to find
+Someone else to somehow take my place
+Share his life with you
+But if you need a friend
+You can always count on me
+Count on me because
+
+
+
+
+You can count on me oh
+You can count on me
+You can count on me baby
+You can count on me
+You can count on me oh
+You can count on me
+You can count on me baby
+You can count on me
+You can count on me oh
+You can count on me
+You can count on me baby
+You can count on me
+You can count on me oh
+You can count on me

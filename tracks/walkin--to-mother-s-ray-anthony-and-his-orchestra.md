@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Anthony and His Orchestra
+- Ray Anthony
 features: []
 genres: []
 key: walkin--to-mother-s-ray-anthony-and-his-orchestra

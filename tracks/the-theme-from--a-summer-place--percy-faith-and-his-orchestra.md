@@ -1,9 +1,10 @@
 ---
 artists:
-- Percy Faith And His Orchestra
+- Percy Faith
 features: []
 genres: []
 key: the-theme-from--a-summer-place--percy-faith-and-his-orchestra
+lyrics_url: https://genius.com/Percy-faith-and-his-orchestra-the-theme-from-a-summer-place-lyrics
 name: The Theme From "A Summer Place"
 rankings:
 - end_date: '1960-01-17'
@@ -91,4 +92,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
-
+***  ***
+♫  ♫
+INSTRUMENTAL

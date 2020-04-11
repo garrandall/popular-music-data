@@ -38,8 +38,8 @@ Keeping my head to the curb
 
 Pray to catch you whispering
 I pray you catch me listening
-I pray to catch you whispering {whispering, whispering...}
-I pray you catch me {whispering, whispering...}
+I pray to catch you whispering
+I pray you catch me
 I pray you catch me
 I pray you catch me (praying)
 I'm praying you catch me

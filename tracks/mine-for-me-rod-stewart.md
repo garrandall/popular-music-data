@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mine-for-me-rod-stewart
+lyrics_url: https://genius.com/Rod-stewart-mine-for-me-lyrics
 name: Mine For Me
 rankings:
 - end_date: '1974-12-20'
@@ -15,4 +16,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
 ---
+In a couple of hours I'll be drivin' home to the one I love
+So save your breath sweet painted lady it won't be me
+Over the mountain and under the sea
+They'll never be another one like mine for me
+It was only an hour or so ago that I sang my song
+Persuaded painted ladies that I could say I'd been free
 
+
+Over the mountain and under the sea
+They'll never be another one like mine for me
+
+
+Mine is always, mine is grand
+Don't you know that the woman that love me she understands
+And can't you see that it's mine for me
+And in a couple of hours I'll be driving home to the one I love
+So save your breath sweet painted lady it won't be me
+
+
+Over the mountain and under the sea
+They'll never be another one like mine for me
+You're for me, yeah
+
+
+
+
+Mine is always, mine is grand
+Don't you know that the woman that love me she understands
+And can't you see that it's mine for me?
+
+
+They'll never be another one like mine for me, yeah, yeah
+They'll never be another one like mine for me, yeah, yeah, yeah
+They'll never be another one like you for me

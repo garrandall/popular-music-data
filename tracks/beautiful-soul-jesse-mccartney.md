@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-soul-jesse-mccartney
+lyrics_url: https://genius.com/Jesse-mccartney-beautiful-soul-lyrics
 name: Beautiful Soul
 rankings:
 - end_date: '2004-12-17'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
 ---
+I don't want another pretty face
+I don't want just anyone to hold
+I don't want my love to go to waste
+I want you and your beautiful soul
 
+
+I know that you are something special
+To you I'd be always faithful
+I want to be what you always needed
+Then I hope you'll see the heart in me
+
+
+I don't want another pretty face
+I don't want just anyone to hold
+I don't want my love to go to waste
+I want you and your beautiful soul
+You're the one I wanna chase
+You're the one I wanna hold
+I won't let another minute go to waste
+I want you and your beautiful soul
+Your beautiful soul, yeah
+
+
+You might need time to think it over
+But I'm just fine moving forward
+I'll ease your mind
+If you give me the chance
+I will never make you cry
+C'mon let's try
+
+
+I don't want another pretty face
+I don't want just anyone to hold
+I don't want my love to go to waste
+I want you and your beautiful soul
+You're the one I wanna chase
+You're the one I wanna hold
+I won't let another minute go to waste
+I want you and your beautiful soul
+
+
+Am I crazy for wanting you?
+Maybe do you think you could want me too?
+I don't wanna waste your time
+Do you see things the way I do?
+I just wanna know that you feel it too
+There is nothing left to hide
+
+
+I don't want another pretty face
+I don't want just anyone to hold
+I don't want my love to go to waste
+I want you and your beautiful soul
+You're the one I wanna chase
+You're the one I wanna hold
+I won't let another minute go to waste
+I want you and your soul
+
+
+I don't want another pretty face
+I don't want just anyone to hold
+I don't want my love to go to waste
+I want you and your beautiful soul
+
+
+Ooh, your beautiful soul, yeah
+Oh, yeah
+Your beautiful soul
+Yeah
+Yeah, yeah, yeah, yeah
+Beautiful soul

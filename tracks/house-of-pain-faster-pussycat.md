@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-of-pain-faster-pussycat
+lyrics_url: https://genius.com/Faster-pussycat-house-of-pain-lyrics
 name: House Of Pain
 rankings:
 - end_date: '1990-03-02'
@@ -91,4 +92,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
 ---
+A little past suppertime
+I'm still out on the porch step sitting on my behind
+Waiting for you
 
+Wondering if everything is alright
+Momma said, "Come in boy, don't waste your time." I said, "I've got time
+Well, he'll be here soon."
+
+Five years old and talking to myself
+Where were you? Where'd you go?
+Daddy, can't you tell?
+
+I'm not trying to fake it
+And I ain't the one to blame
+There's no one home
+In my house of pain
+I didn't write these pages
+And my script's been rearranged
+No, there's no one home
+In my house of pain
+
+Wasn't I worth the time?
+A boy needs a daddy like a dance to mime and all the time
+I looked up to you
+
+I paced my room a million times
+And all I ever got was on big line, the same old lie
+How could you?
+
+Well, I was eighteen and still talking to myself
+Where were you? Where'd you go?
+Daddy can't you tell?
+
+I'm not trying to fake it
+And I ain't the one to blame
+There's no one home
+In my house of pain
+I didn't write these pages
+And my script's been rearranged
+No, there's no one home
+In my house of pain
+
+I'm not trying to fake it
+And I ain't the one to blame
+There's no one home
+In my house of pain
+I didn't write these pages
+And my script's been rearranged
+No, there's no one home
+In my house of pain
+
+And I'm alone again
+
+
+Well, if I learned anything from this...it's how to live on my own

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yesterday-and-you--armen-s-theme--bobby-vee
+lyrics_url: https://genius.com/Bobby-vee-yesterday-and-you-lyrics
 name: Yesterday And You (Armen's Theme)
 rankings:
 - end_date: '1963-11-15'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
 ---
+I sit alone in this cafe
+And listen to the jukebox play
+Remindin' me of yesterday and you
+Each moment was a valentine
+You promised you'd be always mine
+And I believed the words you said were true
 
+I see your face, it's everywhere
+I close my eyes, but you're still there
+Remindin' me of things we used to do
+I wonder what your heart is sayin'
+When you hear a jukebox playin'
+The song that brings me yesterday and you
+
+I wonder what your heart is sayin'
+When you hear a jukebox playin'
+The song that brings me yesterday and you
+
+I sit alone in this cafe
+
+I see your face, it's everywhere

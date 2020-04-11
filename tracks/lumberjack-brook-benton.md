@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lumberjack-brook-benton
+lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Lumberjack
 name: Lumberjack
 rankings:
 - end_date: '1964-10-09'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
 ---
+For my woman
+I was a lumberjack
+For my woman
+I broke my back
 
+I never knew she had her fun
+While I worked in the blistering sun
+Making great big old trees
+Into little bitty ones
+
+Rain or shine, sleet or snow
+I couldn't say no
+Feeling food, feeling bad
+I had to go
+
+Ain't funny what a kiss
+And a great big smile can do
+When a woman ain't worth
+The heel off a good man's shoe
+
+Then came the day
+She ran away with her man
+While I worked, she stole my pick
+This was a fine
+
+I gave my heart and my soul
+She left me here to hold
+A grieving hand and an aching back
+I'm a broken hearted man
+Just a weary lumberjack

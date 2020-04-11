@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crush-on-you-the-jets
+lyrics_url: https://genius.com/The-jets-group-crush-on-you-lyrics
 name: Crush On You
 rankings:
 - end_date: '1986-04-18'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
 ---
+How did you know
+'Cause I never told
+You found out
+I've got a crush on you
 
+No more charades
+My heart's been displayed
+You found out
+I've got a crush on you
+
+
+You must have heard it from my best friend
+She's always talking
+When she should be listening
+Can't keep a secret to save her life
+But still I trusted her
+With all I felt inside
+
+
+I never knew
+A rumor could spread so fast
+'Cause now the word is out
+All over town
+That I'm longing for you
+
+
+
+
+Maybe I was the one who left the trace
+Was there a message written on my face?
+Were my emotions so easily read
+That you would know my love
+Before a word was said
+
+
+Was it my eyes
+That let you know you had control?
+Because the way you move
+Was so self-assured
+You knew I would surrender
+
+
+
+
+
+
+
+You found out
+I've got a crush on you
+You found out
+I've got a crush on you
+
+You found out
+I've got a crush on you
+You found out
+I've got a crush on you
+You found out
+I've got a crush on you
+
+Crush on you
+Crush on you
+Crush on you
+Crush on you

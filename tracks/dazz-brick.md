@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dazz-brick
+lyrics_url: https://genius.com/Brick-dazz-lyrics
 name: Dazz
 rankings:
 - end_date: '1976-10-29'
@@ -91,4 +92,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
 ---
+Everybody go on and dance if you want to
+Music makes your body move, well all right
+Funky dancing get up, get down, shake your booty
+Music makes your body move, well all right
 
+La la la la la la la la la la la la...
+Ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh
+
+Everybody go on and dance if you want to
+Music makes your body move, well all right
+
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+
+Funky dancing get up, get down, shake your booty
+Music makes your body move, well all right
+
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)
+Jazz Dazz (disco jazz)

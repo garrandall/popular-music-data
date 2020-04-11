@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-pastrami-the-dartells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dartells/Hot-Pastrami
 name: Hot Pastrami
 rankings:
 - end_date: '1963-04-19'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
+Mashed potatoes
+Yeah, yeah, yeah, yeah
+Hey, yeah, yeah, yeah
+Hey, oh, hey
 
+Hot pastrami
+Yeah, yeah, yeah, yeah
+Yeah, yeah, oh, yeah
+Hey, hey, hey
+
+Baby, shake that thing
+Yeah, yeah, yeah, hey
+Yeah, oh, yeah, hey
+Hey, hey, yeah
+
+Baby, one more time
+Yeah, yeah, yeah, yeah
+Yeah, oh, yeah, hey, hey, hey
+
+Baby one more time
+Yeah, yeah, yeah, oh, oh
+Yeah, yeah, hey, hey, hey

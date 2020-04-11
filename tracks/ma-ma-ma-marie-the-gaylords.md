@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ma-ma-ma-marie-the-gaylords
+lyrics_url: https://www.musixmatch.com/lyrics/The-Gaylords/Ma-Ma-Ma-Marie
 name: Ma Ma Ma Marie
 rankings:
 - end_date: '1958-08-24'
@@ -11,4 +12,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
-
+Aye, who's there!
+Ma ma ma ma ma Marie (ma ma ma ma ma Marie)
+Oh oh oh oh Marie (oh oh oh oh Marie)
+Can't you see what you're doing to me
+(Can't you see what you're doing to me)
+Love a love a love a love a love there's no play thing
+(No play thing)
+But to you (but to you) it's an old (it's an old) everyday thing
+Ma ma ma ma ma Marie (ma ma ma ma ma Marie)
+Oh oh oh oh Marie (oh oh oh oh Marie)
+Maybe someday you'll want me to want you
+When oh when oh when oh when oh when will it be
+Oh oh Marie (oh oh Marie)
+Oh Maria-a-a-a-a
+Oh Marie
+Oh Marie
+Oh Marie
+Oh Marie
+Oh Marie
+Oh Marie

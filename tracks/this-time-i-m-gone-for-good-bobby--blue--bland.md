@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-i-m-gone-for-good-bobby--blue--bland
+lyrics_url: https://genius.com/Bobby-blue-bland-this-time-im-gone-for-good-lyrics
 name: This Time I'm Gone For Good
 rankings:
 - end_date: '1973-11-23'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
 ---
+I shoulda stayed gone
+When I left before
+Cause you do me wrong
+When we're together
+But I keep coming back
+Oh, Lord, for more
 
+
+When I leave this time
+Whoa, Lord, make sure
+It's understand that
+This time, I'm gone for good
+Many times I've left you
+But I couldn't stay away too long
+Thank God for the strength
+That he gave to me to leave home
+And still be strong
+
+
+It's been warm outside
+But for me, but for me
+There's been no sunshine
+So hard for me to leave
+But I finally made up my mind
+
+
+This time, baby, Lord
+I'm not gonna let you
+Worry me no more
+And this time, baby
+Don't even say nothing to me
+Oh, Lord, bye, bye, baby

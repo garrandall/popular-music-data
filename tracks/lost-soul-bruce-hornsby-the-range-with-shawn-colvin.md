@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lost-soul-bruce-hornsby-the-range-with-shawn-colvin
+lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-lost-soul-lyrics
 name: Lost Soul
 rankings:
 - end_date: '1990-11-02'
@@ -20,4 +21,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
 ---
+There was a man of confused and sad nature
+Thought no one loved him, that was not true
+He said he was a lost soul, didn't fit in anywhere
+Didn't know where to turn or who to turn to
 
+There's a lost soul coming down the road
+Somewhere between two worlds
+With an oar in his hands and a song on your lips
+We'll row the boat to the far shore
+Row the boat of love, lost soul
+
+Ever since, oh, I can remember
+We all tried to ease the pain
+Took him in when he needed some shelter
+Tried to make him feel he was one of us again
+There was one day, oh, I can remember
+He sat alone with a pencil in his hand
+All day long he drew careful on the paper
+In the end, just a picture of a man
+
+There's the lost soul coming down the road
+Somewhere between two worlds
+With an oar in his hands and a song on your lips
+We'll row the boat to the far shore
+Row the boat of love, lost soul
+
+Oh, dear Mary, do you remember
+The day we went walking downtown
+As I recall, it was in early December
+After school had just let out
+When I see you on the street in the twilight
+I may tip my hat and keep my head down
+You show me love, but maybe I don't deserve it
+I've been called but not been found
+
+There's a lost soul coming down the road
+Somewhere between two worlds
+With an oar in his hands and a song on your lips
+We'll row the boat to the far shore
+Row the boat of love, lost soul

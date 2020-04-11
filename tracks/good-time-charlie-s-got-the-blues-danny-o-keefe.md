@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-time-charlie-s-got-the-blues-danny-o-keefe
+lyrics_url: https://genius.com/Danny-okeefe-good-time-charlies-got-the-blues-lyrics
 name: Good Time Charlie's Got The Blues
 rankings:
 - end_date: '1972-09-08'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
+Everybody's goin' away
+Said they're movin' to LA
+There's not a soul I know around
+Everybody's leavin' town
 
+Some caught a freight, some caught a plane
+Find the sunshine, leave the rain
+They said this town's a waste of time
+I guess they're right, it's wastin' mine
+
+Some gotta win, some gotta lose
+Good time Charlie's got the blues
+Good time Charlie's got the blues
+
+Ya know my heart keeps tellin' me
+"You're not a kid at thirty-three"
+"Ya play around, ya lose your wife"
+"Ya play too long, you lose your life"
+
+I got my pills to ease the pain
+Can't find a thing to ease the rain
+I'd love to try and settle down
+But everybody's leavin' town
+
+Some gotta win, some gotta lose
+Good time Charlie's got the blues
+Good time Charlie's got the blues
+Good time Charlie's got the blues

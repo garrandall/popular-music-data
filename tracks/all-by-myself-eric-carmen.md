@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-by-myself-eric-carmen
+lyrics_url: https://genius.com/Eric-carmen-all-by-myself-lyrics
 name: All By Myself
 rankings:
 - end_date: '1975-12-26'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
 ---
+When I was young
+I never needed anyone
+And making love was just for fun
+Those days are gone
 
+Living alone
+I think of all the friends I've known
+But when I dial the telephone
+Nobody's home
+
+All by myself
+Don't want to be all by myself anymore
+All by myself
+Don't want to live all by myself anymore
+
+Hard to be sure
+Sometimes I feel so insecure
+And love so distant and obscure
+Remains the cure
+
+All by myself
+Don't want to be all by myself anymore
+All by myself
+Don't want to live all by myself anymore
+
+When I was young
+I never needed anyone
+And making love was just for fun
+Those days are gone
+
+All by myself
+Don't want to be all by myself anymore
+All by myself
+Don't want to live all by myself anymore
+
+All by myself
+Don't want to be all by myself anymore
+All by myself
+Don't want to live all by myself anymore
+
+All by myself
+Don't want to be all by myself anymore

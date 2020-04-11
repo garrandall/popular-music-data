@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: antony-and-cleopatra-theme-ferrante-teicher
+lyrics_url: https://www.musixmatch.com/lyrics/Ferrante-and-Teicher/Antony-and-Cleopatra-Theme
 name: Antony And Cleopatra Theme
 rankings:
 - end_date: '1963-07-05'
@@ -28,4 +29,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
-
+Instrumental

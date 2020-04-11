@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-to-roll-masta-ace-incorporated
+lyrics_url: https://www.musixmatch.com/lyrics/Masta-Ace-Incorporated/Born-to-Roll
 name: Born To Roll
 rankings:
 - end_date: '1994-03-18'
@@ -87,4 +88,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
 ---
+Braniac, dumb-dumb, bust the scientifical
+Approach to the course and the force is centrifugal
+Can ya find ya way through the lyrics that be cathcin em
+Throw another rhyme across the room they be fetchin em
+And they take a loss, take a loss to the master and i
+Throws crazy blows and they knows i be plasterin
+All across the room on the ceilings and the walls to
+Punk little suckers didn't know i had the gall to
+Come around they block with my cocked diesel system and
+Turn it up to 10 and then start to dis em and
+They didn't wanna battle if they did when they saw me
+They'd a open up they trunk but they try to ignore me
+Hey little suckers i know you hear me callin you
+Cause you wanted some but i see that you ougta do
+Frontin ain't no future and you're frontin so let's get i on
+Like marvin gaye, take the cash and siti it on
+The hood of ya wick-wack low-ridin cadillac
+Back up ya boys and let's start the battle
+Act like, ya know, the masta ace don't play when it come to my bass, aahhhh
 
+Check it out baby, check it out y'all
+I was born to roll (repeat several)
+
+Drivin down the block like what else should a brother do
+It's saturday, it's saturday, the heat might smother you
+Rollin down my windows yeah i have a air-conditioner
+But i got the sound i want the whole world to listen ta
+Waitin at a red light, kentucky fried chicken in
+Low end theory tape in, bass crazy kickin in
+See this puerto rican latin chico rico suave
+In a redlla eh yo does he wanna play
+Pullin up beside me, lookin like he want it
+Show me what ya got then watch me get up on it
+Holdin up traffic but we can't hear they horns
+Cause he music a grande yeah he got it goin on
+Bit i think i better school him cause he don't know the time
+So i'm turnin up the boom cause he cannot mess with mine
+Brothers hear me hittin from like 50 blocks away i
+Wanna turn they heads so you know i gotta play
+High decibels passin through a residential district
+See a few cuties and i turn it up like this quick
+Mira, mira man don't sleep, i got tha, i got tha, i got tha woofers in my jeep
+
+Black boy, black boy turn that shit down
+You know that america don't wanna hear the sound
+Of the bass drum jungle music go back to africa
+Nigga i'll arrest ya if ya holdin up trafffic
+I'll be damned if i listen, so cops save your breath and
+Write another ticket if ya have any left and
+I'm breakin ear drums while i'm breakin the law
+I'm disturbin all the peace cause sister souljah said war
+So catch me if ya can, if ya can here's a donut
+Cause once ya drive away, yo i'm gonna go nut
+And turn it up to where it was before nice try
+But ya can't stop the power of the bass in ya eye
+I wonder if i blasted a little elvis presley
+Would they pull me over and attempt to arrest me
+I really doubt doubt it, they probably start dancin
+Jumpin on my tip and pissin in they pants and
+Wigglin and jigglin and grabbin on they pelvis
+But you know my name so you never hear no elvis
+Strictly the hardcore dirty street level hits
+God's on my side so watch what the devil gets
+Positivity hittin 50 levels deep
+Comin out, they comin out the woofers in my jeep

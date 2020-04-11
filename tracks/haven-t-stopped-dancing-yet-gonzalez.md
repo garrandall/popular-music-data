@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: haven-t-stopped-dancing-yet-gonzalez
+lyrics_url: https://genius.com/Gonzalez-havent-stopped-dancing-yet-lyrics
 name: Haven't Stopped Dancing Yet
 rankings:
 - end_date: '1979-01-12'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
 ---
+Haven't stopped dancing yet
+Since we met on our first date
+I haven't stopped loving you yet
+It's all right all right all right all right
 
+Haven't stopped dancing yet
+With you my only partner
+I haven't stopped loving you yet
+It's all right all right all right all right
+
+Well you see
+Your all I ever wanted in a girl
+My
+
+Well it's all right all right
+Lets have some fun tonight
+
+Haven't stopped dancing yet
+Since we met on our first date
+I haven't stopped loving you yet
+It's all right all right all right all right
+
+Haven't stopped dancing yet
+With you my only partner
+I haven't stopped loving you yet
+It's all right all right all right all right
+
+Well you see
+Your all I ever wanted in a girl
+My
+
+Well it's all right all right
+Lets have some fun tonight
+
+I haven't stopped dancing yet
+Since we met on our first date
+I haven't stopped loving you yet
+It's all right all right all right all right
+
+Haven't stopped dancing yet
+With you my only partner
+I haven't stopped loving you yet
+It's all right all right all right all right
+
+I haven't stopped dancing yet
+I haven't stopped dancing yet
+I haven't stopped dancing yet
+
+I haven't stopped dancing yet
+With you my only partner
+I haven't stopped loving you yet
+
+It's all right
+
+Haven't

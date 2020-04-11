@@ -1,10 +1,10 @@
 ---
 artists:
 - Hugo Montenegro
-- His Orchestra And Chorus
 features: []
 genres: []
 key: the-good-the-bad-and-the-ugly-hugo-montenegro-his-orchestra-and-chorus
+lyrics_url: https://genius.com/Hugo-montenegro-and-his-orchestra-the-good-the-bad-and-the-ugly-lyrics
 name: The Good The Bad And The Ugly
 rankings:
 - end_date: '1968-02-23'
@@ -96,4 +96,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
 ---
-
+Here is the tale of the boy standing in front of you
+Not one word is exaggerated -- entirely true
+A four square in chemistry, my agenda tonight
+As I rock the house left, and a I rock the house right
+I can't fly, I can't dance
+And I don't like any bands
+Listen up, 'cause I am Atom, I am the sequencing man
+Where I want is where I go
+I'm always armed with a burrito
+Listen up, 'cause I am Atom, I am the sequencing man
+I travel the world with my band in a box
+And I rock 10 times harder than your average punk rock band
+I'm almost done, I'm almost through
+I hope to God I'm not boring you
+I often do the number 2
+I am the always often pooping Jew
+I can't fly, I can't dance
+And I don't like any bands
+Listen up, 'cause I am Atom, I am the sequencing man
+Where I want is where I go
+I'm always armed with a burrito
+Listen up, 'cause I am Atom, I am the sequencing man
+I can't fly, I can't dance
+And I don't like your band
+Listen up, 'cause I am Atom, I am the sequencing man
+Where I want is where I go
+I'm always armed with a burrito
+Pay attention, 'cause I am Atom, I am the sequencing man

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-see-clearly-now-johnny-nash
+lyrics_url: https://genius.com/Johnny-nash-i-can-see-clearly-now-lyrics
 name: I Can See Clearly Now
 rankings:
 - end_date: '1972-09-15'
@@ -87,4 +88,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+I can see clearly now the rain is gone
+I can see all obstacles in my way
+Gone are the dark clouds that had me blind
+It's going to be a bright, bright sun shiny day
+It's going to be a bright, bright sun shiny day
 
+I can make it now the pain is gone
+All of the bad feelings have disappeared
+Here is that rainbow I've been praying for
+It's going to to be a bright, bright sun shiny day
+
+Look all around, there's nothing but blue skies
+Look straight ahead, nothing but blue skies
+
+I can see clearly now the rain is gone
+I can see all obstacles in my way
+Gone are the dark clouds that had me blind
+It's going to be a bright, bright sun shiny day
+It's going to be a bright, bright sun shiny day

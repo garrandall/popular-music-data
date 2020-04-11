@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-your-thing-the-watts-103rd-street-rhythm-band
+lyrics_url: https://genius.com/Charles-wright-and-the-watts-103rd-street-rhythm-band-do-your-thing-lyrics
 name: Do Your Thing
 rankings:
 - end_date: '1969-02-07'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
+Express Yourself!
 
+Express Yourself!
+
+You don't ever need help from nobody else. All you got to do now:
+
+Express Yourself!
+
+What ever you do, do it good
+
+What ever you do, do it good. All right...
+
+It's not what you look like, when you're doin' what you're doin'
+
+It's what you're doin' when you're doin' what you look like you're doin'!
+
+Express Yourself!
+
+Express Yourself!
+
+They're doin'it on the moon, yeah...
+
+In the jungle too
+
+Everybody on the floor, now
+
+Jumpin' like a kangaroo
+
+So let the horns do the thing they do, yo...
+
+Some people have everything, and other people don't
+
+But everything don't mean a thing if it ain't the thing you want
+
+Express Yourself!
+
+Express Yourself!
+
+O, do it! O, do it
+
+Do it to it. Go on and do it
+
+Yo, do it. Give
+
+Express Yourself!
+
+Express Yourself

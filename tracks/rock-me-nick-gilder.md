@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-me-nick-gilder
+lyrics_url: https://genius.com/Nick-gilder-you-really-rock-me-lyrics
 name: Rock Me
 rankings:
 - end_date: '1979-06-22'
@@ -31,4 +32,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+Take them for the ride
+Let them feel the energy you can provide
+Roll it through the times
+Make it feel like real emotion this time around
 
+You're so physical very intellectual
+Can't stop asking why
+Running with the changes I'm a social institution
+Don't stop driving them wild, wild, wild
+
+(You really) rock me
+
+Touching with your eyes
+Make contact for the moment
+Where you think you'll survive
+Take them for the ride
+Although young
+Tomorrow wants to know your surprise
+
+(You really) rock me

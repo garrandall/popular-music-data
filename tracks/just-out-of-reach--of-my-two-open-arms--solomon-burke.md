@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-out-of-reach--of-my-two-open-arms--solomon-burke
+lyrics_url: https://genius.com/Solomon-burke-just-out-of-reach-lyrics
 name: Just Out Of Reach (Of My Two Open Arms)
 rankings:
 - end_date: '1961-09-24'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
 ---
+Just out of reach of my two empty arms
 
+A love that runs away from me
+Dreams that just won't let me be
+Blues that keeps on bothering me
+Chains that just won't set me free
+
+Too far away from you and all your charm
+Just out of reach of my two empty arms
+
+Each night in dreams, I see your face
+Memories, time cannot erase
+Then I awake and find you're gone
+Then I'm so blue and all alone
+
+So far away from you, so sweet and warm
+Just out of reach of my two empty arms, empty arms
+
+That lonesome feeling all the time
+Knowing you could not be mine
+Dreams that hurt me in my sleep
+Vows that we could never, never keep
+
+So far away from you and all your charm
+Just out of reach of my two empty arms, empty arms

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-this-time-tiffany
+lyrics_url: https://genius.com/Tiffany-all-this-time-lyrics
 name: All This Time
 rankings:
 - end_date: '1988-11-11'
@@ -91,4 +92,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
 ---
+All this time
+I knew someday you'd need to find
+Something that you left behind
+Something I can't give you
 
+All these tears
+And like a light
+Love disappears
+But hearts are good for souvenirs
+And memories are forever
+
+All this time
+All in all
+I've no regrets
+The sun still shines
+The sun still sets
+
+The heart forgives
+The heart forgets
+But what will I do now
+With all this time
+
+One more kiss
+Even though it's come to this
+I'll close my eyes
+And make a wish
+Hoping you remember
+
+All this time
+All in all
+I've no regrets
+The sun still shines
+The sun still sets
+
+The heart forgives
+The heart forgets
+But what will I do now
+With all this time
+
+Say goodbye
+Apart
+We'll make another try
+
+But don't be sorry
+If you cry
+I'll be crying too
+On this day
+
+All this time
+All in all
+I've no regrets
+The sun still shines
+The sun still sets
+
+The heart forgives
+The heart forgets
+But what will I do now
+With all this time

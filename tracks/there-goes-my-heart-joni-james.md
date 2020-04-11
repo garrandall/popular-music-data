@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-my-heart-joni-james
+lyrics_url: https://www.musixmatch.com/lyrics/Joni-James/There-Goes-My-Heart
 name: There Goes My Heart
 rankings:
 - end_date: '1958-09-21'
@@ -71,4 +72,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
 ---
+There goes my heart, there goes the one I love
+There goes the girl I wasn't worthy of
+There goes my happiness, it couldn't be
+There goes somebody else in place of me
 
+Goodbye romance, it couldn't last somehow
+I had my chance but it's all over now
+I never thought that she could pass me by
+There goes my heart and here am I
+
+I never thought that she could pass me by
+There goes my heart and here am I

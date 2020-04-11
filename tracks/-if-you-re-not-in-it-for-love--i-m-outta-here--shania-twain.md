@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -if-you-re-not-in-it-for-love--i-m-outta-here--shania-twain
+lyrics_url: https://genius.com/Shania-twain-if-youre-not-in-it-for-love-im-outta-here-lyrics
 name: (If You're Not In It For Love) I'm Outta Here!
 rankings:
 - end_date: '1995-11-03'
@@ -67,4 +68,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
 ---
+Three, four, five
 
+
+Mind if I sit down?
+Can I buy you a round?
+Haven't seen your face before
+Are you new in town?
+It's the same old line
+Oh every time
+Are you here alone?
+Can I take you home?
+
+
+Now every woman sees
+With every "pretty please"
+There's a pair of lying eyes
+And a set of keys
+He says, "come be a star" (Ooh)
+In the back seat of my car
+Oh, but baby, slow down
+You're going way too far
+
+
+Let me make it clear
+To you, my dear, yeah
+
+
+
+If you're not
+In it for love
+If you're not
+Willing to give it all you got
+If you're not in it for life
+If you're not in it for love
+Let me make it clear
+To you, my dear
+
+You're not in it for love
+I'm outta here!
+
+
+Babe, I can change your world
+Make you a cover girl
+Yeah, you could be a beauty queen in a magazine
+Now tell me, what's your sign? (Ooh)
+Why always the same old line?
+I'll be in number 409
+If you change your mind
+
+
+Let me make it clear
+To you, my dear
+
+
+
+If you're not
+In it for love
+If you're not
+Willing to give it all you got
+If you're not in it for life
+If you're not in it for love
+Let me make it clear
+To you, my dear
+
+You're not in it for love
+I'm outta here!
+
+
+If you're not in it for love, baby
+Willing to give it all you got
+Oh, if you're not in it for life
+If you're not in it for love
+If you're not in it for life
+If you're not in it for love
+I'm outta here!

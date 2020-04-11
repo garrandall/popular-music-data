@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-make-the-world-go-round-the-stylistics
+lyrics_url: https://genius.com/The-stylistics-people-make-the-world-go-round-lyrics
 name: People Make The World Go Round
 rankings:
 - end_date: '1972-06-09'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
 ---
+Trash men didn't get my trash today
+Oh, why? Because they want more pay
+Buses on strike want a raise in fare
+So they can help pollute the air
 
+But that's what makes the world go round
+The ups and downs, the carousel
+Changing people, they'll go around
+Go underground, young man
+People make the world go round
+
+Wall Street losin' dough on every share
+They're blaming it on longer hair
+Big men smokin' in their easy chairs
+On a fat cigar without a care
+
+But that's what makes the world go round
+The ups and downs, the carousel
+Changing people, they'll go around
+Go underground, young man
+People make the world go round
+
+But that's what makes the world go round
+The ups and downs, the carousel
+Changing people, they'll go around
+Go underground, young man
+People make the world go round
+
+People make the world go round
+People make the world go round
+People make the world go round

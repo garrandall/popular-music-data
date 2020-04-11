@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-wait-too-long-tony-bennett
+lyrics_url: https://genius.com/Tony-bennett-dont-wait-too-long-lyrics
 name: Don't Wait Too Long
 rankings:
 - end_date: '1963-10-18'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
 ---
+You are the summer
+And I am the autumn
+Don't wait too long
+My songs go on
+When yours has just begun
+Don't wait too long
 
+
+Fall is a lovely time of the year
+When leaves turn to golden brown
+But soon fall is ending
+And winter is near
+And the leaves start tumbling down
+
+
+Why must the moments
+Go by in such haste
+Don't wait too long
+Winter is coming
+We've no time to waste
+Don't wait too long
+
+
+And while my heart's gay
+And foolish and free and
+Still can sing its song
+Share every precious moment with me
+Don't wait too long
+
+So while my heart's gay
+And foolish and free and
+Still can sing its song
+Share every precious moment with me
+Don't wait too long

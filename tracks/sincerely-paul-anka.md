@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sincerely-paul-anka
+lyrics_url: https://genius.com/Paul-anka-sincerely-lyrics
 name: Sincerely
 rankings:
 - end_date: '1969-06-06'
@@ -23,4 +24,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+Sincerely, oh, yeah, sincerely
+Cause I love you so dearly
+Please say you'll be mine
 
+Sincerely, oh
+You know how I love you
+I'll do anything for you
+Please say you'll be mine
+
+Oh, love, won't you tell me
+Why I love that girl so
+She doesn't want me
+No, I'll never, never
+Never, never let her go
+
+Sincerely, oh
+You know how I love you
+I'll do anything for you
+Please say you'll be mine
+
+Sincerely, oh
+You know how I love you
+I'll do anything for you
+Please say you'll be mine
+
+Sincerely, sincerely
+Sincerely...

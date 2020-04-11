@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brown-sugar-d-angelo
+lyrics_url: https://www.musixmatch.com/lyrics/D-Angelo-2/Brown-Sugar
 name: Brown Sugar
 rankings:
 - end_date: '1995-07-07'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
 ---
+Let me tell you 'bout this girl, maybe I shouldn't
+I met her in Philly and her name was Brown Sugar
+See, we be making love constantly
+That's why my eyes are a shade blood burgundy
+The way that we kiss is unlike any other way
+That I be kissing when I'm kissing what I'm missing
+Won't you listen?
 
+Brown Sugar babe, I gets high off your love
+I don't know how to behave
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+Ooh ooh
+
+Oh sugar when you're close to me
+You love me right down to my knees
+And whenever you let me hit it
+Sweet like the honey when it comes to me
+Skin is caramel with those cocoa eyes
+Even got a big sister by the name of Chocolate Thai
+
+Brown Sugar babe, I gets high off your love
+I don't know how to behave
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+Ooh ooh
+
+Now that'd be how the story goes
+Brown Sugar got me open, now I want some more
+Always down for a ménage à trois
+But I think I'm a hit it solo
+Hope my niggas don't mind
+Stick out my tongue and I'm bout
+Ready to hit this pretty gritty
+Bitty with persistence
+Yo, I don't think ya'll hear me
+
+Brown Sugar babe, I gets high off your love
+I don't know how to behave
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+Ooh ooh
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)
+I want some of your Brown Sugar (sugar)

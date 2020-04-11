@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-know-i-love-you--don-t-you--howard-jones
+lyrics_url: https://genius.com/Howard-jones-you-know-i-love-you-dont-you-lyrics
 name: You Know I Love You  Don't You?
 rankings:
 - end_date: '1986-10-24'
@@ -71,4 +72,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
-
+YOU KNOW I LOVE YOU...DON'T YOU?
+Howard Jones
+You got the socket and I got the plug
+I am the floor and you are the rug
+I got the rhythm you got the beat
+We feel it shake us from our souls to our feet
+And you know I Love you
+You know I Love you...don't you
+You got the metal and I got the die
+We make a structure that no one can deny
+I need you and you need me
+I need your honey like a flower needs a bee
+You know I Love you
+You know I Love you...don't you
+No one is an island on that you can depend
+A person on his own is a sinking ship
+It will be that way til the time will end
+Now don't you worry when things get tough
+We'll stick together through the smooth and the rough
+Your the steam engine and I am the tracks
+Roll over me I'll be rolling right back 'cos

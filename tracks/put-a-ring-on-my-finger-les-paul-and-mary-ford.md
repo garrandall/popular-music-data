@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: put-a-ring-on-my-finger-les-paul-and-mary-ford
+lyrics_url: https://genius.com/Les-paul-and-mary-ford-put-a-ring-on-my-finger-lyrics
 name: Put A Ring On My Finger
 rankings:
 - end_date: '1958-08-24'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
 ---
-
+Just put a ring on my finger
+A kiss on my cheek
+And you can bet your life
+I'll marry you in the best side of the week
+Just say you love me
+Be faithful and true
+And there's nothing in this great big world
+I wouldn't do for you
+Now some folks are so bashful
+When it comes to making love
+Some folks must too forward
+And others need a shove
+I studied love most carefully
+And this way you can't miss
+Offer me all your love
+A ring and a kiss
+Just put a ring on my finger
+A kiss on my cheek
+And you can bet your life
+I'll marry you in the best side of the week

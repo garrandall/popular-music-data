@@ -5,6 +5,7 @@ features:
 - Tony DeFranco
 genres: []
 key: heartbeat---it-s-a-lovebeat-the-defranco-family-tony-defranco
+lyrics_url: https://genius.com/The-defranco-family-heartbeat-its-a-lovebeat-lyrics
 name: Heartbeat - It's A Lovebeat
 rankings:
 - end_date: '1973-09-14'
@@ -76,4 +77,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
+Girl, when I'm alone with you
+I get a feeling through and through
+Telling me that love is coming on
 
+My head starts spinning round and round
+And I don't care what's up or down
+'Cause deep in my soul
+I'm out of control
+When I start to hear the sound of
+
+A heartbeat
+It's a lovebeat
+And a lovebeat is a good vibration
+Oh, a heartbeat is a lovebeat
+And when we meet
+It's a good sensation
+
+Listen to my heart pound
+Listen to my love sound
+Feel it getting stronger
+Can't hold back any longer
+
+Heartbeat
+It's a lovebeat
+And a lovebeat is a good vibration
+Oh, a heartbeat it's a lovebeat
+And when we meet
+It's a good sensation
+Listen
+
+Pictures pass before my eyes
+Like a vision in disguise
+Tryin' to explain the way I feel
+
+And there's a movement in my mind
+Like a rhythm counting time
+Breaking down all my defenses
+Overcoming all of my senses
+
+Heartbeat
+It's a lovebeat
+And a lovebeat is a good vibration
+Oh, a heartbeat it's a lovebeat
+And when we meet
+It's a good sensation
+
+Listen to my heart pound
+Listen to my love sound
+Temperature is rising
+Girl, there's no disguising
+
+Heartbeat
+It's a lovebeat
+And a lovebeat is a good vibration
+Oh, a heartbeat it's a lovebeat
+And when we meet
+It's a good sensation

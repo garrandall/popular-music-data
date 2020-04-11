@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-people-america
+lyrics_url: https://genius.com/America-lonely-people-lyrics
 name: Lonely People
 rankings:
 - end_date: '1975-01-03'
@@ -63,4 +64,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
+This is for all the lonely  people
+Thinking that life has passed them by
+Don't give up until you drink from the silver cup
+And ride that highway in the sky
 
+This is for all the single people
+Thinking that love has left them dry
+Don't give up until you drink from the silver cup
+You never know until you try
+
+Well, I'm on my way
+Yes, I'm back to stay
+Well, I'm on my way back home (Hit it)
+
+This is for all the lonely people
+Thinking that life has passed them by
+Don't give up until you drink from the silver cup
+And never take you down or never give you up
+You never know until you try

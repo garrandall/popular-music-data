@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-keep-me-hangin--on-the-vanilla-fudge
+lyrics_url: https://genius.com/Vanilla-fudge-you-keep-me-hangin-on-lyrics
 name: You Keep Me Hangin' On
 rankings:
 - end_date: '1967-07-14'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
 ---
+Set me free, why don't you babe
+Get out my life, why don't you babe (Ooooh)
+You really don't want me
+You just, keep me hangin' on
+You really don't need me
+You just, keep me hangin' on
 
+
+Why do you keep comin' around
+Playing with my heart
+Why don't you get out of my life
+And let me try to make a new start
+Let me get over you
+The way you've gotten over me
+
+
+Set me free, why don't you babe
+Get out my life, why don't you now (Ooooh)
+You really don't want me
+You just, keep me hangin' on
+You really don't need me
+You just, keep me hangin' on
+
+
+You said, when we broke up
+You just wanna be friends
+But how can we still be friends
+When seeing you only breaks my heart again
+And there ain't nothing I can do about it
+(Give it to me)
+
+
+You know I need love
+(Set me free, why don't you babe)
+Talkin' 'bout love
+(Get out my life, why don't you babe) (Ooooh)
+You really don't want me
+You just, keep me hangin' on
+You really don't need me
+You just, keep me hangin' on
+
+
+Get out my life, why don't you babe (Ooooh)
+Get out my life, why don't you babe (Ooooh)
+Get out my life, why don't you babe (Ooooh)
+Get out my life, why don't you babe (Ooooh)
+
+
+(Hey!)
+(Come on to me, yeah!)
+(Come on)

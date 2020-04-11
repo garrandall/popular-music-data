@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-bitty-girl-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-little-bitty-girl-lyrics
 name: Little Bitty Girl
 rankings:
 - end_date: '1960-02-07'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+In such a big, big world
+Somewhere in this big big world
+There's got to be a Little Bitty Girl for me
+I've got a big big love
+For this Little Bitty Girl
+So where in this big big world can she be?
 
+I've searched high and low
+In every place I go
+I ask everyone I know
+Where is this love for me?
+I have such big big dreams bout
+This Little Bitty Girl
+So where in this big big world can she be?
+
+In such a big, big world
+Somewhere in this big big world
+There's got to be a Little Bitty Girl for me
+I've got a big big love
+For this Little Bitty Girl
+So where in this big big world can she be?
+
+I've searched high and low
+In every place I go
+I ask everyone I know
+Where is this love for me?
+I have such big big dreams bout
+This Little Bitty Girl
+So where in this big big world can she be?

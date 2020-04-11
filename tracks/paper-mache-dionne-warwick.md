@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paper-mache-dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-paper-mache-lyrics
 name: Paper Mache
 rankings:
 - end_date: '1970-07-17'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
 ---
+Twenty houses in a row
+Eighty people watch a TV show
+Paper people, cardboard dreams
+How unreal the whole thing seems
 
+Can we be living in a world made of paper maché?
+Everything is clean and so neat
+Anything that's wrong can be just swept away
+Spray it with cologne and the whole world smells sweet
+
+Ice cream cones and candy bars
+Swings and things like bicycles and cars
+There's a sale on happiness
+You buy two and it costs less
+
+Can we be living in a world made of paper maché?
+Everything is clean and so neat
+Anything that's wrong can be just swept away
+Spray it with cologne and the whole world smells sweet
+
+Read the papers, keep aware
+While you're lounging in your leather chair
+And if things don't look so good
+Shake your head and knock on wood
+
+Can we be living in a world made of paper maché?
+Everything is clean and so neat
+Anything that's wrong can be just swept away
+Spray it with cologne and the whole world smells sweet
+Like paper maché

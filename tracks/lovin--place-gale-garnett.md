@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovin--place-gale-garnett
+lyrics_url: https://www.musixmatch.com/lyrics/Gale-Garnett/Lovin-Place
 name: Lovin' Place
 rankings:
 - end_date: '1964-12-11'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+Summer has come and gone
+You have gone too
+You were my summer song
+My skies are blue
 
+But with the Autumn skies
+My skies turn grey
+You were my lovin' place
+You've gone away
+And now that lovin' place
+Stays on my mind, oh yeah
+Gonna leave this lonely place behind
+
+You werent meant to stay
+Your heart runs free
+I thought you'd change your ways
+For love only
+I still can hear your voice
+Ring in the air
+But when I turn around
+Woah, you are not there
+
+And still that loving place
+Stays on my mind, oh yeah
+Gonna leave this lonely place behind
+
+I've cried a little?
+Remembering, the way you used to laugh
+The way you'd sing
+I'll wait and watch the trains
+Hauling through
+As they pull into town
+Well, I'll be lookin' for you
+
+Because that lovin' place
+Stays on my mind, oh yeah
+Gonna leave this lonely place behind
+Gonna leave this lonely place behind

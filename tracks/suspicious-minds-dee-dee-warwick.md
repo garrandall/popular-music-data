@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suspicious-minds-dee-dee-warwick
+lyrics_url: https://genius.com/Dee-dee-warwick-suspicious-minds-lyrics
 name: Suspicious Minds
 rankings:
 - end_date: '1971-07-02'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
 ---
+We're caught in a trap, I can't walk out
+Because I love you too much, baby
+Why can't you see what you're doing to me
+When you don't believe a word I'm saying, saying, saying?
 
+
+We can't go on together with suspicious minds
+And we can't build our dreams on suspicious minds
+
+
+So, if an old friend I know should finally say "Hello"
+Would I still see suspicion in your eyes?
+Here we go again, asking where I've been
+Can't you see these tears?
+I'm crying, crying, crying
+
+
+We can't go on together with suspicious minds
+And we can't build our dreams on suspicious minds
+
+
+Oh, let our love survive
+Or dry the tears from your eyes
+Don't let a good thing die
+'Cause honey, you know I've never lied to you
+Oh yeah, yeah
+Oh yeah
+Oh yeah, yeah, yeah, yeah
+
+
+We're caught in a trap, I can't walk out
+Because I love you too much, baby
+Why can't you see what you're doing to me
+When you don't believe a word I'm saying?
+I'm caught in a trap, I can't walk out
+Because I love you...

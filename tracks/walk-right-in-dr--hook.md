@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-right-in-dr--hook
+lyrics_url: https://genius.com/Dr-hook-walk-right-in-lyrics
 name: Walk Right In
 rankings:
 - end_date: '1977-07-01'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
 ---
+Walk right in, sit right down, baby let your hair hang down
+Walk right in, sit right down, baby let your hair hang down
+Everybody's talking 'bout a new way of walking
+Do you want to lose you mind
+Walk right in, sit right down, baby let your hair hang down
 
+Walk right in, sit right down, daddy let your mind roll on
+Walk right in, sit right down, daddy let your mind roll on
+Everybody's talking 'bout a new way of walking
+Do you want to lose you mind
+Walk right in, sit right down, daddy let your mind roll on
+
+Walk right in, sit right down, honey let your hair hang down
+Walk right in, sit right down, honey let your hair hang down
+Everybody's talking 'bout a new way of walking
+Do you want to lose you mind
+Walk right in, sit right down, honey let your hair hang down
+
+Walk right in, sit right down, baby let your hair hang down
+Walk right in, sit right down, daddy let your mind roll on
+Walk right in, sit right down, honey let your hair hang down

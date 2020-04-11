@@ -91,22 +91,22 @@ rankings:
 
 Oooh...ooh...ooh...ooh... (Yeah)
 If they gleam in the sun
-while they spin and they fit on my truck then {I could remember}
+while they spin and they fit on my truck then
 And if it came in the sack
-No stems no seeds in the bag girl {I could remember}
+No stems no seeds in the bag girl
 
 And if they drip from my wrist and they look like they shine like new then
-{I could remember}
+
 But Ohhh girl
 I forgot to be your lover
 
 If it wasn't for the 9 to 5
-Double-up overtime then {I could remember}
+Double-up overtime then
 If it wasn't for the Sunday all star
-weekend games girl {I could remember}
+weekend games girl
 
 And if it wasn't for the dough
-Gettin fifty g's a show girl ya know that {I could remember}
+Gettin fifty g's a show girl ya know that
 But silly me, silly me
 Ohhh
 Tell me how could I ever forget to be your lover
@@ -127,17 +127,17 @@ Comin' in late from work
 You better put that woman first
 
 If it wasn't for the make up on my shirt
-Still I'd be chasin' skirts then {I could remember}
+Still I'd be chasin' skirts then
 And if it wasn't for that fight last night
-You smashin out my headlights then {I could remember}
+You smashin out my headlights then
 
 If it wasn't for parole
-Steady duckin' my P O girl you know {I could remember}
+Steady duckin' my P O girl you know
 But silly me, silly me, babe
 Tell me how could I ever forget to be your lover
 
 Now I realize that you need love too
-Spend my life makin' love to you 
+Spend my life makin' love to you
 Oh, girl
 Oh, I forgot to be your lover
 
@@ -152,15 +152,15 @@ When she starts playin' little games (I'm-I'm-I'm-I'm tellin' you, brother)
 Comin' in late from work
 You better put that woman first (Put that woman first)
 
-{So many times} Actin like it wasn't really nothin'
-{So many ways} Kept to myself, always runnin'
-{So many games} All that I sin
-{So many words} I need you to stay
-{Always came first} Even though sometimes fallin'
+ Actin like it wasn't really nothin'
+ Kept to myself, always runnin'
+ All that I sin
+ I need you to stay
+ Even though sometimes fallin'
 second
-{Came down to love} You know I had to win the last race
-{Spend some time} Put in some work
-{And for better or worse} Always put that woman first
+ You know I had to win the last race
+ Put in some work
+ Always put that woman first
 
 When she starts bringin' up old dirt
 And the fights keep getting worse (Gettin' worse)

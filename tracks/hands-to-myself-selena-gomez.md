@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hands-to-myself-selena-gomez
+lyrics_url: https://genius.com/Selena-gomez-hands-to-myself-lyrics
 name: Hands To Myself
 rankings:
 - end_date: '2016-01-01'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
 ---
+Can't keep my hands to myself
+No matter how hard I'm trying to
+I want you all to myself
+You're metaphorical gin and juice
 
+So come on give me a taste
+Of what it’s like to be next to you
+Won't let one drop go to waste
+You're metaphorical gin and juice
+
+
+Cause all of the downs and the uppers
+Keep making love to each other
+And I'm trying, trying, I'm trying, trying
+All of the downs and the uppers
+Keep making love to each other
+And I'm trying, trying, I'm trying, but I
+
+
+Can't keep my hands to myself
+My hands to myself
+Can't keep my hands to myself
+My hands to myself
+
+
+The doctors say you're no good
+But people say what they wanna say
+And you should know if I could
+I'd breathe you in every single day
+
+
+All of the downs and the uppers
+Keep making love to each other
+And I'm trying, trying, I'm trying, trying
+All of the downs and the uppers
+Keep making love to each other
+And I'm trying, trying, I'm trying, but I
+
+
+Can't keep my hands to myself
+My hands to myself
+Can't keep my hands to myself
+My hands to myself
+
+
+Can't keep my hands to myself
+I want it all, no, nothing else
+Can't keep my hands to myself
+Give me your all and nothing else
+Oh, I, I want it all
+I want it all, I want it all
+Can't keep my hands to myself
+I mean I could, but why would I want to?
+
+
+My hands to myself
+Can't keep my hands to myself
+My hands to myself
+Can't keep my hands to myself
+I want it all, no, nothing else
+Can't keep my hands to myself
+Give me your all and nothing else
+Can't keep my hands to myself

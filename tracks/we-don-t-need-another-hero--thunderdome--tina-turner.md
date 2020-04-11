@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-don-t-need-another-hero--thunderdome--tina-turner
+lyrics_url: https://genius.com/Tina-turner-we-dont-need-another-hero-thunderdome-lyrics
 name: We Don't Need Another Hero (Thunderdome)
 rankings:
 - end_date: '1985-07-12'
@@ -79,4 +80,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
 ---
+Out of the ruins
+Out from the wreckage
+Can't make the same mistake this time
+We are the children, the last generation
+We are the ones they left behind
+And, I wonder when we are ever gonna change
+Living under the fear, until nothing else remains
 
+
+We don't need another hero
+We don't need to know the way home
+All we want is life beyond
+Thunderdome
+
+
+Looking for something we can rely on
+There's gotta be something better out there
+Love and compassion
+Their day is coming
+All else are castles built in the air
+And I wonder when we are ever gonna change
+Living under the fear until nothing else remains
+
+
+All the children say
+We don't need another hero
+We don't need to know the way home
+All we want is life beyond
+Thunderdome
+
+
+So, what do we do with our lives
+We leave only a mark
+Will our story shine like a light
+Or end in the dark
+Give it all or nothing
+
+
+We don't need another hero
+We don't need to know the way home
+All we want is life beyond
+Thunderdome

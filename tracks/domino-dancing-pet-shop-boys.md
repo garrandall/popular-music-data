@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: domino-dancing-pet-shop-boys
+lyrics_url: https://genius.com/Pet-shop-boys-domino-dancing-lyrics
 name: Domino Dancing
 rankings:
 - end_date: '1988-10-14'
@@ -63,4 +64,111 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-07'
 ---
+(All day, all day)
 
+
+
+
+I don't know why, I don't know how
+I thought I loved you, but I'm not sure now
+I've seen you look at strangers too many times
+The love you want is of a different kind
+
+
+Remember when we felt the sun?
+A love like paradise, how hot it burned
+A threat of distant thunder, the sky was red
+And when you walked, you always turned every head
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+Domino dancing
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+(Domino dancing)
+
+
+
+
+I thought that when we fought I was to blame
+But now I know you play a different game
+I've watched you dance with danger, still wanting more
+Add another number to the score
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+Domino dancing
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+(Domino dancing)
+
+
+When you look around you wonder
+Do you play to win?
+Or are you just a bad loser?
+
+
+
+
+(All day, all day)
+(All day, all day)
+
+
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+(Domino dancing)
+(All day, all day)
+(All day, all day)
+
+
+I don't know why, I don't know how
+I thought I loved you, but I'm not sure now
+I hear the thunder crashing, the sky is dark
+And now a storm is breaking within my heart
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+Domino dancing
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+(Domino dancing)
+
+
+(All day, all day)
+(All day, all day)
+
+
+
+
+(All day, all day)
+(All day, all day)
+(Domino dancing)
+(All day, all day)
+(All day, all day)
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+(Domino dancing)
+(All day, all day)
+Watch them all fall down
+(All day, all day)
+Domino dancing
+
+
+(All day, all day)
+Watch them all fall down
+(All day, all day)

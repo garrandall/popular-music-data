@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-ways-to-love-a-man-tammy-wynette
+lyrics_url: https://genius.com/Tammy-wynette-the-ways-to-love-a-man-lyrics
 name: The Ways To Love A Man
 rankings:
 - end_date: '1969-09-05'
@@ -23,4 +24,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
 ---
-
+There are so many ways to love a man and so many things to understand
+And if there ever comes a time you decide to change your mind
+I'll need a way to hold you and I can cause I'll know all the ways to love a man
+But there's so many ways to lose a man so quickly he can slip through your hands
+One little thing goes wrong then all at once he's gone
+I'd have no way to hold him like I planned
+It takes more than just one way to love a man
+With my hands my heart anything I can find my child my home my soul and my mind
+I'll know that I can hold him yes I can if I know all the ways to love a man

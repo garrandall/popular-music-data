@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-about-us-the-coasters
+lyrics_url: https://genius.com/The-coasters-what-about-us-lyrics
 name: What About Us
 rankings:
 - end_date: '1959-12-13'
@@ -47,4 +48,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
 ---
+He's got a house made of glass
+Got his own swimming pool
+(What a gas)
+We've got a one room shack
+Five by six by the railroad track
 
+(Well)
+What about us, what about us?
+Don't wanna cause no fuss
+But what about us
+
+He's with a beautiful chick
+Every night of the week
+(Pretty slick)
+We're two poor hung up souls
+Girls won't touch with ten foot poles
+
+(Well)
+What about us, what about us?
+Don't wanna cause no fuss
+But what about us
+
+He goes to eat at the Ritz
+Big steaks
+(That's the breaks)
+We eat our hominy grits
+From a bag
+(What a drag)
+
+He's got a car made of suede
+With a black leather top
+(Got it made)
+If we go out on dates
+We go in a box on our roller skates
+
+(Well)
+What about us, what about us?
+Don't wanna cause no fuss
+But what about us
+
+He goes to eat at the Ritz
+Big steaks
+(That's the breaks)
+We eat our hominy grits
+From a bag
+(What a drag)
+
+He's got a car made of suede
+With a black leather top
+(Got it made)
+If we go out on dates
+We go in a box on our roller skates
+
+(Well)
+What about us, what about us?
+Don't wanna cause no fuss
+But what about us
+What about us, what about us

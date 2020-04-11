@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soul-kiss-olivia-newton-john
+lyrics_url: https://genius.com/Olivia-newton-john-soul-kiss-lyrics
 name: Soul Kiss
 rankings:
 - end_date: '1985-10-11'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+Soul kiss
+You left me dreaming
+Now I wonder are things just what they seem
+Well, I get down on my knees (and beg you, baby)
+Get down on my knees
 
+Soul kiss
+Some nights you get me wondering
+Is this the way
+This is a hunger
+Well, I get down on my knees (and beg you, baby)
+Get down on my knees
+
+Somewhere there is a fire burning
+Somewhere inside
+Somewhere there is a heart that's waiting
+To take a ride
+To take the ride to your soul kiss
+
+So this is what it has to lead to
+Take my hand and make me need tp
+I get down on my knees (and beg you, baby)
+Get down on my knees
+
+Soul kiss
+You left me hoping
+Now I wonder is the door still open
+Well, I get down on my knees (and beg you, baby)
+Get down on my knees
+
+Somewhere there is a fire burning
+Somewhere inside
+Somewhere there is a heart that's waiting
+To take a ride
+To take the ride to your soul kiss

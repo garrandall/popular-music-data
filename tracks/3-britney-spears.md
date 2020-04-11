@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 3-britney-spears
+lyrics_url: https://genius.com/Britney-spears-3-lyrics
 name: '3'
 rankings:
 - end_date: '2009-10-30'
@@ -87,4 +88,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
 ---
+1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+Counting
+1, 2, 1, 1, 1, 2, 3
+Counting
+1, 2
+Counting
+1, 2, 3
 
+
+Babe, pick a night to come out and play
+If it's alright
+What do you say?
+Merrier the more
+Triple fun that way
+Twister on the floor
+What do you say?
+
+
+Are you in?
+Living in sin is the new thing
+Yeah, are you in?
+I am counting
+
+
+1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+Counting, 1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+
+
+Three is a charm
+Two is not the same
+I don't see the harm
+So are you game?
+Let's make a team
+Make them say my name
+Loving the extreme
+Now are you game?
+
+
+Are you in?
+Living in sin is the new thing
+Yeah, are you in?
+I am counting
+
+
+1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+Counting, 1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+
+
+What we do is innocent
+Just for fun and nothing meant
+If you don't like the company
+Let's just do it, you and me
+You and me, or three
+Or four, on the floor
+
+
+1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh
+Counting, 1, 2, 3
+Not only you and me
+Got one eighty degrees, and I'm caught in between
+Counting, 1, 2, 3
+Peter, Paul and Mary
+Getting down with 3P
+Everybody loves... ooh

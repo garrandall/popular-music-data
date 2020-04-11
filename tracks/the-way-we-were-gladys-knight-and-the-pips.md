@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-we-were-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-the-way-we-were-lyrics
 name: The Way We Were
 rankings:
 - end_date: '1975-05-02'
@@ -75,4 +76,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
 ---
+Hey you know everybody's talkin' about the good old days
+Everybody the good old days
+The good old days
+Well, let's talk about the good old days
+Come to think about it
+As bad as we think they are
+These will become the good old days of our children
+Why don't we try to remember
+The kind of September
+When life was slow and oh so mellow
+Try to remember
+And if you remember
+Then follow
+Why does it always seem the past is better
+We look back and think
+The winters were warmer
+The grass was greener
+The skies were bluer
+The smiles were brighter
+Can it be that it was all so simple then
+Or has time rewritten every line
+And if we had the chance to do it all again
+Tell me
+Would we?
+Could we?
 
+Memories like the corners of my mind
+Memories
+Misty watercolor memories
+Of the way we were
+Scattered pictures of the smiles we left behind
+Smiles we gave to one another
+For the way we were
+
+Oh can it be that it was all so simple then
+Or has time rewritten every line
+And if we had the chance to do it all again
+Tell me
+Would we?
+Could we?
+
+Memories may be beautiful and yet
+What's too painful to remember
+We simply choose to forget
+So it's the laughter we'll remember
+We'll remember
+Whenever we remember
+The Way We Were...

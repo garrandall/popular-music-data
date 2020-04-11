@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: because-of-love-janet-jackson
+lyrics_url: https://genius.com/Janet-jackson-because-of-love-lyrics
 name: Because Of Love
 rankings:
 - end_date: '1994-02-04'
@@ -87,4 +88,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
 ---
+You got me singing
+Shoo-doo-doo
+Shoo-shoo-doo-doo
+Very good
+Because of love
+Shoo-doo-doo
+Shoo-shoo-doo-doo
+Love
+Because of love
+Shoo-doo-doo
+Shoo-shoo-doo-doo
+Oh OK
 
+
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+
+
+When I first met you
+I knew that my life would never be the same
+And I knew that you felt it too
+Never feel alone again, boy
+'Cause your love makes me feel so secure
+You got me singin
+
+
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+
+
+I don't care what people say
+You're the one that brings me so much joy
+When I look at your smiling eyes, my heart wants to dance boy
+There's only you on my mind
+And I never wanna leave your side
+It feels right, so let's stay together
+Never feel alone again, boy
+'Cause your love makes me feel so secure
+You got me singin'
+
+
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+
+
+It's 'cause of love
+We've shared great memories
+And the way you make me feel brand new
+It's 'cause of love I feel so high
+I don't need nobody else
+Because of love
+Because of love
+
+
+Be, be, because of...
+Be, be, because of love
+Be, be, because of love
+I know you better
+Be, be, because of...
+Be, be, because of love
+I know you better
+
+
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+Because of love I know you better
+Because of love we are together
+Because of love you have my heart
+Because of love we'll never part
+
+
+Because of love, yeah
+Because of love, yeah
+It's all because of love
+You know it's love, baby
+Sho nuff it's love, baby
+Because of love, baby
+Because of love, baby
+I know you know, baby

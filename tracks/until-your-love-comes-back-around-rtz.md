@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: until-your-love-comes-back-around-rtz
+lyrics_url: https://www.musixmatch.com/lyrics/RTZ/Until-Your-Love-Comes-Back-Around
 name: Until Your Love Comes Back Around
 rankings:
 - end_date: '1992-01-24'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
 ---
+I thought I spoke to you last evening
+I woke up cryin' in my sleep
+I dreamed that we were still together
+But now I'm back out on the street
 
+I've been runnin' so hard
+Tryin' to find the place
+Where my baby might be stayin'
+I've just gotta see her face
+
+I know there's lots of lonely people
+Cryin' all around the world
+And this is just another story
+About a boy who lost his girl
+
+Well I'm not expecting changes
+To happen overnight
+But baby if you're listening
+Won't you come home and make it right
+
+Until your love comes back around
+Until your love comes back around
+I can't get my feet back on the ground
+And things won't ever be the same
+
+I hope you're thinking about me baby
+Though I don't wish you any pain
+But if you miss me like I miss you darlin'
+You must be livin' in the rain
+
+I've been runnin' so hard
+Tryin' to find the place
+Where my baby might be stayin'
+I've just gotta see her face
+
+Until your love comes back around
+Until your love comes back around
+I can't get my feet back on the ground
+And things won't ever be the same
+
+I hope you're thinking about me baby
+Though I don't wish you any pain
+But if you miss me like I miss you darlin'
+You must be livin' in the rain
+
+Well I know we haven't spoken much lately
+Lord, but you gotta bring her back to me
+I won't make any promises that I can't keep
+But you know I'm a better man when I'm not alone you see
+
+Until your love comes back around
+Until your love comes back around
+I can't get my feet back on the ground
+And things won't ever be the same

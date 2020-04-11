@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-heart-rules-the-mind-gtr
+lyrics_url: https://genius.com/Gtr-when-the-heart-rules-the-mind-lyrics
 name: When The Heart Rules The Mind
 rankings:
 - end_date: '1986-05-16'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
 ---
+Mother, protect me, protect me from myself
+Lately I can't tell who really are my friends
+Burning the candle, the candle at both ends
+Through crowds, across floors, each night I just pretend
 
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+Watching the actor that takes the stage by storm
+Stealing the limelight while we're in the wings
+Sometimes the hero must play the underdog
+But I don't feel the same, I must have everything
+
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+Seasons will change
+You must move on
+Follow your dream
+
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+When the heart rules the mind
+One look and love is blind
+When you want the dream to last
+Take a chance, forget the past
+
+Seasons will change
+You must move on
+Follow your dream

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: disco-lady-johnnie-taylor
+lyrics_url: https://genius.com/Johnnie-taylor-disco-lady-lyrics
 name: Disco Lady
 rankings:
 - end_date: '1976-02-13'
@@ -83,4 +84,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
 ---
+Shake it up, shake it down
+Move it in, move it round, disco lady
+Move it in, move it out
+Move it in and about, disco lady
 
+Shake it up, shake it down
+Move it in, move it around, disco lady
+
+Hey sexy lady
+Said I like the way
+You move your thang
+Lord, have mercy, girl
+
+You dance so fine
+And you're right on time
+Girl you ought to be on TV on Soul Train
+
+When you get the groove
+It ain't no stopping
+Just can't help it
+But I'm, I'm finger pop-ping
+
+Shake it up, shake it down
+Move it in, move it round, disco lady
+Move it in, move it out
+Move it in and about, disco lady
+
+Shake it baby, shake it
+Baby, shake your thang
+Shake it baby, shake it
+Baby, shake your thang
+
+You got me grooving
+I feel like moving
+You got me loving
+Can't sit still
+I'm grooving
+I like that funky stuff
+
+Shake it up, shake it down
+Move it in, move it round, disco lady
+Shove it in, move it out
+Move it in and about, disco lady
+
+Hey sexy lady
+Girl, you drive me crazy
+You dance so fine
+And you're right on time
+Girl, you're driving me out of my mind
+
+If it wasn't for the girl
+Sitting next to me
+I'd jump right up and out-ta my safety seat
+
+You got me hypnotized
+Soul mesmo-ized
+Girl, you're moving me
+Girl, you're groovin' me
+
+Shake it baby, shake it
+Shake it baby, shake it
+Shake it baby, shake it
+Shake it baby, shake it
+
+Shake it baby, shake it
+Shake it baby, shake it
+Shake it baby, shake it
+Shake it baby, shake it
+
+Shake it up, shake it down
+Move it in, move it round, disco lady
+Move it in, move it out
+Shove it in and about, disco lady
+
+Shake it up, shake it down
+Move it in, move it round, disco lady
+Move it in, move it out
+Shove it in and about, disco lady
+
+Shake it up, shake it down
+Move it in, move it round, disco lady

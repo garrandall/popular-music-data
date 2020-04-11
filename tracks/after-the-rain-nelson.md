@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-the-rain-nelson
+lyrics_url: https://genius.com/Nelson-after-the-rain-lyrics
 name: After The Rain
 rankings:
 - end_date: '1990-11-09'
@@ -95,4 +96,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
 ---
+Look in the mirror, girl
+By now you should know
+You're living in a fantasy
+And you can't let go
 
+He never really loved you
+From the start
+The only thing he ever gave you
+Was a broken heart
+
+Don't be afraid to lose
+What was never meant to be
+
+Whoa, after the rain
+Washes away the tears
+And all the pain
+Only after the rain
+Can you live again
+
+I know the emptiness
+You feel inside
+You're thinking if you break away
+You'll never survive
+
+I'm waiting as my heart
+Beats just for you
+Come on and take my hand
+And I'll pull you through
+
+But things will never change
+Until you want them to
+
+Whoa, after the rain
+Washes away the tears
+And all the pain
+Only after the rain
+Can you live again
+
+Whoa, whoa, after the rain
+(After the rain)
+You'll see the sun appear
+To light the way
+Only after the rain
+Can you hope to find
+True love again
+
+He never really loved you
+From the start
+The only thing he ever gave you
+Was a broken heart
+
+Come on and take my hand
+And I'll pull you through
+You know the time has come for you
+To face the truth
+
+After the rain
+Washes away the tears
+And all the pain
+Only after the rain
+Can you live again
+
+Whoa, whoa, after the rain
+(After the rain)
+You'll see the sun appear
+To light the way
+Only after the rain
+Can you hope to find
+True love again
+
+(After the rain)
+Whoa, whoa, after the rain
+Can you love again
+
+After the rain
+Washes away the tears
+And all the pain
+Only after the rain
+Can you love again

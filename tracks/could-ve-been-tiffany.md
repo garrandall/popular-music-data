@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-ve-been-tiffany
+lyrics_url: https://genius.com/Tiffany-couldve-been-lyrics
 name: Could've Been
 rankings:
 - end_date: '1987-12-04'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
 ---
+The flowers you gave me are just about to die
+When I think about
+What could've been
+Makes me want to cry
 
+The sweet words you whispered didn't mean a thing
+I guess our song is over
+As we began to sing
+
+
+Could've been so beautiful
+Could've been so right
+Could've been my lover
+Every day day of my life
+
+Could've been so beautiful
+Could've been so right
+I'll never hold
+What could've been on a cold and lonely night
+
+
+The memories of our loving still linger in the air
+Like the faded scent of your roses
+Stay with me everywhere
+
+Everytime I get my hopes up
+They always seem to fall
+Still what could've been
+Is better than what can never be at all
+At all
+
+
+
+How can you hold what could've been
+On a cold and lonely night

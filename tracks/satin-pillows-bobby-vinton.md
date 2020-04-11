@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: satin-pillows-bobby-vinton
+lyrics_url: https://genius.com/Bobby-vinton-satin-pillows-lyrics
 name: Satin Pillows
 rankings:
 - end_date: '1965-12-10'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+Satin pillows to cry on
+Satin pillows to cry on
+You've got nothing else to rely on
+You gave up the most precious thing in life
+You turned from love to be a rich man's wife
+The man you married is colder than all his gold
+You're something he bought to keep from growing old
 
+Now you've got satin pillows to cry on
+Satin pillows tro cry on
+You've got nothing else to rely on
+And you've got fancy dresses and big cars
+Diamonds that outshine the brightest stars
+But diamonds can't replace the love we knew
+They won't keep you warm like my arms used to
+Now you've got satin pillows to cry on
+Satin pillows to cry on
+You've got nothing else to rely on
+Satin pillows to cry on
+Satin pillows to cry on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-power-the-sandpebbles
+lyrics_url: https://genius.com/The-sandpebbles-love-power-lyrics
 name: Love Power
 rankings:
 - end_date: '1967-12-01'
@@ -55,4 +56,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
+When we walk down the street
+Oh, we don't care who we see or who we meet
+Don't have to run (run), don't have to hide (hide)
+'Cause we have something burning inside
 
+
+'Cause we got love (love) power (power)
+And it's the greatest power of them all
+Oh, we've got love(love) power (power)
+And together we cannot fall
+Sometimes we're up (up), sometimes we're down (down)
+But our feet are always on the ground
+We always laugh (laugh), don't have to cry (cry)
+And this is the reason why:
+'Cause we got love (love) power (power)
+And it's the greatest power of them all, hey, hey, hey!
+We've got love (love) power (power)
+And together we cannot fall
+
+
+Hey, sometimes we're up (up), sometimes we're down (down)
+But out feet are always on the ground
+We always laugh (laugh), we don't have to cry (cry)
+And this is the reason why:
+'Cause we got love (love) power (power)
+And it's the greatest power of them all, hey,hey, hey!
+We got love (love) power (power)
+And together we can't fall, hey, hey, hey
+We got love (love) power (power)
+And it's the greatest power of them all, hey, hey, hey...

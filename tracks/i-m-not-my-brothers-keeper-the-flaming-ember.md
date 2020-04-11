@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-not-my-brothers-keeper-the-flaming-ember
+lyrics_url: https://genius.com/Flaming-ember-im-not-my-brothers-keeper-lyrics
 name: I'm Not My Brothers Keeper
 rankings:
 - end_date: '1970-10-23'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
 ---
+I'm not my brother's keeper, though he be strong or weaker
+Before you judge me, why not try to love me?
+I'll try to help you when he's wrongin' us
+Don't point your finger, sayin' it's all of us
 
+If a man yells "hate," will my voice be heard?
+Does he speak for me when he chooses one bad word?
+When wrong is done under one person's name
+Should all the people have to share the blame?
+
+I'm not my brother's keeper, though he be strong or weaker
+Before you judge me, why not try to love me?
+If I do wrong, then someone make me pay
+But if I'm right, don't try to block my way
+
+Don't judge the story without opening up the book
+The good you find inside it many times is overlooked
+Being militant don't mean peace ain't in your heart
+Though we're most impatient for freedom to start
+
+I'm not my brother's keeper, though he be strong or weaker
+Before you judge me, why not try to love me?
+Don't cut into me with your knives of doubt
+Before you judge me, why not hear me out?
+
+Whoa, brothers!!
+(I'm not my brother's keeper) 
+I'm not my brother's keeper, though he be strong or weaker
+Before you judge me, why not try to love me?
+
+I'll try to help you when he's wrongin' us
+Don't point your finger, sayin' it's all of us

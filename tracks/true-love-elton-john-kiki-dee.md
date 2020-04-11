@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: true-love-elton-john-kiki-dee
+lyrics_url: https://genius.com/Elton-john-true-love-808061-lyrics
 name: True Love
 rankings:
 - end_date: '1993-12-03'
@@ -56,4 +57,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
 ---
+Suntanned, windblown
+Honeymooners at last alone
+Feeling far above par
+Oh, how lucky we are
 
+While I give to you and you give to me
+True love, true love
+So on and on it will always be
+True love, true love
+
+For you and I have a guardian angel
+On high, with nothing to do
+But to give to you as you give to me
+Love forever, true
+Love forever, true
+
+For you and I have a guardian angel
+On high, with nothing to do
+But to give to you as you give to me
+Love forever, true
+Love forever, true
+
+Give me more true love
+Oh yeah
+True love, true love
+
+Gotta give me your true love
+Oh yeah
+True love, true love
+
+For you and I have a guardian angel
+On high, with nothing to do
+But to give to you as you give to me
+Love forever, true
+Love forever, true
+Love forever, true love

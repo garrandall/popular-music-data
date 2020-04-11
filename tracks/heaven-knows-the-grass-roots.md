@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-knows-the-grass-roots
+lyrics_url: https://genius.com/The-grass-roots-heaven-knows-lyrics
 name: Heaven Knows
 rankings:
 - end_date: '1969-11-14'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
 ---
+With a song in my heart
+And a chance to be yours forever
+I couldn't feel more secure
+I know I couldn't feel any better
 
+Oh Lord, Heaven knows
+How much I love you and
+How much it shows
+Oh Lord, Heaven
+Heaven knows
+
+Every time we're together
+Your love is movin' like lightnin' through me
+It's such a beautiful feelin'
+Never hearin' goodbye said to me
+
+Oh Lord, Heaven knows
+How much I love you and
+How much it shows
+Oh Lord, Heaven
+Heaven knows
+
+I was livin' without you
+Tryin' to make it alone
+But there's somethin' about you
+Now your heart is my home
+
+With a song in my heart
+And a chance to be yours forever
+I couldn't feel more secure
+I know I couldn't feel any better
+
+Oh Lord, Heaven knows
+How much I love you and
+How much it shows
+Oh Lord, Heaven
+Heaven knows
+
+Oh Lord, Heaven knows
+How much I love you and
+How much it shows
+Oh Lord, Heaven
+Heaven knows
+Lord, Heaven knows
+How much I love you and
+How much it shows
+Oh Lord, Heaven
+Heaven knows
+Lord

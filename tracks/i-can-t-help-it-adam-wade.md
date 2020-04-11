@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-help-it-adam-wade
+lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/I-Can-t-Help-It
 name: I Can't Help It
 rankings:
 - end_date: '1960-06-26'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
+Today I passed you on the street
+And my heart fell at your feet
+I can't help it
+If I'm still in love with you
 
+Somebody else stood by your side
+And he looks so satisfied
+I can't help it
+If I'm still in love with you
+
+A picture from the past
+Came slowly stealing
+As I brushed your arm
+And walked so close to you
+
+Then suddenly I got
+That old time feeling
+I can't help it
+If I'm still in love with you
+
+Oh, heaven only knows
+How much I miss you
+I can't help it
+If I'm still in love with you

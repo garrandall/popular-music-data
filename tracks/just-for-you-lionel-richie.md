@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-for-you-lionel-richie
+lyrics_url: https://genius.com/Lionel-richie-just-for-you-lyrics
 name: Just For You
 rankings:
 - end_date: '2004-05-07'
@@ -75,4 +76,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
 ---
+Golden days
+Life was play
+Pain was all a world away
+We went to school
+We learned the rules
+We trusted all they had to say
+Then life took a turn
+We all had to learn
+And we can't go back again
 
+
+And my heart is breaking
+Just for you
+Just for you
+And my arms are open
+Just for you
+Just for you
+Just for you
+
+
+God was god
+And dreams were dreams
+Life was all cake and ice cream
+Truth was true
+And lies were lies
+And we thought love would never die
+But the world moved on
+My illusions gone
+And i don't know who to blame
+
+
+And my heart is breaking
+Just for you
+Just for you
+And my arms are open
+Just for you
+Just for you
+And these tears i'm crying are for you
+Just for you
+Just for you
+Just for you
+
+
+I'm looking for protection
+Give me shelter from the storm
+I just hope this light inside me
+Keeps me strong
+
+Oooh baby
+Oooh baby
+
+
+And my heart is breaking
+Just for you
+Just for you
+And my arms they're open
+Just for you
+And these tears i'm crying are for you
+Just for you
+And my arms they're open
+Just for you
+Just for you
+And my heart is breaking
+For you
+Just for you
+Just for you
+My heart is breaking
+My heart is breaking
+Just for you
+Just for you
+Breaking, breaking
+Just for you
+
+
+Just for you
+Oh my heart is breaking
+And my arms are open
+Oh these tears i'm crying are just for you
+Oh yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-time-the-guess-who
+lyrics_url: https://genius.com/The-guess-who-no-time-lyrics
 name: No Time
 rankings:
 - end_date: '1969-12-26'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
 ---
+No time left for you
+On my way to better things
+No time left for you
+I'll find myself some wings
+No time left for you
+Distant roads are calling me
+No time left for you
+Mm-da, mm-da, mm-da, mm-da, mm-da
 
+No time for a summer friend
+No time for the love you send
+Seasons change and so did I
+You need not wonder why
+You need not wonder why
+There's no time left for you
+No time left for you
+
+No time left for you
+On my way to better things
+No time left for you
+I found myself some wings
+No time left for you
+Distant roads are calling me
+No time left for you
+Mm-day, mm-gay, mm-day, mm-gay, mm-day
+
+No time for a gentle rain
+No time for my watch and chain
+No time for revolving doors
+No time for the killing floor
+No time for the killing floor
+There's no time left for you
+No time left for you
+
+No time for a summer friend
+No time for the love you send
+Seasons change and so did I
+You need not wonder why
+You need not wonder why
+There's no time left for you
+No time left for you
+
+No time, no time, no time, no time
+No time, no time, no time, no time
+
+I got, got, got, got no time
+I got, got, got, got no time
+I got, got, got, got no time
+No, no, no, no, no, no, no time
+No, no, no, no, no, no, no time
+I got, got, got, got no time
+No, no, no, no, no, no, no, no, no
+No, no, no, no, no, no, no, no time
+I got no time, got no time, got no time, no time, got no time
+Got no time, got no time

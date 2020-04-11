@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thou-shalt-not-steal-dick-and-deedee
+lyrics_url: https://genius.com/Dick-and-dee-dee-thou-shalt-not-steal-lyrics
 name: Thou Shalt Not Steal
 rankings:
 - end_date: '1964-11-27'
@@ -59,4 +60,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
-
+Dick and Dedee
+Thou shalt not steal
+Thou shalt not steal
+That's what the Good Book says
+Ya, ya, ya, ya
+Thou shalt not steal
+Thou shalt not steal
+But somebody is a stealing
+You away from me
+I wonder if he really don't know
+That he'll reap exactly what he sows
+If he don't he'll find out someday
+When somebody steals you from him
+He'll be crying that thou shalt not steal
+Thou shalt not steal
+That's what the Good Book says
+Ya, ya, ya, ya, ya, ya, ya, ya

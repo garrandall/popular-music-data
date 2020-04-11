@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-promise-i-make-dakota-moon
+lyrics_url: https://genius.com/Dakota-moon-a-promise-i-make-lyrics
 name: A Promise I Make
 rankings:
 - end_date: '1998-03-27'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
 ---
+Girl, you're every breath I take
+Oh baby
+Your love rules every move I make
+Oh baby
+And I know that you can't read my mind
+And baby, maybe I
 
+Don't say it as often as I should
+But I really want it to be heard
+When I say I love you that's for good
+You have my word
+That day after day after all
+I will always be true
+That's a promise I make to you
+
+You, you take this heart of mine
+And make it better
+I need you to
+Come and walk with me through this life
+Forever
+And I know these words are long over due
+And baby, maybe I
+
+Don't say it as often as I should
+But I really want it to be heard
+When I say I love you that's for good
+
+You have my word
+That day after day after all
+I will always be true
+That's a promise I make to you
+
+I may hold you
+I may need you
+I may want to
+And baby, maybe I
+
+Don't say it as often as I should
+But I really want it to be heard
+When I say I love you that's for good
+You have my word
+That day after day after all
+I will always be true
+That's a promise I make to you
+
+A promise I make to you
+A promise I make to you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-this-love-whitesnake
+lyrics_url: https://genius.com/Whitesnake-is-this-love-lyrics
 name: Is This Love
 rankings:
 - end_date: '1987-10-30'
@@ -83,4 +84,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
 ---
+I should have known better than to let you go alone
+It's times like these I can't make it on my own
+Wasted days and sleepless nights
+And I can't wait to see you again
 
+
+I find I spend my time waiting on your call
+How can I tell you babe? My back's against the wall
+I need you by my side to tell me "It's alright"
+'Cause I don't think I can take anymore
+
+
+Is this love that I'm feeling?
+Is this the love that I've been searching for?
+Is this love or am I dreaming?
+This must be love, cause it's really got a hold on me
+A hold on me
+
+
+I can't stop the feeling I've been this way before
+But with you I've found the key to open any door
+I can feel my love for you growing stronger day by day
+And I can't wait to see you again
+So I can hold you in my arms
+
+
+Is this love that I'm feeling?
+Is this the love that I've been searching for?
+Is this love or am I dreaming?
+This must be love, cause it's really got a hold on me
+A hold on me
+
+
+
+
+Is this love that I'm feeling?
+Is this the love that I've been searching for?
+Is this love or am I dreaming?
+Is this the love that I've been searching for?
+Is this love or am I dreaming?
+Is this the love that I've been searching for?
+Is this love or am I dreaming?
+Is this the love that I've been searching for?
+
+
+Is this love?
+Is this love?

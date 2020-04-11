@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: danger-zone-kenny-loggins
+lyrics_url: https://genius.com/Kenny-loggins-danger-zone-lyrics
 name: Danger Zone
 rankings:
 - end_date: '1986-05-16'
@@ -91,4 +92,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
 ---
+Revvin' up your engine
+Listen to her howlin' roar
+Metal under tension
+Beggin' you to touch and go
 
+
+Highway to the Danger Zone
+Ride into the Danger Zone
+
+
+Headin' into twilight
+Spreadin' out her wings tonight
+She got you jumpin' off the deck
+And shovin' into overdrive
+
+
+Highway to the Danger Zone
+I'll take you right into the Danger Zone
+
+
+You'll never say hello to you
+Until you get it on the red line overload
+You'll never know what you can do
+Until you get it up as high as you can go
+
+
+Out along the edges
+Always where I burn to be
+The further on the edge
+The hotter the intensity
+
+
+Highway to the Danger Zone
+Gonna take it right into the Danger Zone
+Highway to the Danger Zone
+Ride into the Danger Zone
+
+
+Highway to the Danger Zone
+Gonna take it right into the Danger Zone
+Highway to the Danger Zone
+Ride into the Danger Zone

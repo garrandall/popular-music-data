@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: enter-sandman-metallica
+lyrics_url: https://genius.com/Metallica-enter-sandman-lyrics
 name: Enter Sandman
 rankings:
 - end_date: '1991-08-30'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-04'
 ---
+Say your prayers, little one, don't forget, my son
+To include everyone
+I tuck you in, warm within, keep you free from sin
+'Til the Sandman he comes
 
+
+Sleep with one eye open
+Gripping your pillow tight
+
+
+Exit light
+Enter night
+Take my hand
+We're off to never never-land
+
+
+Something's wrong, shut the light, heavy thoughts tonight
+And they aren't of Snow White
+Dreams of war, dreams of liars, dreams of dragons' fire
+And of things that will bite, yeah
+
+
+Sleep with one eye open
+Gripping your pillow tight
+
+
+Exit light
+Enter night
+Take my hand
+We're off to never never-land
+
+
+
+
+Now, I lay me down to sleep (Now, I lay me down to sleep)
+Pray the Lord my soul to keep (Pray the Lord my soul to keep)
+And if I die before I wake (If I die before I wake)
+Pray the Lord my soul to take (Pray the Lord my soul to take)
+Hush, little baby, don't say a word
+And never mind that noise you heard
+It's just the beast under your bed
+In your closet, in your head
+
+
+Exit light
+Enter night
+Grain of sand
+Exit light
+Enter night
+Take my hand
+We're off to never never-land (yeah, haha haha)
+
+
+Oh, yeah-yeah, yo
+We're off to never never-land
+Take my hand
+We're off to never never-land
+Take my hand
+We're off to never never-land

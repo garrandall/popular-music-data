@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-lost-it-kenny-chesney
+lyrics_url: https://genius.com/Kenny-chesney-i-lost-it-lyrics
 name: I Lost It
 rankings:
 - end_date: '2000-10-27'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
 ---
+I had a hundred dollar ring in my hand
+So weak and tired I could barely stand
+From being up all night, praying she'd say yes
+So with a hopeful heart I hit one knee
+With a tear in her eye she looked at me
+It was the moment of truth, I was scared to death
+My life hung on what that tear meant
+Then she smiled at me
+And I lost it
 
+
+No one can make me cry, make me laugh
+Make me smile or drive me mad, like she does
+It's like the curse that is the cure
+Better or worse one thing's for sure
+It's real love
+And I don't know what I'd do
+If I lost it
+
+
+Well the honeymoon ended and life began
+Jobs and bills losing touch with friends
+And that apartment it got smaller everyday
+Then one night the walls finally closed in
+I came home late, She said, "Where've you been
+You used to call and tell me you were on your way"
+She said, "If this is how it's gonna be, then I quit"
+Then she walked out the door
+I lost it
+
+
+No one can make me cry, make me laugh
+Make me smile or drive me mad, like she does
+It's like the curse that is the cure
+Better or worse one thing's for sure
+It's real love
+And I don't know what I'd do
+If I lost it
+
+
+I picked myself up off the floor
+She walked back through the door
+We made love like it was the first time
+
+
+No one can make me cry, make me laugh
+Make me smile or drive me mad like she does
+It's like the curse that is the cure
+Better or worse one thing's for sure
+It's real love
+And I don't know what I'd do
+If I lost it
+Oh, if I lost it (if I lost it)
+I don't wanna lose it

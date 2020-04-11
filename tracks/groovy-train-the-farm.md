@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: groovy-train-the-farm
+lyrics_url: https://genius.com/The-farm-groovy-train-lyrics
 name: Groovy Train
 rankings:
 - end_date: '1991-10-04'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
 ---
+I saw you walking down our street
+Well you looked quite neat
+Baggy jeans and long blond hair
+Without a care in the world
+What happened to the attitude you used to have at school
+What happened to the attitude when you broke all the rules
 
+I saw you just the other week
+But we did not speak
+You turned your back and flicked your hair
+As if you did not care
+Well I don't care where you come from
+I don't give a damn
+Well I don't care where you come from
+It's all a sham
+
+You're so special
+You're so special
+
+She sings
+
+Get on, get on, get on, get on 'the groovy train'
+Get on, get on, get on, get on 'the groovy train'
+
+Repeat

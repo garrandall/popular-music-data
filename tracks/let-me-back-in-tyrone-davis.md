@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-back-in-tyrone-davis
+lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/Let-Me-Back-In
 name: Let Me Back In
 rankings:
 - end_date: '1970-10-09'
@@ -39,4 +40,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
 ---
+Oh, I know you're surprised, girl
+To see me knocking at your door
+We had a little misunderstanding
+I packed my bags and left and said
+I wouldn't be back no more
 
+I went straight to another woman
+Who I thought wanted me
+But when she found out I had lost you
+She got cold as she could be
+
+She said, as far as she was concerned
+That, uh, we were through
+And I might as well turn around
+And go on back to you
+
+So I'm standing here knocking, baby
+(Standing here knocking)
+(Standing here knocking)
+Please, let me in
+
+(Standing here knocking)
+(Standing here knocking)
+
+I'm standing here knocking, baby
+(Standing here knocking)
+(Standing here knocking)
+Please, let me in
+
+(Standing here knocking)
+(Standing here knocking)
+
+Oh, you don't realize
+How much it hurt me, girl
+To have to look into your eyes
+
+But I got to come back home, baby
+Even though I know it's
+Gonna hurt my pride
+
+That other woman
+She just messed up my mind
+She didn't really love me
+She was only wasting time
+
+I was just a fool
+To believe that she was wrong
+She was only jealous of you, baby
+And trying to mess up our home
+
+I'm standing here knocking, baby
+(Standing here knocking)
+(Standing here knocking)
+Please, let me in
+
+(Standing here knocking)
+(Standing here knocking)
+
+I'm standing here knocking, baby
+(Standing here knocking)
+(Standing here knocking)
+Please, let me in
+
+(Standing here knocking)
+(Standing here knocking)
+
+I love you, baby
+Please open up
+The door for me, honey
+I need you
+
+(Standing here knocking)
+(Standing here knocking)
+
+Please let me come back in, baby
+I know, I know that I was wrong
+Honey, listen to me, baby
+I love you
+
+(Standing here knocking)
+(Standing here knocking)
+
+Baby, baby, I love you so much

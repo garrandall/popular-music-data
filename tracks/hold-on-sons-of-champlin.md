@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-sons-of-champlin
+lyrics_url: https://www.musixmatch.com/lyrics/The-Sons-Of-Champlin/Hold-On
 name: Hold On
 rankings:
 - end_date: '1976-06-25'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
 ---
+Say hold on, say hold on
+Hold on, say hold on
+Hold on, say hold on
+Hold on, say hold on
 
+I said hold on
+? Are gone
+There ain't no stoppin this train at all
+There's a love song
+That's pulling strong
+No resistance when you hear the song
+Can look and make you feel this way
+'Cause I need your lovin' day to day
+I wanna stay
+
+With lovin' we can do
+While seeing through
+No stoppin' this love I got for you
+And no way,?
+Where is loving going to take us to today
+Oh love, nothing makes me feel this way
+You need a love to?
+I wanna stay right by your side
+
+You just keep holding on
+Holding on
+You just keep holding on
+Holding on, holding on, holding on

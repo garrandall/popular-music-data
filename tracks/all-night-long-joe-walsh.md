@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-night-long-joe-walsh
+lyrics_url: https://genius.com/Joe-walsh-all-night-long-lyrics
 name: All Night Long
 rankings:
 - end_date: '1980-05-23'
@@ -71,4 +72,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+We get up early and we work all day
+We put our time in cause we like to stay up
+All night long
+All night long
 
+We keep on grinnin' 'til the weekend comes
+Just a pinch between your cheek and gums
+All night long
+All night long
+
+Start in the morning and get the job done
+Take care of business and we have some fun
+All night long
+All night long
+
+We like a long neck and a good old song
+Turn it up and then we'll sing along
+Sing along
+Oh, we're stayin' up all night long
+
+All night long
+All night long
+All night long
+All night long
+
+Songwriter:  Joe Walsh

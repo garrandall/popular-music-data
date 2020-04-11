@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-come-to-you-hanson
+lyrics_url: https://www.musixmatch.com/lyrics/Hanson/I-Will-Come-to-You
 name: I Will Come To You
 rankings:
 - end_date: '1997-12-05'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
 ---
+When you have no light to guide you
+And no one to walk beside you
+I will come to you
+Oh, come to you
+When the night is dark and stormy
+You won't have to reach out for me
+I will come to you
+Oh, come to you
 
+Sometimes, when all your dreams may have seen better days
+When you don't know how or why, but you've lost your way
+Have no fear when your tears are fallin'
+I will hear your spirit callin'
+And I swear that I'll be there, come with me
+
+When you have no light to guide you
+And no one to walk beside you
+I will come to you
+Oh, I will come to you
+When the night is dark and stormy
+You won't have to reach out for me
+I will come to you
+Oh, I will come to you
+Woah, na na na na na na
+Oh, I'll come to you
+Na na na na na na
+
+'Cause even if we can't be together
+We'll be friends now and forever
+And I swear that I'll be there, come with me
+
+When the night is dark and stormy
+You won't have to reach out for me
+I will come to you
+Oh, I will come to you
+
+We all need somebody we can turn to
+Someone who'll always understand
+So, if you feel that your soul is dyin'
+And you need the strength to keep tryin'
+I'll reach out and take your hand
+Woah, na na na na na na
+I'll reach out for your hand
+Na na na na na na
+
+I'll turn to you, oh
+When you have no light to guide you
+And no one to walk beside you
+I will come to you
+Oh, I will come to you
+When the night is dark and stormy
+You won't have to reach out for me
+Oh, I will come to you
+Oh, I'll come to you
+Oh, I'll come to you
+Oh, I will come to
+You
+Woah oh, I'll come to you
+Oh, I will come to you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cottonfields-ace-cannon
+lyrics_url: https://genius.com/Ace-cannon-cottonfields-lyrics
 name: Cottonfields
 rankings:
 - end_date: '1963-06-28'
@@ -35,4 +36,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+In them ol' cotton fields back home
+In them ol' cotton fields back home
+In them ol' cotton fields back home
 
+In them ol' cotton fields back home
+In them ol' cotton fields back home
+In them ol' cotton fields back home
+
+In them ol' cotton fields back home
+In them ol' cotton fields back home

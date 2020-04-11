@@ -1,9 +1,10 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: hit-the-road-jack-ray-charles-and-his-orchestra
+lyrics_url: https://genius.com/Ray-charles-hit-the-road-jack-lyrics
 name: Hit The Road Jack
 rankings:
 - end_date: '1961-09-17'
@@ -59,4 +60,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
 ---
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+What'd you say?
 
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+
+
+Old woman old woman, oh you treat me so mean
+You're the meanest old woman that I've ever seen
+I guess if you say so
+I'll have to pack my things and go (that's right)
+
+
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+What'd you say?
+
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+
+
+Now baby, listen baby, don't you treat me this way
+Cause I'll be back on my feet some day
+Don't care if you do, cause it's understood
+You ain't got no money, you just a no good
+Well I guess if you say so
+I'll have to pack my things and go (that's right)
+
+
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+What'd you say?
+
+Hit the road Jack and don't cha come back
+No more no more no more no more
+Hit the road Jack and don't cha come back
+No more
+
+
+Well, (don'cha come back no more)
+Uh, what'd you say? (don'cha come back no more)
+I didn't understand you (don'cha come back no more)
+You can't mean that (don'cha come back no more)
+Oh, now baby please (don'cha come back no more)
+What you're trying to do to me (don'cha come back no more)

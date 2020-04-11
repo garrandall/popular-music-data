@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-it-is-tesla
+lyrics_url: https://genius.com/Tesla-the-way-it-is-lyrics
 name: The Way It Is
 rankings:
 - end_date: '1990-03-16'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
 ---
+Doesn't matter who gets the best of who
+Or who can hurt who the most, no
+It never was meant for it to be that way
+Never should be that way at all
 
+The way it is, the way that it goes
+Happenin' day after day, yeah
+That's the way it is, the way that it goes
+Working in the strangest ways
+
+Even though we could never seem to work things out
+I still love you just the same
+I miss your smile and that sparkle in your eyes
+You're so beautiful, never change
+
+The way it is, the way that it goes
+Happenin' day after day, yeah
+That's the way it is, the way that it goes
+Workin' in the strangest ways
+
+What it is and what it was
+What shall be shall be, yeah
+Sometimes it happens in the strangest ways
+Sometimes it's hard to believe, yeah
+(Do you believe?) Do you believe
+Can you believe?
+
+The way it is, the way that it goes
+Workin' in the strangest ways, yeah
+
+Now it really don't matter who, who gets the best of who
+It never did and it never will
+It was never meant for it to be that way
+Why must it be that way at all?
+
+The way it is, the way that it goes
+Happenin' day after day, yeah
+The way it is, the way that it goes
+Workin' in the, workin' in the strangest ways
+
+That's the way it is, that's the way it is
+That's the way it is, that's the way that it goes, yeah
+
+Yeah, that's the way it is, that's the way that it goes
+That's the way it is, that's the way that it goes
+See it happen day after day, yeah, yeah
+Workin' in the strangest ways
+
+Yeah, yeah, yeah, yeah
+Yeah, yeah, yeah, yeah
+
+Can you believe? Do you believe?
+Can you believe? Do you believe?
+That's the way it is, that's the way it goes
+Yes it do

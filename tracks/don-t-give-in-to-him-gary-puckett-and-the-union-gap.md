@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-give-in-to-him-gary-puckett-and-the-union-gap
+lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-dont-give-in-to-him-lyrics
 name: Don't Give In To Him
 rankings:
 - end_date: '1969-03-21'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
+It starts out with a kiss
+Even though you're only friends
+Now there's nothing wrong with this
+But this is where his act begins
 
+He'll hold you and tell you that's what love is for
+Oh, but don't give in to him (don't give in to him)
+No, don't give in to him (ah)
+Cause he will only ask for more
+
+You don't want to lose him
+So you let him have his way
+You don't dare refuse him
+Because you know the price you'll pay
+
+He's bragging that he's never lost before
+So don't give in to him (don't give in to him)
+No, no, don't give in to him (ah)
+Cause he will only ask for more
+
+Baby, don't give in to him (don't give in to him)
+No, no, don't give in to him (ah)
+Cause I'm the one who loves you more
+
+No, no, don't give in to him (don't give in to him)
+Please don't give in

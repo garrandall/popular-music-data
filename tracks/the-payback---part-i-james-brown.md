@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-payback---part-i-james-brown
+lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/The-Payback-Part-I
 name: The Payback - Part I
 rankings:
 - end_date: '1974-03-29'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+Hey, gotta, gotta pay back
+(The big payback)
+Revenge, I'm mad
+(The big payback)
+Got to get back, I need some get back
 
+Payback, payback
+(The big payback)
+That's it, payback
+Revenge, I'm mad
+
+You get down with my girlfriend, that ain't right
+Hollarin', cussin', you wanna fight
+Payback is a thing you gotta see
+Hell, never do any damn thing to me
+
+Sold me out, takin' change
+(Yes you did)
+Told me ya did, they had it all arranged
+The hand me down, and that's a fact
+
+And now you're pumped, you gotta get ready
+For the big payback
+(The big payback)
+That's where I am, oh, the big payback
+(The big payback)
+
+I can do wheelin', I can do dealin'
+(Yes we can)
+But I don't do no damn squealin'
+I can dig rappin', I'm ready, I can dig scrappin'
+But I can't dig that backstabbin'
+(Oh no)
+
+Now brother get ready! That's a fact
+Get ready you mother, for the big payback
+(The big payback)
+Hey, let me hit 'em, hit 'em, hit 'em
+
+Hey, hey, hey
+
+Lord, lord, you took my money, you got my honey
+Don't want me to see what you doing to me
+I can get back I gotta deal with you, gotta deal with you
+Gotta deal with you, I gotta deal with you
+
+Hey let me tell ya
+Get down with my woman, that ain't right
+You hollarin' and cussin'
+You wanna fight

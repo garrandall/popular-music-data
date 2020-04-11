@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evening-rain-earl-grant
+lyrics_url: https://www.musixmatch.com/lyrics/Earl-Grant/Evening-Rain
 name: Evening Rain
 rankings:
 - end_date: '1959-02-01'
@@ -35,4 +36,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
 ---
+I see the evening rain
+Against my window pane
+And yet my window pane is dry
 
+I hear the evening rain
+It sings a sad refrain
+Beneath a clear and cloudless sky
+
+How can I see the rain
+On a night so clear
+How can I still see your face
+Though you're not here
+
+Somethings I can't explain
+You're gone but still remain
+And the evening rain's not in the skies
+It's in my eyes
+
+Somethings I can't explain
+You're gone but still remain
+And the evening rain's not in the skies
+It's in my eyes

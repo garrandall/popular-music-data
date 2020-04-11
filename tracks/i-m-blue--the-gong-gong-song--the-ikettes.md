@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-blue--the-gong-gong-song--the-ikettes
+lyrics_url: https://genius.com/The-ikettes-im-blue-lyrics
 name: I'm Blue (The Gong-Gong Song)
 rankings:
 - end_date: '1962-01-19'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
 ---
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah
+(I'm blue do be, do be, do be do)
 
+I wanna tell all you people
+I dropped a penny in the well
+Hoping you would come back soon
+I couldn't believe what I heard
+
+A fortune teller told me
+My love with you was doomed
+I hope her reading was wrong
+I hope she was wrong
+'Cause you been gone too long, come home
+
+Hey, gong gong gong, yeah
+
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah
+(I'm blue do be, do be, do be do)
+
+I can't sleep at night for thinking of you
+Every night about two
+My love for you comes tumblin' down
+I can't stand being here alone
+
+I start a feelin' and a fumblin'
+But you ain't nowhere around
+I hope her reading was wrong
+I hope she was wrong
+'Cause you been gone too long, come home
+
+Hey, gong gong gong, yeah
+
+(I'm blue do be, do be, do be do)
+Hey, gong gong gong, yeah
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah
+(I'm blue do be, do be, do be do)
+
+(I'm blue do be, do be, do be do)
+Gong gong gong, yeah

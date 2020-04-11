@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-you-commodores
+lyrics_url: https://genius.com/Commodores-only-you-lyrics
 name: Only You
 rankings:
 - end_date: '1983-09-23'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
 ---
+When was the last time I said I love you?
+I find it hard to say
+But I do
+When was the last time I said I need you?
+I've kept it to myself much too long
+(It's been too long)
+(It's been too long)
 
+In all my life
+I've never known anyone like you
+I love you
+I love you
+Only you
+
+I've been in love before
+I didn't think I could love anymore
+But there you were with love
+In your heart for me
+
+I can feel it when we kiss
+I can tell when we touch
+That the magic of love was meant for you and me
+(For you and me)
+(For you and me)
+
+In all my life
+I've never had a love so true
+I love you
+I love you
+Only you (only you)
+
+I know it when we touch
+Oh, oh
+If I had the power
+To make this song come true
+It would be for me to build my life with only you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: c-mon-and-swim-bobby-freeman
+lyrics_url: https://genius.com/Bobby-freeman-cmon-and-swim-lyrics
 name: C'mon And Swim
 rankings:
 - end_date: '1964-07-17'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
+C'mon everybody, c'mon in
+Bobby's gonna show you how to do the swim
+Kinda like the monkey, kinda like the twist
+Pretend you're in the water and you go like this
+Now baby swim, baby do the swim
+Just like the dog but not so low
+Like the hully gully but not so slow
+Now baby swim, baby do the swim
+Do what you wanna, do like you wish
+C'mon baby now and swim like a fish
+Baby swim, now baby come on in
+Shake it up baby twist and shout
+Now do the swim baby now work it on out
+Now baby swim, baby do the swim
+Do what you wanna, it's alright
+Bobby's gonna show you how to swim tonight
+Now baby swim
 
+MUSICAL INTERLUDE
+
+C'mon baby, I want you to swim
+Oh yeah, do the dog paddle baby
+Now do the backstroke
+
+MUSICAL INTERLUDE
+
+Shake it up baby, twist and shout
+Now do the swim baby now work it on out
+Now baby swim, baby do the swim
+Do what you wanna it's alright
+Cause Bobby's gonna do the swim for you tonight
+Now baby swim
+
+MUSIC TO FADE

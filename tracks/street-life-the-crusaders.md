@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: street-life-the-crusaders
+lyrics_url: https://genius.com/The-crusaders-street-life-single-edit-lyrics
 name: Street Life
 rankings:
 - end_date: '1979-08-31'
@@ -71,4 +72,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
-
+I still hang around
+Neither lost nor found
+Hear the lonely sound
+Of music in the night
+Nights are always bright
+That's all that's left for me, yeah
+I play the street life because there's no place I can go
+Street life, it's the only life I know
+Street life and there's a thousand cards to play
+Street life, until you play your life away
+You let the people see
+Just who you wanna be
+And every night you sang
+Just like a superstar
+The type of life that's played
+A temptin' masquerade
+You dress and walk and talk
+You're who you think you are
+Street life, you can run away from time
+Street life, for a nickel, for a dime
+Street life, but you better not get old
+Street life, or you're gonna feel the cold
+There's always love for sale
+A grown up fairy tale
+Prince charming always smiles
+Behind a silver spoon
+And if you keep it young
+Your song is always sung
+Your love will pay your way
+Beneath the silver moon
+Street life
+Street life
+Street life
+Oh, street life
+I play the street life because there's no place I can go
+Street life, it's the only life I know
+Street life and there's a thousand cards to play
+Street life, until you play your life away
+You let the people see
+Just who you wanna be
+And every night you sang
+Just like a superstar
+The type of life that's played
+A temptin' masquerade
+You dress and walk and talk
+You're who you think you are
+Street life, you can run away from time
+Street life, for a nickel, for a dime
+Street life, but you better not get old
+Street life, or you're gonna feel the cold
+There's always love for sale
+A grown up fairy tale
+Prince charming always smiles
+Behind a silver spoon
+And if you keep it young
+Your song is always sung
+Your love will pay your way
+Beneath the silver moon
+Street life
+Street life
+Street life
+Oh, street life
+Oh, street life
+Yeah, street life
+Street life
+Oh, street life

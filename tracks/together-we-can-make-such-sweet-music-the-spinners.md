@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-we-can-make-such-sweet-music-the-spinners
+lyrics_url: https://genius.com/The-spinners-together-we-can-make-such-sweet-music-lyrics
 name: Together We Can Make Such Sweet Music
 rankings:
 - end_date: '1973-05-18'
@@ -27,4 +28,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
 ---
+Ho, why should you go to the left?
+Why should I go to the right?
+Why must we argue this way?
+Why must we fuss and fight?
 
+
+Oh, together we can make such sweet music
+Together we can make it right
+Oh, together we can make such sweet music
+Together we can make it right, mmm, mmm
+
+
+Now when you're feelin' bad, I am feelin' it too
+Whatever your dreams are, I'll share them with you
+Till life has ended, I'll stay by your side
+You are my sunshine and you are my pride
+
+
+Oh, together we can make such sweet music
+Together we can make it right
+Whoa, whoa, together we can make such sweet music
+Together we can make it right, ooh, ooh
+
+
+Whoa, whoa, I know the love we share is locked in our hearts
+And there is nothing that can tear us apart
+Wherever you are that's where I'll be
+I'll keep this love that you've given to me
+
+
+Whoa, together we can make such sweet music
+Together we can make it right
+Whoa, whoa, together we can make such sweet music
+Together we can make it right

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-the-boys-connie-francis
+lyrics_url: https://genius.com/Connie-francis-follow-the-boys-lyrics
 name: Follow The Boys
 rankings:
 - end_date: '1963-03-08'
@@ -47,4 +48,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
 ---
-
+I'll follow the boys, wherever they go
+I'll follow the boys, 'cause in my heart I know
+I know that somewhere, somewhere along the way
+I'll find my love, my own true love, someday
+And there'll be no place too far, no ocean too wide
+Wherever he goes, I'll be right by his side
+I'll follow the boys, and wait until the time
+Till that boy that I'm following is mine
+There'll be no place too far, no ocean too wide
+Wherever he goes, I'll be right by his side
+So I'll follow the boys, and wait until the time
+Till that wonderful boy that I'm following is mine

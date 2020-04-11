@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-the-wind-and-the-rain-in-your-hair-pat-boone
+lyrics_url: https://genius.com/Pat-boone-with-the-wind-and-the-rain-in-your-hair-lyrics
 name: With The Wind And The Rain In Your Hair
 rankings:
 - end_date: '1959-01-18'
@@ -63,4 +64,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+Last night we met
+And I dream of you yet
+With the wind and the rain in your hair
 
+I held you tight
+And you whispered good night
+With the wind and the rain in your hair
+
+
+Now it will be my favorite memory
+That vision of you standing there
+
+Oh, there in the mist
+How you sighed when we kissed
+With the wind and the rain in your hair
+
+
+Mm, there in the mist
+How you sighed when we kissed
+With the wind and the rain in your hair

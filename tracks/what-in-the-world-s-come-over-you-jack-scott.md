@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-in-the-world-s-come-over-you-jack-scott
+lyrics_url: https://genius.com/Jack-scott-what-in-the-worlds-come-over-you-lyrics
 name: What In The World's Come Over You
 rankings:
 - end_date: '1960-01-17'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+What in the world's come over you?
+Seems we never get along
+(Ooh, ah, ah, ah)
+Every night
+I reminisce dreaming of your tender kisses
 
+What in the world's come over you?
+(Wah, wah, ooh)
+Could you ever change your mind?
+(Ah, ah, ah)
+If you do, I'll still be here, dear
+Waiting, longing for you
+(Ah, ah, ah)
+
+All my life, I've loved you so
+Never dreamed, I'd miss you so
+Now, alone in my room each night
+My heart it cries, "It's just not right"
+Oh, oh, oh
+
+What in the world's come over you?
+Could you ever change your mind?
+(Ah, ah, ah)
+If you do, I'll still be here, dear
+Waiting, longing for you
+(Ah, ah, ah)
+
+All my life, I've loved you so
+Never dreamed, I'd miss you so
+Now, alone in my room each night
+My heart, it cries, "It's just not right"
+Oh, oh, oh
+
+What in the world's come over you?
+(Wah, wah, ooh)
+You're still my angel from above
+(Ah, ah, ah)
+Guess, you'll always be my one
+And only, only real love

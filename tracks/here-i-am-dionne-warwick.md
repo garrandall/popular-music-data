@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-i-am-dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-here-i-am-lyrics
 name: Here I Am
 rankings:
 - end_date: '1965-07-09'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
 ---
+Here I am
+Here I'll stay
+All of my life
+We'll be together
+You and I
+I was afraid
+But now my doubts
+And fears are gone
 
+Here I am
+And here I'll always stay
+Wanting you
+Needing you
+Don't let me go
+A single day
+Without your love
+You are the one thing
+I'm certain of
+Here I am

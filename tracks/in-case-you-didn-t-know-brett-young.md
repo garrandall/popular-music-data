@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-case-you-didn-t-know-brett-young
+lyrics_url: https://genius.com/Brett-young-in-case-you-didnt-know-lyrics
 name: In Case You Didn't Know
 rankings:
 - end_date: '2017-03-03'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
 ---
+I can't count the times
+I almost said what's on my mind
+But I didn't
+Just the other day
+I wrote down all the things I'd say
+But I couldn't
+I just couldn't
 
+
+Baby, I know that you've been wondering
+Mmm, so here goes nothing
+
+
+In case you didn't know
+Baby, I'm crazy bout you
+And I would be lying if I said
+That I could live this life without you
+Even though I don't tell you all the time
+You had my heart a long long time ago
+In case you didn't know
+
+
+The way you look tonight
+That second glass of wine
+That did it
+There was something 'bout that kiss
+Girl it did me in
+Got me thinking
+I'm thinking
+
+
+One of the things that I've been feeling
+Mmm, it's time you hear em
+
+
+In case you didn't know
+Baby, I'm crazy bout you
+And I would be lying if I said
+That I could live this life without you
+Even though I don't tell you all the time
+You had my heart a long long time ago
+In case you didn't know
+
+
+You've got all of me
+I belong to you
+Yeah you're my everything
+
+
+In case you didn't know
+I'm crazy bout ya
+I would be lying if I said
+That I could live this life without you
+Even though I don't tell you all the time
+You had my heart a long long time ago
+Yeah, you had my heart a long long time ago
+In case you didn't know
+In case you didn't know

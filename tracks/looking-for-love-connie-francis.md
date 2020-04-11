@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-for-love-connie-francis
+lyrics_url: https://genius.com/Connie-francis-looking-for-love-lyrics
 name: Looking For Love
 rankings:
 - end_date: '1964-07-24'
@@ -35,4 +36,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+Yeah, yeah, I'm just-a-lookin'
+Uh-huh, I'm just-a-lookin'
+Yeah, yeah, I'm just-a-lookin'
+I'm just lookin' for love
 
+I've got fortune, I've got fame
+Everybody in the world knows my name
+Yeah, yeah, uh-huh, I'm just looking for love
+
+I got diamonds, I've got pearls
+I'm the envy of the teenage girls
+Yea, yeah, uh-huh, but I'm still looking for love
+
+I drive around in convertible cars
+Go to wild parties with the movie stars
+I get to wear fabulous furs
+But I don't have towels marked "His" and "Hers"
+
+I'll be as lucky as a girl can be
+When that certain man comes a-lookin' for me
+Yeah, yeah, uh-huh, I'm just looking for love
+
+Yeah, yeah, I'm just-a-lookin'
+Uh-huh, I'm just-a-lookin'
+Yeah, yeah, I'm just-a-lookin'
+I'm just lookin' for love
+
+I drive around in convertible cars
+Go to wild parties with movie stars
+I get to wear fabulous furs
+But I don't have towels marked "His" and "Hers"
+
+Who needs all of this wealth untold
+When all I need's a little band of gold
+Yeah, yeah, uh-huh, I'm just lookin' for love
+
+Yeah, yeah, I'm just-a-lookin'
+Uh-huh, I'm just-a-lookin'
+Yeah, yeah, I'm just-a-lookin'
+I'm just lookin' for love

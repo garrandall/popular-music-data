@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: automatic-lover--call-for-love--real-mccoy
+lyrics_url: https://genius.com/Real-mccoy-automatic-lover-call-for-love-lyrics
 name: Automatic Lover (Call For Love)
 rankings:
 - end_date: '1995-10-27'
@@ -83,4 +84,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
 ---
+Call for love
+I would call you up
+Cause you're my automatic lover, you're number one
+Call for love
+I would call you up
+Cause you're my automatic (automatic)
+My automatic lover
 
+Can you feel the force
+Yeah can you feel it, can you deal with
+My reincarnation and combination
+With absolute sophistication
+Deep deep down, deep in my heart may beat
+You know there's something deep inside, a kind of mystery
+So if you really need to satisfy your burning desire
+You'd better call me up and I will set you on fire
+
+I feel my love is going stronger
+I can't fight this feeling
+
+I need your loving all night long
+I can't control myself
+
+You wish is my command
+I'm teacher not a man
+Cause I got everything it takes to be
+Your everlasting friend
+You know, I'm someone very special
+A brand new love attraction
+And if you dial my number, I will give you satisfaction
+Yes, call for love, get in touch with me
+So feel my super magic space erotic ecstasy
+
+I feel my love is going stronger
+I can't fight this feeling
+I need your loving all night long
+I can't control myself

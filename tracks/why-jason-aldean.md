@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-jason-aldean
+lyrics_url: https://genius.com/Jason-aldean-why-lyrics
 name: Why
 rankings:
 - end_date: '2006-03-24'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
 ---
+It's 3 AM and I finally say
+I'm sorry for actin' that way
+I didn't really mean to make you cry
+Oh, baby, sometimes I wonder why
 
+
+Does it always have to come down to you leavin'
+Before I'll say "I love you"?
+Why do I always use the words that cut the deepest
+When I know how much it hurts you?
+Oh, baby, why do I do that to you?
+
+
+I know I'd never let you walk away
+So why do I push you 'til you break?
+And why are you always on the verge of goodbye
+Before I'll show you how I really feel inside?
+
+
+Why does it always have to come down to you leavin'
+Before I'll say "I love you"?
+And why do I always use the words that cut the deepest
+When I know how much it hurts you?
+Oh, baby, why do I do that to you?
+Why do I do that to you?
+
+
+
+
+Why do I always use the words that cut the deepest
+When I know how much it hurts you?
+Oh, baby, why do I do that to you?
+Why do I do that to you?
+Why do I do that to you?

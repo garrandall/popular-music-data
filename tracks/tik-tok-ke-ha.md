@@ -1,6 +1,6 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features: []
 genres: []
 key: tik-tok-ke-ha

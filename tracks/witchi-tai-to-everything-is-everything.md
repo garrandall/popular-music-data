@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: witchi-tai-to-everything-is-everything
+lyrics_url: https://genius.com/Everything-is-everything-witchi-tai-to-lyrics
 name: Witchi Tai To
 rankings:
 - end_date: '1969-02-14'
@@ -27,4 +28,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
 ---
+Witchi-tie-to, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
 
+Witchi-tie-to, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Water spirit feelin'
+Springin' round my head
+Makes me feel glad
+That I'm not dead
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Water spirit feelin'
+Springin' round my head
+Makes me feel glad
+That I'm not dead
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Yee hah!
+Wooo!
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Water spirit feelin'
+Springin' round my head
+Makes me feel glad
+That I'm not dead
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah
+
+Witchi-tie-tie, gimee rah
+Whoa rah neeko, whoa rah neeko
+Hey ney, hey ney, no wah

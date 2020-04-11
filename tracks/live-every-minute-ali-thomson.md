@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-every-minute-ali-thomson
+lyrics_url: https://genius.com/Ali-thomson-live-every-minute-lyrics
 name: Live Every Minute
 rankings:
 - end_date: '1980-09-19'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
 ---
+Live, live every minute
+Don't leave till tomorrow
+What you can do today
+Any news is bad news
+When your world comes tumbling down
+You can fight but you lose
+Submission can't be found
+So what am I gonna do
+Don't sit and talk about it
+How will I get through
+Don't sit and dream about it
+I know it's right
+You know it's right
+To spend yourself
+A little at a time
 
+
+Live, live every minute
+Don't leave 'til tomorrow
+What you can do today
+Give, give every minute
+Try a little harder
+And you will find your way
+Love will bring you sweets
+And take your hopes so high
+When you're at your least
+Love will say goodbye
+So how did it happen to me
+Don't be a fool about it
+Was I so blind not to see
+Don't blame yourself about it
+I know it's wrong
+You know it's right
+To spend yourself
+A little time
+
+
+Find your way, find your way
+Find your way, find your way
+Find your way, find your way...

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-bring-me-flowers-barbra-streisand-neil-diamond
+lyrics_url: https://www.musixmatch.com/lyrics/Barbra-Streisand-with-Neil-Diamond/You-Don-t-Bring-Me-Flowers
 name: You Don't Bring Me Flowers
 rankings:
 - end_date: '1978-11-03'
@@ -76,4 +77,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
 ---
+(Duet with Brabra Streisand)
+Written by: Neil Diamond, Alan Bergman and Marilyn Bergman
 
+You don't bring me flowers
+You don't sing me love songs
+You hardly talk to me anymore
+When you come thru the door
+At the end of the day
+
+I remember when
+You couldn't wait to love me
+Used to hate to leave me
+Now after lovin' me late at night
+When it's good for you
+And you're feelin' alright
+Well you just roll over
+And turn out the light
+And you don't bring me flowers anymore
+
+It used to be so natural
+To talk about forever
+But "used to be's" don't count anymore
+They just lay on the floor
+'Til we sweep them away
+
+And baby, I remember
+All the things you taught me
+I learned how to laugh
+And I learned how to cry
+Well I leared how to love
+And I learned how to lie
+Well you'd think I could learn
+How to tell you goodbye
+And you don't bring me flowers anymore
+
+Well you'd think I could learn
+How to tell you 'goodbye'
+You don't say you need me
+You don't sing me love songs
+You don't bring me flowers anymore

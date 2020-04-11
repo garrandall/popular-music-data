@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-heartbreak-hunter-hayes
+lyrics_url: https://genius.com/Hunter-hayes-somebodys-heartbreak-lyrics
 name: Somebody's Heartbreak
 rankings:
 - end_date: '2012-12-14'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
 ---
+I'd love to know just what you're thinkin'
+Every little river, runnin' through your mind
+You give and you take
+You come and you go
+You leave me here wonderin' if I'll ever know
+How much you care or how much you don't
+Whatever you need, whatever you want
 
+
+If you're gonna be somebody's heartbreak
+If you're gonna be somebody's mistake
+If you're gonna be somebody's first time
+Somebody's last time, baby be mine
+If you're lookin' to be somebody's 'just friends'
+A little laughin', little lovin', never callin' again, that's just fine
+If you're gonna be somebody's heartbreak
+Be mine, yeah
+Oh, be mine
+
+
+I guess that all I'm tryin' to tell ya
+Is a minute with you is better than two without
+Oh, I won't be a fool but I can't play it cool
+So I'm playin' it safe and I'm breakin' the rules
+I'm wishin' I had what I know that you got
+So if you're comin' my way then please don't stop
+
+
+If you're gonna be somebody's heartbreak
+If you're gonna be somebody's mistake
+If you're gonna be somebody's first time
+Somebody's last time, baby be mine
+If you're lookin' to be somebody's 'just friends'
+A little laughin', little lovin', never callin' again, that's just fine
+If you're gonna be somebody's heartbreak
+Be mine, yeah
+Oh, be mine
+
+
+If you're gonna be somebody's heartbreak
+Or somebody's mistake
+Somebody's first time, or their last time
+Baby, be mine
+If you're lookin' to be somebody's 'just friends'
+A little laughin', little lovin', never callin' again, that's just fine
+If you're gonna be somebody's heartbreak
+Be mine (If you're gonna be somebody's heartbreak)
+Be mine (If you're gonna be somebody's mistake)
+Oh, I'll take my chances
+If you're gonna be someone's heartbreak
+If you're gonna be someone's mistake
+Somebody's first time, somebody's last time
+Be mine
+Oh, be mine
+Be mine
+Baby, baby, baby, be mine, all mine
+If you're gonna break someone's heart, yeah
+Might as well, might as well be mine

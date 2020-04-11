@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-more-puff-johnson
+lyrics_url: https://genius.com/Puff-johnson-forever-more-lyrics
 name: Forever More
 rankings:
 - end_date: '1996-05-24'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
 ---
+When you close your eyes
+I hope you think of me
+Just say the word
+And I will be there for you
+No need to hesitate
+My love will be here always-0h
 
+Forever more
+You will be what l'm living for
+And deep in my heart
+There's a light that shine
+Just for you and only you
+Forever more, forever more
+
+When you need a friend
+I'll be there till the end
+Come rain or shine
+I'll be standing by your side
+L'll never turn away, my love
+Will be here always, oh
+
+Forever more
+You will be what l'm living for
+And deep in my heart
+There's a flam that burns
+Just for you and only you
+
+Forever more you will be what
+I'm longing for and deep in my soul
+There's a light that shine
+Just for you and only you
+Forever more, forever more
+
+Never felt this way before, until you
+Made sweet love to me, oh baby
+Your the one my heart adores
+The only man I need- forever more
+
+Forever more you will be what
+I'm longing for and deep in my soul
+There's a light that shine
+Just for you and only you
+Forever more, forever more

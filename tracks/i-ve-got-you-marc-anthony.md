@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-you-marc-anthony
+lyrics_url: https://genius.com/Marc-anthony-ive-got-you-lyrics
 name: I've Got You
 rankings:
 - end_date: '2002-07-12'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
 ---
+Baby when I think about you
+I don't need to think because I just know
+That baby it's the way you love me
+That makes me so damn sure that your the one
 
+Don't you know that I've waited for you
+You are everything I've wanted all my life
+Never thought I would find what I need
+Till you came along my dreams seemed so far away
+
+
+I could be with another girl
+And I can take a trip all around the world
+But why would I go anywhere when I've got you
+I could spend my money on fancy clothes
+Meet a thousand women doing videos and shows
+But baby I'm so glad that I got you
+
+
+Maybe I just got lucky
+Because a chance like this don't come along every day
+And can we hold on to what we've got
+If I ever lost you girl, my whole life would change
+
+You should know that your life gives me strength
+And without you I don't know where I would be
+It's because of your shoulder I'm at ease
+No matter where I am I'm not alone. eh
+
+
+
+
+All that I have
+Is nothing when it compares to you
+And I can't believe
+Hoe your love makes me feel
+I'm glad that I've got you
+And girl you've got me too

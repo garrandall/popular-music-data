@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jealous-kind-of-fella-garland-green
+lyrics_url: https://www.musixmatch.com/lyrics/Garland-Green/Jealous-Kind-of-Fella
 name: Jealous Kind Of Fella
 rankings:
 - end_date: '1969-09-19'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Jealous kind of fella...
+Hey, hey, hey...
 
+What a day, I think I called my baby today
+Hello baby, please don't be too mad at me
+Because I punched that guy last night
+But let me explain, before you say anything
+I ought to know just like you said
+I'm having that jealousy, goes straight to my head
+And I apologize, so please don't cry
+I want you to know this is one sign that I love you
+Love you, I'm just a jealous kind of fella
+
+
+
+You see, there's another thing
+I know I embarrassed you baby
+And I'm so ashamed, yes I am, mama
+Oh and ever since we've been together
+You've given me more happiness than anything baby
+Yes you did, mama
+If you're still mad or upset
+Those things I can't accept
+'Cause it hurt me, 'cause it hurt me
+You've got me out of my head
+'Cause I love you, love you
+I'm just a jealous kind of fella

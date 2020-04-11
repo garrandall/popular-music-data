@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-hearted-me-anne-murray
+lyrics_url: https://genius.com/Anne-murray-a-broken-hearted-me-lyrics
 name: Broken Hearted Me
 rankings:
 - end_date: '1979-09-28'
@@ -75,4 +76,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+Every now and then I cry
+Every night
+You keep staying on my mind
+All my friends say I'll survive
+It just takes time
 
+But I don't think time is going to heal this broken heart
+No, I don't see how it can if it's broken all apart
+A million miracles could never stop the pain
+Or put all the pieces together again
+
+No, I don't think time is going to heal this broken heart
+No, I don't see how it can while we are still apart
+And when you hear this song, I hope that you will see
+That time won't heal a broken hearted me
+
+Every day is just the same
+Playing games
+Different lovers, different names
+They keep saying I'll survive
+It just takes time
+
+But I don't think time is going to heal this broken heart
+No, I don't see how it can if it's broken all apart
+A million miracles could never stop the pain
+Or put all the pieces together again
+
+No, I don't think time is going to heal this broken heart
+No, I don't see how it can while we are still apart
+And when you hear this song, I hope that you will see
+That time won't heal a broken hearted
+Time won't heal a broken hearted me

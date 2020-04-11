@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-so-bad-heart
+lyrics_url: https://genius.com/Heart-i-want-you-so-bad-lyrics
 name: I Want You So Bad
 rankings:
 - end_date: '1988-02-26'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
 ---
-
+When the wind blows through your hair
+I want you so bad, want you so bad
+I see your smile boy everywhere
+I want you so bad, want you so bad
+I never thought this could happen to me
+If I've fallen over you
+Would it be so bad, would it be so bad
+Every night's an eternity
+I want you so bad, want you so bad
+I never thought this could happen to me
+I want you so bad, bad
+When the wind blows through your hair
+I want you so bad, want you so bad
+Oh I wonder if you're aware
+I want you so bad
+I wonder if you care
+I never thought this would happen to me
+I want you so bad, bad
+I want you so bad
+I want you so bad
+I want you so bad

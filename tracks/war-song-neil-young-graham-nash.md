@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: war-song-neil-young-graham-nash
+lyrics_url: https://genius.com/Neil-young-war-song-lyrics
 name: War Song
 rankings:
 - end_date: '1972-07-07'
@@ -32,4 +33,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
 ---
+In the morning when you wake up
+You've got planes flying in the sky
+Flying bombs made to break up
+All the lies in your eyes
 
+
+There's a man says
+He can put an end to war
+
+
+They shot George Wallace down
+He'll never walk around
+Our mines are sleeping in the sea
+Blow those bridges down
+And burn that jungle down
+And kill those Vietnamese

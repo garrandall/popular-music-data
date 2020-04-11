@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-water-jack-scott
+lyrics_url: https://genius.com/Jack-scott-cool-water-lyrics
 name: Cool Water
 rankings:
 - end_date: '1960-07-31'
@@ -19,4 +20,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
 ---
+All day I face a barren waste
+Without the taste of water
+Cool water (water)(water)(water)
+Old Dan and I, with throats burned dry
+An' souls that cry for water (water)(water)
+Cool (water)
+Clear (water)
+Water (water, water)
 
+A-keep a-movin, Dan (water)
+Don't you listen to him, Dan (water, water)
+He's the devil not a man
+And he spreads the burning sand with water (water)
+Dan, can't you see that big green tree (water)
+Where the water's runnin' free (water)
+And it's waitin' there for me and you
+Cool clear water (water, water)
+
+Shadows sway and seem to say
+Tonight we pray for water
+Cool water (water)(water)(water)
+And way up there he'll hear our prayer
+And show us where there's water (water)(water)
+Cool (water)
+Clear (water)
+Water (water)(water, water)(water)
+
+A-keep a-movin, Dan (water)
+Don't you listen to him, Dan (water, water)
+He's the devil not a man
+And he spreads the burning sand with water (water)
+Dan, can't you see that big green tree (water)
+Where the water's runnin' free (water)
+And it's waitin' there for me and you
+Cool clear water (water, water)
+
+(Keep a-movin, Dan) (water)
+(Don't you listen to him, Dan) (water, water)
+(He's the devil not a man)
+(And he spreads the burning sand with water) (water, water, water)
+Cool clear water (water, water, water)

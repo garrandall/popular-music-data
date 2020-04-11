@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waterfall-wendy-and-lisa
+lyrics_url: https://genius.com/Wendy-and-lisa-waterfall-lyrics
 name: Waterfall
 rankings:
 - end_date: '1987-09-25'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+Move slow
+Now your times at hand
+Take Heed
+Cause our love has passed
+Hot Fuse
+Can be short or long
+The time bomb of your
+Life has come
 
+People may come
+People may go
+Just as long as the waters slow
+But watch out when you're
+Headed for the waterfall
+
+Dry land is just a love away
+Warm Sun and a place to lay
+I see your future
+The water above you calm and clear
+
+People may come
+People may go
+Just as long as the waters slow
+But watch out when you're
+Headed for the waterfall
+
+Love lost always makes one sad
+You seem to rise instead
+Feel the water, ice cool water
+
+People may come
+People may go
+Just as long as the waters slow
+But watch out when you're
+Headed for the waterfall
+The waterfall

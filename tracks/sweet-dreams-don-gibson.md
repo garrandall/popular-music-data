@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-dreams-don-gibson
+lyrics_url: https://genius.com/Don-gibson-sweet-dreams-lyrics
 name: Sweet Dreams
 rankings:
 - end_date: '1960-11-20'
@@ -23,4 +24,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+Sweet dreams of you
+Every night I go through
+Why can't I forget you and start my life anew
+Instead of having sweet dreams about you
 
+
+You don't love me it's plain
+I should know you'll never wear my name
+I should hate you the whole night through
+Instead of having sweet dreams about you
+
+
+Sweet dreams of you
+Every night I go through
+Why can't I forget you and start my life anew
+Instead of having sweet dreams about you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-faces-have-i-lou-christie
+lyrics_url: https://genius.com/Lou-christie-two-faces-have-i-lyrics
 name: Two Faces Have I
 rankings:
 - end_date: '1963-04-05'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
 ---
+I don't want the world to know
+I don't want my heart to show
 
+Two faces have I
+I pretend that I'm happy
+But I'm Mr. blue
+I pretend that I'm happy
+Since I lost you
+
+Two faces have I
+One to laugh and one to cry
+Two faces have I
+One to laugh and one to cry
+
+Will I ever laugh again
+She'll never see me cry
+Will I walk with a smile on my face
+Kniowing I live a lie
+
+I pretend that I'm carefree
+But what am I
+I pretend that I'm carefree
+But I'm living a lie
+
+Two faces have I
+One to laugh and one to cry
+Two faces have I
+One to laugh and one to cry

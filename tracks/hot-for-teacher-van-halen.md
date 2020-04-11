@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-for-teacher-van-halen
+lyrics_url: https://genius.com/Van-halen-hot-for-teacher-lyrics
 name: Hot For Teacher
 rankings:
 - end_date: '1984-11-02'
@@ -35,4 +36,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
 ---
+"Oh wow, man, that's it"
+"Wait a second, man
+What do you think the teacher's gonna look like this year?"
+"My butt, man!"
+Oh, uh!
+Oh yeah!
 
+
+T-t-teacher, stop that screamin'
+Teacher, don't you see?
+Don't wanna be no uptown fool
+Maybe I should go to Hell, but I'm doin' well
+And teacher needs to see me after school
+
+
+I think of all the education that I missed
+But then my homework was never quite like this
+Ow, got it bad, got it bad, got it bad
+I'm hot for teacher
+I've got it bad, so bad
+I'm hot for teacher
+
+
+"Hey, I heard you missed us, we're back!"
+("I'm ready")
+"I brought my pencil
+Gimme something to write on, man!"
+Yeah, go
+Uh!
+Ooh
+
+
+I heard about your lessons, but lessons are so cold
+I know about this school
+Little girl from Cherry Lawn, how can you be so bold?
+How did you know that golden rule?
+
+
+I think of all the education that I missed
+But then my homework was never quite like this
+Whoa, got it bad, got it bad, got it bad
+I'm hot for teacher
+I've got it bad, so bad
+I'm hot for teacher
+Wha-oh
+
+
+
+
+"Oh man, I think the clock is slow, man"
+("What are you doing this weekend?")
+"I don't feel tardy"
+"Class dismissed!"
+Ooh yeah
+
+
+I've got it bad, got it bad, got it bad
+I'm hot for teacher
+Oh
+Oh, a-yes I'm hot
+Wow!
+
+
+Oh my God!
+Whoo!

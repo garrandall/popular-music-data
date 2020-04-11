@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boys-night-out-timothy-b--schmit
+lyrics_url: https://genius.com/Timothy-b-schmit-boys-night-out-lyrics
 name: Boys Night Out
 rankings:
 - end_date: '1987-09-25'
@@ -59,4 +60,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
 ---
+(Timothy B. Schmit/Will Jennings/Bruce Gaitsch)
 
+They're in the heat in the heart of the city
+Big wind out of Mexico
+There's a girl, wants it bad as me
+And I'll be right there when she lets go
+
+So let it all come down
+Don't care where were going
+There's trouble in this town
+It's just what I need
+
+I'm tired of looking back
+No one lives forever
+I'm jumping off the track
+It feels good to me
+
+(CHORUS)
+Don't you know it turns your blood to wine
+When you're moving so fine
+It's the boys night out
+You can run those lights
+You can leave them on bright
+It's the boys night out
+
+Kept it straight just as long as I had to
+Now I've got to let it ride
+There's a girl who needs love so bad
+And when I'm with her I feel alive
+
+I hear she's got some friends
+They know how to use it
+Oh, it never ends
+You know what I mean
+
+Any beat you choose
+They can find the rhythm
+They'll show us some moves
+We've never seen
+
+(CHORUS)
+There's a war between good and evil
+It's not to hard to realize
+There's no way you can beat the devil
+'Til you look him straight in the eyes
+
+So let it all come down
+Don't care where we're going
+There's trouble in this town
+It's just what I need
+
+I'm tired of looking back
+No one lives forever
+I'm jumping off the track
+It feels good to me
+
+(repeat CHORUS 4x)

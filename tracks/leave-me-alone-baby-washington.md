@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leave-me-alone-baby-washington
+lyrics_url: https://genius.com/Baby-washington-leave-me-alone-lyrics
 name: Leave Me Alone
 rankings:
 - end_date: '1963-07-26'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
 ---
+Leave me alone
+Read the sign upon my door
+Leave me alone
+I'm through with love
+Can't take it no more
 
+I lost my little guy
+Oh, once upon a time
+I had him, he walked out
+So nothing matters all around
+
+Who needs this mixed up world
+Where everyone is out to get you
+No one's satisfied until
+They let you down, yeah
+
+Keep a telling you
+Leave me alone
+I got my place on Heartbreak Avenue
+
+Leave me alone
+Don't ever want to find
+Find somebody new
+
+Who needs this mixed up world
+Where everyone is out to get you
+No one's satisfied until
+They let you down, yeah
+
+Keep on telling you
+Just leave me alone
+Read the sign upon my door
+
+Leave me alone
+I'm through with love
+Can't take it
+Can't take it no more
+
+Read the sign upon my door
+It says leave me alone, uh huh
+Read the sign upon my door
+It says leave me alone, yeah, yeah

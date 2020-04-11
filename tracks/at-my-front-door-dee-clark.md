@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: at-my-front-door-dee-clark
+lyrics_url: https://www.musixmatch.com/lyrics/Dee-Clark/At-My-Front-Door
 name: At My Front Door
 rankings:
 - end_date: '1960-03-20'
@@ -35,4 +36,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+Knock, knock, knock, knock
+Knock, knock, knock, knock
 
+Crazy little mama come knocking
+Knocking at my front door
+Crazy little mama come knocking
+Knocking at my front door
+
+Crazy little mama come
+Knock, knock, knocking
+Just like she did before
+
+If you got a little mama
+And you want to keep her neat
+Keep your mama off my street
+
+Same thing will happen
+Like it did before
+She'll come knock, knock
+Knocking at my door
+
+Crazy little mama come
+Knock, knocking
+Just like she did before
+
+If you got a little mama
+And you want to keep her neat
+Keep your mama off my street
+
+Same thing will happen
+Like it did before
+She'll come knock, knock
+Knocking at my door
+
+Crazy little mama come knocking
+Knocking at my front door
+
+Oh, oh, she come knocking
+That crazy little mama
+She comes back knocking
+Knocking at my front door
+
+If you got a little mama
+And you want to keep her neat
+Keep your mama off my street
+
+Same thing will happen
+Like it did before
+She'll come knock, knock
+Knocking at my door
+
+Crazy little mama come knocking
+Knocking at my back door
+
+If you got a little mama
+And you want to keep her neat
+Keep your mama off my street
+
+Same thing will happen
+Like it did before
+She'll come knock, knock
+Knocking at my door
+
+Crazy little mama come knocking
+Knocking at my front door

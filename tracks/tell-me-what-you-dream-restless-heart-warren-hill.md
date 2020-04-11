@@ -5,6 +5,7 @@ features:
 - Warren Hill
 genres: []
 key: tell-me-what-you-dream-restless-heart-warren-hill
+lyrics_url: https://genius.com/Restless-heart-tell-me-what-you-dream-ac-mix-lyrics
 name: Tell Me What You Dream
 rankings:
 - end_date: '1993-04-02'
@@ -60,4 +61,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
 ---
+All of your life you hold out for love
+You give what you have still that's not enough
+What went wrong
+'Cause now what we share are too many fears
+Too many secrets and too many years
+Tonight
 
+Tell me what you dream at night while you're sleeping
+Tell me what you see at night in your dreams
+Is it someone else's arms that hold you tight
+Or darling is it me
+Tell me what you dream at night while you sleep
+
+Deep in the night, you whisper so low
+I lay by your side I felt so alone, alone
+I reach for your arms, you call out a name
+It wasn't my own that caused me such pain inside
+
+Tell me what you dream at night while you're sleeping
+Tell me what you see at night in your dreams
+Is it someone else's arms that hold you tight
+Or darling is it me
+Tell me what you dream at night while you sleep
+
+Tell me what you dream at night while you're sleeping
+Tell me what you see at night in your dreams
+Is it someone else's arms that hold you tight
+Or darling is it me
+Tell me what you dream at night while you sleep
+
+Tell me what you dream at night
+Dream at night
+Oh baby dream at night, while you're sleeping

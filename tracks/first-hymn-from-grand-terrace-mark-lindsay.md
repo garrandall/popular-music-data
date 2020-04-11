@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: first-hymn-from-grand-terrace-mark-lindsay
+lyrics_url: https://genius.com/Mark-lindsay-first-hymn-from-grand-terrace-lyrics
 name: First Hymn From Grand Terrace
 rankings:
 - end_date: '1969-08-01'
@@ -23,4 +24,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
 ---
+There was a hill we climbed
+And a nursery rhyme
+Went flying across the waving grass
+Like, like silver bells
+Against the curtain that the sky had made
+Ooh, and so we played
 
+It was a sunny day, and so we lay
+Beneath the rock that sheltered us
+From passing planes
+And the earth caught fire when you turned
+But nothing burned
+
+There were nights when the lights
+Would take us nowhere
+For just a little while cars would pass
+And we were out of gas
+But we didn't care even though we walked a mile
+
+There was a deejay in L.A
+We used to tune in at night
+To hear our favorite song
+We always heard it at that perfect time
+Up on that hill we climbed
+
+And now you're gone and I'm alone
+And though they say I should be
+Safe, secure, and sane
+Oh, I still remember yesterday
+And the games that children play

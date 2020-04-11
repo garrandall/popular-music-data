@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: born-in-east-la-cheech-chong
+lyrics_url: https://www.musixmatch.com/lyrics/Cheech-Chong/Born-in-East-L-A
 name: Born In East LA
 rankings:
 - end_date: '1985-09-27'
@@ -52,4 +53,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
 ---
+Took a walk to the corner store
+Just to buy a loaf of bread and a box of s'mores
+Up pulled a guy in a yellow van
+Shiny gold badge flashing in his hand
 
+He said, alright all you mojados down here
+I want you all to hit the floor
+I got one thing to ask you and nothing more
+So answer in English, if you can
+Where were ya born, man
+
+Huh? Where was I born?
+
+That's right, I said
+Where were ya born?
+
+Hey, are you one of those dudes who do horoscopes, man
+Hey, I'm a Cancer with a bad moon rising
+
+Look here el fago, watch my lips
+Where were ya born?
+
+I was BORN IN EAST L.A.
+Man, I was BORN IN EAST L.A.
+
+Oh yeah, you were BORN IN EAST L.A.
+Let's see your green card
+
+Huh? Green card?
+I'm from East LA
+
+Alright, then who's President of the United States
+
+Oh, that's easy, man
+That guy that used to be on Death Valley Days, John Wayne
+
+Alright, let's go, come on
+
+Next thing I know, I'm in a foreign land
+People talkin so fast, I couldn't understand
+There was nobody there to lend a helping hand
+I was cold, it was dark where is a burger stand
+
+I want to go back to East LA
+I wish I was back in East LA
+I don't belong here in downtown T.J.
+Cause I was born in East LA, ole
+
+I crawled under barbed wire, swam across a stream
+Rode in six different trucks packed like a sardine
+Walked all day in the burning sun
+Now I know what it's like to be born to run
+
+Up ahead was the promised land
+Shining like a star just beyond my hand
+All I could see was a golden door
+I looked up, a sign said five billion sold
+
+And I was back in East LA
+Yes, I was back in East LA
+You know I'm never gonna stray
+Cause I was born in East LA, oh LA

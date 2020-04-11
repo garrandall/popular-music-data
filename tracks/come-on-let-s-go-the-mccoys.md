@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-let-s-go-the-mccoys
+lyrics_url: https://genius.com/The-mccoys-come-on-lets-go-lyrics
 name: Come On Let's Go
 rankings:
 - end_date: '1966-04-29'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
 ---
+Well, come on, let's go, let's go, little darlin'
+Tell me that you'll never leave me
+Come on, come on, let's go again
+Go again and again
 
+Well, now, swing me, swing me, swing me, little darlin'
+Come on, let's go, little darlin'
+Let's go, let's go again once more
+
+Well, I love you, babe
+And I'll never let you go
+Come on, baby, so, oh, pretty baby, I love you so
+
+Well, let's go, let's go, let's go, little sweetheart
+Forever we can always be together
+Come on, come on, let's go again
+
+Oh, well, I love you, babe
+And I'll never let you go
+Come on, baby, so, oh, pretty baby, I love you so
+
+Well, come on, let's go, let's go, little darlin'
+Tell me that you'll never leave me
+Come on, come on, let's go again
+Again, again, and again
+Again, again, and again
+Again, again, and again

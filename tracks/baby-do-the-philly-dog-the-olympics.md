@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-do-the-philly-dog-the-olympics
+lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/Baby-Do-The-Philly-Dog
 name: Baby Do The Philly Dog
 rankings:
 - end_date: '1966-10-07'
@@ -31,4 +32,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
 ---
+Stand up, and kick off your shoes
+Let your hair down, get in the grove
+Head shakin', finger boppin', lookin' fine
+Come on baby, let me see you try
 
+Philly dog (baby, do the philly dog)
+Hey, now baby (baby, do the philly dog)
+It's alright (baby, do the philly dog)
+I know you can do it now
+
+(Yeah, alright, ha ha, grove)
+Yeah, ain't a grove
+(Feelin it, yeah, ha ha hey)
+Rrr, look at the children's head move
+
+It spread from east to west (ooh, philly dog)
+My baby can do it best
+Earth shakin', back breakin', lookin' cool (ooh, philly dog)
+Oh, I like the way you move
+
+Philly dog (baby, do the philly dog)
+Hey, now, baby (baby, do the philly dog)
+It's alright (baby, do the philly dog)
+I know you can do it now
+
+(Yeah, that's right, ha ha ha)
+Yeah, ain't a grove
+(Yeah, ah, ha ha ha)
+Dig this children's head move
+
+Ah, hit me man
+
+Come on, plan' boy and do it too (ooh, philly dog)
+You dig the barefoot and boogaloo
+Look at Fanny gettin' in the grove (ooh, philly dog)
+If they can do it, so can you
+
+Philly dog (baby, do the philly dog)
+Hey, now, baby (baby, do the philly dog)
+It's alright, now (baby, do the philly dog)
+I know you can do it now
+
+(Yeah, alright, woo ha)
+Yeah, ain't a grove
+(Yeah, boy, ha)
+Dig this children's head move
+
+Co' o' go (baby, do the philly dog)
+Oh, woah, come on (baby, do the philly dog)
+Woah, way to 'Frisco (baby, do the philly dog)
+Don't forget L.A. (baby, do the philly dog)
+Every day (baby, do the philly dog)
+Hey, Culver City (baby, do the philly dog)
+Ah, New York

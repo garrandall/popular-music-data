@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candy-man-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-candy-man-lyrics
 name: Candy Man
 rankings:
 - end_date: '1961-08-13'
@@ -63,4 +64,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
+Come on baby, let me take you by the hand
+Come on sugar, let me take you by the hand
+Go for me, let me be
+All your own candy, your candy, candy man
 
+Come on baby, I love your honey lovin ways
+Baby sweet thing, I love your honey lovin, your honey lovin ways
+Come to me, let me be
+All your own candy, your candy, candy man
+
+Come on woman, gonna treat you right
+Give you candy kisses every single night
+Candy man, candy man, candy man, candy man
+Go for me, let me be
+All your own candy, your candy, candy man

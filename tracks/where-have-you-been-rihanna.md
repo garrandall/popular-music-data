@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-have-you-been-rihanna
+lyrics_url: https://genius.com/Rihanna-where-have-you-been-lyrics
 name: Where Have You Been
 rankings:
 - end_date: '2011-12-16'
@@ -111,4 +112,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
 ---
+I've been everywhere, man, looking for someone
+Someone who can please me, love me all night long
+I've been everywhere, man, looking for you babe
+Looking for you babe, searching for you babe
 
+
+Where have you been?
+'Cause I never see you out
+Are you hiding from me, yeah?
+Somewhere in the crowd, oh
+
+
+Where have you been?
+All my life, all my life
+Where have you been all my life?
+Where have you been all my life?
+Where have you been all my life?
+Where have you been all my li—
+
+
+I've been everywhere, man, looking for someone
+Someone who can please me, love me all night long
+I've been everywhere, man, looking for you, babe
+Looking for you babe, searching for you baby
+
+
+Where have you been?
+'Cause I never see you out
+Are you hiding from me, yeah?
+Somewhere in the crowd, oh
+
+
+Where have you been?
+All my life, all my life
+Where have you been all my life?
+Where have you been all my life?
+Where have you been all my life?
+Where have you been all my li-i-i-i-ife?
+
+
+Where have you been all my li-i-i-i—?
+Y-You
+Y-You
+Y-You
+
+
+You can have me all you want
+Any way, any day
+Just show me where you are tonight, oh yeah, oh
+
+
+I've been everywhere, man, looking for someone
+Someone who can please me, love me all night long
+I've been everywhere, man, looking for you babe
+Looking for you babe, searching for you babe

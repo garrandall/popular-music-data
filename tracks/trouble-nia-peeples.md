@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-nia-peeples
+lyrics_url: https://genius.com/Nia-peeples-trouble-lyrics
 name: Trouble
 rankings:
 - end_date: '1988-05-20'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
 ---
+I must be out of my head
+Or just plain crazy for you
+'Cause I've been turnin' my back
+At all the things you do
 
+I want a feelin' that lasts much longer
+Nothin' is bound to change
+It's never the same for you
+Well, I can't take it no more
+
+'Cause you spell Trouble
+Trouble
+I try to please you
+But I'm wastin' my time
+You're nothin' but Trouble
+Trouble
+Trouble, baby
+
+You're always on the attack
+You know, you're too in love with yourself
+So now I'm giving it back
+Your time is overdue
+
+Don't wanna be just a fascination
+I need to feel secure
+It's never the same for you
+Well, I can't take it no more
+
+'Cause you spell Trouble
+Trouble
+I try to please you
+But I'm wastin' my time
+You're nothin' but Trouble
+Trouble
+Trouble, baby
+
+'Cause you spell Trouble
+Trouble
+I try to please you
+But I'm wastin' my time
+You're nothin' but Trouble
+Trouble
+Trouble, baby
+
+A-ha that's right you're Trouble
+So get out
+You're nothin' but Trouble
+You're nothin' but trouble- Yeah
+
+Oh, Trouble
+Oh, baby
+Trouble baby
+Trouble
+Say Yeah, Yeah
+Trouble

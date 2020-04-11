@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-the-night-chicago
+lyrics_url: https://genius.com/Chicago-stay-the-night-lyrics
 name: Stay The Night
 rankings:
 - end_date: '1984-05-11'
@@ -75,4 +76,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
 ---
+I don't want you to misunderstand me
+I just wan to say what's on my mind
+No need to hit me with an attitude
+Because I haven't got the time
+I want you to know one thing's for certain
+I surely love your company
+And I won't take no if that's your answer
+At least that's my philosophy
 
+
+Stay the night
+There's room enough here for two
+Stay the night
+I'd like to spend it with you
+Stay the night
+Why don't we call it a day
+No one can stop us, nothing is in the way
+
+
+Have some friendly conversation
+And if you still don't have a clue
+Unless there's something else you've got in mind
+We've got better things to do
+
+
+
+
+Just to have you near me
+Here by my side
+Just to have you near
+And when I get next to your body
+Just to have you near me
+I want to tell you something, make it perfectly clear
+We're gonna have a very good time

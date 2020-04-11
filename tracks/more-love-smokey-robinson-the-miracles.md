@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: more-love-smokey-robinson-the-miracles
+lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-more-love-lyrics
 name: More Love
 rankings:
 - end_date: '1967-06-23'
@@ -52,4 +53,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
+Oooohh ooh whooh whooh
 
+Let it be soon, don't hesitate
+Make it now (right now my love) don't wait (don't wait)
+Open your heart and let my love come in
+I want the moment to start when I can fill your heart
+
+With more love, and more joy
+Than age or time could ever destroy
+And my love will be so solid
+It would take a hundred lifetimes
+To live it down, wear it down, tear it down
+
+This is no fiction
+This is no act
+This is real (so real my love) it's a fact (it's a fact)
+I'll always belong only to you
+Each day I'll be living to
+Make sure I'm giving you
+
+More love and more joy
+Than age or time could ever destroy, oh honey now
+My love will be so solid
+It would take about a hundred lifetimes
+To live it down, wear it down, tear-air it down
+
+Mmmmmmm whoooh whooh whooh whooh whooh
+
+Mmmm mmmmm
+As we grow older no need to fear
+When you need me (need me my love) I'll be here (I'll be here)
+I'll be beside you every step of the way
+A heart that's truthful and keeping you youthful
+
+With more love, more joy
+Than age or time can ever destroy, oh honey now
+My love will be so solid
+It would take about a hundred lifetimes
+To live it down, wear it down, tear it down
+
+Gonna give you more oooh and more joy
+Than age or time could ever destroy, oh baby now
+My love will be so solid
+It would take about a hun.....

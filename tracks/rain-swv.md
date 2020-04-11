@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-swv
+lyrics_url: https://www.musixmatch.com/lyrics/SWV/Rain
 name: Rain
 rankings:
 - end_date: '1998-04-03'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
 ---
+Sometimes it's soft as a misty rain
+That gently touches my soul
+It cools the fire that burns in me
+And I simply lose control
+So just
 
+Rain down on me
+Let your love just fall like raindrops
+Rain on me
+Just rain down on me
+Let your love just shower me
+Just rain on me
+
+Full as a dam at capacity
+Passions about to explode, yeah
+I can't escape its surrounding me
+I'm caught in a storm
+That I don't need no shelter from
+
+Rain down on me
+Let your love just fall like raindrops
+Rain on me
+Just, rain down on me
+Let your love just shower me
+Just rain on me
+
+Shower
+Sprinkle me
+Fall down on me
+(Your love just falling)
+Fall down, fall down on me
+Let it
+Fall down, fall on me
+
+Just
+Rain down on me
+Chill me with your loving touch
+Rain on me
+I wanna feel your love is real so just
+Rain down on me
+Me
+
+Rain on me
+Oh, baby just
+Rain down on me
+Let your love just fall like raindrops
+Rain on me, every little drip drop
+Just rain down, on me
+Let your love just shower me
+Just rain on me
+
+Sometimes it's soft as a misty rain

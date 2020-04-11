@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: as-time-goes-by-johnny-nash
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Nash/As-Time-Goes-By
 name: As Time Goes By
 rankings:
 - end_date: '1959-03-22'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+You must remember this
+A kiss is just a kiss, a sigh is just a sigh
+The fundamental things apply
+As time goes by
 
+And when two lovers woo
+They still say, "I love you"
+On that you can rely
+No matter what the future brings
+As time goes by
+
+Moonlight and love songs
+Never out of date
+Hearts full of passion
+Jealousy and hate
+Woman needs man
+And that man must have his mate
+That no one can deny
+
+It's still the same old story
+A fight for love and glory
+A case of do or die
+The world will always welcome lovers
+As time goes by
+
+It's still the same old story
+A fight for love and glory
+A case of do or die
+The world will always welcome lovers
+As time goes by

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-mike-posner
+lyrics_url: https://genius.com/Mike-posner-please-dont-go-lyrics
 name: Please Don't Go
 rankings:
 - end_date: '2010-10-15'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
 ---
+Let's run away from these lies
+Back to yesterday, safe tonight
 
+
+I feel the sun creeping up like tick tock
+I'm trying to keep you in my head but if not
+We'll just keep running from tomorrow with our lips locked
+Yeah, you got me begging, begging
+
+
+Baby, please don't go
+If I wake up tomorrow, will you still be here?
+I don't know if you feel the way I do
+If you leave, I'm gonna find you
+Baby, please don't go, go, go, go
+Baby, please don't go, go, go, go
+Baby, please don't go, go, go, go
+Baby, please don't, baby, please don't
+
+
+Baby, please don't run away
+From my bed and start another day
+Stay instead
+
+
+I feel the sun creeping up like tick tock
+I'm trying to keep you in my head but if not
+We'll just keep running from tomorrow with our lips locked
+Yeah, you got me begging, begging
+
+
+Baby, please don't go
+If I wake up tomorrow, will you still be here?
+I don't know if you feel the way I do
+If you leave, I'm gonna find you
+Baby, please don't go, go, go, go
+Baby, please don't go, go, go, go
+Baby, please don't go, go, go, go
+Baby, please don't, baby, please don't
+Baby, please don't
+
+
+I stay running from tomorrow
+I stay running from tomorrow
+Well, I stay running from tomorrow
+Said, I stay running from tomorrow
+
+
+Baby, please don't go (Please don't go)
+If I wake up tomorrow will you still be here?
+I don't know if you feel the way I do
+(I'm gon', I'm gon', I'm gonna find you)
+If you leave, I'm gonna find you
+Baby, please don't go, go, go, go
+Baby, please don't go, go, go, go (Don't leave me, leave me)
+Baby, please don't go, go, go, go
+Baby, please don't, baby, please don't
+Baby, please don't run away

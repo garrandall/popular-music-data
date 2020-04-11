@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fish-ain-t-bitin--lamont-dozier
+lyrics_url: https://genius.com/Lamont-dozier-fish-aint-bitin-lyrics
 name: Fish Ain't Bitin'
 rankings:
 - end_date: '1974-06-21'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
 ---
+I'm out here fighting, hungry
+The fish ain't biting
+Life's so frightening
+I'm out here stumbling
+Broke and crumbling
+And nothing's hatching
+And I ain't catching
 
+Nothing, nothing
+Nothing, nothing, nothing
+
+I'm running last in this human race
+Trying to get over this hopeless place
+Trying to find that no defense
+That I can't win with no confidence
+
+And meanwhile in dc
+Tricky dick is trying to be slick
+And the short end of the stick
+Because I'm gonna get it
+Tricky dick, please quit
+
+
+
+Nothing, nothing
+Nothing, nothing, nothing
+
+I've been trying to recover
+From that phase one
+But it's just too hard when
+The damage is already done
+
+Lord, we will overcome
+Or am I just destined
+Destined to be a bum
+
+With phase two
+I thought I was through
+In phase four gonna
+Take me out the back door
+
+This I know it's for sure
+I'm on my knees begging please
+Tricky dick, stop your shit
+
+
+
+Nothing, nothing
+
+Can't afford to be lazy
+When the cost of living's
+Gone crazy

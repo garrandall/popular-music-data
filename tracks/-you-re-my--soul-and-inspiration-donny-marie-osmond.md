@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -you-re-my--soul-and-inspiration-donny-marie-osmond
+lyrics_url: https://www.musixmatch.com/lyrics/Donny-Osmond-Marie-Osmond/You-re-My-Soul-and-Inspiration
 name: (You're My) Soul And Inspiration
 rankings:
 - end_date: '1977-11-25'
@@ -52,4 +53,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
 ---
+Soul and Inspiration
 
+The Righteous Brothers
+
+Girl, I can't let you do this
+Let you walk away
+Girl, how can I live through this
+When you're all I wake up for each day?
+
+Baby, you're my soul and my heart's inspiration
+You're all I've got to get me by
+You're my soul and my heart's inspiration
+Without you baby, what good am I?
+
+I never had much goin'
+But at least I had you
+How can you walk out knowin'
+I ain't got nothin' left if you do?
+
+Baby, you're my soul and my heart's inspiration
+You're all I've got to get me by
+You're my soul and my heart's inspiration
+Without you baby, what good am I, oh what good am I?
+
+Baby, I can't make it withoutcha.
+And I'm, I'm tellin' ya, honey-you're my
+Reason for laughin', for cryin', for livin', and for dyin'.
+
+Baby, I can't make it without you
+Please, I'm begging you baby
+If you go it will kill me
+I swear it, Dear, my love can't bear it
+
+You're my soul and my heart's inspiration
+You're all I've got to get me by
+You're my soul and my heart's inspiration
+Without you baby, what good am I, what good am I?
+
+Mm-mm-mm Mm-mm-mm
+Mm-mm-mm

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: working-for-the-weekend-loverboy
+lyrics_url: https://genius.com/Loverboy-working-for-the-weekend-lyrics
 name: Working For The Weekend
 rankings:
 - end_date: '1981-11-20'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
+Everyone's watching to see what you will do
+Everyone's looking at you, oh
+Everyone's wondering will you come out tonight
+Everyone's trying to get it right
+Get it right
 
+
+Everybody's working for the weekend
+Everybody wants a little romance
+Everybody's going off the deep end
+Everybody needs a second chance
+Oh
+
+
+You want a piece of my heart
+You better start from the start
+You wanna be in the show
+Come on, baby, let's go
+
+
+Everyone's looking to see if it was you
+Everyone wants you to come through
+Everyone's hoping it'll all work out
+Everyone's waiting, they're holding out
+
+
+Everybody's working for the weekend
+Everybody wants a little romance
+Everybody's going off the deep end
+Everybody needs a second chance
+Oh
+
+
+You want a piece of my heart
+You better start from the start
+You wanna be in the show
+Come on, baby, let's go
+
+You want a piece of my heart
+You better start from the start
+You wanna be in the show
+Come on, baby, let's go
+
+You want a piece of my heart
+You better start from the start
+You wanna be in the show
+Come on, baby, let's go

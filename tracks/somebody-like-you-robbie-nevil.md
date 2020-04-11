@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-like-you-robbie-nevil
+lyrics_url: https://genius.com/Robbie-nevil-somebody-like-you-lyrics
 name: Somebody Like You
 rankings:
 - end_date: '1989-03-24'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+Don't mention where you've been
+Or where you want to go
+Don't tell me 'bout all your sins
+'cause I don't want to know
+I tried to give you everything
+But all I got was nothing in return
+Maybe I try too hard
+And it don't seem fair
+I keep telling myself:
 
+Who needs somebody like you?
+I don't need somebody to waste my time
+Who needs somebody like you?
+Someone like me
+No matter how hard I try
+
+You got your life and that's a fact
+But I got my dignity
+You may be happy with the way things are
+
+But that ain't working for me
+I don't ask for perfection
+But I've got to know
+
+Did you ever really care?
+May be you are just a dream that won't come true
+
+I keep telling myself:
+
+Who needs somebody like you?...
+
+Who needs somebody like you?...
+I don't need nobody to tell me lies
+Who needs somebody like you?
+Someone like me
+
+And now I'm wondering why
+
+I keep comin' back 'til I can't take no more
+
+Who needs somebody like you?
+I don't need nobody to waste my time. ...
+
+Who needs somebody like you?
+I don't need nobody to tell my lies. ...

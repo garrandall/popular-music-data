@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: count-me-in-gary-lewis-and-the-playboys
+lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-count-me-in-lyrics
 name: Count Me In
 rankings:
 - end_date: '1965-04-09'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
+If you need someone to count on
+Count me in
+Someone you can rely on
+Through thick and thin
 
+When you start to count
+The ones that you might ever doubt
+If you think of counting me
+Count me out
+
+When you count the ones that want you
+Count me, too
+And if I'm not first on your list
+Count me blue
+
+Just be sure you count on me
+And when the countings through
+Count me madly in love with you
+
+If you need someone to count on
+When you're down
+And all your other friends you've lost
+Count me found
+
+Just be sure you count on me
+When you're down and out
+Count me in through thick and thin
+Or it don't count
+
+When you count the ones that want you
+Count me, too
+And if I'm not first on your list
+Count me blue
+
+Just be sure you count on me
+And when the countings through
+Count me madly in love with you

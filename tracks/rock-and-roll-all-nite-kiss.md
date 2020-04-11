@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-and-roll-all-nite-kiss
+lyrics_url: https://genius.com/Kiss-rock-and-roll-all-nite-lyrics
 name: Rock And Roll All Nite
 rankings:
 - end_date: '1975-05-23'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
 ---
+You show us everything you've got
+You keep on dancin', and the room gets hot
+You drive us wild, we'll drive you crazy
+And you say you wanna go for a spin
+The party's just begun, we'll let you in
+You drive us wild, we'll drive you crazy
 
+
+You keep on shoutin', you keep on shoutin'
+
+
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+
+
+You keep on saying you'll be mine for a while
+You're lookin' fancy, and I like your style
+You drive us wild, we'll drive you crazy
+And you show us everything you've got
+Baby, baby, that's quite a lot
+And you drive us wild, we'll drive you crazy
+
+
+You keep on shoutin', you keep on shoutin'
+
+
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+
+
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+
+
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day
+I wanna rock and roll all night and party every day

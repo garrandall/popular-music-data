@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-love-in-your-eyes-eddie-money
+lyrics_url: https://genius.com/Eddie-money-the-love-in-your-eyes-lyrics
 name: The Love In Your Eyes
 rankings:
 - end_date: '1989-01-20'
@@ -79,4 +80,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
 ---
+I've reached the final count tonight
+I have tracked you down through the tears that I have cried
+Spent a long time waiting for you
+But that's alright now I said, that's alright
 
+I have to see for myself to believe
+And now that day has come
+I'm at peace with myself
+I guess my story has an ending after all
+
+Oh how, I've prayed for you
+And now you've come to me
+
+I can see the love in your eyes
+And this feeling that you've given me
+Is stronger than I realize
+
+I can see the love in your eyes
+My destiny has come to be
+There's nothing left but blue skies for me
+
+Hey, hey, hey, hey, yeah
+I can see it, see it clearly
+
+Out of the ashes of this fire in my heart
+I've been searching for you for such a long, long time
+Now suddenly I'm free to be myself
+I am overwhelmed by, by the joy you've given me
+
+'Cause I bleed like anyone else
+And I need like anyone else
+And I'm ready to give it all to you right now
+Right now, now, baby
+
+I can see the love in your eyes
+And this feeling that you've given me
+Is stronger than I realize now
+
+I can see the love in your eyes
+My destiny has come to me
+There's nothing left but blue skies for me
+
+Wishin' on star to star
+And this miracle keeps coming home
+
+Closer than I've ever been
+I can almost see the rainbow's end
+Yes, I can
+Ooo, I, I can now
+
+'Cause I bleed like anyone else
+And I need like anyone else, honey
+And I'm ready to give it all to you right now
+Right now, now, baby
+
+I can see the love in your eyes
+And this feeling that you've given me
+Is stronger than I realize now
+
+I can see the love in your eyes
+And my destiny has come to be
+There's nothing left but blue skies for me
+
+I can see the love in your eyes
+And this feeling that you've given me
+Is stronger than I've realized now
+
+I can see the love in your eyes
+My destiny has come to be
+There's nothing left but blue skies, baby
+
+I can see the love in your eyes
+I can see it, I can feel it
+I can see the love in your eyes
+I can see your eyes, baby

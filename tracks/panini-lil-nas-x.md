@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: panini-lil-nas-x
+lyrics_url: https://genius.com/Lil-nas-x-panini-lyrics
 name: Panini
 rankings:
 - end_date: '2019-07-12'
@@ -135,4 +136,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
 ---
+D-D-Daytrip took it to ten (Hey)
 
+
+Ayy, Panini, don't you be a meanie
+Thought you wanted me to go up
+Why you tryna keep me teeny? I
+It's a dream, he wished it on a genie
+I got fans finally, ain't you wanting them to see me? I
+
+
+I thought you want this for my life, for my life
+Said you wanted to see me thrive, you lied
+
+
+Just say to me what you want from me
+Just say to me what you want from me
+
+
+Ayy, Panini, don't you be a meanie
+Thought you wanted me to go up
+Why you tryna keep me teeny now?
+Now they need me, number one on streaming
+Oh yeah, you used to love me
+So what happened, what's the meaning? I
+
+
+I thought you want this for my life, for my life
+Said you wanted to see me thrive, you lied
+
+
+Now when it's all done, I get the upper hand
+I need a big Benz, not another fan
+But I still want you as a fan
+I'ma need to sit down, don't mean to make demands
+But I need you to...
+
+
+Say to me what you want from me
+Just say to me what you want from me
+
+
+D-D-Daytrip took it to ten (Hey)

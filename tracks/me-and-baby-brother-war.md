@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-and-baby-brother-war
+lyrics_url: https://genius.com/War-me-and-baby-brother-lyrics
 name: Me And Baby Brother
 rankings:
 - end_date: '1973-11-16'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
+Me and baby brother
+Used to run together
+Me and baby brother
+Used to run together
 
+Welcome one another
+Headed for the corner
+Welcome one another
+Headed for the corner
+
+Shiftin' on his mind
+Is like drinking funky wine
+By the river
+Chippin' on his mind
+Is like drinking funky wine
+By the river
+
+Me and baby brother
+Used to run together
+Me and baby brother
+Used to run together
+
+Welcome one another
+Headed for the corner
+Welcome one another
+Headed for the corner
+
+I remember the day
+We used to fight together
+I remember the day, yeah
+We used to fight together
+
+Me and baby brother
+Used to run together
+Me and baby brother
+Used to run together
+
+Hang on, baby brother, oh
+They call it law and order
+Hey, hey, hey
+
+Come back, baby brother
+Come back, baby brother
+Come back, baby brother
+Come back, baby brother
+You're my baby brother
+You're my baby brother
+Come back, baby brother
+Come back, baby brother
+Come back, baby brother
+You're my baby brother
+You're my baby brother
+Come back, baby brother
+Come back, baby brother
+Come back, baby brother

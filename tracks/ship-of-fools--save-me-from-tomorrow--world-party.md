@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ship-of-fools--save-me-from-tomorrow--world-party
+lyrics_url: https://genius.com/World-party-ship-of-fools-lyrics
 name: Ship Of Fools (Save Me From Tomorrow)
 rankings:
 - end_date: '1987-02-20'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
 ---
-
+We're setting sail
+To the place on the map from which no one has ever returned
+Drawn by the promise of the joker and the fool
+By the light of the crosses that burn
+Drawn by the promise of the women and the lace
+And the gold and the cotton and pearls
+It's the place where they keep all the darkness you need
+You sail away from the light of the world on this trip baby
+Pay, you will pay tomorrow
+You're gonna pay tomorrow
+You will pay tomorrow
+Save me, save me from tomorrow
+I don't want to sail with this ship of fools, no no
+Oh, save me, save me from tomorrow
+I don't want to sail with this ship of fools, no no
+I want to run and hide
+Right now
+Avarice and greed are gonna drive you over the endless sea
+They will leave you drifting in the shallows
+Drowning in the oceans of history
+Travellin' the world, you're in search of no good
+But I'm sure you'll build your Sodom like I knew you would
+Using all the good people for your galley slaves
+As your little boat struggles through the the warning waves
+But you will pay, you will pay tomorrow
+You're gonna pay tomorrow
+You gonna pay tomorrow
+Save me, save me from tomorrow
+I don't want to sail with this ship of fools, no
+Oh, save me, save me from tomorrow
+I don't want to sail with this ship of fools, no
+Where's it comin' from or where's it goin' to?
+It's just a, it's just a ship of fools
+All aboard

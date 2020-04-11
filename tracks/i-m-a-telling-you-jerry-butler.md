@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-telling-you-jerry-butler
+lyrics_url: https://genius.com/Jerry-butler-im-a-telling-you-lyrics
 name: I'm A Telling You
 rankings:
 - end_date: '1961-07-30'
@@ -39,4 +40,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
 ---
+I'm a telling you
+I'm a telling you
+I'm a telling you
+I'm a telling you
 
+I got up, I go to work
+I try real hard to do my job
+But before the day is done
+I find out I done something wrong
+
+I'm a telling you
+I'm a telling you
+I'm a telling you
+I'm a telling you
+Days are getting longer and
+My nights are getting shorter
+And my way gets darker
+And my work gets harder
+
+Now when I get home
+The wife is mad
+The little girl
+She's feeling bad
+
+Little junior
+He's got the blues
+Says he needs a
+Pair of baseball shoes
+
+I'm a telling you
+I'm a telling you
+I'm a telling you
+I'm a telling you
+Days are getting longer and
+My nights are getting shorter
+And my way gets darker
+And my work gets harder
+
+Now in everything that I do
+I'm trying to make
+One dream come true
+
+And maybe someday
+Lord, I'll find
+Satisfaction and
+Peace of mind
+
+I'm a telling you
+I'm a telling you
+I'm a telling you
+I'm a telling you
+Days are getting longer and
+My nights are getting shorter
+And my way gets darker
+And my work gets harder

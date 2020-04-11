@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tighter-tighter-alive-kicking
+lyrics_url: https://genius.com/Alive-and-kicking-tighter-tighter-lyrics
 name: Tighter Tighter
 rankings:
 - end_date: '1970-06-12'
@@ -64,4 +65,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
 ---
+"You know I got to show you
+Nobody else before you
+Ever gave me such
+A beautiful feeling
+Oh, woman, you
+Touched a-my soul now
+Honey, don`t you let go now
+Hold on, baby
+Just a little bit tighter
 
+(CHORUS)
+Hold on
+Just a little bit tighter now, baby
+I love you so much and
+I can`t let go, no no no
+Hold on, a just a little bit
+Tighter now, baby
+Love is so surprising
+Opened up my eyes and
+You reached out and
+Took my hand
+Baby, you touched a-my soul now
+Woman, don`t let go now
+Hold on, baby
+Just a little bit tighter
+
+(CHORUS)
+Oh, woman, you
+Touched a-my soul now
+Honey, don`t you let go now
+Hold on, baby
+Just a little bit tighter"

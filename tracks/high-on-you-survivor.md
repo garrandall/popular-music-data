@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-on-you-survivor
+lyrics_url: https://genius.com/Survivor-high-on-you-lyrics
 name: High On You
 rankings:
 - end_date: '1985-02-01'
@@ -75,4 +76,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
 ---
+There you stood, that'll teach her
+To look so good and feel so right
+Let me tell you about
+The girl I met last night
 
+It's understood, I had to reach her
+I let the wheel of fortune spin
+I touched your hand before
+The crowd started crashin' in
+
+Now I'm higher than a kite
+I know I'm getting hooked on your love
+Talkin' to myself, runnin' in the heat
+Beggin' for your touch
+In the middle of the street
+
+And I, I can't stop thinkin' about you, girl
+I must be livin' in a fantasy world
+I'm so high on you
+
+Smart and coy, a little crazy
+The kind of face that starts a fight
+Let me tell you about
+The girl I had last night
+
+Piercin' eyes, like a raven
+You seemed to share my secret sin
+We were high before
+The night started kickin' in
+
+Now I'm screamin' in the night
+I know I'm getting hooked on your love
+Talkin' to myself, runnin' in the heat
+Beggin' for your touch
+In the middle of the street
+
+And I, I can't stop thinkin' about you, girl
+I must be livin' in a fantasy world
+I've searched the whole world over
+To find a heart so true
+Such complete intoxication
+I'm high on you
+
+There you stood, that'll teach her
+To look so good and feel so right
+Let me tell you about
+The girl I met last night
+
+Now I'm higher than a kite
+I know I'm getting hooked on your love
+Talkin' to myself, runnin' in the heat
+Beggin' for your touch
+In the middle of the street
+
+And I, I can't stop thinkin' about you, girl
+I must be livin' in a fantasy world
+I've searched the whole world over
+To find a heart so true
+Such complete intoxication
+I'm high on you
+I'm high on you
+I'm high on you

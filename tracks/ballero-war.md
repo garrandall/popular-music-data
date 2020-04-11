@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ballero-war
+lyrics_url: https://genius.com/War-ballero-lyrics
 name: Ballero
 rankings:
 - end_date: '1974-06-14'
@@ -47,4 +48,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
 ---
-
+Ballero
+Paquita que ballero
+Ballero
+Paquita que ballero
+Ballero
+Paquita que ballero
+Ballero
+Paquita que ballero

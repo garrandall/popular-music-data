@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-gonna-be-alright-gerry-and-the-pacemakers
+lyrics_url: https://genius.com/Gerry-and-the-pacemakers-its-gonna-be-alright-lyrics
 name: It's Gonna Be Alright
 rankings:
 - end_date: '1965-04-16'
@@ -39,4 +40,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
 ---
+It's gonna be all right, all right, all right
+It's gonna be all right
 
+The day you came my way
+I knew I would stay
+Close by your side
+To keep you staisfied
+
+It's gonna be all right, all right, all right
+It's gonna be all right
+
+When you look at me
+In your eyes I can see
+The love that grows each day
+That's why I've gotta say
+
+It's gonna be all right, all right, all right
+It's gonna be all right
+
+Never thought I'd find a girl like you
+Now I have, I know I'll never be blue
+It's gonna be all right, all right, all right
+It's gonna be all right
+
+Every time we meet
+My heart skips a beat
+And now you're here to stay
+You'll always hear me say
+
+It's gonna be all right, all right, all right
+It's gonna be all right
+
+Never thought I'd find a girl like you
+Now I have, I know I'll never be blue
+It's gonna be all right, all right, all right
+It's gonna be all right
+
+Every time we meet
+My heart skips a beat
+And now you're here to stay
+You'll always hear me say
+
+It's gonna be all right, all right, all right
+It's gonna be all right
+It's gonna be all right
+It's gonna be all right
+It's gonna be all right

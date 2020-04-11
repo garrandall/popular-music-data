@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steal-the-night-stevie-woods
+lyrics_url: https://genius.com/Stevie-woods-steal-the-night-lyrics
 name: Steal The Night
 rankings:
 - end_date: '1981-09-18'
@@ -91,4 +92,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
 ---
+I see the message in your eyes
+I feel the hunger closing in
+As something deep within the night
+Tells me that I'm in love again
+I know it's not the first time
+And I know it won't be the last
+All alone I can't make the verse rhyme
+No don't let this one slip past
+Let's steal the night
+Let's make our great escape
+Steal the night
+Hey, hey
+Let's steal the night
+Before it gets too late
+Steal the night away
+Steal the night away
+I can clearly read your mind
+Caught by your fire from the start
+So let's not waste our precious time
+Go on and listen to your heart
 
+(Repeat bridge and chorus)

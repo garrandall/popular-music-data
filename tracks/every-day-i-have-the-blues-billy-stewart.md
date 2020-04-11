@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-day-i-have-the-blues-billy-stewart
+lyrics_url: https://genius.com/Billy-stewart-every-day-i-have-the-blues-lyrics
 name: Every Day I Have The Blues
 rankings:
 - end_date: '1967-02-17'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
-
+Ev'ry day
+Ev'ry day I have the blues
+Ev'ry day
+Ev'ry day I have the blues;
+Well, you see me worry, baby
+Because it's you I hate to lose
+Nobody loves me
+Nobody seems to care
+Nobody loves me
+Nobody seems to care;
+Speakin' of bad luck and trouble
+Well, you know I've had my share
+I'm gonna pack my suitcase
+Movin' on down the line
+Oh, I'm gonna pack my suitcase
+Move on down the line;
+Well there ain't nobody worryin'
+And there ain't nobody cryin'
+Seems to me ev'ry day, ev'ry day
+Ev'ry day I have the blues
+Ev'ry day, ev'ry day, ev'ry day
+Ev'ry day I have the blues
+You see me worry, baby
+Cause it's you I hate to lose
+Nobody loves me
+Nobody seems to care;
+Nobody loves me
+Nobody seems to care;
+Speakin' of bad luck and trouble
+Well, you know I've had my share
+Ev'ry day
+Ev'ry day I have the blues
+Ev'ry day
+Ev'ry day I have the blues;
+Well, you see me worry, baby
+Because it's you I hate to lose

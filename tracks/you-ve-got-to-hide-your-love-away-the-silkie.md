@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-got-to-hide-your-love-away-the-silkie
+lyrics_url: https://genius.com/The-silkie-2-youve-got-to-hide-your-love-away-lyrics
 name: You've Got To Hide Your Love Away
 rankings:
 - end_date: '1965-10-22'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
 ---
+Here I stand head in hand
+Turn my face to the wall
+If she's gone I can't go on
+Feelin' two-foot small
 
+Everywhere people stare
+Each and every day
+I can see them laugh at me
+And I hear them say
+
+Hey you've got to hide your love away
+Hey you've got to hide your love away
+How could I even try
+I can never win
+
+Hearing them, seeing them
+In the state I'm in
+How could she say to me
+Love will find a way
+
+Gather round all you clowns
+Let me hear you say
+Hey you've got to hide your love away
+Hey you've got to hide your love away

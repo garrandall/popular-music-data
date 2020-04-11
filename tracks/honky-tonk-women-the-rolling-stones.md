@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honky-tonk-women-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-honky-tonk-women-lyrics
 name: Honky Tonk Women
 rankings:
 - end_date: '1969-07-25'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
 ---
+I met a gin-soaked barroom queen in Memphis
+She tried to take me upstairs for a ride
+She had to heave me right across her shoulder
+Cause I just can't seem to drink it off my mind
 
+
+It's the honky tonk women
+Gimme, gimme, gimme the honky tonk blues
+
+
+I laid a divorcee in New York City
+I had to put up some kind of a fight
+The lady then she covered me with roses
+She blew my nose and then she blew my mind
+
+
+It's the honky tonk women
+Gimme, gimme, gimme the honky tonk blues
+
+
+Strollin' on the boulevards of Paris
+Naked as the day that I will die
+The sailors, they're so charming there in Paris
+But I just don't seem to sail you off my mind
+
+
+It's the honky tonk women
+Gimme, gimme, gimme the honky tonk blues

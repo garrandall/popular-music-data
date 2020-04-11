@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-immature
+lyrics_url: https://genius.com/Immature-please-dont-go-lyrics
 name: Please Don't Go
 rankings:
 - end_date: '1996-05-10'
@@ -59,4 +60,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
 ---
+Baby, please don't go (please don't go)
+Stay right by my side (by my side)
 
+
+Rainy days
+Brings back memories of you
+And I will never lie
+I want you by my side
+Thinking of you
+Makes me really not want you to go
+Please stay
+Stay with me
+
+
+Baby, please don't go (please don't go)
+Stay right by my side (by my side)
+
+
+Oh, I can't change the fact
+That I want you in my life
+Don't go
+My heart's not strong
+Now all I see
+To you, you are my friend
+Don't leave
+I'll do anything
+
+
+These rainy days bring back memories
+These rainy days bring back memories
+These rainy days bring back memories
+Of you
+These rainy days bring back memories
+These rainy days bring back memories
+These rainy days bring back memories
+Of you
+
+
+Baby, please don't go (please don't go)
+Stay right by my side (by my side)
+
+
+These rainy days bring back memories (please don't go)
+These rainy days bring back memories (stay right by my side)
+These rainy days bring back memories (by my side)
+Of you (stay right by my side)
+These rainy days bring back memories (please don't go)
+These rainy days bring back memories (stay right by my side)
+These rainy days bring back memories (by my side)
+Of you
+
+
+Baby, please don't go (please don't go)
+Stay right by my side (by my side)
+Baby, please don't go
+Stay right by my side
+Stay right by my side
+Stay right by my side
+Stay right by my side (please don't go)
+Stay right by my side

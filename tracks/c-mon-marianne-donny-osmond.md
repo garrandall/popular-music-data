@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: c-mon-marianne-donny-osmond
+lyrics_url: https://genius.com/Donny-osmond-cmon-marianne-lyrics
 name: C'mon Marianne
 rankings:
 - end_date: '1976-06-11'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
+Oh here I am (here I am)
+On my knees again (knees again)
+I'll do anything (anything)
+Just to make it right (make it right)
+Say you understand (understand)
+Oh I know you can (know you can)
+C'mon Marianne, uh-hmm
 
+Don't matter what the people say (people say)
+It didn't happen that way (happen that way)
+She was a passing fling (passing fling)
+Not a permanent thing (permanent thing)
+Say you understand (understand)
+Oh I know you can (know you can)
+
+C'mon Marianne (Marianne)
+C'mon Marianne (Marianne)
+C'mon Marianne (Marianne)
+Say you can understand
+My Marianne, Marianne, Marianne, Marianne
+
+Well your big brown eyes (big brown eyes)
+Are all full of tears (full of tears)
+From the bitterness (bitterness)
+Of those lonely years (lonely years)
+So I hang my head (hang my head)
+Wish that I were dead (I were dead)
+
+C'mon Marianne (Marianne)
+C'mon Marianne (Marianne)
+C'mon Marianne (Marianne)
+Say you can understand
+My Marianne (Marianne)
+C'mon Marianne (Marianne)
+C'mon Marianne (Marianne), oh
+
+Marianne, Marianne, Marianne, oh Marianne
+
+(Repeat and fade)

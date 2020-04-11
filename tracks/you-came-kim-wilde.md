@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-came-kim-wilde
+lyrics_url: https://genius.com/Kim-wilde-you-came-lyrics
 name: You Came
 rankings:
 - end_date: '1988-09-23'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
 ---
+Someone I know is staring at me
+And when I look into her eyes
+I see a girl that I used to be
+I hardly recognise
+Cos in the space of a year
+I've watched the old me disappear
+All of the things I once held precious
+Just don't mean anything anymore
+Cos suddenly
 
+You came, and changed the way I feel
+No one could love you more
+Because you came and turned my life around
+No one could take your place
+
+I've never felt good with permanent things
+Now I don't want anything to change
+You can't imagine the joy you bring
+My life won't be the same
+And I'll be there when you call
+I'll pick you up if you should fall
+Cos I have never felt such inspiration
+Nobody else ever gave me more because
+
+You came, and changed the way I feel
+No one could love you more
+Because you came and turned my life around
+No one could take your place
+You came
+
+You came and turned my life around
+No one could take your place
+
+I watch you sleep in the still of the night
+You look so pretty when you dream
+So many people just go through life
+Holding back, they don't say what they mean
+But it's easy for me
+Since you came
+
+No one could love you more
+Because you came and turned my life around
+No one could take your place
+You came, and changed the way I feel
+No one could love you more
+Because you came and turned my life around
+No one could take your place
+You came

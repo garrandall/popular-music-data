@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-honda-the-hondells
+lyrics_url: https://genius.com/Hondells-little-honda-lyrics
 name: Little Honda
 rankings:
 - end_date: '1964-09-18'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
-
+The Hondells
+Miscellaneous
+Little Honda
+Little Honda
+The Beach Boys
+(Wilson/Love)
+GO!
+I'm gonna wake you up early cause I'm gonna take a ride with you
+We're goin' down to the Honda shop, I'll tell you what we're gonna do
+Put on a ragged sweatshirt, I'll take you anywhere you want me to
+Refrain:
+First gear, it's all right (Honda, Honda, go faster, faster)
+Second geear, I'll lean right (Honda, Honda, go faster, faster)
+Third gear, hang on tight (Honda, Honda, go faster, faster)
+Faster, it's all right
+It's not a big motorcycle
+Just a groovy little motorbike
+It's more fun than a barrel of monkeys
+That two-wheeled bike
+We'll ride on out of the town
+To anyplace I know you like
+Refrain
+It climbs the hills like a Matchless
+Cause my Honda' built really light
+When I go in to the turns
+Better hang on tight
+I'd better turn on the lights
+So we can ride my Honda tonight
+Refrain

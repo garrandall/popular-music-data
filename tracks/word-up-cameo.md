@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: word-up-cameo
+lyrics_url: https://genius.com/Cameo-word-up-lyrics
 name: Word Up
 rankings:
 - end_date: '1986-09-19'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+Oh!
 
+
+Yo, pretty ladies around the world
+Got a weird thing to show you
+So tell all the boys and girls
+Tell yo brother, yo sister
+And yo momma too
+'Cause we're about to throw down
+And you'll know just what to do
+Wave your hands in the air
+Like you don't care
+Glide by the people as they start to look and stare
+Do your dance, do your dance
+Do your dance quick, mama
+Come on baby, tell me, what's the word?
+
+
+Oh, word up!
+Everybody say when you hear their call
+You've got to get it underway
+Word up! It's the code word
+No matter where you say it
+You'll know that you'll be heard
+
+
+Now all you sucker DJs
+Who think you're fly
+There's got to be a reason
+And we know the reason why
+You try to put on those airs and act real cool
+But you've got to realize
+That you're acting like fools
+Give us music, we can use it
+We need to dance
+We don't have the time
+For psychological romance
+No romance, no romance
+No romance for me, mama
+Come on baby, tell me what's the word
+
+
+Oh, word up!
+Everybody say when you hear their call
+You've got to get it underway
+
+
+Dial "L" for low...
+Come on, all you people say...
+W-O-R-D up - W-O-R-D up

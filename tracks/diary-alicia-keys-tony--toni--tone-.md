@@ -5,6 +5,7 @@ features:
 - Tony! Toni! Tone!
 genres: []
 key: diary-alicia-keys-tony--toni--tone-
+lyrics_url: https://www.musixmatch.com/lyrics/Alicia-Keys-feat-Tony-Toni-Ton%C3%A9-Jermaine-Paul/Diary
 name: Diary
 rankings:
 - end_date: '2004-06-25'
@@ -120,4 +121,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
 ---
+Lay your head on my pillow
+Here you can be yourself
+No one has to know what you are feeling
+No one but me and you
 
+I won't tell your secrets
+Your secrets are safe with me
+I will keep your secrets
+Just think of me as the pages in your diary
+
+I feel such a connection
+Even when you're far away
+Oooo baby if there's anything that you fear
+Call 4894608 and I'll be here
+
+I won't tell your secrets
+Your secrets are safe with me
+I will keep your secrets
+Just think of me as the pages in your diary
+
+And only we know what we talked about baby boy
+Don't know how you can be drivin' me so crazy, boy
+Baby, when you're in town why don't you come around, boy?
+I'll be the loyalty you need you can trust me boy
+(Ohh)
+
+I won't tell your secrets
+Your secrets are safe with me
+I will keep your secrets
+Just think of me as the pages in your diary

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: apples-peaches-pumpkin-pie-jay-and-the-techniques
+lyrics_url: https://genius.com/Jay-and-the-techniques-apples-peaches-pumpkin-pie-lyrics
 name: Apples Peaches Pumpkin Pie
 rankings:
 - end_date: '1967-07-21'
@@ -75,4 +76,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
 ---
-
+Ready or not here I come
+Gee that used to be such fun
+Apples peaches pumpkin pie
+Who's afraid to holler I?
+That's a game we used to play
+Hide and seek was its name
+Oh ready or not, hear I come
+Gee that used to be such fun
+I always used to find a hiding place
+Times have changed
+Well I'm one step behind you, but still I can't find you
+Apple peaches pumpkin pie
+You were young and so was I
+Now that we've grown up it seems
+You just keep ignoring me
+I'll find you anywhere you go
+I'll follow you high and low
+You can't escape this love of mine anytime
+Well, I'll sneak up behind you
+Be careful where I find you
+Apple peaches pumpkin pie
+Soon your love will be all mine
+Then I'm gonna take you home
+Marry you so you won't roam
+Marry you so you won't roam. Right now
+I'll find you anywhere you go
+I'm gonna look high and low
+You can't escape this love of mine anytime
+Well, I'll sneak up behind you
+Be careful where I find you
+Ready or not here I come
+Gee that used to be such fun
+(repeat and fade)

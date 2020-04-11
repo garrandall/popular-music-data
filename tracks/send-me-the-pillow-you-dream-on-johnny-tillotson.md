@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-the-pillow-you-dream-on-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-send-me-the-pillow-you-dream-on-lyrics
 name: Send Me The Pillow You Dream On
 rankings:
 - end_date: '1962-08-17'
@@ -43,4 +44,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+Send me the pillow that you dream on
+Don't you know that I still care for you?
+Send me the pillow that you dream on
+So darling, I can dream on it, too
 
+Each night while I'm sleeping oh, so lonely
+I'll share your love in dreams that once were true
+Send me the pillow that you dream on
+So darling, I can dream on it, too
+
+Send me the pillow that you dream on
+Maybe time will let our dreams come true
+Send me the pillow that you dream on
+So darling, I can dream on it, too
+
+I've waited so long for you to write me
+But just a memory's all that's left of you
+Send me the pillow that you dream on
+So darling, I can dream on it, too
+So I can dream on it, too

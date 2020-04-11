@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: small-world-huey-lewis-the-news
@@ -54,29 +53,29 @@ rankings:
   start_date: '1988-12-17'
 ---
 
-All around the world 
-There are people like you and me 
-From the poorest beggar in the street 
-To the richest king and queen 
+All around the world
+There are people like you and me
+From the poorest beggar in the street
+To the richest king and queen
 
-Some people take 
-And then they never give 
-You gotta learn to give and take 
-If yo wanna learn to live 
+Some people take
+And then they never give
+You gotta learn to give and take
+If yo wanna learn to live
 In a small world
-Small, small world 
+Small, small world
 
-Now we can 
-Fight one another 
-Like they to on T.V. 
-Or we can 
-Help one another 
-The way it's supposed to be 
+Now we can
+Fight one another
+Like they to on T.V.
+Or we can
+Help one another
+The way it's supposed to be
 
-If we all give a little 
-It could really mean a lot 
-It's a small world 
-But it's the only one we've got 
+If we all give a little
+It could really mean a lot
+It's a small world
+But it's the only one we've got
 Small world
 Small, small world
 

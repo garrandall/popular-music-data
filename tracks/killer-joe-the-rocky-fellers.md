@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: killer-joe-the-rocky-fellers
+lyrics_url: https://genius.com/The-rocky-fellers-killer-joe-lyrics
 name: Killer Joe
 rankings:
 - end_date: '1963-03-29'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
 ---
-
+The Rocky Fellers
+Miscellaneous
+Killer Joe
+Killer Joe
+The Rocky Fellers
+Written by Bert Russell (Bert Berns), Bob Elgin, and Phil Medley
+Peaked at # 16 in 1963
+The Feller family's first and only Top 40 hit, featuring Manila-born Mindanao "Pop" Feller
+And his four sons. The melody for part of this song is extremely similar to that of Mickey
+& Sylvia's 1957 R&B hit "Love Is Strange." Covered by The Kingsmen as a minor single
+In 1966
+Oh, whoa, oh, no
+Oh, whoa, oh, yeah
+Look at Killer Joe go (ah-ah-ah)
+Dancing with Marie (oh-oh-no)
+He don't act like he knows (oh-oh-yeah)
+She belongs to me
+Look at how they Wobble (ah-ah-ah)
+He's the best in town (he's the best in town)
+I think I'm in trouble (oh-oh-yeah)
+She forgets that I'm around
+Yeah, ay-ee-ay-eh
+Oh, I'm so jealous
+Hey, help me, fellas
+Go on and tell her she should only dance with me-ee-ee
+Ooh
+Look at Killer Joe go (ah-ah-ah)
+Holding her so tight (oh-oh-no)
+Putting on the big show (oh-oh-yeah)
+With Marie tonight
+Someone better tell him (ah-ah-ah)
+She is mine alone (she is mine alone)
+Just because he dance good (oh-oh-yeah)
+That don't mean he take her home
+Yeah, ay ee ay, yeah
+Oh, I'm so jealous, yeah, yeah, yeah, hey, help me fellas
+Yeah, yeah, yeah, go on and tell her
+She should only dance with me
+Ooh
+Look at Killer Joe go (ah-ah-ah)
+Stealing my Marie (stealing my Marie)
+Someone better tell her (ah-ah-ah)
+She belongs to me
+Yeah, ay ee ay, yeah
+(wop, wop Killer Joe) Come back, Marie
+(no-no-no-no) Come back, Marie
+(no-no-no-no) Come back, Marie
+(no-no-no-no) Come back, Marie
+FADE

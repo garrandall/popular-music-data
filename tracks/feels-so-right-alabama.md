@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feels-so-right-alabama
+lyrics_url: https://genius.com/Alabama-feels-so-right-lyrics
 name: Feels So Right
 rankings:
 - end_date: '1981-06-12'
@@ -95,4 +96,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
 ---
+Whisper to me softly
+Breathe words upon my skin
+No one's near and listening
+So please don't say goodbye
 
+
+Just hold me close and love me
+Press your lips to mine
+Mmm, feels so right, feels so right
+
+
+Lying here beside you
+I hear the echoes of your sighs
+Promise me you'll stay with me
+And keep me warm tonight
+
+
+Just hold me close and love me
+Give my heart a smile
+Mmm, feels so right, feels so right
+
+
+Your body feels so gentle
+And my passion rises high
+You're loving me so easy
+Your wish is my command
+
+
+Just hold me close and love me
+Tell me it won't end
+Mmm, feels so right, feels so right
+Feels so right
+
+
+Oh how you feel so right baby

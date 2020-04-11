@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runner-manfred-mann-s-earth-band
+lyrics_url: https://genius.com/Manfred-manns-earth-band-the-runner-lyrics
 name: Runner
 rankings:
 - end_date: '1984-01-27'
@@ -67,4 +68,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
 ---
+Through the night, through the dawn
+Behind you another runner is born
+Don't look back
+You've been there
+See the mist as your breath hits the air
 
+And it's underneath the moonlight, passing some
+Still your heart beats in the moonlight, like a drum
+
+Through the night, through the dawn
+Behind you another runner is born
+Don't look back
+You've been there
+Feel the mist as your breath hits the air
+
+And it's underneath the moonlight, passing some
+Still your heart beats in the moonlight, like a drum
+
+And you will run your time
+A shooting star across the sky
+And you will surely cross the line
+To pass on the flame
+
+Sun come up, sun go down
+Hear the feet, see the sweat on the ground
+
+Watch your step
+Keep your cool
+Though you can't see what's in front of you
+
+And it's underneath the moonlight, passing some
+Still your heart beats in the moonlight, like a drum
+
+And you will run your time
+A shooting star across the sky
+And you will surely cross the line
+Just to pass on the flame
+Pass on the flame
+
+Through the night, through the dawn
+Behind you, another runner is born
+Don't look back
+You've been there
+See the mist as your breath hits the air
+
+And it's underneath the
+Moonlight passing some
+Still your heart beats in the moonlight like a drum
+
+And you will run your time
+A shooting star across the sky
+And you will surely cross the line
+
+(And you will run your time)
+And it's underneath the moonlight, passing some
+(A shooting star across the sky)
+Still your heart beats in the moonlight, like a drum
+(And you will surely cross the line)
+
+And you will run your time
+(To pass on the flame)
+A shooting star across the sky
+(To pass on the flame)
+And you will surely cross the line
+
+(And you will run your time)
+And it's underneath the moonlight, passing some
+(A shooting star across the sky)
+Still your heart beats in the moonlight, like a drum
+(And you will surely cross the line)
+
+And you will run your time
+A shooting star across the sky
+And you will surely cross the line

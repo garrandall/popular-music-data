@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-kind-of-boy-you-can-t-forget-the-raindrops
+lyrics_url: https://genius.com/Raindrops-the-kind-of-boy-you-cant-forget-lyrics
 name: The Kind Of Boy You Can't Forget
 rankings:
 - end_date: '1963-08-16'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
 ---
+I remember when I first saw him
+Something told me that I couldn't ignore him
+And I've been dreamin' of him every night
+Ever since we met
 
+'Cause he's the kind of boy you can't forget
+(He's the kind of boy you can't forget)
+
+I remember when I first kissed him
+He touched my hand and then I couldn't resist him
+And though he kissed me 'bout a week ago
+I ain't got over it yet
+
+'Cause he's the kind of boy you can't forget
+(He's the kind of boy you can't forget)
+
+Wo, wo, wo, wo, wo, wo, wo, wo, wo, wo
+I could be so happy knowing he was mine
+(Yeah, yeah, yeah), all the time
+And I could make him happy
+I would treat him good, yes I would, wo, wo
+Wo, wo, wo, wo, wo, wo, wo, wo, wo, wo
+Hey!
+
+Gotta tell him that I adore him
+There is nothin' that I wouldn't do for him
+I won't be happy till I make him mine
+And a wedding day is set
+
+'Cause he's the kind of boy you can't forget
+(He's the kind of boy you can't forget)

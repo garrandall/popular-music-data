@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -welcome--new-lovers-pat-boone
+lyrics_url: https://www.musixmatch.com/lyrics/Pat-Boone/Welcome-New-Lovers
 name: (Welcome) New Lovers
 rankings:
 - end_date: '1960-02-28'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+(Welcome one, welcome two, welcome every one of you)
 
+Welcome all new lovers (welcome, welcome)
+To the land of love (land of love)
+New lovers here you'll find the happiness
+That you've been dreaming of
+
+Welcome all new lovers (welcome, welcome)
+It's so fabulous (fabulous)
+New lovers, when you gave your heart away
+That made you one of us
+
+New lovers, you've passed (you've passed the lovin' test)
+You gave (you gave your very best)
+Until (till then you really care)
+For someone somewhere
+
+All the stars are twinklin' (twinklin', twinklin')
+In the sky above (sky above)
+They're sayin' "Welcome all new lovers"
+"Into the land of love"
+
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)
+New lovers (welcome, welcome)

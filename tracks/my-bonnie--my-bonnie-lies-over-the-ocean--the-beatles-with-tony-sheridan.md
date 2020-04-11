@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-bonnie--my-bonnie-lies-over-the-ocean--the-beatles-with-tony-sheridan
+lyrics_url: https://www.musixmatch.com/lyrics/The-Beatles-with-Tony-Sheridan/My-Bonnie-My-Bonnie-Lies-Over-The-Ocean
 name: My Bonnie (My Bonnie Lies Over The Ocean)
 rankings:
 - end_date: '1964-02-21'
@@ -31,4 +32,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
 ---
-
+My bonnie traditionalbeatlesanthology 1my bonnie lies over the ocean, my bonnie lies over the sea.
+My bonnie lies over the ocean.
+Oh bring back my bonnie to me.
+My bonnie lies over the ocean, my bonnie lies over the sea.
+Well my bonnie lies over the ocean.
+Yeah bring back my bonnie to me.
+Yeah bring back, ah bring back, oh bring back my bonnie to me to me.
+Oh bring back, oh bring back, oh bring back my bonnie to me.
+Well my bonnie lies over the ocean, my bonnie lies over the sea.
+Yeah my bonnie lies over the ocean.
+Oh i said bring back my bonnie to me.
+Yeah bring back, ah bring back, oh bring back my bonnie to me to me.
+Oh bring back, ah bring back, oh bring back my bonnie to me.
+From: david cassells

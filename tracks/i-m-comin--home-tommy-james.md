@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-comin--home-tommy-james
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-James/I-m-Comin-Home
 name: I'm Comin' Home
 rankings:
 - end_date: '1971-10-01'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
 ---
+Someone told me long ago
+There's a calm before the storm,
+I know; it's been coming for some time.
 
+When it's over, so they say
+It'll rain a sunny day,
+I know; shining down like water.
+
+I want to know, have you ever seen the rain?
+I want to know, have you ever seen the rain
+Coming down on a sunny day?
+
+Yesterday, and days before,
+Sun is cold and rain is hard,
+I know; been that way for all my time.
+
+'Til forever, on it goes
+Through the circle, fast and slow,
+I know; it can't stop, I wonder.
+
+I want to know, have you ever seen the rain?
+I want to know, have you ever seen the rain
+Coming down on a sunny day?
+
+Yeah!
+
+I want to know, have you ever seen the rain?
+I want to know, have you ever seen the rain
+Coming down on a sunny day?

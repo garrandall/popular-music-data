@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-promise-when-in-rome
+lyrics_url: https://genius.com/When-in-rome-the-promise-lyrics
 name: The Promise
 rankings:
 - end_date: '1988-09-09'
@@ -107,4 +108,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
 ---
+If you need a friend
+Don't look to a stranger
+You know in the end, I'll always be there
+But when you're in doubt
+And when you're in danger
+Take a look all around, and I'll be there
 
+
+I'm sorry, but I'm just thinking of the right words to say
+I know they don't sound the way I planned them to be
+But if you wait around a while, I'll make you fall for me
+I promise, I promise you I will
+
+
+When your day is through
+And so is your temper
+You know what to do
+I'm gonna always be there
+Sometimes if I shout
+It's not what's intended
+These words just come out
+With no cross to bear
+
+
+I'm sorry, but I'm just thinking of the right words to say
+I know they don't sound the way I planned them to be
+But if you wait around a while, I'll make you fall for me
+I promise, I promise you I will
+
+I'm sorry, but I'm just thinking of the right words to say
+I know they don't sound the way I planned them to be
+And if I had to walk the world, I'd make you fall for me
+I promise you, I promise you I will
+
+
+I gotta tell you
+Need to tell you
+Gotta tell you
+I've gotta tell you
+
+
+I'm sorry, but I'm just thinking of the right words to say
+I know they don't sound the way I planned them to be
+But if you wait around a while, I'll make you fall for me
+I promise, I promise you
+
+I'm sorry, but I'm just thinking of the right words to say
+I know they don't sound the way I planned them to be
+And if I had to walk the world, I'd make you fall for me
+I promise you, I promise you I will
+I will
+I will

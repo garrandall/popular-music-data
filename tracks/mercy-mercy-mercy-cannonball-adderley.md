@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mercy-mercy-mercy-cannonball-adderley
+lyrics_url: https://genius.com/Cannonball-adderley-mercy-mercy-mercy-lyrics
 name: Mercy Mercy Mercy
 rankings:
 - end_date: '1967-01-13'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+Have mercy, have mercy, baby
+Have mercy, have mercy on me
+Well I went to see the gypsy
+To have my fortune read
+She said "Man, your baby gonna leave you
+Her bags are packed up under the bed"
+That's right
 
+Have mercy, have mercy, baby
+Have mercy, have mercy on me
+But if you leave me baby
+Girl if you put me down
+I'm gonna make it to the nearest river child
+And jump overboard and drown
+Thats right
+
+Have mercy, have mercy, baby
+Have mercy, have mercy on me
+I said hey, hey baby, hey, hey now
+What you trying to do?
+Hey, hey baby, hey, hey now
+Please don't say we're through
+
+Have mercy, have mercy, baby
+Have mercy, have mercy on me
+But if you stay baby
+I tell you what I'm gonna do
+I'm gonna work two jobs, seven days a week
+And bring my money home to you
+That's right
+Have mercy, have mercy, baby
+Have mercy, have mercy on me
+Yeah
+
+Have mercy, have mercy, baby
+Have mercy, have mercy on me

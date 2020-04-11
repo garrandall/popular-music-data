@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eternally-sarah-vaughan
+lyrics_url: https://genius.com/Sarah-vaughan-eternally-lyrics
 name: Eternally
 rankings:
 - end_date: '1960-02-14'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
 ---
+I'll be loving you eternally
+With a love that's true, eternally
+From the start, within my heart
+It seems I've always known
+The sun would shine
+When you were mine
+And mine alone
+I'll be loving you eternally
+There'll be no one new, my dear, for me
+Though the sky should fall
+Remember I shall always be
+Forever true and loving you
+Eternally
 
+Though the sky should fall
+Remember I shall always be
+Forever true and loving you
+Eternally

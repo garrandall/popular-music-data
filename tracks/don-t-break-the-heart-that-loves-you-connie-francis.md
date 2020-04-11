@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-break-the-heart-that-loves-you-connie-francis
+lyrics_url: https://genius.com/Connie-francis-dont-break-the-heart-that-loves-you-lyrics
 name: Don't Break The Heart That Loves You
 rankings:
 - end_date: '1962-02-16'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
+(Don't break the heart that loves you so)
 
+Don't break the heart that loves you
+Handle it with care
+Don't break the heart that needs you
+Darling, please be fair
+
+Why do you flirt and constantly hurt me?
+Why do you treat our love so carelessly?
+
+You know I'm jealous of you
+And yet you seem to try
+To go out of your way
+To be unkind
+
+Sweetheart, I'm begging of you
+Don't break this heart that loves you
+Don't break this heart of mine
+
+Darling, please don't hurt me
+Please, don't make me cry
+I don't know what I'd do if you'd ever say goodbye
+Remember, I love you so much
+And love is life's greatest joy
+Please don't break my heart like a child breaks a little toy
+
+Sweetheart, I'm begging of you
+Don't break this heart that loves you
+Don't break this heart of mine

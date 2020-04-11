@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yesterday-the-beatles
+lyrics_url: https://genius.com/The-beatles-yesterday-lyrics
 name: Yesterday
 rankings:
 - end_date: '1965-10-01'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
 ---
+Yesterday
+All my troubles seemed so far away
+Now it looks as though they're here to stay
+Oh, I believe in yesterday
 
+
+Suddenly
+I'm not half the man I used to be
+There's a shadow hanging over me
+Oh, yesterday came suddenly
+
+
+Why she had to go
+I don't know, she wouldn't say
+I said something wrong
+Now I long for yesterday
+
+
+Yesterday
+Love was such an easy game to play
+Now I need a place to hide away
+Oh, I believe in yesterday
+
+
+Why she had to go
+I don't know, she wouldn't say
+I said something wrong
+Now I long for yesterday
+
+
+Yesterday
+Love was such an easy game to play
+Now I need a place to hide away
+Oh, I believe in yesterday

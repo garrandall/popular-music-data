@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-barbra-streisand
+lyrics_url: https://genius.com/Barbra-streisand-two-people-lyrics
 name: People
 rankings:
 - end_date: '1964-04-10'
@@ -83,4 +84,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
 ---
+Two people
+Like two children
+We're holding back
+We're holding on
+Two children
+Frightened of new places
+Of getting lost
+Of being found
+Running, hiding
+Somehow afraid of love
+Playing in the sunlight
+And shade of love
 
+Games we play too well
+Like two children
+Isn't it time
+Time we throw all our toys away
+So that our love can grow
+Day by day
+We're two people trying to leave
+What belongs to some far-off past
+Ready to find the love that will last
+Are you the one who can free
+The child in me...

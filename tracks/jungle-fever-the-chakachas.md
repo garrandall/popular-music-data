@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jungle-fever-the-chakachas
+lyrics_url: https://www.musixmatch.com/lyrics/The-Chakachas/Jungle-Fever
 name: Jungle Fever
 rankings:
 - end_date: '1972-01-21'
@@ -67,4 +68,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
 ---
-
+Muchos años han pasado
+De esta banda en la tribuna
+Y nunca se ah terminado la pasión y la locura
+No importa los resultados no importa los marcadores
+Solo matense en la cancha pongan huevos jugadores
+Y no tienen jefe
+Y no tienen capos
+Solo a los muchachos que siguen a los RAYADOS
+SOY DE LA PANDILLA
+DE TODA LA VIDA
+LA FAMOSA BANDA DEL CERRO DE LA SILLA

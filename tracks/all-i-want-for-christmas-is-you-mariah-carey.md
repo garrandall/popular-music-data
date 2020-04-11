@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-want-for-christmas-is-you-mariah-carey
+lyrics_url: https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
 name: All I Want For Christmas Is You
 rankings:
 - end_date: '2000-01-14'
@@ -155,4 +156,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+I don't want a lot for Christmas
+There is just one thing I need
+I don't care about the presents
+Underneath the Christmas tree
+I just want you for my own
+More than you could ever know
+Make my wish come true
+All I want for Christmas is you, yeah
 
+
+I don't want a lot for Christmas
+There is just one thing I need (And I)
+Don't care about the presents
+Underneath the Christmas tree
+I don't need to hang my stocking
+There upon the fireplace (Ah)
+Santa Claus won't make me happy
+With a toy on Christmas Day
+
+
+I just want you for my own (Ooh)
+More than you could ever know (Ooh)
+Make my wish come true
+All I want for Christmas is you
+You, baby
+
+
+Oh, I won't ask for much this Christmas
+I won't even wish for snow (And I)
+I'm just gonna keep on waiting
+Underneath the mistletoe
+I won't make a list and send it
+To the North Pole for Saint Nick (Ah)
+I won't even stay awake to
+Hear those magic reindeer click
+
+
+'Cause I just want you here tonight (Ooh)
+Holding on to me so tight (Ooh)
+What more can I do?
+Oh baby, all I want for Christmas is you
+You, baby
+
+
+Oh, all the lights are shining
+So brightly everywhere (So brightly, baby)
+And the sound of children's
+Laughter fills the air (Oh, oh yeah)
+And everyone is singing (Oh yeah)
+I hear those sleigh bells ringing (Oh)
+Santa, won't you bring me the one I really need? (Yeah, oh, oh)
+Won't you please bring my baby to me?
+
+
+Oh, I don't want a lot for Christmas
+This is all I'm asking for (Ah)
+I just wanna see my baby
+Standing right outside my door
+
+
+Oh, I just want you for my own (Ooh)
+More than you could ever know (Ooh)
+Make my wish come true
+Oh baby, all I want for Christmas is you
+
+
+You, baby
+All I want for Christmas is you, baby (You)
+All I want for Christmas is you, baby (Ah, oh, ah, oh)
+All I want for Christmas is you, baby (You)
+All I want for Christmas is you, baby (All I really want, baby, ooh)
+All I want for Christmas is you, baby (All I want, all I really want is you)

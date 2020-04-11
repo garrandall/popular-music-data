@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhapsody-in-the-rain-lou-christie
+lyrics_url: https://genius.com/Lou-christie-rhapsody-in-the-rain-lyrics
 name: Rhapsody In The Rain
 rankings:
 - end_date: '1966-04-01'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
 ---
+Baby, the raindrops play for me
+A lonely rhapsody cause on our first date
+We were making out in the rain
+And in this car our love went much too far
+It was exciting as thunder
+Tonight
+I wonder where you are?
 
+The windshield wipers seemed to say
+"Together, together, together, together"
+And now they are saying
+"Oh, never, never"
+Ooh wee, ooh wee, baby
+
+Rhapsody in the rain
+Rhapsody in the rain
+Angels keep crying for me, "Don't stop"
+Angels keep crying for me, "Don't stop"
+
+Baby, I'm parked outside your door
+Remember making love
+Making love
+We were making love in the storm
+Sha, la, la, la, la, la
+
+And then a flash from above
+Lightning, lightning
+Lightning, lightning
+
+Just like our love
+It was exciting, exciting
+Ooh wee, ooh wee, baby
+
+Rhapsody in the rain
+Rhapsody in the rain
+Angels keep crying for me, "Don't stop"
+Angels keep crying for me, "Don't stop"
+
+Yesterday
+Bring back yesterday
+
+Rhapsody in the rain, rhapsody in the rain
+Angels keep crying for me, "Don't stop"
+Angels keep crying for me, "Don't stop"
+
+Rhapsody in the rain
+Rhapsody in the rain
+Rhapsody in the rain
+Rhapsody in the rain

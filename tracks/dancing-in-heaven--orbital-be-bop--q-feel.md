@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-heaven--orbital-be-bop--q-feel
+lyrics_url: https://genius.com/Q-feel-dancing-in-heaven-orbital-be-bop-lyrics
 name: Dancing In Heaven (Orbital Be-Bop)
 rankings:
 - end_date: '1989-06-23'
@@ -35,4 +36,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
 ---
+(Are you ready? Here we go)
+Slow, slow, quick, quick, slow
+Slow, slow, quick, quick, slow
 
+Countdown it's getting to the flight time
+Night stars are shining in my eyes
+My shoes are going to be the first ones
+To dance deep up in the skies
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+(Kick it out)
+
+Slow, slow, quick, quick, slow
+Slow, slow, quick, quick, slow
+
+I'll be the first to bassa nova
+Ten thousand miles above my legs
+You dear, my lady on the radar
+I'll bring a child to outer space
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Hey, here I am
+I hear the universe sing
+The celestial scream
+I am not alone
+Are you receiving me clear?
+There is others out here
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Hey, here I am
+I hear the universe sing
+The celestial scream
+I am not alone
+Are you receiving me clear?
+There is others out here
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)
+Dancing in heaven, I never thought I could get my feet this far
+(Orbital be-bop)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: toxic-britney-spears
+lyrics_url: https://genius.com/Britney-spears-toxic-lyrics
 name: Toxic
 rankings:
 - end_date: '2004-02-06'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
 ---
+Baby, can't you see I'm calling?
+A guy like you should wear a warning
+It's dangerous, I'm falling
+There's no escape, I can't wait
+I need a hit, baby, give me it
+You're dangerous, I'm lovin' it
 
+
+Too high, can't come down
+Losing my head, spinnin' 'round and 'round
+Do you feel me now?
+
+
+With a taste of your lips, I'm on a ride
+You're toxic, I'm slippin' under
+With a taste of a poison paradise
+I'm addicted to you
+Don't you know that you're toxic?
+And I love what you do
+Don't you know that you're toxic?
+
+
+It's getting late to give you up
+I took a sip from my devil's cup
+Slowly, it's taking over me
+
+
+Too high, can't come down
+It's in the air and it's all around
+Can you feel me now?
+
+
+With a taste of your lips, I'm on a ride
+You're toxic, I'm slippin' under
+With a taste of a poison paradise
+I'm addicted to you
+Don't you know that you're toxic?
+And I love what you do
+Don't you know that you're toxic?
+Don't you know that you're toxic?
+
+
+With a taste of your lips, I'm on a ride
+You're toxic, I'm slippin' under
+With a taste of a poison paradise
+I'm addicted to you
+Don't you know that you're toxic?
+With a taste of your lips, I'm on a ride
+You're toxic, I'm slippin' under (Toxic)
+With a taste of a poison paradise
+I'm addicted to you
+Don't you know that you're toxic?
+
+
+Intoxicate me now with your lovin' now
+I think I'm ready now (I think I'm ready now)
+Intoxicate me now with your lovin' now
+I think I'm ready now

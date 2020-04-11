@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: poco-loco-gene-eunice
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-Eunice/Poco-Loco
 name: Poco-Loco
 rankings:
 - end_date: '1959-08-30'
@@ -60,4 +61,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
 ---
+In the beginning
+Of this world
+There were men and women
+And boys and girls
+I met my lover
+We fell in love
+Since then my darling
+It's you I think of
 
+And when you call my name
+Just call me insane
+Poco loco
+A little crazy
+
+You think I'm crazy
+A matter of fact
+I go for you
+And that is that
+Just be my darling
+I'm so in love
+We go together
+Like fingers and glove
+
+And when you call my name
+Just call me insane
+Poco loco
+A little crazy
+
+Late in the evening
+Alone in the dark
+I like to take you
+For a walk in the park
+Just be my darling
+I'm so in love
+We go together
+Like fingers and glove
+
+And when you call my name
+Just call me insane
+Poco loco
+A little crazy
+Poco loco
+A little crazy
+Poco loco
+A little crazy
+Poco loco
+A little crazy

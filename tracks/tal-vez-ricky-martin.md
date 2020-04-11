@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tal-vez-ricky-martin
+lyrics_url: https://genius.com/Ricky-martin-tal-vez-lyrics
 name: Tal Vez
 rankings:
 - end_date: '2003-06-06'
@@ -39,3 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
+Tal vez sera que esa historia ya tiene final
+No se porque hoy te siento tan distante de mí
+Que a pesar que lo intento de nuevo
+Tal vez llegue tarde, ya no hay nada que hacer
+Y no puedo creer que el tiempo que hemos tenido tal vez se nos gastó
+
+
+Tal vez fui yo que no te dio una noche entera
+Tal vez nunca te he dado lo que tú esperabas
+Y no estaba cuando me necesitabas
+Tal vez no te escuche,Tal vez me descuide
+Tal vez se me olvido que yo te amaba
+
+
+Tal vez será que por ahora ya no hay nada que hablar
+Tal vez esta vez necesitamos tiempo para pensar
+Y yo por mi parte propongo intentarlo de nuevo,volver a empezar
+Que por más que lo pienso no encuentro una sola razón para seguir sin tí
+
+
+
+
+Tal vez me sorprendio la vida por la espalda
+Y tira y tira y se rompió la cuerda
+Tal vez nunca entendí lo que eras para mí
+Tal vez yo nunca supe a quien amaba
+
+
+Y yo por mi parte propongo intentarlo de nuevo,volver a empezar
+Que por más que lo pienso no encuentro una sola razón para seguir sin tí

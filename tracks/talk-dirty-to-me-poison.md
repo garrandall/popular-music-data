@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talk-dirty-to-me-poison
+lyrics_url: https://genius.com/Poison-talk-dirty-to-me-lyrics
 name: Talk Dirty To Me
 rankings:
 - end_date: '1987-03-20'
@@ -71,4 +72,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
 ---
+You know I never
+I never seen you look so good
+You never act the way you should
+But I like it
+And I know you like it too
+The way that I want you
+I gotta have you
+Oh yes, I do
 
+I never
+I never ever stay out late
+You know that I can hardly wait
+Just to see you
+And I know you cannot wait
+A' Wait to see me too
+I gotta touch you
+
+
+Cause baby we'll be
+At the drive-in
+In the old man's Ford
+Behind the bushes
+Till I'm screaming for more
+Down the basement
+Lock the cellar door
+And baby
+Talk dirty to me
+
+You know I call you
+I call you on the telephone
+I'm only hoping that you're home
+So I can hear you
+When you say those words to me
+And whisper so softly
+I gotta hear you
+
+
+Cause baby we'll be
+At the drive-in
+In the old man's Ford
+Behind the bushes
+Till I'm screaming for more
+Down the basement
+Lock the cellar door
+And baby
+Talk dirty to me
+
+C.C. pick up that guitar and talk to me
+
+
+Cause baby we'll be
+At the drive-in
+In the old man's Ford
+Behind the bushes
+Till I'm screaming for more
+Down the basement
+Lock the cellar door
+And baby
+Talk dirty to me
+
+
+Cause baby we'll be
+At the drive-in
+In the old man's Ford
+Behind the bushes
+Till I'm screaming for more
+Down the basement
+Lock the cellar door
+And baby
+Talk dirty to me

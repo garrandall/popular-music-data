@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lean-like-a-cholo-down-a-k-a--kilo
+lyrics_url: https://genius.com/Down-aka-kilo-lean-like-a-cholo-lyrics
 name: Lean Like A Cholo
 rankings:
 - end_date: '2007-05-25'
@@ -87,4 +88,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
 ---
+All The Homies They Know What I Mean
+Baby Let Me Show U How I Lean (Like A Cholo)
 
+Lay Back Bounce In The Clube
+When We Do A Dance Ya We Do It Like What
+
+(Like A) Like A Cholo
+
+Side To Side
+Elbows Up Side To Side
+Elbows Up Side To Side
+Elbows Up Side To Side
+Like A Cholo
+
+All Up In The Clube Tan Beat
+Lookin For Some Highness
+We On The Tree
+I Neeed A Bad One A Real Freak
+Find Them At The Dance Floor So Don't Sleep
+
+Damn I Like U Like U But A Really Want Her
+Shes That Type I Can Tell Let Me Get Into Beat Take Her Back To The Hotal
+But Right Now I'm On The Move
+Show This Little Momma How A Gangsta Grove
+
+I Don't Do A Whole Lot Just Enogh
+Atleast I Decide To Keep My Elbows Up
+Like This And Like That
+All The Girls Know Where The Real G's At
+You Could Find Us Way Up In The Back
+Whatching That Ass Bounce Like A Low Low
+
+
+I Lean Like A Cholo
+Side To Side
+Elbows Up Side To Side
+Elbows Up Side To Side
+Elbows Up Side To Side
+
+
+Like A Cholo
+I'm Brown I Get Down
+The Girls Love How I Lean
+Like A G To The Beat
+Doing Why Mj's On My Feet
+
+I'm Lookin Real Good I'm So Hood
+Tryin To Stay Clean If U Know What I Mean
+
+Pockets Full Of Feria
+Mucho Dinero Look Me In The Eye Tell Me Pappy Te Quero
+
+Let Me Do My Dance U Do Yours
+Shakin What U Got Till Ur Sweating Out Ur Poors
+
+Just Like That Ya I Like That
+
+Ima Perro Trying To Tase That Cat
+Hey Dj Won't U Play That Same Track
+(Whined It Back) I Can Lean To That
+
+Now She Wants Me
+And I Ain't Going Home Solo Beacuse I Lean Like A Cholo
+
+
+Like A Cholo
+
+All The Homies They Know What I Mean
+Baby Let Me Show U How I Lean Like A Cholo
+
+Lay Back Bounce In The Clube
+When We Do A Dance Ya We Do It Like What
+
+All The Homies They Know What I Mean
+Baby Let Me Show U How I Lean Like A Cholo
+
+Lay Back Bounce In The Clube
+When We Do A Dance Ya We Do It Like What

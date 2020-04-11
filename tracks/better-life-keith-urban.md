@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-life-keith-urban
+lyrics_url: https://genius.com/Keith-urban-better-life-lyrics
 name: Better Life
 rankings:
 - end_date: '2005-09-16'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
 ---
+Friday night and the moon is high
+I'm wide-awake just watching you sleep
+And I promise you you're going to have
+More than just the things that you need
+We have not got much now, we’re just starting out
+But I know somehow paradise is coming
 
+
+Someday baby, you and I are gonna be the ones
+Good luck's going to shine
+Someday baby you and I are gonna be the ones
+So hold on
+We're headed for a better life
+
+
+Oh now there's a place for you and me
+Where we can dream as big as the sky
+I know it's hard to see it now
+But baby someday we're going to fly
+This road we're on, you know it might be long
+But my faith is strong
+It's all that really matters
+
+
+Someday baby, you and I are gonna be the ones
+Good luck's gonna shine
+Someday baby you and I are gonna be the ones
+So hold on
+We're headed for a better life
+
+
+So hold on, hold on
+Come on baby, hold on
+Yeah, we're gonna have it all
+And ooh
+
+
+Someday baby, you and I are gonna be the ones
+Good luck's gonna shine
+Someday baby you and I are gonna be the ones
+So hold on
+We're headed for a better life
+Someday baby, you and I are gonna be the ones
+Good luck's gonna shine
+Someday baby you and I are gonna be the ones
+So hold on
+We're headed for a better life
+
+
+Oh, a better life
+Hey we're going to leave this all behind us baby, wait and see
+We're headed for a better life, you and me
+We're going to break the chains that bind and, finally we'll be free
+We're going to be the ones that have it all, you and me
+Just hold on tight now baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cherry-baby-starz
+lyrics_url: https://www.musixmatch.com/lyrics/Starz/Cherry-Baby
 name: Cherry Baby
 rankings:
 - end_date: '1977-03-25'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
 ---
+I've been trying for a long, long time
+Just to capture you inside a rhyme
+How to keep you here inside with me
+Till they say that I can be set free
+Oh, don't you know
+I'm never gonna ever let you go
+Cause you're so sweet
+I've got to have you Cherry
+Mmmmm, Cherry baby
+Cherry, Cherry, oh yeah
+Cherry, Cherry baby
+Cherry, Cherry oh
 
+When the master key has locked the gate
+I lay down my weary head and wait
+My dreams fly across the endless miles
+I see your precious eyes a while
+Oh don't you see
+You're never gonna get away from me
+Cause you're so sweet
+I've got to have you Cherry
+Cherry baby
+Cherry, Cherry oh yeah
+Cherry, Cherry baby
+Cherry, Cherry oh
+
+Til they say that I am free and clear
+This old heart of mine will keep you near
+I just pray you wont forget me here
+Cause you're my soul, my pretty little Cherry
+Cherry baby
+Cherry baby, oh yeah
+Cherry, Cherry baby
+Cherry, Cherry, oh

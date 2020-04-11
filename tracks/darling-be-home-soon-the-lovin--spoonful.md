@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: darling-be-home-soon-the-lovin--spoonful
+lyrics_url: https://genius.com/The-lovin-spoonful-darling-be-home-soon-lyrics
 name: Darling Be Home Soon
 rankings:
 - end_date: '1967-02-17'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
 ---
+Come and talk of all the things we did today
+Here and laugh about our funny little ways
+While we have a few minutes to breathe
+And I know that it's time you must leave
 
+But darling be home soon
+I couldn't bear to wait an extra minute if you dawdled
+My darling be home soon
+It's not just these few hours but I've been waiting since I toddled
+For the great relief of having you to talk to
+
+And now, a quarter of my life is almost passed
+I think I've come to see myself at last
+And I see that the time spent confused
+Was the time that I spent without you
+And I feel myself in gloom
+
+So darling be home soon
+I couldn't bear to wait an extra minute if you dawdled
+My darling be home soon
+It's not just these few hours but I've been waiting since I toddled
+For the great relief of having you to talk to
+
+
+So darling...
+My darling be home soon
+I couldn't bear to wait an extra minute if you dawdled
+My darling be home soon
+It's not just these few hours but I've been waiting since I toddled
+For the great relief of having you to talk to
+
+Go and beat your crazy head against the sky
+Try and see beyond the houses and your eyes
+It's OK to shoot the moon
+
+Darling be home soon
+I couldn't bear to wait an extra minute if you dawdled
+My darling be home soon
+It's not just these few hours but I've been waiting since I toddled
+For the great relief of having you to talk to

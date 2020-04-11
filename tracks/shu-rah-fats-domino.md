@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shu-rah-fats-domino
+lyrics_url: https://genius.com/Fats-domino-shu-rah-lyrics
 name: Shu Rah
 rankings:
 - end_date: '1961-03-26'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
 ---
+Here comes my baby
+Shu Rah
+Oh how you're doin
+Shu Rah
+Glad to see you
+Shu Rah
+So let me kiss you
+Shu Rah
+Oh Oh Shu Rah Oh Oh Oh
 
+All way 'round
+All way 'round
+Shu Rah
+
+Now grab your lover
+Shu Rah
+Back to back
+Shu Rah
+Head to head
+Shu Rah
+Face to face
+Shu Rah
+
+Now kiss your lover
+Shu Rah
+Oh, oh Shu Rah
+Oh Oh

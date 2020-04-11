@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: summertime-sadness-lana-del-rey-cedric-gervais
+lyrics_url: https://genius.com/Lana-del-rey-summertime-sadness-cedric-gervais-remix-lyrics
 name: Summertime Sadness
 rankings:
 - end_date: '2013-08-02'
@@ -100,4 +101,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
 ---
+I got my red dress on tonight
+Dancin' in the dark in the pale moonlight
+Done my hair up real big, beauty queen style
+High heels off, I'm feelin' alive
 
+Oh my God, I feel it in the air
+Telephone wires above
+Are sizzlin' like a snare
+Honey I'm on fire, I feel it everywhere
+Nothin' scares me anymore
+
+Kiss me hard before you go
+Summertime sadness
+I just wanted you to know
+That baby, you the best
+
+I got that summertime, summertime sadness
+Su-su-summertime, summertime sadness
+Got that summertime, summertime sadness
+
+I'm feelin' electric tonight
+Cruisin' down the coast, goin' about 99
+Got my bad baby by my heavenly side
+I know if I go, I'll die happy tonight
+
+Oh my God, I feel it in the air
+Telephone wires above
+Are sizzlin' like a snare
+Honey I'm on fire, I feel it everywhere
+Nothin' scares me anymore
+
+Kiss me hard before you go
+Summertime sadness
+I just wanted you to know
+That baby, you the best
+
+I got that summertime, summertime sadness
+Su-su-summertime, summertime sadness
+Got that summertime, summertime sadness

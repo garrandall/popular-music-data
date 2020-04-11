@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-up-and-get-down-the-dramatics
+lyrics_url: https://genius.com/The-dramatics-get-up-and-get-down-lyrics
 name: Get Up And Get Down
 rankings:
 - end_date: '1971-12-17'
@@ -35,4 +36,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+Come on
 
+Come along
+Come on and get up, get down
+
+And get down
+Get up out of your seat
+(Get up) and get down
+Get up and move your feet
+
+Rise, rise, rise
+Shake your hips
+(Get up) let me see you
+
+Let me see your tight wire come alive
+
+You ain't too old
+(You ain't too hip) (get up)
+I ain't asking for a cartwheel
+(A somersault) or no flip
+
+I just want you to
+
+And get down
+Get up out of your seat
+(Get up) and get down
+Get up and move your feet
+
+Now look at mama
+(Look at mama)
+She'll tear you up (get up)
+To make sure you feel the cool
+I get to turn the music up
+
+Clap your hands
+Stomp your feet (get up)
+Keep in time with the music
+Get on down with the beat
+
+I just want you to
+
+And get down
+Get up out of your seat
+(Get up) and get down
+Get up and move your feet
+
+Come on
+
+Come on and get down
+Get up and get down
+Come on, girl, oh, ooh
+
+And get down
+Get up out of your seat
+(Get up) and get down
+Get up and move your feet
+And get down
+Get up out of your seat
+(Get up) and get down
+Get up and move your feet

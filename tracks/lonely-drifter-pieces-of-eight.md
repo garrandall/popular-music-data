@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-drifter-pieces-of-eight
+lyrics_url: https://genius.com/Pieces-of-eight-lonely-drifter-lyrics
 name: Lonely Drifter
 rankings:
 - end_date: '1967-06-30'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+Oh lonely (alone), lonely goodbyes (alone)
+Oh lonely (alone), lonely goodbyes (alone)
+As I sit here
+Wondering what happened to me
+Can't get away from the wind
+All alone without me again
+Wondering if I will always be a
 
+Lonely drifter (I should drift away)
+Lonely trickster ()
+Lonely drifter
+Because I, I, I don't want to have to be a
+Oh lonely (alone), lonely goodbyes (alone)
+Oh lonely (alone), lonely goodbyes (alone)
+
+And when we wait forever, forever ever and ever
+Must I always 
+Will tomorrow be like today
+Wondering why I will always be a
+
+Lonely drifter (must we drift away)
+Lonely trickster ()
+Lonely drifter (said, I said I'm all alone now)
+Lonely drifter (help me please)
+Lonely drifter (I won't want to be alone)
+Lonely drifter (I said help me somebody)
+Lonely drifter (help me somebody)
+Lonely drifter (help me somebody)

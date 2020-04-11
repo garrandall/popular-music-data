@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-a-lover-john-cougar
+lyrics_url: https://www.musixmatch.com/lyrics/John-Cougar/I-Need-a-Lover
 name: I Need A Lover
 rankings:
 - end_date: '1979-10-19'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
 ---
+I need a lover that won't drive me crazy
+I need a lover that won't drive me crazy
+I need a lover that won't drive me crazy
+Some girl that knows the meaning of a
+Hey hit the highway
 
+Well I've been walkin' the streets up and down
+Racing through the human jungles at night
+I'm so confused, my mind is indifferent
+Hey I'm so weak, won't somebody shut off that light
+
+Electricity runs through the video
+And I watch it from this hole I call home
+All the stony's are dancin' to the radio
+And I got the world calling me up here
+Tonight on the phone
+
+I need a lover that won't drive me crazy
+Some girl to thrill me and then go away
+I need a lover that won't drive me crazy
+Some girl that knows the meaning of a
+Hey hit the highway
+
+Well I'm not wiped out by this poolroom life I'm living
+I'm gonna quit this job, go to school, or head back home
+And I'm not askin' to be loved or be forgiven
+I just can't face shakin' in this bedroom
+One more night alone
+
+I need a lover that won't drive me crazy
+I need a lover that won't drive me crazy
+I need a lover that won't drive me crazy
+Some girl that knows the meaning of a
+Hey hit the highway
+
+I need a lover that won't drive me crazy
+Some girl to thrill me and then go away
+I need a lover that won't drive me crazy
+Some girl that knows the meaning of a
+Hey hit the highway
+
+You bet cha

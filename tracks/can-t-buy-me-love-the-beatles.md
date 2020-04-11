@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-buy-me-love-the-beatles
+lyrics_url: https://genius.com/The-beatles-cant-buy-me-love-lyrics
 name: Can't Buy Me Love
 rankings:
 - end_date: '1964-04-03'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
 ---
+Can't buy me love, love
+Can't buy me love
 
+
+I'll buy you a diamond ring, my friend
+If it makes you feel alright
+I'll get you anything, my friend
+If it makes you feel alright
+'Cause I don't care too much for money
+Money can't buy me love
+
+
+I'll give you all I've got to give
+If you say you love me too
+I may not have a lot to give
+But what I got I'll give to you
+I don't care too much for money
+Money can't buy me love
+
+
+Can't buy me love, everybody tells me so
+Can't buy me love, no-no-no, no!
+
+
+Say you don't need no diamond rings
+And I'll be satisfied
+Tell me that you want the kind of things
+That money just can't buy
+I don't care too much for money
+Money can't buy me love
+Ow!
+
+
+
+
+Buy me love, everybody tells me so
+Can't buy me love, no-no-no, no!
+
+
+Say you don't need no diamond rings
+And I'll be satisfied
+Tell me that you want the kind of things
+That money just can't buy
+I don't care too much for money
+Money can't buy me love
+
+
+Can't buy me love, love
+Can't buy me love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-for-you-sister-hazel
+lyrics_url: https://genius.com/Sister-hazel-all-for-you-lyrics
 name: All For You
 rankings:
 - end_date: '1997-07-18'
@@ -171,4 +172,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
 ---
+Finally I figured out
+But it took a long long time
+And now there's a turnabout
+Maybe cause I'm trying
 
+
+There's been times, (I'm so confused)
+All my roads (They lead to you)
+I just can't turn and walk away...
+
+
+It's hard to say
+What it is I see in you
+Wonder if I'll always
+Be with you
+But words can't say
+And I can't do
+Enough to prove
+It's all for you
+
+
+I thought I'd seen it all
+Cause it's been a long long time
+Oh but then we'll trip and fall
+Wondering if I'm blind
+
+
+There's been times, (I'm so confused)
+All my roads (They lead to you)
+I just can't turn and walk away...
+
+
+It's hard to say
+What it is I see in you
+Wonder if I'll always
+Be with you
+But words can't say
+And I can't do
+Enough to prove
+It's all for you
+
+
+Rain comes pouring down (Pouring down)
+Falling from blue skies (Falling from blue skies)
+Words without a sound
+Coming from your eyes
+
+
+Finally I figured out
+But it took a long long time
+And now there's a turnabout
+Maybe cause I'm trying
+
+
+There's been times, (I'm so confused)
+All my roads (They lead to you)
+I just can't turn and walk away...
+
+
+It's hard to say
+What it is I see in you
+Wonder if I'll always
+Be with you
+But words can't say
+And I can't do
+Enough to prove
+It's all for you
+It's hard to say
+What it is I see in you
+Wonder if I'll always
+Be with you
+But words can't say
+And I can't do
+Enough to prove
+It's all for you

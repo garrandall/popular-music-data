@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someone-to-hold-trey-lorenz
+lyrics_url: https://genius.com/Trey-lorenz-someone-to-hold-lyrics
 name: Someone To Hold
 rankings:
 - end_date: '1992-10-09'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
+I was alone
+Until you came and brought the sunshine
+I was afraid
+But in your love I found peace of mind
+I was so blind
+You opened my eyes and now I can see
+I know that you understand me baby
+You're all a woman should
 
+And it's you baby
+That gets me to tommorrow
+And it's you baby
+That takes away my sorrow
+When you lie close to me in my heart I believe
+We'll always be together
+And there ain't nobody better
+Our love will last forever
+I finally found
+
+**Chorus**
+Someone to hold
+Girl you're my everything
+To call my own
+Every single day of my life
+I'm not alone
+You take me and make me whole again
+
+Whenever you smile
+Baby my world is filled with laughter
+I look in your eyes
+And baby my heart and soul are captured
+With the touch of your hand
+You start a fire burning
+And there'll never be another
+Now that we've got each other
+
+**Chorus**
+
+Oh, girl
+You make my life seem brighter
+Cuz you take me
+And lift me
+Up higher
+Your loving feels so right
+Takes my breath away
+Everytime you say
+You'll love me for the rest of your life
+
+**Chorus**

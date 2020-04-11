@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talk-talk-the-music-machine
+lyrics_url: https://genius.com/The-music-machine-talk-talk-lyrics
 name: Talk Talk
 rankings:
 - end_date: '1966-11-18'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
 ---
+I got me a complication
+And it's an only child
+Concernin' my reputation
+As something more than wild
+I know it serves me right
+But I can't sleep at night
+Have to hide my face
+Or go some other play-ay-ay-ay-ay-ace
 
+I won't cry out for justice
+Admit that I was wrong
+I'll stay in hibernation
+'Til the talk subsides to gone
+My social life's a dud
+My name is really mud
+I'm up to here in lies
+Guess I'm down to size
+To size
+
+Can't seem to talk about
+The things that bother me
+Seems to be
+What everybody has
+Against me
+Oh, oh, all right
+
+Here's the situation
+And how it really stands
+I'm out of circulation
+I've all but washed my hands
+My social life's a dud
+My name is really mud
+I'm up to here in lies
+Guess I'm down to size
+To size
+
+Talk talk Talk talk Talk talk Talk talk

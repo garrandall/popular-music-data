@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bobby-sox-to-stockings-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-bobby-sox-to-stockings-lyrics
 name: Bobby Sox To Stockings
 rankings:
 - end_date: '1959-05-31'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
 ---
+When a girl changes from bobby sox to stockings
+And she starts trading her baby toys for boys
+When that once-shy little sleepyhead
+Learns about love and its lilt
+You can bet that the change
+Is more than from cotton to silk
 
+If a miss wants to be kissed instead of cuddled
+And to this you are in doubt as what to say
+When a girl changes from bobby sox to stockings
+Then she's old enough to give her heart away
+
+When a girl changes from bobby sox to stockings
+And she starts trading her baby toys for boys
+When that once-shy little sleepyhead
+Learns about love and its lilt
+You can bet that the change
+Is more than from cotton to silk
+
+If a miss wants to be kissed instead of cuddled
+And to this you are in doubt as what to say
+When a girl changes from bobby sox to stockings
+Then she's old enough to give her heart away
+
+Yes, she's old enough to give her heart away

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: popsicles-and-icicles-the-murmaids
+lyrics_url: https://genius.com/The-murmaids-popsicles-and-icicles-lyrics
 name: Popsicles And Icicles
 rankings:
 - end_date: '1963-11-29'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
 ---
+Popsicles, icicles, baseball and fancy clothes
+These are a few of the things he loves
+He loves Levis and brown eyes
+And wind blowin' through his hair
+These are a part of the boy I love
 
+
+If you put them all together
+Much to your surprise (oh tell me what)
+You'll find a bit of heaven
+Right before your eyes
+
+
+Bright stars and guitars and
+Drive-ins on Friday night
+These are a few of the things we love
+
+
+(May be) silly but still he is
+Just what I dream about
+Yes, he's the boy that I love
+
+
+
+
+
+Popsicles, icicles
+Popsicles, icicles, hmmm

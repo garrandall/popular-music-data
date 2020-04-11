@@ -1,6 +1,6 @@
 ---
 artists:
-- Si Zentner And His Orchestra
+- Si Zentner
 features: []
 genres: []
 key: up-a-lazy-river-si-zentner-and-his-orchestra

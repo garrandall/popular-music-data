@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-1-s-a-winner-hot-chocolate
+lyrics_url: https://www.musixmatch.com/lyrics/Hot-Chocolate/Every-1-s-a-Winner
 name: Every 1's A Winner
 rankings:
 - end_date: '1978-11-17'
@@ -79,4 +80,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
 ---
+Never could believe the things you do to me
+Never could believe the way you are
+Every day I bless the day that you got through to me
+'Cause baby, I believe that you're a star
 
+Everyone's a winner, baby, that's the truth (yes, the truth)
+Making love to you is such a thrill
+Everyone's a winner, baby, that's no lie (yes, no lie)
+You never fail to satisfy (satisfy)
+
+Never could explain just what was happening to me
+Just one touch of you and I'm aflame
+Baby, it's amazing just how wonderful it is
+That the things we like to do are just the same
+
+Everyone's a winner, baby, that's the truth (yes, the truth)
+Making love to you is such a thrill
+Everyone's a winner, baby, that's no lie (yes, no lie)
+You never fail to satisfy (satisfy)
+Let's do it again
+
+Oh, yeah - let's do it again
+
+Let's do it again baby
+
+Everyone's a winner, baby, that's the truth (yes, the truth)
+Making love to you is such a thrill
+Everyone's a winner, baby, that's no lie (yes, no lie)
+You never fail to satisfy (satisfy)
+Let's do it again
+
+Oh, baby
+Let's do it again
+Oh, baby
+Oh, baby

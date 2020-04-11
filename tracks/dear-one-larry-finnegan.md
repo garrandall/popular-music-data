@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dear-one-larry-finnegan
+lyrics_url: https://genius.com/Larry-finnegan-dear-one-lyrics
 name: Dear One
 rankings:
 - end_date: '1962-03-02'
@@ -63,4 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
 ---
-
+Dear One
+Artist: Larry Finnegan (peak Billboard position # 11 in 1962 )
+Words and Music by John Lawrence Finneran and Vincent C Finneran
+(Dear One, Dear One, Dear One)

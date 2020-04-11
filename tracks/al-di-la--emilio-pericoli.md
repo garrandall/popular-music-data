@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: al-di-la--emilio-pericoli
+lyrics_url: https://genius.com/Emilio-pericoli-al-di-la-lyrics
 name: Al Di La'
 rankings:
 - end_date: '1962-05-25'
@@ -63,4 +64,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
 ---
-
+Al di la means you are far above me, very far
+Al di la, as distant as the lovely evening star
+Where you walk flowers bloom
+When you smile all the gloom turns to sunshine
+And my heart opens wide
+When you're gone it fades inside and seems to have died
+Al di la
+I wondered as I drifted where you were
+Al di la
+The fog around me lifted
+There you were
+In the kiss that I gave was the love I had saved for a lifetime
+Then I knew all of you was completely mine

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 26-cents-the-wilkinsons
+lyrics_url: https://www.musixmatch.com/lyrics/The-Wilkinsons/26-Cents
 name: 26 Cents
 rankings:
 - end_date: '1998-08-07'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+She sat alone on a bus out of Beaumont
+The courage of just 18 years
+A penny and quarter were taped to a letter
+And momma's goodbye in her ears
 
+She watched as her high school faded behind her
+And the house with the white picket fence
+Then she read the note that her momma had wrote
+Wrapped up with 26 cents
+
+When you get lonely, call me
+Anytime at all and I'll be there with you, always
+Anywhere at all
+There's nothing I've got that I wouldn't give
+And money is never enough
+Here's a penny for your thoughts
+A quarter for the call
+And all of your momma's love
+
+A penny and a quarter buys a whole lot of nothing
+Taped to an old wrinkled note
+And when she didn't have much she had all momma's love
+Inside that old envelope
+
+When you get lonely, call me
+Anytime at all and I'll be there with you, always
+Anywhere at all
+There's nothing I've got that I wouldn't give
+And money is never enough
+Here's a penny for your thoughts
+A quarter for the call
+And all of your momma's love
+
+Oh its been years since momma's been gone
+But when she holds the coins she feels her love just as strong
+
+When you get lonely, call me
+Anytime at all and I'll be there with you, always
+Anywhere at all
+There's nothing I've got that I wouldn't give
+And money is never enough
+Here's a penny for your thoughts
+A quarter for the call
+And all of your momma's love
+
+Here's a penny for your thoughts
+A quarter for the call
+And all of your momma's love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ding-dong--the-witch-is-dead-the-fifth-estate
+lyrics_url: https://www.musixmatch.com/lyrics/The-Fifth-Estate/Ding-Dong-The-Witch-Is-Dead
 name: Ding Dong! The Witch Is Dead
 rankings:
 - end_date: '1967-05-26'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
+Ding dong, the witch is dead
+Which old witch?
+The wicked witch!
+Ding dong, the wicked witch is dead
 
+Heigh-ho, the derry-o
+Sing it high, sing it low
+Ding dong, the wicked witch is dead
+
+She's gone where the goblins go
+Below, below, below
+Yo-ho, let's open up and sing
+And ring some bells out
+
+Ding dong, the witch is dead
+Which old witch?
+The wicked witch!
+Ding dong, the wicked witch is dead
+
+She's gone where the goblins go
+Below, below, below
+Yo-ho, let's open up and sing
+And ring some bells out
+
+- Interlude -
+
+She's gone where the goblins go
+Below, below, below
+Yo-ho, let's open up and sing
+And ring some bells out
+
+Ding dong, the witch is dead
+Which old witch?
+The wicked witch!
+Ding dong, the wicked witch is dead
+
+Heigh-ho, the derry-o
+Sing it high, sing it low
+Ding dong, the wicked witch is dead
+(Ding dong, the wicked witch is dead)
+Ding dong, the wicked witch is dead

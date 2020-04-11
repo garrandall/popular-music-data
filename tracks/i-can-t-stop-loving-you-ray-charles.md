@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stop-loving-you-ray-charles
+lyrics_url: https://genius.com/Ray-charles-i-cant-stop-loving-you-lyrics
 name: I Can't Stop Loving You
 rankings:
 - end_date: '1962-05-11'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
 ---
+(I can't stop loving you)
+I've made up my mind
+To live in memory of the lonesome times
+(I can't stop wanting you)
+It's useless to say
+So I'll just live my life in dreams of yesterday
+(Dreams of yesterday)
 
+
+Those happy hours that we once knew
+Tho' long ago, they still make me blue
+They say that time heals a broken heart
+But time has stood still since we've been apart
+
+
+(I can't stop loving you)
+I've made up my mind
+To live in memory of the lonesome times
+(I can't stop wanting you)
+It's useless to say
+So I'll just live my life in dreams of yesterday
+
+
+Those happy hours that we once knew
+Tho' long ago, they still make me blue
+They say that time heals a broken heart
+But time has stood still since we've been apart
+Since we've been apart
+
+
+(I can't stop loving you)
+I said I've made up my mind
+To live in memory of the lonesome times
+(I can't stop wanting you)
+It's useless to say
+So I'll just live my life of dreams of yesterday
+(of yesterday)

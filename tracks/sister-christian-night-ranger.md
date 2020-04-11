@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sister-christian-night-ranger
+lyrics_url: https://genius.com/Night-ranger-sister-christian-lyrics
 name: Sister Christian
 rankings:
 - end_date: '1984-03-16'
@@ -103,4 +104,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
 ---
+Sister Christian, oh, the time has come
+And you know that you're the only one
+To say, okay
 
+Where you going, what you looking for
+You know those boys don't want to play no more with you
+It's true
+
+
+You're motoring, what's your price for flight?
+In finding mister right
+You'll be alright tonight
+
+
+Babe, you know you're growing up so fast
+And mama's worrying that you won't last
+To say, let's play
+
+Sister Christian, there's so much in life
+Don't you give it up before your time is due
+It's true
+It's true, yeah
+
+
+Motoring
+What's your price for flight
+You've got him in your sight
+And driving through the night
+
+
+
+
+You're motoring, what's your price for flight?
+In finding mister right
+You'll be alright tonight
+
+
+Motoring
+What's your price for flight
+You've got him in your sight
+And driving through the night
+
+Motoring, what's your price for flight?
+In finding mister right
+You'll be alright tonight
+
+
+Sister Christian, oh, the time has come
+And you know that you're the only one
+To say, okay
+
+But you're motoring
+Yeah, motoring

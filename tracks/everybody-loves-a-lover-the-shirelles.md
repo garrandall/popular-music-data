@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-loves-a-lover-the-shirelles
+lyrics_url: https://genius.com/The-shirelles-everybody-loves-a-lover-lyrics
 name: Everybody Loves A Lover
 rankings:
 - end_date: '1962-12-07'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
 ---
+Everybody loves a lover
+I'm a lover, everybody loves me
+Anyhow, that's how I feel
+Wow, I feel just like a Pollyanna
 
+I should worry, not for nothin'
+Everybody loves me, yes they do
+And I love everybody
+Since I fell in love with you
+
+Who's the most popular personality?
+I can't help thinkin' it's no one else but me
+Gee, I feel just about ten feet tall, havin' a ball
+Guess ya might call me a Pollyanna
+
+Everybody loves a lover
+
+I should worry, not for nothin'
+Everybody loves me, yes they do
+And I love everybody
+Since I fell in love with
+Fell in love with
+Fell in love with you
+
+(Call me a Pollyanna, do)

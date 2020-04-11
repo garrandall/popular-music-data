@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tonight-ferrante-teicher
+lyrics_url: https://www.musixmatch.com/lyrics/Ferrante-and-Teicher/Tonight
 name: Tonight
 rankings:
 - end_date: '1961-10-22'
@@ -60,4 +61,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
 ---
+Tonight, tonight, won't be just any night
+Tonight there will be no morning star
 
+Tonight, tonight, I'll see my love tonight
+And for us, stars will stop where they are
+
+Today, the minutes seem like hours
+The hours go so slowly
+And still the sky is light
+
+Oh moon, grow bright and make this endless day
+Endless night, tonight
+
+Today, the world was just an adress
+A place for me to live in
+No better than all right.
+
+But here you are, and what was just a world
+Is a star, tonight

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-mercy
+lyrics_url: https://genius.com/Mercy-band-forever-lyrics
 name: Forever
 rankings:
 - end_date: '1969-07-04'
@@ -27,4 +28,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
 ---
+Hold me, kiss me
+Whisper sweetly
+That you love me
+Forever
 
+Hold me, kiss me
+Whisper sweetly
+That you love me
+Forever

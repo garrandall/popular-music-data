@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-my-mojo-working--part-i--jimmy-smith
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Smith/I-Got-My-Mojo-Working
 name: Got My Mojo Working (Part I)
 rankings:
 - end_date: '1966-04-08'
@@ -35,4 +36,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
 ---
+Got my mojo working, but it just won't work on you
+I wanna love you so bad I don't know what to do
 
+Going down to louisiana to get me a mojo hand
+Going down to louisiana to get me a mojo hand
+I'm gonna have all you women right here at my command
+
+Got my mojo working
+Got my mojo working
+Got my mojo working
+Got my mojo working, but it just won't work on you
+
+Play on!
+
+Got my mojo working
+Got my mojo working
+Got my mojo working
+Got my mojo working, but it just won't work on you

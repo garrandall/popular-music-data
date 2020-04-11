@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: three-times-a-lady-commodores
+lyrics_url: https://genius.com/Commodores-three-times-a-lady-lyrics
 name: Three Times A Lady
 rankings:
 - end_date: '1978-06-23'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
+Thanks for the times that you've given me
+The memories are all in my mind
+And now that we've come to the end of our rainbow
+There's something I must say out loud
 
+
+You're once
+Twice
+Three times a lady
+And I love you
+Yes, you're once
+Twice
+Three times a lady
+And I love you
+I love you
+
+
+You shared my dreams
+My joys
+My pains
+You made my life worth living for
+And if I had to live my life over again, dear
+I'd spend each and every moment with you
+
+
+You're once
+Twice
+Three times a lady
+And I love you
+Yes, you're once
+Twice
+Three times a lady
+And I love you
+I love you
+
+
+When we are together
+The moments I cherish
+With every beat of my heart
+To touch you
+To hold you
+To feel you
+To need you
+There's nothing to keep us apart
+
+
+You're once
+Twice
+Three times a lady
+And I love you
+You're once
+Twice
+Three times a lady
+And I love you
+Yes, you're once
+Twice
+Three times a lady
+And I love you
+I love you

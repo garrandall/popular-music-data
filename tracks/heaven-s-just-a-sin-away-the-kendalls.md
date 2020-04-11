@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-s-just-a-sin-away-the-kendalls
+lyrics_url: https://genius.com/The-kendalls-heavens-just-a-sin-away-lyrics
 name: Heaven's Just A Sin Away
 rankings:
 - end_date: '1977-11-11'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
 ---
+Heaven's just a sin away oh, whoa
+Just a sin away
+I can't wait another day
+I think I'm givin' in
 
+Though I'd love to hold you tight
+Oh, whoa
+Be with you tonight
+But that still won't make it right
+'cause I belong to him
+
+Oh, way down deep inside
+I know that it's all wrong
+Your eyes keep tempting me
+And I never was that strong- ong
+
+Oh, devil's got me now
+Oh, whoa gone and got me now
+I can't fight him anyhow
+I think he's gonna win
+
+Heaven's just a sin away
+Oh, whoa
+Just a sin away
+Heaven help me when I say
+I think I'm givin' in lead
+
+Heaven's just a sin away
+Oh, whoa
+Just a sin away
+
+I can't wait another day
+I think I'm givin' in
+Though I'd love to hold you tight
+Oh whoa
+Be with you tonight
+But that still won't make it right 'cause I belong to him

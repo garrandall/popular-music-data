@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fall-clay-walker
+lyrics_url: https://www.musixmatch.com/lyrics/Clay-Walker/Fall
 name: Fall
 rankings:
 - end_date: '2007-09-28'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
 ---
+Oh look there you go again
+Puttin on that smile again
+Even though i know you've had a bad day
+Doin this doin that
+Always puttin yourself last
+A whole lotta give and not enough take
+But you can only be strong so long before you break
+So.
 
+Chorus:
+Fall
+Go on and fall apart
+Fall into these arms of mine
+I'll catch you everytime you
+Fall
+Go on and lose it all
+Every doubt every fear
+Every worry every tear
+I'm right here
+Baby fall
+
+Forget about the world tonight
+All thats wrong and all thats right
+Lay your head on my shoulder let it fade away
+And if you wanna let go it's okay
+
+(Chorus)
+
+Hold on
+Hold on
+Hold on
+To me
+
+(Chorus)

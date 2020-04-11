@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-more-lies-michel-le
+lyrics_url: https://genius.com/Michelle-no-more-lies-lyrics
 name: No More Lies
 rankings:
 - end_date: '1989-11-24'
@@ -123,4 +124,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
 ---
+Hello?
+Hello? Hello?
+'Course you're the only girl
+You're all I think about
+You're the only girl for me
+You're all I think about
+You're special
+You know I love you
+You know I love you
 
+
+You say you love me
+And I think that is true
+But every night my girlfriend tells me
+I should watch you
+Now I say I trust you
+But I want you to know
+I'm not a sucker;
+Chill out-your nose is growing, Pinocchio
+
+So now I'm leaving
+And you know I tried
+All right, baby, no more lies
+Do-do-doo-ooh-ooh
+Do-do-doo-ooh-ooh
+Do-do-do-do-do-ooh-ooh
+
+You say no more lies
+And I'll try to understand
+But there's a little exaggeration
+In almost every man
+Now I say I trust you
+But I want you to know
+Want you to know
+Sounds like you're cryin' wolf, babe-
+I think it's time for me to go
+
+So now I'm leaving
+And you know I tried
+All right, baby, no more lies
+But you don't appreciate
+The time I take
+All right baby, no more lies
+
+
+Hello? You're the only girl for me
+No more lies
+You're all I think about;
+'Course you're the only girl;
+You're special

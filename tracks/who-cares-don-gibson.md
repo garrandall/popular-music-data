@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-cares-don-gibson
+lyrics_url: https://genius.com/Don-gibson-who-cares-lyrics
 name: Who Cares
 rankings:
 - end_date: '1959-01-25'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
 ---
+I walked down this ol' lonely street
+And no one seems to wanna speak
+Oh Who Cares, who cares for me?
 
+All the world seems cold
+The world seems grey
+Nothing seems the same since you went away
+Who cares, who cares for me
+
+Surely happiness can be found
+Surely there's someone for me
+Must I go through life with this hopeless love
+Why can't I be set free?
+
+All I want is you
+All I know is you
+But somehow our love just can't be
+Who cares, who cares for me

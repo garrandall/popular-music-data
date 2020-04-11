@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jean-oliver
+lyrics_url: https://genius.com/Oliver-francis-jean-lyrics
 name: Jean
 rankings:
 - end_date: '1969-08-22'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Jean, Jean, roses are red
+All the leaves have gone green
+And the clouds are so low
+You can touch them, and so
+Come out to the meadow, Jean
 
+Jean, Jean, you're young and alive
+Come out of your half-dreamed dream
+And run, if you will, to the top of the hill
+Open your arms, Bonnie Jean
+
+Till the sheep in the valley come home my way
+Till the stars fall around me and find me alone
+When the sun comes a-singin' I'll still be waitin'
+
+For Jean, Jean, roses are red
+And all of the leaves have gone green
+While the hills are ablaze with the moon's yellow haze
+Come into my arms, Bonnie Jean
+
+(Jean, Jean)
+Jean, you're young and alive!!
+Come out of your half-dreamed dream
+And run, if you will to the top of the hill
+Come into my arms, Bonnie Jean
+
+Jean
+
+La-la-la-la.... (fade)

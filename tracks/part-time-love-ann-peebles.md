@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: part-time-love-ann-peebles
+lyrics_url: https://www.musixmatch.com/lyrics/Ann-Peebles/Part-Time-Love
 name: Part Time Love
 rankings:
 - end_date: '1970-10-09'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
 ---
+I need somebody
+Who's consistent with me
+Someone already there
+When I need company
 
+'Cause when I'm feeling old
+I don't wanna have to go
+I'm looking for
+A part time kinda love
+
+And when the dreams and rainbows
+Start to disappear
+I don't want somebody
+Up and running out of here
+
+'Cause when you stop and start
+Baby, it's just
+Too hard upon my heart
+That part time kinda love
+
+I can't take you, darling
+Living here, wait and see
+I want somebody who's
+Commited now to me
+
+Somewhere, some day
+You've got to take a chance
+You can write the music, baby
+Get up and dance
+
+If we grow together
+Daring to dream
+I know we're gonna find
+Our share of peaches and cream
+
+And when the juice is flowing
+I don't want no, no, no excuses
+Just want your full time love for me
+(No part time love for me)
+Just want your full time love for me

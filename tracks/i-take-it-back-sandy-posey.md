@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-take-it-back-sandy-posey
+lyrics_url: https://genius.com/Sandy-posey-i-take-it-back-lyrics
 name: I Take It Back
 rankings:
 - end_date: '1967-06-16'
@@ -55,4 +56,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
+Here he comes now
+I've got to tell him somehow
+I could put it off till later
+But it's best I do it now
 
+Baby, listen to me
+There is something I must try to say
+I've put it off so long
+But I've decided that today is the day
+
+My love for you is dying
+Oh, no, please don't start crying

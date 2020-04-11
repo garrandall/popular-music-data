@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: need-you-tonight-inxs
+lyrics_url: https://genius.com/Inxs-need-you-tonight-lyrics
 name: Need You Tonight
 rankings:
 - end_date: '1987-10-30'
@@ -107,4 +108,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
 ---
+All you got is this moment
+Twenty-first century's yesterday
+You can care all you want
+Everybody does yeah that's okay
 
+So slide over here
+And give me a moment
+Your moves are so raw
+I've got to let you know
+I've got to let you know
+You're one of my kind
+
+I need you tonight
+Cause I'm not sleeping
+There's something about you girl
+That makes me sweat
+
+How do you feel?
+I'm lonely
+What do you think?
+Can't think at all
+Whatcha gonna do?
+Gonna live my life
+
+So slide over here
+And give me a moment
+Your moves are so raw
+I've got to let you know
+I've got to let you know
+You're one of my kind
+
+I need you tonight
+Cause I'm not sleeping
+There's something about you girl
+That makes me sweat
+
+How do you feel?
+I'm lonely
+What do you think?
+Can't think at all
+Whatcha gonna do?
+Gonna live my life
+How do you feel?
+I'm lonely
+What do you think?
+Can't think at all
+Whatcha gonna do?
+Gonna live my life
+
+So slide over here
+And give me a moment
+Your moves are so raw
+I've got to let you know
+I've got to let you know
+You're one of my kind
+So slide over here
+And give me a moment
+Your moves are so raw
+I've got to let you know
+I've got to let you know
+You're one of my kind

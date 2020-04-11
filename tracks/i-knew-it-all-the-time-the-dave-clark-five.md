@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-knew-it-all-the-time-the-dave-clark-five
+lyrics_url: https://genius.com/The-dave-clark-five-i-knew-it-all-the-time-lyrics
 name: I Knew It All The Time
 rankings:
 - end_date: '1964-05-01'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
 ---
+(Yeah, yeah)
+I knew it all the time
+(Yeah, yeah)
+That you would leave me
+(Yeah, yeah)
 
+And you would go
+And leave me cold
+Yep, I knew it all the time
+(Yeah, yeah, yeah
+Yeah, yeah, yeah)
+
+You left me high and dry
+(Yeah, yeah)
+And broken hearted
+(Yeah, yeah)
+
+We simply parted
+And that was all
+Yep, I knew it all the time
+(Yeah, yeah, yeah
+Yeah, yeah, yeah)
+
+You came to me again
+(Yeah, yeah)
+You said you're sorry
+(Yeah, yeah)
+
+You learned your lesson
+You cried your tears
+(Yeah, yeah, yeah
+Yeah, yeah, yeah)

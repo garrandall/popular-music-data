@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-keep-me--hangin--on-joe-simon
+lyrics_url: https://genius.com/Joe-simon-hangin-on-lyrics
 name: (You Keep Me) Hangin' On
 rankings:
 - end_date: '1968-04-19'
@@ -67,4 +68,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
 ---
+It's true you have me twisted round your finger and it seems that's where I belong
+You know how to hold me to thrill me and control me
+Just enough to keep me hangin' on
 
+For now tomorrow and forever I guess I'm tied to you right or wrong
+My love keeps a growing cause your love keeps a showing
+Just enough to keep me hangin' on
+
+A love that's strong as mine will make me do most anything
+Like hiding tears and heartaches and dreaming silly dreams
+You've got me where you want me you keep stringing me along
+Just enough to keep me hangin' on just enough to keep me hangin' on

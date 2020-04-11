@@ -5,6 +5,7 @@ features:
 - Joee
 genres: []
 key: died-in-your-arms-intonation-joee
+lyrics_url: https://www.musixmatch.com/lyrics/Intonation-Joee/Died-in-Your-Arms
 name: Died In Your Arms
 rankings:
 - end_date: '1995-07-14'
@@ -36,4 +37,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-19'
 ---
+Oh i, I just died in your arms tonight
+It must have been something you said
+I just died in your arms tonight
 
+I keep looking for something
+I can't get broken hearts lie all around me
+And I don't see an easy way to get out of this
+Her diary it sits on the bedside table
+The curtains are closed
+The cats in the cradle who would've thought
+That a boy like me could come to this
+
+Oh i, I just died in your arms tonight
+It must've been something you said
+I just died in your arms tonight
+Oh i, I just died in your arms tonight
+
+It must've been some kind of kiss I should've walked away
+
+Is there any just cause for feeling like this?
+On the surface I'm a name on a list I try to be discreet
+But then blow it again
+I've lost and found
+It's my final mistake she's loving by proxy
+No give and all take 'cos I've been thrilled to fantasy one too many times.
+
+Oh i, I just died in your arms...
+It was a long hot night she made it easy
+She made it feel right
+But now it's over the moment has gone
+I followed my hands not my head
+I know I was wrong
+Oh i, I just died in your arms...

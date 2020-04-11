@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-cried-a-tear-lavern-baker
+lyrics_url: https://genius.com/Lavern-baker-i-cried-a-tear-lyrics
 name: I Cried A Tear
 rankings:
 - end_date: '1958-12-14'
@@ -91,4 +92,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
+I cried a tear because of you
+I cried a tear because we're through
+I cried a tear, what else could I do
+But cry and sigh for love of you
 
+I felt a tear fall in my heart
+You fooled me so, I wasn't smart
+I can't believe that we must part
+Come back to stay, let's make a new start
+
+I cried a tear because of you
+I cried a tear because we're through
+Please make my dreams of you come true
+Don't make me cry a tear for you
+Don't make me cry a tear for you

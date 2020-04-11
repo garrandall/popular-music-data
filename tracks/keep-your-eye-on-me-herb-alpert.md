@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-eye-on-me-herb-alpert
+lyrics_url: https://genius.com/Herb-alpert-keep-your-eye-on-me-annotated
 name: Keep Your Eye On Me
 rankings:
 - end_date: '1987-03-06'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
 ---
+Keep your eye on me
+Keep your eye on me
 
+Watch this!
+
+
+
+Look out!
+
+Give up!
+
+
+
+
+
+Watch me!
+
+
+
+
+Watch me!

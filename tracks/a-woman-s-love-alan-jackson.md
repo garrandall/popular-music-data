@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-woman-s-love-alan-jackson
+lyrics_url: https://genius.com/Alan-jackson-a-womans-love-lyrics
 name: A Woman's Love
 rankings:
 - end_date: '2007-04-20'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
 ---
+I have felt it
+And I have held it
+I have known
+A woman's love
+I have tasted
+And I have wasted
+A woman's love
 
+
+And I know
+I'll never understand
+All the little things
+That make it grand
+A woman's love
+
+
+And I know
+I'll never come face to face
+With any thing
+That takes the place
+Of a woman's love
+
+
+Well, I have kiss it
+Tried to resist it
+I have missed
+A woman's love
+And I have hated
+Taken for granted
+A woman's love
+
+
+
+
+
+
+Well I have needed
+And I have pleaded
+And I have lost
+A woman's love
+And I have worshipped
+And I have cursed it
+A woman's love
+
+
+
+
+
+
+Well I adore it
+And thank God for it
+A woman's love

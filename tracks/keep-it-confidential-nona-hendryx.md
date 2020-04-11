@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-it-confidential-nona-hendryx
+lyrics_url: https://genius.com/Nona-hendryx-keep-it-confidential-lyrics
 name: Keep It Confidential
 rankings:
 - end_date: '1983-06-10'
@@ -19,4 +20,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
 ---
-
+If a man can love a liar
+And a woman can love a thief
+There's a few things, baby
+You should know about me
+I've always looked for power
+In all the lovers I knew
+But now I know the glory
+Of simply loving you
+You see, I don't play the old charades
+It's time to stop the masquerade
+Why don't you strip me bare?
+Feel the truth
+That's all I've got to give to you
+Why don't you take these secrets
+But keep 'em confidential
+Strictly confidential
+Keep 'em confidential
+Strictly confidential
+Keep 'em strictly confidential
+Loving you, baby, is on my mind
+Keep 'em, keep 'em
+I would call you "lover"
+But I used that name before
+Livin' undercover
+Always keeping score
+But there's a few things 'bout you, baby
+That's breaking the chain of lies
+No one else could make me
+Open up my eyes
+You see, I won't play the old charades
+It's time to stop the masquerade
+Why don't you strip me bare?
+Feel the truth
+That's all I've got to give to you
+Why don't you take these secrets
+But keep 'em confidential
+Strictly confidential
+Keep 'em confidential
+Strictly confidential
+Keep 'em strictly confidential

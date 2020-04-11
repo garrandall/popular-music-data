@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-air-that-i-breathe-the-hollies
+lyrics_url: https://genius.com/The-hollies-the-air-that-i-breathe-lyrics
 name: The Air That I Breathe
 rankings:
 - end_date: '1974-04-26'
@@ -91,4 +92,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
 ---
+If I could make a wish
+I think I'd pass
+Can't think of anythin' I need
+No cigarettes, no sleep, no light, no sound
+Nothing to eat, no books to read
 
+
+Making love with you
+Has left me peaceful, warm, and tired
+What more could I ask
+There's nothing left to be desired
+Peace came upon me and it leaves me weak
+So sleep, silent angel
+Go to sleep
+
+
+Sometimes, all I need is the air that I breathe
+And to love you
+All I need is the air that I breathe
+Yes, to love you
+All I need is the air that I breathe
+
+
+
+
+Peace came upon me
+And it leaves me weak
+So sleep, silent angel
+Go to sleep
+
+
+Sometimes, all I need is the air that I breathe
+And to love you
+All I need is the air that I breathe
+Yes, to love you
+All I need is the air that I breathe
+
+
+Sometimes, all I need is the air that I breathe
+And to love you
+All I need is the air that I breathe
+Yes, to love you
+All I need is the air that I breathe
+And to love you
+All I need is the air that I breathe
+Yes, to love you

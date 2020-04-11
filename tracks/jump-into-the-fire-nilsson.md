@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump-into-the-fire-nilsson
+lyrics_url: https://genius.com/Nilsson-jump-into-the-fire-lyrics
 name: Jump Into The Fire
 rankings:
 - end_date: '1972-03-24'
@@ -43,4 +44,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
+Jump into the Fire
+Harry Nilsson
+You can climb a mountain
+You can swim the sea
+You can jump into the fire
+But you'll never be free
+You can shake me up
+Or I can break you down
+Whoa-o-o-o-
+Whoa-o-o-o-
+We can make each other happy (4X)
 

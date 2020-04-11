@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: delicious-pure-sugar
+lyrics_url: https://www.musixmatch.com/lyrics/Pure-Sugar/Delicious
 name: Delicious
 rankings:
 - end_date: '1998-08-14'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
 ---
-
+She floats like a swan, grace on the water
+Lips like sugar, lips like sugar
+Just when you think you've caught her, she glides across the water
+She calls for you tonight to share the moonlight
+You'll flow in her river
+She'll ask you and you'll give her
+Lips like sugar, sugar kisses
+Lips like sugar, sugar kisses
+She knows what she knows, I know what she's thinking
+Sugar kisses, soar kisses
+Just when you think she's yours, she's flown to other shores
+To laugh at how you break and melt into her lake
+You'll flow in her river
+She'll ask you and you'll give her
+Lips like sugar, sugar kisses
+Lips like sugar, sugar kisses
+She'll be my mirror, reflect what I am
+A loser and a winner the king of Siam I am and my Siamese twin
+Alone on the river
+Amazing river, amazing river
+Lips like sugar, sugar kisses
+Lips like sugar, sugar kisses
+Lips like sugar, sugar kisses
+Lips like sug-sug-sugar, sugar kisses

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-turn-around-ace-of-base
+lyrics_url: https://genius.com/Ace-of-base-dont-turn-around-lyrics
 name: Don't Turn Around
 rankings:
 - end_date: '1994-05-13'
@@ -131,4 +132,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
 ---
+I will survive
+Without you
+Don't tell me that you wanna leave
+Whoa, whoa, whoa, whoa
+Whoa, whoa, whoa, whoa
 
+
+If you wanna leave
+I won't beg you to stay
+And if you gotta go, darling
+Maybe it's better that way
+
+
+I'm gonna be strong, I'm gonna gonna be fine
+Don't worry about this heart of mine
+Walk out that door, see if I care
+Go on and go, but...
+
+
+Don't turn around
+Cause you're gonna see my heart breaking
+Don't turn around
+I don't want you seeing me cry
+Just walk away
+It's tearing me apart that you're leaving
+I'm letting you go
+But I won't let you know
+I won't let you know
+
+
+Whoa, whoa, whoa, whoa
+Whoa, whoa, whoa, whoa
+
+
+I won't miss your arms around me
+Holding me tight (holding me tight)
+And if you ever think about me
+Just know that I'll be alright (I'll be alright)
+
+
+I'm gonna be strong, I'm gonna gonna be fine
+Don't worry about this heart of mine
+I know I'll survive
+I'll make it through
+And I'll even learn to live without you
+
+
+Don't turn around
+Cause you're gonna see my heart breaking
+Don't turn around
+I don't want you seeing me cry
+Just walk away
+It's tearing me apart that you're leaving
+I'm letting you go
+But I won't let you know
+
+
+I wish I could scream out loud that I love you
+I wish I could say to you: "Don't go"
+
+
+As he walks away, he feels the pain getting strong
+People in your life, they don't know what's going on
+Too proud to turn around
+He's gone
+
+
+Don't turn around
+Cause you're gonna see my heart breaking
+Don't turn around
+I don't want you seeing me cry
+Just walk away
+It's tearing me apart that you're leaving
+I'm letting you go
+
+
+Baby, don't turn around!
+Whoa, whoa, whoa, whoa
+Don't turn around
+Whoa, whoa, whoa, whoa
+Just walk away (just walk away)
+Whoa, whoa, whoa, whoa
+It's tearing me apart that you're leaving
+I'm letting you go
+Don't turn around!
+Whoa, whoa, whoa, whoa
+Don't turn around
+Whoa, whoa, whoa, whoa
+Just walk away
+Whoa, whoa, whoa, whoa

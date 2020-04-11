@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-stop-fleetwood-mac
+lyrics_url: https://genius.com/Fleetwood-mac-dont-stop-lyrics
 name: Don't Stop
 rankings:
 - end_date: '1977-07-15'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
 ---
+If you wake up and don't wanna smile
+If it takes just a little while
+Open your eyes and look at the day
+You'll see things in a different way
 
+
+Don't stop thinking about tomorrow
+Don't stop, it'll soon be here
+It'll be better than before
+Yesterday's gone, yesterday's gone
+
+
+Why not think about times to come?
+And not about the things that you've done?
+If your life was bad to you
+Just think what tomorrow will do
+
+
+Don't stop thinking about tomorrow
+Don't stop, it'll soon be here
+It'll be better than before
+Yesterday's gone, yesterday's gone
+
+
+
+
+All I want is to see you smile
+If it takes just a little while
+I know you don't believe that it's true
+I never meant any harm to you
+
+
+Don't stop thinking about tomorrow
+Don't stop, it'll soon be here
+It'll be better than before
+Yesterday's gone, yesterday's gone
+
+
+Don't stop thinking about tomorrow
+Don't stop, it'll soon be here
+It'll be better than before
+Yesterday's gone, yesterday's gone
+
+
+Ooh, don't you look back
+Ooh, don't you look back
+Ooh, don't you look back
+Ooh, don't you look back

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothin--at-all-heart
+lyrics_url: https://genius.com/Heart-nothin-at-all-lyrics
 name: Nothin' At All
 rankings:
 - end_date: '1986-04-25'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
 ---
+I would walk home every evening
+Through the pyramids of light
+I would feed myself from silence
+Wash it down with empty nights
 
+Then your innocent distractions
+Hit me so hard
+My emotional reaction
+Caught me off guard
+
+It was nothin' at all (nothin' at all)
+Like anything I had felt before
+And it was nothin' at all (nothin' at all)
+Like I thought, no, it's so much more
+
+No one else
+Has ever made me feel this way
+When I asked you how you did it
+You just say
+It was nothin' at all
+
+Now, I walk home every evening
+And my feet are quick to move
+'Cause I know my destination
+Is a warm and waiting you
+
+From our first communication
+It was clear
+Any thought of moderation
+Would soon disappear
+
+It was nothin' at all (nothin' at all)
+Like anything I had felt before
+And it was nothin' at all (nothin' at all)
+Like I thought, no, it's so much more
+
+No one else
+Has ever made me feel this way
+When I asked you how you did it
+You just say
+It was nothin' at all
+
+Then your innocent distractions
+Hit me so hard
+My emotional reaction
+Caught me off guard
+
+It was nothin' at all (nothin' at all)
+Like anything I had felt before
+And it was nothin' at all (nothin' at all)
+Like I thought, no, it's so much more
+
+No one else
+Has ever made me feel this way
+When I asked you how you did it
+You just say
+It was nothin' at all
+
+It was nothin' at all (nothin' at all)
+Like anything I had felt before
+It was nothin' at all (nothin' at all)
+No, it was nothin' at all (nothin' at all)
+Nothin' at all (nothin' at all)

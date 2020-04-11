@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: callaita-bad-bunny-tainy
+lyrics_url: https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
 name: Callaita
 rankings:
 - end_date: '2019-06-28'
@@ -88,3 +89,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
+Se acostó temprano, mañana hay que estudiar, eh
+Pero llamó a la amiga diciendo pa' janguear (Jeje), eh
+Tiene un culito ahí que le acabó de textear, eh (Jah)
+Pero en Bajita, ella no e' de frontear (Ey, ey)
+
+
+Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es (¡Wuh!)
+Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es
+
+
+Ella no era así, ella no era así, no sé quién la dañó
+Ella no era así, ella no era así, no sé quién la dañó, pero
+
+
+Ahora enrola (Wuh), y lo prende (Eh)
+Es panita (Wuh), del que vende (Eh), ey
+Nena mala de repente (Prr-prr)
+No sé si me miente
+Pero sé que tiene má' de 20 (¡Wuh-huh!)
+Lo' shot' de tequila ni lo' siente (Wuh)
+Ahora ve la vida diferente
+Buena, pero le gustan delincuente'
+
+
+La baby llega y se siente la presión (Eh)
+Ella ni trata y llama la atención (Eh)
+Ey, el perreo e' su profesión (Tra-tra-tra-tra; ¡wuh!)
+Siempre puesta pa' la misión
+La baby llega y se siente la presión (Eh)
+Ella ni trata y llama la atención (Eh)
+Ey, el perreo e' su profesión
+Siempre puesta pa' la misión
+
+
+E-E-E-E-E-Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es (Wuh)
+Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es
+
+
+Se dejó hace poco y tiene vida nueva (Jah)
+Anda con una amiga que e' como su jeva (¡Juh!)
+Que le trajo 5-12 pa' que se las beba
+Ella es calla'íta, no e' que no se atreva
+
+
+Si hay sol, hay playa, si hay playa, hay alcohol
+Si hay alcohol, hay sexo, si e' contigo, mejor
+Si hay sol, hay playa, si hay playa, hay alcohol
+Si hay alcohol, hay sexo, si e' contigo, mejor
+Quítate la ropa que hace calor
+Día' de playa, noche' de terror
+En la gaveta dejó el temor
+Pa' las envidiosa', paz y amor
+
+
+Yeh, yeh, yeh-yeh-yeh-eh
+Tainy, Tainy, ey
+Bad Bunny, baby, bebé
+
+
+Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es
+Ella e' callaíta', pero pa'l sexo e' atrevida, yo sé
+Marihuana y bebida, gozándose la vida como es (Eh)
+
+
+Ella no era así, ella no era así, no sé quién la dañó
+Ella no era así, ella no era así, no sé quién la dañó, pero
+
+
+(Alócate y hazte mía
+Que la noche lo pidió, el destino lo decidió
+Ya sé que sentías lo mismo que yo y todavía
+Nos queda un ratito para formar el escándalo
+A menos que no te decidas)

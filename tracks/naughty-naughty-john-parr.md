@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: naughty-naughty-john-parr
+lyrics_url: https://genius.com/John-parr-naughty-naughty-lyrics
 name: Naughty Naughty
 rankings:
 - end_date: '1984-12-21'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
 ---
+I put my hand on your stocking
+I was movin' nice and slow
+Let my fingers do the walking
+And there ain't far to go
 
+
+Don't tell me "I don't wanna be a girl like that"
+Do you wanna see a grown man cry?
+You don't wanna be a girl like that
+Baby this could be the first time (this could be the first time)
+
+
+Naughty naughty, loud and bawdy, t-t-t-t-tease me
+Take it easy, hug and squeeze
+A naughty naughty, naughty, I'm a naughty naughty guy
+
+
+Bedroom eyes, they undress me
+Take me, cut me to the bone
+Lace and satin pressed against me
+Should we call a chaperon
+
+
+Don't tell me "I don't wanna be a girl like that"
+Do you wanna see a grown man cry
+You don't wanna be a girl like that
+Baby this could be the first time (this could be the first time)
+
+
+Naughty naughty, cute and horny, t-t-t-t-tease me
+Take it easy, hug and squeeze me, love outta line
+
+
+With your hair hung down, and your dress ridin' high
+And your eyes burning hot like the sun
+Kiss me hard, squeeze me tight, gonna love you alright
+Cause I'm a naughty, naughty, naughty guy
+
+
+You don't wanna be a girl like that
+Baby this could be the first time (this could be the first time)
+
+
+Naughty naughty, cute and horny, t-t-t-t-tease me
+Take it easy, hug and squeeze
+A naughty naughty, naughty, I'm a naughty naughty (guy)
+
+
+Naughty naughty, cute and horny, t-t-t-t-tease me
+Naughty naughty, loud and bawdy, love outta line
+Naughty naughty, loud and bawdy, t-t-t-tease me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-serious-tyrone-davis
+lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/Are-You-Serious
 name: Are You Serious
 rankings:
 - end_date: '1982-12-31'
@@ -31,4 +32,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+For years, i've waited
+And i'll wait again
+I know patience is a virtue
+But i'm wearing thin
 
+I've got my fingers crossed
+Praying every night
+That i'll find someone like you
+To treat me right
+
+Oh, oh, girl
+Are you serious
+Or just having fun
+Are you serious
+Tell me, are you the one
+
+I know from experience
+I've got to play it cool
+You're not like the others
+Using me like a tool
+
+Is this another trap
+Baited full of pain
+Can i really trust you, girl
+Or are you playing a game
+
+Oh, oh, girl
+Are you serious
+Or just having fun
+Are you serious
+Tell me, are you the one
+
+(Are you serious) oh, baby
+
+Are you serious
+Or just having fun
+Are you serious
+Tell me, are you the one
+
+Me for you, you for me
+(Serious) ooh, baby
+
+Are you serious
+Or are you having fun
+Are you serious
+Tell me, are you the one
+
+Are you serious, baby
+Are you having fun
+Are you serious
+
+Are you serious
+Tell me, are you the one
+You and me, you and me
+
+(Are you serious)
+You and me, baby

@@ -1,6 +1,6 @@
 ---
 artists:
-- Raymond Lefevre and His Orchestra
+- Raymond Lefevre
 features: []
 genres: []
 key: the-day-the-rains-came-raymond-lefevre-and-his-orchestra

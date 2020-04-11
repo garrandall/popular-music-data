@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-very-thought-of-you-little-willie-john
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/The-Very-Thought-of-You
 name: The Very Thought Of You
 rankings:
 - end_date: '1961-03-19'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
+The very thought of you
+And I forget to do
+The little ordinary things
+That everyone ought to do
 
+I'm living in a kind of daydream
+I'm happy as a king and
+Foolish though it may seem
+To me, that's everything
+
+The mere idea of you
+The longing here for you
+You'll never know
+How slow the moments go
+Til I'm near to you
+
+I see your face in every flower
+You eyes in stars above
+It's just the thought of you
+The very thought of you, my love
+
+The mere idea of you
+The longing here for you
+You'll never know
+How slow the moments go
+Til I'm near to you
+
+I see your face in every flower
+You eyes in stars above
+It's just the thought of you
+The very thought of you, my love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reap-what-you-sow-billy-stewart
+lyrics_url: https://genius.com/Billy-stewart-reap-what-you-sow-lyrics
 name: Reap What You Sow
 rankings:
 - end_date: '1962-07-27'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
+Over and over
+I tell you that I love you
+It's over and over and over
+I told you I miss you
 
+Like the good book says
+You have to reap just what you sow
+I know, I know, I know
+(What you sow, what you sow)
+
+You're my lover girl
+And I'm your lover boy
+Love is no game
+Let's not take it for a toy
+
+It's like the good book says
+You have to reap just what you sow
+(What you sow, what you sow)
+
+Can't you understand the things
+The things we have planned
+For the years, years to come
+
+It's hard to believe
+You, you deceived me
+Baby, baby, baby
+Please come back home
+
+Whoa, oh, oh, oh
+Over and over and over
+I told you I love you
+It's over and over and over
+I told you I miss you
+
+It's like, it's like the good book says
+You have to reap just what you sow
+(What you sow, what you sow)
+I know, I know, I know
+(What you sow, what you sow)

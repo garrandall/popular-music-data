@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come---get-it-selena-gomez
+lyrics_url: https://genius.com/Selena-gomez-come-and-get-it-lyrics
 name: Come & Get It
 rankings:
 - end_date: '2013-05-03'
@@ -95,4 +96,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
 ---
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready, when you're ready
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
 
+
+You ain't gotta worry, it's an open invitation
+I'll be sitting right here real patient
+All day, all night, I'll be waiting standby
+Can't stop, because I love it
+Hate the way I love you
+All day, all night
+Maybe I'm addicted for life, no lie
+
+
+I'm not too shy to show I love you
+I got no regrets
+I love you much too much to hide you
+This love ain't finished yet
+This love ain't finished yet
+So baby, whenever you're ready
+
+
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready, when you're ready
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+
+
+You got the kind of love that I want, let me get that
+(Let me get that, yeah)
+And baby, once I get it, I'm yours, no take-backs
+Gon' love you for life, I ain't leaving your side
+Even if you knock it, ain't no way to stop it
+Forever, you're mine
+Baby, I'm addicted, no lie, no lie
+
+
+I'm not too shy to show I love you
+I got no regrets
+So baby, whenever you're ready...
+
+
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready, when you're ready
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+
+
+This love will be the death of me
+But I know I'll die happily
+I'll know, I'll know, I'll know
+Because you love me so
+Yeah
+
+
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+When you're ready come and get it
+Na-na-na-na, na-na-na-na, na-na-na-na
+(I'm gonna get it, yeah yeah)
+When you're ready, when you're ready
+When you're ready come and get it
+(When you're ready, when you're ready
+Come and get it, get it)
+Na-na-na-na, na-na-na-na, na-na-na-na

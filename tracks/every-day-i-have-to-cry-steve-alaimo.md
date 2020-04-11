@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-day-i-have-to-cry-steve-alaimo
+lyrics_url: https://genius.com/Steve-alaimo-every-day-i-have-to-cry-lyrics
 name: Every Day I Have To Cry
 rankings:
 - end_date: '1963-01-11'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
 ---
+Everyday I have to cry some
+Everyday I have to cry some
+Dry the water from my eyes some
+Everyday I have to cry
 
+I had a little girl, I guess I really loved her
+Everynight I was thinkin' of her
+You can't mix your love with money
+'Cause if you do, you're gonna hurt somebody
+
+So everyday I have to cry some
+Everyday I have to cry some
+Dry the water from my eyes some
+Everyday I have to cry
+
+Well I know that I am just a poor man
+But is it wrong to love 'cause I'm not a rich man
+Everytime you mix your love with money
+Everytime you're gonna love somebody
+
+So everyday I have to cry some
+Everyday I have to cry some
+Dry the water from my eyes some
+Everyday I have to cry

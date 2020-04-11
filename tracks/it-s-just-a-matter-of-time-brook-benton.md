@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-just-a-matter-of-time-brook-benton
+lyrics_url: https://genius.com/Brook-benton-its-just-a-matter-of-time-lyrics
 name: It's Just A Matter Of Time
 rankings:
 - end_date: '1959-02-01'
@@ -79,4 +80,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+Someday, someway
+You'll realize that you've been blind
+Yes, darling, you're going to need me again
+It's just a matter of time
 
+Go on, go on
+Until you reach the end of the line
+But I know you'll pass my way again
+It's just a matter of time
+
+After I gave you everything I had
+You laughed and called me a clown
+Remember, in your search for fortune and fame
+What goes up must come down
+
+I know, I know
+That one day, you'll wake up and find
+That my love was a true love
+It's just a matter of time

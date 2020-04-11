@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-ll-leave-you-with-a-smile-george-strait
+lyrics_url: https://genius.com/George-strait-shell-leave-you-with-a-smile-lyrics
 name: She'll Leave You With A Smile
 rankings:
 - end_date: '2002-10-11'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
 ---
+At first she's going to come on strong
+Like she'll love you all night long
+Like it's going out of style
+Then she'll leave you with a smile
 
+
+Well you can't help but wonder
+Why you can't help but love her
+But you can't help love her
+And all that hurting was more than worth it
+It's written all over your face
+
+
+One day you'll pass her on the street
+With that guy you used to be
+She'll say hello and walk on by
+Then she'll leave you with a smile
+
+
+Well you can't help but wonder
+Why you can't help but love her
+But you can't help love her
+And all that hurting was more than worth it
+It's written all over your face
+
+
+At first she's going to come on strong
+Like she'll love you all night long
+Like it's going out of style
+Then she'll leave you with a smile
+
+
+Ah, she's going to love you
+She going to leave you with a smile
+Ah, she's going to love you
+She going to leave you with a smile

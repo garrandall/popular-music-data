@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ffun-confunkshun
+lyrics_url: https://www.musixmatch.com/lyrics/Con-Funk-Shun/Ffun
 name: Ffun
 rankings:
 - end_date: '1977-12-23'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
 ---
+Oh, babe, yeah, yeah
+Well, well, well, well, well
 
+I wanna thank you
+For your love so true
+Your tender lovin'
+Keeps my mind on you
+
+I'll pick you up
+And we'll go out and dance
+You kiss my lips
+And we'll have fun, fun, fun
+
+Make it or break it
+Got to make you mine
+Kissin' and huggin'
+All the time
+
+You are my one
+And only under the sun
+Give me your hand
+And we'll have fun, fun, fun
+Oh, we're havin' fun
+
+I wanna thank you
+For your love so true
+Your tender lovin'
+Keeps my mind on you
+
+I'll pick you up
+And we'll go out and dance
+You kiss my lips
+And we'll have fun, fun, fun
+
+Make it or break it
+Got to make you mine
+Kissin' and huggin'
+All the time
+
+You are my one
+And only under the sun
+Give me your hand
+And we'll have fun, fun, fun
+
+Fun, fun, fun
+Fun, fun, fun
+Fun, fun, fun
+Fun, fun, fun
+Fun, fun, fun
+Fun, fun, fun

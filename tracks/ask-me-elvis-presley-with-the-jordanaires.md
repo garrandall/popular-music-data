@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: ask-me-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Jordanaires/Ask-Me-Take-2
 name: Ask Me
 rankings:
 - end_date: '1964-10-16'
@@ -55,4 +57,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
 ---
+Ask me if I wanted to caress you
+And I'd confess
+Ask me if I'm longing to possess you
+I'll answer yes
 
+Now that we're together
+I could hold you close forever
+And I swear that I would never let you go
+
+There's no question that I care more than you
+Love me darling, just be mine completely
+And there's nothing I won't do if you
+Just ask me

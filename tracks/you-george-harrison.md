@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-george-harrison
+lyrics_url: https://genius.com/George-harrison-got-my-mind-set-on-you-lyrics
 name: You
 rankings:
 - end_date: '1975-09-26'
@@ -47,4 +48,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
 ---
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
 
+
+But it's going to take money
+A whole lot of spending money
+It's going to take plenty of money
+To do it right, child
+It's going to take time
+A whole lot of precious time
+It's going to take patience and time
+To do it, to do it, to do it, to do it, to do it
+To do it right, child
+
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+
+And this time I know it's for real
+The feeling that I feel
+I know if I put my mind to it
+I know that I really can do it
+
+
+I got my mind set on you
+Set on you
+I got my mind set on you
+Set on you
+
+
+But it's going to take money
+A whole lot of spending money
+It's going to take plenty of money
+To do it right, child
+It's going to take time
+A whole lot of precious time
+It's going to take patience and time
+To do it, to do it, to do it, to do it, to do it
+To do it right
+
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+
+And this time I know it's for real
+The feelings that I feel
+I know if I put my mind to it
+I know that I really can do it
+
+
+But it's going to take money
+A whole lot of spending money
+It's going to take plenty of money
+To do it right, child
+It's going to take time
+A whole lot of precious time
+It's going to take patience and time
+To do it, to do it, to do it, to do it, to do it
+To do it right
+Set on you
+Set on you
+Set on you
+Set on you
+
+
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+I got my mind set on you
+
+
+Set on you
+Set on you
+Set on you Set on you
+Set on you Set on you Set on you Set on you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-always-a-woman-billy-joel
+lyrics_url: https://genius.com/Billy-joel-shes-always-a-woman-lyrics
 name: She's Always A Woman
 rankings:
 - end_date: '1978-08-18'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
 ---
+She can kill with a smile, she can wound with her eyes
+She can ruin your faith with her casual lies
+And she only reveals what she wants you to see
+She hides like a child but she's always a woman to me
 
+
+She can lead you to love, she can take you or leave you
+She can ask for the truth but she'll never believe you
+And she'll take what you give her as long as it's free
+Yeah she steals like a thief but she's always a woman to me
+
+
+Oh, she takes care of herself, she can wait if she wants
+She's ahead of her time
+Oh, and she never gives out and she never gives in
+She just changes her mind
+
+
+And she'll promise you more than the Garden of Eden
+Then she'll carelessly cut you and laugh while you're bleeding
+But she'll bring out the best and the worst you can be
+Blame it all on yourself cause she's always a woman to me
+
+
+Mmm
+Mmm
+
+
+Oh, she takes care of herself, she can wait if she wants
+She's ahead of her time
+Oh, and she never gives out and she never gives in
+She just changes her mind
+
+
+She is frequently kind and she's suddenly cruel
+She can do as she pleases, she's nobody's fool
+But she can't be convicted, she's earned her degree
+And the most she will do is throw shadows at you
+But she's always a woman to me
+
+Mmm
+Mmm

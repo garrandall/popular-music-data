@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: would-you-lay-with-me--in-a-field-of-stone--tanya-tucker
+lyrics_url: https://genius.com/Tanya-tucker-would-you-lay-with-me-lyrics
 name: Would You Lay With Me (in A Field Of Stone)
 rankings:
 - end_date: '1974-02-22'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
 ---
+Would you lay-ay wi-ith me in a fie-ield o-of sto-one
+If my needs were strong, would you lay-ay wi-ith me
+Should my lips grow-ow dry, would you wet them dear
+In the midnight hour, if my lips were-ere dry
 
+Would you go a-away to another-er land
+Walk a thousand miles through the burni-in' sand
+Wipe the blood a-away from my dyin' ha-and
+If I give my-yself to-oo you
+
+Will you bathe wi-ith me in the strea-eam o-of life
+When the moon is full, will you ba-athe wi-ith me
+Will you still lo-ove me, when I'm down and out
+In my time of trial will you sta-and by-why me
+
+Would you go a-away to anothe-er land
+Walk a thousand miles through the burni-in' sand
+Wipe the blood a-away from my dyin' ha-and
+If I give my-yself to you
+
+Would you lay wi-ith me in a field of sto-one
+(Would you lay with me in a field of stone)
+Should my lips grow dry, would you wet them dear-ear
+(Should my lips grow dry, would you wet them dear)
+Will you bathe wi-ith me in the strea-eam of life
+(Will you bathe wi-ith me in the strea-eam of life)
+Will you still lo-ove me, when I'm down and out

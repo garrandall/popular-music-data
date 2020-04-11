@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wish-you-were-here-mark-wills
+lyrics_url: https://genius.com/Mark-wills-wish-you-were-here-lyrics
 name: Wish You Were Here
 rankings:
 - end_date: '1999-03-12'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
 ---
+They kissed goodbye at the terminal gate
+She said, "You're gonna be late if you don't go"
+He held her tight, said, "I'll be alright
+I'll call you tonight to let you know"
+He bought a postcard, on the front, it just said "Heaven"
+With a picture of the ocean and the beach
+And the simple words he wrote her
+Said he loved her and they told her
+How he'd hold her if his arms would reach
 
+
+Wish you were here, wish you could see this place
+Wish you were near, I wish I could touch your face
+The weather's nice, it's paradise
+It's summertime all year and there's some folks we know
+They say, "Hello," I miss you so, wish you were here
+
+
+She got a call that night but it wasn't from him
+It didn't sink in right away, "Ma'am, the plane went down
+Our crews have searched the ground
+No survivors found," she heard him say
+But somehow she got a postcard in the mail
+That just said "Heaven" with a picture of the ocean and the beach
+And the simple words he wrote her
+Said he loves her and they told her
+How he'd hold her if his arms would reach
+
+
+Wish you were here, wish you could see this place
+Wish you were near, I wish I could touch your face
+The weather's nice, it's paradise
+It's summertime all year and there's some folks we know
+They say, "Hello," I miss you so, wish you were here
+The weather's nice, in paradise
+It's summertime all year and all the folks we know
+They say, "Hello," I miss you so, wish you were here
+Wish you were here

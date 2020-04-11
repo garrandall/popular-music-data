@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-destiny-s-child
+lyrics_url: https://genius.com/Destinys-child-girl-lyrics
 name: Girl
 rankings:
 - end_date: '2005-04-08'
@@ -83,4 +84,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
 ---
+Take a minute girl, come sit down
+And tell us what's been happening
+In your face, I can see the pain
+Don't you try to convince us that you're happy, yeah
+We've seen this all before
+Brothers taking advantage of the passion
+Because we've come too far for you to feel alone
+You don't let him walk over your heart, I'm telling you
 
+
+Girl, I can tell you've been crying
+And you needing somebody to talk to
+Girl, I can tell he's been lying
+And pretending that he's faithful and he loves you
+Girl, you don't have to be hiding
+Don't you be ashamed to say he hurt you
+I'm your girl, you're my girl, we your girls
+Don't you know that we love ya?
+
+
+See, what y'all don't know about him
+Is I can't let him go because he needs me
+It ain't really him, it's stress from his job
+And I ain't making it easy
+I know you see him bugging most of the time
+But I know deep inside, he don't mean it
+It gets hard sometimes, but I need my man
+I don't think y'all understand, I'm telling you
+
+
+Girl, I can tell you've been crying
+(We understand, don't be ashamed, I'm your friend)
+And you needing somebody to talk to
+Girl, I can tell he's been lying
+(I can tell he's been lying to you; he's no good for you)
+And pretending that he's faithful and he loves you
+Girl, you don't have to be hiding
+Don't you be ashamed to say he hurt you
+I'm your girl, you're my girl, we your girls
+Don't you know that we love ya?
+Girl, I can tell you've been crying
+(I can tell you've been crying)
+And you needing somebody to talk to (I can see it in your eyes)
+Girl, I can tell he's been lying (I can tell he's been lying)
+And pretending that he's faithful and he loves you
+(I can see it in the way you)
+Girl, you don't have to be hiding
+(I've been where you are, I know what you're feeling, girl)
+Don't you be ashamed to say he hurt you
+I'm your girl, you're my girl, we your girls
+Don't you know that we love ya?
+
+
+Girl, take a good look at yourself
+He got you going through hell
+We ain't never seen ya down like this
+What you mean you don't need us to help?
+We know each other too well
+Girl, you're my girl, we your girls
+Don't you know that we love ya? (Yeah, yeah)
+
+
+Girl, I can tell you've been crying (Girl)
+And you needing somebody to talk to
+(I've been knowing you since you were 10)
+Girl, I can tell he's been lying (You cannot hide from your friends)
+And pretending that he's faithful and he loves you (Girl)
+Girl, you don't have to be hiding
+Don't you be ashamed to say he hurt you
+I'm your girl, you're my girl, we your girls
+Don't you know that we love ya?
+Girl, I can tell you've been crying
+And you needing somebody to talk to
+Girl, I can tell he's been lying
+And pretending that he's faithful and he loves you
+Girl, you don't have to be hiding
+Don't you be ashamed to say he hurt you
+I'm your girl, you're my girl, we your girls
+Don't you know that we love ya?

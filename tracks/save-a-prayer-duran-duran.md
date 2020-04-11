@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-a-prayer-duran-duran
+lyrics_url: https://genius.com/Duran-duran-save-a-prayer-lyrics
 name: Save A Prayer
 rankings:
 - end_date: '1985-02-08'
@@ -63,4 +64,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
+You saw me standing by the wall
+Corner of a main street
+And the lights are flashing
+On your window sill
+All alone ain't much fun
+So you're looking for the thrill
+And you know just what it takes
+And where to go
 
+
+Don't say a prayer for me now
+Save it 'til the morning after
+No, don't say a prayer for me now
+Save it 'til the morning after
+
+
+Feel the breeze deep on the inside
+Look you down into your well
+If you can, you'll see the world
+In all his fire
+Take a chance like all dreamers
+You can't find another way
+You don't have to dream it all
+Just live a day
+
+
+Don't say a prayer for me now
+Save it 'til the morning after
+No, don't say a prayer for me now
+Save it 'til the morning after
+Save it 'til the morning after
+Save it 'til the morning after
+
+
+Pretty looking road
+I try to hold the rising floods
+That fill my skin
+Don't ask me why
+I'll keep my promise
+Melt the ice
+
+
+And you wanted to dance
+So I asked you to dance
+But fear is in your Soul
+Some people call it
+A one night stand
+But we can call it paradise
+
+
+Don't say a prayer for me now
+Save it 'til the morning after
+No, don't say a prayer for me now
+Save it 'til the morning after
+Save it 'til the morning after
+Save it 'til the morning after
+Save it 'til the morning after
+Save it 'til the morning after
+
+
+Do-do-do-do-do
+Do-do-do, do-do-do, do-do
+
+
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after
+Save a prayer 'til the morning after...

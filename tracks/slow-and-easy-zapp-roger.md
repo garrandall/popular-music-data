@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: slow-and-easy-zapp-roger
+lyrics_url: https://genius.com/Zapp-slow-and-easy-lyrics
 name: Slow And Easy
 rankings:
 - end_date: '1993-11-05'
@@ -88,4 +89,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
 ---
+Tonight I came home early
+'Cause I just couldn't wait to see you
+You were on my mind
+Lately I've been thinkin', baby (Yeah, I've been thinkin')
+Of all the ways I can make you happy
+And tonight I'm gonna try
 
+
+So just unwind (Just unwind)
+Relax your mind (Relax your mind)
+Leave your cares behind (Leave them behind)
+Let's make love (Nice and slow)
+
+
+Slow and easy is the way I wanna love you tonight
+(Slow and easy is the way I wanna love you)
+Slow and easy is the way I wanna love you tonight
+(Slow and easy, oh yeah)
+Slow and easy is the way I wanna love you tonight
+(Wanna love you tonight, yeah)
+Slow and easy
+
+
+As we lay we can
+Just explore each other's treasures
+They're not hard to find
+We know the secret (Yeah)
+Of how to make each other happy
+I know yours and you know mine
+
+
+So just unwind (Just unwind)
+Relax your mind (Relax your mind)
+Leave your cares behind (Leave them behind)
+Let's make love (All I wanna do is make sweet love to you)
+
+
+Slow and easy is the way I wanna love you tonight
+(Slow and easy is the way I wanna love you)
+Slow and easy is the way I wanna love you tonight
+(Slow and easy, oh yeah)
+Slow and easy is the way I wanna love you tonight
+(I wanna take my time)
+Slow and easy (Slow and easy)
+
+
+Come to me, baby
+No, no, no there's no need to worry
+The kids are all asleep, yeah yeah yeah
+I know you want me
+Just as much as I want you
+I can see it in your eyes, oh
+
+
+Just unwind (You better unwind, girl)
+Relax your mind (Relax your mind)
+Leave your cares behind (Baby, won't you leave your cares behind)
+Let's make love (All I wanna do, all I wanna do is make love)
+
+
+Slow and easy is the way I wanna love you tonight
+(I wanna love you slow and easy)
+Slow and easy is the way I wanna love you tonight
+(Let's make love, yeah)
+Slow and easy is the way I wanna love you tonight
+(We don't have to worry 'bout nothing else)
+Slow and easy (Slow, yeah)
+Slow and easy is the way I wanna love you tonight
+(I wanna take my time)
+Slow and easy is the way I wanna love you tonight
+(Slow and easy, oh yeah)
+Slow and easy is the way I wanna love you tonight
+(That's the way I wanna love you)
+Slow and easy (Slow and easy)
+
+
+Slow and easy (Shooby doo bop, slow and easy)
+Slow and easy (Shooby doo bop, slow and easy)
+Slow and easy (Shooby doo bop, slow and easy)
+Slow and easy

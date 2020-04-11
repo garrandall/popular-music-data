@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lavender-blue-sammy-turner
+lyrics_url: https://genius.com/Sammy-turner-lavender-blue-lyrics
 name: Lavender-Blue
 rankings:
 - end_date: '1959-06-28'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
 ---
+Lavender blue
+Dilly-dilly
+Lavender green
+If I were king
+Dilly-dilly
+I'd need a queen
 
+Whoa-oh, who told me so
+Dilly-dilly
+Who told me so
+I told myself
+Dilly-dilly
+I told me so
+
+If your dilly-dilly heart
+Feels a dilly-dilly way
+If you'll answer yes
+In a pretty little church
+On a dilly-dilly day
+You'll be wed in a dilly-dilly dress of
+
+Lavender blue
+Dilly-dilly
+Lavender green
+Then I'll be king
+Dilly-dilly
+You'll be my queen
+
+Then I'll be king
+Dilly-dilly
+You'll be my queen
+
+(Lavender blue, dilly-dilly)

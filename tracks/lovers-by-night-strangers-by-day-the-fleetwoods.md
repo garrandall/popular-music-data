@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovers-by-night-strangers-by-day-the-fleetwoods
+lyrics_url: https://genius.com/The-fleetwoods-lovers-by-night-strangers-by-day-lyrics
 name: Lovers By Night Strangers By Day
 rankings:
 - end_date: '1962-10-19'
@@ -47,4 +48,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
 ---
-
+Darling hold my hand, let me know that you understand
+That till I'm free from the girl who loves me
+We must be secretly lovers by night, strangers by day
+Till the time you can be in my arms endlessly
+Lovers by night, strangers by day
+She's been good to me but she gets hurt, oh so easily
+So till I tell her it's all over stay with me
+Let's still be lovers by night, strangers by day
+Till we walk, walk as one, hand to hand in the sun
+Lovers by night, strangers by day
+Lovers by night, strangers by day
+Till we walk, walk as one, hand to hand in the sun
+Lovers by night, strangers by day
+Lovers by night, strangers by day
+Lovers by night, strangers by day
+Lovers by night

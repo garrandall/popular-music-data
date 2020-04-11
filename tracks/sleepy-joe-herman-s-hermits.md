@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sleepy-joe-herman-s-hermits
+lyrics_url: https://genius.com/Hermans-hermits-sleepy-joe-lyrics
 name: Sleepy Joe
 rankings:
 - end_date: '1968-05-17'
@@ -31,4 +32,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
 ---
+Sleepy Joe
+Sleepy Joe
 
+Rise and shine, Sleepy Joe
+Now's the time, don't you know?
+To get into a new kind of dream
+You've been living alone
+With no Bell telephone
+And you don't have a shirt that is clean
+
+You can rest your head on the corner of your bed
+You can watch the world go by
+But you're never gonna see
+What the other people see
+If you're always gonna be a Sleepy Joe
+
+Rise and shine, Sleepy Joe
+There are places to go
+There are windows to clean on the way
+You've got nothing to lose
+But the shine on your shoes
+Do the best things you can every day
+
+You can get upset at the way the people get
+You can turn your back on the crowd
+But you never gonna see
+What is absolutely real
+If you're always gonna be a Sleepy Joe
+
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)
+
+Rise and shine, Sleepy Joe
+Now's the time, don't you know?
+To get into a new kind of dream
+You've been living alone
+With no Bell telephone
+And you don't have a shirt that is clean
+
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)
+
+Rise and shine, Sleepy Joe
+There are places to go
+There are windows to clean on the way
+You've got nothing to lose
+But the shine on your shoes
+Do the best things you can every day
+
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la, la la la (Sleepy Joe)
+La la la, la la la, la la la (Sleepy Joe)

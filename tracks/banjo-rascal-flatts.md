@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: banjo-rascal-flatts
+lyrics_url: https://genius.com/Rascal-flatts-banjo-lyrics
 name: Banjo
 rankings:
 - end_date: '2012-03-09'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
 ---
+When I lose my smile
+When my thoughts get jumbled
+When the air and BS get too thick
+Can’t take a breath
+Without getting sick
+I’ve had enough
+With this concrete jungle
+I drop my truck in drive
+I pick up my baby
+She jumps in with a kiss and a hey
+We exit off that old highway
+Sometimes you gotta go
+Beyond the pavement
 
+
+You gotta go deep
+Way on back
+Cross a few creeks
+And a couple little shacks
+You gotta get lost
+Way on out
+Crickets and frogs
+Yeah you’re gettin’ close now
+And you kick it into four wheel drive
+When you run out of road
+And you go, and you go and you go-go-go
+‘Til you hear a banjo
+
+
+It ain’t on no map
+And I’m glad it isn’t
+Leave the phone
+And the GPS
+Those satellites
+Ain’t found it yet
+Got our own little
+Piece of heaven hidden
+
+
+You gotta go deep
+Way on back
+Cross a few creeks
+And a couple little shacks
+You gotta get lost
+Way on out
+Crickets and frogs
+Yeah you’re gettin’ close now
+And you kick it into four wheel drive
+When you run out of road
+And you go, and you go and you go-go-go
+‘Til you hear a banjo

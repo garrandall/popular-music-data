@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-work-together-canned-heat
+lyrics_url: https://genius.com/Canned-heat-lets-work-together-lyrics
 name: Let's Work Together
 rankings:
 - end_date: '1970-10-16'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
+{Intro}
 
+Together we stand, divided we fall
+Come on now people, let's get on the ball and work together
+Come on, come on, let's work together, now now people
+Because together we will stand every boy, every girl and a man...
+
+Before when things go wrong, as they sometimes will
+And the road that you travel, it stays all up hill
+Let's work together, come on, come on, let's work together
+Now now people, you know together we will stand
+Every boy, girl, woman and a man ...
+
+Oh well now, two or three minutes, two or three hours
+What does it matter now, if this goes round
+Let's work together, come on, come on
+Let's work together, now now people
+Because together we will stand
+Every boy, every woman and a man ...
+
+{Bridge}
+Oh, common now..
+
+Oh well, make someone happy, make someone smile
+Let's all work together and make life worthwhile
+Let's work together, come on , come on
+Let's work together, now now people
+Because together we will we stand
+Every boy, girl, woman and a man...
+
+Oh well now, come on you people, walk hand in hand
+Let's make this world of ours, a good place to stand
+And work together, come on, come on
+Let's work together, now, now people
+Because together we will stand
+Every boy, girl, woman and man
+Ah, yeah
+
+{Bridge}
+
+Well now, together we will stand
+Every boy, girl, woman and man
+Ah, yeah
+
+{Outro}

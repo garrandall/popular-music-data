@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-a-soldier-boy-the-tassels
+lyrics_url: https://www.musixmatch.com/lyrics/The-Tassels/To-a-Soldier-Boy
 name: To A Soldier Boy
 rankings:
 - end_date: '1959-07-19'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
 ---
+A soldier boy has gone
+Across the sea
+I'm so sad and lonely
+As I can be
 
+I received a photo
+Just the other day
+Of a soldier boy
+Who is far away
+
+Said that he would come back
+In a year or two
+Told me not to cry
+He'd always be true
+
+He said
+Fear not, my sweet
+But have faith, in me
+For I'll, return
+From port, the sea
+
+I will be so happy
+On that grand and glorious day
+When you come home to me
+And the U.S.A.

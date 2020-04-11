@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: walk-in-the-night-jr--walker-the-all-stars
+lyrics_url: https://www.musixmatch.com/lyrics/Jr-Walker-The-All-Stars/Walk-in-the-Night
 name: Walk In The Night
 rankings:
 - end_date: '1972-04-07'
@@ -56,4 +57,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
 ---
+Walk in the night
+Walk in the night
 
+Walk in the night
+Walk in the night
+
+Walk in the night
+Walk in the night
+...

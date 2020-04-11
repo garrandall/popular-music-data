@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-you-are-pearl-jam
+lyrics_url: https://genius.com/Pearl-jam-who-you-are-lyrics
 name: Who You Are
 rankings:
 - end_date: '1996-08-23'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
 ---
+Come to send. Not condescend
+Transcendent to consequences
+To transcend where we are
+Who are we? Who we are
 
+
+Trampled moss on your souls
+Changes, all you're a part
+Seen it all. Not at all
+Can't defend fucked up men
+
+
+Take me for a ride before we leave
+
+
+Circumstance. Clapping hands
+A driving winds. Happenstance
+Off the track, in the mud
+That's the moss in the aforementioned verse
+
+
+And a little... Wow... And a little...
+Just a little time before we leave
+
+
+Stop light plays its part
+So I would say you've got a part
+What's your part? Who you are
+You are who who you are

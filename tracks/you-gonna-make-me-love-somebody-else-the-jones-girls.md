@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-gonna-make-me-love-somebody-else-the-jones-girls
+lyrics_url: https://genius.com/Jones-girls-you-gonna-make-me-love-somebody-else-lyrics
 name: You Gonna Make Me Love Somebody Else
 rankings:
 - end_date: '1979-06-29'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
 ---
+You gonna make me love somebody else
+If you keep on treating me the way you do
+You gonna make me love somebody else
+If you keep on treating me the way you do
 
+I ain't did nothing to you
+I just love you with my heart, heart and soul
+Everytime I need some lovin
+Why do you turn, turn cold
+Now I ain't dumb, and I ain't stupid
+I know you need love, need love like I do
+Cause if you ain't loving me
+I wanna know who in the world you loving
+Tell me if you don't want me around
+
+You gonna make me love somebody else
+If you keep on treating me the way you do
+I don't wanna do it
+
+You gonna make me love somebody else
+If you keep on treating me the way you do
+
+I don't say nothing to you
+When you stay out, stay out all night long
+I know you got to make money
+But bring your loving home, bring it home
+Now what's out there in the street
+That's taking up, taking up all of your time
+Cause if you ain't loving me
+I wanna know who in the world you loving
+Tell me if you don't want me around
+
+You gonna make me love somebody else
+If you keep on treating me the way you do
+I don't wanna do it, I don't wanna do it
+
+You gonna make me love somebody else
+If you keep on treating me the way you do
+
+You gonna make me love somebody
+You gonna make me love somebody
+I need love just like you do
+Tell me who you been giving it to
+I'm gon love somebody
+
+You gonna make me love somebody
+You gonna make me love somebody
+
+Repeat Chorus

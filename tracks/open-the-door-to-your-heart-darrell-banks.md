@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: open-the-door-to-your-heart-darrell-banks
+lyrics_url: https://genius.com/Darrell-banks-open-the-door-to-your-heart-lyrics
 name: Open The Door To Your Heart
 rankings:
 - end_date: '1966-07-29'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
 ---
+Walk right on in
+Stretch out your arms
+Let the lovelight shine
+On my soul, baby
+And let love come running in
 
+You know that I needed you
+I've needed you a long, long time
+My pride is too much for me, baby
+And I'm about to lose my mind
+
+Walk right on in
+Let your love come running in
+Open the door to your heart, baby
+
+Open the door to your heart
+Open the door to your heart
+And let love come running in
+Let your love come running in
+
+Let it flow like the river
+Let it shine like the light
+Take all my mind and soul, baby
+Why don't you give it sight?
+
+I'm trying to
+Keep from loving you
+And I've been loving you
+A little too long
+
+Darling, darling
+You've been so sweet to me
+That's what keeps
+My love so strong
+
+Walk right on in
+Let your love come running in
+Open the door to your heart, baby
+
+Open the door to your heart
+Open the door to your heart
+And let love come running in
+Let your love come running in
+
+I need you to stand by me
+Let your love come running in
+Let it flow like the river

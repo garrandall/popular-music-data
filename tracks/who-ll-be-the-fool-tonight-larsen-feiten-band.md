@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-ll-be-the-fool-tonight-larsen-feiten-band
+lyrics_url: https://www.musixmatch.com/lyrics/Larsen-Feiten-Band/Who-ll-Be-the-Fool-Tonight
 name: Who'll Be The Fool Tonight
 rankings:
 - end_date: '1980-08-22'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
 ---
+I was captivated
+And I waited for you, babe
+Every lonely night
+So fascinated
+Hesitated just a bit too long
+You got me wonderin, if
 
+I'll be missing you
+Will he be kissing you
+I guess were gonna have to wait and see
+Wholl be the fool tonight
+Cmon baby
+Wholl be the fool tonight
+Cmon baby
+
+Now sweet sensation
+All around you
+Oh, you better look before you leap
+Gonna keep on tryin, babe
+I want you close to me
+Then we would be just like those lovers that I see
+Now ya got me wonderin, if
+
+I'll be missing you
+Now baby, will he be kissing you
+Wo--ah baby, I guess were gonna have to wait and see
+Wholl be the fool tonight
+I guess were gonna wait
+Cmon baby
+Wholl be the fool tonight
+I guess were gonna wait
+Cmon baby
+Wholl be the fool tonight
+I guess were gonna have to wait and see
+
+Oh baby...
+
+I'll be missing you
+Will he be kissing you
+I guess were gonna have to wait and see
+Wholl be the fool tonight
+I guess were gonna wait
+Cmon baby
+Wholl be the fool tonight
+I guess were gonna wait
+Cmon baby
+Wholl be the fool tonight
+I guess were gonna have to wait and see
+
+Oh baby...
+
+I guess were gonna wait
+I guess were gonna wait
+I guess were gonna have to wait and see

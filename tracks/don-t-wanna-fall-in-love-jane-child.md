@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-wanna-fall-in-love-jane-child
+lyrics_url: https://genius.com/Jane-child-dont-wanna-fall-in-love-lyrics
 name: Don't Wanna Fall In Love
 rankings:
 - end_date: '1990-02-16'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
 ---
+Ain't no personal thing, boy
+But you've got to stay away
+Far, far away from my heart, my heart
+Don't you know what your kiss is doing
+Let me tell it to you from the start, boy
 
+I don't wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I'll fight you to the end, baby
+
+You've been hanging around, boy
+And you have started sinking in
+Whoa baby, you're way out of line now
+Unaware how this all got started
+Let me tell it you one more time, boy
+
+I don't wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I'll fight you to the end, baby
+
+I don’t wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I’ll fight you to the end, baby
+
+I learned something about myself
+Last night with you I knew
+I didn't want nobody else
+And you're scaring me to death now, baby
+
+I don’t wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I’ll fight you to the end, baby
+
+I don’t wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I’ll fight you to the end, baby
+
+I don’t wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I’ll fight you to the end, baby
+
+I don’t wanna fall in love
+Love cuts just like a knife
+You make the knife feel good
+I’ll fight you to the end, baby

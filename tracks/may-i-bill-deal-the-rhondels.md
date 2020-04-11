@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: may-i-bill-deal-the-rhondels
+lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/May-I
 name: May I
 rankings:
 - end_date: '1969-01-24'
@@ -48,4 +49,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
 ---
+Deal Bill And The Rhondels
+Miscellaneous
+May I
+May I! may I!
+May I, may I
+May I be your boy
+May I speak with you
+May I bring you joy
+Girl I've been searching
+May I, may I, may I, may I
+Touch your hand in mine
+Such a thrill divine
+Girl I've been searching for someone like you
+Well I've said everything that I can say
+Done everything that I can do
+For you girl
+Yes I have
+So in love with you
+May I, may I, may I, may I
+Touch your hand in mine
+Such a thrill divine
+Girl I've been searching for someone like you
+I'm gonna walk with you
+Girl I'm gonna talk with you
+I'm gonna be your boy
+I'm gonna bring you joy
 
+(Fade out while singing may I, may I...)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cry-asia
+lyrics_url: https://genius.com/Asia-dont-cry-lyrics
 name: Don't Cry
 rankings:
 - end_date: '1983-08-05'
@@ -59,4 +60,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
 ---
+Hard Times you had before you
+I knew when I first saw you
+You girl you've always been mistreated, cheated
 
+So leave it all behind you
+It took so long to find you
+I know that we can last forever, ever and more, more, oh
+
+
+Don't cry now that I've found you
+Don't cry take a look around you
+Don't cry it took so long to find you
+Do what you want, but little darling please, don't cry
+
+I knew I'd never doubt it
+I was so sure about it
+Don't think of all that's been before
+
+I'll hear you when you're calling
+I'll catch you when you're falling
+Don't worry I will always be there
+Like never before, oh, oh

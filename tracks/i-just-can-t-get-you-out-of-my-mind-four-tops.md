@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-can-t-get-you-out-of-my-mind-four-tops
+lyrics_url: https://genius.com/The-four-tops-i-just-cant-get-you-out-of-my-mind-lyrics
 name: I Just Can't Get You Out Of My Mind
 rankings:
 - end_date: '1974-02-01'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
 ---
+Call me, were the last words I remember
+Then the spring became December
+And I still got no reply
 
+Politely, I would ask whoever knew ya
+What it was that I did to ya
+But they all knew less than I
+
+If this letter doesn't make it clear
+Its been a cold and lonely year
+In my empty bed, in my head I can feel you near
+
+Oh, I just can't get you out of my mind
+Don't you have a heart, I've served my time
+Oh, it just ain't right what I'm goin' through
+Ten to one, I'm bettin', girl there's no forgettin' you
+
+It's funny on the outside love was showin'
+And I had no way of knowin'
+You were all mixed up inside
+
+Oh baby, if we'd only done some talkin'
+You could've saved yourself some walkin'
+Well, I guess they call that pride
+
+I swear you haven't been away too long
+I can still hear your favorite song
+This was once your home, on my own now, it feels all wrong
+
+Oh, I just can't get you out of my mind
+Don't you have a heart, I've served my time
+Oh, it just ain't right what I'm goin' through
+Ten to one, I'm bettin', girl there's no forgettin' you
+
+Oh, baby  oh sugar
+If this letter doesn't make it clear
+It's been a cold and lonely year
+In my empty bed, in my head I can feel you near
+
+Oh, I just can't get you out of my mind
+Don't you have a heart, I've served my time
+Oh, it just ain't right what I'm goin' through
+Ten to one, I'm bettin', girl there's no forgettin' you
+
+Oh, I just can't get you out of my mind
+Don't you have a heart, I've served my time
+Oh, it just ain't right what I'm goin' through
+Ten to one, I'm bettin', girl there's no forgettin' you

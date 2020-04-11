@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everytime-britney-spears
+lyrics_url: https://www.musixmatch.com/lyrics/Britney-Spears/Everytime
 name: Everytime
 rankings:
 - end_date: '2004-05-28'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-18'
 ---
+Notice me
+Take my hand
+Why are we
+Strangers when
+Our love is strong?
+Why carry on without me?
 
+Every time I try to fly I fall
+Without my wings
+I feel so small
+I guess I need you, baby
+And every time I see
+You in my dreams
+I see your face
+It's haunting me
+I guess I need you, baby
+
+I make-believe
+That you are here
+It's the only way
+I see clear
+What have I done?
+You seem to move on easy
+
+And every time I try to fly I fall
+Without my wings
+I feel so small
+I guess I need you, baby
+And every time I see
+You in my dreams
+I see your face
+You're haunting me
+I guess I need you, baby
+
+I may have made it rain
+Please, forgive me
+My weakness caused you pain
+And this song's my sorry
+
+At night I pray
+That soon your face will fade away
+
+And every time I try to fly I fall
+Without my wings
+I feel so small
+I guess I need you, baby
+And every time I see
+You in my dreams
+I see your face
+You're haunting me
+I guess I need you, baby

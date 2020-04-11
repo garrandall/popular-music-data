@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-i-promise-you--n-sync
+lyrics_url: https://genius.com/Nsync-this-i-promise-you-lyrics
 name: This I Promise You
 rankings:
 - end_date: '2000-10-06'
@@ -111,4 +112,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
 ---
+When the visions around you
+Bring tears to your eyes
+And all that surrounds you
+Are secrets and lies
+I'll be your strength
+I'll give you hope
+Keeping your faith when it's gone
+The one you should call
+Was standing there all along
 
+
+And I will take you in my arms
+And hold you right where you belong
+Til' the day my life is through
+This I promise you
+This I promise you
+
+
+I've loved you forever
+In lifetimes before
+And I promise you never
+Will you hurt anymore
+I give you my word
+I give you my heart (give you my heart)
+This is a battle we've won
+And with this vow
+Forever has now begun
+
+
+Just close your eyes (close your eyes)
+Each loving day
+I know this feeling won't go away (no)
+Till the day my life is through
+This I promise you..
+This I promise you..
+
+
+Over and over I fall
+(Over and over I fall)
+When I hear you call
+Without you in my life, baby
+I just wouldn't be living at all
+
+
+And I will take you in my arms
+(I will take you in my arms)
+And hold you right where you belong
+(Right where you belong)
+Til' the day my life is through
+This I promise you, baby
+Just close your eyes
+Each loving day (each loving day)
+I know this feeling won't go away (no)
+Every word I say is true
+This I promise you
+
+
+Every word I say is true
+This I promise you
+Ooh, I promise you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: questions-bang
+lyrics_url: https://genius.com/Bang-questions-lyrics
 name: Questions
 rankings:
 - end_date: '1972-04-28'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
 ---
+Have you ever felt the night
+Felt the wind around you
+Have you read a book or two
+Or have books been reading you
 
+Do clothes affect your mental health
+Are your boots reheeled
+Could you lead a life of wealth
+Delivered wrapped and sealed
+
+Questions all around me
+Questions bring me down
+Questions all around me
+Questions bring me down
+
+Must you be a superstar
+To find your means of living
+Does it matter who you are
+Can't you stomach giving
+
+La la la la la la la la la la la la
+
+Questions all abound me
+Questions bring me down
+Questions all around me
+Questions bring me down

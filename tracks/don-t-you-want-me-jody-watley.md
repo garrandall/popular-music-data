@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-want-me-jody-watley
+lyrics_url: https://genius.com/Jody-watley-dont-you-want-me-lyrics
 name: Don't You Want Me
 rankings:
 - end_date: '1987-10-09'
@@ -99,4 +100,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
 ---
+When I first laid my eyes upon you
+I knew right then and there you were the one
+Eyes so deep, you sent me melting
+And then you smiled as though to say, "oh yeah"
 
+
+But then you seemed to change your mind
+You looked away like you were oh, so shy
+Is the game you're playing hard to get
+Won't you tell me, oh ho
+
+
+Want me, don't you want me
+To touch you and to hold you tight
+Don't you want me like I want you
+To kiss and love all through the night
+
+
+I'd like to know more than just your name
+Did you come here alone or with someone
+If only you would open up
+And let me know just where you're coming from
+
+
+Are you looking for a new love
+Or does commitment seem to bring you down
+Is that a look of "yes" or is it "no"?
+Please don't tease me, oh
+
+
+Want me, don't you want me
+To touch you and to hold you tight
+Don't you want me like I want you
+To kiss and love all through the night
+
+Oh woah, yeah
+Don't you want me?
+Oh woah, yeah
+Don't you want me?
+
+
+Want me, don't you want me
+To touch you and to hold you tight
+Don't you want me like I want you
+To kiss and love all through the night
+
+
+Are you looking for a new love
+Or does commitment seem to bring you down
+Is that a look of "yes" or is it "no"?
+Please don't tease me, oh
+
+
+Want me, don't you want me
+To touch you and to hold you tight
+Don't you want me like I want you
+To kiss and love all through the night
+
+Want me, don't you want me
+To touch you and to hold you tight
+Don't you want me like I want you
+To kiss and love all through the night
+
+
+Want me (oh woah), don't you want me (yeah)
+(Don't you want me?)
+Want me (oh woah), don't you want me (yeah, yeah)
+(Don't you want me?)

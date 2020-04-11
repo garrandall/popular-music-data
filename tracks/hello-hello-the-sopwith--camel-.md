@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hello-hello-the-sopwith--camel-
+lyrics_url: https://genius.com/The-sopwith-camel-hello-hello-lyrics
 name: Hello Hello
 rankings:
 - end_date: '1966-12-30'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
 ---
-
+The Sopwith Camel
+Miscellaneous
+Hello Hello
+HELLO HELLO
+THE SOPWITH "CAMEL"
+Hello hello
+I like your smile
+Hello hello
+Shall we talk awhile?
+Would you like some of my tangerine?
+I know I'll never treat you mean
+Never knew how I'd meet you
+Didn't know how to greet you
+When I saw you look that way
+I knew I had to say
+Hello hello hello hello
+You've got pretty hair
+Hello hello
+Can'tcha tell I care?
+Would you like some of my tangerine?
+I know I'll never treat you mean
+Always longed to say I love you
+Always been too high above you
+Now I'm not so far away
+Now at last I can say
+Hello hello Hello Hello

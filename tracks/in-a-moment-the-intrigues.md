@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-moment-the-intrigues
+lyrics_url: https://www.musixmatch.com/lyrics/The-Intrigues/In-a-Moment
 name: In A Moment
 rankings:
 - end_date: '1969-08-08'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+In a moment
+In a moment I can see
+In a moment
+In a moment I can feel
+In a moment
+In a moment I can tell
 
+I know you love me awww you love me so hey hey
+And that you'll always follow everywhere I go hey girl
+Hey hey heyevery day. since you have gone away
+Don't you know that I love you, love you, love you, love you,
+Love you girl I love you so awwww
+
+In a moment... I can see, feel tell.
+
+I know you need me awww you need me so
+Oh yeah and that you'll always follow everywhere I go
+Hey girl hey hey hey everyday since you have gone away
+Don't you know that I love you, love you, love you, love you,
+Love you girl I love you so awww
+
+Chorus
+
+In a moment...
+
+La la la shoo bop, shoo bop, shoo bop
+La la la la la la

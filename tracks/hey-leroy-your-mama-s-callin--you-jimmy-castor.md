@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-leroy-your-mama-s-callin--you-jimmy-castor
+lyrics_url: https://genius.com/Jimmy-castor-hey-leroy-your-mamas-callin-you-lyrics
 name: Hey Leroy Your Mama's Callin' You
 rankings:
 - end_date: '1967-01-06'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
 ---
+Hey, Leroy
+What
+Your Mama, she's calling you, man
+Go to your Mama
+Go to your Mama
+Go to your Mama
+Go to your Mama
+Go to your Mama
+Go to your Mama
+Go to your Mama
 
+Hey, Leroy
+What
+Your Mama, she's calling you
+She's mad, man
+
+Hey, Leroy
+Are you done, man
+Your Mommy's walkin' down there
+Go to your Mama
+Go to your Mama
+Go to your Mama

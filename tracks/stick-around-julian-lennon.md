@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stick-around-julian-lennon
+lyrics_url: https://genius.com/Julian-lennon-stick-around-lyrics
 name: Stick Around
 rankings:
 - end_date: '1986-03-28'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
 ---
+If you want to tell me something new
+I might stick around
+If you want to say that I trust you
+I might stick around
 
+If you disappear
+Then nothing will be clear, ah
+And if you go away
+Then where am I to stay, ah
+To stay, ah
+
+If you say your love won't bring me down
+I might stick around
+If I kiss your lips just one more time
+I could lose control
+
+If you disappear
+Then nothing will be clear, ah
+And if you go away
+Then where am I to stay, ah
+To stay, ah
+
+If I breathe your scent just one more time
+I could be controlled
+If you tempt me with your final sins
+I could be controlled
+
+If you disappear
+Then nothing will be clear, ah
+And if you go away
+Then where am I to stay, ah
+To stay, ah...(repeat and fade)

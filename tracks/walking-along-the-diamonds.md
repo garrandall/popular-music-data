@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-along-the-diamonds
+lyrics_url: https://genius.com/The-diamonds-walking-along-lyrics
 name: Walking Along
 rankings:
 - end_date: '1958-11-02'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
 ---
-
+The Diamonds
+Miscellaneous
+Walking Along
+Walkin' Along
+The Diamonds
+Walkin' along my merry way
+Singin' a song I will be gay
+I found a love and love is here to stay
+Walking along just feeling glad
+Singin' a song I won't be sad
+Oh, happy day
+I'm just walkin' along
+When I'm walkin' feel just like a king
+When I'm singin' don't care 'bout a thing
+The reason I feel the way I do
+You love me, whoo
+I love you, who-ooh
+Walkin' along my merry way
+Singin' a song I will be gay
+Oh, happy day
+I'm just walkin' along

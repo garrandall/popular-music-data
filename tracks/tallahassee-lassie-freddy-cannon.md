@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tallahassee-lassie-freddy-cannon
+lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/Tallahassee-Lassie
 name: Tallahassee Lassie
 rankings:
 - end_date: '1959-05-17'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
 ---
+Well, she comes from Tallahassee, whoa
+She got a hi-fi chassis, whoa
+Maybe looks a little sassy, whoa
+But to me she's real classy, whoa
+Yeah, my Tallahassee Lassie
+Down in F-L-A
 
+Well, she's rompin' to the drag
+The cha-cha, rag-a-mop
+Stompin' to the shag, whoa
+Rocks the bunny hop
+
+(Oo, oo)
+(Oo, oo)
+
+Well, she dances to the bop
+She dances to the stroll
+She dances to the walk, whoa
+She can rock 'n' roll
+
+She's my Tallahassee lassie, whoa
+Yeah, my Tallahassee lassie, whoa
+She's my Tallahassee lassie
+Down in F-L-A
+
+Well, she's rompin' to the drag
+The cha-cha, rag-a-mop
+Stompin' to the shag, whoa
+Rocks the bunny hop
+
+(Oo, oo)
+(Oo, oo)
+
+Well, she dances to the bop
+She dances to the stroll
+She dances to the walk, whoa
+She can rock 'n' roll
+
+She's my Tallahassee lassie, whoa
+Yeah, my Tallahassee lassie, whoa
+She's my Tallahassee lassie
+Down in F-L-A
+
+Come on, baby
+Come on, honey
+Yeah, come on, sugar
+Come on, baby
+
+Come on, baby
+Come on, honey
+Yeah, come on, sugar
+Come on, baby
+
+Come on, baby
+Come on, honey
+Yeah, come on, sugar
+Come on, baby

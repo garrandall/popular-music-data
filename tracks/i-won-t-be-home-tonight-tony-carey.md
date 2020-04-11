@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-won-t-be-home-tonight-tony-carey
+lyrics_url: https://genius.com/Tony-carey-i-wont-be-home-tonight-lyrics
 name: I Won't Be Home Tonight
 rankings:
 - end_date: '1983-04-01'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
+I Won't Be Home Tonight
 
+Do you think I'd come runnin at the drop of a hat?
+Oh baby don't you know me any better than that?
+You're hot one minute, and gone the next
+So tell me what do you expect?
+
+You're standin' there tellin' me you're home for good
+Did you think I'd believe it? did you think I would?
+You can turn it right around, where you come from
+'cause you and me are over and done
+
+Chorus
+
+I won't be home tonight
+I'll get along just fine without you
+Don't bother callin' me tonight
+Oh baby take it somewhere else
+
+Take it somewhere else
+
+Oh you think it's so easy, all you ever gotta do
+To make every man roll over for you
+You tell 'em something nice, show your baby blues
+But baby I've got news for you
+
+I won't be home tonight
+I'll get along just fine without you
+Don't bother callin' me tonight
+Oh baby take it somewhere else
+
+Somewhere else
+Baby take it somewhere else
+Take it somewhere else
+
+I won't be home tonight
+I'll get along just fine without you
+Don't bother callin' me tonight
+Oh baby take it somewhere else
+I won't be home tonight
+I'll get along just fine without you
+Don't bother callin' me tonight
+Oh baby take it somewhere else

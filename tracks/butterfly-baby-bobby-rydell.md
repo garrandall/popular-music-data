@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: butterfly-baby-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-butterfly-baby-lyrics
 name: Butterfly Baby
 rankings:
 - end_date: '1963-02-15'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
 ---
+Butterfly Baby
+Bobby Rydell
 
+#23 in 1963
+
+Butterfly Baby, lookin' around
+Flyin' like crazy, all over town
+Oh you little Butterfly Baby, I'll hang around
+Hopin' that maybe someday you'll settle down
+When you're done and there's only one
+Who will your honey be?
+Hear my plea, won't you let it be:
+Me, it better be me!
+Butterfly Baby, 'bout time you knew:
+I love you like crazy, I love only you
+Oh you little Butterfly Baby when will you see
+Butterfly Baby, oooo, you've got a trial with me
+----------
+When you're done and there's only one
+Who will your honey be?
+Hear my plea won't you let it be
+Me, it better be me!
+Butterfly Baby, when you are free
+You'll be my baby, ya, exclusively
+Oh you little Butterfly Baby, then you will see
+Butterfly Baby, oooo, you'll only fly with me
+Wa-ooooo, wa-ooooo
+Wa-ooooo, wa-ooooo
+Wa-ooooo, wa-ooooo
+Wa-ooooo. . .

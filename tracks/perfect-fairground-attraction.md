@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: perfect-fairground-attraction
+lyrics_url: https://genius.com/Fairground-attraction-perfect-lyrics
 name: Perfect
 rankings:
 - end_date: '1988-12-23'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
+I don't want half-hearted love affairs
+I need someone who really cares
+Life is too short to play silly games
+I've promised myself I won't do that again
 
+It's got to be perfect
+It's got to be worth it, yeah
+Too many people take second best
+Well I won't take anything less
+It's got to be, yeah, perfect
+
+Young hearts are foolish, they make such mistakes
+They're much too eager to give their love away
+Well, I have been foolish too many times
+Now I'm determined, I'm gonna get it right
+
+It's got to be perfect
+It's got to be worth it, yeah
+Too many people take second best
+Well I won't take anything less
+It's got to be, yeah, perfect
+
+Young hearts are foolish, they make such mistakes
+They're much too eager to give their love away
+Well, I have been foolish too many times
+Now I'm determined, I'm gonna get it right
+
+It's got to be perfect
+It's got to be worth it, yeah
+Too many people take second best
+Well I won't take anything less
+It's got to be, yeah, perfect
+
+It's got to be, yeah, worth it
+It's got to be perfect

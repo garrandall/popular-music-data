@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wheel-in-the-sky-journey
+lyrics_url: https://genius.com/Journey-wheel-in-the-sky-lyrics
 name: Wheel In The Sky
 rankings:
 - end_date: '1978-04-14'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
 ---
+Winter is here again, oh lord
+Haven't been home in a year or more
+I hope she holds on a little longer
+Sent a letter on a long summer day
+Made of silver, not of clay
+Ooh, I've been running down this dusty road
 
+
+Ooh, the wheel in the sky keeps on turning
+I don't know where I'll be tomorrow
+Wheel in the sky keeps on turning
+
+
+I've been trying to make it home
+Got to make it before too long
+Ooh, I can't take this very much longer, no
+I'm standing in the sleet and rain
+Don't think I'm ever gonna make it home again
+The morning sun is rising
+It's kissing the day
+
+
+Ooh, the wheel in the sky keeps on turning
+I don't know where I'll be tomorrow
+Wheel in the sky keeps on turning
+Whoa, whoa, whoa
+My, my, my, my, my
+For Tomorrow
+
+
+
+
+Oh, the wheel in the sky keeps on turning
+Ooh, I don't know where I'll be tomorrow
+Wheel in the sky keeps me yearning
+Ooh, I don't know, I don't know, whoa
+
+
+Oh, the wheel in the sky keeps on turning
+Ooh, I don't know where I'll be tomorrow
+Wheel in the sky keeps on turning
+Ooh, I don't know, I don't know, I don't know, whoa
+
+
+Wheel in the sky keeps on turning
+Don't know where I'll be tomorrow
+Ooh, the wheel in the sky keeps turning
+Wheel in the sky keeps on turning

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-a-mistake-men-at-work
+lyrics_url: https://genius.com/Men-at-work-its-a-mistake-lyrics
 name: It's A Mistake
 rankings:
 - end_date: '1983-07-08'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
 ---
+Jump down the shelters to get away
+The boys are cockin' up their guns
+Tell us general, is it party time?
+If it is, can we all come?
 
+Don't think that we don't know
+Don't think that we're not trying
+Don't think we move too slow
+It's no use after crying
+
+Saying it's a mistake
+It's a mistake
+It's a mistake
+It's a mistake
+
+After the laughter has died away
+And all the boys have had their fun
+No surface noise now, not much to say
+They got the bad guys on the run
+
+Don't try to say you're sorry
+Don't say he drew his gun
+They've gone and grabbed old Ronnie
+He's not the only one
+
+Saying it's a mistake
+It's a mistake
+It's a mistake
+It's a mistake
+
+Tell us, commander, what do you think?
+'Cos we know that you love all that power
+Is it on then, are we on the brink?
+We wish you'd all throw in the towel
+
+We'll not fade out too soon
+Not in this finest hour
+Whistle your favourite tune
+We'll send a card and flower
+
+Saying it's a mistake
+It's a mistake
+It's a mistake
+It's a mistake, oh
+
+It's a mistake (it's a mistake)
+It's a mistake (it's a mistake)
+It's a mistake (it's a mistake)
+It's a mistake (it's a mistake)
+It's a mistake (it's a mistake)
+It's a mistake (it's a mistake)
+It's a mistake, it's a mistake
+(It's a mistake)

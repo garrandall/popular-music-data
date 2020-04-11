@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smack-my-bitch-up-the-prodigy
+lyrics_url: https://genius.com/The-prodigy-smack-my-bitch-up-lyrics
 name: Smack My Bitch Up
 rankings:
 - end_date: '1997-12-26'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
 ---
+(Like this)
 
+Change my pitch up
+Smack my bitch up
+Change my pitch up
+Smack my bitch up
+(Like this)
+
+Change my pitch up
+Smack my bitch up
+Change my pitch up
+Smack my bitch up
+(Like this)
+
+(Like this)
+
+(Like this)
+
+Smack my bitch up
+
+(Like this)
+
+(Like this)
+
+Smack my bitch up
+
+(Like this)
+
+(Like this)
+
+Change my pitch up
+Smack my bitch up
+Change my pitch up
+Smack my bitch up
+(Like this)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: steal-away-robbie-dupree
+lyrics_url: https://genius.com/Robbie-dupree-steal-away-lyrics
 name: Steal Away
 rankings:
 - end_date: '1980-04-18'
@@ -99,4 +100,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+Come on and hold me
+Just like you told me
+Then show me
+What I want to know
 
+
+Why don't we steal away
+Why don't we steal away
+Into the night
+I know it ain't right
+
+
+Don't tease me
+Why don't you please me
+And show me
+What you came here for
+
+
+Why don't we steal away
+Why don't we steal away
+Into the night
+I know it ain't right
+
+
+Into the night, babe
+Baby, tonight
+Ooh
+
+
+I caught you glancing my way
+And I know what you're after
+No second chances tonight
+
+
+Why don't we steal away
+Why don't we steal away
+Why don't we steal away
+Why don't we steal away
+
+
+Into the night
+I know it ain't right
+Into the night
+I know it ain't right
+
+
+Why don't we steal away
+I know it ain't right
+Into the night, babe
+
+Why don't we steal away
+Make it tonight
+Why don't we steal away

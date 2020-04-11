@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-do-i-love-you-so-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-why-do-i-love-you-so-lyrics
 name: Why Do I Love You So
 rankings:
 - end_date: '1960-01-24'
@@ -63,4 +64,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+Oooo - Oooo - Oooo - Oooo.......
 
+My darlin' I have often thought of things we used to do
+And now I sit and wonder why you're gone and left me blue
+You said you'd never leave me, you said you'd never go
+
+Oh my darlin', why do I love you so?
+Oh my darlin', why do I love you so?
+
+Oooo - Oooo - Oooo - Oooo.......
+
+Is it because you stroked my hair when you were by my side?
+Or is it because of the tears you cried when your little puppy died?
+You said you'd never leave me, you said you'd never go
+
+Oh my darlin', why do I love you so?
+Oh my darlin', why do I love you so?
+
+Oooo - Oooo - Oooo - Oooo.......

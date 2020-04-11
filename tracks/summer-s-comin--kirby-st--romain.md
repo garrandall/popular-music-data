@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-s-comin--kirby-st--romain
+lyrics_url: https://www.musixmatch.com/lyrics/Kirby-St-Romain/Summer-s-Comin
 name: Summer's Comin'
 rankings:
 - end_date: '1963-06-21'
@@ -35,4 +36,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
+Summer's really coming
+Summer's on it's way
+No more hearing that school bell ring
+School let out today
+Summer's really coming
+I got myself a date
+Lots of swinging parties and having fun
+I think I'm gonna stay out late
+Spend all day at the swimming pool
+Getting tan and keeping cool
 
+Climb in we're gonna drive all over town
+Spend all day at the swimming pool
+Getting tan and keeping cool
+Spend the whole day messing 'round
+Climb in we're gonna drive all over town
+Summer's really coming
+Summer's on it's way
+No more hearing that school bell ring
+School let out today

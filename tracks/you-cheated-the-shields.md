@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-cheated-the-shields
+lyrics_url: https://genius.com/The-shields-soul-you-cheated-lyrics
 name: You Cheated
 rankings:
 - end_date: '1958-08-31'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
-
+You cheated, you lied
+You said that you love me
+You cheated, you lied
+You said that you want me
+Oh, what can I do
+But just keep on loving you?
+Love is something you know nothing about
+Love is somethng you can't throw about
+So please try to love me
+Love me like I love you
+Oh, please try to love me
+Love me like I love you
+You cheated, you lied
+You said that you want me
+You cheated, you lied
+You said that you love me
+Oh, what can I do?
+Oh, what can I do?
+Oh, what can I do?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--little-angel-ray-smith
+lyrics_url: https://genius.com/Ray-smith-rockin-little-angel-lyrics
 name: Rockin' Little Angel
 rankings:
 - end_date: '1960-01-10'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+Rockin' little angel
+Come down from the sky
+Down from the sky
+Come on down from the sky
+Rockin' little angel
+Come down from the sky
+Come on down and stop a-teasing me
+(Come on down, stop teasing me}
 
+(Stop teasing little angel)
+(Stop teasing little angel)
+
+Rockin' little angel, I love you so
+I love you so, I love you so
+Rockin' little angel
+I love you so
+I want the whole wide world to know
+(I want the whole wide world to know}
+
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Come on down and stop a-teasing me
+(Come on down and stop teasing me}
+
+Rockin' little angel, you're oh so sweet
+You're oh so sweet, you're oh so sweet
+Rockin little angel, you're oh so sweet
+Why don't you make my life complete
+(Come on and make my life complete}
+
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Come on down and stop a-teasin' me
+(Come on down and stop teasin' me}
+
+(Stop teasin' little angel)
+(Stop teasin' little angel)
+
+Rockin' little angel
+With your honey-drippin lips
+Your honey-drippin lips
+With your honey-drippin lips
+Rockin' little angel
+With your honey-drippin lips
+Let me kiss away my blues
+(Let me kiss away my blues}
+
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Rock (rock) rock (rock}
+Little angel
+Come on down and stop a-teasin' me
+(Come on down and stop teasin' me}

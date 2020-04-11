@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-with-me-debelah-morgan
+lyrics_url: https://genius.com/Debelah-morgan-dance-with-me-lyrics
 name: Dance With Me
 rankings:
 - end_date: '2000-08-04'
@@ -123,4 +124,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
 ---
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away
 
+
+What I really wanna do is just dance with you
+And feel your body tight
+Show you how to do it right
+I can show you every move
+I know just what to do
+Each step we do is so fine
+One dance and you'll be mine
+
+
+So baby, when we hit the floor
+You'll be asking for more
+Let's make love
+And dance the night away
+
+
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away
+
+
+Oh, put your hand in mine (hand in mine)
+Promise I'll take my time (take my time)
+We'll dance from head to toe (head to toe)
+I can dance fast or slow (fast or slow)
+Baby, look into my eyes (into my eyes)
+Let the music hypnotize (hypnotize)
+Let our bodies synchronize (let our bodies synchronize)
+When we're dancing you'll be mine (you'll be mine)
+
+
+So baby, when we hit the floor
+You'll be asking for more
+Let's make love
+And dance the night away
+
+
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy (let's go crazy)
+The night is young and so are we
+Let's make love and dance the night away
+
+
+Oh, when it comes to dancing
+I know how to move
+When it comes to passion
+I know just what to do
+I feel the music inside
+I feel like I am alive
+The tempo is right
+Let's make love and dance the night away
+
+
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away
+Oh, come and dance with me, my baby
+Let's dance 'till we go crazy
+The night is young and so are we
+Let's make love and dance the night away

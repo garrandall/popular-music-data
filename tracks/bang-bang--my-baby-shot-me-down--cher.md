@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-bang--my-baby-shot-me-down--cher
+lyrics_url: https://genius.com/Cherry-2-bang-bang-lyrics
 name: Bang Bang (My Baby Shot Me Down)
 rankings:
 - end_date: '1966-03-18'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
+I was five and he was six
+We rode on horses made of sticks
+I wore black you wore white
+You would always win the fight
 
+Bang bang, you shoot me down
+Bang bang, I hit the ground
+Bang bang, that awful sound
+Bang bang, my baby shoot me down
+
+Seasons came and change the time
+I grew up I called you mine
+You would always laugh and say
+Remember when we used to play
+
+Bang bang, I shot you down
+Bang bang, you hit the ground
+Bang bang, that awful sound
+Bang bang, I used to shoot you down
+
+Music played and people sang
+Just for me the church bells rang…
+
+Now he's gone I don't know why
+And 'till these days sometimes I cry
+He didn't say goodbye
+He didn't take the time to lie
+
+Bang bang, he shot me down
+Bang bang, I hit the ground
+Bang bang, that awful sound
+Bang bang, my baby shot me down

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-to-know-tom-petty-and-the-heartbreakers
+lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-i-need-to-know-lyrics
 name: I Need To Know
 rankings:
 - end_date: '1978-06-23'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+Well, the talk on the street says you might go solo
+Good friend of mine saw you leavin' by your back door
 
+
+I need to know (I need to know)
+I need to know (I need to know)
+If you think you're gonna leave, then you better say so
+I need to know (I need to know)
+I need to know (I need to know)
+Because I don't know how long I can hold on
+If you're making me wait, if you're leadin' me on
+I need to know (I need to know)
+I need to know (I need to know)
+
+
+Who would've thought that you'd fall for his line
+All of a sudden, it's me on the outside
+
+
+I need to know (I need to know)
+I need to know (I need to know)
+If you think you're gonna leave, then you better say so
+I need to know (I need to know)
+I need to know (I need to know)
+Because I don't know how long I can hold on
+If you're making me wait, if you're leadin' me on
+I need to know (I need to know)
+I need to know (I need to know)
+
+
+Baby, I need to know (I need to know)
+I need to know (I need to know)
+If you think you're gonna leave, then you better say so
+I need to know (I need to know)
+I need to know (I need to know)
+Because I don't know how long I can hold on
+If you're making me wait, if you're leadin' me on
+I need to know (I need to know)
+I need to know (I need to know)
+Baby, I need to know

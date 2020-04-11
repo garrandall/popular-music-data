@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-only-knows-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-god-only-knows-lyrics
 name: God Only Knows
 rankings:
 - end_date: '1966-08-19'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+I may not always love you
+But as long as there are stars above you
+You never need to doubt it
+I'll make you so sure about it
 
+
+God only knows what I'd be without you
+
+
+If you should ever leave me
+Well, life would still go on, believe me
+The world could show nothing to me
+So what good would living do me?
+
+
+God only knows what I'd be without you
+
+
+
+
+God only knows what I'd be without you
+
+
+If you should ever leave me
+Well, life would still go on, believe me
+The world could show nothing to me
+So what good would living do me?
+
+
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows
+
+
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows
+God only knows what I'd be without you
+God only knows what I'd be without you
+God only knows

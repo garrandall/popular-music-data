@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: addicted-to-love-robert-palmer
+lyrics_url: https://genius.com/Robert-palmer-addicted-to-love-lyrics
 name: Addicted To Love
 rankings:
 - end_date: '1986-02-14'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
 ---
+The lights are on, but you're not home
+Your mind is not your own
+Your heart sweats, your body shakes
+Another kiss is what it takes
 
+You can't sleep, you can't eat
+There's no doubt, you're in deep
+Your throat is tight, you can't breathe
+Another kiss is all you need
+
+
+Whoa, you like to think that you're immune to the stuff, oh yeah
+It's closer to the truth to say you can't get enough
+You know you're going to have to face it, you're addicted to love
+
+
+You see the signs, but you can't read
+You're running at a different speed
+Your heart beats in double time
+Another kiss and you'll be mine
+
+A one-track mind, you can't be saved
+Oblivion is all you crave
+If there's some left for you
+You don't mind if you do
+
+
+
+
+Might as well face it, you're addicted to love 
+Your lights are on, but you're not home
+Your will is not your own
+Your heart sweats your teeth grind
+Another kiss and you'll be mine
+
+
+
+
+Might as well face it, you're addicted to love

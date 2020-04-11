@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ready-or-not-after-7
+lyrics_url: https://genius.com/After-7-ready-or-not-lyrics
 name: Ready Or Not
 rankings:
 - end_date: '1990-04-06'
@@ -91,4 +92,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
 ---
+(Verse 1)
+I'll give you the sun, the rain, the moon, the stars and the mountains
+I'll give you the world, and all that you wish for
+And even more
+Girl, I'll love you more than you could know
+And that's for sure
+I'd climb the highest hill, cross the widest sea
+Nothin' could discourage me
+And I pray that you'll be always there for me
+Forevermore
 
+(Chorus)
+Ready or not
+I'll give you everything and more
+All that I've got, it's yours
+I'll give you everything
+All that you're looking for
+
+(Verse 2)
+I'll give you my heart, my soul, my time, my love is a fountain
+I will be your earth, ooh, and all that you need for
+And even more
+'Cause girl I love you more than words can show
+My love is pure
+I, I'd walk a thousand miles, sail a thousand seas
+Nothin' will discourage me
+And I pray that you will be always there for me
+Forevermore
+
+(Chorus)
+Ready or not
+(Don't you know, don't you know, you should know)
+I'll give you everything (ooh) and more
+(I'll give you more, you've got to know it, baby)
+All that I've got (Baby, it's yours, little girl)
+I'll give you everything (Every little thing)
+All that you're looking for
+
+
+(Bridge)
+Everything is not anything
+If you're not here to share my dreams
+You don't know what it means to me
+If you'll accept my love
+I dedicate my love, my soul
+My heart beats for you
+Girl, I can't get enough so I'll wait for your love
+There's nothing that I'd rather do
+
+(Chorus)
+Ready or not
+I'll give you everything (ooh lady) and more
+(I'll give you more, you've got to know it, baby)
+All that I've got (Hey, it's yours)
+I'll give you everything (It's yours)
+All that you're looking for
+
+Ready or not (oh baby)
+I'll give you everything...(I'm gonna give you, I'm gonna give you some more)...and more (Every little thing that I've got)
+All that I've got (Hey, it's yours)
+I'll give you everything (Every little thing, baby)
+All that you're looking for
+
+Ready or not
+(Don't you know, don't you know, you should know)
+I'll give you everything (ooh) and more

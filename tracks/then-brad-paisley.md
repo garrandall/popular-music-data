@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: then-brad-paisley
+lyrics_url: https://genius.com/Brad-paisley-then-lyrics
 name: Then
 rankings:
 - end_date: '2009-04-10'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-15'
 ---
+I remember trying not to stare
+The night that I first met you
+You had me mesmerized
+And three weeks later
+In the front porch light
+Taking 45 minutes to kiss goodnight
+I hadn't told you yet
+I thought I loved you then
 
+
+Now you're my whole life
+Now you're my whole world
+I just can't believe
+The way I feel about you girl
+Like a river meets the sea
+Stronger than it’s ever been
+We've come so far since that day
+And I thought I loved you then
+
+
+I remember taking you back
+To right where I first met you
+You were so surprised
+There were people around
+But I didn't care
+I got down on one knee right there
+And once again
+I thought I loved you then
+
+
+Now you're my whole life
+Now you're my whole world
+I just can't believe
+The way I feel about you girl
+Like a river meets the sea
+Stronger than it’s ever been
+We've come so far since that day
+And I thought I loved you then
+
+
+I can just see you
+With a baby on the way
+I can just see you
+When your hair is turning grey
+What I can't see
+Is how I'm ever going to love you more
+But I've said that before
+
+
+And now you're my whole life
+Now you're my whole world
+I just can't believe
+The way I feel about you girl
+We'll look back someday
+At this moment that we're in
+And I'll look at you and say
+And I thought I loved you then
+And I thought I loved you then
+
+
+Ooo ooo ooo ooo ooo
+Ooo ooo ooo ooo ooo
+Ooo ooo ooo ooo ooo
+Ooo ooo ooo ooo ooo

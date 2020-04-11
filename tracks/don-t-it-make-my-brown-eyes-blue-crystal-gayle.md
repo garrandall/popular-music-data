@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-it-make-my-brown-eyes-blue-crystal-gayle
+lyrics_url: https://genius.com/Crystal-gayle-dont-it-make-my-brown-eyes-blue-lyrics
 name: Don't It Make My Brown Eyes Blue
 rankings:
 - end_date: '1977-08-19'
@@ -111,4 +112,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
 ---
+Don't know when I've been so blue
+Don't know what's come over you
+You've found someone new
+And don't it make my brown eyes blue
 
+I'll be fine when you're gone
+I'll just cry all night long, say it isn't true
+And don't it make my brown eyes blue
+
+Tell me no secrets, tell me some lies
+Give me no reasons, give me alibis
+Tell me you love me and don't let me cry
+Say anything but don't say goodbye
+
+I didn't mean to treat you bad
+Didn't know just what I had
+But honey now I do
+And don't it make my brown eyes
+Don't it make my brown eyes
+Don't it make my brown eyes blue
+
+Don't it make my brown eyes
+Don't it make my brown eyes
+Don't it make my brown eyes blue

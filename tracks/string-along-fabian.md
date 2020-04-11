@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: string-along-fabian
+lyrics_url: https://genius.com/Fabian-string-along-lyrics
 name: String Along
 rankings:
 - end_date: '1960-02-28'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
 ---
-
+String Along
+-Artist: Ricky Nelson
+- peak Billboard position # 25 in 1963
+- Words and Music by Booby Doyle and J. Duncan
+String along, that's all I am is just your
+String along, someone that you just seem to
+Bring along whenever you are all alone, need some company
+You always turn to me
+String along (string along), that's all I do is sorta
+String along (string along), you never seem to notice
+I'm along, I just want you to want me, too
+How I hope and pray that you'll need me some day
+String along, that's all I am is just your
+String along, someone that you just seem to
+Bring along whenever you are all alone, need some company
+You always turn to me
+Treat me wrong (treat me wrong) and maybe soon you'll lose
+Your string along (string along), someone may come and bring a
+Love that's strong, and wanna string along with me
+Find somebody new, won't treat me like you do
+String along (string along)
+FADE
+That's all I am is just your
+String along, someone that you just seem to
+Bring along

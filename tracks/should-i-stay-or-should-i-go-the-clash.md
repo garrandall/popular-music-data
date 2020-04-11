@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: should-i-stay-or-should-i-go-the-clash
+lyrics_url: https://genius.com/The-clash-should-i-stay-or-should-i-go-lyrics
 name: Should I Stay Or Should I Go
 rankings:
 - end_date: '1982-07-23'
@@ -99,4 +100,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
 ---
+Oh!
+Darling, you got to let me know
+Should I stay or should I go?
+If you say that you are mine
+I'll be here till the end of time
+So you got to let me know
+Should I stay or should I go?
 
+
+It's always tease, tease, tease
+You're happy when I'm on my knees
+One day it's fine and next it's black
+So if you want me off your back
+Well, come on and let me know
+Should I stay or should I go?
+
+
+Should I stay or should I go now?
+Should I stay or should I go now?
+If I go, there will be trouble
+And if I stay it will be double
+So come on and let me know
+
+
+This indecision's bugging me (Esta indecisión me molesta)
+If you don't want me, set me free (Si no me quieres, librarme)
+Exactly whom I'm supposed to be (Dígame que tengo ser)
+Don't you know which clothes even fit me? (Sabes que ropa me "quedrá"?)
+Come on and let me know (Me tienes que decir)
+Should I cool it or should I blow? (Me debo ir o quedarme?)
+Split
+
+
+Should I stay or should I go now? (Yo me enfrío o lo soplo)
+Should I stay or should I go now? (Yo me enfrío o lo soplo)
+If I go there will be trouble (Si me voy va a haber peligro)
+And if I stay it will be double (Si me quedo sera el doble)
+So ya gotta let me know (Me tienes que decir)
+Should I cool it or should I blow? (Tengo frío por los ojos)
+Should I stay or should I go now? (Tengo frío por los ojos)
+If I go there will be trouble (Si me voy va haber peligro)
+And if I stay it wil be double (Si me quedo será el doble)
+So ya gotta let me know (Me tienes que decir)
+Should I stay or should I go?

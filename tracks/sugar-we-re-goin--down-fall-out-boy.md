@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-we-re-goin--down-fall-out-boy
+lyrics_url: https://www.musixmatch.com/lyrics/Fall-Out-Boy/Sugar-We-re-Goin-Down-1
 name: Sugar We're Goin' Down
 rankings:
 - end_date: '2005-07-08'
@@ -175,4 +176,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
 ---
+Am I more than you bargained for yet?
+I've been dying to tell you anything you want to hear
+'Cause that's just who I am this week
+Lie in the grass, next to the mausoleum
+I'm just a notch in your bedpost
+But you're just a line in a song
 
+Drop a heart, break a name
+We're always sleeping in, and sleeping for the wrong team
+
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+
+Is this more than you bargained for yet
+Oh don't mind me I'm watching you two from the closet
+Wishing to be the friction in your jeans
+Isn't it messed up how I'm just dying to be him
+I'm just a notch in your bedpost
+But you're just a line in a song
+
+Drop a heart, break a name
+We're always sleeping in, and sleeping for the wrong team
+
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+
+Down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it
+
+We're going down, down
+Down, down
+We're going down, down
+A loaded gun complex, cock it and pull it
+We're going down, down in an earlier round
+And sugar, we're going down swinging
+I'll be your number one with a bullet
+A loaded gun complex, cock it and pull it

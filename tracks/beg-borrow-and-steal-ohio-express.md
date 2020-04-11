@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beg-borrow-and-steal-ohio-express
+lyrics_url: https://www.musixmatch.com/lyrics/Ohio-Express/Beg-Borrow-And-Steal
 name: Beg Borrow And Steal
 rankings:
 - end_date: '1967-10-13'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
 ---
+You threw me out
+The night before last
+And now you want me back
+In your arms again
+You think I'm a fool,
+You treat me like dirt,
+You pull the string and
+Hope I will be your friend
+But I know what's
+On your mind,
+And I'd rather be
+Out in the street,
+Without a dime
 
+And I'd rather Beg, Borrow and Steal,
+I'd rather Beg Borrow and Steal,
+I'd rather Beg, Borrow and Steal,
+Than go back to you, go back to you,
+Than go back to you, go back to you,
+Than go back to you, go back to you...
+
+How long 'dja think
+I'd hang around
+Pretending not to see
+The tricks you pulled on me
+There's only so much
+A man can take before
+His life turns
+Into a tragedy
+So I'm gettin' out now
+While I can,
+Cause I don't want to crawl
+I want to walk out like a man...
+
+And I'd rather Beg, Borrow and Steal,
+I'd rather Beg Borrow and Steal,
+I'd rather Beg, Borrow and Steal,
+Than go back to you, go back to you,
+Than go back to you, go back to you,
+Than go back to you, go back to you...

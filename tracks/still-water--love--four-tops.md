@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-water--love--four-tops
+lyrics_url: https://genius.com/The-four-tops-still-water-love-lyrics
 name: Still Water (Love)
 rankings:
 - end_date: '1970-09-04'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+Come on walk with me
+Take my hand
+Ooooh, oooh oooh
+Ooohh, oooh oooh
+(Still water)
+Still water
+Ahhh, ahhh, ahh
 
+
+Never you mind if I
+Don't tell strangers passing by
+If I don't brag
+If I don't brag or boast
+Click my glass and say a toast
+About my love for you
+How it runs so deep and true
+And yet it's so
+'Cause don't you know, ohh
+
+
+Still waters run deep
+Still waters run deep
+Still waters run deep
+Still waters run deep
+Ooooh
+
+
+Walk with me
+Take my hand
+Still waters
+
+
+Still water
+Walk with me
+Take my hand
+Whoa, whoa, whoa now
+Still waters run deep
+Hey, hey, hey, hey
+Whoa, whoa, whoa now
+Still waters run deep

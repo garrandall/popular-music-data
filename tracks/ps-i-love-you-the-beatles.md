@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ps-i-love-you-the-beatles
+lyrics_url: https://genius.com/The-beatles-ps-i-love-you-lyrics
 name: PS I Love You
 rankings:
 - end_date: '1964-05-15'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+As I write this letter
+Send my love to you
+Remember that I'll always
+Be in love with you
 
+
+Treasure these few words 'til we're together
+Keep all my love forever
+P.S. I love you
+You, you, you
+
+
+I'll be coming home again to you, love
+And 'til the day I do, love
+P.S. I love you
+You, you, you
+
+
+As I write this letter
+Send my love to you
+Remember that I'll always
+Be in love with you
+
+
+Treasure these few words 'til we're together
+Keep all my love forever
+P.S. I love you
+You, you, you
+
+
+As I write this letter (oh)
+Send my love to you
+(You know I want you to)
+Remember that I'll always (yeah)
+Be in love with you
+
+
+I'll be coming home again to you, love
+And 'til the day I do, love
+P.S. I love you
+You, you, you
+
+
+You, you, you
+I love you

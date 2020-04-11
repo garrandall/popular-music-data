@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cab-driver-the-mills-brothers
+lyrics_url: https://genius.com/The-mills-brothers-cab-driver-lyrics
 name: Cab Driver
 rankings:
 - end_date: '1968-02-02'
@@ -67,4 +68,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
 ---
+Cab Driver, drive by Mary's place
+I just wanna chance to see her face
+Don't stop the meter, let it race
+Cab Driver, drive by Mary's place
 
+Cab Driver, once more round the block
+Never mind the ticking of the clock
+I only wish we could have a talk
+Cab Driver, once more round the block
+
+Cab Driver, once more down the street
+There's a little place we used to meet
+That's where I laid my future at her feet
+Cab Driver, once more down the street
+
+Cab Driver, wait here by the door
+Perhaps I'll hold her in my arms once more
+Then thing's will be just like before
+Cab Driver, wait here by the door
+
+Cab Driver, better take me home
+I guess that I was meant to be alone
+I hope God sends me a love one of my own
+Cab Driver, better take me home
+
+Cab Driver, better take me home!

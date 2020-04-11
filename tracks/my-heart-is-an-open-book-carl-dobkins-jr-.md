@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-heart-is-an-open-book-carl-dobkins-jr-
+lyrics_url: https://genius.com/Carl-dobkins-jr-my-heart-is-an-open-book-lyrics
 name: My Heart Is An Open Book
 rankings:
 - end_date: '1959-04-19'
@@ -104,4 +105,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
 ---
+Don't believe all those lies
+Darlin', just believe your eyes and
 
+Look, look, my heart is an open book
+I love nobody but you (ah, ah, ah, ah)
+Look, look, my heart is an open book
+My love is honest and true
+(Doodidit, doodidit, doodidit, doot)
+
+Some jealous so and so (Doodidit, doot)
+Wants us to part (Doodidit, doodidit, doodidit, doot)
+That's why he's tellin' you (Doodidit, doot)
+That I've got a cheatin' heart
+
+Don't believe all those lies
+Darlin', just believe your eyes and
+
+Look, look, my heart is an open book
+I love nobody but you
+(Doodidit, doodidit, doodidit, doot)
+
+Some jealous so and so (Doodidit, doot)
+Wants us to part (Doodidit, doodidit, doodidit, doot)
+That's why he's tellin' you (Doodidit, doot)
+That I've got a cheatin' heart
+
+Don't believe all those lies
+Darlin', just believe your eyes and
+
+Look, look, my heart is an open book
+I love nobody but you
+Nobody but you
+Nobody but you

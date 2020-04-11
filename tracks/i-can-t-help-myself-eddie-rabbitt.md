@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-help-myself-eddie-rabbitt
+lyrics_url: https://genius.com/Eddie-rabbitt-i-cant-help-myself-lyrics
 name: I Can't Help Myself
 rankings:
 - end_date: '1977-07-01'
@@ -43,4 +44,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
 ---
+Thought I was over you thought I could start anew
+I got a new job, new friends on the other side of town
+But here you are again just like a long lost friend
+And when I touched your hand it started all over again
 
+I can't help myself here comes that feeling
+Just like a raging river rushing over me
+No I can't help myself here I go falling
+Head over heels falling for you again
+
+Why does this heart of mine go crazy every time
+When I know down deep inside you don't love me
+But when you're standing there, wind blowing thru your hair
+Well I'm starting to make the same old mistake again
+
+I can't help myself here comes that feeling
+Just like a raging river rushing over me
+No I can't help myself here I go falling
+Head over heels falling for you again
+Head over heels falling for you again

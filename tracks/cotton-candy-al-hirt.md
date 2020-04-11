@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cotton-candy-al-hirt
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Hirt/Cotton-Candy
 name: Cotton Candy
 rankings:
 - end_date: '1964-04-17'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+Ttaseuhan jeo haessal gwa hamkke geudae soneul japanese goseo
+La la la, noraereul bureumyeo dalkomhan deiteu
 
+Geudaeran mal nae seoltang hanseu pun, shubiruppa pparu
+Eoneusae gureum cheoreom keojin naema eum
+
+Geudae neun somsatang naema eumi nogayo
+Mongshil mongshil geudaereul bogoman isseodo nogayo
+
+Bulmyon naragal kka sondae myeon nogeulkka, shubiruppa pparu
+Nun kkam bak sara jimyeon neomu ashiwo
+
+Geudaeneun somsatang ibsure nogayo
+Saljjagib matchun geudaewa nara gabolkka, ttureureureu
+Geudaeneun somsatang naema eumi nogayo
+Mongshil mongshil geudaereul bogoman isseodo nogayo
+
+Kokkeuteul ganjil ganjil geudaega johaseo
+Geudaeneun somsatang, geudaeneun somsatang
+Ibsure nogayo, saljjagib matchun geudaewa nara gabolkka
+Ttureureureu
+
+Geudaeneun somsatang naema eumi nogayo
+Mongshil mongshil geudaereul bogoman isseodo nogayo
+Nogayo, nogayo

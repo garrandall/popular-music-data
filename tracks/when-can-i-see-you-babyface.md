@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-can-i-see-you-babyface
+lyrics_url: https://genius.com/Babyface-when-can-i-see-you-lyrics
 name: When Can I See You
 rankings:
 - end_date: '1994-06-24'
@@ -151,4 +152,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
 ---
+When can my heart beat again?
+When does the pain ever end?
+When do the tears stop from running over?
+When does "you'll get over it" begin?
 
+
+I hear what you're sayin'
+But I swear that it's not making sense
+So when can I see you
+
+
+When can I see you again?
+And when can my heart beat again?
+When can I see you again?
+And when can I breathe once again?
+And when can I see you...
+
+
+When does my someday begin?
+When I'll find someone again?
+And what if I still am not truly over
+What am I supposed to do then, baby, baby?
+
+
+Please hear what I'm sayin'
+Even if, if it's not making sense
+So when can I see you...
+
+
+When can I see you again?
+And when can my heart beat again?
+When can I see you again, baby?
+And when can I breathe once again?
+And when can I see you again?
+
+
+Yeah baby
+Please hear what I'm sayin'
+Even if, if it's not making sense, baby
+So when can I see you again?
+
+
+When can I see you again?
+When can my heart beat again? Baby, yeah
+When can I see you again, baby?
+And when can I breathe once again?
+And when can I see you again?
+
+Again...
+I wanna see you again
+Again...

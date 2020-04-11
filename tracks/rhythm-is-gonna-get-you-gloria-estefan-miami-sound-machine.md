@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: rhythm-is-gonna-get-you-gloria-estefan-miami-sound-machine
+lyrics_url: https://genius.com/Gloria-estefan-and-miami-sound-machine-rhythm-is-gonna-get-you-special-12-dance-mix-lyrics
 name: Rhythm Is Gonna Get You
 rankings:
 - end_date: '1987-06-05'
@@ -76,4 +77,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
 ---
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+Yah ya goh
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+O eh, o eh
+Yah ya goh
 
+At night when you turn off all the lights
+There's no place that you can hide
+Oh no, the rhythm is gonna get'cha
+In bed, throw the covers on your head
+You pretend like you are dead
+But I know it
+The rhythm is gonna get'cha
+
+Rhythm is gonna get'cha
+Rhythm is gonna get'cha
+Rhythm is gonna get you
+The rhythm is gonna get you tonight
+
+No way, you can fight it everyday
+But no matter what you say
+You know it
+The rhythm is gonna get'cha
+No clue, of what's happening to you
+And before this night is through, ooh baby
+The rhythm is gonna get'cha
+
+Rhythm is gonna get'cha
+Rhythm is gonna get'cha
+Rhythm is gonna get you
+The rhythm is gonna get you tonight
+
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+O eh, o eh
+Yah yeh goh
+Yah yeh goh
+Yah yeh goh
+
+Rhythm is gonna get'cha
+Rhythm is gonna get'cha
+Rhythm is gonna get you
+The rhythm is gonna get you
+Rhythm is gonna get'cha
+Rhythm is gonna get'cha
+
+Na na na na na na na na
+Na na na na na na na
+The rhythm is gonna get you
+Na na na na na na na na
+Na na na na na na na
+
+(O eh, o eh), the rhythm is gonna get you
+Na na na na na na na
+(O eh, oo aah), the rhythm is gonna get you
+Na na na na na na na
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+Na na na na na na na
+O eh, o eh, o eh, o eh
+O eh, oo aah, o eh, oo aah
+(O eh, o eh), the rhythm is gonna get you tonight

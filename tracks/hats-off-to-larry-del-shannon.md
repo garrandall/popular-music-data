@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hats-off-to-larry-del-shannon
+lyrics_url: https://genius.com/Del-shannon-hats-off-to-larry-lyrics
 name: Hats Off To Larry
 rankings:
 - end_date: '1961-06-11'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
+Once I had a pretty girl
+Her name it doesn't matter
+She went away with another guy
+Now he won't even look at her
 
+Hats off to Larry
+He broke your heart
+Just like you broke mine
+When you said we must part
+He told you lies
+Now it's your turn to cry-cry-cry
+Now that Larry's said goodbye to you
+
+I know this may sound strange
+I want you back, I think you'll change
+But there's one more thing I got to say
+
+Hats off to Larry
+It may sound cruel
+But you laughed at me
+When you said we were through
+You told me lies
+Now its your turn to cry-cry-cry
+Now that Larry's said goodbye to you

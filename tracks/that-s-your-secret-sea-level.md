@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-your-secret-sea-level
+lyrics_url: https://genius.com/Sea-level-thats-your-secret-lyrics
 name: That's Your Secret
 rankings:
 - end_date: '1978-03-03'
@@ -47,4 +48,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
 ---
+In spurts we live
+Still soft from birth
+Like an invisible shield surrounds us
+So that nothing hurts
 
+But we're born bald and lonely
+And we're knowing one thing only
+But we do it one time
+We want to do it again, yeah
+And when we see it one time
+We want to see it again, and again and again
+
+Fallin' for that trap
+That I laid for myself
+I'm constantly amazed
+Yeah, by the cards I'm dealt
+And it's agonizing reappraisal
+Said Dusty Rhodes
+And he's the American Dream
+
+When you do it one time
+You want to do it again
+And when you see it one time
+You want to see it again, and again, and again and again
+
+That's your secret
+Keep it
+Keep it
+
+That's your secret
+Keep it
+Keep it
+
+
+
+That's your secret
+Keep it
+Keep it
+
+That's your secret
+Keep it
+Keep it
+
+That's your secret
+Keep it
+Keep it
+
+That's your secret
+Keep it...

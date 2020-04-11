@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-can-last-forever-chicago
+lyrics_url: https://genius.com/Chicago-we-can-last-forever-lyrics
 name: We Can Last Forever
 rankings:
 - end_date: '1989-05-19'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
 ---
+Don't turn away
+Because there is something I just want to say
+I need you to stay
+Don't ask me why
+Because I don't even know
+How I gave you my heart, I gave it all to you
+Now there's no way that I can lose
 
+
+Every little look inside your eyes
+Is all it takes to make me realize
+We can last forever
+With every little moment we can share
+Going to let you know how much I care
+I'll always be there
+
+
+Don't walk away
+Because there is something I just got to say:
+I love you today
+Just ask me why
+You're all I'll ever need
+Now that you're in my life
+I really think you should know
+That I never want to let you go
+
+
+Every little look inside your eyes
+Is all it takes to make me realize
+We can last forever
+With every little moment we can share
+Going to let you know how much I care
+Love lift us away
+We can last forever

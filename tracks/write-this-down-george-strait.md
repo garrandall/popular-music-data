@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: write-this-down-george-strait
+lyrics_url: https://genius.com/George-strait-write-this-down-lyrics
 name: Write This Down
 rankings:
 - end_date: '1999-04-30'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
 ---
+I never saw the end in sight
+Fools are kind of blind
+Thought everything was going alright
+But I was running out of time
 
+'Cause you had one foot out the door
+I swear I didn't see
+But if you're really going away
+Here's some final words from me
+
+
+Baby, write this down, take a little note
+To remind you in case you didn't know
+Tell yourself I love you and I don't want you to go
+Write this down
+
+Take my words and read them every day
+Keep them close by, don't you let them fade away
+So you'll remember what I forgot to say
+Write this down
+
+
+I'll sign it at the bottom of the page
+I'll swear under oath
+Cause every single word is true
+And I think you need to know
+
+So use it as a bookmark
+Stick it on your refrigerator door
+Hang it in a picture frame up above the mantel
+Where you'll see it for sure
+
+
+
+
+You can find a chisel, I can find a stone
+Folks will be reading these words long after we're gone
+
+
+
+Oh, I love you and I don't want you to go
+Baby, write this down

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotion-destiny-s-child
+lyrics_url: https://genius.com/Destinys-child-emotion-lyrics
 name: Emotion
 rankings:
 - end_date: '2001-10-05'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
 ---
+Uh, yeah
 
+
+It's over and done, but the heartache lives on inside
+And who is the one you're clinging to instead of me tonight?
+
+
+And where are you now, now that I need you?
+Tears on my pillow, wherever you go, go
+Cry me a river that leads to your ocean
+You'll never see me fall apart
+
+
+In the words of a broken heart, it's just emotions taking me over
+Caught up in sorrow, lost in the song
+But if you don't come back, come home to me, darlin'
+Don't you know, there's no-
+(Nobody left in this world to hold me tight)
+And don't you know, there's no-
+(Nobody left in this world to kiss goodnight)
+Kiss goodnight
+(Goodnight, goodnight)
+
+
+I'm there at your side, a part of all the things you are
+But you gotta find some one else
+You gotta go find your shinning star
+
+
+And where are you now, now that I need you?
+Tears on my pillow, wherever you go, go
+Cry me a river that leads to your ocean
+You'll never see me fall apart
+
+
+In the words of a broken heart, it's just emotions taking me over
+Caught up in sorrow, lost in the song
+But if you don't come back, come home to me, darlin'
+Don't you know, there's no-
+(Nobody left in this world to hold me tight)
+And don't you know, there's no-
+(Nobody left in this world to kiss goodnight)
+Kiss goodnight
+(Goodnight, goodnight)
+
+
+And where are you now, now that I need you?
+Tears on my pillow, wherever you go, go
+Cry me a river that leads to your ocean
+You'll never see me fall apart
+
+
+In the words of a broken heart, it's just emotions taking me over
+Caught up in sorrow, lost in the song
+But if you don't come back, come home to me, darlin'
+Don't you know, there's no-
+(Nobody left in this world to hold me tight)
+And don't you know, there's no-
+(Nobody left in this world to kiss goodnight)
+Kiss goodnight
+(Goodnight, goodnight)

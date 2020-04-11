@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barbara-the-temptations
+lyrics_url: https://genius.com/The-temptations-barbara-lyrics
 name: Barbara
 rankings:
 - end_date: '1960-04-24'
@@ -47,4 +48,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
 ---
+Barbara
+Barbara
+Barbara, my love
 
+If Barbara were an angel
+I pray she'd watch over me
+If Barbara were a queen
+Her servant I would be
+
+If Barbara would be mine
+And wear my high school ring
+Then I'd climb the highest mountain
+Do just anything
+
+If Barbara were the winter chill
+I'd stand out in the cold
+If Barbara were a tree
+Her branches I would hold
+
+If Barbara would love me
+And say that she'd be mine
+I'd swim the deepest ocean
+Stop the hands of time
+
+Barbara please say
+(That you're the one in love with me)
+Don't let me lead
+(This life, this life of misery)
+Oh, oh, oh
+
+Let me kiss your tender lips
+And know your secret charms
+And let me know what real love is
+And hold you in my arms
+
+And if this love I pray for
+Should it all come true
+Then with all my heart, dear
+I'd love no one but you
+
+I'll hold you in my arms
+For now and ever more
+And we will walk together
+Through love's sacred door
+
+Barbara
+Barbara
+Barbara, my love
+
+Barbara
+Barbara
+Barbara, my love
+
+Barbara
+Barbara

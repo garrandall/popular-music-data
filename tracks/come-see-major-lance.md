@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-see-major-lance
+lyrics_url: https://genius.com/Major-lance-come-see-lyrics
 name: Come See
 rankings:
 - end_date: '1965-03-12'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
-
+Hey, mama, won't you come and see
+What the music has done to me
+I just started not so very long
+It seems to come out all in song
+Come now, now or later
+Sing the Mashed Potato
+My feet going beserk
+As I do the New York Jerk
+Come see
+Hey, mama, what you doing now
+Won't you see that I know how
+The beat is blasting on the radio
+Come see before the miracle
+Come look and get?
+As I go back to the old Twist
+Gotta do a little dance now
+Come see
+Yeah, yeah, yeah
+Hey, mama, won't you come and see
+What the music has done to me
+I just started not so very long
+It seems to come out all in song
+Come now, now or later
+Sing the Mashed Potato
+My feet going beserk
+As I do the New York Jerk
+Come see
+Yeah, yeah
+Come see

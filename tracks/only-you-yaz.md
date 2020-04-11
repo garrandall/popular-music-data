@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-you-yaz
+lyrics_url: https://genius.com/Yazoo-only-you-lyrics
 name: Only You
 rankings:
 - end_date: '1983-03-04'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
 ---
+Looking from a window above
+It's like a story of love
+Can you hear me?
+Came back only yesterday
+I'm moving farther away
+Want you near me
 
+
+All I needed was the love you gave
+All I needed for another day
+And all I ever knew
+Only you
+
+
+Sometimes when I think of her name
+When it's only a game
+And I need you
+Listen to the words that you say
+It's getting harder to stay
+When I see you
+
+
+All I needed was the love you gave
+All I needed for another day
+And all I ever knew
+Only you
+All I needed was the love you gave
+All I needed for another day
+And all I ever knew
+Only you
+
+
+This is going to take a long time
+And I wonder what's mine
+Can't take no more (can't take no more)
+Wonder if you'll understand
+It's just the touch of your hand
+Behind a closed door
+
+
+All I needed was the love you gave
+All I needed for another day
+And all I ever knew
+Only you

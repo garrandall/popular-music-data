@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: immigration-man-graham-nash-david-crosby
+lyrics_url: https://genius.com/Graham-nash-immigration-man-lyrics
 name: Immigration Man
 rankings:
 - end_date: '1972-05-12'
@@ -44,4 +45,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
 ---
+There I was at the immigration scene
+Shining and feeling clean, could it be a sin?
+I got stopped by the immigration man
+He said he doesn't know if he can let me in
 
+Let me in, immigration man
+Can I cross your line and pray?
+I can stay another day, won't you let me in, immigration man?
+I won't toe your line today, I can't see it anyway
+
+There he was with his immigration face
+Giving me a paper chase but the sun was coming
+'Cos all at once he looked into my space
+And stamped a number all over my face and he sent me running
+
+Come on and let me in, immigration man
+Can I cross your line and pray?
+I can stay another day, won't you let me in, immigration man?
+I won't toe your line today, I can't see it anyway
+
+Here I am with my immigration form and it's big enough to keep me warm
+When a cold wind's coming, go where you will
+As long as you think you can, you'd better watch out
+Watch out for the man anywhere you're going
+
+Come on and let me in, immigration man
+Can I cross your line and pray?
+I can stay another day, won't you let me in, immigration man?
+I won't toe your line today, I can't see it anyway

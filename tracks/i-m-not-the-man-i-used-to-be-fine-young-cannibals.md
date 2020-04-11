@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-not-the-man-i-used-to-be-fine-young-cannibals
+lyrics_url: https://genius.com/Fine-young-cannibals-im-not-the-man-i-used-to-be-lyrics
 name: I'm Not The Man I Used To Be
 rankings:
 - end_date: '1989-11-17'
@@ -31,4 +32,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-16'
 ---
+When I'm in trouble or out of step
+If my balance has been upset
+Oh, there's a feeling I can't accept
+There's one thing that helps me to forget
 
+
+Wonder what I'm thinking
+Wonder why I'm drinking
+But it's plain to see
+I'm not the man I used to be
+
+
+If life were easy and didn't ask
+Didn't tease me or take things back
+I could start to understand
+What makes me the man I am
+
+
+Wonder what I'm thinking
+Wonder why I'm drinking
+But it's plain to see
+I'm not the man I used to be
+
+
+Oh, it's plain and it's a shame
+I'm not the man I used to be
+
+
+I've lost dreams that won't come back
+Memories fading fast
+I should save the ones I have
+What's the use?
+Most of them are bad
+
+
+Wonder what I'm thinking
+Wonder why I'm drinking
+But it's plain to see
+I'm not the man I used to be
+
+
+Oh, stay and it's a shame
+I can't explain
+But I'm not the man I used to be
+It's a shame, don't know my name
+I can't explain
+I'm not the man I used to be
+Do you know my name?
+Do you, do you need me?
+But I'm not the man...

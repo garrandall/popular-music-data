@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: voo-doo-rachel-sweet
+lyrics_url: https://genius.com/Rachel-sweet-voo-doo-lyrics
 name: Voo Doo
 rankings:
 - end_date: '1983-02-11'
@@ -27,4 +28,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
 ---
+Close your eyes baby, make a wish
+Wanna try, wanna try
+You love the power 'cause I'm flying high
+Flying high
 
+Cast a spell
+Can you read my mind
+Are you surprised
+At what you find?
+
+So don't ask me to dance, voodoo
+'Cause I'm caught in your magic spell
+It's such a spooky romance, voodoo
+You can tell little honey, who can tell? Voodoo
+That you do so well
+
+Close your eyes baby, make a wish
+Do you think of me, think of me
+You've got the power
+Got control of me, mentally, totally
+
+Cast a spell
+Can you read my mind
+Are you surprised
+At what you find?
+
+So don't ask me to dance, voodoo
+'Cause I'm caught in your magic spell
+It's such a spooky romance, voodoo
+You can tell little honey, who can tell?
+Voodoo that you do so well, with the voodoo that you do so well
+
+Hold me in the shadow, touch me in the night
+Something wrong, We'll never feel so right
+Wait for you
+
+So don't ask me to dance, voodoo
+'Cause I'm caught in your magic spell
+It's such a spooky romance, voodoo
+You can tell little honey, who can tell?
+
+So don't ask me to dance, voodoo
+'Cause I'm caught in your magic spell
+It's such a spooky romance, voodoo
+You can tell little honey, who can tell? Voodoo

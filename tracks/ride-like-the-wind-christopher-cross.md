@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ride-like-the-wind-christopher-cross
+lyrics_url: https://genius.com/Christopher-cross-ride-like-the-wind-lyrics
 name: Ride Like The Wind
 rankings:
 - end_date: '1980-02-22'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
 ---
+It is the night
+My body's weak
+I'm on the run
+No time to sleep
+I've got to ride
+Ride like the wind
+To be free again
 
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+I was born the son of a lawless man
+Always spoke my mind with a gun in my hand
+Lived nine lives
+Gunned down ten
+Gonna ride like the wind
+
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+Accused and tried and told to hang
+I was nowhere in sight when the church bells rang
+Never was the kind to do as I was told
+Gonna ride like the wind before I get old
+
+It is the night
+My body's weak
+I'm on the run
+No time to sleep
+I've got to ride
+Ride like the wind
+To be free again
+
+And I've got such a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+And I've got a long way to go
+To make it to the border of Mexico
+So I'll ride like the wind
+Ride like the wind
+
+Gonna ride like the wind
+Ride
+Gonna ride like the wind
+Gonna ride

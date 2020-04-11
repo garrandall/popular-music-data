@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: asia-minor-kokomo
+lyrics_url: https://www.musixmatch.com/lyrics/Kokomo/Asia-Minor
 name: Asia Minor
 rankings:
 - end_date: '1961-02-26'
@@ -63,4 +64,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
 ---
+They say I'm trouble
+They say I'm bad
+They say I'm evil
+And that makes me glad
 
+A dirty no-good
+Down to the bone
+Your worst nightmare
+Can't take me home
+
+So I've got some mischief
+In my blood
+Can you blame me?
+I never got no love
+
+They think I'm callous
+A low-life hood
+I feel so useless
+Misunderstood
+
+Mirror, mirror on the wall
+Who's the baddest of them all?
+Welcome to my wicked world, wicked world
+
+I'm rotten to the core, core
+Rotten to the core
+I'm rotten to the core, core
+Who could ask for more?
+I'm nothing like the kid next—like the kid next door
+I'm rotten to the (core), I'm rotten to the (core)
+I'm rotten to the core.
+
+Call me a schemer
+Call me a freak
+How can you say that?
+I'm just... unique!
+
+What, me? A traitor?
+Ain't got your back?
+Are we not friends?
+What's up with that?
+
+So I'm a misfit
+So I'm a flirt
+I broke your heart?
+I made you hurt?
+
+The past is past
+Forgive, forget
+The truth is...
+You ain't seen nothing yet!
+
+Mirror, mirror on the wall
+Who's the baddest of them all?
+Welcome to my wicked world, wicked world
+
+I'm rotten to the core, core
+Rotten to the core
+I'm rotten to the core, core
+Who could ask for more?
+I'm nothing like the kid next—like the kid next door
+I'm rotten to the (core), I'm rotten to the (core),
+I'm rotten to the core

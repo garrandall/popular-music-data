@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stone-cold-sober-crawler
+lyrics_url: https://www.musixmatch.com/lyrics/CRaWLeR/Stone-Cold-Sober
 name: Stone Cold Sober
 rankings:
 - end_date: '1977-10-21'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
 ---
+Must be something in this life
+Everybody in the world is criminal
+This rat race of a place
+Where we can't live
 
+I don't think
+They can blame us, girl
+They got the wrong idea
+So let's take advantage of
+The freedom they gave us
+Pack our bags and
+Get away from here
+
+
+'Cause you and me, baby
+We have seen this world
+Let's take the next train, child
+Stone cold sober
+Stone cold sober
+
+The stone cold truth
+Is they're all the same
+Waking up one day
+You find that precious thing gone
+
+I don't think that
+We can ever agree
+That there's more to this life
+Than being free
+
+
+
+Stone cold sober
+Stone cold sober
+
+Stone cold sober
+Stone cold sober

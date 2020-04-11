@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-smile-without-you-barry-manilow
+lyrics_url: https://genius.com/Barry-manilow-cant-smile-without-you-lyrics
 name: Can't Smile Without You
 rankings:
 - end_date: '1978-02-10'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
 ---
+You know I can't smile without you
+I can't smile without you
+I can't laugh and I can't sing
+I'm finding it hard to do anything
+You see, I feel sad when you're sad
+I feel glad when you're glad
+If you only knew what I'm going through
+I just can't smile without you
 
+
+You came along just like a song
+And brightened my day
+Who'd have believed that you were part of a dream?
+Now it all seems light-years away
+
+
+And now you know I can't smile without you (No I can't smile without you)
+I can't smile without you
+I can't laugh and I can't sing
+I'm finding it hard to do anything
+You see, I feel sad when you're sad
+I feel glad when you're glad
+If you only knew what I'm going through
+I just can't smile
+
+
+Now some people say happiness takes so very long to find
+Well, I'm finding it hard leaving your love behind me
+
+
+And you see I can't smile without you
+I can't smile without you
+I can't laugh and I can't sing
+I'm finding it hard to do anything
+You see I feel glad when you're glad
+(I feel sad) I feel sad when you're sad
+If you only knew what I'm going through
+I just can't smile without you
+
+
+(Can't smile without you
+Can't smile without you
+Can't laugh and I can't sing
+I'm finding it hard to do anything)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-my-good-fortune-pat-boone
+lyrics_url: https://genius.com/Pat-boone-for-my-good-fortune-lyrics
 name: For My Good Fortune
 rankings:
 - end_date: '1958-09-28'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+I want to clap my hands
+I want to clap my hands
+I want to clap my hands
+For my good fortune
 
+I want to clap my feet
+I want to clap my feet
+I want to clap my feet
+For my good fortune
+
+Each time I hold you
+I'm really in a spin
+You can see without your love
+Just where I might've been
+
+I'm gonna give a shout
+Stand right up and shout
+I'm gonna give a shout
+Clap my feet, clap my hands
+For my good fortune
+
+Each time I hold you
+I'm really in a spin
+You can see without your love
+Just where I might've been
+
+I'm gonna give a shout
+Stand right up and shout
+I'm gonna give a shout
+I'm gonna clap my feet
+I'm gonna clap my hands
+For my good fortune
+
+Yeah
+Oh yeah
+Oh yeah, yeah, yeah

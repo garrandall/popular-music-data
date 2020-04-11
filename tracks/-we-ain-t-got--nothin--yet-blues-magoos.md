@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -we-ain-t-got--nothin--yet-blues-magoos
+lyrics_url: https://genius.com/Blues-magoos-we-aint-got-nothin-yet-lyrics
 name: (We Ain't Got) Nothin' Yet
 rankings:
 - end_date: '1966-12-16'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
+One day you're up and the next day you're down
+You can't face the world with your head to the ground
+The grass is always greener on the other side, they say
+So don't worry, boys, life will be sweet some day
+Oh, oh, oh, oh
+Oh, oh, oh, oh
 
+We made enough mistakes
+But you know we got what it takes
+Oh, we ain't got nothin' yet
+No, we ain't got nothin' yet
+
+Nothin' can hold us and nothin' can keep us down
+And someday our names will be spread all over town
+We can get in while the getting is good
+So make it on your own, yeah, you know that you could
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+
+We got to make the break
+'Cause we got too much at stake
+Oh, we ain't got nothin' yet
+No, we ain't got nothin' yet
+
+We made enough mistakes
+But you know we got what it takes
+Oh, we ain't got nothin' yet
+No, we ain't got nothin' yet

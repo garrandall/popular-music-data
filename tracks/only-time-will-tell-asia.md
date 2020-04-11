@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-time-will-tell-asia
+lyrics_url: https://genius.com/Asia-only-time-will-tell-lyrics
 name: Only Time Will Tell
 rankings:
 - end_date: '1982-07-30'
@@ -63,4 +64,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
 ---
+You're leaving now
+It's in your eyes
+There's no disguising it
+It really comes as no surprise
+To find that you'd planned it all along
 
+
+I see it now
+It comes so clear
+Your insincerity
+And me all starry eyed
+You think that I would have known by now
+
+
+Now, sure as the sun will cross the sky
+This lie is over
+Lost, like the tears that used to tide me over
+
+
+(Only time will tell)
+One thing is sure
+That time will tell
+(Only time will tell)
+If you were wrong
+The brightest ring around the moon
+Will darken when I die
+
+
+Now, sure as the sun will cross the sky
+The lying's over
+Gone, like the tears that used to tide me over
+
+
+You're leaving now
+It's in your eyes
+There's no disguising it
+It really comes as no surprise
+To find that you'd planned it all along
+
+
+(Only time will tell)
+I see it now (Only time will tell)
+It comes so clear
+Your insincerity
+And me all starry-eyed
+You think that I would have known by now
+
+
+Now, sure as the sun will cross the sky
+This lie is over
+Lost, like the tears that used to tide me over
+Over
+Over
+Over
+
+
+(Only time will tell)
+You're on your own (Only time will tell)
+Inside your room
+You're claiming victory
+You were just using me
+And there is no one you can use now
+(Only time will tell)

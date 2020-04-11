@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-big-hurt-miss-toni-fisher
+lyrics_url: https://www.musixmatch.com/lyrics/Miss-Toni-Fisher/The-Big-Hurt
 name: The Big Hurt
 rankings:
 - end_date: '1959-11-22'
@@ -75,4 +76,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
+Now it begins, now that you've gone
+Needles and pins, twilight till dawn
+Watching that clock till you return
+Lighting that torch and watching it burn
 
+Now it begins, day after day
+This is my night, ticking away
+Waiting to hear footsteps that say
+"Love will appear and this time to stay"
+
+Oh, each time you go
+I try to pretend
+It's over at last
+This time the big hurt will end
+
+Now it begins, now that you've gone
+Needles and pins, twilight till dawn
+But if you go, come back again
+I wonder when, oh when will it end?
+The big hurt
+
+The big hurt
+The big hurt

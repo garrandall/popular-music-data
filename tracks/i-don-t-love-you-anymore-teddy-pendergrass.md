@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-love-you-anymore-teddy-pendergrass
+lyrics_url: https://genius.com/Teddy-pendergrass-i-dont-love-you-anymore-lyrics
 name: I Don't Love You Anymore
 rankings:
 - end_date: '1977-05-27'
@@ -63,4 +64,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
 ---
+I don't love you anymore
+It's just that simple
+No, no, no, not like before
+Such a shame, dirty shame
 
+
+We can't work it out
+No, not this time
+We can't be together
+We can only be friends
+
+You gotta respect each other
+You gotta reply to your lover
+It could never be
+It could never be like it was before
+You don't know what I'm talkin' about
+
+
+I don't love you anymore
+It's just that simple
+No, no, no, not like before
+Such a shame, dirty shame
+
+
+I'll take care of my responsibilities
+I'll send you your money
+Every month, you can depend on that
+You better believe that you can
+
+But we can't live together
+This way we'll be much better
+
+Cause you say you never know
+You say you never know
+Where I'm comin' from
+You see I just got to tell ya
+
+
+I don't love you anymore
+It's just that simple
+No, no, no, not like before
+
+I just got to tell ya
+I don't love you anymore
+No, no, no, not like before
+I don't love you anymore
+No, no, no, not like before
+
+
+Said I try, and I try, and I try
+Said I try
+
+I tried being your man
+Tried doing everything that I can
+But we can't make it
+But we can't make it
+We just can't make it
+We just can't make it
+
+Maybe someday
+When we get our heads together
+Well, we can try baby, try baby
+
+
+I don't love you anymore
+No, no, no, not like before
+I don't love you anymore
+No, no, no, not like before
+
+I don't love you anymore
+No, no, no, not like before
+I don't love you anymore

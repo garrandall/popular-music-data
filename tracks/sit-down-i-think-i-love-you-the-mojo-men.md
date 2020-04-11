@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sit-down-i-think-i-love-you-the-mojo-men
+lyrics_url: https://genius.com/The-mojo-men-sit-down-i-think-i-love-you-lyrics
 name: Sit Down I Think I Love You
 rankings:
 - end_date: '1967-02-10'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
 ---
+Sit down, I think I love you
+Anyway, I'd like to try
+I can't stop thinkin' of ya
+If you go I know I'll cry
 
+If you want someone to love ya
+Pretty baby, make it me
+It's not much I'm asking of ya
+Just try me and you'll see
+
+Baby, can't ya see that I'm a desperate man?
+I get high just a-thinkin' about ya
+You know what they say about the bird in the hand?
+And that's why I ain't leavin' without ya
+
+Baby, can't ya see that I'm a desperate man?
+I get high just a-thinkin' about ya
+You know what they say about the bird in the hand?
+And that's why I ain't leavin' without ya
+
+Sit down, I think I love ya
+Anyway, I'd like to try
+I can't stop thinkin' of ya
+If you go I know I'll cry
+
+Sit down, I think I love ya
+Sit down, I think I love ya
+Sit down, I think I love ya
+Sit down, I think I love ya
+Sit down, I think I love ya
+Sit down, I think I love ya

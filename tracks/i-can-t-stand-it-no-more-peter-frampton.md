@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stand-it-no-more-peter-frampton
+lyrics_url: https://genius.com/Peter-frampton-i-cant-stand-it-no-more-lyrics
 name: I Can't Stand It No More
 rankings:
 - end_date: '1979-06-01'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
 ---
+When you wake up and she's next to you
+You can't stand what she's putting you through
+Can't take no more so I'm going away
 
+
+I can't stand it no more
+I can't stand it no more
+I can't stand it no more
+I can't stand it no more
+
+
+Every day, I feel a different man
+Caught adrift and there's no sight of land
+Hey baby, do I come back to you
+
+
+
+
+Every woman made a fool out of me
+My mama told me when she set me free
+She said, "Son, you just have got to find
+Find a girl who will treat you like I do"
+
+
+I can't stand it no more, I'm going away
+I can't stand it no more, don't ask me to stay
+I can't stand it no more, because there's nothing left to say
+I can't stand it no more
+
+
+I can't stand it no more, I'm going away
+I can't stand it no more, there's nothing left to say

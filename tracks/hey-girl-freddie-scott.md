@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-girl-freddie-scott
+lyrics_url: https://genius.com/Freddie-scott-hey-girl-lyrics
 name: Hey Girl
 rankings:
 - end_date: '1963-08-02'
@@ -55,4 +56,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
 ---
+Hey girl, I want you to know
+I'm gonna miss you so much if you go
 
+And hey girl, I tell you no lie
+Something deep inside of me's going to die
+If you say so long, if this is goodbye
+
+Hey girl, this can't be true
+How am I supposed to exist without you?
+
+Hey girl, Now don't put me on
+What's gonna happen to me when you're gone
+How will I live? How can I go on?
+
+Hey girl, now sit yourself down
+I'm not ashamed to get down on the ground
+Don't go away
+
+Hey girl!

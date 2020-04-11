@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-get-you-out-of-my-heart-al-martino
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/I-Can-t-Get-You-Out-of-My-Heart
 name: I Can't Get You Out Of My Heart
 rankings:
 - end_date: '1959-05-24'
@@ -51,4 +52,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
 ---
+I can't get you out my heart
+For you, love, are part of my heart
+It's funny, the first time we met
+I knew you'd be hard to forget
 
+I can't get you
+Out of my dreams
+Whenever you're near
+My heart beams
+
+Without you, I'm lonely
+My heart wants you only
+I can't get you out of my heart
+
+Ti amo, ti voglio, amor
+Ti amo, ti voglio, amor
+
+Without you, I'm lonely
+My heart wants you only
+I can't get you out of my heart

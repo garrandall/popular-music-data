@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-curly-shuffle-jump--n-the-saddle
+lyrics_url: https://genius.com/Jump-n-the-saddle-band-the-curly-shuffle-lyrics
 name: The Curly Shuffle
 rankings:
 - end_date: '1983-12-09'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
 ---
+When me and my friends go out on the town
+We can't sit still, we can't sit down
+We don't like to fight and we don't like to scuffle
+Dancin' all night doin' the Curly Shuffle
 
+Hey Moe, hey Moe (Hey Moe, hey Moe)
+Well, a nyuk-nyuk-nyuk-nyuk (Nyuk-nyuk-nyuk-nyuk)
+La-le-li-li (La-le-li-li)
+Woo-woo-woo-woo (Woo-woo-woo-woo)
+Well, we never miss a chance
+We get up and dance and do the Curly Shuffle
+
+Well, me and my friends love Larry and Moe
+We love Curly's brother Shemp and his fat clone Joe
+It's such a delight to boogie and hustle
+Dancin' all night doin' the Curly Shuffle
+
+Hey Moe, hey Moe (Hey Moe, hey Moe)
+Well, a nyuk-nyuk-nyuk-nyuk (Nyuk-nyuk-nyuk-nyuk)
+We-be-be-be-be-be-be (We-be-be-be-be-be-be)
+Oh, wise guy (Oh, wise guy)
+Well, we never miss a chance
+We get up and dance and do the Curly Shuffle
+That's right!
+
+Well, me and my friends, we all love to see
+Comedy classics on late night TV
+Those knuckleheads always get in a scuffle
+A push and a shove doin' the Curly Shuffle
+
+Hey Moe, hey Moe (Hey Moe, hey Moe)
+Well, a nyuk-nyuk-nyuk-nyuk (Nyuk-nyuk-nyuk-nyuk)
+Look at the grouse, look at the grouse (Look at the grouse, look at the grouse)
+Ruff-ruff, ruff-ruff (Ruff-ruff, ruff-ruff)
+Well, we never miss a chance
+We get up and dance and do the Curly Shuffle
+That's right
+We do the Curly Shuffle
+What'd ya say?
+We do the Curly Shuffle
+That's what I thought you said!
+We do the Curly Shuffle
+We do the Curly Shuffle
+
+Well, we never miss a chance
+We get up and dance and do the Curly Shuffle

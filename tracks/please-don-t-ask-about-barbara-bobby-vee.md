@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-ask-about-barbara-bobby-vee
+lyrics_url: https://genius.com/Bobby-vee-please-dont-ask-about-barbara-lyrics
 name: Please Don't Ask About Barbara
 rankings:
 - end_date: '1962-03-02'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
+Please don't ask about Barbara
+Don't ask me if she's found somebody new
+'cause I would try to smile but in a little while
+My tears would show and then you'd know it's true
 
+Please don't ask about Barbara
+The hurt will bring the teardrops to my eyes
+Though I would pretend that now she's just a friend
+You'd look at me and see right through the lies
+
+Tears, tears, go away, come again another day
+How can I hide this pain I feel inside
+When little teardrops give my heart away?
+
+Don't you ever tell Barbara
+I'd rather die than let her know I'm cryin'
+Let her run around until the day she's found
+She needs me back again but this I ask till then
+"Please don't ask about Barbara

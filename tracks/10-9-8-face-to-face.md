@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 10-9-8-face-to-face
+lyrics_url: https://genius.com/Face-to-face-10-9-8-lyrics
 name: 10-9-8
 rankings:
 - end_date: '1984-06-08'
@@ -67,4 +68,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
 ---
+I'll be your loaded dice
+You're holding all the cards
+You set the tone whenever I'm with you
+You make up all the rules
+In this game of fools
 
+I see your signals change
+They go from green to red
+It's always stop & go when the colors are changing
+Never let on, never let on
+Look to the left, look to the right
+Why can't you look me straight in the eye?
+
+CHORUS
+10-9-8
+I'm always countin down
+You feel the pressure when you're under the gun
+6-5-4
+I'm always countin down
+Isn't it funny, I never get to 1
+
+I'll be your only chance
+I play the only role
+I go the distance whenever I'm with you
+You make up all the rules
+In this game of fools
+Can you hear me in the dark
+I'm walkin on the wire
+I'm on the edge, it's always my time for fallin
+Never let on, never let on
+Look to the left, look to the right
+Why can't you look me straight in the eye?
+
+CHORUS
+
+(bridge)
+Never let on
+Never let on
+Never let on
+
+Never let on
+Never let on
+Never let on
+
+CHORUS x 3

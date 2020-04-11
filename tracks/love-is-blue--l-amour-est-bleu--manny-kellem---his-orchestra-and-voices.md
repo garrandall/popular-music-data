@@ -1,6 +1,6 @@
 ---
 artists:
-- Manny Kellem - His Orchestra And Voices
+- Manny Kellem
 features: []
 genres: []
 key: love-is-blue--l-amour-est-bleu--manny-kellem---his-orchestra-and-voices

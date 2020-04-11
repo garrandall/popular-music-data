@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-all-you-got-chuck-mangione
+lyrics_url: https://genius.com/Chuck-mangione-give-it-all-you-got-lyrics
 name: Give It All You Got
 rankings:
 - end_date: '1980-01-25'
@@ -71,4 +72,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
 ---
-
+♫
+♫ Instrumental ♫
+♫

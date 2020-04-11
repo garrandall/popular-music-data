@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lover-s-holiday-peggy-scott-jo-jo-benson
+lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Scott-Jo-Jo-Benson/Lover-s-Holiday
 name: Lover's Holiday
 rankings:
 - end_date: '1968-06-14'
@@ -56,4 +57,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+Love
+Is quite a feeling
+(Tell them one more time)
+Love
+Is so appealing
 
+Oh now come this Friday night
+Everything will be uptight
+I got plans baby
+That are out of sight
+
+Maybe we can slip away
+And take a lovers' holiday
+We'll try not to overstay
+But if we do it's okay
+Baby
+
+Maybe we can slip away
+We can love 'til the break of day
+We don't care what the people say
+We just go our own way
+Yeah yeah yeah yeah
+
+Love (oh love)
+Is reassuring
+I'm talking 'bout love (oh sweet love)
+Is so enduring (I know it is) (Listen to me)
+This you can't deny (and I won't babe)
+And we won't even try (Oh no)
+It's agreed baby
+Love's for you and I
+
+Maybe we can slip away
+And take a lovers' holiday
+We'll try not to overstay
+But if we do it's okay
+Babe
+
+Maybe we can slip away
+We can love 'til the break of day
+We don't care what the people say
+We just go our own way
+Yeah yeah yeah yeah
+
+Maybe we can slip away
+And take a lovers' holiday
+We'll try not to overstay
+But if we do it's okay (it's okay it's okay)
+
+Maybe we can slip away

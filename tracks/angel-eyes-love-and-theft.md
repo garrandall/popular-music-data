@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-eyes-love-and-theft
+lyrics_url: https://genius.com/Love-and-theft-angel-eyes-lyrics
 name: Angel Eyes
 rankings:
 - end_date: '2012-06-08'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
 ---
+She likes whiskey with her water
+She starts dancing when the stars come out
+She ain’t your typical preacher’s daughter
+She’ll leave you dreamin’, yeah there ain’t no doubt
 
+
+There’s a little bit of devil in her angel eyes
+She’s a little bit of heaven with a wild side
+Got a rebel heart a country mile wide
+There’s a little bit of devil in her angel eyes
+A little bit of devil in her angel eyes
+
+
+Saturday night she’s rockin’ out by the bonfire
+Flirting from that tail gate and crankin’ up the dial
+Come Sunday mornin’ she’ll be singing with the choir
+Drivin’ me crazy with that kiss me smile
+
+
+There’s a little bit of devil in those angel eyes
+She’s a little bit of heaven with a wild side
+Got a rebel heart a country mile wide
+There’s a little bit of devil in her angel eyes
+There’s a little bit of devil in her angel eyes
+
+
+And I can’t stop wonderin’ what it would feel like, to hold her all night
+She’s got that something, that sexy innocence, she must be heaven sent
+
+
+There’s a little bit of devil in her angel eyes
+She’s a little bit of heaven with a wild side
+Got a rebel heart a country mile wide
+There’s a little bit of devil in her angel eyes
+There’s a little bit of devil in those angel eyes
+She’s a little bit of heaven with a wild side
+Got a rebel heart a country mile wide
+There’s a little bit of devil in her angel eyes
+There’s a little bit of devil in her
+In those angel, in those angel eyes

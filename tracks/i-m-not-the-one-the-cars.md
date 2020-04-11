@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-not-the-one-the-cars
+lyrics_url: https://genius.com/The-cars-im-not-the-one-lyrics
 name: I'm Not The One
 rankings:
 - end_date: '1986-02-07'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
 ---
+I'm not the one, that you'll be shootin' for
+I'm not the one, who's coming back for more
+(You know why)
+We've been through this too many times
+(You know why)
+It's never clear, it's pantomime
 
+Goin' round and round 'cause you can't get on your feet
+Goin' round and round, still takin' all the heat
+Goin' round and round, never lettin' down
+
+I'm not the one, whose memory you still keepin'
+I'm not the one who's talkin' in your sleep
+(You know why)
+I don't have to tell you twice
+(You know why)
+Knew you when you weren't so nice
+
+Goin' round and round 'cause you can't get on your feet
+Goin' round and round, still takin' all the heat
+Goin' round and round, never touchin' down
+
+I'm not the one that you'll be breakin' in
+And I'm not the one that you'll be takin' in
+(You know why)
+Tried and tried to crack the shell
+(You know why)
+When you fake, it's hard to tell
+
+Goin' round and round cause you can't get on your feet
+Goin' round and round, still takin' all the heat
+Goin' round and round cause you can't get on your feet
+Goin' round and round and round and round
+
+Goin' round and round cause you can't get on your feet
+Round and round, still takin' all the heat
+Round and round cause you can't get on your feet
+Round and round, still takin' all the heat
+Round and round cause you can't get on your feet
+Round and round, still takin' all the heat
+Round and round cause you can't get on your feet

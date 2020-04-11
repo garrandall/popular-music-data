@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-need-is-you-blue-train
+lyrics_url: https://genius.com/Blue-train-all-i-need-is-you-lyrics
 name: All I Need Is You
 rankings:
 - end_date: '1991-10-11'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
 ---
+It's got to be you
 
+Standing here in my correspondent shoes
+I don't need no place to go
+Sometimes I feel like making other plans
+Should I stay here, I don't know
+
+I've an idea, the world is just a stage
+It's not original but I call it mine
+We are all actors, actors everyone
+Making entrances, learning lines
+
+All I want is to feel alive
+All I need is to be satisfied
+All I want, all I want
+All I need is you
+
+I have built upon this reputation
+Lived by proxy for a little while
+It's a glamour life
+There can be no denying
+When you're walking the miracle mile
+
+All I want is to feel alive
+All I need is to be satisfied
+All I want, all I want
+All I need is you
+
+Standing here in my correspondent shoes
+I don't need no place to go
+Sometimes I feel like making other plans
+Should I stay here, I don't know
+
+All I want is to feel alive
+All I need is to be satisfied
+All I want, all I want
+All I need is you
+
+All I want is to feel alive
+All I need is to be satisfied
+...
+All I need is you
+
+All I want is to feel alive
+All I need is to be satisfied
+All I want, all I want
+All I need is you (x3)

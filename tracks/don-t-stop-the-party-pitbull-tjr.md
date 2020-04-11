@@ -5,6 +5,7 @@ features:
 - TJR
 genres: []
 key: don-t-stop-the-party-pitbull-tjr
+lyrics_url: https://genius.com/Pitbull-dont-stop-the-party-lyrics
 name: Don't Stop The Party
 rankings:
 - end_date: '2012-10-19'
@@ -88,4 +89,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
 ---
+You don't get them girls loose, loose (TJR!)
+You don't get the world loose, loose
+You don't get money move move (Mr. Worldwide)
+But I do I do
+You don't get them girls loose, loose
+You don't get the world loose, loose
+You don't get money, move, move
+But I do (I do)
 
+
+I said, y'all having a good time out there?
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+
+
+I'm running through the world like a running back
+Scarface, world's mine, running back
+30,000 people went here on me
+80,000 in London Wembley
+90,000 Morocco, and I'm just getting warmed up, papo
+Catch me with RedOne in stockholm
+Beirut, cafe getting my drink on, mole
+Well All the Pretty Women hit the Hookah
+All of them sweet, azucar, azucar
+Dale disfruta
+
+
+They can't, they won't, they never will
+Stop the party
+They can't, they won't, they never will
+Stop the party
+
+
+I said, y'all having a good time out there?
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+
+
+I'm from the city, where they stress, and they sling keys
+And now I'm doing shows in Helsinki (Finland)
+I know what ya'll thinking, you're thinking
+That you can outhiking, but you can't frankly
+I'm out for the benjies, frankies, c-notes
+Just 'cause you ain't me, don't hate me
+As a matter fact you should thank me
+Even if you don't, you're welcome yankees
+Zig-a zig-a zig-a zig-a zow
+Who got the keys of the world, now, yours truly
+
+
+They can't, they won't, they never will
+Stop the party
+They can't, they won't, they never will
+Stop the party
+
+
+I said, y'all having a good time out there?
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+
+
+I'mma give it to ya, ahah
+Now give it to me, ah ah
+I'mma give it to ya, ah ah
+Now give it to me, ah ah
+I'mma give it to ya, ah ah
+Now give it to me, ah ah
+Get funky, get funky
+Now stop
+
+
+I said, y'all having a good time out there?
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party
+Yeah, yeah, que no pare la fiesta
+Don't stop the party (Woo!)

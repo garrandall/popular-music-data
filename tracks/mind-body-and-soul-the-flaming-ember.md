@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mind-body-and-soul-the-flaming-ember
+lyrics_url: https://genius.com/Flaming-ember-mind-body-and-soul-lyrics
 name: Mind Body and Soul
 rankings:
 - end_date: '1969-10-03'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
 ---
-
+Westbound number nine
+My eyes are closed but yet they see
+The beauty of your love here surrounding me
+Though you're not here, you're not far away
+And in my silence you can hear me say
+I give my love to you all my body and soul
+I give my mind to you with a love that'll never grow old
+Give my love to you all my body and soul
+Give my mind to you with a love that'll never grow old
+You are my smiles the last tears
+You are my days, my weeks, my years
+You are the flowers beneath my window sill
+You are everything beautiful everything that's real
+I give my love to you all my body and soul
+I give my mind to you with a love that'll never grow old
+One day my life it will be over, but I have no fears
+Cause nothing lasts but the years
+But I love you now with every breath
+And I believe I'll love you more after death
+I give my love to you all my body and soul
+I give my mind to you with a love that'll never grow old
+You are the winter, girl you are the spring
+You are the Bible, girl you are the ring
+You are the lover you are the friend
+You are the beginning, girl you are the end
+I give my love to you all my body and soul
+I give my mind to you with a love that'll never grow old

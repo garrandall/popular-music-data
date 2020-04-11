@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: killer-cut-charlie
+lyrics_url: https://genius.com/Charlie-killer-cut-lyrics
 name: Killer Cut
 rankings:
 - end_date: '1979-09-14'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+Thomas
 
+So you wanna be a rock and roll star
+Well, times have changed, that's all I say
+You still need an electric guitar
+But most of all you need that radio radio play
+All day, all day, play and play and play
+So you think that your music's an art
+And every song has something to say
+I'll tell you now that your learning will start
+When you listen real hard to that radio radio play
+All day, all day, play and play and play
+You gotta write one killer cut, the song is a pearl
+You gotta write one killer cut to turn on the world
+So you wanna be a rock and roll star
+Well, times have changed, that's all I say
+You still need an electric guitar
+But most of all you need that radio radio play
+All day, all day, play and play and play
+You gotta write one killer cut, the song is a pearl
+You gotta write one killer cut to turn on the world
+The short road to fame (if you don't mind the blame)
+Is to steal the best bits from those top forty hits
+Just keep it real short, and when the records are bought
+You're a star
+All the company men will remind you again and again
+If you get things just right, it's success over night
+If you listen and learn you'll have money to burn
+You're a star
+You gotta write one killer cut, the song is a pearl
+You gotta write one killer cut to turn on the world

@@ -5,6 +5,7 @@ features:
 - Smooth And Ed From Good Burger
 genres: []
 key: watch-me-do-my-thing-immature-smooth-and-ed-from-good-burger
+lyrics_url: https://genius.com/Immature-watch-me-do-my-thing-lyrics
 name: Watch Me Do My Thing
 rankings:
 - end_date: '1997-02-07'
@@ -64,4 +65,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
 ---
+Fly like an eagle through the sky
+Makin more money than you can and I don't try
+I'm on that level
+That money makin rebel
+Checkin for my pay no way
+Can I settle for less than the best
+When you make that purchase
+And all my material needs will surface
+Thats the only way I swang
+Watch the way I do my thang
 
+
+I can do anything
+I wanna do in my life
+You, you know you like the way
+I kick my game
+I'm not ashamed to do my thing
+Right now I feel so good inside
+Doin' what I want
+Right now I feel so good inside
+Doin' what I want
+
+
+Watch me do my thing
+I like to do my thing
+Watch me do my thing
+Everybody sing
+
+
+Lady I'd do almost anything for you
+Anything your heart desires
+It's easy to fulfill your needs
+Because you believe in me
+Right now I feel so good inside
+Doin' what I want
+Right now I feel so good inside
+Doin' what I want
+
+
+
+
+Yo Batman and Romeo, give me the mic so I can flow
+LDB make it funky from here to Mexico
+I can do it fast or slow it really doesn't matter though
+Cause I'm a pro; What you say, you wanna take me toe to toe?
+Uh...no, dude I don't think so
+My crew is strapped, my style is phat
+And Immature's got my back on this funky track
+You want fries with that?
+Coo-Coo-Cachoo what you gonna do, hoooh
+
+
+
+
+Welcome to the hip hop, the home of hip hop
+You don't stop the way we rock, yo Batman
+24/7 around the clock, this is Ed here from Good Burger
+Are you shocked, whoa!
+Watch me do my thang, hoooh

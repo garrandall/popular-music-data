@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-sounds-robert-goulet
+lyrics_url: https://genius.com/Robert-goulet-summer-sounds-lyrics
 name: Summer Sounds
 rankings:
 - end_date: '1965-06-11'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
 ---
+Happy summer sounds
+The summer sounds I love
 
+Listen to the music of the carousel
+The tinglelingle, lingle of the icecream bell
+Splishing and a splashing and a moonlight swim
+Roaring up the waves when you're surfing in
+
+June, July and August play a symphony
+Under starry skies above
+Happy summer sounds
+The summer sounds I love
+
+The travelling on a steamboat on a Sunday cruise
+The sizzle of the hotdogs and a barbecue
+The swinging of a rollercoaster way up high
+The whistles on the beach when "a peach" goes by
+
+Summer time is here
+Wake up and come alive
+Put away scarf and blouse
+Here come summer sounds
+The summer sounds I love
+
+Summer time is here
+Wake up and come alive
+Put away scarf and blouse
+Together now:
+
+"Here come summer sounds
+Summer sounds, summer sounds
+Here come summer sounds
+The summer sounds I love"

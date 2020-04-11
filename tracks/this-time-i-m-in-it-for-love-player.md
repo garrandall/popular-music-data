@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-i-m-in-it-for-love-player
+lyrics_url: https://genius.com/Player-this-time-im-in-it-for-love-lyrics
 name: This Time I'm In It For Love
 rankings:
 - end_date: '1978-03-17'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
 ---
+I heard the weatherman
+Predict a sunny day
+He did not mean to lie
+I look outside it's raining anyway
+I guess I can live with a rainy day
 
+Cause in the scheme of things
+You're bound lose a few
+Even your best-made plans
+Before you know it, they are falling through
+But that couldn't happen to me oooh and you
+
+This time I'm in it for love
+This time I'm in it to win
+It's crazy to do it again
+But how could I possibly lose
+How could I lose
+This time I'm in it for you
+
+My Ma she used to say
+Beware the tender trap
+If you get caught in one
+Be sure you notice where your heart is at
+Don't take chances with things
+Things like that, oh, oh
+
+This time I'm in it for love
+This time I'm in it to win
+It's crazy to do it again
+But how could I possibly lose
+How could I lose
+This time I'm in it for you
+
+This time I'm in it for love
+Baby, this time I'm in it to win
+It's crazy to do it again
+But how could I possibly lose
+How could I lose
+This time I'm in it for you
+
+This time I'm in it for love
+This time I'm in it to win
+It's crazy to do it again
+Crazy, baby
+But how could I possibly lose
+Ain't no way I could I lose
+This time I'm in it for you
+
+This time I'm in it for love

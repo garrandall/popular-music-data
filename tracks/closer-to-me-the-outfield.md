@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: closer-to-me-the-outfield
+lyrics_url: https://genius.com/The-outfield-closer-to-me-lyrics
 name: Closer To Me
 rankings:
 - end_date: '1992-05-22'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
 ---
+One look - one touch - no chance
+I know what you're thinking
+Your move- you're mixed up - no choice
+Say you get the meaning
+And I'm not leaving here without you baby
+I like everything I've seen
 
+Tonight we're just a little bit close
+Tonight it's just the way it's gonna be yea'
+Tonight I'm just a little bit closer
+Tonight you're just a little bit closer to me
+
+One day - one line - untied
+And we can talk it over
+She's hooked - she's mine - I say
+Stay a little longer
+An' I'm still waitin' on you baby
+An' I've got anything you need
+
+Tonight we're just a little bit close
+Tonight it's just the way it's gonna be yea'
+Tonight I'm just a little bit closer
+Tonight you're just a little bit closer to me
+
+Don't say - ya' too shy - hand jive
+Anyway you want it
+I'm here - all right - up tight
+Ain't no doubt about it
+And I'm not leaving here without you baby
+I like everything I've seen
+
+Tonight we're just a little bit close
+Tonight it's just the way it's gonna be yea'
+Tonight I'm just a little bit closer
+Tonight you're just a little bit closer to me

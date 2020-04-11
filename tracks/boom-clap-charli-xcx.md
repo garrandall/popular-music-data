@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boom-clap-charli-xcx
+lyrics_url: https://genius.com/Charli-xcx-boom-clap-lyrics
 name: Boom Clap
 rankings:
 - end_date: '2014-06-27'
@@ -107,4 +108,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
 ---
+You're picture-perfect blue
+Sunbathing under the moon
+Stars shining as your bones illuminate
+First kiss just like a drug
+Under your influence
+You take me over, you're the magic in my veins
+This must be love
 
+
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+
+
+No silver or no gold
+Could dress me up so good
+You're the glitter in the darkness of my world
+Just tell me what to do
+I'll fall right into you
+We're going under cast the spell, just say the word
+I feel your love!
+
+
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+
+
+You are the light and I will follow
+You let me lose my shadow
+You are the sun, the glowing halo
+And you keep burning me up with all your love, oh
+
+
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now
+Boom clap, the sound of my heart
+The beat goes on and on and on and on and
+Boom clap, you make me feel good
+Come on to me, come on to me now

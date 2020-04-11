@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: children-of-the-sun-billy-thorpe
+lyrics_url: https://genius.com/Billy-thorpe-children-of-the-sun-lyrics
 name: Children Of The Sun
 rankings:
 - end_date: '1979-08-03'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
 ---
+People of the Earth can you hear me?
+Came a voice from the sky on that magical night
+And in the colors of a thousand sunsets
+They traveled through the world on a silvery light
 
+The people of the Earth stood waiting
+Watching as the ships came one by one
+Setting fire to the sky as they landed
+Carrying to the world Children Of The Sun
+Children of the sun
+
+All at once came a sound from the inside
+Then a beam made of light hit the ground
+Everyone felt the sound of their heartbeat
+Every Man - Every Woman - Every Child
+
+They passed the limits of imagination
+Through the doors - to a world - of another time
+On the journey of a thousand lifetimes
+With the Children Of The Sun - They started to climb
+
+Children of the sun, children of the sun
+
+No more gravity, nothing holding them down
+Floating endlessly, as their ship leaves the ground
+Thru the walls of time - at the speed of light
+Fly the crystal ships on their celestial flight
+On their celestial flight
+
+Children of the sun, children of the sun
+Children of the sun
+
+Children of the sun, children of the sun
+Children of the sun, children of the sun
+Children of the sun, children of the sun
+Children of the sun, children of the sun
+
+Children of the sun, children of the sun
+Children of the sun, children of the sun

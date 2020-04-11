@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-not-my-time-3-doors-down
+lyrics_url: https://genius.com/3-doors-down-its-not-my-time-lyrics
 name: It's Not My Time
 rankings:
 - end_date: '2008-03-14'
@@ -123,4 +124,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
 ---
+Looking back at the beginning of this
+And how life was
+Just you and me lovin' all of our friends
+Living life like an ocean
+But now the current's only pulling me down
+It’s getting harder to breathe
+It won’t be too long and I'll be going under
+Can you save me from this?
 
+
+'Cause it’s not my time, I'm not going
+There's a fear in me, it’s not showing
+This could be the end of me
+And everything I know
+Ooh, but I won’t go
+
+
+I look ahead to all the plans that we made
+And the dreams that we had
+I'm in a world that tries to take them away
+Oh, but I'm taking them back
+'Cause all of this time I've just been too blind to understand
+What should matter to me
+My friend, this life we live, it's not what we have
+It's what we believe in
+
+
+It's not my time, I'm not going
+There's a fear in me, but it's not showing
+This could be the end of me
+And everything I know
+But it's not my time, I'm not going
+There's a will in me and now I know that
+This could be the end of me
+And everything I know
+Ooh, but I won't go
+I won't go
+
+
+There might be more than you believe
+(There might be more than you believe)
+There might be more than you can see
+
+
+But it’s not my time, I'm not going
+There's a fear in me, it’s not showing
+This could be the end of me
+And everything I know
+But it’s not my time, I'm not going
+There's a will in me and now it’s gonna show
+This could be the end of me
+And everything I know
+Oh
+
+
+There might be more than you believe
+(There might be more than you believe)
+There might be more than you can see
+
+
+But I won't go
+No, I won't go down
+Yeah

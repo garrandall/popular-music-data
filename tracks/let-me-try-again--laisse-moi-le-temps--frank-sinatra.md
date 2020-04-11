@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-try-again--laisse-moi-le-temps--frank-sinatra
+lyrics_url: https://genius.com/Frank-sinatra-let-me-try-again-lyrics
 name: Let Me Try Again (Laisse Moi Le Temps)
 rankings:
 - end_date: '1973-11-16'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
 ---
+I know I said that I was leaving
+But I just, couldn't say goodbye
+It was only self decieving
+To walk away from someone
+Who means everything in life to you
 
+You learn from every lonley day
+Ive learned and Ive come back to stay
+
+Let me try again
+Let me try again
+Think of all we had before
+Let me try once more
+We can have it all
+You and I again
+Just forgive me
+Or ill die
+Please let me try again
+
+I was such a fool to doubt you
+To try and go it all alone
+There's no sense to life without you
+Now all i do is just exist
+And think about the chance ive missed
+To beg is not an easy task
+But pride is such a foolish mask
+
+Let me try again
+Let me try again
+Think of all we had before
+Let me try once more
+We can have it all
+You and I again
+Just forgive me
+Or ill die
+Please let me try again

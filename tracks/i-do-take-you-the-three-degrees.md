@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-take-you-the-three-degrees
+lyrics_url: https://www.musixmatch.com/lyrics/The-Three-Degrees/I-Do-Take-You
 name: I Do Take You
 rankings:
 - end_date: '1970-09-18'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
 ---
+I do
+Take you for the rest of my life
+Through sickness and through health
+Through good times and through bad
+For richer or for poor
+To cherish and to love
+We kissed and then we became man and wife
 
+Baby
+Years from now we'll never regret
+Oh, how could we forget
+All the vows we made
+Until death do we part
+
+I do
+Take you for the rest of my life
+Through sickness and through health
+Through good times and through bad
+For richer or for poor
+To cherish and to love
+We kissed and then we became man and wife
+
+Baby
+Years from now we'll never regret
+Oh, how could we forget
+All the vows we made
+Until death do we part
+
+Oh, how could we forget
+All the vows we made
+Until death do we part

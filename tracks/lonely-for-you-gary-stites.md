@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-for-you-gary-stites
+lyrics_url: https://www.musixmatch.com/lyrics/Gary-Stites/Lonely-for-You
 name: Lonely For You
 rankings:
 - end_date: '1959-04-19'
@@ -63,4 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
-
+Lonely for you Oh, I'm so blue Well I'm so lonely, lonely for you I don't know what to do Please, my baby, I'm so lonely Darling what am I gonna do I'm so lonely for you I thought I was doin the right thing I took back your engagement ring But now I found that I was wrong But I had to go along Till I find another day When you come to me and say Darling I'm gonna be true Then I wont be lonely for you I need you so very much I long for your sweet tender touch Please come through my hearts door Help me write prayers for Precious little turtle dove I'm so lonely for your love

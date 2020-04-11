@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: milord-bobby-darin
+lyrics_url: https://genius.com/Bobby-darin-milord-lyrics
 name: Milord
 rankings:
 - end_date: '1964-05-22'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
+Allez, venez, Milord
+Vous asseoir а ma table
+Il fait si froid, dehors
+Ici c'est confortable
 
+Laissez-vous faire, Milord
+Et prenez bien vos aises
+Vos peines sur mon coeur
+Et vos pieds sur une chaise
+
+Je vous connais, Milord
+Vous n'm'avez jamais vue
+Je ne suis qu'une fille du port
+Qu'une ombre de la rue
+
+Allez, venez, Milord
+Vous asseoir а ma table
+Il fait si froid, dehors
+Ici c'est confortable
+
+Laissez-vous faire, Milord
+Et prenez bien vos aises
+Vos peines sur mon coeur
+Et vos pieds sur une chaise
+
+Je vous connais, Milord
+Vous n'm'avez jamais vue
+Je ne suis qu'une fille du port
+Qu'une ombre de la rue
+
+La la la la la...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-gotta-get-to-you-george-strait
+lyrics_url: https://genius.com/George-strait-i-gotta-get-to-you-lyrics
 name: I Gotta Get To You
 rankings:
 - end_date: '2010-04-09'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
 ---
+I gotta get to you 'cause you're sure been getting to me
+Gotta find a way to get to your heart to sweep you off your feet
+I'll wrap you up in my love, cover you with kisses so sweet
+I gotta get to you 'cause you're sure been getting to me
 
+
+I'll win you over, over and over again
+I'm getting closer, closer than I've ever been
+
+
+I gotta get to you 'cause you're sure been getting to me
+Gotta find a way to get to your heart to sweep you off your feet
+I'll wrap you up in my love, cover you with kisses so sweet
+I gotta get to you 'cause you're sure been getting to me
+
+
+I'll keep on trying, trying and I'll never give up
+I would be lying if I said we were close enough
+
+
+I gotta get to you 'cause you've sure been getting to me
+Gotta find a way to get to your heart to sweep you off your feet
+I'll wrap you up in my love, cover you with kisses so sweet
+I gotta get to you 'cause you're sure been getting
+Gotta get to you 'cause you're sure been getting
+Gotta get to you 'cause you're sure been getting to me

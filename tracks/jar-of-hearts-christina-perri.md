@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jar-of-hearts-christina-perri
+lyrics_url: https://genius.com/Christina-perri-jar-of-hearts-lyrics
 name: Jar Of Hearts
 rankings:
 - end_date: '2010-07-23'
@@ -131,4 +132,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
 ---
+I know I can't take one more step towards you
+‘Cause all that's waiting is regret
+Don't you know I'm not your ghost anymore
+You lost the love I loved the most
 
+
+I've learned to live, half alive
+And now you want me one more time
+
+
+Who do you think you are?
+Runnin' 'round leaving scars
+Collecting your jar of hearts
+And tearing love apart
+You're gonna catch a cold
+From the ice inside your soul
+So don't come back for me
+Who do you think you are?
+
+
+I hear you're asking all around
+If I am anywhere to be found
+But I have grown too strong
+To ever fall back in your arms
+
+
+I've learned to live, half alive
+And now you want me one more time
+
+
+Who do you think you are?
+Runnin' 'round leaving scars
+Collecting your jar of hearts
+And tearing love apart
+You're gonna catch a cold
+From the ice inside your soul
+So don't come back for me
+Who do you think you are?
+
+
+Dear, it took so long just to feel alright
+Remember how to put back the light in my eyes
+I wish I had missed the first time that we kissed
+‘Cause you broke all your promises
+And now you're back
+You don't get to get me back
+
+
+Who do you think you are?
+Runnin' 'round leaving scars
+Collecting your jar of hearts
+And tearing love apart
+You're gonna catch a cold
+From the ice inside your soul
+Don't come back for me
+Don't come back at all
+
+Who do you think you are?
+Runnin' 'round leaving scars
+Collecting your jar of hearts
+And tearing love apart
+You're gonna catch a cold
+From the ice inside your soul
+Don't come back for me
+Don't come back at all
+
+
+Who do you think you are?
+Who do you think you are?
+Who do you think you are?

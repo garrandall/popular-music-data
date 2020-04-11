@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-the-time-billy-joel
+lyrics_url: https://genius.com/Billy-joel-this-is-the-time-lyrics
 name: This Is The Time
 rankings:
 - end_date: '1986-11-21'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
 ---
+We walked on the beach beside that old hotel
+They're tearin' it down now, but it's just as well
+I haven't shown you everything a man can do
+So stay with me, baby
+I've got plans for you
 
+
+This is the time to remember
+Cause it will not last forever
+These are the days to hold on to
+Cause we won't, although we'll want to
+This is the time
+But time is gonna change
+
+
+You've given me the best of you
+But now I need the rest of you
+
+Did you know that before you came into my life
+It was some kind of miracle that I survived
+Some day we will both look back
+And have to laugh
+We lived through a lifetime
+And the aftermath
+
+
+
+I know we've got to move somehow
+But I don't want to lose you now
+
+Sometimes it's so easy
+To let a day slip on by
+Without even seeing each other at all
+But this is the time you'll turn back to and so will I
+And those will be days you can never recall
+
+And so we embrace again
+Behind the dunes
+This beach is so cold on winter afternoons
+But holding you close is like holding the summer sun
+I'm warm from the memory of days to come

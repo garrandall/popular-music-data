@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boogie-fever-the-sylvers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Sylvers/Boogie-Fever
 name: Boogie Fever
 rankings:
 - end_date: '1976-02-20'
@@ -91,4 +92,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
 ---
+Boogie fever
+Got to boogie down
+Boogie fever
+I think it's going around
 
+I took my baby to the drive-in show
+She turned the speaker down
+And then she turned on the radio
+I watched a silent movie, diggin' funky sound
+
+She's got the boogie fever
+She likes to boogie down
+Boogie fever
+I think it's going around
+
+I took my baby to the pizza parlor (pizza parlor)
+To get a bite to eat
+I put some money in the jukebox for her
+You know she ate her pizza dancing to the beat
+
+She's got the boogie fever
+She likes to boogie down
+Ah-aa-aa, She's got the boogie fever
+I think it's going around
+
+All night long, we did the bump, bump, bump
+Yes we did, yes we did, yes we did, yeah
+She kept it going strong, doin' the bump, bump, bump
+Doin' the bump, bump, bump (yeah)
+
+I called the doctor on the telephone (Doctor, doctor)
+Said doctor, doctor, please. I, I, I,
+I got this feeling rockin' and a'reelin'. Tell me,
+What can it be, is it some new disease?
+
+They call it boogie fever
+You've got to boogie down
+Ah, haa-aa, just get on down
+Boogie fever
+I think it's going around
+
+Fever, fever, fever. Ooh-ohh-ooo
+
+All night long, we did the bump, bump, bump
+Yes we did, yes we did, (Yaaaa) yes we did
+We kept it going strong doin' the bump, bump, bump
+
+(Yaaaa), Everybody's got the boogie fever
+Boogie fever baby
+Boogie down, now get on down, now get on down
+(Boogie fever), Boogie fever
+I think it's going around and around and around
+
+I (I) got the boogie fever
+And I said, you (you) got the boogie fever
+I said, she's (she's) got the boogie fever
+Everybody's got the boogie fever
+
+Boogie fever
+Boogie down
+Just get on down, just get on down
+Boogie fever

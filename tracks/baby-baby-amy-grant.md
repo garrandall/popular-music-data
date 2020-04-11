@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-baby-amy-grant
+lyrics_url: https://genius.com/Amy-grant-baby-baby-lyrics
 name: Baby Baby
 rankings:
 - end_date: '1991-03-01'
@@ -91,4 +92,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
 ---
+Baby, baby
+I'm taken with the notion
+To love you with the sweetest of devotion
+Baby, baby
+My tender love will flow from
+The bluest sky to the deepest ocean
 
+
+Stop for a minute
+Baby I'm so glad you're mine, yeah
+You're mine
+
+
+Baby, baby
+The stars are shining for you
+And just like me I'm sure that they adore you
+Baby, baby
+Go walking through the forest
+The birds above are singing you a chorus
+
+
+Stop for a minute
+Baby, they're so glad you're mine, yeah
+And ever since the day you put my heart in motion
+Baby, I realize that there's just no getting over you
+
+
+Baby, baby
+In any kind of weather
+I'm here for you always and forever
+Baby, baby
+No muscle man could sever
+My love for you is true and it will never
+
+
+Stop for a minute
+Baby, I'm so glad you're mine, yeah
+And ever since the day you put my heart in motion
+Baby, I realize that there's just no getting over you

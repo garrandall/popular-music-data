@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-it-with-you-bread
+lyrics_url: https://genius.com/Bread-make-it-with-you-lyrics
 name: Make It With You
 rankings:
 - end_date: '1970-06-19'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
 ---
+Hey, have you ever tried
+Really reaching out for the other side
+I may be climbing on rainbows
+But baby, here goes
 
+
+Dreams they're for those who sleep
+Life is for us to keep
+And if you're wondering
+What this song is leading to
+I want to make it with you
+
+
+I really think that
+We can make it, girl
+
+
+No you don't know me well
+And every little thing
+Only time will tell
+If you believe the things that I do
+And we'll see it through
+
+
+Life can be short or long
+Love can be right or wrong
+And if I chose the one
+I'd like to help me through
+I'd like to make it with you
+
+
+I really think that
+We can make it, girl
+
+
+Baby, you know that
+Dreams, they're for those who sleep
+Life, it's for us to keep
+And if I choose the one
+I'd like to help me through
+I'd like to make it with you
+
+
+I really think that
+We could make it, girl

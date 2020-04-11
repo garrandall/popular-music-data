@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-your-thing-the-isley-brothers
+lyrics_url: https://genius.com/The-isley-brothers-its-your-thing-lyrics
 name: It's Your Thing
 rankings:
 - end_date: '1969-03-21'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
 ---
+It's your thing, do what you wanna do
+I can't tell you who to sock it to
+It's your thing, do what you wanna do
+I can't tell you who to sock it to
 
+
+If you want me to love you, maybe I will
+Believe me woman, it ain't no big deal
+You need love now, just as bad as I do
+Make's me no difference now, who you give your thing to
+
+
+It's your thing (it's your thing), do what you wanna do
+I can't tell you, who to sock it to
+It's your thing (it's your thing), do what you wanna do now
+I can't tell you who to sock it to
+
+Alright
+Aw, have mercy
+
+
+Ah, it's your thing, do what you wanna do
+I can't tell you who to sock it to, hit me man
+It's your thing (it's your thing), do what you wanna do
+I can't tell you who to sock it to
+
+
+I'm not trying to run your life
+I know you wanna do what's right
+Give your love girl, to whoever you choose
+How can you lose, with the stuff you use now
+
+
+It's your thing (it's your thing), do what you wanna do
+I can't tell you who to sock it to
+It's your thing (it's your thing), do what you wanna do
+Don't let me tell you who to sock it to
+
+
+Let me hear ya say, "It's my thing (it's my thing)
+I do what I want to do."
+I can't tell you

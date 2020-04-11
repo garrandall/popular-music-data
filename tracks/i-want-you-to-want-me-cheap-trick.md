@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-to-want-me-cheap-trick
+lyrics_url: https://genius.com/Cheap-trick-i-want-you-to-want-me-lyrics
 name: I Want You To Want Me
 rankings:
 - end_date: '1979-05-04'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
 ---
+I want you to want me
+I need you to need me
+I'd love you to love me
+I'm beggin' you to beg me
 
+
+I want you to want me
+I need you to need me
+I'd love you to love me
+
+
+I'll shine up the old brown shoes, put on a brand-new shirt
+I'll get home early from work if you say that you love me
+
+
+Didn't I, didn't I, didn't I see you cryin'?
+Oh, didn't I, didn't I, didn't I see you cryin'?
+Feelin' all alone without a friend, you know you feel like dyin'
+Oh, didn't I, didn't I, didn't I see you cryin'?
+
+
+I want you to want me
+I need you to need me
+I'd love you to love me
+I'm beggin' you to beg me
+
+
+I'll shine up the old brown shoes, put on a brand-new shirt
+I'll get home early from work if you say that you love me
+
+
+Didn't I, didn't I, didn't I see you cryin'?
+Oh, didn't I, didn't I, didn't I see you cryin'?
+Feelin' all alone without a friend, you know you feel like dyin'
+Oh, didn't I, didn't I, didn't I see you cryin'?
+
+
+
+
+Feelin' all alone without a friend, you know you feel like dyin'
+Oh, didn't I, didn't I, didn't I see you cryin'?
+
+
+
+
+I want you to want me
+I need you to need me
+I'd love you to love me
+I'm beggin' you to beg me

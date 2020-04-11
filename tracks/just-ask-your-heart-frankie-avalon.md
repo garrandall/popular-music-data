@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-ask-your-heart-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-just-ask-your-heart-lyrics
 name: Just Ask Your Heart
 rankings:
 - end_date: '1959-09-06'
@@ -71,4 +72,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
 ---
+Just ask your heart who dreams about you
+Just ask your heart who's faithful and true
+Someone who cares and won't make you blue
+Just ask your heart who loves only you
 
+Then you will find your true love will be
+Someone who cares for you and wants to make you happy
+
+Then when your heart say he loves only you
+And when it says he won't make you blue
+Then ask your heart if your love is true
+Just ask his heart'-loves only you
+
+Then you will find your true love will be
+Someone who cares for you and wants to make you happy
+
+Then when your heart say he loves only you
+And when it says he won't make you blue
+Then ask your heart if your love is true
+Just ask his heart'-loves only you
+Just ask his heart'-loves only you

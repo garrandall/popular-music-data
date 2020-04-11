@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sad-sweet-dreamer-sweet-sensation
+lyrics_url: https://genius.com/Sweet-sensation-sad-sweet-dreamer-lyrics
 name: Sad Sweet Dreamer
 rankings:
 - end_date: '1975-01-17'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
 ---
+Sad sweet dreamer
+It's just one of those things you put down to experience
+Sad sweet dreamer
+It's just one of those things you put down to experience
 
+Been another blue day without you girl
+Been another sad summer song
+Been thinkin' about you girl
+AII night long
+
+Been another sad tear on my pillow
+Been another memory who told me "You're the one girl"
+Been thinkin' about you girl
+All night long
+
+Sad sweet dreamer
+It's just one of those things you put down to experience
+Sad sweet dreamer
+It's just one of those things you put down to experience
+
+Been another long night and I missed you girl
+Been another story from those endless magazines
+Can't help thinkin' about you girl
+All night long
+
+Sad sweet dreamer
+It's just one of those things you put down to experience
+Sad sweet dreamer
+It's just one of those things you put down to experience
+
+Was so happy when I found you
+But how was I to know
+That you would leave me walkin' down the road
+
+Been another hurt love story
+Been another man who thought that he was oh so strong
+Been thinkin' about you girl
+All night long
+
+Sad sweet dreamer
+It's just one of those things you put down to experience
+Sad sweet dreamer
+It's just one of those things you put down to experience

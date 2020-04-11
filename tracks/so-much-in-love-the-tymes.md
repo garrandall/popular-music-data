@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-much-in-love-the-tymes
+lyrics_url: https://genius.com/The-tymes-so-much-in-love-lyrics
 name: So Much In Love
 rankings:
 - end_date: '1963-06-07'
@@ -67,4 +68,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
 ---
+As we stroll along together
+Holding hands, walking all alone
+So in love are we two, that we don't know what to do
+So in love (so in love) in a world all our own (so in love)
 
+As we stroll by the sea together
+Under stars twinkling high above
+So in love are we two, no one else but me and you
+So in love (so in love), so much in love (so in love)
+So in love (so in love), so much in love (so in love)
+
+We stroll along together
+I tell you I need you oh so much
+I love, love you my darling
+Can you tell it in my touch?
+
+When we walk down the aisle together
+We will vow to be together till we die
+So much love have we two, just can't wait to say "I do"
+So in love (so in love) are you and I (you and I)
+So in love (so in love) are you and I (you and I)
+So in love (so in love) are you and I (you and I)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-the-j--geils-band
+lyrics_url: https://genius.com/The-j-geils-band-come-back-lyrics
 name: Come Back
 rankings:
 - end_date: '1980-02-08'
@@ -55,4 +56,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
 ---
+When you left me all alone
+You left me cryin' on my own
+Tell me, tell me, what you gonna do
+Tell me pretty baby
+Cause I'm still in love with you
 
+Come back (baby)
+Come back-won't you come back to me
+Come back (baby)
+Come back-won't you come back to me
+
+Here I'm standin' such a fool
+It's not like you babe
+Oh, don't be cruel
+Help me, help me
+Cause you know I'm not that strong
+Help me, help me darlin'
+I've been lonely for too long
+
+Come back (baby)
+Come back-won't you come back to me
+Come back (baby)
+Come back
+
+(Instrumental break)
+
+Tell me, tell me, what you gonna do
+Tell me pretty baby
+Cause I'm still in love with you
+
+Come back (baby)
+Come back-won't you come back to me
+Come back (baby)
+Come back-won't you come back to me
+Come back (baby)
+Come back-please come back to me darlin'-aah
+Come back (baby)
+Come back-won't you come back to me

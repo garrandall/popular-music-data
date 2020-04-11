@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-you-are-sam-salter
+lyrics_url: https://genius.com/Sam-salter-there-you-are-lyrics
 name: There You Are
 rankings:
 - end_date: '1998-06-26'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
 ---
+Like a candle with a flame
+That never dies
+Through the good and bad
+You've been by my side
+And when the world outside
+Is feeling so unkind
+You were there to pick me up
+Oh, how i need your smile
 
+(CHORUS):
+Whenever I fall
+There you are
+I know that my pain
+You feel in your heart
+And when the life that I live
+Seems so hard
+There you are
+
+Even though you're far away
+I can still see you
+
+Sometimes I swear you're still
+Inside my mind
+Tell me you are the shadow
+That always follows me
+You always seem to be right there
+You're like an angel by my side
+
+Repeat chorus
+
+Unconditional loving
+Is what you've given me
+Your heart is all that I want to know
+Forever in you I have a home
+I'll stay by your side
+Cause you are the light
+In my heart
+And in my life
+Oh whenever i look
+And there you are

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: light-on-david-cook
+lyrics_url: https://genius.com/David-cook-light-on-lyrics
 name: Light On
 rankings:
 - end_date: '2008-10-24'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
 ---
+Never really said too much
+Afraid it wouldn't be enough
+Just try to keep my spirits up when there's no point in grievin'
+Doesn't matter anyway
+Words could never make me stay
+Words will never take my place when you know I'm leavin'
 
+
+Try to leave a light on when I'm gone
+Something I rely on to get home
+One I can feel at night, a naked light
+A fire to keep me warm
+Try to leave a light on when I'm gone
+Even in the daylight, shine on
+And when it's late at night you can look inside
+You won't feel so alone
+
+
+You know we've been down that road
+What seems a thousand times before
+My back to a closing door and my eyes to the seasons
+That roll out underneath my heels
+And you don't know how bad it feels
+To leave the only one that I have ever believed in
+
+
+Try to leave a light on when I'm gone
+Something I rely on to get home
+One I can feel at night, a naked light
+A fire to keep me warm
+Try to leave a light on when I'm gone
+Even in the daylight, shine on
+And when it's late at night you can look inside
+You won't feel so alone
+Oh yeah...
+
+
+Sometimes it feels like we've run out of luck
+When the signal keeps on breaking up
+When the wires cross in my brain
+You'll start my heart again
+When I come along, yeah...
+
+
+Try to leave a light on when I'm gone
+Something I rely on to get home
+One I can feel at night, a naked light
+A fire to keep me warm
+Try to leave a light on when I'm gone
+Even in the daylight, shine on
+And when it's late at night you can look inside
+You won't feel so alone
+
+
+Try to leave a light on when I'm gone
+Even in the daylight, shine on
+And when it's late at night you can look inside
+You won't feel so alone

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-should-sail-nielsen-pearson
+lyrics_url: https://genius.com/Nielsen-pearson-if-you-should-sail-lyrics
 name: If You Should Sail
 rankings:
 - end_date: '1980-09-19'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
 ---
+You can run away
+That doesn't worry me
+There's no amount of miles
+That could fall between you and I
+You make my lovin' worthwhile
 
+You can get behind the wheel
+And drive your heart out
+Take that oldsmobile
+And stake your claim
+Just to find all that runnins in vain
+And it will remain the same
+
+If you should sail upon a ship
+I'm gonna stow away
+And if the ocean's wide
+Baby it'll take a long while
+If you should sail out on a trip
+Over your shoulder cast an eye
+I'll be there wearing a smile
+
+You can change your name
+Change your address too
+Play that runnin' game
+It's nothin' new
+Try to hide for all the good it will do
+You know it's true
+
+If you should sail upon a ship
+I'm gonna stow away
+And if the ocean's wide
+Baby it'll take a long while
+If you should sail out on a trip
+Over your shoulder cast an eye
+I'll be there wearing a smile
+
+If you should sail upon a ship
+I'm gonna stow away
+And if the ocean's wide
+Baby it'll take a long while
+If you should sail out on a trip
+Over your shoulder cast an eye
+I'll be there wearing a smile

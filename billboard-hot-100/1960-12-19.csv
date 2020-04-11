@@ -1,7 +1,7 @@
 song,artist,start_date,end_date,rank,ranking_list
 Are You Lonesome To-night?,Elvis Presley With The Jordanaires,1960-12-19,1960-12-25,1,Billboard Hot 100
 Last Date,Floyd Cramer,1960-12-19,1960-12-25,2,Billboard Hot 100
-Wonderland By Night,Bert Kaempfert And His Orchestra,1960-12-19,1960-12-25,3,Billboard Hot 100
+Wonderland By Night,Bert Kaempfert,1960-12-19,1960-12-25,3,Billboard Hot 100
 North To Alaska,Johnny Horton,1960-12-19,1960-12-25,4,Billboard Hot 100
 Sailor (Your Home Is The Sea),Lolita,1960-12-19,1960-12-25,5,Billboard Hot 100
 Exodus,Ferrante & Teicher,1960-12-19,1960-12-25,6,Billboard Hot 100
@@ -22,7 +22,7 @@ Wonderland By Night,Louis Prima,1960-12-19,1960-12-25,20,Billboard Hot 100
 Alone At Last,Jackie Wilson,1960-12-19,1960-12-25,21,Billboard Hot 100
 Will You Love Me Tomorrow,The Shirelles,1960-12-19,1960-12-25,22,Billboard Hot 100
 Angel Baby,Rosie And The Originals,1960-12-19,1960-12-25,23,Billboard Hot 100
-Last Date,Lawrence Welk And His Orchestra,1960-12-19,1960-12-25,24,Billboard Hot 100
+Last Date,Lawrence Welk,1960-12-19,1960-12-25,24,Billboard Hot 100
 "Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,1960-12-19,1960-12-25,25,Billboard Hot 100
 Rockin' Around The Christmas Tree,Brenda Lee,1960-12-19,1960-12-25,26,Billboard Hot 100
 "Corinna, Corinna",Ray Peterson,1960-12-19,1960-12-25,27,Billboard Hot 100
@@ -58,12 +58,12 @@ Send Me The Pillow You Dream On,The Browns Featuring Jim Edward Brown,1960-12-19
 I'm Hurtin',Roy Orbison,1960-12-19,1960-12-25,57,Billboard Hot 100
 "Adeste Fideles (Oh, Come, All Ye Faithful)",Bing Crosby,1960-12-19,1960-12-25,58,Billboard Hot 100
 Shop Around,"The Miracles (featuring Bill ""Smokey"" Robinson)",1960-12-19,1960-12-25,59,Billboard Hot 100
-The Magnificent Seven,Al Caiola And His Orchestra,1960-12-19,1960-12-25,60,Billboard Hot 100
+The Magnificent Seven,Al Caiola,1960-12-19,1960-12-25,60,Billboard Hot 100
 Bumble Bee,LaVern Baker,1960-12-19,1960-12-25,61,Billboard Hot 100
 Rudolph The Red Nosed Reindeer,David Seville And The Chipmunks,1960-12-19,1960-12-25,62,Billboard Hot 100
 Sleep,Little Willie John,1960-12-19,1960-12-25,63,Billboard Hot 100
 Silent Night,Bing Crosby,1960-12-19,1960-12-25,64,Billboard Hot 100
-Calcutta,Lawrence Welk And His Orchestra,1960-12-19,1960-12-25,65,Billboard Hot 100
+Calcutta,Lawrence Welk,1960-12-19,1960-12-25,65,Billboard Hot 100
 Ol' Mac Donald,Frank Sinatra,1960-12-19,1960-12-25,66,Billboard Hot 100
 Blue Angel,Roy Orbison,1960-12-19,1960-12-25,67,Billboard Hot 100
 The Bells,James Brown,1960-12-19,1960-12-25,68,Billboard Hot 100

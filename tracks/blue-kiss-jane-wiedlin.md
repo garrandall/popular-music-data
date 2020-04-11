@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-kiss-jane-wiedlin
+lyrics_url: https://genius.com/Jane-wiedlin-blue-kiss-lyrics
 name: Blue Kiss
 rankings:
 - end_date: '1985-10-04'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
 ---
-
+A blue kiss coloring me goodbye
+A new kiss could never feel so fine
+Tomorrow I'll be livin in black and white
+Why does it have to be such a blue kiss
+When I kiss you
+Now I color my world with a blue kiss
+I've got kisses for you
+Red lips kissin away my fears
+A blue kiss bringin me back to tears
+Why does it have to be such a blue kiss
+Yea, these kisses are blue
+Now I color my world with a blue kiss
+I've got kisses for you
+A prism of love surrounded us
+Don't you see what our hearts knew
+How can you chose a one-color world
+When you know that I've got a rainbow for you
+Last night a spectrum filled the sky
+This morning it shattered with your goodbye
+Why does it have to be such a blue kiss
+When I kiss you
+Now I color my world with a blue kiss
+I've got kisses for you
+Why does it have to be such a blue kiss
+When I kiss you
+Now I color my world with a blue kiss
+I've got kisses for you
+Why does it have to be such a blue kiss
+When I kiss you
+Now I color my world with a blue kiss
+I've got kisses for you
+Why did it have to be such a blue kiss
+Yea, those kisses were blue
+Now I color my world with a blue kiss
+I've got kisses for you

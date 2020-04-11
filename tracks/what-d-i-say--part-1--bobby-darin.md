@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-d-i-say--part-1--bobby-darin
+lyrics_url: https://genius.com/Bobby-darin-whatd-i-say-lyrics
 name: What'd I Say (Part 1)
 rankings:
 - end_date: '1962-04-06'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
 ---
+You must have been a beautiful baby
+You must have been a wonderful child
+When you were only starting to go to kindergarten
+I bet you drove the little boys wild
+And when it came to winning blue ribboms
+You must have shown the other kids how
+I can see the judges' eyes as they handed you the prize
+You must have made the cutest bow
+You must've been a beautiful baby
+Cause baby look at you now
 
+Does your mother realize
+The stork delivered quite a prize
+The day he left you on the family tree?
+Does your dad appreciate
+That you're merely super great
+The miracle of any century?
+If they don't just send them both to me
+
+You must have been a beautiful baby
+You must have been a wonderful child
+When you were only starting to go to kindergarten
+I bet you drove the little boys wild
+And when it came to winning blue ribboms
+You must have shown the other kids how
+I can see the judges' eyes as they handed you the prize
+You must have made the cutest bow
+You must've been a beautiful baby
+Cause baby look at you now

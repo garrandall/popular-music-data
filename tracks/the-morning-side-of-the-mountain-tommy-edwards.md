@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-morning-side-of-the-mountain-tommy-edwards
+lyrics_url: https://genius.com/Tommy-edwards-the-morning-side-of-the-mountain-lyrics
 name: The Morning Side Of The Mountain
 rankings:
 - end_date: '1959-03-08'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
 ---
+There was a girl, there was a boy
+If they had met they might have found a world of joy
+But she lived on the morning side of the mountain
+And he lived on the twilight side of the hill
 
+They never met, they never kissed
+And they will never know what happiness they missed
+For she lived on the morning side of the mountain
+And he lived on the twilight side of the hill
+
+For love's a rose that never grows
+Without the kiss of the morning dew
+And every Jack must have a Jill
+To know the thrill of a dream that comes true
+
+And you and I are just like they
+For all we know our love is just a kiss away
+But you are on the morning side of the mountain
+And I am on the twilight side of the hill
+
+For love's a rose that never grows
+Without the kiss of the morning dew
+And every Jack must have a Jill
+To know the thrill of a dream that comes true
+
+And you and I are just like they
+For all we know our love is just a kiss away
+But you are on the morning side of the mountain
+And I am on the twilight side of the hill

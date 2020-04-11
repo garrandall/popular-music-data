@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: t-ain-t-nothin--to-me-the-coasters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Coasters/T-Ain-t-Nothin-to-Me
 name: T'ain't Nothin' To Me
 rankings:
 - end_date: '1964-04-03'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+Just taking a drink to
+The end of the bar, buddy
+Let her be
+Now don't you be a fool
 
+I'd rather have a hot seat
+In Sing-Sing Prison
+Than to sit there by her
+On that stool
+
+What's that you say
+Are you looking for a fight, buddy
+T'ain't nothing to me
+
+Do you see that man
+At the end of the bar, buddy
+Now you see that she
+Belongs to him
+
+I can tell by the
+Way he looks at you, buddy
+That he's sure a quick tempered
+Jealous man
+
+What's that you say
+Are you looking for a fight, buddy
+T'ain't nothing to me
+
+Now, there you are
+Stretched out on the floor, buddy
+Now you see what
+You have made him do
+
+They have come to
+Take him off to jail, buddy
+But tomorrow
+Someone's gonna bury you
+
+Oh, well, that's life
+Or as it was
+T'wern't nothing to me

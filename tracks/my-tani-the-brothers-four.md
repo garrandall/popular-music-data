@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-tani-the-brothers-four
+lyrics_url: https://genius.com/The-brothers-four-my-tani-lyrics
 name: My Tani
 rankings:
 - end_date: '1960-07-10'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+Farewell, my Tani
+Child of a coral sea
+We dreamed of heaven
+But you've forgotten me
 
+I loved you dearly
+Why did we have to part?
+Now I am lonely
+Here with a broken heart
+
+Once on silver sands
+We held lonesome hands
+That's why, my Tani
+I cried "Come back to me"
+
+Once on silver sands
+We held lonesome hands
+That's why, my Tani
+I cried "Come back to me"...

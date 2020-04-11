@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-should-be-dru-hill
+lyrics_url: https://genius.com/Dru-hill-i-should-be-lyrics
 name: I Should Be
 rankings:
 - end_date: '2002-12-13'
@@ -75,4 +76,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
 ---
+Girl, I know he ain't takin' care of you
+I see it in your face
+And I know that's not the man that you really want
+You know
+So if you're seeming tired of him
+Then come see me
+I'm a better man anyway
 
+
+Lies, and decit
+I know, you feel this with your man
+'Cause when there, all I see
+Is crying
+
+
+I should be your boyfriend (I should be your boyfriend)
+'Cause you know he's lying ('Cause you know he's lying)
+It might seems like I'm hating (Might seem like I'm hating)
+But girl, I'm just relating
+
+
+Step one, walk through that door
+Step two, tell him
+He's not like he was before
+You don't love him anymore
+Now three, come to me
+Step four, I'll love you more
+You will see how love should be
+But there's four steps to complete
+
+
+There was a time
+When he tried to be the one who would
+Give you all you deserved
+But now he's not trying
+
+
+I should be your boyfriend (I should be your boyfriend)
+'Cause you know he's lying ('Cause you know he's lying)
+It might seems like I'm hating (It might seem like I'm hating)
+(But I'm just relating, take step one)
+
+
+Step one, walk through that door
+Step two, tell him
+He's not like he was before (He's not like)
+You don't love him anymore
+Now three, come to me
+Step four, I'll love you more
+You will see how love should be
+But there's four steps to complete
+
+
+You're what I’m looking for
+Our love would mean much more
+Than what he’s given you
+But you must let him know that you can’t take no more
+Replace him with me
+(Someone who knows how to show their feelings)
+To someone who deserves them (Someone who deserves them)
+If you can’t figure out
+Got it all mapped out
+Baby, just take step one
+
+
+Step one, walk through that door
+Step two, tell him
+He's not like he was before
+You don't love him anymore
+Now three, come to me
+Step four, I'll love you more
+You will see how love should be
+But there's four steps to complete
+(Sing it one more time)
+Step one, walk through that door
+Step two, tell him
+He's not like he was before
+You don't love him anymore
+Now three, come to me
+Step four, I'll love you more
+You will see how love should be
+But there's four steps to complete

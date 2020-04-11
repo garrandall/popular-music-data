@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: empty-pages-traffic
+lyrics_url: https://genius.com/Traffic-uk-empty-pages-lyrics
 name: Empty Pages
 rankings:
 - end_date: '1970-09-11'
@@ -40,3 +41,47 @@ rankings:
   start_date: '1970-11-14'
 ---
 
+
+Found someone who can comfort me
+But there are always exceptions
+And she's good at appearing sane
+But I just want you to know
+
+She's the one makes me feel so good
+When everything is against me
+Picks me up when I'm feeling down
+So I've got something to show
+
+Staring at empty pages
+Centered 'round the same old plot
+Staring at empty pages
+Flowing along in the ages
+
+Often lost and forgotten
+The vagueness and the mud
+I've been thinking I'm working too hard
+But I've got something to show
+
+Staring at empty pages
+Centered 'round the same old plot
+Staring at empty pages
+Flowing along in the ages
+
+
+
+Staring at empty pages
+Centered 'round the same old plot
+Staring at empty pages
+Flowing along in the ages
+
+Often lost and forgotten
+The vagueness and the mud
+I've been thinking I'm working too hard
+But I've got something to show
+
+You know
+
+Found someone who can comfort me
+But there are always exceptions
+And she's good at appearing sane
+But I just want you to know

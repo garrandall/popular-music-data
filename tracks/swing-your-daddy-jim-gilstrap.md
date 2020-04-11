@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swing-your-daddy-jim-gilstrap
+lyrics_url: https://genius.com/Jim-gilstrap-swing-your-daddy-lyrics
 name: Swing Your Daddy
 rankings:
 - end_date: '1975-03-14'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
-
+Swing your daddy, sexy mama
+You got his love jones out of control
+Now don't you wanna
+Swing your daddy, take him higher
+Send him up to heaven's heights
+Light my fire
+Spend my very last dime
+Showing you a good time
+But now the piper must be paid and I'm afraid
+I'm just about to lose my mind
+Swing your daddy, sexy mama
+Come on and rock your baby tonight - get tight
+Say you wanna
+Swing, swing, swing your daddy
+Swing, swing, swing your daddy
+Life keep tickin' away
+Tomorrow's almost today
+Sweet child, fill my lovin' cup, stir it up
+Your daddy's been achin' to play
+Swing your daddy, sexy mama
+You got his love jones out of control
+Now don't you wanna
+Oh, feel so good
+You know you're outa sight, girl
+Swing your daddy tonight
+Oh oh oh oh, yeah
+Oh oh oh oh, yeah...

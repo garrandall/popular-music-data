@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-twist-chubby-checker
+lyrics_url: https://genius.com/Chubby-checker-the-twist-lyrics
 name: The Twist
 rankings:
 - end_date: '1960-08-07'
@@ -163,4 +164,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
 ---
+Come on baby let's do the twist
+Come on baby let's do the twist
+Take me by my little hand and go like this
+Ee-oh twist baby baby twist
+Oooh-yeah just like this
+Come on little miss and do the twist
 
+
+My daddy is sleepin' and mama ain't around
+Yeah daddy just sleepin' and mama ain't around
+We're gonna twisty twisty twisty
+'Til we tear the house down
+Come on and twist yeah baby twist
+Oooh-yeah just like this
+Come on little miss and do the twist
+
+
+Yeah you should see my little Sis
+You should see my my little Sis
+She really knows how to rock
+She knows how to twist
+Come on and twist yeah baby twist
+Oooh-yeah just like this
+Come on little miss and do the twist
+Yeah rock on now
+Yeah twist on now
+Twist

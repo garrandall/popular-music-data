@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: probably-wouldn-t-be-this-way-leann-rimes
+lyrics_url: https://genius.com/Leann-rimes-probably-wouldnt-be-this-way-lyrics
 name: Probably Wouldn't Be This Way
 rankings:
 - end_date: '2005-09-09'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
 ---
+Got a date a week from Friday
+With the preacher's son
+Everybody says he's crazy
+I'll have to see
+I finally moved to Jackson
+When the summer came
+I won't have to pay that boy to rake my leaves
+I'm probably going on and on
+It seems I'm doing more of that these days
 
+
+I probably wouldn't be this way
+I probably wouldn't hurt so bad
+I never pictured every minute without you in it
+Oh, you left so fast
+Sometimes I see you standing there
+Sometimes it's like I'm losing touch
+Sometimes I feel that I'm so lucky
+To have had the chance to love this much
+God gave me a moment's grace
+Cause if I'd never seen your face
+I probably wouldn't be this way
+
+
+Mama says that I just shouldn't speak to you
+Susan says that I should just move on
+You oughta see the way these people look at me
+When they see me 'round here talking to this stone
+Everybody thinks I've lost my mind
+But I just take it day by day
+
+
+I probably wouldn't be this way
+I probably wouldn't hurt so bad
+I never pictured every minute without you in it
+Oh, you left so fast
+Sometimes I see you standing there
+Sometimes it's like I'm losing touch
+Sometimes I feel that I'm so lucky
+To have had the chance to love this much
+God gave me a moment's grace
+Cause if I'd never seen your face
+I probably wouldn't be this way
+Probably wouldn't be this way
+
+
+Got a date a week from Friday
+With the preacher's son
+Everybody says I'm crazy
+Guess I'll have to see

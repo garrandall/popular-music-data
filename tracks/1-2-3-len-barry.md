@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1-2-3-len-barry
+lyrics_url: https://www.musixmatch.com/lyrics/Len-Barry/1-2-3
 name: 1-2-3
 rankings:
 - end_date: '1965-10-01'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
 ---
+1-2-3
+Oh, that's how elementary
+It's gonna be
+C'mon, let's fall in love
+It's easy (It's so easy)
+Like takin' candy (Like takin' candy) from a baby
 
+A-B-C (A-B-C)
+Fallin' in love with you was
+Easy for me (Easy for me)
+And you can do it, too
+It's easy (It's so easy)
+Like takin' candy (Like takin' candy) from a baby
+
+Baby, there's nothin' hard about love
+Basically, it's as easy as pie
+The hard part is livin' without love
+Without your love, baby, I would die
+
+(1-2-3)
+(1-2-3)
+It's easy (It's so easy)
+Like takin' candy (Like takin' candy) from a baby, yeah
+
+One and one are two (One and one are two)
+I know you love me and oh, oh
+How I love you (How I love you)
+Don't try to fight it
+'Cause it's easy (It's so easy)
+Like takin' candy (Like takin' candy) from a baby, yeah
+
+1-2-3 (1-2-3)
+Oh, that's how elementary
+It's gonna be (It's gonna be)
+C'mon, let's fall in love
+
+It's easy (1-2-3)
+Oh, that's how elementary

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreams-gabrielle
+lyrics_url: https://genius.com/Gabrielle-dreams-lyrics
 name: Dreams
 rankings:
 - end_date: '1993-10-15'
@@ -119,4 +120,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
 ---
+They can come true, yeah
+They can come true
 
+
+Move a step closer you know that I want you
+I can tell by your eyes that you want me too
+Just a question of time I knew we'd be together
+And that you'd be mine I want you here forever
+
+
+Do you hear what I'm saying?
+Gotta say how I feel
+I can't believe you're here
+But I know that you're real
+I know what I want and baby, it's you
+I can't deny my feelings because they are true
+
+
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+
+
+I've seen you sometimes on your own and in crowds
+I knew I had to have you my hopes didn't let me down
+Now you're by my side and I feel so good
+I've nothing to hide don't feel that I ever could
+
+
+Do you hear what I'm saying?
+Gotta say how I feel
+I can't believe you're here
+But I know that you're real
+I know what I want, and baby, it's you
+I can't deny my feelings because they are true
+
+
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+
+
+I'm not making plans for tomorrow let's live for tonight
+I know I want you, baby, so hold me so tight
+Put your arms around me you make me feel so safe
+Then you whisper in my ear that you're here to stay
+
+
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong
+Dreams can come true
+Look at me, babe, I'm with you
+You know you gotta have hope
+You know you gotta be strong

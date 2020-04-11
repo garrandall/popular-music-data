@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: have-i-the-right--the-honeycombs
+lyrics_url: https://www.musixmatch.com/lyrics/The-Honeycombs/Have-I-the-Right
 name: Have I The Right?
 rankings:
 - end_date: '1964-09-25'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
 ---
+Have I the right to hold you? You know I've always told you
+That we must never ever part oh ooh ooh oh
+Have I the right to kiss you? You know I'll always miss you
+I've loved you from the very start
+Come right back I just can't bear it
+I've got this love and I long to share it
+Come right back I'll show my love is strong
+Have I the right to touch you? If I could you'd see how much you
+Send those shivers running down my spine. Ooh Ooh
+Have I the right to thrill you? You know I'll wait until you
+Give me the right to make you mine.
+Well, Come right back I just can't bear it
+I've got this love and I long to share it
+Come right back I'll show my love is strong. Oh yeah.
+All right!
 
+Have I the right to hold you? You know I've always told you
+That we must never ever part. No no no no no no
+Have I the right to kiss you? You know I'll always miss you.
+I've loved you from the very start.
+Come right back I just can't bear it
+I've got this love and I long to share it
+Come right back I'll show my love is strong. Oh yeah yeah
+Come right back I just can't bear it
+I've got this love and I long to share it
+Come right back right back where you belong oh yeah
+You belong oh yeah
+You belong

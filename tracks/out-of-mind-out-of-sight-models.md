@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-mind-out-of-sight-models
+lyrics_url: https://genius.com/Models-out-of-mind-out-of-sight-lyrics
 name: Out Of Mind Out Of Sight
 rankings:
 - end_date: '1986-05-02'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
+Hey hey honey when I'm without you
+I get a chill up and down my spine
+And I, I feel so hot and the pain won't stop
+Tearing at this heart of mine
+And I wouldn't have it, I know I can say
+And I wouldn't have it any other way
 
+Do you like to make love with me or turn it around?
+Do you like the way it feels when I hold you tight?
+Do you like the way I say I'm coming on home?
+I'd get you when I want you then you're on your own
+
+Out of mind out of sight
+Gotta keep my body tight
+Out of mind out of sight
+I'm gonna keep my body tight
+
+Looking a little bit closer now
+I've got something to say to you
+And if your body touches me, I just don't know what I might do
+And so hold me honey, hit on the bed
+I got notions in my head
+
+Out of mind out of sight
+Gotta keep my body tight
+Out of mind out of sight
+I'm gonna keep my body tight
+
+Hey hey honey when I'm without you
+I get a chill up and down my spine
+And I, I feel so hot and the pain won't stop
+Tearing at this heart of mine
+And I wouldn't have it, I know I can say
+And I wouldn't have it any other way
+
+Do you like to make love with me or turn it around?
+Do you like the way it feels when I hold you tight?
+Do you like the way I say I'm coming on home?
+I'd take you when I want you then you're on your own
+
+Out of mind out of sight
+Gotta keep my body tight
+Out of mind out of sight
+Gotta keep my body tight
+Out of mind out of sight
+Gotta keep my body tight
+Out of mind out of sight
+Gotta keep my body tight

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-your-love-the-yardbirds
+lyrics_url: https://genius.com/The-yardbirds-for-your-love-lyrics
 name: For Your Love
 rankings:
 - end_date: '1965-05-21'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+For your love
+For your love
+For your love
+I give you everything and more, and that's for sure
+For your love
+I bring you diamond rings and things right to your door
+For your love
 
+
+To thrill you with delight, I give you diamonds bright
+There'll be days that will excite
+They'll make you dream of me at night
+
+
+For your love
+For your love
+For your love
+
+
+For your love, for your love
+I would give the stars above
+For your love, for your love
+I would give you all I could
+
+
+For your love
+For your love
+For your love
+I'd give the moon if it were mine to give
+For your love
+I'd give the stars and the sun for I live
+For your love
+
+
+To thrill you with delight, I give you diamonds bright
+There'll be days that will excite
+They'll make you dream of me at night
+
+
+For your love
+For your love
+For your love
+For your love
+For your love

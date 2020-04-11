@@ -5,6 +5,7 @@ features:
 - Alejandro Sanz
 genres: []
 key: la-tortura-shakira-alejandro-sanz
+lyrics_url: https://genius.com/Genius-english-translations-shakira-la-tortura-ft-alejandro-sanz-english-translation-lyrics
 name: La Tortura
 rankings:
 - end_date: '2005-05-13'
@@ -132,3 +133,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
 ---
+Hey baby, save the poetry
+Keep your happiness to yourself
+
+
+I don't ask for every day to be sunny
+I don't ask for there to be a party every Friday
+Nor do I ask that you return to me begging for forgiveness
+If you cry with dry eyes
+Talking about her
+Oh, my love, it hurts me so much (it hurts me so much)
+That you left without telling me where you were going
+Oh, my love, it was torture to lose you
+
+
+I know I haven't been a saint
+But I can fix it, love
+Man cannot live on bread alone
+And I cannot live off of excuses
+We only learn from mistakes
+And today I know that my heart is yours
+It's best if you save all that
+Throw that bone to another dog
+And we'll say goodbye
+
+
+I can't ask winter to pardon a rose
+I can't ask the elm trees to bear pears
+I can't ask eternity from a mere mortal
+And walk around throwing thousands of pearls to the pigs
+Oh, my love, it hurts so much, it hurts so much
+That you don't believe in my promises anymore
+Oh, my love, it's torture to lose you
+
+
+I know I haven't been a saint
+But I can fix it, love
+Man cannot live on bread alone
+And I cannot live off of excuses
+We only learn from mistakes
+And today I know that my heart is yours
+It's best if you save all that
+Throw that bone to another dog
+And we'll say goodbye
+
+
+Don't leave, don't leave
+Hey, baby, look, don't get angry
+You have my love from Monday to Friday
+But it's best if you leave Saturday to me
+Hey, baby, don't punish me any more
+Because out there, without you, I can't find peace
+I'm just a repentant man
+I'm like a bird that returns to its nest
+
+
+I know I haven't been a saint
+I'm not made of stone
+Man cannot live on bread alone
+And I cannot live off of excuses
+We only learn from mistakes
+And today I know that my heart is yours
+
+
+Ay, ay, ay, ay, ay, ay
+Oh, all that I've done for you
+It was torture to lose you
+It hurts me so much that it's like this
+Keep crying for forgiveness
+I'm not going to cry over you anymore

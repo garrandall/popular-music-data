@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-want-it-you-got-it-detroit-emeralds
+lyrics_url: https://genius.com/Detroit-emeralds-you-want-it-you-got-it-lyrics
 name: You Want It You Got It
 rankings:
 - end_date: '1972-01-14'
@@ -59,4 +60,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
+I've lots of a money
+Got two diamond rings
+Got good conenctions
+I can get you anything, girl
 
+Don't make no difference what it is
+It's all for you
+I'm ready to give
+
+You want it, you got it
+You want it, you got it
+Oh, baby
+You want it, you got it
+Just ask me, baby
+You want it, you got it
+
+Just tell me what you want
+Say it loud, something clear
+I'm willing to bet on my soul
+What you want
+I got it here
+
+No matter the  you're in
+Want you to come and be my girlfriend
+No need for you to be without it
+If I ain't got it
+I'll find it
+
+Got plenty of money
+Even got some to spare
+I'll give you a big supply
+So can show up anywhere
+
+Got two fine cars
+And you can keep one for yourself
+If there's anything else you want
+Just take it
+
+Don't make no difference what it is
+It's all for you
+I'm ready to give
+
+You want it, you got it
+Lord, baby
+You want it, you got it
+Just ask me
+You want it, you got it
+Hey, baby
+You want it, you got it
+
+Woo, wait a minute
+Now listen here, baby
+I got something else for you
+I don't know
+
+Whatever you want, baby
+I'm gonna bring it to your door
+Got lots of money
+Got my two diamond rings

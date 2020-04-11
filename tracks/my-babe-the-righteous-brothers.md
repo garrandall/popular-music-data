@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-babe-the-righteous-brothers
+lyrics_url: https://genius.com/The-righteous-brothers-my-babe-lyrics
 name: My Babe
 rankings:
 - end_date: '1963-09-13'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
 ---
+I'm talkin' 'bout my baby, not your baby
+She's my babe, she's so fine
+I'm talkin' 'bout my baby, not your baby
+She's my babe, she's so fine
+She's right there to love me
+Well people come, rain or shine, shine
 
+
+Now I love her, don't you love her
+'Cause I love her, you hear?
+I said I love her, don't you love her
+'Cause I love her, you hear?
+She upsets my soul when she whispers sweet things in my ear
+
+
+I love the way she walks, I love the way she talks
+She makes me feel so good, just like a young man should
+She never makes me cry, and here's why
+She's my babe, she's my babe
+
+
+Nothin' could be better than to see her in a sweater
+And a real tight skirt that won't quit
+Nothin' could be better than to see her in a sweater
+And a tight skirt, that won't quit
+I'm warm for her form, but people, let me tell you that's it
+Oh yeah! (That's it)
+
+
+
+
+Oh, oh, oh, oh, my babe
+Ah-huh-huh-huh, my babe
+My, my, my, my, my babe
+Ah-huh-huh-huh, my babe
+My, my, my, my, my babe
+She's my babe, she's my babe
+Ooh yeah!
+She's my babe, she's my babe
+She's my babe
+She's my babe, she's my babe
+She's my babe
+She's my babe, she's my babe
+She's my babe
+Ooh yeah!
+She's my babe, she's my babe
+She's my babe

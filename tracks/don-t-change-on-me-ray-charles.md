@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-change-on-me-ray-charles
+lyrics_url: https://genius.com/Ray-charles-dont-change-on-me-lyrics
 name: Don't Change On Me
 rankings:
 - end_date: '1971-03-19'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
 ---
+Girl, you're my sunshine
+Take away the raindrops
+Make it all worthwhile
+Make all the pain stop
+Just like a river
+Keep love flowing
+Don't let our world stop
+Keep it going, oh Lord
 
+
+Well, I love you just the way you are
+Honey, don't change on me, yeah
+Don't you change on me
+I said, don't you change on me, no, no
+Girl, you're my lucky star
+Honey, don't change on me, yeah
+Oh please, don't change on me
+I keep begging, don't change on me, yeah
+
+
+I used to wonder
+Where would I find
+Some kind of happiness
+And peace of mind
+I was living in darkness
+But then you came
+Bringing the sunlight
+Easing my pain, God
+
+
+
+
+If there's a heaven
+Then this is my prayer
+I want to know you
+If we should meet there
+And then forever
+We'll walk together
+Nothing but sunshine
+No more stormy weather

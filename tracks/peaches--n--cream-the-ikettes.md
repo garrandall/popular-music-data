@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peaches--n--cream-the-ikettes
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ikettes/Peaches-N-Cream
 name: Peaches "N" Cream
 rankings:
 - end_date: '1965-03-19'
@@ -39,4 +40,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
 ---
+My mama told me love
+Is not all sweet, uh huh
+She said, watch out for all
+The boys you meet, uh huh
+Cause someday, you'll be on
+Your own two feet, uh huh
 
+But if you find
+The right boy to marry
+Life can be a bowl of cherries
+Like peaches and cream
+Don't you know what I mean
+
+Ah, ah, ah, peaches
+Peaches and cream
+Ah, ah, ah, peaches
+Don't you know what I mean
+
+Now I'm grown and
+Living on my own, uh huh
+Got me a boy, I know
+He's not alone, uh huh
+He's the kind of boy a
+Girl can take home, uh huh
+
+I know I found
+The boy to marry
+Cause our life's been
+A bowl of cherries
+Don't you know what I mean
+
+Ah, ah, ah, peaches
+Peaches and cream
+Ah, ah, ah, peaches
+Don't you know what I mean
+
+I know I found
+The boy to marry
+Cause our life's been
+A bowl of cherries
+Don't you know what I mean
+
+Ah, ah, ah, peaches
+Ah, ah, ah, peaches
+Peaches and cream
+Peaches and cream
+
+Ah, ah, ah, peaches
+Ah, ah, ah, peaches
+Peaches and cream
+Don't you know what I mean
+
+Ah, ah, ah, peaches

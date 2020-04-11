@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: torn-between-two-lovers-mary-macgregor
+lyrics_url: https://genius.com/Mary-macgregor-torn-between-two-lovers-lyrics
 name: Torn Between Two Lovers
 rankings:
 - end_date: '1976-11-26'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
 ---
+There are times when a woman has to say what's on her mind
+Even though she knows how much it's gonna hurt
+Before I say another word let me tell you, I love you
+Let me hold you close and say these words as gently as I can
 
+There's been another man that I've needed and I've loved
+But that doesn't mean I love you less
+And he knows he can't possess me and he knows he never will
+There's just this empty place inside of me that only he can fill
+
+Torn between two lovers, feelin' like a fool
+Lovin' both of you is breakin' all the rules
+Torn between two lovers, feelin' like a fool
+Lovin' you both is breakin' all the rules
+
+You mustn't think you've failed me
+Just because there's someone else
+You were the first real love I ever had
+And all the things I ever said
+I swear they still are true
+For no one else can have the part of me I gave to you
+
+Torn between two lovers, feelin' like a fool
+Lovin' both of you is breakin' all the rules
+Torn between two lovers, feelin' like a fool
+Lovin' you both is breakin' all the rules
+
+I couldn't really blame you if you turned and walked away
+But with everything I feel inside, I'm asking you to stay
+
+Torn between two lovers, feelin' like a fool
+Lovin' both of you is breakin' all the rules
+Torn between two lovers, feelin' like a fool
+Lovin' you both is breakin' all the rules
+
+Torn between two lovers
+
+Feelin' like a fool
+Lovin' both of you is breakin' all the rules

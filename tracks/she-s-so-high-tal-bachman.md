@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-so-high-tal-bachman
+lyrics_url: https://genius.com/Tal-bachman-shes-so-high-lyrics
 name: She's So High
 rankings:
 - end_date: '1999-06-25'
@@ -119,4 +120,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
 ---
+She's blood, flesh, and bone
+No tucks or silicone
+She's touch, smell, sight, taste, and sound
+But somehow I can't believe that anything should happen
+I know where I belong and nothing's gonna happen, yeah
 
+
+'Cause she's so high
+High above me, she's so lovely
+She's so high, like Cleopatra, Joan of Arc, or Aphrodite
+Da-da-da-da
+She's so high, high above me
+
+
+First class and fancy-free
+She's high society
+She's got the best of everything
+What could a guy like me ever really offer?
+She's perfect as she can be
+Why should I even bother?
+A-ah
+
+
+'Cause she's so high
+High above me, she's so lovely
+She's so high, like Cleopatra, Joan of Arc, or Aphrodite
+Da-da-da-da
+She's so high, high above me
+
+
+She comes to speak to me
+I freeze immediately
+'Cause what she says sounds so unreal
+'Cause somehow I can't believe that anything should happen
+I know where I belong and nothing's gonna happen
+Yeah, yeah
+Yeah, yeah
+
+
+'Cause she's so high
+High above me, she's so lovely
+She's so high, like Cleopatra, Joan of Arc, or Aphrodite
+Oh yeah, yeah
+She's so high, high above me

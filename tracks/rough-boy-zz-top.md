@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rough-boy-zz-top
+lyrics_url: https://genius.com/Zz-top-rough-boy-lyrics
 name: Rough Boy
 rankings:
 - end_date: '1986-04-04'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
 ---
+What in the world's come all over me?
+I ain't got a chance of one in three
+Ain't got no rap, ain't got no line
+But if you'll give me just a minute I'll be feeling fine
 
+I am the one who can fade the heat
+The one they all say just can't be beat
+I'll shoot it to you straight and look you in the eye
+So gimme just a minute and I'll tell you why
+
+
+I'm a rough boy, I'm a rough boy
+
+
+I don't care how you look at me
+Because I'm the one and you will see
+We can make it work, we can make it by
+So give me one more minute and I'll tell you why
+
+
+I'm a rough boy, I'm a rough boy

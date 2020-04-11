@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holiday-the-other-ones
+lyrics_url: https://genius.com/The-other-ones-holiday-lyrics
 name: Holiday
 rankings:
 - end_date: '1987-08-07'
@@ -75,4 +76,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+Another holiday
 
+
+Well, you're walking straight ahead
+But you're looking to your right
+Got your eyes down low
+But you hold your head high
+A hola-hola-ho and a hola-hola-hey
+Another holiday
+
+Beach, the sun and sand dunes
+Takes me far away
+
+
+Distant lands are not so far away
+I don't know why we don't go
+Take my hand I'll show you the way
+Pack your bags and sail away
+
+
+Well, I hate my job
+And I got no car
+And my aching feet
+Won't take me that far
+A hola-hola-ho and a hola-hola-hey
+Another holiday
+
+Kiss me in the moonlight
+Listen to the waves
+
+
+Distant lands are not so far away
+I don't know why we don't go
+Take my hand I'll show you the way
+Pack your bags and sail away
+
+
+A-hoo a-ha-ha, a-hoo-hoo
+A-hoo a-ha-ha, a-hoo-hoo
+A-hoo a-ha-ha, a-hoo-hoo
+A-hoo a-ha-ha, a-hoo-hoo
+
+Another holiday
+
+
+Distant lands are not so far away
+I don't know why we don't go
+Take my hand I'll show you the way
+Pack your bags and sail away

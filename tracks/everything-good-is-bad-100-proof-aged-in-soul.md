@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-good-is-bad-100-proof-aged-in-soul
+lyrics_url: https://www.musixmatch.com/lyrics/100-Proof-Aged-In-Soul/Everything-Good-Is-Bad
 name: Everything Good Is Bad
 rankings:
 - end_date: '1972-04-07'
@@ -51,4 +52,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
 ---
+Seems like everything good is bad
+And everything bad is good
+Seems like everything good is bad
+And everything bad is good
 
+Your love is like the sweet
+Forbidden fruit in life
+I'm another woman's man
+You're another man's wife
+
+We both know the difference
+Between right and wrong
+Life is full of temptation
+It's so hard to be strong
+
+
+
+Doo doo doo doo...
+
+When I kissed your lips
+I made a big mistake
+Your love's become a habit
+A habit I can't break
+
+In my heart, I lied
+Whoa, but in my mind, I know
+With you, I wanna be
+With her, I still belong
+
+
+
+Everything good is bad
+Everything bad is good
+Everything good is bad
+(Yeah, yeah, yeah, yeah)
+Everything bad is good
+
+(I wanna justify it now)
+Everything good is bad
+Everything bad is good
+(Yeah, yeah, yeah, yeah)
+
+Everything that you wanna be
+It's so wrong to society, woo
+If there's a choice
+Between silk and satin
+They both feel good to me
+
+Yeah, yeah, yeah, yeah
+
+Everything good is bad
+And everything bad is good
+Seems like everything good is bad
+And everything bad is good
+
+Everything good is bad
+(Yeah, yeah, yeah, yeah)
+Everything bad is good
+(I wanna justify it now)
+
+Everything good is bad
+(Don't you know, don't you know)
+And everything bad is good
+(Yeah, yeah, yeah, yeah)
+
+Everything good is bad
+Everything bad is good
+(Everything, everything
+Is everything, woo)
+
+Everything good is bad...

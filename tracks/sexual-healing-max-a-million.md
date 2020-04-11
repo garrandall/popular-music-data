@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sexual-healing-max-a-million
+lyrics_url: https://www.musixmatch.com/lyrics/Max-A-Million/Sexual-Healing
 name: Sexual Healing
 rankings:
 - end_date: '1995-11-10'
@@ -87,4 +88,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
 ---
+Ooooooo baby, I'm hot just like an oven
+I need some lovin'
+Baby I can't hold it much longer
+It's getting stronger and stronger
 
+When I get that feelin'
+I want sexual healing, sexual healing
+Oh baby makes me feel so fine
+Helps to reieive my mind
+Sexual healing baby is good for us
+
+Baby I got sick this mornin'
+A sea was stormin' inside of me
+Baby I think I'm capsizing
+The waves are risin' and risin'
+
+And when I get that feelin'
+I want sexual healing, sexual healing
+Oh baby makes me feel so fine
+Helps to relieve my mind
+Sexual healing baby, is good for us
+Sexual healing darling is good for us

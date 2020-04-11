@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 3-am-eternal-the-klf
+lyrics_url: https://genius.com/The-klf-3-am-eternal-lyrics
 name: 3 AM Eternal
 rankings:
 - end_date: '1991-06-28'
@@ -83,4 +84,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
 ---
+This is Radio Freedom
+KLF! aha aha aha aha
 
+KLF is gonna rock ya
+(are you ready?)
+Aha aha aha aha
+(ancients of Mu Mu)
+(here we go)
+(ancients of Mu Mu)
+KLF is gonna rock ya
+(are you ready?)
+Aha aha aha aha
+(ancients of Mu Mu)
+KLF KLF is gonna rock ya
+
+KLF is gonna rock ya 'cos you
+Have to
+Move to the flow of the P.D. blaster
+Bass ballistics
+I'm gonna kick this hard
+And you can catch it
+Down with the crew crew
+Talking 'bout the Mu Mu
+Justified Ancient Liberation Zulu
+Got to teach and everything you learn
+Will point to the fact that time is eternal
+
+Sample city through Trancentral
+Basic face kick elemental
+Swings brings new technology
+The 'K' the 'L' the 'F' and the ology
+Da Force coming down with mayhem
+Looking at my watch; time: 3 A.M
+Got to see that everywhere I turn
+Will point to the fact that time is eternal
+
+It's 3 A.M., 3 A.M., It's 3 A.M. eternal

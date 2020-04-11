@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loving-you-just-crossed-my-mind-sam-neely
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-Neely/Loving-You-Just-Crossed-My-Mind
 name: Loving You Just Crossed My Mind
 rankings:
 - end_date: '1972-09-08'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
 ---
+In the morning the time seems to fly.
+In the morning the dives seem to die.
+The wine I had, it tasted fine, but it aint gonna change the times,
+Though I have someone else with me, that's just fine, it's not the wine,
+And loving you just crossed my mind.
 
+The price is low, it don't take much, to live on empty dreams,
+So I just sit here laughing, eatin beans
+Then I take a drink again, least I've got one good friend,
+But I don't like talking to wine, but that's just fine, cause it's all mine,
+And loving you just crossed my mind.
+
+Feelin all the pain inside, you know that don't seem right,
+Feelin all the cries in my eyes.
+Loving any woman who don't mind, spending time,
+Talking over good times and drinking, lots of wine,
+
+Well I don't have a minute, but I've got lots of time,
+And loving you just crossed my mind.
+No I don't have a minute, but I've got lots of time,
+And loving you just crossed my mind.
+Loving you just crossed my mind,
+Loving you just crossed my mind.

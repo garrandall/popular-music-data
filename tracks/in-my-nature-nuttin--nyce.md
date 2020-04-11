@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-nature-nuttin--nyce
+lyrics_url: https://genius.com/Nuttin-nyce-in-my-nature-lyrics
 name: In My Nature
 rankings:
 - end_date: '1993-08-20'
@@ -31,4 +32,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-18'
 ---
+Seems, that thinking about what to do
+Boy I think about part of you
+Is in my nature
+Ooooh my temperature goes to rise
+And snow so fast, is in my nature
 
+You know it's true I'm part of you
+And I'm afraid nothing to do
+Baby I call you
+Baby I call you
+It's been a while and we let's talk
+Wish your body that I'll stop
+Baby come give to me
+
+No love just s** and a good time
+No rough but I guess just a good time
+I'don't want no relationship
+But now till'get mine
+No even want a nature 'cause s** in
+You is my nature
+
+
+Seems, that thinking about what to do
+Boy I think about part of you
+Is in my nature
+Ooooh my temperature goes to rise
+And snow so fast, is in my nature
+
+Baby is no secret about the feelin'
+That I get when I'm with you
+So let's not bug all around
+Just come and put it down
+Baby, come en satisfy me
+
+No love just s** and a good time
+No rough, but I guess just a good time
+I'don't want no relationship
+But now till'get mine
+No even want a nature 'cause s** in
+You is my nature
+
+(Rap)
+
+
+Seems, that thinking about what to do
+Boy I think about part of you
+Is my nature
+Ooooh my temperature goes to rise
+And snow so fast, is in my nature
+
+
+Seems, that thinking about what to do
+Boy I think about part of you
+Is in my nature
+Ooooh my temperature goes to rise
+And snow so fast, is in my nature

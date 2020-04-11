@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-me-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-call-me-lyrics
 name: Call Me
 rankings:
 - end_date: '1958-10-05'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
+Call me
+If your arms are lonely
+Call me
+If you're feeling blue
+If you don't believe me
+Just call and say you need me
+And darling I'll come to you
 
+Call me
+If your dreams should tumble
+I will help you start anew
+
+If you don't believe me
+Just call and say you need me
+And darling I'll come to you
+
+Call me if thing looks hopeless and gray
+I'll come and change the view
+Call me when spring seems farthest away
+I'll change the seasons for you
+
+Call and say you want me near you
+I'll be there before you're though
+If you don't believe me
+Just call and say you need me
+And darling I'll come to you
+
+Call and say you want me near you
+I'll be there before you're though
+If you don't believe me
+Just call and say you need me
+And darling I'll fly to you

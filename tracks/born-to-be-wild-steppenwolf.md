@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-to-be-wild-steppenwolf
+lyrics_url: https://genius.com/Steppenwolf-born-to-be-wild-lyrics
 name: Born To Be Wild
 rankings:
 - end_date: '1968-07-19'
@@ -59,4 +60,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
 ---
+Get your motor runnin'
+Head out on the highway
+Looking for adventure
+In whatever comes our way
 
+
+Yeah, darlin', go and make it happen
+Take the world in a love embrace
+Fire all of your guns at once
+And explode into space
+
+
+I like smoke and lightnin'
+Heavy metal thunder
+Racing with the wind
+And the feeling that I'm under
+
+
+Yeah, darlin', go and make it happen
+Take the world in a love embrace
+Fire all of your guns at once
+And explode into space
+
+
+Like a true nature's child
+We were born, born to be wild
+We can climb so high
+I never wanna die
+Born to be wild
+Born to be wild
+
+
+
+
+Get your motor runnin'
+Head out on the highway
+Looking for adventure
+In whatever comes our way
+
+
+Yeah, darlin', go and make it happen
+Take the world in a love embrace
+Fire all of your guns at once
+And explode into space
+
+
+Like a true nature's child
+We were born, born to be wild
+We can climb so high
+I never wanna die
+Born to be wild
+Born to be wild

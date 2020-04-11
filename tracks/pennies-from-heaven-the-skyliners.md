@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pennies-from-heaven-the-skyliners
+lyrics_url: https://genius.com/The-skyliners-pennies-from-heaven-lyrics
 name: Pennies From Heaven
 rankings:
 - end_date: '1960-05-15'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
+Every time it rains, it rains
+Pennies from heaven (from heaven)
 
+Don't you know each cloud contains
+Pennies from heaven (from heaven)
+
+You'll find your fortunes falling all over town
+Make sure your umbrella is upside down (baby don’t you know)
+
+Trade them for a package of sunshine and flowers
+If you want the things you love, you must have showers
+
+So when you hear it thunder, don't run under a tree
+There'll be pennies from heaven for you and me
+
+(Every time it rains, it rains)
+(Pennies from heaven)
+
+(Don't you know each cloud contains)
+(Pennies from heaven)
+
+You'll find your fortunes falling all over town
+Make sure that your umbrella (make sure your umbrella is upside down)
+(Baby don’t you know)
+
+Trade them for a package of sunshine and flowers
+If you want the things you love, you must have showers
+
+So when you hear it thunder, don't run under a tree
+There'll be pennies from heaven for you and me
+
+(So take a big deep breath of the clean fresh air)
+(Put a smile on your face, be a millionaire)
+(The streets outside are paved with gold)
+(There’ll be pennies from heaven)
+(For you and for me)

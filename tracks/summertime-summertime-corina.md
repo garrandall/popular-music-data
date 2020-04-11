@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summertime-summertime-corina
+lyrics_url: https://www.musixmatch.com/lyrics/Corina/Summertime-Summertime
 name: Summertime Summertime
 rankings:
 - end_date: '1997-07-11'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
 ---
+Take me away, llevame contigo
+I wanna play, querio jugar a la playa, en la tierra
+La brisa que el mar trae
+Querio estar contigo in the summertime (summertime)
 
+Summertime, summertime... take me away
+We can fall in love (summertime)
+
+I'm looking at the rain outside
+Please come and take me for a ride
+I really want you
+To come and take me far away (I want to say)
+
+Take me, take me to the water,
+Summertime, summertime
+Maybe, we can fall in love,
+Summertime, summertime
+
+Summertime...
+Summertime...
+Summertime...
+Summertime...
+
+I'm dreaming, lying on the sand
+You come to me and take my hand
+I can't believe it's true
+But you called me out today, 
+
+Take me, take me to the water,
+Summertime, summertime
+Maybe, we can fall in love,
+Summertime, summertime
+
+Take me, take me to the water,
+Summertime, summertime
+Maybe, we can fall in love,
+Summertime, summertime
+
+Take me, take me to the water,
+Summertime, summertime
+Maybe, we can fall in love,
+Summertime, summertime
+
+Take me, take me to the water,
+Summertime, summertime
+Maybe, we can fall in love,
+Summertime, summertime
+
+We can fall in love, summertime, summertime

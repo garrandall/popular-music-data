@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-than-me-hinder
+lyrics_url: https://genius.com/Hinder-better-than-me-lyrics
 name: Better Than Me
 rankings:
 - end_date: '2007-03-23'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
+I think you can do much better than me
+After all the lies that I made you believe
+Guilt kicks in and I start to see
+The edge of the bed
+Where your nightgown used to be
 
+
+I told myself I won’t miss you
+But I remembered
+What it feels like beside you
+
+
+I really miss your hair in my face
+And the way your innocence tastes
+And I think you should know this
+You deserve much better than me
+
+
+While lookin’ through your old box of notes
+I found those pictures I took
+That you were lookin’ for
+If there’s one memory I don’t wanna lose
+That time at the mall
+You and me in the dressing room
+
+
+I told myself I won’t miss you
+But I remembered
+What it feels like beside you
+
+
+I really miss your hair in my face
+And the way your innocence tastes
+And I think you should know this
+You deserve much better than me
+
+
+The bed I’m lyin’ is getting colder
+Wish I never would’ve said it’s over
+And I can’t pretend
+I won’t think about you when I’m older
+Cause we never really had our closure
+This can’t be the end
+
+
+I really miss your hair in my face
+And the way your innocence tastes
+And I think you should know this
+You deserve much better than me
+I really miss your hair in my face
+And the way your innocence tastes
+And I think you should know this
+You deserve much better than me
+
+
+And I think you should know this
+You deserve much better than me
+And I think you should know this
+You deserve much better than me
+And I think you should know this
+You deserve much better than me
+And I think you should know this

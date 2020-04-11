@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: baby-face-the-wing-and-a-prayer-fife-drum-corps-
+lyrics_url: https://genius.com/Wing-and-a-prayer-fife-and-drum-corps-baby-face-lyrics
 name: Baby Face
 rankings:
 - end_date: '1975-11-21'
@@ -88,4 +89,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
 ---
-
+Baby face, youve got the cutest little baby face
+There's not another one can take your place
+Baby face-my poor heart is jumping
+Youve really started something, Baby race
+I'm up in heaven when I'm in your fond embrace
+I didn't need a shove, cause I just fell in love
+With your pretty baby face

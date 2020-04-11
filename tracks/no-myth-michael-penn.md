@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-myth-michael-penn
+lyrics_url: https://genius.com/Michael-penn-no-myth-lyrics
 name: No Myth
 rankings:
 - end_date: '1990-01-12'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+So
+She says it's time she goes
+But wanted to be sure I know
+She hopes we can be friends
 
+"I think
+Yeah, I guess we can" say I
+But didn't think to ask her why
+She blocked her eyes and drew the curtains
+With knots I've got yet to untie
+
+
+What if I were Romeo in black jeans
+What if I was Heathcliff, it's no myth
+Maybe she's just looking for
+Someone to dance with
+
+
+See
+It was just too soon to tell
+And looking for some parallel
+Can be an endless game
+
+We
+We said goodbye before hello
+My secrets she will never know
+And if I dig a hole to China
+I'll catch the first junk to Soho
+
+
+What if I were Romeo in black jeans
+What if I was Heathcliff, it's no myth
+Maybe she's just looking for
+Someone to dance with
+
+
+Sometime from now you'll bow to pressure
+Some things in life you cannot measure by degrees
+I'm between the poles and the equator
+Don't send no private investigator to find me please
+'Less he speaks Chinese
+And can dance like Astaire overseas
+Okay
+
+
+What if I was
+So, what if I was
+Maybe she's just looking for
+Someone to dance with
+
+
+What if I was Romeo in black jeans
+What if I was Heathcliff, it's no myth
+Maybe she's just looking for
+Someone to dance with

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-mean-nothing-richard-marx
+lyrics_url: https://genius.com/Richard-marx-dont-mean-nothing-lyrics
 name: Don't Mean Nothing
 rankings:
 - end_date: '1987-06-19'
@@ -91,4 +92,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
 ---
+Welcome to the big time, you're bound to be a star
+Even if you don't go all the way, I know that you'll go far
+This race is for rats, it can turn you upside down
+Ain't no one you can count on in this sleazy little town, oh no
 
+Lots of promises in the dark
+Don't you open your heart
+
+'Cause it don't mean nothing
+The words that they say
+No, it don't mean nothing
+These games that people play
+No, it don't mean nothing
+No victim, no crime
+No, it don't mean nothing
+Till you sign it on the dotted line
+Whoa yeah
+
+The director smiles as you walk in the door
+He says, "I love your work, babe, but you're just not what we're looking for"
+It's never what, but who it is you know
+So easy to get stuck in all that California snow, oh no
+
+Take a good look around and you'll find
+People trying to mess with your mind
+
+But it don't mean nothing
+The words that they say
+No, it don't mean nothing
+These games that people play
+No, it don't mean nothing
+No victim, no crime
+No, it don't mean nothing
+Till you sign it on the dotted line
+
+Hollywood can be so lonely
+Make you the winner of a losing fight
+Party is never over
+The stars are always shining, doesn't matter if it's day or night
+
+The producer says, "let me change a line or two"
+And a little bit of something can look awfully good to you
+And you wanna scream, but you gotta keep it all inside
+When you're trying to make a living, there ain't no such thing as pride, oh no
+
+Lots of promises in the dark
+Don't you open your heart
+
+'Cause it don't mean nothing
+The words that they say
+No, it don't mean nothing
+These games that people play
+No, it don't mean nothing
+No victim, no crime
+No, it don't mean nothing
+Till you sign it on the dotted line
+
+(Don't mean nothing) Don't mean nothing
+(Don't mean nothing) Oh, no, it don't mean nothing
+(Don't mean nothing) Oh, no, it don't mean nothing
+(Don't mean nothing) (Don't mean nothing at all)
+
+(Don't mean nothing)
+(Don't mean nothing)
+(Don't mean nothing)
+(Don't mean nothing)

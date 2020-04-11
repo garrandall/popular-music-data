@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-band-of-gold-james-gilreath
+lyrics_url: https://www.musixmatch.com/lyrics/James-Gilreath/Little-Band-of-Gold
 name: Little Band Of Gold
 rankings:
 - end_date: '1963-03-29'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
 ---
+There you were, standing there, smiling as you made your plan
+You were going to leave me and go with him
+You said you loved him so and your love would always be
+And that's the very same thing you once told to me
 
+And you still had my little golden band on your hand
+Does my little band of gold mean nothing to you?
+To me it means the world but youve torn my world apart
+You're leaving me alone with my broken heart
+
+There you were, standing there, smiling as you made your plan
+You were going to leave me and go with him
+You said you loved him so and your love would always be
+And that's the very same thing you once told to me
+
+And you still had my little golden band on your hand
+Does my little band of gold mean nothing to you?
+To me it means the world but youve torn my world apart
+You're leaving me alone with my broken heart
+
+So take my little golden band from your hand
+My little band of gold means nothing to you
+To me it meant the world but youve torn my world apart
+You're leaving me alone with my broken heart
+You're leaving me alone with my broken heart

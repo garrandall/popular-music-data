@@ -89,7 +89,7 @@ rankings:
   start_date: '2015-04-18'
 ---
 
-O.T., Breezy {"The Conglomerate"}
+O.T., Breezy
 Coco, part three! ('caina)
 
 

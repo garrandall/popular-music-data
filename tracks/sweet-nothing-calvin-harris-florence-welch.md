@@ -5,6 +5,7 @@ features:
 - Florence Welch
 genres: []
 key: sweet-nothing-calvin-harris-florence-welch
+lyrics_url: https://www.musixmatch.com/lyrics/Calvin-Harris-Feat-Florence-Welch/Sweet-Nothing
 name: Sweet Nothing
 rankings:
 - end_date: '2012-11-09'
@@ -116,4 +117,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-25'
 ---
+You took my heart, and you held it in your mouth
+And with a word all my love came rushing out
+And every whisper, it's the worst, emptied out by a single word
+There is a hollow in me now (Me now)
 
+So I'll put my faith in something unknown
+I'm living on such sweet nothing
+But I'm tired of hope with nothing to hold
+I'm living on such sweet nothing
+And it's hard to learn
+And it's hard to love
+When you're giving me such sweet nothing
+Sweet nothing, sweet nothing
+You're giving me such sweet nothing
+
+It isn't easy for me to let it go
+'Cause I've swallowed every single word
+And every whisper, every sigh eats away this heart of mine
+And there is a hollow in me now (Me now)
+
+So I'll put my faith in something unknown
+I'm living on such sweet nothing
+But I'm tired of hope with nothing to hold
+I'm living on such sweet nothing
+And it's hard to learn
+And it's hard to love
+When you're giving me such sweet nothing
+Sweet nothing, sweet nothing
+You're giving me such sweet nothing
+
+And it's not enough to tell me that you care
+When we both know that words are empty air
+You give me nothing
+Nothing
+
+Oh-woah, oh-woah
+Oh-woah, sweet nothing
+Oh-woah, oh-woah
+Oh-woah, sweet nothing

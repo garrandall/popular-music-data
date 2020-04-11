@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-still-haven-t-found-what-i-m-looking-for-u2
+lyrics_url: https://genius.com/U2-i-still-havent-found-what-im-looking-for-lyrics
 name: I Still Haven't Found What I'm Looking For
 rankings:
 - end_date: '1987-06-19'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
 ---
+I have climbed the highest mountains
+I have run through the fields
+Only to be with you
+Only to be with you
+I have run, I have crawled
+I have scaled these city walls
+These city walls
+Only to be with you
 
+
+But I still haven't found what I'm looking for
+But I still haven't found what I'm looking for
+
+
+I have kissed honey lips
+Felt the healing in her finger tips
+It burned like fire
+This burning desire
+I have spoke with the tongue of angels
+I have held the hand of a devil
+It was warm in the night
+I was cold as a stone
+
+
+But I still haven't found what I'm looking for
+But I still haven't found what I'm looking for
+
+
+I believe in the Kingdom Come
+Then all the colours will bleed into one
+Bleed into one
+But yes, I'm still running
+You broke the bonds
+And you loosed the chains
+Carried the cross of my shame
+Oh my shame, you know I believe it
+
+
+But I still haven't found what I'm looking for
+But I still haven't found what I'm looking for
+But I still haven't found what I'm looking for
+But I still haven't found what I'm looking for

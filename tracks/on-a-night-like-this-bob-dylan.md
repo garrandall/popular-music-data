@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-a-night-like-this-bob-dylan
+lyrics_url: https://genius.com/Bob-dylan-on-a-night-like-this-lyrics
 name: On A Night Like This
 rankings:
 - end_date: '1974-03-01'
@@ -31,4 +32,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
 ---
+On a night like this
+So glad you came around
+Hold on to me so tight
+And heat up some coffee grounds
+We got much to talk about
+And much to reminisce
+It sure is right
+On a night like this
 
+
+On a night like this
+So glad you’ve come to stay
+Hold on to me, pretty miss
+Say you’ll never go away to stray
+Run your fingers down my spine
+Bring me a touch of bliss
+It sure feels right
+On a night like this
+
+
+On a night like this
+I can’t get any sleep
+The air is so cold outside
+And the snow’s so deep
+Build a fire, throw on logs
+And listen to it hiss
+And let it burn, burn, burn, burn
+On a night like this
+
+
+Put your body next to mine
+And keep me company
+There is plenty a-room for all
+So please don’t elbow me
+
+
+Let the four winds blow
+Around this old cabin door
+If I’m not too far off
+I think we did this once before
+There’s more frost on the window glass
+With each new tender kiss
+But it sure feels right
+On a night like this

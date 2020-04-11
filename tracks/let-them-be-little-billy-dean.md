@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-them-be-little-billy-dean
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Dean/Let-Them-Be-Little
 name: Let Them Be Little
 rankings:
 - end_date: '2005-02-04'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
 ---
+I can remember when you fit in the palm of my hand.
+You felt so good in it; no bigger than a minute.
+How it amazes me you're changin' with every blink.
+Faster than a flower blooms, they grow up all too soon.
 
+So let them be little,
+'Cause they're only that way for a while.
+Give 'em hope, give them praise,
+Give them love every day.
+Let 'em cry, let 'em giggle,
+Let 'em sleep in the middle,
+Oh, but let them be little.
+
+I never felt so much in one little tender touch.
+I live for those kisses, your prayers an' your wishes.
+An' now you're teachin' me how only a child can see.
+Tonight, while we're on our knees, all I ask is:
+
+Please, let them be little,
+'Cause they're only that way for a while.
+Give them hope, give them praise,
+Give them love every day.
+Let 'em cry, let 'em giggle,
+Let 'em sleep in the middle,
+Oh, but let them be little.
+
+The so innocent, precious soul:
+You turn around, an' it's time to let them go.
+
+So let them be little,
+'Cause they're only that way for a while.
+Give them hope, give 'em praise,
+Give them love every day.
+Let 'em cry, let 'em giggle,
+Let them sleep in the middle,
+Oh, but let them be little.
+
+Let them be little.

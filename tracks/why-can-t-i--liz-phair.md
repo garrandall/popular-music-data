@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-can-t-i--liz-phair
+lyrics_url: https://genius.com/Liz-phair-why-cant-i-lyrics
 name: Why Can't I?
 rankings:
 - end_date: '2003-09-26'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-31'
 ---
+Get a load of me, get a load of you
+Walking down the street and I hardly know you
+It's just like we were meant to be
+Holding hands with you when we're out at night
+Got a girlfriend, you say it isn't right
+And I've got someone waiting too
 
+
+What if this is just the beginning?
+We're already wet and we're gonna go swimming
+
+
+Why can't I breathe
+Whenever I think about you?
+Why can't I speak
+Whenever I talk about you?
+It's inevitable
+It's a fact that we're gonna get down to it
+So tell me
+Why can't I breathe whenever I think about you?
+Whenever I think about you...
+
+
+Isn't this the best part of breaking up?
+Finding someone else you can't get enough of
+Someone who wants to be with you too
+It's an itch we know we are gonna scratch
+Gonna take a while for this egg to hatch
+But wouldn't it be beautiful
+
+
+Here we go
+We're at the beginning, we haven't fucked yet
+But my head's spinning
+
+
+Why can't I breathe
+Whenever I think about you?
+Why can't I speak
+Whenever I talk about you?
+It's inevitable
+It's a fact that we're gonna get down to it
+So tell me
+Why can't I breathe whenever I think about you?
+
+
+High enough for you to make me wonder
+Where it's going
+High enough for you to pull me under
+Somethin's growing
+Out of this that we can control
+Baby, I am dyin'
+
+
+Why can't I breathe
+Whenever I think about you?
+Why can't I speak
+Whenever I talk about you?
+Why can't I breathe
+Whenever I think about you?
+Why can't I speak
+Whenever I talk about you?
+It's inevitable
+It's a fact that we're gonna get down to it
+So tell me
+Why can't I breathe whenever I think about you?
+
+
+Whenever I think about you
+Whenever I think about you
+Whenever I think about you
+Whenever I think about you

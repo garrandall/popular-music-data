@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-weak-to-fight-clarence-carter
+lyrics_url: https://genius.com/Clarence-carter-too-weak-to-fight-lyrics
 name: Too Weak To Fight
 rankings:
 - end_date: '1968-11-15'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
 ---
+There is something, baby, about you
+That's really attracting me, yeah
+And your sweet love, darling
+Really got a hold on me
 
+I've got a little taste of your love
+And now I'm hooked on you, yeah
+And I keep falling, falling
+But what can I do
+
+I'm too weak to fight
+Listen to me, baby
+Too weak to fight, yeah
+
+You're breaking down my health, girl
+Can't eat and I can't sleep, oh no
+I've tried to turn you loose, now
+But your hook is in too deep, oh yeah
+
+My resistance is getting a little low
+And I've got to find a cure, uh huh
+'Cause I keep falling, falling
+Falling for you, yeah
+
+I'm too weak to fight
+Listen to me, baby
+Too weak to fight, yeah
+
+I'm too weak to fight
+You're messin' with my head
+You got me too weak to fight, uh huh
+Too weak to fight now, baby
+I'm calling wrong numbers
+Too weak to fight now, baby
+You got my head going, going around and 'round, oh yeah
+Too weak to fight now baby, baby, baby, baby, uh huh
+Yes I am

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-over-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-its-over-lyrics
 name: It's Over
 rankings:
 - end_date: '1964-04-17'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
 ---
+Your baby doesn't love you anymore
+Golden days before they end
+Whisper secrets to the wind
+Your baby won't be near you any more
 
+Tender nights before they fly
+Send falling stars that seem to cry
+Your baby doesn't want you anymore
+It's over
+
+It breaks your heart in two, To know she's been untrue
+But oh what will you do? Then she said to you
+There's someone new We're through We're through
+It's over It's over It's over
+
+All the rainbows in the sky
+Start to weep, then say goodbye
+You won't be seeing rainbows any more
+Setting suns before they fall, Echo to you that's all that's all
+But you'll see lonely sunset after all
+
+It's over It's over It's over It's over

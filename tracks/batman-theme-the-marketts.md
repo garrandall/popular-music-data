@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: batman-theme-the-marketts
+lyrics_url: https://genius.com/The-marketts-batman-theme-lyrics
 name: Batman Theme
 rankings:
 - end_date: '1966-02-11'
@@ -43,4 +44,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
 ---
+Batman, Batman, Batman
+Batman, Batman, Batman, Batman
 
+Batman, Batman, Batman
+Batman, Batman, Batman, Batman
+
+Batman, Batman, Batman
+Batman, Batman, Batman, Batman
+
+Batman, Batman, Batman
+Batman, Batman, Batman, Batman
+Batman, Batman, Batman
+
+Da da da da da da da da da da da da da da da da da
+
+Batman!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-touch-me-bettye-swann
+lyrics_url: https://genius.com/Bettye-swann-dont-touch-me-lyrics
 name: Don't Touch Me
 rankings:
 - end_date: '1969-03-14'
@@ -47,4 +48,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
+Baby, baby, baby
 
+Your hand is like a torch each time you touch me
+And that look in, in your eyes, it just takes me apart
+But, please don't open the door to Heaven if I can't, if I can't come in
+Don't touch me if you don't love me, don't do it sweetheart
+
+Don't give me something that you might soon, soon take away baby
+To have you and then lose you that wouldn't be smart on my part
+Baby, baby don't open the door to Heaven if you won't, if you won't let me in
+And please, don't touch me unless you love me, sweetheart
+Please, don't touch me unless you love me, don't do it sweetheart

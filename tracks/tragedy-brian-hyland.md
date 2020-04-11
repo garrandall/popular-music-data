@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tragedy-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-tragedy-lyrics
 name: Tragedy
 rankings:
 - end_date: '1969-01-17'
@@ -47,4 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
 ---
+Wind and storm, goes the sun
+From the stars, my dark has come
+You've gone from me, oh, oh, tragedy
 
+Oh come back, have me near
+Hold me love, be sincere
+You've gone from me, oh, oh, tragedy
+
+Like smoke from a fire of love, oh, oh
+Our dreams have all gone above, oh, oh
+
+Blown by wind, kissed by snow
+All that's left is a dark below
+You've gone from me, oh, oh, tragedy
+
+Oh come back, have me here
+Hold me love, be sincere
+You've gone from me, oh, oh, tragedy

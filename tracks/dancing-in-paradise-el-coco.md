@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-paradise-el-coco
+lyrics_url: https://www.musixmatch.com/lyrics/El-Coco/Dancing-in-Paradise
 name: Dancing In Paradise
 rankings:
 - end_date: '1978-11-03'
@@ -31,4 +32,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
 ---
+Dancing, dancing in paradise
+Dancing, dancing in paradise
 
+Dancing, dancing in paradise
+Swaying under the sun
+Dancing, dancing in paradise
+Lovers moving as one
+
+Summer nights
+To your delight
+Lovers swaying
+Music playing
+
+Feel it
+Feel it

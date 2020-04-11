@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: going-in-circles-the-friends-of-distinction
+lyrics_url: https://genius.com/The-friends-of-distinction-going-in-circles-lyrics
 name: Going In Circles
 rankings:
 - end_date: '1969-08-22'
@@ -87,4 +88,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
 ---
+I'm an ever rollin' wheel, without a destination real
+I'm an ever spinning top, whirling around till i drop
+Oh but what am i to do, my mind is in a whirlpool
+Give me a little hope, one small thing to cling to
 
+You got me going in circles(oh round and round i go)
+You got me going in circles
+(oh round and round i go, i'm spun out over you)
+
+I'm a faceless clock, with timeless hopes that never stop
+Lord but i feel that way, of my soul. My soul is stay
+Oh but what am i to do, my mind is in a whirlpool
+Give me a little hope, one small thing to cling to
+
+You got me going in circles(oh round and round i go)
+You got me going in circles
+(oh round and round i go) I'm spun out over you
+(i need you baby) over you (i need you baby) spun out over you
+(i need you baby, i need you baby baby) (oh baby)
+I'm spun(i need you baby) i said i'm spun out over you(i need you baby)
+Spun out over you(i need you baby, i need you baby, i need you baby)

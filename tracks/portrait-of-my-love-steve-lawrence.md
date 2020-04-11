@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: portrait-of-my-love-steve-lawrence
+lyrics_url: https://genius.com/Steve-lawrence-portrait-of-my-love-lyrics
 name: Portrait Of My Love
 rankings:
 - end_date: '1961-03-12'
@@ -71,4 +72,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
 ---
+There could never be a portrait of my love
+For nobody can paint a dream
+You will never see a portrait of my love
+For miracles are never seen
 
+Anyone who sees her, soon forgets the Mona Lisa
+It would take, I know, a Michelangelo
+And he would need the glow of dawn that paints the sky above
+To try and paint a portrait of my love
+
+It would take, I know, a Michelangelo
+And he would need the glow of dawn that paints the sky above
+To try and paint a portrait of my love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: any-way-you-want-it-journey
+lyrics_url: https://genius.com/Journey-any-way-you-want-it-lyrics
 name: Any Way You Want It
 rankings:
 - end_date: '1980-03-07'
@@ -67,4 +68,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
 ---
+Any way you want it
+That's the way you need it
+Any way you want it
 
+
+She loves to laugh
+She loves to sing
+She does everything
+She loves to move
+She loves to groove
+She loves the loving things
+
+
+Ooh, all night
+All night
+Oh, every night
+So hold tight
+Hold tight
+Ooh, baby, hold tight
+Oh, she said
+
+
+Any way you want it
+That's the way you need it
+Any way you want it
+She said, Any way you want it
+That's the way you need it
+Any way you want it
+
+
+I was alone
+I never knew
+What good love could do
+Ooh, then we touched
+Then we sang
+About the loving things
+
+
+Ooh, all night
+All night
+Oh, every night
+So hold tight
+Hold tight
+Ooh baby, hold tight
+Oh, she said
+
+
+Any way you want it
+That's the way you need it
+Any way you want it
+I said, any way you want it
+That's the way you need it
+Any way you want it
+
+
+
+
+She said ohh
+Hold on
+Hold on
+Hold on
+
+
+Oh, she said any way you want it
+That's the way you need it
+Any way you want it
+(Any way) Any way you want it
+That's the way you need it
+Any way you want it
+
+
+Oh, she said any way you want it
+That's the way you need it
+Any way you want it
+Any way you want it
+That's the way you need it
+Any way you want it
+
+
+Any way you want it
+That's the way you need it
+Any way you want it
+Any way you want it
+That's the way you need it
+Any way you want it
+
+
+(Any way) Any way you want it
+That's the way you need it
+Any way you want it
+(Any way) Any way you want it
+That's the way you need it
+Any way you want it
+
+
+(Any way) Any way you want it
+That's the way you need it
+Any way you want it
+(Any way) Any way you want it
+That's the way you need it
+Any way you want it

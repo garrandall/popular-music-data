@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-looks-could-kill-player
+lyrics_url: https://genius.com/Player-if-looks-could-kill-lyrics
 name: If Looks Could Kill
 rankings:
 - end_date: '1982-01-29'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
 ---
+One look and I knew it was her, even from across the street
+Took forever for the light to change in that New York heat
+I didn't want to lose her
+So I reached out from behind
+I wasn't ready for her thunder
+Or the fire in her eyes
 
+If looks could kill
+I wouldn't have a breath left in me
+Was she so scared of all those memories
+Or did I take her by surprise?
+If looks could kill
+My heart would surely have stopped beating
+Didn't expect that kind of greeting
+Couldn't find one good reason why
+
+I thought we buried the bitterness
+I thought the air was clear
+But there was a chill over Christopher Street
+For that time of year
+Was she trying to free herself
+From any old thoughts of me?
+Cause as we stood there face to face
+It was plain enough to see...
+
+If looks could kill
+I wouldn't have a breath left in me
+Was she so scared of all those memories
+Or did I take her by surprise?
+If looks could kill
+My heart would surely have stopped beating
+Didn't expect that kind of greeting
+Couldn't find one good reason why
+
+If looks could kill
+I wouldn't have a breath left in me
+Was she so scared of all those memories
+Or did I take her by surprise?
+If looks could kill
+My heart would surely have stopped beating
+Didn't expect that kind of greeting
+Couldn't find one good reason why
+
+If looks could kill
+I wouldn't have a breath left in me
+Was she so scared of all those memories

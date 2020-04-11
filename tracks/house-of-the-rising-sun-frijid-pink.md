@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-of-the-rising-sun-frijid-pink
+lyrics_url: https://genius.com/Frijid-pink-house-of-the-rising-sun-lyrics
 name: House Of The Rising Sun
 rankings:
 - end_date: '1970-02-13'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
 ---
+There is a house in New Orleans
+They call the rising sun
+And it's been the ruin of many a poor Boy
+And God I know I'm one
 
+My mother was a tailor
+Sewed my new blue jeans
+My father was a gamblin' man
+Down in New Orleans
+Now the only thing a gambler needs is
+A suitcase and a trunk
+And the only time he'll be satisfied
+Is when he's on a drunk
+
+Oh mother, tell your children
+Not to do what I have done
+Spend your lives in sin and misery
+In the house of the Rising Sun
+
+Well I've got one foot on the platform
+The other foot on the train
+I'm going back to New Orleans
+To wear that ball and chain
+
+Well there is a house in New Orleans
+They call the Rising Sun
+And it's been the ruin of many a poor boy
+And God, I know, I'm one

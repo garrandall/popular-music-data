@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-party-s-over-billie-eilish
+lyrics_url: https://genius.com/Billie-eilish-when-the-partys-over-lyrics
 name: When The Party's Over
 rankings:
 - end_date: '2018-11-09'
@@ -135,4 +136,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
 ---
+Don't you know I'm no good for you?
+I've learned to lose you, can't afford to
+Tore my shirt to stop you bleedin'
+But nothin' ever stops you leavin'
 
+
+Quiet when I'm coming home and I'm on my own
+I could lie, say I like it like that, like it like that
+I could lie, say I like it like that, like it like that
+
+
+Don't you know too much already?
+I'll only hurt you if you let me
+Call me friend, but keep me closer (Call me back)
+And I'll call you when the party's over
+
+
+Quiet when I'm coming home and I'm on my own
+And I could lie, say I like it like that, like it like that
+Yeah, I could lie, say I like it like that, like it like that
+
+
+But nothin' is better sometimes
+Once we've both said our goodbyes
+Let's just let it go
+Let me let you go
+
+
+Quiet when I'm coming home and I'm on my own
+I could lie, say I like it like that, like it like that
+I could lie, say I like it like that, like it like that

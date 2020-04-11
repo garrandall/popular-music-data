@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deep-inside-my-heart-randy-meisner
+lyrics_url: https://genius.com/Randy-meisner-deep-inside-my-heart-lyrics
 name: Deep Inside My Heart
 rankings:
 - end_date: '1980-10-24'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
 ---
+I stayed up all night
+Waiting for you to call
+But something ain't right
+'Cause night after night I get lonely
 
+It's been awhile
+Since I've seen that look in your eyes
+Now that you're gone
+I can't go on without you
+
+And deep (deep) inside (inside) my heart
+I had a feeling right from the start
+You didn't love me
+And deep (deep) inside (inside) my heart
+I had a feeling you tore apart
+You didn't want me
+Like I wanted you
+Like I wanted you
+
+I turned out the light
+I tossed and I turned until dawn
+I couldn't sleep
+I just couldn't keep from cryin'
+
+I'll never learn
+Whatever I do, I get burned
+You went away
+Now I face the day without you
+
+And deep (deep) inside (inside) my heart
+I had a feeling right from the start
+You didn't love me
+And deep (deep) inside (inside) my heart
+I had a feeling you tore apart
+You didn't want me
+Like I wanted you (like I wanted you)
+Like I wanted you (like I wanted you)
+Like I wanted you (like I wanted you)
+Like I wanted you (yeah, like I wanted you)
+
+And deep (deep) inside (inside) my heart
+I had a feeling you tore apart
+You didn't want me
+Like I wanted you (I wanted you)
+Like I wanted you (like I wanted you)
+Like I wanted you (like I wanted you)
+Like I wanted you

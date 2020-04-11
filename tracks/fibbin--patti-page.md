@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fibbin--patti-page
+lyrics_url: https://genius.com/Patti-page-fibbin-lyrics
 name: Fibbin'
 rankings:
 - end_date: '1958-09-28'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
+Honey you've been fibbin'
+Tellin' me such lies
+Know that you've been givin'
+Ev'ry guy the eye
 
+Honey you've been foolin'
+From the very start
+Think of what you're doin'
+To my achin' heart
+Don'tcha know I'm sighin' ?
+Don'tcha know I'm crying' ?
+Don'tcha know I'm tryin' ?
+To believe yuh ?
+
+Oo, Oo, Oo, Honey I'm just livin'
+For a love that's true
+When you stop you fibbin'
+I'll come back to you
+
+Honey you've been fibbin'
+Tellin' me such lies...

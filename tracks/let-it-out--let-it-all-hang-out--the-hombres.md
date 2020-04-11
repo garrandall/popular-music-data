@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-out--let-it-all-hang-out--the-hombres
+lyrics_url: https://genius.com/The-hombres-let-it-out-let-it-all-hang-out-lyrics
 name: Let It Out (Let It All Hang Out)
 rankings:
 - end_date: '1967-09-22'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
 ---
+(spoken): "A preachment, dear friends, you are about to receive
+On John Barleycorn, nicotine, and the temptations of Eve"
+(Bronx cheer)
 
+No parkin' by the sewer sign
+Hot dog, my razor's broke
+Water drippin' up the spout
+But I don't care, let it all hang out
+
+Hangin' from a pine tree by my knees
+Sun is shinin' through the shade
+Nobody knows what it's all about
+It's too much, man, let it all hang out
+
+Saw a man walkin' upside down
+My T.V.'s on the blink
+Made Galileo look like a Boy Scout
+Sorry 'bout that, let it all hang out
+
+Sleep all day, drive all night
+Brain my numb, can't stop now
+For sure ain't no doubt
+Keep an open mind, let it all hang out
+
+It's rainin' inside a big brown moon
+How does that mess you baby up, leg
+Eatin' a Reuben sandwich with sauerkraut
+Don't stop now, baby, let it all hang out
+
+Let it all hang out (harmonized)

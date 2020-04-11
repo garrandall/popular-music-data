@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-dream-rockell
+lyrics_url: https://genius.com/Rockell-in-a-dream-lyrics
 name: In A Dream
 rankings:
 - end_date: '1997-09-12'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-06'
 ---
+Sweetheart, I can't stop thinking about you
 
+You'll always be in my dreams
+You'll always be in my dreams
+You'll always be in my dreams
+
+Never in my dreams
+I thought I'd be with you
+You're often on my mind
+I'll always love you
+When I close my eyes
+Just to see your face
+I wish this were real
+But I'm just dreaming
+I can't believe that
+This is all in a dream
+I'm gonna wait to be
+With you my love
+I'll always love you
+And want you more
+I can't go on
+Without your love
+
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+
+OOOOO, what an angel
+You have to be
+You'd take me to heaven
+Never leave never go away
+Please stay with me tonight
+I need you with me
+Can't believe that
+This is all in a dream
+I'm gonna wait to be
+With you my love
+I'll always love you
+And want you more
+I can't go on
+Without your love
+
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+In a dream my love
+You will find my heart
+...You will find my heart

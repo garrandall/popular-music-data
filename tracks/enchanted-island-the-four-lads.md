@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: enchanted-island-the-four-lads
+lyrics_url: https://genius.com/The-four-lads-enchanted-island-lyrics
 name: Enchanted Island
 rankings:
 - end_date: '1958-08-10'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
+True love
+Is an enchanted island
+And we have found that island
+From which we'll never roam
 
+We stand
+On an enchanted island
+A magic yours-and-m6 land
+That we can call our home
+
+If all around, we found
+A sea of faces
+I know your face is
+The only one I'd see
+
+True love
+Is an enchanted island
+And we're upon that island
+Wherever we may be

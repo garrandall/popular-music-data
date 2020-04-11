@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: words-get-in-the-way-miami-sound-machine
+lyrics_url: https://genius.com/Miami-sound-machine-words-get-in-the-way-lyrics
 name: Words Get In The Way
 rankings:
 - end_date: '1986-06-20'
@@ -103,4 +104,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+I realize you're seeing someone new
+I don't believe she knows you like I do
+Your temperamental moody side
+The one you always try to hide from me
 
+But I know when you have something on your mind
+You've been trying to tell me
+For the longest time
+And before you break my heart in two
+There's something I've been trying to say to you
+
+
+But the words get in the way
+There's so much I want to say
+But it's locked deep inside
+And if you look in my eyes
+We might fall in love again
+
+I won't even start to cry
+And before we say goodbye
+I tried to say "I love you"
+But the words got in the way
+
+
+Your heart has always been an open door
+But baby I don't even know you anymore
+And despite the fact it's hurting me
+I know the time has come to set you free
+
+But then I realize you're seeing someone new
+I don't believe she knows you like I do
+Your temperamental moody side
+The one you always try to hide from me
+
+But I know when you have something on your mind
+You've been trying to tell me
+For the longest time
+And before you break my heart in two
+There's something I've been trying to say to you
+
+
+
+
+Your heart has always been an open door
+But baby I don't even know you any more
+And despite the fact it's hurting me
+I know the time has come to set you free
+
+
+
+I'm trying to say "I love you"
+But the words get in the way
+
+There's so much I want to say
+But it's locked deep inside
+And if you look in my eyes
+We might fall in love again
+
+I won't even start to cry
+And before we say goodbye
+I tried to say "I love you"
+But the words got in the way
+
+I'm trying to say "I love you"
+But the words get in the way

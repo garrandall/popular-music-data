@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: behind-blue-eyes-the-who
+lyrics_url: https://genius.com/The-who-behind-blue-eyes-lyrics
 name: Behind Blue Eyes
 rankings:
 - end_date: '1971-11-12'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
 ---
+No one knows what it's like
+To be the bad man, to be the sad man
+Behind blue eyes
 
+No one knows what it's like
+To be hated, to be fated
+To telling only lies
+
+
+But my dreams, they aren't as empty
+As my conscience seems to be
+I have hours, only lonely
+My love is vengeance that's never free
+
+
+No one knows what it's like
+To feel these feelings like I do
+And I blame you
+
+No one bites back as hard
+On their anger, none of my pain and woe
+Can show through
+
+
+But my dreams, they aren't as empty
+As my conscience seems to be
+I have hours, only lonely
+My love is vengeance that's never free
+
+
+When my fist clenches, crack it open
+Before I use it and lose my cool
+When I smile, tell me some bad news
+Before I laugh and act like a fool
+
+And if I swallow anything evil
+Put your finger down my throat
+And if I shiver, please give me a blanket
+Keep me warm, let me wear your coat
+
+
+No one knows what it's like
+To be the bad man, to be the sad man
+Behind blue eyes

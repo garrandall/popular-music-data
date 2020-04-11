@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: dream-boy-cynthia-johnny-o
+lyrics_url: https://genius.com/Cynthia-and-johnny-o-dream-boy-dream-girl-lyrics
 name: Dream Boy
 rankings:
 - end_date: '1990-09-07'
@@ -68,4 +69,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
 ---
-
+I still remember the first time
+You've said that you love me
+You held me in your arms
+And said you'd never ever leave me
+(You'd never, ever leave)
+And all these promises you've kept
+Have erased the past when I once wept
+You made my fantasies come true
+My heart belongs to you
+You're my dream boy
+You show me your love in every way
+You're faithful to me every day
+Now I know that dreams come true
+You're my dream boy
+My friends told me that I'll be lucky
+To have a girl like you
+'Cause all the girls I ever had
+Their love was never true
+(Their love was never true)
+And you have brought me happiness
+I treasure the day when we first met
+Never ever gonna let you go
+Because I love you so
+You're my dream girl
+You don't neglect me in any way
+You make me feel special every day
+Now I know that dreams come true
+You're my dream boy
+You came and filled my heart with joy
+And I can smile again
+'Cause I found a love that will never end
+You say that I'm your dream boy
+That I fill your heart with joy
+But you're my dream girl
+You're all I want in this world
+You give me the love I need
+I know we were meant to be
+Talk to me
+When you hold me in your arms
+I feel so safe and warm
+When you look into my eyes
+You have me hypnotized
+You give me all your love
+You're all I'm thinking of
+You made my dreams come true
+My heart belongs to you
+You're my dream boy
+(You're my dream girl)
+You show me your love in every way
+You're faithful to me everyday
+(Everyday)
+Now I know that dreams come true
+You're my dream boy
+(You're my dream girl)
+You don't neglect me in any way
+(Your love is mine, baby)
+You make me feel special everyday
+(Everyday)
+Now I know that dreams come true
+You're my dream boy
+(You're my dream girl)
+You show me your love in every way
+You're faithful to me everyday
+(Everyday)
+Now I know that dreams come true
+You're my dream boy
+(You're my dream girl)
+You don't neglect me in any way
+(Your love is mine, baby)
+You make me feel special everyday
+(Everyday)
+Now I know that dreams come true
+You're my dream boy

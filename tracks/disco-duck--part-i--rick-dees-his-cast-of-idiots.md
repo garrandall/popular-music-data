@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: disco-duck--part-i--rick-dees-his-cast-of-idiots
+lyrics_url: https://genius.com/Rick-dees-and-his-cast-of-idiots-disco-duck-lyrics
 name: Disco Duck (Part I)
 rankings:
 - end_date: '1976-08-20'
@@ -108,4 +109,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
+Went to a party the other night
+All the ladies were treating me right
+Moving my feet to the disco beat
+How in the world could I keep my seat
 
+All of a sudden
+I began to change
+I was on the dance floor acting strange
+Flapping my arms
+I began to cluck
+Look at me
+I'm the disco duck
+
+
+Ah, get down mama
+I've got to have me a woman
+Ha ha ha ha ha
+
+
+Disco, disco duck
+
+
+Got to have me a woman
+
+
+Disco, disco duck
+
+
+Oh, get down, mama
+
+
+Try your luck
+Don't be a cluck
+Disco
+
+:
+Disco
+
+:
+Disco
+
+:
+Disco
+
+
+Disco
+Disco
+Disco
+Disco duck
+
+:
+All right
+
+
+Disco disco duck
+
+
+Ah, get down, mama
+Oh mama, shake your tail feather
+Ha ha ha ha ha
+
+
+When the music stopped
+I returned to my seat
+But there's no stopping a duck and his beat
+So I got back up to try my luck
+Why look it's the disco duck!
+
+
+Everybody's doing the
+
+
+Disco, disco duck
+Disco, disco duck
+Try your luck
+
+
+Wave to me
+
+
+Don't be a cluck
+
+
+I'm so happy to be here
+
+
+Disco
+
+
+Thank you, duck
+
+
+Disco
+
+
+For getting down
+
+
+Disco disco disco
+
+
+Thank you so very much
+
+
+Disco duck
+
+
+You're welcome
+
+
+Disco
+Disco Duck
+Try your luck
+Don't be a cluck
+Disco, disco, disco

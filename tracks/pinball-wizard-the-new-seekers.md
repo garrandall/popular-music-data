@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pinball-wizard-the-new-seekers
+lyrics_url: https://genius.com/The-new-seekers-pinball-wizard-see-me-feel-me-lyrics
 name: Pinball Wizard
 rankings:
 - end_date: '1973-03-02'
@@ -59,4 +60,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
 ---
+Ever since I was a young boy, I've played the silver ball
+From Soho down to Brighton, I must have played them all
+But I ain't seen nothing like him in any amusement hall
+That deaf dumb and blind kid sure plays a mean pinball
 
+He stands like a statue, becomes part of the machine
+Feeling all the bumpers, always playing clean
+He plays by intuition, the digit counters fall
+That deaf dumb and blind kid sure plays a mean pin ball
+
+He's a pinball wizard, there has got to be a twist
+A pinball wizard's got such a supple wrist
+How do you think he does it? I don't know
+What makes him so good?
+
+He ain't got no distractions, can't hear those buzzers and bells
+Don't see lights a flashin', plays by sense of smell
+Always has a replay 'n' never tilts at all
+That deaf dumb and blind kid sure plays a mean pinball
+
+I thought I was the Bally table king
+But I just handed my pinball crown to him
+
+Even on my usual table, he can beat my best
+His disciples lead him in and he just does the rest
+He's got crazy flipper fingers, never seen him fall
+That deaf dumb and blind kind sure plays a mean pinball

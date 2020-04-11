@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-baby--how-long-must-i-dream--roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-dream-baby-how-long-must-i-dream-lyrics
 name: Dream Baby (How Long Must I Dream)
 rankings:
 - end_date: '1962-02-23'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
+Sweet dream baby
+Sweet dream baby
+Sweet dream baby
+How long must I dream?
 
+Dream baby got me dreaming sweet dreams, the whole day through
+Dream baby got me dreaming sweet dreams, the night-time too
+I love you and I'm dreaming of you, that won't do
+Dream baby, make me stop my dreaming, you can make my dreams come true
+
+Sweet dream baby
+Sweet dream baby
+Sweet dream baby
+How long must I dream?
+
+Dream baby got me dreaming sweet dreams, the whole day through
+Dream baby got me dreaming sweet dreams, the night-time too
+I love you and I'm dreaming of you, that won't do
+Dream baby, make me stop my dreaming, you can make my dreams come true
+
+Oh sweet dream baby
+Yeah sweet dream baby
+Sweet dream baby
+How long must I dream?
+
+Sweet dream baby
+Sweet dream baby
+Sweet dream baby

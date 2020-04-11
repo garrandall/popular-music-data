@@ -13,8 +13,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
 ---
-
-
 Yellow tape, I put that on (Yeah, yeah)
 Hold up, wait, life's great (Yeah, yeah)
 Hold up, wait, ice skate (Yeah, yeah)
@@ -39,11 +37,11 @@ What's up, mate? Got cake, mate (Yeah, yeah)
 Got cheese, mate, got bread, mate (Woo)
 Got cups, mate (Woo, ooh), no fucks, mate (Woo, mate)
 Give no fucks, mate (Woo, fucks, mate), I'm up, mate (Woo, outta shape, yeah, yeah)
-{It's up, mate, I buck, mate (Yeah, yeah)
+It's up, mate, I buck, mate (Yeah, yeah)
 I bleed, mate, he bled, mate (Woo, yeah, yeah)
 Got cups, mate, (Woo) no fucks, mate
 Let's fuck, mate (Woo)
-Fucked my classmate (Woo), fuck, shit, let's splash, mate} (Woo)
+Fucked my classmate (Woo), fuck, shit, let's splash, mate (Woo)
 Or suck that shit, let's splash, hey
 
 
@@ -53,8 +51,8 @@ We prepare first and then Columbine
 Trenchcoat, under a nigga's sleeve
 
 
-Wipe his nose, wipe his nose {Pussy ass nigga}
-Wipe his nose, {Slatt} wipe his nose (Wipe your nose)
+Wipe his nose, wipe his nose
+Wipe his nose,  wipe his nose (Wipe your nose)
 Wipe his nose, (Wipe your nose, slatt) wipe his nose (Slatt, wipe his nose)
 Wipe his nose, (Wipe your nose), wipe his nose (Yeah, yeah)
 
@@ -95,7 +93,7 @@ Then you buy that bitch a brand new Range Rover (Woo, woo, yeah, yeah, yeah, yea
 I'm so high, all I can say is "Woo, woo, woo"
 I can't talk, I barely could say, "Woo, woo, woo"
 Count a M and count another one, ooh, ooh (Ooh)
-Fuck that shit, I enter the lotto, woo, woo {Fuck it, yeah, yeah}
+Fuck that shit, I enter the lotto, woo, woo
 
 
 Count a half and another

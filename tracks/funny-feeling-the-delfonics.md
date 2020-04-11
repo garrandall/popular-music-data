@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny-feeling-the-delfonics
+lyrics_url: https://genius.com/The-delfonics-funny-feeling-remastered-lyrics
 name: Funny Feeling
 rankings:
 - end_date: '1969-06-20'
@@ -15,4 +16,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+The world that you live in is grooving
+(Grooving, grooving, grooving)
+All the things on the street just a-moving
+(Moving, moving, moving)
 
+And every time that?
+And you know that you got nowhere to run
+
+Well, I wanna know
+Do you got that funny feeling
+Well, do you got that funny feeling
+
+You walk? feeling funny
+And you feel that you don't need no money
+And you find that you're rocking and reeling
+And you?
+
+Well, I wanna know
+Do you got that funny feeling
+Do you got that funny feeling
+
+Are you feeling groovy, baby
+Are you feeling good
+
+I can't get no sleep at night
+?

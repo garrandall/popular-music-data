@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-own-true-love-the-duprees
+lyrics_url: https://genius.com/The-duprees-my-own-true-love-lyrics
 name: My Own True Love
 rankings:
 - end_date: '1962-10-26'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
 ---
+My own true love
+My own true love
+At last Ive found you
+My own true love
 
+No lips but yours
+No arms but yours
+Will ever lead me
+Through Heavens doors
+
+I roamed the Earth
+In search of this
+I knew Id know you
+Know you by your kiss
+
+And by your kiss
+Youve shown true love
+Im yours forever
+My own true love
+
+My own true love

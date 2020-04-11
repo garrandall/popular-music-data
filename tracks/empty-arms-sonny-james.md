@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: empty-arms-sonny-james
+lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Empty-Arms
 name: Empty Arms
 rankings:
 - end_date: '1971-04-16'
@@ -19,4 +20,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
 ---
+Empty arms that long for you
+And they wait, they wait just for you
+And these arms will stay this way
+Till you return to them some day
 
+Each lonely night I'll go to bed
+Mm-My heart the pillow where you used to lay your head
+
+Empty arms, but not for long
+'Cause my man, he is comin' home
+And when he, when he walks through that door
+These empty arms I'll have no more
+
+Yeah, these empty arms I'll have no more

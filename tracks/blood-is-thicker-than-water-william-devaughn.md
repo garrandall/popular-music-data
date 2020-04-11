@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blood-is-thicker-than-water-william-devaughn
+lyrics_url: https://genius.com/William-devaughn-blood-is-thicker-than-water-lyrics
 name: Blood Is Thicker Than Water
 rankings:
 - end_date: '1974-09-13'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
 ---
+They say that blood
+Blood's thicker than water
+But I say they're wrong
+And what they're thinking of
+What they don't know
+And I think they oughta
+And that is that
 
+(CHORUS)
+Blood may be thicker than water
+But not when you're caught in love's flood
+Blood may be thicker than water
+But nothing's thicker than love
+Nothing's thicker than love
+
+People draw lines
+That you don't dare step over
+This world's so full
+Full of does and don'ts
+But we'll fight with feeling, baby
+Deep love and feeling
+And so I'm saying
+
+(CHORUS)
+
+People close doors
+They lock up and shutter
+Find all kind of ways
+To keep us all out
+But we'll fight with feeling, baby
+Deep love and feeling
+And so I'm saying
+
+(CHORUS)
+
+Blood may be thicker than water
+But nothing's thicker than love
+Blood may be thicker than water
+But nothing's thicker than love
+
+Yeah, baby
+Blood may be thicker than water
+But nothing's thicker than love...

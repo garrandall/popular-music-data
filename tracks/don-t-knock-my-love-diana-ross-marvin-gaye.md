@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: don-t-knock-my-love-diana-ross-marvin-gaye
+lyrics_url: https://genius.com/Diana-ross-and-marvin-gaye-dont-knock-my-love-lyrics
 name: Don't Knock My Love
 rankings:
 - end_date: '1974-07-19'
@@ -44,4 +45,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
 ---
+Don't knock my love
+Don't hold you up
+And my kisses don't set your stuff
+Don't be afraid, to let me know
+There's other places woman, that I can go
 
+
+If you don't like it (don't like it)
+Don't knock it, (don't knock it)
+Somebody else (somebody) might want to rock it
+If you don't need it (don't need it)
+Don't waste it (don't waste it)
+Somebody else (somebody) might want to taste it
+
+
+If my thrill, don't turn you on
+And my will baby, is much to strong
+Don't waste my time with your foolish ways
+I got other things to do with my days
+
+
+
+
+Going up, going down, going all way around town
+I'm the one, that turn you on
+I'm the same one to leave you alone
+Don't knock my love, don't knock my love
+Don't knock my love

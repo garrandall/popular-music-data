@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rice-is-nice-the-lemon-pipers
+lyrics_url: https://genius.com/The-lemon-pipers-rice-is-nice-lyrics
 name: Rice Is Nice
 rankings:
 - end_date: '1968-03-15'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
 ---
+I wanna find somebody to care
+I wanna catch some rice in my hair
+I need love and I want you, I do
+I wanna spend my life loving you
 
+Rice is nice, that's what they say
+Rice is nice, throw some my way
+Rice is nice on any day
+Twice as nice when violins play
+
+If I decide to walk beside you
+Can I depend on your love staying true?
+And when I get older and wrinkles appear
+Will I still find some rice in my hair?
+
+Rice is nice, that's what they say
+Rice is nice, throw some my way
+Rice is nice on any day
+Twice as nice when violins play
+
+Rice is nice, that's what they say
+Rice is nice, throw some my way
+Rice is nice on any day
+Twice as nice when violins play

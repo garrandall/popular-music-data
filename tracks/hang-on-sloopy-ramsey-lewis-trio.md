@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hang-on-sloopy-ramsey-lewis-trio
+lyrics_url: https://genius.com/The-ramsey-lewis-trio-hang-on-sloopy-live-lyrics
 name: Hang On Sloopy
 rankings:
 - end_date: '1965-11-26'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
 ---
+Hang on sloopy, sloopy hang on
+Hang on sloopy, sloopy hang on
 
+Sloopy lives in a very bad part of town
+And everybody there tries to put my sloopy down
+Sloopy i don't care what your daddy do
+'cause you know sloopy girl i'm in love with you
+And so i'm singing...
+
+Chorus
+Yeah yeah yeah yeah...
+
+Lead break
+
+Sloopy let your hair down girl, let it run down on me
+Sloopy let your hair down girl, let it run down on me
+
+Come on sloopy come on, come on - x 2
+Well come on sloopy come on, come on - x 2
+
+Well it feels so good come on, come on
+You know it feels so good come on, come on
+
+Well shake it, shake it, shake it sloopy come on, come on
+Well shake it, shake it, shake it yeah
+Yeah...
+
+Chorus

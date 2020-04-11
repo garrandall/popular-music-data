@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gypsy-woman-brian-hyland
+lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/Gypsy-Woman
 name: Gypsy Woman
 rankings:
 - end_date: '1970-09-11'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
 ---
+From nowhere through a caravan
+Around the campfire light
+A lovely woman in motion
+With hair as dark as night
+Her eyes were like that of a cat in the dark
+That hypnotized me with love
 
+She was a gypsy woman,
+She was a gypsy woman
+
+She danced around and round to a guitar melody
+From the fire her face was all aglow
+How she enchanted me
+Oh, how I'd love to hold her near
+And kiss and forever whisper in her ear
+
+I love you, gypsy woman
+I love you, gypsy woman
+
+All through the caravan
+She was dancing with all the men
+Waiting for the rising sun
+Everyone was having fun
+I hate to see the lady go
+Knowing she'll never know
+That I love her, I love her
+
+She was a gypsy woman
+A gypsy woman, a gypsy woman, a gypsy woman

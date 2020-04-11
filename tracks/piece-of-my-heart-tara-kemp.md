@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: piece-of-my-heart-tara-kemp
+lyrics_url: https://genius.com/Tara-kemp-piece-of-my-heart-lyrics
 name: Piece Of My Heart
 rankings:
 - end_date: '1991-05-17'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
 ---
+You take a piece of my heart
+With you
+Always, baby
+You take a piece of my heart
+With you
+Always, always, baby
 
+
+Time and time again
+My girlfriends ask me
+If we're just friends
+
+And when I tell them that it is true
+Deep down inside
+I just want to be with you
+
+
+
+
+It's long after dark
+We're up all night talking
+Heart to heart
+
+And when it's time for you to go
+I tell myself we're just friends
+But we both know
+
+
+
+
+I fall asleep and dream about you
+Holding me deep in your soul
+I just can't make it
+
+Without you
+I love you
+More than you'll ever know

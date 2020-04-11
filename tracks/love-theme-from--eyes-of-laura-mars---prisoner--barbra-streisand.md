@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-theme-from--eyes-of-laura-mars---prisoner--barbra-streisand
+lyrics_url: https://genius.com/Barbra-streisand-love-theme-from-eyes-of-laura-mars-prisoner-lyrics
 name: Love Theme From "Eyes Of Laura Mars" (Prisoner)
 rankings:
 - end_date: '1978-08-04'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
 ---
-
+I've never been wrong
+But you're the the only one i trust to show me the way
+I always hear your voice
+And in my dreams i hear you calling my name
+What is it about you?
+Some kind of light shines from your face
+And i can't turn away
+I'm like a prisoner
+Captured by your eyes
+I've been taken
+And i've been hypnotized
+I'm like a prisoner
+Captured by your eyes
+I've been taken
+And i've been hypnotized
+And your eyes say everything
+You want to keep me here forever, i can't escape
+One minute's so sincere
+Then you completely turn against me and i'm afraid
+You don't have to say you love me
+'cause if you want me, i'll stay
+'cause i can't turn away
+I'm like a prisoner
+Captured by your eyes
+I've been taken
+Taken by surprise
+I'm like a prisoner
+Captured by your eyes
+I've been taken
+And i've been hypnotized
+I'm like a prisoner

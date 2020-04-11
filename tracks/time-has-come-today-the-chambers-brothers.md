@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-has-come-today-the-chambers-brothers
+lyrics_url: https://genius.com/The-chambers-brothers-time-has-come-today-lyrics
 name: Time Has Come Today
 rankings:
 - end_date: '1968-08-16'
@@ -63,4 +64,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+Time has come today
+Young hearts can go their way
+Can't put it off another day
+I don't care what others say
+They think we don't listen anyway
+Time has come today
+(Hey)
 
+
+Oh
+The rules have changed today (Hey)
+I have no place to stay (Hey)
+I'm thinking about the subway (Hey)
+My love has flown away (Hey)
+My tears have come and gone (Hey)
+Oh my Lord, I have to roam (Hey)
+I have no home (Hey)
+I have no home (Hey)
+
+
+Now the time has come (Time)
+There's no place to run (Time)
+I might get burned up by the sun (Time)
+But I had my fun (Time)
+I've been loved and put aside (Time)
+I've been crushed by the tumbling tide (Time)
+And my soul has been psychedelicized (Time)
+
+Now the time has come (Time)
+There are things to realize (Time)
+Time has come today (Time)
+Time has come today (Time)
+
+
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+Time
+
+
+Oh
+Now the time has come (Time)
+There's no place to run (Time)
+I might get burned up by the sun (Time)
+But I had my fun (Time)
+I've been loved and put aside (Time)
+I've been crushed by tumbling tide (Time)
+And my soul has been psychedelicized (Time)
+
+Now the time has come (Time)
+There are things to realize (Time)
+Time has come today (Time)
+Time has come today (Time)
+
+
+Time
+Time
+Time
+Time
+Yeah ...

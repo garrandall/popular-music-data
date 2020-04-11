@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-try-anything-dusty-springfield
+lyrics_url: https://genius.com/Dusty-springfield-ill-try-anything-lyrics
 name: I'll Try Anything
 rankings:
 - end_date: '1967-03-24'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
 ---
+You belong
+To somebody else and not to me
+Right or wrong
+That's not the way that it's gonna be
+I want you so much inside
+I'm throwin' away all my conscience and pride, and
 
+I'll try anything to get you
+I'll do anything I can
+I'll try anything to get you
+I'll cheat and I'll lie
+And I'll try 'til I die
+'Til I make you my man
+Gonna make you my man
+
+I've been burned
+Whenever I've followed all the rules
+So I've learned
+That playing it fair is just for fools
+I'm fighting and win or lose
+I'm not minding my P's and Q's, and
+
+I'll try anything to get you
+I'll do anything I can
+I'll try anything to get you
+I'll cheat and I'll lie
+Try 'til I die
+'Til I make you my man
+My man, hey, ooh, ooh, ooh, ooh
+
+I want you so much inside
+I'm throwin' away all my conscience and pride, and
+
+I'll try anything to get you
+I'll do anything I can
+I'll try anything to get you
+I'll cheat and I'll lie
+Try 'til I die
+'Til I make you my man
+Gonna make you my man
+Gonna make you my man, yeah
+Make you my man
+Gonna fight 'til I die
+Gonna cheat and lie

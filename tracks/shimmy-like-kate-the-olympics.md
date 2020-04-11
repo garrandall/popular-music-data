@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shimmy-like-kate-the-olympics
+lyrics_url: https://genius.com/The-olympics-shimmy-like-kate-lyrics
 name: Shimmy Like Kate
 rankings:
 - end_date: '1960-09-18'
@@ -51,4 +52,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
 ---
+(Boy's hot, the boy's hot)
+Shimmy, shimmy
+(Blow his top, blow his top)
+Shimmy, shimmy
+(Always hot, always hot)
+Shimmy, shimmy
+Boy
+(Yeah!)
+Child, I could shimmy, now
 
+
+(Going to - shimmy)
+I learned to shimmy
+Like my sister Kate, now
+(Going to - sha-a-ake)
+Shake like a jelly on a jelly plate, now
+(Going to - sha-a-ke)
+All the girls know that-a I can do it
+And I can do it!
+(Ye-eah!)
+Yes, I can do it, now!
+
+
+(First groove, first groove)
+A-shimmy, shimmy
+(Earth move, earth move)
+Shimmy, shimmy
+(Boy's home, boy's home)
+Shimmy, shimmy
+North, east (ee-yeah) south, west
+We're gonna go south, now
+
+
+(We're going to - sha-a-ake)
+Ev'rybody in their neighborhood, now
+(First groove - sha-a-ake)
+Know I can shimmy, and I shimmy good, now
+I'm not late 'cause I'm up to date
+(Sha-a-ke)
+An I can shimmy!
+(Ye-eah!)
+Like sister Kate, now
+
+
+(First groove, first groove)
+Shimmy, shimmy
+(Earth move, earth move)
+Shimmy, shimmy
+(Boy's home, boy's home )
+Shimmy, shimmy
+North, just (ee-yeah) south-east
+We're gonna go west, now
+
+
+Come on, ev'rybody
+(An sha-a-ake)
+We're going to - (shimmy)
+We're going to - (shimmy)
+We're goin'
+(Ye-eah!)
+We're going to - (shimmy)
+We're going to - (shimmy)
+We're going to - (shimmy)
+We're goin'
+(Ye-eah!)
+
+
+Going to - (sha-a-ake)
+Ev'rybody in their neighborhood, now
+You're going to - (sha-a-ake)
+Know I can shimmy, and I shimmy good, now
+(Sha-a-ake)
+I'm not late 'cause I'm up to date
+(Sha-a-ake)
+An I can shimmy!
+(Ye-eah!)
+Like sister Kate, now
+
+
+(Boy's cool, boy's cool)
+Shimmy, shimmy is a-all I know-oh!
+(Shimmy, shimmy)
+(First groove, first groove)
+Shimmy, shimmy is a-all I can do
+(Shimmy, shimmy)
+(Boy's home, boy's home)
+Shimmy, shimmy, a-all night long
+(Shimmy, shimmy)
+Shimmy, (ye-eah) woo!
+Is all I can do, now
+Shimmy, shimmy, a-all night long
+Shimmy, shimmy, a-all day, too
+Shimmy, shimmy
+Oh, early in the mo'nin
+Lucille (ye-eah!)
+Is gonna sock it to me, now
+Shimmy, shimmy

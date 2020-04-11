@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wings-of-a-dove-ferlin-husky
+lyrics_url: https://genius.com/Ferlin-husky-wings-of-a-dove-lyrics
 name: Wings Of A Dove
 rankings:
 - end_date: '1960-12-04'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
+On the wings of a snow white dove
+He sends his pure sweet love
+A sign from above
+On the wings of a dove
 
+When troubles surround us, when evils come
+The body grows weak, the spirit grows numb
+When these things beset us,he doesn't forget us
+He sends down his love
+On the wings of a dove
+
+On the wings of a snow white dove
+He sends his pure sweet love
+A sign from above
+On the wings of a dove
+
+When Noah had drifted on the flood many days
+He searched for land in various ways
+Troubles, he had some,but he wasn't forgotten
+He sent him his love
+On the wings of a dove
+
+On the wings of a snow white dove
+He sends his pure sweet love
+A sign from above
+On the wings of a dove
+
+When Jesus went down to, the river that day
+He was baptised in the usual way
+And when it was done, God blessed his son
+He sent him his love
+On the wings of a dove
+
+On the wings of a snow white dove
+He sends his pure sweet love
+A sign from above
+On the wings of a dove
+On the wings of a dove
+On the wings of a dove
+On the wings of a dove

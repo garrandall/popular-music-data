@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: winners-and-losers-hamilton-joe-frank-reynolds
+lyrics_url: https://genius.com/Hamilton-joe-frank-and-reynolds-winners-and-losers-lyrics
 name: Winners And Losers
 rankings:
 - end_date: '1975-11-14'
@@ -69,4 +70,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
 ---
+Once you've felt the feelings full
+Of life and love, the ocean`s flow
+Don`t let life go by
 
+To feel the thrill of love inside
+Share the thoughts
+That you can't hide
+Don`t let lovers die
+
+They say winners and losers are
+Two of a kind, you know it`s that way
+They say winners and losers are
+Two of a kind, you know it`s that way
+
+So every day, you say again
+Love's a risk, don`t hurt your friend
+And don`t let love go by
+
+You fill the cup of life so well
+Let's drink to life, together
+Tell the reasons why
+
+They say winners and losers are
+Two of a kind, you know it`s that way
+They say winners and losers are
+Two of a kind, you know it`s that way
+
+When you`re feeling down and low
+You've hurt the one who loves you so
+Please, don`t you cry
+
+Just come to me
+And I`ll hold you tight
+My wanting love will make it right
+And love won`t go by
+
+They say winners and losers are
+Two of a kind, you know it`s that way
+They say winners and losers are
+Two of a kind, you know it`s that way
+
+Winners and losers
+Winners and losers
+
+Winners and losers
+Winners and losers

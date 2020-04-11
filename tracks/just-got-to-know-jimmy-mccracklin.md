@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-got-to-know-jimmy-mccracklin
+lyrics_url: https://genius.com/Jimmy-mccracklin-just-got-to-know-lyrics
 name: Just Got To Know
 rankings:
 - end_date: '1961-12-17'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
 ---
+I want to know, I want to know, I just got to know
+Why do you always play around?
+If you, if you have the same feeling for me
+Then why don't you settle down?
 
+
+I want to know
+I want to know I just got to know
+
+
+I think you want me for conveniency
+If I'm wrong please tell me right
+I know, I know I been in the dark a long time
+But some day I will see the light
+
+
+And I want to know
+I want to know, I just got to know
+
+
+It takes you to prove you love me
+You can prove it sure as the world is round
+But from, but from your ways and actions
+I have a feeling you have let me down
+
+
+I want to know
+I want to know, I just got to know
+I want to know
+I want to know, I just got to know

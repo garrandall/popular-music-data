@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-only-love-zz-top
+lyrics_url: https://genius.com/Zz-top-its-only-love-lyrics
 name: It's Only Love
 rankings:
 - end_date: '1976-09-17'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
 ---
+Sweet thing's trying to put me out
+She gone and found herself another man
+She trying to let me down as fast as she can
 
+
+It's only love, it drives me crazy
+It's only love pretty baby
+Baby, what you trying to do
+
+
+Well after running round a time or two
+I found out only the best will do
+Well it's your own fault for letting her go
+So maybe now you'll take it slow
+
+
+It's only love, it drives me crazy
+It's only love pretty baby
+Baby, what you trying to do
+
+
+Well, it's all over now but the crying
+I keep on paying the price for my lying
+Don't let it get you down it ain't nothing new
+You ain't the only one that it's happened to
+
+
+It's only love, it drives me crazy
+It's only love pretty baby
+Baby, what you trying to do

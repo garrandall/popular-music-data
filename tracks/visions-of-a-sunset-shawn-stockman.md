@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: visions-of-a-sunset-shawn-stockman
+lyrics_url: https://genius.com/Shawn-stockman-visions-of-a-sunset-lyrics
 name: Visions Of A Sunset
 rankings:
 - end_date: '1996-01-19'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
 ---
+Oh, yeah
 
+
+Lived all my days
+Trying to embrace
+Life with my heart
+By all the beauty I feel and create
+
+It spins and moves
+Flows at my pace
+Telling its story
+From the tear running down my face
+
+
+Visions of a sunset
+Just appear when I close my eyes
+Takes me closer to heaven
+When the flute starts to fly
+And the violin cries
+
+
+Confusion leaves
+While peace orchestrates
+Runs through my veins
+And in other seekers
+
+It penetrates my reason
+Why the big city air smells so sweet
+Takes me through journeys in time
+From my youth to as far as I can see
+
+
+
+
+It's all I need
+In my life
+It's all I need
+And no one can take your place
+By my side
+You're all inside of me
+
+
+
+We'll free from all sorrow
+Like the wind blows from the sky
+Takes me closer to heaven
+When the flute starts to fly

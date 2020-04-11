@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-all-we-need-mel-carter
+lyrics_url: https://www.musixmatch.com/lyrics/Mel-Carter/Love-Is-All-We-Need
 name: Love Is All We Need
 rankings:
 - end_date: '1966-01-28'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
 ---
+Love is all we need
+So won't you take me
+In your arms and love me
+Love me
 
+Love is all we need
+So, darling, press me
+To your heart and love me
+Love me
+
+Tell me we'll
+Always have each other
+Cause that's all I
+Ever want to know
+
+Tell me you'll always be my lover
+Cause I will always want you so
+
+Love is all we need
+So, darling, hold me
+Close to you and love me
+Love me
+
+All we ever, ever need is love
+
+Love is all we need
+So, darling, hold me
+Close to you and love me
+Love me
+
+All we ever, ever need is love
+All we ever need is love
+All we ever need is love

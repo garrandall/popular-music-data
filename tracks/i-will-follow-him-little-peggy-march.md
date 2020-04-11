@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-follow-him-little-peggy-march
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Peggy-March/I-Will-Follow-Him
 name: I Will Follow Him
 rankings:
 - end_date: '1963-03-29'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
 ---
+I love him, I love him, I love him
+And where he goes I'll follow
+I'll follow, I'll follow
 
+I will follow him
+Follow him wherever he may go
+There isn't an ocean too deep
+Or mountain so high it can keep
+Keep me away
+
+I must follow him (follow him)
+Ever since he touched my hand I knew
+That near him I always must be
+And nothing can keep him from me
+He is my destiny (destiny)
+
+I love him, I love him, I love him
+And where he goes I'll follow
+I'll follow, I'll follow
+He'll always be my true love
+My true love, my true love
+From now until forever
+Forever, forever
+
+I will follow him (follow him)
+Follow him wherever he may go
+There isn't an ocean too deep
+Or mountain so high it can keep
+Keep me away
+Away from my arms
+
+I love him, I love him, I love him
+And where he goes I'll follow
+I'll follow, I'll follow
+He'll always be my true love
+My true love, my true love
+From now until forever
+Forever, forever
+
+I will follow him (follow him)
+Follow him wherever he may go
+There isn't an ocean too deep
+Or mountain so high it can keep
+Keep me away
+Away from my arms
+
+And where he goes I'll follow
+I'll follow, I'll follow
+
+I love him, I love him, I love him
+And where he goes I'll follow
+I'll follow, I'll follow

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feelings-morris-albert
+lyrics_url: https://genius.com/Morris-albert-feelings-lyrics
 name: Feelings
 rankings:
 - end_date: '1975-06-27'
@@ -135,4 +136,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
 ---
+Feelings, nothing more than feelings
+Trying to forget my feelings of love
+Teardrops rolling down on my face
+Trying to forget my feelings of love
 
+
+Feelings, for all my life I'll feel it
+I wish I've never met you, girl
+You'll never come again
+Feelings, whoa, oh, oh, feelings
+Whoa, oh, oh, feel it again in my arms
+
+
+Feelings, feelings like I've never lost you
+And feelings like I've never have you again in my heart
+
+
+Feelings, for all my life I'll feel it
+I wish I've never met you, girl
+You'll never come again
+
+
+Feelings, feelings like I've never lost you
+And feelings like I've never have you again in my life
+
+
+Feelings, whoa, oh, oh, feelings
+Whoa, oh, oh, feel it again in my arms
+Feelings, whoa, oh, oh, feelings
+Whoa, oh, oh, feel it
+Whoa, oh, again

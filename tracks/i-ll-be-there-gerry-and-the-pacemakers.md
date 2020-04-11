@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-there-gerry-and-the-pacemakers
+lyrics_url: https://genius.com/Gerry-and-the-pacemakers-ill-be-there-lyrics
 name: I'll Be There
 rankings:
 - end_date: '1964-12-18'
@@ -47,4 +48,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
-
+(Words & music by Bobby Darin)
+I'll be there when all your dreams are broken
+To answer your unspoken prayer, oh....
+When the little things you're doin', ooh, don't turn out right
+Don't you worry darlin' I'll be there
+There whenever you need to know that there is someone who cares, oh
+Yeah!
+So if your new love isn't your true love
+Don't you worry darlin', I'll be there
+There whenever you need to know that there is someone who cares, oh
+Yeah!
+So if your new love isn't your true love
+Don't you worry darlin', I'll be there
+Don't you worry darlin', I'll be there
+Don't you worry darlin', I'll be there

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartaches-by-the-number-guy-mitchell
+lyrics_url: https://genius.com/Guy-mitchell-heartaches-by-the-number-lyrics
 name: Heartaches By The Number
 rankings:
 - end_date: '1959-10-11'
@@ -87,4 +88,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
+Heartaches by the number, troubles by the score
+Everyday you love me less, each day I love you more
+Yes, I've got heartaches by the number, a love that I can't win
+But the day that I stop counting, that's the day my world will end
 
+Heartache number one was when you left me
+I never knew that I could hurt this way
+And heartache number two was when you came back again
+You came back but never meant to stay
+
+Yes, I've got
+Heartaches by the number, troubles by the score
+Everyday you love me less, each day I love you more
+Yes, I've got heartaches by the number, a love that I can't win
+But the day that I stop counting, that's the day my world will end
+
+Heartache number three was when you called me
+And said that you were coming back to stay
+With hopeful heart I waited for your knock on the door
+I waited but you must have lost your way
+
+Yes, I've got
+Heartaches by the number, troubles by the score
+Everyday you love me less, each day I love you more
+Yes, I've got heartaches by the number, a love that I can't win
+But the day that I stop counting, that's the day my world will end

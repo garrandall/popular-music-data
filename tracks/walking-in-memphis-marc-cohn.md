@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-in-memphis-marc-cohn
+lyrics_url: https://genius.com/Marc-cohn-walking-in-memphis-lyrics
 name: Walking In Memphis
 rankings:
 - end_date: '1991-04-05'
@@ -99,4 +100,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
 ---
+Put on my blue suede shoes
+And I boarded the plane
+Touched down in the land of the Delta Blues
+In the middle of the pouring rain
+W.C. Handy won't you look down over me
+Yeah I got a first class ticket
+But I'm as blue as a boy can be
 
+
+Then I'm walking in Memphis
+Walking with my feet ten feet off of Beale
+Walking in Memphis
+But do I really feel the way I feel
+
+
+Saw the ghost of Elvis
+On Union Avenue
+Followed him up to the gates of Graceland
+Then I watched him walk right through
+Now security they did not see him
+They just hovered around his tomb
+But there's a pretty little thing
+Waiting for The King
+Down in the Jungle Room
+
+
+Then I'm walking in Memphis
+Walking with my feet ten feet off of Beale
+Walking in Memphis
+But do I really feel the way I feel
+
+
+They've got catfish on the table
+They've got gospel in the air
+And Reverend Green will be glad to see you
+When you haven't got a prayer
+But boy you've got a prayer in Memphis
+
+
+Now Muriel plays piano
+Every Friday at the Hollywood
+And they brought me down to see her
+And they asked me if I would
+Do a little number
+And I sang with all my might
+And she said
+"Tell me are you a Christian child?"
+And I said "Ma'am I am tonight"
+
+
+I'm walking in Memphis
+(Walking in Memphis)
+Walking with my feet ten feet off of Beale
+Walking in Memphis
+(Walking in Memphis)
+But do I really feel the way I feel
+Walking in Memphis
+(Walking in Memphis)
+Walking with my feet ten feet off of Beale
+Walking in Memphis
+(Walking in Memphis)
+But do I really feel the way I feel
+
+
+Put on my blue suede shoes
+And I boarded the plane
+Touched down in the land of the Delta Blues
+In the middle of the pouring rain
+Touched down in the land of the Delta Blues
+In the middle of the pouring rain

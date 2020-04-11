@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-know-how-it-feels-tom-petty
+lyrics_url: https://genius.com/Tom-petty-you-dont-know-how-it-feels-lyrics
 name: You Don't Know How It Feels
 rankings:
 - end_date: '1994-12-09'
@@ -95,4 +96,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
 ---
+Let me run with you tonight
+I'll take you on a moonlight ride
+There's someone I used to see
+But she don't give a damn for me
 
+
+But let me get to the point, let's roll another joint
+And turn the radio loud, I'm too alone to be proud
+You don't know how it feels
+You don't know how it feels to be me
+
+
+People come, people go
+Some grow young, some grow cold
+I woke up in between
+A memory and a dream
+
+
+So let's get to the point, let's roll another joint
+And let's head on down the road, there's somewhere I gotta go
+You don't know how it feels
+You don't know how it feels to be me
+
+
+My old man was born to rock
+He's still tryin' to beat the clock
+Think of me what you will
+I've got a little space to fill
+
+
+So let's get to the point, let's roll another joint
+And let's head on down the road, there's somewhere I gotta go
+You don't know how it feels
+You don't know how it feels
+No, you don't know how it feels to be me
+You don't know how it feels
+You don't know how it feels
+No, you don't know how it feels to be me

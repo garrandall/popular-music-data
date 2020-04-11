@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: through-the-rain-mariah-carey
+lyrics_url: https://www.musixmatch.com/lyrics/Mariah-Carey/Through-the-Rain
 name: Through The Rain
 rankings:
 - end_date: '2003-01-03'
@@ -43,4 +44,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
 ---
+When you are caught in the rain
+With nowere to run
+When you're distraught
+And in pain, without anyone
+And you feel so far away
+That you just can't find your way home
 
+You can get there alone
+It's okay
+What you say is
+I can make it through the rain
+
+I can stand up once again
+On my own and I know
+That I'm strong enough to mend
+And every time I feel afraid
+I hold tighter to my faith
+And I live one more day
+And I make it through the rain
+And if you keep falling down
+
+Don't you dare give in
+You will arise safe and sound
+So keep pressing on steadfastly
+And you'll find what you need to prevail
+What you say is
+I can make it through the rain
+
+I can stand up once again
+On my own and I know
+That I'm strong enough to mend
+And every time I feel afraid
+I hold tighter to my faith
+And I live one more day
+And I make it through the rain
+And when the wind blows
+
+As shadows grow close
+Don't be afraid
+There's nothing you can't face
+And should they tell you
+You'll never pull through
+Don't hesitate
+Stand tall and say I
+I can make it through the rain
+
+I can stand up once again
+On my own and I know
+That I'm strong enough to mend
+And every time I feel afraid
+I hold tighter to my faith
+And I live one more day
+And I'll make it through the rain
+I can make it through the rain
+And stand up once again
+And I live one more day, and I
+I can make it through the rain
+Oh yes, you can
+You're gonna make it through the rain

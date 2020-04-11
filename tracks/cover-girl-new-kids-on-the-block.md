@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cover-girl-new-kids-on-the-block
+lyrics_url: https://genius.com/New-kids-on-the-block-cover-girl-lyrics
 name: Cover Girl
 rankings:
 - end_date: '1989-09-22'
@@ -79,4 +80,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
 ---
+I get up in the morning and I see your face, girl
+You’re looking so good, everything’s in place
+Don’t you know I could never leave your side, girl
+Won’t you stay here with me and be my bride?
 
+
+Don’t you know you’re my kind, you’re just what I like
+Girl you’re everything, don’t you know you’re alright
+The only girl I’ve always needed for so long
+
+
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+
+
+When I look through the pages of a magazine
+Still, your pretty face is the prettiest I’ve seen
+
+
+Don’t you know I only want to be with you
+No other girl could make me feel the way you do
+You’re my everything
+
+
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+
+
+Bass! Alright
+Oh, yeah, it’s out of sight
+Let me say it’s alright
+Ah, yeah!
+
+
+Don’t you know I only want to be with you
+No other girl could make me feel the way you do
+You’re my everything
+
+
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my cover girl
+Oh, oh-oh, oh-oh
+Oh, oh-oh, she’s my, she’s my cover girl
+
+
+Oh yeah, yeah
+Cover girl, please say you’ll stay
+Oh yeah, cover girl
+Oh-oh, oh-oh-oh
+Oh-oh, cover girl
+Oh-oh, oh-oh-oh

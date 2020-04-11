@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daylight-vicki-sue-robinson
+lyrics_url: https://www.musixmatch.com/lyrics/Vicki-Sue-Robinson/Daylight
 name: Daylight
 rankings:
 - end_date: '1976-10-08'
@@ -35,4 +36,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
 ---
+Okay everybody, are you ready for this?
+Watch out, cause here we go again!
 
+And it looks like daylight
+Gonna catch me up, gonna catch me up again
+People are getting up,
+We're just getting in
+That's the only, only time
+When me and my baby can unwind
+
+Five o'clock in the morning
+Party's still going strong
+There's a conversation over in the corner
+And dancin' on the lawn
+
+Ooh, and the music is groovin'
+Everybody's getting down in their stocking feet, yeah
+Sleepy eyes are peepin'
+Through the window from across the street
+
+And it looks like daylight
+Gonna catch me up, gonna catch me up again
+People are getting up,
+We're just getting in
+Ooh, but that's the only, only time
+When me and my sweet baby can unwind
+
+And I swore to myself, yes I did
+Time and time again
+That I would give up the night life
+And start layin' in
+
+But it ain't easy, no no
+Sayin' no to my friends
+Cause the real set don't get started
+Til everybody else is in
+
+And it looks like daylight
+Gonna catch me up, gonna catch me up again
+People are getting up,
+We're just getting in
+But that's the only, only time
+When me and my sweet baby get a chance to unwind
+
+Daylight
+Daylight, gonna catch me up again
+Daylight
+Daylight, gonna catch me up again
+
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+
+Ooh, and it looks like daylight, say what?
+Gonna catch me up, gonna catch me up again
+People are getting up,
+We're just getting in
+That's the only, only, only time
+When me and my sweet baby, whoo, get a chance to unwind
+
+You know I swore to myself, yes I did
+Time and time, time, time again
+That I would give it all up and give up the night life
+And start layin' in
+
+But it is not easy, no no no
+Sayin' "Sorry, no, I can't go out" to my friends
+Cause the real set does not get started, no no
+Til everybody else is in
+
+Oh, and it looks like daylight, say what?
+Gonna catch me up, gonna catch me up again
+People are getting up,
+We're just getting in
+Ooh but that's the only, only time
+When me and my baby get a chance to unwind
+
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+
+Daylight
+Daylight, gonna catch me
+
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again
+Daylight, gonna catch me up, gonna catch me up
+Daylight, gonna catch me up again

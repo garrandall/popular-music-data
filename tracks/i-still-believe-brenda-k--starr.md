@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-still-believe-brenda-k--starr
+lyrics_url: https://genius.com/Brenda-k-starr-i-still-believe-lyrics
 name: I Still Believe
 rankings:
 - end_date: '1988-04-08'
@@ -111,4 +112,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
 ---
+You look in my eyes
+And I get emotional inside
+I know it's crazy but
+You still can touch my heart
 
+And after all this time
+You'd think that I
+I wouldn't feel the same
+But time melts into nothing
+And nothing's changed
+
+
+I still believe someday you and me
+Will find ourselves in love again
+I had a dream someday you and me
+Will find ourselves in love again
+
+
+Each day of my life
+I'm filled with all the joy I could find
+You know that I am not the desperate type
+
+If there's one spark of hope left in my grasp
+I'll hold it with both hands
+It's worth the risk of burning
+To have a second chance
+
+No, no, no, no, no, no
+I need you, baby
+I still believe that we can be together
+
+If we believe that true love
+Never has to end
+Then we must know that we will love again
+
+
+I still believe (yeah)
+Someday you and me will
+Find ourselves in love again
+Oh baby, yeah
+
+I had a dream
+Someday you and me will
+Find ourselves in love again
+
+I still believe
+(Oh, baby, I do)
+Someday you and me
+(Just give me one more try) in love again
+
+I had a dream
+(I miss your love)
+Someday you and me will
+Find ourselves in love again
+
+I still believe
+(Yeah, I still believe)
+Someday you and me (baby)
+In love again

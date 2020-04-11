@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: f--kin--perfect-p-nk
+lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/F-kin-Perfect-Explicit-Version
 name: F**kin' Perfect
 rankings:
 - end_date: '2011-01-07'
@@ -127,4 +128,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
 ---
+Made a wrong turn
+Once or twice
+Dug my way out
+Blood and fire
+Bad decisions
+That's alright
+Welcome to my silly life
 
+Mistreated
+Misplaced, misunderstood
+Miss "No way, it's all good"
+It didn't slow me down
+Mistaken
+Always second guessing
+Underestimated
+Look, I'm still around
+
+Pretty, pretty please
+Don't you ever, ever feel
+Like you're less than
+Fuckin' perfect
+Pretty, pretty please
+If you ever, ever feel
+Like you're nothing
+You're fuckin' perfect to me
+
+You're so mean (You're so mean)
+When you talk (When you talk)
+About yourself
+You were wrong
+Change the voices (Change the voices)
+In your head (In your head)
+Make them like you instead
+
+So complicated
+Look happy, you'll make it
+Filled with so much hatred
+Such a tired game
+It's enough
+I've done all I can think of
+Chased down all my demons
+I've seen you do the same
+
+Oh, pretty, pretty please
+Don't you ever, ever feel
+Like you're less than
+Fuckin' perfect
+Pretty, pretty please
+If you ever, ever feel
+Like you're nothing
+You're fuckin' perfect to me
+
+The whole world's scared
+So I swallow the fear
+The only thing I should be drinking is an ice cold beer
+So cool in line, and we try, try, try
+But we try too hard and it's a waste of my time
+
+Done looking for the critics
+'Cause they're everywhere
+They don't like my jeans
+They don't get my hair
+Exchange ourselves
+And we do it all the time
+Why do we do that?
+Why do I do that?
+Why do I do that?
+
+Yeah
+Ooh
+Oh, pretty, pretty, pretty
+Pretty, pretty please
+Don't you ever, ever feel
+Like you're less than
+Fuckin' perfect
+Pretty pretty please
+If you ever, ever feel
+Like you're nothing
+You're fuckin' perfect to me
+
+You're perfect
+You're perfect
+Pretty, pretty please
+If you ever ever feel
+Like you're nothing
+You're fuckin' perfect to me

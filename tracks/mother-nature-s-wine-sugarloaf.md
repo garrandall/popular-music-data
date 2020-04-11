@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mother-nature-s-wine-sugarloaf
+lyrics_url: https://genius.com/Sugarloaf-mother-natures-wine-lyrics
 name: Mother Nature's Wine
 rankings:
 - end_date: '1971-07-02'
@@ -19,4 +20,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
 ---
+Riding high down a mountain trail sunshine follows me
+Windy early morning mist tries to swallow me
+Sunlights clears the way for me, my mother nature's wine
+Sunshine
 
+(Sunshine) Yellow river wash away the rain
+(Sunshine) Splashing down a Napa Valley lane
+Woman of the valley road, my mother nature's wine
+Sunshine
+
+Road run fast beside me, my lady's holding on behind
+I feel her heart inside me, beating hard as we unwind
+All along the road is what we're after but we're waiting for that special sign
+According to our favorite brand of laughter
+(Sunshine! Run mother nature's wine)
+
+(Sunshine) My mother nature's wine
+(Sunshine) My mother nature's wine
+(Sunshine) My mother nature's wine

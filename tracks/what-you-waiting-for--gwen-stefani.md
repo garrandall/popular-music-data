@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-you-waiting-for--gwen-stefani
+lyrics_url: https://genius.com/Gwen-stefani-what-you-waiting-for-lyrics
 name: What You Waiting For?
 rankings:
 - end_date: '2004-10-22'
@@ -87,4 +88,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-03-05'
 ---
+What an amazing time
+What a family
+How did the years go by?
+Now it's only me
 
+
+Tick-tock, tick-tock, tick-tock
+Tick-tock, tick-tock, tick-tock
+Tick tock, tick tock
+(La la la la la la la...)
+
+
+Like a cat in heat stuck in a moving car
+A scary conversation, shut my eyes, can't find the brake
+What if they say that you're a climber?
+Naturally I'm worried if I do it alone
+Who really cares 'cause it's your life
+You never know, it could be great
+Take a chance 'cause you might grow
+Oh, oh-oh
+
+
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+
+
+Tick-tock, tick-tock
+Tick-tock, tick-tock
+Take a chance you stupid hoe
+
+
+Like an echo pedal, you're repeating yourself
+You know it all by heart, why are you standing in one place? (Uh-huh)
+Born to blossom, bloom to perish
+Your moment will run out 'cause of your sex chromosome
+I know it's so messed up how our society all thinks (For sure)
+Life is short, you're capable (Uh-huh)
+Oh, oh-oh
+
+
+Look at your watch now
+You're still a super hot female
+You got your million dollar contract
+And they're all waiting for your hot track!
+
+
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+
+
+I can't wait to go back and do Japan
+Get me lots of brand new fans
+Osaka, Tokyo
+You Harajuku girls
+Damn, you've got some wicked style... go!
+
+
+Look at your watch now
+You're still a super hot female
+You got your million dollar contract
+And they're all waiting for your hot track!
+
+
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+What you waiting, what you waiting
+What you waiting, what you waiting
+What you waiting for?
+
+
+What you waiting for?
+What you waiting for?
+Take a chance, you stupid hoe
+Take a chance, you stupid hoe
+What you waiting for?
+What you waiting for?
+What you waiting for?
+Take a chance, you stupid hoe
+Take a chance, you stupid hoe

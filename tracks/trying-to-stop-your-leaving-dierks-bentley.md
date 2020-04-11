@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trying-to-stop-your-leaving-dierks-bentley
+lyrics_url: https://www.musixmatch.com/lyrics/Dierks-Bentley/Trying-to-Stop-Your-Leaving
 name: Trying To Stop Your Leaving
 rankings:
 - end_date: '2008-04-25'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
 ---
+Got a guitar
+Got a guitar on my back
+And I'm standing on this lonesome railroad track
+Train's a-coming
+It'll be here 'fore too long
+But I don't think I can stop it with a song
 
+Girl, that's kind of the way I'm feelin'
+Trying to stop your leaving
+
+Got a pebble
+Got a pebble in my hand
+And I toss it out into the middle of the Rio Grande
+But the river keeps running
+Don't even know that I'm around
+I could throw in a million more and not slow it down
+
+Girl, that's kind of the way I'm feeling
+Trying to stop your leaving
+
+There's nothing I wouldn't try
+If I thought it would change your mind
+
+But you don't love me
+No, you don't love me anymore
+And I know as soon as you walk out that door
+Train's a-coming
+River's running
+Train's a-coming, river's running
+Pain's a-coming, tears are running
+
+And that's kind of the way I'm feeling
+Knowing I couldn't stop your leaving

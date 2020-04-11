@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-to-love-town-the-originals
+lyrics_url: https://genius.com/The-originals-down-to-love-town-lyrics
 name: Down To Love Town
 rankings:
 - end_date: '1976-10-29'
@@ -43,4 +44,138 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
 ---
+(Down to...)
 
+I thought that there goes my honey
+My happy shoes
+Find someone
+To help me lose these blues
+
+I'm takin' my body down
+(To love town!)
+(Love love love!)
+
+
+Goin' down...
+Goin' down...
+
+(Goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I'm goin' down...
+Goin' down...
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+Lyrics courtesy Top40db
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss -- didn't miss you!
+
+(Down to...)
+
+I thought that there goes my honey
+My happy shoes
+Find someone
+To help me lose these blues
+
+I'm goin' down to the town!
+Down, down, down love town!
+
+
+
+
+Goin' down...
+Goin' down...
+Goin' down...
+
+(Goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+Goin' down...
+
+(Goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I'm rid of you
+
+(I'm goin' down)
+(Down to love town)
+(I'm gonna take my body down)
+(Down to love town)
+
+I didn't miss -- didn't miss you!
+
+(paradise, paradise, paradise, paradise)
+(paradise, paradise, paradise, paradise)
+(paradise, paradise, paradise, paradise)

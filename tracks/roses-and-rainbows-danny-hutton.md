@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roses-and-rainbows-danny-hutton
+lyrics_url: https://www.musixmatch.com/lyrics/Danny-Hutton/Roses-and-Rainbows
 name: Roses And Rainbows
 rankings:
 - end_date: '1965-10-22'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
 ---
+If I were a king
+I'd give up everything
+Just to have you near me 'cause
+Roses and rainbows are you
 
+The sky is always blue
+Whenever I'm with you
+I think I just love you 'cause
+Roses and rainbows are you
+
+(Chorus)
+I love the way you hold my hand
+The way you understand
+The way you make me feel
+Like I'm your man
+
+Way up in the sky
+I think I see why
+The birds do all their singing 'cause
+Roses and rainbows are you
+Roses and rainbows are you
+
+- Interlude / Chorus -
+
+Way up in the sky
+I think I see why
+The birds do all their singing 'cause
+Roses and rainbows are you
+
+Roses and rainbows are you
+Whoo whoo whoo...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-class-chubby-checker
+lyrics_url: https://genius.com/Chubby-checker-the-class-lyrics
 name: The Class
 rankings:
 - end_date: '1959-05-24'
@@ -35,4 +36,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
 ---
-
+Here come the teacher now
+Alright class let's all be seated
+I'm the music teacher, dig
+That's who I am
+I wanna know if all you cats and kids have did your homework
+On Mary had a little lambary ditched that square
+---

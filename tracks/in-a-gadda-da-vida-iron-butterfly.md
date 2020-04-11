@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-gadda-da-vida-iron-butterfly
+lyrics_url: https://genius.com/Iron-butterfly-in-a-gadda-da-vida-lyrics
 name: In-A-Gadda-Da-Vida
 rankings:
 - end_date: '1968-08-30'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
 ---
+Good God!
+Three, four, huh!
 
+In-a-gadda-da-vida, honey
+Don't you know that I love you?
+In-a-gadda-da-vida, baby
+Don't you know that I'll always be true?
+
+Oh, won't you come with me
+And a-take my hand?
+Oh, won't you come with me
+And a-walk this land?
+Please take my hand
+
+Let me tell you now
+In-a-gadda-da-vida, honey
+Don't you know that I love you?
+In-a-gadda-da-vida, baby
+Don't you know that I'll always be true?
+
+Oh, won't you come with me
+And a-take my hand?
+Oh, won't you come with me
+And a-walk this land?
+Please take my hand
+
+It's all right, huh!
+All right now, huh!
+
+Good God!
+Three, four, huh!
+
+In-a-gadda-da-vida, honey
+Don't you know that I love you?
+In-a-gadda-da-vida, baby
+Don't you know that I'll always be true?
+
+Oh, won't you come with me
+And a-take my hand?
+Oh, won't you come with me
+And a-walk this land?
+Please take my hand
+
+Huh, huh
+All right, uh, hey, ha!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-get-around-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-i-get-around-lyrics
 name: I Get Around
 rankings:
 - end_date: '1964-05-29'
@@ -67,4 +68,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+Round, round, get around
+I get around, yeah
+Get around, round, round, I get around
+I get around
+Get around, round, round, I get around
+From town to town
+Get around, round, round, I get around
+I'm a real cool head
+Get around, round, round, I get around
+I'm making real good bread
 
+
+I'm getting bugged driving up and down this same old strip
+I gotta find a new place where the kids are hip
+My buddies and me are getting real well-known
+Yeah, the bad guys know us and they leave us alone
+
+
+I get around
+Get around, round, round, I get around
+From town to town
+Get around, round, round, I get around
+I'm a real cool head
+Get around, round, round, I get around
+I'm making real good bread
+Get around, round, round, I get around
+I get around, round
+Get around, round, round, oooh
+Wah wa ooh
+Wah wa ooh
+Wah wa ooh
+
+
+We always take my car 'cause it's never been beat
+And we've never missed yet with the girls we meet
+None of the guys go steady 'cause it wouldn't be right
+To leave their best girl home on a Saturday night
+
+
+I get around
+Get around, round, round, I get around
+From town to town
+Get around, round, round, I get around
+I'm a real cool head
+Get around, round, round, I get around
+I'm making real good bread
+Get around, round, round, I get around
+I get around, round
+Ah ah ah ah ah ah ah ah
+
+
+Round, round, get around
+I get around, yeah
+Get around, round, round, I get around
+Get around, round, round, I get around
+Wah wa oooh
+Get around, round, round, I get around
+Ooooh
+Get around, round, round, I get around
+Ooooh
+Get around, round, round, I get around
+I get around
+Get around, round, round, I get around
+From town to town
+Get around, round, round, I get around
+Ooooh
+Get around, round, round, I get around
+Ooooh
+Get around, round, round, I get around

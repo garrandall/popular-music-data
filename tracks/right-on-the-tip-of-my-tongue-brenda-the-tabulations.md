@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: right-on-the-tip-of-my-tongue-brenda-the-tabulations
+lyrics_url: https://genius.com/Brenda-and-the-tabulations-right-on-the-tip-of-my-tongue-lyrics
 name: Right On The Tip Of My Tongue
 rankings:
 - end_date: '1971-04-09'
@@ -60,4 +61,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+It was right on the tip of my tongue
+And I forgot to say "I love you"
+It was right on the tip of my tongue
+And I forgot to say "I love you"
 
+I played the game of love and lost
+And now my heart must pay the cost
+I had the chance to make you mine, but I wasted too much time
+And let your love slip away
+
+It was right on the tip of my tongue
+And I forgot to say "I love you"
+It was right on the tip of my tongue
+And I forgot to say "I love you"
+
+While I was wondering where to start
+She came along and won your heart
+With all the tender words of love that I was thinking of
+But never bothered to say
+
+Mmm, wait a minute, wait a minute
+I've got something to tell you
+Don't walk away, baby
+
+It was right on the tip of my tongue
+And I forgot to say "I love you"
+It was right on the tip of my tongue
+(And I forgot to say) to say, to say...
+
+(Ah, ah, ahh, tip of my tongue) my tongue
+(Tip of my tongue)
+
+SPOKEN:
+Didn't you know? Couldn't you see it?
+I tried to tell you...please...?
+Don't you understand? I love you...
+Don't walk away...oh, please...?

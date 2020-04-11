@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-bit-o--soul-the-music-explosion
+lyrics_url: https://genius.com/The-music-explosion-little-bit-osoul-lyrics
 name: Little Bit O' Soul
 rankings:
 - end_date: '1967-05-19'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
+Now when you're feelin' low and the fish won't bite
+You need a little bit o' soul to put you right
+You gotta make like you wanna kneel and pray
+And then a little bit of soul will come your way
 
+Now when your girl is gone and you're broke in two
+You need a little bit o' soul to see you through
+And when you raise the roof with your rock'n'roll
+You'll get a lot more kicks with a little bit o' soul
+
+And when your party falls 'cause ain't nobody groovin'
+A little bit of soul and it really starts movin', yeah
+
+And when you're in a mess and you feel like cryin'
+Just remember this little song of mine
+And as you go through life tryin' to reach your goal
+Just remember what I said about a little bit o'soul
+
+A little bit o' soul, yeah (a little bit o' soul)
+A little bit o' soul, yeah (a little bit o' soul)
+A little bit o' soul, yeah (a little bit o' soul)
+A little bit o' soul, yeah (a little bit o' soul)

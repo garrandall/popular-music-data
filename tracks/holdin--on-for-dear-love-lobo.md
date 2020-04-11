@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holdin--on-for-dear-love-lobo
+lyrics_url: https://genius.com/Lobo-singer-holdin-on-for-dear-love-lyrics
 name: Holdin' On For Dear Love
 rankings:
 - end_date: '1979-12-28'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
+It's been the lovers question
+Ever since time began
+How to keep good romance
+From slipping through your hands
 
+It ain't no trick to keep it
+To hold on to what you got
+The secret to the secret
+Is to love and never stop
+
+Got to keep holding on holding on
+Holding on for dear love
+You better try holding on holding on
+Holding on for dear love
+You've got to keep holding on holding on
+Holding on for dear love
+Holding on holding on
+
+Don't you sometimes wonder
+How a good love can go bad
+Lovers crumble under
+When they don't love the love they have
+
+To break apart is tragic
+And that is why I say
+'Cause when you lose that magic
+You lose everything

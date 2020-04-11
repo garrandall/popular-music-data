@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: motivation-normani
+lyrics_url: https://genius.com/Normani-motivation-lyrics
 name: Motivation
 rankings:
 - end_date: '2019-09-06'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
+I'ma break you off, let me be your motivation
+To  stay and give it tonight
+And‚  baby‚ turn around‚ let me give you innovation, hey
+'Cause I do it so right
 
+
+You got that good good, baby‚ don't you?
+Got  that good good, baby, don't you?
+But  you leavin' solo
+Ain't regular‚ that ain't regular
+I  ain't gon' keep, keep fightin' for it
+Ain't gon' keep, keep fightin' for it
+'Cause you know this thing here
+Ain't regular, that ain't regular
+
+
+Fallin'  into the bed
+Why would we ever do somethin' instead of
+Fallin' into the bed right now? Yeah
+
+
+I'ma break you off, let me be your motivation
+To stay and give it tonight
+And, baby, turn around, let me give you innovation
+Hey, 'cause I do it so right
+Think about it, ooh, I think about it
+Think about it, ooh, take a look at me now
+Hey, a little motivation, alright
+
+
+You got a bad one, baby, don't you?
+Got a bad one, baby, don't you?
+And we both know there's no
+One better, boy, no one better, boy
+Too late, won't make it, I'ma tell 'em (Yeah)
+Get you naked, but I won't tell 'em (Woo)
+'Cause you know that there's no
+One better, boy, no one better, boy
+
+
+Fallin' into the bed
+Why would we ever do somethin' instead of
+Fallin' into the bed right now?
+Eh, right now, now
+
+
+I'ma break you off, let me be your motivation
+To stay and give it tonight (And give it tonight)
+And, baby, turn around, let me give you innovation
+Hey, 'cause I do it so right
+Think about it, ooh, I think about it
+Think about it, ooh, take a look at me now
+Hey, a little motivation, alright
+
+
+Hey, oh
+A little motivation
+Oh
+
+
+I'ma break you off, let me be your motivation
+To stay and give it tonight
+And, baby, turn around, let me give you innovation
+Hey, 'cause I do it so right
+Think about it, ooh, I think about it
+Think about it, ooh, take a look at me now
+Hey, a little motivation, alright
+
+
+Oh
+Oh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-while-we-re-young-one-direction
+lyrics_url: https://genius.com/One-direction-live-while-were-young-lyrics
 name: Live While We're Young
 rankings:
 - end_date: '2012-10-26'
@@ -71,4 +72,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
 ---
+Hey girl, I'm waiting on you, I'm waiting on you
+Come on and let me sneak you out
+And have a celebration, a celebration
+The music up, the window's down
+Yeah, we'll be doing what we do
+Just pretending that we're cool and we know it too
+Yeah, we'll keep doing what we do
+Just pretending that we're cool, so tonight
 
+
+Let's go crazy, crazy, crazy 'til we see the sun
+I know we only met but let's pretend it's love
+And never, never, never stop for anyone
+Tonight let's get some and live while we're young
+(Oh oh oh oh oh oh, oh oh oh oh oh oh)
+And live while we're young
+(Oh oh oh oh oh oh)
+Tonight let's get some
+And live while we're young
+
+
+Hey girl, it's now or never, it's now or never
+Don't over-think, just let it go
+And if we get together, yeah, get together
+Don't let the pictures leave your phone, oh
+Yeah, we'll be doing what we do
+Just pretending that we're cool, so tonight
+
+
+Let's go crazy, crazy, crazy 'til we see the sun
+I know we only met but let's pretend it's love
+And never, never, never stop for anyone
+Tonight let's get some and live while we're young
+(Oh oh oh oh oh oh, oh oh oh oh oh oh)
+Wanna live while we're young
+(Oh oh oh oh oh oh)
+Tonight let's get some
+And live while we're young
+
+
+And girl, you and I
+We're 'bout to make some memories tonight
+I wanna live while we're young
+We want to live while we're young
+
+
+Let's go crazy, crazy, crazy 'til we see the sun ('Til we see the sun)
+I know we only met but let's pretend it's love
+And never, never, never stop for anyone (Anyone)
+Tonight let's get some and live while we're young (Young)
+Crazy, crazy, crazy 'til we see the sun
+I know we only met but let's pretend it's love (It's love)
+And never, never, never stop for anyone
+Tonight let's get some (let's get some) and live while we're young
+(Wanna live, wanna live, wanna live)
+Come on, young
+(Wanna live, wanna live, wanna live)
+Wanna live while we're young
+(Wanna live, wanna live, wanna live while we're young)
+Tonight let's get some
+And live while we're young

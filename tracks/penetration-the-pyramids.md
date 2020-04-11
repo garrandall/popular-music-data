@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: penetration-the-pyramids
+lyrics_url: https://genius.com/The-pyramids-penetration-lyrics
 name: Penetration
 rankings:
 - end_date: '1964-02-07'
@@ -47,4 +48,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
 ---
-
+Instrumental

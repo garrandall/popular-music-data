@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bermuda-linda-scott
+lyrics_url: https://www.musixmatch.com/lyrics/Linda-Scott/Bermuda
 name: Bermuda
 rankings:
 - end_date: '1962-02-16'
@@ -31,4 +32,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
 ---
+Down in Bermuda, paradise for two.
+I lost my lover there on the blue.
 
+We went sailing on a coral sea.
+Starlit waters, my darling and me.
+Time was endless, love sang it's song.
+We dreamed of tomorrow. Now he is gone.
+
+I see his lips in the coral.
+I see his eyes in the water blue.
+I see his hair in the glowing sunlight.
+All vision clear, calling me near.
+
+In Bermudan waters, so clear and cold,
+I wait my loved one as I grow old.
+As I grow old.
+
+Down in Bermuda, paradise for two.
+I lost my lover there on the blue.

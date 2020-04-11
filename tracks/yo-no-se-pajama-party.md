@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yo-no-se-pajama-party
+lyrics_url: https://genius.com/Pajama-party-yo-no-se-lyrics
 name: Yo No Se
 rankings:
 - end_date: '1989-05-26'
@@ -47,4 +48,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
 ---
+When you dance that way
+When you dance that way
+I feel the rhythm in my soul
+When your body sways
+When your body sways so close to me
+I lose control
+When you do what you do to me
+I don't know if it's right or wrong
+When you do what you do to me
+I don't know what is going on
 
+
+Day or night?
+Yo no sé
+Wrong or right?
+Yo no sé
+I can't tell
+Yo no sé
+When I'm in your spell
+Yo no sé
+
+
+When you dance with me
+When you dance with me I get this feeling every time
+Is it ecstasy?
+Is it ecstasy that makes me go out of my mind?
+When you do what you do to me
+I don't know if it's right or wrong
+When you do what you do to me
+I don't know what is going on
+
+
+Day or night?
+Yo no sé
+Wrong or right?
+Yo no sé
+I can't tell
+Yo no sé
+When I'm in your spell
+Yo no sé
+
+
+Day or night?
+Day, day, day or night?
+Day, day, day, day, day or night?
+Day, day, day or night?
+When you dance that way
+When you dance that way, I feel the rhythm, I feel the rhythm
+When you dance that way
+When you dance that way
+When you dance that way
+When you dance, when you dance...
+When you do what you do to me
+I don't know if it's right or wrong
+When you do what you do to me
+I don't know what is going on
+
+
+Day or night?
+Yo no sé
+Wrong or right?
+Yo no sé
+I can't tell
+Yo no sé
+When I'm in your spell
+Yo no sé
+Day or night?
+Yo no sé
+Wrong or right?
+Yo no sé
+I can't tell
+Yo no sé

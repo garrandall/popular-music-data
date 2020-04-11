@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mystic-eyes-them
+lyrics_url: https://genius.com/Them-mystic-eyes-lyrics
 name: Mystic Eyes
 rankings:
 - end_date: '1965-11-05'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
 ---
+One Sunday mornin'
+A-we went walkin'
+Down by, the old graveyard
+The mornin' fog
+I looked into
+A-yeah, those mystic eyes
 
+
+Her mystic eyes
+Mystic eyes
+Mystic eyes
+Mystic, eyes
+Mystic eyes
+Mystic eyes
+Oh, the mystic eyes
+Ooh
+
+(Mystic, mystic, mystic, mystic, mystic)

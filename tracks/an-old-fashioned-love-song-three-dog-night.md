@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: an-old-fashioned-love-song-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-an-old-fashioned-love-song-lyrics
 name: An Old Fashioned Love Song
 rankings:
 - end_date: '1971-11-19'
@@ -51,4 +52,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
+Just an old-fashioned love song
+Playin' on the radio
+And wrapped around the music
+Is the sound of someone promising they'll never go
 
+
+You swear you've heard it before
+As it slowly rambles on
+No need in bringin' 'em back
+'Cause they're never really gone
+
+
+(Just an old-fashioned love song)
+(One I'm sure they wrote for you and me)
+(Just an old-fashioned love song)
+(Comin' down in three-part harmony)
+
+
+To weave our dreams upon and listen
+To each evening when the lights are low
+To underscore our love affair with tenderness and feelings
+That we've come to know
+
+
+You swear you've heard it before
+As it slowly rambles on and on and...
+No need in bringin' 'em back
+'Cause they're never really gone
+
+
+(Just an old-fashioned love song)
+(Comin' down in three-part harmony)
+(Just an old-fashioned love song)
+(One I'm sure they wrote for you and me)
+
+
+(Just an old-fashioned love song)
+(Comin' down in three-part harmony)
+(Just an old-fashioned love song)
+(One I'm sure they wrote for you and me)
+
+
+To weave our dreams upon and listen to a song
+
+
+Just an old song, comin' down
+Just an old song
+(One I'm sure they wrote for you and me)
+Just an old song, comin' down
+Just an old song (Just an old-fashioned love song)
+(One I'm sure they wrote for you and me)
+(Just an old-fashioned love song) Just an old song, comin' down
+(Comin' down in three-part harmony)
+(Just an old-fashioned love song) Just an old song
+(One I'm sure they wrote for you and me)
+(Just an old-fashioned love song) Just an old song, comin' down
+(Comin' down in three-part harmony)
+(Just an old-fashioned love song) Just an old song
+(One I'm sure they wrote for you and me)

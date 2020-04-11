@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-baby-angelica
+lyrics_url: https://genius.com/Angelica-rock-angel-baby-lyrics
 name: Angel Baby
 rankings:
 - end_date: '1991-10-25'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
 ---
+It's just like heaven
+Being with you
+You're like an angel
+Too good to be true
+But after all
+I love you
+I do
+Angel baby
+My angel baby
+When you are near me
+My heart skips a beat
+I can hardly stand on
+My own two feet
+Because I love you
+I love you
+I dooo
+Angel baby
+My angel baby
+Ooooh I love you
+Ooooh I do
+No one can love you
+Like I do
+Ohhh, oooh… ooh ohh
+From the first time
+That I looked deep into your eyes
+You sent me off to heaven baby
+Body and mind
+Everything about you
+Is everything that i've dreamed of
+And now you're here beside me
+My angel from above
 
+It's just like heaven
+Being with you dear
+I could never stay away
+Without you near
+Because I love you
+I love you
+I dooo
+Angel baby
+My angel baby
+Angel baby
+My angel baby!
+Oooh I love you
+Ohhh I do!
+No one can love you
+Like I do
+
+Ooooh ohhh oooh
+Oooh, oooh oooh
+(repeat)

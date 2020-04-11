@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bells-are-ringing-the-van-dykes
+lyrics_url: https://genius.com/The-van-dykes-the-bells-are-ringing-lyrics
 name: The Bells Are Ringing
 rankings:
 - end_date: '1961-08-06'
@@ -15,4 +16,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+Ding dong
+Ding dong
 
+Oh those bells they are ringing in the tower
+They seem to know the hour
+When we are together
+
+Oh those bells they say you're mine forever
+Let's put our hearts together
+To join us as one (ding dong)
+
+Those bells bells are ringing for ours to come around
+To join us together so no one can make us part
+
+Oh those bells have put our hearts together
+And have joined us forever
+Forever and ever to part (ding dong)
+
+Ding dong Bells bells
+Ding dong Bells bells bells

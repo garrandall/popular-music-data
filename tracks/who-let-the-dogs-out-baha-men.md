@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-let-the-dogs-out-baha-men
+lyrics_url: https://genius.com/Baha-men-who-let-the-dogs-out-lyrics
 name: Who Let The Dogs Out
 rankings:
 - end_date: '2000-07-28'
@@ -87,4 +88,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
 ---
+For one zillion dollas
+The question is:
+Who let the dogs out?
 
+
+
+
+Hey!
+Who let the dogs out?!
+Who let the dogs out?!
+
+
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+
+
+Well the party was nice, the party was pumpin' (Hey, Yippie-Yi-Yo)
+And everybody havin' a ball (Hah, ho, Yippie-Yi-Yo)
+Until the fellas started name callin' (Yippie-Yi-Yo)
+And the girls respond to the call
+I heard a woman shout out
+
+
+"Who let the dogs out?"
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+
+
+I see ya' little speedboat head up our coast
+She really want to skip town
+Get back gruffy, back scruffy
+Get back you flea-infested mongrel!
+
+
+Gonna tell myself, "Hey man no get angry" (Hey, Yippie, Yi, Yo)
+To any girls calling them canine, hey! (Yippie, Yi, Yo)
+But they tell me "Hey Man, It's part of the Party!" (Yippie Yi, Yo)
+You put a woman in front and her man behind (Yippie, Yi, Yo)
+I heard a woman shout out
+
+
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+
+
+Say, A doggy is nuttin' if he don't have a bone!
+(Oh doggy hold ya' bone, oh doggy hold it)
+A doggy is nuttin' if he don't have a bone!
+(Oh doggy hold ya' bone, oh doggy hold it)
+
+
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+
+
+I see ya' little speed boat head up our coast
+She really want to skip town
+Get back gruffy, back scruffy
+Get back you flea-infested mongrel!
+
+
+Well if I am a dog, the party is on
+I gotta get my groove cause my mind done gone
+Do you see the rays comin' from my eye
+Walking through the place
+That Diji man is breakin' it down?
+Me and My white short shorts
+And I can't see color, any color will do
+I'll stick on you, that's why they call me Pitbull
+Cause I'm the man of the land
+When they see me they say Woo!
+
+
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)
+Who let the dogs out?
+(Who, who, who, who)

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: a-fifth-of-beethoven-walter-murphy-the-big-apple-band
+lyrics_url: https://www.musixmatch.com/lyrics/Walter-Murphy-and-the-Big-Apple-Band/A-Fifth-of-Beethoven
 name: A Fifth Of Beethoven
 rankings:
 - end_date: '1976-06-04'
@@ -120,4 +121,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
 ---
-
+Me pica el escroto
+Me arde la pinga
+Jajajajaja
+Dicen que se juntan en el barrio de la auroa dicen que le arde la verga como cotorra
+J im yur puta papisito

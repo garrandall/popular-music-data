@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-from-the-country-tracy-byrd
+lyrics_url: https://genius.com/Tracy-byrd-im-from-the-country-lyrics
 name: I'm From The Country
 rankings:
 - end_date: '1998-04-10'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
 ---
+Way back up in the country, back in the hills
+Down in the hollows where the folks are real
+Livin' with the crazzies and the old wildcats
+Sawed off shotguns and coonskin caps
+That's where I'm from and I'm proud to say
+I'm from the country and I like it that way
 
+
+Everybody knows everybody
+Everybody calls you friend
+You don't need an invitation
+Kick off your shoes, come on in
+Yeah, we know how to work and we know how to play
+We're from the country and we like it that way
+
+
+All day long we work in the fields
+Then bring it on home to a home cooked meal
+We love ya like Sunday, treat ya like Saturday night
+And when the beds get full we can sleep in the hay (Hey)
+We're from the country and we like it that way
+
+
+Everybody knows everybody
+Everybody calls you friend
+You don't need an invitation
+Kick off your shoes come on in
+Yeah we know how to work and we know how to play
+We're from the country and we like it that way
+
+Everybody knows everybody
+Everybody calls you friend
+You don't need an invitation
+Kick off your shoes come on in
+Yeah we know how to work and we know how to play
+We're from the country
+We're from the country
+We're from the country
+And we like it that way

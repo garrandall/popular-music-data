@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: when-you-wish-upon-a-star-dion-the-belmonts
+lyrics_url: https://genius.com/Dion-and-the-belmonts-when-you-wish-upon-a-star-lyrics
 name: When You Wish Upon A Star
 rankings:
 - end_date: '1960-05-01'
@@ -44,4 +45,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
 ---
+When a star is born
+They possess a gift or two
+One of them is this
+They have the power to make a wish come true
 
+When you wish upon a star
+Makes no difference who you are
+Anything your heart desires will come to you
+
+If your heart is in your dream
+No request is too extreme
+When you wish upon a star as dreamers do
+
+Fate is kind
+She brings to those who love
+The sweet fulfillment of their secret longing
+
+Like a bolt out of the blue
+Fate steps in and sees you through
+When you wish upon a star
+Your dreams come true

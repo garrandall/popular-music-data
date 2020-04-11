@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-night-beyonce
+lyrics_url: https://genius.com/Beyonce-all-night-lyrics
 name: All Night
 rankings:
 - end_date: '2016-05-20'
@@ -15,4 +16,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-21'
 ---
+I found the truth beneath your lies
+And true love never has to hide
+True love never has to hide
+I'll trade your broken wings for mine
+Trade your broken wings for mine
+I've seen your scars and kissed your crime, oh
+Seen your scars and kissed your crime
 
+
+So many people that I know, they're just tryna touch ya
+Kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+Give you some time to prove that I can trust you again
+I'm gonna kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+
+
+All night long
+Love all night long
+Sweet love all night long
+Sweet love all night long
+All I wanna, ain't no other
+We together, I remember
+Sweet love all night long
+
+
+Our love was stronger than your pride
+Beyond your darkness, I'm your light, oh
+If you get deep, you touch my mind
+If you get deep, you touch my mind
+Baptize your tears and dry your eyes, oh
+Baptize your tears and dry your eyes
+
+
+So many people, I know that they're just tryna touch ya
+Kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+Give you some time to prove that I can trust you again
+I'm gonna kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+
+
+All night long
+Love all night long
+Sweet love all night long
+Sweet love all night long
+All I wanna, ain't no other
+We together, I remember
+Sweet love all night long
+
+
+They say true love's the greatest weapon
+To win the war caused by pain, pain
+But every diamond has imperfections
+But my love's too pure to watch it chip away
+Boy, nothing real can be threatened
+True love breathes salvation back into me
+With every tear came redemption
+And my torturer became my remedy
+
+
+So many people, I know that they're just tryna touch ya
+Kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+Give you some time to prove that I can trust you again
+I'm gonna kiss up and rub up and feel up
+Kiss up and rub up and feel up on you
+
+
+All night long
+Love all night long
+Sweet love all night long
+Sweet love all night long
+All I wanna, ain't no other
+We together, I remember
+Sweet love all night long
+
+
+How I missed you, my love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-age-girl-deadeye-dick
+lyrics_url: https://genius.com/Deadeye-dick-new-age-girl-lyrics
 name: New Age Girl
 rankings:
 - end_date: '1994-09-02'
@@ -115,4 +116,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
 ---
+I've got a new age girl (Tell us what she's like)
+An environmentalist girl (Does she ride a bike?)
+She has a crystal necklace (Does she spend a lot of cash?)
+Though her vibes are rather reckless (She's heading for a crash)
+Oh her flowing skirt is blowing in a transcendental wind
+And she wonders without knowing where did we begin
 
+
+Mary Moon, she's a vegetarian
+(Mary Moon, Mary Moon, Mary Moon)
+Mary Moon will outlive all the septuagenarians
+(Mary Moon, Mary Moon, Mary Moon)
+Oh she loves me so, she hates to be alone
+She don't eat meat but she sure like the bone
+
+
+You know she drives wind car (How does she like it?)
+It doesn't get her far (Why she doesn't bike it?)
+But it gets her to where she's going
+I don't know, I don't know, I don't know
+Where that is wish I knew
+I don't know where she's going
+And I don't know where she's been
+All I know that lovin' her has gotta be a sin
+
+
+
+
+Mary Moon, will you hesitate?
+Don't segregate your thoughts from your emotions
+(Mary Moon)
+I know devotion isn't way up there
+
+
+
+Mary Moon (Mary Moon, Mary Moon, Mary Moon)
+Oh, Mary Moon (Mary Moon, Mary Moon, Mary Moon)
+Mary Moon (Mary Moon, Mary Moon, Mary Moon)
+
+She's the one for me, me oh (Mary Moon, Mary Moon)

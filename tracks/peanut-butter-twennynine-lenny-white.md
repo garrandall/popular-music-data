@@ -5,6 +5,7 @@ features:
 - Lenny White
 genres: []
 key: peanut-butter-twennynine-lenny-white
+lyrics_url: https://www.musixmatch.com/lyrics/Twennynine-Lenny-White/Peanut-Butter
 name: Peanut Butter
 rankings:
 - end_date: '1980-02-08'
@@ -24,4 +25,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-23'
 ---
-
+If you're feeling hungry, Ain't got nothing to eat.
+Show me to the kitchen Peanut butter can't be beat.
+Dancing to the music, Feeling fancy free.
+Spread it with some jelly, Peanut butter, let's eat and meet!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a...
+Whoooooooo!
+When you're feeling hungry, Ain't got nothing to eat.
+Show me to the kitchen Peanut butter can't be beat.
+Dancing to the music, Feeling fancy free.
+Spread it with some jelly, Peanut butter, let's eat and meet!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!
+Share, share with me (peanut butter)ain't nothing but a sammich, you see!

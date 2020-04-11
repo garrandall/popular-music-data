@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-race-tay-k
+lyrics_url: https://genius.com/Tay-k-the-race-lyrics
 name: The Race
 rankings:
 - end_date: '2017-09-01'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
 ---
+I-I-I'm Lil Tay-K, I don't think you want no action (Gang, gang)
+You want action, you get turned into past tense (In the past)
+Your boys deep? Well, let's get to subtractin' (Pow, pow)
+Smith & Wesson made my 9 with some compassion (Skrrt, skrrt)
 
+
+Fu-fu-fuck a beat, I was tryna beat a case (Gang, gang)
+But I ain't beat that case, bitch, I did the race (Skrrt, skrrt)
+Beat it up, where I nut? Shorty face (Lil bitch)
+Eli blast crackin' 4s like a vase (Gang)
+Pop a nigga then I go out my way (Skrrt)
+Do the dash then I go out the way
+Ro-ro-rob a nigga shoes, rob a nigga lace (Gimme that shit, nigga)
+We tryna see a hunnit bands in our face
+
+
+Pimp gon' be eatin' good noodles every day (Free Pimp)
+Bitch, I'm drawin' doodles, Tay-K, paint the way (You're a simp)
+Choppa tear your dudies into fish fillet (Lil bitch)
+I-I-I woke up too moody, who gon' die today? (Skrrt)
+Shoot a fuckboy in his mothafuckin' face (Grrah, grrah)
+We-we-we cookin' up, boy, you don't wanna go dat way (Dat way, dat way)
+Gotta go dat way, you get robbed for your rackades (Rackades, rackades)
+Gotta go dat way, boy, you not gon' be happy (Hahaha)
+I-I-I tote 50s, I'm a shooter like Young Pappy (Pew)
+Bitch try to rob, we make her dance, Michael Jackson (Skrrt)
+We was plottin', y'all was tryna get the pack in (Lil bitch)
+Get the pack in, you get robbed for a fraction (Gimme that shit)
+
+
+I-I-I'm Lil Tay-K, I don't think you want no action
+You want action, you get turned into past tense
+Your boys deep? Well, let's get to subtractin'
+Smith & Wesson made my 9 with subcompaction
+
+
+Fu-fu-fuck a beat, I was tryna beat a case
+But I ain't beat that case, bitch, I did the race (Skrrt, skrrt)
+Beat it up, where I nut? Shorty face (Gang, gang)
+Eli blast crackin' 4s like a vase
+Pop a nigga then I go out my way (Grra, grra)
+Do the dash then I go out the way
+Ro-ro-rob a nigga shoes, rob a nigga lace (Gimme that shit, nigga)
+We tryna see a hunnit bands in our face
+Fu-fu-fuck a beat, I was tryna beat a case (Gang, gang)
+But I ain't beat that case, bitch, I did the race (Skrrt, skrrt)
+Beat it up, where I nut? Shorty face (Lil bitch)
+Eli blast crackin' 4s like a vase (Gang)
+Pop a nigga then I go out my way (Skrrt)
+Do the dash then I go out the way
+Ro-ro-rob a nigga shoes, rob a nigga lace (Gimme that shit, nigga)
+We tryna see a hunnit bands in our face
+
+
+See it in my mothafuckin' face

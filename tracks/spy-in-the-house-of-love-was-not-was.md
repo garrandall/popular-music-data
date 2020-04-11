@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spy-in-the-house-of-love-was-not-was
+lyrics_url: https://genius.com/Was-not-was-spy-in-the-house-of-love-lyrics
 name: Spy In The House Of Love
 rankings:
 - end_date: '1988-10-07'
@@ -75,4 +76,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
+The air was filled with suspicion
+She poured us two martinis
+And tried to guess my mission
+I pretended to know nothing
+It's best to use discretion
+But she turned her floodlight eyes on me
+And demanded a confession
 
+I told her I am a spy in the house of love
+Gathering clues to be used in the war of the affections
+I am a spy in the house of love
+I won't be refused I'm waiting for your heart's defection
+
+I saw, yes I did, everything that pleased her
+I recorded every movement
+And plotted how to seize her
+I used a tiny camera
+I thought I'd Japanese her
+I made a voodoo doll of her
+And sat around and squeezed her
+
+I told her I am a spy in the house of love
+Gathering clues to be used in the war of the affections
+I am a spy in the house of love
+I won't be refused I'm waiting for your heart's defection
+
+I'll read your mail
+I'll tap your phone
+I'm on your trail
+You're never alone
+One day you'll slip up
+And leave a lip print on a coffee cup
+
+I'm a spy and I just can't help myself

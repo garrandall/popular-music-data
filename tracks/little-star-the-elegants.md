@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-star-the-elegants
+lyrics_url: https://genius.com/The-elegants-little-star-lyrics
 name: Little Star
 rankings:
 - end_date: '1958-08-10'
@@ -75,4 +76,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
 ---
+Where are you little star?
+(Where are you?)
 
+Whoa oh, oh, oh uh oh
+Ratta ta ta too, ooh ooh
+Whoa oh, oh, oh uh oh
+Ratta ta ta too, ooh ooh
+
+Twinkle, twinkle little star
+How I wonder where you are
+Wish I may, wish I might
+Make this wish come true tonight
+Searched all over for a love
+You're the one I'm thinkin' of
+
+Whoa oh, oh, oh, uh oh
+Ratta ta ta too, ooh ooh
+Whoa oh, oh, oh uh oh
+Ratta ta ta too, ooh ooh
+
+Twinkle, twinkle little star
+How I wonder where you are
+High above the clouds somewhere
+Send me down a love to share
+
+Whoah oh, oh, oh, uh oh
+Ratta ta ta too, ooh ooh
+Whoa oh, oh, oh uh oh
+Ratta ta ta too, ooh ooh
+Whoa uh, oh, oh, oh
+
+Oh, there you are
+High above
+Oh, oh, God
+Send me a love
+
+Oh, there you are
+Lighting up the sky
+I need a love
+Oh me, oh, me, oh, my
+
+Twinkle twinkle little star
+How I wonder where you are
+Wish I may, wish I might
+Make this wish come true tonight
+
+Whoa oh, oh, oh, uh oh
+Ratta ta ta too, ooh ooh
+Woa oh, oh, oh uh oh
+Ratta ta ta too, ooh ooh
+
+Oh, ra, ta, ta
+Ooh, ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh, ooh
+There you are little star

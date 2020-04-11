@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: outa-space-billy-preston
+lyrics_url: https://genius.com/Billy-preston-outa-space-lyrics
 name: Outa-Space
 rankings:
 - end_date: '1972-04-28'
@@ -75,4 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
 ---
-
+Instrumental

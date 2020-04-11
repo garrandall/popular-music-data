@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hollywood-connie-francis
+lyrics_url: https://genius.com/Connie-francis-hollywood-lyrics
 name: Hollywood
 rankings:
 - end_date: '1961-10-01'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
+Whose jalopy is covered with junk
+But don't have any money for lunch?
+It's Hollywood, it's Hollywood
 
+Who's the local star
+With the big, fine car?
+It's Hollywood
+
+Who wears the shady glasses after dark?
+Who tries to talk the little girlie's into parking?
+It's Hollywood, Hollywood
+
+Who's the local yokel with
+The horn rimmed bifocals?
+It's Hollywood
+Go, go, go
+
+Who else would hold a cigarette like that?
+Who else would wear a little Frenchy's hat?
+No one but Hollywood, Hollywood
+
+Who thinks he's been around
+But ain't never been out of town?
+It's Hollywood
+
+I'll give you just one little guess
+At who old Hollywood's trying to impress
+You're right, it's Hollywood, Hollywood
+
+Who's that farmer
+Who think he's a charmer?
+It's Hollywood
+
+Yeah, it's Hollywood all right
+Here Hollywood, here's a quarter
+Go buy yourself some, ah, continental pants
+Ascot, cigarette holder etc, etc

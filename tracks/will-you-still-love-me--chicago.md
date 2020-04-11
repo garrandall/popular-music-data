@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: will-you-still-love-me--chicago
+lyrics_url: https://genius.com/Chicago-will-you-still-love-me-lyrics
 name: Will You Still Love Me?
 rankings:
 - end_date: '1986-11-21'
@@ -99,4 +100,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
 ---
+Take me as I am
+Put your hand in mine now and forever
+Darling here I stand, stand before you now
+Deep inside I always knew
+It was you, you and me
+Two hearts drawn together bound by destiny
+It was you and you for me
+Every road leads to your door
+Every step I take forever more
 
+
+Just say you'll love me for the rest of your life
+I got a lot of love and I don't want to let go
+Will you still love me for the rest of my life?
+Because I can't go on
+No, I can't go on
+I can't go on
+If I'm on my own
+
+
+Take me as I am
+Put your heart in mine, stay with me forever
+Because I am just a man who never understood
+I never had a thing to prove
+There was you
+You and me
+Then it all came clear so suddenly
+How close to you that I wanna be
+
+
+Just say you'll love me for the rest of your life
+I got a lot of love and I don't want to let go
+Will you still love me for the rest of my life?
+Because I can't go on
+No, I can't go on
+I can't go on
+If I'm on my own
+
+
+Do you believe a love could run so strong?
+Do you believe a love could pass you by?
+There was no special one for me
+I was the lonely one, you see
+But then my heart lost all control
+Now you're all that I know
+
+
+Just say you'll love me for the rest of your life
+I got a lot of love and I don't want to let go
+Will you still love me for the rest of my life?
+Because I can't go on (Can't go on)
+No, I can't go on
+Because I can't go on (Will you still love me?)
+No, I can't go on (Just say you love me)
+I can't go on without somebody I can count on
+Because I can't go on (Will you still love me?)
+No, I can't go on (Just say you love me)
+Stay around, and never be alone

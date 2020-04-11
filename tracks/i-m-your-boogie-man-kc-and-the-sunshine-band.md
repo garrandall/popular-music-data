@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-your-boogie-man-kc-and-the-sunshine-band
+lyrics_url: https://genius.com/Kc-and-the-sunshine-band-im-your-boogie-man-lyrics
 name: I'm Your Boogie Man
 rankings:
 - end_date: '1977-03-04'
@@ -99,4 +100,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
 ---
+I'm your boogie man, that's what I am
+I'm here to do whatever I can
+Be it early morning, late afternoon
+Or at midnight. It's never too soon
 
+To want to please you, to want to keep you
+To want to do it all, all for you
+I want to be your, be your rubber ball
+I want to be the boy you love most of all, oh yeah
+
+I'm your boogie man, I'm your boogie man
+Turn me on
+I'm your boogie man, I'm your boogie man
+I'll do what you want
+
+I'm your boogie man, I'm your boogie man
+Turn me on
+I'm your boogie man, I'm your boogie man
+I'll do what you want
+
+I'm your boogie man, that's what I am
+I'm here to do whatever I can
+Be it early morning, late afternoon
+Or at midnight, oh it's never too soon
+
+To want to take you, to want to hold you
+I want to give my all, all to you
+And I want you to completely understand
+Wherever I'm at and wherever I am, oh yeah
+
+I'm your boogie man, I'm your boogie man
+Turn me on
+I'm your boogie man, I'm your boogie man
+I'll do what you want
+
+I'm your boogie man, I'm your boogie man
+Turn me on
+I'm your boogie man, I'm your boogie man
+I'll do what you want
+
+I'm your boogie man, that's what I am
+I'm here to do whatever I can
+Be it early morning, late afternoon
+Or at midnight, oh it's never too soon
+
+I want to be with you, I want to be with you
+Can we be together? You and me?
+I want to see you, get near you
+I want to love you from sundown to sunup
+Oh yeah, oh yeah
+
+I'm your boogie man, that's what I am
+I'm here to do whatever I can
+Be it early morning, late afternoon
+Or at midnight. It's never too soon
+
+To want to please you, to want to hold you
+To want to do it all, all for you
+I want to be your, be your rubber ball
+I want to be the boy you love most of all
+
+I'm your boogie man, uh-huh
+I'm your boogie man, uh-huh
+I'm your boogie man, uh-huh
+I'm your boogie man, uh-huh

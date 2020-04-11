@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-love-ace-of-base
+lyrics_url: https://genius.com/Ace-of-base-lucky-love-lyrics
 name: Lucky Love
 rankings:
 - end_date: '1996-03-01'
@@ -75,4 +76,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
 ---
+Life is a paradise
+Oho, yeaheah
 
+
+Lucky love belongs in teenage heaven
+I know, I know
+'Cause I've been there with you tonight
+Lucky love belongs in teenage heaven
+I know, I know
+'Cause I've been there with you tonight
+
+
+I believe life could be paradise once again
+And the love we thought we lost is sleeping within
+Close your eyes, it's something for you
+
+
+Lucky love belongs in teenage heaven
+I know, I know
+'Cause I've been there with you tonight
+Lucky love belongs in teenage heaven
+I know, I know
+I'm a prisoner of hope, I know
+
+
+We are young and we are old
+We're fallin' like leaves
+And your heart's so full of soul
+It makes me believe
+Once again, it's something for you
+
+
+Lucky love belongs in teenage heaven
+I know, I know
+'Cause I've been there with you tonight
+Lucky love belongs in teenage heaven
+I know, I know
+
+
+A bridge over time
+Was what you need to see the light
+To see the light
+Oh, yeah!
+
+
+Lucky love, lucky love
+Lucky love belongs in teenage heaven
+Lucky love, lucky love
+Lucky love belongs in teenage heaven, oho, yeaheah
+Lucky love belongs in teenage heaven
+I know, I know
+'Cause I've been there with you tonight
+Lucky love belongs in teenage heaven
+I know, I know
+I'm a prisoner of hope, I know

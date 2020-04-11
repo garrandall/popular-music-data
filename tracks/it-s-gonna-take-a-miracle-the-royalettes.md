@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-gonna-take-a-miracle-the-royalettes
+lyrics_url: https://genius.com/The-royalettes-its-gonna-take-a-miracle-lyrics
 name: It's Gonna Take A Miracle
 rankings:
 - end_date: '1965-07-23'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh
 
+Loving you so
+
+I was too blind to see you letting me go
+Now that you've set me free
+
+Chorus:
+It's gonna take a miracle (ooh)
+Yes it's gonna take a miracle
+To make me love someone new
+Cause I'm crazy for you
+Ooh...
+
+Didn't you know?
+It wouldn't be so easy letting you go
+I could have told you that
+
+
+
+Now I know I can't get through to you
+I'm gonna try to show you how much
+You're turning me around, destroying me
+I'll never be the same anymore
+
+You must realize
+You took your love and left me quite by surprise
+You can be sure that know

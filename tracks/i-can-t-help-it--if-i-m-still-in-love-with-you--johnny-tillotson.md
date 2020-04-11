@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-help-it--if-i-m-still-in-love-with-you--johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-i-cant-help-it-if-im-still-in-love-with-you-lyrics
 name: I Can't Help It (If I'm Still In Love With You)
 rankings:
 - end_date: '1962-11-02'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
 ---
+Today I passed you on the street
+And my heart fell at your feet
+I can't help it if I'm still in love with you
 
+Somebody else stood by your side
+And he looked so satisfied
+I can't help it if I'm still in love with you
+
+A picture from the past came slowly stealin'
+As I brushed your arm and walked so close to you
+The-en suddenly I got that old-time feelin'
+I can't help it if I'm still in love with you (still in love with you)
+
+(Today I passed you on the street)
+SPOKEN: Today I passed you on the street
+(And my heart fell at your feet)
+SPOKEN: And my heart fell at your feet
+
+I can't help it if I'm still in love with you
+
+(Somebody else stood by your side)
+SPOKEN: Somebody else stood by your side
+(And he looked so satisfied)
+SPOKEN: And, ya know, he looked so satisfied
+
+I can't help it if I'm still in love with you
+
+Oh, it hurts to know another's lips will kiss you
+And hold ya just the way I used to do
+Oh-oh-oh-oh heaven only knows how much I miss, how much that I miss ya
+I can't help it if I'm still in love with you
+
+(Still in love with you)

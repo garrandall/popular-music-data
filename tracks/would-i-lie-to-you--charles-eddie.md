@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: would-i-lie-to-you--charles-eddie
+lyrics_url: https://genius.com/Charles-and-eddie-would-i-lie-to-you-lyrics
 name: Would I Lie To You?
 rankings:
 - end_date: '1992-08-28'
@@ -112,4 +113,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
+Nothing but love, baby
+Mm-mm-mm
+My, my, my, my, my girl (Look into my eyes)
+Would I lie to you, yeah? (Would I lie to you, baby, would I lie to you?)
 
+
+Look into my eyes, can't you see they're open wide?
+Would I lie to you, baby, would I lie to you? (Oh, yeah)
+Don't you know it's true, girl, there's no one else but you?
+Would I lie to you, baby, yeah?
+
+
+Everybody wants to know the truth
+In my arms is the only proof
+I've hidden my heart behind the bedroom door
+Now it's open, I can't do no more
+
+
+I'm telling you, baby, you will never find another girl
+In this heart of mine (Oh-oh)
+
+
+Look into my eyes, can't you see they're open wide?
+Would I lie to you, baby, would I lie to you? (Oh, yeah)
+Don't you know it's true, girl, there's no one else but you?
+Would I lie to you, baby, yeah? (Would I lie to you?)
+
+
+Everybody's got their history (History)
+On every page a mystery (It's a mystery, yeah)
+You can read my diary, you're in every line
+Jealous minds, never satisfied
+
+
+I'm telling you, baby, you will never find another girl
+In this heart of mine (In this heart of mine)
+
+
+Look into my eyes, can't you see they're open wide?
+Would I lie to you, baby, would I lie to you? (Oh, yeah)
+Don't you know it's true, girl, there's no one else but you?
+Would I lie to you, baby, yeah? (Would I lie to you?)
+
+
+(Would I lie to you?) When you wanna see me night and day
+(Would I lie?) If I tell you that I'm here to stay
+(Would I lie to you?) Do you think I give my love away?
+(Would I lie?) That's not the kind of game I play
+
+
+I'm telling you, baby, you will never find another girl
+In this heart of mine (In this heart of mine, deep in my heart)
+Whoo
+
+
+Look into my eyes, can't you see they're open wide?
+Would I lie to you, baby, would I lie to you? (Oh, yeah)
+Don't you know it's true, girl, there's no one else but you?
+Would I lie to you, baby, yeah? (Would I lie to you?)
+(Would I lie to you, baby?)
+
+Look into my eyes, can't you see they're open wide?
+Would I lie to you, baby, would I lie to you? (Oh, yeah)
+Don't you know it's true, girl, there's no one else but you?
+Would I lie to you, baby, yeah? (Would I lie to you?)
+(Come on, come on, come on, come on and kiss me, baby)
+
+(Look into my eyes)
+(Would I lie to you, baby, would I lie to you?)
+I wouldn't lie to you, baby, there ain't no one else but you

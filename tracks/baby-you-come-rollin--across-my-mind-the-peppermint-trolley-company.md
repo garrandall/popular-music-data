@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-you-come-rollin--across-my-mind-the-peppermint-trolley-company
+lyrics_url: https://www.musixmatch.com/lyrics/The-Peppermint-Trolley-Company/Baby-You-Come-Rollin-Across-My-Mind
 name: Baby You Come Rollin' Across My Mind
 rankings:
 - end_date: '1968-06-14'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
 ---
+Ev'ry now and then, I see you again
+Baby you come rollin' across my mind
+Every once or twice when feeling's kinda nice
+Baby you come rollin' across my mind
+Baby you come rollin' across my mind
 
+Every other day, since you've been away
+Baby you come rollin' across my mind
+When I think I'm free if you sneak up on me
+Baby you come rollin' across my mind
+Baby you come rollin' across my mind
+
+In the windows of the store
+In the darkened pawn shop doors
+In the pounding summer rain
+You'll come back to me again
+
+And when the feeling comes, it's like a thousand drums
+Pounding in my heart, since we've been apart
+Baby you come rollin' across my mind
+Baby you come rollin' across my mind
+
+In the morning aftermath
+You'll come back and cross my mind
+
+And when the feeling comes, it's like a thousand drums
+Pounding in my heart, since we've been apart
+Baby you come rollin' across my mind
+Baby you come rollin' across my mind

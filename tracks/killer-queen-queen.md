@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: killer-queen-queen
+lyrics_url: https://www.musixmatch.com/lyrics/5-Seconds-of-Summer/Killer-Queen
 name: Killer Queen
 rankings:
 - end_date: '1975-02-14'
@@ -83,4 +84,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
 ---
+She's a Killer Queen
+Gunpowder, gelatin
+Dynamite with a laser beam
 
+She keeps Moët & Chandon
+In her pretty cabinet
+"Let them eat cake", she says
+Just like Marie Antoinette
+A built-in remedy
+For Khrushchev and Kennedy (Ooh,ooh)
+At anytime an invitation
+You can't decline (Ooh, ooh)
+
+Caviar and cigarettes
+Well versed in etiquette
+Extraordinarily nice
+
+She's a Killer Queen
+Gunpowder, gelatin
+Dynamite with a laser beam
+Guaranteed to blow your mind (Bah, bah, bah, bah)
+Anytime
+
+Ooh, recommended at the price
+Insatiable an appetite
+Wanna try?
+
+To avoid complications
+She never kept the same address
+In conversation
+She spoke just like a baroness
+
+Met a man from China (Ooh, ooh)
+Went down to Geisha Minah (Killer, killer)
+Then again incidentally (She's a Killer Queen)
+If you're that way inclined
+
+Perfume came naturally from Paris (Naturally)
+For cars she couldn't care less
+Fastidious and precise
+
+She's a Killer Queen
+Gunpowder, gelatin
+Dynamite with a laser beam
+Guaranteed to blow your mind (Bah, bah, bah, bah)
+Anytime
+
+Drop of a hat she's as willing as
+Playful as a pussy cat (Ooh, ooh)
+Then momentarily out of action (Ooh, ooh)
+Temporarily out of gas (Dah, dah)
+To absolutely drive you wild, wild
+She's all out to get you
+
+She's a Killer Queen
+Gunpowder, gelatin
+Dynamite with a laser beam
+Guaranteed to blow your mind (Bah, bah, bah, bah)
+Anytime
+
+Ooh, recommended at the price
+Insatiable an appetite
+Wanna try?
+You wanna try

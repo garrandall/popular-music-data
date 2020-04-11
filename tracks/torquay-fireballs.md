@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: torquay-fireballs
+lyrics_url: https://genius.com/The-fireballs-torquay-lyrics
 name: Torquay
 rankings:
 - end_date: '1959-10-04'
@@ -59,4 +60,5 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
-
+♫  ♫
+#39 Sep '59 Hot 100

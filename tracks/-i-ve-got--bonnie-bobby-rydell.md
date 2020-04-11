@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-ve-got--bonnie-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-ive-got-bonnie-lyrics
 name: (I've Got) Bonnie
 rankings:
 - end_date: '1962-02-23'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
+(Doop doop, doop doo doop doo doop)
+(Ah-ooh ah-oop)
+(Doop doop, doop doo doop doo doop)
+(Ah-ooh ah-oop)
 
+I've got Bonnie
+Sweet sweet Bonnie
+And all my lonely days are through
+Now, now, now I've got Bonnie
+Sweet sweet Bonnie
+Made all my dreams come true
+
+(Doop doop, doop doo doop doo doop)
+(Ah-ooh ah-oop)
+
+Once I used to cry
+Nobody cared if I would live or die
+But then one lucky day
+I met a girl that heaven sent my way
+
+Now I've got Bonnie
+Sweet sweet Bonnie
+
+And all my lonely days are through
+Now, now, now I've got Bonnie
+Sweet sweet Bonnie
+Made all my dreams come true
+
+(Doop doop, doop doo doop doo doop)
+(Ah-ooh ah-oop)
+
+I don't drive a car
+I'll never be a famous movie star but
+Still I wouldn't switch with someone else
+If he was twice as rich
+
+'cause I've got Bonnie
+Sweet sweet Bonnie
+And all my lonely days are through
+Now, now, now I've got Bonnie
+Sweet sweet Bonnie
+Made
+
+All my dreams come true

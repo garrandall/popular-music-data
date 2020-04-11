@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-need-you-leo-sayer
+lyrics_url: https://genius.com/Leo-sayer-when-i-need-you-lyrics
 name: When I Need You
 rankings:
 - end_date: '1977-03-04'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
 ---
+When I need you
+I just close my eyes and I'm with you
+And all that I so want to give you
+It's only a heartbeat away
 
+When I need love
+I hold out my hands and I touch love
+I never knew there was so much love
+Keeping me warm night and day
+
+
+
+Miles and miles of empty space in between us
+A telephone can't take the place of your smile
+But you know I won't be traveling forever
+It's cold out, but hold out and do like I do
+
+
+
+When I need you
+I just close my eyes and I'm with you
+And all that I so want to give you, babe
+It's only a heartbeat away
+
+
+
+It's not easy when the road is your driver
+Honey, that's a heavy load that we bear
+But you know I won't be traveling a lifetime
+It's cold out, but hold out and do like I do
+
+Oh, I need you
+
+
+
+When I need love
+I hold out my hands and I touch love
+I never knew there was so much love
+Keeping me warm night and day
+
+
+
+When I need you
+I just close my eyes
+And you’re right here by my side
+Keeping me warm night and day
+
+I just hold out my hand
+Just hold out my hand
+And I’m with you darling
+Yes I’m with you darling
+All I want to give you
+Is only a heartbeat away
+
+Oh I need you darling
+Oh i want you darling

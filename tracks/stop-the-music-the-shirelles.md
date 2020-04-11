@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-the-music-the-shirelles
+lyrics_url: https://www.musixmatch.com/lyrics/The-Shirelles/Stop-the-Music
 name: Stop The Music
 rankings:
 - end_date: '1962-09-14'
@@ -39,4 +40,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
 ---
+Stop the music, stop the music, stop the music
+Stop the music, stop the music, stop the music
 
+Who does she think she is
+Coming to my party
+Then trying to dance
+Every dance with my guy?
+
+While the lights are dim
+She's making time with him
+And I don't like the look
+That I see in her eyes
+I'm gonna go over there and
+
+(Stop the music, stop the music, stop the music)
+When this record ends
+(Stop the music, stop the music, stop the music)
+I'm gonna stop the music
+If they dance again
+
+Its kinda quiet now (Shhhh)
+The last song has ended
+And another song is starting
+Starting to play.
+
+She's walking across the floor (huh!)
+Straight into his arms once more
+I'm gonna put a stop
+To this thing right away
+I'm gonna go over there and
+
+(Stop the music, stop the music, stop the music)
+I can't take it no more
+(Stop the music, stop the music, stop the music)
+So turn on the lights
+The party's over for tonight
+
+You hear what I say, now?
+
+(Stop the music, stop the music, stop the music)
+(Stop the music, stop the music, stop the music)
+So turn on the lights, the party's over...

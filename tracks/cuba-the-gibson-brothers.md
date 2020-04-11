@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cuba-the-gibson-brothers
+lyrics_url: https://genius.com/The-gibson-brothers-cuba-lyrics
 name: Cuba
 rankings:
 - end_date: '1979-06-29'
@@ -27,4 +28,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
 
+
+You dance to the music like nobody does
+The first time I saw you, I knew it was love
+
+
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+
+
+My heart is on fire, the night is divine
+My only desire is making you mine
+
+
+You're the one that I want
+You're the one, yes, you are
+
+
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+
+
+When you're in motion you seem not to care
+You hide your emotions, the joy, the despair
+
+
+You're the one that I want
+You're the one, yes, you are
+
+
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+
+
+You dance to the music like nobody does
+The first time I saw you, I knew it was love
+
+
+You're the one that I want
+You're the one, yes, you are
+
+You're the one that I want
+You're the one, yes, you are
+
+
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+
+
+You're the one that I want
+You're the one, yes, you are
+
+
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa
+Cuba
+Quiero bailar la salsa

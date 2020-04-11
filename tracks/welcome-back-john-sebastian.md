@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: welcome-back-john-sebastian
+lyrics_url: https://genius.com/John-sebastian-welcome-back-lyrics
 name: Welcome Back
 rankings:
 - end_date: '1976-04-02'
@@ -63,4 +64,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
 ---
+Welcome back
+Your dreams were your ticket out
+Welcome back to that same old place
+That you laughed about
 
+Well, the names have all changed
+Since you hung around
+But those dreams have remained
+And they've turned around
+
+Who'd have thought they'd lead you
+(Who'd have thought they'd lead you)
+Back here where we need you
+(Back here where we need you)
+
+Yeah, we tease him a lot
+Cause we got him on the spot
+Welcome back
+
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+
+Welcome back
+We always could spot a friend
+Welcome back
+And I smile when I think
+How you must have been
+
+And I know what a scene
+You were learning in
+Was there something that
+Made you come back again
+
+And what could ever lead you
+(What could ever lead you)
+Back here where we need you
+(Back here where we need you)
+
+Yeah, we tease him a lot
+Cause we got him on the spot
+Welcome back
+
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+
+And I know what a scene
+You were learning in
+Was there something that
+Made you come back again
+
+And what could ever lead you
+(What could ever lead you)
+Back here where we need you
+(Back here where we need you)
+
+Yeah, we tease him a lot
+Cause we got him on the spot
+Welcome back
+
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+
+Yeah, we tease him a lot
+Welcome back, welcome back
+'Cause we got him on the spot
+Welcome back, welcome back
+
+Yeah, we tease him a lot
+Cause we got him on the spot
+Welcome back
+
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+
+Welcome back
+Welcome back
+Welcome back
+Welcome back
+Welcome back

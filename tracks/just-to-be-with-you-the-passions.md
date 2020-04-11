@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-to-be-with-you-the-passions
+lyrics_url: https://www.musixmatch.com/lyrics/The-Passions/Just-to-Be-With-You
 name: Just To Be With You
 rankings:
 - end_date: '1959-10-11'
@@ -47,4 +48,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
 ---
-
+Just to be with you
+Just to be with you
+There is nothing I wouldn't do
+Just to be with you.
+I'd climb a mountain or sail the seas
+I'd go a thousand miles upon my knees
+I'd find a rainbow and take it from the sky
+I'll be a slave till the day I die.
+I'll build a castle like those of old
+And I would fill it with lots of gold
+I'd find the writings of what's supposed to be
+I'll count the stars in the galaxy.

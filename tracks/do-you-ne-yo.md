@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-ne-yo
+lyrics_url: https://genius.com/Ne-yo-do-you-lyrics
 name: Do You
 rankings:
 - end_date: '2007-06-22'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-10-27'
 ---
+Maybe this decision was a mistake
+You probably don't care what I have to say
+But it's been heavy on my mind for months now
+Guess I'm trying to clear some mental space
+I would love to talk to you in person
+But I understand why that can't be
+I'll leave you alone for good, I promise
+If you answer this one question for me
 
+
+I just wonder
+Do you ever
+Think of me anymore
+Do you?
+
+
+First off, let me say "congratulations"
+Heard that you just had a baby girl
+If she looks anything like her mother
+She's the prettiest thing in the world
+Swear that I'm not trying to start no trouble
+Tell your fiance he can relax
+I'll leave you alone for good, I promise
+There's a question I just got to ask
+
+
+I just wonder
+Do you ever
+Think of me anymore
+Do you?
+
+
+I know what we have is dead and gone
+Too many times I made you cry
+And I don't mean to interrupt your life
+I just wonder, do I ever cross your mind?
+
+
+I just wonder
+Do you ever
+Think of me anymore
+Do you?
+I just wonder
+Do you ever
+Think of me anymore
+Do you?
+I just wonder
+Do you ever
+Think of me anymore
+Do you?
+I just wonder
+Do you ever
+Think of me anymore
+Do you?

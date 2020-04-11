@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-miss-her--the-fishin--song--brad-paisley
+lyrics_url: https://genius.com/Brad-paisley-im-gonna-miss-her-lyrics
 name: I'm Gonna Miss Her (The Fishin' Song)
 rankings:
 - end_date: '2002-05-10'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-09-14'
 ---
+Well I love her
+But I love to fish
+I spend all day out on this lake
+And hell is all I catch
+Today she met me at the door
+Said I would have to choose
+If I hit that fishing hole today
+She'd be packing all her things
+And she'd be gone by noon
 
+
+Well, I'm gonna miss her
+When I get home
+But right now I'm on this lakeshore
+And I'm sitting in the sun
+I'm sure it'll hit me
+When I walk through that door tonight
+Yeah, I'm going miss her
+Oh, look there, I've got a bite!
+
+
+Now there's a chance that if I hurry
+I could beg her to stay
+But that water's right
+And the weather's perfect
+No telling what I might catch today
+
+
+So, I'm gonna miss her
+When I get home
+But right now I'm on this lakeshore
+And I'm sitting in the sun
+I'm sure it'll hit me
+When I walk through that door tonight
+Yeah, I'm gonna miss her
+Oh, look there, another bite!
+
+
+Yeah, I'm gonna miss her
+Oh, look there, I've got a bite!

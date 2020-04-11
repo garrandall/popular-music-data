@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-many-ways-brook-benton
+lyrics_url: https://genius.com/Brook-benton-so-many-ways-lyrics
 name: So Many Ways
 rankings:
 - end_date: '1959-10-25'
@@ -71,4 +72,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
 ---
+Your lips on mine are soft as dew
+Your kiss is so divine
+Your eyes are like the skies of blue
+And stars that brightly shine
 
+Your voice is sweet like violins
+And warm like summer days
+I love you, I love you, I love you
+In oh, oh, so many, many ways
+
+Your touch is like a breath of spring
+You give life to my soul
+To me, sweetheart, you're everything
+I ever hoped to hold
+
+A smile from you lights up my heart
+And brightens all my days
+And I just love you, I love you, I love you
+In oh, oh, so many, many ways
+
+If words could say how much I care
+My dear, you'd be amazed
+That I love you, I love you, I love you
+In oh, oh so many so many ways

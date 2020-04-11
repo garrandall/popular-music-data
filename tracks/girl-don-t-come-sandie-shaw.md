@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-don-t-come-sandie-shaw
+lyrics_url: https://genius.com/Sandie-shaw-girl-dont-come-lyrics
 name: Girl Don't Come
 rankings:
 - end_date: '1965-03-12'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
 ---
+You have a date for half past eight tonight
+Some distant bell starts chimin' nine
+You wanna see her
+You wanna see her. oh yeah
+So you wait, you wait and wait
+Girl don't come
 
+The time rolls on those minutes fly by
+You wanna go but just you try guy
+You wanna see her
+You wanna see her, oh yeah
+So you wait, you wait and wait
+Girl don't come
+
+You've been stood up
+Tears fill your eyes oh whoa-oh
+You hurt inside
+You wanna die oh whoa
+
+You have a date for half past eight tonight
+Some distant bell starts chimin' nine
+You wanna see her
+You wanna see her, oh yeah
+So you wait, you wait and wait
+Girl don't come
+
+You've been stood up
+Tears fill your eyes oh whoa-oh
+You hurt inside
+You wanna die oh whoa
+You wanna see her
+You wanna see her oh yeah
+So you wait, you wait and wait
+Girl don't come
+Girl don't come
+Girl don't come

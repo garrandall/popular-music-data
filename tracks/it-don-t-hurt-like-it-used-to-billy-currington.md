@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-don-t-hurt-like-it-used-to-billy-currington
+lyrics_url: https://genius.com/Billy-currington-it-dont-hurt-like-it-used-to-lyrics
 name: It Don't Hurt Like It Used To
 rankings:
 - end_date: '2016-08-19'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
 ---
+I had a couple beers with one of my friends
+​Told him just how our story ends
+​Did all I could to try to make it work
+​But you drug my heart through the Alabama dirt
 
+
+​I've been at the house, climbin' them walls
+​Checkin' that calendar, x'in days off
+​Hit another bar, call another friend
+​Throw a few down, tell the story again
+​
+
+​Hey, hey, what can I say?
+​I can just lie and say it's all okay
+​Oh, oh, what can I do?
+​Been goin' through Hell gettin' over you
+​But it don't hurt, it don't hurt like it used to
+​No it don't hurt, it don't hurt like it used to
+​
+
+I'm finally gettin' out back into the world
+​Life is good, I met me a girl
+​She got a beautiful heart, eyes are blue
+​I don't hardly ever think about you
+​
+
+​Hey, hey, what can I say?
+I can just lie and say it's all okay
+Oh, oh, what can I do?
+Been goin' through Hell gettin' over you
+But it don't hurt, it don't hurt like it used to
+No it don't hurt, it don't hurt like it used to
+
+
+​Sometimes I find peace of mind in a bottle of wine
+​Sometimes I break down and cry
+​
+
+​Hey, hey, what can I say?
+I can just lie and say it's all okay
+Oh, oh, what can I do?
+Been goin' through Hell gettin' over you
+​Hey, hey, what can I say?
+I can just lie and say it's all okay
+Oh, oh, what can I do?
+Been goin' through Hell gettin' over you
+But it don't hurt, it don't hurt like it used to
+No it don't hurt, it don't hurt like it used to
+​No it don't hurt, it don't hurt like it used to
+It don't hurt, it don't hurt like it used to

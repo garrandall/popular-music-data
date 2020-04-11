@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: couldn-t-get-it-right-climax-blues-band
+lyrics_url: https://genius.com/Climax-blues-band-couldnt-get-it-right-lyrics
 name: Couldn't Get It Right
 rankings:
 - end_date: '1977-02-25'
@@ -95,4 +96,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
 ---
+Time was drifting
+This rocker got to roll
+So I hit the road and made my getaway
+Restless feeling, really got a hold
+I started searching for a better way
 
+But I kept on looking for a sign
+In the middle of the night
+But I couldn't see the light
+No, I couldn't see the light
+I kept on looking for a way
+To take me through the night
+I couldn't get it right
+I couldn't get it right
+
+LA fever made me feel alright
+But I must admit it got the best of me
+Getting down, so deep I could have drowned
+Now, I can't get back the way I used to be
+
+But I kept on looking for a sign
+In the middle of the night
+But I couldn't see the light
+No, I couldn't see the light
+I kept on looking for a way
+To take me through the night
+I couldn't get it right
+I couldn't get it right
+
+
+
+New York City took me with the tide
+And I nearly died from hospitality
+Left me stranded, took away my pride
+Just another no account fatality
+
+But I kept on looking for a sign
+In the middle of the night
+But I couldn't see the light
+No, I couldn't see the light
+I kept on looking for a way
+To take me through the night
+I couldn't get it right
+I couldn't get it right

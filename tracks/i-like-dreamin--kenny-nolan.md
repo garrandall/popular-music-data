@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-dreamin--kenny-nolan
+lyrics_url: https://genius.com/Kenny-nolan-i-like-dreamin-lyrics
 name: I Like Dreamin'
 rankings:
 - end_date: '1976-11-12'
@@ -115,4 +116,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
 ---
+I like dreamin' cause dreamin' can make you mine
+I like dreamin', closing my eyes and feeling fine
+When the lights go down, I'm holding you so tight
+Got you in my arms and it's paradise 'til the morning light
 
+I see us on the shore beneath the bright sunshine
+We've walked along St. Thomas beach a million times
+Hand in hand, two barefoot lovers kissing in the sand
+Side by side, the tide rolls in
+I'm touching you, you're touching me
+If only it could be
+
+I like dreamin' cause dreamin' can make you mine
+I like dreamin', closing my eyes and feeling fine
+When the lights go down, I'm holding you so tight
+Got you in my arms and it's paradise 'til the morning light
+
+Through each dream, how our love has grown
+I see us with our children and our happy home
+Little smiles, so warm and tender looking up at us
+Blessed by love, the one we shared
+Till I wake, and reach for you
+And you're just not there
+
+I like dreamin' 'cause dreaming can make you mine
+I like holding you close and touching your skin
+Even if it's in my mind
+Oh, sweet dream baby, I love you
+Oh, my sweet dream baby, you're in my dreams every night
+Oh sweet dreams, I like feelin you
+Oh sweet dreams baby, Don't keep me waiting all my life

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summergirls-dino
+lyrics_url: https://genius.com/Dino-dean-esposito-summergirls-lyrics
 name: Summergirls
 rankings:
 - end_date: '1988-07-22'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
 ---
+Summertime's in the air
+And summergirls are everywhere
+They raise excitability
+I like the things they do to me
 
+Summergirls
+All day long
+Summergirls
+Sing this song
+
+Summergirls set the pace
+With sunglasses on their face
+Excuse me if I stop and stare
+I like the kind of clothes they wear
+
+Summergirls
+All day long
+I like summergirls
+Sing this song
+I wish they all could be like summergirls
+
+Summergirls at the beach
+Sexy suits and hard bodies
+Their golden brown bodies sweat
+I like to see them soaking wet
+
+Summergirls in the sun
+All day long
+Summergirls
+Just having fun
+Sing this song
+I wish they all could be like summergirls
+
+I like the summergirls
+They're turning me on
+They look so good to me
+These summergirls are sweet
+I wanna take one home with me
+
+Summergirls in the sun
+All day long summergirls
+Just having fun
+Sing this song
+
+I like summergirls
+The way they walk and talk
+I wish they all could be like summer
+Wish they all could be like summergirls

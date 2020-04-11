@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-fine-the-fiestas
+lyrics_url: https://genius.com/The-fiestas-so-fine-lyrics
 name: So Fine
 rankings:
 - end_date: '1959-04-12'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
 ---
+So fine, so fine, so fine, yeah
+My baby's so doggone fine
+She loves me, come rain, come shine
+Oh, oh yeah, so fine
 
+She thrills me, she thrills me
+She thrills me, yeah
+My baby thrills me all the time
+She sends those chills up and down my spine
+
+Oh, oh, yeah so fine
+Well, I know she loves me so
+Well I know, because my baby tells me so
+Oh, oh, so fine
+
+So fine, so fine, yeah
+My baby's so doggone fine
+She sends those chills up and down my spine
+Oh, oh yeah, so fine

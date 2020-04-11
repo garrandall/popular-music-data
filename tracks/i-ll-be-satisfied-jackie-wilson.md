@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-satisfied-jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-ill-be-satisfied-lyrics
 name: I'll Be Satisfied
 rankings:
 - end_date: '1959-06-28'
@@ -55,4 +56,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
 ---
+Ooh, just a kiss, just a smile
+Hold my hand, baby
+Just once in awhile
 
+That's all I need that's all I need
+And I'll be satisfied
+
+Think of me when you're away
+Call me, darling
+Just once a day
+
+That's all I need, that's all I need
+And I'll be satisfied
+
+Oh, true love came to me when I met you
+True love makes me know, I won't forget you
+When you're around me, it makes me feel
+Life is worth living, baby, love is so forgiving
+
+Just a kiss, just a smile
+Hold my hand, baby
+Just once in awhile
+
+That's all I need that's all I need
+And I'll be satisfied
+
+True love came to me when I met you
+True love makes me know, I won't forget you
+When you're around me, it makes me feel
+Life is worth living, baby, love is so forgiving
+
+Think of me when you're away
+Call me, darling
+Just once a day
+
+That's all I need, that's all I need
+And I'll be, no, no, no
+That's all I need that's all I need
+And I'll be, yeah, yeah, yeah
+That's all I need that's all I need
+And I'll be so satisfied
+
+That's all I need that's all I need
+Baby, baby, baby, baby, baby
+That's all I need that's all I need
+And I'll be, yeah, yeah, yeah
+That's all I need that's all I need

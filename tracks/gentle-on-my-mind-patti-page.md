@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gentle-on-my-mind-patti-page
+lyrics_url: https://genius.com/Patti-page-gentle-on-my-mind-lyrics
 name: Gentle On My Mind
 rankings:
 - end_date: '1968-02-16'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
 ---
+It's knowin' that your door is always open
+And your path is free to walk
+That makes me tend to leave my sleepin' bag
+Rolled up and stashed behind your couch
+And it's knowin' I'm not shackled
+By forgotten words and bonds
+And the ink stains that have dried upon some line
+That keeps you in the back roads
+By the rivers of my memory
+That keeps you ever gentle on my mind
 
+It's not clingin' to the rocks and ivy
+Planted on their columns now that bind me
+Or something that somebody said because
+They thought we fit together walkin'
+It's just knowing that the world
+Will not be cursing or forgiving
+When I walk along some railroad track and find
+That you're movin' on the back roads
+By the rivers of my memory
+And for hours you're just gentle on my mind
+
+Though the wheat fields and the clothes lines
+And the junkyards and the highways come between us
+And some other woman's cryin' to her mother
+'cause she turned and I was gone
+I still might run in silence
+Tears of joy might stain my face
+And the summer sun might burn me till I'm blind
+But not to where I cannot see
+You walkin' on the back roads
+By the rivers flowin' gentle on my mind
+
+I dip my cup of soup back from a gurglin' cracklin' cauldron
+In some train yard
+My beard a rustlin' coal pile
+And a dirty hat pulled low across my face
+Through cupped hands 'round a tin can
+I pretend to hold you to my breast and find
+That you're waitin' from the back roads
+By the rivers of my memory
+Ever smilin', ever gentle on my mind

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-believe-the-alan-parsons-project
+lyrics_url: https://genius.com/The-alan-parsons-project-you-dont-believe-lyrics
 name: You Don't Believe
 rankings:
 - end_date: '1983-11-25'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
 ---
+My eyes with your vision
+My choice but always your decision
+My play with your direction
+Well it's my lead but always your connection
 
+When I look into your eyes you don't believe me
+I can see it in your eyes you don't believe
+
+My words, your expression
+My land, always your possession
+My song, your production
+My expense is always your deduction
+
+When I look into your eyes you don't believe me
+I can see it in your eyes you don't believe
+
+And the face I see before me
+Is both sides of a mirror
+You really know you've got a hold on me
+And the face you're looking into
+Is both sides of a window
+And any way you look you see through me
+
+My fame, your reflection
+My weakness always your protection
+Well it's my terms on your conditions
+And they're my tunes but they're your compositions
+
+When I look into your eyes you don't believe me
+I can see it in your eyes you don't believe

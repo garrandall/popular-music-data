@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ami-said-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-i-am-i-said-lyrics
 name: I AmI Said
 rankings:
 - end_date: '1971-04-02'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+L.A.'s fine, the sun shines most the time
+And the feeling is "lay back"
+Palm trees grow and rents are low
+But you know I keep thinkin' about
+Making my way back
 
+Well I'm New York City born and raised
+But nowadays
+I'm lost between two shores
+L.A.'s fine, but it ain't home
+New York's home
+But it ain't mine no more
+
+"I am"... I said
+To no one there
+And no one heard at all
+Not even the chair
+
+"I am"... I cried "I am"... said I
+And I am lost and I can't
+Even say why
+Leavin' me lonely still
+
+Did you ever read about a frog
+Who dreamed of bein' a king
+And then became one
+Well except for the names
+And a few other changes
+If you talk about me
+The story's the same one
+
+But I got an emptiness deep inside
+And I've tried
+But it won't let me go
+And I'm not a man who likes to swear
+But I never cared
+For the sound of being alone
+
+"I am"... I said
+To no one there
+And no one heard at all
+Not even the chair
+"I am"... I cried
+"I am"... said I
+And I am lost and I can't
+Even say why
+"I am"... I said
+"I am"... I cried
+"I am"... I said

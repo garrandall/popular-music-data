@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-they-ride-journey
+lyrics_url: https://genius.com/Journey-still-they-ride-lyrics
 name: Still They Ride
 rankings:
 - end_date: '1982-05-28'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
 ---
+Jesse rides through the night
+Under the Main Street light
+Riding slow
+This old town, ain't the same
+Now nobody knows his name
+Times have changed, still he rides
 
+
+Traffic lights, keeping time
+Leading the wild and restless
+Through the night
+
+
+Still they ride, on wheels of fire
+They rule the night
+Still they ride, the strong will survive
+Chasing thunder
+
+
+Spinning around, in a spell
+It's hard to leave this carousel
+Around and around
+And around and around

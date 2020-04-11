@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: first-anniversary-cathy-carr
+lyrics_url: https://www.musixmatch.com/lyrics/Cathy-Carr/First-Anniversary
 name: First Anniversary
 rankings:
 - end_date: '1959-02-01'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+Look at you, look at me
+See the way we glow
+Who'd believe that we
+Just met one week ago
 
+
+This is our first anniversary
+Gee, the time went fast
+This is our first anniversary
+But with every kiss we know
+We know it won't be the last
+(It won't be the last)
+
+Take my hand, hold me close
+It's a special date
+Goodness knows we've got
+So much to celebrate
+
+
+
+When we met, when we danced
+I just knew somehow
+We'd be here this way
+And you'd be saying now
+
+
+
+It won't be the last
+(It won't be the last)
+It won't be the last
+(It won't be the last)
+It won't be the last
+(It won't be the last)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: object-of-my-desire-starpoint
+lyrics_url: https://genius.com/Starpoint-object-of-my-desire-lyrics
 name: Object Of My Desire
 rankings:
 - end_date: '1985-10-04'
@@ -103,4 +104,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
 ---
+Ooh...
+Whoa, whoa, whoa...yeah
 
+You glanced my way
+I lost all control
+Anxiety had taken hold
+My body quivered
+Hot flashes ignited in me, ooh, ooh, ooh...
+Gazing deep into my eyes
+You spoke these words
+I was hypnotized
+Let me share a night in your fantasy, ooh, ooh
+
+Turn on emotions so strong
+Passion's fire burns on and on
+My body screams
+"Please make love to me"
+
+You're the object of my desire
+Baby, ignite my fire
+Object of my desire
+Hey, you really turn me on
+
+You're the object (Sugar) of my desire (Yeah)
+Oh, baby, ignite my fire
+Object of my desire
+Hey, you really turn me on
+
+When I go to sleep at night
+Visions of you here by my side
+Fireworks explode deep inside of me, ay-yi-yi-yi
+I pinch myself as you're lyin' there
+We kiss each other, now I'm really scared
+Too much to ask even for a fantasy, oh, oh, oh
+
+Turn on emotions so strong
+Passion's fire burns on and on
+My body screams
+"Please make love to me"
+
+'Cause you're the object of my desire (Yeah, yeah)
+Baby, ignite my fire
+Object of my desire
+Hey, you really turn me on
+
+You're the object of my desire
+Won't you ignite my fire
+Object of my desire
+Hey, you really turn me on and on and on and on
+
+You're the object (I've got to have your love)
+(I need your love)
+Object (Wanna be the one, baby)
+Hey, you really turn me on
+
+You're the object (Love so fine)
+Baby (I wanna know), would you be mine
+Object
+Hey, you really turn me on and on and on and on
+
+Object
+Object
+Hey, you really turn me on

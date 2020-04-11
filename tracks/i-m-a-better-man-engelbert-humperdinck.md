@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-better-man-engelbert-humperdinck
+lyrics_url: https://genius.com/Engelbert-humperdinck-im-a-better-man-lyrics
 name: I'm A Better Man
 rankings:
 - end_date: '1969-08-29'
@@ -35,4 +36,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
 ---
+If I could catch a star before it touched the ground
+I'd place it in a box, tie ribbons all around
+And then I'd offer it to you
+A token of my love and deep devotion
 
+The world's a better place
+With you to turn to
+I'm a better man
+For having loved you
+
+And now, at last, I face the future unafraid
+With you here by my side, how fast the shadows fade
+And there is hope inside my heart
+'Cause I have something wonderful to live for
+
+The world's a better place
+With you to turn to
+I'm a better man
+For having loved you
+
+And as I am today
+That's how I'll always stay
+A better man for having loved you
+A better man for having loved you
+
+The world's a better place
+With you to turn to
+I'm a better man
+For having loved you
+
+And as I am today
+That's how I'll always stay
+A better man for having loved you
+A better man for having loved you
+
+If I could catch a star before it touched the ground
+I'd place it in a box, tie ribbons all around
+And then I'd offer it to you
+A token of my love and deep devotion

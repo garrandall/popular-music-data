@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-me-down-alabama
+lyrics_url: https://www.musixmatch.com/lyrics/Alabama/Take-Me-Down
 name: Take Me Down
 rankings:
 - end_date: '1982-05-28'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
 ---
+Fly away with me tonight
+Take me on a one-way flight in your lovin' arms
+And ev'rything's gonna be alright
+You're the one who took my hand
+When no one else could understand
+You're the one who moves me
+Like nobody else can.
 
+Take me down where I wanna be
+Turn around, this man who lives inside of me
+Take me down and love me all night long
+Hold me close and make me strong
+Take me down, take me down tonight.
+
+In your eyes I see a light
+It's your emotions glowin' bright
+So keep the fires burnin'
+And let it warm me through the night.
+You can be a part of me
+'Cause you're what love was meant to be
+You and me, baby
+We'll set this flame inside free.
+
+Take me down where I wanna be
+Turn around, this man who lives inside of me
+Take me down and love me all night long
+Hold me close and make me strong
+Take me down, take me down tonight.
+
+You don't have to stay forever
+Let's just put our hearts together
+Share another night in ecstasy
+We know that it's feelin' better
+Ev'ry time we get together
+Maybe love was meant for you and me
+Whoa.
+
+Take me down where I wanna be
+Turn around, this man who lives inside of me
+Take me down and love me all night long
+Hold me close and make me strong
+Take me down, take me down tonight.
+
+Take me down tonight
+Ooh oh, take me down tonight
+Ooh oh, are you gonna take me, (take me)
+Shake me, (shake me)
+Take me down tonight.
+Um hum
+Take me, take me...

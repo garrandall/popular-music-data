@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-whole-world-ended--the-moment-you-left-me--david-ruffin
+lyrics_url: https://www.musixmatch.com/lyrics/David-Ruffin/My-Whole-World-Ended
 name: My Whole World Ended (The Moment You Left Me)
 rankings:
 - end_date: '1969-02-21'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
 ---
-
+Last week my life had meaning
+It was beautiful and so sweet
+But now it's nothing, nothing without you baby
+My whole world is incomplete
+Cause honey i can't see you no more
+That was all that you said baby
+But you just might as well have placed a gun to my head
+Baby, baby, oh why did you do it
+My whole world ended
+The moment you left me
+Yeah baby, honey, my whole world ended
+The moment you left me
+It tumbled down to the ground, baby
+Did you ever mean those sweet things
+All that you use to say
+Did you mean 'em baby
+A lovely, lovely garden and a little baby someday
+Oh tell me baby
+Where did i go wrong, honey
+Whatever changed your mind, baby
+I've asked myself these questions over a million times
+Baby, baby, oh baby
+My whole world ended the moment you left me
+It tumbled down to the ground, baby, baby, baby
+Oh baby now my body is numb
+I feel so senseless to the touch
+My life is so wasted, so wasted without you
+I guess i love you much too much
+Oh baby how can i face tomorrow
+When yesterday is all i see
+I just don't want to face tomorrow
+If you're not sharing it with me
+Baby, baby oh tell me why my whole world ended
+The moment you left me
+Oh yes it did, baby, baby
+My whole world ended the moment you left me
+It tumbled down to the ground
+Baby, i keep holding on, holding on
+Although your love is gone, baby

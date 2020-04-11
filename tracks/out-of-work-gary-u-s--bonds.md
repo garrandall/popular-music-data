@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-work-gary-u-s--bonds
+lyrics_url: https://genius.com/Gary-us-bonds-out-of-work-lyrics
 name: Out Of Work
 rankings:
 - end_date: '1982-06-18'
@@ -71,4 +72,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
 ---
+8 A.M., I'm up and my feet beating on the sidewalk
+Down at the unemployment agency, all I get's talk
+I check the want ads but there just ain't nobody hiring
+What's a man supposed to do when he's down and
 
+Out of work
+I need a job, I'm out of work
+I'm unemployed, I'm out of work
+I need a job, I'm out of work
+
+I go to pick my girl up
+Her name is Linda Brown
+Her dad invites me in
+He tells me to sit down
+The small talk that we're making
+Is going pretty smooth
+But then he drops a bomb
+"Son, what d'ya do?"
+
+I'm out of work
+I need a job, I'm out of work
+I'm unemployed, I'm out of work
+I need a job, I'm out of work
+Yeah, yeah, yeah
+
+Hey, Mr. President, I know you got your plans
+You're doing all you can now to aid the little man
+We got to do our best to whip that inflation down
+Maybe you got a job for me just driving you around
+
+(I'm out of work)
+These tough times, they're enough
+To make a man lose his mind
+(I'm out of work)
+Up there you got a job but down here below
+
+I'm out of work
+I need a job, I'm out of work
+I'm unemployed, I'm out of work
+I need a job, I'm out of work
+
+Ooh, I'm out of work
+I'm out of work
+I'm out of work
+I'm out of work
+I'm out of work
+I'm out of work
+I'm out of work
+I'm out of work

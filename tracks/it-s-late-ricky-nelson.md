@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-late-ricky-nelson
+lyrics_url: https://genius.com/Ricky-nelson-its-late-lyrics
 name: It's Late
 rankings:
 - end_date: '1959-03-08'
@@ -59,4 +60,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+It's late
+(It's late)
+We gotta get on home
+It's late
+(It's late)
+We've been gone too long
 
+Too bad
+(Too bad)
+We shoulda checked our time
+Can't phone
+(Can't phone)
+We done spent every dime
+
+It's late
+(It's late)
+We're 'bout to run outta gas
+It's late
+(It's late)
+We gotta get home fast
+
+Can't speed
+(Can't speed)
+We're in a slow-down zone
+Baby, look at that clock
+Why can't it be wrong?
+
+If we coulda left home at a quarter to nine
+Woulda had fun and plenty of time
+We got started just a little bit late
+Hope this won't be our last date
+
+Look up
+(Look up)
+Is that the moon we see?
+Can't be
+(Can't be)
+Looks like the sun to me
+
+It's late
+(It's late)
+I hate to face your dad
+Too bad
+(Too bad)
+I know he's gonna be mad
+
+It's late
+(It's late)
+We gotta get on home
+It's late
+(It's late)
+We've been gone too long
+
+It's late
+(It's late)
+We're 'bout to run outta gas
+It's late
+(It's late)
+We gotta get home fast
+
+Can't speed
+(Can't speed)
+We're in a slow-down zone
+Baby, look at that clock
+Why can't it be wrong?
+
+If we coulda left home at a quarter to nine
+Woulda had fun and plenty of time
+We got started just a little bit late
+Hope this won't be our last date
+
+Look up
+(Look up)
+Is that the moon we see?
+Can't be
+(Can't be)
+Looks like the sun to me
+
+It's late
+(It's late)
+I hate to face your dad
+Too bad
+(Too bad)
+I know he's gonna be mad
+
+It's late
+(It's late)
+We gotta get on home
+It's late
+(It's late)
+We've been gone too long
+(It's late)

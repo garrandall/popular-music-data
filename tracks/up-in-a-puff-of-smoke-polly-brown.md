@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: up-in-a-puff-of-smoke-polly-brown
+lyrics_url: https://www.musixmatch.com/lyrics/Polly-Browne/Up-in-a-Puff-of-Smoke
 name: Up In A Puff Of Smoke
 rankings:
 - end_date: '1975-01-10'
@@ -59,4 +60,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
+Going up, going up
+Going up, up, up
+Going up, going up
+Going up, up, up
+Going up, going up
+Going up, up, up
+Going up, going up, oh!
 
+Like a bubble
+Headed for trouble
+Wind is blowing
+In the wrong direction
+I was headed into danger
+Too much in love to see
+
+I pledged my trust in him
+Believed in everything
+Just had me on a string
+And then he let me blow away
+
+And now it's going
+Up, up, up in a puff of smoke
+It ain't no joke the way
+He broke my heart
+Going up, up, up in a puff of smoke
+And I'm all choked up inside
+To see my dreams just
+Turn into ashes and all my
+Hopes go up in a puff of smoke
+
+Going up, going up
+Going up, up, up
+Going up, going up, oh!
+
+I aspire, took me higher than
+A rocket on it's way to Heaven
+Couldn't see those dangers coming
+Cause I was flying blind
+
+It hurt me deep inside
+And broke my foolish pride
+That my sweet talking guy
+Was only talking lies
+
+And now it's going
+Up, up, up in a puff of smoke
+It ain't no joke the way
+He broke my heart
+Going up, up, up in a puff of smoke
+And I'm all choked up inside
+To see my dreams just
+Turn into ashes and all my
+Hopes go up in a puff of smoke
+
+He took me higher than a kite
+Then dropped me like a light
+Going up, up, up, up, up, up, up
+Thought I had a chance
+But let me set you down
+Going up, up, up, up, up, up, up
+
+Ooh, ooh, yeah
+Going up, up, up, up, up, up, up
+
+Going up, up, up in a puff of smoke
+Ooh, yeah, yeah, yeah, yeah
+Going up, up, up in a puff of smoke
+Ooh, yeah, yeah, yeah
+Going up, up, up in a puff of smoke

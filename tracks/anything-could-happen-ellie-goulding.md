@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anything-could-happen-ellie-goulding
+lyrics_url: https://genius.com/Ellie-goulding-anything-could-happen-lyrics
 name: Anything Could Happen
 rankings:
 - end_date: '2012-11-02'
@@ -87,4 +88,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-09'
 ---
+Stripped to the waist we fall into the river
+Cover your eyes so you don't know the secret
+I've been trying to hide
+We held our breath to see our names are written
+On the wreck of '86
+That was the year I knew the panic was over
 
+
+Yes, since we found out
+Since we found out
+
+
+That anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+
+After the war, we said we'd fight together
+I guess we thought that's just what humans do
+Letting darkness grow
+As if we need its palette and we need its color
+
+
+But now I've seen it through
+And now I know the truth
+
+
+That anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+
+Baby, I'll give you everything you need
+I'll give you everything you need, oh
+I'll give you everything you need
+But I don't think I need you
+
+
+Stripped to the waist we fall into the river
+Cover your eyes so you don't know the secret
+I've been trying to hide
+We held our breath to see our names are written
+On the wreck of '86
+That was the year I knew the panic was over
+
+
+That anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could happen
+Anything could
+
+
+I know it's going to be
+I know it's going to be
+I know it's going to be
+I know it's going to be
+I know it's going to be
+I know it's going to be
+I know it's going to be
+I know it's going to be, oh
+
+
+But I don't think I need you
+But I don't think I need you
+But I don't think I need you
+But I don't think I need you

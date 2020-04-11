@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-be-the-beatles
+lyrics_url: https://genius.com/The-beatles-let-it-be-lyrics
 name: Let It Be
 rankings:
 - end_date: '1970-03-27'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
 ---
+When I find myself in times of trouble, Mother Mary comes to me
+Speaking words of wisdom, “let it be”
+And in my hour of darkness, she is standing right in front of me
+Speaking words of wisdom, “let it be”
 
+
+Let it be, let it be
+Let it be, let it be
+Whisper words of wisdom
+Let it be
+
+
+And when the brokenhearted people living in the world agree
+There will be an answer, let it be
+For though they may be parted, there is still a chance that they will see
+There will be an answer, let it be
+
+
+Let it be, let it be
+Let it be, let it be
+Yeah, there will be an answer
+Let it be
+Let it be, let it be
+Let it be, let it be
+Whisper words of wisdom
+Let it be
+
+
+
+
+Let it be, let it be
+Let it be, yeah, let it be
+Whisper words of wisdom
+Let it be
+
+
+And when the night is cloudy, there is still a light that shines on me
+Shine on 'til tomorrow, let it be
+I wake up to the sound of music, Mother Mary comes to me
+Speaking words of wisdom, let it be
+
+
+Let it be, let it be
+Let it be, yeah, let it be
+There will be an answer
+Let it be
+Let it be, let it be
+Let it be, yeah, let it be
+There will be an answer
+Let it be
+Let it be, let it be
+Let it be, yeah, let it be
+Whisper words of wisdom
+Let it be

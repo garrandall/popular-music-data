@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pussy-cat-the-ames-brothers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ames-Brothers/Pussy-Cat
 name: Pussy Cat
 rankings:
 - end_date: '1958-10-05'
@@ -67,4 +68,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
+Pussy cat, pussy cat
+Pussy cat, pussy cat
 
+Well, I was born
+In a little old house
+In a town called Barrel Bay
+I was eight years old
+When I fell in love and
+And it seems like yesterday
+
+Down the old mill road
+In a pretty house lived
+Some folks not far from me
+And they had a child
+Only one year old
+And a lovely babe to see
+
+
+They called her Pussy Cat
+Puss, Puss, Pussy Cat
+For her hair was soft and fine
+Pussycat, Puss, Puss, Pussy Cat
+For her two big eyes would shine
+She had a smile so sweet
+And a great deal more than that
+And she'd coo and purr
+When I smiled at her with
+A milky skin like silky fur
+My Puss, Puss, Puss, Puss
+Pussy Cat
+
+Well, the years went by
+And I grew quite tall
+For I shot up like a vine
+And I used to watch old Pussy Cat
+Till she reached the age of nine
+
+Then I said goodbye
+For I left one year,
+For a town in Iowa
+And I didn't see anyone I knew
+'Til I came back one fine day
+
+
+
+Well, there she stood
+Like a pretty rose and
+My goodness, how she'd grown
+But the sparkling eyes
+And the turned-up nose
+Looked the same though
+Years had flown
+
+Then I knew at once
+She belonged to me
+And I knew she felt the same
+So our lives were joined
+And our first new-born
+Was a girl who bore her name
+
+
+
+My Puss, Puss, Puss, Puss
+Pussy Cat, Pussy Cat.

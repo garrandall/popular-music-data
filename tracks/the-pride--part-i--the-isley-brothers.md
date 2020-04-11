@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-pride--part-i--the-isley-brothers
+lyrics_url: https://genius.com/The-isley-brothers-the-pride-lyrics
 name: The Pride (Part I)
 rankings:
 - end_date: '1977-05-13'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
 ---
+Politician come to power take it slow
+People need what you know
+You're a leader so you have to play along
+Show the hand right or wrong
+When you're feelin' that you know the way to turn
+Either way still get burned
+It's the pride that makes you feel that you belong
+It's the pride that keeps you strong
 
+Don't you think it's fascinating?
+Don't you think it's fascinating?
+It's the pride that you feel it's the pride
+(when you finally break it all down it's the pride)
+It's the pride that you feel it's the pride
+(when you finally break it all down it's the pride)
+
+What makes you want to do the best you can?
+What makes you a better man?
+What makes you try again before too long?
+What keeps you standing strong?
+What makes you say the things you want to say
+To make it a better day?
+It's the pride that makes you feel that you belong
+It's the pride that keeps you strong
+
+Don't you think it's fascinating?
+Don't you think it's fascinating?
+It's the pride that you feel it's the pride
+(when you finally break it all down it's the pride)
+It's the pride that you feel it's the pride
+(when you finally break it all down it s the pride)

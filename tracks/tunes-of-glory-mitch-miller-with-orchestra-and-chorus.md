@@ -1,6 +1,6 @@
 ---
 artists:
-- Mitch Miller With Orchestra And Chorus
+- Mitch Miller
 features: []
 genres: []
 key: tunes-of-glory-mitch-miller-with-orchestra-and-chorus

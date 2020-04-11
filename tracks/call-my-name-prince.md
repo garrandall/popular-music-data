@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-my-name-prince
+lyrics_url: https://genius.com/Prince-call-my-name-lyrics
 name: Call My Name
 rankings:
 - end_date: '2004-08-27'
@@ -79,4 +80,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-25'
 ---
+Call, call my name
+Call it, call my name
 
+
+I've heard your voice this morning
+Calling out my name
+It had been so long, since I've heard
+That it didn't sound quite the same, no
+But it let me know that my name
+Had never really been spoken before
+Before the day I carried you
+Through the bridal path door
+And ever since that day I haven't wanted, anyone but you
+And anybody who really knows me knows the truth, that I
+
+
+I just can't stop writing songs about you
+I love you so much
+I just can't wait to get my arms around you
+And feel your touch
+If I don't see you real soon baby girl
+I might go insane
+I know it's only been three hours
+But I love it when you call my name, yes I do
+
+
+I heard a voice on the news saying
+People want to stop the war
+If they had a love as sweet as you
+They'd forget what they were fighting for
+What's the matter with the world today?
+The land of the free, somebody lied
+They can bug my phone and peep around my home
+They'll only see you and me making love inside
+
+
+I just can't stop writing songs about you
+I love you so much
+I just can't wait to get my arms around you
+And feel your touch
+If I don't see you real soon baby girl
+I might go insane
+I know it's only been three hours
+But I love it when you call my name, yes I do
+
+
+I've never seen the moon look so lovely
+As the night I saw it with you
+Let me know I'd never seen the moon before
+So many speak of the moon
+As though it had no flaws
+But to compare it to a beauty like yours
+Would give one pause
+Nothing about you is false
+That's why your love is real
+That's why your love is real love
+God forbid if you belonged to another
+I'd have to steal you
+I'd have to take you from your man
+I might be tempted to break the law round here
+Because your beauty it gives one pause
+It slows me down
+
+
+I just can't stop writing songs about you
+I love you so much
+I just can't wait to get my arms around you
+And feel your touch
+If I don't see you real soon baby girl
+I might go insane
+I know it's only been three hours
+But I love it when you call my name, yes I do
+
+
+I love it when you call my name
+Call, call my name
+Call it, call my name

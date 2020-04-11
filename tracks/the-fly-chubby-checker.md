@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-fly-chubby-checker
+lyrics_url: https://genius.com/Chubby-checker-the-fly-lyrics
 name: The Fly
 rankings:
 - end_date: '1961-10-01'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
 ---
+Come on come on and do the fly with me
+Hey come on everybody and do the fly with me
+Well if you don't know how to do it
+Just watch and see
 
+You've gotta shake your hands all around and around the sky
+And then you buzz around the floor
+You can do it if you really try
+All the girls and guys are getting the sky they're gonna fly
+
+Oh you pretty little girl come and fly away with me
+Hey pretty little girl fly away with me
+We're gonna fly to the sky
+But you mustn't fly away from me
+Oh yeah hey
+
+Don't cha know
+You've gotta shake your hands all around and around the sky
+And then you buzz around the floor
+You can do it if you really try
+All the girls and guys are getting the sky they're gonna fly
+Go ahead baby
+
+Come on come on and do the fly with me
+Hey come on everybody and do the fly with me
+Well if you don't know how to do it
+Just watch and see
+Now fly

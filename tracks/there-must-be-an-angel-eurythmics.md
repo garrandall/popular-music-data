@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-must-be-an-angel-eurythmics
+lyrics_url: https://genius.com/Eurythmics-there-must-be-an-angel-playing-with-my-heart-lyrics
 name: There Must Be An Angel
 rankings:
 - end_date: '1985-08-09'
@@ -51,4 +52,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+No-one on earth could feel like this
+I'm thrown and overblown with bliss
+There must be an angel
+Playing with my heart
+I walk into an empty room
+And suddenly my heart goes "boom"!
+It's an orchestra of angels
+And they're playing with my heart
 
+
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+
+
+No-one on earth could feel like this
+I'm thrown and overblown with bliss
+There must be an angel
+Playing with my heart
+And when I think that I'm alone
+It seems there's more of us at home
+It's a multitude of angels
+And they're playing with my heart
+
+
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+Must be talking to an angel
+
+
+I must be hallucinating
+Watching angels celebrating
+Could this be reactivating
+All my senses dislocating?
+This must be a strange deception
+By celestial intervention
+Leavin' me the recollection
+Of your heavenly connection
+
+
+I walk into an empty room
+And suddenly my heart goes "boom"!
+It's an orchestra of angels
+And they're playing with my heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poor-baby-the-cowsills
+lyrics_url: https://genius.com/The-cowsills-poor-baby-lyrics
 name: Poor Baby
 rankings:
 - end_date: '1968-09-20'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
-
+(T Romeo)
+Poor Baby, something always bringing you down
+If you look for it baby, there's so much unhappiness all around
+Don't cry, your daddy gonna buy your one-way ticket to sunshine
+Cheer up your ... try to clear up your mind
+Poor Baby, try to feel better
+Nothing's as bad as it may seem
+Poor Baby, under the weather
+Try to close your eyes and dream
+Think of the good times (good times)
+Just think of the good times that we're gonna see
+Poor Baby, try to feel better
+Nothing's as bad as it may seem
+Poor Baby, under the weather
+Try to close your eyes and dream
+Think of the good times (good times)
+Just think of the good times that we're gonna see
+Don't fret, your daddy gonna fetch your one-way ticket to happy
+Cheer up your ... try to clear up your mind
+Poor Baby, try to feel better
+Nothing's as bad as it may seem
+Poor Baby, under the weather
+Try to close your eyes and dream
+Think of the good times (good times)
+Just think of the good times that we're gonna see
+Poor Baby, try to feel better
+Nothing's as bad as it may seem
+Poor Baby, under the weather
+Try to close your eyes and dream
+Think of the good times (good times)
+Just think of the good times that we're gonna see

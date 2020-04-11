@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-remember-keyshia-cole
+lyrics_url: https://www.musixmatch.com/lyrics/Keyshia-Cole/I-Remember
 name: I Remember
 rankings:
 - end_date: '2008-01-04'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
 ---
+Ooh, yeah, yeah
+Ooh
+Yeah, babe
+Ooh, I remember
+And I wanna know
 
+Where were you, when I said I loved you
+And where were you when I cried at night
+Waiting up, couldn't sleep without you
+Thinking of all the times we shared
+
+I remember when my heart broke
+I remember when I gave up lovin' you
+My heart couldn't take no more of you
+I was sad and lonely
+I remember when I walked out
+I remember when I screamed I hated you
+But some how deep inside I deep inside still lovin' you
+Sad and lonely
+
+No one knew all the pain I went through
+All the love, I saved deep in my heart for you
+Didn't know, where I would go, where I would be
+But you made me leave
+And plus my heart it just, it just kept telling me so oh
+
+Ooh, I remember when my heart broke
+I remember when I gave up loving you
+My heart couldn't take no more of you
+I was sad and lonely
+
+I remember when I walked out
+I remember when I said I hated you
+But some how deep inside still loving you
+So sad and lonely
+
+There was nowhere else to go, oh
+No body else to turn to no
+For the rest of my life
+I promise myself I, will love me first
+Then you and me
+
+I remember when my heart broke
+I remember when I gave up loving you
+My heart couldn't take no more of you
+I was sad and lonely
+
+I remember when I walked out
+I remember when I said I hated you
+But some how deep inside still loving you
+Sad and lonely
+
+I remember when I walked out
+I remember when I gave up loving you
+My heart couldn't take no more of you
+So sad and lonely, hey!
+
+I remember when I stormed out
+I remember when I gave, up loving you
+I was sad and lonely

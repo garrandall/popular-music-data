@@ -133,14 +133,14 @@ That is, that is, that is Square Biz
 
 Ooh
 Hey, baby, what's your name, huh
-{Ladies call me Slick Rick, baby}
+
 Well, don't be too slick now
 
-I'm talking Square Biz {Talk to me, talk to me, baby}
-I'm talking Square Biz {Talk to me, talk to me}
-I'm talking Square Biz {Talk to me}
+I'm talking Square Biz
+I'm talking Square Biz
+I'm talking Square Biz
 I'm talking Square Biz to you
-I'm talking Square Biz {Talk to me}
+I'm talking Square Biz
 I'm talking Square Biz to you
 
 Baby, what's happening
@@ -158,7 +158,7 @@ I've been called Casper, Shorty, Lil' Bit
 And some they call me Vanilla Child
 But you know that don't mean my world to me
 'Cause baby, names can't cramp my style
-{I love chick-icken} And Buff's collard greens
+ And Buff's collard greens
 A little hot water corn bread
 I love you too Cat daddy
 But don't you let that go to your head
@@ -174,8 +174,8 @@ I got to keep my irons in the fire, you see
 I got the point, the scam, the low, the deal
 What you feel, say what
 
-Flash back, who's that {Flash back}
-Flash back, who's that {Flash back}
+Flash back, who's that
+Flash back, who's that
 
 So don't you have no doubt, I'm gonna spell it out
 I'll hip you to the Tee that is
@@ -198,14 +198,14 @@ I'm gonna talk about it
 I'm gonna talk my love
 
 I'm gonna hip you to the Tee
-{The Tee} The Tee
+ The Tee
 What's the Tee
 Now you know that's me
 
-Flash back, who's that {Flash back}
-Flash back, who's that {Flash back}
-Flash back, who's that {Flash back}
-Flash back, who's that {Flash back}
+Flash back, who's that
+Flash back, who's that
+Flash back, who's that
+Flash back, who's that
 
 I'm gonna talk about it
 I'm gonna talk my love
@@ -213,9 +213,9 @@ I'm gonna talk about it
 I'm gonna talk my love
 
 I'm gonna hip you to the Tee
-{Everybody's dancing on the Tee}
+
 Quit talking Square Biz
-{Everybody's dancing on the Tee}
+
 Quit talking Square Biz
 
 

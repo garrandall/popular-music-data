@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: everybody-dance-ta-mara-the-seen
+lyrics_url: https://genius.com/Ta-mara-and-the-seen-everybody-dance-lyrics
 name: Everybody Dance
 rankings:
 - end_date: '1985-10-18'
@@ -92,4 +93,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
+Everybody`s dancing
+With a new determination
+But that you didn`t know
+Dancing is the move
+When you do the oscillation
+Let your body go
 
+We`ll let you know
+We`ve got only good intentions
+It`s all right
+Just do it with conviction
+(Everybody)
+
+Oh, oh, oh
+Oh, oh
+Everybody dance
+Oh, oh, oh
+Oh, oh
+Everybody dance
+
+Everybody`s cool in the mood
+No insurrection
+But that you didn`t know
+Body rock conviction
+With a dancer`s great sensation
+You got to lose control
+
+We`ll let you know
+We`ve got only good intentions
+It`s all right
+Just do it with convictions
+(Everybody)
+
+Oh, oh, oh
+Oh, oh
+Everybody dance
+Oh, oh, oh
+Oh, oh
+Everybody dance
+
+Oh, oh, oh
+Oh, oh
+Everybody dance
+Oh, oh, oh
+Oh, oh
+Everybody dance
+
+Now everybody`s dancing
+With the new determination
+But that you didn`t know
+Dancing is the move
+Played with further isolation
+So let your body go
+
+We`ll let you know
+We`ve got only good intentions
+It`s all right
+Just do it with convictions
+(Everybody)
+We`ll let you know
+We`ll let you know
+(Everybody)
+
+Oh, oh, oh
+Oh, oh
+Everybody dance
+Oh, oh, oh
+Oh, oh
+Everybody dance
+
+Oh, oh, oh
+Oh, oh
+Everybody dance
+Oh, oh, oh
+Oh, oh
+Everybody dance

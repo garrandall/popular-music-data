@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-me--i-want-your-body--samantha-fox
+lyrics_url: https://genius.com/Samantha-fox-touch-me-i-want-your-body-lyrics
 name: Touch Me (I Want Your Body)
 rankings:
 - end_date: '1986-11-07'
@@ -99,4 +100,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
 ---
+Ah, touch me, touch me
+This is the night
+Touch me, touch me
+I wanna feel your body
 
+
+Full moon in the city and the night was young
+I was hungry for love, I was hungry for fun
+I was hunting you down, and I was the bait
+When I saw you there, I didn't need to hesitate
+This is the night, this is the night
+This is the time we've got to get it right (this is the night)
+
+
+Touch me, touch me I wanna feel your body
+Your heartbeat next to mine (this is the night)
+Touch me, touch me now
+
+
+Quick as a flash you disappeared into the night
+Did I hurt you boy? Didn't I treat you right?
+You made me feel so good, made me feel myself
+Now I'm alone and you're with somebody else
+This is the night, this is the night
+This is the time we've got to get it right (this is the night)
+
+
+Touch me, touch me I wanna feel your body
+Your heartbeat next to mine (this is the night)
+Touch me, touch me now
+Touch me, touch me now
+Touch me, touch me now
+
+
+Hot and cold emotion, confusing my brain
+I could not decide, between pleasure and pain
+Like a tramp in the night, I was begging for you
+To treat my body like you wanted to
+Oh, I was begging for you (this is the night)
+
+
+Touch me, touch me I wanna feel your body
+Your heartbeat next to mine (this is the night)
+'Cause I want your body all the time (this is the night)
+Touch me, touch me I wanna feel your body
+Your heartbeat next to mine (this is the night)
+'Cause I want your body all the time
+Touch me, touch me, touch me (this is the night)
+Touch me, touch me, I wanna feel your body
+Touch me, touch me, touch me (this is the night)
+Touch me, touch me, I wanna feel your body
+Touch me, touch me, touch me (this is the night)

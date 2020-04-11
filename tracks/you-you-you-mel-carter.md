@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-you-you-mel-carter
+lyrics_url: https://genius.com/Mel-carter-you-you-you-lyrics
 name: You You You
 rankings:
 - end_date: '1966-07-22'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
 ---
+You, you, you
+I'm in love with you, you, you
+I could be so true, true, true
+To someone like you, you, you
 
+Do, do, do
+What you oughta do, do, do
+Take me in your arms, please do
+Let me cling to you, you, you
+
+We were meant for each other
+Sure as heavens above
+We were meant for each other
+To have, hold and to love
+
+You, you, you
+There's no one like you, you, you
+You could make my dreams come true
+If you say you love me too
+
+We were meant for each other
+Sure as heavens above
+We were meant for each other
+To have, hold and to love
+
+You, you, you
+There's no one like you, you, you
+You could make my dreams come true
+If you'd say you love me too
+
+I'm in love with you
+Say you love me too
+I'm in love with you

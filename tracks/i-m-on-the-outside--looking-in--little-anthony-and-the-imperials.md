@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-on-the-outside--looking-in--little-anthony-and-the-imperials
+lyrics_url: https://genius.com/Little-anthony-and-the-imperials-im-on-the-outside-lyrics
 name: I'm On The Outside (Looking In)
 rankings:
 - end_date: '1964-08-28'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
 ---
-
+Shimmy Shimmy Ko-Ko-Bop
+Little Anthony and the Imperials
+(Bob Smith)
+Oh ! Oh oh oh oh oh oh oh - ah!
+Oh ! Oh oh oh oh oh oh oh - ah!
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Sittin in a native hut
+All alone and blue
+Sittin in a native hut
+Wonderin what to do
+Along came a native girl
+Did a native dance
+It was like in paradise
+Put me in a trance
+Going
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Joined her in her dancin spree
+Felt my spine a-tingle
+Held her tight and close to me
+Man Im glad Im single
+Then she showed me what to do
+First I was amazed
+Soon I learned a step or two
+Put me in a daze
+Going
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+You can do the ko-ko-bop
+Nows no time to stop
+Left foot forward right one back
+Bring them side by side
+Uh syncopate your last two steps
+Now youre going to glide
+Keep along the rhythm track
+Girls please show 'em how
+Now you start to arch your back
+Man you got it now
+Going
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+Shimmy Shimmy Ko-Ko-Bop
+Shimmy Shimmy Bop
+From:

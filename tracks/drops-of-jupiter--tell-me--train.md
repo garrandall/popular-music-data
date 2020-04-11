@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drops-of-jupiter--tell-me--train
+lyrics_url: https://genius.com/Train-train-drops-of-jupiter-lyrics
 name: Drops Of Jupiter (Tell Me)
 rankings:
 - end_date: '2001-03-23'
@@ -219,4 +220,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
 ---
-
+Now that she's back in the atmosphere
+With drops of Jupiter in her hair
+She acts like summer and walks like rain
+Reminds me that there's time to change
+Since the return of her stay on the moon
+She listens like spring and she talks like June
+But tell me, did you sail across the sun?
+Did you make it to the Milky Way
+To see the lights all faded?
+And that heaven is overrated
+And tell me, did you fall for a shooting star?
+One without a permanent scar
+And did you miss me
+While you were looking for yourself out there?
+Now that she's back from that soul vacation
+Tracing her way through the constellation
+She checks out Mozart while she does Tae Bo
+Reminds me that there's room to grow
+Now that she's back in the atmosphere
+I'm afraid that she might think of me as plain ol' Jane
+Told a story about a man who is too afraid to fly
+So he never did land
+But tell me, did the wind sweep you off your feet?
+Did you finally get the chance
+To dance along the light of day
+And head back to the Milky Way?
+Tell me, did Venus blow your mind?
+Was it everything you wanted to find?
+And did you miss me
+While you were looking for yourself out there?
+Can you imagine no love
+Pride, deep-fried chicken?
+Your best friend always sticking up for you
+Even when I know you're wrong
+Can you imagine no first dance?
+Freeze dried romance five-hour phone conversation
+The best soy latte that you ever had and me
+But tell me, did the wind sweep you off your feet?
+Did you finally get the chance
+To dance along the light of day
+And head back toward the Milky Way?
+And tell me did you sail across the sun?
+Did you make it to the Milky Way
+To see the lights all faded?
+And that heaven is overrated
+Tell me, did you fall for a shooting star?
+One without a permanent scar
+And did you miss me
+While you were looking for yourself?
+Na na na
+And did you finally get the chance
+To dance along the light of day?
+Na na na
+And did you fall for a shooting star?
+Fall for a shooting star
+Na na na
+And now you're lonely looking for yourself out there

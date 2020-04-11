@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-inside-intro
+lyrics_url: https://genius.com/Intro-come-inside-lyrics
 name: Come Inside
 rankings:
 - end_date: '1993-09-10'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
 ---
+(Let me) let me, come inside
+(I'll keep you) I'll keep you satisfied, tonight
+If you want me, if you need me
+(Let me) turn down all the lights
+(I'll make you) I'll make you feel alright, tonight
+Come inside, come inside
 
+
+I'm thinking about you
+The last time we made love
+And I fantasize
+So many things that I dream of
+I wanna do with you baby
+And tonight won't be the same
+I wanna come inside I like to hear you call my name
+
+
+(Slowly) I'll give it to you baby
+(Only) if you promise me you'll let your mind run free
+Grab a hold and love me totally
+I wanna slip and slide dip and dive
+Do everything to make it alright tonight
+Just let me come inside, oh baby
+
+
+(Let me) let me, come inside
+(I'll keep you) I'll keep you satisfied, tonight
+If you want me, if you need me
+(Let me) turn down all the lights
+(I'll make you) I'll make you feel alright, tonight
+Come inside, come inside
+
+
+Baby just imagine I can do anything you please
+I can set your body on fire, or soothe your soul with ease
+Just a kiss, I'll taste your sweet sweet lips
+All of the passion I have inside of me
+I know you won't forget
+
+
+(Slowly) I'll give it to you baby
+(Only) if you promise me you'll let your mind run free
+Grab a hold and love me totally
+I wanna slip and slide dip and dive
+Do everything to make it alright tonight
+Just let me come inside, oh baby
+
+
+(Let me) let me, come inside
+(I'll keep you) I'll keep you satisfied, tonight
+If you want me, if you need me
+(Let me) turn down all the lights
+(I'll make you) I'll make you feel alright, tonight
+Come inside, come inside
+
+
+Let me rub you down
+(Let me caress you all over your body, baby)
+Move-in closer now
+(Feel my inner rise)
+Hold on tight and don't don't let go
+Coming home together baby

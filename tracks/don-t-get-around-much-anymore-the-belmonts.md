@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-get-around-much-anymore-the-belmonts
+lyrics_url: https://www.musixmatch.com/lyrics/The-Belmonts/Dont-Get-Around-Much-Anymore
 name: Don't Get Around Much Anymore
 rankings:
 - end_date: '1961-09-10'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+Don't get around much any
+Don't get around much any
+Don't get around much anymore
 
+Missed the Saturday hop
+Heard they crowded the floor
+Couldn't bear it without you
+Don't get around much anymore
+(Don't get around much anymore)
+
+Thought I'd visit the club
+Got as far as the door
+They'd have asked me about you
+Don't get around much anymore
+
+Darling, I guess my mind's more at ease
+But nevertheless, why stir up memories
+
+Been invited on dates
+Might have gone but what for
+Awfully different without you
+Don't get around much anymore
+(Don't get around much anymore)
+
+Darling, I guess my mind's more at ease
+But nevertheless, why stir up memories
+
+Been invited on dates
+Might have gone but what for
+Awfully different without you
+Don't get around much anymore
+(Don't get around much anymore)
+
+Don't get around much anymore
+(Don't get around much anymore)
+Don't get around much anymore
+(Don't get around much anymore)
+Don't get around much anymore
+(Don't get around much anymore)...

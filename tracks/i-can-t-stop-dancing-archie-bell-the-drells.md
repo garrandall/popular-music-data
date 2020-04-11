@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stop-dancing-archie-bell-the-drells
+lyrics_url: https://genius.com/Archie-bell-and-the-drells-i-cant-stop-dancing-annotated
 name: I Can't Stop Dancing
 rankings:
 - end_date: '1968-07-26'
@@ -48,4 +49,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
+(Oh, no, I just can't stop)
+I just can't stop dancin'
+(No, no, no)
 
+I just can't stop dancin'
+(No, no, no)
+I just can't stop dancin'
+
+There's a place I eat lunch every day
+Soon as I get there, the jukebox starts to play
+I can't even eat my lunch in peace
+'Cause music makes me get out of my seat
+
+I just can't stop dancin'
+(No, no, I don't wanna stop)
+I just can't stop dancin'
+(No, no, no)
+
+Music has a strange effect on me
+It doesn't matter wherever I may be
+Whenever I hear a drummer play that funky beat
+I drop everything and get out of my seat
+
+I just can't stop dancin'
+(Oh, no, I just can't stop)
+I just can't stop dancin'
+(No, no, no)
+
+I just can't stop dancin'
+(Oh, no, I don't stop)
+I just can't stop dancin'
+(No, no, no, oh)
+
+Let me put this hamburger down
+I don't want no malt
+I wanna dance, oh yeah
+Sho' nuff groovin' now, y'all, look at me
+Huh-huh, oh yeah
+
+I just can't stop dancin'
+(No, no, you can't make me stop)
+I just can't stop dancin'
+(I won't stop now, I just can't stop this)
+
+I just can't stop dancin'
+(No, no, no, no, don't make me stop y'all)
+I just can't stop dancin'
+(No, no, I'm not gonna stop)
+
+I just can't stop dancin'
+(No, no, no, don't make me stop, y'all)
+I just can't stop dancin'
+(No, no, no, oh, no)
+I just can't stop dancin'

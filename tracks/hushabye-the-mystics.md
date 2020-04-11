@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hushabye-the-mystics
+lyrics_url: https://genius.com/The-mystics-hushabye-lyrics
 name: Hushabye
 rankings:
 - end_date: '1959-05-31'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
 ---
+Oh oh oh oh oh oh oh
+Hushabye hushabye
+Oh my darling don't you cry
+Guardian angels up above
+Take care of the one I love
 
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+
+Hushabye hushabye
+Oh my darling don't you cry
+Guardian angels up above
+Take care of the one I love
+
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+
+Pillows lying on your bed
+Oh my darling rest your head
+Sandman will be coming soon
+Singingyou a slumber tune
+
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+Oh oh oh oh
+
+Lullaby and goodnight
+In your drerams i`ll hold you tight
+Lullaby and goodnight
+Til the morns early light
+
+Hushabye hushabye
+Oh my darling don't you cry
+Guardian angels up above
+Take care of the one I love
+
+Oh oh oh oh oh oh oh
+Hush hush hushabye
+Oh oh oh oh oh oh oh
+Hush hush hushabye

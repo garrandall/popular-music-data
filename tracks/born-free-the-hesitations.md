@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-free-the-hesitations
+lyrics_url: https://www.musixmatch.com/lyrics/The-Hesitations/Born-Free
 name: Born Free
 rankings:
 - end_date: '1968-01-12'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+Born free, as free as the wind blows
+As free as the grass grows
+Born free to follow your heart
 
+Live free and beauty surrounds you
+The world still astounds you
+Each time you look at a star
+
+Stay free, where no walls divide you
+You're free as the roaring tide
+So there's no need to hide
+
+Born free, and life is worth living
+But only worth living
+Cause you're born free
+
+(Stay free, where no walls divide you)
+You're free as the roaring tide
+So there's no need to hide
+
+Born free, and life is worth living
+But only worth living
+Cause you're born free

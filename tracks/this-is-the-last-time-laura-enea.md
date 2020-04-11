@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-the-last-time-laura-enea
+lyrics_url: https://genius.com/Laura-enea-this-is-the-last-time-lyrics
 name: This Is The Last Time
 rankings:
 - end_date: '1992-04-03'
@@ -63,4 +64,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
 ---
+I was such a fool
+Hopelessy in love with you
+You were so cruel
+For what you put me through
 
+So now I'm telling you goodbye
+There's no way to stop me
+Don't even try
+I'm not the same girl I was yesterday
+Forget the past and let the memories fade away
+
+This is the last time
+You'll break my heart
+I'm doing what I should've done from the start
+This is the last time
+No more second chances
+And now you'll never know what true romance is
+
+I've opened my eyes
+I know you've done me wrong
+I said that I loved you
+And you just played along
+
+All of those times
+I begged you to stay
+But you just walked away
+(You just walked away)
+That was the last time you made me cry
+Baby, we're through I'm telling you goodbye
+
+This is the last time
+You'll break my heart
+I'm doing what I should've done from the start
+This is the last time
+No more second chances
+And now you'll never know what true romance is
+
+This is the last time
+You'll break my heart
+I'm doing what I should've done from the start
+This is the last time
+No more second chances
+And now you'll never know what true romance is
+
+So now I'm telling you goodbye
+There's no way to stop me
+Don't even try
+I'm not the same girl I was yesterday
+Forget the past and let the memories fade away
+
+This is the last time
+You'll break my heart
+I'm doing what I should've done from the start
+This is the last time
+No more second chances
+And now you'll never know what true romance is
+
+This is the last time
+You'll break my heart
+I'm doing what I should've done from the start
+This is the last time
+No more second chances
+And now you'll never know what true romance is

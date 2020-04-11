@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-s-home-cliff-richard
+lyrics_url: https://genius.com/Cliff-richard-daddys-home-lyrics
 name: Daddy's Home
 rankings:
 - end_date: '1982-01-22'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
 ---
+You're my love, you're my angel
+You're the girl of my dreams
+And I'd like to thank you for waiting patiently
 
+Daddy's home
+Daddy's home to stay
+
+How I've waited for this moment
+To be by your side
+Your best friends wrote and told me
+You had teardrops in your eyes
+
+Daddy's home
+Daddy's home to stay
+
+It wasn't on a Sunday
+Monday and Tuesday went by
+It wasn't on a Tuesday afternoon
+
+All I could do was cry
+But I made a promise that you treasure
+And I made it back home to you
+
+How I've waited for this moment
+To be by your side
+Your best friend wrote and told me
+You had teardrops in your eyes
+
+Daddy's home
+Daddy's home to stay
+Daddy's home to stay
+
+I'm not a thousand miles away

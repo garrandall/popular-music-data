@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-boys-get-together-joanie-sommers
+lyrics_url: https://genius.com/Joanie-sommers-when-the-boys-get-together-lyrics
 name: When The Boys Get Together
 rankings:
 - end_date: '1962-10-12'
@@ -19,4 +20,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
 ---
-
+When the boys tell their stories
+And they brag of their glories
+Do you tell them how easy it was
+To caress me?
+What do you talk about
+When the boys get together?

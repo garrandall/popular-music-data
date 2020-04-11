@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-song-ever-one-direction
+lyrics_url: https://genius.com/One-direction-best-song-ever-lyrics
 name: Best Song Ever
 rankings:
 - end_date: '2013-08-16'
@@ -91,4 +92,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
 ---
+Maybe it's the way she walked
+Straight into my heart and stole it
+Through the doors and past the guards
+Just like she already owned it
 
+
+I said, "Can you give it back to me?"
+She said, "Never in your wildest dreams"
+
+
+And we danced all night to the best song ever
+We knew every line now I can't remember
+How it goes but I know that I won't forget her
+'Cause we danced all night to the best song ever
+I think it went oh, oh, oh
+I think it went yeah, yeah, yeah
+I think it goes
+
+
+Said her name was Georgia Rose
+And her daddy was a dentist
+Said I had a dirty mouth (I got a dirty mouth)
+But she kissed me like she meant it
+
+
+I said, "Can I take you home with me?"
+She said, "Never in your wildest dreams"
+
+
+And we danced all night to the best song ever
+We knew every line now I can't remember
+How it goes but I know that I won't forget her
+'Cause we danced all night to the best song ever
+I think it went oh, oh, oh
+I think it went yeah, yeah, yeah
+I think it goes
+
+
+You know, I know, you know I'll remember you
+And I know, you know, I know you'll remember me
+And you know, I know, you know I'll remember you
+And I know, you know, I hope you'll remember how we danced, how we danced
+1, 2 - 1, 2, 3
+
+
+How we danced all night to the best song ever
+(How we danced!)
+We knew every line now I can't remember
+(We knew every line)
+How it goes but I know that I won't forget her
+'Cause we danced all night to the best song ever
+We danced, we danced
+And it goes something like this
+And we danced all night to the best song ever
+We knew every line now I can't remember
+How it goes but I know that I won't forget her
+(I know that I won't forget her)
+'Cause we danced all night to the best song ever
+(Best song ever!)
+I think it went oh, oh, oh
+I think it went yeah, yeah, yeah
+I think it goes
+
+
+Best song ever
+It was the best song ever
+It was the best song ever
+It was the best song ever

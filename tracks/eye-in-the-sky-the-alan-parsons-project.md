@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eye-in-the-sky-the-alan-parsons-project
+lyrics_url: https://genius.com/The-alan-parsons-project-eye-in-the-sky-lyrics
 name: Eye In The Sky
 rankings:
 - end_date: '1982-07-09'
@@ -107,4 +108,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
 ---
+Don't think sorry's easily said
+Don't try turning tables instead
+You've taken lots of chances before
+But I ain't gonna give anymore
+Don't ask me
+That's how it goes
+'Cause part of me knows what you're thinking
 
+
+Don't say words you're gonna regret
+Don't let the fire rush to your head
+I've heard the accusation before
+And I ain't gonna take any more
+Believe me
+The sun in your eyes
+Made some of the lies worth believing
+
+
+I am the eye in the sky
+Looking at you
+I can read your mind
+I am the maker of rules
+Dealing with fools
+I can cheat you blind
+And I don't need to see any more to know that
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind
+
+
+Don't leave false illusions behind
+Don't cry cause I ain't changing my mind
+So find another fool like before
+Cause I ain't gonna live anymore believing
+Some of the lies while all of the signs are deceiving
+
+
+I am the eye in the sky
+Looking at you
+I can read your mind
+I am the maker of rules
+Dealing with fools
+I can cheat you blind
+And I don't need to see anymore to know that
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind
+
+I am the eye in the sky
+Looking at you
+I can read your mind
+I am the maker of rules
+Dealing with fools
+I can cheat you blind
+And I don't need to see anymore to know that
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind (looking at you)
+I can read your mind

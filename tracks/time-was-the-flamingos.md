@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-was-the-flamingos
+lyrics_url: https://www.musixmatch.com/lyrics/The-Flamingos/Time-Was
 name: Time Was
 rankings:
 - end_date: '1961-07-09'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
 ---
+Oooh...
+Time was, time was
 
+Time was when we had fun
+On the schoolyard swings
+When we exchanged graduation rings
+One lovely yesterday
+(Yesterday, yesterday)
+
+Time was when we wrote
+Love letters in the sand
+Or lingered over our coffee and
+Dreaming the time away
+(The time away)
+
+Picnics and hayrides
+And midwinter sleigh rides
+And never apart
+
+High hikes in the country
+And there's more than one tree
+On which I've a place
+In your heart
+
+Darling, every tomorrow
+Will be complete
+If all our moments
+Are half as sweet
+As all our time was then
+
+As all our time was
+All our time was then

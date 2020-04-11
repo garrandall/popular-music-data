@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lollipops-and-roses-paul-petersen
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Petersen/Lollipops-and-Roses
 name: Lollipops And Roses
 rankings:
 - end_date: '1962-08-31'
@@ -35,4 +36,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+(Lollipops and roses)
+(Lollipops and roses)
+(Lollipops and roses)
+(Lollipops and roses)
+(Lollipops and roses)
 
+Tell her you care
+Each time you speak
+Make it her birthday
+Each day of the week
+
+Bring her nice things
+Sugar and spice things
+Roses and lollipops
+And lollipops and roses
+
+One day she'll smile
+Next day she'll cry
+Minute to minute
+You'll never know why
+
+Coax her, pet her
+Better yet, get her
+Roses and lollipops
+And lollipops and roses
+
+We try acting grown up
+But as a rule
+We're all little children
+Fresh from school
+
+So carry her books
+That's how it starts
+Fourteen or forty
+They're kids in their heart
+
+Keep them handy
+Flowers and candy
+Roses and lollipops
+And lollipops and roses
+
+(And lollipops and roses)
+(And lollipops and roses)
+(And lollipops and roses)
+(And lollipops and roses)

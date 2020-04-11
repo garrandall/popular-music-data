@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-to-me-vanessa-hudgens
+lyrics_url: https://genius.com/Vanessa-hudgens-come-back-to-me-lyrics
 name: Come Back To Me
 rankings:
 - end_date: '2006-10-06'
@@ -83,4 +84,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
 ---
+Haha! Y'all need to get ready to hear
+The unbelievable, indescribable Vanessa Hudgens
+Baby V! (Baby, come back)
 
+
+Every day, I try to play another game
+But my heart can’t take it
+I try to find another boy
+But all the while, I can't face it (Baby, come back)
+Why do I miss you so much?
+I wanna stop this hurt inside
+Oh baby, please, give us one more try (Baby, come back)
+
+
+I see you out with all your friends
+Laughing it up, as you pretend to have a good time (Good time)
+I know, 'cause I'm living the same lie (Same lie)
+So one of us has got to say
+We can't keep living this same way
+So I’ll be the one
+Yeah, I’ll say it, I’ll say it, I’ll say it, I’ll say it again (Baby, come back)
+
+
+Baby, come back to me
+In my heart I still believe, we were meant to be together
+So whatever it takes (Baby, come back)
+Baby, come back to me
+I should have never set you free, my baby
+Come back (Baby, come back)
+
+
+I wanna call, but then I stall
+'Cause after all, I just couldn’t take it
+'Cause if your play was to push me away
+You know that day
+My heart, you’d break it (Baby, come back)
+I know I made a mistake (I did)
+Can’t you stop your foolish pride (Oh no) and come back to me?
+Let’s try, let’s try, let’s try, let’s try it again
+
+
+(Baby, come back) Baby, come back to me (Come back)
+In my heart I still believe, we were meant to be together
+So whatever it takes (Baby, come back)
+Baby, come back to me (Come back)
+I should have never set you free, my baby
+Come back (Baby, come back)
+
+
+You know you miss your baby V
+And I can see that you think about me
+So why do you act like you don’t care? (Oh)
+Like all this love between us isn’t there
+I know that you're upset (Hey)
+I know I did you wrong (Hey)
+I know that you want me to pay for all the pain I’ve caused
+But in the end, it all comes down to just one thing
+It’s you and me, so I sing
+Baby, come back
+
+
+Baby, come back to me
+In my heart I still believe, we were meant to be together
+So whatever it takes (Baby V)
+Baby, come back to me (come back)
+I should have never set you free, my baby
+Come back (Baby, come back)

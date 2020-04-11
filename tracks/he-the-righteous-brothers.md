@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-the-righteous-brothers
+lyrics_url: https://genius.com/The-righteous-brothers-he-lyrics
 name: He
 rankings:
 - end_date: '1966-06-10'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
 ---
+He can turn the tides and calm the angry sea
+He alone decides who writes a symphony
+He lights every star that makes the darkness bright
+He keeps watch all through each long and lonely night
 
+He still finds the time to hear a child's first prayer
+Saint or sinner calls and always finds him there
+Though it makes him sad to see the way we live
+He'll always say "I forgive"
+
+He can touch a tree and turn the leaves to gold
+He knows every lie that you and I have told
+Though it makes him sad to see the way we live
+He'll always say "I forgive"

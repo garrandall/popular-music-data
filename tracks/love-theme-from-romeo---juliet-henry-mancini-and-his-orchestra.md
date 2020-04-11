@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: love-theme-from-romeo---juliet-henry-mancini-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-remember-boyz-ii-men
+lyrics_url: https://genius.com/Boyz-ii-men-i-remember-lyrics
 name: I Remember
 rankings:
 - end_date: '1995-12-08'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
 ---
+I used to think that you were down
+I used to think that you were down
+But when times got rough I saw the truth
+I thought I found a design of love that could be real life
+But our hearts drifted apart
+They no longer bind
+Nothing's alright you're out of my mind
 
+Chorus:
+I remember when you wouldn't come around
+Now you want to be down
+Not supposed to let you back in no way
+I remember that day so well (so well, so well)
+When you wouldn't talk to me
+Now you see me everyday on TV
+
+You tried to play me and got played in return
+Messed up on a real man, now your bridges are burned
+Gave me time to figure out your scheme it's all a dream now
+Trying to get back in and you don't know how
+Now your all out of order and denial
+
+Chorus (repeats twice)
+
+Gave me time to figure out your scheme it's all a dream now
+You're trying to get back in and you don't know how
+There's no way no how
+
+Chorus (repeats twice and fades out)

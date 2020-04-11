@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-here-eddie-harris
+lyrics_url: https://genius.com/Eddie-harris-listen-here-lyrics
 name: Listen Here
 rankings:
 - end_date: '1968-06-21'
@@ -59,4 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
 ---
-
+♫ ♫ ♫

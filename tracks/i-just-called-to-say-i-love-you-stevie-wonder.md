@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-called-to-say-i-love-you-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-i-just-called-to-say-i-love-you-lyrics
 name: I Just Called To Say I Love You
 rankings:
 - end_date: '1984-08-24'
@@ -111,4 +112,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
 ---
+No New Year's Day to celebrate
+No chocolate covered candy hearts to give away
+No first of Spring, no song to sing
+In fact here's just another ordinary day
+No April rain, no flowers bloom
+No wedding Saturday, within the month of June
+But what it is, is something true
+Made up of these three words that I must say to you
 
+
+I just called to say I love you
+I just called to say how much I care
+I just called to say I love you
+And I mean it from the bottom of my heart
+
+
+No summer's high
+No warm July
+No harvest moon to light one tender August night
+No autumn breeze
+No falling leaves
+Not even time for birds to fly to southern skies
+No Libra sun
+No Halloween
+No giving thanks to all the Christmas joy you bring
+But what it is, though old so new
+To fill your heart like no three words could ever do
+
+
+I just called to say I love you
+I just called to say how much I care
+I just called to say I love you
+And I mean it from the bottom of my heart
+
+I just called to say I love you
+I just called to say how much I care
+I just called to say I love you
+And I mean it from the bottom of my heart
+
+I just called to say I love you
+I just called to say how much I care
+I just called to say I love you
+And I mean it from the bottom of my heart
+
+
+Of my heart
+Of my heart

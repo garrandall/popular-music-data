@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reconsider-me-johnny-adams
+lyrics_url: https://genius.com/Johnny-adams-reconsider-me-lyrics
 name: Reconsider Me
 rankings:
 - end_date: '1969-07-04'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
 ---
+Hello baby, yes it's really me
+After the wrong I've done
+Guess you're surprised to see me here at your door
+Like a sparrow with a broken wing
+Who's come back to beg you reconsider me
+Oh, reconsider me
+I can't make it without your love, you see
+Just let me and I'll love you eternally
+Oh baby, reconsider me
 
+I learned the truth about the so-called good life
+It was just a candle too short to burn the night
+Now the darkness in my heart
+I bring to you in plea
+Oh light my way again reconsider me
+Oh reconsider me
+I can[t make it without your love, you see
+So just let me and I'll love you eternally
+Oh baby reconsider me

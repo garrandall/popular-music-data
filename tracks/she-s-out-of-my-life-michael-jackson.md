@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-out-of-my-life-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-shes-out-of-my-life-lyrics
 name: She's Out Of My Life
 rankings:
 - end_date: '1980-04-25'
@@ -71,4 +72,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
 ---
+She's out of my life
+She's out of my life
+And I don't know whether to laugh or cry
+I don't know whether to live or die
+And it cuts like a knife
+She's out of my life
 
+
+It's out of my hands
+It's out of my hands
+To think for two years she was here
+And I took her for granted, I was so cavalier
+Now, the way that it stands
+She's out of my hands
+
+
+So, I've learned that love's not possession
+And I've learned that love won't wait
+Now, I've learned that love needs expression
+But, I've learned too late
+
+
+And she's out of my life
+She's out of my life
+Damned indecision and cursed pride
+Kept my love for her locked deep inside
+And it cuts like a knife
+She's out of my life

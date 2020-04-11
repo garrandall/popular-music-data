@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: given-up-linkin-park
+lyrics_url: https://genius.com/Linkin-park-given-up-lyrics
 name: Given Up
 rankings:
 - end_date: '2007-06-08'
@@ -11,4 +12,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
 ---
+Waking in sweat again
+Another day's been laid to waste, in my disgrace
+Stuck in my head again
+Feels like I'll never leave this place, there's no escape
+I'm my own worst enemy...
 
+
+I've given up, I'm sick of feeling
+Is there nothing you can say?
+Take this all away, I'm suffocating
+Tell me what the fuck is wrong with me
+
+
+I don't know what to take
+Thought I was focused but I'm scared, I'm not prepared
+I hyperventilate
+Looking for help somehow, somewhere and no one cares
+I'm my own worst enemy
+
+
+I've given up, I'm sick of feeling
+Is there nothing you can say?
+Take this all away, I'm suffocating
+Tell me what the fuck is wrong with me
+
+
+God!
+Put me out of my misery!
+Put me out of my misery!
+Put me out of my
+Put me out of my fucking misery!
+
+
+I've given up, I'm sick of feeling
+Is there nothing you can say?
+Take this all away, I'm suffocating
+Tell me what the fuck is wrong with me

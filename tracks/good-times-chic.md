@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-times-chic
+lyrics_url: https://genius.com/Chic-good-times-lyrics
 name: Good Times
 rankings:
 - end_date: '1979-06-22'
@@ -83,4 +84,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
 ---
+Good times
+These are the good times
+Leave your cares behind
+These are the good times
 
+Good times
+These are the good times
+Our new state of mind
+These are the good times
+
+
+Happy days are here again
+The time is right for makin' friends
+Let's get together, how 'bout a quarter to ten?
+Come tomorrow, let's all do it again
+
+Boys will be boys, better let them have their toys
+Girls will be girls, cute pony tails and curls
+Must put an end, to this stress and strife
+I think I want to live the sporting life
+
+
+Good times
+These are the good times
+Leave your cares behind
+These are the good times
+
+
+A rumor has it that it's getting late
+Time marches on, just can't wait
+The clock keeps turning, why hesitate?
+You silly fool; you can't change your fate
+Let's cut a rug, a little jive and jitterbug
+We want the best, we won't settle for less
+Don't be a drag; participate
+Clams on the half shell, and roller-skates, roller-skates
+
+
+Good times
+These are the good times
+Leave your cares behind
+These are the good times
+
+
+
+
+A rumor has it that it's getting late
+Time marches on, just can't wait
+The clock keeps turning, why hesitate?
+You silly fool; you can't change your fate
+Let's cut a rug, a little jive and jitterbug
+We want the best, we won't settle for less
+Don't be a drag; participate
+Clams on the half shell, and roller-skates, roller-skates
+
+
+Good times
+These are the good times
+Leave your cares behind
+These are the good times

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: untitled--how-does-it-feel--d-angelo
+lyrics_url: https://genius.com/Dangelo-untitled-how-does-it-feel-lyrics
 name: Untitled (How Does It Feel)
 rankings:
 - end_date: '2000-01-28'
@@ -75,4 +76,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-05-13'
 ---
+Girl it's only you
+Have it your way
+And if you want you can decide
+That if you'll have me
+I can provide everything that you desire
+Said if you get a feeling
+Feeling that I am feeling
+Won't you come closer to me baby
+You've already got me right where you want me baby
+I just wanna be your man
 
+
+How does it feel
+How does it feel
+Said I wanna know how does it feel
+How does it feel
+How does it feel
+
+
+I wanna stop (playing all)
+Silly little games you and me play
+And I am feeling right on
+If you feel the same-way baby
+Let me know right away
+I'd love to make you wet
+In between your thighs cause
+I love when it comes inside you
+I get so excited when I'm around you, l
+
+
+How does it feel
+How does it feel
+Said I wanna know how does it feel
+How does it feel
+How does it feel
+
+
+Baby, close the door
+Listen girl, I have something I wanna show you
+I wish you'd open up 'cause
+I wanna take the walls down with you

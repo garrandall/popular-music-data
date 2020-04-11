@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-cry-instead-the-beatles
+lyrics_url: https://genius.com/The-beatles-ill-cry-instead-lyrics
 name: I'll Cry Instead
 rankings:
 - end_date: '1964-08-07'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
 ---
+I've got every reason on earth to be mad
+Cause I've just lost the only girl I had
+If I could get my way
+I'd get myself locked up today
+But I can't so I'll cry instead
 
+
+I've got a chip on my shoulder that's bigger than my feet
+I can't talk to people that I meet
+If I could see you now
+I'd try to make you sad somehow
+But I can't so I'll cry instead
+
+
+Don't wanna cry when there's people there
+I get shy when they start to stare
+I'm gonna hide myself away-hey
+But I'll come back again someday
+
+
+And when I do you better hide all the girls
+I'm gonna break their hearts all 'round the world
+Yes, I'm gonna break 'em in two
+And show you what your loving man can do
+Until then I'll cry instead
+
+
+Don't wanna cry when there's people there
+I get shy when they start to stare
+I'm gonna hide myself away-hey
+But I'll come back again someday
+
+
+And when I do you better hide all the girls
+'Cause I'm gonna break their hearts all 'round the world
+Yes, I'm gonna break 'em in two
+And show you what your loving man can do
+Until then I'll cry instead

@@ -97,7 +97,7 @@ Mmm, yeah
 
 
 You know, from the moment she turn around, ay
-She know, how to back it up and drop it down {Ay}
+She know, how to back it up and drop it down
 (Ya)
 She know, she what all the fellas looking at, mmmmmmmm
 Cause they know, soon as her song come on it's a wrap, yeah
@@ -132,7 +132,7 @@ Na na
 I told her, "Shawty, you so right, but you so wrong"
 (So wrong, so wrong, so wrong)
 She said, "Daddy, I'll be back after this song"
-"Then you taking me home" {Yep}
+"Then you taking me home"
 (Ya)
 
 

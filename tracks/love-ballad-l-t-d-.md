@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-ballad-l-t-d-
+lyrics_url: https://genius.com/Ltd-love-ballad-lyrics
 name: Love Ballad
 rankings:
 - end_date: '1976-10-08'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
+I
+Have never been so much
+In love
+Before
+What a difference a true love made in my life
+So nice
+So right
 
+
+Loving you gave me something new
+That I'd never felt, never dreamed of
+Something's changed
+No, it's not the feeling I had before
+Oh-oh-oh, it's much, much more
+
+
+Love
+I never knew that a touch
+Could mean
+So much
+What a difference
+And when we walk hand-in-hand
+I feel
+So real
+
+
+Lovers come and then lovers go
+That's what folks will say
+Don't they know?
+They're not there when you love me
+Hold me and say you care
+
+
+And what we have is much more than they could see
+(Well, well, well, well, there's so much more now)
+What we have is much more than they could see
+(Well, well-e-ell, there's so much more, baby)
+What we have is much more than they could see
+(Well, there's so much, so much more)
+What we have is much more than they could see
+(I don't care what people say, I don't care what they say)
+What we have is much more than they could see
+(So, well it's, so, well it's)
+What we have is much more than they could see
+(Well, we've got so much more than they could see see)
+What we have is much more than they could see
+(Ah, hey, I say, what we have is so much more)
+What we have is much more than they could see
+(Ah, hey, love it, having so much more than they could see)
+What we have is much more than they could see
+(So much more, now, baby, say now)
+What we have is much more than they could see
+(Ohh, love having so much more than they could see)
+What we have is much more than they...

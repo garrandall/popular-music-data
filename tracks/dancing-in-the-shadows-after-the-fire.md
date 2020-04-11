@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-shadows-after-the-fire
+lyrics_url: https://genius.com/After-the-fire-dancing-in-the-shadows-lyrics
 name: Dancing In The Shadows
 rankings:
 - end_date: '1983-06-03'
@@ -19,4 +20,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+Talking to a friend I turned around
+And saw a total stranger
+Hiding out for safety’s sake I found
+I put myself in danger
+There must be someway I can try to find
+An answer to the questions in my mind
+Or will I have to always spend my time
+Dancing in the shadows
+Dancing in the shadows
+I saw somebody earning more and more
+But he was getting poorer
+It seems to me the more things that you know
+The less you can be sure of
+There must be someway I can try to find
+An answer to the questions in my mind
+Or will I have to always spend my time
+Dancing in the shadows
+Dancing in the shadows
 
+Ooh I’m looking for a straight line
+Can’t sleep at night
+There are words I never make rhyme
+It’s like black, it’s like white
+Dancing in the shadows

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-like-this-rome
+lyrics_url: https://genius.com/Rome-r-b-do-you-like-this-lyrics
 name: Do You Like This
 rankings:
 - end_date: '1997-08-08'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
 ---
+Ohhh
+Yes you are
+Tell me the truth
 
+Tell me the truth now baby
+Have you found another lover
+Someone who cares
+And holds you tight
+I won't cry
+I won't shed a tear
+But when your well runs dry
+You're gonna miss my loving baby
+The way i hold and touch and kiss
+
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+
+Now one day
+You'll see, it'll be reality
+And all pain will come
+You'll search for me
+High and low
+But all remains
+Is a memory
+Of how i used to hold and touch and squeeze you baby I
+
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that
+The way i do you like this
+And do you like that

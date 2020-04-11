@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nights-in-white-satin-the-moody-blues
+lyrics_url: https://genius.com/The-moody-blues-nights-in-white-satin-lyrics
 name: Nights In White Satin
 rankings:
 - end_date: '1972-08-11'
@@ -79,4 +80,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
 ---
+Nights in white satin, never reaching the end,
+Letters I've written, never meaning to send
+Beauty I've always missed, with these eyes before
+Just what the truth is, I can't say anymore
 
+
+'Cause I love you
+Yes, I love you
+Oh, I love you
+
+
+Gazing at people, some hand in hand
+Just what I'm going through they can't understand
+Some try to tell me, thoughts they cannot defend
+Just what you want to be, you will be in the end
+
+
+And I love you
+Yes, I love you
+Ah, how I love you
+Ah, how I love you
+
+
+
+
+Nights in white satin, never reaching the end
+Letters I've written, never meaning to send
+Beauty I've always missed, with these eyes before
+Just what the truth is, I can't say anymore
+
+
+'Cause I love you
+Yes, I love you
+Oh, how I love you
+Oh, how I love you
+
+'Cause I love you
+Yes, I love you
+Oh, how I love you
+Oh, how I love you
+
+
+
+Breathe deep the gathering gloom
+Watch lights fade from every room
+Bedsitter people look back and lament
+Another day's useless energy spent
+Impassioned lovers wrestle as one
+Lonely man cries for love and has none
+New mother picks up and suckles her son
+Senior citizens wish they were young
+Cold hearted orb that rules the night
+Removes the colours from our sight
+Red is grey and yellow white
+But we decide which is right
+And which is an illusion?

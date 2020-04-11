@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-jimmy-go-jimmy-clanton
+lyrics_url: https://genius.com/Jimmy-clanton-go-jimmy-go-lyrics
 name: Go Jimmy Go
 rankings:
 - end_date: '1959-12-13'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
 ---
+I told her when it comes to talking
+I'm the sweetest sweet-talker in the world
+She said you better start talking if you want me to be your girl
 
+
+And she said, "Go, Jimmy, go." She said, "Go, Jimmy, go."
+Well, I talked her off the floor when she said, "Go, Jimmy, go."
+
+
+I told when it comes to dancing
+I'm the best young dancer in the land
+Well, she looked at me with a twinkle in her eyes
+And then she took my hand
+
+
+And she said, "Go, Jimmy, go." She said, "Go, Jimmy, go."
+Well, I talked her off the floor when she said, "Go, Jimmy, go."
+And she said, "Go, Jimmy, go." She said, "Go, Jimmy, go."
+Well, I talked her off the floor when she said, "Go, Jimmy, go."
+
+
+I told her when it comes to kissing
+I ain't nothing but a kissing fool
+She started to giggle when I told her that I'd teach her
+Things she'd never learn in school
+
+
+And she said, "Go, Jimmy, go." She said, "Go, Jimmy, go."
+Well, I talked her off the floor when she said, "Go, Jimmy, go." "Go
+Jimmy, go." "Go, Jimmy, go

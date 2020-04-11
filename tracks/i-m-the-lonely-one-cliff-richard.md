@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-the-lonely-one-cliff-richard
+lyrics_url: https://genius.com/Cliff-richard-im-the-lonely-one-lyrics
 name: I'm The Lonely One
 rankings:
 - end_date: '1964-04-24'
@@ -15,4 +16,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
 ---
+Well, you don't know how much you mean to me
+I said goodbye, I left you there to cry
+Well, you don't know how much I miss you so
+But now it's done, now I'm the lonely one
 
+You heard me say upon that rainy day
+"Please set me free 'cos I don't want to know!"
+Well, you don't know how much you mean to me
+I said goodbye, I left you there to cry
+
+Well you don't know how much you mean to me
+I love you so, baby, come on home
+I hope and pray that you'll come back someday
+I'll have my fun, now I'm the lonely one
+Well, you don't know how much you mean to me
+I said goodbye, I left you there to cry
+Well, you don't know how much I miss you so
+But now it's done, now I'm the lonely one
+
+You heard me say upon that rainy day
+"Please set me free 'cos I don't want to know!"
+Well, you don't know how much you mean to me
+I said goodbye, I left you there to cry
+
+Well you don't know how much you mean to me
+I love you so, baby, come on home
+I hope and pray that you'll come back someday
+I'll have my fun, now I'm the lonely one
+
+I'll have my fun, now I'm the lonely one

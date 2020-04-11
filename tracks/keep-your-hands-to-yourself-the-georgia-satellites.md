@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-hands-to-yourself-the-georgia-satellites
+lyrics_url: https://genius.com/The-georgia-satellites-keep-your-hands-to-yourself-lyrics
 name: Keep Your Hands To Yourself
 rankings:
 - end_date: '1986-11-28'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
 ---
+I got a little change in my pocket going jing-a-ling-a-ling
+Wanna call you on the telephone, baby, I give you a ring
+But each time we talk, I get the same old thing
+Always, "No huggee, no kissee until I get a wedding ring"
 
+
+My honey, my baby
+Don't put my love upon no shelf
+She said
+"Don't hand me no lines and keep your hands to yourself"
+
+
+Ooh, baby, baby, baby
+Why you gonna treat me this way?
+You know I'm still your loverboy
+I still feel the same way
+That's when she told me a story 'bout free milk and a cow
+And said
+"No huggee, no kissee until I get a wedding vow"
+
+
+My honey, my baby
+Don't put my love upon no shelf
+She said
+"Don't hand me no lines and keep your hands to yourself"
+
+
+
+
+You see, I wanted her real bad and I was about to give in
+That's when she started talking about true love
+Started talking about sin
+I said
+"Honey, I'll live with you for the rest of my life"
+She said
+No huggee, no kissee until you make me a wife"
+
+
+My honey, my baby
+Don't put my love upon no shelf
+She said
+"Don't hand me no lines and keep your hands to yourself"

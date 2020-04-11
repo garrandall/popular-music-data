@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-else-but-you-frankie-avalon
+lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/Who-Else-but-You-1961
 name: Who Else But You
 rankings:
 - end_date: '1961-06-04'
@@ -15,4 +16,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
 ---
+Who can make a rainy day
+Smile at me in such a sunny way
+Ask and you'll hear my heart say
+Who else but you
 
+Who can make a lonely night
+Laugh and sing with
+Just her very sight
+Fill my arms with such delight
+Who else but you
+
+When things go wrong
+Who understands
+And makes me strong
+With a touch of her hand
+
+And who can make my every tear
+Change it's mind
+And want to disappear
+True, the answer's very clear
+Who else but you
+
+When things go wrong
+Who understands
+And makes me strong
+With a touch of her hand
+
+And who can make my every tear
+Change it's mind
+And want to disappear
+True, the answer's very clear
+Who else but you
+
+Who else but you
+Who else but you

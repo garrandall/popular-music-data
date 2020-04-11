@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: many-tears-ago-connie-francis
+lyrics_url: https://genius.com/Connie-francis-many-tears-ago-lyrics
 name: Many Tears Ago
 rankings:
 - end_date: '1960-11-13'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+They said your cheating heart will make me cry
+And like a fool I gave it a try
+I should've listened when they told me so
+Many many tears ago
 
+But I could not believe the things they said
+Because my heart over ruled my head
+I should've listened when they told me so
+Many many tears ago
+
+I laughed out loud when they told me
+That you had someone else
+But your cheating heart has shown me
+That I was foolin myself
+
+I know it's too late for a brand new start
+For I have cried you out of my heart
+I should've listened when they told me so
+Many many tears ago
+
+I laughed out loud when they told me
+That you had someone else
+But your cheating heart has shown me
+That I was foolin myself
+
+I know it's too late for a brand new start
+For I have cried you out of my heart
+I should've listened when they told me so
+I should've listened when they told me so
+Many many tears ago

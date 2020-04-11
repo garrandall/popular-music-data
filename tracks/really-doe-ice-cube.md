@@ -63,8 +63,8 @@ Motherfuckin uhh, rollers
 "You got to believe, somethin.."
 And I just ask my motherfuckin self, uhh
 "I got to believe in me.."
-{"And who the fuck are you?"}
-{"And who the fuck are you?"}
+
+
 
 
 To G or not to G, is the question
@@ -89,7 +89,7 @@ West Side Lench Mob
 "I got to believe in me.."
 Cause I'm a motherfuckin G
 Cause I'm a mother-fuckin..
-{"And who the fuck are you?"}
+
 
 
 Thirty in a holdin tank, catch the vapors
@@ -123,7 +123,7 @@ Yup, that's right
 "I got to believe in me.."
 Cause I'm a motherfuckin G
 God damn I'm a..
-{"And who the fuck are you?"}
+
 
 Knock you out like NyQuil, I'll kill you quick
 You sucker-for-love-ass trick
@@ -155,8 +155,8 @@ Motherfuckin O, motherfuckin G
 "You got to believe, somethin.."
 East Side
 "I got to believe in me.."
-{"And who the fuck are you?"}
-{"And who the fuck are you?"}
+
+
 "You got to believe, somethin.."
 South.. Side
 "I got to believe in me.."
@@ -165,11 +165,11 @@ G, G, G, motherfuckin G
 "You got to believe, somethin.."
 North Side
 "I got to believe in me.."
-{"And who the fuck are you?"}
-{"And who the fuck are you?"}
+
+
 "You got to believe, somethin.."
 "I got to believe in me.."
-{"And who the fuck are you?"}
+
 
 
 

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-down-gene-chandler
+lyrics_url: https://genius.com/Gene-chandler-get-down-lyrics
 name: Get Down
 rankings:
 - end_date: '1979-01-12'
@@ -43,4 +44,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
 ---
+Fine, fine foxy lady
+Get down (get on down)
+We are, mama, gonna Snake and boogie
+Baby, get on down (get on down)
 
+I know a funky place
+We can dance all night
+You can be my lady
+If you play your cards right
+
+But you gotta get down
+Get on down, down, baby
+Get on down, down, sugar
+Get on down
+
+(Get on down)
+
+You're looking real good
+In your halter top, yeah, yeah
+But get on down (get on down)
+
+You sure got style
+Don't you ever stop, no, no
+Baby, get on down (get on down)
+
+Girl, you're moving everywhere
+You're sure hooked up, girl
+You make the people
+Stop and stare, ow
+
+Get down, ha, get on down
+Get down, baby
+Get on down, get down, sugar
+Get on down
+
+Get down, baby bubba
+
+(Get down, baby bubba
+Baby, get down
+Get down, baby bubba
+Baby, get down)
+
+Get on down, hoo hoo hoo
+Get on down, hoo hoo hoo
+
+You move like
+You're a wheel, baby
+Baby, get on down (get on down)
+
+Lyrics courtesy Top40db
+
+Shift it in third gear, mama
+Get on down (get on down)
+
+Ain't nothing too good for you
+I know that you can do it too
+
+Ow, get down, get on down
+Down, baby, get on down
+Down, honey, get on down

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: symptoms-of-true-love-tracie-spencer
+lyrics_url: https://genius.com/Tracie-spencer-symptoms-of-true-love-lyrics
 name: Symptoms Of True Love
 rankings:
 - end_date: '1988-10-07'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
+Hey, how did you make it
+Make me go out of my mind?
+Poisoned arrows
+Burning fever
+Strings in my heart
 
+Now my pulse is racing
+Temperature is rising high
+Poisoned arrows
+Burning fever
+Strings in my heart
+
+
+Symptoms of true love
+Take my breath away
+Make me shake
+I cannot get enough
+Of your kisses, babe
+Tender touch
+
+The symptoms of true love
+Put me on my knees
+Night and day
+I'm ready for takeoff
+Come and fly with me
+Don't delay
+
+The symptoms of true love
+Take my breath away
+Make me shake
+
+I cannot get enough
+Of your kisses, babe
+Tender touch
+The symptoms of true love
+
+
+I know what the cure is
+Know what thing to take away
+All the headache
+All the heartache
+All of my pain
+
+Give me all your loving
+Care for me all night and day
+Do it quickly
+And I will be in recovery
+
+
+
+
+Symptoms of true love
+Take my breath away
+Make me shake
+
+Cannot get enough
+Of your kisses, babe
+Tender touch
+
+
+
+The symptoms of true love
+Oh, put me on my knees
+
+Take my breath away
+Oh, baby
+Oh, darling
+
+Take my breath away

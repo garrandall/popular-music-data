@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: prayer-in-c-lillywood-robin-schulz
+lyrics_url: https://genius.com/Lilly-wood-and-the-prick-prayer-in-c-robin-schulz-radio-edit-lyrics
 name: Prayer In C
 rankings:
 - end_date: '2014-12-26'
@@ -88,4 +89,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
 ---
+Yeah, you never said a word
+You didn't send me no letter
+Don't think I could forgive you
+See, our world is slowly dying
+I'm not wasting no more time
+Don't think I could believe you
+Yeah, you never said a word
+You didn't send me no letter
+Don't think I could forgive you
+See, our world is slowly dying
+I'm not wasting no more time
+Don't think I could believe you
 
+
+Yeah, our hands will get more wrinkled
+And our hair will be grey
+Don't think I could forgive you
+And see, the children are starving
+And their houses were destroyed
+Don't think they could forgive you
+And when seas will cover lands
+And when man will be no more
+Don't think you can forgive you
+Yeah, when there'll just be silence
+And when life will be over
+Don't think you will forgive you
+
+
+Yeah, you never said a word
+You didn't send me no letter
+Don't think I could forgive you
+See, our world is slowly dying
+I'm not wasting no more time
+Don't think I could believe you
+Yeah, you never said a word
+You didn't send me no letter
+Don't think I could forgive you
+See, our world is slowly dying
+I'm not wasting no more time
+Don't think I could believe you
+
+
+Yeah, our hands will get more wrinkled
+And our hair will be grey
+Don't think I could forgive you
+And see, the children are starving
+And their houses were destroyed
+Don't think they could forgive you
+Hey, when seas will cover lands
+And when man will be no more
+Don't think you can forgive you
+Yeah, when there'll just be silence
+And when life will be over
+Don't think you will forgive you

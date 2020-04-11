@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: machine-gun-commodores
+lyrics_url: https://genius.com/Commodores-machine-gun-lyrics
 name: Machine Gun
 rankings:
 - end_date: '1974-06-21'
@@ -59,4 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
 ---
-
+Instrumental

@@ -5,6 +5,7 @@ features:
 - Future
 genres: []
 key: cold-maroon-5-future
+lyrics_url: https://genius.com/Genius-brasil-traducoes-maroon-5-cold-ft-future-traducao-em-portugues-lyrics
 name: Cold
 rankings:
 - end_date: '2017-03-10'
@@ -88,4 +89,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
 ---
+Letra de  "Maroon 5 - Cold (Tradução)" por Genius Brasil Traduções
 
+
+
+
+
+Fria o bastante para arrepiar meus ossos
+Parece que eu não te conheço mais
+Não entendo o porquê de você estar tão fria comigo
+A cada respiração sua
+Eu percebo que tem algo acontecendo
+Não entendo o porquê de você estar tão fria
+
+Nós estamos dando um tempo ou terminando?
+Não consigo entender as entrelinhas
+Me pedindo por espaço aqui na minha casa
+Você sabe como ferrar comigo
+Agindo como se não estivéssemos juntos
+Depois de tudo que passamos juntos
+Dormindo sobre segredos
+Como posso estar tão longe de você?
+
+Distante, quando estamos nos beijando
+Parece tão diferente
+Querida, me diga como você ficou
+
+Fria o bastante para arrepiar meus ossos
+Parece que eu não te conheço mais
+Não entendo o porquê de você estar tão fria comigo
+A cada respiração sua
+Eu percebo que tem algo acontecendo
+Não entendo o porquê de você estar tão fria, sim
+
+Ooh, yeah
+Ooh, yeah
+Não entendo o porquê de você estar tão fria
+
+Pelo que você está esperando, esperando?
+Se quer ir embora, apenas vá
+Por que você está mordendo a língua?
+O silêncio está acabando comigo
+Agindo como se não estivéssemos juntos
+Se não quer isso, então pra que continuar?
+Dormindo sobre segredos
+Como posso estar tão longe de você?
+
+Distante (oh), quando estamos nos beijando (sim)
+Parece tão diferente (sim)
+Querida, me diga como você ficou
+
+Fria o bastante para arrepiar meus ossos
+Parece que eu não te conheço mais
+Não entendo o porquê de você estar tão fria comigo
+A cada respiração sua
+Eu percebo que tem algo acontecendo
+Não entendo o porquê de você estar tão fria, sim
+
+Ooh, yeah
+Ooh, yeah
+Não entendo o porquê de você estar tão fria, sim
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Não entendo o porquê de você estar tão fria
+
+
+Nunca pensei que você fosse assim
+Tirei a etiqueta e te fiz impagável
+Acabei de gastar meio milhão em um lustre
+Agora você tenta me desligar como um interruptor, sim
+Tentando ficar, e eu vou embora
+Dizendo que precisa de um tempo para respirar
+Pensando que eu estou dormindo na palavra de quatro letras
+Mas a palavra de quatro letras não dorme
+Estamos indo por dois caminhos diferentes
+Você não tem agido como sempre
+Você tem que ir, mas onde costumava ficar seu coração
+Você tenta preencher com ouro todos os dias
+Eu mudei as quatro portas por duas portas
+Porque não posso deixar meu motorista ouvir o que você diz
+Garota, eu tentei te dar espaço
+
+
+Querida, me diga como você ficou tão
+
+Fria o bastante para arrepiar meus ossos
+Parece que não te conheço mais
+Não entendo o porquê de você estar tão fria comigo
+Com cada respiração que você respira
+Percebo que tem algo acontecendo
+Não entendo o porquê de você estar tão fria
+
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Não entendo o porquê de você estar tão fria, sim
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Ooh, yeah
+(Tão fria, é um mundo frio)
+Não entendo o porquê de você estar tão fria

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-everyone-dance-betty-madigan
+lyrics_url: https://genius.com/Betty-madigan-dance-everyone-dance-lyrics
 name: Dance Everyone Dance
 rankings:
 - end_date: '1958-08-24'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
 ---
+Dance everyone dance
+Betty Madigan
 
+Over the valley voices are singing
+Bells are a ringing
+Dance everyone dance
+Come to the valley
+Run through the clover
+Harvest is over
+Dance everyone dance
+
+Dance where the corn was high
+Under a full moon sky
+Dance where the wine was born
+Dance everyone dance
+
+Whirl and turnabout
+Lift up your arms and shout
+Join hands and skip along
+Dance everyone dance
+
+Turn left, turn right, hold tight
+Lift your feet your heart will follow
+Lift your voice till they holler
+Lift your wings like the swallow
+Fly away, free today
+Dance, dance everybody dance
+
+Dance, dance, dance, dance
+Repeat from 2nd verse twice
+Everybody dance

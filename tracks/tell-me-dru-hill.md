@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-dru-hill
+lyrics_url: https://genius.com/Dru-hill-tell-me-lyrics
 name: Tell Me
 rankings:
 - end_date: '1996-09-06'
@@ -99,4 +100,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
 ---
+Tell me what you want
+Tell me what you need
+Tell me if it ain't good enough for you, baby
+Tell me
+Tell me what you want
+Tell me what you need (Tell me, babe)
+Tell me if it ain't good enough for you, baby
+(Listen, baby)
+Tell me
 
+
+Anything is possible
+Anytime you want it girl let me know
+Won't Ask why, just let it flow
+(Do your thang, baby) Take control
+On my knees, just say the word
+No request is gonna go unheard
+I'll take my time when I'm lovin' you
+Foreplay at one, won't end 'til two
+
+
+Tell me what you want (Tell me, baby)
+Tell me what you need (Tell me, baby)
+Tell me if it ain't good enough for you baby
+(Ooh, tell me, baby - let me know)
+Tell me
+Tell me what you want (Tell me, baby)
+Tell me what you need (Mmm, talk to me)
+Tell me if it ain't good enough for you, baby
+(Oh, tell me, baby)
+Tell me (Sisqo)
+
+
+Candelights, we're alone
+I'm up in your mix if you put me on
+Talk to me, I'll understand
+Your need to feel a gentle hand
+Now girl it's not my style, I cannot lie
+You know I like to serve it on the freaky side
+(Is that what you like?)
+What you want, I can't ignore
+So tell me what you're looking for, yeah
+
+
+Tell me what you want
+Tell me what you need
+Tell me if it ain't good enough for you, baby
+(Won't you tell me)
+Tell me
+Tell me what you want
+(Maybe it's the clothes you wear)
+Tell me what you need
+(Versace, I don't know)
+Tell me if it ain't good enough for you, baby
+(And you know, you know, when I lay you down)
+Tell me
+
+
+When I lay you down I can hear your body speak (Yeah)
+Tellin' me to kiss you 'til your knees get weak
+All night (All night, in the bedroom, baby)
+Workin' that, workin' that, workin' that body, baby
+In the bed or the middle of the floor, baby
+My love is guaranteed to make you go crazy
+Tell me, girl (Said I don't see nothin' wrong)
+Girl, please tell me (With loving you all night long)
+
+
+Tell me what you want
+Tell me what you need
+Tell me if it ain't good enough for you, baby
+Tell me
+Tell me what you want
+Tell me what you need
+Tell me if it ain't good enough for you, baby
+Tell me
+Tell me what you want
+Tell me what you need
+Tell if it ain't good enough for you, baby
+Tell me
+Tell me what you want
+Tell me what you need
+Tell if it ain't good enough for you, baby
+Tell me

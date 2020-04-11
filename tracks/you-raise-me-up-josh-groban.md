@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-raise-me-up-josh-groban
+lyrics_url: https://genius.com/Josh-groban-you-raise-me-up-lyrics
 name: You Raise Me Up
 rankings:
 - end_date: '2004-03-26'
@@ -75,4 +76,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
 ---
+When I am down and, oh my soul, so weary
+When troubles come and my heart burdened me
+Then, I am still and wait here in the silence
+Until you come and sit a while with me
 
+
+You raise me up, so I can stand on mountains
+You raise me up, to walk on stormy seas
+I am strong, when I am on your shoulders
+You raise me up, to more than I can be
+
+
+You raise me up, so I can stand on mountains
+You raise me up, to walk on stormy seas
+I am strong, when I am on your shoulders
+You raise me up, to more than I can be
+
+You raise me up, so I can stand on mountains
+You raise me up, to walk on stormy seas
+I am strong, when I am on your shoulders
+You raise me up, to more than I can be
+
+
+You raise me up, so I can stand on mountains
+You raise me up, to walk on stormy seas
+I am strong, when I am on your shoulders
+You raise me up, to more than I can be
+
+
+You raise me up, to more than I can be

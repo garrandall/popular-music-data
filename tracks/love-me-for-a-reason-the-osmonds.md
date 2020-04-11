@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-for-a-reason-the-osmonds
+lyrics_url: https://genius.com/The-osmonds-love-me-for-a-reason-lyrics
 name: Love Me For A Reason
 rankings:
 - end_date: '1974-09-06'
@@ -59,4 +60,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
 ---
+Girl when you hold me
+How you control me
+You bend and you fold me
+Any way you please
 
+It must be easy for you
+To love the things that you do
+But just a pastime for you
+I could never be
+
+And I never know, girl
+If I should stay or go
+Cos the games that you play
+Keep driving me away...
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+
+Kisses and caresses
+Are only minor tests, babe
+Of love turned to stresses
+Between a woman and a man
+So if love everlasting
+Isn't what you're asking
+I'll have to pass, girl
+I'm proud to take a stand
+
+I can't continue guessing
+Because it's only messing
+With my pride, and my mind
+So write down this time to time
+
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+
+I'm just a little old-fashioned
+It takes more than a physical attraction
+My initial reaction is
+Honey give me a love
+Not a fascimile of
+
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+Don't love me for fun, girl
+Let me be the one, girl
+Love Me For a Reason
+Let the reason be love
+(Repeat to fade)

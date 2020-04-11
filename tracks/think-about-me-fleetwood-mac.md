@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-about-me-fleetwood-mac
+lyrics_url: https://genius.com/Fleetwood-mac-think-about-me-lyrics
 name: Think About Me
 rankings:
 - end_date: '1980-03-14'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
 ---
+All it took was a special look
+And I felt I knew you before
+I didn't mean to love you
+Didn't think it would work out
+But I knew we would be together
+And I couldn't wait for more
+But what can they say
+It's not against the law
 
+
+I don't hold you down
+Maybe that's why you're around
+But if I'm the one you love
+Think about me
+
+
+I believe that you really want me
+But it's not easy, just to give in
+So let yourself go, and let love begin
+
+
+I don't hold you down
+Maybe that's why you're around
+But if I'm the one you love
+Think about me
+
+I don't hold you down
+Maybe that's why you're around
+But if I'm the one you love
+Think about me
+
+
+Baby, once in a while
+Think about me
+Baby, once in a while
+Think about me
+Think about me
+Every, every once in a while
+Think about me

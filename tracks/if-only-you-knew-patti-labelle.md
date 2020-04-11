@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-only-you-knew-patti-labelle
+lyrics_url: https://genius.com/Patti-labelle-if-only-you-knew-lyrics
 name: If Only You Knew
 rankings:
 - end_date: '1984-01-13'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
 ---
+I must have rehearsed my lines
+A thousand times
+Until I had them memorized
 
+But when I get up the nerve
+To tell you the words
+Just never seem to come out right
+
+
+If only you knew
+How much I do
+Do love you
+
+If only you knew
+How much I do
+I do need you
+
+
+I dream of moments we share
+But you're not there
+I'm living in a fantasy
+
+Cause you don't even suspect
+Could probably care less
+About the changes I been going through
+
+
+If only you knew
+How much I do
+Do love you
+
+If only you knew
+How much I do
+I do need you
+
+
+No, you don't even suspect
+Could probably care less
+About the changes I been going through

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-child-o--mine-guns-n--roses
+lyrics_url: https://genius.com/Guns-n-roses-sweet-child-o-mine-lyrics
 name: Sweet Child O' Mine
 rankings:
 - end_date: '1988-07-01'
@@ -103,4 +104,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
 ---
+She's got a smile that it seems to me
+Reminds me of childhood memories
+Where everythin' was as fresh as the bright blue sky (Sky)
+Now and then when I see her face
+She takes me away to that special place
+An' if I'd stare too long, I'd probably break down and cry
 
+
+Woah-oh-oh! Sweet child of mine
+Woah, oh-oh-oh! Sweet love of mine
+
+
+
+
+She's got eyes of the bluest skies
+As if they thought of rain
+I hate to look into those eyes and see an ounce of pain
+Her hair reminds me of a warm, safe place
+Where as a child I'd hide
+An' pray for the thunder and the rain to quietly pass me by
+
+
+Woah-oh-oh! Sweet child of mine
+Ooh, oh-oh-oh! Sweet love of mine
+
+
+
+
+Oh yeah! Woah-oh-oh-oh! Sweet child of mine
+Ooh-oh, oh, oh! Sweet love of mine
+Woah, oh-oh-oh! Sweet child of mine, ooh yeah
+Ooh! Sweet love of mine
+
+
+
+
+Where do we go?
+Where do we go now?
+Where do we go?
+Ooh, where do we go?
+Where do we go now?
+Oh, where do we go now?
+Where do we go? (Sweet child...)
+Ooh, where do we go now?
+Ay, ay, ay, ay, ay, ay, ay, ay
+Where do we go now? Ah-ah-ah-ah-ah, wow
+Where do we go?
+Oh, where do we go now?
+Oh, where do we go?
+Where do we go now?
+Where do we go?
+Ooh, where do we go now?
+Now, now, now, now, now, now, now
+Sweet child, sweet child of mine

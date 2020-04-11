@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: centipede-rebbie-jackson
+lyrics_url: https://genius.com/Rebbie-jackson-centipede-lyrics
 name: Centipede
 rankings:
 - end_date: '1984-10-12'
@@ -83,4 +84,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
 ---
+Your love is like a raging fire
+You're a snake that's on the loose
+The strike is your desire
+But when the centipede is hot
+You're bound to feel the fire
+But when the centipede is hot
+You're bound to feel the fire
 
+
+I feel a longing for your touch
+Like you crawled into the bathroom window
+To give him all your love
+Like a centipede that's hot
+The fire is in your touch
+Like a centipede you've got
+A lot of loving to touch
+
+
+Don't you know
+In the quiet of the night
+When the snake is in the crawling
+And the moon starts to glow
+Then disappears
+When the time is really right
+Is when the centipede is crawling
+He'll be crying in the night
+So many tears
+
+
+Crawling like a centipede
+Centipede
+
+
+You came to strike him with your touch
+Like you crawled into the bathroom window
+To bite him with your love
+Like a centipede that's hot
+The fire is in your touch
+Like a centipede you've got
+A lot of loving to touch
+
+
+Don't you know
+In the quiet of the night
+When the snake is in the crawling
+And the moon starts to glow
+Then disappears
+When the time is really right
+Is when the centipede is crawling
+He'll be crying in the night
+So many tears
+
+
+Crawling like a centipede
+Centipede
+
+
+
+
+Don't you know
+In the quiet of the night
+When the snake is in the crawling
+And the moon starts to glow
+Then disappears
+When the time is really right
+Is when the centipede is crawling
+He'll be crying in the night
+So many tears
+Don't you know
+In the quiet of the night
+When the snake is in the crawling
+And the moon starts to glow
+Then disappears
+When the time is really right
+Is when the centipede is crawling
+He'll be crying in the night
+So many tears
+
+
+Crawling like a centipede
+Centipede

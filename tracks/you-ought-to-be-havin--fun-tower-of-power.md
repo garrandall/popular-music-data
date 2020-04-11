@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ought-to-be-havin--fun-tower-of-power
+lyrics_url: https://www.musixmatch.com/lyrics/Tower-of-Power/You-Ought-to-Be-Havin-Fun
 name: You Ought To Be Havin' Fun
 rankings:
 - end_date: '1976-10-22'
@@ -39,4 +40,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
 ---
-
+If you're sittin' out there wondering what to do
+Me and the fellas got a message for you
+(You ought to be havin' fun
+You ought to be havin' fun
+Put your troubles on the run)
+The best things in life are free
+(The best things in life are free)
+(You ought to be havin' fun)
+Makin' someone happy
+(You ought to be havin' fun)
+It'll make you feel so glad
+Go out and love someone
+Be as free as you can be, 'cause...
+(You ought to be, you ought to be
+You ought to be, you ought...)
+(You ought to be havin' fun
+You ought to be havin' fun
+Put your troubles on the run)
+The best things in life are free
+(The best things in life are free)
+(You ought to be havin' fun)
+You owe it to yourself
+(You ought to be havin' fun)
+Don't sit there on the shelf
+Go out and get some fun
+I'm sure you will agree
+(You ought to be, you ought to be...
+You ought to be, you ought...)
+(You ought to be havin' fun
+You ought to be havin' fun)
+(You ought to be, you ought to be...
+You ought to be, you ought...)
+(You ought to be havin' fun
+You ought to be havin' fun
+Put your troubles on the run)
+The best things in life are free
+(The best things in life are free)
+(You ought to be havin' fun)
+And come on to the park
+(You ought to be havin' fun)
+And stay out after dark
+C'mon everybody, have fun with me
+Have fun with me, 'cause...
+(You ought to be, you ought to be...
+You ought to be, you ought...)
+(You ought to be havin' fun
+You ought to be havin' fun)

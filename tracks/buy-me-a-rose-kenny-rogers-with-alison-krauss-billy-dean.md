@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: buy-me-a-rose-kenny-rogers-with-alison-krauss-billy-dean
+lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers-with-Alison-Krauss-Billy-Dean/Buy-Me-a-Rose
 name: Buy Me A Rose
 rankings:
 - end_date: '2000-03-17'
@@ -88,4 +89,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-22'
 ---
-
+He works hard to give her all he thinks she wants
+A three car garage, her own credit cards
+He pulls in late to wake her up with a kiss goodnight
+If he could only read her mind, she'd say...
+Buy me a rose, call me from work
+Open a door for me, what would it hurt
+Show me you love me by the look in your eyes
+These are the little things I need the most in my life
+Now the days have grown to years of feelin' all alone
+As she sits and wonders if all she's doin' is wrong
+'Cause lately she'd try anything just to turn his head
+Would it make a difference if she said, if she said...
+And the more that he lives the less that he tries
+To show her the love that he holds inside
+And the more that she gives the more that he sees
+This is the story of you... and me
+So I bought you a rose on the way home from work
+To open the door to a heart that I hurt
+And I hope you notice this look in my eyes
+'Cause I'm gonna make things right for the rest of your life
+And I'm gonna hold you tonight, tonight
+Do all those little things for the rest of your life

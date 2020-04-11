@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tomorrow-people-ziggy-marley-and-the-melody-makers
+lyrics_url: https://genius.com/Ziggy-marley-and-the-melody-makers-tomorrow-people-lyrics
 name: Tomorrow People
 rankings:
 - end_date: '1988-05-20'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
 ---
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last?
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last?
 
+Today you say you deyah
+Tomorrow you say you're gone
+But you're gone so long
+If there is no love in you heart-so sorry
+Then there is no hope for you-True True
+
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last?
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last?
+
+So you're in the air
+But you still don't have a thing to spare
+You're flying high
+While we're on the low-o-o-oh
+
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last? Tell me now!
+Tomorrow people, where is your past? No where!
+Tomorrow people, how long will you last? Ten Years
+
+Stop tellin' me the same story
+Today you say you deyah
+Tomorrow you say you're gone and you're not coming back
+If there is no love in you heart oh now
+There will never be hope for you
+
+Tomorrow people, where is your past?
+Tomorrow people, how long will you last? Ten years!
+Tomorrow people, Where is You're past
+
+Tomorrow, tomorrow people, come on
+Tomorrow, tomorrow people, come on
+Tomorrow, tomorrow people, no soon come
+Tomorrow, tomorrow people, soon come
+Tomorrow, tomorrow people, today is here
+
+If you don't know your past, you don't know your future
+Everyone
+Don't know your past, don't know your future, every man
+Don't know your past, don't know your future, c'mon
+Don't know your past, don't know your future
+
+How many nations
+How many people did that one catch
+How many nations did that one catch
+Don't know your past, don't know your future
+Don't know your past, don't know your future

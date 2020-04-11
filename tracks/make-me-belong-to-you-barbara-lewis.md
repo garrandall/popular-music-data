@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-belong-to-you-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-make-me-belong-to-you-lyrics
 name: Make Me Belong To You
 rankings:
 - end_date: '1966-07-29'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
 ---
+Darlin, I am whatever you make me
+So baby, baby whatever you make me
+Make me belong to you
 
+I can be a beggar or a queen
+You've got the power to make me anything
+You've got the power so open your heart
+It's up to you
+
+Yeah, 'cause darlin' I am whatever you make me
+So baby, baby whatever you make me
+Make me belong to you
+
+I can be a puppet on a string
+You've got the power to make me anything
+You've got the power so open your heart
+It's up to you
+
+Yeah, darlin' I am whatever you make me
+So baby, baby whatever you make me
+Make me belong to you

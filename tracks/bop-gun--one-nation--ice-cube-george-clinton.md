@@ -90,32 +90,31 @@ rankings:
   start_date: '1994-12-10'
 ---
 
-At these up late times, hardcore funkateers before the bop gun.  
-We unleash you a positive light.  The bop gun can do you no harm.
-It frees yo mind, so yo kind can follow.  (Yeahhh.)
+At these up late times, hardcore funkateers before the bop gun.
+We unleash you a positive light. The bop gun can do you no harm.
+It frees yo mind, so yo kind can follow (yeah)
 
 So wide you can't get around it
 So low you can't get under it
 So high you can't get over it
-IIIIIIII, can't get over it
-Ah yaaaaaa, di-dit-dit-dit-dit
-Ah yaaaaaa, di-dit-dit-dit-dit
-Ah yaaaaaa, di-dit-dit-dit-dit
-Ah yaaaaaa, di-dit-dit-dit-dit
-Well all right!  
-Ah yaaaaaa, di-dit-dit-dit-dit
+I, can't get over it
+Ah yeah, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
+Well all right!
+Ah yeah, di-dit-dit-dit-dit
 Attention all radio station jocks ...
-Ah yaaaaaa, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
 haw haw, got to be groovin' jammin' on yo box.
-Ah yaaaaaa, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
 The Mothership Connection is upon you again.
-Ah yaaaaaa, di-dit-dit-dit-dit
+Ah yeah, di-dit-dit-dit-dit
 Yeah, workin' up a sweat, is it wet yet?
 Ready or not, here we come
 Getting down for the one which we believe in
 
-
-1993, much more ba-e-ya-e-younce
+1993, much more bounce
 Ice Cube comin' with the half ounce
 Not Just Knee Deep, jeep fulla smog
 A, To, mic, Dog
@@ -131,7 +130,6 @@ One nation under a groove gettin down for the fuck of it
 Tear the roof of this motherfucker like we did last night, son
 And hit you with the bop gun
 
-
 Here's my chance to dance my way
 Out of my constriction
 Gonna be freakin' up and down
@@ -145,25 +143,21 @@ Gettin down just for the funk of it
 One nation and we're on the move
 Nothin can stop us now
 
-{Yeah.}
 Dance, sucka, dance!
-
-{Yeah, heh heh.  And it don't stop.  Sheeeit.}
 
 Givin' you more of what you're funkin' for
 Aw, feet don't fail me now!  Ha ha!
 Givin' you more of what you're funkin' for
-Do you promise the funk {yep}, the whole funk, 
+Do you promise the funk , the whole funk,
 Nothin but the funk?
-{Hit you with the bop gun, heh,
-Buss a cap with my bop gun, 
+Hit you with the bop gun, heh,
+Buss a cap with my bop gun,
 Gotta hit you with the bop gun,
-Buss a cap with the bop gun, hit you with the bop gun, 
-Buss a cap with the bop gun, heh, 'cause I'm the top gun...}
-Ready. {yep} Ready. {yep} Ready. {yep, come on}
+Buss a cap with the bop gun, hit you with the bop gun,
+Buss a cap with the bop gun, heh, 'cause I'm the top gun...
+Ready.  Ready.  Ready.
 Ready or not, here we come
 Gettin down on the one which we believe in
-
 
 If you hear any noise, it's just me and the boys
 Playin with our toys
@@ -178,7 +172,7 @@ Comin from the West
 Kickin that shit be occupied, dedicated to the preservation motion of hips
 Hittin them dips, cd skips but I'm straight
 As I bounce, rock, skate, now I'll toast to that
-If it's rough, make the girls say 
+If it's rough, make the girls say
 "Do that stuff! Aw, do that stuff!"
 But ya got to be, you got to be a freak of the week
 For the top gun, hit you with the bop gun
@@ -187,14 +181,14 @@ One nation under a groove
 Gettin down just for the funk of it
 One nation and we're on the move
 Nothin can stop us now
-{Trick!  Yeeah!} Jus hit 'em with the bop gun!
-One nation under a groove {heh}
+ Jus hit 'em with the bop gun!
+One nation under a groove
 Gettin down just for the funk of it
 One nation and we're on the move
 Nothin can stop us now
-{Get up with the bop gun...}
+
 One nation under a groove ('bout time we got down, one time)
-Gettin down just for {the fuck of it, yeahh}
+Gettin down just for
 One nation and we're on the move
 Nothin can stop us now
 One nation under a groove (now everybody say)
@@ -203,38 +197,38 @@ One nation and we're on the move
 Nothin can stop us now
 Here's my chance to dance my way
 Out of my constriction
-Feet don't fail me now!  Ha ha!
-{Get 'em with the bop gun...
-I'm a' blast with the bop gun ... heh heh ...
-On yo ass with the  with the bop gun ...
-I'm talkin' trash with the bop gun ... yeah
+Feet don't fail me now!
+Get 'em with the bop gun
+I'm a' blast with the bop gun
+On yo ass with the with the bop gun
+I'm talkin' trash with the bop gun
 And it don't stop
-And it won't stop}
+And it won't stop
 Here's my chance to dance my wayyy,
 Out of my constriction
 (Yeahhh, feel the shit now!)
-{Oh shit}
+
 
 ... hear ya say Party over here fuck you over there!
-<Party over here fuck you over there!>
+Party over here fuck you over there!
 Lemme hear ya say Party over here fuck you over there!
-<Party over here fuck you over there!> {Oh yeah}
+Party over here fuck you over there!
 Lemme hear ya say Party over here fuck you over there!
-<Party over here fuck you over there!>
+Party over here fuck you over there!
 Lemme hear ya say Party over here fuck you over there!
-<Party over here fuck you over there, nigga!>
+Party over here fuck you over there, nigga!
 Lemme hear ya say Party over here fuck you over there!
-<Party over here fuck you over there!>
+Party over here fuck you over there!
 Lemme hear ya say Party over here fuck you over there!
-<Party over here fuck you over there!>
+Party over here fuck you over there!
 
 Givin' you more of what you're funkin' for
 Feet don't fail me now
 (That's right!)
 Do you promise the funk
 Givin' you more of what you're funkin' for
-Ooo, feet don't fail me now .... 
-Can I get it on my good foot, good gawd ... 
+Ooo, feet don't fail me now ....
+Can I get it on my good foot, good gawd ...
 'Bout time I got down one time
 (Can I get down one time)
 
@@ -247,7 +241,7 @@ Put a glide in your stride and a dip in your hip
 Got Daytons on the mothership
 And you can ring my bell if you need me to pass
 The dutchie on the left hand side for the sale
-Cuz nobody knows where the nose goes when the doors close 
+Cuz nobody knows where the nose goes when the doors close
 Dog chow got the hoes
 Lookin' for the theme from the Black Hole
 Now I'll big bang you with my black pole
@@ -258,26 +252,26 @@ I'm gonna have some fun with the bop gun
 
 (Ready or not, here we come
 Getting down on the one which we believe in)
-One nation under a groove 
+One nation under a groove
 (Here is my chance to dance my wayyy)
-Gettin down just for the funk of it (One Nationnnn)
+Gettin down just for the funk of it (One Nation)
 One nation and we're on the move
 (Get it on my good foot, good gawd)
 Nothin can stop us now
 (Ha ha ha ha ha haeeee)
-One nation under a groove 
+One nation under a groove
 Gettin down just for the funk of it
 One nation and we're on the move
 Nothin can stop us now
 (Now I want everybody to put together this time ... hit me!)
-One nation under a groove 
+One nation under a groove
 (Can I get it on my good foot)
 Gettin down just for the funk of it
 (Bout time I got down one time)
 One nation and we're on the move
 Nothin can stop us now
 (Uh huh, uh huh, one nation)
-One nation under a groove 
+One nation under a groove
 (Can I get it on my good foot)
 Gettin down just for the funk of it
 (Bout time I got down one time)
@@ -287,12 +281,8 @@ One nation under a groove (Ooh yeah)
 Gettin down just for the funk of it (Ooh yeah)
 One nation and we're on the move
 Nothin can stop us now
-(Ha ha ha ha ha haeeee)
-One nation under a groove 
+One nation under a groove
 Gettin down just for the funk of it
 (Bout time I got down one time)
 One nation and we're on the move
-Nothin can stop us nowwwwww.
-
-
-
+Nothin can stop us now.

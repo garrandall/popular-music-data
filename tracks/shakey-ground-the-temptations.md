@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shakey-ground-the-temptations
+lyrics_url: https://genius.com/The-temptations-shakey-ground-lyrics
 name: Shakey Ground
 rankings:
 - end_date: '1975-03-28'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
+Lady Luck and four leaf clovers
+Won't ease this hurt I feel all over
+My life was one special occasion
+'Til you leavin' left me this situation
+(Oh, ho, ho)
 
+
+I'm standin' on shakey ground
+Ever since you put me down
+Standin' on shakey ground
+Ever since you put me down
+Waaa!
+
+
+My car got repossessed this morning
+Harder times I haven't seen in years
+Girl, you better throw me a life preserver
+'Cause I'm about to drown in my own tears
+(Ah, ha, ah)
+
+
+I'm standin' on shakey ground
+Ever since you put me down
+Standin' on shakey ground
+Ever since you put me down
+Ooh, hoo
+
+
+
+
+Now, now, now
+Standin' on shakey ground
+Ever since you put me down, wow
+Said I'm standin' on shakey ground
+Ever since you put me down, whoo hoo
+(Standin' on shakey ground)
+Standin', well
+(Ever since you put me down)
+On shakey ground
+Standin', standin', standing on shakey ground, waa!
+
+
+
+
+Got to say it, got to say it, got to say it, got to say it
+I'm standin' on shakey ground, woo!
+Ever since you put me down, and ah ha
+Standin' on shakey ground
+Ever since you put me down

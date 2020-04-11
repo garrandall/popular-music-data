@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-after-time-cyndi-lauper
+lyrics_url: https://genius.com/Cyndi-lauper-time-after-time-lyrics
 name: Time After Time
 rankings:
 - end_date: '1984-04-20'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
 ---
+Lying in my bed, I hear the clock tick and think of you
+Caught up in circles
+Confusion is nothing new
+Flashback, warm nights almost left behind
+Suitcase of memories, time after—
+Sometimes you picture me
+I'm walking too far ahead
+You're calling to me
+I can't hear what you've said
+Then you say, "Go slow."
+I fall behind
+The second hand unwinds
 
+
+If you're lost, you can look and you will find me
+Time after time
+If you fall, I will catch you, I'll be waiting
+Time after time
+If you're lost, you can look and you will find me
+Time after time
+If you fall, I will catch you, I'll be waiting (I will be waiting)
+Time after time
+
+
+After my picture fades
+And darkness has turned to gray
+Watching through windows
+You're wondering if I'm okay
+Secrets stolen from deep inside
+The drum beats out of time
+
+
+If you're lost, you can look and you will find me
+Time after time
+If you fall, I will catch you, I'll be waiting
+Time after time
+
+
+
+
+You said, "Go slow." I fall behind
+The second hand unwinds
+
+
+If you're lost, you can look and you will find me
+Time after time
+If you fall, I will catch you, I'll be waiting
+Time after time
+If you're lost, you can look and you will find me
+Time after time
+If you fall, I will catch you, I'll be waiting (I will be waiting)
+Time after time
+
+
+Time after time
+Time after time
+Time after time
+Time after time
+Time after time
+Time after time
+Time after time
+Time after time
+Time after time
+Time after… time…

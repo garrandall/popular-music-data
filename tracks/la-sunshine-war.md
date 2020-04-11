@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-sunshine-war
+lyrics_url: https://genius.com/War-la-sunshine-lyrics
 name: La Sunshine
 rankings:
 - end_date: '1977-07-15'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+Me get high off the sunshine
+Me gettin' high off the sunshine
 
+Every day's the same, me groovin'
+Every day's the same, me groovin'
+Got no time, keep movin'
+Got no time, keep me movin'
+
+Me get high off the sunshine
+Me gettin' high off the sunshine
+
+L.A. is my home town
+It's a funky town
+L.A. is my home town
+It's a funky town
+
+Get on down, get on down, get on down
+Get on down, get on down, get on down
+In my funky town, in my funky town
+
+Me get high off the sunshine
+Me gettin' high off the sunshine
+Me get high off the sunshine
+Me gettin' high off the sunshine
+
+L.A. is my home town
+It's a funky town
+L.A. is my home town
+It's a funky town
+
+Get on down, get on down, get on down
+Get on down, get on down, get on down
+In my funky town, in my funky town
+
+Get on down, get on down, get on down
+Get on down, get on down, get on down
+In my funky town, in my funky town
+
+Get on down, get on down, get on down
+Get on down, get on down, get on down

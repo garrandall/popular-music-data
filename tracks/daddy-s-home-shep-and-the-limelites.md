@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-s-home-shep-and-the-limelites
+lyrics_url: https://genius.com/Shep-and-the-limelites-daddys-home-lyrics
 name: Daddy's Home
 rankings:
 - end_date: '1961-04-02'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
 ---
+You're my love, you're my angel
+You're the girl of my dreams
+I'd like to thank you for waiting patiently
+Daddy's home, your daddy's home to stay
 
+How I've waited for this moment
+To be by your side
+Your best friend wrote and told me
+You had teardrops in your eyes
+Daddy's home, your daddy's home to stay
+
+It wasn't on a Sunday (Monday and Tuesday went by)
+It wasn't on a Tuesday afternoon (all I could do was cry)
+But I made a promise that you treasured
+I made it back home to you
+
+How I've waited for this moment
+To be by your side
+Your best friend wrote and told me
+You had teardrops in your eyes
+Daddy's home, your daddy's home to stay
+Daddy's home to stay
+I'm not a thousand miles away
+Daddy's home to stay
+I'm gonna be here come what may
+Daddy's home to stay

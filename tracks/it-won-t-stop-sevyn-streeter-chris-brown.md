@@ -5,6 +5,7 @@ features:
 - Chris Brown
 genres: []
 key: it-won-t-stop-sevyn-streeter-chris-brown
+lyrics_url: https://genius.com/Sevyn-streeter-it-wont-stop-remix-lyrics
 name: It Won't Stop
 rankings:
 - end_date: '2013-10-25'
@@ -88,4 +89,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
 ---
+I love when you pulling up in your Jeep, bumping all your beats
+J's on with your shades on, just to bring me something to eat
+You the man up in these streets, but when it comes to my heart
+That don't mean a thing, no, oh
 
+
+Baby hop in my ride, ooh, it's hot as hell outside
+Got the top down with your doors closed
+With my hand up on your thigh
+Drive slow, ooh, take your time
+
+
+Every little thing you do got me feeling some type of way
+When you give me that thunder you make my summer rain
+Oh-oh-oh oh, oh, oh-oh-oh oh, oh
+Everyday, everyday
+
+
+And it won't stop, boom, boom, ooh
+And it won't stop, boom, boom, ooh, yeah
+With every single part of me, my love for you is constantly (oh, oh)
+Forever and ever on repeat (oh)
+On repeat and it won't stop, boom, boom, ooh
+
+
+I love when we pulling up to that beach (that beach)
+Sand down in my feet (yeah)
+Sun down, nobody round, that's one hell of a scene
+You rocking my body (body), rock rock the boat, Aaliyah (body)
+Don't it sound familiar?
+
+
+And you sound like, uh uh, ayy, ayy
+Looking up into space
+It's just me and my bae
+And we feel so amazing, oh, oh, oh, all night, woah
+
+
+Every little thing you do got me feeling some type of way (way, yeah)
+When you give me that thunder you make my summer rain
+Oh-oh-oh oh, oh, oh-oh-oh oh, oh
+Everyday, everyday
+
+
+And it won't stop, no, boom, boom, ooh
+And it won't stop, boom, boom, ooh, yeah
+With every single part of me, my love for you is constantly (me, oh)
+Forever and ever on repeat, on repeat
+And it won't stop, boom, boom, ooh
+
+
+Everyday, everyday, I can't wait
+You take my breath away from me
+Here's my heart, you got the key
+Put that on eternity, I love you 'til infinity, infinity, infinity, infinity, infinity
+My everything, my everything
+And when I think about it, oh, it be making me weak, baby
+I won't ever stop, my heart won't skip a beat, baby
+And it'll keep going on, going on, going on
+
+
+And it won't stop, boom, boom, ooh (no, I'm so in love with you, girl)
+And it won't stop, boom, boom, ooh, yeah (boom, oh)
+With every single part of me, my love for you is constantly
+Forever and ever on repeat, on repeat (oh)
+And it won't stop, boom, boom, ooh, boom
+And it won't stop
+
+
+Girl I'm, rocking your body
+Rock-rocking your body (won't stop)
+Rock-rocking your body, baby (won't stop)
+Said I'm rocking your body, rocking your body to sleep
+And it won't stop, boom, boom, ooh
+And it won't stop, boom, boom, ooh, yeah

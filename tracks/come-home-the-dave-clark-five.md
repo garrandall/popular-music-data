@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-home-the-dave-clark-five
+lyrics_url: https://genius.com/The-dave-clark-five-come-home-lyrics
 name: Come Home
 rankings:
 - end_date: '1965-02-12'
@@ -43,4 +44,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+As I write my letter today
+Tears start falling from my eyes
+I remember
+Things we used to say
+And the ties that bind
+Our love
 
+Only one thing
+I want to do
+Come home (whoa, yeah)
+Come home
+Long as I know
+I'm coming home to you
+I'm coming home
+
+Please remember
+While I'm away
+I think of you night and day
+Of the things
+Of the fun
+While we were one
+
+Only one thing
+I want to do
+Come home
+Come home
+Long as I know
+I'm coming home to you
+
+I didn't think a-it ever be, whoa, whoa, as bad as it's been, no, no, no
+But now I'm coming home
+To give you a ring
+
+As I write my letter today
+Tears start falling from my eyes
+I remember
+Things we used to say
+And the ties that bind
+Our love
+
+Only one thing
+I want to do
+Come home (whoa, whoa, yeah)
+Come home
+Long as I know
+I'm coming home to you
+
+Only one thing
+I want to do
+Come home (whoa, whoa)
+Come home
+Long as I know
+I'm coming home to you

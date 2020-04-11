@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-lights-go-out-naked-eyes
+lyrics_url: https://genius.com/Naked-eyes-when-the-lights-go-out-lyrics
 name: When The Lights Go Out
 rankings:
 - end_date: '1983-10-28'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
 ---
+Susie doesn't go out very much
+She likes to stay in bed at night
+It seems that everything is all too much
+But she just lays in bed at night
 
+The day's all right but then....
+
+When the lights go out
+She calls your name
+When the lights go out
+Always the same
+Always someone left out in the rain
+Always the same
+
+She's the kind who needs the tender touch
+She never wants to compromise
+What you thought you'd never have gets up
+And disappears before your eyes
+
+The day's all right but then....
+
+When the lights go out
+She calls your name
+When the lights go out
+Always the same
+Always someone left out in the rain
+Always the same
+Always the same
+Always the same
+
+Words and Music: Pete Byrne and Rob Fisher © PJB Music

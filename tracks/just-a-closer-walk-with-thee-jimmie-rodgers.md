@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-a-closer-walk-with-thee-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Just-a-Closer-Walk-With-Thee
 name: Just A Closer Walk With Thee
 rankings:
 - end_date: '1960-04-17'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
 ---
+Just a closer walk with Thee
+Grant it, Jesus, is my plea
+Daily walking close to Thee
+Let it be, dear Lord, let it be
 
+I am weak but Thou art strong
+Jesus, keep me from all wrong
+I'll be satisfied as long
+As I walk, let me walk close to Thee
+
+Thro' this world of toil and snares
+If I falter, Lord, who cares?
+Who with me my burden shares?
+None but Thee, dear Lord, none but Thee
+
+When my feeble life is o'er
+Time for me will be no more
+Guide me gently, safely o'er
+To they Kingdom's shore, to thy shore

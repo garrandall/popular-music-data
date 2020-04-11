@@ -5,6 +5,7 @@ features:
 - Kim Sozzi
 genres: []
 key: how-did-you-know--mynt-kim-sozzi
+lyrics_url: https://genius.com/Mynt-how-did-you-know-feat-kim-sozzi-lyrics
 name: How Did You Know?
 rankings:
 - end_date: '2004-09-10'
@@ -16,4 +17,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
 ---
-
+Im in a spin
+Im giving in
+Im living in a daydream
+When I saw u ur smile shone through
+& touched me like a sunbeam
+Im inside out
+Im crazy about the way u make my 3 feel
+Im head over heels
+Im fallin more each day
+How did you know I've been waiting to touch you and tell you how I feel?
+I'm walking on clouds
+I'm spellbound about you
+I can't believe you're real
+How did you know I've been thinking about you and dreaming of your kiss?
+How did you know?
+How did you know?
+I'm in a spin, I'm giving in
+I'm living in a daydream when I saw you, your smile shone through and touched me like a sunbeam
+I'm inside out
+I'm crazy about the way you make my heart feel
+I'm head over heels
+I'm falling more each day...
+How did you know
+I've been waiting to touch you and tell you how I feel?
+I'm walking on clouds
+I'm spellbound about you
+I can't believe you're real
+How did you know I've been thinking about you, and dreaming of your kiss?
+How did you know?
+How did you know?

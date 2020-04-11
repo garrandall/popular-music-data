@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-spoil-the-party-the-beatles
+lyrics_url: https://genius.com/The-beatles-i-dont-want-to-spoil-the-party-lyrics
 name: I Don't Want To Spoil The Party
 rankings:
 - end_date: '1965-02-26'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
 ---
+I don't want to spoil the party so I'll go
+I would hate my disappointment to show
+There's nothing for me here, so I will disappear
+If she turns up while I'm gone please let me know
 
+
+I've had a drink or two and I don't care
+There's no fun in what I do if she's not there
+I wonder what went wrong, I've waited far too long
+I think I'll take a walk and look for her
+
+
+Though tonight she's made me sad
+I still love her
+If I find her I'll be glad
+I still love her
+
+
+I don't want to spoil the party so I'll go
+I would hate my disappointment to show
+There's nothing for me here so I will disappear
+If she turns up while I'm gone please let me know
+
+
+
+
+Though tonight she's made me sad
+I still love her
+If I find her I'll be glad
+I still love her
+
+
+Though I've had a drink or two and I don't care
+There's no fun in what I do if she's not there
+I wonder what went wrong I've waited far too long
+I think I'll take a walk and look for her

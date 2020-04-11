@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: my-baby-don-t-dig-me-ray-charles-and-his-orchestra

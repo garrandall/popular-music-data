@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: habits--stay-high--tove-lo
+lyrics_url: https://genius.com/Bely-basarte-habits-tove-lo-lyrics
 name: Habits (Stay High)
 rankings:
 - end_date: '2014-06-20'
@@ -163,4 +164,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
 ---
+Letra de "Habits" de Tove Lo
+BELY BASARTE COVER
 
+
+Oh-oh, oh-oh, oh-oh
+
+
+I eat my dinner in my bathtub, then I go to sex clubs
+Watchin' freaky people gettin' it on
+It doesn't make me nervous if anything, I'm restless
+Yeah, I've been around and I've seen it all
+I get home, I got the munchies, binge on all my Twinkies
+Throw up in the tub and I go to sleep
+And I drank up all my money, dazed and kinda lonely
+
+
+You're gone and I gotta stay high
+All the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+High, all the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Spend my days locked in a haze, tryna forget you, babe
+I fall back down
+I gotta stay high, all my life, to forget I'm missin' you
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+
+
+Pick up daddies at the playground, how I spend my day time
+Loosen up their frown, make 'em feel alive
+Make it fast and greasy, I'm numb and way too easy
+
+
+You're gone and I gotta stay high
+All the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+High, all the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Spend my days locked in a haze, tryna forget you, babe
+I fall back down
+I gotta stay high, all my life, to forget I'm missin' you
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+
+
+Staying in my play pretend, where the fun ain't got no end, oh
+Can't go home alone again, need someone to numb the pain, oh
+Staying in my play pretend, where the fun ain't got no end, oh
+Can't go home alone again, need someone to numb the pain
+
+
+You're gone and I gotta stay high
+All the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+High, all the time, to keep you off my mind
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Spend my days locked in a haze, tryna forget you, babe
+I fall back down
+I gotta stay high, all my life, to forget I'm missin' you
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh

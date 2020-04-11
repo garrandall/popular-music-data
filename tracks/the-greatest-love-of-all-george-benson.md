@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-greatest-love-of-all-george-benson
+lyrics_url: https://genius.com/George-benson-the-greatest-love-of-all-lyrics
 name: The Greatest Love Of All
 rankings:
 - end_date: '1977-08-05'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
 ---
+I believe the children are our future
+Teach them well and let them lead the way
+Show them all the beauty they possess inside
+Give them a sense of pride to make it easier
+Let the children's laughter remind us how we used to be
+Everybody is searching for a hero
+People need someone to look up to
+I never found anyone to fulfil my needs
+A lonely place to be
+So I learned to depend on me
 
+I decided long ago, never to walk in anyone's shadows
+If I fail, if I succeed
+At least I live as I believe
+No matter what they take from me
+They can't take away my dignity
+Because the greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+Learning to love yourself
+It is the greatest love of all
+
+I believe the children are our future
+Teach them well and let them lead the way
+Show them all the beauty they possess inside
+Give them a sense of pride to make it easier
+Let the children's laughter remind us how we used to be
+
+I decided long ago, never to walk in anyone's shadows
+If I fail, if I succeed
+At least I live as I believe
+No matter what they take from me
+They can't take away my dignity
+Because the greatest love of all
+Is happening to me
+I found the greatest love of all
+Inside of me
+The greatest love of all
+Is easy to achieve
+Learning to love yourself
+It is the greatest love of all
+
+And if by chance, that special place
+That you've been dreaming of
+Leads you to a lonely place
+Find your strength in love

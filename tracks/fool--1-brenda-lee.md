@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool--1-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-fool-1-lyrics
 name: 'Fool #1'
 rankings:
 - end_date: '1961-10-08'
@@ -63,4 +64,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
 ---
+Am I fool number one or am I fool number two
+How many other girls have been fooled by you
+I suppose that the number is far from being small
+And I'll bet that I'm the biggest fool of all
 
+If I had the chance I guess I'd do it all again
+I'd go down that same old road even knowing at the end
+You'll leave me when your heart hears a new love call
+So I'll guess that I'm the biggest fool of all
+
+Am I fool number one or am I fool number two
+How many other girls have been fooled by you
+I suppose that the number is far from being small
+And I'll guess that I'm the biggest fool of all

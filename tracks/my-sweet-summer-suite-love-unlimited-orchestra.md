@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-sweet-summer-suite-love-unlimited-orchestra
+lyrics_url: https://genius.com/The-love-unlimited-orchestra-my-sweet-summer-suite-lyrics
 name: My Sweet Summer Suite
 rankings:
 - end_date: '1976-09-17'
@@ -51,4 +52,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-look-of-love-dusty-springfield
+lyrics_url: https://www.musixmatch.com/lyrics/Dusty-Springfield/The-Look-of-Love
 name: The Look Of Love
 rankings:
 - end_date: '1967-07-28'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
 ---
+The Look of Love
+Is in your eyes
+The look your heart can't disguise
+The Look of Love
+Is saying so much more
+Than just words could ever say
+And what my heart has heard
+Well it takes my breath away
 
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+
+You've got The Look of Love
+It's on your face
+A look that time can't erase
+Be mine tonight
+Let this be just the start
+Of so many nights like this
+Let's take a lover's vow
+And then seal it with a kiss
+
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+Don't ever go
+
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+Don't ever go
+Don't ever go
+I love you so

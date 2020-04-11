@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-little-girl-dee-clark
+lyrics_url: https://genius.com/Dee-clark-hey-little-girl-lyrics
 name: Hey Little Girl
 rankings:
 - end_date: '1959-08-30'
@@ -67,4 +68,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
 ---
+Hey, little girl in the high school sweater
+Gee, but I'd like to know you better
+A-just a-swingin' yo books and chewin' gum
+A-lookin' just like a juicey plum
+Hey, hey-hey, hey-hey, hey, hey
+Little girl
 
+Hey, little girl in the black silk stockins
+Gee, but you've got my heart a-rockin'
+A-wearin' that crazy skin-tight skirt
+And that crazy ivy league shirt!
+Hey, hey, hey, hey, hey
+Oh, little girl
+
+Hey little girl, can I come along
+Carry your books and a-hold your arm?
+I'm hopin' that you tell me, yes
+Because you're the girl that I love best
+Hey, hey-hey-hey
+
+(instrumental)
+
+A-hey-hey
+
+Um-hm, um-hm
+
+Ya-ya
+Ya-ya, ya-ya
+Ya-ya, ya-ya, ya-ya
+Ya-ya, ya-ya, ya
+
+Uuh-huh
+
+Hey, little girl in the high school sweater
+Gee, I hope you're feelin' better
+Not just like the time before
+'Member when you closed that door?
+Hey, hey-hey, hey-hey, hey
+Little girl
+
+Hey!
+A-little girl
+
+A-hey-hey!
+A-little girl
+
+Mmm
+Mmm-hm-hm
+Mmm-hm-hm
+Mmm-hm-hm
+Yeah!
+
+Goin' t'your house
+
+FADES-
+
+Well
+Ya-ya-ya
+Ya-ya-ya
+Ya-ya-ya
+Ya-ya-ya
+Ya-ya-da-da
+
+~

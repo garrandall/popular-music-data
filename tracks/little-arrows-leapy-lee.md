@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-arrows-leapy-lee
+lyrics_url: https://genius.com/Leapy-lee-little-arrows-lyrics
 name: Little Arrows
 rankings:
 - end_date: '1968-10-18'
@@ -63,4 +64,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
+There's a boy a little boy
+Shooting arrows in the blue
+And he's aiming them at someone
+But the question is at who
+Is it me or is it you
+It's hard to tell until you're hit
+But you know it when they hit you
+Cause they hurt a little bit
 
+Here they come pouring out of the blue
+Little arrows for me and for you
+You're fall in in love again
+Falling in love again
+
+Little arrows in your clothing
+Little arrows in your hair
+When you're in love you'll find
+Those little arrows everywhere
+Little arrows that will hit you once
+And hit you once again
+Little arrows that hit everybody
+Every now and then
+
+Oh oh oh the pain
+
+Some folks run and others hide
+But there is nothing they can do
+And some folks put on armor
+But the arrows go straight through
+So you see there's no escape
+So why not face it and admit
+That you love those little arrows
+When they hurt a little bit
+
+Here they come pouring out of the blue
+Little arrows for me and for you
+You're fall in love again
+Falling in love again
+
+Little arrows in your clothing
+Little arrows in your hair
+When you're in love you'll find
+Those little arrows everywhere
+Little arrows that will hit you once
+And hit you once again
+Little arrows that hit everybody
+Every now and then
+
+Little arrows in your clothing
+Little arrows in your hair
+When you're in love you'll find
+Those little arrows everywhere
+Little arrows that will hit you once
+And hit you once again
+Little arrows that hit everybody
+Every now and then...

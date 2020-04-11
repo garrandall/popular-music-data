@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knockin--on-heaven-s-door-bob-dylan
+lyrics_url: https://genius.com/Bob-dylan-knockin-on-heavens-door-lyrics
 name: Knockin' On Heaven's Door
 rankings:
 - end_date: '1973-09-07'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
+Ooh, ooh
+Ooh, ooh
 
+
+Mama, take this badge off of me
+I can’t use it anymore
+It’s getting dark, too dark to see
+I feel I’m knockin' on heaven’s door
+
+
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven's door
+
+
+Mama, put my guns in the ground
+I can’t shoot them anymore
+That long black cloud is coming down
+I feel I’m knockin' on heaven’s door
+
+
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven’s door
+Knock, knock, knockin' on heaven's door
+
+
+Ooh, ooh
+Ooh, ooh

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: do-you-sleep--lisa-loeb-nine-stories
+lyrics_url: https://genius.com/Lisa-loeb-and-nine-stories-do-you-sleep-lyrics
 name: Do You Sleep?
 rankings:
 - end_date: '1995-09-29'
@@ -88,4 +89,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
 ---
+Do you eat sleep do you breathe me anymore?
+Do you sleep do you count sheep anymore?
+Do you sleep anymore?
 
+Do you take plight on my tongue like lead?
+Do you fall gracefully into bed anymore?
+
+I saw you as you walked across my room
+You looked out the window, you looked at the moon
+And you sat on the corner of my bed
+And you smoked with the ghost in the back of my head
+
+Now I don't know and I don't care
+If I ever will see you again
+I don't know and I don't care
+If I ever will be there
+
+Do you eat sleep do you breathe me anymore?
+Do you sleep do you keep me anymore?
+
+You kick my foot under the table
+I kick you back can't say that I'm able
+To stand for you or fall for you ever again
+Wish for a perfect setting
+Wishing that I am letting you
+Take me where you want me all over again
+You can't give yourself
+Absolutely to someone else
+
+Now I don't know and I don't care
+If I ever will see you again
+I don't know and I don't care
+If I ever will be there
+
+I saw you as you walked across my room
+You looked out the window -- you looked at the moon
+And you sat on the corner of my bed
+And you smoked with the ghost in the back of my head
+
+Do you eat sleep do you breathe me anymore?
+Do you sleep do you count sheep anymore?
+Do you sleep anymore?
+
+I don't know (Do you eat sleep do you breathe me anymore?)
+And I don't care (Do you sleep do you count sheep anymore?)
+If I ever will be there (Do you sleep anymore?)
+Will be there

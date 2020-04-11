@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-to-handle-otis-redding
+lyrics_url: https://genius.com/Otis-redding-hard-to-handle-lyrics
 name: Hard To Handle
 rankings:
 - end_date: '1968-07-19'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+Baby, here I am, I'm a man on the scene
+I can give you what you want but you got to go home with me
+I've got some good old loving and I got some in store
+When I get through throwing it on you you got to come back for more
 
+
+Toys and things that come by the dozen
+But that ain't nothing but drug store loving
+Pretty little thing, let me light your candle
+Cause mama, I'm sure hard to handle, now, yessir'am
+
+
+Action speaks louder than word and I'm a man of a great experience
+I know you got you another man but I can love you better than him
+Take my hand, don't be afraid, I wanna prove every word I say
+I'm advertising love for free, so won't you place your ad with me?
+
+
+Boys will come a dime by the dozen
+But that ain't nothing but ten cent loving
+Pretty little thing, let me light your candle
+Cause mama I'm sure hard to handle, now, yessir'am
+
+
+Baby, here I am, I'm a man on the scene
+I can give you what you want but you got to go home with me
+I've got some good old loving and I got some in store
+When I get through throwing it on you you got to come back for more
+
+Toys and things that come by the dozen
+But that ain't nothing but drug store loving
+Pretty little thing, let me light your candle
+Cause mama, I'm sure hard to handle, now, yessir'am
+
+
+Give it to me, I got to have it
+Give it to me, good old loving

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-how-it-hurts-barbara-mason
+lyrics_url: https://genius.com/Barbara-mason-oh-how-it-hurts-lyrics
 name: Oh How It Hurts
 rankings:
 - end_date: '1967-12-29'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
 ---
+Oh, how it hurts
+(Oh, how it hurts)
+To say goodbye, yes, it does
+Oh, how it hurts
+(Oh, how it hurts)
+For me to cry but that's all right
 
+Because I'd rather leave you now
+'Cause it's gonna hurt more after while
+Yes, it will
+(Yes, it will)
+After while
+(After while)
+
+I know you've found somebody new
+Yes, you have
+You think you found your dream come true
+That's alright
+
+Because I'd rather leave you now
+'Cause it's gonna hurt more after while
+Yes, it will
+(Yes, it will)
+After while
+(After while)
+
+I can't take it
+We can't make it
+No need to feel ashamed
+
+Why try to hide it
+You can't deny it
+That a new love
+Has set your heart aflame
+
+Oh, how it hurts
+(Oh, how it hurts)
+For me to be blue, yes, it does
+Oh, how it hurts
+(Oh, how it hurts)
+To be without you, yes, it does
+
+But I'd rather end it now
+'Cause it's gonna hurt more after while
+Yes, it will
+(Yes, it will)
+After while
+(After while)
+
+And I'd rather end it now
+Before it's too late after while

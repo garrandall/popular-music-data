@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-fall-in-love-again-burt-bacharach
+lyrics_url: https://genius.com/Burt-bacharach-ill-never-fall-in-love-again-lyrics
 name: I'll Never Fall In Love Again
 rankings:
 - end_date: '1969-07-11'
@@ -15,4 +16,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
 ---
+What do you get when you fall in love?
+A guy with a pin to burst your bubble
+That's what you get for all your trouble
+I'll never fall in love again
+I'll never fall in love again
 
+What do you get when you kiss a guy?
+You get enough germs to catch pneumonia
+After you do, he'll never phone ya
+I'll never fall in love again
+Don't you know that I'll never fall in love again
+
+Dont' tell me what's it all about
+'Cause I've been there and I'm glad I'm out
+Out of those chains, those chains that bind you
+That is why I'm here to remind you
+
+What do you get when you fall in love?
+You only get a life of pain and sorrow
+So for at least until tomorrow
+I'll never fall in love again
+No, no, I'll never fall in love again
+
+I'm out of those chains, those chains that bind you
+That is why I'm here to remind you
+
+What do you get when you fall in love?
+You only get lies and pain and sorrow
+So for at least until tomorrow
+I'll never fall in love again
+Don't you know that I'll never fall in love again
+I'll never fall in love again

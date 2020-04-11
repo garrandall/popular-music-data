@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-your-head-up-argent
+lyrics_url: https://genius.com/Argent-hold-your-head-up-lyrics
 name: Hold Your Head Up
 rankings:
 - end_date: '1972-06-23'
@@ -67,4 +68,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
 ---
+And if it's bad
+Don't let it get you down, you can take it
+And if it hurts
+Don't let them see you cry, you can make it
 
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+
+And if they stare
+Just let them burn their eyes on you moving
+And if they shout
+Don't let it change a thing that you're doing
+
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+Hold your head up, woman
+Hold your head up, woman
+Hold your head up, woman
+Hold your head high
+
+And if they stare
+Just let them burn their eyes on you moving
+And if they shout
+Don't let it change a thing that you're doing
+
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up
+Hold your head up

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rainy-days-and-mondays-carpenters
+lyrics_url: https://genius.com/Carpenters-rainy-days-and-mondays-lyrics
 name: Rainy Days And Mondays
 rankings:
 - end_date: '1971-05-21'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
 ---
+Talkin' to myself and feelin' old
+Sometimes I'd like to quit, nothin' ever seems to fit
+Hangin' around, nothin' to do but frown
+Rainy days and Mondays always get me down
 
+What I've got they used to call the blues
+Nothin' is really wrong, feelin' like I don't belong
+Walkin' around, some kind of lonely clown
+Rainy days and Mondays always get me down
+
+Funny, but it seems I always wind up here with you
+Nice to know somebody loves me
+Funny, but it seems that it's the only thing to do
+Run and find the one who loves me
+(The one who loves me)
+
+What I feel has come and gone before
+No need to talk it out (Talk it out)
+We know what it's all about
+Hangin' around (Hangin' around)
+Nothin' to do but frown
+Rainy days and Mondays always get me down
+
+Funny but it seems that it's the only thing to do
+(Only thing to do)
+Run and find the one who loves me (Ooo)
+
+What I feel has come and gone before
+No need to talk it out (Talk it out)
+We know what it's all about
+Hangin' around (Hangin' around)
+Nothin' to do but frown
+Rainy days and Mondays always get me down
+Hangin' around (Hangin' around)
+Nothin' to do but frown
+Rainy days and Mondays always get
+Me down

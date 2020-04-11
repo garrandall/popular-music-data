@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-s-somebody-s-fool-connie-francis
+lyrics_url: https://genius.com/Connie-francis-everybodys-somebodys-fool-lyrics
 name: Everybody's Somebody's Fool
 rankings:
 - end_date: '1960-05-15'
@@ -79,4 +80,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+The tears I cried for you could fill an ocean
+But you don't care how many tears I cry
+And though you only lead me on and hurt me
+I couldn't bring myself to say goodbye
 
+'Cause everybody's somebody's fool
+Everybody's somebody's plaything
+And there are no exceptions to the rule
+Yes, everybody's somebody's fool
+
+I told myself it's best that I forget you
+Though I'm a fool, at least I know the score
+Yet darlin', I'd be twice as blue without you
+It hurts, but I come running back for more
+
+'Cause everybody's somebody's fool
+Everybody's somebody's plaything
+And there are no exceptions to the rule
+Yes, everybody's somebody's fool
+
+Someday you'll find someone you really care for
+And if her love should prove to be untrue
+You'll know how much this heart of mine is breakin'
+You'll cry for her the way I've cried for you
+
+Yes, everybody's somebody's fool
+Everybody's somebody's plaything
+And there are no exceptions to the rule
+Yes, everybody's somebody's fool

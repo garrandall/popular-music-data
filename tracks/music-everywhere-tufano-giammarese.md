@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: music-everywhere-tufano-giammarese
+lyrics_url: https://genius.com/Tufano-and-giammarese-music-everywhere-lyrics
 name: Music Everywhere
 rankings:
 - end_date: '1973-05-04'
@@ -40,4 +41,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
 ---
+Music everywhere
+Music fills the air
 
+Feeling it running down your spine
+Feel it taking over your mind
+Celebrate with a bottle of wine
+And some music everywhere
+
+Music fills the air
+
+You gotta move it, groove it
+You gotta soothe it, and use it
+You gotta know what it means to be
+What it means to be
+You gotta know
+What it means
+
+Music everywhere
+Music fills the air
+
+Feel it so you'll never let it go
+Take in some good old fashioned rock and roll
+Get up and dance away the blues you know
+And some music everywhere
+Music fills the air
+
+You gotta move it, groove it
+You gotta soothe it, and use it
+You gotta know what it means to be
+What it means to be
+You gotta know
+What it means
+
+Music everywhere
+Music fills the air
+
+Feel it running down your spine (music everywhere)
+Celebrate with a bottle of wine (music fills the air)
+Feel it so you'll never let it go (music everywhere)
+Take in some good old fashioned rock and roll (music fills the air)
+Get up and dance away the blues you know (music everywhere)
+Get up, get up and move
+Get up, get up move

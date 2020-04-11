@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-lion-sleeps-tonight-robert-john
+lyrics_url: https://genius.com/Robert-john-the-lion-sleeps-tonight-lyrics
 name: The Lion Sleeps Tonight
 rankings:
 - end_date: '1972-01-07'
@@ -75,4 +76,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
 ---
+We-de-de-de, de-de-de-de-de de, we-um-um-a-way
+We-de-de-de, de-de-de-de-de de, we-um-um-a-way
 
+A wimoweh, a-wimoweh a-wimoweh, a wimoweh
+A wimoweh, a-wimoweh a-wimoweh, a wimoweh
+A wimoweh, a-wimoweh a-wimoweh, a wimoweh
+A wimoweh, a-wimoweh a-wimoweh, a wimoweh
+In the jungle the mighty jungle the lion sleeps tonight
+In the jungle the quiet jungle the lion sleeps tonight
+
+(repeat Wimoweh chorus--with vocal ad lib similar to the intro in the
+Foreground)
+Near the village the peaceful village the lion sleeps tonight
+Near the village the quiet village the lion sleeps tonight
+
+(repeat wimoweh chorus)
+Hush my darling, don't fear my darling. The lion sleeps tonight
+Hush my darling, don't fear my darling.The lion sleeps tonight
+
+(repeat wimoweh chorus with vocal ad lib)

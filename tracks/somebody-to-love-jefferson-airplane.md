@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-to-love-jefferson-airplane
+lyrics_url: https://genius.com/Jefferson-airplane-somebody-to-love-lyrics
 name: Somebody To Love
 rankings:
 - end_date: '1967-04-07'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
 ---
+When the truth is found to be lies
+And all the joy within you dies
 
+
+Don't you want somebody to love
+Don't you need somebody to love
+Wouldn't you love somebody to love
+You better find somebody to love
+Love, love
+
+
+When the garden flowers
+Baby are dead, yes and
+Your mind, your mind is so full of red
+
+
+Don't you want somebody to love
+Don't you need somebody to love
+Wouldn't you love somebody to love
+You better find somebody to love
+
+
+Your eyes, I say your eyes may look like his
+Yeah but in your head, baby
+I'm afraid you don't know where it is
+
+
+Don't you want somebody to love
+Don't you need somebody to love
+Wouldn't you love somebody to love
+You better find somebody to love
+
+
+Tears are running
+They're all running down your breast
+And your friends, baby
+They treat you like a guest
+
+
+Don't you want somebody to love
+Don't you need somebody to love
+Wouldn't you love somebody to love
+You better find somebody to love

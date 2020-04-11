@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-bless-the-child-shania-twain
+lyrics_url: https://genius.com/Shania-twain-god-bless-the-child-lyrics
 name: God Bless The Child
 rankings:
 - end_date: '1997-01-03'
@@ -27,4 +28,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
 ---
-
+Hallelujah, hallelujah
+God bless the child who suffers
+Hallelujah, hallelujah
+God bless the young without mothers
+Hallelujah, hallelujah
+Let every man help his brother
+Hallelujah, hallelujah
+Let us all love one another
+Hallelujah, hallelujah
+Make all our hearts blind to color
+Hallelujah, hallelujah
+God bless the child who suffers

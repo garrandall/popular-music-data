@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tennessee-waltz-bobby-comstock
+lyrics_url: https://genius.com/Bobby-comstock-and-the-counts-tennessee-waltz-lyrics
 name: Tennessee Waltz
 rankings:
 - end_date: '1959-11-01'
@@ -35,4 +36,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
 ---
-
+Well, I was dancing with my baby to the Tenne, Tennessee waltz
+When an old friend I happened, I happened to see
+I introduced her to my baby and while, and while they were dancing
+My friend stole my baby from me
+Well, I remember, remember that night and that Tennessee waltz
+Well, you know just how much, how much I've lost
+Well, I lost my, lost my baby the night, the night
+That they were playing the beautiful Tennessee waltz
+Well, I remember, remember that night and that Tennessee waltz
+Well, you know just how much, just how much I've lost
+Well, I lost, I lost my baby the night, the night
+That they were playing the beautiful Tennessee waltz
+Tennessee waltz, Tennessee waltz

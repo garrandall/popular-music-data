@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-joker-went-wild-brian-hyland
+lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/The-Joker-Went-Wild
 name: The Joker Went Wild
 rankings:
 - end_date: '1966-07-22'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+Once I was a king, I thought always a king
+'Cause I just captured someone's heart
+But may I explain, I treated her mean
+And then my kingdom fell apart
 
+I found I couldn't sleep at night
+And when I found her gone from sight
+Found out I loved her
+Became a joker
+
+The joker went wild and he couldn't smile
+Because he had lost everything
+The joker went wild and he couldn't smile
+He felt no longer like a king
+
+Some friendly advice, treat her heart nice
+Or she won't stay for very long if at all
+If you think you're a king and you know everything
+Just remember, the joker or you'll fall from her arms
+
+You'll find you cannot sleep at night
+And when you find her gone from sight
+You'll find you loved her
+Become a joker
+
+The joker went wild and he couldn't smile
+Because he had lost everything
+The joker went wild and he couldn't smile

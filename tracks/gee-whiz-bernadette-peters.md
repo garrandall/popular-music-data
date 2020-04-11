@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gee-whiz-bernadette-peters
+lyrics_url: https://genius.com/Bernadette-peters-gee-whiz-lyrics
 name: Gee Whiz
 rankings:
 - end_date: '1980-04-04'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
 ---
+Gee whiz, look at his eyes
+Gee whiz, how they hypnotize
+He's got everything a girl could want
+Man, oh, man, what a prize
+(What a prize) ooh-ooh
 
+Gee whiz (gee whiz) he's all the joy
+Gee whiz (gee whiz) I could find in a boy
+He's awful nice, it's paradise
+I hope that I'm his decoy (his decoy)
+
+Heaven up above knows how much
+I love that fellow so
+Angels sing of the love that he brings
+I hope our love will grow and grow
+
+Oh, gee whiz (gee whiz) I love that guy
+Gee whiz (gee whiz) my, my, oh my
+There are things we could do
+I could say I love you
+
+There are things we could do
+I could say I love you
+But all I can say is
+Gee whiz

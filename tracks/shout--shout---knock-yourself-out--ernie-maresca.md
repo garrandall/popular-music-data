@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shout--shout---knock-yourself-out--ernie-maresca
+lyrics_url: https://genius.com/Ernie-maresca-shout-shout-knock-yourself-out-lyrics
 name: Shout! Shout! (Knock Yourself Out)
 rankings:
 - end_date: '1962-04-06'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
 ---
-
+SHOUT! SHOUT! (KNOCK YOURSELF OUT)
+Ernie Maresca
+Wop wop wop, wop wop adada dada
+Wop wop wop, wop wop adada dada
+Wop wop wop, wop wop adada dada
+Wop wop wop, wop wop adada dada
+Shout Shout knock yourself out..
+Comeon yell yell loud and swell
+You gotta Scream scream you know what I mean
+Put another dime in the record machine..
+Hey we're having a party now it's just begun
+We're all over here and we're having fun..
+Joe's all alone and he wants to be kissed
+While Mary's in the corner and she's doing the twist..
+So Let's Shout Shout knock yourself out..
+Comeon yell yell loud and swell
+You gotta Scream scream you know what I mean
+Put another dime in the record machine..
+Hey Play another song like A Runaround Sue
+Let's do a dance that we all can do..
+Turn that jukebox up mighty loud
+Let's liven up this crazy crowd..
+Comeon Shout Shout knock yourself out..
+Comeon yell yell loud and swell
+You gotta Scream scream you know what I mean
+Put another dime in the record machine..
+Every party that I intend
+Believe now it's the livin end
+Moving and groovin with some friends of mine..
+Saturday night now we're having a time ...
+So Lets..Shout Shout knock yourself out..
+Comeon yell yell loud and swell
+You gotta Scream scream you know what I mean
+Put another dime in the record machine..
+Hey Doing the fly with our hands in the sky..
+Yeah, foot stomping baby just a you and I
+School was out about a quarter to three
+And we're having fun it's plain to see..
+So Lets..Shout Shout knock yourself out..
+Comeon yell yell loud and swell
+You gotta Scream scream you know what I mean
+Put another dime in the record machine..

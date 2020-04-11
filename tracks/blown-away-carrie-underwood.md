@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blown-away-carrie-underwood
+lyrics_url: https://genius.com/Carrie-underwood-blown-away-lyrics
 name: Blown Away
 rankings:
 - end_date: '2012-05-25'
@@ -95,4 +96,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
 ---
+Dry lightning cracks across the skies
+Those storm clouds gather in her eyes
+Her daddy was a mean old mister
+Mama was an angel in the ground
+The weatherman called for a twister
+She prayed blow it down
 
+
+There’s not enough rain in Oklahoma
+To wash the sins out of that house
+There’s not enough wind in Oklahoma
+To rip the nails out of the past
+
+
+Shatter every window 'til it’s all blown away
+Every brick, every board, every slamming door blown away
+'Til there’s nothing left standing, nothing left of yesterday
+Every tear-soaked whiskey memory blown away
+Blown away
+
+
+She heard those sirens screamin' out
+Her daddy laid there, passed out on the couch
+She locked herself in the cellar
+Listened to the screaming of the wind
+Some people called it taking shelter
+She called it sweet revenge
+
+
+Shatter every window 'til it’s all blown away
+Every brick, every board, every slamming door blown away
+'Til there’s nothing left standing, nothing left of yesterday
+Every tear-soaked whiskey memory blown away
+Blown away
+
+
+There’s not enough rain in Oklahoma
+To wash the sins out of that house
+There’s not enough wind in Oklahoma
+To rip the nails out of the past
+
+
+Shatter every window 'til it’s all blown away
+Every brick, every board, every slamming door blown away
+'Til there’s nothing left standing, nothing left of yesterday
+Every tear-soaked whiskey memory blown away
+Blown away
+
+
+Blown away
+Blown away
+Blown away
+Blown away

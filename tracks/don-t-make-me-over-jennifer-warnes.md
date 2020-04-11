@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-make-me-over-jennifer-warnes
+lyrics_url: https://genius.com/Jennifer-warnes-dont-make-me-over-lyrics
 name: Don't Make Me Over
 rankings:
 - end_date: '1979-12-28'
@@ -35,4 +36,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
 ---
+Don't make me over
+Now that I can't make it without you
+Don't make me over
+I wouldn't change one thing about you
+Don't pick on the things I say, the things I do
+Just love me with all my faults, the way that I love you
+I'm begging you
 
+Don't make me over
+Now that I'd do anything for you
+Don't make me over
+Now that you know how I adore you
+Just take me inside your arms and hold me tight
+And always be by my side, if I am wrong or right
+I'm begging you
+
+Don't make me over
+Don't make me over
+Now that you've got me at your command
+
+Accept me for what I am
+Accept me for the things that I do
+Accept me for what I am
+Accept me for the things that I do
+
+Just take me inside your arms and hold me tight
+And always be by my side, if I am wrong or right
+I'm begging you
+
+Don't make me over
+Don't make me over
+Now that you've got me at your command
+
+Accept me for what I am
+Accept me for the things that I do
+Accept me for what I am
+Accept me for the things that I do
+
+By: Huazteko (03.06.2009)

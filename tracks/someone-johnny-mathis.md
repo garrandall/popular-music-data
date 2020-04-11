@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someone-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-someone-lyrics
 name: Someone
 rankings:
 - end_date: '1959-03-29'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
 ---
+Someone really love you guess who
+Someone really needs you guess why
+Someone wants to kiss you
+And hold you tight
+Someone wants to love you each and every night
+Someone wants to say hello
+I know he'll never let you go
 
+When he looks into your eyes
+I know that you will realize
+And guess just who that someone must be
+I know you'll know that someone is me
+
+Someone wants to kiss you
+And hold you tight
+Someone wants to love you each and every night
+
+Someone wants to say hello
+I know he'll never let you go
+
+When he looks into your eyes
+I know that you will realize
+And guess just who that someone must be
+I know you'll know that someone
+I know you'll know that someone is me

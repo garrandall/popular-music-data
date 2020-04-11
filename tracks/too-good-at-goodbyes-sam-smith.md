@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-good-at-goodbyes-sam-smith
+lyrics_url: https://genius.com/Sam-smith-too-good-at-goodbyes-lyrics
 name: Too Good At Goodbyes
 rankings:
 - end_date: '2017-10-06'
@@ -103,4 +104,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
 ---
+You must think that I'm stupid
+You must think that I'm a fool
+You must think that I'm new to this
+But I have seen this all before
 
+
+I'm never gonna let you close to me
+Even though you mean the most to me
+'Cause every time I open up, it hurts
+So I'm never gonna get too close to you
+Even when I mean the most to you
+In case you go and leave me in the dirt
+
+
+But every time you hurt me, the less that I cry
+And every time you leave me, the quicker these tears dry
+And every time you walk out, the less I love you
+Baby, we don't stand a chance, it's sad but it's true
+
+
+I'm way too good at goodbyes
+(I'm way too good at goodbyes)
+I'm way too good at goodbyes
+(I'm way too good at goodbyes)
+
+
+I know you're thinkin' I'm heartless
+I know you're thinkin' I'm cold
+I'm just protectin' my innocence
+I'm just protectin' my soul
+
+
+I'm never gonna let you close to me
+Even though you mean the most to me
+'Cause every time I open up, it hurts
+So I'm never gonna get too close to you
+Even when I mean the most to you
+In case you go and leave me in the dirt
+
+
+But every time you hurt me, the less that I cry
+And every time you leave me, the quicker these tears dry
+And every time you walk out, the less l love you
+Baby, we don't stand a chance, it's sad but it's true
+
+
+I'm way too good at goodbyes
+(I'm way too good at goodbyes)
+I'm way too good at goodbyes
+(I'm way too good at goodbyes)
+No way that you'll see me cry
+(No way that you'll see me cry)
+I'm way too good at goodbyes
+(I'm way too good at goodbyes)
+
+
+No
+No, no, no, no, no
+(I'm way too good at goodbyes)
+No, no, no, no
+No, no, no
+(I'm way too good at goodbyes)
+(No way that you'll see me cry)
+Ahhh
+(I'm way too good at goodbyes)
+
+
+'Cause every time you hurt me, the less that I cry
+And every time you leave me, the quicker these tears dry
+And every time you walk out, the less I love you
+Baby, we don't stand a chance, it's sad but it's true
+I'm way too good at goodbyes

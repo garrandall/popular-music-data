@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dang-me-roger-miller
+lyrics_url: https://genius.com/Roger-miller-dang-me-lyrics
 name: Dang Me
 rankings:
 - end_date: '1964-06-19'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
 ---
+Well, here I sit high, gettin' ideas
+Ain't nothin' but a fool would live like this
+Out all night and runnin' wild
+Woman's sittin' home with a month old child
 
+Dang me, dang me
+They oughta take a rope and hang me
+High from the highest tree
+Woman would you weep for me?
+
+Just sittin' 'round drinkin' with the rest of the guys
+Six rounds bought and I bought five
+I spent the groceries and a half the rent
+I lack fourteen dollars havin' twenty seven cents
+
+Dang me, dang me
+They oughta take a rope and hang me
+High from the highest tree
+Woman would you weep for me?
+
+They say roses are red and violets are purple
+And sugar's sweet and so is maple syrple
+Well I'm seventh out of seven sons
+My pappy was a pistol, I'm a son of a gun
+
+I said dang me, dang me
+They oughta take a rope and hang me
+High from the highest tree
+Woman would you weep for me?

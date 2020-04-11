@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-salt-in-my-tears-martin-briley
+lyrics_url: https://genius.com/Martin-briley-the-salt-in-my-tears-lyrics
 name: The Salt In My Tears
 rankings:
 - end_date: '1983-05-27'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
 ---
+I never did it, no I won't admit it
+Why should I lie for you anymore
+You never loved me, you pushed and shoved me
+I see the woman I never saw
 
+I saw you laugh when the knife was twisted
+It still hurts but the pain has shifted
+I'm looking back at the time that drifted by
+But I won't cry for the wasted years
+Cause you ain't worth the salt in my tears
+
+Feeling neglected, used and rejected
+You need a shoulder to lean upon
+Maybe you've picked him, found your next victim
+Don't worry, someone will come along
+
+I broke the spell that you kept me under
+I had enough of the rain and thunder
+I lost track of the time and I wonder why
+But I won't cry for the wasted years
+Cause you ain't worth the salt in my tears
+
+I sit around and drink a few more beers
+Until the memory just disappears
+Cause you ain't worth the salt in my tears
+
+I saw you laugh when the knife was twisted
+It still hurts but the pain has shifted
+I'm looking back at the time that drifted by
+But I won't cry for the wasted years
+Cause you ain't worth the salt in my tears
+
+Cause you ain't worth the salt in my tears
+Cause you ain't worth the salt in my tears

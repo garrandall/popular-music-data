@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: society-s-child--baby-i-ve-been-thinking--janis-ian
+lyrics_url: https://genius.com/Janis-ian-societys-child-lyrics
 name: Society's Child (Baby I've Been Thinking)
 rankings:
 - end_date: '1967-06-02'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+Come to my door, baby
+Face is clean and shining black as night
+My mother went to answer you know
+That you looked so fine
+Now I could understand your tears and your shame
+She called you "boy" instead of your name
+When she wouldn't let you inside
+When she turned and said
+"But honey, he's not our kind."
 
+
+She says I can't see you any more, baby
+Can't see you anymore
+
+
+Walk me down to school, baby
+Everybody's acting deaf and blind
+Until they turn and say, "Why don't you stick to your own kind."
+My teachers all laugh, their smirking stares
+Cutting deep down in our affairs
+Preachers of equality
+Think they believe it, then why won't they just let us be?
+
+
+They say I can't see you anymore baby
+Can't see you anymore
+
+
+One of these days I'm gonna stop my listening
+Gonna raise my head up high
+One of these days I'm gonna raise my glistening wings and fly
+But that day will have to wait for a while
+Baby I'm only society's child
+When we're older things may change
+But for now this is the way, they must remain
+
+
+I say I can't see you anymore baby
+Can't see you anymore
+No, I won't see you anymore, baby

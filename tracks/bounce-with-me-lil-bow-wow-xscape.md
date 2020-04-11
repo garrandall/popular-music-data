@@ -186,7 +186,7 @@ But I was brought up with respect
 When I turn 16 I'mma call her though
 And show her how to ride with a baller yo
 Let her know why it wouldn't hurt her
-To fall in love with a {nigga} like me a long time ago
+To fall in love with a  like me a long time ago
 Sing-a-long now!
 
 

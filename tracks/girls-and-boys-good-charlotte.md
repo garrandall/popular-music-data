@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls-and-boys-good-charlotte
+lyrics_url: https://genius.com/Good-charlotte-girls-and-boys-lyrics
 name: Girls And Boys
 rankings:
 - end_date: '2003-08-01'
@@ -59,4 +60,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-18'
 ---
+Educated, with money
+He's well dressed, not funny
+And not much to say in most conversations
+But he'll foot the bill in all situations
+'Cause he pays for everything
 
+
+Girls don't like boys
+Girls like cars and money
+Boys will laugh at girls when they're not funny
+
+
+Paper or plastic
+Don't matter
+She'll have it
+Vacations and shopping sprees
+These are a few of her favorite things
+She'll get what she wants if she's willing to please
+His type of girl always comes with a fee
+Hey now, there's nothing for free
+
+
+Girls don't like boys
+Girls like cars and money
+Boys will laugh at girls when they're not funny
+
+
+And these girls like these boys, like these boys like these girls
+The girls with the bodies like boys with Ferraris
+Girls don't like boys
+Girls like cars and money
+Let's go!
+Hey hey!
+
+
+
+
+Girls don't like boys
+Girls like cars and money
+Boys will laugh at girls when they're not funny
+
+
+And these girls like these boys, like these boys like these girls
+The girls with the bodies like boys with Ferrari's
+Girls don't like boys
+Girls like cars and money
+
+
+All of these boys (Yeah) and all of these girls
+Losing their souls in a material world
+All of these boys (Yeah) and all of these girls
+Losing their souls in a material world
+All of these boys (Yeah) and all of these girls
+Losing their souls in a material world
+All of these boys (Yeah) and all of these girls
+Losing their souls in a material world

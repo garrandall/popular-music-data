@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: neanderthal-man-hotlegs
+lyrics_url: https://genius.com/Hotlegs-neanderthal-man-lyrics
 name: Neanderthal Man
 rankings:
 - end_date: '1970-08-28'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
 ---
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
 
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+Neanderthal man
+Neanderthal man
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world
+
+I'm a Neanderthal man
+You're a Neanderthal girl
+Let's make Neanderthal love
+In this Neanderthal world

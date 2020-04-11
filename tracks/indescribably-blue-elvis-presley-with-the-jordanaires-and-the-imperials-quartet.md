@@ -1,9 +1,12 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires and The Imperials Quartet
-features: []
+- Elvis Presley
+- The Jordanaires
+features:
+- The Imperials Quartet
 genres: []
 key: indescribably-blue-elvis-presley-with-the-jordanaires-and-the-imperials-quartet
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Imperials-Quartet-The-Jordanaires/Indescribably-Blue-Take-1-2
 name: Indescribably Blue
 rankings:
 - end_date: '1967-02-03'
@@ -39,4 +42,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
 ---
+Our friends all ask me
+The last time I saw you
+I smile and tell them
+It's been a day or two
+There'll be no way to explain it
+The way that I miss you
+And my love, you have left me
+Indescribably blue
 
+I talk to your picture
+My favorite one of you
+I wish that you were here with me
+But what good would it do
+Having no way to tell you
+The pain that I've been through
+Oh, my love, you have left me
+Indescribably blues
+Yes, my love, you have left me
+Indescribably blue

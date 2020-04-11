@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamy-eyes-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-dreamy-eyes-lyrics
 name: Dreamy Eyes
 rankings:
 - end_date: '1958-11-09'
@@ -99,4 +100,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+Dreamy eyes
+You've got such dreamy eyes
+When I'm away from you
+I'm so alone and blu-u-ue
+When I take you home
+I feel so all alone
+And then I realize
+I love you, Dreamy Eyes
 
+Your eyes hold a dream of a love for two
+A love so warm and rare
+I hope to see that dream come true
+A dream we both can share
+Dreamy eyes
+You've got such dreamy eyes
+And I see paradise
+Within your dreamy eyes
+
+Your eyes hold a dream of a love for two
+A love so warm and rare
+I hope to see that dream come true
+A dream we both can share
+Dreamy eyes
+You've got such dreamy eyes
+And I see paradise
+Within your dreamy eyes

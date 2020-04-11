@@ -1,7 +1,8 @@
 ---
 artists:
-- Paul Anka with Odia Coates
-features: []
+- Paul Anka
+features:
+- Odia Coates
 genres: []
 key: -you-re--having-my-baby-paul-anka-with-odia-coates
 name: (You're) Having My Baby

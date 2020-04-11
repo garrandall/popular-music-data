@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: souls-rick-springfield
+lyrics_url: https://genius.com/Rick-springfield-souls-lyrics
 name: Souls
 rankings:
 - end_date: '1983-10-21'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
 ---
+It all started here, she was a girl form the midwest
+He was a stranger in a strange land
+Same old story
+He came for the glory
+She came looking for a young man's hand
 
+But they found bright lights
+And endless nights
+And men just used her innocent ways
+He found it all so pretty, hypnotized by the city
+They lost sight of the reason
+They lost count of the days
+
+And they were two souls searching for each other
+One spirit looking for the other
+Caught between a hard hard place and a rock
+
+Two souls searching for heaven
+Rolling the dice looking for a seven
+To the tick, tick, ticking of time
+Gotta beat the clock
+
+Too many nights on the ledge
+He acquired a knife-edge
+Still the city didn't acquiesce to his demands
+Some nights she cried for pity in the heart of the city
+The city smacked her hands
+
+He met her one endless night
+Her eyes had a light
+There was something familiar about the smell of her skin
+He held her tighter and tighter
+As he danced inside her
+She know from the moment that she let him in
+
+They'd been two souls searching for each other
+One spirit looking for the other
+Caught between a hard hard place and a rock
+
+Two souls searching for heaven
+Rolling the dice looking for a seven
+To the tick, tick, ticking of time
+Gotta beat the clock
+Beat the clock
+Beat the clock
+Beat the clock
+
+Two souls searching for each other
+One spirit looking for the other
+Caught between a hard hard place and a rock
+
+Two souls searching for heaven
+Rolling the dice looking for a seven
+To the tick, tick, ticking of time
+Gotta beat the clock

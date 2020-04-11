@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-care-the-moments
+lyrics_url: https://genius.com/The-moments-if-i-didnt-care-lyrics
 name: If I Didn't Care
 rankings:
 - end_date: '1970-08-28'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
 ---
+If I didn't care
+More than words can say
+If I didn't care
+Would I feel this way?
+If this isn't love
+Then why do I thrill?
+And what makes my head go round and round
+While my heart stands still
 
+
+If I didn't care
+Would it still be the same?
+Would my every prayer begin and end
+With just, just your name?
+And would I be sure
+That this is love beyond compare?
+
+
+Would all this be true
+If I didn't care
+For you?

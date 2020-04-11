@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-silly-girl-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-come-back-silly-girl-lyrics
 name: Come Back Silly Girl
 rankings:
 - end_date: '1962-02-23'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
+I go round moping, and I go around blue
+I made you cry cause I had been untrue
+And now I cry for you
 
+CHORUS:
+Won't you come back silly girl
+Come back to me
+Come back silly girl can't you see
+I'm in love
+Your mother tells me that you're not at home
+Each time I call you on the telephone
+Oh I'm so lost and alone
+
+CHORUS
+
+Come back, my love
+Come back, my love
+Don't know how long I can go on this way
+I think of you most every day
+I only hope and pray
+
+CHORUS
+
+Come back silly girl can't you see I'm in love
+Come back silly girl can't you see I'm in love
+Come back silly girl can't you see I'm in love
+
+FADE

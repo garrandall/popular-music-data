@@ -1,9 +1,10 @@
 ---
 artists:
-- Garfunkel
+- Art Garfunkel
 features: []
 genres: []
 key: all-i-know-garfunkel
+lyrics_url: https://genius.com/Art-garfunkel-all-i-know-lyrics
 name: All I Know
 rankings:
 - end_date: '1973-09-21'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
+I bruise you, you bruise me
+We both bruise too easily
+Too easily to let it show
+I love you, and that's all I know
 
+All my plans have fallen through
+All my plans depend on you
+Depend on you to help them grow
+I love you, and that's all I know
+
+When the singer's gone
+Let the song go on...
+
+But the ending always comes at last
+Endings always come too fast
+They come too fast, but they pass to slow
+I love you, and that's all I know
+
+When the singer's gone
+Let the song go on
+It's a fine line between the darkness and the dawn
+They say the darkest night
+There's a light beyond
+
+But the ending always comes at last
+Endings always come too fast
+They come too fast, but they pass too slow
+I love you, and that's all I know
+That's all I know
+That's all I know

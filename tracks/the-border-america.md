@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-border-america
+lyrics_url: https://genius.com/America-the-border-lyrics
 name: The Border
 rankings:
 - end_date: '1983-06-24'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
 ---
+You must be lost in a faraway land
+I searched forever your footprints in the sand
+I feel you need me, I have to answer
+That desperate call that I do not understand
 
+A burning bridge, a lonely highway
+Another dark night thinking alone
+What could've happened, am I just dreaming
+It doesn't matter but there's one thing that I know
+
+If I could make it to the border
+If I could make it to the coast
+If I could make it to the border
+I'd be in the arms of the girl I love the most
+
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+
+So on and on I keep on running
+To make the border before the light
+Just one more river, then I can make it
+Again you'll be in my arms tonight
+
+If I could make it to the border
+If I could make it to the coast
+If I could make it to the border
+I'd be in the arms of the girl I love the most
+
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+
+If I could make it to the border
+If I could make it to the coast
+If I could make it to the border
+I'd be in the arms of the girl I love the most
+
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border
+Do, do, do, do, do, do, do, do, do, do, do, do, do
+Make it to the border ...

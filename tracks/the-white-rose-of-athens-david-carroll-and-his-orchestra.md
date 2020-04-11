@@ -1,6 +1,6 @@
 ---
 artists:
-- David Carroll And His Orchestra
+- David Carroll
 features: []
 genres: []
 key: the-white-rose-of-athens-david-carroll-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-time-will-tell-nelson
+lyrics_url: https://genius.com/Nelson-only-time-will-tell-lyrics
 name: Only Time Will Tell
 rankings:
 - end_date: '1991-06-28'
@@ -63,4 +64,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
 ---
+Hello, my friend, it sure has been a while
+I don't know where the time has gone
+But I've really missed your smile
+It's been too long
 
+I've got so much to say
+That I don't know where to start
+Ever since we went our separate ways
+There's been a big hole in my heart
+
+(But) as I recall, It was you who said goodbye
+Now you're asking me to give it one more try
+Well only time will tell
+If you're gonnastand beside me
+
+Through both Heaven and Hell
+I wanna know that you're behind me
+But only time will tell
+If what we have together's
+
+Gonna' last forever more
+And so my friend, I hope you understand
+It's hard to put my trust in you
+'Cause I'm afraid you'll leave again
+I want to believe you've finally seen the light
+That you've missed my love and you want to make it right
+
+Chorus:
+But only time will tell
+If you're gonnastand beside me
+Through both Heaven and Hell
+I wanna know that you're behind me
+But only time will tell
+If what we have together's
+Gonna' last forever more
+
+I got no way of knowing
+What the future's gonna bring
+So I'll just listen to my heart
+'Cause it's never lied to me
+And what is meant to be
+Only time will tell
+If you're gonnastand beside me
+Through both Heaven and Hell
+I wanna know that you're behind me
+But only time will tell
+If what we have together's
+Gonna' last forever
+Time will tell
+Do you believe in me?
+Time will tell
+If we're gonna be together
+Only time will
+I want a love to last forever
+Time will tell
+Only time will tell

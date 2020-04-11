@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-busy-sean-paul
+lyrics_url: https://www.musixmatch.com/lyrics/Sean-Paul-vs-Rihanna/Get-Busy-VS-Pon-de-Replay
 name: Get Busy
 rankings:
 - end_date: '2003-02-28'
@@ -135,4 +136,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
 ---
+Come Mr. DJ song pon de replay
+Come Mr. DJ won't you turn the music up
+All the gal pon the dance floor
+Wanting some more what
+Come Mr. DJ won't you turn the music up
+(Repeat)
 
+It goes 1 by 1 even 2 by 2
+Everybody on the floor let me show you
+How we do
+Let's Go
+"Dip it low then you bring it up slow"
+Wine it up 1 time wine it back once more
+
+Run, Run, Run, Run
+Everybody move run
+Let me see you move and
+Rock it 'til the grooves done
+Shake it 'til the moon becomes the sun (Sun)
+Everybody in the club give me a run (Run)
+If you ready to move say it (Yeah Yeah)
+One time for your mind say it (Yeah Yeah)
+Well I'm ready for ya
+Come let me show ya
+You want to groove I'ma show you how to move
+Come come
+
+Come Mr. DJ song pon de replay
+Come Mr. DJ won't you turn the music up
+All the gal pon the dance floor
+Wantin some more what
+Come Mr. DJ won't you turn the music up
+(Repeat)
+
+Hey Mr.
+Please Mr. DJ
+Tell me if you hear me
+Turn the music up
+(Repeat)
+
+It goes 1 by 1 even 2 by 2
+Everybody in the club gon'
+Be rockin when i'm through
+Let the bass from the speakers
+Run through ya sneakers
+Move both ya feet and run to the beat
+
+Run, Run, Run, Run
+Everybody move run
+Let me see you move and
+Rock it 'til the grooves done
+Shake it 'til the moon becomes the sun (Sun)
+Everybody in the club give me a run (Run)
+If you ready to move say it (Yeah Yeah)
+One time for your mind say it (Yeah Yeah)
+Well i'm ready for ya
+Come let me show ya
+You want to groove i'ma show you how to move
+Come come
+
+Come Mr. DJ song pon de replay
+Come Mr. DJ won't you turn the music up
+All the gal pon the dancefloor
+Wantin some more what
+Come Mr. DJ won't you turn the music up
+(Repeat)
+
+Hey Mr.
+Please Mr. DJ
+Tell me if you hear me
+Turn the music up
+(Repeat)
+Okay
+
+Everybody get down if you FEEL me
+Come and put your
+Hands up to the ceiling
+(Repeat Til Fade)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-thing-enuff-z-nuff
+lyrics_url: https://genius.com/Enuff-znuff-new-thing-lyrics
 name: New Thing
 rankings:
 - end_date: '1989-10-27'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
 ---
+Information came about her
+Suddenly I live without her
+Turn my stereo up louder
+I don't want to hear about her
+Took myself a small vacation
+Kind of on investigation
+Checking out a new sensation
+Finding much invigoration
+Hand is on the buzzer
+And I'm walking through the door
 
+Get high on a new thing
+Get high on a new thing
+Get high, high on a new thing
+
+Everybody wants to find it
+Just they're all so narrow-minded
+See a hill, they've got to climb it
+May be pots of gold behind it
+Worry, worry is your answer
+If you like your wrinkles faster
+Nursing old things make them last
+The way we did it in the past
+With everybody telling you
+"You ain't got no respect!"
+
+Repeat Chorus

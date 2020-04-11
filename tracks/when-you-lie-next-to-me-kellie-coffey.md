@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-lie-next-to-me-kellie-coffey
+lyrics_url: https://genius.com/Kellie-coffey-when-you-lie-next-to-me-lyrics
 name: When You Lie Next To Me
 rankings:
 - end_date: '2002-06-07'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
+Oh
 
+Maybe tonight
+We could close the door and lock ourselves inside
+Take time to feel
+I don't want to miss the chance to be so real
+The days all fly away and I forget the truth
+Everything that matters, is, in this room
+
+When you lie next to me
+Breathing the air I breathe
+We don't have to speak, an' just be
+Our love's a precious thing
+Don't want to waste a day
+Or one more minute without you in it
+Life is so sweet
+When you lie next to me
+
+My heart is yours
+And every part of me still wants to give you more
+More time to love
+'Cos you never know when life will leave us
+I want to take in all the beauty here
+Oh, let the world around us just disappear
+
+When you lie next to me
+Breathing the air I breathe
+We don't have to speak, an' just be
+Our love's a precious thing
+Don't want to waste a day
+Or one more minute without you in it
+Life is so sweet
+When you lie next to me
+Oh lie next to me
+
+When you lie next to me
+Breathing the air I breathe
+We don't have to speak, an' just be
+Our love's a precious thing
+Don't want to waste a day
+Or one more minute without you in it
+Life is so sweet
+When you lie next to me
+
+When you lie next to me

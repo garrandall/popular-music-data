@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-don-t-let-it-get-you-down-the-o-jays
+lyrics_url: https://genius.com/The-ojays-girl-dont-let-it-get-you-down-lyrics
 name: Girl Don't Let It Get You Down
 rankings:
 - end_date: '1980-08-29'
@@ -51,4 +52,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
 ---
+Don't let it get you down, girl
+Don't let it get you down
+I'll bring you back around, girl
+I'll bring you back around
 
+He broke your heart
+And made you cry
+He took your love
+Then said goodbye
+
+You live and you learn
+Experience will teach you every time
+I told you I'd be standing here
+'Cause I'm the next in line
+
+Don't you let it get you down, girl
+Don't let it get you down
+I'll bring you back around, girl
+I'll bring you back around
+
+He promised you
+Security
+But it was only
+Fantasy
+
+Here's my shoulder
+It's for you to cry, to cry on
+I offer you a true love
+A love you can rely on
+
+Don't let it get you down, girl
+Don't let it get you down
+I'll be standin' right there to bring you around, girl
+I'll bring you back around
+
+Here's my shoulder
+It's for you to cry, to cry on
+I offer you a true love
+A love you can rely on
+
+Don't let it get you down, girl
+Don't let it get you down
+I'll be standin' right there to bring you back around, girl
+I'll bring you back around
+
+He broke your heart and made you cry
+Don't let it get you down
+Here's my shoulder to cry on
+Don't let it get you down
+
+He took your love and said bye, bye-bye
+Don't let it get you down, get you down
+So I'm offerin' you true love
+So don't let it get you down
+
+He promised you security
+Don't let it get you down
+Everybody knows, everybody knows that you're too fine, too fine
+Don't let it get you down

@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: you-earth-wind-fire
+lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-feat-Brian-McKnight/To-You
 name: You
 rankings:
 - end_date: '1980-11-28'
@@ -57,4 +56,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+Don't try to hide the way you feel
+'Cause deep inside you know, you can feel it
+What's inside your heart can't be concealed
+'Cause now or then you'll find, you reveal it
+So bring your body close to me, and let me make it right
+'Cause I can see forever in your eyes
 
+So, take this love, baby, I surrender
+Take this love, baby love me tender
+Take this love
+All I wanna do is give my love to you

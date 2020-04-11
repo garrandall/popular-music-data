@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barbara-ann-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-barbara-ann-lyrics
 name: Barbara Ann
 rankings:
 - end_date: '1966-01-07'
@@ -51,4 +52,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
 ---
+A bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar Barbara Ann
 
+
+Went to a dance, looking for romance
+Saw Barbara Ann, so I thought I'd take a chance
+On Barbara Ann
+Barbara Ann, Barbara Ann
+Take my hand
+Barbara Ann, Barbara Ann
+Take my hand
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann
+
+
+A bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar Barbara Ann
+
+
+(Let's go now!)
+(Ow!)
+(Carl)
+(Hal, and his famous ashtray!)
+(You smell like Rocky. You're always scratchin' it.)
+(Hey, come on!)
+(Scratch it, Carl, scratch it, baby, right over there. Down a little lower. Down a little lower!)
+(Saw-- Tried--)
+
+Tried Peggy Sue
+Tried Peggy Lou
+Tried Mary Lou
+But I knew she wouldn't do
+Barbara Ann, Barbara Ann
+Take my hand
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar Barbara Ann
+
+A bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar Barbara Ann
+
+
+Barbara Ann, Barbara Ann
+Barbara Ann, Barbara Ann
+Barbara Ann, Barbara Ann
+Barbara Ann, Barbara Ann
+
+
+(Thanks, Dean)

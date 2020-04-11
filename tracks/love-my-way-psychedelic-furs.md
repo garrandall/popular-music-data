@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-my-way-psychedelic-furs
+lyrics_url: https://genius.com/The-psychedelic-furs-love-my-way-lyrics
 name: Love My Way
 rankings:
 - end_date: '1983-03-11'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
+There's an army on the dance floor
+It's a fashion with a gun, my love
+In a room without a door
+A kiss is not enough in
 
+Love my way, it's a new road
+I follow where my mind goes
+
+They'd put us on a railroad
+They'd dearly make us pay
+For laughing in their faces and making it our way
+There's emptiness behind their eyes
+There's dust in all their hearts
+They just want to steal us all and take us all apart
+But not in
+
+Love my way, it's a new road
+I follow where my mind goes
+Love my way, it's a new road
+I follow where my mind goes
+
+Love my way, it's a new road
+I follow where my mind goes
+
+So swallow all your tears, my love
+And put on your new face
+You can never win or lose
+If you don't run the race
+
+Yeah, yeah, yeah
+Aw oh, Aw oh, Aw oh
+Aaaaaa, Aaaaaa, Aaaaaa, Aaaaaaa

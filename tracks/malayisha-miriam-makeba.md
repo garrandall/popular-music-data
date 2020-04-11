@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: malayisha-miriam-makeba
+lyrics_url: https://www.musixmatch.com/lyrics/Miriam-Makeba/Malayisha
 name: Malayisha
 rankings:
 - end_date: '1968-02-02'
@@ -19,4 +20,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
+Ooh, ba ba ba,
+Ooh ba ba ba
+Ooh ba ba ba,
+Ooh ba ba ba
+Ooh, ba ba ba,
+Ooh ba ba ba
+Ooh ba ba ba,
+Ooh ba ba ba
 
+Ezane zembe Malayisha
+Ezane zembe Sigawule
+Ezane zembe Malayisha
+Ezane zembe Sigawule
+
+Ebathi bathi bathi vula Malayisha
+Ebathi bathi bathi vula Sigawule
+Ebathi bathi bathi vula Malayisha
+Ebathi bathi bathi vula Sigawule
+
+Bathi! Ezane zembe Malayisha
+Ezane zembe Sigawule
+Ezane zembe Malayisha
+Ezane zembe Sigawule
+
+In South Africa
+Malayisha
+Is a lumberjack
+Big and strong
+With a beautiful back
+Girls gather around and try to see
+Just how Malayisha chops that tree
+
+Bathi, Izembe...
+Bathi, Izembe...
+
+Ebathi bathi bathi vula Malayisha
+Bathi bathi bathi vula Sigawule
+Ebathi bathi bathi vula Malayisha
+Bathi bathi bathi vula Sigawule
+
+Ooh, ba ba ba,
+Ooh ba ba ba
+Ooh ba ba ba,
+Ooh ba ba ba
+Ooh, ba ba ba,
+Ooh ba ba ba (Bathi, Izembe...)
+Ooh ba ba ba,
+Ooh ba ba ba
+Ooh, ba ba ba,
+Ooh ba ba ba
+Ooh ba ba ba,
+Ooh ba ba ba
+Ooh, ba ba ba, (Bathi Izembe...)
+Ooh ba ba ba
+Ooh ba ba ba,
+Ooh ba ba ba

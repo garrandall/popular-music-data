@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-because-al-martino
+lyrics_url: https://genius.com/Al-martino-i-love-you-because-lyrics
 name: I Love You Because
 rankings:
 - end_date: '1963-04-12'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
 ---
+I love you because you understand, dear
+Every single thing I try to do
+You're always there to lend a helping hand, dear
+I love you most of all because you're you
 
+No matter what the world may say about me
+I know your love will always see me through
+
+I love you for the way you never doubt me
+But, most of all I love you 'cause you're you
+
+(I love you because the future's brighter)
+(The door to happiness shall open wide)
+
+No matter what the world may say about me
+I know your love will always see me through
+
+I love you for a hundred thousand reasons
+But, most of all I love you 'cause you're you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: togetherness-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-togetherness-lyrics
 name: Togetherness
 rankings:
 - end_date: '1960-09-25'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
+Two hearts are
+Better than one heart
+Four lips are sweeter than two
+Come close to me
+Let's kiss and see
+What togetherness, can do
 
+Two dreams are
+Better than one dream
+Four arms can make them come true
+Let's pool our love
+Follow the school
+Love togetherness, right through
+
+There's strength in numbers
+Everybody knows
+Between us, we'll have
+Twenty fingers, twenty toes
+
+No one should ever be lonely
+No one should ever be blue
+Love's not for one
+It's made for two
+So together let's find
+Togetherness, for two
+
+(Let's pool our love
+Follow the rules
+Love togetherness
+Right through)
+
+There's strength in numbers
+Everybody knows
+Between us we'll have
+Twenty fingers, twenty toes
+
+No one should ever be lonely
+No one should ever be blue
+Love's not for one
+It's made for two
+So together let's try
+Togetherness, for two

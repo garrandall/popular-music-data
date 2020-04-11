@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-but-for-the-grace-of-god-go-i-machine
+lyrics_url: https://genius.com/The-machine-there-but-for-the-grace-of-god-go-i-lyrics
 name: There But For The Grace Of God Go I
 rankings:
 - end_date: '1979-03-23'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+Carlos and Carmen Vidal just had a child
+A lovely girl with a crooked smile
+Now they gotta split 'cause the Bronx ain't fit
+For a kid to grow up in
+Let's find a place they say, somewhere far away
+With no blacks, no Jews and no gays
 
+There but for the grace of God go I
+
+Papi and the family left the dirty streets
+To find a quiet place overseas
+And year after year the kid has to hear
+The do's, the don'ts and the dears
+And when she's ten years old she digs that Rock 'n' Roll
+But Papi bans it from home
+
+There but for the grace of God go I
+
+Baby, she turns out to be a natural freak
+Gaining weight and losing sleep
+And when she's sweet sixteen, she packs her things and leaves
+With a man she met on the street
+Carmen starts to bawl, bangs her head to the wall
+Too much love is worse than none at all
+
+There but for the grace of God go I

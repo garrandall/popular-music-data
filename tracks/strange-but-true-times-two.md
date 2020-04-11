@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strange-but-true-times-two
+lyrics_url: https://genius.com/Times-two-strange-but-true-lyrics
 name: Strange But True
 rankings:
 - end_date: '1988-03-18'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
 ---
+I, I've got the room upstairs from you
+It's a room without a view
+But all that could change if I just get through, up to you
+And I, keep my feelings to myself
+I've never reached for someone else
+But lately I'm thinking how cold I've been
+And now I begin to see that I should
+Dare to fall and with your help tear down the walls
 
+Strange but true, I think I've got a thing for you, yeah
+Strange but true, I've really got a thing for you, yeah
+
+And so, here I am with no disguise
+You're not the only one who's surprised
+But something so simple could so long to be
+Can't you see that opposites, they say attract
+It's just a typical reaction
+
+Strange but true, I think I've got a thing for you, yeah
+Strange but true, I've really got a thing for you, yeah
+
+I ain't gonna look much further now
+And I ain't gonna try to reason how
+'Cause I know if this turns into love
+Strange but true, it's good enough
+
+Maybe I should dare to fall
+And with your help tear down these walls
+That opposites, they say attract
+It's just a typical reaction
+
+Strange but true, I think I've got a thing for you, yeah
+Strange but true, I've really got a thing for you, yeah
+Strange but true, I think I've got a thing for you, yeah
+Strange but true, I've really got a thing for you, yeah
+Strange but true, I think I've got a thing for you, yeah
+
+Strange but true, I've really got a thing for you, yeah

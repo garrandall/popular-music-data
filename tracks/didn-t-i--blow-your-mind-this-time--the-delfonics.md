@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: didn-t-i--blow-your-mind-this-time--the-delfonics
+lyrics_url: https://genius.com/The-delfonics-didnt-i-blow-your-mind-this-time-lyrics
 name: Didn't I (Blow Your Mind This Time)
 rankings:
 - end_date: '1970-01-16'
@@ -63,4 +64,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
 ---
+I gave my heart
+And soul to you, girl
+Didn't I do it, baby
+Didn't I do it, baby
 
+Gave you a love
+You never knew, girl, whoa
+Didn't I do it, baby
+Didn't I do it, baby
+
+I tried so many times
+And that's no lie
+It seems to make you laugh
+Each time I try
+
+Didn't I blow your mind this time
+Didn't I (Oh, baby)
+Didn't I blow your mind this time (Baby)
+Didn't I (Listen)
+
+I thought that heart
+Of yours was true, girl
+Now, didn't I think it, baby
+Didn't I think it, baby
+
+But this time
+I'm really leavin' you girl, whoa
+Hope you know it, baby
+Hope you know it, baby
+
+Ten times or more
+Yes, I've walk out the door
+Get this into your head
+There'll be no more
+
+Didn't I blow your mind this time
+Didn't I (Oh, ho, ho, yeah, yeah)
+Didn't I blow your mind this time
+Didn't I
+
+Didn't I do it, baby
+Didn't I do it, baby
+Didn't I do it, baby
+Didn't I do it, baby
+
+Ten times or more
+Yes, I've walk out the door
+Get this into your head
+There'll be no more
+
+Didn't I blow your mind this time
+Didn't I (Oh, baby, baby, baby)
+Didn't I blow your mind this time
+Didn't I (I got to leave you, baby) (Hey, baby)
+
+Didn't I blow your mind this time
+Didn't I (Oh'oh'oh')
+Didn't I blow your mind this time
+Didn't I

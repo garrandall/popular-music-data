@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-wrong-patrick-simmons
+lyrics_url: https://genius.com/Patrick-simmons-so-wrong-lyrics
 name: So Wrong
 rankings:
 - end_date: '1983-03-25'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+They were young
+Living for the moment
+Hearts on fire
+Burning in the night
+Hopeless love
+Driving them together
+I don't know why
 
+Vicious words
+Cut them like a razor
+Filthy lies
+Tearing them apart
+So they run
+Clinging to each other
+Can't get too far
+
+So wrong, so wrong
+How could they be
+So wrong, so wrong
+How could love be so wrong
+I don't know why
+
+Late at night
+Tryin for the border
+Through the police rendezvous
+Warning shots
+Flyin all around
+What can they do
+
+So wrong, so wrong
+How could they be
+So wrong, so wrong
+How could love be so wrong
+I don't know why
+(repeat)

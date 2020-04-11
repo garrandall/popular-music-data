@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-thing-the-troggs
+lyrics_url: https://genius.com/The-troggs-wild-thing-lyrics
 name: Wild Thing
 rankings:
 - end_date: '1966-07-01'
@@ -52,3 +53,27 @@ rankings:
   start_date: '1966-09-03'
 ---
 
+
+Wild thing you make my heart sing
+You make everything groovy, wild thing
+Wild thing, I think I love you
+But I wanna know for sure
+Come on, hold me tight, I love you
+
+
+
+Wild thing you make my heart sing
+You make everything groovy, wild thing
+
+
+
+Wild thing you make my heart sing
+You make everything groovy, wild thing
+Wild thing, I think you move me
+But I wanna know for sure
+So come on and hold me tight, you move me
+
+Wild thing, you make my heart sing
+You make everything groovy, wild thing
+Oh come on, come on wild thing
+Check it, check it wild thing

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-ready-to-bounce-brooklyn-bounce
+lyrics_url: https://genius.com/Brooklyn-bounce-get-ready-to-bounce-lyrics
 name: Get Ready To Bounce
 rankings:
 - end_date: '1998-04-17'
@@ -23,4 +24,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
 ---
+These are the sounds of Brooklyn Bounce
+Get ready to bounce, to bounce
+Brooklyn Bounce
+Get ready, get ready, get ready, get ready
 
+Get ready to bounce
+Get ready to bounce
+Get ready to bounce
+Get ready to bounce
+
+Get down
+Get down
+Get down
+Get down
+
+Get ready to bounce
+Get ready to bounce
+Get down
+Get down
+
+Boomster
+Boomster
+Boomster
+Boomster
+
+Get ready, get ready to bounce
+Get ready to bounce
+Get ready to bounce
+Get ready to bounce
+Bounce, Brooklyn Bounce
+
+Get ready to bounce
+Get ready to bounce
+Brooklyn Bounce

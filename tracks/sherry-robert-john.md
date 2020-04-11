@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sherry-robert-john
+lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/Sherry
 name: Sherry
 rankings:
 - end_date: '1980-10-31'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
 ---
+Sheeeeery baby
+Sherry, can you come out tonight
+You better ask your mama
+Tell her everything is all right
 
+(Why don't you come out)
+To my dance party (come out)
+Where the bad moon shines (come out)
+We're gonna dance the night away
+I'm gonna make you mine
+
+Sheeeeery baby
+Sherry, can you come out tonight
+
+(Why don't you come out)
+With your red dress on (come out)
+Girl, you look so fine (come out)
+Move it nice and easy
+I'm gonna make you mine
+
+Sheeeeery baby
+Sherry, can you come out tonight
+You better write your mama
+Tell her everything is all right
+
+Ahhh (Sherry baby) Sherry baby
+Ahhh (Sherry baby) Sherry baby
+Ahhh (Sherry baby) Sherry baby...

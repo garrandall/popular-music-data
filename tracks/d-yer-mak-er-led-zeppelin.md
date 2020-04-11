@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: d-yer-mak-er-led-zeppelin
+lyrics_url: https://genius.com/Led-zeppelin-dyer-maker-lyrics
 name: D'yer Mak'er
 rankings:
 - end_date: '1973-10-26'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
 ---
+Oh, oh, oh, oh, oh, oh
+You don't have to go, oh, oh, oh, oh, oh
+You don't have to go, oh, oh, oh, oh, oh
+You don't have to go
+Ay, ay, ay, ay, ay, ay
+All those tears I cry ay, ay, ay, ay, ay
+All those tears I cry oh, oh, oh, ay, ay
+Baby please don't go
 
+
+When I read the letter you wrote me, it made me mad mad mad
+When I read the words that it told me, it made me sad sad sad
+But I still love you so, I can't let you go
+I love you, ooh baby I love you
+
+
+Oh, oh, oh, oh, oh, oh
+Every breath I take oh, oh, oh, oh, oh
+Oooh, every move I make
+Baby please don't go
+Ay, ay, ay, ay, ay, ay
+You hurt me to my soul oh, oh, oh, oh, oh
+You hurt me to my soul oh, oh, oh, oh, oh
+Darling please don't go
+
+
+When I read the letter you sent me, it made me mad mad mad
+When I read the news that it broke, it made me sad sad sad
+But I still love you so, and I can't let you go
+I love you, ooh baby I love you
+
+
+Oh, oh, oh, oh, oh, oh
+You don't have to go, oh, oh, oh, oh
+You don't have to go, oh, oh, oh, oh
+Oh, baby, babe, please, please, please, please
+Ah, uh, ah, uh, ah, ah, baby
+Ah, ah, I really love you, baby
+Ooh, ooh, ooh, ohh, ooh, ooh, darling
+Oh, oh-wo, oh, baby I still love you so
+Oh, baby I still love you so, oh-wo ooh
+Oh, oh, oh, oh, oh, oh, yeah (Fire)
+Ah, ah, ah, ah, ah, ah, oh (Fire)
+Ah, ah, ah, ah, ah
+Ooooh, yeah (Fire)
+Oh baby, baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tired-of-waiting-for-you-the-kinks
+lyrics_url: https://www.musixmatch.com/lyrics/The-Kinks/Tired-of-Waiting-for-You
 name: Tired Of Waiting For You
 rankings:
 - end_date: '1965-03-19'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
 ---
+So tired, tired of waiting
+Tired of waiting for you
+So tired, tired of waiting
+Tired of waiting for you
 
+I was a lonely soul
+I had nobody 'til I met you
+But you keep me waiting
+All of the time
+What can I do?
+
+It's your life
+And you can do what you want
+Do what you like
+But, please, don't keep me waiting
+Please, don't keep me waiting
+
+'Cause I'm so tired, tired of waiting
+Tired of waiting for you
+So tired, tired of waiting
+Tired of waiting for you
+
+I was a lonely soul
+I had nobody 'til I met you
+But you keep me waiting
+All of the time
+What can I do?
+
+It's your life and you can do what you want
+Do what you like
+But, please, don't keep me waiting
+Please, don't keep me waiting
+
+'Cause I'm so tired, tired of waiting
+Tired of waiting for you
+So tired, tired of waiting
+Tired of waiting for you
+For you
+For you

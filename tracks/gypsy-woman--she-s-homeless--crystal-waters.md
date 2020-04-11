@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gypsy-woman--she-s-homeless--crystal-waters
+lyrics_url: https://genius.com/Crystal-waters-gypsy-woman-la-da-dee-la-da-da-lyrics
 name: Gypsy Woman (She's Homeless)
 rankings:
 - end_date: '1991-05-10'
@@ -71,4 +72,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
 ---
+She wakes up early every morning
+Just to do her hair, now
+Because she cares, ya'll
+Her day, oh wouldn't be right
+Without her makeup
+She's never out of makeup
+She's just like you and me
+But she's homeless (she's homeless)
+As she stands there singing for money
 
+
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+
+
+In my sleep I see her begging
+Preaching: "Please!"
+Although her body's not mine
+I ask, God why?  God why?
+She's just like you and me
+But she's homeless, she's homeless
+As she stands there singing for money
+
+
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+
+
+She's just like you and me
+As she stands there singing for money
+
+
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+
+
+In my sleep I see her begging
+Preaching: "Please!"
+Although her body's not mine
+I ask now, why? God why?
+She's just like you and me
+But she's homeless, she's homeless
+As she stands there singing for money
+
+
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+La da dee la dee dow, la da dee la dee dow
+
+
+You know
+You know, cause you know, cause you know
+You know

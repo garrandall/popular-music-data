@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-won-t-forget-you-poison
+lyrics_url: https://genius.com/Poison-i-wont-forget-you-lyrics
 name: I Won't Forget You
 rankings:
 - end_date: '1987-09-11'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+Late at night, I close my eyes
+And think of how things could have been
+And when I look back
+I remember some words you'd said to me
 
+It's better to have lost at love
+Then never to have loved at all
+
+I won't forget you, baby (I won't forget you)
+Even though I could
+I won't forget you, baby (I won't forget you)
+Even though I should, yeah
+
+Sometimes in my head
+I can still see pictures of you
+And I laugh to myself
+When I think of all those crazy things that we used to do
+
+Although miles come between us
+Just between you and me
+
+I won't forget you, baby (I won't forget you)
+Even though I could
+I won't forget you, baby (I won't forget you)
+Even though I should, well
+
+I should let you fade away
+But that just wouldn't be me
+Oh, baby
+
+Although miles come between us
+Just between you and me
+
+I won't forget you, baby (I won't forget you)
+Even though I could
+I won't forget you, baby (I won't forget you)
+Even though I should, yeah
+
+I won't forget you, baby (I won't forget you)
+Memories slowly fade
+I won't forget you, baby (I won't forget you)
+And all the plans we made
+
+I won't forget you, baby

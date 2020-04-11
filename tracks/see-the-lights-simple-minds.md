@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: see-the-lights-simple-minds
+lyrics_url: https://genius.com/Simple-minds-see-the-lights-lyrics
 name: See The Lights
 rankings:
 - end_date: '1991-05-24'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
 ---
+Summer's gone winter's in your eyes
+I can feel the thunder storms inside
+I wake every morning and the cold winds cover me
+All I've got's a ghost of what could be
+If you can see the lights shine in front of me
+If you can see the lights shout out where you'll be
 
+I'm in a broken dream I stare out into space
+You know I called you up cos nothing takes your place
+I've got a heart of stone and it's sinking deep inside
+I want to tell you love I'm too proud to cry
+
+If you can see the lights shine in front of me
+If you can see the lights shout out where you'll be
+Summer's gone and I can't tell you lies
+Oh forgive me love I'm too proud to cry
+
+If you can see the lights shine in front of me
+If you can see the lights shout out where you'll be
+Summer's gone and I can't tell you lies
+Forgive me love I'm too proud to cry
+Too proud to cry
+
+Too proud to cry
+
+Too proud to cry

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cotton-fields-the-highwaymen
+lyrics_url: https://genius.com/The-highwaymen-folk-cotton-fields-lyrics
 name: Cotton Fields
 rankings:
 - end_date: '1961-12-03'
@@ -79,4 +80,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
 ---
+When I was a little bitty baby
+My mama would rock me in the cradle
+In them old cotton fields back home
+When I was a little bitty baby
+My mama would rock me in the cradle
+In them old cotton fields back home
 
+Oh, when them cotton balls get rotten
+You can't pick very much cotton
+In them old cotton fields back home
+It was down in Louisiana
+Just about a mile from Texarkana
+And them old cotton fields back home
+
+It may sound a little funny
+But you didn't make very much money
+In them old cotton fields back home
+It may sound a little funny
+But you didn't make very much money
+In them old cotton fields back home
+
+Oh, when them cotton balls get rotten
+You can't pick very much cotton
+In them old cotton fields back home
+It was down in Louisiana
+Just about a mile from Texarkana
+And them old cotton fields back home
+
+When I was a little bitty baby
+My mama would rock me in the cradle
+In them old cotton fields back home
+When I was a little bitty baby
+My mama would rock me in the cradle
+In them old cotton fields back home
+In them old cotton fields back home

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blame-it-on-the-bossa-nova-eydie-gorme
+lyrics_url: https://genius.com/Eydie-gorme-blame-it-on-the-bossa-nova-lyrics
 name: Blame It On The Bossa Nova
 rankings:
 - end_date: '1963-01-25'
@@ -67,4 +68,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
 ---
+I was at a dance when he caught my eye
+Standin' all alone lookin' sad and shy
+We began to dance, swaying' to and fro
+And soon I knew I'd never let him go
 
+Blame it on the bossa nova with its magic spell
+Blame it on the bossa nova that he did so well
+Oh, it all began with just one little dance
+But then it ended up a big romance
+Blame it on the bossa nova
+The dance of love
+
+(Now was it the moon?)
+No, no, the bossa nova
+(Or the stars above?)
+No, no, the bossa nova
+(Now was it the tune?)
+Yeah, yeah, the bossa nova
+(The dance of love)
+
+Now I'm glad to say I'm his bride to be
+And we're gonna raise a family
+And when our kids ask how it came about
+I'm gonna say to them without a doubt
+
+Blame it on the bossa nova with its magic spell
+Blame it on the bossa nova that he did so well
+Oh, it all began with just one little dance
+But then it ended up a big romance
+Blame it on the bossa nova
+The dance of love
+
+(Now was it the moon?)
+No, no, the bossa nova
+(Or the stars above?)
+No, no, the bossa nova
+(Now was it the tune? )
+Yeah, yeah, the bossa nova
+(The dance of love)
+
+(Now was it the moon?)
+No, no, the bossa nova
+(Or the stars above ?)
+No, no, the bossa nova

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-one-your-love-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-send-one-your-love-lyrics
 name: Send One Your Love
 rankings:
 - end_date: '1979-11-09'
@@ -79,4 +80,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
 ---
+Send her your love
+With a dozen roses
+Make sure that she knows it
+With a flower from your heart
 
+
+Show him your love
+Don't hold back your feelings
+You don't need a reason
+When it's straight from the heart
+
+
+I've heard so many say that the days of romance are no more
+And people falling in love is so old fashioned
+But waiting are they the day they once let slip away
+Hiding need to fulfill their heart's desire for love’s passion
+
+
+Send her your love
+With a dozen roses
+Make sure that she knows it
+With a flower from your heart
+
+
+Show him your love
+Don't hold back your feelings
+You don't need a reason
+When it's straight from the heart
+
+
+I know that people say two hearts beating as one is unreal
+And can only happen in make believe stories
+But so blind they all must be that they cannot believe what they see
+For around us are miracles of love’s glory
+
+
+Show him your love
+Don't hold back your feelings
+You don't need a reason
+When it's straight from the heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-the-best-for-last-vanessa-williams
+lyrics_url: https://genius.com/Vanessa-williams-save-the-best-for-last-lyrics
 name: Save The Best For Last
 rankings:
 - end_date: '1992-02-07'
@@ -115,4 +116,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
 ---
+Sometimes the snow comes down in June
+Sometimes the sun goes 'round the moon
+I see the passion in your eyes
+Sometimes it's all a big surprise
 
+Cause there was a time when all I did was wish
+You'd tell me this was love
+It's not the way I hoped or how I planned
+But somehow it's enough
+
+
+And now we're standing face to face
+Isn't this world a crazy place?
+Just when I thought our chance had passed
+You go and save the best for last
+
+
+All of the nights you came to me
+When some silly girl had set you free
+You wondered how you'd make it through
+I wondered what was wrong with you
+
+Cause how could you give your love to someone else
+And share your dreams with me
+Sometimes the very thing you're looking for
+Is the one thing you can't see
+
+
+But now we're standing face to face
+Isn't this world a crazy place?
+Just when I thought our chance had passed
+You go and save the best for last
+
+
+Sometimes the very thing
+You're looking for
+Is the one thing you can't see
+
+Sometimes the snow comes down in June
+Sometimes the sun goes 'round the moon
+Just when I thought our chance had passed
+You go and save the best for last
+
+You went and saved the best for last

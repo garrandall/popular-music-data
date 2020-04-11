@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-you-are-a-star-the-hudson-brothers
+lyrics_url: https://genius.com/Hudson-brothers-so-you-are-a-star-lyrics
 name: So You Are A Star
 rankings:
 - end_date: '1974-09-27'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
 ---
+So you are a star, okay
+Nobody knows you like I do
+And you will go far, okay
+Nobody knows you like I do
+You've got to love only me
+You've got to feel only me
+'Cause nobody knows you
+Nobody shows you the way
+But I do
 
+So you are a star, they say
+Nobody knows you like I do
+And you play the part, okay
+Nobody knows you like I do
+You've got to love only me
+You've got to feel only me
+'Cause nobody knows you
+Nobody shows you the way
+But I do
+
+I close my eyes
+Thinking about, 'bout tomorrow
+And then I cry
+Is no one here to shed a tear for you
+
+So you are a star, oh yeah
+Nobody knows you like I do
+
+And know you are okay
+Nobody knows you like I do
+You've got to love only me
+You've got to feel only me
+
+'Cause nobody knows you
+Nobody shows you the way
+The way
+Nobody knows you this way

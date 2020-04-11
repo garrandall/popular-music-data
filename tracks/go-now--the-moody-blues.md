@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-now--the-moody-blues
+lyrics_url: https://genius.com/The-moody-blues-go-now-lyrics
 name: Go Now!
 rankings:
 - end_date: '1965-02-26'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
 ---
+We've already said goodbye
+Since you've got to go
+Oh you'd better go now
+Go now, Go now
+Go now
+Before you see me cry
+I don't want you to tell me just what you intend to do now
+'Cause how many times do I have to tell you, darling, darling
+I'm still in love with you now?
 
+We've already said so long
+I don't want to see you go
+Oh you'd better go now
+Go now, Go now
+Go now
+Don't you even try...
+Telling me that you really don't want me to end this way
+'Cause darling, darling
+Can't you see I want you to stay?
+
+Since you've got to go
+Oh you'd better go now
+Go now, Go now
+Go now
+Before you see me cry
+I don't want you to tell me just what you intend to do now
+'Cause how many times do I have to tell you, darling, darling
+I'm still in love, still in love with you now?
+
+I don't want to see you go
+But, darling, you'd better go now

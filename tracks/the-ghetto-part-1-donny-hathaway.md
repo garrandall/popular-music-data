@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-ghetto-part-1-donny-hathaway
+lyrics_url: https://www.musixmatch.com/lyrics/Donny-Hathaway/The-Ghetto-Part-1
 name: The Ghetto-Part 1
 rankings:
 - end_date: '1970-01-23'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
 ---
+Yes, this is the ghetto, sure 'nuff now
+Don't you know that's all right yeah, yeah
 
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+
+Wait a minute
+No you ain't doin' what you're suppose to
+You doin' what you wanna do
+But you know you, The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto, the ghetto
+The ghetto, the ghetto
+
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+The ghetto, talkin' 'bout the ghetto
+
+I'm talkin' 'bout the ghetto
+I'm talkin' 'bout the ghetto
+Can you all dig it out there?
+Can you dig it?

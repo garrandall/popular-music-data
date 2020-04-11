@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gone-gone-gone-bad-company
+lyrics_url: https://genius.com/Bad-company-gone-gone-gone-lyrics
 name: Gone Gone Gone
 rankings:
 - end_date: '1979-08-10'
@@ -31,4 +32,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
 ---
+Well, I been havin a little trouble lord
+But I'm keepin it together yeah
+My baby just walked out the doors
+She said this time forever
 
+It ain't the first time baby
+Baby it won't be the last
+I'd better get the boys round
+And do some drinkin fast
+
+Cause she's gone, gone, gone
+I don't know if I'm happy
+I don't know if I'm sad
+She's gone gone gone
+I don't know if I'll cry
+I don't know if I'll die laughin'
+
+Well I'm gonna miss your lovin
+And your perfume and your smile
+I'm gonna miss your stealin all my booze
+And talkin all the while
+I'm gonna miss you cleanin' round the home
+And helpin' with my blues
+You know I think I'll get myself a maid
+And take her on a cruise
+
+It ain't the first time baby
+Baby it won't be the last
+I'd better get the boys round
+And do some drinkin fast
+
+Cause she's gone gone gone
+AI don't know if I'm happy
+I don't know if I'm sad
+She's gone gone gone
+I don't know if I'll cry
+I don't know if I'll die laughin'
+
+It ain't the first time baby
+Baby it won't be the last
+I'd better get the boys round
+And do some drinkin fast
+Cause she's gone gone gone
+I don't know if I'm happy
+I don't know if I'm sad
+She's gone gone gone
+I don't know if I'll cry
+I don't know if I'll die laughin'

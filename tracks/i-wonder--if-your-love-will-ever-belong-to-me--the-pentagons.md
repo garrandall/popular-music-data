@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wonder--if-your-love-will-ever-belong-to-me--the-pentagons
+lyrics_url: https://www.musixmatch.com/lyrics/The-Pentagons/I-Wonder
 name: I Wonder (If Your Love Will Ever Belong To Me)
 rankings:
 - end_date: '1961-11-05'
@@ -27,4 +28,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
+I wonder if your love
+Will ever belong to me,
+When a voice from deep
+Within keeps talking,
+And it's telling me.
+That a girl with such a heart,
+Can only tear my dreams apart,
+But I love you dear and
+I don't care what it says.
 
+A voice within my heart
+Says to find another love
+But how can I, my dear,
+Cause I know it's only you I love
+And I don't believe a word,
+Not a single thing I've heard
+And my love is yours
+Until my dying day.
+
+Someday, when you're feeling fine,
+Then I'll say to you "It's you I really love".
+And somehow I'll make you mine
+And you'll cling to me like a girl in love.
+
+A voice within my heart
+Says to find another love,
+But how can I, my dear,
+Cause I know it's only you I love
+And I don't believe a word
+Not a single thing I've heard
+And my love is yours
+Until my dying day.
+
+I wonder if your love
+Will ever belong to me...

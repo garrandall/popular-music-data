@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-street-clarence-henry
+lyrics_url: https://www.musixmatch.com/lyrics/Clarence-Henry/Lonely-Street
 name: Lonely Street
 rankings:
 - end_date: '1961-08-13'
@@ -31,4 +32,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
 ---
+I'm looking for that lonely street
+I've got a sad, sad tale to tell
+I need a place to go and weep
+Where's this place called "Lonely Street?"
 
+A place where there's just loneliness
+Where dim lights bring forgetfulness
+Where broken dreams and mem'ries meet
+Where's this place called "Lonely Street?"
+
+Perhaps upon that lonely street
+There's someone such as I
+Who came to bury broken dreams
+And watch an old love die
+
+If I could find that lonely street
+Where dim lights bring forgetfulness
+Where broken dreams and mem'ries meet
+Where's this place called "Lonely Street?"
+
+Where's this place called "Lonely Street?"...

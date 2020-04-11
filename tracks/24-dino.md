@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 24-dino
+lyrics_url: https://www.musixmatch.com/lyrics/Dino/24-7
 name: '24'
 rankings:
 - end_date: '1989-02-10'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
 ---
+I like the way that you give me all your love each day
+I like the way that you tell me everything's okay
+And then the time comes
+For us to show how much we care
+You bring me joy with the thigns we do
 
+You're taking me to heaven
+24/7 you're mine
+You've got me going in circles
+
+Deep in my heart, girl I know you feel just the same
+Deep in the night I feel it when you call my name
+Don't ever worry cause I never ever let you down
+You bring me joy with the things you do
+
+Oh I want your love
+I don't want nobody else
+24 hours 7 days a week
+Your love is mine
+
+Monday through firday
+Saturday and sunday
+Round and round the clock two times
+Oh your love is mine oh mine

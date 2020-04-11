@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-remember-you-sarah-mclachlan
+lyrics_url: https://www.musixmatch.com/lyrics/Sarah-McLachlan/I-Will-Remember-You
 name: I Will Remember You
 rankings:
 - end_date: '1995-11-17'
@@ -167,4 +168,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-02'
 ---
+I will remember you, will you remember me?
+Don't let your life pass you by,
+Weep not for the memories
+Remember the good times that we had?
+I let them slip away from us when things got bad.
+How clearly I first saw you smilin' in the sun
+Want to feel your warmth upon me
+I want to be the one
 
+I will remember you, will you remember me?
+Don't let your life pass you by
+Weep not for the memories
+
+I'm so tired but I can't sleep
+Standin' on the edge of something much to deep
+It's funny how we feel so much but we cannot say a word
+We are screaming inside, but we can't be heard
+
+I will remember you, will you remember me?
+Don't let your life pass you by
+Weep not for the memories
+
+I'm so afraid to love you
+But more afraid to lose
+Clinging to a past that doesn't let me choose
+Once there was a darkness
+Deep and endless night
+You gave me everything you had, oh you gave me life
+
+I will remember you, will you remember me?
+Don't let your life pass you by
+Weep not for the memories
+
+I will remember you, will you remember me?
+Don't let your life pass you by
+Weep not for the memories
+Weep not for the memories

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-gypsy-cried-lou-christie
+lyrics_url: https://genius.com/Lou-christie-the-gypsy-cried-lyrics
 name: The Gypsy Cried
 rankings:
 - end_date: '1963-01-11'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
 ---
+I had some trouble with my baby
+So I had my fortune read
+I had some trouble with my baby
+And this is what the gypsy said
 
+The gypsy cried, she cried
+
+Gypsy, oh tell me, what is in your crystal ball
+Gypsy, oh tell me, will my tears fall
+
+She cried, she cried and said
+
+Watch your step, oooh she'll hurt you yet
+Oh no no no no no no no
+Watch your step, oooh she'll hurt you yet
+Oh no no no no no no no
+
+Gypsy, oh tell me, does she want to marry me
+Gypsy, oh tell me, when the wedding's gonna be
+
+She cried, she cried
+
+Listen to what the gypsy said
+Oh no no no no no no no
+Listen to what the gypsy said
+Oh no no no no no no no
+
+Gypsy, say it isn't true
+Watch out, oooh she doesn't love you
+Watch out, oooh she doesn't love you
+Gypsy, say it isn't true

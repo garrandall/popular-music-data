@@ -1,6 +1,7 @@
 ---
 artists:
-- The Tommy Dorsey Orchestra Starring Warren Covington
+- The Tommy Dorsey Orchestra
+- Warren Covington
 features: []
 genres: []
 key: i-want-to-be-happy-cha-cha-the-tommy-dorsey-orchestra-starring-warren-covington

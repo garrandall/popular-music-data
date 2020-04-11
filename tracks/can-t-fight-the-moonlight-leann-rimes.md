@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-fight-the-moonlight-leann-rimes
+lyrics_url: https://genius.com/Leann-rimes-cant-fight-the-moonlight-lyrics
 name: Can't Fight The Moonlight
 rankings:
 - end_date: '2000-09-15'
@@ -175,4 +176,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
 ---
+Under a lovers' sky
+Gonna be with you
+And no one's gonna be around
+If you think that you won't fall
+Well, just wait until
+'Til the sun goes down
 
+
+Underneath the starlight, starlight
+There's a magical feeling, so right
+It will steal your heart tonight
+
+
+You can try to resist
+Try to hide from my kiss
+But you know, but you know that you
+Can't fight the moonlight
+Deep in the dark, you'll surrender your heart
+But you know, but you know that you
+Can't fight the moonlight
+No, you can't fight it
+It's gonna get to your heart
+
+
+There's no escaping love
+Once a gentle breeze
+Weaves its spell upon your heart
+No matter what you think
+It won't be too long (not too long)
+'Til you're in my arms
+
+
+Underneath the starlight, starlight
+We'll be lost in the rhythm, so right
+Feel it steal your heart tonight
+
+
+You can try to resist
+Try to hide from my kiss
+But you know, but you know that you
+Can't fight the moonlight
+Deep in the dark, you'll surrender your heart
+But you know, but you know that you can't
+Can't fight the moonlight
+No, you can't fight it
+No, matter what you do (no matter what you do)
+The night is gonna get to you
+
+
+(Never know
+Cannot know)
+Don't try, you're never gonna win
+
+
+Underneath the starlight, starlight
+There's a magical feeling, so right
+It will steal your heart tonight
+
+
+You can try
+(You can try to resist, try to hide from my kiss but you know)
+But you know that you (you know that you)
+Can't fight the moonlight
+Deep in the dark (deep in the dark)
+You'll surrender your heart
+But you know, but you know that you
+Can't fight the moonlight, no, you can't fight it
+(You can try) You can try to resist my kiss
+But you know, don't you know that you can't?
+Can't fight the moonlight deep in the dark
+You'll surrender your heart (surrender your heart)
+But you know, but you know that you
+Can't fight the moonlight
+No, you can't fight it
+It's gonna get to your heart

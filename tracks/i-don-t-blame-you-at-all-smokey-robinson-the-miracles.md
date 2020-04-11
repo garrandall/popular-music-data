@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-blame-you-at-all-smokey-robinson-the-miracles
+lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-i-dont-blame-you-at-all-lyrics
 name: I Don't Blame You At All
 rankings:
 - end_date: '1971-03-26'
@@ -56,4 +57,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
+I don't blame you at all 'cause you played it cool
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no
 
+
+I'm only payin' the price for a trip I took to paradise
+'Cause I looked into a pair of eyes
+And what I thought was the look of love
+Was only hurt in disguise
+Too bad I didn't realize, oh but don't apologize, no, 'cause
+
+
+I don't blame you at all 'cause you played it cool
+I should've did it myself
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no
+
+
+I think it's pretty plain: holdin' you would take a ball & chain
+Every bet I made was all in vain
+'Cause what I thought was an ocean of love was just a wee drop of rain
+Too bad that it couldn't rain, oh but you don't have to explain, no, 'cause
+
+
+I don't blame you at all 'cause you played it cool
+I should've did it myself
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no
+
+I don't blame you at all 'cause you played it cool
+That's the thing to do
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no
+
+
+I said, what I thought was sure to last, to last was just a minute instead
+Too bad that I got misled, ah but you don't have to hang your head, no, 'cause
+
+
+I don't blame you at all 'cause you played it cool
+I should've did it myself
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no
+
+I don't blame you at all 'cause you played it cool
+'Cause that's the thing to do
+You don't owe me a thing 'cause I played the fool
+No, no, no, no, no

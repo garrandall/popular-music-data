@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-me-avicii
+lyrics_url: https://genius.com/Avicii-you-make-me-lyrics
 name: You Make Me
 rankings:
 - end_date: '2013-10-11'
@@ -11,4 +12,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
 ---
+We are one, one for sure
+All united
+You'll want some more
+(Woah-oh-oh-oh) You make me
+(Woah-oh-oh-oh) You make me
+We are one, one for sure
+All united
+And need some more
+(Woah-oh-oh-oh) You make me
+(Woah-oh-oh-oh)
 
+
+All my life, I've been
+I've been waiting for someone like you, yeah
+All my life, I've been
+I've been waiting for someone like you, yeah
+I've been looking for someone like you, yeah
+I've been waiting for someone like you
+Like you, like you, like you, like you, yeah
+You make me
+
+
+
+
+We are one, one for sure
+All united
+You'll want some more
+(Woah-oh-oh-oh) You make me
+(Woah-oh-oh-oh) You make me
+We are one, one for sure
+All united
+And need some more
+(Woah-oh-oh-oh) You make me
+(Woah-oh-oh-oh) You make me
+
+
+All my life, I've been
+I've been waiting for someone like you, yeah
+All my life, I've been
+I've been waiting for someone like you, yeah
+I've been looking for someone like you, yeah
+I've been waiting for someone like you
+Like you, like you, like you, like you, yeah

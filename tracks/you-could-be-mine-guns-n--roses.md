@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-could-be-mine-guns-n--roses
+lyrics_url: https://genius.com/Guns-n-roses-you-could-be-mine-lyrics
 name: You Could Be Mine
 rankings:
 - end_date: '1991-07-19'
@@ -67,4 +68,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+I'm a cold heartbreaker, fit to burn and I'll rip your heart in two
+And I'll leave you lyin' on the bed
+I'll be out the door before you wake 'em, it's nothin' new to you
+'Cause I think we've seen that movie, too
 
+
+'Cause you could be mine, but you're way out of line
+With your bitch slap rappin' and your cocaine tongue
+You get nothin' done, I said, you could be mine, aw
+
+
+Now, holidays come and then they go, it's nothin' new today
+Collect another memory
+When I come home, late at night, don't ask me where I've been
+Just count your stars I'm home again
+
+
+'Cause you could be mine, but you're way out of line
+With your bitch slap rappin' and your cocaine tongue
+You get nothin' done, I said, you could be mine
+
+
+You could be mine, you could be mine
+You could be mine, you could be mine
+You could be mine, mine, mine, mine
+You've gone sketching too many times
+Ooh, why don't you give it a rest?
+Why must you find another reason to cry?
+
+
+
+
+Well, you're breakin' down my back and I've been rackin' out my brain
+It don't matter how we make it, 'cause it always ends the same
+You can push it for more mileage, but your flaps are wearing thin
+And I could sleep on it until mornin', but this nightmare never ends
+Don't forget to call my lawyers with ridiculous demands
+An' you can take the pity so far, but it's more than I can stand
+'Cause this couch-trip's gettin' older, tell me how long has it been?
+'Cause five years is forever, and you haven't grown up yet
+
+
+Oh, you could be mine, but you're way out of line
+With your bitch slap rappin' and your cocaine tongue
+You get nothin' done, I said, you could, you should be
+
+
+You could be mine
+Oh, you could be mine
+You could be mine
+Aw, you could be mine
+You could be mine
+
+
+Aw, You could be mine
+Aw, You could be mine
+Aw, You could be mine
+You could be mine, yeah

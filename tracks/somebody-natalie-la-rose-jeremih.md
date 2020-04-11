@@ -5,6 +5,7 @@ features:
 - Jeremih
 genres: []
 key: somebody-natalie-la-rose-jeremih
+lyrics_url: https://genius.com/Natalie-la-rose-somebody-lyrics
 name: Somebody
 rankings:
 - end_date: '2015-02-13'
@@ -112,4 +113,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
 ---
+Come on
+Natalie La Rose
 
+
+I wanna rock with somebody
+I wanna take shots with somebody
+I wanna leave with somebody
+And we ain't gonna tell nobody, we ain't gonna tell nobody
+
+
+Walk in, everybody knows what's good
+But some gonna hate, what's new?
+We just do our thing, no time to waste
+Always play it cool
+
+
+And at the end of the night when the lights go out
+Will we turn down? Oh no we won't
+(We ain't never turnin' down, we ain't never turnin' down)
+And when they try to make us leave
+We turn and say we never going home
+(And you know just what I wanna do)
+
+
+I wanna rock with somebody
+I wanna take shots with somebody
+I wanna leave with somebody
+And we ain't gotta tell nobody, we ain't gotta tell nobody
+
+
+Walk in, everybody know what's good
+We're our only plug
+Bring us everything we think we need
+Tonight is goin' up
+Tonight is goin' up
+
+
+And at the end of the night when the lights go out
+Will we turn down? Oh no we won't
+(We ain't never turnin' down, we ain't never turnin' down)
+And when they try to make us leave
+We turn and say we never going home
+(And you know just what I wanna do)
+
+
+I wanna rock with somebody
+I wanna take shots with somebody
+I wanna leave with somebody
+And we ain't gotta tell nobody, we ain't gotta tell nobody
+
+
+In the club like what
+We be in the party in the club like what
+And the club like
+We be in the city going dumb like what
+In the club like what
+We be in the party in the club like what
+We be in the city going dumb like what
+We be in the party in the club like what
+
+
+And at the end of the night when the lights go out
+Will we turn down? Oh no we won't
+(We ain't never turnin' down, we ain't never turnin' down)
+And when they try to make us leave
+We turn and say we never going home
+(And you know just what I wanna do)
+
+
+I wanna rock with somebody
+I wanna take shots with somebody
+I wanna leave with somebody
+And we ain't gotta tell nobody, we ain't gotta tell nobody

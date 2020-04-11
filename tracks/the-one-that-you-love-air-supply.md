@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-that-you-love-air-supply
+lyrics_url: https://genius.com/Air-supply-the-one-that-you-love-lyrics
 name: The One That You Love
 rankings:
 - end_date: '1981-05-22'
@@ -83,4 +84,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+Now the night has gone
+Now the night has gone away
+Doesn't seem that long
+We hardly had two words to say
 
+Hold me in your arms for just another day
+I promise this one will go slow
+Oh, we have the right you know
+We have the right you know
+
+Don't say the morning's come
+Don't say the morning's come so soon
+Must we end this way
+When so much here is hard to lose
+
+Love is everywhere, I know it is
+Such moments as this are too few
+Oh, it's all up to you
+It's all up to you
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways
+
+Tell me we can stay
+Tell me we can stay, oh please
+They are the words to say
+The only words I can believe
+
+Hold me in your arms for just another day
+I promise this one will go slow
+Oh, we have the right you know
+We have the right you know
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways
+
+The night has gone, a part of yesterday
+I don't know what to say
+I don't know what to say
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways
+
+Here I am, the one that you love
+Asking for another day
+Understand, the one that you love
+Loves you in so many ways

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-girl-josephine-fats-domino
+lyrics_url: https://genius.com/Fats-domino-my-girl-josephine-lyrics
 name: My Girl Josephine
 rankings:
 - end_date: '1960-10-30'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+Hello Josephine
+How do you do
+Do you remember me baby?
+Like i remember you
+You used to laugh at me and holler: Woo Woo Woo
 
+I used to walk you home
+I used to hold your hand
+You used to use my umbrella
+Every time it rained
+You used to cry so much..it was a cryin' shame
+
+You used to live over yonder
+By the railroad track
+When it rained you couldn't walk..i used to tote you on my back
+Now you try to make believe..it was a thrill at that
+
+Hello Josephine
+How do you do
+Do you remember me baby?
+Like i remember you
+You used to laugh at me and holler: Woo Woo Woo
+
+(fade out)

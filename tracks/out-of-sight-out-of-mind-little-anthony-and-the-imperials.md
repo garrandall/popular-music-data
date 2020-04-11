@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-sight-out-of-mind-little-anthony-and-the-imperials
+lyrics_url: https://genius.com/Little-anthony-and-the-imperials-out-of-sight-out-of-mind-lyrics
 name: Out Of Sight Out Of Mind
 rankings:
 - end_date: '1969-08-01'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
 ---
+Out of sight out of mind
+So the story goes
+You forgot I exist
+My broken heart knows
 
+Out of sight out of mind
+You found someone new
+But I can't change my love
+The way that you do
+
+I sit around a wondering
+About your new affair
+I should forget to remember
+And remember not to care
+
+I'd forget if I could
+But my heart is so blind
+You are gone out of sight
+But not out of my mind
+
+You are gone out of sight
+But not out of my mind

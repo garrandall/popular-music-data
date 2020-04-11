@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saturday-night-bay-city-rollers
+lyrics_url: https://genius.com/Bay-city-rollers-saturday-night-lyrics
 name: Saturday Night
 rankings:
 - end_date: '1975-10-17'
@@ -75,4 +76,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
 ---
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
 
+Gonna keep on dancing
+To the rock and roll
+On Saturday night, Saturday night
+Dancin' to the rhythm
+In our heart and soul
+On Saturday night, Saturday night
+
+I-I-I-I
+Just can't wait
+I-I-I-I gotta date
+
+At the good ol' rock and roll
+Folk show, I've gotta go!
+Saturday night
+Saturday night
+
+Gonna rock it up
+Roll it up
+Do it all, have a ball
+Saturday night
+Saturday night
+
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night
+
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+
+Gonna dance with my baby
+'Til the night is through
+On Saturday night
+Saturday night
+
+Tell her all the little things
+I'm gonna do
+On Saturday night
+Saturday night
+
+I-I-I-I love her so
+I-I-I-I'm gonna let her know
+
+At the good ol' rock and roll
+Folk show, I've gotta go!
+Saturday night
+Saturday night
+
+Gonna rock it up
+Roll it up
+Do it all, have a ball
+Saturday night
+
+Saturday night
+
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night
+
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+S-A-T-U-R-D-A-Y night!
+
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night
+
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night
+S-S-S-Saturday night

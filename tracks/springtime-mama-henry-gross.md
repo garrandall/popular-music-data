@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: springtime-mama-henry-gross
+lyrics_url: https://genius.com/Henry-gross-springtime-mama-lyrics
 name: Springtime Mama
 rankings:
 - end_date: '1976-07-16'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
+Springtime Mama, with my lady
+Let me know that I've been lazy
+Let your smile that gets me crazy
+Like the moon is shining through
 
+Springtime Mama, roll it over
+To the road side little cover
+Hold me down now take me over
+'Till that feeling's back again
+
+Wanna have a simple moonshine
+Wanna sing along on a song or two
+Said, 'Gonna make it for the old times
+Wanna hold your hand and kiss the whole night through
+
+Wanna hear about your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+Talkin' 'bout, talkin' 'bout your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+
+Springtime Mama, I've been rolling
+With the flow of old wind's blowing
+Always hoping, never knowing
+If I'd get with you again
+
+Springtime Mama, with my lady
+Let me know that I've been lazy
+Let your smile that gets me crazy
+Like the moon is shining through
+
+Wanna hear about your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+Talkin' 'bout, talkin' 'bout your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+
+Talkin' 'bout, talkin' 'bout your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+Talkin' 'bout, talkin' 'bout your Springtime Mama
+Said, 'Yeah wanna Springtime Mama'
+Talkin' 'bout, talkin' 'bout your Springtime Mama
+Talkin' 'bout, talkin' 'bout

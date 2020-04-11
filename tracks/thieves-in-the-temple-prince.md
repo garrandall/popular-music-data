@@ -114,7 +114,7 @@ Thieves in the temple
 
 U said u loved me! (Thieves in the temple)
 U said I was your friend! (Thieves in the temple)
-U were supposed to take care of me! (Love come quick) {Thieves in the temple}
+U were supposed to take care of me! (Love come quick)
 U lie! Love come (Lie!) in a hurry (Lie!)
 
 Thieves in the temple tonight

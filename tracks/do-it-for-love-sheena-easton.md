@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-for-love-sheena-easton
+lyrics_url: https://genius.com/Sheena-easton-do-it-for-love-lyrics
 name: Do It For Love
 rankings:
 - end_date: '1985-11-01'
@@ -63,4 +64,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
+Do you, do you, do you, do you
+Do you do it for love?
+Do you, do you, do you, do you
+Do you do it for love?
 
+Do you feel the same connection
+Make it right some way some how
+Does it come from your emotions?
+Open up the door a little wider now
+Do you try to find the feeling
+That should never go away?
+Can it really be so easy
+Just to make the feeling stay
+
+But when you hold me tight
+Oh, I know why you're doing it
+Cause love can't be denied
+When you prove it
+Do it for love
+
+Do you, do you, do you, do you
+Do you do it for love?
+(C'mon and prove it for love)
+Do you, do you, do you, do you
+Do you do it for love?
+
+When you promise it's the real thing
+Promises that stay the same
+Is it really love that you're feeling?
+Or just another pleasure you can't explain?
+
+Lift the lid from your emotions
+Does it matter what they say
+Will you follow your own footsteps?
+Baby, let your heartbeat show you the way
+
+But when you hold me tight
+Oh, I know why you're doing it
+Cause love can't be denied
+When you prove it
+Do it for love
+
+Do you, do you, do you, do you
+Do you do it for love?
+Do you, do you, do you, do you
+Do you do it for love?
+
+C'mon and prove it for love
+
+When you do me
+When you hold me
+When you fool me
+When you do it
+Do it, do it
+Come on and do it
+
+Do you, do you, do you
+Do you, do you do it for love?
+Do you, do you, do you
+Do you, do you do it for love?
+
+Do you, do you, do you, do you
+Do you do it for love?
+Do you, do you, do you
+Do you, do you do it for love?
+
+Do you, do you, do you, do you
+Do you do it for love?
+Do you, do you, do you, do you
+Do you do it for love?
+
+Do you, do you, do you, do you
+Do you do it for love?
+Do you, do you, do you, do you
+Do you do it for love?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-mistake-the-kingbees
+lyrics_url: https://genius.com/The-kingbees-my-mistake-lyrics
 name: My Mistake
 rankings:
 - end_date: '1980-07-04'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
 ---
+You and I been goin' steady for over a year
+And then we suddenly started feelin' like the end was near
+My love is dyin', well, I can't hide it
+I'm sorry, honey, but I wanna rock
 
+I saw a real fine girl at the marketplace
+She had a nice way of walkin' and a real fine face
+A voice like a man, I don't understand
+I'm sorry, Jake, but it's my mistake
+
+Well, it's my (my), my (my), my (my), my mistake
+Yes, it's my (my), my (my), my (my), my mistake
+Aw, get it right now, honey
+
+I had to choose between school and a rock 'n' roll band
+I made up my mind to rock as fast as I can
+I don't want no teachers or their rules
+You got it right, I'm nobody's fool
+
+But you can't trust nobody like you trust your dog
+Too many people got a smile then they lie like a log
+It's hard to place an honest face
+I'm sorry, honey, but it's my mistake
+
+Well, it's my (my), my (my), my (my), my mistake
+Yes, it's my (my), my (my), my (my), my mistake
+Ooh, my (my), my (my), my (my), my mistake
+My, my, my, my, my, my, my, my, my, my, my, ooh
+My (my), my (my), my (my), my mistake
+Well, it's my (my), my (my), my (my), my mistake
+My, my, my, my, my, my, my, my, oh, my, my

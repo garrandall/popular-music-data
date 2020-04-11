@@ -5,6 +5,7 @@ features:
 - Bow Wow
 genres: []
 key: easy-paula-deanda-bow-wow
+lyrics_url: https://genius.com/Paula-deanda-easy-remix-lyrics
 name: Easy
 rankings:
 - end_date: '2007-07-20'
@@ -52,4 +53,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
 ---
+Yeah!
+(Yeah, Paula)
+Ow!
+(Danja!)
 
+
+I might be a young girl, but I know how to have fun
+I got them boys chasing me, tryna make me the one
+When I'm out shopping, it's like I'm having a gun
+Whatever I wanna get, I got them boys caught up
+
+
+I know I'm a hot, hot shorty
+But you gotta slow down (slow down)
+You don't know me (don't know me)
+If you in a hot, hot hurry
+Then you gotta go now (go now)
+Back up off me (off me)
+Uh-oh
+
+
+Got them going crazy, you see (uh-oh)
+Head over heels for me, oh  (uh-oh)
+Weak in the knees for me, boy (uh-oh)
+'Cause you were so damn easy
+'Cause you were so damn easy (easy)
+'Cause you were so damn easy (oh)
+
+
+I'm much wiser than you think, better act like you know (you know)
+Just because I'm a teen, it don't mean that I'm slow
+I think you're a cutie boy, but you're turning me off
+Sometimes you gotta play hard to get and then it's on
+
+
+I know I'm a hot, hot shorty
+But you gotta slow down
+You don't know me
+If you in a hot, hot hurry
+Then you gotta go now
+Back up off me (off me)
+Uh-oh
+
+
+Got them going crazy, you see (uh-oh)
+Head over heels for me, oh  (uh-oh)
+Weak in the knees for me, boy (uh-oh)
+'Cause you were so damn easy
+'Cause you were so damn easy
+'Cause you were so damn easy
+
+
+I am Bow Weezy
+Lil' mama, you so fine
+What's it gonna take for you to be mine?
+Now let me upgrade ya
+Don't listen to your friends, they haters
+And umm, them guys so lame
+I'm way in biz, they not the same
+I am, far from a beginner
+Put some on your wrist, cold like winter
+Pay no limit on the black cars
+Anything you want, baby, it's yours
+You now rollin' with the best, baby
+Plus, I know how to treat you, lady
+They call me the modern LL Cool J
+All I do is write girl bills
+Bow Weezy, hot like a sauna
+Me and Paula
+Now everybody on us
+Holla back
+
+
+Uh-oh
+Got them going crazy, you see (uh-oh)
+Head over heels for me, oh (uh-oh)
+Weak in the knees for me, boy (uh-oh)
+'Cause you were so damn easy
+Uh-oh
+Got them going crazy, you see (uh-oh)
+Head over heels for me, oh (uh-oh)
+Weak in the knees for me, boy (uh-oh)
+'Cause you were so damn easy (no, no, no, no, no)
+
+
+Don't be so damn easy
+Don't be so damn easy

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-hot-herb-alpert
+lyrics_url: https://genius.com/Herb-alpert-red-hot-annotated
 name: Red Hot
 rankings:
 - end_date: '1983-12-16'
@@ -27,4 +28,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
 ---
-
+Instrumental

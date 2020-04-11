@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-it-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-feel-it-lyrics
 name: Feel It
 rankings:
 - end_date: '1961-10-01'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
 ---
+Feel it, feel it
 
+Baby when the band is playing and that solid beat
+O, make you wanna move, make you wanna groove
+Make you wanna pat your feet
+Don't fight it, don't fight, feel it
+
+No, now when we dance close together
+With your cheeck close to mine
+And you begin to feel, a funny little thrill
+Moving up your spine
+Don't fight it, don't fight, feel it
+
+Baby, when the swinging music, makes you wanna flip
+Don't be in pain, trying to restrain
+Go ahead and move your hips
+
+Baby when you're dancing near me
+And I feel I wanna tease
+And when I do, the feeling gets you
+When you feel you wanna squeeze
+Don't fight it, don't fight, feel it
+Feel it (many times)
+
+Baby, when the swinging music, makes you wanna flip
+Don't be in pain, trying to restrain
+Go ahead and move your hips
+Baby when you're dancing near me
+And I feel I wanna tease
+And when I do, the feeling gets you
+When you feel you wanna squeeze
+Don't fight it, don't fight, feel it

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny--how-time-slips-away--joe-hinton
+lyrics_url: https://genius.com/Joe-hinton-funny-lyrics
 name: Funny (How Time Slips Away)
 rankings:
 - end_date: '1964-08-21'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
-
+Well, hello there
+My, it's been a long, long time
+How'm I doin'?
+Well, I guess I'm doin' fine
+It's been so long now
+An' it seems like it was only yesterday
+Ain't it funny how time slips away?
+How's your new love?
+Gee, I hope he's doin' fine
+I heard ya told him
+That you'd love till the end of time
+Well, that's the same thing that you told me
+Seems like just the other day
+Gee, ain't it funny how time just slips away?
+I gotta go now
+Guess I'll see you 'round
+I don't know when, though
+I never know when I'll be back in town
+Now remember whatcha told me
+That "In time you're gonna pay"
+And it's surprisin' how time slips away

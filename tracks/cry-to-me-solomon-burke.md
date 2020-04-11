@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-to-me-solomon-burke
+lyrics_url: https://www.musixmatch.com/lyrics/Solomon-Burke/Cry-to-Me-1
 name: Cry To Me
 rankings:
 - end_date: '1962-02-02'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
 ---
-
+When your baby leaves you all alone
+And nobody calls you on the phone
+Don't you feel like crying
+Don't you feel like crying
+Well, here I am, my honey
+C'mon, cry to me
+When you're all alone in your lonely room
+And there's nothing but the smell of her perfume
+Don't you feel like crying?
+Don't you feel like crying?
+Don't you feel like crying?
+C'mon, c'mon, cry to me
+Whoa, nothing can be sadder than a glass of wine alone
+Loneliness, loneliness, such a waste of time, whoa yeah
+You don't ever have walk alone, you see
+Come take my hand, and baby, won't you walk with me?
+Whoa yeah
+When you're waiting for a voice to come
+In the night but there's no one
+Don't you feel like crying? (Cry to me)
+Don't you feel like crying? (Cry to me)
+Don't you feel like cr-cr-cr-cr-cr-cr-cry
+(Cry to me) cr-cr-cr-cr-cr-cr-crying? (Cry to me)
+Don't you feel like
+Cr-cr-cr-cr-cr-cr-cry (Cry to me) cr-cr-cr-cr-cr-cr-crying?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-you-i-will-aaron-tippin
+lyrics_url: https://genius.com/Aaron-tippin-for-you-i-will-lyrics
 name: For You I Will
 rankings:
 - end_date: '1998-10-16'
@@ -87,4 +88,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
 ---
+It's not my style to dance away the night
+Or go for a walk beneath the full moonlight
+And I don't wish on falling stars
+Or easily give away my heart
 
+Chorus
+But girl, for you I will
+Can't hide this love that I feel
+Never been the kind of guy
+To fall in head over heels
+But girl, for you I will
+
+It's not like me at all to talk about
+The likelihood of finally settling down
+Couldn't speak the words "I love you"
+Or find the courage to say "I do"
+
+(Repeat Chorus)
+I've never been the kind of guy
+To fall in head over heals
+But girl, for you I will

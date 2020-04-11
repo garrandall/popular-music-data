@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: satin-sheets-jeanne-pruett
+lyrics_url: https://genius.com/Jeanne-pruett-satin-sheets-lyrics
 name: Satin Sheets
 rankings:
 - end_date: '1973-05-18'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
 ---
+Satin sheets to lie on, satin pillows to cry on
+Still, I'm not happy don't you see
+Big long Cadillac, tailor-mades upon my back
+Still, I want you to set me free
 
+I've found another man who can give more than you can
+Though you've given me everything money can buy
+But your money can't hold me tight like he does on a long, long night
+No, you didn't keep me satisfied
+
+Satin sheets to lie on, satin pillows to cry on
+Still, I'm not happy don't you see
+Big long Cadillac, tailor-mades upon my back
+Still, I want you to set me free
+
+Satin sheets to lie on, satin pillows to cry on
+Still, I'm not happy don't you see
+Big long Cadillac, tailor-mades upon my back
+Still, I want you to set me free
+
+Satin sheets to lie on, satin pillows to cry on
+Still, I'm not happy don't you see
+Big long Cadillac, tailor-mades upon my back
+Still, I want you to set me free

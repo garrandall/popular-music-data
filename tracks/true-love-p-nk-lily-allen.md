@@ -5,6 +5,7 @@ features:
 - Lily Allen
 genres: []
 key: true-love-p-nk-lily-allen
+lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/True-Love-feat-Lily-Allen
 name: True Love
 rankings:
 - end_date: '2013-08-23'
@@ -64,4 +65,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
 ---
+Sometimes I hate every single stupid word you say
+Sometimes I wanna slap you in your whole face (Whoa-oh, oh)
+There's no one quite like you, you push all my buttons down
+I know life would suck without you (Whoa-oh, oh)
 
+At the same time, I wanna hug you
+I wanna wrap my hands around your neck
+You're an asshole, but I love you
+And you make me so mad I ask myself
+
+Why I'm still here, oh, where could I go?
+You're the only love I've ever known
+But I hate you, I really hate you
+So much, I think it must be
+
+True love, true love, it must be true love
+Nothing else can break my heart like
+True love, true love, it must be true love
+No one else can break my heart like you
+
+Just once, try to wrap your little brain around my feelings
+Just once, please try not to be so mean (Whoa-oh, oh)
+Repeat, after me now R-O-M-A-N-C-E-E-E
+Come on, I'll say it slowly (Romance), you can do it babe!
+
+At the same time I wanna hug you
+I wanna wrap my hands around your neck
+You're an asshole, but I love you
+And you make me so mad I ask myself
+
+Why I'm still here, oh, where could I go?
+You're the only love I've ever known
+But I hate you, I really hate you
+So much, I think it must be
+
+True love, true love, it must be true love
+Nothing else can break my heart like
+True love, true love, it must be true love
+No one else can break my heart like you
+
+Think it must be love (I love you)
+I think it must be love (I love you)
+
+Why do you rub me up the wrong way?
+Why do you say the things that you say?
+Sometimes I wonder how we ever came to be
+But without you I'm incomplete (Oh, I think it must be)
+
+True love, true love, it must be true love
+Nothing else can break my heart like
+True love, true love, it must be true love
+And no one else can break my heart like you
+
+No one else can break my heart like you
+Like you
+No one else can break my heart like you

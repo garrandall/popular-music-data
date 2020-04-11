@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: they-like-it-slow-h-town
+lyrics_url: https://genius.com/H-town-they-like-it-slow-lyrics
 name: They Like It Slow
 rankings:
 - end_date: '1997-10-17'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
 ---
+(Shazam/G.I.)
 
+(Like it slow)
+(Like it slow)
+(Like it slow)
+(Like it slow)
+
+
+
+
+(Like it slow)
+
+(Like it slow)
+
+(Like it slow)
+
+
+
+I can feel your touch
+Everytime you move back with your push
+And it feels so wet
+Then I get my slow motion right there
+(ooooohh I wanna love your body slow)
+Everytime I count a punch
+And the rules go
+Always slow, toe to toe
+If you don't know
+They don't like that right attack
+Damn right
+
+
+
+
+Come, don't rush
+Ones that do, they're certain to get none
+And it don't justify
+Don't try to move too fast take your time
+It's a bad thing to come and drive straight by
+Trying to be the one to win your trust
+Cause they don't know (yeah baby)
+How you feel for sure
+So take it slow
+It's alright
+I did dodge it
+
+Let's break it down oh no (slow)
+Baby let me take it slow with you
+
+
+Slow it down take time right
+Go fast girl (no) makes me pull from (no)
+Won't you take your time

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: grazing-in-the-grass-the-friends-of-distinction
+lyrics_url: https://genius.com/The-friends-of-distinction-grazing-in-the-grass-lyrics
 name: Grazing In The Grass
 rankings:
 - end_date: '1969-04-11'
@@ -71,4 +72,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
 ---
+It sure is mellow grazin' in the grass
+(Grazin' in the grass is a gas, baby, can you dig it)
+What a trip just watchin' as the world goes past
+(Grazin' in the grass is a gas, baby, can you dig it)
+There are so many good things to see
+While grazin' in the grass
+(Grazin' in the grass is a gas, baby, can you dig it)
+Flowers with colours for takin'
+Everything outta sight in the grass
+(Grazin' in the grass is a gas, baby, can you dig it)
+The sun beaming down between the leaves
+(Grazin' in the grass is a gas, baby, can you dig it)
+And the bir-ir-ir-irds dartin' in and out of the trees
+(Grazin' in the grass is a gas, baby, can you dig it)
+Everything here is so clear, you can see it
+And everything here is so real, you can feel it
+And it's real, so real, so real, so real, so real, so real
+Can you dig it
+Whooo-oooh
+I can dig it, he can dig it
+She can dig it, we can dig it
+They can dig it, you can dig it
+Oh, let's dig it
+Can you dig it, baby
+I can dig it, he can dig it
+She can dig it, we can dig it
+They can dig it, you can dig it
+Oh, let's dig it
+Can you dig it, baby
 
+The sun beaming down between the leaves
+(Grazin' in the grass is a gas, baby, can you dig it)
+And the bir-ir-ir-irds dartin' in and out of the trees
+(Grazin' in the grass is a gas, baby, can you dig it)
+Everything here is so clear, you can see it
+And everything here is so real, you can feel it
+And it's real, so real, so real, so real, so real, so real
+Can you dig it
+Whooo-oooh, yeah
+I can dig it, he can dig it
+She can dig it, we can dig it
+They can dig it, you can dig it
+Oh, let's dig it
+Can you dig it, baby
+I can dig it, he can dig it
+She can dig it, we can dig it
+They can dig it, you can dig it
+Oh, let's dig it
+Can you dig it, baby
+I can dig it, he can dig it
+She can dig it, we can dig it
+They can dig it, you can dig it
+Oh, let's dig it
+Can you dig it, baby
+I can dig it, he can dig it
+(Grazin' in the grass is a gas, baby, can you dig it)
+She can dig it, we can dig it
+They can dig it, you can dig it
+(Grazin' in the grass is a gas, baby, can you dig it)
+Oh, let's dig it....

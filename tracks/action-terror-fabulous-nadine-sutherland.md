@@ -5,6 +5,7 @@ features:
 - Nadine Sutherland
 genres: []
 key: action-terror-fabulous-nadine-sutherland
+lyrics_url: https://genius.com/Nadine-sutherland-and-terror-fabulous-action-lyrics
 name: Action
 rankings:
 - end_date: '1994-07-29'
@@ -88,4 +89,112 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
 ---
+When 'oman waan good love) Hmmmmmm
+(No sympathize)
+('Oman waan good lovin' every night) Yeah, yeah
+(Right up
+Lover girl
+Nadine! Step up!)
 
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+
+You think you are so fine
+(Big shot nuh work yuh man watch de time)
+Stop playin' with my mind
+('oman nuh inna joke when she well waan de wine)
+You call me on the phone
+(One hour worth a talking angel come down)
+And now I want you home
+(Ital jockey gal me nah use no stone)
+
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction (Watch dis!)
+
+(Whameseh! - Bedroom bully
+She nuh waan dat you know
+She waan a man fi caress
+Her up like so
+Man a make love to woman
+Like a war dem a go
+'Oman a bawl inna agony an holler out (Cho!)
+Hardcore lovin' man you musee insane
+'Oman nuh waan no man fi make she feel pain
+Sweet lovin' in de fallin' rain
+Sweet lovin' a mix up her brain)
+
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+
+You think you understand
+(Agony, pain, and lovin inna one)
+I need a lovin' man
+(Whole heap a lovey-dovy and nuff affection)
+Sweet thoughts and tender care
+(Nuh waan no ruff fi gon tear off her brassier)
+Can you erase my fear
+(Terror comin' right ova so Nadine just beware--of me)
+
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction
+
+(Whameseh! - Bedroom bully
+She nuh waan dat you know
+She waan a man fi caress
+Her up like so
+Man a make love to woman
+Like a war dem a go
+'Oman a bawl inna agony an holler out (Cho!)
+Hardcore lovin' man you musee insane
+'Oman nuh waan no man fi make she feel pain
+Sweet lovin' in de fallin' rain
+Sweet lovin' a mix up her brain)
+
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction
+I need some action
+Tender satisfaction (Mad House!)
+My chemistry is flowing
+Can you cause a chain reaction
+(Agony, pain, and lovin inna one
+Whole heap a lovey-dovy and nuff affection
+They nuh waan no ruff man fi tear off her brassier
+Terror comin' right ova so Nadine just beware--of me)
+
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)
+Action (Not a bag a mout')
+Sweet (Lovin' make de gal dem bruk out)

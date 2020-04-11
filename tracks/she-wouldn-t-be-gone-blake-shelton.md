@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-wouldn-t-be-gone-blake-shelton
+lyrics_url: https://www.musixmatch.com/lyrics/Blake-Shelton/She-Wouldn-t-Be-Gone
 name: She Wouldn't Be Gone
 rankings:
 - end_date: '2008-11-14'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
 ---
+Red roadside wildflower, if I had only picked you
+Took you home set you on the counter
+Oh, at least a time or two
+Maybe she'd thought it through
+Yellow sunset slowly dipping down in the rear view
+Oh, how she'd love to sit and watch you
+I could have done that a whole lot more
 
+If I hadn't been so stubborn, been so selfish
+Thought about her more, thought about me less
+Joked to make her laugh, held her when she cried
+A little more of that, maybe I wouldn't be
+
+Driving like hell, flying like crazy down the highway
+Calling everyone we know
+Stopping any place she might be
+Going any place she might go
+Beating on the dash, screaming out her name at the windshield
+Tears soaking up my face
+If I'd 'a loved her this much all along
+Maybe, maybe, yeah, maybe. She wouldn't be gone
+She wouldn't be gone
+
+She warned me it was comin'
+Said if I didn't change, she was leaving
+I just didn't believe she would ever really walk out,
+God, I believe her now
+Called her mama, cried like a baby to her best friend
+If they've seen her, they ain't sayin'
+They ain't sayin'
+
+Now, I'm cursing like a fool, praying it ain't too late
+All I wanna do is fix my mistakes
+Find her, beg her for one more try
+Until then, damn it, I'll be
+
+Driving like hell, flying like crazy down the highway
+Calling everyone we know
+Stopping any place she might be
+Going any place she might go
+Beating on the dash, screaming out her name at the windshield
+Tears soaking up my face
+If I'd 'a loved her this much all along
+Maybe, maybe, yeah, maybe. She wouldn't be gone
+She wouldn't be gone
+
+I wouldn't be beating on the dash
+Screaming out her name at the windshield
+Tears soaking up my face
+If I'd 'a loved her this much all along
+Maybe, maybe, yeah, maybe. She wouldn't be gone
+She wouldn't be gone
+
+Red roadside wildflower, if I had only picked you
+Took you home set you on the counter
+Oh, at least a time or two
+Maybe she'd thought it through

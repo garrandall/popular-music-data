@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slow-motion-trey-songz
+lyrics_url: https://genius.com/Trey-songz-slow-motion-lyrics
 name: Slow Motion
 rankings:
 - end_date: '2015-02-13'
@@ -111,4 +112,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
 ---
+I know you got all dressed up for the club
+Waiting on a nigga come pick you up
+Baby, ooh, when I saw ya walking out the door
+Ooh, I just knew ya needed something more
+Now whip it straight back to the crib, ay
+Finna give you something that you won't forget, no
+Baby, ooh, I just wanna get you out them clothes
+Ooh, I just wanna see you dance in
 
+
+Slow motion
+We can take, we can take, we can take our time, baby
+In slow motion
+We can take, we can take, we can take our time, stay here
+In slow motion
+
+
+So shawty, let your hair down and take a sip
+Gon' put this joint between your lips
+Baby, ooh, why don't you make yourself comfortable?
+Ooh, while I go and put this tongue on you
+So tell me when you ready, I'ma speed it up for you just for a second
+Just for a second, then I'ma slow it back down and keep it steady
+Ooh baby, now that you are out them clothes
+Ooh, I just wanna see you dance in
+
+
+Slow motion
+We can take, we can take, we can take our time, baby
+In slow motion
+We can take, we can take, we can take our time, stay here
+In slow motion
+
+
+Oh darling, I just wanna get you out them clothes
+Oh, I just wanna see you dance in slow motion
+
+
+Slow motion
+We can take, we can take, we can take our time, baby
+In slow motion
+We can take, we can take, we can take our time, stay here

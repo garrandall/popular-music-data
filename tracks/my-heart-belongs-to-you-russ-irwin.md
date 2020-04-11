@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-belongs-to-you-russ-irwin
+lyrics_url: https://genius.com/Russ-irwin-my-heart-belongs-to-you-lyrics
 name: My Heart Belongs To You
 rankings:
 - end_date: '1991-09-20'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
 ---
+Love will bring all the things
+That we choose to give it
+And everything lost within
+Then we will find forgiveness
 
+And all that we believed
+Is lost and not received or so it seems
+
+And my heart belongs to you
+And if I'm far away
+Something in me remains
+
+And my heart belongs to you
+And if you feel so bad
+Think of the love we have
+
+And you will see that love is the root of resolution
+And anger breeds only the road of desperation
+
+And all that we believed
+Is lost and not received or so it seems
+
+That my heart belongs to you
+There is no compromise
+Nothing to fear or hide
+
+And when you can't find nobody else
+To share a smile or show some comfort
+Baby when I can't be with you
+You've got to know that
+
+Still my heart belongs to you
+Here and from far away
+Something in me remains
+
+And all that we believed
+Is lost and not received or so it seems
+
+That my heart belongs to you

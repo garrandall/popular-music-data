@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-win-again-fats-domino
+lyrics_url: https://genius.com/Fats-domino-you-win-again-lyrics
 name: You Win Again
 rankings:
 - end_date: '1962-03-02'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
+The news is out, all over town
+That you been seen, out runnin round
+I know that I should leave, but then
+I just can't go, you win again
 
+This heart of mine could never see
+What everybody knew but me
+Just trustin you, was my great sin
+What can I do, you win again
+
+This heart of mine could never see
+What everybody knew but me
+Jest trustin you, was my great sin
+What can I do, you win again

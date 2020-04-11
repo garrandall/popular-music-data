@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-am-mine-pearl-jam
+lyrics_url: https://www.azlyrics.com/lyrics/pearljam/iammine.html
 name: I Am Mine
 rankings:
 - end_date: '2002-10-18'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
 ---
+The selfish, they're all standing in line
+Faithing and hoping to buy themselves time
+Me, I figure as each breath goes by
+I only own my mind
 
+The North is to South what the clock is to time
+There's East and there's West and there's everywhere life
+I know I was born and I know that I'll die
+The in-between is mine
+I am mine
+
+And the feeling, it gets left behind
+All the innocence lost at one time
+Significant, behind the eyes
+There's no need to hide
+We're safe tonight
+
+The ocean is full 'cause everyone's crying
+The full moon is looking for friends at high tide
+The sorrow grows bigger when the sorrow's denied
+I only know my mind
+I am mine
+
+And the meaning, it gets left behind
+All the innocents lost at one time
+Significant, behind the eyes
+There's no need to hide
+We're safe tonight
+
+And the feelings that get left behind
+All the innocents broken with lies
+Significance, between the lines
+We may need to hide
+
+And the meanings that get left behind
+All the innocents lost at one time
+We're all different behind the eyes
+There's no need to hide

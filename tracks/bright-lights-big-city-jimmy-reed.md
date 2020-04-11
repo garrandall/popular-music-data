@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bright-lights-big-city-jimmy-reed
+lyrics_url: https://genius.com/Jimmy-reed-bright-lights-big-city-lyrics
 name: Bright Lights Big City
 rankings:
 - end_date: '1961-09-24'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
 ---
+"Bright light n' big city"
 
+
+Bright light, big city, gone to my baby's head
+Whoa, bright light, an big city, gone to my baby's head
+I tried to tell the woman
+But she don't believe a word I said
+
+It's all right, pretty baby
+(Gonna) need my help someday
+Whoa, it's all right, pretty baby
+Gonna need my help someday
+Ya' gonna wish you had a-listened
+To some a-those things I said
+
+Go ahead, pretty baby
+A-honey, knock yourself out
+Oh go ahead, pretty baby
+Honey, knock yourself out
+I still love ya baby
+Cause you don't know what it's all about
+
+Bright light, a big city
+They went to my baby's head
+Oh, the bright light, the big city
+They went to my baby's head
+I hope you remember
+A-some of those things I said

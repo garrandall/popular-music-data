@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-have-to-be-a-star--to-be-in-my-show--marilyn-mccoo-billy-davis-jr-
+lyrics_url: https://genius.com/Marilyn-mccoo-you-dont-have-to-be-a-star-lyrics
 name: You Don't Have To Be A Star (To Be In My Show)
 rankings:
 - end_date: '1976-09-17'
@@ -113,4 +114,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
 ---
-
+YOU DON'T HAVE TO BE A STAR
+Marilyn McCoo & Billy Davis Jr
+You can come as you are with just your heart
+And I'll take you in though you're rejected and hurt
+To me you're worth, girl, what you have within
+Oh honey, boy, I don't need no superstar cause I'll accept you as you are
+You won't be denied cause I'm satisfied with the love that you can inspire
+You don't have to be a star, baby, to be in my show;
+Oh, honey, you don't have to be a star, baby, to be in my show
+Somebody nobody knows could steal the tune that you want to hear
+So stop your running around cause now you've found what was cloudy is clear
+Oh honey, there'll be no cheering from the clouds, just two hearts beating
+Out loud
+There'll be no parade, no tv or stage, only me till your dying day
+You don't have to be a star, baby, to be in my show;
+Oh, honey, you don't have to be a star, baby, to be in my show
+Don't think your star has to shine for me to find out where you're coming
+From;
+Oh honey, girl, what is a beauty queen if it don't mean that I'm number one?
+I don't need no superstar cause I'll accept you as you are
+You won't be denied cause I'm satisfied with the love that you can inspire
+You don't have to be a star, baby, to be in my show;
+Oh, honey, you don't have to be a star, baby, to be in my show

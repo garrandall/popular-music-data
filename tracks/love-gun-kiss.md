@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-gun-kiss
+lyrics_url: https://genius.com/Kiss-love-gun-lyrics
 name: Love Gun
 rankings:
 - end_date: '1977-09-30'
@@ -35,4 +36,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
 ---
+I really love you, baby
+I love what you've got
+Let's get together, we can
+Get hot
+No more tomorrow, baby
+Time is today
+Girl, I can make you feel
+Okay
 
+
+No place for hiding, baby
+No place to run
+You pull the trigger of my
+
+
+Love gun, (Love gun) love gun
+Love gun, (Love gun) love gun
+
+
+You can't forget me, baby
+Don't try to lie
+You'll never leave me, mama
+So don't try
+I'll be a gambler, baby
+Lay down the bet
+We get together, mama
+You'll sweat
+
+
+No place for hiding, baby
+No place to run
+You pull the trigger of my
+
+
+Love gun, (Love gun) love gun
+Love gun, (Love gun) love gun
+
+
+(Love gun)
+(Love gun)
+
+
+Love gun, (Love gun) love gun
+Love gun, (Love gun) love gun
+
+
+Love gun, (Love gun) love gun
+Love gun, (Love gun) love gun
+
+
+Love gun (Love gun)
+Love gun (Love gun)
+Love gun (Love gun)
+Love gun, (Love gun) love gun

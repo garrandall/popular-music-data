@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-wah-watusi-the-orlons
+lyrics_url: https://genius.com/The-orlons-the-wah-watusi-lyrics
 name: The Wah Watusi
 rankings:
 - end_date: '1962-06-15'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
+Wah, wah-a Watusi
+C'mon and take a chance and get-a with this dance
+Wah, wah-a Watusi
+Oh, baby, it's the dance made-a for romance (shoo-bop, shoo-bop, ahh)
 
+
+Baby, baby, when you do The Twist
+Never, never do you get yourself kissed
+'cause you're always dancing far apart
+The Watusi, girl, is-a really smart
+
+Wah-a, wah, wah-a Watusi
+C'mon and take a chance and get-a with this dance (shoo-bop, shoo-bop, ahh)
+
+
+Baby, baby, when you do The Fly
+Your arms are wasted wavin' in the sky
+Come on and hold me like a lover should
+The Watusi makes you feel so good
+
+Wah-a, wah, wah-a Watusi
+Oh, baby, it's the dance made-a for romance
+
+
+Baby, baby, that's the way it goes
+Nothing happens when you Mash Potatoes
+I just gotta fall in love with you
+Watusi is the dance to do
+
+
+Wah-a, wah, wah-a Watusi
+C'mon and take a chance and get-a with this dance
+Wah, wah-a Watusi
+Oh, baby, it's the dance made-a for romance

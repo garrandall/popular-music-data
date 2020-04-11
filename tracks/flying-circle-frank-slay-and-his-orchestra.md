@@ -1,6 +1,6 @@
 ---
 artists:
-- Frank Slay And His Orchestra
+- Frank Slay
 features: []
 genres: []
 key: flying-circle-frank-slay-and-his-orchestra

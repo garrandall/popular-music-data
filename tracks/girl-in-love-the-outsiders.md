@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-in-love-the-outsiders
+lyrics_url: https://www.musixmatch.com/lyrics/The-Outsiders/Girl-In-Love
 name: Girl In Love
 rankings:
 - end_date: '1966-05-20'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
 ---
+GIRL IN LOVE
+The Outsiders
 
+Girl in love dressed in white
+Crying crying on her wedding night
+The gown of lace hung on a chair
+The pretty gown she'll never wear
+Never wear
+There were no vows no vows today
+Her lover her lover is far away
+The chapel bells will never ring
+Of her love or a wedding ring
+Wedding ring
+Vows so tender never never said
+Only tears to fill her heart instead
+Her gown of lace hung on a chair
+Her love last night was sitting there
+The pretty gown she'll never wear
+Her love left her standing there
+Standing there
+
+(Instumental interlude and end)
+
+Tmazanec1@juno.com or Tom Mazanec to humans

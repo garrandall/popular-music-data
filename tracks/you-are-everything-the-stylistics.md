@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-everything-the-stylistics
+lyrics_url: https://genius.com/The-stylistics-you-are-everything-lyrics
 name: You Are Everything
 rankings:
 - end_date: '1971-11-12'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
 ---
+Today I saw somebody
+Who looked just like you
+She walked like you do
+I thought it was you
+As she turned the corner
+I called out your name
+I felt so ashamed
+When it wasn't you
+Wasn't you
 
+You are everything
+And everything is you
+Oh, you are everything
+And everything is you
+Oh, you are everything
+And everything is you
+
+How can I forget
+When each face that I see
+Brings back memories
+Of being with you?
+I just can't go on
+Living life as I do
+Comparing each girl with you
+Knowing they just won't do
+They're not you
+
+'Cause you are everything
+And everything is you
+Oh, you are everything
+And everything is you
+You are everything
+And everything is you
+
+You are everything
+Everything is you
+Oh, you are everything
+Everything is you
+Oh, you are everything
+Everything is you
+Oh, you are everything
+Everything is you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: help-me-make-it-through-the-night-sammi-smith
+lyrics_url: https://genius.com/Sammi-smith-help-me-make-it-through-the-night-lyrics
 name: Help Me Make It Through The Night
 rankings:
 - end_date: '1971-01-22'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
 ---
+Take the ribbon from my hair
+Shake it loose and let it fall
+Lay it soft upon my skin
+Like the shadows on the wall
 
+Come and lay down by my side
+Til the early mornin' light
+All I'm takin' is your time
+Help me make it through the night
+
+Chorus:
+I don't care what's right or wrong
+I won't try to understand
+Let the devil take tomorrow
+But tonight I need a friend
+
+Yesterday is dead and gone
+And tomorrow's out of sight
+And it's sad to be alone
+Help me make it through the night
+
+(Repeat Chorus)

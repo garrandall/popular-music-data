@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-work-together--part-1--wilbert-harrison
+lyrics_url: https://genius.com/Wilbert-harrison-lets-work-together-lyrics
 name: Let's Work Together (Part 1)
 rankings:
 - end_date: '1969-12-12'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
 ---
+Together we will stand
+Divided we'll fall
+Come on now people
+And let's get on the ball
 
+And work together
+Come on come on let's work together
+Now now people
+Say now together we will stand
+Every boy girl woman and man
+
+Before when things go wrong
+As they sometimes will
+When the road you travel
+Well seems all uphill
+
+Let's work together
+Come on come on let's work together
+Now now people
+Say now together we will stand
+Every boy girl woman and man
+
+Make someone happy
+Make someone smile
+Let's all work together
+And make life worthwhile
+
+Let's work together
+Come on come on let's work together
+Now now people
+Say now together we will stand
+Every boy girl woman and man
+
+Two or three minutes
+Two or three hours
+What do they mean
+Now now in this life of ours
+
+Let's work together
+Come on come on let's work together
+Now now people
+Say now together we will stand
+Every boy girl woman and man

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-can-fly-the-cowsills
+lyrics_url: https://genius.com/The-cowsills-we-can-fly-lyrics
 name: We Can Fly
 rankings:
 - end_date: '1968-01-19'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
 ---
+Cowsill-Duboff-Kornfield
 
+See how the fluffy clouds move by us
+See how the clouds move by
+See how the morning mist can hide us away
+And how the day is so much fun
+Wha Oh
+Isn't it groovy in a daydream?
+Dreamin' today
+Doesn't the day seem like it could never end
+And so my friend we're one
+Baby it's funny
+How I can feel so sunny
+When you're beside me
+We can fly
+Oh we can fly
+Hey Mister Wind keep on sailin'
+Keep on sailin' along
+High in the sky there's no curtailing our fun
+Yes we'll have fun
+So everyone come on
+Hey you on the ground
+Take a look up and see what we've found
+Nothing to tie us
+Bluebirds come up to guide us
+When you're beside me we can fly
+Oh, we can fly
+We can fly
+Hey, everyone on the ground let's fly

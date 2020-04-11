@@ -1,7 +1,8 @@
 ---
 artists:
-- Duane Eddy and the Rebelettes
-features: []
+- Duane Eddy
+features:
+- The Blossoms
 genres: []
 key: boss-guitar-duane-eddy-and-the-rebelettes
 name: Boss Guitar

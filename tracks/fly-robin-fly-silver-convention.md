@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-robin-fly-silver-convention
+lyrics_url: https://genius.com/Silver-convention-fly-robin-fly-lyrics
 name: Fly Robin Fly
 rankings:
 - end_date: '1975-10-17'
@@ -75,4 +76,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
 ---
+Fly, robin fly
+Fly, robin fly
+Fly, robin fly
+Up, up to the sky
 
+Fly, robin fly
+Fly, robin fly
+Fly, robin fly
+Up, up to the sky
+
+Fly, robin fly
+Fly, robin fly
+Fly, robin fly
+Up, up to the sky

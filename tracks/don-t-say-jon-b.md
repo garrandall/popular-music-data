@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-say-jon-b
+lyrics_url: https://genius.com/Jon-b-dont-say-lyrics
 name: Don't Say
 rankings:
 - end_date: '1997-09-05'
@@ -67,4 +68,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
+Don't say what you won't do
+You know you'll be the first one
+To go on through, yes, you will
+Don't say what you won't do
+You know you'll be the first one
+To go on through, go on through
 
+
+I know you mean well
+But looking at you one can't tell
+You've got changes to make
+'Cause the why you treat me, girl
+Just ain't right, no
+Always fronting on someone
+But never think about the damage you've done
+To me and it's about damn time I talk about it
+Every time I do for you
+You turn around and make me feel like a fool
+With your actions
+So much for the words
+Baby, I love you, yes
+
+
+'Cause now I've wised up, girl
+It's time for me to go
+You better think about it
+'Cause I'm hear to let you know
+
+
+Don't say what you won't do
+You know you'll be the first one
+To go on through, yes, you will
+Don't say what you won't do
+You know you'll be the first one
+To go on through, go on through
+
+
+I wanna make good love to you
+I wanna do the things you wouldn't do
+But you're forcing me to look the other way, baby
+I'm seeing things that I really shouldn't see
+Girl, you better hurry 'cause you're running out of time
+And this is the last chance for you to be mine
+And I'm asking you what you gonna do?
+Tell me what you gonna do?
+
+
+'Cause now I've wised up, girl
+It's time for me to go
+You better think about it
+'Cause I'm hear to let you know
+
+
+Don't say what you won't do
+You know you'll be the first one
+To go on through, yes, you will
+Don't say what you won't do
+You know you'll be the first one
+To go on through, go on through
+Don't say what you won't do
+You know you'll be the first one
+To go on through, yes, you will
+Don't say what you won't do
+You know you'll be the first one
+To go on through, go on through

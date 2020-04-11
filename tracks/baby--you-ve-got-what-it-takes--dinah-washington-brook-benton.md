@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: baby--you-ve-got-what-it-takes--dinah-washington-brook-benton
+lyrics_url: https://genius.com/Dinah-washington-and-brook-benton-baby-youve-got-what-it-takes-lyrics
 name: Baby (You've Got What It Takes)
 rankings:
 - end_date: '1960-01-31'
@@ -68,4 +69,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
 ---
+Well now, it takes more than a robin to make the winter go
+And it takes two lips of fire to melt away the snow
+Well, it takes two hearts a-cookin' to make a fire grow
+And baby, you've got what it takes (yeah)
 
+
+You know it takes a lot of kissin'
+(Tell me about it)
+To make a romance sweet (uh huh)
+Ooh, it takes a lot of lovin' to make my life complete
+Mmm, and it takes a lot of woman to knock me off my feet
+And baby, you've got what it takes
+
+
+I said, mmm, mmm, mmm
+Uh huh, mmm
+You know you've got just what it takes
+
+
+Because it takes more than an effort to stay away from you
+It'd take more than a lifetime to prove that I'll be true
+But it takes somebody special to make me say, "I do"
+(yeah)
+And baby, you've got what it takes
+
+
+Ah, ah, hah mmm, mmm, mmm
+Mmm
+You know you've got just what it takes
+
+
+Because it takes, (yeah, oh yeah)
+(You're back in my spot again, honey)
+(I like your spot)
+To stay away from you
+(I can't stay away from her)
+It takes more than a lifetime, daddy
+To prove that I'll be true
+(Now it's you)
+But it takes somebody special
+(Like me, baby)
+To make me say, "I do"
+And baby, you've got what it takes
+(Ha, ha, say it again, huh?)
+(C'mon, let's do it one more time, all right?)
+And baby, you've got what it takes
+(One more time, Brook)
+(Ah-ha, alright okay, ah-ha)
+And baby, you've got what it takes

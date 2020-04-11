@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yogi-the-ivy-three
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ivy-Three/Yogi
 name: Yogi
 rankings:
 - end_date: '1960-08-14'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
 ---
+I saw a Kook who was standing on his head
+He flipped his lid like he should have been in bed
+I said, what gives man
+He looked at me and said
+I'm a Yogi, I'm a Yogi, baby
+I'm a Yogi, I'm a Yogi, baby
 
+Hey, Bo-bo
+
+And then the cat started strutting on hot coals
+He was wearing sneaks, but they were so full of holes
+He sang right out from the bottom of his soles
+I'm a Yogi, I'm a Yogi, baby
+I'm a Yogi, I'm a Yogi, baby
+
+Hey, Bo-bo
+
+Listen here, baby, the Yogi man said
+It's all a matter of the mind
+Just commune with your innermost being
+Baby, you'll be just fine
+
+He was hip, all right, wasn't he
+
+Though I tried my best to dig my inner me
+I walked on coals, my head below my knee
+Until at last I heard him say perfectly
+I'm a Yogi, I'm a Yogi, baby
+I'm a Yogi, I'm a Yogi, baby
+
+Hey, Bo-bo

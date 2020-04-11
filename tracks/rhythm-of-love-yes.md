@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhythm-of-love-yes
+lyrics_url: https://genius.com/Yes-rhythm-of-love-lyrics
 name: Rhythm Of Love
 rankings:
 - end_date: '1987-12-25'
@@ -55,4 +56,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
 ---
+Innocence, no answer to your breaking heart
+If the situation sometimes falls apart
+Then in this ecstasy, your charms are frozen
+No emotion falling through your arms
 
+
+Morning daydream, time still growing shorter
+Take me over, lead me to the water
+
+
+To the rhythm of love
+To the rhythm of love
+The rhythm of love
+
+
+Why should I escort you to your secret needs?
+Climbing up your ladder, I keep falling down
+Anyway will do, anyone will do when you dance to your darkest tune
+Surrounded, as you crawl around the room
+
+
+Night time fever, burning 'til you're higher
+Take me over, lead me through the fire
+
+
+The rhythm of love
+To the rhythm of love
+The rhythm of love
+To the rhythm of love
+
+Morning daydream (the rhythm of love)
+Midnight fever
+Morning daydream
+Midnight fever
+
+
+Inhibitions keep you from your point of view
+(Information leading to confusing)
+In this situation I have found you in
+To the rhythm of-
+
+
+Morning daydream
+Midnight fever (the rhythm of love)
+Morning daydream
+Midnight fever (to the rhythm of love)
+The rhythm of love
+The rhythm of love
+To the rhythm of love
+Rhythm of love

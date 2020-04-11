@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vacation-go-go-s
+lyrics_url: https://genius.com/The-go-gos-vacation-lyrics
 name: Vacation
 rankings:
 - end_date: '1982-07-09'
@@ -63,4 +64,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
 ---
+Can't seem to get my mind off of you
+Back here at home there's nothin' to do, ooh
+Now that I'm away
+I wish I'd stayed
+Tomorrow's a day of mine that you won't be in
 
+
+When you looked at me I should've run
+But I thought it was just for fun
+I see I was wrong
+And I'm not so strong
+I should have known all along that time would tell
+
+
+A week without you
+Thought I'd forget
+Two weeks without you and I still haven't gotten over you yet
+
+
+Vacation, all I ever wanted
+Vacation, had to get away
+Vacation, meant to be spent alone
+Vacation, all I ever wanted
+Vacation, had to get away
+Vacation, meant to be spent alone
+
+
+A week without you
+Thought I'd forget
+Two weeks without you and I still haven't gotten over you yet
+
+
+Vacation, all I ever wanted
+Vacation, had to get away
+Vacation, meant to be spent alone
+Vacation, all I ever wanted
+Vacation, had to get away
+Vacation, meant to be spent alone
+
+
+Vacation, all I ever wanted
+Vacation, had to get away
+Vacation, meant to be spent alone

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thinkin--problem-david-ball
+lyrics_url: https://genius.com/David-ball-thinkin-problem-lyrics
 name: Thinkin' Problem
 rankings:
 - end_date: '1994-07-08'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
 ---
+Yes, I admit I've got a thinkin' problem
+She's always on my mind
+Her memory goes round and round
+I've tried to quit a thousand times
+Yes, I admit I've got a thinkin' problem
+Fill the glass up to the top
+I'll start with loving her
+But I don't know when to stop
 
+
+I wake up and right away
+Her name is on my lips
+Once the memories start to flow
+I can't stop with just one sip
+
+
+Yes, I admit I've got a thinkin' problem
+She's always on my mind
+Her memory goes round and round
+I've tried to quit a thousand times
+Yes, I admit I've got a thinkin' problem
+Fill the glass up to the top
+I'll start with loving her
+But I don't know when to stop
+
+
+I keep on remembering
+How good it used to be
+Gettin' stoned all alone
+On my favorite memory
+
+
+Yes, I admit I've got a thinkin' problem
+She's always on my mind
+Her memory goes round and round
+I've tried to quit a thousand times
+Yes, I admit I've got a thinkin' problem
+Fill the glass up to the top
+I'll start with loving her
+But I don't know when to stop
+I'll start with lovin' her
+But I don't know when to stop

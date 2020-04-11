@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 16-candles-the-crests
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Maestro-The-Crests/16-Candles
 name: 16 Candles
 rankings:
 - end_date: '1958-11-30'
@@ -91,4 +92,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
-
+Happy birthday, happy birthday, baby
+Oh, I love you so
+Sixteen candles make a lovely light
+But not as bright as your eyes tonight (as your eyes tonight) (Oh)
+Blow out the candles, make your wish come true
+For I'll be wishing that you love me, too (that you love me, too)
+You're only sixteen (sixteen)
+But you're my teenage queen (you're my queen)
+You're the prettiest, loveliest girl I've ever seen (I've ever seen) (OH)
+Sixteen candles in my heart will glow
+For ever and ever for I love you so (for I love you so)
+You're only sixteen (sixteen)
+But you're my teenage queen (you're my queen)
+Oh, you're the prettiest, loveliest girl I've ever seen (I've ever seen) (OH)
+Sixteen candles in my heart will glow
+For ever and ever for I love you so (for I love you so)
+For I love you so

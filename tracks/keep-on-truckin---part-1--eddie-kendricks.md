@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-truckin---part-1--eddie-kendricks
+lyrics_url: https://genius.com/Eddie-kendricks-keep-on-truckin-lyrics
 name: Keep On Truckin' (Part 1)
 rankings:
 - end_date: '1973-08-31'
@@ -83,4 +84,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
+Ooh...
+Ooh...
+Ooh...
 
+Keep on truckin', baby
+I got to keep on truckin'
+Got to get to your good lovin'
+Huh...huh...huh...huh...huh...
+
+Shame
+A double shame on me, yeah
+Love
+Love, I let it control me, yeah
+
+From just one kiss
+I am inspired
+To lovers in time
+There's a fire
+
+And I'll keep on truckin', baby
+I got to keep on truckin'
+I got to get to your good lovin'
+Huh...huh...huh...huh...
+
+Baby, it's bad
+It's so hard to bear
+Yes, babe
+You're hard to bear
+
+I've got a fever rising with desire
+It's my love jones
+And I feel like I'm on fire
+
+And I'll keep on keep on truckin', baby
+I got to keep on truckin'
+Got to get to your good lovin'
+Huh...huh...huh...huh...
+
+Feelin' good
+No, you can't stop the feelin'
+No, you can't stop the feelin'
+No, not now
+
+Ooh, ooh, ooh, ooh
+
+Keep on truckin' on
+Keep on truckin' on
+Keep on truckin'
+
+Keep on truckin' on
+Keep on truckin'
+
+Yes, I've got a fever rising with desire
+It's my love jones
+And I feel like I'm on fire
+
+And I'll keep on keep on truckin', baby
+
+I'm the red ball express of lovin'
+Diesel-powered straight to you
+I'm truckin'
+In old Temptation's rain
+I'm duckin'
+For your love through sleet and snow
+I'm truckin', ooh
+
+I'm the red ball express of lovin'
+Diesel-powered straight to you
+I'm truckin'
+In old Temptation's rain
+I'm duckin'
+For your love through sleet and snow
+I'm truckin'
+
+Ain't nothin' holdin' me back nothin'
+I'll keep right on
+Right on truckin'
+Ain't nothin' holdin' me back nothin'
+I'll keep right on
+Right on truckin'
+
+Ooh, ooh, ooh, ooh, truckin'
+Ooh, ooh, ooh, ooh, ooh, truckin'

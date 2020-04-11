@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: anything-i-want-kevin-paige
+lyrics_url: https://genius.com/Kevin-paige-anything-i-want-lyrics
 name: Anything I Want
 rankings:
 - end_date: '1990-01-26'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
 ---
+People always sayin' what you can and cannot do
+Well listen to me people I just do what I want to
+I cannot justify a man with the power
+To decide if and when I come down off my tower
 
+I know with the power from above
+I can make it work for me when it comes to push and shove
+I know from the talk upon the street
+I can make a difference in who I meet
+
+I can do anything I want I say you can't
+Stop me from jammin' on
+I can do anything I want I say you can't
+Stop me from jammin' on
+Let it be anything anything anything I want
+
+All my life I've always followed my dreams
+People think you're crazy for your self esteem
+I ain't gonna sit down on my attitude and pout
+I'm gonna be heard even if I have to shout because
+
+I can do anything I want I say you can't
+Stop me from jammin' on
+I can do anything I want I say you can't
+Stop me from jammin' on
+Let it be anything anything anything I want
+
+Take for instance just because I'm white
+They say son you can't jam like that your skin is too light
+But what kind of crap is that for someone to say
+I think they're jealous because I jam the groove way
+Kick it
+
+I can do anything I want I say you can't
+Stop me from jammin' on
+I can do anything I want I say you can't
+Stop me from jammin' on
+Let it be anything anything anything I want
+
+Everybody sing with me say Anything I want they will not
+Stop me from jammin' on no kick it
+I can do you can do we can do anything we want

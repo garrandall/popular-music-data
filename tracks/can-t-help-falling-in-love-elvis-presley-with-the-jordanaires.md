@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: can-t-help-falling-in-love-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Can-t-Help-Falling-In-Love-2003-Sony-Remaster
 name: Can't Help Falling In Love
 rankings:
 - end_date: '1961-12-10'
@@ -63,4 +65,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
-
+Wise men say
+Only fools rush in
+But I can't help falling in love with you
+Shall I stay
+Would it be a sin
+If I can't help falling in love with you
+Like a river flows surely to the sea
+Darling, so it goes
+Some things are meant to be
+Take my hand
+Take my whole life too
+For I can't help falling in love with you
+Like a river flows surely to the sea
+Darling, so it goes
+Some things are meant to be
+Take my hand
+Take my whole life too
+For I can't help falling in love with you
+For I can't help falling in love with you

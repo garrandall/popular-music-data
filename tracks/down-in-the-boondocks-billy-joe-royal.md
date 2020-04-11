@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-in-the-boondocks-billy-joe-royal
+lyrics_url: https://genius.com/Billy-joe-royal-down-in-the-boondocks-lyrics
 name: Down In The Boondocks
 rankings:
 - end_date: '1965-07-09'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+Down in the boondocks, down in the boondocks
+People put me down cause that's the side of town I was born in
+I love her and she loves me but I don't fit in her society
+Lord have mercy on a boy from down in the boondocks
 
+
+Every night I watch the lights from the house upon the hill
+I love a little girl who lives up there and I guess I always will
+But I don't dare knock on her door 'cause her daddy is my boss man
+So I'll just have to be content and see her whenever I can
+
+
+Down in the boondocks
+Down in the boondocks
+People put me down cause that's the side of town I was born in
+I love her and she loves me but I don't fit in her society
+Lord, have mercy on a boy from down in the boondocks
+
+
+One fine day, I'll find a way to move from this old shack
+I'll hold my head up like a king and I never, never will look back
+Until that morning I'll work and slave and I'll save every dime
+But tonight she'll have to steal away to see me one more time
+
+
+Down in the boondocks
+Down in the boondocks
+People put me down cause that's the side of town I was born in
+I love her and she loves me but I don't fit in her society
+Lord, have mercy on a boy from down in the boondocks
+Lord, have mercy on a boy from down in the boondocks
+Lord, have mercy on a boy from down in the boondocks

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: handy-man-jimmy-jones
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Jones-2/Handy-Man
 name: Handy Man
 rankings:
 - end_date: '1960-01-03'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+Come, come, come
+Yeah, yeah, yeah
 
+Hey girls, gather round
+Listen to what I'm putting down
+Hey babe, I'm your handy man
+
+I'm not the kind to use a pencil or rule
+I'm handy with love and I'm no fool
+I fix broken hearts, I know that I truly can
+
+If your broken heart should need repair
+Then I'm the man to see
+I whisper sweet things, you tell all your friends
+They'll come runnin' to me
+
+Here is the main thing I want to say
+I'm busy 24 hours a day
+I fix broken hearts, I know that I truly can
+
+Then I'm the man to see
+I whisper sweet things, you tell all your friends
+They'll come runnin' to me
+
+Here is the main thing I want to say
+I'm busy 24 hours a day
+I fix broken hearts, I know that I truly can
+
+Come, come, come
+Yeah, yeah, yeah
+Come, come, come
+Yeah, yeah, yeah
+Come, come, come
+Yeah, yeah, yeah
+Come, come, come
+Yeah, yeah, yeah...

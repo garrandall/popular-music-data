@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-melt-with-you-modern-english
+lyrics_url: https://genius.com/Modern-english-i-melt-with-you-lyrics
 name: I Melt With You
 rankings:
 - end_date: '1983-04-08'
@@ -75,4 +76,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
 ---
+Moving forward using all my breath
+Making love to you was never second best
+I saw the world crashing all around your face
+Never really knowing it was always
+Mesh and lace
 
+
+I'll stop the world and melt with you
+You've seen the difference
+And it's getting better all the time
+There's nothing you and I won't do
+I'll stop the world and melt with you
+
+
+(You should know better)
+Dream of better lives
+The kind which never hate
+(You should see why)
+Dropped in the state of imaginary grace
+
+(You should know better)
+I made a pilgrimage
+To save this human race
+(You should see why)
+Never comprehending
+The race was long, long lost
+
+
+I'll stop the world and melt with you
+(I'll stop the world)
+You've seen the difference
+And it's getting better all the time
+
+(I'll stop the world)
+There's nothing you and I won't do
+(Let's stop the world)
+I'll stop the world and melt with you
+
+The future's open wide
+
+
+(Let's stop the world)
+I'll stop the world and melt with you
+(Let's stop the world)
+I've seen some changes
+But it's getting better all the time
+
+(Let's stop the world)
+There's nothing you and I won't do
+(Let's stop the world)
+I'll stop the world and melt with you
+
+The future's open wide
+Hmm hmm hmm
+Hmm hmm hmm hmm
+Hmm hmm hmm
+Hmm hmm hmm hmm
+
+
+I'll stop the world and melt with you
+(Let's stop the world)
+You've seen the difference
+And it's getting better all the time
+(Let's stop the world)
+There's nothing you and I won't do
+(Let's stop the world)
+
+I'll stop the world and melt with you
+(Let's stop the world)
+I'll stop the world and melt with you
+(Let's stop the world)
+I'll stop the world and melt with you
+(Let's stop the world)
+I'll stop the world and melt with you

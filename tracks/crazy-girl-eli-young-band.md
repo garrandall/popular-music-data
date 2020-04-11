@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-girl-eli-young-band
+lyrics_url: https://genius.com/Eli-young-band-crazy-girl-lyrics
 name: Crazy Girl
 rankings:
 - end_date: '2011-04-01'
@@ -151,4 +152,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
 ---
+Baby why you wanna cry?
+You really oughta know that I
+Just have to walk away sometimes
+We’re gonna do what lovers do
+We’re gonna have a fight or two
+But I ain’t ever changin’ my mind
 
+
+Crazy girl, don’t you know that I love you?
+And I wouldn’t dream of goin’ nowhere
+Silly woman, come here, let me hold you
+Have I told you lately?
+I love you like crazy, girl
+
+
+Wouldn’t last a single day
+I’d probably just fade away
+Without you, I’d lose my mind
+Before you ever came along
+I was livin’ life all wrong
+Smartest thing I ever did was make you all mine
+
+
+Crazy girl, don’t you know that I love you?
+And I wouldn’t dream of goin’ nowhere
+Silly woman, come here, let me hold you
+Have I told you lately?
+I love you like crazy, girl
+Like crazy, girl
+
+
+Crazy girl, don’t you know that I love you?
+And I wouldn’t dream of goin’ nowhere
+Silly woman, come here, let me hold you
+Have I told you lately?
+I love you like
+Crazy, girl, don’t you know that I love you?
+I wouldn’t dream of goin’ nowhere
+Silly woman, come here, let me hold you
+Have I told you lately?
+I love you like crazy, girl
+
+
+Like crazy, oh, crazy girl
+Like crazy, oh, crazy girl

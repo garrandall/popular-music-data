@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-there-be-drums-sandy-nelson
+lyrics_url: https://genius.com/Sandy-nelson-let-there-be-drums-lyrics
 name: Let There Be Drums
 rankings:
 - end_date: '1961-11-05'
@@ -71,4 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
-
+♫  ♫

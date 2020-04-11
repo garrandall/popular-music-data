@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cleo-s-back-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-cleos-back-lyrics
 name: Cleo's Back
 rankings:
 - end_date: '1965-10-15'
@@ -40,4 +41,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
 ---
+Cleo's back
 
+Cleo's out

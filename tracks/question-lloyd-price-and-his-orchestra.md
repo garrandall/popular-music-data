@@ -1,9 +1,10 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: question-lloyd-price-and-his-orchestra
+lyrics_url: https://genius.com/Lloyd-price-question-lyrics
 name: Question
 rankings:
 - end_date: '1960-07-03'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+What is the price of happiness?
+How can I find me love?
+Where could I sell my heartache?
+And what do I pay for love?
 
+Where could I get me a good night's sleep
+To trade off my trouble and pain?
+How long does it take to realize
+That love is a priceless thing?
+
+Oh, I know you can't buy love
+If you're rich with diamond and gold
+But heartaches will come around freely
+And knock on anybody's door
+
+What is the price of happiness?
+How can I find me love?
+Where could I sell my heartaches?
+And what do I pay for love?
+
+I know you can't buy love
+If you're rich with diamond and gold
+But heartaches will come around freely
+And knock on everybody's door
+
+I know you can't buy love
+If you're rich with diamond and gold
+But heartaches will come around freely
+And knock on anybody's door
+
+What is the price of happiness?
+How can I find me love?
+Where could I sell my heartaches?
+And what do I pay for love?
+
+What do I pay for love?
+A what do I pay for love?
+A what do I pay for love?

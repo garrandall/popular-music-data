@@ -5,6 +5,7 @@ features:
 - Roger
 genres: []
 key: boom--there-she-was-scritti-politti-roger
+lyrics_url: https://genius.com/Scritti-politti-boom-there-she-was-extended-single-version-lyrics
 name: Boom! There She Was
 rankings:
 - end_date: '1988-06-24'
@@ -52,4 +53,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
+The Tupamaros got a platinum card (all right)
+I got a heart of gold and it's time to get hard (and I like it)
+A Moto Guzzi I gotta way to get rich (all right)
+I gotta library and a seven day itch (and I like It)
 
+I got money oh I got around but my life was going nowhere
+
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was - for me
+
+The Tupamaros an immutable truth (all right)
+I got a razor blade an' a beautiful youth (and I like it)
+A Moto Guzzi an' a Gaultier pants (all right)
+I got a reason girl, was Immanuel Kant's (and I like it)
+
+I got money oh I got around but my life was going nowhere (nowhere)
+
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was - for me
+
+(baby baby baby
+Ooh yeah
+There she was
+Drivin me out
+There she was)
+
+Pharmacopoeia - I got a way with the word (all right)
+I got an' alphabet that you never have heard (and I like it)
+
+I got money oh I got around but my life was going nowhere (no where)
+
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was - for me
+
+(Looking for love now) (Are you looking for me?)
+(I'm looking for love now) (Wanted to get you girl)
+
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was
+I was looking for love and I want your love baby love
+When you gonna get me Boom! there she was - for me

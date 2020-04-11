@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: what-would-i-do-mickey-sylvia
+lyrics_url: https://genius.com/Mickey-and-sylvia-what-would-i-do-lyrics
 name: What Would I Do
 rankings:
 - end_date: '1961-01-08'
@@ -44,4 +45,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+If you leave me
+What will I do?
+Well I'd go to the river
+Jump right in
+Drown my tears
+'Cause I can't win without you
+Baby, that's what I'd do
 
+If you leave me
+What will I do?
+Well I'd climb the mountain's highest peak
+Jump into a burning heap
+Without you
+Baby, that's what I'd do
+
+They say life's a bowl of cherries
+Hmmm, hmmm, good
+But what good are cherries
+Or any wild berries
+If love ain't what it should?
+
+If you leave me
+What would I do?
+Hang my head down and cry
+End my life
+I'd die, die, die without you
+Baby, that's what I'd do
+
+They say life's a bowl of cherries
+Hmmm, hmmm, good
+But what good are cherries
+Or any wild berries
+If love ain't what it should?
+
+If you leave me
+What would I do?
+Hang my head down and cry
+End my life
+I'd die, die, die without you
+Baby, that's what I'd do
+
+Yes, that's what I'd do
+If I didn't have you

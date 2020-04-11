@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-the-bachelors
+lyrics_url: https://genius.com/The-bachelors-i-believe-lyrics
 name: I Believe
 rankings:
 - end_date: '1964-07-03'
@@ -39,4 +40,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
 ---
+I believe for every drop of rain that falls a flower grows
+I believe that somewhere in the darkest night a candle glows
+I believe for everyone who goes astray someone will come to show the way
+I believe, I believe
 
+I believe above the storm the smallest prayer will still be heard
+I believe that someone in the great somewhere hears every word
+Every time I hear a newborn baby cry or touch a leaf or see the sky
+Then I know why I believe
+
+Every time I hear a newborn baby cry or touch a leaf or see the sky
+Then I know why I believe

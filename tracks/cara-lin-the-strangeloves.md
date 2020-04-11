@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cara-lin-the-strangeloves
+lyrics_url: https://genius.com/The-strangeloves-cara-lin-lyrics
 name: Cara-Lin
 rankings:
 - end_date: '1965-09-24'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
-
+Pretty as a picture
+Glory what a picture
+You ought to see the shape she's in
+What she ain't got has never been
+Whoa
+Cara-Lin
+Cara-Lin
+Cara-Lin
+Cara-Lin
+Whoa
+When we go out walkin
+Boy the dogs start barkin
+She can make a left, right
+Man this chick is out of sight
+Cara-Lin
+Cara-Lin
+Cara-Lin
+Cara-Lin
+Hey, hey, hey
+Hey, hey, hey
+She just don't affect me
+Man this chick upsets me
+She's got everything I need
+Satisfactions guaranteed
+Whoa
+Cara-Lin
+Cara-Lin
+Whoa
+Cara-Lin
+Cara-Lin
+Whoa
+C-a-r-a-L-i-n
+Cara-Lin
+Whoa
+C-a-r-a-L-i-n
+Cara-Lin
+Whoa

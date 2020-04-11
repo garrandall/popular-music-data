@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sweetest-thing--i-ve-ever-known--juice-newton
+lyrics_url: https://genius.com/Juice-newton-the-sweetest-thing-lyrics
 name: The Sweetest Thing (I've Ever Known)
 rankings:
 - end_date: '1981-10-23'
@@ -103,4 +104,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
 ---
+When I see you in the morning with the sleep still in your eyes
+I remember all the laughter and the tears we shared last night
+And as we lie here, just two shadows in the light before the dawn
+The sweetest thing I've ever known is loving you
 
+And I have never been afraid of losing now
+And I have never wanted love to be a chain
+I only know that when I'm with you, you're my sunshine, you're my rain
+The sweetest thing I've ever known is loving you
+The sweetest thing I've ever known is loving you
+
+Now, you and I, we're not children
+We have both been loved before
+We have given and we have taken many rides on troubled shores
+But all the heartaches and temptations only make me love you more
+The sweetest thing I've ever known is loving you
+
+And I have never been afraid of losing now
+And I have never wanted love to be a chain
+I only know that when I'm with you, you're my sunshine, you're my rain
+The sweetest thing I've ever known is loving you
+The sweetest thing I've ever known is loving you

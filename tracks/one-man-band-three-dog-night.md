@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-man-band-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-one-man-band-lyrics
 name: One Man Band
 rankings:
 - end_date: '1970-11-27'
@@ -51,4 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
+Ain't no two ways about it
+I just can't live without ya
+Let's get together, I can't wait forever
+Here I am, take my hand
+I'm your man
 
+Ain't no two ways about it
+I just got to shout
+Let's get together, I can't wait forever
+Here I am, take my hand
+I'm your man
+
+Baby, let me be your one man band, your one man band
+Baby, let me be your one man band, your one man band
+
+I just wanna be your one man, your one man band
+I just wanna be your one man, your one man band
+I just wanna be, I just wanna be
+I just wanna be your one man band
+I just wanna be, I just wanna be
+I just wanna be your one man band
+I just wanna be, I just wanna be
+I just wanna be your one man band
+I just wanna be, I just wanna be
+I just wanna be your one man ban', oooo

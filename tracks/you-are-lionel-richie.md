@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-lionel-richie
+lyrics_url: https://genius.com/Lionel-richie-you-are-lyrics
 name: You Are
 rankings:
 - end_date: '1983-01-21'
@@ -79,4 +80,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
 ---
+Baby you'll find
+There's only one love
+Yours and mine
+I've got so much love
+And needing you so
+My love for you
+I'll never let go
+I've got so much love
+All I want is to hold you
+Let me show how much I love you baby (show you)
+I don't mind and I don't mind (loving you)
+Girl I love you
+There's no one above you
 
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh yeah yeah)
+
+
+
+Tell me it's true
+I can't believe you do what you do
+I've got so much love
+And my love you'll see
+We'll stay together, just you and me
+I've got so much love
+Only you (know me)
+Tell me how to love you baby (show me)
+I don't mind and I don't mind (tell me)
+Girl, I love you
+Always thinking of you
+
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh yeah yeah)
+
+
+I know you know the way I feel
+And I need your love for always
+Cause when I'm with you
+I fall in love
+Again and again and again, baby
+
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh yeah yeah)
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh )
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh)
+
+You are the sun
+You are the rain
+That makes my life this foolish game
+You need to know
+I love you so
+And I'd do it all again and again
+(oh oh oh oh yeah yeah)

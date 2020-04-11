@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: isn-t-it-time-the-babys
+lyrics_url: https://genius.com/The-babys-isnt-it-time-lyrics
 name: Isn't It Time
 rankings:
 - end_date: '1977-10-14'
@@ -71,4 +72,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
 ---
+Falling in love was the last thing I had on my mind
+Holding you is a warmth that I thought I could never find
 
+(Sitting here all alone) Just trying to decide
+(Whether to go all alone) Or stay by your side
+(Then I stop myself because) I know I could cry
+
+I just can't find the answers
+To the questions that keep going through my mind
+Hey, babe
+Isn't it time?
+
+(Isn't it time? it took time to wait)
+(Falling in love could be your mistake)
+Isn't it time?
+(Isn't it time? you took time to wait)
+(Falling in love could be your mistake)
+
+I've seen visions of someone like you in my life
+A love that's strong reaching out
+Holding me through the darkest night
+
+(Sitting here all alone) Just trying to decide
+(Whether to go all alone) Or stay by your side
+(Then I stop myself because) I don't want to cry
+
+I just can't find the answers
+To the questions that keep going through my mind
+Hey, babe
+Isn't it time?
+
+(Isn't it time? it took time to wait)
+(Falling in love could be your mistake)
+Isn't it time?
+(Isn't it time? you took time to wait)
+(Falling in love could be your mistake)
+
+I feel a warmth in my heart and my soul that I never knew
+This love affair gives me strength that I need just to get me through
+
+(Sitting here all alone) Just wondering why
+(Then I stop myself because) I know I could cry
+(Then I think of you) And everything seems alright
+
+I've finally found the answers
+To the questions that keep going through my mind
+Hey, babe
+Isn't it time?
+
+(Isn't it time? you don't have to wait) (Don't have to wait)
+I know it's time
+(Losing this love could be your mistake)
+Ooh, yeah (Isn't it time?) I know it's time
+
+(Isn't it time? you don't have to wait)
+It must be time (Don't have to wait)
+(Losing this love could be your mistake)
+(Isn't it time?) It must be time
+
+(Isn't time you don't have to wait)
+(Don't have to wait) It oughta be time
+(Losing this love could be your mistake)
+(Isn't it time?)
+
+(Isn't it time? you don't have to wait)
+(Don't have to wait)
+It must be time
+(Losing this love could be your mistake)
+(Isn't it time?)
+
+(Isn't it time? you don't have to wait)
+(Don't have to wait)
+(Losing this love could be your mistake)
+(Isn't it time?)
+
+(Isn't it time? you don't have to wait)
+(Don't have to wait)
+(Losing this love could be your mistake)
+(Isn't it time?)
+
+(Isn't it time? you don't have to wait)
+(Don't have to wait)
+(Losing this love could be your mistake)
+(Isn't it time?)
+
+(Isn't it time? you don't have to wait)
+(Don't have to wait)
+(Losing this love could be your mistake)
+(Isn't it time?)

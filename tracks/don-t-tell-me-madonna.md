@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-madonna
+lyrics_url: https://www.musixmatch.com/lyrics/Madonna-7/Don-t-Tell-Me
 name: Don't Tell Me
 rankings:
 - end_date: '2000-12-15'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
 ---
+Don't tell me to stop
+Tell the rain not to drop
+Tell the wind not to blow
+'Cause you said so
 
+Tell the sun not to shine
+Not to get up this time, no, no
+Let it fall by the way
+But don't leave me where I lay down
+
+Tell me love isn't true
+It's just something that we do
+Tell me everything I'm not
+But please don't tell me to stop
+
+Tell the leaves not to turn
+But don't ever tell me I'll learn, no, no
+Take the black off a crow
+But don't tell me I have to go
+
+Tell the bed not to lay
+Like the open mouth of a grave, yeah
+Not to stare up at me
+Like a calf down on its knees
+
+Tell me love isn't true
+It's just something that we do
+Tell me everything I'm not
+But don't ever tell me to stop (Don't you ever tell)
+
+Tell me love isn't true
+It's just something that we do (Don't you ever tell)
+Tell me everything I'm not
+But don't ever tell me to stop (Don't you ever)
+
+Please don't
+Please don't
+Please don't tell me to stop (Don't you ever tell)
+Don't you ever
+Don't ever tell me to stop (Tell the rain not to drop)
+
+Tell the bed not to lay
+Like a open mouth of a grave, yeah
+Not to stare up at me
+Like a calf down on its knees
+
+Tell the bed not to lay
+Like a open mouth of a grave, yeah
+Not to stare up at me
+Like a calf down on its knees

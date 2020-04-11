@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-mary-hopkin
+lyrics_url: https://genius.com/Mary-hopkin-goodbye-lyrics
 name: Goodbye
 rankings:
 - end_date: '1969-04-25'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
 ---
+Please don't wake me up too late, tomorrow comes
+And I will not be late
+Late today when it becomes tomorrow
+I will leave to go away
 
+Goodbye
+Goodbye
+Goodbye, goodbye, my love
+Goodbye
+
+Songs that lingered on my lips excite me now
+And linger on my mind
+Leave your flowers at my door, I leave them for
+The one who waits behind
+
+Goodbye
+Goodbye
+Goodbye, goodbye, my love
+Goodbye
+
+Goodbye
+Goodbye
+Goodbye, goodbye, my love
+Goodbye
+
+Far away my lover sings a lonely song
+And calls me to his side
+When a song of lonely love invites me on
+I must go to his side
+
+Goodbye
+Goodbye
+Goodbye, goodbye, my love
+Goodbye

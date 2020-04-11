@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: away-from-the-sun-3-doors-down
+lyrics_url: https://www.musixmatch.com/lyrics/3-Doors-Down/Away-From-the-Sun
 name: Away From The Sun
 rankings:
 - end_date: '2004-07-09'
@@ -67,4 +68,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
 ---
+It's down to this
+I've got to make this life make sense
+Can anyone tell what I've done?
+I miss the life
+I miss the colors of the world
+Can anyone tell where I am
 
+'Cause now again I've found myself
+So far down
+Away from the sun that shines into
+The darkest place
+I'm so far down
+Away from the sun again
+Away from the sun again
+
+I'm over this
+I'm tired of living in the dark
+Can anyone see me down here?
+The feeling's gone
+There's nothing left to lift me up
+Back into the world I know
+
+'Cause now again I've found myself
+So far down
+Away from the sun that shines into
+The darkest place
+I'm so far down
+Away from the sun
+
+That shines to light the way for me
+To find my way
+Back into the arms
+That care about the ones like me
+I'm so far down
+Away from the sun again
+
+Oh no
+Yeah
+Oh no
+
+It's down to this
+I've got to make this life make sense
+And now I can't tell what I've done
+
+And now again I've found myself
+So far down
+Away from the sun
+That shines to light the way for me
+
+Because now again I've found myself
+So far down
+Away from the sun that shines into
+The darkest place
+I'm so far down
+Away from the sun
+That shines to light the way for me
+
+To find my way
+Back into the arms
+That care about the ones like me
+I'm so far down
+Away from the sun again
+
+Oh no
+Yeah
+I'm gone

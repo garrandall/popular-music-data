@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cast-your-fate-to-the-wind-sounds-orchestral
+lyrics_url: https://genius.com/Sounds-orchestral-cast-your-fate-to-the-wind-lyrics
 name: Cast Your Fate To The Wind
 rankings:
 - end_date: '1965-03-26'
@@ -63,4 +64,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+A month of nights, a year of days
+Octobers drifting into Mays
+I set my sail when the tide comes in
+I just cast my fate to the wind
 
+I shift my course along the breeze
+Won't sail upwind on memories
+The empty sky is my best friend
+I just cast my fate to the wind
+
+A month of nights, a year of days
+Octobers drifting into Mays
+I set my sail when the tide comes in
+I just cast my fate to the wind

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smarty-pants-first-choice
+lyrics_url: https://genius.com/First-choice-smarty-pants-lyrics
 name: Smarty Pants
 rankings:
 - end_date: '1973-11-23'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
 ---
+By the way
+My name is Smarty Pants
+I could win a man
+With just one glance
+And not too many men had escaped
+Do my man wrong
+Make him believe that he's to blame
 
+
+They call me Smarty Pants
+Looking for a man
+All it took was just one glance
+Call me Smarty Pants
+From the day
+I laid my eyes on Dan
+I knew then, I had to win this man
+So I got the hottest hot pants I could find
+And I gave Dan somethin'
+To really blow his mind
+
+
+Nine months later
+Looks like the joke's on me
+Dan's still on the corner
+And I'm a mother-to-be
+They call her
+(Smarty Pants, Smarty Pants)
+(Smarty Pants, Smarty Pants)
+(Smarty Pants, Smarty Pants)

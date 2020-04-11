@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-live-without-you-foreigner
+lyrics_url: https://genius.com/Foreigner-i-dont-want-to-live-without-you-lyrics
 name: I Don't Want To Live Without You
 rankings:
 - end_date: '1988-03-25'
@@ -75,4 +76,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
 ---
+I find myself in a strange situation
+And I don't know how
+What seemed to be an infatuation
+Is so different now
+I can't get by if we're not together
+Ooh can't you see
+Girl, I want you now and forever
+Close to me
 
+
+I'm longing for the time
+I'm longing for the day
+Hoping that you will promise to be mine
+And never go away
+
+
+I don't want to live without you
+I could never live without you
+Live without your love
+
+
+I ask myself but there's no explanation
+For the way I feel
+I know I've reached the right destination
+And I know it's real
+
+
+I'm longing for the time
+I'm longing for the day
+When I'll be giving you this heart of mine
+Believe me when I say
+
+
+
+
+Now I don't want to live without you
+I don't want to live without you
+I could never be without you
+Be without your love
+I don't want to live without you
+Live without your love
+You see I'm lost without your love
+
+
+Oh...oh
+Without your love

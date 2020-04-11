@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-gotta-make-a-fool-of-somebody-maxine-brown
+lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/If-You-Gotta-Make-a-Fool-of-Somebody
 name: If You Gotta Make A Fool Of Somebody
 rankings:
 - end_date: '1965-12-17'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+If you gotta make a fool of somebody
+If you gotta make a fool of someone
+Do you really gotta hurt me
+I'm the one that'll worry
+I worry about you, yeah
 
+If you gotta make a fool of somebody
+If you gotta to make a fool of someone
+Do you really gotta hurt me
+I'm the one that worries
+Always true, yeah
+
+Now listen to me
+The day time, the night time
+Anytime at all
+I'll rush to your side
+Anytime you call
+
+Just to be near you, you know
+Anywhere I go
+How could you hurt me so
+
+If you gotta make a fool of somebody
+If you gotta make a fool of someone
+Do you really gotta hurt me
+Oh, I'm the one that'll worries
+I worry about you, yeah
+
+Take it easy, baby
+Don't try to hurt me
+If you try to hurt me, baby...

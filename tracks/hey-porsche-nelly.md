@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-porsche-nelly
+lyrics_url: https://genius.com/Nelly-hey-porsche-lyrics
 name: Hey Porsche
 rankings:
 - end_date: '2013-03-15'
@@ -23,4 +24,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
 ---
+Hey lil' Porsche, I wanna try ya
+Crazy baby girl, there ain't nothing like you
+Hey lil' Porsche, so right I had to get ya
+B-b-back it up, let's roll, roll, roll, roll
 
+
+Girl let’s go!
+You sexy thing, you turn me on
+I need a private show, here on the lawn, in my garage
+I take you on the road, hey Porsche girl
+You know what I wanna do (wanna do)
+Come on let me slide under so I can work on, work on you
+
+
+I wanna take your top off, celebrate this champagne pop-off
+Yeah, we could turn the clocks off
+No rush, baby we could just park somewhere
+I don't need nobody's permission
+No keys, push start to ignition, say
+
+
+Hey lil' Porsche, I wanna try ya
+Crazy baby girl, there ain't nothing like you
+Hey lil' Porsche, so right I had to get ya
+B-b-back it up, let's roll, roll, roll, roll
+
+
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you
+
+
+Girl you know
+Damn I've been dreaming about the day you let me take you home
+Just for a week and maybe more
+Just say it, say I've never seen an ass like that
+You gon' make a nigga crash like that
+Since I seen you in the window, knew what I was in for
+Spending every rack on that
+
+
+I wanna take your top off, celebrate this champagne pop-off
+Yeah, we could turn the clocks off
+No rush, baby we could just park somewhere
+I don't need nobody's permission yeah
+No keys, push start to ignition, say
+
+
+Hey lil' Porsche, I wanna try ya
+Crazy baby girl, there ain't nothing like you
+Hey lil' Porsche, so right I had to get ya
+B-b-back it up, let's roll, roll, roll, roll
+
+
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you
+
+
+I wanna see how fast you can go
+See how you handle as I'm losing control
+As I make you turn around
+Hey, let me turn up your sun
+T-t-turn it up and now here we go
+
+
+Hey lil' Porsche, I wanna try ya
+Crazy baby girl, there ain't nothing like you
+Hey lil' Porsche, so right I had to get ya
+B-b-back it up, let's roll, roll, roll, roll
+
+
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you
+Na-na-na-na-na-na
+Hey Porsche
+Na-na-na-na-na-na
+I want you

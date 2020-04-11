@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-go-crazy-andy-griggs
+lyrics_url: https://www.musixmatch.com/lyrics/Andy-Griggs/I-ll-Go-Crazy
 name: I'll Go Crazy
 rankings:
 - end_date: '1999-10-08'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
 ---
-
+You say you wanna let me go
+Well theres on thing that you should know
+I'll walk away willingly
+And you'll never even hear me leave
+I'll go quietly
+I'll go silently
+But I'll go crazy, without you
+Insane with a heart so blue
+They'll have to lock me away
+And I wont last one day
+Without you baby
+I'll go Crazy
+I never thought I'd see the day
+When I have to walk away
+But I still think theres a ray of hope
+But your the one who's lettin' go
+I'll go easily
+I'll go where you please
+But I'll go crazy without you
+Insane with a heart so blue
+They'll have to lock me away
+And I wont last one day
+Without you baby
+I'll go Crazy
+I'll go and take the blame
+I'll go down in flames
+But I'll go crazy without you
+Insane with a heart so blue
+They'll have to lock me away
+And I wont last one day
+Without you baby
+Hey I'll go Crazy
+Hey I'll go crazy
+Well I'll go crazy

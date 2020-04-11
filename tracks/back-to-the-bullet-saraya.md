@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-to-the-bullet-saraya
+lyrics_url: https://genius.com/Saraya-back-to-the-bullet-lyrics
 name: Back To The Bullet
 rankings:
 - end_date: '1989-11-17'
@@ -43,4 +44,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-06'
 ---
+Lately I find myself driving past your house
+Past the bar we used to go, whoa
+Anywhere that you might be
+Oh, that's where my body leads me
+Ooh, it's the only place I know
+Gonna follow where it leads me
+Even if I don't wanna go
 
+Here I am, back to the bullet
+Shoot me down again, I want you to
+Here I am, back to the bullet
+This time I won't run from you
+
+Heard it all before and I know I'll hear it again
+"He's no good, better stay away"
+But every night when I picture us alone
+Oh, the words just fade away
+Holding on to yesterday
+
+Here I am, back to the bullet
+Shoot me down again, I want you to, oh
+Here I am, back to the bullet
+This time I won't run from you
+
+Run from you
+Whoa, c'mon, baby
+
+This is where I belong
+Been running from the truth too long
+
+This is where I belong
+Been running from the truth too long
+Oh-oh-oh-oh-oh...
+
+Here I am, back to the bullet
+This time I won't, this time I won't
+This time I won't run from you
+
+(Back to the bullet)
+Ooh, I won't run from you
+No, no, no, no, no, no
+I won't run from you
+Whoa, whoa, whoa
+
+(Back to the bullet)
+I won't run from you
+I won't run from you
+(Back to the bullet)
+Hey, hey, yeah
+(Back to the bullet)
+Hey, hey
+I won't run
+(Back to the bullet)

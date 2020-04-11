@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-gotta-make-a-fool-of-somebody-james-ray
+lyrics_url: https://genius.com/James-ray-if-you-gotta-make-a-fool-of-somebody-lyrics
 name: If You Gotta Make A Fool Of Somebody
 rankings:
 - end_date: '1961-11-26'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
 ---
+If you gotta make a fool of somebody
+If you gotta make a fool of someone
+Do you really gotta hurt me
+I'm the one that'll worry about you
 
+If you gotta make a fool of somebody
+If you gotta make a fool of someone
+Do you really gotta hurt me
+I am the one that'll love you, always true
+
+Daytime or nighttime, anytime at all
+I'll rush to your side anytime you call
+Just to be near you, you know
+Anywhere I'll go
+How could you hurt me so... Oh
+
+If you gotta make a fool of somebody
+If you gotta make a fool of someone
+Do you really gotta hurt me
+I'm the one that'll worry, about you
+
+Take it easy baby
+Please don't hurt me

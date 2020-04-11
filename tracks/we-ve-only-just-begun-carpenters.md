@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-ve-only-just-begun-carpenters
+lyrics_url: https://genius.com/Carpenters-weve-only-just-begun-lyrics
 name: We've Only Just Begun
 rankings:
 - end_date: '1970-09-18'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
 ---
+We've only just begun to live
+White lace and promises
+A kiss for luck and we're on our way
+We've only begun
 
+Before the rising sun, we fly
+So many roads to choose
+We'll start out walking and learn to run
+And yes, we've just begun
+
+
+Sharing horizons that are new to us
+Watching the signs along the way
+Talkin' it over, just the two of us
+Workin' together day to day, together
+
+
+And when the evening comes, we smile
+So much of life ahead
+We'll find a place where there's room to grow
+And yes, we've just begun
+
+
+Sharing horizons that are new to us
+Watching the signs along the way
+Talkin' it over, just the two of us
+Workin' together day to day, together
+
+
+And when the evening comes, we smile
+So much of life ahead
+We'll find a place where there's room to grow
+And yes, we've just begun
+
+
+(Flute and Piano)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-do-fools-fall-in-love-the-happenings
+lyrics_url: https://genius.com/The-happenings-why-do-fools-fall-in-love-lyrics
 name: Why Do Fools Fall In Love
 rankings:
 - end_date: '1967-09-29'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
 ---
+Ooooo wah, oooooo wah, ooooo wah, oooooo wah
+Ooooo wah, oooooo wah, Why do fools fall in love
 
+Why do birds sing so gay
+And lovers await the break of day?
+Why do they fall in love?
+Why does the rain fall from up above?
+Why do fools fall in love?
+Why do they fall in love?
+
+Love is a losing game
+Love can be a shame I
+Know of a fool, you see
+For that fool is me!
+Tell me why, tell me why?
+
+Why do birds sing so gay
+And lovers await the break of day?
+Why do they fall in love?
+Why does the rain fall from up above?
+Why do fools fall in love?
+Why do they fall in love?
+
+Why does my heart skip a crazy beat?
+For I know it will reach defeat!
+Tell me why, tell me why?
+Why do fools fall in love?

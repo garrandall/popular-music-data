@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-need-your-love-angelina
+lyrics_url: https://genius.com/Angelina-i-dont-need-your-love-lyrics
 name: I Don't Need Your Love
 rankings:
 - end_date: '1996-10-25'
@@ -51,4 +52,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
 ---
+Ah, Ah
+No! No! No!
+Ah, Ah
+No! No! No!
+Ah, Ah
+No! No! No!
+No! No! No!
+Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah (fade)
 
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+
+Thinking about the times we spent together
+You said you'd never leave
+But then you left me lonely
+And now you're here boy
+And you are my love
+No second chances
+Boy your time is up
+Cuz now I'm stronger
+And I'm standing on my own
+So...
+
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+
+Do you remember
+How you used to say you loved me?
+You promised me the world
+And placed no one above me
+I've learned my lesson
+And I've learned it well
+Now I know better
+There's nothing left to say
+The doors are closed now
+I dont want you back no more!
+Nooo!
+
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+
+I dont need-
+I dont need-
+No more!
+I dont need-
+I dont need-
+No more!
+
+Recordando
+El amor que me has dado
+Prometias que siempre estaria a tu lado
+Pero me dejaste
+Sin qualquiere razon
+Y me quebraste
+El corazon
+He aprendido
+Y no quiero tu amor!
+Ya no quiero mas!
+
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more
+I dont need your - No! No! No!
+I dont need your - No! No! No!
+I dont need your love no more

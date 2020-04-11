@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-the-tymes
+lyrics_url: https://www.musixmatch.com/lyrics/The-Tymes/Somewhere
 name: Somewhere
 rankings:
 - end_date: '1963-12-13'
@@ -51,4 +52,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
 ---
+Somewhere my love waits for me.
+Somewhere beyond the sky and sea.
+Somewhere I'll see her and my heart will know
+This is the face that I love so.
 
+I hear her voice everywhere
+Even in dreams she is there.
+I'll search forever 'till the day I die
+And somewhere, someday I'll find my love somewhere.
+
+Somewhere I'll see her and my heart will know
+This is the face that I love so.
+
+I hear her voice everywhere
+Even in dreams she is there.
+I'll search forever 'till the day I die
+And somewhere, someday I'll find my love somewhere.

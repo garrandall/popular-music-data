@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: believe-me-royal-teens
+lyrics_url: https://genius.com/The-royal-teens-believe-me-lyrics
 name: Believe Me
 rankings:
 - end_date: '1959-11-01'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
 ---
+Each night as I go wandering
+Down the street of tears
+I think about the love we shared
+Throughout our teenage years
 
+Believe me, ooooooh, wah oooooooooh
+Wah oooooooooh, believe me
+
+Just because you said goodbye
+Do you think that I will die
+Just because you broke my heart
+Now you thinking you're so smart
+
+All the kids in town will know
+They will know you hurt me so
+Did you have to tell them all
+That I still love you
+
+I love you so
+Can't let you go
+(Believe me, believe me)
+If you return
+Love's flame will burn
+(Believe me, believe me)
+
+Just because you said goodbye
+Do you think that I will die
+Just because you broke my heart
+Now you thinking you're so smart
+
+All the kids in town will know
+They will know you hurt me so
+Did you have to tell them all
+That I still love you-ooooooooooou
+Oooooooooh wah ooooooooooh
+
+Oooooooooh wah ooooooooooh
+Oooooooooh wah ooooooooooh
+Oooooooooh wah ooooooooooh

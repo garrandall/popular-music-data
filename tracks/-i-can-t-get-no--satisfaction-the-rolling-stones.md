@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-can-t-get-no--satisfaction-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-i-cant-get-no-satisfaction-lyrics
 name: (I Can't Get No) Satisfaction
 rankings:
 - end_date: '1965-06-18'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
 ---
+I can't get no satisfaction
+I can't get no satisfaction
+Cause I try and I try and I try and I try
+I can't get no, I can't get no
 
+
+When I'm driving in my car
+And that man comes on the radio
+And he's telling me more and more
+About some useless information
+Supposed to fire my imagination
+I can't get no, oh no, no, no!
+Hey, hey, hey! That's what I'll say!
+
+
+I can't get no satisfaction
+I can't get no satisfaction
+'Cause I try, and I try, and I try, and I try
+I can't get no, I can't get no
+
+
+When I'm watching my TV
+And a man comes on and tells me
+How white my shirts can be
+Well he can't be a man cause he doesn't smoke
+The same cigarettes as me
+I can't get no, oh no, no, no
+Hey, hey, hey, that's what I say
+
+
+I can't get no satisfaction
+I can't get no girl reaction
+'Cause I try, and I try, and I try, and I try
+I can't get no, I can't get no
+
+
+When I'm riding round the world
+And I'm doing this and I'm signing that
+And I'm trying to make some girl
+Who tells me baby, better come back, maybe next week
+'Cause you see, I'm on a losing streak
+I can't get no, oh no, no, no
+Hey, hey, hey! That's what I'll say!
+I can't get no (x3)
+I can't get no satisfaction
+No satisfaction (x3)
+I can't get no

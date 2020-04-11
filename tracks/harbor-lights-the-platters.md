@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harbor-lights-the-platters
+lyrics_url: https://genius.com/The-platters-harbor-lights-lyrics
 name: Harbor Lights
 rankings:
 - end_date: '1960-01-31'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+I saw the harbor lights
+They only told me we were parting
+The same old harbor lights
+That once brought you to me
 
+I watched the harbor lights
+How could I help if tears were starting
+Goodbye to tender nights
+Beside the silvery sea
+
+I long to hold you near
+And kiss you just once more
+But you were on the ship
+And I was on the shore
+
+Now I know lonely nights
+For all the while my heart is whispering
+"Some other harbor lights
+Will steal your love from me"
+
+I long to hold you near
+And kiss you just once more
+But you were on the ship
+And I was on the shore
+
+Now I know lonely nights
+For all the while my heart is whispering
+"Some other harbor lights
+Will steal your love from me"

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-eyes-stevie-b
+lyrics_url: https://genius.com/Stevie-b-in-my-eyes-lyrics
 name: In My Eyes
 rankings:
 - end_date: '1989-06-02'
@@ -75,4 +76,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
+You gotta believe there is something inside of me
+You might say, "How could you so fast"
+Is the way you make me feel like you understand
+There is a way I can meet your demand, girl 'cause
 
+
+If you see the sun in my eyes
+It should be as no surprise
+It's the light of love inside of me
+Now tell me what do you see
+
+
+In my eyes (And I wanna show you, girl)
+In my eyes (And I wanna know you, know you tonight)
+In my eyes (And when you kiss me, girl)
+In my eyes (You just don't know how you make me feel)
+
+In my eyes (The love I have inside of me)
+In my eyes (I wanna give it all to you, girl)
+In my eyes (And if you give me a chance)
+In my eyes (I just wanna be your, be your man)
+
+
+I know it's hard to see how I feel this way
+I just don't have control of my heart
+And if you feel what I feel and you wanna stay
+Just give me a sign, girl, and we'll never part
+
+
+And if you see the sun in my eyes
+It should be as no surprise
+It's the light of love inside of me
+Now tell me what do you see
+
+
+In my eyes (And I wanna show you, girl)
+In my eyes (And I wanna know you, know you tonight)
+In my eyes (And when you kiss me, girl)
+In my eyes (You just don't know how you make me feel)
+
+In my eyes (The love I have inside of me)
+In my eyes (I wanna give it all to you, girl)
+In my eyes (And if you give me a chance)
+In my eyes (I just wanna be your, be your man)
+
+
+You gotta believe there is something inside of me
+You might say, "How could you so fast"
+Is the way you makin' me feel like you understand
+'Cause there is a way I can meet your demand, girl 'cause
+
+
+If you see the sun in my eyes
+It should be as no surprise
+It's the light of love inside of me
+Now tell me what do you see
+
+
+In my eyes (And I wanna show you, girl)
+In my eyes (And I wanna know you, know you tonight)
+In my eyes (And when you kiss me, girl)
+In my eyes (You just don't know how you make me feel)
+
+In my eyes (The love I have inside of me)
+In my eyes (I wanna give it all to you, girl)
+In my eyes (And if you give me a chance)
+In my eyes (I just wanna be your, be your man)

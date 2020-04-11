@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brother-louie-stories
+lyrics_url: https://genius.com/Stories-brother-louie-lyrics
 name: Brother Louie
 rankings:
 - end_date: '1973-06-29'
@@ -79,4 +80,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
 ---
+She was black as the night;
+Louie was whiter than white
+Danger, danger when you taste brown sugar
+Louie fell in love overnight
 
+Nothing bad, it was good
+Louie had the best girl he could
+When he took her home
+To meet his mama and papa;
+Louie knew just where he stood
+
+Louie Louie Louie louie, Louie Louie Louie Lou I
+Louie Louie Louie Louie, Louie Louie you're gonna cry
+
+There he stood in the night
+Knowing what's wrong from what's right
+He took her home to meet his mama and papa
+Man, they had a terrible fight
+
+Louie nearly caused a scene
+Wishin' it was a dream
+Ain't no diff'rence if you're black or white
+Brothers, you know what I mean, come on
+Louie Louie Louie
+
+Louie Louie Louie Louie, Louie Louie Louie Lou I
+Louie Louie Louie Louie, Louie Louie you're gonna cry
+
+
+
+Louie Louie Louie Louie, Louie Louie Louie Lou I
+Louie Louie Louie Louie, Louie Louie you're gonna cry

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-wedding-june-valli
+lyrics_url: https://genius.com/June-valli-the-wedding-lyrics
 name: The Wedding
 rankings:
 - end_date: '1958-11-30'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
 ---
+Here I stand
+His ring
+Is on my hand
+But he's second best
+In my heart
 
+He loves me so
+Dear Lord
+Don't let him know
+I'm only playing
+A part
+
+Here I stand
+My ring is on her hand
+But I know she's playing
+A part
+I need her so
+I'm right for her I know
+But I'm second best
+In her heart
+
+(How handsome the groom) There they stand
+(How lovely the bride) His ring is on her hand
+(How faithful the friend as he stands by their side) But once once I was first in her heart
+(How happy a wedding?) I made her see a friend I'd always be
+(This?) I've loved someone else from the start
+
+Dear Lord above
+Inspire me with a love
+So strong
+That the past (Dear Lord above)
+Will depart (Let me stand by her side)
+Don't let me rest
+Until the second best
+Is truly the first
+In my heart
+The first
+And last
+In my heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honey-hush-joe-turner
+lyrics_url: https://genius.com/Joe-turner-honey-hush-lyrics
 name: Honey Hush
 rankings:
 - end_date: '1960-01-03'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
+Ah let 'em roll like a big wheel
+In a Georgia cotton field
+Honey hush
 
+Come in this house, stop all that yackety yack
+Come in this house, stop all that yackety yack
+Come fix my supper, don't want no talkin' back
+
+Well, you keep on jabberin', you talk about this and that
+Well, you keep on jabberin', you talk about this and that
+I got news for you baby, you ain't nothin' but an alley cat
+
+Turn off the waterworks, baby, they don't move me no more
+Turn off the waterworks, baby, they don't move me no more
+When I leave this time, I ain't comin' back no more
+
+Honey hush
+Come in this house, stop all that yackety yack
+Come in here woman, stop all that yackety yack
+Don't make me noivous , 'cause I'm holdin' a baseball bat
+
+Singin' hi-yo, hi-yo silver
+Hi-yo, hi-yo silver
+Hi-yo, hi-yo silver
+Hi-yo, hi-yo silver
+Hi-yo, hi-yo silver
+Hi-yo silver away!

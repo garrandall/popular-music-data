@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: even-now-bob-seger-the-silver-bullet-band
+lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Even-Now
 name: Even Now
 rankings:
 - end_date: '1983-03-18'
@@ -56,4 +57,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
 ---
+There's a highway, a lonesome stretch of gray
+It runs between us, and takes me far away
+Out in the distance, always within reach
+There's a crossroad, where all the victims meet
+I close my eyes, and see her face
+It's all I want to see
+And deep inside, it still amazes me
 
+Even now
+She's all that I want
+She's all that I need
+Even now
+She's givin' it all
+She's givin' it free
+Even now
+When everything's right
+When everything's wrong
+Even now
+She's keepin' me straight
+She's keepin' me strong
+She gets to me, somehow, Even now
+
+And through the darkness, through all the endless days
+Through all the changes, the pointless one act plays
+I can still make it, I can still stand tall
+Cause I've got my girl, to get me through it all
+Through all the doubt, and all the fear
+And all that I can't say, still somehow
+She'll help me find my way
+
+Even now
+She's still in my heart
+She's still in my soul
+Even now
+She's still on my mind
+Wherever I go
+Even now
+Through all of my days
+And all of my nights
+Even now
+She's keepin' it real
+She's keepin' it right
+She gets to me, somehow
+Even now
+Even now
+Oh, even now
+Even now
+Ahhh
+She's all that I want
+She's all that I need
+Even now
+She's givin' it all
+She's givin' it free
+Oh Oooh
+When everything's right
+When everything's wrong
+Oooh
+She's keepin' it real
+She's keepin' it strong
+Oh, Oh
+Even now

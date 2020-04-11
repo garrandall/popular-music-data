@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-we-never-loved-at-all-faith-hill
+lyrics_url: https://genius.com/Faith-hill-like-we-never-loved-at-all-lyrics
 name: Like We Never Loved At All
 rankings:
 - end_date: '2005-10-14'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-25'
 ---
+You never looked so good
+As you did last night
+Underneath the city lights
+There walking with your friend
+Laughing at the moon
+I swear you looked right through me
+But I'm still living with your goodbye
+And you're just going on with your life
 
+
+How can you just walk on by
+Without one tear in your eye?
+Don't you have the slightest feelings left for me?
+Maybe that's just your way
+Of dealing with the pain
+Forgetting everything between our rise and fall
+Like we never loved at all
+
+
+You, I hear you're doing fine
+Seems like you're doing well
+As far as I can tell
+Time (time) is leaving us behind (leaving us behind)
+Another week has passed
+And still I haven't laughed yet
+So tell me what your secret is
+(I wanna know, I wanna know, I wanna know)
+To letting go, letting go like you did, like you did
+
+
+How can you just walk on by
+Without one tear in your eye?
+Don't you have the slightest feelings left for me?
+Maybe that's just your way
+Of dealing with the pain
+Forgetting everything between our rise and fall
+Ooh, like we never loved at all
+
+
+Did you forget the magic?
+Did you forget the passion? (Passion)
+Did you ever miss me
+Ever long to kiss me?
+Oh, oh baby, baby (Oh, baby)
+
+
+Maybe that's just your way
+Of dealing with the pain
+Forgetting everything between our rise and fall
+Like we never loved at all

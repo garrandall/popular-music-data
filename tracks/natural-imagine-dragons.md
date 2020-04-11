@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: natural-imagine-dragons
+lyrics_url: https://genius.com/Imagine-dragons-natural-lyrics
 name: Natural
 rankings:
 - end_date: '2018-08-10'
@@ -115,4 +116,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
 ---
+Will you hold the line
+When every one of them has given up and given in? Tell me
+In this house of mine
+Nothing ever comes without a consequence or cost, tell me
+Will the stars align?
+Will Heaven step in? Will it save us from our sin? Will it?
+'Cause this house of mine stands strong
 
+
+That's the price you pay
+Leave behind your heart and cast away
+Just another product of today
+Rather be the hunter than the prey
+And you're standing on the edge, face up 'cause you're a
+
+
+Natural
+A beating heart of stone
+You gotta be so cold
+To make it in this world
+Yeah, you're a natural
+Living your life cutthroat
+You gotta be so cold
+Yeah, you're a natural
+
+
+Will somebody
+Let me see the light within the dark trees shadowing?
+What's happenin'?
+Lookin' through the glass, find the wrong within the past knowin'
+Oh, we are the youth
+Cut until it bleeds inside a world without the peace, facing
+A bit of the truth, the truth
+
+
+That's the price you pay
+Leave behind your heart and cast away
+Just another product of today
+Rather be the hunter than the prey
+And you're standing on the edge, face up 'cause you're a
+
+
+Natural
+A beating heart of stone
+You gotta be so cold
+To make it in this world
+Yeah, you're a natural
+Living your life cutthroat
+You gotta be so cold
+Yeah, you're a natural
+
+
+Deep inside me, I'm fading to black, I'm fading
+Took an oath by the blood of my hand, won't break it
+I can taste it, the end is upon us, I swear
+I'm gonna make it
+I'm gonna make it
+
+
+Natural
+A beating heart of stone
+You gotta be so cold
+To make it in this world
+Yeah, you're a natural
+Living your life cutthroat
+You gotta be so cold
+Yeah, you're a natural
+
+
+Natural
+Yeah, you're a natural

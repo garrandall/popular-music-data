@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-reason-i-m-living-bobby-darin
+lyrics_url: https://genius.com/Bobby-darin-youre-the-reason-im-living-lyrics
 name: You're The Reason I'm Living
 rankings:
 - end_date: '1963-01-25'
@@ -63,4 +64,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
 ---
+You're the reason I'm living
+You're the breath that I take
+You're the stars in my heaven
+You're the sun when I wake
+You're the reason I'm living
+Oh you carry me through
+All of life's little burdens
+I'd be lost without you
 
+A long long time ago
+When I was down
+Wo-o-o you picked me up
+And showed me true love
+Still could be found
+
+You're the reason I do things
+You're the things that I do
+You're the reason I'm livin
+I'd be lost without you
+
+Come and tell me again
+You're the reason I'm living
+Oh you carry me through
+All of life's little burdens
+I'd be lost without you

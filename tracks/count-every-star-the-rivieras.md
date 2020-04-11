@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: count-every-star-the-rivieras
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rivieras/Count-Every-Star
 name: Count Every Star
 rankings:
 - end_date: '1958-08-31'
@@ -23,4 +24,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
+Well count (doo wop doobie doo) every star
 
+Count every star in the midnight sky
+Count every rose every firefly
+For that's how many times I miss you
+Heaven knows
+I miss you
+
+Count every leaf on a willow tree
+Count every wave on a stormy sea
+Count every star and darling when you do
+You'll know the times
+I cried for you
+
+Count every star in the starry sky
+Count every rose every firefly
+For that's how many times I miss you
+Heaven knows
+I miss you
+
+Count every leaf on a willow tree
+Run every wave (doobie doo) -y sea
+Count every star and darling when you do
+You'll know the times
+I cried
+For you
+Ah ah ah ah ah ah ah ah ah

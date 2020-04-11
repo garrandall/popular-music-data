@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-if-you-can-toby-keith
+lyrics_url: https://genius.com/Toby-keith-love-me-if-you-can-lyrics
 name: Love Me If You Can
 rankings:
 - end_date: '2007-08-17'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
 ---
+Sometimes think the war is necessary
+Every night I pray for peace on earth
+And I hand down my dollars to the homeless
+But believe that every able soul should work
 
+
+My father gave me my shotgun
+That I'll hand down to my son
+Try to teach him everything it means
+
+
+I'm a man of my convictions
+Call me wrong, call me right
+But I bring my better angels to every fight
+You may not like where I'm going
+But you sure know where I stand
+Hate me if you want to
+Love me if you can
+
+
+I stand by my right to speak freely
+But I worry 'bout what kids learn from TV
+And before all of debatin' turns to angry words and hate
+Sometimes we should just agree to disagree
+
+
+And I believe that Jesus
+Looks down here and sees us
+And if you ask him, he would say

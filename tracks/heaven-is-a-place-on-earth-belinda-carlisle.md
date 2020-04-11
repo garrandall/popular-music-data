@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heaven-is-a-place-on-earth-belinda-carlisle
+lyrics_url: https://genius.com/Belinda-carlisle-heaven-is-a-place-on-earth-lyrics
 name: Heaven Is A Place On Earth
 rankings:
 - end_date: '1987-10-02'
@@ -91,4 +92,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
 ---
+Ooh, baby, do you know what that's worth?
+Ooh, heaven is a place on earth
+They say in heaven love comes first
+We'll make heaven a place on earth
+Ooh, heaven is a place on earth
 
+
+When the night falls down
+I wait for you
+And you come around
+And the world's alive
+With the sound of kids
+On the street outside
+
+
+When you walk into the room
+You pull me close and we start to move
+And we're spinning with the stars above
+And you lift me up in a wave of love
+
+
+Ooh, baby, do you know what that's worth?
+Ooh, heaven is a place on earth
+They say in heaven love comes first
+We'll make heaven a place on earth
+Ooh, heaven is a place on earth
+
+
+When I feel alone
+I reach for you
+And you bring me home
+When I'm lost at sea
+I hear your voice
+And it carries me
+
+
+In this world we're just beginning
+To understand the miracle of living
+Baby I was afraid before
+But I'm not afraid anymore
+
+
+Ooh, baby, do you know what that's worth?
+Ooh, heaven is a place on earth
+They say in heaven love comes first
+We'll make heaven a place on earth
+Ooh, heaven is a place on earth
+(Heaven)
+(Heaven)
+(Heaven)
+
+
+In this world we're just beginning
+To understand the miracle of living
+Baby I was afraid before
+But I'm not afraid anymore
+
+(Heaven)
+
+
+Ooh, baby, do you know what that's worth?
+Ooh, heaven is a place on earth
+They say in heaven love comes first
+We'll make heaven a place on earth
+Ooh, heaven is a place on earth
+Ooh, heaven is a place on earth
+Ooh, heaven is a place on earth
+Ooh, heaven is a place on earth
+Ooh, heaven is a place on earth
+Ooh, heaven is a place on earth

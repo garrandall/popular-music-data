@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-daddy-don-t-know-toronto
+lyrics_url: https://genius.com/Toronto-your-daddy-dont-know-lyrics
 name: Your Daddy Don't Know
 rankings:
 - end_date: '1982-08-13'
@@ -39,4 +40,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
 ---
+Makin' your move
+You come down as fast as lightnin'
+Crossin' the stage
+And now you can feel the excitement
 
+
+So, shake it up
+Turn it on
+Shake it up
+Yeah, yeah, yeah, yeah, yeah, yeah
+
+
+Your daddy don't know
+What your mama's gonna do tonight
+I said your daddy don't know
+What your mama's gonna do tonight
+
+
+She's breakin' your heart
+You'd better be your own best friend
+'Cause once you learn the steps
+It's somethin' you'll never forget
+
+
+So, shake it up
+Turn it on
+Shake it up
+Yeah, yeah, yeah, yeah, yeah, yeah
+
+
+Your daddy don't know
+What your mama's gonna do tonight
+I said your daddy don't know
+What your mama's gonna do tonight
+
+
+Shake it
+Shake it up
+Shake it up
+Sh... sh... shake it up
+
+
+
+
+Your daddy don't know
+What your mama's gonna do tonight
+I said your daddy don't know
+What your mama's gonna do tonight
+
+
+Shake it up
+Turn it on
+Shake it up
+Yeah, yeah, yeah, yeah, yeah, yeah
+
+
+Your daddy don't know
+What your mama's gonna do tonight
+I said your daddy don't know
+What your mama's gonna do tonight
+
+
+Now, your daddy don't know
+What your mama's gonna do tonight
+Your daddy don't know
+What your mama's gonna do tonight

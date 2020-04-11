@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-you-more-and-more-every-day-al-martino
+lyrics_url: https://genius.com/Al-martino-i-love-you-more-and-more-every-day-lyrics
 name: I Love You More And More Every Day
 rankings:
 - end_date: '1964-02-07'
@@ -51,4 +52,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
 ---
+I love you more and more every day
 
+They said our love was just emotion
+That time would slowly fade away
+But time's just deepened my devotion
+I love you more and more every day
+
+The day you made those tender vows beside me
+My joy was more than words could ever say
+And, darling, still it grows and grows inside me
+I love you more and more every day
+
+The day you made those tender vows beside me
+My joy was more than words could ever say
+And, darling, still it grows and grows inside me
+I love you more and more every day
+
+I love you more and more every day

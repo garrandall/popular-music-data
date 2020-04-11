@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beyond-the-sunset-pat-boone
+lyrics_url: https://genius.com/Pat-boone-beyond-the-sunset-lyrics
 name: Beyond The Sunset
 rankings:
 - end_date: '1959-12-06'
@@ -27,4 +28,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
 ---
-
+Beyond the sunset
+Oh, blissful morning
+When with our Savior
+Heaven's begun
+Earth's toiling ended
+Oh, glorious dawning
+Beyond the sunset
+When day is done
+(Spoken)
+Beyond the sunset
+No clouds will gather
+No storms will threaten
+No fears annoy
+Oh, day of gladness
+Oh, day unending
+Beyond the sunset
+Eternal joy
+Beyond the sunset
+Oh, glad reunion
+With our dear loved ones
+Who've gone before
+In that fair homeland
+We'll know no parting
+Beyond the sunset
+Forever more

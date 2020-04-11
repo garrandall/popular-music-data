@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: weekend-wet-willie
+lyrics_url: https://genius.com/Wet-willie-weekend-lyrics
 name: Weekend
 rankings:
 - end_date: '1979-06-01'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
 ---
-
+Wet Willie
+Miscellaneous
+Weekend
+WEEKEND
+Wet Willie
+One Friday evenin'
+What a feelin', feel like singin'
+Tired of workin', my mind is buzzin'
+Feel like dancin' yes I do
+But you gotta make the best of life while you're young
+Good people, weekend
+Do just what you wanna do, weekend
+When those workin' days are through
+Weekend, weekend, weekend
+Weekend, weekend
+You know it's time to get away, weekend
+I wanna hear ev'rybody say
+Weekend, weekend, weekend
+Saturday night feelin' just right
+Makin' new friends, lazy Sunday
+Every Monday ends my weekend, yes it does
+But you gotta make the best of life while you're young
+Listen people, weekend
+Party down with all your friends, weekend
+It's party, hearty time again
+Weekend, weekend, weekend
+Weekend, weekend
+Spendin' all my hard-earned pay, weekend
+With crazy nights and lazy days
+Weekend, weekend, weekend
+But you believe me right now, weekend
+Watchin' all the people play, weekend
+I wanna hear ev'rybody say
+Weekend, weekend, weekend
+Weekend, weekend
+Do what you wanna do, weekend
+When those workin' days are through
+Weekend, weekend, weekend
+Ah you gotta make the best of life while you're young
+Right now, weekend
+Do what you wanna do, weekend
+When those workin' days are through
+Weekend, weekend, weekend
+Yeah weekend

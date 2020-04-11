@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-bee-gees
+lyrics_url: https://genius.com/Bee-gees-one-lyrics
 name: One
 rankings:
 - end_date: '1989-08-04'
@@ -63,4 +64,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
 ---
+I feel my heartbeat
+When you run your fingers through my hair
+(Yeah) I can tell you
+I can feel you by my side when you're not there
+(Yeah) Just as my life fades to darkness
+You you make me see the light
+Show me that my search is over
+I pay the price, I pay the price
 
+
+Tell you someday baby, you and I should be one, one
+Do it always, brighter than the eye can see, we hide the sun
+
+
+The taste of love is sweet like honey on the vine
+Like the wind that feeds the fire, two souls become entwined
+Someday baby you and I should be one, one
+
+
+So I'm standing 'round this corner
+Tall enough to touch the New York sky, oh yes
+My love is so blind
+I just cannot hear or see the world go by, oh yes
+Someone can love so completely
+One kiss should break the seal
+Truth can be stranger than fiction
+This love is real
+This love is real
+
+
+Tell you someday Baby, you and I should be one, one
+Do it always, brighter than the eye can see, we hide the sun
+
+Ah we are one, we are one
+
+
+I will follow
+Count on me, I'll never let you down, oh yes
+My devotion
+If love is like an ocean I will surely drown, oh yes
+You'll be my only possession
+I'll be a slave to you
+We hold the power together
+Just me and you
+Just me and you
+
+
+Tell you someday Baby, you and I should be one, one
+Do it always, brighter than the eye can see, we hide the sun
+Tell you someday Baby, you and I should be one, one
+
+(You know my life is in your hands
+And every breath you take is planned
+And all this love goes on forever)
+
+
+Tell you someday Baby, you and I should be one, one
+Do it someday Baby, you and I should be one, one
+Do it someday Baby, you and I should be one, one
+
+Tell you someday Baby, you and I should be one, one
+Do it someday Baby, you and I should be one, one
+Do it someday Baby, you and I should be one, one

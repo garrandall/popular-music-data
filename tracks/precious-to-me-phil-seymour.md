@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: precious-to-me-phil-seymour
+lyrics_url: https://genius.com/Phil-seymour-precious-to-me-lyrics
 name: Precious To Me
 rankings:
 - end_date: '1981-01-30'
@@ -71,4 +72,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
 ---
+Baby, baby, don't you leave me here to make it alone
+'Cause I don't think that I could take it for a day on my own
+Why would you wanna hurt me
+When I love you, baby, can't you see?
 
+That you're precious to me
+(I love you so)
+And I can't let you go
+(Can't let you go)
+Baby one day you will see
+(Girl can't you see)
+That you'll always be
+(You'll always be)
+So precious to me
+
+Why would you wanna hurt me
+When I love you baby, can't you see?
+
+That you're precious to me
+(I love you so)
+And I can't let you go
+(Can't let you go)
+Baby one day you will see
+(Girl can't you see)
+That you'll always be
+(You'll always be)
+So precious to me
+
+Baby baby you can tell me when will we meet again?
+If I can't be your one and only then I'll have to pretend
+That you're still on with me
+Girl I love you so affectionately
+
+That you're precious to me
+(I love you so)
+And I can't let you go
+(Can't let you go)
+Baby one day you will see
+(Girl can't you see)
+That you'll always be
+(You'll always be)
+So precious to me
+That you're precious to me
+(I love you so)
+And I can't let you go
+(Can't let you go)
+Baby one day you will see
+(Girl can't you see)
+That you'll always be
+(You'll always be)
+So precious to me
+
+You're so precious to me
+To me

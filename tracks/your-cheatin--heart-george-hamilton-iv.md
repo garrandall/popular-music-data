@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-cheatin--heart-george-hamilton-iv
+lyrics_url: https://genius.com/George-hamilton-iv-your-cheatin-heart-lyrics
 name: Your Cheatin' Heart
 rankings:
 - end_date: '1958-09-14'
@@ -23,4 +24,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
 ---
-
+Your cheatin' heart
+Will make you weep
+You'll cry and cry
+And try to sleep
+But sleep won't come
+The whole night through
+Your cheatin' heart
+Will tell on you
+When tears come down
+Like fallin' rain
+You'll toss around
+And call my name
+You'll walk the floor
+The way I do
+Your cheatin' heart
+Will tell on you
+When tears come down
+Like fallin' rain
+You'll toss around
+And call my name
+You'll walk the floor
+The way I do
+Your cheatin' heart
+Will tell on you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-to-find-me-gorky-park
+lyrics_url: https://genius.com/Gorky-park-try-to-find-me-lyrics
 name: Try To Find Me
 rankings:
 - end_date: '1990-05-04'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-02'
 ---
+When the rain is pouring down
+And no one is around
+All the doors are closed
+You're a stranger in this town
+Wandering around and you feel lost
 
+CHORUS:
+Please try to find me and I'll try to find you
+You know I need you just like you need me
+Please don't give up cause we're almost together
+We've almost made it, hold on and you'll see
+
+When nobody wants to hear
+What you want to say
+And you feel down when your hope has disappeared
+Like a morning train
+You can't slow down
+
+CHORUS
+
+I'm just like you
+Oh you know it's true
+Don't give up my friend
+This is not the end
+
+CHORUS

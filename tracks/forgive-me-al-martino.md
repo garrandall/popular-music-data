@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forgive-me-al-martino
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Forgive-Me
 name: Forgive Me
 rankings:
 - end_date: '1965-10-22'
@@ -31,4 +32,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
 ---
+Forgive me, please forgive me
+I didn't mean to make you cry
+I love you and I need you
+Do anything but don't say goodbye
 
+Let bygones just be bygones
+We all make mistakes now and then
+I'm sorry, forgive me, my dear
+And let's be sweethearts again
+
+Forgive me, please forgive me
+I didn't mean to make you cry
+I love you and I need you
+Do anything but don't say goodbye
+
+Let bygones just be bygones
+We all make mistakes now and then
+I'm sorry, forgive me, my dear
+And let's be sweethearts again
+And let's be sweethearts again

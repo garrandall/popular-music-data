@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-he-doing-in-my-world-eddy-arnold
+lyrics_url: https://genius.com/Eddy-arnold-whats-he-doing-in-my-world-lyrics
 name: What's He Doing In My World
 rankings:
 - end_date: '1965-05-21'
@@ -43,4 +44,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
 ---
+What's he doing in my world?
+What's he doing holding my world?
+If he's not more than just friend
+Why were you kissing him?
 
+And what's he doing in my world?
+
+What's he doing in my world?
+Did you tell him that you're my girl?
+If your love is really true
+Tell him my world's made for two
+
+And what's he doing in my world?
+
+Oh, don't let me keep on wondering
+Just what you're gonna do
+Wondering if the one I love
+Loves somebody new
+
+What's he doing in my world?
+We don't need him in our world
+So if it's true he's just a friend
+Explain those kisses you gave him
+
+And what's he doing in my world?

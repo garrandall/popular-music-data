@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-what-i-do--theme-for-9-1-john-taylor
+lyrics_url: https://genius.com/John-taylor-i-do-what-i-do-theme-for-9-1-2-weeks-lyrics
 name: I Do What I Do (Theme For 9 1
 rankings:
 - end_date: '1986-03-14'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
 ---
+I do what I do to
+I do it all to have you
+I do what I do to have you, have you
+I do it all to have you
 
+I do what I do to have you, have you
+I do it all to have you
+I do it all to have you
+I do it all to have you...
+
+Do you look the way
+You wanted to look?
+Do you feel the way
+You wanted to feel?
+Are you happy now
+That we fantasize
+
+I do what I do to have you, have you
+I do it all to have you
+I do what I do to have you, have you
+I do it all to have you...
+
+Do I touch the way
+You want to be touched?
+Have you heard the words
+You wanted to hear?
+Is my body heat
+The right intensity?
+
+I do what I do to have you, have you
+I do it all to have you
+I do it all to have you
+I do it all to have you...
+
+Do you look the way you wanted to look
+Do you feel the way you wanted to feel
+Are you happy now?
+Are you happy now?
+I did what I did
+I did what I did, did what I did...
+Are you happy now?
+
+I do what I do to have you, have you
+I do it all to have you
+I do what I do to have you, have you
+I do it all to have you...

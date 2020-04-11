@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-the-aisle-of-love-the-quin-tones
+lyrics_url: https://www.musixmatch.com/lyrics/The-Quin-Tones/Down-the-Aisle-of-Love
 name: Down The Aisle Of Love
 rankings:
 - end_date: '1958-08-24'
@@ -55,4 +56,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
+When we walk down the aisle he gives me a smile
+When we walk, as we walk down the aisle of love
 
+The preacher said, will you take this woman to be your wife
+To love and to cherish for the rest of your life
+As we walk, as we walk down the aisle of love
+
+We exchange our vows to love one another
+No matter how things may be
+We promise to always stay with each other until eternity
+
+When we walk down the aisle
+A choir of angels sent from above
+When we walk down the aisle of love

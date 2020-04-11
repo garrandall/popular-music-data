@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-baby-cry-the-angels
+lyrics_url: https://www.musixmatch.com/lyrics/The-Angels/Cry-Baby-Cry
 name: Cry Baby Cry
 rankings:
 - end_date: '1962-02-23'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
+Cry, baby, cry
+Baby, cry
 
+Cry, baby, cry
+And you'll feel better
+Your tears outside
+(Your tears outside)
+Are so much wetter
+
+It's wrong to hide
+Teardrops inside
+When you're blue (so blue)
+Oh, when you're in love
+(You're in love)
+
+The tears from your eyes
+Are nothing but water
+So, go on and cry
+(Go on and cry)
+Just cause you oughta
+
+Cry when you feel
+The feeling is real
+So cry, baby, cry
+Baby, cry
+
+Crying defines your emotions
+It's when you cry, you feel
+Something for love and devotion
+Something so warm and so real
+
+Oh, weep, sweetie, weep
+You're only robbing
+Yourself of sleep
+(Yourself of sleep)
+No harm in sobbing
+
+Don't try to hold
+Release your soul
+And cry, baby, cry
+Baby, cry
+
+Come on and cry
+Oh, cry (cry) cry (cry)...

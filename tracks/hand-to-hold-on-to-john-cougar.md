@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hand-to-hold-on-to-john-cougar
+lyrics_url: https://www.musixmatch.com/lyrics/John-Cougar-Mellencamp-2/Hand-To-Hold-On-To
 name: Hand To Hold On To
 rankings:
 - end_date: '1982-11-12'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
 ---
+You can laugh and joke and make fun of your friends
+Spin in the middle when the troubles begin
+Take it nice and easy and always pretend
+That you're cool, so cool, so cool
 
+Say I'm alone and I'm wild and I will not be tamed
+Talk like a jerk or an educated brain
+Be an old girl drivin' the young boys insane
+Be a joker, a preacher, it does not matter
+
+Every one needs a hand to hold on to
+Every one needs a hand to hold on to
+Don't need to be no strong hand
+Don't need to be no rich hand
+Every one just needs a hand to hold on to
+
+Havin' good luck with your financial situation
+Play the ponies, be president of the United Nation
+Go to work and be a Hollywood stud
+Drive your four-wheel drive right into the mud, but
+
+Every one needs a hand to hold on to
+Every one needs a hand to hold on to
+Don't need to be no strong hand
+Don't need to be no rich hand
+Every one just needs a hand to hold on to
+
+And then those hours when you're alone
+And there's nobody there except yourself
+I know it, you wanna pick up the phone
+And say, "Talk to me, talk to me
+Somebody please talk to me"
+Yeah
+
+Oh, yeah
+
+Every one needs a hand to hold on to
+Every one needs a hand to hold on to
+Don't need to be no strong hand
+Don't need to be no rich hand
+
+Every one needs a hand to hold on to
+Every one needs a hand to hold on to
+Don't need to be no strong hand
+Don't need to be no rich hand
+
+Every one needs a hand to hold on to
+Every one needs a hand to hold on to
+Don't need to be no strong hand
+Don't need to be no rich hand

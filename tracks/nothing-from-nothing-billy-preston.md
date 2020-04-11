@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-from-nothing-billy-preston
+lyrics_url: https://genius.com/Billy-preston-nothing-from-nothing-lyrics
 name: Nothing From Nothing
 rankings:
 - end_date: '1974-07-19'
@@ -79,4 +80,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
 ---
+Nothing from nothing leaves nothing
+You gotta have something if you wanna be with me
+Nothing from nothing leaves nothing
+You gotta have something if you wanna be with me
 
+
+I'm not trying to be your hero
+Cause that zero is too cold for me
+I'm not trying to be your highness
+'Cause that minus is too low to see, yeah
+Nothing from nothing leaves nothing
+And I'm not stuffing, believe you me
+Don't you remember I told ya
+I'm a soldier in the war on poverty
+Yeah, yes, I am
+
+
+Nothing from nothing leaves nothing
+You gotta have something if you wanna be with me
+Nothing from nothing leaves nothing
+You gotta have something if you wanna be with me
+That's right, ha, yeah
+
+
+Gotta have something if you wanna be with me
+You gotta bring me something, girl, if you wanna be with me

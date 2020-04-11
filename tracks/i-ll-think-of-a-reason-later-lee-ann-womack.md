@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-think-of-a-reason-later-lee-ann-womack
+lyrics_url: https://genius.com/Lee-ann-womack-ill-think-of-a-reason-later-lyrics
 name: I'll Think Of A Reason Later
 rankings:
 - end_date: '1999-03-05'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
 ---
+I heard he was gonna marry some girl from Denver
+Then my sister came over
+Had the Sunday paper with her
+There was the girl on the social page
+Looking in love and all engaged
+We decided she don't take a very good picture
 
+It may be my family's redneck nature
+Rubbing off
+Bringing out unlady-like behavior
+It sure ain't Christian to judge a stranger
+But I don't like her
+She may be an angel who spends all winter
+Bringing the homeless blankets and dinner
+A regular Nobel Peace Prize winner
+But I really hate her
+I'll think of a reason later
+
+I drew horns and blacked out her tooth with a marker
+Childish, yes, but she made such a thin little target
+I couldn't be happier on my own
+But I've got the slightest of a jealous bone
+And seeing her with him tends to enlarge it
+
+It may be my family's redneck nature
+Rubbing off
+Bringing out unlady-like behavior
+It sure ain't Christian to judge a stranger
+But I don't like her
+She may be an angel who spends all winter
+Bringing the homeless blankets and dinner
+A regular Nobel Peace Prize winner
+But I really hate her
+I'll think of a reason later
+
+Inside her head may lay all the answers
+For curin' diseases from baldness to cancer
+Salt of the earth and a real good dancer
+But I really hate her
+I'll think of a reason later
+
+(Spoken)
+Well, it was just one tooth
+Did I mention I don't particularly care for her?
+She makes me sick

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: swingin--school-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-swingin-school-lyrics
 name: Swingin' School
 rankings:
 - end_date: '1960-05-15'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
 ---
+Chicks, kicks, cats, cool, yeah school!
 
+Yeah, yeah, yeah I go a swingin' school
+Where the chicks are kicks and the cats are cool
+Well we dance the greatest and we dress the latest
+Wo, wo, wo I go a swingin' school
+
+Ah, Bobby Ah! Uh huh! Everythings cool, thats cool
+We're glad you go to a swingin' school
+
+My little chick is my heart's desire
+Well the way we kiss it puts the school on fire
+
+Ah chicks, kicks, cats, cool, yeah school!
+Yeah yeah yeah wail!
+
+After school we have to rendezvous
+
+Gonna plan all the things that we're gonna do
+Trade bookin' for cookin' and I'll quit my lookin'
+When our days at the school are through
+
+Ah, Bobby Ah! Ah hah! Everythings cool, thats cool
+We're glad you go to a swingin' school
+
+We live and love by the golden rule
+We're gonna settle down at a swingin' school
+Well have a house and car, a swimmin' pool
+Wo, wo, wo I go a swingin' school
+
+I said a wo, wo, wo I go a swingin' school

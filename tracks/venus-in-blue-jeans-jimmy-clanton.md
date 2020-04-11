@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: venus-in-blue-jeans-jimmy-clanton
+lyrics_url: https://genius.com/Jimmy-clanton-venus-in-blue-jeans-lyrics
 name: Venus In Blue Jeans
 rankings:
 - end_date: '1962-08-24'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
 ---
+She's Venus in blue jeans
+Mona Lisa with a pony tail
+She's a walking talking work of art
+She's the girl who stole my heart
 
+My Venus in blue jeans
+Is the Cinderella I adore
+She's my very special angel too
+A fairy tale come true
+
+They say there's 7 wonders in the world
+But what they say is out of date
+There's more than 7 wonders in the world
+I just met number 8
+
+My Venus in blue jeans
+Is everything I hoped she be
+A teenage goddess from above
+And she belongs to me
+(repeat)

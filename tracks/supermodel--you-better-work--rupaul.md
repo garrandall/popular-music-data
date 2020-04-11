@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: supermodel--you-better-work--rupaul
+lyrics_url: https://genius.com/Rupaul-supermodel-lyrics
 name: Supermodel (You Better Work)
 rankings:
 - end_date: '1993-02-19'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
 ---
+Work it! On the runway
+(Work!)
+Work it, girl!
+On the runway
+(Work!)
+Wet your lips and make love to the camera
+Do your thing on the runway
+Wet your lips and make love to the camera
 
+(Work!)
+Work it, girl!
+Do your thing on the runway
+(Work!)
+Work it, girl!
+Wet your lips and make love to the camera
+(Work!)
+(Runway, runway)
+
+(Work!)
+It don't matter what you do
+'Cause everything looks good on you
+Supermodel
+(Work!)
+(Cover girl)
+Work it, girl!
+(Give a twirl)
+Do your thing on the runway
+(Work!)
+Supermodel
+Work it, girl!
+(Of the world)
+Wet your lips and make love to the camera
+Do your thing on the runway
+Wet your lips and make love to the camera
+(On the runway, runway, runway)
+
+Supermodel
+
+(Work!)
+Work it, girl!
+Do your thing on the runway
+(Work!)
+Work it, girl!
+Wet your lips and make love to the camera
+(Work!)
+(On the runway)
+
+Supermodel!

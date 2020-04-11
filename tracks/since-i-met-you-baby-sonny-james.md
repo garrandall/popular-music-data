@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-met-you-baby-sonny-james
+lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Since-I-Met-You-Baby
 name: Since I Met You Baby
 rankings:
 - end_date: '1969-09-26'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+Since I met you baby
+My whole life has changed
+Since I met you baby
+My whole life has changed
 
+And everybody tells me
+That I am not the same
+I don't need nobody
+To tell my troubles to
+I don't need nobody
+
+To tell my troubles to
+Cause since I met you baby
+All I need is you
+Riff
+Since I met you baby
+I'm a happy man
+Since I met you baby
+I'm a happy man
+I'm gonna try to please you
+In every way I can

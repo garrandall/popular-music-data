@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-can-change-this-love-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-nothing-can-change-this-love-lyrics
 name: Nothing Can Change This Love
 rankings:
 - end_date: '1962-10-05'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
 ---
+If I go, a million miles away
+I'd write a letter, each and everyday
+Cause honey nothing, nothing can ever change this love I have for you
+Mm, make me weep and you can make me cry
+See me coming and you can pass me by
+But honey, nothing, nothing can ever change this love I have for you
 
+
+Wo-oh-oh, you're the apple of my eye, you're cherry pie
+And oh you're, you're cake and ice cream
+And oh you're sugar and spice, and everything nice
+You're the girl of my, my, my, my, dreams
+But if you wanted, to leave me and roam
+When you got back, I'd just say welcome home
+Cause honey nothing, nothing, nothing can ever change this, love I have, for you
+Wo-oh-oh-oh
+
+
+
+
+I know, I know, I know, I know, I know that nothing, nothing, nothing can ever
+Change the love I have for you

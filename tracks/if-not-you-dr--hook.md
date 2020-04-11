@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-not-you-dr--hook
+lyrics_url: https://genius.com/Dr-hook-if-not-you-lyrics
 name: If Not You
 rankings:
 - end_date: '1976-12-03'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
 ---
+Who's gonna water my plants?
+Who's gonna patch my pants?
+And who's gonna give me
+The chance to feel brand new?
 
+Who's gonna iron my shirts?
+Who's gonna kiss where it hurts?
+And who needs a man when
+He flirts the way I do?
+
+Who, if not you?
+Who, if not you?
+
+Who, if not you?
+Tell me, who, if not you?
+
+Who's gonna wake me on time?
+Who'll smile and say I look fine?
+And who's gonna stay on my mind
+The whole day through?
+
+Who's gonna see that I'm fed?
+Then who's gonna want me in bed?
+But who'll watch TV instead
+Because I do?
+
+Who, if not you?
+Tell me, who, if not you?
+Who...

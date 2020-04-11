@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breaking-all-the-rules-she-moves
+lyrics_url: https://www.musixmatch.com/lyrics/She-Moves/Breaking-All-the-Rules
 name: Breaking All The Rules
 rankings:
 - end_date: '1997-11-14'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
 ---
+If you want it slowly don't knock on my door
+'Cause I want it all and a little bit more
+If you want to go anywhere just let me know when
+'Cause I want to be there again and again
 
+Now I know the time is right
+And I can't wait another night
+Love will never turn back around
+
+Breaking all the rules when we get together
+Anything at all, are you ready to do
+Breaking all the rules we can run away
+Just me and you, oh, oh, oh, oh
+
+Now that we're going, let's go all the way
+Nobody can stop us, I don't care what they say
+I'll take you places that you've never known
+Don't look behind you, are you ready to go
+
+Now I know the time is right
+And I can't wait another night
+Love will never turn back around
+
+Breaking all the rules when we get together
+Anything at all, are you ready to do
+Breaking all the rules we can run away
+Just me and you, oh, oh, oh, oh
+
+I put my mind on the go because this feeling I know
+Is never gonna go away
+And everybody around me has nothing to say
+I'm just a runaway
+
+Breaking all the rules when we get together
+Anything at all, are you ready to do
+Breaking all the rules we can run away
+Just me and you, oh, oh, oh, oh

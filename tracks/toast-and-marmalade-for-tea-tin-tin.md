@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: toast-and-marmalade-for-tea-tin-tin
+lyrics_url: https://genius.com/Tin-tin-toast-and-marmalade-for-tea-lyrics
 name: Toast And Marmalade For Tea
 rankings:
 - end_date: '1971-04-09'
@@ -51,4 +52,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
 ---
+Toast and marmalade for tea
+Sailing ships upon the sea
+Aren't lovelier that you
+Or the games I see you play
 
+You more lovely than the day
+When the sun is in your eyes
+I see through your disguise
+All the games I see you play

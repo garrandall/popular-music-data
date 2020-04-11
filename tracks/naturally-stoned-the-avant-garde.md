@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: naturally-stoned-the-avant-garde
+lyrics_url: https://genius.com/The-avant-garde-60s-duo-naturally-stoned-lyrics
 name: Naturally Stoned
 rankings:
 - end_date: '1968-09-06'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
 ---
+It seems the days we spend together all too quickly fade away
+And even now my lonely mind is filled with thoughts of yesterday
+The say grow up
+Put your mind on what you have to do
+But I know I can never make it, baby, without you
 
+I can feel a good vibration
+When I put my mind on you alone
+I get a real sensation
+Feel like I'm naturally stoned
+Naturally stoned
+
+And now they say it’s time for me to face their troubled world alone
+But I know I can never do it while I'm standing on my own
+There's just one thing that they do not seem to understand
+Why can’t they get it through their heads
+I need a helping hand
+
+I can feel a good vibration
+When I put my mind on you alone
+I get a real sensation
+Feel like I'm naturally stoned
+Naturally stoned
+
+I can get a good vibration
+When I put my mind on you alone
+I get a real sensation
+Feel like I'm naturally stoned
+Naturally stoned
+Naturally stoned

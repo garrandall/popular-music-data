@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-jealousy-gin-blossoms
+lyrics_url: https://genius.com/Gin-blossoms-hey-jealousy-lyrics
 name: Hey Jealousy
 rankings:
 - end_date: '1993-07-30'
@@ -95,4 +96,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
 ---
+Tell me do you think it'd be all right
+If I could just crash here tonight
+You can see I'm in no shape for driving
+And anyway I've got no place to go
+And you know it might not be that bad
+You were the best I'd ever had
+If I hadn't blown the whole thing years ago
+I might not be alone
 
+
+Tomorrow we can drive around this town
+And let the cops chase us around
+The past is gone but something might be found
+To take its place
+Hey jealousy
+Hey jealousy
+Hey jealousy
+Hey jealousy
+
+
+You can trust me not to think
+And not to sleep around
+If you don't expect too much from me
+You might not be let down
+Cause all I really want is to be with you
+Feeling like I matter too
+If I hadn't blown the whole thing years ago
+I might be here with you
+
+
+Tomorrow we can drive around this town
+And let the cops chase us around
+The past is gone but something might be found
+To take its place
+Hey jealousy
+
+
+
+
+Tomorrow we can drive around this town
+And let the cops chase us around
+The past is gone but something might be found
+To take its place
+Hey jealousy
+Hey jealousy
+Hey jealousy
+Hey jealousy
+
+
+Tell me do you think it'd be all right
+If I could just crash here tonight
+You can see I'm in no shape for driving
+And anyway I've got no place to go
+And you know it might not be that bad
+You were the best I'd ever had
+If I hadn't blown the whole thing years ago
+I might not be alone
+
+
+Tomorrow we can drive around this town
+And let the cops chase us around
+The past is gone but something might be found
+To take its place
+Hey jealousy
+
+
+Hey jealousy
+She took my heart
+Well there's only one thing I couldn't start

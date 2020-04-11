@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: voice-your-choice-the-radiants
+lyrics_url: https://genius.com/The-radiants-voice-your-choice-lyrics
 name: Voice Your Choice
 rankings:
 - end_date: '1965-01-01'
@@ -43,4 +44,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
 ---
+Voice your choice
+Voice your choice
 
+Voice your choice
+Tell me who do you love
+Am I the one, oh... Oh...
+That you're thinkin' of
+
+You know you look so good
+Oh, oh, it's really a crime
+For just one girl
+Yeah, to be so fine
+
+You've got all the boys
+Standing in line
+Tell me who do you love
+Girl, make up your mind
+Make up your mind
+
+Voice your choice
+Tell me who do you love
+Am I the one, oh... Oh...
+That you're thinkin' of
+
+You know Jim, he's sincere
+Oh, oh, and Joe, he's fine
+Johnny's nice
+Yeah, but is he the one
+
+Then there's me
+Who's the last but not the least
+So come on now
+Girl, speak your peace
+Speak your peace
+
+Voice your choice (Ooh, tell me who do you love)
+Voice your choice (Oh, girl, yeah)
+Voice your choice (Ooh, girl, yeah)
+
+Tell me, girl, what you're gonna do
+And tell me what you are trying to prove
+Girl, you don't need two
+No, when one will do
+So come on now, say it's me and you
+Me and you
+
+Voice your choice (Ooh, tell me who do you love)
+Voice your choice (Oh, girl, yeah)
+Voice your choice (Ooh, girl, yeah)
+Tell me who do you love (Ooh, tell me who do you love)

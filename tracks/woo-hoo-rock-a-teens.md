@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: woo-hoo-rock-a-teens
+lyrics_url: https://genius.com/The-rockateens-woo-hoo-lyrics
 name: Woo-Hoo
 rankings:
 - end_date: '1959-10-11'
@@ -55,4 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
+Woo Hoo, Woo Hoo Hoo (vocalization)
+Spoken: yeahhhh!
 
+Woo Hoo, Woo Hoo Hoo (repeated)

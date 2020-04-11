@@ -5,6 +5,7 @@ features:
 - Method Man
 genres: []
 key: love-at-1st-sight-mary-j--blige-method-man
+lyrics_url: https://www.musixmatch.com/lyrics/Mary-J-Blige-feat-Method-Man/Love-at-1st-Sight
 name: Love At 1st Sight
 rankings:
 - end_date: '2003-07-11'
@@ -60,4 +61,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
 ---
+Mary J Blige Featuring Method Man
+Miscellaneous
+Love At 1st Sight
+Mary J. Blige]
+Lookin' at you from a distance
+Gettin' all of my attention
+Could this be love at first sight, baby
+You walked away and I missed you
+Visions of wanting to kiss you
+How could this be if I don't really know you?
+Ohh baby, baby
 
+Could it be love at first sight?
+And I never knew that I, could fall in love on the very first night
+Could this be love?
+
+You had on the latest fashion
+It was a bigger distraction
+It drew me closer and closer to you, yeah, baby
+I never saw anything like this
+But you I just could not resist
+I swallowed my pride and stepped through your side
+Or could it be - be
+
+I wanna know if you could call me up (could you call me up sometime? please)
+And maybe somebody we just might hook up, could this love at first sight?
+
+Once again, it's that other M&M now
+How many women feelin' him?
+Somebody call thener, quick, Mary is killin 'em
+Tell 'em what's the 411 and who came runnin'
+When Clef dialed 911 from shots comin'
+This somethin' for the radio, guest starring M.C.
+Johnny Blazin' the hip hop and R&B
+What, ya'll thought ya wasn't gon' see me
+You can't spell Mary J. Blige without a J.B.
+Well back to the matter, and it's sex on the platter
+She only wanna be happy and I ain't mad at her
+You go momma, nowadays, I'm more calmer
+And if you take a look at my life, no more drama
+Now you know, you searchin' for a Wu-Tang pro
+You find me, just bout everywhere the poontang go
+Now you know, feel me like your favorite love song
+Cuz my computer love is the thetruth.com

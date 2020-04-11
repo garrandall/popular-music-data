@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ritual-dan-reed-network
+lyrics_url: https://genius.com/Dan-reed-network-ritual-lyrics
 name: Ritual
 rankings:
 - end_date: '1988-03-18'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
 ---
+Baby I wan't, all the same things that you want
+Baby I need, all the same things you need
 
+When it comes to lovin' you, I can relate
+We're two of a kind. I know how you operate
+Baby, You are my ritual
+Burnin' in my soul. Never let you go
+You are my ritual, my ritual baby
+
+I love, all the same things you love
+Baby I long for, all the same things you long for. Every night!
+
+When it comes to lovin' you, I can relate
+We're two of a kind, honey I know how you operate
+Baby, You are my ritual
+Burnin' in my soul. Never let you go
+You are my ritual, my ritual
+Baby, You are my ritual
+Burnin' in my soul. Never let you go
+You are my ritual
+
+Every night I worship the love we got. There's a bond between us
+Every night, I pray to the gods of love..
+
+There's a certain passion, that covers us at night
+It's more than one desire. It's a bond that keeps us tight
+Images of love, burning in my soul
+You are my ritual. I can't let go
+
+When it comes to lovin' you, I can relate
+We want the same things. I don't care if you make me wait
+We're two of a kind, honey I know how you operate..
+Baby, You are my ritual
+Burnin' in my soul. Never let you go
+You are my ritual, my ritual
+Baby, You are my ritual
+Burnin' in my soul. Never let you go
+You are my ritual, my ritual...

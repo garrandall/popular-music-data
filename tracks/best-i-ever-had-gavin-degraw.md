@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-i-ever-had-gavin-degraw
+lyrics_url: https://www.musixmatch.com/lyrics/Gavin-DeGraw/Best-I-Ever-Had
 name: Best I Ever Had
 rankings:
 - end_date: '2013-10-11'
@@ -27,4 +28,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
 ---
+Melt Antarctica, savin' Africa
+I failed algebra and I miss you sometimes
+We're at war again, save the world again
+You can all join in, but you can't smoke inside
 
+You said "Take me home, I can't stand this place
+'Cause there's too many hipsters and I just can't relate"
+You're my neon gypsy, my desert rain
+You're my "Helter Skelter", oh how can I explain that
+
+You're the best I ever had
+And I'm trying not to get stuck in my head
+But I read that soda kills you and Jesus saves
+On the bathroom wall where I saw your name
+You're the best I ever had
+I won't be the same
+
+Night sky full of drones, this neighborhood of clones
+I'm looking at the crowd and they're staring at their phones
+They groom the coastline here, it's starting to disappear (Oh God!)
+And maybe once a year, I think to clean my car
+
+I caught my reflection, I dropped the call
+I've been medicated with cigarettes and alcohol
+I got vertigo, no I can't see straight
+I got obligations though I'm usually late but
+
+You're the best I ever had
+And I'm trying not to get stuck in my head
+But I think I dropped my wallet in Santa Fe
+Lost the only picture I had of you that day and
+You're the best I ever had
+I won't be the same
+
+Hey West Virginia, Hey North Dakota
+I think I love you, but don't even know you
+Hey Massachusetts, Hey Minnesota
+I think I love you, but don't even know you
+Hey Carolina, Hey Oklahoma
+I think I love you, but don't even know you
+Hey Alabama, Hey California
+I think I love you, but don't even know you
+
+You're the best I ever had (you're the best I ever had)
+And I'm trying not to get stuck in my head (get stuck in my head)
+But I passed a longest sign on the interstate
+Saying "Find someone before it gets too late"
+You're the best I ever had (you're the best I ever had)
+I won't be the same
+
+Hey West Virginia, Hey North Dakota (Oh why, oh why)
+I think I love you, but don't even know you (I won't be the same)
+Hey Massachusetts, Hey Minnesota (you're the best I ever had)
+I think I love you
+I won't be the same
+
+Yeah, I won't be the same

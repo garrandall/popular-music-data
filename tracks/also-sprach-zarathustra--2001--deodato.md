@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: also-sprach-zarathustra--2001--deodato
+lyrics_url: https://genius.com/Eumir-deodato-also-sprach-zarathustra-lyrics
 name: Also Sprach Zarathustra (2001)
 rankings:
 - end_date: '1973-02-09'
@@ -55,4 +56,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+Rain was your birth
+Gathered deep
+Beneath the earth
 
+Search and seep
+Hollow stone
+Issue and flow
+Virgin stream
+Meander free
+It's a long way to the sea
+
+Caves and canyons
+Stark prison walls
+Swirl and hurl you

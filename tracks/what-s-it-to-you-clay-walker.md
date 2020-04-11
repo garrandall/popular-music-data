@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-it-to-you-clay-walker
+lyrics_url: https://genius.com/Clay-walker-whats-it-to-you-lyrics
 name: What's It To You
 rankings:
 - end_date: '1993-10-15'
@@ -67,4 +68,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
 ---
+What's that
+I hear angels singin'
+Telling me to make my move
+Listen to it
+Their voices ringin' baby
+If you feel it get in the groove
 
+Love is the rhythm of two hearts beating
+Poundin' out a message steady and true
+Talk to me baby tell me what you're feeling
+I know what love is
+What's it to you
+
+Time's up
+Train's a leavin' baby
+Are you ready to take that ride
+Get on board
+Don't keep my waiting baby
+Say you're willin to cross that line
+
+Love is the rhythm of two hearts beating
+Poundin' out a message steady and true
+Talk to me baby tell me what you're feeling
+I know what love is
+What's it to you
+
+I'm sure your heart is telling you true
+I gotta know what love is to you
+'Cause to me it's the rhythm of two hearts beating
+Poundin' out a message steady and true
+Talk to me baby tell me what your feeling
+I know what love is
+What's it to you
+
+Love is the rhythm of two hearts beating
+Poundin' out a message steady and true
+Talk to me baby tell me what you're feeling
+I know what love is
+What's it to you
+
+I know what love is what's it to you

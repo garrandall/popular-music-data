@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-it-the-blackout-allstars
+lyrics_url: https://www.musixmatch.com/lyrics/The-Blackout-Allstars/I-Like-It-Like-That
 name: I Like It
 rankings:
 - end_date: '1996-12-13'
@@ -95,4 +96,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
 ---
-
+I like it like that
+Yeah baby
+I like it like that
+I like it like that
+I like it like that
+I got soul, I got soul
+I like it like that
+Por ti me quiero
+I like it like that
+Oh oh baby
+I like it like that
+I like it like that
+I like it like that
+Si aqui me quiero mi amour
+I like it like that
+I got soul, I got soul
+I like it like that
+Yeah baby
+I like it like that
+I like it like that
+I like it like that
+Si aqui me quiero
+I like it like that
+I want you like that
+I like it like that
+I got soul, I got soul
+Stomp your feet if you like my beat
+Clap your hands if you want some more
+Stomp your feet if you like my beat
+Clap your hands if you want some more
+Stomp your feet if you like my beat
+I like I like it, I like it like that
+I like I like it, I like it like that
+I got soul
+I like it, I like it
+I like it, I like it
+Yeah Baby
+I like it like that
+I like it like that
+Yeah baby
+I like it like that
+I like it like that
+I like it like that
+Si aqui me quiero
+I like it like that
+Si aqui me quiero mi amour
+I like it like that
+Yeah baby
+I like it like that
+I like it like that
+I like it like that
+I got soul, I got soul
+I like it like that
+I got soul, I got soul
+I like it like that
+Yeah
+I like it like that
+I like it like that
+I like it like that

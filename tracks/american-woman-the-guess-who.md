@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-woman-the-guess-who
+lyrics_url: https://genius.com/The-guess-who-american-woman-lyrics
 name: American Woman
 rankings:
 - end_date: '1970-03-27'
@@ -67,4 +68,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
 ---
+American woman gonna mess your mind
+American woman, she gonna mess your mind
+Mm, American woman gonna mess your mind
+Mm, American woman gonna mess your mind
+Say A
+Say M
+Say E
+Say R
+Say I
+C
+Say A
+N, mm
+American woman gonna mess your mind
+Mm, American woman gonna mess your mind
+Uh, American woman gonna mess your mind
 
+Uh!
+
+American woman, stay away from me
+American woman, mama, let me be
+Don't come a-hangin' around my door
+I don't wanna see your face no more
+I got more important things to do
+Than spend my time growin' old with you
+Now woman, I said stay away
+American woman, listen what I say
+
+American woman, get away from me
+American woman, mama, let me be
+Don't come a-knockin' around my door
+Don't wanna see your shadow no more
+Colored lights can hypnotize
+Sparkle someone else's eyes
+Now woman, I said get away
+American woman, listen what I say, hey
+
+American woman, said get away
+American woman, listen what I say
+Don't come a-hangin' around my door
+Don't wanna see your face no more
+I don't need your war machines
+I don't need your ghetto scenes
+Colored lights can hypnotize
+Sparkle someone else's eyes
+Now woman, get away from me
+American woman, mama, let me be
+
+Go, gotta get away, gotta get away
+Now go go go
+I'm gonna leave you, woman
+Gonna leave you, woman
+Bye-bye
+Bye-bye
+Bye-bye
+Bye-bye
+You're no good for me
+I'm no good for you
+Gonna look you right in the eye
+Tell you what I'm gonna do
+You know I'm gonna leave
+You know I'm gonna go
+You know I'm gonna leave
+You know I'm gonna go, woman
+I'm gonna leave ya, woman
+Goodbye, American woman...

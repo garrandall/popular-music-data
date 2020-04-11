@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-d-love-you-to-want-me-lobo
+lyrics_url: https://genius.com/Lobo-singer-id-love-you-to-want-me-lyrics
 name: I'd Love You To Want Me
 rankings:
 - end_date: '1972-09-29'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
 ---
+When I saw you standing there
+I'bout fell off my chair
+And when you moved your mouth to speak
+I felt the blood go to my feet
 
+Now, it took time for me to know
+What you tried so not to show
+Something in my soul just cried
+I see the want in your blue eyes
+
+Baby, I'd love you to want me
+The way that I want you
+The way that it should be
+Mmm, baby, you'd love me to want you
+The way that I want to
+If you'd only let it be
+
+You told yourself years ago
+You'd never let your feelings show
+The obligation that you made
+For the title that they gave
+
+Baby, I'd love you to want me
+The way that I want you
+The way that it should be
+Mmm, baby, you'd love me to want you
+The way that I want to
+If you'd only let it be
+
+Now, it took time for me to know
+What you tried so not to show
+Something in my soul just cried
+I see the want in your blue eyes
+
+Baby, I'd love you to want me
+The way that I want you
+The way that it should be
+Mmm, baby, you'd love me to want you
+The way that I want to
+If you'd only let it be
+
+Oh baby, I'd love you to want me
+The way that I want you
+The way that it should be
+Mmm, baby, you'd love me to want you
+The way that I want to
+If you'd only let it be

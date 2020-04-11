@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: batman-theme-neal-hefti
+lyrics_url: https://genius.com/Neal-hefti-and-his-orchestra-and-chorus-batman-theme-from-batman-a-greenway-production-in-association-with-twentieth-century-fox-television-lyrics
 name: Batman Theme
 rankings:
 - end_date: '1966-02-18'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
 ---
-
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Batman
+Bababababa
+Batman!
+End

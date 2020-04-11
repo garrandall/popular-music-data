@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: find-out-who-your-friends-are-tracy-lawrence
+lyrics_url: https://genius.com/Tracy-lawrence-find-out-who-your-friends-are-lyrics
 name: Find Out Who Your Friends Are
 rankings:
 - end_date: '2007-04-27'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-01'
 ---
+Run your car off the side of the road
+Get stuck in a ditch way out in the middle of nowhere
+Or get yourself in a bind, lose the shirt off your back
+Need a floor, need a couch, need a bus fare
 
+
+This is where the rubber meets the road
+This is where the cream is gonna rise
+This is what you really didn't know
+This is where the truth don't lie
+
+
+You find out who your friends are
+Somebody's gonna drop everything
+Run out and crank up their car
+Hit the gas, get there fast
+Never stop to think "What's in it for me?"
+Or "It's way too far"
+They just show on up
+With their big old heart
+You find out who your friends are
+
+
+Everybody wants to slap your back, wants to shake your hand
+When you're up on top of that mountain
+But let one of those rocks give way, then you slide back down
+Look up and see who's around then
+
+
+This ain't where the road comes to an end
+This ain't where the bandwagon stops
+This is just one of those times when
+A lot of folks jump off
+
+
+You find out who your friends are
+Somebody's gonna drop everything
+Run out and crank up their car
+Hit the gas, get there fast
+Never stop to think "What's in it for me?"
+Or "It's way too far"
+They just show on up
+With their big old heart
+You find out who your friends are
+
+
+When the water's high
+When the weather's not so fair
+When the well runs dry
+Who's gonna be there?
+
+
+You find out who your friends are
+Somebody's gonna drop everything
+Run out and crank up their car
+Hit the gas, get there fast
+Never stop to think "What's in it for me?"
+Or "It's way too far"
+They just show on up
+With their big old heart
+You find out who your friends are, yeah
+You find out who your friends are
+
+
+Run your car off the side of the road
+Get stuck in a ditch way out in the middle of nowhere
+Man I've been there
+Or get yourself in a bind, lose the shirt off your back
+Need a floor, need a couch, need a bus fare
+Man I've been there
+Man I've been there

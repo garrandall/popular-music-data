@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-eyes-crying-in-the-rain-willie-nelson
+lyrics_url: https://genius.com/Willie-nelson-blue-eyes-crying-in-the-rain-lyrics
 name: Blue Eyes Crying In The Rain
 rankings:
 - end_date: '1975-09-05'
@@ -79,4 +80,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
 ---
+In the twilight glow I see them
+Blue eyes crying in the rain
+When we kissed goodbye and parted
+I knew we'd never meet again
 
+Love is like a dying ember
+And only memories remain
+And through the ages I'll remember
+Blue eyes crying in the rain
+
+Some day when we meet up yonder
+We'll stroll hand-in-hand again
+In a land that knows no parting
+Blue eyes crying in the rain
+
+Now my hair has turned to silver
+All my life I've loved in vain
+I can see her star in heaven
+Blue eyes crying in the rain

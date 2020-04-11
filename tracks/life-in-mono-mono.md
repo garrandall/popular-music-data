@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: life-in-mono-mono
+lyrics_url: https://genius.com/Mono-life-in-mono-lyrics
 name: Life In Mono
 rankings:
 - end_date: '1998-02-20'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
 ---
+The stranger sang a theme
+From someone else's dream
+The leaves began to fall
+And no one spoke at all
+But I can't seem to recall
+When you came along
+Ingenue
 
+
+Ingenue
+I just don't know what to do
+
+
+The tree-lined avenue
+Begins to fade from view
+Drowning past regrets
+In tea and cigarettes
+But I can't seem to forget
+When you came along
+Ingenue
+
+
+
+
+Ingenue
+I just don't know what to do
+
+
+
+
+Ingenue
+I just don't know what to do

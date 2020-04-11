@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-now-now-swirl-360
+lyrics_url: https://genius.com/Swirl-360-hey-now-now-lyrics
 name: Hey Now Now
 rankings:
 - end_date: '1998-07-31'
@@ -51,4 +52,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
 ---
+On the inside
+Do you know what you're about
+When I see you
+I wanna free you
+'Cause you're always freaking out
 
+We could be riding on the waves of the ocean, baby
+Flying to the beat of our hearts
+I wanna make you a star
+
+Hey Now Now
+Don't you know
+It's not really that complicated
+Hey Now Now
+When you come and go
+It's so hard for me to sleep at night
+
+Hey Now Now
+Listen you
+Think of all of the time we've wasted
+Hey Now Now, Hey Now Now, Hey Now Now
+
+From the outside
+Looking in I see your bright light
+Yeah believe me when I say
+Everything will be alright
+
+Gonna stay right here when your sun don't shine
+While your head's still up in the clouds
+For crying out loud
+
+Hey Now Now
+Don't you know
+It's not really that complicated
+Hey Now Now
+When you come and go
+It's so hard for me to sleep at night
+
+Hey Now Now
+Listen you
+Think of all of the time we've wasted
+Don't ask how
+But dreams come true
+And we'll find a way to make it right
+
+And if you think that innocence is dead
+I'll say it's all inside your head
+I've got to tell you how I feel
+And you know we're gonna make it for real
+
+Meet me halfway
+We can't help but come together
+I'll make you happy
+I'll show you what this love's about
+
+Hey Now Now
+Don't you know
+It's not really that complicated
+Hey Now Now
+When you come and go
+It's so hard for me to sleep at night
+
+Hey Now Now
+Listen you
+Think of all of the time we've wasted
+Don't ask how
+But dreams come true
+And we'll find a way to make it right

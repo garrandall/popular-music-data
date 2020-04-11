@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: cry-godley-creme
+lyrics_url: https://genius.com/Godley-and-creme-cry-lyrics
 name: Cry
 rankings:
 - end_date: '1985-07-26'
@@ -76,4 +77,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
 ---
+You don't know how to ease my pain
+You don't know...
+You don't know how to ease my pain
+You don't know what the sound is, darlin'?
+It's the sound of my tears falling
+Or is it the rain?
 
+You don't know...
+
+You don't know how to play the game
+And you cheat, you lie
+You make me want to cry
+You make me want to cry
+Cry...
+You make me want to cry!
+
+You don't know how to ease my pain, you don't know
+You don't know how to ease my pain
+Don't you hear any voices crying?
+That's the sound of our love dying
+Here comes the rain
+
+You don't know how to play the game
+And you cheat, you lie
+You don't even know how to say goodbye
+You make me want to cry
+You don't know...
+You don't even know how to say goodbye
+You make me want to cry!
+
+You don't even know how to say goodbye
+You make me want to cry!
+
+Cry...
+
+Cry...
+Cry...
+Cry...!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-party-s-over--hopelessly-in-love--journey
+lyrics_url: https://genius.com/Journey-the-partys-over-hopelessly-in-love-greatest-hits-2-version-lyrics
 name: The Party's Over (Hopelessly In Love)
 rankings:
 - end_date: '1981-03-06'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
 ---
+You never call me up
+When I'm alone at night
+What can this poor boy do
+When he's hopelessly in love with you?
 
+So I will tell you now
+This love is fallin' down
+Just what more can I do
+When I'm hopelessly in love with you?
+
+Hopelessly in love
+Hopelessly in love
+Hopelessly in love with you
+
+So I will tell you this
+Our love is in a fix
+Just what more can I do
+When I'm hopelessly in love with you?
+
+You never call me up
+When I'm alone at night
+What can a poor boy do
+When he's hopelessly in love with you?
+
+Hopelessly in love
+Hopelessly in love
+Hopelessly in love with you
+
+Hopelessly in love
+Hopelessly in love
+I'm hopelessly in love with you
+
+Ooh, bye-bye baby
+
+The party's over
+I have gone away... (Repeat until fade)

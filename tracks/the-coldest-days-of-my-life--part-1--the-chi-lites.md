@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-coldest-days-of-my-life--part-1--the-chi-lites
+lyrics_url: https://genius.com/The-chi-lites-the-coldest-days-of-my-life-lyrics
 name: The Coldest Days Of My Life (Part 1)
 rankings:
 - end_date: '1972-07-21'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
 ---
+I remember, oh yeah
+The signs of springtime
+There were birds, music
+Everywhere, everywhere
 
+Some of us played, oh yeah
+And some of us cried
+Can't you see, oh, can't you see
+The tears in my eyes?
+
+And what I had dreamed of, oh Lord
+I thought it was here
+10 feet tall, oh, I was riding so high
+With eyes of a child, oh
+Shining so bright, yes they were
+
+Coldest days of my life
+They were the coldest days of my life
+I had to run for cover, yeah, yeah, yeah, yeah
+Cold, coldest days of my life
+I thought there was no other, no, no, no, no
+
+Lord, take away the pain
+Oh, You know, You know
+That it falls like rain
+And it couldn't be much worse
+
+Down below, down below, down below
+Low, down below
+It just couldn't be much worse
+Down below
+It just couldn't be that bad

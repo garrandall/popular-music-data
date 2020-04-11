@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superstition-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-superstition-lyrics
 name: Superstition
 rankings:
 - end_date: '1972-11-24'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
 ---
+Very superstitious
+Writing's on the wall
+Very superstitious
+Ladder's about to fall
+Thirteen month old baby
+Broke the looking glass
+Seven years of bad luck
+The good things in your past
 
+
+When you believe in things
+That you don't understand
+Then you suffer
+Superstition ain't the way
+
+
+Very superstitious
+Wash your face and hands
+Rid me of the problem
+Do all that you can
+Keep me in a daydream
+Keep me going strong
+You don't want to save me
+Sad is my song
+
+
+When you believe in things
+That you don't understand
+Then you suffer
+Superstition ain't the way
+
+
+Very superstitious
+Nothing more to say
+Very superstitious
+The devil's on his way
+Thirteen month old baby
+Broke the looking glass
+Seven years of bad luck
+Good things in your past
+
+
+When you believe in things
+That you don't understand
+Then you suffer
+Superstition ain't the way
+No, no, no

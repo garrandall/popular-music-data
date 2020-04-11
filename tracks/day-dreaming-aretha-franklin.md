@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-dreaming-aretha-franklin
+lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/daydreaming.html
 name: Day Dreaming
 rankings:
 - end_date: '1972-03-24'
@@ -55,4 +56,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
 ---
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
 
+Look at my mind floating away
+
+He's the kind of guy that would say
+"Hey, baby, let's get away,
+Let's go some place, huh?
+Where? I don't care."
+
+He's the kind of guy that you give your everything
+Entrust your heart, share all of your love
+'Til death do you part
+
+I wanna be what he wants
+When he wants it and whenever he needs it
+And when he's lonesome and feelin' love starved
+I'll be there to feed it
+
+I'm lovin' him a little bit more each day
+Turns me right on when I hear him say,
+
+"Hey, baby, let's get away,
+Let's go somewhere, huh?
+Baby, can we?
+Where? I don't care.
+Hey, baby, let's get away,
+Let's go somewhere, huh?
+Baby, can we?
+Where? I don't care."
+
+I wanna be what he wants when he wants it
+And whenever he needs it
+And when he's lonesome and feelin' loved starved
+I'll be there to feed it
+
+Lovin' him a little bit more each day
+It turns me right on when I hear him say,
+
+"Hey, baby, let's get away,
+Let's go somewhere, huh?
+Baby, can we?
+Where? I don't care.
+Hey, baby, let's get away,
+Let's go somewhere, huh?
+Baby, can we?
+Where? I don't care."
+
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
+Daydreamin' and I'm thinkin' of you
+
+Look at my mind floating away
+
+Daydreaming
+Thinking of you
+Daydreaming
+Thinking of you
+Daydreaming
+Daydreaming

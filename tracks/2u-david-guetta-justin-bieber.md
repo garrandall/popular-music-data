@@ -5,6 +5,7 @@ features:
 - Justin Bieber
 genres: []
 key: 2u-david-guetta-justin-bieber
+lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-david-guetta-2u-feat-justin-bieber-deutsche-ubersetzung-lyrics
 name: 2U
 rankings:
 - end_date: '2017-07-07'
@@ -52,4 +53,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
 ---
+Keine Grenze in der Luft, die ich nicht für dich überquere
+Kein Anzahl von Tränen in meinen Augen, die ich nicht für dich weine
+Oooh nein
+Mit jedem Atemzug, den ich mache
+Möchte ich, dass du die Luft mit mir teilst
+Es gibt kein Versprechen, das ich nicht halte
+Ich werde einen Berg erklimmen, es gibt keinen, der zu steil ist
 
+
+Wenn es um dich geht
+Gibt es kein Verbrechen
+Lass uns unsere beiden Seelen nehmen
+Und sie verbinden
+Wenn es um dich geht
+Sei nicht blind
+Sieh, wie ich aus meinem Herzen spreche
+Wenn es um dich geht
+Um dich geht
+
+
+Möchte, dass du das teilst
+(Es um dich geht)
+
+
+Amor in einer Linie, der Pfeil hat deinen Namen drauf
+Oooh yeah
+Verpasse keine Liebe und bereue deine eigenen Taten dabei
+Oooh
+Öffne deinen Geist, mach deinen Kopf frei
+Werde nicht zu einem leeren Bett aufwachen
+Teile mein Leben, es ist für dich es zu behalten
+Jetzt, dass ich dir alles von mir gebe
+
+
+Wenn es um dich geht
+Gibt es kein Verbrechen
+Lass uns unsere beiden Seelen nehmen
+Und sie verbinden
+Wenn es um dich geht
+Sei nicht blind
+Sieh, wie ich aus meinem Herzen spreche
+Wenn es um dich geht
+Um dich geht
+
+
+Möchte, dass du das teilst
+(Teilen) Wenn es um dich geht
+Möchte, dass du das teilst
+
+
+Möchte, dass du das teilst
+Wenn es um dich geht
+Möchte, dass du das teilst
+
+
+Wenn es um dich geht
+Gibt es kein Verbrechen
+Lass uns unsere beiden Seelen nehmen
+Und sie verbinden
+Wenn es um dich geht
+Sei nicht blind
+Sieh, wie ich aus meinem Herzen spreche
+Wenn es um dich geht
+Um dich geht

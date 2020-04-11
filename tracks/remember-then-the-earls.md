@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-then-the-earls
+lyrics_url: https://genius.com/The-earls-remember-then-lyrics
 name: Remember Then
 rankings:
 - end_date: '1962-12-21'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
 ---
+Re-mem-mem, re-mem-mem-mem-ber oop-shoop
+Re-mem-mem, re-mem-mem-mem-ber oop-shoop
+Re-mem-mem, re-mem-mem-mem-ber oop-shoop then
+Then , remember then
 
+
+
+
+That night we fell in love
+Beneath the stars above
+That was a lovely summer night
+Pyramid Remember then, then, then, then, then
+
+
+
+Summer's over
+Our love is over
+To lose that love was such a sin
+Pyramid Remember then, then, then, then, then
+
+ Remember, re-mem-mem, mem-mem-mem-mem-ber
+ Our love is in the past
+ patta-past
+ Oh, has it gone so fast
+ patta-past
+ Why couldn't our love last?
+ Can't last
+ Wop, wop, patta patta pop-pop, shoo-wop-dah bop bop, ooh
+
+I'm broken-hearted now
+Since we have parted now
+My mind wanders now and then
+Pyramid Remember then, then, then, then, then
+
+ Re-mem-mem, re-mem-mem-mem-ber

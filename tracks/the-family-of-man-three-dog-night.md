@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-family-of-man-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-the-family-of-man-lyrics
 name: The Family Of Man
 rankings:
 - end_date: '1972-03-31'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
 ---
+This tired city was somebody's dream
+Billboard horizons as black as they seem
+A four-level highway across the land
+We're building a home for the family of man
 
+Prices are rising, the devil's to pay
+Moving the mountain that got in the way
+Prayer books and meetings to find a plan
+Deciding the fate of the family of man
+
+So hard
+Whatever are we coming to?
+Yes, it's so hard
+With so little time and so much to do
+
+Memories replacing the loves that we lost
+Burning our bridges as soon as they're crossed
+Factories built where the rivers ran
+Time's running out for the family of man
+
+So hard
+
+So hard
+So hard
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man
+So hard, family of man

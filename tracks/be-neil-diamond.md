@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-be-lyrics
 name: Be
 rankings:
 - end_date: '1973-11-02'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
 ---
+Lost
+On a painted sky
+Where the clouds are hung
+For the poet's eye
+You may find him
+If you may find him
 
+There
+On a distant shore
+By the wings of dreams
+Through an open door
+You may know him
+If you may
+
+Be
+As a page that aches for a word
+Which speaks on a theme that is timeless
+And the one God will make for your day
+
+Sing
+As a song in search of a voice that is silent
+And the sun
+God will make for your way
+
+And we dance
+To a whispered voice
+Overheard by the soul
+Undertook by the heart
+And you may know it
+If you may know it
+
+While the sand would become the stone
+Which begat the spark
+Turned to living bone
+Holy, holy
+Sanctus, sanctus
+
+Be
+As a page that aches for a word
+Which speaks on a theme that is timeless
+While the one God will make for your day
+
+Sing
+As a song in search of a voice that is silent
+And the one God will make for your way

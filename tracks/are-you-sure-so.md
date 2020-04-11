@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-sure-so
+lyrics_url: https://genius.com/So-are-you-sure-lyrics
 name: Are You Sure
 rankings:
 - end_date: '1988-02-26'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
 ---
+(And it's hard enough to make the same mistakes)
+(And it's hard enough to make the same mistakes)
 
+Little pockets of ignorance
+He leaves the plastic on the seat of his car
+And there's a plague around you
+
+I think this time I'm being pushed a little too hard
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+
+You think you've got the gift of second sight
+Because you argue better doesn't mean you're always right
+I've known him all my life
+This innocent man lost my respect years ago
+
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+Are you sure there hasn't been some sort of mistake?
+
+And it's hard enough to make the same mistake
+And it's hard enough to make the some mistake
+
+Little pockets of ignorance
+I wouldn't have believed he was the one you were searching for
+I mean I've known him all my life
+This innocent man lost my respect years ago
+
+Are you sure there hasn't been some sort of mistake?
+
+(And it's hard enough to make the some mistake)
+(And it's hard enough to make the same mistake)
+
+(The man who knew too much... Are you sure?)
+Stands alone I confess
+(The man who knew too much... Are you sure?)
+Are you sure? I'm not sure

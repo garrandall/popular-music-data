@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: we-ve-got-tonight-bob-seger-the-silver-bullet-band
+lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/We-ve-Got-Tonight
 name: We've Got Tonight
 rankings:
 - end_date: '1978-11-03'
@@ -76,4 +77,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
 ---
+I know it's late
+I know you're weary
+I know your plans don't include me
+Still, here we are
+Both of us lonely
+Longing for shelter from all that we see
+Why should we worry
+No one will care, girl
+Look at the stars so far away
 
+We've got tonight
+Who needs tomorrow
+We've got tonight babe why don't you stay
+
+Deep in my soul
+I've been so lonely
+All of my hopes fading away
+I've longed for love
+Like everyone else does
+I know I'll keep searchin' even after today
+
+So there it is, girl
+I've said it all now
+And here we are, babe
+What do you say
+
+We've got tonight
+Who needs tomorrow
+We've got tonight babe why don't you stay
+
+I know it's late I know you're weary
+Oh I know your plans don't include me
+Still, here we are
+Both of us lonely, both of us lonely
+
+We've got tonight
+Who needs tomorrow
+Let's make it last
+Let's find a way
+Turn out the light (Turn out the light)
+Come take my hand now
+We've got tonight, babe, why don't you stay
+
+We've got tonight
+Who needs tomorrow
+Let's make it last
+Let's find a way
+Turn out the light
+Come take my hand now
+We've got tonight, babe, why don't you stay
+
+Oh we've got tonight (We've got tonight)
+Who needs tomorrow
+Let's make it last
+Let's find a way
+Turn out the light (turn out the light)
+Come take my hand now
+We've got tonight, babe, why don't you stay
+
+Oh oh why don't you stay

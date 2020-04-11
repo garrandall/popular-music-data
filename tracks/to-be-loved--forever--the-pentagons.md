@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-be-loved--forever--the-pentagons
+lyrics_url: https://genius.com/The-pentagons-to-be-loved-lyrics
 name: To Be Loved (Forever)
 rankings:
 - end_date: '1961-02-26'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
 ---
+To be loved and not to be alone
+This is our chance for love dear
+And so come here to me
 
+To love and to be loved forever
+Let's make a vow to never, ever part
+
+You'll be mine in the morning
+Oh and be mine again in the night
+We'll always, I mean always be together
+Because our love, yes, our love will be right
+
+To love and to be loved forever
+Let's make a vow to never, ever part

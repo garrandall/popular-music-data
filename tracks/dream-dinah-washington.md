@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-dinah-washington
+lyrics_url: https://genius.com/Dinah-washington-darn-that-dream-lyrics
 name: Dream
 rankings:
 - end_date: '1962-05-18'
@@ -15,4 +16,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
 ---
+Darn that dream, i dream each night
+You say you love me, and you hold me tight
+But when i awake, i find your out of sight
+Oh, darn that dream
 
+Darn your lips, and darn your eyes
+They lift me high above the moonlight skys
+Then i tumble out of paradise
+Oh, darn that dream
+
+Darn that one track, mind of mine
+It can't understand that you don't care
+Just to change the mood i'm in
+Lord i'd welcome a nice old, nightmare
+
+Darn that dream, and bless it too
+Without that dream, i never would have you
+But it haunts me, 'cause it won't come true
+Oh, darn that dream
+
+Oh, darn that dream

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bette-davis-eyes-kim-carnes
+lyrics_url: https://genius.com/Kim-carnes-bette-davis-eyes-lyrics
 name: Bette Davis Eyes
 rankings:
 - end_date: '1981-04-03'
@@ -111,4 +112,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+Her hair is Harlow gold
+Her lips sweet surprise
+Her hands are never cold
+She's got Bette Davis eyes
 
+She'll turn her music on you
+You won't have to think twice
+She's pure as New York snow
+She got Bette Davis eyes
+
+
+And she'll tease you
+She'll unease you
+All the better just to please you
+She's precocious and she knows just
+What it takes to make a pro blush
+She got Greta Garbo stand off sighs
+She's got Bette Davis eyes
+
+
+She'll let you take her home
+It whets her appetite
+She'll lay you on her throne
+She got Bette Davis eyes
+
+She'll take a tumble on you
+Roll you like you were dice
+Until you come up blue
+She's got Bette Davis eyes
+
+
+She'll expose you
+When she snows you
+Off your feet with the crumbs she throws you
+She's ferocious and she knows just
+What it takes to make a pro blush
+All the boys think she's a spy
+She's got Bette Davis eyes
+
+And she'll tease you
+She'll unease you
+All the better just to please you
+She's precocious and she knows just
+What it takes to make a pro blush
+All the boys think she's a spy
+She's got Bette Davis eyes
+
+She'll tease you
+She'll unease you
+Just to please ya
+She's got Bette Davis eyes
+
+She'll expose you
+When she snows you
+She knows ya
+She's got Bette Davis eyes

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-so-good-about-good-by-the-miracles
+lyrics_url: https://genius.com/The-miracles-whats-so-good-about-goodbye-lyrics
 name: What's So Good About Good-by
 rankings:
 - end_date: '1962-01-19'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
 ---
+What's so good about goodbye?
+All it does is make-a you cry
+Well, if leaving causes grieving
+And depart can break you heart
+Tell me what's so good about it
+I could have done without it
+What's so good about goodbye?
 
+
+Since you said goodbye to me
+All I've known is misery
+Well, if everything goes wrong
+And lovers say so long
+Tell me what's so good about it
+I could have done without it
+What's so good about goodbye?
+
+
+How can goodbye be good to a lover who really cares?
+And another thing I would like to clarify
+Is how can farewell be fair?
+Won't you please tell me why
+You could say this is goodbye
+Girl, when it makes me so sad then it's got to be bad
+Tell me what's so good about it
+I could have done without it
+What's so good about goodbye?
+
+Won't somebody tell me, now
+How can goodbye be good to a lover who really cares?
+And another thing I would like to clarify
+Is how can farewell be fair?
+Won't you please tell me why
+You would have the nerve to say this is goodbye
+Girl, when it makes me so sad then it's got to be bad
+Tell me what's so good about it
+I could have done without it
+What's so good about goodbye?
+Baby
+What's so good about goodbye?

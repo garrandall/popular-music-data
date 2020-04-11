@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-know-what-i-mean-the-turtles
+lyrics_url: https://genius.com/The-turtles-you-know-what-i-mean-lyrics
 name: You Know What I Mean
 rankings:
 - end_date: '1967-08-11'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
 ---
+Shouldn't we two be together?
+You know what I mean
+To be with you is something like a dream (You know what I mean)
+And if you want me to
+I'll bring sunshine to you only
 
+You better stop, take a look about
+You know what I mean
+If only you could see the dreams that seem to mean so much to me
+Then you'd know the reason why
+I would love to say "I do" than say
+"Goodbye" and let you go forever
+Wouldn't we two be together?
+
+Can't you see that I want you (Why can't you see?)
+For me forever
+Wouldn't we two be together?
+Do you know what I mean? Can't you read in between the lines?
+Sometimes I'm talking and it doesn't seem too clear
+But, if you have to know (But if you have to know)
+I'm in love with only you know what I mean (I'm in love)
+
+Do you know what I mean? (Know what I mean?)
+Do you know what I mean? (Do you know what I mean?)
+Do you know what I mean? (Know what I mean?)
+Do you know what I mean? (Do you know what I mean?)
+Do you know what I mean? (Do you know what I mean?)
+Do you know what I mean? (Do you know what I mean?)
+Do you know what I mean? (Do you know what I mean?)
+Do you know what I mean? (Know what I mean?)

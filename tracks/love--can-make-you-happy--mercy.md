@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love--can-make-you-happy--mercy
+lyrics_url: https://genius.com/Mercyme-how-great-is-your-love-lyrics
 name: Love (Can Make You Happy)
 rankings:
 - end_date: '1969-04-18'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
 ---
+My heart is steadfast O God
+And I will sing
+With all my heart and soul
+Music for the King
+And I will awake the dawn
+With my praise to you O Lord
 
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky
+O How great is Your love
+Oh yeah
+
+Praise the Lord O My Soul
+And glory to the King
+Forever You are robed with majesty
+We come to You O Lord
+And lay our praise at Your feet
+
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky
+
+Be exalted O God and let Your glory reign
+Be exalted O God and let Your glory reign
+Let it reign
+Let it reign
+Let it reign
+Let it reign
+Let it reign
+Let it reign
+
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky
+How great is Your love
+So much higher than the heavens
+With faithfulness that reaches the sky

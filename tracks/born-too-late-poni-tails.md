@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-too-late-poni-tails
+lyrics_url: https://genius.com/The-poni-tails-born-too-late-lyrics
 name: Born Too Late
 rankings:
 - end_date: '1958-08-10'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
+Born too late for you to notice me
+To you, I'm just a kid that you won't date
+Why was I born too late?
 
+Born too late to have a chance to win your love
+Oh why, oh why was it my fate
+To be born too late?
+
+I see you walk with another
+I wish it could be me
+I long to hold you and kiss you
+But I know it never can be
+
+For I was
+
+Born too late for you to care
+Now my heart cries
+Because your heart just couldn't wait
+Why was I born too late?
+
+Born too late for you to care
+Now my heart cries
+Because your heart just couldn't wait
+Why was I born too la-a-a-a-ate?
+Why was I born too late?
+Too late

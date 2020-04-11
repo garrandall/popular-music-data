@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-want-me-anymore-steel-breeze
+lyrics_url: https://genius.com/Steel-breeze-you-dont-want-me-anymore-lyrics
 name: You Don't Want Me Anymore
 rankings:
 - end_date: '1982-09-03'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+Undecided
+Don't know where to go
+Don't know what I'm gonna do
 
+Uninvited
+I'm knocking at your door
+And I'd like to call on you
+
+
+You don't want me anymore
+Just let me explain
+Cause I don't wanna lose you
+
+You don't want me anymore
+Tried so hard
+So hard to please you
+
+
+I remember, babe
+On the day you left
+You said you'd never understand
+
+But I keep thinking
+If you try real hard
+You could give me just one more chance
+
+
+
+
+I know you're thinking
+I'm just no good
+I know you're thinking
+But why give up this love

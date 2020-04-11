@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-road-again-canned-heat
+lyrics_url: https://genius.com/Canned-heat-on-the-road-again-lyrics
 name: On The Road Again
 rankings:
 - end_date: '1968-08-16'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
+Well, I'm so tired of crying but I'm out on the road again
+I'm on the road again
+Well, I'm so tired of crying but I'm out on the road again
+I'm on the road again
 
+I ain't got no woman just to call my special friend
+
+You know the first time I traveled out in the rain and snow
+In the rain and snow
+You know the first time I traveled out in the rain and snow
+In the rain and snow
+
+I didn't have no payroll, not even no place to go
+
+And my dear mother left me when I was quite young
+When I was quite young
+And my dear mother left me when I was quite young
+When I was quite young (When I was quite young)
+
+She said: "Lord, have mercy on my wicked son"
+
+Take a hint from me, mama, please, don't you cry no more
+Don't you cry no more
+Take a hint from me, mama, please, don't you cry no more
+Don't you cry no more
+
+Cause it's soon one morning down the road I'm going
+
+But I ain't going down that long old lonesome road
+All by myself
+But I ain't going down that long old lonesome road
+All by myself
+
+I can't carry you, baby, gonna carry somebody else

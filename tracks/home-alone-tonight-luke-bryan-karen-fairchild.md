@@ -5,6 +5,7 @@ features:
 - Karen Fairchild
 genres: []
 key: home-alone-tonight-luke-bryan-karen-fairchild
+lyrics_url: https://genius.com/Luke-bryan-home-alone-tonight-lyrics
 name: Home Alone Tonight
 rankings:
 - end_date: '2015-12-18'
@@ -84,4 +85,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
 ---
+What you doing in this place?
+Well, I could probably ask you the same thing
+Another round, girl, what you think?
+If you're buying, well, you know I'll drink
+Some, make it 707
+Do you want it on the rocks?
+A double shot of heaven
+Spilling out the top
+And we'll go...
 
+
+Shot, for shot, for shot
+'Til we forgot what we came here to forget
+Ain't a clock, a tick, a tock, that's gonna stop
+A night that we won't regret
+So put your drink down, throw your camera up
+Flip it around and snap a payback picture
+(Send it to my ex)
+I'll send it to my ex
+And send them both a text saying
+"We ain't going home alone tonight"
+Girl you ain't gotta, I ain't gotta go
+Home alone tonight
+
+
+Slow country from a cover band
+I got you covered if you don't know how to dance
+But if you want, we could grab a cab
+Girl, we got all night, I got a bottomless tab
+So let's go...
+
+
+Shot, for shot, for shot
+'Til we forgot what we came here to forget
+Ain't a clock, a tick, a tock, that's gonna stop
+A night that we won't regret
+So put your drink down, throw your camera up
+Flip it around and snap a payback picture
+(Send it to my ex)
+I'll send it to my ex
+And send them both a text saying
+"We ain't going home alone tonight"
+Girl you ain't gotta, I ain't gotta go
+Home alone tonight
+
+
+It feels too good to let it end right here
+I ain't going home alone tonight
+(So, let's not let it end, let it end right here)
+Girl, you're going home with me
+So let's go...
+
+
+Shot, for shot, for shot
+'Til we forgot what we came here to forget
+Ain't a clock, a tick, a tock, that's gonna stop
+A night that we won't regret
+So put your drink down, throw your camera up
+Flip it around and snap a payback picture
+(Send it to my ex)
+I'll send it to my ex
+And send them both a text saying
+"We ain't going home alone tonight"
+Girl you ain't gotta, I ain't gotta go
+Home alone tonight
+
+
+(No, I ain't going home alone tonight)
+Girl you ain't gotta, I ain't gotta go
+Home alone tonight
+(Baby, don't let me go home alone )
+Home alone tonight

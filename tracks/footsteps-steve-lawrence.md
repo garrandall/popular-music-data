@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: footsteps-steve-lawrence
+lyrics_url: https://genius.com/Steve-lawrence-footsteps-lyrics
 name: Footsteps
 rankings:
 - end_date: '1960-03-13'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+Why did you say goodbye to me
+Now I'm as lonely as could be
+And as I feel a teardrop fall
+I hear your footsteps down the hall
+Walkin' away from me
 
+Why did you say goodbye
+Why did you make me cry
+Now, every day I wonder why
+Why, oh why, oh why, oh
+
+Footsteps, footsteps
+Footsteps, footsteps
+
+You're such a haunting memory
+I pray that you'll come back to me
+But as I say my evening prayers
+I hear your footsteps on the stairs
+Walkin' away from me
+
+Why did you say goodbye
+Why did you make me cry
+Now, every day I wonder why
+Why, oh why, oh why, oh
+
+Footsteps, footsteps
+Footsteps, footsteps
+Footsteps, footsteps
+Footsteps

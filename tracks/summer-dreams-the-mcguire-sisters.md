@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-dreams-the-mcguire-sisters
+lyrics_url: https://genius.com/The-mcguire-sisters-summer-dreams-lyrics
 name: Summer Dreams
 rankings:
 - end_date: '1959-05-03'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
 ---
+Summer dreams
+Where do they come
+When winter comes
+They're promises are gone
+And still they linger on
+Summer dreams built on a kiss
+That taught me this
+To heaven on a summer moon
+Return to Earth too soon
+Like bold honey bees
+Steal their honey and fly
+Like gold autumn leaves
+Touch the frost and die
+So my love was only true
+When skies were blue
+Yet I pray someday
+Our love will come
+With more than summer dreams
 
+
+Like gold autumn leaves
+Touch the frost and die
+So my love was only true
+When skies were blue
+Our love will come
+With more than summer dreams

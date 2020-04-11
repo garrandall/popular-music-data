@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: put-a-little-love-in-your-heart-annie-lennox-al-green
+lyrics_url: https://genius.com/Annie-lennox-and-al-green-put-a-little-love-in-your-heart-lyrics
 name: Put A Little Love In Your Heart
 rankings:
 - end_date: '1988-11-11'
@@ -76,4 +77,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
 ---
-
+Think of your fellow man
+Lend him a helping hand
+Put a little love in your heart
+You see it's getting late
+Oh please don't hesitate
+Put a little love in your heart
+And the world will be a better place
+And the world will be a better place
+For you and me
+You just wait and see
+Another day goes by
+And still the children cry
+Put a little love in you heart
+If you want the world to know
+We won't let hatred grow
+Put a little love in your heart
+And the world will be a better place
+And the world will be a better place
+For you and me
+You just wait and see
+Wait and see
+Take a good look around
+And if you're lookin' down
+Put a little love in your heart
+I hope when you decide
+Kindness will be your guide
+Put a little love in your heart
+And the world will be a better place
+And the world will be a better place
+For you and me
+You just wait and see
+Put a little love in your heart
+Put a little love in your
+Love in your heart

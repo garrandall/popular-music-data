@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: somewhere-out-there-linda-ronstadt-james-ingram
+lyrics_url: https://genius.com/Linda-ronstadt-and-james-ingram-somewhere-out-there-lyrics
 name: Somewhere Out There
 rankings:
 - end_date: '1986-12-26'
@@ -96,4 +97,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
 ---
+Somewhere out there
+Beneath the pale moonlight
+Someone's thinking of me
+And loving me tonight
 
+
+Somewhere out there
+Someone's saying a prayer
+That we'll find one another
+In that big somewhere out there
+
+
+And even though I know how very far apart we are
+It helps to think we might be wishing
+On the same bright star
+
+And when the night wind starts to sing a lonesome lullaby
+It helps to think we're sleeping
+Underneath the same big sky
+
+
+Somewhere out there
+If love can see us through
+Then we'll be together
+Somewhere out there
+Out where dreams come true
+
+
+
+
+And even though I know how very far apart we are
+It helps to think we might be wishing
+On the same bright star
+
+And when the night wind starts to sing a lonesome lullaby
+It helps to think we're sleeping
+Underneath the same big sky
+
+
+Somewhere out there
+If love can see us through
+Then we'll be together
+Somewhere out there
+Out where dreams come true

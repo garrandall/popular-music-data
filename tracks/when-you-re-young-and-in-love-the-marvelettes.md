@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-re-young-and-in-love-the-marvelettes
+lyrics_url: https://genius.com/The-marvelettes-when-youre-young-and-in-love-lyrics
 name: When You're Young And In Love
 rankings:
 - end_date: '1967-04-28'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
 ---
+Spring in the air (filled with love)
+There's magic ev'rywhere
+When you're young and in love
 
+Life seems to be (just a dream)
+A world of fantasy
+When you're young and in love
+
+Each night seems just like the Fourth of July
+When stars spangle the sky
+
+The moon at night (shines so bright)
+Seems to shine twice as bright
+When you're young and in love
+
+Ooh, dreams can come true (try a dream)
+If you believe they do
+When you're young and in love
+
+Though many teardrops are bound to fall
+True love can conquer all
+When you're, when you're young and in love
+
+(Look and you'll find)
+Ooh, ooh yeah
+(There's no mountain you can't climb)
+When you're young and in love
+
+Though many teardrops are bound to fall
+True love can conquer all
+When you're, when you're young and in love
+
+(Young and in love)
+So in love
+(Young and in love)
+Oh, yeah
+(Young and in love)
+I feel so good

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooops-up-snap-
+lyrics_url: https://genius.com/Snap-ooops-up-lyrics
 name: Ooops Up
 rankings:
 - end_date: '1990-09-14'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-17'
 ---
+This is a song about those bad days
+Start up happy and end up sad days
+Talking about that Murphy's law chill
+If it can go wrong, yes it will
 
+Went to the store to cop some groceries
+Friday night and I had the munchies
+Filled the cart till it could not take it
+One more bag of chips would break it
+
+Went to the cheek out stood in line
+Behind me a girl who was just too fine
+Got in the ear while they rang the total
+Reached for my wallet uh oh a bolo
+
+Not my day I felt like a dummy
+Went to the store and forgot the money
+
+Oops up inside your head
+Oops up inside your head
+Say oops up
+
+Me and amy under the covers
+Scene is hot potential lovers
+Demon in the sack is her reputation
+In school then she is graduation
+
+Touching holding heavy breathing
+I knew I'd get it she is not about teasing
+Left on the light so I could see reaction
+Amy is a freak guaranteed satisfaction
+
+She is soft as bubble bath
+I am as hard as chinese math
+Ready for the ultimate affection
+Took out a pack obtain my protection
+
+Rolled it on one hard stroke
+It was my last and yes it broke
+
+Oops up inside your head
+Oops up inside your head
+Say oops up

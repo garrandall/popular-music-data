@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: -theme-from--the-great-impostor-henry-mancini-and-his-orchestra

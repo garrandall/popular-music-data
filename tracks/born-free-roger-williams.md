@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-free-roger-williams
+lyrics_url: https://genius.com/Roger-williams-born-free-lyrics
 name: Born Free
 rankings:
 - end_date: '1966-09-02'
@@ -91,4 +92,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
 ---
+Born free, as free as the wind blows
+As free as the grass grows
+Born free to follow your heart
 
+Live free and beauty surrounds you
+The world still astounds you
+Each time you look at a star
+
+Stay free, where no walls divide you
+You're free as the roaring tide
+So there's no need to hide
+
+Born free and life is worth living
+But only worth living
+'Cause you're born free
+
+Born free
+Born free
+Born free

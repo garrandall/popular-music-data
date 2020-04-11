@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-too-late-toby-keith
+lyrics_url: https://genius.com/Toby-keith-a-little-too-late-lyrics
 name: A Little Too Late
 rankings:
 - end_date: '2006-06-09'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
 ---
+It is a little too late
+I am a little too gone
+A little too tired of this hanging on
+So I am letting go while I am still strong enough to
+It is got a little too sad
+I am a little too blue
+It is a little too bad
+You were too good to be true
+I am big time over your baby
+It is a little too late
 
+
+No I do not want to want to talk about what we can do about us anymore
+Only time you and me wasting is the time it takes to walk right out that door
+Yeah talk about water under the bridge
+You should know by now girl that is all this is
+
+
+It is a little too late
+I am a little too gone
+A little too tired of this hanging on
+So I am letting go while I am still strong enough to
+It is got a little too sad
+I am a little too blue
+It is a little too bad
+You were too good to be true
+I am big time over your baby
+It is a little too late
+
+
+There was a time
+This heart of mine
+Would take you back every time
+Do not you know?
+It is been two packs of cigarettes
+A sleepless night
+A nervous wreck, a day ago
+Now you have got no business coming around
+I am closing up shop
+Shutting us down
+
+
+It is a little too late
+I am a little too gone
+A little too tired of this hanging on
+So I am letting go while I am still strong enough to
+It is got a little too sad
+I am a little too blue
+It is a little too bad
+You were too good to be true
+I am big time over your baby
+It is a little too late

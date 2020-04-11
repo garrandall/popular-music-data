@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-laura-i-love-her-ray-peterson
+lyrics_url: https://genius.com/Ray-peterson-tell-laura-i-love-her-lyrics
 name: Tell Laura I Love Her
 rankings:
 - end_date: '1960-06-19'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
 ---
+Laura and Tommy were lovers
+He wanted to give her everything
+Flowers, presents
+And most of all a wedding ring
 
+He saw a sign for a stock car race
+A thousand dollar prize it read
+He couldn't get Laura on the phone
+So to her mother Tommy said
+
+Tell Laura I love her
+Tell Laura I need her
+Tell Laura I may be late
+I've something to do that cannot wait
+
+He drove his car to the racing ground
+He was the youngest driver there
+The crowd roared as they started the race
+Round the track they drove at a deadly pace
+
+No-one knows what happened that day
+Or how his car over-turned in flames
+But as they pulled him from the twisted wreck
+With his dying breath they heard him say
+
+Tell Laura I love her
+Tell Laura I need her
+Tell Laura not to cry
+My love for her will never die
+
+Now in the chapel where Laura prays
+For her Tommy who passed away
+It was just for Laura he lived and died
+Alone in the chapel she can hear him cry
+
+Tell Laura I love her
+Tell Laura I need her
+Tell Laura not to cry
+My love for her will never die (x 2)

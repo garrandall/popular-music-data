@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-my-loving-the-beatles
+lyrics_url: https://genius.com/The-beatles-all-my-loving-lyrics
 name: All My Loving
 rankings:
 - end_date: '1964-04-03'
@@ -31,4 +32,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+Close your eyes and I'll kiss you
+Tomorrow I'll miss you
+Remember I'll always be true
+And then while I'm away
+I'll write home everyday
+And I'll send all my loving to you
 
+
+I'll pretend that I'm kissing
+The lips I am missing
+And hope that my dreams will come true
+And then while I'm away
+I'll write home everyday
+And I'll send all my loving to you
+
+
+All my loving I will send to you
+All my loving, darling I'll be true
+
+
+Close your eyes and I'll kiss you
+Tomorrow I'll miss you
+Remember I'll always be true
+And then while I'm away
+I'll write home everyday
+And I'll send all my loving to you
+
+
+All my loving I will send to you
+All my loving, darling I'll be true
+All my loving, all my loving ooh
+All my loving I will send to you

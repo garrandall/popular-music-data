@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holdin--on-tane-cain
+lyrics_url: https://genius.com/Tane-cain-holdin-on-lyrics
 name: Holdin' On
 rankings:
 - end_date: '1982-08-20'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
 ---
+I couldn't believe the
+Night you walked away
+Left me alone to play
+A fool's charade
 
+And here I am
+Still reaching out for you
+Anticipating, awaiting
+Your next move
+
+Holding on, holding on
+Trying hard to keep you
+Am I wrong being strong
+Don't leave me holding on
+
+Feel like I'm
+Falling from a fantasy
+'Cause I am lost
+In your reality
+
+You said you knew
+You couldn't give enough
+For what we had
+Was all I needed, love
+
+Holding on, holding on
+Trying hard to keep you
+Breaking through, touching you
+Don't leave me holding on
+
+Holding on, holding on
+Trying hard to keep you
+Am I wrong being strong
+Don't leave me holding on
+Holding on
+
+Holding on, holding on
+Holding on, holding on

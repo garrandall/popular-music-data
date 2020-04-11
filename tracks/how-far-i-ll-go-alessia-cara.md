@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-far-i-ll-go-alessia-cara
+lyrics_url: https://genius.com/Alessia-cara-how-far-ill-go-lyrics
 name: How Far I'll Go
 rankings:
 - end_date: '2016-12-23'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
 ---
+I've been staring at the edge of the water
+Long as I can remember, never really knowing why
+I wish I could be the perfect daughter
+But I come back to the water, no matter how hard I try
 
+
+Every turn I take, every trail I track
+Every path I make, every road leads back
+To the place I know, where I cannot go
+Where I long to be
+
+
+See the line where the sky meets the sea? It calls me
+And no one knows how far it goes
+If the wind in my sail on the sea stays behind me
+One day I'll know, if I go there's just no telling how far I'll go
+
+
+Go-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Go-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Go-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Go-oh-oh-oh-oh-oh-oh-oh-oh-oh
+
+
+I know everybody on this island seems so happy
+On this island, everything is by design
+I know everybody on this island has a role on this island
+So maybe I can roll with mine
+
+
+I can lead with pride, I can make us strong
+I'll be satisfied if I play along
+But the voice inside sings a different song
+What is wrong with me?
+
+
+See the light as it shines on the sea? It's blinding
+But no one knows, how deep it goes
+And it seems like it's calling out to me, so come find me
+And let me know, what's beyond that line, will I cross that line?
+See the line where the sky meets the sea? It calls me
+And no one knows, how far it goes
+If the wind in my sail on the sea stays behind me
+One day I'll know, how far I'll go

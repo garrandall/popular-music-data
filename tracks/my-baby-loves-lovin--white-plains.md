@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-baby-loves-lovin--white-plains
+lyrics_url: https://genius.com/White-plains-my-baby-loves-lovin-lyrics
 name: My Baby Loves Lovin'
 rankings:
 - end_date: '1970-04-24'
@@ -67,4 +68,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
 ---
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
 
+I was lonely once in this great big world
+Just a nowhere man without a girl
+Came that lucky day when she came my way
+But she smiled at me as if to say
+
+Your baby love (loves)
+Your baby loves lovin'
+She's got what it takes and she knows how to use it
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+
+She's the only one make me feel so good
+Can't believe my luck, so I knock on wood
+All my sorrow and fears seem to fly away
+When she looks at me as if to say
+
+Your baby love (loves)
+Your baby loves lovin'
+She's got what it takes for me
+
+No more lonely nights just waiting for the telephone to ring
+No more lonely days my baby's taken care of everything
+I'm telling you people
+
+Mט נaby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+My baby love (love)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+
+She's the only one make me feel so good
+Can't believe my luck, so I knock on wood
+All my sorrow and fears seem to fly away
+When she looks at me as if to say
+
+Your baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+
+My baby love (loves)
+My baby loves lovin'
+She's got what it takes and she knows how to use it
+She's got what it takes
+And she know how to use it...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-back-the-night-graham-parker-and-the-rumour
+lyrics_url: https://genius.com/Graham-parker-and-the-rumour-hold-back-the-night-lyrics
 name: Hold Back The Night
 rankings:
 - end_date: '1977-04-15'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
 ---
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+When you left you took the sun right out of my sky, yes you did
+Wonder why you went away, and never told me why
+When the sun go down, the moon is near
+I'm scared to death 'cause your face appear
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Loneliness, haunting me when I go to bed yes I do
+Like a character in a book, that I have read
+When the sun go down, the moon is near
+I'm scared to death 'cause your face appear
 
+Hold it, hold it, hold it, hold it
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+I said hold back the right, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night, turn on the light
+Don't wanna dream about you baby (dream about you baby)
+Hold back the night
+Turn on the light
+Hold back the night, turn on the light

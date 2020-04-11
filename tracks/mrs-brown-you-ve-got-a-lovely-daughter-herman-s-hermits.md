@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mrs-brown-you-ve-got-a-lovely-daughter-herman-s-hermits
+lyrics_url: https://genius.com/Hermans-hermits-mrs-brown-youve-got-a-lovely-daughter-lyrics
 name: Mrs Brown You've Got A Lovely Daughter
 rankings:
 - end_date: '1965-04-23'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+Mrs. Brown, you've got a lovely daughter
+Girls as sharp as her are something rare
+But it's sad, she doesn't love me now
+She's made it clear enough, it ain't no good to pine
 
+She wants to return those things I bought her
+Tell her she can keep them just the same
+Things have changed, she doesn't love me now
+She's made it clear enough, it ain't no good to pine
+
+
+Walkin' about
+Even in a crowd, well
+You'll pick her out
+Makes a bloke feel so proud
+
+
+If she finds that I've been 'round to see you ('round to see you)
+Tell her that I'm well and feelin' fine (feelin' fine, ooh)
+Don't let on, don't say she's broke my heart
+I'd go down on my knees but it's no good to pine
+
+
+Walkin' about
+Even in a crowd, well
+You'll pick her out
+Makes a bloke feel so proud
+
+
+If she finds that I've been 'round to see you ('round to see you)
+Tell her that I'm well and feeling fine (feelin' fine, ooh)
+Don't let on, don't say she's broke my heart
+I'd go down on my knees but it's no good to pine
+
+
+Mrs. Brown, you've got a lovely daughter (lovely daughter)
+Mrs. Brown, you've got a lovely daughter (lovely daughter)
+Mrs. Brown, you've got a lovely daughter (lovely daughter)
+Mrs. Brown, you've got a lovely daughter (lovely daughter)

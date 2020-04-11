@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-tall-burton-cummings
+lyrics_url: https://genius.com/Burton-cummings-stand-tall-lyrics
 name: Stand Tall
 rankings:
 - end_date: '1976-10-15'
@@ -91,4 +92,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
 ---
+Never been this blue
+Never knew the meaning of a heartache
+But then again, I've never lost at love before
 
+Somewhere down the road
+Maybe all these years will find some meaning
+I just can't think about it now, or live 'em out anymore
+
+Chorus
+Stand Tall, don't you fall oh, don't go and do something foolish
+You're feeling it like everyone, it's silly human pride
+Stand Tall, don't you fall. don't go do something you'll regret later
+You're feeling it like everyone, it's silly human pride
+
+Never lasted so long
+Or through so much - or through so many
+I just can't believe I could throw it all away
+
+Sometimes late at night
+When there's nothing here except my old piano
+I'd almost give my hands to make you see my way
+
+Chorus
+Stand Tall, don't you fall oh, don't go and do something foolish
+You're feeling it like everyone, it's silly human pride;
+You got me down on my knees for ya, mama
+Stand Tall, don't you fall. donn't go do something you'll regret later
+You're feeling it like everyone, it's silly human pride

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wiederseh-n-al-martino
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Wiedersehn
 name: Wiederseh'n
 rankings:
 - end_date: '1966-06-03'
@@ -23,4 +24,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
 ---
+Wiedersehn, auf wiedersehen
+We'll meet again someday
 
+Wiedersehn
+It's time again
+I must go on my way
+
+Smile for me
+Brush the tear from your eye
+You know it's just farewell
+Not goodbye
+
+Wiedersehn, auf wiedersehen
+We'll meet again someday
+
+Wiedersehn, auf wiedersehen
+We'll meet again someday
+Wiedersehn, auf wiedersehen
+I must go on my way
+
+Smile for me
+Brush the tear from your eye
+You know it's just farewell
+Not goodbye
+
+Wiedersehn, auf wiedersehen
+We'll meet again someday

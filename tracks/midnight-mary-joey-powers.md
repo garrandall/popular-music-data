@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-mary-joey-powers
+lyrics_url: https://genius.com/Joey-powers-midnight-mary-lyrics
 name: Midnight Mary
 rankings:
 - end_date: '1963-11-15'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
+Meet me at midnight, Mary
+Same place we always go –
+Meet me at midnight, Mary
+And don't let anyone know!
+Don't let anyone know!
 
+Your Daddy says, I'm a bad boy
+And youve no future with me
+So we can only get together
+By meeting secretly!
+
+Meet me at midnight, Mary
+Same place we always go –
+Meet me at midnight, Mary
+And don't let anyone know!
+Don't let anyone know!
+
+Just got a job on the railroad
+The work is hard and long
+But I'm gonna build us a future
+And show your Daddy he's wrong!
+
+Meet me at midnight, Mary
+Same place we always go –
+Meet me at midnight, Mary
+And don't let anyone know!
+Don't let anyone know!
+
+Soon as I have some money
+For a home and everything
+We won't have to keep it a secret
+That youve got my wedding ring!
+
+Meet me at midnight, Mary
+Same place we always go –
+Meet me at midnight, Mary
+And don't let anyone know!
+Don't let anyone know!
+Don't let anyone kno-o-ow!

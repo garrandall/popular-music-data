@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-to-you-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-run-to-you-lyrics
 name: Run To You
 rankings:
 - end_date: '1993-07-02'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
 ---
+I know that when you look at me
+There's so much that you just don't see
+But if you would only take the time
+I know in my heart you'd find
+Oh, a girl who's scared sometimes
+Who isn't always strong
+Can't you see the hurt in me?
+I feel so all alone
 
+
+I want to run to you
+I want to run to you
+Won't you hold me in your arms
+And keep me safe from harm?
+I want to run to you
+But if I come to you
+Tell me, will you stay or will you run away
+
+
+Each day, each day I play the role
+Of someone always in control
+But at night I come home and turn the key
+There's nobody there, no one cares for me
+Oh what's the sense
+Of trying hard to find your dreams
+Without someone to share it with
+Tell me what does it mean?
+
+
+I want to run to you
+I want to run to you
+Won't you hold me in your arms
+And keep me safe from harm?
+I want to run to you
+But if I come to you
+Tell me, will you stay or will you run away
+Run away
+
+
+I need you here
+I need you here to wipe away my tears
+To kiss away my fears, no
+If you only knew how much
+
+
+I want to run to you
+I want to run to you
+Won't you hold me in your arms
+And keep me safe from harm?
+I want to run to you
+But if I come to you
+Tell me, will you stay or will you run away

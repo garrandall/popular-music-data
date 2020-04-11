@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-sky-full-of-stars-coldplay
+lyrics_url: https://genius.com/Coldplay-a-sky-full-of-stars-lyrics
 name: A Sky Full Of Stars
 rankings:
 - end_date: '2014-05-23'
@@ -111,4 +112,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
 ---
+'Cause you're a sky, 'cause you're a sky full of stars
+I'm gonna give you my heart
+'Cause you're a sky, 'cause you're a sky full of stars
+'Cause you light up the path
 
+
+I don't care, go on and tear me apart
+I don't care if you do, ooh-ooh, ooh
+'Cause in a sky, 'cause in a sky full of stars
+I think I saw you
+
+
+'Cause you're a sky, 'cause you're a sky full of stars
+I wanna die in your arms, oh, oh, oh
+'Cause you get lighter the more it gets dark
+I'm gonna give you my heart, oh
+
+
+I don't care, go on and tear me apart
+I don't care if you do, ooh-ooh, ooh
+'Cause in a sky, 'cause in a sky full of stars
+I think I see you
+I think I see you
+
+
+'Cause you're a sky, you're a sky full of stars
+Such a heavenly view
+You're such a heavenly view
+(Yeah, yeah, yeah, ooh)

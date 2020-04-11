@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suzie-q--part-one--creedence-clearwater-revival
+lyrics_url: https://www.musixmatch.com/lyrics/Creedence-Clearwater-Revival/Suzie-Q
 name: Suzie Q (Part One)
 rankings:
 - end_date: '1968-09-13'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
 ---
+Oh, Suzie Q
+Oh, Suzie Q
+Oh, Suzie Q
+Baby, I love you, Suzie Q
 
+Like the way you walk
+I like the way you talk
+I like the way you walk
+I like the way you talk, Suzie Q
+
+Oh, say that you'll be true
+Oh, say that you'll be true
+Oh, say that you'll be true
+And never leave me blue, Suzie Q
+
+Oh, say that you'll be mine
+Oh, say that you'll be mine
+Oh, say that you'll be mine
+Baby, all the time, Suzie Q
+
+(Who
+True
+True
+True
+Blue
+True
+Blue)
+
+Oh, Suzie Q
+Oh, Suzie Q
+Oh, Suzie Q
+Baby, I love you, Suzie Q
+
+I like the way you walk
+I like the way you talk
+I like the way you walk
+I like the way you talk, Suzie Q
+
+Oh, Suzie Q
+Oh, Suzie Q
+Oh, Suzie Q
+Baby, I love you, Suzie Q

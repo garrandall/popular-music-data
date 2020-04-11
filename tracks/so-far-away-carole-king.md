@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-far-away-carole-king
+lyrics_url: https://genius.com/Carole-king-so-far-away-lyrics
 name: So Far Away
 rankings:
 - end_date: '1971-09-03'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+So far away
+Doesn't anybody stay in one place anymore
+It would be so fine to see your face at my door
+Doesn't help to know you're just time away
 
+Long ago I reached for you and there you stood
+Holding you again could only do me good
+Oh, how I wish I could
+But you're so far away
+
+One more song about moving along the highway
+Can't say much of anything that's new
+If I could only work this life out my way
+I'd rather spend it being close to you
+
+
+But you're so far away
+Doesn't anybody stay in one place anymore
+It would be so fine to see your face at my door
+Doesn't help to know you're so far away
+
+Traveling around sure gets me down and lonely
+Nothing else to do but close my mind
+I sure hope the road don't come to own me
+There's so many dreams I've yet to find
+
+But you're so far away
+Doesn't anybody stay in one place anymore
+It would be so fine to see your face at my door
+Doesn't help to know you're so far away

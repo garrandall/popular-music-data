@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-dreams-tommy-mclain
+lyrics_url: https://genius.com/Tommy-mclain-sweet-dreams-lyrics
 name: Sweet Dreams
 rankings:
 - end_date: '1966-07-01'
@@ -51,4 +52,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+Sweet, sweet dreams of you
+Every night I go through
+Why can't I forget my past and live my life anew
+Instead I'm having sweet dreams about you
 
+You, you don't love me, it's plain
+I should have known you'd never wear my name
+I, I should hate you girl, the whole night through
+Instead I'm having sweet dreams about you
+
+Instrumental
+
+I, I should hate you girl, the whole night through
+Instead I'm having sweet dreams about you
+Instead I'm having sweet dreams about you

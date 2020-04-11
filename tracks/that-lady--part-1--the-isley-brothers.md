@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-lady--part-1--the-isley-brothers
+lyrics_url: https://genius.com/The-isley-brothers-that-lady-live-lyrics
 name: That Lady (Part 1)
 rankings:
 - end_date: '1973-07-20'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
 ---
+Who's that lady
+Beautiful lady
+Who's that lady
+The real, real, real fine lady
+I wish somebody would introduce her to me
 
+I didn't get a chance
+To ask her to dance
+It was love at first sight
+I just saw her tonight
+And I wish somebody would introduce her to me
+
+I like the way she danced in the dark
+And disappeared in the night
+And oh she stole my heart
+It was love at first sight
+
+Who's that lady
+Beautiful lady
+Who's that lady
+I gotta meet that lady
+And I wish somebody would introduce her to me
+
+Who's that lady
+That real fine lady
+Who's that lady
+That beautiful lady
+I wish somebody would introduce her to me
+
+Say hey lady
+I'm in love with you

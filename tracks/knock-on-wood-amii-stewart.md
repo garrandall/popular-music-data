@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knock-on-wood-amii-stewart
+lyrics_url: https://www.musixmatch.com/lyrics/Amii-Stewart/Knock-on-Wood
 name: Knock On Wood
 rankings:
 - end_date: '1979-02-02'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
 ---
+I don't want to lose you
+This good thing, that I got
+'Cause if I do, I will surely
+Surely lose a lot
 
+'Cause your love, is better
+Than any love I know
+It's like thunder, lightning
+The way you love me is frightening
+Oh you better knock, knock
+
+On wood, baby
+Ooh, ooh, ooh, ooh, ooh, ooh baby
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+
+I'm not superstitious, about ya
+But I can't take no chance
+You got me spinnin' baby
+You know that I'm in a trance
+
+'Cause your love, is better
+Than any love I know
+It's like thunder, lightning
+The way you love me is frightenin'
+Oh you better knock, knock, knock
+
+On wood, baby
+Ooh, ooh, ooh, ooh, ooh, ooh baby
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock)
+
+Ooh baby
+
+It's no secret, about it
+'Cause with his lovin' touch
+He sees to it
+That I get enough
+
+Feel his touch, all over
+You know it means so much
+It's like thunder, first then lightnin'
+The way you love me is frightenin'
+You better knock, knock, knock
+
+On wood, baby
+Ooh, ooh, ooh, ooh, ooh, ooh baby
+Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)
+(Think I better knock, knock, knock on wood)

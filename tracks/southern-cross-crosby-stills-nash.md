@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southern-cross-crosby-stills-nash
+lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/southerncross.html
 name: Southern Cross
 rankings:
 - end_date: '1982-09-24'
@@ -75,4 +76,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+Oooh ...
 
+Got out of town on a boat goin' to Southern islands
+Sailing a reach before a followin' sea
+She was makin' for the trades on the outside
+And the downhill run to Papeete
+
+Off the wind on this heading lie the Marquesas
+We got eighty feet of the waterline nicely making way
+In a noisy bar in Avalon I tried to call you
+But on a midnight watch I realized why twice you ran away
+
+Think about
+Think about how many times I have fallen
+Spirits are using me larger voices callin'
+What Heaven brought you and me cannot be forgotten
+
+(Around the world) I have been around the world
+(Lookin') Lookin' for that woman girl
+(Who knows she knows) Who knows love can endure
+And you know it will
+
+When you see the Southern Cross for the first time
+You understand now why you came this way
+'Cause the truth you might be runnin' from is so small
+But it's as big as the promise, the promise of a comin' day
+
+So I'm sailing for tomorrow my dreams are a dyin'
+And my love is an anchor tied to you tied with a silver chain
+I have my ship and all her flags are a' flyin'
+She is all that I have left and music is her name
+
+Think about
+Think about how many times I have fallen
+Spirits are using me larger voices callin'
+What Heaven brought you and me cannot be forgotten
+
+(I've been around the world) I have been around the world
+(Lookin') Lookin' for that woman girl
+Who knows love can endure
+And you know it will, and you know it will 
+Yes
+
+Oooh ...
+
+So we cheated and we lied and we tested
+And we never failed to fail, it was the easiest thing to do
+You will survive being bested
+Somebody fine will come along, make me forget about loving you
+In the Southern Cross

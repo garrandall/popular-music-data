@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-love-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-lets-love-lyrics
 name: Let's Love
 rankings:
 - end_date: '1959-01-11'
@@ -43,4 +44,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+Lets love
+While the night is young
+Lets love
+Life has just begun
+A dream of reality
 
+Lets love
+Press your lips to mine
+Lets kiss
+For that thrill divine
+While we realize
+There's no one but you and me
+
+I find your arms so inviting to me
+So what am I to do
+The thrill of your touch is sp exciting to me
+While our hearts are reeling while we have this feeling
+
+Lets love
+Till the end of time
+Lets love
+Leave the world behind
+Now that we have found the wonderful glory of
+Two magic words
+Lets love
+
+Lets love
+Lets love
+Life has just begun
+A dream of reality
+
+Lets love
+Let's kiss for that thrill divine
+As we realize
+There is no one but you and me
+
+I find your arms so inviting to me
+So what am I to do
+The thrill of your touch is so exciting to me
+While our hearts are reeling while we have this feeling
+
+Lets love
+Till the end of time
+Lets love
+Leave the world behind
+Now that we have found the wonderful glory of
+Two magic words
+Lets love
+
+Lets love
+
+Lets Love

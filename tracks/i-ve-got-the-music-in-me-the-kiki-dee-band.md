@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-the-music-in-me-the-kiki-dee-band
+lyrics_url: https://genius.com/The-kiki-dee-band-ive-got-the-music-in-me-lyrics
 name: I've Got The Music In Me
 rankings:
 - end_date: '1974-09-20'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
 ---
+Ain't got no trouble in my life
+No foolish dream to make me cry
+I'm never frightened or worried
+I know I'll always get by
+I heat up
+I cool down
+When something gets in my way I go round it
+Don't let life get me down
+Gonna take it the way that I found it
 
+
+I got the music in me
+I got the music in me
+I got the music in me
+
+They say that life is a circle
+But that ain't the way that I found it
+Gonna move in a straight line
+Keeping my feet firmly on the ground
+I heat up
+I cool down
+I got words in my head so I say them
+Don't let life get me down
+Catch a hold of my blues, gonna play them
+
+
+
+Feel funky
+Feel good
+Gonna tell ya
+I'm in the neighborhood
+Gonna fly like a bird on the wing
+Hold on to your hat honey
+Sing, sing, sing, sing
+Heat up, cool down
+I got words in my head so I say them
+Don't let life get me down
+Catch a hold of my blues, gonna play them
+
+
+
+Ain't got no trouble in my life
+No foolish dream to make me cry
+I'm never frightened I'm never worried
+I know, I know I'll always get by
+
+(Extended Chorus)

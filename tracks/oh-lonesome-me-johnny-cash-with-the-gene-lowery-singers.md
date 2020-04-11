@@ -1,7 +1,8 @@
 ---
 artists:
-- Johnny Cash With The Gene Lowery Singers
-features: []
+- Johnny Cash
+features:
+- The Gene Lowery Singers
 genres: []
 key: oh-lonesome-me-johnny-cash-with-the-gene-lowery-singers
 name: Oh Lonesome Me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superstar-charm-farm
+lyrics_url: https://genius.com/Charm-farm-superstar-lyrics
 name: Superstar
 rankings:
 - end_date: '1996-09-27'
@@ -23,4 +24,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
 ---
+I'd like to turn the whole world on, just for a moment...
 
+I'm pretty - I'm a pretty pretty baby doll, and
+I wanna - I wanna be a superstar
+All right - get to the factory
+O.K. - hang out with ANDY
+All right - got my mascara
+I'm hot - I wanna dare you to watch...
+
+I'd like to turn the whole world on, just for a moment...
+Got my money on. got my favourite song
+Got my favourite drink, gonna make you think
+Gonna look around...
+
+Everything is beautiful, all right
+Everyone is beautiful, tonight
+All of us are superstars, yeah we've come so far
+We are beautiful, all right, all right, all right...
+
+Just for a moment - I want everybody's eyes on me
+I wanna see it. I wanna show what I can be
+Oh studio fifty four, I'm a disco whore
+Gotta get my place in the world, I'm alive -
+I'm so alive, I'm a pretty pretty baby doll
+
+Everything is beautiful, all right
+Everyone is beautiful, tonight
+All of us are superstars, yeah we've come so far
+We are beautiful, all right, all right, all right...
+
+Oh studio fifty four, I'm a disco whore
+Gotta get my place in the world, I'm alive -
+I'm so alive, I'm a pretty pretty baby doll
+
+Everything is beautiful, all right
+Everyone is beautiful, tonight
+All of us are superstars, yeah we've come so far
+
+We are beautiful, all right, all right, all right...

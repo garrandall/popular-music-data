@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-excited-the-pointer-sisters
+lyrics_url: https://genius.com/The-pointer-sisters-im-so-excited-lyrics
 name: I'm So Excited
 rankings:
 - end_date: '1982-09-24'
@@ -167,4 +168,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
 ---
+Tonight's the night we're gonna make it happen
+Tonight we'll put all other things aside
+Give in this time and show me some affection
+We're going for those pleasures in the night
 
+
+I want to love you, feel you
+Wrap myself around you
+I want to squeeze you, please you
+I just can't get enough
+And if you move real slow I'll let it go
+
+
+I'm so excited, and I just can't hide it
+I'm about to lose control and I think I like it
+I'm so excited, and I just can't hide it
+And I know, I know, I know, I know
+I know I want you
+
+
+We shouldn't even think about tomorrow
+Sweet memories will last a long, long time
+We'll have a good time baby, don't you worry
+And if we're still playing 'round, boy that's just fine
+
+
+Let's get excited, we just can't hide it
+I'm about to lose control and I think I like it
+I'm so excited, and I just can't hide it
+And I know, I know, I know, I know
+I know I want you, want you
+
+
+I want to love you, feel you
+Wrap myself around you
+I want to squeeze you, please you
+I just can't get enough
+And if you move real slow I'll let it go
+
+
+I'm so excited, and I just can't hide it
+I'm about to lose control and I think I like it
+I'm so excited, and I just can't hide it
+And I know, I know, I know, I know
+I know I want you, want you
+
+I'm so excited, and I just can't hide it
+I'm about to lose control and I think I like it
+I'm so excited, and I can't deny it
+And I know, I know, I know, I know
+I know I want you, want you
+
+I'm so excited, and I just can't hide it
+
+
+
+Look what you do to me
+You’ve got me burning up
+Oh, oh, oh, oh, ow!
+
+How did you get to me?
+I’ve got to give it up
+Oh, oh, oh, oh ow!

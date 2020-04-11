@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: telstar-the-tornadoes
+lyrics_url: https://genius.com/The-tornadoes-74-telstar-lyrics
 name: Telstar
 rankings:
 - end_date: '1962-11-09'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
 ---
-
+You counted 74 swans on the canal
+You counted 74 swans on the canal
+You were glad it was an even number
+Everybody had another
+No one was facing this cold alone
+This cold alone, cold alone, cold alone
+They were gathered between bridges
+In the steely sunshine
+Bookend by ice on either side
+Here comes a pair on final approach
+Wings like great white bellows
+Gathering inward to land and it looks like grace
+Looks like grace, looks like grace
+You counted 74 swans on the canal
+You counted 74 swans on the canal
+You were glad it was an even number
+Everybody had another
+No one was facing this cold alone
+I thought you were right there with me
+On my left side
+Too eager to get where I'm going
+I left you behind
+But you were on the last watch
+The passing of the torch
+You counted 74 swans, now there's 75

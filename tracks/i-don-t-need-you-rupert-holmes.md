@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-need-you-rupert-holmes
+lyrics_url: https://genius.com/Rupert-holmes-i-dont-need-you-lyrics
 name: I Don't Need You
 rankings:
 - end_date: '1981-04-10'
@@ -35,4 +36,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
 ---
+I don't need you
+I don't need you half as much
+As you need me
+And I thank my lucky stars
+That you have freed me
 
+'Cause I'm losing weight at last
+Losing weight and losing sleep
+And losing my mind fast
+
+I don't need you
+I don't miss you in the way
+I expected
+I have time to clean the sink
+And feel neglected
+
+Will I call you up? I won't
+I forgot your number 6364831
+
+And I don't need you
+I don't need you like my life depended on it
+You're gone, you're gone, you're gone
+It only affects me in the hours
+When I need you, I need you
+
+But I don't want you
+I do crosswords
+And I'm weaving a basket
+And I'd never take you back
+Unless you ask it
+
+I don't need you
+I don't need you like my life depended on it
+You're gone, you're gone, you're gone
+It only affects me in the hours
+When I need you, I need you
+
+But I don't love you
+I don't love you like
+With whom you are living
+Only twenty times as much
+And all's forgiven
+
+If you'd come by today
+So that I can have you near forever while I say
+That I don't need you, I don't need you
+I don't need you
+
+I don't need you
+I don't need you
+I don't need you
+I don't need you
+
+Need you
+Need you
+Need you

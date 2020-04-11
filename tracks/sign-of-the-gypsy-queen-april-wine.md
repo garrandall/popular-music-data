@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sign-of-the-gypsy-queen-april-wine
+lyrics_url: https://genius.com/April-wine-sign-of-the-gypsy-queen-lyrics
 name: Sign Of The Gypsy Queen
 rankings:
 - end_date: '1981-06-05'
@@ -39,4 +40,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
 ---
+Lightning smokes on the hill arise
+Brought the man with the warning light
+Shouting loud, "You had better fly!"
+While the darkness can help you hide
+Trouble's comin' without control
+No-one's stayin' that's got a hope
+Hurricane at the very least
+In the words of the gypsy queen
 
+Sign of the gypsy queen
+Pack your things and leave
+Word of a woman who knows
+Take all your gold and you go
+
+Get my saddle and tie it on
+Western wind, who is fast and strong
+Jump on back, he's good and long
+We'll resist 'til we reach the dawn
+Runnin' seems like the best defense
+Stayin' just don't make any sense
+No-one could ever stop it now
+Show the cards of the gypsy town
+
+Sign of the gypsy queen
+Pack your things and leave
+Word of a woman who knows
+Take all your gold and you go
+
+
+
+Shadows movin' without a sound
+From the hold of the sleepless town
+Evil seems to be everywhere
+Heed the spirit that brought despair
+Trouble's comin' without control
+No-one's stayin' that's got a hope
+Hurricane at the very least
+In the words of the gypsy queen
+
+Sign of the gypsy queen
+Pack your things and leave
+Word of a woman who knows
+Take all your gold and you go
+
+Sign of the gypsy queen
+Pack your things and leave
+Word of a woman who knows
+Take all your gold and you go
+
+Sign of the gypsy queen
+Pack your things and leave
+Word of a woman who knows
+Take all your gold and you go

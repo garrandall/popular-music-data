@@ -1,7 +1,6 @@
 ---
 artists:
-- Joan Jett
-- the Blackhearts
+- Joan Jett & the Blackhearts
 features: []
 genres: []
 key: little-liar-joan-jett-the-blackhearts

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-happen-twice-kenny-chesney
+lyrics_url: https://genius.com/Kenny-chesney-dont-happen-twice-lyrics
 name: Don't Happen Twice
 rankings:
 - end_date: '2001-03-16'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
 ---
+I haven't seen you in forever
+Oh you haven't changed a bit
+You didn't think that I would remember
+How could I forget
 
+
+We sang Bobby McGhee on the hood of my car
+Made a wish on every star
+In that clear September sky
+One bottle of wine and two Dixie cups
+3 am I fell in love
+For the first time in my life
+Oh that's something that just don't happen twice
+
+
+To this day I still taste that first kiss
+How I prayed it wouldn't end
+In a way, seeing you like this
+I guess it never really did
+
+
+We sang Bobby McGhee on the hood of my car
+Made a wish on every star
+In that clear September sky
+One bottle of wine and two Dixie cups
+3 am I fell in love
+For the first time in my life
+Oh that's something that just don't happen twice
+
+
+One bottle of wine and two Dixie cups
+3 am I fell in love
+For the first time in my life
+Oh that's something, baby that's something
+Oh that's something
+That just don't happen twice
+
+
+Oh yeah
+
+We sang Bobby McGhee on the hood of my car
+Made a wish on every star
+One bottle of wine and two Dixie cups
+Yeah we fell in love

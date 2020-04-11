@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-can-t-this-night-go-on-forever-journey
+lyrics_url: https://genius.com/Journey-why-cant-this-night-go-on-forever-lyrics
 name: Why Can't This Night Go On Forever
 rankings:
 - end_date: '1987-05-01'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
 ---
+Lost in twilight, the memories
+Precious moments, you and me
+We've been old friends, all through the years
+Picture postcards, sharing tears
 
+(Chorus)
+What's in our hearts, there's never time, to say
+Need you tonight, lover don't fade away
+I've seen your city lights
+As I walk away
+Why can't this night...go on forever
+
+(Verse)
+Without love, we won't survive
+Run together, we rule the night
+Tell me secrets, oh that make you cry
+Where's the laughter, we gotta try
+
+(Chorus)
+What's in our hearts, there's never time to say
+Need you tonight, lover don't fade away
+Like a photograph
+That time won't erase
+Why can't this night...go on forever
+
+(Outro)
+Go on forever and ever...ever and ever

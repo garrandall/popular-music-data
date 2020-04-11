@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-lover-s-question-clyde-mcphatter
+lyrics_url: https://genius.com/Clyde-mcphatter-a-lovers-question-lyrics
 name: A Lover's Question
 rankings:
 - end_date: '1958-10-12'
@@ -103,4 +104,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
 ---
+Does she love me, with all her heart
+Should I worry, when we're apart
+It's a lover's question, I'd like to know
 
+Does she need me, as she pretends
+Is this a game, well then will I win
+It's a lover's question, I'd like to know
+
+I'd like to know when she's not with me
+If she's still true to me
+I'd like to know when we're kissing
+Does she feel just what I feel
+And how am I to know it's really real
+
+Oh, tell me where, the answer lies
+Is it in her kiss or in her eyes
+It's a lover's question I'd like to know
+
+I'd like to know when she's not with me
+If she's still true to me
+I'd like to know when we're kissing
+Does she feel just what I feel
+And how am I to know it's really real
+
+Oh, tell me where, the answer lies
+Is it in her kiss or in her eyes
+It's a lover's question I'd like to know

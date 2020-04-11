@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jamie-eddie-holland
+lyrics_url: https://genius.com/Eddie-holland-jamie-lyrics
 name: Jamie
 rankings:
 - end_date: '1962-01-26'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
 ---
+Shh, listen, my friends while I tell you
+About a girl that's so divine
+I love her for the joy she's brought me
+For she's mine all mine
 
+Oh, Jamie (Jamie!)
+I'm talkin' 'bout Jamie (Jamie!)
+Talkin' 'bout Jamie (Jamie!)
+That's my love
+
+
+Hair so long and pretty
+Eyes that shine like gold
+She has the kind of love for me
+That will never, never grow old
+
+
+Oh, Jamie (Jamie!)
+I'm talkin' 'bout Jamie (Jamie!)
+Yeah, talkin' 'bout Jamie (Jamie!)
+That's my girl (That's my girl!)
+
+
+Ooh, she comforts me when I am sad now
+She sticks with me when times are bad
+She kisses me and holds me so tight
+To me she's out of sight
+
+
+Oh, lips so warm and tender
+Kisses so divine
+I thank the Lord up above
+For making Jamie all mine
+I'm so glad to belong to her
+And she's mine, all mine
+
+
+Oh, Jamie
+Talkin' 'bout Jamie
+Ahh, talkin' 'bout Jamie
+That's my girl
+
+
+Uh, here she comes, huh
+I'm talkin' 'bout Jamie
+Yeah, talkin' 'bout Jamie
+That's my girl

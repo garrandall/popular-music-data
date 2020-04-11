@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sleeping-satellite-tasmin-archer
+lyrics_url: https://genius.com/Tasmin-archer-sleeping-satellite-lyrics
 name: Sleeping Satellite
 rankings:
 - end_date: '1993-04-23'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
 ---
+I blame you for the moonlit sky
+And the dream that died
+With the Eagle's flight
+I blame you for the moonlit nights
+When I wonder why
+Are the seas still dry?
+Don't blame this sleeping satellite
 
+Did we fly to the moon too soon
+Did we squander the chance
+In the rush of the race
+The reason we chase is lost in romance
+And still we try
+To justify the waste
+For a taste of man's greatest adventure
+
+I blame you for the moonlit sky
+And the dream that died
+With the Eagle's flight
+I blame you for the moonlit nights
+When I wonder why
+Are the seas still dry?
+Don't blame this sleeping satellite
+
+Have we lost what it takes to advance?
+Have we peaked too soon?
+If the world is so green
+Then why does it scream under a blue moon
+We wonder why
+If the earth's sacrificed
+For the price of it's greatest treasure
+
+I blame you for the moonlit sky
+And the dream that died
+With the Eagle's flight
+I blame you for the moonlit nights
+When I wonder why
+Are the seas still dry?
+Don't blame this sleeping satellite
+
+And when we shoot for stars
+What a giant step
+Have we got what it takes
+To carry the weight of this concept
+Or pass it by like a shot in the dark
+Miss the mark with a sense of adventure
+
+I blame you for the moonlit sky
+And the dream that died
+With the Eagle's flight
+I blame you for the moonlit nights
+When I wonder why
+Are the seas still dry?
+Don't blame this sleeping satellite

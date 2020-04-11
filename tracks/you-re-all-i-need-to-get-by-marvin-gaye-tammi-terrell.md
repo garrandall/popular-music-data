@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-re-all-i-need-to-get-by-marvin-gaye-tammi-terrell
+lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-youre-all-i-need-to-get-by-lyrics
 name: You're All I Need To Get By
 rankings:
 - end_date: '1968-08-02'
@@ -56,4 +57,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
 ---
+Like sweet morning dew
+I took one look at you
+And it was plain to see
+You were my destiny
 
+
+With my arms open wide
+I threw away my pride
+I'll sacrifice for you
+Dedicate my life to you
+
+I will go where you lead
+Always there in time of need
+
+
+And when I lose my will
+You'll be there to push me up the hill
+
+
+There's no, no looking back for us
+We got love sure 'nough, that's enough
+You're all, You're all I need to get by
+
+
+Like an eagle protects his nest, for you I'll do my best
+Stand by you like a tree, dare anybody to try and move me
+
+
+Darling in you I found
+Strength where I was torn down
+Don't know what's in store but together we can open any door
+Just to do what's good for you and inspire you a little higher
+
+
+I know you can make a man out of a soul that didn't have a goal
+
+
+Cause we, we got the right foundation and with love and determination
+You're all, you're all I want to strive for and do a little more
+You're all the joys under the sun wrapped up into one
+You're all I need, you're all I need, you're all I need to get by

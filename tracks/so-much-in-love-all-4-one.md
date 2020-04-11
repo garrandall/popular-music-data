@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-much-in-love-all-4-one
+lyrics_url: https://genius.com/All-4-one-so-much-in-love-lyrics
 name: So Much In Love
 rankings:
 - end_date: '1994-01-07'
@@ -95,4 +96,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
 ---
+As we stroll along together
+Holding hands walking all along
+So in love are we two
+That we don't know what to do
+So in love (so in love)
+In a world of our own (so in love)
 
+
+And as we walk by the sea together
+Under stars twinkling high above
+So in love are we two
+No one else but me and you
+So in love (so in love)
+So much in love (so in love)
+So in love (so in love)
+So much in love (so in love)
+
+
+We stroll along together
+I tell you, I need you oh so much
+I love, I love you my darling
+Can you tell it in my touch
+
+
+As we walk down the aisle together
+We will vow to be together 'til we die
+So in love are we two
+Just can't wait to say, "I do"
+So in love (so in love)
+In a world of our own (so in love)
+So in love (so in love)
+Are you and I (so in love)
+
+
+Baby, I hope you realize that you mean so much to me
+You're everything I ever wanted in a woman
+To touch you, to feel your body close to me
+I just want to hold you in my arms forever
+I love you, baby
+(sung) Can you tell it in my touch
+
+
+As we walk down the aisle together
+We will vow to be together 'til we die
+So in love are we two
+Just can't wait to say, "I do"
+So in love (so in love)
+Are you and I (so in love)
+So in love (so in love)
+Are you and I (so in love)
+
+
+So in love (so in love, so in love)
+So in love (so in love, so in love)
+So in love (so in love, so in love)
+So in love

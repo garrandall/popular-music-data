@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bottle-of-wine-the-fireballs
+lyrics_url: https://genius.com/The-fireballs-bottle-of-wine-lyrics
 name: Bottle Of Wine
 rankings:
 - end_date: '1968-01-05'
@@ -63,4 +64,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
 ---
+Bottle of wine
+Fruit of the vine
+When you gonna let me get sober?
+Leave me alone
+Let me go home
+Let me go home and start over
 
+Ramblin' around this dirty old town
+Singin' for nickles and dimes
+Times gettin' rough
+I ain't got enough
+To buy me a bottle of wine
+
+Bottle of wine
+Fruit of the vine
+When you gonna let me get sober?
+Leave me alone
+Let me go home
+Let me go home and start over
+
+A pain in my head
+There's bugs in my bed
+My pants are so old that they shine
+Out on the street
+I beg the people I meet
+To buy me a bottle of wine
+
+3X
+Bottle of wine
+Fruit of the vine
+When you gonna let me get sober?
+Leave me alone
+Let me go home
+Let me go home and start over
+
+Let me go home and start over
+Let me go home and start over

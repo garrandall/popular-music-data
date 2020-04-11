@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: desafinado-stan-getz-charlie-byrd
+lyrics_url: https://genius.com/Stan-getzcharlie-byrd-desafinado-lyrics
 name: Desafinado
 rankings:
 - end_date: '1962-10-05'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
 ---
+Folds Ben
+Rockin' The Suburbs
+The Ascent Of Stan
+Pangs of silence
+From the room upstairs
+How's the view there?
+Do you read what they're saying about you?
+That you're no fun
+Since the war was won
+In fact, you have become all of the things you've always run away from
 
+The ascent of Stan
+Textbook hippie man
+Get rest while you can
+
+So where'd the years go?
+All the time we had?
+Being poor was not such a drag in hindsight
+And you wonder why your father was so resigned
+Now you don't wonder any more
+
+The ascent of Stan
+Textbook hippie man
+Textbook hippie man
+Get rest while you can
+
+Stan: Once you wanted revolution
+Stan: Now you're the institution
+Stan: How's it feel to be the man?
+It's no fun to be the man
+
+And now, watch it all go down
+
+The ascent of Stan
+Textbook hippie man
+(Stan)
+Textbook hippie man
+Get rest while you can
+
+Stan: Once you wanted revolution
+Stan: Now you're the institution
+Stan: How's it feel to be the man?
+
+It's no fun to be the man

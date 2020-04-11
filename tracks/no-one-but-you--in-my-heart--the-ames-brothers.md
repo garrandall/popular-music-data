@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-but-you--in-my-heart--the-ames-brothers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ames-Brothers/No-One-but-You-In-My-Heart
 name: No One But You (In My Heart)
 rankings:
 - end_date: '1958-10-05'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
 ---
+I want you
+I need you, I love you
+There's no one
+But you in my heart
 
+I swear by the
+Moon high above you
+It's always been you
+From the start
+
+When you're not around
+I feel so out of place
+But, oh, what a feeling
+Each time I embrace you
+
+For always and always
+I'll love you
+There's no one
+But you in my heart
+
+When you're not around
+I feel so out of place
+But, oh, what a feeling
+Each time I embrace you
+
+For always and always
+I'll love you
+There's no one
+But you in my heart
+
+There's no one
+But you in my heart

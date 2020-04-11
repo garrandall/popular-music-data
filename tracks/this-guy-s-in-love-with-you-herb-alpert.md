@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-guy-s-in-love-with-you-herb-alpert
+lyrics_url: https://genius.com/Herb-alpert-and-the-tijuana-brass-this-guys-in-love-with-you-lyrics
 name: This Guy's In Love With You
 rankings:
 - end_date: '1968-05-24'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
 ---
+You see this guy
+This guy's in love with you
+Yes, I'm in love
+Who looks at you the way I do
+When you smile I can tell
+We know each other very well
+How can I show you
+I'm glad I got to know you, 'cause
 
+
+I've heard some talk
+They say you think I'm fine
+Yeah, I'm in love
+And what I'd do to make you mine
+Tell me now, is it so?
+Don't let me be the last to know
+My hands are shaking
+Don't let my heart keep breaking, 'cause
+
+
+I need your love
+I want your love
+Say you're in love
+In love with this guy
+If not, I'll just die
+
+
+Tell me now, is it so?
+Don't let me be the last to know
+My hands are shaking
+Don't let my heart keep breaking, 'cause
+
+
+I need your love
+I want your love
+Say you're in love
+In love with this guy
+If not, I'll just die

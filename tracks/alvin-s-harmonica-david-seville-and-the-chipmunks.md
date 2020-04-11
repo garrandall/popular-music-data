@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alvin-s-harmonica-david-seville-and-the-chipmunks
+lyrics_url: https://www.musixmatch.com/lyrics/David-Seville-And-The-Chipmunks/Alvin-s-Harmonica
 name: Alvin's Harmonica
 rankings:
 - end_date: '1959-02-22'
@@ -67,4 +68,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
 ---
+Alvin, put that harmonica down
 
+Why
+
+Because we're gonna sing, that's why
+
+Not again
+
+Never mind. Now look fellas
+This is a pretty song so let's try not to goof it up
+Are you ready, Simon
+
+Sure, let's go
+
+All set, Theodore
+
+Hot dog, you bet
+
+Are you ready
+Alvin Ready
+Alvin ALVIN
+
+Aw, nuts
+
+We sure like girls all kind of girls
+From Anie to Veronica
+We like them small or fat or tall
+
+I wanna play my harmonica
+Now cut that out
+
+And everyone to get a kiss
+We take them through for popcorn
+Because they always fall in love
+
+When I play my harmonicorn (sic)
+
+Alvin
+
+Will you put that thing down and sing
+
+OK
+
+We sure like girls all kind of girls
+From Annie to Veronica
+We like them small or fat or tall
+
+I'm gonna play my harmonica
+
+All right, Alvin. Make a fool of yourself
+Play the harmonica
+After a few bars of harmonica music
+The Chipmunks suddenly burst out with "Cha-cha-cha"
+
+Now wait a minute, you guys
+Alvin, you're goofing it all up
+This was a pretty song, it's not supposed to be a-
+
+Cha-cha-cha
+
+Now look what you did
+You got them all cha-chaing and singing and wrecking the song
+Theodore... Simon... orchestra will you cut that out
+Alvin put that harmonica down
+Alvin Alvin

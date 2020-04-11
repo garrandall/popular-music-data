@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-makes-the-world-go-round-deon-jackson
+lyrics_url: https://genius.com/Deon-jackson-love-makes-the-world-go-round-lyrics
 name: Love Makes The World Go Round
 rankings:
 - end_date: '1966-01-28'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+You know love makes the world go round
+And love, baby makes the seesaws go up and down
+And it makes trees grow tall
+And the most important thing of all
+It makes a boy and girl, oh
+Say they feel so fine, now
 
+Without love flowers wouldn't grow in the spring
+And without spring, yeah the birdies just couldn't sing
+Everybody needs love
+To watch the twinkling stars above
+It makes a boy and girl
+Say they feel so fine, now
+
+Oh... love makes you cry, now
+That goes for Billy, Sherry, Bobby and Marsha and baby you and I
+Oh, I can prove to you
+That these facts of love are so true
+It makes a boy and girl, yeah
+Say they feel so fine, now
+
+Love, love, sweet love love is so good, child
+Ooh, its so fine ooh...

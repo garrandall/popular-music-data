@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: casino-royale-herb-alpert-the-tijuana-brass
+lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/Casino-Royale
 name: Casino Royale
 rankings:
 - end_date: '1967-04-14'
@@ -44,4 +45,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+Seven James Bonds at Casino Royale,
+They came to save the world and win a gal at Casino Royale!
+Six of them went to a heavenly spot,
+The seventh one is going to a place where it's terribly... hot.
 
+The formula is safe with ole double-oh seven!
+He's got a redhead in his arms!
+Oh, he's a lover, when you're in trouble
+
+Have no fear, look who's here... James Bond...
+They've got us on the run... With guns... And knives...
+We're fighting for our lives... Have no fear, Bond is here...
+He's gonna to save the world at Casino Royale!
+
+Never fear, Bond is here!
+
+The formula is safe with ole double-oh seven!
+He's got a redhead in his arms!
+Oh, he's a lover, when you're in trouble
+
+Have no fear, look who's here... James Bond...
+They've got us on the run... With guns... And knives...
+We're fighting for our lives... Have no fear, Bond is here...
+He's gonna to save the world at Casino Royale...
+James Bond... is here... so have... no fear...
+So have... no... fear.

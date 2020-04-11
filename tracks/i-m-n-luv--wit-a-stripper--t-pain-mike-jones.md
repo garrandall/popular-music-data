@@ -5,6 +5,7 @@ features:
 - Mike Jones
 genres: []
 key: i-m-n-luv--wit-a-stripper--t-pain-mike-jones
+lyrics_url: https://genius.com/T-pain-im-n-luv-lyrics
 name: I'm N Luv (Wit A Stripper)
 rankings:
 - end_date: '2006-01-06'
@@ -88,4 +89,131 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
 ---
+Goddamn Lil Mama
+You know you thick as hell you know what I'm sayin'
+Matter fact
+After the club you know what I'm talkin' 'bout
+Me and my niggas gone be together you know what I'm sayin'
+I ain't gon worry bout them really though
+I'm just lookin at you
+Yea you know
+You got them big ass hips god damn!
 
+Got the body of a goddess
+Got eyes butter pecan brown I see you girl
+Droppin' low
+She comin' down from the ceiling
+To the floor
+Yea she know what she doin'
+Yea yea yea
+She doin' that right thing
+Yea yea yea yea ea
+I need to get her over to my crib and do that night thing
+'Cause I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She's every man's dream
+She's God's gift to Earth
+Women they love 'em too
+That's what you call a women's worth
+See I love all the strippers
+Because they show me love
+They know I never pay as free whenever I hit the club
+But I can't even lie
+The girls are here so fly
+She slidin' up and down that pole got me mesmerized
+Mike Jones don't ever trick
+But god damn she thick
+I can't lie, I must admit
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+Out of all the girls she be the hottest
+Liking the way she break it down I see you girl
+Spinnin' wide
+And she lookin' at me
+Right in my eyes
+Yea she got my attention
+Yea yea yea
+Did I forget to mention
+I need to get her over to my crib and do that night thing
+'Cause I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She can pop it she can lock it
+Teddy Penderass down I'm 'bout to see this sexy girl
+In my bed
+She don't know what she is doin'
+To my head
+Yea she turnin' tricks on me
+Yea yea yea
+She don't even know me
+Yea yea yea ea
+I'd have got her over to my crib to do that night thing
+'Cause I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'
+I'm N luv with a stripper
+
+She poppin' she rollin' she rollin'
+She climbin' that pole and
+I'm N luv with a stripper
+She trippin' she playin' she playin'
+I'm not goin' nowhere girl I'm stayin'

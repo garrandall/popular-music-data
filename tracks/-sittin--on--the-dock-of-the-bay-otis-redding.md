@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -sittin--on--the-dock-of-the-bay-otis-redding
+lyrics_url: https://genius.com/Otis-redding-sittin-on-the-dock-of-the-bay-lyrics
 name: (Sittin' On) The Dock Of The Bay
 rankings:
 - end_date: '1968-02-02'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
+Sittin' in the mornin' sun
+I'll be sittin' when the evenin' come
+Watching the ships roll in
+And then I watch 'em roll away again, yeah
 
+
+I'm sittin' on the dock of the bay
+Watching the tide roll away
+Ooo, I'm just sittin' on the dock of the bay
+Wastin' time
+
+
+I left my home in Georgia
+Headed for the 'Frisco bay
+Cause I've had nothing to live for
+And look like nothin's gonna come my way
+
+
+So I'm just gonna sit on the dock of the bay
+Watching the tide roll away
+Ooo, I'm sittin' on the dock of the bay
+Wastin' time
+
+
+Look like nothing's gonna change
+Everything still remains the same
+I can't do what ten people tell me to do
+So I guess I'll remain the same, yes
+
+
+Sittin' here resting my bones
+And this loneliness won't leave me alone
+It's two thousand miles I roamed
+Just to make this dock my home
+
+
+Now, I'm just gonna sit at the dock of the bay
+Watching the tide roll away
+Oooo-wee, sittin' on the dock of the bay
+Wastin' time
+
+
+*Whistling*

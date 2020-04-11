@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-my-starship-norman-connors
+lyrics_url: https://genius.com/Norman-connors-you-are-my-starship-lyrics
 name: You Are My Starship
 rankings:
 - end_date: '1976-09-03'
@@ -71,4 +72,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
 ---
+You are my light, I have to go on
+Have me anyway you want to
+Just take care and love me
+'Til my tension's gone
 
+'Cause you are my starship
+Come take me up tonight
+And don't be late
+
+Yes, you are my starship
+Come take me up tonight
+And don't be late
+And don't you come too soon
+
+Baby yeah
+
+Oh, oh, you are my starship
+Come take me up tonight
+And don't be late
+
+Yes, you are my starship
+Come take me up tonight
+And don't be late
+And don't you come too soon
+
+I can't say
+(I just can't say)
+(I just can't say)
+It's here that you want me
+(I just can't say, I just can't say)
+
+Oh, baby, I don't want nobody
+Nobody kissing you but me
+(Can't say)
+Oh, baby
+(I just can't say)
+
+'Cause you are my starship
+Come take me up tonight
+And don't be late
+
+Yes, you are my starship
+Come take me up tonight
+And don't be late
+And don't you come too soon
+
+Baby, oh yeah
+Take me up tonight
+And don't be late
+
+Oh, you are my starship
+Won't you take me tonight?
+And don't be late
+And don't you come too soon

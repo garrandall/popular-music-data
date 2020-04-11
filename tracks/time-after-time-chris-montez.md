@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-after-time-chris-montez
+lyrics_url: https://genius.com/Chris-montez-time-after-time-lyrics
 name: Time After Time
 rankings:
 - end_date: '1966-11-04'
@@ -39,4 +40,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+Time after time I tell myself that I'm
+So lucky to be loving you
+So lucky to be the one you run to see
+In the evening when the day is through
 
+I only know what I know
+The passing years will show
+You've kept my love so young, so new
+And time after time you'll hear me say
+That, "I'm so lucky to be loving you"

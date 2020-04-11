@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-closer-you-get-alabama
+lyrics_url: https://genius.com/Alabama-the-closer-you-get-lyrics
 name: The Closer You Get
 rankings:
 - end_date: '1983-05-13'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
 ---
+The closer you get, the further I fall
+I'll be over the edge now in no time at all
+I'm falling faster and faster and faster with no time to stall
+The closer you get, the further I fall
 
+
+The things that you say to me
+The look on your face
+Brings out the man in me
+Do I see a trace in your eyes of love
+
+
+
+
+Could I be dreaming
+Is this really real
+Because there's something magic
+The way that I feel in your arms tonight
+
+
+
+
+Keep falling, oh, yeah, yeah, keep falling

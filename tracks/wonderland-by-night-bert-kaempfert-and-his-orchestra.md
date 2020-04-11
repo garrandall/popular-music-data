@@ -1,9 +1,10 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: wonderland-by-night-bert-kaempfert-and-his-orchestra
+lyrics_url: https://genius.com/Bert-kaempfert-wonderland-by-night-lyrics
 name: Wonderland By Night
 rankings:
 - end_date: '1960-11-20'
@@ -75,4 +76,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
 ---
+Stars hang suspended
+Above a floating yellow moon
+Two hearts were blended
+While angels sang a lover's tune
 
+And so we kissed
+Not knowing if our hearts would pay the price
+But heaven welcomed us to paradise
+Blessing our love
+Then came the sunrise
+Fading the moon and stars from sight
+
+Recalling always
+Our wonderland by night

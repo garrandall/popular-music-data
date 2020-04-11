@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-lonely-buddy-greco
+lyrics_url: https://www.musixmatch.com/lyrics/Buddy-Greco/Mr-Lonely
 name: Mr Lonely
 rankings:
 - end_date: '1962-09-28'
@@ -51,4 +52,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+Lonely, I'm Mr. Lonely
+I have nobody for my own
+I'm lonely, I'm Mr. Lonely
+Wish I had someone
+To call on the phone
 
+For I'm a soldier, a lonely soldier
+Away from home through no wish of my own
+That's why I'm lonely, I'm Mr. Lonely
+I wish that I could go back home
+
+Letter, never a letter
+I get no letters in the mail
+I've been forgotten, yeah, forgotten
+Oh, how I wonder, how is it I failed
+
+For I'm a soldier, a lonely soldier
+Away from home through no wish of my own
+That's why I'm lonely, I'm Mr. Lonely
+I wish that I could go back home

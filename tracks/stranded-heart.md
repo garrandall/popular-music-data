@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stranded-heart
+lyrics_url: https://genius.com/Heart-stranded-lyrics
 name: Stranded
 rankings:
 - end_date: '1990-09-28'
@@ -95,4 +96,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
 ---
+Standing here helpless
+Where do I go
+If you leave me alone?
+Where do I turn now
+If it don't work out?
 
+As far as I can see
+This isn't the way
+That you said it would be
+
+Chorus:
+Don't leave me like this
+Don't leave me stranded
+If you walk away now
+You leave me empty-handed
+Don't leave me like this
+Don't leave me stranded
+
+Don't leave me now
+Don't leave me
+
+Wasn't it you
+Who brought me here
+To the place lovers go?
+Just look at these arms
+Reaching out to you
+
+Said that you'd always care
+I just turn around
+And there's nobody there
+
+Chorus (1x)
+
+Don't leave me now
+
+You said that you'd always care
+I just turn around
+And there's nobody there
+
+Don't leave me like --
+
+Chorus (1x)
+
+Stranded
+
+Chorus (1x)
+
+Stranded
+
+Don't leave me like this
+No, don't leave me

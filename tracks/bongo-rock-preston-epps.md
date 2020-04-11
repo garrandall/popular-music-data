@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bongo-rock-preston-epps
+lyrics_url: https://genius.com/Preston-epps-bongo-rock-lyrics
 name: Bongo Rock
 rankings:
 - end_date: '1959-05-24'
@@ -59,4 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
 ---
-
+Pd... Musik: Preston Epps ℗1959 ...Pd
+Pd... ®1959; Us Ht#14 ...Pd
+Pd... ♫  ♫ ...Pd
+...Pd...

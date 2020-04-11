@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pain-three-days-grace
+lyrics_url: https://genius.com/Three-days-grace-pain-lyrics
 name: Pain
 rankings:
 - end_date: '2006-12-22'
@@ -87,4 +88,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
 ---
+Pain, without love
+Pain, I can't get enough
+Pain, I like it rough
+'Cause I'd rather feel pain than nothing at all
 
+
+You're sick of feeling numb
+You're not the only one
+I'll take you by the hand
+And I'll show you a world that you can understand
+This life is filled with hurt
+When happiness doesn't work
+Trust me, and take my hand
+When the lights go out you'll understand
+
+
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing at all
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing at all
+
+
+Anger and agony
+Are better than misery
+Trust me I've got a plan
+When the lights go up you'll understand
+
+
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing at all
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing
+Rather feel pain
+
+
+I know, I know, I know, I know (I know)
+That you're wounded
+You know, you know, you know, you know (you know)
+That I'm here to save you
+You know, you know, you know, you know (you know)
+I'm always here for you
+I know, I know, I know, I know (I know)
+That you'll thank me later
+
+
+Pain, without love
+Pain, can't get enough
+Pain, I like it rough
+'Cause I'd rather feel pain than nothing at all
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing at all
+Pain (Pain), without love
+Pain (Pain), I can't get enough
+Pain (Pain), I like it rough
+'Cause I'd rather feel pain than nothing at all
+Rather feel pain than nothing at all
+Rather feel pain

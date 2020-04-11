@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fox-on-the-run-sweet
+lyrics_url: https://genius.com/Sweet-fox-on-the-run-lyrics
 name: Fox On The Run
 rankings:
 - end_date: '1975-11-21'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
 ---
+I - don't wanna know your name
+'Cause you don't look the same
+The way you did before
+Okay - you think you got a pretty face
+But the rest of you is out of place
+You looked alright before
 
+
+Fox on the run
+You scream and everybody comes a running
+Take a run and hide yourself away
+Fox is on the run
+F-foxy
+Fox on the run
+And hide away
+
+
+You - you talk about just every band
+But the names you drop are second hand (second hand)
+I've heard it all before
+I - don't wanna know your name
+'Cause you don't look the same
+The way you did before
+
+
+Fox on the run
+You scream and everybody comes a running
+Take a run and hide yourself away
+Fox is on the run
+F-foxy
+Fox on the run
+And hide away
+
+
+F-foxy
+Fox on the run
+You scream and everybody comes a running
+Take a run and hide yourself away
+Fox is on the run
+F-foxy
+Fox on the run
+And hide away
+(Fox on the run)
+(Fox on the run)
+(Fox on the run)
+(Fox)

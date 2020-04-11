@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-hurt-bill-deal-the-rhondels
+lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/I-ve-Been-Hurt
 name: I've Been Hurt
 rankings:
 - end_date: '1969-04-25'
@@ -48,4 +49,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
-
+I've been hurt, hurt, hurt
+Yes I've been hurt
+I've been hurt like I've never been hurt before
+Cause you cheated, cheated, cheated, cheated on me, girl
+Yes, you told me a whole lot of lies
+And you lied, you lied to me
+Leave me alone, little girl
+Cause I've been hurt
+What happened, happened, happened, happened last night
+I saw you with another guy
+Was holding you tight
+And you lied, you lied to me
+Leave me alone, little girl
+Cause I've been hurt
+I've been hurt, hurt, hurt
+Yes I've been hurt
+Cause you cheated, cheated, cheated, cheated on me, girl
+I've been hurt, hurt, hurt
+Yes I've been hurt
+Cause you cheated, cheated, cheated, cheated on me, girl
+I've been hurt, hurt, hurt
+Yes I've been hurt
+Oh, yes you cheated, cheated, cheated, cheated on me, girl...

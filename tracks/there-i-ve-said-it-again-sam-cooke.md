@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-i-ve-said-it-again-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-there-ive-said-it-again-lyrics
 name: There I've Said It Again
 rankings:
 - end_date: '1959-11-15'
@@ -27,4 +28,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
 ---
+(Love you, love you)
+I love you, there’s nothing to hide
+It’s better than burning inside
+I love you, no use to pretend
+There I’ve said it again
+I’ve said it, what more can I say
+Believe me, There’s no other way
+I just love you and will to the end
+There I’ve said it again
 
+I tried to drum up
+A frase that would sum up
+All that I feel, that I feel for you
+But what good are frazes
+The thought that amazes
+Is you love me and it’s so heavenly
+Forgive me, for wanting you so
+There’s one thing I want you to know
+ and that I love you so
+Heaven knows when
+There I’ve said it again
+There I’ve said it again

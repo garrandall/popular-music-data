@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strong-enough-cher
+lyrics_url: https://genius.com/Cher-strong-enough-lyrics
 name: Strong Enough
 rankings:
 - end_date: '1999-05-28'
@@ -55,4 +56,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
 ---
+I don't need your sympathy
+There's nothing you can say or do for me
+And I don't want a miracle
+You'll never change for no one
+And I hear your reasons why
+Where did you sleep last night?
+And was she worth it, was she worth it?
 
+
+'Cause I'm strong enough to live without you
+Strong enough and I quit crying
+Long enough, now I'm strong enough
+To know you gotta go
+There's no more to say
+So save your breath and walk away
+No matter what I hear you say
+I'm strong enough to know you gotta go
+
+
+So you feel misunderstood
+Baby have I got news for you
+On being used, I could write the book
+But you don't wanna hear about it
+'Cause I've been losing sleep
+And you've been going cheap
+She ain't worth half of me, it's true
+Now I'm telling you, that
+
+
+I'm strong enough to live without you
+Strong enough and I quit crying
+Long enough, now I'm strong enough
+To know you gotta go
+
+
+Come hell or waters high
+You'll never see me cry
+This is our last goodbye, it's true
+I'm telling you, now
+
+
+I'm strong enough to live without you
+Strong enough and I quit crying
+Long enough, now I'm strong enough
+To know you gotta go
+There's no more to say
+So save your breath and walk away
+No matter what I hear you say
+I'm strong enough to know you gotta go
+Now I'm strong enough to live without you
+Strong enough and I quit crying
+Long enough, now I'm strong enough
+To know you gotta go
+There's no more to say
+So save your breath and walk away
+No matter what I hear you say
+I'm strong enough to know you gotta go

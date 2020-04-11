@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-hero-jamie-o-neal
+lyrics_url: https://genius.com/Jamie-oneal-somebodys-hero-lyrics
 name: Somebody's Hero
 rankings:
 - end_date: '2005-08-05'
@@ -75,4 +76,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
 ---
+She's never pulled anybody from a burning building
+She's never rocked Central Park
+To a half a million fans screaming out her name
+She's never hit a shot to win the game
 
+She's never left her footprints on the moon
+She's never made a solo hot air balloon
+Ride around the world
+No, she's just your everyday average girl
+(But)
+
+She's somebody's hero
+A hero to her baby with a skinned-up knee
+A little kiss is all she needs
+
+The keeper of the Cheerios
+The voice that brings Snow White to life
+Bedtime stories every night
+And that smile lets her know
+She's somebody's hero
+
+She didn't get a check
+Every week like a nine-to-fiver
+But she's been a waiter and a cook and a taxi driver
+For twenty years there at home
+Until the day her girl was grown
+Giving all her love to her was her life's ambition
+
+But now her baby's moving on
+And she'll soon be missing her
+But not today
+Those are tears of joy runnin' down her face
+
+She's somebody's hero
+A hero to her daughter in her wedding dress
+She gave her wings to leave the nest
+
+It hurts to let her baby go down the aisle
+She walks right by
+Looks back into her mother's eyes
+And that smile lets her know
+She's somebody's hero
+
+Thirty years have flown right past
+Her daughter's staring at
+All the photographs of her mother
+And she wishes she could be like that
+Oh but she already is
+
+She's somebody's hero
+A hero to her mother in a rockin' chair
+She runs a brush through her silver hair
+The envy of the nursing home
+
+She drops by every afternoon
+Feeds her mama with a spoon
+And that smile lets her know
+Her mother's smile lets her know
+She's somebody's hero

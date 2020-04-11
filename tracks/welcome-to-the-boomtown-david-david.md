@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: welcome-to-the-boomtown-david-david
+lyrics_url: https://genius.com/David-and-david-welcome-to-the-boomtown-lyrics
 name: Welcome To The Boomtown
 rankings:
 - end_date: '1986-10-10'
@@ -72,4 +73,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+Miss Cristina drives a 944
+Satisfaction oozes from her pores
+She keeps rings on her fingers
+Marble on her floor
+Cocaine in her dresser
+Bars on her doors
+She keeps her back against the wall
+She keeps her back against the wall
 
+So I say
+I say welcome
+Welcome to the boomtown
+Pick a habit
+We got plenty to go around
+
+Welcome
+Welcome to the boomtown
+All that money makes
+Such a succulent sound
+Welcome to the boomtown
+
+Handsome Kevin
+Got a little off track
+Took a year off from college
+And he never went back
+
+Now he smokes much too much
+Got a permanent hack
+Deals dope out of Denny's
+Keeps a table in the back
+He always listens to low ground
+Always listens to low ground
+
+So I say
+I say welcome
+Welcome to the boomtown
+Pick a habit
+We got plenty to go around
+
+Welcome
+Welcome to the boomtown
+All that money makes
+Such a succulent sound
+Welcome to the boomtown
+
+Well, the ambulance arrived too late
+I guess she didn't want to wait
+
+So I say
+I say welcome
+Welcome to the boomtown
+Pick a habit
+We got plenty to go around
+
+Welcome
+Welcome to the boomtown
+All that money makes
+Such a succulent sound
+Welcome to the boomtown
+
+Welcome to the boomtown
+Welcome to the boomtown

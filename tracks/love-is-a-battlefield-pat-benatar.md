@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-a-battlefield-pat-benatar
+lyrics_url: https://genius.com/Pat-benatar-love-is-a-battlefield-lyrics
 name: Love Is A Battlefield
 rankings:
 - end_date: '1983-09-30'
@@ -95,4 +96,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
 ---
+(We are young) we are young
+(Heartache to heartache) heartache to heartache
+(We stand) we stand
+(No promises) no promises
+(No demands) no demands
+(Love is a battlefield) love is a battlefield
 
+
+We are strong
+No one can tell us we're wrong
+Searching our hearts for so long
+Both of us knowing
+Love is a battlefield
+
+
+You're begging me to go
+Then making me stay
+Why do you hurt me so bad?
+It would help me to know
+Do I stand in your way
+Or am I the best thing you've had?
+Believe me
+Believe me
+I can't tell you why
+But I'm trapped by your love
+And I'm chained to your side
+
+
+(We are young) we are young
+(Heartache to heartache) heartache to heartache
+(We stand) we stand
+(No promises) no promises
+(No demands) no demands
+(Love is a battlefield) love is a battlefield
+
+
+We are strong
+No one can tell us we're wrong
+Searching our hearts for so long
+Both of us knowing
+Love is a battlefield
+
+
+When I'm losing control
+Will you turn me away
+Or touch me deep inside?
+And when all this gets old
+Will it still feel the same?
+There's no way this will die
+But if we get much closer
+I could lose control
+And if your heart surrenders
+You'll need me to hold
+
+
+(We are young) we are young
+(Heartache to heartache) heartache to heartache
+(We stand) we stand
+(No promises) no promises
+(No demands) no demands
+(Love is a battlefield) love is a battlefield
+
+
+We are strong
+No one can tell us we're wrong
+Searching our hearts for so long
+Both of us knowing
+Love is a battlefield

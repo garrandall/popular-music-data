@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-s-home-avril-lavigne
+lyrics_url: https://genius.com/Avril-lavigne-nobodys-home-lyrics
 name: Nobody's Home
 rankings:
 - end_date: '2004-12-17'
@@ -75,4 +76,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-02'
 ---
+Well, I couldn't tell you
+Why she felt that way
+She felt it everyday
+And I couldn't help her
+I just watched her make
+The same mistakes again
 
+
+What's wrong, what's wrong now?
+Too many, too many problems
+Don't know where she belongs
+Where she belongs
+
+
+She wants to go home, but nobody's home
+That's where she lies, broken inside
+With no place to go, no place to go
+To dry her eyes, broken inside
+
+
+Open your eyes (open your eyes)
+And look outside
+Find the reasons why
+You've been rejected (you've been rejected)
+And now you can't find
+What you've left behind
+
+
+Be strong, be strong now
+Too many, too many problems
+Don't know where she belongs
+Where she belongs
+
+
+She wants to go home, but nobody's home
+That's where she lies, broken inside
+With no place to go, no place to go
+To dry her eyes, broken inside
+
+
+Her feelings, she hides
+Her dreams, she can't find
+She's losing her mind
+She's falling behind
+She can't find her place
+She's losing her faith
+She's fallen from grace
+She's all over the place, yeah
+
+
+She wants to go home, but nobody's home
+That's where she lies, broken inside
+With no place to go, no place to go
+To dry her eyes, broken inside
+
+
+She's lost inside, lost inside, oh-oh
+She's lost inside, lost inside, oh-oh, oh

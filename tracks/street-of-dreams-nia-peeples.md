@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: street-of-dreams-nia-peeples
+lyrics_url: https://genius.com/Nia-peeples-street-of-dreams-lyrics
 name: Street Of Dreams
 rankings:
 - end_date: '1991-10-18'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
 ---
+Mama always used to say
+Good things come to those who wait
+Just give it time
+Now your out there on your own
+Got no place to call your home
+Make you lose your mind
+Busy workin' day and night
+Tryin' to bring your dreams to life
+It just ain't right
 
+Each time they knock you down
+Get your feet back on the ground
+Don't let 'em stand in your way
+
+So if you feel that you just can't take it
+And the world isn't what it seems
+Don't forget that life can be what you make it
+Baby when you live on a street of dreams
+Street of dreams
+
+No-one seems to understand
+All they do is make demands
+Tell you where to go
+Got no business in your life
+Tryin' to tell you wrong from right
+You already know
+Chasin' rainbows in the sky
+Got to have the nerve to try
+You've got to see it through
+
+Hold on to what you know
+Don't ever let it go
+Someday you'll see it come true
+
+So if you feel that you just can't take it
+And the world isn't what it seems
+Don't forget that life can be what you make it
+Baby when you live on a street of dreams
+Street of dreams
+
+Each time they knock you down
+Get your feet back on the ground
+Don't let 'em stand in your way
+
+So if you feel that you just can't take it
+And the world isn't what it seems
+Don't forget that life can be what you make it
+Baby when you live on a street of dreams
+Street of dreams
+
+So if you feel that you just can't take it
+And the world isn't what it seems
+Don't forget that life can be what you make it
+Baby when you live on a street of dreams
+Street of dreams
+
+Chasin' rainbows in the sky
+Got to have the nerve to try
+
+Busy workin' day and night
+Tryin' to bring your dreams to life

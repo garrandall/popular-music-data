@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-my-mind-made-up--you-can-get-it-girl--instant-funk
+lyrics_url: https://genius.com/Instant-funk-i-got-my-mind-made-up-you-can-get-it-girl-lyrics
 name: I Got My Mind Made Up (You Can Get It Girl)
 rankings:
 - end_date: '1979-02-23'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
+I got my mind made up
+Come on you can get it
+Get it, girl, any time
+Say what? Tonight is fine
 
+I got my mind made up
+Come on you can get it
+Get it, girl, any time
+Say what? Tonight is fine
+
+You gotta push it to me, baby
+Push it to me, baby
+You gotta slide it to me, honey
+Slide it to me, girl
+
+If you want my money
+If you want my money
+You gotta make it good as honey
+
+I got my mind made up
+Come on you can get it
+Get it, girl, any time
+Say what? Tonight is fine
+
+You've got me groovin'
+Just keep on movin'
+Keep movin', keep movin'
+Feeling's really soothing
+
+Keeps me movin', yeah, yeah, yeah
+
+I got my mind made up
+Come on you can get it
+Get it, girl, any time
+Say what? Tonight is fine
+
+I got my mind made up
+Come on, you can get it, get it

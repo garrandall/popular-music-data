@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dub-be-good-to-me-beats-international
+lyrics_url: https://www.musixmatch.com/lyrics/Beats-International/Dub-Be-Good-to-Me
 name: Dub Be Good To Me
 rankings:
 - end_date: '1990-04-20'
@@ -27,4 +28,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
 ---
+Just be good to me
 
+Just be good to me
+Just be good to me
+
+Just be good to me
+Just be good to me
+Just be good to me
+Just be good to me
+Just be good to me
+
+Just be good to me
+
+Just be good to me
+
+Just be good to me
+
+Just be good to me

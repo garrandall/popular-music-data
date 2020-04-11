@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-be-sincere-jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-just-be-sincere-lyrics
 name: Just Be Sincere
 rankings:
 - end_date: '1967-02-17'
@@ -19,4 +20,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
 ---
-
+(Just be sincere to me)
+(Just be sincere to me)
+You say you love me
+An I believe it's true
+But there's something going down
+It's all over town
+Talk around's about you
+Oh, I don't want to hear these things
+Please say it's untrue
+Please tell me darling
+What the people say
+Is not true about you
+(Just be sincere to me)
+(Just be sincere to me)
+Now the talk is loud
+It's all over town
+It's driving my hopes into the ground
+I ask you to explain to me
+This hurt and pain
+But your excuses are always the same
+Oh, I don't want to hear these things
+Please say it's untrue
+Please tell me darling
+What the people say
+Is not true about you
+(Just be sincere to me)
+(Just be sincere to me)
+Now I've had all that I can stand
+I think you've filled your cup
+I try to turn around the facts ever laid down
+But two and two don't add up
+Oh, don't think it's all right for you
+To treat me this way
+I'm down on my knees, every night
+And I'm hoping you'll hear me pray
+(Just be sincere to me)
+(Just be sincere to me)

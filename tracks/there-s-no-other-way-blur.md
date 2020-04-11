@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-no-other-way-blur
+lyrics_url: https://genius.com/Blur-theres-no-other-way-lyrics
 name: There's No Other Way
 rankings:
 - end_date: '1992-01-17'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
 ---
+You're taking the fun out of everything
+You're making me run when I don't want to think
+You're taking the fun out of everything
+I don't want to think at all
 
+
+There's no other way, there's no other way
+All that you can do is watch them play
+
+
+You're taking the fun out of everything
+You're making it clear when I don't want to think
+You're taking me up when I don't want to go up anymore
+I'm just watching it all
+
+
+There's no other way, there's no other way
+All that you can do is watch them play
+There's no other way, there's no other way
+All that you can do is watch them play
+
+
+I'll watch you play
+I'll watch you play
+
+
+There's no other way, there's no other way
+All that you can do is watch them play
+There's no other way, there's no other way
+All that you can do is watch them play
+There's no other way, there's no other way
+All that you can do is watch them play
+There's no other way, there's no other way
+All that you can do is watch them play

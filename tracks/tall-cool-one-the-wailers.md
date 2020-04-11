@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tall-cool-one-the-wailers
+lyrics_url: https://genius.com/The-wailers-tall-cool-one-lyrics
 name: Tall Cool One
 rankings:
 - end_date: '1959-05-24'
@@ -99,4 +100,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
 ---
-
+♫  ♫

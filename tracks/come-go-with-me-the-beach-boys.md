@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-go-with-me-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-come-go-with-me-lyrics
 name: Come Go With Me
 rankings:
 - end_date: '1981-11-27'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
 ---
+Dom dom dom dom dom
+Dom be dooby
+Dom dom dom dom dom
+Dom be dooby
+Dom dom dom dom dom
+Dom be dooby dom
+Whoa whoa whoa whoa
 
+
+I love love you darling
+Come and go with me
+Come home with me
+Baby I'm to see
+I need you darling
+Come and go with me
+Whoa whoa whoa whoa
+Come come come come
+Come into my heart
+Tell me darling
+We will never part
+I need you darling
+Come and go with me
+Whoa whoa whoa whoa
+Yes I need you
+Yes I really need you
+Please say you'll never leave me
+When you say you never
+Guess you really never
+You never give me a chance
+Come come come come
+Come into my heart
+Tell me darling
+We will never part
+I need you darling
+Come and go with me
+Whoa whoa whoa whoa
+You never give me a chance
+I love love you darling
+Come and go with me
+Come home with me
+Baby I'm to see
+I need you darling
+Come and go with me
+
+
+Come on go with me
+Dom dom dom dom dom
+Dom be dooby
+Come on go with me
+Dom dom dom dom dom
+Dom be dooby
+Come on go with me
+Dom dom dom dom dom
+Dom be dooby
+Come on go with me

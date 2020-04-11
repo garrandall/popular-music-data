@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-lied-to-your-daddy-the-tams
+lyrics_url: https://www.musixmatch.com/lyrics/The-Tams/You-Lied-to-Your-Daddy-Re-Recorded-2
 name: You Lied To Your Daddy
 rankings:
 - end_date: '1964-03-27'
@@ -27,4 +28,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
 ---
+You told me that your love was true,
+But look at me girl, now I'm blue.
+Because you cheat, cheat, cheat, cheat, you cheat-cheat- cheated,
+You cheat, cheat, cheat, cheat, you cheat-cheat-cheated.
+You gave your love so tenderly
+And then you took it away from me.
+You lied to me (you lied, you lied, you lied, you lied)
 
+You ran around and then you put me down.
+How could you be so cruel?
+After I was so cruel to you, tell me why?
+
+You lie.
+
+You told me that your love was true,
+But look at me girl, now I'm blue.
+Because you cheat, cheat, cheat, cheat, you cheat-cheat-cheated
+Because you cheat, cheat, cheat, cheat, you cheat-cheat-cheated
+You gave your love so tenderly
+And then you took it away from me.
+You lied to me (you lied, you lied, you lied, you lied)
+
+You lied, lied, lied, lied, you lied to your daddy
+You lied, lied, lied, lied, you lied to your daddy
+You cheat, cheat, cheat, cheat, you cheat-cheat-cheated...

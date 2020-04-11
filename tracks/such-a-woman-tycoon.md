@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: such-a-woman-tycoon
+lyrics_url: https://www.musixmatch.com/lyrics/Tycoon/Such-a-Woman
 name: Such A Woman
 rankings:
 - end_date: '1979-03-23'
@@ -59,4 +60,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
 ---
+Ah, oo
+In my own way I say too much
+Love has a lonely way of leaving us
+Outside a storm is brewing
+I can hear the sound
+And inside my heart is beating out loud
+I can't live on without her
+I don't wanna go on
+Cause life has no meaning without her
+I can't wait that long
 
+And tell me where can a man find such a woman
+To give him all the love he needs in his heart
+She's there for his lovin
+God knows he needs her so bad
+
+And in my own time I've heard the call
+I've seen so many roses bloom
+And I've seen them fall
+I know the things a man Must do to make him strong
+I know the kind of love I've needed for so long
+
+And tell me where can a man find such a woman
+To give him all the love he needs in his heart
+She's there for his lovin
+God knows he needs her so bad
+
+All through the night she's there
+Just to treasure his love
+That's the life, high on the pleasure of love
+That's all right
+God knows he needs her so bad
+And maybe I am lost and I just can't be found
+Maybe it'll be true love next time around
+Maybe next time
+Somebody tell me where can a man
+Find such a woman
+To give him all the love he needs in his heart
+She's there for his lovin
+God knows he needs her so bad

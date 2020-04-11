@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartaches-the-marcels
+lyrics_url: https://genius.com/The-marcels-heartaches-lyrics
 name: Heartaches
 rankings:
 - end_date: '1961-10-15'
@@ -55,4 +56,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
 ---
+Watch out!
 
+
+Heart-aches
+Heart-aches
+Heart-aches
+Heart-aches
+My loving you meant only heartaches
+Your kiss was such a sacred thing to me
+I can't believe it's just a burning memory
+Heartaches
+Heartaches
+What does it matter how my heart breaks?
+I should be happy with someone new
+But my heart aches for you
+Heart-aches
+Heart-aches
+Heart-aches
+You know, my loving you meant only heartaches
+I can't believe it's just a burning memory

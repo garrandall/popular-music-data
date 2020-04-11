@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: blue-guitar-justin-hayward-john-lodge
+lyrics_url: https://genius.com/Justin-hayward-and-john-lodge-blue-guitar-lyrics
 name: Blue Guitar
 rankings:
 - end_date: '1975-12-19'
@@ -28,4 +29,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
 ---
+Blue guitar
+Fortune of my ways
+Making of my days
+New chord
+Counting up the ways
+Happiness is lazy
 
+If you don't know the song
+If you can't put the words to the tune
+Tell the rhyme from the reason
+What should it matter
+To the fool or the dreamer?
+
+New hope
+Travelers in a storm
+Finding love is warm
+New day
+The world has just begun
+Our eyes have seen the sun
+
+If you don't know the way
+If you can't see the wood for the trees
+Taste the wine from the water
+Well, what should it matter
+To the fool or the dreamer?

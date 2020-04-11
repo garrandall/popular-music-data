@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ya-ya-lee-dorsey
+lyrics_url: https://genius.com/Lee-dorsey-ya-ya-lyrics
 name: Ya Ya
 rankings:
 - end_date: '1961-09-17'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
 ---
+Oh, well, I'm... (UHH!)
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+It may sound funny
+But I don't believe she's comin' (ohh, ohh)
 
+Baby hurry
+Don't make me worry (ohh, ohh)
+Yeah baby, hurry
+Don't make me worry (ohh, ohh)
+You know that I love you
+Oh, how I love you (ohh, ohh)
+
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+It may sound funny
+But I don't believe she's comin' (ohh, ohh)
+
+Baby hurry
+Don't make me worry (ohh, ohh)
+Yeah baby, hurry
+Don't make me worry (ohh, ohh)
+You know how I love you
+Oh, how I love you (ohh, ohh)
+
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+Sittin' here in La-La
+Waitin' for my Ya Ya (ohh, ohh)
+It may sound funny
+But I don't believe she's comin' (ohh, ohh)
+
+Baby hurry
+Don't make me worry (ohh, ohh)
+Yeah baby, hurry
+Don't make me worry (ohh, ohh)
+You know how I love you...

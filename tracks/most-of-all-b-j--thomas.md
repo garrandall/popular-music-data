@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: most-of-all-b-j--thomas
+lyrics_url: https://genius.com/Bj-thomas-most-of-all-lyrics
 name: Most Of All
 rankings:
 - end_date: '1970-12-04'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
+Hello darlin', my – it's good to hear you
+I'm at the railroad station in st. Paul
+How are all the folks, I'd love to see 'em
+But girl I'd love to see you most of all
 
+Well I've been staring at the rain and I've been thinkin'
+Ever since the train left Montreal
+Thought I'd always love this life I'm living
+But now I know I love you most of all
+
+Many times before I know I swore that I'd come home to stay...
+But it always seems that foolish dream and trains got in my way
+
+Tomorrow there will be snow in Minnesota
+But I won't be around to watch it fall
+I'll be heading for that old familiar station...
+Hopin' you still love me most of all
+
+Girl , you know I love you most of all
+I miss ya baby... Most of all
+I miss ya baby, most of all

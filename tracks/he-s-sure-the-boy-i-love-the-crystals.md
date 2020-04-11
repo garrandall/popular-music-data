@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-s-sure-the-boy-i-love-the-crystals
+lyrics_url: https://genius.com/The-crystals-hes-sure-the-boy-i-love-lyrics
 name: He's Sure The Boy I Love
 rankings:
 - end_date: '1963-01-04'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
 ---
+Spoken:
+I always dreamed the boy I loved would come along
+And he'd be tall and handsome, rich and strong
+Now, that boy I love has come to me
+But he sure ain't the way I thought he'd be
 
+Sha-la-la-la-la, hey, hey, yeah
+Sha-la-la-la-la, hey, hey, yeah
+Sha-la-la-la-la, hey, hey, yeah
+He's sure the boy I love
+
+He doesn't look like a movie star
+He doesn't drive a Cadillac car
+He sure ain't the boy I've been dreamin' of
+But he's sure the boy I love
+
+Let me tell ya now
+He'd never be a big businessman
+He always buys on the installment plan
+He sure ain't the boy I've been dreamin' of
+But he's sure the boy I love
+
+When he holds me tight
+Everything's right
+Crazy as it seems
+I'm his, whatever he is
+And I forget all of my dreams
+
+Everybody knows he doesn't hang diamonds round my neck, oh no
+And all he's got's an unemployment check
+He sure ain't the boy I've been dreamin' of
+But he's sure the boy I love
+
+
+
+When he holds me tight
+Everything's right
+Crazy as it seems
+I'm his, whatever he is
+And I forget all of my dreams
+He doesn't hang diamonds 'round my neck
+And all he's got's an unemployment check
+He sure ain't the boy I've been dreamin' of
+But he's sure the boy I love
+
+Whoa-ho-ho, yeah
+(He's sure the boy I love)
+Whoa-ho-ho, yeah
+(He's sure the boy I love)

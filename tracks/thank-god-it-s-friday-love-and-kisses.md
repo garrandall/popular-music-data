@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-god-it-s-friday-love-and-kisses
+lyrics_url: https://genius.com/Love-and-kisses-thank-god-its-friday-lyrics
 name: Thank God It's Friday
 rankings:
 - end_date: '1978-05-12'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
 ---
+Friday
+Thank God it's Friday
+Friday
+Thank God it's Friday, Friday, Friday, Friday...
 
+Hey, put a smile on your face
+Things are coming your way out there somewhere tonight
+It's the right time and place
+
+I saw you, baby, for the very first time
+Couldn't take my eyes off you
+Girl you just had to be mine
+You're the key I'm dreaming of
+For it just had to be you
+Girl, I know this time I'll make all my dreams come true
+
+Hey, see the stars in his eyes
+And that music in you tells you how you can find
+Your way to paradise
+
+Friday
+Thank God it's Friday
+Friday
+Thank God it's Friday, Friday, Friday, Friday...
+
+Hey, put a smile on your face
+Things are coming your way, out there somewhere tonight
+It's the right time and place
+Hey, see the stars in his eyes
+Tells you how you can find love (repeat and fade)

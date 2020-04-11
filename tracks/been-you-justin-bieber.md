@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: been-you-justin-bieber
+lyrics_url: https://genius.com/Justin-bieber-been-you-lyrics
 name: Been You
 rankings:
 - end_date: '2015-12-11'
@@ -11,4 +12,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
 ---
+Feeling the reminisce
+Gone in an instance
+Blink of an eye
+No goodbye
+I had a notion
+Deep as the ocean
+Blue like the sky
+Oh my
 
+
+Like a permanent stain
+Wishing I could just wash away, away
+Hate our love was in vein
+But we're the blame
+For all the pain
+For all the pain
+
+
+If I would have known
+If I would have known
+If I would have known
+It could have been you
+(Woah, woah, woah)
+If I had the chance
+If I had the chance
+I'd make us brand new
+I never wanted to be
+Wanted to be
+Your enemy, no, no
+But if I
+If I would have known
+If I would have known
+It could have been you
+Been you
+
+
+There repercussion
+Of missing your loving
+Haunts me at night
+The ghosts are alive
+All of the memories
+Of serenity
+Dwindle in my mind
+All the time
+
+
+Like a permanent stain
+Wishing I could just wash away, away
+Hate our love was in vein
+Who was to blame
+For all the pain
+For all the pain
+
+
+If I would have known
+If I would have known
+If I would have known
+It could have been you
+If I had a chance
+If I had a chance
+I'd make us brand new
+I never wanted to be
+Wanted to be
+Your enemy, no, no
+But if I
+If I would have known
+If I would have known
+It could have been you
+Been you
+
+
+
+
+If I would have known
+If I would have known
+If I would have known
+It could have been you
+If I had a chance
+If I had a chance
+I'd make us brand new
+I never wanted to be
+Wanted to be
+Your enemy, no, no
+But if I
+If I would have known
+If I would have known
+It could have been you
+Been you

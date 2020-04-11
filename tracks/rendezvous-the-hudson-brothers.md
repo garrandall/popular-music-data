@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rendezvous-the-hudson-brothers
+lyrics_url: https://genius.com/Hudson-brothers-rendezvous-lyrics
 name: Rendezvous
 rankings:
 - end_date: '1975-06-27'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-06'
 ---
+Chorus
+Rendezvous,Oh Rendezvous, Rende, Rende, Rendezvous
+Rendezvous,Ohe Rendezvous, Rende, Rende, Rendezvous
 
+Your mom and dad think Im bad
+But that doesnt mena you have to be so sad
+Cause Im gonna see you anyway tonight
+And rendezvouse underneath the moonlight
+
+Why dont you take me on a .....
+Chorus
+
+When I get home, home from school
+Im gonna get dressed so I can look real cool
+Cause Im gonna see you anyway tonight
+And rendezvous underneath the moonlight
+
+Why dont you take me on a....
+Chorus
+
+Nobody knows where we are
+Well get in my car and park under the stars
+Cause Im going to see you anyway tonight
+And rendezvous underneath the moonlight
+Chorus
+
+Why dont you, why dont you, why dont you take me on a..
+Chorus

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ruthless-people-mick-jagger
+lyrics_url: https://genius.com/Mick-jagger-ruthless-people-lyrics
 name: Ruthless People
 rankings:
 - end_date: '1986-08-08'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
 ---
+Hey! Stand up! RUTHLESS PEOPLE!
+Hey! Stand up! RUTHLESS PEOPLE! Real and evil!
 
+They love the smell of the killing, the flesh
+Gorging 'til they've had their fill of success
+Dealing their mother to get into paradise
+Pay Jesus special protection, and ain't it wise?!
+
+Hey! Stand up! RUTHLESS PEOPLE!
+So deceitful! I wanna tell you'
+Hey! (Come on!) Stand up'Get on your feet!
+RUTHLESS PEOPLE! Real and evil! What I say'
+
+Greedy forever and ever, success
+Greedy and ever so clever, a mess
+Given the right on to creep into paradise
+They'll even blackmail St. Peter then pay the price!
+
+Hey! Stand up'Get on your feet!
+RUTHLESS PEOPLE! Greed and evil! Oh yes!
+
+You can have it if you want it
+It might take the rest of your life
+If you want it you can have it
+To a balancing act on a knife
+You can have it if you want it
+If you think it's cheap at the price
+If you want it you can have it
+But sweat your sweet soul out of lives!
+
+RUTHLESS PEOPLE!
+RUTHLESS PEOPLE!
+RUTHLESS PEOPLE!
+RUTHLESS PEOPLE!
+You better watch your back now!
+
+Hey!
+RUTHLESS PEOPLE!
+Ruthless, ruthless, ruthless, RUTHLESS PEOPLE!
+Hey! Stand up!

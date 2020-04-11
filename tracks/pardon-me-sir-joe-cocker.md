@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pardon-me-sir-joe-cocker
+lyrics_url: https://genius.com/Joe-cocker-pardon-me-sir-lyrics
 name: Pardon Me Sir
 rankings:
 - end_date: '1973-02-23'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+Pardon me, friend
+If what I'm saying don't seem right
+But that's the only chance I get now, all day and night - hey
+Pardon me, Sir
+If what I'm saying brings you down
+But that's the only way to show you that I'm a clown - uh uh, hey
 
+I'm quite sure you understand - my baby
+I'm quite sure you understand
+
+Pardon me, friend
+If what I'm saying don't ring true
+But that's the only way I know now to get through to you - ooh
+Well, pardon me, Sir
+If what I'm doing brings you round
+But that's the only place I know, Sir, it is town to town - hey
+
+I'm quite sure you understand - my baby
+Hope you do, hope you do, let me see it right now
+I'm quite sure you understand
+
+I'm quite sure you understand - my baby
+I'm quite sure you understand
+
+Yeah, pardon me, friend
+If what I'm saying don't seem right
+Ooh, now, but that's the only, yeah, yes, that's the only way now
+Oh, that's the only, that's the only way
+That's the only, oh, that's the only way I know
+That's the only, that's the only way
+That's the only, only thing I know ....

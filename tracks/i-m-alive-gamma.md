@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-alive-gamma
+lyrics_url: https://www.musixmatch.com/lyrics/Gamma/I-m-Alive
 name: I'm Alive
 rankings:
 - end_date: '1980-01-11'
@@ -31,4 +32,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
-
+Did you ever see a man with no heart
+Baby that was me
+Just a lonely, lonely man with no heart
+Can you set me free? I can breathe, I can breathe
+I can see, I can see
+I can touch, I can touch
+I can feel, I can feel I can taste the sweetness of your kiss
+You show me all the things I ever missed I never felt like this
+I'm Alive, I'm Alive, I'm Alive Well I used to think I was livin'But I was wrong
+No, I never knew a bit about livin'Until you came along I can breathe, I can breathe
+I can see, I can see
+I can touch, I can touch
+I can feel, I can feel I can taste the sweetness of your kiss
+You show me all the things I ever missed I never felt like this
+I'm Alive, I'm Alive, I'm Alive Well I used to think I was livin'But I was wrong
+No, I never knew a bit about livin'Until you came along I can breathe, I can breathe
+I can see, I can see
+I can touch, I can touch
+I can feel, I can feel I can taste the sweetness of your kiss
+You show me all the things I ever missed I never felt like this
+I'm Alive, I'm Alive, I'm Alive
+I'm Alive, I'm Alive, I'm Alive

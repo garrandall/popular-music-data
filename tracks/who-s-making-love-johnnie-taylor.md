@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-making-love-johnnie-taylor
+lyrics_url: https://genius.com/Johnnie-taylor-whos-making-love-lyrics
 name: Who's Making Love
 rankings:
 - end_date: '1968-11-01'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
 ---
-
+All you fellows, gather round me
+And let me give you some good advice
+What I'm gonna, gonna ask you now
+You better think about it twice
+While you're out cheatin' on your woman
+There is something you never even thought of
+And that is:
+Who's making love to your old lady
+While you were out making love?
+Who's making love to your old lady
+While you were out making love?
+I've seen so, so many fellows
+All in that same old bag
+Thinkin' that a woman is made to
+To be beat on and treated so bad
+Oh, fellows, let me ask you somethin'
+I'm sure that you never even dreamed of
+And that is:
+Who's making love to your old lady
+While you were out making love?
+Who's making love to your old lady
+While you were out making love?
+I know that other women
+Give the other excuse
+I'm not tryin' to run your life
+Boy, that's up to you, oh you
+Oh oh, you you
+Reason why I ask this question
+I used to be the same old way
+When I decided to straighten up
+I found it was a bit too late
+Oh yeah, that's when it all happened
+Something I never ever dreamed of
+Somebody was a-lovin' my old lady
+While I was out makin' love
+Somebody was a-lovin' my old lady
+While I was out makin' love
+Now, who's making love to your old lady
+While you were out making love?
+Who's making love to your old lady
+While you were out making love?

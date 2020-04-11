@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-boy-sad-johnny-burnette
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/Little-Boy-Sad
 name: Little Boy Sad
 rankings:
 - end_date: '1961-02-12'
@@ -43,4 +44,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
 ---
+You been lying
+Being untrue
+Now they call me
+Little Boy Blue
 
+(CHORUS)
+Someday, baby
+You're gonna find
+Nobody in the world's
+Gonna give you loving
+As sweet as mine
+
+You been cheating
+Doing me bad
+Now they call me
+Little Boy Sad
+
+Someday, baby
+You're gonna see
+Nobody in the world's
+Gonna give you loving
+As sweet as me
+
+Little Boy Blue
+That's my name
+Little Boy Sad
+You're to blame
+
+You been sneaking
+Doing me dirt
+Now they call me
+Little Boy Hurt
+
+(CHORUS)
+
+Little Boy Blue
+That's my name
+Little Boy Sad
+You're to blame
+
+You been sneaking
+Doing me dirt
+Now they call me
+Little Boy Hurt
+
+(CHORUS)
+
+Nobody in the world's
+Gonna give you loving
+As sweet as mine, oh, yeah
+
+Nobody in the world's
+Gonna give you loving
+As sweet as mine

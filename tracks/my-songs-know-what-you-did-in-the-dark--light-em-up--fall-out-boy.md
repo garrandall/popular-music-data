@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-songs-know-what-you-did-in-the-dark--light-em-up--fall-out-boy
+lyrics_url: https://genius.com/Fall-out-boy-my-songs-know-what-you-did-in-the-dark-demo-lyrics
 name: My Songs Know What You Did In The Dark (Light Em Up)
 rankings:
 - end_date: '2013-03-01'
@@ -111,4 +112,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
 ---
+We sold our souls in dark hotel rooms
+We slip tongues and lie like "I will see you soon"'s
+Two explorers in the dark
+Making maps and drawing shots
 
+
+Put the world on notice, I'm ruined and I know it
+We threw the game from the start
+I'm desperate and devoted, the secret no one told us
+My songs know what you did in the dark
+
+
+We sold our souls in dark hotel rooms
+We slip tongues and lie like "I will see you soon"'s
+Two explorers in the dark
+Making maps and drawing shots
+
+
+Put the world on notice, I'm ruined and I know it
+We threw the game from the start
+I'm desperate and devoted, the secret no one told us
+My songs know what you did in the dark
+
+
+We sold our souls in dark hotel rooms
+We slip tongues and lie like "I will see you soon"'s
+
+
+Put the world on notice, I'm ruined and I know it
+We threw the game from the start
+I'm desperate and devoted, the secret no one told us
+My songs know what you did in the dark
+
+Woah
+My songs know what you did in the dark
+Woah
+
+
+My songs know what you did in the dark
+My songs know what you did in the dark
+My songs know what you did in the dark
+My songs know what you did in the dark
+My songs know what you did in the dark
+My songs know what you did in the dark

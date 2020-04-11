@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: someday-all-4-one
+lyrics_url: https://genius.com/All-4-one-someday-lyrics
 name: Someday
 rankings:
 - end_date: '1996-07-05'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
 ---
+Someday
+When we are wiser
+When the world's older
+When we have learned
+I pray
+Someday we may yet live
+To live
+And let live
 
+Someday
+Life will be fairer
+Need will be rarer
+And greed will not pay
+Godspeed
+This bright millennium
+On its way
+Let it come someday
+
+Someday
+Our fight will be won then
+We'll stand in the sun then
+That bright afternoon
+Till then
+On days when the sun is gone
+We'll hang on
+And we'll wish upon the moon
+
+There are some days dark and bitter
+Seems we haven't got a prayer
+But a prayer for something better
+Is the one thing we all share
+
+Someday
+When we are wiser
+When the world's older
+When we have learned
+I pray
+Someday we may yet live
+To live
+And let live
+
+Someday
+Life will be fairer
+Need will be rarer
+And greed will not pay
+Godspeed
+This bright millennium
+Let it come
+Wish upon the moon
+One day, someday
+Soon
+
+One day, someday
+Soon

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-same-old-feeling-the-fortunes
+lyrics_url: https://genius.com/The-fortunes-uk-group-that-same-old-feeling-lyrics
 name: That Same Old Feeling
 rankings:
 - end_date: '1970-05-22'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
 ---
+I still get the same old feeling
+Tearing at this heart of mine
+Telling me that maybe I'm
+Not really over you
 
+I still get the same old yearning
+Turning my heart inside out
+Love, there can't be any doubt
+I'm still not over you
+
+The oak tree where you carved my name
+A year ago now
+Somehow doesn't really look the same
+
+I think it closed now
+The places we would go
+Still play the songs we used to know
+
+I still get the same old feeling
+Tearing at this heart of mine
+Telling me that maybe I'm
+Not really over you
+
+I still get the same old yearning
+Turning my heart inside out
+Love, there can't be any doubt
+I'm still not over you
+
+The cottage where we used to meet
+Is overgrown now
+We dreamed we'd live there too someday
+
+Just on our own now
+The letters you wrote me
+Still bring that sentimental ring
+
+I still get the same old feeling
+Tearing at this heart of mine
+Telling me that maybe I'm
+Not really over you
+
+I still get the same old yearning
+Turning my heart inside out
+Love, there can't be any doubt
+I'm still not over you

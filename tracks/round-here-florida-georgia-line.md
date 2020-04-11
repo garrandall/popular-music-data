@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: round-here-florida-georgia-line
+lyrics_url: https://genius.com/Florida-georgia-line-round-here-lyrics
 name: Round Here
 rankings:
 - end_date: '2013-07-05'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
 ---
+Hammerin' a nail, stackin' them bales
+I'm dog tired by the 5 o'clock hour
+But I'm ready to raise some hell
+And Jesse's gettin' ready, I'm gassin' up the Chevy
+I'm gonna pick her up at six
+I hope she's gonna wear the jeans with the tear
+That her mama never fixed
 
+
+The moon comes up and the sun goes down
+We find a little spot on the edge of town
+Twist off, sip a little, pass it around
+Dance in the dust, turn the radio up
+And that fireball whiskey whispers
+Temptation in my ear
+It's a feelin' alright Saturday night
+And that's how we do it 'round here
+Yeah, that's how we do it 'round here
+
+
+Mud on the grips, wild cherry on her lips
+I've been workin' and tryin' and flirtin' and dyin'
+For an all night kinda kiss
+And country on the boombox, candles on the tool box
+I'm doin' everything right, got the country boy charm
+Turned all the way on tonight
+
+
+Yeah, the moon comes up and the sun goes down
+We find a little spot on the edge of town
+Twist off, sip a little, pass it around
+Dance in the dust, turn the radio up
+And that fireball whiskey whispers
+Temptation in my ear
+It's a feelin' alright, Saturday night
+And that's how we do it 'round here
+Yeah, that's how we do it 'round here
+
+
+
+
+Yeah, the moon comes up and the sun goes down
+We find a little spot on the edge of town
+Twist off, sip a little, pass it around
+Dance in the dust, turn the radio up
+And that fireball whiskey whispers
+Temptation in my ear
+It's a feelin' alright, Saturday night
+And that's how we do it 'round here
+Yeah, that's how we do it 'round here (Come on)
+
+
+Yeah, that's how we do it round here
+Yeah, that's how we do it round here

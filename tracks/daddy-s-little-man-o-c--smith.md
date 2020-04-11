@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daddy-s-little-man-o-c--smith
+lyrics_url: https://genius.com/Oc-smith-daddys-little-man-lyrics
 name: Daddy's Little Man
 rankings:
 - end_date: '1969-09-05'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
 ---
+I'm a neanderthal man
+You're a neanderthal girl
+Let's make neanderthal love
+In this neanderthal world
 
+I'm a neanderthal man
+You're a neanderthal girl
+Let's make neanderthal love
+In this neanderthal world
+
+I'm a neanderthal man
+You're a neanderthal girl
+Let's make neanderthal love
+In this neanderthal world
+
+I'm a neanderthal man
+You're a neanderthal girl
+Let's make neanderthal love
+In this neanderthal world

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-is-failing-me-riff
+lyrics_url: https://genius.com/Riff-my-heart-is-failing-me-lyrics
 name: My Heart Is Failing Me
 rankings:
 - end_date: '1991-03-29'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
 ---
+Here come the tear drops falling again
+Seems like the night has come to an end
+I wonder why I feel like my heart is failing me
 
+When you were here I knew what to do
+Now I just waste time thinking of you
+I wonder why I feel like my heart is failing me
+
+My heart lost in emotion
+I'm shipwrecked out on the ocean
+I wait hoping you'll come back to me
+
+Never a single day passes by
+When I don't feel a part of me die
+I wonder why, I feel like my heart is failing me
+
+I remember, the day that I found you
+How I long to still be around you
+So I wait hoping you'll come back to me
+Darling I can't explain it
+I just can't live my life without you
+I wonder why I feel like my heart is failing me
+
+If anybody should see her
+Tell her how much, I need her
+I wonder why I feel like my heart is failin' me
+
+My heart lost in emotion
+I'm shipwrecked out on the ocean
+I wait hoping you'll come back to me...sweet baby
+
+I'm dying, I wonder why
+Seems like the night has come to an end
+I wonder why I feel like my heart is failing me
+
+I wonder, I wonder, I wonder
+I wonder why I feel like my heart is failing me
+
+(Feel like my heart is failing me) Tell me why, baby
+(I wonder why is failing..failing me) Please baby oh yeah
+(I wonder why is failing..failing me)
+(I wonder why is failing..failing me)

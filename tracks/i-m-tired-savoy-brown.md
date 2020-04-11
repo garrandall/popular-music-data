@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-tired-savoy-brown
+lyrics_url: https://genius.com/Savoy-brown-im-tired-lyrics
 name: I'm Tired
 rankings:
 - end_date: '1969-12-05'
@@ -27,4 +28,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
 ---
+I'm tired of being a fool
+And my mind going from hot to cool
+And trying to conform to others ideas
+And someone else's rules
 
+The life I'm living ain't mine
+I'm supposed to feel that's fine
+I didn't make the world I'm living in
+And I ain't gonna toe the line
+
+I'm tired of trying to be something I know ain't me
+I'm tired of living up to what people expect me to be
+You know some people are different
+Now ain't that a crying shame
+Now wouldn't be a real drag if we were all the same
+
+And I'm not going to try to please
+Eyes that just don't see
+If I get myself together
+You'll have the blues not me
+
+I'm tired of trying to be something I know ain't me
+I'm tired of living up to what people expect me to be
+You know some people are different
+Now ain't that a crying shame
+Now wouldn't be a real drag if we were all the same
+
+And I'm not going to try to please
+Eyes that just don't see
+If I get myself together
+You'll have the blues not me
+
+You'll have the blues not me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-feel-janelle-monae
+lyrics_url: https://genius.com/Janelle-monae-make-me-feel-lyrics
 name: Make Me Feel
 rankings:
 - end_date: '2018-03-16'
@@ -11,4 +12,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
 ---
+Baby, don’t make me spell it out for you
+All of the feelings that I've got for you
+Can't be explained, but I can try for you
+Yeah, baby, don't make me spell it out for you
+You keep on asking me the same questions (why?)
+And second-guessing all my intentions
+Should know by the way I use my compression
+That you've got the answers to my confessions
 
+
+It's like I'm powerful with a little bit of tender
+An emotional sexual bender
+Mess me up, yeah, but no one does it better
+There's nothin' better
+
+
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel
+(That's just the way you make me feel)
+So good, so good, so fuckin' real
+(So good, so good, so fuckin' real)
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel
+
+
+You know I love it, so please don't stop it
+You got me right here in your jean pocket (right now)
+Laying your body on a shag carpet (oh)
+You know I love it so please don't stop it
+
+
+It's like I'm powerful with a little bit of tender
+An emotional sexual bender
+Mess me up, yeah, but no one does it better
+There's nothin' better
+
+
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel
+(That's just the way you make me feel)
+So good, so good, so fuckin' real
+(So good, so good, so fuckin' real)
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel
+
+
+That's just the way that I feel now, baby
+Good God! I can't help it! Agh!
+Hey! That's just the way that I feel, yeah
+Please! I can't help it
+
+
+It's like I'm powerful with a little bit of tender
+An emotional, sexual bender
+Mess me up, yeah, but no one does it better (oh!)
+There's nothin' better (better!)
+(Damn)
+
+
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel
+(That's just the way you make me feel)
+So good, so good, so fuckin' real
+(So good, so good, so fuckin' real)
+That's just the way you make me feel
+(That's just the way you make me feel)
+That's just the way you make me feel

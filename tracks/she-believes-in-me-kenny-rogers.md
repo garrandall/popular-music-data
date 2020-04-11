@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-believes-in-me-kenny-rogers
+lyrics_url: https://genius.com/Kenny-rogers-she-believes-in-me-lyrics
 name: She Believes In Me
 rankings:
 - end_date: '1979-05-04'
@@ -71,4 +72,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
 ---
+While she lays sleeping, I stay out late at night and play my songs
+And sometimes all the nights can be so long
+And it's good when I finally make it home, all alone
+While she lays dreaming, I try to get undressed without the light
+And quietly she says how was your night?
+And I come to her and say, it was all right, and I hold her tight
 
+
+And she believes in me, I'll never know just what she sees in me
+I told her someday if she was my girl, I could change the world
+With my little songs, I was wrong
+But she has faith in me, and so I go on trying faithfully
+And who knows maybe on some special night, if my song is right
+I will find a way, find a way
+
+
+While she lays waiting, I stumble to the kitchen for a bite
+Then I see my old guitar in the night
+Just waiting for me like a secret friend, and there's no end
+While she lays crying, I fumble with a melody or two
+And I'm torn between the things that I should do
+And she says to wake her up when I am through
+God her love is true
+
+
+And she believes in me, I'll never know just what she sees in me
+I told her someday if she was my girl, I could change the world
+With my little songs, I was wrong
+But she has faith in me, and so I go on trying faithfully
+And who knows maybe on some special night, if my song is right
+I will find a way, while she waits while she waits for me

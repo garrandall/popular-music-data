@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ling-ting-tong-buddy-knox
+lyrics_url: https://www.musixmatch.com/lyrics/Buddy-Knox/Ling-Ting-Tong
 name: Ling-Ting-Tong
 rankings:
 - end_date: '1961-03-12'
@@ -35,4 +36,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
+I sa mok em boo la ay
+I sa mok em boo
 
+I went to Chinatown
+Way back in old Hong Kong
+To get some egg foo yung
+And then I heard a gong
+
+Well, Ling Ting Tong
+Gonna sing that song
+I sa mok em boo la ay
+I sa mok em boo
+
+Well, Ling Ting Tong
+He could never be wrong
+Go on and sing your song
+Singing Ling Ting Tong
+
+Well, Ling Ting Tong
+Gotta sing that song called
+I sa mok em boo la ay
+I sa mok em boo
+
+Ling Ting Tong
+Gotta sing that song called
+I sa mok em boo la ay
+I sa mok em boo
+
+I looked around
+As the lights went down
+And this is what I found
+Way back in Chinatown
+
+Well, Ling Ting Tong
+Gotta sing that song called
+I sa mok em boo la ay
+I sa mok em boo
+
+Ling Ting Tong
+He could never be wrong
+Go on and sing your song
+Singing Ling Ting Tong
+
+Well, Ling Ting Tong
+Gotta sing that song called
+I sa mok em boo la ay
+I sa mok em boo
+
+I sa mok em boo la ay
+I sa mok em boo
+I sa mok em boo la ay
+I sa mok em boo...

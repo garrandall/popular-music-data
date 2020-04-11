@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-part-of-me-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-another-part-of-me-lyrics
 name: Another Part Of Me
 rankings:
 - end_date: '1988-07-29'
@@ -59,4 +60,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
 ---
+We're taking over
+We have the truth
+This is the mission
+To see it through
+Don't point your finger
+Not dangerous
+This is our planet
+You're one of us
 
+
+We're sending out
+A major love
+And this is our
+Message to you (Message to you)
+The planets are linin' up
+We're bringing brighter days
+They're all in line
+Waiting for you, can't you see?
+You're just another part of me
+
+
+A revelation
+Fulfill the truth
+The final message
+We'll bring to you
+There is no danger
+Fulfill the truth
+So come together
+We need you
+
+
+We're sending out
+A major love
+And this is our
+Message to you (Message to you)
+The planets are linin' up
+We're bringing brighter days
+They're all in line
+Waiting for you, So know the truth
+You're just another part of me
+
+We're sending out
+A major love
+And this is our
+Message to you (Message to you)
+The planets are linin' up
+We're bringing brighter days
+They're all in line
+Waiting for you, can't you see?
+You're just another part of me
+Another part of me
+
+
+We're taking over
+This is the truth, baby
+Another part of me

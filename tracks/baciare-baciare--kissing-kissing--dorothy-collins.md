@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baciare-baciare--kissing-kissing--dorothy-collins
+lyrics_url: https://www.musixmatch.com/lyrics/Dorothy-Collins/Baciare-Baciare
 name: Baciare Baciare (Kissing Kissing)
 rankings:
 - end_date: '1959-12-27'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
+The boys and girls of Napoli
+Are whistling merrily
+And here's the reason why
+They're always happy as can be
 
+(CHORUS)
+Baciare, baciare
+They kiss while they're whistling
+Like this they go whistling
+Each day and night
+Baciare, baciare
+Who knows what we're missing
+If we don't start kissing this way
+
+The boys and girls of Napoli
+Just pucker up and smile
+Cause kissing without whistling
+Is considered out of style
+
+(CHORUS)
+
+Well, if the kids of Napoli
+Can do it, so can I
+Now, honey, pucker up your lips
+And blow, why don't you try
+
+(CHORUS)

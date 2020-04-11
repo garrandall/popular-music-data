@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-day-music-war
+lyrics_url: https://genius.com/War-all-day-music-lyrics
 name: All Day Music
 rankings:
 - end_date: '1971-08-13'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
 ---
+Music is what we like to play
+All day all day all day all day all day
+To soothe your soul, yeah
+Down at the beach y'all parting down
+Making love or lying around
+To soothe your mind
 
+Music is what we like to play
+All day all day all day all day all day
+To soothe your soul, yeah
+Lets have a picnic go to the park
+Rolling in the grass 'til long after dark
+To soothe you soul, yeah
+
+Down at the beach y'all partying down
+Making love or just lying around
+
+Lets have a picnic go to the park
+Rolling in the grass 'til long after dark
+
+Down at the beach y'all partying down
+Making love or just lying around
+
+Lets have a picnic go to the park
+Rolling in the grass 'til long after dark
+
+Down at the beach y'all partying down
+Making love or just lying around
+
+Repeat to fade

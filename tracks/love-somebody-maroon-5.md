@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-somebody-maroon-5
+lyrics_url: https://genius.com/Maroon-5-love-somebody-lyrics
 name: Love Somebody
 rankings:
 - end_date: '2013-06-14'
@@ -91,4 +92,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
 ---
+I know your insides are feeling so hollow
+And it's a hard pill for you to swallow, yeah
+But if I fall for you, I'll never recover
+If I fall for you, I'll never be the same
 
+
+I really wanna love somebody
+I really wanna dance the night away
+I know we're only half way there
+But you take me all the way, you take me all the way
+I really wanna touch somebody
+I think about you every single day
+I know we're only half way there
+But you take me all the way, you take me all the way
+
+
+You're such a hard act for me to follow
+Love me today, don't leave me tomorrow, yeah
+But if I fall for you, I'll never recover
+If I fall for you, I'll never be the same
+
+
+I really wanna love somebody
+I really wanna dance the night away
+I know we're only half way there
+But you take me all the way, you take me all the way
+I really wanna touch somebody
+I think about you every single day
+I know we're only half way there
+But you take me all the way, you take me all the way
+
+
+Oh, oh, oh, oh-oh-oh
+Oh, oh, oh, oh-oh-oh
+
+
+I don't know where to start, I'm just a little lost
+I wanna feel like we're never gonna ever stop
+I don't know what to do, I'm right in front of you
+Asking you to stay, you should stay, stay with me tonight, yeah
+
+
+I really wanna love somebody
+I really wanna dance the night away
+I know we're only half way there
+But you take me all the way, you take me all the way
+I really wanna touch somebody
+I think about you every single day
+I know we're only half way there
+But you take me all the way, you take me all the way
+
+
+Oh, oh, oh, oh-oh-oh
+Oh, oh, oh, oh-oh-oh
+
+
+You take me all the way, you take me all the way, yeah

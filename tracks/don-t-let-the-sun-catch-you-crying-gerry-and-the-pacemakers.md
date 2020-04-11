@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-let-the-sun-catch-you-crying-gerry-and-the-pacemakers
+lyrics_url: https://genius.com/Gerry-and-the-pacemakers-dont-let-the-sun-catch-you-crying-lyrics
 name: Don't Let The Sun Catch You Crying
 rankings:
 - end_date: '1964-05-29'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
 ---
+(Marsden - Marsden - Chadwick - Maguire)
 
+Don't let the sun catch you cryin'
+The night's the time for all your tears
+Your heart may be broken tonight
+But tomorrow in the morning light
+Don't let the sun catch you cryin'
+
+The night-time shadows disappear
+And with them go all your tears
+For the morning will bring joy
+For every girl and boy
+So don't let the sun catch you cryin'
+
+We know that cryin's not a bad thing
+But stop your cryin' when the birds sing
+
+It may be hard to discover
+That you've been left for another
+But don't forget that love's a game
+And it can always come again
+Oh don't let the sun catch you cryin'
+Don't let the sun catch you cryin', oh no
+Oh, oh, oh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: up-where-we-belong-joe-cocker-and-jennifer-warnes
+lyrics_url: https://genius.com/Joe-cocker-and-jennifer-warnes-up-where-we-belong-lyrics
 name: Up Where We Belong
 rankings:
 - end_date: '1982-08-27'
@@ -99,4 +100,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
+Who knows what tomorrow brings
+In a world few hearts survive
+All I know is the way I feel
+When it's real, I keep it alive
 
+The road is long
+There are mountains in our way
+But we climb a step every day
+
+Love lift us up where we belong
+Where the eagles cry, on a mountain high
+Love lift us up where we belong
+Far from the world below, up where the clear wind blow
+
+Some hang on to "used to be"
+Live their lives looking behind
+All we have is here and now
+All our life, out there to find
+
+The road is long
+There are mountains in our way
+But we climb them a step every day
+
+Love lift us up where we belong
+Where the eagles cry, on a mountain high
+Love lift us up where we belong
+Far from the world below, up where the clear winds blow
+
+Time goes by
+No time to cry
+Life's you and I
+Alive today
+
+Love lift us up where we belong
+Where the eagles cry, on a mountain high
+Love lift us up where we belong
+Far from the world below, up where the clear winds blow
+
+Love lift us up where we belong
+Where the eagles cry, on a mountain high
+Love lift us up where we belong

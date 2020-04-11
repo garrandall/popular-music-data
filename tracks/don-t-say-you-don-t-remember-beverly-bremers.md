@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-say-you-don-t-remember-beverly-bremers
+lyrics_url: https://genius.com/Beverly-bremers-dont-say-you-dont-remember-lyrics
 name: Don't Say You Don't Remember
 rankings:
 - end_date: '1971-12-24'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
-
+Don't Say You Don't Remember
+Beverly Bremers
+Written by Estelle Levitt and Helen Miller
+- peaked at #15 in 1972
+We wrote on the corner of the table:
+"This is the only one that will last
+For you, for me, for always
+Forever was meant for us", but for us it went by too fast
+Don't say you don't remember
+I'll never love anyone else
+If you say you don't remember
+How can I go on living
+(How can I go on living)
+With myself?
+When we meet you always call me "baby."
+How could it be that you forgot my name?
+Before you go, be honest
+I belonged to you and believed that you felt the same
+Don't say you don't remember
+I'll never love anyone else
+If you say you don't remember
+How can I go on living
+(How can I go on living)
+With myself?
+People never stay the same forever
+Somebody always loves a little more
+Tonight I need to love you
+Together we'll find a way to make tomorrow worth living for
+Don't say you don't remember
+I'll never love anyone else
+If you say you don't remember
+How can I go on living
+(How can I go on living)
+With myself

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: de-do-do-do-de-da-da-da-the-police
+lyrics_url: https://genius.com/The-police-de-do-do-do-de-da-da-da-lyrics
 name: De Do Do Do De Da Da Da
 rankings:
 - end_date: '1980-10-31'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
 ---
+Don't think me unkind
+Words are hard to find
+The only cheques I've left unsigned
+From the banks of chaos in my mind
+And when their eloquence escapes me
+Their logic ties me up and rapes me
 
+
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+Their innocence will pull me through
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+They're meaningless and all that's true
+
+
+Poets, priests, and politicians
+Have words to thank for their positions
+Words that scream for your submission
+And no one's jamming their transmission
+Because when their eloquence escapes you
+Their logic ties you up and rapes you
+
+
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+Their innocence will pull me through
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+They're meaningless and all that's true
+
+
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+Their innocence will pull me through
+De do do do, de da da da
+Is all I want to say to you
+De do do do, de da da da
+They're meaningless and all that's true

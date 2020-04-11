@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-angels-listened-in-the-crests
+lyrics_url: https://www.musixmatch.com/lyrics/The-Crests/The-Angels-Listened-In
 name: The Angels Listened In
 rankings:
 - end_date: '1959-08-23'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
 ---
+The angels listened in, when they heard me praying
+The angels listened in, when they heard me saying
+"Please send me some one to love
+Send the one I'm thinking of."
+My darling, the angels sent you
 
+The angels listened in, when they heard me crying
+The angels listened in, there's no denying
+They sent one with lovely charms
+One who really thrills my arms,
+My darling, the angels sent you.
+
+I searched everywhere
+Just to find someone who cares
+They came down to interrupt
+Just as I had given up.
+
+The angels listened in and brought you near me
+The angels listened in, I love them dearly.
+They gave me the whole wide world
+Wrapped up in one little girl,
+My darling, the angels sent you.

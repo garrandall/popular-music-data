@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deeper---deeper-freda-payne
+lyrics_url: https://genius.com/Freda-payne-deeper-and-deeper-lyrics
 name: Deeper & Deeper
 rankings:
 - end_date: '1970-09-18'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+Deeper and deeper
+I'm falling in love with you
+My life grows sweeter every day
 
+There must be something
+In the things you do
+That makes me love you
+In a helpless way
+
+You`re my joy
+My all and all
+A fountain of love
+That keeps me falling
+
+Deeper and deeper
+In love with you
+Each day gets sweeter and
+Sweeter just being with you
+I'm so in love with you
+
+Stronger and stronger
+My heart beats for you
+You give me a feeling
+I can't explain
+
+And every day you prove
+Your love is true
+You give me comfort
+Like no others can
+
+You're my dream
+My one desire
+You're the hope
+That lifts me higher
+
+Deeper and deeper
+In love with you
+Each day gets sweeter and
+Sweeter just being with you
+
+Each day gets sweeter
+So much sweeter
+Just being with you
+I'm falling deeper and deeper
+In love with you

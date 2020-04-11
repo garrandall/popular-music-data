@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poor-little-rich-girl-steve-lawrence
+lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence/Poor-Little-Rich-Girl
 name: Poor Little Rich Girl
 rankings:
 - end_date: '1963-05-31'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
 ---
+Poor little rich girl
+I know why you're blue
+You finally found something, that your daddy wont buy for you
+Whoa, poor little rich girl
+How happy you could be
+If you hadn't fallen in love with a poor boy like me
 
+If I were a rich boy, I could make you mine
+But tonight when I kiss you, it will be for the very last time
+Whoa, poor little rich girl
+It's sad but its true,
+In the eyes of the world I'm not good enough for you
+
+It would have been better, if we had never met
+Ahhh you'd be without a care in the world, with nothing to forget
+Ahhhh poor little rich girl
+How happy you could be
+If you hadn't fallen in love with a poor boy like me
+
+Ahhhhh poor little rich girl
+How happy you could be,
+If you hadn't fallen in love with a poor boy like me
+
+Poor little rich girl
+Poor little rich girl
+Poor little rich girl
+Poor little rich girl...
+(Fade)

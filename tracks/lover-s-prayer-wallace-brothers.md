@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lover-s-prayer-wallace-brothers
+lyrics_url: https://genius.com/Wallace-brothers-lovers-prayer-lyrics
 name: Lover's Prayer
 rankings:
 - end_date: '1964-09-04'
@@ -15,4 +16,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+Ooo-OOO-ooo
+Lover's prayer
+Ooo-OOO-ooo
+Lover's prayer
 
+Heavenly father, up above
+Please protect the one that I love
+Guide & keep her and let her know
+That I'll always love her so
+No matter what my love may be
+My heart is locked, and she holds the key
+
+Of the girls we need to choose
+She's the one that I hate to lose
+Oh, she's only gone a while
+But half a block seems like a mile
+And when she's gone, I'll be so blue
+I'll say goodbye my dearest I love you
+
+Ooo-OOO-ooo
+Lover's prayer
+Ooo-OOO-ooo
+Lover's prayer
+
+Lover's prayer

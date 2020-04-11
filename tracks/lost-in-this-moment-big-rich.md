@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lost-in-this-moment-big-rich
+lyrics_url: https://genius.com/Big-and-rich-lost-in-this-moment-lyrics
 name: Lost In This Moment
 rankings:
 - end_date: '2007-04-13'
@@ -88,4 +89,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
 ---
+I see your momma and the candles
+And the tears and roses
+I see your daddy walk his daughter down the aisle
+I feel my knees start to tremble as I tell the preacher
+Don't she look beautiful tonight
 
+All the wonderful words in my head I've been thinkin'
+You know I wanna say them all just right
+I lift your veil and angels start singin'
+Such a heavenly sight yeah
+
+
+Lost in this moment with you
+I am completely consumed
+My feelings so absolute
+There's no doubt
+Sealing our love with a kiss
+Waiting my whole life for this
+Watching all my dreams come true
+Lost in this moment with you
+
+I smell the jasmine floatin' in the air like a love song
+Watch my words draw sweet tears from your eyes
+We bow our heads while the preacher talks to Jesus
+Please bless this brand new life yeah
+
+
+Lost in this moment with you
+I am completely consumed
+My feelings so absolute
+There's no doubt
+Sealing our love with a kiss
+Waiting my whole life for this
+Watching all my dreams come true
+Lost in this moment with you yeah
+Lost in this moment with you
+I am completely consumed
+My feelings so absolute
+There's no doubt
+Sealing our love with a kiss
+Waiting my whole life for this
+Watching all my dreams come true
+Lost in this moment with you
+Lost in the moment (in the moment)
+In this moment with you
+Lost in the moment yeah
+Lost in the moment (in the moment)
+In this moment with you
+Lost in the moment yeah

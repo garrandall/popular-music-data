@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-thrill-me-exile
+lyrics_url: https://genius.com/Exile-band-you-thrill-me-lyrics
 name: You Thrill Me
 rankings:
 - end_date: '1978-12-01'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+Now that you say our romance is through
+I want you to know that I'll never get over you
+And I can't believe you're out looking
+For somebody new so soon
+Not after all that we had
 
+Breaking my heart and it's so sad
+I'll never get over you
+'cause
+
+You thrill me
+Every night
+Every day you thrill me
+Baby don't take it away
+You thrill me
+Lord
+I need you to stay
+'cause you thrill me
+You thrill me
+
+Now that you've gone I'll try to pretend
+But baby
+I ain't much good
+At playing a game I can't win
+And if we could have it all over again
+Oh
+Baby I'd be so good to you
+All the things that I would do
+I'll never get over you
+'cause
+
+You thrill me
+Oh baby
+I'd be so good to you
+All the things that I would do
+I'll never get over you
+'cause
+You thrill me

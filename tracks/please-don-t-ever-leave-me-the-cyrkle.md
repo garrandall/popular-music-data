@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-ever-leave-me-the-cyrkle
+lyrics_url: https://genius.com/The-cyrkle-please-dont-ever-leave-me-lyrics
 name: Please Don't Ever Leave Me
 rankings:
 - end_date: '1966-12-09'
@@ -27,4 +28,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
 ---
+Please don't ever leave me
+Please don't ever go
+Won't you stay please don't take away
+The only happiness I know
 
+If you ever leave me
+If you ever go (away)
+On your way don't forget the day
+You lost the only love you'll ever know
+
+Girl won't you try to believe me
+Girl don't you know love is blind
+Now that you're trying to leave me
+Slowly but surely I'm going clear out of my mind, yeah
+
+Please don't ever leave me (please don't leave)
+Please don't ever go (please don't ever go)
+
+Won't you stay, please don't take away
+The only happiness I know (happiness I know)
+
+If you ever leave me
+If you ever go (away)
+On your way don't forget the day
+You lost the only love you'll ever know
+
+La, la la la la la
+La, la la la la
+La la la
+La la la la la
+La la la la la
+
+La la la la la la
+La la la

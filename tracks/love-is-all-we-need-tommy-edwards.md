@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-all-we-need-tommy-edwards
+lyrics_url: https://genius.com/Tommy-edwards-love-is-all-we-need-lyrics
 name: Love Is All We Need
 rankings:
 - end_date: '1958-11-02'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
 ---
+Love me love me love me love me
+Love is all we need
+So won't you take me in your arms
+And love me love me
 
+Love is all we need
+So darling press me to your heart
+And love me love me
+Tell me we'll always have each other
+Cause that's all I ever want to know
+Tell me you'll always be my lover
+Cause I will always want you so
+
+Love is all we need
+So darling hold me close to you
+And love me love me
+Love is all we need
+To make our every dream come true
+So love me love me
+All we ever ever need is love
+
+Love me love me be my own
+Tell me we'll always have each other
+Cause that's all I ever want to know
+Tell me you'll always be my lover
+Cause I will always want you so
+
+Love is all we need
+To make our every dream come true
+So love me love me
+All we ever ever need is love
+Love me love me love me love me love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-i-am-ingrid-michaelson
+lyrics_url: https://genius.com/Ingrid-michaelson-the-way-i-am-lyrics
 name: The Way I Am
 rankings:
 - end_date: '2007-10-19'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
 ---
+If you were falling
+Then I would catch you
+You need a light
+I'd find a match
 
+
+Cause I love the way you say good morning
+And you take me the way I am
+
+
+If you are chilly
+Here, take my sweater
+Your head is aching
+I'll make it better
+
+
+Cause I love the way you call me baby
+And you take me the way I am
+
+
+I'd buy you Rogaine
+When you start losing all your hair
+Sew on patches
+To all you tear
+
+
+Cause I love you more than I could ever promise
+And you take me the way I am
+You take me the way I am
+You take me the way I am

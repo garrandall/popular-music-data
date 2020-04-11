@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yes-i-m-ready-barbara-mason
+lyrics_url: https://genius.com/Barbara-mason-yes-im-ready-lyrics
 name: Yes I'm Ready
 rankings:
 - end_date: '1965-05-21'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
 ---
+(Barbara Mason)
+ (Are you ready?)
 
+ (Are you ready?)
+
+
+I don't even know how to love you
+Just the way you want me to
+But I'm ready  to learn (to learn)
+Yes, I'm ready  to learn (to learn)
+To fall in love, to fall in love, to fall in love with you
+
+I don't even know how to hold your hand
+Just to make you understand
+But I'm ready  to learn (to learn)
+Yes, I'm ready  to learn (to learn)
+To hold your hand, to make you understand
+To hold your hand right now
+
+I don't even know how to kiss your lips (kiss your lips)
+At a moment like this
+But I'm going to learn how to do
+All the things you want me to
+(Are you ready?) Yes, I'm ready
+(Are you ready?) Yes, I'm ready
+To fall in love, to fall in love, to fall in love right now
+
+(Are you ready?) Yes, I'm ready
+(Are you ready?) Yes, I'm ready
+(To kiss me?) Yes, I'm ready
+(To love me?)
+To kiss you, love you, and hug you
+Baby, I'm ready

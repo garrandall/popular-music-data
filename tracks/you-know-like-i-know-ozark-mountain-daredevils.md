@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-know-like-i-know-ozark-mountain-daredevils
+lyrics_url: https://genius.com/Ozark-mountain-daredevils-you-know-like-i-know-lyrics
 name: You Know Like I Know
 rankings:
 - end_date: '1977-01-28'
@@ -55,4 +56,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
 ---
+(GUITAR & PIANO INTRO)
 
+To take a look and walk away
+
+Isn't a stand man
+
+To speak the words that everyone's heard
+
+Isn't the way man
+
+Everybody knows
+
+All things must come and go
+
+But
+
+You know like I know that
+
+Everything's gonna be alright
+
+People just come and go
+
+They don't know what's right
+
+Till they're gone
+
+Your sun will rise and set today
+
+Just don't you worry
+
+And everything will come your way
+
+Just don't you hurry
+
+Take a little time
+
+And find you some peace of mind
+
+Then
+
+You'll know like I know that
+
+Everything's gonna be alright
+
+People just come and go
+
+They don't know what's right
+
+Till they're gone
+
+Nah-nah-nah
+
+Nah-nah-nah-nah-nah-nah-nah
+
+Nah-nah-nah-nah-nah-nah
+
+Nah-nah-nah-nah-nah-nah...
+
+Lyrics are copyright 1972, Larry Lee

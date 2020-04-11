@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-it-on-home-to-me-eddie-floyd
+lyrics_url: https://genius.com/Eddie-floyd-bring-it-on-home-to-me-lyrics
 name: Bring It On Home To Me
 rankings:
 - end_date: '1968-10-25'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
+If you ever change your mind
+About leaving, leaving me behind
+Oh-oh, bring it to me
+Bring your sweet loving
+Bring it on home to me
 
+I know I laughed when you left
+But now I know I only hurt myself
+Oh-oh, bring it to me
+Bring your sweet loving
+Bring it on home to me
+
+I'll give you jewellery and money, too
+That ain't all, that ain't all I'll do for you
+Oh, if you bring it to me
+Bring your sweet loving
+Bring it on home to me
+
+You know I'll always be your slave
+'Til I'm buried, buried in my grave
+Oh honey, bring it to me
+Bring your sweet loving
+Bring it on home to me
+
+One more thing
+I tried to treat you right
+But you stayed out, stayed out at night
+But I forgive you, bring it to me
+Bring your sweet loving
+Bring it on home to me

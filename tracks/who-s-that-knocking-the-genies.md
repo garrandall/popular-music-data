@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-that-knocking-the-genies
+lyrics_url: https://www.musixmatch.com/lyrics/The-Genies/Who-s-That-Knocking
 name: Who's That Knocking
 rankings:
 - end_date: '1959-04-05'
@@ -31,4 +32,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
 ---
+Input by alvino99
 
+Who Q's that knocking on my door
+All last night and the night before
+Boom boom boom
+Bang bang bang
+I can't stand this awful thing
+Who's that knocking on my door
+
+Who's that calling calling my name
+Tossed a brick through my windowpane
+Boom boom boom
+Bang bang bang
+You keep driving me insane
+Who's that knocking on my door
+
+All last night as I lie in bed
+With my lights down low
+I heard approaching footsteps
+Boom boom boom
+Bang bang bang
+On my door
+
+Who's that knocking on my door
+Could it be Mable could it be Flo
+I got myself in an awful fix
+When I got involved with those two chicks
+Who's that knocking on my door
+
+Who's that knocking on my door
+All last night and the night before
+Boom boom boom
+Bang bang bang
+I can't stand this awful thing
+Who's that knocking on my door
+
+Do do do wah
+Bang bang bang
+Do do do wah
+Bang bang bang
+Do do do wah
+Bang bang bang
+All night long

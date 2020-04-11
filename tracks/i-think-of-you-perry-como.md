@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-think-of-you-perry-como
+lyrics_url: https://genius.com/Perry-como-i-think-of-you-lyrics
 name: I Think Of You
 rankings:
 - end_date: '1971-03-26'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
 ---
+When I'm alone at night
+And there's no one to comfort me
+I think of you . . 
+And suddenly my pillow is your face and your arms
+And when the winter wind comes chasin' after me
+I think of you . . 
+And it's as though I crawl beneath the blanket
+Soft and warm
 
+How did I get from dark to daylight
+Before you happened to pass by?
+How did I find my way through life
+Before you brightened up my sky?
+Was there a sky at all
+Until you painted it for me?
+How did I get on
+‘Till you came along?
+
+Who knows how many times I pause in every day
+To think of you?
+As often as the sun sails out upon the silent sea!
+And if you're wonderin' why it is I only think of you
+Well it's because I'd like to be as close to you
+As you've become to me!
+I think of you . . 
+I think of you . .

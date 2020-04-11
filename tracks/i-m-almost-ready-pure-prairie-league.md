@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-almost-ready-pure-prairie-league
+lyrics_url: https://genius.com/Pure-prairie-league-im-almost-ready-lyrics
 name: I'm Almost Ready
 rankings:
 - end_date: '1980-08-29'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
 ---
+(Vince Gill)
 
+I'm Almost Ready
+To let you know just how bad I feel
+I'm Almost Ready
+To let you loose and find another heart to steal
+
+My friends tell me that they see you
+Runnin' around all over town
+Please don't make me out to be your fool
+Please don't make me out a clown... 'cause
+
+I'm Almost Ready
+To let you know just how bad I feel
+I'm Almost Ready
+To let you loose and find another heart to steal
+
+I don't know who you think you're foolin'
+I hope you don't think that it's me
+It's plain to see that you don't love me anymore
+I'll say goodbye and you'll be free... 'cause
+
+I'm Almost Ready
+To let you know just how bad I feel
+I'm Almost Ready
+To let you loose and find another heart to steal
+
+I'm Almost Ready
+To let you know just how bad I feel
+I'm Almost Ready
+To let you loose and find another heart to steal
+To let you loose and find another heart to steal
+To let you loose and find another heart to steal

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: fiddle-around-jan-dean
+lyrics_url: https://www.musixmatch.com/lyrics/Jan-feat-Dean/Fiddle-Around
 name: Fiddle Around
 rankings:
 - end_date: '1966-09-09'
@@ -24,4 +25,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+Wo wo wo fiddle around, fiddle around
+They would fiddle around & around, all over the town
 
+Do you remember Judy?
+Her eyes were big & blue
+Her kisses were so tender & warm
+But her heart was so untrue
+She used to fiddle around, fiddle around
+She would fiddle around & around all over the town
+
+Susie, she'd be faithful
+Kathy gave me her heart
+But they would start a-cheatin' on me
+Each time we were apart
+Oh they would fiddle around, fiddle around
+They would fiddle around & around all over the town
+
+(Scat singing)
+
+Well, I've had lots of girlfriends
+When all is said & done
+Baby, you're the only girl for me
+'Cause you're the only one
+Who doesn't fiddle around, fiddle around
+You don't fiddle around & around all over the town
+You don't fiddle around & around all over the town

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cowboy-take-me-away-dixie-chicks
+lyrics_url: https://www.musixmatch.com/lyrics/Dixie-Chicks/Cowboy-Take-Me-Away
 name: Cowboy Take Me Away
 rankings:
 - end_date: '1999-12-03'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
 ---
+I said I wanna touch the earth
+I wanna break it in my hands
+I wanna grow something wild and unruly
 
+I wanna sleep on the hard ground
+In the comfort of your arms
+On a pillow of bluebonnets
+In a blanket made of stars
+
+Oh, it sounds good to me
+
+I said cowboy take me away
+Fly this girl as high as you can into the wild blue
+Set me free, oh I pray
+
+Closer to heaven above and closer to you
+Closer to you
+I wanna walk and not run
+I wanna skip and not fall
+I wanna look at the horizon
+And not see a building standing tall
+I wanna be the only one
+For miles and miles
+Except for maybe you
+And your simple smile
+
+Oh, it sounds good to me
+Yes, it sounds so good to me
+Cowboy take me away
+Fly this girl as high as you can into the wild blue
+Set me free, oh I pray
+
+Closer to heaven above and closer to you
+Closer to you
+I said I wanna touch the earth
+I wanna break it in my hands
+
+I wanna grow something wild and unruly
+Oh, it sounds so good to me
+Cowboy take me away
+Fly this girl as high as you can into the wild blue
+Set me free, oh I pray
+Closer to heaven above and closer to you
+Closer to you
+Closer to you
+Cowboy take me away
+Closer to you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-future-s-so-bright-i-gotta-wear-shades-timbuk-3
+lyrics_url: https://genius.com/Timbuk-3-the-futures-so-bright-i-gotta-wear-shades-lyrics
 name: The Future's So Bright I Gotta Wear Shades
 rankings:
 - end_date: '1986-10-31'
@@ -71,4 +72,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
 ---
+I study nuclear science
+I love my classes
+I got a crazy teacher, he wears dark glasses
+Things are going great, and they're only getting better
+I'm doing all right, getting good grades
+The future's so bright, I gotta wear shades
 
+I've got a job waiting for my graduation
+Fifty thou a year -- buys a lot of beer
+Things are going great, and they're only getting better
+I'm doing all right, getting good grades
+The future's so bright, I gotta wear shades
+
+Well I'm heavenly blessed and worldly wise
+I'm a peeping-tom techie with x-ray eyes
+Things are going great, and they're only getting better
+I'm doing all right, getting good grades
+The future's so bright, I gotta wear shades
+
+I study nuclear science
+I love my classes
+I got a crazy teacher, he wears dark glasses
+Things are going great, and they're only getting better
+I'm doing all right, getting good grades
+The future's so bright, I gotta wear shades
+I gotta wear shades, I gotta wear shades

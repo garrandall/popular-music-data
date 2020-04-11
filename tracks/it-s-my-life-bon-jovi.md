@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-my-life-bon-jovi
+lyrics_url: https://genius.com/Bon-jovi-its-my-life-lyrics
 name: It's My Life
 rankings:
 - end_date: '2000-08-18'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-23'
 ---
+This ain't a song for the broken-hearted (woah oh, woah oh, oh)
+No silent prayer for the faith-departed
+I ain't gonna be just a face in the crowd
+You're gonna hear my voice when I shout it out loud
 
+
+It's my life, it's now or never
+I ain't gonna live forever
+I just want to live while I'm alive
+(It's my life) My heart is like an open highway
+Like Frankie said, "I did it my way"
+I just wanna live while I'm alive
+It's my life
+
+
+This is for the ones who stood their ground
+For Tommy and Gina who never backed down
+Tomorrow's getting harder make no mistake
+Luck ain't even lucky, got to make your own breaks
+
+
+It's my life, it's now or never
+I ain't gonna live forever
+I just want to live while I'm alive
+(It's my life) My heart is like an open highway
+Like Frankie said, "I did it my way"
+I just wanna live while I'm alive
+'Cause it's my life
+
+
+Better stand tall when they're calling you out
+Don't bend, don't break, baby, don't back down
+
+
+It's my life, it's now or never
+I ain't gonna live forever
+I just want to live while I'm alive
+(It's my life) My heart is like an open highway
+Like Frankie said, "I did it my way"
+I just wanna live while I'm alive
+It's my life and it's now or never
+I ain't gonna live forever
+I just want to live while I'm alive
+(It's my life) My heart is like an open highway
+Like Frankie said, "I did it my way"
+I just wanna live while I'm alive
+It's my life

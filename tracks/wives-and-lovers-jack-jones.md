@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wives-and-lovers-jack-jones
+lyrics_url: https://genius.com/Jack-jones-wives-and-lovers-lyrics
 name: Wives And Lovers
 rankings:
 - end_date: '1963-11-08'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
+Hey, little girl
+Comb your hair, fix your make-up
+Soon he will open the door
+Don't think because
+There's a ring on your finger
+You needn't try any more
 
+For wives should always be lovers, too
+Run to his arms the moment he comes home to you
+I'm warning you
+
+Day after day
+There are girls at the office
+And men will always be men
+Don't send him off
+With your hair still in curlers
+You may not see him again
+
+For wives should always be lovers, too
+Run to his arms the moment he comes home to you
+He's almost here
+
+Hey, little girl
+Better wear something pretty
+Something you'd wear to go to the city
+And dim all the lights
+Pour the wine, start the music
+Time to get ready for love
+
+Oh, time to get ready
+Time to get ready
+Time to get ready
+For love

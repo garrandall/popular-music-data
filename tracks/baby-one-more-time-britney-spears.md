@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-one-more-time-britney-spears
+lyrics_url: https://genius.com/Britney-spears-baby-one-more-time-lyrics
 name: Baby One More Time
 rankings:
 - end_date: '1998-11-27'
@@ -135,4 +136,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
 ---
+Oh baby, baby
+Oh baby, baby
 
+
+Oh baby, baby, how was I supposed to know
+That something wasn't right here?
+Oh baby, baby, I shouldn't have let you go
+And now you're out of sight, yeah
+
+
+Show me how you want it to be
+Tell me, baby, 'cause I need to know now, oh, because
+
+
+My loneliness is killing me (And I)
+I must confess I still believe (Still believe)
+When I'm not with you, I lose my mind
+Give me a sign
+Hit me baby one more time
+
+
+Oh baby, baby, the reason I breathe is you
+Boy, you got me blinded
+Oh pretty baby, there's nothing that I wouldn't do
+It's not the way I planned it
+
+
+Show me how you want it to be
+Tell me, baby, 'cause I need to know now, oh, because
+
+
+My loneliness is killing me (And I)
+I must confess I still believe (Still believe)
+When I'm not with you, I lose my mind
+Give me a sign
+Hit me baby one more time
+
+
+Oh baby, baby
+Oh baby, baby
+Oh baby, baby, how was I supposed to know?
+Oh pretty baby, I shouldn't have let you go
+
+
+I must confess that my loneliness is killing me now
+Don't you know I still believe
+That you will be here and give me a sign
+Hit me baby one more time
+
+
+My loneliness is killing me (And I)
+I must confess I still believe (Still believe)
+When I'm not with you, I lose my mind
+Give me a sign
+Hit me baby one more time
+
+
+I must confess that my loneliness is killing me now
+Don't you know I still believe?
+That you will be here and give me a sign
+Hit me baby one more time

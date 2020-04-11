@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-face-in-the-crowd-tom-petty
+lyrics_url: https://genius.com/Tom-petty-a-face-in-the-crowd-lyrics
 name: A Face In The Crowd
 rankings:
 - end_date: '1990-03-09'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+Before all of this ever went down
+In another place, another town
 
+
+You were just a face in the crowd
+You were just a face in the crowd
+Out in the street, walking around
+A face in the crowd
+
+
+Out of a dream, out of the sky
+Into my heart, into my life
+
+
+And you were just a face in the crowd
+You were just a face in the crowd
+Out in the street, thinking out loud
+A face in the crowd
+
+
+Out of a dream, out of the sky
+Into my heart, into my life
+
+
+And you were just a face in the crowd
+You were just a face in the crowd
+Out in the street, walking around
+A face in the crowd
+
+
+A face in the crowd
+A face in the crowd
+A face in the crowd

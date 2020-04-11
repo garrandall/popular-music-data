@@ -1,6 +1,6 @@
 ---
 artists:
-- Jacky Noguez And His Musette Orchestra
+- Jacky Noguez
 features: []
 genres: []
 key: ciao-ciao-bambina-jacky-noguez-and-his-musette-orchestra

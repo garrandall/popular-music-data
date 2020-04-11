@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-perfect-love-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-a-perfect-love-lyrics
 name: A Perfect Love
 rankings:
 - end_date: '1960-12-18'
@@ -31,4 +32,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+Lover, take your heart out of cover
+Let me help you discover a perfect love
+Look high, there's a bright in the blue sky
+Don't you know that you can't buy a perfect love?
 
+Darling, I can promise you always
+That your future in all ways will be shiny and bright
+
+Don't hide, let the sunshine be inside
+Let your hopes be at high tide and far above
+Lover, take your heart out of cover
+Let me help you discover a perfect love
+
+Lover, take your heart out of cover
+Let me help you discover a perfect love

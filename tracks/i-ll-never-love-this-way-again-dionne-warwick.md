@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-love-this-way-again-dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-ill-never-love-this-way-again-lyrics
 name: I'll Never Love This Way Again
 rankings:
 - end_date: '1979-06-29'
@@ -103,4 +104,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
 ---
+You looked inside my fantasies
+And made each one come true
+Something no one else had ever found a way to do
+I've kept the memories one by one
+Since you took me in
+I know I'll never love this way again
 
+
+I know I'll never love this way again
+So I keep holding on before the good is gone
+I know I'll never love this way again
+Hold on, hold on, hold on
+
+
+A fool will lose tomorrow
+Reaching back for yesterday
+I won't turn my head in sorrow
+If you should go away
+I'll stand here and remember
+Just how good it's been
+And I know I'll never love this way again
+
+
+I know I'll never love this way again
+So I keep holding on before the good is gone
+I know I'll never love this way again
+Hold on, hold on, hold on
+I know I'll never love this way again
+So I keep holding on before the good is gone
+I know I'll never love this way again
+Hold on, hold on
+I know I'll never love this way again
+So I keep holding on before the good is gone
+I know I'll never love this way again
+Hold on, hold on

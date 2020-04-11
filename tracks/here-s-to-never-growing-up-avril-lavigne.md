@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-s-to-never-growing-up-avril-lavigne
+lyrics_url: https://genius.com/Avril-lavigne-heres-to-never-growing-up-lyrics
 name: Here's To Never Growing Up
 rankings:
 - end_date: '2013-05-03'
@@ -67,4 +68,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
 ---
+Singin' Radiohead at the top of our lungs
+With the boombox blarin' as we're fallin' in love
+I got a bottle of whatever, but it’s gettin' us drunk
+Singin' here's to never growing up
 
+
+Call up all our friends
+Go hard this weekend
+For no damn reason
+I don't think we'll ever change
+Meet you at the spot
+Half past ten o'clock
+We don't ever stop
+And we're never gonna change
+
+
+Say, won't you say, "Forever?" Stay
+If you stay forever, hey
+We can stay forever young
+
+
+Singin' Radiohead at the top of our lungs
+With the boombox blaring as we're fallin' in love
+I got a bottle of whatever, but it’s gettin' us drunk
+Singin' here's to never growing up
+We'll be running down the street, yelling, "Kiss my ass"
+I'm like yeah, whatever, we’re still living like that
+When the sun's going down, we'll be raising our cups
+Singin' here's to never growing up
+Oh, whoa, oh, whoa
+Here's to never growing up
+Oh, whoa, oh, whoa
+Here's to never growing up
+
+
+We live like rock stars
+Dance on every bar
+This is who we are
+I don't think we'll ever change (hell no)
+They say just grow up
+But they don't know us
+We don't give a fuck
+And we're never gonna change
+
+
+Say, won't you say, "Forever?" Stay
+If you stay forever, hey
+We can stay forever young
+
+
+Singin' Radiohead at the top of our lungs
+With the boombox blarin' as we're fallin' in love
+Got a bottle of whatever, but it’s gettin' us drunk
+Singin' here's to never growing up
+We'll be running down the street, yelling, "Kiss my ass"
+I'm like yeah, whatever, we’re still living like that
+When the sun's going down, we'll be raising our cups
+Singin' here's to never growing up
+Oh, whoa, oh, whoa
+Here's to never growing up
+Oh, whoa, oh, whoa
+Here's to never growing up
+
+
+Say, won't you say, "Forever?" Stay
+If you stay forever, hey
+We can stay forever young, oh
+
+
+Singin' Radiohead at the top of our lungs
+With the boombox blarin' as we're fallin' in love
+Got a bottle of whatever, but it’s gettin' us drunk
+Singin' here's to never growing up
+We'll be running down the street, yelling, "Kiss my ass"
+I'm like yeah, whatever, we’re still living like that
+When the sun's going down, we'll be raising our cups
+Singin' here's to never growing up
+Oh, whoa, oh, whoa
+Here's to never growing up
+Oh, whoa, oh, whoa (so raise your glass and say)
+Here's to never growing up
+
+
+Oh, whoa, oh, whoa
+Here's to never growing up (no, we're never growing up)
+Oh, whoa, oh, whoa
+Here's to never growing up

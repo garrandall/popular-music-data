@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-m-gone-brenda-holloway
+lyrics_url: https://genius.com/Brenda-holloway-when-im-gone-lyrics
 name: When I'm Gone
 rankings:
 - end_date: '1965-03-12'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
 ---
+What are you gonna do when I'm gone
+Whose shoulder are you gonna cry on
+What are you gonna do on the day
+When I turn my head and just walk away
 
+What are you gonna say to your friends
+When the talk around town begins
+Will you tell them how you treated me bad
+Will you tell them how you made me so sad
+
+'Cause you make some people
+Think that you love me a lot
+But they just don't know you
+And what they see isn't what we've got
+
+We're happy in the public eye
+They think you're such a wonderful guy
+But they don't know how much you've lied
+And they don't know how much I've cried
+You're a real Dr. Jekyll & Mr. Hyde
+
+Oh, yeah
+
+You make a pass at
+Every girl that you see
+Then when they hurt you
+You come running and crying to me
+
+I comfort you whenever you're low
+And you don't have a place you can go
+You put your head on my shoulder to cry
+And then you turn around and tell me a lie
+
+And I just can't take it
+I've gotta make it now
+
+What are you gonna do when I'm gone
+And what are you gonna do when I'm gone
+What are you gonna do when I'm gone
+What are you gonna do when I'm gone

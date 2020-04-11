@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fencewalk-mandrill
+lyrics_url: https://genius.com/Mandrill-fencewalk-lyrics
 name: Fencewalk
 rankings:
 - end_date: '1973-04-20'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
 ---
+Hey, got your 
+But it's not what you say
+It's what you do
+Huh, yeah
 
+Log on
+Tellin' folks do it softly
+Long steady do
+If I know you do
+
+Turn on your fear like a slowman
+Not what you think
+It's what you feel
+
+About a time we go to be there
+Don't think you feel
+If it's not for real
+Yeah, yeah, yeah
+
+Rocket do
+Said you want some
+Not what you want
+It's what you give
+
+Get what you want, yeah
+
+Oh , 
+But she don't want you

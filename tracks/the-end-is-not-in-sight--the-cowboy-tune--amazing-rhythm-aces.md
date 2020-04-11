@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-end-is-not-in-sight--the-cowboy-tune--amazing-rhythm-aces
+lyrics_url: https://genius.com/Amazing-rhythm-aces-the-end-is-not-in-sight-the-cowboy-tune-lyrics
 name: The End Is Not In Sight (the Cowboy Tune)
 rankings:
 - end_date: '1976-09-24'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
 ---
-
+Guess I knew it all along
+I'd have to come back home
+Cause this living on the road
+Only makes me tired and sore
+Like a bird without a nest
+Like a stranger in the night
+And my soul cries out for rest
+And the end is not in sight
+Tastes like sweet magnolia wine
+Honey dripping from your mouth
+And that sweet little gal of mine
+She's the finest in the south
+Now the day's are gettin'longer
+And the nights are gettin' colder
+I just want to come back home
+Lay my head down on your shoulder
+Guess I knew it all along
+I'd have to come back home
+Cause this living on the road
+Only makes me tired and sore
+Like a bird without a nest
+Like a stranger in the night
+And my soul cries out for rest
+And the end is not in sight

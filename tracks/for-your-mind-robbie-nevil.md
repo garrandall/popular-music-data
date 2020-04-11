@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-your-mind-robbie-nevil
+lyrics_url: https://www.musixmatch.com/lyrics/Robbie-Nevil/For-Your-Mind
 name: For Your Mind
 rankings:
 - end_date: '1991-11-01'
@@ -23,4 +24,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
 ---
+Do you like philosophy
+What are your political views
+Ooh, ooh
+I really think that I could
+Learn a lot from you
+Oh, oh
 
+Never even noticed
+The way you dress
+That was never my main interest
+I'm not after your body
+Although you do look nice
+
+I don't want your body
+I only want you
+I really only want you
+For your mind
+Ooh, ooh
+For your mind
+Ooh, ooh
+
+Do you like to meditate
+Do you plan a life of dreams
+Ooh, ooh
+You know all the other guys
+Only want one thing
+
+I'm not after your body
+That's all good and fine
+
+I don't want your body
+I only want
+I really only want you
+For your mind
+Ooh, ooh
+For your mind
+
+Even though lookin' that good
+Should be a crime
+I really only want you
+For your mind
+
+I'm not after your body
+Although it would be nice
+There's so much more to you, honey
+
+I only want you
+I really only want you
+And I really only want you
+For your mind
+Ooh, ooh
+For your mind
+Ooh, ooh
+
+Even though lookin' that good
+Should be a crime
+I really only want you
+For your mind
+Ooh, ooh
+For your mind
+
+Other guys want more
+But that would keep me satisfied,
+For your mind
+For your mind, yeah, yeah
+
+Even though lookin' that good
+Should be a crime, yeah
+Ooh, ooh

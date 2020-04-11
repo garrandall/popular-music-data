@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: corinna-corinna-ray-peterson
+lyrics_url: https://genius.com/Ray-peterson-corinna-corinna-lyrics
 name: Corinna Corinna
 rankings:
 - end_date: '1960-11-27'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
-
+I love Corinna, tell the world I do
+I love Corinna, tell the world I do
+I pray at night she'd like to love me too
+Corinna, Corinna
+Corinna, Corinna
+Corinna, Corinna
+I love you so
+Oh little darling, where you've been so long?
+Oh little darling, where you've been so long?
+I ain't had no lovin' since you've been gone
+Corinna, Corinna
+Corinna, Corinna
+Corinna, Corinna
+I love you so
+I left Corinna way across the sea
+Oh me, I left Corinna way across the sea
+If you see Corinna send her home to me
+Corinna, Corinna
+Corinna, Corinna
+Corinna, Corinna
+I love you so
+Corinna, Corinna
+Corinna, Corinna
+Corinna, Corinna
+I love you so
+Oh darling, don't you know
+I love you so
+Darling, don't you know
+I love you so

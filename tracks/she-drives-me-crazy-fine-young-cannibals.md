@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-drives-me-crazy-fine-young-cannibals
+lyrics_url: https://www.musixmatch.com/lyrics/Fine-Young-Cannibals/She-Drives-Me-Crazy
 name: She Drives Me Crazy
 rankings:
 - end_date: '1989-02-03'
@@ -99,4 +100,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
 ---
+I can't stop
+The way I feel
+Things you do
+Don't seem real
 
+Tell you what you've got in mind
+'Cause we're runnin' out of time
+Won't you ever set me free?
+This waitin' 'round's killin' me
+
+She drives me crazy
+Like no one else
+She drives me crazy
+And I can't help myself
+
+I can't get
+Any rest
+People say
+I'm obsessed
+
+Everything you say is lies
+But to me there's no surprise
+What I had for you was true
+Things go wrong, they always do
+
+She drives me crazy
+Like no one else
+She drives me crazy
+And I can't help myself
+
+I won't make it
+On my own
+No one likes
+To be alone
+
+She drives me crazy
+Like no one else
+She drives me crazy
+And I can't help myself
+
+She drives me crazy
+Like no one else
+She drives me crazy
+And I can't help myself
+
+She drives me crazy
+Like no one else
+She drives me crazy
+And I can't help myself

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-train-the-o-jays
+lyrics_url: https://genius.com/The-ojays-love-train-lyrics
 name: Love Train
 rankings:
 - end_date: '1973-01-26'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
 ---
+People all over the world
+Join hands
+Start a love train, love train
 
+
+The next stop that we make will be England
+Tell all the folks in Russia, and China, too
+Don't you know that it's time to get on board
+And let this train keep on riding, riding on through
+
+
+People all over the world
+Join hands
+Start a love train, love train
+
+
+All of you brothers over in Africa
+Tell all the folks in Egypt, and Israel, too
+Please don't miss this train at the station
+Cause if you miss it, I feel sorry, sorry for you
+
+
+People all over the world
+Join hands
+Start a love train, love train
+
+
+Ride
+Let it ride
+Let it ride
+Let it ride
+People, ain't no war

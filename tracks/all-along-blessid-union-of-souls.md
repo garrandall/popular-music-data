@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-along-blessid-union-of-souls
+lyrics_url: https://genius.com/Blessid-union-of-souls-all-along-lyrics
 name: All Along
 rankings:
 - end_date: '1996-07-19'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
 ---
+Seems like yesterday but years have passed us by
+Precious memories are clear before my eyes
+I can hear your voice calling out my name
+But I don't know you now, nothing stays the same
 
+All along I have wanted you
+I pray tonight that you want me, too
+All along there was no one else
+I've been waiting here all by myself
+
+If you were here with me we'd ride the ocean tide
+To that special place I held for you deep inside
+I've kept good company since you've been away
+Lonely stayed with me and pride began to fade
+
+All along I have wanted you
+I pray tonight that you want me, too
+All along there was no one else
+I've been waiting here all by myself
+
+And I will follow you til the end of time
+Til our love is at the end of the line
+You rolled out of my life just like the wind
+And left behind a broken heart
+
+All along I have wanted you
+I pray tonight that you want me, too
+All along there was no one else
+I've been waiting here all by myself

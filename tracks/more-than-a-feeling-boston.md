@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-a-feeling-boston
+lyrics_url: https://genius.com/Boston-more-than-a-feeling-lyrics
 name: More Than A Feeling
 rankings:
 - end_date: '1976-09-24'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
 ---
+I looked out this morning and the sun was gone
+Turned on some music to start my day
+I lost myself in a familiar song
+I closed my eyes and I slipped away
 
+
+It's more than a feeling (more than a feeling)
+When I hear that old song they used to play (more than a feeling)
+I begin dreaming (more than a feeling)
+'Till I see Marianne walk away
+I see my Marianne walkin' away
+
+
+So many people have come and gone
+Their faces fade as the years go by
+Yet I still recall as I wander on
+As clear as the sun in the summer sky
+
+
+It's more than a feeling (more than a feeling)
+When I hear that old song they used to play (more than a feeling)
+I begin dreaming (more than a feeling)
+'Till I see Marianne walk away
+I see my Marianne walkin' away
+
+
+
+
+When I'm tired and thinking cold
+I hide in my music, forget the day
+And dream of a girl I used to know
+I closed my eyes and she slipped away
+
+She slipped away
+
+
+It's more than a feeling (more than a feeling)
+When I hear that old song they used to play (more than a feeling)
+I begin dreaming (more than a feeling)
+'Till I see Marianne walk away

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surfin--hootenanny-al-casey
+lyrics_url: https://genius.com/Al-casey-surfin-hootenanny-lyrics
 name: Surfin' Hootenanny
 rankings:
 - end_date: '1963-07-19'
@@ -39,4 +40,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
 ---
+We're gonna have
+A surfing hootenanny
+Oh, oh, come on
+We're gonna have
+A surfing hootenanny
 
+Oh, oh, come on, come on
+Come on, come on, come on
+Come on, come on
+
+We're gonna have
+A surfing hootenanny
+We're gonna have
+A surfing hootenanny
+
+And the guitar player
+You're gonna meet
+Oh, oh, come on
+They'll be playing
+That surfing beat
+
+Oh, oh, come on, come on
+Come on, come on, come on
+Come on, come on
+
+We're gonna have
+A surfing hootenanny
+We're gonna have
+A surfing hootenanny
+
+Dick Dale
+Oh, oh, come on
+The Ventures
+Oh, oh, come on
+Duane Eddy
+
+Oh, oh, come on, come on
+Come on, come on, come on
+Come on, come on
+
+We're gonna have
+A surfing hootenanny
+We're gonna have
+A surfing hootenanny
+
+We're gonna have
+A surfing hootenanny
+Oh, oh, come on
+We're gonna have
+A surfing hootenanny
+
+Oh, oh, come on, come on
+Come on, come on, come on
+Come on, come on
+
+We're gonna have
+A surfing hootenanny
+We're gonna have
+A surfing hootenanny
+
+Come on, come on
+Come on, come on...

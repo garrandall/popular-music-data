@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-potion-no-9-the-clovers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Clovers/Love-Potion-No-9-1
 name: Love Potion No 9
 rankings:
 - end_date: '1959-09-20'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
 ---
+I took my troubles down to Madame Ruth
+You know that gypsy with the gold-capped tooth
+She's got a pad down on 34th and Vine
+Sellin' little bottles of Love Potion Number Nine
 
+I told her that I was a flop with chics
+I've been this way since 1956
+She looked at my palm and she made a magic sign
+She said "What you need is Love Potion Number Nine"
+
+She bent down and turned around and gave me a wink
+She said "I'm gonna make it up right here in the sink"
+It smelled like turpentine, it looked like Indian ink
+I held my nose, I closed my eyes, I took a drink
+
+I didn't know if it was day or night
+I started kissin' everything in sight
+But when I kissed a cop down on Thirty-Fourth and Vine
+He broke my little bottle of Love Potion Number Nine
+
+I held my nose, I closed my eyes, I took a drink
+
+I didn't know if it was day or night
+I started kissin' everything in sight
+But when I kissed a cop down on Thirty-Fourth and Vine
+He broke my little bottle of Love Potion Number Nine
+Love Potion Number Nine
+Love Potion Number Nine
+Love Potion Number Nine

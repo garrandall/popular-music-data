@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-think-about-angels-jamie-o-neal
+lyrics_url: https://genius.com/Jamie-oneal-when-i-think-about-angels-lyrics
 name: When I Think About Angels
 rankings:
 - end_date: '2001-06-15'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
 ---
+Why does the color of my coffee match your eyes?
+Why do I see you when a stranger passes by?
+I swear I hear you in the whisper of the wind
+I feel you when the sun is dancin' on my skin
+And when it's raining
+You won't find me complaining 'cause
 
+
+When I think about rain
+I think about singing
+When I think about singing
+It's a heavenly tune
+When I think about heaven
+Then I think about angels
+When I think about angels
+I think about you
+
+
+The taste of sugar sure reminds me of your kiss
+I like the way that they both linger on my lips
+Kisses remind me of a field of butterflies
+It must be the way my heart is fluttering inside
+Beautiful distraction
+You make every thought a chain reaction
+
+
+When I think about rain
+I think about singing
+When I think about singing
+It's a heavenly tune
+When I think about heaven
+Then I think about angels
+When I think about angels
+I think about you
+
+Anywhere I go, anything I do
+Everything around me, baby
+Makes me think of you
+
+
+When I think about rain
+I think about singing
+When I think about singing
+It's a heavenly tune
+When I think about heaven
+Then I think about angels
+When I think about angels
+I think about you
+
+
+When I think about rain
+I think about singing
+When I think about singing
+It's a heavenly tune
+When I think about heaven
+Then I think about angels
+When I think about angels
+I think about you
+
+Ohhh, ohh, ohhhh
+When I think about you, baby
+Yeah, yeah
+I think about you

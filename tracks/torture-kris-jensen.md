@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: torture-kris-jensen
+lyrics_url: https://genius.com/Kris-jensen-torture-lyrics
 name: Torture
 rankings:
 - end_date: '1962-09-07'
@@ -63,4 +64,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
-
+TORTURE
+Kris Jensen
+Torture, torture
+Baby, you're torturing me
+Why do you lead me around
+And make me chase ya
+When I catch ya
+You won't let me embrace ya
+Please baby, have a heart
+Cause can't you see
+You're torturing me
+Torturing me
+This torture that I'm going through
+Is worth the pain if I have you
+So, if you love me, let me know
+But if you don't , please let me go
+Torture, torture
+Baby, you're torturing me
+You know that I'm crazy about you
+Yet you make me do without you
+Do you mean to hurt, or don't you see
+You're torturing me, torturing me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-think-of-you-janet-jackson
+lyrics_url: https://genius.com/Janet-jackson-when-i-think-of-you-lyrics
 name: When I Think Of You
 rankings:
 - end_date: '1986-08-15'
@@ -83,4 +84,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
 ---
+Ooh, baby
+Anytime my world gets crazy
+All I have to do to calm it
+Is just think of you
 
+
+It's when I think of you, baby
+Nothing else seems to matter
+It's when I think of you, baby
+All I think about is our love
+
+
+I just get more attached to you
+When you hold me in your arms
+And squeeze me
+And you leave me making me blue
+
+
+It's when I think of you, baby
+Nothing else seems to matter
+It's when I think of you, baby
+All I think about is our love
+
+
+So in love
+(So in love)
+Ooh
+(So in love)
+With you
+(So in love)
+Baby
+(So in love)
+Ooh
+(So in love)
+Yeah
+(So in love)
+With you
+(So in love)
+(So in love)
+
+
+When I think of you
+(When I think of you)
+When I think of you
+(When I think of you)
+Bass
+
+
+I'm so in love
+I just think of you
+When you're not around, I
+When I think of you
+
+
+(So in love)
+Ooh
+(So in love)
+So in love
+(So in love)
+With you
+(So in love)
+Baby, you
+(So in love)
+Ooh
+(So in love)
+So in love
+(So in love)
+With you
+(So in love)
+
+
+Break
+Feels so good
+When I think of you
+Yeah, yeah, yeah

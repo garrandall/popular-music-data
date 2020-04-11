@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-do-you-say-to-that-george-strait
+lyrics_url: https://genius.com/George-strait-what-do-you-say-to-that-lyrics
 name: What Do You Say To That
 rankings:
 - end_date: '1999-09-10'
@@ -71,4 +72,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
 ---
+You're like the warm sunshine, I think of you all the time
+I've fallen for you and that's a fact, what do you say to that
+You're always in my dreams, I think you know what they mean
+My heart knows this is real at last, what do you say to that
 
+
+Life could never be the same without you
+Love was never really love without you
+Here beside you is really where it's at, what do you say to that
+
+
+I promise I'll never leave, I'll always want you with me
+Loving you won't ever be old hat, what do you say to that
+
+
+Life could never be the same without you
+Love was never really love without you
+Here beside you is really where it's at, what do you say to that
+
+
+You're like the warm sunshine, I think of you all the time
+I've fallen for you and that's a fact, what do you say to that
+My heart knows this is real at last, what do you say to that

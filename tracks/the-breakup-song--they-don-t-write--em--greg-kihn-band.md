@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-breakup-song--they-don-t-write--em--greg-kihn-band
+lyrics_url: https://genius.com/Greg-kihn-band-the-breakup-song-they-dont-write-em-lyrics
 name: The Breakup Song (They Don't Write 'Em)
 rankings:
 - end_date: '1981-05-29'
@@ -99,4 +100,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
 ---
+We had broken up for good just an hour before
+Ah ah ah, ah ah ah ah ah
+And now I'm staring at the bodies as they're dancing 'cross the floor
+Ah ah ah, ah ah ah ah ah
+And then the band slowed the tempo and the music took me down
+Ah ah ah, ah ah ah ah ah
+It was the same old song, with a melancholy sound
+Ah ah ah, ah ah ah ah ah
 
+They don't write 'em like that anymore
+They just don't write 'em like that anymore
+
+We'd been living together for a million years
+Ah ah ah, ah ah ah ah ah
+But now it feels so strange out in the atmospheres
+Ah ah ah, ah ah ah ah ah
+And then the jukebox plays a song I used to know
+Ah ah ah, ah ah ah ah ah
+And now I'm staring at the bodies as they're dancing so slow
+Ah ah ah, ah ah ah ah ah
+
+They don't write 'em like that anymore
+They don't write 'em like that anymore
+Oh
+
+Hey
+Now I wind up staring at an empty glass
+Ah ah ah, ah ah ah ah ah
+'Cause it's so easy to say that you'll forget your past
+Ah ah ah, ah ah ah ah ah
+
+They don't write 'em like that anymore, no
+They just don't write 'em like that anymore
+They don't write 'em like that anymore
+They just don't write 'em like that anymore
+They just don't, no, they don't
+No, no, uh-uh

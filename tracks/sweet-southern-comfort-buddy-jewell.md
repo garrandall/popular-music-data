@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-southern-comfort-buddy-jewell
+lyrics_url: https://genius.com/Buddy-jewell-sweet-southern-comfort-lyrics
 name: Sweet Southern Comfort
 rankings:
 - end_date: '2004-02-13'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
 ---
+Misty sunrise in my hometown
+Rows of cotton about knee high
+Mrs. Baker down the dirt road
+Still got clothes out on the line
 
+Erwin Nichols there
+With Judsley playin checkers at the gin
+When I dream about the Southland
+This is where it all begins
+
+
+From Carolina down to Georgia
+Smell the jasmine and magnolia
+Sleepy sweet home Alabama
+Roll Tide Roll
+
+Muddy water Mississippi
+Blessed Graceland whispers to me
+Carry on, carry on
+Sweet Southern comfort, carry on
+
+
+Catching catfish on the river
+Chasing fireflies by the creek
+Kissing Gabby Williams' sister
+On the porch homecoming week
+
+With rusted cars and weeping willows
+Keeping watch out in the yard
+Just a snapshot of downhome Dixie
+Could be anywhere you are
+
+
+In Carolina or in Georgia
+Open arms are waiting for you
+Louisiana
+Yellow Rose of San Antone
+
+Arkansas
+Mississippi
+Old man river whispers to me
+Carry on, carry on
+Sweet Southern comfort, carry on
+
+
+As I sit here
+I'm surrounded by these priceless memories
+I don't have to think about it
+There's no place I'd rather be
+Than
+
+
+Carolina or in Georgia
+Smell the jasmine and magnolia
+Sleepy sweet home Alabama Roll Tide Roll
+
+Muddy water Mississippi
+Blessed Graceland whispers to me
+Carry on, carry on
+Sweet Southern comfort
+Carry on, carry on
+Sweet Southern comfort, carry on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-there-any-chance-marty-robbins
+lyrics_url: https://www.musixmatch.com/lyrics/Marty-Robbins/Is-There-Any-Chance
 name: Is There Any Chance
 rankings:
 - end_date: '1960-06-26'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+Is there any chance that you and I
+Can start all over
+Will you say you'll try
+Is there any chance that you may be
+Still a little bit in love with me
 
+Do I feel it when we say hello
+Or is it just because I'm hoping so
+Do you still have faith in our romance
+Will you tell me
+Is there any chance
+
+Is there any chance your heart may try
+To trust again the heart that made you cry
+Is there any chance you might forgive
+Oh, you must, or how else can I live
+
+Is there any chance that you and I
+Can start all over
+Will you say you'll try
+Is there any chance that you may be
+Still a little bit in love with me
+(In love with me)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-ray-charles
+lyrics_url: https://www.musixmatch.com/lyrics/Ray-Charles/Cry
 name: Cry
 rankings:
 - end_date: '1965-02-12'
@@ -35,4 +36,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
 ---
+If your sweetheart sends a letter of goodbye
+It's no secret, you'll feel better, if you cry
+When wakened, from a bad dream, don't you sometimes think it's real?
+Well, it's only false emotion, that you feel
 
+If your heartaches seems to hang around too long
+And your blues keep getting blue-er with each song
+Remember, sunshine can be found, behind a cloudy sky
+So let your hair down now, and baby go on and cry
+
+(If your heartaches seem to hang around too long)
+(And your blues keep getting blue-er with each song) oh yeah
+Well remember, sunshine can be found, behind a cloudy sky
+Why don't you let your hair down now, baby go on and cry
+
+I said let your hair down, baby go on and cry (go on baby and cry)

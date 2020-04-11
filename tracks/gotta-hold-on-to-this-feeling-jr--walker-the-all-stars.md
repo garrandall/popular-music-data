@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: gotta-hold-on-to-this-feeling-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-gotta-hold-on-to-this-feeling-lyrics
 name: Gotta Hold On To This Feeling
 rankings:
 - end_date: '1970-02-27'
@@ -48,4 +49,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
 ---
+The day without the shining sun
+Is a day without your loving baby
+One look, one look and well seem as one
+That's how easy we communicate
+A single match can make a fire begin
+A single kiss and I'm warm within girl
 
+
+Gotta hold on to this feeling
+Gotta hold on to this feeling we got
+Gotta hold on to this feeling
+Gotta hold on to this feeling we got
+Gonna blow, blow for ya
+'Cause I love, love, love, ya now
+
+
+Your love, your love got a hold on me now
+Don't change, don't change and turn cold on me, girl
+No how it's got a signed guarantee
+Your warranty depends on me
+If love, if love could sign a dotted line
+It would surely fine your name next to mine
+To be sure we keep the love we got
+Just keep them kisses comin'
+It ain't hard, girl
+
+
+Gotta hold on to this feeling
+Gotta hold on to this feeling we got now
+Gotta hold on to this feeling
+Gotta hold on to this feeling we got now
+Gotta blow, blow, blow for ya
+'Cause I love, love, love ya now

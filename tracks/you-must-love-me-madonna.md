@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-must-love-me-madonna
+lyrics_url: https://genius.com/Madonna-you-must-love-me-lyrics
 name: You Must Love Me
 rankings:
 - end_date: '1996-11-22'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
 ---
+Where do we go from here?
+This isn't where we intended to be
+We had it all, you believed in me
+I believed in you
+Certainties disappear
+What do we do for our dream to survive?
+How do we keep all our passions alive
+As we used to do?
 
+
+Deep in my heart I'm concealing
+Things that I'm longing to say
+Scared to confess what I'm feeling
+Frightened you'll slip away
+You must love me
+You must love me
+
+
+Why are you at my side?
+How can I be any use to you now?
+Give me a chance and I'll let you see how
+Nothing has changed
+
+
+Deep in my heart I'm concealing
+Things that I'm longing to say
+Scared to confess what I'm feeling
+Frightened you'll slip away
+You must love me
+You must love me
+You must love me

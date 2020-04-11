@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-the-world-calling-bob-geldof
+lyrics_url: https://genius.com/Bob-geldof-this-is-the-world-calling-lyrics
 name: This Is The World Calling
 rankings:
 - end_date: '1986-12-19'
@@ -31,4 +32,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+I hear a heart beat
+It's ringing out across the universe
+It sounds so lost and lonely
+It must come from somewhere deep inside of us
+And the operator says:
 
+
+"All is calm an' all is quiet
+Close your eyes an' sleep tonight"
+
+
+This is the world calling (All is calm an' all is quiet)
+This is Earth (Close your eyes an' sleep tonight)
+This is the world calling (All is calm an' all is quiet)
+This is us (Close your eyes an' sleep tonight)
+
+
+I'm on a train now
+I'm moving through the yellow fields of rape
+There's so much beauty
+I wished that I believed enough to pray
+Then the operator replied:
+
+
+"Spinning 'round, you're wrapped in blue
+There's no one looks as good as you"
+
+
+This is the world calling (Spinning 'round, you're wrapped in blue)
+This is us (There's no one looks as good as you)
+This is the world calling (Spinning 'round, you're wrapped in blue)
+This is us (There's no one looks as good as you)
+This is the world calling (Spinning 'round, you're wrapped in blue)
+This is us (There's no one looks as good as you)
+And it goes on, and on
+
+
+What we gonna to do, because it cannot go on?
+What we gonna to do, because it cannot go on?
+So, wrap me in your arms and baby keep me warm tonight
+What we gonna to do, because it cannot go on?
+What we gonna to do, because it cannot go on?
+So, wrap me in your arms and baby keep me warm tonight
+
+
+This is the world calling
+This is us
+This is the world calling
+This is us
+This is the world calling
+This is us
+This is the world calling
+God help us
+And it goes on, and on, and on
+
+
+(Where all is calm and all is quiet)
+(Close your eyes, sleep tonight)
+This is the world calling (All is calm and all is quiet)
+(Close your eyes, sleep tonight)
+This is the world calling (All is calm and all is quiet)
+(You look beautiful tonight)
+This is the world calling (Spinning 'round and that is you)
+(There's no one else as good as you)
+This is the world calling
+All is calm and all is quiet
+Close your eyes, sleep tonight
+This is the world calling...

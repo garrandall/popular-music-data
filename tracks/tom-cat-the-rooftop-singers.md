@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tom-cat-the-rooftop-singers
+lyrics_url: https://genius.com/The-rooftop-singers-tom-cat-lyrics
 name: Tom Cat
 rankings:
 - end_date: '1963-03-29'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
 ---
+Spoken:
+I've got an old Tom Cat
+And when he steps out
+All the other cats in the neighborhood
+They begin to shout
 
+There goes a ring tail Tom
+Struttin' round the town
+And if you got your heat turned up
+You better turn your damper down
+
+Ringtail Tom is a star
+He's a boss around this town
+He don't allow no other Tom Cats
+Come pussy footin' around
+
+Ringtail Tom on the fence
+Little pussy cat on the ground
+Ringtail Tom com-a-off-a that fence
+They start rousin around
+
+Ringtail Tom is a star
+He's a natural born crack shot
+He finds a new target every night
+And he sure does practice alot
+
+And if you got your heat turned up
+You better turn your damper down

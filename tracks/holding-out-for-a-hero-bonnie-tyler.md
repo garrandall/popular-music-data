@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holding-out-for-a-hero-bonnie-tyler
+lyrics_url: https://www.musixmatch.com/lyrics/Various-Artists-feat-Bonnie-Tyler/Holding-Out-For-A-Hero
 name: Holding Out For A Hero
 rankings:
 - end_date: '1984-03-02'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
 ---
-
+Where have all good men gone
+And where are all the gods?
+Where's the street-wise Hercules
+To fight the rising odds?
+Isn't there a white knight upon a fiery steed?
+Late at night I toss and turn and dream of what I need
+I need a hero
+I'm holding out for a hero 'til the end of the night
+He's gotta be strong
+And he's gotta be fast
+And he's gotta be fresh from the fight
+I need a hero
+I'm holding out for a hero 'til the morning light
+He's gotta be sure
+And it's gotta be soon
+And he's gotta be larger than life
+Somewhere after midnight
+In my wildest fantasy
+Somewhere just beyond my reach
+There's someone reaching back for me
+Racing on the thunder and rising with the heat
+It's gonna take a superman to sweep me off my feet
+I need a hero
+I'm holding out for a hero' til the morning light
+Up where the mountains meet the heavens above
+Out where the lightning splits the sea
+I would swear that there's someone somewhere
+Watching me
+Through the wind and the chill and the rain
+And the storm and the flood
+I can fell his approach
+Like a fire in my blood

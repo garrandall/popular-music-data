@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-arms-can-ever-hold-you-the-bachelors
+lyrics_url: https://genius.com/The-bachelors-no-arms-can-ever-hold-you-lyrics
 name: No Arms Can Ever Hold You
 rankings:
 - end_date: '1965-01-01'
@@ -47,4 +48,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
 ---
+No arms can ever hold you like these arms of mine
+No heart can ever love you like this heart of mine
+My dreams could all come true if you'll care for me
+This love that I feel for you was just meant to be
 
+No lips can ever kiss you like these lips of mine
+No heart can ever love you like this heart of mine
+My heart, my love are yours 'til the end of time
+No arms will ever hold you like these arms of mine
+No arms will ever hold you like these arms of mine

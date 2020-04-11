@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: show-me-the-cover-girls
+lyrics_url: https://genius.com/The-cover-girls-show-me-lyrics
 name: Show Me
 rankings:
 - end_date: '1987-03-06'
@@ -79,4 +80,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
 ---
+You say that you really love me
+I'm always on your mind
+And you say I should be your lover
+And we should spend some time
+But I'm not persuaded that quickly
+My heart has been broken before you see
+So if you want to be my lover
+You have to prove your love is true to me
 
+Cause it's easy
+To tell me you love me
+Easy to say
+You're thinking of me
+Words are so easy to say
+
+Show me, show me
+You really love me
+Actions speak louder than words
+
+Show me, show me
+You really need me
+Cause all those lies I've already heard
+
+Show me, show me
+You really love me
+Let me believe that it's true
+
+Show me, show me
+You really need me
+And I'll get together with you
+
+You say that there is no other
+I am the only one
+And you say that if we were lovers
+We would have so much fun
+
+But my mother warned me
+That I should beware of young boys
+Saying things that you say
+
+So I must be sure that
+If I give you my love
+You won't take it then run away
+
+Cause it's easy
+To tell me you love me
+Easy to say
+You're thinking of me
+Words are so easy to say
+
+Show me, show me
+You really love me
+Actions speak louder than words
+
+Show me, show me
+You really need me
+Cause all those lies I've already heard
+
+Show me, show me
+You really love me
+Let me believe that it's true
+
+Show me, show me
+You really need me
+And I'll get together with you
+
+Show me, show me
+You really love me
+Actions speak louder than words
+
+Show me, show me
+You really need me
+Cause all those lies I've already heard
+
+Show me, show me
+You really love me
+Let me believe that it's true
+
+Show me, show me
+You really need me
+And I'll get together with you

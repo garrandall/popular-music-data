@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-can-make-it-baby-the-originals
+lyrics_url: https://genius.com/The-originals-we-can-make-it-baby-lyrics
 name: We Can Make It Baby
 rankings:
 - end_date: '1970-08-28'
@@ -31,4 +32,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
 ---
+(Oh baby)
+Haven't got much to give
+(Hey babe)
+And don't know what I'll get
+(Ooh, I know)
+All I know
+Is if you love me
+(Ooh, hey)
+We can make it babe
+(We can make it if we try, we can make it)
+Oh darlin'
+(Just rely on me, oh baby)
 
+I know things have been rough
+(Hey baby)
+And sometimes, little girl, the going gets tough
+(Ooh, I know)
+But I know if you stay with me, oh baby
+(Ooh hey, hey, hey)
+We can make it baby
+(We can make it if we try, we can make it)
+I know we can
+(Just rely on me, we can make it, oh yes we can)
+
+One day I'll give you all the things you deserve
+You have my word
+Just love me
+(Love me)
+And stay with me
+(Love me baby)
+
+Don't let some sweet talkin' guy with his bread turn your head
+'Cause girl, without you, love, my soul might as well be dead
+(Oh baby)
+Sugar, sugar, sugar, sugar
+(Hey baby)
+For as long as I live
+(Ooh, I know)
+All, all I know is if you love me
+(Ooh hey, hey, hey)
+We can make it baby
+(We can make it if we try, we can make it)
+Oh, we can make it
+(Just rely on me, we can make it)
+
+Ooh
+(We can make it)
+Ooh
+(We can make it)
+Ooh
+(We can make it)

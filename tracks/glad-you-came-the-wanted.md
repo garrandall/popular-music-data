@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: glad-you-came-the-wanted
+lyrics_url: https://genius.com/The-wanted-glad-you-came-lyrics
 name: Glad You Came
 rankings:
 - end_date: '2012-02-03'
@@ -155,4 +156,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
 ---
+The sun goes down, the stars come out
+And all that counts is here and now
+My universe will never be the same
+I'm glad you came (Came, came, came)
 
+
+You cast a spell on me, spell on me
+You hit me like the sky fell on me, fell on me
+And I decided you look well on me, well on me
+So let's go somewhere no one else can see
+You and me
+
+
+Turn the lights out now
+Now, I'll take you by the hand
+Hand you another drink
+Drink it if you can
+Can you spend a little time?
+Time is slipping away
+Away from us, so stay
+Stay with me, I can make
+Make you glad you came
+
+
+The sun goes down, the stars come out
+And all that counts is here and now
+My universe will never be the same
+I'm glad you came
+I'm glad you came
+
+
+You cast a spell on me, spell on me
+You hit me like the sky fell on me, fell on me
+And I decided you look well on me, well on me
+So let's go somewhere no one else can see
+You and me
+
+
+Turn the lights out now
+Now, I'll take you by the hand
+Hand you another drink
+Drink it if you can
+Can you spend a little time?
+Time is slipping away
+Away from us, so stay
+Stay with me, I can make
+Make you glad you came
+
+
+The sun goes down, the stars come out
+And all that counts is here and now
+My universe will never be the same
+I'm glad you came
+I'm glad you came
+
+
+(Oh, oh, oh)
+I'm glad you came
+So glad you came
+I'm glad you came
+I'm glad you came
+
+
+The sun goes down, the stars come out
+And all that counts is here and now
+My universe will never be the same
+I'm glad you came
+I'm glad you came

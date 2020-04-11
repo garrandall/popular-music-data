@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -theme-from--silver-city-the-ventures
+lyrics_url: https://genius.com/The-ventures-silver-city-lyrics
 name: (Theme From) Silver City
 rankings:
 - end_date: '1961-09-03'
@@ -19,4 +20,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
 ---
-
+♫ Instrumental ♫

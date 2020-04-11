@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fools-rush-in-rick-nelson
+lyrics_url: https://www.musixmatch.com/lyrics/Rick-Nelson/Fools-Rush-in-Where-Angels-Fear-to-Tread
 name: Fools Rush In
 rankings:
 - end_date: '1963-09-20'
@@ -59,4 +60,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
 ---
+Fools rush in where angels fear to thread
+And so I come to you my love my heart above my head
+Though I see the danger there
+If there's a chance for me then I don't care.
 
+Fools rush in where wise men never go
+But wise men never fall in love so how are they to know
+When we met I felt my life began
+So open up your heart and let this fool rush in.
+
+--- Instrumental ---
+
+Fools rush in where wise men never go
+But wise men never fall in love so how are they to know
+When we met I felt my life began
+So open up your heart and let this fool rush in.
+
+Just open up your heart and let this fool rush in.
+Well, open up your heart and let this fool rush in...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-d-you-wanna-make-me-cry-connie-stevens
+lyrics_url: https://genius.com/Connie-stevens-whyd-you-wanna-make-me-cry-lyrics
 name: Why'd You Wanna Make Me Cry
 rankings:
 - end_date: '1962-05-11'
@@ -51,4 +52,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
 ---
-
+Oh, baby
+What you wanna make me cry for
+Why'd you wanna make me blue
+Why'd you wanna go and break my heart
+When I never done nothing to you

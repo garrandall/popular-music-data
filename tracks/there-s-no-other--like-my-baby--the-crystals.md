@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-no-other--like-my-baby--the-crystals
+lyrics_url: https://www.musixmatch.com/lyrics/The-Crystals/There-s-No-Other-Like-My-Baby
 name: There's No Other (Like My Baby)
 rankings:
 - end_date: '1961-11-26'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
 ---
+There's a story I want you to know
+'Bout my baby, how I love him so
 
+There's no other like my baby
+No, no, no, no
+(I wanna tell you now)
+There's no other, don't mean maybe
+No, no, no, no
+
+Walkin' down the street, in a crowd
+Looking at my baby, feeling so proud
+Woah, oh, oh
+
+There's no other like my baby
+No, no, no, no
+
+While at a dance, my baby by my side
+He whispers to me, someday I'll be his bride
+Woah, oh, oh
+
+There's no other like my baby
+No, no, no, no
+
+(Johnny?)
+No, no, not like my baby
+(Billy?)
+No, not like my baby
+(Bobby?)
+He's not like my baby
+
+I wanna tell you now
+There's no other like my baby
+No, no, no, no

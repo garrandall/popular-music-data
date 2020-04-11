@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-cheated-the-slades
+lyrics_url: https://genius.com/The-slades-doo-wop-group-you-cheated-you-lied-lyrics
 name: You Cheated
 rankings:
 - end_date: '1958-08-10'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
+You cheated, you lied
+You said that you love me
+You cheated, you lied
+You said that you want me
 
+Oh, what can I do
+But just keep on loving you
+Love is something you know nothing about
+Love is something you can't know about
+
+So please try to love me
+Love me like I love you
+Oh please try to love me
+Love me like I love you
+
+You cheated, you lied
+You said that you want me
+You cheated, you lied
+You said that you love me
+
+Oh what can I do...
+Oh what can I do...
+Oh what can I do...

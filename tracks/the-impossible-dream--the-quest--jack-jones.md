@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-impossible-dream--the-quest--jack-jones
+lyrics_url: https://www.musixmatch.com/lyrics/Jack-Jones/The-Impossible-Dream
 name: The Impossible Dream (The Quest)
 rankings:
 - end_date: '1966-06-10'
@@ -47,4 +48,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
 ---
+To dream the impossible dream
+To fight the unbeatable foe
+To bear with unbearable sorrow
+To run where the brave dare not go
 
+To right the unrightable wrong
+To be better far than you are
+To try when your arms are too weary
+To reach the unreachable star
+
+This is my quest, to follow that star
+No matter how hopeless, no matter how far
+To be willing to give when there's no more to give
+To be willing to die so that honor and justice may live
+
+And I know if I'll only be true to this glorious quest
+That my heart will lie peaceful and calm when I'm laid to my rest
+
+And the world will be better for this
+That one man scorned and covered with scars
+Still strove with his last ounce of courage
+To reach the unreachable star

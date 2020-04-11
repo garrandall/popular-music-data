@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-to-your-heart-d-h-t-
+lyrics_url: https://genius.com/Dht-listen-to-your-heart-extended-hardstyle-mix-lyrics
 name: Listen To Your Heart
 rankings:
 - end_date: '2005-06-10'
@@ -115,4 +116,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
 ---
+I know there's something in the wake of your smile
+I get a notion from the look in your eyes, yeah
+You've built a love, but that love falls apart
+Your little piece of heaven turns too dark
 
+
+
+
+Sometimes you wonder if this fight is worthwhile
+The precious moments are all lost in the tide, yeah
+They're swept away and nothing is what it seems
+The feeling of belonging to your dreams

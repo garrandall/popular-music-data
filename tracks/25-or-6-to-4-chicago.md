@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 25-or-6-to-4-chicago
+lyrics_url: https://genius.com/Chicago-25-or-6-to-4-lyrics
 name: 25 Or 6 To 4
 rankings:
 - end_date: '1970-07-31'
@@ -87,4 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
+Waiting for the break of day
+Searching for something to say
+Flashing lights against the sky
+Giving up I close my eyes
+Sitting cross-legged on the floor
+Twenty five or six to four
 
+
+Staring blindly into space
+Getting up to splash my face
+Wanting just to stay awake
+Wondering how much I can take
+Should I try to do some more?
+Twenty five or six to four
+
+{Instrumental}
+
+
+Feeling like I ought to sleep
+Spinning room is sinking deep
+Searching for something to say
+Waiting for the break of day
+Twenty five or six to four
+Twenty five or six to four

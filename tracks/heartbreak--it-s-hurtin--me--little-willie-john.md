@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreak--it-s-hurtin--me--little-willie-john
+lyrics_url: https://genius.com/Little-willie-john-heartbreak-its-hurtin-me-lyrics
 name: Heartbreak (It's Hurtin' Me)
 rankings:
 - end_date: '1960-06-05'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
 ---
+Heartbreak (It's Hurtin' Me) 2:53
+Little Willie John
+(Thomas, Hoyles)
+Recorded May 1960 King Single #5356
+Pop Chart # 38 May 30, 1960
+Other personnel unk
 
+Intro: organ
+
+Heartbreak, it's hurtin' me
+Weak in the knees, loose in the head
+My baby has left me
+And I wish that I was dead
+
+Heartbreak, it's hurtin' me
+I'm dyin' in the eye
+Lost my sense of touch
+My baby has left me
+I love her so much
+
+Heartbreak, it's hurtin' me
+She lead me to believe
+That I was all she had
+This morning I was happy
+Tonight I got 'em bad
+
+Heartbreak, it's killing me
+
+Oh yeah, yeah, yeah
+
+(Instrumental, sax & organ)
+
+I know been a fool
+How taken I have been
+If I see my baby
+I'd run to her again
+
+Heartbreak, it's a-hurting me
+It's hurting me
+
+If I was a judge
+I'd send her to the chair
+I'd sit right down beside her
+And she wouldn't leave me here
+Yea-eah
+
+Heartbreak
+It's hurtin' me
+
+Heartbrea-yoo-hoo-hoo, yea-eah
+
+FADES-
+
+It's what I'll do
+~

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shoop-shoop--never-stop-givin--you-love--michael-cooper
+lyrics_url: https://www.musixmatch.com/lyrics/Michael-Cooper/Shoop-Shoop-Never-Stop-Givin-You-Love
 name: Shoop Shoop (Never Stop Givin' You Love)
 rankings:
 - end_date: '1993-03-19'
@@ -43,4 +44,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
 ---
+Shoop shoop, shoop shoop
+Now it's nice to know
+With you, i'm a needed soul
+Shoop shoop, shoop shoop
+Yes, baby
 
+Shoop shoop, shoop shoop
+And it's plain to see
+With me, you wanna be
+Shoop shoop, shoop shoop
+Yeah, yeah, oh, oh
+
+Love taught me
+It's you that i need
+Now i know i can
+Never stop giving you love
+
+You know you're on my mind
+Sugar, all the time
+And now i know i can
+Never stop giving good love
+
+Oh, baby
+
+Now i want you, girl
+I believe in your heart
+I can't believe it that i'm
+Living my life without you
+
+Shoop shoop, shoop shoop
+Never stop giving you love
+Sweet, sweet thing
+Sweet thing
+Never stop giving you love
+
+Shoop shoop, shoop shoop
+Aww, never stop giving you love
+Oh, oh, oh, oh
+
+Shoop shoop, shoop shoop
+It's all right tonight
+If you squeeze my body some
+
+Shoop shoop, shoop shoop
+We'll go round and round
+Til my love comes tumbling down
+
+You know i'm on the phone
+With you all night long
+And now i know i can
+Never stop giving good love
+
+Oh, baby, love it to me
+Love it to me, love it to me
+Love it to me, love it to me
+Love it to me, love it to me alone
+
+Oh, baby, sweet baby
+Oh, baby i want you, girl
+I believe in your heart
+I can't believe it that i'm
+Living my life without you
+
+Shoop shoop, shoop shoop
+Never stop giving good love
+Come on, baby, come on, baby
+Come on, baby
+
+Shoop shoop, shoop shoop
+Never stop giving good love
+Come on, baby, come on, baby
+Come on, baby
+
+It's you and me, it's you and me
+It's all right tonight
+Shoop shoop, shoop shoop
+You and me...

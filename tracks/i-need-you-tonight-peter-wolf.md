@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-you-tonight-peter-wolf
+lyrics_url: https://genius.com/Peter-wolf-i-need-you-tonight-lyrics
 name: I Need You Tonight
 rankings:
 - end_date: '1984-10-19'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-05'
 ---
+When the music stops, I walk you to your door
+I say goodnight, like a thousand times before
+This is the night, I just can't walk away
+This is the night, I need you even more
 
+Why should we wait 'til tomorrow
+Why should we wait 'til tomorrow
+I can't wait 'til tomorrow
+I need you tonight
+
+I drive away, but you're still on my mind
+It's getting so hard, leaving you behind
+This is the night, I just want you to know
+This is the night, I just can't let you go
+
+Why should we wait 'til tomorrow
+Why should we wait 'til tomorrow
+I can`t wait `til tomorrow
+I need you tonight
+
+Why should we wait 'til tomorrow
+Why should we wait 'til tomorrow
+I can't wait 'til tomorrow
+I need you tonight
+And I need you tonight
+'Cause I need you tonight

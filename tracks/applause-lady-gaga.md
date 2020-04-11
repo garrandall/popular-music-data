@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: applause-lady-gaga
+lyrics_url: https://genius.com/Lady-gaga-applause-lyrics
 name: Applause
 rankings:
 - end_date: '2013-09-06'
@@ -99,4 +100,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
 ---
+I stand here waiting for you to bang the gong
+To crash the critic saying, “Is it right or is it wrong?”
+If only fame had an IV
+Baby, could I bear being away from you
+I found the vein, put it in here
 
+
+I live for the applause, applause, applause
+I live for the applause-plause, live for the applause-plause
+Live for the way that you cheer and scream for me
+The applause, applause, applause
+
+
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+
+
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+
+
+I've overheard your theory “Nostalgia's for geeks”
+I guess sir if you say so
+Some of us just like to read
+One second I'm a Koons, then suddenly the Koons is me
+Pop culture was in art, now art’s in pop culture, in me
+
+
+I live for the applause, applause, applause
+I live for the applause-plause, live for the applause-plause
+Live for the way that you cheer and scream for me
+The applause, applause, applause
+
+
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+
+
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+
+
+Woo...
+Touch, touch
+Woo...
+Touch, touch, now...
+Woo-oh-oh-oh...
+
+
+I live for the applause, applause, applause
+I live for the applause-plause, live for the applause-plause
+Live for the way that you cheer and scream for me
+The applause, applause, applause
+
+
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+Give me that thing that I love (I'll turn the lights out)
+Put your hands up, make 'em touch (Make it real loud)
+
+
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+A-P-P-L-A-U-S-E (Make it real loud)
+Put your hands up, make 'em touch, touch
+
+
+A-R-T-P-O-P

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-him-goodbye-the-nylons
+lyrics_url: https://genius.com/The-nylons-kiss-him-goodbye-lyrics
 name: Kiss Him Goodbye
 rankings:
 - end_date: '1987-05-22'
@@ -75,4 +76,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
 ---
+You know I love you
+I'll always love you
+Even though the tears are fallin'
+From my eyes
+I still remember baby when
+Our love was so strong
+So go on
+Go ahead and kiss him
+Go on and kiss him goodbye
+Goodbye, whoa goodbye
 
+He doesn't love you the way that I love you
+Cause if he did he wouldn't go and break your heart
+He's only flirtin' baby but my love is so strong
+So go on, go ahead and kiss him
+Go on and kiss him goodbye
+
+Na na na na, hey hey hey, goodbye
+Na na na na, na na na na, hey hey hey, goodbye
+
+He's never near you to comfort and cheer you
+Even though the tears are fallin', fallin' from your eyes
+He might be thrillin' baby but my love is ready and willin'
+So go on, go ahead and kiss him
+Go ahead and kiss him, oo
+Go ahead and kiss him, oo
+Go on and kiss him goodbye
+Goodbye, whoa goodbye
+Bye bye bye, goodbye, whoa goodbye bye bye
+Na na na na na na, na na na na na na
+Na na na na na na, na na na na na na(repeat)
+Na na na na, na na na na, hey hey hey, goodbye(repeat)

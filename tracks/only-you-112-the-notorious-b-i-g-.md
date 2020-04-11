@@ -5,6 +5,7 @@ features:
 - The Notorious B.I.G.
 genres: []
 key: only-you-112-the-notorious-b-i-g-
+lyrics_url: https://genius.com/112-only-you-lyrics
 name: Only You
 rankings:
 - end_date: '1996-06-07'
@@ -120,4 +121,90 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
 ---
+Oh, I need to know where we stand
+Do we share this special thing called love?
+I know I do, what about you?
+I just can't get enough of the time
 
+
+I need you in my life
+Where do we go?
+What do I do?
+I can't live without your love
+Thinkin' of you, makes me feel
+Like I am the only one for you
+
+
+Girl, I want to be with you
+No one else, only you
+Why can't we just make it happen?
+Baby, I need you in my life
+
+
+Every time I'm with you
+Never want it to come to an end
+Always make me so happy
+You'll always have a place in my heart
+
+
+I need you in my life
+Where do I go?
+What do I do?
+'Cause I can't live without your love
+Thinkin' of you, makes me feel
+Like I am the only one for you
+(Check it out)
+
+
+Je-sus, the Notorious just
+Please us with your lyrical thesis
+We just chillin', milk 'em, top billin'
+Silk and pure linen, me and Little Cease
+Malibu sea breeze, Dom P's, palm trees
+Cats named Pablo in milked out Diablos (That's right)
+The Williest, bitches be the silliest
+The more I smoke, the smaller the phillie gets
+Room 112 where the players dwell
+And stash more cash than Bert Padell, inhale
+Make you feel good like Tony Toni Tone (Feels good)
+Dig up in your middle like Monie (Yes)
+Don't know but your settin' up to blow me (Yes)
+Try to style, fly up north with a homie (Yes)
+Escada, Don Dada, player, stay splurgin'
+Game so tight they call it virgin (Yes)
+
+
+Where do we go
+What must I do
+If I can't live without your love
+Thinkin' of you, makes me feel, baby
+Like I am the only one for you
+
+
+Girl, I want to be with you
+No one else, only you
+Why can't we just make it happen?
+Baby, I need you in my life
+
+Girl, I want to be with you
+No one else, only you
+Why can't we just make it happen?
+Baby, I need you in my life
+(Oh baby, I love you)
+
+Girl, I want to be with you
+(I need you, want you here with me)
+No one else, only you
+(It's only you)
+Why can't we just make it happen?
+Baby, I need you in my life
+
+(Girl, I love you)
+Girl, I want to be with you
+(And I need you, gotta have you in my life, oh yes I do)
+No one else, only you
+Why can't we just make it happen
+Baby, I need you in my life
+
+Girl, I want to be with you
+No one else, only you

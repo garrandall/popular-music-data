@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: puttin--on-the-ritz-taco
+lyrics_url: https://genius.com/Taco-puttin-on-the-ritz-lyrics
 name: Puttin' On The Ritz
 rankings:
 - end_date: '1983-07-01'
@@ -91,4 +92,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
 ---
+If you're blue and you don't know where to go to
+Why don't you go where fashion sits
+Puttin' on the ritz
+Different types who wear a day coat
+Pants with stripes
+And cutaway coat, perfect fits
+Puttin' on the ritz
 
+Dressed up like a million dollar trouper
+Trying hard to look like Gary Cooper (super duper)
+Come let's mix where Rockefellers walk with sticks
+Or "umberellas" in their mitts
+Puttin' on the ritz
+
+Have you seen the well-to-do up and down Park Avenue
+On that famous thoroughfare with their noses in the air
+High hats and Arrow collars white spats and lots of dollars
+Spending every dime for a wonderful time
+
+If you're blue and you don't know where to go to
+Why don't you go where fashion sits
+Puttin' on the ritz
+Different types who wear a day coat
+Pants with stripes
+And cutaway coat, perfect fits
+Puttin' on the ritz
+
+Dressed up like a million dollar trouper
+Trying hard to look like Gary Cooper (super duper)
+Come let's mix where Rockefellers walk with sticks
+Or "umberellas" in their mitts
+Puttin' on the ritz
+
+Dressed up like a million dollar trouper
+Trying hard to look like Gary Cooper (super duper)
+If you're blue and you don't know where to go to
+Why don't you go where fashion sits
+Puttin' on the ritz
+Puttin' on the ritz
+Puttin' on the ritz
+Puttin' on the ritz
+
+Down, down
+Uptown
+Get your kicks at the Ritz
+Dine and wine, but not 'till nine
+The time is right for us tonight
+We can move, move to the rhythm
+We can-
+
+Move, dance to the rhythm (Nice and easy)
+I want 'ya to move
+Put it on, puttin' it on, puttin' it on, puttin' it on
+R-I-T-Z, how about you and me says-
+
+Gotta dance
+Gotta dance

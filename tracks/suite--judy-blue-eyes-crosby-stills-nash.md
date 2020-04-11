@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suite--judy-blue-eyes-crosby-stills-nash
+lyrics_url: https://genius.com/Crosby-stills-nash-and-young-suite-judy-blue-eyes-live-lyrics
 name: 'Suite: Judy Blue Eyes'
 rankings:
 - end_date: '1969-10-10'
@@ -55,3 +56,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
 ---
+Do do do do do, do do do do do do
+Do do do do do, do do do do
+
+Do do do do do, do do do do do do
+Do do do do do, do do do do

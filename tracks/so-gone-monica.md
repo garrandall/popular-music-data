@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-gone-monica
+lyrics_url: https://genius.com/Monica-so-gone-lyrics
 name: So Gone
 rankings:
 - end_date: '2003-05-02'
@@ -95,4 +96,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
 ---
+So gone over you, you, you, you
+Yeah, new Monica
+Woo
 
+
+Silly of me (Uh huh), devoted so much time
+To find you unfaithful, boy
+I nearly lost my mind (Ooh)
+Drive past your house every night (Uh)
+In an unmarked car (Uh huh)
+Wonderin' what she had on me to make you break my heart (Yeah)
+
+
+You make me feel
+You make me feel, I'm so gone
+So unreal
+You make me feel
+You make me feel
+Oh, and I love to love you, baby
+So unreal
+
+
+Nights I couldn't sleep
+Ah, you let the sun beat you home
+I ask myself over again
+What am I doin' wrong
+To make you stay out all night (Uh uh) and not think to call?
+What does she have over me (Uh huh)
+To make you not think to call home?
+
+
+You make me feel
+You make me feel, I'm so gone
+So unreal
+You make me feel
+You make me feel
+Oh, and I love to love you, baby
+So unreal
+
+
+Listen boy, I'm a rowdy chick
+Sometimes I have to fight 'cause my mouth too slick
+Baby, why you doin' me like I ain't worth shit?
+Make me wanna ride past your house and sit
+Kick down your doors and smack your chick
+Just to show you Monica not havin' that
+So in love with you like a drug habit get
+(So unreal)
+You treat me so unreal
+
+
+What she do, I do better
+What she did to make you love her?
+(What did she do?)
+Is it real or forever?
+Ohh (Is it real)?
+Baby, please can we stay together?
+What she do, I do better (Yeah, yeah)
+What she did to make you love her?
+Is it real or forever?
+(Is it real?)
+Baby, please, can we stay together?
+
+
+Whoa and I love to love you, baby
+Whoa and I love to love you, baby
+Whoa and I love to love you, baby (Ooh-ooh, ooh)
+Whoa and I love to love you, baby
+Whoa and I love to love you, baby
+Whoa and I love to love you, baby
+Just to show you Monica, not havin' it
+
+
+You make me feel
+You make me feel, I'm so gone
+So unreal
+You make me feel
+You make me feel
+Oh, and I love to love you, baby
+So unreal
+
+
+Said that I need you
+I don't really need you
+Said that I need you (Oooh-ooh, ooh)
+Said that I need you
+I don't really need you
+Said that I need you
+You treat me so unreal

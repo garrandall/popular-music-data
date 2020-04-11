@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurt-timi-yuro
+lyrics_url: https://genius.com/Timi-yuro-hurt-lyrics
 name: Hurt
 rankings:
 - end_date: '1961-07-30'
@@ -55,4 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+I'm so hurt
+To think that you lied to me
+I'm hurt
+Way down deep inside me
+You said your love was true
+And we'd never, ever part
+Now you want someone new
+And it breaks, it breaks my heart
 
+I'm so hurt
+Much more than you'll ever know
+Yes, darling, I'm so hurt
+Because, I still love you so
+But... but, even... even though you hurt me
+Like nobody else could ever do
+I would never ever hurt... hurt you

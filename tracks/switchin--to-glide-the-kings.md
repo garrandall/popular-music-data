@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: switchin--to-glide-the-kings
+lyrics_url: https://genius.com/The-kings-switchin-to-glide-lyrics
 name: Switchin' To Glide
 rankings:
 - end_date: '1980-08-29'
@@ -99,4 +100,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
 ---
+Nothing matters but the weekend
+From a Tuesday point of view
+Like a kettle in the kitchen
+I feel the steam begin to brew
 
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+
+Energy can be directed
+I'm turning it up, I'm turning it down
+Even love can be affected
+Harmony's the sweetest sound
+
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+
+Balancing in my head
+Inside of me
+Taking the glide path instead
+
+Everybody gets the no-no
+Hear it ringing in they ears
+Lots of ways that you can go, go
+Look around no disappears
+
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+Switchin' to glide
+
+Switchin' to glide (yeah)
+Switchin' to glide (yeah)
+Switchin' to glide
+Ah, hey, oh, ah
+I'm switchin' to glide
+I'm bound to find some way out of this hole, you know
+Out of this hole

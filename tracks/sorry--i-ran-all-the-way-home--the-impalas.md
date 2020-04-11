@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sorry--i-ran-all-the-way-home--the-impalas
+lyrics_url: https://genius.com/Impalas-sorry-i-ran-all-the-way-home-lyrics
 name: Sorry (I Ran All The Way Home)
 rankings:
 - end_date: '1959-03-22'
@@ -79,4 +80,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
-
+Sorry, sorry, oh so sorry
+SPOKEN: Uh-oh!
+**I ran all the home
+Just to say I'm sorry (sorry)
+What can I say?
+I ran all the way, yay, yay, yay **
+Repeat **

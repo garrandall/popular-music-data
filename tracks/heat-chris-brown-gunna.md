@@ -158,7 +158,7 @@ Looking like you, just tryna fuck (Just tryna fuck), yeah
 
 This drip got you in heat (In heat)
 Just jump in, baby girl, hop on this dick (This dick), yeah
-You know that I'ma beat {Yeah, yeah, yeah, yeah}
+You know that I'ma beat
 All this drip got your ass in heat (Got yours ass in it), yeah
 
 

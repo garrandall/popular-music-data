@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: rockhouse--part-2--ray-charles-and-his-orchestra

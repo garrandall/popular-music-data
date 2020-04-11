@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: free-bird-lynyrd-skynyrd
+lyrics_url: https://genius.com/Lynyrd-skynyrd-free-bird-lyrics
 name: Free Bird
 rankings:
 - end_date: '1974-11-29'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
 ---
+If I leave here tomorrow
+Would you still remember me?
+For I must be traveling on, now
+Cause there's too many places I've got to see
+But, if I stayed here with you, girl
+Things just couldn't be the same
+Cause I'm as free as a bird now
+And this bird you can not change
 
+
+Oh, oh, oh, oh, oh
+And this bird you can not change
+And this bird you can not change
+Lord knows, I can't change
+
+
+
+
+Bye, bye, baby, it's been a sweet love
+Though this feeling I can't change
+But please don't take it so badly
+Cause Lord knows I'm to blame
+But, if I stayed here with you, girl
+Things just couldn't be the same
+Cause I'm as free as a bird now
+And this bird you'll never change
+
+
+Oh, oh, oh, oh, oh
+And this bird you can not change
+And this bird you can not change
+Lord knows, I can't change
+Lord help me, I can't change
+
+
+Lord, I can't change
+Won't you fly high, free bird, yeah

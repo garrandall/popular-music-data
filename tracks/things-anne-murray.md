@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: things-anne-murray
+lyrics_url: https://genius.com/Anne-murray-things-lyrics
 name: Things
 rankings:
 - end_date: '1976-11-05'
@@ -19,4 +20,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
 ---
+Every night I sit here by my window
+Staring at the lonely avenue
+Watching lovers holding hands and laughing
+And thinking 'bout the things we used to do
 
+Chorus:
+(Thinking of things)
+Like a walk in the park
+(Things) like a kiss in the dark
+(Things) like a sailboat ride
+What about the night we cried
+
+Things like a lovers vow, things that we don't do now
+Thinking 'bout the things we used to do
+Memories are all I have to cling to
+And heartaches are the friends I'm talking to
+
+When I'm not thinking of
+Just how much I love you
+Well, I'm thinking bout the
+Things we used to do
+
+Chorus:
+(Thinking of things)
+Like a walk in the park
+(Things) like a kiss in the dark
+(Things) like a sailboat ride
+What about the night we cried
+
+Things like a lovers vow, things that we don't do now
+Thinking bout the things we used to do
+Still can hear the jukebox softly playing
+And the face I see it still belongs to you
+
+Now there's not a single sound
+There's nobody else around
+Well, it's just me thinking 'bout
+The things we used to do
+
+Chorus:
+(Thinking of things)
+Like a walk in the park
+(Things) like a kiss in the dark
+(Things) like a sailboat ride
+What about the night we cried
+
+Things like a lovers vow, things that we don't do now
+Thinking bout the things we used to do
+And heartaches are the friends I'm talking to
+Got me thinking 'bout the things we used to do
+
+Staring at the lonely avenue

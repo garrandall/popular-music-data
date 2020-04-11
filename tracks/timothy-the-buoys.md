@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: timothy-the-buoys
+lyrics_url: https://genius.com/The-buoys-timothy-lyrics
 name: Timothy
 rankings:
 - end_date: '1971-01-08'
@@ -75,4 +76,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
+Trapped in a mine what had caved in
+And everyone knows the only ones left
+Were Joe and me and Tim
 
+When they broke through to pull us free
+The only ones left to tell the tale
+Was Joe and me
+
+Timothy, Timothy
+Where on earth did you go?
+Timothy, Timothy
+God why don't I know?
+
+Hungry as hell no food to eat
+And Joe said that he would sell his soul
+For just a piece of meat
+
+Water enough to drink for two
+And Joe said to me, 'I'll take a swig
+And then there's some for you.'
+
+Timothy, Timothy
+Joe was looking at you
+Timothy, Timothy
+God, what did we do?
+
+I must've blacked out just 'bout then
+'Cause the very next thing that I could see
+Was the light of the day again
+
+My stomach was full as it could be
+And nobody ever got around
+To finding Timothy
+
+Timothy, Timothy
+Where on earth did you go?
+Timothy, Timothy
+God, why don't I know?
+
+Timothy
+Yeah
+Timothy
+
+Timothy
+Yeah
+Timothy

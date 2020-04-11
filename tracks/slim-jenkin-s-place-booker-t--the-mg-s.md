@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: slim-jenkin-s-place-booker-t--the-mg-s
+lyrics_url: https://genius.com/Booker-t-and-the-mgs-slim-jenkins-place-lyrics
 name: Slim Jenkin's Place
 rankings:
 - end_date: '1967-08-04'
@@ -28,4 +29,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
-
+Instrumental

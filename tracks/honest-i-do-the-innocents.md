@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honest-i-do-the-innocents
+lyrics_url: https://genius.com/The-innocents-honest-i-do-lyrics
 name: Honest I Do
 rankings:
 - end_date: '1960-08-21'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+I really love you
+Honest I do
+I do
+I really need you
+Honest I do
+I do
 
+Someone to talk to
+Someone to love
+Someone to hold me
+From heaven above
+
+Someone to hold
+Someone to love
+Someone to cherish
+From heaven above
+
+I really love you
+Honest I do
+I do
+
+Honest I do
+Honest I do

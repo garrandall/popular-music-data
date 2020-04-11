@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-you-tonight-ozark-mountain-daredevils
+lyrics_url: https://genius.com/Ozark-mountain-daredevils-take-you-tonight-lyrics
 name: Take You Tonight
 rankings:
 - end_date: '1980-05-30'
@@ -27,4 +28,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
 ---
+(HARP & GUITAR INTRO)
 
+No tell yo' mama
+
+No telephone
+
+No tellin' baby when I take you tonight
+
+Nobody baby
+
+Know where you gone
+
+No tellin' baby where I'll take you tonight
+
+Maybe inside of heaven
+
+But if I do
+
+No tellin' baby when I take you
+
+Make you
+
+Take you
+
+Tonight
+
+No tellin' baby
+
+Can't tell what's right
+
+No tellin' baby where I'll take you tonight
+
+Maybe inside of heaven
+
+Under the lights
+
+Just like a movie when I take you tonight
+
+Can't you just see us runnin'
+
+Right out of sight
+
+Nobody tellin' when I take you
+
+Make you
+
+Take you
+
+(GUITAR SOLO)
+
+(SLIDE SOLO)
+
+No tell yo' mama
+
+No telephone
+
+No tellin' baby when I take you tonight
+
+Nobody baby
+
+Know where you gone
+
+No tellin' baby where I'll take you tonight
+
+Maybe inside of heaven
+
+But if I do
+
+No tellin' baby when I take you
+
+Make you
+
+Take you
+
+(SLIDE SOLO)
+
+Lyrics are copyright 1980, Steve Cash, John Dillon & Larry Lee

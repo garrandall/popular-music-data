@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-awhile-dusty-springfield
+lyrics_url: https://genius.com/Dusty-springfield-stay-awhile-lyrics
 name: Stay Awhile
 rankings:
 - end_date: '1964-04-03'
@@ -35,4 +36,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
 ---
+Stay awhile, let me hold you
+Stay awhile, 'til I've told you, oh, oh
+Of the love that I feel tonight, oh yeah
 
+Stay awhile, what's your hurry?
+Stay awhile, 'cause I worry, oh
+Any time that you're out of sight
+
+I hate to see you go
+Tell you what I'll do
+I'll be good to you
+I'll make you glad that you are mine
+So come on baby
+
+Treat me right, must you run now?
+For the night's just begun now, oh
+Honey please, won't you stay awhile with me?, oh yeah, yeah
+
+Oh, I hate to see you go
+Tell you what I'll do
+I'll be good to you
+I'll make you glad that you are mine
+So come on baby
+
+Treat me right, must you run now?
+For the night's just begun now, oh
+Honey please, won't you stay awhile with me?, oh yeah, yeah
+Stay awhile with me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-u-feel-it-3rd-party
+lyrics_url: https://www.musixmatch.com/lyrics/3rd-Party/Can-U-Feel-It
 name: Can U Feel It
 rankings:
 - end_date: '1997-05-09'
@@ -87,4 +88,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-09-13'
 ---
+Friday night and it's the weekend
+Everybody's speaking
+Let the party people show you how
+Ain't nobody gonna stop us now
+No, no
 
+And we're doing what we wanna
+Everybody's gonna
+Gonna party till the break of dawn
+And the dj's jamming all night long
+Oh, yeah
+
+Can you feel it in the air
+When the music's playing?
+People everywhere are saying
+(Oh, oh, oh, oh)
+
+Can you feel it in the beat
+When your body's moving?
+And you're in so deep and grooving
+(Oh, oh, oh, oh)
+
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+
+And we're doing what we wanna
+Everybody's gonna
+Gonna party till the break of dawn
+And the dj's jamming all night long
+All night long
+
+You can do what you wanna do
+It's your dream
+You can make it come true
+You can be what you wanna be
+It's your night and you know
+
+It's a party, yeah
+It's a party, yeah
+It's a party, yeah
+It's a party, yeah
+
+Can you feel it in the air
+When the music's playing?
+People everywhere are saying
+(Oh, oh, oh, oh)
+
+Can you feel it in the beat
+When your body's moving?
+And you're in so deep and grooving
+(Oh, oh, oh, oh)
+
+Can you feel it in the air
+When the music's playing?
+
+People everywhere are saying
+(Oh, oh, oh, oh)
+Can you feel it in the beat
+When your body's moving?
+
+And you're in so deep and grooving
+(Oh, oh, oh, oh)
+Oh, whoa, oh, whoa
+Oh, whoa, oh, whoa, oh
+
+Can you feel it, uh, huh
+Can you feel it
+
+You can do what you wanna do
+It's your dream
+You can make it come true
+You can be what you wanna be
+
+It's your world
+It's your life
+And you know
+It's just a party, yeah
+
+It's just a party, yeah
+Can you feel it in the air
+When the music's playing?
+People everywhere are saying
+
+(Oh, oh, oh, oh)
+Can you feel it in the beat
+When your body's moving?
+And you're in so deep and grooving
+
+(Oh, oh, oh, oh)
+Can you feel it in the air
+When the music's playing?
+People everywhere are saying
+(Oh, oh, oh, oh)
+Can you feel it in the beat
+When your body's moving?
+And you're in so deep and grooving
+(Oh, oh, oh, oh)
+Can you feel it in the air
+When the music's playing?
+People everywhere are saying
+(Oh, oh, oh, oh)
+Can you feel it in the beat
+When your body's moving?
+And you're in so deep and grooving
+(Oh, oh, oh, oh)
+Can you feel it?
+Feel it, feel it...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-boy-marty-wilde
+lyrics_url: https://genius.com/Marty-wilde-bad-boy-lyrics
 name: Bad Boy
 rankings:
 - end_date: '1960-02-14'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
 ---
+All the people down the street, whoever you meet
+Say I'm a bad boy, say I'm a bad boy
+Say I'm a bad boy
+Even dear old dad, when he gets mad
+Says I'm a bad boy, says I'm a bad boy
+Says I'm a bad boy
+Well, you see now, I got a girl
+And we stay out late, almost every night
+Well, the people just stare and they declare
+Well well, it just ain't right
+But if only they knew how I love you
+They'd say a bad boy, could be a good boy
+Who's just in love
 
+Well, you see now, I got a girl
+And we stay out late, almost every night
+Well, the people just stare and they declare
+Well well, it just ain't right
+But if only they knew how I love you
+They'd say a bad boy, could be a good boy
+Who's just in love
+So much in love
+So crazy in love
+So much in love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-inevitable-charlie
+lyrics_url: https://www.musixmatch.com/lyrics/Charlie-2/It-s-Inevitable
 name: It's Inevitable
 rankings:
 - end_date: '1983-07-01'
@@ -51,4 +52,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
 ---
+Don't tell me you ain't
+Noticed I'm always around
+I've seen you looking
+You always know just
+Where I'll be found
 
+Our eyes meet
+That smile you can't hide
+Tells me what you're feeling inside
+Those eyes cannot lie
+
+
+It's inevitable
+Like the heat of the sun
+It's inevitable
+I'm gonna make you the one
+It's inevitable
+Like the fire in your touch
+It's inevitable
+Cause I want you
+I want you so much
+
+You sit talking with friends
+But you're looking for me
+I ain't fooling myself
+This is no fantasy
+
+Bodies talk louder than words
+You're talking and I overheard
+Emotions are stirred
+
+
+
+I watch him standing with you
+But there's a spark in your eye
+So let's rendezvous
+It's time that you realize
+
+You gotta follow your heart
+You gotta make every second count
+Stop fooling around, come to me
+
+So don't tell me you ain't
+Noticed I'm always around
+I've seen you looking
+You always know just
+Where I'll be found
+
+It's only a matter of time
+Don't fight it
+You can't run this time
+You're gonna be mine

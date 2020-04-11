@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-help-falling-in-love-al-martino
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Can-t-Help-Falling-in-Love
 name: Can't Help Falling In Love
 rankings:
 - end_date: '1970-02-13'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+Wise men say
+Only fools rush in
+But I can't help
+Falling in love with you
 
+Shall I stay
+Would it be a sin
+If I can't help
+Falling in love with you
+
+Like a river flows
+Surely to the sea
+Darling, so it goes
+Some things are meant to be
+
+Take my hand
+Take my whole life too
+For I can't help
+Falling in love with you
+
+For I can't help
+Falling in love with you
+
+Take my hand
+Take my whole life too
+For I can't help
+Falling in love with you
+
+For I can't help
+Falling in love with you

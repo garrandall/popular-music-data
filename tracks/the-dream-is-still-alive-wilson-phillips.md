@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-dream-is-still-alive-wilson-phillips
+lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Phillips/The-Dream-Is-Still-Alive
 name: The Dream Is Still Alive
 rankings:
 - end_date: '1991-06-07'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
 ---
+Not so long ago we were so in phase
+You and I could never forget the days
+But then the fire seemed to flicker
+Cold wind came and it carried us away
+But we'll get back someday, baby
 
+The dream is still alive
+Look here in my eyes
+Can you see what I'm feeling?
+The dream is still alive
+The one of you and I
+And my heartache is healing
+I couldn't let it die
+No I knew it would survive
+The dream is still alive
+
+Not so long ago in a purple haze
+People dreamed out loud they were not afraid
+They stopped the war but not the dying
+Some got a little bit lost along the way
+But somehow we're here today
+And we say
+
+The dream is still alive
+After all this time
+The flame keeps on burning
+The dream is still alive
+The one of you and I
+And my heart keeps returning
+I couldn't let it die
+No I knew it would survive
+The dream is, the dream is still alive
+
+Oh yeah.
+
+The dream is still alive
+Look here in my eyes
+Can you see what I'm feeling
+The dream is still alive
+The one of you and I
+And my heartache is healing
+I couldn't let it die
+For all the times we tried
+The dream is still alive

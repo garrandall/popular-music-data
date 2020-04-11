@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: israelites-desmond-dekker-and-the-aces
+lyrics_url: https://genius.com/Desmond-dekker-and-the-aces-israelites-lyrics
 name: Israelites
 rankings:
 - end_date: '1969-05-23'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
 ---
+Get up in the morning, slaving for bread, sir
+So that every mouth can be fed
+Poor me, the Israelite, ah
 
+Get up in the morning, slaving for bread, sir
+So that every mouth can be fed
+Poor me, the Israelite
+
+My wife and my kids, they pack up and leave me
+Darling, she said, I was yours to be seen
+Poor, poor me, the Israelite
+
+Shirt them a-tear up, trousers are go
+I don't want to end up like Bonnie and Clyde
+Poor me, the Israelite
+
+After a storm there must be a calm
+If they catch me in the farm, you sound your alarm
+Poor, poor, poor me, the Israelite, yee
+
+I said I get up in the morning, slaving for bread, sir
+So that every mouth can be fed
+Poor me, the Israelite, ah
+
+I said my wife and my kids, they pack up and leave me
+Darling, she said, I was yours to be seen
+Poor me, the Israelite
+
+Look, me shirt them a-tear up, trousers are go
+I don't want to end up like Bonnie and Clyde
+Poor, poor me, the Israelite, ah
+
+After a storm there must be a calm
+If they catch me in the farm, you sound your alarm
+Poor, poor me, the Israelite, yee-ee-ee
+
+Poor, poor, poor, poor me, the Israelite
+I'm wondering and working so hard
+Poor, poor, poor, poor me, the Israelite
+I look down and out, sir

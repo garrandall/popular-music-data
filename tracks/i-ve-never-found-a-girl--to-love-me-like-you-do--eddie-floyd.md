@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-never-found-a-girl--to-love-me-like-you-do--eddie-floyd
+lyrics_url: https://genius.com/Eddie-floyd-ive-never-found-a-girl-to-love-me-like-you-do-lyrics
 name: I've Never Found A Girl (To Love Me Like You Do)
 rankings:
 - end_date: '1968-08-02'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
+Ain't no love, ain't no love, like my baby's love
+It's like burnin' fire, set off in my bones
+Ain't no lonely days, ain't no lonely lonely lonely nights
+Every little thing that she does
+I know the girl's alright
 
+'Cause I ain't never, never, found me a girl
+Love me like you do, to love me like you do
+
+Ain't no man, ain't no man, go a little woman like me
+You got all the lovin' honey, what a sweet girl can claim
+You're every poor boys dream, and every rich mans friend
+But I don't need money, honey
+'Cause you're always there
+
+'Cause I ain't never, never, found me a girl
+Love me like you do, to love me like you do
+
+No I ain't never, never, found me a girl
+Love me like you do, to love me like you do
+To love me like you do
+
+No I ain't never, never, found me a girl
+Like you do

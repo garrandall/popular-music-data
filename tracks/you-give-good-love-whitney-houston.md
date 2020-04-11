@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-give-good-love-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-you-give-good-love-lyrics
 name: You Give Good Love
 rankings:
 - end_date: '1985-05-17'
@@ -91,4 +92,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+I found out what I've been missing
+Always on the run
+I've been looking for someone
 
+
+Now you're here, like you've been before
+And you know just what I need
+It took some time for me to see that you give good love to me
+Baby, so good
+Take this heart of mine into your hands
+You give good love to me
+Never too much
+Baby, you give good love
+
+
+Never stopping
+I was always searching for that perfect love
+The kind that girls like me dream of
+
+
+Now you're here, like you've been before
+And you know just what I need
+It took some time for me to see that you give good love to me
+Baby, so good
+Take this heart of mine into your hands
+You give good love to me
+Never too much
+Baby, you give good love
+
+
+Now I, I can't stop looking around
+It's not what this love's all about
+Our love is here to stay, stay
+
+
+Now you're here, like you've been before
+And you know just what I need
+It took some time for me to see that you give good love to me
+Baby, so good
+Take this heart of mine into your hands
+You give good love to me
+Never too much
+Baby, you give good love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-boxes-pete-seeger
+lyrics_url: https://genius.com/Pete-seeger-little-boxes-lyrics
 name: Little Boxes
 rankings:
 - end_date: '1964-01-17'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
 ---
+Little boxes on the hillside
+Little boxes made of ticky tacky
+Little boxes
+Little boxes
+Little boxes all the same
+There's a green one and a pink one
+And a blue one and a yellow one
+And they're all made out of ticky tacky
+And they all look just the same
 
+And the people in the houses all went to the university
+And they all get put in boxes, little boxes all the same
+And there's doctors and there's lawyers
+And business executives
+And they all get put in boxes, and they all come out the same
+And they all play on the golf course and drink their martini dry
+And they all have pretty children and the children go to school
+And the children go to summer camp
+And then to the university
+And they all get put in boxes, and they all come out the same
+And the boys go into business and marry and raise a family
+And they all get put in boxes, little boxes all the same
+
+There's a green one, and a pink one
+And a blue one and a yellow one
+And they're all made out of ticky tacky
+And they all look just the same

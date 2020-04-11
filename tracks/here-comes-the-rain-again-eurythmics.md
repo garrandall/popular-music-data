@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-comes-the-rain-again-eurythmics
+lyrics_url: https://genius.com/Eurythmics-here-comes-the-rain-again-lyrics
 name: Here Comes The Rain Again
 rankings:
 - end_date: '1984-02-03'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
 ---
+Here comes the rain again
+Falling on my head like a memory
+Falling on my head like a new emotion
+I want to walk in the open wind
+I want to talk like lovers do
+Want to dive into your ocean
+Is it raining with you?
 
+
+So baby talk to me
+Like lovers do
+Walk with me
+Like lovers do
+Talk to me
+Like lovers do
+
+
+Here comes the rain again
+Raining in my head like a tragedy
+Tearing me apart like a new emotion
+Oooooh
+I want to breathe in the open wind
+I want to kiss like lovers do
+Want to dive into your ocean
+Is it raining with you?
+
+
+So baby talk to me
+Like lovers do
+Walk with me
+Like lovers do
+Talk to me
+Oooooh
+Like lovers do
+
+So baby talk to me
+Like lovers do
+
+Oooooh
+Oooooh yeah
+Here it comes again
+Oooooh
+Hey, hey, hey, hey, hey, hey, hey
+
+
+Here comes the rain again
+Falling on my head like a memory
+Falling on my head like a new emotion
+(Here it comes again, here it comes again)
+I want to walk in the open wind
+I want to talk like lovers do
+Want to dive into your ocean
+Is it raining with you?
+
+
+Oooooh
+Here comes the rain again
+Falling on my head like a memory
+Falling on my head like a new emotion
+I want to walk in the open wind
+I want to talk like lovers do
+Want to dive into your ocean
+Is it raining with you?

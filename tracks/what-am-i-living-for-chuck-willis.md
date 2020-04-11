@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-am-i-living-for-chuck-willis
+lyrics_url: https://genius.com/Chuck-willis-what-am-i-living-for-lyrics
 name: What Am I Living For
 rankings:
 - end_date: '1958-08-10'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
+What am I living for, if not for you?
+What am I living for, if not for you?
+What am I living for, if not for you?
+Oh, nobody else, nobody else will do
 
+What am longing for, each lonely night?
+To feel your lips to mine and hold you tight
+You'll be my little girl my whole life through
+Baby, nobody else, nobody else will do
+
+I want you close to me, that's all I know
+I want you all the time, cause darling I love you so
+
+What am I living for, if not for you?
+What am I living for, if not for you?
+What am I living for, if not for you?
+Oh, nobody else, nobody else will do
+Oh, nobody else, nobody else will do
+Baby, nobody else, nobody else will do

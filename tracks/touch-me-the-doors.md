@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-me-the-doors
+lyrics_url: https://genius.com/The-doors-touch-me-lyrics
 name: Touch Me
 rankings:
 - end_date: '1969-01-03'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
 ---
+Yeah! Come on, come on, come on, come on
+Now touch me, babe
+Can't you see that I am not afraid?
+What was that promise that you made?
+Why won't you tell me what she said?
+What was that promise that you made?
 
+
+Now, I'm going to love you
+Till the heavens stop the rain
+I'm going to love you
+Till the stars fall from the sky for you and I
+
+
+Come on, come on, come on, come on
+Now touch me, babe
+Can't you see that I am not afraid?
+What was that promise that you made?
+Why won't you tell me what she said?
+What was that promise that you made?
+
+
+Now, I'm going to love you
+Till the heavens stop the rain
+I'm going to love you
+Till the stars fall from the sky for you and  I
+
+I'm going to love you
+Till the heavens stop the rain
+I'm going to love you
+Till the stars fall from the sky for you and I
+
+
+
+
+Stronger than dirt

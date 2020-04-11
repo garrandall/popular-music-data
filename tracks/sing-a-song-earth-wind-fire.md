@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: sing-a-song-earth-wind-fire
+lyrics_url: https://genius.com/Earth-wind-and-fire-sing-a-song-lyrics
 name: Sing A Song
 rankings:
 - end_date: '1975-11-28'
@@ -77,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
 ---
+When you feel down and out
+Sing a song (it'll make your day)
+For you, it's the time to shout
+Sing a song (it'll make a way)
+Sometimes it's hard to care
+Sing a song (it'll make your day)
+A smile so hard to bear
+Sing a song (it'll make a way)
 
+
+Sing a song
+Sing a song
+Sing a song
+Sing a song
+
+
+Bring your heart to believing
+Sing a song (it'll make your day)
+Life ain't about no retrieving
+Oh yeah (it'll make a way)
+Give yourself what you need
+Sing a song (it'll make your day)
+Smile, smile, smile and believe
+Sing a song (it'll make a way)
+
+
+Sing a song
+Sing a song
+Sing a song
+Sing a song
+
+
+?
+
+
+Sing a song
+Sing a song
+Sing a song
+Sing a song
+
+
+If you sing a song a day
+You will make a better way
+Yeah yeah yeah yeah
+Yeah yeah yeah yeah, uh huh

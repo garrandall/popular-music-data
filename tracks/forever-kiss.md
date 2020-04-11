@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-kiss
+lyrics_url: https://genius.com/Kiss-forever-lyrics
 name: Forever
 rankings:
 - end_date: '1990-02-09'
@@ -75,4 +76,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
 ---
+I got to tell you what I'm feeling inside, I could lie to myself, but it's true
+There's no denying when I look in your eyes, girl I'm out of my head over you
+I lived so long believin' all love is blind
+But everything about you is tellin' me this time
 
+
+It's forever, this time I know and there's no doubt in my mind
+Forever, until my life is thru, girl I'll be loving you forever
+
+
+I hear the echo of a promise I made
+When you're strong you can stand on your own
+But those words grow distant as I look at your face
+No, I don't want to go it alone
+I never thought I'd lay my heart on the line
+But everything about you is telling me this time
+
+
+It's forever, this time I know and there's no doubt in my mind
+Forever, until my life is thru, girl I'll be loving you forever
+
+Yeah!
+
+
+I see my future when I look in your eyes
+It took your love to make my heart come alive
+Because I lived my life believing all love is blind
+But everything about you is telling me this time
+
+
+It's forever, this time I know and there's no doubt in my mind
+Forever, until my life is thru, girl I'll be loving you forever
+
+It's forever, this time I know and there's no doubt in my mind
+Forever, until my life is thru, girl I'll be loving you forever

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talk-it-over-grayson-hugh
+lyrics_url: https://genius.com/Grayson-hugh-talk-it-over-lyrics
 name: Talk It Over
 rankings:
 - end_date: '1989-06-30'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
 ---
+Harsh words are spoken
+Promises are broken
+Old wounds are opened
+And love walks out that door
 
+Too proud to make up
+You're ready to break up
+Too late you wake up
+And love walks out that door
+
+Baby, oh sweet baby
+I didn't mean a word that I said
+(Well now) you know that I love you
+Can't we talk it over in bed
+
+I never meant to hurt you
+Must have been out of my head
+Tell me that you still want me
+Can't we talk it over in bed
+(talk, talk, talk it over)
+
+Harsh words are spoken
+Promises are broken
+Old wounds are opened
+And love walks out that door
+
+Too proud to make up
+You're ready to break up
+Too late you wake up
+And love walks out that door
+
+Come on a little closer
+Can't we just forgive and forget
+Everything seems to work out
+I never meant to hurt you
+I must have been out of my head
+Tell me that you still want me
+Can't we talk it over in bed
+
+Don't let it no don't let it slip away
+Oh no baby ooh

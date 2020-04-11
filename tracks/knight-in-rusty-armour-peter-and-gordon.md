@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: knight-in-rusty-armour-peter-and-gordon
+lyrics_url: https://genius.com/Peter-and-gordon-knight-in-rusty-armour-lyrics
 name: Knight In Rusty Armour
 rankings:
 - end_date: '1966-12-30'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+Long ago in days of old
+There lived a knight who
+Wasn't quite as bold
+As a knight should be
 
+He rode an old grey mare called Bess
+Searchin' for a damsel in distress
+Just to see if he
+Could set her free
+
+See the knight in rusty armour ride
+To her aid
+Trusty sword is hanging at his side
+With a rusty blade
+
+Up the tower steps he sneaked
+But as he moved
+His rusty armour squeaked
+Such a mournful note
+
+And all the sentries at their posts
+Thought it must have been the castle ghost
+They jumped for their lives
+In the moat
+
+So the knight in rusty armour won
+His fair maid
+Had no need to draw his trusty sword
+With a rusty blade
+
+As he bent to kiss his bride
+He found that he was rusted up inside
+In his battle dress
+And I can't guess
+
+How they still got married and had twins
+They came in tins
+Every suit of armour ever made has a kink
+Chainmail pants with a missing link

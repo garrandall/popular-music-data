@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-help-me-i-m-falling-hank-locklin
+lyrics_url: https://www.musixmatch.com/lyrics/Hank-Locklin/Please-Help-Me-I-m-Falling-1960
 name: Please Help Me I'm Falling
 rankings:
 - end_date: '1960-05-29'
@@ -95,4 +96,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+Please help me, I'm falling
+In love with you
+Close the door to temptation
+Don't let me walk through
 
+Turn away from me, darling
+I'm begging you to
+Please help me, I'm falling
+In love with you
+
+I belong to another
+Whose arms have grown cold
+But I promised forever
+To have and to hold
+
+I can never be free, dear
+But when I'm with you
+I know that I'm losing
+The will to be true
+
+Please help me, I'm falling
+And that would be sin
+Close the door to temptation
+Don't let me walk in
+
+For I mustn't want you
+But, darling, I do
+Please help me, I'm falling
+In love with you

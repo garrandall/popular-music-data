@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-lui-louise-ironhorse
+lyrics_url: https://www.musixmatch.com/lyrics/IronHorse/Sweet-Lui-Louise
 name: Sweet Lui-Louise
 rankings:
 - end_date: '1979-03-23'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+I know youve been out runnin
+When you're done with all your runnin
+Run to me-e-e
 
+I know you love your lovin
+And when you're done with all your lovin
+Come to me-e-e
+
+My Sweet Louise, my sweet Louise
+Sweet, sweet, sweet, Louise, my sweet Louise
+My sweet Loui-e-e-ese, my sweet Louise
+Sweet, sweet, Lui-Louise
+Sweet Louise
+
+I know of things your dreamin
+And when you wake up from your dreamin
+Come to me-e-e
+
+Find things to believe in
+And when you live what you believe in
+Come to me-e-e
+
+My sweet Louise, my sweet Louise
+Sweet, sweet, sweet Lui- Louise
+My sweet Louise, my sweet Louise
+My sweet Louise, my sweet Lui-Lui- Louise
+My sweet Louise
+
+You're spinnin round in circles
+When your life comes full circle
+Come to me-e-e
+
+Look for new direction
+And if you come in my direction
+Please stay with me
+
+My sweet Louise, my sweet Louise
+Sweet, sweet Lui-Lui-Louise
+My sweet Louise, my sweet Lou-eeee-ise
+Sweet Louise, my sweet Louise
+Lui-Lui-Louise, my sweet Louise
+
+Chorus

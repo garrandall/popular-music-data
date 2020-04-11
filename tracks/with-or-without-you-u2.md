@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-or-without-you-u2
+lyrics_url: https://genius.com/U2-with-or-without-you-lyrics
 name: With or Without You
 rankings:
 - end_date: '1987-03-27'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
 ---
+See the stone set in your eyes
+See the thorn twist in your side
+I'll wait for you
+Sleight of hand and twist of fate
+On a bed of nails she makes me wait
+And I wait without you
 
+
+With or without you
+With or without you
+
+
+Through the storm, we reach the shore
+You give it all but I want more
+And I'm waiting for you
+
+
+With or without you
+With or without you, ah-ah
+I can't live with or without you
+
+
+And you give yourself away
+And you give yourself away
+And you give, and you give
+And you give yourself away
+
+
+My hands are tied, my body bruised
+She got me with nothing to win
+And nothing left to lose
+
+
+And you give yourself away
+And you give yourself away
+And you give, and you give
+And you give yourself away
+
+
+With or without you
+With or without you, ohh
+I can't live with or without you
+
+
+With or without you
+With or without you, ohh
+I can't live with or without you
+With or without you

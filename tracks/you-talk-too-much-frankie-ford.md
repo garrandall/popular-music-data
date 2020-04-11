@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-talk-too-much-frankie-ford
+lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Ford/You-Talk-Too-Much
 name: You Talk Too Much
 rankings:
 - end_date: '1960-10-02'
@@ -23,4 +24,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+You talk too much, you worry me to death,
+You talk too much, you even worry my pet.
+You just talk, talk too much.
 
+You talk about people that you don't know,
+You talk about people wherever you go.
+You just talk, talk too much.
+
+You talk about people that you've never seen,
+You talk about people, you can make me scream.
+You just talk, you talk too much.

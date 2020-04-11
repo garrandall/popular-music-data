@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-get-enough-bad-company
+lyrics_url: https://genius.com/Bad-company-cant-get-enough-lyrics
 name: Can't Get Enough
 rankings:
 - end_date: '1974-08-23'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
 ---
+Well, I take whatever I want
+And baby, I want you
+You give me something I need
+Now tell me I got something for you
 
+Come on, come on, come on and do it
+Come on and-uh do what you do
+
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+Listen
+
+Well, it's late and I want love
+Love that's gonna break me in two
+Don't you hang me up in your doorway
+Don't you hang up like you do
+
+Say it
+Come on, come on, come on and do it
+Come on, come on, do what you do, Woo!
+
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+Well I say now
+
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+Say it again, aah
+I can't get enough of your love
+I can't get enough of your love
+I can't get enough of your love
+
+I've got to tell ya baby, that I
+I love you so much I can't get enough of your love
+I love you so much I can't get enough of your love
+I can't get enough of your love
+
+Mmm, you know what I'm saying baby
+I can't get enough of your love
+
+I can't get enough, enough of your love
+I can't get enough, enough of your love
+I can't get enough of your love, Yeah
+Woo! Ah, come on baby
+Come over here right now
+Oh oh oh oh...

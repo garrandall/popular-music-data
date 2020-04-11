@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-bet-you-funkadelic
+lyrics_url: https://www.musixmatch.com/lyrics/Funkadelic/I-ll-Bet-You
 name: I'll Bet You
 rankings:
 - end_date: '1969-10-10'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Ice cubes on a red hot stove will melt, and I'll bet ya,
+A drowning man bet his first words are help, and I'll bet ya,
+If you bet on a horse and the horse don't win, you lose, and I'll bet ya,
+If you try, to sit on air, you're gonna fall, and I'll bet ya,
 
+If you want a winning hand,
+If you want a perfect man,
+I'll bet you never lose with love,
+I'm gonna win, and I'll bet ya,
+Bet you never lose with love,
+I'm gonna win, and I'll bet ya,
+
+Take a car, without fuel, it ain't gonna move, and I'll bet ya,
+A carpenter can't build his house without any tools, and I'll bet ya,
+If your shoes are too small, they hurt your feet, and I'll bet ya,
+And you can't know what's goin' on, if you're asleep, oh I'll bet ya,
+
+If you want a winning hand,
+If you want a perfect man,
+I'll bet you never lose with love,
+I'm gonna win, and I'll bet ya,
+Bet you never lose with love,
+I know I'm gonna win, and I'll bet ya,
+
+Ooooh, (ooooh)
+Aaargh, aaargh
+
+I'll bet you never lose with love,
+I'm gonna win, and I'll bet ya,
+Bet you never lose with love,
+I know I'm gonna win, and I'll bet ya

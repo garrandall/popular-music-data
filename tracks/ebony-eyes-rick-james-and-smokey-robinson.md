@@ -1,6 +1,7 @@
 ---
 artists:
-- Rick James And Smokey Robinson
+- Rick James
+- Smokey Robinson
 features: []
 genres: []
 key: ebony-eyes-rick-james-and-smokey-robinson

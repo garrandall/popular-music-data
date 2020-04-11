@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-it-real-the-jets
+lyrics_url: https://genius.com/The-jets-group-make-it-real-lyrics
 name: Make It Real
 rankings:
 - end_date: '1988-04-22'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
+Tonight it's been a year
+We met each other here
+Here I am all alone
+As thoughts of you go on
 
+
+Hear me crying out to you
+You said
+Never, never
+Would I leave
+
+Here's a tear
+From me to you
+And maybe it will make you hear me
+
+
+I loved you
+You didn't feel the same
+Though we're apart
+
+You're in my heart
+Give me one more chance to
+Make it real
+
+
+In a dream you are here
+You smile and hold me near
+And in my heart
+I'll pretend
+That you are here again
+
+
+
+
+
+Give me one more chance
+To make it real

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-bet-money-honey-linda-scott
+lyrics_url: https://genius.com/Linda-scott-dont-bet-money-honey-lyrics
 name: Don't Bet Money Honey
 rankings:
 - end_date: '1961-07-09'
@@ -63,4 +64,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
 ---
+Don't bet money, honey, our love will last
+Don't bet money, honey, I know the past
+You lied to me before and I know
+You'll lie, yes you'll lie again
 
+I told you once, I told you twice
+And maybe even three times before
+That our love could never be
+Now I was right, you know I'm right
+Oh baby, how you know I'm right
+Can't you see what you're doin' to me
+
+Don't bet money, honey, our love will last
+Don't bet money, honey, I know the past
+You lied to me before and I know
+You'll lie, yes, you'll lie again
+
+Don't bet money, honey our love will last
+Don't bet money, honey I know the past
+You lied to me before and I know
+You'll lie, yes you'll lie, I know I'll be right
+You'll lie, yes you'll lie again

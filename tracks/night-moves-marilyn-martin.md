@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: night-moves-marilyn-martin
+lyrics_url: https://genius.com/Marilyn-martin-night-moves-lyrics
 name: Night Moves
 rankings:
 - end_date: '1986-01-24'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
 ---
+Slippin' away
+Silently we took the night
+He pulled the shades
+Locking out the neon lights
+The room was dark
+Our shadows danced in perfect time
+But I held on
+To what was for this moment mine
 
+We're on the edge
+Reachin' the point of no return
+Caught in a web, daring to touch
+Is it the love of the danger
+Or the danger of the love
+
+You know I'm not afraid of your night moves
+You know I'm not afraid of your night moves
+Dangerous games we play
+But you know I'm not afraid
+
+Secret ways
+Always having to pretend
+We play the game
+Outraged innocence
+Stealin' away
+Silently into the night
+Separate ways
+Strangers in the morning light
+
+We're on the edge
+Reachin' the point of no return
+Caught in a web, daring to touch
+Is it the love of the danger
+Or the danger of the love
+
+You know I'm not afraid of your night moves
+You know I'm not afraid of your night moves
+Dangerous games we play
+But you know I'm not afraid
+
+You know I'm not afraid of your night moves
+You know I'm not afraid of your night moves
+Dangerous games we play
+But you know I'm not afraid
+
+You know I'm not afraid of your night moves
+You know I'm not afraid
+You know I'm not afraid of your night moves
+You know I'm not afraid
+You know I'm not afraid of your night moves

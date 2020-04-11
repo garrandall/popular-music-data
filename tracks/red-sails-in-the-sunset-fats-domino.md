@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-sails-in-the-sunset-fats-domino
+lyrics_url: https://genius.com/Fats-domino-red-sails-in-the-sunset-lyrics
 name: Red Sails In The Sunset
 rankings:
 - end_date: '1963-09-27'
@@ -39,4 +40,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
 ---
-
+Red sails in the sunset, way out on the sea
+Oh, carry my loved one, home safely to me
+She sailed at the dawning, all day I've been blue
+Red sails in the sunset, I'm trusting in you
+Swift wings we must borrow, make straight for the shore, oh yeah
+We'll marry tomorrow and you go sailing no more
+Red sails in the sunset, way out on the sea
+Oh, carry my loved one, home safely to me
+Oh yeah
+We'll marry tomorrow and you go sailing no more
+And red sails in the sunset, way out on the sea
+Oh, carry my loved one, home safely to me

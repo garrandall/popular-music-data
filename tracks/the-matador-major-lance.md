@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-matador-major-lance
+lyrics_url: https://genius.com/Major-lance-the-matador-lyrics
 name: The Matador
 rankings:
 - end_date: '1964-04-03'
@@ -39,4 +40,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
-
+Hey, everybody, everybody
+Have you been informed
+Hey, everybody, a new dance
+Has just been born
+And I know you
+Can do it too
+And then the grooving
+Begins to move
+Cause he's got it
+She's got it
+They've got it
+Oh, and I've got it
+So, you better get it
+I mean the Matador
+Listen, people
+People, listen
+Listen to what I say
+Listen people to
+What the music plays
+Cause the music will
+Go right through you
+And I know that
+It's gonna get to you
+Cause he's got it
+She's got it
+They've got it
+Oh, and I've got it
+So, you better get it
+I mean the Matador
+Yeah, cause it's alright
+Cause the music will
+Go right through you
+And I know that
+It's gonna get to you
+Cause he's got it
+She's got it
+They've got it
+And now you've got it
+So, lets get together
+And do the Matador, yeah
+Do the Matador
+Can be a big strong lion
+Oh, do the Matador
+I say the Matador

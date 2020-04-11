@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-might-have-been-little-texas
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Texas/What-Might-Have-Been
 name: What Might Have Been
 rankings:
 - end_date: '1993-08-13'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
 ---
+Sure I think about you now and then
+But it's been a long, long time
+Well I've got a good life now, I moved on
+So when you cross my mind
+I try not to think about what might have been
+Cause that was then and
+We have taken different roads
+We can't go back again
+There's no use giving in
+And theres no way to know
+What might have been
 
+We can sit and talk about this all night long
+And wonder why we didn't last
+Yes, they might be the best days we will ever know
+
+But we'll have to leave them in the past
+So try not to think about what might have been
+Cause that was then
+And we have taken different roads
+We can't go back again
+There's no use giving in
+And there's no way to know
+
+What might have been
+Same old look in your eyes,
+It's a beautiful night
+I'm so tempted to stay
+But too much time has gone by
+We should just say goodbye
+
+And turn and walk away
+Try not to think about what might have been
+Cause that was then and we have taken diffeerent roads
+We can't go back again
+Tthere's no use giving in
+And there's no way to know
+What might have been
+No we'll never know
+What might have been.

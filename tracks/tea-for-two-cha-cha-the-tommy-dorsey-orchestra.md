@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tea-for-two-cha-cha-the-tommy-dorsey-orchestra
+lyrics_url: https://genius.com/Tommy-dorsey-orchestra-tea-for-two-cha-cha-lyrics
 name: Tea For Two Cha Cha
 rankings:
 - end_date: '1958-09-07'
@@ -87,4 +88,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
 ---
+I don't care if the sun don't shine
+I get my loving in the evening time when I'm
+With my baby
+It's no fun with the sun around
+But I get going when the sun goes down
+And I meet my baby
 
+That's when we kiss and kiss and kiss and then we kiss some more
+Don't ask me how many times we kiss at a time like this
+Who keeps score
+
+So I don't care if the sun don't shine
+I get my loving in the evening time
+When I'm with my baby
+
+That's when we kiss and kiss and kiss and then we kiss some more
+Don't ask me how many times we kiss at a time like this
+Who keeps score
+So I don't care if the sun don't shine
+I get my loving in the evening time
+When I'm with my baby

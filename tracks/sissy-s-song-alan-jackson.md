@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sissy-s-song-alan-jackson
+lyrics_url: https://genius.com/Alan-jackson-sissys-song-lyrics
 name: Sissy's Song
 rankings:
 - end_date: '2009-05-01'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
 ---
+Why did she have to go
+So young I just don't know why
+Things happen half the time
+Without reason, without rhyme
+Lovely, sweet young woman
+Daughter, wife and mother
+Makes no sense to me
+I just have to believe
 
+
+She flew up to heaven on the wings of angels
+By the clouds and stars and passed where no one sees
+And she walks with Jesus and her loved ones waitin'
+And I know she's smilin' sayin', don't worry 'bout me
+
+
+Loved ones she left behind
+Just tryin' to survive
+And understand the why
+Feelin' so lost inside
+Anger shot straight at God
+Then askin' for His love
+Empty with disbelief
+Just hopin' that maybe
+
+
+She flew up to heaven on the wings of angels
+By the clouds and stars and passed where no one sees
+And she walks with Jesus and her loved ones waitin'
+And I know she's smilin' sayin', don't worry 'bout me
+
+
+It's hard to say goodbye
+Her picture in my mind
+Will always be of times I'll cherish
+And I won't cry 'cause
+
+
+She flew up to heaven on the wings of angels
+By the clouds and stars and passed where no one sees
+And she walks with Jesus and her loved ones waitin'
+And I know she's smilin' sayin', don't worry 'bout me
+
+
+Don't worry 'bout me
+Don't worry 'bout me

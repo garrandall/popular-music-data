@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: opposites-attract-paula-abdul-the-wild-pair
+lyrics_url: https://genius.com/Paula-abdulthe-wild-pair-opposites-attract-7-edit-lyrics
 name: Opposites Attract
 rankings:
 - end_date: '1989-12-22'
@@ -100,4 +101,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
 ---
+I'm M.C. Kat on the rap so mic it
+Here's a little story and you're sure to like it
+Swift and sly and I'm playing it cool
+With my homegirl Paula Abdul
 
+Baby seems we never
+Ever agree
+You like the movies
+And I like T.V
+
+I take things serious
+And you take 'em light
+I go to bed early
+And I party all night
+
+Our friends are sayin'
+We ain't gonna last
+'Cause I move slowly
+And baby I'm fast
+
+I like it quiet
+And I love to shout
+But when we get together
+It just all works out
+
+I take 2 steps forward
+I take 2 steps back
+We come together
+'Cause opposites attract
+And you know, it ain't fiction
+Just a natural fact
+We come together
+'Cause opposites attract
+
+Who would've thought
+We could be lovers
+She makes the bed
+And he steals the covers
+
+She likes it neat
+And he makes a mess
+I take it easy
+Baby I get obsessed
+
+She's got the money
+And he's always broke
+I don't like cigarettes
+I like to smoke
+
+Things in common?
+There just ain't a one
+But when we get together
+We have nothin' but fun
+
+I take 2 steps forward
+I take 2 steps back
+We come together
+'Cause opposites attract
+And you know, it ain't fiction
+Just a natural fact
+We come together
+'Cause opposites attract
+
+You know it, baby
+
+Nothing in common but this trust
+I'm like a minus, she's like a plus
+One going up, one coming down
+But we seem to land on common ground
+
+When things go wrong we make corrections
+To keep things moving in the right direction
+Try to fight it but I'm telling you Jack
+It's useless: opposites attract
+
+Baby, ain't it something how we lasted this long?
+You and me proving everyone wrong
+I don't think we'll ever get our differences patched
+It don't really matter 'cause we perfectly matched
+
+I take 2 steps forward
+I take 2 steps back
+We come together
+'Cause opposites attract
+And you know, it ain't fiction
+Just a natural fact
+We come together
+'Cause opposites attract
+
+2 steps forward
+2 steps back
+We come together
+'Cause opposites attract
+And you know, it ain't fiction
+Just a natural fact
+We come together
+'Cause opposites attract
+
+2 steps forward
+2 steps back
+We come together
+'Cause opposites attract
+It ain't fiction
+You know it's a fact
+We come together
+'Cause opposites attract
+
+2 steps forward
+2 steps back
+2 steps back
+'Cause opposites attract
+We come together
+We go together
+Opposites
+I said, opposites attract

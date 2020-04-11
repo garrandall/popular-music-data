@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful-you-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Wonderful-You
 name: Wonderful You
 rankings:
 - end_date: '1959-06-21'
@@ -35,4 +36,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
 ---
+Wonder-wonder-wonderful you
+Oh what a wonder just being under
+Moonlight when the night is new
+But I am betting it's just the setting
+For the wonder that is you.
 
+Dreams are a wonder
+Now that I understand
+Simply by seeing and always being
+With the wonder that is you
+
+Wonder-wonder-wonderful you
+Wonder-wonder-wonderful you.
+Wonder if you dear
+Want to be true dear
+Just to me your whole life through
+Wonderful lifetime man and wife-time
+With the wonder that is you.

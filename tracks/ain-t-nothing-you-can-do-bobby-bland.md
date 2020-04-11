@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-nothing-you-can-do-bobby-bland
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Bland-2/Ain-t-Nothing-You-Can-Do
 name: Ain't Nothing You Can Do
 rankings:
 - end_date: '1964-03-13'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+A-when you got a headache
+A-headache powder soothe the pain
+When you try to rest
+Lord, you feel alright again
 
+When you got a backache
+A little rubbin' will see you through
+But when you got a heartache
+There ain't nothin' you can do
+
+A man can't break a stone
+So he tries another lick
+An iceman can't cut his ice, no Lord
+So he buys another pick
+
+Electric lights go out
+But a candle light will see you through
+But when you got a heartache
+There ain't nothing you can do
+
+There ain't nothing you can do
+I said there ain't nothing you can do
+When you got a heartache
+There ain't nothing you can do
+
+A-when you a meet a friend
+You smile because you glad
+When a friend deceive you
+It makes you feel so bad
+
+When you lose your love one
+It makes you feel so blue
+And then you've got a heartache
+And there ain't nothing you can do
+
+Well, there ain't nothing you can do
+I said, there ain't nothing you can do
+Lordy!
+Ev'ry time I think about it
+
+I said, ev'rytime I get a li'l lonely, sometime
+There ain't nothin' you can do, baby, no Lord
+
+There ain't nothin' you can do
+Sometimes I get so lonely

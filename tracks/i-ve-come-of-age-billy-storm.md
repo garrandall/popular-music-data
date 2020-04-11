@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-come-of-age-billy-storm
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Storm/I-ve-Come-of-Age
 name: I've Come Of Age
 rankings:
 - end_date: '1959-04-19'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
+I've come of age
+To understand the spring
+To know the reason why
+A robin starts to sing
 
+I've come of age
+To see how dreams are born
+And know a heart can breathe
+Although it may be torn
+
+Too long a time
+Things has passed me by
+But I now have grown
+To meet them eye to eye
+
+I've come of age
+And all the world is new
+Because I've found with you
+Love to last the ages through
+
+Oh, I've come of age
+And all the world is new
+Because I've found with you
+Love to last the ages through

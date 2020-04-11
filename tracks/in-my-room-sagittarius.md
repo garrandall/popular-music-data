@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-room-sagittarius
+lyrics_url: https://www.musixmatch.com/lyrics/Sagittarius/In-My-Room
 name: In My Room
 rankings:
 - end_date: '1969-08-08'
@@ -15,4 +16,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
 ---
+There's a world where I can go
+And tell my secrets to
+In my room, in my room, my room
 
+In this world I lock out
+All my worries and my fears
+In my room, in my room, my room
+
+Do my dreaming and my scheming
+Lie awake and pray
+Do my crying and my sighing
+Laugh at yesterday
+
+Now it's dark and I'm alone
+But I won't be afraid
+In my room, in my room, my room
+In my room, in my room
+In my room, in my room

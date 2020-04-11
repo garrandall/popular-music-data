@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-sexy-thing-hot-chocolate
+lyrics_url: https://genius.com/Hot-chocolate-you-sexy-thing-lyrics
 name: You Sexy Thing
 rankings:
 - end_date: '1975-11-07'
@@ -91,4 +92,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
 ---
+I believe in miracles
+Where you from
+You sexy thing?
+I believe in miracles
+Since you came along
+You sexy thing
 
+Miracles right before my eyes
+You sexy thing got me hypnotised
+Don't stop what ya' doing
+What ya' doing to me
+My angel from above lying next to me
+How did ya' know that I'd be the one
+Been a long time coming only just begun
+Doing all the things that makes my heart sing
+Keep doing what you're doing you sexy thing
+
+How did ya' know I needed you so badly
+How did ya' know I gave my heart gladly
+Yesterday I was one of a lonely people
+Now you're lying next to me
+Making love to me
+
+I believe in miracles
+Where you're from
+You sexy thing
+You sexy thing
+I believe in miracles
+Since you came along
+You sexy thing
+
+Only yesterday I was on my own
+Just another day later my mind was blown
+You sexy thing come into my life
+Forever and a day it feels so right
+How did ya' know that I'd be the one
+Been a long time coming only just begun
+Doing all the things that makes my heart sing
+Keep doing what you're doing you sexy thing
+
+How did ya' know I needed you so badly
+How did ya' know I gave my heart gladly
+Yesterday I was one of a lonely people
+Now you're lying next to me
+Making love to me
+
+I believe in miracles
+Where you from
+You sexy thing?
+You sexy thing
+I believe in miracles
+Since you came along
+You sexy thing
+
+Kiss me baby
+You sexy thing
+You sexy thing
+
+Touch me baby
+You sexy thing
+You sexy thing

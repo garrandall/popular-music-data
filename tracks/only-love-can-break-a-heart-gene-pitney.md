@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-love-can-break-a-heart-gene-pitney
+lyrics_url: https://genius.com/Gene-pitney-only-love-can-break-a-heart-lyrics
 name: Only Love Can Break A Heart
 rankings:
 - end_date: '1962-09-21'
@@ -63,4 +64,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
 ---
+Only love can break a heart, only love can mend it again
 
+Last night I hurt you but darlin' remember this
+Only love can break a heart, only love can mend it again, mm, mm
+
+You know I'm sorry, I'll prove it with just one kiss
+Only love can break a heart, only love can mend it agai-ain
+
+Give me a chance to make up for the harm I've done
+Try to forgive me and let's keep the two of us one
+
+Please let me hold you and love you for always and always
+
+Only love can break a heart only love can mend it agai-ain
+Only love can break a heart only love can mend it again

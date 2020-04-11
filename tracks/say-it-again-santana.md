@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-it-again-santana
+lyrics_url: https://genius.com/Santana-say-it-again-lyrics
 name: Say It Again
 rankings:
 - end_date: '1985-03-01'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
+It gives me such a thrill
+When you tell me 'bout the way
+You feel
+It really makes my day
+I just love to hear you say
 
+
+Say it again, say it high say it low
+Say it again, so the whole wide
+World will know
+Say it, that you're still loving me
+Still loving me, still in love with me
+
+
+Say it again, tell me where, tell me when
+Say it again, that our love will never end
+Say it, that you're still loving me
+Still loving me, still in love with me
+
+
+You know it sounds so sweet
+It just knocks me right up off of
+My feet
+To hear you talk that way
+I just love to hear you say
+
+
+
+
+I hear the echoes in my mind
+They're calling to me all the time
+I hear those voices start to sing
+Again and again

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrong-for-each-other-andy-williams
+lyrics_url: https://genius.com/Andy-williams-wrong-for-each-other-lyrics
 name: Wrong For Each Other
 rankings:
 - end_date: '1964-04-24'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
 ---
+You go on your way
+I'll go on mine
+Please don't you call me
+Or drop me a line
 
+I'll be better off now
+With somebody new
+And you should find someone
+More suited to you
+
+Cause we're wrong for each other
+Wrong for each other
+Let's fight another round
+
+I couldn't explain it
+I can't tell you why
+I've got such a talent
+For making you cry
+
+And one day you'll thank me
+For saying so long
+For making an end to
+A love that was wrong
+
+Cause we're wrong for each other
+Wrong for each other
+Let's fight another round
+
+Cause we're wrong for each other
+Wrong for each other
+Wrong for each other
+Wrong for each other

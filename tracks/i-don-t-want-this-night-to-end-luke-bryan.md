@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-this-night-to-end-luke-bryan
+lyrics_url: https://www.musixmatch.com/lyrics/Luke-Bryan/I-Don-t-Want-This-Night-to-End
 name: I Don't Want This Night To End
 rankings:
 - end_date: '2011-10-21'
@@ -99,4 +100,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
 ---
+Girl, I know I don't know you
+But your pretty little eyes so blue
+Are pullin' me in like the moon on your skin
+I'm so glad you trusted me
+To slide up on this dusty seat
+And let your hair down, get outta town
 
+Got the stars comin' out
+Over my hood
+And all I know now
+Is it's goin' good
+
+You've got your hands up
+You're rockin' in my truck
+You got the radio on
+You're singin' every song
+I'm set on cruise control
+
+I'm slowly loosin' hope of everything I've got
+You're lookin' so damn hot
+And I don't know what road we're on
+Or where we've been from starin' at you
+Girl, all I know is I don't want this night to end
+
+Gonna cuss the mornin'
+When it comes
+'Cause I know that the risin' sun
+Ain't no good for me
+'Cause you'll have to leave
+Gonna make the most of every mile
+
+Do anything to make your smile
+Land on my lips
+Get drunk on your kiss
+Clock on the dash
+Says 3: 35
+There's plenty of gas
+And the night's still alive
+
+You've got your hands up
+You're rockin' in my truck
+You got the radio on
+You're singin' every song
+I'm set on cruise control
+
+I'm slowly loosin' hope of everything I've got
+You're lookin' so damn hot
+And I don't know what road we're on
+Or where we've been from starin' at you
+Girl, all I know is I don't want this night to end
+
+You've got your hands up
+You're rockin' in my truck
+You've got the radio on
+You're singin' every song
+I'm set on cruise control
+
+I'm slowly loosin' hope of everything I've got
+You're lookin' so damn hot
+And I don't know what road we're on
+Or where we've been from starin' at you
+Girl, all I know is I don't want this night to end
+I don't want this night to end
+No I don't want this night to end

@@ -1,6 +1,6 @@
 ---
 artists:
-- Martin Mull and Orchestra
+- Martin Mull
 features: []
 genres: []
 key: dueling-tubas-martin-mull-and-orchestra

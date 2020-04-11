@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: triangle-janie-grant
+lyrics_url: https://genius.com/Janie-grant-triangle-lyrics
 name: Triangle
 rankings:
 - end_date: '1961-04-02'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
 ---
+Our love, our love is like a triangle
+Which one will have a broken heart
+The memories, the memories we shared together
+I can't believe you want us to part
 
+When you said you loved me
+I believed the words you said to me
+Now the tears are fallin, who comes to comfort me
+
+Who is it you love
+Make up your mind
+Don't torture me with kisses
+When I know your love is blind
+
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+
+When you said you loved me
+I believed the words you said to me
+Now the tears are fallin, who comes to comfort me
+
+Who is it you love
+Make up your mind
+Don't torture me with kisses
+When I know your love is blind

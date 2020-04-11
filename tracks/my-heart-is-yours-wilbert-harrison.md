@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-is-yours-wilbert-harrison
+lyrics_url: https://genius.com/Wilbert-harrison-my-heart-is-yours-lyrics
 name: My Heart Is Yours
 rankings:
 - end_date: '1971-03-19'
@@ -15,4 +16,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
 ---
+I don't want no one but you
+Find no one else, my dear, will do
+My darling you are my love
+I swear by stars above
+My turtle dove
 
+My love for you
+I can't hide
+Could not even if I tried
+You with your head full of curls
+You are my girl
+I tell the world
+
+My love for you
+I can't hide
+Could not even if I tried
+You with your head full of curls
+You are my girl
+I tell the world
+
+Your lips look so tender
+Here is my heart it's yours I surrender
+You are the one I desire
+You set my heart afire
+Don't make me cry
+
+Your lips look so tender
+Here is my heart it's yours I surrender
+You are the one I desire
+You set my heart afire
+Don't make me cry

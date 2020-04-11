@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teacher-teacher-rockpile
+lyrics_url: https://genius.com/Rockpile-teacher-teacher-lyrics
 name: Teacher Teacher
 rankings:
 - end_date: '1980-11-28'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+Young love, teacher's pet
+Cheeks flushed, apple red
+Ringing you every day
+Begging for a word of praise
+I've put aside my foolish games
+I run and hide and callin' names
+School's out, the bells'll ring
+Now's the time to teach me everything
 
+Teacher, teacher, teach me love
+I can't learn it fast enough
+Teacher, teacher, teach me more
+I've got to learn to love for sure
+
+Lesson one, just begun
+Growing up ain't much fun
+Grown up, out of school
+Out of luck and out of rules
+No one there to tell me how
+A different world, teacher teach me now
+
+Teacher, teacher, teach me love
+I can't learn it fast enough
+Teacher, teacher, teach me more
+I've got to learn to love for sure
+
+Lesson two, nothing new
+I can't love, just passing through
+
+Books I read don't understand
+What it means to be a man
+I need a woman just like you
+Teacher, teacher, teach me what to do
+
+Teacher, teacher, teach me love
+I can't learn it fast enough
+Teacher, teacher, teach me more
+I've got to learn to love for sure
+
+Teacher, teacher, teach me love
+I can't learn it fast enough
+Teacher, teacher, teach me more
+I've got to learn to love for sure
+
+Teacher, teacher, teach me love
+I can't learn it fast enough

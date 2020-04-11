@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: working-in-the-coal-mine-lee-dorsey
+lyrics_url: https://genius.com/Lee-dorsey-working-in-the-coal-mine-lyrics
 name: Working In The Coal Mine
 rankings:
 - end_date: '1966-07-29'
@@ -55,4 +56,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
 ---
+(Workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+(Workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
 
+
+Five o'clock in the mornin'
+I'm already up and gone
+Lord-a, I'm so tired
+How long can this go on?
+
+
+(Dat de workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+Workin' (in a coal mine)
+Goin' (down down down)
+Workin' (in a coal mine)
+Oops! (About to slip down)
+
+
+'Cause I make a lil morning
+Haul the coal by the ton
+But when Saturday rolls around
+I'm too tired for havin' fun
+(Too tired for havin')
+
+
+(I'm just workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+Workin' (in a coal mine)
+Goin' (down down down)
+Workin' (in a coal mine)
+Oops! (About to slip down)
+
+
+Lord, I'm so tired
+How long can this go on?
+
+
+(Dat de workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+Workin' (in a coal mine)
+Goin' (down down down)
+Workin' (in a coal mine)
+Oops! (About to slip down)
+
+
+Five o'clock in the mornin'
+I'm already up and gone
+Lord-a, I'm so tired
+How long can this go on?
+
+
+(Dat de workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+Workin' (in a coal mine)
+Goin' (down down down)
+Workin' (in a coal mine)
+Oops! (About to slip down)
+
+
+'Cause I make a lil morning
+Haul the coal by the ton
+But when Saturday rolls around
+I'm too tired for havin' fun
+(Too tired for havin')
+
+
+(I'm just workin' in a coal mine)
+(Goin' down down down)
+(Workin' in a coal mine)
+(Whoops! About to slip down)
+Workin' (in a coal mine)
+Goin' (down down down)
+Workin' (in a coal mine)
+Oops! (About to slip down)
+
+
+Lord, I'm so tired

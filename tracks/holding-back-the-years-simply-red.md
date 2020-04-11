@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holding-back-the-years-simply-red
+lyrics_url: https://genius.com/Simply-red-holding-back-the-years-lyrics
 name: Holding Back The Years
 rankings:
 - end_date: '1986-04-11'
@@ -99,4 +100,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
 ---
+Holding back the years
+Thinking of the fear I've had so long
+When somebody hears
+Listen to the fear that's gone
+Strangled by the wishes of pater
+Hoping for the arms of mater
+Get to me the sooner or later
 
+
+I'll keep holding on
+I'll keep holding on
+
+
+Holding back the years
+Chance for me to escape from all I've known
+Holding back the tears
+Cause nothing here has grown
+I've wasted all my tears
+Wasted all those years
+And nothing had the chance to be good
+Nothing ever could yeah, oh
+
+
+I'll keep holding on
+I'll keep holding on
+I'll keep holding on
+I'll keep holding on
+So tight
+
+
+I've wasted all my tears
+Wasted all of those years
+And nothing had the chance to be good
+Cause nothing ever could, oh, yeah
+Oh...
+
+
+I'll keep holding on
+I'll keep holding on
+I'll keep holding on
+I'll keep holding on
+Holding, holding, holding
+
+
+That's all I have today
+It's all I have to say

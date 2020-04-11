@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-a-god-vertical-horizon
+lyrics_url: https://genius.com/Vertical-horizon-youre-a-god-lyrics
 name: You're A God
 rankings:
 - end_date: '2000-09-01'
@@ -91,4 +92,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
 ---
+I've got to be honest
+I think you know
+We're covered in lies and that's okay
+But there's somewhere beyond this, I know
+But I hope I can find the words to say
 
+
+Never again, no
+No never again
+
+
+'Cause you're a god
+And I am not
+And I just thought that you would know
+You're a god
+And I am not
+And I just thought I'd let you go
+
+
+Though I've been unable
+To put you down
+I'm still learnin' things I ought to know by now
+It's under the table, so...
+I need somethin' more to show, somehow
+
+
+So never again, no
+No never again
+
+
+'Cause you're a god
+And I am not
+And I just thought that you would know
+You're a god
+And I am not
+And I just thought I'd let you go
+
+
+I've got to be honest
+I think you know
+We're covered in lies and that's okay
+But there's somewhere beyond this,I know
+But I hope I can find the words to say...
+
+
+Never again, no
+No never again
+
+
+'Cause you're a god
+And I am not
+And I just thought that you would know
+You're a god
+And I am not
+And I just thought I'd let you go
+
+
+(You're a god)
+Oh, and I am not
+(I just thought that you would know)
+Oh, I thought that would you know
+(You're a god)
+Oh, and I am not
+I just thought I'd let you go

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mama-don-t-allow-the-rooftop-singers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rooftop-Singers/Mama-Don-t-Allow
 name: Mama Don't Allow
 rankings:
 - end_date: '1963-07-26'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
 ---
+Mama don't allow no guitar playin' here
+Mama don't allow no guitar playin' here
+I don't care what Mama don't allow
+Gonna play that guitar anyhow
+Mama don't allow no guitar playin' here
 
+Mama don't allow no
+Mama don't allow no
+I don't care what Mama don't allow, gonna
+Mama don't allow no
+
+
+
+Mama don't allow no pluck, pick, pickin' here
+Mama don't allow no pluck, pick, pickin' here
+I don't care what Mama don't allow, gonna
+Mama don't allow no pluck, pick, pickin' here
+
+
+
+Mama don't allow no pi, pi, jing here
+Mama don't allow no pi, pi, jing here
+I don't care what Mama don't allow
+Gonna, pi, pi, jing, doo, pop, pow
+Mama don't allow no pi, pi, jing here
+
+
+
+
+
+I don't care what Mama don't allow
+Gonna play that guitar anyhow
+Mama don't allow no guitar playin' here

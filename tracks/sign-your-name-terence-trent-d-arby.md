@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sign-your-name-terence-trent-d-arby
+lyrics_url: https://genius.com/Terence-trent-darby-sign-your-name-lyrics
 name: Sign Your Name
 rankings:
 - end_date: '1988-06-03'
@@ -91,4 +92,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
 ---
+Fortunately you have got
+Someone who relies on you
+We started out as friends
+But the thought of you just caves me in
 
+The symptoms are so deep
+It is so much too late
+To turn away
+We started out as friends
+
+Sign your name across my heart
+I want you to be my baby
+Sign your name across my heart
+I want you to be my lady
+
+Time, I'm sure will bring
+Disappointments in so many things
+It seems to be the way
+When your gambling cards on love you play
+
+I'd rather be in hell
+With you baby
+Than in cool Heaven
+It seems to be the way
+
+Sign your name across my heart
+I want you to be my baby
+Sign your name across my heart
+I want you to be my lady
+
+Birds never look into the sun
+Before the day is gone
+But oh the light shines brighter
+On a peaceful day
+
+Stranger blue, leave us alone
+We don't want to deal with you
+We'll shed our stains showering
+In the room that makes the rain
+
+All alone with you
+Makes the butterflies in me arise
+Slowly we make love and the Earth rotates
+To our dictates, slowly we make love
+
+Sign your name across my heart
+I want you to be my baby
+Sign your name across my heart
+I want you to be my lady
+
+Sign your name across my heart
+I want you to be my baby
+Sign your name across my heart
+I want you to be my lady
+
+Sign your name across my heart
+I want you to be my baby
+Sign your name across my heart
+I want you to be my lady
+
+Sign your name across my heart
+I want you to be my baby

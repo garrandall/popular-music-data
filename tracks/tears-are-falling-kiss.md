@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tears-are-falling-kiss
+lyrics_url: https://genius.com/Kiss-tears-are-falling-lyrics
 name: Tears Are Falling
 rankings:
 - end_date: '1985-10-25'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
 ---
+I read your mind like an open book
+You lost the fire in your eyes
+You turn to me with a different look
+And then it's raining, looks like it's raining
 
+
+Oh no, tears are falling
+
+
+Something is wrong as I hold you near
+Somebody else holds your heart, yeah
+You look at me with your eyes in tears
+And then it's raining, feels like it's raining
+
+
+Oh no, tears are falling
+Oh no, tears are falling, whoo oh
+I saw you cry
+
+
+And now it's raining (yeah)
+Looks like it's raining (someone stole your heart)
+And now it's raining, feels like it's raining
+
+
+Oh no, tears are falling
+Oh no, tears are falling, whoo oh
+Oh no, tears are falling, someone stole your heart
+Oh no, tears are falling, they're falling from your eyes
+Oh no, tears are falling, (no no, falling from your eyes)
+Oh no, tears are falling
+(Oh no, no, falling, oh, they're falling from your eyes)
+Oh no, tears are falling (Oh no, no, falling from your eyes)
+Oh no, tears are falling

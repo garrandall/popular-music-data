@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-up-to-you-rick-nelson
+lyrics_url: https://www.musixmatch.com/lyrics/Rick-Nelson/It-s-up-to-You
 name: It's Up To You
 rankings:
 - end_date: '1962-12-21'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+It's up to you
+Because I've done everything I can
+I hope that you
+Will say that I'm your loving man
 
+Make up your mind
+And do what you're gonna do
+Well you know how I feel
+So I'm leaving it up to you
+
+It's all so clear
+That I would give everything I own
+To have you near
+Never leave me all alone
+
+I need your love
+So, darling, please be fair
+Let me know where I stand
+And I hope that you say you care
+
+Well I've laid my cards on the table
+And it's oh so plain to see
+That I'm ready, willing and able
+To love you faithfully
+
+It's up to you
+No, it's not for me to say
+You love me too
+Oh, but I hope you feel that way
+
+Make up your mind
+And do what you're gonna do
+Well you...

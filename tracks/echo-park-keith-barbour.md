@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: echo-park-keith-barbour
+lyrics_url: https://genius.com/Keith-barbour-echo-park-lyrics
 name: Echo Park
 rankings:
 - end_date: '1969-10-03'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
 ---
+It's the morning soon he'll rise
+Find the glasses for his eyes
+Aren't what they used to be
+Picks up the clothes he's worn so long
+On the bureau sits the picture of a lady
+And the mural of a man who's been gone for many years
 
+(CHORUS)
+The old man walks in Echo Park
+From bench to bench he moves from morning 'til dark
+For the ducks some bread he brings
+Wonder if he'll feed them this time next spring
+Listening to the children play
+Reminds him of other days
+Many years ago
+Thoughts of a child that he helped grow
+And the memory of a letter saying dear sir
+We regret to inform you, your son will not be coming home
+
+(REPEAT CHORUS)
+
+(BRIDGE)
+Old man tell me are there fears
+Do you measure life in years
+Or is one day all you'll ever know
+I've got to know
+
+(REPEAT CHORUS)
+(CODA)
+Have I been a good man
+Have I tried to see the light
+Wish I may, wish I might
+Have the wish I wish tonight
+Have I been a good man

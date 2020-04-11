@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-weekends-charlie-rich
+lyrics_url: https://genius.com/Charlie-rich-lonely-weekends-lyrics
 name: Lonely Weekends
 rankings:
 - end_date: '1960-03-20'
@@ -91,4 +92,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
+Well I'm making alright (Well I'm making alright)
+From Monday morning till Friday night
+Oh, those lonely weekends
 
+Since you left me (since you left me)
+I'm as lonely as I can be
+Oh, those lonely weekends
+
+You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+You said our love (ooh-wah) would never die (ooh-wah-wah)
+You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+But baby, you didn't even try
+
+Well I'm making alright (Well I'm making alright)
+From Monday morning till Friday night
+Oh, those lonely weekends
+
+You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+You said our love (ooh-wah) would never die (ooh-wah-wah)
+You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+But baby, you didn't even try
+
+Well I'm making alright (Well I'm making alright)
+From Monday morning till Friday night
+Oh, those lonely weekends
+Oh, those lonely weekends
+
+Oh, those lonely weekends

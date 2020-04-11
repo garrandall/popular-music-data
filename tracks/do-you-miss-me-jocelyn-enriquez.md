@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-miss-me-jocelyn-enriquez
+lyrics_url: https://genius.com/Jocelyn-enriquez-do-you-miss-me-hookapella-lyrics
 name: Do You Miss Me
 rankings:
 - end_date: '1996-08-02'
@@ -99,4 +100,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
 ---
+The radio plays our favorite song
+And it's what keeps me holding on
+Baby, do you miss me
+Now that I'm gone
 
+I remember the love we had
+How could I forget
+I remember the tears I cried
+Over one regret
+Now we're alone, so alone
+I can't help thinking about you
+All the love in the world
+And I'm lonely without you
+
+Chorus:
+The radio plays our favorite song
+And it's what keeps me holding on
+Baby, do you miss me
+Now that I'm gone, yeah
+Get the DJ to play our favorite song
+'Cause it's what keeps me holding on
+Baby, do you miss me
+Now that I'm gone
+
+I remember the love we had
+Not a day goes by
+Heaven knows where you are right now
+But my heart won't lie
+We were in love so in love
+My mind's been speaking about you
+All the love in the world
+And I'm lonely without you
+
+(Repeat Chorus)x2

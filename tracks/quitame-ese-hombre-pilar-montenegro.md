@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: quitame-ese-hombre-pilar-montenegro
+lyrics_url: https://genius.com/Pilar-montenegro-quitame-ese-hombre-lyrics
 name: Quitame Ese Hombre
 rankings:
 - end_date: '2002-05-31'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
 ---
-
+Quítame el recuerdo que me dejó
+Quítame el vestido destrózalo
+Bájame del cielo donde me llevó
+Bájame y de nuevo
+Súbeme hasta el sol
+Quítame esa idea de serle fiel
+Quítame el deseo de estar con él
+Déjame en la mente
+Ganas de volver a verte
+Quítame ese hombre del corazón
+Quita de mi cuerpo su sensación
+Anda quítalo tú, anda quítalo tú
+Borra con tus labios lo que él besó
+Llega donde nadie jamás llegó
+Anda inténtalo tú, anda inténtalo tú
+Quítame la venda que me cegó
+Quítame de golpe esta obsesión
+Siempre queda espacio para un nuevo amor
+Siempre si el que llega es muy superior
+Quítame esa idea de serle fiel
+Quítame el deseo de estar con él
+Déjame en la mente
+Ganas de volver a verte
+Quítame ese hombre del corazón
+Quita de mi cuerpo su sensación
+Anda quítalo tú, anda quítalo tú
+Borra con tus labios lo que él besó
+Llega donde nadie jamás llegó
+Anda inténtalo tú, anda inténtalo tú
+Quítame ese hombre del corazón
+Quita de mi cuerpo su sensación
+Anda quítalo tú, anda quítalo tú
+Borra con tus labios lo que él besó
+Llega donde nadie jamás llegó
+Anda inténtalo tú, anda inténtalo tú

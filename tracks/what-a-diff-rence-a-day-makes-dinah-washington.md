@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-diff-rence-a-day-makes-dinah-washington
+lyrics_url: https://genius.com/Dinah-washington-what-a-diffrence-a-day-makes-lyrics
 name: What A Diff'rence A Day Makes
 rankings:
 - end_date: '1959-05-31'
@@ -87,4 +88,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
 ---
+What a difference a day made
+Twenty-four little hours
+Brought the sun and the flowers
+Where there used to be rain
 
+My yesterday was blue, dear
+Today I'm a part of you, dear
+My lonely nights are through, dear
+Since you said you were mine
+
+Lord, what a difference a day made
+There's a rainbow before me
+Skies above can't be stormy
+Since that moment of bliss
+That thrilling kiss
+
+It's heaven when you
+Find romance on your menu
+What a difference a day made
+And the difference is you

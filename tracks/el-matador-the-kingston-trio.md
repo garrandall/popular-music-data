@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: el-matador-the-kingston-trio
+lyrics_url: https://www.musixmatch.com/lyrics/The-Kingston-Trio/El-Matador
 name: El Matador
 rankings:
 - end_date: '1960-02-28'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
 ---
+Aye, Torero
+She is here
+Aye, matador
+I feel her eyes
+They are wide with excitement and fear
 
+I feel her heart for it cries
+When the horns are too near
+I will bold, brave, and swift will I be
+And I will be numero uno, torero fino
+She'll dream tonight of me
+
+Ole, ole, ole! (Pasa!)
+Viva el matador!
+Ole, ole, ole! (Venga!)
+Viva el matador!
+
+Aye, Torero
+She is here
+Aye, matador
+I see her smile
+
+And I see there the reason she came
+Toro, come closer
+Come here and I'll whisper her name
+You may be brave and as bold as you're black
+But I will be numero uno, torero fino
+Toro come back
+
+Ole, ole, ole! (Pasa!)
+Viva el matador!
+Ole, ole, ole! (Venga!)
+Viva el matador!
+
+Ole, ole, ole! (Pasa!)
+Viva el matador!
+Ole, ole, ole! (Venga!)
+Viva el matador!
+
+Toro, aqui
+Closer
+Closer
+Closer

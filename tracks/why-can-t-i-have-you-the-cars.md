@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-can-t-i-have-you-the-cars
+lyrics_url: https://genius.com/The-cars-why-cant-i-have-you-lyrics
 name: Why Can't I Have You
 rankings:
 - end_date: '1985-02-01'
@@ -75,4 +76,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
 ---
+Ah dreamy lips, set in motion, flashing
+Ah breathless hush, poundin' soft, lasting
+Oh glossy mouth, a taste untamed, moving
+Carousel, up and down
+Just like you
 
+Oh baby
+Just one more time to touch you
+Just one more time to tell you
+You're on my mind
+Baby, why can't I have you?
+You're breakin' my heart in two
+You know what I'm goin' through
+Oh baby, why can't I have you?
+
+Oh candy smile, all the while, glinting
+Your eyes like mica, a lethal pout, hinting
+(Felt the pressure)
+Ooh and I felt the pressure, tight and warm, softly striking
+(Ooh tripped and stumbled)
+Ooh I tripped and stumbled
+I cling forever
+I go all night
+
+Oh baby
+Just one more time to touch you
+Just one more time to tell you
+I'm not so blind
+Baby, why can't I have you?
+Always breakin' my heart in two
+You know what I'm goin' through
+Uh oh baby, why can't I have you?
+
+(Baby) oh baby (why can't I have you?) why can't I have you?
+You know what I'm goin' through
+(You're breakin' my heart in two)
+You're breakin' my heart, breakin' my heart
+(You know what I'm gonna do)
+(You're breakin' my heart) breakin' my heart
+(Baby) oh baby (why can't I have you?) I need you
+(You know what I'm goin' through)
+You're breakin' my heart (you're breakin' my heart in two)
+Oh baby, I need you so much, I need you, touch
+(You know what I'm gonna do)
+(You're breakin' my heart)
+(Baby) oh baby (why can't I have you?)
+(You know what I'm goin' through)
+(fade)

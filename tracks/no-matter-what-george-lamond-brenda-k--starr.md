@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: no-matter-what-george-lamond-brenda-k--starr
+lyrics_url: https://genius.com/George-lamond-no-matter-what-lyrics
 name: No Matter What
 rankings:
 - end_date: '1990-12-07'
@@ -72,4 +73,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
 ---
+Love can be so right
+But things can go so wrong
+The clouds come rolling in
+Love may not last very long
 
+But I know as for me
+Our love will always be
+'Cause what we share together
+Can weather any storm
+
+Ooh, I love you, girl
+(I love you, girl)
+We'll get through
+I promise you
+
+No matter what the world may do to us
+No matter what may try to tear our love apart
+It won't get through to us
+We'll never change what's in our hearts
+No matter what
+
+Life can be so hard
+The world can be so cold
+And everybody says we won't last
+But they don't know
+
+That for my whole life through
+I'll keep on loving you
+You're such a part of me
+I could never let you go
+
+Ooh, I love you, boy
+(I love you, boy)
+We'll get through
+I promise you
+
+No matter what the world may do to us
+No matter what may try to tear our love apart
+It won't get through to us
+We'll never change what's in our hearts
+No matter what
+
+You'll be my everything
+As long as you are by my side
+We'll rise above
+We won't let anything ever come between our love
+No matter what
+
+We found a place where we can both be free, yeah
+So safe and warm within each other's arms
+No matter what
+We're gonna be here for eternity, yeah
+No matter where, No matter how
+We know our love will still be strong
+
+No matter what the world may do to us
+No matter what may try to tear our love apart
+It won't get through to us
+We'll never change what's in our hearts
+No matter what
+
+You'll be my everything
+As long as you are by my side
+We'll rise above
+We won't let anything ever come between our love
+No matter what
+
+The world may do to us
+No matter what may try to tear our love apart
+It won't get through to us
+We'll never change what's in our hearts
+No matter what
+
+You'll be my everything
+As long as you are by my side, we'll rise above
+We won't let anything ever come between our love
+No matter what

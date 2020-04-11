@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-showed-me-the-turtles
+lyrics_url: https://genius.com/The-turtles-you-showed-me-lyrics
 name: You Showed Me
 rankings:
 - end_date: '1969-01-10'
@@ -55,4 +56,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
 ---
+You showed me how to do
+Exactly what you do
+How I fell in love with you
+Oh, oh, oh, it's true
+Oh, oh, I love you
 
+
+You showed me how to say
+Exactly what you say
+In that very special way
+Oh, oh, oh, it's true
+You fell for me too
+
+
+And when I tried it
+I could see you fall
+And I decided
+It's not a trip at all
+
+
+You taught it to me too
+Exactly what you do
+And now you love me too
+Oh, oh, oh, it's true
+We're in love, we two
+
+
+Na, da-da, da-da-da
+Na-da, da-da-da
+Na-da, da-da-da
+Oh, oh-oh, oh-oh
+We're in love, we two
+We're two
+
+
+You showed me how to do
+Exactly what you do
+How I fell in love with you
+You showed me how to say
+Exactly what you say
+In that very special way
+You taught it to me too
+Exactly what you do
+And now you love me too
+
+Now you love me too
+Now you love me, too
+Now you love me too
+Now you love me, too
+Now you love me too
+Now you love me, too

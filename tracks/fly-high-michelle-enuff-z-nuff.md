@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-high-michelle-enuff-z-nuff
+lyrics_url: https://genius.com/Enuff-znuff-fly-high-michelle-lyrics
 name: Fly High Michelle
 rankings:
 - end_date: '1990-02-02'
@@ -59,4 +60,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+Six o'clock in the morning
+Still sitting here pouring
+The drinks 'til they're gone
+We did everything together
+Would have done it forever
+How did we go wrong?
 
+I know that what goes up
+Comes down
+I didn't know you'd hit the ground
+
+Why d'you have to give it up?
+(Fly high Michelle)
+Well you was just a little girl
+(Fly high Michelle)
+I'll never look into your blue eyes
+(Fly high Michelle)
+Fly high Michelle
+
+We did it just for a good time
+A misunderstood time
+We lived with the fear
+I wish we still could of done things
+And not overhung things
+I wish you were here
+
+I know I live a life
+Of good things
+Until a new life begins
+
+Why d'you have to give it up?
+(Fly high Michelle)
+Well you was just a little girl
+(Fly high Michelle)
+I'll never look into your blue eyes
+(Fly high Michelle)
+Fly high Michelle
+
+I say another prayer
+Tonight
+That i'll see you in the light
+
+You had to give it up
+(Fly high Michelle)
+Well you was just a little girl
+(Fly high Michelle)
+I'll never look into your blue eyes
+(Fly high Michelle)
+Fly high Michelle
+
+You had to give it up
+(Fly high Michelle)
+Well you was just a little girl
+(Fly high Michelle)
+I'll never look into your blue eyes
+(Fly high Michelle)
+Fly high Michelle
+
+Fly high Michelle
+
+Fly high Michelle
+
+Fly high Michelle

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-won-t-let-you-down-ok-go
+lyrics_url: https://genius.com/Ok-go-i-wont-let-you-down-lyrics
 name: I Won't Let You Down
 rankings:
 - end_date: '2014-11-21'
@@ -11,4 +12,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
 ---
+I won't let you down
+No, I won't let you down
+I won't let you down, my love
+I won't let you down
+No, I won't let you down
+I won't let you down, my love
 
+
+Now, Nikki, she's got no flag to fly
+But she don't seem that much to mind
+No, she don't seem to mind
+And you, you got your armor on
+Lights out in Babylon
+Yeah, lights out in Babylon
+
+
+But maybe all you need is someone to trust
+Maybe all you need is someone
+Maybe all you need is someone to trust
+Maybe all you need is someone
+
+
+And I won't let you down
+No, I won't let you down
+I won't let you down, my love
+I won't let you down
+No, I won't let you down
+I won't let you down, my love
+
+
+No, I won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+No, I won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+
+
+Now, Emily's got no tricks to try
+But she don't seem that much to mind
+She don't seem to mind that much to me
+And you got what the whole world wants
+So strap that armor tighter on
+Double on down like it's gonna make you free
+
+
+But maybe all you need is someone to trust
+Maybe all you need is someone
+Maybe all you need is someone to trust
+Maybe all you need is someone
+
+
+And I won't let you down
+No, I won't let you down
+I won't let you down, my love
+I won't let you down
+No, I won't let you down
+I won't let you down, my love
+
+
+No, I won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+No, I won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+Won't let you down (Won't let you down)
+
+
+I won't let you down, baby
+I won't let you down, baby
+
+
+I won't let, I won't let you down
+(I won't let you down, no, I won't let you down)
+I won't let you down
+(I won't let you down my love)
+I won't let you down
+I won't let
+(I won't let you down)
+I won't let you down, my love
+(No, I won't let you down)
+I won't let you down, my love
+(I won't let you down my love)
+I won't let you down
+(I won't let you down)
+I won't let you
+I won't let you
+(No, I won't let you down)
+I won't let you down
+I won't let you down, my love
+(I won't let you down my love)

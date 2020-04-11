@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-scared-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-running-scared-lyrics
 name: Running Scared
 rankings:
 - end_date: '1961-04-16'
@@ -75,4 +76,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
 ---
+Just runnin' scared each place we go
+So afraid that he might show
+Yeah, runnin' scared, what would I do?
+If he came back and wanted you
 
+Just runnin' scared, feelin' low
+Runnin' scared, you love him so
+Just runnin' scared, afraid to lose
+If he came back which one would you choose
+
+Then all at once he was standing there
+So sure of himself, his head in the air
+My heart was breaking, which one would it be
+You turned around and walked away with me

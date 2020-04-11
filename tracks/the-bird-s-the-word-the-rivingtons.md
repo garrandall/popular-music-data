@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bird-s-the-word-the-rivingtons
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rivingtons/The-Bird-s-the-Word-2
 name: The Bird's The Word
 rankings:
 - end_date: '1963-04-05'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
 ---
+A-well now, everybody's heard about the bird
 
+About the bird, the bird, bird bird bird
+(This line is backing sung throughout the song)
+("Tweet tweet tweet" sung over backing)
+Swingin' this dance now to hit the scene
+
+It's got the latest groove & it's really clean
+Haven't you heard about the bird?
+Don't you know that the bird's the word?
+Come on, jump here & get on your knees
+
+And get to flappin' your wings, in the west or the east
+Haven't you heard about the bird?
+Don't you know that the bird's the word?
+Bird, bird, bird, bird, bird
+
+Well, they're dancin' this bird in the east & the west
+Make this dance & you'll look the best
+Haven't you heard about the bird?
+Don't you know that the bird's the word?

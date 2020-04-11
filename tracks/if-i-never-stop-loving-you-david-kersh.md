@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-never-stop-loving-you-david-kersh
+lyrics_url: https://genius.com/David-kersh-if-i-never-stop-loving-you-lyrics
 name: If I Never Stop Loving You
 rankings:
 - end_date: '1998-02-20'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-30'
 ---
+If there ever was a perfect night
+This just might be the one
+For telling you the way I feel
+And just how real we've become
+If I'm anxious and a little uptight
+It's because I wanna ask you this right
 
+If I never stop loving you
+Will you never start wanting me to?
+Say you won't and that's what I'll do
+For forever with a heart so true
+If you'll start and end everyday
+Forever never wanting me to go away
+All I'm ever gonna always do
+Is never stop loving you
+
+Please forgive me I'm a little bit nervous
+I really rehearsed what to say
+It's funny, in front of the mirror
+My words sounded clearer today
+In my heart I've got it straight, in my head
+I mean everything I think I just said
+
+If I never stop loving you
+Will you never start wanting me to?
+Say you won't and that's what I'll do
+For forever with a heart so true
+If you'll start and end everyday
+Forever never wanting me to go away
+All I'm ever gonna always do
+Is never stop loving you
+
+Even though it isn't what I had planned
+I really think you understand
+If I never stop
+
+If I never stop loving you
+Will you never start wanting me to?
+Say you won't and that's what I'll do
+For forever with a heart so true
+If you'll start and end everyday
+Forever never wanting me to go away
+All I'm ever gonna always do
+Is never stop loving you
+All I'm ever gonna always do
+Is never stop loving you...

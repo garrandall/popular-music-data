@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-was-made-to-love-her-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-i-was-made-to-love-her-lyrics
 name: I Was Made To Love Her
 rankings:
 - end_date: '1967-06-16'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+I was born in Lil' Rock
+Had a childhood sweetheart
+We were always hand in hand
+I wore hightop shoes and shirt tails
+Suzy was in pigtails
+I knew I loved her even then
 
+
+You know my papa disapproved it
+My mama boo-hooed it
+But I told them time and time again
+"Don't you know I was made to love her
+Build my world all around her"
+Yeah! Hey, hey, hey
+
+
+She's been my inspiration
+Showed appreciation
+For the love I gave her through the years
+Like a sweet magnolia tree
+My love blossomed tenderly
+My life grew sweeter through the years
+
+
+I know that my baby loves me
+My baby needs me
+That's why we made it through the years
+I was made to love her
+Worship and adore her
+Hey, hey, hey
+
+
+All through thick and thin
+Our love just won't end
+'Cause I love my baby, love my baby, hey
+My baby loves me
+My baby needs me
+And I know I ain't going nowhere
+
+
+I was knee-high to a chicken
+When that love bug bit me
+I had the fever with each passing year
+Oh, even if the mountain tumbles
+If this whole world crumbles
+By her side I'll still be standing there
+
+
+'Cause I was made to love her
+I was made to live for her, yeah!
+Ah, I was made to love her
+Build my world all around her
+Hey, hey, hey
+Ooh baby, I was made to please her
+You know Stevie ain't gon' leave her, no
+Hey, hey, hey, ooh wee, baby

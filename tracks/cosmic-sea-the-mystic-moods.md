@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cosmic-sea-the-mystic-moods
+lyrics_url: https://genius.com/The-mystic-moods-cosmic-sea-lyrics
 name: Cosmic Sea
 rankings:
 - end_date: '1973-04-27'
@@ -31,4 +32,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
 ---
+Before the sun, the moon, the earth
+Before the stars or comets roaming free
+Before time had its birth
+I was, I am, and I will be
 
+I have a vision
+A storm before the sun

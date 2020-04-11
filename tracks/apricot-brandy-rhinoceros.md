@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: apricot-brandy-rhinoceros
+lyrics_url: https://genius.com/Rhinoceros-apricot-brandy-lyrics
 name: Apricot Brandy
 rankings:
 - end_date: '1969-02-28'
@@ -47,4 +48,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
-
+(Instrumental)

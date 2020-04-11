@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-will-i-know-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-how-will-i-know-lyrics
 name: How Will I Know
 rankings:
 - end_date: '1985-12-13'
@@ -103,4 +104,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
 ---
+There's a boy I know, he's the one I dream of
+Looks into my eyes, takes me to the clouds above
+Ooh I lose control, can't seem to get enough
+When I wake from dreaming, tell me is it really love?
 
+
+Ooh, how will I know? (Don't trust your feelings)
+How will I know?
+How will I know? (Love can be deceiving)
+How will I know?
+
+
+How will I know if he really loves me?
+I say a prayer with every heart beat
+I fall in love whenever we meet
+I'm asking you what you know about these things
+How will I know if he's thinking of me?
+I try to phone, but I'm too shy (can't speak)
+Falling in love is so bittersweet
+This love is strong, why do I feel weak?
+
+
+Oh, wake me, I'm shaking, wish I had you near me now
+Said there's no mistaking, what I feel is really love
+Ooh tell me
+
+
+How will I know? (Don't trust your feelings)
+How will I know?
+How will I know? (Love can be deceiving)
+How will I know?
+
+
+How will I know if he really loves me?
+I say a prayer with every heart beat
+I fall in love whenever we meet
+I'm asking you what you know about these things
+How will I know if he's thinking of me?
+I try to phone, but I'm too shy (can't speak)
+Falling in love is so bittersweet
+This love is strong, why do I feel weak?
+
+
+If he loves me
+If he loves me not
+If he loves me
+If he loves me not
+If he loves me
+If he loves me not
+Oh, how will I know?
+How will I know?
+How will I know?
+Hey, how will I know?
+
+
+How will I know if he really loves me?
+I say a prayer with every heart beat
+I fall in love whenever we meet
+I'm asking you what you know about these things
+How will I know if he's thinking of me?
+I try to phone, but I'm too shy (can't speak)
+Falling in love is so bittersweet
+This love is strong, why do I feel weak?
+
+
+How will I know? (How will I know?)
+How will I know?
+How will I know? (I say a prayer)
+How will I know?
+How will I know? (I fall in love)
+How will I know?
+How will I know?

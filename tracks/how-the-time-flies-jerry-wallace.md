@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-the-time-flies-jerry-wallace
+lyrics_url: https://genius.com/Jerry-wallace-how-the-time-flies-lyrics
 name: How The Time Flies
 rankings:
 - end_date: '1958-08-24'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+(Dickey-doo-oo-oo-oo) (Dickey-doo-oo-oo-oo)
+(Dickey-doo-oo-oo) (Locka-day-ay)
 
+How the time flies
+When I'm near you
+When I'm near you
+How the time flies
+
+Seems like heaven
+When I'm near you
+When I'm near you
+How the time flies
+
+Wonder why when we're alone
+The hours always pass so fast
+A kiss or two, and then you're gone
+Gee, the time just doesn't last
+
+If the night would never pass
+And the sun would never rise
+Not one moment would we waste
+But, darling, how the time - it flies
+
+How the time flies
+When I'm near you
+When I'm near you
+How the time flies
+
+(Dickey-doo-oo-oo-oo) (Dickey-doo-oo-oo-oo)
+(Dickey-doo-oo-oo) (Locka-day-ay)
+
+How the time flies
+When I'm near you
+When I'm near you
+How the time flies
+
+(How the time flies)

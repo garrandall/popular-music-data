@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-s-in-town-the-tokens
+lyrics_url: https://genius.com/The-tokens-hes-in-town-lyrics
 name: He's In Town
 rankings:
 - end_date: '1964-08-14'
@@ -39,4 +40,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
+He's in town
+(He's in town)
+He's back in town
+(He's in town)
 
+Girl, I knew just what was wrong
+(He's in town)
+When you weren't home
+Each time when I phoned
+All week long
+
+And now I see it in your eyes
+(He's in town)
+The look on your face
+When you're thinking of him
+Can't be disguised
+
+I was afraid
+He'd come back someday
+And I'd be the one to lose
+I knew when you saw him
+You wouldn't ignore him
+And he'd be the one you choose
+
+No, you don't have to tell me
+He's in town
+(He's in town)
+He's back in town
+(He's in town)
+
+No, you don't have to tell me
+He's in town
+(he's in town)
+He's back in town
+
+(He's in town)
+He's in town
+(He's in town)
+(He's in town)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-keep-forgettin--chuck-jackson
+lyrics_url: https://genius.com/Chuck-jackson-i-keep-forgettin-every-time-youre-near-lyrics
 name: I Keep Forgettin'
 rankings:
 - end_date: '1962-09-07'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
 ---
+I keep forgetting you don't love me no more
+I keep forgetting you don't want me no more
+I keep forgetting that you told me that
+You didn't want me around anymore
 
+But these stupid old feet just head for your street
+Like they've done so many times before
+And the stubborn old fists on the end of my wrists
+Start knocking on your front door
+
+I keep forgetting you don't love me no more
+I keep forgetting you don't want me no more
+I keep forgetting about those heartbreaking nights
+And those heartbreaking things that you said
+
+Though I know in my heart we've drifted apart
+Still I can't believe our love is dead
+Though it's plain as can be that you're finished with me
+I just can't get it through my head
+
+I keep forgetting you don't love me no more
+I keep forgetting you don't love me no more
+I keep forgetting you don't love me no more
+
+Though I know in my heart we've drifted apart
+I can't believe our love is dead
+Though it's plain as can be that you're finished with me
+I just can't get it through my head
+
+I keep forgetting you don't love me no more
+I keep forgetting you don't love me no more
+No, no, no, no, no, no, no, no more
+But I just keep on forgetting, I keep on forgetting, darling

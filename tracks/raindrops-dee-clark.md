@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: raindrops-dee-clark
+lyrics_url: https://genius.com/Dee-clark-raindrops-lyrics
 name: Raindrops
 rankings:
 - end_date: '1961-05-07'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
 ---
+Oh, Raindrops
+So many raindrops
+It feels like raindrops falling from my eye-eyes
+Falling from my eyes
 
+
+Since my love has left me
+I'm so all alone
+I would bring her back to me
+But I don't know where she's gone
+I don't know where she's gone
+
+
+There must be a cloud in my head
+Rain keeps falling from my eye-eyes
+Oh, no it can't be teardrops
+For a man ain't supposed to cry
+
+
+So it must be raindrops
+So many raindrops
+It feels like raindrops falling from my eye-eyes
+Falling from my eyes
+
+
+
+
+Oh, there must be a cloud in my head
+Rain keeps falling from my eye-eyes
+Oh, no it can't be teardrops
+For a man ain't supposed to cry
+
+
+So it must be raindrops
+So many raindrops
+It feels like raindrops falling from my eye-eyes
+Falling from my eyes
+
+
+It keeps on fallin'
+Fallin' from my eyes
+Wooo, it keeps on fallin' from my eyes
+Falling from my eyes

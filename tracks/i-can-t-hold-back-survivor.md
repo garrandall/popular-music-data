@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-hold-back-survivor
+lyrics_url: https://genius.com/Survivor-i-cant-hold-back-lyrics
 name: I Can't Hold Back
 rankings:
 - end_date: '1984-09-21'
@@ -99,4 +100,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
 ---
+There's a story in my eyes
+Turn the pages of desire
+Now it's time to trade those dreams
+For the rush of passion's fire
 
+I can feel you tremble when we touch
+And I feel the hand of fate
+Reaching out to both of us
+
+I've been holding back the night
+I've been searching for a clue from you
+I'm gonna try with all my might
+To make this story line come true
+
+Can you feel me tremble when we touch
+Can you feel the hand of fate
+Reaching out to both of us
+This love affair can't wait
+
+I can't hold back
+I'm on the edge
+I can't hold back
+Your voice explodes
+Inside my head
+
+I can't hold back
+I won't back down
+Girl, it's too late
+To turn back now
+
+Another shooting star goes by
+And in the night the silence
+Speaks to you and I
+
+And now the time has come at last
+Don't let the moment run too fast
+
+I can feel you tremble when we touch
+And I feel the hand of fate
+Reaching out to both of us
+
+There's a story in my eyes
+Turn the pages of desire
+Now it's time to trade those dreams
+For the rush of passion's fire
+
+I can't hold back
+I'm on the edge
+I can't hold back
+Your voice explodes
+Inside my head
+
+I can't hold back
+I won't back down
+Girl, it's too late
+To turn back now
+
+I can see you tremble when we touch
+Ooh, and I feel the hand of fate
+Reaching out to both of us
+This love affair can't wait
+
+I can't hold back
+I can't hold back
+I can't hold back

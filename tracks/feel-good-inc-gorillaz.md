@@ -1,7 +1,8 @@
 ---
 artists:
 - Gorillaz
-features: []
+features:
+- De La Soul
 genres: []
 key: feel-good-inc-gorillaz
 lyrics_url: https://www.azlyrics.com/lyrics/gorillaz/feelgoodinc.html
@@ -280,6 +281,3 @@ Shake it, shake it, shake it, feel good.
 Shake it, shake it, shake it, feel good.
 Shake it, shake it, shake it, feel good.
 Shake it, shake it, shake it, feel good.
-
-
-

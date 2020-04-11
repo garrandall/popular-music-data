@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: elusive-butterfly-bob-lind
+lyrics_url: https://genius.com/Bob-lind-elusive-butterfly-lyrics
 name: Elusive Butterfly
 rankings:
 - end_date: '1966-01-28'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
 ---
+You might wake up some mornin'
+To the sound of something moving past your window in the wind
+And if you're quick enough to rise
+You'll catch a fleeting glimpse of someone's fading shadow
+Out on the new horizon
+You may see the floating motion of a distant pair of wings
+And if the sleep has left your ears
+You might hear footsteps running through an open meadow
 
+Don't be concerned, it will not harm you
+It's only me pursuing somethin' I'm not sure of
+Across my dreams with nets of wonder
+I chase the bright elusive butterfly of love
+
+You might have heard my footsteps
+Echo softly in the distance through the canyons of your mind
+I might have even called your name
+As I ran searching after something to believe in
+You might have seen me runnin'
+Through the long-abandoned ruins of the dreams you left behind
+If you remember something there
+That glided past you followed close by heavy breathin'
+
+Don't be concerned, it will not harm you
+It's only me pursuing somethin' I'm not sure of
+Across my dreams with nets of wonder
+I chase the bright elusive butterfly of love
+
+Across my dreams with nets of wonder
+I chase the bright elusive butterfly of love

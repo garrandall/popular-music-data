@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-the-streets-have-no-name-u2
+lyrics_url: https://genius.com/U2-where-the-streets-have-no-name-lyrics
 name: Where The Streets Have No Name
 rankings:
 - end_date: '1987-09-18'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
 ---
+I wanna run, I want to hide
+I wanna tear down the walls
+That hold me inside
+I wanna reach out
+And touch the flame
+Where the streets have no name
 
+
+I wanna feel sunlight on my face
+I see the dust-cloud
+Disappear without a trace
+I wanna take shelter
+From the poison rain
+Where the streets have no name
+
+
+Where the streets have no name
+Where the streets have no name
+We're still building and burning down love
+Burning down love
+And when I go there
+I go there with you
+It's all I can do
+
+
+The city's a flood, and our love turns to rust
+We're beaten and blown by the wind
+Trampled in dust
+I'll show you a place
+High on a desert plain
+Where the streets have no name
+
+
+Where the streets have no name
+Where the streets have no name
+We're still building and burning down love
+Burning down love
+And when I go there
+I go there with you
+It's all I can do
+
+
+Our love turns to rust
+We're beaten and blown by the wind
+Blown by the wind
+Oh and I see love
+See our love turn to rust
+We're beaten and blown by the wind
+Blown by the wind
+Oh when I go there
+I go there with you
+It's all I can do

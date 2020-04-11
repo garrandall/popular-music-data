@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-angel-baby-toby-beau
+lyrics_url: https://genius.com/Toby-beau-my-angel-baby-lyrics
 name: My Angel Baby
 rankings:
 - end_date: '1978-06-09'
@@ -75,4 +76,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
 ---
+We've got Troubles
+Something's just not right
+Just this morning you cried about last night
+You said that something's bound to break this time
 
+What's breaking is my heart
+I can read between the lines
+It's tearing me apart
+You've got leaving on your mind
+
+But you're My Angel baby
+Yes you're My Angel baby
+Wooh you're My Angel baby
+For the rest of the night
+
+Do you remember how it used to be?
+Loving was easier when you were loving me
+I guess you found someone and now I find
+
+What's breaking is my heart
+You've got leaving on your mind

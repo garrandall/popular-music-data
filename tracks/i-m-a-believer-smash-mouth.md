@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-believer-smash-mouth
+lyrics_url: https://genius.com/Smash-mouth-im-a-believer-lyrics
 name: I'm A Believer
 rankings:
 - end_date: '2001-07-27'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
 ---
+I thought love was only true in fairy tales
+Meant for someone else but not for me
+Love was out to get me
+That's the way it seemed
+Disappointment haunted all my dreams
 
+
+And then I saw her face
+Now I'm a believer
+And not a trace
+Of doubt in my mind
+I'm in love
+I'm a believer
+I couldn't leave her
+If I tried
+
+
+I thought love was more or less a given thing
+More I gave the less I got, oh yeah
+What's the use in trying?
+All you get is pain
+When I wanted sunshine, I got rain
+
+
+And then I saw her face
+Now I'm a believer
+And not a trace
+Of doubt in my mind
+I'm in love
+I'm a believer
+I couldn't leave her
+If I tried
+
+
+What's the use in trying?
+All you get is pain
+When I wanted sunshine
+I got rain
+
+
+And then I saw her face
+Now I'm a believer
+And not a trace
+Of doubt in my mind
+I'm in love
+I'm a believer
+I couldn't leave her
+If I tried
+
+
+Then I saw her face
+Now I'm a believer
+Not a trace
+Of doubt in my mind
+Now I'm a believer
+Yeah, yeah, yeah, yeah, yeah
+Now I'm a believer
+Then I saw her face
+Now I'm a believer
+Not a trace
+Of doubt in my mind
+I'm a believer

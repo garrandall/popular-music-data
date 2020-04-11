@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: get-low-dillon-francis-dj-snake
+lyrics_url: https://genius.com/Dillon-francis-and-dj-snake-get-low-lyrics
 name: Get Low
 rankings:
 - end_date: '2015-04-24'
@@ -44,4 +45,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
 ---
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Get-get-get-get low when the whistle go
 
+
+Get-get-get low when the whistle go
+Get-get-get low when the whistle go
+Get-get-get get low
+Barbès, Yalla Habibi
+
+
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Get low, get-get-get low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low
+Get-get-get-get low when the whistle go
+
+
+Get-get-get low when the whistle go
+Get-get-get get low
+
+
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low Low
+Get-get-get get low
+Low Low Low Low
+Low Low Low Low
+Low Low Low Low Low
+Barbès, Yalla Habibi
+(Yalla Habibi, yalla habibi
+Yalla Habibi, yalla habibi
+Yalla Habibi, yalla habibi)

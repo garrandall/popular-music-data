@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-by-me-earl-grant
+lyrics_url: https://www.musixmatch.com/lyrics/Earl-Grant/Stand-by-Me
 name: Stand By Me
 rankings:
 - end_date: '1965-10-29'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
 ---
+When the night has come
+And the land is dark
+And the moon is the
+Only light we'll see
 
+No, I won't be afraid
+No, I won't be afraid
+Just as long as you stand
+Stand by me
+
+So, darling, darling
+Stand by me, oh, stand by me
+Oh, stand, stand by me
+Stand by me
+
+If the sky that we look upon
+Should tumble and fall
+Or the mountains should
+Crumble to the sea
+
+I won't cry, I won't cry
+No, I won't she'd a tear
+Just as long as you stand
+Stand by me
+
+And darling, darling
+Stand by me, oh, stand by me
+Oh, stand now, stand by me
+Stand by me
+
+Darling, darling
+Stand by me, oh, stand by me
+Oh, stand now, stand by me
+Stand by me
+
+Whenever you're in trouble
+Won't you stand by me
+Oh, stand by me...

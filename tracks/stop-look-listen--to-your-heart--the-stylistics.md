@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-look-listen--to-your-heart--the-stylistics
+lyrics_url: https://genius.com/The-stylistics-stop-look-listen-to-your-heart-lyrics
 name: Stop Look Listen (To Your Heart)
 rankings:
 - end_date: '1971-06-11'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
 ---
+You're alone all time
+Does it ever puzzle you, have you asked why
+You seem to fall in love, out again
+Do you ever really love or just pretend
 
+Why fool yourself
+Don't be afraid to help yourself
+It's never too late, too late to
+
+Stop, look
+Listen to your heart, hear what it's saying
+Stop, look
+Listen to your heart, hear what it's saying
+Love, love, love
+
+Though you try, you can't hide
+All the things you really feel, this time decide
+That you will open up, let it in
+There's no shame in sharing love you keep within
+
+So jump on in
+Head over heels, and fall right in
+It's never too late too late to
+
+Stop, look
+Listen to your heart, hear what it's saying
+Stop, look
+Listen to your heart, hear what it's saying
+Love, love, love
+
+Stop, look
+Listen to your heart, hear what it's saying (Listen to your heart, can't
+You see it's not too late)
+Stop, look
+Listen to your heart, hear what it's saying (La, la, la, la, la, la, la)
+
+Stop, look
+Listen to your heart, hear what it's saying (Listen to your heart, can't
+You see it's not too late)
+Stop, look
+Listen to your heart, hear what it's saying

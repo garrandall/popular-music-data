@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-me-some-him-toni-braxton
+lyrics_url: https://genius.com/Toni-braxton-i-love-me-some-him-lyrics
 name: I Love Me Some Him
 rankings:
 - end_date: '1997-04-04'
@@ -87,4 +88,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
 ---
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
 
+
+All those days and lonely nights
+Have all gone away
+I never thought the day would come
+When we'd be more than friends
+You made me smile when I was down
+And turned my world around
+The way you give me love
+Feels so right
+(Oh)
+
+
+You took the ease off my mind
+And put it behind
+You were there for all my needs
+So, baby
+Stay
+
+
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+
+
+Just like a dream come true
+I wished for you
+I have never been so happy 'bout a love so new
+You opened my heart to a brand new start
+My love's there
+Wherever you are
+I won't let no one take you away
+
+
+You took the ease off my mind
+And put it behind
+You were there
+Yes, indeed
+For all my needs
+(Yes, you were, babe)
+
+
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+
+
+Cause you came along and changed my life
+Told me things would be alright
+And they were
+Thanks to you
+(Babe, babe, thanks to you)
+And now I have the strength to carry on
+In my heart
+You have a home
+And I never want to be alone
+Cause I love me
+
+
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do
+I love me some him
+I'll never love this way again
+I love me some you
+Another man will never do

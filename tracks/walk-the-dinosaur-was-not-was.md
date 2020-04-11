@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-the-dinosaur-was-not-was
+lyrics_url: https://genius.com/Was-not-was-walk-the-dinosaur-lyrics
 name: Walk The Dinosaur
 rankings:
 - end_date: '1989-02-03'
@@ -71,4 +72,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
 ---
+Boom boom acka lacka lacka boom
+Boom boom acka lacka boom boom 
 
+It was a night like this forty million years ago
+I lit a cigarette, picked up a monkey skull to go
+The sun was spitting fire, the sky was blue as ice
+I felt a little tired, so I watched Miami Vice
+
+I walked the dinosaur, I walked the dinosaur
+
+
+Open the door, get on the floor
+Everybody walk the dinosaur 
+
+Boom boom acka lacka lacka boom
+Boom boom acka lacka boom boom 
+
+I met you in a cave, you were painting buffalo
+I said I'd be your slave, follow wherever you go
+That night we split a rattlesnake and danced beneath the stars
+You fell asleep, I stayed awake and watched the passing cars
+
+And walked the dinosaur, I walked a dinosaur
+
+
+
+
+One night I dreamed of New York
+You and I roasting blue pork in the Statue of Liberty's torch
+
+
+Elvis landed in a rock-rock-rocket ship
+Healed a couple of lepers
+Ah, and disappeared
+
+
+But where was his beard?
+
+
+
+
+
+A shadow from the sky, much too big to be a bird
+A screaming, crashing noise louder than I've ever heard
+It looked like two big silver trees that somehow learned to soar
+Suddenly a summer breeze and a mighty lion's roar
+
+I killed a dinosaur, I killed a dinosaur
+
+
+Open the door, get on the floor
+Everybody kill the dinosaur 
+
+
+Boom boom acka lacka lacka boom
+Boom boom acka lacka boom boom

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-but-you-babe-clarence-reid
+lyrics_url: https://genius.com/Clarence-reid-nobody-but-you-babe-lyrics
 name: Nobody But You Babe
 rankings:
 - end_date: '1969-08-08'
@@ -47,4 +48,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
 ---
+I'm doing my thing
+With nobody but you, baby
+I'm doing my real thing
+With nobody but you, baby
 
+I know a lot of people
+Be telling you this and that
+Oh, but don't you listen
+Cause they don't know
+Where it's at
+
+Whenever you're near me
+Just call out my name
+I love you
+When I'm away, girl
+You don't have to worry
+
+Cause I'm doing my thing
+With nobody but you, baby
+I'm doing my sweet thing
+With nobody but you, baby
+
+I know you get lonely
+Baby, when I'm not around
+And I know you're thinking
+That I'm out on the town
+
+Your friends are saying
+That I've been untrue
+Oh, but listen, baby
+Don't you let that bother you
+
+Cause I'm doing my thing
+With nobody but you, baby
+I'm doing my good thing
+With nobody but you, baby
+
+I'm doing my thing
+With nobody but you, babe
+I'm doing my good thing
+With no one but you, baby
+
+Cause I'm doing my thing
+With nobody but you, babe
+Nobody but you
+Nobody but you...

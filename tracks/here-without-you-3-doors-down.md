@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-without-you-3-doors-down
+lyrics_url: https://genius.com/3-doors-down-here-without-you-lyrics
 name: Here Without You
 rankings:
 - end_date: '2003-09-05'
@@ -211,4 +212,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
 ---
+A hundred days have made me older
+Since the last time that I saw your pretty face
+A thousand lies have made me colder
+And I don't think I can look at this the same
+But all the miles that separate
+Disappear now when I'm dreaming of your face
 
+
+I'm here without you, baby
+But you're still on my lonely mind
+I think about you, baby
+And I dream about you all the time
+I'm here without you, baby
+But you're still with me in my dreams
+And tonight, it's only you and me, yeah
+
+
+The miles just keep rolling
+As the people leave their way to say hello
+I've heard this life is overrated
+But I hope that it gets better as we go
+Oh yeah, yeah
+
+
+I'm here without you, baby
+But you're still on my lonely mind
+I think about you, baby
+And I dream about you all the time
+I'm here without you, baby
+But you're still with me in my dreams
+And tonight, girl, it's only you and me, yeah
+
+
+Everything I know, and anywhere I go
+It gets hard, but it won't take away my love
+And when the last one falls
+When it's all said and done
+It gets hard, but it won't take away my love
+Whoa, oh, oh
+
+
+
+
+I'm here without you, baby
+But you're still on my lonely mind
+I think about you, baby
+And I dream about you all the time
+I'm here without you, baby
+But you're still with me in my dreams
+And tonight, girl, it's only you and me...
+Yeah
+Oh, yeah

@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: sara-smile-daryl-hall-john-oates
+lyrics_url: https://www.musixmatch.com/lyrics/Hall-Oates-3/Sara-Smile-Mixed
 name: Sara Smile
 rankings:
 - end_date: '1976-02-06'
@@ -119,4 +120,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
 ---
-
+Baby hair
+With the woman's eyes
+I can feel you watching
+In the night
+Come along with me
+I will be waiting for the sunlight
+When I feel cold
+You warm me
+When I feel I can't go on
+You come and hold me
+It's you and me, forever
+Sara smiles
+Won't you smile a while for me,
+Sara
+If you feel like leaving
+You know you can go
+Why don't you stay until tomorrow
+If you want to be free
+You know
+All you got to do is say so
+When you feel cold
+I warm you
+And when you feel you can't go on
+I come and hold you
+It's you and me
+Forever
+Sara smiles
+Won't you smile a while for me
+Sara
+Sara, smiles
+Won't you smile a while Sara
+Smiles
+Won't you smile a while for me, Sara
+Ohh, smile a while
+Won't you laugh and sau
+Thank you for me
+Make me feel like a man
+Not keeping me crazy crazy
+Smile a while

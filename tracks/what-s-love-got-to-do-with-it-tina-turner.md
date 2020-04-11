@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-love-got-to-do-with-it-tina-turner
+lyrics_url: https://genius.com/Tina-turner-whats-love-got-to-do-with-it-lyrics
 name: What's Love Got To Do With It
 rankings:
 - end_date: '1984-05-25'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
 ---
+You must understand though the touch of your hand
+Makes my pulse react
+That it's only the thrill of boy meeting girl
+Opposites attract
+It's physical
+Only logical
+You must try to ignore that it means more than that
 
+
+What's love got to do, got to do with it?
+What's love but a second-hand emotion?
+What's love got to do, got to do with it?
+Who needs a heart when a heart can be broken?
+
+
+It may seem to you that I'm acting confused
+When you're close to me
+If I tend to look dazed I've read it someplace
+I've got cause to be
+There's a name for it
+There's a phrase that fits
+But whatever the reason you do it for me
+
+
+What's love got to do, got to do with it?
+What's love but a second-hand emotion?
+What's love got to do, got to do with it?
+Who needs a heart when a heart can be broken?
+
+
+I've been taking on a new direction
+But I have to say
+I've been thinking about my own protection
+It scares me to feel this way
+
+
+What's love got to do, got to do with it?
+What's love but a second-hand emotion?
+What's love got to do, got to do with it?
+Who needs a heart when a heart can be broken?
+
+
+What's love got to do, got to do with it?
+What's love but a sweet old-fashioned notion?
+What's love got to do, got to do with it?
+Who needs a heart when a heart can be broken?
+
+
+What's love got to do, got to do with it?
+What's love but a second-hand emotion?
+What's love got to do, got to do with it?
+Who needs a heart when a heart can be broken?
+
+
+What's love?
+Got to do it
+Got to do it
+What's love?

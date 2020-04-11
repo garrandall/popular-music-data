@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yield-not-to-temptation-bobby-bland
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Bland-2/Yield-Not-To-Temptation
 name: Yield Not To Temptation
 rankings:
 - end_date: '1962-08-17'
@@ -39,4 +40,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
 ---
+Yield not to temptation
+Oh my love, while I am away
 
+Don't you know you gotta be strong?
+Leave all other guys alone
+One fine sunny day
+I'll be back home to stay
+
+Yield not to temptation
+And then no one lead you astray
+
+So many times you gonna be lonely
+So many times you gonna be blue
+But yield not, yield not yeah
+Oh, yield not, yield not
+
+Don't you know you gotta be strong?
+Leave all other guys alone
+One fine sunny day
+Oh, I'll be back home to stay
+
+Yield not to temptation, oh
+
+So many times you gonna be lonely
+So many times you gonna be blue
+Yield not, yield not
+Oh yeah, yield not
+
+Don't you know you gotta be strong?
+Leave all other guys alone
+One fine sunny day
+I'll be back home to stay
+
+Yield not to temptation
+Yield not to temptation
+Yield not to temptation

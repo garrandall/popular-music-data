@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silver-lady-david-soul
+lyrics_url: https://genius.com/David-soul-silver-lady-lyrics
 name: Silver Lady
 rankings:
 - end_date: '1977-09-16'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
 ---
+Tired of drifting, searching, shifting through town to town
+Every time I slip and slide a little further down
+I can't blame you if you won't take me back
+After everything I put you through
+But honey you're my last hope
+And who else can I turn to
 
+Come on Silver Lady take my word
+I won't run out on you again believe me
+Oh, I've seen the light
+It's just one more fight
+Without you
+Here I am a million miles from home
+The Indiana wind and rain cut through me
+I'm lost and alone, chilled to the bone
+Silver Lady
+
+Double talkers, backstreet walkers at every turn
+Seedy motels and no star hotels still I had to learn
+That the one shining thing in my mind
+Was the sweet love I had with you
+And honey you're my last hope
+And who else can I turn to
+
+Come on Silver Lady take my word
+I won't run out on you again believe me
+Oh, I've seen the light
+It's just one more fight
+Without you
+Here I am a million miles from home
+The Indiana wind and rain cut through me
+I'm lost and alone, chilled to the bone
+Silver Lady
+
+Can't you find it in you to forgive me
+Cause here I am a million miles from home
+The Indiana wind and rain cut through me
+I'm lost and alone, chilled to the bone
+Silver Lady
+
+Come on Silver Lady take my word
+I won't run out on you again believe me
+Oh, I've seen the light
+It's just one more fight
+Without you
+Here I am a million miles from home
+The Indiana wind and rain cut through me
+I'm lost and alone, chilled to the bone
+Silver Lady

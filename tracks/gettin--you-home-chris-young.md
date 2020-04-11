@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gettin--you-home-chris-young
+lyrics_url: https://www.musixmatch.com/lyrics/Chris-Young/Gettin-You-Home
 name: Gettin' You Home
 rankings:
 - end_date: '2009-09-04'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
 ---
+Tuxedo waiters, black tie
+White table clothes and red wine
+We've been plannin', this night
+Lookin' forward to it, for some time
+Now honey I know you love gettin' dressed up
+And you know I love showin' you off
+But watchin' your baby blue eyes
+Dancin' in the candle light glow
+All I can think about, is gettin' you home
 
+Walkin' through the front door
+Seein' your black dress hit the floor
+Uh honey there sure ain't nothin'
+Like you lovin' me all night long
+And all I can think about is gettin' you home
+
+I don't need this menu, no I don't
+I already know just what I want
+Did I hear you right, did you tell me
+Go pay the waiter and lets leave
+Now honey I know by that look in your eyes
+And your hand drawin' hearts on mine
+That our night out of the house
+Ain't gonna last too long
+When all you can think about, is gettin' me home
+
+Walkin' through the front door
+Seein' - your black dress hit the floor
+Uh honey there sure ain't nothin'
+Like you lovin' me all night long
+And all I can think about is gettin' you home
+
+Walkin' through the front door
+Seein' your black dress hit the floor
+Uh honey there sure ain't nothin'
+Like you lovin' me all night long
+And all I can think about, all I can think about
+All I can think about Is gettin' you home

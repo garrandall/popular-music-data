@@ -5,6 +5,7 @@ features:
 - Dennis Yost
 genres: []
 key: traces-classics-iv-dennis-yost
+lyrics_url: https://genius.com/Classics-iv-traces-feat-denis-yost-lyrics
 name: Traces
 rankings:
 - end_date: '1969-02-14'
@@ -56,4 +57,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
+Faded photograph
+Covered now with lines and creases
+Tickets torn in half
+Memories in bits and pieces
 
+Traces of love long ago
+That didn't work out right
+Traces of love
+
+Ribbons from her hair
+Souvenirs of days together
+The ring she used to wear
+Pages brown from old love letter
+
+Traces of love long ago
+That didn't work out right
+Traces of love with me tonight
+
+I close my eyes and say a prayer
+That in her heart she'll find
+A trace of love still there
+Somewhere, oh, oh
+
+Traces of hope in the night
+That she'll come back and dry
+These traces of tears from my eyes

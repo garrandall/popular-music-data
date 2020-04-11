@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lights-ellie-goulding
+lyrics_url: https://genius.com/Ellie-goulding-lights-lyrics
 name: Lights
 rankings:
 - end_date: '2011-08-26'
@@ -235,4 +236,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
 ---
+I had a way then
+Losing it all on my own
+I had a heart then
+But the queen has been overthrown
+And I'm not sleeping now
+The dark is too hard to beat
+And I'm not keeping up
+The strength I need to push me
 
+
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+And so I tell myself that I'll be strong
+And dreaming when they're gone
+Cause they're calling, calling, calling me home
+Calling, calling, calling home
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+
+
+Noises, I play within my head
+Touch my own skin
+And hope that I'm still breathing
+And I think back to when
+My brother and my sister slept
+In an unlocked place
+The only time I feel safe
+
+
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+And so I tell myself that I'll be strong
+And dreaming when they're gone
+Cause they're calling, calling, calling me home
+Calling, calling, calling home
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+
+
+Home, home
+Home, home
+
+
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+And so I tell myself that I'll be strong
+And dreaming when they're gone
+Cause they're calling, calling, calling me home
+Calling, calling, calling home
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+
+
+Home, home
+Home, home

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-go-demi-lovato
+lyrics_url: https://genius.com/Demi-lovato-let-it-go-lyrics
 name: Let It Go
 rankings:
 - end_date: '2013-12-20'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
 ---
+Let it go, let it go
+Can’t hold it back anymore
+Let it go, let it go
+Turn my back and slam the door
 
+
+The snow glows white on the mountain tonight
+Not a footprint to be seen
+A kingdom of isolation
+And it looks like I'm the queen
+The wind is howling like the swirling storm inside
+Couldn’t keep it in, Heaven knows I tried
+
+
+Don’t let them in, don’t let them see
+Be the good girl you always have to be
+Conceal, don’t feel, don’t let them know
+Well, now they know
+
+
+Let it go, let it go
+Can’t hold it back anymore
+Let it go, let it go
+Turn my back and slam the door
+And here I stand, and here I'll stay
+Let it go, let it go
+The cold never bothered me anyway
+
+
+It’s funny how some distance
+Makes everything seem small
+And the fears that once controlled me
+Can’t get to me at all
+Up here in the cold thin air
+I finally can breathe
+I know left a life behind
+But I’m too relieved to grieve
+
+
+Let it go, let it go
+Can’t hold it back anymore
+Let it go, let it go
+Turn my back and slam the door
+And here I stand, and here I'll stay
+Let it go, let it go
+The cold never bothered me anyway
+
+
+Standing frozen in the life I’ve chosen
+You won't find me, the past is so behind me
+Buried in the snow
+
+
+Let it go, let it go
+Can’t hold it back anymore
+Let it go, let it go
+Turn my back and slam the door
+And here I stand, and here I'll stay
+Let it go, let it go
+The cold never bothered me anyway
+
+
+(Na na, na na) Yeah
+(Na na na na na) Let it go
+(Na na, na na) Yeah
+(Na na na na na) Na na
+(Na na, na na) Let it go
+(Na na na na na) Let it go
+(Na na) Let it go
+(Na na) Ooh
+(Na na na na na) Let it go

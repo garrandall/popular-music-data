@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: closer-to-the-heart-rush
+lyrics_url: https://genius.com/Rush-closer-to-the-heart-lyrics
 name: Closer To The Heart
 rankings:
 - end_date: '1977-12-02'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
 ---
+And the men who hold high places
+Must be the ones who start
+To mold a new reality
+Closer to the heart
+Closer to the heart
 
+
+The blacksmith and the artist
+Reflect it in their art
+They forge their creativity
+Closer to the heart
+Yeah, it's closer to the heart
+
+
+Philosophers and ploughmen
+Each must know his part
+To sow a new mentality
+Closer to the heart
+Yeah, it's closer to the heart
+Yeah!  Oh
+
+
+
+
+You can be the captain
+And I will draw the chart
+Sailing into destiny
+Closer to the heart
+Closer to the heart
+Closer to the heart
+Closer to the heart
+Closer to the heart
+I said closer to the heart
+Closer to the heart
+Closer to your heart
+Closer to your heart

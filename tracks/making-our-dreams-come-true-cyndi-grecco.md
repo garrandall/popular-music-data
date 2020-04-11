@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: making-our-dreams-come-true-cyndi-grecco
+lyrics_url: https://genius.com/Cyndi-grecco-making-our-dreams-come-true-lyrics
 name: Making Our Dreams Come True
 rankings:
 - end_date: '1976-05-14'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
 ---
+We're gonna make it
 
+Give us any chance we'll take it
+Read us any rule we'll break it
+We're gonna make our dreams come true
+Doing it our way
+Nothing's gonna to turn us back now
+Straight ahead and on the track now
+We're gonna make our dreams come true
+Doing it our way
+
+There is nothing we won't try
+Never heard the word "impossible"
+This time there's no stopping us
+We're gonna make it
+
+On your mark, get set, and go now
+Got a dream and we must know now
+We're gonna make our dreams come true
+And we'll do it our way, yes our way
+Make all our dreams come true
+And we'll do it our way, yes our way
+Make all our dreams come true for me and you
+
+For me and you
+
+Nothing's gonna turn us back now
+Straight ahead and on the track now
+We're gonna make our dreams come true
+Doing it our way
+
+There is nothing we won't try
+Never heard the word "impossible"
+This time there's no stopping us
+We're gonna make it
+
+On your mark, get set, and go now
+Got a dream and we must know now
+We're gonna make our dreams come true
+And we'll do it our way, yes our way
+Make all our dreams come true
+And we'll do it our way, yes our way
+Make all our dreams come true for me and you

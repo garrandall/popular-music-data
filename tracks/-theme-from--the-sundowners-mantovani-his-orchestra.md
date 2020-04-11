@@ -1,7 +1,6 @@
 ---
 artists:
 - Mantovani
-- His Orchestra
 features: []
 genres: []
 key: -theme-from--the-sundowners-mantovani-his-orchestra

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: look-out-any-window-bruce-hornsby-the-range
+lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-look-out-any-window-lyrics
 name: Look Out Any Window
 rankings:
 - end_date: '1988-07-29'
@@ -56,4 +57,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
 ---
+There's a man working in a field
+Sees the rain and it's burning
+He's saying this can't be real
+As he sees the color
+Of the fields turning
 
+Far away, the men too busy
+Getting rich to care
+Close their eyes and
+Let it all out into the air
+Hoping nobody else would care
+
+Look out any window
+Look out any open door
+Look out any window
+To see what's going on
+In the air around you
+
+There's a man working on a boat
+Pulling lines from the water
+Just trying to stay afloat, ohh
+Filling the nets is getting harder
+
+Far away, they bend
+The rules so secretly
+Close their eyes and
+Let it all out into the sea
+Hoping nobody else would see
+
+Look out any window
+Look out any open door
+Look out any window
+To see what's going on
+In the air around you
+
+Far away, too many leaders
+Let them get their way
+Close their eyes and
+Let it all out into the bay
+Say they'll clear it up another day
+
+Look out any window
+Look out any open door
+Look out any window
+To see that's going on
+In the air around you
+
+(Look out)
+Look out for the big boys
+Telling you everything
+They're gonna do
+
+(Look out)
+Look out for the fat cat builder man
+Turning this into a waste land
+
+(Look out)
+Look out for the back room boys
+That say the smoke is gonna blow away
+
+(Look out)
+Look out for the men
+Who say it's okay sitting
+In a building far away

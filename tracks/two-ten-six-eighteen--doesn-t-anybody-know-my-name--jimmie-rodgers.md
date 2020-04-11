@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-ten-six-eighteen--doesn-t-anybody-know-my-name--jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Two-Ten-Six-Eighteen
 name: Two-Ten Six-Eighteen (Doesn't Anybody Know My Name)
 rankings:
 - end_date: '1963-10-18'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
 ---
+I've been away so long, fought a war that's come and gone
+Doesn't anybody know my name?
+My sister's up and wed, my mama has took to bed
+Now my old dog red's gone lame
+Please tell me if you can what time do the trains roll in?
+Two-ten, six-eighteen
+Ten-forty- four
 
+The house is falling down, no use in hangin' 'round
+Doesn't anybody know my name?
+The girl i left behind, she's gone with a friend of mine
+I don't have to read a sign to know things ain't the same
+Please tell me if you can what time do the trains roll in?
+Two-ten, six-eighteen
+Ten-forty-four
+
+Ya can't go far away on just a soldier's pay
+Doesn't anybody know my name?
+Use'ta be when i could see, everybody wanted me
+Now nobody comes to see a blind man catch a train
+Please tell me if you can what time do the trains roll in?
+Two-ten, six-eighteen
+Ten-forty-four

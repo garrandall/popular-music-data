@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-got-lucky-joboxers
+lyrics_url: https://genius.com/Joboxers-just-got-lucky-lyrics
 name: Just Got Lucky
 rankings:
 - end_date: '1983-09-16'
@@ -67,4 +68,143 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
 ---
+Your technique
+It leaves me weak
+My heart knows
+It's the beat I seek
 
+And I found it
+(Just got lucky)
+Oh yes, I found it
+(Just got lucky)
+
+I never worry
+That your love is fake
+I'm free and easy
+And I'm feeling jake
+
+'Cause I found it
+(Just got lucky)
+Oh boy, I found it
+(Just got lucky)
+
+'Cause I never felt
+This way before
+Like a dog always
+Begging for more, yeah
+
+I've been fooled
+By love so many times
+I gave up all the silly rhymes
+Kept my feelings
+All inside my heart
+
+A locked door
+No key was cut
+There was no fit
+Now I'm such a very lucky guy
+Gang way one side now
+Come on here me say
+
+We found the answer
+And it's plain to see
+(Come on here me say)
+I'm for you and you're for me
+
+'Cause I found it
+(Just got lucky)
+Together we found it
+(Just got lucky)
+
+I feel a quiver
+Every time we kiss
+The sky's the limit
+With a love like this
+
+'Cause I found it
+(Just got lucky)
+Together we found it
+(Just got lucky)
+
+'Cause I never felt
+This way before
+Like a dog always
+Begging for more, yeah
+
+I've been fooled
+By love so many times
+I gave up all the silly rhymes
+Kept my feelings
+All inside my heart
+
+A locked door
+No key was cut
+There was no fit
+Now I'm such a very lucky guy
+Gang way one side now
+Come on here me say
+
+We found the answer
+And it's plain to see
+(Come on here me say)
+I'm for you and you're for me
+
+'Cause I found it
+(Just got lucky)
+Together we found it
+(Just got lucky)
+
+I feel a quiver
+Every time we kiss
+The sky's the limit
+With a love like this
+
+'Cause I found it
+(Just got lucky)
+Together we found it
+(Just got lucky)
+
+'Cause I never felt
+This way before
+Like a dog always
+Begging for more, yeah
+
+I've been fooled
+By love so many times
+I gave up all the silly rhymes
+Kept my feelings
+All inside my heart
+
+A locked door
+No key was cut
+There was no fit
+Now I'm such a very lucky guy
+Gang way one side now
+Come on here me say
+Come on here me say
+
+(Just got lucky)
+(Just got lucky)
+
+Your technique
+It leaves me weak
+My heart knows
+It's the beat I seek
+
+And I found it
+(Just got lucky)
+Oh boy, I found it
+(Just got lucky)
+
+'Cause I never felt
+This way before
+
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky
+Just got lucky

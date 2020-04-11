@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sexual--li-da-di--amber
+lyrics_url: https://genius.com/Amber-sexual-li-da-di-lyrics
 name: Sexual (Li Da Di)
 rankings:
 - end_date: '1999-07-23'
@@ -123,4 +124,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
 ---
+Li da di
+Li da di
+Li da di da di da li
 
+Li da di
+Li da di
+Li da di da di da li
+
+Don't you know that when you touch me baby that it's torture
+Brush up against me I get chills all down my spine
+When you talk to me it's painful
+You don't know what you do to this heart of mine
+
+Don't make this one dimentional
+The way I feel is sexual
+The way I feel is sexual
+It can't just be intellectual
+The way I feel is sexual
+The way I feel is sexual
+When you're next to me
+
+Li da di
+Li da di
+Li da di da di da li
+
+Li da di
+Li da di
+Li da di da di da li
+
+I confess I watch your mouth move baby when you're speaking
+Study your body when you walk out of the room
+You'll see how much you value my friendship
+But I want you addicted to my perfume
+
+Don't make this one dimentional
+The way I feel is sexual
+The way I feel is sexual
+It can't just be intellectual
+The way I feel is sexual
+The way I feel is sexual
+When you're next to me
+
+When you're next to me
+
+Li da di
+Li da di
+Li da di da di da li
+
+Baby talk to me and let me kiss you
+Let me show you the things I can do for you
+
+Don't make this one dimentional
+The way I feel is sexual
+The way I feel is sexual
+It can't just be intellectual
+The way I feel is sexual
+The way I feel is sexual
+When you're next to me
+
+When you're next to me
+
+Li da di
+Li da di
+Li da di da di da li
+
+Don't make this one dimentional...

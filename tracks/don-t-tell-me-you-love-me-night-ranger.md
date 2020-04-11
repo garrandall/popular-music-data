@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-you-love-me-night-ranger
+lyrics_url: https://genius.com/Night-ranger-dont-tell-me-you-love-me-lyrics
 name: Don't Tell Me You Love Me
 rankings:
 - end_date: '1983-01-21'
@@ -51,4 +52,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
 ---
+It ain't the way you move
+It ain't the way that you move me
+Oh no
+It ain't the way you shake
+It ain't the way that you shake me
+Oh no
+I've lived 25 years as a kid on the run
+I've got a pistol for action
 
+
+Don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know
+Don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know
+
+
+I love the way you use
+I love the way that you use me
+Oh yeah
+I love the way you shoot
+I love the way that you shoot to kill me
+Oh yeah
+It's taken miles and lines to learn the right from the wrong
+I'll keep you hanging on
+
+
+So don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know
+Don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know
+
+
+
+
+Don't tell me you love me
+Don't tell me you love me
+(love me, you love me)
+Don't tell me you love me
+(you love me, you love me)
+Don't tell me you love me
+(you love me, you love me)
+Don't tell me you love me
+Love me, love me, yeah
+
+
+Don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know
+Don't tell me you love me
+Don't tell me you love me
+Don't tell me, I don't wanna know

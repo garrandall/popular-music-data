@@ -101,11 +101,11 @@ rankings:
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
 Wanna bump yo' body, wanna bump yo' body
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
-Wanna bump yo' body, wanna bump yo' body {Don't stop}
+Wanna bump yo' body, wanna bump yo' body
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Hmm mmm)
 Wanna bump yo' body, wanna bump yo' body (I wanna bump with you)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
-Wanna bump yo' body, wanna bump yo' body {Don't stop}
+Wanna bump yo' body, wanna bump yo' body
 
 
 Out on the dance floor, I'm holdin' you so tight
@@ -121,12 +121,12 @@ Let's do this, what we're doin', yeah
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
 Wanna bump yo' body, wanna bump yo' body (We can do this all night)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
-Wanna bump yo' body, wanna bump yo' body (Bumpin' your body) {Don't stop}
+Wanna bump yo' body, wanna bump yo' body (Bumpin' your body)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
 Wanna bump yo' body, wanna bump yo' body (Come on, baby, come on, baby)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Tonight)
 Wanna bump yo' body, wanna bump yo' body (You bump my body, I'll bump your body)
-{Don't stop}
+
 
 
 I'm-a grant your wish and let you know what's on my mind
@@ -143,7 +143,7 @@ Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (On the dance
 floor)
 Wanna bump yo' body, wanna bump yo' body (Don't stop)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Baby, bring it on)
-Wanna bump yo' body, wanna bump yo' body {Don't stop}
+Wanna bump yo' body, wanna bump yo' body
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (And let me)
 Wanna bump yo' body, wanna bump yo' body (Bump with your body)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Uh)
@@ -151,10 +151,10 @@ Wanna bump yo' body, wanna bump yo' body (Girl, come on)
 
 
 Bumpin', you and me, everybody get your freak on
-Bumpin', you and me, everybody get your freak on {Don't stop}
+Bumpin', you and me, everybody get your freak on
 Bumpin' (Bumpin'), you and me (You and me), everybody get your freak on
 (Baby, don't you wanna get your freak on)
-Bumpin', you and me (Baby), everybody get your freak on {Don't stop}
+Bumpin', you and me (Baby), everybody get your freak on
 
 
 Yippie-yi-yo-yippie-yi-yea (Yippie-yi-yo, baby), wanna bump yo' body,
@@ -163,12 +163,12 @@ Wanna bump yo' body (I wanna play with your body), wanna bump yo' body
 (I care, no, who's lookin', I don't care who's around)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (All I wanna know
 is can we get down)
-Wanna bump yo' body, wanna bump yo' body {Don't stop}
+Wanna bump yo' body, wanna bump yo' body
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby
 ('Cause I wanna bump with your body, baby, tonight)
 Wanna bump yo' body, wanna bump yo' body
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Come on)
-Wanna bump yo' body, wanna bump yo' body (And bump with me, baby) {Don'tstop}
+Wanna bump yo' body, wanna bump yo' body (And bump with me, baby)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby (Bump my body)
 Wanna bump yo' body, wanna bump yo' body (Bump my body)
 Yippie-yi-yo-yippie-yi-yea, wanna bump yo' body, baby

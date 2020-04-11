@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-know-me-ray-charles
+lyrics_url: https://genius.com/Ray-charles-you-dont-know-me-lyrics
 name: You Don't Know Me
 rankings:
 - end_date: '1962-08-03'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+You give your hand to me
+And then you say, "Hello"
+And I can hardly speak
+My heart is beating so
+And anyone can tell
+You think you know me well
+Well, you don't know me no
+No you don't know the one
+Who dreams of you each night
+And longs to kiss your lips
+And longs to hold you tight
+To you I'm just a friend
+That's all I've ever been
+No you don't know me
 
+
+I never knew the art of making love
+Though my heart aches with love for you, yeah
+Afraid and shy, I let my chance go by
+A chance that you might love me too
+
+
+You give your hand to me
+And then you say, "Goodbye"
+And I watched you walk away
+Beside the lucky guy
+No you'll never ever know
+The one who loved you so
+No you don't know me
+
+
+I never knew the art of making love
+Though my heart aches with love for you, yeah
+Afraid and shy, I let my chance go by
+A chance that you might love me too
+
+
+You give your hand to me
+And then you say, "Goodbye"
+And I watched you walk away
+Beside the lucky guy
+No you'll never ever know
+The one who loved you so
+No you don't know me
+
+
+I say you never ever know
+The one who loved you so
+No you don't know me
+No you don't love me

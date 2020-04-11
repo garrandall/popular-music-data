@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me--you-re-coming-back--the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-tell-me-lyrics
 name: Tell Me (You're Coming Back)
 rankings:
 - end_date: '1964-07-10'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+I want you back again
+I want your love again
+I know you find it hard to reason with me
+But this time it is different, darling you will see
 
+
+You got to tell me you are coming back to me
+
+
+You said we are through before
+You walked out on me before
+I tried to tell you, but you did not want to know
+This time you are different and determined to go
+
+
+
+
+I wait as the days go by
+I long for the nights to go by
+I hear the knock on my door that never comes
+I hear the telephone that has not rung

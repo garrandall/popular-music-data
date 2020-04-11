@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tra-la-la-la-suzy-dean-and-jean
+lyrics_url: https://www.musixmatch.com/lyrics/Dean-And-Jean/Tra-La-La-La-Suzy
 name: Tra La La La Suzy
 rankings:
 - end_date: '1963-11-08'
@@ -59,4 +60,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
 ---
+Tra la la la Suzy
+Tra la la la Suzy
 
+Tra la la la Suzy
+Tra la la la Suzy
+Tra la la la Suzy
+She's the girl for me
+
+Oh, you love little Sue so
+But you can't let Sue know
+You're afraid little Suzy
+Might turn her back on you
+
+After school, you'll miss her
+How you long to kiss her
+She's the loveliest, prettiest
+Sweetest little girl you ever knew
+
+I call her
+(Tra la la la Suzy)
+Keep on calling her
+(Tra la la la Suzy)
+
+Don't quit calling her
+Tra la la la Suzy
+She's the girl for me
+
+You get so discouraged
+If you just had courage
+Oh, you would ask little Suzy
+To go out on a date
+
+So today when you pass her
+Then you oughta ask her
+Yay, and I just hope you
+Haven't waited too late
+
+Today you're
+(Tra la la la Suzy)
+Keep on calling her
+(Tra la la la Suzy)
+
+Oh, don't quit calling her
+Tra la la la Suzy
+She's the girl for me
+
+So you asked little Suzy
+For a date for Tuesday
+Oh, and she said, yes
+What made you wait so long
+
+And now her books, you'll carry
+And pretty soon, you'll marry
+Oh, yeah, you'll go through life
+And keep on singing this song
+
+I love my
+(Tra la la la Suzy)
+Keep on calling her
+(Tra la la la Suzy)
+
+Oh, don't quit calling her
+Tra la la la Suzy
+She's the girl for me
+
+I love my
+(Tra la la la Suzy)
+Oh, keep on calling her
+(Tra la la la Suzy)
+
+Don't quit calling her
+Tra la la la Suzy
+She's the girl for me

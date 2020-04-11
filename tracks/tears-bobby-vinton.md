@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tears-bobby-vinton
+lyrics_url: https://genius.com/Bobby-vinton-tears-lyrics
 name: Tears
 rankings:
 - end_date: '1966-03-04'
@@ -27,4 +28,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
 ---
+Tears for souvenirs
+Are all you left me
+Memories of a love
+You never meant
 
+I just can't believe
+You could forget me
+After all the happy hours
+We spent together
+
+Tears have been my only consolation
+But tears can't mend a broken heart
+I must confess
+
+Let's forgive and forget
+Turn our tears of regret
+Once more to tears of happiness
+
+Tears have been my only consolation
+But tears can't mend a broken heart
+I must confess
+
+Let's forgive and forget
+Turn our tears of regret
+Once more to tears of happiness
+
+Let's change our tears to happiness

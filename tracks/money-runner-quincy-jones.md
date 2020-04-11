@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money-runner-quincy-jones
+lyrics_url: https://www.musixmatch.com/lyrics/Quincy-Jones/Money-Runner
 name: Money Runner
 rankings:
 - end_date: '1972-03-17'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
 ---
-
+Sister, sister, sister
+Sister, sister, sister
+What's goin' on
+What's goin' on
+What's goin' on
+What's goin' on
+Mother, mother
+There's too many of you crying
+Brother, brother, brother
+There's far too many of you dying
+You know we've got to find a way
+To bring some lovin' here today
+Father, father
+We don't need to escalate
+War is not the answer
+For only love can conquer hate
+You know we've got to find a way
+To bring some loving here today
+Picket lines and picket signs
+Don't punish me with brutality
+Talk to me so you can see
+What's goin' on
+Oh, what's going on
+What's goin' on
+What's goin' on
+Yeah, what's goin' on
+What's goin' on
+What's goin' on
+What's goin' on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: christmas-for-cowboys-john-denver
+lyrics_url: https://genius.com/John-denver-christmas-for-cowboys-lyrics
 name: Christmas For Cowboys
 rankings:
 - end_date: '1975-12-19'
@@ -23,4 +24,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
 ---
+Tall in the saddle, we spend Christmas Day, driving the cattle over snow sovered-plains
+All of the good gifts given today, ours is the sky and the wide open range
+Back in the cities they have different ways, football and eggnog and Christmas Parades
+I'll take my saddle, I'll take the reins, It's Christmas for cowboys wide-open plains
 
+A campfire for warmth as we stop for the night, the stars overhead are Christmas tree lights
+The wind sings a hymn as we bow down to pray, It's Christmas for cowboys, wide-open plains
+
+Tall in the saddle we spend Christmas Day, driving the cattle over snow-covered plains
+All of the good gifts given today, ours is the sky and the wide open range
+It's Christmas for cowboys, wide open plains

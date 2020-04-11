@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1984-spirit
+lyrics_url: https://genius.com/Spirit-1984-lyrics
 name: '1984'
 rankings:
 - end_date: '1970-02-13'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
 ---
+California
 
+1984 knockin' on your door, will you let it come, will you let it run your life ?
+
+Someone will be waiting for you at your door when you get home tonight
+Ah, yes, he's gonna tell you darkness gives you much more than you get from the light
+Plexi-plastic eyeballs, they're your special friends, they see you every night
+Well, he calls himself Big Brother but you know it's no game, you're never out of his sight
+
+1984 knockin' on your door, will you let it come, will you let it run your life ?
+
+It's time you started thinking inside your head that you should stand up and fight
+Oh, where will you be when your freedom is dead 14 years from tonight
+Those plexi-plastic 'copters they're your special friends, they see you every night
+Well, they call themselves protection but you know it's no game, you're never out of their sight
+
+1984 knockin' on your door, will you let it come, will you let it run ?
+1984 knockin' on your door, will you let it come, will you let it run ?
+1984 knockin' on your door, will you let it come, will you let it run your life ?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-disturb-this-groove-the-system
+lyrics_url: https://genius.com/The-system-dont-disturb-this-groove-lyrics
 name: Don't Disturb This Groove
 rankings:
 - end_date: '1987-04-17'
@@ -91,4 +92,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
 ---
+I'm in Heaven
+Listen
 
+
+Pay attention, are you listening?
+You're my favorite girl
+Excuse me for the moment
+I'm in another world
+On a mountain, by a fountain
+Flowers blooming everywhere
+With Venus and with cupid
+The picture's very clear
+
+
+Hang the sign upon the door, say, 'Don't disturb this groove'
+Just a way to say that, I'm so into you
+And the feeling's so real, so don't disturb this groove
+
+
+Erotic whispers for the listener
+Let the music fill the air
+Excuse me for a moment
+I'm at a loss for words
+By election, sheer perfection
+And as if these eyes would care
+Your heart is in the right place
+So don't you go and change
+Baby over and over
+The passion starts again
+You're my lollipops and everything
+And a little taste of sin
+Causing fire and desire
+In this mortal soul to live
+'Til the angels fall from Heaven
+And the day the earth stands still
+
+
+Hang the sign upon the door, say, 'Don't disturb this groove'
+Just a way to say that, I'm so into you
+And the feeling's so real, so don't disturb this groove
+
+
+When it feels so real, don't disturb this groove
+
+
+Close your eyes and let the music put you in the mood
+Can you feel it? (Uh huh)
+Baby, just lock the door and turn the phone off
+This time, it's time for me and you
+Are you ready? (Yes)
+
+
+Hang the sign upon the door, say, 'Don't disturb this groove'
+Just a way to say that, I'm so into you
+And the feeling's so real, so don't disturb this groove
+
+
+Close your eyes and let the music put you in the groove
+Lock the door and turn the phone off, it's time for me and you
+Hang the sign upon the door, say, 'Don't disturb this groove'

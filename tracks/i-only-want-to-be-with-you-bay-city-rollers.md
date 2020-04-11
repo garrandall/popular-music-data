@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-only-want-to-be-with-you-bay-city-rollers
+lyrics_url: https://genius.com/Bay-city-rollers-i-only-want-to-be-with-you-lyrics
 name: I Only Want To Be With You
 rankings:
 - end_date: '1976-09-10'
@@ -71,4 +72,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
 ---
+I don't know what it is that makes me love you so
+I only know I never want to let you go
+Cause you started something
+Oh can't you see
+Ever since we met you've had a hold on me
+Its happens to be true
+I only want to be with you
 
+It doesn't matter where you go or what you do
+I want to spend each moment of the day with you
+Look what has happened with just one kiss
+I never knew that I could be in love like this
+It's crazy but it's true
+I only want to be with you
+
+You stopped you smiled at me
+And asked me if I cared to dance
+I fell into your open arms
+I didn't stand a chance
+
+Now listen honey
+I just want to be beside you everywhere
+As long as we're together honey I don't care
+Cause you started something
+Oh can't you see
+Ever since we met you've had a hold on me
+Its crazy but its true
+I only want to be with you
+
+Its crazy but its true
+I only want be with you!
+
+You stopped you smiled at me
+And asked me if I cared to dance
+I fell into your open arms
+I didn't stand a chance
+
+Now listen honey
+I just want to be beside you everywhere
+As long as we're together honey I don't care
+Cause look what has happend after just one kiss
+I never thought that i could be in love like this
+Its crazy but its true
+I only want to be with you
+
+No matter what you do
+I only want to be with you
+
+Its crazy but its true
+I only want to be with you!

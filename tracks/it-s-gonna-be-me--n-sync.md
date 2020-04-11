@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-gonna-be-me--n-sync
+lyrics_url: https://genius.com/Nsync-its-gonna-be-me-lyrics
 name: It's Gonna Be Me
 rankings:
 - end_date: '2000-05-12'
@@ -107,4 +108,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
 ---
+It's gonna be me
+(Oh, yeah)
 
+
+You might've been hurt, babe
+That ain't no lie
+You've seen them all come and go, oh
+I remember you told me
+That it made you believe in
+No man, no cry
+Maybe that's why
+
+
+Every little thing I do
+Never seems enough for you
+You don't wanna lose it again
+But I'm not like them
+Baby, when you finally
+Get to love somebody
+Guess what?
+It's gonna be me
+
+
+You've got no choice, babe
+But to move on, and you know
+There ain't no time to waste
+You're just too blind (Too blind), to see
+But in the end, you know it's gonna be me
+You can't deny
+So just tell me why
+
+
+Every little thing I do
+Never seems enough for you
+You don't wanna lose it again
+But I'm not like them
+Baby, when you finally
+Get to love somebody
+Guess what
+It's gonna be me
+
+
+It's gonna be me
+(Oh, yeah)
+
+
+There comes a day
+When I'll be the one, you'll see
+It's gonna-gonna-gonna-gonna-gonna
+It's gonna be me
+
+
+All that I do
+Is not enough for you
+Don't wanna lose it
+But I'm not like that
+When finally (finally)
+You get to love
+Guess what (guess what)
+
+
+Every little thing I do
+Never seems enough for you
+You don't wanna lose it again
+But I'm not like them
+Baby, when you finally
+Get to love somebody
+Guess what
+It's gonna be me
+
+
+Every little thing I do
+Never seems enough for you
+You don't wanna lose it again
+But I'm not like them
+Baby, when you finally
+Get to love somebody
+Guess what
+It's gonna be me

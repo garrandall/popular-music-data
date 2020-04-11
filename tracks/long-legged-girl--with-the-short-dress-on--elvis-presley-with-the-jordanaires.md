@@ -1,6 +1,7 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: long-legged-girl--with-the-short-dress-on--elvis-presley-with-the-jordanaires

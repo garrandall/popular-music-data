@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-moment-kenny-g
+lyrics_url: https://genius.com/Kenny-g-the-moment-lyrics
 name: The Moment
 rankings:
 - end_date: '1996-11-22'
@@ -63,4 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
-
+Instrumental

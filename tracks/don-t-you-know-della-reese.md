@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-know-della-reese
+lyrics_url: https://genius.com/Della-reese-dont-you-know-lyrics
 name: Don't You Know
 rankings:
 - end_date: '1959-09-27'
@@ -79,4 +80,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
 ---
+Don't you know
+I have fallen in love with you
+For the rest of my whole life through
 
+Don't you know
+I was yours from the very day
+That you happened to come my way
+
+Can't you see
+I'm under your spell
+By the look in my eyes
+Can't you tell, can't you tell
+
+Now, don't you know
+Every beat of my heart keeps crying out
+I love you so
+Don't you know
+
+Don't you know
+Every beat of my heart keeps crying out
+I love you so
+Don't you know

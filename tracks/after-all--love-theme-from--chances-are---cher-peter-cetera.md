@@ -5,7 +5,8 @@ artists:
 features: []
 genres: []
 key: after-all--love-theme-from--chances-are---cher-peter-cetera
-name: After All (Love Theme From "Chances Are")
+lyrics_url: https://genius.com/Peter-cetera-after-all-with-cher-lyrics
+name: After All
 rankings:
 - end_date: '1989-03-17'
   rank: 59
@@ -88,4 +89,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
 ---
-
+Well, here we are again, I guess it must be fate
+We've tried it on our own
+But deep inside we've known
+We'd be back to set things straight
+I still remember when your kiss was so brand new
+Every memory repeats
+Every step I take retreats
+Every journey always brings me back to you
+After all the stops and starts
+We keep coming back to these two hearts
+Two angels who've been rescued from the fall
+And after all that we've been through
+It all comes down to me and you
+I guess it's meant to be
+Forever you and me, after all
+When love is truly right, this time it's truly right
+It lives from year to year, it changes as it goes
+Oh and on the way it grows
+But it never disappears
+After all the stops and starts
+We keep coming back to these two hearts
+Two angels who've been rescued from the fall
+And after all that we've been through
+It all comes down to me and you
+I guess it's meant to be
+Forever you and me, after all
+Always just beyond my touch
+You know I needed you so much
+After all, what else is livin' for?
+Oh, after all the stops and starts
+We keep coming back to these two hearts
+Two angels who've been rescued from the fall
+And after all that we've been through
+It all comes down to me and you
+I guess it's meant to be
+Forever you and me
+After all the stops and starts
+We keep coming back to these two hearts
+Two angels who've been rescued from the fall
+And after all that we've been through
+It all comes down to me and you
+I guess it's meant to be
+Forever you and me, after all

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: promise-me-love-andy-williams
+lyrics_url: https://genius.com/Andy-williams-promise-me-love-lyrics
 name: Promise Me Love
 rankings:
 - end_date: '1958-09-07'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
-
+Promise me love, promise me
+Kisses sweet love, meant for me
+Promise me love that you'll love me tenderly
+Oh love, promise me
+(Promise me)
+Promise me love, promise me
+(Oh, promise me)
+Arms to hold love, never set me free
+(Oh, promise me)
+Promise me love that you'll love me tenderly
+Oh love, promise me
+(Oh, promise me)
+I promise you blue cornflowers for your hair
+A golden necklace and my heart I swear
+I promise you a million promises I'd do
+And they'll come true
+Oh love, I promise you
+(Ooh, ooh)
+Promise me love, promise me
+(Oh, promise me)
+You'll be my love eternally
+(Oh, promise me)
+Swear it true love that you'll love me tenderly
+Oh love, promise me
+(Oh, promise me, love, oh, promise me)
+I promise you blue cornflowers for your hair
+A golden necklace and a ring to wear
+I promise you a million promises I'd do
+And they'll come true
+Oh love, I promise you
+(Ooh, ooh)
+Promise me love, promise me
+You'll be my love eternally
+(Oh, promise me)
+Swear it true love, that you'll love me tenderly
+Oh love, promise me
+(Oh, promise me, love, oh, promise me)
+Oh, promise me
+(Oh, promise me, love, oh, promise me)

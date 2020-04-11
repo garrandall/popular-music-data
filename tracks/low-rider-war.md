@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: low-rider-war
+lyrics_url: https://genius.com/War-low-rider-lyrics
 name: Low Rider
 rankings:
 - end_date: '1975-09-26'
@@ -67,4 +68,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
 ---
+All my friends know the low rider
+The low rider is a little higher
 
+The low rider drives a little slower
+Low rider, is a real goer
+
+Hey
+
+Low rider knows every street, yeah
+Low rider, is the one to meet, yeah
+
+Low rider don't use no gas now
+The low rider don't drive too fast
+
+Take a little trip, take a little trip
+Take a little trip and see
+Take a little trip, take a little trip
+Take a little trip with me

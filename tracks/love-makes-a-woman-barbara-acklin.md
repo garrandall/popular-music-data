@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-makes-a-woman-barbara-acklin
+lyrics_url: https://genius.com/Barbara-acklin-love-makes-a-woman-lyrics
 name: Love Makes A Woman
 rankings:
 - end_date: '1968-07-19'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
 ---
+In the fire
+It was burning
+Sweetheart, I know
+I should have been learning
 
+But my pockets
+Were full of money, yes they were
+I had someone, yes I did
+To call my honey
+(1: But 2: Yes 3: Ooh, and 4: And) it's love (ooh, sweet love)
+That makes a woman (3: yes, it is) (ooh, that makes a woman)
+Yes, it's love (ooh, sweet love)
+That makes a woman (ooh, that makes a woman)
+
+Something told me that this wouldn't last
+Now my heartache is in the past
+I had to swallow all of my pride
+And admit to myself deep down inside
+
+Diamonds and pearls
+Don't you know that I've had enough
+But I feel so much better, yes I do
+Dressed in love
+
+What she is, yeah
+What she is

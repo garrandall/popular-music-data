@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-left-my-heart-in-san-francisco-tony-bennett
+lyrics_url: https://genius.com/Tony-bennett-i-left-my-heart-in-san-francisco-lyrics
 name: I Left My Heart In San Francisco
 rankings:
 - end_date: '1962-08-17'
@@ -91,4 +92,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
 ---
+The loveliness of Paris seems somehow sadly gay
+The glory that was Rome is of another day
+I've been terribly alone and forgotten in Manhattan
+I'm going home to my city by the Bay
 
+I left my heart in San Francisco
+High on a hill, it calls to me
+To be where little cable cars climb halfway to the stars
+The morning fog may chill the air, I don't care
+
+My love waits there in San Francisco
+Above the blue and windy sea
+When I come home to you, San Francisco
+Your golden sun will shine for me

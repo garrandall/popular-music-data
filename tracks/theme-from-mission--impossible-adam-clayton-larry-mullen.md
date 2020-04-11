@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: theme-from-mission--impossible-adam-clayton-larry-mullen
+lyrics_url: https://genius.com/Adam-clayton-and-larry-mullen-theme-from-mission-impossible-juniors-hard-mix-edit-lyrics
 name: 'Theme From Mission: Impossible'
 rankings:
 - end_date: '1996-05-17'
@@ -88,4 +89,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
 ---
-
+Mr. Phelps, Mr. Phelps
+Mr. Phelps, Mr. Phelps
+This tape will self-destruct in 5 seconds
+This tape will self-destruct in 5 seconds
+This tape will self-destruct in 5 seconds
+This tape will self-destruct in
+This tape will self-destruct in
+This tape will self-destruct
+This tape will self-destruct in 5 seconds
+Mr. Phelps, your mission should you decide to accept it
+Mr. Phelps
+Mr. Phelps, your mission should you decide to accept it
+This tape will self-destruct in 5 seconds

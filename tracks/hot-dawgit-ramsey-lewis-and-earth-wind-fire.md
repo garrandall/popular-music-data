@@ -1,9 +1,8 @@
 ---
 artists:
-- Ramsey Lewis And Earth
-- Wind
-- Fire
-features: []
+- Ramsey Lewis
+features:
+- Earth, Wind & Fire
 genres: []
 key: hot-dawgit-ramsey-lewis-and-earth-wind-fire
 name: Hot Dawgit

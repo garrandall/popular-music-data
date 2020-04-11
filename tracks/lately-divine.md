@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lately-divine
+lyrics_url: https://genius.com/Divine-girl-group-lately-lyrics
 name: Lately
 rankings:
 - end_date: '1998-09-18'
@@ -115,4 +116,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
 ---
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
 
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Have you ever felt a breeze hit your heart
+Like the wind was blowing it apart (blowing it apart)
+As you're spinning like a merry-go-round
+Indications of a storm touching down
+
+I wish that I could weather any storm
+But I guess it was a heart break from the norm
+Was a day I will always remember
+The saddest day in sweet November
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+(Watching the days go by, oh)
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away (sitting away)
+Watching the days go by (watching the days go by)
+
+Baby I'm on my knees, praying to God help me please
+Bring my baby back, right back to me, mmm
+If lovin' you is right, then I don't wanna go wrong
+So I drown myself with tears
+Sittin' here, singin' another sad love song
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Lately I've been torn apart
+I wish you hadn't broke my heart
+I'm missing you babe, missing you everyday
+Lately I've been torn apart
+I wish you hadn't broke my heart
+I'm missing you babe, missing you everyday
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Lately (I've been watching you)
+Been thinkin bout you baby
+(And everything you do)
+Just sittin' away watching the days go by
+
+Lately (I've been watching you)

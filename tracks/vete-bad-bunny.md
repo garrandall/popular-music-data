@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vete-bad-bunny
+lyrics_url: https://www.musixmatch.com/lyrics/Bad-Bunny-7/Vete
 name: Vete
 rankings:
 - end_date: '2019-12-13'
@@ -67,3 +68,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+Yeah, yeah, yeah, yeah
+Yeah, yeah, yeah, yeah
+
+Si te vas
+Yo quiero saber si tú te vas
+Mami, cuando tú quieras
+Cuando tú quieras
+(Yeah, yeah)
+
+Vete (Eh, eh, eh)
+Nadie te está aguantando y la puerta está abierta (Eh)
+No te preocupes por nosotros dos
+Nuestra historia ya está muerta (Eh)
+
+Espero que seas feliz
+Y sí que te diviertas (Eh)
+Pero pa' acá no vuelvas
+No, no, no, no
+
+Vete (Eh, eh, eh)
+Nadie te está aguantando y la puerta está abierta (Eh)
+No te preocupes por nosotros dos
+Nuestra historia ya está muerta (Eh)
+
+Espero que seas feliz
+Y que te diviertas (Eh)
+Pero pa' acá no vuelvas
+No, no, no, no
+
+(Ey) Dime qué esperas
+Baby, te quiero pero afuera
+Eres alguien por dentro y otra por fuera
+Y ya no siento nada cuando te encueras
+
+Dame, dame banda (Eh)
+En mi corazón, ya tú no eres la que manda
+Se acabó, por ti ya no siento nada
+De nuestra serie ya no salen temporadas
+
+Así que vete lejos
+Dile al diablo que te envíe el pin
+Hace tiempo que no somos un team
+Pa'l carajo nuestro aniversario y San Valentín
+Ya no hay más Christian Lun ni los trajes en satín
+
+Síguelo que está verde (Eh)
+Que tienes la culpa, es lo que te muerde
+Quédate con el perro pa' que de mí te acuerdes
+Y pienses en to' lo que te pierdes
+
+Pero te deseo suerte, ahora soy más fuerte
+Gracias a to' lo que me hiciste (Eh)
+Tú nunca me quisiste (Eh)
+No sé por qué me insistes
+
+Pero te deseo suerte, ahora soy más fuerte
+Gracias a to' lo que me hiciste (Eh)
+Tú nunca me quisiste (Eh)
+No sé por qué me insistes
+
+Vete (Eh, eh, eh)
+Nadie te está aguantando y la puerta está abierta (Eh)
+No te preocupes por nosotros dos
+Nuestra historia ya está muerta (Eh)
+
+Espero que seas feliz y que te diviertas (Eh)
+Pero pa' acá no vuelvas
+No, no, no, no
+
+Vete (Eh, eh, eh)
+Nadie te está aguantando y la puerta está abierta (Eh)
+No te preocupes por nosotros dos
+Nuestra historia ya está muerta (Eh)
+
+Espero que seas feliz y que te diviertas (Eh)
+Pero pa' acá no vuelvas
+No, no, no, no

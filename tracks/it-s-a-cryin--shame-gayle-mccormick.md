@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-a-cryin--shame-gayle-mccormick
+lyrics_url: https://genius.com/Gayle-mccormick-its-a-cryin-shame-lyrics
 name: It's A Cryin' Shame
 rankings:
 - end_date: '1971-09-24'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
 ---
+Love walked out the door, it's a cryin' shame we don't have it no more
+Love walked out the door, it's a cryin' shame we don't have it no more
 
+Readin' your letter, I didn't know whether
+To call you up and talk again
+When I saw the name you signed, flowin' through my mind
+Was a memory of way back when
+Now all that I can wish you is good luck, baby
+Sorry that it couldn't be me
+But it felt so right
+If we'd held on tight
+I'd be with you tonight
+We never should'a let our...
+
+I won't forget the summer, my heart was like a drummer
+Just beatin' every night away
+Walkin' in the sun with you, baby we were one
+And the love was really ours to stay
+Now all I get to keep is a faded picture
+You belong to her today
+And the memory
+Of-a you and me
+Is just a used to be
+We never should'a let our...
+
+Love slipped through my hands
+It's a cryin' shame I can't play in your band
+Love fell at my feet
+It's a cryin' shame the bitter isn't the sweet
+O-oh
+O-oh
+I'm so sorry, baby...

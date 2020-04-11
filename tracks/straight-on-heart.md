@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: straight-on-heart
+lyrics_url: https://genius.com/Heart-straight-on-lyrics
 name: Straight On
 rankings:
 - end_date: '1978-09-29'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+Quite some time, I been sittin' it out
+Didn't take no chances, I was a prisoner of doubt
+I knocked down the wailin' wall, ain't no sin
+Got the feel of fortune, deal me in
 
+Comin' straight on for you
+You made my mind
+Now I'm stronger, now I'm comin' through
+Straight on, straight on for you
+Straight on for you
+
+Now I know I got to play my hand
+What the winner don't know, a gambler understands
+My heart keeps playin' it through with you, my friend
+I'll take my chances on you again and again, again
+
+Comin' straight on for you
+You made my mind
+Now I'm stronger, now I'm comin' through
+Straight on, straight on for you
+Straight on for you
+
+Comin' straight on for you
+You made my mind
+And now I'm stronger, now I'm comin' through
+Straight on, straight on for you
+Straight on, straight on
+Straight on for you
+Straight on for you
+
+You made my mind
+Now I'm stronger, now I'm comin' through
+Straight on, straight on for you
+Straight on, straight on
+I'm straight on for you
+Straight on for you

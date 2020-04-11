@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: didn-t-we-almost-have-it-all-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-didnt-we-almost-have-it-all-lyrics
 name: Didn't We Almost Have It All
 rankings:
 - end_date: '1987-08-07'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
 ---
+Remember when we held on in the rain
+The night we almost lost it
+Once again we can take the night into tomorrow
+Living on feelings
+Touching you I feel it all again
 
+
+Didn't we almost have it all
+When love was all we had worth giving?
+The ride with you was worth the fall my friend
+Loving you makes life worth living
+Didn't we almost have it all?
+The night we hold on till the morning
+You know you'll never love that way again
+Didn't we almost have it all?
+
+
+The way you used to touch me felt so fine
+We kept our hearts together down the line
+A moment in the soul can last forever
+Comfort and keep us
+Help me bring the feeling back again
+
+
+Didn't we almost have it all
+When love was all we had worth giving?
+The ride with you was worth the fall my friend
+Loving you makes life worth living
+Didn't we almost have it all?
+The night we hold on till the morning
+You know you'll never love that way again
+Didn't we almost have it all?
+
+
+Didn't we have the best of times
+When love was young and new?
+Couldn't we reach inside and find
+The world of me and you?
+We'll never lose it again
+Because once you know what love is
+You never let it end
+
+
+Didn't we almost have it all
+When love was all we had worth giving?
+The ride with you was worth the fall my friend
+Loving you makes life worth living
+Didn't we almost have it all?
+The night we hold on till the morning
+You know you'll never love that way again
+Didn't we almost have it all?
+Didn't we almost have it all?

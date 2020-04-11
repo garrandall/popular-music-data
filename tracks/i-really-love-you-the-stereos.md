@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-really-love-you-the-stereos
+lyrics_url: https://genius.com/The-stereos-doo-wop-group-i-really-love-you-lyrics
 name: I Really Love You
 rankings:
 - end_date: '1961-10-01'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
 ---
+Yeah, you, I really, really love you
+Nobody else will do
+That's why I love you
+That's why, why, why
+Yeah, you, I really, really want you
+Nobody else will do
+That's why I love you
+That's why, why, why
 
+
+Well, babe, you know I love you so
+I'd pay the world if you could know
+But when I see, you coming down the street
+My heart skips a beat
+
+
+You, I really, really need you
+But yet, you play me for a fool
+Why do you do me like you do, do, do?
+Yeah
+
+
+Well, babe, you know I love you so
+I'd pay the world if you could know
+But when I see, you coming down the street
+My heart skips a beat
+
+
+You, I really really need you
+But yet you play me for a fool
+Why do you do me like you do
+Why do you do me like you do
+Why, why

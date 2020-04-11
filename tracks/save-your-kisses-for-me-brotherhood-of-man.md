@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-your-kisses-for-me-brotherhood-of-man
+lyrics_url: https://genius.com/Brotherhood-of-man-save-your-kisses-for-me-lyrics
 name: Save Your Kisses For Me
 rankings:
 - end_date: '1976-05-14'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
 ---
+Though it hurts to go away, it's impossible to stay
+But there's one thing I must say before I go
+I love you (I love you), you know
+I'll be thinking of you in most everything I do
+Now the time is moving on and I really should be gone
+But you keep me hanging on for one more smile
+I love you (I love you), all the while
+With your cute little way will you promise that you'll save
 
+
+Your kisses for me, save all your kisses for me
+Bye, bye, baby, bye, bye
+Don't cry, honey, don't cry
+Gonna walk out the door
+But I'll soon be back for more
+Kisses for me, save all your kisses for me
+So long, honey, so long
+Hang on, baby, hang on
+Don't you dare me to stay
+'Cause you know I'll have to say
+
+
+That I've got to work each day and that's why I go away
+But I count the seconds 'til I'm home with you
+I love you (I love you), it's true
+You're so cute, honey gee, won't you save them up for me
+
+
+Your kisses for me, save all your kisses for me
+Bye, bye, baby, bye, bye
+Don't cry, honey, don't cry
+Gonna walk out the door
+But I'll soon be back for more
+Kisses for me, save all your kisses for me
+So long, honey, so long
+Hang on, baby, hang on
+Don't you dare me to stay
+'Cause you know you've got to save
+Your kisses for me, save all your kisses for me
+Bye, bye, baby, bye, bye
+Don't cry, honey, don't cry
+Won't you save them for me even though you're only three

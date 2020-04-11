@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-people-belouis-some
+lyrics_url: https://www.musixmatch.com/lyrics/Belouis-Some/Some-People
 name: Some People
 rankings:
 - end_date: '1985-08-09'
@@ -31,4 +32,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
 ---
+Some people dance cheek to cheek
+Some people dance
 
+Life was so simple then
+A kind of playtime
+You made it easy then
+We had a great time
+
+I try not to talk too fast
+Like you do when you fall in love
+But some people let their passion scream
+And some people understand their dream
+
+Life was so simple then
+A kind of playtime
+You made it easy then
+We had a great time
+
+Some people dance cheek to cheek
+Some people dance
+
+Life was so simple then
+A kind of playtime
+You made it easy then
+We had a great time
+
+I take you somewhere different
+It's only me can see the change
+'Cause some people are tied to emotion
+And some people understand their dream
+
+Life was so simple then
+A kind of playtime
+You made it easy then
+We had a great time
+
+Some people dance cheek to cheek
+Some people dance
+
+Life was so simple then
+A kind of playtime
+You made it easy then
+We had a show time
+
+Some people dance cheek to cheek
+Some people dance
+
+Some people dance cheek to cheek
+Some people dance
+
+Some people

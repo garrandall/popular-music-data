@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cruel-to-be-kind-nick-lowe
+lyrics_url: https://genius.com/Nick-lowe-cruel-to-be-kind-lyrics
 name: Cruel To Be Kind
 rankings:
 - end_date: '1979-08-03'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
 ---
+Oh, I can't take another heartache
+Though you say you're my friend, I'm at my wit's end
+You say your love is bona fide
+But that don't coincide with the things that you do
+And when I ask you to be nice, you say
 
+
+You gotta be
+Cruel to be kind in the right measure
+Cruel to be kind it's a very good sign
+Cruel to be kind means that I love you
+Baby, you gotta be cruel to be kind
+
+
+Well, I do my best to understand, dear
+But you still mystify and I want to know why
+I pick myself up off the ground
+To have you knock me back down again and again
+And when I ask you to explain you say
+
+
+You gotta be
+Cruel to be kind in the right measure
+Cruel to be kind it's a very good sign
+Cruel to be kind means that I love you
+Baby, you gotta be cruel to be kind
+
+
+Well, I do my best to understand, dear
+But you still mystify and I want to know why
+I pick myself up off the ground
+To have you knock me back down again and again
+And when I ask you to explain you say
+
+
+You gotta be
+Cruel to be kind in the right measure
+Cruel to be kind it's a very good sign
+Cruel to be kind means that I love you
+Baby, you gotta be cruel to be kind

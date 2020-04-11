@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-won-t-be-anymore-charlie-rich
+lyrics_url: https://genius.com/Charlie-rich-there-wont-be-anymore-lyrics
 name: There Won't Be Anymore
 rankings:
 - end_date: '1974-02-01'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
 ---
+Don't wait for the postman
+If you're looking for a letter from me
+There won't be anymore
+There won't be anymore
 
+And don't sit by your telephone
+If you're waiting for a call from me
+There won't be anymore
+There won't be anymore
+
+Don't think of the love we had
+Til you turned bad
+And broke my loving heart
+And when your heart is breaking
+And you need some loving from me
+There won't be anymore
+There won't be anymore
+
+Don't think of the love we had
+Til you turned bad
+And broke my loving heart
+And when your heart is breaking
+And you need some loving from me
+There won't be anymore
+There won't be anymore
+
+It won't be like before
+There won't be anymore

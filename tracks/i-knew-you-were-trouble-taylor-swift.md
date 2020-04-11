@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-knew-you-were-trouble-taylor-swift
+lyrics_url: https://genius.com/Taylor-swift-i-knew-you-were-trouble-lyrics
 name: I Knew You Were Trouble
 rankings:
 - end_date: '2012-11-02'
@@ -151,4 +152,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
 ---
+Once upon a time, a few mistakes ago
+I was in your sights, you got me alone
+You found me, you found me, you found me
+I guess you didn't care, and I guess I liked that
+And when I fell hard, you took a step back
+Without me, without me, without me
 
+
+And he's long gone, when he's next to me
+And I realize the blame is on me
+
+
+'Cause I knew you were trouble when you walked in
+So, shame on me now
+Flew me to places I'd never been
+'Til you put me down, oh
+I knew you were trouble when you walked in
+So, shame on me now
+Flew me to places I'd never been
+Now I'm lying on the cold hard ground
+Oh, oh-oh
+Trouble, trouble, trouble
+Oh, oh-oh
+Trouble, trouble, trouble
+
+
+No apologies, he'll never see you cry
+Pretend he doesn't know
+That he's the reason why
+You're drowning, you're drowning
+You're drowning
+And I heard you moved on
+From whispers on the street
+A new notch in your belt is all I'll ever be
+And now I see, now I see
+Now I see
+
+
+He was long gone when he met me
+And I realize the joke is on me, hey!
+
+
+I knew you were trouble when you walked in (oh)
+So, shame on me now
+Flew me to places I'd never been
+'Til you put me down, oh
+I knew you were trouble when you walked in
+So, shame on me now
+Flew me to places I'd never been (yeah)
+Now I'm lying on the cold hard ground
+Oh, oh-oh (yeah)
+Trouble, trouble, trouble
+Oh, oh-oh
+Trouble, trouble, trouble
+
+
+And the saddest fear
+Comes creeping in
+That you never loved me
+Or her, or anyone, or anything, yeah!
+
+
+I knew you were trouble when you walked in
+So, shame on me now
+Flew me to places I'd never been (never been)
+'Til you put me down, oh
+I knew you were trouble when you walked in
+(Knew it right there)
+So, shame on me now (knew it right there)
+Flew me to places I'd never been (ooh)
+Now I'm lying on the cold hard ground
+Oh, oh-oh
+Trouble, trouble, trouble (oh)
+Oh, oh-oh
+Trouble, trouble, trouble
+
+
+I knew you were trouble when you walked in
+Trouble, trouble, trouble
+I knew you were trouble when you walked in
+Trouble, trouble, trouble

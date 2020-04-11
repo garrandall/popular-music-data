@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-wanted-kansas
+lyrics_url: https://genius.com/Kansas-all-i-wanted-lyrics
 name: All I Wanted
 rankings:
 - end_date: '1986-11-07'
@@ -79,4 +80,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
 ---
+You say it's time to stay behind
+All I wanted was to hold you
+All I wanted was to touch you
 
+No need for blame cause we're not the same
+All I wanted was to love you
+That's all I wanted
+
+How many times will it take
+Hurting me the way you do
+How many times till I break
+You're hurting me the way I'm loving you the way I do
+
+It's not so strange for us to change
+All I wanted was to love you that's all I wanted
+
+How many times will it take
+Hurting me the way you do
+How many times till I break
+You're hurting me the way
+
+I'm loving you the way I do

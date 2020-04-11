@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-my-everything-the-temptations
+lyrics_url: https://genius.com/The-temptations-youre-my-everything-lyrics
 name: You're My Everything
 rankings:
 - end_date: '1967-08-04'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
 ---
+You surely must know magic girl
+Because you changed my life
+It was dull and ordinary
+You made it sunny and bright
 
+Now, I was blessed the day I found you
+Gonna build my whole world around you
+You're everything good, girl
+And you're all that matters to me
+
+When my way was dark and troubles were near
+Your love provided the light so I could see, girl
+Just knowin' your love was near when times were bad
+Kept the world from closin' in on me, girl
+
+I was blessed the day I found you
+Gonna build my whole world around you
+You're everything good girl
+And you're all that matters to me
+
+Baby, you're part of every thought I think each day
+Your name is in every phrase my lips say
+Every dream I dream is about you
+Honey I couldn't live without you
+
+Baby (Baby), baby (Baby), baby
+You're my everything, you're my everything, yes you are
+(You're my everything, girl)
+
+You're the girl I sing about
+In every love song I sing
+(You're my everything)
+You're my winter baby
+My summer, my fall and spring
+(You're my everything)
+
+Now, now, I was blessed the day I found you
+Gonna build my whole world around you
+You're everything good girl and you're all that matters to me
+You're my everything, you're my everything, yes you are
+(When my way was dark and troubles were near, don't you know baby, that you're my everything)
+(Don't you know you're my everything)
+You're my everything, you're my everything
+(Don't you know you're my everything)
+You're my everything, you're my everything

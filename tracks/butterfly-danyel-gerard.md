@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: butterfly-danyel-gerard
+lyrics_url: https://genius.com/Danyel-gerard-butterfly-lyrics
 name: Butterfly
 rankings:
 - end_date: '1972-06-16'
@@ -43,4 +44,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
 ---
+Tu me dis loin des yeux loin du cœur
+Tu me dis qu'on oublie le meilleur
+Malgré les horizons je sais qu'elle m'aime encore
+Cette fille que j'avais surnommée
 
+
+Butterfly, my butterfly
+Dans un mois je reviendrai
+Butterfly, my butterfly
+Près de toi je resterai
+
+
+L'océan, c'est petit, tout petit
+Pour deux cœurs ou l'amour a grandi
+Malgré ce que tu dis tu vois qu'elle m'aime encore
+Cette fille que j'avais enlassée
+
+
+Butterfly
+My butterfly, dans un mois je reviendrai
+Butterfly
+My butterfly, près de toi je resterai
+
+
+Notre amour est si grand, oui, si grand
+Que le ciel y tiendrait tout dedans
+Malgré ce que tu dis je sais qu'elle m'aime encore
+Cette fille que j'avais embrassée
+
+
+Butterfly, my butterfly
+Dans un mois je reviendrai
+Butterfly, my butterfly
+Près de toi je resterai
+
+Butterfly, my butterfly
+Dans un mois je reviendrai
+Butterfly, my butterfly
+Près de toi je resterai
+
+Butterfly, my butterfly
+Dans un mois je reviendrai
+Butterfly, my butterfly
+Près de toi je resterai

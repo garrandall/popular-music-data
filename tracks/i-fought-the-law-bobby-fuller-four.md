@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-fought-the-law-bobby-fuller-four
+lyrics_url: https://genius.com/Bobby-fuller-four-i-fought-the-law-lyrics
 name: I Fought The Law
 rankings:
 - end_date: '1966-02-04'
@@ -51,4 +52,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
 ---
+I'm breakin' rocks in the hot sun
+I fought the law and the law won
+I fought the law and the law won
+I needed money 'cause I had none
+I fought the law and the law won
+I fought the law and the law won
 
+
+I left my baby and I feel so bad
+I guess my race is run
+Oh, she's the best girl I ever had
+I fought the law and the law won
+I fought the law and the law won
+
+
+I'm robbin' people with a six-gun
+I fought the law and the law won
+I fought the law and the law won
+I miss my baby and the good fun
+I fought the law and the law won
+I fought the law and the law won
+
+
+I left my baby and I feel so bad
+I guess my race is run
+Oh, she's the best girl I ever had
+I fought the law and the law won
+I fought the law and the law won

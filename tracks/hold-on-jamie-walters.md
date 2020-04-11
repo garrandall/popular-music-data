@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-jamie-walters
+lyrics_url: https://genius.com/Jamie-walters-hold-on-lyrics
 name: Hold On
 rankings:
 - end_date: '1995-02-03'
@@ -115,4 +116,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
 ---
+I don't wanna see you ever sad
+And everything that I've got you can have
+When it's all too much
+You need some human touch
+To see that it's really not so bad
 
+Did you call on every saint you know
+But still, you feel like you're on your own
+
+Can you see through your tears
+I will always be here
+And you're not out there all alone
+
+Chorus
+
+Hold on, till you feel a little stronger
+Hold on to me
+Hold on, everything's gonna be alright
+Just hold on to me tonight
+
+Anything that hurts you, hurts me too
+I´m not gonna let your world turn blue
+Will you take my hand
+And feel how close I am
+There ain't nothin' I won't do for you
+
+Chorus
+Hold on, till you feel a little stronger
+Hold on to me
+Hold on, everything's gonna be alright
+Just hold on to me tonight
+
+I know the world
+Can drive you to your knees
+But when you need to cry, baby
+Cry to me
+
+Chorus
+Hold on, till you feel a little stronger
+Hold on to me
+Hold on, everything's gonna be alright
+Just hold on to me tonight

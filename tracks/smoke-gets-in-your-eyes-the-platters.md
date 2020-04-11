@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smoke-gets-in-your-eyes-the-platters
+lyrics_url: https://genius.com/The-platters-smoke-gets-in-your-eyes-lyrics
 name: Smoke Gets In Your Eyes
 rankings:
 - end_date: '1958-11-23'
@@ -83,4 +84,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
 ---
+They asked me how I knew
+My true love was true
+I of course replied, something here inside
+Cannot be denied
 
+They said some day you'll find
+All who love are blind
+When your heart's on fire, you must realize
+Smoke gets in your eyes
+
+So I chaffed them and I gaily laughed
+To think they could doubt my love
+Yet today my love has flown away
+I am without my love
+(Without my love)
+
+Now laughing friends deride
+Tears I cannot hide, hide
+So I smile and say, when a lovely flame dies
+
+Smoke gets in your eyes
+(Smoke gets in your eyes)
+(Smoke gets in your eyes)
+Smoke gets in your eyes!

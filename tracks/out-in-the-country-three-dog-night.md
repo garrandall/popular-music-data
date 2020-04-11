@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-in-the-country-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-out-in-the-country-lyrics
 name: Out In The Country
 rankings:
 - end_date: '1970-09-04'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
 ---
+Whenever I need to leave it all behind
+Or feel the need to get away
+I find a quiet place, far from the human race
+Out in the country
 
+Before the breathin' air is gone
+Before the sun is just a bright spot in the nighttime
+Out where the rivers like to run
+I stand alone and take back somethin' worth rememberin'
+
+Whenever I feel them closing in on me
+Or need a bit of room to move
+When life becomes too fast, I find relief at last
+Out in the country
+
+Before the breathin' air is gone
+Before the sun is just a bright spot in the nighttime
+Out where the rivers like to run
+I stand alone and take back somethin' worth rememberin'
+
+Before the breathin' air is gone
+Before the sun is just a bright spot in the nighttime
+Out where the rivers like to run
+I stand alone and take back somethin' worth rememberin'
+
+Before the breathin' air is gone
+Before the sun is just a bright spot in the nighttime
+Out where the rivers like to run
+I stand alone and take back somethin' worth rememberin'
+
+Before the breathin' air is gone
+Before the sun is just a bright spot in the nighttime

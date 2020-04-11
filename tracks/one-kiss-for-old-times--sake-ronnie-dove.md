@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-kiss-for-old-times--sake-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-one-kiss-for-old-times-sake-lyrics
 name: One Kiss For Old Times' Sake
 rankings:
 - end_date: '1965-03-19'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
 ---
+CHORUS
+One kiss for old times' sake
+Just like it used to be
+One kiss for old times' sake
+Could bring you back to me
 
+If you'd give me a chance
+To love you one more time
+Maybe my lips on yours
+Could change your mind
+
+And you would know how much I want, I need you, I lo-o-o-o-ove you?
+Oh, my darlin', please grant me this
+
+CHORUS
+
+If there's a spark of love
+Still left from our romance
+You owe it to your heart
+To give me one more chance
+
+Oh, can't you see how much I want, I need you, I lo-o-o-o-ove you?
+Oh, my darlin', please grant me this
+
+CHORUS
+(One kiss for old times' sake)

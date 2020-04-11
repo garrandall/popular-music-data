@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: every-little-kiss-bruce-hornsby-the-range
+lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-every-little-kiss-lyrics
 name: Every Little Kiss
 rankings:
 - end_date: '1986-08-01'
@@ -104,4 +105,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
 ---
+Way out here, working on the docks
+Everyone sees the long day through
+But what would I do without the nights
+And the phone, and the chance just to talk to you?
+Oh, what would I do now—
+Hey—just to talk to you
+A thousand miles away?
 
+
+What I wouldn't give for only one night
+A little relief in sight
+Or someday when times weren't so tight
+
+When the day goes down on the water town—
+When the sun sinks low all around—
+That's when I know I, I need you now
+Yes, you're what I miss: every little kiss
+Every little one! Every little one
+
+
+Everybody here's a number, not a name
+But I guess that's all right with me
+As I sit alone after a long day
+In the absence of company
+Oh I let my mind wander—
+Hey, yeah—a thousand miles away
+
+
+What I wouldn't give for only one night
+A little relief in sight
+Or someday when times weren't so tight
+
+When the day goes down on the water town—
+When the sun sinks low all around—
+That's when I know I, I need you now
+Yes, you're what I miss: every little kiss
+Every little one! Every little one
+
+Hey, yeah
+
+Hey, yeah
+
+
+What I wouldn't give for only one night
+A little relief in sight
+Or someday when times weren't so tight
+
+When the day goes down on the water town—
+When the sun sinks low all around—
+That's when I know I, I need you now
+Yes, you're what I miss: every little kiss
+Every little one! Every little one
+
+Hey, yeah
+
+Do-do-do do-do do doo
+
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah...

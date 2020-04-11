@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-gonna-miss-me-connie-francis
+lyrics_url: https://genius.com/Connie-francis-youre-gonna-miss-me-lyrics
 name: You're Gonna Miss Me
 rankings:
 - end_date: '1959-09-06'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
 ---
+One kiss, one little sigh
+That's all you gave me
+When you said goodbye
+But someday, baby
+Someday, darlin'
+You're gonna miss me
 
+Long gone is your caress
+And with it all my happiness
+But someday baby, someday darlin'
+You're gonna miss me
+Oh, oh, oh, yes
+
+One of these nights
+You'll wake up cryin'
+But I won't be there to comfort you
+You'll turn on the light
+But you'll go on cryin'
+'Cause only my true love
+Can chase away your blues
+
+Oh yes, you're gonna learn
+I'm not the only one
+Whose heart will burn
+'Cause someday, baby
+Someday darlin'
+You're gonna miss me
+Miss me, miss me, miss me
+
+Someday baby, someday darling
+You're gonna miss me
+Oh yeah...

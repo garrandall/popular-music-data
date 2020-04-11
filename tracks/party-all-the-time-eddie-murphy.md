@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: party-all-the-time-eddie-murphy
+lyrics_url: https://genius.com/Eddie-murphy-party-all-the-time-lyrics
 name: Party All The Time
 rankings:
 - end_date: '1985-10-11'
@@ -95,4 +96,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
+Girl, I can't understand it why you want to hurt me
+After all the things I've done for you
+I buy you champagne and roses put diamonds on your finger
+(Diamonds on your finger)
+Still, you hang out all night
+What am I to do?
 
+
+My girl wants to party all the time
+Party all the time
+Party all the time
+My girl wants to party all the time
+Party all the time
+She parties all the time
+
+
+(Party all the time)
+She likes to party all the time
+(Party all the time)
+(Party all the time)
+She likes to party all the time
+(Party all the time)
+
+
+Girl, I've seen you in clubs just hanging out and dancing
+You give your number to every man you see
+You never come home at night because you're out romancing
+I wish you bring some of your love home to me
+
+
+But my girl wants to party all the time
+Party all the time
+Party all the time
+My girl wants to party all the time
+Party all the time
+Party all the time
+My girl wants to party all the time
+Party all the time
+Party all the time
+My girl wants to party all the time
+Party all the time, yeah
+
+
+(Party, party)
+She likes to party all the time
+(Party, party, party, party, party)
+
+
+She likes to party all the time, yeah
+She lets her hair down
+She likes to party down
+She likes to party
+She likes to party down
+(Party all the time)
+Oh, now get down and party, yeah
+(Party all the time)
+(Party all the time)

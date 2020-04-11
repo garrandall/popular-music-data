@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna--be-warm-this-winter-connie-francis
+lyrics_url: https://genius.com/Connie-francis-im-gonna-be-warm-this-winter-lyrics
 name: I'm Gonna' Be Warm This Winter
 rankings:
 - end_date: '1962-12-21'
@@ -51,4 +52,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
 ---
+We met at a ski lodge
+And we fell in love
 
+Right by a fireplace
+We shared
+Our first embrace
+And then inside my heart
+I felt a fire start
+It's gonna snow outside
+The weather will be cold
+But I'm gonna be warm
+This winter
+Uh-huh-huh
+
+Each time
+Your lips touch mine
+They taste
+Like sparkling wine
+I feel so warm a glow
+Just 'cause
+I love you so
+It's cozy in your arms
+I'm yours
+To have and to hold
+And I'm gonna be warm
+This winter
+
+Ice skating
+On a frozen lake
+Sleigh-riding down
+A mountainside
+Roasting popcorn
+Dancing till the dawn
+That was how I knew love
+Was born-born-born-born
+
+It's just like make-believe
+Each night is New Year's Eve
+Each day is Christmas Day
+You make me feel this way
+It's gonna snow outside
+The weather will be cold
+But I'm gonna be warm
+This winter
+
+It's gonna snow outside
+The weather will be cold
+But I'm gonna be warm
+This winter
+Whoa, whoa, whoa, honey
+Make me warm this winter
+Mmmm, baby
+Make me warm this winter
+
+Whoa, whoa, whoa
+I'll be warm this winter

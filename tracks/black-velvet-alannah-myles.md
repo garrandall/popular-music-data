@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-velvet-alannah-myles
+lyrics_url: https://genius.com/Alannah-myles-black-velvet-lyrics
 name: Black Velvet
 rankings:
 - end_date: '1990-01-12'
@@ -103,4 +104,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
 ---
+Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancin' with baby on her shoulder
+The sun is settin' like molasses in the sky
 
+
+The boy could sing
+Knew how to move, everything
+Always wanting more
+He'd leave you longing for
+
+
+Black velvet
+And that little boy's smile
+Black velvet
+With that slow southern style
+A new religion that'll bring ya to your knees
+Black velvet if you please
+
+
+Up in Memphis
+The music's like a heatwave
+White lightning
+Bound to drive you wild
+Mama's baby's in the heart of every schoolgirl
+"Love Me Tender" leaves 'em cryin' in the aisle
+
+
+The way he moved
+It was a sin
+So sweet and true
+Always wanting more
+He'd leave you longing for
+
+
+Black velvet
+And that little boy's smile
+Black velvet
+With that slow southern style
+A new religion that'll bring ya to your knees
+Black velvet if you please
+
+
+Every word of every song
+That he sang was for you
+In a flash, he was gone
+It happened so soon
+What could you do?
+
+
+Black velvet
+And that little boy's smile
+Black velvet
+With that slow southern style
+A new religion that'll bring ya to your knees
+Black velvet if you please
+
+Black velvet
+And that little boy's smile
+Black velvet
+With that slow southern style
+A new religion that'll bring ya to your knees
+
+
+Black velvet if you please
+If you please
+If you please
+If you please

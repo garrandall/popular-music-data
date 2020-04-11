@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: same-old-love-selena-gomez
+lyrics_url: https://genius.com/Selena-gomez-same-old-love-lyrics
 name: Same Old Love
 rankings:
 - end_date: '2015-10-09'
@@ -119,4 +120,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
 ---
+Take away your things and go
+You can't take back what you said, I know
+I've heard it all before, at least a million times
+I'm not one to forget, you know
 
+
+I don't believe, I don't believe it
+You left in peace, left me in pieces
+Too hard to breathe
+I'm on my knees right now
+
+
+I'm so sick of that same old love, that shit, it tears me up
+I’m so sick of that same old love, my body's had enough
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)
+I’m so sick of that same old love, feels like I've blown apart
+I’m so sick of that same old love, the kind that breaks your heart
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)
+
+
+I'm not spending any time, wasting tonight on you
+I know, I've heard it all
+So don't you try and change your mind
+Cause I won't be changing too, you know
+
+
+You can't believe, still can't believe it
+You left in peace, left me in pieces
+Too hard to breathe, I'm on my knees
+Right now, 'ow
+
+
+I'm so sick of that same old love, that shit, it tears me up
+I’m so sick of that same old love, my body's had enough
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)
+I’m so sick of that same old love, feels like I've blown apart
+I’m so sick of that same old love, the kind that breaks your heart
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)
+
+
+I'm so sick of that, so sick of that love
+I'm so sick of that, so sick of that love
+I'm so sick of that, so sick of that love
+I'm so sick of that, so sick of that love
+
+
+I'm so sick of that same old love, that shit, it tears me up
+I’m so sick of that same old love, my body's had enough
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)
+I’m so sick of that same old love, feels like I've blown apart
+I’m so sick of that same old love, the kind that breaks your heart
+Oh-oh-oh (that same old love)
+Oh-oh-oh (that same old love)

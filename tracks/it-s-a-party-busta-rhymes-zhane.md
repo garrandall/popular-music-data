@@ -67,16 +67,16 @@ Right, Busta Rhymes exclusive with the Zhane
 Each and every day
 We gon come around your way and do it our way, word is bond
 
-{It's a party, let's get it on tonight}
-Word up, hah, yeah yeah one time with the flow {that's how we flow}
-{Gonna rock your body, we gonna do it right}
-{When I step up in the party won't you move it to the left}
+
+Word up, hah, yeah yeah one time with the flow
+
+
 Hah hah hah hah, move it to the left
-{Party people move it side to side I'm feelin kind of blessed}
+
 Oooh hah yeah ooh yes, kind of blessed yes
-{And I'm so fly... and you're so fly...}
+
 Oh yeah I'm so fly... yeah, yeah you so fly too girl
-{Feeling high tonight... it's a partyartyartyartyahhhh}
+
 Word up word up... uhh, hah
 
 UHH! Let me get down, do my thing
@@ -96,16 +96,16 @@ Babygirl let me seek that gift that make your cake creamy uhh
 Feel the heat circulatin through your body
 Everytime the Flipmode click step inside the part, word is bond
 
-{It's a party, let's get it on tonight}
+
 Hah, right, word is bond
-{Gonna rock your body, we gonna do it right}
-{The stimulation circulating through my mind body and soul}
+
+
 Uhh, hah, hah uh hah!
-{Busta Rhymes, stimuli, making me lose control}
+
 Hah hah hahhhh
-{And I'm so fly... and you're so fly}
+
 Word is bond, yes I am
-{Feeling high tonight... it's a partyartyartyartyahhhh}
+
 Ha ha ha
 
 I got my mind made up, c'mon you can get it girl
@@ -125,13 +125,13 @@ that it's a one night stand and you ain't even thinkin bout your man
 Oooh, OH! We bout to turn on the heat again
 Don't you say a word until we finish partyin
 
-{Don't you know that tonight, is your night}
+
 Hah, word up, tonight is the niiight
-{Feelin good when I have a peace of mind}
+
 Word up, a peace of mind
-{Got to set it off and just a little bit wild}
+
 Hah, woo, a little wild
-{It's a partyartyahhhhhh}
+
 Hah, it's a party y'all, it's a party y'all, it's a party y'all
 
 Yo, well anyway I'm back around my way
@@ -143,21 +143,21 @@ We put somethin together that's gon drive you crazy
 Get from our your seat and stop actin lazy
 Or get up out my party if you actin shady, baby baby, it's a aprty
 
-{It's a party, let's get it on tonight}
+
 Word up, let's get it on tonight
-{Gonna rock your body, Zhane and Busta Rhymes}
+
 Yes, yes, uhh, Zhane and Busta Rhymes
-{It's a party, let's get it on tonight}
+
 Ahhh, woo, let's get it on, let's get it on
-{Gonna rock your body, we gonna do it right}
+
 Do it right now, ahh, hah
-{It's a party, let's get it on tonight}
+
 Throw your hands in the air!!!
-{Gonna rock your body, Zhane and Busta Rhymes}
+
 Zhane and Busta Rhymes exclusive, hah
-{It's a party, let's get it on tonight}
+
 Hah, word is bond, let's get it on babygirl
-{Gonna rock your body, we gonna do it right}
+
 
 Let's do it right now, keep it movin y'all
 Flipmode is the unit y'all

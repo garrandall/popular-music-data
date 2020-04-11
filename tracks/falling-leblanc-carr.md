@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: falling-leblanc-carr
+lyrics_url: https://genius.com/Leblanc-and-carr-falling-lyrics
 name: Falling
 rankings:
 - end_date: '1977-10-21'
@@ -120,4 +121,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
 ---
+I think about winter when I was with her
+And the snow was falling down
+Warmed by the fire, I love being by her
+When there's no one else around
 
+And I'm falling, oh, I'm falling
+I'm falling in love with you
+
+I think about summer my head was swimming
+You wrote my name in the sand
+We walked together, hoping forever
+Please don't let go of my hand
+
+Cause I'm falling, oh, I'm falling
+Oh, I'm falling in love with you
+
+The fall and the springtime were like in-between times
+You're here, and then you're gone away
+Oh, I just wanted to say
+Won't you please, please stay
+
+Cause I'm falling, oh, I'm falling
+I'm falling in love with you
+
+Oh, I'm falling, yeah, I'm falling
+Oh, I'm falling in love with you
+
+In love with you
+In love with you

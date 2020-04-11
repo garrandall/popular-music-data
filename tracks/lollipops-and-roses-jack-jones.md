@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lollipops-and-roses-jack-jones
+lyrics_url: https://genius.com/Jack-jones-lollipops-and-roses-lyrics
 name: Lollipops And Roses
 rankings:
 - end_date: '1962-03-09'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
 ---
+Tell her you care each time you speak
+Make it her birthday each day of the week
+Bring her nice things, sugar and spice things
+Roses and lollipops and lollipops and roses
 
+One day she'll smile, next day she'll cry
+Minute to minute you'll never know why
+Coax her, pet her, better yet, get her
+Roses and lollipops and lollipops and roses
+
+We try acting grown up but as a rule
+We're all little children fresh from school
+So carry her books that's how it starts
+Fourteen or forty they're kids in their hearts
+
+Keep them handy, flowers and candy
+Roses and lollipops and lolipops and roses
+
+So carry her books that's how it starts
+Fourteen or forty they're kids in their hearts
+Keep them handy, flowers and candy
+Roses and lollipops and lolipops and roses

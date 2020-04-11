@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: themes-from-the-wizard-of-oz-meco
+lyrics_url: https://genius.com/Meco-themes-from-the-wizard-of-oz-lyrics
 name: Themes From The Wizard Of Oz
 rankings:
 - end_date: '1978-09-15'
@@ -47,4 +48,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
-
+Meco
+Miscellaneous
+Themes From "the Wizard Of Oz"
+Themes from "The Wizard of Oz"
+Meco
+(Meco Monardo)
+(Wicked Witch laughs, Toto barks)
+Cowardly Lion:
+"Rrrruf! Rrrruf!! Rrrruf!!!
+Put 'em up, put 'em up!"
+We're off to see the Wizard
+The wonderful Wizard of Oz
+You'll find that the man is a whiz of a Wiz
+If ever a Wiz there was
+If ever, if ever a Wiz there was
+The Wizard of Oz is one because
+Because, because, because, because, because
+Of the wonderful things he does
+We're off to see the Wizard
+The wonderful Wizard of Oz
+Wicked Witch:
+(Laughs) "I'll get you my pretty!
+And your little dog, too!" (laughs)
+From: "David Hayman"

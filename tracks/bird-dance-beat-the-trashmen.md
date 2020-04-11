@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bird-dance-beat-the-trashmen
+lyrics_url: https://genius.com/The-trashmen-bird-dance-beat-lyrics
 name: Bird Dance Beat
 rankings:
 - end_date: '1964-02-14'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
 ---
+Uh well a'shake'a your shoulders and a'move' your feet
+We're gonna stomp to the Bird Dance Beat
+Uh well a'flap'a your arms and move'a your hands
+We're gonna rock to the Bird Dance band
 
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+
+Uh we're a'shakin' and a'movin with all around
+Uh well'a dancin' with all the boss chicks in town
+Uh well'a do the Bird Dance till broad day light
+Uh well'a that's the way that we spend our night
+
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+
+Uh well the kids here are a'wailin' so let's do it now
+Cause the Birdman's singin' papa oom mow mow
+If you've heard the Surfin' Bird you can't go wrong
+Cause they're playin' and a'singin' with a Bird Dance song
+
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+
+What's the word
+Uh well a'shake'a your shoulders and a'move' your feet
+We're gonna stomp to the Bird Dance Beat
+Uh well a'flap'a your arms and move'a your hands
+We're gonna rock to the Bird Dance band
+
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+
+Uh we're a'shakin' and a'movin with all around
+Uh well'a dancin' with all the boss chicks in town
+Uh well'a do the Bird Dance till broad day light
+Uh well'a that's the way that we spend our night
+
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+
+Uh well the kids here are a'wailin' so let's do it now
+'Cause the Birdman's singin' papa oom mow mow mow
+If you've heard the Surfin' Bird you can't go wrong
+'Cause they're playin' and a'singin' with a Bird Dance song
+
+Oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow
+Papa oom mow mow, papa oom mow mow, papa oom mow mow, papa oom mow mow

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-can-t-have-you-yvonne-elliman
+lyrics_url: https://genius.com/Yvonne-elliman-if-i-cant-have-you-lyrics
 name: If I Can't Have You
 rankings:
 - end_date: '1978-02-03'
@@ -95,4 +96,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
 ---
+Don't know why I'm surviving every lonely day
+When there's got to be no chance for me
+My life would end
 
+And it doesn't matter how I cry
+My tears of love are a waste of time
+If I turn away
+
+Am I strong enough to see it through?
+Go crazy is what I will do
+
+
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+
+
+Can't let go, and it doesn't matter how I try
+I gave it all so easily
+To you my love
+
+To dreams that never will come true
+Am I strong enough to see it through?
+Go crazy is what I will do
+
+
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+Oh, If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want nobody baby
+If I can't have you, oh oh oh oh
+If I can't have you, I don't want...

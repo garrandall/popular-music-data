@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-cherie-amour-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-my-cherie-amour-lyrics
 name: My Cherie Amour
 rankings:
 - end_date: '1969-06-06'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
 ---
+La la la la la la
+La la la la la la
 
+
+My cherie amour, lovely as a summer day
+My cherie amour, distant as the milky way
+My cherie amour, pretty little one that I adore
+You're the only girl my heart beats for
+How I wish that you were mine
+In a cafe or sometimes on a crowded street
+I've been near you, but you never noticed me
+My cherie amour, won't you tell me how could you ignore
+That behind that little smile I wore
+How I wish that you were mine
+
+
+La la la la la la
+La la la la la la
+
+
+Maybe someday, you'll see my face among the crowd
+Maybe someday, I'll share your little distant cloud
+Oh, cherie amour, pretty little one that I adore
+You're the only girl my heart beats for
+How I wish that you were mine
+
+
+La la la la la la
+La la la la la la

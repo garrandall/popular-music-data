@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarena-los-del-mar
+lyrics_url: https://genius.com/Los-del-mar-macarena-lyrics
 name: Macarena
 rankings:
 - end_date: '1996-06-28'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
 ---
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa darle alegria why cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena x2
 
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Que en la jura de bandera el muchacho
+Se metio con dos amigos
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Why en la jura de bandera el mucacho
+Se metio con dos amigos
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa darle alegria why cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena x2
+
+Macarena, Macarena, Macarena
+Que le gusta los veranos de Marbella
+Macarena, Macarena, Macarena
+Que le gusta la movida guerrilera
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa darle alegria why cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena x2
+
+Macarena suena con el Corte Ingles
+Why se compra los mnodelos mas modernos
+Le gustaria vivir en Nueva York
+Why ligar un novio nuevo
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa darle alegria why cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena x2
+
+Macarena suena con el Corte Ingles
+Why se compra los mnodelos mas modernos
+Le gustaria vivir en Nueva York
+Why ligar un novio nuevo
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa darle alegria why cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena x4

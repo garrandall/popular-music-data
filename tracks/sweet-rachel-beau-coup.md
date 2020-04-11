@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-rachel-beau-coup
+lyrics_url: https://www.musixmatch.com/lyrics/Beau-Coup/Sweet-Rachel
 name: Sweet Rachel
 rankings:
 - end_date: '1987-11-06'
@@ -31,4 +32,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-12-05'
 ---
+Rachel, what do I do now
+You got me going but I can't
+Seem to find out what to do
 
+Cause I'm a man that finds
+Himself giving all I can
+Then you tell me time
+Will bring us closer at hand
+
+
+Sweet Rachel
+When am I gonna find out
+The world's not always
+What we want it to be
+Sweet Rachel
+When am I gonna find out
+That it'll always be hard for me
+
+Rachel
+
+When I was younger
+I could run all around
+But now I'm older
+Dreams seem to settle down
+Yes, they do
+
+I've got so much love
+Living down inside my soul
+But I'm afraid my heart
+Can't take the lonely toll
+
+
+
+Rachel
+
+Sweet Rachel
+When am I gonna find out
+The world's not always
+What we want it to be
+
+Sweet Rachel
+When am I gonna find out
+The world's not always
+What we want it to be
+
+Sweet Rachel
+Rachel, oh, oh, oh, oh
+Sweet Rachel
+Rachel, oh, oh, oh, oh

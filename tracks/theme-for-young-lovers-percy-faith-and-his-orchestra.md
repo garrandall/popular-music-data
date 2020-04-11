@@ -1,6 +1,6 @@
 ---
 artists:
-- Percy Faith And His Orchestra
+- Percy Faith
 features: []
 genres: []
 key: theme-for-young-lovers-percy-faith-and-his-orchestra

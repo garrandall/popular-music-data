@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-lover-s-concerto-sarah-vaughan
+lyrics_url: https://genius.com/Sarah-vaughan-a-lovers-concerto-lyrics
 name: A Lover's Concerto
 rankings:
 - end_date: '1966-04-08'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
 ---
+How gentle is the rain
+That falls softly on the meadow?
+Birds, high up in the trees
+Serenade the clouds with their melodies
 
+Oh, see, there beyond the hill
+The bright colors of the rainbow
+Some magic from above
+Made this day for us just to fall in love
+
+Now, I belong to you
+From this day until forever
+Just love me tenderly
+And I'll give to you every part of me
+
+Oh, don't ever make me cry
+Through long, lonely nights without us
+Be always true to me
+Keep this day in your heart eternally
+
+Someday we shall return
+To this place upon the meadow
+We'll walk out in the rain
+Hear the birds above singing once again
+
+You'll hold me in your arms
+And say once again you love me
+And, if your love is true
+Everything will be just as wonderful
+
+You'll hold me in your arms
+And say once again you love me
+And, if your love is true
+Everything will be just as wonderful
+
+You'll hold me in your arms
+And say once again you love me
+And, if your love is true
+Everything will be just as wonderful

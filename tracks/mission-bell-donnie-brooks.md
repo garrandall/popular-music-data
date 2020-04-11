@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mission-bell-donnie-brooks
+lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Brooks/Mission-Bell
 name: Mission Bell
 rankings:
 - end_date: '1960-06-19'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
 ---
+(Say that you love me)
+(Say those pretty words and I will give my love to you)
 
+My love is higher than a mission bell (how deep)
+Deeper than wishin' well (how strong)
+Stronger than a magic spell
+
+My love (uh huh) for you
+It's wider than the widest sea (how long)
+Longer than a memory (how sweet)
+Sweeter than a honey tree
+
+My love (uh huh), oh oh oh (uh huh)
+My love (uh huh), mm mm mm (uh huh) for you
+
+Give me your heart of gold
+Your heavenly magic touch
+To cherish, have, and hold
+I need your love so much
+
+
+
+(Say that you love me)
+(Say those pretty words and I will give my love to you)
+
+My love is warmer than a day in Spring (how bright)
+Brighter than a diamond ring (how brave)
+Braver than a mighty king
+
+My love (uh huh) for you
+It's taller than the tallest tree (how soft)
+Softer than a summer breeze
+
+All I ask you, please
+Give (uh huh) your love (uh huh)
+Your love (uh huh), sweet love (uh huh) to me
+
+(How high) higher than a mission bell
+(How deep) deeper than a wishin' well
+(How strong) stronger than a magic spell
+(How wide)

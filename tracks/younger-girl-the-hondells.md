@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: younger-girl-the-hondells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Hondells/Younger-Girl
 name: Younger Girl
 rankings:
 - end_date: '1966-06-03'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
 ---
+She's one of those girls who
+Seems to come in the spring
+One look in her eyes
+And you'll forget everything
+You had ready to say
+And I saw her today yeah
 
+A younger girl keeps
+Rolling 'cross my mind
+No matter how much I try I can't seem to leave
+Her memory behind I remember her eyes
+Soft dark and brown
+Said she'd never been
+In trouble or even in town
+A younger girl keeps
+Rolling 'cross my mind
+
+A younger girl keeps
+Rolling 'cross my mind
+And should I hang around
+Acting like her brother
+In a few more years
+They'd call us right for each other
+But why if I wait I'll just die yeah
+
+She's one of those girls who
+Seems to come in the spring
+One look in her eyes
+And you'll forget everything
+She's one of those girls who
+Seems to come in the spring
+One look in her eyes
+And you'll forget everything

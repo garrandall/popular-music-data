@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: united-we-stand-the-brotherhood-of-man
+lyrics_url: https://genius.com/Brotherhood-of-man-united-we-stand-lyrics
 name: United We Stand
 rankings:
 - end_date: '1970-04-24'
@@ -68,3 +69,35 @@ rankings:
   start_date: '1970-07-25'
 ---
 
+
+There's nowhere in the world that I would rather be
+Than with you my love
+And there's nothing in the world that I would rather see
+Than your smile my love
+
+For united we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+For united we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+And if the world about you falls apart my love
+Then I'll still be here
+And if the going gets too hard along the way
+Just you call, I'll hear
+
+For united we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+For united we stand
+Divided we fall
+And if our backs should ever be against the wall
+We'll be together, together, you and I
+
+For united we stand....

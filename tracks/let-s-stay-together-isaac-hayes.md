@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-stay-together-isaac-hayes
+lyrics_url: https://genius.com/Isaac-hayes-lets-stay-together-lyrics
 name: Let's Stay Together
 rankings:
 - end_date: '1972-04-07'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
+I, I'm so in love with you
+Whatever you want to do
+Is all right with me
+'Cause you make me feel so brand new
+And I want to spend my life with you
 
+Since, since we've been together
+Loving you forever
+Is what I need
+Let me be the one you come running to
+I'll never be untrue
+
+Let's, let's stay together
+Lovin' you whether, whether
+Times are good or bad, happy or sad
+
+Whether times are good or bad, happy or sad
+
+Why, why some people break up
+Then turn around and make up
+I just can't see
+You'd never do that to me (would you, baby)
+Staying around you is all I see
+(Here's what I want us to do)
+
+
+Let's, we oughta stay together
+Loving you whether, whether
+Times are good or bad, happy or sad

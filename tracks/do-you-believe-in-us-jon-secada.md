@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-believe-in-us-jon-secada
+lyrics_url: https://genius.com/Jon-secada-do-you-believe-in-us-lyrics
 name: Do You Believe In Us
 rankings:
 - end_date: '1992-10-02'
@@ -127,4 +128,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
+I tremble inside
+Just thinking
+About the world around us
+Scared, can't help to wonder
 
+(Don't want any changes)
+'Bout the way we feel
+Do you know what I mean
+
+(Catch me I'm falling)
+Say it's gonna be alright
+It's gonna be alright
+
+I know that we belong
+Do you believe in us (us)
+Just give it half a chance
+Yes our love (love)
+Will still be strong
+Girl I believe in us (Girl I believe in us)
+I'll give you all I can
+
+Time has redefined the meaning
+Love - the way we know it
+Love - the way we show it
+
+(I don't want any changes)
+When it comes to you
+I like us the way it is
+
+(No matter what happens)
+Say it's gonna be alright
+It's gonna be alright
+
+I know that we belong
+Do you believe in us (Yes I do)
+Just give it half a chance
+Yes our love will still be strong
+Girl I believe in us (Girl I believe)
+I'll give you all I can
+
+I don't want any changes
+Unless you want them to
+Forever ain't long enough, baby
+(Nothing can change us)
+Say it's gonna be alright
+It's gonna be alright
+
+I know that we belong
+Do you believe in us (yes I do)
+Just give it half a chance
+Yes our love will still be strong
+Girl I believe in us (Girl I believe)
+I'll give you all I can
+
+I know that we belong
+Do you believe in us (Do you believe)
+Just give it half a chance
+Yes our love will still be strong
+Girl I believe in us (Girl I believe in us)
+I'll give you all I can
+
+I know that we belong
+Do you believe in us (Do you believe in us)
+Just give it half a chance
+Yes our love will still be strong
+Girl I believe in us (Girl I believe)
+I'll give you all I can

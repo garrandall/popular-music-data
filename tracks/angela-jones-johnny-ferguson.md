@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angela-jones-johnny-ferguson
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Ferguson/Angela-Jones
 name: Angela Jones
 rankings:
 - end_date: '1960-02-28'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+I'll meet at your locker when schools dismissed
+I'll carry your books home with you, just give me one little
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
 
+You know I love you darlin, more than I do life
+Someday I'll get a preacher, and let him make us man and
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+
+Each night I pray to heaven, way up above
+That you wont ever forget me, and give somebody else your
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+
+I love your kind of lovin, it's always been true
+I love the way you whisper, I'll always be in love with
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
+Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones

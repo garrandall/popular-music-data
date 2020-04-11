@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartache-away-don-johnson
+lyrics_url: https://genius.com/Don-johnson-heartache-away-lyrics
 name: Heartache Away
 rankings:
 - end_date: '1986-11-28'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+I'm back on the street
+Baby, I'm downbeat
+You know it's you I see
+In every girl I meet
 
+I'm giving you up
+And it's getting me down
+Everybody's talk, talking at me
+It's all the same sound
+
+I hang up the phone
+I go out alone
+There's nothing left to say
+Love's a heartache away
+
+When I lost you, baby
+I lost it all
+They say in love and romance
+We all take a fall
+
+Go to places we'd go
+And talk to people we know
+I'll get over you someday
+Love's just a heartache away
+
+I hang up the phone
+I go out alone
+Nothing left to say
+Baby, love's just a heartache away
+
+I hang up the phone
+I go out alone
+There's nothing left to say
+Baby, love's just a heartache
+A heartache away
+
+I'm giving you up
+And it's getting me down
+Everybody's talk, talking at me
+It's all the same damn sound
+
+I hang up the phone
+I go out alone
+There's nothing left to say
+Baby, love's just a heartache away
+
+Hang up the phone
+I go out alone
+There's nothing left to say
+Baby, love's just a heartache
+A heartache away
+
+Love's a heartache away
+(A heart ache away)
+It's just a heart ache away
+(A heart ache away)
+Love's a heartache away

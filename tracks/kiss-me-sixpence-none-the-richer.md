@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-me-sixpence-none-the-richer
+lyrics_url: https://genius.com/Sixpence-none-the-richer-kiss-me-lyrics
 name: Kiss Me
 rankings:
 - end_date: '1998-12-04'
@@ -139,4 +140,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
 ---
+Kiss me, out of the bearded barley
+Nightly, beside the green, green grass
+Swing, swing, swing the spinning step
+You wear those shoes and I will wear that dress
 
+
+Oh, kiss me, beneath the milky twilight
+Lead me out on the moonlit floor
+Lift your open hand
+Strike up the band and make the fireflies dance
+Silver moon's sparkling
+So kiss me
+
+
+Kiss me, down by the broken tree house
+Swing me upon its hanging tire
+Bring, bring, bring your flowered hat
+We'll take the trail marked on your father's map
+
+
+Oh, kiss me, beneath the milky twilight
+Lead me out on the moonlit floor
+Lift your open hand
+Strike up the band and make the fireflies dance
+Silver moon's sparkling
+So kiss me
+
+
+
+
+Kiss me, beneath the milky twilight
+Lead me out on the moonlit floor
+Lift your open hand
+Strike up the band and make the fireflies dance
+Silver moon's sparkling
+So kiss me
+
+
+So kiss me
+So kiss me
+So kiss me

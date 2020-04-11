@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: old-fashion-love-commodores
+lyrics_url: https://genius.com/Commodores-old-fashion-love-lyrics
 name: Old-Fashion Love
 rankings:
 - end_date: '1980-06-27'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
+I'm in love with a plain old-fashion girl
+She's the most beautiful person in the world
 
+Her smile is so warm and her eyes burn so deep, ah, yeah
+Softly in rhymes of love she sings to me
+ Oh
+Only if it's meant to be, baby
+
+Yeah, hea, hea, I-I-I-I
+
+I'm in love with a plain and simple girl
+She takes my heart and sends me for a whirl
+I'm on the wings of love and I don't take care where I go
+Because when we reach that star we both will know
+ Ooh
+Our love was meant to be, baby, ooh
+
+I want some lovin' tonight
+Some old-fashion love, baby
+I know that you do it right
+Do it, do it, do it to it, baby
+
+I want some lovin' tonight
+Some old-fashion love, baby
+I know that you do, do
+Do it, do it, do it right, baby
+
+I want (Ow), gimme, gimme, gimme (Whoa)
+I want (Oh, girl) some old-fashion love, baby
+(I want some lovin' tonight )
+Do it, do it, do it (Some old-fashion love, baby)
+
+I want (Ow), gimme, gimme, gimme (Whoa)
+I want (Oh, girl) some old-fashion love, baby
+I want (Oh, say it), gimme, gimme, gimme (Whoa)
+I want (Oh, girl) some old-fashion love, baby
+
+Oh, yeah
+Ah., yeah
+Oh, yeah
+Ah, yeah
+
+Do it, do it, do it
+
+I want (Ow), gimme, gimme, gimme (Whoa)
+I want (Oh, girl) some old-fashion love, baby

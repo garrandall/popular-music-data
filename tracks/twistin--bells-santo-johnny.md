@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: twistin--bells-santo-johnny
+lyrics_url: https://genius.com/Santo-and-johnny-twistin-bells-lyrics
 name: Twistin' Bells
 rankings:
 - end_date: '1960-12-25'
@@ -20,4 +21,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-didn-t-want-to-need-you-heart
+lyrics_url: https://genius.com/Heart-i-didnt-want-to-need-you-lyrics
 name: I Didn't Want To Need You
 rankings:
 - end_date: '1990-06-29'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
 ---
+Baby, I never gave my heart to anyone, oh no
+Used to think that love was a game
+I used to make it just for fun
+When we spent the night together
+Didn't mean it meant that much
+Now I just can't live without your touch
 
+I didn't wanna need you, no
+I didn't wanna want you like I do
+I didn't mean to fall
+Didn't wanna care at all
+I didn't wanna need you
+Like I need you now
+
+I can't get no sleep
+'Cuz I keep thinking of you all through the
+Night, oh yeah
+My eyes can't wait to see you again
+My arms can't wait to hold you tight oh yeah
+And when you're laying here beside me
+There is nothing else I need
+Never thought that this could ever be
+
+I didn't wanna need you, oh no
+I didn't wanna want you like I do
+I didn't mean to fall
+Didn't wanna care at all
+I didn't wanna need you
+Like I need you now
+
+I've always been free
+To leave when I wanna leave
+But it's not up to me anymore
+I didn't wanna need you ...
+
+I didn't wanna need you, no
+I didn't wanna want you like I do
+I didn't mean to fall
+Didn't wanna care at all
+I didn't wanna need you
+But I need you now

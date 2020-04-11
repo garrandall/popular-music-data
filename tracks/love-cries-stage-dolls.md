@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-cries-stage-dolls
+lyrics_url: https://genius.com/Stage-dolls-love-cries-lyrics
 name: Love Cries
 rankings:
 - end_date: '1989-08-04'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
 ---
+As she drives, through the town
+Where she once, played around
+In these streets
+Oh memories, are what's left here
 
+Little note, on her bed
+Just some words, that leave it all unsaid
+Oh Mama don't you cry
+Hey Papa don't ask why
+
+Love cries, love burns
+Love drives you, to the point of no return
+Love lies, love burns
+Love drives you, to the point of no return
+
+Restless boy, took her heart
+Like a toy, he tore it all apart
+In her mind, she'll never love again
+
+With the wind, in her hair
+She stops and says a little prayer
+Oh Mama don't you cry
+Hey Papa don't ask why
+
+Love cries, love burns
+Love drives you, to the point of no return
+Love lies, love burns
+Love drives you, to the point of no return
+
+Under a purple sky
+She turns her head
+And says goodbye
+
+Love cries, love burns
+Love drives you, to the point of no return
+Love lies, love burns
+Love drives you, to the point of no return

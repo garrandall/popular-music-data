@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cherrystone-addrisi-brothers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Addrisi-Brothers/Cherrystone
 name: Cherrystone
 rankings:
 - end_date: '1959-06-07'
@@ -31,4 +32,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
+To the dance
+We both came alone
+I asked you
+May I take you home
 
+As we walked
+I sang this song
+
+Cherrystone
+Be mine, cherrystone
+I'm alone, cherrystone
+You too, cherrystone
+
+My heart just beats and beats
+Repeats I love you too
+Cherrystone, love you true
+Cherrystone
+
+Brought you home
+Stood outside awhile
+Stole a kiss and
+You gave me a smile
+Then I knew I walked a mile
+
+Cherrystone
+Be mine, cherrystone
+I'm alone, cherrystone
+You too, cherrystone
+
+My heart just beats and beats
+Repeats I love you too
+Cherrystone, love you true
+Cherrystone
+
+To the dance we go
+We no longer go alone
+Oh, hand in hand
+You oughta see us do the stroll
+Happily, we're free to roll
+
+Cherrystone
+Roll on, cherrystone
+Roll on, cherrystone
+Rock on, Cherrystone
+
+My heart just beats and beats
+Repeats I love you too
+Cherrystone, love you true
+Cherrystone, oh, yes, I do
+Cherrystone

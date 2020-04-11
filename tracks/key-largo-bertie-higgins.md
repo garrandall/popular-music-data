@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: key-largo-bertie-higgins
+lyrics_url: https://genius.com/Bertie-higgins-key-largo-lyrics
 name: Key Largo
 rankings:
 - end_date: '1981-11-20'
@@ -123,4 +124,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
 ---
+Wrapped around each other
+Trying so hard to stay warm
+That first cold winter together
+Lying in each other's arms
 
+Watching those old movies
+Falling in love so desperately
+Honey, I was your hero
+And you were my leading lady
+
+We had it all
+Just like Bogie and Bacall
+Starring in our own late, late show
+Sailing away to Key Largo
+
+Here's lookin' at you kid
+Missing all the things we did
+We can find it once again, I know
+Just like they did in Key Largo
+
+Honey, can't you remember
+We played all the parts
+That sweet scene of surrender
+When you gave me your heart
+
+Please say you will
+Play it again
+Cause I love you still
+Baby this can't be the end
+
+We had it all (we had it all)
+Just like Bogie and Bacall
+Starring in our old late, late show
+Sailing away to Key Largo
+
+Here's lookin' at you kid (here's lookin' at you kid)
+Missing all the things we did
+We can find it once again, I know
+Just like they did in Key Largo
+
+We had it all (we had it all)
+Just like Bogie and Bacall

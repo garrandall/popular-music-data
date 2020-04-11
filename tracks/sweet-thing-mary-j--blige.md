@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-thing-mary-j--blige
+lyrics_url: https://genius.com/Mary-j-blige-sweet-thing-lyrics
 name: Sweet Thing
 rankings:
 - end_date: '1993-02-19'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
 ---
+I will love you anyway, even if you cannot stay
+I think you are the one for me
+Here is where you ought to be
+I just wanna satisfy ya
+‘Cause you’re not mine and I can’t deny it
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
 
+
+Whoa, sweet thing
+Don’t you know you’re my everything?
+Whoa, sweet thing
+Don’t you know you’re my everything?
+Yes, you are
+
+
+I wish you were my lover, but you act so undercover
+Love you child my whole life long, be it right or be it wrong
+More than what you make me, baby
+Don’t walk away, don’t be so shady
+Don't want your mind, don’t want your money
+These words I say, they may sound funny, but…
+
+
+Whoa, sweet thing, yeah
+Don’t you know you’re my everything?
+Whoa, sweet thing
+Don’t you know you’re my everything?
+Yes, you are
+Yes, you are, baby
+
+
+You are my heat, you are my fire
+You make me weak with strong desire
+Love you child my whole life long
+Be it right or be it wrong
+I just want to satisfy ya
+‘Cause you’re not mine, I can’t deny it
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
+
+
+You’re my heat, you are my fire
+You’re not mine, I can’t deny ya
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
+You’re my heat, you are my fire
+You’re not mine, I can’t deny ya
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
+You’re my heat, you are my fire
+You’re not mine, I can’t deny ya
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
+You’re my heat, you are my fire
+You’re not mine, I can’t deny ya
+Don’t you hear me talkin’, baby?
+Love me now or I’ll go crazy
+
+
+C’mon, 'cause you’re my sweet thing
+I don’t care what you do to me
+Oh no no no no

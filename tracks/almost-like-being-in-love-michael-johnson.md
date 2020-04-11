@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-like-being-in-love-michael-johnson
+lyrics_url: https://genius.com/Michael-johnson-almost-like-being-in-love-lyrics
 name: Almost Like Being In Love
 rankings:
 - end_date: '1978-08-18'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
+What a night this has been
+What a rare mood I'm in
+Why, it's almost like being in love
 
+There's a smile on my face
+For the whole human race
+I could swear that I'm falling in love
+
+And the music of life seems to be
+Like a bell that is ringing for me
+
+From the way that I feel
+Can't believe this is real
+And it's almost like being in love
+
+And the music of life seems to be
+Like a bell that is ringing for me
+
+From the way that I feel
+Can't believe this is real
+And it's almost like being in love
+
+What a night, what a rare mood
+
+Falling in love, falling in love
+Like I'm falling in love

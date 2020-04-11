@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-you-split-enz
+lyrics_url: https://genius.com/Split-enz-i-got-you-lyrics
 name: I Got You
 rankings:
 - end_date: '1980-08-29'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
 ---
+I got you
+And that's all I want
+I won't forget
+That's a whole lot
+I don't go out
+Not now that you're in
+Sometimes we shout
+But that's no problem
 
+I don't know why sometimes I get frightened
+You can see my eyes, you can tell that I'm not lying
+
+Look at you
+You're a pageant
+You're everything
+That I've imagined
+But something's wrong
+I feel uneasy
+You show me
+Tell me you're not teasing
+
+I don't know why sometimes I get frightened
+You can see my eyes, you can tell that I'm not lying
+I don't know why sometimes I get frightened
+You can see my eyes, you can tell me you're not lying
+
+There's no doubt
+Not when I'm with you
+When I'm without
+I stay in my room
+Where do you go
+I get no answer
+You're always out
+It gets on my nerves
+
+I don't know why sometimes I get frightened
+You can see my eyes, you can tell that I'm not lying
+But I don't know why sometimes I get frightened
+You can see my eyes, you can tell me you're not lying
+I don't know why sometimes I get frightened
+You can see my eyes, you can tell that I'm not lying

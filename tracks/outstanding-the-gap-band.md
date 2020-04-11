@@ -66,10 +66,10 @@ I'm so alive with you, baby
 You blow my mind, baby
 You blow my mind, baby, baby
 
-You light my fire {You light my fire}
-I feel alive with you, baby {I feel alive}
-You blow my mind {You blow my mind}
-I'm satisfied {I'm satisfied}
+You light my fire
+I feel alive with you, baby
+You blow my mind
+I'm satisfied
 
 Outstanding (You're so outstanding, yeah)
 Girl, you knock me out (Dooby dooby dooby dooby dooby you knock me out)
@@ -95,15 +95,15 @@ Girl, you knock me out (Girl, you know, you know, you know you knock me out)
 Excited (Girl, you know, you know, you know you knock me out)
 It makes me wanna shout
 
-You blow my mind, baby {You blow my mind}
+You blow my mind, baby
 I'm so alive with you, baby
-You blow my mind, baby {You blow my mind}
+You blow my mind, baby
 You blow my mind, baby
 
-You light my fire {You light my fire}
+You light my fire
 I feel alive with you, baby, baby
-You blow my mind {You blow my mind}
-I'm satisfied {I'm satisfied}
+You blow my mind
+I'm satisfied
 
 Outstanding
 Girl, you knock me out

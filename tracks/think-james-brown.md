@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-james-brown
+lyrics_url: https://www.musixmatch.com/lyrics/James-Brown-et-The-Famous-Flames/Think
 name: Think
 rankings:
 - end_date: '1973-05-25'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
 ---
+About the good thing
+About the bad thing
+About the right thing
+About the wrong thing
+But lady before you leave me, realize that I'm the one who loves you
 
+Think about the sacrifices that I made for you
+Think about the hard time that I spent for you
+Think about the good things that I done for you
+Think about the bad things I tried not to do
+Come on children yeah
+
+About the good thing
+About the bad thing
+About the right thing
+About the wrong thing
+But lady before you leave me, realize that I'm the one who loves you
+
+About the good thing
+About the bad thing
+About the right thing
+About the wrong thing
+But lady before you leave me, realize that I'm the one who loves you
+
+How much of all your hapinesss can I really claim
+How many years have you shed for which I am to blame
+Doll, I can't remember just what it brought
+I tried so hard to please you, at least that's what I thought
+
+Come on children
+
+About the good thing
+About the bad thing
+About the right thing
+About the wrong thing
+But lady before you leave me, realize that I'm the one who loves you

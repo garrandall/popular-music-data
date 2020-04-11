@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-worry-don-gardner-and-dee-dee-ford
+lyrics_url: https://genius.com/Don-gardner-and-dee-dee-ford-dont-you-worry-lyrics
 name: Don't You Worry
 rankings:
 - end_date: '1962-08-31'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+Don't you weep
+Don't you worry
+Stop your worrying
+Daddy don't want you to worry
 
+Oh yeah. Oh yeah. Oh yeah
+
+Girl you know I'm true
+I love only you
+I'm gonna do
+All the things I said I'd do
+
+Stop your worrying
+Stop your worrying
+I'm gonna be good to you
+All the things that you want to do
+
+Well have no fears
+I'll always be here
+Whoa Whoa Whoa Whoa
+Oh don't worry
+
+Oh yeah. Oh yeah. Oh yeah
+
+Girl I'm coming back to stay
+Gonna love you night and day
+Gonna be good to you
+All the things that you want to do
+
+Well have no fears
+You know daddy will always be here
+I'm gonna do all the things I said I'd do
+Whoa Whoa Whoa Whoa
+Oh oh don't you worry

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-the-alan-parsons-project
+lyrics_url: https://genius.com/The-alan-parsons-project-prime-time-lyrics
 name: Time
 rankings:
 - end_date: '1981-04-24'
@@ -99,4 +100,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+Well even the longest night won't last forever
+But too many hopes and dreams won't see the light
+And all of the plans I make won't come together
 
+
+Something in the air
+Maybe for the only time in my life
+Something in the air
+Turning me around and guiding me right
+
+
+And it's a prime time, maybe the stars were right
+I had a premonition, it's gonna be my turn tonight
+Gonna be my turn tonight
+
+
+Well even the brightest star won't shine forever
+But all of the hands I play are working out right
+And every move I make feels like a winner
+
+
+
+
+And it's a prime time, maybe the stars were right
+I had a premonition, it's gonna be my turn tonight
+Gonna be my turn tonight
+Gonna be my turn tonight
+
+
+
+
+
+
+Gonna be my turn tonight

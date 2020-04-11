@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-idolize-you-ike-tina-turner
+lyrics_url: https://genius.com/Ike-and-tina-turner-i-idolize-you-lyrics
 name: I Idolize You
 rankings:
 - end_date: '1960-12-18'
@@ -24,4 +25,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+If you want some loving
+That I can give to you
+And if you want some hugging
+Said I can hug some, too
 
+All I want, baby, now
+Is some thought of you
+
+And just a little of your affection
+You know, will see me through
+
+'cause you know that you are my man
+And I want you to forever be mine
+I idolize you (yes, she idolize you)

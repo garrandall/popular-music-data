@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nice--n--naasty-the-salsoul-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/The-Salsoul-Orchestra/Nice-N-Naasty
 name: Nice 'N' Naasty
 rankings:
 - end_date: '1976-09-24'
@@ -63,4 +64,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
 ---
+Nasty, you're nasty
+Ooh, that was nasty
 
+Strange things are
+Running through your mind
+I look at you and now you're kind
+
+Those things are
+Written all over your face
+You're a disgrace, let's face it
+You're nasty
+
+Nasty, you're nasty
+Ooh, that was nasty
+
+You stop and watch them as they dance
+You say you're looking for romance
+You know wanna bump and grind
+Nasty thoughts on your mind
+You're nasty

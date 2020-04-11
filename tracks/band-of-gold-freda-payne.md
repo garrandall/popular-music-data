@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: band-of-gold-freda-payne
+lyrics_url: https://genius.com/Freda-payne-band-of-gold-lyrics
 name: Band Of Gold
 rankings:
 - end_date: '1970-05-01'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
 ---
+Now that you're gone
+All that's left is a band of gold
+All that's left of the dreams I hold
+Is a band of gold
+And the memories of what love could be
+If you were still here with me
 
+
+You took me from the shelter of my Mother
+I had never known or love any other
+We kissed after taking vows
+But that night of the honeymoon
+We stayed in separate rooms
+
+I'd wait in the darkness of my lonely room
+Filled with sadness, filled with gloom
+Hoping soon
+That you'd walk back through that door
+And love me like you tried before
+
+
+Since you've been gone
+All that's left is a band of gold
+All that's left of the dreams I hold
+Is a band of gold
+And the dream of what love could be
+If you were just here, here with me
+
+Ohhhhhhhhh...
+
+
+Doncha know that I wait in the darkness of my lonely room
+Filled with sadness, filled with gloom
+Hoping soon that you'd walk back through that door
+And love me like you tried before
+
+
+Since you've been gone
+All that's left is a band of gold
+All that's left of the dreams I hold
+Is a band of gold
+And the dream of what love could be
+If you were still here with me
+Since you've been gone
+All that's left is a band of gold

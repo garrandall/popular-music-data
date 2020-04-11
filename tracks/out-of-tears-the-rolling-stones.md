@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-tears-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-out-of-tears-lyrics
 name: Out Of Tears
 rankings:
 - end_date: '1994-10-21'
@@ -67,4 +68,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-01-21'
 ---
+I can't feel, feel a thing
+I can't shout, I can't scream
+Breathe it out, breathe it in
+All this love from within
 
+
+I won't cry when you say goodbye
+I'm out of tears
+I won't die when you wave goodbye
+I'm out of tears, out of tears
+
+
+I won't drink, I won't eat
+I can't hear, I won't speak
+Let it out, let it in
+All this pain from within
+
+
+And I just can't pour my heart out
+To another living thing
+I'm a whisper, I'm a shadow
+But I'm standing up to sing
+
+
+I won't cry when you say goodbye
+I'm out of tears
+I won't die when you wave goodbye
+I'm out of tears, out of tears
+I won't cry, I swear my eyes are dry
+I'm out of tears, yeah (Out of tears)
+I won't cry, I'm gonna tell you why
+I'm out of tears, out of tears
+Out of tears
+
+
+Let it out from within
+Some you lose, some you win
+I can drift, I can dream
+Until I float off your screen
+
+
+And I just can't pour my heart out
+To another living thing
+I'm a whisper, I'm a shadow
+But I'm standing up to sing
+
+
+I won't cry when you say goodbye
+I'm out of tears (Out of tears)
+I won't die when you wave goodbye
+I'm out of tears, out of tears
+I won't cry, I swear my eyes are dry
+I'm out of tears (Out of tears)
+I won't cry, I'm gonna tell you why
+I'm out of tears, out of tears
+Out of tears

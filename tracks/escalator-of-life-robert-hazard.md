@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: escalator-of-life-robert-hazard
+lyrics_url: https://genius.com/Robert-hazard-escalator-of-life-lyrics
 name: Escalator Of Life
 rankings:
 - end_date: '1983-03-11'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
 ---
+They got my Mazda at the E-Z Park It
+At the rock & roll supermarket
+Muzak music make me feel so funny
+I went and spent all my money
 
+We're riding on the escalator of life
+We're shopping in the human mall
+We're dancing on the escalator of life
+Won't be happy 'til we have it all
+We want it all
+Escalator of life - up and down
+Escalator of life - round and round
+
+There's 111 choices
+Don't listen to those little voices
+I don't let the guilty feeling shake me
+You can have your cake and eat it baby
+
+We're riding on the escalator of life
+We're shopping in the human mall
+We're dancing on the escalator of life
+Won't be happy 'til we have it all
+
+Hey girl, I'm a personal friend of Gloria Vanderbilt
+I got all the gold in the world around my neck
+Come ride the steel dinosaur
+Run wild in the jungle
+Its a Zulu Nation
+Seduction, sacrifice, a new sensation
+Nothing ever changes
+
+We're riding on the escalator of life
+We're shopping in the human mall
+We're dancing on the escalator of life
+Won't be happy 'til we have it all

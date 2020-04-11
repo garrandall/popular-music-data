@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-lied-deborah-allen
+lyrics_url: https://genius.com/Deborah-allen-baby-i-lied-lyrics
 name: Baby I Lied
 rankings:
 - end_date: '1983-10-21'
@@ -91,4 +92,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
 ---
+Did I say I wouldn't be hurt if our love just didn't work?
+Did I say that I'd be okay if you said good-bye?
+And did I promise you
+I could take it if we were through
+And forget about these feelings inside?
 
+Baby I lied
+When I told you I could walk away
+Baby I lied
+And forget about the love we made
+
+I swear on my heart
+I was telling the truth at the time
+Baby I lied
+Baby I lied
+
+And did I ever tell myself
+I could always find someone else?
+Did I say if you left today it'd be no surprise?
+Did I ever leave any doubt
+I could hold up if you walked out?
+I know I told you that I could survive
+
+Baby I lied
+When I told you I could walk away
+Baby I lied
+And forget about the love we made
+I swear on my heart
+I was telling the truth at the time
+Baby I lied
+Baby I lied
+
+And now that I can see you walking out of my life
+Saying good-bye
+I realize
+Baby, baby, baby

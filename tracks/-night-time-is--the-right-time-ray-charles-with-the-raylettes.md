@@ -1,7 +1,8 @@
 ---
 artists:
-- Ray Charles with the Raylettes
-features: []
+- Ray Charles
+features:
+- The Raelettes
 genres: []
 key: -night-time-is--the-right-time-ray-charles-with-the-raylettes
 name: (Night Time Is) The Right Time

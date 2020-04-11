@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-no-good-linda-ronstadt
+lyrics_url: https://genius.com/Linda-ronstadt-youre-no-good-lyrics
 name: You're No Good
 rankings:
 - end_date: '1974-12-13'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
 ---
+Feeling better now that we're through
+Feeling better cause I'm over you
+I learned my lesson, it left a scar
+Now I see how you really are
 
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+I'm gonna say it again
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+I broke a heart that's gentle and true
+Well I broke a heart over someone like you
+I'll beg his forgiveness on bended knee
+I wouldn't blame him if he said to me
+
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+I'm gonna say it again
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+
+
+I'm turning you down baby and I'm going my way
+Forget about you baby cause I'm leaving to stay
+
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+I'm gonna say it again
+You're no good
+You're no good
+You're no good
+Baby you're no good
+
+Oh, oh no
+You're no good
+You're no good
+You're no good
+Baby you're no good

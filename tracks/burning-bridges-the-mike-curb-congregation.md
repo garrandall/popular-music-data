@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: burning-bridges-the-mike-curb-congregation
+lyrics_url: https://genius.com/Mike-curb-congregation-burning-bridges-lyrics
 name: Burning Bridges
 rankings:
 - end_date: '1970-11-13'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
 ---
+Friends all tried to warn me
+But I held my head up high
+All the time they warned me
+But I only passed them by
+They all tried to tell me
+But I guess I didn't care
+I turned my back
+And left them standing there
 
+
+All the burning bridges
+That have fallen after me
+All the lonely feelings
+And the burning memories
+Everyone I left behind
+Each time I closed the door
+Burning bridges lost forevermore
+
+
+Joey tried to help me find a job
+A while ago
+When I finally got it
+I didn't want to go
+The party Mary gave for me
+When I just walked away
+Now there's nothing left for me to say
+
+
+All the burning bridges
+That have fallen after me
+All the lonely feelings
+And the burning memories
+Everyone I left behind
+Each time I closed the door
+Burning bridges lost forevermore
+
+
+Years have passed and I keep thinking
+What a fool I've been
+I look back into the past and
+Think of way back then
+I know that I lost everything
+I thought I that could win
+I guess I should have listened to my friends
+
+
+All the burning bridges
+That have fallen after me
+All the lonely feelings
+And the burning memories
+Everyone I left behind
+Each time I closed the door
+Burning bridges lost forevermore
+
+
+Burning bridges lost forevermore

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: precious-love-bob-welch
+lyrics_url: https://genius.com/Bob-welch-precious-love-lyrics
 name: Precious Love
 rankings:
 - end_date: '1979-02-16'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+You got those big dark eyes that flash at me, baby
+You got a head on your shoulders, you know what I mean
+You got legs so long like you could walk on air
+For you darlin', I'd go anywhere
 
+
+For your love, your precious love
+I' d do anything, yes I would
+I want your love, your preicous love
+I' ve been too lonely too long
+
+You got a kind of walk that's just so fine
+The way you fill those blue jeans baby, my my my
+Yes and when you smiled at me like you did just now
+All I want is just to get to you somehow
+
+
+Yeah those big dark eyes that flash at me
+It's just your preicous love that I want, you to see

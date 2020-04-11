@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-wanna-get-to-heaven-ozark-mountain-daredevils
+lyrics_url: https://genius.com/Ozark-mountain-daredevils-if-you-wanna-get-to-heaven-lyrics
 name: If You Wanna Get To Heaven
 rankings:
 - end_date: '1974-04-26'
@@ -72,3 +73,39 @@ rankings:
   start_date: '1974-08-03'
 ---
 
+
+I never read it in a book
+I never saw it on a show
+But I heard it in the alley
+On a weird radio
+If you want a drink of water
+You got to get it from a well
+If you want to get to heaven
+You got to raise a little hell
+
+I never felt it in my feet
+I never felt it in my soul
+But I heard it the alley
+Now it's in my rock and roll
+If you want to know a secret
+You got to promise not to tell
+If you want to get to heaven
+You got to raise a little hell
+
+
+
+I never thought it'd be so easy
+I never thought it'd be so fun
+But I heard it in the alley
+Now I got it on the run
+If you want to see an angel
+You got to find it where it fell
+If you want to get to heaven
+You got to raise a little hell
+
+
+
+If you want to get to heaven
+If you want to get to heaven
+If you want to get to heaven
+If you want to get to heaven

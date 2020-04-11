@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: expressway--to-your-heart--soul-survivors
+lyrics_url: https://genius.com/The-soul-survivors-expressway-to-your-heart-lyrics
 name: Expressway (To Your Heart)
 rankings:
 - end_date: '1967-09-08'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
 ---
+I've been tryin' to get to you for a long time
+'Cause constantly you been on my mind
+I was thinkin' about a shortcut I could take
+But it seems like I made a mistake
 
+
+But I was wrong
+Ooh, took too long
+I got caught in the rush hour
+Then fellas started to shower
+You with love and affection
+Now you won't look in my direction
+
+
+On the expressway to your heart
+That expressway, not the best way
+At five o'clock
+It's much too crowded (too crowded)
+It was much too crowded (too crowded)
+So crowded (too crowded)
+It was much too crowded, oh yeah (oh, too crowded)
+So, so, so crowded (oh, too crowded)
+
+
+There's too many ahead of me
+They're all tryin' to get in front of me
+I thought that I could find a clear road ahead
+But I found stop lights instead
+
+
+But I was wrong
+Baby, took too long
+I got caught in the rush hour
+Then fellas started to shower
+You with love and affection
+Come on, look in my direction
+
+
+On the expressway to your heart
+That expressway, not the best way
+At five o'clock
+It's much too crowded (too crowded)
+Much too crowded (too crowded)
+So crowded (too crowded)
+No room for me (oh, too crowded)
+(Oh, too crowded)

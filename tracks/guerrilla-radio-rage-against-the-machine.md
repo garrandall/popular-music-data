@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guerrilla-radio-rage-against-the-machine
+lyrics_url: https://genius.com/Rage-against-the-machine-guerrilla-radio-lyrics
 name: Guerrilla Radio
 rankings:
 - end_date: '1999-11-05'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
 ---
+Transmission, third World War, third round
+A decade of the weapon of sound above ground
+No shelter if you're looking for shade
+I lick shots at the brutal charade
+As the polls close like a casket, on truth devoured
+A silent play on the shadow of power
+A spectacle monopolized
+The camera's eyes on choice disguised
+Was it cast for the mass who burn and toil?
+Or for the vultures who thirst for blood and oil?
+Yes, a spectacle monopolized
+They hold the reins, stole your eyes
+All the Fistagons, the bullets, and bombs
+Who stuff the banks, who staff the party ranks
+More for Gore, or the son of a drug lord
+None of the above, fuck it, cut the cord!
 
+
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+
+
+Contact, I hijacked the frequencies
+Blockin' the beltway, move on DC!
+Way past the days of bombin' MCs'
+Sound off, Mumia go on be free!
+Who got 'em? Yo, check the federal file
+All you pendejos know the trial was vile
+An army of pigs try to silence my style
+Off 'em all out that box, it's my radio dial!
+
+
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+Lights out, guerrilla radio!
+Turn that shit up!
+
+
+It has to start somewhere
+It has to start sometime
+What better place than here?
+What better time than now?
+
+
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now
+All hell can't stop us now

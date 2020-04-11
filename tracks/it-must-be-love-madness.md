@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-must-be-love-madness
+lyrics_url: https://genius.com/Madness-it-must-be-love-lyrics
 name: It Must Be Love
 rankings:
 - end_date: '1983-08-26'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
 ---
+I never thought I'd miss you
+Half as much as I do
+And I never thought I'd feel this way
+The way I feel about you
 
+
+As soon as I wake up every night every day
+I know that it's you I need
+To take the blues away
+
+
+It must be love, love, love
+It must be love, love, love
+Nothing more, nothing less
+Love is the best
+
+
+How can it be that we can
+Say so much without words
+Bless you and bless me
+Bless the bees and the birds
+
+
+I've got to be near you every night, every day
+I couldn't be happy any other way
+
+
+It must be love, love, love
+It must be love, love, love
+Nothing more, nothing less
+Love is the best
+
+
+As soon as I wake up every night every day
+I know that it's you I need
+To take the blues away
+
+
+It must be love, love, love
+It must be love, love, love
+It must be love, love, love
+It must be love, love, love
+It must be love, love, love
+It must be love...

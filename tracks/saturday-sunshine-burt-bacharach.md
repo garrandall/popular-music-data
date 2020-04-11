@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: saturday-sunshine-burt-bacharach
+lyrics_url: https://genius.com/Burt-bacharach-saturday-sunshine-lyrics
 name: Saturday Sunshine
 rankings:
 - end_date: '1963-08-02'
@@ -19,4 +20,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
 ---
+Friday rain always brings
+Saturday sunshine
+And love!
 
+Friday rain always brings
+Saturday sunshine
+And love!
+
+Saturday sunshine
+And love!

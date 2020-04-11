@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: live-and-let-die-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-live-and-let-die-lyrics
 name: Live And Let Die
 rankings:
 - end_date: '1973-07-13'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
 ---
+When you were young and your heart was an open book
+You used to say live and let live
+(You know you did, you know you did, you know you did)
+But if this ever changing world in which we're living
+Makes you give in and cry
 
+
+Say live and let die
+(Live and let die)
+Live and let die
+(Live and let die)
+
+
+
+
+What does it matter to you?
+When you got a job to do
+You got to do it well
+You got to give the other fellow hell
+
+
+You used to say live and let live
+(You know you did, you know you did, you know you did)
+But if this ever changing world in which we're living
+Makes you give in and cry
+
+
+Say live and let die
+(Live and let die)
+Live and let die
+(Live and let die)
+
+
+
+
+You used to say "Live and let live" yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: french-kissin-debbie-harry
+lyrics_url: https://genius.com/Debbie-harry-french-kissin-lyrics
 name: French Kissin
 rankings:
 - end_date: '1986-11-28'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+Love's touch comes to mean so much
+(Embrasser c'est Francais, Embrasser c'est Francais)
+Love's way, S'abandonner
+(Embrasser c'est Francais, Embrasser c'est Francais)
+Slip inot the velvet glove
+Parted lips so filled with love
+(Embrasser c'est Francais, Embrasser c'est Francais)
+French kissin' in the USA
+French kissin' in the USA
+Hey French kissin'
+French kissin' in the USA
+French kissin' in the USA
+Lips are in motion
+(Ocean to ocean) Woah
+Paris is calling
+(Falling, we're falling, Oooh Oh Oh)
+Lips close then blossom like a rose
+(Embrasser c'est Francais, Embrasser c'est Francais)
+Lips wide holding you inside
 
+(Embrasser c'est Francais, Embrasser c'est Francais)
+Kisses hard kisses deep, a kiss to wake us from our sleep
+(Embrasser c'est Francais, Embrasser c'est Francais)
+Take you lover by the hand, speak in tongues and understand
+French kissin' in the USA
+French kissin' in the USA
+Hey French kissin'
+French kissin' in the USA
+French kissin' in the USA
+Lips are in motion
+(Ocean to ocean) Woah
+Paris is calling
+(Falling, we're falling, Oooh Oh Oh)
+French kissin' in the USA
+French kissin' in the USA
+Hey French kissin'
+French kissin' in the USA
+French kissin' in the USA

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-as-you-are-peter-wolf
+lyrics_url: https://genius.com/Peter-wolf-come-as-you-are-lyrics
 name: Come As You Are
 rankings:
 - end_date: '1987-03-06'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
 ---
+They hung a sign out, sign out after seven
+Down at the hive where youre such a busy bee
+So sign in honey, sign up for heaven
+Just you tonight, its you and me
 
+Come as you are, now come on
+Come as you are, and well have a ball
+Ain't gonna be no masquerade
+Come as you are, or dont come at all
+
+Therell be a high time, high time after layside
+Barry and the boys are going in for free
+Well jump the moon, take it for a joyride
+I stuck it up there for you and me
+
+Come as you are, now come on
+Come as you are, and well have a ball
+Ain't gonna be no masquerade
+Come as you are, or dont come at all
+
+Im just a bluebird, bluebird at your window
+And if you show, such a pretty sight to see
+But like the dawn? I know what youre into
+Come its you and me
+
+Come as you are, now come on
+Come as you are, and well have a ball
+Ain't gonna be no masquerade
+Come as you are, or dont come at all

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: james-brown-is-dead-l-a--style
+lyrics_url: https://genius.com/La-style-james-brown-is-dead-lyrics
 name: James Brown Is Dead
 rankings:
 - end_date: '1992-04-17'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-29'
 ---
+Mass hysteria, this is techno
+House is not my home but it rocks though
+I checked up on the late great J.B
+His death is said on national TV
+How, when, and why these are the
+Main things that I heard when I stroll down the lane
+Of memory
+Man are you with that
+James Brown is dead
 
+Total chaos, man it's resurrected
+I'm confused that things are gettin' hectic
+In my brain, what is happenin'
+Could this be a big misunderstanding
+It is
+The hardest working man in show biz is alive so yo bust this
+Don't be mislead 'cause the newsman said
+James Brown is dead
+
+James Brown is dead
+
+James Brown is dead
+
+Nightmare is over
+Now I'm awoke
+Grab the mike, rip shit and go for broke
+The musical masterpiece release that these
+Now I will get much respect from MCs
+Arrive the way, cause I heard him say
+This is fly, this cool type of guy
+He's dope, and oh so bad
+James Brown is dead
+
+James Brown is dead
+
+James Brown is dead

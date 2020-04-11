@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looking-for-you-kirk-franklin
+lyrics_url: https://genius.com/Kirk-franklin-looking-for-you-lyrics
 name: Looking For You
 rankings:
 - end_date: '2005-12-16'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
 ---
+I've been down so long
+I've been hurt for so long
+There were times I thought I'd never so the break of day
+It was hard for me to see your plan for me
+And I tried to believe surely it won't last always
 
+
+But night after night
+Night after night
+Night after night
+I pray Lord, don't take Your joy from me
+Then late one night I read in Your love letter that it's gonna get better
+
+
+Don't you know that
+I've been looking for you
+I realized that nothing else will satisfy me
+I'm so glad I found You
+Now that I'm changed no one can keep me away from You
+
+
+When my enemies, tried to come for me
+And they thought that my world was coming to an end
+All the while You knew
+That I would make it through
+I feel closer to You now than I was when I first began
+
+
+Jesus, You are
+Jesus, You are
+Jesus, You are
+You are my sunlight after the rain
+Wherever You are
+I just wanna be near You
+I'm so glad I can hear You
+
+
+Don't You know that
+I've been looking for You
+I realized that nothing else will satisfy me
+I'm so glad I found You
+Now that I'm changed no one can keep me away from You
+
+Don't You know that
+I've been looking for You
+I realized that nothing else will satisfy me
+I'm so glad I found You
+Now that I'm changed no one can keep me away from You
+
+
+Oh oh
+Oh, oh, oh
+Oh oh
+Oh, oh, oh
+Oh oh
+Oh, oh, oh
+Oh oh
+Oh, oh, oh
+
+
+Jesus, You are
+Jesus, You are
+Jesus, You are
+You are my sunlight after the rain
+Wherever You are
+I just wanna be near You
+I so glad I can hear You
+
+
+Don't You know that
+I've been looking for You
+I realized that nothing else will satisfy me
+I'm so glad I found You
+Now that I'm changed no one can keep me away from You
+
+Oh oh
+Oh oh, oh (oh, oh, oh, oh, oh oh)
+Oh oh
+Oh, oh, oh (oh, oh, oh, oh, oh, oh)
+Oh oh
+Oh, oh, oh (oh, oh, oh, oh, oh, oh)
+Oh oh
+Oh, oh, oh (oh, oh, oh, oh, oh, oh)

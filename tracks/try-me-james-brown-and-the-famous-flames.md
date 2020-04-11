@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: try-me-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-try-me-lyrics
 name: Try Me
 rankings:
 - end_date: '1958-12-21'
@@ -59,4 +60,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
 ---
-
+Try me (try me), Try me (try me)
+Darling tell me
+I need you
+Try me (try me), Try me (try me)
+And your love will always be true
+Oh, I need you (I need you)
+Hold me (hold me), Hold me (hold me)
+I want you right here by my side
+Hold me (hold me), Hold me (hold me)
+And your love we won't hide
+Oh I need you (I need you)
+Oh i need you (I need you)
+Oh oh walk with me (walk with me)
+Talk with me (talk with me)
+I want you to stop my heart from crying
+Walk with me (walk with me)
+Talk with me (talk with me)
+And your love stops my heart from dying
+Oh I need you (I need you hoo hoo)

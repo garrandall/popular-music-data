@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-get-what-you-want-joe-jackson
+lyrics_url: https://genius.com/Joe-jackson-you-cant-get-what-you-want-lyrics
 name: You Can't Get What You Want
 rankings:
 - end_date: '1984-04-27'
@@ -71,4 +72,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
 ---
-
+Sometimes you start feelin'
+So lost and lonely
+Then you'll find
+It's all been in your mind
+Sometimes you think
+Someone is the one and only
+Can't you see
+It could be you and me?
+But if there's any doubt
+Then I think I'll leave it out
+'Cause I'll tell you one thing
+You can't get what you want
+Till you know what you want
+Said, you can't get what you want
+Till you know what you want?
+Sometimes you keep busy
+Reaching out for something
+You don't care
+There's always something there
+Sometimes you can't see
+That all you need is one thing
+If it's right, you could sleep at night
+But it can take some time
+But at least I'm here in line
+'Cause I'll tell you one thing
+You can't get what you want
+Till you know what you want
+Said, you can't get what you want
+Till you know what you want
+Sometimes you can't see
+That all you need is one thing
+If it's right, you could sleep at night
+But it can take some time
+But at least I'm here in line
+'Cause I'll tell you one thing
+You can't get what you want
+Till you know what you want
+Said, you can't get what you want
+Till you know what you want
+Tell everyone
+You can't get what you want
+What you want?
+Tell everyone
+You can't get what you want
+What you want?

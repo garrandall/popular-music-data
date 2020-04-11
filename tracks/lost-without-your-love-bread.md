@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lost-without-your-love-bread
+lyrics_url: https://genius.com/Bread-lost-without-your-love-lyrics
 name: Lost Without Your Love
 rankings:
 - end_date: '1976-12-03'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
 ---
+Lost and all alone
+I always thought
+That I could make it on my own
 
+Since you left
+I hardly make it through the day
+My tears get in the way
+And I need you back to stay
+
+I wander through the night
+And search the world to find
+The words to make it right
+
+All I want is just
+The way it used to be
+With you here close to me
+I've got to make you see
+
+That I'm lost without your love
+Life without you
+Isn't worth the trouble of
+
+I'm as helpless
+As a ship without a wheel
+A touch without a feel
+I can't believe it's real
+
+And someday soon
+I'll wake
+And find my heart
+Won't have to break
+
+Yes, I'm lost without your love
+Life without you isn't
+Worth the trouble of
+
+All I want is just
+The way it used to be
+I need you here with me
+
+Oh, darling
+Can't you see?
+If we had love before
+We can have it back once more

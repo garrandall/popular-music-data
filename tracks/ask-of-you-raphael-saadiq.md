@@ -127,8 +127,8 @@ So show me the way that this could happen soon
 I'll be right there on time
 It's your place or mine
 Just show me the place
-{I really love you} I really love you
-{I love you Deja} I love you Deja
+ I really love you
+ I love you Deja
 
 Just give me all your lovin'
 (All your love)
@@ -149,12 +149,12 @@ Little things I do (Little things)
 It's just because of you
 (It's just because it's you)
 
-See, time is all we need {Time}
+See, time is all we need
 Sing it, partner
 And time is all we have
 Just show me the place
-{I really love you} I really love you
-{I love you Deja} I love you Deja, love
+ I really love you
+ I love you Deja, love
 
 Just give me all your lovin'
 (All your love)

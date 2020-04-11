@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spanish-lace-gene-mcdaniels
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-McDaniels/Spanish-Lace
 name: Spanish Lace
 rankings:
 - end_date: '1962-11-16'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
 ---
-
+She was standing there, so beyond compare, in Spanish lace My heart touched the sky, captivated by her angel face Dancing neath the moon I soon discovered the new world that lovers always find When I saw her there, so beyond compare, in Spanish lace We danced away the night, until the morning light said Time to go I knew we'd have to part, but sadness filled my heart, I loved her so And now that love has flown, alone, I think of the heartaches that I will have to face Dreaming of that night, the stars that shone so bright, and Spanish lace And now that love has flown, alone, I think of the heartaches that I will have to face Dreaming of that night, and stars that shone so bright, and Spanish lace Dreaming of that night, and stars that shone so bright, and Spanish lace Dreaming of that night, and stars that shone so bright, and Spanish lace

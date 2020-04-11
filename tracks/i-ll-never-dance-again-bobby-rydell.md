@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-dance-again-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-ill-never-dance-again-lyrics
 name: I'll Never Dance Again
 rankings:
 - end_date: '1962-06-08'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
 ---
+My soul was a-swayin' to the beat of your heart
+And your lips were sayin' that we won't dance apart
+Now someone else is holding you the way I did the-eh-eh eh-en
+So I'll never, no I'll never, never dance again., whoa oh no
 
+Oh I've danced with others just to show I don't care
+But my arms discovered that the thrill wasn't there
+Unless my arms are holding you the way I did the-eh-eh eh-en
+So I'll never, no I'll never, never dance again whoa oh no
+
+I'll stay off the dance floor till mem'ries grow di-i-i-i-m
+'cause my heart would break to see you take every step with him
+
+I'll survive seein' ya sighin' on that shoulder of his
+Oh how I've been cryin' knowin' how sweet that is
+So while that guy is holding you the way I did the-eh-eh eh-en
+I will never, no no I'll never never dance again-oh I'll never
+
+No, darlin' no I will never no no I'll never never dance again
+No, darlin' no I will never no no I'll never never dance again
+Say baby no I will never whoa-oh I'll never never dance again
+Hey baby no I will never no-o-o-o-o-o-o-o I'll never never dance again
+NO BABY NO I will never

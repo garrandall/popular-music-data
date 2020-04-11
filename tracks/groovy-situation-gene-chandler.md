@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: groovy-situation-gene-chandler
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-Chandler-Will-Ferrell/Groovy-Situation-Anchorman-Medley
 name: Groovy Situation
 rankings:
 - end_date: '1970-07-17'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
 ---
-
+That girl I'm gonna make her mine
+If it takes all night
+That girl I'm gonna make her mine
+If it takes all night
+Good evening sweet darling
+May I ask your name
+You seem to be lonely
+Well don't worry I'm feeling the same
+Oh, it's a groovy situation
+A splendid combination
+That we should meet
+At a time like this
+Oh it's a groovy situation
+A splendid combination
+You're something that
+I just can't miss
+It's been a long time sweet darling
+Since love has come my way
+But I'm trying so hard
+To find the right words to say
+Oh, it's a groovy situation
+A splendid combination
+That we should meet
+At a time like this
+Oh it's a groovy situation
+A splendid combination
+You're something that
+I just can't miss

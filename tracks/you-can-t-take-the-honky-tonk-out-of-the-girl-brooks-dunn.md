@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-take-the-honky-tonk-out-of-the-girl-brooks-dunn
+lyrics_url: https://genius.com/Brooks-and-dunn-you-cant-take-the-honky-tonk-out-of-the-girl-lyrics
 name: You Can't Take The Honky Tonk Out Of The Girl
 rankings:
 - end_date: '2003-11-14'
@@ -88,4 +89,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
 ---
+Connie came back for her second cousin's wedding
+First time she'd been home in a year or two
+Just in time for the rehearsal dinner
+That crazy Connie wasn't wearing any shoes
 
+
+Yeah, she lives in LA, she flies to New York City
+That woman's been around the world
+You can take the girl out of the honky tonk
+But you can't take the honky tonk
+Take the honky tonk out of the girl
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+
+
+Well, that dinner broke up at around 11:30
+Boys went out to do what boys do
+And Connie said hey girls lets huddle up
+Around something 'bout a hundred proof
+
+
+She lives in LA, she flies to New York City
+That woman's been around the world
+You can take the girl out of the honky tonk
+But you can't take the honky tonk
+Take the honky tonk out of the girl
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+
+
+Well, at nine a.m., out in front of that church
+People are going nuts, looking for the groom
+And somebody says hey Bonnie by the way where is Connie
+She's run off with that boy to Cancun
+
+
+Yeah, she lives in LA, she flies to New York City
+That woman's been around the world
+You can take the girl out of the honky tonk
+But you can't take the honky tonk
+Take the honky tonk out of the girl
+Ooh-ooh-ooh-ooh
+
+
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh

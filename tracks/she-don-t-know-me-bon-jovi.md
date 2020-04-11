@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-don-t-know-me-bon-jovi
+lyrics_url: https://genius.com/Bon-jovi-she-dont-know-me-lyrics
 name: She Don't Know Me
 rankings:
 - end_date: '1984-06-01'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
 ---
+What more can I do, there's nothing I haven't tried
+Still it's so hard for her to notice
+I've tried hard to be straight
+There's nothing left I can say
+If only she would look my way
 
+
+She don't know me, she don't know
+She don't see me, she don't care
+She can't hear me, she can't hear
+Can not help me, she don't want
+She don't want me like I want her
+Like I wan't her got to tell her
+Got to tell her that I love her
+That I love her
+She doesn't even know my name
+
+
+I dream of when she'll be mine
+I dream of crossing that line
+And holding her so tender
+Dreaming it could come true
+So many things I would do
+If only you'd give me a chance
+
+
+She don't know me, she don't know
+She don't see me, she don't care
+She can't hear me, she can't hear
+Can not help me, she don't want
+She don't want me like I want her
+Like I want her, got to tell her
+Got to tell her that I love her
+That I love her
+She doesn't even know my name

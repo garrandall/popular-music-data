@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somewhere-between-love-and-tomorrow-roy-clark
+lyrics_url: https://genius.com/Roy-clark-somewhere-between-love-and-tomorrow-lyrics
 name: Somewhere Between Love And Tomorrow
 rankings:
 - end_date: '1973-12-21'
@@ -27,4 +28,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
 ---
+You gave your love completely
+And warmed my life, so cold
+But she stills lives between us
+And our story must be told
 
+Today, she thinks I love her
+But tomorrow, we'll be through
+And somewhere between love and tomorrow
+She'll have to know about you
+
+We vowed to love forever
+And never be untrue
+But time can change and rearrange
+Your world from green to blue
+
+But then you came to love me
+And you made the sun shine through
+And somewhere between love and tomorrow
+She'll have to know about you
+
+It's sad for love to die now
+After all that we've been through
+But somewhere between love and tomorrow
+I fell in love with you

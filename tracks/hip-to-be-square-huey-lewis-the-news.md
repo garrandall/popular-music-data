@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: hip-to-be-square-huey-lewis-the-news
@@ -74,10 +73,10 @@ rankings:
   start_date: '1987-01-31'
 ---
 
-I used to be a renegade, I used to fool around 
-But I couldn't take the punishment and had to settle down 
-Now I'm playing it real straight, and yes, I cut my hair 
-You might think I'm crazy, but I don't even care 
+I used to be a renegade, I used to fool around
+But I couldn't take the punishment and had to settle down
+Now I'm playing it real straight, and yes, I cut my hair
+You might think I'm crazy, but I don't even care
 Because I can tell what's going on
 
 It's hip to be square

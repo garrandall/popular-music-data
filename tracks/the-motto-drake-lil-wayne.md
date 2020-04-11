@@ -5,6 +5,7 @@ features:
 - Lil Wayne
 genres: []
 key: the-motto-drake-lil-wayne
+lyrics_url: https://genius.com/Hip-hop-instrumental-kings-drake-feat-lil-wayne-the-motto-instrumental-version-lyrics
 name: The Motto
 rankings:
 - end_date: '2011-12-09'
@@ -148,4 +149,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-07-28'
 ---
-
+Instrumental

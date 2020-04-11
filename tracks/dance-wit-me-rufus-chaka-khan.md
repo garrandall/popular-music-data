@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: dance-wit-me-rufus-chaka-khan
+lyrics_url: https://genius.com/Rufus-dance-wit-me-lyrics
 name: Dance Wit Me
 rankings:
 - end_date: '1976-05-07'
@@ -40,4 +41,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
 ---
+Dance wit me ev'rybody dance wit me
+Dance wit me ev'rybody dance wit me
+Dance wit me ev'rybody dance wit me
+Dance wit me ev'rybody dance wit me
 
+If you feel like dancing all night long
+Band goin strike it up and play you a party song
+If what you feel is real
+Then we gon' get down and groove
+Love the way you party
+Love the way you move
+
+Know the joint is jumping people bumpin away
+We got this groove and you know that it's here to stay
+So if you feel like dancin
+Put on your dancin shoes
+Love the way you party
+Love the way you move

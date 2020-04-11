@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-old-black-magic-louis-prima-and-keely-smith
+lyrics_url: https://genius.com/Louis-prima-and-keely-smith-that-old-black-magic-live-lyrics
 name: That Old Black Magic
 rankings:
 - end_date: '1958-11-09'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-26'
 ---
+Old black magic has me in its spell
+Old black magic that you weave so well
+Those icy fingers up and down my spine
+The same old witchcraft when your eyes meet mine
 
+The same old tingle that I feel inside
+And then that elevator starts its ride
+And down and down I go, 'round and 'round I go
+Like a leaf caught in the tide
+
+I should stay away, but what can I do?
+I hear your name and I'm aflame
+Aflame with such a burning desire
+That only your kiss can put out the fire
+
+For you're the lover I have waited for
+You're the mate that fate had me created for
+And every time your lips meet mine
+Baby, down and down I go, 'round and 'round I go
+In a spin, loving the spin I'm in
+Under the old black magic called love
+In a spin, loving the spin I'm in
+Under the old black magic called love
+In a spin, loving the spin I'm in
+Under the old black magic called love
+
+I should stay away, but what can I do?
+I hear your name and I'm aflame
+Aflame with such a burning desire
+That only your kiss can put out the fire
+
+For you're the lover I have waited for
+You're the mate that fate had me created for
+And every time your lips meet mine
+Baby, down and down I go, 'round and 'round I go
+In a spin, loving the spin I'm in
+Under the old black magic called love
+In a spin, loving the spin I'm in
+Under the old black magic called love
+In a spin, loving the spin I'm in
+Under the old black magic called love
+
+Under the old black magic called love

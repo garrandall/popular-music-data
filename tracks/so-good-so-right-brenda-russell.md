@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-good-so-right-brenda-russell
+lyrics_url: https://genius.com/Brenda-russell-so-good-so-right-lyrics
 name: So Good So Right
 rankings:
 - end_date: '1979-08-24'
@@ -75,4 +76,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
 ---
+We're on the shores of nowhere, looking out to sea
+I turn and kiss your face and you laugh at me
+You laugh at me
 
+
+How do I feel? Well I feel like rain
+Feel like saying
+It feels so good, so right
+To be with tonight
+
+
+(So good, so right)
+(To be with you tonight)
+(So good, so right) hight
+(To be with you tonight)
+
+
+There is no space between the ocean, you, and me
+Exchanging life force as we live and breath
+Together we'll be
+
+
+How do I feel when I feel like being
+Feel like singing
+Feels so good, so right
+To be with you tonight
+
+
+(So good, so right)
+(To be with you tonight)
+(So good, so right) hight
+(To be with you-ou)
+
+
+(Oowee oowee ooh ooh ooh oohhhhh)
+(Oowee oowee ooh ooh ooh oohhhhh)
+
+
+You make me feel so young, the way you laugh and play
+Like a child in the sun, you know I wanna stay-ay
+In lo-ove this way
+
+
+How do I feel when I feel like praying
+(Fee-ee-eel like saying) whoaa
+Feels so good, so right
+To beeeee with you
+
+
+(So good, so right)
+(To be with you tonight)
+(So good, so right)
+(To be with you tonight)
+(So good, so right)
+(To be with you tonight)
+(So good, so right)
+(To be with you tonight)
+(So good, so right)
+Hey baby (oohooh)
+(So good, so right)
+You know it feels so goo-ood, ahhhahhhhh
+(So good, so right)
+You know it feels so good
+Uh-huh
+(To be with you tonight) uh-huh
+(So good, so right)
+(To be with you tonight)
+(So good, so right)
+(To be with you tonight)

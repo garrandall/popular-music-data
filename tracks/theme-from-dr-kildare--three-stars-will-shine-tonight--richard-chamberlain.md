@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-dr-kildare--three-stars-will-shine-tonight--richard-chamberlain
+lyrics_url: https://genius.com/Richard-chamberlain-theme-from-dr-kildare-lyrics
 name: Theme From Dr Kildare (Three Stars Will Shine Tonight)
 rankings:
 - end_date: '1962-06-08'
@@ -63,4 +64,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
 ---
-
+Three stars will shine tonight, one for the lonely
+That star will shine its light each time that someone sighs
+Three stars for all to see, one for young lovers
+That star was made to be the sparkle in their eyes
+And, for the third star, only one reason
+A star you can wish on to make dreams come true
+High in the sky above, three stars are shining
+I hope that star of love will shine down on you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-coming-out-diana-ross
+lyrics_url: https://genius.com/Diana-ross-im-coming-out-lyrics
 name: I'm Coming Out
 rankings:
 - end_date: '1980-09-12'
@@ -99,4 +100,102 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+I'm ... coming ... out
+I'm coming
+I'm ... coming ... out
+I'm coming out
 
+I'm coming ... out
+I'm ... coming ... out
+
+
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+
+
+There's a new me coming out
+And I just had to live
+And I wanna give
+I'm completely positive
+I think this time around
+I am gonna do it
+Like you never knew it
+Oh, I'll make it through
+The time has come for me
+To break out of this shell
+I have to shout
+That I am coming out
+
+
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+
+
+I've got to show the world
+All that I wanna be
+And all my abilities
+There's so much more to me
+Somehow I'll have to make them
+Just understand
+I got it well in hand
+And oh how I have planned
+I'm spreadin' love
+There is no need to fear
+And I just feel so good
+Every time I hear
+
+
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+I'm coming out
+I want the world to know
+I got to let it show
+
+
+
+
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+Got to let it show
+I'm coming out
+I want the world to know
+Got to let it show
+
+I'm, I'm coming out
+I have to shout, that I'm coming out
+I want the world to know
+Got to let it show
+I'm coming, I'm coming out

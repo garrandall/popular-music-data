@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-to-me-otis-redding
+lyrics_url: https://genius.com/Otis-redding-come-to-me-lyrics
 name: Come To Me
 rankings:
 - end_date: '1964-03-27'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+Come to me for I'm lonely
+Come to me for I'm lonely, darling
+Come to me and be my girl
+For I love, love you so
 
+
+Come to me forget the past
+Think of life we have ahead, my my my my baby
+Come to me and be my girl
+For I love, love, love you so, oh now
+
+
+Day are getting so lonely, yeah now
+Life's so heavy, so blue
+Time has come for you and I
+To get together and we'll make two, my my my my baby
+
+
+Come to me for I'm begging
+Come to me for I'm begging, darling
+Come to me and be my girl
+For I love, love, love you so, yeah
+
+
+Come on now, baby
+Baby, I'm down
+Said I'm down my knees, oh
+I need me someone now
+Said I need some love
+Just to stand right by me, oh
+You know that these arms of mine
+They have been lonely, lonely so long
+But I know, but I know, I know what my heart needs
+I know just what my heart needs, oh

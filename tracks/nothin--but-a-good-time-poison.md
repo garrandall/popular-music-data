@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothin--but-a-good-time-poison
+lyrics_url: https://genius.com/Poison-nothin-but-a-good-time-live-lyrics
 name: Nothin' But A Good Time
 rankings:
 - end_date: '1988-04-29'
@@ -83,4 +84,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
+Nothin' but a good fuckin' day, rock it
+Now listen
 
+Not a dime, I can't pay my rent
+I can barely make it through the week
+Saturday night I wanna do my girl
+Right now I can't make ends meet
+
+I'm always workin', slavin' everyday
+Gotta get a break from same ol', same ol'
+I need a chance just to get away
+You can hear me think, this is what I'd say
+
+Don't need nothin' but a good time
+How can I resist?
+Ain't lookin' for nothin' but a good time
+And it don't get better
+Oh I feel get better and
+
+Spend my money on women and wine
+I couldn't tell you where I spent last night
+Really sorry about the shape I'm in
+Just like my fun, every now and then
+
+I'm always workin', slavin' every day
+Gotta get a break from same ol', same ol'
+I need a chance just to get away
+You can hear me think, this is what I'd say
+
+Don't need nothin' but a good time
+How can I resist?
+Ain't lookin' for nothin' but a good time
+And it don't get better
+All you do to me, oh look it down
+
+You see I raise a toast to all of us
+You're busting your ass every day
+If wantin' the good life is such a crime
+Lord, then put me away, here's to ya
+
+Don't need nothin' but a good time
+How can I resist?
+Ain't lookin' for nothin' but a good time
+And it don't get better, sing it
+
+Don't need nothin' but a good time
+How can I resist?
+Ain't lookin' for nothin' but a good time
+And it don't get better

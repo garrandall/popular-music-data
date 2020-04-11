@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: untie-me-the-tams
+lyrics_url: https://genius.com/The-tams-untie-me-lyrics
 name: Untie Me
 rankings:
 - end_date: '1962-10-26'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+Not too long ago
+You said you'd love me 'til the end
+But lately you're indifferent
+And I can't even be your friend
 
+If I'm really such a bore
+And you don't love me any more
+Leave my heart
+So I can smile again
+
+Untie me
+(Untie me)
+Untie me, baby
+(Untie me)
+
+You're not ever there
+When I need you
+I don't know what to say
+Or what to do, so untie me
+
+If you found a new love
+I won't put the blame on you
+But if you found a true love
+Just let me start my life anew
+
+If I'm really such a bore
+And you don't want me anymore
+Leave my heart
+So I can smile again
+
+And untie me
+Untie me, baby
+
+You're not ever there
+When I need you
+You don't care what I say
+Or what I do, so untie me

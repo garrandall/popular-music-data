@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: life-ain-t-always-beautiful-gary-allan
+lyrics_url: https://genius.com/Gary-allan-life-aint-always-beautiful-lyrics
 name: Life Ain't Always Beautiful
 rankings:
 - end_date: '2006-05-26'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
 ---
+Life ain't always beautiful
+Sometimes it's just plain hard
+Life can knock you down, it can break your heart
 
+Life ain't always beautiful
+You think you're on your way
+And it's just a dead end road at the end of the day
+
+But the struggle makes you stronger
+And the changes make you wise
+And happiness has its own way of takin' its sweet time
+
+No, life ain't always beautiful
+Tears will fall sometimes
+Life ain't always beautiful, but it's a beautiful ride
+
+Life ain't always beautiful
+Some days I miss your smile
+I get tired of walkin' all these lonely miles
+
+And I wish for just one minute
+I could see your pretty face
+Guess I can dream, but life don't work that way
+
+But the struggles makes me stronger
+And the changes make me wise
+And happiness has its own way of takin' its sweet time
+
+No, life ain't always beautiful
+But I know I'll be fine
+Hey, life ain't always beautiful, but its a beautiful ride
+What a beautiful ride

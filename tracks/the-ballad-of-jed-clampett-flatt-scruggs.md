@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-ballad-of-jed-clampett-flatt-scruggs
+lyrics_url: https://www.musixmatch.com/lyrics/Flatt-feat-Scruggs/The-Ballad-of-Jed-Clampett
 name: The Ballad Of Jed Clampett
 rankings:
 - end_date: '1962-12-14'
@@ -52,4 +53,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
 ---
+Come and listen to a story about a man named Jed
+A poor mountaineer, barely kept his family fed,
+Then one day he was shootin at some food,
+And up through the ground came a bubblin crude.
 
+Oil that is, black gold, Texas tea.
+
+Well the first thing you know ol Jed's a millionaire,
+Kinfolk said Jed move away from there
+Said Californy is the place you ought to be
+So they loaded up the truck and moved to Beverly.
+
+Hills, that is. Swimmin pools, movie stars.
+
+()
+
+Well now its time to say good-bye to Jed and all his kin.
+And they would like to thank you folks fer kindly droppin in.
+You're all invited back next week to this locality
+To have a heapin helpin of their hospitality
+
+Hillbilly that is. Set a spell. Take your shoes off.
+Y'all come back now, y'hear?

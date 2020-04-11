@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turned-away-chuckii-booker
+lyrics_url: https://genius.com/Chuckii-booker-turned-away-lyrics
 name: Turned Away
 rankings:
 - end_date: '1989-07-14'
@@ -63,4 +64,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
 ---
+Turned away, turned away
+Turned away, turned away
+From love
 
+Too many times I feel
+We are losing time once shared
+And only when you're in ecstasy
+You seem to really care
+
+Didn't you say not to worry
+I can only speak for myself
+How do you think that I'm happy, baby
+With a love like mine
+Locked up on a shelf
+
+Remember my love had a place
+It was a part of the game
+And just when I went all the way
+I'm in too deep
+Girl, you made the choice
+And sent away
+
+(Turned away)
+When you should've been giving
+(Turned away) oh
+As I started believing
+(Turned away)
+Just as I was living
+(Turned away from love)
+
+I discovered you were untrue
+So unfortunate for you
+There is nothing that I wouldn't do
+I only gave you the best
+I ever had to you
+
+Don't let sympathy show her face
+Girl, let's not pretend
+I'm no longer in this race
+You've got your space
+Still it hurts me that you
+
+(Turned away)
+When you should've been giving
+(Turned away) oh
+As I started believing
+(Turned away)
+Just as I was living
+(Turned away from love)
+Don't turn away from my love
+(Turned away from my love)
+(Turned away from my love)
+
+(Turned away)
+When you should've been giving
+(Turned away) oh
+As I started believing
+(Turned away)
+Just as I was living
+(Turned away from love)
+
+Turned away from love
+
+(Turned away)
+When you should've been giving
+(Turned away) oh
+As I started believing
+(Turned away)
+Just as I was living
+(Turned away from love)
+Don't turn away from my love
+(Turned away from my love)
+(Turned away from my love)
+
+(Turned away)
+When you should've been giving
+(Turned away) oh
+As I started believing
+(Turned away)
+Just as I was living
+(Turned away from love)
+
+Turned away, turned away
+Turned away, turned away

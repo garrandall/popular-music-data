@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rocket-ride-kiss
+lyrics_url: https://genius.com/Kiss-rocket-ride-lyrics
 name: Rocket Ride
 rankings:
 - end_date: '1978-03-03'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
 ---
+Lady space, you like the way
+I make you feel inside
+Take a rocket ride
+From the start, you wanted to fly
+I got the rocket, and you want the ride
+Take a rocket ride
 
+
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+
+
+Lady space, you better wake up fast
+Countdown is coming on
+Take a rocket ride
+The gravity that used to hold you down
+Just don't exist no more
+Take a rocket ride
+
+
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+
+Come on, grab a hold of my rocket!
+
+
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+Baby wants it fast, baby wants a blast
+She wants a rocket ride, she wants a rocket ride
+
+
+Baby's on her knees, baby wants to please
+She wants a rocket ride, she wants a rocket ride
+Baby's on her knees, baby wants to please
+She wants a rocket ride, she wants a rocket ride

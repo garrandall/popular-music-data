@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-not-america-david-bowie-pat-metheny-group
+lyrics_url: https://www.musixmatch.com/lyrics/David-Bowie-Pat-Metheny-Group-2/This-Is-Not-America
 name: This Is Not America
 rankings:
 - end_date: '1985-02-08'
@@ -55,4 +56,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
 ---
+This is not America
+Shalalalala
 
+Little piece of you
+A little peace in me will die
+(This is not a miracle)
+For this is not America
+
+Blossom fails to bloom this season
+Promise not to stare too long
+(This is not America)
+For this is not the miracle
+
+There was a time
+A storm that blew so pure
+For this could be the biggest sky
+And I could have the faintest idea
+
+For this is not America
+Shalalalala, shalalalala, shalalalala
+
+This is not America
+(No)
+This is not
+Shalalalala
+
+Showman melting from the inside
+Falcon spirals to the ground
+(This could be the biggest sky)
+So bloody red tomorrows' clouds
+
+A little piece of you
+A little peace in me will die
+(This could be a miracle)
+For this is not America
+
+There was a time
+A wind that blew so young
+For this could be the biggest sky
+And I could have the faintest idea
+
+For this is not a miracle
+Shalalalala, shalalalala, shalalalala
+
+This is not America
+(No)
+This is not
+Shalalala
+This is not America
+(No)
+This is not
+
+This is not America
+(No)
+This is not
+Shalalala

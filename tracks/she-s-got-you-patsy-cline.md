@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-got-you-patsy-cline
+lyrics_url: https://www.musixmatch.com/lyrics/Jim-Reeves-Patsy-Cline/She-s-Got-You
 name: She's Got You
 rankings:
 - end_date: '1962-02-02'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
 ---
-
+I've got your picture that you gave to me
+And it's signed with love, just like it used to be
+The only thing different, the only thing new
+I've got your picture, she's got you
+I've got the records that we used to share
+And they still sound the same as when you were here
+The only thing different, the only thing new
+I've got the records, she's got you
+I've got your memory, or has it got me
+I really don't know, but I know it won't let me be
+I've got your class ring that proved you cared
+And it still looks the same as when you gave it, dear
+The only thing different, the only thing new
+I've got these little things, she's got you
+I've got your memory, or has it got me
+I really don't know, but I know it won't let me be
+I've got your class ring that proved you cared
+And it still looks the same as when you gave it, dear
+The only thing different, the only thing new
+I've got these little things, she's got you

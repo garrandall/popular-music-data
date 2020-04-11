@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: move-your-boogie-body-bar-kays
+lyrics_url: https://genius.com/The-bar-kays-move-your-boogie-body-lyrics
 name: Move Your Boogie Body
 rankings:
 - end_date: '1979-12-14'
@@ -35,4 +36,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
 ---
+Move Your Boogie Body
 
+(1st Chorus)
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night, Tonight
+Let's Dance All Night Tonight, Tonight, Let's Dance All Night, Tonight
+Let S Dance All Night Tonight. Tonight, Let's Dance All Night
+
+Stretch Out And Let Your Body Move
+You Ain't Got Nothing But Time
+To Have A Good Time, A Mighty Fine Good Time
+You Ain't Got Nothing To Lose
+I Betcha If You Let Yourself Go
+You Won't Regret You Got Up
+You Gonna Be Dancing Prancing Fancy Dancing
+You'll Be The Star Of The Show
+
+(2nd Chorus)
+We're Here To Let You Know If You Want To Boogie
+Get Out On The Dance Floor, Let's Go, Let Go
+
+(1st Chorus Repeat)
+Come On Party Till The Morning Light
+Let's Dance Away All Our Fears
+We're Going To Have A Good Time, Mighty Fine Good Time
+Cause We Are Funkin In Here
+Get Off Till You Get Enough This Ain't No Time To Give Up
+Cause When Your Bodies Hot Can't Stop, Can't Stop
+Just Go Ahead And Strut Your Stuff
+
+(2nd Chorus Repeat)
+Stand Up Come On, Well, Well, Well
+Move Your Boogie Body, Hey, Hey
+
+Get Out On The Dance Floor, Let's Go, Let Go
+Move Your Boogie Body, Let's Go, Let Go
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+
+Move Your Boogie Body Hey, Hey
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+Move Your Boogie Body You'll Feel Alright
+Move Your Boogie Body Let's Dance All Night
+/math

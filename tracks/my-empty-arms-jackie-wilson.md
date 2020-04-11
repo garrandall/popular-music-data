@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-empty-arms-jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-my-empty-arms-lyrics
 name: My Empty Arms
 rankings:
 - end_date: '1961-01-15'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
 ---
-
+My empty arms
+Are reaching for you
+But like a dream
+You vanish from view
+My lonely lips
+Are hungry for your kisses
+My empty arms
+Can't believe that we're through
+No stars are shining up above tonight
+'Cause you don't love me as you did before
+I'll always love you
+So I'll say no stars are shining
+Until you fill
+My empty arms once more
+I'll always love you
+So I'll say no stars are shining
+Until you fill
+My empty arms once again

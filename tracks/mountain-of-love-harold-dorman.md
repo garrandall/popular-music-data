@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mountain-of-love-harold-dorman
+lyrics_url: https://www.musixmatch.com/lyrics/Harold-Dorman/Mountain-of-Love
 name: Mountain Of Love
 rankings:
 - end_date: '1960-03-06'
@@ -83,4 +84,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
 ---
+Mountain Of Love
+Johnny Rivers
 
+Peak chart position # 9 in 1964
+Original by writer Dorman hit # 21 in 1960
+Ronnie Dove's version managed # 67 in 1968
+
+Standing on a mountain looking down on a city
+The way I feel is a doggone pity
+Teardrops fallin' down a mountainside
+Many times I've been here, many times I've cried
+We used to be so happy when we were in love
+High on a mountain of love
+
+Night after night I'm a-standing here alone
+Weepin' my heart out till cold gray dawn
+Prayin' that you're lonely and you come here too
+Hoping just by chance that I'll get a glimpse of you
+Tryin' hard to find you, somewhere up above
+High on a mountain of love
+
+A mountain of love, a mountain of love, you should be ashamed
+We used to be a mountain of love
+But you just changed your name
+
+Way down below there's a half a million people
+Somewhere there's a church with a big tall steeple
+Inside a church there's an altar filled with flowers
+Wedding bells are ringin' and they shoulda been ours
+That's why I'm so lonely, my dreams gone above
+High on a mountain of love
+
+
+
+A mountain of love, a mountain of love, you should be ashamed
+We used to be a mountain of love
+But you just changed your name
+
+Way down below there's a half a million people
+Somewhere there's a church with a big tall steeple
+Inside a church there's an altar filled with flowers
+Wedding bells are ringin' that shoulda been ours
+>>>>That's why I'm so lonely,? from above

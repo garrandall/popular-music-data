@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodnight-my-love-the-fleetwoods
+lyrics_url: https://genius.com/The-fleetwoods-goodnight-my-love-lyrics
 name: Goodnight My Love
 rankings:
 - end_date: '1963-06-07'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
 ---
+Goodnight, my love (goodnight)
+Pleasant dreams and sleep tight, my love (sleep tight)
+May tomorrow be sunny and bright
+And bring you closer to me
 
+Before you go (before)
+There's just one thing I'd like to know (let me know)
+Is your love is still warm for me
+Or has it grown cold?
+
+If you should awake in the still of the night
+Please have no fear
+For I'll be there
+You know I care
+Please give your love to me, dear, only (give your love)
+
+Goodnight, my love (goodnight)
+Pleasant dreams and sleep tight, my love (sleep tight)
+May tomorrow be sunny and bright
+And bring you closer to me
+
+And bring you closer to me
