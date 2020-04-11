@@ -107,7 +107,6 @@ rankings:
 Hey old friend, thanks for callin'
 It's good to know somebody cares
 Yeah she's gone, but I don't feel like talkin'
-It might be just too much to bear
 To hear somebody say it stops hurting
 Or to hear somebody say she ain't worth it
 
